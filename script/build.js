@@ -5,10 +5,10 @@ const resolve = require('rollup-plugin-node-resolve')
 const cmjs = require('rollup-plugin-commonjs')
 
 const banner = `// ==UserScript==
-// @name         偶像大师ShinyColors汉化
-// @namespace    https://github.com/biuuu/ShinyColors
+// @name         ShinyColorsEng
+// @namespace    https://github.com/snowyivu/ShinyColors
 // @version      ${version}
-// @description  提交翻译或问题请到 https://github.com/biuuu/ShinyColors
+// @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
 // @match        https://shinycolors.enza.fun/*
@@ -17,8 +17,8 @@ const banner = `// ==UserScript==
 // @connect      api.interpreter.caiyunai.com
 // @connect      translate.google.cn
 // @connect      fanyi.baidu.com
-// @updateURL    https://www.shiny.fun/ShinyColors.user.js
-// @supportURL   https://github.com/biuuu/ShinyColors/issues
+// @updateURL    https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js
+// @supportURL   https://github.com/snowyivu/ShinyColors/issues
 // ==/UserScript==`
 module.exports = {
   input: 'src/main.js',
@@ -37,7 +37,7 @@ module.exports = {
   output: {
     file: './dist/ShinyColors.user.js',
     format: 'iife',
-    name: 'shinycolors_zh',
+    name: 'shinycolors_eng',
     banner: banner,
     intro: `const ENVIRONMENT = "${process.env.BUILD === 'development' ? 'development' : ''}";
     const DEV = ${process.env.DEV ? true : false};
