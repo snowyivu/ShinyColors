@@ -45,7 +45,7 @@ const setFont = () => {
 }
 
 const fixDefault = (data) => {
-  if (data.origin === 'https://biuuu.github.io/ShinyColors') {
+  if (data.origin === 'https://snowyivu.github.io/ShinyColors') {
     data.origin = defaultConfig.origin
   }
 }
