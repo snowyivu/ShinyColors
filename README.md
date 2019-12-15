@@ -8,9 +8,9 @@
 
 ---
 ## Introduction
-Install Plugin：[Description](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)
+Install Plugin：[Description](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
 
-Submit Translation：[Description](https://github.com/ShinyGroup/ShinyColors/tree/master/data)
+Submit Translation：[Description](https://github.com/snowyivu/ShinyColors/tree/master/data)
 
 ## Devlopment
 ```bash
@@ -31,5 +31,5 @@ yarn deploy
 ```
 
 ## License
-The code is [MIT](https://github.com/biuuu/ShinyColors/blob/master/LICENSE) licensed,
-but the translation text has another License. see [details](https://github.com/biuuu/ShinyColors/tree/master/data)
+The code is [MIT](https://github.com/snowyivu/ShinyColors/blob/master/LICENSE) licensed,
+but the translation text has another License. see [details](https://github.com/snowyivu/ShinyColors/tree/master/data)
