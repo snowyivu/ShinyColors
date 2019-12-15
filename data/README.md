@@ -1,8 +1,8 @@
-## 翻译数据
+## Translation data
 
-有兴趣一起完善翻译的话，可以加下QQ群讨论：1018154722 。
+If you are interested in helping improve the translation，join the QQ group：1018154722 。
 
-如果还未安装汉化插件，请先看这边的[说明](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)来装上汉化插件。
+If you haven't installed the localization plugin，please look here[Description](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)来装上汉化插件。
 
 **因翻译文本由玩家自发提供，非专业翻译，可能有很多地方都有问题。如果你更合适的翻译或建议，都欢迎随时提交。同样的，出于完善翻译的目的，你自己提交的翻译也可能随时会被修改。**
 
