@@ -1,7 +1,6 @@
-<a href="https://www.shiny.fun/ShinyColors.user.js"><img src="data/image/banner.jpg" alt="检查更新"></a>
+<a href="https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js"><img src="data/image/banner.jpg" alt="Check for updates"></a>
 <p align="center">
-<a href="https://travis-ci.com/biuuu/ShinyColors"><img alt="Build Status" src="https://travis-ci.com/biuuu/ShinyColors.svg?branch=master"></a>
-<a href="https://github.com/biuuu/ShinyColors/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/biuuu/ShinyColors.svg"></a>
+<a href="https://github.com/snowyivu/ShinyColors/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/snowyivu/ShinyColors.svg"></a>
 <a href="https://idolmaster.jp/"><img alt="THE IDOLM@STER" src="https://img.shields.io/badge/IDOL-M%40STER-ff779c.svg"></a>
 <a href="https://shinycolors.enza.fun/"><img alt="283 Production" src="https://img.shields.io/badge/283-Production-9a77ff.svg"></a>
 </p>
@@ -13,6 +12,9 @@ Install Plugin：[Description](https://github.com/snowyivu/ShinyColors/blob/mast
 Submit Translation：[Description](https://github.com/snowyivu/ShinyColors/tree/master/data)
 
 ## Devlopment
+
+(Don't actually use these yet for the English patch, I think it'll try to deploy to the Chinese one!!)
+
 ```bash
 # Global Installation yarn
 npm install -g yarn
