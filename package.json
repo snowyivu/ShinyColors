@@ -1,9 +1,9 @@
 {
-  "name": "shinycolors-zh",
+  "name": "shinycolors-eng",
   "version": "0.9.1",
   "main": "main.js",
   "repository": "git@github.com:snowyivu/ShinyColors.git",
-  "author": "biuuu",
+  "author": "snowyivu",
   "license": "MIT",
   "scripts": {
     "build": "rollup --config ./script/build.js --environment BUILD:development",
