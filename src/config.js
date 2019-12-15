@@ -13,7 +13,7 @@ const MODULE_ID = {
 const PREVIEW_COUNT = 5
 
 const config = {
-  origin: 'https://www.shiny.fun',
+  origin: '',
   hash: '',
   localHash: '',
   version: version,
