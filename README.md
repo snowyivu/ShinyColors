@@ -7,26 +7,26 @@
 </p>
 
 ---
-## 简介
-安装插件：[说明](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)
+## Introduction
+Install Plugin：[Description](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)
 
-提交翻译：[说明](https://github.com/ShinyGroup/ShinyColors/tree/master/data)
+Submit Translation：[Description](https://github.com/ShinyGroup/ShinyColors/tree/master/data)
 
 ## Devlopment
 ```bash
-# 全局安装 yarn
+# Global Installation yarn
 npm install -g yarn
 
-# 用 yarn 安装模块
+# Install modules with yarn 
 yarn install
 
-# 调试模式，构建一个用户脚本，并使用本地数据源
+# Debug mode，Build scripts and use local data source?
 yarn dev
 
-# 构建用户脚本
+# Build scripts
 yarn build
 
-# 打包CSV和构建用户脚本，并push到当前repo的gh-pages分支
+# Package CSV and build scripts, push to GH branch of current repo
 yarn deploy
 ```
 
