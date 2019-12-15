@@ -457,7 +457,7 @@
 
 	const PREVIEW_COUNT = 5;
 	const config = {
-	  origin: 'https://www.shiny.fun',
+	  origin: 'https://snowyivu.github.io/ShinyColors/',
 	  hash: '',
 	  localHash: '',
 	  version: version,
