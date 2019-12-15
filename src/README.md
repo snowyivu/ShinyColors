@@ -1,6 +1,6 @@
 ## Use
 1. Recommended on Chrome，First install [Tampermonkey](https://tampermonkey.net/) extension
-2. After installing extension，click on script address: https://www.shiny.fun/ShinyColors.user.js ，install as prompted by tampermonkey
+2. After installing extension，click on script address: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，install as prompted by tampermonkey
 3. Refresh game page
 
 Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend [Recruit Link](https://go.enza.fun/YLZXbw) to start the game。
