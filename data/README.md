@@ -1,3 +1,5 @@
+(This is old Chinese instructions, please ignore~)
+
 ## Translation data
 
 If you are interested in helping improve the translation，join the QQ group：1018154722 。
