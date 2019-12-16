@@ -7,9 +7,9 @@
 
 ---
 ## Introduction
-Install Plugin：[Description](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
+Install Plugin：[Click Here](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
 
-Submit Translation：[Description](https://github.com/snowyivu/ShinyColors/tree/master/data)
+Submit Translation：[Click Here](https://github.com/snowyivu/ShinyColors/tree/master/data)
 
 ## Devlopment
 
