@@ -1,43 +1,43 @@
 text,trans,type
-プロデュース開始時に絆＋$num,프로듀스 시작시에 인연＋$1,
-一緒にラジオへ出演すると$noun＋$num,함께 라디오에 출연하면 $1＋$2,
-「約束」を守れなかった場合に$percentの確率でテンションが下がらない,「약속」을 지킬 수 없었던 경우 $1의 확률로 텐션이 내려가지 않는다,
-「休む」を選択時に$percentの確率で体力回復量＋$num,「휴식」을 선택시에 $1의 확률로 체력 회복량＋$2,
-レッスンかお仕事を選択する時に$percentの確率でトラブル率－$num,레슨이나 영업을 선택할 때에 $1의 확률로 트러블율－$2,
-一緒にトークイベントへ出演すると$noun＋$num,함께 토크 이벤트에 출연하면 $1＋$2,
-レッスンかお仕事を選択する時に$percentの確率で体力消費量－$percent,레슨이나 영업을 선택할 때에 $1의 확률로 체력소비량－$2,
-テンション最高時に一緒に行動すると確率で$noun＋$num,텐션 최고점에서 함께 행동하면 확률로 $1＋$2,
-一緒にボーカルレッスンをすると$noun＋$num,함께 보컬 레슨을 하면 $1＋$2,
-スキル発動時に一緒に行動してトラブルが起きなかった場合パーフェクトが発生,스킬 발동시에 함께 행동해 트러블이 일어나지 않은 경우 퍼펙트가 발생,
-一緒に雑誌の撮影をすると$noun＋$num,함께 잡지의 촬영을 하면 $1＋$2,
-一緒に雑誌の撮影をすると体力$num回復,함께 잡지의 촬영을 하면 체력 $1회복,
-一緒にトークイベントへ出演すると体力$num回復,함께 토크 이벤트에 출연하면 체력 $1 회복,
-一緒にラジオへ出演すると体力$num回復,함께 라디오에 출연하면 체력 $1 회복,
-一緒にビジュアルレッスンをすると体力$num回復,함께 비주얼 레슨을 하면 체력 $1 회복,
-一緒にボーカルレッスンをすると体力$num回復,함께 보컬 레슨을 하면 체력 $1 회복,
-一緒にダンスレッスンをすると体力$num回復,함께 댄스 레슨을 하면 체력 $1 회복,
-一緒に行動してエクセレントが発生するとエクセレント効果\+$percent,함께 행동해 엑설런트가 발생하면 엑설런트 효과＋$1,
-一緒に行動してエクセレントが発生するとエクセレント効果＋$percent,함께 행동해 엑설런트가 발생하면 엑설런트 효과＋$1,
-一緒にビジュアルレッスンをすると$noun＋$num,함께 비주얼 레슨을 하면 $1＋$2,
-一緒にダンスレッスンをすると$noun＋$num,함께 댄스 레슨을 하면 $1＋$2,
-行動した場所に自分以外のユニットメンバーがいると1人につき$noun＋$num,행동한 장소에 자신 이외의 유닛 멤버가 있으면 1명에 대해 $1＋$2,
-オーディションで$num位を取ると$noun＋$num,오디션으로 $1위를 달성하면 $2＋$3,
-体力サポート,체력 서포트,text
-おやすみブースト,"휴가 부스트",text
-アイドルの絆,"아이돌의 인연",text
-エクセレントブースト,"엑설런트 부스트",text
-オーディションマスタリー$noun,"오디션 마스터리-$1",text
-ダンスマスタリー$noun,"댄스 마스터리-$1",text
-テンションマスタリー$noun,"텐션 마스터리-$1",text
-トラブルガード,"트러블 가드",text
-トークマスタリー$noun,"토크 마스터리-$1",text
-パーフェクトマスタリー,"퍼펙트 마스터리",text
-ビジュアルマスタリー$noun,"비주얼 마스터리-$1",text
-ボーカルマスタリー$noun,"보컬 마스터리-$1",text
-ユニットマスタリー$noun,"유닛 마스터리-$1",text
-ラジオマスタリー$noun,"라디오 마스터리-$1",text
-撮影マスタリー$noun,"촬영 마스터리-$1",text
-約束リカバー,"약속 리커버리",text
+プロデュース開始時に絆＋$num,Starting Bonds＋$1,
+一緒にラジオへ出演すると$noun＋$num,Have a Radio Show together for $1＋$2,
+「約束」を守れなかった場合に$percentの確率でテンションが下がらない,$1 chance to not lose tension if a promise is not kept,
+「休む」を選択時に$percentの確率で体力回復量＋$num,$1 chance to increase the stamina gained by a rest by ＋$2,
+レッスンかお仕事を選択する時に$percentの確率でトラブル率－$num,$1 chance to reduce the trouble rate of lesson or job rooms by －$2,
+一緒にトークイベントへ出演すると$noun＋$num,Have a Talkshow together for $1＋$2,
+レッスンかお仕事を選択する時に$percentの確率で体力消費量－$percent,$1 chance to reduce the stamina consumption of lesson or job rooms by －$2,
+テンション最高時に一緒に行動すると確率で$noun＋$num,Train together at max tension to get $1＋$2,
+一緒にボーカルレッスンをすると$noun＋$num,Have a Vocal Lesson together for $1＋$2,
+スキル発動時に一緒に行動してトラブルが起きなかった場合パーフェクトが発生,When this skill activates the room this support is in will always earn a Perfect,
+一緒に雑誌の撮影をすると$noun＋$num,Have a Photoshoot together for $1＋$2,
+一緒に雑誌の撮影をすると体力$num回復,Have a Photoshoot together to recover $1 Stamina,
+一緒にトークイベントへ出演すると体力$num回復,Have a Talkshow together to recover $1 Stamina,
+一緒にラジオへ出演すると体力$num回復,Have a Radio Show together to recover $1 Stamina,
+一緒にビジュアルレッスンをすると体力$num回復,Have a Visual Lesson together to recover $1 Stamina,
+一緒にボーカルレッスンをすると体力$num回復,Have a Vocal Lesson together to recover $1 Stamina,
+一緒にダンスレッスンをすると体力$num回復,Have a Dance Lesson together to recover $1 Stamina,
+一緒に行動してエクセレントが発生するとエクセレント効果\+$percent,Train together for an extra ＋$1 excellent chance,
+一緒に行動してエクセレントが発生するとエクセレント効果＋$percent,Train together for an extra ＋$1 excellent chance,
+一緒にビジュアルレッスンをすると$noun＋$num,Have a Visual Lesson together for $1＋$2,
+一緒にダンスレッスンをすると$noun＋$num,Have a Dance Lesson together for $1＋$2,
+行動した場所に自分以外のユニットメンバーがいると1人につき$noun＋$num,For each other produce or support idol in the room of the same unit gain $1＋$2,
+オーディションで$num位を取ると$noun＋$num,Take $1 place in an audition for $2＋$3,
+体力サポート,Stamina Support,text
+おやすみブースト,"Rest Boost",text
+アイドルの絆,"Idol Bonds",text
+エクセレントブースト,"Excellent Boost",text
+オーディションマスタリー$noun,"Audition Mastery-$1",text
+ダンスマスタリー$noun,"Dance Mastery-$1",text
+テンションマスタリー$noun,"Tension Mastery-$1",text
+トラブルガード,"Trouble Guard",text
+トークマスタリー$noun,"Talkshow Mastery-$1",text
+パーフェクトマスタリー,"Perfect Mastery",text
+ビジュアルマスタリー$noun,"Visual Mastery-$1",text
+ボーカルマスタリー$noun,"Vocal Mastery-$1",text
+ユニットマスタリー$noun,"Unit Mastery-$1",text
+ラジオマスタリー$noun,"Radio Mastery-$1",text
+撮影マスタリー$noun,"Photoshoot Mastery-$1",text
+約束リカバー,"Promise Recovery",text
 Dance,Dance,noun
 Visual,Visual,noun
 Vocal,Vocal,noun
@@ -47,4 +47,4 @@ Vo,Vo,noun
 メンタル,Mental,noun
 Me,Me,noun
 SP,SP,noun
-体力,체력,noun
+体力,Stamina,noun
