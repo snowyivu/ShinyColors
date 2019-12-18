@@ -3,14 +3,26 @@ import getImage from '../store/image'
 import config from '../config'
 import { getAoba } from './get-module'
 
+const logStyles = color => ([
+  `background-color:${color};color:#fff;padding:0 0.3em`,
+  '',
+  `color:${color};text-decoration:underline`
+])
+
+const imageLog = (method, color, path, url) => {
+  if (DEV) {
+    log(`%c${method}%c %c${path}`, ...logStyles(color), '\n=>', url)
+  }
+}
+
 let replaced = false
 export default async function resourceHook () {
   let aoba = await getAoba()
   if (!aoba || replaced) return
   const originLoadElement = aoba.loaders.Resource.prototype._loadElement
   aoba.loaders.Resource.prototype._loadElement = async function (type) {
-    if (DEV && type === 'image' && this.url.includes('bc86b91f4f40a00be6c149478bb5f370')) {
-      log(this.url, this.name)
+    if (DEV && type === 'image' ) {
+      imageLog('IMAGE','#ed9636', this.name, this.url)
     }
     try {
       const imageMap = await getImage()
@@ -21,7 +33,6 @@ export default async function resourceHook () {
           this.crossOrigin = true
         } else {
           log('%cimage version not match', 'color:#fc4175')
-          log(this.name, this.url)
         }
       }
     } catch (e) {
