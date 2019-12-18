@@ -13,7 +13,7 @@ const MODULE_ID = {
 const PREVIEW_COUNT = 5
 
 const config = {
-  origin: '',
+  origin: DATA_URL,
   hash: '',
   localHash: '',
   version: version,
@@ -68,9 +68,6 @@ const getLocalConfig = () => {
   })
 
   setFont()
-  if (DEV) {
-    config.origin = 'http://localhost:15944'
-  }
 }
 
 const saveConfig = () => {
