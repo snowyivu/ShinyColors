@@ -1,55 +1,55 @@
 text,trans,type
-Excellent$num倍アピール,Excellent $1배 어필,
-全観客の興味$percentDOWN,전관객의 흥미 $1DOWN,
-思い出ゲージ増加量$percentDOWN,추억 게이지 증가량 $1DOWN,
-[$num回],[$1회],
-メンタルが0になった時$percent回復,멘탈이 0이 되었을 때 $1 회복,
-"自身にメランコリー効果$percent付与","자신에게 멜랑꼴리 효과 $1부여"
-全ユニットにメランコリー効果$percent付与,전 유닛에 멜랑꼴리 효과 $1부여,
-ライバルにメランコリー効果$percent付与,라이벌에게 멜랑꼴리 효과 $1부여,
+Excellent$num倍アピール,Excellent $1x Appeal,
+全観客の興味$percentDOWN,All Judges Interest $1DOWN,
+思い出ゲージ増加量$percentDOWN,Memory Gauge Increase $1DOWN,
+[$num回],[$1x],
+メンタルが0になった時$percent回復,$1 Chance to Revive When Reaching 0 Mental,
+"自身にメランコリー効果$percent付与","You Receive $1Melancholy"
+全ユニットにメランコリー効果$percent付与,All Units Receive $1Melancholy,
+ライバルにメランコリー効果$percent付与,Rival Units Receive $1Melancholy,
 $noun$percentUP,$1 $2UP,
-$noun$percent回復,$1 $2 회복,
-$noun$num回復,$1 $2 회복,
+$noun$percent回復,$1 $2 Recovery,
+$noun$num回復,$1 $2 Recovery,
 $nounUP,$1 UP,
 $noun$num,$1 $2,
-$noun$num～$num倍アピール,$1 $2〜$3배 어필,
-$noun$num〜$num倍アピール,$1 $2〜$3배 어필,
-全観客に$noun$num～$num倍アピール,전관객에게 $1 $2〜$3배 어필,
-全観客に$noun$num〜$num倍アピール,전관객에게 $1 $2〜$3배 어필,
-アピールフェイズ開始時にメンタル$percent回復,어필페이즈 시작시 멘탈 $1 회복,
-アピールフェイズ開始時メンタル$percent回復,어필페이즈 시작시 멘탈 $1 회복,
-全ユニットの$noun$percentUP,전 유닛의 $1 $2UP,
-[PERFECTなら全ユニットの$noun$percentUP],[PERFECT면 전 유닛의 $1 $2UP],
-[PERFECTなら$num倍アピール],[PERFECT면 $1배 어필],
-全ユニットのメンタル$percent回復,전 유닛의 멘탈 $1 회복,
-$noun$num倍アピール,$1 $2배 어필,
-全観客に$noun$num倍アピール,전관객에게 $1 $2배 어필,
-$noun最大$num倍アピール,$1 최대 $2배 어필,
-全観客に$noun最大$num倍アピール,전관객에게 $1 최대 $2배 어필,
-$noun＆$noun$num倍アピール,$1＆$2 $3배 어필,
+$noun$num～$num倍アピール,$1 $2〜$3x Appeal,
+$noun$num〜$num倍アピール,$1 $2〜$3x Appeal,
+全観客に$noun$num～$num倍アピール,All Judges $1 $2〜$3x Appeal,
+全観客に$noun$num〜$num倍アピール,All Judges $1 $2〜$3x Appeal,
+アピールフェイズ開始時にメンタル$percent回復,Appeal Phase Start $1 Mental Recovery,
+アピールフェイズ開始時メンタル$percent回復,Appeal Phase Start $1 Mental Recovery,
+全ユニットの$noun$percentUP,All Units $1 $2UP,
+[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2UP],
+[PERFECTなら$num倍アピール],[On PERFECT $1x Appeal],
+全ユニットのメンタル$percent回復,All Units $1 Mental Recovery,
+$noun$num倍アピール,$1 $2x Appeal,
+全観客に$noun$num倍アピール,All Judges $1 $2x Appeal,
+$noun最大$num倍アピール,$1 최대 $2x Appeal,
+全観客に$noun最大$num倍アピール,All Judges $1 최대 $2x Appeal,
+$noun＆$noun$num倍アピール,$1＆$2 $3x Appeal,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
-[$numターン],[$1턴],
-[条件:$numターン以前],[조건: $1턴 이전],
-[条件:$numターン以降],[조건: $1턴 이후],
-[条件:$name],[조건: $1],
-[条件:$noun],[조건: $1],
-[条件:$num位],[조건: $1위],
-[条件:$noun担当],[조건: $1담당],
-[条件:$noun$num以上],[조건: $1 $2이상],
-[条件:$noun$num以下],[조건: $1 $2이하],
-[条件:$noun$percent以上],[조건: $1 $2이상],
-[条件:$noun$percent以下],[조건: $1 $2이하],
-[条件:$nounDOWNが付与されている場合],[조건: $1 DOWN이 부여되고 있는 경우],
-[条件:$nounUPが付与されている場合],[조건: $1 UP이 부여되고 있는 경우],
-[条件:$nounCUTが付与されている場合],[조건: $1 CUT이 부여되고 있는 경우],
-[条件:メランコリーが付与されている場合],[조건:멜랑꼴리가 부여되고 있는 경우],
-[条件:リザレクション効果が付与されている場合],[조건:레저렉션(부활) 효과가 부여된 경우],
-[条件:観客$num],[조건: 관객$1],
+[$numターン],[$1Turn],
+[条件:$numターン以前],[Condition: $1Turn 이전],
+[条件:$numターン以降],[Condition: $1Turn 이후],
+[条件:$name],[Condition: $1],
+[条件:$noun],[Condition: $1],
+[条件:$num位],[Condition: $1위],
+[条件:$noun担当],[Condition: $1담당],
+[条件:$noun$num以上],[Condition: $1 $2이상],
+[条件:$noun$num以下],[Condition: $1 $2이하],
+[条件:$noun$percent以上],[Condition: $1 $2이상],
+[条件:$noun$percent以下],[Condition: $1 $2이하],
+[条件:$nounDOWNが付与されている場合],[Condition: $1 DOWN이 부여되고 있는 경우],
+[条件:$nounUPが付与されている場合],[Condition: $1 UP이 부여되고 있는 경우],
+[条件:$nounCUTが付与されている場合],[Condition: $1 CUT이 부여되고 있는 경우],
+[条件:メランコリーが付与されている場合],[Condition:멜랑꼴리가 부여되고 있는 경우],
+[条件:リザレクション効果が付与されている場合],[Condition:레저렉션(부활) 효과가 부여된 경우],
+[条件:観客$num],[Condition: 관객$1],
 [消去:$nounUP],[소거: $1 UP],
 [消去:$nounDOWN],[소거: $1 DOWN],
 [確率:$percent],[확률: $1],
 [確率:$other],[확률: $1],
-[最大:$num回],[최대: $1회],
+[最大:$num回],[최대: $1x],
 [$nounが高いほど効果UP],[$1이(가) 높을수록 효과UP],
 [$nounが多いほど効果UP],[$1이(가) 많을수록 효과UP],
 [$nounが低いほど効果UP],[$1이(가) 낮을수록 효과UP],
@@ -58,8 +58,8 @@ $noun＆$noun$percentUP,$1＆$2 $3UP,
 [$nounが少ないほど効果UP],[$1이(가) 적을수록 효과UP],
 [超過分は思い出ゲージに変換],[초과분은 추억 게이지에 변환],
 トラブル発生率,트러블 발생률,
-必ず最後にアピールを行い,"반드시 마지막에 어필을 실시해_",
-必ず最初にアピールを行い,"반드시 최초로 어필을 실시해_",
+必ず最後にアピールを行い,"반드시 마지막에 Appeal을 실시해_",
+必ず最初にアピールを行い,"반드시 최초로 Appeal을 실시해_",
 $noun滞在率,$1 체재율,
 興味$percentUP,흥미 $1UP,
 興味$percentDOWN,흥미 $1DOWN,
@@ -85,7 +85,7 @@ $nounが$percentUPする効果,$1이(가) $2UP하는 효과,
 受けるメンタルダメージが$percentUPする効果,받는 멘탈 데미지가 $1UP하는 효과,
 $nounが$percentDOWNする効果,$1이(가) $2DOWN하는 효과,
 受ける$nounを$percentCUTする効果,받는 $1를 $2 CUT하는 효과,
-思い出アピール,추억 어필,
+思い出アピール,추억 Appeal,
 消費体力$num,소비체력 $1,
 $nounのレベルを$num上昇,$1의 레벨을 $2 상승,
 リハーサルの流行1位を$nounに変更,리허설의 유행 1위를 $1로 변경,
@@ -136,21 +136,21 @@ Viレッスン,Vi레슨,noun
 ラジオ,라디오,noun
 ごくごく稀,극히 희소,other
 ごく稀,매우 희소,other
-リンクアピール,링크 어필,text
+リンクアピール,링크 Appeal,text
 メンタルダメージCUT,멘탈 데미지 CUT,text
 特定のアイドルイベントで解放,특정 아이돌 이벤트로 해방,text
 特定のサポートイベントで解放,특정 서포트 이벤트로 해방,text
-体力回復,체력 회복,text
-体力が中回復,체력이 중 회복,text
+体力回復,체력 Recovery,text
+体力が中回復,체력이 중 Recovery,text
 テンションが中UP,텐션이 중 UP,text
 親愛度が中UP,친애도가 중 UP,text
-体力が大回復,체력이 대 회복,text
+体力が大回復,체력이 대 Recovery,text
 テンションが大UP,텐션이 대 UP,text
 親愛度が大UP,친애도가 대 UP,text
-体力が特大回復,체력이 특대 회복,text
+体力が特大回復,체력이 특대 Recovery,text
 テンションが特大UP,텐션이 특대 UP,text
 親愛度が特大UP,친애도가 특대 UP,text
-体力が小回復,체력이 소 회복,text
+体力が小回復,체력이 소 Recovery,text
 テンションが小UP,텐션이 소 UP,text
 親愛度が小UP,친애도가 소 UP,text
 リハ流行Vo,리허설 유행 Vo,text
@@ -162,7 +162,7 @@ Viレッスン,Vi레슨,noun
 全アイドルと七草はづきの絆UP,전아이돌과 나나쿠사 하즈키의 인연을 UP,text
 限定スキル解放,한정 스킬 해방,text
 審査員スキル,심사원 스킬,text
-思い出アピール未修得の状態です,추억 어필 미습득 상태입니다,text
+思い出アピール未修得の状態です,추억 Appeal 미습득 상태입니다,text
 真乃,마노,name
 灯織,히오리,name
 めぐる,메구루,name
