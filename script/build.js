@@ -41,7 +41,7 @@ module.exports = {
     name: 'shinycolors_eng',
     banner: banner,
     intro: `const ENVIRONMENT = "${process.env.BUILD === 'development' ? 'development' : ''}";
-    const DATA_URL = ${process.env.DATA_URL ? process.env.DATA_URL : ''};
+    const DATA_URL = '${process.env.DATA_URL ? process.env.DATA_URL : ''}';
     const DEV = ${process.env.DEV ? true : false};
     const SHOW_UPDATE_TEXT = ${process.env.TEXT ? true : false};
     const COLLECT_CARD_RATE = ${process.env.CARD ? true : false};`
