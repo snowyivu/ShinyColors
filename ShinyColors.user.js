@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         ShinyColorsENG
+// @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
 // @version      0.9.1
-// @description  Submit questions or translations to https://github.com/snowyivu/ShinyColors
+// @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
-// @author       snowyivu
+// @author       biuuu
 // @match        https://shinycolors.enza.fun/*
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
@@ -17,7 +17,7 @@
 (function () {
 	'use strict';
 
-	const ENVIRONMENT = "";
+	const ENVIRONMENT = "development";
 	    const DEV = false;
 	    const SHOW_UPDATE_TEXT = false;
 	    const COLLECT_CARD_RATE = false;
@@ -457,7 +457,7 @@
 
 	const PREVIEW_COUNT = 5;
 	const config = {
-	  origin: 'https://snowyivu.github.io/ShinyColors/',
+	  origin: '',
 	  hash: '',
 	  localHash: '',
 	  version: version,
