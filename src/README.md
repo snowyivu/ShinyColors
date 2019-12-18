@@ -1,5 +1,6 @@
 ## WARNING!!!
 This type of tool that modifies game files is not allowed per the game Terms of Service.  Please use at your own risk!!!  We are not responsible for any actions taken towards your account if you use this translation tool.
+## WARNING!!!
 
 ## Use
 1. Recommended on Chrome，First install [Tampermonkey](https://tampermonkey.net/) extension
