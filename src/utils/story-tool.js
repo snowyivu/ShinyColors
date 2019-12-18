@@ -92,12 +92,12 @@ const html = `
     background-color: #f7f7f7;
   }
   </style>
-  <div id="sczh-story-tool"><span class="text-sczh">剧情</span>
-    <span id="btn-close-sczh" class="btn-close-sczh">关闭</span>
+  <div id="sczh-story-tool"><span class="text-sczh">Story</span>
+    <span id="btn-close-sczh" class="btn-close-sczh">X</span>
     <input type="file" style="display:none" id="ipt-preview-sczh" multiple accept=".csv">
     <div class="story-tool-btns">
-      <label for="ipt-preview-sczh">预览</label>
-      <div id="btn-download-sczh" class="btn-download-sczh">下载</div>
+      <label for="ipt-preview-sczh">Import</label>
+      <div id="btn-download-sczh" class="btn-download-sczh">DL</div>
     </div>
   </div>
   `
