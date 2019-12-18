@@ -3,7 +3,8 @@ const { version } = require('../package.json')
 const json = require('rollup-plugin-json')
 const resolve = require('rollup-plugin-node-resolve')
 const cmjs = require('rollup-plugin-commonjs')
-
+const path = require('path')
+require('dotenv').config({ path: path.resolve(process.cwd(), 'env.txt') })
 const banner = `// ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
@@ -40,6 +41,7 @@ module.exports = {
     name: 'shinycolors_eng',
     banner: banner,
     intro: `const ENVIRONMENT = "${process.env.BUILD === 'development' ? 'development' : ''}";
+    const DATA_URL = ${process.env.DATA_URL ? process.env.DATA_URL : ''};
     const DEV = ${process.env.DEV ? true : false};
     const SHOW_UPDATE_TEXT = ${process.env.TEXT ? true : false};
     const COLLECT_CARD_RATE = ${process.env.CARD ? true : false};`

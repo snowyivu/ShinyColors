@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "core-js": "3",
+    "dotenv": "^8.2.0",
     "lodash": "^4.17.13",
     "papaparse": "^4.6.3"
   },
