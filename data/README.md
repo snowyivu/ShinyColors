@@ -1,20 +1,18 @@
-(This is old Chinese instructions, please ignore~)
+## 翻译数据
 
-## Translation data
+有兴趣一起完善翻译的话，可以加下QQ群讨论：1018154722 。
 
-If you are interested in helping improve the translation，join the QQ group：1018154722 。
-
-If you haven't installed the localization plugin，please look here[Description](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)来装上汉化插件。
+如果还未安装汉化插件，请先看这边的[说明](https://github.com/biuuu/ShinyColors/blob/master/src/README.md)来装上汉化插件。
 
 **因翻译文本由玩家自发提供，非专业翻译，可能有很多地方都有问题。如果你更合适的翻译或建议，都欢迎随时提交。同样的，出于完善翻译的目的，你自己提交的翻译也可能随时会被修改。**
 
-### Extract story text with plugin
+### 用插件提取剧情文本
 
-Story extract functionality is enabled by modifying the URL and adding #story=edit ，or #story=normal 。
+剧情提取功能的开启方法是在游戏 URL 后面加上 #story=edit ，关闭则是 #story=normal 。
 
-You can also click these links，[Story Edit On](https://shinycolors.enza.fun/home#story=edit)  /  [Story Edit Off](https://shinycolors.enza.fun/home#story=normal)
+也可以直接点这两个链接来开启或关闭，[开启剧情提取](https://shinycolors.enza.fun/home#story=edit)  /  [关闭剧情提取](https://shinycolors.enza.fun/home#story=normal)
 
-When viewing commus after turning on this functionality，you will see a “剧情”button in the bottom right，you can choose “下载”download or “预览”preview by moving the mouse up。
+开启剧情提取功能后查看剧情时，可以看到右边出现了“剧情”按钮，鼠标移上去可以选择“下载”或“预览”。
 
 1. 下载：下载最后浏览过的剧情的 CSV 文件。
 2. 预览：选择翻译后的 CSV 文件进行预览，可以多选。不刷新页面时会缓存所有选择的剧情文件，刷新页面后只保留最后选择的5个文件。关闭页面后则清空所有预览文件。
@@ -42,7 +40,7 @@ When viewing commus after turning on this functionality，you will see a “剧�
 * support-skill.csv - 支援技能。
 * image.csv - 替换的图片。
 
-### Submit a translation
+### 提交翻译
 翻译数据均为 CSV 格式的文件，感谢所有提供翻译朋友的无私贡献。
 
 story 目录存放所有剧情文本。
@@ -62,8 +60,8 @@ story 目录存放所有剧情文本。
 以下内容是介绍在未加入 ShinyGroup 的情况如何提交翻译，如果对 git 原理不太了解则不建议阅读。
 
 ```
-For translators who have not joined ShinyGroup，and want to upload files directly or submit multiple files at once，
-open https://github.com/ShinyGroup/ShinyColors ，and then click Fork 按钮，这时你自己的账号下就有了一个同名的项目。
+对于未加入 ShinyGroup 的翻译人员，希望直接上传文件或者需要一次提交多个文件的话，
+先打开 https://github.com/ShinyGroup/ShinyColors ，然后点右上角的 Fork 按钮，这时你自己的账号下就有了一个同名的项目。
 在你账号的项目里找到 data/story 目录，点击右上角的 Upload Files 按钮，就能一次上传多个文件了。
 添加或修改剧情后，点 Pull request 即可发起请求将修改合并到主分支。
 ```
