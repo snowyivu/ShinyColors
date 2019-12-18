@@ -52,8 +52,6 @@ const getDate = (offset = 0) => {
   return `${year}/${month}/${date} ${h}:${m}:${sec}.${msec}`
 }
 
-const etcFiles = ['image', 'item', 'mission', 'support-skill', 'mission-re']
-
 const start = async () => {
   await fse.emptyDir('./dist/data/')
   const hash = await md5Dir('./data/')
@@ -90,9 +88,6 @@ const start = async () => {
   console.log('move data files...')
   await fse.copy('./data/', './dist/data/')
   console.log('move etc...')
-  for (let fileName of etcFiles) {
-    await fse.move(`./dist/data/etc/${fileName}.csv`, `./dist/data/${fileName}.csv`, { overwrite: true })
-  }
   if (process.env.PUBLISH === 'skip') {
     console.log('data prepared')
     return
