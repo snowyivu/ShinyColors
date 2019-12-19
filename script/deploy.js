@@ -34,7 +34,7 @@ const readCsv = async (csvPath, silence) => {
     return CSV.parse(data.replace(/^\ufeff/, ''), { header: true }).data
   } catch (err) {
     if (!silence) {
-      console.error(`读取csv失败：${err.message}\n${err.stack}`)
+      console.error(`Reading CSV Failed：${err.message}\n${err.stack}`)
     }
     return []
   }
@@ -58,10 +58,10 @@ const start = async () => {
   await fse.emptyDir('./dist/data/')
   const hash = await md5Dir('./data/')
   console.log(hash)
-  await fse.writeJSON('./dist/manifest.json', { 
-    hash, version, moduleId, 
+  await fse.writeJSON('./dist/manifest.json', {
+    hash, version, moduleId,
     bdsign, cyweb_token, trans_api,
-    date: getDate(8) 
+    date: getDate(9)
   })
   console.log('story...')
   const files = await glob.promise('./data/story/**/*.csv')
