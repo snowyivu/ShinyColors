@@ -29,16 +29,16 @@ $noun最大$num倍アピール,$1 최Large $2x Appeal,
 $noun＆$noun$num倍アピール,$1＆$2 $3x Appeal,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
 [$numターン],[$1 Turn],
-[条件:$numターン以前],[Condition: Before or On Turn $1],
-[条件:$numターン以降],[Condition: On or After Turn $1],
+[条件:$numターン以前],[Condition: Turn Count ≤ $1],
+[条件:$numターン以降],[Condition: Turn Count ≥ $1],
 [条件:$name],[Condition: $1],
 [条件:$noun],[Condition: $1],
 [条件:$num位],[Condition: $1 Place],
 [条件:$noun担当],[Condition: $1 Position],
-[条件:$noun$num以上],[Condition: $1 at or above $2],
-[条件:$noun$num以下],[Condition: $1 at or below $2],
-[条件:$noun$percent以上],[Condition: $1 at or above $2],
-[条件:$noun$percent以下],[Condition: $1 at or below $2],
+[条件:$noun$num以上],[Condition: $1 ≥ $2],
+[条件:$noun$num以下],[Condition: $1 ≤ $2],
+[条件:$noun$percent以上],[Condition: $1 ≥ $2],
+[条件:$noun$percent以下],[Condition: $1 ≤ $2],
 [条件:$nounDOWNが付与されている場合],[Condition: Affected by $1 DOWN],
 [条件:$nounUPが付与されている場合],[Condition: Affected by $1 UP],
 [条件:$nounCUTが付与されている場合],[Condition: Affected by $1 CUT],
@@ -100,7 +100,7 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 "ごく稀に現在の興味値に関わらず一気に満足させる","Extremely Rare Chance Of Instantly Filling Judge"
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
-限定スキル[$noun上限$num]を解放,한정 스킬[$1 상한 $2]을 해방,
+限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
 Dance,Dance,noun
 Vocal,Vocal,noun
 Visual,Visual,noun
@@ -111,7 +111,7 @@ Me,Me,noun
 メンタル,Mental,noun
 メンタルダメージ,Mental Damage,noun
 SP,SP,noun
-スター,Star,noun
+スター,Stars,noun
 観客,Judge,noun
 注目度,Attention Rate,noun
 思い出ゲージ,Memory Gauge,noun
