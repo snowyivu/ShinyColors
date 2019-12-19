@@ -18,7 +18,7 @@
 	'use strict';
 
 	const ENVIRONMENT = "";
-	    const DATA_URL = '';
+	    const DATA_URL = 'https://snowyivu.github.io/ShinyColors';
 	    const DEV = false;
 	    const SHOW_UPDATE_TEXT = false;
 	    const COLLECT_CARD_RATE = false;
