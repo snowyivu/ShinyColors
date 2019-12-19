@@ -24,80 +24,80 @@ $noun$num〜$num倍アピール,$1 $2〜$3x Appeal,
 全ユニットのメンタル$percent回復,All Units $1 Mental Recovery,
 $noun$num倍アピール,$1 $2x Appeal,
 全観客に$noun$num倍アピール,All Judges $1 $2x Appeal,
-$noun最大$num倍アピール,$1 최대 $2x Appeal,
-全観客に$noun最大$num倍アピール,All Judges $1 최대 $2x Appeal,
+$noun最大$num倍アピール,$1 최Large $2x Appeal,
+全観客に$noun最大$num倍アピール,All Judges $1 최Large $2x Appeal,
 $noun＆$noun$num倍アピール,$1＆$2 $3x Appeal,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
-[$numターン],[$1Turn],
-[条件:$numターン以前],[Condition: $1Turn 이전],
-[条件:$numターン以降],[Condition: $1Turn 이후],
+[$numターン],[$1 Turn],
+[条件:$numターン以前],[Condition: Before or On Turn $1],
+[条件:$numターン以降],[Condition: On or After Turn $1],
 [条件:$name],[Condition: $1],
 [条件:$noun],[Condition: $1],
-[条件:$num位],[Condition: $1위],
-[条件:$noun担当],[Condition: $1담당],
-[条件:$noun$num以上],[Condition: $1 $2이상],
-[条件:$noun$num以下],[Condition: $1 $2이하],
-[条件:$noun$percent以上],[Condition: $1 $2이상],
-[条件:$noun$percent以下],[Condition: $1 $2이하],
-[条件:$nounDOWNが付与されている場合],[Condition: $1 DOWN이 부여되고 있는 경우],
-[条件:$nounUPが付与されている場合],[Condition: $1 UP이 부여되고 있는 경우],
-[条件:$nounCUTが付与されている場合],[Condition: $1 CUT이 부여되고 있는 경우],
-[条件:メランコリーが付与されている場合],[Condition:멜랑꼴리가 부여되고 있는 경우],
-[条件:リザレクション効果が付与されている場合],[Condition:레저렉션(부활) 효과가 부여된 경우],
-[条件:観客$num],[Condition: 관객$1],
-[消去:$nounUP],[소거: $1 UP],
-[消去:$nounDOWN],[소거: $1 DOWN],
-[確率:$percent],[확률: $1],
-[確率:$other],[확률: $1],
-[最大:$num回],[최대: $1x],
-[$nounが高いほど効果UP],[$1이(가) 높을수록 효과UP],
-[$nounが多いほど効果UP],[$1이(가) 많을수록 효과UP],
-[$nounが低いほど効果UP],[$1이(가) 낮을수록 효과UP],
-[$nounが低い程効果UP],[$1이(가) 낮을수록 효과UP],
-[$nounが少ない程効果UP],[$1이(가) 적을수록 효과UP],
-[$nounが少ないほど効果UP],[$1이(가) 적을수록 효과UP],
-[超過分は思い出ゲージに変換],[초과분은 추억 게이지에 변환],
-トラブル発生率,트러블 발생률,
-必ず最後にアピールを行い,"반드시 마지막에 Appeal을 실시해_",
-必ず最初にアピールを行い,"반드시 최초로 Appeal을 실시해_",
-$noun滞在率,$1 체재율,
-興味$percentUP,흥미 $1UP,
-興味$percentDOWN,흥미 $1DOWN,
-興味DOWN$percent,흥미 DOWN $1,
-影響力$percentUP,영향력 $1UP,
-影響力$percentDOWN,영향력 $1DOWN,
-自身の$nounを$percent減らす,자신의 $1을 $2 줄인다,
-メンタルダメージ$percentCUT,멘탈 데미지 $1 CUT,
-特訓$num回目で解放,특훈 $1번째로 해방,
-$noun初期値,$1 초기치,
-$noun上限,$1 상한,
-サポートイベント発生率UP,서포트 이벤트 발생률 UP,
-初期テンションUP,초기 텐션 UP,
-初期親愛度,초기 친애도,
-初期친애도,초기 친애도,
-初期絆UP,초기 인연 UP,
-初期인연 UP,초기 인연 UP,
-プロデュース開始時に絆,프로듀스 시작시 인연,
-（極小）,（극소）,
-朝コミュ発生率,아침 커뮤 발생률,
-約束発生率,약속 발생률,
-$nounが$percentUPする効果,$1이(가) $2UP하는 효과,
-受けるメンタルダメージが$percentUPする効果,받는 멘탈 데미지가 $1UP하는 효과,
-$nounが$percentDOWNする効果,$1이(가) $2DOWN하는 효과,
-受ける$nounを$percentCUTする効果,받는 $1를 $2 CUT하는 효과,
-思い出アピール,추억 Appeal,
-消費体力$num,소비체력 $1,
-$nounのレベルを$num上昇,$1의 레벨을 $2 상승,
-リハーサルの流行1位を$nounに変更,리허설의 유행 1위를 $1로 변경,
-本番の流行1位を$nounに変更,실전의 유행 1위를 $1로 변경,
-トラブル率$percent,트러블율 $1,
-パーフェクト発生率増加,퍼펙트 발생률 증가,
-サポートスキルの発動率が中UP,서포트 스킬의 발동율이 중 UP,
-限定スキルを解放,한정 스킬을 해방,
-全アイドルと七草はづきの絆を中UP,전아이돌과 나나쿠사 하즈키의 인연을 중 UP,
-"ごく매우 드물게 현재의 흥미치에 관련되지 않고 단번에 만족시킨다","﻿극히 드물게 현재의 흥미치에 관련되지 않고 단번에 만족시킨다"
-"ごくごく稀に現在の興味値に関わらず一気に満足させる","﻿극히 드물게 현재의 흥미치에 관련되지 않고 단번에 만족시킨다"
-"ごく稀に現在の興味値に関わらず一気に満足させる","﻿매우 드물게 현재의 흥미치에 관련되지 않고 단번에 만족시킨다"
+[条件:$num位],[Condition: $1 Place],
+[条件:$noun担当],[Condition: $1 Position],
+[条件:$noun$num以上],[Condition: $1 at or above $2],
+[条件:$noun$num以下],[Condition: $1 at or below $2],
+[条件:$noun$percent以上],[Condition: $1 at or above $2],
+[条件:$noun$percent以下],[Condition: $1 at or below $2],
+[条件:$nounDOWNが付与されている場合],[Condition: Affected by $1 DOWN],
+[条件:$nounUPが付与されている場合],[Condition: Affected by $1 UP],
+[条件:$nounCUTが付与されている場合],[Condition: Affected by $1 CUT],
+[条件:メランコリーが付与されている場合],[Condition: Affected by Melancholy],
+[条件:リザレクション効果が付与されている場合],[Condition: Affected by Resurrection Effect],
+[条件:観客$num],[Condition: $1 Judge(s)],
+[消去:$nounUP],[Consumes: $1 UP],
+[消去:$nounDOWN],[Consumes: $1 DOWN],
+[確率:$percent],[Probability: $1],
+[確率:$other],[Probability: $1],
+[最大:$num回],[Maximum: $1x],
+[$nounが高いほど効果UP],[Higher $1 Effect UP],
+[$nounが多いほど効果UP],[More $1 Effect UP],
+[$nounが低いほど効果UP],[Lower $1 Effect UP],
+[$nounが低い程効果UP],[Lower $1 Effect UP],
+[$nounが少ない程効果UP],[Smaller $1 Effect UP],
+[$nounが少ないほど効果UP],[Smaller $1 Effect UP],
+[超過分は思い出ゲージに変換],[Excess is converted into Memory Gauge],
+トラブル発生率,Trouble Rate,
+必ず最後にアピールを行い,"Always Appeal Last",
+必ず最初にアピールを行い,"Always Appeal First",
+$noun滞在率,$1 Lag Rate,
+興味$percentUP,Interest $1UP,
+興味$percentDOWN,Interest $1DOWN,
+興味DOWN$percent,Interest DOWN $1,
+影響力$percentUP,Influence $1UP,
+影響力$percentDOWN,Influence $1DOWN,
+自身の$nounを$percent減らす,Decrease Own $1 By $2 Percent,
+メンタルダメージ$percentCUT,Mental Damage $1 CUT,
+特訓$num回目で解放,Limit Break $1 Times,
+$noun初期値,$1 Starting Value,
+$noun上限,$1 Upper Limit,
+サポートイベント発生率UP,Support Event Chance UP,
+初期テンションUP,Starting Tension UP,
+初期親愛度,Starting Affection,
+初期친애도,Starting Affection,
+初期絆UP,Starting Bonds UP,
+初期인연 UP,Starting Bonds UP,
+プロデュース開始時に絆,Bonds at Start of Production,
+（極小）,（Very Small）,
+朝コミュ発生率,Morning Commu Rate,
+約束発生率,Promise Rate,
+$nounが$percentUPする効果,$1 Effect Increased $2,
+受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1UP,
+$nounが$percentDOWNする効果,$1 Effect Decreased $2DOWN,
+受ける$nounを$percentCUTする効果,$1 Received $2 CUT,
+思い出アピール,Memory Appeal,
+消費体力$num,Stamina Consumed $1,
+$nounのレベルを$num上昇,Increase $1 Level by $2,
+リハーサルの流行1位を$nounに変更,Rehearsal Trend 1st Judge Set To $1,
+本番の流行1位を$nounに変更,Performance Trend 1st Judge Set To $1,
+トラブル率$percent,Trouble Rate $1,
+パーフェクト発生率増加,Perfect Rate Increased,
+サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
+限定スキルを解放,Unlocked Limited Skills,
+全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
+"ごく매우 드물게 현재의 흥미치에 관련되지 않고 단번에 만족시킨다","﻿Extremely Rare Chance Of Instantly Filling Judge"
+"ごくごく稀に現在の興味値に関わらず一気に満足させる","Extremely Extremely Rare Chance Of Instantly Filling Judge"
+"ごく稀に現在の興味値に関わらず一気に満足させる","Extremely Rare Chance Of Instantly Filling Judge"
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,한정 스킬[$1 상한 $2]을 해방,
@@ -108,77 +108,77 @@ Da,Da,noun
 Vo,Vo,noun
 Vi,Vi,noun
 Me,Me,noun
-メンタル,멘탈,noun
-メンタルダメージ,멘탈 데미지,noun
+メンタル,Mental,noun
+メンタルダメージ,Mental Damage,noun
 SP,SP,noun
-スター,스타,noun
-観客,관객,noun
-注目度,주목도,noun
-思い出ゲージ,추억게이지,noun
-ボーカルレッスン,보컬 레슨,noun
-ラジオ収録,라디오 수록,noun
-ラジオの収録,라디오 수록,noun
-ビジュアルレッスン,비주얼 레슨,noun
-トークイベント,토크 이벤트,noun
-トークイベントに出演,토크 이벤트에 출연,noun
-トーク,토크,noun
-ラジオ,라디오,noun
-雑誌,잡지,noun
-雑誌撮影,잡지 촬영,noun
-雑誌の撮影,잡지 촬영,noun
-ダンスレッスン,댄스 레슨,noun
-Voレッスン,Vo레슨,noun
-Daレッスン,Da레슨,noun
-Viレッスン,Vi레슨,noun
-親愛度,친애도,noun
-絆,인연,noun
-テンション,텐션,noun
-ラジオ,라디오,noun
-ごくごく稀,극히 희소,other
-ごく稀,매우 희소,other
-リンクアピール,링크 Appeal,text
+スター,Star,noun
+観客,Judge,noun
+注目度,Attention Rate,noun
+思い出ゲージ,Memory Gauge,noun
+ボーカルレッスン,Vocal Lesson,noun
+ラジオ収録,Radio Show,noun
+ラジオの収録,Radio Show,noun
+ビジュアルレッスン,Visual Lesson,noun
+トークイベント,Talkshow,noun
+トークイベントに出演,Appear in Talkshow,noun
+トーク,Talk,noun
+ラジオ,Radio,noun
+雑誌,Magazine,noun
+雑誌撮影,Magazine Shoot,noun
+雑誌の撮影,Magazine Shoot,noun
+ダンスレッスン,Dance Lesson,noun
+Voレッスン,Vo Lesson,noun
+Daレッスン,Da Lesson,noun
+Viレッスン,Vi Lesson,noun
+親愛度,Trust,noun
+絆,Bonds,noun
+テンション,Tension,noun
+ラジオ,Radio,noun
+ごくごく稀,Extremely Extremely Rare,other
+ごく稀,Extremely Rare,other
+リンクアピール,Link Appeal,text
 メンタルダメージCUT,멘탈 데미지 CUT,text
-特定のアイドルイベントで解放,특정 아이돌 이벤트로 해방,text
-特定のサポートイベントで解放,특정 서포트 이벤트로 해방,text
+特定のアイドルイベントで解放,Unlocked by certain idol events,text
+特定のサポートイベントで解放,Unlocked by certain support events,text
 体力回復,체력 Recovery,text
-体力が中回復,체력이 중 Recovery,text
-テンションが中UP,텐션이 중 UP,text
-親愛度が中UP,친애도가 중 UP,text
-体力が大回復,체력이 대 Recovery,text
-テンションが大UP,텐션이 대 UP,text
-親愛度が大UP,친애도가 대 UP,text
-体力が特大回復,체력이 특대 Recovery,text
-テンションが特大UP,텐션이 특대 UP,text
-親愛度が特大UP,친애도가 특대 UP,text
-体力が小回復,체력이 소 Recovery,text
-テンションが小UP,텐션이 소 UP,text
-親愛度が小UP,친애도가 소 UP,text
-リハ流行Vo,리허설 유행 Vo,text
-リハ流行Da,리허설 유행 Da,text
-リハ流行Vi,리허설 유행 Vi,text
-本番流行Vo,실전 유행 Vo,text
-本番流行Da,실전 유행 Da,text
-本番流行Vi,실전 유행 Vi,text
-全アイドルと七草はづきの絆UP,전아이돌과 나나쿠사 하즈키의 인연을 UP,text
-限定スキル解放,한정 스킬 해방,text
-審査員スキル,심사원 스킬,text
-思い出アピール未修得の状態です,추억 Appeal 미습득 상태입니다,text
-真乃,마노,name
-灯織,히오리,name
-めぐる,메구루,name
-恋鐘,코가네,name
-摩美々,마미미,name
-咲耶,사쿠야,name
-結華,유이카,name
-霧子,키리코,name
-果穂,카호,name
-智代子,치요코,name
-樹里,쥬리,name
-凛世,린제,name
-夏葉,나츠하,name
-甘奈,아마나,name
-甜花,텐카,name
-千雪,치유키,name
-あさひ,아사히,name
-冬優子,후유코,name
-愛依,메이,name
+体力が中回復,Stamina Medium Recovery,text
+テンションが中UP,Tension Medium UP,text
+親愛度が中UP,Affection Medium UP,text
+体力が大回復,Stamina Large Recovery,text
+テンションが大UP,Tension Large UP,text
+親愛度が大UP,Affection Large UP,text
+体力が特大回復,Stamina Extra Large Recovery,text
+テンションが特大UP,Tension Extra Large UP,text
+親愛度が特大UP,Affection Extra Large UP,text
+体力が小回復,Stamina Small Recovery,text
+テンションが小UP,Tension Small UP,text
+親愛度が小UP,Affection Small UP,text
+リハ流行Vo,Rehearsal Trend Vo,text
+リハ流行Da,Rehearsal Trend Da,text
+リハ流行Vi,Rehearsal Trend Vi,text
+本番流行Vo,Performance Trend Vo,text
+本番流行Da,Performance Trend Da,text
+本番流行Vi,Performance Trend Vi,text
+全アイドルと七草はづきの絆UP,Increase Bonds of all Idols and Hazuki,text
+限定スキル解放,Unlock Limited Skill,text
+審査員スキル,Judge Skill,text
+思い出アピール未修得の状態です,Memory Appeal Not Yet Ready,text
+真乃,Mano,name
+灯織,Hiori,name
+めぐる,Meguru,name
+恋鐘,Kogane,name
+摩美々,Mamimi,name
+咲耶,Sakuya,name
+結華,Yuika,name
+霧子,Kiriko,name
+果穂,Kaho,name
+智代子,Chiyoko,name
+樹里,Juri,name
+凛世,Rinze,name
+夏葉,Natsuha,name
+甘奈,Amana,name
+甜花,Tenka,name
+千雪,Chiyuki,name
+あさひ,Asahi,name
+冬優子,Fuyuko,name
+愛依,Mei,name
