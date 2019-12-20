@@ -24,14 +24,14 @@ const googleApi = async (keyword) => {
     query += `&dt=${item}`
   })
   const data = qs.stringify({ q: keyword })
-  const res = await request(`https://translate.google.cn/translate_a/single?${query}`, {
+  const res = await request(`https://translate.google.com/translate_a/single?${query}`, {
     data: data,
     method: 'POST',
     headers: {
       'accept': '*/*',
       'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
-      'referer': 'https://translate.google.cn',
-      'origin':'https://translate.google.cn',
+      'referer': 'https://translate.google.com',
+      'origin':'https://translate.google.com',
     }
   })
   return getTransResult(res)

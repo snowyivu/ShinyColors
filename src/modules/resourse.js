@@ -15,6 +15,14 @@ const imageLog = (method, color, path, url) => {
   }
 }
 
+let imageDataPrms = null
+const ensureImage = async () => {
+  if (!imageDataPrms) {
+    imageDataPrms = getImage()
+  }
+  return await imageDataPrms
+}
+
 let replaced = false
 export default async function resourceHook () {
   let aoba = await getAoba()
