@@ -1,0 +1,23 @@
+id,name,text,trans
+1002001000210010,灯織,"……あ、おはようございます。プロデューサー
+挨拶が遅れてすみません","……Ah, Good Morning. Producer, sorry I didn't greet you right away"
+0000000000000,プロデューサー,ああ、おはよう。スマホで何か見てたのか？,"Oh, Hey. Were you looking at something on your smart phone?"
+1002001000210020,灯織,ええ……他のアイドルのライブ映像を、少し,Yes…… I was just looking at a different idol's live video for a bit
+0000000000000,プロデューサー,"へぇ。俺にもちょっと見せてくれ
+このアイドルは……",Oh. Can you show me? This idol is……
+select,,個性的なアイドルだな,A unique idol
+select,,普通のアイドルだな,A normal idol
+select,,かわいいアイドルだな,A cute idol
+1002001000210030,灯織,はい、こんなすごいパフォーマンス、そうそうできません,"Yes, I couldn't imagine such an amazing performance"
+1002001000210040,灯織,だから……とても興味を惹かれるんですよね,That's why…… It really drew my interest
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001000210050,灯織,"そう、なんですか……プロデューサーからだと、
+普通に見えるんですね",I see…… So from your point of view it's normal
+1002001000210060,灯織,……私にはそうは思えないのに,……I don't think so though
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001000210070,灯織,見た目のことではなく、ダンスや歌を見てください,"I'm not talking about looks, look at the dancing and singing"
+1002001000210080,灯織,"……しっかり見れば、かわいいだけではないと
+気づけるはずです",……I think if you look properly you'll realize it's not just cute
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah ……I screwed up. I should have said something else……)
+info,produce_communications/100200100021.json,
+译者,,
