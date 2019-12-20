@@ -25,7 +25,7 @@ export default async function resourceHook () {
       imageLog('IMAGE','#ed9636', this.name, this.url)
     }
     try {
-      const imageMap = await getImage()
+      const imageMap = await ensureImage()
       if (type === 'image' && imageMap.has(this.name)) {
         const data = imageMap.get(this.name)
         if (this.url.endsWith(`v=${data.version}`)) {

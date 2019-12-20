@@ -6,13 +6,9 @@ const glob = require('glob')
 const CSV = require('papaparse')
 const moduleId = require('./MODULE_ID.json')
 
-const bdsign = {
-  token: 'd0a372e3e02871d51c42606a18702e2b',
-  gtk: '320305.131321201'
-}
-
 const cyweb_token = 't4d0s9zds4fw272poa11'
-const trans_api = 'caiyun'
+const trans_api = 'google'  // Optional: google
+const language = 'en'    // Can be changed when using google: en/ko/de/fr/ru etc.
 
 const Glob = glob.Glob
 glob.promise = function (pattern, options) {
@@ -52,7 +48,7 @@ const getDate = (offset = 0) => {
   return `${year}/${month}/${date} ${h}:${m}:${sec}.${msec}`
 }
 
-const etcFiles = ['image', 'item', 'mission', 'support-skill', 'mission-re']
+const etcFiles = ['image', 'item', 'support-skill', 'mission-re']
 
 const start = async () => {
   await fse.emptyDir('./dist/data/')
@@ -60,7 +56,7 @@ const start = async () => {
   console.log(hash)
   await fse.writeJSON('./dist/manifest.json', {
     hash, version, moduleId,
-    bdsign, cyweb_token, trans_api,
+    language, cyweb_token, trans_api,
     date: getDate(9)
   })
   console.log('story...')
