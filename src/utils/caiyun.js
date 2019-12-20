@@ -1,6 +1,6 @@
 import BrowserId from './browserId'
 import request from './request'
-import { fetchInfo, getHash } from './fetch'
+import { fetchInfo } from './fetch'
 
 let defaultUid = '5a096eec830f7876a48aac47'
 let bid = ''
@@ -15,7 +15,6 @@ const sleep = (time) => {
 }
 
 const testCookies = async () => {
-  await getHash
   const res = await request('https://biz.caiyunapp.com/test_cookies', { 
     cors: true,
     credentials: 'include',
@@ -63,7 +62,7 @@ const getAuth = () => {
         })
       }).then(res => {
         if (res.auth_type === -1 || !res.page_id) {
-          throw new Error('caiyun api out of limit.')
+          throw new Error('Caiyun api out of limit.')
         } else {
           pid = res.page_id
         }
