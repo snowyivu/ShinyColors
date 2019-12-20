@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.9.1
+// @version      0.9.8
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -9,7 +9,7 @@
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @connect      api.interpreter.caiyunai.com
-// @connect      translate.google.cn
+// @connect      translate.google.com
 // @connect      fanyi.baidu.com
 // @updateURL    https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js
 // @supportURL   https://github.com/snowyivu/ShinyColors/issues
@@ -241,6 +241,12 @@
 	  return true;
 	};
 
+	const sleep = time => {
+	  return new Promise(rev => {
+	    setTimeout(rev, time);
+	  });
+	};
+
 	const trim = str => {
 	  if (!str) return '';
 
@@ -345,6 +351,26 @@
 	      item.speaker = tagText(nameMap.get(speaker));
 	    }
 	  }
+	};
+
+	const tagStoryText = data => {
+	  data.forEach(item => {
+	    if (item.text && !item.text.startsWith('\u200b')) {
+	      item.text = '\u200c' + item.text;
+	    }
+	  });
+	};
+
+	const sess = (key, data) => {
+	  try {
+	    if (data) {
+	      sessionStorage.setItem(key, JSON.stringify(data));
+	      return true;
+	    } else {
+	      let str = sessionStorage.getItem(key);
+	      return JSON.parse(str);
+	    }
+	  } catch (e) {}
 	};
 
 	/** `Object#toString` result references. */
@@ -454,7 +480,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.9.1";
+	var version = "0.9.8";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -827,6 +853,7 @@
 
 	const itemMap = new Map();
 	const itemLimitMap = new Map();
+	const itemNoteMap = new Map();
 	let loaded$1 = false;
 
 	const getItem = async () => {
@@ -848,6 +875,8 @@
 	        if (text && trans && text !== trans) {
 	          if (type === 'limit') {
 	            itemLimitMap.set(text, trans);
+	          } else if (type === 'note') {
+	            itemNoteMap.set(text, trans);
 	          } else {
 	            itemMap.set(text, trans);
 	          }
@@ -859,7 +888,8 @@
 
 	  return {
 	    itemMap,
-	    itemLimitMap
+	    itemLimitMap,
+	    itemNoteMap
 	  };
 	};
 
@@ -1081,6 +1111,23 @@
 
 	let commMap = new Map();
 	let typeTextMap$1 = new Map();
+	const typeTextStack = [];
+
+	const setTypeText = text => {
+	  typeTextStack.push(text);
+	  if (DEV && SHOW_UPDATE_TEXT) log(typeTextStack);
+	  setTimeout(() => typeTextStack.shift(), 10000);
+	};
+
+	const isTyping = text => {
+	  let typing = false;
+	  typeTextStack.forEach(txt => {
+	    if (txt.startsWith(text)) {
+	      typing = true;
+	    }
+	  });
+	  return typing;
+	};
 
 	const replaceFont = style => {
 	  if (style && style.fontFamily) {
@@ -1125,7 +1172,8 @@
 	  } else if (text.trim()) {
 	    if (isType) {
 	      _text = textInMap(text, typeTextMap$1, style);
-	    } else {
+	      setTypeText(text);
+	    } else if (!isTyping(text) && !text.startsWith('\u200c')) {
 	      _text = textInMap(text, commMap, style);
 	    }
 	  }
@@ -1423,14 +1471,14 @@
 	  };
 	};
 
-	let skillData = null;
+	let skillDataPrms = null;
 
 	const ensureSkillData = async () => {
-	  if (!skillData) {
-	    skillData = await getSkill();
+	  if (!skillDataPrms) {
+	    skillDataPrms = getSkill();
 	  }
 
-	  return skillData;
+	  return await skillDataPrms;
 	};
 
 	const nameWithPlus = (list, data) => {
@@ -1892,12 +1940,14 @@
 	};
 
 	let missionData = null;
+	let msPrms = null;
 
 	const ensureMissionData = async () => {
-	  if (!missionData) {
-	    missionData = await getMission();
+	  if (!msPrms) {
+	    msPrms = getMission();
 	  }
 
+	  missionData = await msPrms;
 	  return missionData;
 	};
 
@@ -1967,19 +2017,13 @@
 	  processMission(data.reportUserMissions);
 	};
 
-	const accumulatedPresent = (item, key) => {
-	  if (item && item[key] && /イベントミッションを\d+個達成しよう/.test(item[key])) {
-	    item[key] = tagText(item[key].replace(/イベントミッションを(\d+)個達成しよう/, '完成$1个活动任务'));
-	  }
-	};
-
 	const fesRecomMission = async data => {
 	  await ensureMissionData();
 	  replaceMission(data.userRecommendedMission.mission, 'comment');
 	  replaceMission(data.userRecommendedMission.mission, 'title');
 	  data.accumulatedPresent.userGameEventAccumulatedPresents.forEach(item => {
-	    accumulatedPresent(item.gameEventAccumulatedPresent, 'comment');
-	    accumulatedPresent(item.gameEventAccumulatedPresent, 'title');
+	    replaceMission(item.gameEventAccumulatedPresent, 'comment');
+	    replaceMission(item.gameEventAccumulatedPresent, 'title');
 	  });
 	};
 
@@ -2001,37 +2045,79 @@
 
 	const userItemTypes = ['userRecoveryItems', 'userProduceItems', 'userExchangeItems', 'userLotteryTickets', 'userEvolutionItems', 'userGashaTickets', 'userScoutTickets', 'userEnhancementItems'];
 	const itemTypes = ['produceItem', 'recoveryItem', 'exchangeItem', 'lotteryTicket', 'evolutionItem', 'gashaTicket', 'scoutTicket', 'enhancementItem'];
+	let itemPrms;
+
+	const ensureItem = async () => {
+	  if (!itemPrms) {
+	    itemPrms = getItem();
+	  }
+
+	  return await itemPrms;
+	};
+
+	let unknownItems = [];
+
+	const collectItems = text => {
+	  if (!text) return;
+
+	  let _text = replaceWrap(text);
+
+	  if (!unknownItems.includes(_text)) {
+	    unknownItems.push(_text);
+	  }
+	};
+
+	let win = unsafeWindow || window;
+
+	win.printUnknowItems = () => log(unknownItems.join('\n'));
 
 	const transItem = (item, key, {
 	  itemMap,
-	  itemLimitMap
+	  itemLimitMap,
+	  itemNoteMap
 	}) => {
 	  if (!item || typeof item[key] !== 'string') return;
 	  let text = fixWrap(item[key]);
 	  let limit = '';
+	  let note = '';
+	  let exp = '';
 
-	  if (/[\r\n]{1,2}\[[^\]]+\]$/.test(text)) {
-	    let rgs = text.match(/([\s\S]+)[\r\n]{1,2}(\[[^\]]+\])$/);
+	  if (/[\s\S]+[\r\n]{0,2}\[[^\]]+\]$/.test(text)) {
+	    let rgs = text.match(/([\s\S]+)([\r\n]{0,2}\[[^\]]+\])$/);
+	    text = rgs[1].trim();
+	    let txt = rgs[2];
 
-	    if (rgs && rgs[1]) {
-	      text = rgs[1].trim();
+	    if (itemLimitMap.has(txt)) {
+	      limit = itemLimitMap.get(txt);
+	    } else {
+	      limit = txt;
+	    }
+	  }
 
-	      if (itemLimitMap.has(rgs[2])) {
-	        limit = itemLimitMap.get(rgs[2]);
-	      } else {
-	        limit = rgs[2];
-	      }
+	  if (/[\s\S]+[\r\n]{0,2}【Exp:\d+】$/.test(text)) {
+	    let rgs = text.match(/([\s\S]+)([\r\n]{0,2}【Exp:\d+】)$/);
+	    text = rgs[1].trim();
+	    exp = rgs[2];
+	  }
+
+	  if (/[\s\S]+[\r\n]{0,2}[(（][^)）]+[）)]$/.test(text)) {
+	    let rgs = text.match(/([\s\S]+)([\r\n]{0,2})[(（]([^)）]+)[）)]$/);
+	    text = rgs[1].trim();
+	    let txt = rgs[3];
+
+	    if (itemNoteMap.has(txt)) {
+	      note = "".concat(rgs[2], "\uFF08").concat(itemNoteMap.get(txt), "\uFF09");
+	    } else {
+	      note = "".concat(rgs[2], "\uFF08txt\uFF09");
 	    }
 	  }
 
 	  if (itemMap.has(text)) {
 	    let trans = itemMap.get(text);
-
-	    if (limit) {
-	      trans += "\n".concat(limit);
-	    }
-
+	    trans = "".concat(trans).concat(note).concat(exp).concat(limit);
 	    item[key] = tagText(trans);
+	  } else if (DEV) {
+	    collectItems(item[key]);
 	  }
 	};
 
@@ -2039,13 +2125,14 @@
 	  if (shop && shop.shopMerchandises) {
 	    shop.shopMerchandises.forEach(item => {
 	      transItem(item, 'title', maps);
+	      transItem(item, 'shopTitle', maps);
 	      transItem(item, 'comment', maps);
 	    });
 	  }
 	};
 
 	const transShopItem = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 
 	  if (data) {
 	    if (Array.isArray(data.userShops)) {
@@ -2065,7 +2152,7 @@
 	const transUserItem = async data => {
 	  let list = data;
 	  if (data.userProduceItems) list = data.userProduceItems;
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 
 	  if (Array.isArray(list)) {
 	    list.forEach(obj => {
@@ -2077,7 +2164,7 @@
 	};
 
 	const transShopPurchase = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 
 	  if (data && data.shopMerchandise) {
 	    transItem(data.shopMerchandise, 'title', maps);
@@ -2086,7 +2173,7 @@
 	};
 
 	const transPresentItem = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 
 	  if (Array.isArray(data)) {
 	    data.forEach(obj => {
@@ -2096,17 +2183,17 @@
 	};
 
 	const transReceivePresent = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 	  transItem(data.receivedPresent, 'Name', maps);
 	};
 
 	const transReceiveMission = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 	  transItem(data.userMission.mission.missionReward.content, 'name', maps);
 	};
 
 	const transLoginBonus = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 	  data.userLoginBonuses.forEach(item => {
 	    item.loginBonus.sheets.forEach(sheet => {
 	      sheet.rewards.forEach(reward => {
@@ -2122,7 +2209,7 @@
 	};
 
 	const transFesReward = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 
 	  if (data.lastRankingResult) {
 	    if (Array.isArray(data.lastRankingResult.fesMatchGradeRewards)) {
@@ -2134,11 +2221,18 @@
 	};
 
 	const transAccumulatedPresent = async data => {
-	  const maps = await getItem();
+	  const maps = await ensureItem();
 	  data.accumulatedPresent.userGameEventAccumulatedPresents.forEach(item => {
 	    item.gameEventAccumulatedPresent.rewards.forEach(reward => {
 	      transItem(reward.content, 'name', maps);
 	    });
+	  });
+	};
+
+	const selectLoginBonus = async data => {
+	  const maps = await ensureItem();
+	  data.rewards.forEach(reward => {
+	    transItem(reward.content, 'name', maps);
 	  });
 	};
 
@@ -2194,65 +2288,6 @@
 	  }
 
 	  return cyPrefixMap;
-	};
-
-	const CROSS_DOMAIN_REQ = !!window.GM_xmlhttpRequest;
-
-	const request$1 = (url, option = {}) => {
-	  const {
-	    method = 'GET',
-	    headers,
-	    responseType = 'json',
-	    data,
-	    cors = false,
-	    credentials
-	  } = option;
-
-	  if (cors) {
-	    return fetch(url, {
-	      body: data,
-	      headers,
-	      method,
-	      mode: 'cors',
-	      credentials
-	    }).then(res => res.json());
-	  }
-
-	  return new Promise((rev, rej) => {
-	    if (!CROSS_DOMAIN_REQ) {
-	      return rej('GM_XHR MISSING');
-	    }
-
-	    window.GM_xmlhttpRequest({
-	      method,
-	      url,
-	      headers,
-	      responseType,
-	      data,
-
-	      onload({
-	        status,
-	        responseText,
-	        statusText
-	      }) {
-	        if (status >= 200 && status < 300) {
-	          if (responseType === 'json') {
-	            const obj = JSON.parse(responseText);
-	            rev(obj);
-	          } else {
-	            rev(responseText);
-	          }
-	        } else {
-	          rej(statusText);
-	        }
-	      },
-
-	      onerror(err) {
-	        rej(err);
-	      }
-
-	    });
-	  });
 	};
 
 	var BrowserId = (function () {
@@ -2893,20 +2928,78 @@
 	  }, e.VERSION = "1.8.0", e;
 	})();
 
+	const CROSS_DOMAIN_REQ = !!window.GM_xmlhttpRequest;
+
+	const request$1 = (url, option = {}) => {
+	  const {
+	    method = 'GET',
+	    headers,
+	    responseType = 'json',
+	    data,
+	    cors = false,
+	    credentials
+	  } = option;
+
+	  if (cors) {
+	    return fetch(url, {
+	      body: data,
+	      headers,
+	      method,
+	      mode: 'cors',
+	      credentials
+	    }).then(res => res.json());
+	  }
+
+	  return new Promise((rev, rej) => {
+	    if (!CROSS_DOMAIN_REQ) {
+	      return rej('GM_XHR MISSING');
+	    }
+
+	    window.GM_xmlhttpRequest({
+	      method,
+	      url,
+	      headers,
+	      responseType,
+	      data,
+
+	      onload({
+	        status,
+	        responseText,
+	        statusText
+	      }) {
+	        if (status >= 200 && status < 300) {
+	          if (responseType === 'json') {
+	            const obj = JSON.parse(responseText);
+	            rev(obj);
+	          } else {
+	            rev(responseText);
+	          }
+	        } else {
+	          rej(statusText);
+	        }
+	      },
+
+	      onerror(err) {
+	        rej(err);
+	      }
+
+	    });
+	  });
+	};
+
 	let defaultUid = '5a096eec830f7876a48aac47';
 	let bid = '';
 	let uid = '';
 	let pid = '';
 	let auth = null;
 
-	const sleep = time => {
+	const sleep$1 = time => {
 	  return new Promise(rev => {
 	    setTimeout(rev, time);
 	  });
 	};
 
 	const testCookies = async () => {
-	  await getHash;
 	  const res = await request$1('https://biz.caiyunapp.com/test_cookies', {
 	    cors: true,
 	    credentials: 'include',
@@ -2932,7 +3025,7 @@
 	          let count = 5;
 
 	          while (!bid || --count > 0) {
-	            await sleep(300);
+	            await sleep$1(300);
 	          }
 
 	          if (!bid) {
@@ -2958,7 +3051,7 @@
 	        });
 	      }).then(res => {
 	        if (res.auth_type === -1 || !res.page_id) {
-	          throw new Error('caiyun api out of limit.');
+	          throw new Error('Caiyun api out of limit.');
 	        } else {
 	          pid = res.page_id;
 	        }
@@ -2998,49 +3091,420 @@
 	  return [];
 	};
 
-	function a(r) {
-	  if (Array.isArray(r)) {
-	    for (var o = 0, t = Array(r.length); o < r.length; o++) t[o] = r[o];
+	var utils = createCommonjsModule(function (module, exports) {
 
-	    return t;
+
+	exports.arrayToObject = function (source) {
+
+	    var obj = {};
+	    for (var i = 0, il = source.length; i < il; ++i) {
+	        if (typeof source[i] !== 'undefined') {
+
+	            obj[i] = source[i];
+	        }
+	    }
+
+	    return obj;
+	};
+
+
+	exports.merge = function (target, source) {
+
+	    if (!source) {
+	        return target;
+	    }
+
+	    if (typeof source !== 'object') {
+	        if (Array.isArray(target)) {
+	            target.push(source);
+	        }
+	        else {
+	            target[source] = true;
+	        }
+
+	        return target;
+	    }
+
+	    if (typeof target !== 'object') {
+	        target = [target].concat(source);
+	        return target;
+	    }
+
+	    if (Array.isArray(target) &&
+	        !Array.isArray(source)) {
+
+	        target = exports.arrayToObject(target);
+	    }
+
+	    var keys = Object.keys(source);
+	    for (var k = 0, kl = keys.length; k < kl; ++k) {
+	        var key = keys[k];
+	        var value = source[key];
+
+	        if (!target[key]) {
+	            target[key] = value;
+	        }
+	        else {
+	            target[key] = exports.merge(target[key], value);
+	        }
+	    }
+
+	    return target;
+	};
+
+
+	exports.decode = function (str) {
+
+	    try {
+	        return decodeURIComponent(str.replace(/\+/g, ' '));
+	    } catch (e) {
+	        return str;
+	    }
+	};
+
+
+	exports.compact = function (obj, refs) {
+
+	    if (typeof obj !== 'object' ||
+	        obj === null) {
+
+	        return obj;
+	    }
+
+	    refs = refs || [];
+	    var lookup = refs.indexOf(obj);
+	    if (lookup !== -1) {
+	        return refs[lookup];
+	    }
+
+	    refs.push(obj);
+
+	    if (Array.isArray(obj)) {
+	        var compacted = [];
+
+	        for (var i = 0, il = obj.length; i < il; ++i) {
+	            if (typeof obj[i] !== 'undefined') {
+	                compacted.push(obj[i]);
+	            }
+	        }
+
+	        return compacted;
+	    }
+
+	    var keys = Object.keys(obj);
+	    for (i = 0, il = keys.length; i < il; ++i) {
+	        var key = keys[i];
+	        obj[key] = exports.compact(obj[key], refs);
+	    }
+
+	    return obj;
+	};
+
+
+	exports.isRegExp = function (obj) {
+	    return Object.prototype.toString.call(obj) === '[object RegExp]';
+	};
+
+
+	exports.isBuffer = function (obj) {
+
+	    if (obj === null ||
+	        typeof obj === 'undefined') {
+
+	        return false;
+	    }
+
+	    return !!(obj.constructor &&
+	        obj.constructor.isBuffer &&
+	        obj.constructor.isBuffer(obj));
+	};
+	});
+	var utils_1 = utils.arrayToObject;
+	var utils_2 = utils.merge;
+	var utils_3 = utils.decode;
+	var utils_4 = utils.compact;
+	var utils_5 = utils.isRegExp;
+	var utils_6 = utils.isBuffer;
+
+	// Load modules
+
+
+
+
+	// Declare internals
+
+	var internals = {
+	    delimiter: '&',
+	    indices: true
+	};
+
+
+	internals.stringify = function (obj, prefix, options) {
+
+	    if (utils.isBuffer(obj)) {
+	        obj = obj.toString();
+	    }
+	    else if (obj instanceof Date) {
+	        obj = obj.toISOString();
+	    }
+	    else if (obj === null) {
+	        obj = '';
+	    }
+
+	    if (typeof obj === 'string' ||
+	        typeof obj === 'number' ||
+	        typeof obj === 'boolean') {
+
+	        return [encodeURIComponent(prefix) + '=' + encodeURIComponent(obj)];
+	    }
+
+	    var values = [];
+
+	    if (typeof obj === 'undefined') {
+	        return values;
+	    }
+
+	    var objKeys = Object.keys(obj);
+	    for (var i = 0, il = objKeys.length; i < il; ++i) {
+	        var key = objKeys[i];
+	        if (!options.indices &&
+	            Array.isArray(obj)) {
+
+	            values = values.concat(internals.stringify(obj[key], prefix, options));
+	        }
+	        else {
+	            values = values.concat(internals.stringify(obj[key], prefix + '[' + key + ']', options));
+	        }
+	    }
+
+	    return values;
+	};
+
+
+	var stringify = function (obj, options) {
+
+	    options = options || {};
+	    var delimiter = typeof options.delimiter === 'undefined' ? internals.delimiter : options.delimiter;
+	    options.indices = typeof options.indices === 'boolean' ? options.indices : internals.indices;
+
+	    var keys = [];
+
+	    if (typeof obj !== 'object' ||
+	        obj === null) {
+
+	        return '';
+	    }
+
+	    var objKeys = Object.keys(obj);
+	    for (var i = 0, il = objKeys.length; i < il; ++i) {
+	        var key = objKeys[i];
+	        keys = keys.concat(internals.stringify(obj[key], key, options));
+	    }
+
+	    return keys.join(delimiter);
+	};
+
+	// Load modules
+
+
+
+
+	// Declare internals
+
+	var internals$1 = {
+	    delimiter: '&',
+	    depth: 5,
+	    arrayLimit: 20,
+	    parameterLimit: 1000
+	};
+
+
+	internals$1.parseValues = function (str, options) {
+
+	    var obj = {};
+	    var parts = str.split(options.delimiter, options.parameterLimit === Infinity ? undefined : options.parameterLimit);
+
+	    for (var i = 0, il = parts.length; i < il; ++i) {
+	        var part = parts[i];
+	        var pos = part.indexOf(']=') === -1 ? part.indexOf('=') : part.indexOf(']=') + 1;
+
+	        if (pos === -1) {
+	            obj[utils.decode(part)] = '';
+	        }
+	        else {
+	            var key = utils.decode(part.slice(0, pos));
+	            var val = utils.decode(part.slice(pos + 1));
+
+	            if (!obj.hasOwnProperty(key)) {
+	                obj[key] = val;
+	            }
+	            else {
+	                obj[key] = [].concat(obj[key]).concat(val);
+	            }
+	        }
+	    }
+
+	    return obj;
+	};
+
+
+	internals$1.parseObject = function (chain, val, options) {
+
+	    if (!chain.length) {
+	        return val;
+	    }
+
+	    var root = chain.shift();
+
+	    var obj = {};
+	    if (root === '[]') {
+	        obj = [];
+	        obj = obj.concat(internals$1.parseObject(chain, val, options));
+	    }
+	    else {
+	        var cleanRoot = root[0] === '[' && root[root.length - 1] === ']' ? root.slice(1, root.length - 1) : root;
+	        var index = parseInt(cleanRoot, 10);
+	        var indexString = '' + index;
+	        if (!isNaN(index) &&
+	            root !== cleanRoot &&
+	            indexString === cleanRoot &&
+	            index >= 0 &&
+	            index <= options.arrayLimit) {
+
+	            obj = [];
+	            obj[index] = internals$1.parseObject(chain, val, options);
+	        }
+	        else {
+	            obj[cleanRoot] = internals$1.parseObject(chain, val, options);
+	        }
+	    }
+
+	    return obj;
+	};
+
+
+	internals$1.parseKeys = function (key, val, options) {
+
+	    if (!key) {
+	        return;
+	    }
+
+	    // The regex chunks
+
+	    var parent = /^([^\[\]]*)/;
+	    var child = /(\[[^\[\]]*\])/g;
+
+	    // Get the parent
+
+	    var segment = parent.exec(key);
+
+	    // Don't allow them to overwrite object prototype properties
+
+	    if (Object.prototype.hasOwnProperty(segment[1])) {
+	        return;
+	    }
+
+	    // Stash the parent if it exists
+
+	    var keys = [];
+	    if (segment[1]) {
+	        keys.push(segment[1]);
+	    }
+
+	    // Loop through children appending to the array until we hit depth
+
+	    var i = 0;
+	    while ((segment = child.exec(key)) !== null && i < options.depth) {
+
+	        ++i;
+	        if (!Object.prototype.hasOwnProperty(segment[1].replace(/\[|\]/g, ''))) {
+	            keys.push(segment[1]);
+	        }
+	    }
+
+	    // If there's a remainder, just add whatever is left
+
+	    if (segment) {
+	        keys.push('[' + key.slice(segment.index) + ']');
+	    }
+
+	    return internals$1.parseObject(keys, val, options);
+	};
+
+
+	var parse = function (str, options) {
+
+	    if (str === '' ||
+	        str === null ||
+	        typeof str === 'undefined') {
+
+	        return {};
+	    }
+
+	    options = options || {};
+	    options.delimiter = typeof options.delimiter === 'string' || utils.isRegExp(options.delimiter) ? options.delimiter : internals$1.delimiter;
+	    options.depth = typeof options.depth === 'number' ? options.depth : internals$1.depth;
+	    options.arrayLimit = typeof options.arrayLimit === 'number' ? options.arrayLimit : internals$1.arrayLimit;
+	    options.parameterLimit = typeof options.parameterLimit === 'number' ? options.parameterLimit : internals$1.parameterLimit;
+
+	    var tempObj = typeof str === 'string' ? internals$1.parseValues(str, options) : str;
+	    var obj = {};
+
+	    // Iterate over the keys and setup the new object
+
+	    var keys = Object.keys(tempObj);
+	    for (var i = 0, il = keys.length; i < il; ++i) {
+	        var key = keys[i];
+	        var newObj = internals$1.parseKeys(key, tempObj[key], options);
+	        obj = utils.merge(obj, newObj);
+	    }
+
+	    return utils.compact(obj);
+	};
+
+	var lib = {
+	    stringify: stringify,
+	    parse: parse
+	};
+
+	var qs = lib;
+
+	const getTransResult = data => {
+	  if (data[0] && data[0].length) {
+	    const result = data[0].map(item => item[0]);
+	    return result.join('').split('\n');
 	  }
 
-	  return Array.from(r);
-	}
+	  return [];
+	};
 
-	function n(r, o) {
-	  for (var t = 0; t < o.length - 2; t += 3) {
-	    var a = o.charAt(t + 2);
-	    a = a >= "a" ? a.charCodeAt(0) - 87 : Number(a), a = "+" === o.charAt(t + 1) ? r >>> a : r << a, r = "+" === o.charAt(t) ? r + a & 4294967295 : r ^ a;
-	  }
-
-	  return r;
-	}
-
-	const bdsign = r => {
-	  var o = r.match(/[\uD800-\uDBFF][\uDC00-\uDFFF]/g);
-
-	  if (null === o) {
-	    var t = r.length;
-	    t > 30 && (r = "" + r.substr(0, 10) + r.substr(Math.floor(t / 2) - 5, 10) + r.substr(-10, 10));
-	  } else {
-	    for (var e = r.split(/[\uD800-\uDBFF][\uDC00-\uDFFF]/), C = 0, h = e.length, f = []; h > C; C++) "" !== e[C] && f.push.apply(f, a(e[C].split(""))), C !== h - 1 && f.push(o[C]);
-
-	    var g = f.length;
-	    g > 30 && (r = f.slice(0, 10).join("") + f.slice(Math.floor(g / 2) - 5, Math.floor(g / 2) + 5).join("") + f.slice(-10).join(""));
-	  }
-
-	  var u = void 0;
-	  u = fetchInfo.data.bdsign.gtk || '320305.131321201';
-
-	  for (var d = u.split("."), m = Number(d[0]) || 0, s = Number(d[1]) || 0, S = [], c = 0, v = 0; v < r.length; v++) {
-	    var A = r.charCodeAt(v);
-	    128 > A ? S[c++] = A : (2048 > A ? S[c++] = A >> 6 | 192 : (55296 === (64512 & A) && v + 1 < r.length && 56320 === (64512 & r.charCodeAt(v + 1)) ? (A = 65536 + ((1023 & A) << 10) + (1023 & r.charCodeAt(++v)), S[c++] = A >> 18 | 240, S[c++] = A >> 12 & 63 | 128) : S[c++] = A >> 12 | 224, S[c++] = A >> 6 & 63 | 128), S[c++] = 63 & A | 128);
-	  }
-
-	  for (var p = m, F = "" + String.fromCharCode(43) + String.fromCharCode(45) + String.fromCharCode(97) + ("" + String.fromCharCode(94) + String.fromCharCode(43) + String.fromCharCode(54)), D = "" + String.fromCharCode(43) + String.fromCharCode(45) + String.fromCharCode(51) + ("" + String.fromCharCode(94) + String.fromCharCode(43) + String.fromCharCode(98)) + ("" + String.fromCharCode(43) + String.fromCharCode(45) + String.fromCharCode(102)), b = 0; b < S.length; b++) p += S[b], p = n(p, F);
-
-	  return p = n(p, D), p ^= s, 0 > p && (p = (2147483647 & p) + 2147483648), p %= 1e6, p.toString() + "." + (p ^ m);
+	const googleApi = async keyword => {
+	  let to = fetchInfo.data.language || 'zh-CN';
+	  let query = qs.stringify({
+	    client: 'gtx',
+	    sl: 'ja',
+	    tl: to,
+	    hl: to,
+	    ie: 'UTF-8',
+	    oe: 'UTF-8'
+	  });
+	  ['at', 'bd', 'ex', 'ld', 'md', 'qca', 'rw', 'rm', 'ss', 't'].forEach(item => {
+	    query += "&dt=".concat(item);
+	  });
+	  const data = qs.stringify({
+	    q: keyword
+	  });
+	  const res = await request$1("https://translate.google.com/translate_a/single?".concat(query), {
+	    data: data,
+	    method: 'POST',
+	    headers: {
+	      'accept': '*/*',
+	      'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+	      'referer': 'https://translate.google.com',
+	      'origin': 'https://translate.google.com'
+	    }
+	  });
+	  return getTransResult(res);
 	};
 
 	const joinBr = (list, br, transArr) => {
@@ -3107,53 +3571,39 @@
 	  return arr;
 	};
 
-	const bdsApi = async (query, from = 'jp') => {
-	  let formData = new FormData();
-	  formData.append('from', from);
-	  formData.append('to', 'zh');
-	  formData.append('query', query);
-	  formData.append('transtype', 'realtime');
-	  formData.append('simple_means_flag', '3');
-	  formData.append('sign', bdsign(query));
-	  formData.append('token', fetchInfo.data.bdsign.token || 'b8441b5ad0953d78dbf4c8829bd226d1');
-	  let res = await request$1("https://fanyi.baidu.com/v2transapi?from=".concat(from, "&to=zh"), {
-	    data: formData,
-	    method: 'POST',
-	    headers: {
-	      'accept': '*/*',
-	      'referer': 'https://fanyi.baidu.com/translate',
-	      'origin': 'https://fanyi.baidu.com'
-	    }
-	  });
-
-	  if (res.error || !isString_1(res.trans_result.data[0].dst)) {
-	    throw new Error('trans fail');
-	  }
-
-	  return res.trans_result.data.map(item => item.dst);
-	};
-
-	const baiduTrans = async (source, from = 'jp') => {
+	const caiyunTrans = async source => {
 	  try {
+	    let limitTime = sess('caiyuLimit');
+
+	    if (limitTime && Date.now() - limitTime < 1000 * 60 * 60) {
+	      return [];
+	    }
+
 	    let [query, br] = joinText(source);
 	    let textArr = splitText(query);
-	    let result = await Promise.all(textArr.map(query => bdsApi(query, from)));
+	    let result = await Promise.all(textArr.map(query => {
+	      return translator(query.split('\n'));
+	    }));
 	    let list = result.reduce((a, b) => a.concat(b));
 	    let transArr = [];
 	    joinBr(list, br, transArr);
 	    return transArr;
 	  } catch (e) {
+	    if (e.message === 'Caiyun api out of limit.') {
+	      sess('caiyuLimit', Date.now());
+	    }
+
 	    log(e);
 	    return [];
 	  }
 	};
 
-	const caiyunTrans = async source => {
+	const googleTrans = async source => {
 	  try {
 	    let [query, br] = joinText(source);
 	    let textArr = splitText(query);
 	    let result = await Promise.all(textArr.map(query => {
-	      return translator(query.split('\n'));
+	      return googleApi(query);
 	    }));
 	    let list = result.reduce((a, b) => a.concat(b));
 	    let transArr = [];
@@ -3217,8 +3667,7 @@
 	const autoTransCache$1 = new Map();
 
 	const autoTrans = async (data, name, printText, skip = false) => {
-	  if (config.auto !== 'on' || !data.length) return;
-	  let fixedTransList;
+	  if (!data.length) return;
 	  const commMap = await getCommStory();
 	  const typeTextMap = await getTypeTextMap();
 	  const {
@@ -3228,23 +3677,26 @@
 	  if (!textInfo.length) return;
 	  const storyKey = name || data;
 	  let hasCache = false;
+	  let fixedTransList = [];
 
 	  if (autoTransCache$1.has(storyKey)) {
 	    hasCache = true;
 	    fixedTransList = autoTransCache$1.get(storyKey);
 	  } else {
-	    const fixedTextList = await preFix(textList);
+	    let transApi = fetchInfo.data.trans_api;
 	    let transList = [];
 
-	    if (!skip) {
-	      if (fetchInfo.data.trans_api === 'caiyun') {
+	    if (config.auto === 'on' && !skip) {
+	      if (transApi === 'caiyun') {
+	        let fixedTextList = await preFix(textList);
 	        transList = await caiyunTrans(fixedTextList);
-	      } else {
-	        transList = await baiduTrans(fixedTextList);
+	      } else if (transApi === 'google') {
+	        transList = await googleTrans(textList);
 	      }
+
+	      fixedTransList = await nounFix(transList);
 	    }
 
-	    fixedTransList = await nounFix(transList);
 	    autoTransCache$1.set(storyKey, fixedTransList);
 	  }
 
@@ -3278,6 +3730,7 @@
 	  data.forEach(item => {
 	    transSpeaker(item, nameMap);
 	  });
+	  tagStoryText(data);
 	};
 
 	const autoTransText = async (data, key = 'comment') => {
@@ -3307,7 +3760,9 @@
 	      }).join('').trim();
 	      await autoTrans(data.produceConcert.judges, name, true);
 	    }
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const fesMatchConcert = async data => {
@@ -3327,6 +3782,16 @@
 	      list = [...data.userHomeDeck.userHomeDeckAnimationMember.mypageComments];
 	    }
 
+	    let animeMembers = data.userHomeDeck.userHomeAnimationDeck.userHomeAnimationDeckMembers;
+
+	    if (animeMembers) {
+	      animeMembers.forEach(member => {
+	        member.mypageComments.forEach(comm => {
+	          list.push(comm);
+	        });
+	      });
+	    }
+
 	    if (data.userHomeDeck.userHomeDeckMembers.length) {
 	      data.userHomeDeck.userHomeDeckMembers.forEach(member => {
 	        member.mypageComments.forEach(comm => {
@@ -3336,7 +3801,9 @@
 	    }
 
 	    await transText(list);
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const fesDeckReactions = async data => {
@@ -3353,7 +3820,9 @@
 	    }
 
 	    await autoTransText(list);
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const topCharacterReaction = async data => {
@@ -3362,7 +3831,9 @@
 	  try {
 	    const list = [...data.topCharacterReaction.moveReactions, ...data.topCharacterReaction.skillReleasedReactions, ...data.topCharacterReaction.touchExReactions, ...data.topCharacterReaction.touchReactions, ...data.topCharacterReaction.waitReactions];
 	    await autoTransText(list);
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const lessonResult = async data => {
@@ -3378,7 +3849,9 @@
 	    if (lr.produceRestBoostSupportIdolComment) list = list.concat(lr.produceRestBoostSupportIdolComment);
 	    if (lr.produceRestComments) list = list.concat(lr.produceRestComments);
 	    await autoTransText(list);
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const produceEndWeek = async data => {
@@ -3419,21 +3892,30 @@
 	  try {
 	    let name = data.characterComment + data.producerComment;
 	    await autoTrans([data], name, true);
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const produceReporterAnswer = async data => {
 	  try {
-	    let list = data.produceReporterEvent.produceReporterEventAnswers;
-	    await autoTransText(list, 'comment2');
-	  } catch (e) {}
+	    let revent = data.produceReporterEvent;
+
+	    if (revent && revent.produceReporterEventAnswers) {
+	      await autoTransText(revent.produceReporterEventAnswers, 'comment2');
+	    }
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	const trustLevelUp = async data => {
 	  try {
 	    let list = data.characterTrustLevelUpComments;
 	    await autoTransText(list);
-	  } catch (e) {}
+	  } catch (e) {
+	    log(e);
+	  }
 	};
 
 	function collectCardName (data) {
@@ -5860,7 +6342,7 @@
 	};
 
 	const requestOfGet = [[[/^userSupportIdols\/\d+$/, /^userSupportIdols\/statusMax/, /^produceTeachingSupportIdols\/\d+$/], [supportSkill, userSptIdolsSkill, 'storyTitle']], [/^userProduce(Teaching)?SupportIdols\/\d+$/, [supportSkill, userProSptIdolsSkill]], [/^userReserveSupportIdols\/userSupportIdol\/\d+$/, [supportSkill, reserveUserSptIdolsSkill]], [/^userIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [/^userSupportIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [[/^userIdols\/\d+$/, /^userIdols\/statusMax$/, /^produceTeachingIdols\/\d+$/], [userIdolsSkill, 'storyTitle']], [[/^userProduce(Teaching)?Idols\/\d+$/, 'userProduceTeachingIdol'], userProIdolsSkill], [/^userReserveIdols\/userIdol\/\d+$/, reserveUserIdolsSkill], [/^userFesIdols\/\d+$/, userFesIdolsSkill], [['userProduces/skillPanels', 'userProduceTeachings/skillPanels'], proSkillPanels], ['userMissions', transMission], [/^fesRaidEvents\/\d+\/rewards$/, fesRaidMission], [['characterAlbums', 'album/top'], 'storyTitle'], [['userShops', 'userIdolPieceShops'], transShopItem], [userItemTypes, transUserItem], [[/^userPresents\?limit=/, /^userPresentHistories\?limit=/], transPresentItem], [/gashaGroups\/\d+\/rates/, 'cardName'], ['userProduces', [topCharacterReaction]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill]];
-	const requestOfPost = [['myPage', [reportMission, mypageComments]], [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]], [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill], ['userShops/actions/purchase', transShopPurchase], [/produces\/\d+\/actions\/ready/, transUserItem], [/userPresents\/\d+\/actions\/receive/, transReceivePresent], [/userMissions\/\d+\/actions\/receive/, transReceiveMission], ['userLoginBonuses', transLoginBonus], ['fesTop', [transFesReward, fesDeckReactions]], [[/^userProduce(Teaching)?s\/skillPanels\/\d+$/, /^userProduces\/limitedSkills\/\d+$/], proSkillPanels], [/userSupportIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, [userSptIdolsSkill, supportSkill]], [/^produces\/actions\/(resume|next)$/, [ideaNotesSkill, topCharacterReaction, produceEndWeek, resumeGamedata, characterComment, produceAudition, produceReporterAnswer, supportSkill]], [['produces/actions/resume', 'produces/actions/finish', 'produceTeachings/resume'], [produceFinish, resumeGameSkill]], ['produces/actions/endWeek', produceEndWeek], ['produces/actions/act', [lessonResult, noteResultSkill]], [/^fes(Match)?Concert\/actions\/start$/, [fesMatchConcert, fesMatchConcertSkill]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], ['produces/actions/result', [trustLevelUp, produceResultSkill]], [[/^produce(Teaching)?s\/(\d+\/audition|concert)\/actions\/start$/, /^produceTeachings\/(auditions|concerts)\/start$/], [auditionSkill]], [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]], ['userProduceHelperSupportIdols', helperSupportIdols], [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]]];
+	const requestOfPost = [['myPage', [reportMission, mypageComments]], [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]], [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill], ['userShops/actions/purchase', transShopPurchase], [/produces\/\d+\/actions\/ready/, transUserItem], [/userPresents\/\d+\/actions\/receive/, transReceivePresent], [/userMissions\/\d+\/actions\/receive/, transReceiveMission], ['userLoginBonuses', transLoginBonus], ['fesTop', [transFesReward, fesDeckReactions]], [[/^userProduce(Teaching)?s\/skillPanels\/\d+$/, /^userProduces\/limitedSkills\/\d+$/], proSkillPanels], [/userSupportIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, [userSptIdolsSkill, supportSkill]], [/^produces\/actions\/(resume|next)$/, [ideaNotesSkill, topCharacterReaction, produceEndWeek, resumeGamedata, characterComment, produceAudition, produceReporterAnswer, supportSkill]], [['produces/actions/resume', 'produces/actions/finish', 'produceTeachings/resume'], [produceFinish, resumeGameSkill]], ['produces/actions/endWeek', produceEndWeek], ['produces/actions/act', [lessonResult, noteResultSkill]], [/^fes(Match)?Concert\/actions\/start$/, [fesMatchConcert, fesMatchConcertSkill]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], ['produces/actions/result', [trustLevelUp, produceResultSkill]], [[/^produce(Teaching)?s\/(\d+\/audition|concert)\/actions\/start$/, /^produceTeachings\/(auditions|concerts)\/start$/], [auditionSkill]], [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]], ['userProduceHelperSupportIdols', helperSupportIdols], [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]], [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus]];
 	const requestOfPatch = [[/^userSupportIdols\/\d+$/, supportSkill], ['userFesDecks', userFesDeck]];
 	async function requestHook() {
 	  const request = await getRequest();
@@ -5958,6 +6440,16 @@
 	  }
 	};
 
+	let imageDataPrms = null;
+
+	const ensureImage = async () => {
+	  if (!imageDataPrms) {
+	    imageDataPrms = getImage();
+	  }
+
+	  return await imageDataPrms;
+	};
+
 	let replaced = false;
 	async function resourceHook() {
 	  let aoba = await getAoba();
@@ -5970,7 +6462,7 @@
 	    }
 
 	    try {
-	      const imageMap = await getImage();
+	      const imageMap = await ensureImage();
 
 	      if (type === 'image' && imageMap.has(this.name)) {
 	        const data = imageMap.get(this.name);
@@ -8345,6 +8837,8 @@
 	          transStory(res, storyMap, commMap, nameMap);
 	        } else if (config.auto === 'on') {
 	          await autoTrans(res, name);
+	        } else {
+	          await autoTrans(res, name, false, true);
 	        }
 	      } catch (e) {
 	        log(e);
@@ -8404,10 +8898,23 @@
 	  }
 	};
 
+	let waitCount = 0;
+
+	const start = async () => {
+	  if ((unsafeWindow && unsafeWindow.ezg || window.ezg) && waitCount < 300) {
+	    await sleep(100);
+	    waitCount++;
+	    if (waitCount % 10 === 0) log("Waiting: ".concat(waitCount / 10, "s"));
+	    await start();
+	  } else {
+	    main();
+	  }
+	};
+
 	if (window.unsafeWindow) {
-	  unsafeWindow.addEventListener('load', main);
+	  unsafeWindow.addEventListener('load', start);
 	} else {
-	  window.addEventListener('load', main);
+	  window.addEventListener('load', start);
 	}
 
 }());
