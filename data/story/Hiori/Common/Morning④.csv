@@ -1,0 +1,24 @@
+id,name,text,trans
+1002001000410010,灯織,……えっと、この日はダンスレッスンに……,"……Um, Let's have a Dance Lesson on this day……"
+0000000000000,プロデューサー,おはよう。その手帳は……スケジュール帳か,Good Morning. That book is…… the schedule book huh
+1002001000410020,灯織,"はい
+今、レッスンの予定を組んでいるところです",Yes I'm putting together the lesson plan
+0000000000000,プロデューサー,（なるほど、よくやってるんだな）,"(I see, she's doing it well)"
+select,,俺も後で確認しよう,I'll check it later
+select,,この調子で頑張ろう,Keep doing your best
+select,,しっかりしてるな,Do it properly
+1002001000410030,灯織,ぜひお願いします,Please do
+1002001000410040,灯織,"プロデューサーとは二人三脚で、
+足並みを乱さないようにやっていきたいので",If we cooperate then we don't disrupt the pacing
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001000410050,灯織,"もちろんです。ただ……今のレッスンだけでは
+不安が残ります",Of course. It's just…… I feel anxious about this lesson
+1002001000410060,灯織,"ですからプロデューサー、
+もう少し時間を増やしたいです","So Producer, I'd like to increase the time a bit"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001000410070,灯織,自分のことを自分で管理するのは当たり前でしょう,It's obvious I should be able to manage myself
+1002001000410080,灯織,"プロデューサーにも、
+そういうところはしっかりしていただきたいです","I want you to do that properly too, Producer"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah ……I screwed up. I should have said something else……)
+info,produce_communications/100200100041.json,
+译者,,
