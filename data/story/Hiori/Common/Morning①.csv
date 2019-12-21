@@ -6,8 +6,8 @@ id,name,text,trans
 0000000000000,プロデューサー,"（どうりで、いろんな生活用品が
 ずらりと並んでるわけだ）",(That explains all the various home related items lined up in a row)
 select,,"まるでひとり
-暮らしみたいだ",It's like you're living by yourself
-select,,大変だな,That must be difficult
+暮らしみたいだ",It's like you're\r\nliving by yourself
+select,,大変だな,That must be\r\ndifficult
 select,,えらいな,That's great
 1002001000110030,灯織,"そうかもしれません
 洗濯や掃除もやっていますし……",That might be true I do the cleaning and laundry too……
