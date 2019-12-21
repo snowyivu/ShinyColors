@@ -644,7 +644,7 @@
 	        beforeStart(fetchInfo.data);
 	        rev(fetchInfo.data);
 	      } else {
-	        rej('网络错误');
+	        rej('Network Error');
 	      }
 	    }).catch(rej);
 	  } else {
@@ -8679,7 +8679,7 @@
 
 	          storyCache.preview.set(_name, storyMap);
 	          savePreview(storyCache.preview);
-	          alert("\u5BFC\u5165".concat(_name, "\u6210\u529F"));
+	          alert("Succesfully imported ".concat(_name));
 	        }
 	      };
 
@@ -8756,7 +8756,7 @@
 	    trans: ''
 	  });
 	  list.push({
-	    id: '译者',
+	    id: 'Translator',
 	    name: '',
 	    text: '',
 	    trans: ''
