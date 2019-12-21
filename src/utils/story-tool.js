@@ -174,7 +174,7 @@ const showStoryTool = (storyCache) => {
           const _name = storyMap.get('name')
           storyCache.preview.set(_name, storyMap)
           savePreview(storyCache.preview)
-          alert(`导入${_name}成功`)
+          alert(`Succesfully imported ${_name}`)
         }
       }
       reader.readAsText(file)

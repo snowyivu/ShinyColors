@@ -65,7 +65,7 @@ const saveData = (data, name) => {
     id: 'info', name, text: '', trans: ''
   })
   list.push({
-    id: '译者', name: '', text: '', trans: ''
+    id: 'Translator', name: '', text: '', trans: ''
   })
   storyCache.name = name
   storyCache.filename = `${filename}.csv`

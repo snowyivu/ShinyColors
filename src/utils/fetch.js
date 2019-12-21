@@ -53,7 +53,7 @@ const getHash = new Promise((rev, rej) => {
         beforeStart(fetchInfo.data)
         rev(fetchInfo.data)
       } else {
-        rej('网络错误')
+        rej('Network Error')
       }
     }).catch(rej)
   } else {
