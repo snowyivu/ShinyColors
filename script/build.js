@@ -16,7 +16,7 @@ const banner = `// ==UserScript==
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
 // @connect      api.interpreter.caiyunai.com
-// @connect      translate.google.cn
+// @connect      translate.google.com
 // @connect      fanyi.baidu.com
 // @updateURL    https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js
 // @supportURL   https://github.com/snowyivu/ShinyColors/issues

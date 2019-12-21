@@ -1,0 +1,63 @@
+id,name,text,trans
+0000000000000,プロデューサー,真乃、平気か？　緊張とかしていないか？,"""Are you okay, Mano? You're not feeling nervous or anything?"""
+2001003110010,真乃,"プロデューサーさん……は、はい……
+少し、緊張しているかもしれません……",Producer-san... Y-yes...\nI think I'm feeling a little nervous now...
+0000000000000,プロデューサー,今日はひとりだし、ステージも大きいもんな,"""Well, you are here alone today and the stage is quite huge."""
+0000000000000,プロデューサー,"けど
+経験を積んだ今の真乃ならきっと大丈夫だよ","""However, \nwith all the experience you accumulated so far, I'm sure that you'll do just fine. """
+2001003110020,真乃,ほわぁ……はいっ,Howa... Yes.
+2001003110030,真乃,"なんだか、とてもほっとしました……
+私、プロデューサーさんの言葉にいつも助けられていますね","""For some reason, I feel much at ease now...\nYour words have always helped me a lot."""
+2001003110040,真乃,"…………
+……あの、プロデューサーさんっ","""Umm, Producer-san."""
+0000000000000,プロデューサー,どうした、真乃？,"""Yes, Mano?"""
+2001003110050,真乃,"こんな時に……
+いえ、今だからこそ渡したいものがあって","""At times like this...\nNo, it's precisely at this moment that I want to give you something."""
+2001003110060,真乃,これ、受け取ってください！,Please accept this!
+0000000000000,プロデューサー,"これは……石にヒモが通してある
+ストラップか？",This is... a strap with a stone on its string?
+0000000000000,プロデューサー,"うん、綺麗だな
+模様が入ってる","""Yes, it is pretty and has a good design."""
+2001003110070,真乃,"その石は、プロデューサーさんと一緒に
+行った川で見つけたものなんです",I found that stone in the river that we went to together.
+2001003110080,真乃,"綺麗だなって眺めていたら、川に落ちてしまって
+……思い出すと、恥ずかしいです","""I was thinking of how beautiful it was, that I ended up slipping into the river.\n...It embarrasses me just remembering it."""
+0000000000000,プロデューサー,ああ、あの時は石を見てたのか,"""Oh, so you were looking at the stone back then."""
+2001003110090,真乃,"はいっ、それであの後調べたら
+この石がメノウだってわかったんです","""Yes. And when I searched about it, I learned that it's called an ""agate""."""
+2001003110100,真乃,"アクセサリーにも使われる石だったので
+お店にお願いして、加工してもらいました","""Since it's a stone that can also be used for accessories,\nI asked the store to make me something."""
+0000000000000,プロデューサー,"それが、このストラップか
+いいのか、俺がもらっても？","""And that would be this strap.\nBut, is it really okay for me to have this?"""
+2001003110110,真乃,"はい……
+プロデューサーさんにはいつもお世話になっています",Yes.\nYou were always been taking good care of me.
+2001003110120,真乃,いつも私の背中を押してくれて、本当に……感謝しています,And you always give me the push I needed... I really appreciate all those things you did for me.
+2001003110130,真乃,"どれだけ感謝しているか、きちんと伝えたかったんです
+でも、言葉だけじゃ上手く伝えられない気がして","""I really want to show how grateful I am to you.\nBut, I feel like words just isn't enough to express how I feel."""
+2001003110140,真乃,"だから、私のこの気持ちを少しでも形にしようって
+そう思ったんです","""That is why, I thought of giving shape to my feelings."""
+0000000000000,プロデューサー,"そうか、真乃の気持ちか……
+ありがとう、大事にするよ","""I see, so this is your feelings.\nThank you, I will treasure this."""
+2001003110150,真乃,"──良かったっ
+ありがとうございますっ",I'm glad you liked it.\nThank you for accepting it.
+0000000000000,プロデューサー,"こちらこそありがとう
+この石を持ってると真乃の想いが伝わってくるよ","""No, thank you.\nWith this stone, your feelings are reaching me."""
+0000000000000,プロデューサー,"でもいいのかな？
+こんなに綺麗なのを俺だけが持っていて","""Still, you sure about this?\nOnly letting me have something this beautiful?"""
+2001003110160,真乃,……実は、そのストラップはひとつじゃないんです,"""...Actually, that is just the only strap."""
+2001003110170,真乃,"私も、持っています
+これですっ",I also have one.\nHere.
+0000000000000,プロデューサー,ああ、そっちも……メノウだな,Oh... That one's an agate too.
+2001003110180,真乃,"プロデューサーさんにお渡ししたストラップと
+同じ石で作ってもらいました",I have it made from the same stone with the strap I gave you.
+2001003110190,真乃,こっちは、私が大切に持っていますね,I'll keep this one close to my heart.
+0000000000000,プロデューサー,そうか、つまり……,I see. Which means...
+2001003110200,真乃,はい、お揃いですっ,"""Yes, we have a matching pair."""
+2001003110210,真乃,"プロデューサーさんとお揃いのストラップがあれば
+がんばろうって勇気が湧いてきますっ","""If I have this matching strap,  I felt the courage to keep on going swelling inside me."""
+0000000000000,プロデューサー,"そうか……そうだな！
+今日のステージ、俺たちふたりで頑張ろう！","""I see... You're right!\nLet's both do our best to make today's stage a success!"""
+2001003110220,真乃,"はいっ
+行ってきますっ",Okay.\nI'll be going now.
+info,produce_events/200100311.json,
+译者,,

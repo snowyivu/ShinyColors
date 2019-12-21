@@ -126,19 +126,28 @@ const transSpeaker = (item, nameMap) => {
   }
 }
 
+const tagStoryText = (data) => {
+  data.forEach(item => {
+    if (item.text && !item.text.startsWith('\u200b')) {
+      item.text = '\u200c' + item.text
+    }
+  })
+}
+
+const sess = (key, data) => {
+  try {
+    if (data) {
+      sessionStorage.setItem(key, JSON.stringify(data))
+      return true
+    } else {
+      let str = sessionStorage.getItem(key)
+      return JSON.parse(str)
+    }
+  } catch (e) {}
+}
+
 export {
-  trim,
-  trimWrap,
-  fixWrap,
-  restoreConsole,
-  isDomain,
-  log, log2,
-  tryDownload,
-  replaceWrap,
-  removeWrap,
-  replaceWords,
-  replaceQuote,
-  pureRE,
-  transSpeaker,
-  sleep
+  trim, trimWrap, fixWrap, restoreConsole, isDomain, log, log2,
+  tryDownload, replaceWrap, removeWrap, replaceWords, replaceQuote, pureRE,
+  transSpeaker, sleep, tagStoryText, sess
 }

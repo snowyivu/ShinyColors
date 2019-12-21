@@ -1,0 +1,24 @@
+id,name,text,trans
+1002001000510010,灯織,……プロデューサー、おはようございます,"……Producer, Good Morning"
+0000000000000,プロデューサー,おはよう。……なんだか、眠そうだな,Good Morning. ……You seem kind of sleepy
+1002001000510020,灯織,"昨日、家に帰ってからも振付や曲の
+チェックをしていたので……",When I got home yesterday I checked over the song and dance choreography……
+0000000000000,プロデューサー,（うーん、頑張りすぎだな）,"(Hmm, she's working too hard)"
+select,,今日は早めに帰ろう,Go home early today
+select,,明日はゆっくり休もう,Take it easy tomorrow
+select,,昼寝でもしよう,Take a nap
+1002001000510030,灯織,"そうですね
+レッスンにも差し支えてしまいますし",Alright It was interfering with my lessons too
+1002001000510040,灯織,"休息も大事ですよね……
+ありがとうございます、プロデューサー","Rest is important too…… Thank you very much, Producer"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001000510050,灯織,"はい、私の自己管理が甘いせいですので……
+今日はきちんとやります","Yes, it was my fault I was too easy on myself…… I'll work properly today"
+1002001000510060,灯織,ただ、明日は……お言葉に甘えさせていただきます,However tomorrow…… I'll do as you say
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001000510070,灯織,なにを言っているんですか？　そんな暇はありません,What are you saying? I don't have that kind of free time
+1002001000510080,灯織,"私が勝手に寝不足なだけですから……
+サボるわけにはいかないです",I was just selfish and didn't sleep enough…… I can't slack off
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah ……I screwed up. I should have said something else……)
+info,produce_communications/100200100051.json,
+译者,,

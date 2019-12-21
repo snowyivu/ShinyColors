@@ -1,15 +1,14 @@
 import isString from 'lodash/isString'
 import { getNounFix, getCaiyunPrefix } from '../store/text-fix'
-import { replaceWords, log, log2, replaceQuote, fixWrap, transSpeaker, replaceWrap } from '../utils/index'
+import { replaceWords, log, log2, replaceQuote, fixWrap, transSpeaker, replaceWrap, tagStoryText, sess } from '../utils/index'
 import { fetchInfo } from './fetch'
 import getName from '../store/name'
 import tagText from './tagText'
 import { getCommStory } from '../store/story'
 import getTypeTextMap from '../store/typeText'
 import config from '../config'
-import request from './request'
 import caiyunApi from './caiyun'
-import bdsign from './bdsign'
+import googleApi from './google'
 
 const joinBr = (list, br, transArr) => {
   br.forEach(count => {
@@ -63,51 +62,36 @@ const splitText = (text, WORDS_LIMIT = 4000) => {
   return arr
 }
 
-const bdsApi = async (query, from = 'jp') => {
-  let formData = new FormData()
-  formData.append('from', from)
-  formData.append('to', 'zh')
-  formData.append('query', query)
-  formData.append('transtype', 'realtime')
-  formData.append('simple_means_flag', '3')
-  formData.append('sign', bdsign(query))
-  formData.append('token', fetchInfo.data.bdsign.token || 'b8441b5ad0953d78dbf4c8829bd226d1')
-  let res = await request(`https://fanyi.baidu.com/v2transapi?from=${from}&to=zh`, {
-    data: formData,
-    method: 'POST',
-    headers: {
-      'accept': '*/*',
-      'referer': 'https://fanyi.baidu.com/translate',
-      'origin':'https://fanyi.baidu.com'
-    }
-  })
-  if (res.error || !isString(res.trans_result.data[0].dst)) {
-    throw new Error('trans fail')
-  }
-  return res.trans_result.data.map(item => item.dst)
-}
-
-const baiduTrans = async (source, from = 'jp') => {
+const caiyunTrans = async (source) => {
   try {
+    let limitTime = sess('caiyuLimit')
+    if (limitTime && Date.now() - limitTime < 1000 * 60 * 60) {
+      return []
+    }
     let [query, br] = joinText(source)
     let textArr = splitText(query)
-    let result = await Promise.all(textArr.map(query => bdsApi(query, from)))
+    let result = await Promise.all(textArr.map(query => {
+      return caiyunApi(query.split('\n'))
+    }))
     let list = result.reduce((a, b) => a.concat(b))
     let transArr = []
     joinBr(list, br, transArr)
     return transArr
   } catch (e) {
+    if (e.message === 'Caiyun api out of limit.') {
+      sess('caiyuLimit', Date.now())
+    }
     log(e)
     return []
   }
 }
 
-const caiyunTrans = async (source) => {
+const googleTrans = async (source) => {
   try {
     let [query, br] = joinText(source)
     let textArr = splitText(query)
     let result = await Promise.all(textArr.map(query => {
-      return caiyunApi(query.split('\n'))
+      return googleApi(query)
     }))
     let list = result.reduce((a, b) => a.concat(b))
     let transArr = []
@@ -167,8 +151,7 @@ const autoWrap = (text, count) => {
 const autoTransCache = new Map()
 
 const autoTrans = async (data, name, printText, skip = false) => {
-  if (config.auto !== 'on' || !data.length) return
-  let fixedTransList
+  if (!data.length) return
   const commMap = await getCommStory()
   const typeTextMap = await getTypeTextMap()
   const { textInfo, textList } = collectText(data, commMap, typeTextMap)
@@ -176,22 +159,24 @@ const autoTrans = async (data, name, printText, skip = false) => {
 
   const storyKey = name || data
   let hasCache = false
+  let fixedTransList = []
   if (autoTransCache.has(storyKey)) {
     hasCache = true
     fixedTransList = autoTransCache.get(storyKey)
   } else {
-    const fixedTextList = await preFix(textList)
+    let transApi = fetchInfo.data.trans_api
     let transList = []
     
-    if (!skip) {
-      if (fetchInfo.data.trans_api === 'caiyun') {
+    if (config.auto === 'on' && !skip) {
+      if (transApi === 'caiyun') {
+        let fixedTextList = await preFix(textList)
         transList = await caiyunTrans(fixedTextList)
-      } else {
-        transList = await baiduTrans(fixedTextList)
+      } else if (transApi === 'google') {
+        transList = await googleTrans(textList)
       }
+      fixedTransList = await nounFix(transList)
     }
-    
-    fixedTransList = await nounFix(transList)
+
     autoTransCache.set(storyKey, fixedTransList)
   }
   if (!hasCache && (DEV || !name || printText)) {
@@ -219,6 +204,8 @@ const autoTrans = async (data, name, printText, skip = false) => {
   data.forEach(item => {
     transSpeaker(item, nameMap)
   })
+
+  tagStoryText(data)
 }
 
 export default autoTrans
