@@ -118,71 +118,71 @@ W.I.N.G.編,W.I.N.G. Run,note
 高難易度,High Difficulty,note
 期間限定,Limited Time,note
 白いツバサ,White Wing,note
-$nounに$num回参加しよう,Participate in $noun $num times,exp
-営業を$num回しよう,Do $num Jobs,exp
-フェス参加権が$num回復します,Recover $num Fes Entries,exp
+$nounに$num回参加しよう,Participate in $1 $2 times,exp
+営業を$num回しよう,Do $1 Jobs,exp
+フェス参加権が$num回復します,Recover $1 Fes Entries,exp
 $nounを$num回プレイしよう,Play $1 $2 Times,exp
-フェスアイドルを$num人誕生させよう,Create $num Fes Idols,exp
-$nounに参加して、$nounを達成しよう,Join $noun、and earn $noun,exp
-「$noun」：条件を満たすことで発動できる特別なスキル,「$noun」：条件を満たすことで発動できる特別なスキル,exp
-$nounに参加して、$nounを$num回達成しよう,$nounに参加して、$nounを$num回達成しよう,exp
-「$noun」：アピールメーターを$nounの位置で止める,「$noun」：アピールメーターを$nounの位置で止める,exp
-「$noun」：$num人の$nounから$nounと$nounを獲得する,「$noun」：$num人の$nounから$nounと$nounを獲得する,exp
-$noun以上の$nounに参加して、$nounを$num回達成しよう,$noun以上の$nounに参加して、$nounを$num回達成しよう,exp
-$nounに参加して、$num位になろう,$nounに参加して、$num位になろう,exp
-$noun以上の$nounに参加して、$num位になろう,$noun以上の$nounに参加して、$num位になろう,exp
-$nounの$nounに参加して、$num位になろう,$nounの$nounに参加して、$num位になろう,exp
-【$note】$nounの$nounに参加して、$num位に$num回なろう,【$note】$nounの$nounに参加して、$num位に$num回なろう,exp
-$nounの$nounに参加して、$num位以上になろう,$nounの$nounに参加して、$num位以上になろう,exp
-$noun全員を編成して、$noun以上の$nounに参加しよう,$noun全員を編成して、$noun以上の$nounに参加しよう,exp
-$noun全員を編成して、$noun以上の$nounに$num回参加しよう,$noun全員を編成して、$noun以上の$nounに$num回参加しよう,exp
-$noun全員を編成して、$nounで$num位になろう,$noun全員を編成して、$nounで$num位になろう,exp
-$noun全員を編成して、$nounで$num位に$num回なろう,$noun全員を編成して、$nounで$num位に$num回なろう,exp
-$noun全員を編成して、$noun以上の$nounで$num位になろう,$noun全員を編成して、$noun以上の$nounで$num位になろう,exp
-$noun全員を編成して、$noun以上の$nounで$nounを達成しよう,$noun全員を編成して、$noun以上の$nounで$nounを達成しよう,exp
-$noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,$noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,exp
-【$note】$noun全員を編成して、$nounの$nounで$num位になろう,【$note】$noun全員を編成して、$nounの$nounで$num位になろう,exp
-$nameのファンを累計で$num人獲得しよう,$nameのファンを累計で$num人獲得しよう,exp
-$nameのファンを累計で$num万人獲得しよう,$nameのファンを累計で$num万人獲得しよう,exp
-$nameのファンを累計で$num億人獲得しよう,$nameのファンを累計で$num億人獲得しよう,exp
-ファンを累計で$num人獲得しよう,ファンを累計で$num人獲得しよう,exp
-ファンを累計で$num万人獲得しよう,ファンを累計で$num万人獲得しよう,exp
-ファンを累計で$num億人獲得しよう,ファンを累計で$num億人獲得しよう,exp
-$nameの思い出レベルを$numにしよう,$nameの思い出レベルを$numにしよう,exp
-$nounで$num回勝利しよう,$nounで$num回勝利しよう,exp
-$nounで$nounを達成しよう,$nounで$nounを達成しよう,exp
-「$noun」：$nounボーナスを獲得する,「$noun」：$nounボーナスを獲得する,exp
-$nounで$nounを$num回達成しよう,$nounで$nounを$num回達成しよう,exp
+フェスアイドルを$num人誕生させよう,Create $1 Fes Idols,exp
+$nounに参加して、$nounを達成しよう,Join $1、and earn $2,exp
+「$noun」：条件を満たすことで発動できる特別なスキル,「$1」：条件を満たすことで発動できる特別なスキル,exp
+$nounに参加して、$nounを$num回達成しよう,$1に参加して、$2を$3回達成しよう,exp
+「$noun」：アピールメーターを$nounの位置で止める,「$1」：アピールメーターを$2の位置で止める,exp
+「$noun」：$num人の$nounから$nounと$nounを獲得する,「$1」：$2人の$3から$4と$5を獲得する,exp
+$noun以上の$nounに参加して、$nounを$num回達成しよう,$1以上の$2に参加して、$3を$4回達成しよう,exp
+$nounに参加して、$num位になろう,$1に参加して、$2位になろう,exp
+$noun以上の$nounに参加して、$num位になろう,$1以上の$2に参加して、$3位になろう,exp
+$nounの$nounに参加して、$num位になろう,$1の$2に参加して、$3位になろう,exp
+【$note】$nounの$nounに参加して、$num位に$num回なろう,【$1】$2の$3に参加して、$4位に$5回なろう,exp
+$nounの$nounに参加して、$num位以上になろう,$1の$2に参加して、$3位以上になろう,exp
+$noun全員を編成して、$noun以上の$nounに参加しよう,$1全員を編成して、$2以上の$3に参加しよう,exp
+$noun全員を編成して、$noun以上の$nounに$num回参加しよう,$1全員を編成して、$2以上の$3に$num回参加しよう,exp
+$noun全員を編成して、$nounで$num位になろう,$1全員を編成して、$2で$3位になろう,exp
+$noun全員を編成して、$nounで$num位に$num回なろう,$1全員を編成して、$2で$3位に$4回なろう,exp
+$noun全員を編成して、$noun以上の$nounで$num位になろう,$1全員を編成して、$2以上の$3で$4位になろう,exp
+$noun全員を編成して、$noun以上の$nounで$nounを達成しよう,$1全員を編成して、$2以上の$3で$4を達成しよう,exp
+$noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,$1全員を編成して、$2以上の$3で$4を$5回達成しよう,exp
+【$note】$noun全員を編成して、$nounの$nounで$num位になろう,【$1】$2全員を編成して、$3の$4で$5位になろう,exp
+$nameのファンを累計で$num人獲得しよう,$1のファンを累計で$2人獲得しよう,exp
+$nameのファンを累計で$num万人獲得しよう,$1のファンを累計で$2万人獲得しよう,exp
+$nameのファンを累計で$num億人獲得しよう,$1のファンを累計で$2億人獲得しよう,exp
+ファンを累計で$num人獲得しよう,ファンを累計で$1人獲得しよう,exp
+ファンを累計で$num万人獲得しよう,ファンを累計で$1万人獲得しよう,exp
+ファンを累計で$num億人獲得しよう,ファンを累計で$1億人獲得しよう,exp
+$nameの思い出レベルを$numにしよう,$1の思い出レベルを$2にしよう,exp
+$nounで$num回勝利しよう,$1で$2回勝利しよう,exp
+$nounで$nounを達成しよう,$1で$2を達成しよう,exp
+「$noun」：$nounボーナスを獲得する,「$1」：$2ボーナスを獲得する,exp
+$nounで$nounを$num回達成しよう,$1で$2を$3回達成しよう,exp
 $nounをプレイしよう,Play $1,exp
 $nounで勝利しよう,Win with $1,exp
-天井社長からの指令$num,天井社長からの指令$num,exp
-$nounのメンバーを全員入れたデッキでフェスアイドルを誕生させよう,$nounのメンバーを全員入れたデッキでフェスアイドルを誕生させよう,exp
-シーズン$numをクリアしよう,シーズン$numをクリアしよう,exp
-$nameのフェスアイドルを誕生させよう,$nameのフェスアイドルを誕生させよう,exp
+天井社長からの指令$num,天井社長からの指令$1,exp
+$nounのメンバーを全員入れたデッキでフェスアイドルを誕生させよう,$1のメンバーを全員入れたデッキでフェスアイドルを誕生させよう,exp
+シーズン$numをクリアしよう,シーズン$1をクリアしよう,exp
+$nameのフェスアイドルを誕生させよう,$1のフェスアイドルを誕生させよう,exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$num,exp
-センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,exp
-$nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,$nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,exp
-$nameのTrueEndを見よう,$nameのTrueEndを見よう,exp
-【$unknown】$nameのTrueEndを見よう,【$unknown】 See $name's TrueEnd,exp
-$nameの「$noun」「$noun」「$noun」を全てクリアしよう,$nameの「$noun」「$noun」「$noun」を全てクリアしよう,exp
-$noun以上のフェスアイドルを誕生させよう,$noun以上のフェスアイドルを誕生させよう,exp
-センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,exp
+センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,センターに$1を編成して、$2以上の$3に参加して「$4」を達成しよう,exp
+$nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,$1のユニットで、強力なライバルに対して\n「$noun」を達成した証,exp
+$nameのTrueEndを見よう,$1のTrueEndを見よう,exp
+【$unknown】$nameのTrueEndを見よう,【$1】 See $2's TrueEnd,exp
+$nameの「$noun」「$noun」「$noun」を全てクリアしよう,$1の「$1」「$2」「$3」を全てクリアしよう,exp
+$noun以上のフェスアイドルを誕生させよう,$1以上のフェスアイドルを誕生させよう,exp
+センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,センターに$1を編成し$2以上の$3に参加して「$4」を達成しよう,exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$1,exp
-$nameをプロデュースしてシーズン$numをクリアしよう,$nameをプロデュースしてシーズン$numをクリアしよう,exp
-$nameプロデュースしてシーズン$numをクリアしよう,$nameプロデュースしてシーズン$numをクリアしよう,exp
-$nameをプロデュースしてW.I.N.G.決勝に進出しよう,$nameをプロデュースしてW.I.N.G.決勝に進出しよう,exp
-【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,exp
-【$unknown】$nameを編成してシーズン$numをクリアしよう,【$unknown】$nameを編成してシーズン$numをクリアしよう,exp
-シーズン$numのオーディションすべてに合格しよう,シーズン$numのオーディションすべてに合格しよう,exp
-シーズン$num開催のオーディション「$noun」に合格しよう,シーズン$num開催のオーディション「$noun」に合格しよう,exp
-シーズン$num開催の特別オーディション「$noun」に合格しよう,シーズン$num開催の特別オーディション「$noun」に合格しよう,exp
-難易度$numのアイデアノートを$num回コンプリートしよう,難易度$numのアイデアノートを$num回コンプリートしよう,exp
-$nounの誰か一人をプロデュースして$noun以上のフェスアイドルを誕生させよう,$nounの誰か一人をプロデュースして$noun以上のフェスアイドルを誕生させよう,exp
-【$note】シーズン$num開催のオーディション「$unknown」に合格しよう,【$note】シーズン$num開催のオーディション「$unknown」に合格しよう,exp
-【$note】シーズン$num開催の特別オーディション「$unknown」に合格しよう,【$note】シーズン$num開催の特別オーディション「$unknown」に合格しよう,exp
-【$note】ファン感謝祭をクリアしよう,【$note】ファン感謝祭をクリアしよう,exp
-【$note】ファン感謝祭でMVPを1回取ろう,【$note】ファン感謝祭でMVPを1回取ろう,exp
-【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,exp
+$nameをプロデュースしてシーズン$numをクリアしよう,$1をプロデュースしてシーズン$2をクリアしよう,exp
+$nameプロデュースしてシーズン$numをクリアしよう,$1プロデュースしてシーズン$2をクリアしよう,exp
+$nameをプロデュースしてW.I.N.G.決勝に進出しよう,$1をプロデュースしてW.I.N.G.決勝に進出しよう,exp
+【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,【$1】$2をプロデュースしてシーズン$3をクリアしよう,exp
+【$unknown】$nameを編成してシーズン$numをクリアしよう,【$1】$2を編成してシーズン$3をクリアしよう,exp
+シーズン$numのオーディションすべてに合格しよう,シーズン$1のオーディションすべてに合格しよう,exp
+シーズン$num開催のオーディション「$noun」に合格しよう,シーズン$1開催のオーディション「$2」に合格しよう,exp
+シーズン$num開催の特別オーディション「$noun」に合格しよう,シーズン$1開催の特別オーディション「$2」に合格しよう,exp
+難易度$numのアイデアノートを$num回コンプリートしよう,難易度$1のアイデアノートを$2回コンプリートしよう,exp
+$nounの誰か一人をプロデュースして$noun以上のフェスアイドルを誕生させよう,$1の誰か一人をプロデュースして$2以上のフェスアイドルを誕生させよう,exp
+【$note】シーズン$num開催のオーディション「$unknown」に合格しよう,【$1】シーズン$2開催のオーディション「$3」に合格しよう,exp
+【$note】シーズン$num開催の特別オーディション「$unknown」に合格しよう,【$1】シーズン$2開催の特別オーディション「$3」に合格しよう,exp
+【$note】ファン感謝祭をクリアしよう,【$1】ファン感謝祭をクリアしよう,exp
+【$note】ファン感謝祭でMVPを1回取ろう,【$1】ファン感謝祭でMVPを1回取ろう,exp
+【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,【$1】$2以上の$3に参加して、「$4」を達成しよう,exp
 累計$numポイント達成,Achieve $1 Total Points,exp
 $num周目クリア,Clear $1 Weeks,exp
 最高スコア$num達成,Highest Score $1 Achieved,exp
