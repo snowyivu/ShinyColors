@@ -1,0 +1,34 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","......Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"......! Really, now......"
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","......Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,......Of course!
+6007001070010,結華,だぁーっ！　悔しい！　ほんっとーに悔しい！！,"Auuugh! This is so frustrating! This really, really sucks!"
+0000000000000,プロデューサー,ゆ、結華……？！,Y-Yuika......?!
+6007001070020,結華,こんなに悔しいの生まれて初めてだよっ、プロデューサー！,"This is the first time in my life I've felt this frustrated, Producer! "
+0000000000000,プロデューサー,"そうだな……俺だって悔しい
+結華が頑張ってたのは知ってるから","I understand...... It's frustrating for me as well. Because I know how hard you've been working, Yuika."
+0000000000000,プロデューサー,でも、次がある,"But, we have another chance at it. "
+6007001070030,結華,"……わかってるよ。ここで止まってなんかいられない
+次に向けて頑張らないといけないって",......I know that. There's no way I'd let this stop me. All there is to do is start preparing for next time.
+6007001070040,結華,"でもね、『W.I.N.G.』で応援してくれたファンの期待を、
+三峰は裏切っちゃったんだよ。それがすごく悔しい","Though, what hurts most of all is knowing Mitsumine crushed the hopes of all her fans that've been cheering her on. 
+"
+0000000000000,プロデューサー,"ならなおさら、今回応えられなかった分、
+次こそ応えられるように頑張ろう","In that case, next time we'll have to do our best to meet their hopes that we couldn't before."
+0000000000000,プロデューサー,結華は、今の悔しさを成長に繋げられる人だ,"I believe a person like you will be able let this frustration help you grow, Yuika. "
+6007001070050,結華,"そこまでできた人間かはわからないけど……
+……そうだよね、いつまでも引きずってはいられないよね","I don't know if I'm as strong of a person as you think...... But, you're right. I can't let this failure keep dragging me down forever."
+6007001070060,結華,"……早く良い結果出せるように頑張るからさ
+これからもプロデュース、よろしくね","......I want hit the ground running this time so things can turn out better. So, please keep on producing me!"
+info,produce_events/600700107.json,
+译者,,
