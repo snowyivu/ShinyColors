@@ -15,8 +15,8 @@ text,trans,type
 営業をしよう,Complete a Job,text
 お手製差し入れ,お手製差し入れ,text
 プチセレクションチケット,Petit Selection Ticket,text
-集めるとチケット交換で特定のアイドルと交換できるチケットです,集めるとチケット交換で特定のアイドルと交換できるチケットです,text
-「プロ根性」：メンタルが極小時にパーフェクトアピールを行う,「プロ根性」：メンタルが極小時にパーフェクトアピールを行う,text
+集めるとチケット交換で特定のアイドルと交換できるチケットです,Collect and exchange tickets for a specific idol with ticket exchange,text
+「プロ根性」：メンタルが極小時にパーフェクトアピールを行う,「Pro Guts」：Do a Perfect Appeal when Mental is Lowest,text
 SR以上確定ガシャチケット,SR+ Gacha Ticket,text
 SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha Ticket,text
 リカバリーソーダ1/4,Recovery Soda 1/4,text
@@ -24,7 +24,7 @@ SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha T
 フェスエントリーチケット,Fes Entry Ticket,text
 リカバリーソーダ1/2,Recovery Soda 1/2,text
 スタミナが最大量の1/2回復します,Restores 1/2 of Max Stamina,text
-フェスの極意は、最後まで逆転を諦めないことだ,フェスの極意は、最後まで逆転を諦めないことだ,text
+フェスの極意は、最後まで逆転を諦めないことだ,The secret of Fes is、don't give up until the end,text
 「その……会話ってどうすれば\n盛り上がるんでしょうか……？」,「その……会話ってどうすれば\n盛り上がるんでしょうか……？」,text
 「コミュニケーションは\n節度を持って、ですよ？」,「コミュニケーションは\n節度を持って、ですよ？」,text
 初心にかえって研鑽を積み、羽ばたくんだ！,初心にかえって研鑽を積み、羽ばたくんだ！,text
@@ -35,14 +35,14 @@ SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha T
 ねえねえ、プロデューサー！ なんだかトップアイドルになれそうな気がするよー！,ねえねえ、プロデューサー！ なんだかトップアイドルになれそうな気がするよー！,text
 限界を超えればまた限界がやってくる。くじけずに歌い続けるのだ,限界を超えればまた限界がやってくる。くじけずに歌い続けるのだ,text
 パラダイスを制する……魅惑的な響きだと思わないか？,パラダイスを制する……魅惑的な響きだと思わないか？,text
-「光り輝くアイドルの誕生だ」,「光り輝くアイドルの誕生だ」,text
+「光り輝くアイドルの誕生だ」,「The birth of a Shining Idol」,text
 オーバーキャストモノクローム交換チケット,Overcast Monochrome Exchange Ticket,text
 オーバーキャストモノクロームと交換できるチケットです,Can receive with an Overcast Monochrome Exchange Ticket,text
 ゲームにログインしよう,Log in to the Game,text
 283くじ,283 Raffle,text
 283くじの抽選が受けれるチケットです。,Can receive a 283 Raffle Ticket,text
-W.I.N.G.決勝に進出しよう,W.I.N.G.決勝に進出しよう,text
-W.I.N.G.を優勝しよう,W.I.N.G.を優勝しよう,text
+W.I.N.G.決勝に進出しよう,Advance to W.I.N.G. Finals,text
+W.I.N.G.を優勝しよう,Win W.I.N.G.,text
 「伝説の一瞬」：1回のアピールで全ての審査員からラストアピールを獲得する,「伝説の一瞬」：1回のアピールで全ての審査員からラストアピールを獲得する,text
 「完全掌握」：全ての審査員からトップアピールを獲得する,「完全掌握」：全ての審査員からトップアピールを獲得する,text
 「パーフェクトライブ」：全ての審査員からトップアピールとラストアピールを獲得する,「パーフェクトライブ」：全ての審査員からトップアピールとラストアピールを獲得する,text
@@ -118,12 +118,12 @@ W.I.N.G.編,W.I.N.G. Run,note
 高難易度,High Difficulty,note
 期間限定,Limited Time,note
 白いツバサ,White Wing,note
-$nounに$num回参加しよう,$nounに$num回参加しよう,exp
-営業を$num回しよう,営業を$num回しよう,exp
-フェス参加権が$num回復します,フェス参加権が$num回復します,exp
+$nounに$num回参加しよう,Participate in $noun $num times,exp
+営業を$num回しよう,Do $num Jobs,exp
+フェス参加権が$num回復します,Recover $num Fes Entries,exp
 $nounを$num回プレイしよう,Play $1 $2 Times,exp
-フェスアイドルを$num人誕生させよう,フェスアイドルを$num人誕生させよう,exp
-$nounに参加して、$nounを達成しよう,$nounに参加して、$nounを達成しよう,exp
+フェスアイドルを$num人誕生させよう,Create $num Fes Idols,exp
+$nounに参加して、$nounを達成しよう,Join $noun、and earn $noun,exp
 「$noun」：条件を満たすことで発動できる特別なスキル,「$noun」：条件を満たすことで発動できる特別なスキル,exp
 $nounに参加して、$nounを$num回達成しよう,$nounに参加して、$nounを$num回達成しよう,exp
 「$noun」：アピールメーターを$nounの位置で止める,「$noun」：アピールメーターを$nounの位置で止める,exp
@@ -159,11 +159,11 @@ $nounで勝利しよう,Win with $1,exp
 $nounのメンバーを全員入れたデッキでフェスアイドルを誕生させよう,$nounのメンバーを全員入れたデッキでフェスアイドルを誕生させよう,exp
 シーズン$numをクリアしよう,シーズン$numをクリアしよう,exp
 $nameのフェスアイドルを誕生させよう,$nameのフェスアイドルを誕生させよう,exp
-グレードLv$numに昇格しよう,グレードLv$numに昇格しよう,exp
+グレードLv$numに昇格しよう,Promote to Grade Lv$num,exp
 センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,exp
 $nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,$nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,exp
 $nameのTrueEndを見よう,$nameのTrueEndを見よう,exp
-【$unknown】$nameのTrueEndを見よう,【$unknown】$nameのTrueEndを見よう,exp
+【$unknown】$nameのTrueEndを見よう,【$unknown】 See $name's TrueEnd,exp
 $nameの「$noun」「$noun」「$noun」を全てクリアしよう,$nameの「$noun」「$noun」「$noun」を全てクリアしよう,exp
 $noun以上のフェスアイドルを誕生させよう,$noun以上のフェスアイドルを誕生させよう,exp
 センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,exp
