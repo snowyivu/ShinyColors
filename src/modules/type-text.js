@@ -1,5 +1,7 @@
 import autoTrans from '../utils/translation'
-import { log } from '../utils/index'
+import CSV from 'papaparse';
+import { log, log2, replaceWrap, tryDownload } from '../utils/index'
+import config, { saveConfig } from '../config';
 
 const autoTransText = async (data, key = 'comment') => {
   const name = data.map(item => item[key]).join('').trim()
@@ -8,6 +10,7 @@ const autoTransText = async (data, key = 'comment') => {
 
 const transText = async (data, key = 'comment') => {
   const name = data.map(item => item[key]).join('').trim()
+  const testData = data.map(item => item[key])
   await autoTrans(data, name, true, true)
 }
 
@@ -69,6 +72,18 @@ const mypageComments = async (data) => {
           list.push(comm)
         })
       })
+    }
+    if (config.myPage === 'download') {
+      const wrapList = list.map(item => {
+        return replaceWrap(item['comment'])
+      })
+      const jsonCsv = wrapList.map((item, index) => {
+        return { 'jp': item, 'zh': '' }
+      })
+      const str = CSV.unparse(jsonCsv)
+      tryDownload(str, `${list[0].speakerName}-myPageCommentList`)
+      config.myPage = 'normal'
+      saveConfig()
     }
     await transText(list)
   } catch (e) {
