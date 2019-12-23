@@ -1,6 +1,6 @@
 text,trans,type
 サポートアイドルをトレーニングしよう,Train a Support Idol,text
-放課後クライマックスガールズ のメンバーを全員入れたデッキでフェスアイドルを誕生させよう,Create a Fes Idol with every After School Climax Girl in unit,text
+放課後クライマックスガールズ のメンバーを全員入れたデッキでフェスアイドルを誕生させよう,Create a Fes Idol using all After School Climax Girl members in a run,text
 フェスをプレイしよう,Play Fes,text
 ブロンズトレーニングチケット,Bronze Training Ticket,text
 サポートアイドルのトレーニングに必要なチケットです,Ticket required for training Support Idols,text
@@ -44,7 +44,7 @@ SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha T
 W.I.N.G.決勝に進出しよう,Advance to W.I.N.G. Finals,text
 W.I.N.G.を優勝しよう,Win W.I.N.G.,text
 「伝説の一瞬」：1回のアピールで全ての審査員からラストアピールを獲得する,「Legendary Moment」：Earn Last Appeal on all judges with a single Appeal,text
-「完全掌握」：全ての審査員からトップアピールを獲得する,「Full Control」：Earn Top Appeal on all judges,text
+「完全掌握」：全ての審査員からトップアピールを獲得する,「Complete Control」：Earn Top Appeal on all judges,text
 「パーフェクトライブ」：全ての審査員からトップアピールとラストアピールを獲得する,「Perfect Live」：Earn Top and Last Appeal on all judges,text
 SR特訓はづきさん（サポート）,SR Evolve Hazuki (Support),text
 SRのサポートアイドルを特訓します,Evolves an SR Support Idol,text
@@ -59,7 +59,7 @@ SSRのプロデュースアイドルを特訓します,Evolve an SSR Produce Ido
 【W.I.N.G.編】いずれかのアイドルのTrueEndを見よう,【W.I.N.G.】Reach the True End of any idol,text
 【W.I.N.G.編】W.I.N.G.決勝に進出しよう,【W.I.N.G.】Advance to W.I.N.G. Finals,text
 ファン感謝祭をクリアしよう,Clear Thanks Flapping Day,text
-ファン感謝祭でMVPを1回取ろう,Recieve the MVP award in thank Flapping Day,text
+ファン感謝祭でMVPを1回取ろう,Recieve the MVP award in Thanks Flapping Day,text
 プロデュースを開始しよう,Start a Produce Run,text
 トラブルを発生させずにシーズンをクリアしよう,Clear the season without any Trouble,text
 「オールアイドル感謝FESTIVAL」に2回合格しよう,Pass 「オールアイドル感謝FESTIVAL」2 Times,text
@@ -114,7 +114,7 @@ VERYHARD,VERYHARD,noun
 ランクA,Rank A,noun
 ランクS,Rank S,noun
 W.I.N.G.編,W.I.N.G. Run,note
-ファン感謝祭編,TFD Run,note
+ファン感謝祭編,Thanks Flapping Day Run,note
 高難易度,High Difficulty,note
 期間限定,Limited Time,note
 白いツバサ,White Wing,note
@@ -143,16 +143,16 @@ $noun全員を編成して、$noun以上の$nounで$nounを達成しよう,"With
 $noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,"With all members of $1, achieve $4 in $2 or above $3 $5 times",exp
 【$note】$noun全員を編成して、$nounの$nounで$num位になろう,"【$1】With all members of $2, earn rank $5 in $3's $4",exp
 $nameのファンを累計で$num人獲得しよう,Earn $2 total fans for $1,exp
-$nameのファンを累計で$num万人獲得しよう,"Earn $20,000 total fans for $1",exp
-$nameのファンを累計で$num億人獲得しよう,"Earn $200,000,000 total fans for $1",exp
+$nameのファンを累計で$num万人獲得しよう,"Earn $20000 total fans for $1",exp
+$nameのファンを累計で$num億人獲得しよう,"Earn $200000000 total fans for $1",exp
 ファンを累計で$num人獲得しよう,Earn $2 total fans,exp
-ファンを累計で$num万人獲得しよう,"Earn $20,000 total fans",exp
-ファンを累計で$num億人獲得しよう,"Earn $200,000,000 total fans",exp
+ファンを累計で$num万人獲得しよう,"Earn $10000 total fans",exp
+ファンを累計で$num億人獲得しよう,"Earn $100000000 total fans",exp
 $nameの思い出レベルを$numにしよう,Reach Memory Level $2 with $1,exp
-$nounで$num回勝利しよう,Win $2 times with $1,exp
-$nounで$nounを達成しよう,Achieve $2 with $1,exp
+$nounで$num回勝利しよう,Win $2 times in $1,exp
+$nounで$nounを達成しよう,Achieve $2 in $1,exp
 「$noun」：$nounボーナスを獲得する,「$1」：Get $2 Bonus,exp
-$nounで$nounを$num回達成しよう,Get $2 $3 times with $1,exp
+$nounで$nounを$num回達成しよう,Get $2 $3 times in $1,exp
 $nounをプレイしよう,Play $1,exp
 $nounで勝利しよう,Win with $1,exp
 天井社長からの指令$num,President's Directive #$1,exp
@@ -163,7 +163,7 @@ $nameのフェスアイドルを誕生させよう,Create a $1 Fes Idol,exp
 センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
 $nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,"$1's unit has achieved\r\n""$2"" against powerful rivals",exp
 $nameのTrueEndを見よう,See $1's True End,exp
-【$unknown】$nameのTrueEndを見よう,【$1】 See $2's TrueEnd,exp
+【$unknown】$nameのTrueEndを見よう,See 【$1】$2's TrueEnd,exp
 $nameの「$noun」「$noun」「$noun」を全てクリアしよう,Clear $1's 「$2」「$3」and 「$4」,exp
 $noun以上のフェスアイドルを誕生させよう,Create a Fes Idol of $1 or higher,exp
 センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
@@ -171,17 +171,17 @@ $noun以上のフェスアイドルを誕生させよう,Create a Fes Idol of $1
 $nameをプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
 $nameプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
 $nameをプロデュースしてW.I.N.G.決勝に進出しよう,Produce $1 and advance to W.I.N.G. Finals,exp
-【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,【$1】Produce $2 and clear season $3,exp
-【$unknown】$nameを編成してシーズン$numをクリアしよう,【$1】Use $2 in a Produce run and clear season $3,exp
+【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,Produce 【$1】$2 and clear season $3,exp
+【$unknown】$nameを編成してシーズン$numをクリアしよう,Use 【$1】$2 in a Produce run and clear season $3,exp
 シーズン$numのオーディションすべてに合格しよう,Pass all auditions in season $1,exp
 シーズン$num開催のオーディション「$noun」に合格しよう,"Pass audition ""$2"" in season $1",exp
 シーズン$num開催の特別オーディション「$noun」に合格しよう,"Pass special audition ""$2"" in season $1",exp
-難易度$numのアイデアノートを$num回コンプリートしよう,Complete Difficulty $1 Idea Notes $2 Times,exp
+難易度$numのアイデアノートを$num回コンプリートしよう,Complete Lvl $1 Idea Notes $2 Times,exp
 $nounの誰か一人をプロデュースして$noun以上のフェスアイドルを誕生させよう,Produce any $1 and create a Fes Idol $2 or above,exp
 【$note】シーズン$num開催のオーディション「$unknown」に合格しよう,"【$1】Pass audition ""$3"" in season $2",exp
 【$note】シーズン$num開催の特別オーディション「$unknown」に合格しよう,"【$1】Pass special audition ""$3"" in season $2",exp
-【$note】ファン感謝祭をクリアしよう,【$1】Clear TFD,exp
-【$note】ファン感謝祭でMVPを1回取ろう,【$1】Earn MVP in TFD,exp
+【$note】ファン感謝祭をクリアしよう,【$1】Clear Thanks Flapping Day,exp
+【$note】ファン感謝祭でMVPを1回取ろう,【$1】Earn MVP in Thanks Flapping Day,exp
 【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,【$1】In $2 or above $3、earn「$4」,exp
 累計$numポイント達成,Achieve $1 Total Points,exp
 $num周目クリア,Clear $1 Weeks,exp
