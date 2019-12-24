@@ -66,7 +66,7 @@ const getLocalConfig = () => {
 }
 
 const saveConfig = () => {
-  const data = {}
+  let data = {}
   keys.forEach(key => {
     if (config[key] !== defaultConfig[key]) {
       data[key] = config[key]
