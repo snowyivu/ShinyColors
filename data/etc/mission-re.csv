@@ -143,11 +143,11 @@ $noun全員を編成して、$noun以上の$nounで$nounを達成しよう,"With
 $noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,"With all members of $1, achieve $4 in $2 or above $3 $5 times",exp
 【$note】$noun全員を編成して、$nounの$nounで$num位になろう,"【$1】With all members of $2, earn rank $5 in $3's $4",exp
 $nameのファンを累計で$num人獲得しよう,Earn $2 total fans for $1,exp
-$nameのファンを累計で$num万人獲得しよう,"Earn $20000 total fans for $1",exp
-$nameのファンを累計で$num億人獲得しよう,"Earn $200000000 total fans for $1",exp
+$nameのファンを累計で$num万人獲得しよう,Earn $20000 total fans for $1,exp
+$nameのファンを累計で$num億人獲得しよう,Earn $200000000 total fans for $1,exp
 ファンを累計で$num人獲得しよう,Earn $2 total fans,exp
-ファンを累計で$num万人獲得しよう,"Earn $10000 total fans",exp
-ファンを累計で$num億人獲得しよう,"Earn $100000000 total fans",exp
+ファンを累計で$num万人獲得しよう,Earn $10000 total fans,exp
+ファンを累計で$num億人獲得しよう,Earn $100000000 total fans,exp
 $nameの思い出レベルを$numにしよう,Reach Memory Level $2 with $1,exp
 $nounで$num回勝利しよう,Win $2 times in $1,exp
 $nounで$nounを達成しよう,Achieve $2 in $1,exp
