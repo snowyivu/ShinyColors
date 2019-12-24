@@ -543,7 +543,7 @@
 	};
 
 	const saveConfig = () => {
-	  const data = {};
+	  let data = {};
 	  keys.forEach(key => {
 	    if (config[key] !== defaultConfig[key]) {
 	      data[key] = config[key];
@@ -5596,6 +5596,7 @@
 	const mypageComments = async data => {
 	  try {
 	    let list = [];
+	    let homeDeckList = {};
 
 	    if (data.userHomeDeck.userHomeDeckAnimationMember) {
 	      list = [...data.userHomeDeck.userHomeDeckAnimationMember.mypageComments];
@@ -5612,25 +5613,60 @@
 	    }
 
 	    if (data.userHomeDeck.userHomeDeckMembers.length) {
-	      data.userHomeDeck.userHomeDeckMembers.forEach(member => {
-	        member.mypageComments.forEach(comm => {
+	      data.userHomeDeck.userHomeDeckMembers.forEach(async member => {
+	        member.mypageComments.forEach(async comm => {
 	          list.push(comm);
+	          Object.keys(comm).forEach(async item => {
+	            let keyIdol = comm[item];
+
+	            if (item === 'speakerName') {
+	              const isExist = Object.keys(homeDeckList).some(key => {
+	                return key === comm[item];
+	              });
+
+	              if (!isExist) {
+	                homeDeckList[keyIdol] = [];
+	              }
+
+	              homeDeckList[keyIdol].push(comm);
+	            }
+	          });
 	        });
 	      });
 	    }
 
-	    if (config.myPage === 'download') {
-	      const wrapList = list.map(item => {
-	        return replaceWrap(item['comment']);
+	    if (config.myPage === 'multiple') {
+	      Object.keys(homeDeckList).forEach(key => {
+	        const wrapComment = homeDeckList[key].map(item => {
+	          return replaceWrap(item['comment']);
+	        });
+	        const jsonCsv = wrapComment.map(item => {
+	          return {
+	            'jp': item,
+	            'zh': ''
+	          };
+	        });
+	        const str = papaparse.unparse(jsonCsv);
+	        tryDownload(str, "".concat(homeDeckList[key][0].speakerName, "-myPageComments"));
 	      });
-	      const jsonCsv = wrapList.map((item, index) => {
+	      config.myPage = 'normal';
+	      saveConfig();
+	    } else if (config.myPage === 'single') {
+	      const wrapList = list.map(item => {
 	        return {
-	          'jp': item,
+	          name: item['speakerName'],
+	          comment: replaceWrap(item['comment'])
+	        };
+	      });
+	      const jsonCsv = wrapList.map(item => {
+	        return {
+	          name: item.name,
+	          'jp': item.comment,
 	          'zh': ''
 	        };
 	      });
 	      const str = papaparse.unparse(jsonCsv);
-	      tryDownload(str, "".concat(list[0].speakerName, "-myPageCommentList"));
+	      tryDownload(str, "deckMember-myPageComments");
 	      config.myPage = 'normal';
 	      saveConfig();
 	    }
