@@ -1,0 +1,36 @@
+id,name,text,trans
+1002001000910010,灯織,プロデューサー、相談させてもらってもいいですか,"Producer, could I ask you for some advice?"
+0000000000000,プロデューサー,ああ、どうしたんだ？,"Yeah, what's wrong?"
+1002001000910020,灯織,"いただいたファンレターに、どう返そうか
+迷っているんです……","I'm unsure how to reply back
+to a fan letter I received……"
+0000000000000,プロデューサー,（真剣に悩んでいるみたいだな……）,(She seems seriously worried about it……)
+select,,"レターセットで
+しっかりと！","Properly with a
+letter set!"
+select,,"綺麗なポストカードで
+びっしりと！","Densely with a
+beautiful postcard!"
+select,,"メッセージカードで
+さらっと！","Smoothly with a
+message card!"
+1002001000910030,灯織,"やっぱり、しっかりと返事をすれば……
+気持ちが伝わりますよね","I should send a proper reply after all……
+That will show my feelings."
+1002001000910040,灯織,"……うん、ちゃんと書けると思います。
+ありがとうございます","……Yes, I think I'll write back.
+Thank you very much."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001000910050,灯織,たしかに、いいかもしれません,"Certainly, that might be good."
+1002001000910060,灯織,"綺麗な景色と一緒なら
+ファンの方も気持ちよく読めますよね","If it comes with a beautiful postcard,
+the fan should be able to see my feelings too."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001000910070,灯織,"……せっかく応援してくれているのに
+簡単にすませてしまうのは良くないと思います","……I think finishing it easy isn't good
+after they put effort into supporting me."
+1002001000910080,灯織,やはりお返事は、きちんとしておかないと,I have to send a proper reply after all.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/100200100091.json,
+译者,,

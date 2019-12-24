@@ -1,24 +1,31 @@
 id,name,text,trans
 0000000000000,プロデューサー,おはよう。そのメモは……なんだ？,Good Morning. What is that note?
 1002001000110010,灯織,"帰りに洗剤やお米を買うのを忘れないよう、
-メモをしていただけです",I just made a note so I don't forget to buy/r/nlaundry detergent and rice on the way home
-1002001000110020,灯織,家事は私が担当しているので,It's because I'm in charge of doing the housework
+メモをしていただけです","I just made a note so I don't forget to buy
+laundry detergent and rice on the way home."
+1002001000110020,灯織,家事は私が担当しているので,It's because I'm in charge of doing the housework.
 0000000000000,プロデューサー,"（どうりで、いろんな生活用品が
-ずらりと並んでるわけだ）",(That explains all the various home related items/r/nlined up in a row)
+ずらりと並んでるわけだ）","(That explains all the various home related items
+lined up in a row)"
 select,,"まるでひとり
-暮らしみたいだ",It's like you're/r/nliving by yourself
-select,,大変だな,That must/r/nbe difficult
+暮らしみたいだ","It's like you're
+living by yourself"
+select,,大変だな,"That must
+be difficult"
 select,,えらいな,That's great
 1002001000110030,灯織,"そうかもしれません
-洗濯や掃除もやっていますし……",That might be true/r/nI do the cleaning and laundry too……
-1002001000110040,灯織,ずっとこうなので慣れてしまいました,It's always been like this so I got used to it
+洗濯や掃除もやっていますし……","That might be true.
+I do the cleaning and laundry too……"
+1002001000110040,灯織,ずっとこうなので慣れてしまいました,It's always been like this so I got used to it.
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
-1002001000110050,灯織,……お気遣いありがとうございます,……Thank you for your consideraton
+1002001000110050,灯織,……お気遣いありがとうございます,……Thank you for your consideraton.
 1002001000110060,灯織,"でもただの役割ですから、
-大変だと思ったことはありません","However it's just doing my part to help,/r/nso I don't think of it as difficult"
+大変だと思ったことはありません","However it's just doing my part to help,
+so I don't think of it as difficult."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
-1002001000110070,灯織,……こんなの全然、えらくなんてありません,……This isn't anything great at all
-1002001000110080,灯織,いつもやっている……普通のことです,I always do this…… It's normal
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah ……I screwed up. I should have said something else……)
+1002001000110070,灯織,……こんなの全然、えらくなんてありません,……This isn't anything great at all.
+1002001000110080,灯織,いつもやっている……普通のことです,I always do this…… It's normal.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
 info,produce_communications/100200100011.json,
 译者,,

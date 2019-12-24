@@ -1,0 +1,31 @@
+id,name,text,trans
+1002001000710010,灯織,……これ、いいな……,……This is nice……
+0000000000000,プロデューサー,何かいいものでも見つけたのか？,Did you find something good?
+1002001000710020,灯織,"……いえ、大したことではないです。ただ……
+海外の観光地の紹介サイトを見ていただけです","……No, it's not that important. It's just……
+I was looking at an introduction to overseas sightseeing website."
+0000000000000,プロデューサー,（たしかに……心がひかれるな）,(It certainly draws you in)
+select,,綺麗な景色だな,"What beautiful
+scenery"
+select,,"よし、ここで
+撮影しよう！","Alright, let's do
+a photoshoot here!"
+select,,"ここなら
+行ったことがあるぞ","I've been
+here before"
+1002001000710030,灯織,"プロデューサーもそう思いますか？
+本当に、すごく素敵ですよね","You think so too?
+It truly is amazing."
+1002001000710040,灯織,……１度ぐらい、行ってみたいな,……I'd like to go there one time.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001000710050,灯織,いえ、私の実力ではそんなこと無理だってわかってます,"It's ok, I know that I can't do that with my own ability right now."
+1002001000710060,灯織,"……でも、プロデューサーがそう言ってくれるなら、
+実現できるように頑張ります","……However, if you say so,
+then I'll do my best to make it a reality."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001000710070,灯織,……そんな自慢げに言わないでください,……Please don't say it like you're bragging.
+1002001000710080,灯織,ますます、ここに行きたくなってしまいますから……,It makes me want to go here less……
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/100200100071.json,
+译者,,

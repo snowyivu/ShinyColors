@@ -1,0 +1,32 @@
+id,name,text,trans
+1002001000610010,灯織,うーん……,Hmm……
+0000000000000,プロデューサー,灯織、何に悩んでるんだ？,"What are you worried about, Hiori?"
+1002001000610020,灯織,"あ……いえ。仕事やレッスンの反省点を
+まとめていただけです。他に何かないかと考えていて","Ah…… No. I'm just collecting the points I need to reflect on
+during work and lessons. I was thinking about if that was all."
+0000000000000,プロデューサー,"（おお、ノートに反省点が
+びっしり書いてあるな……）","(Oh, there's a lot of negative reflections
+close together in the notebook……)"
+select,,良かった点も書こう,"Let's write
+good points too"
+select,,手伝おうか,"Let me
+help you"
+select,,"まだまだ
+反省点はあるぞ！","There's still more
+to reflect on!"
+1002001000610030,灯織,あっ……そうですね。私、悪いところばっかり……,Ah…… You're right. I've only written bad points……
+1002001000610040,灯織,"次に生かすために、いいところも書くようにします
+ありがとうございます、プロデューサー","I will write the good points too, so I can make use of it next time.
+Thank you very much, Producer."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001000610050,灯織,"そうしてもらえると助かります。ひとりだけだと、
+どうしても偏ってしまうので……","That would help me out. By myself
+I'm too unbalanced……"
+1002001000610060,灯織,プロデューサーの意見もあると嬉しいです,I'd be happy to get your opinions too.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001000610070,灯織,そんなこと、言われなくてもわかってます,I know that without you saying it.
+1002001000610080,灯織,……もっとレッスンの量、増やさないと……,……I need to increase the amount of lessons I'm taking……
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/100200100061.json,
+译者,,

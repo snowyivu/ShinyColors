@@ -13,8 +13,6 @@ Submit Translation：[Click Here](https://github.com/snowyivu/ShinyColors/tree/m
 
 ## Devlopment
 
-(Don't actually use these yet for the English patch, I think it'll try to deploy to the Chinese one!!)
-
 ```bash
 # Global Installation yarn
 npm install -g yarn
