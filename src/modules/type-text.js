@@ -111,6 +111,8 @@ const mypageComments = async (data) => {
       })
       const str = CSV.unparse(jsonCsv)
       tryDownload(str, `deckMember-myPageComments`)
+      config.myPage = 'normal'
+      saveConfig()
     }
     await transText(list)
   } catch (e) {
