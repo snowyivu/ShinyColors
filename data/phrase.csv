@@ -51,7 +51,7 @@ trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得し�
 trueEndTeaching.allObjectiveClearedText,目標全てクリア,目標全てクリア
 trueEndTeaching.auditionTipsTitle,おすすめオーディション,おすすめオーディション
 trueEndTeaching.auditionTipsHadukiHintText,流行にも注目です〜♪　今週がチャンスですよ〜,流行にも注目です〜♪　今週がチャンスですよ〜
-trueEndTeaching.openDialogTitle,初心者ミッションクリア,初心者ミッションクリア
+trueEndTeaching.openDialogTitle,初心者ミッションクリア,Beginner Mission Clear
 trueEndTeaching.openDialogDescription,True End研修はホーム画面からスタートすることができます,True End研修はホーム画面からスタートすることができます
 trueEndTeaching.tipsText,おめでとうございます♪　すべての初心者ミッションをクリア\nしましたよ～　次はアイドルのTrue Endミッション達成を\n目標にしてみましょう,おめでとうございます♪　すべての初心者ミッションをクリア\nしましたよ～　次はアイドルのTrue Endミッション達成を\n目標にしてみましょう
 trueEndTeachingTipsText.areaSelect.clearedTrueEnd,プロデューサーさん、お疲れ様です♪\n初心にかえって研修を受けてみませんか？,プロデューサーさん、お疲れ様です♪\n初心にかえって研修を受けてみませんか？
@@ -90,12 +90,12 @@ checkin.successDialog.message,チェックインに成功しました\n\n報酬�
 checkin.attention,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n
 availableInform.title,アイテム有効期限のお知らせ,アイテム有効期限のお知らせ
 availableInform.description,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります
-availableInform.remainTime,あと%{remainTime},あと%{remainTime}
+availableInform.remainTime,あと%{remainTime},%{remainTime} left
 achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
 beginnerMission.headerTitle,初心者ミッション,Beginner Mission
-beginnerMission.detailPopTitle,初心者ミッション詳細,初心者ミッション詳細
-beginnerMission.receivePopTitle,初心者ミッション達成,初心者ミッション達成
+beginnerMission.detailPopTitle,初心者ミッション詳細,Beginner Mission Details
+beginnerMission.receivePopTitle,初心者ミッション達成,Beginner Mission Get
 downLoad.confirmTitle,データダウンロード,Data Download
 downLoad.confirmComment,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります
 downLoad.persistMessageMobile,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります
@@ -154,7 +154,7 @@ common.pIdol,プロデュースアイドル,Produce Idol
 common.sIdol,サポートアイドル,Support Idol
 common.quantityMessage,x%{quantity},x%{quantity}
 common.quantityMessageWithName,%{name} x%{quantity},%{name} x%{quantity}
-common.remainingTimeMessage,あと %{min}:%{sec},%{min}:%{sec} Remain
+common.remainingTimeMessage,あと %{min}:%{sec},%{min}:%{sec} Left
 common.lv,Lv.%{level},Lv.%{level}
 common.staff,はづき,Hazuki
 common.staffAbsence,（はづきの書置き）,（はづきの書置き）
@@ -212,8 +212,8 @@ concert.pauseDialog.produceSkill,プロデュースアイドル所持スキル,�
 concert.pauseDialog.supportSkill,サポートアイドル所持スキル,サポートアイドル所持スキル
 concert.passiveSkillDetailListDialog.title,発動中のパッシブスキル,発動中のパッシブスキル
 concert.passiveSkillDetailListDialog.emptyMessage,効果情報はありません,効果情報はありません
-concert.statusEffect.leftTurn,残り%{leftTurn}ターン,%{leftTurn} turns remain
-concert.statusEffect.remainTimes,残り%{remainTimes}回,%{remainTimes} times remain
+concert.statusEffect.leftTurn,残り%{leftTurn}ターン,%{leftTurn} turns left
+concert.statusEffect.remainTimes,残り%{remainTimes}回,%{remainTimes} times left
 concert.statusEffect.noStatusEffectMessage,効果情報はありません,効果情報はありません
 concertResult.entryNumber,エントリーNo.%{number}, Entry No.%{number}
 concertResult.statusUp.message,+%{upPoint},+%{upPoint}
@@ -327,31 +327,31 @@ evolution.complete.comment,特訓が完了しました！,特訓が完了しま�
 evolution.costumeRelease.first,最大まで特訓したことによって\n,最大まで特訓したことによって\n
 evolution.costumeRelease.second,の衣装に\n変更可能になりました！,の衣装に\n変更可能になりました！
 fes.top.title,フェス,Fes
-fes.top.scoreTitle,現在のスコア,現在のスコア
-fes.top.rankingTitle,グレード内順位/,グレード内順位/
+fes.top.scoreTitle,現在のスコア,Current Score
+fes.top.rankingTitle,グレード内順位/,Grade Rank
 fes.top.score,%{value}pt,%{value}pt
 fes.top.ranking,%{value}位,%{value} rank
-fes.top.rankingInCalculation,集計中,集計中
-fes.top.gradeTotalUserNum,%{value}人中,%{value}人中
-fes.top.gradeEvaluationLimit,グレード判定期間  %{mounth}/%{date} %{hour}:%{minute}まで,グレード判定期間  %{mounth}/%{date} %{hour}:%{minute}まで
-fes.top.gradeProcessing,グレード集計期間  %{mounth}/%{date} %{hour}:%{minute}まで,グレード集計期間  %{mounth}/%{date} %{hour}:%{minute}まで
-fes.difficultySelect.rehearsalMessage,フェスリハーサルの難易度を選択してください,フェスリハーサルの難易度を選択してください
-fes.difficultySelect.gradeMatchMessage,グレードフェスの難易度を選択してください,グレードフェスの難易度を選択してください
+fes.top.rankingInCalculation,集計中,Calculating
+fes.top.gradeTotalUserNum,%{value}人中,%{value} Players
+fes.top.gradeEvaluationLimit,グレード判定期間  %{mounth}/%{date} %{hour}:%{minute}まで,Grade Period Cutoff at %{mounth}/%{date} %{hour}:%{minute}
+fes.top.gradeProcessing,グレード集計期間  %{mounth}/%{date} %{hour}:%{minute}まで,Grade Calculation Until %{mounth}/%{date} %{hour}:%{minute}
+fes.difficultySelect.rehearsalMessage,フェスリハーサルの難易度を選択してください,Please choose the Fes Rehearsal Difficulty
+fes.difficultySelect.gradeMatchMessage,グレードフェスの難易度を選択してください,Please choose the Grade Fes Difficulty
 fes.deck.memoryBonus,x%{value},x%{value}
 fes.ready.title,参加ユニット,参加ユニット
 fes.ready.description,テンション決定後は前の画面には戻れません\nフェス参加権を%{consumedFesTicket}消費します,テンション決定後は前の画面には戻れません\nフェス参加権を%{consumedFesTicket}消費します
-fes.resumeDialog.title,フェス再開,フェス再開
+fes.resumeDialog.title,フェス再開,Resume Fes
 fes.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,進行中のフェスがあります。\nフェスを再開しますか？
-fes.terminateDialog.title,フェス終了,フェス終了
+fes.terminateDialog.title,フェス終了,End Fes
 fes.terminateDialog.text,進行中のフェスを終了します。,進行中のフェスを終了します。
 fes.terminateDialog.textWarning,フェス参加権は返却されません,フェス参加権は返却されません
-fes.fesDeck.title,フェスユニット編成,フェスユニット編成
-fes.fesDeck.invalidFesDeckNotice.title,確認,確認
+fes.fesDeck.title,フェスユニット編成,Fes Unit Organization
+fes.fesDeck.invalidFesDeckNotice.title,確認,Confirm
 fes.fesDeck.invalidFesDeckNotice.message,フェスユニットに空きがあるため\n編成を終了できません,フェスユニットに空きがあるため\n編成を終了できません
-fes.fesDeckView.title,確認,確認
+fes.fesDeckView.title,確認,Confirm
 fes.fesDeckView.message,このアイドルは既に移籍済みのため\n詳細を確認できませんでした,このアイドルは既に移籍済みのため\n詳細を確認できませんでした
-fes.fesIdolSelect.title,%{positionName}選択,%{positionName}選択
-fes.fesIdolSelect.confirmationTitle,%{positionName}入替,%{positionName}入替
+fes.fesIdolSelect.title,%{positionName}選択,Select %{positionName}
+fes.fesIdolSelect.confirmationTitle,%{positionName}入替,Replace %{positionName}
 fes.skillChange.description,ライブスキルを\n2つ選択してください,ライブスキルを\n2つ選択してください
 fes.fesPositionName.vocal,ボーカル,Vocal
 fes.fesPositionName.dance,ダンス,Dance
@@ -378,7 +378,7 @@ fes.result.scoreDetail.pointValue,%{value} pt,%{value} pt
 fes.result.scoreDetail.order,順位評価 %{order}位,順位評価 %{order}位
 fes.result.scoreDetail.star,スター獲得数×%{star},スター獲得数×%{star}
 fes.result.scoreDetail.totalScore,ポイント合計,ポイント合計
-fes.result.scoreDetail.bonus,ボーナス倍率,ボーナス倍率
+fes.result.scoreDetail.bonus,ボーナス倍率,Bonus Total
 fes.result.scoreDetail.bonusValue,×%{value},×%{value}
 fes.result.scoreDetail.totalBonus,ボーナス合計,ボーナス合計
 fes.result.scoreDetail.finalScore,総合スコア,総合スコア
@@ -391,16 +391,16 @@ fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今
 fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね
 fes.ranking.score,%{score}pt,%{score}pt
 fes.ranking.emptyNotice,現在ランキング集計中です,現在ランキング集計中です
-fes.ranking.updateIntervalWarning,※最新のランキング反映までに時間がかかる場合があります,※最新のランキング反映までに時間がかかる場合があります
-fes.fesGradeRewardPop.title,グレードフェス報酬,グレードフェス報酬
-fes.fesGradeRewardPop.gradeReward.title,所属グレード報酬について,所属グレード報酬について
-fes.fesGradeRewardPop.gradeReward.description,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。
-fes.fesGradeRewardPop.gradeReward.colTitle1,所属グレード,所属グレード
-fes.fesGradeRewardPop.gradeReward.colTitle2,報酬内容,報酬内容
-fes.fesGradeRewardPop.missionReward.title,初回昇格報酬について,初回昇格報酬について
-fes.fesGradeRewardPop.missionReward.description,初めてLv.2以上の各グレードに昇格した際、特別な報酬を入手できます。\r報酬は「ミッション」からお受け取りください。,初めてLv.2以上の各グレードに昇格した際、特別な報酬を入手できます。\r報酬は「ミッション」からお受け取りください。
-fes.fesGradeRewardPop.missionReward.colTitle1,昇格グレード,昇格グレード
-fes.fesGradeRewardPop.missionReward.colTitle2,報酬内容,報酬内容
+fes.ranking.updateIntervalWarning,※最新のランキング反映までに時間がかかる場合があります,※Latest rankings may take some time to update
+fes.fesGradeRewardPop.title,グレードフェス報酬,Grade Fes Rewards
+fes.fesGradeRewardPop.gradeReward.title,所属グレード報酬について,Rewards for belonging to a Grade
+fes.fesGradeRewardPop.gradeReward.description,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。,"The rewards for the grade you are in are rewarded at the same time as the ""Fes Trend Update""\r\nAfter a grade update, your rewards will be sent to the gift box on the Fes screen.\r\nPlease note that you will only receive the rewards of your current grade."
+fes.fesGradeRewardPop.gradeReward.colTitle1,所属グレード,Grade
+fes.fesGradeRewardPop.gradeReward.colTitle2,報酬内容,Rewards
+fes.fesGradeRewardPop.missionReward.title,初回昇格報酬について,First Promotion Reward Info
+fes.fesGradeRewardPop.missionReward.description,初めてLv.2以上の各グレードに昇格した際、特別な報酬を入手できます。\r報酬は「ミッション」からお受け取りください。,"You will receive special rewards the first time you reach a grade level of 2 or higher.\r\nPlease collect the rewards from the ""Mission"" screen."
+fes.fesGradeRewardPop.missionReward.colTitle1,昇格グレード,New Grade
+fes.fesGradeRewardPop.missionReward.colTitle2,報酬内容,Rewards
 gameEvent.achievementRewardDialog.title,ミッション達成累積報酬,ミッション達成累積報酬
 gameEvent.achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 gameEvent.achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
@@ -485,9 +485,9 @@ gasha.instantLottery.popReward.instantLotteryReward.title,スピードくじ報�
 gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,上記のアイテムがプレゼントBOXに送られました
 gasha.loadingWarning,読み込みに時間が掛かることがありますので、\nリロードはお控えください。,読み込みに時間が掛かることがありますので、\nリロードはお控えください。
 gasha.noExpire,期限なし,期限なし
-gasha.expireAt,使用期限：%{datetimeText},使用期限：%{datetimeText}
+gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
 gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！
-gasha.stamp.popReward.title,スタンプカード報酬,スタンプカード報酬
+gasha.stamp.popReward.title,スタンプカード報酬,Stamp Card Reward
 gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します
 gasha.freeGift.popReward.title,おまけ,おまけ
@@ -639,11 +639,11 @@ mission.popReceive.comment,以下の報酬を受け取りました,以下の報�
 mission.noLimit,期限なし,期限なし
 mission.noMissionMessage,挑戦できるミッションはありません,挑戦できるミッションはありません
 mission.expiredMission,ミッション挑戦期限を過ぎています,ミッション挑戦期限を過ぎています
-mission.remainingMinutes,あと%{minutes}分,%{minutes}m Remain
-mission.remainingHours,あと%{hours}時間%{minutes}分,%{hours}h%{minutes}m Remain
-mission.remainingDays,あと%{days}日%{hours}時間,%{days}d%{hours}h Remain
-mission.receiveAllConfirm.text,ミッション報酬を新しいものから\r100件まで受け取ります。\rよろしいですか？,ミッション報酬を新しいものから\r100件まで受け取ります。\rよろしいですか？
-mission.receiveAll.title,ミッション報酬一括受け取り,ミッション報酬一括受け取り
+mission.remainingMinutes,あと%{minutes}分,%{minutes}m left
+mission.remainingHours,あと%{hours}時間%{minutes}分,%{hours}h%{minutes}m left
+mission.remainingDays,あと%{days}日%{hours}時間,%{days}d%{hours}h left
+mission.receiveAllConfirm.text,ミッション報酬を新しいものから\r100件まで受け取ります。\rよろしいですか？,Collect latest mission rewards\r\nup to a maximum of 100.\r\nAre you sure?
+mission.receiveAll.title,ミッション報酬一括受け取り,Collect Mission Rewards
 mission.receiveAll.message,以下の報酬を受け取りました,以下の報酬を受け取りました
 mission.receiveAll.maxMessageFooter,一部の報酬は最大所持数を超えているため\n受け取れませんでした,一部の報酬は最大所持数を超えているため\n受け取れませんでした
 mission.receiveAll.maxMessage,最大所持数を超えるため受け取れません,最大所持数を超えるため受け取れません
@@ -665,10 +665,10 @@ idolDetail.fromGashaNotice,最大特訓時の状態を表示しています。,�
 idolDetail.headerTitle.produce,プロデュースアイドル詳細,Produce Idol Details
 idolDetail.headerTitle.support,サポートアイドル詳細,Support Idol Details
 idolDetail.headerTitle.fes,フェスアイドル詳細,Fes Idol Details
-idolDetail.holdTapHint,※アイコンを長押しでアイドルの詳細が確認できます,※アイコンを長押しでアイドルの詳細が確認できます
-idolDetail.skill.lockPanel,特訓%{evolutionStage}段階目,特訓%{evolutionStage}段階目
+idolDetail.holdTapHint,※アイコンを長押しでアイドルの詳細が確認できます,※Tap and hold on an idol to check its details
+idolDetail.skill.lockPanel,特訓%{evolutionStage}段階目,Evolve Stage %{evolutionStage}
 idolDetail.supportParameter.remainingExp,あと%{exp},After %{exp}
-idolDetail.totalFan.idolName,【%{name}】累計ファン人数,【%{name}】累計ファン人数
+idolDetail.totalFan.idolName,【%{name}】累計ファン人数,【%{name}】Total Fan Count
 idolDetail.produceDeck.detailPop.title,プロデュースデッキアイドル詳細,Produce Idol Deck Details
 idolDetail.produceDeck.detailPop.noSkillName,未設定,Unselect
 idolDetail.canNotTradeDialog.title,確認,Confirm
@@ -701,7 +701,7 @@ idolDetail.fesIdol,フェスアイドル,Fes Idol
 idolDetail.guest,ゲスト,Guest
 idolPiece,メモリアルピース,Memory Appeal
 idolRank.txtFan,%{count}人,%{count}
-idolRank.txtNextFan,あと  %{count}人,%{count} remain
+idolRank.txtNextFan,あと  %{count}人,%{count} left
 item.limitNum,最大所持数: %{num},Max Limit: %{num}
 item.headerTitle,アイテム一覧,Inspect Item
 item.noItem,アイテムがありません。,No Items.
@@ -749,7 +749,7 @@ present.present.noExpire,期限なし,No deadline
 present.present.expireTime,%{expire}まで,Until %{expire}
 present.main.count.title.received,受取済プレゼント,Total Received
 present.main.count.title.unReceive,未受取プレゼント,Total Unclaimed
-present.main.count.unit,件,Count
+present.main.count.unit,件, 
 present.main.notice,期限が切れたプレゼントは自動的に削除されます。\rまた、一度に受け取れるプレゼントは100件までです。,Expired presents are automatically deleted.\r\nYou can claim up to 100 presents at a time.
 present.receive.title,プレゼント受け取り,Accept Presents
 present.receive.message,以下のプレゼントを受け取りました,You received the following gifts
@@ -779,7 +779,7 @@ filterPop.filter.limitStaminaUp,体力,Stamina
 filterPop.filter.placeAppearRate,レッスン・\nお仕事,Lesson・\nWork
 filterPop.filter.commu,コミュ,Commu
 produce.header.ideaNote.emptyNotice,使用していません,Not Used
-produce.resumePop.progress,シーズン %{season} / 残り %{restOfSeasonWeek}週,Season %{season} / %{restOfSeasonWeek} Wks Remain
+produce.resumePop.progress,シーズン %{season} / 残り %{restOfSeasonWeek}週,Season %{season} / %{restOfSeasonWeek} Wks Left
 produce.produceItemPop.titleConfirm,使用確認,Confirm Use
 produce.produceItemPop.titleResult,プロデュースアイテム使用,Use Produce Item
 produce.produceItemPop.messageConfirm,以下のアイテムを使用しますか？,Use this Produce Item?
@@ -936,8 +936,8 @@ spine.cbSub,ちびサブキャラ,ちびサブキャラ
 spine.stand,等身キャラ,等身キャラ
 spine.standSub,等身サブキャラ,等身サブキャラ
 titleSelect.result.message,称号を設定しました,称号を設定しました
-supportIdol.remaining,あと %{remaining},%{remaining} Remains
-training.gainExpLabel,獲得Exp,Receive Exp
+supportIdol.remaining,あと %{remaining},%{remaining} left
+training.gainExpLabel,獲得Exp,Get XP
 training.skillListTitle,習得するサポートスキル,Learn Support Skill
 training.startConfirm,トレーニング確認,Confirm Training
 training.resultTitle,トレーニング成功,Training Success
@@ -1120,8 +1120,8 @@ billedJewel,有償フェザージュエル,有償フェザージュエル
 shop.salesItemText.2137,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！
 shop.exchangeCount,交換数,交換数
 shop.purchaseCount,購入数,購入数
-shop.exchangeLimit,交換上限,交換上限
-shop.purchaseLimit,購入上限,購入上限
+shop.exchangeLimit,交換上限,Limit
+shop.purchaseLimit,購入上限,Limit
 shop.purchasedCountLabelText.skin,所持数,所持数
 shop.purchasedCountLabelText.gameEvent.scenario_event_point,シナリオP,ScenarioP
 shop.purchasedCountLabelText.gameEvent.fes_event_point,フェスP,FesP
