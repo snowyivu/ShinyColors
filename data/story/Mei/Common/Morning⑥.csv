@@ -1,0 +1,27 @@
+id,name,text,trans
+1019001000610010,愛依,あ……プロデューサー……おはよ～,Ah... producer... good morning~
+0000000000000,プロデューサー,疲れてるな、大丈夫か？,"You sound tired, everything alright?"
+1019001000610020,愛依,"あ～、別にだいじょーぶだいじょーぶ
+昨日ちょっと、弟と妹の相手してただけだから","Ah~, I'm fine, I'm fine, just yesterday, 
+I was helping out with my little brother and sister."
+0000000000000,プロデューサー,（それで少し疲れてるのか……）,(So she is a little tired then...?)
+select,,"面倒見が
+いいんだな",It's great that you're taking care of them
+select,,少し休んだらどうだ,You should take a short break
+select,,大変そうだな,You look rough
+1019001000610030,愛依,"うちもお姉ちゃんだしね～
+ふたりの世話すんの多い的な？","I'm also an older sister after all~ 
+The two of them need a lot of help."
+1019001000610040,愛依,ま、相手すんの楽しいんだけどね♪,"Well, it's fun to help out with them♪"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000610050,愛依,へーきへーき、次のレッスンまであんま時間ないっしょ？,"Alright alright, not until after my next lesson though okay?"
+1019001000610060,愛依,確認とかしとかないとじゃん？,I have a couple things I need to check on yeah?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000610070,愛依,"確かにちょっと疲れっけどね～
+ま、うちの仕事だから","I'm definitely a little tired~
+But, that's my job."
+1019001000610080,愛依,んでも昨日はさすがに大変だったわ～……,Although yesterday was definitely rough~......
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100061.json,
+译者,,
