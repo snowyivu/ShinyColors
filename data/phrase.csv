@@ -208,8 +208,8 @@ concert.judgeDetailDialog.titles.instructor,%{attribute}コーチ,%{attribute} C
 concert.judgeDetailDialog.titles.fan,%{attribute}重視の観客,%{attribute}重視の観客
 concert.playerIdol.retire,Retire,Retire
 concert.produceIdolComment,私の歌、届け！,私の歌、届け！
-concert.pauseDialog.produceSkill,プロデュースアイドル所持スキル,プロデュースアイドル所持スキル
-concert.pauseDialog.supportSkill,サポートアイドル所持スキル,サポートアイドル所持スキル
+concert.pauseDialog.produceSkill,プロデュースアイドル所持スキル,Produce Idol's Skills
+concert.pauseDialog.supportSkill,サポートアイドル所持スキル,Support Idol's Skills
 concert.passiveSkillDetailListDialog.title,発動中のパッシブスキル,発動中のパッシブスキル
 concert.passiveSkillDetailListDialog.emptyMessage,効果情報はありません,効果情報はありません
 concert.statusEffect.leftTurn,残り%{leftTurn}ターン,%{leftTurn} turns left
@@ -249,7 +249,7 @@ emSpace,,
 ending.headerTitle.endingCEOReport,社長からの評価,社長からの評価
 ending.headerTitle.fesIdolBirth,フェスアイドル誕生,Create Fes Idol
 ending.fesIdolCheckPop.title,フェスアイドル確認,フェスアイドル確認
-ending.fesIdolCheckPop.comment,フェスアイドルの誕生を行います。\rよろしいですか？,フェスアイドルの誕生を行います。\rよろしいですか？
+ending.fesIdolCheckPop.comment,フェスアイドルの誕生を行います。\rよろしいですか？,This will create the Fes Idol.\r\nAre you sure?
 ending.fesIdolCheckPop.warning,残りの所持SPは失われます。,残りの所持SPは失われます。
 ending.fesIdolRewardPop.title,プロデュースクリア報酬,プロデュースクリア報酬
 ending.fesIdolRewardPop.comment,下記アイテムを入手しました,下記アイテムを入手しました
@@ -448,7 +448,7 @@ gasha.resultMessage,既に加入済みのアイドルは控室に送られます
 gasha.tweetLayerMessage,ツイートしたいアイドルを選択してください,ツイートしたいアイドルを選択してください
 gasha.gashaText,%{quantity}回引く,%{quantity}回引く
 gasha.popTicketDesc,%{ticketName}を\r消費してガシャを%{quantity}回引きます。\rよろしいですか？,%{ticketName}を\r消費してガシャを%{quantity}回引きます。\rよろしいですか？
-gasha.popJewelDesc,フェザージュエルを%{price}個消費して\rガシャを%{quantity}回引きます。\rよろしいですか？,フェザージュエルを%{price}個消費して\rガシャを%{quantity}回引きます。\rよろしいですか？
+gasha.popJewelDesc,フェザージュエルを%{price}個消費して\rガシャを%{quantity}回引きます。\rよろしいですか？,This will consume %{price} Feather Jewels.\r\nGacha will be drawn %{quantity} times.\r\nAre you sure?
 gasha.popBanaCoinDesc,バナコインでガシャを%{quantity}回引きますか？,バナコインでガシャを%{quantity}回引きますか？
 gasha.popFreeDesc,無料で1回ガシャを引きますか？,無料で1回ガシャを引きますか？
 gasha.popRedrawConfirm.title,ご注意,ご注意
@@ -457,33 +457,33 @@ gasha.popRedrawConfirm.notice,「初回限定！運命の出会いガシャ」�
 gasha.confirmDialog.title,使用確認,使用確認
 gasha.confirmDialog.message,フェザージュエルを%{price}個消費して\nガシャを%{count}回引きます\nよろしいですか？,フェザージュエルを%{price}個消費して\nガシャを%{count}回引きます\nよろしいですか？
 gasha.confirmDialog.messageBilledOnly,ガシャを%{count}回引きます\nよろしいですか？,ガシャを%{count}回引きます\nよろしいですか？
-gasha.confirmDialog.noticeBilledOnly,有償フェザージュエルでのみ購入可能,有償フェザージュエルでのみ購入可能
-gasha.confirmDialog.jewelNotice,無償フェザージュエルから先に消費されます,無償フェザージュエルから先に消費されます
-gasha.confirmDialog.jewelNoticeBilledOnly,有償フェザージュエルが消費されます,有償フェザージュエルが消費されます
-gasha.confirmDialog.jewelNoticeNeedsCharge,フェザージュエルが不足しています,フェザージュエルが不足しています
-gasha.rateDescription,%{rarity}%{idolType}アイドル（%{count}種）,%{rarity}%{idolType}アイドル（%{count}種）
+gasha.confirmDialog.noticeBilledOnly,有償フェザージュエルでのみ購入可能,Available only with Paid Feather Jewels
+gasha.confirmDialog.jewelNotice,無償フェザージュエルから先に消費されます,Free Feather Jewels are consumed first
+gasha.confirmDialog.jewelNoticeBilledOnly,有償フェザージュエルが消費されます,Paid Feather Jewels are consumed
+gasha.confirmDialog.jewelNoticeNeedsCharge,フェザージュエルが不足しています,Not enough Feather Jewels
+gasha.rateDescription,%{rarity}%{idolType}アイドル（%{count}種）,%{rarity}%{idolType} Idol（%{count} available）
 gasha.detailPercentage,%{rate}%,%{rate}%
-gasha.checkPopHeader,使用確認,使用確認
-gasha.detailPopHeader,提供割合,提供割合
-gasha.gashaSelectHeader,ガシャ選択,ガシャ選択
+gasha.checkPopHeader,使用確認,Confirm Use
+gasha.detailPopHeader,提供割合,Drop Rate
+gasha.gashaSelectHeader,ガシャ選択,Select Gacha
 gasha.produce,プロデュース,Produce
 gasha.support,サポート,Support
-gasha.normalGashaSubtitle,通常ガシャ提供割合,通常ガシャ提供割合
-gasha.normalGashaSubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
-gasha.srUpSubtitle,SR以上確定提供割合,SR以上確定提供割合
-gasha.srUpSubtitleIdol,SR以上確定の提供アイドル一覧,SR以上確定の提供アイドル一覧
+gasha.normalGashaSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
+gasha.normalGashaSubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
+gasha.srUpSubtitle,SR以上確定提供割合,SR+ Gacha Drop Rate
+gasha.srUpSubtitleIdol,SR以上確定の提供アイドル一覧,List of Idols in SR+ Gacha
 gasha.ssrFixSubtitle,SSR確定提供割合,SSR確定提供割合
 gasha.ssrFixSubtitleIdol,SSR確定の提供アイドル一覧,SSR確定の提供アイドル一覧
-gasha.gashaTicketSubtitle,通常ガシャ提供割合,通常ガシャ提供割合
-gasha.gashaTicketSubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
-gasha.step1Subtitle,通常ガシャ提供割合,通常ガシャ提供割合
-gasha.step1SubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
+gasha.gashaTicketSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
+gasha.gashaTicketSubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
+gasha.step1Subtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
+gasha.step1SubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
 gasha.instantLottery.subtitle,スピードくじ提供割合,スピードくじ提供割合
 gasha.instantLottery.header,等級（%{count}種）,等級（%{count}種）
 gasha.instantLottery.grade,%{grade}等,%{grade}等
 gasha.instantLottery.popReward.instantLotteryReward.title,スピードくじ報酬,スピードくじ報酬
 gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,上記のアイテムがプレゼントBOXに送られました
-gasha.loadingWarning,読み込みに時間が掛かることがありますので、\nリロードはお控えください。,読み込みに時間が掛かることがありますので、\nリロードはお控えください。
+gasha.loadingWarning,読み込みに時間が掛かることがありますので、\nリロードはお控えください。,Loading may take some time.\r\nPlease do not reload the page.
 gasha.noExpire,期限なし,期限なし
 gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
 gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！
@@ -552,7 +552,7 @@ header.homeDeckAnimationCharacterChange.right,Rightアイドル選択,Right Idol
 header.homeDeckAnimationCharacterChange,アイドル選択,Idol Selection
 header.homeDeckMemberSelect,ホームユニットメンバー編成,ホームユニットメンバー編成
 header.idolPortal,アイドル,Idol
-header.idolList,アイドル一覧,アイドル一覧
+header.idolList,アイドル一覧,Idol List
 header.musicSelect,楽曲選択,Music Selection
 header.notice,お知らせ,お知らせ
 header.fesMatchRanking,ランキング,Ranking
@@ -1116,7 +1116,7 @@ gasha.stepupTimes.step4,%{times}連,%{times}連
 idolPieceSimple,ピース,Piece
 invitation.tweetComments.text,アイドルマスターシャイニーカラーズ\rこの招待リンクからゲームを始めると１回ガシャチケットもらえる！,アイドルマスターシャイニーカラーズ\rこの招待リンクからゲームを始めると１回ガシャチケットもらえる！
 invitation.tweetComments.hashTag,"シャニマス,idolmaster","シャニマス,idolmaster"
-billedJewel,有償フェザージュエル,有償フェザージュエル
+billedJewel,有償フェザージュエル,Paid Feather Jewel
 shop.salesItemText.2137,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！
 shop.exchangeCount,交換数,交換数
 shop.purchaseCount,購入数,購入数
