@@ -1,0 +1,29 @@
+id,name,text,trans
+1019001000810010,愛依,"プロデューサーってさ～
+なんか覚える時ってどーしてる～？","Hey Producer~
+How do you remember things~?"
+0000000000000,プロデューサー,"そうだな……内容によって変わるけど
+何を覚えなくちゃならないんだ？","Well... it's different depending on what it is,
+What is it that you have to remember?"
+1019001000810020,愛依,"テストで同じとこ間違えちゃってさ～
+そこ覚えてないと次はヤバいんだよね～","I keep making the same mistakes in my tests~
+It'd be seriously bad if I didn't remember next time y'know?"
+0000000000000,プロデューサー,そういうことなら……,So that's how it is...
+select,,"部屋のドアに
+答えを貼っておく",Tape the answer to your door
+select,,何回も書いて覚える,Write it down over and over to memorize it
+select,,音読をして覚える,Try reading it out loud
+1019001000810030,愛依,"あ、それ良さげ～
+部屋のドアなら絶対見るもんね～","Ah, that's good~ 
+If it's on my door I'll totally see it~"
+1019001000810040,愛依,帰ったら貼っとこーっと♪,I'll tape it up when I get home♪
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000810050,愛依,それしかないか～,"Really, just that~"
+1019001000810060,愛依,そういうのオードーって言うんだっけ？,Isn't that just what people normally say to do?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000810070,愛依,えぇ～、声出す的なやつ～？,"Ehh~, like someone who talks to themself~?"
+1019001000810080,愛依,聞かれたら恥ずくな～い？,Wouldn't that be embarassing if someone overheard?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100081.json,
+译者,,

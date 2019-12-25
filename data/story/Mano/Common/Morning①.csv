@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,この前のオフは出かけたんだって？,You mentioned you went out yesterday?
+1001001000110010,真乃,"はい、お買い物に行きましたっ！
+かわいい鳥さんの小物を見つけたんです","Yes, I went out shopping!
+I saw a cute bird-san accessory."
+1001001000110020,真乃,"本当にほわほわ～ってかわいくて、
+買おうか迷っちゃいました","It was really howahowa~ and cute,
+I was at a loss if I should buy it."
+0000000000000,プロデューサー,（楽しそうに話してくれるな）,(She seems happy talking about this)
+select,,"ショッピングが
+好きなの？","When it comes to shopping,
+Do you enjoy it?"
+select,,どんな鳥？,What kind of bird?
+select,,"小物が好きって、
+女の子らしいよな","You like accessories,
+That's very girly of you."
+1001001000110030,真乃,"はいっ、お散歩するのが大好きで、お店もよく覗きます
+たまに素敵な物に出会えるのが楽しいですっ","Yes, I love taking strolls, peeking into shops
+Occasionally coming across something wonderful."
+1001001000110040,真乃,"ほわ、鳥さんの小物とも素敵な出会いですよね？
+うん……やっぱり、買っちゃいますっ","Howa, I had a wonderful chance encounter with a bird-san accessory, right?
+Yeah... after all, I'm going to buy it."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1001001000110050,真乃,"モチーフはインコです
+巾着になっていて、頭の紐をきゅっとすると……","It had a parrot motif.
+It was a purse, and when you twist the string on the top..."
+1001001000110060,真乃,"ほわわっ、そこまで聞いてないですよね……
+プロデューサーさんにも見せたかったです","Howaa, well you didn't ask for that much detail...
+I wanted to show it to Producer-san too"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1001001000110070,真乃,ほわ……そうなんでしょうか……？,Howa... is that so...?
+1001001000110080,真乃,"小物だけじゃなくて、
+鳥さんがモチーフのものならなんでも好きです","It's not just accessories though,
+I like anything if it has a bird-san motif."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/100100100011.json,
+译者,,

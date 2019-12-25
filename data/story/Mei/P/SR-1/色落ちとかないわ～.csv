@@ -1,0 +1,81 @@
+id,name,text,trans
+2019003020010,愛依,"よっと……迎えに来てくれて
+サンキュ、プロデューサー","Hup... you came and picked me up,
+Thanks, Producer"
+0000000000000,プロデューサー,"今日の行き先は電車だと行きづらいからな
+気にしないでくれ","Since it's hard to get to today's destination by train,
+don't worry about it."
+2019003020020,愛依,"アハハ、送迎とかちょー
+アイドルってカンジすんね～！","Ahaha, you're picking me up and dropping me off-
+This really makes me feel like an idol~!"
+0000000000000,プロデューサー,"はは、そうかもな
+これくらいで良かったら、いつでもやるぞ","Haha, that could be.
+If you like things like this, I could always pick you up."
+2019003020030,愛依,"マジで～！？
+じゃあ、今度ドライブでもする？","Totally~!?
+Then, you'll drive me again next time?"
+0000000000000,プロデューサー,"もちろん
+仕事以外はダメだからな","Of course.
+But only if it's work related."
+2019003020040,愛依,"アハハ、わかってるよ～
+ちょっと言ってみただけ～","Ahaha, I gotcha~
+Figured it was worth a shot~"
+2019003020050,愛依,行き先ってここからどんくらいなの？,About how far are we from our destination?
+0000000000000,プロデューサー,２時間くらいかな？,I think it's about 2 hours?
+2019003020060,愛依,へぇ～結構かかんだね,Ehh~ That's pretty dang rough
+0000000000000,プロデューサー,"ああ、そうなんだよ
+愛依はゆっくりしてくれてていいからな","Uh-huh, it is.
+So it's fine if you take it easy."
+2019003020070,愛依,うん、テキトーにスマホでもいじってるよ,"Yeah, I'm just gonna be texting on my phone."
+2019003020080,愛依,…………,...
+0000000000000,プロデューサー,…………,...
+2019003020090,愛依,ふぁ～……,Yawn~...
+2019003020100,愛依,"あのさ～、すげー長く運転してるっぽいけど
+疲れたりしないの～","You know~, even though you've been driving a suuuper long time,
+You're not even tired~"
+0000000000000,プロデューサー,そういえば、疲れたな,"Come to think of it, I'm worn-out."
+2019003020110,愛依,"もうすぐサービスエリアみたいだし
+ちょっと休んだほうがよくない？","Looks like there's a service area soon,
+Should we stop for a little break?"
+0000000000000,プロデューサー,"そうさせてもらうよ、ありがとう
+愛依もゆっくり休んでくれ","Let's do that, thanks.
+You should get some rest too."
+2019003020120,愛依,"サンキュ、うちは体ほぐしたいから
+少しうろついたりしてくるわ！","Thanks, since I need to stretch my body,
+I'm gonna wander around a little!"
+2019003020130,愛依,お待たせ～,Thanks for waiting for me~
+0000000000000,プロデューサー,ああ、おかえり,"Ah, welcome back."
+2019003020140,愛依,…………,...
+2019003020150,愛依,"ねぇ、プロデューサー
+うちの髪、どう思う？","Hey, Producer,
+What do you think of my hair?"
+0000000000000,プロデューサー,"？
+特に変なところはないと思うけど","?
+I don't think there's anything particularly different?"
+2019003020160,愛依,そっかなー、少し色落ちしてるカンジしない？,"Oh yeah-?, don't you think it's lost a little color?"
+0000000000000,プロデューサー,うーん……俺にはわからないな……,Well... I'm not sure...
+2019003020170,愛依,"え～？
+もっと近くで見てみ？　ほら──","Eh~?
+Need to look closer?  Here-"
+2019003020180,愛依,この辺、結構キてない？,"This section, isn't it wrong?"
+0000000000000,プロデューサー,"ん……？
+どこのことを言ってるんだ……？","Hm...?
+Where are you talking about...?"
+2019003020190,愛依,"この辺だって～
+周りと色違って見えるっしょ～？","This part too~
+Doesn't it look different from the surrounding color?"
+0000000000000,プロデューサー,"あー……言われてみると
+確かに違うな……","Ah-... when you mention it,
+It's definitely different huh..."
+2019003020200,愛依,"やっぱ、そうだよね～！
+うんうん、なんかスッキリした～","Aha, I thought so~!
+Mhmmm, that's a weight off my shoulders~"
+2019003020210,愛依,"よし、週末に美容院行こっと
+今決めたし","Alright, I've decided now, this weekend
+I'm going to the hair salon."
+0000000000000,プロデューサー,はは、綺麗に染まったらいいな,"Haha, I hope it gets dyed beautifully."
+2019003020220,愛依,"染め直したら、また見てもらうから
+感想、ヨロシクね～","When I re-dye it, since I'll show you again,
+Give me your impression!  Thanks for treating me well~"
+info,produce_events/201900302.json,
+译者,,

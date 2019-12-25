@@ -1,0 +1,29 @@
+id,name,text,trans
+1019001001310010,愛依,"いつもサンキュ……とか……？
+あ～、ムズい～","Should I always use 'Thank You'... or...?
+Ah~, so difficult~"
+0000000000000,プロデューサー,ファンレターの返事か？,Responding to fan mail?
+1019001001310020,愛依,"そ！
+んでも～、うち手紙とかマジ書けない系なんだよね","Yeah!
+Mm but~, I totally can't write letters at all"
+0000000000000,プロデューサー,それなら,In that case...
+select,,思ったことを書こう,Just write whatever you're thinking
+select,,"相手を友達だと
+思って",Treat them like a friend
+select,,何かを参考にしよう,Let's use a reference
+1019001001310030,愛依,確かに！　その方がうちっぽいよね～,Of course! Doing it that way is much better right~
+1019001001310040,愛依,よっしゃ、イッキに書いちゃお！,"Alright, time to write!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001001310050,愛依,"あ、それなら書きやすそうじゃん！
+やってみるわ～","Ah, that seems like it'd be easy to write then!
+Let's take a look~"
+1019001001310060,愛依,"あ、でもちょっとラフになりすぎっかな～
+ん～……ま、いっか","Ah, but I think it feels a little rough~
+Hm~... well, oh well."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001001310070,愛依,それすっと、まんまマネしちゃいそうだしな～……,"I could, but then it'd be just like copying~..."
+1019001001310080,愛依,ん～……もうちょい考えるわ～,Hm~... I'll have to think about it a little more~
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100131.json,
+译者,,

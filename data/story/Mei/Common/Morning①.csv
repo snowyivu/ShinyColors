@@ -1,37 +1,33 @@
 id,name,text,trans
-1019001000110010,愛依,あ～、マジありえないんだけど～,"Test 1
-Test 2"
+1019001000110010,愛依,あ～、マジありえないんだけど～,"Ah~, there's seriously no way~"
 0000000000000,プロデューサー,"愛依、浮かない顔をしているな
-どうしたんだ？",Test 1\r\nTest 2
+どうしたんだ？","Mei, what's with the sad mood?"
 1019001000110020,愛依,"学校でヤバい量の課題出されてさ～
-無理ゲーなんだよね～",Filling Space!
-0000000000000,プロデューサー,（そういうことか……）,Filling Space!
+無理ゲーなんだよね～","We got way too much homework at school~
+It's like those unbeatable games~"
+0000000000000,プロデューサー,（そういうことか……）,(So that's what it is...)
 select,,"少しなら
-教えられるかも","01234567890123456789
-0123456789012345678
-012345678901234567
-01234567890123456"
+教えられるかも",I might be able to help teach you a little
 select,,"得意なものから
-やっていこう",Test 1\r\nTest2\r\nTest3\r\nTest4
+やっていこう",Why don't you start with what you're good at?
 select,,"文句を言っても
-始まらないぞ","Test 1
-Test 2
-Test 3
-Test 4
-Test 5
-Test 6
-Test 7"
+始まらないぞ","Complaining won't help, you know?"
 1019001000110030,愛依,"マジでマジで！？
-じゃあ、明日苦手なヤツ持ってくるわ～！",Filling Space!
-1019001000110040,愛依,ちょー助かるし！　サンキュね！　プロデューサー,Filling Space!
-0000000000000,プロデューサー,（よし、楽しく話せたな）,Filling Space!
+じゃあ、明日苦手なヤツ持ってくるわ～！","Wait, are you serious!?
+Then, I'll bring the subject I'm bad at tomorrow!"
+1019001000110040,愛依,ちょー助かるし！　サンキュね！　プロデューサー,"This totally helps!
+Hey, thank you, Producer!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
 1019001000110050,愛依,"得意なの～？
-あったかな～？",Filling Space!
-1019001000110060,愛依,とりまそうするわ！,Filling Space!
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,Filling Space!
+あったかな～？","What I'm good at~?
+I wonder~?"
+1019001000110060,愛依,とりまそうするわ！,"Well, for now let's go with that!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
 1019001000110070,愛依,"それはそうかもだけどさ～
-もうちょっと言い方あるくない？",Filling Space!
-1019001000110080,愛依,プロデューサーのイジワル～,Filling Space!
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,Filling Space!
+もうちょっと言い方あるくない？","That's true but~
+Did you have to say it that way?"
+1019001000110080,愛依,プロデューサーのイジワル～,"You're being mean, Producer~"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
 info,produce_communications/101900100011.json,
 译者,,

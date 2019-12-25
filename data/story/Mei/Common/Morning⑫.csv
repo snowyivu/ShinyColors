@@ -1,0 +1,24 @@
+id,name,text,trans
+1019001001210010,愛依,おっ、プロデューサー、おっはよ～♪,"Ah, Producer, good mornin'~♪"
+0000000000000,プロデューサー,"ご機嫌だな
+何かあったのか？","You're in a good mood.
+Did something happen?"
+1019001001210020,愛依,なんだと思う～？　当ててみ～,Think so~? You should guess~
+0000000000000,プロデューサー,そうだな……,Is that so...
+select,,"レッスンで
+褒められた",You were praised in your lesson
+select,,"自撮りが
+上手くいった",You took a great selfie
+select,,面白い番組があった,You watched an interesting show
+1019001001210030,愛依,そ！　昨日ちょー褒められた系でさ～,Yeah! Yesterday I got a little praise~
+1019001001210040,愛依,プロデューサーにも見せたかったわ～♪,I wanna show you too~♪
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001001210050,愛依,そうそう！　この写真なんだけど……,"Totally! This picture is, but..."
+1019001001210060,愛依,って違うし！　もっと考えてみ～？,Hey no!  Think a little harder~?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001001210070,愛依,え～、自主トレしてんの知ってるよね～,"Eh~, you know I had independent training right~"
+1019001001210080,愛依,テレビ見る時間、あんま取れてないし～,I didn't have enough time to watch TV~
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100121.json,
+译者,,

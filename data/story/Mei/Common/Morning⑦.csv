@@ -1,0 +1,25 @@
+id,name,text,trans
+1019001000710010,愛依,プロデューサー、昨日のアレ見た～？,"Producer, did you watch it yesterday~?"
+0000000000000,プロデューサー,新しく始まったバラエティだよな、見たぞ,"Ah, the new variety show that just came out, I did!"
+1019001000710020,愛依,あのコーナー、マジで面白くなかった～？,"That segment, wasn't it interesting~?"
+0000000000000,プロデューサー,そうだな……,Right...
+select,,漫才が最高だった,The comedy skit was amazing
+select,,"ドッキリが
+よかったな",The pranks were great
+select,,クイズが面白かった,The quiz part was interesting
+1019001000710030,愛依,"わかる～♪
+うち、最初に出てた芸人ちょー好きなんだよね～","I know right～♪ 
+I totally liked that first guy~"
+1019001000710040,愛依,今度友達とライブ行くんだ～、いいっしょ～,"I'm going with a friend to his next live show~, it's awesome~"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000710050,愛依,あれウケたよね～,"Wasn't it funny~ "
+1019001000710060,愛依,でも、ちょっとヤラセっぽくなかった～？,"But, didn't it seem like it was a little staged?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000710070,愛依,え、プロデューサー、クイズ好き系？,"Eh, Producer, you're a quiz fan?"
+1019001000710080,愛依,"答えマジわかんないし
+うちそこだけチャンネル変えちゃった～","I seriously didn't know the answers,
+so I just ended up changing the channel~"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100071.json,
+译者,,
