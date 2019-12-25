@@ -461,7 +461,7 @@ gasha.confirmDialog.noticeBilledOnly,有償フェザージュエルでのみ購�
 gasha.confirmDialog.jewelNotice,無償フェザージュエルから先に消費されます,Free Feather Jewels are consumed first
 gasha.confirmDialog.jewelNoticeBilledOnly,有償フェザージュエルが消費されます,Paid Feather Jewels are consumed
 gasha.confirmDialog.jewelNoticeNeedsCharge,フェザージュエルが不足しています,Not enough Feather Jewels
-gasha.rateDescription,%{rarity}%{idolType}アイドル（%{count}種）,%{rarity}%{idolType} Idol（%{count} available）
+gasha.rateDescription,%{rarity}%{idolType}アイドル（%{count}種）,%{rarity} %{idolType} Idol（%{count} available）
 gasha.detailPercentage,%{rate}%,%{rate}%
 gasha.checkPopHeader,使用確認,Confirm Use
 gasha.detailPopHeader,提供割合,Drop Rate
@@ -472,8 +472,8 @@ gasha.normalGashaSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
 gasha.normalGashaSubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
 gasha.srUpSubtitle,SR以上確定提供割合,SR+ Gacha Drop Rate
 gasha.srUpSubtitleIdol,SR以上確定の提供アイドル一覧,List of Idols in SR+ Gacha
-gasha.ssrFixSubtitle,SSR確定提供割合,SSR確定提供割合
-gasha.ssrFixSubtitleIdol,SSR確定の提供アイドル一覧,SSR確定の提供アイドル一覧
+gasha.ssrFixSubtitle,SSR確定提供割合,Guaranteed SSR Drop Rate
+gasha.ssrFixSubtitleIdol,SSR確定の提供アイドル一覧,List of SSR Idols
 gasha.gashaTicketSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
 gasha.gashaTicketSubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
 gasha.step1Subtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
@@ -511,7 +511,7 @@ jewelPurchase.limitation.parentPermissionTitle,法定代理人の同意確認,�
 jewelPurchase.limitation.parentPermissionMessage,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください
 jewelPurchase.productsDialog.title,フェザージュエル購入,Purchase Feather Jewels
 jewelPurchase.productsDialog.productNum,%{num}個,%{num}
-jewelPurchase.productsDialog.priceLabel,必要バナコイン,Needed Banacoin
+jewelPurchase.productsDialog.priceLabel,必要バナコイン,Req. Banacoin
 jewelPurchase.productsDialog.priceLabelNative,価格,Price
 jewelPurchase.productsDialog.purchaseLimitText,%{purchasedNum}/%{limitNum}回,%{purchasedNum}/%{limitNum} times
 jewelPurchase.confirmDialog.title,購入確認,Purchase Confirmation
@@ -1354,29 +1354,29 @@ reporterEvent.eventEndCutIn.success,素敵なお話をありがとうござい�
 reporterEvent.goodReporter,敏腕通信社『週刊イチオシ！』編集部の善村 良子です！\n%{name}様の魅力を伝えられるように努めます！,敏腕通信社『週刊イチオシ！』編集部の善村 良子です！\n%{name}様の魅力を伝えられるように努めます！
 reporterEvent.incomingMail,『%{name}様のご活躍を拝見し、\n是非とも、お話を伺いたいと────────』,『%{name}様のご活躍を拝見し、\n是非とも、お話を伺いたいと────────』
 reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記事にしてもらおうか？,よし！　それじゃあ、\nどんな記事にしてもらおうか？
-reporterEvent.speaker.badReporter,悪徳記者,悪徳記者
-reporterEvent.speaker.goodReporter,敏腕記者,敏腕記者
-staffAssistEvent.eventDetailTitle,はづきさんアシスト中,はづきさんアシスト中
-staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,プロデューサーさん、どうかしましたか～？
-staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,えっ、私に差し入れですか～？
-staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,ありがとうございます♪\n中身を見てもいいですか～？
-staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？
-staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～
-staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～
-staffAssistEvent.workHard,頑張っちゃいますよ～♪,頑張っちゃいますよ～♪
-staffAssistEvent.rest,少し休憩してきますね～……,少し休憩してきますね～……
+reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
+reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
+staffAssistEvent.eventDetailTitle,はづきさんアシスト中,Hazuki Assist
+staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,"Producer-san, how are you~?"
+staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving it to me~?"
+staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,Thank you very much♪\r\nIs it okay if I look inside~?
+staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,Is it a strawberry daifuku~、it looks really delicious♪\r\nWould you like to brew some tea、and join me~?
+staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~
+staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,Is it chocolate~、they say that it's good for fatigue♪\r\nI'm going to eat it right away~
+staffAssistEvent.workHard,頑張っちゃいますよ～♪,Do your best～♪
+staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~...
 shop.applyCampaignConfirmation.notices.1,購入前に必ず応募規約をお読みください,購入前に必ず応募規約をお読みください
 shop.applyCampaignConfirmation.notices.2,購入時に応募規約に同意したものとみなします,購入時に応募規約に同意したものとみなします
-shop.applyCampaignConfirmation.title,購入確認,購入確認
+shop.applyCampaignConfirmation.title,購入確認,Purchase Confirmation
 shop.dayLimit,%{limit}/日,%{limit}/Day
 shop.monthLimit,%{limit}/月,%{limit}/Month
 shop.packageDialog.itemNameAndNum,%{name} × %{num},%{name} × %{num}
-shop.packageDialog.noticeLimitText,【有効期限】%{expireDate},【有効期限】%{expireDate}
+shop.packageDialog.noticeLimitText,【有効期限】%{expireDate},【Expires】%{expireDate}
 shop.smallTabTitles.money.all,ALL,ALL
 skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、\r私服衣装は変更されません。,衣装変更対象はライブ衣装のみとなり、\r私服衣装は変更されません。
 skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、\rライブ衣装は変更されません。,衣装変更対象は私服衣装のみとなり、\rライブ衣装は変更されません。
-training.resultTitleSuper,トレーニング超成功,トレーニング超成功
-training.successType.great,大成功,大成功
-training.successType.super,超成功,超成功
+training.resultTitleSuper,トレーニング超成功,ULTRA Training Success
+training.successType.great,大成功,Great Success
+training.successType.super,超成功,ULTRA Success
 training.trainingTicketReturn.message,%{type}ボーナスの余剰Exp分を\rブロンズトレーニングチケットに変換して\rプレゼントに送りました,%{type}ボーナスの余剰Exp分を\rブロンズトレーニングチケットに変換して\rプレゼントに送りました
 training.trainingTicketReturn.title,トレーニングキャンペーン,Training Campaign
