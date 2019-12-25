@@ -1,0 +1,28 @@
+id,name,text,trans
+1019001000410010,愛依,"プロデューサー、歌のレパートリー
+増やしたいんだけど、なんかいい方法ない～？","Producer, I'm trying to find music to expand my song choices,
+but I'm not sure what a good direction to go is~"
+0000000000000,プロデューサー,おお、急にどうしたんだ……？,"Oh, why the sudden change...?"
+1019001000410020,愛依,"カラオケがさ～
+マンネリ気味なんだよね～","For Karaoke~ 
+I don't want to be like, stuck in a rut you know~?"
+0000000000000,プロデューサー,なるほどな……,I see...
+select,,"ヘビメタとか
+ありじゃないか",Maybe something like Heavy Metal?
+select,,"バラードとか
+いいんじゃないか？",Wouldn't a ballad be good?
+select,,ラップとかどうだ？,Why not Rap music?
+1019001000410030,愛依,お！　それならちょーアガるじゃん！,Oh! I've never done something like that!
+1019001000410040,愛依,よっしゃ、たくさん練習するし！,"Alright, I've gotta go practice a bunch!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000410050,愛依,"ん～、確かにありっちゃあり～
+うち、あんま歌わないし！","Hm~, it's definitely not out of the question~
+I've never sung one!"
+1019001000410060,愛依,でも、アガるかな～……？,"But, I wonder if I could~...?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000410070,愛依,ラップ！？,Rap!?
+1019001000410080,愛依,ムリムリ！　かっこいいけど、ぜってー噛むし！,"No way! It's totally cool, but I'd definitely trip up on the lyrics!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100041.json,
+译者,,
