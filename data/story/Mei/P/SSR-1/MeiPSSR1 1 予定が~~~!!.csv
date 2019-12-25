@@ -1,0 +1,123 @@
+id,name,text,trans
+2019004010010,愛依,──よしっ……！,-Alright..!
+2019004010020,愛依,"うんうん……オッケー……！ 
+いいカンジなんじゃん！？","Yea-yuh... okay-...!
+That's good isn't it!?"
+2019004010030,愛依,"はー、なんとかできたかも……！
+これで明日は何も考えないで遊べるぞ～！","Well- I was able to do something...!
+Now I can go hang out tomorrow without having to think about this~!"
+2019004010040,愛依,おっ！　メッセ、いいタイミング～！,"Ohh! A text, what good timing~!"
+2019004010050,愛依,明日の待ち合わせ場所、決まった的なやつかな～？,I wonder if they picked where we're meeting up tomorrow~?
+0,プロデューサー,"愛依、レッスンお疲れ様
+ちょっと話が──","Mei, good work on the lesson.
+I wanted to talk a little-"
+2019004010060,愛依,──あぁ～～……,-Ahh~~...
+0,プロデューサー,"……どうした
+レッスンで何かあったのか……？","...what is it?
+Did something happen in the lesson...?"
+2019004010070,愛依,あ、プロデューサー……！,"Ah, Producer...!"
+2019004010080,愛依,"んーん、そっちは全然！
+てかむしろ、ずっとできなかったとこ克服したし！","Naw, it's totally not that!
+Actually, I was able to overcome what I'd been working on forever!"
+0,プロデューサー,"おぉ！　すごいじゃないか
+日頃の努力の成果だな！","Oh!  Isn't that awesome?
+It's the result of your constant hard work!"
+2019004010090,愛依,アッハハ～！　でしょでしょ～──,Ahhaha~! You know it~-
+2019004010100,愛依,"──じゃないじゃない！！！
+ちょっとやらかしちゃってさ～……","-no, it's not!!!
+I kinda messed up a little~"
+0,プロデューサー,……何があったんだ？,...what's going on?
+2019004010110,愛依,"学校のみんなと遊ぶ予定だったんだけど
+別のグループの子たちとも約束してて～……","I had plans to hang out with everyone from school but
+I also promised another group of friends~..."
+0,プロデューサー,ダブルブッキングってことか,So it's like you double booked?
+2019004010120,愛依,そうなんだ～……,Right~...
+2019004010130,愛依,"明日思いっきり遊ぶために
+レッスンも頑張ったのにな～……！","In order to go all-out playing tomorrow
+I did my very best in the lesson~...!"
+2019004010140,愛依,は～マジやらかした……どうしよ……,Ha~ I totally messed up... what should I do...
+0,プロデューサー,……どちらかの予定をずらすことはできないのか？,...you're not able to shift either of the plans?
+2019004010150,愛依,"うーん……
+でも、それだとどっちかを優先することになんじゃん？","Well...
+But, I can't like give one priority y'know?"
+2019004010160,愛依,"どっちかをヒイキしてるっぽくは 
+したくないってゆーか……","If I played favorites,
+I totally can't do that..."
+0,プロデューサー,"そうか
+愛依は友達みんなを大切にしてるんだな","I see.
+All of your friends are precious to you."
+2019004010170,愛依,そんなの、別に普通のことじゃない？,Isn't that normal?
+2019004010180,愛依,"てか、どっちかを選んだら
+うちが気になっちゃって楽しめなさそうってだけかも","Y'know, if I picked either one
+I'd just worry about it and would't be able to have fun."
+0,プロデューサー,それなら──,If that's the case-
+select,,全部行くしかない！,You'll have to go all out!
+select,,"日にちを間違えてたり
+しないか？","Are you sure you didn't
+Accidentally read the wrong date?"
+select,,"神頼みでも
+してみるか？","Do you want to try
+Asking God for help?"
+0,プロデューサー,愛依！,Mei!
+2019004010190,愛依,えっ！　何なに……！？,"Ehh!  Wh, what..!?"
+0,プロデューサー,"愛依ならなんとかなる！
+全部行ける！　気合だ！","Since it's you, Mei, you'll do it somehow!
+Go all out!  Kiai!"
+2019004010200,愛依,えっ？　気合……？,Eh? Kiai...?
+2019004010210,愛依,……気合……,...Kiai...
+2019004010220,愛依,"……っ！　アハハハハ！
+気合か～！","...tch!  Ahahaha!
+Kiai, huh~!"
+2019004010230,愛依,よっし、ごちゃごちゃ考えんのや～めた！,"Alright, time to sto~op complaining!"
+0,プロデューサー,その意気だ！,That's the spirit!
+2019004010240,愛依,"元はと言えばうちが悪いんだし！
+全部行ってくるわ！","Talking about the cause of the situation is useless!
+Time to go all out!"
+2019004010250,愛依,気合で！,Kiai!
+0,プロデューサー,"焦ってる時って、見落としがあったりするし
+メッセージ、もう一回見てみたらどうだ？","When I'm in a hurry, I tend to overlook things
+Why don't you look over the message once again?"
+2019004010260,愛依,え～……さすがにそれはないと思うけどな～,"Eh~... Still, I don't think I did~"
+0,プロデューサー,まぁまぁ騙されたと思って,"Now, now, just to ease your mind."
+2019004010270,愛依,"最初の約束が……日曜……
+だから明日っしょ～？","The first promise was... Sunday...
+So that's tomorrow right~?"
+2019004010280,愛依,"もうひとつが～日……
+じゃなくて月……","The other's on~ day...
+Wait no, month..."
+2019004010290,愛依,……あ……,...ah...
+2019004010300,愛依,アッハハ～……,Ahhaha~...
+0,プロデューサー,よかったな,That's a relief.
+2019004010310,愛依,"プロデューサー
+マジありがとね……！","Producer,
+Seriously thank you...!"
+2019004010320,愛依,それで何か起きたらホントに神だよね～……,"If a solution were to come up, it'd really be God huh~..."
+2019004010330,愛依,"ま、やるだけやってみる！ 
+プロデューサー、一緒に祈って！","Well, might as well just try it!
+Producer, pray with me!"
+0,プロデューサー,おう！,Oh!
+2019004010340,愛依,…………,...
+0,プロデューサー,……どうか愛依が助かりますように……,...please help out Mei...
+2019004010350,愛依,……！,...!
+2019004010360,愛依,…………,...
+2019004010370,愛依,……ありがとね、プロデューサー,"...hey thanks, Producer."
+2019004010380,愛依,"けど、やっぱうち……ちゃんと謝って
+予定、両方ともずらしてもらうことにするわ！","But, still I... should really apologize.
+I'm going to move the plans with both groups!"
+2019004010390,愛依,"そのほうがどっちとも
+楽しく遊べる気がするし！","That way I can go out with both
+And still enjoy myself!"
+0,プロデューサー,"……そうか
+確かに、そうかもな","...I see.
+Certainly, that could work."
+2019004010400,愛依,"そうそう！　でもそれだと
+明日の予定無くなっちゃうし──","Yeah yeah!  But if I do that
+I won't have any plans for tomorrow-"
+2019004010410,愛依,"次の約束までに、もっとダンス完璧にしといて、
+何も考えないで遊べるようにしたいからさ！","Before my next get together, I'll have to perfect my dance even more,
+So I can hang out without having to worry about anything!"
+2019004010420,愛依,"……自主レッスン！
+付き合ってくんない？　プロデューサー！","...an independent lesson!
+Want to keep me company?  Producer!"
+info,produce_events/201900401.json,
+译者,,

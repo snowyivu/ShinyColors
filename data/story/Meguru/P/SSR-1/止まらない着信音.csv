@@ -1,0 +1,132 @@
+id,name,text,trans
+2003004020010,めぐる,"……うん、……うんうん！
+あはは、そうだよね！","...mhm, mhm mhm!
+Ahaha, that's so true!"
+2003004020020,めぐる,……うん、じゃあまたね！,"...yeah, talk to you soon!"
+2003004020030,めぐる,"はい、もしもし！　あ、やっほー！
+うん、うん…………えー！　そうだったんだ！","Yeah, hello!  Ah, yahoo-!
+Mhm, mhm... eh-!  Is that true!"
+0000000000000,プロデューサー,"（休憩中ずっと電話がかかってきている
+めぐるは友だちからとても好かれているんだろうな）","(She's constantly getting phone calls on her break
+Meguru must be really liked by her friends)"
+2003004020040,めぐる,"……うん、……うん。わかった！
+じゃあまた、今度ね！","...yeah, ...yeah.  Gotcha!
+Later then, next time!"
+0000000000000,プロデューサー,電話、終わったのか？,Your phone call is over?
+2003004020050,めぐる,"うん！　……あ、ごめん！
+もしかしてうるさかったかな？","Yeah!  ...ah, sorry!
+Was I bothering you?"
+0000000000000,プロデューサー,"いや、そんなことはないよ
+楽しそうなめぐるを見てると、俺も元気がもらえるしな","No, it's not like that.
+Watching Meguru have fun, I was energized as well."
+2003004020060,めぐる,えへへー、そうかな！,"Ehehe-, I see!"
+0000000000000,プロデューサー,"ああ、でも……こう電話がかかってくると、
+めぐるもなかなか休めないな","Ahh, but... if you take phone calls like this,
+You're never going to get any rest."
+2003004020070,めぐる,"えー！
+そんなこと、考えたこともなかったよ！","Eh-!
+I hadn't even thought about that!"
+2003004020080,めぐる,友だちと話すの、すっごく楽しいよ！,"Talking with friends, is really enjoyable!"
+2003004020090,めぐる,"その日あった面白いこととか聞いたりね、
+わたしも元気をもらってるんだ！","When I hear something interesting that happened in their day,
+I'm also filled with energy!"
+2003004020100,めぐる,プロデューサーは、いっぱい電話が来ると休めないの？,"Producer, can't you relax by receiving lots of calls?"
+0000000000000,プロデューサー,"いや、そんなことはないけど……
+でも、それだけ人と話せるのは一つの才能だと思うよ","No, it's not that but...
+Well, I think being able to talk to that many people is one kind of talent."
+2003004020110,めぐる,"才能かー、そうかなー！
+えへへー！","Talent-?, Oh yeah-?!
+Ehehe-!"
+2003004020120,めぐる,"あ、でもね。いっぱい電話ができるのは嬉しいんだけど、
+困ったこともあって……","Ah, but hey.  Even though it makes me happy to be able to get so many calls,
+It can also be troublesome..."
+0000000000000,プロデューサー,困ったこと？,Troublesome?
+2003004020130,めぐる,うん。携帯の電池が切れちゃうこともあるんだよね,Yeah.  My phone's battery can run out y'know.
+2003004020140,めぐる,"そうすると、
+プロデューサーとも連絡できなくなっちゃうでしょ？","If that happens,
+I wouldn't be able to get in touch with you right?"
+2003004020150,めぐる,だからいつも、電池を気にしながら電話をしてるんだ！,That's why I've always gotta keep my battery in mind when I'm on the phone!
+0000000000000,プロデューサー,"なるほどな
+そんなときは……","I see.
+In that case..."
+select,,俺とは直接話そう,I can talk with you in person.
+select,,"電話が無理なら
+直接会いに行けばいい","If you use your phone too much
+Just go talk to them in person."
+select,,"友だちとの連絡は
+家で済ませておこう","You can keep in touch with your friends
+By finishing up your calls at home."
+0000000000000,プロデューサー,"俺と話すときは、
+電話を使わないで用事を伝えればいいだろ？","When you're talking with me,
+Why don't you just leave the phone with me instead of using it?"
+0000000000000,プロデューサー,"そうすれば、携帯電話は友だちと電話するために
+使えるようになる","If you do that, I can handle your friend's calls,
+That way I can be useful."
+2003004020160,めぐる,"たしかに……そっか！
+それ名案だよっ！　プロデューサー！","Definitely... aha!
+That's a good idea!  Producer!"
+2003004020170,めぐる,"じゃあ、プロデューサーがずーっと隣にいてくれたら、
+友だちといっぱい電話できるね！","Well then, if Producer's always next to me,
+I'll be able to handle all of my friend's calls!"
+0000000000000,プロデューサー,"俺がいるから電話できるって……
+俺は電波の受信機か……","They can call me if you're here...
+Am I a cell signal receiver..."
+2003004020180,めぐる,"あはは！　プロデューサーが受信機だったら、
+わたしずっと持ち歩いちゃうな！","Ahaha!  If you're a cell receiver,
+I'll have to carry you around all the time!"
+0000000000000,off,off,off
+0000000000000,プロデューサー,"電話鳴ってるな
+出ても大丈夫だよ","Your phone's ringing,
+It's alright to take it out."
+2003004020190,めぐる,"プロデューサー、ありがとう！
+……うん、もしもしっ！","Producer, thank you!
+...mhm, hellooo!"
+0000000000000,プロデューサー,"（めぐるはうれしそうで仕事の連絡はしやすくなる……
+我ながらいいアイディアだったな！）","(Meguru seems happy and it's easier to get in touch with her for work...
+This was a great idea if I say so myself!)"
+0000000000000,プロデューサー,めぐるも直接話したいだろう？,Do you want to talk with them in person?
+2003004020200,めぐる,うーん、わたしも本当はそうしたいんだけど……,"Well, I do honestly want to but..."
+2003004020210,めぐる,"お仕事もあるし……
+友だちも予定があるからなかなか上手くいかないんだー","I have a job...
+It's also not easy since my friends also have plans-"
+0000000000000,プロデューサー,なら時間を作れるように、俺がスケジュールを調整するよ,"If you need to make time, I can rearrange the schedule."
+2003004020220,めぐる,"ほんとに！？　わーい！
+プロデューサー、ありがとう！","Really!?  Wahh!
+Producer, thank you!"
+2003004020230,めぐる,"わたしも、お仕事をしっかりこなして、
+いっぱい時間を作れるようにするよ！","I'll also work hard to get my job done,
+So that you can make a lot of room!"
+0000000000000,プロデューサー,"そうか
+じゃあ、もっと頑張らなくちゃな！","Oh yeah?
+Well then, I'll have to try even harder!"
+2003004020240,めぐる,"うん！　……でもお仕事もちゃんとしたいから、
+いっぱい取ってきてね！","Yeah!  ...but since I want to do my job well,
+I'll have to take a lot of them!"
+0000000000000,プロデューサー,"（アイドルの仕事も友だちと話すこともできるように、
+俺がめぐるをしっかりとサポートしないとな！）","(In order to do both idol work and talk with her friends,
+I have to support Meguru completely!)"
+0000000000000,プロデューサー,"夜の間にいっぱい話をしておけば、
+昼間は仕事に専念できるんじゃないか？","If you talk a lot at night,
+You'd be able to concentrate on your work during the day right?"
+2003004020250,めぐる,"そっかー
+そういう方法もあるよね！","I see-
+That's also one strategy!"
+2003004020260,めぐる,あっ、でも……,"Ah, but..."
+2003004020270,めぐる,"わたし、あんまり夜遅くまで起きてられないんだった
+んー……","I can't stay up until too late at night.
+Mm-..."
+2003004020280,めぐる,"……でもプロデューサーの言う通り、
+昼はアイドルのお仕事を頑張らなきゃ、だよね！","...but as you say,
+I have to do my best idol work during the day!"
+2003004020290,めぐる,なんとか家で連絡を済ませるようにしてみるよ！,And somehow or other finish keeping in touch at home!
+0000000000000,プロデューサー,"ああ。それにいつもってわけにはいかないけど、
+仕事を頑張れば早めに帰ることもできるかもな","Yeah.  It might not always be possible but,
+If you try your hardest at work you could come home earlier than usual."
+2003004020300,めぐる,"そっか！　そうすれば、お仕事も友だちとの電話も
+たくさんできるよね！","Aha!  In that case, my work and chatting with my friends,
+I can do a lot!"
+2003004020310,めぐる,"よーし！　じゃあ、昼はバリバリお仕事して
+家で友だちと話そーっと！","Alright!  Well, I'll be all revved up during the day,
+So I can chat with my friends at home!"
+info,produce_events/200300402.json,
+译者,,
