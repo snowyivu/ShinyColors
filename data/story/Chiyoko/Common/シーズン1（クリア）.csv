@@ -1,0 +1,45 @@
+id,name,text,trans
+0000000000000,プロデューサー,"智代子！　
+一次審査、無事に突破できたぞ！","Chiyoko!
+You've passed the first round of judging, no problem!"
+7010001010010,智代子,"ほ、本当ですか！　
+やった！","R-Really?!
+Yay!"
+0000000000000,プロデューサー,おめでとう！,Congrats!
+7010001010020,智代子,はい！　ありがとうございます！,Yeah! Thank you so much!
+7010001010030,智代子,やっぱり、チョコ押しが効いたんですかね？,So the chocolate theme worked well after all?
+0000000000000,プロデューサー,"そうだな
+アイドルとして、上手く個性を押し出せてたと思うぞ","Seems so.
+As an idol, you showed off your individuality in a flattering way."
+7010001010040,智代子,"良かった……
+これもプロデューサーさんのおかげですね！","Thank goodness...
+This is all thanks to you, Producer-san!"
+0000000000000,プロデューサー,え？　俺は何も……,What? I didn't do...
+7010001010050,智代子,"いいえ！　チョコアイドルとしてどうしたらいいか、
+アドバイスをくれたおかげです！",No! I was able to succeed as a chocolate idol because of your advice!
+7010001010060,智代子,本当に、ありがとうございました！,"Really, thank you so much!"
+0000000000000,プロデューサー,"そうか……
+智代子の力になれてたなら嬉しいよ","Hmm...
+I'm happy if I'm able to give you strength."
+0000000000000,プロデューサー,"でも、一次審査を通過できたのは
+智代子が頑張ったからだと思うぞ","But, I think it was your hard work that got you through the first round."
+7010001010070,智代子,私が頑張ったから……ですか？,My hard work...?
+0000000000000,プロデューサー,"チョコアイドルっていう個性を考え出したのも
+どう見せるかの部分で努力したのも智代子だ",You're the one who put the effort into devising the chocolate idol personality and how to show it off.
+0000000000000,プロデューサー,"レッスンもたくさんこなして
+チョコアイドルとして、よく頑張ったな","And you did so many lessons.
+As a chocolate idol, you really worked hard."
+7010001010080,智代子,"……えへへ
+そう言ってもらえると、すっごく嬉しいです！","...Ehehe.
+It makes me so happy that you said that!"
+7010001010090,智代子,なんだか、チョコを食べたときみたいに、幸せです,It's kinda like the happiness when you bit into some chocolate.
+7010001010100,智代子,"よしっ！　これからもっともっと頑張って、
+次の審査も突破できるようにしないとですね！","Okay! I'm gonna work harder and harder, so I'm definitely going to pass the next round too!"
+0000000000000,プロデューサー,"その意気だ！
+全力でバックアップするから、次も一緒に突破しよう！","That's the spirit!
+I'll back you up, so let's break through the next round!"
+7010001010110,智代子,"はい！
+これからもよろしくお願いします。プロデューサーさん！","Yes!
+I'll be in your care, Producer-san!"
+info,produce_events/701000101.json,
+译者,,
