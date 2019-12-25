@@ -1,0 +1,126 @@
+id,name,text,trans
+2019003010010,愛依,"ねぇ、プロデューサー
+ここで勉強、やらしてよ！","Heyy, Producer,
+I'm gonna study here, alright?"
+0000000000000,プロデューサー,？　ああ、大丈夫だぞ,"? Ah, that's fine."
+2019003010020,愛依,"マジ！？　助かったー……
+サンキュ、プロデューサー","Totally!?  I'm saved...
+Thank you, Producer"
+2019003010030,愛依,"……よっしゃ～！
+じゃあ、さっそくやってくし！","...alright~!
+Then, I'll do it right away!"
+2019003010040,愛依,…………,...
+2019003010050,愛依,"ん～……何、この問題……
+わっかんない……","Hm~... what, this problem...
+I don't get it..."
+2019003010060,愛依,"……おっ、なんか来てる～
+誰からだろ…………プッ！","...oh, a notification~
+From who... nheh!"
+2019003010070,愛依,アハハ、マジウケる～,"Ahaha, that's totally hilarious~"
+0000000000000,プロデューサー,"（あれ？　愛依、勉強してたんじゃないのか？
+さっそくスマホをいじってるみたいだけど……）","(Huh? Mei, aren't you studying?
+It's like you immediately started messing with your phone though...)"
+0000000000000,プロデューサー,"（まあ、今だけかもしれないし、
+ちょっと様子を見ておこう……）","(Well, maybe it's just for now,
+I'll keep watching...)"
+2019003010080,愛依,"……って、ヤバいヤバい
+課題やんないと……","...tch, wild, wild.
+This problem too..."
+2019003010090,愛依,…………,...
+2019003010100,愛依,"ん～……
+これもわかんないし……","Hm~...
+And I don't understand this..."
+2019003010110,愛依,あ～！　ヤバい～～！,Ah~! This is wild~~!
+0000000000000,プロデューサー,（やっぱり集中できてないな……）,(She still can't concentrate huh...)
+0000000000000,プロデューサー,（よし、ここはひとつ……）,"(Alright, here's one...)"
+0000000000000,プロデューサー,"愛依、勉強頑張って疲れただろう
+コーヒー淹れるけど、飲むか？","Mei, you're tired from studying hard right
+I made coffee, you want some?"
+2019003010120,愛依,"プロデューサー……
+アハハ……うちはまだ大丈夫かな～……","Producer...
+Ahaha... I think I'm okay for now~"
+0000000000000,プロデューサー,"課題、たくさんあるみたいだし
+根を詰めすぎないようにな","This homework, seems like you have a lot of it.
+Don't wear yourself out okay?"
+2019003010130,愛依,"そうなんだけどさ～
+この状況は、うちのせいっていうか……","That's true~
+This whole situation, is my fault..."
+0000000000000,プロデューサー,"少し溜めちゃっただけだろう？
+そんなに気を落とさなくても──","You let it pile up a little?
+You don't have to be discouraged-"
+2019003010140,愛依,"──実は、これ
+テストの補習で出された課題なんだよね～……","-the truth is, these are,
+Supplemental lessons given out for the test~"
+0000000000000,プロデューサー,……そうだったのか……,...is that so...?
+0000000000000,プロデューサー,……いつまでにやらなくちゃいけないんだ？,...how much longer do you have until the test?
+2019003010150,愛依,……週明け,...the start of next week.
+0000000000000,プロデューサー,週明けって……今日、金曜日だぞ？,"The start of next week... today, is Friday isn't it?"
+2019003010160,愛依,"わかってるって～
+でも、つい後回しにしたり、友達と遊んじゃったから……","I knowww~
+But, I like unintentionally put it off, and played with my friends..."
+2019003010170,愛依,"これはヤバい！　って思って
+事務所でやってみようと思ったんだけどさ～……","Ah this is wild!  I think,
+I thought I could do it at the office but..."
+0000000000000,プロデューサー,なるほどな……,I see...
+select,,"わからない問題は
+どれなんだ？","What's the problem
+that you don't understand?"
+select,,スマホを預かろうか？,Should I hold on to your phone?
+select,,状況を整理しよう,Let's sort this all out
+2019003010180,愛依,え、教えてくれんの！？,"Eh, you're going to teach me!?"
+0000000000000,プロデューサー,まぁ、わかる範囲で良ければ,"Well, as long as I understand it."
+2019003010190,愛依,"マジサンキュ！
+じゃ、この問題、わかる？","Like, totally thank you!
+Then, this question, do you know it?"
+0000000000000,プロデューサー,"ああ、愛依がさっき解いた問題があるだろう
+それが複雑になってるだけだから、同じ方法で大丈夫だ","Ah, that's a problem that you solved earlier right,
+It's just more complicated, it's okay to use the same technique."
+2019003010200,愛依,"……！
+おぉ、マジだ！","...!
+Oooh, totally!!"
+2019003010210,愛依,よっし、じゃあ次の問題は？,"Right on, okay then next problem?"
+0000000000000,プロデューサー,"それは確か……
+あぁ、前のページの例を参考に解くんだ","If I remember correctly...
+Ahh, you can use the example on the previous page to solve it."
+2019003010220,愛依,……なるほど～……！,...I see~...!
+2019003010230,愛依,"マジサンキュ、プロデューサー！
+これならいけそうな気がする！","Like totally thanks, Producer!
+I feel like I can do this!"
+2019003010240,愛依,"えっ！？
+な、なんで……？","Ehh!?
+W, what for...?"
+0000000000000,プロデューサー,スマホがあると集中できないだろうからな,If you have your phone out you won't be able to focus right?
+2019003010250,愛依,そ、そうかもしんないけど……でもさ～……！,"T, that might be the case but... but uh~...!"
+0000000000000,プロデューサー,"……愛依
+俺だって本当はこんなことしたくないんだ","...Mei,
+I don't really want to do such a thing either."
+0000000000000,プロデューサー,"でも、このまま愛依の学業に遅れが出るのは見過ごせない
+だから、心を鬼にしてだな……！","But, I can't overlook the fact that your schoolwork is lagging like this.
+That's why I'll turn my heart into a demon's...!"
+2019003010260,愛依,"うぅ……そうだよね
+うち、このままじゃマズいもんね……","Uuu... it's true.
+I, I'm doomed at this rate..."
+2019003010270,愛依,"わかった！　プロデューサー
+お願い、これ預かっといて！","Got it!  Producer,
+Please, take care of it!"
+0000000000000,プロデューサー,よし！　わかった、確かに預かったからな,"Alright!  I understand, I'll have someone take care of it."
+2019003010280,愛依,よっし、今度こそ集中するぞ～,"Awright, now I can definitely concentrate~"
+2019003010290,愛依,う、うん……,"Y, yeah..."
+0000000000000,プロデューサー,あと何ページくらいあるんだ？,About how many more pages are there?
+2019003010300,愛依,えーっと……わかんないけどかなり！,Uhmmm... I dunno but it's a lot!
+0000000000000,プロデューサー,じゃあ、まずはそこから把握しよう,"Well, first off let's figure that out."
+2019003010310,愛依,？　それってなんか意味あんの～？,? Does the number mean something~?
+0000000000000,プロデューサー,"ああ、１日あたりにどれくらいやればいいか
+とかがわかるからな","Yeah, about how many you need to do per day,
+We can figure that out."
+0000000000000,プロデューサー,"あと３日でこれ全部って言われるより
+今日はこれだけってわかった方が、気持ちが楽だろ？","Rather than talking about all of it for the next three days,
+Let's just focus on understanding today's part, and you'll feel better right?"
+2019003010320,愛依,"あ～……確かに！
+プロデューサーすげー！","Ah~... definitely!
+You're uh-mazing Producer!"
+2019003010330,愛依,"早速やってみるわ～！
+マジ、サンキュ！","I'll try that at once~!
+Like totally, thank you!"
+info,produce_events/201900301.json,
+译者,,

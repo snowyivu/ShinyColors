@@ -1,0 +1,139 @@
+id,name,text,trans
+2019004020010,愛依,…………は～タピうま～……,"~ha, Tapioca at the racetrack~..."
+2019004020020,愛依,"……ん？ 
+プロデューサーは電話してるのか～……","...hm?
+Producer's on the phone~...?"
+0,プロデューサー,……はい、そちらの件でしたら──……,"Yes, if that's the case..."
+2019004020030,愛依,…………,...
+0,プロデューサー,──プライオリティ高めで対応しますので……,"Make it a high ""Priority"" to respond..."
+2019004020040,愛依,…………？,...?
+0,プロデューサー,はい、引き続きよろしくお願いします……！,"Yes, please keep on it..!"
+2019004020050,愛依,…………,...
+0,プロデューサー,ふぅ……,Phew...
+2019004020060,愛依,…………？,...?
+0,プロデューサー,"愛依、どうしたんだ？
+難しい顔して","Mei, what's wrong?
+You look troubled. "
+2019004020070,愛依,"……プロデューサーが
+謎の言葉使ってた……！","... Producer, 
+You used a mysterious word..!"
+0,プロデューサー,謎の言葉？　なんのことだ？,A mysterious word? Like what?
+2019004020080,愛依,"ほら、さっき電話でしゃべってた！
+あの『なんとかティ』的なやつ！","Yeah, when you were just talking on the phone!
+That ""something-Tee"" word!"
+0,プロデューサー,"ティ……？　もしかして
+『プライオリティ』のことか？","Tee..? Could you maybe mean
+""Priority""?"
+2019004020090,愛依,"それそれ！
+それって、どーゆー意味なん？","That's it!
+That word, what's it mean?"
+0,プロデューサー,"…………
+愛依はどういう意味だと思う？","...
+What do you think it means?"
+2019004020100,愛依,"え～！
+わかんないから聞いてんのに～","Eh~!
+I asked because I don't know~"
+2019004020110,愛依,"ん～……　なんとかティーって言ってたし、
+お茶的な？","Hm~... since it's said like Tee,
+Maybe like Tea?"
+2019004020120,愛依,"あ、うちが飲んでるこれもタピ入った
+ミルクティーだし","Ah, like what I'm drinking with Tapioca in it,
+Is ""Milk Tea"", so..."
+2019004020130,愛依,そういうカンジ……とか！？,Is it something... like that!?
+0,プロデューサー,……あはは！,...ahaha!
+2019004020140,愛依,"えっ　ちょ……笑うとかヒドくない？
+うちは真剣なのに～……","Ehh  Hey... isn't it mean to laugh?
+I was being serious~..."
+0,プロデューサー,いや、すまんすまん……,"No, I'm sorry..."
+0,プロデューサー,"『プライオリティ』はな、
+ビジネスで使われる言葉で……","""Priority"" is like, 
+A word used in business..."
+0,プロデューサー,"意味としては、
+『優先順位』ってことかな","It means something like
+""The order of importance"""
+2019004020150,愛依,へえ～……,Eh~...?
+select,,"英語の授業でも 
+習うんじゃないか？","You didn't learn it
+in your English lessons?"
+select,,"愛依もすぐに
+覚えられるだろ","You'll memorize it
+right away, Mei"
+select,,"ちょっと面白い
+言葉もある","There are also
+Other interesting words"
+2019004020160,愛依,"いやいや、そんなんうちが
+覚えてるわけないっしょ！","No no, things like that
+I totally can't remember!"
+2019004020170,愛依,英語とかちょー苦手だし……！,I'm horrible at stuff like English..!
+0,プロデューサー,そうか……,I see...
+0,プロデューサー,"それならせっかくだし
+この機会に覚えておこう！","Well in that case you especially should 
+Take this chance to learn it!"
+2019004020180,愛依,ええ～……マジ？,Ehh~... seriously?
+0,プロデューサー,"ああ、テストにも出るかも
+しれないだろ？","Indeed, couldn't it pop up
+On a test?"
+2019004020190,愛依,まあ、確かに……？,"Well, sure...?"
+0,プロデューサー,"愛依にはアイドルも、友達と遊んだりするのも
+全力でやってほしいけど──……","In order to be an idol, and also to hang out with your friends, 
+Since I want you to do your best-..."
+0,プロデューサー,"勉強もちゃんと
+『プライオリティ』高めで頼むな！","I highly request, 
+That you study ""Priority"" well!"
+2019004020200,愛依,へ、そ～かな～？,"Oh, is that~ so~?"
+0,プロデューサー,"だって愛依は流行りの言葉……みたいなの、
+よく使ってるだろ？","You're always using the latest slang... it seems like, 
+You'll put it to good use yeah?"
+2019004020210,愛依,"あ～……
+けどうち的には普通っていうか……","Ah~...
+But I don't know where I'd normally use that..."
+2019004020220,愛依,"友達とかと話してるうちに
+自然と使っちゃうみたいな……","When I'm talking with my friends
+I'd want to use it naturally..."
+0,プロデューサー,"それだよ
+最初は意味のわからないような言葉でも……","That's true. 
+I didn't know what it meant at first but..."
+0,プロデューサー,"段々と使っているうちに馴染んできて
+自然に、普通に使えるようになる","I gradually became familiar with using it
+And now I just naturally use it."
+0,プロデューサー,そういうもんじゃないか？,Isn't that how it works?
+2019004020230,愛依,"ん～……確かに、そうかも……
+──あっ、じゃあさじゃあさ！","Hm~... it certainly, might be...
+-ah, well then, well then!"
+2019004020240,愛依,"今からそのビジネスの言葉？　を 
+たくさん使って話してみて！","That business word? From now on, 
+I'm going to try using it a lot while talking!"
+0,プロデューサー,"え、ええ……！？
+うーん……","Eh, ehh..!?
+Well..."
+0,プロデューサー,"ええと……なるはやでレスポンスしたいが……
+もう少しバッファが無いとな……","Uhm... if you want a response ASAP...
+It doesn't give them much of a ""Buffer""..."
+2019004020250,愛依,アッハハ、なにそれどゆこと～？,"Ahhaha, what's THAT mean~?"
+2019004020260,愛依,どんなん？,Like what?
+0,プロデューサー,『アイスブレイク』っていう言葉だよ,"There's words like ""Ice Break"""
+0,プロデューサー,"打ち合わせの前に雑談をして雰囲気を和ませることで……
+氷が解けることと緊張が解けることをかけているんだ","It's to soften the mood by chatting a little before a meeting.
+It's like causing the ice and stiffness to melt away. "
+0,プロデューサー,"初めて聞いた時に面白いなと思ったから
+よく覚えてるんだよ","Since I thought it was interesting when I first heard it, 
+I can remember it well. "
+2019004020270,愛依,へー……,Huh-...
+2019004020280,愛依,"……なんか今の聞いたら
+アイス食べたくなってきた！","...when I hear something like that, 
+I want to eat Ice Cream!"
+0,プロデューサー,え──,Eh-
+2019004020290,愛依,"ちょっと買ってこよ～っと
+プロデューサーもなんかいる？","I'm gonna buy a little, here~
+What do you want Producer?"
+0,プロデューサー,"そ、そうだな……
+じゃあ愛依と同じやつを頼む","Th, that's true huh...
+Then get me the same as you. "
+2019004020300,愛依,オッケー♪,Okay-♪
+0,プロデューサー,"（……まぁ、愛依が楽しそうだし……
+これでいいか…………）","(...well, Mei seems happy...
+This is fine right...)"
+2019004020310,愛依,『あいすぶれいく』さいこーじゃん！,"""Ice Cream Break"" is like the best!"
+0,プロデューサー,（……いいのか…………？）,(... is it really okay...?)
+info,produce_events/201900402.json,
+译者,,
