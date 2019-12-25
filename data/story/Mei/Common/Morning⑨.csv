@@ -1,0 +1,25 @@
+id,name,text,trans
+1019001000910010,愛依,あ～♪,Ah~♪
+0000000000000,プロデューサー,"おはよう、愛依
+朝から自主練か、偉いぞ","Morning, Mei. You've been doing extra practice
+all morning? That's admirable."
+1019001000910020,愛依,"サンキュ！
+苦手なとこ練習してんだ～","Thanks!
+I've been practicing my weak points~"
+0000000000000,プロデューサー,（何か言った方がいいかな……）,(What's a good thing to say here...)
+select,,前より上達してるぞ,You've improved from before
+select,,繰り返しは大事だな,Repetition is critical isn't it
+select,,"他には何か
+やってるのか",What other things have you been doing?
+1019001000910030,愛依,え、やっぱ？　うちもそう思ってたんだ～！,"Eh, really? I thought so too~!"
+1019001000910040,愛依,プロデューサーも言うなら間違いないっしょ～！,If you're saying so then I totally have~!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000910050,愛依,それしか思いつかないかんね～,That's all I could think of~
+1019001000910060,愛依,もっかいやっとこーっと,"Here, I'll do it once again"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000910070,愛依,え？　他に～？　あ～……,Eh? Other~ Ah~...
+1019001000910080,愛依,ってヤバ！　今んとこコツ忘れた！,Shoot! I just totally lost my train of thought!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100091.json,
+译者,,

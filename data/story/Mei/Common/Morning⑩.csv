@@ -1,0 +1,31 @@
+id,name,text,trans
+1019001001010010,愛依,"プロデューサーってさ～
+友達と電話すっときどんくらいする～？","Producer, hey~ 
+How much do you and your friends talk on the phone~?"
+0000000000000,プロデューサー,"考えたことなかったな……
+どうしてだ？","I haven't really though about it...
+Why do you ask?"
+1019001001010020,愛依,いやうちさ、ついつい長電話しちゃうんだよね～,"No reason, I just always end up talking on the phone forever without realizing it~"
+0000000000000,プロデューサー,（気にしてるのか？）,(Is she worried about it?)
+select,,"仲が良くて
+いいじゃないか",It's great for staying close isn't it?
+select,,"メリハリを
+つければ大丈夫",It's great to have a good work-life balance
+select,,"時計を見ながら
+話そう",You could always watch the clock while you talk
+1019001001010030,愛依,あれ、そう思ってくれちゃう？,"Oh, you think so?"
+1019001001010040,愛依,"でも確かに楽しいもんね～
+サンキュ！　気にすることなかったわ！","Well it's definitely fun~ 
+Thank you! Guess I won't worry about it!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001001010050,愛依,"電話すっときはガッツリしちゃって
+他のことすっときはしっかり！　みたいな？","Like when I'm on the phone and I just totally
+space out on everything else! Something like that?"
+1019001001010060,愛依,まぁ、そりゃそーだよね～,"Well, that's just how it is right~"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001001010070,愛依,まぁ、ありっちゃありだよね～,"Well, sure I could~"
+1019001001010080,愛依,あ、でも話、集中できなくなっかも……,"Mm, but when I'm chatting, I can't really focus on something else..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100101.json,
+译者,,

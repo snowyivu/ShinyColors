@@ -1,0 +1,28 @@
+id,name,text,trans
+1019001000210010,愛依,うっわ……ビミョー,Ugh... tricky...
+0000000000000,プロデューサー,さっきから何回も撮り直してるな,"You keep retaking that picture, huh?"
+1019001000210020,愛依,マジ全然キマんないんだよね～,This is totally the worst~
+0000000000000,プロデューサー,（自撮りが上手くいかないのか……）,(She must be having trouble with that selfie...)
+select,,"スマホの調子を
+見てみたらどうだ",Have you looked at your phone's camera?
+select,,"別の場所で
+試したか？",You could try a different location?
+select,,"明日にしてみたら
+どうだ",How about if you try again tomorrow?
+1019001000210030,愛依,"あ～！　それは見てなかったわ～！
+……っと",Ah~! I hadn't looked at that~!
+1019001000210040,愛依,"うーわ、カメラちょーきたなっ
+そりゃキレーに撮れないワケだわ","...Woah, the camera was really dirty 
+so I couldn't take pretty pictures!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000210050,愛依,色々やってんだけどあんまし変わんないんだよね～,"I've tried a few places but it hasn't changed anything~,"
+1019001000210060,愛依,ま、とりあえず他んとこでもやってみよっと,"Well, I'll try somewhere else for now."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000210070,愛依,"明日にしたらなんか変わんの？
+肌のチョーシとか？","What's going to be different about tomorrow?
+Like my skin tone?"
+1019001000210080,愛依,え、てか、うち今日化粧ノリいいんですけど～,"Hey, but I thought my makeup looked great today~"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100021.json,
+译者,,
