@@ -1,0 +1,64 @@
+id,name,text,trans
+0,プロデューサー,"（中々に雰囲気はあったけど……まぁ大丈夫だったな
+これなら愛依との勝負は俺の勝ちかな……？）","(This place is has quite an ambience... well I should be okay
+Could this be my chance to win against Mei...?"
+0,プロデューサー,（お！　明かりが見えた！　あそこが出口だな……）,(Oh!  I see a light!  That's probably the exit...)
+0,プロデューサー,！　あれ……？　急に暗くなったぞ……,!  Huh...?  It suddenly got dark...
+2019004040010,？？？,うぅ～……,Uuu~...
+0,プロデューサー,……！,...!
+2019004040020,？？？,あぁあ～～～～！！！！,AaaAAaaAA~~~~!!!!
+0,プロデューサー,うわぁっ！！！！,Uwaahh!!!!
+0,プロデューサー,……,...
+0,プロデューサー,（……我ながらあそこまで驚くとは……）,(...even I have to admit I got spooked...)
+2019004040030,愛依,──わっ！　おっ待たせ～！,-Boo! Hey wait~!
+0,プロデューサー,……！　お、おぉ……,"..!  Oh, ohh..."
+2019004040040,愛依,"何なに～？　もしかしてまだビビってる～？
+うち、そんなに怖かったんだ～♪","What, what~?  Could it be that you're still startled~?
+I am that scary~♪"
+0,プロデューサー,ああ、正直なとこ、かなり怖かったよ,"Ahh, honestly, I was pretty dang scared."
+2019004040050,愛依,"アッハハ～、じゃ、勝負はうちの勝ちだね～
+なんかご褒美もらっちゃおっかな～","Ahhaha~, well, this match is my victory then~
+What kind of prize do I get~"
+0,プロデューサー,俺の完敗だしな……何がいい？,I was utterly defeated huh... well what sounds good?
+2019004040060,愛依,え～、それじゃあ～……♪,"Eh~, well then~...♪"
+2019004040070,愛依,クレープ！　クレープ食べたい！,A crepe!  I want to eat a crepe!
+0,プロデューサー,ああ、いいぞ！,"Okay, sounds good!"
+0,プロデューサー,"それにしても、一度安心させてから
+驚かすなんて、よく考えたな愛依","Even still, I'm relieved for a moment
+How you scared me, you came up with a good plan."
+2019004040080,愛依,へ？　何それ？,Huh?  What's that?
+0,プロデューサー,？　そういう仕掛けじゃなかったのか？,? Didn't you set up that trap?
+2019004040090,愛依,……,...
+2019004040100,愛依,"……あ！
+そういえば出口のとこの電球、切れかかってたかも","...ah!
+Now that you mention it, the light bulb at the exit might be broken."
+0,プロデューサー,ていうことは……,It's like that...
+2019004040110,愛依,うちがラッキーだったやつかぁ～,I guess I was lucky huh~
+2019004040120,愛依,アハハ、プロデューサー、めっちゃお腹鳴ってるし,"Ahaha, Producer, my tummy's really growling."
+0,プロデューサー,そういえば少し腹減ってきたな,"Come to think of it, I'm a little hungry."
+2019004040130,愛依,じゃ、早く行こ行こ～♪,"Well, let's hurry up and gooo~♪"
+2019004040140,愛依,ん～！　ちょー美味しい,Mm~!  That's tasty
+0,プロデューサー,ああ、お店のと変わらないレベルだな,"Yeah, that store's quality is always consistent."
+2019004040150,愛依,"だね～。おっ！　プロデューサーはイチゴにしたんだ～！
+そっちも美味しそうじゃん！","Right~. Oh! You got strawberry huh~!
+That also looks tasty, doesn't it!"
+0,プロデューサー,"愛依が頼んだバナナと迷ったんだけどな
+イチゴがおススメって書いてあったから","I was tempted by the banana you got,
+But the sign's recommended flavor was strawberry."
+2019004040160,愛依,"そっち、ひと口ちょーだい！
+うちのにはイチゴ入ってないから食べてみたいし！","Hey, give me a bite!
+I didn't get any strawberries so I want to eat it!"
+0,プロデューサー,え──,Eh--
+2019004040170,愛依,あ～……んっ！,Ah~... chomp!
+2019004040180,愛依,"…うま！
+イチゴもめっちゃ美味しいじゃん！","...mmm!
+The strawberry's delicious too!"
+2019004040190,愛依,"……って、あ……
+ごめん、プロデューサー！","...well, ah...
+Sorry, Producer!"
+2019004040200,愛依,自分の分、取られたくない系だった？,Did you not want any of mine?
+0,プロデューサー,いや、そういうことじゃなくてだな,"No, it's not like that."
+2019004040210,愛依,──なら、うちのやつひと口あげるよ,"-if that's the case, take a bite of mine."
+2019004040220,愛依,はい！　あ～ん♪,Here!  Ahhh~h♪
+info,produce_events/201900404.json,
+译者,,

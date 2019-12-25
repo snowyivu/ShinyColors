@@ -1,0 +1,26 @@
+id,name,text,trans
+1019001000510010,愛依,あっちゃ～、ヤッバ,"Ah shoot~, that's no good"
+0000000000000,プロデューサー,どうした、愛依、大丈夫か？,"What is it Mei, everything alright?"
+1019001000510020,愛依,いや～、爪割れちゃったっぽいわ～,"No~, looks like I just broke a fingernail~"
+0000000000000,プロデューサー,（それなら……）,(Is that what it is...)
+select,,"救急箱に
+グルーがある",There's glue in the first-aid kit
+select,,絆創膏ならあるぞ,Here's a band-aid
+select,,"すまん、何も
+持ってないな","Sorry, there's nothing I can do"
+1019001000510030,愛依,え？　マジで！　ちょー助かるわ！,"Eh? Seriously!! I'm like, saved!"
+1019001000510040,愛依,"え、てか、そういうのけっこー知ってんだね
+さすがプロデューサーじゃん、頼りになる～♪","Eh, I mean, it's just like Producer to remember
+so much, I can always count on you~♪"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1019001000510050,愛依,マジ？　サンキュね！,Seriously? Thank you!
+1019001000510060,愛依,ちょっと応急処置に使わしてもらうわ！,That'll hold me over for now!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000510070,愛依,"ちょ、謝んなくていーって
+プロデューサーは悪くないし","Hey, don't apologize Producer, 
+you didn't do anything bad."
+1019001000510080,愛依,しばらく我慢するし～,I can live with this for a while.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101900100051.json,
+译者,,
