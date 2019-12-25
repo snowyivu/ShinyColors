@@ -509,19 +509,19 @@ jewelPurchase.limitation.overTitle,購入限度額超過,購入限度額超過
 jewelPurchase.limitation.overMessage,購入限度額を超過しているため\nご購入いただくことができません\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください,購入限度額を超過しているため\nご購入いただくことができません\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください
 jewelPurchase.limitation.parentPermissionTitle,法定代理人の同意確認,法定代理人の同意確認
 jewelPurchase.limitation.parentPermissionMessage,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください
-jewelPurchase.productsDialog.title,フェザージュエル購入,フェザージュエル購入
-jewelPurchase.productsDialog.productNum,%{num}個,%{num}個
-jewelPurchase.productsDialog.priceLabel,必要バナコイン,必要バナコイン
-jewelPurchase.productsDialog.priceLabelNative,価格,価格
-jewelPurchase.productsDialog.purchaseLimitText,%{purchasedNum}/%{limitNum}回,%{purchasedNum}/%{limitNum}回
-jewelPurchase.confirmDialog.title,購入確認,購入確認
-jewelPurchase.confirmDialog.messageBeforeBC,バナコインでジュエル,バナコインでジュエル
-jewelPurchase.confirmDialog.messageAfter,を購入しますか?,を購入しますか?
-jewelPurchase.confirmDialog.purchaseNum,%{num}個,%{num}個
-jewelPurchase.purchasedDialog.title,購入完了,購入完了
-jewelPurchase.purchasedDialog.messageAfter,を購入しました,を購入しました
-jewelPurchase.purchasedDialog.possessionJewel,所持ジュエル,所持ジュエル
-jewelPurchase.purchasedDialog.possessionBC,所持バナコイン,所持バナコイン
+jewelPurchase.productsDialog.title,フェザージュエル購入,Purchase Feather Jewels
+jewelPurchase.productsDialog.productNum,%{num}個,%{num}
+jewelPurchase.productsDialog.priceLabel,必要バナコイン,Needed Banacoin
+jewelPurchase.productsDialog.priceLabelNative,価格,Price
+jewelPurchase.productsDialog.purchaseLimitText,%{purchasedNum}/%{limitNum}回,%{purchasedNum}/%{limitNum} times
+jewelPurchase.confirmDialog.title,購入確認,Purchase Confirmation
+jewelPurchase.confirmDialog.messageBeforeBC,バナコインでジュエル,Jewels with Banacoin
+jewelPurchase.confirmDialog.messageAfter,を購入しますか?,Purchase This?
+jewelPurchase.confirmDialog.purchaseNum,%{num}個,%{num}
+jewelPurchase.purchasedDialog.title,購入完了,Purchase Complete
+jewelPurchase.purchasedDialog.messageAfter,を購入しました,Purchased
+jewelPurchase.purchasedDialog.possessionJewel,所持ジュエル,Owned Jewels
+jewelPurchase.purchasedDialog.possessionBC,所持バナコイン,Owned Banacoin
 staffItemPoint,シール,Seal
 header.album,アルバム,Album
 header.comic,４コマ漫画,4Koma Comics
@@ -530,18 +530,18 @@ header.training,トレーニング,Training
 header.trainingIdolList,トレーニングアイドル選択,Training Idol Selection
 header.evolution,特訓,Evolve
 header.evolutionIdolList,特訓アイドル選択,Evolve Idol Selection
-header.deckEdit,ユニット編成,ユニット編成
+header.deckEdit,ユニット編成,Organize Unit
 header.option,オプション,Option
 header.produceAreaSelect,プロデュース選択,Produce Selection
 header.favoriteIdolSelect,アイドル選択,Idol Selection
-header.produceItemPreparation,プロデュースアイテム準備,プロデュースアイテム準備
-header.invitation,SNS招待,SNS招待
-header.produceIdolSelect,プロデュースアイドル編成,プロデュースアイドル編成
-header.supportIdolSelect,サポートアイドル編成,サポートアイドル編成
+header.produceItemPreparation,プロデュースアイテム準備,Equip Produce Items
+header.invitation,SNS招待,SNS Invitation
+header.produceIdolSelect,プロデュースアイドル編成,Organize Produce Idol
+header.supportIdolSelect,サポートアイドル編成,Organize Support Idols
 header.profile,プロフィール,Profile
 header.produceTop,プロデュース,Produce
-header.produceDeckInformation,プロデュースユニット確認,プロデュースユニット確認
-header.produceActivity,スケジュール選択,スケジュール選択
+header.produceDeckInformation,プロデュースユニット確認,Confirm Produce Unit
+header.produceActivity,スケジュール選択,Select Schedule
 header.gasha,ガシャ,Gacha
 header.help,ヘルプ,Help
 header.homeDeck,ホームユニット,Home Unit
