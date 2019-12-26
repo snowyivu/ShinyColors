@@ -2,24 +2,20 @@
 This type of tool that modifies game files is not allowed per the game Terms of Service.  Please use at your own risk!!!  We are not responsible for any actions taken towards your account if you use this translation tool.
 ## WARNING!!!
 
-## Use
-1. Recommended on Chrome，First install [Tampermonkey](https://tampermonkey.net/) extension
-2. After installing extension，click on script address: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，install as prompted by tampermonkey
-3. Refresh game page
+## Installing the Patch
+1. It's recommended to run this patch on Chrome
+2. First install the [Tampermonkey](https://tampermonkey.net/) extension
+3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
+4. Refresh game page and the patch should work automatically
 
-Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend [Recruit Link](https://go.enza.fun/YLZXbw) to start the game。
+Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend for biuuu (the original Chinese dev!) [Recruit Link](https://go.enza.fun/YLZXbw)
 
-If on mobile，install a browser that supports scripts，and use the following code。
-```javascript
-(function(){
-  const script = document.createElement('script');
-  script.src = 'https://www.shiny.fun/ShinyColors.user.js';
-  document.head.appendChild(script);
-}())
-```
-Known browsers that support scripts:
-- iOS: Alook
-- Android: Via/Kiwi/米侠/荟萃
+## Installing on Mobile
+1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
+2. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension
+3. You will probably also want to use [Full Screen Button](https://chrome.google.com/webstore/detail/full-screen-button/iokdoigdonjidoklkaonhielnkamibnp) extension to remove the sidebar while playing
+4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
+5. Refresh the game page and the patch should work automatically
 
 **Machine translation**
 
