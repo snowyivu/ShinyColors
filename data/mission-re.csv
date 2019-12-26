@@ -162,8 +162,8 @@ $nameのフェスアイドルを誕生させよう,Create a $1 Fes Idol,exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$num,exp
 センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
 $nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,"$1's unit has achieved\r\n""$2"" against powerful rivals",exp
-$nameのTrueEndを見よう,See $1's True End,exp
-【$unknown】$nameのTrueEndを見よう,See 【$1】$2's True End,exp
+$nameのTrueEndを見よう,Reach $1's True End,exp
+【$unknown】$nameのTrueEndを見よう,Reach【$1】$2's True End,exp
 $nameの「$noun」「$noun」「$noun」を全てクリアしよう,Clear $1's 「$2」「$3」and 「$4」,exp
 $noun以上のフェスアイドルを誕生させよう,Create a Fes Idol of $1 or higher,exp
 センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp

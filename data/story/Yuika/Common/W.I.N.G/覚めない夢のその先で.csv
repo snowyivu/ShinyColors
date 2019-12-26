@@ -15,12 +15,12 @@ These results have far exceeded my expectations. "
 すごかったですよ",Eheh. The president and I were both watching from the audience. It was incredible.
 6901001090050,はづき,"優勝したってわかった瞬間、社長が泣いてしまって……
 ステージをほとんど見れていませんでしたから","We were barely able to see the performance itself......
-But, the moment we knew she won the president started crying."
+But, as soon as we knew she won the president started crying."
 6902001090020,社長,"こ、こら！
 彼の前でそういうことを言うな！","H-hush, you!
-Don't say stuff like that in front of him!"
+Don't bring up stuff like that in front of him!"
 6901001090060,はづき,"それだけ優勝したのを
-喜んでたってことじゃないですか","I think that detail alone shows you how happy the president is that she won. "
+喜んでたってことじゃないですか",I think that detail alone shows you how happy the president is about her win.
 6902001090030,社長,そ、それはそうだが……,"W-well, you are correct......"
 0000000000000,プロデューサー,社長、本当にありがとうございます！,"President, thank you very much!"
 6902001090040,社長,"……とにかく。もっと礼を言うべき相手、
@@ -39,14 +39,14 @@ Go and see her!"
 …………何やってるんだ？","There you are, Yuika.
 ............What are you doing?"
 6007001090010,結華,"いや、それが大変なんだよプロデューサー！
-いくらほっぺをつねっても、夢から覚めなくってさー","Gosh, this is bad, Producer! No matter how many times I pinch my cheeks, I'm not waking up!"
+いくらほっぺをつねっても、夢から覚めなくってさー","This is bad, Producer! No matter how many times I pinch my cheeks, I'm not waking up!"
 6007001090020,結華,"早いとこ覚めないと……こんないい夢見てたら
 起きた時にショックで大変なことになるってば……！",I hope I open my eyes soon...... When you have a dream this good it's always such an awful shock when you wake up......!
-0000000000000,プロデューサー,なるほど。それで、どんな夢を？,"I see. Well, what did you dreamed?"
+0000000000000,プロデューサー,なるほど。それで、どんな夢を？,I see. What did you dream?
 6007001090030,結華,"決まってるでしょ！　『W.I.N.G.』優勝だよ！
 こんなの夢じゃなきゃありえないって！",That I just won W.I.N.G.! What else? I'd have to be dreaming for that to have happened!
 6007001090040,結華,"あ、もしかして三峰のほっぺだけじゃ足りないのかも！
-プロデューサーのほっぺ、つねってみてもいい？","Oh, maybe pinching my own cheeks isn't enough? Producer, can I pinch your cheeks too?"
+プロデューサーのほっぺ、つねってみてもいい？","Maybe pinching my own cheeks isn't enough? Producer, can I pinch your cheeks too?"
 0000000000000,プロデューサー,"待て待て！
 夢じゃないから、安心してくれ！","Woah, hold on! This isn't a dream, I promise!"
 6007001090050,結華,それって本当？　本当に本当？,You sure? You super duper sure?
@@ -54,8 +54,8 @@ Go and see her!"
 ほら、手をおろせって","Yes, I'm sure! This all really happened!
 Please, put your hands down."
 6007001090060,結華,"……そっか～。夢じゃないんだね
-現実、なんだぁ……","......Well, gosh～. Guess it's not a dream, then. This is actually my life now......"
-0000000000000,プロデューサー,……なんかこういうの、懐かしいな,......This conversation feel so nostalgic.
+現実、なんだぁ……","......Gosh～ I guess it not a dream, then. This is actually my life now......"
+0000000000000,プロデューサー,……なんかこういうの、懐かしいな,......This conversation feels so nostalgic.
 6007001090070,結華,懐かしい？,Nostalgic?
 0000000000000,プロデューサー,"ほら、アイドルになったばかりの頃も
 よくドッキリとか夢じゃないかとか言ってただろ？","Remember? Back when you first became an idol, you were always asking if this was secretly a prank, or all just a dream."
@@ -63,12 +63,12 @@ Please, put your hands down."
 0000000000000,プロデューサー,今はもう大丈夫か？,You don't feel that way anymore?
 6007001090090,結華,"当然。ご心配には及びませんよ～
 ……いろんな人に、いっぱい応援してもらったしさ","Of course not. No need to worry～
-......It's all because I've had so many people cheering me on."
+......It's because I've had so many people cheering me on."
 6007001090100,結華,"ファンのみんな、お仕事で関わった人……
 もちろん、プロデューサーからも","All of my fans, the people I've worked with, and of course you too, Producer. "
 6007001090110,結華,"みんなが声をかけてくれたから、
 ちゃんと自信を持てるようになったんだ","Because of all the support they've given me, I've become confident in my existence as an idol."
-6007001090120,結華,……いつか、三峰が思う理想のアイドルになるよ,"......One day, Mitsumine will be able to become the idol of her dreams."
+6007001090120,結華,……いつか、三峰が思う理想のアイドルになるよ,"......One day, Mitsumine will become the idol of her dreams."
 6007001090130,結華,今はまだ全然だけどね,"Though, right now I'm nowhere close."
 0000000000000,プロデューサー,……結華にとっての、理想のアイドルってなんだ？,"......What would the ""idol of your dreams"" mean to you, Yuika?"
 6007001090140,結華,憧れられるのに、相応しいアイドル、かな,"An idol that can inspire people, I guess. "
@@ -80,16 +80,14 @@ Idols seemed like the were part of a different world. "
 6007001090170,結華,"今は三峰も、昔自分が見てた場所に、
 アイドルとして立ってるんだなって思えるようになったから","When I think about what the Mitsumine of the past would think of Mitsumine now, I realize that I've found my place as an idol. "
 6007001090180,結華,"だから、誰からも憧れられるような……
-そんなアイドルになりたいって思うんだ","So, I want to become an idol that's able to inspire someone......
-The same way they inspired me."
+そんなアイドルになりたいって思うんだ","So, I want to become an idol that's able to inspire someone...... The same way they inspired me."
 0000000000000,プロデューサー,そっか……良い目標だな,"I see...... I think that's a great goal to have. "
 6007001090190,結華,……って、うわ。語っちゃったよ、恥ずかしー……！,"......Uh, augh! Didn't mean to say all that. Well, this is awkwardー......!"
 6007001090200,結華,"えーっと……Ｐたん、今のは忘れて！
 ほらほら早く！　忘れて忘れて！","Ummm...... P-tan, forget everything I just said! Like right now! Delete it from your brain!"
 0000000000000,プロデューサー,……残念だけど、結華が言ったことは忘れられないよ,"......Unfortunately, I don't think I'll ever be able to forget it."
 0000000000000,プロデューサー,"結華が教えてくれたことを、絶対に忘れたりしない
-だからその夢、絶対に叶えような","I make sure to remember all the things you tell me, Yuika.
-And now, I want to help that dream you shared come true. "
+だからその夢、絶対に叶えような","I make sure to remember all the things you tell me, Yuika. And now, I want to help that dream you shared come true. "
 6007001090210,結華,"あはは……
 ほんとにもう、真面目というかなんというかー……","Ahahah...... How do I put it.
 You act way too serious, or something......"
