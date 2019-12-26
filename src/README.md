@@ -7,6 +7,7 @@ This type of tool that modifies game files is not allowed per the game Terms of 
 2. First install the [Tampermonkey](https://tampermonkey.net/) extension
 3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
 4. Refresh game page and the patch should work automatically
+(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
 Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend for biuuu (the original Chinese dev!) [Recruit Link](https://go.enza.fun/YLZXbw)
 
@@ -16,6 +17,7 @@ Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend
 3. You will probably also want to use [Full Screen Button](https://chrome.google.com/webstore/detail/full-screen-button/iokdoigdonjidoklkaonhielnkamibnp) extension to remove the sidebar while playing
 4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
 5. Refresh the game page and the patch should work automatically
+(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
 **Machine translation**
 
