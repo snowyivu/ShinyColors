@@ -7,11 +7,11 @@
 
 ---
 ## Introduction
-Install Plugin：[Click Here](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
+Get the Patch：[Click Here](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
 
-Submit Translation：[Click Here](https://github.com/snowyivu/ShinyColors/tree/master/data)
+Help with Translations：[Click Here](https://github.com/snowyivu/ShinyColors/tree/master/data)
 
-## Devlopment
+## Development
 
 ```bash
 # Global Installation yarn
