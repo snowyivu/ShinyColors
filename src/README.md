@@ -2,7 +2,7 @@
 This type of tool that modifies game files is not allowed per the game Terms of Service.  Please use at your own risk!!!  We are not responsible for any actions taken towards your account if you use this translation tool.
 ## WARNING!!!
 
-## Installing the Patch
+## Installing on Desktop
 1. It's recommended to run this patch on Chrome
 2. First install the [Tampermonkey](https://tampermonkey.net/) extension
 3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
