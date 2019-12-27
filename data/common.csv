@@ -18,7 +18,7 @@ W.I.N.G.編[True End 研修用],W.I.N.G. Run[True End Training]
 自己ベスト,Best Score
 今期の記録,This Score
 使用中のアイテムはありません,No Items in Use
-所持SP,SP Owned
+所持SP,SP
 獲得方法,Obtain By
 現在設定中の称号,Set Current Title
 選択中の称号,Selected Title
@@ -177,8 +177,8 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 アイドルの体力が少ないとトラブルが発生しやすく\nなりますので、こまめに休ませてあげましょう,Trouble Rate increases if the Idol's Stamina is low \nBecause of that、 let's rest frequently
 オーディションへ行きませんか？,Would you like to go to an audition?
 「流行の1位」と「育てたアイドルのタイプ」が\n一致した時はオーディション合格のチャンスです,「The No.1 Trend」 and 「The Idol Type you Raised」\nIf they match you can pass the audition
-選択されたスキルは忘れてしまいます。\nよろしいですか？,Is it okay to\nForget the selected skill?
-忘れたスキルは再度習得できません,Forgotten skills can't be regained
+選択されたスキルは忘れてしまいます。\nよろしいですか？,Is it okay to\nforget the selected skill?
+忘れたスキルは再度習得できません,Skills can't be re-learned
 3人以上のアイドルと絆を赤ゲージにする\nシーズン3最終週のみ挑戦可能,Have red-gauge bonds with 3 or more idols\nCan challenge on the last week of Season 3
 アイドルランクC以上,Idol Rank C or Higher
 アイドルランクE以上,Idol Rank E or Higher
@@ -187,13 +187,13 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 アイドルランクS以上,Idol Rank S or Higher
 アイドルランクB以上,Idol Rank B or Higher
 アイドルランクA以上,Idol Rank A or Higher
-プロデューサー就任から,Days Played
-日経過,Days Passed
-日記念まであと,d To Next Reward
+プロデューサー就任から,Total Days Played:
+日経過,d
+日記念まであと,d to next Gift
 お待たせしました~結果の発表です。,Sorry to make you wait~Time to announce the results.
 メンタル500以上\nシーズン4最終週のみ挑戦可能,Have 500 or higher Mental\nCan challenge on the last week of Season 4
 ミッション達成,Mission Success
-以下のミッションを達成しました。\rミッションページで以下の報酬を受け取りましょう。,Completed these missions. \rReceive these rewards on the mission page.
+以下のミッションを達成しました。\rミッションページで以下の報酬を受け取りましょう。,Completed these missions. \rReceive rewards on the mission page.
 購入上限,Purchase Limit
 所持チケット一覧,List of Owned Tickets
 アイテムがありません。,No Items
@@ -210,7 +210,7 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 アイドルE,Idol E
 プロデューサーさん\n今回は初めてのアイドルプロデュースになりますので\n私がサポートさせていただきますね〜,Producer-San\nSince this is your first idol being produced\nI will assist you~
 累計ファン人数,Total Fan Count
-プロデュース中のアイドルが存在します\nプロデュースを再開しますか？,There is an Idol being Produced\nRestart Production?
+プロデュース中のアイドルが存在します\nプロデュースを再開しますか？,There is an Idol being Produced\nResume Production?
 アピールミス,Missed Appeal
 グッドアピール,Good Appeal
 ノーマルアピール,Normal Appeal
