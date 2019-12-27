@@ -74,7 +74,7 @@ extraCampaign.result.rewardState.expired.b,受け取り期間は\r終了しま�
 extraCampaign.result.announcementDialog.title,特別応募キャンペーン当選結果,Special Entry Campaign Winning Results
 extraCampaign.result.announcementDialog.description,当選発表のお知らせ\r\r%{campaignName}\rの結果が確認できます,当選発表のお知らせ\r\r%{campaignName}\rの結果が確認できます
 extraCampaign.result.announcementDialog.notice,特設ページには\rホーム左下ミニバナーからも遷移できます,特設ページには\rホーム左下ミニバナーからも遷移できます
-errorDialog.checkin.requireJoin,チェックイン機能を使用するには\nenzaにログインする必要があります,チェックイン機能を使用するには\nenzaにログインする必要があります
+errorDialog.checkin.requireJoin,チェックイン機能を使用するには\nenzaにログインする必要があります,You must log in to enza\r\n to use the check-in feature. 
 errorDialog.checkin.geolocationDenied,ブラウザによって位置情報の取得が\nブロックされています,ブラウザによって位置情報の取得が\nブロックされています
 errorDialog.checkin.geolocationUnAvailable,位置情報が取得できません\nデバイスの位置情報サービスをONにするか\n電波状況をご確認ください,位置情報が取得できません\nデバイスの位置情報サービスをONにするか\n電波状況をご確認ください
 errorDialog.checkin.title,チェックイン失敗,Check-in Failed
@@ -106,7 +106,7 @@ downLoad.deletedComment,データ削除が完了しました\n,Data Deleted\r\n
 downLoad.completeMessage,ダウンロードが完了しました,Download Complete
 comic.categories.web,WEB４コマ,WEB 4Koma
 comic.categories.special,特別編,Special Edition
-comic.categories.limited,限定４コマ,Limited 4Koma
+comic.categories.limited,限定４コマ,Limited
 comic.otherUnitName,[その他],[Other]
 comic.storyNumberText,第%{chapter}話,Chapter %{chapter}
 comic.filterTitle,４コマ漫画検索,4Koma Search
@@ -236,37 +236,37 @@ deck.autoSelectSuccessDialog.advice2.afterType,を重点的に,を重点的に
 deck.autoSelectSuccessDialog.advice2.nextLine,レッスンするといいですよ♪,レッスンするといいですよ♪
 deck.autoSelectSuccessDialog.description,サポートアイドルを%{type}編成で設定しました,サポートアイドルを%{type}編成で設定しました
 deck.deckNumber,ユニット%{deckNumber},Unit %{deckNumber}
-deck.memberShortageNotice,アイドルがセットされていないので\rスタートできません,アイドルがセットされていないので\rスタートできません
-deck.swapCharacterWarning,ユニット内の同一のアイドルが外れてしまいますが\r本当によろしいですか？,ユニット内の同一のアイドルが外れてしまいますが\r本当によろしいですか？
-deck.title.confirm,確認,確認
-deck.title.deckModify,ユニット名編集,ユニット名編集
-deck.title.orderSelectPop,並べ替え変更,並べ替え変更
+deck.memberShortageNotice,アイドルがセットされていないので\rスタートできません,Not all idols have been set.\r\n Cannot start. 
+deck.swapCharacterWarning,ユニット内の同一のアイドルが外れてしまいますが\r本当によろしいですか？,The same idol currently in the unit will be removed. \r\n Is this okay?
+deck.title.confirm,確認,Confirm
+deck.title.deckModify,ユニット名編集,Edit Unit Name
+deck.title.orderSelectPop,並べ替え変更,Change Order
 deck.title.staminaRecoverPop,スタミナ回復,Recover Stamina
-deck.title.startProducePop,使用確認,使用確認
-deck.title.useCoinPop,使用確認,使用確認
-deck.title.supportSkillListPop,サポートスキルボーナス一覧,サポートスキルボーナス一覧
+deck.title.startProducePop,使用確認,Confirm Use
+deck.title.useCoinPop,使用確認,Confirm Use
+deck.title.supportSkillListPop,サポートスキルボーナス一覧,Support Passives List
 emSpace,,
-ending.headerTitle.endingCEOReport,社長からの評価,社長からの評価
+ending.headerTitle.endingCEOReport,社長からの評価,President's Report
 ending.headerTitle.fesIdolBirth,フェスアイドル誕生,Create Fes Idol
-ending.fesIdolCheckPop.title,フェスアイドル確認,フェスアイドル確認
+ending.fesIdolCheckPop.title,フェスアイドル確認,Confirm Fes Idol
 ending.fesIdolCheckPop.comment,フェスアイドルの誕生を行います。\rよろしいですか？,This will create the Fes Idol.\r\nAre you sure?
-ending.fesIdolCheckPop.warning,残りの所持SPは失われます。,残りの所持SPは失われます。
-ending.fesIdolRewardPop.title,プロデュースクリア報酬,プロデュースクリア報酬
-ending.fesIdolRewardPop.comment,下記アイテムを入手しました,下記アイテムを入手しました
-ending.fesIdolRewardPop.maxMessage,所持枠を超えているものはプレゼント\rボックスに送られました,所持枠を超えているものはプレゼント\rボックスに送られました
+ending.fesIdolCheckPop.warning,残りの所持SPは失われます。,The remaining SP will be lost. 
+ending.fesIdolRewardPop.title,プロデュースクリア報酬,Produce Clear Rewards
+ending.fesIdolRewardPop.comment,下記アイテムを入手しました,Received the following items
+ending.fesIdolRewardPop.maxMessage,所持枠を超えているものはプレゼント\rボックスに送られました,Items over the max capacity have\r\nbeen sent to the present box. 
 ending.fesIdolRewardPop.itemNameNum,%{type} ×%{num},%{type} ×%{num}
-ending.presidentComment,ご苦労だったな\r次回も頑張ってもらうぞ！\r期待しているからな,ご苦労だったな\r次回も頑張ってもらうぞ！\r期待しているからな
+ending.presidentComment,ご苦労だったな\r次回も頑張ってもらうぞ！\r期待しているからな,You worked hard. \r\n Keep doing your best!\r\nI expect great things. 
 ending.totalFan.idolName,【%{name}】累計ファン人数,【%{name}】total fan count 
 ending.reward.multipleNum,×%{num},×%{num}
 ending.possessionCountOverExSkillRewardPop.title,所持上限に達しています,所持上限に達しています
-ending.possessionCountOverExSkillRewardPop.exSkillName,%{idolType}【%{idolName}専用】\n%{skillName},%{idolType}【%{idolName}専用】\n%{skillName}
+ending.possessionCountOverExSkillRewardPop.exSkillName,%{idolType}【%{idolName}専用】\n%{skillName},%{idolType}【%{idolName} Only】\n%{skillName}
 ending.possessionCountOverExSkillRewardPop.idolType.produce,プロデュース,Produce
 ending.possessionCountOverExSkillRewardPop.idolType.support,サポート,Support
 error.pageNotFound,Page Not Found\n指定されたページは見つかりませんでした。,Page Not Found\n指定されたページは見つかりませんでした。
-error.invalidOperation,無効な操作です。,無効な操作です。
-errorDialog.announceTitle,ご案内,ご案内
+error.invalidOperation,無効な操作です。,Invalid Operation
+errorDialog.announceTitle,ご案内,Warning
 errorDialog.errorTitle,エラー,Error
-errorDialog.confirmTitle,確認,確認
+errorDialog.confirmTitle,確認,Confirm
 errorDialog.updateNativeAppVersionTitle,最新バージョン確認,最新バージョン確認
 errorDialog.fesResumeTitle,フェス再開,フェス再開
 errorDialog.updateVersion,バージョンが更新されました。,バージョンが更新されました。
@@ -286,7 +286,7 @@ errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました�
 errorDialog.sdkLoginLoadFailed,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n
 errorDialog.sdkLoginLoadFailedIOS10,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n
 errorDialog.sdkLoginLoadFailedApp,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n
-errorDialog.staminaLimitOver,スタミナが500を超える為、\nアイテムを使用できませんでした。\n営業やプロデュースでスタミナを消費してください。,スタミナが500を超える為、\nアイテムを使用できませんでした。\n営業やプロデュースでスタミナを消費してください。
+errorDialog.staminaLimitOver,スタミナが500を超える為、\nアイテムを使用できませんでした。\n営業やプロデュースでスタミナを消費してください。,Item could not be used\r\n since Stamina exceeds 500.\r\n Please spend Stamina in Jobs or Production. 
 errorDialog.unsubscribedApp,退会済みのアカウントが検出されました。\nアプリケーションの再インストールをお試しください。,退会済みのアカウントが検出されました。\nアプリケーションの再インストールをお試しください。
 errorDialog.unsubscribed,退会済みのアカウントが検出されました。\nタイトルへ戻ります。\n何度も発生する場合は\nクッキーの削除をお試しください。,退会済みのアカウントが検出されました。\nタイトルへ戻ります。\n何度も発生する場合は\nクッキーの削除をお試しください。
 errorDialog.accountFreezeShort,調査の為、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。,調査の為、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。
@@ -295,35 +295,35 @@ errorDialog.earthPaymentFailureFatal,プラットフォームの決済処理が\
 errorDialog.sceneMaintenance,本機能は、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。,本機能は、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。
 errorDialog.playMovie,動画再生に失敗しました。,動画再生に失敗しました。
 errorDialog.businessIsNotFinished,営業が完了していません。\n少し時間を置いてから再度完了してください。,営業が完了していません。\n少し時間を置いてから再度完了してください。
-errorDialog.purchaseErrorTitle,購入エラー,購入エラー
+errorDialog.purchaseErrorTitle,購入エラー,Purchase Error
 errorDialog.purchaseError,ご購入の処理中に\nエラーが発生したため、ご購入が\n正しく終了されませんでした。,ご購入の処理中に\nエラーが発生したため、ご購入が\n正しく終了されませんでした。
-errorDialog.purchaseDeferredTitle,制限,制限
+errorDialog.purchaseDeferredTitle,制限,Restriction
 errorDialog.purchaseDeferred,ご購入が制限されております。\n制限が解除されるまでご購入はできません。,ご購入が制限されております。\n制限が解除されるまでご購入はできません。
-errorDialog.purchaseRestoreTitle,購入エラー,購入エラー
+errorDialog.purchaseRestoreTitle,購入エラー,Purchase Error
 errorDialog.purchaseRestore,購入処理を完了できませんでした。\nしばらくしてからもう一度お試しください。\n購入のリトライをしますか？,購入処理を完了できませんでした。\nしばらくしてからもう一度お試しください。\n購入のリトライをしますか？
 errorDialog.note.noSettlementProcess,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。
 errorDialog.contextLost.appText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。
 errorDialog.contextLost.browserText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。
 errorDialog.contextLost.buttonText,再読み込み,再読み込み
-evolutionItem,特訓はづきさん,特訓はづきさん
-exchangeItem.costumeTicket.original,衣装交換チケット,衣装交換チケット
+evolutionItem,特訓はづきさん,Evolution Hazuki
+exchangeItem.costumeTicket.original,衣装交換チケット,Outfit Ticket
 exchangeItem.costumeTicket.simple,チケット,Ticket
-exchangeItem.communicationRelease.original,アルバムの鍵,アルバムの鍵
-exchangeItem.businessMotivationItem.original,差し入れアイテム,差し入れアイテム
-exchangeItem.businessMotivationItem.simple,差し入れアイテム,差し入れアイテム
+exchangeItem.communicationRelease.original,アルバムの鍵,Album Key
+exchangeItem.businessMotivationItem.original,差し入れアイテム,Handmade Goods 
+exchangeItem.businessMotivationItem.simple,差し入れアイテム,Handmade Goods 
 gameEventPoint,イベントpt,Event Pt
-idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね
-idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,みんながプロデューサーさんを待っていますよ～
+idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,Ah、Producer-san、you came to meet the idols. 
+idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,Everyone's been waiting for you Producer~
 idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～
 idolPortal.staffComment4,トレーニングでアイドルを成長させましょう,トレーニングでアイドルを成長させましょう
 idolPortal.staffComment5,特訓でアイドル達の力をさらに引き出してあげましょう,特訓でアイドル達の力をさらに引き出してあげましょう
 idolPortal.staffComment6,プロデューサーさんの現在の担当アイドルはこちらで確認できます,プロデューサーさんの現在の担当アイドルはこちらで確認できます
 jewelDetailDialog.title,所持フェザージュエル確認,所持フェザージュエル確認
 evolution.skillListTitle,解放されるスキル,解放されるスキル
-evolution.confirm.title,特訓確認,特訓確認
+evolution.confirm.title,特訓確認,Confirm Evolve
 evolution.confirm.comment,選択した対象を消費して、特訓をします。\nよろしいですか？,選択した対象を消費して、特訓をします。\nよろしいですか？
-evolution.complete.title,特訓結果,特訓結果
-evolution.complete.comment,特訓が完了しました！,特訓が完了しました！
+evolution.complete.title,特訓結果,Evolve Result
+evolution.complete.comment,特訓が完了しました！,Evolution Complete!
 evolution.costumeRelease.first,最大まで特訓したことによって\n,最大まで特訓したことによって\n
 evolution.costumeRelease.second,の衣装に\n変更可能になりました！,の衣装に\n変更可能になりました！
 fes.top.title,フェス,Fes
@@ -338,13 +338,13 @@ fes.top.gradeProcessing,グレード集計期間  %{mounth}/%{date} %{hour}:%{mi
 fes.difficultySelect.rehearsalMessage,フェスリハーサルの難易度を選択してください,Please choose the Fes Rehearsal Difficulty
 fes.difficultySelect.gradeMatchMessage,グレードフェスの難易度を選択してください,Please choose the Grade Fes Difficulty
 fes.deck.memoryBonus,x%{value},x%{value}
-fes.ready.title,参加ユニット,参加ユニット
-fes.ready.description,テンション決定後は前の画面には戻れません\nフェス参加権を%{consumedFesTicket}消費します,テンション決定後は前の画面には戻れません\nフェス参加権を%{consumedFesTicket}消費します
+fes.ready.title,参加ユニット,Units Entered
+fes.ready.description,テンション決定後は前の画面には戻れません\nフェス参加権を%{consumedFesTicket}消費します,You can't go back once Tension Check is complete. \r\n%{consumedFesTicket} Fes Entries will be used.
 fes.resumeDialog.title,フェス再開,Resume Fes
-fes.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,進行中のフェスがあります。\nフェスを再開しますか？
+fes.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,There is a Fes in progress。\r\nWould you like to resume？
 fes.terminateDialog.title,フェス終了,End Fes
-fes.terminateDialog.text,進行中のフェスを終了します。,進行中のフェスを終了します。
-fes.terminateDialog.textWarning,フェス参加権は返却されません,フェス参加権は返却されません
+fes.terminateDialog.text,進行中のフェスを終了します。,End the Fes in progress. 
+fes.terminateDialog.textWarning,フェス参加権は返却されません,Fes Entries will not be refunded. 
 fes.fesDeck.title,フェスユニット編成,Fes Unit Organization
 fes.fesDeck.invalidFesDeckNotice.title,確認,Confirm
 fes.fesDeck.invalidFesDeckNotice.message,フェスユニットに空きがあるため\n編成を終了できません,フェスユニットに空きがあるため\n編成を終了できません
@@ -352,7 +352,7 @@ fes.fesDeckView.title,確認,Confirm
 fes.fesDeckView.message,このアイドルは既に移籍済みのため\n詳細を確認できませんでした,このアイドルは既に移籍済みのため\n詳細を確認できませんでした
 fes.fesIdolSelect.title,%{positionName}選択,Select %{positionName}
 fes.fesIdolSelect.confirmationTitle,%{positionName}入替,Replace %{positionName}
-fes.skillChange.description,ライブスキルを\n2つ選択してください,ライブスキルを\n2つ選択してください
+fes.skillChange.description,ライブスキルを\n2つ選択してください,Please select\r\n2 Live Skills. 
 fes.fesPositionName.vocal,ボーカル,Vocal
 fes.fesPositionName.dance,ダンス,Dance
 fes.fesPositionName.visual,ビジュアル,Visual
@@ -364,33 +364,33 @@ fes.pauseSkillTitle.visual,ビジュアル担当,Visual Positron
 fes.pauseSkillTitle.leader,リーダー,Leader
 fes.pauseSkillTitle.center,センター,Center
 fes.orderText,%{order}位,%{order} rank
-fes.result.changedSeasonMessage,グレードフェスのシーズンが切り替わったため、\n今回のスコアはグレードに反映されません。,グレードフェスのシーズンが切り替わったため、\n今回のスコアはグレードに反映されません。
+fes.result.changedSeasonMessage,グレードフェスのシーズンが切り替わったため、\n今回のスコアはグレードに反映されません。,Since the Grade Fes season has changed\r\n This score will not be reflected in the current season. 
 fes.result.match.title,LV%{level} グレードフェス,Grade Fes LV%{level}
 fes.result.match.bonusTitle,ボーナス,Bonus
 fes.result.rehearsal.title,フェスリハーサル,Fes Rehearsal
-fes.result.rehearsal.bonusTitle,難易度,難易度
+fes.result.rehearsal.bonusTitle,難易度,Difficulty
 fes.result.ranking,%{value}位,%{value} rank
-fes.result.outOfRanking,ランキング範囲外,ランキング範囲外
-fes.result.scoreDetail.title,スコア詳細,スコア詳細
-fes.result.scoreDetail.item,項目,項目
+fes.result.outOfRanking,ランキング範囲外,Unranked
+fes.result.scoreDetail.title,スコア詳細,Score Info
+fes.result.scoreDetail.item,項目,Item
 fes.result.scoreDetail.point,ポイント,Point
 fes.result.scoreDetail.pointValue,%{value} pt,%{value} pt
-fes.result.scoreDetail.order,順位評価 %{order}位,順位評価 %{order}位
-fes.result.scoreDetail.star,スター獲得数×%{star},スター獲得数×%{star}
-fes.result.scoreDetail.totalScore,ポイント合計,ポイント合計
-fes.result.scoreDetail.bonus,ボーナス倍率,Bonus Total
+fes.result.scoreDetail.order,順位評価 %{order}位,Rank Value %{order}
+fes.result.scoreDetail.star,スター獲得数×%{star},Star Value ×%{star}
+fes.result.scoreDetail.totalScore,ポイント合計,Point Total
+fes.result.scoreDetail.bonus,ボーナス倍率,Bonus Rate
 fes.result.scoreDetail.bonusValue,×%{value},×%{value}
-fes.result.scoreDetail.totalBonus,ボーナス合計,ボーナス合計
-fes.result.scoreDetail.finalScore,総合スコア,総合スコア
-fes.fesGradeEvaluationReward.title,報酬内容,報酬内容
+fes.result.scoreDetail.totalBonus,ボーナス合計,Bonus Total
+fes.result.scoreDetail.finalScore,総合スコア,Total Score
+fes.fesGradeEvaluationReward.title,報酬内容,Rewards
 fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,以下のアイテムがプレゼントに送られました
 fes.fesGradeEvaluationReward.itemNameNum,%{type} ×%{num},%{type} ×%{num}
-fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪
-fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,グレードアップです\rプロデューサーさん、良い調子ですね♪
-fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,グレードキープです、今回も頑張りましょう\r私も応援していますね♪
-fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね
+fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,Congratulations on reaching Grade Lv%{gradeId} for the first time、\r\n Don't forget to grab your mission reward♪
+fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,Your grade went up. \r\nNice job Producer♪
+fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,You kept your Grade、good luck this time. \r\nI'll be rooting for you♪
+fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,You're now Grade Lv%{gradeId}\r\n Let's aim for a Grade Up this time. 
 fes.ranking.score,%{score}pt,%{score}pt
-fes.ranking.emptyNotice,現在ランキング集計中です,現在ランキング集計中です
+fes.ranking.emptyNotice,現在ランキング集計中です,Current Rank
 fes.ranking.updateIntervalWarning,※最新のランキング反映までに時間がかかる場合があります,※Latest rankings may take some time to update
 fes.fesGradeRewardPop.title,グレードフェス報酬,Grade Fes Rewards
 fes.fesGradeRewardPop.gradeReward.title,所属グレード報酬について,Rewards for belonging to a Grade
@@ -401,14 +401,14 @@ fes.fesGradeRewardPop.missionReward.title,初回昇格報酬について,First P
 fes.fesGradeRewardPop.missionReward.description,初めてLv.2以上の各グレードに昇格した際、特別な報酬を入手できます。\r報酬は「ミッション」からお受け取りください。,"You will receive special rewards the first time you reach a grade level of 2 or higher.\r\nPlease collect the rewards from the ""Mission"" screen."
 fes.fesGradeRewardPop.missionReward.colTitle1,昇格グレード,New Grade
 fes.fesGradeRewardPop.missionReward.colTitle2,報酬内容,Rewards
-gameEvent.achievementRewardDialog.title,ミッション達成累積報酬,ミッション達成累積報酬
+gameEvent.achievementRewardDialog.title,ミッション達成累積報酬,Mission Success Reward
 gameEvent.achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 gameEvent.achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
 gameEvent.achievementRewardDetailDialog.title,ミッション達成累積報酬詳細,ミッション達成累積報酬詳細
 gameEvent.achievementRewardDetailDialog.missionDetailTitle,ミッション%{progressMax}個達成報酬,ミッション%{progressMax}個達成報酬
-gameEvent.schedule,開催期限 %{closeAt}まで,開催期限 %{closeAt}まで
-gameEvent.rewardReceivableSchedule,受取期限 %{closeAt}まで,受取期限 %{closeAt}まで
-gameEvent.gashaSchedule,ガシャ期限 %{closeAt}まで,ガシャ期限 %{closeAt}まで
+gameEvent.schedule,開催期限 %{closeAt}まで,Ends at %{closeAt}
+gameEvent.rewardReceivableSchedule,受取期限 %{closeAt}まで,Collect by %{closeAt}
+gameEvent.gashaSchedule,ガシャ期限 %{closeAt}まで,Gacha Ends %{closeAt}
 gameEvent.communicationsDialog.title,イベントコミュ,Event Commu
 gameEvent.communicationsDialog.noticeMessage,コミュはイベントショップから解放可能です,Commus can be unlocked from the Event Shop
 gameEvent.specialCommunicationsDialog.title,スペシャルコミュ,Special Commu
@@ -418,23 +418,23 @@ gameEvent.resumeSpecialCommunicationsDialog.message,進行中のシナリオが�
 gameEvent.boxGasha.acquiredItemRatio,%{acquiredItemCount}/%{originItemCount},%{acquiredItemCount}/%{originItemCount}
 gameEvent.boxGasha.noCheckItem,チェック中のアイテムは\rありません,There are no items being tracked
 gameEvent.boxGasha.lastBox,最後のボックスです,Last Box
-gameEvent.boxGasha.completedComment,%{boxName}のアイテムは\rすべて引き終わりました\r次のボックスへ移動してください,%{boxName}のアイテムは\rすべて引き終わりました\r次のボックスへ移動してください
+gameEvent.boxGasha.completedComment,%{boxName}のアイテムは\rすべて引き終わりました\r次のボックスへ移動してください,All items from %{boxName}\r\nHave been received\r\n Please move to the next box. 
 gameEvent.boxGasha.checkItemDialog.title.change,ボックス詳細,Box Details
-gameEvent.boxGasha.checkItemDialog.title.confirm,チェック中のアイテム確認,チェック中のアイテム確認
-gameEvent.boxGasha.checkItemDialog.text.change,チェック中のアイテムはイベントTOPで残り状況を確認できます,チェック中のアイテムはイベントTOPで残り状況を確認できます
-gameEvent.boxGasha.checkItemDialog.text.lastChange,最後のボックスです。アイテム数は無制限となります,最後のボックスです。アイテム数は無制限となります
-gameEvent.boxGasha.checkItemDialog.text.confirm,チェック中のアイテムが残っています。ボックス移動しますか？,チェック中のアイテムが残っています。ボックス移動しますか？
+gameEvent.boxGasha.checkItemDialog.title.confirm,チェック中のアイテム確認,Confirm Tracked Item
+gameEvent.boxGasha.checkItemDialog.text.change,チェック中のアイテムはイベントTOPで残り状況を確認できます,You can track remaining items in the box at the top of the event
+gameEvent.boxGasha.checkItemDialog.text.lastChange,最後のボックスです。アイテム数は無制限となります,Final Box. Items are unlimited. 
+gameEvent.boxGasha.checkItemDialog.text.confirm,チェック中のアイテムが残っています。ボックス移動しますか？,There are still items left in this box。Move to the next box？
 gameEvent.boxGasha.checkItemDialog.text.notAcquired,未獲得,Not Acquired
-gameEvent.boxGasha.nextBoxDialog.title,ボックス移動確認,ボックス移動確認
-gameEvent.boxGasha.nextBoxDialog.hasNoRemainingItemsText,次のボックスに移動します,次のボックスに移動します
-gameEvent.boxGasha.nextBoxDialog.hasRemainingItemsText,チェックしたアイテムを獲得していません\r次のボックスに移動しますか？,チェックしたアイテムを獲得していません\r次のボックスに移動しますか？
-gameEvent.boxGasha.nextBoxDialog.caution,移動した場合、ボックスの中身を\r戻すことはできません,移動した場合、ボックスの中身を\r戻すことはできません
-gameEvent.boxGasha.nextBoxDialog.check,移動を有効にする,移動を有効にする
+gameEvent.boxGasha.nextBoxDialog.title,ボックス移動確認,Confirm Box Change
+gameEvent.boxGasha.nextBoxDialog.hasNoRemainingItemsText,次のボックスに移動します,Move to the Next Box
+gameEvent.boxGasha.nextBoxDialog.hasRemainingItemsText,チェックしたアイテムを獲得していません\r次のボックスに移動しますか？,You haven't recieved the tracked items. \r\n Move to the next box?
+gameEvent.boxGasha.nextBoxDialog.caution,移動した場合、ボックスの中身を\r戻すことはできません,If you move to the next box the current box's\r\n contents cannot be acquired later. 
+gameEvent.boxGasha.nextBoxDialog.check,移動を有効にする,Allow Moving On
 gameEvent.boxGasha.rewardDialogTitle,結果,Result
 gameEvent.boxGasha.tabBoxName,ボックス,Box
 unitBonusBanner.schedule,%{closeAt}まで,Until %{closeAt}
-idolList.filterTitle,絞り込み,絞り込み
-idolList.sortTitle,並び替え,並び替え
+idolList.filterTitle,絞り込み,Filter
+idolList.sortTitle,並び替え,Sort 
 idolList.emptyMessage,所持しているアイドルがいません。,所持しているアイドルがいません。
 idolList.evolutionEmptyMessage,特訓可能なアイドルがいません。,特訓可能なアイドルがいません。
 idolList.memorialPieceStatus.pieceNum,＋%{num},＋%{num}
@@ -446,7 +446,7 @@ gasha.closeAt,%{closeAt}まで,Until %{closeAt}
 gasha.redrawGashaNotice,確定するまで何度でも\n引き直すことができます,確定するまで何度でも\n引き直すことができます
 gasha.resultMessage,既に加入済みのアイドルは控室に送られます。,Idols you already have will be sent to the waiting room.
 gasha.tweetLayerMessage,ツイートしたいアイドルを選択してください,ツイートしたいアイドルを選択してください
-gasha.gashaText,%{quantity}回引く,%{quantity}回引く
+gasha.gashaText,%{quantity}回引く,%{quantity} pulls
 gasha.popTicketDesc,%{ticketName}を\r消費してガシャを%{quantity}回引きます。\rよろしいですか？,%{ticketName}を\r消費してガシャを%{quantity}回引きます。\rよろしいですか？
 gasha.popJewelDesc,フェザージュエルを%{price}個消費して\rガシャを%{quantity}回引きます。\rよろしいですか？,This will consume %{price} Feather Jewels.\r\nGacha will be drawn %{quantity} times.\r\nAre you sure?
 gasha.popBanaCoinDesc,バナコインでガシャを%{quantity}回引きますか？,バナコインでガシャを%{quantity}回引きますか？
@@ -484,22 +484,22 @@ gasha.instantLottery.grade,%{grade}等,%{grade}等
 gasha.instantLottery.popReward.instantLotteryReward.title,スピードくじ報酬,スピードくじ報酬
 gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,上記のアイテムがプレゼントBOXに送られました
 gasha.loadingWarning,読み込みに時間が掛かることがありますので、\nリロードはお控えください。,Loading may take some time.\r\nPlease do not reload the page.
-gasha.noExpire,期限なし,期限なし
+gasha.noExpire,期限なし,No Expiration
 gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
 gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！
 gasha.stamp.popReward.title,スタンプカード報酬,Stamp Card Reward
 gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
-gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します
-gasha.freeGift.popReward.title,おまけ,おまけ
-gasha.stepupRemainingHours,残り%{hours}時間,残り%{hours}時間
-gasha.stepupRemainingMinutes,残り%{minutes}分,残り%{minutes}分
+gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,Once the stamp card is filled rewards will repeat the 1~%{boardNum} pages
+gasha.freeGift.popReward.title,おまけ,Bonus
+gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left
+gasha.stepupRemainingMinutes,残り%{minutes}分,%{minutes} min left
 gasha.stepupTimes.long,%{times}連ガシャ,%{times}連ガシャ
 gasha.stepupTimes.short,%{times}連,%{times}連
 gasha.scoutGasha.idolList.title,対象アイドル一覧,対象アイドル一覧
 gasha.scoutGasha.idolList.expireAt,【有効期限】%{expireAt}まで,【有効期限】%{expireAt}まで
-gasha.scoutGasha.useConfirmation.title,使用確認,使用確認
+gasha.scoutGasha.useConfirmation.title,使用確認,Confirm Use
 gasha.scoutGasha.useConfirmation.description,セレクションチケットを消費して\n%{name}\nを獲得します\nよろしいですか？,セレクションチケットを消費して\n%{name}\nを獲得します\nよろしいですか？
-gasha.scoutGasha.noExpire,期限なし,期限なし
+gasha.scoutGasha.noExpire,期限なし,No Expiration
 gasha.scoutGasha.expireAt,%{expireAt}まで,Until %{expireAt}
 guestUser,ゲスト,Guest
 jewelPurchase.limitation.message,%{minAge}歳〜%{maxAge}歳：%{limitation}円,%{minAge}歳〜%{maxAge}歳：%{limitation}円
@@ -637,8 +637,8 @@ mission.popMissionDetail,ミッション詳細,Mission Details
 mission.popReceive.title,報酬受け取り,Receive Rewards
 mission.popReceive.comment,以下の報酬を受け取りました,Received these rewards
 mission.noLimit,期限なし,No deadline
-mission.noMissionMessage,挑戦できるミッションはありません,挑戦できるミッションはありません
-mission.expiredMission,ミッション挑戦期限を過ぎています,ミッション挑戦期限を過ぎています
+mission.noMissionMessage,挑戦できるミッションはありません,No missions to challenge
+mission.expiredMission,ミッション挑戦期限を過ぎています,Mission deadline has passed
 mission.remainingMinutes,あと%{minutes}分,%{minutes}m left
 mission.remainingHours,あと%{hours}時間%{minutes}分,%{hours}h%{minutes}m left
 mission.remainingDays,あと%{days}日%{hours}時間,%{days}d%{hours}h left
@@ -713,7 +713,7 @@ item.itemConfirm.warningMessage,%{itemName}の所持数が足りません,%{item
 item.itemResult.title,アイテム使用結果,Item Use Effect
 item.itemResult.effect,%{itemName}を使用して\r%{valueName}を%{gainValue}回復しました,%{itemName}を使用して\r%{valueName}を%{gainValue}回復しました
 item.fesTicketRecoverPop.title,フェス参加権回復,Recover Fes Entries
-item.maxStamina,スタミナがMAXのため、これ以上回復できません。,スタミナがMAXのため、これ以上回復できません。
+item.maxStamina,スタミナがMAXのため、これ以上回復できません。,Stamina could not be recovered\r\n Since it is already at Max. 
 item.maxFesTicket,参加権がMAXのため、これ以上回復できません。,参加権がMAXのため、これ以上回復できません。
 item.expiredItem,期限を過ぎたため、使用できません。,期限を過ぎたため、使用できません。
 item.recoveryItem.type.produce.valueName,スタミナ,Stamina 
@@ -816,7 +816,7 @@ produceCostume.idolCloth,ライブ衣装,Live Outfit
 produceCostume.requirementsPopTitle,衣装解放条件,Outfit Unlock Condition
 produceCostume.changePopTitle,衣装変更確認,Confirm Outfit Change
 produceSeasonResult.ideaNote.season,シーズン%{seasonNum},Season%{seasonNum}
-produceSeasonResult.ideaNote.emptyNotice,獲得できるアイデアノートが\rありません,獲得できるアイデアノートが\rありません
+produceSeasonResult.ideaNote.emptyNotice,獲得できるアイデアノートが\rありません,No idea notes available
 produceAreaSelect.openTime,%{years}年%{months}月%{days}日%{hours}:%{minutes}以降に,After %{years}y%{months}m%{days}d%{hours}:%{minutes}
 fanMeeting.live.evaluation.fanMeeting.good_performance,MVP,MVP
 fanMeeting.live.evaluation.fanMeeting.good_vocal,ベストボーカリスト,Best Vocalist
@@ -875,7 +875,7 @@ shop.shopItem.billedJewel,有償ジュエル,Paid Jewel
 shop.shopItem.freeJewel,無償ジュエル,Free Jewel
 shop.shopItem.piece,ピース,Piece
 shop.shopItem.priceLabel,必要%{currencyName},%{currencyName} Req.
-shop.shopItem.disableText.lack,%{currencyName}不足,Missing %{currencyName}
+shop.shopItem.disableText.lack,%{currencyName}不足,No %{currencyName}
 shop.salesItemText.2106,お一人様1つ限定！\n「1st Anniversary 10連ガシャチケット×1」に「SR特訓はづきさん（プロデュース）×1」と「ゴールドトレーニングチケット×20」がついてくる特別なパッケージです！,お一人様1つ限定！\n「1st Anniversary 10連ガシャチケット×1」に「SR特訓はづきさん（プロデュース）×1」と「ゴールドトレーニングチケット×20」がついてくる特別なパッケージです！
 shop.salesItemText.2107,お一人様1つ限定！\n「ユニット別10連ガシャチケット×3」や「SSR特訓はづきさん（プロデュース）×1」「SSR特訓はづきさん（サポート）×1」などが入った特別なパッケージです！,お一人様1つ限定！\n「ユニット別10連ガシャチケット×3」や「SSR特訓はづきさん（プロデュース）×1」「SSR特訓はづきさん（サポート）×1」などが入った特別なパッケージです！
 shop.salesItemText.2108,お一人様1つ限定！\n「10連ガシャチケット×1」に、好きなSSRアイドルを１人選べる「セレクションチケット」がついた、特別なパッケージです！,お一人様1つ限定！\n「10連ガシャチケット×1」に、好きなSSRアイドルを１人選べる「セレクションチケット」がついた、特別なパッケージです！
@@ -883,8 +883,8 @@ shop.salesItemText.2109,お一人様1つ限定！\n「10連ガシャチケット
 shop.salesItemDialog.remainingText1,あと,Remain
 shop.salesItemDialog.remainingText2,で販売終了,At end of sale
 shop.purchaseConfirmation.title,購入確認,Confirm Purchase
-shop.purchaseConfirmation.message,%{currencyName}を消費して\n以下のアイテムを購入しますか？,%{currencyName}を消費して\n以下のアイテムを購入しますか？
-shop.purchaseConfirmation.messageSimple,以下のアイテムを購入しますか？,以下のアイテムを購入しますか？
+shop.purchaseConfirmation.message,%{currencyName}を消費して\n以下のアイテムを購入しますか？,Spend %{currencyName} to buy\r\nthe below item？
+shop.purchaseConfirmation.messageSimple,以下のアイテムを購入しますか？,Buy the following item?
 shop.purchaseConfirmation.notice.convertMerchandise,解放済みのコミュはアルバムの鍵に変換されます,解放済みのコミュはアルバムの鍵に変換されます
 shop.purchaseConfirmation.notice.jewelMerchandise,無償フェザージュエルから先に消費されます,無償フェザージュエルから先に消費されます
 shop.exchangeConfirmation.title,交換確認,Exchange Confirmation
@@ -903,7 +903,7 @@ shop.exchangeResult.message,%{title}と交換しました,%{title}と交換し�
 shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,%{title}と\r交換しました
 shop.currencyLabel.jewelType.billedJewel,有償,Paid
 shop.currencyLabel.jewelType.freeJewel,無償,Free
-shop.expireDate,【交換期限】%{closeAt}まで,【Restock】Until %{closeAt}
+shop.expireDate,【交換期限】%{closeAt}まで,【Restock】At %{closeAt}
 shop.noShopItem,交換可能なアイテムがありません。,交換可能なアイテムがありません。
 recycleShop.tradeConfirmation.title,交換確認,Exchange Confirmation
 recycleShop.tradeConfirmation.message,以下のアイテムを交換しますか？,以下のアイテムを交換しますか？
@@ -920,8 +920,8 @@ skin,衣装,Outfit
 skinExchange.headerTitle,衣装ショップ,Outfit Shop 
 skinExchange.noMerchandiseNotice,交換できる衣装がありません。,There are no exchangeable outfits.
 skinExchange.shop.possessionMarkCaption,所持数,Num Owned
-skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。
-skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。
+skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,This costume only changes the regular outfit、live outfit is not affected.
+skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,This costume only changes the live outfit、regular outfit is not affected.
 skinKind.plain,私服衣装,Regular Outfit
 skinKind.concert,ライブ衣装,Live Outfit
 specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Replay
@@ -1018,7 +1018,7 @@ individualRanking.accumulatedPresentGetPopup.text,以下のアイテムがプレ
 individualRanking.characterRankingOutOfTermPop.title,集計期間外,Outside Result Period
 individualRanking.characterRankingOutOfTermPop.text,現在は\n「%{name}」\nのランキング集計期間外です\n\n集計期間外にプロデュースや営業を達成しても\nイベントランキングのファン数には加算されません,現在は\n「%{name}」\nのランキング集計期間外です\n\n集計期間外にプロデュースや営業を達成しても\nイベントランキングのファン数には加算されません
 staffItemPointSimple,シール,Seal
-trust.rewardPop.innerLabel,信頼度はすべてのプロデュースアイドルで共通となります。,信頼度はすべてのプロデュースアイドルで共通となります。
+trust.rewardPop.innerLabel,信頼度はすべてのプロデュースアイドルで共通となります。,Trust Level is shared among all Produce Idol cards.
 trust.rewardPop.level,信頼度\rLv.%{level},Trust\r\nLv.%{level}
 trust.rewardPop.rewardName,%{name}×%{num},%{name}×%{num}
 trust.rewardPop.title,信頼度Lv.報酬（%{characterName}）,Trust Lv. Reward（%{characterName}）
@@ -1105,7 +1105,7 @@ gameEvent.eventEnded,イベント開催期間は終了しました,The event per
 announce.eventNotice,イベント予告,Event
 announce.songInfo,楽曲情報,Song Info
 evolution.reward.title,解放,解放
-evolution.reward.header,%{name}を\n%{times}回特訓したため,%{name}を\n%{times}回特訓したため
+evolution.reward.header,%{name}を\n%{times}回特訓したため,%{name}\nwill Evolve %{times} times
 evolution.reward.getTitle,・特訓称号,・特訓称号
 evolution.reward.getVoiceHeader,・特訓ホームボイス,・特訓ホームボイス
 evolution.reward.footer,が解放されました。,が解放されました。
@@ -1118,8 +1118,8 @@ invitation.tweetComments.text,アイドルマスターシャイニーカラー�
 invitation.tweetComments.hashTag,"シャニマス,idolmaster","シャニマス,idolmaster"
 billedJewel,有償フェザージュエル,Paid Feather Jewel
 shop.salesItemText.2137,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！
-shop.exchangeCount,交換数,交換数
-shop.purchaseCount,購入数,購入数
+shop.exchangeCount,交換数,Exchange #
+shop.purchaseCount,購入数,Buy #
 shop.exchangeLimit,交換上限,Limit
 shop.purchaseLimit,購入上限,Limit
 shop.purchasedCountLabelText.skin,所持数,所持数
@@ -1139,10 +1139,10 @@ shop.smallTabTitles.gameEvent.ticket,チケット交換,Ticket Exchange
 shop.smallTabTitles.idolPiece.rainbow,虹,Rainbow
 shop.smallTabTitles.idolPiece.gold,金,Gold
 shop.smallTabTitles.idolPiece.silver,銀,Silver
-shop.emptyNotice.purchase,購入できる商品がありません,購入できる商品がありません
-shop.emptyNotice.exchange,交換できる商品がありません,交換できる商品がありません
-shop.trade.tradeConfirmation.title,交換確認,交換確認
-shop.trade.tradeConfirmation.message,以下のアイテムと\r「%{title}」を交換しますか？,以下のアイテムと\r「%{title}」を交換しますか？
+shop.emptyNotice.purchase,購入できる商品がありません,Nothing available for purchase
+shop.emptyNotice.exchange,交換できる商品がありません,There are no items available
+shop.trade.tradeConfirmation.title,交換確認,Confirm Exchange
+shop.trade.tradeConfirmation.message,以下のアイテムと\r「%{title}」を交換しますか？,Do you want to trade\r\n「%{title}」for the below item？
 shop.trade.tradeConfirmation.shortageMessage,「%{title}」の\r交換に必要なアイテムが不足しています,「%{title}」の\r交換に必要なアイテムが不足しています
 raidConcert.sharedPassiveSkillDialog.title,発動中のパッシブスキル,発動中のパッシブスキル
 raidConcert.chain.appealCommentRegExp,(?:[a-zA-Z＆]+[0-9.～〜最大]+倍|思い出)アピール,(?:[a-zA-Z＆]+[0-9.～〜最大]+倍|思い出)アピール
@@ -1358,7 +1358,7 @@ reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
 reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
 staffAssistEvent.eventDetailTitle,はづきさんアシスト中,Hazuki Assist
 staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,"Producer-san, how are you~?"
-staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving it to me~?"
+staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving me homemade goods~?"
 staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,Thank you very much♪\r\nIs it okay if I look inside~?
 staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,Is it a strawberry daifuku~、it looks really delicious♪\r\nWould you like to brew some tea、and join me~?
 staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~

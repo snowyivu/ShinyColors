@@ -15,8 +15,8 @@ W.I.N.G.編[True End 研修用],W.I.N.G. Run[True End Training]
 アイドル選択,Idol Selection
 得意ジャンル,Strong Genre
 選択中のアイドル,Selected Idol
-自己ベスト,Personal Best
-今期の記録,Current Term Record
+自己ベスト,Best Score
+今期の記録,This Score
 使用中のアイテムはありません,No Items in Use
 所持SP,SP Owned
 獲得方法,Obtain By
@@ -120,7 +120,7 @@ TrueEnd達成数,﻿True Ends Completed
 流行順位が高いジャンルは、そのジャンル\r担当審査員からの獲得スターが増加します。,If a judge's stat is a higher trend\rThat judge will give more stars
 流行の結果にあわせて、\nオーディションを受けてみてください♪,Based on the trend、\nYou should try auditioning♪
 スタミナを消費してプロデュースを開始しますか？,Start Producing and Consume Stamina?
-昇格ライン,Promotion Line
+昇格ライン,Promote Line
 残留ライン,Stay Line
 週,Weeks
 審査員,Judge
@@ -187,9 +187,9 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 アイドルランクS以上,Idol Rank S or Higher
 アイドルランクB以上,Idol Rank B or Higher
 アイドルランクA以上,Idol Rank A or Higher
-プロデューサー就任から,Since becoming a Producer
+プロデューサー就任から,Days Played
 日経過,Days Passed
-日記念まであと,Days Until Celebration
+日記念まであと,d To Next Reward
 お待たせしました~結果の発表です。,Sorry to make you wait~Time to announce the results.
 メンタル500以上\nシーズン4最終週のみ挑戦可能,Have 500 or higher Mental\nCan challenge on the last week of Season 4
 ミッション達成,Mission Success
