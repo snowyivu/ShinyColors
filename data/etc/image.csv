@@ -125,7 +125,7 @@ images/content/produce_auditions/banner/018.jpg,produce_auditions_banner_018.jpg
 images/content/produce_auditions/banner/011.jpg,produce_auditions_banner_011.jpg,5
 images/content/produce_auditions/banner/009.jpg,produce_auditions_banner_009.jpg,5
 images/content/produce_auditions/banner/012.jpg,produce_auditions_banner_012.jpg,5
-images/ui/produce_area/parts.json_image,produce_area_parts.png,1
+images/ui/produce_area/parts.json_image,produce_area_parts.png,2
 images/content/produces/banners/002.png,produces_banners_002.png,1
 images/ui/album/parts.json_image,album_parts.png,12
 images/ui/update_information/parts_new_idol.json_image,update_information.png,10
@@ -173,3 +173,4 @@ images/ui/raid_top/parts.json_image,raid_top.png,1
 images/ui/game_event/parts_button.json_image,game_event_button.png,1
 images/ui/raid_concert/parts.json_image,raid_concert.png,1
 images/ui/start/start_notice.jpg,start_notice.jpg,7
+images/ui/concert/parts.json_image,concert_parts.png,15
