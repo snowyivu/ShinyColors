@@ -220,7 +220,7 @@ concertResult.statusUp.message,+%{upPoint},+%{upPoint}
 copyright.title,コピーライト,Copyright
 copyright.holders.bne.title,権利表記,権利表記
 copyright.holders.bne.message,© 2018 BANDAI NAMCO Entertainment Inc.,© 2018 BANDAI NAMCO Entertainment Inc.
-countdown.season,シーズン%{seasonNum}終了まで,%{seasonNum} until season end
+countdown.season,シーズン%{seasonNum}終了まで,%{seasonNum} weeks left
 userDailyLottery.rewardPop.title,まいにちくじ抽選結果,まいにちくじ抽選結果
 userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～
@@ -830,9 +830,9 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_dance,グッドダンス,Goo
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュアル,Good Visual
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
-fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds：%{level}
-fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）
-fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）
+fanMeeting.helperSupportIdolFriendShipLevel,"アイドルの絆：%{level}","Idol Bonds%：{level}"
+fanMeeting.callHelperSupportIdol,（感謝祭の準備……\r\nちょっと人手が足りないみたいだったな……）,（感謝祭の準備……\r\nちょっと人手が足りないみたいだったな……）
+fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\r\n……誰がいいだろう……？）,（手伝いを頼めたらいいんだけど……\r\n……誰がいいだろう……？）
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Organization Limit
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません

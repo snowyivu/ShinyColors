@@ -18,14 +18,14 @@ $noun$num〜$num倍アピール,$1 $2〜$3x Appeal,
 全観客に$noun$num〜$num倍アピール,All Judges $1 $2〜$3x Appeal,
 アピールフェイズ開始時にメンタル$percent回復,Appeal Phase Start $1 Mental Recovery,
 アピールフェイズ開始時メンタル$percent回復,Appeal Phase Start $1 Mental Recovery,
-全ユニットの$noun$percentUP,All Units $1 $2UP,
-[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2UP],
+全ユニットの$noun$percentUP,All Units $1 $2 UP,
+[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2 UP],
 [PERFECTなら$num倍アピール],[On PERFECT $1x Appeal],
 全ユニットのメンタル$percent回復,All Units $1 Mental Recovery,
 $noun$num倍アピール,$1 $2x Appeal,
 全観客に$noun$num倍アピール,All Judges $1 $2x Appeal,
-$noun最大$num倍アピール,$1 최Large $2x Appeal,
-全観客に$noun最大$num倍アピール,All Judges $1 최Large $2x Appeal,
+$noun最大$num倍アピール,$1 Large $2x Appeal,
+全観客に$noun最大$num倍アピール,All Judges $1 Large $2x Appeal,
 $noun＆$noun$num倍アピール,$1＆$2 $3x Appeal,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
 [$numターン],[$1 Turn],
@@ -82,8 +82,8 @@ $noun上限,$1 Upper Limit,
 朝コミュ発生率,Morning Commu Rate,
 約束発生率,Promise Rate,
 $nounが$percentUPする効果,$1 Effect Increased $2,
-受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1UP,
-$nounが$percentDOWNする効果,$1 Effect Decreased $2DOWN,
+受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1 UP,
+$nounが$percentDOWNする効果,$1 Effect Decreased $2 DOWN,
 受ける$nounを$percentCUTする効果,$1 Received $2 CUT,
 思い出アピール,Memory Appeal,
 消費体力$num,Stamina Consumed $1,
@@ -137,10 +137,10 @@ Viレッスン,Vi Lesson,noun
 ごくごく稀,Extremely Extremely Rare,other
 ごく稀,Extremely Rare,other
 リンクアピール,Link Appeal,text
-メンタルダメージCUT,멘탈 데미지 CUT,text
+メンタルダメージCUT,Mental Damage CUT,text
 特定のアイドルイベントで解放,Unlocked by certain idol events,text
 特定のサポートイベントで解放,Unlocked by certain support events,text
-体力回復,체력 Recovery,text
+体力回復,Stamina Recovery,text
 体力が中回復,Stamina Medium Recovery,text
 テンションが中UP,Tension Medium UP,text
 親愛度が中UP,Affection Medium UP,text
