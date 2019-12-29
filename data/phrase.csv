@@ -16,7 +16,7 @@ ending.popReceiveProduceIdol.title,報酬受け取り,Receive Rewards
 ending.popReceiveProduceIdol.comment,以下の報酬を受け取りました,Received the rewards below
 trueEndTeachingEnding.receivePop.popTitle,True End研修達成,Complete True End Training
 trueEndTeachingEnding.receivePop.missionTitle,True End研修でTrue Endを達成しよう,Achieve a True End in True End Training
-trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,"Thanks for training~\r\nFor this Production, let's do our best\r\nOkay~"
+trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,Thanks for training~\r\nFor this Production、 let's do our best\r\nOkay~
 trueEndTeachingEnding.receivePop.rewardDetailText,True End研修達成報酬SSRプロデュースアイドルです,True End Training Reward SSR Produce Idol
 errorDialog.trueEndTeachingDuplicate,進行中のTrue End研修があるので\n開始できませんでした。\n一度True End研修を終了してから始めてください。,Could not start because there is already\r\na True End training.\r\nPlease finish the current training.
 gasha.skinRateDescription,衣装,Outfit
@@ -30,7 +30,7 @@ gasha.skinReplacement.message,すでに取得済の衣装は\n「%{name}」に�
 gasha.skinReplacement.possessionLabel,所持数,Owned
 header.trueEndTeachingProduceIdolSelect,プロデュースアイドル選択,Produce Idol Selection
 header.trueEndReport,研修レポート,Training Report
-loginBonus.christmasClerkComment.greeting,プロデューサーさん、メリークリスマス！\rこちらは今日のログインボーナスですよ,"Producer-san, Merry Christmas!\r\n Here's today's Login Bonus!"
+loginBonus.christmasClerkComment.greeting,プロデューサーさん、メリークリスマス！\rこちらは今日のログインボーナスですよ,Producer-san、 Merry Christmas!\r\n Here's today's Login Bonus!
 loginBonus.christmasClerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,You'll receive this tomorrow、so do your best~
 loginBonus.christmasClerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
 produceMain.supportSkillsDialog.title,発動中スキル,Active Skill
@@ -45,9 +45,9 @@ produceMain.supportSkillsDialog.placeTitle.photoWork,雑誌の撮影,Magazine Sh
 produceMain.supportSkillsDialog.placeTitle.audition,オーディション,Audition
 produceMain.supportSkillsDialog.placeTitle.none,その他,Other
 trueEndTeaching.objectivePopupTitle.season,シーズン%{seasonNum}目標,Season %{seasonNum} Goal
-trueEndTeaching.objectivePopupHadukiHint.season2,目標をすべて達成したら、次のシーズンを見据えて\nレッスンやお仕事を行いましょう♪,目標をすべて達成したら、次のシーズンを見据えて\nレッスンやお仕事を行いましょう♪
-trueEndTeaching.objectivePopupHadukiHint.season3,目標をすべて達成したら、W.I.N.G.へ向けて\nレッスンやお仕事を行いましょう♪,目標をすべて達成したら、W.I.N.G.へ向けて\nレッスンやお仕事を行いましょう♪
-trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得しましたか？,振り返りでスキルを習得しましたか？
+trueEndTeaching.objectivePopupHadukiHint.season2,目標をすべて達成したら、次のシーズンを見据えて\nレッスンやお仕事を行いましょう♪,If you've achieved all your goals、 let's do\r\nLessons and Work for next season♪
+trueEndTeaching.objectivePopupHadukiHint.season3,目標をすべて達成したら、W.I.N.G.へ向けて\nレッスンやお仕事を行いましょう♪,If you've achieved all your goals、 let's do\r\nLessons and aim for W.I.N.G.♪
+trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得しましたか？,Did you learn Skills in Reminisce?
 trueEndTeaching.allObjectiveClearedText,目標全てクリア,Clear all goals
 trueEndTeaching.auditionTipsTitle,おすすめオーディション,Recommended Audition
 trueEndTeaching.auditionTipsHadukiHintText,流行にも注目です〜♪　今週がチャンスですよ〜,Keep an eye on the trend〜♪ This is your chance~
@@ -394,7 +394,7 @@ fes.ranking.emptyNotice,現在ランキング集計中です,Current Rank
 fes.ranking.updateIntervalWarning,※最新のランキング反映までに時間がかかる場合があります,※Latest rankings may take some time to update
 fes.fesGradeRewardPop.title,グレードフェス報酬,Grade Fes Rewards
 fes.fesGradeRewardPop.gradeReward.title,所属グレード報酬について,Rewards for belonging to a Grade
-fes.fesGradeRewardPop.gradeReward.description,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。,"The rewards for the grade you are in are given at the same time as the ""Trend Update""\r\nAfter a grade update, your rewards will be sent to the gift box on the Fes screen.\r\nPlease note that you will only receive the rewards of your current grade."
+fes.fesGradeRewardPop.gradeReward.description,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。,"The rewards for the grade you are in are given at the same time as the ""Trend Update""\r\nAfter a grade update、 your rewards will be sent to the gift box on the Fes screen.\r\nPlease note that you will only receive the rewards of your current grade."
 fes.fesGradeRewardPop.gradeReward.colTitle1,所属グレード,Grade
 fes.fesGradeRewardPop.gradeReward.colTitle2,報酬内容,Rewards
 fes.fesGradeRewardPop.missionReward.title,初回昇格報酬について,First Promotion Reward Info
@@ -739,7 +739,7 @@ popJoinRecommend.textInvitation,招待機能を利用するには、enzaメン�
 popJoinRecommend.textTicketEntry,チケット応募にはenzaに登録する必要があります。,チケット応募にはenzaに登録する必要があります。
 popPaymentLimitation.title,年齢別購入限度額,Age Purchase Limit
 popPaymentLimitation.description,アプリ専用通貨等の購入には\n年齢別に限度額が設定されています。,アプリ専用通貨等の購入には\n年齢別に限度額が設定されています。
-popPaymentLimitation.limitations,"16歳未満　：　1ヶ月5,400円まで\r16歳～19歳　：　1ヶ月21,600円まで\r20歳以上　：　限度なし","16歳未満　：　1ヶ月5,400円まで\r16歳～19歳　：　1ヶ月21,600円まで\r20歳以上　：　限度なし"
+popPaymentLimitation.limitations,16歳未満　：　1ヶ月5、400円まで\r16歳～19歳　：　1ヶ月21、600円まで\r20歳以上　：　限度なし,16歳未満　：　1ヶ月5、400円まで\r16歳～19歳　：　1ヶ月21、600円まで\r20歳以上　：　限度なし
 present.headerTitle,プレゼント,Present
 present.noPresent.present,受け取れるプレゼントはありません,There are no presents to accept
 present.noPresent.history,受け取り済みのプレゼントはありません,You have not received any presents
@@ -945,11 +945,11 @@ training.resultTitleGreat,トレーニング大成功,Training Great Success
 trend.historyText,先週%{rank}位,Rank %{rank} Last Week
 trend.txtNextFan,あと  %{count}人,%{count} More
 tutorial.openingMessage.mes0,「アイドル」,「Idol」
-tutorial.openingMessage.mes1,それは,"That image, "
+tutorial.openingMessage.mes1,それは,That image、 
 tutorial.openingMessage.mes2,女の子達の永遠の憧れ,The eternal aspiration of young women
-tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,"However, only one group"
+tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,However、 only one group
 tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit...
-tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 19 Girls and"
+tutorial.openingMessage.mes6,そんなサバイバルな世界に,Now、 19 Girls and
 tutorial.openingMessage.mes7,今19人の女の子と,One Producer
 tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
 tutorial.openingMessage.mes9,足を踏み入れる！,World of Survival!
@@ -1115,7 +1115,7 @@ gasha.stepupTimes.step3,%{times}連ガシャ,%{times} Step Gacha
 gasha.stepupTimes.step4,%{times}連,Step %{times}
 idolPieceSimple,ピース,Piece
 invitation.tweetComments.text,アイドルマスターシャイニーカラーズ\rこの招待リンクからゲームを始めると１回ガシャチケットもらえる！,アイドルマスターシャイニーカラーズ\rこの招待リンクからゲームを始めると１回ガシャチケットもらえる！
-invitation.tweetComments.hashTag,"シャニマス,idolmaster","シャニマス,idolmaster"
+invitation.tweetComments.hashTag,シャニマス、idolmaster,シャニマス、idolmaster
 billedJewel,有償フェザージュエル,Paid Feather Jewel
 shop.salesItemText.2137,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！
 shop.exchangeCount,交換数,Exchange #
@@ -1205,11 +1205,11 @@ extraCampaign.application.applicationAgreementDialog.body.heading,「アイド�
 extraCampaign.application.applicationAgreementDialog.body.inquiry.descriptions.after,なお、抽選結果に関する個別のお問い合わせにはお答えしかねます。,なお、抽選結果に関する個別のお問い合わせにはお答えしかねます。
 extraCampaign.application.applicationAgreementDialog.body.inquiry.descriptions.before,下記よりお問い合わせください。,下記よりお問い合わせください。
 extraCampaign.application.applicationAgreementDialog.body.inquiry.title,お問い合わせ,お問い合わせ
-extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.1,"・リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』ステージ観覧応募（以下、本応募企画といいます）は株式会社バンダイナムコエンターテインメント（以下、当社といいます）が配信するenza対応ゲーム「アイドルマスター シャイニーカラーズ」（以下、本ゲームといいます）に関連して、以下に掲げる応募条件を満たして応募していただいたお客様の内、抽選で1,515名様を、リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』（以下、本イベントといいます）へご招待する応募企画となります。","・リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』ステージ観覧応募（以下、本応募企画といいます）は株式会社バンダイナムコエンターテインメント（以下、当社といいます）が配信するenza対応ゲーム「アイドルマスター シャイニーカラーズ」（以下、本ゲームといいます）に関連して、以下に掲げる応募条件を満たして応募していただいたお客様の内、抽選で1,515名様を、リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』（以下、本イベントといいます）へご招待する応募企画となります。"
+extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.1,・リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』ステージ観覧応募（以下、本応募企画といいます）は株式会社バンダイナムコエンターテインメント（以下、当社といいます）が配信するenza対応ゲーム「アイドルマスター シャイニーカラーズ」（以下、本ゲームといいます）に関連して、以下に掲げる応募条件を満たして応募していただいたお客様の内、抽選で1、515名様を、リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』（以下、本イベントといいます）へご招待する応募企画となります。,・リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』ステージ観覧応募（以下、本応募企画といいます）は株式会社バンダイナムコエンターテインメント（以下、当社といいます）が配信するenza対応ゲーム「アイドルマスター シャイニーカラーズ」（以下、本ゲームといいます）に関連して、以下に掲げる応募条件を満たして応募していただいたお客様の内、抽選で1、515名様を、リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』（以下、本イベントといいます）へご招待する応募企画となります。
 extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.2,・本応募企画は当社が実施するものであり、本ゲームを配信するストアの運営会社はその実施に関与していません。,・本応募企画は当社が実施するものであり、本ゲームを配信するストアの運営会社はその実施に関与していません。
 extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.3,・本イベントの性質上、本応募企画終了時点で満12歳に満たないお客様はご応募することが出来ません。予めご了承ください。,・本イベントの性質上、本応募企画終了時点で満12歳に満たないお客様はご応募することが出来ません。予めご了承ください。
 extraCampaign.application.applicationAgreementDialog.body.items.1.title,概要,概要
-extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.1,"A賞：リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』観覧席へのご招待：1,515名様","A賞：リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』観覧席へのご招待：1,515名様"
+extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.1,A賞：リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』観覧席へのご招待：1、515名様,A賞：リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』観覧席へのご招待：1、515名様
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.2,※本イベントの概要は以下となります。,※本イベントの概要は以下となります。
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.3,日時：2019年10月27日（日）開場17:00 / 開演18:00 （予定）,日時：2019年10月27日（日）開場17:00 / 開演18:00 （予定）
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.4,場所：森のホール21（松戸市文化会館）,場所：森のホール21（松戸市文化会館）
@@ -1357,8 +1357,8 @@ reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記�
 reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
 reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
 staffAssistEvent.eventDetailTitle,はづきさんアシスト中,Hazuki Assist
-staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,"Producer-san, how are you~?"
-staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving me homemade goods~?"
+staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,Producer-san、 how are you~?
+staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,Huh、 are you giving me homemade goods~?
 staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,Thank you very much♪\r\nIs it okay if I look inside~?
 staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,Is it a strawberry daifuku~、it looks really delicious♪\r\nWould you like to brew some tea、and join me~?
 staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~

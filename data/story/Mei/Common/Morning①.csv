@@ -1,7 +1,7 @@
 id,name,text,trans
-1019001000110010,愛依,あ～、マジありえないんだけど～,"Ah~, there's seriously no way~"
+1019001000110010,愛依,あ～、マジありえないんだけど～,Ah~、 there's seriously no way~
 0000000000000,プロデューサー,"愛依、浮かない顔をしているな
-どうしたんだ？","Mei, what's with the sad mood?"
+どうしたんだ？",Mei、 what's with the sad mood?
 1019001000110020,愛依,"学校でヤバい量の課題出されてさ～
 無理ゲーなんだよね～","We got way too much homework at school~
 It's like those unbeatable games~"
@@ -11,22 +11,22 @@ select,,"少しなら
 select,,"得意なものから
 やっていこう",Why don't you start with what you're good at?
 select,,"文句を言っても
-始まらないぞ","Complaining won't help, you know?"
+始まらないぞ",Complaining won't help、 you know?
 1019001000110030,愛依,"マジでマジで！？
-じゃあ、明日苦手なヤツ持ってくるわ～！","Wait, are you serious!?
-Then, I'll bring the subject I'm bad at tomorrow!"
+じゃあ、明日苦手なヤツ持ってくるわ～！","Wait、 are you serious!?
+Then、 I'll bring the subject I'm bad at tomorrow!"
 1019001000110040,愛依,ちょー助かるし！　サンキュね！　プロデューサー,"This totally helps!
-Hey, thank you, Producer!"
-0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+Hey、 thank you、 Producer!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright、 we had a fun discussion)
 1019001000110050,愛依,"得意なの～？
 あったかな～？","What I'm good at~?
 I wonder~?"
-1019001000110060,愛依,とりまそうするわ！,"Well, for now let's go with that!"
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1019001000110060,愛依,とりまそうするわ！,Well、 for now let's go with that!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,(Well、 we talked normally I guess)
 1019001000110070,愛依,"それはそうかもだけどさ～
 もうちょっと言い方あるくない？","That's true but~
 Did you have to say it that way?"
-1019001000110080,愛依,プロデューサーのイジワル～,"You're being mean, Producer~"
+1019001000110080,愛依,プロデューサーのイジワル～,You're being mean、 Producer~
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
 I should have said something else…)"
 info,produce_communications/101900100011.json,

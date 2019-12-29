@@ -26,13 +26,13 @@ SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha T
 スタミナが最大量の1/2回復します,Restores 1/2 of Max Stamina,text
 フェスの極意は、最後まで逆転を諦めないことだ,The secret of Fes is、don't give up until the end,text
 「その……会話ってどうすれば\n盛り上がるんでしょうか……？」,"""That... if you have a conversation\r\nCan excitement rise...?""",text
-「コミュニケーションは\n節度を持って、ですよ？」,"""Communication\r\nIn moderation, right?""",text
-初心にかえって研鑽を積み、羽ばたくんだ！,"Learn from the very beginning, and spread your wings!",text
-プロデューサーさん自慢の甘奈を、活躍させてほしいなっ☆,"I want Producer's prized Amana, to flourish☆",text
-ずっと、ずっと、お傍においてくださいませ……,"Forever and ever, please stay with me...",text
+「コミュニケーションは\n節度を持って、ですよ？」,"""Communication\r\nIn moderation、 right?""",text
+初心にかえって研鑽を積み、羽ばたくんだ！,Learn from the very beginning、 and spread your wings!,text
+プロデューサーさん自慢の甘奈を、活躍させてほしいなっ☆,I want Producer's prized Amana、 to flourish☆,text
+ずっと、ずっと、お傍においてくださいませ……,Forever and ever、 please stay with me...,text
 白い翼を持ったアイドルで、パラダイスを制することができるか？,Can a White-Wing idol conquer paradise?,text
-繰り返し限界を超え、絶対に折れない心を手に入れるんだ,"Go past the limit, and achieve a heart that never breaks.",text
-ねえねえ、プロデューサー！ なんだかトップアイドルになれそうな気がするよー！,"Hey hey, Producer!  I somehow feel like I can become a top idol-!",text
+繰り返し限界を超え、絶対に折れない心を手に入れるんだ,Go past the limit、 and achieve a heart that never breaks.,text
+ねえねえ、プロデューサー！ なんだかトップアイドルになれそうな気がするよー！,Hey hey、 Producer!  I somehow feel like I can become a top idol-!,text
 限界を超えればまた限界がやってくる。くじけずに歌い続けるのだ,If you exceed your limit you'll find a new limit.  Keep singing without faltering.,text
 パラダイスを制する……魅惑的な響きだと思わないか？,Conquering Paradise... Don't you think that sounds fascinating?,text
 「光り輝くアイドルの誕生だ」,「The birth of a Shining Idol」,text
@@ -128,20 +128,20 @@ $nounに参加して、$nounを達成しよう,Join $1、and earn $2,exp
 $nounに参加して、$nounを$num回達成しよう,Join $1 and earn $2 $3 times,exp
 「$noun」：アピールメーターを$nounの位置で止める,「$1」：Stop the appeal meter at $2,exp
 「$noun」：$num人の$nounから$nounと$nounを獲得する,「$1」：Get $4 and $5 from $2's $3,exp
-$noun以上の$nounに参加して、$nounを$num回達成しよう,"Join $1 or above $2, and earn $3 $4 times",exp
-$nounに参加して、$num位になろう,"Participate in $1, and earn $2 place",exp
-$noun以上の$nounに参加して、$num位になろう,"Participate in $1 $2 or above, and earn $3 place",exp
-$nounの$nounに参加して、$num位になろう,"Participate in $1's $2, and earn $3 place",exp
+$noun以上の$nounに参加して、$nounを$num回達成しよう,Join $1 or above $2、 and earn $3 $4 times,exp
+$nounに参加して、$num位になろう,Participate in $1、 and earn $2 place,exp
+$noun以上の$nounに参加して、$num位になろう,Participate in $1 $2 or above、 and earn $3 place,exp
+$nounの$nounに参加して、$num位になろう,Participate in $1's $2、 and earn $3 place,exp
 【$note】$nounの$nounに参加して、$num位に$num回なろう,【$1】Participate in $1's $2 and earn $3 place $4 times,exp
 $nounの$nounに参加して、$num位以上になろう,Join $1's $2 and earn rank $3 or above,exp
-$noun全員を編成して、$noun以上の$nounに参加しよう,"With all members of $1, participate in $2 or above $3",exp
-$noun全員を編成して、$noun以上の$nounに$num回参加しよう,"With all members of $1, participate in $2 or above $3 $4 times",exp
-$noun全員を編成して、$nounで$num位になろう,"With all members of $1, earn rank $3 at $2",exp
-$noun全員を編成して、$nounで$num位に$num回なろう,"With all members of $1, earn rank $3 at $2 $4 times",exp
-$noun全員を編成して、$noun以上の$nounで$num位になろう,"With all members of $1, earn rank $4 in $2 or above $3",exp
-$noun全員を編成して、$noun以上の$nounで$nounを達成しよう,"With all members of $1, achieve $4 in $2 or above $3",exp
-$noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,"With all members of $1, achieve $4 in $2 or above $3 $5 times",exp
-【$note】$noun全員を編成して、$nounの$nounで$num位になろう,"【$1】With all members of $2, earn rank $5 in $3's $4",exp
+$noun全員を編成して、$noun以上の$nounに参加しよう,With all members of $1、 participate in $2 or above $3,exp
+$noun全員を編成して、$noun以上の$nounに$num回参加しよう,With all members of $1、 participate in $2 or above $3 $4 times,exp
+$noun全員を編成して、$nounで$num位になろう,With all members of $1、 earn rank $3 at $2,exp
+$noun全員を編成して、$nounで$num位に$num回なろう,With all members of $1、 earn rank $3 at $2 $4 times,exp
+$noun全員を編成して、$noun以上の$nounで$num位になろう,With all members of $1、 earn rank $4 in $2 or above $3,exp
+$noun全員を編成して、$noun以上の$nounで$nounを達成しよう,With all members of $1、 achieve $4 in $2 or above $3,exp
+$noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,With all members of $1、 achieve $4 in $2 or above $3 $5 times,exp
+【$note】$noun全員を編成して、$nounの$nounで$num位になろう,【$1】With all members of $2、 earn rank $5 in $3's $4,exp
 $nameのファンを累計で$num人獲得しよう,Earn $2 total fans for $1,exp
 $nameのファンを累計で$num万人獲得しよう,Earn $20000 total fans for $1,exp
 $nameのファンを累計で$num億人獲得しよう,Earn $200000000 total fans for $1,exp
@@ -160,13 +160,13 @@ $nounのメンバーを全員入れたデッキでフェスアイドルを誕生
 シーズン$numをクリアしよう,Clear Season $1,exp
 $nameのフェスアイドルを誕生させよう,Create a $1 Fes Idol,exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$num,exp
-センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
+センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,With $1 as a Center、 join $2 or above $3 and achieve 「$4」,exp
 $nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,"$1's unit has achieved\r\n""$2"" against powerful rivals",exp
 $nameのTrueEndを見よう,Reach $1's True End,exp
 【$unknown】$nameのTrueEndを見よう,Reach【$1】$2's True End,exp
 $nameの「$noun」「$noun」「$noun」を全てクリアしよう,Clear $1's 「$2」「$3」and 「$4」,exp
 $noun以上のフェスアイドルを誕生させよう,Create a Fes Idol of $1 or higher,exp
-センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
+センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,With $1 as a Center、 join $2 or above $3 and achieve 「$4」,exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$1,exp
 $nameをプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
 $nameプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
