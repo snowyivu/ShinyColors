@@ -19,8 +19,8 @@ Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend
 5. Refresh the game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
-<img src="data/image/MobileInstallTutorial1.jpg" alt="Click the ...">
-<img src="data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen">
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial1.jpg" alt="Click the ...">
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen">
 
 **Machine translation**
 
