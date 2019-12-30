@@ -15,10 +15,12 @@ Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend
 1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
 2. (Return to this page on your new browser)
 3. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension
-4. You will probably also want to use [Full Screen Button](https://chrome.google.com/webstore/detail/full-screen-button/iokdoigdonjidoklkaonhielnkamibnp) extension to remove the sidebar while playing
-5. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
-6. Refresh the game page and the patch should work automatically
+4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
+5. Refresh the game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
+6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
+<img src="data/image/MobileInstallTutorial1.jpg" alt="Click the ...">
+<img src="data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen">
 
 **Machine translation**
 
