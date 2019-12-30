@@ -162,8 +162,8 @@ common.horizontalEllipsis,...,...
 common.selectPaymentMethodTitle,決済方法選択,Select Payment Method
 common.exchangeItemForAlbum,アルバムの鍵,Album Key
 common.gaugeNumberMessage,%{progress}/%{progressMax},%{progress}/%{progressMax}
-common.leftBracket,【,【
-common.rightBracket,】,】
+common.leftBracket,【,
+common.rightBracket,】,
 common.bulletPoint,・,・
 common.useItemToReleaseSomething,%{itemName}を使用して\r%{releasedThingName}を解放しました,Use %{itemName} to\r\nunlock %{releasedThingName}
 common.commu,コミュ,Commu
