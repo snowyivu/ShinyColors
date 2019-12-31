@@ -140,25 +140,25 @@ Viレッスン,Vi Lesson,noun
 メンタルダメージCUT,Mental Damage CUT,text
 特定のアイドルイベントで解放,Unlocked by certain idol events,text
 特定のサポートイベントで解放,Unlocked by certain support events,text
-体力回復,Stamina Recovery,text
-体力が中回復,Stamina Medium Recovery,text
-テンションが中UP,Tension Medium UP,text
-親愛度が中UP,Affection Medium UP,text
-体力が大回復,Stamina Large Recovery,text
-テンションが大UP,Tension Large UP,text
-親愛度が大UP,Affection Large UP,text
-体力が特大回復,Stamina Extra Large Recovery,text
-テンションが特大UP,Tension Extra Large UP,text
-親愛度が特大UP,Affection Extra Large UP,text
-体力が小回復,Stamina Small Recovery,text
-テンションが小UP,Tension Small UP,text
-親愛度が小UP,Affection Small UP,text
-リハ流行Vo,Rehearsal Trend Vo,text
-リハ流行Da,Rehearsal Trend Da,text
-リハ流行Vi,Rehearsal Trend Vi,text
-本番流行Vo,Performance Trend Vo,text
-本番流行Da,Performance Trend Da,text
-本番流行Vi,Performance Trend Vi,text
+体力回復,Stam Heal,text
+体力が中回復,Stam Med Heal,text
+テンションが中UP,Tension Med UP,text
+親愛度が中UP,Trust Med UP,text
+体力が大回復,Stam Lg Heal,text
+テンションが大UP,Tension Lg UP,text
+親愛度が大UP,Trust Lg UP,text
+体力が特大回復,Stam Super Heal,text
+テンションが特大UP,Tension Super UP,text
+親愛度が特大UP,Trust Super UP,text
+体力が小回復,Stam Sm Heal,text
+テンションが小UP,Tension Sm UP,text
+親愛度が小UP,Trust Sm UP,text
+リハ流行Vo,Prep Vo1,text
+リハ流行Da,Prep Da1,text
+リハ流行Vi,Prep Vi1,text
+本番流行Vo,Live Vo1,text
+本番流行Da,Live Da1,text
+本番流行Vi,Live Vi1,text
 全アイドルと七草はづきの絆UP,Increase Bonds of all Idols and Hazuki,text
 限定スキル解放,Unlock Limited Skill,text
 審査員スキル,Judge Skill,text

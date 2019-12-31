@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,樹里、髪をいじってどうかしたのか？,Juri、 why are you playing with your hair?
+1011001000110010,樹里,"いや、最近、髪伸びてきたんだけどさ、
+アイドルになったわけだし、髪型も考えないとなって","Well、 my hair's been growing、
+and ever since I became an idol、 I gotta be aware of my hairstyle."
+1011001000110020,樹里,……どうすりゃいいと思う？,...Whatcha think should do?
+0000000000000,プロデューサー,樹里の髪型か……,Juri's hairstyle、 huh...
+select,,"短い方が、
+樹里らしいかもな","Short hair seems
+more like you"
+select,,"今の髪型も
+似合ってるぞ？","Current hairstyle
+suits you too"
+select,,"髪を伸ばしても
+良いかもな","Long hair sounds
+pretty good"
+1011001000110030,樹里,"アンタもそう思う？
+やっぱ、アタシはショートだよな","You think so too? 
+I know that I'm better with short hair."
+1011001000110040,樹里,"じゃあ、意見は同じってことで髪はカットするよ
+相談乗ってくれて、ありがとな！","I'll cut my hair since we have the same opinion.
+Thanks for the input!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright、 we had a fun discussion)
+1011001000110050,樹里,"へへ、そうか？
+今の髪型は長すぎる気がしてたんだけどな……","Heh、 really?
+I thought it's getting too long..."
+1011001000110060,樹里,ま、アンタがそう言うなら、しばらくこのままにしとくか,"If you said so、 I guess I'll leave it like that for now.
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,(Well、 we talked normally I guess)
+1011001000110070,樹里,"はぁ？　髪を伸ばすなんてアタシには似合わねーよ
+それに動きにくそうだし……","What? Long hair doesn't suit me at all.
+Plus、 it's difficult to move in it...
+"
+1011001000110080,樹里,ま、まぁ、いつか試してもいいかもな……,W-well、 I guess I can try that some other time...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101100100011.json,
+译者,,
