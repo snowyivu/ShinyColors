@@ -196,16 +196,16 @@ concert.judgeDetailDialog.titles.judge.visual,Visual審査員,Visual Judge
 concert.judgeDetailDialog.titles.instructor.vocal,Vocalコーチ,Vocal Coach
 concert.judgeDetailDialog.titles.instructor.dance,Danceコーチ,Dance Coach
 concert.judgeDetailDialog.titles.instructor.visual,Visualコーチ,Visual Coach
-concert.judgeDetailDialog.titles.fan.vocal,Vocal重視の観客,Vocal重視の観客
-concert.judgeDetailDialog.titles.fan.dance,Dance重視の観客,Dance重視の観客
-concert.judgeDetailDialog.titles.fan.visual,Visual重視の観客,Visual重視の観客
+concert.judgeDetailDialog.titles.fan.vocal,Vocal重視の観客,Vocal Audience
+concert.judgeDetailDialog.titles.fan.dance,Dance重視の観客,Dance Audience
+concert.judgeDetailDialog.titles.fan.visual,Visual重視の観客,Visual Audience
 concert.judgeDetailDialog.titles.audience.vocal,Vocalステージの観客,Vocal Stage's Judge
 concert.judgeDetailDialog.titles.audience.dance,Danceステージの観客,Dance Stage's Judge
 concert.judgeDetailDialog.titles.audience.visual,Visualステージの観客,Visual Stage's Judge
 concert.judgeDetailDialog.titles.audience.all,Centerステージの観客,Center Stage's Judge
 concert.judgeDetailDialog.titles.judge,%{attribute}審査員,%{attribute} Judge
 concert.judgeDetailDialog.titles.instructor,%{attribute}コーチ,%{attribute} Coach
-concert.judgeDetailDialog.titles.fan,%{attribute}重視の観客,%{attribute}重視の観客
+concert.judgeDetailDialog.titles.fan,%{attribute}重視の観客,%{attribute} Audience
 concert.playerIdol.retire,Retire,Retire
 concert.produceIdolComment,私の歌、届け！,私の歌、届け！
 concert.pauseDialog.produceSkill,プロデュースアイドル所持スキル,Produce Idol's Skills
@@ -220,7 +220,7 @@ concertResult.statusUp.message,+%{upPoint},+%{upPoint}
 copyright.title,コピーライト,Copyright
 copyright.holders.bne.title,権利表記,権利表記
 copyright.holders.bne.message,© 2018 BANDAI NAMCO Entertainment Inc.,© 2018 BANDAI NAMCO Entertainment Inc.
-countdown.season,シーズン%{seasonNum}終了まで,%{seasonNum} weeks left
+countdown.season,シーズン%{seasonNum}終了まで,Season %{seasonNum} Ends In
 userDailyLottery.rewardPop.title,まいにちくじ抽選結果,まいにちくじ抽選結果
 userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～
@@ -831,8 +831,8 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュア
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
 fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds：%{level}
-fanMeeting.callHelperSupportIdol,（感謝祭の準備……\r\nちょっと人手が足りないみたいだったな……）,（感謝祭の準備……\r\nちょっと人手が足りないみたいだったな……）
-fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\r\n……誰がいいだろう……？）,（手伝いを頼めたらいいんだけど……\r\n……誰がいいだろう……？）
+fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）
+fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Organization Limit
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません
