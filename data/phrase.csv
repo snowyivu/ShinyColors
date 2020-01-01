@@ -16,13 +16,13 @@ ending.popReceiveProduceIdol.title,報酬受け取り,Receive Rewards
 ending.popReceiveProduceIdol.comment,以下の報酬を受け取りました,Received the rewards below
 trueEndTeachingEnding.receivePop.popTitle,True End研修達成,Complete True End Training
 trueEndTeachingEnding.receivePop.missionTitle,True End研修でTrue Endを達成しよう,Achieve a True End in True End Training
-trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,Thanks for training~\r\nFor this Production、 let's do our best\r\nOkay~
+trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,"Thanks for training~\r\nFor this Production, let's do our best\r\nOkay~"
 trueEndTeachingEnding.receivePop.rewardDetailText,True End研修達成報酬SSRプロデュースアイドルです,True End Training Reward SSR Produce Idol
 errorDialog.trueEndTeachingDuplicate,進行中のTrue End研修があるので\n開始できませんでした。\n一度True End研修を終了してから始めてください。,Could not start because there is already\r\na True End training.\r\nPlease finish the current training.
 gasha.skinRateDescription,衣装,Outfit
 gasha.skinFixSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
 gasha.skinFixSubtitleIdol,衣装確定の衣装一覧,Guaranteed Outfit Costume List
-gasha.normalWithSkinSubtitleIdol,通常ガシャの提供アイドル、衣装一覧,Regular Gacha Idols、 Outfit List
+gasha.normalWithSkinSubtitleIdol,通常ガシャの提供アイドル、衣装一覧,"Regular Gacha Idols, Outfit List"
 gasha.gashaHistory.skinGashaName,「%{name}」で獲得した衣装です。,Received an outfit for「%{name}」
 gasha.gashaHistory.replacedWithTicket,すでに所持していたため「%{name}」と交換しました。,Replaced with「%{name}」since it was already owned。
 gasha.skinReplacement.title,確認,Confirm
@@ -30,8 +30,8 @@ gasha.skinReplacement.message,すでに取得済の衣装は\n「%{name}」に�
 gasha.skinReplacement.possessionLabel,所持数,Owned
 header.trueEndTeachingProduceIdolSelect,プロデュースアイドル選択,Produce Idol Selection
 header.trueEndReport,研修レポート,Training Report
-loginBonus.christmasClerkComment.greeting,プロデューサーさん、メリークリスマス！\rこちらは今日のログインボーナスですよ,Producer-san、 Merry Christmas!\r\n Here's today's Login Bonus!
-loginBonus.christmasClerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,You'll receive this tomorrow、so do your best~
+loginBonus.christmasClerkComment.greeting,プロデューサーさん、メリークリスマス！\rこちらは今日のログインボーナスですよ,"Producer-san, Merry Christmas!\r\n Here's today's Login Bonus!"
+loginBonus.christmasClerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best~"
 loginBonus.christmasClerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
 produceMain.supportSkillsDialog.title,発動中スキル,Active Skill
 produceMain.supportSkillsDialog.noSkill,発動中のサポートスキルはありません,No active support skills
@@ -45,8 +45,8 @@ produceMain.supportSkillsDialog.placeTitle.photoWork,雑誌の撮影,Magazine Sh
 produceMain.supportSkillsDialog.placeTitle.audition,オーディション,Audition
 produceMain.supportSkillsDialog.placeTitle.none,その他,Other
 trueEndTeaching.objectivePopupTitle.season,シーズン%{seasonNum}目標,Season %{seasonNum} Goal
-trueEndTeaching.objectivePopupHadukiHint.season2,目標をすべて達成したら、次のシーズンを見据えて\nレッスンやお仕事を行いましょう♪,If you've achieved all your goals、 let's do\r\nLessons and Work for next season♪
-trueEndTeaching.objectivePopupHadukiHint.season3,目標をすべて達成したら、W.I.N.G.へ向けて\nレッスンやお仕事を行いましょう♪,If you've achieved all your goals、 let's do\r\nLessons and aim for W.I.N.G.♪
+trueEndTeaching.objectivePopupHadukiHint.season2,目標をすべて達成したら、次のシーズンを見据えて\nレッスンやお仕事を行いましょう♪,"If you've achieved all your goals, let's do\r\nLessons and Work for next season♪"
+trueEndTeaching.objectivePopupHadukiHint.season3,目標をすべて達成したら、W.I.N.G.へ向けて\nレッスンやお仕事を行いましょう♪,"If you've achieved all your goals, let's do\r\nLessons and aim for W.I.N.G.♪"
 trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得しましたか？,Did you learn Skills in Reminisce?
 trueEndTeaching.allObjectiveClearedText,目標全てクリア,Clear all goals
 trueEndTeaching.auditionTipsTitle,おすすめオーディション,Recommended Audition
@@ -312,7 +312,7 @@ exchangeItem.communicationRelease.original,アルバムの鍵,Album Key
 exchangeItem.businessMotivationItem.original,差し入れアイテム,Handmade Goods 
 exchangeItem.businessMotivationItem.simple,差し入れアイテム,Handmade Goods 
 gameEventPoint,イベントpt,Event Pt
-idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,Ah、Producer-san、you came to meet the idols. 
+idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah,Producer-san,you came to meet the idols. "
 idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,Everyone's been waiting for you Producer~
 idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～
 idolPortal.staffComment4,トレーニングでアイドルを成長させましょう,トレーニングでアイドルを成長させましょう
@@ -385,16 +385,16 @@ fes.result.scoreDetail.finalScore,総合スコア,Total Score
 fes.fesGradeEvaluationReward.title,報酬内容,Rewards
 fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,以下のアイテムがプレゼントに送られました
 fes.fesGradeEvaluationReward.itemNameNum,%{type} ×%{num},%{type} ×%{num}
-fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,Congratulations on reaching Grade Lv%{gradeId} for the first time、\r\n Don't forget to grab your mission reward♪
+fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,"Congratulations on reaching Grade Lv%{gradeId} for the first time,\r\n Don't forget to grab your mission reward♪"
 fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,Your grade went up. \r\nNice job Producer♪
-fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,You kept your Grade、good luck this time. \r\nI'll be rooting for you♪
+fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,"You kept your Grade,good luck this time. \r\nI'll be rooting for you♪"
 fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,You're now Grade Lv%{gradeId}\r\n Let's aim for a Grade Up this time. 
 fes.ranking.score,%{score}pt,%{score}pt
 fes.ranking.emptyNotice,現在ランキング集計中です,Current Rank
 fes.ranking.updateIntervalWarning,※最新のランキング反映までに時間がかかる場合があります,※Latest rankings may take some time to update
 fes.fesGradeRewardPop.title,グレードフェス報酬,Grade Fes Rewards
 fes.fesGradeRewardPop.gradeReward.title,所属グレード報酬について,Rewards for belonging to a Grade
-fes.fesGradeRewardPop.gradeReward.description,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。,"The rewards for the grade you are in are given at the same time as the ""Trend Update""\r\nAfter a grade update、 your rewards will be sent to the gift box on the Fes screen.\r\nPlease note that you will only receive the rewards of your current grade."
+fes.fesGradeRewardPop.gradeReward.description,所属グレードは基本的に「フェス流行の更新」と同じタイミングで更新されます。\rグレード更新後、フェス画面にて所属グレード報酬がプレゼントに送られます。\r最新の所属グレード以外の報酬は受け取ることができませんので、ご注意ください。,"The rewards for the grade you are in are given at the same time as the ""Trend Update""\r\nAfter a grade update, your rewards will be sent to the gift box on the Fes screen.\r\nPlease note that you will only receive the rewards of your current grade."
 fes.fesGradeRewardPop.gradeReward.colTitle1,所属グレード,Grade
 fes.fesGradeRewardPop.gradeReward.colTitle2,報酬内容,Rewards
 fes.fesGradeRewardPop.missionReward.title,初回昇格報酬について,First Promotion Reward Info
@@ -598,8 +598,8 @@ homeDeck.emptyBackGroundEffectName,なし,Nothing
 judgeTrend.bonusValue,★%{value}倍,★%{value}x
 landscapeDialog.title,画面の向きについて,画面の向きについて
 landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,このゲームは画面を横向きにして\rお楽しみください。
-loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,Producer、this is today's login bonus!
-loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,You'll receive this tomorrow、so do your best~
+loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer,this is today's login bonus!"
+loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best~"
 loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
 loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,ただいま外出中です。ログインボーナスはこちらに置いておきます
 loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,明日のログインボーナスも、忘れずに確認してください
@@ -920,8 +920,8 @@ skin,衣装,Outfit
 skinExchange.headerTitle,衣装ショップ,Outfit Shop 
 skinExchange.noMerchandiseNotice,交換できる衣装がありません。,There are no exchangeable outfits.
 skinExchange.shop.possessionMarkCaption,所持数,Num Owned
-skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,This costume only changes the regular outfit、live outfit is not affected.
-skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,This costume only changes the live outfit、regular outfit is not affected.
+skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,"This costume only changes the regular outfit,live outfit is not affected."
+skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit,regular outfit is not affected."
 skinKind.plain,私服衣装,Regular Outfit
 skinKind.concert,ライブ衣装,Live Outfit
 specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Replay
@@ -945,11 +945,11 @@ training.resultTitleGreat,トレーニング大成功,Training Great Success
 trend.historyText,先週%{rank}位,Rank %{rank} Last Week
 trend.txtNextFan,あと  %{count}人,%{count} More
 tutorial.openingMessage.mes0,「アイドル」,「Idol」
-tutorial.openingMessage.mes1,それは,That image、 
+tutorial.openingMessage.mes1,それは,"That image, "
 tutorial.openingMessage.mes2,女の子達の永遠の憧れ,The eternal aspiration of young women
-tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,However、 only one group
+tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,"However, only one group"
 tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit...
-tutorial.openingMessage.mes6,そんなサバイバルな世界に,Now、 19 Girls and
+tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 19 Girls and"
 tutorial.openingMessage.mes7,今19人の女の子と,One Producer
 tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
 tutorial.openingMessage.mes9,足を踏み入れる！,World of Survival!
@@ -1115,7 +1115,7 @@ gasha.stepupTimes.step3,%{times}連ガシャ,%{times} Step Gacha
 gasha.stepupTimes.step4,%{times}連,Step %{times}
 idolPieceSimple,ピース,Piece
 invitation.tweetComments.text,アイドルマスターシャイニーカラーズ\rこの招待リンクからゲームを始めると１回ガシャチケットもらえる！,アイドルマスターシャイニーカラーズ\rこの招待リンクからゲームを始めると１回ガシャチケットもらえる！
-invitation.tweetComments.hashTag,シャニマス、idolmaster,シャニマス、idolmaster
+invitation.tweetComments.hashTag,シャニマス、idolmaster,"シャニマス,idolmaster"
 billedJewel,有償フェザージュエル,Paid Feather Jewel
 shop.salesItemText.2137,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！,お一人様1つ限定！\n「初夏の晴れやか記念10連ガシャチケット×1」に「初夏の晴れやか記念P-SRアイドル確定ガシャチケット×1」がついたお得なパッケージです！
 shop.exchangeCount,交換数,Exchange #
@@ -1357,12 +1357,12 @@ reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記�
 reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
 reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
 staffAssistEvent.eventDetailTitle,はづきさんアシスト中,Hazuki Assist
-staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,Producer-san、 how are you~?
-staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,Huh、 are you giving me homemade goods~?
+staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,"Producer-san, how are you~?"
+staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving me homemade goods~?"
 staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,Thank you very much♪\r\nIs it okay if I look inside~?
-staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,Is it a strawberry daifuku~、it looks really delicious♪\r\nWould you like to brew some tea、and join me~?
+staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,"Is it a strawberry daifuku~,it looks really delicious♪\r\nWould you like to brew some tea,and join me~?"
 staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~
-staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,Is it chocolate~、they say that it's good for fatigue♪\r\nI'm going to eat it right away~
+staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,"Is it chocolate~,they say that it's good for fatigue♪\r\nI'm going to eat it right away~"
 staffAssistEvent.workHard,頑張っちゃいますよ～♪,Do your best～♪
 staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~...
 shop.applyCampaignConfirmation.notices.1,購入前に必ず応募規約をお読みください,購入前に必ず応募規約をお読みください
@@ -1373,8 +1373,8 @@ shop.monthLimit,%{limit}/月,%{limit}/Month
 shop.packageDialog.itemNameAndNum,%{name} × %{num},%{name} × %{num}
 shop.packageDialog.noticeLimitText,【有効期限】%{expireDate},【Expires】%{expireDate}
 shop.smallTabTitles.money.all,ALL,ALL
-skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、\r私服衣装は変更されません。,This costume only changes the live outfit、regular outfit is not affected.
-skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、\rライブ衣装は変更されません。,This costume only changes the regular outfit、live outfit is not affected.
+skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、\r私服衣装は変更されません。,"This costume only changes the live outfit,regular outfit is not affected."
+skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、\rライブ衣装は変更されません。,"This costume only changes the regular outfit,live outfit is not affected."
 training.resultTitleSuper,トレーニング超成功,ULTRA Training Success
 training.successType.great,大成功,Great Success
 training.successType.super,超成功,ULTRA Success
