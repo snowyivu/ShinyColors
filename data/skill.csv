@@ -101,6 +101,7 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
+興味無視,Ignore Judge Interest,
 Dance,Dance,noun
 Vocal,Vocal,noun
 Visual,Visual,noun

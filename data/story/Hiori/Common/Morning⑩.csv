@@ -1,0 +1,32 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お、アイドル雑誌を読んでるのか
+あいかわらず研究熱心だな","Oh, you're reading an idol magazine?
+You love studying as usual."
+1002001001010010,灯織,"ええ。インタビュー記事を読んでいたんですが、
+みんな肌や髪のケアをしているようで……","Yes. I was reading an interview, and everyone was talking about taking care of their skin and hair……"
+1002001001010020,灯織,"私も、もっと美容について気を使ったほうが
+いいでしょうか？",Should I pay more attention to my appearance too?
+0000000000000,プロデューサー,（美容か……そうだな）,(Her appearance…… Let's see)
+select,,"スタイリストに
+相談しよう","Let's talk to
+a stylist"
+select,,一緒に勉強しよう,"Let's study
+it together"
+select,,必要ないだろう,"There's no
+need to"
+1002001001010030,灯織,"はい、やるならきちんとケアしないといけませんし……
+トップアイドルを目指す以上、妥協はできません","Right, if I'm doing it then I need to take care of it properly…… I can't compromise while aiming for top idol."
+1002001001010040,灯織,プロデューサー、よろしくお願いします,"Producer, I'll be counting on you"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001001010050,灯織,"ありがたいですが、男性と女性では
+やはり違うと思いますので……","I'm grateful, but I think that men and women have different ways of doing things……"
+1002001001010060,灯織,……必要があれば、頼らせてもらいますから,……
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001001010070,灯織,"そうでしょうか
+より綺麗になったほうがいいと思いますが……",Are you sure? I think it's better to become prettier……
+1002001001010080,灯織,"プロデューサーがそう判断するなら、
+控えておきます","If that's your decision, I'll refrain from doing so."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/100200100101.json,
+译者,,

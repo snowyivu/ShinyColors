@@ -1,0 +1,29 @@
+id,name,text,trans
+1002001001110010,灯織,おはようございます、プロデューサー,"Good Morning, Producer."
+0000000000000,プロデューサー,"ああ、おはよう……ってなんだ？
+その大きな箱は","Yeah, Good Morning…… Wait, what's that big box?"
+1002001001110020,灯織,"社長が美味しいアイスを買ってきてくれたそうです
+どれがいいですか？",It seems the President bought us some delicious ice cream. Which do you think is good?
+0000000000000,プロデューサー,そうなのか。じゃあ俺は……,Oh really? Then I'll pick……
+select,,抹茶アイス！,"Matcha
+ice cream!"
+select,,バニラアイス！,"Vanilla
+ice cream!"
+select,,イチゴアイス！,"Strawberry
+ice cream!"
+1002001001110030,灯織,"プロデューサーも、抹茶が好きなんですか？
+私も食べようと思っていたんです",You like Matcha flavor too? I also wanted to eat some.
+1002001001110040,灯織,"ちょうどふたつありますから、
+一緒にいただきましょう","I have just two of them, so let's eat it together."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001001110050,灯織,バニラアイスですか……王道もいいですよね,Vanilla ice cream…… Simple is good too.
+1002001001110060,灯織,"それじゃあ、プロデューサーの分のスプーンも
+用意してきますね",Let me go get your spoon.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001001110070,灯織,イチゴ、ですか……,Strawberry……
+1002001001110080,灯織,"それはちょうど社長が欲しいと言っていた味で……
+どうしましょう",The President said he wanted that flavor…… What should I do?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/100200100111.json,
+译者,,
