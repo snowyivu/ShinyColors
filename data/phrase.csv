@@ -88,10 +88,10 @@ selectablePresentRewardPop.text,以下のアイテムがプレゼントBOXに送
 checkin.successDialog.title,チェックイン成功,Check-in Success
 checkin.successDialog.message,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました
 checkin.attention,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n
-availableInform.title,アイテム有効期限のお知らせ,アイテム有効期限のお知らせ
-availableInform.description,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります
+availableInform.title,アイテム有効期限のお知らせ,Item Expiration Notice
+availableInform.description,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります,Expiring on                                \r\n%{contentName} will no longer be\r\n available after the\r\nexpiration date. 
 availableInform.remainTime,あと%{remainTime},%{remainTime} left
-achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
+achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,These items have been sent to the present box. 
 achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
 beginnerMission.headerTitle,初心者ミッション,Beginner Mission
 beginnerMission.detailPopTitle,初心者ミッション詳細,Beginner Mission Details
@@ -169,7 +169,7 @@ common.useItemToReleaseSomething,%{itemName}を使用して\r%{releasedThingName
 common.commu,コミュ,Commu
 common.voice,ボイス,Voice
 common.nicknameChangedForRanking.title,ご案内,Tips
-common.nicknameChangedForRanking.message,ランキング上の表示は\r次回集計時に反映されます,ランキング上の表示は\r次回集計時に反映されます
+common.nicknameChangedForRanking.message,ランキング上の表示は\r次回集計時に反映されます,Your display name will reflect\r\nin Rankings after the next update. 
 common.recoveryItem,回復アイテム,Recovery Item
 common.enhancementItem,トレーニングチケット,Training Ticket
 common.gashaTicket,ガシャチケット,Gacha Ticket
@@ -207,34 +207,34 @@ concert.judgeDetailDialog.titles.judge,%{attribute}審査員,%{attribute} Judge
 concert.judgeDetailDialog.titles.instructor,%{attribute}コーチ,%{attribute} Coach
 concert.judgeDetailDialog.titles.fan,%{attribute}重視の観客,%{attribute} Audience
 concert.playerIdol.retire,Retire,Retire
-concert.produceIdolComment,私の歌、届け！,私の歌、届け！
+concert.produceIdolComment,私の歌、届け！,"My song, deliver it!"
 concert.pauseDialog.produceSkill,プロデュースアイドル所持スキル,Produce Idol's Skills
 concert.pauseDialog.supportSkill,サポートアイドル所持スキル,Support Idol's Skills
-concert.passiveSkillDetailListDialog.title,発動中のパッシブスキル,発動中のパッシブスキル
+concert.passiveSkillDetailListDialog.title,発動中のパッシブスキル,Passive Skills
 concert.passiveSkillDetailListDialog.emptyMessage,効果情報はありません,No current effects
 concert.statusEffect.leftTurn,残り%{leftTurn}ターン,%{leftTurn} turns left
 concert.statusEffect.remainTimes,残り%{remainTimes}回,%{remainTimes} times left
-concert.statusEffect.noStatusEffectMessage,効果情報はありません,効果情報はありません
+concert.statusEffect.noStatusEffectMessage,効果情報はありません,No status effects
 concertResult.entryNumber,エントリーNo.%{number}, Entry No.%{number}
 concertResult.statusUp.message,+%{upPoint},+%{upPoint}
 copyright.title,コピーライト,Copyright
-copyright.holders.bne.title,権利表記,権利表記
+copyright.holders.bne.title,権利表記,Copyright Notice
 copyright.holders.bne.message,© 2018 BANDAI NAMCO Entertainment Inc.,© 2018 BANDAI NAMCO Entertainment Inc.
 countdown.season,シーズン%{seasonNum}終了まで,Season %{seasonNum} Ends In
-userDailyLottery.rewardPop.title,まいにちくじ抽選結果,まいにちくじ抽選結果
+userDailyLottery.rewardPop.title,まいにちくじ抽選結果,Daily Lotto Results
 userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
 userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～
-deck.autoSelectDialog.title,おまかせ編成,おまかせ編成
+deck.autoSelectDialog.title,おまかせ編成,Recommended Setup
 deck.autoSelectDialog.noUserIdol,おまかせ編成を使用するには\nプロデュースアイドルを設定してください,おまかせ編成を使用するには\nプロデュースアイドルを設定してください
 deck.autoSelectDialog.description,設定中のプロデュースアイドルによって編成内容を判別します\n編成の方針を選択してください,設定中のプロデュースアイドルによって編成内容を判別します\n編成の方針を選択してください
 deck.autoSelectSuccessDialog.title,おまかせ編成,おまかせ編成
-deck.autoSelectSuccessDialog.advice1.beforeType,今回のユニットは,今回のユニットは
-deck.autoSelectSuccessDialog.advice1.afterType,が得意なメンバーで,が得意なメンバーで
-deck.autoSelectSuccessDialog.advice1.nextLine,編成されています！,編成されています！
+deck.autoSelectSuccessDialog.advice1.beforeType,今回のユニットは,This unit
+deck.autoSelectSuccessDialog.advice1.afterType,が得意なメンバーで,Strong Members
+deck.autoSelectSuccessDialog.advice1.nextLine,編成されています！,Has been set up!
 deck.autoSelectSuccessDialog.advice2.beforeType,プロデュース中は,During Produce
-deck.autoSelectSuccessDialog.advice2.afterType,を重点的に,を重点的に
-deck.autoSelectSuccessDialog.advice2.nextLine,レッスンするといいですよ♪,レッスンするといいですよ♪
-deck.autoSelectSuccessDialog.description,サポートアイドルを%{type}編成で設定しました,サポートアイドルを%{type}編成で設定しました
+deck.autoSelectSuccessDialog.advice2.afterType,を重点的に,Focus on
+deck.autoSelectSuccessDialog.advice2.nextLine,レッスンするといいですよ♪,A lesson would be good♪
+deck.autoSelectSuccessDialog.description,サポートアイドルを%{type}編成で設定しました,A setup using %{type} support idols. 
 deck.deckNumber,ユニット%{deckNumber},Unit %{deckNumber}
 deck.memberShortageNotice,アイドルがセットされていないので\rスタートできません,Not all idols have been set.\r\n Cannot start. 
 deck.swapCharacterWarning,ユニット内の同一のアイドルが外れてしまいますが\r本当によろしいですか？,This idol already in the unit will be removed. \r\n Is this okay?
@@ -258,30 +258,30 @@ ending.fesIdolRewardPop.itemNameNum,%{type} ×%{num},%{type} ×%{num}
 ending.presidentComment,ご苦労だったな\r次回も頑張ってもらうぞ！\r期待しているからな,You worked hard. \r\n Keep doing your best!\r\nI expect great things. 
 ending.totalFan.idolName,【%{name}】累計ファン人数,【%{name}】total fan count 
 ending.reward.multipleNum,×%{num},×%{num}
-ending.possessionCountOverExSkillRewardPop.title,所持上限に達しています,所持上限に達しています
+ending.possessionCountOverExSkillRewardPop.title,所持上限に達しています,You've reached the cap. 
 ending.possessionCountOverExSkillRewardPop.exSkillName,%{idolType}【%{idolName}専用】\n%{skillName},%{idolType}【%{idolName} Only】\n%{skillName}
 ending.possessionCountOverExSkillRewardPop.idolType.produce,プロデュース,Produce
 ending.possessionCountOverExSkillRewardPop.idolType.support,サポート,Support
-error.pageNotFound,Page Not Found\n指定されたページは見つかりませんでした。,Page Not Found\n指定されたページは見つかりませんでした。
+error.pageNotFound,Page Not Found\n指定されたページは見つかりませんでした。,Page Not Found. \r\n The specified page was not found. 
 error.invalidOperation,無効な操作です。,Invalid Operation
 errorDialog.announceTitle,ご案内,Warning
 errorDialog.errorTitle,エラー,Error
 errorDialog.confirmTitle,確認,Confirm
-errorDialog.updateNativeAppVersionTitle,最新バージョン確認,最新バージョン確認
-errorDialog.fesResumeTitle,フェス再開,フェス再開
-errorDialog.updateVersion,バージョンが更新されました。,バージョンが更新されました。
+errorDialog.updateNativeAppVersionTitle,最新バージョン確認,Please get the latest version. 
+errorDialog.fesResumeTitle,フェス再開,Resume Fes
+errorDialog.updateVersion,バージョンが更新されました。,The version has been updated. 
 errorDialog.updateNativeAppVersion,アプリのバージョンアップが必要です。\nストアから最新バージョンを\nダウンロードしてください。,アプリのバージョンアップが必要です。\nストアから最新バージョンを\nダウンロードしてください。
 errorDialog.invalidSession,セッション更新の必要があります。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},セッション更新の必要があります。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode}
 errorDialog.produceDuplicate,進行中のプロデュースがあるので\n開始できませんでした。\n一度プロデュースを終了してから始めてください。,進行中のプロデュースがあるので\n開始できませんでした。\n一度プロデュースを終了してから始めてください。
-errorDialog.fesSeason,フェスのシーズンが切り替わりました。,フェスのシーズンが切り替わりました。
-errorDialog.fesMatchRivalsError,進行していたフェスはすでに終了しました。\n再開することができませんでした。,進行していたフェスはすでに終了しました。\n再開することができませんでした。
-errorDialog.forbidden,アクセスは許可されていません。,アクセスは許可されていません。
-errorDialog.fullDownloadErrorForNative,リソースの読み込みに失敗しました。\nネットワーク環境をご確認ください。,リソースの読み込みに失敗しました。\nネットワーク環境をご確認ください。
+errorDialog.fesSeason,フェスのシーズンが切り替わりました。,The Fes season has changed. 
+errorDialog.fesMatchRivalsError,進行していたフェスはすでに終了しました。\n再開することができませんでした。,The Fes in progress has already ended.\n\rCould not resume. 
+errorDialog.forbidden,アクセスは許可されていません。,Access Forbidden. 
+errorDialog.fullDownloadErrorForNative,リソースの読み込みに失敗しました。\nネットワーク環境をご確認ください。,Failed to load resources.\r\nPlease check your network. 
 errorDialog.simpleOther,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。
 errorDialog.other,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode}
 errorDialog.timeout,通信中にエラーが発生しました。\n時間をおいてもう一度お試しください。,通信中にエラーが発生しました。\n時間をおいてもう一度お試しください。
 errorDialog.resourceDownloadError,通信中にエラーが発生しました。\nネットワーク環境をご確認の上\nもう一度お試しください。,通信中にエラーが発生しました。\nネットワーク環境をご確認の上\nもう一度お試しください。
-errorDialog.unavailableGasha,ガシャのラインナップが更新されました。,ガシャのラインナップが更新されました。
+errorDialog.unavailableGasha,ガシャのラインナップが更新されました。,The available Gachas have been updated. 
 errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。
 errorDialog.sdkLoginLoadFailed,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n
 errorDialog.sdkLoginLoadFailedIOS10,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n
@@ -294,7 +294,7 @@ errorDialog.earthPaymentFailure,プラットフォームの決済処理が\n正�
 errorDialog.earthPaymentFailureFatal,プラットフォームの決済処理が\n正常に行われませんでした。ゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},プラットフォームの決済処理が\n正常に行われませんでした。ゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode}
 errorDialog.sceneMaintenance,本機能は、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。,本機能は、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。
 errorDialog.playMovie,動画再生に失敗しました。,Video Playback Failed. 
-errorDialog.businessIsNotFinished,営業が完了していません。\n少し時間を置いてから再度完了してください。,営業が完了していません。\n少し時間を置いてから再度完了してください。
+errorDialog.businessIsNotFinished,営業が完了していません。\n少し時間を置いてから再度完了してください。,The job is not complete. \r\nPlease wait a minute and try again. 
 errorDialog.purchaseErrorTitle,購入エラー,Purchase Error
 errorDialog.purchaseError,ご購入の処理中に\nエラーが発生したため、ご購入が\n正しく終了されませんでした。,ご購入の処理中に\nエラーが発生したため、ご購入が\n正しく終了されませんでした。
 errorDialog.purchaseDeferredTitle,制限,Restriction
@@ -304,7 +304,7 @@ errorDialog.purchaseRestore,購入処理を完了できませんでした。\n�
 errorDialog.note.noSettlementProcess,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。
 errorDialog.contextLost.appText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。
 errorDialog.contextLost.browserText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。
-errorDialog.contextLost.buttonText,再読み込み,再読み込み
+errorDialog.contextLost.buttonText,再読み込み,Reload
 evolutionItem,特訓はづきさん,Evolution Hazuki
 exchangeItem.costumeTicket.original,衣装交換チケット,Outfit Ticket
 exchangeItem.costumeTicket.simple,チケット,Ticket
@@ -312,20 +312,20 @@ exchangeItem.communicationRelease.original,アルバムの鍵,Album Key
 exchangeItem.businessMotivationItem.original,差し入れアイテム,Handmade Goods 
 exchangeItem.businessMotivationItem.simple,差し入れアイテム,Handmade Goods 
 gameEventPoint,イベントpt,Event Pt
-idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah,Producer-san,you came to meet the idols. "
+idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah, Producer-san, you came to meet the idols. "
 idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,Everyone's been waiting for you Producer~
-idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～
-idolPortal.staffComment4,トレーニングでアイドルを成長させましょう,トレーニングでアイドルを成長させましょう
-idolPortal.staffComment5,特訓でアイドル達の力をさらに引き出してあげましょう,特訓でアイドル達の力をさらに引き出してあげましょう
-idolPortal.staffComment6,プロデューサーさんの現在の担当アイドルはこちらで確認できます,プロデューサーさんの現在の担当アイドルはこちらで確認できます
-jewelDetailDialog.title,所持フェザージュエル確認,所持フェザージュエル確認
-evolution.skillListTitle,解放されるスキル,解放されるスキル
+idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,Raising idols is an important part of being a Producer~
+idolPortal.staffComment4,トレーニングでアイドルを成長させましょう,Let's strengthen your idols with training!
+idolPortal.staffComment5,特訓でアイドル達の力をさらに引き出してあげましょう,Let's evolve your idols and draw out their power!
+idolPortal.staffComment6,プロデューサーさんの現在の担当アイドルはこちらで確認できます,You can check out your current idols here.
+jewelDetailDialog.title,所持フェザージュエル確認,Confirm Feather Jewels
+evolution.skillListTitle,解放されるスキル,Unlocked Skill
 evolution.confirm.title,特訓確認,Confirm Evolve
-evolution.confirm.comment,選択した対象を消費して、特訓をします。\nよろしいですか？,選択した対象を消費して、特訓をします。\nよろしいですか？
+evolution.confirm.comment,選択した対象を消費して、特訓をします。\nよろしいですか？,Consume the selected card and evolve.\r\nAre you sure?
 evolution.complete.title,特訓結果,Evolve Result
 evolution.complete.comment,特訓が完了しました！,Evolution Complete!
-evolution.costumeRelease.first,最大まで特訓したことによって\n,最大まで特訓したことによって\n
-evolution.costumeRelease.second,の衣装に\n変更可能になりました！,の衣装に\n変更可能になりました！
+evolution.costumeRelease.first,最大まで特訓したことによって\n,By evolving to the maximum\r\n
+evolution.costumeRelease.second,の衣装に\n変更可能になりました！,s costume\r\nwill be unlocked!
 fes.top.title,フェス,Fes
 fes.top.scoreTitle,現在のスコア,Current Score
 fes.top.rankingTitle,グレード内順位/,Grade Pos
@@ -903,7 +903,7 @@ shop.exchangeResult.message,%{title}と交換しました,%{title}と交換し�
 shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,%{title}と\r交換しました
 shop.currencyLabel.jewelType.billedJewel,有償,Paid
 shop.currencyLabel.jewelType.freeJewel,無償,Free
-shop.expireDate,【交換期限】%{closeAt}まで,【Restock】At %{closeAt}
+shop.expireDate,【交換期限】%{closeAt}まで,【Closes】at %{closeAt}
 shop.noShopItem,交換可能なアイテムがありません。,There are no exchangeable items
 recycleShop.tradeConfirmation.title,交換確認,Exchange Confirmation
 recycleShop.tradeConfirmation.message,以下のアイテムを交換しますか？,Do you want to exchange these items?
@@ -955,8 +955,8 @@ tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
 tutorial.openingMessage.mes9,足を踏み入れる！,World of Survival!
 tutorial.skipPop.message,次のチュートリアルまでスキップします\nよろしいですか？,Skip to the next tutorial\r\n Are you sure?
 tutorial.skipPop.title,確認,Confirm
-tutorial.skipPop.warning1,各機能の説明はチュートリアル終了後も,After the tutorial is over
-tutorial.skipPop.warning3,から確認可能です。,You can check an explanation of each function
+tutorial.skipPop.warning1,各機能の説明はチュートリアル終了後も,"After exiting the tutorial, click"
+tutorial.skipPop.warning3,から確認可能です。,for help!
 tv.appearance,テレビ出演を果たした。\n,Performed on TV.\r\n
 tv.appearanceAfter,アイドル達の魅力が引き出されたように感じる。,I feel like the idol's appeal was brought out.
 tv.performanceComment,今話題のアイドルが登場！圧巻のパフォーマンスを披露！,Popular idols are here! An incredible performance!

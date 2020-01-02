@@ -1,0 +1,29 @@
+id,name,text,trans
+1002001001510010,灯織,いただきます……,Thanks for the food……
+0000000000000,プロデューサー,おっ、その弁当はもしかして……灯織の手作りか？,"Oh, is that bento…… made by you?"
+1002001001510020,灯織,はい。今日は家で食べる時間がなかったので,Yes. I didn't have time to eat at home today.
+0000000000000,プロデューサー,"そうか、しっかりしてるなぁ……栄養バランスも
+いろどりもバッチリだし","I see, How reliable. ……Your nutrition and colors are perfect too."
+select,,俺も見習わないとな,"I need to
+follow your
+example"
+select,,俺も料理しようかな,"I should
+cook too"
+select,,俺にも分けてくれ,"Share with
+me too"
+1002001001510030,灯織,"そ、そこまで言ってもらうようなことでは
+ありません。",I-it's not something worthy of that much praise.
+1002001001510040,灯織,普通のことだと思いますけど……,"I think it's normal, but……"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
+1002001001510050,灯織,"いいことだと思います。プロデューサーも
+食生活が乱れているときがありますし",I think it's a good thing. You have times when your eating habits are disordered too.
+1002001001510060,灯織,体調には気をつけてくださいね,Be careful of your health.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
+1002001001510070,灯織,"すみません……急いでつめてきたので
+ひとり分しかないんです",I'm sorry…… I made it in a hurry so I only made enough for myself.
+1002001001510080,灯織,"朝ごはんはしっかり食べないと、レッスンに
+集中できなくなってしまいますので……",I have to eat breakfast properly or I won't be able to focus during my lessons……
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/100200100151.json,
+译者,,
