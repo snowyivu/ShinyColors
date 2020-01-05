@@ -22,7 +22,7 @@ W.I.N.G.編[True End 研修用],W.I.N.G. Run[True End Training]
 獲得方法,Obtain By
 現在設定中の称号,Set Current Title
 選択中の称号,Selected Title
-サポートアイドルを特訓しよう,Limit Break a Support Idol
+サポートアイドルを特訓しよう,Evolve a Support Idol
 ゲームにログインしよう,Log In to the Game
 サポートアイドルをトレーニングしよう,Train a Support Idol
 ユニット編成でサポートアイドルを入れ替えてみよう,Replace a Support Idol in the Unit Formation
@@ -128,10 +128,10 @@ TrueEnd達成数,﻿True Ends Completed
 まとめて消費した数に応じて獲得マニーUP!!,Earn Money Per Fes Entry Used!!
 フェス参加権を　　消費します,Consumes          Entries
 難易度ボーナス,Difficulty Bonus
-特訓4回目で解放,Unlocked at Limit Break 4
-特訓3回目で解放,Unlocked at Limit Break 3
-特訓2回目で解放,Unlocked at Limit Break 2
-特訓1回目で解放,Unlocked at Limit Break 1
+特訓4回目で解放,Unlocked at 4* Evolve
+特訓3回目で解放,Unlocked at 3* Evolve
+特訓2回目で解放,Unlocked at 2* Evolve
+特訓1回目で解放,Unlocked at 1* Evolve
 アイドルアルバムからいつでも再生することができます,You can always Replay from your Idol Album
 スタミナが最大量の同量回復します（アイドルの誕生日当日以外使用できません）,Gain the Maximum amount of Stamina(Can only be used on the Idol's Birthday)
 誕生日プレゼント,Birthday Present
@@ -188,8 +188,8 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 アイドルランクB以上,Idol Rank B or Higher
 アイドルランクA以上,Idol Rank A or Higher
 プロデューサー就任から,Total Days Played:
-日経過,d
-日記念まであと,: Next Gift
+日経過,days
+日記念まであと, gift in
 お待たせしました~結果の発表です。,Sorry to make you wait~ Time to announce the results.
 メンタル500以上\nシーズン4最終週のみ挑戦可能,Have 500 or higher Mental\nCan challenge on the last week of Season 4
 ミッション達成,Mission Success
@@ -209,7 +209,7 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 アイドルD,Idol D
 アイドルE,Idol E
 プロデューサーさん\n今回は初めてのアイドルプロデュースになりますので\n私がサポートさせていただきますね〜,"Producer-San,\r\nSince this is your first idol being produced,\r\nI will assist you~"
-ここで説明することはプロデュースの上で\nとても大事なことなのでお昼寝せずに聞いてもらえると\n嬉しいです～\n,"The explanation of this top page of Produce\r\nis very important, so I'd be happy if\r\nyou didn't doze off while listening~"
+ここで説明することはプロデュースの上で\nとても大事なことなのでお昼寝せずに聞いてもらえると\n嬉しいです〜,"The explanation of this top page of Produce\r\nis very important, so I'd be happy if\r\nyou didn't doze off while listening~"
 それでは「プロデュース講座」スタートです,Let's start the 'Produce Lecture'!
 まず最初のプロデュースでは\n「櫻木真乃」さんを担当してもらいます♪,"For your first Production, you'll\r\nbe in charge of 'Mano Sakuragi'♪"
 そして「櫻木真乃」さんをサポートしてくれる\rアイドル5人のみなさんも、プロデュースに参加しますよ\nみんなでがんばっていきましょ～,"Along with Mano, the 5 Support Idols\r\nwill also participate in the Production.\r\nLet's do our best everyone~"
@@ -219,14 +219,6 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 プロデューサーさんのために、チュートリアル終了後には\r「運命の出会いガシャ」を用意していますので\r私の説明をきちんと最後まで聞いてくださいね～,"For you, after the tutorial\r\nI've prepared a 'Fateful Meeting Gacha'.\r\nSo please listen until the end okay~"
 こちらの説明はチュートリアルの最後にしますので\n楽しみにしていてくださいね～。ふふ,"I'll explain that at the end of the tutorial,\r\nso please look forward to it~ fufu"
 さぁ、それではアイドルプロデュースを始めましょう,"Well then, let's start Idol Production!"
-次は「レッスンとお仕事」について説明しますね〜,"Next is an explanation of 'Lessons' and 'Work'"
-「レッスン」と「お仕事」では\nアイドルを様々な方法で成長させることが\nできるんですよ～,"With Lessons and Work you can\r\nstrengthen your idol in various ways~"
-まず、レッスンの種類は３つあります\nこちらではそれぞれ「Vocal」「Dance」「Visual」の\n基礎能力を伸ばすことができます,"First, there are 3 types of lessons.\r\nHere you can improve the basic ability of\r\n'Vocal','Dance',and 'Visual'."
-お仕事の種類も３つあるんですよ\nそれぞれ「メンタル」「SP」「ファン」を\n増やすことが可能なんです,"There are also 3 types of work.\r\nIt's possible to increase 'Mental','SP',\r\nand 'Fans' with these."
-レッスン、お仕事にはそれぞれ\nサポートアイドルの皆さんがいます\n是非、一緒に行動して絆を深めていってくださいね～,"There are support idols in both lessons and\r\nwork. Please work together to\r\ndeepen your bonds~"
-あ、プロデューサーさん、\n私がいることが気になりました？\nふふ。私はお手伝いをしているだけですよ\n,"Oh, Producer,\r\nDid you notice me?\r\nFufu. I'm just helping out."
-なのでサポートアイドルのみなさんのように\nプロデューサーさんの担当アイドルを成長させることは\nできませんので気を付けてくださいね～,"Please take care, since you can't\r\nstrengthen the idol you're in charge of\r\nthe same way you strengthen supports~"
-それでは……今回は\nボーカルレッスンに挑戦してみましょう～,"Well then… this time\r\nlet's try a Vocal Lesson~"
 累計ファン人数,Total Fan Count
 プロデュース中のアイドルが存在します\nプロデュースを再開しますか？,There is an Idol being Produced\nResume Production?
 アピールミス,Missed Appeal
@@ -234,3 +226,11 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 ノーマルアピール,Normal Appeal
 思い出アピール,Memory Appeal
 リンクアピール,Link Appeal
+次は「レッスンとお仕事」について説明しますね〜,Next is an explanation of 'Lessons' and 'Work'
+「レッスン」と「お仕事」では\nアイドルを様々な方法で成長させることが\nできるんですよ～,With Lessons and Work you can\r\nstrengthen your idol in various ways~
+まず、レッスンの種類は３つあります\nこちらではそれぞれ「Vocal」「Dance」「Visual」の\n基礎能力を伸ばすことができます,"First, there are 3 types of lessons.\r\nHere you can improve the basic ability of\r\n'Vocal','Dance',and 'Visual'."
+お仕事の種類も３つあるんですよ\nそれぞれ「メンタル」「SP」「ファン」を\n増やすことが可能なんです,"There are also 3 types of work.\r\nIt's possible to increase 'Mental','SP',\r\nand 'Fans' with these."
+レッスン、お仕事にはそれぞれ\nサポートアイドルの皆さんがいます\n是非、一緒に行動して絆を深めていってくださいね～,There are support idols in both lessons and\r\nwork. Please work together to\r\ndeepen your bonds~
+あ、プロデューサーさん、\n私がいることが気になりました？\nふふ。私はお手伝いをしているだけですよ\n,"Oh, Producer,\r\nDid you notice me?\r\nFufu. I'm just helping out."
+なのでサポートアイドルのみなさんのように\nプロデューサーさんの担当アイドルを成長させることは\nできませんので気を付けてくださいね～,"Please take care, since you can't\r\nstrengthen the idol you're in charge of\r\nthe same way you strengthen supports~"
+それでは……今回は\nボーカルレッスンに挑戦してみましょう～,Well then… this time\r\nlet's try a Vocal Lesson~
