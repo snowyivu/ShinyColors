@@ -1,5 +1,5 @@
 id,name,text,trans
-0000000000000,プロデューサー,あくびをしているが……寝不足か、樹里？,"That's a yawn... Did you have enough sleep、 Juri?
+0000000000000,プロデューサー,あくびをしているが……寝不足か、樹里？,"That's a yawn... Did you have enough sleep, Juri?
 "
 1011001000210010,樹里,あ、見られたか……,*yawn* Oops...
 1011001000210020,樹里,"昔の習慣のせいなのか、
@@ -9,7 +9,7 @@ Sometimes I just wake up earlier than usual."
 "
 select,,"体調管理には
 気を付けろよ？","Take care of
-your health、 ok?"
+your health, ok?"
 select,,まだ少し寝てていいよ,"Just sleep in
 a little"
 select,,"気合だ！
@@ -17,22 +17,22 @@ select,,"気合だ！
 Where's your 
 spirit!"
 1011001000210030,樹里,"へへっ、体調管理が大事なことくらいわかってるよ
-言われるまでもないって","Hehe、 of course it's important to be in good shape.
+言われるまでもないって","Hehe, of course it's important to be in good shape.
 You don't even have to say it."
-1011001000210040,樹里,でも、心配してくれてありがとな,Thanks for looking after me、 though.
-0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright、 we had a fun discussion)
+1011001000210040,樹里,でも、心配してくれてありがとな,"Thanks for looking after me, though."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, we had a fun discussion)"
 1011001000210050,樹里,"気を遣ってくれてありがとよ
 アンタ、意外と優しいよな","Thanks for asking.
 You're surprisingly kind."
 1011001000210060,樹里,"ま、でも気にしないでくれ
-これくらい気合で何とかするよ","Don't worry、 though.
+これくらい気合で何とかするよ","Don't worry, though.
 I'll do something about it."
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,(Well、 we talked normally I guess)
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, we talked normally I guess)"
 1011001000210070,樹里,"あ～、大声だすなよな
-気合い入れないといけないことくらい、わかってるよ","Ah~、 you're too loud.
+気合い入れないといけないことくらい、わかってるよ","Ah~, you're too loud.
 I know I have to get my spirit up already .
 "
-1011001000210080,樹里,ったく、アタシの根性、見損なうなよな,Ugh、 don't underestimate me like that.
+1011001000210080,樹里,ったく、アタシの根性、見損なうなよな,"Ugh, don't underestimate me like that."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
 I should have said something else…)"
 info,produce_communications/101100100021.json,
