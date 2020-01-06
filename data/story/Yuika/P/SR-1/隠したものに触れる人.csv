@@ -1,0 +1,92 @@
+id,name,text,trans
+0000000000000,プロデューサー,（……お、結華だ。自主練中かな？）,"(......Oh, there's Yuika. Maybe she's doing some training on her own?)"
+0000000000000,プロデューサー,結華、お疲れ様,"Great work today, Yuika."
+2007003020010,結華,……ふんふーん……♪,......Hmmm-hmmm-hmmm......♪
+0000000000000,プロデューサー,？　結華ー,? Yuikaaa.
+0000000000000,プロデューサー,（気づかないな、どうしたんだ……？）,(I wonder why she isn't noticing me.....?)
+0000000000000,プロデューサー,……結華？　おーい,......Yuika? Hey!
+2007003020020,結華,……えっ、プロデューサー！？　ビックリした……！,"......Eh, Producer!? You startled me......!"
+2007003020030,結華,"なになに、急にどうしたの？　何か用事だった？
+ごめん、全然聞こえてなくて……","What's up, what happened? Do you need me for something?
+I'm so sorry, I couldn't hear what you said at all......"
+0000000000000,プロデューサー,"ああ悪い、音楽聴いてたのか。こっちこそ邪魔しちゃったな
+特に用事はないんだけど、姿が見えたから","Oh, my bad. I didn't realize you were listening to music. Sorry to interrupt. There's nothing in particular going on, I just wanted to greet you."
+2007003020040,結華,なら良かった,"Oh, thank goodness."
+2007003020050,結華,"サボってないかって、
+抜き打ちチェックでもしに来たのかと思っちゃったよ","I was worried you'd come by for a surprise inspection to try and catch me slacking off. "
+0000000000000,プロデューサー,はは、そんなんじゃないよ,"Hahah, not at all."
+0000000000000,プロデューサー,"……お。そこにあるの、今聴いてたCDか？
+そのアイドル、好きだって言ってたもんな","......Oh, is that CD over there what you were listening to? 
+I remember you saying you liked that idol."
+2007003020060,結華,え？　あ、うん……今日発売だったから、聴きたくて,"Eh? Oh, yeah...... It was released today, so I wanted to listen to it."
+2007003020070,結華,まぁこの話はいいでしょ,"Anyway, let's change the subject."
+0000000000000,プロデューサー,"いや、せっかくだから、結華の好きなアイドルの話を
+聞かせてくれないか","Actually, I was wondering if you could tell me more about your favorite idols, Yuika. "
+2007003020080,結華,あはは……プロデューサー、別に気を遣わなくていいよ,"Ahahah...... Producer, there's no need to pretend like you care just to be polite."
+2007003020090,結華,"三峰の好きなものの話聞いても、
+別に面白くもないだろうしさ","Even if Mitsumine did talk to you about her interests, none of it would be particularly interesting. "
+select,,そんなことないぞ,That isn't true!
+select,,"プロデューサーとして
+知っておきたい","I'm interested
+as a producer."
+select,,"他のアイドルのことも
+知っておかないと","I need to learn
+more about idols."
+0000000000000,プロデューサー,"誰かが一生懸命になってるものや、
+好きなものの話を聞いて、面白くないとは思わない","I don't think there's anything boring about hearing someone talk about what they're passionate about or their favorite things. "
+2007003020100,結華,"直球だなぁ
+そんな真正面から来られたら逆に話しづらいってば","Whew, you don't beat around the bush. When you act that sincere it kinda makes talking about them even harder, actually. "
+0000000000000,プロデューサー,そうか、すまん……,It does? Oops......
+2007003020110,結華,"……でも、さっきみたいに言ってもらえたら
+嬉しくなっちゃうってこともあるかも","......But, I also think saying things like that outright might make people really happy."
+0000000000000,プロデューサー,え？,Eh?
+2007003020120,結華,あ、三峰がじゃなくて、世間一般的な話ね,"Um, not Mitsumine herself though. Just in general."
+2007003020130,結華,"……さてさて、勤勉な三峰は、
+そろそろレッスンに戻ろっと！","......Anyway, it's about time for the ever-diligent Mitsumine to get back to her training!"
+0000000000000,プロデューサー,なんだか邪魔しちゃって悪かったな。頑張れよ,Sorry for interrupting your practice. Keep at it!
+2007003020140,結華,うん！,Will do!
+2007003020150,結華,……ありがとね,"......Also, thanks."
+0000000000000,プロデューサー,何がだ？,For what?
+2007003020160,結華,いやいや、なんでもないよ,"Oh, nothing really."
+2007003020170,結華,"あー、他のアイドルのことが気になるんだね？
+ほんと仕事熱心だなぁ、プロデューサーは","Oh I get it, so you want to learn more about other idols? You're so passionate about your work, Producer. "
+0000000000000,プロデューサー,"そうじゃなくてさ。担当アイドルのことを
+ちゃんと知っておきたいと思ったんだ","No, not that. I'm saying I want to learn more about the idol right in front of me, as her producer. "
+0000000000000,プロデューサー,結華が本当に嫌なら、無理にとは言わないけど……,"Though if you really don't want to, I understand. I won't force you......"
+2007003020180,結華,…………！,............!
+2007003020190,結華,"……ふむ。プロデューサーにそこまで言われたら、
+話さないのもアイドルが廃るね","......Hmph. If you frame it like that, I guess not talking might make Mitsumine lose her honor as an idol."
+2007003020200,結華,"──Ｐたん、三峰のことが知りたいというその言葉、
+二言はないかな！？","──If you want to learn more about Mitsumine, I hope you know you can't go back on your word. Can you promise that, P-tan!? "
+0000000000000,プロデューサー,ない！,I promise!
+2007003020210,結華,"よっしわかった！
+じゃ、さっきのCD、聴いてみる？","It's settled then! To start, why don't we listen to that CD from earlier?"
+0000000000000,プロデューサー,いいのか？,You'd let me?
+2007003020220,結華,その方がよくわかるでしょ,I think you already know the answer to that.
+0000000000000,プロデューサー,そうか、ありがとう,Hahah. Thanks.
+2007003020230,結華,"いいっていいって……その代わり、
+現役アイドルプロデューサーの感想、しっかり聞かせてね！","Oho, no need to thank me...... Instead, please tell me all your in-depth thoughts on this CD, as an idol producer! "
+2007003020240,結華,"あは、Ｐたんは仕事の鬼だね～
+そんなんじゃ、せっかく立ったフラグも折れちゃうよ？","Ahah. You're always so focused on work, P-tan～
+So much you like, entirely misread the signals there?"
+2007003020250,結華,"こういう時はさ、嘘でも、
+君の好きなものを知りたいんだ、って言っとかないと","In situations like this, even if you don't really mean it, you should still say ""I want to know more about your interests!"""
+0000000000000,プロデューサー,そ、そうなのか,R-really?
+2007003020260,結華,"そうなのです。……乙女心は案外繊細だよ～？
+三峰は大丈夫でも、他の子たち相手じゃまずいかも","Really. Girl's hearts are surprisingly delicate, y'know～? It didn't bother Mitsumine, but someone else might've been crushed. "
+2007003020270,結華,ということで、今のシーン、リテイクいってみる？,"So, why don't we rewind. Let you try that one more time. "
+0000000000000,プロデューサー,"あ、いや、その。もちろん、結華の好きなものを
+知っておきたいとも思ってる、んだけど……","Um, no I, uh. Of course I'd like to know more about your interests, Yuika. I mean, but......"
+2007003020280,結華,あはは！　慌ててる慌ててる！,Ahahah! Look at you getting all panicky!
+2007003020290,結華,"うそうそ。プロデューサーは真面目でこそ
+プロデューサーなんだから、今のままでいいよ","I was just kidding. You being focused on your job is why you have it in the first place. You're fine just the way you are, Producer."
+0000000000000,プロデューサー,そ、そうか,I-if you say so.
+2007003020300,結華,"Ｐたんがわたわたしてるとこ見れて、
+個人的にはだいぶ満足したし！","Plus, the point of all that was just to see you flailing around. So I'm satisfied now!"
+0000000000000,プロデューサー,あんまりからかわないでくれ……,You shouldn't bully me so much......
+2007003020310,結華,ごめんごめん、楽しくってつい,"Sooorry, it's just so much fun!"
+2007003020320,結華,"お詫びって言ったらなんだけど、
+三峰が好きなアイドルのこと、教えるからさ","As an apology, Mitsumine will tell you all about her favorite idols."
+2007003020330,結華,それでトントンってことにしてよ。ね？,With that we'll call it even. Sound good?
+info,produce_events/200700302.json,
+译者,,
