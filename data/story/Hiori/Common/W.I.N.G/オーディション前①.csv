@@ -1,0 +1,21 @@
+id,name,text,trans
+4002001000110010,灯織,"ふう……もうすぐ始まりますね
+結果を出せるように、頑張らないと……",Phew…… It's starting soon. I have to do my best to bring out a good result……
+0000000000000,プロデューサー,"（肩に力が入ってるみたいだな
+何か声をかけてやろう……）",(Her shoulders seem stiff. I need to say something……)
+select,,落ち着いていけ,Calm down
+select,,１度深呼吸してみよう,"Take a
+deep breath"
+select,,水でも飲もう,"Drink some
+water"
+4002001000110020,灯織,……私はずっと落ち着いています,……I'm always calm.
+0000000000000,プロデューサー,（うーん、確かにいつも通りの灯織だったか……）,"(Hmm, she does seem the same as usual……)"
+4002001000110030,灯織,"ふぅ……少しリラックスできたかもしれません
+自分でも気づかないうちに、緊張していたのかも……",Phew…… I might be a bit more relaxed. I might have gotten nervous without noticing……
+0000000000000,プロデューサー,（よし、肩の力が抜けたみたいだ！）,"(Alright, it seems like she loosen up!)"
+4002001000110040,灯織,"水なんて持っていませんが……
+プロデューサーも持っていませんよね？","I don't have any water……
+You don't have any either, right?"
+0000000000000,プロデューサー,（しまった、用意しておけばよかった……！）,"(Shoot, I should have brought some with me……!)"
+info,produce_communication_cheers/400200100011.json,
+译者,,

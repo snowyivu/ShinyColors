@@ -4,8 +4,10 @@ id,name,text,trans
 Hwa…"
 0000000000000,プロデューサー,（何か緊張をほぐせるような言葉を……）,(Some words that could ease her tension…)
 select,,失敗したっていい！,It's fine if you fail!
-select,,必ず成功できる！,You'll definitely succeed!
-select,,そんな弱気じゃダメだ！,Hey don't be so timid!
+select,,必ず成功できる！,"You'll definitely
+succeed!"
+select,,そんな弱気じゃダメだ！,"Hey, don't be
+so timid!"
 4001001000110020,真乃,"失敗したっていい、ですか？
 ……そうですね、私が楽しまないといけませんよねっ","It's fine, if I fail?
 …that's true, I have to have fun."

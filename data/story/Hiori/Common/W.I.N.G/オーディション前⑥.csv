@@ -1,0 +1,24 @@
+id,name,text,trans
+4002001000230010,灯織,"今日は占いの運勢が悪くて……
+少し、不安です",Today my fortune was bad…… I'm a bit anxious.
+0000000000000,プロデューサー,（不安を取り除いてあげたいけど……どう答えよう？）,"(I want to get rid of her anxiety, but…… what should I say?)"
+select,,灯織自身を信じろ,"Believe in
+yourself"
+select,,占いなんて信じるな,"Don't
+believe in
+fortunes"
+select,,きっとなんとかなるさ,"You'll
+make it
+somehow"
+4002001000230020,灯織,"……そうですよね
+自分よりも占いを信じてるようじゃ、いけませんよね",……That's right. I can't believe in fortunes more than myself.
+0000000000000,プロデューサー,（よし、立ち直ってくれたみたいだ！）,"(Alright, it seems like she recovered!)"
+4002001000230030,灯織,"……そうですよね
+悪い占いなんて忘れたほうがいいですよね",……That's right. It's better to forget about bad fortunes.
+0000000000000,プロデューサー,（もう少し言い方を考えるべきだったかな……？）,(Maybe I should have thought a bit more about what to say……?)
+4002001000230040,灯織,"そうでしょうか……？　いえ、
+なんとかするしかないんですよね……","Is that so……? No, all I can do is that……"
+0000000000000,プロデューサー,"（言葉はしっかりしてるけど、
+不安はぬぐえなかったかな……）","(Her words are fine, but her anxiety isn't gone……)"
+info,produce_communication_cheers/400200100023.json,
+译者,,
