@@ -1,0 +1,18 @@
+id,name,text,trans
+4002001000210010,灯織,"……ふぅ。プロデューサー
+もうすぐ本番です。何か１言お願いします","……Phew. Producer, the performance is starting soon. Say something really quick."
+0000000000000,プロデューサー,"（今の灯織は、かなりリラックスできてるみたいだし……
+なんて声をかけようか？）",(Hiori seems like she's pretty relaxed…… What should I say?)
+select,,必ず勝つ！,"Make sure
+you win!"
+select,,この調子でいこう！,"Keep going
+like this!"
+select,,落ち着いていこう！,Be calm!
+4002001000210020,灯織,もちろんです。全力を出して、絶対に勝ちます,Of course. I'll use all my effort to win.
+0000000000000,プロデューサー,（うーん、気合を入れすぎたか……？）,"(Hmm, she seems too motivated……?)"
+4002001000210030,灯織,はい。冷静に取り組みます,Okay. I'll deal with it calmly.
+0000000000000,プロデューサー,（冷静だが、情熱も感じる。本当に調子が良さそうだ）,"(She's calm, but I feel her passion too. She really is in a good mood)"
+4002001000210040,灯織,……落ち着いてはいます,……I'm already calm.
+0000000000000,プロデューサー,（……今、わざわざ言うことじゃなかったな）,(……I didn't need to say that right now)
+info,produce_communication_cheers/400200100021.json,
+译者,,

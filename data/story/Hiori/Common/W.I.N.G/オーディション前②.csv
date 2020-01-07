@@ -1,0 +1,23 @@
+id,name,text,trans
+4002001000120010,灯織,"プロデューサー、どうしたら、
+審査員の方に向けて効果的にアピールできると思いますか？","Producer, how do you think I should appeal to the judges?"
+0000000000000,プロデューサー,うーん、そうだな……,"Hmm, let's see……"
+select,,笑顔を大事にしよう,"Focus on
+your smile"
+select,,いつもどおりが１番だよ,"It's best
+to be
+yourself"
+select,,ミステリアスに黙る,"Be quiet
+and
+mysterious"
+4002001000120020,灯織,"笑顔……ですか
+私らしくない気もしますが、やってみます","My smile…… It doesn't seem like me, but I'll try."
+0000000000000,プロデューサー,（ちょっと戸惑わせてしまったか……？）,(I think I made her a bit confused……?)
+4002001000120030,灯織,"大丈夫なんでしょうか？
+でも……その言葉を信じることにします","Is that okay? ……But, I guess I'll believe in your words."
+0000000000000,プロデューサー,（うん、迷いはなくなったみたいだな）,"(Good, she doesn't seem lost anymore.)"
+4002001000120040,灯織,"……オーディションでそれは、
+得策だとは思えません",……In an audition I don't think that's a good plan.
+0000000000000,プロデューサー,（うっ、確かにそうだよな……）,"(Ah, that's right……)"
+info,produce_communication_cheers/400200100012.json,
+译者,,

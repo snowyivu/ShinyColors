@@ -1,0 +1,30 @@
+id,name,text,trans
+7002001010010,灯織,……結果、聞きました,……I heard the results.
+7002001010020,灯織,最初の審査、通過したって……,I passed the first judging……
+0000000000000,プロデューサー,ああ。おめでとう、灯織！,"Ah. Congrats, Hiori!"
+7002001010030,灯織,……はい、ありがとうございます,"……Yes, thank you very much."
+0000000000000,プロデューサー,本当によくやったよ！,You really did well!
+0000000000000,プロデューサー,"俺も、はづきさんから聞いたとき驚いたけど
+この調子で行けば、きっと――","I was surprised too when I heard it from Hazuki-san, but if we keep this pace surely――"
+7002001010040,灯織,……プロデューサー、少しは落ち着いてください,"……Producer, please calm down a bit."
+7002001010050,灯織,まだ先があるということ、わかっているんですか？,"You know there's still more ahead of us, right?"
+0000000000000,プロデューサー,"あ、ああ……そうだな
+ちょっと喜びすぎたよな","Ah, yeah…… That's right. I was too happy."
+0000000000000,プロデューサー,……灯織はいつも落ち着いていて、偉いな,"……It's great that you're always calm, Hiori."
+7002001010060,灯織,だから、そうやって安易に褒めるのもやめて……,I told you to stop praising me so easily like that……
+7002001010070,灯織,……,……
+0000000000000,プロデューサー,どうしたんだ？　灯織,What's wrong? Hiori.
+7002001010080,灯織,いえ……少し、思い出しただけです,Nothing. ……I just remembered something.
+7002001010090,灯織,最初にプロデューサーに会った頃のことを……,Around when I first met you……
+0000000000000,プロデューサー,最初……？,First met me……?
+7002001010100,灯織,"はい。あの頃は、あなたにプロデュースを任せて
+大丈夫か考えていたんです",Yes. Back then I was wondering if it was alright to have you in charge of producing me.
+0000000000000,プロデューサー,それって、灯織を不安にさせてたってことか？,Are saying that made you worried?
+7002001010110,灯織,"いえ、不安とは違いますが……
+とにかく、もう終わった話です","No, it's different from worry, but…… Anyways, that's already over."
+7002001010120,灯織,今はそんなことは考えていません,I don't think that now.
+7002001010130,灯織,"プロデューサー
+これからもプロデュース、よろしくお願いします",Producer. I'll be counting on you to keep producing me.
+0000000000000,プロデューサー,ああ！　こちらこそ、よろしく頼むよ,Yeah! I'll be counting on you too.
+info,produce_events/700200101.json,
+译者,,

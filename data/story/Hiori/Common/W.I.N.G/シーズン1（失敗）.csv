@@ -1,0 +1,28 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな",I heard the results. ……It seems like this is the end.
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,……Right. I wasn't able to reach our goal.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね","""W.I.N.G."" is a stage every idol yearns for, after all."
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems like the road was too steap……
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I'm sorry for not being able to bring out good results……
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","……It's not the time to say sorry to us. She's waiting for you, right?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"I'm sure it's rough, but this is part of your job too."
+0000000000000,プロデューサー,……行ってきます,……I'm going.
+0000000000000,プロデューサー,灯織……残念な結果になってごめん,Hiori…… I'm sorry the results are bad.
+7002001020010,灯織,……言い訳をする気はありません,……I won't make any excuses.
+0000000000000,プロデューサー,悪い、俺の力不足だ,"I'm sorry, I was too inadequate."
+7002001020020,灯織,"プロデューサーのせいではありません
+謝らないでください",It's not your fault. Please don't apologize.
+7002001020030,灯織,どんな結果であれ、最終的には私の責任です,"No matte the results, in the end it's my responsiblity."
+0000000000000,プロデューサー,"そんなことはない
+俺がもっと――",That's not true. I was more――
+7002001020040,灯織,……こんなことを言い合っても、意味はありません,"……Even if we argue of this, there's no point."
+7002001020050,灯織,もう、終わったことですから,It's already over.
+0000000000000,プロデューサー,"……だが、チャンスはこれからもまだある
+また、頑張っていこう","……However, we still have a chance. Let's do our best again."
+7002001020060,灯織,はい。でも……道のりは遠いですね,Okay. But…… the path is still far away.
+info,produce_events/700200102.json,
+译者,,

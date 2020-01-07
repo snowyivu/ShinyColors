@@ -1,0 +1,22 @@
+id,name,text,trans
+4002001000130010,灯織,なんだか、髪が跳ねてるような……,I feel like my hair is springing up……
+0000000000000,プロデューサー,（前髪が気になるみたいだな……）,(It seems like she's worried about her bangs……)
+select,,"気にしなくても
+大丈夫だ","Don't worry
+it'll be fine"
+select,,くしを使うか？,"Use a
+comb?"
+select,,"スタイリストさんに
+見てもらうか？","Let's have
+a stylist
+look at it?"
+4002001000130020,灯織,……気にする、しないの話ではありません,……It's not about being worried or not.
+0000000000000,プロデューサー,（ちょっと機嫌を損ねてしまったみたいだ……）,(It seems like I ruined her mood somewhat……)
+4002001000130030,灯織,"お借りしてもいいですか？
+助かります",It's okay if I borrow it? That helps me out.
+0000000000000,プロデューサー,（ひとまず、前髪はちゃんと直せそうだ）,(She seemed like she fixed her bangs a bit)
+4002001000130040,灯織,"……今から頼んでも大丈夫ですか？
+でしたら、ぜひお願いします","……It's okay even at a time like this? If so, let's do that."
+0000000000000,プロデューサー,（よし、すぐに呼んでこよう！）,"(Alright, I'll call them right away!)"
+info,produce_communication_cheers/400200100013.json,
+译者,,
