@@ -443,7 +443,7 @@ idolList.leaveEditModeDialog.text,まだ%{editType}は確定していません\r
 idolList.leaveEditModeDialog.tradeMoney,移籍,Transfer
 idolList.leaveEditModeDialog.tradeMemorialPiece,変換,Exchange
 gasha.closeAt,%{closeAt}まで,Until %{closeAt}
-gasha.redrawGashaNotice,確定するまで何度でも\n引き直すことができます,You can redraw as many times\r\nas you want until you confirm. 
+gasha.redrawGashaNotice,確定するまで何度でも\n引き直すことができます,You can reroll infinitely\r\nuntil you confirm a roll. 
 gasha.resultMessage,既に加入済みのアイドルは控室に送られます。,Idols you already have will be sent to the waiting room.
 gasha.tweetLayerMessage,ツイートしたいアイドルを選択してください,Please select the idol you wish to Tweet. 
 gasha.gashaText,%{quantity}回引く,%{quantity} pulls
@@ -572,16 +572,16 @@ ideaNote.confirmReplacementPop.description,「%{current}」を使用中です。
 ideaNote.confirmReplacementPop.notice1,使用中のアイデアノートは消滅します,使用中のアイデアノートは消滅します
 ideaNote.confirmReplacementPop.notice2,新たに使用するアイデアノートの付加効果は\r次の週から反映されます,新たに使用するアイデアノートの付加効果は\r次の週から反映されます
 ideaNote.forceSelectPop.title,使用確認,Confirm Use
-ideaNote.forceSelectPop.description,「%{selected}」を使用しますか？,「%{selected}」を使用しますか？
+ideaNote.forceSelectPop.description,「%{selected}」を使用しますか？,Use 「%{selected}」?
 ideaNote.forceSelectPop.notice,新たなアイデアノートに切り替える際\r使用中のアイデアノートは消滅します,When switching to a new Note\r\nThe current one will disappear
-ideaNote.extraEffectsPop.title,アイデアノートの付加効果,アイデアノートの付加効果
-ideaNote.extraEffectDetailPop.title,付加効果詳細,付加効果詳細
+ideaNote.extraEffectsPop.title,アイデアノートの付加効果,Addl. Effects of Idea Note
+ideaNote.extraEffectDetailPop.title,付加効果詳細,Addl. Effect Details
 ideaNote.detail.difficulty.title,難易度,Difficulty
 ideaNote.detail.tab.stage,必要なアイデア,Idea Needed
 ideaNote.detail.tab.extraEffect,付加効果,Addl. Effect
 ideaNote.detail.tab.completeBonus,コンプリートボーナス,Complete Bonus
-ideaNote.detail.emptyNotice,アイデアノートを使用していません,アイデアノートを使用していません
-ideaNote.detail.emptyComment,アイデアノートを埋めることでアイドルが更に成長します,アイデアノートを埋めることでアイドルが更に成長します
+ideaNote.detail.emptyNotice,アイデアノートを使用していません,No current Idea Note
+ideaNote.detail.emptyComment,アイデアノートを埋めることでアイドルが更に成長します,Complete Idea Notes to grow your idol
 ideaNote.list.noteCount.title,所持アイデアノート,Owned Idea Notes
 ideaNote.list.noteCount.count,%{count}冊,%{count}
 ideaNote.idolConfirmationDialog.title,プロデュースアイドル確認,Confirm Produce Idol
@@ -597,17 +597,17 @@ homeDeck.bgSelectButton,背景・その他,BG・Other
 homeDeck.emptyBackGroundEffectName,なし,Nothing
 judgeTrend.bonusValue,★%{value}倍,★%{value}x
 landscapeDialog.title,画面の向きについて,Screen Orientation
-landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,このゲームは画面を横向きにして\rお楽しみください。
+landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,Please enjoy the game in Landscape\r\norientation.
 loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer,this is today's login bonus!"
 loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best~"
 loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
-loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,ただいま外出中です。ログインボーナスはこちらに置いておきます
-loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,明日のログインボーナスも、忘れずに確認してください
-loginBonus.absenceClerkComment.totalBonus,ただいま外出中です\nプロデューサー就任%{totalLoginDays}日記念プレゼントはこちらに置いておきます,ただいま外出中です\nプロデューサー就任%{totalLoginDays}日記念プレゼントはこちらに置いておきます
-loginBonus.accumulatedTotal.comment1,プロデューサー就任から,プロデューサー就任から
-loginBonus.accumulatedTotal.comment2,日経過,日経過
-loginBonus.accumulatedTotal.comment3,日記念まであと,日記念まであと
-loginBonus.accumulatedTotal.comment4,日,日
+loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,I'm currently out. I'll leave the login bonus here.
+loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,Please don't forget to check the login bonus for tomorrow too.
+loginBonus.absenceClerkComment.totalBonus,ただいま外出中です\nプロデューサー就任%{totalLoginDays}日記念プレゼントはこちらに置いておきます,I'm currently out. I've left Producer's %{totalLoginDays} commemorative gift here.
+loginBonus.accumulatedTotal.comment1,プロデューサー就任から,days played
+loginBonus.accumulatedTotal.comment2,日経過,d
+loginBonus.accumulatedTotal.comment3,日記念まであと,until gift
+loginBonus.accumulatedTotal.comment4,日,d
 loginBonus.receive.title,報酬受け取り,Receive Rewards
 loginBonus.receive.message,以下の報酬を受け取りました,Received these rewards
 maintenance.title,メンテナンス,Maintenance
