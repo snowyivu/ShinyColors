@@ -159,7 +159,7 @@ $nounで勝利しよう,Win with $1,exp
 $nounのメンバーを全員入れたデッキでフェスアイドルを誕生させよう,Create a Fes idol using all $1 members in a run,exp
 シーズン$numをクリアしよう,Clear Season $1,exp
 $nameのフェスアイドルを誕生させよう,Create a $1 Fes Idol,exp
-グレードLv$numに昇格しよう,Promote to Grade Lv$num,exp
+グレードLv$numに昇格しよう,Promote to Grade Lv$1,exp
 センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
 $nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,"$1's unit has achieved\r\n""$2"" against powerful rivals",exp
 $nameのTrueEndを見よう,Reach $1's True End,exp
