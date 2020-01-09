@@ -1,0 +1,24 @@
+id,name,text,trans
+4019001000130010,愛依,プロデューサー、今日のステージ、なんかまぶしくない？,"Producer, isn't today's stage kind of blinding?"
+0000000000000,プロデューサー,（照明が気になるみたいだ）,(Seems like she's concerned about the lighting)
+select,,じっと見て、慣らそう,"If you keep staring
+you'll get used to it"
+select,,調整、頼んでみる,"We could try to ask
+them to adjust it"
+select,,"変わらないと
+思うけど","I don't think you can
+change that though."
+4019001000130020,愛依,"ま、それしかないよね～
+サンキュ、ちょっと慣らしてくんね！","Well, I have no choice~
+Thank you, I'll try to get used to it!"
+0000000000000,プロデューサー,（不安要素を減らせたな）,(Her concern seems to have abated)
+4019001000130030,愛依,"マジで？　あ～でも、迷惑になっちゃうっしょ？
+気持ちだけもらっとくわ！　サンキュ！","For real? Ah~but, isn't that bothersome?
+Well I appreciate the thought! Thank you!"
+0000000000000,プロデューサー,（とりあえず大丈夫そうかな）,(Well she seems okay for now)
+4019001000130040,愛依,"え～、そんなもん？
+絶対まぶしいと思うんだけど～","Eh~ that's just life?
+But they definitely seem blinding~"
+0000000000000,プロデューサー,（思った以上に気になっているみたいだ）,(She's more concerned than I thought)
+info,produce_communication_cheers/401900100013.json,
+译者,,

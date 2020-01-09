@@ -1,0 +1,23 @@
+id,name,text,trans
+4019001000230010,愛依,うっわあの人、テレビでよく見る人じゃん……！,"Woah that person, I see them
+on TV all the time…!"
+0000000000000,プロデューサー,（愛依、少し腰が引けちゃってるな）,"(Mei, seems a little stiff)"
+select,,"あの人、結構
+優しいらしいぞ","That person seems
+really nice"
+select,,"意識しすぎない
+ようにな","Don't pay too much
+attention to them"
+select,,気にするな,Don't worry about it
+4019001000230020,愛依,え、そうなん？　んじゃ後で話しかけてみよ～！,"Eh, really?  Mm well then I'll
+have to talk to them later~!"
+0000000000000,プロデューサー,（気は紛れたみたいだ）,(Seems like she forgot about her worries)
+4019001000230030,愛依,"そ、そだよね……よし
+気にしない、気にしない……っと","I, I see… alright.
+I don't care… I don't care… um."
+0000000000000,プロデューサー,（なんとかなりそうだな）,(She seems to be managing)
+4019001000230040,愛依,いや、んなこと言っても気になんじゃん？,"Hey, you don't care what I'm
+talking about?"
+0000000000000,プロデューサー,（違うことを言えばよかったな）,(I wish I said something different)
+info,produce_communication_cheers/401900100023.json,
+译者,,

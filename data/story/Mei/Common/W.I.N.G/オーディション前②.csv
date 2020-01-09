@@ -1,0 +1,24 @@
+id,name,text,trans
+4019001000120010,愛依,んんっ！,Mnn!
+0000000000000,プロデューサー,（のどの調子が悪いのか？）,(Is her throat sore?)
+select,,軽く声出し、しとくか,"You should speak softly
+to get ready"
+select,,のど飴、いるか,"Do you have
+a cough drop?"
+select,,"カラオケで
+歌いすぎたりしたか","Did you sing too
+much in karaoke?"
+4019001000120020,愛依,"サンキュ！　別に調子は悪くないんだけどさ
+ちょっと出が不安だったんだよね～","Thank you! My throat's not actually
+sore, I'm just a little nervous~"
+0000000000000,プロデューサー,（調子は悪くないみたいだ）,(She doesn't seem that bad)
+4019001000120030,愛依,"ん～、調子は悪くないから大丈夫っぽいけど
+ま、一応もらっとくわ！","Yeah~, I'm fine since my throat isn't that bad.
+Well, I'll take one just in case!"
+0000000000000,プロデューサー,（気休めにはなったかな）,"(It seems she got some
+peace of mind from that)"
+4019001000120040,愛依,いやいや、さすがにうちもそこまではやんないよ？,"Not at all, wouldn't you expect me
+to stop before that happened?"
+0000000000000,プロデューサー,（悪い勘繰りをしてしまった）,(My intuition was poor)
+info,produce_communication_cheers/401900100012.json,
+译者,,
