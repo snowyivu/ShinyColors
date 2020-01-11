@@ -1,0 +1,152 @@
+id,name,text,trans
+0,プロデューサー,"（２８３プロダクションに入社して数か月……
+いよいよ俺が、アイドルをプロデュースする時が来た）",(A few months have passed since I started working here at 283 Production...... Now the time has finally come for me to produce an idol myself.)
+0,プロデューサー,"（ずっと憧れていた仕事をようやく任されたんだ、
+これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for so long, so I want to do my very best!)"
+0,プロデューサー,"おはようございます！
+って、天井社長……？","Good morning!
+Ah! President Amai......?"
+1902001010010,社長,おはよう、お前を待っていたぞ,Good morning. I've been waiting for you.
+0,プロデューサー,"（この２８３プロダクションを束ねる
+天井社長……あいかわらずダンディな雰囲気だ）",(President Amai is the boss here at 283 Production...... He comes off as a bit of a dandy.)
+1902001010020,社長,"お前には今日から、アイドルを
+プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today,
+you will begin producing an idol yourself......"
+1902001010030,社長,"素晴らしい結果を期待させてもらう
+私は甘くないぞ","I'm expecting some spectacular results.
+I am not a lenient man."
+0,プロデューサー,は、はい！　よろしくお願いします！,O-of course! I will do all I can!
+1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,"Excellent. I'll let Hazuki explain the rest...... "
+0,プロデューサー,？　はづきさんはどこにも……あっ！？,"? Where is Hazuki-san, actually..... Woah!?"
+0,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(T-there's someone passed out behind the sofa!?)
+1901001010010,はづき,"……ふわぁ～？
+なんですか～急に大きな声出して～……","......Mhmhn～?
+What's going on～ Why's everyone being so loud～......"
+1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki...... Why were you sleeping on the floor?
+1901001010020,はづき,"すみません、ソファへ着く前に
+眠気に負けてしまいまして～……","My apologies, I was so sleepy,
+I couldn't make it to the sofa in time～"
+1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know......"
+1902001010070,社長,"……ともかく！
+彼に仕事の説明をしてくれ",".......Moving on! 
+I'd like you to give him the details of his new job."
+1901001010030,はづき,"はい、もちろんです
+プロデューサーさん、どうぞ～","Yes, absolutely.
+Producer-san, please take these documents～"
+0,プロデューサー,"ありがとうございます
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
+0,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki-san is actually quite reliable.....)"
+1901001010040,はづき,"ありがとうございます
+それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
+Alright, allow me to explain......"
+1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,"To start, let's discuss your main goal....."
+1901001010060,はづき,"ワンダーアイドルノヴァ・グランプリ……
+通称『W.I.N.G.』への出場を目指してください","You will aim to have your idol participate in
+the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
+0,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""…… You say?"
+1901001010070,はづき,"はい
+新人アイドルの祭典とも言われる、すごいライブなんです",That's right. It's a special live that celebrates the best newcomer idols.
+1901001010080,はづき,"祭典と言われるだけあって、この『W.I.N.G.』は
+出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the qualifications that must be met to participate are quite strict......"
+1901001010090,はづき,"エントリーしたアイドルは開催前まで、
+全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons, and the bar is raised each time."
+1901001010100,はづき,"その時、一定のランクに達していないと、
+出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
+1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
+私もたくさんサポートさせていただきますね～","That being said, let's try our very best～!
+I will do everything I can to support you～"
+1902001010080,社長,"……少しアドバイスをしておくが、
+お前は、２８３プロダクションのプロデューサーだ","......Here's a bit of advice.
+You are now a producer here at 283 Production. "
+1902001010090,社長,"担当アイドルと他のアイドルたちを
+交流させることも重要になってくる","It is of utmost importance to allow the idol
+you'll be producing to network with the other idols here."
+1902001010100,社長,互いに影響しあうことで目指せる高みもあるだろう,"With each other's influence our idols
+will be able to soar to even greater heights."
+1902001010110,社長,"まあ、まずは思うようにやってみるといい
+結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see fit. Whether good results follow depends on the effort of both you and the idol you produce. "
+1901001010120,はづき,"では、そろそろお仕事に移ってもらいましょうか
+今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
+The idol you will be producing──"
+0,プロデューサー,（自分で探してこい、か）,"(Search by myself, huh?)"
+0,プロデューサー,"（よし！　今回のオーディションで
+ダイヤの原石を見つけてみせるぞ！）","(Okay!  I'm going to find a diamond in
+the rough at today's audition!)"
+0,プロデューサー,どうぞ,Please go ahead.
+1004001010010,恋鐘,"失礼します！　月岡恋鐘、19才ばい！　あっ……です！
+今日はよろしくお願いします！","Scuse me! Kogane Tsukioka, age 19! Ah… erm!
+Nice to meet'cha, eh!"
+0,プロデューサー,ああ、よろしく,"Ah, pleased to meet you."
+0,プロデューサー,"それと、今回は君の良さを知るための審査だから
+方言とか気にせず話しやすい喋り方でいいからね","Well then, since I'd like to assess your traits and merits this time, it's
+fine to speak without worrying about your dialect or speech patterns."
+1004001010020,恋鐘,"え、よかと？　助かるわ～、標準語は変に緊張するけん
+うちの実力を出し切れんもんね～","Oh, it's fine? Thank goodness~, it's hard to show the real
+me if I'm worryin' about speakin' proper Hyoujun-Go~"
+0,プロデューサー,"はは、それは楽しみだ
+じゃあまずは出身から聞かせてもらおうかな","Haha, I'm looking forward to this.  Well then,
+first could you tell me where you're from?"
+1004001010030,恋鐘,"うん。うちは～、長崎の佐世保出身！
+上京してきたばっかやけん、ちょっとまだ訛りがでるんよ","Mhm. I'm~ from Sasebo, Nagasaki! I've just come 
+to the capital, so I've still got a little bit of an accent!"
+0,プロデューサー,"へぇー、長崎か
+いったことないな",Oh-? I've never been to Nagasaki.
+1004001010040,恋鐘,"ホント！？　もったいなかよーそれは！
+長崎はばーりよかとこやけん、絶対くるべきたい～！","You don't say!? That's a waste-! Nagasaki's
+real fine, you absolutely must visit~!"
+1004001010050,恋鐘,"うちん地元は魚が新鮮で美味いし、人はみんな優しいし
+ホントよかとこばい～！","My hometown's got delicious fresh fish,
+and everyone's real sweet, honest~!"
+0,プロデューサー,"はは
+君の話を聞いてるとなんだか行ってみたくなるな","Haha, listening to you talk
+is making me want to go."
+1004001010060,恋鐘,"んふふー。そうやろ～？
+うち、こういうコメント？　みたいなんも得意なんよ～","Mhehe-. Oh yah~? Cause of my remarks?
+Seems like one of my talents, eh~"
+0,プロデューサー,"（なんだか、すごく楽しそうに話す子だな
+それに自信に満ち溢れているところも面白い）","(She's kind of, like a kid who's always talking excitedly.
+It's also fun that she's brimming with self-confidence.)"
+0,プロデューサー,"それじゃあ、次の質問ね
+今日はどうして２８３プロを受けてくれたのかな","Alright then, next question.
+Why did you audition with 283 Pro today?"
+1004001010070,恋鐘,"それは……うち、絶対アイドルになりたかけんね！
+やけん、オーディションは全部、片っ端から受けとーよ","Well… cause I'm definitely gonna become an idol eh!
+That's why, I've been doin' auditions one after another!"
+0,プロデューサー,"ということは他のオーディションも受けてるってことか
+結果って聞いてもいい？","You're saying you've taken other auditions?
+Would you mind telling me your results?"
+1004001010080,恋鐘,それが……なぜか、全部不合格やったばい……,"That's… why, I totally blew em…"
+0,プロデューサー,ぜ、全部……それで……へこんだりしないの？,"A, all of… them… you haven't given up?"
+1004001010090,恋鐘,え？　まっさか～！　そんなもんするわけなかよ～,Eh? Course not~! That's just how it goes~
+1004001010100,恋鐘,"うちはアイドルになるために生まれてきたけん
+オーディションに落ちたくらい、なんてことなか！","I was born to be an idol.
+Failin' a few auditions, is just part of it!"
+1004001010110,恋鐘,落ち込んでる暇があったら、練習練習ばい～！,"If I got time to feel down,
+that's time to practice and practice~!"
+0,プロデューサー,"（なるほど。元気で自信満々なのはアイドル向きだ
+どこか人を引きつけるような魅力がある……）","(Indeed. An idol this lively and brimming with
+self-confidence has a certain fascinating charm…)"
+0,プロデューサー,"……よし！　決めた！
+月岡恋鐘さん。いきなりだが、オーディションは合格だ！","…Alright!  I've decided!  Ms. Kogane Tsukioka.
+It may be sudden, but you've passed the audition!"
+0,プロデューサー,"俺が君をトップアイドルにしてみせる！
+これからよろしくな","I'll make you a Top Idol!
+Please look forward to it."
+1004001010120,恋鐘,"え……ホントに？　ホントにホント？
+や、やったー！　とうとう、うちもアイドルたい～！","Huh… really? Really really?
+I, I did it-! I'm finally an idol~!"
+1004001010130,恋鐘,"よーし、うちがアイドルになったからには
+あっという間に1番になるけん、まかせとってね～！","Alright, since you're made me an idol I'll
+be number 1 in no time, count on me, eh~!"
+0,プロデューサー,ああ、期待してるよ、月岡さん,"Yeah, I have high hopes, Ms. Kogane."
+1004001010140,恋鐘,"月岡さんって……なんだかくすぐったかね……
+うちのが年下なんやし、恋鐘でよかばい～！","Ms. Kogane… it's kinda embarassing eh…
+Since I'm your junior, just Kogane is fine~!"
+0,プロデューサー,"ああ、じゃあ、改めて
+これから一緒に頑張ろう！　恋鐘！","Right, I'll start over then.
+Let's do our best together! Kogane!"
+1004001010150,恋鐘,"うん！　うち、ばりばり頑張るけん
+よろしゅう頼むばい！　プロデューサー！","Yeah! I'll do my darnedest!
+Please take care of me! Producer!"
+info,produce_events/100400101.json,
+译者,,
