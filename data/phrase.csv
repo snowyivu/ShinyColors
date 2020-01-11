@@ -478,25 +478,25 @@ gasha.gashaTicketSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
 gasha.gashaTicketSubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
 gasha.step1Subtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
 gasha.step1SubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
-gasha.instantLottery.subtitle,スピードくじ提供割合,スピードくじ提供割合
-gasha.instantLottery.header,等級（%{count}種）,等級（%{count}種）
-gasha.instantLottery.grade,%{grade}等,%{grade}等
-gasha.instantLottery.popReward.instantLotteryReward.title,スピードくじ報酬,スピードくじ報酬
-gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,上記のアイテムがプレゼントBOXに送られました
+gasha.instantLottery.subtitle,スピードくじ提供割合,Speed Lotto Rates
+gasha.instantLottery.header,等級（%{count}種）,Grade (%{count})
+gasha.instantLottery.grade,%{grade}等,%{grade} etc.
+gasha.instantLottery.popReward.instantLotteryReward.title,スピードくじ報酬,Speed Lotto Result
+gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,The above items have been sent to your present box
 gasha.loadingWarning,読み込みに時間が掛かることがありますので、\nリロードはお控えください。,Loading may take some time.\r\nPlease do not reload the page.
 gasha.noExpire,期限なし,No Expiration
 gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
-gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！
+gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,Get a %{pickUpName} after %{stampNumForNextPickUp} more stamps!
 gasha.stamp.popReward.title,スタンプカード報酬,Stamp Card Reward
-gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,以下のアイテムがプレゼントBOXに送られました
+gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,The following items have been sent to your present box
 gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,Once the stamp card is filled rewards will repeat the 1~%{boardNum} pages
 gasha.freeGift.popReward.title,おまけ,Bonus
 gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left
 gasha.stepupRemainingMinutes,残り%{minutes}分,%{minutes} min left
-gasha.stepupTimes.long,%{times}連ガシャ,%{times}連ガシャ
-gasha.stepupTimes.short,%{times}連,%{times}連
-gasha.scoutGasha.idolList.title,対象アイドル一覧,対象アイドル一覧
-gasha.scoutGasha.idolList.expireAt,【有効期限】%{expireAt}まで,【有効期限】%{expireAt}まで
+gasha.stepupTimes.long,%{times}連ガシャ,%{times} Step Gacha
+gasha.stepupTimes.short,%{times}連,%{times} step
+gasha.scoutGasha.idolList.title,対象アイドル一覧,Idol Scout List
+gasha.scoutGasha.idolList.expireAt,【有効期限】%{expireAt}まで,【Expires】%{expireAt}
 gasha.scoutGasha.useConfirmation.title,使用確認,Confirm Use
 gasha.scoutGasha.useConfirmation.description,セレクションチケットを消費して\n%{name}\nを獲得します\nよろしいですか？,セレクションチケットを消費して\n%{name}\nを獲得します\nよろしいですか？
 gasha.scoutGasha.noExpire,期限なし,No Expiration
@@ -598,8 +598,8 @@ homeDeck.emptyBackGroundEffectName,なし,Nothing
 judgeTrend.bonusValue,★%{value}倍,★%{value}x
 landscapeDialog.title,画面の向きについて,Screen Orientation
 landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,Please enjoy the game in Landscape\r\norientation.
-loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer,this is today's login bonus!"
-loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best~"
+loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer, this is today's login bonus!"
+loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow, so do your best~"
 loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
 loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,I'm currently out. I'll leave the login bonus here.
 loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,Please don't forget to check the login bonus for tomorrow too.
