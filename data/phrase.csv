@@ -410,7 +410,7 @@ gameEvent.schedule,開催期限 %{closeAt}まで,Ends at %{closeAt}
 gameEvent.rewardReceivableSchedule,受取期限 %{closeAt}まで,Collect by %{closeAt}
 gameEvent.gashaSchedule,ガシャ期限 %{closeAt}まで,Gacha Ends %{closeAt}
 gameEvent.communicationsDialog.title,イベントコミュ,Event Commu
-gameEvent.communicationsDialog.noticeMessage,コミュはイベントショップから解放可能です,Commus can be unlocked from the Event Shop
+gameEvent.communicationsDialog.noticeMessage,コミュはイベントショップから解放可能です,Commus are bought at the Event Shop
 gameEvent.specialCommunicationsDialog.title,スペシャルコミュ,Special Commu
 gameEvent.specialCommunicationsDialog.unreleasedTitle,？？？？,????
 gameEvent.resumeSpecialCommunicationsDialog.title,シナリオ再生確認,Confirm Scenario Resume
@@ -792,7 +792,8 @@ produceItemPreparation.itemList.empty,プロデュースアイテムを所持し
 produceItemPreparation.itemList.tips,プロデュースアイテムは、\r2つまで持っていくことができますよ〜,You are able to bring\r\nUp to 2 Produce Items~
 produceItemPreparation.isNotRestricted,なし,Nothing
 produceItemPreparation.isAreaRestricted,このアイテムは選択したプロデュースに\n持ち込むことができません,This item can't be brought to\r\nthe selected Production area
-produceItemPreparation.sameEffectType,同じ効果のプロデュースアイテムを複数持ち込む\rことはできません,You cannot bring more than one Produce Item with the same effect
+produceItemPreparation.sameEffectType,同じ効果のプロデュースアイテムを複数持ち込む\rことはできません,"You cannot bring more than one
+Produce Item with the same effect"
 produceItemPreparation.beforeRelease,%{useOpenAt}以前は持ち込めません,Not available before %{useOpenAt}
 produceTop.deadline.season,シーズン%{seasonNum},Season%{seasonNum}
 produceTop.homeConfirmPop.title,ホームに戻る,Return Home
@@ -958,7 +959,7 @@ tutorial.skipPop.title,確認,Confirm
 tutorial.skipPop.warning1,各機能の説明はチュートリアル終了後も,"After exiting the tutorial, click"
 tutorial.skipPop.warning3,から確認可能です。,for help!
 tv.appearance,テレビ出演を果たした。\n,Performed on TV.\r\n
-tv.appearanceAfter,アイドル達の魅力が引き出されたように感じる。,I feel like the idol's appeal was brought out.
+tv.appearanceAfter,アイドル達の魅力が引き出されたように感じる。,I think the idol's charm was shown.
 tv.performanceComment,今話題のアイドルが登場！圧巻のパフォーマンスを披露！,Popular idols! An incredible performance!
 twitter.PINCodeDialog.title,Twitter連携,Twitter Link
 twitter.PINCodeDialog.description,Twitterに投稿するには、PINコードを取得して\nTwitterとの連携を認証する必要があります,Twitterに投稿するには、PINコードを取得して\nTwitterとの連携を認証する必要があります
@@ -1343,7 +1344,7 @@ reporterEvent.answer.ok,これでOK,That's OK
 reporterEvent.answer.private,プライベートの様子,About Private Life
 reporterEvent.answer.rethink,考え直す,Let's Rethink
 reporterEvent.answer.work,仕事の様子,About Work
-reporterEvent.answerMail,密着取材の依頼だ\nどうしようか……,It's a request for an exposé\r\nWhat should I do…
+reporterEvent.answerMail,密着取材の依頼だ\nどうしようか……,It's a request for an interview.\r\nWhat should I do…
 reporterEvent.badReporter,阿久井 徳次郎と申します──それじゃ、\n隅から隅まで取材させていただくんで、どうぞ宜しく,"I'm Tokujirou Akui,\r\nI'll be covering every aspect, best regards."
 reporterEvent.declineInterview,やめておこう。\n残念だが今回は都合がつかないな────,Let's not do it.\r\nUnfortunately it's not convenient at this time-
 reporterEvent.eventDetailTitle.failure,悪徳記者取材中,Corrupt Reporter Interview
