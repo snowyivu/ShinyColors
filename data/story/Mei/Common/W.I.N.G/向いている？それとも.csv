@@ -7,7 +7,7 @@ Do you want to talk about a schedule for today?"
 0000000000000,プロデューサー,今日は基本的なレッスンをひと通り体験してもらおうと思う,"Today, I'll try to get you through the basic lessons."
 0000000000000,プロデューサー,"スカウトの時、アイドルのこと全然知らなそうだったろ？
 手始めにな","When I scouted you, you didn't know anything about
-idols, right?  Then, let's start with..."
+idols, right?  Then, let's start with…"
 1019001020030,愛依,"え～やるじゃんプロデューサー！
 うちに合わせてくれたんだ～♪","Huh, pretty nice, Producer!
 Just according to my expectations~"
@@ -15,7 +15,7 @@ Just according to my expectations~"
 じゃ、レッスン場に移動しよう","Well, it's my job after all.
 Let's go to the lesson area."
 1019001020040,愛依,"……っと、どーだった？
-言われた通り、いちおーやってみたけど","...Oh, how was that?
+言われた通り、いちおーやってみたけど","…Oh, how was that?
 Like I said, this is my first time."
 0000000000000,プロデューサー,"お疲れ様、愛依
 ひとつ聞きたいんだが、もしかして何か習ってたか？","Good job, Mei. I would like to ask you - by any 
@@ -24,12 +24,12 @@ chance, have you ever been trained in anything?"
 うち近所のばーちゃんにシュージ習ってた系～","Ah, you know? Calligraphy lessons
 from a grandma in my neighbourhood~"
 0000000000000,プロデューサー,"いやすまん、そうじゃなくて……
-歌とか……ダンスとか","Sorry, but I didn't mean that...
-I meant singing... or dancing."
+歌とか……ダンスとか","Sorry, but I didn't mean that…
+I meant singing… or dancing."
 1019001020060,愛依,"あ、そっち系ね！
 うーん全然、友達とカラオケ行くくらい？","Oh, something like that! Umm,
 not at all, except going to karaoke with friends?"
-0000000000000,プロデューサー,なるほどな……,I see...
+0000000000000,プロデューサー,なるほどな……,I see…
 1019001020070,愛依,え、もしかしてうちってけっこーいいカンジ？,"Oh, you mean I did well?"
 0000000000000,プロデューサー,"ああ、ダンスも歌も未経験にしてはよくできてるよ
 無理をしてる感じもしなかった","Yeah, both dancing and singing were
@@ -41,12 +41,12 @@ To see a real idol, right?"
 0000000000000,プロデューサー,ああ、そろそろちょうどいい時間だし、移動しよう,"Yeah, it's almost time, let's go."
 0000000000000,アイドル,みんな～！　ありがと～！,Thanks everyone!
 0000000000000,スタッフ,はい、オッケーです！,"Yeah, okay!"
-1019001020100,愛依,……すげー……,...Awesome...
+1019001020100,愛依,……すげー……,…Awesome…
 0000000000000,プロデューサー,愛依、どうだった？,"Mei, what's going on?"
 1019001020110,愛依,"これマジで練習なん！？
 なんかそのまま本番ってカンジでヤバくない！？","That was really a practice!?  Is it possible
 to perform that well by putting in effort?"
-1019001020120,愛依,それに今の人……マジすげー,And that person... really awesome-
+1019001020120,愛依,それに今の人……マジすげー,And that person… really awesome-
 0000000000000,プロデューサー,"そうだな
 今日はその空気を感じて欲しかったんだ","That's right.  Today,
 I just wanted you to feel that atmosphere."
@@ -62,12 +62,12 @@ and the main perfomance, would you like to go on stage?"
 0000000000000,プロデューサー,ありがとうございます！　是非よろしくお願いします！,Thanks so much! Please take care of us!
 0000000000000,プロデューサー,愛依、せっかくだし、行こうか,"Mei, it's a good chance, let's go!"
 1019001020130,愛依,行く行く～,"Let's go, let's go~"
-1019001020140,愛依,……す、すご……,...A-Awesome...
+1019001020140,愛依,……す、すご……,…A-Awesome…
 0000000000000,プロデューサー,ステージの上からの景色は随分違ってみえるだろう,The view from up on stage is quite different.
-1019001020150,愛依,あ、そ、そだね……,"Ah, y-you're right..."
-1019001020160,愛依,……このカンジ……なんか昔……,...this feeling... from the past...
-0000000000000,プロデューサー,……愛依？　大丈夫か？,...Mei? Are you fine?
-1019001020170,愛依,え？　あ、ああ……へーき！,"Eh? Um, ah... I'm fine!"
+1019001020150,愛依,あ、そ、そだね……,"Ah, y-you're right…"
+1019001020160,愛依,……このカンジ……なんか昔……,…this feeling… from the past…
+0000000000000,プロデューサー,……愛依？　大丈夫か？,…Mei? Are you fine?
+1019001020170,愛依,え？　あ、ああ……へーき！,"Eh? Um, ah… I'm fine!"
 select,,大丈夫か？,Are you okay?
 select,,"初めは誰だって
 緊張するよ","Everyone gets
@@ -75,8 +75,8 @@ nervous at first"
 select,,"もしかして、
 こういうのは苦手か","Maybe it's not
 good for you"
-1019001020180,愛依,よゆーよゆー……、すごすぎて驚いちゃった的な？,"Easy, easy-... are you surprised I got overwhelmed?"
-0000000000000,プロデューサー,そうか、それならいいんだけど……,"I see, it's fine for now, but..."
+1019001020180,愛依,よゆーよゆー……、すごすぎて驚いちゃった的な？,"Easy, easy-… are you surprised I got overwhelmed?"
+0000000000000,プロデューサー,そうか、それならいいんだけど……,"I see, it's fine for now, but…"
 1019001020190,愛依,"にしてもステージの上ってめっちゃ暑くね？
 こんな中で踊るとか、そーとー体力いるっしょ？","Anyway, is it really hot on the stage? How can
 you expect to perform well when it's like that, right?"
@@ -91,7 +91,7 @@ in order to build the physical fitness."
 0000000000000,プロデューサー,"ステージに立つ経験なんてなかなかないからな
 最初から堂々としていられる子なんてそうそういないぞ","It's because you don't have experience on the stage.
 Not many girls can be confident at the beginning."
-1019001020220,愛依,だ、だよね～,"R, Right..."
+1019001020220,愛依,だ、だよね～,"R, Right…"
 0000000000000,プロデューサー,だんだんと慣れていけばいいさ,You should get used to it gradually.
 1019001020230,愛依,サンキュ、うち、頑張っちゃうから,"Thanks, I'll try to do my best."
 0000000000000,プロデューサー,はは、頼もしいな,"Haha, you are quite reliable."

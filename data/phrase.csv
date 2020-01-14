@@ -108,7 +108,7 @@ comic.categories.web,WEB４コマ,WEB 4Koma
 comic.categories.special,特別編,Special Edition
 comic.categories.limited,限定４コマ,Limited
 comic.otherUnitName,[その他],[Other]
-comic.storyNumberText,第%{chapter}話,Chapter %{chapter}
+comic.storyNumberText,第%{chapter}話,Koma %{chapter}
 comic.filterTitle,４コマ漫画検索,4Koma Search
 comic.notFound,条件に合うものが見つかりません,No results found
 comic.paginationLabel,%{currentPage} / %{maxPage},%{currentPage} / %{maxPage}
@@ -949,7 +949,7 @@ tutorial.openingMessage.mes0,「アイドル」,「Idol」
 tutorial.openingMessage.mes1,それは,"That image, "
 tutorial.openingMessage.mes2,女の子達の永遠の憧れ,The eternal aspiration of young women
 tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,"However, only one group"
-tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit...
+tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit…
 tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 19 Girls and"
 tutorial.openingMessage.mes7,今19人の女の子と,One Producer
 tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
@@ -1365,7 +1365,7 @@ staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美�
 staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~
 staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,"Is it chocolate~,they say that it's good for fatigue♪\r\nI'm going to eat it right away~"
 staffAssistEvent.workHard,頑張っちゃいますよ～♪,Do your best～♪
-staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~...
+staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~…
 shop.applyCampaignConfirmation.notices.1,購入前に必ず応募規約をお読みください,Please read the entry agreement before purchasing.
 shop.applyCampaignConfirmation.notices.2,購入時に応募規約に同意したものとみなします,You agree to the terms and conditions at the time of purchase.
 shop.applyCampaignConfirmation.title,購入確認,Purchase Confirmation
