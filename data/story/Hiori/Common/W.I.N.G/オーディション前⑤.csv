@@ -1,0 +1,26 @@
+id,name,text,trans
+4002001000220010,灯織,"今日は積極的にアピールしていこうと考えているんです
+プロデューサーはどう思いますか？","I think I want to appeal actively today. What do you think, Producer?"
+0000000000000,プロデューサー,うーん、そうだな……,"Hmm, let's see……"
+select,,"どんどん
+アピールしよう！","Keep
+appealing!"
+select,,適度にアピールしよう,"Appeal
+moderately"
+select,,"一世一代の
+アピールをしよう！","Do a once
+in a lifetime
+appeal!"
+4002001000220020,灯織,"はい。審査員の方々の印象に残れるよう、
+頑張りたいと思います",Okay. I'll do my best to leave an impression on the judges.
+0000000000000,プロデューサー,（よし、灯織はやる気満々みたいだ！）,"(Alright, it seems like Hiori is full of motivation!)"
+4002001000220030,灯織,"確かに適度なのは大事ですね
+いつもどおりにはならない程度に頑張ってみます","Certainly, it's important to be moderate.
+I'll do my best so it ends up different from usual."
+0000000000000,プロデューサー,"（納得はしてくれたけど、
+少しテンションが落ちたかな……？）","(She seems accepting, but did her mood drop a little……?)"
+4002001000220040,灯織,"……今日のオーディションでそれは、
+やりすぎだと思うのですが",……I think that's overdoing it for today's audition.
+0000000000000,プロデューサー,（うっ、冷静に返されてしまった……）,"(Uu, She responded back coldly……)"
+info,produce_communication_cheers/400200100022.json,
+译者,,
