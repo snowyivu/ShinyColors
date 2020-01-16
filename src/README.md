@@ -36,3 +36,11 @@ By default the game stops sound playback after losing window focus，this plug-i
 After the game URL add #bgm=on ，otherwise leave #bgm=off 。
 
 You can also directly click these links，[Keep playing BGM](https://shinycolors.enza.fun/home#bgm=on)  /  [Pause BGM](https://shinycolors.enza.fun/home#bgm=off)
+
+**Download or Test new commus for the spreadsheet**
+
+You can manually download or upload .csv files when viewing commus.  You will see a button the right side of the screen when viewing commus with this feature turned on - the download button will allow you to extract the commu script as a .csv , and the upload button will allow you to test a .csv you are working on.
+
+After the game URL add #story=edit , otherwise leave #story=normal 。
+
+You can also directly click these links，[Story Edit Button](https://shinycolors.enza.fun/home#story=edit)  /  [No Story Edit](https://shinycolors.enza.fun/home#story=normal)
