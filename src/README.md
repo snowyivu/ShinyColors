@@ -9,7 +9,8 @@ This type of tool that modifies game files is not allowed per the game Terms of 
 4. Refresh game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
-Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend for biuuu (the original Chinese dev!) [Recruit Link](https://go.enza.fun/YLZXbw)
+Game Address：[Direct Link](https://shinycolors.enza.fun/home)
+Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://go.enza.fun/YLZXbw)
 
 ## Installing on Mobile
 1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
