@@ -10,6 +10,7 @@ This type of tool that modifies game files is not allowed per the game Terms of 
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
 Game Address：[Direct Link](https://shinycolors.enza.fun/home)
+
 Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://go.enza.fun/YLZXbw)
 
 ## Installing on Mobile
