@@ -5,9 +5,11 @@ id,name,text,trans
 うち、ついつい触っちゃうんだよね～","Asahi-chan, her cheeks are so soft~
 I can't stop squeezing them~"
 0000000000000,プロデューサー,（そうなのか）,(Is that so?)
-select,,怒られないのか,I doubt she'll be upset
-select,,ほどほどにな,Just do it in moderation
-select,,やめなさい,Stop it
+select,,怒られないのか,"I doubt she'll be
+upset."
+select,,ほどほどにな,"Just do it in
+moderation."
+select,,やめなさい,Stop it.
 0000000000000,,★選択肢①【怒られないのか】,★選択肢①【怒られないのか】
 1019001001410030,愛依,それがさ、逆にニコニコして触らしてくれんの！,"That's right, in fact she grins when I squeeze em!"
 1019001001410040,愛依,なんか、触ってる時のうちの反応が面白いんだって～,She always seems to have an amusing reaction when I do it.

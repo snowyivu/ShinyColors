@@ -1,10 +1,10 @@
 id,name,text,trans
 2019003020010,愛依,"よっと……迎えに来てくれて
 サンキュ、プロデューサー","Hup… you came and picked me up,
-Thanks, Producer"
+thanks, Producer."
 0000000000000,プロデューサー,"今日の行き先は電車だと行きづらいからな
-気にしないでくれ","Since it's hard to get to today's destination by train,
-don't worry about it."
+気にしないでくれ","Since it's hard to get to today's destination by
+train, don't worry about it."
 2019003020020,愛依,"アハハ、送迎とかちょー
 アイドルってカンジすんね～！","Ahaha, you're picking me up and dropping me off-
 This really makes me feel like an idol~!"
@@ -22,7 +22,7 @@ But only if it's work related."
 Figured it was worth a shot~"
 2019003020050,愛依,行き先ってここからどんくらいなの？,About how far are we from our destination?
 0000000000000,プロデューサー,２時間くらいかな？,I think it's about 2 hours?
-2019003020060,愛依,へぇ～結構かかんだね,Ehh~ That's pretty dang rough
+2019003020060,愛依,へぇ～結構かかんだね,Ehh~ That's pretty dang rough.
 0000000000000,プロデューサー,"ああ、そうなんだよ
 愛依はゆっくりしてくれてていいからな","Uh-huh, it is.
 So it's fine if you take it easy."
@@ -31,8 +31,8 @@ So it's fine if you take it easy."
 0000000000000,プロデューサー,…………,…
 2019003020090,愛依,ふぁ～……,Yawn~…
 2019003020100,愛依,"あのさ～、すげー長く運転してるっぽいけど
-疲れたりしないの～","You know~, even though you've been driving a suuuper long time,
-You're not even tired~"
+疲れたりしないの～","You know~, even though you've been driving a suuuper
+long time, you're not even tired~"
 0000000000000,プロデューサー,そういえば、疲れたな,"Come to think of it, I'm worn-out."
 2019003020110,愛依,"もうすぐサービスエリアみたいだし
 ちょっと休んだほうがよくない？","Looks like there's a service area soon,
@@ -75,7 +75,7 @@ Mhmmm, that's a weight off my shoulders~"
 I'm going to the hair salon."
 0000000000000,プロデューサー,はは、綺麗に染まったらいいな,"Haha, I hope it gets dyed beautifully."
 2019003020220,愛依,"染め直したら、また見てもらうから
-感想、ヨロシクね～","When I re-dye it, since I'll show you again,
-Give me your impression!  Thanks for treating me well~"
+感想、ヨロシクね～","When I re-dye it, since I'll show you again, give
+me your impression!  Thanks for treating me well~"
 info,produce_events/201900302.json,
 译者,,

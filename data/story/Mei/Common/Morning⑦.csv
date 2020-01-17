@@ -3,10 +3,13 @@ id,name,text,trans
 0000000000000,プロデューサー,新しく始まったバラエティだよな、見たぞ,"Ah, the new variety show that just came out, I did!"
 1019001000710020,愛依,あのコーナー、マジで面白くなかった～？,"That segment, wasn't it interesting~?"
 0000000000000,プロデューサー,そうだな……,Right…
-select,,漫才が最高だった,The comedy skit was amazing
+select,,漫才が最高だった,"The comedy skit
+was amazing."
 select,,"ドッキリが
-よかったな",The pranks were great
-select,,クイズが面白かった,The quiz part was interesting
+よかったな","The pranks
+were great."
+select,,クイズが面白かった,"The quiz part
+was interesting."
 1019001000710030,愛依,"わかる～♪
 うち、最初に出てた芸人ちょー好きなんだよね～","I know right～♪ 
 I totally liked that first guy~"

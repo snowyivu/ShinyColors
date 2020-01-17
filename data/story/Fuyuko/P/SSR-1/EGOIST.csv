@@ -26,16 +26,21 @@ id,name,text,trans
 0000000000000,プロデューサー,……そんなの、わかるわけないだろ……,"…is that it, I didn't get it…"
 0000000000000,プロデューサー,つまり、握手会の練習をしてたってことか？,"In other words, you're practicing your handshake?"
 2018004030110,冬優子,"そ
-質問のパターンとか、色々予想はしてるんだけどね","Yeah.\r\nAnd things like the types of questions, and what I should expect."
+質問のパターンとか、色々予想はしてるんだけどね","Yeah. And things like the types of questions,
+and what I should expect."
 2018004030120,冬優子,"ひとりで考えるにも限界があるじゃない？
-だから、他の人の発想も参考にしようと思って","There's a limit to how much one person can think of right?\r\nThat's why, I figured I'd use another person's point of view."
+だから、他の人の発想も参考にしようと思って","There's a limit to how much one person can think of
+right? That's why, I figured I'd use another person's
+point of view."
 0000000000000,プロデューサー,それで俺か,So you're using mine?
 2018004030130,冬優子,"そういうこと
 ──じゃ、改めて","That's how it is.\r\n-well, let's start."
 2018004030140,冬優子,訊きたいことがあったら、なんでも聞いてください♡,"If there's something you wanted to ask, ask me anything♥"
 0000000000000,プロデューサー,うーん、そうだなぁ……,"Yeah, let's see…"
 select,,"好きな食べ物は
-なんですか？",What is your\r\nFavorite thing to eat?
+なんですか？","What is your
+favorite thing
+to eat?"
 select,,……………………,…
 select,,可愛い衣装ですね,Your outfit is cute.
 0000000000000,プロデューサー,好きな食べ物はなんですか？,What is your favorite thing to eat?
@@ -68,7 +73,8 @@ select,,可愛い衣装ですね,Your outfit is cute.
 2018004030260,冬優子,"何それ。プロデューサーなんだから、
 アイドルのことを知るのも仕事でしょ？","What the.  Since you're a Producer, \r\nIsn't it your job to know about idols?"
 0000000000000,プロデューサー,"だからこそだよ
-知りたいことは、冬優子に直接聞いちゃってるからな……",Well that's why. \r\nSince I get to directly ask Fuyuko something I want to know…
+知りたいことは、冬優子に直接聞いちゃってるからな……","Well that's why. Since I get to directly ask
+Fuyuko something I want to know…"
 2018004030270,冬優子,！,!
 0000000000000,プロデューサー,"今さら、わからないこととか……
 うーん……",What do I still not know yet…\r\nHmmm…
@@ -78,7 +84,9 @@ select,,可愛い衣装ですね,Your outfit is cute.
 2018004030290,冬優子,"ふふ、そんな大口叩くならいいわ
 今からクイズ出してあげる","Hehe, if you brag like that, \r\nI'll have to quiz you from now on. "
 2018004030300,冬優子,"ふゆの誕生日や血液型、ふゆのことを知ってる
-なんて言うなら、ちゃんと答えられるわよね？","My birthday or blood type, and other things about Fuyu.\r\nIf I ask about stuff like that, can you answer correctly?"
+なんて言うなら、ちゃんと答えられるわよね？","My birthday or blood type, and other things about
+Fuyu. If I ask about stuff like that, can you answer
+correctly?"
 0000000000000,プロデューサー,……よし、受けて立つぞ,"… alright, I accept your challenge."
 2018004030310,冬優子,"負けたら罰ゲームだからね！
 じゃ、第一問──","If you lose, it's a Batsu-game!\r\nOkay, first question-"

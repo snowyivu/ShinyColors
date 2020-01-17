@@ -1,13 +1,15 @@
 id,name,text,trans
-1019001000510010,愛依,あっちゃ～、ヤッバ,"Ah shoot~, that's no good"
+1019001000510010,愛依,あっちゃ～、ヤッバ,"Ah shoot~, that's no good."
 0000000000000,プロデューサー,どうした、愛依、大丈夫か？,"What is it Mei, everything alright?"
 1019001000510020,愛依,いや～、爪割れちゃったっぽいわ～,"No~, looks like I just broke a fingernail~"
 0000000000000,プロデューサー,（それなら……）,(Is that what it is…)
 select,,"救急箱に
-グルーがある",There's glue in the first-aid kit
-select,,絆創膏ならあるぞ,Here's a band-aid
+グルーがある","There's glue in
+the first-aid kit."
+select,,絆創膏ならあるぞ,Here's a band-aid.
 select,,"すまん、何も
-持ってないな","Sorry, there's nothing I can do"
+持ってないな","Sorry, there's
+nothing I can do."
 1019001000510030,愛依,え？　マジで！　ちょー助かるわ！,"Eh? Seriously!! I'm like, saved!"
 1019001000510040,愛依,"え、てか、そういうのけっこー知ってんだね
 さすがプロデューサーじゃん、頼りになる～♪","Eh, I mean, it's just like Producer to remember
