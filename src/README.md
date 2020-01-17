@@ -9,7 +9,9 @@ This type of tool that modifies game files is not allowed per the game Terms of 
 4. Refresh game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
-Game Address：[Direct Link](https://shinycolors.enza.fun/home) Recruit-a-friend for biuuu (the original Chinese dev!) [Recruit Link](https://go.enza.fun/YLZXbw)
+Game Address：[Direct Link](https://shinycolors.enza.fun/home)
+
+Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://go.enza.fun/YLZXbw)
 
 ## Installing on Mobile
 1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
@@ -36,3 +38,11 @@ By default the game stops sound playback after losing window focus，this plug-i
 After the game URL add #bgm=on ，otherwise leave #bgm=off 。
 
 You can also directly click these links，[Keep playing BGM](https://shinycolors.enza.fun/home#bgm=on)  /  [Pause BGM](https://shinycolors.enza.fun/home#bgm=off)
+
+**Download or Test new commus for the spreadsheet**
+
+You can manually download or upload .csv files when viewing commus.  You will see a button the right side of the screen when viewing commus with this feature turned on - the download button will allow you to extract the commu script as a .csv , and the upload button will allow you to test a .csv you are working on.
+
+After the game URL add #story=edit , otherwise leave #story=normal 。
+
+You can also directly click these links，[Story Edit Button](https://shinycolors.enza.fun/home#story=edit)  /  [No Story Edit](https://shinycolors.enza.fun/home#story=normal)

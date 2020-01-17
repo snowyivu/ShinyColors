@@ -9,7 +9,7 @@
 ## Introduction
 Get the Patch：[Click Here](https://github.com/snowyivu/ShinyColors/blob/master/src/README.md)
 
-Help with Translations：[Click Here](https://github.com/snowyivu/ShinyColors/tree/master/data)
+Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/xuFcKzW)
 
 ## Development
 
