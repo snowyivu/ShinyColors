@@ -8,7 +8,8 @@ id,name,text,trans
 It would be… right there…"
 0000000000000,プロデューサー,"ああ。オリオン座の足元のあたりだ
 ──やっぱり、うさぎ座は街中じゃ難しいかなぁ……","Correct. It would be right next to Orion's foot. 
-- as I thought、 it's hard to see Lepus from the city…"
+- as I thought, it's hard to see Lepus from
+the city…"
 2008004040030,霧子,"……恥ずかしがり屋のうさぎさん……
 ……ふふっ","…Lepus-san is a shy person…
 …heheh."
@@ -61,7 +62,7 @@ Made one rotation!"
 0000000000000,プロデューサー,……ん？,…hm?
 2008004040150,霧子,"い、いえ……
 …………ふふ、わたし","N、 nothing…
-…hehe、 I"
+…hehe、 I、"
 2008004040160,霧子,"小さい頃から……
 両親が……帰ってくるのが遅くて……","Ever since I was young…
 My parents… always came home late…"
@@ -78,13 +79,14 @@ It would naturally… return…"
 2008004040200,霧子,おかえりって……言えます……,"And I'd say… ""Welcome back""…"
 select,,"霧子も
 おかえりだぞ？","Kiriko、
-""Welcome back"" to you too、 yeah?"
+""Welcome back""
+to you too、 yeah?"
 select,,"星が見えないことは
 あるけどな","You can't see
 the stars、 though"
 select,,"霧子も、
-早く帰らなきゃな","Kiriko also、
-You have to return early"
+早く帰らなきゃな","Kiriko also、you
+have to return early"
 2008004040210,霧子,……え？,…eh?
 0000000000000,プロデューサー,地球が一回りしたんだから,"Since the Earth made a rotation、 "
 0000000000000,プロデューサー,──おかえり、霧子,"-""welcome back""、 Kiriko."
@@ -110,7 +112,8 @@ Producer-san…!"
 嫌味とかじゃなくて──","-er、 sorry. 
 I wasn't trying to be sarcastic-"
 2008004040280,霧子,い、いえ……そんな……！,N、 no… that's…!
-2008004040290,霧子,両親が家にいなかったりするのは……慣れてて……,Since my parents weren't home much… I got used to it…
+2008004040290,霧子,両親が家にいなかったりするのは……慣れてて……,"Since my parents weren't home much…
+I got used to it…"
 0000000000000,プロデューサー,"あ、いや……
 ほんとそんな意味じゃ……！　その……","Ah、 no…
 I don't really mean that…! That's…"
@@ -139,10 +142,10 @@ Producer-san…"
 2008004040360,霧子,……え？,…eh?
 0000000000000,プロデューサー,"いや、その……
 霧子もこの先、きっとどんどん忙しくなる","Err、 that's…
-From now on、 you'll surely become busier and busier"
+From now on、 you'll surely become busier and busier."
 0000000000000,プロデューサー,"ご両親だって……
-きっとおんなじように思う日が来ると思うんだ","Your parents…
-I'm sure a day will come that you'll feel the same as they did"
+きっとおんなじように思う日が来ると思うんだ","Your parents… I'm sure a day will come that you'll
+feel the same as they did."
 2008004040370,霧子,プロデューサーさん……,Producer-san…
 0000000000000,プロデューサー,"まぁ……それは、
 霧子が大人になったってことでもあるんだけどな","Well… that's、 
@@ -154,12 +157,12 @@ An adult…"
 たくさん言おうな。ただいまとか、おかえりとか","When you're able to say it、
 let's say it a lot. Like ""I'm back""、 and ""welcome back""."
 2008004040390,霧子,"……プロデューサーさんは
-大人になって……言わなくなったんですか……？","…Producer-san、
-When you became an adult… did you stop saying that…?"
+大人になって……言わなくなったんですか……？","…Producer-san、when you became an adult…
+did you stop saying that…?"
 0000000000000,プロデューサー,"俺か？　うーん、子どもの頃ほどじゃないけど……
 あ、でも──","Me? Well、 not as much as when I was a kid…
 Ah、 but-"
-0000000000000,プロデューサー,ほら、事務所に帰ってきた時は言ってるぞ！,Look、 I'll say it when we get back to the office!
+0000000000000,プロデューサー,ほら、事務所に帰ってきた時は言ってるぞ！,Look、 I'll say it since we're back at the office!
 0000000000000,プロデューサー,ただいま、霧子,"""I'm back""、 Kiriko."
 2008004040400,霧子,わぁ……,Wah…
 2008004040410,霧子,"ふふっ……

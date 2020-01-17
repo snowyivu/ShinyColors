@@ -14,9 +14,11 @@ id,name,text,trans
 0000000000000,プロデューサー,"はは、しっかりしてるな……
 一応、それをやるのは、俺の仕事なんだけど……","Haha, you're certainly brave…\r\nFor now, doing that sort of thing, is my job…"
 2018004020070,冬優子,"それも当然、わかってんに決まってんでしょ
-しっかりやってもらわなきゃ困るわよ","Well naturally you would, but I decided to know as well.\r\nIf you don't do it well I'll be in trouble."
+しっかりやってもらわなきゃ困るわよ","Well naturally you would, but I decided to know as
+well. If you don't do it well I'll be in trouble."
 2018004020080,冬優子,"でも、ふゆ自身が評判を見るのも大事じゃない
-世間にふゆがどう思われてるかって","But, it's important for Fuyu herself to see her reputation.\r\nHow the world thinks of Fuyu."
+世間にふゆがどう思われてるかって","But, it's important for Fuyu herself to see her
+reputation. How the world thinks of Fuyu."
 0000000000000,プロデューサー,……確かに、冬優子の言うことは正しいな,"…certainly, what Fuyuko is saying is correct."
 0000000000000,プロデューサー,けど、無理はしすぎるなよ,"However, you shouldn't overdo it."
 2018004020090,冬優子,──わかってるわよ、なに心配してんだか,"-Of course I know that, what are you worried about?"
@@ -29,7 +31,9 @@ select,,"『すっごく
 可愛かったです』","""Amazingly\r\nCute!"""
 select,,『かっこよかったです』,"""She's cool."""
 select,,"（『この子、
-性格悪そう』）","(""This girl,\r\nSeems like a bad personality."")"
+性格悪そう』）","(""This girl,
+seems like a
+bad personality."")"
 2018004020120,冬優子,"ふふ、当然よね！
 いいこと言うじゃない！","Hehe, well of course!\r\nThey're saying good things aren't they!"
 2018004020130,冬優子,そんな感じの、他にもあるでしょ？,"That sort of impression, is there more like it?"

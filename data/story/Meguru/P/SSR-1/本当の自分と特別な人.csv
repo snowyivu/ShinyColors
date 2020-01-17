@@ -19,10 +19,10 @@ It's also thanks to Producer's help!"
 2003004040060,めぐる,ううん！　そんなことないよっ！,Nuh-uh!  That's not true!
 2003004040070,めぐる,"プロデューサーがアドバイスをして
 わたしの背中を押してくれたから","The advice you gave,
-Was the push on my back"
+was the push on my back."
 2003004040080,めぐる,どうしたらいいか、決められたんだから！,"Because of it, I was able to decide what to do!"
 2003004040090,めぐる,"……多分ね、プロデューサーは
-わたしのことをちょっと勘違いしてるんだと思うの","…probably, Producer
+わたしのことをちょっと勘違いしてるんだと思うの","…probably, Producer,
 I think you misunderstand me a little."
 0000000000000,プロデューサー,勘違い？,Misunderstand?
 2003004040100,めぐる,"うん。わたしはプロデューサーが思ってるより
@@ -58,10 +58,12 @@ select,,"俺はめぐるの
 Producer, after all."
 select,,"俺にとっても、
 めぐるは特別な存在だよ","Also for me,
-Meguru is a special person."
+Meguru is a
+special person."
 select,,"そんなこと言ってると、
-誤解されるぞ","If you're saying that,
-You're mistaken."
+誤解されるぞ","If you're saying
+that, you're
+mistaken."
 0000000000000,プロデューサー,俺はめぐるのプロデューサーだからな,"I'm Meguru's Producer, after all."
 2003004040200,めぐる,"プロデューサー……
 ……そっか","Producer…

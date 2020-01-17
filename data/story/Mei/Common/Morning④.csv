@@ -1,16 +1,19 @@
 id,name,text,trans
 1019001000410010,愛依,"プロデューサー、歌のレパートリー
-増やしたいんだけど、なんかいい方法ない～？","Producer, I'm trying to find music to expand my song choices,
-but I'm not sure what a good direction to go is~"
+増やしたいんだけど、なんかいい方法ない～？","Producer, I'm trying to find music to expand my song
+choices, but I'm not sure what a good direction to
+go is~"
 0000000000000,プロデューサー,おお、急にどうしたんだ……？,"Oh, why the sudden change…?"
 1019001000410020,愛依,"カラオケがさ～
 マンネリ気味なんだよね～","For Karaoke~ 
 I don't want to be like, stuck in a rut you know~?"
 0000000000000,プロデューサー,なるほどな……,I see…
 select,,"ヘビメタとか
-ありじゃないか",Maybe something like Heavy Metal?
+ありじゃないか","Maybe something
+like Heavy Metal?"
 select,,"バラードとか
-いいんじゃないか？",Wouldn't a ballad be good?
+いいんじゃないか？","Wouldn't a ballad
+be good?"
 select,,ラップとかどうだ？,Why not Rap music?
 1019001000410030,愛依,お！　それならちょーアガるじゃん！,Oh! I've never done something like that!
 1019001000410040,愛依,よっしゃ、たくさん練習するし！,"Alright, I've gotta go practice a bunch!"

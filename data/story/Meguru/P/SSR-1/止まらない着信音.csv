@@ -7,7 +7,7 @@ Ahaha, that's so true!"
 うん、うん…………えー！　そうだったんだ！","Yeah, hello!  Ah, yahoo-!
 Mhm, mhm… eh-!  Is that true!"
 0000000000000,プロデューサー,"（休憩中ずっと電話がかかってきている
-めぐるは友だちからとても好かれているんだろうな）","(She's constantly getting phone calls on her break
+めぐるは友だちからとても好かれているんだろうな）","(She's constantly getting phone calls on her break.
 Meguru must be really liked by her friends)"
 2003004020040,めぐる,"……うん、……うん。わかった！
 じゃあまた、今度ね！","…yeah, …yeah.  Gotcha!
@@ -28,18 +28,18 @@ You're never going to get any rest."
 I hadn't even thought about that!"
 2003004020080,めぐる,友だちと話すの、すっごく楽しいよ！,"Talking with friends, is really enjoyable!"
 2003004020090,めぐる,"その日あった面白いこととか聞いたりね、
-わたしも元気をもらってるんだ！","When I hear something interesting that happened in their day,
-I'm also filled with energy!"
+わたしも元気をもらってるんだ！","When I hear something interesting that happened in
+their day, I'm also filled with energy!"
 2003004020100,めぐる,プロデューサーは、いっぱい電話が来ると休めないの？,"Producer, can't you relax by receiving lots of calls?"
 0000000000000,プロデューサー,"いや、そんなことはないけど……
-でも、それだけ人と話せるのは一つの才能だと思うよ","No, it's not that but…
-Well, I think being able to talk to that many people is one kind of talent."
+でも、それだけ人と話せるのは一つの才能だと思うよ","No, it's not that but… Well, I think being able
+to talk to that many people is one kind of talent."
 2003004020110,めぐる,"才能かー、そうかなー！
 えへへー！","Talent-?, Oh yeah-?!
 Ehehe-!"
 2003004020120,めぐる,"あ、でもね。いっぱい電話ができるのは嬉しいんだけど、
-困ったこともあって……","Ah, but hey.  Even though it makes me happy to be able to get so many calls,
-It can also be troublesome…"
+困ったこともあって……","Ah, but hey.  Even though it makes me happy to be
+able to get so many calls, it can also be troublesome…"
 0000000000000,プロデューサー,困ったこと？,Troublesome?
 2003004020130,めぐる,うん。携帯の電池が切れちゃうこともあるんだよね,Yeah.  My phone's battery can run out y'know.
 2003004020140,めぐる,"そうすると、
@@ -49,16 +49,19 @@ I wouldn't be able to get in touch with you right?"
 0000000000000,プロデューサー,"なるほどな
 そんなときは……","I see.
 In that case…"
-select,,俺とは直接話そう,I can talk with you in person.
+select,,俺とは直接話そう,"I can talk with
+you in person."
 select,,"電話が無理なら
-直接会いに行けばいい","If you use your phone too much
-Just go talk to them in person."
+直接会いに行けばいい","If you use your phone
+too much. Just go talk
+to them in person."
 select,,"友だちとの連絡は
-家で済ませておこう","You can keep in touch with your friends
-By finishing up your calls at home."
+家で済ませておこう","You can keep in touch with
+your friends by finishing up
+your calls at home."
 0000000000000,プロデューサー,"俺と話すときは、
-電話を使わないで用事を伝えればいいだろ？","When you're talking with me,
-Why don't you just leave the phone with me instead of using it?"
+電話を使わないで用事を伝えればいいだろ？","When you're talking with me, why don't you just
+leave the phone with me instead of using it?"
 0000000000000,プロデューサー,"そうすれば、携帯電話は友だちと電話するために
 使えるようになる","If you do that, I can handle your friend's calls,
 That way I can be useful."
@@ -89,7 +92,8 @@ This was a great idea if I say so myself!)"
 2003004020210,めぐる,"お仕事もあるし……
 友だちも予定があるからなかなか上手くいかないんだー","I have a job…
 It's also not easy since my friends also have plans-"
-0000000000000,プロデューサー,なら時間を作れるように、俺がスケジュールを調整するよ,"If you need to make time, I can rearrange the schedule."
+0000000000000,プロデューサー,なら時間を作れるように、俺がスケジュールを調整するよ,"If you need to make time, I can rearrange the
+schedule."
 2003004020220,めぐる,"ほんとに！？　わーい！
 プロデューサー、ありがとう！","Really!?  Wahh!
 Producer, thank you!"
@@ -103,11 +107,11 @@ Well then, I'll have to try even harder!"
 いっぱい取ってきてね！","Yeah!  …but since I want to do my job well,
 I'll have to take a lot of them!"
 0000000000000,プロデューサー,"（アイドルの仕事も友だちと話すこともできるように、
-俺がめぐるをしっかりとサポートしないとな！）","(In order to do both idol work and talk with her friends,
-I have to support Meguru completely!)"
+俺がめぐるをしっかりとサポートしないとな！）","(In order to do both idol work and talk with her
+friends, I have to support Meguru completely!)"
 0000000000000,プロデューサー,"夜の間にいっぱい話をしておけば、
-昼間は仕事に専念できるんじゃないか？","If you talk a lot at night,
-You'd be able to concentrate on your work during the day right?"
+昼間は仕事に専念できるんじゃないか？","If you talk a lot at night, you'd be able to
+concentrate on your work during the day right?"
 2003004020250,めぐる,"そっかー
 そういう方法もあるよね！","I see-
 That's also one strategy!"
@@ -118,13 +122,14 @@ Mm-…"
 2003004020280,めぐる,"……でもプロデューサーの言う通り、
 昼はアイドルのお仕事を頑張らなきゃ、だよね！","…but as you say,
 I have to do my best idol work during the day!"
-2003004020290,めぐる,なんとか家で連絡を済ませるようにしてみるよ！,And somehow or other finish keeping in touch at home!
+2003004020290,めぐる,なんとか家で連絡を済ませるようにしてみるよ！,"And somehow or other finish keeping in touch at
+home!"
 0000000000000,プロデューサー,"ああ。それにいつもってわけにはいかないけど、
 仕事を頑張れば早めに帰ることもできるかもな","Yeah.  It might not always be possible but,
 If you try your hardest at work you could come home earlier than usual."
 2003004020300,めぐる,"そっか！　そうすれば、お仕事も友だちとの電話も
-たくさんできるよね！","Aha!  In that case, my work and chatting with my friends,
-I can do a lot!"
+たくさんできるよね！","Aha!  In that case, my work and chatting with my
+friends, I can do a lot!"
 2003004020310,めぐる,"よーし！　じゃあ、昼はバリバリお仕事して
 家で友だちと話そーっと！","Alright!  Well, I'll be all revved up during the day,
 So I can chat with my friends at home!"
