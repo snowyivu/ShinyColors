@@ -1,5 +1,5 @@
 name,ja,zh
-announce.package,パッケージ,Package
+announce.package,パッケージ,Bundle
 announce.noticeLabel.topics,開催中のトピックス,Current Topics
 announce.noticeLabel.update,すべてのお知らせ,All Announcements
 announce.noticeLabel.problem,メンテナンス・不具合情報,Maintenance・Defect Announcements
@@ -904,7 +904,7 @@ shop.exchangeResult.message,%{title}と交換しました,Exchanged for %{title}
 shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,Exchanged for\r\n%{title}
 shop.currencyLabel.jewelType.billedJewel,有償,Paid
 shop.currencyLabel.jewelType.freeJewel,無償,Free
-shop.expireDate,【交換期限】%{closeAt}まで,【Closes】at %{closeAt}
+shop.expireDate,【交換期限】%{closeAt}まで,【Closed】Collect by %{closeAt}
 shop.noShopItem,交換可能なアイテムがありません。,There are no exchangeable items
 recycleShop.tradeConfirmation.title,交換確認,Exchange Confirmation
 recycleShop.tradeConfirmation.message,以下のアイテムを交換しますか？,Do you want to exchange these items?
