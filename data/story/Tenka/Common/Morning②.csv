@@ -9,9 +9,10 @@ To the place, where Naa-chan feels happy as well……"
 0000000000000,プロデューサー,"甘奈との出かけ先が決まってないのか
 それなら……","Have you decided where to go with Amana?
 In that case……"
-select,,ゲームセンターとか,How about Game Center?
+select,,ゲームセンターとか,Game Center?
 select,,カラオケはどうだ？,How about Karaoke？
-select,,服を見るのも楽しい,It'll be fun to clothes browsing
+select,,服を見るのも楽しい,"It'll be fun to
+clothes browsing."
 1015001000210030,甜花,"ゲームセンター……それ、いいかも……
 なーちゃんと一緒に、ゲーム……楽しそう……","Game Center…… that sounds nice……
 Playing game, with Naa-chan…… sounds fun……"
