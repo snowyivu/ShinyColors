@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,お、このアイドル、最近よくテレビで見るよな,"Oh, that idol's been on TV a lot recently."
+1007001000410010,結華,"そうだね、でも活動自体は意外と長いんだよ？
+三峰も前から応援してるんだー","She has! Though, she's actually been around quite a while? Mitsumine's been cheering her on from the start."
+1007001000410020,結華,"トークも上手いし、いろんな仕事こなせちゃうし
+やっぱり経験値が違うって感じ","She's a talented speaker. and done a lot of different kinds of work too. She's racked up a lot of experience. 
+"
+0000000000000,プロデューサー,そんなことまで知ってるなんて……,"If you know that much, then……"
+select,,でも俺の方が詳しいな,"I bet I know
+more about her
+than you do."
+select,,ライバルだもんな,"She's one of 
+your rivals now."
+select,,よく調べてるな,"I see you've
+researched a
+lot about her."
+1007001000410030,結華,"お、プロデューサー、いいねその自信
+もしかして勝負がご所望かな？","Woah, I like that confidence, Producer.
+Perhaps you'd like to settle this with a trivia battle?"
+1007001000410040,結華,この子についてどっちが詳しいか、決めちゃう？,"Is it time for us to determine who knows more about this idol, once and for all?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1007001000410050,結華,なるほど。……今はたしかにそうかもね,"Oh, yeah. ……Since I'm an idol now, I guess that's true."
+1007001000410060,結華,"でもアイドルになりたての三峰じゃ、
+まだまだ差は大きいと思うよ","Though, a veteran like her and a newbie like Mitsumine are on totally different playing fields. "
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1007001000410070,結華,"ざぁんねん、調べてるんじゃないよー
+好きだから情報が集まるだけ","You've got it all wrong, I don't know all that that because of ""research""! it's because I like her."
+1007001000410080,結華,"これがファンってものだよ
+覚えといてね、プロデューサー","It's an important part of being idol's fan.
+Make sure you remember that, Producer."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh…… I screwed up. I should have said something else……)
+info,produce_communications/100700100041.json,
+译者,,
