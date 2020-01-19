@@ -1,0 +1,35 @@
+id,name,text,trans
+1016001000310010,千雪,"あれ？　プロデューサーさん
+今朝は、コンビニごはんですか？","Huh, Producer?
+Are you going to eat a meal from the convenience store?"
+0000000000000,プロデューサー,"ああ、そうなんだ
+バタバタしてて、あまり時間が取れなくてな","Yes, that's right.
+I'm a little busy, so I don't have that much time."
+1016001000310020,千雪,"それだけだと、栄養が偏っちゃいますね……
+よかったら、私のお弁当、少しお分けしましょうか？","If that's the case, your nutrition will be a little unbalanced…
+Say, you won't mind If I could share my lunchbox with you?"
+0000000000000,プロデューサー,（千雪のお弁当、うまそうだ……）,(Chiyuki's lunchbox looks delicious…)
+select,,"千雪の分が
+なくなってしまう","But your time
+would be lost."
+select,,"千雪は料理も
+できるんだな","I'm sure that 
+you can cook."
+select,,"もったいなくて
+食べられないよ","I can't eat it, 
+because It'd be wasteful."
+1016001000310030,千雪,ふふ。お気遣いありがとうございます,"Fufu, thanks for the concern."
+1016001000310040,千雪,"でも、プロデューサーさんが食べてくれたほうが、
+私も安心してお腹いっぱいになれますから♪","But if Producer eats,
+I'd feel fulfilled with mind and peace♪"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1016001000310050,千雪,ええ、人並みですけど……,"Yes, like a normal person…"
+1016001000310060,千雪,でも、お弁当を毎日考えて作るの、結構楽しいんですよ♪,"But, It's quite fun thinking about making lunch everyday♪"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1016001000310070,千雪,そんなことないですよ……！,That's not true!
+1016001000310080,千雪,"でも、無理に押し付けてたらごめんなさい……
+……お昼は、ちゃんとしたものも食べてくださいね？","But, I'm sorry if I forced you…
+Please eat better food during lunchtime, okay?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Hmm… I should've said something else instead…)
+info,produce_communications/101600100031.json,
+译者,,

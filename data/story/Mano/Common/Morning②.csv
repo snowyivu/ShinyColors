@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,おはよう、真乃,"Good morning, Mano."
+1001001000210010,真乃,"あ、プロデューサーさん、
+おはようございますっ","Ah, Producer-san,
+good morning."
+1001001000210020,真乃,今日はすっごくいいお天気ですね,Today's weather is quite sunny.
+0000000000000,プロデューサー,（天気がいいことを喜んでるみたいだ）,(It looks like she's happy about today's weather.)
+select,,絶好の仕事日和だな,Great job on your work during today's weather.
+select,,"お天気キャスター
+みたいに言ってみて","Try to say it like
+a weathercaster."
+select,,"あとから雨が
+降るみたいだよ","It looks like it 
+will rain later."
+1001001000210030,真乃,"はいっ、
+朝からずっとウキウキしてました","Yes,
+I've been thinking about it since the morning."
+1001001000210040,真乃,"張り切ってお仕事できそうです
+頑張りますね、プロデューサーさん","I'll do my best and work harder, 
+Producer-san."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001000210050,真乃,"ほわっ、お天気キャスターさんですか……？
+えーっと……","Eh, like a weather caster…?
+Well…"
+1001001000210060,真乃,"本日は全国的に晴れです。洗濯物がよく乾くでしょう
+こ、こんな感じでしょうか……？","""It is currently sunny all over the country today, 
+and your laundries will be very dry."" S-Something like that…?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001000210070,真乃,ほわっ、本当ですか……？,"Huh, Is that true…?"
+1001001000210080,真乃,"こんなにいいお天気なのに……
+今からしょんぼりしてしまいます……","But the weather today is really nice…
+I don't want it to change…"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Hmm… I should've said something else instead…)
+info,produce_communications/100100100021.json,
+译者,,

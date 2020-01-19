@@ -1,0 +1,37 @@
+id,name,text,trans
+1007001000510010,結華,ふわぁ……おはよう、プロデューサー,"Fwaaah…… Morning, Producer."
+0000000000000,プロデューサー,"ああ、おはよう
+……ずいぶん眠そうだな。夜更かしでもしたのか？","Oh, good morning.
+……You seem sleepy. Were you up late?"
+1007001000510020,結華,"まあそんなとこかなー。ゲームのやめ時逃しちゃって
+あ、時間までには体調戻すから、心配しないでね？","You could say that. I got to a good part in a game I was playing and lost track of time. I'll be fine later when it's time for lessons, so don't worry?"
+0000000000000,プロデューサー,あ、ああ……わかった。けど……,"Oh, sure…… I believe you will, but……
+"
+select,,"後で眠そうだったら、
+説教な","If you seem tired
+later, you'll get
+a lecture."
+select,,コーヒー淹れるか,"Should I brew
+some coffee?"
+select,,"普段の生活、
+見直そうな","Maybe you should
+re-examine your
+lifestyle choices."
+1007001000510030,結華,"う、わっと！　はい、もう大丈夫！　
+眠気バッチリ飛びました！","A-Augh! No worries, I'm wide awake now!
+All my sleepiness suddenly disappeared!"
+1007001000510040,結華,三峰はちゃんと切り替えできる子だからね！,"Mitsumine can always flip her switch if she needs to, see!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright! That went really well.)
+"
+1007001000510050,結華,"あ、そんな気を遣わないでよＰたん！
+それくらい自分でやるって！","Oh, that's not necessary at all, P-tan!
+I can do that much myself!"
+1007001000510060,結華,でも、気持ちは嬉しいです。ありがとね,"I do appreciate the thought, though. Thanks.
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)
+"
+1007001000510070,結華,む、趣味に打ち込むのはいいことだと思うけどー？,"Hmph, I don't think there's anything wrong with devoting yourself to what you enjoy?"
+1007001000510080,結華,プロデューサー、そういうことの楽しさ、忘れちゃったの？,"Have you forgotten how much fun that can be, Producer? "
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh…… I screwed up. I should have said something else……)
+info,produce_communications/100700100051.json,
+译者,,

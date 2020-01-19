@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,結華、なにしてるんだ？,"What are you working on, Yuika?
+"
+1007001000110010,結華,"お、プロデューサー
+今はねー、大学の課題やってるんだよー","Oh, hey Producer.
+I'm doing some homework for my university classes right now."
+1007001000110020,結華,そろそろ終わるからちょっと待っててね,"I'll be finished soon, if you don't mind waiting. 
+"
+0000000000000,プロデューサー,課題か……,"Homework, huh……
+"
+select,,勉強好きなんだな,"You enjoy
+studying, I see."
+select,,俺は勉強嫌いだったなぁ,"I always
+hated studying."
+select,,真面目だな,"You're so
+diligent. "
+1007001000110030,結華,嫌いじゃないよー？　面白いのも多いしね,"I certainly don't mind it? Plus, there's lots of interesting things to learn about. 
+"
+1007001000110040,結華,"もしかして、プロデューサーは勉強苦手だったり、
+嫌いだったりしちゃったタイプ？","Uh-oh Producer, could it be that you were the sort of student that hated to study?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1007001000110050,結華,あははっ、はっきり言うね、プロデューサー,"Ahahah. You don't hold back, Producer.
+"
+1007001000110060,結華,"でもそういう人の方が多いと思うし、
+別にいいんじゃないかなぁ","I think most people hate studying, though. There's nothing wrong with that.
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1007001000110070,結華,さーてそれはどうかなぁ？,I wouldn't be so sure about that one.
+1007001000110080,結華,"本当に真面目な人は、そもそも課題を
+こんなに溜めたりしないんだよね","Someone who was actually diligent wouldn't let this much homework pile up, would they? "
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh…… I screwed up. I should have said something else……)
+info,produce_communications/100700100011.json,
+译者,,
