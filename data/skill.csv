@@ -4,7 +4,7 @@ Excellent$num倍アピール,Excellent $1x Appeal,
 思い出ゲージ増加量$percentDOWN,Memory Gauge Increase $1DOWN,
 [$num回],[$1x],
 メンタルが0になった時$percent回復,$1 Chance to Revive When Reaching 0 Mental,
-"自身にメランコリー効果$percent付与","You Receive $1Melancholy"
+"自身にメランコリー効果$percent付与","You Receive $1Melancholy",
 全ユニットにメランコリー効果$percent付与,All Units Receive $1Melancholy,
 ライバルにメランコリー効果$percent付与,Rival Units Receive $1Melancholy,
 $noun$percentUP,$1 $2 UP,
