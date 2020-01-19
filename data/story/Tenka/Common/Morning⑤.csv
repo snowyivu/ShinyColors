@@ -1,6 +1,6 @@
 id,name,text,trans
 0000000000000,プロデューサー,"お、なんだか嬉しそうだな
-いいことでもあったのか？","Ah, you seems to be happy
+いいことでもあったのか？","Ah, you seem to be happy.
 Did something good happened？"
 1015001000510010,甜花,"今日も……
 なーちゃんと、事務所に……来たんだ……","Today……
@@ -8,11 +8,11 @@ With Naa-chan、we came to…… office together……"
 1015001000510020,甜花,なーちゃんと一緒だと……甜花、安心する……,When with Naa-chan……Tenka、feels relieved……
 0000000000000,プロデューサー,（たしかに今日の甜花は、いい表情をしてるな……）,"（Now that I think about it, Tenka's expression looks great today……）"
 select,,"仕事もなるべく
-一緒にしておくよ","I'll make sure to have
-you two work together more"
-select,,いつも仲が良いな,You two always goes along well
+一緒にしておくよ","I'll make sure to
+have you two work together"
+select,,いつも仲が良いな,You two always get along well
 select,,"ひとりで来るのも
-新鮮だぞ","You can try going alone
+新鮮だぞ","You can try go by yourself
 It'll be a new experience"
 1015001000510030,甜花,にへへ……ありがとう……,Nihehe…… Thank you……
 1015001000510040,甜花,"きっと、なーちゃんがいれば……

@@ -1,0 +1,36 @@
+id,name,text,trans
+1010001000310010,智代子,ふんっふ～ん♪　ふんふふ～ん♪,Funfu~n ♪ funfufu~n ♪
+0000000000000,プロデューサー,"ずいぶん嬉しそうだな
+何かいいことでもあったのか？","You look very happy.
+Did something good happen?"
+1010001000310020,智代子,"実はですね、近くにあるチョコレートカフェに
+ユニットのみんなと行くことになったんです！","The truth is, everyone in my unit's going to be
+going to the chocolate cafe nearby!"
+0000000000000,プロデューサー,（なるほど、それは楽しみだろうな）,(I see. That sound fun.)
+select,,"チョコの研究会が
+できるな","You can be a
+chocolate research
+group."
+select,,チョコの専門店か？,"A store that
+specializes in
+chocolate?"
+select,,お土産頼むな,"Get me a gift, please."
+1010001000310030,智代子,"そうなんです！　しかもみんなと一緒に！
+これは全メニュー制覇しなきゃだなって思ってて！","That's right! And it'll be with everyone!
+I'm thinking we'll have to master the entire menu!"
+1010001000310040,智代子,"楽しみすぎておやつも止まらないんです……！
+……ってあれ！？　なんで笑ってるんですか！？","I'm so excited that I can't stop eating snacks!
+……Huh?! Why are you laughing?!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1010001000310050,智代子,もちろんです！　今、チョコってすごく人気なんですよ！,Of course! Chocolate is really popular right now!
+1010001000310060,智代子,"チョコを使ったパスタとか、
+ドレッシングもあるくらいですから！","There's even chocolate pasta,
+chocolate dressing, and more!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1010001000310070,智代子,"あっ……ごめんなさい……
+お土産買いたいのはやまやまなんですけど……","Ah…… I'm sorry……
+I would love to get you a gift, but……"
+1010001000310080,智代子,そのお店、テイクアウトがないんです……,This store doesn't have take out……
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+info,produce_communications/101000100031.json,
+译者,,
