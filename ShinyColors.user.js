@@ -825,8 +825,10 @@
 	const getRequest = async () => {
 	  let md = await getModule('REQUEST', module => {
 	    return module.default && module.default.get && module.default.post && module.default.put && module.default.patch;
-	  });
-	  return md.default;
+	  }); //  md.default = {};
+	  //  console.log("This should break and confirms stuff");
+
+	  return md;
 	};
 
 	const getPhraseMd = async () => {
@@ -8217,11 +8219,12 @@
 	const requestOfPatch = [[/^userSupportIdols\/\d+$/, supportSkill], ['userFesDecks', userFesDeck]];
 	async function requestHook() {
 	  const request = await getRequest();
-	  if (!request || !request.get) return; // GET
+	  if (!request || !request.default.get) return;
+	  request.default = Object.assign({}, request.default); // GET
 
-	  const originGet = request.get;
+	  const originGet = request.default.get;
 
-	  request.get = async function (...args) {
+	  request.default.get = async function (...args) {
 	    const type = args[0];
 	    const res = await originGet.apply(this, args);
 	    if (!type) return res;
@@ -8232,9 +8235,9 @@
 	  }; // PATCH
 
 
-	  const originPatch = request.patch;
+	  const originPatch = request.default.patch;
 
-	  request.patch = async function (...args) {
+	  request.default.patch = async function (...args) {
 	    const type = args[0];
 	    const res = await originPatch.apply(this, args);
 	    if (!type) return res;
@@ -8245,9 +8248,9 @@
 	  }; // POST
 
 
-	  const originPost = request.post;
+	  const originPost = request.default.post;
 
-	  request.post = async function (...args) {
+	  request.default.post = async function (...args) {
 	    const type = args[0];
 	    const res = await originPost.apply(this, args);
 	    if (!type) return res;
@@ -8258,16 +8261,25 @@
 	  }; // PUT
 
 
-	  const originPut = request.put;
+	  const originPut = request.default.put;
 
-	  request.put = async function (...args) {
+	  request.default.put = async function (...args) {
 	    const type = args[0];
 	    const res = await originPut.apply(this, args);
 	    if (!type) return res;
 	    let data = res.body;
 	    requestLog('PUT', '#9C27B0', args, data);
 	    return res;
-	  };
+	  }; //  request.default = new Proxy(request.default, {
+	  //    get(target, name, receiver) {
+	  //      if(name == 'get') return newGet;
+	  //      return Reflect.get(target, name, receiver);
+	  //    },
+	  //    getOwnPropertyDescriptor(target, prop) {
+	  //      return { configurable: true, enumerable: true, value: prop.value };
+	  //    }
+	  //  });
+
 	}
 
 	const imageMap = new Map();
@@ -8327,11 +8339,7 @@
 	  if (!aoba || replaced) return;
 	  const originLoadElement = aoba.loaders.Resource.prototype._loadElement;
 
-	  aoba.loaders.Resource.prototype._loadElement = async function (type) {
-	    if (DEV && type === 'image') {
-	      imageLog('IMAGE', '#ed9636', this.name, this.url);
-	    }
-
+	  const newLoadElement = async function (type) {
 	    try {
 	      const imageMap = await ensureImage();
 
@@ -8341,8 +8349,14 @@
 	        if (this.url.endsWith("v=".concat(data.version))) {
 	          this.url = "".concat(config.origin, "/data/image/").concat(data.url, "?V=").concat(config.hash);
 	          this.crossOrigin = true;
+
+	          if (DEV) {
+	            imageLog('IMAGE', '#ed9636', this.name, this.url);
+	          }
 	        } else {
-	          log('%cimage version not match', 'color:#fc4175');
+	          if (DEV) {
+	            imageLog('IMAGE-MISMATCH', '#ff0000', this.name, this.url);
+	          }
 	        }
 	      }
 	    } catch (e) {}
@@ -8350,6 +8364,27 @@
 	    return originLoadElement.call(this, type);
 	  };
 
+	  const Resource = new Proxy(aoba.loaders.Resource, {
+	    construct(target, args, newtarget) {
+	      var newObj = Reflect.construct(target, args, newtarget);
+	      var overrodeObj = new Proxy(newObj, {
+	        get(target, name, receiver) {
+	          if (name == '_loadElement') return newLoadElement;
+	          return Reflect.get(target, name, receiver);
+	        }
+
+	      });
+	      return overrodeObj;
+	    },
+
+	    get(target, name, receiver) {
+	      return Reflect.get(target, name, receiver);
+	    }
+
+	  });
+	  Object.defineProperty(aoba.loaders, 'Resource', {
+	    value: Resource
+	  });
 	  replaced = true;
 	}
 
