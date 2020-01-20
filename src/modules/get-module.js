@@ -60,8 +60,10 @@ const getScMd = async () => {
 const getRequest = async () => {
   let md = await getModule('REQUEST', (module) => {
     return module.default && module.default.get && module.default.post && module.default.put && module.default.patch
-  })
-  return md.default
+  }) 
+//  md.default = {};
+//  console.log("This should break and confirms stuff");
+  return md
 }
 
 const getPhraseMd = async () => {
