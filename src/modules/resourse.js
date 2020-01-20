@@ -31,9 +31,9 @@ export default async function resourceHook () {
   const newLoadElement = async function (type) {
     try {
       const imageMap = await ensureImage()
+      var originalUrl = this.url;
       if (type === 'image' && imageMap.has(this.name)) {
         const data = imageMap.get(this.name)
-        var originalUrl = this.url;
         if (this.url.endsWith(`v=${data.version}`)) {
           this.url = `${config.origin}/data/image/${data.url}?V=${config.hash}`
           this.crossOrigin = true
@@ -44,6 +44,10 @@ export default async function resourceHook () {
           if (DEV) {
             imageLog('IMAGE-MISMATCH','#ff0000', this.name, originalUrl)
           }
+        }
+      } else {
+        if (DEV) {
+          imageLog('IMAGE-MISSING','#ff0000', this.name, originalUrl)
         }
       }
     } catch (e) {
