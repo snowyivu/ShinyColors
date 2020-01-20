@@ -19,6 +19,7 @@ const banner = `// ==UserScript==
 // @connect      translate.google.com
 // @connect      fanyi.baidu.com
 // @updateURL    https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js
+// @downloadURL  https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js
 // @supportURL   https://github.com/snowyivu/ShinyColors/issues
 // ==/UserScript==`
 module.exports = {
