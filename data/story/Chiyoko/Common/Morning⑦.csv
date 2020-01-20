@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,今日は機嫌が良さそうだな。どうしたんだ？,It seems like you're in a good mood today. What's up?
+1010001000710010,智代子,"えへへ、わかりますか？
+朝、ランニングをしてきたんです！","Ehehe, you can tell?
+I came here this morning to go running!"
+1010001000710020,智代子,"いつもは寝てる時間に何かするのって
+ちょっとドキドキしますね","I was thinking of doing something at the time I'm still usually sleeping.
+My heart's pounding a little bit!"
+0000000000000,プロデューサー,（適度にリラックスできてる感じだな）,(It seems like she'll be able to relax somwhat.)
+select,,毎日続けてみたら？,"How about running
+every day?"
+select,,ケガしないようにな,"Be careful to not
+get hurt."
+select,,ダイエットか？,Are you on a diet?
+1010001000710030,智代子,"……険しい道のりですけど、何事も挑戦ですよねっ
+ランニングが生活の一部になってるってかっこいいかも……","……That's a hard path to take, but I can take on any challenge, right?
+It might be cool to make running a part of my life……"
+1010001000710040,智代子,……続けてたら、ダイエットにもなったりして……？,"……If I keep on running, maybe it could become a diet, too……?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1010001000710050,智代子,"はい、ありがとうございます！　気をつけます！
+準備運動とか、しっかりやらなきゃですよね！","Yes, thank you! I'll be careful!
+I have to make sure to do stuff like warming up exercises."
+1010001000710060,智代子,ちょうど今日も転びそうになったので……えへへ……,"Because I felt like I was about to fall today, too…… ehehe……"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1010001000710070,智代子,"……やっぱりそう思いますよね
+ダイエット、必要そうだなって感じ、しますよね……？","……So you do think so after all.
+You think that I need to go on a diet, right……?"
+1010001000710080,智代子,うぅ……頑張らなくちゃなぁ,Oh…… I'll have to do my best.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+info,produce_communications/101000100071.json,
+译者,,

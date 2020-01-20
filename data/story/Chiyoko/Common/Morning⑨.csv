@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,嬉しそうだな。何かあったのか？,You look happy. Did something happen?
+1010001000910010,智代子,"はいっ！　最近、ツイスタの投稿に
+いろんな反応がもらえるようになったなぁと思って！","Yes! I was thinking that lately, my posts on Twister
+have been getting a lot of different responses!"
+1010001000910020,智代子,"見てもらえてるんだって実感が湧くと、
+気合が入りますね！","When I realize that they're looking at my posts,
+I get fired up!"
+0000000000000,プロデューサー,（やる気充分って感じだな）,(It seems like she's thoroughly motivated.)
+select,,その調子で頑張れよ,"Keep it up and do
+your best!"
+select,,"今日はどんな反応が
+来てるんだ？","What kind of
+responses did you
+get today?"
+select,,俺も見てるぞ,"I saw them, too."
+1010001000910030,智代子,"はい！
+もっとたくさんの人に見てもらわなきゃですからっ！","Will do!
+I want more people to see my posts, after all!"
+1010001000910040,智代子,"まめな投稿、心がけます！　……あ。チョコアイドルの
+オフショットとか載せるのもアリですかね？！","I'm aiming to post regularly! ……Ah. Maybe I should
+post about something like a chocolate idol's day off?!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1010001000910050,智代子,"お菓子とか……チョコとか……
+美味しそうなご飯屋さん情報とか……","Stuff like snacks…… chocolate……
+info on good restaurants……"
+1010001000910060,智代子,"！　ち、違いますよ！？　私が食べ物の話ばっかりするから
+こうなってるわけじゃないですからね？！","! W-wait a minute?! All I talk about is food,
+but it doesn't have to be this way, right?!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1010001000910070,智代子,"そ、そうだったんですか？
+……そっか、そうですよね、プロデューサーさんですし……","Y-you did?
+……Yeah, you did, you're Producer-san……"
+1010001000910080,智代子,"あんまり気にしてなかったんですけど、
+こういうのって、なんだかちょっと恥ずかしいです……","Don't take this the wrong way,
+but things like that are sort of embarrassing……"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+info,produce_communications/101000100091.json,
+译者,,
