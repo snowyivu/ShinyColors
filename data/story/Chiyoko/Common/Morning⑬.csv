@@ -1,0 +1,34 @@
+id,name,text,trans
+1010001001310010,智代子,プロデューサーさん、この写真見てください！,"Producer-san, please look at this picture!"
+0000000000000,プロデューサー,どうしたんだ、これ。智代子が作ったのか？,What is this? Did you make this?
+1010001001310020,智代子,"違います違います！　このはっぴとハチマキは、
+両親がイベントの度に手作りしてくれてるんです！","No, I didn't! This happi and headband were
+made for me by my parents for an event!"
+0000000000000,プロデューサー,そうなのか、すごいな！,I see. That's amazing!
+select,,愛情たっぷりだな,It's full of love.
+select,,仲がいいんだな,"You must get along
+well."
+select,,"茶色のハチマキ
+……？","A light brown
+headband……?"
+1010001001310030,智代子,"はい！　私にとっては自慢の応援グッズです！
+これ、とっても目立つんですよ！","It is! These things for me are things that cheer me on with pride.
+These will really stand out from the crowd!"
+1010001001310040,智代子,"だからイベント会場でも、
+家族はすぐに見つけられるんです","So when I'm in the event's venue,
+my family will be able to spot me right away."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1010001001310050,智代子,"えへへ、そうなんです
+私のお仕事も、ずっと応援してくれてますし","Ehehe, we do.
+They're always cheering for me when I'm working, too."
+1010001001310060,智代子,"だからもっと頑張って、家族にもっと
+喜んでもらいたいなって思ってます！","That's why I want to work even harder, and
+I think it'll make my family even happier!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1010001001310070,智代子,こ、これは茶色じゃなくてチョコ色です！,"I-it isn't light brown, it's chocolate colored!"
+1010001001310080,智代子,"こっちはビターチョコ色で、
+こっちはいちごチョコ色なんですっ","This here is the color of dark chocolate,
+and this part is strawberry chocolate colored."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+info,produce_communications/101000100131.json,
+译者,,
