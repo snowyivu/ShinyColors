@@ -8343,6 +8343,7 @@
 	  const newLoadElement = async function (type) {
 	    try {
 	      const imageMap = await ensureImage();
+	      var originalUrl = this.url;
 
 	      if (type === 'image' && imageMap.has(this.name)) {
 	        const data = imageMap.get(this.name);
@@ -8352,12 +8353,16 @@
 	          this.crossOrigin = true;
 
 	          if (DEV) {
-	            imageLog('IMAGE', '#ed9636', this.name, this.url);
+	            imageLog('IMAGE', '#ed9636', this.name, originalUrl);
 	          }
 	        } else {
 	          if (DEV) {
-	            imageLog('IMAGE-MISMATCH', '#ff0000', this.name, this.url);
+	            imageLog('IMAGE-MISMATCH', '#ff0000', this.name, originalUrl);
 	          }
+	        }
+	      } else {
+	        if (DEV) {
+	          imageLog('IMAGE-MISSING', '#ff0000', this.name, originalUrl);
 	        }
 	      }
 	    } catch (e) {}
