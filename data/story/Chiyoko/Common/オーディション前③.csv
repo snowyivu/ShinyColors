@@ -1,0 +1,25 @@
+id,name,text,trans
+4010001000130010,智代子,"きっ、緊張した時は、深呼吸ですよねっ！　いきますよー！
+すぅー……はぁー……！","Wh-when I'm nervous, I should take deep breaths, right? Here I go!
+Hu…… ha……!"
+0000000000000,プロデューサー,（まだまだ固いな……）,(She's still scared stiff……)
+select,,一緒に深呼吸する,"Let's do deep
+breathing together."
+select,,わっ！,Boo!
+select,,"みんなが、智代子を
+応援しているぞ","Everyone's rooting
+for you."
+4010001000130020,智代子,"すぅー……はぁー……
+えへへ。おんなじことしてると、なんだか安心しますね","Hu…… ha……
+Ehehe. When we breath together, it's sort of relieving."
+0000000000000,プロデューサー,（よし、リラックスできたみたいだな）,"(Alright, it looks like she was able to relax.)"
+4010001000130030,智代子,"わああ！？　び、びっくりした……！
+……あれ？　緊張、どっかいっちゃったかも……？","Woah?! Y-you surprised me……!
+……Huh? My nervousness might've gone away……?"
+0000000000000,プロデューサー,（荒業だったけど、上手くいったな）,"(That was a drastic move, but it went well.)"
+4010001000130040,智代子,"はい！　もちろん、期待は裏切りません！
+……失敗しないようにしなきゃ……！","Yes! I won't dissapoint, of course!
+……I have to make sure I don't lose……!"
+0000000000000,プロデューサー,（かえって緊張させたか……？）,(Did I make her nervous instead……?)
+info,produce_communication_cheers/401000100013.json,
+译者,,

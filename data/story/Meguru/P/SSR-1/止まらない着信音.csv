@@ -1,20 +1,20 @@
 id,name,text,trans
 2003004020010,めぐる,"……うん、……うんうん！
-あはは、そうだよね！","…mhm, mhm mhm!
+あはは、そうだよね！","…Mhm, mhm mhm!
 Ahaha, that's so true!"
-2003004020020,めぐる,……うん、じゃあまたね！,"…yeah, talk to you soon!"
+2003004020020,めぐる,……うん、じゃあまたね！,"…Yeah, talk to you soon!"
 2003004020030,めぐる,"はい、もしもし！　あ、やっほー！
 うん、うん…………えー！　そうだったんだ！","Yeah, hello!  Ah, yahoo-!
-Mhm, mhm… eh-!  Is that true!"
+Mhm, mhm… Eh-!  Is that true!"
 0000000000000,プロデューサー,"（休憩中ずっと電話がかかってきている
 めぐるは友だちからとても好かれているんだろうな）","(She's constantly getting phone calls on her break.
-Meguru must be really liked by her friends)"
+Meguru must be really liked by her friends.)"
 2003004020040,めぐる,"……うん、……うん。わかった！
-じゃあまた、今度ね！","…yeah, …yeah.  Gotcha!
+じゃあまた、今度ね！","…Yeah, …yeah.  Gotcha!
 Later then, next time!"
 0000000000000,プロデューサー,電話、終わったのか？,Your phone call is over?
 2003004020050,めぐる,"うん！　……あ、ごめん！
-もしかしてうるさかったかな？","Yeah!  …ah, sorry!
+もしかしてうるさかったかな？","Yeah!  …Ah, sorry!
 Was I bothering you?"
 0000000000000,プロデューサー,"いや、そんなことはないよ
 楽しそうなめぐるを見てると、俺も元気がもらえるしな","No, it's not like that.
@@ -22,11 +22,11 @@ Watching Meguru have fun, I was energized as well."
 2003004020060,めぐる,えへへー、そうかな！,"Ehehe-, I see!"
 0000000000000,プロデューサー,"ああ、でも……こう電話がかかってくると、
 めぐるもなかなか休めないな","Ahh, but… if you take phone calls like this,
-You're never going to get any rest."
+you're never going to get any rest."
 2003004020070,めぐる,"えー！
 そんなこと、考えたこともなかったよ！","Eh-!
 I hadn't even thought about that!"
-2003004020080,めぐる,友だちと話すの、すっごく楽しいよ！,"Talking with friends, is really enjoyable!"
+2003004020080,めぐる,友だちと話すの、すっごく楽しいよ！,Talking with friends is really enjoyable!
 2003004020090,めぐる,"その日あった面白いこととか聞いたりね、
 わたしも元気をもらってるんだ！","When I hear something interesting that happened in
 their day, I'm also filled with energy!"
@@ -63,10 +63,10 @@ your calls at home."
 電話を使わないで用事を伝えればいいだろ？","When you're talking with me, why don't you just
 leave the phone with me instead of using it?"
 0000000000000,プロデューサー,"そうすれば、携帯電話は友だちと電話するために
-使えるようになる","If you do that, I can handle your friend's calls,
+使えるようになる","If you do that, I can handle your friend's calls.
 That way I can be useful."
 2003004020160,めぐる,"たしかに……そっか！
-それ名案だよっ！　プロデューサー！","Definitely… aha!
+それ名案だよっ！　プロデューサー！","Definitely… Aha!
 That's a good idea!  Producer!"
 2003004020170,めぐる,"じゃあ、プロデューサーがずーっと隣にいてくれたら、
 友だちといっぱい電話できるね！","Well then, if Producer's always next to me,
@@ -83,7 +83,7 @@ I'll have to carry you around all the time!"
 It's alright to take it out."
 2003004020190,めぐる,"プロデューサー、ありがとう！
 ……うん、もしもしっ！","Producer, thank you!
-…mhm, hellooo!"
+…Mhm, hellooo!"
 0000000000000,プロデューサー,"（めぐるはうれしそうで仕事の連絡はしやすくなる……
 我ながらいいアイディアだったな！）","(Meguru seems happy and it's easier to get in touch with her for work…
 This was a great idea if I say so myself!)"
@@ -98,13 +98,13 @@ schedule."
 プロデューサー、ありがとう！","Really!?  Wahh!
 Producer, thank you!"
 2003004020230,めぐる,"わたしも、お仕事をしっかりこなして、
-いっぱい時間を作れるようにするよ！","I'll also work hard to get my job done,
-So that you can make a lot of room!"
+いっぱい時間を作れるようにするよ！","I'll also work hard to get my job done
+so that you can make a lot of room!"
 0000000000000,プロデューサー,"そうか
 じゃあ、もっと頑張らなくちゃな！","Oh yeah?
 Well then, I'll have to try even harder!"
 2003004020240,めぐる,"うん！　……でもお仕事もちゃんとしたいから、
-いっぱい取ってきてね！","Yeah!  …but since I want to do my job well,
+いっぱい取ってきてね！","Yeah!  …But since I want to do my job well,
 I'll have to take a lot of them!"
 0000000000000,プロデューサー,"（アイドルの仕事も友だちと話すこともできるように、
 俺がめぐるをしっかりとサポートしないとな！）","(In order to do both idol work and talk with her
@@ -120,12 +120,12 @@ That's also one strategy!"
 んー……","I can't stay up until too late at night.
 Mm-…"
 2003004020280,めぐる,"……でもプロデューサーの言う通り、
-昼はアイドルのお仕事を頑張らなきゃ、だよね！","…but as you say,
+昼はアイドルのお仕事を頑張らなきゃ、だよね！","…But as you say,
 I have to do my best idol work during the day!"
 2003004020290,めぐる,なんとか家で連絡を済ませるようにしてみるよ！,"And somehow or other finish keeping in touch at
 home!"
 0000000000000,プロデューサー,"ああ。それにいつもってわけにはいかないけど、
-仕事を頑張れば早めに帰ることもできるかもな","Yeah.  It might not always be possible but,
+仕事を頑張れば早めに帰ることもできるかもな","Yeah.  It might not always be possible but
 If you try your hardest at work you could come home earlier than usual."
 2003004020300,めぐる,"そっか！　そうすれば、お仕事も友だちとの電話も
 たくさんできるよね！","Aha!  In that case, my work and chatting with my

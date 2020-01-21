@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お疲れ、灯織！
+『W.I.N.G.』第２審査も通過したぞ！","Good job, Hiori! You passed the second ""W.I.N.G."" judging!"
+7002001030010,灯織,"……そうですか
+ありがとうございます、プロデューサー","……Really? Thank you, Producer."
+0000000000000,プロデューサー,"ああ、順調で何よりだ
+これからきっと、忙しくなるぞ","Yeah, it's for the best you're doing well. I'm sure we'll become busier soon."
+0000000000000,プロデューサー,"今よりもたくさんの人に、灯織のことが
+知ってもらえるってことだ！",It means that even more people than now will know about you!
+7002001030020,灯織,"そうですね
+では、早速レッスンを増やさないといけません",That's true. Then I have to increase my lessons as soon as possible.
+7002001030030,灯織,"まだ第２審査を通過できただけ……先は長いですから
+ここで気を抜くわけにはいきません",I only passed the 2nd judging…… I have a long road ahead of me. I can't lose my focus now.
+0000000000000,プロデューサー,たしかに灯織の言うとおりだが……,"It's just like you said, but……"
+0000000000000,プロデューサー,少しぐらいお祝いさせてくれないか,Maybe you could celebrate it a bit?
+7002001030040,灯織,お祝い、ですか……？,Celebrate it……?
+0000000000000,プロデューサー,そうだ、何か欲しいものはあるか？,"Yes, is there something you want?"
+7002001030050,灯織,別に……特にありません,No…… not really.
+7002001030060,灯織,"そもそも、お世話になっているのはこちらです
+私のほうが、お礼をしなければいけません","Besides, I'm the one indebted to you. I should be the one thanking you."
+0000000000000,プロデューサー,えっ！？　俺は別に……,Huh?! I didn't really……
+0000000000000,プロデューサー,ほら、灯織をプロデュースするのが、俺の仕事だしな！,"Come on, it's my job to produce you!"
+7002001030070,灯織,……ふふ,……Fufu.
+0000000000000,プロデューサー,な、なんだ,W-what?
+7002001030080,灯織,自分のこととなると慌てるんですね,You get flustered when it's about you.
+7002001030090,灯織,……,……
+7002001030100,灯織,あの、プロデューサー,"Um, Producer."
+0000000000000,プロデューサー,なんだ？,What?
+7002001030110,灯織,私の欲しいもの、思いつきました,I've thought of what I want.
+7002001030120,灯織,……『W.I.N.G.』の優勝です,"……I want to win the ""W.I.N.G."" finals."
+7002001030130,灯織,だから……最後まで、お付き合いお願いします,So…… please stay with me until the end.
+info,produce_events/700200103.json,
+译者,,

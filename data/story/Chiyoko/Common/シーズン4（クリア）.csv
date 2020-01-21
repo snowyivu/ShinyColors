@@ -1,0 +1,36 @@
+id,name,text,trans
+7010001070010,智代子,ふーっ……,Whew……
+0000000000000,プロデューサー,智代子、結果が出たぞ！,"Chiyoko, the results are out!"
+7010001070020,智代子,あっ、プロデューサーさん、お帰りなさい！,"Ah, Producer-san, welcome back!"
+7010001070030,智代子,……どうでしたか……？,……How did I do……?
+0000000000000,プロデューサー,"――おめでとう、智代子！
+『W.I.N.G.』出場決定だ！","――Congratulations, Chiyoko!
+It's been decided that you will participate in W.I.N.G.!"
+7010001070040,智代子,"……ほ、本当ですか！　本当ですよね！？
+やったぁあ！　嬉しい！","……R-really?! For real?!
+Yaaay! I'm happy!"
+7010001070050,智代子,"こ、これ……
+夢じゃないんですよね……？","Th-this……
+isn't a dream, right……?"
+0000000000000,プロデューサー,"ああ。夢なんかじゃないぞ
+正真正銘、智代子が掴み取った結果だ！","No, it's not a dream.
+These are your genuine results you worked for!"
+7010001070060,智代子,"……はい！
+私、ついにここまで来れたんですね！","……Yes!
+I've finally made it this far!"
+0000000000000,プロデューサー,ああ、よく頑張ったな,"Yes, you did a great job."
+7010001070070,智代子,はい……はい！,Yes…… yes!
+7010001070080,智代子,"……でも、私が頑張れたのは
+ファンのみんなとプロデューサーさんのおかげです",……But I was able to work so hard because of all my fans and you.
+7010001070090,智代子,今の私でいいんだって、みんなが教えてくれたから！,Everyone taught me that I'm fine the way I am now!
+0000000000000,プロデューサー,"ああ
+智代子は、ファンの期待にしっかり応えたんだ","Yes.
+You properly lived up to your fans' expectations."
+7010001070100,智代子,プロデューサーさん……！,Producer-san……!
+7010001070110,智代子,私を応援してくれた人たちのためにも……,For all the people who have been cheering me on……
+7010001070120,智代子,"そして、私を支えてくれたプロデューサーさんのためにも、
+優勝したいです！","And for my producer who has supported me, I want to win!"
+0000000000000,プロデューサー,……あぁ、絶対に優勝しよう！,"……Yes, I know you'll win!"
+7010001070130,智代子,はい！,Yes!
+info,produce_events/701000107.json,
+译者,,

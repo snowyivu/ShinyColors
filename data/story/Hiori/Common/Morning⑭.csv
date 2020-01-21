@@ -1,11 +1,11 @@
 id,name,text,trans
-1002001001410010,灯織,プロデューサー、おはようございま……っ！,"Producer, Good Morni……!"
+1002001001410010,灯織,プロデューサー、おはようございま……っ！,"Producer, good morni……!"
 0000000000000,プロデューサー,"ん、どうしたんだ灯織
 難しい顔をして","Hm, what's wrong Hiori? You look serious."
 1002001001410020,灯織,"っこ、これは、ちがいま……
 くしゅんっ！","I-it's not like th……
 Achoo!"
-0000000000000,プロデューサー,（ああ、くしゃみだったのか）,"(Ah, she was sneezing)"
+0000000000000,プロデューサー,（ああ、くしゃみだったのか）,"(Ah, she was sneezing.)"
 select,,誰かが噂してるのかもな,"Someone might
 be talking
 about you"
@@ -26,7 +26,7 @@ It seems that only once means it's a good rumor."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1002001001410070,灯織,"すみま……く、くしゅん……っ！
 ……す、すみません","I'm s…… A-achoo!
-……I-i'm sorry."
+……I-I'm sorry."
 1002001001410080,灯織,"自己管理もできないようじゃいけませんよね
 体調を崩さないように気をつけます……","I have to be able to take care of myself.
 I'll try to be careful that my condition doesn't get worse……"
