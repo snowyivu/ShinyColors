@@ -383,12 +383,12 @@ fes.result.scoreDetail.bonusValue,×%{value},×%{value}
 fes.result.scoreDetail.totalBonus,ボーナス合計,Bonus Total
 fes.result.scoreDetail.finalScore,総合スコア,Total Score
 fes.fesGradeEvaluationReward.title,報酬内容,Rewards
-fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,These items have been sent to the present box. 
+fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,Items have been sent to the present box. 
 fes.fesGradeEvaluationReward.itemNameNum,%{type} ×%{num},%{type} ×%{num}
-fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,"Congratulations on reaching Grade Lv%{gradeId} for the first time,\r\n Don't forget to grab your mission reward♪"
+fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,"Congratulations on reaching Grade Lv%{gradeId},\r\nDon't forget to grab your mission reward♪"
 fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,Your grade went up. \r\nNice job Producer♪
-fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,"You kept your Grade,good luck this time. \r\nI'll be rooting for you♪"
-fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,You're now Grade Lv%{gradeId}\r\n Let's aim for a Grade Up this time. 
+fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,"You kept your grade, good luck this time. \r\nI'll be rooting for you♪"
+fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,You're now Grade Lv%{gradeId}\r\nLet's aim for a Grade Up this time. 
 fes.ranking.score,%{score}pt,%{score}pt
 fes.ranking.emptyNotice,現在ランキング集計中です,Current Rank
 fes.ranking.updateIntervalWarning,※最新のランキング反映までに時間がかかる場合があります,※Latest rankings may take some time to update
@@ -805,9 +805,9 @@ produceTop.releasedCommentsPop.message,を解放しました\r\rホーム画面�
 produceTop.concertConfirmPop.title,確認画面,Confirm Screen
 produceTop.concertConfirmPop.message,ライブを開始しますか？,Start the Live?
 produceTop.ideaNoteAlertPop.title,アイデアノート確認,Confirm Idea Note
-produceTop.ideaNoteAlertPop.message.default,アイデアノートが設定されていません。\r新たなアイデアノートを設定しますか？,アイデアノートが設定されていません。\r新たなアイデアノートを設定しますか？
-produceTop.ideaNoteAlertPop.message.complete,アイデアノートをコンプリートしました。\r新たなアイデアノートを設定しますか？,アイデアノートをコンプリートしました。\r新たなアイデアノートを設定しますか？
-produceTop.ideaNoteAlertPop.message.expired,アイデアノートの期限が切れました。\n新たなアイデアノートを設定しますか？,アイデアノートの期限が切れました。\n新たなアイデアノートを設定しますか？
+produceTop.ideaNoteAlertPop.message.default,アイデアノートが設定されていません。\r新たなアイデアノートを設定しますか？,No Idea Note selected.\r\nSet a new Idea Note?
+produceTop.ideaNoteAlertPop.message.complete,アイデアノートをコンプリートしました。\r新たなアイデアノートを設定しますか？,Completed the Idea Note.\r\nSet a new Idea Note?
+produceTop.ideaNoteAlertPop.message.expired,アイデアノートの期限が切れました。\n新たなアイデアノートを設定しますか？,Idea Note Expired.\r\nSet a new Idea Note?
 produceAction.auditionRule,特殊ルール,Special Rule
 produceAction.auditionConditions,出場条件,Entry Condition
 produceMain.supportSkillsDialogTitle,発動中サポートスキル,Active Support Skill
@@ -832,8 +832,8 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュア
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
 fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds：%{level}
-fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）
-fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）
+fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(The Festival preparations……\r\nIt seems we don't have quite enough help……)
+fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(It might be okay to ask for more help……\r\n……who would be good……?)
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Organization Limit
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません
@@ -904,7 +904,7 @@ shop.exchangeResult.message,%{title}と交換しました,Exchanged for %{title}
 shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,Exchanged for\r\n%{title}
 shop.currencyLabel.jewelType.billedJewel,有償,Paid
 shop.currencyLabel.jewelType.freeJewel,無償,Free
-shop.expireDate,【交換期限】%{closeAt}まで,【Closed】Collect by %{closeAt}
+shop.expireDate,【交換期限】%{closeAt}まで,[Over] Collect by %{closeAt}
 shop.noShopItem,交換可能なアイテムがありません。,There are no exchangeable items
 recycleShop.tradeConfirmation.title,交換確認,Exchange Confirmation
 recycleShop.tradeConfirmation.message,以下のアイテムを交換しますか？,Do you want to exchange these items?
@@ -1195,7 +1195,7 @@ characterBirthday.characterBirthdayListPop.birthday,%{month}/%{day},%{month}/%{d
 characterBirthday.characterBirthdayListPop.month,月,Month
 characterBirthday.characterBirthdayListPop.title,誕生日確認,Confirm Birthday
 characterBirthday.givePresentDialog.text,自然回復の上限を超えて回復でき、\n誕生日ミニコミュが解放されます,自然回復の上限を超えて回復でき、\n誕生日ミニコミュが解放されます
-characterBirthday.specialCommunicationDialog.txtNotice,「あとで再生」を選んだ場合、\n期間中誕生日特設ページで再度この確認が表示されます。,「あとで再生」を選んだ場合、\n期間中誕生日特設ページで再度この確認が表示されます。
+characterBirthday.specialCommunicationDialog.txtNotice,「あとで再生」を選んだ場合、\n期間中誕生日特設ページで再度この確認が表示されます。,"If you select 「Play Later」,\r\nThis popup will appear again on the birthday page."
 errorDialog.closedText,期間は終了しました,This has ended. 
 errorDialog.eventClosedTitle,イベント期間外,Event Over
 errorDialog.expiredProduceItem,アイテムの使用期限が終了したため\n持ち込むことができませんでした\n\n再度アイテムを選択し直してください,アイテムの使用期限が終了したため\n持ち込むことができませんでした\n\n再度アイテムを選択し直してください
