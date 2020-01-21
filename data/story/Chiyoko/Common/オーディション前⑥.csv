@@ -1,0 +1,28 @@
+id,name,text,trans
+4010001000230010,智代子,"チョコアイドルをたくさんの人に知ってもらうためには、
+このチャンス、絶対に逃せないと思うんです……！","So many people believe in the chocolate idol,
+so I can't let this chance slip away……!"
+0000000000000,プロデューサー,（かなり張り切ってるな）,(She seems pretty eager.)
+select,,"その熱意を
+表現してこい",Use that enthusiasm.
+select,,"上手く見せ場を
+作るんだ","Make it a
+successful highlight."
+select,,"誰よりも強く願えば、
+掴めるさ","As long as your
+dream is strongest,
+you can grab it."
+4010001000230020,智代子,"はい！　３時のおやつより幸せなステージにしちゃいます！
+見ててくださいね、プロデューサーさん！","I will! I'll make it a perfromance happier than an afternoon snack!
+Please watch me, Producer-san!"
+0000000000000,プロデューサー,（よし、この気合いがあれば大丈夫だ！）,"(Alright, with that motivation she'll be fine!)"
+4010001000230030,智代子,"わかりました！　気合い、入れ直します！
+ダンスも歌も、完璧にこなしてみせますから！","Understood! I'll turn on my motivation again!
+I'll make my dancing and singing perfect!"
+0000000000000,プロデューサー,（少し肩に力が入ったけど……いい緊張感だな）,(Her shoulders are a bit stiff…… but this is a good feeling of tension.)
+4010001000230040,智代子,"え。あれ？　願うだけで大丈夫でしょうか……？
+あっ、でも、この想いは誰にも負けない！　はずですよ！","Eh. Huh? Will just having a dream be enough……?
+Ah, but, this dream won't lose to anyone else! It can't!"
+0000000000000,プロデューサー,（しまった、水を差してしまったか……）,(I screwed up. I put a damper on things……)
+info,produce_communication_cheers/401000100023.json,
+译者,,

@@ -5,10 +5,10 @@ id,name,text,trans
 3016003010040,甘奈,"結構早く来たつもりだったけど……
 ゴメン！　もしかして、待たせちゃった？","I wanted to come here a little early, sorry!
 Say, were you waiting?"
-3016003010050,千雪,ううん、私もさっき来たところだから大丈夫♪,"Yes, though I'm fine because I had just came here too♪"
+3016003010050,千雪,ううん、私もさっき来たところだから大丈夫♪,I'm okay. I had just came here too♪
 3016003010060,千雪,"それより、
-今日は付き合ってもらっちゃってごめんね……？","Other than that,
-I'm sorry for having you go out early today…"
+今日は付き合ってもらっちゃってごめんね……？","That aside,
+I'm sorry for asking you two to come with me......"
 3016003010070,甘奈,"気にしないでいいよー☆
 むしろめっちゃ楽しみにしてた！","No need to worry☆
 Actually, I was actually looking forward to it!"
@@ -20,25 +20,25 @@ pick clothes for Chiyuki-san… right…!"
 ふたりともありがとう♪","Fufu,
 thanks to both of you♪"
 3016003010110,千雪,"実はね、私もすごく楽しみで……
-だから、つい早く来ちゃったの","Actually, now I'm looking forward to it…
-which is why, I came here early…"
+だから、つい早く来ちゃったの","Actually, I was really looking forward to it…
+which is why, I came here early."
 3016003010120,甘奈,そうだったんだ！,"Oh, I see!"
-3016003010130,甜花,甜花たちと、おんなじ……,Tenka feels the same too…
+3016003010130,甜花,甜花たちと、おんなじ……,Same as us then…
 3016003010140,千雪,うん、そういうこと,"Yes, exactly."
 3016003010150,甜花,……にへへ,Nihehe…
 3016003010160,甘奈,"それじゃあ、早速お店に行こっか！
 いい服、たーっくさん買っちゃおーね！","With that, let's go to the shop immediately!
-You should buy some good clothes!"
-3016003010170,千雪,ここに、甘奈ちゃんおすすめのお店があるの？,"Amana-chan, Is there a recommendable shop here?"
+We'll buy a lot of good clothes!"
+3016003010170,千雪,ここに、甘奈ちゃんおすすめのお店があるの？,"Amana-chan, Is there any recommendation here?"
 3016003010180,甘奈,"うん！
 この辺りって、めっちゃいいお店が集まってるんだよー☆","Yes!
-There's many good shops around here☆"
+There're many good shops around here☆"
 3016003010190,甘奈,"かわいー系もキレイ系のもあるから……
 色々見てまわろっ！","There's some cute and pretty ones…
 So just look around!"
 3016003010200,千雪,"そうしましょう
 甜花ちゃんもそれでいい？","Tenka-chan,
-Do you like them too aswell?"
+Is that okay with you?"
 3016003010210,甜花,"うん……！
 千雪さんに似合う服、見つけるの……頑張る……！","Yes…! Finding clothes that would look good with Chiyuki-san…
 Tenka will do her best for it…!"
@@ -52,7 +52,7 @@ But, which one of the two…"
 3016003010270,甜花,あっ……み、見ちゃだめ……！,"Ah… see, don't look yet…!"
 3016003010280,千雪,えっ？,Eh?
 3016003010290,甘奈,"えへへー、今コーディネート相談中なんだ
-だから、ちょっとだけ待ってて！","Hey, I'm trying to coordinate right now,
+だから、ちょっとだけ待ってて！","Hehehe, we're trying to get the best outfit right now,
 So just wait a bit!"
 3016003010300,千雪,"そうなのね？
 じゃあ、楽しみに待ってるわ","Is that so?
@@ -66,10 +66,10 @@ Look forward to it…!"
 umm…"
 3016003010340,千雪,"あ。甜花ちゃん
 コーディネート、完成したの？","Ah, Amana-chan,
-Did you finish coordinating?"
+How did it go?"
 3016003010350,甘奈,"うん！
 めっちゃ最強で最高のコーディネートだよ☆","Yes!
-It's the ultimate-and-best coordination by far☆"
+It's the ultimate-and-best outfit by far☆"
 3016003010360,甜花,"これ……！
 えっと、どう、かな……？","This…!
 Um… how is it…?"
@@ -98,11 +98,11 @@ It'll make me really dizzy…!"
 Are you ready?"
 3016003010480,千雪,"は、はい……！
 とりあえずは……","W-wait…!
-First of all…"
+Well, I guess I am......"
 3016003010490,甘奈,"それじゃあ、新しい千雪さんの登場で～す☆
 張り切ってどーぞー！","So then, with the new exciting appearance of Chiyuki-saan☆
 There we go!"
-3016003010500,千雪,ど、どう……かな……？,"The, what… now…?"
+3016003010500,千雪,ど、どう……かな……？,How......does this look......?
 3016003010510,甘奈,"わーーっ！！
 めっちゃかわいーよ～千雪さんっ！！","Woooooah!!
 Chiyuki-san, you look suuuper cute!!"
@@ -112,7 +112,7 @@ Chiyuki-san, you look suuuper cute!!"
 Aft-After all, being in different clothes…"
 3016003010540,甘奈,"えー！！　新しい千雪さん、って感じだし
 めっちゃ似合ってるのに……！","Eh!! It's a different-looking chiyuki-san,
-and I think she looks great!"
+and I think it fits you so much......!"
 3016003010550,甜花,"いつもと違う、千雪さん……
 とっても、素敵だよ……","Different from the usual… Chiyuki-san…
 Is really, nice…"

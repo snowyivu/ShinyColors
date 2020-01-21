@@ -123,7 +123,7 @@ $nounに$num回参加しよう,Participate in $1 $2 times,exp
 フェス参加権が$num回復します,Recover $1 Fes Entries,exp
 $nounを$num回プレイしよう,Play $1 $2 Times,exp
 フェスアイドルを$num人誕生させよう,Create $1 Fes Idols,exp
-$nounに参加して、$nounを達成しよう,"Join $1,and earn $2",exp
+$nounに参加して、$nounを達成しよう,Join $1 and earn $2,exp
 「$noun」：条件を満たすことで発動できる特別なスキル,「$1」：A special skill that can be activated by satisfying the conditions,exp
 $nounに参加して、$nounを$num回達成しよう,Join $1 and earn $2 $3 times,exp
 「$noun」：アピールメーターを$nounの位置で止める,「$1」：Stop the appeal meter at $2,exp
@@ -131,9 +131,9 @@ $nounに参加して、$nounを$num回達成しよう,Join $1 and earn $2 $3 tim
 $noun以上の$nounに参加して、$nounを$num回達成しよう,"Join $1 or above $2, and earn $3 $4 times",exp
 $nounに参加して、$num位になろう,"Participate in $1, and earn $2 place",exp
 $noun以上の$nounに参加して、$num位になろう,"Participate in $1 $2 or above, and earn $3 place",exp
-$nounの$nounに参加して、$num位になろう,"Participate in $1's $2, and earn $3 place",exp
-【$note】$nounの$nounに参加して、$num位に$num回なろう,【$1】Participate in $1's $2 and earn $3 place $4 times,exp
-$nounの$nounに参加して、$num位以上になろう,Join $1's $2 and earn rank $3 or above,exp
+$nounの$nounに参加して、$num位になろう,"Participate in $1 $2, and earn $3 place",exp
+【$note】$nounの$nounに参加して、$num位に$num回なろう,【$1】Participate in $2 $3 and earn $4 place $5 times,exp
+$nounの$nounに参加して、$num位以上になろう,Join $1 $2 and earn rank $3 or above,exp
 $noun全員を編成して、$noun以上の$nounに参加しよう,"With all members of $1, participate in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounに$num回参加しよう,"With all members of $1, participate in $2 or above $3 $4 times",exp
 $noun全員を編成して、$nounで$num位になろう,"With all members of $1, earn rank $3 at $2",exp
@@ -182,7 +182,7 @@ $nounの誰か一人をプロデュースして$noun以上のフェスアイド�
 【$note】シーズン$num開催の特別オーディション「$unknown」に合格しよう,"【$1】Pass special audition ""$3"" in season $2",exp
 【$note】ファン感謝祭をクリアしよう,【$1】Clear Thanks Flapping Day,exp
 【$note】ファン感謝祭でMVPを1回取ろう,【$1】Earn MVP in Thanks Flapping Day,exp
-【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,"【$1】In $2 or above $3,earn「$4」",exp
+【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,【$1】In $2 or above $3 earn「$4」,exp
 累計$numポイント達成,Achieve $1 Total Points,exp
 $num周目クリア,Clear $1 Weeks,exp
 最高スコア$num達成,Highest Score $1 Achieved,exp

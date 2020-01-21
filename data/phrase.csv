@@ -2,7 +2,7 @@ name,ja,zh
 announce.package,パッケージ,Bundle
 announce.noticeLabel.topics,開催中のトピックス,Current Topics
 announce.noticeLabel.update,すべてのお知らせ,All Announcements
-announce.noticeLabel.problem,メンテナンス・不具合情報,Maintenance・Defect Announcements
+announce.noticeLabel.problem,メンテナンス・不具合情報,Maintenance・Issues News
 announce.noticeLabel.contents,コンテンツ情報,Content Announcements
 commonMenu.produceRetire.comment1.produce,プロデュース中のデータは失われます\n消費したスタミナと\nプロデュースアイテムは返却されません,You'll lose your current progress\r\nConsumed stamina and\r\nItems will not be returned.
 commonMenu.produceRetire.comment1.trueEndTeaching,プロデュース中のデータは失われます,You'll lose your current Produce progress
@@ -120,7 +120,7 @@ announce.campaign,キャンペーン,Campaign
 announce.gasha,ガシャ,Gacha
 announce.update,アップデート,Update
 announce.maintenance,メンテナンス,Maint.
-announce.problem,不具合,Defect
+announce.problem,不具合,Issue
 announce.ticket,チケット,Ticket
 businessSlotExpansion,追加営業枠,More Job Slots
 bnCoin,バナコイン,Banacoin
