@@ -1,0 +1,19 @@
+id,name,text,trans
+6010001020010,智代子,"プ、プロデューサーさん、私……
+あの……！","P-Producer-san, I……
+Um……!"
+0000000000000,プロデューサー,"見てたよ、智代子
+よく頑張ったな","I was watching, Chiyoko.
+You tried your best."
+6010001020020,智代子,"はい、私っ、が、頑張りました
+でも、私、負けちゃって……！","Yes, I, t-tried my best, but I still ending up losing……!"
+6010001020030,智代子,"頑張ったつもりだったんですけど……
+あ……","I thought I was doing my best……
+Ah……"
+0000000000000,プロデューサー,智代子……,Chiyoko……
+6010001020040,智代子,ご、ごめんなさい、私……,"I-I'm sorry, I……"
+0000000000000,プロデューサー,謝る必要はないよ。……大丈夫だ,There's no need to apologize. ……It's okay.
+6010001020050,智代子,はい……！,Yes……!
+6010001020060,智代子,私も、泣いて終わりになんてしたくないです……！,I don't want to be crying at the end of this either……!
+info,produce_events/601000102.json,
+译者,,
