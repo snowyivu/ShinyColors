@@ -13,7 +13,7 @@ Game Address：[Direct Link](https://shinycolors.enza.fun/home)
 
 Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://go.enza.fun/YLZXbw)
 
-## Installing on Mobile
+## Installing on Android
 1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
 2. (Return to this page on your new browser)
 3. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension
@@ -22,6 +22,16 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
+
+## Installing on iOS
+1. For mobile，you'll need a browser that supports scripts.  Currently the only known one for iOS is Alook Browser which unfortunately is 1.99 on the App Store.
+2. Once you've downloaded Alook you'll need to set up a Javascript extension for shinycolors.enza.fun
+3. Go to Settings > Custom Settings > JavaScript Extensions > Add a New One
+4. On the next screen you will need to set up the Match Value to shinycolors.enza.fun , run at DCMContentLoaded, and the following Javascript code:
+```(function(){ window.unsafeWindow = window; const script = document.createElement('script'); script.src = 'https://snowyivu.github.io/ShinyColors/ShinyColors.user.js'; document.head.appendChild(script); }())```
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/iosinstall.png" alt="Click the ..." width="30%">
+5. Play the game through the new browser and the patch should work automatically
+
 
 **Machine translation**
 
