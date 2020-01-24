@@ -330,7 +330,7 @@ fes.top.title,フェス,Fes
 fes.top.scoreTitle,現在のスコア,Current Score
 fes.top.rankingTitle,グレード内順位/,Grade Pos
 fes.top.score,%{value}pt,%{value}pt
-fes.top.ranking,%{value}位,%{value} rank
+fes.top.ranking,%{value}位,Rank %{value}
 fes.top.rankingInCalculation,集計中,Calculating
 fes.top.gradeTotalUserNum,%{value}人中,%{value} Ps
 fes.top.gradeEvaluationLimit,グレード判定期間  %{mounth}/%{date} %{hour}:%{minute}まで,Grade Period Cutoff at %{mounth}/%{date} %{hour}:%{minute}

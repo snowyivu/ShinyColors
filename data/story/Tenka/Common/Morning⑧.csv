@@ -1,0 +1,37 @@
+id,name,text,trans
+1015001000810010,甜花,あう……わかんない……,Au…… Tenka doesn't know……
+0000000000000,プロデューサー,参考書をそんなに見つめてどうしたんだ？,Why're you looking at the reference book so much?
+1015001000810020,甜花,"プ、プロデューサーさん……
+ここ、わかんなくて……その……","P, Producer-san……
+Here, Tenka doesn't understand…… this one……"
+0000000000000,プロデューサー,"ああ、宿題でわからないところがあったのか
+だったら……","Aah, you're doing your homework, huh. 
+In that case……"
+select,,俺も一緒に考えるよ,"Let's think 
+about it 
+together."
+select,,甘奈に聞こう,Ask Amana.
+select,,"甜花が頑張らないと
+身につかないぞ？","You won't get it
+if you don't work 
+hard for it right？ "
+1015001000810030,甜花,"あ、ありがとう……にへへ……
+プロデューサーさんとなら、できそう……","Th, thank you…… Nihehe……
+If it's with Producer-san, it's possible……"
+1015001000810040,甜花,また、わからないことがあったら……聞いてもいい？,"Next time, if there's something Tenka doesn't understand…… Is it okay to ask you?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1015001000810050,甜花,"そっか……
+なーちゃんに聞けば、いいんだ……","Is that so……
+It's better, to ask Naa-chan about this……"
+1015001000810060,甜花,"プロデューサーさん、忙しそうだし……
+そのほうがいいよね……","Producer-san, seems so busy……
+So it's better this way……"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1015001000810070,甜花,あうう……甜花、勉強苦手だから……,"Au…… Tenka, isn't really good at studying……"
+1015001000810080,甜花,"でも……プロデューサーさんが、言うなら……
+もうちょっと……頑張ってみる……","But…… if Producer-san said so……
+Just for a little bit…… Tenka'll do her best again……"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101500100081.json,
+译者,,

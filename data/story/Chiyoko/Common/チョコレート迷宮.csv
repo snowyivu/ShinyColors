@@ -1,0 +1,161 @@
+id,name,text,trans
+0000000000000,プロデューサー,（おお、真面目に頑張ってるみたいだな）,"(Oh, it looks like she's working seriously hard.)"
+1010001020010,智代子,……チョコ……チョコ……,……Chocolate…… chocolate……
+0000000000000,プロデューサー,"（……ん？　ダンスに合わせて歌も練習してるのか……？
+振りの合間に何か……）","(……Hm? Is she practicing singing and dancing at the same time……?
+She's doing something in between movements……)"
+1010001020020,智代子,"あなたにあまーい愛を届けるよ♪
+……チョコだけに！","I'm sending sweeeet love your way! ♪
+……Just a chocolately little!"
+0000000000000,プロデューサー,……,……
+1010001020030,智代子,"チョコアイドルは、おっチョコちょい！
+……チョコだけに！","This chocolate idol is choco-brained!
+……Just a chocolately little!"
+0000000000000,プロデューサー,……何やってるんだ？　智代子……,……What are you doing? Chiyoko……
+1010001020040,智代子,"あ！　プロデューサーさん！
+おはようございます！","Ah! Producer-san!
+Good morning!"
+1010001020050,智代子,"今、チョコアイドルっぽいことをすぐに言えるよう、
+練習中だったんです！","Right now, I'm practicing so I can sound like a chocolate idol as soon as possible!"
+0000000000000,プロデューサー,……なるほど。智代子なりに頑張っているんだな,……I see. You're working hard in your own way.
+1010001020060,智代子,"はい！
+もっともっとチョコアイドルらしくなりたくって！","Yes!
+I want to become more and more like a chocolate idol!"
+1010001020070,智代子,"ぜひっ、プロデューサーさんの意見も聞かせてくださいっ
+私、次は何をしたらいいでしょうか？","Please let me know if you have any suggestions.
+What would be best for me to do now?"
+0000000000000,プロデューサー,"ん、俺の意見か？
+そうだな……","Hm, my opinion.
+Let's see……"
+select,,"チョコをたくさん
+食べないとな","You have to eat a
+lot of chocolate."
+select,,"チョコの知識を
+深めないとな","You have to deepen
+your knowledge on
+chocolate."
+select,,"チョコとは何かを
+考えよう","Let's think about
+what chocolate is."
+0000000000000,プロデューサー,"チョコをたくさん
+食べないとな",You have to eat a lot of chocolate.
+1010001020080,智代子,"チョコをたくさん……ですか……
+なるほど、チョコアイドルには必要不可欠ですもんね……！","A lot…… of chocolate……?
+I get it, that's what's most important for a chocolate idol, isn't it……!"
+1010001020090,智代子,"わかりました！
+やってみます！","Understood!
+I'll try it!"
+0000000000000,プロデューサー,"ああ。でも、食事のバランスには気をつけるんだぞ
+もし大変そうなら……","Yeah. But be sure to keep your diet balanced.
+If things started to seem bad……"
+1010001020100,智代子,"いえ、大丈夫です！
+私、チョコを買いに行ってきますね！","No, I'll be fine!
+I'm going to go buy some chocolate!"
+0000000000000,プロデューサー,"智代子？　今すぐじゃなくてもいいんじゃ……！
+……こうと決めたら速いな、さすが智代子","Chiyoko? You don't need to go right now……!
+……Making a quick decision like that is just like her."
+1010001020110,智代子,買ってきました！,I bought some!
+0000000000000,プロデューサー,"こ、こんなに……！？
+食べきれるのか……？","Th-this many……?!
+Can you eat all of those……?"
+1010001020120,智代子,甘いものは大好きだから平気です♪,"I love sweet things, so it's no problem. ♪"
+1010001020130,智代子,"ん～！
+どれも美味しくて、幸せですー……！","Mmm～!
+They're all so delicious. This is bliss……!"
+0000000000000,プロデューサー,（本当に幸せそうな、いい笑顔だな）,(She does look really happy. That's a great smile.)
+0000000000000,プロデューサー,写真撮って、ツイスタにあげてもいいか？,Can I take a picture and upload it for Twister for you?
+1010001020140,智代子,"あ、はい！　もちろんですっ
+よろしくお願いします！","Ah, yes! Of course.
+Please go ahead!"
+0000000000000,プロデューサー,"智代子！　
+さっきあげた写真、結構反応もらえてるぞ！","Chiyoko!
+That picture I took got quite a response."
+1010001020150,智代子,"ほ、本当ですか！？
+……わぁ……！　みんな、可愛いって言ってくれてる……！","R-really?!
+……Wow……! Everyone is saying I'm cute……!"
+1010001020160,智代子,"えへへ、嬉しいです！　私、この調子なら
+チョコアイドルやっていけると思いますっ！","Ehehe, I'm happy! As long as I stick with this, I think I'll be able to
+be a chocolate idol!"
+0000000000000,プロデューサー,"チョコの知識を
+深めないとな",You have to deepen your knowledge on chocolate.
+1010001020170,智代子,"そういえば、私、食べてばっかりで
+チョコのこと全然知りませんでした……！","Come to think of it, I only ever eat chocolate,
+but I don't know anything about chocolate……!"
+0000000000000,プロデューサー,"チョコを売りにするなら
+詳しくなっておくといいかもしれないな","It might be a good thing to understand chocolate in detail in order
+to use chocolate as a selling point."
+1010001020180,智代子,"そうですよね！
+チョコの本、借りてきます！","That's true!
+I'm going to borrow books about chocolate!"
+0000000000000,プロデューサー,今行くのか？,Are you going now?
+1010001020190,智代子,"はい！　善は急げですから！
+図書館、行ってきますね！","Yes! I'm doing this without a doubt!
+I'm off to the library!"
+1010001020200,智代子,う～ん……,Ummm……
+0000000000000,プロデューサー,どうした？　智代子,"What's wrong, Chiyoko?"
+1010001020210,智代子,"さっき借りてきた本なんですけど
+結構難しくて……","It's this book that I just rented.
+It's difficult……"
+0000000000000,プロデューサー,"どれどれ……チョコの歴史、か
+なるほど、割と堅い本を借りてきたんだな","Let me see…… the history of chocolate, huh.
+I see, you rented a pretty hard book to read, didn't you?"
+1010001020220,智代子,"はい。普段本をたくさん読むわけじゃないので、
+なかなかの強敵です……！","I did. This isn't a book I would usually read, so it's a pretty formidable foe……!"
+1010001020230,智代子,"でも、ちょっとずつ読んで勉強します！
+すぐにチョコ知識を披露するのは難しそうですけど……","But I'm going to read it little by little and study!
+It doesn't seem like I'll be able to show any knowledge of chocolate anytime soon, though……"
+1010001020240,智代子,きちんと覚えないと意味がないですもんね！,There's no point in this if I don't memorize this carefully!
+0000000000000,プロデューサー,"……せっかくなら、
+勉強しているところも発信してみたらどうだ？","……If you would like,
+how about sharing what you're learning about with others?"
+1010001020250,智代子,"あ、なるほど！
+チョコアイドル勉強中って感じですか！","Ah, that's right!
+It feels like I'm studying, as a chocolate idol!"
+1010001020260,智代子,"ちょっとやってみます！
+うーん……面白いチョコネタ、ためになるチョコネタ……","I'll try that!
+Ummm…… interesting chocolate info, useful chocolate info……"
+1010001020270,智代子,"プロデューサーさん！
+これ、見てください！","Producer-san!
+Look that this!"
+0000000000000,プロデューサー,"ああ、智代子のツイスタか
+……すごいな、コメントがいっぱいじゃないか！","Oh, it's your Twister.
+……That's amazing, there are so many comments!"
+1010001020280,智代子,"チョコネタ、ヒットです！
+頑張ってるんだねって、たくさんの人が見てくれましたっ","The chocolate jokes were a hit!
+Lots of people saw it and said that I'm working hard!"
+0000000000000,プロデューサー,おお！　よかったな！,Oh! That's great!
+1010001020290,智代子,"はい！　誰かのためになれて嬉しいです！
+もっともっと勉強して、役に立つアイドルになりますっ！","It is! I'm glad that I could be of use to someone!
+I'm going to study more and more, and become a helpful idol!"
+0000000000000,プロデューサー,"チョコとは何かを
+考えよう",Let's think about what chocolate is.
+1010001020300,智代子,"ちょ、チョコとは何か……ですか？
+……ああ、哲学ってヤツですね！","Wh-what chocolate…… is?
+……Ah, like philosophy!"
+1010001020310,智代子,う～ん……チョコとは……,Ummm…… chocolate is……
+1010001020320,智代子,チョコ……甘いあなたは魅惑的……,Chocolate…… your sweetness is enchanting……
+0000000000000,プロデューサー,ち、智代子……？,Ch-Chiyoko……?
+1010001020330,智代子,"……あ！　すみません
+ちょっと脱線しちゃいました","……Ah! Excuse me.
+I got a little carried away."
+0000000000000,プロデューサー,"いや、俺も抽象的すぎたかもしれない……
+もっとじっくり考える必要があるのかもな","No, I might have been too abstract myself……
+Maybe we should think about it more carefully."
+1010001020340,智代子,"難しいですもんね……
+……とろけて美味しい茶色の宝石……？","This is hard……
+……A melty, delicious, light-brown gem……?"
+1010001020350,智代子,"……思いついたことから
+ツイスタにアップしてみようかな……？","……That's what came to my mind.
+Maybe I should try posting that on Twister……?"
+1010001020360,智代子,"プロデューサーさん！　見てください！
+ツイスタで反応もらえちゃいました！","Producer-san! Please look!
+I got replies on Twister!"
+0000000000000,プロデューサー,"本当か！？　よかったじゃないか！
+って、これ……チョコポエム面白いですね！　って……","Really?! That's great!
+Wait, this says…… that your chocolate poem was funny……"
+1010001020370,智代子,"なんだか予想外でしたが、
+注目してもらえて嬉しいです！","It's sort of unexpected, but I'm glad it got attention!"
+1010001020380,智代子,"本当は、ポエマーじゃなくてチョコアイドルですけど……
+ちゃんと知ってもらえるように、これから頑張ります！","I'm actually a chocolate idol, not a poet…… but I'll do my best so that everyone knows that!"
+info,produce_events/101000102.json,
+译者,,

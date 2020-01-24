@@ -1,5 +1,5 @@
 id,name,text,trans
-0000000000000,プロデューサー,甜花、なんだか嬉しそうだな？,"Tenka, it seems to you're in good mood？"
+0000000000000,プロデューサー,甜花、なんだか嬉しそうだな？,"Tenka, it seems you're in good mood?"
 1015001000210010,甜花,"にへへ……
 今度、なーちゃんと……お出かけ、するんだ……","Nihehe……
 This time, with Naa-chan…… We, went out for walk……"
@@ -10,28 +10,30 @@ To the place, where Naa-chan feels happy as well……"
 それなら……","Have you decided where to go with Amana?
 In that case……"
 select,,ゲームセンターとか,Game Center?
-select,,カラオケはどうだ？,How about Karaoke？
-select,,服を見るのも楽しい,"It'll be fun to
-clothes browsing."
+select,,カラオケはどうだ？,"How about
+karaoke?"
+select,,服を見るのも楽しい,"It'll be 
+fun to
+browse clothes."
 1015001000210030,甜花,"ゲームセンター……それ、いいかも……
-なーちゃんと一緒に、ゲーム……楽しそう……","Game Center…… that sounds nice……
-Playing game, with Naa-chan…… sounds fun……"
+なーちゃんと一緒に、ゲーム……楽しそう……","Game Center…… That sounds nice……
+Playing games, with Naa-chan…… sounds fun……"
 1015001000210040,甜花,"それに、ゲームだったら……
 甜花でも……なーちゃんに、教えてあげられるよね……？","And, if it's a game……
-Tenka……might be able to teach Naa-chan too……？"
-0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright！ That went really well.)
+Tenka……might be able to teach Naa-chan, too……?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1015001000210050,甜花,"あ……なーちゃん、歌上手だから……
-いいかも……","Ah……Naa-chan、sings very well……
+いいかも……","Ah……Naa-chan, sings very well……
 That sounds good……"
 1015001000210060,甜花,"甜花も、練習になる……
-カラオケに、しようかな……","Tenka、can also practice……
-Maybe、we'll go to Karaoke……"
+カラオケに、しようかな……","Tenka, can also practice……
+Maybe, we'll go to Karaoke……"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1015001000210070,甜花,"服屋さん、なら……
 なーちゃんは、喜んでくれる……かな……","If it's in clothing shop……
-Naa-chan、will be happy…… maybe……"
+Naa-chan, will be happy…… Maybe……"
 1015001000210080,甜花,"でも……甜花、服のこと……わかるかな……？
-なーちゃん……困らせちゃう、かも……","But…… does Tenka…… understand fashion……？
+なーちゃん……困らせちゃう、かも……","But…… does Tenka…… understand fashion……?
 Naa-chan…… will be bothered, maybe……"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
 I should have said something else……)"
