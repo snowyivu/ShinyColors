@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,"結華、スタイリストさんからの評判が良いぞ
+衣装選びが完璧だって","You're quite renown among the stylists, Yuika.
+They say you're a master at choosing outfits."
+1007001000710010,結華,え、ほんと？　嬉しいなぁ、そんなに好評だったんだ,"What, really? That's so nice to hear. I'm glad I have that reputation. "
+1007001000710020,結華,"三峰ってばスタイリストさんとしてもやっていけちゃう？
+兼業アイドルみたいな？","Maybe Mitsumine could try being a stylist herself?
+Part-time idol and part-time stylist, or something!"
+0000000000000,プロデューサー,（褒められて、嬉しいんだな……）,(She seems really happy about it......)
+select,,"舞台衣装でも
+意見をもらおうか","I'd like your
+input on your
+stage costumes."
+select,,"他のみんなの衣装も
+選んでみるか","You should try
+choosing outfits
+for L'Antica."
+select,,"みんな結華のことを
+認めてるんだよ","Everyone thinks
+that highly of
+you, Yuika."
+1007001000710030,結華,"おっとっと。いいのかな、そんなこと言っちゃって
+三峰結構うるさいぞ～？","Uh-oh. Are you sure about that one?
+Mitsumine can be pretty opinionated～?"
+1007001000710040,結華,"って、冗談冗談
+頼ってもらえたからには協力するよ","Nah, I'm just messing with you.
+If you want my input, I'd be happy to cooperate. "
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1007001000710050,結華,アンティーカの衣装選びは確かに面白そうかも！,Picking out outfits for everyone in L'Antica does sound fun!
+1007001000710060,結華,"あーでも、三峰が口出すより好きなもの選んだ方が、
+みんなイキイキするよね……？","Though, I think everyone would probably prefer picking their own outfits, rather than having Mitsumine do it for them......?
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)
+"
+1007001000710070,結華,あはは、おだてたって、なんにも出ないよー？,Ahahah! Pointless flattery will get you nowhere.
+1007001000710080,結華,その手には乗らないからね、プロデューサー？,"I'm not gonna fall for it, Producer?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh...... I screwed up. I should have said something else......)
+info,produce_communications/100700100071.json,
+译者,,

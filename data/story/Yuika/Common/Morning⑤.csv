@@ -4,7 +4,7 @@ id,name,text,trans
 ……ずいぶん眠そうだな。夜更かしでもしたのか？","Oh, good morning.
 ……You seem sleepy. Were you up late?"
 1007001000510020,結華,"まあそんなとこかなー。ゲームのやめ時逃しちゃって
-あ、時間までには体調戻すから、心配しないでね？","You could say that. I got to a good part in a game I was playing and lost track of time. I'll be fine later when it's time for lessons, don't worry!"
+あ、時間までには体調戻すから、心配しないでね？","You could say that. I got to a good part in the game I was playing and lost track of time. I'll be fine later when it's time for lessons, don't worry!"
 0000000000000,プロデューサー,あ、ああ……わかった。けど……,"Oh, sure…… I believe you will, but……
 "
 select,,"後で眠そうだったら、
@@ -15,7 +15,7 @@ select,,コーヒー淹れるか,"Should I brew
 some coffee?"
 select,,"普段の生活、
 見直そうな","Maybe you should
-re-examine your
+rethink your
 lifestyle choices."
 1007001000510030,結華,"う、わっと！　はい、もう大丈夫！　
 眠気バッチリ飛びました！","A-Augh! No worries, I'm wide awake now!
@@ -28,10 +28,9 @@ All my sleepiness suddenly disappeared!"
 I can do that much myself!"
 1007001000510060,結華,でも、気持ちは嬉しいです。ありがとね,"I do appreciate the thought, though. Thanks.
 "
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)
-"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1007001000510070,結華,む、趣味に打ち込むのはいいことだと思うけどー？,"Hmph, I don't think there's anything wrong with devoting yourself to what you enjoy?"
 1007001000510080,結華,プロデューサー、そういうことの楽しさ、忘れちゃったの？,"Have you forgotten how much fun that can be, Producer? "
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh…… I screwed up. I should have said something else……)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh...... I screwed up. I should have said something else......)
 info,produce_communications/100700100051.json,
 译者,,

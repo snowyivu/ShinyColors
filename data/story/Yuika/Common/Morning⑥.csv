@@ -1,0 +1,32 @@
+id,name,text,trans
+0000000000000,プロデューサー,どうした結華、なんか暗くないか？,"What's wrong, Yuika? You seem down.
+"
+1007001000610010,結華,グッズにゲームに、ちょっと色々買いすぎてね……,"Between merch and video games, I spent a bit more than I should've......"
+1007001000610020,結華,……金欠に、なっちゃったんだ……,"......For the time being, I'm totally broke......"
+0000000000000,プロデューサー,趣味にお金を使いすぎたのか……,"So she spent too much money on her hobbies......
+"
+select,,"使ってなくなるのは
+しょうがない","For now you can
+enjoy what you
+already bought."
+select,,それはつらいな,"That's rough.
+"
+select,,何買ったんだ？,"What did you
+buy?"
+1007001000610030,結華,"……その通りだね。大事なこと忘れてたよ
+懐の寒さなんて、買ったものがあたためてくれる！",......You're right. I'd forgotten that! The void of Mitsumine's empty wallet can be filled with the fun of her new merch and video games!
+1007001000610040,結華,プロデューサーありがとう！　元気出た！,"Thank you, Producer! I feel better now!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1007001000610050,結華,"そうなんだよ、つらいんだよー
+いや、仕方ないことではあるんだけどね？","It sure is! It's super tough!
+Though, I guess I brought this on myself?"
+1007001000610060,結華,三峰はしばらく誘惑と戦う生活になりそうです……,"For the time being, Mitsumine must stay strong in the fight against any material temptation......"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)
+"
+1007001000610070,結華,"んー？　そんな特別なものじゃないよ？　
+気にしない気にしない","Uhhh? Nothing special?
+It's not anything you need to be worrying about."
+1007001000610080,結華,流行りものを少々、みたいな感じかな,"Just some stuff that's been popular lately, I guess. "
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh...... I screwed up. I should have said something else......)
+info,produce_communications/100700100061.json,
+译者,,
