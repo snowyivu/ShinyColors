@@ -1,0 +1,29 @@
+id,name,text,trans
+4007001000110010,結華,"やだ……どうしよう、楽しくなってきちゃった……！
+審査員がいるステージとか、これぞアイドルって感じ……！","Oh my god...... What do I do! I'm so excited......! Performing in front of judges, it really feels like I'm an idol......!"
+0000000000000,プロデューサー,"（緊張……というより興奮してるな。テンションが高い……
+……どう言葉をかけようか）","(She's not nervous, but...... Excited? She's full of energy. I wonder what I should say.)"
+select,,"その嬉しさを
+ぶつけるんだ！","That excitement
+will fuel your
+performance!  "
+select,,"審査員を
+気にしすぎるなよ","Don't pay too 
+much attention
+to the judges."
+select,,緊張してないか？,Are you nervous?
+4007001000110020,結華,"もっちろん！　憧れのアイドルみたいに頑張ってくるよー！
+三峰の舞台度胸の見せどころって感じかな？","Absolutely! I'm gonna do my best, just like the idols that inspire me! Is it time to show off Mitsumine's blinding stage presence?"
+0000000000000,プロデューサー,（よし、いい感じに気合が入ったみたいだ）,"(Alright, she seems good and motivated.)
+"
+4007001000110030,結華,"えー？　そこは意識しないとダメでしょ～
+ま、構えすぎるなってことだよね？　ご忠告どうもです！","Whaaat? Impressing the judges is the whole point, though? I guess you mean ""don't get too tense""? Thanks for the advice! "
+0000000000000,プロデューサー,"（落ち着いてはくれたかな
+これなら、空回りすることもなさそうだ）","(Maybe that calmed her down some. At least a little bit.)
+"
+4007001000110040,結華,"大丈夫だってば！　むしろワクワクしてるぐらいだよ～
+……Ｐたんちょっと過保護が過ぎない？","Oh, I'm fine! If anything, I'm thrilled～
+......Getting a little overprotective there, P-tan?"
+0000000000000,プロデューサー,（うーん、余計なお世話だったみたいだ）,"(Hmmm, I guess I shouldn't worry about that.)"
+info,produce_communication_cheers/400700100011.json,
+译者,,
