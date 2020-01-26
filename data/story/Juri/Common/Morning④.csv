@@ -1,0 +1,37 @@
+id,name,text,trans
+1011001000410010,樹里,"なぁ……アンタって
+毎日スーツでネクタイしてるよな","Hey… You wear a necktie with your suit everyday, right?"
+0000000000000,プロデューサー,まあ、俺の制服みたいなものだからな,"Well, it's like a uniform for me."
+1011001000410020,樹里,"アタシはどうも制服のネクタイが苦手でさー
+つけないことが多いんだよ","I don't really like wearing my uniform's tie, so I don't do it often."
+0000000000000,プロデューサー,（そういえば樹里は普段、ネクタイをしていないな）,"(Right, Juri usually doesn't wear a necktie)"
+select,,"ラフな着こなしも
+雰囲気あるぞ","You seem to like
+a casual style"
+select,,"樹里はネクタイも
+似合うと思う","You'd look nice
+with a necktie
+"
+select,,"毎日してれば
+慣れるぞ","Do it everyday
+and you'll get 
+used to it
+"
+1011001000410030,樹里,"着こなしってほど意識はしてねーよ
+ただ、一番上までボタンしめると、窮屈だからな","It's not like I want to have a style.
+Buttoning all the way up is just suffocating, that's all."
+1011001000410040,樹里,でも、アンタはこういうアタシも受け止めてくれるんだな……,"And yet, you accept that part of me…"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1011001000410050,樹里,"友達にもネクタイ似合うって言われたことあるけどさ
+ネクタイって結ぶのむずかしいんだよな","My friends said the same, 
+but tying a necktie is so difficult."
+1011001000410060,樹里,……今度、アンタに教えてもらおうかな,…Maybe you should teach me one day.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1011001000410070,樹里,"慣れるか……そーゆーもんなのか？
+でも、どーもネクタイって窮屈で苦手なんだよなー","Getting used to it… Just like that?
+I don't like how suffocating neckties are though."
+1011001000410080,樹里,まぁ、それも慣れでどーにかなるのかもな？,"Oh well, maybe I'll get used to that too?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
+info,produce_communications/101100100041.json,
+译者,,
