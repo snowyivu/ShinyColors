@@ -1,0 +1,29 @@
+id,name,text,trans
+4011001000110010,樹里,"な、なぁ……アタシの衣装、変じゃねーよな？
+やっぱこの格好で人前に出るのは恥ずかしいっつーか……","H-Hey… Doesn't my outfit look weird?
+It's embarassing to wear this in public, honestly…"
+0000000000000,プロデューサー,"（慣れないアイドル衣装を着て人前に出ることに
+不安を感じているようだ……なんとか励ましてあげよう）",(She seems to be worried about showing off an unfamilliar outfit… I have to encourage her somehow)
+select,,良く似合っているよ,It suits you well
+select,,"大丈夫だ。
+俺を信じろ","You look fine.
+Trust me
+"
+select,,ギャップがいい感じだ,There's a good gap
+4011001000110020,樹里,"そ、そうか？
+なら、アンタの言葉を信じるぜ","R-really?
+I trust you then."
+0000000000000,プロデューサー,（自信を取り戻せたようだ）,(She regained her confidence)
+4011001000110030,樹里,"ほ、本当だろうな？
+その言葉、信じるからな","Y-you think so?
+I'll believe in that.
+"
+0000000000000,プロデューサー,"（まだ少し恥ずかしそうだが…
+さっきよりは不安を取り除けたみたいだ）","(She's still embarassed…
+But there's less anxiety than before)"
+4011001000110040,樹里,"おい、マジメに答えやがれ
+こっちはマジで気にしてんだぞ？","Oi, answer seriously.
+I'm real worried over here, ya know?"
+0000000000000,プロデューサー,（樹里を怒らせてしまったみたいだ…）,(It looks like I offended Juri…)
+info,produce_communication_cheers/401100100011.json,
+译者,,
