@@ -1,0 +1,85 @@
+id,name,text,trans
+1017001020010,あさひ,ここは……こんな感じっと,Here... something like that.
+1017001020020,あさひ,それで……ほいっ！,Well then... yes!
+0000000000000,プロデューサー,"あさひ、おはよう
+随分と早く来てるんだな","Good morning, Asahi. You came so early."
+1017001020030,あさひ,"うーん……ちょっと違う……
+ここをこうして……",Hmmm... Something's wrong... Beyond here...
+0000000000000,プロデューサー,（すごい集中力だな……よし、終わるまで少し待とう）,"(She has a great concentration... Well, I'll wait a bit longer.)"
+1017001020040,あさひ,よしっ……！,Okay!
+0000000000000,プロデューサー,あさひ、おはよう,"Good morning, Asahi."
+1017001020050,あさひ,あ、プロデューサーさん、おはよーっす！,"Ah, Producer-san, good morning-su!"
+0000000000000,プロデューサー,うん、初日から気合が入ってて感心するぞ,I'm impressed with your spirit during the first day.
+1017001020060,あさひ,"早くやりたくなったんすよ！
+この前見せてもらった映像がすごくて",I wanted to do it ASAP! That dance from the video I showed you earlier is amazing.
+0000000000000,プロデューサー,そうか、それにしてもすごい集中力だな,"I see, your concentration is wonderful."
+1017001020070,あさひ,？　どういうことっすか？,Hmm? What do you mean-su?
+0000000000000,プロデューサー,"俺の声が全然聞こえないくらい集中してたみたいだから
+感心してたんだ",You were so concentrated that you couldn't hear my voice. It was so impressing.
+1017001020080,あさひ,そーだったんすね……気付かなかったっす,I was so? I didn't notice you.
+0000000000000,プロデューサー,"（集中すると回りが見えなくなるのか……
+気を付けてあげないと）","(She doesn't care about the surroundings, if she is concentrated... I should be careful.)"
+1017001020090,あさひ,ところで、プロデューサーさんは何の用っすか？,"By the way, what's going on-su, Producer-san?"
+0000000000000,プロデューサー,初回のレッスンだからな、立ち合いをしようと思ってるんだ,"I wanted to check up on you, since it's your first lesson."
+1017001020100,あさひ,へ～、そうだったんすね,"Huh~, it seems so."
+1017001020110,あさひ,"それじゃ、わたし張り切っていきますんで
+見ててほしいっす、プロデューサーさん！","Well, then I'll keep training. Please watch me, Producer-san."
+0000000000000,プロデューサー,いや……この後のレッスンでしっかり見るから大丈夫──,"Well, I'll watch you carefully till the next lesson, okay?"
+1017001020120,あさひ,……すぅ,...su.
+1017001020130,あさひ,……っ！,...hm!
+0000000000000,プロデューサー,（もう聞こえてないみたいだな）,(She doesn't hear me anymore.)
+0000000000000,プロデューサー,あさひ、お疲れ様,"Asahi, good work!"
+1017001020140,あさひ,お疲れさまっす、プロデューサーさん,"Good work-su, Producer-san"
+0000000000000,プロデューサー,初回のレッスンにしては、よくできて──,Well done for the first lesson.
+1017001020150,あさひ,うーん……,Hmmm...
+0000000000000,プロデューサー,あさひ？,Asahi?
+1017001020160,あさひ,あ！　さっきのとこ！,"Ah, that thing from before!"
+0000000000000,プロデューサー,えっ！？,Eh?
+1017001020170,あさひ,さっきのとこなんすよ！,What about that thing from before!
+select,,ステップのところだな,It's about step
+select,,びっくりした,I was surprised
+select,,"気になるところが
+あるんだな",There's something that bothers me.
+1017001020180,あさひ,"そーっす！
+プロデューサーさん、わかってたっすね！",You're right-su! I'm glad Producer-san understands that.
+1017001020190,あさひ,どうすればいいっすかね！？,What should we do about that-su?
+0000000000000,プロデューサー,もっと体にステップを覚えさせることからだな,Your body needs to learn more steps.
+0000000000000,プロデューサー,ひとつひとつのポーズの完成形を意識しながらだな……,"One by one, until you'll master every pose."
+1017001020200,あさひ,ふんふん……そうなんすね……！,Uh-huh... That's right...!
+0000000000000,プロデューサー,"っと、すまないな、難しかったよな
+初回にしては充分できて──","I'm sorry, it was difficult. Well done for the first time anyway."
+1017001020210,あさひ,え！　もっと聞かせてほしいっすよー！,Eh! I want to listen more about it!
+0000000000000,プロデューサー,そ、そうか、わかった、じゃあ続けるぞ,"R-Right, I see, then I'll keep on."
+1017001020220,あさひ,はいっす～！,Yes-su!
+0000000000000,off,off,off
+0000000000000,プロデューサー,いきなり大きな声を出して、どうしたんだ？,"You said it so loudly, what happened?"
+1017001020230,あさひ,"もっといい感じにできるんじゃないかって思うんすよ！
+さっきのステップ！","I think I can do it much better! I mean, that step from before!"
+0000000000000,プロデューサー,"ああ、ステップのことを考えていたのか
+ずいぶん真剣に悩んでるんだな","Aaah, you were thinking about step. You are seriously worried about that."
+1017001020240,あさひ,"そうなんすよー
+映像だともっとスムーズに次のステップに移ってるんすけど",Yeah-su. The movement to the next step is smoothly on that video.
+1017001020250,あさひ,"──直前の足の引きつけが甘いのかな……？
+それとも次のステップを意識できてないだけ……？",It is because of naively pulling the foot up? Or I'm not aware of next step...?
+0000000000000,プロデューサー,……あさひ？,...Asahi?
+1017001020260,あさひ,あ、どしたっすか？　プロデューサーさん？,"Ah, what's the matter, Producer-san?"
+0000000000000,プロデューサー,"あ、いや……
+そこまで考えが及ぶなら、初日としては充分すぎるくらいだ","Ah, don't mind it... If you are thinking so much about it, maybe that's enough for the first day."
+1017001020270,あさひ,"うーん、プロデューサーさんがそう言うなら
+そういうことにしとくっす！","Hmmm, if Producer-san says so, so it must be like that-su!"
+0000000000000,プロデューサー,（この子はもしかしたら……）,"(Could it be, that girl...)"
+0000000000000,off,off,off
+0000000000000,プロデューサー,"なら、この後とことんやってみようか
+丁度レッスン場も空いてるみたいだし","In that case, let's try to do something after that. It seems that lesson room is available."
+1017001020280,あさひ,ホントっすか！　感謝するっす！,Really! I'm grateful.
+0000000000000,プロデューサー,"ああ、だけど無理は禁物だぞ
+課題を克服できたら、今日のレッスンはおしまいだからな","Oh, but don't be unreasonable. If you can overcome the challenges, today's lesson is over."
+1017001020290,あさひ,オッケーっす！,Okay-su!
+1017001020300,あさひ,"よーし、とことんやるっすよ～
+あはは、なんかワクワクするっす！","Alright, then let's do it! Ahaha, somehow I'm so excited-su!"
+1017001020310,あさひ,まずは最初のステップなんすけどね──,Let's start from the first step...
+0000000000000,プロデューサー,"（──少し突っ走りがちだけど、本当に熱心だ
+これからが楽しみだな）","(I'm turning up the tempo, but I'm really enthusiastic about it. From now, I'm looking forward to it.)"
+0000000000000,off,off,off
+info,produce_events/101700102.json,
+译者,,

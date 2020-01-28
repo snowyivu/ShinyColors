@@ -1,0 +1,30 @@
+id,name,text,trans
+1003001000210010,めぐる,えっへへー！,Ehehe!
+0000000000000,プロデューサー,めぐる、なんだか調子が良さそうだな,"Meguru, you seem like you're in a good mood."
+1003001000210020,めぐる,"うんっ！
+今すぐ走り出したい気分だよ！","Yeah!
+I feel like I want to start running!"
+0000000000000,プロデューサー,（めぐるはやる気を持て余しているみたいだ）,(It looks like she has more motivation than she knows how to deal with.)
+select,,"その元気を
+仕事に活かそう","Make use of that
+energy in your work."
+select,,少しストレッチしようか,"Should we do some
+stretches?"
+select,,走ると危ないぞ,"Running is
+dangerous."
+1003001000210030,めぐる,"もちろん！　ねえねえ、プロデューサー！
+今日はどんなお仕事があるの？","Of course! Hey, Producer!
+What kind of work do I have today?"
+1003001000210040,めぐる,今なら、なんでもバッチリできそうだよ！,I feel like I can do anything perfectly right now!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1003001000210050,めぐる,"そっか！
+いきなり走り出したら危ないもんね！","I know!
+Starting to run all of a sudden is dangerous, right?"
+1003001000210060,めぐる,ちゃんと準備してから走るようにするよ！,I'll make sure to prepare so I can run!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1003001000210070,めぐる,"さすがにわたしでも、
+事務所の中を走ったりはしないよー",Of course I wouldn't run in the office.
+1003001000210080,めぐる,プロデューサー、わたしのことそんなふうに思ってたの……？,"Producer, do you think I'm the kind of person who would do that?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+info,produce_communications/100300100021.json,
+译者,,

@@ -1,0 +1,48 @@
+id,name,text,trans
+3001002010010,真乃,灯織ちゃん……おはようっ,"Good morning, Hiori-chan."
+3001002010020,灯織,……,......
+3001002010030,真乃,"（あ、灯織ちゃん、雑誌を読むのに真剣みたい
+この前のインタビューかな……）","(Oh, Hiori-chan seems to be serious even though she's just reading a magazine.
+Maybe it's about the interview the other day.)"
+3001002010040,真乃,（あれ？）,(Hmm?)
+3001002010050,真乃,占いだ……,It's horoscopes.
+3001002010060,灯織,えっ！　真乃！？,Eh? Mano?
+3001002010070,真乃,ご、ごめんねっ、勝手にのぞいちゃって,I-I'm sorry for looking without asking you first.
+3001002010080,灯織,べ、別にいいけど……,I-I don't mind really
+3001002010090,真乃,灯織ちゃんって、占いが……好きなの？,"Hiori-chan, do you like horoscopes?"
+3001002010100,灯織,好きってほどじゃないけど……,I can't say that I like it.
+3001002010110,真乃,"そっかぁ……私もよく占いのコーナーとか読むから
+一緒かなって思って……",I see. I do read horoscope part so I thought we're the same.
+3001002010120,灯織,"そうなんだ……
+真乃も読む？","I see. So, you want to read too?"
+3001002010130,真乃,"え……いいの？
+ありがとう！　……ほわっ","Eh? You don't mind?
+Thank you! Oh."
+3001002010140,灯織,……どうしたの？,What's the matter?
+3001002010150,真乃,"あのね、隣のページに友達診断があったの
+灯織ちゃんと……やってみたいな","Well, there's a ""test of friendship"" on the next page.
+And... I want to try it with you."
+3001002010160,灯織,"……私と？
+でも、もし……","With me? But, what if it---"
+3001002010170,真乃,やっぱり私となんて、ダメ……かな？,So... you don't want to do it with me?
+3001002010180,灯織,いや、そうじゃなくて……,"No, it's not like that..."
+3001002010190,灯織,……わかった……やってもいいよ,Okay. Let's try it.
+3001002010200,真乃,いいの？,You sure?
+3001002010210,灯織,うん。いくよ,Yes. Here goes.
+3001002010220,灯織,"ええっと……星座か
+……真乃は牡牛座だよね？","Let's see... Zodiac sign.
+Mano, you're a Taurus, right?"
+3001002010230,真乃,ほわっ……覚えてくれてるの？,Oh. You remembered it.
+3001002010240,灯織,た、たまたまだから……,I-It just happened...
+3001002010250,灯織,ほら、牡牛座と魚座が交わる欄を見て？,Could you look at the column for Taurus and Pisces?
+3001002010260,真乃,"うん……
+え～っと……あっ、あった","Okay.
+Let's see... Oh, there it is."
+3001002010270,真乃,ふたりの相性は……ほわっ？,Your compatability is... Oh?
+3001002010280,灯織,やっぱり……悪かった……？,So... it was really bad?
+3001002010290,真乃,ううん、『あなたたち次第』だって,"No, it says ""It depends on you two""."
+3001002010300,灯織,……私たち次第,It depends on us.
+3001002010310,真乃,ふふっ……いい結果だねっ,Fufu We got a nice one.
+3001002010320,灯織,ふふ、まあ……そうかもね,"Fufu Well, I guess so."
+info,produce_events/300100201.json,
+译者,,

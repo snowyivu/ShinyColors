@@ -1,0 +1,144 @@
+id,name,text,trans
+1010001040010,智代子,うぅ……オーディション……ダメでしたね……,"Aw…… the audition…… didn't go well, did it……"
+0000000000000,プロデューサー,"智代子……そんなに落ち込むな
+参加者も多かったし、こういう時もある","Chiyoko…… don't let it get you so down.
+There were so many participants. This kind of thing happens."
+1010001040020,智代子,プロデューサーさん……でも……,Producer-san…… but……
+1010001040030,智代子,"……はっ！　も、もしかして、
+みんな、チョコアイドルに飽きちゃったんじゃ……！",……Ah! C-could it be that everyone's had enough of the chocolate idol……!
+0000000000000,プロデューサー,いや、そんなことは……,"No, that's……"
+1010001040040,智代子,"このままじゃダメですよね！？
+停滞はよくないって聞きました！","I can't continue this way, right?!
+I heard that being stagnant is bad!"
+1010001040050,智代子,"路線変更、してみます！
+チョコアイドル以外のアイドルになります！","I'll try a change in policy!
+I'll become an idol that is not a chocolate idol!"
+1010001040060,智代子,"プロデューサーさん、ちょっと
+練習させてもらってもいいですか？","Producer-san, is it okay if I do a little practice?"
+0000000000000,プロデューサー,あ、ああ……,Y-yeah……
+1010001040070,智代子,"じゃあいきますね！
+こほんっ","Well then, here I go!
+Ahem."
+1010001040080,智代子,"……私は園田智代子よ。会えて光栄に思うことね
+だって私は将来、世界一になるアイドルなんだから","……I am Chiyoko Sonoda. I believe you should be honored to meet me.
+After all, I am an idol who will become the best in the world in the future."
+0000000000000,プロデューサー,……えっと、それは……,"……Um, that's……"
+1010001040090,智代子,"キリッとしたお嬢様キャラです、どうですか！？
+それから、えっと……！","What did you think of that stiff young lady character?!
+And then there's, um……!"
+1010001040100,智代子,"……園田……智代子……です
+好きなもの、は……お菓子と、ご飯……です……","I'm……Chiyoko…… Sonoda…….
+I like…… sweets…… and food……"
+0000000000000,プロデューサー,それは、寡黙キャラ……とか？,Was that someting like…… a quiet character?
+1010001040110,智代子,わあ、プロデューサーさん、アタリです！,"Wow, Producer-san, good guess!"
+1010001040120,智代子,"……でもな、こんなんでアタシを分かった気になってたら
+痛い目見んぞ。気ぃつけろよ","……But, y'know,  if ya think you're starting to understand me like that, you'll have a bad time. Watch your back."
+0000000000000,プロデューサー,次はヤンキーキャラ、と……,So next is a delinquent character……
+1010001040130,智代子,"これだけあったら、飽きられちゃったりしないですよねっ
+……今度の握手会で、色々チャレンジしてみます！","With even just that, no one will get tired of it.
+……I'm going to try challenging myself in different ways at this handshake event!"
+0000000000000,プロデューサー,"……そうだな。せっかく考えたんだから、
+きちんと試しておいで","……Okay. Since you've gone through great pains to think about this, make sure you try it out properly."
+1010001040140,智代子,うぅ～……全然しっくりきませんでした……！,Aw～…… that didn't go well at all……!
+1010001040150,智代子,"ファンのみんなや、メンバーのみんなにも
+心配されたり笑われたりしちゃいましたし……",All the fans and even the other members were either worried about me or laughing at me……
+0000000000000,プロデューサー,とりあえず、お疲れ様,"First of all, good work out there."
+1010001040160,智代子,"いろんなキャラを試したのに……
+一体何がダメだったんでしょう……","I tried out a bunch of different characters……
+I wonder just what could've gone wrong……"
+0000000000000,プロデューサー,智代子……,Chiyoko……
+select,,"智代子が落ち着く
+スタイルは？","What is the style
+that suits you?"
+select,,"ファンはなんて
+言ってた？","What did your fans
+say?"
+select,,"本当は気づいてるん
+じゃないか？","Have you really
+not realized it?"
+0000000000000,プロデューサー,"智代子が落ち着く
+スタイルは？",What is the style that suits you?
+1010001040170,智代子,"え？　えっと……私が落ち着くのは、
+甘いものを持って、チョコのことを話して……","Eh? Um…… what suits me is having sweet things, and talking about chocolate……"
+1010001040180,智代子,あ……これって……,Ah…… this is……
+1010001040190,智代子,"そっか……やっぱり、私、チョコアイドルなんですね
+チョコが一番、ぴったりに思えました！","I see…… I am a chocolate idol, after all.
+I think chocolate sounds the most perfect!"
+0000000000000,プロデューサー,"ああ、俺もそう思うよ
+そのほうが智代子らしい","Yes, I think so too.
+That's just what'd I'd expect from Chiyoko."
+1010001040200,智代子,えへへ……ありがとうございます,Ehehe…… thank you.
+1010001040210,智代子,"なんだか遠回りしちゃいましたけど
+自分に嘘ついてもしょうがないですもんね！","I went on a little bit of a detour, but there's no use in lying to myself!"
+1010001040220,智代子,もう迷わないで、チョコアイドルをやっていきます！,"I'll be a chocolate idol, without a doubt!"
+0000000000000,プロデューサー,ああ、その意気だ！,"Yes, that's the spirit!"
+1010001040230,智代子,"チョコアイドル園田智代子、再始動！
+っていうか……","The chocolate idol Chiyoko Sonoda restarts!
+Or maybe I should say……"
+1010001040240,智代子,"園田智代子がチョコアイドル、なので！
+これからはもう、トップアイドルになるまでまっしぐらです","I can say with confidence that Chiyoko Sonoda is the chocolate idol!
+From now on, I'm going to dash forward until I'm a top idol!"
+0000000000000,プロデューサー,"ファンは
+なんて言ってた？",What did your fans say?
+1010001040250,智代子,"握手会で、ですか？
+えっと……今日の智代子ちゃん変～とか","You mean at the handshaking event?
+Um…… they said that I was weird today, and stuff like that."
+1010001040260,智代子,いつものチョコちゃんがいい、とか……あっ,And that the way I usually am is good…… ah.
+1010001040270,智代子,"……そっか、ファンの人たちは
+チョコアイドルの私を応援してくれてるんですよね","……That's right, my fans are cheering me on as a chocolate idol, aren't they."
+0000000000000,プロデューサー,"いや、それだけじゃない
+みんなは、そのままの智代子のファンなんだ","No, that's not all.
+Everyone is a fan of the usual Chiyoko."
+0000000000000,プロデューサー,"無理してキャラを作ってるんじゃない、
+ありのままの姿が見たいんだよ","They want to see you the way you usually are, not as a forced character."
+1010001040280,智代子,"た、たしかに私、別のキャラをやるときは、
+かなり無理してたかもしれないです……！",I-I certainly might have been forcing myself a lot when I was acting as other characters……!
+0000000000000,プロデューサー,"キャラも大事だけど、ファンが望むものを見せることが、
+アイドルとしての一番の仕事なんじゃないか？","Having character is important, but to an idol, meeting the fan's expectations is most important, don't you think?"
+1010001040290,智代子,"そうでした……大事なことを忘れていました……
+私は、応援してくれるみんなのためにアイドルをやりたい","That's true…… I forgot something important……
+I want to be an idol for all the people who have been rooting for me."
+1010001040300,智代子,"ファンのみんなが好きになってくれた、
+無理しないでいられる、そのままの私……","For all my fans who grew to like me, not forcing myself, and staying the way I am……"
+1010001040310,智代子,"チョコアイドル園田智代子として、
+これからも、また頑張ります！","As the chocolate idol Chiyoko Sonoda, I'll continue to keep trying my best!"
+0000000000000,プロデューサー,"本当は気づいてるんじゃ
+ないか？",Have you really not realized it?
+1010001040320,智代子,うっ……,Oh……
+1010001040330,智代子,"……プロデューサーさんは
+なんでもお見通しなんですね……","……You can see through anything, can't you……"
+1010001040340,智代子,"……私も、チョコアイドルしかないってことは
+わかってるんです",……I know there's no use in me being anything but a chocolate idol.
+1010001040350,智代子,"でもあのオーディションに落ちたのが悔しくて、
+ちょっと他のキャラを試したくなっちゃって……","But failing that audition was frustrating, so I ended up trying a few new characters……"
+0000000000000,プロデューサー,智代子……,Chiyoko……
+1010001040360,智代子,"……これじゃダメですよねっ
+きっと今の私を見ても、ファンのみんなは喜んでくれません","……This is no good.
+If my fans saw me the way I am now, they would not be pleased."
+1010001040370,智代子,"私、チョコアイドルを続けます！
+オーディションには、また次合格します！","I'm going to continue being a chocolate idol!
+I'll pass another audition next!"
+0000000000000,プロデューサー,"ああ。さすが智代子だ
+そう言うと思ってこれを用意しておいたぞ","Yeah. That's just what I'd expect from you.
+I though you'd say that, and I prepared for that."
+1010001040380,智代子,"新しいオーディションの資料と、チョコ……！
+ありがとうございます！","Materials for the new audition, and chocolate……!
+Thank you!"
+1010001040390,智代子,"はむっ……うん
+チョコ、甘くておいしいです！","Munch…… yeah.
+Chocolate is sweet and delicious!"
+1010001040400,智代子,"やっぱり私には、
+チョコアイドルが一番しっくりくる気がします！","Just as I thought, being a chocolate idol fits me to a tee!"
+1010001040410,智代子,"こんなに大好きになれるなんて……
+はっ！　まさに棚からチョコ餅です！","I came to love it this much……
+Ah! It's definitely a piece of choco-luck!"
+1010001040420,智代子,"えへへ……いつの間にか私、
+ちゃんとチョコアイドルになれてたんですね","Ehehe…… before I knew it, I became a proper chocolate idol."
+0000000000000,プロデューサー,"そうだな
+これからも、一緒に頑張ろう！","You're right.
+From now on, let's keep doing our best together!"
+1010001040430,智代子,"はい！　まずは、次のオーディションからですね！
+チョコアイドル園田智代子、今度こそ決めちゃいますっ！","Yes! First we have the next audition!
+This time, it's definitely going to be chocolate idol Chiyoko Sonoda!"
+info,produce_events/101000104.json,
+译者,,
