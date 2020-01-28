@@ -1,11 +1,11 @@
 id,name,text,trans
-1010001000610010,智代子,今日はどんなお菓子が出てくるかなー？,I wonder which snack I'll get today?
+1010001000610010,智代子,今日はどんなお菓子が出てくるかなー？,I wonder which sweet I'll get today?
 0000000000000,プロデューサー,そんなにカバンをあさって、探し物か？,Are you looking for something in that bag?
 1010001000610020,智代子,"違いますよー。中のお菓子を、パッケージを見ないで
-選んでるんです！　くじ引きみたいで楽しいんですよ？","Nope! I'm choosing a snack without looking
+選んでるんです！　くじ引きみたいで楽しいんですよ？","Nope! I'm choosing a sweet without looking
 at its package! It's like a lottery. It's fun!"
 0000000000000,プロデューサー,なるほど……,I see……
-select,,どのお菓子が一番？,"What kind of snack
+select,,どのお菓子が一番？,"What kind of sweet
 is the best?"
 select,,面白そうだな,That looks fun.
 select,,引いてみたい,"I want to try

@@ -5,14 +5,14 @@ went to an uninhabited island!"
 0000000000000,プロデューサー,智代子はチョコだろ？,"You would bring chocolate, right?"
 1010001001210020,智代子,"もちろんですよ！　ちなみにプロデューサーさんは？
 無人島にひとつだけお菓子を持って行くなら何にします？","Of course! By the way, what would you bring?
-If you had to choose one snack to bring with you, what would it be?"
+If you had to choose one sweet to bring with you, what would it be?"
 0000000000000,プロデューサー,そうだなぁ……,Let's see……
 select,,甘いチョコ,Sweet chocolate
 select,,かなり悩むな,"I feel very
 troubled."
 select,,"お菓子じゃなきゃ、
 ダメか？","Does it have to be
-a snack?"
+a sweet?"
 1010001001210030,智代子,"やっぱりチョコですよね！
 プロデューサーさんはわかってます！","I knew you'd choose chocolate!
 Producer-san, you get it!"
@@ -23,11 +23,11 @@ There's no mistake that it'd be useful for life on an uninhabited island!"
 1010001001210050,智代子,え？　あれ？　プロデューサーさん？,Eh? Huh? Producer-san?
 1010001001210060,智代子,"ひとつだけなら決まってるじゃないですか！
 ね？　ねっ？　ほら、あのお菓子ですよぅ","If you have to choose only one thing, it's obvious right?!
-Right? Right? Come on, it's that one snack!"
+Right? Right? Come on, it's that one sweet!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1010001001210070,智代子,"？
 お菓子じゃなかったら何を持って行くんですか？","?
-What would you bring beside a snack?"
+What would you bring beside a sweet?"
 1010001001210080,智代子,他に何か、あります……？,Is there something else……?
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
 info,produce_communications/101000100121.json,
