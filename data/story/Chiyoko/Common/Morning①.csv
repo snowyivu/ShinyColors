@@ -2,11 +2,11 @@ id,name,text,trans
 0000000000000,プロデューサー,おはよう智代子、何書いてるんだ？,"Good morning, Chiyoko. What are you writing?"
 1010001000110010,智代子,"ひゃあっ！？
 プ、プロデューサーさん、見ちゃったんですか……！？","Wah?!
-P-Producer-san, you were watching……?!"
+P-Producer-san, you were watching...?!"
 1010001000110020,智代子,"……サインの練習、してたんです
-えへへ、ちょっと恥ずかしいですね","……I was practicing my autograph.
+えへへ、ちょっと恥ずかしいですね","...I was practicing my autograph.
 Ehehe, this is a little embarrassing."
-0000000000000,プロデューサー,（なるほど。サインか……）,"(I see. Her autograph, huh……)"
+0000000000000,プロデューサー,（なるほど。サインか……）,"(I see. Her autograph, huh...)"
 select,,"上手く書けるように
 なったか？","Are you working to
 improve your
@@ -21,9 +21,9 @@ your lessons before
 you do that."
 1010001000110030,智代子,"それがなかなか難しくって！　時間がかかってもダメだし、
 雑になっちゃってもダメだし……！","It's pretty hard! I have to make sure I don't take too long,
-but I also have to make sure that it's not sloppy, too……!"
+but I also have to make sure that it's not sloppy, too...!"
 1010001000110040,智代子,"奥が深いんだなってひしひし感じてます……！
-もうちょっと練習してみますね！","I have a feeling deep down that autographs are really complex……!
+もうちょっと練習してみますね！","I have a feeling deep down that autographs are really complex...!
 I'll try practicing some more!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1010001000110050,智代子,"大丈夫ですよ！　これ、アイドルについて
@@ -37,6 +37,6 @@ I have to put making sure the people watching me on stage have fun first!"
 1010001000110080,智代子,"ごめんなさい、ちょっと先走りすぎちゃいました
 こういうのは、やることやってからじゃないと、ですよね","Sorry, I might've gotten a little ahead of myself.
 I have to put first things first for things like this, right?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101000100011.json,
 译者,,

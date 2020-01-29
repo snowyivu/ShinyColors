@@ -4,7 +4,7 @@ id,name,text,trans
 1003001000510020,めぐる,"わたしね、今日、面白い夢を見たんだ！
 プロデューサーは何か夢とか見た？","Hey, I had an interesting dream today!
 Did you have any dreams, Producer?"
-0000000000000,プロデューサー,えーっと、俺は……,"Ummm, I……"
+0000000000000,プロデューサー,えーっと、俺は……,"Ummm, I..."
 select,,"めぐるがトップアイドル
 になる夢","Had a dream about
 you becoming a
@@ -24,7 +24,7 @@ Tell me, tell me!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1003001000510070,めぐる,そういうこともあるよね！,"That happens sometimes, doesn't it!"
 1003001000510080,めぐる,"……でも、プロデューサーがどんな夢を見たのか、
-ちょっと気になってきたなぁ",……But I'm a little curious about what kind of dream you had.
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+ちょっと気になってきたなぁ",...But I'm a little curious about what kind of dream you had.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/100300100051.json,
 译者,,

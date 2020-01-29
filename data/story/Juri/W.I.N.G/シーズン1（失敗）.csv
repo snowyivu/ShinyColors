@@ -1,0 +1,31 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I heard the results.
+……It looks like this is the end."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,……Yes. We didn't reach the target.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね",W.I.N.G. is a stage that all idols dream of.
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems that the path there was too steep……
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I apologize for not producing results……
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","……This is not the time to apologize to us.
+The girl is waiting for you, isn't she?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
+0000000000000,プロデューサー,……行ってきます,……I'm off.
+0000000000000,プロデューサー,"…… 『W.I.N.G.』の一次審査だけど
+残念ながら、通過できなかったそうだ","...Well, I heard back about the first round of judging for W.I.N.G. and unfortunately, it doesn't look like you passed."
+7011001020010,樹里,……そうか。まあ仕方ね－よな,...Okay. Well that's how it goes.
+0000000000000,プロデューサー,"（樹里、落ち込んでいるよな
+あれだけ真面目に練習していたんだから当然か……）",(Juri's got to be disappointed. It's only natural after she trained that seriously for it...)
+0000000000000,プロデューサー,"その……結果は残念だったけど
+あんまり落ち込みすぎるなよ……？","Hey... so it's too bad about the results but don't take it too hard, okay...?"
+7011001020020,樹里,ああ？　……別に、落ち込んだりしてね－よ,"Huh? ...Nah, I'm not taking it hard or anything."
+0000000000000,プロデューサー,え？,Eh?
+7011001020030,樹里,"今回はアタシの練習が足りなかったんだから仕方ね－よ
+……それより、次に向けてもっと練習すりゃいいだろ","I didn't have enough time to learn the ropes this time so these things happen. Instead of worrying about that, I should be training harder for next time."
+0000000000000,プロデューサー,"……ああ、そうだよな！
+よし、それじゃあ次に向けてさっそく練習するか","...Oh yeah, you're right! Cool, then let's get to work training for your big comeback."
+7011001020040,樹里,おう。これからもよろしくな、プロデュ－サ－,"Yup. Let's show them what we're made of, Producer."
+info,produce_events/701100102.json,
+译者,,

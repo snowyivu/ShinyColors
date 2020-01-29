@@ -4,26 +4,26 @@ id,name,text,trans
 1010001000610020,智代子,"違いますよー。中のお菓子を、パッケージを見ないで
 選んでるんです！　くじ引きみたいで楽しいんですよ？","Nope! I'm choosing a sweet without looking
 at its package! It's like a lottery. It's fun!"
-0000000000000,プロデューサー,なるほど……,I see……
+0000000000000,プロデューサー,なるほど……,I see...
 select,,どのお菓子が一番？,"What kind of sweet
 is the best?"
 select,,面白そうだな,That looks fun.
 select,,引いてみたい,"I want to try
 pulling one out."
-1010001000610030,智代子,その質問への答えはひとつです！　……もちろんチョコ！,"There's only one answer to that question! ……Chocolate, of course!"
+1010001000610030,智代子,その質問への答えはひとつです！　……もちろんチョコ！,"There's only one answer to that question! ...Chocolate, of course!"
 1010001000610040,智代子,"たまに、ご褒美用の少し高いチョコも入れてるんです
 ……ここだけの話なんですけどねっ","Sometimes I put expensive chocolate in here to reward myself.
-……Just between you and me."
+...Just between you and me."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1010001000610050,智代子,"はい！　学校で友達と一緒にやるのも盛り上がります！
 お昼休みの主役になれちゃうんですよ","Yes! It's exciting to do this with my friends from school too!
 I might end up becoming the star of lunch break!"
-1010001000610060,智代子,……あ、今度、果穂にも引いてもらおうかな？,"……Ah, I wonder if I should ask Kaho if she wants to do it this time?"
+1010001000610060,智代子,……あ、今度、果穂にも引いてもらおうかな？,"...Ah, I wonder if I should ask Kaho if she wants to do it this time?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1010001000610070,智代子,"わわっ！？
 プロデューサーさんはダメですっ、待ってください！","Woah?!
 Producer-san don't do that, please wait!"
-1010001000610080,智代子,カ、カバンの中を綺麗にしたいので……！,"I-I want to clean the inside of my bag, so……!"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+1010001000610080,智代子,カ、カバンの中を綺麗にしたいので……！,"I-I want to clean the inside of my bag, so...!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101000100061.json,
 译者,,

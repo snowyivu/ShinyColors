@@ -5,18 +5,18 @@ id,name,text,trans
 1002001000810020,灯織,"仕事で目上の方に会って、言葉遣いに
 迷うことがあったんです","I met someone above me at work,
 and I was unsure what was proper to say."
-0000000000000,プロデューサー,なるほどな。うーん、マナーか……,"I see. Hmm, about manners……"
+0000000000000,プロデューサー,なるほどな。うーん、マナーか……,"I see. Hmm, so manners……?"
 select,,"礼儀を重んじるのは
 いいことだ","Honoring manners
-is a good thing"
+is a good thing."
 select,,俺が教えてやる,"I'll teach
-you about it"
+you about it."
 select,,"固くなりすぎない
 ようにな","Just don't
-be too stiff"
+be too stiff."
 1002001000810030,灯織,はい。私もそう思います,Yes. I think so too.
 1002001000810040,灯織,"人と関わるうえで、最低限のマナーは
-必要ですから","When being involved with others, you need some manners."
+必要ですから","When being involved with others, you need proper manners."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
 1002001000810050,灯織,"ありがたいことですけど……
 教えてもらうばかりでは
@@ -26,8 +26,8 @@ be taught everything……"
 1002001000810060,灯織,"少し、自分で勉強してから、
 プロデューサーに聞くようにします","I'm going to study by myself for awhile, before I ask you any questions."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1002001000810070,灯織,たしかに、そういう考えもありますが……,"I've had those kind of thoughts too, but……"
-1002001000810080,灯織,……やはり、私はしっかり勉強しておきたいです,……I need to study properly after all.
+1002001000810070,灯織,たしかに、そういう考えもありますが……,"Of course I've thought that too, but……"
+1002001000810080,灯織,……やはり、私はしっかり勉強しておきたいです,"……even so, I want to study sufficiently."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
 I should have said something else……)"
 info,produce_communications/100200100081.json,
