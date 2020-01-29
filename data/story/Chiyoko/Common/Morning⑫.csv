@@ -6,7 +6,7 @@ went to an uninhabited island!"
 1010001001210020,智代子,"もちろんですよ！　ちなみにプロデューサーさんは？
 無人島にひとつだけお菓子を持って行くなら何にします？","Of course! By the way, what would you bring?
 If you had to choose one sweet to bring with you, what would it be?"
-0000000000000,プロデューサー,そうだなぁ……,Let's see……
+0000000000000,プロデューサー,そうだなぁ……,Let's see...
 select,,甘いチョコ,Sweet chocolate
 select,,かなり悩むな,"I feel very
 troubled."
@@ -28,7 +28,7 @@ Right? Right? Come on, it's that one sweet!"
 1010001001210070,智代子,"？
 お菓子じゃなかったら何を持って行くんですか？","?
 What would you bring beside a sweet?"
-1010001001210080,智代子,他に何か、あります……？,Is there something else……?
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+1010001001210080,智代子,他に何か、あります……？,Is there something else...?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101000100121.json,
 译者,,

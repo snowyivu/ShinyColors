@@ -1,17 +1,17 @@
 id,name,text,trans
-1002001000410010,灯織,……えっと、この日はダンスレッスンに……,"……Um, let's have a Dance Lesson on this day……"
+1002001000410010,灯織,……えっと、この日はダンスレッスンに……,"……Um, let's have a dance lesson on this day……"
 0000000000000,プロデューサー,おはよう。その手帳は……スケジュール帳か,"Morning. That notebook is……
 the schedule book huh."
 1002001000410020,灯織,"はい
 今、レッスンの予定を組んでいるところです",Yes. I'm putting together the lesson plan.
 0000000000000,プロデューサー,（なるほど、よくやってるんだな）,"(I see, she's doing it well.)"
 select,,俺も後で確認しよう,"I'll check
-it later"
+it later."
 select,,この調子で頑張ろう,"Keep doing
-your best"
+your best."
 select,,しっかりしてるな,"You're really
 taking it
-seriously"
+seriously."
 1002001000410030,灯織,ぜひお願いします,Please do.
 1002001000410040,灯織,"プロデューサーとは二人三脚で、
 足並みを乱さないようにやっていきたいので","If we work together then we won't
@@ -24,7 +24,7 @@ I feel anxious about this lesson."
 もう少し時間を増やしたいです","So Producer,
 I'd like to increase the time for it a bit."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1002001000410070,灯織,自分のことを自分で管理するのは当たり前でしょう,"It's normal to manage yourself, isn't it."
+1002001000410070,灯織,自分のことを自分で管理するのは当たり前でしょう,"It's normal to manage yourself, isn't it?"
 1002001000410080,灯織,"プロデューサーにも、
 そういうところはしっかりしていただきたいです","I'd like you to take this seriously too,
 Producer."

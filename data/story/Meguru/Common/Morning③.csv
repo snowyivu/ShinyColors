@@ -1,10 +1,10 @@
 id,name,text,trans
-1003001000310010,めぐる,どうしよう、もうすぐテストだなぁ……,What should I do? I have a test coming up……
+1003001000310010,めぐる,どうしよう、もうすぐテストだなぁ……,What should I do? I have a test coming up...
 0000000000000,プロデューサー,ずいぶん深刻そうだな,This seems very serious.
 1003001000310020,めぐる,"うーん……やっぱり勉強って苦手だよー
-プロデューサー、何かコツとかないかな？","Hmmm…… I'm really no good at studying!
+プロデューサー、何かコツとかないかな？","Hmmm... I'm really no good at studying!
 Producer, do you have any tricks I can use?"
-0000000000000,プロデューサー,（勉強のコツか、そうだなぁ……）,(A trick to studying? Let's see……)
+0000000000000,プロデューサー,（勉強のコツか、そうだなぁ……）,(A trick to studying? Let's see...)
 select,,勉強会を開いたら？,"How about starting
 a study group?"
 select,,努力あるのみ,"All it takes
@@ -18,7 +18,7 @@ And they can tell me whatever I don't understand, too!"
 I'm going to try inviting everyone later!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
 1003001000310050,めぐる,"やっぱり、真面目に努力するのが一番だよね……
-普段からもっと勉強するようにしてみるよ！","Giving it some serious effort does come first, doesn't it……
+普段からもっと勉強するようにしてみるよ！","Giving it some serious effort does come first, doesn't it...
 I'm going to try studying more than usual!"
 1003001000310060,めぐる,"たまにでいいから、
 プロデューサーが勉強を教えてくれると嬉しいな！","It's good to do this once in a while, so I'm be glad you could teach me about studying!"
@@ -26,7 +26,7 @@ I'm going to try studying more than usual!"
 1003001000310070,めぐる,"でもわたし、夜はあんまり起きてられないから
 集中できないかも","But, I can't really stay awake at night, so I might not be able to focus."
 1003001000310080,めぐる,"……夜更かしのことを考えてたら、なんだか
-眠くなってきちゃった……。ふわぁ……",……Thinking about an all-nighter makes me feel sort of tired……. Yawn……
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+眠くなってきちゃった……。ふわぁ……",...Thinking about an all-nighter makes me feel sort of tired.... Yawn...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/100300100031.json,
 译者,,

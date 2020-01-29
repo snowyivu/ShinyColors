@@ -3,9 +3,9 @@ id,name,text,trans
 1003001000410010,めぐる,"あ、プロデューサー！　えっとね、真乃と灯織と、
 レッスンの後にご飯に行こうって約束したんだ！","Ah, Producer! Um, I made plans to go eat with Mano and Hiori after our lessons!"
 1003001000410020,めぐる,"でもどこに行くか悩んでて……
-プロデューサーはどんなお店がいいと思う？","But I'm not sure where we should go……
+プロデューサーはどんなお店がいいと思う？","But I'm not sure where we should go...
 What kind of store do you think should we go to?"
-0000000000000,プロデューサー,（みんなでご飯か。それなら……）,"(Eating with everyone, huh. If that's the case……)"
+0000000000000,プロデューサー,（みんなでご飯か。それなら……）,"(Eating with everyone, huh. If that's the case...)"
 select,,カフェ,Cafe
 select,,ハンバーガーショップ,Hamburger shop
 select,,定食屋,Diner
@@ -22,8 +22,8 @@ It really is a good idea to eat somewhere you're used to."
 1003001000410060,めぐる,"最近、新しいハンバーガーが出たみたいだから、
 それを食べに行くのもいいなぁ","It looks like a new hamburger shop opened recently too, so maybe going there would be good."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1003001000410070,めぐる,女の子だけで行っても大丈夫かなぁ……,I wonder if it's okay for only girls to go there……
+1003001000410070,めぐる,女の子だけで行っても大丈夫かなぁ……,I wonder if it's okay for only girls to go there...
 1003001000410080,めぐる,一応ふたりにも聞いてみるね,"I'll ask those two, just in case."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/100300100041.json,
 译者,,

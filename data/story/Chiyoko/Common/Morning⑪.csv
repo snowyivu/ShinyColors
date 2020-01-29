@@ -3,8 +3,8 @@ id,name,text,trans
 1010001001110010,智代子,楽しいですよ！　みんな優しいですし、面白いですし！,Fun! Everyone is kind and funny!
 1010001001110020,智代子,"でも私、昔からクラスの友達にからかわれやすいんです
 ……どうしてなんでしょうか？","But it's easy for my friends from class that I've known for a while
-to crack jokes at me. ……I wonder why?"
-0000000000000,プロデューサー,そうだな……,Let's see……
+to crack jokes at me. ...I wonder why?"
+0000000000000,プロデューサー,そうだな……,Let's see...
 select,,好かれているからだ,"It's because they
 like you."
 select,,素直だからだろう,"It could be because
@@ -19,18 +19,18 @@ That would be a helpful for me as an idol, too."
 just like you say!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1010001001110050,智代子,"考えてることとか、わかりやすいんですかね……？
-顔に出ちゃう……？","Now that I think about it, I'm easy to read, aren't I……?
-Does it show on my face……?"
+顔に出ちゃう……？","Now that I think about it, I'm easy to read, aren't I...?
+Does it show on my face...?"
 1010001001110060,智代子,"自分では結構しっかりしてるつもりなんですけど……
-うーん……","I try to be a pretty reliable person, but……
-Hmmm……"
+うーん……","I try to be a pretty reliable person, but...
+Hmmm..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1010001001110070,智代子,"そう言ってもらえるのは嬉しいんです、
 嬉しいんですけど……！","It makes me happy to hear that.
-It makes me happy, but……!"
+It makes me happy, but...!"
 1010001001110080,智代子,"みんなお手軽にちょっかいかけすぎなのでは
 ないでしょうか……！","Couldn't it be that everyone's easily messing
-with me too much……!"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+with me too much...!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101000100111.json,
 译者,,

@@ -1,10 +1,10 @@
 id,name,text,trans
-1010001001010010,智代子,次のお休み、何しよっかなぁ……,I wonder what I should do on my next day off……
+1010001001010010,智代子,次のお休み、何しよっかなぁ……,I wonder what I should do on my next day off...
 0000000000000,プロデューサー,決めてないのか？,You can't decide?
 1010001001010020,智代子,"そうなんです……
-プロデューサーさん、何かいいアイディアありませんか？","That's right……
+プロデューサーさん、何かいいアイディアありませんか？","That's right...
 Producer-san, do you have any good ideas?"
-0000000000000,プロデューサー,（休日の過ごし方か……）,"(Something to do on a day off, huh……)"
+0000000000000,プロデューサー,（休日の過ごし方か……）,"(Something to do on a day off, huh...)"
 select,,"スイーツ店めぐりは
 どうだ？","How about a tour of
 sweets shops?"
@@ -13,20 +13,20 @@ select,,"服を見に行ったり、
 like going to look
 at clothes?"
 select,,家でしっかり休もう,Relax well at home.
-1010001001010030,智代子,うっ……！　その言葉にはすごーく引かれるんですが……！,"Oooh……! I'm super captivated by those words, but……!"
+1010001001010030,智代子,うっ……！　その言葉にはすごーく引かれるんですが……！,"Oooh...! I'm super captivated by those words, but...!"
 1010001001010040,智代子,"最近食べ過ぎな気がするし、我慢しなきゃと……！
-ああっ、でもでも……！　やっぱり新作気になるし……！","I've been overeating lately, so I need to use some self-control……!
-Ah, but, but……! I'm interested in the new releases, too……!"
+ああっ、でもでも……！　やっぱり新作気になるし……！","I've been overeating lately, so I need to use some self-control...!
+Ah, but, but...! I'm interested in the new releases, too...!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1010001001010050,智代子,流行を追うのはアイドルとしても大事なことですもんね,"Keeping up with the newest trends is important for an idol, isn't it."
 1010001001010060,智代子,"それに、お洋服見るのも楽しいですし！
 そうすることにします！","Also, looking at traditional Japanese clothes is fun!
 I'll do that!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1010001001010070,智代子,そ、そうですよね。やっぱり休むのって大事ですし……,Th-that's right. Relaxing is an important thing to do……
+1010001001010070,智代子,そ、そうですよね。やっぱり休むのって大事ですし……,Th-that's right. Relaxing is an important thing to do...
 1010001001010080,智代子,"でも……う～ん……。ゴロゴロしてるうちに
-一日が過ぎちゃうのが、ちょっともったいなくて……","But…… hmmm……. spending the whole day
-lazing around would be a waste……"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+一日が過ぎちゃうのが、ちょっともったいなくて……","But... hmmm.... spending the whole day
+lazing around would be a waste..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101000100101.json,
 译者,,

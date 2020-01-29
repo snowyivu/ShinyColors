@@ -1,10 +1,10 @@
 id,name,text,trans
-1010001000510010,智代子,……今日は、一日お菓子を我慢します……！,……I'm not letting myself eat sweets today……!
+1010001000510010,智代子,……今日は、一日お菓子を我慢します……！,...I'm not letting myself eat sweets today...!
 1010001000510020,智代子,"なぜなら、朝ご飯の後に、菓子パンをふたつ
 食べてしまったからです──！","It's because after breakfast, I ended up
 eating two pastries!"
-0000000000000,プロデューサー,悲しい決意だな……,What a sad resolution……
-0000000000000,プロデューサー,（ずいぶんと悩んで決めたようだが……）,"(It seems like she's worringly made her decision, but……)"
+0000000000000,プロデューサー,悲しい決意だな……,What a sad resolution...
+0000000000000,プロデューサー,（ずいぶんと悩んで決めたようだが……）,"(It seems like she's worringly made her decision, but...)"
 select,,"レッスンや仕事で
 消費すればいい","You should throw
 yourself into your
@@ -15,7 +15,7 @@ eaten a lot of
 breakfast."
 select,,それは食べ過ぎ,That's overeating.
 1010001000510030,智代子,"はっ！　我慢しなくても、その手がありましたね……！
-プロデューサーさん、名案です！　さすが！","Oh! I could do that instead of denying myself……!
+プロデューサーさん、名案です！　さすが！","Oh! I could do that instead of denying myself...!
 Producer-san, good idea! Just what I'd expect!"
 1010001000510040,智代子,"食べちゃった分、そしてこの後食べる分、
 今日は人一倍動き回ります！","I'll move around twice as fast as anyone else,
@@ -23,13 +23,13 @@ for what I ate and what I will eat later!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1010001000510050,智代子,"そうなんですか！？
 ……それじゃあ、パンもうひとつ食べてくればよかったなぁ","Really?!
-……Then I wish I'd had one more piece of bread."
-1010001000510060,智代子,惜しいことをしましたっ……！,I regret not doing that……!
+...Then I wish I'd had one more piece of bread."
+1010001000510060,智代子,惜しいことをしましたっ……！,I regret not doing that...!
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1010001000510070,智代子,"や、やっぱり食べ過ぎですよね……？
-ううっ、なんとかしなきゃ……","I-I ate too much for sure, didn't I……?
-Oh, I have to do something about this……"
-1010001000510080,智代子,はぁ……ひとつめのパンで終わっておけば……！,Sigh…… I wish I'd stopped after eating one……!
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah…… I screwed up. I should have said something else……)
+ううっ、なんとかしなきゃ……","I-I ate too much for sure, didn't I...?
+Oh, I have to do something about this..."
+1010001000510080,智代子,はぁ……ひとつめのパンで終わっておけば……！,Sigh... I wish I'd stopped after eating one...!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101000100051.json,
 译者,,
