@@ -1,0 +1,32 @@
+id,name,text,trans
+0000000000000,プロデューサー,（あれ……？　窓際に、花瓶が置いてある）,"(Huh...? By the window, there's a flower vase.)"
+1005001000310010,摩美々,"プロデューサー、気づきましたねー
+その花瓶、私が置いたんですよー","Producer, you noticed.
+I was the one who put that flower vase there."
+1005001000310020,摩美々,花の香りをかいで、リフレッシュしてくださいねー,Feel free to smell the aroma of the flowers and refresh yourself.
+0000000000000,プロデューサー,ああ……ん？,Ah... Mm?
+select,,造花じゃないか！,Isn't it an artificial flower?!
+select,,摩美々もかいでみて,"Come and smell it too, Mamimi"
+select,,いい香りだな,What a nice smell
+1005001000310030,摩美々,"ふふー。ツッコミが鋭いですー
+プロデューサーは、朝から元気ですねー","Fufu~ What a sharp comeback.
+Producer, you look energetic even in the morning."
+1005001000310040,摩美々,"香りがなくてもー、
+ある意味リフレッシュできたんじゃないですかぁ？","Even if it has no smell,
+Didn't you get refreshed, in a way?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1005001000310050,摩美々,……そーきますかぁ,...I'm going.
+1005001000310060,摩美々,"んー、いい香りですねー……バラの香りがしますねー……
+なんですかぁ、その顔","Mn, It has a nice smell... The scent of roses...
+What's with that face?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1005001000310070,摩美々,"……プロデューサー、疲れてるんですねー
+今日はもう、帰った方がいいですよー","...Producer, you must be tired.
+Better go home for today."
+1005001000310080,摩美々,……そうしたらぁ、私もサボれますしー,"
+...If you do that, I can play hooky too.
+"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),"(Ah... I screwed up.
+I should have said something else...)"
+info,produce_communications/100500100031.json,
+译者,,

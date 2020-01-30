@@ -1,0 +1,35 @@
+id,name,text,trans
+7902001060010,社長,"やはりここまで来ると、
+乗り越えるべき壁も高かったな……",The wall to climb over after coming this far was tall...
+7901001060010,はづき,"結果は残念でしたけど……
+おふたりは立派にやってましたよ！","The results are unfortunate, but...
+The two of you did a splendid job!"
+7901001060020,はづき,"ここまで来れただけでも、
+胸を張って誇れることだと私は思います","You were only able to come this far, but I think you can walk with your heads held high."
+7902001060020,社長,"ああ、良い活躍だった
+それはたしかだ","Yes, it was certainly a great effort."
+0000000000000,プロデューサー,"……俺もそう思います
+彼女はよくやってくれました","...I think so, too.
+She did a great job."
+7901001060030,はづき,"その言葉を、彼女に直接
+言ってあげましょう？",How about you tell that to her in person?
+0000000000000,プロデューサー,……はい,...I will.
+0000000000000,プロデューサー,……三次審査、落ちてしまったな,...You ended up failing the third round of judging.
+7003001060010,めぐる,"……うん
+まだまだわたしの実力が足りてなかったんだよね……","...Yeah.
+I wasn't good enough at this yet, was I..."
+0000000000000,プロデューサー,めぐる……,Meguru...
+7003001060020,めぐる,やっぱり、アイドルの世界はそんなに甘くないよねっ！,"Being an idol isn't that easy, after all!"
+0000000000000,プロデューサー,"だ、大丈夫なのか？
+落ち込んでるんじゃ……？","A-are you feeling alright?
+Aren't you feeling down...?"
+7003001060030,めぐる,もちろん、審査を通らなかったのは悔しいよ！,Of course I'm frustrated that I didn't pass the judging!
+7003001060040,めぐる,"でも、もうアイドルのお仕事が大好きになっちゃったから
+一度や二度の失敗じゃ諦められないよ！","But, I've already started loving working as an idol, so I won't quit no matter how many times I lose!"
+0000000000000,プロデューサー,"……そうか！　なら俺もめぐるが立派なアイドルに
+なるまで、まだまだ協力していくぞ！","...I see! In that case, I'll keep on working together with you until you become an impressive idol!"
+7003001060050,めぐる,"うんっ
+これからもよろしく、プロデューサー！","Yeah.
+I'll be in your care, Producer!"
+info,produce_events/700300106.json,
+译者,,

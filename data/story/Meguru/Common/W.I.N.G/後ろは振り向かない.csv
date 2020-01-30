@@ -1,0 +1,42 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","...Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"...! Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+6003001070010,めぐる,"違う……
+もっとこう……","That's not right...
+More like this..."
+0000000000000,プロデューサー,……めぐる,...Meguru.
+6003001070020,めぐる,"……あ、プロデューサー
+えへへ。負けちゃったねー","...Ah, Producer.
+Ehehe. I ended up losing."
+6003001070030,めぐる,"……ごめんね
+期待に応えられなくて……","...I'm sorry.
+I didn't meet your expectations..."
+0000000000000,プロデューサー,"俺のほうこそ、すまない
+もっとめぐるの力になってやれたら……","I should be the one apologizing.
+If I had been more helpful to you..."
+6003001070040,めぐる,……お互い、謝るのは禁止にしよっか,...Let's stop apologizing to each other.
+6003001070050,めぐる,……ダメだったんだよね……やっぱり、悔しいな,...That was no good... this really is frustrating.
+6003001070060,めぐる,"でもね
+わたし……それ以上に、すっごく楽しかったんだ","But, y'know, I... more than anything else, I had a lot of fun."
+0000000000000,プロデューサー,"だったらもう一度チャレンジしよう！
+次のステージでも、めぐるならやれるはずだ！","In that case, let's challenge it one more time!
+If it's you, you should be able to do it on the next stage!"
+6003001070070,めぐる,"プロデューサー……
+ありがとう！　約束だよっ！","Producer...
+Thank you! It's a promise!"
+6003001070080,めぐる,"次は負けられないから……
+一緒に頑張ろうね！","I won't lose next time, so...
+Let's do our best, together!"
+info,produce_events/600300107.json,
+译者,,

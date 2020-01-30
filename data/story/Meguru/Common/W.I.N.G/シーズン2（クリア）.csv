@@ -1,0 +1,54 @@
+id,name,text,trans
+7003001030010,めぐる,あっ、プロデューサー！,"Ah, Producer!"
+7003001030020,めぐる,"審査の結果が出たんだよね！
+どうだったのっ！？","The judging results are out!
+How did I do?!"
+0000000000000,プロデューサー,おめでとう、二次審査も無事突破したぞ！,"Congratulations, you passed the second round of judging without a problem!"
+7003001030030,めぐる,"わーい！
+えっへへー、やったー！","Yay!
+Ehehe, I did it!"
+0000000000000,プロデューサー,"最近は、かなり頑張ってたもんなぁ
+レッスンも仕事も……","You've been working especially hard lately.
+At your lessons and at jobs..."
+7003001030040,めぐる,"でもどれも楽しかったから
+「努力」って感じはしなかったよ！","But they've all been fun, so it didn't feel like hard work at all!"
+0000000000000,プロデューサー,"はは、さすがはめぐるだな
+……そうだ、ご褒美に今度休みでも取ろうか？","Haha, that's just what I would expect from you.
+...I know, how about I reward you with a day off?"
+7003001030050,めぐる,ううん、大丈夫！,"No, I'm good!"
+0000000000000,プロデューサー,"そうか？
+無理はしなくてもいいんだぞ","Really?
+You don't have to push yourself so hard."
+7003001030060,めぐる,"心配してくれてありがとう
+……でも、本当に無理してるわけじゃないんだ","Thank you for worrying about me.
+...But, this isn't me pushing myself."
+7003001030070,めぐる,"わたしね、もっとレッスンとかいっぱい頑張って、
+早くすごいアイドルになりたいの！","I want to do more lesson and work really hard, so I can become an amazing idol soon!"
+7003001030080,めぐる,だから今はお休みはいらないよ！,So I don't need to take a day off now!
+7003001030090,めぐる,"あっ、そうだ！　ご褒美だったらわたしじゃなくて、
+プロデューサーがお休みをとってほしいな！","Ah, I know! Instead of rewarding me, I want you to take a day off!"
+0000000000000,プロデューサー,"俺が？
+そんなことしても、めぐるは休めないじゃないか","Me?
+If I do that, you wouldn't be taking a break, right?"
+7003001030100,めぐる,"違う違う、プロデューサーとお休みを合わせて、
+一緒に遊びに行きたいの！","No, that's not it. I want us to both take a day off and go hang out together!"
+0000000000000,プロデューサー,プロデューサーがアイドルと遊ぶのはなぁ……,A producer and idol hanging out together is...
+7003001030110,めぐる,ねっ、ねっ！　お願い！,"C'mon, c'mon! Please!"
+0000000000000,プロデューサー,うーん……,Hmmm...
+7003001030120,めぐる,"あ、じゃあ、目立たない場所だったらどう？
+映画館とか！","Ah, then, what about going somewhere where we won't stand out?
+Like a movie theater or something!"
+7003001030130,めぐる,事務所の中でもいいからっ！　ねっ！,I'd even be fine with staying at the office! C'mon!
+0000000000000,プロデューサー,（……俺の休みが、めぐるのためになるならいいか）,"(...It's okay for me to take a break, if it's for Meguru's sake.)"
+0000000000000,プロデューサー,よし、じゃあ休みをとるよ,"Alright, then I'll take that break."
+7003001030140,めぐる,"わー！　ありがとう！
+えへへー、なにして遊ぼうかなー！","Yay! Thank you!
+Ehehe, I wonder what we should do!"
+0000000000000,プロデューサー,"（はは……。こういうところは、まだまだ
+アイドルとしての自覚が足りてないみたいだけど）","(Ha ha... at time like this, it looks like she's not self-aware as an idol yet.)"
+0000000000000,プロデューサー,"（……でも、
+こういう無邪気さが、めぐるの魅力でもある）","(...However, Meguru's charm lies within her innocence.)"
+0000000000000,プロデューサー,"（めぐるのためになることだったら、
+どんなことでもとことん付き合ってやらなくちゃな！）","(If it's for her sake, I have to stay by her side until the end, no matter what!)"
+info,produce_events/700300103.json,
+译者,,
