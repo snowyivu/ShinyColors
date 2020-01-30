@@ -47,8 +47,8 @@ Do you have any advice?!"
 そうだな……","A-advice, huh...
 Let's see..."
 select,,"いつも通りで
-いこう！","Act like you usually
-do!"
+いこう！","Act like you
+always do!"
 select,,楽しくやろう！,Have fun!
 select,,"元気いっぱいに
 いこう！","Go into it
@@ -144,7 +144,6 @@ That's great."
 Let's do our best to make that happen."
 1010001030360,智代子,はい！,Yes!
 0000000000000,プロデューサー,"（智代子のいろんな魅力を見てもらえるよう
-俺も、今まで以上に頑張らなくては……！）","(It looks like Chiyoko is capable of showing her appeal in different ways.
-I need to start working harder than I have so far too...!)"
+俺も、今まで以上に頑張らなくては……！）",(It looks like Chiyoko is capable of showing her appeal in different ways. I need to start working harder than I have so far too...!)
 info,produce_events/101000103.json,
 译者,,
