@@ -9,6 +9,7 @@ import { userItemTypes, transShopItem,
   transUserItem, transShopPurchase, transFesReward, transAccumulatedPresent,
   transPresentItem, transLoginBonus, transReceivePresent,
   transReceiveMission, selectLoginBonus } from './item'
+import { storyTitles } from './story-title'
 import { mypageComments, fesDeckReactions, produceAudition, resumeGamedata,
   trustLevelUp, produceReporterAnswer, topCharacterReaction, helperSupportIdols,
   produceEndWeek, lessonResult, characterComment, fesMatchConcert } from './type-text'
@@ -51,8 +52,10 @@ const requestRouter = async (data, type, list) => {
         if (!Array.isArray(handles)) handles = [handles]
         for (let handle of handles) {
           if (isString(handle)) {
-            if (handle === 'storyTitle') collectStoryTitle(data)
-            else if (handle === 'cardName') collectCardName(data)
+            if (handle === 'storyTitle') { 
+              collectStoryTitle(data);
+              storyTitles(data);
+            } else if (handle === 'cardName') collectCardName(data)
           } else {
             await handle(data)
           }
@@ -110,7 +113,8 @@ const requestOfPost = [
   [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]],
   ['userProduceHelperSupportIdols', helperSupportIdols],
   [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]],
-  [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus]
+  [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus],
+  [/^characterAlbums\/characters\/\d+$/, 'storyTitle']
 ]
 
 const requestOfPatch = [
