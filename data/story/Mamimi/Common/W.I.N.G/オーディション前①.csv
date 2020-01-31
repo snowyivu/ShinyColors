@@ -1,0 +1,27 @@
+id,name,text,trans
+4005001000110010,摩美々,"オーディション会場、着いちゃいましたねー……
+仕方がないのでー、ほどほどに受けてくることにしまぁす","We've arrived to the audition venue...
+It can't be helped, so I'll try just a little bit to pass it."
+0000000000000,プロデューサー,"（このままじゃだめだ
+摩美々のやる気を引き出さないと……！）","(This is no good
+Mamimi should be more motivated...!)"
+select,,"真面目に
+やらないとダメだ","If you don't do it seriously, it's no good"
+select,,頑張ってこい！,Go out and do your best!
+select,,絶対に受かる,You will absolutely pass
+4005001000110020,摩美々,"……。怒られちゃうならぁ、仕方ないですねー
+頑張ってきますー","... If you're gonna get that angry, then I have no choice
+I'll do my best."
+0000000000000,プロデューサー,（真剣になってくれたようだな。よかった）,(Looks like she took me seriously. That's good.)
+4005001000110030,摩美々,"私に、そんなこと言うんですかぁ……
+ふーん……それなら、やってみてもいいですかねー","Saying something like that to me...
+Hmmm... Then, I might just try and do that."
+0000000000000,プロデューサー,（よし。少しはやる気になってくれたようだ）,(Nice. It seems like she got motivated a little bit.)
+4005001000110040,摩美々,"どこからそんな自信、くるんですかぁ？
+絶対に受かるならぁ、もう頑張らなくていいですよねー","Where do you get that confidence froom?
+If I'm absolutely going to pass, then I don't need to work hard anymore."
+0000000000000,プロデューサー,"（しまった……
+やる気を引き出すことはできなかったか……）","(Damn it...
+I wasn't able to motivate her...)"
+info,produce_communication_cheers/400500100011.json,
+译者,,

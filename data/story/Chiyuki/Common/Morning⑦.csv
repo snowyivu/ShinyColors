@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,そういえば、千雪は朝からしゃっきりしてるよな,"By the way, Chiyuki, you seem pretty refreshed during the mornings."
+1016001000710010,千雪,"そうですか？
+……ふふ、たしかに、朝ってけっこう好きな時間帯かもです","Is that so?
+…Fufu, It's true that it's good for me in the morning."
+1016001000710020,千雪,"最近はランニングをするようにもしてるんですよ
+朝に走ると、風がとても気持ちよくて","That reminds me, I've been recently running,
+When I run in the morning, the wind makes me feel quite energized."
+0000000000000,プロデューサー,"（今朝を思い出しているのか
+話してる千雪も楽しそうだ）","(Chiyuki is talking about today's weather, but
+I feel like I remember something during this morning.)"
+select,,俺も走っていいか？,Can I run along with you too?
+select,,"すれ違う人が
+挨拶してくれるよな","When a passing person passes
+by, and they greet you."
+select,,"朝は眠くて、
+俺には無理だな","I feel sleepy in the morning,
+and it's impossible for me to feel energetic."
+1016001000710030,千雪,わぁ、それ、素敵です！,Oh! That would be wonderful!
+1016001000710040,千雪,"プロデューサーさんと一緒なら
+いつもよりたくさん走れそうです♪","Being with you,
+I can run a lot more than usual♪"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1016001000710050,千雪,"そうなんですよ
+みなさん笑顔で挨拶をしてくれるので","That's right, everybody on their way
+would greet you with a smile."
+1016001000710060,千雪,今日も一日頑張ろうって思えちゃうんですよね♪,I think I'll do my best for today as well♪
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1016001000710070,千雪,プロデューサーさん、もしかして朝が弱いんですか……？,"Producer, are you easily tired in the morning?"
+1016001000710080,千雪,"ダメですよ？
+あんまり遅くまでダラダラしてたら","Aren't you?
+Don't be sluggish and go sleeping very late."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Hmm… I should've said something else instead…)
+info,produce_communications/101600100071.json,
+译者,,
