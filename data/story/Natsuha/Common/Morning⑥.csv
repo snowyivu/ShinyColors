@@ -1,0 +1,39 @@
+id,name,text,trans
+1013001000610010,夏葉,"ねえ、プロデューサーは休みができたら
+したいことってあるのかしら？","Say, Producer. Do you have something you
+like to do when you have time for yourself?"
+0000000000000,プロデューサー,"うーん……今は特に思い浮かばないな
+夏葉は最近、オフに何かしたか？","Mm... Nothing particularly comes to mind.
+What have you done recently on your days off?"
+1013001000610020,夏葉,"そうね……あ、そうだわ！
+プロデューサー、当ててみせて？","Me? Hm... Oh! How about
+you try and guess, Producer?"
+0000000000000,プロデューサー,（夏葉が休みの日にしそうなのは……）,(What did Natsuha do on her last days off...?)
+select,,ショッピングか？,"Did you go
+shopping?"
+select,,トレーニングか？,"Did you
+work out?"
+select,,家でゆっくり？,"Did you relax
+at home?"
+1013001000610030,夏葉,よくわかったわね！　ショッピングに行ったのよ！,"You know me so well!
+Yes, I went shopping!
+"
+1013001000610040,夏葉,"とってもいい服が買えたのよ！
+プロデューサーにも見せてあげましょうか？","I was able to find some very nice outfits!
+Would you like me to show you, Producer?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1013001000610050,夏葉,"確かに、そうしていることが多いわね
+時間が足りないくらいだわ","It's true that I'm often exercising.
+I never have as much time as I'd like.
+"
+1013001000610060,夏葉,でも、私だってそればかりじゃないのよ？,"But still, that's not all I do, you know?
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1013001000610070,夏葉,"家でゆっくり……ね
+そんなことはほとんどないわ","Relaxing at home... huh.
+No, I don't really do that too much."
+1013001000610080,夏葉,何もせずにじっとしているのは、好きじゃないから,I don't like being still and doing nothing.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101300100061.json,
+译者,,

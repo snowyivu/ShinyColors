@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おはよう千雪
+それ……スケッチしてるのか？","Good morning, Chiyuki.
+Are you… sketching?"
+1016001001010010,千雪,"はい、衣装作りで、お姫様のドレスをイメージしてたら
+止まらなくなってしまって……","Yes, I'm sketching a princess dress-like costume.
+Though, I feel like it's missing something…"
+1016001001010020,千雪,"プロデューサーさんは
+この中で、どれか好きなのありますか？","Hey, Producer,
+Which one do you like the most?"
+0000000000000,プロデューサー,（うーん、色々あるけど……）,"(Well, there's various choices for me to choose…)"
+select,,シフォンのドレス,The chiffon dress.
+select,,"ハートの
+ついたドレス","The heart-like
+dress."
+select,,フリルのドレス,The frilly dress.
+1016001001010030,千雪,ふふ、私もこの衣装、お気に入りなんです,"Fufu, I think like this for a costume!"
+1016001001010040,千雪,昔、絵本で読んだシンデレラの衣装みたいで……！,"It reminds me of Cinderella's dress, from the picture book I read about when I was young."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1016001001010050,千雪,"ああ～！　私も好きなんです！
+好きなんですけど……","Oh! I like that idea! 
+I like it… "
+1016001001010060,千雪,"ちょっと可愛くしすぎちゃって……
+甘奈ちゃんとか甜花ちゃんなら似合うかしら……","Actually, it's a little too cute for me though…
+I wonder if Amana-chan or Tenka-chan would suit it more…"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1016001001010070,千雪,"フリル、ですか……
+確かにお好きな方が多い気がします","Frills, you say…
+I'm sure there are some people who may like it."
+1016001001010080,千雪,"もうちょっと研究して
+ファンのみなさんに喜んでもらえるドレスを考えますね","But I think I'll study a bit more and think
+of a dress that will please the fans a lot more."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Hmm… I should've said something else instead…)
+info,produce_communications/101600100101.json,
+译者,,

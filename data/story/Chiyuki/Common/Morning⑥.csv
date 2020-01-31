@@ -1,0 +1,31 @@
+id,name,text,trans
+1016001000610010,千雪,～♪,Hmhm~♪
+0000000000000,プロデューサー,……千雪、メガネをかけることあるんだな,"…Chiyuki, do you wear glasses sometimes?"
+1016001000610020,千雪,"はい。お裁縫とか、作業をするときはかけるんですけど……
+……変ですか？","Yes, I put them on during sewing or work…
+Is that strange?"
+0000000000000,プロデューサー,いや……,Not really…
+select,,よく似合ってる,It looks good.
+select,,"いつもと雰囲気が
+変わるよな","Makes the atmosphere pretty
+different from the usual."
+select,,変じゃない,Not strange at all.
+1016001000610030,千雪,ふふ。ありがとうございます,"Fufu, thank you."
+1016001000610040,千雪,……でも、そう言われるとちょっと照れちゃうなぁ,"But you saying that, makes me feel a bit embarrassed…"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1016001000610050,千雪,"自分ではわからないですけど……
+そうかもしれないですね","I don't know myself that well…
+so, it may be that."
+1016001000610060,千雪,"小物って、つけるだけで
+雰囲気を変えちゃいますもんね","I guess just putting on an accessory,
+changes the atmosphere easily."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1016001000610070,千雪,"本当ですか？
+それならよかったです","Really? 
+That's good to hear."
+1016001000610080,千雪,"……あ、すみません
+すぐに作業、終わらせちゃいますので","…Ah, excuse me for a moment,
+I'll go finish my work right away."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Hmm… I should've said something else instead…)
+info,produce_communications/101600100061.json,
+译者,,
