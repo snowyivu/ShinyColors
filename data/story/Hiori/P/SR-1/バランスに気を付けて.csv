@@ -8,44 +8,44 @@ id,name,text,trans
 灯織は違うのか？","No, I was about to go home soon. What about you?"
 2002003020030,灯織,"少し買い物をしてから帰ろうと思っていたんです
 ……プロデューサーも、良かったら一緒に行きませんか？","I thought I going shopping for a bit before returning home.
-……Would you like to come with me?"
+...Would you like to come with me?"
 0000000000000,プロデューサー,"買い物か……
-今日のうちに買い込んでおきたかったし、俺も一緒に行くよ","Shopping, huh…… There are some things I needed to pick up, so I'll go with you."
+今日のうちに買い込んでおきたかったし、俺も一緒に行くよ","Shopping, huh... There are some things I needed to pick up, so I'll go with you."
 2002003020040,灯織,"……そういえばプロデューサー
-今日は私服なんですね","……Now that I think about it, you're wearing casual clothing today."
-0000000000000,プロデューサー,……もしかして、まだ休日に呼んだことを気にしてるのか？,……Are you still concerned about calling me out on my day off?
+今日は私服なんですね","...Now that I think about it, you're wearing casual clothing today."
+0000000000000,プロデューサー,……もしかして、まだ休日に呼んだことを気にしてるのか？,...Are you still concerned about calling me out on my day off?
 0000000000000,プロデューサー,"さっきも言ったけど、気を遣わなくても大丈夫だぞ
 家にいても、どうせ寝てるだけだしな","I know I said so already, but it's fine. I'd probably just sleep at home anyways."
 2002003020050,灯織,"そう言っていただけると……
-……お休みの日、いつも寝てるだけなんですか？","Saying that……
-……Do you always sleep all day on your days off?"
+……お休みの日、いつも寝てるだけなんですか？","Saying that...
+...Do you always sleep all day on your days off?"
 0000000000000,プロデューサー,"う……ま、まぁな
-良くないと思うんだけど、どうしてもな……","Uh…… Y-yeah. I don't think it's good, but it ends up like that……"
+良くないと思うんだけど、どうしてもな……","Uh... Y-yeah. I don't think it's good, but it ends up like that..."
 2002003020060,灯織,"……別に
-お説教をしたかったわけではありません",……It's not like I was trying to lecture you.
+お説教をしたかったわけではありません",...It's not like I was trying to lecture you.
 2002003020070,灯織,"ただプロデューサーも、プロデューサーじゃない時間が
-あるんだなって思って……",I was just thinking that even you have days where you're not a producer……
-2002003020080,灯織,休めてるなら、良かったです……,I'm glad you're able to rest……
+あるんだなって思って……",I was just thinking that even you have days where you're not a producer...
+2002003020080,灯織,休めてるなら、良かったです……,I'm glad you're able to rest...
 0000000000000,プロデューサー,"え？
 今、何か言ったか？",Huh? Did you say something just now?
 2002003020090,灯織,"いえ、何でもありません
 それより、もう着きましたよ","No, it's nothing. More importantly, we're here."
 0000000000000,プロデューサー,"ふぅ……セールだったとはいえ、
-ちょっと買いすぎたな……","Phew…… It might have been on sale, but I really did buy too much……"
+ちょっと買いすぎたな……","Phew... It might have been on sale, but I really did buy too much..."
 2002003020100,灯織,"でもそれ、ほとんど冷凍食品ですよね？
 栄養バランスが偏りますよ",Isn't that mostly frozen meals? It'll offset your nutritional balance.
 0000000000000,プロデューサー,"う……
-灯織は、野菜たっぷりだ……","Uu…… You bought plenty of vegetables, Hiori……"
+灯織は、野菜たっぷりだ……","Uu... You bought plenty of vegetables, Hiori..."
 2002003020110,灯織,"はい
 お肉は家にあるので、今日はシチューでも作ります","Yeah. I already have some meat at home, so I'm making stew today."
-0000000000000,プロデューサー,そういえば、灯織は料理が得意だもんな……,"Oh right, you're great at cooking……"
+0000000000000,プロデューサー,そういえば、灯織は料理が得意だもんな……,"Oh right, you're great at cooking..."
 2002003020120,灯織,"得意というか……
-昔から作っているので慣れているだけです",It's not that I'm great…… it's more that I've been doing it for a long time so I'm used to it.
+昔から作っているので慣れているだけです",It's not that I'm great... it's more that I've been doing it for a long time so I'm used to it.
 0000000000000,プロデューサー,"いや、それでもすごいぞ
-俺なんて、好きなものも自分で作れないし……","No way, that's still impressive. I can't even make my own favorite food……"
+俺なんて、好きなものも自分で作れないし……","No way, that's still impressive. I can't even make my own favorite food..."
 2002003020130,灯織,そうなんですか,Really?
 2002003020140,灯織,"……あの
-プロデューサーの好きなものって何ですか？","……Um, what is your favorite food?"
+プロデューサーの好きなものって何ですか？","...Um, what is your favorite food?"
 select,,揚げ物だよ,"Deep
 fried
 food"
@@ -56,57 +56,57 @@ tamagoyaki"
 2002003020150,灯織,"油っこいのが好きなんですね
 食べ過ぎると、太っちゃいますよ","So you like greasy food. If you eat it too much, you'll get fat."
 0000000000000,プロデューサー,"まぁ、確かにそうなんだが……
-でも、美味しいじゃないか","Well, that's certainly true…… It's so tasty I can't help it."
+でも、美味しいじゃないか","Well, that's certainly true... It's so tasty I can't help it."
 2002003020160,灯織,"ふふ、子どもみたい
-……あ、悪い意味じゃないですよ","Fufu, you're like a child. ……Ah, I don't mean so in a bad way."
+……あ、悪い意味じゃないですよ","Fufu, you're like a child. ...Ah, I don't mean so in a bad way."
 0000000000000,プロデューサー,"そ、そうか……？
-それなら良いんだが……","R-really……? That's good to hear, but……"
+それなら良いんだが……","R-really...? That's good to hear, but..."
 2002003020170,灯織,"確かに唐揚げとか美味しいですよね
 でも、揚げ物は私もあまり作ったことないです","It does taste good. However, I haven't made fried food that much."
 0000000000000,プロデューサー,"へぇ
 やっぱり、用意が面倒だからか？","Oh really. It's because it's annoying to prepare it, right?"
 2002003020180,灯織,"そういうわけではないんですけど……
-今まで機会がなかったので",It's not like that…… I haven't had many chances to do so until now.
+今まで機会がなかったので",It's not like that... I haven't had many chances to do so until now.
 2002003020190,灯織,"でも、せっかくなので
 今度、ちょっと挑戦してみます",I'll have to attempt it next time.
 0000000000000,プロデューサー,"ああ、それはいいな！
 揚げ物にするとなんでも美味しいからな",That's good to hear! Anything tastes good when you fry it.
 2002003020200,灯織,"……ふふ
-本当にお好きなんですね",……Fufu. You really like it huh?
+本当にお好きなんですね",...Fufu. You really like it huh?
 2002003020210,灯織,"煮物……ですか？
-ちょっと意外です",Stew……? That's a bit surprising.
+ちょっと意外です",Stew...? That's a bit surprising.
 0000000000000,プロデューサー,そうか？,Really?
 2002003020220,灯織,"男の人は、ステーキとか
 お肉が好きなんだと思ってました",I thought that men liked things like steak and meat.
 0000000000000,プロデューサー,"それもいいんだけど……
-煮物の懐かしい味が、たまに恋しくなるんだ","Those are good too, but…… Stew tastes kind of nostalgic, so sometimes I miss having it."
+煮物の懐かしい味が、たまに恋しくなるんだ","Those are good too, but... Stew tastes kind of nostalgic, so sometimes I miss having it."
 2002003020230,灯織,"懐かしい……
-ちょっとわかる気がします",Nostalgic…… I feel like I understand that somewhat.
+ちょっとわかる気がします",Nostalgic... I feel like I understand that somewhat.
 0000000000000,プロデューサー,"俺は特にこだわったりはしないから
 煮てしまえば、なんでもいいとは思うんだけどな","I'm not really picky, I think anything's fine in a stew."
 2002003020240,灯織,"……プロデューサー
-『なんでもいい』は作ってくれる人に失礼ですよ","……Producer. Saying ""anything's fine"" is rude to the person making it."
+『なんでもいい』は作ってくれる人に失礼ですよ","...Producer. Saying ""anything's fine"" is rude to the person making it."
 0000000000000,プロデューサー,"い、いや、自分で作るならの話だぞ
 作ってもらったものに、そんなこと言わないよ","N-no, I'm talking about when I make it. I wouldn't say that to someone making it for me."
 2002003020250,灯織,"あ……そうですよね
-す、すみません……てっきり私が……",Ah…… I see. S-sorry…… I thought I……
-2002003020260,灯織,……い、いえ、なんでもありません！,"……N-no, it's nothing!"
-2002003020270,灯織,……自分で作れないんですか？,……You can't make it yourself?
+す、すみません……てっきり私が……",Ah... I see. S-sorry... I thought I...
+2002003020260,灯織,……い、いえ、なんでもありません！,"...N-no, it's nothing!"
+2002003020270,灯織,……自分で作れないんですか？,...You can't make it yourself?
 0000000000000,プロデューサー,"いや、卵焼きは結構難しいんだぞ！
-いつも巻くのを失敗するんだ……","No way, tamagoyaki is pretty hard, you know! I always fail at rolling it up properly……"
-2002003020280,灯織,そうですか……,Is that so……
+いつも巻くのを失敗するんだ……","No way, tamagoyaki is pretty hard, you know! I always fail at rolling it up properly..."
+2002003020280,灯織,そうですか……,Is that so...
 2002003020290,灯織,"私は小学生の時から作っていたので……
-慣れてない人には、難しいものなんですね",I've been making it since I was in elementary school…… I guess it's difficult for people not used to it.
+慣れてない人には、難しいものなんですね",I've been making it since I was in elementary school... I guess it's difficult for people not used to it.
 0000000000000,プロデューサー,"へぇ……
-灯織は、そんな昔から料理をしていたんだな",Woah…… So you've been cooking for a long time.
+灯織は、そんな昔から料理をしていたんだな",Woah... So you've been cooking for a long time.
 2002003020300,灯織,"はい
-少しずつ、親の家事を手伝うようになって……",Yes. I've been able to help my parents with housework bit by bit……
+少しずつ、親の家事を手伝うようになって……",Yes. I've been able to help my parents with housework bit by bit...
 2002003020310,灯織,"そういえば私が初めて作ったのも卵焼きでした
 父が美味しいと言ってくれたので、喜んだのを覚えていて","Now that I think about it, the first thing I made was tamagoyaki. I remember being so glad that my dad said it tasted good."
 0000000000000,プロデューサー,"そうだったのか
 初めての時から、上手くできたのか？",Oh really? Did you make it well even though it was your first time?
 2002003020320,灯織,"いえ、少し焦がしてしまった記憶があります
-でも、父はすごく笑顔で……","No, I remember burning it a bit. However, my dad was smiling so much……"
+でも、父はすごく笑顔で……","No, I remember burning it a bit. However, my dad was smiling so much..."
 2002003020330,灯織,"ふふっ
 絶対に美味しくはなかったはずなんですけどね","Fufu. Although, there's definitely no way it tasted good."
 info,produce_events/200200302.json,
