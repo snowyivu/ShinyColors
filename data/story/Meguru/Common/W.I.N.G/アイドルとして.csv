@@ -1,0 +1,132 @@
+id,name,text,trans
+1003001020010,めぐる,"すっご～い！
+今日はこの舞台で踊れるんだね！","Wooow!
+I'm going to be dancing on this stage today?!"
+0000000000000,プロデューサー,"ああ。バックダンサーとしてステージを盛り上げるのが
+今日のめぐるの仕事だ",Yes. Your job today is to liven up the stage as a backup dancer.
+0000000000000,プロデューサー,……真乃や灯織はいないが、大丈夫か？,"...Mano and Hiori aren't here, but will you be okay?"
+1003001020020,めぐる,"うんっ、大丈夫だよっ！
+一人のお仕事も頑張らなきゃだもんね！","Yeah, I'm okay!
+I have to give solo jobs my all, too, after all!"
+1003001020030,めぐる,"ねぇ、プロデューサー
+今日は、あのおっきなカメラで撮ってもらえるんでしょ？","Hey, Producer.
+Today, that huge camera over there is going to be recording me, right?"
+0000000000000,プロデューサー,そうだ、今日のステージは中継もあるからな,"That's right, since today's performance is being broadcast."
+1003001020040,めぐる,"本物、初めて見たよー！
+あんなに大きいんだねー！","This is the very time I've seen one for real!
+They really are that big!"
+1003001020050,めぐる,"あっ！　あの機械、音響のヤツだ！
+学校で見たのより複雑そう……やっぱ本格的って感じ！","Ah! That machine is used for sound! This one looks more complicated
+than the one we have at school... this is the real deal!"
+0000000000000,プロデューサー,"……めぐる、珍しいのは分かるけど、
+もう少し静かに――","...Meguru, I understand your curiosity, but try to be a little more quiet."
+1003001020060,めぐる,"……あっ！　スタッフさんたちが来た！
+ちょっと質問してくるね！","...Ah! The staff members are here!
+I'm going to go ask them some questions!"
+0000000000000,プロデューサー,"あっ、おい！　……行っちゃったか
+まぁ、スタッフさんと話すのはいいことだしな……","Ah, hey! ...She left.
+Well, I guess it's a good thing for her to talk with the staff..."
+0000000000000,プロデューサー,でももう少し落ち着いてくれるといいんだが……,Though I think it'd be better if she calmed down a little...
+1003001020070,めぐる,ただいま、プロデューサー！,"I'm back, Producer!"
+0000000000000,プロデューサー,"おかえり、めぐる
+聞きたかったことは聞けたか？","Welcome back, Meguru.
+Did you ask them everything you wanted to?"
+1003001020080,めぐる,"うん！　知らないこといろいろ教えてもらっちゃった！
+えへへ、いい人たちばっかりだったなぁ","Yeah! They taught me a lot about things I didn't know before!
+Ehehe, they're all good people."
+0000000000000,プロデューサー,そうか。それは良かったな,I see. That's good.
+0000000000000,プロデューサー,"さて、そろそろ本番だけど、
+そっちの準備は大丈夫か？","Now then, it's almost time for the performance.
+Are you ready?"
+1003001020090,めぐる,"う、うん。緊張とかはしてないし
+大丈夫だと思うんだけど……","Y-yeah. I'm not nervous or anything like that.
+I think I'll be alright, but..."
+0000000000000,プロデューサー,"……？
+何か気になることでも？","...?
+Is there something bothering you?"
+1003001020100,めぐる,"あはは……こんなこと言うと
+不真面目だーって怒られるかもしれないんだけどね","Ahaha... I think if I told you that, you'd get mad and think I'm not being serious."
+1003001020110,めぐる,"心構え、って言うのかな？
+どういう気持ちでお仕事をすればいいのかわかんなくて……","I guess you can say it's my state of mind?
+I'm not sure what kind of feeling I should put into my work..."
+1003001020120,めぐる,"ねえ、プロデューサー
+ステージに立ったらどんなことを考えればいいかな？","Hey, Producer.
+What should I think of while I'm on this stage?"
+0000000000000,プロデューサー,そうだな……,Let's see...
+select,,"まわりのみんなを
+支えるつもりでいこう","Support everyone
+around you."
+select,,とにかく気合いだ！,"An overall
+fighting spirit!"
+select,,"アイドルを
+楽しんでこい！","Have fun being
+an idol!"
+0000000000000,プロデューサー,"友達を助けるのと同じだよ
+一緒に仕事をする人の手伝いをするつもりで頑張るんだ","It's just like how you support your friends.
+You can do your best to support the people you're working together with today."
+1003001020130,めぐる,"そっかぁ、友達にするのとおんなじでいいんだ？
+うん！　それならできそう！","So, it should be the same as when I help my friends?
+Okay! I can do that!"
+1003001020140,めぐる,……あっ、もう本番がはじまるみたい！,"...Ah, it looks like the performance is starting soon!"
+1003001020150,めぐる,"ありがとうプロデューサー
+じゃあ、行ってくるね！","Thanks, Producer.
+Well, here I go!"
+1003001020160,めぐる,"ただいま、プロデューサー！
+わたしのダンス、どうだった！？","I'm back, Producer!
+How was my dancing?!"
+0000000000000,プロデューサー,"最高だったよ
+スタッフたちもみんな感心してたぞ","It was the best.
+All the staff members were impressed, too."
+1003001020170,めぐる,ホント！？　よかったー！,For real?! Yay!
+1003001020180,めぐる,"わたしもこんなに思いっきり踊れたのはじめてかも
+まわりのみんなと一緒なんだって思えたからかな","That might've been the strongest I've danced so far!
+It was because I was thinking of how I was together with everyone."
+1003001020190,めぐる,"これもプロデューサーのアドバイスのおかげだね！
+ありがとう、プロデューサー！","And that's thanks to your advice!
+Thanks, Producer!"
+0000000000000,プロデューサー,"（めぐるはアドバイスを活かして一つ成長したみたいだ
+俺も負けていられないな！）","(It looks like Meguru made use of my advice and took one step forward.
+I have to try my best, too!)"
+1003001020200,めぐる,"……！　なるほど、気合いだね！
+わたし、なんだか燃えてきたよ！","...! Okay, so a fighting spirit!
+I'm getting sort of fired up!"
+1003001020210,めぐる,よーし、全力で踊ってくるね！,"Alright, I'll give this dance my best shot!"
+1003001020220,めぐる,"ただいま、プロデューサー！
+どうだった？　わたしの踊り、気合い入ってたかな？","I'm back, Producer!
+How was I? Did my dancing show a fighting spirit?"
+0000000000000,プロデューサー,"あぁ。他のダンサーにも負けない、
+迫力あるダンスだったよ",Yeah. Your dance was unbeatable and intense.
+1003001020230,めぐる,えへへ、頑張った甲斐があったよ～！,"Ehehe, my hard work was worth it!"
+1003001020240,めぐる,"プロデューサー、
+ステージの上ってすごいんだね！","Producer, being on stage is amazing!"
+1003001020250,めぐる,"部活とも全然違うドキドキがあって……
+なんだかすっごくワクワクしたんだ！","It's exciting in a different way than when it's for a school club activity...
+I sort of felt really thrilled!"
+1003001020260,めぐる,"わたし、もっといろんなアイドルのお仕事が
+したくなってきちゃった！",Now I want to do more different kinds of work as an idol!
+0000000000000,プロデューサー,（この調子で、次の仕事でもめぐるを引っ張っていこう）,"(Keeping this up, I'll take Meguru to her next job.)"
+1003001020270,めぐる,えっ……？,Eh...?
+1003001020280,めぐる,"い、いいの？
+お仕事なのに、そんな気持ちで……","I-is that okay...?
+To feel like that, even at work..."
+0000000000000,プロデューサー,"もちろん。自分が楽しんでないのに、
+他の人を楽しませることなんて、できないからな",Of course. There's no way you can make others have fun if you aren't.
+1003001020290,めぐる,"そっか……そうなんだね！！
+わたしがみんなに「楽しい」を伝えなきゃなんだ！","Okay... that's right!!
+I have to send a fun feeling to everyone!"
+1003001020300,めぐる,"ありがとうプロデューサー
+わたし、楽しんでくる！","Thanks, Producer.
+I'm going to go have fun!"
+1003001020310,めぐる,"ただいま、プロデューサー！
+すっごく楽しかったよー！","I'm back, Producer!
+That was so fun!"
+0000000000000,プロデューサー,（よし！　いいアドバイスをできたみたいだ）,(Alright! It looks like I was able to give her some good advice.)
+1003001020320,めぐる,ステージに立つのって最高だね！,Standing on stage is the best!
+1003001020330,めぐる,"わたし、またあそこで踊りたい！
+何度でも、何回でも。これから先、ずっと！","I want to dance there again!
+Over and over, forever and ever!"
+0000000000000,プロデューサー,"（めぐるはステージの興奮が冷めやらない……
+アイドルとして、いいスタートを切ることができたな）","(Meguru won't calm down from the excitement of the stage...
+She was able to have a good start as an idol.)"
+info,produce_events/100300102.json,
+译者,,

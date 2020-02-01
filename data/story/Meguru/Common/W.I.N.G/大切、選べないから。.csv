@@ -1,0 +1,129 @@
+id,name,text,trans
+1003001040010,めぐる,"……あ
+プロデューサー、おはよう","...Ah.
+Producer, good morning."
+0000000000000,プロデューサー,"ど、どうしためぐる
+ずいぶん疲れてるみたいだが……","Wh-what's wrong, Meguru?
+You look pretty tired..."
+1003001040020,めぐる,"えっ！？　そ、そんなことないよ！！
+ほら！　元気いっぱいだから心配しないで！","Eh?! Th-that's not true at all!!
+Look! I'm full of energy, so don't worry!"
+0000000000000,プロデューサー,"……無理はしなくていいんだぞ
+最近は仕事続きだったからな","...You don't have to pretend.
+You've had job after job lately."
+0000000000000,プロデューサー,"いくつかキャンセルして
+休みをとろうか？",Should I cancel some so you can have a break?
+1003001040030,めぐる,"……！　ありがとう……でも、大丈夫だよ
+キャンセルはしたくない","...! Thank you... but, I'm fine.
+I don't want to cancel them."
+1003001040040,めぐる,だって、自分でやりたいって言ったことばっかだから……,"I mean, I'm the one who said I wanted to do them..."
+1003001040050,めぐる,"それに、プロデューサーがせっかく
+お仕事取ってきてくれたのに、そんなこと……","Besides, you worked really hard to get those jobs for me, so..."
+0000000000000,プロデューサー,俺のことなんて気にする必要は……,You don't need to worry about me...
+1003001040060,めぐる,あっ、電話だ……,"Ah, my phone..."
+0000000000000,プロデューサー,"出てもいいぞ
+こっちの件はあとで話そう","You can answer it.
+We can talk more about this after."
+1003001040070,めぐる,"う、うん。ありがとう……
+……もしもし","Y-yeah. Thanks...
+...Hello."
+1003001040080,めぐる,"……うん。……うん
+……分かった。じゃあ、また次のお休みにね","...Yeah... yeah.
+...Got it. Then I'll see you on my next day off."
+0000000000000,プロデューサー,……次の休みになにかあるのか……？,...Do you have something on your day off...?
+1003001040090,めぐる,"うん。……友達から試合に出てほしい
+ってお願いされたんだ",Yeah... my friend asked me to go to one of their games.
+0000000000000,プロデューサー,"……ちょっと待て
+めぐる、もしかしてまだ助っ人を？","...Wait a minute.
+Meguru, could it be you're still helping them?"
+1003001040100,めぐる,あはは……前より回数は減っちゃったけどね,"Ahaha... I'm not able to do it as much as I used to, though."
+1003001040110,めぐる,"その分、予定が合う日は頑張りたいんだ
+わたし、みんなの役に立ちたいから……！","So I want to do my best whenever our schedules match up.
+I want to be helpful to everyone...!"
+0000000000000,プロデューサー,"そうは言うけどな……こんなこと続けてると、
+そのうち身体を壊すぞ？","You may say that... but if you continue like this, you'll hurt youself, you know?"
+1003001040120,めぐる,"……っ……
+ごめんなさい……","...
+I'm sorry..."
+1003001040130,めぐる,"わたしもね、ちゃんと選ばなきゃって思ってるんだよ
+でも、アイドルのお仕事も友達も、どっちも大切で……","I think I have to choose one to stick with, too.
+But, both my idol work and my friends are important to me..."
+1003001040140,めぐる,……どっちかなんて選べなくなって、それでここまで……,"...I couldn't really choose just one, and now..."
+0000000000000,プロデューサー,めぐる……,Meguru...
+select,,"どっちも選んじゃ
+ダメなのか？","Do you have to
+choose one?"
+select,,"みんなもめぐるを
+大事に思ってる","You are important
+to everyone, too."
+select,,今までよく頑張ったな！,"You've been working
+so hard!"
+1003001040150,めぐる,え……？,Eh...?
+0000000000000,プロデューサー,"どっちも大切なんだろ？
+なら、諦めちゃダメだ","They're both important to you, right?
+So there's no way you could choose one."
+0000000000000,プロデューサー,"ふたつを両立できる道を探そう
+な？",Couldn't you find a path that lets you have both in harmony?
+1003001040160,めぐる,"プロデューサー……！
+……でも、見つかるかな……？","Producer...!
+...But, I wonder if I'll be able to...?"
+0000000000000,プロデューサー,"今はわからない
+でも今度は、俺も一緒に探すから","I don't know that now.
+But I'll help you find it this time."
+0000000000000,プロデューサー,一人きりで頑張るよりはずっとマシなはずだ,That should be better than doing it all on your own.
+1003001040170,めぐる,"……えへへ、こんなことなら、
+もっと早くプロデューサーに相談すればよかったな","...Ehehe, if I knew this is how it would be, I would've told you earlier."
+0000000000000,プロデューサー,"よし。じゃあめぐるもちゃんと納得できるように、
+二人でいろいろと考えてみるか！","Alright. In order for you to be able to fully understand how you can do it,
+let's think up some different things together!"
+1003001040180,めぐる,"うん！
+……ありがとう、プロデューサー！","Yeah!
+...Thanks, Producer!"
+0000000000000,プロデューサー,"めぐるの友達だって、めぐるには
+無茶してほしくないって思ってるはずだ",I don't think your friends would want you to push yourself too hard.
+1003001040190,めぐる,でも……,But...
+0000000000000,プロデューサー,"俺も同じだから分かる
+つらそうなだけの姿なんて見たくないんだよ","I know that because I feel the same way.
+I don't want to see you in pain."
+1003001040200,めぐる,プロデューサー……,Producer...
+1003001040210,めぐる,"……そうなんだね。わたし、
+わたしが頑張れば、みんなのためになると思ってた……","...You're right. I was thinking if I tried my best, I could help everyone..."
+1003001040220,めぐる,"だけど、違ったんだね
+反対に、みんなに心配かけちゃってたんだ……","But I was wrong.
+Instead, I ended up making everyone worry about me..."
+1003001040230,めぐる,"……でも、それでもやっぱり、
+アイドルも友達も、どっちかを選ぶことは……","...But still, I'm not sure what I should do about choosing between
+being an idol and my friends..."
+0000000000000,プロデューサー,……なら、一緒に考えていこう,"...Well then, let's think about it together."
+1003001040240,めぐる,え……？,Eh...?
+0000000000000,プロデューサー,"めぐるがみんなのために頑張ろうと思ったみたいに
+めぐるの力になりたいと思う人間もいるってことだ","Just like you want to work hard to help everyone, there are people that want to help Meguru, too."
+0000000000000,プロデューサー,"無茶にならずに、両立ができる方法を
+一緒に探そう","Without being unreasonable, let's search together for a way you can have both."
+1003001040250,めぐる,"プロデューサー……
+うぅ～っ、ありがとー！","Producer...
+Oh, thank you!"
+0000000000000,プロデューサー,……一緒に頑張っていかなくちゃな！,...We'll have to do our best together!
+1003001040260,めぐる,うんっ！,Yeah!
+1003001040270,めぐる,え……？,Eh...?
+1003001040280,めぐる,プロデューサー、怒らないの……？,"Producer, you're not mad...?"
+0000000000000,プロデューサー,"仕事で手を抜いていたら怒っただろうな
+でも、めぐるは立派にやってきただろ","I would be mad if you skipped work.
+However, you've been doing a splendid job."
+0000000000000,プロデューサー,"たしかに無理をし続けてきたのは
+褒められたことじゃないけど……","I don't mean to praise and encourage you to keep on pushing yourself, but..."
+0000000000000,プロデューサー,"それでも仕事も友達付き合いも続けようとした、
+めぐるの努力を、俺は素直にすごいと思うよ",I honestly think that the effort you've put towards your work and your friends is amazing.
+1003001040290,めぐる,プロデューサー……,Producer...
+0000000000000,プロデューサー,"だから俺も、めぐるの力になりたいな
+めぐるが守ろうとしてきたものを一緒に守りたいんだ","That's why I want to help you, Meguru.
+I want to protect the things you want to protect together with you."
+0000000000000,プロデューサー,"……俺と一緒に考えよう
+アイドルと友達、どっちも両立できる方法を！","...Let's think about it together.
+A way your idol work and friends can coexist!"
+1003001040300,めぐる,……ありがとう、プロデューサー,"...Thanks, Producer."
+1003001040310,めぐる,"うん、きっと見つかるよ
+プロデューサーが一緒なら、きっと……！","Yeah, I'm sure we'll find it.
+If I'm with you, we definitely can...!"
+info,produce_events/100300104.json,
+译者,,

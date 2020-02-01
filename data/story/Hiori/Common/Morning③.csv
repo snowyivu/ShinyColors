@@ -2,11 +2,11 @@ id,name,text,trans
 1002001000310010,灯織,おはようございます、プロデューサー,"Good morning, Producer."
 0000000000000,プロデューサー,"おはよう
 ん、それは……音楽プレイヤーか？","Good morning.
-Hm, is that…… a music player?"
+Hm, is that... a music player?"
 1002001000310020,灯織,はい、ちょっと聴いていたんです,"Yes, I was just listening for a bit."
 0000000000000,プロデューサー,"（灯織のイヤホンから、すこし音楽が
 漏れて聞こえてくるな……）","(I can hear a little of the music coming
-from Hiori's headphones……)"
+from Hiori's headphones...)"
 select,,"俺のオススメを
 教えよう","I'll tell you my
 recommendation."
@@ -18,18 +18,18 @@ select,,"音楽聴くのが
 listening to music?"
 1002001000310030,灯織,"最近、同じアーティストばかり
 聴いていたので……ありがたいです","Lately I've been listening to
-the same artists over and over…… Thank you."
+the same artists over and over... Thank you."
 1002001000310040,灯織,それで、どんな曲がオススメなんですか？,So what song do you recommend?
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
 1002001000310050,灯織,"そうなんですか
 いいですよね、落ち着いた曲が多くて……","Oh really?
-They're good, they have a lot of relaxing songs……"
+They're good, they have a lot of relaxing songs..."
 1002001000310060,灯織,"プロデューサーと趣味が合うなんて、
 意外でした",I wasn't expecting to match with your tastes.
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1002001000310070,灯織,"好き、というよりは趣味なだけです
 何かしながらでも聴けるので……","Rather than liking music, it's just a hobby.
-I'll listen to it while doing something else too……"
+I'll listen to it while doing something else too..."
 1002001000310080,灯織,"それにイヤホンをしていれば、
 誰も話しかけてきませんから","Also if I have headphones on,
 no one will talk to me either."
