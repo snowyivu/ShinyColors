@@ -493,7 +493,7 @@ gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目
 gasha.freeGift.popReward.title,おまけ,Bonus
 gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left
 gasha.stepupRemainingMinutes,残り%{minutes}分,%{minutes} min left
-gasha.stepupTimes.long,%{times}連ガシャ,Step %{times}
+gasha.stepupTimes.long,%{times}連ガシャ,%{times} Pulls
 gasha.stepupTimes.short,%{times}連,Step %{times}
 gasha.scoutGasha.idolList.title,対象アイドル一覧,Idol Scout List
 gasha.scoutGasha.idolList.expireAt,【有効期限】%{expireAt}まで,【Expires】%{expireAt}

@@ -1,0 +1,112 @@
+id,name,text,trans
+1003001030010,めぐる,プロデューサー、おはよう！,"Producer, good morning!"
+0000000000000,プロデューサー,"おはよう、めぐる
+今日はいいニュースがあるぞ","Good morning, Meguru.
+I have good news for you today."
+1003001030020,めぐる,"えっ、いいニュース！？
+なになに？","Eh, good news?!
+What is it, what is it?"
+0000000000000,プロデューサー,"ぜひめぐるを呼んでほしいって、
+また新しいオファーが入ったんだ","They said they certainly want to invite you, so you got another new offer!"
+1003001030030,めぐる,"ほんと？　やったー！
+最近、いろんなお仕事ができて楽しいなー！","Really? Yay!
+I've been having fun doing all sorts of work lately!"
+0000000000000,プロデューサー,"この間のバックダンサーの仕事で
+めぐるの評判がかなり広まったみたいだぞ",It's seems like you've gotten quite a bit more popular since that time you worked as a backup dancer.
+0000000000000,プロデューサー,"いい機会だ、そろそろアイドルとしての
+方向性を決めていこうか","This is a good chance, so how about we decide your course of action as an idol soon?"
+1003001030040,めぐる,"方向性かぁ……
+どうやって決めるの？","Course of action, huh...
+What should I do?"
+0000000000000,プロデューサー,そうだな、まずは、めぐるがやりたい仕事を選ぶといい,"Let's see, first, you should choose what work you want to do."
+1003001030050,めぐる,"え？
+それって、わたしが自由に決めてもいいの？","Eh?
+Can I really choose it like that on my own?"
+0000000000000,プロデューサー,"もちろんだ
+めぐる自身がやる仕事なんだから","Of course.
+It's work you're going to be doing, after all."
+1003001030060,めぐる,そっか！　えぇっと、それじゃあねぇ……,"I get it! Ummm, then I want..."
+1003001030070,めぐる,"ミニライブでしょ、ダンスでしょ！
+あとは握手会とか一日署長とか！　それと他には……","A mini live, and dancing!
+Then a handshake event and chief for day! Also..."
+0000000000000,プロデューサー,待て待て！,"Wait, wait!"
+1003001030080,めぐる,え、どうしたの？,"Eh, what's wrong?"
+0000000000000,プロデューサー,"そんなにあったら方向性が決まらないだろ
+せめてもう少し絞れないか？","If you want to do that much, we won't be able to choose a course of action.
+Can you narrow it down a little?"
+1003001030090,めぐる,"絞る、か……
+そうだなぁ、ダンスは大好きだからやりたいし……","Narrow it down...
+Well, I love dancing, so I want to do that..."
+1003001030100,めぐる,"握手会も一日署長もアイドルっぽいから
+どっちもやってみたいし……","And idols do things like handshake events and chief for a day,
+so I want to do both of those..."
+1003001030110,めぐる,"うぅ……ごめんプロデューサー……！
+ワクワクする仕事が多すぎて選べないよぉ……","Oh... sorry, Producer...!
+There's so much work I'm excited about that I can't choose..."
+0000000000000,プロデューサー,"でも時間にも限りがあるからな……
+さすがに全部は選べないぞ","But our time is limited...
+So we really can't choose all of them."
+1003001030120,めぐる,んんー……そうだよねぇ……,Hmmm... you're right...
+1003001030130,めぐる,"ねえ、プロデューサーは
+わたしに向いてるお仕事ってなんだと思う？","Hey, what kind of work do you think I should work towards?"
+0000000000000,プロデューサー,うーん。めぐるに向いてる仕事は……,Hmmm. You should work towards...
+select,,ダンスだな,Dancing.
+select,,モデルはどうだ？,How about modeling?
+select,,あえて、インテリで,"Dare to be
+intellectual."
+0000000000000,プロデューサー,やっぱり得意なものを伸ばすのが一番いいだろう,Developing your strong point is best after all.
+1003001030140,めぐる,得意なものかぁ……なるほどー！,My strong point... okay!
+1003001030150,めぐる,"わたしも、自分が一番向いてるのは
+ダンスかなって思うんだ！　ほら！","I was thinking that I should work towards dance first, too! See!"
+1003001030160,めぐる,ね？　ね？　どうかなっ！,Right? Right? How's that!
+0000000000000,プロデューサー,うん、やっぱりめぐるのダンスには華がある,"Yes, you really are best at dancing."
+1003001030170,めぐる,"えへへ！　プロデューサーや２８３のみんなの
+役に立てるように、これからもっともっと頑張るよ！",Ehehe! I'll keep on working even harder so I can be useful to you and everyone in 283 Productions!
+0000000000000,プロデューサー,"（みんなのため、か……
+俺ももっといい仕事を取ってこなくちゃな……！）","(For everyone, huh...
+I have to get some better work for her, as well...!)"
+1003001030180,めぐる,"モデル？
+わたしが？","A model?
+Me?"
+0000000000000,プロデューサー,ああ。めぐるの身のこなしはモデル向きだと思うしな,Yes. The way you carry youself is suited for a model.
+1003001030190,めぐる,……えぇと、モデルのポーズってたしかこんな……,"...Ummm, if I'm remembering right, a model's pose is like..."
+1003001030200,めぐる,どうどう？　モデルっぽい？,How's that? Was I like a model?
+0000000000000,プロデューサー,……えーと。その格好は……？,...Ummm. What kind of pose was that...?
+1003001030210,めぐる,モデルのポーズだよ！,A model's pose!
+0000000000000,プロデューサー,"……もうちょっとカッコいいポーズとか
+ないのか？",...How about a cooler pose?
+1003001030220,めぐる,"あれ？　今のじゃカッコよくない？
+……うーん、どんなポーズならいいんだっけ……？","Huh? So what I just did wasn't cool?
+...Hmmm, what kind of pose should I do...?"
+0000000000000,プロデューサー,"（ただ、今の微妙なポーズでも、
+めぐるなら絵になるんだよな……）","(Even though that pose just now was questionable, if it's Meguru, she'll make it picture-perfect...)"
+0000000000000,プロデューサー,"……やっぱり、めぐるにはモデルの才能があるよ
+間違いない",...I have no doubt that you have talent as a model.
+1003001030230,めぐる,"そ、そうかな？　……えへへ
+プロデューサーはよく見ててくれるよね！","R-really? ...Ehehe.
+Make sure to watch me closely, okay?"
+1003001030240,めぐる,"こういうポーズを考えるのも楽しいし、
+モデルの仕事をやってみるのもいいかなー！","Thinking of a pose like that is fun, so maybe working as a model will be fun, too!"
+0000000000000,プロデューサー,賢いアイドルを目指してみるのもアリなんじゃないか？,Don't you think aiming to be a smart idol would be alright?
+1003001030250,めぐる,"えぇー！　でもわたし、勉強あんまり得意じゃないけど
+大丈夫かなぁ……？","Ehhh! But I'm not good at studying at all, so will that be okay...?"
+0000000000000,プロデューサー,"苦手なことにチャレンジしてみるってのも
+いい経験だよ",Challenging yourself to do something you're not very good at is good experience.
+1003001030260,めぐる,"そっか、チャレンジかー……たしかに
+クイズ番組で難しい問題に答えられたら格好いいかも！","Okay, so a challenge... it might look good if I answer a tough question on a game show!"
+0000000000000,プロデューサー,"よし！
+それじゃあ、これからクイズの特訓をやってみるか！","Alright!
+Then let's do a crash course on quiz questions!"
+1003001030270,めぐる,うん、任せて！,"Yeah, I'll leave it to you!"
+1003001030280,めぐる,"だ、だめだー！
+全然答えられないよー！","I-it's no good!
+I can't answer any of them!"
+0000000000000,プロデューサー,早押しのスピードはあがったんだけどな……,Even though you got faster at pushing the buzzer...
+0000000000000,プロデューサー,"だけど、一生懸命問題に答えようとする姿勢は
+なかなか良かったぞ","It's pretty good that you gave it your all to try to answer each question. "
+0000000000000,プロデューサー,やっぱりクイズ番組はハマると思うんだ,I really think you could be fit for game shows.
+1003001030290,めぐる,……そういうことなら、まだまだ頑張っちゃおうかな！,"...If you say that, I'm going to keep on doing my best!"
+0000000000000,プロデューサー,じゃあもう一問か？,"Well then, want to try again?"
+1003001030300,めぐる,よろしくプロデューサー！,"I'm in your care, Producer!"
+info,produce_events/100300103.json,
+译者,,
