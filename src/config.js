@@ -18,6 +18,7 @@ const config = {
   auto: 'off',
   bgm: 'off',
   myPage: 'normal',
+  commuTitle: 'normal',
 }
 
 const defaultConfig = Object.assign({}, config)
@@ -31,7 +32,7 @@ const FONT = {
   YUAN_TRANS: `sczh-yuanti,HummingStd-E`
 }
 
-const _keys = ['origin', 'font1', 'font2', 'timeout', 'story', 'auto', 'bgm', 'myPage']
+const _keys = ['origin', 'font1', 'font2', 'timeout', 'story', 'auto', 'bgm', 'myPage', 'commuTitle' ]
 const keys = DEV ? _keys.slice(1, _keys.length) : _keys
 
 const setFont = () => {
