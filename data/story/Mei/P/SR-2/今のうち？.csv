@@ -1,18 +1,18 @@
 id,name,text,trans
-2019005110010,愛依,！　プロデューサー！　あれ！,! Producer! Look at that!
+2019005110010,愛依,！　プロデューサー！　あれ！,"Oi, Producer! Look at that!"
 0000000000000,プロデューサー,ん？,Hm?
-2019005110020,愛依,ほーら！　あそこの本屋だって！,Looook!  That bookstore over there!
+2019005110020,愛依,ほーら！　あそこの本屋だって！,Looook! That bookstore over there!
 0000000000000,プロデューサー,"お……あの雑誌
 この間の海の写真が載ってるやつだな","Oh… that magazine. It's the one with your
 beach photo from the other day in it."
 2019005110030,愛依,ちょい買ってきていい？,Is it okay if I buy a few?
 0000000000000,プロデューサー,"もちろんだ
-ちょうどいいし、俺も自分用に買っていこう","Of course it is.
+ちょうどいいし、俺も自分用に買っていこう","Of course.
 It's quite alright, I'll buy one for myself as well."
 2019005110040,愛依,サンキュ！,Thank you!
-2019005110050,愛依,おぉ〜、マジで載ってるし！　ハンパないわ～,"Ooh~, it's seriously in there!  That's totally awesome~"
+2019005110050,愛依,おぉ〜、マジで載ってるし！　ハンパないわ～,"Ooh, it's seriously in there! That's totally awesome~"
 0000000000000,プロデューサー,自分で買って見ると、やっぱり感動するよな,I was also inspired looking at the one I bought.
-2019005110060,愛依,お！　プロデューサーわかってんじゃん！,Oh!  Producer you totally get it!
+2019005110060,愛依,お！　プロデューサーわかってんじゃん！,Oh! Producer you totally get it!
 0000000000000,プロデューサー,俺が愛依の立場でも、きっとそう思うだろうからな,"I'm also in your position, so of course I feel that way."
 0000000000000,プロデューサー,"あ、そういえば２冊買ってたな
 なくしたり破れたりした時のための予備か？","Ah, which reminds me, you bought two right?
@@ -35,7 +35,7 @@ He does tend to tear things up sometimes!"
 0000000000000,プロデューサー,それなら、買いに戻るか？,"If that's the case, should we return to shopping?"
 2019005110120,愛依,うーん……,Well…
 2019005110121,愛依,やっぱだいじょぶ！,It's probably fine!
-2019005110130,愛依,弟には破ったらおしおきするぞ〜って言うから！,I'll just tell my kid brother he'll get a scolding if he tears it~!
+2019005110130,愛依,弟には破ったらおしおきするぞ〜って言うから！,I'll just tell my kid brother he'll get a scolding if he tears it!
 2019005110140,愛依,"でもさぁ、プロデューサー
 こういうのってなーんか不思議なカンジじゃない？","But hey, Producer.
 Isn't this sort of thing so crazy?"
@@ -72,19 +72,19 @@ It'd be complicated to walk around like this yeah?"
 Well then, I'll have to just enjoy myself for now!"
 2019005110230,愛依,"ヤッバ、そう思ったらじっとしてらんないわ！
 プロデューサー、今からどっか行こう～？","Man, I can't stand still if I think about it like that!
-Producer, where should we go now~?"
+Producer, where should we go now?"
 0000000000000,プロデューサー,"うーん、確かに予定はもうないけど
 仕事以外は愛依のプライベートだしなぁ……","Um, I haven't really decided yet.
 Mei's personal life isn't really work related…"
-2019005110240,愛依,えぇ〜、ダメ～？,"Ehh~, no way~?"
+2019005110240,愛依,えぇ〜、ダメ～？,"Ehh, no way~?"
 2019005110250,愛依,"……そだ！　それなら取材ってことにしちゃえばよくない？
-うち、あったまいー","…that's it!  Then why don't you just come along and
-do an interview? Of me just hanging out-"
-0000000000000,プロデューサー,……いや、やっぱりだめ──,"…no, that's still no good-"
+うち、あったまいー","That's it! Then why don't you just come along and
+do an interview? Of me just hanging out──"
+0000000000000,プロデューサー,……いや、やっぱりだめ──,"No, that's still no good──"
 2019005110260,愛依,"──だいじょぶだいじょぶ！
 社長に怒られたらうちが謝るからさ！","It's fine, it's fine! If the company president
 gets upset I'll just apologize!"
-2019005110270,愛依,ほら！　早く行こう！,Come on!  Let's go!
-0000000000000,プロデューサー,わっ、ちょ、ちょっと待ってくれ──！,"Wah, h, hey wait up--!"
+2019005110270,愛依,ほら！　早く行こう！,Come on! Let's go!
+0000000000000,プロデューサー,わっ、ちょ、ちょっと待ってくれ──！,"Wah, h-hey wait up!"
 info,produce_events/201900511.json,
 译者,,

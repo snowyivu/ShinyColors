@@ -1,0 +1,22 @@
+id,name,text,trans
+4901008170010,あさひ,"プロデューサーさん！
+右と左のチョコ、どっちかあげるっす！","Producer, I'll have some chocolate!
+But choose wisely: Right or Left?"
+0000000000000,プロデューサー,"え？　なんだ急に！？
+えーっと……じゃあ、右！","Huh? What's with this out of the sudden!?
+Well… I'll choose right!"
+4901008170020,あさひ,"はい！　じゃ、左はわたしの分！
+せーので食べるっすよ～、せー──……","Okay! I guess the left one is mine!
+I'll count down and we'll eat it! Ready…"
+4901008170030,あさひ,あっ！　どっちかが当たりで、どっちかが外れっすから！,And! One is either a hit or an out!
+0000000000000,プロデューサー,えっ？,Eh?
+4901008170040,あさひ,せーの！,"Ready set, and go!"
+0000000000000,プロデューサー,"……
+……うん、美味しい！　ありがとな、あさ──","……
+Oh, this is delicious! Thank you, Asa─"
+4901008170050,あさひ,──……うぅ～……苦い……,Uuuh… It's bitter…
+0000000000000,プロデューサー,だ、大丈夫か……？,"Are, are you okay?"
+0000000000000,プロデューサー,……口直しに甘いチョコ食べるか……？,Do you want the one I have?
+4901008170060,あさひ,うう、食べるっす……んん,"Uuuh, I'll eat it… Nn…"
+info,special_communications/490100817.json,
+译者,,
