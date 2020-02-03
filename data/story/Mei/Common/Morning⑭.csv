@@ -5,8 +5,10 @@ id,name,text,trans
 うち、ついつい触っちゃうんだよね～","Asahi, her cheeks are so soft!
 I can't stop squeezing them~"
 0000000000000,プロデューサー,（そうなのか）,(Is that so?)
-select,,怒られないのか,I doubt she'll be upset.
-select,,ほどほどにな,Just do it in moderation.
+select,,怒られないのか,"I doubt she'll
+be upset."
+select,,ほどほどにな,"Just do it in
+moderation."
 select,,やめなさい,Stop it.
 0000000000000,,★選択肢①【怒られないのか】,★選択肢①【怒られないのか】
 1019001001410030,愛依,それがさ、逆にニコニコして触らしてくれんの！,"That's right, in fact she grins when I squeeze em!"
@@ -17,10 +19,10 @@ select,,やめなさい,Stop it.
 1019001001410060,愛依,うちだってやりすぎて嫌われたくないし～,"If I do it too much, she might hate it!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 0000000000000,,★選択肢③【やめなさい】,★選択肢③【やめなさい】
-1019001001410070,愛依,なんで～、あさひちゃんは嫌がってないけど～……？,"Why, but Asahi doesn't dislike it…?"
+1019001001410070,愛依,なんで～、あさひちゃんは嫌がってないけど～……？,"Why, but Asahi doesn't dislike it...?"
 1019001001410080,愛依,"……！？　
-もしかして、実は怒ってたりしてた的な……？","…!?
-Is it possible, that she actually did get angry…?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I screwed up. I should have said something else…)
+もしかして、実は怒ってたりしてた的な……？","...!?
+Is it possible, that she actually did get angry...?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101900100141.json,
 译者,,

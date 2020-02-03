@@ -5,13 +5,15 @@ id,name,text,trans
 1019001000110020,愛依,"学校でヤバい量の課題出されてさ～
 無理ゲーなんだよね～","We got way too much homework at school~
 It's like those unbeatable games~"
-0000000000000,プロデューサー,（そういうことか……）,(So that's what it is…)
+0000000000000,プロデューサー,（そういうことか……）,(So that's what it is...)
 select,,"少しなら
-教えられるかも","I might be able to help
-teach you a little."
+教えられるかも","I might be able
+to help teach
+you a little."
 select,,"得意なものから
-やっていこう","Why don't you start with
-what you're good at?"
+やっていこう","Why don't you
+start with what
+you're good at?"
 select,,"文句を言っても
 始まらないぞ","Complaining won't
 help, you know?"
@@ -29,6 +31,6 @@ I wonder~?"
 もうちょっと言い方あるくない？","That's true but~
 Did you have to say it that way?"
 1019001000110080,愛依,プロデューサーのイジワル～,"You're being selfish, Producer~"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I screwed up. I should have said something else…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101900100011.json,
 译者,,

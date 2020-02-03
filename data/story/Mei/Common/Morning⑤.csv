@@ -2,7 +2,7 @@ id,name,text,trans
 1019001000510010,愛依,あっちゃ～、ヤッバ,"Ah shoot, that's no good!"
 0000000000000,プロデューサー,どうした、愛依、大丈夫か？,"What is it, Mei? everything alright?"
 1019001000510020,愛依,いや～、爪割れちゃったっぽいわ～,"No, looks like I just broke a fingernail~"
-0000000000000,プロデューサー,（それなら……）,(Is that what it is…)
+0000000000000,プロデューサー,（それなら……）,(Is that what it is...)
 select,,"救急箱に
 グルーがある","There's glue in
 the first-aid kit."
@@ -22,6 +22,6 @@ so much, I can always count on you~♪"
 プロデューサーは悪くないし","Hey, don't apologize Producer, 
 you didn't do anything bad."
 1019001000510080,愛依,しばらく我慢するし～,I can live with this for a while.
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I screwed up. I should have said something else…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/101900100051.json,
 译者,,
