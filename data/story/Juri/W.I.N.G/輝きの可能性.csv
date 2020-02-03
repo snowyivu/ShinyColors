@@ -1,0 +1,129 @@
+id,name,text,trans
+0000000000000,プロデューサー,"樹里、レッスンお疲れ様
+ずいぶん頑張ってたみたいだな","Good lesson today, Juri. Looks like you're working pretty hard."
+1011001030010,樹里,"……そうか？
+別に、このくらい普通じゃね－の？",...You sure? Isn't this how I usually do it?
+0000000000000,プロデューサー,"その普通が中々できないから言ってるんだよ
+真面目にレッスンしてくれてるみたいで、うれしいぞ",I can't do your usual so that's why I'm saying it. Makes me glad to see you taking your lessons so seriously.
+1011001030020,樹里,"なんだそりゃ……
+やるって決めたんだ、ちゃんとやるっての",So that's all... I chose to do this so you're damn right I'm going to nail it.
+1011001030030,樹里,"それにレッスン……練習って聞くと
+しっかりやるぞって気になるんだよな","Besides, I hear lesson... or practice, I can't help but give it all I've got."
+0000000000000,プロデューサー,"へぇ……それにしても、ダンスを見てると
+樹里の動きにはキレがあるよな","Hm... Even so, looking at you dance, you're pretty accurate with your movements."
+0000000000000,プロデューサー,前に何かスポ－ツでもやってたのか？,Did you play sports or anything before this?
+1011001030040,樹里,"ん－……
+まぁ、バスケをちょっとな","Ngh... Well, basketball a little."
+0000000000000,プロデューサー,"なるほどな
+樹里のダンスのキレや体力は、バスケから来てたんだな",That must be it. So your dance skills and stamina came from playing basketball.
+1011001030050,樹里,"ああ、そうかもな
+あの頃は、けっこ－必死にやってたし……","Uh huh, probably. I was pretty hardcore about it back then..."
+0000000000000,プロデューサー,へぇ、そうかそうか……,"Huh, I see I see..."
+1011001030060,樹里,"……なんだよ。必死にやってたなんて
+アタシには似合わね－とでも言いて－のか？",...So what? You about to say it isn't like me to be hardcore?
+0000000000000,プロデューサー,"いやいや、そんなこと言ってないだろ
+むしろ俺は、しっくり来ると考えてたくらいだ","No way, nothing like that. Actually, I was thinking that's just like you."
+0000000000000,プロデューサー,"樹里が真面目なのはよく知ってるし
+バスケをやってたころも、さぞ頑張ってたんだろうな","I know exactly how much effort you put in, so for sure it must have been the same with basketball."
+1011001030070,樹里,……まあ、昔の話だけどな,"...I mean, that was a long time ago."
+0000000000000,プロデューサー,（ん？珍しく歯切れが悪いな）,(Hm? Unusual of her to shy away from a topic.)
+1011001030080,樹里,"で、話は終わりかよ？
+だったらアタシは、もうちょっとレッスンしてくるけど……","So, we done chatting? 'Cause I'd like to do a little more before I wrap up here..."
+0000000000000,プロデューサー,"あ、ああ、引き留めたみたいで悪かったな
+いろいろ話を聞かせてくれて、ありがとう","Oh, uh yeah, sorry if I broke your flow. Thanks for letting me know all that."
+0000000000000,プロデューサー,"……だけど、運動経験があるってのは大きな武器になるな
+今後はその運動能力を活かしてアイドルしていければ……",...But having athletic experience could be a huge advantage. If you made use of your physical abilities going forward as an idol...
+1011001030090,樹里,あ？どういうことだよ,Huh? Like how?
+0000000000000,プロデューサー,"ん？　ああ、思い付きで言っただけだから
+具体的なところまで決めてるわけじゃないが……","Hm? Well, I just said what popped into my head so it's not like I had a plan or anything..."
+0000000000000,プロデューサー,"けど、そうだな……
+樹里に似合いそうな方向性か……",But let's see... A direction that would suit you...
+select,,"歌って踊れる
+スーパーアイドル","A singing, dancing super idol."
+select,,"スポ－ティな
+爽やかアイドル",A sporty and handsome idol.
+select,,"ちょっと柄の悪い
+ク－ルアイドル",A slightly thuggish cool idol.
+0000000000000,プロデューサー,歌って踊れるス－パ－アイドル……とか？,"A singing, dancing super idol... maybe?"
+1011001030100,樹里,"はあ？　歌って踊れるって……
+アイドルはみんなそういうもんだろ？","Huh? Singing, dancing... every idol does that, don't they?"
+0000000000000,プロデューサー,"いや、樹里の持っている身体能力は
+簡単に真似できるものじゃないからな","Ah, not like that. It's not easy to replicate the kind of talent you have."
+0000000000000,プロデューサー,"キレのあるダンス、それに歌いながら踊るために
+必要なスタミナが、樹里には備わっているんだ",You're gifted with the ability to do exacting dances and the stamina to sing at the same time.
+0000000000000,プロデューサー,"これは大きな強みだぞ。きっと樹里なら
+他のアイドルよりもっと上にいけるはずだ",That's a major strong suit. You have the potential to go beyond what other idols are capable of.
+1011001030110,樹里,ふ－ん……,Hmm...
+1011001030120,樹里,"まあ、本当にそうなれるかどうかは置いといて
+それなら、踊れるだけじゃなくて歌えね－とダメだよな？","So forget about whether I can go that far. If we're doing this, I have to get good at singing too, right?"
+1011001030130,樹里,"ってことはアタシ
+もっと歌のレッスンもしたほうがいいんじゃね－か？",Then shouldn't I be doing more vocal lessons?
+0000000000000,プロデューサー,"（おお……！
+樹里の方からレッスンの提案をしてくれるなんて……）",(Awesome...! I can't believe Juri's suggesting lessons...)
+0000000000000,プロデューサー,"よし、わかった！
+それじゃあ今すぐ歌のレッスンの予約をしてこよう！","Alright, you've got it! I'll book your next vocal lesson right away!"
+1011001030140,樹里,"はあっ！？　今すぐって……
+アンタ、なんでそんなにやる気なんだよ！",Huh!? Right away... What are you getting so excited over!?
+0000000000000,プロデューサー,"そんなの決まってるだろ。せっかく樹里がやる気なんだ
+俺もできる限りのサポ－トをしないとだろ？","That much should be obvious. It's because you're getting enthusiastic. I'm here to support you to the best of my ability, you know?"
+1011001030150,樹里,べ、別にアタシはやる気とかじゃ……,I-I never said I was enthusiastic...
+1011001030160,樹里,けど、アタシのために動いてくれてんだよな……,But you are doing it to help me out...
+0000000000000,プロデューサー,"どうした？
+俺の顔をじっと見て？",What's up? Why are you staring at me like that?
+1011001030170,樹里,"……なんでもね－よ
+アンタもけっこ－やる気あるヤツなんだなって思っただけ","...Nah, it's cool. Was just thinking you're pretty enthusiastic too."
+0000000000000,プロデューサー,"スポ－ティな爽やかアイドルなんて
+似合いそうじゃないか？",Wouldn't you work well as a sporty and handsome idol?
+1011001030180,樹里,"はあ？　何言ってんだよ
+アタシのどこが爽やかなんだよ",Huh? The hell are you talking about? What about me is handsome?
+0000000000000,プロデューサー,"ん？
+そんなに違和感があるか？",Hm? Is it that out of character?
+0000000000000,プロデューサー,"ショ－トカットだし、ダンスもキレがあるし、
+スポ－ツ少女って感じで爽やかじゃないか","You've got short hair and dance well, you could be a sports girl and look handsome on top of that."
+1011001030190,樹里,"いや……この金髪で爽やかはね－だろ
+……まさか、黒髪に染め直せって言うのか？",Nah... but my blonde hair isn't handsome. You trying to tell me to dye it back to black?
+0000000000000,プロデューサー,"そんなこと言わないさ
+樹里には今の髪型が似合ってると思うし",Not at all. I think your hair right now looks good.
+1011001030200,樹里,"……ふぅん。そういや
+初めて会ったときにもそんなこと言ってたっけ","...Hrm. Now that you mention it, I think you said something like that when we met too."
+0000000000000,プロデューサー,どうした、樹里？,"Something up, Juri?"
+1011001030210,樹里,……別に、どうもしね－よ,...Mind your own business.
+1011001030220,樹里,"ま、髪が気になんね－なら、アタシはかまわね－よ
+スポ－ティな爽やかアイドルだっけか？","Well, if you don't have a problem with my hair, I don't have a problem. Sporty and handsome idol, you said?"
+1011001030230,樹里,"もともと、体を動かすのは嫌いじゃね－しな
+アンタの案に乗ってやるよ",Not like I ever minded the exercise. I'll go along with your idea.
+0000000000000,プロデューサー,"そうか……！
+ありがとう、樹里！","You will...! Thanks, Juri!"
+1011001030240,樹里,感謝されても、爽やかにできる自信はね－からな？,"Thank me all you want, I doubt I can pull off a handsome act."
+0000000000000,プロデューサー,"大丈夫さ。俺もアドバイスするし、
+まずはやってみることが大切だからな","You're fine. I can give you advice too, the important part is taking that first step."
+1011001030250,樹里,"はいはい
+……頼りにしてるぜ、プロデュ－サ－","Got it. I'm counting on you, Producer."
+0000000000000,プロデューサー,ちょっと柄の悪いク－ルアイドルって感じかな,Maybe a slightly thuggish cool idol.
+1011001030260,樹里,"待て待て待て！
+それ、アイドルとして大丈夫なのかよ！？",Wait just a damn minute! Is that even allowed for an idol!?
+0000000000000,プロデューサー,"大丈夫だ。むしろ、アイドルをやっていく上では
+強烈な個性が必要なんだよ","It's fine. Actually, on top of being an idol, you need a memorable gimmick."
+1011001030270,樹里,強烈な個性……？,Memorable gimmick...?
+1011001030280,樹里,"んなこと言われても、
+アイドルと柄の悪さって相性悪いんじゃね－のか？",That's cool and all but don't idols and thugs go really bad together?
+0000000000000,プロデューサー,"そんなことないさ
+アイドルにはギャップも大切だからな",Not at all. Idols are a land of contrasts.
+0000000000000,プロデューサー,"見た目でちょっと柄が悪そうに見えても、
+根が優しければ、ちゃんとファンもついてくれるんだよ","If you look like kind of a scumbag but you're actually nice, the fans will roll with it."
+1011001030290,樹里,ふ－ん……そういうもんなのか,Hrm... Is that how it goes?
+0000000000000,プロデューサー,わかってくれたか？,Know what I mean?
+1011001030300,樹里,"いまいち納得できね－けど、
+個性があった方がいいってのはわかった","Don't know if I'm down but yeah, I get that I should do something unique."
+1011001030310,樹里,"ユニットのみんなだって
+それぞれ違った強い個性を持ってるし……",Everyone in the unit has a strong personality in their own way...
+0000000000000,プロデューサー,"そうだろ？　だから樹里も樹里だけの
+アイドルの道を進めばいいと思うんだ",Right? So you should follow the path only you can as an idol.
+1011001030320,樹里,"で、アンタが考えるアタシの道が
+柄の悪いアイドル、か……","So, the only path you can come up for me is ""Thug idol,"" huh..."
+0000000000000,プロデューサー,"い、いや……あくまで「ちょっと柄の悪い」だからな
+あんまり俺を睨むなよ……","N-no... All I said was ""Slightly thuggish,"" so uh, stop looking at me like that..."
+1011001030330,樹里,"……まぁいいや。けっこ－自由にやれそうだし
+プロデュ－サ－の提案に乗ってみるかな",...Whatever. It'll let me get away with stuff so I'll play along.
+info,produce_events/101100103.json,
+译者,,

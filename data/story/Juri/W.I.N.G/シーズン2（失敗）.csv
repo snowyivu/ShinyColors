@@ -1,0 +1,34 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate.... I thought that since she was able to pass the first round of judging, she'd be able to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is very relentless, isn't it..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","However, these results aren't bad for a new idol and new producer."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！","But I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Okay, go ahead."
+0000000000000,プロデューサー,樹里、二次審査は通過できなかった……,"Juri, you didn't pass the second round..."
+7011001040010,樹里,そっか……,Oh...
+0000000000000,プロデューサー,"……すまない
+全部、俺の力が足りなかったせいだ",...Sorry. It's all because I didn't do enough.
+7011001040020,樹里,"……アンタのせいじゃね－よ
+アタシの力が足りなかったんだ",...It's not your fault. It was beyond my ability.
+7011001040030,樹里,"それに……アタシがアイドルとしての目標を作れたのは
+アンタのおかげなんだ。簡単に頭を下げんじゃね－よ",Besides... It's all thanks to you that I was able to set my goal as an idol. Don't sell yourself short.
+0000000000000,プロデューサー,樹里……,Juri...
+7011001040040,樹里,"それより、アタシが上に行くまで
+アンタには付き合ってもらうからな","Anyway, until I can do better, I'm going to keep you around."
+0000000000000,プロデューサー,ああ、もちろんだ……！,"Yeah, of course...!"
+0000000000000,プロデューサー,"それにしても、目標を見つけてから
+樹里はキラキラしてるな","You know, ever since you found your goal, you've been glowing."
+7011001040050,樹里,"な……う、うっせ－よ！
+ほら、いいから反省会するぞ！","Wha... S-shut up! Come on, we need to go over our strategy."
+info,produce_events/701100104.json,
+译者,,
