@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（ん……？　なんでこんなところに落書きが……？
+けしゴムで消えそうだが……）","(Hmm...? Why is there a scribble here...?
+Though it looks like it can be cleaned with an eraser...)"
+1005001000410010,摩美々,"プロデューサー
+デスクとにらめっこしてー、何かあったんですかぁ？","Producer, you're staring so hard at the desk,
+did something happen?"
+1005001000410020,摩美々,"ふふー
+変な顔ですねー","Fufu~
+You're making a weird face."
+0000000000000,プロデューサー,（摩美々……）,(Mamimi...)
+select,,消しなさい,Delete this
+select,,紙に描きなさい,Draw on paper
+select,,自分で消すか……,Clean by yourself...
+1005001000410030,摩美々,"なんでその落書き、私の仕業ってすぐわかるんですかぁ？
+……ふふー","How did you realize so quickly that that drawing was my doing?
+...Fufu~"
+1005001000410040,摩美々,"まぁ、怒られたら仕方ないですねー
+ちゃんと消しまぁす","Well, if you're going to get angry, it can't be helped
+I'll properly delete it."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1005001000410050,摩美々,"リクエストですかぁ？
+私の絵、気に入ってくれたんですねー","Is that a request?
+So you liked my picture that much."
+1005001000410060,摩美々,"じゃあ……
+今度は、絵を描いた紙をどこかに貼り付けておきますー","Then...
+From now on I'll draw on paper, and paste them all around the place."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1005001000410070,摩美々,"…………
+……その反応、何ですかぁ？","......
+...What's with that reaction?"
+1005001000410080,摩美々,"さらっと流すんですねー
+つまんない人ー……","Brushing it aside just like that
+What a boring person..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),"(Ah... I screwed up.
+I should have said something else...)"
+info,produce_communications/100500100041.json,
+译者,,
