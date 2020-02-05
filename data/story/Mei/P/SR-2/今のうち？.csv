@@ -3,7 +3,7 @@ id,name,text,trans
 0000000000000,プロデューサー,ん？,Hm?
 2019005110020,愛依,ほーら！　あそこの本屋だって！,Looook! That bookstore over there!
 0000000000000,プロデューサー,"お……あの雑誌
-この間の海の写真が載ってるやつだな","Oh... that magazine. It's the one with your
+この間の海の写真が載ってるやつだな","Oh... That magazine. It's the one with your
 beach photo from the other day in it."
 2019005110030,愛依,ちょい買ってきていい？,Is it okay if I buy a few?
 0000000000000,プロデューサー,"もちろんだ
@@ -31,7 +31,7 @@ you know, I feel I should do this much."
 2019005110100,愛依,"けどさ、下の弟とかちょいヤンチャだから
 たまに破っちゃったりすんの！","But well, my little brother is a rascal after all.
 He does tend to tear things up sometimes!"
-2019005110110,愛依,あ！　じゃあもっと買っといた方がよかったかも！？,Ah! Well maybe I should have bought even more then right!?
+2019005110110,愛依,あ！　じゃあもっと買っといた方がよかったかも！？,"Ah! Well, maybe I should have bought even more then, right!?"
 0000000000000,プロデューサー,それなら、買いに戻るか？,"If that's the case, should we return to shopping?"
 2019005110120,愛依,うーん……,Well...
 2019005110121,愛依,やっぱだいじょぶ！,It's probably fine!
@@ -85,6 +85,6 @@ do an interview? Of me just hanging out──"
 社長に怒られたらうちが謝るからさ！","It's fine, it's fine! If the company president
 gets upset I'll just apologize!"
 2019005110270,愛依,ほら！　早く行こう！,Come on! Let's go!
-0000000000000,プロデューサー,わっ、ちょ、ちょっと待ってくれ──！,"Wah, h-hey wait up!"
+0000000000000,プロデューサー,わっ、ちょ、ちょっと待ってくれ──！,"Wah, h, hey, wait up!"
 info,produce_events/201900511.json,
 译者,,
