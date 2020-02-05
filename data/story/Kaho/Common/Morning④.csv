@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"果穂、なんだかウキウキしてるな
+何かあったのか？","Kaho, you seem like you're in high spirits. Did something happen?"
+1009001000410010,果穂,"プロデューサーさん！
+さっき、道で四つ葉のクローバーを見つけたんです！",Producer-san! I just found a four-leaf clover on the way here!
+1009001000410020,果穂,えへへ、なんだかいいことがありそうです！,"Ehehe, it seems like something good's going to happen soon!"
+0000000000000,プロデューサー,ああ、そうだな……,"Yeah, that's right..."
+select,,"いいことがあったら
+教えてくれ","If something good
+happens, let me
+know."
+select,,"そのうち幸運が
+来るだろうな！","You're going to
+have good luck 
+sometime soon!"
+select,,もう来てるかも？,"Maybe it already
+happened?"
+1009001000410030,果穂,"はいっ！
+プロデューサーさんも、楽しみにしててください！",Yes! You look forward to it too!
+1009001000410040,果穂,"えへへ、アイドルのお仕事、毎日スゴく楽しいのに……
+さらにいいことがあるなんて、とってもうれしいです！","Ehehe, every day working as an idol is fun, but... knowing that something good is going to happen makes me so happy!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1009001000410050,果穂,"わぁ……！
+いつ来るか、ドキドキしちゃいます！",Wow...! I'm excited to see when it happens!
+1009001000410060,果穂,"いいこと、いつあるかなぁ……
+えへへ、楽しみですっ","I wonder when it'll happen... ehehe, I can't wait."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1009001000410070,果穂,え、そうなんですか？,"Eh, really?"
+1009001000410080,果穂,"うー、気づかないうちに終わっちゃったんですねー……
+ちょっと寂しいです……","Aw, it ended without me noticing... that's a little sad..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
+info,produce_communications/100900100041.json,
+译者,,
