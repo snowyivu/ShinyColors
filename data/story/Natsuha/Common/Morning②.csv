@@ -1,33 +1,33 @@
 id,name,text,trans
-1013001000210010,夏葉,この問いは……,So this would be......
+1013001000210010,夏葉,この問いは……,So this would be...
 0000000000000,プロデューサー,"おはよう
-……学校の課題か、仕事との両立は大変そうだな","Good morning
-......Is that school work? Balancing it with work seems tough."
+……学校の課題か、仕事との両立は大変そうだな","Good morning.
+...Is that school work? Balancing classes with work seems tough."
 1013001000210020,夏葉,"問題ないわ
 もちろん、どちらも手は抜いていないわよ？","It's not a problem
 Of course, I make sure to do both properly."
-0000000000000,プロデューサー,（夏葉はこう言っているが……）,"(She says that, but......)"
-select,,結果は伴うかな？,"I wonder if 
-that will get results?"
-select,,成績良さそうだな,"Your grades 
+0000000000000,プロデューサー,（夏葉はこう言っているが……）,"(She says that, but...)"
+select,,結果は伴うかな？,"Will that get
+you results?"
+select,,成績良さそうだな,"Your grades
 must be good."
 select,,加減しないと,"You should do
 it in moderation."
 1013001000210030,夏葉,"結果ですって？
-ふふっ、甘く見ないでもらいたいわね","""Results"" you say?
+ふふっ、甘く見ないでもらいたいわね","""Results,"" you say?
 Fufu, you shouldn't take me so lightly."
 1013001000210040,夏葉,"もちろんそうしてみせるわ
-目指すはトップよ！","Of course I'll show you results
-I am aiming for the top!"
+目指すはトップよ！","Of course I'll show you results.
+I'm aiming for the top!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
 1013001000210050,夏葉,え、ええ。悪くはないわよ？,"Y-Yes, they're not bad."
 1013001000210060,夏葉,"だけど、トップクラスではないのよね
-もっと努力しないといけないわ","Though, they're not the best in my class
+もっと努力しないといけないわ","Though, they're not the highest in my class
 I can't afford to not put in the effort."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1013001000210070,夏葉,加減？　私は中途半端が好きじゃないの！,In moderation? I don't like doing things halfway!
-1013001000210080,夏葉,やるかやらないか、それ以外は考えられないわね,"Whether or not I do something
-I couldn't consider doing things any other way"
+1013001000210070,夏葉,加減？　私は中途半端が好きじゃないの！,Moderation? I can't stand doing things halfway!
+1013001000210080,夏葉,やるかやらないか、それ以外は考えられないわね,"I do it, or I don't.
+I can't think of any other way."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
 I should have said something else……)"
 info,produce_communications/101300100021.json,

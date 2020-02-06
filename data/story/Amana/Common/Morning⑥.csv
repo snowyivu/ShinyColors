@@ -1,0 +1,43 @@
+id,name,text,trans
+0000000000000,プロデューサー,どうした？　少し元気ないな,What's wrong？You seems a bit down.
+1014001000610010,甘奈,"うーん
+最近、少しハードだったからちょっと疲れてるのかもね","Yeah.
+Lately, it's getting a little bit hard so maybe I'm a little tired."
+1014001000610020,甘奈,"でも、大丈夫だよ☆
+今日もがんばらないとね！","But don't worry☆
+I'll do my best for today too！"
+0000000000000,プロデューサー,（ここはひとつ、元気づけよう）,（Here's something to cheer her up...）
+select,,俺も一緒に頑張るぞ,"I'll do my best
+with you too."
+select,,"ストレッチをすると
+少し楽になるぞ","If you do a
+little stretch,
+you'll feel better."
+select,,"時々、
+休むのも大事だぞ","Sometimes,
+it's important to
+rest too."
+1014001000610030,甘奈,"ほんとー？
+えへへ、それなら甘奈もがんばれちゃうかな☆","Really～？
+Ehehe, well then, Amana sure can do her best too☆"
+1014001000610040,甘奈,"励ましてくれたんだよね？
+ありがと、プロデューサーさん！","You're encouraging me, right？
+Thanks a lot, Producer-san！"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1014001000610050,甘奈,"こうかな？
+……んー、確かにちょっと身体が軽くなった気がするよ！","Like this？
+……Hmm, that's right, I feel a bit lighter than before！"
+1014001000610060,甘奈,"これから疲れた時は
+ストレッチをしてみるね！","From now on, if I'm tired,
+I'll try to stretch more, okay！"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1014001000610070,甘奈,"うん
+休むのが大事だってこと、甘奈もわかってるよ","Yeah.
+Resting is very important, even Amana knows that too."
+1014001000610080,甘奈,"でも、レッスンも大事だから、
+普段からの管理を気を付けるね！","However, lesson is just as important too,
+let's be more careful about managing it！"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101400100061.json,
+译者,,

@@ -1,0 +1,37 @@
+id,name,text,trans
+1013001000910010,夏葉,うふふ。ねぇ、聞いてプロデューサー,"Ufufu. Hey, listen to this, Producer."
+0000000000000,プロデューサー,どうした？　何かいいことでもあったのか？,What's up? Did something good happen?
+1013001000910020,夏葉,ええ！　さっき事務所の前で散歩中の犬を見かけたのよ,Yes! I saw a dog on my walk over to the office.
+0000000000000,プロデューサー,なるほど……,I see...
+select,,犬、かわいいよな,"Dogs are cute,
+aren't they?
+"
+select,,犬が好きなんだな,"So you like
+dogs, I see."
+select,,"犬もいいけど
+猫もいいよな","Both dogs and
+cats are good,
+I think."
+1013001000910030,夏葉,"かわいいわよね！　
+私も飼ってるんだけど……あ、そうだわ！","They are! I actually have a dog at home...
+Oh, that's right!
+"
+1013001000910040,夏葉,"カトレアの写真、ちょうど持ってたの！
+見て、とても可愛らしいのよ♪","I took some great photos of Cattleya!
+Look, these are so cute ♪"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1013001000910050,夏葉,"ええ、好きよ
+プロデューサーはどう？","Yes, I like them.
+What about you, Producer?
+"
+1013001000910060,夏葉,"私は、特にゴールデンレトリーバーみたいな
+大型のものが好きね","I like dogs like Golden
+Retrievers in particular."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1013001000910070,夏葉,プロデューサーは猫が好きなのかしら？,"Do you like cats, Producer?"
+1013001000910080,夏葉,猫にはあまり詳しくないのよね……,"I don't really know much about cats, to be honest..
+"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101300100091.json,
+译者,,

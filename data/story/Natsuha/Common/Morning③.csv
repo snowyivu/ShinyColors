@@ -1,18 +1,18 @@
 id,name,text,trans
-1013001000310010,夏葉,ふぅ……おはよう、プロデューサー,"Whew...... Good morning, Producer."
+1013001000310010,夏葉,ふぅ……おはよう、プロデューサー,"Whew... Good morning, Producer."
 0000000000000,プロデューサー,"おはよう、夏葉
-少し顔が赤いな、どうかしたのか？","Good morning, Natsuha
-Your face looks a bit red. Were you doing something?"
-1013001000310020,夏葉,ええ、時間があったから少し走ってきたのよ,"Yes, I go running when I have a bit of time"
-0000000000000,プロデューサー,（朝から精が出るな……）,(Even in the morning she has this much energy......)
+少し顔が赤いな、どうかしたのか？","Good morning, Natsuha.
+Your face looks a bit red. Did you just get done with something?"
+1013001000310020,夏葉,ええ、時間があったから少し走ってきたのよ,"Yes, I go running when I have a bit of time."
+0000000000000,プロデューサー,（朝から精が出るな……）,(Even in the morning she has this much energy...)
 select,,"それじゃあこのまま
-自主レッスンだな","I suppose it's like a 
-self-imposed 
-training session"
-select,,俺も走ってみるかな,"Maybe I should 
-take up running too"
+自主レッスンだな","It's like you're
+doing independent
+lessons."
+select,,俺も走ってみるかな,"Maybe I should
+take up running too."
 select,,疲れないのか？,Aren't you tired?
-1013001000310030,夏葉,自主レッスン？　ふふっ、いいアイデアね！,"Self-imposed training? Fufu, I like the sound of that!"
+1013001000310030,夏葉,自主レッスン？　ふふっ、いいアイデアね！,"Independent lessons? Fufu, I like the sound of that!"
 1013001000310040,夏葉,"ちょうど体もあったまってきたし
 この勢いでやっちゃいましょう","I'm all warmed up now
 Let's keep this momentum going!"
