@@ -68,68 +68,86 @@ will be able to soar to even greater heights."
 1901001010120,はづき,"では、そろそろお仕事に移ってもらいましょうか
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
-1901001010210,はづき,"プロデューサーさんが書類で合格を出した子ですけど……
-今の時間は、ダンスレッスン場にいるみたいですよ","Actually, it's the applicant your approved, but...
-It looks like she's in the dance studio, right now."
-0000000000000,プロデューサー,"そうですか
-じゃあ、会いに行ってきます","Is she?
-I'll go and meet her there then."
-0000000000000,プロデューサー,"（……有栖川夏葉さん、か。いいところの
-お嬢様みたいだけど、いったいどんな子だろう……）","(...Natsuha Arisugawa, huh? She seems to be the
-daughter of a wealthy family, but just what kind of person is she...?)"
-1013001010010,夏葉,ワン、ツー、スリー、フォー！,"One, two, three, four!"
-0000000000000,プロデューサー,"（……すごい熱気だな
-邪魔するのも良くないし、このまま待っていよう）","(...She's incredibly enthusiatic
-I'd probably just get in her way, so I think I'll wait here)"
-1013001010020,夏葉,アナタが私のプロデューサーね？,"You're my producer, correct?"
-0000000000000,プロデューサー,ああ、君が有――,"Ahh, you're Natsu──"
-1013001010030,夏葉,いい？　目指すならトップだけよ！,Listen. We're setting our sights for the top! Got it?
-0000000000000,プロデューサー,……え、えーっと？,...U-Uhh?
-1013001010040,夏葉,"あら、何を呆けているのかしら
-当然のことでしょう！","My, I wonder what has you stunned?
-Isn't it natural?"
-1013001010050,夏葉,"アイドルだろうとなんだろうと、
-世界一以外の目標はありえないわ！","Whether it's being an idol, or anything else,
-it would be to be unthinkable to go for anything but
-number one in the world."
-1013001010060,夏葉,"アナタも私のプロデューサーなら
-そのつもりでいなさい！","You're my producer,
-So you must act accordingly!"
-0000000000000,プロデューサー,"……わかった。じゃあ、そのために
-どうすればいいか、一緒に考えていこう","...I understand. So to that end,
-we should discuss our steps moving forward."
-1013001010070,夏葉,いいえ、その必要はないわ,"No, that won't be necessary."
-0000000000000,プロデューサー,どういうことだ？,What do you mean?
-1013001010080,夏葉,"アイドルのプロデュースならアナタのほうが
-経験があるかもしれないけど","You must have some experience when
-it comes to managing idols"
-1013001010090,夏葉,"有栖川夏葉のプロデュースなら私のほうが
-経験が長いというだけの話よ","But it's a different story when it comes to me.
-I can manage myself better than anyone else."
-1013001010100,夏葉,"だからアナタは何も考えなくていいの
-全部私に任せておきなさい","So there's nothing to figure out.
-You can leave everything to me."
-0000000000000,プロデューサー,"うーん……さすがにそういうわけにもいかないけど、
-君の意見はできるだけ取り入れていくことにしよう","Hm... We can't exactly do things like that,
-but I can certainly take what you have to say into account."
-0000000000000,プロデューサー,"それと、君には『放課後クライマックスガールズ』という
-五人組ユニットで活動してもらうことになっているが……","Also, going forward you'll be conducting activities 
-as one of the five members of the unit ""Houkago Climax Girls""."
-1013001010110,夏葉,別にいいわよ,That's fine.
-1013001010120,夏葉,"ソロだろうとユニットだろうと、
-私がトップを目指すことには変わりないもの","Whether I'm in a unit or not,
-I would still be aiming for the top."
+1901001010220,はづき,"オーディションで選んでください～
+こちらは、オーディションを受ける子たちの資料になります",You'll be picking from the audition's results～ Here it is、the profile for every girl that is participating on the audition.
+0000000000000,プロデューサー,"なるほど……わかりました
+じゃあ、行ってきますね","I see…… Understood.
+Well then, it's time to go."
+0000000000000,プロデューサー,それでは、次の方どうぞ,"And the next one, please"
+1014001010010,？？？,よっろしくお願いしまーす☆,Pleased to meet you☆
+0000000000000,プロデューサー,"こちらこそ、よろしくお願いします
+まずは、名前から教えてもらっていいかな？","Pleased to meet you too. 
+Firstly, can you tell me your name?"
+1014001010020,甘奈,"はーい
+大崎甘奈です。17歳だよ！","Okay.
+I'm Amana Osaki, 17 years old！"
+0000000000000,プロデューサー,"オーディションは緊張する子が多いけど、
+大崎さんは元気がいいね","Most auditioners are usually pretty nervous, 
+but it seems you're pretty lively yourself."
+1014001010030,甘奈,えへ、学校でもそーゆーの、よく言われるかな☆,"Ehe, everyone told me that, even at school☆"
 0000000000000,プロデューサー,"そうか
-じゃあ、これからよろしく頼むよ","I see.
-Then, I look forward to working with you. "
-1013001010130,夏葉,"ええ
-しっかり私についてきなさい、プロデューサー","Yes. Come at me with
-everything you have, Producer "
-0000000000000,プロデューサー,"（……清楚なお嬢様を想像してたけど、
-かなり芯の強い女の子なんだな）","(...I imagined a prim and proper lady, but
-it seems she's made of pretty stern stuff.)"
-0000000000000,プロデューサー,"（よし、この個性をなるべく活かしていけるよう
-頑張ってプロデュースしていこう）","(Alright, as her producer I'll do my best
-to capitalize on her personal quirks.)"
-info,produce_events/101300101.json,
+大崎さんは、学校ではどんな感じなの？","I see.
+Osaki-san, what are you like at school？"
+1014001010040,甘奈,"うーんとねー……友達とファッションのお話したり、
+放課後にはショッピングしたりしてるよー","Let me think…… I talk about fashions with my friends,
+and does some shopping after school too～. "
+1014001010050,甘奈,あ、最近は自撮りがマイブームかな☆,"Ah, lately my selfies has become booming too☆"
+0000000000000,プロデューサー,学校、楽しそうだね,It seems you're having fun at school.
+1014001010060,甘奈,"もっちー！
+あとギャルっぽい見た目のことをよく聞かれるんだけどね","Of course～！
+Also, I often got told that I really look like a gal."
+1014001010070,甘奈,"これも、
+今しかできないことを全力で楽しみたいからなんだ","So for now,
+I just want to enjoy everything I can do in present."
+0000000000000,プロデューサー,"（ファッションだけじゃなく、生き方まで
+自分のポリシーをしっかり持っている子みたいだな）","（Not only just fashion, but she's solid in her way of life. It seems she has her life policies set already.）"
+0000000000000,プロデューサー,"じゃあ、このオーディションに参加した理由を
+聞いてもいいかな？","Well, can I ask the reason why did you
+entered this audition？"
+1014001010080,甘奈,"それはね、
+甜花ちゃんと一緒にアイドルになりたいからだよ","About that,
+it's because I want to become idol along with Tenka-chan. "
+0000000000000,プロデューサー,"甜花ちゃん……
+あぁ、書類で見たよ。お姉さんかな？","Tenka-chan……
+Aah, I read it on your profile. Is she your big sister？"
+1014001010090,甘奈,"そうそう！
+甜花ちゃんってね、めっちゃかわいーんだー！","Yep, yep！
+Tenka-chan, is super duper cute～！"
+1014001010100,甘奈,"甜花ちゃんがアイドルになったら、
+みんなメロメロになっちゃうよ！","If Tenka-chan becomes an idol,
+everyone's gonna be heads over heel for her！"
+0000000000000,プロデューサー,大崎さんは、お姉さんのことが好きなんだね,"Osaki-san, you sure love your sister a lot."
+1014001010110,甘奈,もち、大好きだよー☆,"Of course, I like her a lot～☆"
+0000000000000,プロデューサー,"素敵な姉妹愛だね。ただ、
+今は甘奈さんのオーディションだから他の話もいいかな","What a lovely sister's bond. However,
+remember, it's your audition right now. "
+1014001010120,甘奈,"えへ、そうだったね
+えっと、志望理由だよね","Ehe, you're right.
+Well, I guess there's another reason, yeah. "
+1014001010130,甘奈,"甘奈はね、甜花ちゃんと一緒にアイドルになって、
+キラキラ輝きたいって思ってるんだー","Amana too, wants to become an idol with Tenka-chan,
+and maybe shines bright for a bit～"
+1014001010140,甘奈,それじゃダメかな？,Is that a no-no？
+0000000000000,プロデューサー,アイドルというのは、思っている以上に大変だぞ,"Being an idol is harder than you think, you know."
+1014001010150,甘奈,"だいじょうぶ！
+軽い気持ちで言ってるわけじゃないよ","It's alright！
+I didn't say it's gonna be piece of cake or anything, after all. "
+1014001010160,甘奈,"やるからには真剣にやるつもり
+サポートしてくれる事務所の人に迷惑とか、かけたくないしね","I'll do things seriously. For everyone in the office who supported me, I don't want to trouble them."
+0000000000000,プロデューサー,（おっ、意外と真面目なんだな）,"（Oh, she's quite serious about this.）"
+0000000000000,プロデューサー,"（……アイドルとしての魅力は充分あるし、
+それに、しっかりした性格みたいだ）","（……She already has enough appeal as an idol,
+and also, her personality is great as well.）"
+0000000000000,プロデューサー,"（仲のいい双子アイドルか……
+うん、良いかもしれないな）","（She can be a great twin idol with her sister……
+Yeah、I think we can do this.）"
+0000000000000,プロデューサー,大崎さん、オーディション、合格だよ,"Osaki-san, you passed the audition."
+1014001010170,甘奈,"え、ホント？
+甘奈、合格？","Eh, really？
+Amana passed？"
+0000000000000,プロデューサー,あぁ！　これから一緒にがんばっていこう！,Yeah！Let's do our best from now on！
+1014001010180,甘奈,"やったぁ
+こちらこそ、よろしくお願いしまーす！","Hooray~
+Likewise, please take care of me！"
+info,produce_events/101400101.json,
 译者,,

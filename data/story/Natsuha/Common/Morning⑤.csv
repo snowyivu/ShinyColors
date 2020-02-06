@@ -4,10 +4,11 @@ id,name,text,trans
 if you keep hunching over your laptop."
 0000000000000,プロデューサー,本当だ、気を付けないとな,"Yeah, you're right. I should probably be more careful."
 1013001000510020,夏葉,ほら、真っすぐ伸ばしなさい？,"Come on, let's see you straighten up a bit."
-0000000000000,プロデューサー,夏葉はいつも姿勢がいいよな……,"You always keep a good posture, huh Natsuha?"
+0000000000000,プロデューサー,夏葉はいつも姿勢がいいよな……,"You always keep a good posture, huh, Natsuha?"
 select,,見習いたいな,"I should follow
 your example."
-select,,コツはあるのか？,Is there a trick to it?
+select,,コツはあるのか？,"Is there a
+trick to it?"
 select,,どうしてだ？,Why is that?
 1013001000510030,夏葉,私の真似を？　なら、普段から私のことをよく見てなさい！,"You're going to copy me? In that case, you should
 make it a habit to watch me closely!"
@@ -15,7 +16,7 @@ make it a habit to watch me closely!"
 うふふ、気が引き締まるわ","Though if I'm to set an example for you,  I should be more careful
 Ufufu, I'm starting to get serious"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
-1013001000510050,夏葉,コツ？　……そうね、あるとすればひとつだけ,"Trick? ......Yes, I suppose there is one."
+1013001000510050,夏葉,コツ？　……そうね、あるとすればひとつだけ,"Trick? ...Yes, I suppose there is one."
 1013001000510060,夏葉,"常に気を付けることよ！　
 いつも人に見られていると思えばいいわ","Always keep yourself in check!
 It might help if you think that you're always being watched."
