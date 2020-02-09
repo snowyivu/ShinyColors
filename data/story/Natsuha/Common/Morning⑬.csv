@@ -1,0 +1,38 @@
+id,name,text,trans
+1013001001310010,夏葉,"プロデューサー
+ちょっといいかしら？","Producer, do you have a moment?"
+0000000000000,プロデューサー,どうした？,What's up?
+1013001001310020,夏葉,"新しいことに挑戦したいと思うんだけど……
+何がいいかしら？","I'm trying to challenge myself by trying something new, but...
+What do you think would be good?
+"
+0000000000000,プロデューサー,（新しいことか……何があるだろう？）,(Something new... What could it be?
+select,,宇宙旅行だ,Space travel.
+select,,武術とか,"How about
+martial arts?"
+select,,お笑いかな,"Maybe a
+comedy routine?"
+1013001001310030,夏葉,"えっ宇宙旅行！？　
+さすがにそれは無理よ！","Wha─ space travel!?
+Now that's completely impossible!"
+1013001001310040,夏葉,"でもスケールの大きさとしては最大級ね！
+できるものならいつかやりたいわ！","Though the scale you're thinking on is top class!
+I'd like to try it some day if it is possible."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1013001001310050,夏葉,武術……なるほど、新しい方向性の鍛え方ね,Martial arts... I get it. Focusing my discipline in a new direction.
+1013001001310060,夏葉,"悪くはないけど
+ただ、もうちょっと別のことをしてみたいわ","It's not a bad idea, but it's just that I was thinking of something
+that's a bit more different from what I already do.
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1013001001310070,夏葉,"お、お笑い？
+うーん……","C-Comedy routine?
+Err...
+"
+1013001001310080,夏葉,"ごめんなさい
+私、お笑いはあまりよくわからないわ","I'm sorry.
+I don't really get that sort of thing."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101300100131.json,
+译者,,

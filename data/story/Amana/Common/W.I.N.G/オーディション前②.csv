@@ -1,0 +1,32 @@
+id,name,text,trans
+4014001000120010,甘奈,"レッスンの成果出し切れるかな？
+……ちょっぴり不安かも","Can the lessons' result really be realized？
+……I'm feeling anxious."
+0000000000000,プロデューサー,"（よし、何か言葉をかけて
+甘奈の不安を拭い去ろう……）","（Alright、I have to say something
+to ease Amana's mind for a bit……）"
+select,,"ちょっと
+ステップしてみよう！","Let's try
+reviewing the
+steps for a bit！"
+select,,"自分を
+信じれば大丈夫だ","It'll be okay
+if you believe
+in yourself."
+select,,"少しくらい
+不安な方がいい","It's alright to
+feel anxious 
+a bit."
+4014001000120020,甘奈,"えーっと……ワン、ツー……あ、大丈夫そう！
+これをそのまま披露すればいいんだね。ありがと！","Well…… One、two…… Ah、I feel it'll be fine！ You really just have to review it for a bit, huh. Thanks！"
+0000000000000,プロデューサー,（どうやら不安は取り除けたようだな）,（It seems her anxiety is gone for now.）
+4014001000120030,甘奈,"……そーだね……そうしてみる！
+うんっ、ありがと、気持ちだけは楽になったかな","……That's right…… Just gotta believe it！
+Yep, thanks a lot, I feel a bit more lighter now."
+0000000000000,プロデューサー,（少しは楽になってもらえたかな）,（I hope she really did feel lighter for a bit.）
+4014001000120040,甘奈,"うーん……そういうものなのかなぁ？
+甘奈にはちょっとわかんないかもー","Hmm…… Is that really true？
+Amana's not really sure about it."
+0000000000000,プロデューサー,（うーん、甘奈はこういう考え方はしないようだ）,"（Hmm, it seems Amana doesn't get that well.）"
+info,produce_communication_cheers/401400100012.json,
+译者,,
