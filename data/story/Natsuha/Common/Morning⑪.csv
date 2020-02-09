@@ -1,0 +1,39 @@
+id,name,text,trans
+1013001001110010,夏葉,"あっ、プロデューサー
+コンビニのご飯ばかりじゃ健康的とは言えないわね","Ah, Producer. Only eating food from the
+convinince store is bad for you, you know?"
+0000000000000,プロデューサー,……確かにそうだな……,"...Yeah, you're right..."
+1013001001110020,夏葉,自分で作ると健康にいいものも作れるし、オススメよ？,"It's much easier to eat healthy food when you make it yourself.
+Would you like some recommendations?"
+0000000000000,プロデューサー,（自炊か……）,(Cooking for myself...)
+select,,作り方を教えてくれ,"Could you
+teach me how?"
+select,,"やっぱり
+いい材料を使うのか？","I figure it's about
+the right ingredients?
+"
+select,,大変そうだな,"Sounds like a
+lot of trouble."
+1013001001110030,夏葉,"作り方ね、もちろんいいわ♪
+教えたらちゃんと毎日作るのよ？","Of course I can teach you ♪
+If I do, you'll make your own food every day, right?"
+1013001001110040,夏葉,"アナタが身体を壊すと私たちみんな困るんだから
+体調管理はしっかりね？","If your body starts failing you, it would affect us too,
+so be sure to watch your health, ok?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1013001001110050,夏葉,"確かにいいものを使えばおいしいものはできるけど
+そればかりじゃ栄養が偏るわ","It's true, good food requires using the right ingredients,
+but we have to take nutrition into account."
+1013001001110060,夏葉,"そういうバランスに気を付けるためにも
+自分で作るのが１番！　外食じゃそうはいかないわよ","Making your own food is most important when trying to
+keep a balanced diet. That makes eating out is a no-go.
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1013001001110070,夏葉,何を言っているの？　身体を壊すほうがよっぽど大変だわ,"What are you saying? It would be far worse
+if you damaged your health."
+1013001001110080,夏葉,体調管理の為には自炊を選択するのが当然よ,"Preparing your own food for the sake of
+your health should be a given."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101300100111.json,
+译者,,

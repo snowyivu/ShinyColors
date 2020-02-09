@@ -16,7 +16,7 @@ text,trans,type
 お手製差し入れ,Use Handmade Goods,text
 プチセレクションチケット,Petit Selection Ticket,text
 集めるとチケット交換で特定のアイドルと交換できるチケットです,Collect and exchange tickets for a specific idol with ticket exchange,text
-「プロ根性」：メンタルが極小時にパーフェクトアピールを行う,「Pro Guts」：Do a Perfect Appeal when Mental is Lowest,text
+「プロ根性」：メンタルが極小時にパーフェクトアピールを行う,[Pro Guts]: Do a Perfect Appeal when your Mental is at the lowest,text
 SR以上確定ガシャチケット,SR+ Gacha Ticket,text
 SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha Ticket,text
 リカバリーソーダ1/4,Recovery Soda 1/4,text
@@ -32,10 +32,10 @@ SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha T
 ずっと、ずっと、お傍においてくださいませ……,"Forever and ever, please stay with me…",text
 白い翼を持ったアイドルで、パラダイスを制することができるか？,Can a White-Wing idol conquer paradise?,text
 繰り返し限界を超え、絶対に折れない心を手に入れるんだ,"Go past the limit, and achieve a heart that never breaks.",text
-ねえねえ、プロデューサー！ なんだかトップアイドルになれそうな気がするよー！,"Hey hey, Producer! I somehow feel like I can become a top idol-!",text
-限界を超えればまた限界がやってくる。くじけずに歌い続けるのだ,If you exceed your limit you'll find a new limit.  Keep singing without faltering.,text
+ねえねえ、プロデューサー！ なんだかトップアイドルになれそうな気がするよー！,"Hey hey, Producer! I somehow feel like I can become a top idol!",text
+限界を超えればまた限界がやってくる。くじけずに歌い続けるのだ,If you exceed your limit you'll find a new limit. Keep singing without faltering.,text
 パラダイスを制する……魅惑的な響きだと思わないか？,Conquering Paradise… Don't you think that sounds fascinating?,text
-「光り輝くアイドルの誕生だ」,「The birth of a Shining Idol」,text
+「光り輝くアイドルの誕生だ」,"""The birth of a Shining Idol""",text
 オーバーキャストモノクローム交換チケット,Overcast Monochrome Exchange Ticket,text
 オーバーキャストモノクロームと交換できるチケットです,Can receive with an Overcast Monochrome Exchange Ticket,text
 ゲームにログインしよう,Log in to the Game,text
@@ -43,9 +43,9 @@ SR以上確定ガシャが引けるチケットです,Can Receive an SR+ Gacha T
 283くじの抽選が受けれるチケットです。,Can receive a 283 Raffle Ticket,text
 W.I.N.G.決勝に進出しよう,Pass W.I.N.G. Semi-Finals,text
 W.I.N.G.を優勝しよう,Win W.I.N.G.,text
-「伝説の一瞬」：1回のアピールで全ての審査員からラストアピールを獲得する,「Legendary Moment」：Earn Last Appeal on all judges with a single Appeal,text
-「完全掌握」：全ての審査員からトップアピールを獲得する,「Complete Control」：Earn Top Appeal on all judges,text
-「パーフェクトライブ」：全ての審査員からトップアピールとラストアピールを獲得する,「Perfect Live」：Earn Top and Last Appeal on all judges,text
+「伝説の一瞬」：1回のアピールで全ての審査員からラストアピールを獲得する,[Legendary Moment]: Last Appeal on all judges with a single appeal.,text
+「完全掌握」：全ての審査員からトップアピールを獲得する,[Complete Control]: Earn Top Appeal on all judges,text
+「パーフェクトライブ」：全ての審査員からトップアピールとラストアピールを獲得する,[Perfect Live]: Earn Top and Last Appeal on all judges,text
 SR特訓はづきさん（サポート）,SR Evolve Hazuki (Support),text
 SRのサポートアイドルを特訓します,Evolves an SR Support Idol,text
 SR特訓はづきさん（プロデュース）,SR Evolve Hazuki (Produce),text
@@ -56,8 +56,8 @@ SSR特訓はづきさん（サポート）,SSR Evolve Hazuki (Support),text
 SSRのサポートアイドルを特訓します,Evolve an SSR Support Idol,text
 SSR特訓はづきさん（プロデュース）,SSR Evolve Hazuki (Produce),text
 SSRのプロデュースアイドルを特訓します,Evolve an SSR Produce Idol,text
-【W.I.N.G.編】いずれかのアイドルのTrueEndを見よう,【W.I.N.G.】Reach the True End of any idol,text
-【W.I.N.G.編】W.I.N.G.決勝に進出しよう,【W.I.N.G.】Advance to W.I.N.G. Finals,text
+【W.I.N.G.編】いずれかのアイドルのTrueEndを見よう,[W.I.N.G.] Reach the True End of any idol,text
+【W.I.N.G.編】W.I.N.G.決勝に進出しよう,[W.I.N.G.] Advance to W.I.N.G. Finals,text
 ファン感謝祭をクリアしよう,Clear Thanks Flapping Day,text
 ファン感謝祭でMVPを1回取ろう,Recieve the MVP award in Thanks Flapping Day,text
 プロデュースを開始しよう,Start a Produce Run,text
@@ -65,8 +65,8 @@ SSRのプロデュースアイドルを特訓します,Evolve an SSR Produce Ido
 「オールアイドル感謝FESTIVAL」に2回合格しよう,Pass 「オールアイドル感謝FESTIVAL」2 Times,text
 「夕方ワイド アイドル一番！」に1回合格しよう,Pass 「夕方ワイド アイドル一番！」1 Time,text
 「踊っていいとも？増刊号」に1回合格しよう,Pass 「踊っていいとも？増刊号」 1 Time,text
-「SPOT LIGHTのせいにして…」に1回合格しよう,Pass 「SPOT LIGHTのせいにして…」 1 Time,text
-「THE LEGEND」に3回合格しよう,Pass 「THE LEGEND」 3 Times,text
+「SPOT LIGHTのせいにして…」に1回合格しよう,"Pass ""SPOT LIGHTのせいにして…"" 1 Time",text
+「THE LEGEND」に3回合格しよう,"Pass ""THE LEGEND"" 3 Times",text
 櫻木真乃,Mano Sakuragi,name
 風野灯織,Hiori Kazano,name
 八宮めぐる,Meguru Hachimiya,name
@@ -124,15 +124,15 @@ $nounに$num回参加しよう,Participate in $1 $2 times,exp
 $nounを$num回プレイしよう,Play $1 $2 Times,exp
 フェスアイドルを$num人誕生させよう,Create $1 Fes Idols,exp
 $nounに参加して、$nounを達成しよう,Join $1 and earn $2,exp
-「$noun」：条件を満たすことで発動できる特別なスキル,「$1」：A special skill that can be activated by satisfying the conditions,exp
+「$noun」：条件を満たすことで発動できる特別なスキル,[$1]: A special skill that can be activated by satisfying the conditions,exp
 $nounに参加して、$nounを$num回達成しよう,Join $1 and earn $2 $3 times,exp
-「$noun」：アピールメーターを$nounの位置で止める,「$1」：Stop the appeal meter at $2,exp
-「$noun」：$num人の$nounから$nounと$nounを獲得する,「$1」：Get $4 and $5 from $2's $3,exp
+「$noun」：アピールメーターを$nounの位置で止める,[$1]: Stop the appeal meter at $2,exp
+「$noun」：$num人の$nounから$nounと$nounを獲得する,[$1]: Get $4 and $5 from $2's $3,exp
 $noun以上の$nounに参加して、$nounを$num回達成しよう,"Join $1 or above $2, and earn $3 $4 times",exp
 $nounに参加して、$num位になろう,"Participate in $1, and earn $2 place",exp
 $noun以上の$nounに参加して、$num位になろう,"Participate in $1 $2 or above, and earn $3 place",exp
 $nounの$nounに参加して、$num位になろう,"Participate in $1 $2, and earn $3 place",exp
-【$note】$nounの$nounに参加して、$num位に$num回なろう,【$1】Participate in $2 $3 and earn $4 place $5 times,exp
+【$note】$nounの$nounに参加して、$num位に$num回なろう,[$1]: Participate in $2 $3 and earn $4 place $5 times,exp
 $nounの$nounに参加して、$num位以上になろう,Join $1 $2 and earn rank $3 or above,exp
 $noun全員を編成して、$noun以上の$nounに参加しよう,"With all members of $1, participate in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounに$num回参加しよう,"With all members of $1, participate in $2 or above $3 $4 times",exp
@@ -141,7 +141,7 @@ $noun全員を編成して、$nounで$num位に$num回なろう,"With all member
 $noun全員を編成して、$noun以上の$nounで$num位になろう,"With all members of $1, earn rank $4 in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounで$nounを達成しよう,"With all members of $1, achieve $4 in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,"With all members of $1, achieve $4 in $2 or above $3 $5 times",exp
-【$note】$noun全員を編成して、$nounの$nounで$num位になろう,"【$1】With all members of $2, earn rank $5 in $3's $4",exp
+【$note】$noun全員を編成して、$nounの$nounで$num位になろう,"[$1]: With all members of $2, earn rank $5 in $3's $4",exp
 $nameのファンを累計で$num人獲得しよう,Earn $2 total fans for $1,exp
 $nameのファンを累計で$num万人獲得しよう,Earn $20000 total fans for $1,exp
 $nameのファンを累計で$num億人獲得しよう,Earn $200000000 total fans for $1,exp
@@ -151,7 +151,7 @@ $nameのファンを累計で$num億人獲得しよう,Earn $200000000 total fan
 $nameの思い出レベルを$numにしよう,Reach Memory Level $2 with $1,exp
 $nounで$num回勝利しよう,Win $2 times in $1,exp
 $nounで$nounを達成しよう,Achieve $2 in $1,exp
-「$noun」：$nounボーナスを獲得する,「$1」：Get $2 Bonus,exp
+「$noun」：$nounボーナスを獲得する,[$1]: Get $2 Bonus,exp
 $nounで$nounを$num回達成しよう,Get $2 $3 times in $1,exp
 $nounをプレイしよう,Play $1,exp
 $nounで勝利しよう,Win with $1,exp
@@ -160,13 +160,13 @@ $nounのメンバーを全員入れたデッキでフェスアイドルを誕生
 シーズン$numをクリアしよう,Clear Season $1,exp
 $nameのフェスアイドルを誕生させよう,Create a $1 Fes Idol,exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$1,exp
-センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
+センターに$nameを編成して、$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve ""$4""",exp
 $nameのユニットで、強力なライバルに対して\n「$noun」を達成した証,"$1's unit has achieved\r\n""$2"" against powerful rivals",exp
 $nameのTrueEndを見よう,Reach $1's True End,exp
-【$unknown】$nameのTrueEndを見よう,Reach【$1】$2's True End,exp
-$nameの「$noun」「$noun」「$noun」を全てクリアしよう,Clear $1's 「$2」「$3」and 「$4」,exp
+【$unknown】$nameのTrueEndを見よう,Reach [$1] $2's True End,exp
+$nameの「$noun」「$noun」「$noun」を全てクリアしよう,"Clear $1's  ""$2"" ""$3"" and ""$4""",exp
 $noun以上のフェスアイドルを誕生させよう,Create a Fes Idol of $1 or higher,exp
-センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve 「$4」",exp
+センターに$nameを編成し$noun以上の$nounに参加して「$noun」を達成しよう,"With $1 as a Center, join $2 or above $3 and achieve ""$4""",exp
 グレードLv$numに昇格しよう,Promote to Grade Lv$1,exp
 $nameをプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
 $nameプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp

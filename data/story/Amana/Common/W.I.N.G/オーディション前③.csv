@@ -1,0 +1,23 @@
+id,name,text,trans
+4014001000130010,甘奈,プロデューサーさん、今日の甘奈、どうかな？,"Producer-san, what do you think about Amana today？"
+0000000000000,プロデューサー,（……そうだな）,（That's right……）
+select,,少し髪がハネてる,"Your hair's a
+bit messy."
+select,,調子はよさそうだな,"You look pretty
+fine."
+select,,超イケてるよ！,"You're super 
+cool!"
+4014001000130020,甘奈,"え！？　あ、ホントだ！　気付かなかったよ
+……よし、これで完璧だね！　教えてくれてありがとっ☆","Eh!? Ah, you're right! I didn't realize it.
+……'kay, this looks great! Thanks for telling me☆"
+0000000000000,プロデューサー,（うん、これで気になるところはなくなったようだ）,"（Okay, it seems there's nothing to worry now.）"
+4014001000130030,甘奈,"うん、確かに調子は良いかな！
+じゃあ、行ってくるね！","Yeah, I guess I'll be feeling fine after all！
+Well then, time to go！"
+0000000000000,プロデューサー,（いつも通りの甘奈だ）,（That's our usual Amana.）
+4014001000130040,甘奈,"えぇっ……あ、うん。そうだね
+プロデューサーさんがそんなテンションで話すの珍しいね","Eeh…… Ah, yeah. That's right.
+It sure is rare to see Producer-san talk with such spirit."
+0000000000000,プロデューサー,（少しびっくりさせてしまったようだ……）,（It seems she's a bit too surprised……）
+info,produce_communication_cheers/401400100013.json,
+译者,,

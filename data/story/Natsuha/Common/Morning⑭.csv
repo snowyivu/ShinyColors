@@ -1,0 +1,40 @@
+id,name,text,trans
+1013001001410010,夏葉,……うーん……,...Hmm...
+0000000000000,プロデューサー,ん？　夏葉、なんでそんなに俺を見てるんだ？,"Hm? Why are you looking at me like that, Natsuha?"
+1013001001410020,夏葉,"プロデューサー
+良かったら私にコーディネートさせてくれない？","Producer, if you don't mind, would you like me to
+coordinate one of your outfits?"
+0000000000000,プロデューサー,（夏葉はそういうの得意そうだな……）,(It does seem to be one of her specialties...)
+select,,"夏葉先生！
+お願いします！","Professor Natsuha!
+Please teach me!"
+select,,高い物は買えないぞ,"I can't buy
+anything
+too pricey.
+"
+select,,"いつもはスーツしか
+着ないからなあ","I guess I do
+only wear
+suits, huh?"
+1013001001410030,夏葉,"ふふっ、まかせなさい♪
+友達にもよくやってあげるのよ","Fufu, leave it to me. ♪
+I do it a lot for my friends, too."
+1013001001410040,夏葉,"さて、プロデューサーには何が似合うかしら……？
+わくわくしてきたわ！","Now then, I wonder what would look good on you...?
+This is getting exciting!
+"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1013001001410050,夏葉,ええ、分かっているわ、そこは心配しないで,"Yes, I understand. Don't worry about that."
+1013001001410060,夏葉,"高い物だけを使うんじゃなくて、
+身の丈にあったコーディネートをしなくちゃ意味ないもの！","I couldn't call myself a coordinator if I didn't take into account
+your budget and sizes.
+"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1013001001410070,夏葉,"確かにそうだけど……
+少しはファッションにも興味を持った方がいいわよ？","Well, that is true... But wouldn't it do you well to
+have a little interest in fashion?"
+1013001001410080,夏葉,あのね、おしゃれっていうのは……,"Here, if you were to consider what's ""fashionable""..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101300100141.json,
+译者,,

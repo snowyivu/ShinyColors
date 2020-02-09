@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おはよう、夏葉
+……何してるんだ？","Morning, Natsuha...
+...What are you up to?"
+1013001001010010,夏葉,"あら、プロデューサー
+ファッション雑誌の端に載ってたクイズを解いてるのよ……","Oh, Producer.
+I'm doing the quiz at the end of this fashion magazine...
+"
+1013001001010020,夏葉,でも、けっこう難しくてね……,"Though, it's quite difficult..."
+0000000000000,プロデューサー,（なるほど……）,(I see...)
+select,,"クイズは解けないと
+気持ち悪いよな","I hate it when
+I can't finish
+one."
+select,,集中してるな,"You're really
+focused."
+select,,裏に答えがあるぞ,"The answers are
+on the back."
+1013001001010030,夏葉,そうなのよ！　いつまでも引っかかるの！,I know! You get stuck and it then takes forever!
+1013001001010040,夏葉,"絶対に全部解いてみせるわよ
+見てなさい！","But I'm going to finish this whole thing.
+Just wait and see!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1013001001010050,夏葉,"……え？　何か言った？　プロデューサー
+ごめんなさい、集中してて……","...Hm? Did you say something? Sorry, I'm kind of
+focused on this right now..."
+1013001001010060,夏葉,"うーん……あ、答えが分かっても教えないで
+自力で解きたいのよ","Mm... Oh, don't tell me if you've figured it out.
+I want to try and solve this on my own."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1013001001010070,夏葉,裏に答え？　もう！　そんなことは分かってるわよ,"The answers on the back? Come on, know that already!"
+1013001001010080,夏葉,でも、見ちゃったらクイズの意味がないでしょう？,"If I saw them, wouldn't I miss the point
+of doing the quiz?
+"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
+I should have said something else……)"
+info,produce_communications/101300100101.json,
+译者,,
