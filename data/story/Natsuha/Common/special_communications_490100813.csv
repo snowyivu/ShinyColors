@@ -2,7 +2,7 @@ id,name,text,trans
 4901008130010,夏葉,"──ねえ、プロデューサー
 これ受け取ってちょうだい","Hey, Producer,
 Please take this."
-0000000000000,プロデューサー,おお、なんだ……？,"Oh, what is it?"
+0000000000000,プロデューサー,おお、なんだ……？,"Oh, what is it for?"
 4901008130020,夏葉,うふふっ、ハッピーバレンタイン,"Ufufu, Happy Valentines Day."
 0000000000000,プロデューサー,バレンタインか……！,Valentines!?
 0000000000000,プロデューサー,"ありがとう、夏葉
@@ -10,17 +10,16 @@ Please take this."
 …Can I open it?"
 4901008130030,夏葉,"ええ、もちろん
 紅茶とチョコレートのセットよ","Yes, of course.
-I got you a tea and chocolate set."
+I got you the chocolate and black tea set."
 4901008130040,夏葉,"実は自分用に買ってすごく美味しかったから
-アナタにも味わってもらいたいと思ってこれにしたの","I brought it once for myself, and it was really good.
-So I wanted you to try them as well, which is why."
-0000000000000,プロデューサー,そうだったのか……！,Is that so?
+アナタにも味わってもらいたいと思ってこれにしたの","I brought one for myself, and it was really delicious.
+So I wanted to have you taste it as well."
+0000000000000,プロデューサー,そうだったのか……！,"Oh, I see!"
 0000000000000,プロデューサー,"はは、夏葉が美味しいって言うなら
-間違いないな","Haha, Natsuha, no doubt.
+間違いないな","Haha, Natsuha, without a doubt,
 It's really delicious."
-4901008130050,夏葉,そうね、間違いないわ,"Yeah, it really is"
+4901008130050,夏葉,そうね、間違いないわ,"Yeah, it undoubtedly is"
 4901008130060,夏葉,"アナタから『美味しかった』って
-聞けるのが楽しみよ","You said that ""It was delicious"".
-I'm looking forward to hearing that more."
+聞けるのが楽しみよ","I'm looking forward to hearing ""It was delicious"" from you."
 info,special_communications/490100813.json,
 译者,,
