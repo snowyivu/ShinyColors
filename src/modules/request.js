@@ -10,6 +10,7 @@ import { userItemTypes, transShopItem,
   transPresentItem, transLoginBonus, transReceivePresent,
   transReceiveMission, selectLoginBonus } from './item'
 import { storyTitles } from './story-title'
+import { idolProfiles } from './profile'
 import { mypageComments, fesDeckReactions, produceAudition, resumeGamedata,
   trustLevelUp, produceReporterAnswer, topCharacterReaction, helperSupportIdols,
   produceEndWeek, lessonResult, characterComment, fesMatchConcert } from './type-text'
@@ -114,7 +115,7 @@ const requestOfPost = [
   ['userProduceHelperSupportIdols', helperSupportIdols],
   [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]],
   [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus],
-  [/^characterAlbums\/characters\/\d+$/, 'storyTitle']
+  [/^characterAlbums\/characters\/\d+$/, [idolProfiles,'storyTitle'] ],
 ]
 
 const requestOfPatch = [
