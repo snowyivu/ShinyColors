@@ -1,0 +1,27 @@
+id,name,text,trans
+4009001000230010,果穂,"プロデューサーさん！
+最後の笑顔チェック、お願いしますっ！","Producer-san!
+One last smile check, please!"
+0000000000000,プロデューサー,（よし、それなら……）,"(Alright, if that's the case...)"
+select,,最高の笑顔だ,"It's the best
+smile ever."
+select,,"ステージ上の
+果穂が一番","You're best when
+you're standing
+on stage."
+select,,肩の力を抜こう,"You should relax
+your shoulders."
+4009001000230020,果穂,"えへへ、ありがとうございますっ！
+いっぱい頑張れそうですっ！","Ehehe, thank you!
+I feel like I can really do my best!"
+0000000000000,プロデューサー,（良い顔をしてるな。これなら安心だ）,(She has a good look on her face. That puts me at ease.)
+4009001000230030,果穂,"さすがプロデューサーさんです！
+ステージでは、もっと笑顔になりますっ！","I knew you'd say that!
+I'll smile more when I'm on stage!"
+0000000000000,プロデューサー,（やる気が出たようだ）,(She looks like she's motivated.)
+4009001000230040,果穂,"緊張してるの、わかっちゃいますかっ？
+気をつけますねっ！","You can tell that I'm nervous?
+I'll be careful!"
+0000000000000,プロデューサー,（ちょっとはリラックスできたかな）,(Maybe she was able to relax just a little?)
+info,produce_communication_cheers/400900100023.json,
+译者,,

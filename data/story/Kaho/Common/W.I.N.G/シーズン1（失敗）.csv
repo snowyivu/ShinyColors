@@ -1,0 +1,38 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I heard the results.
+...It looks like this is the end."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...Yes. We didn't reach the target.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね",W.I.N.G. is a stage that all idols dream of.
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems that the path there was too steep...
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I apologize for not producing results...
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...This is not the time to apologize to us.
+The girl is waiting for you, isn't she?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
+0000000000000,プロデューサー,……行ってきます,...I'm off.
+0000000000000,プロデューサー,果穂、一次審査……通過できなかった……,"Kaho, you... weren't able to pass the first round of judging..."
+7009001020010,果穂,えっ？　そうなんですか……？,Eh? Really...?
+0000000000000,プロデューサー,"ああ。
+今回は残念な結果になったが、あんまり気にするな","Yes.
+The results this time were unfortunate, but don't let it bother you."
+0000000000000,プロデューサー,"果穂の元気さがしっかり伝われば、
+ファンもどんどん増えていくと思うぞ","If we use your high energy well, I think you'll get more fans quickly."
+7009001020020,果穂,"はいっ！
+これからもっと頑張りますね！","Yes!
+I'll work harder from now on!"
+0000000000000,プロデューサー,"（……！　果穂は落ち込むこともせず、
+もう前を見ているんだな）","(...! Without feeling down about it, Kaho's already looking forward.)"
+0000000000000,プロデューサー,"ああ、ヒーローの世界も、アイドルの世界も、
+まだまだ奥が深いぞ！","Yeah, there's still more to learn about both the hero world and the idol world!"
+7009001020030,果穂,それなら、いっぱいいっぱい勉強しなきゃです！,Then I have to study lots and lots!
+7009001020040,果穂,"プロデューサーさんっ！
+あたし、これからも一生懸命、アイドル頑張りますっ！","Producer-san!
+From now on, I'm going to work hard as an idol, with all my might!"
+0000000000000,プロデューサー,"ああ
+俺もしっかりサポートしていくからな！","Yeah.
+I'll support you fully, as well!"
+info,produce_events/700900102.json,
+译者,,

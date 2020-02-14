@@ -1,0 +1,26 @@
+id,name,text,trans
+4009001000120010,果穂,"見てください、プロデューサーさんっ！
+あの子、スッゴくかわいいです！　あ、あっちの子も！","Please look, Producer-san!
+That girl over there is so cute! Ah, she is, too!"
+0000000000000,プロデューサー,（他のアイドルが気になるみたいだな……）,(It seems like she's interested in the other idols...)
+select,,"あとで一緒に
+挨拶に行こうか","How about we go
+greet them together
+after?"
+select,,果穂が一番だよ,You're #1.
+select,,気にしなくてもいい,"Don't worry about
+that."
+4009001000120020,果穂,"えっ、いいんですかっ？
+わぁ……やったー！　約束ですっ！","Eh, can we?
+Wow... hooray! It's a promise!"
+0000000000000,プロデューサー,（喜んでくれたみたいだな）,(She looks pleased.)
+4009001000120030,果穂,"わぁ、本当ですかっ！？
+えへへ、ありがとうございますっ！","Wow, really?!
+Ehehe, thank you!"
+0000000000000,プロデューサー,（自信がついたみたいだ）,(She seems more confident in herself now.)
+4009001000120040,果穂,"そ、そうですよねっ
+あたしはあたし、ですもんねっ！","Y-yeah...
+I am me, right!"
+0000000000000,プロデューサー,（少し、落ち着いたようだ）,(It seems like she's calmed down a bit.)
+info,produce_communication_cheers/400900100012.json,
+译者,,
