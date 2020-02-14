@@ -1,0 +1,27 @@
+id,name,text,trans
+4009001000130010,果穂,"みなさん、スゴすぎて緊張しちゃいます……
+プロデューサーさんっ！　アドバイスをください！","Everyone's so amazing. I'm nervous...
+Producer-san! Give me some advice please!"
+0000000000000,プロデューサー,（そうだな……）,(Let's see...)
+select,,"正義のヒーローなら
+大丈夫だ","As long as you're
+the hero of justice,
+you'll be fine."
+select,,俺がついてる,I'll be with you.
+select,,"他の人のことなんて
+気にするな","Don't worry about
+everyone else."
+4009001000130020,果穂,"はいっ、そうですよねっ！
+正義のヒーローなら、きっとうまくいきますっ！","Yes, that's right!
+If it's up to the hero of justice, I'm sure I'll do great!"
+0000000000000,プロデューサー,（笑顔が見れて良かった）,(I'm glad I was able to see her smile.)
+4009001000130030,果穂,"はいっ！
+プロデューサーさんがいれば、きっと大丈夫ですっ！","Yes!
+If you're here, everything will definitely be okay!"
+0000000000000,プロデューサー,（元気を取り戻せたようだ）,(It seems like she's regained her energy back.)
+4009001000130040,果穂,"は、はいっ！　そうですよね……
+ちゃ、ちゃんと集中しなくちゃっ！","Y-yes! You're right...
+I-I have to make sure to focus!"
+0000000000000,プロデューサー,（逆に、緊張させてしまっただろうか？）,(Did I end up making her more nervous instead?)
+info,produce_communication_cheers/400900100013.json,
+译者,,
