@@ -1,0 +1,72 @@
+id,name,text,trans
+0000000000000,プロデューサー,"灯織、オファーが来てるから資料に目を通して、
+どうするか決めてく──","Hiori, there's an offer tha just came in. Could you look over it and decide on whether---"
+2002008110010,灯織,やります──,I'll do it.
+0000000000000,プロデューサー,えっ！？,Huh!?!
+0000000000000,プロデューサー,……内容もわからないのに、即決していいのか？,You haven't even seen what's it about and yet you're making a decision already?
+2002008110020,灯織,……そうですね、軽率だったかもしれません,"Right, that must be so hasty of me."
+0000000000000,灯織,でも……,Still...
+2002008110030,灯織,"プロデューサーが持ってきてくださった仕事が、
+私のためにならなかったことはありません","Since this is the job you picked for me, I doubt that you didn't do for my own sake."
+2002008110040,灯織,"自分で決めることに意味があるのは、
+わかっているつもりです",I understand the reason behind me giving the final say.
+2002008110050,灯織,"わかった上で、プロデューサーが私にと
+決めたお仕事なら、私が断る理由はないんです","On top of that, since this is a job that you decided I should do, I have no reason to turn it down."
+0000000000000,プロデューサー,それは……ずいぶんと信用されているなぁ……,That sounds like you really trust me.
+2002008110060,灯織,"信用に足るだけのことを、
+プロデューサーがやってきたから、とは思いませんか？",Or maybe you did so much that you really earned my trust?
+2002008110070,灯織,"プロデューサーがいるから、
+私はアイドルの仕事を受けることができるんですよ","After all, it is because of you that I am able to take these jobs of an idol."
+0000000000000,プロデューサー,"灯織を起用したいという声があがるのは、
+灯織が仕事に対して真摯だからだろう",It's because you were earnest in tackling these jobs that makes me want to give you more work.
+0000000000000,プロデューサー,俺じゃなくて、灯織の力だ,"This is not on me, but rather thanks to your efforts."
+2002008110080,灯織,そんなこと……,That's not true.
+0000000000000,プロデューサー,あるんだよ、そんなこと,"Of course, it is."
+0000000000000,プロデューサー,まぁ……あれだ,"Well, there's still that."
+0000000000000,プロデューサー,"仕事を持ってきた俺が言うのも変な話だけど、
+詰め込みすぎはよくない","This is weird coming from the same person bringing you jobs but,
+it's not good to cram in so many jobs."
+0000000000000,プロデューサー,"でも、色々挑戦するのはいいことだからな
+まずは資料を読もう","Still, challenging yourself to many things is never a bad thing.
+So, let's read through the documents first."
+0000000000000,プロデューサー,それから決めるのもいいと思うぞ,Making a decision after that is also fine too.
+2002008110090,灯織,……わかりました,I understand.
+2002008110100,灯織,"プロデューサー、資料出していただいてもいいですか
+私、コーヒー淹れてきます","Producer, could you get the documents ready?
+I'll make you a coffee until then."
+0000000000000,プロデューサー,"おう、ありがとう
+頼むよ","Oh, thank you.
+Please do."
+0000000000000,プロデューサー,……ん？,Hmm?
+0000000000000,プロデューサー,"（灯織が読んでた雑誌──の占いコーナーか……？
+魚座、今月の運勢……）","(The magazine that Hiori's been reading... It's on the horoscope page.
+The fortune for Pisces this month...)"
+0000000000000,プロデューサー,"（『仕事運が絶好調。とにかくなんでも挑戦してみて』
+……なるほどなあ）","(""Your luck in work is at its best. Try challenging yourself in something.""
+Now, I get it.)"
+2002008110110,灯織,プロデューサー、お砂糖とミルク使います──か？,"Producer, would you like some sugar or milk in---"
+2002008110120,灯織,あっ……！,Ah!
+0000000000000,プロデューサー,おわっ！　……すまん、勝手に読んだ,Oh! Sorry for reading this without asking you first.
+2002008110130,灯織,"い、いえ……困るようなものでもないですし……
+広げっぱなしで邪魔でしたね、すみません","I-It's alright. It's not like I'd be bothered by it.
+It's also lying around so it must've been a nuisance. I'm sorry about that."
+0000000000000,プロデューサー,"いや、大丈夫だ……
+──仕事","No, don't worry about it.
+As for work"
+2002008110140,灯織,……仕事？,Work?
+0000000000000,プロデューサー,"最近、受ける仕事のジャンルが広くなったから
+なんでかなと思ってたんだ",I was wondering why the range of jobs you've been taking is growing bigger lately.
+0000000000000,プロデューサー,占いの後押しもあったからなんだな,I see that the horoscope had a hand in that.
+2002008110150,灯織,あ、いえ……その,"Oh, not at all... umm..."
+2002008110160,灯織,えっと……占いも関係なくはないんですけど……,Well... I wouldn't say that the horoscope has nothing to do with it.
+2002008110170,灯織,"占いやおまじないは、大事な決定の指針にしてないんです
+精神的な支えみたいなものなので","I'm not using these horoscopes and charms when making important decisions.
+They're more like mental support."
+0000000000000,プロデューサー,そうなのか……？,Is that so?
+2002008110180,灯織,"はい
+──だって","Yes.
+After all,"
+2002008110190,灯織,"私には、私のことを考えて
+道を標してくれる人、ちゃんといますから",I have someone who thinks of me and guides me to the right path.
+info,produce_events/200200811.json,
+译者,,

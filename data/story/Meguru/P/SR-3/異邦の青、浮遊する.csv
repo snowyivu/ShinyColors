@@ -1,0 +1,130 @@
+id,name,text,trans
+0000000000000,プロデューサー,あっ……めぐる、ここにいたのか,"Oh, Meguru. I see that you're here."
+2003006010010,めぐる,"プロデューサー！
+お疲れさまー！","Hello, Producer!"
+0000000000000,プロデューサー,"あれ、ひとりか？
+なにか声が聞こえたけど……","Say, are you by yourself?
+I think I heard someone else."
+2003006010020,めぐる,"うん！　演技の自主トレしてたの！
+もうすぐクランクインだし！","Yup! I've been doing some acting training by myself!
+It's almost the day for the actual shoot!"
+2003006010030,めぐる,"急いで上手くならなくちゃでしょ？
+レッスンの時間だけじゃ足りないんだよー！","I have to get better right away, don't I?
+So doing it only during lesson times won't be enough!"
+0000000000000,プロデューサー,あ、ああ……,R-Right.
+2003006010040,めぐる,"この台本ね、読めば読むほど、
+もっと役のこと知りたいーってなるんだ！","You see, the more I read into this script, the more I want to know more about the role!"
+2003006010050,めぐる,"そうしたらもうじっとしてられなくて！
+気持ちが止まらなくなっちゃって──","And so, I just couldn't just stay still!
+I just couldn't hold my feelings back."
+0000000000000,プロデューサー,"めぐる……ごめんな
+そのことで大事な話があるんだ",Meguru... I hate to bring this to you but there's something important that you need to know about that role.
+2003006010060,めぐる,？　……うん、どうかしたの？,...Okay. What is it?
+0000000000000,プロデューサー,実は……その映画に出る話がなくなってしまったんだ,Actually... we just lost the opportunity to play in that movie.
+2003006010070,めぐる,えっ……！？,Eh?
+0000000000000,プロデューサー,すまない……,I'm really sorry...
+2003006010080,めぐる,そ、そうなんだ……,I-I see...
+2003006010090,めぐる,そっか……,So that's what happened...
+select,,"仕事がなくなった
+理由は……",The reason that job was gone is...
+select,,頑張っていたのにな,You were working so hard for it.
+select,,"でも…………
+もう一度……",But... I'll try again...
+2003006010100,めぐる,……,......
+0000000000000,プロデューサー,"脚本を修正したら、
+めぐるの役の出番がなくなってしまったと……","When the screenplay was revised, your role got written out..."
+2003006010110,めぐる,！　脚本の修正で……？,The screenplay was revised?
+0000000000000,プロデューサー,先方も、本当に申し訳ないって、謝ってたよ,They were really sorry about this.
+2003006010120,めぐる,そっか……そうだったんだね……,Oh... I see...
+0000000000000,プロデューサー,"あっ……！
+このことに関して、めぐるは何も悪くないぞ！","But, you did nothing wrong about all this!"
+0000000000000,プロデューサー,"すまん、先に言うべきだった
+不安にさせちゃったよな……","Sorry, I should have said that first.
+I guess I got you anxious."
+2003006010130,めぐる,"ううん、違うの！
+脚本の都合も……あったかもだけど","No, that's not it.
+I guess... the screenplay has its own share of problems too."
+2003006010140,めぐる,"わたしがもっと上手だったら
+やっぱりこの役は必要だって思ってもらえたかもだよね？","If I was much better, then maybe they'd think that my role would be important, right?"
+2003006010150,めぐる,"だからごめんなさい、プロデューサー！
+次はもっとアピールできるようにするね！","So, I'm really sorry about this, Producer!
+I'll work harder to I could be more appealing next time!"
+0000000000000,プロデューサー,（めぐる……）,(Meguru...)
+0000000000000,プロデューサー,（俺にも、もっとプロデューサーとしての力があれば……）,"(Me too, if only I was a much better producer...)"
+0000000000000,プロデューサー,（……）,(......)
+0000000000000,プロデューサー,"……ああ！　めぐるの努力は絶対に実る！
+次に向けて頑張ろう！","Yeah! I'm sure that your efforts will pay off!
+Let's both work hard for the next one!"
+2003006010160,めぐる,うんっ！　プロデューサー！,"You got it, Producer!"
+2003006010170,めぐる,……わたし、頑張るね,I will do my best.
+0000000000000,プロデューサー,"めぐるがすごく力を入れていたことは知ってるよ
+だから余計に……","I know how much effort you've been putting into this.
+Which is why..."
+2003006010180,めぐる,…………うん,...Yeah.
+0000000000000,プロデューサー,"大正時代の日本にやってきた青い目の女の子
+大人しくて、喋るのが苦手……",A blue-eyed girl arriving at Japan during the Taisho period who is meek and has trouble talking.
+0000000000000,プロデューサー,めぐるとはちょっと違うタイプだよな,"She's a little different type of girl when compared to you, Meguru."
+2003006010190,めぐる,えへへ……やっぱりそう思う？,Ehehe You think so too?
+2003006010200,めぐる,"──この子はね、
+いつもひとりで空を見ているんだよ","This girl,
+she always looks at the sky by herself."
+2003006010210,めぐる,"台本を読んでいたら
+この子に……なにか声をかけてあげたくなって",As I was reading the script... I wanted to reach out to her.
+2003006010220,めぐる,"わたしもこの子が見てた空のことを
+ずっとずっと考えてたんだ……",I've been thinking a lot about the skies that she's looking at.
+0000000000000,プロデューサー,ああ……かける言葉は見つかったのか？,"Yeah... So, have you found the words to call out to her?"
+2003006010230,めぐる,"もし見つかってたら
+自主トレはあっという間に終わってたよー","If I did, then I would finish the acting training I'm doing by myself in an instant."
+2003006010240,めぐる,"もうちょっとのような気もしたんだけど
+……今回はもう時間切れだねっ",I feel like I was close in getting it but... I ran out of time.
+2003006010250,めぐる,"プロデューサー、事務所に戻る？
+わたしも一緒に行こうかなっ","Producer, are you heading back to the office now?
+I guess I'll tag along too."
+0000000000000,プロデューサー,"ああ……戻りながら昼飯にしよう
+今日は美味しいものを思いっきり食べる日にするか","Yeah. How about we grab some lunch as we head back?
+Maybe even turn this day into a day where we can eat to our heart's content."
+2003006010260,めぐる,"ああっ、わたしなら大丈夫だよっ！？
+もう元気出すからっ！","Oh, but I'm just fine!
+I'm already back on my feet!"
+0000000000000,プロデューサー,これは内緒だが、俺も少しだけ落ち込んだんだ,"Don't tell anyone but, I'm feeling a little down myself."
+2003006010270,めぐる,プロデューサーもっ？,"You too, Producer?"
+0000000000000,プロデューサー,"そうだ、だから心に元気をあげなくちゃならない
+めぐるも一緒に付き合ってくれないか？","Yeah. Which is why I got to raise my spirits.
+Is it alright if you keep me company for a while?"
+2003006010280,めぐる,"あははっ！
+──じゃあ、すぐに着替えてくる……待っててね！","Ahaha
+Okay, I'll just get dressed right away. Please wait!"
+0000000000000,プロデューサー,"もう一度……
+かけあってみるよ",I'll try negotiating with them once more.
+2003006010290,めぐる,"えっ！　ええっ！　そんな大丈夫だよ！
+ごめんなさい、無理しないで！","Eh? EH? You don't have to do that!
+I'm sorry, please don't overwork yourself for this!"
+2003006010300,めぐる,"監督さんも、脚本を考えている人も
+いっぱいいっぱい考えて決めたんだろうし",The director and the person who thought up of the script probably pondered a lot before arriving to a decision.
+0000000000000,プロデューサー,"それはそうかもしれないが
+だからって諦めるわけにはいかないだろう",That might be true but that doesn't mean that we should give up so easily.
+2003006010310,めぐる,"ううん、本当に大丈夫だから！
+また次のお仕事がもらえるように頑張るよ！","No really, I'm okay with what just happen!
+I'll do my best for us to land our next gig!"
+0000000000000,プロデューサー,めぐる……,Meguru...
+0000000000000,プロデューサー,"ありがとう……
+じゃあ……ひとつだけお願いがあるんだが、いいか？","Thank you.
+Umm... Is it okay I have just one favor to ask you?"
+2003006010320,めぐる,うん！　なんでも言って！,Sure! You name it!
+0000000000000,プロデューサー,"……めぐるの正直な気持ちだけ教えてほしい
+どうしても、この仕事がやりたかったんだよな？","I want you to tell me what you really feel.
+You really wanted to get this role no matter what, right?"
+2003006010330,めぐる,……！,!
+2003006010340,めぐる,………………………,......
+2003006010350,めぐる,うん……,Yes...
+0000000000000,プロデューサー,ああ……わかった,Okay. I understand.
+2003006010360,めぐる,プロデューサー……！,Producer...
+2003006010370,めぐる,もう……もう……！,I... I...
+0000000000000,プロデューサー,（そりゃあ仕事だからすべて思い通りにはいかない）,"(Well, this is work. Things never work out as you expect.)"
+0000000000000,プロデューサー,（そのことも知ってもらわないといけないけど）,"(Although, this is something that one should learn.)"
+0000000000000,プロデューサー,"俺も頑張るからな
+めぐると一緒に","I'll do my best alongside you, Meguru"
+2003006010380,めぐる,……うう……,Uuh...
+2003006010390,めぐる,うん……！,Yes...
+info,produce_events/200300601.json,
+译者,,

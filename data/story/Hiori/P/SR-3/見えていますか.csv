@@ -1,0 +1,124 @@
+id,name,text,trans
+2002008010010,灯織,……,......
+2002008010020,灯織,──あの、プロデューサー……,"Excuse me, Producer."
+0000000000000,プロデューサー,どうした、わからないところでもあったか？,What's the matter? Is there some part that you don't understand?
+2002008010030,灯織,"あ、いえ、そうではなく
+この仕事、資料を読む限りは面白そうです","Oh, no, it's not like that.
+Based on what I've read from the documents, this job seems to be interesting."
+0000000000000,プロデューサー,"そうか！　プールのアトラクションってだけで、
+テンションが上がるというか……楽しそうだよな、これ","Oh that! Can't help but get excited with just the pool attraction, huh. It does sound fun."
+0000000000000,プロデューサー,タイムアタック方式なのが、また闘争心を煽ってくる……,And this time attack style just lights up that competitive spirit.
+2002008010040,灯織,"はい。たくさんのアイドルがクリアタイムを競う……
+きっとそこがウリなんですよね","Yes. And with many idols competing who gets the best clear time,
+that seems to be its main selling point."
+2002008010050,灯織,"それで……このバラエティ番組について、
+ひとつ、聞いてもいいですか","And in regards to that, is it alright if I ask you a question about this variety show?"
+0000000000000,プロデューサー,おう、俺に答えられることなら,"Sure, if I could answer it."
+2002008010060,灯織,……,......
+2002008010070,灯織,……これ、本当に私に来たオファーでしょうか,Was this job offer really for me?
+0000000000000,プロデューサー,──！,――！
+2002008010080,灯織,やっぱり……,I knew it.
+select,,ご明察だ,Quite perceptive of you
+select,,"いや、灯織に来た
+オファーだよ","No, it was really for you"
+select,,実はな……,To be honest with you...
+2002008010090,灯織,──プロデューサー？,Producer?
+0000000000000,プロデューサー,"ああ、すまん、ごまかそうとかじゃなくて
+その……灯織の言う通りなんだ","Oh, sorry about that. I'm not trying to deceive you or anything.
+Well... It's just as you said."
+2002008010100,灯織,……そうですか,I see.
+0000000000000,プロデューサー,"先方はめぐるにって言っていたけど、
+俺がぜひ灯織をって推したんだ",The client wanted Meguru but I endorsed you.
+2002008010110,灯織,……え？,What?
+0000000000000,プロデューサー,灯織にこの仕事を受けてほしくてな,I really wanted you to get this job.
+2002008010120,灯織,……どうして私に？,But why me?
+2002008010130,灯織,"この仕事、私はめぐるが向いていると思います
+それに──","I do think that Meguru is a better to handle this job.
+Not to mention---"
+0000000000000,プロデューサー,『運動で活躍するのはめぐるであるべき』？,That Meguru should be the one to take on jobs that rely on physical strength?
+2002008010140,灯織,…………そこまでは……,I wouldn't go that far...
+0000000000000,プロデューサー,"まぁ、これは俺の想像なんだけど
+似たようなことを考えてるんじゃないかと思ってな",This is just my assumption but I guess the client is thinking in a similar way.
+2002008010150,灯織,それは……,That's---
+2002008010160,灯織,……,......
+0000000000000,プロデューサー,"得意不得意、向き不向きの話なら別なんだけど
+灯織のそれは、また違う話だから","It is indeed a different story if you'll be good at this job or not, or whether this job is suited for you or not."
+0000000000000,プロデューサー,"灯織だって十分運動神経いいだろ？
+アピールポイントなのに、もったいないと思ってな","But, Hiori, you're atheltic enough for this, aren't you?
+This is one of your strengths, and I think it'd be waste not to use it."
+0000000000000,プロデューサー,"灯織に持ってきた理由、
+ちゃんと言えばよかった、すまん","It'd be nice if I were able to make you understand the reason why I got you this job. But still, I'm sorry."
+2002008010170,灯織,"そんなことありません
+その、……ありがとうございます","Please don't be.
+Umm... I'm grateful that you did."
+2002008010180,灯織,お仕事、頑張りますね,I will do my best for this job.
+2002008010190,灯織,"騙されません
+プロデューサー、明らかに驚いた顔をしていました","You won't fool me, Producer. It clearly shows in your face that you were caught off-guard by my question."
+0000000000000,プロデューサー,……ばれてたか,"Cat's out of the bag, huh."
+2002008010200,灯織,ばればれですよ,It was quite obvious.
+0000000000000,プロデューサー,"はは、いや……そのな？
+驚いたのはオファーについてじゃないんだ","Haha  Well, about that.
+What I was surprised about is not regarding the offer."
+2002008010210,灯織,違うんですか？,You weren't?
+0000000000000,プロデューサー,"うん、違う。驚いたのはな、
+やっぱり灯織はそう思ってるんだなと思ってさ",Yes. What was surprising is that I was really expecting you to think of it like that.
+0000000000000,プロデューサー,運動系の仕事、自分では力不足だと考えてるんだろ？,"Since the job seems more of a physical one, you were thinking that you might not be up to it, right?"
+2002008010220,灯織,"……そうですね
+私はすぐ考えてしまうので、瞬発力がないんです","Yes.
+I usually go into thinking about things right away, so I don't have much spontaneity."
+2002008010230,灯織,"運動神経のいい人は、考える前に体が動いているというか、
+感覚やセンスで掴んでいるんだろうなって……",Like someone who has good reflexes is able to move their bodies before they can think about it or they have a very keen sense of awareness...
+2002008010240,灯織,"後から身につくものではないと思うので、
+敵わないなって感じます","Since I don't think that could be learned, I feel like I wouldn't be able to compete."
+0000000000000,プロデューサー,……灯織は、自分のことをよく分析してるよな,"You sure know a lot about yourself, Hiori."
+2002008010250,灯織,……そうでしょうか,You think so?
+0000000000000,プロデューサー,"うん。でも、灯織が気付いてないこともあるんじゃないか？
+灯織には灯織の強みがあるんだ","Yes. However, there are also things that you have noticed, doesn't it?
+Like you have your own set of strengths."
+0000000000000,プロデューサー,"先方も、それに気付いていて、
+ぜひ灯織にと言ってくださっている",Even this client has noticed it and wanted you to join their event.
+0000000000000,プロデューサー,……と俺は思ってる,"Or at least, that's what I think about it."
+2002008010260,灯織,"私の強み……ですか……
+自分では、まだわかりませんが……","My own set of strengths, you say...
+I myself am not aware of it but..."
+2002008010270,灯織,このお仕事を通して、見つけたいです,I want to do this work to find out about it.
+2002008010280,灯織,……はい,Okay.
+0000000000000,プロデューサー,うちの事務所からひとり、としか言われてなくて,They said that our agency could only send out one idol.
+2002008010290,灯織,……え？,Huh?
+0000000000000,プロデューサー,色々と鑑みて、俺は灯織にお願いしたいと思ってる,"After careful consideration, I decided that I'd ask you to do it."
+0000000000000,プロデューサー,"もちろん、受けるかどうか決めるのは灯織自身だ
+他の仕事やレッスンのことも含めて、考えてみてくれ","Of course, it's still up to you whether you'll take this or not.
+Just give this some thought, along with your other current jobs and lessons."
+0000000000000,プロデューサー,"一応あてはあるから、
+断った時のことは気にしなくていいぞ","I do have someone else in mind just in case,
+so you really have to worry much if you'll decline this one."
+2002008010300,灯織,……めぐるですね？,"And that is Meguru, right?"
+0000000000000,プロデューサー,"さすが、よくわかってるな
+こういう仕事、特に喜びそうだろ？","You do understand me well.
+Meguru would be really happy with this kind of job, don't you agree?"
+2002008010310,灯織,"確かに……
+資料を読んだ時点ではしゃぎそうです","Yes.
+When I read the document, this event does seem to be quite lively."
+2002008010320,灯織,"これ、先にめぐるへ聞いても良かったんじゃないですか？
+すごく向いていると思うんですが","Wouldn't it be better if you asked Meguru first about this?
+I do think that this is perfect for her."
+0000000000000,プロデューサー,……そうだな、それも考えた,"Yes, I thought of that too."
+0000000000000,プロデューサー,"けど、言ったろ？
+『色々と鑑みて、俺は灯織にお願いしたい』って","But, I already said it earlier right?
+That I decided that I'd ask you after careful consideration."
+2002008010330,灯織,"そうですか……
+あの、プロデューサー","Oh...
+Umm, Producer."
+0000000000000,プロデューサー,ん？,Yes?
+2002008010340,灯織,お仕事、受けます,I will accept this job.
+0000000000000,プロデューサー,本当か！？,Really!?!
+2002008010350,灯織,はい,Yes
+2002008010351,灯織,……なんだか嬉しそうですね？,You seem to be happy about this.
+0000000000000,プロデューサー,"当たり前だろ？
+俺は灯織にと思ってるんだから","Why wouldn't I?
+I was thinking that you're the one to do this."
+2002008010360,灯織,"ふふっ、そうでした
+お仕事、精いっぱい頑張りますね","Fufu  I see.
+I will give it my all to make this job a success."
+info,produce_events/200200801.json,
+译者,,
