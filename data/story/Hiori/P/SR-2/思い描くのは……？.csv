@@ -1,0 +1,80 @@
+id,name,text,trans
+2002006110010,灯織,すごい、こんなことまで載ってるんだ……,"Wow, it even appeared in here."
+0000000000000,プロデューサー,ふぅ……今日は結構歩いたな……,Whew... I sure have walked quite a lot today.
+2002006110020,灯織,"プロデューサー、お疲れ様です
+あ……お茶、飲みますか？","Hello, Producer.
+Oh. Would you like some tea?"
+0000000000000,プロデューサー,"おお、ありがとう
+でも、いいのか？　何かやってたみたいだけど……","Oh, thank you.
+But, you sure? You seem to be busy with something."
+2002006110030,灯織,ちょうど私も淹れようと思ってたところですから,I was about to pour one myself.
+0000000000000,プロデューサー,じゃあお言葉に甘えようかな,I guess I'll be taking up your offer then.
+2002006110040,灯織,はい、座って待っててください,Okay. Please sit and wait as I go get it.
+0000000000000,プロデューサー,"ふぅ……
+灯織の淹れるお茶は美味しいな","Aah.
+This tea you made sure tastes great."
+2002006110050,灯織,そんな、慣れてるだけです……,"No, I'm just used to making it."
+0000000000000,プロデューサー,"いや、そんなことないぞ
+俺じゃこんなに美味しくはできない","No, I'm serious.
+It wouldn't turn out to be this great if I make it."
+0000000000000,プロデューサー,"お茶、ありがとう
+やってたこと中断させちゃって悪かったな","Thank you for the tea.
+I'm really sorry for interrupting what you're doing."
+2002006110060,灯織,"いえ、ただ占いの本を読んでいただけですから
+結構当たるって、話題になってたので","Not at all, I was just reading a book about fortune-telling.
+It says that it gets a lot of things."
+0000000000000,プロデューサー,そんなにすごいのか、ちょっと興味あるな,Makes me a little interested if that that's really great.
+2002006110070,灯織,"！
+それなら、一緒に見ましょう","Then, how about we read it together?"
+2002006110080,灯織,"えーっと……
+プロデューサーの運勢は……","Let's see...
+Your horoscope is..."
+2002006110090,灯織,あ！　なかなか良いみたいですよ,Oh! It seems to be really nice.
+0000000000000,プロデューサー,"それは嬉しいな
+そう思うとなんだか元気になってくるような","That makes me happy.
+And thinking about it, I feel kinda much better."
+2002006110100,灯織,ふふ、良い結果だと嬉しいですよね……！,Fufu It sure is nice to have a good result!
+2002006110110,灯織,私のは……,As for me...
+2002006110120,灯織,あ……、……あんまり良くないみたい……です……,Oh... It doesn't look that good...
+0000000000000,プロデューサー,"……みたいだな……
+あ、でもここに運気をあげる方法が書いてあるぞ","Looks that way...
+Oh, but look here, there seems to be a way to improve your luck."
+0000000000000,プロデューサー,『大切な人に贈り物をすれば運気アップ』だそうだ,"It says ""You'll be able to increase your luck if you give something from someone close to you."""
+2002006110130,灯織,……大切な、人に……,Someone close to me...
+0000000000000,プロデューサー,ん……？,Hmm?
+2002006110140,灯織,"あ、いえ……
+何をプレゼントすればいいかなって思って……","Oh, no...
+I was just thinking of what to give..."
+2002006110150,灯織,……,......
+2002006110160,灯織,えっと……例えば……ですけど……,Umm... this is just an example... but...
+2002006110170,灯織,"プロデューサーくらいの年の男性だと
+何をもらったら嬉しいですか？",What kind of gift would a guy of your age would be happy to get?
+0000000000000,プロデューサー,"そうだなぁ……
+仕事に使えるものだと嬉しいかな","Let's see...
+I guess something that would be useful to work."
+2002006110180,灯織,"仕事……ですか
+ネクタイとか……スケジュール帳とか……ですかね……","Work, you say.
+So, something like a necktie or an organizer?"
+0000000000000,プロデューサー,"お、いいな、スケジュール帳
+最近新しいのを買おうと思ってたんだ","Oh, the organizer sounds nice.
+Lately, I've been thinking of buying a new one myself."
+2002006110190,灯織,スケジュール帳ですね……！,"Then, an organizer it is!"
+0000000000000,プロデューサー,"っと……すまん、途中から参考じゃなくて
+俺の欲しいものになっちゃってたな","Umm... Sorry but, it seems that we started on reference but it turned into something I want halfway through."
+2002006110200,灯織,"いえ、とても助かりました……！
+ありがとうございます！","No, you've been a great help!
+Thank you so much."
+2002006110210,灯織,素敵なものを選んできますね……！,I'll choose something nice!
+0000000000000,プロデューサー,喜んでもらえるといいな,It'd be nice if that guy would be happy about it.
+2002006110220,灯織,はい、プロデューサーに——,"Yes, you'll be---"
+2002006110230,灯織,──あっ,Ah
+0000000000000,プロデューサー,……？,?
+2002006110240,灯織,い、いえ……なんでも……ないです,N-No... it was nothing.
+0000000000000,プロデューサー,"そ、そうか
+でも、灯織のことだからきっと良いのを選べると思うぞ","O-Okay.
+But, I think that you'll be able to pick one that's very nice."
+2002006110250,灯織,"はい……！　ありがとうございます
+頑張ります……！","Yes! Thank you.
+I'll do my best for it!"
+info,produce_events/200200611.json,
+译者,,
