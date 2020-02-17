@@ -3,12 +3,12 @@ id,name,text,trans
 なんだか、ふゆじゃないみたい！","Oh, all of the pictures turned out wonderful.
 They're all seem like a different Fuyu altogether!"
 1018001020020,冬優子,"スタッフさん、
-ありがとうございます♪","Staff-san,
+ありがとうございます♪","Staff,
 thank you so much for your work on these."
 0000000000000,スタッフ,"いやいや、ふゆちゃんが可愛いからだよ
-笑顔もポーズも最高だしね","No, this is all because you are cute, Fuyu-chan.
+笑顔もポーズも最高だしね","No, this is all because you are cute, Fuyu.
 Your smiles and your poses are really great."
-1018001020030,冬優子,えへへ、そんなことないです,Ehehe  That's not true.
+1018001020030,冬優子,えへへ、そんなことないです,"Ehehe, that's not true~"
 0000000000000,,……でも、可愛いだなんて……ちょっと恥ずかしいです……♪,"But, to told that Fuyu's cute... That makes her feel a little embarrassed."
 0000000000000,プロデューサー,"（うん、冬優子は
 どの現場でもスタッフに好感を持たれてるな）",(Fuyuko sure does leaves a good impression to the staff no matter where.)
@@ -18,7 +18,7 @@ Your smiles and your poses are really great."
 それだけじゃない気がするんだよな）","(But, I feel like this is not the only good points about Fuyuko.)"
 1018001020040,冬優子,──本当に、ふゆがアイドルになれると思いますか？,Do you really think that Fuyu can become an idol?
 0000000000000,プロデューサー,（冬優子の、一番の魅力は……）,(Fuyuko's best appeal would be...)
-1018001020050,冬優子,プロデューサーさん……？,Producer-san?
+1018001020050,冬優子,プロデューサーさん……？,Producer?
 0000000000000,プロデューサー,"あ、ああ、ちょっと考え事をしてたんだ
 冬優子、もう挨拶は終わったのか？","O-Oh, right. I just got a little lost in thinking about something.
 So, Fuyuko, have done greeting the people around?"
@@ -36,7 +36,7 @@ So, Fuyuko, have done greeting the people around?"
 All of the work were enjoyable so far!"
 0000000000000,プロデューサー,そうか……,I see.
 1018001020090,冬優子,"プロデューサーさん、急にどうしたんですか？
-もしかしてふゆ、何か失敗しちゃいましたか……？","Producer-san, did something happen?
+もしかしてふゆ、何か失敗しちゃいましたか……？","Producer, did something happen?
 Could it be that Fuyu did something wrong?"
 0000000000000,プロデューサー,"ああ、いやいや、そうじゃなくて
 冬優子はどんなアイドルになるのかなって考えてたんだ","Ah, no, that's not it at all.
@@ -57,9 +57,9 @@ Umm... Fuyu thinks..."
 と～っても迷っちゃいます♪","Ehehe  Fuyu enjoyed them all,
 so she's at a loss on what to choose."
 1018001020150,冬優子,"そうだ、プロデューサーさん
-ふゆからも質問して、大丈夫ですか？","Say, Producer-san, is it alright if Fuyu asks you a question?"
+ふゆからも質問して、大丈夫ですか？","Say, Producer, is it alright if Fuyu asks you a question?"
 0000000000000,プロデューサー,ん、なんだ？,Sure. What is it?
-1018001020160,冬優子,プロデューサーさんは……,"Producer-san,"
+1018001020160,冬優子,プロデューサーさんは……,"Producer,"
 1018001020170,冬優子,ふゆは、どんなアイドルになれると思いますか？,What kind of idol do you think Fuyu can become?
 select,,一緒に探していこう,Let's look for it together
 select,,色んな可能性がある,You have a lot of potential
