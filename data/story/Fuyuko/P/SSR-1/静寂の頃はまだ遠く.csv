@@ -7,7 +7,7 @@ id,name,text,trans
 なんなら、上着くらい貸すから","Also, it's getting chillier, so be sure not to catch a
 cold. If you want, I'll lend you a coat."
 2018004040020,冬優子,"大丈夫よ
-どっちも、あんたが心配しない程度には気を付けてるわ","I'm fine. And besides,
+どっちも、あんたが心配しない程度には気を付けてるわ","I'm fine, and besides,
 you don't need to worry about me so much."
 2018004040030,冬優子,"それにふゆ、寒いのには強い方なの
 今だって、ちょうどいいくらい","Moreover, Fuyu is strong against the cold.\r\nEven now, I'm just fine."
@@ -22,11 +22,11 @@ you don't need to worry about me so much."
 2018004040080,冬優子,…………秋が終わる音ね,…it's the sound of autumn ending.
 0000000000000,プロデューサー,ああ、もうすぐ冬だな,"Yeah, it's already winter huh."
 2018004040090,冬優子,…………ふゆね、冬が好きなの,"…I, like winter."
-2018004040100,冬優子,──あ、別にギャグとか言ってるわけじゃないから,"-ah, I'm not making a pun."
+2018004040100,冬優子,──あ、別にギャグとか言ってるわけじゃないから,"Ah, I'm not making a pun."
 0000000000000,プロデューサー,誰もそんなこと言ってないだろ……,No one said you were…
 2018004040110,冬優子,ならいいけど,I hope not.
 2018004040120,冬優子,"……確かに、冬って何かとバタバタしがちだし、
-乾燥酷くなるから保湿も大変だけど──","…certainly, winter comes with a lot of commotion,\r\nIt gets dry so moisturizing becomes difficult-"
+乾燥酷くなるから保湿も大変だけど──","…certainly, winter comes with a lot of commotion,\r\nIt gets dry so moisturizing becomes difficult."
 2018004040130,冬優子,"ふゆ好みの重ね着したコーデができるじゃない？
 それにふゆって、ウォームカラーも好きなのよね","But you can coordinate a lot of layers to your taste
 can't you? And besides, I like warm colors."
@@ -34,12 +34,12 @@ can't you? And besides, I like warm colors."
 冬になると色んなとこで観られるから、それも好き","And the decorative lighting.  The twinkling is pretty
 right? I like it, since winter brings various things
 to see."
-2018004040150,冬優子,それに──……,And also-…
+2018004040150,冬優子,それに──……,And also…
 2018004040160,冬優子,それに、冬って………………,"And also, winter…"
 select,,雪、綺麗だもんな,"Snow, it's beautiful."
 select,,美味しいものが多いしな,"There's lots of
 delicious things."
-select,,なんだか寂しいよな,"It's a little
+select,,なんだか寂しいよな,"It's a bit
 lonesome isn't it."
 0000000000000,プロデューサー,雪、綺麗だもんな,"Snow, it's beautiful."
 2018004040170,冬優子,ふふ、それもいいところね,"Hehe, that's a nice thing too."
@@ -78,7 +78,7 @@ lonesome isn't it."
 0000000000000,プロデューサー,何を期待されてたんだ……,What were you expecting…
 2018004040310,冬優子,さあね,I don't know.
 2018004040320,冬優子,"──あーあ、あんたが食べ物の話なんかするから、
-なんかお腹すいてきちゃった","-Aah, if you're going to talk about food,\r\nYou're going to make me hungry."
+なんかお腹すいてきちゃった","Aah, if you're going to talk about food,\r\nYou're going to make me hungry."
 2018004040330,冬優子,ねえ、なんかないの？,"Hey, should we get something?"
 0000000000000,プロデューサー,なんかって……,Something…
 0000000000000,プロデューサー,来たぞ、『なんか』,"Hey, ""something"" came to us."
@@ -105,6 +105,6 @@ lonesome isn't it."
 ほら、さっさと脱ぐ","Just now, you said if I was cold you'd lend me a coat.\r\nCome on, take it off."
 0000000000000,プロデューサー,わ、わかったから引っ張るな,"I, I get it, don't tug."
 2018004040430,冬優子,…………ふふ、あったかい,"…Hehe, it's warm."
-2018004040440,冬優子,…………………寂しくない,…It's not lonely.
+2018004040440,冬優子,…………………寂しくない,…and not lonely.
 info,produce_events/201800404.json,
 译者,,

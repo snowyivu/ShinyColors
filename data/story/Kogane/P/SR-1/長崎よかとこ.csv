@@ -1,0 +1,89 @@
+id,name,text,trans
+2004003020010,恋鐘,プロデューサー、お仕事早よー終わったね～,"Producer, today's work has ended earlier than expected, hasn't it."
+0000000000000,プロデューサー,"ああ、まだ次の予定まで時間があるし
+どこかで暇をつぶすか","Yeah. Seeing that there's still time before our next schedule, how about we let the time pass somewhere?"
+2004003020020,恋鐘,"あっ、それじゃ……
+うち、そこのショッピングモールに行きたか～。よか？","Oh, in that case...
+Is it alright if we go to that shopping mall?"
+0000000000000,プロデューサー,いいぞ。なにか買いたいものでもあるのか？,Sure. Is there something you want to buy there?
+2004003020030,恋鐘,"ほら、長崎フェアいうのをやっとるけん
+ばり気になるとよ～","Look, they're holding a Nagasaki Fair.
+I'm really interested about it."
+0000000000000,プロデューサー,ああ、恋鐘の故郷だしな……って、走ると危ないぞー,"Well, it is you hometown. Wait, it's dangerous to run!"
+2004003020040,恋鐘,うわ～、懐かしか～！,"Aah, this brings back so many memories!"
+0000000000000,プロデューサー,"へぇ……長崎の特産品っていろいろあるんだな
+おすすめはなんだ？","Oh, there are so many indigenous products from Nagasaki.
+Which one of these do you recommend?"
+2004003020050,恋鐘,もちろん、全部たい！,"Of course, all of them!"
+2004003020060,恋鐘,"ちゃんぽんは具沢山で栄養満点
+おなかもいっぱいになるし……","Champon is quite hearty and very nutritious.
+It's also very filling."
+2004003020070,恋鐘,五島うどんは麺にコシがあって、ダシの風味も最高たい！,The Goto Udon is chewy and the taste of its dashi is really great!
+2004003020080,恋鐘,"佐世保バーガーはお店のこだわりが詰まっとるけん
+ばり美味しか～","The Sasebo Burder is a must-try in any joint.
+It's just so good."
+0000000000000,プロデューサー,（話を聞いてたら、全部食べたくなってきたぞ……）,(Hearing about them just makes me want to try them all.)
+0000000000000,プロデューサー,"そうだ！　せっかくだし、事務所のみんなに
+お土産を買っていこう……俺も食べたいし","I know! While we're here, let's buy some for those back at the office. I also want to try it."
+0000000000000,プロデューサー,恋鐘、選んでくれるか？,"Will you help choose, Kogane?"
+2004003020090,恋鐘,まかせとって～！,You can count on me!
+2004003020100,恋鐘,"んー、全部買っていきとうばってん
+それは無理やし……どれがよかかね～",Hmm... I want to buy them all but that's not possible. I wonder which one should I pick.
+2004003020110,恋鐘,いやー、結局ほとんど買うてしもうたね～,"Oh, we ended up buying most of them."
+0000000000000,プロデューサー,"どれも魅力的だったからな、仕方ないさ
+長崎って美味しそうなものが多いんだなぁ","It can't be helped since all of them are quite tempting.
+Nagasaki sure does have a lot of delicious looking food."
+2004003020120,恋鐘,"すごかろー！？　ばってん、長崎のいいとこは
+食べ物だけじゃなか。温泉なんかもばりよかよ！","Isn't it amazing! But, Nagazaki isn't just about food. The hot spring there are great too!"
+0000000000000,プロデューサー,"……恋鐘の話を聞いてたら
+実際に行きたくなってくるな",Hearing it from you just makes me want to actually go there.
+2004003020130,恋鐘,"おお！　きてきて！　
+絶対きて欲しいばい～！","Oh! Please do!
+I do want you to visit the place!"
+2004003020140,恋鐘,そんで、プロデューサーにはいつか……,"And also, someday,"
+2004003020150,恋鐘,うちの実家にもきてほしかね！,I want you to come to my house!
+select,,仕事で行くかもしれない,Might go there for work
+select,,楽しい家なんだろうな,Your home sounds sweet
+select,,"どうせなら
+事務所のみんなと",Might as well go there with everyone in the agency
+0000000000000,プロデューサー,"今はまだその予定はないけど
+長崎に行くこともあるだろうな","While there are no plans like that for now, we might be needed to go to Nagasaki."
+2004003020160,恋鐘,"そしたらうちの出番たい！
+長崎の案内で、うちの右に出るもんはおらんけん！","And it'll be my time to shine when that time comes!
+There's no one else who could show you around Nagasaki like me!"
+0000000000000,プロデューサー,ああ、そのときはよろしく,Yeah. I'll be counting on you then.
+2004003020170,恋鐘,まかせとって！　一緒にどこ行こうかね～,Just leave it to me! I wonder where the two of us should go.
+2004003020180,恋鐘,"近くの海もキレイやし、温泉もあるし……
+あとは、夜景もはずせんね～","The beaches nearby are beautiful, and there are also the hot springs.
+Oh, can't forgot about the lovely night views."
+0000000000000,プロデューサー,"……表情を見てるだけで
+いいところなのが伝わってくるよ",Seeing the look on your face now tells me that it really is a good place.
+2004003020190,恋鐘,んふふ……そうかねー,Mfufu Is that so?
+0000000000000,プロデューサー,（恋鐘の案内で回る長崎か……楽しそうだな）,(Getting toured around in Nagasaki by Kogane... That sounds fun.)
+2004003020200,恋鐘,"うん、最高よ！
+うちは家族んことばーり好いとーけん！","Yeah, it's the best there is!
+I love my family the most!"
+2004003020210,恋鐘,"港のみんなも好いとーし
+長崎の人はみーんなよか人ばい","I like the people at the ports.
+Everyone at Nagasaki are all nice people."
+0000000000000,プロデューサー,"恋鐘がそれほど言うなら、本当にそうなんだろう
+……長崎っていいところなんだな","If you say so, then it must be true.
+Nagasaki sure is a nice place."
+2004003020220,恋鐘,んふふー♪　うちん故郷やけん、当たり前ばい！,"Mfufu It is my hometown, after all!"
+2004003020230,恋鐘,あーあ、早く家にプロデューサーば連れて行きたか～,"Aah, I so want you to bring to my place as soon as possible."
+2004003020240,恋鐘,"ばってん、実家に帰る前に……
+ここで、アイドルとして成功せんばいかんけどね！","But, before I go back home, I have to succeed here as an idol first!"
+2004003020250,恋鐘,"そやから、プロデューサー
+もっとばりばりお仕事もってきてくれんね！　よろしく！","Which is why, Producer, give me lots and lots of work, okay! I'll be counting on you!"
+0000000000000,プロデューサー,"事務所のみんながユニットを超えて
+もっと親睦を深めれるだろうし",That would seem like it could deepen the bonds with everyone in the agency beyond just being in the same unit.
+2004003020260,恋鐘,よかね～、みんなと一緒ならばり楽しそうたい！,That's sounds nice. Being with everyone seems to be fun!
+2004003020270,恋鐘,"そんときはうちがあっちこっち連れて行っちゃるけん
+きっと、楽しすぎて時間ば忘れるっちゃねー","I'll bring everyone to many places.
+I'm sure it would be so fun that we'll forget about the time."
+2004003020280,恋鐘,そやけん、みんな東京に帰って来とうのうなるばい！,"Then, everyone wouldn't want to come back to Tokyo!"
+0000000000000,プロデューサー,ははは、それは困るな,Hahaha We'll be in big trouble if that happens.
+0000000000000,プロデューサー,"（でも恋鐘に案内してもらったら
+本当にそうなりそうだな）","(But, if Kogane does tour us around, that could really happen.)"
+info,produce_events/200400302.json,
+译者,,
