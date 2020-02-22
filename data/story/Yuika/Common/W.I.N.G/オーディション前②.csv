@@ -1,10 +1,10 @@
 id,name,text,trans
 4007001000120010,結華,"おぉっ、すごい緊張感……！
-まさしくオーディション本番っ！　って感じだね……！","Oh man, I'm full of nerves right now......!
-Like this really it! This is the actual audition......!"
+まさしくオーディション本番っ！　って感じだね……！","Oh man, I'm full of nerves right now!
+Like this really it! This is the actual audition!"
 0000000000000,プロデューサー,"（会場の熱気に感化されてるみたいだな……
-張りきってくれるか、緊張してしまうか……）","(The pressure of the audition seems to be getting to Yuika......
-It's hard to tell if she's enthusiastic or nervous......)"
+張りきってくれるか、緊張してしまうか……）","(The pressure of the audition seems to be getting to Yuika...
+It's hard to tell if she's enthusiastic or nervous.)"
 select,,"結華の魅力で
 会場を飲み込め！","Captivate the
 judges with
@@ -18,14 +18,13 @@ select,,"いつもの結華なら
 and you'll be
 fine, right?"
 4007001000120020,結華,"おわっ、Ｐたんいきなり無茶ぶりするね！？　……でも、
-そういう気持ちがないと勝てないか。おっけ、任せといて！","Woah! That's a tall order, P-tan!? ......But, you're right. I can't win if I don't think positive. Alright, I've got this!"
+そういう気持ちがないと勝てないか。おっけ、任せといて！","Woah! That's a tall order, P-tan!? ...But, you're right. I can't win if I don't think positive. Alright, I've got this!"
 0000000000000,プロデューサー,（上手くやる気を出せたみたいで良かった）,"(Good, she seems really motivated now.)"
 4007001000120030,結華,"なるほど？　これは前哨戦みたいなものだもんね
 でも、まずはここからって気持ちも忘れないよ！","Oh, I get it? Just gotta think of this as prelude to the real thing. Though, I can't let my guard down too much!"
 0000000000000,プロデューサー,（うん、気負いすぎてはいないかな）,"(OK, she doesn't seem too worked up anymore.)"
 4007001000120040,結華,"えー……？　いつもの三峰だと、
-オーディション向きじゃないんじゃない？","Uh......? The usual Mitsumine isn't fit for auditions at all, though?
-"
-0000000000000,プロデューサー,（……あまり上手い励ましにはならなかったか）,(......That didn't seem to encourage her at all.)
+オーディション向きじゃないんじゃない？","Uh...? The usual Mitsumine isn't fit for auditions at all, though?"
+0000000000000,プロデューサー,（……あまり上手い励ましにはならなかったか）,(That didn't seem to encourage her at all.)
 info,produce_communication_cheers/400700100012.json,
 译者,,

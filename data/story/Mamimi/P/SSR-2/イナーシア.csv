@@ -1,0 +1,115 @@
+id,name,text,trans
+2005007020010,摩美々,『私のなりたいもの』,"""What I want to be"""
+2005007020020,摩美々,『第１希望　爬虫類（種類は問いません）』,First Choice: Reptile (Any kind is acceptable)
+2005007020030,摩美々,『第２希望　セロハンテープ』,Second Choice: Scotch Tape
+2005007020040,摩美々,『第３希望　ジャスティスナントカ』,Third Choice: Justice Something
+0000000000000,プロデューサー,…………適当すぎるだろ……,...These answers are all too lazy.
+0000000000000,プロデューサー,摩美々ーーーーっ！！,Mamimi!!
+2005007020050,摩美々,……なんですかぁ？,...What is it?
+0000000000000,プロデューサー,雑誌の撮影用アンケートの回答、見たぞ,I read your answers for the questionnaire about the magazine shoot.
+2005007020060,摩美々,"あぁ……あれですねー
+撮影、楽しみにしてま──","Oh, that.
+I'm really looking forward to that."
+0000000000000,プロデューサー,書き直しだ,Do this over.
+2005007020070,摩美々,えー……,Eh?
+2005007020080,摩美々,"なりたいもの、しっかり書いたじゃないですかぁ
+もうあれ以上の回答はできませんー","But, I did write the things I want to be.
+I can't think of any other answers for it."
+0000000000000,プロデューサー,あれ以上の……って──,"Any other answers, you say."
+0000000000000,プロデューサー,"摩美々が爬虫類になっている写真を見て、
+誰が嬉しいと思うんだ！？","Who do you think will be happy
+to see a picture of you as a reptile!?"
+2005007020090,摩美々,私は嬉しいですケドー,I'd be happy about it though.
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,……今度の撮影は,"...Mamimi, this shoot"
+0000000000000,プロデューサー,"摩美々の眠っている可能性を
+見せられるチャンスかもしれないんだ","Could be an opportunity
+to discover your hidden potential..."
+0000000000000,プロデューサー,"それに、自分じゃないものに
+なれる機会なんてそうないだろ？","Not to mention, it's also an opportunity
+to become what you're usually not, right?"
+0000000000000,プロデューサー,──そう思って、楽しんでくれればいいからさ,It'd be nice if you think it that way and have fun while doing so.
+2005007020100,摩美々,…………,......
+2005007020110,摩美々,自分じゃない、ものには──,"""What I'm usually not"""
+0000000000000,プロデューサー,……あまり、想像がつかないか？,You have no idea of what that could be?
+2005007020120,摩美々,…………んー,Hmm...
+0000000000000,プロデューサー,"うーん……そうか
+……それなら","Oh... I see...
+In that case,"
+select,,"小さい頃なりたかった
+ものを書くとか","How about writing down what you
+wanted to be when you were a kid?"
+select,,"今の摩美々を
+表現しよう","Let's try expressing that
+with the way you are right now"
+select,,"……俺も何か
+考えてみるよ","...I'll try thinking
+of something too"
+2005007020130,摩美々,別に、これといってなりたかったものは……,It's not like there's something or anything that I wanted to be.
+0000000000000,プロデューサー,"え！？　何もないのか？
+ケーキ屋さんとか、花屋さんとか……！","What? As in nothing?
+Not even becoming a cake maker or a florist?"
+2005007020140,摩美々,なんですかぁ、そのイメージ……,What's with those thoughts?
+2005007020150,摩美々,……ないですねー,"No, still nothing."
+0000000000000,プロデューサー,そ、そうか……,I-I see.
+2005007020160,摩美々,まみみに足りないものなんて、ありませんでしたし……,There wasn't anything lacking at all for me.
+0000000000000,プロデューサー,"はは
+それだけ自信があったんだな……","Haha,
+and I was so confident about it too..."
+2005007020170,摩美々,…………,......
+0000000000000,プロデューサー,"しかし、うーん……
+この中で一番現実的なのは、『ジャスティスＶ』か……","Still, hmm... That makes the most realistic choice here would be the ""Justice V"" one..."
+0000000000000,プロデューサー,ヒーロースーツ的な感じだろうか……調べてみよう,Something that seems like a hero suit... I'll try looking into it.
+2005007020180,摩美々,……！,......!
+2005007020190,摩美々,…………プ……プロデューサー,P-Producer...
+0000000000000,プロデューサー,？,What?
+2005007020200,摩美々,"やっぱり……
+アンケート、もう一度出し直しますねー……","Well...
+I think I'll redo the questionnaire."
+2005007020210,摩美々,なら、いつもの格好でいきますケド,"Then, I'd just go with what I usually wear"
+0000000000000,プロデューサー,"いやいや……
+今の摩美々を違う角度から掘り下げてみるんだよ","No, not like that. Let's try thinking about this in a different angle from what you are right now."
+2005007020220,摩美々,……？,Like...?
+0000000000000,プロデューサー,"パンキッシュなビジュアルはもちろんだけど　
+それ以外にも、摩美々をつくっているものってあるだろ",The punkish visual look is a given but there has to be other things that you can do other than that.
+0000000000000,プロデューサー,"学生、とかアイドル、とか……
+それから生まれに、育ちに……好きなもの","Like being a student or being an idol. There's also the how you were born and raised, and things that you like."
+0000000000000,プロデューサー,"だから、えっと……
+今回だけ、少し変わって見えたとしてもさ……","So, how should I say this...
+All those seemingly little differences..."
+0000000000000,プロデューサー,──摩美々は、摩美々だよ,"You are you, Mamimi."
+0000000000000,プロデューサー,そうやって、考えてみるのはどうだ？,"So, how about thinking about it like that?"
+2005007020230,摩美々,……！,...!
+0000000000000,プロデューサー,"……なんてな、ちょっとクサいか
+はは……","Or something like that.
+Kinda cheesy, huh. Haha."
+2005007020240,摩美々,"……ニオイますよー
+プンプンですー","It does,
+so much it reeks."
+0000000000000,プロデューサー,ニオ……！？,Reeks!?
+2005007020250,摩美々,ケド、まぁ……考えてみますー,"But, yeah... I'll think about it."
+2005007020260,摩美々,"……なんだぁ
+プロデューサーも即答できないんですねー","Oh, you can't give an answer right away too, huh."
+0000000000000,プロデューサー,なっ、違うぞ……！,"Wha, that's not it!"
+0000000000000,プロデューサー,"こういうのは、適当に答えるべきじゃない
+だからよく考えてからだな──","Things like this shouldn't be answered so lazily. Which is why, it has to be given some thought."
+2005007020270,摩美々,はいはぁい,"Sure. "
+2005007020280,摩美々,"……じゃ、レッスンも終わったんでー
+私、帰りますねー","Well, since the lesson's all over,
+I'll be heading home now."
+0000000000000,プロデューサー,お、おう……,O-Okay...
+0000000000000,プロデューサー,"…………待っててくれ
+明日までに、絶対に最高のアイディアを出してやる……！","Just you wait!
+I'll definitely come up with some great answers by tomorrow!"
+2005007020290,摩美々,キタイシテマァス,I'm counting on you.
+0000000000000,プロデューサー,くっ……！,Tch...!
+0000000000000,プロデューサー,"俺は、摩美々の可能性を、
+誰よりも信じてるんだからなー！！","Mamimi, I believe in your potential
+more than anyone else!!"
+2005007020300,摩美々,ふふー……,Fufu...
+2005007020310,摩美々,…………,......
+2005007020320,摩美々,（……私の──）,(My...)
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,（摩美々の、可能性……）,(Mamimi's potential...)
+info,produce_events/200500702.json,
+译者,,

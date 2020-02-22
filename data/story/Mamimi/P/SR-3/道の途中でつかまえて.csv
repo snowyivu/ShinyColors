@@ -1,0 +1,122 @@
+id,name,text,trans
+0000000000000,プロデューサー,──すまん、摩美々！,"I'm really sorry, Mamimi!"
+2005006020010,摩美々,……,......
+0000000000000,プロデューサー,"せっかく……
+珍しく朝からスタジオ入りしてもらったのに！！",To think that this is one of the rare times I asked to come to the studio early in the morning!!
+2005006020020,摩美々,…………別に―,"It's no big deal,"
+2005006020030,摩美々,……それに、『珍しく』は余計ですよー,"Besides, that ""rare times"" part is uncalled for."
+0000000000000,プロデューサー,"は、はは……
+そうだよな……すまん","Hahaha...
+Right, sorry about that."
+2005006020040,摩美々,"それに、機材のトラブルは
+プロデューサーのせいじゃないですからぁ……","Besides, this technical problem isn't your fault."
+0000000000000,プロデューサー,"……！
+ま、摩美──",Huh? M-Mami―
+2005006020050,摩美々,"プロデューサーが謝ったところで
+どうにかなるわけじゃないですし……",You apologizing won't even help solve this.
+0000000000000,プロデューサー,"うっ……
+……だ、だよな……",Uuh... R-Right...
+2005006020060,摩美々,…………,......
+0000000000000,プロデューサー,ええっと……,Umm...
+0000000000000,プロデューサー,"摩美々……
+待ち時間のうちに、何か食べるか？","Mamimi, how about eating something while we're waiting?"
+0000000000000,プロデューサー,食べたいものがあれば買ってくるし……,"If there's something you'd like, I could buy it."
+2005006020070,摩美々,……特に、何もー,I'm alright.
+0000000000000,プロデューサー,"そ、そうか……
+じゃあ、このファッション誌を読むとか！　どうだ？","I-I see... so, how about reading this fashion magazine? How does that sound?"
+2005006020080,摩美々,…………なんですかぁ？,What's with that?
+0000000000000,プロデューサー,……え？,Huh?
+2005006020090,摩美々,……なんでそんなに、気を遣うんですかって,I'm asking you about what's with all that concern your showing right now.
+0000000000000,プロデューサー,あ……いや,Oh... well...
+0000000000000,プロデューサー,"……少しでも摩美々のサポートに
+なればと思って、な",I was just thinking of how I could support you even just a little.
+2005006020100,摩美々,はぁ……,Haa...
+2005006020110,摩美々,プロデューサーって、いつもやる気満々ですよねー,"Producer, you're so highly motivated all the time."
+0000000000000,プロデューサー,"えっ……？
+そうだろうか……？","Huh?
+You think so...?"
+2005006020120,摩美々,……じゃー、例えばぁ……,"So, what if... "
+2005006020130,摩美々,"例えば、なんですケド……
+急に仕事がなくなってー","What if, just saying, you suddenly lost your job?"
+2005006020140,摩美々,"そのやる気が空回っちゃったら……
+どうしますかぁ？",If your motivation is just going nowhere... What would you do then?
+0000000000000,プロデューサー,……！,Erm...
+0000000000000,プロデューサー,俺だったら……そうだな,What will I do? Well...
+select,,他の仕事を頑張る,Do my best on other work.
+select,,食事休憩を取るかな,"Maybe take a break and eat.
+"
+select,,レッスン……かな,"Do a lesson or two, perhaps"
+2005006020150,摩美々,"……でもー、それとこれとは……
+違うじゃないですかぁ……","But, isn't this and that two different things?"
+0000000000000,プロデューサー,いや、そんなことはないぞ,"No, that's not true, "
+0000000000000,プロデューサー,"意外と、前は行き詰っていたことが
+スムーズにこなせたりなんかするんだ",It surprisingly helps out in smoothing out the thing you're stuck on.
+2005006020160,摩美々,……プロデューサーはそうかもですケド……,That might be true for you...
+0000000000000,プロデューサー,"……いや、俺は信じてるよ
+摩美々だって、きっと──","No, I'm sure that
+it's the same for you too."
+2005006020170,摩美々,……いつの間にか、私の話になってますケド,But why did this suddenly become all about me?
+0000000000000,プロデューサー,"あ……
+いや、えっと……！","Ah...
+no, umm...!"
+2005006020180,摩美々,ふふー,"Fufu... "
+2005006020190,摩美々,"…………
+……プロデューサー、次の仕事の資料、ありますか？","......
+Say, Producer, got some things for the next job?"
+0000000000000,プロデューサー,"……ああ！
+試してみてくれるんだな、嬉しいよ","Yeah!
+I'm so glad that you're giving it a shot."
+2005006020200,摩美々,"……まぁ、今あまってるやる気くらいは
+ちゃんと使ってあげますねー","Well, I'm just using
+my spare motivation right now."
+2005006020210,摩美々,"……？
+なんでご飯なんですかぁ？","Eh...
+Why would you go for some food?"
+0000000000000,プロデューサー,気持ちを切り替えるためだよ,To get back on my feet.
+2005006020220,摩美々,……そんな簡単に、変わるものですかねー,Is it really that easy to change like that?
+0000000000000,プロデューサー,"ああ。美味しいご飯は幸せのもとだしな！
+摩美々も、騙されたと思って、今試してみるのはどうだ？","Yes. After all, a delicious food is the source of happiness! If you think that I'm pulling your leg, how about you put it to the test right now?"
+0000000000000,プロデューサー,"……って、さっき食べたいものはないって
+言ってたよな……はは","Wait, you did say that you
+don't want to eat anything... Haha."
+2005006020230,摩美々,……,......
+2005006020240,摩美々,メロンソーダ……,A melon soda.
+0000000000000,プロデューサー,え？,Huh?
+2005006020250,摩美々,"メロンソーダなら……
+ちょっと今の気分かもしれませんー","I guess I'm kinda in a mood
+for a melon soda right now."
+0000000000000,プロデューサー,"……！
+そうか……！　今すぐ買ってくるから、待っててくれ！","Oh! I see!
+I'll buy one right away, so just wait!"
+2005006020260,摩美々,"……ふふ
+よろしくお願いしまぁす","Fufu,
+Thank you."
+2005006020270,摩美々,"……プロデューサーが、レッスンするんですかぁ？
+なんか不気味ですねー","You do a lesson?
+That's kinda creepy."
+0000000000000,プロデューサー,"あ、いや……
+今のは言葉の綾というか……！","Umm, no...
+That was just a figure of speech!"
+0000000000000,プロデューサー,とにかく、体を動かすのが良いと思ってな,"Anyways, I think it'd be good to move your body around."
+2005006020280,摩美々,……ふーん……？,Hmm...?
+0000000000000,プロデューサー,考えても仕方のない時は、いっそもう考えない,"If there's nothing you can do even thinking hard about it, "
+0000000000000,プロデューサー,"そして、思いっきり運動して
+気持ちをリフレッシュさせるんだ","Then you're better off not thinking about it at all.
+Then, once you sweat it out, you'll feel refreshed."
+0000000000000,プロデューサー,"そうすれば、摩美々だってきっと──
+……あ","If you do it, I'm sure that you'll also...
+Ah."
+2005006020290,摩美々,"……例えば、って言ったじゃないですかぁ
+私の話だなんて一言も……","I asked you a what if question,
+I haven't said anything about me."
+0000000000000,プロデューサー,す、すまん……,S-Sorry...
+2005006020300,摩美々,まぁ……いいですケド,"Well, I don't mind."
+0000000000000,プロデューサー,"だけどな、やる気があるっていうのは
+恥ずかしいことじゃないぞ！","Still, you shouldn't be embarrassed
+of having some motivation."
+2005006020310,摩美々,……プロデューサーって、ほんと野暮ですよねー,"Producer, you sure are insensitive."
+2005006020320,摩美々,"まぁでも……プロデューサーがそう言うなら、
+試してみないこともないですかねー","But, if you say so, 
+Then maybe it won't hurt to try."
+info,produce_events/200500602.json,
+译者,,

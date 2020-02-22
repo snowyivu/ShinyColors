@@ -1,0 +1,77 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──それで、ハンドクリームだと思ってたのは
+なんと洗顔料だったんだ","So, the thing that I thought to be a hand cream turned out to be actually a facial cleanser."
+0000000000000,プロデューサー,どうりで、なんだか泡立つわけだよ……,"No wonder, it's kinda foamy."
+2005006110010,摩美々,ふふふ……,Fufufu...
+2005006110020,摩美々,"それなのに気付かないで……
+半分も使うって……ふふー……","And yet you didn't notice it... not to mention, you even used half of it, fufu..."
+0000000000000,プロデューサー,ははは……,Hahaha.
+2005006110030,摩美々,……でも、その手があったかぁ,"Still, that's a great idea."
+0000000000000,プロデューサー,おいおい……！,Hey now...!
+2005006110040,摩美々,"あとあれも似てますよねー
+──歯磨き粉","They also look similar to another one,
+the toothpaste."
+0000000000000,プロデューサー,"摩美々……
+よからぬことを考えてるんじゃないだろうな……！？","Mamimi...
+You're not thinking of something bad, are you!?"
+2005006110050,摩美々,ふふー……,Fufu...
+2005006110051,摩美々＆プロデューサー,寒っ……！,So cold!
+0000000000000,プロデューサー,"このままじゃ風邪を引いてしまうかもしれないな……
+駅まで急ぐか……","We might end up catching a cold at this rate... 
+How about we run towards the station?"
+2005006110060,摩美々,…………,......
+0000000000000,プロデューサー,──そういえば、摩美々は何線で帰るんだ？,"By the way, which route do you take to go home?"
+2005006110070,摩美々,"電車ですかぁ？
+んー……なんでしたっけー？","You mean which train?
+Hmm... what was it again?"
+0000000000000,プロデューサー,"摩美々、ふざけてないで……
+調べればわかるだろう","Mamimi, stop messing around...
+You'll know if you look it up, right?"
+2005006110080,摩美々,……なんですかぁ……？,What's with that?
+2005006110090,摩美々,"今日は私、お仕事頑張ったのに……
+労いの言葉もないままに、帰宅させるんですねー","I've worked hard at today's job and yet... you're sending me home right away, without even some words of appreciation."
+0000000000000,プロデューサー,うっ……,Uuh...
+0000000000000,プロデューサー,"うーん……そうだな、摩美々は寒い冬にも負けず
+しっかり仕事を頑張ってくれてる！","You're right... you didn't let the cold winter get to you
+and you really did a great job!"
+2005006110100,摩美々,もう一声ー,More.
+0000000000000,プロデューサー,"え？　えっと……
+──よし、何か美味しいものでも食べて帰るか！","Huh? Umm... alright, how about we first eat something delicious and then head home?"
+2005006110110,摩美々,いぇーい,Sure.
+2005006110120,摩美々,私、なんだか焼肉が食べたい気分ですー,I'm kinda craving some barbecue.
+0000000000000,プロデューサー,"おお、いいな！　そうしようか
+確か駅の近くに焼き肉屋があったはず……","Ooh, nice! Let's do it! I remember that there should be a barbecue restaurant near the station."
+2005006110130,摩美々,"その後はぁ
+カフェでケーキでも食べたいですねー","And after that,
+I kinda want to eat some cake at a cafe."
+0000000000000,プロデューサー,"ん！？
+そ、そうか。わかった","Hmm?
+O-Okay, sure!"
+2005006110140,摩美々,もちろん、シメにパフェもお願いしますねー,"Of course, a parfait to call it a night."
+0000000000000,プロデューサー,"えっ！！？
+いやいや、そんなに食べられるわけないだろう！","Huh!?
+No, there's no way you could eat all of that!"
+2005006110150,摩美々,"ふふー、余裕じゃないですかぁ？
+甘いものの前では別腹が現れますからねー","Fufu, but wouldn't it be easy? After all, there's another stomach that magically appears when present with something sweet."
+2005006110160,摩美々,プロデューサーもきっといけますよー,I'm sure that you could do it too.
+0000000000000,プロデューサー,"そ、そうか……？
+いや、さすがにそれは……","R-Really?
+No, that's a little..."
+2005006110170,摩美々,"まぁ、ほんとに食べられるかどうかなんて
+実際行ってみて確かめればいいんじゃないですかぁ？","Well, wouldn't it be better to actually try and see if we could eat that much?"
+2005006110180,摩美々,"ってことで……
+さぁ、行きますよー","With that said,
+Come on, let's get going."
+0000000000000,プロデューサー,"おい……
+駅はそっちじゃないぞ","Wait, that's not
+the way to the station."
+2005006110190,摩美々,……わざとですよー,...I meant to do that.
+0000000000000,プロデューサー,"……！？
+どうしてそんなことするんだ……","Huh?
+Why would you do that!?"
+2005006110200,摩美々,…………,......
+2005006110210,摩美々,"ほーんと
+プロデューサーって、野暮ですよねー","Really?
+Producer, you sure are insensitive."
+info,produce_events/200500611.json,
+译者,,

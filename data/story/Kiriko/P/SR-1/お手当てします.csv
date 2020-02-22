@@ -1,0 +1,138 @@
+id,name,text,trans
+2008003010010,霧子,"わぁ……！
+アンティーカの新しいグッズ……ですね……！","Aah!
+They're the new goods of L'Antica... aren't they?"
+0000000000000,プロデューサー,ああ、いい仕上がりだろ？,"Yes. They turned to be well-made, don't you think?"
+2008003010020,霧子,"はい……
+イメージ通り……です……！","Yes.
+They turned out well... as I imagined them to be."
+0000000000000,プロデューサー,いよいよ今日の販売会でお披露目だ,And they will be unveiled and sold in today's event.
+2008003010030,霧子,"みなさんに……
+喜んでいただけそうですね……","This would make...
+people happy."
+0000000000000,プロデューサー,うん、バッチリじゃないか？,"Yeah. Quite nice, isn't it?"
+2008003010040,霧子,"あ、あの……プ、プロデューサーさんは
+このまま準備……されますか……？","U-Umm... W-Will you keep
+getting ready like this, Producer?"
+0000000000000,プロデューサー,"ああ、そうするつもりだよ
+霧子は……まだしばらく待機だな","Yeah, that's the plan.
+As for you, Kiriko... You'll have to wait for a while."
+2008003010050,霧子,"あの……
+もしご迷惑でなければ……ですけど……","Well... if you
+don't mind... then..."
+2008003010060,霧子,"わたしも……
+お手伝い、させていただけませんか……？","maybe I could...
+give you a hand with that?"
+0000000000000,プロデューサー,"いや、霧子は待機していてくれ……
+と、いいたいところだけど……","""It's alright, all you have to do is wait""
+is what I wanted to say."
+0000000000000,プロデューサー,"心配してくれてるんだな
+簡単なことならかまわないぞ","You seem to be worried about me.
+Well, I won't mind if you help out with the easy ones."
+0000000000000,プロデューサー,……ありがとうな,Thank you.
+2008003010061,霧子,は、はい……！,D-Don't mention it.
+2008003010070,霧子,"あ、あの……
+このお花……どちらに飾りますか……？","U-Umm... where should
+I... put this flower?"
+0000000000000,プロデューサー,ああ、それはあっちのテーブルの横に置いてくれ,You could put that one beside that table over there.
+2008003010080,霧子,"は、はい……！
+こっちのお花は……どちらになりますか？","O-Okay.
+How about this flower? Where should I put it?"
+0000000000000,プロデューサー,"えーと……
+これ、さっきの花じゃないか？　同じテーブルに……","Let's see...
+Isn't this the flower earlier? Put it on the same table."
+2008003010090,霧子,"あ、あの……違うんです
+これは同じバラ科なんですけど……種類としては──","U-Umm... no, it isn't.
+It's on the same rose family but... it's a different kind."
+0000000000000,プロデューサー,"ああ、そういうことならいいんだ、
+同じテーブルで頼む……おーい！　受付のほうは──","Oh, that's alright. Please put it on the same table. Hey! How's it going there at the reception?"
+2008003010100,霧子,"……っ
+す、すみません……","I-I'm so sorry
+about that..."
+0000000000000,プロデューサー,"（うーん、もうこんな時間か……
+販売会開始までに間に合うか……）","(Oh, it's already this late. I wonder if we could finish this in time for the event to start.)"
+2008003010110,霧子,"プロデューサーさん、何度も……すみません……！
+このポールのことなんですけど……","Producer-san, I'm really sorry... for interrupting you so much.
+It's about this ball."
+0000000000000,プロデューサー,"ん？　ああ、わざわざ俺に聞かなくても、
+霧子の判断でどんどん準備してくれていいよ","Hmm? Oh, you don't have to always ask me. It's alright if you decide for yourself and speed up with the preparations."
+2008003010120,霧子,"で、でも……間違ったところに置いてしまったら
+ご迷惑をお掛けする……ので……","B-But... if I put them in the wrong place
+and cause some trouble... so..."
+0000000000000,プロデューサー,"迷惑ってことはないよ
+いったん、霧子の思うようにやってみてくれ","It won't cause any trouble at all. For the mean time, how about you work on things in your own way?"
+2008003010130,霧子,は、はい……わかりました………！,O-Okay... I understand.
+0000000000000,プロデューサー,"（……ちょっと、強く言い過ぎたかな……
+霧子なりに考えて気遣ってくれてるのに……）","(Maybe I was little too harsh with my words.
+She's just being considerate.)"
+0000000000000,プロデューサー,（霧子のほう……大丈夫かな……）,(I wonder if she's doing just fine.)
+0000000000000,プロデューサー,"あ……っつ、やっちゃったな
+いてて……","Oh no, I goofed up.
+Ow-ow."
+2008003010140,霧子,"プ、プロデューサーさん……！　どうしたんですか……！
+ちち、血がたくさん……出ちゃってます……！"," P-Producer! What happened?
+Y-Y-You're bleeding quite a lot!"
+0000000000000,プロデューサー,"い、いや……
+ちょっと切っただけだから","N-Nah.
+I just cut myself a bit."
+2008003010150,霧子,応急、処置……,Must do first-aid.
+2008003010160,霧子,"救急箱と……
+タオルを濡らす……！","A first-aid kit...
+and a wet towel!"
+0000000000000,プロデューサー,"い、いや……ちょっとカッターで切っただけだから
+そんなに慌てなくても大丈夫だよ","I-It's alright. I just got a small cut so you
+don't have to panic that much."
+2008003010170,霧子,"だ、ダメです！
+万が一、バイキンが入ってひどくなったりしたら……","N-No!
+There's a possibility that it could get infected and get worse."
+2008003010180,霧子,……よかった、止血……できました……,"Oh, thank goodness... It stopped the bleeding."
+0000000000000,プロデューサー,"（……あんなに出血してたのにもう止まってる
+傷口の周りもキレイなもんだ……）","(She managed to stopped it even with all that bleeding.
+She even did a good job treating around the wound.)"
+2008003010190,霧子,血が止まったら、もう大丈夫です……,"Now that the bleeding has been stopped, it's going to be alright."
+2008003010200,霧子,最後に、包帯を巻いて……と……,All that's left is... to put a bandage around it.
+0000000000000,プロデューサー,（テキパキしてて……霧子、すごいなぁ）,(Kiriko did a quick job of it. That's quite impressive.)
+2008003010210,霧子,痛いのさん……飛んでいけ……！,Pain pain go away... Please do not come back another day!
+2008003010220,霧子,"で、できました……！
+まだ……しばらくは痛むかも……ですけど","T-There, all done.
+Although... it may hurt... for a while."
+0000000000000,プロデューサー,"おお……すごくキレイに巻かれてるな
+包帯で感心したのは初めてだ","Ooh. You wrapped it quite nicely.
+This is the first time I'm in awe at a bandage."
+2008003010230,霧子,"そ、そんなことないですよ……
+でも……よかったです……","I-It's not that impressive.
+Still... I feel relieved now."
+2008003010240,霧子,では、救急箱を片付けてきますね……！,I'll be putting the first-aid kit away now.
+0000000000000,プロデューサー,"あ、霧子！
+手当て……ありがとう","Wait, Kiriko!
+Thank you for treating me."
+0000000000000,プロデューサー,"それから……
+さっきはごめんな","And also...
+Sorry about how I acted earlier."
+2008003010250,霧子,"え、えっと……
+さっき……ですか？","U-Umm... about...
+earlier...?"
+0000000000000,プロデューサー,"いや、ちょっと準備で焦ってさ
+霧子にきつく当たったかもしれない",I was a bit in a rush with the preparations so I might've been a little hard on you.
+0000000000000,プロデューサー,"霧子はすごく気を遣って
+仕事をしてくれてただけなのにな……面目ない",You were being considerate and helping out yet I still... I really shouldn't have done that.
+2008003010260,霧子,そ、そんな……！,T-That's not true.
+2008003010270,霧子,"わたし……あんまりいろんなことが……
+うまくできないので……","There... really isn't
+much... that I can do..."
+2008003010280,霧子,"今はプロデューサーさんの痛いのが
+治ってくれたらって……それだけです……","I was just thinking on how to ease up the pain you're having...
+That's all to it."
+2008003010290,霧子,でも……お役に立てたなら、嬉しい……♪,But... it would make me happy if I were be of some help to you.
+0000000000000,プロデューサー,"霧子……ああ、
+すごく、助かったよ","Kiriko... Yes, you were indeed
+a big help for me."
+2008003010300,霧子,"あ、あの……この救急箱を片付けたら、
+またお手伝い、再開しますね……！","U-Umm... Once I put away this first-aid kit,
+I'll get back to helping you."
+0000000000000,プロデューサー,うん。よろしく頼むよ、霧子,"Got it. I'll be counting on you, Kiriko."
+2008003010310,霧子,は、はい……！,O-Okay.
+0000000000000,プロデューサー,"（よし、せっかく霧子に手当てしてもらったんだ
+販売会もうまくいくようにサポートしないとな）","(Alright, seeing that Kiriko has treated me, I better make sure to support things here so that this event would go smoothly.)"
+info,produce_events/200800301.json,
+译者,,

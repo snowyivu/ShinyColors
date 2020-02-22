@@ -1,5 +1,5 @@
 id,name,text,trans
-0000000000000,プロデューサー,（あれ……？　窓際に、花瓶が置いてある）,"(Huh...? By the window, there's a flower vase.)"
+0000000000000,プロデューサー,（あれ……？　窓際に、花瓶が置いてある）,"(Huh? By the window, there's a flower vase.)"
 1005001000310010,摩美々,"プロデューサー、気づきましたねー
 その花瓶、私が置いたんですよー","Producer, you noticed.
 I was the one who put that flower vase there."
@@ -23,9 +23,7 @@ What's with that face?"
 1005001000310070,摩美々,"……プロデューサー、疲れてるんですねー
 今日はもう、帰った方がいいですよー","...Producer, you must be tired.
 Better go home for today."
-1005001000310080,摩美々,……そうしたらぁ、私もサボれますしー,"
-...If you do that, I can play hooky too.
-"
+1005001000310080,摩美々,……そうしたらぁ、私もサボれますしー,"...If you do that, I can play hooky too."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),"(Ah... I screwed up.
 I should have said something else...)"
 info,produce_communications/100500100031.json,

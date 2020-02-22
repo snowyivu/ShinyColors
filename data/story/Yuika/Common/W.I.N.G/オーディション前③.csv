@@ -2,8 +2,7 @@ id,name,text,trans
 4007001000130010,結華,"Ｐたーん。このオーディションが上手くいったら、
 三峰、ご褒美がほしいなぁ？","P-taaan. If Mitsumine passes this audition she deserves a treat, don't you think?
 "
-0000000000000,プロデューサー,（こんな時でも相変わらずだなぁ、どうしようか……）,"(Even right before an audition Yuika seems as carefree as ever. How do I get her to focus......)
-"
+0000000000000,プロデューサー,（こんな時でも相変わらずだなぁ、どうしようか……）,(Even right before an audition Yuika seems as carefree as ever. How do I get her to focus...)
 select,,"まずは目の前の
 オーディションだ","For now, just
 concentrate on
@@ -19,11 +18,11 @@ thinking of?"
 でもその緊張感、ちょうどいいかも！","Oof! No time for fun, huh. Though, that pressure might've been just what I needed!"
 0000000000000,プロデューサー,（よし、集中してくれたみたいだ）,"(Alright, looks like she's more focused now.)"
 4007001000130030,結華,"えー、残念……
-なんてね！　もちろん、勝たないとだもんね","Boo, how lame...... Just kidding!
+なんてね！　もちろん、勝たないとだもんね","Boo, how lame... Just kidding!
 It's true that I'll need to win the audition first. "
 0000000000000,プロデューサー,（うん、気持ちは切り替えてくれたかな）,"(OK, it seems like her minds back on the audition.)"
 4007001000130040,結華,"意外に前向き？　さてはＰたんダメアイドル製造機だな？
-……じゃ、ご褒美楽しみにしてるよ～","You're actually agreeing? Spoil Mitsumine this much and she might turn into an idle idol, P-tan! ......I'm really looking forward to that reward now～"
-0000000000000,プロデューサー,（まずいな、空気が緩んでしまった……）,"(This is bad, now she seems even more distracted......)"
+……じゃ、ご褒美楽しみにしてるよ～","You're actually agreeing? Spoil Mitsumine this much and she might turn into an idle idol, P-tan! ...I'm really looking forward to that reward now~"
+0000000000000,プロデューサー,（まずいな、空気が緩んでしまった……）,"(This is bad, now she seems even more distracted.)"
 info,produce_communication_cheers/400700100013.json,
 译者,,

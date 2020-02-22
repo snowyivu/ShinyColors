@@ -1,13 +1,12 @@
 id,name,text,trans
 0000000000000,プロデューサー,"ん？　結華、何の本を読んでるんだ？
 ……クイズ？","Hm? What's that you're reading, Yuika?
-......A trivia book?"
+...A trivia book?"
 1007001000810010,結華,"そうだよ、バラエティとかにも出るかもだし？
 その時のための準備準備","That's right. A lot of variety shows have quiz portions, right? I gotta be ready when the time comes."
 1007001000810020,結華,"三峰ひとりで出るならまだしも、
 アンティーカとして出た時にお荷物にはなりたくないし","Obviously I want to be prepared if I'm going up solo, but if it's as L'Antica I don't want to be a burden on our team either. "
-0000000000000,プロデューサー,なるほど、クイズ番組の話が来た時のためなのか……,"I see, it's practice in case she ends up on a quiz show......
-"
+0000000000000,プロデューサー,なるほど、クイズ番組の話が来た時のためなのか……,"I see, it's practice in case she ends up on a quiz show..."
 select,,さて、ここで問題です,"Answer this
 question, then."
 select,,"あっちの本も
@@ -16,7 +15,7 @@ also help you
 practice."
 select,,必要ないと思うぞ？,"Is that really
 necessary?"
-1007001000810030,結華,……プロデューサー、司会者の顔になってるね？,......Pretending to be a quiz show host are we?
+1007001000810030,結華,……プロデューサー、司会者の顔になってるね？,...Pretending to be a quiz show host are we?
 1007001000810040,結華,"おっけー！　だったら三峰も、プロデューサーの出す
 難問の数々を解いてっちゃおう！","Alright! Mitsumine's gonna solve any question you throw at her, Producer! 
 "
@@ -29,6 +28,6 @@ necessary?"
 1007001000810070,結華,そうかもしれないんだけど。まぁ、暇つぶしにもなるし,"You could be right. But hey, it's better than doing nothing.
 "
 1007001000810080,結華,それに、やってみると結構面白いんだよ？,"Also, practicing is pretty fun in itself?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh...... I screwed up. I should have said something else......)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh... I screwed up. I should have said something else...)
 info,produce_communications/100700100081.json,
 译者,,

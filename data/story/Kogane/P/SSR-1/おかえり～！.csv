@@ -1,0 +1,132 @@
+id,name,text,trans
+0000000000000,プロデューサー,"ただいまー、
+……はぁ……今日も一日頑張ったなぁ……","I'm home.
+Haa... I sure worked hard the whole day..."
+2004004110010,恋鐘,"あはは、おかえり～、プロデューサー
+なんかそれ、家に帰ってきたみたいやね～","Ahaha, welcome back, Producer.
+Doesn't this like coming back to your home~?"
+0000000000000,プロデューサー,"い、いたのか、恋鐘
+いや、さっきのは少し気を抜いてて……","O-Oh, you're here, Kogane.
+Actually, my mind was drifting off earlier so..."
+2004004110020,恋鐘,"んふふ、あ！　いいこと思いついたばい！
+ねぇ、プロデューサー！　もう１回入るとこからやって！","Fufu, Ah! I just had an idea!
+Say, Producer! Please come inside again!"
+0000000000000,プロデューサー,え？,Huh?
+2004004110030,恋鐘,"もう１回！
+玄関入ってきて、『ただいま～！』ってやってくれん？","Let's do it again! You enter again from the entrance and say ""I'm home!"", please?"
+0000000000000,プロデューサー,あ、ああ……構わないけど……？,O-Okay... I don't mind...?
+0000000000000,プロデューサー,えっと……ただいまー,Err... I'm home.
+2004004110040,恋鐘,"おっかえり～！　今日もお疲れ様！
+外回り大変やったろ～","Welcome back! You look like you had a rough day today!
+Doing client visits must've been hard~!"
+0000000000000,プロデューサー,え……ああ、少しな,"Eh...? Ah, just a little bit."
+2004004110050,恋鐘,"うんうん、毎日よう頑張っとるもんね～
+あ、ハンガー掛けとくけん上着ちょうだい。カバンも！","I see, you really have been giving it your all for work every day~
+Oh, I'll hang your coat so please give it to me. Your bag too!"
+0000000000000,プロデューサー,"あ、ありがとう……
+……どうしたんだ、急に？","T-Thank you...
+...So, what's suddenly got into you?"
+2004004110060,恋鐘,"んふふ～！　お出迎えばい！
+一緒に住んどったら、こんな感じかな～って。楽しかね～！","Fufu, Just welcoming you back! I was wondering how it'll feel like if the two of us are living together. Isn't this fun?"
+0000000000000,プロデューサー,"……？
+恋鐘と俺がか？","Eh?
+You and I together...?"
+2004004110070,恋鐘,"なんね、冷たか～
+お家ごっこやけん、もっと乗ってくれても……","How cold of you~
+We're playing house now so it wouldn't hurt if you play along more..."
+0000000000000,プロデューサー,……す、すまん,...S-Sorry about that.
+2004004110080,恋鐘,でも、今日のお家ごっこは豪華ばい！,"Still, our playing house today sure is wonderful!"
+2004004110090,恋鐘,"プロデューサーと食べよう思って
+ご飯作って待っとったんよ～！","I was thinking of eating with you
+so I made some food and brought it here!"
+0000000000000,プロデューサー,え、じゃあ、今日は恋鐘が晩飯を作ってくれてるのか？,"So, you mean you made me some dinner today?"
+2004004110100,恋鐘,"うん！　ばってん、プロデューサーは都合よくなかと？
+お仕事残っとるとか……","Yes! But, would it be inconvenient for you?
+Seeing that you still have work and other things..."
+0000000000000,プロデューサー,仕事は……ちょっとした報告だけだから、大丈夫だ,As for my work... I only need to do a short report so it will be alright.
+2004004110110,恋鐘,"やった～！　やっと一緒にご飯食べれるばい！
+じゃあ、準備するけんちょっと待っとって～！","Lucky~, I can finally eat together with you!
+I'll just get things ready, so please wait!"
+2004004110120,恋鐘,"おまたせ～！　今日のメニューは甘鯛のフライと
+イカの煮物、ほうれん草のおひたし、お味噌汁、あとは……","Sorry to kept you waiting! For today's menu, we have fried Amadai, simmered squid, spinach salad, miso soup, and also..."
+0000000000000,プロデューサー,"こ、これは……すごいな
+事務所が定食屋になったみたいだ","T-This is... Amazing!
+It's like the office has become a restaurant!"
+2004004110130,恋鐘,"んふふ～、うちの実家でも出しよったメニューやけん
+ほっぺが落っこちるくらい美味しかよ～","Fufu~, This is just something that gets served even in my home.
+It's so good you'll feel like licking your fingers afterwards!"
+0000000000000,プロデューサー,"うん……うまそうだ
+じゃあ、いただきます","Mmm... Looks good.
+Okay, let's eat."
+2004004110140,恋鐘,どうどう？　美味しい？,How was it? Do you find it delicious?
+0000000000000,プロデューサー,"うん！　うまい！
+本当にお店で出てきそうなくらいだ","Yes! It's so good!
+It's like this could be served in a restaurant!"
+2004004110150,恋鐘,"えへへ、もっと褒めてよかよ～
+ほら、こっちの煮物とかもた～んと召し上がれ！","Ehehe, Feel free to praise it more~
+Here, do have a taste of the stew!"
+0000000000000,プロデューサー,"おお！　煮物もすごくうまい！
+煮物って、こんなに美味しかったんだなぁ","Ooh! This stew's also great!
+I never realized that a stew could be this delicious!"
+2004004110160,恋鐘,"んふふ、よかった～。それ自信作やったんよ～！
+イカとじゃがいもに味がしみしみで美味しかろ～？","Fufu I'm glad to hear that! That's a dish I'm proud of~!
+I had its taste soak in that of the eel and potato, so it's delicious, isn't it?"
+2004004110170,恋鐘,"さぁ、おかわりもいっぱいあるけん
+遠慮せんとたっくさん食べてね！　プロデューサー！","There's a lot for seconds,
+so don't be shy and just eat up, Producer!"
+0000000000000,プロデューサー,"ごちそうさま……はぁ、美味かった
+こうやって誰かとゆっくり食事したの久しぶりな気がするよ","Thank you for the food... Haa, that was delicious.
+It felt like it's been a long time since I've enjoyed eating with someone."
+2004004110180,恋鐘,"んふふ～、誰かとご飯って、胸がなんか温かくなって
+幸せ～って感じするやろ？","Fufu~, By eating with someone,
+it makes your heart feel warm and you happy, doesn't it?"
+0000000000000,プロデューサー,ああ、恋鐘のおかげだよ、ありがとう,"Yes, and it's all thanks to you, Kogane. I really appreciate this. "
+2004004110190,恋鐘,えへへ……,Ehehe...
+2004004110200,恋鐘,"誰かと一緒にご飯食べて、そんで美味しかねって言って
+……そういうのを幸せって言うって……","""Having to eat with someone and then hearing them say it's delicious... That is what happiness is."""
+2004004110210,恋鐘,前にそんな話をしたの覚えとる？,Do you still remember when I first told you that?
+0000000000000,プロデューサー,……ああ,...Yeah.
+2004004110220,恋鐘,あれ、うちのお父ちゃんの言葉なんよ,Those were the words of my father.
+0000000000000,プロデューサー,……恋鐘のお父さんって──,"Your father, so..."
+2004004110230,恋鐘,"うん……ちゃんと言ってなかったけど……
+ホントは……ちょっと喧嘩しとると",Yes... I haven't really told you about this but... The truth is... We had a little fight.
+2004004110240,恋鐘,"ばってん……美味しいもん作って……
+そんなよかもんでなくても、美味しかって思えるような……","""But... When you're making a good dish... Even if the ingredients you used aren't that good, pour your feelings to make it looks delicious."""
+2004004110250,恋鐘,"そんなご飯を食べれるように生きとれば、
+間違ったことにはならん～って……","""If you live with the mindset of having meals like that, then you won't stray off the right path."""
+2004004110260,恋鐘,これはお母ちゃんの言葉……,These are the words of my mother...
+0000000000000,プロデューサー,恋鐘……,Kogane...
+2004004110270,恋鐘,"でも、お父ちゃんは出んけど、
+家には電話したりもするけん、心配せんとってね！","Even though my father is not around, he does things like call home, so you don't have to worry about it!"
+2004004110280,恋鐘,"今はちょっとだけすれ違っとるけど……
+うち、一生懸命こっちで頑張るけん","While we may be apart now...
+I'm doing the best that I can right here."
+2004004110290,恋鐘,"きっと大丈夫！
+プロデューサーも、応援してくれんね！","I'm sure things will work out just fine! So, Producer, please keep cheering me on too!"
+0000000000000,プロデューサー,"……もちろんだ、恋鐘
+俺は恋鐘のこと、全力でサポートする","...Of course, Kogane.
+I will support you to the best that I can."
+0000000000000,プロデューサー,恋鐘がいっぱい、活躍できるようにな,This is for you to be able to do many things.
+2004004110300,恋鐘,プロデューサー……,Producer...
+2004004110310,恋鐘,"ありがとう……
+ホントに、ありがとね……","Thank you...
+I really appreciate this..."
+2004004110320,恋鐘,"……また変な感じになってしまっとった！
+そろそろ、お皿洗って、後片付けするばい～",...This has suddenly turned awkward! We have to wash the dishes and clean up~
+0000000000000,プロデューサー,"あ、片付けは俺がやるよ
+ご馳走になったお礼だ。恋鐘は座っててくれ","Oh, I'll handle the clean up. This is my thanks for such a great meal.
+Please just sit right there."
+2004004110330,恋鐘,"いやいや、うちが……あ！　じゃあふたりでやろ！
+うちらのコンビなら２倍どころか100倍速で終わるばい！","No, I should... Ah! How about we do it together! With the two of us working, we could finish this twice or even a hundred times faster!"
+0000000000000,プロデューサー,"はは、確かに。よし、さっそくやろう
+恋鐘はそっちの皿を運んでくれ","Haha, You're right.
+Okay, let's get to it. You carry the plates there."
+2004004110340,恋鐘,"は～い！　えへへ……こうやって一緒に
+ご飯食べてお皿片付けてるとなんか……","Okay! Ehehe, Eating together
+and cleaning up like this, it's like..."
+0000000000000,プロデューサー,どうした、恋鐘？,"What's the matter, Kogane?"
+2004004110350,恋鐘,"ううん、なんでもなかよ
+うちって幸せ者なんやな～って……思っただけ！","No, it's nothing. I was just thinking of
+how blessed I am... That's all!"
+info,produce_events/200400411.json,
+译者,,

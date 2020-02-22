@@ -1,0 +1,117 @@
+id,name,text,trans
+0000000000000,プロデューサー,……摩美々,"...Mamimi,"
+0000000000000,プロデューサー,"さっきの現場で差し入れにフィナンシェをもらったんだ
+プレーンとチョコ味、どっちが──","I got some financiers from the job earlier. There's a plain one and a chocolate one, so which flavor would you―"
+2005007010010,摩美々,チョコがいいですー,I'll have the chocolate.
+0000000000000,プロデューサー,"そうか
+じゃあ、はいこれ","I see.
+Okay, here you go."
+2005007010020,摩美々,ありがとうございまぁす,Thank you...
+2005007010030,摩美々,…………,......
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,あ、そういえば,"Oh, that reminds me."
+0000000000000,プロデューサー,"今度の打ち上げの場所……
+和食と洋食、どっちがいいか希望はあるか？","Oh, that reminds me. It's for the celebration venue.
+Which food would you like to be served, Japanese or Western?"
+2005007010040,摩美々,洋食でー,Western.
+0000000000000,プロデューサー,わかった。いいところを探しておくよ,Got it. I'll find a good restaurant that serves that.
+2005007010050,摩美々,…………,......
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,──そうだ,Right.
+0000000000000,プロデューサー,"……このオファー、２誌から雑誌掲載について来てるんだが
+両方ともは難しいみたいなんだ","I have these offers from two magazine publications, but it seems that it would be hard to do both of them."
+0000000000000,プロデューサー,"どっちがいいか少し迷っていてな……
+摩美々の意見も聞かせてくれ","I'm a little torn on which one to take. Could you give me some of your thoughts on them, Mamimi?"
+2005007010060,摩美々,どれどれー……,"Let's see... "
+2005007010070,摩美々,……こっち一択ですねー,"It has to be this one, right."
+0000000000000,プロデューサー,"そ、そうか
+相変わらずだが……即決だな","I-I see.
+Still the same as always but it's settled."
+2005007010080,摩美々,まぁ……,Guess so...
+0000000000000,プロデューサー,……仕事のことくらいは,"For matters related to work,"
+0000000000000,プロデューサー,"もう少し時間をかけて、
+考えてもいいんじゃないか？",How about spending a little more time thinking before making at a decision? At the very least.
+2005007010090,摩美々,…………,......
+2005007010100,摩美々,"女は直感で判断する……
+って言うじゃないですかぁ","...It was once said that women listens to her intuiton when making a decision, right?"
+2005007010110,摩美々,誰の言葉だったかは忘れましたケド,Although I forgot who said that in the first place.
+2005007010120,摩美々,"だから私は、即決というかぁ……
+直感を信じてるって感じですー。ふふー","So, not that I'm quick to make a decision, but more like I believe in what my gut tells me. Fufu."
+0000000000000,プロデューサー,…………,......
+select,,その考えはよくないぞ,I don't think that's a good way of thinking
+select,,"やっぱりもう一度
+考えてみてくれ","It'd be better if you
+think it over again"
+select,,そ、そうか……,I-I see...
+2005007010130,摩美々,えー……,Eh?
+2005007010140,摩美々,"これでいいって言う私とー
+それじゃだめって言うプロデューサー……","I say that this is fine
+and you say that it's not,"
+2005007010150,摩美々,……平行線ですねー,so it looks like we can't meet in the middle.
+0000000000000,プロデューサー,"そうだな……だが、これは摩美々のためだ
+俺も譲れないぞ……！","Yes... But, this is for your sake!
+I won't compromise on this!"
+2005007010160,摩美々,"……わかりました
+それなら──白黒つけましょー","I see.
+Okay, let's get it settled once and for all."
+2005007010161,摩美々＆プロデューサー,──ポン！！,Shoot!!
+0000000000000,プロデューサー,"（これで、24回目のあいこだ……
+つ、次こそは……！）","(This is the 24th time we tied.
+I-I'll win it next time, for sure!)"
+2005007010162,摩美々＆プロデューサー,"じゃーんけーん
+……ポン！","Rock, paper scissors...
+...shoot!"
+0000000000000,プロデューサー,…………あ,...Ah
+2005007010170,摩美々,ふふー、私の勝ちです,"Fufu, I won."
+0000000000000,プロデューサー,くっ……！,Tch...!
+2005007010180,摩美々,"ということで、私からは
+さっきのでファイナルアンサー、でお願いしますねー","With that said, the option I picked earlier would be our final answer, okay."
+0000000000000,プロデューサー,"あ、あぁ……わかったよ
+……今回はな","Y-Yeah... okay.
+But, just for this time."
+2005007010190,摩美々,……ふふー,Fufu...
+0000000000000,プロデューサー,"この資料、摩美々に渡しておくから
+明日また意見を聞かせてほしい","I'll be giving this document to you, Mamimi.
+Then, tomorrow, I'll ask your thoughts about it once more."
+2005007010200,摩美々,……えー,...Eh?
+0000000000000,プロデューサー,"……今の摩美々は
+直感で判断するだけじゃなくて","...Don't just rely on your intuition like you're doing right now,"
+0000000000000,プロデューサー,"じっくり考えてから
+答えを出す経験もしてみた方がいいと思うんだ",but I think it'll prove to be a good experience if you also try giving it some thought before making your decision.
+2005007010210,摩美々,…………,......
+2005007010220,摩美々,……方向性の違いってやつですねー,"...This is one of those ""difference on which direction to take"" kind of thing, isn't it?"
+0000000000000,プロデューサー,え？,Eh?
+2005007010230,摩美々,──ということで、解散ー,"With that said, meeting over.
+"
+0000000000000,プロデューサー,ま、摩美々……,M-Mamimi...
+2005007010240,摩美々,"まぁ、それは冗談ですケド……
+……でも","That was a joke, just now.
+But..."
+2005007010250,摩美々,"私も私のやり方があって……
+ちゃんと『考えてる』のでー","I hope that you'd remember that I
+also have my own way of doing things."
+2005007010260,摩美々,"それは、忘れないでくださいねー
+ふふー……","Still, I'll make sure to ""give it some thought"".
+Fufu."
+0000000000000,プロデューサー,……適当じゃないならいいんだ,"...As long you're not half-hearted about it, then it's fine."
+2005007010270,摩美々,わかってもらえて何よりですー,I'm glad that you understand.
+0000000000000,プロデューサー,ああ……,Yeah...
+2005007010280,摩美々,"──それじゃー
+レッスンにでも行きましょうかねー","Well,
+I better get going for my lesson."
+0000000000000,プロデューサー,"おお
+そうか、頑張ってくるんだぞ","Oh, okay.
+I'll do my best for this."
+2005007010290,摩美々,"あ……
+さっきの仕事、楽しみにしてますからぁ","Ah, about that job earlier,
+I'm really looking forward to it."
+2005007010300,摩美々,なんでしたっけ……あの、雑誌の撮影,What was it again? Something about a magazine shoot?
+2005007010310,摩美々,"テーマが、あれみたいなやつです
+えっと……チャンス","And it's about something like that thing...
+Uhh... chance."
+0000000000000,プロデューサー,……『CHANGE!!!!』だな,"...It's ""CHANGE!!!"""
+2005007010320,摩美々,そーそー、チェンジでしたぁ,"Right, change..."
+2005007010330,摩美々,ふふー……,Fufu.
+0000000000000,プロデューサー,────適当じゃないか！！,THAT WAS COMPLETELY HALF-HEARTED!!!
+info,produce_events/200500701.json,
+译者,,
