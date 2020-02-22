@@ -1,0 +1,90 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──次の仕事はこんな感じだ
+何か質問はあるか？","-The next job will be like this, do you have any questions?"
+2002005010010,灯織,"そうですね……
+一旦、整理したいので資料を見返します",Let's see... I wanted to sort the documents so I'll look them over.
+0000000000000,プロデューサー,わからない部分は気軽に聞いてくれて良いからな,If you don't understand something feel free to ask.
+2002005010020,灯織,"いえ、まずは自分できちんと確認してからにします
+調べもしないで質問するのは失礼ですので","No, I'll confirm it on my own first. It's rude to ask questions without even researching by myself."
+0000000000000,プロデューサー,ああ……わかった……,Ah... I understand...
+0000000000000,プロデューサー,"（……よし、大体まとめ終わったな
+あとは──）","(...Alright, we're pretty much done gathering things up. Next is-)"
+2002005010030,灯織,──痛っ……,-Ow...
+0000000000000,プロデューサー,灯織、どうした！,"Hiori, what's wrong?!"
+2002005010040,灯織,"……あ、いえ
+ちょっと……紙で指を切ってしまって","...Ah, no. ...I got a bit of a papercut on my finger."
+0000000000000,プロデューサー,血が出てるじゃないか！　早く手当てしないと！,There's blood coming out! We need to take care of it right away!
+2002005010050,灯織,だ、大丈夫です……！　自分でできますから,I-i'm fine...! I can do it by myself.
+2002005010060,灯織,あ……,Ah...
+0000000000000,プロデューサー,あ、すまん……急に手を掴まれたら驚くよな,"Ah, I'm sorry... Suddenly grabbing your hand would surprise you."
+2002005010070,灯織,"……すみません、手を振り払ってしまって……
+心配してくれたのに……","...I'm sorry, I shook your hand away... Even though you were concerned about me..."
+2002005010080,灯織,"仕事……途中ですよね？
+私のことは大丈夫ですから……","We're in the middle of work right? I'll be fine, so..."
+select,,"救急箱を
+持ってくるよ","I'll go get
+the first
+aid kit"
+select,,そう言ってもな……,"Even if
+you insist..."
+select,,"そこで
+待っててほしい","I want
+you to
+wait there"
+0000000000000,,"★選択肢①【救急箱を
+持ってくるよ】",★選択肢①【I'll go get the first aid kit】
+0000000000000,プロデューサー,救急箱を持ってくるよ,I'll go get the first aid kit.
+2002005010090,灯織,いえ、それも自分で……！,"No, I can do that myself too...!"
+2002005010100,灯織,この前、七草さんに場所を聞いたので大丈夫です,"I asked Nanakusa-san earlier where it is, so it's fine."
+2002005010110,灯織,よし、これで大丈夫……,"Alright, this should be okay..."
+0000000000000,プロデューサー,手伝えなくて、すまなかったな,I'm sorry I wasn't able to help.
+2002005010120,灯織,！　……いえ、気にしないでください,"! ...No, please don't worry about it."
+2002005010130,灯織,心配してもらっただけでも申し訳ないのに,I feel bad for making you concerned.
+2002005010140,灯織,"その上
+プロデューサーの仕事まで止めてしまっては……",I also made you have to stop your work too...
+0000000000000,プロデューサー,仕事が止まることより、灯織のケガの方が一大事だ,You being hurt is more important than me stopping my work.
+0000000000000,プロデューサー,"だから、そういう時は
+遠慮せず頼ってくれると嬉しい",So I'd be glad if you relied on me during times like this.
+2002005010150,灯織,……,......
+2002005010160,灯織,はい、次からは、そうしますね,"Okay, next time I will."
+2002005010170,灯織,ありがとう……ございます,Thank you... very much.
+0000000000000,,★選択肢②【そう言ってもな……】,★選択肢②【Even if you insist...】
+0000000000000,プロデューサー,そう言ってもな……,Even if you insist...
+0000000000000,プロデューサー,やっぱり、心配だからもう一度見せて欲しい,"I'm still worried, so let me see it again."
+2002005010180,灯織,……,......
+2002005010190,灯織,はい……わかりました,Okay... I understand.
+0000000000000,プロデューサー,うーん……,Hmm...
+0000000000000,プロデューサー,"まだ血が止まってないし、深く切ってるかもしれない……
+手当てするから座っててくれるか？","The blood still hasn't stopped coming out, so you might have cut it deeply... I'll treat it, so can you sit down please?"
+0000000000000,プロデューサー,よし、あった……,"Alright, got it..."
+0000000000000,プロデューサー,消毒液が染みるかもしれないが、我慢してくれ,"The solution might sting, but please bear with it."
+2002005010200,灯織,っ！,!
+0000000000000,プロデューサー,"もう少しだからな……
+絆創膏を貼って……よし、これで大丈夫だ","Just a bit more... Here's a band-aid to cover it. ...Alright, it should be okay now."
+0000000000000,プロデューサー,"はがれにくいように巻いておいたから
+レッスンとかあっても大丈夫だぞ",I put it on so it shouldn't come off easily. Even if you do lessons it'll be fine.
+2002005010210,灯織,ありがとうございます……,Thank you very much...
+2002005010220,灯織,手際……良いんですね,You're skilled at this.
+0000000000000,プロデューサー,いつ何が起きても大丈夫なように勉強してたんだ,I studied so no matter what happens I'll be able to handle it.
+2002005010230,灯織,そうなんですね……,Really...
+2002005010240,灯織,"あの、もし良かったら、今度応急処置のお話とか
+教えてもらっても良いですか？","Um, if it's okay with you, could you teach me about what to do in an emergency?"
+0000000000000,プロデューサー,ああ、大丈夫だ！,"Yeah, that's fine!"
+2002005010250,灯織,ありがとうございます、よろしくお願いします……！,"Thank you very much, I'll be counting on you...!"
+0000000000000,プロデューサー,えっと、救急箱は……あった,"Um, the first aid kit is... over here."
+0000000000000,プロデューサー,あっ、でも、絆創膏が切れてるな……,"Ah, but it's out of band-aids..."
+2002005010260,灯織,でしたら、自分で買いに……,I could buy some myself...
+0000000000000,プロデューサー,"ちょっと待っててくれ
+確か、手持ちのが……あった、これで手当てしよう",Please wait a bit. I think I have some... I'll use this.
+2002005010270,灯織,ありがとうございます……,Thank you very much...
+0000000000000,プロデューサー,"気にしなくていいぞ
+こういう時のために持ち歩いているんだし",Don't worry about it. I keep some on me in case of times like this.
+2002005010280,灯織,"プロデューサーのおかげで助かりました……
+今度、何かお礼をさせてください",You helped me out... Please let me do something to thank you next time.
+0000000000000,プロデューサー,"いやいや、大丈夫だ
+これくらい大したことじゃない","Nah, nah, it's fine. This isn't a big deal."
+2002005010290,灯織,いえ、そういうわけにはいきません,"No, I have to."
+0000000000000,プロデューサー,わ、わかった、じゃあ、待ってるぞ,"A-alright, then I'll wait."
+2002005010300,灯織,はい、ありがとうございます,"Okay, thank you very much."
+info,produce_events/200200501.json,
+译者,,

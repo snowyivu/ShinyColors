@@ -488,7 +488,7 @@ gasha.noExpire,期限なし,No Expiration
 gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
 gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,Get a %{pickUpName} after %{stampNumForNextPickUp} more stamps!
 gasha.stamp.popReward.title,スタンプカード報酬,Stamp Card Reward
-gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,The following items have been sent to your present box
+gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,The below items have been sent to your present box
 gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,Once the stamp card is filled rewards will repeat the 1~%{boardNum} pages
 gasha.freeGift.popReward.title,おまけ,Bonus
 gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left

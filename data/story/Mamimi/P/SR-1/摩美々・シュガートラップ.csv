@@ -1,0 +1,143 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（……よし、スケジュール調整は終わった
+あとは書類整理だけか）","(Alright, I'm done with the scheduling.
+All that's left now is the filing.)"
+2005003020010,摩美々,あのー、プロデューサー？,"Say, Producer."
+0000000000000,プロデューサー,"ん？
+どうしたんだ、摩美々","Hmm?
+What is it, Mamimi?"
+2005003020020,摩美々,レッスン以外にやることってないんですかぁ？,Is there anything else I can do besides lessons?
+0000000000000,プロデューサー,"そう言われてもなぁ……
+今日は仕事はないって伝えたはずだぞ","Even if you ask me that... But, I should've informed you that you have no scheduled work for today."
+2005003020030,摩美々,"えー、何もしないのってー
+退屈なんですケドー","Eh? I have nothing to do?
+But I'm really bored here."
+2005003020040,摩美々,"アイドルが楽しく仕事できるようにするのが
+プロデューサーの役目じゃないんですかぁ？",Isn't the producer's job to make sure that his idol would be able to enjoy herself while working?
+0000000000000,プロデューサー,"それもそうだが、
+こればっかりはどうしようもないな……",That's true but you've just become an idol so there's nothing much we can do about it.
+0000000000000,プロデューサー,"他のメンバーはもう帰ったんだし、
+暇だったら、摩美々も帰っていいんだぞ？","The other have already left so, if you have nothing to do, why don't you go home too?"
+2005003020050,摩美々,だってー、帰ってもやることないんですよー,But I have nothing to do even if I do go home now.
+0000000000000,プロデューサー,"だからといって、俺の近くをうろうろしても
+仕事が来るわけじゃないぞ","Even so, there's no way a job
+will come if you hang around me."
+2005003020060,摩美々,"そうですけどー……、
+あー、じゃあこないだ私を探してくれたお礼しようかなぁ","Yeah, but... I know, maybe I should show my appreciation for looking for me the other day."
+2005003020070,摩美々,"あ、プロデューサーのマグカップ、空っぽですねー
+私がコーヒー淹れてあげましょうかぁ？","Oh, your mug's all empty.
+How about I make you some coffee?"
+0000000000000,プロデューサー,"お、いいのか？
+コーヒーは、あっちの棚の奥にあるから──","Oh, you won't mind?
+Well, the coffee's in that storage over there─"
+2005003020080,摩美々,"……遠いですねー
+やっぱりめんどーなんでー、自分で淹れてくださぁい","That is so far.
+Since that's too much trouble, please make it yourself."
+0000000000000,プロデューサー,……わかったよ,Fine.
+2005003020090,摩美々,"そういえば、今プロデューサーは仕事中ですけどー
+急に手が空いたら、何してるんですかぁ？","By the way, you are in the middle of something but,
+If you suddenly have some free time, what would you do?"
+0000000000000,プロデューサー,"んー、どうしてもやることがなくなったら
+デスク周りの掃除だな","Well, if I really have nothing else to do, then I guess I'll clean around the desk."
+2005003020100,摩美々,じゃあ、私が今から掃除してあげましょうかぁ？,"Okay, so how about if I do some cleaning now?"
+0000000000000,プロデューサー,"それは助かるな、ありがとう
+雑巾なら給湯室に……","That would save me a lot of trouble. Thanks.
+The dust cloth is in the break room─"
+2005003020110,摩美々,"……雑巾……
+なんだか掃除めんどーになってきましたぁ","Dust cloth...
+Sounds like cleaning would be too much trouble to do."
+2005003020120,摩美々,"やっぱりコーヒーを淹れることにしますからぁ
+マグカップ借りていきますねー","I guess I'd be making you coffee.
+So, I'll just borrow your mug."
+0000000000000,プロデューサー,（……結局そうなるのか）,"(So, you still end up doing that, huh.)"
+2005003020130,摩美々,"プロデューサー、コーヒー淹れてきましたよー
+はい、どうぞー","Producer, I made you coffee.
+Here, enjoy."
+0000000000000,プロデューサー,"お、ありがとう
+いただくよ","Oh, thanks.
+I'll drink it now."
+0000000000000,プロデューサー,"……って、甘っ！？  ゴホゴホッ
+ちょっと甘すぎるんじゃないかこれ……？","...It's sweet! *coughs*
+Isn't this too sweet!?"
+2005003020140,摩美々,"あー、すいませーん
+砂糖の量、間違えちゃったかもしれないですー","Oh, sorry about that. Looks like I might've used the wrong amount of sugar while making it."
+select,,わざとやったのか？,Did you do this on purpose?
+select,,"相変わらず
+イタズラ好きだな……","Up to your usual
+mischief, huh."
+select,,いや、おいしかったぞ,"No, it's still good"
+2005003020150,摩美々,さぁ、どうでしょうねー？,"Well, who knows?"
+0000000000000,プロデューサー,"まったく……
+他の人にはこういうことしたら駄目だぞ？","Haa...
+But you shouldn't do these kinds of things to others, okay?"
+2005003020160,摩美々,"じゃあ、プロデューサーには
+いっぱいイタズラしていいってことですかぁ？","So, does that mean it's okay
+if I pull a lot of pranks on you?"
+0000000000000,プロデューサー,なんでそうなるんだ……,How did you come to that conclusion?
+2005003020170,摩美々,"だってー、他の人にはしちゃダメってことはぁ
+プロデューサーは私のイタズラ、独占したいんですよねー？","Well, you did say that I shouldn't do that to others so that means you want all my pranking to yourself, right?"
+0000000000000,プロデューサー,"……そうは言ってないが……
+ほどほどなら、まぁ……","While I didn't exactly say that...
+But if you do it in moderation, maybe..."
+2005003020180,摩美々,"ふふー、
+やっぱり優しいんですねー","Fufu,
+You really are nice."
+2005003020190,摩美々,"そんなプロデューサーにはぁ
+もう一杯オマケでコーヒーあげちゃいますー","And a producer like that
+deserves another mug of coffee."
+0000000000000,プロデューサー,"もう一杯淹れてたのか
+って、もしかしてこれも甘くしてあるんじゃ……","You made me another one?
+Wait, don't tell me that this is too sweet."
+2005003020200,摩美々,"それじゃー、私はこれで、
+帰りますねー","Okay,
+I'll be heading home now."
+0000000000000,プロデューサー,"えっ……結局こっちは甘いのかわからないままか
+でも、飲まずに捨てるのも悪いし……","Huh? So, I end up not knowing if this is also a sweet one.
+But, I feel bad throwing it away without drinking it."
+0000000000000,プロデューサー,（とりあえず飲んでみるか）,(I guess I'll try drinking it.)
+0000000000000,プロデューサー,"……普通のコーヒーだ
+一応、ちゃんと淹れてはくれてたんだな","It's normal.
+So, Mamimi did make me one."
+2005003020210,摩美々,"私、悪い子ですからぁ、
+イタズラは好きですよー","I am a bad girl so I love doing
+these kinds of pranks."
+0000000000000,プロデューサー,"まったく、
+不必要に砂糖を多く入れるんじゃない","Hah...
+And you gratuitously added too much sugar into this."
+2005003020220,摩美々,砂糖ならたくさんあるからいいじゃないですかぁ,We have a lot of sugar here so it's no big deal.
+0000000000000,プロデューサー,"だからといって、
+無駄遣いしていいってわけじゃないんだぞ？","Even so, you do know that it doesn't make
+it right to waste them, right?"
+0000000000000,プロデューサー,"他の人が使う時に無くなったら
+困るじゃないか",It'd cause trouble for someone if they find it gone when they're about to use it.
+2005003020230,摩美々,"仕方ないですねー
+じゃあ、今度からは気をつけますねー","It can't be helped then.
+Okay, I'll be more careful next time."
+0000000000000,プロデューサー,"（注意したのに
+なぜかうれしそうにされてしまった……）",(Mamimi's been warned and yet she seems to be happy for some reason.)
+2005003020240,摩美々,"えー、ほんとですかー？
+むせてたように見えましたケド","Eh? really?
+But I saw you choking on it."
+0000000000000,プロデューサー,いや、あれは気管に入っただけだ,"No, it just went down the wrong pipe."
+2005003020250,摩美々,"そう……なんですかぁ？
+一口もらいますねー","Is that so?
+I'll take a sip then."
+2005003020260,摩美々,"…………
+あ、意外とおいしいですねー","......
+Oh, it is surprisingly good."
+0000000000000,プロデューサー,"え、おいしいってのは冗談だったんだが……
+もう一度飲んでみるか……","Huh? I thought I was joking when I said it was good.
+Maybe I'll drink it again."
+0000000000000,プロデューサー,"──ブッ！
+やっぱり甘すぎるだろ","Bfft!
+It is too sweet!"
+2005003020270,摩美々,"プロデューサー、吹き出すなんて
+汚いですよー","Producer, that's dirty
+of you to spit like that."
+0000000000000,プロデューサー,摩美々、これ、本当においしいと思ったのか……？,"Mamimi, do you really think that this tastes good?"
+2005003020280,摩美々,"そんなわけないじゃないですかぁ
+甘すぎて飲めませんー","Of course not.
+It's so sweet that I can't drink it."
+0000000000000,プロデューサー,……やられた,...I've been had.
+info,produce_events/200500302.json,
+译者,,

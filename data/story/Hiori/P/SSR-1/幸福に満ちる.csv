@@ -1,0 +1,79 @@
+id,name,text,trans
+2002004030010,灯織,……プロデューサー、こっちです,"...Producer, I'm over here."
+0000000000000,プロデューサー,俺の方から誘ったのに待たせてごめんな,I'm sorry for making you wait despite being the one who invited you.
+2002004030020,灯織,"いえ、私の衣装に合わせる小物を探す以上、
+お付き合いするのは当然です","No, since we're looking for an accessory to match my costume, it's natural I'd come with you."
+0000000000000,プロデューサー,"（本当は、灯織の息抜きが目的なんだけど……
+そういうと断られるからな）",(The truth is I wanted to give Hiori a breather... If I said that she'd refuse though.)
+0000000000000,プロデューサー,じゃあ、さっそく出発するか,"Alright, we're heading out now."
+2002004030030,灯織,はい。では、行きましょう,Okay. Let's go.
+2002004030040,灯織,……ふぅ,...Phew.
+0000000000000,プロデューサー,"どうだ？　何件か回ってみたけど
+合いそうな物は見つかりそうか？","How is it? We've looked at many items, have you found any that fit?"
+2002004030050,灯織,"……いえ、やはりどれも
+ピンと来なくて……","...No, none of it stands out to me..."
+2002004030060,灯織,"アイドルらしい小物って……
+いったいどういうものなんでしょうか？",What is an accessory that seems idol-like anyways?
+0000000000000,プロデューサー,そうだな……,Let's see...
+0000000000000,プロデューサー,"俺としては、灯織を１番輝かせるのは、
+灯織が好きになった物だと思うんだ",I think personally that picking something you like is what will make you sparkle the most.
+2002004030070,灯織,"私が好きなもの、ですか……
+なるほど、そういう考えもあるんですね",Something I like... I guess you can see it like that too.
+0000000000000,プロデューサー,ああ、少し視点を変えて見てみよう,"Yeah, let's try changing our point of view."
+2002004030080,灯織,"でも……私の好きなものなんて、
+見つかるでしょうか……？",But... Will I find something that I like...?
+0000000000000,プロデューサー,そんな顔するな、せっかくだし楽しもう,"Don't give that look, since we're here let's enjoy it."
+0000000000000,プロデューサー,"あ、向こうに出ている露店も見てみないか？
+今までとは雰囲気の違うものが置いてるかも",How about you try looking at that booth over there? It seems kind of different than what we've looked at so far.
+2002004030090,灯織,"はい
+私、ちょっと行ってみます",Okay. I'm going to check it out for a bit.
+0000000000000,プロデューサー,どうだ？　好きなものは見つかりそうか？,How was it? Were you able to find something you like?
+2002004030100,灯織,"どれも綺麗ですが、
+好きかと言われると……やっぱり、難しいです","All of it was pretty, but... It's hard finding something I can say that I like."
+2002004030110,灯織,"……プロデューサーはこの中なら
+どれが好きですか？","...Producer, which of these do you like?"
+0000000000000,プロデューサー,"そうだなぁ……このあたりの誕生石を
+あしらったやつなんかいいんじゃないか？",Hm... This decoration with a birthstone seems fine.
+2002004030120,灯織,"誕生石……なるほど
+私は3月4日なので……","A birthstone... I'm born on March 4th, so..."
+0000000000000,プロデューサー,この青い石がはめ込まれた髪留めだな,How about this hairclip with aquamarine?
+2002004030130,灯織,わぁ……,Wow...
+0000000000000,プロデューサー,気にいったか？,Do you like it?
+2002004030140,灯織,……いえ、ちょっと気になっただけです,...I just took some interest in it is all.
+0000000000000,プロデューサー,気になった物を見つけただけでも、充分じゃないか,It's plenty even if it only interests you.
+2002004030150,灯織,それは……はい、たしかに,"That's... Yes, you're right."
+0000000000000,プロデューサー,誕生石は、お守りにもなるらしいぞ,It seems that birthstones can become a charm too.
+2002004030160,灯織,……そうなんですね,...Really.
+2002004030170,灯織,"……決めました
+私、これにします","...I've decided, I'll go with this."
+2002004030180,灯織,ありがとうございます、プロデューサー,"Thank you very much, Producer."
+0000000000000,プロデューサー,"（嬉しそうだな……
+連れてきて、正解だったみたいだ）",(She seems happy... It seems like going together was the right thing to do.)
+0000000000000,プロデューサー,良かったら早速、付けて見せてくれるか？,How about you try it on right now?
+2002004030190,灯織,……それじゃあ,...Okay.
+2002004030200,灯織,"後ろにつけてみましたが……
+どう、ですか？","I tried putting it on in the back, but... How does it look?"
+select,,よく似合ってるぞ,"It suits
+you"
+select,,"灯織らしくて
+いいと思うぞ！","I think it's
+good like you!"
+select,,"衣装にも
+合わせやすそうだ","It should
+fit your
+costume well"
+2002004030210,灯織,……あ、ありがとうございます,...T-thank you very much.
+0000000000000,プロデューサー,"これでステージの上の灯織は、
+もっと輝けるな！",With this you'll shine more up on stage!
+2002004030220,灯織,はい、大事にします,"Right, I'll take care of it."
+2002004030230,灯織,私らしい……？　そうでしょうか？,Like me...? Do you think so?
+0000000000000,プロデューサー,"ああ。澄んだ青色が綺麗に輝いてて
+灯織のイメージにぴったりだ",Yeah. The clear blue color shines beautifully and fits your image perfectly.
+2002004030240,灯織,"そ、そうですか……
+そう言われると、少し気恥ずかしいですね……",R-really... It's a bit embarrassing when you say it like that...
+2002004030250,灯織,そうですか。じゃあ、これにしてよかったです,Really? I'm glad I picked this then.
+0000000000000,プロデューサー,ああ。ふたりで色々見て回った甲斐があったな,Yeah. Looking around together had an impact.
+2002004030260,灯織,"そ、そうですね……今日はお付き合いいただいて……
+その……ありがとうございました",R-right... Going out with me today... Um... Thank you very much.
+info,produce_events/200200403.json,
+译者,,

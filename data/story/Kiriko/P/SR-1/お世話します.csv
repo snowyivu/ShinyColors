@@ -1,0 +1,159 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（はーっ……さすがに休みがないとつらいな……
+身体が思ったように動いてくれないぞ……）","(Haa... It's so hard not being able to take some time off.
+My body doesn't even move as much as I wanted it to.)"
+2008003020010,霧子,"……プロデューサーさん？
+おはようございます……！","Producer...?
+Good morning."
+0000000000000,プロデューサー,"あ、おはよう、霧子
+調子はどうだ？","Oh, good morning, Kiriko.
+How are you doing? "
+2008003020020,霧子,"……はい
+問題ないです……！","I'm... 
+just fine."
+0000000000000,プロデューサー,"よかった
+ちょっとしたことでも、何かあったら言ってくれ","That's good to hear.
+If there's anything on your mind, anything at all, feel free to let me know."
+2008003020030,霧子,"はい……ありがとうございます
+……えっと……そ、それじゃ……","I will. Thank you for worrying about me.
+Umm... w-well..."
+0000000000000,プロデューサー,どうした、さっそく何かあったか？,"So, did something come to mind right away?
+"
+0000000000000,霧子,……,......
+0000000000000,プロデューサー,……ん？　どうしたんだ、霧子？,"...Hmm? What's the matter, Kiriko?"
+2008003020050,霧子,"あの……プロデューサーさん……
+少しお疲れじゃないですか……？","Umm... Producer-...
+Aren't you feeling a little tired?"
+2008003020060,霧子,"わ、わたしの考えすぎだったら……
+ごめんなさい……","I'm really sorry...
+If it's just me overthinking about things..."
+0000000000000,プロデューサー,"……うーん、さすが霧子だな
+隠してたつもりなんだけど……ちょっとな","That is so like you, Kiriko.
+I was trying to hide it but... yeah, just a bit."
+2008003020070,霧子,"やっぱり……そうだったんですね……
+いつもより、顔色が……","It's just... as I thought.
+You don't look like your usual self."
+2008003020080,霧子,"あ、あのっ、あのですね……！
+今日は、もうお休みにしたほうがいいと思うんです……！","W-Well, I don't want to sound rude but... I think it'd be better if you rest for the day."
+select,,"栄養ドリンク、
+買ってくるよ","I'll buy a supplemental
+nutrition drink"
+select,,息抜きに散歩でもするよ,I could take a breather and go on a walk
+select,,ちょっと休憩しようかな,I guess I could take a short break
+0000000000000,プロデューサー,……心配してもらっちゃって、悪いな,I'm sorry that I made you worry.
+2008003020090,霧子,"そ、それなら、
+わたしも……一緒に行きます……！","T-Then,
+I will come... along with you."
+2008003020100,霧子,"栄養ドリンクだけじゃ……心配です……
+ちゃんとした栄養食品も、買っておかないと……！","I don't feel at ease... if you'll only get a supplemental nutrition drink.
+We must buy some nutritious food too. "
+2008003020110,霧子,よかったら……わたしにも選ばせてください……！,"If you won't mind... please let me choose what to buy too. "
+0000000000000,プロデューサー,"そうだな……まあ、息抜きにもなるし……
+一緒に行ってくれるか？","Well, seeing that it could become some sort of breather too,
+how about you come along too? "
+2008003020120,霧子,"思ったより、お客さんが多いですね……
+あっ、そっち……！　ぶつかっちゃいますっ……！","There are a lot of people here than I expected.
+Ah, look out! You're going to crash into someone!"
+0000000000000,プロデューサー,"ははっ、そんなに引っ張らなくても……
+大丈夫、見えてるよ","Haha, you don't have to pull me that hard.
+Don't worry, I can see my way."
+2008003020130,霧子,"で、でも……
+人がいっぱいで、まっすぐ歩けませんね……","B-But... there are so many people
+so we can't just walk straight ahead."
+0000000000000,プロデューサー,"そこまで気を回すと、むしろぶつかっちゃうぞ
+……ほら前、気を付けて","If you worry that much, we'll really bump into someone.
+Be careful in front you. "
+2008003020140,霧子,"あっ……！
+あうぅ、す、すみません……","Ah.
+Auh... I-I'm so sorry... "
+2008003020150,霧子,やっと……薬局です……！,We're finally... at the drugstore.
+0000000000000,プロデューサー,ああ。霧子がいてくれて助かったよ,"Yeah. You've been a big help staying with me, Kiriko."
+0000000000000,プロデューサー,"さあ、買い物、終わらせちゃおう
+アドバイスよろしくな","Alright, let's get this shopping over with.
+I'll be counting on your advice. "
+2008003020160,霧子,"は、はい……
+ま……まかせてください！","O-Okay.
+J-Just leave it... to me."
+2008003020170,霧子,"あの、じゃあ……わたしも行きます……
+プロデューサーさんに何かあったら、困ります……！","Umm, in that case... I'll join you too. It would be quite worrying if something would happen to you, Producer."
+0000000000000,プロデューサー,"はは。何かあって心配なのは霧子のほうなんだけど……
+そうだな、せっかくだし一緒に行こうか","Haha, If something does happen, I'd be worried more about you though. Still, since this doesn't happen that much, let's have a walk together then."
+0000000000000,プロデューサー,……ありがとな,Thanks.
+2008003020180,霧子,空気がおいしくて、気持ちいいですね……♪,"The air is nice and feels so good, doesn't it?"
+0000000000000,プロデューサー,ああ。出てきてよかった,Yeah. I'm glad we did go out here.
+0000000000000,プロデューサー,"……あ、大っきい犬が繋がれてるな……
+な、なんか紐が外れそうじゃないか……？","Look, there's a big dog tied there.
+D-Doesn't it look like its leash is going to come off?"
+2008003020190,霧子,あ……危ないです！,"Ah, look out!"
+2008003020200,霧子,"う、うう……っ
+プロデューサーさん、逃げてください……！","U-Uuh...
+Please get away from here, Producer!"
+0000000000000,プロデューサー,き、霧子……？,K-Kiriko?
+2008003020210,霧子,"わ、わたしがこうして見てますから……
+プロデューサーさんは、お散歩を続けてください……！","I-I'll be on the look out for things...
+So, please continue with your stroll."
+0000000000000,プロデューサー,"はは、プロデューサーが
+アイドルに守られるわけにはいかないなぁ……","Haha, a producer shouldn't be the
+one being protected by his idol."
+2008003020220,霧子,"プロデューサーさん……！
+近づいたら、あ、危ないです……！","Producer!
+I-It's dangerous to get close!"
+0000000000000,プロデューサー,"大丈夫みたいだよ
+ほら、頭を撫でると、気持ちよさそうだ","It seems to be okay.
+Besides, wouldn't it feel good if we were to pat its head?"
+2008003020230,霧子,"す、すごいです……プロデューサーさん……
+全然、噛んだりしない……","Y-You're amazing... Producer.
+The dog doesn't seem to bite you at all."
+2008003020240,霧子,"ふふ……可愛いですね……
+尻尾を振って……気持ち良さそうです……♪","Fufu, he's so cute.
+With the way he was his tail... he seems to be enjoying it."
+0000000000000,プロデューサー,"霧子、ありがとうな
+いい息抜きになったよ","Thank you, Kiriko.
+That was quite a refreshing breather."
+2008003020250,霧子,"ほ、本当ですか……？
+お役に……立てましたか……？","Really?
+Have I really... manage to help you?"
+0000000000000,プロデューサー,"もちろんだ
+とっても、心強かったよ","Of course.
+Your presence was quite reassuring."
+2008003020260,霧子,"じゃ、じゃあ……引き続き、
+今日一日、プロデューサーさんのこと……お世話します！","I-In that case... I'll continue looking
+after you for this whole day... Producer."
+2008003020270,霧子,"はい……
+プロデューサーさん……！","Please do so...
+Producer.
+"
+0000000000000,プロデューサー,とりあえず仮眠でも取るか……,"I think I take a nap for the time being. "
+2008003020280,霧子,"そ、それなら……ブランケットと、クッションと……
+それと、おでこに貼る冷却シートもあります……！","I-In that case... we have a blanket and cushion...
+And also some forehead cooling pads."
+2008003020290,霧子,ちゃんと横になって、お休みしてください……！,Please lie down and get some rest.
+2008003020300,霧子,"えーと……こっちのソファなら、
+もう少しゆっくり休めるかも……！","Umm... If you lie here on this sofa,
+you might rest a little easier."
+0000000000000,プロデューサー,（本当に、霧子はよく気のつく子だなぁ……）,(Kiriko really is a very attentive girl.)
+0000000000000,プロデューサー,"霧子、ありがとう
+でも、ここまでしてもらうわけにはいかないよ","Kiriko, I appreciate what you're doing.
+But, you really don't have to go this much."
+2008003020310,霧子,"いえ……ご用事のときは、起こしますから……
+安心して……休んでください……！","I don't mind. I'll wake you up in case something needs your attention.
+So, please don't worry much... and have a good rest."
+0000000000000,プロデューサー,"うーん。でも、霧子もそんなに頑張らないでくれ
+座って、ゆっくり休憩するといい","Alright. Still, you really don't have to overwork yourself.
+It's alright to have a seat and relax."
+2008003020320,霧子,わ、わかりました……,O-Okay.
+2008003020330,霧子,"あ……す、すみません……！
+つい……隣に座ってしまって……！","Ah... S-Sorry about that.
+I couldn't help myself... to sit right beside you."
+0000000000000,プロデューサー,"はは、いいよ
+気にしないで休んでくれ","Haha, it's fine.
+Don't worry about it and get some rest yourself."
+2008003020340,霧子,"そ、そうですか……
+じゃあ……","O-Oh, I see.
+Then..."
+2008003020350,霧子,じゃあ、ブランケットを一緒に……,Let's share this blanket together.
+0000000000000,プロデューサー,ああ……すまん、寝てしまいそうだ……,Sure... Sorry but I think I'm getting sleepy now...
+2008003020360,霧子,今日は……一日、お隣にいますから……,"Today... I will be by your side, this entire day."
+0000000000000,プロデューサー,（ん……霧子が横にいると、温かいな……）,(Mmm... It feels so warm with her by my side...)
+info,produce_events/200800302.json,
+译者,,

@@ -1,0 +1,165 @@
+id,name,text,trans
+0000000000000,プロデューサー,"う～……
+100円玉って、こんなに冷たくなるもんか……？","Uuh...
+Is a 100 yen coin supposed to get cold like this?"
+2008006010010,霧子,"ふふ……
+わたしが……入れましょうか？","Fufu.
+Should I put it... in for you?"
+0000000000000,プロデューサー,"いやいや、すまん
+缶ジュースくらいはおごらせてくれ","It's alright, sorry about that.
+Just let me at least treat you to a canned juice."
+0000000000000,プロデューサー,"……電子マネー対応の自販機だったらよかったんだけどな
+霧子は、手袋をしててくれよ","It'd be nice if this vending machine accepts electronic money.
+Kiriko, please put on your gloves."
+2008006010020,霧子,あ……ありがとうございます……,Oh... Thank you...
+2008006010030,霧子,"それじゃあ、わたしは……
+ボタンを押す係を……します……！","In that case... I'll be the one...
+to press the button."
+0000000000000,プロデューサー,"え？
+……ははっ、サンキュー","Huh?
+Haha, thanks."
+0000000000000,プロデューサー,"じゃ、
+ひゃく……ごじゅう……円……と","Alright.
+A hundred and fifty yen coins in."
+2008006010040,霧子,どれが……いいですか……？,Which one... will you get?
+0000000000000,プロデューサー,えーと、俺はそっちのコーヒーがいいな,"Well, I think I'll have that coffee."
+2008006010050,霧子,"はい……
+えっと……これですか？","Okay.
+Umm... is this it?"
+0000000000000,プロデューサー,"あ、いや……そっちの……
+『あったか～い』の列の一番左","Ah, no. That one, the leftmost one...
+in the ""waaarm"" group."
+2008006010060,霧子,…………ふふっ,...Fufu.
+0000000000000,プロデューサー,……ん？,Hmm?
+2008006010070,霧子,"ふふふ……
+ふふふふっ……！","Fufufu...
+Fufufufu...!"
+select,,"ど……
+どうしたんだ……？","W-What's
+the matter?"
+select,,"……な、
+なんか変かな？","W-Was there
+something weird?"
+select,,"あれ？　それ
+冷たいやつか？","Huh? Was that
+the cold one?"
+2008006010080,霧子,あっ……いえ……！,Oh... It's nothing.
+0000000000000,プロデューサー,……？,Huh?
+2008006010090,霧子,な……なんでもないんです……,R-Really... It was nothing.
+0000000000000,プロデューサー,や、なんでもないって感じじゃないけど……,But it doesn't seem to be that way.
+0000000000000,プロデューサー,"……？
+……じゃ、『あったか～い』の列の──","Huh?
+Alright, the one in the ""waaarm"" group―"
+2008006010100,霧子,ふふっ……！　ふふふ……,Fufufu...! Fufufufu...
+0000000000000,プロデューサー,"……？
+……『あったか～い』って発音が変なのかな","Huh?
+Was my saying of ""waaarm"" sound weird? "
+2008006010110,霧子,…………ふふっ！,Fufu...!
+2008006010120,霧子,──あっ,Ah.
+0000000000000,プロデューサー,うわっ……！,Woah!
+0000000000000,プロデューサー,"木枯らしだな……大丈夫か？
+早いとこ買って、あったかい部屋に──","That was a wintry blast just now. Are you alright?
+We better finish buying and head back to a comfy hot room― "
+2008006010130,霧子,ふふっ……,Fufu...
+0000000000000,プロデューサー,"……ん？　あぁ……
+あったかいへや……ん？","Hmm? Ah...
+Warm room... Hmm? "
+2008006010140,霧子,ふふふふ……！,Fufufufu...!
+0000000000000,プロデューサー,"あったかーいへ…………
+……ん？","Waaarm roo...
+...Hmm?
+"
+2008006010150,霧子,……うふふふ…………,Ufufufu...
+2008006010160,霧子,"ふふふふ……！
+……あははは…………","Fufufu...!
+Ahahaha..."
+2008006010170,霧子,…………すみません……！,"I am so sorry about that. "
+0000000000000,プロデューサー,"いや……ははっ
+なんか……正しいのがわからなくなってきた。ははは！","Nah. Hahaha,
+It feels like I don't know what's right anymore. Hahaha!"
+2008006010180,霧子,"……ふふっ
+ふふふふ…………！","...Fufufu.
+Fufufufu...!"
+2008006010190,霧子,"い……いえ……
+笑ってしまって……ごめんなさい……！","N-No...
+I'm sorry... for suddenly laughing."
+2008006010200,霧子,"あの……
+あった……あったか……","Umm...
+The waa..."
+2008006010201,霧子,……ふふっ……！,Fufu...!
+0000000000000,プロデューサー,"……？
+『あったか～い』──","......?
+""Waaarm""―"
+2008006010210,霧子,"ふふっ……それが……
+お、おかしくなってしまって……！　ふふふっ……！","Fufu. That...
+T-Turned out funny. Fufufu."
+0000000000000,プロデューサー,"……
+──いいんだ、じゃあ冷たいのにするよ","......
+It's alright. I'll go for the cold one then."
+2008006010220,霧子,プ、プロデューサーさん……！,P-Producer...?
+0000000000000,プロデューサー,いいんだいいんだ、『つめた～い』やつを買うから,"No, really, it's alright. I'm going to buy the ""cooold"" one instead."
+2008006010230,霧子,"あ……
+そ、そんな……気にしないでください……！","Ah...
+N-No... Please don't worry about it."
+0000000000000,プロデューサー,俺が押しちゃうな？,But I already pressed it.
+2008006010240,霧子,……プロデューサーさん、ごめ──,Producer-san... I'm so―
+0000000000000,プロデューサー,──ほら、ココア,"Here, your chocolate."
+2008006010250,霧子,"…………
+……プロデューサーさん……","......
+Producer..."
+0000000000000,プロデューサー,"はは、すまん
+ちょっとやりすぎたな……これはホットだから","Haha, sorry about that.
+I guess I went a little bit too far. This one's warm."
+2008006010260,霧子,えっと……あの……,Umm... well...
+0000000000000,プロデューサー,……霧子の分だぞ？,"This one's yours, Kiriko."
+2008006010270,霧子,…………ありがとうございます……！,Thank you...
+2008006010280,霧子,"……ふふ
+あったか～い…………","Fufu...
+So waaarm."
+2008006010290,霧子,……──あ,...Ah.
+0000000000000,プロデューサー,はははっ,Hahaha.
+2008006010300,霧子,"……ふふふ
+ふふふふ……っ！","...Fufufu.
+Fufufufu...!"
+2008006010310,霧子,"い、いえ……！
+ごめんなさい……！","N-No...
+I'm sorry about that."
+2008006010320,霧子,"その……プロデューサーさんの……
+あった……『あったか～い』が……","Umm... It's just that...
+The way... you say ""waaarm""..."
+2008006010321,霧子,……ふふふっ,...Fufufu.
+2008006010330,霧子,"…………
+おもしろくって……！","......
+It sounded funny."
+0000000000000,プロデューサー,"あぁ……！
+なーんだ、そんなことか！","Oh!
+So, that was it!"
+0000000000000,プロデューサー,"──じゃあ、なんて言ったらいいかなぁ……
+『あたたか～い』……『あつ～い』か……？","So, how should I say it?
+""Waaarm"" or ""Hooot""?"
+2008006010340,霧子,"ふふっ……
+ふふふふ…………！","Fufufu...
+Fufufufu...!"
+0000000000000,プロデューサー,……だ、ダメか,"...N-Neither will do, huh."
+2008006010350,霧子,"ご、ごめんなさい……
+……え、と………","I-I'm so sorry...
+Umm..."
+2008006010360,霧子,"え、と…………
+『つめたくな～い』……とか……？","Well... maybe something
+like... ""Not cooold""?"
+0000000000000,プロデューサー,"……はははっ、いいなそれ！
+じゃあ、ボタン押し係さん──","Hahaha, that has a nice ring to it!
+Alright, my little button presser,"
+0000000000000,プロデューサー,『つめたくな～い』を押してくれ,"The ""Not coold"" one, if you please."
+2008006010370,霧子,"…………ふっ
+ふふふふ……ふふふふふ…………！","Fufufu...
+Fufufufu... Fufufufu...!"
+0000000000000,プロデューサー,……え,Huh?
+2008006010380,霧子,"だ、だめみたいです……
+プロデューサーさん……","I-It seems that... that's also
+no good... Producer."
+2008006010390,霧子,"『つめたくな～い』……
+ふふふ……ふふふふ…………！","""Not cooold""
+Fufufu... Fufufufu..."
+info,produce_events/200800601.json,
+译者,,

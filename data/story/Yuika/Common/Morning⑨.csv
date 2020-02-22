@@ -5,8 +5,7 @@ id,name,text,trans
 "
 1007001000910020,結華,"いやね、三峰の部屋がそろそろグッズで埋まりそうでさー
 こうすれば片付く！　みたいなの教えてほしいなって","Mitsumine's room is getting swallowed up by all her merch, see. I wanted to know if you knew any like, life hacks! To help keep stuff neat."
-0000000000000,プロデューサー,（部屋の片付けで悩んでいるのか……）,"(She wants to know how to de-clutter her room......)
-"
+0000000000000,プロデューサー,（部屋の片付けで悩んでいるのか……）,(She wants to know how to de-clutter her room...)
 select,,"収納スペースを
 ＤＩＹだ","You could make
 some DIY storage
@@ -25,16 +24,15 @@ old stuff?"
 新しい路線開拓しちゃうかもだよね！","Plus, if I got really into it! I could become the first ever Wood-Working Idol? It'd completely revolutionize the market! "
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1007001000910050,結華,"あっ、割と現実的だった
-でも秘密基地みたいでかっこいいかも……？","Oh, that's a practical solution. And it'd be like having my own secret hideout, that's kinda cool......?
-"
+でも秘密基地みたいでかっこいいかも……？","Oh, that's a practical solution. And it'd be like having my own secret hideout, that's kinda cool?"
 1007001000910060,結華,"コンテナ毎に作品別に──……したら、
-いくらかかるんだろ……？","A separate storage unit for each type of merch...... Wait, how much does one of those even cost per month......?"
+いくらかかるんだろ……？","A separate storage unit for each type of merch... Wait, how much does one of those even cost per month?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)
 "
 1007001000910070,結華,"断捨離はお断りかな
 今のグッズも厳選してるんだからね",Paring down my collection isn't on the table. The merch I have now has been hand-selected.
 1007001000910080,結華,"そもそもリセットできないから
-こうして悩んでるんだよＰたん……","Getting rid of stuff was never an option, P-tan! That's why I'm in this mess in the first place......"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh...... I screwed up. I should have said something else......)
+こうして悩んでるんだよＰたん……","Getting rid of stuff was never an option, P-tan! That's why I'm in this mess in the first place..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Uh-oh... I screwed up. I should have said something else...)
 info,produce_communications/100700100091.json,
 译者,,

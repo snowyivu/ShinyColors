@@ -1,0 +1,75 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（トレーナーさん曰く、摩美々が以前よりも本気で
+レッスンを受けるようになったらしい）","(From what the Trainer told me, Mamimi seems to be taking her lessons much more seriously)."
+0000000000000,プロデューサー,"いい傾向だな
+……っと、噂をすればだ","Looks like a step towards a good direction.
+Oh, speaking of which."
+2005003110010,摩美々,お疲れ様でーす,Hello.
+2005003110020,摩美々,"……プロデューサー？
+どうかしたんですかぁ？","Producer?
+What's the matter?"
+0000000000000,プロデューサー,最近、レッスンを真面目にやってるみたいじゃないか,It seems that you're taking your lessons seriously in the past few days.
+2005003110030,摩美々,"そうですかぁ？
+普通だと思いますケドー","Really?
+I'm just doing things normally if you ask me."
+0000000000000,プロデューサー,"（反応はいつも通りか
+でも、トレーナーさんが言うことは本当なんだろうな）","(Mamimi's reaction is the same as always. But, I wonder if what the Trainer said is really true.)"
+0000000000000,プロデューサー,そうだ、摩美々,"That's right, Mamimi."
+0000000000000,プロデューサー,"頑張ってるご褒美に
+なにかして欲しいことでもあるか？","As a reward for your efforts,
+is there something that you'd like to do?"
+2005003110040,摩美々,別にー、なんにもいらないですよー,"Not really, I don't need anything."
+2005003110050,摩美々,"……プロデューサーには
+いつも色々もらってますしー","...Besides, you've always
+been doing things for me."
+0000000000000,プロデューサー,ん？　いま何か言ったか？,Hmm? Did you just say something now?
+2005003110060,摩美々,いえいえー大したこと言ってないですー,"No, I didn't say anything special."
+2005003110070,摩美々,"プロデューサーは、近くにいるだけで面白いからぁ
+何もしなくても平気って、言っただけですー","Just being near to you is amusing enough in itself that it's alright even if you don't do anything, is what I'm saying."
+0000000000000,プロデューサー,それは、ほめてるのか？,Is that a compliment?
+2005003110080,摩美々,当たり前じゃないですかぁ、ふふー,"Of course, it is. Fufu."
+0000000000000,プロデューサー,"（よくわからないが、摩美々の機嫌もよさそうだし
+まぁ、いいか）","(I really don't get it but it seems that Mamimi's in a good mood.
+Oh well.)"
+2005003110090,摩美々,"ご褒美といえばー、
+もうプロデューサーから貰ったんでしたー","Speaking of reward,
+I already have gotten it from you."
+0000000000000,プロデューサー,なんのことだ？,What are you talking about?
+2005003110100,摩美々,"実はさっきー冷蔵庫に入ってたプリン
+半分くらい食べちゃったんですよー","You see, I've already eaten about half of the pudding in the refrigerator a while ago."
+0000000000000,プロデューサー,えっ！？,What!?
+0000000000000,プロデューサー,（ってあれ？　プリンはそのままだぞ？）,(Huh? The pudding's still the way it is?)
+2005003110110,摩美々,食べられた形跡なし、ですねー,"There's no evidence of it having been eaten, right?"
+0000000000000,プロデューサー,摩美々、だましたのか？,"Did you just trick me, Mamimi?"
+2005003110120,摩美々,ふふー、ただの冗談ですよー,"Fufu, just kidding."
+2005003110130,摩美々,"でも、そんなに焦るなら
+本当に食べておけばよかったですねー","But, seeing how panicked you were, maybe it would've been better if I've actually eaten the pudding."
+0000000000000,プロデューサー,まったく……,Good grief...
+2005003110140,摩美々,"プロデューサー
+これからは気を付けないといけませんねー","Producer, you better
+be careful from now on."
+0000000000000,プロデューサー,なにをだ？,About what?
+2005003110150,摩美々,"私が、いつプロデューサーのプリン
+食べちゃうか、わかりませんよー？","You'll never know when
+I'm going to eat your pudding."
+0000000000000,プロデューサー,からかうのはやめろ,Please stop with these kind of pranks.
+2005003110160,摩美々,"ふふー
+どうしようかなぁ","Fufu,
+I wonder what I should do."
+0000000000000,プロデューサー,"摩美々、そもそも人の物を黙って勝手に食べるのは
+よくないことだ","Mamimi, it isn't good to just eat someone else's food without their permission."
+2005003110170,摩美々,"じゃあー、先に言えば
+食べてもいいってことですかぁ？","So, you're saying that, if I say it beforehand,
+then it's okay to eat it?"
+0000000000000,プロデューサー,屁理屈を言うんじゃない,Don't twist my words like that
+2005003110180,摩美々,ふふー、ふふふー,"Fufu, fufufu."
+0000000000000,プロデューサー,"まったく、楽しそうに笑って
+いつまでたってもイタズラ好きだな","Haa... And you're laughing gleefully now. You really love doing pranks no matter what, don't you."
+2005003110190,摩美々,"はい、なんといっても悪い子ですからねー
+だからぁ……","Sure do. After all, I am a bad girl.
+Which is why..."
+2005003110200,摩美々,"これからもずーっと、
+まみみのこと見張ってて下さいねー、プロデューサー","You should always keep an
+eye on me from now on, Producer."
+info,produce_events/200500311.json,
+译者,,
