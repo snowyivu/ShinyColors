@@ -2,36 +2,33 @@ id,name,text,trans
 0000000000000,プロデューサー,なんか音がしてるな,I think I heard something.
 1014001000510010,甘奈,"あ、甜花ちゃんからメッセ届いてる
 画像付きだー","Ah, it's a mail from Tenka.
-There's some images with it too～"
+There's some images with it too!"
 1014001000510020,甘奈,"えへへ、
 相変わらずかわいーな～、甜花ちゃんは","Ehehe,
-Tenka-chan, is cute as always～"
-0000000000000,プロデューサー,（甘奈、嬉しそうだな……）,（Amana seems like she's really happy……）
+Tenka is cute as always..."
+0000000000000,プロデューサー,（甘奈、嬉しそうだな……）,(Amana seems like she's really happy.)
 select,,本当に仲がいいな,"You're really
-close with 
-her."
+close with her."
 select,,"甘奈の方が
-お姉さんみたいだ","Amana looks
-more like
-big sister."
+お姉さんみたいだ","You look more
+like a big sister."
 select,,"俺も仲のいい兄弟が
 欲しかった","I wish I had a
-close brother 
-too."
+close brother too."
 1014001000510030,甘奈,"当然だよー！
-甘奈、甜花ちゃんのことめっちゃ好きなんだ☆","Of course it is～！
-Amana, really loves Tenka-chan a bunch☆"
+甘奈、甜花ちゃんのことめっちゃ好きなんだ☆","Of course we are!
+I really love Tenka a bunch."
 1014001000510040,甘奈,"甜花ちゃんとメッセしてるだけでも元気になってくるよ
-どんな返事してくれるかなー？",Just reading mail by Tenka-chan is enough to get Amana's mood back. Wonder what kind of reply she'll send next～？
+どんな返事してくれるかなー？",Just reading mail by Tenka is enough to get my mood back. Wonder what kind of reply she'll send next?
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1014001000510050,甘奈,たまに言われるかな、それ,"Sometimes, people does say that to us."
 1014001000510060,甘奈,"でも、甘奈はそう思ったことないよ
-甜花ちゃんのこと頼りにしてるもん","But、Amana doesn't really think so.
-Amana relies a lot on Tenka-chan too."
+甜花ちゃんのこと頼りにしてるもん","But, I don't really think so.
+I rely a lot on Tenka too."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1014001000510070,甘奈,えへへー、うらやましい？,"Ehehe～, jealous, aren't we？"
-1014001000510080,甘奈,でも、甜花ちゃんは甘奈だけのお姉ちゃんだからね！,"But, Tenka-chan is Amana's only big sister, okay！"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
-I should have said something else……)"
+1014001000510070,甘奈,えへへー、うらやましい？,"Ehehe, jealous, aren't ya?"
+1014001000510080,甘奈,でも、甜花ちゃんは甘奈だけのお姉ちゃんだからね！,"But, Tenka is my only big sister, okay?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
 info,produce_communications/101400100051.json,
 译者,,

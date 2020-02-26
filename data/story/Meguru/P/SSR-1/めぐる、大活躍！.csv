@@ -2,10 +2,10 @@ id,name,text,trans
 0000000000000,プロデューサー,"（昼休みだし、リフレッシュしとかなくちゃな！
 ……お、あのラーメン屋なんか美味しそうだ）","(It's lunchtime, I have to refresh myself!
 …Oh, that ramen shop looks delicious.)"
-2003004010010,？？？,……大変大変！　このままじゃ遅れちゃうよー！,…It's a disaster!  I'm going to be late-!
+2003004010010,？？？,……大変大変！　このままじゃ遅れちゃうよー！,…It's a disaster! I'm going to be late!
 0000000000000,プロデューサー,"……ん？　なんだ……
 って、うわぁ！","…Hm? What the…
--Hey, woah!"
+Hey, woah!"
 2003004010020,？？？,きゃあっ！,Kyaaa!
 0000000000000,プロデューサー,いてて……すいません、大丈夫でしたか？,"Ouch… sorry, are you alright?"
 2003004010030,めぐる,"ううん！　わたしの方こそごめんなさい……
@@ -22,21 +22,21 @@ I was just out on the town for some relaxation."
 これから行くところ……","Mm! It's because I was asked to help.
 Where am I going now…"
 2003004010060,めぐる,"あー！　そうだった！　このままじゃ遅刻しちゃう！
-わたし、行かなくちゃ！　じゃあね、プロデューサー！","Ah-! That's right! At this rate I'm gonna be late!
+わたし、行かなくちゃ！　じゃあね、プロデューサー！","Ah! That's right! At this rate I'm gonna be late!
 I gotta go! See ya, Producer!"
 0000000000000,プロデューサー,"えっ、おい、めぐる！　……行っちゃった
-……せっかくだからめぐるの活躍ぶりでも見に行くか！","Eh, oi, Meguru! … She's gone.  … Am I going through
+……せっかくだからめぐるの活躍ぶりでも見に行くか！","Eh, oi, Meguru! She's gone… Am I going through
 the hassle to see what Meguru's up to?"
 0000000000000,プロデューサー,"はぁ、はぁ……めぐるのやつ、さすがの速さだな……
 今どこに――あそこか。バスケの試合みたいだけど……","Hahh, hahh… That Meguru, she's as fast as you'd
-expect… Now where-- ah, here? But it looks like a
+expect… Now where── ah, here? But it looks like a
 basketball game…"
 2003004010070,めぐる,"こっちこっちー！
-パス、パス！","Over here-!
+パス、パス！","Over here!
 Pass, pass!"
 0000000000000,プロデューサー,うーん、やっぱりめぐるの動きはすごいな……,"Mhmm, Meguru's movement is of course amazing…"
 2003004010080,めぐる,"行くよー！
-……えいっ！","Here I go-!
+……えいっ！","Here I go!
 …Hup!"
 0000000000000,プロデューサー,"……おっ、ナイスシュートだな
 あれで逆転だ！","…Oh, nice shot.
@@ -59,7 +59,7 @@ I wanted to see what your activities were."
 0000000000000,プロデューサー,"それにしても、見てて惚れ惚れするような
 すごい活躍だったぞ","At any rate, I watched fascinated.
 You're amazingly active."
-2003004010120,めぐる,えへへ！　そうかな？　そうかなー！？,Ehehe! Right? Right-!?
+2003004010120,めぐる,えへへ！　そうかな？　そうかなー！？,Ehehe! Right? Right!?
 0000000000000,プロデューサー,"ああ。それに、楽しそうにプレーしてるのが
 外から見ていても分かったよ","Yeah.  Besides, it looked like you were playing joyfully.
 I got that watching from outside. "
@@ -88,14 +88,14 @@ I can't fit in everyone's schedule. "
 そうだよね！　みんなもお仕事、あるもんね","Ah, I see…
 That's right! Everyone also has jobs, huh?"
 0000000000000,プロデューサー,"……えーと、俺だけで良ければ、だけど、
-見に行こうか？","…Uh-m, if it's alright that it's just me,
+見に行こうか？","…Uhm, if it's alright that it's just me,
 I could come watch?"
 2003004010180,めぐる,"いいの！?
 ……あ、でもプロデューサーも忙しいし……","Is it alright!?
 …Ah, but you're also busy…"
 0000000000000,プロデューサー,俺だけなら都合もつけやすいから、大丈夫だよ,"If it's just me, it's fine since it's easy to arrange."
 2003004010190,めぐる,"本当にっ！?　やったー！
-じゃあ今度の試合、見に来てくれたら嬉しいな！","Really!? Aw yeah-!
+じゃあ今度の試合、見に来てくれたら嬉しいな！","Really!? Aw yeah!
 Well then, I hope you come watch the next match!"
 2003004010200,めぐる,"プロデューサーが来るなら、楽しんでもらわなきゃだよね！
 わたし、いつもより頑張るから！","If you come, you have to have fun!

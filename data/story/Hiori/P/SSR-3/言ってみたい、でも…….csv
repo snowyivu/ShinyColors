@@ -1,0 +1,89 @@
+id,name,text,trans
+2002007010010,灯織,（今日のスケジュールは……）,(Today’s schedule is...)
+2002007010020,灯織,（あった、このページに……）,"(There it is, this page...)"
+2002007010030,灯織,"（……あ、そういえば今日って４月１日……
+エイプリルフール……）","(Ah, today is April 1st, it's April Fools)"
+2002007010040,灯織,（誰かに言ってみようかな……）,(Maybe I should prank someone...)
+2002007010050,灯織,（でも、唐突に上手な嘘なんて──）,"(But, making up a good prank this suddenly is...)"
+0000000000000,プロデューサー,──ただいま戻りました,I'm back.
+0000000000000,プロデューサー,お、灯織、おはよう、今日も早いな,"Oh, Hiori, Good morning, you came early today."
+2002007010060,灯織,……,......
+0000000000000,プロデューサー,灯織？,Hiori?
+2002007010070,灯織,えっ……！　あっ！,Eh! Agh!
+2002007010080,灯織,お、お疲れ様です、プロデューサー……！,"G-Good morning, Producer!"
+0000000000000,プロデューサー,"……？
+どうしたんだ？","Hm?
+What's wrong?"
+2002007010090,灯織,"い、いえ
+なんでもありません……","Eh, nothing...
+It's nothing."
+0000000000000,プロデューサー,"そうか……？
+それならいいんだが……","You sure?
+Well if you say so..."
+2002007010100,灯織,"はい、お気遣いありがとうございます
+それより、今日はいつもより少し遅かったですね","Yes, thanks for asking...
+More importantly, today, Producer came a bit later than usual."
+0000000000000,プロデューサー,"ああ、時間に余裕があったし、
+天気がよかったから少し寄り道をしてたんだ","Ah, I have a bit of free time And since today’s weather feels nice I took a longer way than usual."
+0000000000000,プロデューサー,"ここ最近、雨続きだっただろ？　
+それでつい気分が高揚してな","I mean, it’s always raining these days right? So, I got a little bit excited today."
+2002007010110,灯織,なるほど、それで──,"I see, then..."
+2002007010120,灯織,──あ！,Ah!
+0000000000000,プロデューサー,ん、どうした？,Hm? What's wrong?
+2002007010130,灯織,えーっと……,"Ummm... "
+2002007010140,灯織,"でも、急に天気が崩れるって
+天気予報で言ってました！","But, today’s forecast said that today would be raining!"
+0000000000000,プロデューサー,え？　こんなに晴れてるのにか？,Eh? Even though it's sunny like this?
+2002007010150,灯織,は、はい！,Y-Yes!
+0000000000000,プロデューサー,"いつから降るのか、ニュースを見て確認しておくか
+テレビのリモコンは……","Hmm when will the rain comes I wonder, I'll check the news Where’s the TV remote..."
+0000000000000,テレビの音声,"こんにちは、４月１日、午後のニュースをお送りします
+最初のニュースは──","Good evening, today is the 1st of April, we will broadcasting the evening news The first news is..."
+0000000000000,プロデューサー,"（──なるほど
+今日は４月１日だったな……じゃあさっきのは……）","(I see, Today is April 1st...
+So that was...)"
+2002007010160,灯織,……,……
+0000000000000,プロデューサー,（よし、ここは……）,"(Then, I will...)"
+select,,知らなかったよ,I don't know that.
+select,,"この天気なら
+大丈夫じゃないか","It should be fine
+in this weather?"
+select,,"傘、ちゃんと
+持ってきたのか？","You brought your
+umbrella right?"
+0000000000000,プロデューサー,"しかし、まずいな……
+晴れだと思ってたから傘持ってきてないし……",But it's bad... I thought it's going to be sunny all day so I didn't bring my umbrella.
+2002007010170,灯織,そ、そうですよね……私も持ってきていないです,I-Is that so? I also didn't bring mine...
+0000000000000,プロデューサー,"それに洗濯物も干しっぱなしだったから
+濡れてしまうな……",I also left my laundry still hanging... I hope it doesn't get drenched...
+0000000000000,プロデューサー,明日また乾かさないと,"Else, I have to dry it up again tomorrow."
+2002007010180,灯織,は、はい……,R-Right...
+2002007010190,灯織,上手くいった……,I did good...
+2002007010200,灯織,でも、よかったのかな……？,"But, is this okay...?"
+2002007010210,灯織,そう……ですかね,I... guess so.
+2002007010220,灯織,さすがに無理があったかな……,Maybe I shouldn't force it...
+2002007010221,灯織＆プロデューサー,……,……
+0000000000000,プロデューサー,あんなに晴れてたのにな……,But it was sunny this morning...
+0000000000000,プロデューサー,"さっきのはエイプリルフールの嘘だと思ったんだが
+本当だったんだな……疑ってすまん","I thought that it was April Fools prank, but you told me the truth... Sorry for doubting you."
+2002007010230,灯織,い、いえ……大丈夫です,N-Not a problem...
+2002007010240,灯織,本当に降るなんて……,It really rained.
+2002007010250,灯織,"いえ、持ってきてないです
+雨が降るなんて予報は──","Sorry, I didn't bring mine.
+The forecast actually said it won't..."
+2002007010260,灯織,──あっ！,Ah!
+0000000000000,プロデューサー,"はは、やっぱり嘘だったか
+今日、そういう日だもんな","Haha, as I thought it was a lie. After all, it's that kind of day right?"
+2002007010270,灯織,"プロデューサー……
+わかってたんですね","Producer...
+You realized it..."
+0000000000000,プロデューサー,ニュースを見て思い出したんだ,I realized when I saw the news.
+0000000000000,プロデューサー,"でも、灯織はあまり嘘とかつかなさそうだから
+本当だと思ったよ","But, you aren't the type that tells lies so I thought it was real."
+2002007010280,灯織,そ、そうですか……,I-Is that so...?
+2002007010290,灯織,嘘をつくのって難しいですね……,It's hard to make up lies...
+0000000000000,プロデューサー,灯織はそういうの、あまり得意じゃなさそうだな,"Maybe it's just not your strong point, Hiori."
+2002007010300,灯織,そうですね……,I think so...
+2002007010310,灯織,慣れないことは、しない方がよかったな……,Maybe it's better to not try something new...
+info,produce_events/200200701.json,
+译者,,

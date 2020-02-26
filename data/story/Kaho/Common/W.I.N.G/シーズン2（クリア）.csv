@@ -1,5 +1,5 @@
 id,name,text,trans
-0000000000000,果穂,あ、プロデューサーさんっ！,"Ah, Producer-san!"
+0000000000000,果穂,あ、プロデューサーさんっ！,"Ah, Producer!"
 0000000000000,果穂,"二次審査の結果、出たんですよねっ？
 どうでした？　あたし、ちゃんと通ってましたかっ？","The results for the second round are out, right?
 How is it? Did I pass?"
@@ -38,9 +38,9 @@ During hard times, firmly build up your strength."
 自分だけの力じゃありませんっ！","To grow up into a hero,
 I need more than just my strength!"
 0000000000000,果穂,"プロデューサーさんが一緒だったから、
-あたしはどんな困難でも乗り越えてこられたんです！","It's because you're here with me that I can overcome any problems, Producer-san!"
+あたしはどんな困難でも乗り越えてこられたんです！","It's because you're here with me that I can overcome any problems,"
 0000000000000,果穂,"プロデューサーさんっ！
-これからも、一緒に頑張りましょうっ！","Producer-san!
+これからも、一緒に頑張りましょうっ！","Producer!
 Let's keep going and do our best!"
 0000000000000,プロデューサー,……ああ！　これからもよろしくな！,…Yep! I'm counting on you!
 info,produce_events/700900103.json,

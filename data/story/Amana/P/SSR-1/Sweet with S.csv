@@ -1,0 +1,150 @@
+id,name,text,trans
+2014004010010,甘奈,プロデューサーさん、おつかれさま☆,"Thank you for the opportunity, Producer."
+0000000000000,プロデューサー,"甘奈こそ、お疲れ様
+仕事、大変だったろ？","I should be the one thanking you, Amana.
+The job was difficult, wasn't it?"
+2014004010020,甘奈,"ぜーんぜん！　スタッフさんたち、すっごくやさしかったし
+甘奈、楽しかったよ！",Not at all! All of the staff members are quite nice and I enjoyed myself doing it!
+0000000000000,プロデューサー,"そうか！　終わった後、カメラマンさんから
+甘奈はすごく飲み込みが早いって褒められてな","I see. After the shoot, the cameraman praised you for being able to learn so fast."
+0000000000000,プロデューサー,"外のスタッフからも
+そう言ってもらえると嬉しいな",I'm happy that the other staff members are saying similar things.
+2014004010030,甘奈,"えへ、そんなに褒められると
+ちょっとムズムズするかも","Ehe, being praised like that makes me a little more eager to do things."
+0000000000000,プロデューサー,"そのご褒美ってわけじゃないが
+好きなのを注文してくれ",This isn't some reward for that but still feel free to order whatever you like.
+2014004010040,甘奈,"え、ホント？
+そんな、悪いよ～","Eh? Really?
+But, you don't have to."
+0000000000000,プロデューサー,"そんなに気にするな
+ほら、何が良い？","It's okay.
+So, what would it be?"
+2014004010050,甘奈,"やったー！
+じゃあ、どれにしよーかな～☆","Alright!
+Hmm, what should I choose?"
+2014004010060,甘奈,"えへへ～、どれも美味しそーだな～
+やっぱり甘いものが良いかな～","Ehehe, all of them looks good.
+I guess I have to go for something sweet."
+2014004010070,甘奈,"あ！　プロデューサーさん！
+ソフトクリーム、おススメなんだって！","Look, Producer!
+It says that the soft-serve ice cream is a must try!"
+0000000000000,プロデューサー,確かに……濃厚なバニラの香りと口触り……だとさ,Yes. It says that it has a rich vanilla smell and flavor.
+2014004010080,甘奈,"そう言われると食べたくなっちゃうよね～
+あ！　でもこのピーチパフェもすごいかも！","Makes you want to eat it, doesn't it.
+Ah! This peach parfait looks nice too!"
+2014004010090,甘奈,"桃１個分まるごと使用だって！　これも良いな～
+甜花ちゃんも好きそうだし、一緒に食べたいかも☆","It says that it has a whole peach in it! This looks good.
+Tenka would like this, so I want to eat this with her!"
+2014004010100,甘奈,"他にも色々あるな～！
+これだけあると迷っちゃうよね☆","And there are lots more!
+Makes it even harder to choose."
+2014004010110,甘奈,うーん……,Hmm...
+2014004010120,甘奈,よし！　決めた、ソフトクリームにする！,Okay! I'll go with the soft-serve ice cream!
+0000000000000,プロデューサー,"良いのか？
+遠慮しないで、なんでも好きなものを頼んでくれ","You sure with that?
+You don't have to hold back and just order whatever you like."
+2014004010130,甘奈,"ううん、遠慮なんてしてないよ！
+最初に気になったからこれが良いなって思ったの☆","No, I'm not!
+Since this one got my attention first so I'll go with it."
+2014004010140,甘奈,"それより、
+プロデューサーさんは頼むもの決めた？","Anyways, have you decided on
+what you'll having, Producer?"
+0000000000000,プロデューサー,ああ、決めたぞ,Yeah.
+2014004010150,甘奈,じゃあ、店員さーん！,Okay then. Excuse me!
+2014004010160,甘奈,"えーっと、ソフトクリームをひとつと……
+プロデューサーさんは？","Well, I'll have a soft-serve ice cream.
+What about you, Producer?"
+select,,ピーチパフェにしよう,I'll have the peach parfait
+select,,コーヒーにしよう,I'll have coffee
+select,,大盛りの定食にしよう,I'll have the large set meal
+2014004010170,甘奈,"店員さん
+ピーチパフェをお願いします",And one peach parfait.
+2014004010180,甘奈,"でも、意外かも。プロデューサーさんが
+パフェ食べるイメージってなかったな～","Still, I have to say I'm surprised. I didn't picture you to be the type of eating a parfait."
+0000000000000,プロデューサー,"見てたら美味しそうだし、頼んでみたんだ
+……お、来たぞ","Well, it looked delicious so I asked for it.
+...Oh, here it comes."
+2014004010190,甘奈,"ありがとうございます☆
+じゃあ甘奈はこっちで……はい、プロデューサーさん！","Thank you.
+This one's mine and... Here's yours, Producer!"
+0000000000000,プロデューサー,"おお、ありがとう甘奈
+じゃあ、このパフェも食べて良いぞ","Oh, thanks, Amana.
+Okay, you could have this parfait too."
+2014004010200,甘奈,えっ、プロデューサーさんが食べるんじゃないの？,"Wait, you're not eating this?"
+0000000000000,プロデューサー,"メニューを見てる時、甜花と食べたいって言ってたろ？
+食べたいものは遠慮しないで頼んだら良いんだよ","You did say that you want to eat this with Tenka when you were looking at the menu, right? It's okay not to hold back if you want to eat something."
+2014004010210,甘奈,"そっか……えへへ……
+プロデューサーさん、ありがと","I see... Ehehe...
+Thank you, Producer."
+2014004010220,甘奈,"あ！　せっかくだしどっちも半分こしようよ！
+こういうのって、一緒に食べた方が美味しいもんね","I know! How about we share these between us!
+After all, food tastes even better when shared, right."
+0000000000000,プロデューサー,"そうか？
+じゃあ、お言葉に甘えようかな","Really?
+In that case, maybe I'll take you up on it."
+2014004010230,甘奈,"きーまりっ！
+じゃあ、分けるね！","It's settled then!
+Okay, let's share this!"
+2014004010240,甘奈,"……はい、プロデューサーさんの分！
+えへへ、美味しそうだね☆","Here's yours, Producer!
+Ehehe  Looks good, isn't it?"
+2014004010250,甘奈,"店員さん
+もうひとつはドリンクバーでお願いします",And one for the drink-all-you-can.
+2014004010260,甘奈,"……でもプロデューサーさん、コーヒーで良いの？
+いつも事務所で飲んでるでしょ？","...But, Producer, you sure about having just coffee?
+You always have that back in the office."
+0000000000000,プロデューサー,"ここのは意外に美味しいんだ
+じゃあ、取ってこようかな","The one they have here is suprisingly good.
+Okay, how about I get one."
+2014004010270,甘奈,"荷物見てるね☆
+いってらっしゃーい！","I'll look after your things.
+Take your time!"
+2014004010280,甘奈,プロデューサーさん、お帰りなさーい,"Welcome back, Producer."
+2014004010290,甘奈,"へー、プロデューサーさんってブラック派？
+何も入れないんだー","Oh, I didn't know you like your coffee black, Producer.
+You didn't put anything in it."
+0000000000000,プロデューサー,"そうだな、何も入れないことが多いな
+甘奈は、ブラック苦手なのか？","Yeah, I tend not to put anything quite a lot.
+You're not fond of black coffee, Amana?"
+2014004010300,甘奈,"そもそも飲もうと思ったことないかも
+ほら、なんか大人の飲むものってカンジがするから☆","I haven't even thought of drinking it like that.
+Besides, it feels more like something an adult would drink."
+0000000000000,プロデューサー,"そう言われると俺も、社会人になってから
+飲むようになったかもな","Now that you mentioned it, I guess I also started drinking like this when I transitioned into a contributing member of society."
+2014004010310,甘奈,"そうなんだね！　ブラック飲んでるプロデューサーさん
+大人って感じがしてちょっとかっこいいかも","Oh, I see! You drinking black coffee has this adult vibe to it and it kinda makes you look cool a bit."
+0000000000000,プロデューサー,"はは、そうか？
+お、ソフトクリーム来たぞ","Haha, you think so?
+Oh, your ice cream's here."
+2014004010320,甘奈,"ありがと
+じゃあプロデューサーさん、いただきます","Thank you.
+I'll be eating this now, Producer."
+2014004010330,甘奈,うーん、甘くて美味しー☆,"Mmm, it's so sweet and so good."
+2014004010340,甘奈,"店員さん
+もうひとつはこの定食でお願いします","And one for
+a set meal."
+2014004010350,甘奈,"……プロデューサーさん
+思いっきり食べるんだねー","You sure eat a lot,
+Producer."
+0000000000000,プロデューサー,"ああ、結構腹が減っててな
+昼食が軽かったし","Yeah, I'm really starving.
+Not to mention, I only had a light lunch."
+2014004010360,甘奈,"コンビニのおにぎりだけだったよね
+プロデューサーさん","Just an onigiri from
+the convenience store, was it?"
+2014004010370,甘奈,やっぱ、ちゃーんと食べなきゃだよ,"Have to eat well, right?"
+0000000000000,プロデューサー,"そうするよ
+お、来た来た","Yeah.
+Oh, here it comes."
+2014004010380,甘奈,わぁ、やっぱり結構な量があるね～！,"Wow, that's quite a lot!"
+0000000000000,プロデューサー,"仕事の後はこれくらいがちょうど良いんだよな
+うん、うまい","This one's just perfect for a hard day's work.
+Mmm, so good."
+2014004010390,甘奈,"へぇ～
+ぺろっといっちゃいそうな勢いだねー","Heh,
+You sure eat those quite fast."
+2014004010400,甘奈,"甘奈、男の人ががっつり食べてるのって
+お父さんくらいしか見たことないから新鮮かも",This is kinda new to me since the only man I've seen eating with such gusto is my dad.
+2014004010410,甘奈,なんだか気になっちゃうな☆,This image might get stuck in my mind for a while.
+info,produce_events/201400401.json,
+译者,,

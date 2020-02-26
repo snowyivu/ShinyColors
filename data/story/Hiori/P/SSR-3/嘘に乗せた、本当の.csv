@@ -1,0 +1,93 @@
+id,name,text,trans
+2002007040010,灯織,（ここがいいかな……）,(Here...?)
+2002007040020,灯織,（いや……やっぱり、ここ）,"(No, maybe here.)"
+2002007040030,灯織,（うん……これで大丈夫……！）,"(Umm, with this, it's finished!)"
+2002007040040,灯織,……！,(......! )
+0000000000000,プロデューサー,灯織、ただいま,"Hiori, I'm back."
+2002007040050,灯織,"プロデューサー
+打ち合わせ、お疲れ様です、予定より早かったですね","Producer, welcome back from the meeting. You came back earlier than the appointed time."
+0000000000000,プロデューサー,"ありがとう、話が上手くまとまってな
+すんなり終わったんだ","Thanks, well it went smoothly, so it ended earlier than usual."
+2002007040060,灯織,"今日はまだ予定がありますから
+体力が温存できてよかったですね","You still have another appointment for today, so it's best to preserve your energy."
+0000000000000,プロデューサー,ああ、これでこの後もバッチリだな,"Yeah, after that I'm done for today."
+0000000000000,プロデューサー,ところで、この前のアレ、上手くいったか？,"By the way, that thing from before, how did it go?"
+2002007040070,灯織,"はい！
+おかげさまで大成功でした",Yes! Thanks to you it was a great success.
+2002007040080,灯織,父もすごく喜んでくれて……,My father was really happy with it...
+2002007040090,灯織,"プロデューサーにアドバイスをもらわなかったら
+きっと、あんなに上手くいかなかったと思います","If I didn't receive advice from producer It might not gone as well, I guess."
+2002007040100,灯織,本当にありがとうございました！,I'm truly grateful from the bottom of my heart.
+0000000000000,プロデューサー,"俺は何もしていないよ
+灯織がしっかり気持ちを込めたから喜んでもらえたんだ","I didn't do anything big okay? It was you that did everything, so it's normal to be thanked for it."
+2002007040110,灯織,ふふ、そうだと嬉しいです,"Fufu, if it's like that, then I'm glad."
+2002007040120,灯織,"あ、プロデューサー、そろそろいい時間ですし
+移動しますか？","Ah, Producer, it's time.
+Shall we move?"
+0000000000000,プロデューサー,"そうだな、少し早いけど、もう出るか
+灯織は準備いいか？","I guess you're right, it's a bit early, but we can go. How’s your preparation so far, Hiori?"
+2002007040130,灯織,はい、いつでも出られます,"Yes, I'm ready anytime."
+0000000000000,プロデューサー,よし、じゃあ行こうか,"Well then, shall we?"
+2002007040140,灯織,プロデューサー、そのままの格好で大丈夫ですか？,Are you going to keep wearing those?
+2002007040150,灯織,"今夜は冷え込むみたいですから、
+コート、着ていったほうがいいですよ","It seems it would be colder tonight, so maybe you should wear a coat instead?"
+0000000000000,プロデューサー,確かに今日は風も冷たいしな,"Well, it seems like today's wind is a bit chilly."
+0000000000000,プロデューサー,"スケジュールが押したら
+夜になるかもしれないし、着ていくか","If it's a bit off schedule, it might too late to go back later. I will wear it then."
+0000000000000,プロデューサー,"よっ……
+ん？　ポケットに何か……",Ok.. Hm? There is something in my pocket...
+2002007040160,灯織,……上手くいった……！,It went well!
+0000000000000,プロデューサー,……何かの包みだな……,What is this package?
+2002007040170,灯織,……！,...!
+0000000000000,プロデューサー,これ、もしかして灯織が？,"Is this from you, Hiori?"
+2002007040180,灯織,はい……この前のお礼になればいいな……と,Yes... I want to give something as a thanks...
+0000000000000,プロデューサー,"そうか……
+ありがとう",I see... Thanks.
+0000000000000,プロデューサー,中、見てもいいか？,Can I open it?
+2002007040190,灯織,もちろんです,Of course.
+0000000000000,プロデューサー,"これは……
+ボールペンか","This is... a ballpoint, huh?"
+2002007040200,灯織,"はい、プロデューサー、
+最近ボールペンをなくした、と言ってたので","Yes, Producer said that you lost one recently..."
+2002007040210,灯織,どう……でしょうか？,How... is it?
+select,,"ちょうど
+欲しかったんだ","Perfect, I wanted this!"
+select,,してやられたな,You got me.
+select,,"早速使ってみて
+いいか",Then I will use it from now on.
+2002007040220,灯織,"本当ですか？
+よかったです",Really? I'm glad.
+0000000000000,プロデューサー,"ああ、今日からさっそく使わせてもらうよ
+ありがとう","Yeah, can I use it after this? Thanks a lot."
+2002007040230,灯織,日頃からの感謝の気持ちですから,It's my thanks for all this time.
+0000000000000,プロデューサー,俺も今度、何かお返しをしないとな,Then let me give you something to return next time.
+2002007040240,灯織,"そんな……
+大丈夫です",No... Its fine.
+0000000000000,プロデューサー,そういうわけにはいかないだろう,That's not how it works though?
+2002007040250,灯織,ほ、本当に大丈夫です！,I-I'm fine really!
+2002007040260,灯織,"プロデューサーにはいつもたくさん
+助けてもらってますから",You always helped me when I was in need.
+2002007040270,灯織,それだけで、充分です……,I'm fine with just that.
+2002007040280,灯織,プロデューサーに……感謝してもらえただけで……,"I just, wanted you to just receive this feeling."
+0000000000000,プロデューサー,"上手く驚かされたよ
+それにしても、いつ入れてくれたんだ？","You got me, But, when did you put this in?"
+2002007040290,灯織,プロデューサーが打ち合わせに出た隙に、です,The moment when you left for your meetings.
+2002007040300,灯織,"入れられなかったらどうしようと思ってたんですが……
+上手くいきました","I worried that I might not be able to put this in, but it went well."
+0000000000000,プロデューサー,"そうだったのか……
+全然気付かなかったよ",I see... I didn't realize it at all.
+2002007040310,灯織,"エイプリルフールの嘘は
+失敗しちゃいましたから",Because I failed during April Fool's...
+2002007040320,灯織,でも、今回のサプライズは、大成功ですね、ふふ,But this time it was a huge success.. Fufu..
+2002007040330,灯織,はい、もちろんです！,"Yes, gladly!"
+0000000000000,プロデューサー,"おぉ！　使いやすいな
+さすが、灯織が選んでくれただけある","Oh! It’s so easy to use!
+As expected, you picked the best one!"
+2002007040340,灯織,ありがとうございます,It's no problem.
+2002007040350,灯織,"色々使ってみて、書き心地のよさそうなものを選びました
+実用性がある方がいいかと思いまして","I tried a lot of pens, and choosing which one has familiarity and practicality, and picked that one."
+0000000000000,プロデューサー,"灯織は目が高いな
+これで明日からの仕事が捗るぞ！","You have a good eye, Hiori. I think I can do better at the next job!"
+2002007040360,灯織,ふふ、あまり無理はしすぎないでくださいね,"Fufu, please don't push yourself too hard, okay?"
+info,produce_events/200200704.json,
+译者,,

@@ -1,21 +1,17 @@
 id,name,text,trans
 0000000000000,プロデューサー,"──で、来週のロケの段取りはこんな感じだ
-ここまでで、わからないことはないか？"," And for next week's plans I feel like the shooting location should be here, is there anything you don't understand?"
+ここまでで、わからないことはないか？","And for next week's plans I feel like the shooting location should be here, is there anything you don't understand?"
 2009004020010,果穂,"………………
 ……あっ、はい！　大丈夫ですっ","Huh... Yeah! Everything is fine. "
 0000000000000,プロデューサー,"ん……？　果穂、どうかしたのか？
-もしかして、具合が悪いとか……？"," Hm? Is something the matter Kaho? Are you maybe feeling unwell?
-"
-2009004020020,果穂,えっと、あの……,"Well um....
-"
+もしかして、具合が悪いとか……？",Hm? Is something the matter Kaho? Are you maybe feeling unwell?
+2009004020020,果穂,えっと、あの……,Well um...
 0000000000000,プロデューサー,"無理はしない方がいい
-今日はここまでにして、もう帰ろうか？","It's better not to overdo it. Do you want to end it here for today and head back home?
-"
+今日はここまでにして、もう帰ろうか？",It's better not to overdo it. Do you want to end it here for today and head back home?
 2009004020030,果穂,ちがうんです、その……,"No, it's just that...."
-2009004020040,果穂,……おなかが空いちゃったんですっ！,"My stomach is hungry!
-"
+2009004020040,果穂,……おなかが空いちゃったんですっ！,My stomach is hungry!
 2009004020050,果穂,"でも、なかなか言い出せなくて……
-ごめんなさい……"," Sorry... But it wasn't very easy for me to say it..."
+ごめんなさい……",Sorry... But it wasn't very easy for me to say it...
 0000000000000,プロデューサー,あ……そうか、もうこんな時間か……,Ah I see.... It does seem about that time...
 0000000000000,プロデューサー,"気づかなくてごめん
 そろそろ昼ごはんを食べようか","Sorry I didn't notice you were hungry before. Do you want to eat some lunch? "
@@ -79,7 +75,7 @@ select,,ハンバーグ、いいな,"Hamburger "
 ゆっくり食べます！",Yeah it looks really good and hot.! I'll try to eat it slowly!
 0000000000000,プロデューサー,そうだな、やけどしないように気を付けて,"Yeah try not to get burned while eating it. "
 2009004020230,果穂,"はいっ……
-ふうー……ふうー……",Yeah... Foo~ Foo~
+ふうー……ふうー……",Yeah... Foo-Foo!
 2009004020240,果穂,"はむっ……
 あっ……あついれすっ……！",Ah! It's hot...!
 0000000000000,プロデューサー,"だ、大丈夫か！？　えーっと……

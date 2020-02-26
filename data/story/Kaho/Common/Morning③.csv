@@ -1,6 +1,6 @@
 id,name,text,trans
 1009001000310010,果穂,"プロデューサーさん、
-おっはようございまーす！","Producer-san, good morning!"
+おっはようございまーす！","Producer, good morning!"
 0000000000000,プロデューサー,お、いつもより元気だな,"Oh, you're more energetic than usual."
 1009001000310020,果穂,"はい！　朝見てきた特撮番組が、
 スッゴく面白かったんです！",Yes! The tokusatsu show I watched this morning was so cool!
@@ -21,7 +21,7 @@ select,,それは良かったな,That's good.
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1009001000310070,果穂,えへへ、だから朝のテレビチェックは欠かせません！,"Ehehe, that's why it's important to check what's on morning TV shows!"
 1009001000310080,果穂,"……あっ、プロデューサーさんは、
-あんまり興味なかったですか？","...Ah, Producer-san, are you not really interested in it?"
+あんまり興味なかったですか？","...Ah, are you not really interested in it?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I screwed up. I should have said something else...)
 info,produce_communications/100900100031.json,
 译者,,
