@@ -1,0 +1,111 @@
+id,name,text,trans
+0000000000000,プロデューサー,顔合わせお疲れ様！　いつもよりリラックスしてたな,Thanks for coming to the meeting! Somehow you look more relaxed than usual.
+2002005020010,灯織,"テレビで見た緊張を解す方法を試してみたんです
+そしたら、心なしか楽になって……",I tried a method I saw on TV to reduce nervousness. Then somehow I calmed down...
+0000000000000,プロデューサー,"今朝やっていたやつか？
+実は俺もやってみたんだ。結構効果あるかもな","Oh the one they showed this morning? Actually, I also want to try it too, seems like it's working"
+2002005020020,灯織,"プロデューサーもですか？
+……緊張するなんて、ちょっと意外です",You too? You don't look like the type that got nervous...
+0000000000000,プロデューサー,そりゃそうさ、緊張しない人なんて、そんなにいないぞ,"Well obviously, I don't think there is someone that doesn't feel nervous."
+2002005020030,灯織,"そうですね……少し、気が楽になりました
+私だけじゃないんだって……","Right... somehow, I feel relieved that I am not the only one..."
+0000000000000,プロデューサー,"はは、それじゃあ俺も
+緊張してる時は灯織に伝えるようにするよ","Haha, me too. I'll try to let you know when I am nervous too."
+2002005020040,灯織,ふふ、それは、ちょっと困ります……,"Fufu, that might be a bit troublesome..."
+2002005020050,灯織,"そうだ……さっきもらった資料
+早速確認したいんですけど、良いですか？","Oh, right... the document that I received earlier. Is it fine if I go check it right now?"
+0000000000000,プロデューサー,"ああ、もちろんだ
+リポートする場所はまだ検討中だって言ってたけど……","Yeah, of course. They said that they still need to consider the place to go..."
+2002005020060,灯織,そうですね……,Right...
+2002005020070,灯織,あ、候補地の写真が載ってます,"Ah, there's a photo of the job location included."
+0000000000000,プロデューサー,おぉ、かなりあるんだな,"Ohh, there's a lot."
+2002005020080,灯織,ここ、すごく綺麗ですね……,This one right here looks pretty...
+2002005020090,灯織,あ、こんなところもある……！,"Oh, they even have this place!"
+2002005020100,灯織,"！
+すいません、私ひとりで盛り上がっちゃって……","Ah...
+I'm sorry, I'm the only one getting fired up about this..."
+0000000000000,プロデューサー,"気にすることないぞ
+灯織の様子を見てたら、俺も楽しみになってきたし",It's nothing to worry about. Seeing your reaction makes me look forward to it too.
+2002005020110,灯織,……そう……ですか？,...Are you sure?
+2002005020120,灯織,……,......
+0000000000000,プロデューサー,どうした？,What's wrong?
+2002005020130,灯織,"いえ、仕事なのに楽しそうにしてたら
+いけないと思って……","Nothing, I was just thinking that I shouldn't be having too much fun at work..."
+select,,そんなことはない,"That's
+not true."
+select,,"灯織の好きな場所は
+どこなんだ？","What are your
+favorite places?"
+select,,そうだな、じゃあ,"You're not
+wrong."
+0000000000000,,★選択肢①【そんなことはない】,★選択肢①【That's not true.】
+0000000000000,プロデューサー,そんなことはない,That's not true.
+0000000000000,プロデューサー,好きなことだからこそ楽しむべきだ,You should be able to enjoy the things you like.
+2002005020140,灯織,それで良いんでしょうか……？,It's okay to do so...?
+0000000000000,プロデューサー,ああ、こんな機会はあまりないんだ,"Yeah, there's not many opportunities like this."
+0000000000000,プロデューサー,"楽しい気持ちをしっかり出した方が
+良い結果に繋がると思うぞ",I think you'll get better results if you express your feelings of having fun.
+2002005020150,灯織,でも、遊びに行くわけじゃないですし……,"But, it's not like I'm going there to play around..."
+0000000000000,プロデューサー,"灯織、今までに楽しそうにしている人を見て
+こっちもなんだか元気になったことってないか？","Hiori, have you ever watched someone having fun, and then also felt kind of energetic because of it?"
+2002005020160,灯織,……はい、確かにありました,"...Yes, it's happened before."
+0000000000000,プロデューサー,そうだろ、だから今度のロケは楽しんでいこう,"Exactly, that's why you should enjoy our upcoming location shoot."
+0000000000000,プロデューサー,"灯織の魅力的な笑顔がきっとみんなを
+笑顔にしてくれるって、俺は信じてるからな",I believe that your charming smile will make everyone smile back with you.
+2002005020170,灯織,私の笑顔が……そんなに……,My smile... You think that much of it...
+2002005020180,灯織,"でも、わかりました……！
+楽しんでやってみます","But, I understand...! I'll enjoy myself."
+2002005020190,灯織,"プロデューサーの期待に応えられるよう
+頑張りますね",I'll do my best to meet your expectations.
+0000000000000,,"★選択肢②【灯織の好きな場所は
+どこなんだ？】",★選択肢②【What are your favorite places?】
+0000000000000,プロデューサー,灯織の好きな場所はどこなんだ？,What are your favorite places?
+2002005020200,灯織,"えっ……
+なんでですか……？",Huh... Why...?
+0000000000000,プロデューサー,"聞いてみたいんだ
+国内でも、海外でも……教えてくれないか","I just wanted to ask, Inside Japan or overseas doesn't matter... just tell me."
+2002005020210,灯織,"そうですね……海は、見ていて落ち着きます……
+青い波が砂浜に打ち寄せて……すごく綺麗で……",Hmm... Looking at seas calm me down... When the blue waves hit the beach... It's really pretty...
+2002005020220,灯織,"それと、この間見た
+海外の大きなお城が、とても幻想的でした","And also, just recently I saw a big castle when going overseas, that is also mesmerizing."
+2002005020230,灯織,"そこはですね、とても高いところにあって……
+まるで空に浮かんでいるようなんです",That castle is located at a high ground... Just like a castle that floats in the sky.
+0000000000000,プロデューサー,……うん、やっぱりそうだ,"Um, I thought so."
+2002005020240,灯織,え……？,Huh?
+0000000000000,プロデューサー,俺は、灯織の話を聞いてて、すごく惹きつけられたよ,"Whenever I listen to you talk, it just kinds of attracts me."
+2002005020250,灯織,そう、でしょうか……？,...Really?
+0000000000000,プロデューサー,"ああ、仕事だからと思ってやってる人より
+好きって気持ちを表現している人の方が、魅力的に見える","Yeah, Rather than a person who's fixated on the job, listening to someone about what they like is more charming, I guess."
+2002005020260,灯織,"そうなんですね……！
+それなら、今の気持ちを忘れずに……やってみます","I see!
+Then, I will not forget this feeling... and think it next time."
+0000000000000,プロデューサー,"その意気だ！　いつか、灯織の好きな場所にも
+行けるように、まずはこの仕事を頑張ろう！","That's the spirit! Someday, you can also do a shoot at your favorite place. But first, let's do our best at this job!"
+2002005020270,灯織,"ふふ……
+はい……！","Fufu...
+Right...!"
+0000000000000,,★選択肢③【そうだな、じゃあ】,★選択肢③【You're not wrong.】
+0000000000000,プロデューサー,そうだな、じゃあ,You're not wrong about that.
+0000000000000,プロデューサー,"今から、灯織のことを動画で撮るから
+１回目は淡々と、この写真のことを説明してみてくれ","Then, now. I'll take your video First, tell something about this photo."
+0000000000000,プロデューサー,"それで、２回目は同じ写真を
+自分がここに行きたいと思って説明するんだ","But for the second time, imagine you want to go there and then tell something about the photo."
+2002005020280,灯織,え、はい……わかりました,Eh? Okay... I understand.
+2002005020290,灯織,あの、今ので大丈夫でしたか……？,"Umm, how is it?"
+0000000000000,プロデューサー,"ああ、バッチリだぞ
+灯織、今撮ったものを順に見せるから、比べてみてほしい","Yeah, It's perfect, I want you to watch and compare these 2 videos."
+2002005020300,灯織,はい,Okay.
+2002005020310,灯織,……！,...!
+2002005020320,灯織,同じことを話してるのに……なんだか印象が違います……！,I talked about the same thing but... it was somehow different...!
+0000000000000,プロデューサー,"な、これで楽しみながら話した方が
+良いって、わかっただろ？",See? If you imagine the feeling of being there yourself it produces a better result. Do you understand now?
+2002005020330,灯織,はい、ありがとうございます……！,"Yes, thanks for your help!"
+2002005020340,灯織,"……プロデューサーのおかげで、
+大切なことが掴めたような気がします","Thanks to you,
+I think I learned something important."
+0000000000000,プロデューサー,"疑問が解決して、なによりだ
+本番も頑張っていこう！",Now you don't have any more doubts right? Let's do our best at the shooting!
+2002005020350,灯織,はい、頑張ります,"Yes, I will do my best."
+2002005020360,灯織,ふふ、プロデューサーは、頼りになりますね,"Fufu, I end up counting on you again."
+info,produce_events/200200502.json,
+译者,,

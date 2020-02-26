@@ -1,6 +1,6 @@
 id,name,text,trans
 0000000000000,プロデューサー,"──次の仕事はこんな感じだ
-何か質問はあるか？","-The next job will be like this, do you have any questions?"
+何か質問はあるか？","The next job will be like this, do you have any questions?"
 2002005010010,灯織,"そうですね……
 一旦、整理したいので資料を見返します",Let's see... I wanted to sort the documents so I'll look them over.
 0000000000000,プロデューサー,わからない部分は気軽に聞いてくれて良いからな,If you don't understand something feel free to ask.
@@ -8,13 +8,13 @@ id,name,text,trans
 調べもしないで質問するのは失礼ですので","No, I'll confirm it on my own first. It's rude to ask questions without even researching by myself."
 0000000000000,プロデューサー,ああ……わかった……,Ah... I understand...
 0000000000000,プロデューサー,"（……よし、大体まとめ終わったな
-あとは──）","(...Alright, we're pretty much done gathering things up. Next is-)"
-2002005010030,灯織,──痛っ……,-Ow...
+あとは──）","(...Alright, we're pretty much done gathering things up. Next is──)"
+2002005010030,灯織,──痛っ……,Ow...
 0000000000000,プロデューサー,灯織、どうした！,"Hiori, what's wrong?!"
 2002005010040,灯織,"……あ、いえ
 ちょっと……紙で指を切ってしまって","...Ah, no. ...I got a bit of a papercut on my finger."
 0000000000000,プロデューサー,血が出てるじゃないか！　早く手当てしないと！,There's blood coming out! We need to take care of it right away!
-2002005010050,灯織,だ、大丈夫です……！　自分でできますから,I-i'm fine...! I can do it by myself.
+2002005010050,灯織,だ、大丈夫です……！　自分でできますから,I-I'm fine...! I can do it by myself.
 2002005010060,灯織,あ……,Ah...
 0000000000000,プロデューサー,あ、すまん……急に手を掴まれたら驚くよな,"Ah, I'm sorry... Suddenly grabbing your hand would surprise you."
 2002005010070,灯織,"……すみません、手を振り払ってしまって……
@@ -38,7 +38,7 @@ wait there"
 2002005010100,灯織,この前、七草さんに場所を聞いたので大丈夫です,"I asked Nanakusa-san earlier where it is, so it's fine."
 2002005010110,灯織,よし、これで大丈夫……,"Alright, this should be okay..."
 0000000000000,プロデューサー,手伝えなくて、すまなかったな,I'm sorry I wasn't able to help.
-2002005010120,灯織,！　……いえ、気にしないでください,"! ...No, please don't worry about it."
+2002005010120,灯織,！　……いえ、気にしないでください,"Huh? ...No, please don't worry about it."
 2002005010130,灯織,心配してもらっただけでも申し訳ないのに,I feel bad for making you concerned.
 2002005010140,灯織,"その上
 プロデューサーの仕事まで止めてしまっては……",I also made you have to stop your work too...
@@ -58,7 +58,7 @@ wait there"
 手当てするから座っててくれるか？","The blood still hasn't stopped coming out, so you might have cut it deeply... I'll treat it, so can you sit down please?"
 0000000000000,プロデューサー,よし、あった……,"Alright, got it..."
 0000000000000,プロデューサー,消毒液が染みるかもしれないが、我慢してくれ,"The solution might sting, but please bear with it."
-2002005010200,灯織,っ！,!
+2002005010200,灯織,っ！,Hn!
 0000000000000,プロデューサー,"もう少しだからな……
 絆創膏を貼って……よし、これで大丈夫だ","Just a bit more... Here's a band-aid to cover it. ...Alright, it should be okay now."
 0000000000000,プロデューサー,"はがれにくいように巻いておいたから

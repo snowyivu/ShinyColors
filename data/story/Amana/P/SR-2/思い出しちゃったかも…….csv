@@ -1,0 +1,120 @@
+id,name,text,trans
+0000000000000,プロデューサー,ふぅ、これで今日やることは片付いたな,"Whew. There, I'm all done with my tasks for today."
+0000000000000,プロデューサー,"……ん？
+レッスン室の灯りが……まだ誰か残っているのか……？","Hmm?
+The light's still on in the lesson room. Maybe someone's still here."
+2014005010010,甘奈,はぁ……,Haa...
+0000000000000,プロデューサー,おぉ、甘奈。お疲れさま,"Oh, Amana. Hello."
+2014005010020,甘奈,"あっ、プロデューサーさん……！
+良かったぁ……","Ah, Producer!
+Thank goodness."
+0000000000000,プロデューサー,大丈夫か？　……何かあったのか？,Are you alright? Did something happen?
+2014005010030,甘奈,"え、えーっとね？
+そうじゃ、ないんだけど……","W-Well…
+It's not a big deal but…"
+0000000000000,プロデューサー,"本当に何もないなら良いんだが
+遠慮しないで言ってくれていいんだぞ","It'd be nice if it really wasn't a big deal but
+I'd like it more if you don't hold back and say it."
+2014005010040,甘奈,"……それじゃあ……言うね……！
+でも、笑わないで聞いてほしいんだけど","Okay… I'll say it.
+But, I hope you won't laugh about it."
+0000000000000,プロデューサー,当然だろう、だからなんでも話してくれ,"I won't, so feel free to tell me."
+2014005010050,甘奈,ありがと、プロデューサーさん,"Thank you, Producer."
+2014005010060,甘奈,"その……
+学校で、このあいだ見たテレビの話してて","You see… We had this chat about the show
+on TV at school the other day."
+2014005010070,甘奈,"ホラー特集とかあるじゃん……
+それで、友達から怖い話を聞いちゃったんだ","Like that horror special…
+So, my friend told a scary story."
+0000000000000,プロデューサー,"確かに怖い話って
+後から思い出して怖くなったりするよな","Yeah, recalling the scary story later
+on would make one get scared."
+2014005010080,甘奈,そうなの！,Yeah!
+2014005010090,甘奈,で、ちょっとひとりで帰るのが怖いというか……,"So, I was kinda scared to go home by myself..."
+2014005010100,甘奈,プロデューサーさん、もうお仕事終わってたりする……？,"Producer, you all done with work?"
+0000000000000,プロデューサー,あぁ、もう終わってるから送ってくよ,"Yeah, so I'll see you off."
+2014005010110,甘奈,ありがと！　プロデューサーさん！,"Thank you, Producer."
+0000000000000,プロデューサー,はは、気にしないでくれ,Haha. It's no big deal.
+select,,"それにしても
+そんな怖い話なのか","Still, is it
+that scary?"
+select,,"ちょっと俺も
+思い出したことが","That reminds me
+of something."
+select,,あ、まだ散らかってた,"Wait, it's still messy"
+2014005010120,甘奈,うん,Yes.
+2014005010130,甘奈,"あ、でも……お昼に友達と話してたときは
+すっごく楽しかったんだよ？","But, it was really fun talking
+to my friends during lunch."
+2014005010140,甘奈,"なんかね
+部活で遅くまで残ってた子の話なんだけど……",It's kinda like the stories the other girls tell to each other when they're late doing things in the school club…
+0000000000000,プロデューサー,なるほど,I see.
+2014005010150,甘奈,"練習遅くなっちゃったから
+正門からじゃなくて裏口から下校しようとして——",Like they stayed longer for practice that they have to leave school through the back instead at the main gate…
+2014005010160,甘奈,……ごめん、やっぱなしっ！,"…Sorry, let's forget about that!"
+0000000000000,プロデューサー,"はは、なんだ……自分から話し始めたから
+もう平気なのかと思ったよ","Haha. I thought you're already fine
+since you started telling the story yourself."
+0000000000000,プロデューサー,……ただ、なんとなく今の甘奈の状況に近いような……,"Still, I guess it's like close to how you're right now."
+2014005010170,甘奈,だから怖いんだって！,That's why I'm scared!
+0000000000000,プロデューサー,そ、そうか……すまん,R-Right… Sorry about that.
+2014005010180,甘奈,ね、だから早く帰ろ？,"So, let's go home now, okay?"
+0000000000000,プロデューサー,"おっと……！
+そうだな、じゃあ——","Woah!
+Yeah, let's──"
+0000000000000,プロデューサー,楽しい話でもしながら帰ろうか,Have a fun chat while we're on our way home?
+2014005010190,甘奈,えへへっ、それなら大歓迎☆,"Ehehe, I'm more than okay with that."
+2014005010200,甘奈,う、うん……何？,S-So… What is it?
+0000000000000,プロデューサー,"これはな
+この間、事務所に遅くまで残ってた時のことなんだが","This happened when I was working late here
+in the agency the other day."
+0000000000000,プロデューサー,"長いこと座りっぱなしで仕事してたから
+ふと時計を確認したんだ","Since I've been working on my seat,
+I decided to check the time."
+0000000000000,プロデューサー,"そうしたら
+２階なのに、窓にちらっと影が見えて……","And, even though I'm on the second floor,
+I saw a shadow by the window."
+2014005010210,甘奈,そ、それってまさか……！,D-Don't tell me…
+0000000000000,プロデューサー,"……いやそれがな
+単に、自分の姿が窓に映ってただけだったんだ","…Actually,
+it was just my reflection."
+2014005010220,甘奈,……,……
+2014005010230,甘奈,え？,Huh?
+0000000000000,プロデューサー,はは、ただの見間違いでしたってオチだ,Haha. I was just mistaking it for something else.
+2014005010240,甘奈,"あ、あははっ……！
+なんだ……びっくりしたー","A-Ahaha.
+Oh… That surprised me."
+2014005010250,甘奈,プロデューサーさんまで、怖い話するのかと思った！,And here I was thinking you're also going to tell me a scary story!
+2014005010260,甘奈,"……あ、でも、いちおう聞くけど
+なんにもなかったんだよね？","…Oh, but just to be sure,
+there wasn't anything there, right?"
+0000000000000,プロデューサー,"ああ
+甘奈が聞いた話も、もしかしたら同じかもな","Yes.
+And from what you've told me, it's probably the same."
+2014005010270,甘奈,"……見間違いってこと？
+うーん……","…That it was mistaken for something else?
+Hmm…"
+2014005010280,甘奈,"えへへ、そっか……そうだよね！
+プロデューサーさん、甘奈、帰る準備してくるね！","Ehehe, I see. That must be it!
+Producer, I'll go get ready to leave!"
+2014005010290,甘奈,"事務所戻るんだよね
+じゃあ、甘奈も荷物、まとめちゃうね","You're going back to the office, right?
+Okay, I'll go and get my things too."
+2014005010300,甘奈,"だから、ちょっと待ってて！
+一緒に行こ、プロデューサーさん","So, please wait for a sec!
+Let's go there together, Producer."
+0000000000000,プロデューサー,ああ、わかった,"Yeah, sure."
+2014005010310,甘奈,"……えっと、携帯はちゃんとカバンに入ってて
+あとは上着と……","Let's see, my phone's in the bag.
+And my coat…"
+2014005010320,甘奈,……よし、これで全部,"There, that's all about it."
+2014005010330,甘奈,プロデューサーさん、待たせちゃってごめんね,"I'm sorry to have kept you waiting, Producer."
+0000000000000,プロデューサー,"大丈夫だ
+むしろ俺のほうが、甘奈を待たせてしまいそうだよ","It's alright.
+Or rather, I'm probably the one who has kept you waiting."
+0000000000000,プロデューサー,けっこう、散らかってたかもしれないしな……,There's a lot of things I have to clean up.
+2014005010340,甘奈,"じゃあ、早く行こ、プロデューサーさん！
+甘奈、片づけ手伝っちゃうから☆","So, let's hurry, Producer!
+I'm going to help you out."
+info,produce_events/201400501.json,
+译者,,

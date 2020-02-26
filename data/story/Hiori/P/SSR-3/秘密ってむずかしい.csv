@@ -1,0 +1,85 @@
+id,name,text,trans
+2002007030010,灯織,うーん……,Ummm...
+0000000000000,プロデューサー,（ずっと悩んでるな……）,(What is she worrying about...?)
+2002007030020,灯織,もしかしたら……！　あ、でもダメか……,"Or maybe I should...! Agh, maybe not..."
+0000000000000,プロデューサー,"さっきから考え込んで、どうしたんだ？
+何か悩み事なら相談に乗るぞ？","What are you worried about Hiori? If you need someone to talk to, I'm open okay?"
+2002007030030,灯織,あ、プロデューサー、ありがとうございます,"Ah, producer, thank you very much."
+2002007030040,灯織,実は今度、父が一時的に帰ってくるんです,"Actually, my father is going home for a short while."
+0000000000000,プロデューサー,"おお、そうなのか
+確か、単身赴任してるんだったよな","Oh, Is that so? Your father works far from home huh?"
+2002007030050,灯織,"はい。それで、普段あまり会えないので
+この機会に何かしようと考えてまして","Yes, and since I did not usually meet him, I want to use this chance to do something for him."
+0000000000000,プロデューサー,いいじゃないか、何も悩むことはないと思うぞ,"That's a good idea, I don't think you have anything to worry about."
+2002007030060,灯織,もちろん、そこまではいいんです,"Yes it's fine, but..."
+0000000000000,プロデューサー,まずいことでもあるのか？,Is there something bad that happened?
+2002007030070,灯織,"はい、せっかくなので何かをやる直前まで
+秘密にしておきたいのですが","Yes, if it's possible I want to make it a secret, until the day comes, but..."
+2002007030080,灯織,"私、隠しごととか上手くないので
+どうしようかと……",I'm not good at hiding things so I wonder what I should do.
+0000000000000,プロデューサー,"確かに……
+エイプリルフールの時の嘘は、わかりやすかったもんな",Well... Even your lie in April Fool's is really easy to guess.
+2002007030090,灯織,"あ、あれは……
+もう忘れてください……！",T-That was... Please forget about it!
+2002007030100,灯織,…………！,......!
+0000000000000,プロデューサー,"す、すまん……
+えーっと……",S-Sorry... Ummm...
+select,,"色々なケースを
+想定しよう","Let's try to think
+about various situations."
+select,,"何を贈ろうと
+思ってるんだ？","Have you thought of a
+gift for your father?"
+select,,"無理に隠そうと
+しなくてもいい",It's fine if you just don’t hide it
+0000000000000,プロデューサー,"灯織は咄嗟に何かを聞かれたりすると
+つい、本当のことを言ってしまいがちだよな",You will blurt out the truth if you are asked so...
+2002007030110,灯織,はい、そう思います,"Yes, I also think so too."
+0000000000000,プロデューサー,"だから、準備をしている話題に触れられそうになったら
+上手く他の話題に持っていく方法を色々考えておくんだ","Then, what if you prepare some topics so when you got asked You can change topics and to avoid talking about it?"
+2002007030120,灯織,"確かに……それなら嘘をつかずに済みますね
+ありがとうございます",Certainly that is not a lie... Thank you very much.
+2002007030130,灯織,あの、それからもうひとつ聞いてもいいですか,"Umm, can I ask you one other thing?"
+0000000000000,プロデューサー,ああ、もちろん大丈夫だ,"Yeah, sure. It's fine."
+2002007030140,灯織,"プレゼントを手作りしようと思うのですが、
+どういうところに隠したらいいと思いますか？","I want to make a handmade present, can you suggest where should I hide it?"
+2002007030150,灯織,"話ではごまかせても
+場所が見つかってしまうと……",Even if I change the topic but if the present was found...
+2002007030160,灯織,"普段父がいないので、
+どういうところなら大丈夫かわからないんです","Usually my father is not home so, I wonder where’s a good place for it?"
+0000000000000,プロデューサー,それなら、事務所の倉庫を使うといい,You can use the office storage room if you like.
+2002007030170,灯織,え、いいんですか……？,Eh? Is that okay?
+0000000000000,プロデューサー,"ああ。社長とはづきさんには話しておくよ
+そんなに大きなものじゃなければ問題ないと思うし","Yeah, I’ll talk to the director and Hazuki, If it's not a too big, it should be okay."
+2002007030180,灯織,"あ、ありがとうございます
+じゃあ、父に渡すものができたら置かせてもらいますね","Th-Thank you very much. Then, once I pick out the present I will put it there."
+2002007030190,灯織,"色々と考えてはいるんですけど、
+決まらなくて……",I have thought about some but I can't decide which one.
+0000000000000,プロデューサー,それなら、物を贈る以外のことをしてみるのはどうだ？,"Then, what if you give something other than a gift?"
+2002007030200,灯織,プレゼント以外……,Other than a gift...
+0000000000000,プロデューサー,ああ、いつもやっていることを少し工夫するとか,"Yeah, maybe you can a bit of an improvement from what you usually do for him."
+2002007030210,灯織,少し手の込んだ料理を作るとか、ですかね,"Like making a small snacks, like that?"
+0000000000000,プロデューサー,"お、いいんじゃないか
+灯織ならきっとすごいのを作れそうだ","Oh, that's a good idea If it's you I believe you can make it, Hiori."
+2002007030220,灯織,そこまで言っていただけるほどではないと思いますが……,I don't think I deserve such praise...
+2002007030230,灯織,"でも、ありがとうございます
+今からびっくりするレシピを考えます！","But, thank you very much.
+I will think of a recipe from now"
+2002007030240,灯織,それだと簡単にバレてしまいそうです,But that will make it easy to figure out.
+0000000000000,プロデューサー,"仮にバレてしまっても、
+灯織のその気持ち、お父さんは絶対に喜んでくれると思うぞ","But even if it's got found out, If your father knew about your feelings, he will surely grateful."
+0000000000000,プロデューサー,"それに、気楽に構えている方が
+かえって気づかれないものだ",And if you do not worry that much You won't get stressed too much.
+2002007030250,灯織,"そういえば……この間も嘘をつこうと色々考えたせいで
+プロデューサーの反応を意識してしまった気がします……",Now that you mention it... The lie that I told before made me think about a lot of things It stressed out thinking about it.
+0000000000000,プロデューサー,"ああ、自然体なほうがいいんだ
+変に気負いすぎないことだな","Ah, it's better to go with the natural you Just don’t think too hard on it."
+2002007030260,灯織,"なるほど……ありがとうございます
+そう思ったら、すごく気が楽になってきました","I see... Thank you very much. If I don’t think too hard about, I won’t be as stressed."
+0000000000000,プロデューサー,"はは、よかったよ。せっかくなんだし、
+サプライズされる側だけじゃなく、する側も楽しまないとな","Haha, while you do it It won't be a surprise for your father, but also for you."
+2002007030270,灯織,ふふ、そうですね,"Fufu, right."
+2002007030280,灯織,"贈り物も少し気楽に考えてみます
+そうすればきっと、いい物を思いつきそうです","I will lightly think about the present then. If I do that, I will surely find a nice present."
+info,produce_events/200200703.json,
+译者,,

@@ -1,0 +1,119 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（そういや、例の書類どこやったっけな
+この辺かな……）","(Now, where's that document?
+It should around here somewhere.)"
+0000000000000,プロデューサー,おわっ！,Oofh!
+2014006020010,甘奈,"大丈夫！？
+なんかすごい音したけど──","Is everything alright?
+I think I heard something loud just now."
+0000000000000,プロデューサー,ああ、大丈夫だ……心配してくれてありがとう,"Yeah, it was nothing. I appreciate your concern."
+2014006020020,甘奈,プロデューサーさんがケガしなくてよかった！,"It's good to see that you didn't get hurt, Producer."
+2014006020021,甘奈,あ……でもだいぶ紙が崩れちゃってるね……,"Ah... But, there are lot of papers that fell down."
+0000000000000,プロデューサー,"ああ、すぐに片づけないと……
+えーっと、確かこれは……","Yeah, I have to clean up this mess right away.
+Let's see, I think this one's..."
+2014006020030,甘奈,"甘奈も手伝うね！
+この辺の紙はどうしたらいいかな？","I'll help you out!
+What should I do with the papers over here?"
+0000000000000,プロデューサー,"ありがとう、それはもう使わない書類だから
+この辺に置いておいてくれるか？　後でまとめて捨てるよ",Thank you. Those ones aren't needed anymore so could you leave it here? I'll take all of them to get disposed later.
+2014006020040,甘奈,うん！　わかった！,Okay! Got it!
+2014006020050,甘奈,"この辺のファイルは……
+日付順に並べとくね☆","As for these files here,
+I have to sort them by date, right?"
+2014006020060,甘奈,後は……,After that...
+0000000000000,プロデューサー,"よし、まとまったな……
+甘奈、手伝ってくれてありがとう！　本当に助かったよ","There, all done.
+Thank you for helping me out, Amana! You're a lifesaver."
+2014006020070,甘奈,えへへ、どういたしまして☆,"Ehehe, you're welcome."
+2014006020080,甘奈,"ところで、プロデューサーさん
+片付けしている時に、他にも気になったところがあるんだ","By the way, Producer.
+There's something else I'm worried about as we were cleaning up."
+0000000000000,プロデューサー,そうか、どの辺りだ？,I see. What is it?
+2014006020090,甘奈,あっちの方とか！　なんか散らかってない？,Like that one there! Doesn't that look like things are in disarray?
+0000000000000,プロデューサー,確かにそうだな……,Yeah...
+2014006020100,甘奈,"この際だし、一気にやっちゃお！
+『お片付け大作戦』だよ、プロデューサーさん☆","Since while we're at it, let's take care of them all!
+Time for the ""Big Clean-up Operation"", Producer."
+0000000000000,プロデューサー,でも、これ以上手伝わせるのも悪いし……,But I'll feel bad if I make you help me out more than you've already did...
+2014006020110,甘奈,"いいの！　こういうのは
+ふたりでやった方がすぐできちゃうでしょ？","I don't mind! And it's much faster if the two of us clean these up, isn't it?"
+2014006020120,甘奈,それに、甘奈、整理整頓するの、結構好きなんだ☆,"Besides, I really like putting things clean and tidy."
+2014006020130,甘奈,"ねぇ、プロデューサーさーん！
+この空箱は取っとく？　どこかのお土産のみたいだけど","Say, Producer!
+Should I take this empty box? Seems like it belonged to some souvenir."
+0000000000000,プロデューサー,"小物入れに使えるかもと思って取っておいたが……
+結局は使わなかったし、捨てるか","I thought of having that as a try to hold small things. But, since I haven't really used it at all, I guess we should throw it away."
+2014006020140,甘奈,"オッケー！
+じゃあ、次は……っと","Okay!
+So, for the next one..."
+2014006020150,甘奈,あれ？　これなんだろ？,Hmm? What is this?
+select,,何かのメモだな……,Some kind of memo...
+select,,"オーディションの
+ポスターだな","An audition
+poster."
+select,,"社長のインタビューが
+載った雑誌だ","The magazine that has
+the interview with the President in it."
+0000000000000,プロデューサー,なんて書いてある？,What's written on it?
+2014006020160,甘奈,"『洗剤』と……
+『何か美味しそうなスイーツ』……？　だって","It says, ""detergent""...
+and ""a delicious sweet""."
+0000000000000,プロデューサー,ああ、それ、俺の買い物のメモだ！,"Oh, that's my shopping list!"
+2014006020170,甘奈,えっへへ、なんか面白い組み合わせ☆,Ehehe! What an interesting set.
+2014006020180,甘奈,洗剤は多分切れたから買わなきゃだったんだよね？,"You must've ran out of detergent which is why you have to buy some, right?"
+2014006020190,甘奈,"でも、もう１つの……
+『何か美味しそうなスイーツ』ってかわいー感じ！","But, as for the other one...
+That ""delicious sweet"" sounds cute!"
+0000000000000,プロデューサー,はは、そうかな,"Haha, really?"
+0000000000000,プロデューサー,"確か、甘奈が美味しそうにプリンを食べてたのを見て
+俺も何か食べたくなったんだっけ",I think it was when I saw you happily enjoying a pudding that I wanted to eat something too.
+2014006020200,甘奈,え～、言ってくれれば分けてあげたのに～,Eh? I could've shared some if you'd just ask.
+0000000000000,プロデューサー,でも、甘奈の楽しみを邪魔したら悪いだろ？,"But, it would've been bad if I ruin your enjoyment then."
+2014006020210,甘奈,そんなことないんだけどな～,I don't think that that will happen.
+2014006020220,甘奈,"じゃあ、もし今度同じようなことがあったら
+その時は分けてあげるっ☆","Okay, if that happens again,
+I'll be sure to share some with you."
+2014006020230,甘奈,そうなんだ！　見てみてもいいかな？,I see! Can I take a look?
+0000000000000,プロデューサー,ああ、もちろん,"Sure, why not."
+2014006020240,甘奈,わー、なつかしー！,"Ah, this brings back memories!"
+0000000000000,プロデューサー,"確かに懐かしく感じるな
+方々に貼りに行ったっけ","Yeah, that seems nostalgic.
+I think those were placed that in many places."
+2014006020250,甘奈,じゃあそのうちの１枚が、甘奈たちが見たやつだったんだ！,Then one of them is what we saw back then!
+2014006020260,甘奈,"甘奈、このポスターのお陰で
+オーディションのこと知ったんだよ☆",This was the poster that told me that there were auditions being held.
+0000000000000,プロデューサー,これがきっかけだったのか,"So this is where you knew it, huh."
+0000000000000,プロデューサー,"なら、このポスターに感謝しないとな
+甘奈みたいな素敵なアイドルに出会わせてくれたんだから","I have to be thankful for this poster then.
+After all, it let me to meet such a wonderful idol like you, Amana."
+2014006020270,甘奈,それなら、甘奈もだよ！,That goes the same for me!
+2014006020280,甘奈,"ポスターさん！　甘奈とプロデューサーさんを
+出会わせてくれて、ありがと☆　えへへ",Poster! Thank you for allowing me and Producer to meet! Ehehe~
+2014006020290,甘奈,"へ～。社長さん、インタビュー受けたことあるんだ
+どれどれ～……","Oh. The President did some interview.
+Let's see."
+2014006020300,甘奈,"『易きに甘んずることなかれ！
+常日頃、自分自身に厳しく言い聞かせ──』……","""Never be satisfied with the easy way!
+Always be strict with yourself"""
+2014006020310,甘奈,……なるほど～,...I see.
+2014006020320,甘奈,さっすが社長さん！　威厳のあるメッセージだったね！,Nothing less from our President! That was really a majectic message!
+0000000000000,プロデューサー,"ああ、カッコいいよな
+俺もこんなことが言えるようになれるといいが","Yeah, he really is cool.
+It'd be nice if I could also say those kind of things."
+2014006020330,甘奈,"プロデューサーさんは、自分らしく答えた方が
+良さが出ると思うな～……","I think that you'll be able to say
+a good answer in your own way."
+2014006020340,甘奈,"そうだ！　プロデューサーさんの記事ってある？
+甘奈、見てみたいな！","That's right! Are there any articles about you?
+I want to read that!"
+0000000000000,プロデューサー,俺の記事はないな,There are no articles about me.
+2014006020350,甘奈,"そうなんだ……でも、いつかインタビューされたら
+いいね☆","Oh... But, it'd be nice if
+you got interviewed someday."
+0000000000000,プロデューサー,"いや、俺のことはいいよ
+それよりも、甘奈の記事が増えるように頑張らないと","No, it's alright. Anyways, I have to work ard so that there'll be more articles about you."
+2014006020360,甘奈,そっか……そうだよね……ありがと！,Oh... right... Thank you!
+2014006020370,甘奈,じゃあ、甘奈ももっと頑張っちゃうね！,"Then, I work harder too!"
+info,produce_events/201400602.json,
+译者,,

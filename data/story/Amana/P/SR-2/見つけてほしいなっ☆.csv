@@ -1,0 +1,79 @@
+id,name,text,trans
+0000000000000,プロデューサー,……ふーむ、これだとなぁ……,Hmm. I guess this will do.
+2014005110010,甘奈,"あ、プロデューサーさん！
+おっつかれー☆","Oh, Producer!
+Hello!"
+0000000000000,プロデューサー,おっ、甘奈、お疲れさま,"Oh, Amana, hello."
+2014005110020,甘奈,ん？　写真見てるの？,"Say, are you looking at the pictures?"
+0000000000000,プロデューサー,"うん、次の宣伝用のポスターなんだが
+印刷の具合を確かめてたんだよ","Yes. It's going to be used for the next
+publicity posters so I'm checking how they're printed."
+2014005110030,甘奈,この前撮ったやつ、もう来てたんだ……！,"So, the ones we took from before have already been sent here!"
+0000000000000,プロデューサー,ああ、ただ、少し仕上がりの色が暗い感じがするんだ,"Yes. However, the pictures seem to have turned out a little dark."
+0000000000000,プロデューサー,"ほら、
+もう少し明るい雰囲気の予定だっただろう？","The plan was to give it a
+little bright atmosphere, right?"
+2014005110040,甘奈,……言われてみれば,Now that you mentioned it...
+0000000000000,プロデューサー,"あと他にも直したいところをリストアップしてたんだが
+これ見て気になるところはあるか？","I'm currently listing the other things to be fixed.
+Do you have any other concerns about the pictures?"
+2014005110050,甘奈,"あ、見ていいの？
+ありがと！","Wait, you don't mind me looking at them?
+Thank you!"
+2014005110060,甘奈,"うーん……
+やっぱ、明るさが一番気になるかも","Hmm...
+I guess the brightness is what worries me the most."
+2014005110070,甘奈,あと他にはね——,As for the other things...
+0000000000000,プロデューサー,"よし、これで調整の依頼をかけてみるよ
+意見、ありがとうな","Alright, I think I can write what adjustments we'd like to see.
+Thank you for sharing your thoughts."
+2014005110080,甘奈,えへへ、どういたしまして！,"Ehehe, don't mention it!"
+2014005110090,甘奈,"甘奈、ちょっとでもお手伝いできて良かった
+こんなにプロデューサーさんが考えてくれてるんだもん","I'm glad I've been of help, even if it's just a little.
+Besides, this is all your idea."
+0000000000000,プロデューサー,"常に甘奈を最高に魅力的に見えるようにして
+送り出すのが俺のやるべきことだからな","It's my job to always make you
+at your most charming."
+0000000000000,プロデューサー,妥協は一切できないさ,Which is why I won't compromise.
+2014005110100,甘奈,ありがとう、プロデューサーさん,"Thank you, Producer."
+0000000000000,プロデューサー,それと、次の企画の話をしたいんだが、いいか,"By the way, I want to talk to you about your next project. Is it alright?"
+2014005110110,甘奈,うんっ！　なに？,Sure! What is it?
+0000000000000,プロデューサー,"今回のポスターが明るめの感じだったから
+次回はもう少し落ち着いた雰囲気にしようと思うんだ","Since this poster has a bright vibes to it, I was thinking that the next one would have a more subdued feel."
+2014005110120,甘奈,オトナな感じってこと？,Like a more adult vibe?
+0000000000000,プロデューサー,"ああ……明るく元気いっぱいな甘奈は
+もうみんなよく知ってるはずだからな","Yes, since everyone's already familiar with
+the bright and cheerful Amana."
+0000000000000,プロデューサー,"次回はあえて
+違う雰囲気の甘奈を見せるのもいいんじゃないか？","Don't you think it'd be nice if we show them
+a different kind of you?"
+2014005110130,甘奈,いつもと違う甘奈かぁ……,"A different kind of me, you say."
+2014005110140,甘奈,"……
+えへへ、それいいかも！","……
+Ehehe, that sounds like a good idea!"
+2014005110150,甘奈,"……あ、それじゃ
+甘奈、まだ他にもイメージしてるのあるんだけど","...Wait, there's still a lot
+more sides to me."
+0000000000000,プロデューサー,"お、ちょっと聞かせてもらってもいいか？
+手間かけさせてしまうが……","Oh, would you mind telling me about that?
+Although I'll be taking more of your time if we go on..."
+2014005110160,甘奈,"ううん、全然！　こういうアイディア出しも
+アイドルしてるって感じでめっちゃ楽しいし","Sure, I don't mind! Giving out ideas like this feels like being an idol too and I really enjoy this."
+0000000000000,プロデューサー,"……そうか
+甘奈がそう感じてくれてるなら何よりだ","I see.
+I'm glad that you feel that way."
+2014005110170,甘奈,"うん
+ね、プロデューサーさん……","Yeah.
+Say, Producer..."
+0000000000000,プロデューサー,ん、なんだ？,"Yes, what is it?"
+2014005110180,甘奈,いつも、いろいろ考えてくれて……,You're always thinking about me in so many ways.
+2014005110190,甘奈,甘奈をずっと見ててくれて、ありがと,You were always watching me. Thank you for all of that.
+0000000000000,プロデューサー,"……当然のことだよ
+俺は甘奈のプロデューサーだからな","It's nothing special.
+I am your producer, after all."
+2014005110200,甘奈,えっへへ！　うん……！,Ehehe! Right!
+2014005110210,甘奈,"これからも、甘奈の知らない甘奈のこと
+いーっぱい見つけてね、プロデューサーさん☆","I hope that you keep finding lots of things about me
+that I'm not aware of, Producer."
+info,produce_events/201400511.json,
+译者,,

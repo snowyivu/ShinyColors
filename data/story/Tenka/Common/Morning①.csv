@@ -1,12 +1,12 @@
 id,name,text,trans
-1015001000110010,甜花,あ、あの……,"U, um……"
+1015001000110010,甜花,あ、あの……,U-Umm…
 0000000000000,プロデューサー,"お、甜花。
 おはよう。いい朝だな","Ah, Tenka.
 Good morning. The sun feels nice today."
 1015001000110020,甜花,"お、おはよう……
-プロデューサーさん……","M, morning……
-Producer-san……"
-0000000000000,プロデューサー,（あれ……？　なんだか甜花の声が小さいような……）,(Huh……? I can't hear Tenka's voice clearly……)
+プロデューサーさん……","M-Morning…
+Producer…"
+0000000000000,プロデューサー,（あれ……？　なんだか甜花の声が小さいような……）,(Huh? I can't hear Tenka's voice clearly…)
 select,,今日も頑張ろう！,"Let's do our
 best today!"
 select,,元気出して行くぞ！,"Let's be
@@ -15,22 +15,22 @@ select,,"元気がないようだが
 大丈夫か？","You seem down.
 Are you alright?"
 1015001000110030,甜花,"う、うん……っ
-甜花、頑張る……！","Y, yes……
-Tenka, will do her best……！"
+甜花、頑張る……！","Y-Yes…
+Tenka, will do her best!"
 1015001000110040,甜花,"にへへ……
-今日は……失敗しないように、するからね……","Nihehe……
-Today……Tenka'll make sure, she won't fail……"
+今日は……失敗しないように、するからね……","Nihehe…
+Today… Tenka will make sure she won't fail…"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
-1015001000110050,甜花,えっ……元気出してるけど……,"Eh…… Tenka's pretty spirited, but……"
+1015001000110050,甜花,えっ……元気出してるけど……,"Eh… Tenka's pretty spirited, but…"
 1015001000110060,甜花,"もっと、出せるかな……
-や、やってみるね……","To be, more spirited……
-Tenka'll, try too……"
+や、やってみるね……","To be more spirited…
+Tenka will try too…"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
-1015001000110070,甜花,え、え……？　甜花、普通だよ……？,"E, eh……? Tenka feels normal, you know……?"
+1015001000110070,甜花,え、え……？　甜花、普通だよ……？,"E-Eh? Tenka feels normal, though…?"
 1015001000110080,甜花,"プロデューサーさんから見ると……
-もっと元気出したほうが……いいんだね……","From Producer-san's viewpoint……
-It's better to be more…… energetic……"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
-I should have said something else……)"
+もっと元気出したほうが……いいんだね……","From your viewpoint…
+It's better to be more… energetic…"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
 info,produce_communications/101500100011.json,
 译者,,

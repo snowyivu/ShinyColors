@@ -2,9 +2,9 @@ id,name,text,trans
 0000000000000,プロデューサー,甘奈、次のステージの衣装が届いたぞ,"Amana, the costume for the next live has arrived."
 1014001000210010,甘奈,"わぁ、
 この衣装、めっちゃかわいくない？","Wow,
-this costume, isn't it really cute？"
-1014001000210020,甘奈,こういうの、甘奈大好きなんだー,"If it's something like this, Amana really likes it～"
-0000000000000,プロデューサー,（衣装を気に入ってもらえたようだ）,（It seems she really liked the costume.）
+this costume, isn't it really cute?"
+1014001000210020,甘奈,こういうの、甘奈大好きなんだー,"If it's something like this, I really like it~"
+0000000000000,プロデューサー,（衣装を気に入ってもらえたようだ）,(It seems she really liked the costume.)
 select,,"これから、
 たくさん着れるさ","From now on,
 you'll wear it
@@ -17,24 +17,24 @@ clothes huh. "
 select,,なんでも似合うぞ,"You look good
 in anything."
 1014001000210030,甘奈,"うんっ！
-アイドルしてたら、こういうかわいーのいっぱい着られるよね","Yeah！
+アイドルしてたら、こういうかわいーのいっぱい着られるよね","Yeah!
 If you're an idol, you can wear so many cute things like this, right."
 1014001000210040,甘奈,"どんな衣装があるんだろー
-甘奈、楽しみ☆","I wonder what else costumes I will wear～
-Amana, cannot wait for it☆"
+甘奈、楽しみ☆","I wonder what else costumes I will wear~
+I cannot wait for it!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1014001000210050,甘奈,"うん、好き！
-雑誌見てコーデ考えるのも好きだよ","Yep、I like it！
+雑誌見てコーデ考えるのも好きだよ","Yep, I like it!
 I love reading fashion magazines and coordinating clothes."
 1014001000210060,甘奈,"ウィンドウショッピングもワクワクするしー
-おしゃれって、すっごい楽しいよ！","Even windowshopping is exciting as well～ 
-Being fashionable, is really fun！"
+おしゃれって、すっごい楽しいよ！","Even windowshopping is exciting as well~ 
+Being fashionable is really fun!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1014001000210070,甘奈,"なんでも？
-えー、それだけなんだー","Anything？
-Ehh, that's it～？"
-1014001000210080,甘奈,プロデューサーさんから、なんか意見ほしいな～,Producer-san、I actually want to listen to your opinions～
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
-I should have said something else……)"
+えー、それだけなんだー","Anything?
+Ehh, that's it?"
+1014001000210080,甘奈,プロデューサーさんから、なんか意見ほしいな～,"Producer, I actually want to listen to your opinions!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
+I should have said something else…)"
 info,produce_communications/101400100021.json,
 译者,,
