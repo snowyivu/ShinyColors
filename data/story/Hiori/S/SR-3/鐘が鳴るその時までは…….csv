@@ -1,7 +1,7 @@
 id,name,text,trans
-3002006020010,灯織,ダメ、もう１回……！,This won't do. One more time..!
+3002006020010,灯織,ダメ、もう１回……！,This won't do. One more time!
 3002006020020,真乃,"灯織ちゃん……
-私は、すごく上手になってると思うよっ","Hiori-chan...
+私は、すごく上手になってると思うよっ","Hiori...
 I think you're much better now."
 3002006020030,灯織,真乃……,Mano...
 3002006020040,灯織,"あっ、もうこんな時間……
@@ -23,7 +23,7 @@ And those feelings are important here!"
 何か変わるかも……","Yes, if I keep those feelings in mind,
 then it might lead to change..."
 3002006020130,真乃,"ほわぁ、じゃあもう１回やってみようよ
-灯織ちゃんっ！","Hwa, then, let's practice one more time, Hiori-chan!"
+灯織ちゃんっ！","Ah, then, let's practice one more time, Hiori!"
 3002006020140,灯織,"何度も申し訳ないけど……
 お願い！","You two have done so much for me but...
 please help me out again!"
@@ -49,7 +49,7 @@ midnight is over."""
 3002006020240,灯織,"『私も王子様にお会いできたなら、
 何か変わることができるかしら……』","""If I meet the Prince, then,
 I wonder if something will change..."""
-3002006020250,灯織,（私を……変えてくれる……！）,(I... I will be changed..!)
+3002006020250,灯織,（私を……変えてくれる……！）,(I... I will be changed!)
 3002006020260,灯織,『ああ、王子様がこんなにも近くに……』,"""Ah, Prince. To think that I'll be able to see you this
 close..."""
 0000000000000,？？？,『そこの方、よろしければ一緒に踊ってくれませんか？』,"""Fair maiden, will you grant me the pleasure
@@ -64,16 +64,16 @@ hand... Is it really alright for me to have this blissful
 moment?"""
 3002006020290,灯織,『できることなら、このまま永遠に踊っていたい……』,"""If it's possible, I wish that we could dance like this
 for all of eternity..."""
-3002006020300,灯織,『ですが──』,"""But, alas--"""
+3002006020300,灯織,『ですが──』,"""But, alas──"""
 3002006020310,灯織,"『どうやら、もうお別れの時間のようです
 私は行かなくてはなりません……』","""It seems that it's time for us to part ways.
 I really should be going now..."""
-0000000000000,？？？,『そんな……！　まだ、お名前さえ──』,"""No..! Wait, please tell me your name."""
+0000000000000,？？？,『そんな……！　まだ、お名前さえ──』,"""No! Wait, please tell me your name."""
 3002006020320,灯織,『さようなら、王子様……』,"""So long, Prince..."""
-3002006020330,灯織,──私の、王子様……！,--My dear beloved Prince..!
-3002006020340,めぐる,わぁ……！,Wow..!
+3002006020330,灯織,──私の、王子様……！,──My dear beloved Prince!
+3002006020340,めぐる,わぁ……！,Woah!
 3002006020350,めぐる,"す、すごいよ灯織……！
-迫真の演技！","T-That was amazing, Hiori..!
+迫真の演技！","T-That was amazing, Hiori!
 Your acting was so real!"
 3002006020360,真乃,"本当に……
 本当に、お姫様みたいだったよっ","You were really...
@@ -92,13 +92,13 @@ think of as the Prince?"
 3002006020430,灯織,え！？,Huh?!
 3002006020440,めぐる,ん！？,Hmm?!
 3002006020450,灯織,"う、ううん……！
-身近な人だよ……","I-It's okay..!
+身近な人だよ……","I-It's okay!
 It was just someone close to me..."
 3002006020460,めぐる,そっかぁ,Is that so...
 3002006020470,めぐる,身近な人って、えーっと……,"Someone close, umm..."
-3002006020480,真乃,プロデューサーさんとか……？,Like Producer-san..?
-3002006020490,灯織,！！,!!
-3002006020500,灯織,っち……違うから！,N... No!
+3002006020480,真乃,プロデューサーさんとか……？,Like Producer..?
+3002006020490,灯織,！！,Huh!?
+3002006020500,灯織,っち……違うから！,No... No at all!
 3002006020510,灯織,本当に、そんなんじゃ……,It's really not like that...
 info,produce_events/300200602.json,
 译者,,

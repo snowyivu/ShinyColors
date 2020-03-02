@@ -1,0 +1,200 @@
+id,name,text,trans
+0000000000000,プロデューサー,"凛世
+車そろそろ出すけど、忘れ物とか──","The car's about ready now, Rinze.
+You sure you haven't forgotten anything?"
+2012006020010,凛世,……,……
+0000000000000,プロデューサー,"──はは、凛世
+海が気になってるんだな","Haha.
+Looks like the beach got your attention."
+2012006020020,凛世,"いえ、プロデューサーさま……
+そのようなことは……","No, Producer-sama,
+that is not true."
+0000000000000,プロデューサー,"気になってるって顔だぞ？
+せっかくのロケだったんだし、もうちょっと見ていこうか","But, it's written all over your face. Since the location brought us here, how about we look around some more?"
+2012006020030,凛世,……,……
+2012006020040,凛世,"はい……
+プロデューサーさまの……ご迷惑でなければ……","Yes, Producer-sama,
+if it is not too much trouble for you."
+0000000000000,プロデューサー,"よーし、じゃあ浜を歩こうか
+陽が沈むまで、そんなに時間がないけど──","Alright, let's take a walk by the beach then.
+But, we don't have much time until the sun finally sets."
+2012006020050,凛世,"お履き物を……
+脱がれるのですか……？","You have taken
+off your shoes?"
+0000000000000,プロデューサー,"ん……？
+ああ、せっかくの砂浜だからな","Huh?
+Oh that, well we're here by the beach so..."
+0000000000000,プロデューサー,凛世も、ここから先は脱いだ方が歩きやすいぞ,You should do the same too. It'll be much easier to walk.
+2012006020060,凛世,はい……,Okay.
+2012006020070,凛世,"ふふ……
+温かいのですね……","Fufu.
+It feels so warm, doesn't it?"
+0000000000000,プロデューサー,"うん。太陽の熱なんだろうな
+……あ、待ってくれ凛世","Yes. It's probably the heat from the sun.
+Ah, hold on, Rinze."
+0000000000000,プロデューサー,"何か落ちてる……
+足元、気をつけてな","There's something
+by your foot. Careful now."
+2012006020080,凛世,"はい……
+……プロデューサーさま、これは……？","I will.
+Producer-sama, what could this be?"
+0000000000000,プロデューサー,……ああ,Oh.
+select,,ビーチグラスだな,Seems like a beach glass.
+select,,流木みたいだな,Seems like a drift wood.
+select,,タコノマクラ、だな,Seems like a cake urchin.
+0000000000000,プロデューサー,"これはビーチグラスっていって、割れたビンとかの欠片が、
+海の中で削られてできたものなんだ","This is what's called a ""beach glass"". It could either be a fragment broken off from a bottle or was drifted from sea."
+2012006020090,凛世,海の中で……？,From the sea?
+0000000000000,プロデューサー,"ああ、
+どこかすごく遠い国からでも流れ着いたんだろうなぁ","Yes, it might even have come
+from a very distant land."
+2012006020100,凛世,"……長い……旅の中で……
+このような姿に……","Because of its long journey,
+it has now become like this?"
+0000000000000,プロデューサー,うん。ちょっと、想像するのが難しいけどな,"Yes. Although, it's a little hard to imagine what it has gone through."
+2012006020110,凛世,"大変に……
+美しい姿です……","It has become
+quite beautiful."
+0000000000000,プロデューサー,"綺麗なもんだよな……
+……と","It sure is.
+...Oops."
+0000000000000,プロデューサー,ほら、凛世,"Look, Rinze."
+2012006020120,凛世,……？,……?
+0000000000000,プロデューサー,"これ、貝殻みたいなものだからさ、
+気に入ったら持って帰っていいんだぞ？","This looks like a seashell.
+You could bring it back with you if you want."
+2012006020130,凛世,"……プロデューサーさま……
+凛世に……これを……？","Producer-sama,
+are you giving this to me?"
+0000000000000,プロデューサー,ああ。手を出してくれ,"Yes, hold out your hand."
+2012006020140,凛世,……,……
+2012006020150,凛世,……びーち……ぐらす……,A beach glass…
+2012006020160,凛世,……本当に……美しい……,It really is beautiful.
+0000000000000,プロデューサー,はは、そんな大したもんじゃないんだぞ？,"Haha, it's not really that big of deal."
+2012006020170,凛世,"いえ……
+とても……よいものでございます……","No,
+it really is something special."
+2012006020180,凛世,とても、とても……,"Very, very special..."
+0000000000000,プロデューサー,"なんか、海って変わった形の流木が多いよな……
+……よ、と","Seems like there's quite a lot of unusual shaped drift woods by sea.
+There we go."
+2012006020190,凛世,プロデューサーさま……？,Producer-sama?
+0000000000000,プロデューサー,"……いや、何か書こうかなって
+こうやってさ……","Oh, I was just thinking of writing something.
+Like this..."
+2012006020200,凛世,……,……
+2012006020210,凛世,"……２……８……３……
+……つばさ……","2… 8… 3…
+Tsubasa."
+0000000000000,プロデューサー,"ははっ、うん
+よーし、次は社長の似顔絵でも描いてみようかな","Haha, correct.
+Alright, I guess I should draw the President's face next."
+2012006020220,凛世,それでは……凛世も……,"In that case, I will join you."
+0000000000000,プロデューサー,お、凛世は何を描くんだ？,"Oh, what will you draw?"
+2012006020230,凛世,……,……
+0000000000000,プロデューサー,"……えーと
+……相合傘か？　レトロな落書きを知ってるんだなぁ","Let's see.
+A shared umbrella? That's quite an old way of doodling."
+2012006020240,凛世,"はい……
+古い少女漫画に……出て参りました……","Yes.
+I have seen it from an old shoujo manga."
+0000000000000,プロデューサー,"ああ、なるほど
+自分と、想っている相手の名前を書くんだよな","Oh, I see. You're supposed to write your name and the person whom you have feelings for, right?"
+2012006020250,凛世,"はい……
+凛世は──","Yes.
+I──"
+2012006020251,凛世,──……きゃ……！,──Kyaa!
+0000000000000,プロデューサー,"あ、波だ、凛世……！
+こっちに……！","Look, it's the waves, Rinze!
+Come here!"
+2012006020260,凛世,……！,……!
+0000000000000,プロデューサー,大丈夫か、凛世！,Are you alright?
+2012006020270,凛世,足元を……濡らしてしまいました……,I got my feet wet.
+2012006020280,凛世,"凛世は……大事ありません……
+ですが……","Other than that, I'm just fine.
+However..."
+0000000000000,プロデューサー,"ああ、相合傘……
+消えちゃったかぁ……","Oh, your shared umbrella drawing...
+It has been erased..."
+2012006020290,凛世,はい……,Yes…
+0000000000000,プロデューサー,凛世……,I…
+2012006020300,凛世,"ふふ……
+でも、よいのです……","Fufu...
+But, I don't mind."
+2012006020310,凛世,"このように……
+お隣を……歩けるのですから……","After all, I was able
+to walk by your side like this."
+0000000000000,プロデューサー,"ん？
+すまん、波の音で……聞こえなかった","What was that?
+Sorry, but I couldn't hear it because of the waves."
+2012006020320,凛世,いえ、よいのです……,"No, that would be fine."
+2012006020330,凛世,"傘は……不要でございました……
+プロデューサーさま……","That umbrella is no longer necessary,
+Producer-sama."
+0000000000000,プロデューサー,"知ってるか？
+タコノマクラっていう生物の殻なんだけど","Do you know about cake urchins?
+They're shell-like creatures."
+2012006020340,凛世,"殻……？
+とても……不思議な形をしているのですね……","Shell?
+It does have a very strange shape."
+0000000000000,プロデューサー,そうなんだ。でもこいつは──,Yes. But this one──
+0000000000000,プロデューサー,──よっと！,──There we go!
+2012006020350,凛世,プロデューサーさま……？,Producer-sama?
+0000000000000,プロデューサー,あーっ、３回か……,"Oh, it's just three times."
+2012006020360,凛世,"お見事な……
+腕前でございました……","That was quite
+a skillful display."
+2012006020370,凛世,"ぽんぽんと……
+波間を縫って……","The creature popped
+and made it way to the waves."
+0000000000000,プロデューサー,"ははっ、ああ
+凛世もやってみるか？","Haha, yeah.
+Wanna give it a try?"
+2012006020380,凛世,いえ、凛世は……,"No, I..."
+0000000000000,プロデューサー,"これ、平べったいからうまく飛ぶんだよ
+……もっと落ちてないかな","This one's flat so it would fly off.
+I wonder if there's a more docile."
+2012006020390,凛世,……プロデューサーさま、ここにも……,"Producer-sama, there is one here too."
+0000000000000,プロデューサー,"お、ありがとう凛世
+じゃあさ……次、４回いけたら願いが叶うってことにしよう","Oh, thanks, Rinze. Alright! If this next one goes about four times, let's say our wishes has come true."
+2012006020400,凛世,……？,……?
+0000000000000,プロデューサー,"俺は、『帰り道が混雑しませんように』だな！
+凛世はどうする？","My wish is that we won't encounter much traffic on our way home!
+How about yours, Rinze?"
+2012006020410,凛世,"……
+凛世は──","……
+My wish──"
+0000000000000,プロデューサー,"あ、待ってくれ、願い事だもんな
+心の中だけでもいいんだ","Oh, hold on.
+Since this is a wish, you keep it to yourself."
+2012006020420,凛世,"いえ……
+４度飛んだ時には……","No.
+If it jumps for the fourth time,"
+2012006020430,凛世,"凛世は、ある方に……
+お告げしたいことが…………ございます……","I would like then to say something
+to a certain someone."
+0000000000000,プロデューサー,"はは、なんだ？
+ちょっと願掛けとは違うんだな","Haha, and what could that be?
+Seems like something different from a wish."
+2012006020440,凛世,はい……,It is.
+0000000000000,プロデューサー,よし、じゃあ、行くぞっ！,"Alright, here goes!"
+2012006020450,凛世,……！,…!
+0000000000000,プロデューサー,あっ！,Ah!
+2012006020460,凛世,……３、度……,Just three times…
+0000000000000,プロデューサー,"いや……すまん……
+帰り道は混むかもなぁ……","Oh... Sorry about that...
+Looks like we might run into some traffic."
+2012006020470,凛世,"いえ、凛世は……
+かまいません……","No, I do not
+mind at all."
+0000000000000,プロデューサー,"でも、
+誰かに何か伝え損ねることになっちゃうんじゃないか？","Still, wouldn't this make you miss
+your chance to tell something to someone?"
+2012006020480,凛世,はい……,That is true.
+2012006020490,凛世,"でも、それは……
+まだ……よいのです……","However,
+that might be for the best."
+0000000000000,プロデューサー,そうか……？,Okay...?
+2012006020500,凛世,はい、まだ──,"Yes, it is for the best."
+info,produce_events/201200602.json,
+译者,,

@@ -2,7 +2,7 @@ id,name,text,trans
 2002003020010,灯織,"プロデューサー。今日はお休みなのに
 レッスンに付き合っていただいて、ありがとうございました","Producer, thank you very much coming to my lesson with me despite being off today."
 0000000000000,プロデューサー,"いや、気にするな
-俺も見させてもらえて良かったよ","Nah, don't worry about it. I'm happy to watch you."
+俺も見させてもらえて良かったよ",No need to worry about it. I'm happy to watch over you.
 2002003020020,灯織,プロデューサー、この後予定はありますか？,"Producer, do you have any plans after this?"
 0000000000000,プロデューサー,"いや、もう帰ろうと思ってたところだ
 灯織は違うのか？","No, I was about to go home soon. What about you?"
@@ -20,7 +20,7 @@ id,name,text,trans
 ……お休みの日、いつも寝てるだけなんですか？","Saying that...
 ...Do you always sleep all day on your days off?"
 0000000000000,プロデューサー,"う……ま、まぁな
-良くないと思うんだけど、どうしてもな……","Uh... Y-yeah. I don't think it's good, but it ends up like that..."
+良くないと思うんだけど、どうしてもな……","Uh... Y-Yeah. I don't think it's good, but it ends up like that..."
 2002003020060,灯織,"……別に
 お説教をしたかったわけではありません",...It's not like I was trying to lecture you.
 2002003020070,灯織,"ただプロデューサーも、プロデューサーじゃない時間が
@@ -35,7 +35,7 @@ id,name,text,trans
 2002003020100,灯織,"でもそれ、ほとんど冷凍食品ですよね？
 栄養バランスが偏りますよ",Isn't that mostly frozen meals? It'll offset your nutritional balance.
 0000000000000,プロデューサー,"う……
-灯織は、野菜たっぷりだ……","Uu... You bought plenty of vegetables, Hiori..."
+灯織は、野菜たっぷりだ……","Woah... You bought plenty of vegetables, Hiori..."
 2002003020110,灯織,"はい
 お肉は家にあるので、今日はシチューでも作ります","Yeah. I already have some meat at home, so I'm making stew today."
 0000000000000,プロデューサー,そういえば、灯織は料理が得意だもんな……,"Oh right, you're great at cooking..."
@@ -58,9 +58,9 @@ tamagoyaki"
 0000000000000,プロデューサー,"まぁ、確かにそうなんだが……
 でも、美味しいじゃないか","Well, that's certainly true... It's so tasty I can't help it."
 2002003020160,灯織,"ふふ、子どもみたい
-……あ、悪い意味じゃないですよ","Fufu, you're like a child. ...Ah, I don't mean so in a bad way."
+……あ、悪い意味じゃないですよ","Fufu, you're like a child... Ah, I don't mean so in a bad way."
 0000000000000,プロデューサー,"そ、そうか……？
-それなら良いんだが……","R-really...? That's good to hear, but..."
+それなら良いんだが……","Really? That's good to hear, but..."
 2002003020170,灯織,"確かに唐揚げとか美味しいですよね
 でも、揚げ物は私もあまり作ったことないです","It does taste good. However, I haven't made fried food that much."
 0000000000000,プロデューサー,"へぇ
@@ -72,9 +72,9 @@ tamagoyaki"
 0000000000000,プロデューサー,"ああ、それはいいな！
 揚げ物にするとなんでも美味しいからな",That's good to hear! Anything tastes good when you fry it.
 2002003020200,灯織,"……ふふ
-本当にお好きなんですね",...Fufu. You really like it huh?
+本当にお好きなんですね","...Fufu, you really like it huh?"
 2002003020210,灯織,"煮物……ですか？
-ちょっと意外です",Stew...? That's a bit surprising.
+ちょっと意外です",Stew? That's a bit surprising.
 0000000000000,プロデューサー,そうか？,Really?
 2002003020220,灯織,"男の人は、ステーキとか
 お肉が好きなんだと思ってました",I thought that men liked things like steak and meat.
@@ -87,10 +87,10 @@ tamagoyaki"
 2002003020240,灯織,"……プロデューサー
 『なんでもいい』は作ってくれる人に失礼ですよ","...Producer. Saying ""anything's fine"" is rude to the person making it."
 0000000000000,プロデューサー,"い、いや、自分で作るならの話だぞ
-作ってもらったものに、そんなこと言わないよ","N-no, I'm talking about when I make it. I wouldn't say that to someone making it for me."
+作ってもらったものに、そんなこと言わないよ","N-No, I'm talking about when I make it. I wouldn't say that to someone making it for me."
 2002003020250,灯織,"あ……そうですよね
-す、すみません……てっきり私が……",Ah... I see. S-sorry... I thought I...
-2002003020260,灯織,……い、いえ、なんでもありません！,"...N-no, it's nothing!"
+す、すみません……てっきり私が……",Ah... I see. S-Sorry... I thought I...
+2002003020260,灯織,……い、いえ、なんでもありません！,"...N-No, it's nothing!"
 2002003020270,灯織,……自分で作れないんですか？,...You can't make it yourself?
 0000000000000,プロデューサー,"いや、卵焼きは結構難しいんだぞ！
 いつも巻くのを失敗するんだ……","No way, tamagoyaki is pretty hard, you know! I always fail at rolling it up properly..."
