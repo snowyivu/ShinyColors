@@ -1,0 +1,26 @@
+id,name,text,trans
+4005001000130010,摩美々,"これからオーディションですケドー
+なんかもう、疲れちゃいましたぁ……","The audition starts now, buut
+Somehow, I'm tired already..."
+0000000000000,プロデューサー,"（冗談ではなさそうだ
+気負っているのか……？）","(It doesn't sound like a joke
+Is she anxious...?)"
+select,,大丈夫。信じてるぞ,"It's fine, I believe in you"
+select,,できることをすればいい,Do what you can
+select,,休むにはまだ早いぞ,It's too early to rest
+4005001000130020,摩美々,"なんですかぁ、突然
+真顔でそれは……ちょっと恥ずかしくないですかぁ？","What's with that, out of the sudden?
+Saying that with such a serious face... Isn't it embarrassing?"
+0000000000000,プロデューサー,"（少し戸惑っているようだが、
+表情が明るくなったな）","(She seems a bit troubled,
+but her expression has become brighter)"
+4005001000130030,摩美々,"当たり前ですよー
+何言ってるんですかぁ？","Well of course I will
+What are you even talking about?"
+0000000000000,プロデューサー,（肩の力がちょっとは抜けたみたいだ）,(Seems like her shoulders relaxed a little)
+4005001000130040,摩美々,"そーですかぁ？
+休むのに、早いも遅いもないと思いますケド","That so?
+If we're talking about resting, I don't think there's too early or too late."
+0000000000000,プロデューサー,（気持ちを軽くすることはできなかったか……）,(I wasn't able to lighten her mood...)
+info,produce_communication_cheers/400500100013.json,
+译者,,

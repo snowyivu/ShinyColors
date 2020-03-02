@@ -17,25 +17,25 @@ you will begin producing an idol yourself..."
 I am not a lenient man."
 0,プロデューサー,は、はい！　よろしくお願いします！,O-of course! I will do all I can!
 1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,Excellent. I'll let Hazuki explain the rest...
-0,プロデューサー,？　はづきさんはどこにも……あっ！？,"? Where is Hazuki-san, actually... Woah!?"
-0,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(T-there's someone passed out behind the sofa!?)
+0,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki? Actually... Woah!?
+0,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(Th-There's someone passed out behind the sofa!?)
 1901001010010,はづき,"……ふわぁ～？
-なんですか～急に大きな声出して～……","...Mhmhn~?
-What's going on~ Why's everyone being so loud~..."
+なんですか～急に大きな声出して～……","...Mhmhn?
+What's going on... Why's everyone being so loud?"
 1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki... Why were you sleeping on the floor?
 1901001010020,はづき,"すみません、ソファへ着く前に
 眠気に負けてしまいまして～……","My apologies, I was so sleepy,
-I couldn't make it to the sofa in time~"
+I couldn't make it to the sofa in time."
 1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know..."
 1902001010070,社長,"……ともかく！
 彼に仕事の説明をしてくれ","...Moving on! 
 I'd like you to give him the details of his new job."
 1901001010030,はづき,"はい、もちろんです
 プロデューサーさん、どうぞ～","Yes, absolutely.
-Producer-san, please take these documents~"
+Producer, please take these documents!"
 0,プロデューサー,"ありがとうございます
 ……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
-0,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki-san is actually quite reliable...)"
+0,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite reliable...)"
 1901001010040,はづき,"ありがとうございます
 それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
 Alright, allow me to explain..."
@@ -53,8 +53,8 @@ the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
 1901001010100,はづき,"その時、一定のランクに達していないと、
 出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
 1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
-私もたくさんサポートさせていただきますね～","That being said, let's try our very best~!
-I will do everything I can to support you~"
+私もたくさんサポートさせていただきますね～","That being said, let's try our very best!
+I will do everything I can to support you."
 1902001010080,社長,"……少しアドバイスをしておくが、
 お前は、２８３プロダクションのプロデューサーだ","...Here's a bit of advice.
 You are now a producer here at 283 Production. "
@@ -69,59 +69,59 @@ will be able to soar to even greater heights."
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
 0,プロデューサー,"自分でスカウトして来いか……
-はづきさんも社長も、無茶なこと言うなぁ。","Go scouting myself...?  Both Hazuki and the
+はづきさんも社長も、無茶なこと言うなぁ。","Go scouting myself...? Both Hazuki and the
 President say some ridiculous things."
 0,プロデューサー,"（う～ん。ピンとくる子、なかなか見つからない……
 場所を変えてみるか）","(Hmmm. I'd know the girl when I see her, but
 I can't find one... Guess I'll go elsewhere?)"
-1001001010010,？？？,～～♪,~~♪
+1001001010010,？？？,～～♪,Hmhm♪
 0,プロデューサー,（綺麗な歌声が聞こえてくる……）,(I hear a beautiful singing voice...)
 0,プロデューサー,"（あの子、かな……何か惹きつけられる……
-声をかけてみるか）","(That girl, is it... There's something about her...
+声をかけてみるか）","(That girl... There's something about her...
 Should I call out to her?)"
 0,プロデューサー,こんにちは、綺麗な歌声だね,"Hello, you have a lovely singing voice."
 1001001010020,？？？,"ほわっ？　あっ、あの……こんにちは
-人がいたなんて……気が付きませんでしたっ","Hwaa? Ah, uhm... Hello. I didn't realize...
+人がいたなんて……気が付きませんでしたっ","Oh? Ah, uhm... Hello. I didn't realize...
 that anyone was here."
 0,プロデューサー,"（この子……独特の雰囲気があるな。癒されるというか
 ……うん、ピンときたぞ！）","(This girl... She has a unique presence.
 It's almost invigorating... Yeah, she's the one!)"
 0,プロデューサー,"突然だけど……
 君、アイドルになってみる気はない？","This may be sudden, but...
-You, would you like to become an idol?"
+Would you like to become an idol?"
 1001001010030,？？？,"ほわっ……
-えっと……アイドル、ですか？","Hwaa...
-Uhm... An, idol?"
+えっと……アイドル、ですか？","Huh...
+Umm... An idol?"
 0,プロデューサー,"俺はアイドルのプロデューサーで、新人を探してるんだ
 君はいつもここで歌を？","I'm an idol producer searching for a new talent.
 Do you always come here to sing?"
 1001001010040,？？？,"えと、気持ちのいいお天気なので、つい……
-歌ってると、鳩さんがよく集まってきてくれますし","Well, the weather is nice, so...
-When I sing, the pidgeons gather around."
+歌ってると、鳩さんがよく集まってきてくれますし","Well, the weather here is nice, so...
+When I sing, the pigeons gather around."
 0,プロデューサー,"鳩さん……そうか、もうファンがいるんだね
-どうかな、アイドル、やってみないか？","Pidgeons... I see. You already have fans then.
-How about it, want to try being an idol?"
+どうかな、アイドル、やってみないか？","Pigeons... I see. You already have fans then.
+How about it? Want to try being an idol?"
 1001001010050,？？？,"ほわ……多分私にはできないと思います
-自信ありません……","Hwa... I'm not sure that I could do it.
+自信ありません……","Hmm... I'm not sure that I could do it.
 I'm not very confident..."
 1001001010060,？？？,"すみません、せっかく誘ってくれたのに……
 じゃあ、これで……","Sorry, you went to the trouble of inviting me...
-Well, then..."
+Well then..."
 0,プロデューサー,"（何日か探して回ったけど、
 ピンときたのはこの公園にいた……あっ、あの子だ……）","(I've searched for a few days but, the needle
-in the haystack was in this park... Yeah, that girl...)"
-1001001010070,？？？,アイドル……私がアイドルなんて……,"An idol... Me, an idol..."
+in the haystack was in this park... Ah, that girl...)"
+1001001010070,？？？,アイドル……私がアイドルなんて……,An idol... Me as an idol...
 0,プロデューサー,"やあ、また会えたね
-アイドルの話、もう一度考えてみてほしいんだ","Yo, I was able to find you again.
+アイドルの話、もう一度考えてみてほしいんだ","Hey, I was able to find you again.
 What I said about idols, I want you to reconsider."
 0,プロデューサー,"君の中には光り輝くものがある
 アイドルになって、今までとは違う世界を見てみないか？","There's a spark inside of you. Will you become an idol,
 and experience a whole new world from this one?"
 1001001010080,？？？,今までとは違う……,A whole new world...
-1001001010090,？？？,…………はい,......Okay.
-1001001010100,？？？,私、アイドルやりますっ,"I, will try being an idol."
+1001001010090,？？？,…………はい,...Okay.
+1001001010100,？？？,私、アイドルやりますっ,I will try being an idol.
 0,プロデューサー,"本当？　よかった！！
-君の名前、聞いてもいいかな？","Really? I'm so glad!!
+君の名前、聞いてもいいかな？","Really? I'm so glad!
 Would you mind telling me your name?"
 1001001010110,真乃,"櫻木真乃、１6歳です
 これからよろしくお願いしますね","I'm Mano Sakuragi, age 16.

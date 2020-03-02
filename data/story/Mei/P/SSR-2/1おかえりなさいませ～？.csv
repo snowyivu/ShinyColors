@@ -1,0 +1,70 @@
+id,name,text,trans
+2019006010010,愛依,おっつかれさまでーす,That's it for today~
+0000000000000,プロデューサー,ああ愛依、いいところに来た\nちょうど話がしたいところだったんだ,"Oh Mei, you came at a good time.
+I was just wanting to chat with you."
+2019006010020,愛依,んー？　なになに～？,Hm-? What's up~?
+0000000000000,プロデューサー,ぜひ愛依にって、仕事のオファーが来ててな\n愛依の話も聞こうと──,A job offer just came that's definitely for you.\r\nI was going to ask to talk with you--
+2019006010030,愛依,マジマジ！？\nどんな仕事！？,"Seriously!?
+What kind of work!?"
+0000000000000,プロデューサー,はは、そんな慌てなくてもオファーは逃げないさ\n……今回は、メイド役の撮影だ,"Haha, no need to rush, the offer isn't running away.\r\nThis time you'll be doing a photoshoot as a maid."
+2019006010040,愛依,メイド……？,Maid...?
+2019006010050,愛依,メイド……,Maid...
+2019006010060,愛依,……おかえりなさいませ、ご主人様？,"...welcome home, my master."
+0000000000000,プロデューサー,はは、やっぱりそのイメージが強いよな,"Haha, they definitely have that strong stereotype. "
+2019006010070,愛依,それ以外、あんまわかんないわ～,I don't know anything other than that~
+2019006010080,愛依,……てかさ、うちあんまよく知らないけど……,"Or rather, I'm not familiar with much else..."
+2019006010090,愛依,メイドさんってことは、\n可愛いメイド服着るんだよね？,Maids also wear a cute Maid outfit right?
+2019006010100,愛依,アイドルの時のうちって、\nそんな可愛い系、似合わなくない……？,"As far as the type of idol I am, doesn't that cute style not really suit me..?"
+0000000000000,プロデューサー,心配しなくても大丈夫だよ\nぜひ愛依にって来たオファーだからな,"Don't worry about it.\r\nThe offer that came is definitely suited for you. "
+0000000000000,プロデューサー,詳細に関してはこれから話を進めるけど……\nきっと、愛依らしいメイドさんになれるはずだ,"I'll explain the details later but...\r\nI know you'll definitely become a Mei-style maid. "
+2019006010110,愛依,そ、そう……？,Y-yeah..?
+2019006010111,愛依,……うん、プロデューサーが言うなら、そうだよね！,"...well, if you say so, it must be!"
+0000000000000,プロデューサー,じゃあ、このオファー、受けても大丈夫だな？,"Then, it's okay to accept the offer?"
+2019006010120,愛依,オッケー！,Okay-!
+2019006010130,愛依,…………メイドさん、かぁ……,"...a maid, huh..?"
+0000000000000,プロデューサー,ん？\nまだ何か心配事があるか……？,Hm? Still worrying about something..?
+2019006010140,愛依,あ、いやいやそうじゃなくて、\nうちメイドさんとか全然知らないじゃん……？,"Ah, that's not really it. I just don't know anything about maids y'know..?"
+2019006010150,愛依,メイドさんって、\nどんなことするのかなぁって……,What kinds of things do maids do...
+0000000000000,プロデューサー,家事をしたり、子育てを手伝ったり、\n生活のサポート全般といったところだな,"Helping out with housework and raising the kids, and just generally helping out with daily life. "
+2019006010160,愛依,なるほどなるほど～,"I see, I see~"
+2019006010170,愛依,メイドさんが家でサポートしてくれるから、\n思いっきり仕事に専念できる！　ってことだよね？,"Maids support with the housework, so that you can put your all into your job! Kinda like that?"
+0000000000000,プロデューサー,ああ、そんなところだ\n陰ながら支える存在だよ,"Yeah, like that. Their existence is supporting from the sidelines."
+2019006010180,愛依,うわ、ちょー大事じゃん、メイドさん！\n縁の下にも三年ってカンジ！,"Woah, maids are totally a big deal, right! It feels like they spend three years in the shadows!"
+0000000000000,プロデューサー,……斬新な引きこもりだな……,...the original NEET huh...
+2019006010190,愛依,いやー、\n見えないところで、陰ながらってのが渋いよね！,"No-, when they can't be seen, helping from the sidelines, it's badass, right?"
+2019006010200,愛依,……で、うちがその……\nメイドさん、なるんだよね,"...so, I'll become... that kind of maid, y'know."
+0000000000000,プロデューサー,愛依……？,Mei..?
+2019006010210,愛依,できるかな、うちに\n……誰かのためにとか、誰かを支えるとか、なんてさ,"Can I do it... on behalf of someone else, to support someone else, stuff like that."
+0000000000000,プロデューサー,……きっとできるさ\n愛依なら、愛依らしい形で,"...I'm sure you can do it. If it's you, you'll be a Mei-style maid."
+2019006010220,愛依,……うん！,...yeah!
+2019006010230,愛依,ねぇねぇ、プロデューサー\nメイドさん役って、どんなカンジのことするのかな？,"Hey, hey, Producer. What kind of work do you feel a maid would do?"
+0000000000000,プロデューサー,そうだなあ、\nメイドさんの仕事と言えば……,"I see, if you're talking about a maid's work..."
+select,,洗濯,Laundry
+select,,掃除,Cleaning
+select,,料理,Cooking
+2019006010240,愛依,ほへ～\n……あ、プロデューサーのシャツとか？,"Hweh~ ...oh, stuff like your shirts?"
+2019006010250,愛依,仕事で色んな人に会うんだし、\nピシッとしたシャツじゃないとね！,"Since you meet a lot of people for your job, your shirt has to be looking sharp doesn't it?"
+0000000000000,プロデューサー,そうだな、気持ちも引き締まるし,"That's true, I'll be taken more seriously then."
+2019006010260,愛依,そういうのなら任せてよ！\n洗濯ってさ、なんか気分すっきりするから好きなんだよね,Then count on me! I enjoy doing laundry since it helps me de-stress y'know.
+0000000000000,プロデューサー,お、頼もしいな,"Oh, aren't you reliable."
+2019006010270,愛依,でしょ～！,Aren't I~!
+2019006010280,愛依,でも、毎日シャツを洗ってあげるとか\nそれって…………,"But, washing shirts every day... that's..."
+2019006010290,愛依,……なんかうち、\nプロデューサーのママになったみたい！,"...if I do that, it's like I've become your mama!"
+2019006010300,愛依,あ、うち、掃除ちょー得意だし！,"Ah, cleaning's like my specialty!"
+2019006010310,愛依,弟と妹がすーぐ散らかすからさ～\nちょくちょく片付けなきゃで,My little brothers and sisters are super messy~ They never clean up after themselves.
+0000000000000,プロデューサー,なるほど、そういうことか,"I see, so it's like that."
+2019006010320,愛依,あ、でもプロデューサーの机、\n書類はいっぱいだけど綺麗だよね,"Ah, but even though there's tons of papers on your desk it's tidy isn't it?"
+2019006010330,愛依,ってことは、家とかも\n結構綺麗だったり……？,"Which means, your house is also kept super tidy..?"
+0000000000000,プロデューサー,うーん……\n普通だとは思うけど……,Er... I think it's pretty normal...
+2019006010340,愛依,へー……\n……普通なんだ……,Eh-... it's normal...
+2019006010350,愛依,……ちょいどんなカンジか気になってきたし！\n今度行くわ！　プロデューサーの部屋！,...now I'm a little curious about it! Let's go now! To your room!
+2019006010360,愛依,ん～～～～～……\nやっぱ料理か～～～～～～～,Hm~~~... So it's cooking~~~?
+2019006010370,愛依,苦手ってわけじゃないんだけど……\nうちの料理、ほんとに普通だからな～……,That's kind of my weak point though... since my cooking is really pretty ordinary...
+2019006010380,愛依,人に食べてもらうほどじゃないって言うか……,I wouldn't say it's enough for people to eat...
+0000000000000,プロデューサー,そんなに難しく考えなくても大丈夫だ,You don't have to think that hard about it.
+0000000000000,プロデューサー,愛依が心を込めて作ったものなら、\nきっと誰だって嬉しいはずだからな,"If you put your heart into making it, I'm sure anyone would be happy with it."
+2019006010390,愛依,そう……？,That so..?
+2019006010400,愛依,──……じゃあプロデューサー、\nいつかうちの料理食べてよ！,"-...well then Producer, you'll have to try my cooking sometime!"
+2019006010410,愛依,ね、約束！,"Then, it's a date!"
+info,produce_events/201900601.json,
+译者,,

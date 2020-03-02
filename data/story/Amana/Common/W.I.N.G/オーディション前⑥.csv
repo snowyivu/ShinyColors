@@ -1,8 +1,8 @@
 id,name,text,trans
 4014001000230010,甘奈,ファンのみんなのためにも負けられないな……,"For fans' sake, I cannot lose, right?"
 0000000000000,プロデューサー,"（いつもより少し力んでいるようだな……
-よし、ここは……）","(She seems more pushed than usual…)
-Alright, now…)"
+よし、ここは……）","(She seems more pushed than usual...)
+Alright, now...)"
 select,,これを見てくれ,"Take a look
 here."
 select,,"その気持ちがあれば
@@ -13,15 +13,15 @@ select,,少し力を抜こう！,"Let's relax for
 a bit!"
 4014001000230020,甘奈,"あ、最初にもらったファンレター。懐かしいな……
 ……よし！　プロデューサーさん、行ってくるね！","Ah, it's my own first fan letter. It's nostalgic!
-…Alright! Producer, time to go!"
+...Alright! Producer, time to go!"
 0000000000000,プロデューサー,（甘奈の緊張が闘志になったようだ）,(It seems she's in her fighting mode.)
 4014001000230030,甘奈,"そうだよね！
 甘奈、ファンのみんなのためならがんばれるよ！","That's right!
 I'll do my best for fans and everyone!"
 0000000000000,プロデューサー,（少しは緊張がほぐせたようだ）,(It seems her nervousness is a little bit gone.)
 4014001000230040,甘奈,"でも、勝ちたいって思うと力を抜きづらくって……
-うーん、どうしようかなぁ……","But, if you want to win you can't relax too much…
-Hmm, what should I do…?"
+うーん、どうしようかなぁ……","But, if you want to win you can't relax too much...
+Hmm, what should I do...?"
 0000000000000,プロデューサー,（少しかける言葉を間違えてしまったみたいだ）,(It seems I said something wrong for a bit.)
 info,produce_communication_cheers/401400100023.json,
 译者,,

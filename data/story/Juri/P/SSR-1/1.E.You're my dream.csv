@@ -1,0 +1,88 @@
+id,name,text,trans
+0,プロデューサー,"──お、樹里
+おはよう。ちょうど良いところに来たな！","Oh, Juri.
+Good morning! You've come just at the right time!"
+2011004110010,樹里,"おはよ
+……朝から大荷物持って……どーしたんだ？","Morning. You have some large baggage early in the morning...
+So, what's going on?"
+0,プロデューサー,"樹里に届いたプレゼントとファンレターだよ
+中身、今確認するか？","These are gifts and fan letters for you.
+Want to check them right now?"
+2011004110020,樹里,"おー……
+じゃあ、ちょっと見てみるかな","I see...
+I guess I could take a quick look."
+2011004110030,樹里,"ぬいぐるみか……
+『樹里ちゃんにそっくりだから送ります！』って……","A stuffed toy...
+It says ""It looks like you, Juri-chan, so I'm sending it to you!""."
+2011004110040,樹里,"言うほど似てるか……？
+アタシ、こんなツリ目かな……","It looks like me?
+I wonder if my eyes are this slanted..."
+0,プロデューサー,"……いや、結構似てると思うぞ
+樹里に似て可愛いじゃないか","...Well, I do think that it does resemble you.
+Isn't it cute?"
+2011004110050,樹里,"あ、アタシに似てって……！
+や、やめろよそういうの！","I-It resembles me?
+C-Come on, stop that!"
+0,プロデューサー,"うーん、なんというか……
+雰囲気が似てるのかな……黄色いし","Hmm, how should I say this...
+It somewhat has the same vibes... And it is yellow."
+2011004110060,樹里,色かよ……,"So, it's the color, huh..."
+2011004110070,樹里,でもまぁ、プロデューサーも言うならそうなのかもな……,"Well, seeing that you're saying it too, I guess it maybe does..."
+2011004110080,樹里,"……ん、こっちは……
+服まで届いてんのか","Hmm? This one's...
+They're even sending clothes?"
+2011004110090,樹里,"アタシに似合いそうな部屋着……って
+これはさすがに可愛すぎだろ……","This lounge wear would seem to look good on me...
+Come on, isn't this a little too cute for me?"
+0,プロデューサー,"いやいや、
+やっぱりファンはよく見てくれてるんだな","Not at all,
+the fans are just really paying good attention to you."
+2011004110100,樹里,はぁ？,Huh?
+0,プロデューサー,"樹里の潜在的な部分というか……
+しっかりポイントを抑えたデザインの部屋着だと思うぞ！","Like it has your potential in it...
+Or rather a lounge wear whose design really gets you, if you ask me!"
+0,プロデューサー,"うーん……
+俺も負けてられないな……","Hmm...
+Looks like I have keep up too."
+2011004110110,樹里,ったく……,Sheesh.
+0,プロデューサー,……,……
+2011004110120,樹里,"プロデューサー？
+何ニヤニヤしてんだ？","Producer?
+What are you smiling about?"
+0,プロデューサー,……良かったな,Isn't this nice?
+2011004110130,樹里,"……？
+何がだよ","Huh?
+About what?"
+0,プロデューサー,"……樹里を応援する人たちがこれだけ……
+これ以上にいる──","That you have this many people cheering for you.
+And what's more──"
+0,プロデューサー,いつの間にか、そんな場所に来てたんだ,"Before you know it, you have already reached this point."
+2011004110140,樹里,……！,Ah!
+2011004110150,樹里,……そーだなぁ,"Yeah, you're right."
+2011004110160,樹里,"なんつーか……今更だけどよ……
+最近、よく思うんだよな","How should I say this... This is kinda late but...
+Lately, I've been thinking."
+2011004110170,樹里,"アンタにスカウトされて、アイドルになって……
+レッスンしたり、ユニットのやつらと話したり……","After getting scouted by you and then turned into an idol...
+Doing lessons, talking with the other members of the units..."
+2011004110180,樹里,それで、ステージに立って──,"Then, going to the stage..."
+2011004110190,樹里,青春ってこんな感じなのかなー……って,"I thought that... maybe this is what youth, the springtime of life, feels like."
+0,プロデューサー,…………,……
+2011004110200,樹里,"──じ、自分でも変なこと言ってるのはわかってんだよ！
+笑いたきゃ笑え！","E-Even I'm aware that I'm saying weird stuff right now!
+Laugh if you want to!"
+0,プロデューサー,……いや、変なんかじゃないよ,"...No, it's not weird at all."
+0,プロデューサー,"俺も時々、プロデューサーとして
+青春してるなって思うくらいだし……はは","From time to time, even I think that I'm having the springtime of my life by being a producer. Haha."
+2011004110210,樹里,……なんだよそれ,What's with that?
+2011004110220,樹里,"でも……
+……そっか","Still...
+...I see."
+2011004110230,樹里,……今からでも、遅くねーんだよな,"...It's not too late even now, isn't it?"
+0,プロデューサー,"あぁ
+いつからでも、遅くないさ","Yes.
+It's never too late to start."
+2011004110240,樹里,……っふふ,Heh.
+2011004110250,樹里,……ありがとな、プロデューサー,"Thanks, Producer."
+info,produce_events/201100411.json,
+译者,유동,

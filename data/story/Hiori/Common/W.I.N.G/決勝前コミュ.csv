@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,灯織、いよいよ決勝本番だ,"Hiori, at last the finals are here."
 6002001040010,灯織,"はい。本当に最後のライブが、始まるんですね
-私がここまで来れるなんて……夢のようです",Yes. The final live is really starting. Coming this far…… it's like a dream.
+私がここまで来れるなんて……夢のようです",Yes. The final live is really starting. Coming this far… it's like a dream.
 0000000000000,プロデューサー,"夢じゃない。灯織が自分を好きになろうとして、
 ひたむきに頑張り続けた結果だよ",It's not a dream. This is the result of earnestly continuing your hardest so that you can love yourself.
 6002001040020,灯織,……,……
@@ -9,7 +9,7 @@ id,name,text,trans
 最後にひとつ、お願いをしてもいいですか？",Producer. Can I ask you one final thing?
 0000000000000,プロデューサー,ああ、何でも言ってくれ,"Yeah, you can tell me anything."
 6002001040040,灯織,どうか私を、見ていてください,Please watch over me.
-6002001040050,灯織,……それだけです,……That's all.
+6002001040050,灯織,……それだけです,…That's all.
 0000000000000,プロデューサー,ああ！,Okay!
 6002001040060,灯織,じゃあ、行ってきます！,"Well then, I'm going!"
 info,produce_events/600200104.json,

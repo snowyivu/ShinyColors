@@ -1,14 +1,14 @@
 id,name,text,trans
 6901001090010,はづき,"プロデューサーさん！
-『W.I.N.G.』優勝、本当におめでとうございます！",Producer-san! Big congratulations on your idol winning W.I.N.G.!
+『W.I.N.G.』優勝、本当におめでとうございます！",Producer! Big congratulations on your idol winning W.I.N.G.!
 6901001090020,はづき,"私も会場で見てたんですけど、
 発表の瞬間、思わず大声を出しちゃいましたよ！",I was watching from the audience like you were. When they announced the results I screamed without even thinking!
 6901001090030,はづき,"今もまだ興奮しちゃってて、
 今日はもう眠れそうにありません！","I'm still full of excitement, I don't think I'll even be able to sleep tonight!"
-0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Hazuki-san, thank you so much!"
+0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Hazuki, thank you so much!"
 6902001090010,社長,"本当によくやった
 期待以上の結果を出してくれたな","You've done a very fine job. These results have far exceeded my expectations. "
-0000000000000,プロデューサー,社長も……ありがとうございます！,"President, too…… Thank you so much!"
+0000000000000,プロデューサー,社長も……ありがとうございます！,President too… Thank you so much!
 6901001090040,はづき,"ふふ。私と社長も会場に来てましたけど、
 すごかったですよ",Eheh. The president and I were both watching from the audience. It was incredible.
 6901001090050,はづき,"優勝したってわかった瞬間、社長が泣いてしまって……
@@ -18,13 +18,12 @@ id,name,text,trans
 Don't bring up stuff like that in front of him!"
 6901001090060,はづき,"それだけ優勝したのを
 喜んでたってことじゃないですか",I think that detail alone shows you how happy the president is about her win.
-6902001090030,社長,そ、それはそうだが……,"W-well, you are correct……"
+6902001090030,社長,そ、それはそうだが……,"W-well, you are correct…"
 0000000000000,プロデューサー,社長、本当にありがとうございます！,"President, thank you very much!"
 6902001090040,社長,"……とにかく。もっと礼を言うべき相手、
-いや、祝うべき相手がいるんじゃないか","……Moving on. I think there's someone else you need to be thanking. Or rather, congratulating."
+いや、祝うべき相手がいるんじゃないか","…Moving on. I think there's someone else you need to be thanking. Or rather, congratulating."
 0000000000000,プロデューサー,"……そうですね
-今日の主役は、他でもない彼女ですから","……Of course. We wouldn't even be celebrating right now if it weren't for her.
-"
+今日の主役は、他でもない彼女ですから",…Of course. We wouldn't even be celebrating right now if it weren't for her.
 6902001090050,社長,"なら、私たちのことは気にせず
 早く行ってこい","Well, don't mind us. Go and see her!"
 6901001090070,はづき,"彼女のこと、いっぱい
@@ -33,56 +32,56 @@ Don't bring up stuff like that in front of him!"
 0000000000000,プロデューサー,はい！　もちろんです！,"Yes! Absolutely! "
 0000000000000,プロデューサー,ここにいたんだな、灯織,"So you've been here, Hiori."
 6002001090010,灯織,"はい
-なんだか……外の空気が吸いたくて",Yes. I kinda…… wanted to breathe the air outside.
-6002001090020,灯織,……私たち、本当に優勝したんですね,……We really won.
-6002001090030,灯織,なんだか夢のようで……まだ実感がわきません,It's like a dream. ……It hasn't sunk in yet.
+なんだか……外の空気が吸いたくて",Yes. I kinda… wanted to breathe the air outside.
+6002001090020,灯織,……私たち、本当に優勝したんですね,We really won.
+6002001090030,灯織,なんだか夢のようで……まだ実感がわきません,It's like a dream. It hasn't sunk in yet.
 0000000000000,プロデューサー,"ああ、ここまでよく頑張ったな灯織
 優勝は間違いなく自分自身の実力だ","Yeah, you did well coming this far, Hiori. You really are the winner."
-6002001090040,灯織,……いえ、プロデューサーがいてくれたからです,"……No, it's because you were here with me."
+6002001090040,灯織,……いえ、プロデューサーがいてくれたからです,"No, it's because you were here with me."
 0000000000000,プロデューサー,これで、少しは理想の自分に近づけたんじゃないか？,Do you think with this you've become a bit closer to your ideal self?
-6002001090050,灯織,……緊張して、ミスをしたところもありましたから,……I got nervous and made mistakes.
+6002001090050,灯織,……緊張して、ミスをしたところもありましたから,I got nervous and made mistakes.
 6002001090060,灯織,"でも、お客さんと一緒に歌って、盛り上がって
-一体になって……","However, I sang together with the audience, got them excited and became as one……"
+一体になって……","However, I sang together with the audience, got them excited and became as one…"
 6002001090070,灯織,理想のライブに、すごく近づいた感じがしました,I feel that it came very close to my ideal live performance.
-0000000000000,プロデューサー,そうか……,I see……
+0000000000000,プロデューサー,そうか……,I see…
 6002001090080,灯織,優勝はしましたけど、まだまだこれからです,"I won, but there's still more ahead."
 0000000000000,プロデューサー,"ああ、そうだな
 これから、もっと頑張っていかなくちゃな","Yeah, that's right. We have to keep doing our best."
 6002001090090,灯織,"……プロデューサー
-この後、少し時間はありますか？",……Producer. Do you have a bit of time after this?
-0000000000000,プロデューサー,ん？　ああ、大丈夫だけど……,"Hm? Yeah, it's okay, but……"
+この後、少し時間はありますか？",…Producer. Do you have a bit of time after this?
+0000000000000,プロデューサー,ん？　ああ、大丈夫だけど……,"Hm? Yeah, it's okay, but…"
 6002001090100,灯織,"でしたら、ちょっとだけ、
 私につき合っていただきたいんです","If so, I'd like for you to come with me for a bit."
-6002001090110,灯織,――ファイブ、シックス、セブン、ターン……,"――Five, six, seven, turn……"
+6002001090110,灯織,――ファイブ、シックス、セブン、ターン……,"──Five, six, seven, turn…"
 0000000000000,プロデューサー,"（何をするのかと思えば、
-今日やったダンスの確認とは……灯織らしいな）","(I wondered what we'd be doing, but I didn't think she wanted to check over today's dance lesson…… That is like her.)"
+今日やったダンスの確認とは……灯織らしいな）","(I wondered what we'd be doing, but I didn't think she wanted to check over today's dance lesson… That is like her.)"
 0000000000000,プロデューサー,"灯織、疲れてるんだから
 あまり無理をするなよ","Hiori, you're tired so don't overpush yourself."
 6002001090120,灯織,"すみません、でも忘れないうちにライブの時の
 ミスを修正しておきたいですし","I'm sorry, but I wanted to correct my mistakes from today before I forgot."
-6002001090130,灯織,それに……ライブの時のあの感覚を忘れたくなくて,Besides…… I don't want to forget how I felt during today's live performance.
-0000000000000,プロデューサー,だからってなあ……あまり追い込みすぎるなよ,That's why……  I don't want you to go over too far.
+6002001090130,灯織,それに……ライブの時のあの感覚を忘れたくなくて,Besides… I don't want to forget how I felt during today's live performance.
+0000000000000,プロデューサー,だからってなあ……あまり追い込みすぎるなよ,That's why…  I don't want you to go over too far.
 6002001090140,灯織,それはもう、性分ですから,That's just how I am.
-0000000000000,プロデューサー,……それもそうだな,……That's true.
+0000000000000,プロデューサー,……それもそうだな,That's true.
 6002001090150,灯織,"トップアイドルになるためには
 今まで以上に頑張らないといけませんから",I have to try harder than before if I want to become top idol.
 0000000000000,プロデューサー,（以前のような焦りや苛立ちはもう見えない…）,(I can't see the impatience and frustration like before anymore…)
 0000000000000,プロデューサー,（いい顔をするようになったな、灯織）,"(You've gotten better at making a good expression, Hiori.)"
-6002001090160,灯織,――プロデューサー,――Producer.
+6002001090160,灯織,――プロデューサー,──Producer.
 0000000000000,プロデューサー,どうした？　もうダンスの確認は済んだか？,What's up? Did you complete your checks on the dance already?
 6002001090170,灯織,"いえ、そうではなくて……出会ってから今まで
-本当にありがとうございました","No, that's not it…… Thank you for everything you've done since we first met."
+本当にありがとうございました","No, that's not it… Thank you for everything you've done since we first met."
 6002001090180,灯織,"プロデューサーとの活動の中で
 少しだけ自分が好きになれた気がします",I feel like I've been able to like myself a bit more since I started working with you.
 0000000000000,プロデューサー,"それは灯織自身の頑張りのおかげだよ
 俺はただ、灯織が輝けるように後押ししただけだ",That's because of your own efforts. All I did was give you a push so you could shine.
 6002001090190,灯織,"いいえ、プロデューサーがいなければ、
 今も私は自分を嫌ったままだったと思います","No, I think that without you I would have kept hating myself."
-6002001090200,灯織,だから……,That's why……
-6002001090210,灯織,この先も、私のプロデュースをお願いできますか……？,Can I ask you to keep producing me……?
+6002001090200,灯織,だから……,That's why…
+6002001090210,灯織,この先も、私のプロデュースをお願いできますか……？,Can I ask you to keep producing me?
 0000000000000,プロデューサー,"ああ、もちろんだ。次の目標はトップアイドル
 一緒に頑張っていこう","Yeah, of course. Our next goal is top idol. Let's keep doing our best together."
-6002001090220,灯織,……ありがとうございます、プロデューサー,"……Thank you very much, Producer."
+6002001090220,灯織,……ありがとうございます、プロデューサー,"Thank you very much, Producer."
 6002001090230,灯織,これからも、どうかよろしくお願いします,I'll continue to keep counting on you.
 info,produce_events/600200109.json,
 译者,,

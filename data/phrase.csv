@@ -502,10 +502,10 @@ gasha.scoutGasha.useConfirmation.description,セレクションチケットを�
 gasha.scoutGasha.noExpire,期限なし,No Expiration
 gasha.scoutGasha.expireAt,%{expireAt}まで,Until %{expireAt}
 guestUser,ゲスト,Guest
-jewelPurchase.limitation.message,%{minAge}歳〜%{maxAge}歳：%{limitation}円,%{minAge}歳〜%{maxAge}歳：%{limitation}円
+jewelPurchase.limitation.message,%{minAge}歳〜%{maxAge}歳：%{limitation}円,Age %{minAge}〜%{maxAge}：%{limitation}円
 jewelPurchase.limitation.detailTitle,購入限度額確認,Confirm Purchase Limit
 jewelPurchase.limitation.detailMessage,１ヶ月の購入限度額は下記となります,１ヶ月の購入限度額は下記となります
-jewelPurchase.limitation.overTitle,購入限度額超過,購入限度額超過
+jewelPurchase.limitation.overTitle,購入限度額超過,Over Purchase Limit
 jewelPurchase.limitation.overMessage,購入限度額を超過しているため\nご購入いただくことができません\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください,購入限度額を超過しているため\nご購入いただくことができません\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください
 jewelPurchase.limitation.parentPermissionTitle,法定代理人の同意確認,法定代理人の同意確認
 jewelPurchase.limitation.parentPermissionMessage,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください
@@ -569,7 +569,7 @@ header.recycleShop,リサイクルショップ,Recycle Shop
 header.raidDeck,コラボフェスユニット編成,Select Collab Fes Unit
 ideaNote.confirmReplacementPop.title,使用確認,Confirm Use
 ideaNote.confirmReplacementPop.description,「%{current}」を使用中です。\r「%{selected}」を使用しますか？,「%{current}」is in use.\r\nUse「%{selected}」instead?
-ideaNote.confirmReplacementPop.notice1,使用中のアイデアノートは消滅します,使用中のアイデアノートは消滅します
+ideaNote.confirmReplacementPop.notice1,使用中のアイデアノートは消滅します,Idea Note Expired
 ideaNote.confirmReplacementPop.notice2,新たに使用するアイデアノートの付加効果は\r次の週から反映されます,新たに使用するアイデアノートの付加効果は\r次の週から反映されます
 ideaNote.forceSelectPop.title,使用確認,Confirm Use
 ideaNote.forceSelectPop.description,「%{selected}」を使用しますか？,Use 「%{selected}」?
@@ -690,8 +690,8 @@ idolDetail.tradeMemorialPieceDialog.title,メモリアルピース変換確認,C
 idolDetail.tradeMemorialPieceDialog.comment,このアイドルとはお別れすることになります。\r変換を確定してよろしいですか？,このアイドルとはお別れすることになります。\r変換を確定してよろしいですか？
 idolDetail.tradeMemorialPieceDialog.afterPieceCount,%{afterPieceCount}(+%{addPieceCount}),%{afterPieceCount}(+%{addPieceCount})
 idolDetail.tradeMemorialPieceDialog.addPieceCount,(+%{addPieceCount}),(+%{addPieceCount})
-idolDetail.tradeMemorialPieceDialog.srOrSsrNotice,SR以上の%{idolType}が選択されています,SR以上の%{idolType}が選択されています
-idolDetail.tradeMemorialPieceDialog.maxNotice,最大所持量を超えるため変換できません,最大所持量を超えるため変換できません
+idolDetail.tradeMemorialPieceDialog.srOrSsrNotice,SR以上の%{idolType}が選択されています,A %{idolType} SR or above is selected.
+idolDetail.tradeMemorialPieceDialog.maxNotice,最大所持量を超えるため変換できません,Can't convert as it would exceed the maximum amount.
 idolDetail.receiveMemorialPieceDialog.title,メモリアルピース変換結果,Memory Piece Conversion Result
 idolDetail.receiveMemorialPieceDialog.comment,%{idolType}\r%{idolName}\rを変換して%{pieceName}を受け取りました,%{idolType}\r%{idolName}\rを変換して%{pieceName}を受け取りました
 idolDetail.fesIdolMarkSelectDialog.title,フェスアイドルマーク,Fes Idol Mark
@@ -714,8 +714,8 @@ item.itemResult.title,アイテム使用結果,Item Use Effect
 item.itemResult.effect,%{itemName}を使用して\r%{valueName}を%{gainValue}回復しました,Restored %{gainValue} %{valueName}\r\nusing %{itemName}
 item.fesTicketRecoverPop.title,フェス参加権回復,Recover Fes Entries
 item.maxStamina,スタミナがMAXのため、これ以上回復できません。,Stamina could not be recovered\r\n Since it is already at Max. 
-item.maxFesTicket,参加権がMAXのため、これ以上回復できません。,参加権がMAXのため、これ以上回復できません。
-item.expiredItem,期限を過ぎたため、使用できません。,期限を過ぎたため、使用できません。
+item.maxFesTicket,参加権がMAXのため、これ以上回復できません。,Entries can't be recovered since they are already at max.
+item.expiredItem,期限を過ぎたため、使用できません。,This cannot be used as it has expired. 
 item.recoveryItem.type.produce.valueName,スタミナ,Stamina 
 item.recoveryItem.type.fes.valueName,参加権,Entry
 jewel,フェザージュエル,Feather Jewel
@@ -851,7 +851,7 @@ profile.options.showFesDeckRank,フェスユニット評価,Fes Unit Rank
 profile.options.showUserGrade,最高到達グレード,Highest Grade
 profile.options.showCharacterFan,ファン人数,Fan Count
 userPolicy.title,利用規約,Terms of Service
-userPolicy.warningText,ないようがわからないときは\nおうちのひとにがめんをみせてください。,ないようがわからないときは\nおうちのひとにがめんをみせてください。
+userPolicy.warningText,ないようがわからないときは\nおうちのひとにがめんをみせてください。,"If you aren't sure, please show this to a family member. "
 shop.headerTitle,ショップ,Shop
 shop.headerTitles.money,マニー,Money
 shop.headerTitles.jewel,ジュエル,Jewel
@@ -894,7 +894,7 @@ shop.banaCoinShopNotice,バナコイン決済とクレジットカードかん�
 shop.purchaseError.purchaseCountOver,購入上限を超えています,Purchase limit exceeded
 shop.purchaseError.possessionCountOver,所持上限を超えています,Owned limit exceeded
 shop.purchaseError.moneyShortage,マニーが足りません,Not enough Money
-shop.useBanaCoinConfirmation.message,バナコインで以下のアイテムを%{purchaseCount}個購入します,バナコインで以下のアイテムを%{purchaseCount}個購入します
+shop.useBanaCoinConfirmation.message,バナコインで以下のアイテムを%{purchaseCount}個購入します,Purchase %{purchaseCount} with Banacoins
 shop.purchaseResult.title,購入結果,Purchase Results
 shop.purchaseResult.message,%{title}を購入しました,%{title} Purchased
 shop.purchaseResult.twoLinesMessage,%{title}を\r購入しました,%{title}\r\nPurchased
@@ -1092,7 +1092,7 @@ tutorial.skipPop.warning2,TIPS,TIPS
 twitter.postDialog.staticURL,https://go.enza.fun/IddpjY,https://go.enza.fun/IddpjY
 workActivityResult.totalFan.count,%{count}人,%{count}
 individualRanking.aggregateAt,%{openTime} 〜 %{closeTime},%{openTime} 〜 %{closeTime}
-errorDialog.movieSkipNotice,スキップした場合、動画は閲覧済み状態となります,スキップした場合、動画は閲覧済み状態となります
+errorDialog.movieSkipNotice,スキップした場合、動画は閲覧済み状態となります,"If skipped, the video can't be rewatched."
 gasha.billedText,【有償】,【Paid】
 lotteryResult.title,当選結果,Lotto Result
 lotteryResult.comment,以下の景品を獲得しました,Won the following prizes

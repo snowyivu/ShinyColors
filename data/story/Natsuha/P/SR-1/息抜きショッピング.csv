@@ -1,0 +1,108 @@
+id,name,text,trans
+0000000000000,プロデューサー,"うーん……先方の都合もあるから仕方がないが、
+急に予定が空いてしまったな……","Hmm... Seeing that something come up on our client's side, that suddenly frees up some time for us."
+0000000000000,プロデューサー,さて、どうしようか……,The question is what are we going to do now.
+2013003020010,夏葉,"……そうだわ、この近くだとアレがあるわね
+行くわよ、プロデューサー","That reminds me, we're somewhere near that place. Let's head there, Producer."
+0000000000000,プロデューサー,アレって、ジムでも近くにあるのか？,"By that place, you mean a gym?"
+2013003020020,夏葉,いいえ、違うわ,"No, not that."
+2013003020030,夏葉,ショッピングへ行くのよ！,We'll go shopping!
+2013003020040,夏葉,"最近は仕事場とジムの往復ばかりで忙しくて、
+なかなかショッピングに来れてなかったのよね","I've been busy going between work and the gym lately, that I haven't gone shopping for a while."
+0000000000000,プロデューサー,"（ん？　今さらっと言ったけど
+普通は仕事場と家の往復なんじゃ……）","(Hmm? It's late to say it now but, shouldn't that be ""going between work and home""?)"
+2013003020050,夏葉,"普段来れない分、今日は思い切り
+お洋服を買い込むんだから！","To make up for those days,
+I'm going to shop to my heart's content!"
+2013003020060,夏葉,"あら、何をボーっとしているのかしら？
+疲れているのなら、先に帰ってくれてもいいのよ？","Hmm? You seem to be dozing off.
+If you feel that you're tired, you can go back without me."
+0000000000000,プロデューサー,"いやまあ、せっかくの息抜きだしな
+俺も付き合わせてもらうよ","It's okay. This is a good chance to
+take a breather so allow me to join you."
+2013003020070,夏葉,"あらそう？
+じゃあ、まずはあっちのお店から行きましょう","Is that so?
+Alright, let's head over to that store first."
+2013003020080,夏葉,"このワンピースのデザインいいわね
+買うわ","The design on this one-piece is nice.
+I'll take it."
+0000000000000,プロデューサー,"うん、色もいいと思うぞ
+良く似合ってる","Yes, I think the color's good.
+It'll look good on you."
+0000000000000,プロデューサー,"おーい夏葉、
+こういうのはどうなんだ？","Say, Natsuha,
+what about this one?"
+2013003020090,夏葉,"そうね
+やめておくわ","Hmm,
+I think I'll pass."
+0000000000000,プロデューサー,"夏葉は選ぶとき、
+全然悩まないんだな……","You don't seem to think
+twice when coming to a decision."
+2013003020100,夏葉,"当然よ
+自分に似合うものぐらい、見たらすぐにわかるわ","Of course.
+I would realize what would look good on me on just one glance."
+2013003020110,夏葉,"それより、時間は有限なんだから
+早く次の店にいきましょう","Anyways, our time is limited
+so let's go the next store."
+0000000000000,プロデューサー,"てっきり荷物持ちを任されると思ってたんだが、
+重いようだったら俺が持つぞ？","I was sure that you'd ask me to help you with that.
+Still, I can carry some of those for you if you find them heavy."
+2013003020120,夏葉,"大丈夫よ、プロデューサー
+この重みがちょうどいいの","It's alright, Producer.
+This kind of weight is just fine."
+2013003020130,夏葉,"あの素敵な服が、
+今私の手元にあるって感じられるから――","With this, I can feel that that
+wonderful dress is right by my fingertips."
+0000000000000,プロデューサー,（女の子らしいことも言うんだな……）,(Quite a feminine thing to say.)
+2013003020140,夏葉,それに、荷物持ちもトレーニングになるでしょう？,"Besides, carrying these can be turned into a work-out."
+0000000000000,プロデューサー,まぁ、そ、そうだな,"Y-Yeah, good point."
+2013003020150,夏葉,"でも、私が持てなくなったら
+プロデューサーにも持ってもらおうかしら","Still, if I can't carry them anymore,
+I guess I'll take up your offer to help."
+2013003020160,夏葉,そのほうがたくさん服、買えるしね？,"That way, we can buy more clothes, right?"
+0000000000000,プロデューサー,"……あ、ああ！
+夏葉の心行くまで買うといいよ","R-Right!
+Feel free to shop around as much as you want."
+2013003020170,夏葉,"今日は楽しかったわ
+付き合ってくれてありがとう、プロデューサー","I really enjoyed myself today.
+Thank you for accompanying me the whole day, Producer."
+select,,俺は何もしてないよ,I didn't get to do anything.
+select,,"夏葉が楽しそうで
+よかった","I'm glad you had a good time, Natsuha."
+select,,息抜きになったか？,Did that give you a change of pace?
+2013003020180,夏葉,"でも、帰ってもよかったのに
+付き合ってくれたじゃない","Still, you kept me company
+even though you could leave, right?"
+2013003020190,夏葉,"プロデューサーがいたから、自分の判断だけじゃなく
+客観的な意見も聞くことができたのよ",It's because that you were with me that I was able to get an unbiased opinion other than my own judgment.
+2013003020200,夏葉,"たまには誰かとショッピングを楽しむのもいいものね
+今度は果穂たちを誘ってみようかしら","It's nice to have fun shopping along with someone.
+Maybe I should Kaho and the others next time."
+0000000000000,プロデューサー,ああ、いいんじゃないか,"Yes, that's a good idea."
+2013003020210,夏葉,"そうと決まれば計画を立てないといけないわね
+うふふ、また新しい楽しみができたわ！","With that agreed on, we have to make plans for that.
+Ufufu, guess I have something new to look forward to!"
+2013003020220,夏葉,"プロデューサーのおかげよ
+帰ってもよかったのに、一緒に買い物してくれたでしょう？","And it's all thanks to you. You could have went home ahead, and yet you went shopping with me."
+2013003020230,夏葉,"おかげで、今日はすごく楽しめたわ
+誰かとするショッピングというのも、いいものね","Because of that, I had a really greta time today. It sure is nice to go shopping with someone."
+2013003020240,夏葉,"また、時間ができたら……
+今日みたいに付き合ってくれるかしら？",If we can find the time in the future... would you come with me again just like today?
+0000000000000,プロデューサー,ああ、もちろん構わないぞ,"Sure, I don't mind."
+2013003020250,夏葉,"……よかった
+そのときはまたよろしくお願いするわね、プロデューサー","That's good to hear. And when that time comes, I'll be counting on your help once more, Producer."
+2013003020260,夏葉,ええ、とても,"Yes, very much so."
+2013003020270,夏葉,"ひとりでする買い物もいいけど、
+誰かと一緒に、というのも新鮮で楽しかったわ","It's nice to go shopping on my own but, going shopping with someone else is fun and refreshing."
+0000000000000,プロデューサー,"役に立てたならよかった
+今日買ってたもの、夏葉によく似合ってたぞ",I'm just happy I could help out. Everything you brought today really looked good on you.
+2013003020280,夏葉,"と、当然よ
+自分に何が似合うかなんてわかりきってるもの","O-Of course.
+I know which ones would look good on me."
+2013003020290,夏葉,でも……ありがとう、うれしいわ,"Still, thank you. I'm happy to hear that compliment from you."
+2013003020300,夏葉,"急にフリーになったときはどうしようかと思ったけど、
+プロデューサーのおかげでリフレッシュできたわ","I was worried what we're going to do because we suddenly have some free time in our hands but, thanks to you, I was able to get refreshed."
+2013003020310,夏葉,"さあ、明日からは
+また仕事に全力を出していくわよ","Okay, once more, I'm so going to put my all into to each and very future jobs coming our way!"
+info,produce_events/201300302.json,
+译者,,

@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"ふぅ……
 今日の仕事はちょっと時間かかったな……","Phew...
 Today's work took quite awhile..."
-2002003010010,灯織,……,......
+2002003010010,灯織,……,……
 0000000000000,プロデューサー,"あれ？　灯織じゃないか
 こんな時間までどうしたんだ？",Huh? It's Hiori. What are you doing out at this time?
 2002003010020,灯織,"あ……プロデューサー
@@ -17,7 +17,7 @@ Today's work took quite awhile..."
 2002003010050,灯織,"ありがとうございます……
 でも、やる度に自分ができないことに気付かされて……","Thank you very much... However, while doing so I realized there was something I couldn't do..."
 0000000000000,プロデューサー,"……灯織
-もしかして、何か悩んでるのか？",...Hiori.  Is there something you're worried about?
+もしかして、何か悩んでるのか？","...Hiori, is there something you're worried about?"
 2002003010060,灯織,"え？
 いえ、そんなことは……ないと思いますが","Huh? No, it's not like that... I think."
 0000000000000,プロデューサー,"人に話して解決することもあると思うぞ
@@ -72,13 +72,13 @@ some snacks"
 2002003010180,灯織,……ありがとうございます、プロデューサー,"...Thank you very much, Producer."
 2002003010190,灯織,"今まで考えたこともありませんでしたが……
 意外と、そうなのかもしれませんね","I didn't think about it like that until now... It's surprising, but it might be true."
-0000000000000,プロデューサー,『意外と』とはなんだ、『意外と』とは……,"What do you mean by ""surprising""...?"
+0000000000000,プロデューサー,『意外と』とはなんだ、『意外と』とは……,"What do you mean by ""surprising""?"
 2002003010200,灯織,"ふふっ、
 ごめんなさい、他意はないんです","Fufu, I'm sorry, I had no ill will by that."
 2002003010210,灯織,"ただ、そんな風に思えるって
 考えたことなかったので……",I just hadn't thought of that...
 2002003010220,灯織,"……プロデューサー
-いつもそういうので済ませてるんですか？",...Producer. Do you always do that?
+いつもそういうので済ませてるんですか？","...Producer, do you always do that?"
 0000000000000,プロデューサー,"え？　いつもってわけじゃないけど……
 まぁ、たまには……",Huh? It's not like I always do that... Only sometimes...
 2002003010230,灯織,"確かに便利ですけど
