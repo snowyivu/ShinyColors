@@ -1,39 +1,39 @@
 id,name,text,trans
-2008004010010,霧子,は……はえれ……──,G... grow...---
+2008004010010,霧子,は……はえれ……──,G... grow...
 0000000000000,プロデューサー,……ん？,...Hm?
 2008004010020,霧子,"……はえ……
 ん──","...Gro...
-Hm--"
-0000000000000,プロデューサー,霧子、しゃべると体温計が動い──,"Kiriko, the thermometer moves if you talk--"
-2008004010030,霧子,──あめ……雨です、プロデューサーさん……！,"--Rain... It's raining, Producer-san...!"
+Hm──"
+0000000000000,プロデューサー,霧子、しゃべると体温計が動い──,"Kiriko, the thermometer moves if you talk──"
+2008004010030,霧子,──あめ……雨です、プロデューサーさん……！,"──Rain... It's raining, Producer!"
 0000000000000,プロデューサー,"え？　あ……
 ほんとだ","Eh? Ah...
 That's true..."
 2008004010040,霧子,"大変です……
 サボテンさん……中に入れなきゃ……！","This is serious...
-Cactus-san... If he's not taken inside...!"
-0000000000000,プロデューサー,あ、霧子！　ちょっと──,"Hey, Kiriko!  Wait--"
+the cactus... If he's not taken inside!"
+0000000000000,プロデューサー,あ、霧子！　ちょっと──,"Hey, Kiriko! Hold on──"
 2008004010050,霧子,……！,...!
 0000000000000,プロデューサー,"ちょっと待ってくれ、霧子
 熱があるかもしれないんだぞ？","Wait just a second, Kiriko.
 Don't you probably have a fever?"
 2008004010060,霧子,"は、はい……
-でも……サボテンさんが……！","Y, yeah...
-But, Cactus-san is...!"
+でも……サボテンさんが……！","Y-Yes...
+But, the cactus is...!"
 0000000000000,プロデューサー,"ああ──
-俺が行くよ。霧子はここにいてくれ","Ahh--
-I'll go.  You stay here Kiriko."
-2008004010070,霧子,い、いえ……そんな……！,"N, no... That's...!"
+俺が行くよ。霧子はここにいてくれ","Ahh,
+I'll go. You stay here Kiriko."
+2008004010070,霧子,い、いえ……そんな……！,N-No... Don't...
 0000000000000,プロデューサー,"ダメだって
 熱、測り直して待っててくれ。な？","You can't.
-You need to properly check your temperature.  Right?"
+You need to properly check your temperature, right?"
 2008004010080,霧子,…………はい,...Okay.
-2008004010090,霧子,あ、あの──,"Uh, uhm--"
+2008004010090,霧子,あ、あの──,"Uh, uhm──"
 0000000000000,プロデューサー,ん？,Hm?
 2008004010100,霧子,"いえ……
 プロデューサーさんも……濡れないでください……","No...
 Producer... Don't get wet either please..."
-0000000000000,プロデューサー,ははっ。おう！,Hahah.  Alright!
+0000000000000,プロデューサー,ははっ。おう！,"Haha, no worries!"
 0000000000000,プロデューサー,"…………ふぅ
 サボテン、そんなに濡れてなさそうだ","...Fuu.
 The cactus doesn't seem like it's getting wet."
@@ -41,23 +41,23 @@ select,,気持ちよさそうだぞ,"Looks like he's
 feeling good."
 select,,"……でもないか
 大丈夫かな……","...Or maybe not.
-Is it really okay..."
+Is it really okay?"
 select,,"……霧子、
 熱はどうだ？","...Kiriko,
 how's your fever?"
 0000000000000,プロデューサー,"──と、すまん……！
-熱、測ってたんだったな……","--Then, sorry about that...!
+熱、測ってたんだったな……","──Then, sorry about that...!
 I was measuring your fever..."
 2008004010110,霧子,"ふふっふふ……！
-──……ん","Fufuufufu...!
---...Yeah."
+──……ん","Fufufufu...!
+..It's fine."
 0000000000000,プロデューサー,"あ、いやいや霧子！
-しゃべらなくっていいんだ……！","Ah, no no, Kiriko!
-You shouldn't be talking...!"
-2008004010120,霧子,──よかったです……,--I'm so glad...
+しゃべらなくっていいんだ……！","Ah, no-no, Kiriko!
+You shouldn't be talking!"
+2008004010120,霧子,──よかったです……,I'm so glad...
 0000000000000,プロデューサー,霧子……,Kiriko...
 2008004010130,霧子,"サボテンさんが……
-風邪を引かなくて……","Cactus-san...
+風邪を引かなくて……","The cactus...
 Didn't catch a cold..."
 2008004010140,霧子,"……ふふ
 ほんとに……気持ちよさそう……","...Hehe.
@@ -66,87 +66,87 @@ I'm in a really... good mood..."
 熱、もっかい測り直しだ","...Kiriko, I also don't want you to catch one.
 Let's measure your fever again."
 2008004010150,霧子,"は、はい……！
-──ん","Y, yes...!
---Mhm."
+──ん","Y-Yes...!
+──Mhm."
 2008004010160,霧子,"ふふふふーふふふふっ、
-ふふふーふーふっ……──！","Fufufufu-fufufufuu,
-Fufufu-fu-fuu...--!"
+ふふふーふーふっ……──！","Fufufufufufufufuu,
+Fufufufufuu...!"
 0000000000000,プロデューサー,"え？
-──……あ、いや、そのままでいいから！","Eh?
---...Ah, no, no, it's fine!"
+──……あ、いや、そのままでいいから！","Huh?
+Ah, no-no, it's fine!"
 0000000000000,プロデューサー,"（……お礼を言ってくれてるのかな
-はは……）","(...Is she trying to say thanks、
-haha...)"
+はは……）","(...Is she trying to say thanks?
+Haha...)"
 2008004010170,霧子,…………ふふ,...Hehe.
-2008004010180,霧子,嬉しそうに……見えます……,He looks... happy...
-0000000000000,プロデューサー,そ、そうなのか……？,"I, is that so...?"
+2008004010180,霧子,嬉しそうに……見えます……,He looks... happy.
+0000000000000,プロデューサー,そ、そうなのか……？,I-Is that so?
 2008004010190,霧子,"飲み過ぎると……お腹を壊しちゃうけど……
 お水も……大事なんです……","If he drinks too much... it'll destroy his belly...
 Water is also... very serious..."
 0000000000000,プロデューサー,"ははっ、そうか！
-……あ、霧子もちゃんと飲んでくれよ","Hahah, I see!
+……あ、霧子もちゃんと飲んでくれよ","Haha, I see!
 ...Ah, Kiriko also needs to take care of her drinking."
-2008004010200,霧子,……──え？,...--Eh?
+2008004010200,霧子,……──え？,Huh?
 0000000000000,プロデューサー,"ほら、ミネラルウォーターでいいか？
 風邪かもしれないんだ。水分を摂らなきゃ","Here, is mineral water okay?
-It might be a cold.  You need to take fluids."
+It might be a cold. You need to take fluids."
 2008004010210,霧子,"わ………！
-ありがとう……ございます……","Wah...!
-Thank you... so much..."
-2008004010220,霧子,んっ、ん……,"Gulp, gulp..."
+ありがとう……ございます……","Ah!
+Thank you... so much."
+2008004010220,霧子,んっ、ん……,*Gulp*
 0000000000000,プロデューサー,喉、渇いてたんだな,Looks like you were thirsty.
 2008004010230,霧子,"は、はい……！
-──ん……","Y, yes...!
---Gulp..."
-2008004010240,霧子,…………,...
-2008004010250,霧子,…………雨も……こんなにおいしいのかな……,...I wonder... if rain is also tasty...
-0000000000000,プロデューサー,え？,Eh?
+──ん……","Y-Yes...!
+──Gulp..."
+2008004010240,霧子,…………,......
+2008004010250,霧子,…………雨も……こんなにおいしいのかな……,...I wonder if rain is also tasty.
+0000000000000,プロデューサー,え？,Huh?
 2008004010260,霧子,"い、いえ……
-サボテンさんもきっと……","N, no...
-For Cactus-san..."
+サボテンさんもきっと……","N-Nothing...
+For the cactus..."
 2008004010270,霧子,"プロデューサーさんのおかげで……
-お水……おいしかったなって…………","Thanks to Producer-san's help...
+お水……おいしかったなって…………","Thanks to Producer's help...
 The water... was delicious..."
 0000000000000,プロデューサー,俺はそんな……,That's me...
 2008004010280,霧子,ふふ……,Hehe...
 2008004010290,霧子,体の中が……透明になって……,The inside of his body... is turning clear...
 2008004010300,霧子,"雨が……命になってくみたいです……
-プロデューサーさん……","The rain is... like life...
-Producer-san..."
+プロデューサーさん……","The rain is like life...
+Producer..."
 2008004010310,霧子,"い、いえ……
-大したこと……なくって……","N, no...
+大したこと……なくって……","N-No...
 It's not... a big deal..."
 0000000000000,プロデューサー,……いいや、何度だったか言ってくれ,"...No, please tell me how much."
 2008004010320,霧子,"は、はい……
-…………７度と……ちょっとです……","O, okay...
-...It's just... 7 degrees..."
+…………７度と……ちょっとです……","O-Okay...
+...It's just 7 degrees."
 0000000000000,プロデューサー,"え、７度出ちゃってるのか……！
-……ちょっと、熱冷ましか何か探してくるから──","Eh, you're up 7 degrees...?!
-...Hold on, let me find some fever medication--"
+……ちょっと、熱冷ましか何か探してくるから──","Eh, you're up 7 degrees?!
+...Hold on, let me find some fever medication──"
 2008004010330,霧子,"あ……
 ぷ、プロデューサーさん……！","Ah...
-P, Producer-san...!"
-0000000000000,プロデューサー,──ん？,--Huh?
+P-Producer...!"
+0000000000000,プロデューサー,──ん？,Huh?
 2008004010340,霧子,"プロデューサーさんも……
-髪、拭かなきゃです……！","Producer also...
-You have to dry, your hair...!"
-2008004010350,霧子,──んしょ……,--Y'know...
+髪、拭かなきゃです……！","You also...
+You have to dry your hair...!"
+2008004010350,霧子,──んしょ……,I mean it...
 0000000000000,プロデューサー,"……え、霧子、俺はいいって！
-そんな場合じゃ──","...Eh, Kiriko, I'm fine!
-This isn't the time--"
+そんな場合じゃ──","Really, Kiriko, I'm just fine!
+This isn't the time──"
 2008004010360,霧子,"だ、ダメです……！
-サボテンさんは助けてもらったのに──","N, no...!
-Since you helped Cactus-san--"
-2008004010370,霧子,プロデューサーさんだけ……濡れて……,Only Producer-san... got wet...
+サボテンさんは助けてもらったのに──","N-No...!
+Since you helped the cactus──"
+2008004010370,霧子,プロデューサーさんだけ……濡れて……,Only you... got wet...
 0000000000000,プロデューサー,霧子……,Kiriko...
 2008004010380,霧子,"す、すぐです……！
-拭かせてもらえたら……嬉しいです……","R, right away...!
+拭かせてもらえたら……嬉しいです……","R-Right away!
 If you dry off... I'll be happy..."
 0000000000000,プロデューサー,"そっか……ありがとう。じゃあ……
-すぐ、な！","Is that so... thanks.  Well then...
-Right away, yeah?"
+すぐ、な！","Is that so? Thank you. Well then...
+Right away, correct?"
 2008004010390,霧子,"はい……！
-ふふ……──","Okay...!
-Hehe...--"
+ふふ……──","Okay!
+Fufu..."
 info,produce_events/200800401.json,
 译者,,

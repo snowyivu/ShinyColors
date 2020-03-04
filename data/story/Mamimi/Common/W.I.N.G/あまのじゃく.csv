@@ -1,0 +1,155 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（仕事で近くまで来たし、
+せっかくだから摩美々のレッスンを見てみよう）","(Since I was close to the office, 
+I decided to check on how Mamimi was doing with her lessons.)"
+0000000000000,プロデューサー,（摩美々は……お、いたいた）,"(Mamimi... oh, there she is.)"
+1005001030010,摩美々,"もう一回同じところですかぁ？
+わかりましたぁ","The same part once again? 
+Gooot it."
+0000000000000,プロデューサー,"（すごく激しいダンスを踊ってるな……普段とは大違いだ、
+えらいぞ摩美々……！）","(She's dancing so energetically... Totally different than her usual self, 
+well done, Mamimi!)"
+0000000000000,プロデューサー,（…………お、そろそろ休憩のようだ）,"(...Ah, it looks like it'll be break time soon.)"
+1005001030020,摩美々,"あ、プロデューサーじゃないですかぁ
+どーしたんですかぁ？","Oh, isn't that Producer? 
+What are you doing here?"
+0000000000000,プロデューサー,"仕事で近くまで来たから、
+摩美々が頑張ってる姿を見に寄ったんだ","I was close by for a job, 
+so I came here to see Mamimi hard at work."
+0000000000000,プロデューサー,ちゃんとレッスンを受けててえらいじゃないか,"Taking your lessons so seriously, aren't you the diligent one?"
+1005001030030,摩美々,"別にー、これくらいなら
+普通にできますよー","Not really, I can do this much without trouble."
+0000000000000,プロデューサー,"そういえば、前にレッスントレーナーさんが
+摩美々は覚えが早いと褒めてたぞ","By the way, a while ago the lesson trainer
+praised you on how fast a learner you are."
+0000000000000,プロデューサー,"姿勢もいいし、
+昔、楽器を習っていたからか、音感もいいって","Your posture is good, and because you have experience 
+with musical instruments, your sense of pitch is also great."
+0000000000000,プロデューサー,"それに、前より撮影も上達しているしな
+少しずつ、笑顔がよくなっているって評判だ","Besides that, your pictures are coming out much better than before
+Little by little, your smile is starting to show up!"
+1005001030040,摩美々,…………,......
+0000000000000,プロデューサー,ん？　急に黙って、どうした？,"Mm? You became silent out of the sudden, what's wrong?"
+1005001030050,摩美々,"……もう帰りますねー
+さよーならぁ","...I'm going home already. 
+See ya."
+0000000000000,プロデューサー,"え……本当にどうしたんだ
+どこか体調でも悪いのか？","Eh... Really, what's wrong?
+Are you feeling unwell?"
+1005001030060,摩美々,なんだか、めんどーになったんですー,It somehow became a pain in the neck.
+0000000000000,プロデューサー,"……面倒って──
+最近、少しずつやる気を見せていたのに、どうしたんだ？","...A pain? 
+Lately, you were getting motivated little by little, what happened now?"
+1005001030070,摩美々,"別に、どうもしてませんケド？
+本当にめんどーなだけですー","Nothing really happened? 
+It just really became a pain."
+0000000000000,プロデューサー,"そう言っても、まだレッスンは終わってないぞ
+最後まで真面目にやらないと駄目だ、摩美々","Even if that's the case, the lesson still hasn't finished. 
+You must do it seriously until the end, Mamimi."
+1005001030080,摩美々,"今日のレッスンは完璧ですからぁ、
+別に、同じところ繰り返さなくても大丈夫ですよー？","Today's lesson went perfectly, 
+so there's no point in repeating the same things again and again, right?"
+1005001030090,摩美々,それとも、やらないと駄目な理由があるんですかぁ？,Or is there any other reason to keep doing it?
+select,,"摩美々なら
+もっと上を目指せる","If it is Mamimi, 
+you can aim higher"
+select,,毎日の積み重ねが大事だ,"Daily repetition
+is important"
+select,,"日々、
+成長を実感できるからだ","That way you can feel 
+your growth every day"
+0000000000000,,★選択肢①【摩美々ならもっと上を目指せる】,★選択肢①【摩美々ならもっと上を目指せる】
+0000000000000,プロデューサー,摩美々ならもっと上を目指せる,"If it is Mamimi, you can aim higher."
+0000000000000,プロデューサー,だから、これくらいで満足しちゃ駄目だ,That's why you shouldn't be satisfied with just this.
+1005001030100,摩美々,"今でもちゃんと踊れてますしー、
+これ以上やっても、意味ないんじゃないですかぁ？","But I just nailed the dance, 
+even I if keep doing it it wouldn't change anything, right?"
+0000000000000,プロデューサー,"アイドルの成長に終わりなんてない
+そして、成長し続けるアイドルがみんなを魅了するんだ","There is no end to the growth of idols. 
+Besides, an idol that keeps improving herself fascinates everyone."
+1005001030110,摩美々,"でもー、別に私には、
+高い目標とかもありませんしー","Buut...
+I don't really have any high goals like those or anything."
+1005001030120,摩美々,"だからぁ、成長を続けるとか、上を目指すとかぁ、
+ピンとこないんですよねー","That's why things like ""keep improving myself"" or 
+""aim for the top"" don't really fit me."
+0000000000000,プロデューサー,"なら、トレーナーさんに相談してみるよ。次から、
+更にレベルが高くてハードなレッスンをするように、って","In that case, talk to your trainer. 
+Tell them to up the level of your lessons in order to make them harder."
+0000000000000,プロデューサー,"より良いパフォーマンスをしているうちに、
+目標も見つかってくるかもしれないからな","By doing even better performances 
+you might end up finding new goals."
+1005001030130,摩美々,"あー、……そーいえばぁ、さっきのレッスンで、
+うまくできないところ、あったかもしれませんー","Ahh... Now that you say that, 
+I think there was a step in the previous lesson that I couldn't do well."
+1005001030140,摩美々,"こういうのってー
+できないままにするの、よくないんですよねー？","Something like that,
+we cannot leave it be, riiight?"
+0000000000000,プロデューサー,"ああ、そうだ
+じゃあ、今日はまだ帰らず、レッスンの続きをするな？","Oh, that's true. 
+Well, how about you stay and continue with your lesson, then?"
+1005001030150,摩美々,"ふふー、丸め込まれちゃいましたぁ
+プロデューサーの言うこと、今日は聞いてあげますねー","Fufu~, I have been coaxed. 
+For today, I will listen to what Producer says."
+0000000000000,,★選択肢②【毎日の積み重ねが大事だ】,★選択肢②【毎日の積み重ねが大事だ】
+0000000000000,プロデューサー,"確かに摩美々が、
+レッスンを上手くこなしてるのは認める",I'll acknowledge that you've been doing your lessons well enough.
+0000000000000,プロデューサー,"でも、毎日ちゃんとやってないと、
+いつか他のメンバーに、置いていかれる日がくるぞ","But, if you don't do it properly every day, 
+the time when you will be left behind by the other unit members will surely come."
+1005001030160,摩美々,"そうしたらぁ
+その時に頑張ればいいじゃないですかぁ？","If that were to happen...
+Shouldn't I just do my best when that time comes?"
+0000000000000,プロデューサー,"一度ついた差は、そう簡単には埋まらない
+こっちが助走している間に、あっちは全速力だ","Once someone takes a lead, it's difficult to catch up.
+While you are trying to get to their level, they will be getting even further ahead."
+0000000000000,プロデューサー,そうなると大変な思いをするのは、摩美々自身だぞ？,"If that happens, wouldn't Mamimi be in a difficult spot?"
+0000000000000,プロデューサー,"もし大きな差ができてしまったら……ひとりで
+居残り練習の日々、なんてこともありえるんだからな",If there is that big of a difference... It's possible that practicing overtime by yourself is the only thing you would be able to do.
+1005001030170,摩美々,"……ひとりで居残りはぁ、絶対したくないですねー
+別に歌もダンスも苦手なわけじゃないですしー","...I don't want to do that, practicing only by myself.
+It's not like I have any troubles with singing or dancing."
+0000000000000,プロデューサー,なら、どうすべきかは、わかるな？,"Then, do you know what to do now?"
+1005001030180,摩美々,"レッスンはめんどーですけどー、
+居残りはもっとめんどーかもしれませんねー","Lessons are a pain, but...
+Practicing overtime would be even more of a pain."
+1005001030190,摩美々,"今日はもうちょっとだけ頑張りますけどー、私が
+逃げないように、見張っておくべきかもしれませんよー？","I'll do a little more today, but you might have to keep keeping an eye on me so I don't run away, you know?"
+0000000000000,,★選択肢③【日々、成長を実感できるからだ】,★選択肢③【日々、成長を実感できるからだ】
+0000000000000,プロデューサー,日々、成長を実感できるからだ,"That way, you can feel your growth every day."
+1005001030200,摩美々,"私だってー、成長は感じてますよぉ
+でも、もう、できるんですよねー","I do feel my growth
+But, I can already do it just fine."
+1005001030210,摩美々,"ちゃんと歌って踊れる曲を、何度も繰り返し練習する必要
+あるんですかぁ？　意味なくないですかぁ？","Is there any need to practice the songs I can already sing and dance well over and over again?
+Isn't it kinda pointless?"
+0000000000000,プロデューサー,"同じ内容でも、練習を重ねる毎に練度が高まるし、
+自分に足りない部分がわかってきたりするんだ","Even if it's the same content, the more you practice, the higher your skill level will be,
+And you'll get to understand the things that you're missing."
+0000000000000,プロデューサー,"そうなれば自然と、
+自分がやるべきことが見えてくるはずだぞ","And then naturally,
+You will be able to see what is that you need to do."
+1005001030220,摩美々,"本当ですかぁ？
+私にも……見つかるんですか？","That sooo?
+Will I be able to see that by myself?"
+0000000000000,プロデューサー,"ああ、見つかる
+しっかりレッスンしていれば、必ずな","Yeah, no doubt
+If you do your lessons properly, you surely will."
+1005001030230,摩美々,"……ふふー。ちょっとなら、騙されてあげても
+いい気がしてきたかもしれませんねー","...Fufu. That sounds kinda nice
+Even if I'm being tricked here."
+1005001030240,摩美々,"でもー、やっぱり同じ曲ばかりだと、
+飽きちゃうんですよねー","Buut, if it's always the same song
+After all, I'll get bored."
+0000000000000,プロデューサー,"それなら、曲数を増やすために
+レッスンの数も増やすようトレーナーさんに頼んでくるよ","Then, in order to increase the number of songs you can perform,
+I'll ask the trainer to increase the number of lessons as well."
+1005001030250,摩美々,あー……、やっぱりまだ飽きてないかもしれませんー,"Ahh... Actually, I don't think I'm that bored yet."
+0000000000000,プロデューサー,"本当だな？
+途中で投げ出さず、続けるな？","Really?
+Should we scrap that idea and continue as we are now?"
+1005001030260,摩美々,"はーい。これからも飽きないよーに工夫して、
+繰り返しやってみますねー","Yeees. From now on, I'll figure out how not to get bored,
+and try it all over again."
+info,produce_events/100500103.json,
+译者,,

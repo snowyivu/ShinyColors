@@ -1,7 +1,7 @@
 id,name,text,trans
 4002001000220010,灯織,"今日は積極的にアピールしていこうと考えているんです
 プロデューサーはどう思いますか？","I think I want to appeal actively today. What do you think, Producer?"
-0000000000000,プロデューサー,うーん、そうだな……,"Hmm, let's see…"
+0000000000000,プロデューサー,うーん、そうだな……,"Hmm, let's see..."
 select,,"どんどん
 アピールしよう！","Keep
 appealing!"
@@ -20,7 +20,7 @@ I'll do my best so it ends up different from usual."
 0000000000000,プロデューサー,"（納得はしてくれたけど、
 少しテンションが落ちたかな……？）","(She seems accepting, but did her mood drop a little?)"
 4002001000220040,灯織,"……今日のオーディションでそれは、
-やりすぎだと思うのですが",…I think that's overdoing it for today's audition.
+やりすぎだと思うのですが",...I think that's overdoing it for today's audition.
 0000000000000,プロデューサー,（うっ、冷静に返されてしまった……）,"(Oh, she responded back coldly.)"
 info,produce_communication_cheers/400200100022.json,
 译者,,
