@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"（２８３プロダクションに入社して数か月……
 いよいよ俺が、アイドルをプロデュースする時が来た）",(A few months have passed since I started working here at 283 Production... Now the time has finally come for me to produce an idol myself.)
 0000000000000,プロデューサー,"（ずっと憧れていた仕事をようやく任されたんだ、
-これから精一杯頑張るぞ！）",(I'm finally getting to do the job I've dreamed of for so long、 so I want to do my very best!)
+これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for so long, so I want to do my very best!)"
 0000000000000,プロデューサー,"おはようございます！
 って、天井社長……？","Good morning!
 Ah! President Amai...?"
@@ -10,53 +10,53 @@ Ah! President Amai...?"
 0000000000000,プロデューサー,"（この２８３プロダクションを束ねる
 天井社長……あいかわらずダンディな雰囲気だ）",(President Amai is the boss here at 283 Production... He comes off as a bit of a dandy.)
 1902001010020,社長,"お前には今日から、アイドルを
-プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today、
-you will begin producing an idol yourself......"
+プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today,
+you will begin producing an idol yourself..."
 1902001010030,社長,"素晴らしい結果を期待させてもらう
 私は甘くないぞ","I'm expecting some spectacular results.
 I am not a lenient man."
 0000000000000,プロデューサー,は、はい！　よろしくお願いします！,O-of course! I will do all I can!
 1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,Excellent. I'll let Hazuki explain the rest...
-0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,? Where is Hazuki-san、 actually..... Woah!?
-0000000000000,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(T-there's someone passed out behind the sofa!?)
+0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki? Actually... Woah!?
+0000000000000,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(Th-There's someone passed out behind the sofa!?)
 1901001010010,はづき,"……ふわぁ～？
-なんですか～急に大きな声出して～……","...Mhmhn~?
-What's going on~ Why's everyone being so loud~..."
+なんですか～急に大きな声出して～……","...Mhmhn?
+What's going on... Why's everyone being so loud?"
 1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki... Why were you sleeping on the floor?
 1901001010020,はづき,"すみません、ソファへ着く前に
-眠気に負けてしまいまして～……","My apologies、 I was so sleepy、
-I couldn't make it to the sofa in time～"
-1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,We are trying to look professional here、 you know......
+眠気に負けてしまいまして～……","My apologies, I was so sleepy,
+I couldn't make it to the sofa in time."
+1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know..."
 1902001010070,社長,"……ともかく！
-彼に仕事の説明をしてくれ",".......Moving on! 
+彼に仕事の説明をしてくれ","...Moving on! 
 I'd like you to give him the details of his new job."
 1901001010030,はづき,"はい、もちろんです
-プロデューサーさん、どうぞ～","Yes、 absolutely.
-Producer-san、 please take these documents～"
+プロデューサーさん、どうぞ～","Yes, absolutely.
+Producer, please take these documents!"
 0000000000000,プロデューサー,"ありがとうございます
-……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always、 you've made everything so easy to understand. "
-0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,(When it comes to her job、 Hazuki-san is actually quite reliable.....)
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
+0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite reliable...)"
 1901001010040,はづき,"ありがとうございます
-それじゃあ、さっそくお仕事の説明に入りますね～","Why、 thank you.
-Alright、 allow me to explain......"
-1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,To start、 let's discuss your main goal.....
+それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
+Alright, allow me to explain..."
+1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,"To start, let's discuss your main goal..."
 1901001010060,はづき,"ワンダーアイドルノヴァ・グランプリ……
 通称『W.I.N.G.』への出場を目指してください","You will aim to have your idol participate in
-the ""Wonder Idol Nova Grand Prix""、 commonly known as ""W.I.N.G.""."
-0000000000000,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""...... You say?"
+the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
+0000000000000,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""... You say?"
 1901001010070,はづき,"はい
 新人アイドルの祭典とも言われる、すごいライブなんです",That's right. It's a special live that celebrates the best newcomer idols.
 1901001010080,はづき,"祭典と言われるだけあって、この『W.I.N.G.』は
-出場資格を手に入れるまでが厳しいんです……",While W.I.N.G. itself is a celebration、 the qualifications that must be met to participate are quite strict......
+出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the qualifications that must be met to participate are quite strict..."
 1901001010090,はづき,"エントリーしたアイドルは開催前まで、
-全４回のシーズンごとに審査を受けます",Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons、 and the bar is raised each time.
+全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons, and the bar is raised each time."
 1901001010100,はづき,"その時、一定のランクに達していないと、
-出場資格を失ってしまうんです",If these goals aren't reached by the end of a season、 the idol will no longer meet the qualifications to participate in W.I.N.G.
+出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
 1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
-私もたくさんサポートさせていただきますね～","That being said、 let's try our very best～!
-I will do everything I can to support you～"
+私もたくさんサポートさせていただきますね～","That being said, let's try our very best!
+I will do everything I can to support you."
 1902001010080,社長,"……少しアドバイスをしておくが、
-お前は、２８３プロダクションのプロデューサーだ","......Here's a bit of advice.
+お前は、２８３プロダクションのプロデューサーだ","...Here's a bit of advice.
 You are now a producer here at 283 Production. "
 1902001010090,社長,"担当アイドルと他のアイドルたちを
 交流させることも重要になってくる","It is of utmost importance to allow the idol
@@ -72,38 +72,38 @@ The idol you will be producing──"
 あの子、今日から来てくれてますよ","Good morning, Producer.
 That girl arrived today."
 0000000000000,プロデューサー,"はづきさん、おはようございます
-あの子……ですか？","Good morning Hazuki.
+あの子……ですか？","Good morning, Hazuki.
 That girl..?"
 1901001010180,はづき,"ふふ、はい。しばらく応接室で作業してもらってますから、
 会いに行ってあげてくださいね","Hehe, yeah. We've been working in the reception room for a while, so please go and meet her."
-0000000000000,プロデューサー,は、はい,O-okay.
+0000000000000,プロデューサー,は、はい,Okay.
 0000000000000,プロデューサー,（えーと、今日からか……誰のことだろう？）,"(Uhm, starting today... who will it be?)"
-0000000000000,プロデューサー,（……あれ、ドアがちょっと開いてる）,"(...huh, the door's open a little.)"
-0000000000000,プロデューサー,（……と──！）,(...there-!)
+0000000000000,プロデューサー,（……あれ、ドアがちょっと開いてる）,"(...Huh, the door's open a little.)"
+0000000000000,プロデューサー,（……と──！）,(...there!)
 1008001010010,？？？,ん……と,Hm... there.
 1008001010020,？？？,"……できました……！
 ……ふふ、包帯、いつもより上手く巻けたかも……♪","...I did it...!
-...hehe, the bandage is wrapped better than usual...♪"
-1008001010030,？？？,……あっ……,...ah...
+...hehe, the bandage is wrapped better than usual♪"
+1008001010030,？？？,……あっ……,Ah...
 0000000000000,プロデューサー,"（……あ、いかん
 つい見惚れてしまった……）","(...ah, somehow.
 I've just been watching in fascination...)"
 0000000000000,プロデューサー,"いや、ノックもしないですまない
 俺は──","Shoot, it'd be bad if I didn't knock.
-I-"
-1008001010040,？？？,プ、プロデューサー……さん……,P-Producer... san...
+I──"
+1008001010040,？？？,プ、プロデューサー……さん……,P-Producer...
 0000000000000,プロデューサー,ん？　ああ……そうだ,Hm? Yeah... that's me.
-0000000000000,プロデューサー,（そう、この子は……忘れもしない──）,"(Right, this girl... I couldn't forget-)"
+0000000000000,プロデューサー,（そう、この子は……忘れもしない──）,"(Right, this girl... I couldn't forget.)"
 0000000000000,プロデューサー,"幽谷霧子さんだね
 オーディションのとき以来だ","You're Kiriko Yukoku right?
 From the audition."
 1008001010050,霧子,"……！
-わたしの名前、覚えていてくれたんですね……","...!
+わたしの名前、覚えていてくれたんですね……","Oh!
 So you remembered my name..."
 0000000000000,プロデューサー,"ああ、よく覚えてるよ
 来てくれてうれしい。これからよろしくな","Yeah, I remember it well.
 I'm happy you came. Please treat me well going forward."
-1008001010060,霧子,は、はい……！,Y-yes..!
+1008001010060,霧子,は、はい……！,Y-Yes..!
 0000000000000,プロデューサー,"（さっきは引き込まれるような雰囲気があったけど、
 こうしてみると、すごく控え目なんだよな……）","(That feeling a moment ago drew me in but,
 looking at her this way, she seems very subdued...)"
@@ -111,7 +111,7 @@ looking at her this way, she seems very subdued...)"
 腕、ケガしてるのか？","By the way, it looked like you were bandaging yourself.
 Did you hurt your arm?"
 1008001010070,霧子,……いえ、あの……,"...ah, no..."
-1008001010080,霧子,……ち、ちょっとぶつけてしまって,...j-just bumped it a little.
+1008001010080,霧子,……ち、ちょっとぶつけてしまって,J-Just bumped it a little.
 0000000000000,プロデューサー,"そうか……心配だな
 念のためだ、医者に診てもらおうか？","I see... well that's a relief.
 Just to be sure, would you go see a doctor?"
@@ -119,12 +119,12 @@ Just to be sure, would you go see a doctor?"
 本当に大丈夫です……！","N-no, it's not a big deal...
 Honestly I'm fine..!"
 0000000000000,プロデューサー,"そ、そうか……？
-わかった。でも経過は伝えてくれ","O-oh yeah..?
+わかった。でも経過は伝えてくれ","Really?
 I understand. But keep me updated."
 1008001010100,霧子,は、はい……！,O-okay..!
 1008001010110,霧子,"あの……
 あ、ありがとうございます……！","Uhm...
-T-thank you very much..!"
+T-Thank you very much..!"
 0000000000000,プロデューサー,"はは、あんまり緊張しないで
 俺も急に邪魔して悪かったよ","Haha, no need to be nervous.
 I didn't mean to just butt in."
@@ -144,10 +144,10 @@ So that's how it is?"
 緊張がほぐれるものなの……か？）","(Does she mean... when she wraps bandages,
 it helps to ease her tension...?)"
 1008001010150,霧子,"……プ、プロデューサーさん、
-これから……よろしくお願いします……！","...P-Producer-san, from now on...
+これから……よろしくお願いします……！","...P-Producer, from now on...
 Please treat me well...!"
 0000000000000,プロデューサー,"……うん？　ああ、もちろんだ
-一緒にがんばっていこう！","...hm? Yeah, of course!
+一緒にがんばっていこう！","...Hm? Yeah, of course!
 Let's do our best together!"
 info,produce_events/100800101.json,
 译者,,

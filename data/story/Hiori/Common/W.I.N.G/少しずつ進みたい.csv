@@ -1,19 +1,19 @@
 id,name,text,trans
 1002001040010,灯織,"ワン、ツー、スリー、フォー……
-ワン、ツー、スリー、フォー……","One, two, three, four…
-One, two, three, four…"
+ワン、ツー、スリー、フォー……","One, two, three, four...
+One, two, three, four..."
 0000000000000,プロデューサー,"灯織、練習熱心なのはいいことだけど、
 明日は本番なんだから、あまり無理をするな","Hiori, it's good to be eager to practice, but tomorrow is the real deal so don't overdo it."
 1002001040020,灯織,ありがとうございます、プロデューサー,"Thank you, Producer."
 1002001040030,灯織,"自分でも調子はいいと思うのですが……
-念のため、もう少しやっておきます","I think I'm doing okay, but… I want to do a bit more just in case."
+念のため、もう少しやっておきます","I think I'm doing okay, but... I want to do a bit more just in case."
 1002001040040,灯織,"明日のオーディションは
-絶対に合格したいから……",I want to make sure I pass tomorrow's audition…
+絶対に合格したいから……",I want to make sure I pass tomorrow's audition...
 0000000000000,プロデューサー,"そうか……
-だが、気負いすぎるなよ",Really… Don't get too excited.
+だが、気負いすぎるなよ",Really... Don't get too excited.
 1002001040050,灯織,"はい。でも、プロデューサーが私のために
 見つけてくれたものだから、その期待に応えたいんです","Okay. However, you found it for me so I want to meet your expectations."
-0000000000000,プロデューサー,灯織……,Hiori…
+0000000000000,プロデューサー,灯織……,Hiori...
 select,,ならトコトンやるか！,"Let's do it
 until the end!"
 select,,頼もしくなったな,"You've
@@ -27,11 +27,11 @@ overdo it"
 1002001040070,灯織,"プロデューサーの言うとおり、オーディション前に
 体力を使い切ったら本末転倒ですから","Just like you said, if I used up my energy before the audition I'd have things backwards."
 0000000000000,プロデューサー,"あ、ああ……
-すまんな、休めといったのに矛盾していたな……","Ah, yeah… I'm sorry, I told you to take a break and I contradicted that…"
+すまんな、休めといったのに矛盾していたな……","Ah, yeah... I'm sorry, I told you to take a break and I contradicted that..."
 1002001040080,灯織,"ふふ。プロデューサーなりの気づかいだってこと
 ちゃんと伝わってますから、安心してください","Fufu. You got across your concern in your own way, so don't worry about it."
 0000000000000,プロデューサー,"そうか……なら、よかった
-灯織が満足できるまで残りも頑張ろう","I see… Well, that's good. Do your best until you're satisfied."
+灯織が満足できるまで残りも頑張ろう","I see... Well, that's good. Do your best until you're satisfied."
 1002001040090,灯織,はい……！,Okay!
 1002001040100,灯織,"――ふう
 今日はここまでにします",──Phew. I'll end it here for today.
@@ -41,21 +41,21 @@ overdo it"
 1002001040120,灯織,"でも、キリがないし、明日のことを考えるのなら
 ここまでにしておかないと","There's no end but thinking about tomorrow, this will have to be enough."
 0000000000000,プロデューサー,"（どうやら、少しはメンタルをコントロールできるように
-なったらしいな……）",(It seems like she was able to control herself somewhat…)
+なったらしいな……）",(It seems like she was able to control herself somewhat...)
 1002001040130,灯織,"……プロデューサー
 私、成長できているんでしょうか？","Producer, do you think I'm growing?"
 0000000000000,プロデューサー,どうしたんだ？　急に,"What's wrong, all of the sudden?"
 1002001040140,灯織,"いえ……どんなにレッスンを重ねても
-理想の自分に近づけている気がしなくて……","Nothing… I feel like no matter how many lessons I do, I'm not getting closer to my ideal self."
+理想の自分に近づけている気がしなくて……","Nothing... I feel like no matter how many lessons I do, I'm not getting closer to my ideal self."
 0000000000000,プロデューサー,"……灯織は、間違いなく成長していると思う
 初めて会った時と比べると、見違えるほどだ",I think you're growing just fine. You are hardly recognisable compared to when we first met.
 1002001040150,灯織,"そうでしょうか……
-自分ではあまり実感できません……",Really… I don't really feel that way…
+自分ではあまり実感できません……",Really... I don't really feel that way...
 1002001040160,灯織,"でも、明日のオーディションに合格することができたら
-きっと……","I'm sure if I pass tomorrow's audition, then…"
-0000000000000,プロデューサー,（明日は灯織の正念場でもある、か……）,"(Tomorrow is Hiori's critical moment, huh…)"
+きっと……","I'm sure if I pass tomorrow's audition, then..."
+0000000000000,プロデューサー,（明日は灯織の正念場でもある、か……）,"(Tomorrow is Hiori's critical moment, huh...)"
 1002001040170,灯織,"プロデューサー。もしも……
-もしも、明日のオーディションに――","Producer. If I…
+もしも、明日のオーディションに――","Producer. If I...
 If I win the audition tomorrow──"
 0000000000000,プロデューサー,たとえどんな結果になろうとも、灯織は灯織だ,"No matter the result, you are still you."
 1002001040180,灯織,！,Huh?
@@ -67,18 +67,18 @@ If I win the audition tomorrow──"
 1002001040210,灯織,頼もしく、ですか……？,Is that being reliable?
 0000000000000,プロデューサー,"ああ、前までの灯織はどこか余裕がないように見えたけど
 今は、そうじゃないように見える","It looked like before you had no room, but now it doesn't look like that."
-1002001040220,灯織,……そうでしょうか？,…Really?
+1002001040220,灯織,……そうでしょうか？,...Really?
 0000000000000,プロデューサー,灯織……？,Hiori?
 1002001040230,灯織,今でも、余裕なんて全然ないです,Even now I don't at all.
 1002001040240,灯織,"レッスンをこなせばこなすほど
-自分と理想の違いを思い知らされて……","The more I complete lessons, the more I realize the difference between my ideal self…"
+自分と理想の違いを思い知らされて……","The more I complete lessons, the more I realize the difference between my ideal self..."
 1002001040250,灯織,"プロデューサー
-私、本当に変われていますか……？","Producer, am I really changing…?"
+私、本当に変われていますか……？","Producer, am I really changing...?"
 0000000000000,プロデューサー,"……俺は、
 人一倍灯織のことを見てきた",I see you much more than others do.
 0000000000000,プロデューサー,"そんな俺が言うんだから間違いない
 灯織は、成長した。絶対にだ","If I say so, there's no mistake. Hiori, you've grown. Definitely."
-1002001040260,灯織,プロデューサー……はい、ありがとうございます,"Producer… Yes, thank you very much."
+1002001040260,灯織,プロデューサー……はい、ありがとうございます,"Producer... Yes, thank you very much."
 1002001040270,灯織,"まだ不安な気持ちもありますけど
 少しは、自分に自信を持てた気がします","I still have anxiety, but I feel like I have a bit of confidence now."
 0000000000000,プロデューサー,"アイドルを続けていけば
@@ -95,20 +95,20 @@ If I win the audition tomorrow──"
 0000000000000,プロデューサー,……だからこそ心配なんだ,That's exactly why I'm worried.
 1002001040330,灯織,え……？,Huh?
 0000000000000,プロデューサー,"灯織はいつだって本気だ。充分すぎるほど頑張っている
-……でも、頑張りすぎているようにも見えるんだ",You're always serious. You try hard enough. …But I think you're trying too hard too.
+……でも、頑張りすぎているようにも見えるんだ",You're always serious. You try hard enough. ...But I think you're trying too hard too.
 0000000000000,プロデューサー,"いつか、突然倒れたりするんじゃないかって
 心配してるんだぞ？",Aren't you worried you might collapse suddenly some day?
-1002001040340,灯織,プロデューサー……すみません……,Producer… I'm sorry…
+1002001040340,灯織,プロデューサー……すみません……,Producer... I'm sorry...
 0000000000000,プロデューサー,"いや、謝る必要はない。今の灯織があるのは
 その積み重ねてきたレッスンのおかげだからな",There's no need to apologize. What you have now is thanks to those lessons.
 0000000000000,プロデューサー,"よくここまで頑張ったな
 今の灯織は立派なアイドルだ",You did your best. You're a splendid idol now.
-1002001040350,灯織,……,……
+1002001040350,灯織,……,......
 1002001040360,灯織,"……でも、まだまだなんです
-私が理想としている姿には、まだほど遠いんです","…But, I still have farther to go. What I idealize is much farther away."
-0000000000000,プロデューサー,灯織……,Hiori…
+私が理想としている姿には、まだほど遠いんです","...But, I still have farther to go. What I idealize is much farther away."
+0000000000000,プロデューサー,灯織……,Hiori...
 1002001040370,灯織,"でも……このオーディションに受かれば
-少し自信が持てるような気がします",However… If I succeed in this audition I feel like I'll get a bit of confidence.
+少し自信が持てるような気がします",However... If I succeed in this audition I feel like I'll get a bit of confidence.
 0000000000000,プロデューサー,（これもジンクスみたいなものか……）,(Is this also a kind of omen?)
 0000000000000,プロデューサー,そうか。でもな、俺は本当に今の灯織が良いと思ってる,I see. But I truly think that you are good right now.
 0000000000000,,もし落ちたって、審査員に見る目がなかっただけだ！,"If you don't get in, it's because the judge has no eyes!"
@@ -116,7 +116,7 @@ If I win the audition tomorrow──"
 0000000000000,プロデューサー,"そんなことはない。俺はプロデューサーであると同時に
 灯織の最初のファンなんだ",That's not true. I became your first fan the same time I became your producer.
 0000000000000,プロデューサー,灯織のことを一番信じているのは当然だろ？,It's it obvious I would believe in you the most?
-1002001040390,灯織,プロデューサー……,Producer…
+1002001040390,灯織,プロデューサー……,Producer...
 0000000000000,プロデューサー,だから、明日は最高のパフォーマンスを期待しているぞ,So I expect you to give the best performance tomorrow.
 1002001040400,灯織,"……はい
 ファンをがっかりさせるわけにはいきませんからね",Okay. I can't disappoint the fans either.
