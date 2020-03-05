@@ -4183,6 +4183,69 @@
 	  console.log("beep boop this is log, with data ensured");
 	};
 
+	const profileMap = new Map();
+	let profileLoaded = false;
+
+	const getProfile = async () => {
+	  if (!profileLoaded) {
+	    let csv = await getLocalData('profile');
+
+	    if (!csv) {
+	      csv = await fetchWithHash('/data/profile.csv');
+	      setLocalData('profile', csv);
+	    }
+
+	    const list = parseCsv(csv);
+	    list.forEach(item => {
+	      const name = trim(item.name);
+
+	      if (name) {
+	        profileMap.set(name, item);
+	      }
+	    });
+	    profileLoaded = true;
+	  }
+
+	  return profileMap;
+	};
+
+	let profilePrms = null;
+
+	const ensureProfile = async () => {
+	  if (!profilePrms) {
+	    profilePrms = getProfile();
+	  }
+
+	  return await profilePrms;
+	};
+
+	const transProfile = (data, item, profile) => {
+	  if (item == "unit_name" && profile[item]) {
+	    data.unit.name = profile[item];
+	    return;
+	  }
+
+	  if (profile[item]) {
+	    data[item] = profile[item];
+	  }
+	};
+
+	const idolProfiles = async data => {
+	  const profiles = await ensureProfile();
+	  const idolProfile = profiles.get(data.name);
+	  transProfile(data, 'arm', idolProfile);
+	  transProfile(data, 'birthDay', idolProfile);
+	  transProfile(data, 'characterVoice', idolProfile);
+	  transProfile(data, 'firstName', idolProfile);
+	  transProfile(data, 'hobby', idolProfile);
+	  transProfile(data, 'nameKana', idolProfile);
+	  transProfile(data, 'place', idolProfile);
+	  transProfile(data, 'arm', idolProfile);
+	  transProfile(data, 'specialty', idolProfile);
+	  transProfile(data, 'starSign', idolProfile);
+	  transProfile(data, 'unit_name', idolProfile);
+	};
+
 	const nounFixMap = new Map();
 	let nfLoaded = false;
 
@@ -8345,7 +8408,7 @@
 	};
 
 	const requestOfGet = [[[/^userSupportIdols\/\d+$/, /^userSupportIdols\/statusMax/, /^produceTeachingSupportIdols\/\d+$/], [supportSkill, userSptIdolsSkill, 'storyTitle']], [/^userProduce(Teaching)?SupportIdols\/\d+$/, [supportSkill, userProSptIdolsSkill]], [/^userReserveSupportIdols\/userSupportIdol\/\d+$/, [supportSkill, reserveUserSptIdolsSkill]], [/^userIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [/^userSupportIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [[/^userIdols\/\d+$/, /^userIdols\/statusMax$/, /^produceTeachingIdols\/\d+$/], [userIdolsSkill, 'storyTitle']], [[/^userProduce(Teaching)?Idols\/\d+$/, 'userProduceTeachingIdol'], userProIdolsSkill], [/^userReserveIdols\/userIdol\/\d+$/, reserveUserIdolsSkill], [/^userFesIdols\/\d+$/, userFesIdolsSkill], [['userProduces/skillPanels', 'userProduceTeachings/skillPanels'], proSkillPanels], ['userMissions', transMission], [/^fesRaidEvents\/\d+\/rewards$/, fesRaidMission], [['characterAlbums', 'album/top'], 'storyTitle'], [['userShops', 'userIdolPieceShops'], transShopItem], [userItemTypes, transUserItem], [[/^userPresents\?limit=/, /^userPresentHistories\?limit=/], transPresentItem], [/gashaGroups\/\d+\/rates/, 'cardName'], ['userProduces', [topCharacterReaction]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill]];
-	const requestOfPost = [['myPage', [reportMission, mypageComments]], [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]], [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill], ['userShops/actions/purchase', transShopPurchase], [/produces\/\d+\/actions\/ready/, transUserItem], [/userPresents\/\d+\/actions\/receive/, transReceivePresent], [/userMissions\/\d+\/actions\/receive/, transReceiveMission], ['userLoginBonuses', transLoginBonus], ['fesTop', [transFesReward, fesDeckReactions]], [[/^userProduce(Teaching)?s\/skillPanels\/\d+$/, /^userProduces\/limitedSkills\/\d+$/], proSkillPanels], [/userSupportIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, [userSptIdolsSkill, supportSkill]], [/^produces\/actions\/(resume|next)$/, [ideaNotesSkill, topCharacterReaction, produceEndWeek, resumeGamedata, characterComment, produceAudition, produceReporterAnswer, supportSkill]], [['produces/actions/resume', 'produces/actions/finish', 'produceTeachings/resume'], [produceFinish, resumeGameSkill]], ['produces/actions/endWeek', produceEndWeek], ['produces/actions/act', [lessonResult, noteResultSkill]], [/^fes(Match)?Concert\/actions\/start$/, [fesMatchConcert, fesMatchConcertSkill]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], ['produces/actions/result', [trustLevelUp, produceResultSkill]], [[/^produce(Teaching)?s\/(\d+\/audition|concert)\/actions\/start$/, /^produceTeachings\/(auditions|concerts)\/start$/], [auditionSkill]], [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]], ['userProduceHelperSupportIdols', helperSupportIdols], [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]], [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus], [/^characterAlbums\/characters\/\d+$/, 'storyTitle']];
+	const requestOfPost = [['myPage', [reportMission, mypageComments]], [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]], [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill], ['userShops/actions/purchase', transShopPurchase], [/produces\/\d+\/actions\/ready/, transUserItem], [/userPresents\/\d+\/actions\/receive/, transReceivePresent], [/userMissions\/\d+\/actions\/receive/, transReceiveMission], ['userLoginBonuses', transLoginBonus], ['fesTop', [transFesReward, fesDeckReactions]], [[/^userProduce(Teaching)?s\/skillPanels\/\d+$/, /^userProduces\/limitedSkills\/\d+$/], proSkillPanels], [/userSupportIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, [userSptIdolsSkill, supportSkill]], [/^produces\/actions\/(resume|next)$/, [ideaNotesSkill, topCharacterReaction, produceEndWeek, resumeGamedata, characterComment, produceAudition, produceReporterAnswer, supportSkill]], [['produces/actions/resume', 'produces/actions/finish', 'produceTeachings/resume'], [produceFinish, resumeGameSkill]], ['produces/actions/endWeek', produceEndWeek], ['produces/actions/act', [lessonResult, noteResultSkill]], [/^fes(Match)?Concert\/actions\/start$/, [fesMatchConcert, fesMatchConcertSkill]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], ['produces/actions/result', [trustLevelUp, produceResultSkill]], [[/^produce(Teaching)?s\/(\d+\/audition|concert)\/actions\/start$/, /^produceTeachings\/(auditions|concerts)\/start$/], [auditionSkill]], [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]], ['userProduceHelperSupportIdols', helperSupportIdols], [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]], [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus], [/^characterAlbums\/characters\/\d+$/, [idolProfiles, 'storyTitle']]];
 	const requestOfPatch = [[/^userSupportIdols\/\d+$/, supportSkill], ['userFesDecks', userFesDeck]];
 	async function requestHook() {
 	  const request = await getRequest();
