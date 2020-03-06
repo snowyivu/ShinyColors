@@ -11,8 +11,10 @@ What do you think… about outfits that looks good on Tenka?"
 甜花に似合う服は、たぶん……","That's right…
 An outfit that looks great on Tenka, maybe…"
 select,,落ち着いた服,A calming outfit.
-select,,意外と派手な服,A surprisingly flashy outfit.
-select,,甜花が選ぶ服,An outfit chosen by Tenka herself.
+select,,意外と派手な服,"A surprisingly 
+flashy outfit."
+select,,甜花が選ぶ服,"An outfit chosen 
+by Tenka herself."
 1015001000710030,甜花,"う、うん……
 甜花も、そういうの好き……にへへ……","Y-Yes…
 Tenka also likes that… Nihehe."

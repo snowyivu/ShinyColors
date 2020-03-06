@@ -7,9 +7,12 @@ Um… Tenka thinks that there's too many lessons in it…"
 どうしよう……きっと失敗、しちゃう……","Tenka isn't really good at lessons…
 What should she do… Surely, she'll fail again…"
 0000000000000,プロデューサー,（レッスンで失敗するかもしれないのが不安なのか……）,(It seems like she's worried she'll fail her lessons…)
-select,,また一歩上達できる,You can improve even more.
-select,,やるしかないな,You'll just have to do it.
-select,,頑張らないとな,Just do  your best.
+select,,また一歩上達できる,"You can improve
+even more."
+select,,やるしかないな,"You'll just 
+have to do it."
+select,,頑張らないとな,"Just do 
+your best."
 1015001000910030,甜花,"そっか……レッスン、たくさんすれば……
 いつか、できるように……","Is that so… If you do a lot of lessons…
 Someday you'll be good at them…"
