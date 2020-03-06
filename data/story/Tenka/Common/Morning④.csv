@@ -11,9 +11,12 @@ Tenka doesn't really like to go out…"
 0000000000000,プロデューサー,"（うーん……
 甜花は家にいたいのか……？）","(Hm…
 Does Tenka want to stay home?)"
-select,,家は楽だもんな,Staying at home is nice.
-select,,出かけるのも楽しいぞ,Going out is fun too.
-select,,帰りたいのか？,Want to go home?
+select,,家は楽だもんな,"Staying at home 
+is nice."
+select,,出かけるのも楽しいぞ,"Going out 
+is fun too."
+select,,帰りたいのか？,"Want to 
+go home?"
 1015001000410030,甜花,"うん……お家にいるとパソコンも……
 ゲームもできるし……","Yes… when I'm at home…
 There's PC and console games for Tenka to play…"

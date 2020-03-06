@@ -1,0 +1,76 @@
+id,name,text,trans
+0000000000000,プロデューサー,まいったなぁ……こんなに急に降り出すなんて,Oh man… I didn't expect to suddenly rain like this.
+2012003020010,凛世,しばらく、雨宿りでしょうか……,"For the mean time, we should find a place where we can wait for the rain to stop."
+0000000000000,プロデューサー,"そうだな……俺も折り畳み傘くらい持っておくべきだった
+すまん、凛世","Yeah… I should've brought at least a foldable umbrella.
+I'm so sorry, Rinze."
+2012003020020,凛世,凛世は、かまいません……,I do not mind this at all.
+2012003020030,凛世,──くしゅん,──Achoo
+0000000000000,プロデューサー,凛世、着物が濡れてるじゃないか……！,"Rinze, your kimono's all drenched!"
+0000000000000,プロデューサー,"気づかなくてすまん！
+とりあえず、この上着を着ててくれ","I'm really sorry I only noticed it now!
+Here, have my coat."
+2012003020040,凛世,"いえ……
+プロデューサーさまに、ご迷惑はかけられません","Thank you…
+but I do not want to cause any more trouble to you."
+0000000000000,プロデューサー,"そういう訳にもいかないよ
+……仕方ない、ちょっとコンビニに行ってくるか","That won't do.
+Alright, how about we stop by at a convenience store?"
+2012003020050,凛世,"凛世は……
+本当に、かまわないのです……","I am not bothered
+about this at all."
+0000000000000,プロデューサー,"いや、傘を買ってくるよ
+たしか近くに一軒あったはずだから","Even so, I'll buy an umbrella.
+I'm sure that there's one nearby."
+2012003020060,凛世,"いえ、お心遣いだけで
+充分でございます……","No, your concern for me
+is more than enough."
+0000000000000,プロデューサー,"大丈夫大丈夫
+ちょっと濡れるくらい、なんてこと……","Don't worry about it.
+Get wet from a little rain won't hurt."
+2012003020070,凛世,ですが……,But…
+0000000000000,プロデューサー,"（いや……しかし、
+濡れてる凛世を残していくのも心配だ……）","(Even so, I'm also worried about
+leaving Rinze here all wet and all alone.)"
+0000000000000,プロデューサー,"でも、そうだな……すぐにやむかもしれないし、
+少し様子を見ようか","Still, this rain might stop any time soon, so how about we wait it out a little?"
+2012003020080,凛世,はい、ぜひ……そのように,"Yes, let us do just that."
+0000000000000,プロデューサー,……,……
+2012003020090,凛世,……,……
+0000000000000,プロデューサー,"……なかなか止まないな
+さっきより激しくなってきたような……","The rain is not showing any signs of stopping.
+It even appears to have gone worse."
+2012003020100,凛世,はい……,It seems that way.
+0000000000000,プロデューサー,"冷えてきたし、やっぱり上着貸そうか？
+凛世に風邪はひかせられないよ","How about I lend you my jacket?
+Can't help seeing you getting a cold. "
+2012003020110,凛世,"……プロデューサーさま
+凛世も、同じ気持ちなのでございます","Producer-sama,
+I feel the same way."
+0000000000000,プロデューサー,え……？,Huh?
+2012003020120,凛世,"凛世も、プロデューサーさまに
+お風邪をひいてほしくないのです……","I too do not wish for you
+to catch a cold and get sick."
+0000000000000,プロデューサー,（……そうか。凛世も俺を心配してくれていたのか）,"(I see. So, Rinze is worried about me too.)"
+0000000000000,プロデューサー,……ありがとう、凛世,"Thank you, Rinze."
+2012003020130,凛世,凛世は、何も……,This is nothing special.
+0000000000000,プロデューサー,"いや、なんていうか、
+凛世の言葉で、体もあたたまったって感じがするよ","How should I say this…
+Your words make me feel warm."
+2012003020140,凛世,"そのような……
+お役に立てたなら、うれしく思います","Oh…
+It would make me happy that I could be of help to you."
+2012003020150,凛世,それに、凛世も……,And that…
+2012003020160,凛世,"とてもあたたかいのです、
+プロデューサーさま","I feel warm,
+Producer-sama."
+0000000000000,プロデューサー,……そうか……？,…Really?
+2012003020200,凛世,はい……,Yes.
+2012003020270,凛世,"お許しいただけるならば……
+凛世は、このまま……","If you would allow it…
+I wish for us to remain like this."
+2012003020280,凛世,"……このまま、
+雨が、上がらなければよいと、思うのです……","I think that it would be just fine
+if we stay like this and the rain to not stop."
+info,produce_events/201200502.json,
+译者,,

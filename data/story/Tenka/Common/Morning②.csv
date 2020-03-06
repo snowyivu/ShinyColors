@@ -10,8 +10,10 @@ To a place where Naa-chan feels happy as well?"
 それなら……","Have you decided where to go with Amana?
 In that case…"
 select,,ゲームセンターとか,Game Center?
-select,,カラオケはどうだ？,How about karaoke?
-select,,服を見るのも楽しい,It'll be fun to browse clothes.
+select,,カラオケはどうだ？,"How about 
+karaoke?"
+select,,服を見るのも楽しい,"It'll be fun to 
+browse clothes."
 1015001000210030,甜花,"ゲームセンター……それ、いいかも……
 なーちゃんと一緒に、ゲーム……楽しそう……","A Game Center… that sounds nice…
 Playing games with Naa-chan… sounds like fun…"
