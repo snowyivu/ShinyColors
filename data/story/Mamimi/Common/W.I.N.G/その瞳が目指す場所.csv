@@ -1,0 +1,52 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"You, what do you think of your idol?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","...We certainly lost, but even so,
+I still think she's the best idol."
+6902001070020,社長,……！　そうか……,...! Is that so...?
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね","Fufu~ 
+That's exactly what the president wanted to hear."
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","Had you said the wrong thing, he was going to scold you."
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...You're annoying. Anyways, 
+If that's what you think, then I have nothing else to say."
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい","Now, hurry up and go meet that best idol of yours!"
+0000000000000,プロデューサー,……はい！,...Yes!
+0000000000000,プロデューサー,"大丈夫か、摩美々
+少しは心の整理ができたか？","You alright, Mamimi?
+Did you put your thoughts in place?"
+6005001070010,摩美々,"……まみみ、小さい頃から甘やかされて育って
+何をやっても褒められてきたんですよねー","...Since I was little, people around me always spoiled me
+No matter what I did, I was always being praised."
+6005001070020,摩美々,"失敗しても怒られなくて、
+イタズラしても見て見ぬフリされてて","Even if I failed, they wouldn't get angry
+Even if I pranked them, they would turn a blind eye on it."
+6005001070030,摩美々,"生きている意味がわからない、は大げさですけどー
+なにかをやりたいって思ったことがなかったんですー","Saying that I don't know the meaning of being alive would be an exaggeration, but...
+I never really felt like I wanted to do anything in particular."
+0000000000000,プロデューサー,"摩美々……
+それでアイドルに……？","Mamimi...
+What about being an idol...?"
+6005001070040,摩美々,"プロデューサーに興味があったから
+なんとなくで始めただけなんですよー","Because I was interested in producer,
+I just kinda started doing it on a whim."
+6005001070050,摩美々,"でも、ファンから応援して貰ったら、純粋にうれしくてー
+ずっと続けたらぁ、やりたいことが見つかるかもなんてー","But, receiving the suport from the fans, I felt genuinely happy
+If it kept going like that, I might find something I wanted to do."
+6005001070060,摩美々,"思ってたんですけどー、……ライブで負けちゃったらぁ
+なんか、頑張りたくなくなっちゃったぁ……","That's what I thought... But after failing the live,
+It kind of makes me regret trying that hard..."
+0000000000000,プロデューサー,"……今は悔しくてやる気がなくなったのかもしれない
+けど、これからもアイドルは続けられるんだ","...You might be dissapointed and regretting things now,
+But the fact is, you're still an idol."
+0000000000000,プロデューサー,"ファンに応援して貰って嬉しかったなら
+もっと頑張ってみれば、目標が見つかるかもしれないぞ？","If you are happy being supported by your fans, 
+Keep doing your best, and maybe you will find a goal."
+6005001070070,摩美々,"……わかりましたぁ、まみみ、プロデューサーの言う通り
+もう少しだけ頑張ってみます……！","...Gooot it, Mamimi will do as producer says
+Just a little bit more, I'll do my best...!"
+info,produce_events/600500107.json,
+译者,,

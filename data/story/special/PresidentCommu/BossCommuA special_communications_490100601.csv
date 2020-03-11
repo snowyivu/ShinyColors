@@ -1,0 +1,37 @@
+id,name,text,trans
+4901006010010,社長,入ってくれ,Come in.
+0000000000000,プロデューサー,し、失礼します……！　社長、お呼びでしょうか……？,"S-Sorry for coming in so suddenly! President Amai, did you need something?"
+4901006010020,社長,"ご苦労……忙しいところすまないな
+掛けてくれ","I've been giving you a hard time... Being hectic and inexcusable,
+And not answering your calls."
+0000000000000,プロデューサー,"は、はい！
+……あの、私、何かしてしまったんでしょうか……？","Y-Yes!
+...So, umm, did I do something wrong?"
+4901006010030,社長,何……？　何か心当たりでもあるのか？,Hmm? Is there something on your mind?
+0000000000000,プロデューサー,"い、いえそんな！　……でも、社長に呼び出されるの、
+珍しいなと思いまして……","N-Nothing! ...It's just, you suddenly called me,
+and I thought that it was kinda unusual."
+4901006010040,社長,"フン……安心しろ
+今日は小言を言うためにお前を呼び出した訳ではない","Hmm... But don't worry,
+I didn't call you today just to scold you, "
+4901006010050,社長,日頃の業務の振り返りも兼ね、面談でもと思ってな……,"Infact, I had to take a look back on my daily work, and there was an interview."
+0000000000000,プロデューサー,め、面談ですか……？　あ、ありがとうございます…………,"A-An interview...? Oh, I see..."
+4901006010060,社長,"なんだ、不服なのか？　
+面談の結果によっては、ボーナスも考えていたんだがな……","Is there something you're dissatisfied with? Coming from this interview's result, I was thinking about giving bonuses..."
+0000000000000,プロデューサー,ボーナスですか！？　社長、ありがとうございます……！,"Bonuses!? President Amai, seriously thank you!"
+4901006010070,社長,"フン、喜ぶのはまだ早いぞ、プロデューサー
+お前の返答次第では……覚悟することだ","Hey, it's too early for you to celebrate, Producer.
+I'll be depending on your responses, so be prepared."
+0000000000000,プロデューサー,は……はい！　頑張ります……！,R-Right! I'll do my best...!
+4901006010080,社長,"それでは早速はじめよう
+……プロデューサー、アイドルとはうまくやれているのか？","Well then, let's get started.
+...Producer, are you doing well with the idols?"
+select,,まあそれなりに……,"Well, accordingly..."
+select,,"アイドルに
+教わることも多いです","I often learn
+from the idols"
+select,,"むしろアイドルに
+頼りきりです","I rely on the idols,
+instead"
+info,special_communications/490100601.json,
+译者,,

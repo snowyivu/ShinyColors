@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,智代子,"勝ちました！
 プロデューサーさん、勝ちましたよ！","I won!
-Producer-san, I won!"
+Producer, I won!"
 0000000000000,プロデューサー,"あぁ、見てたよ。おめでとう、智代子
 よく頑張ったな","Yeah, I was watching. Congratulations, Chiyoko.
 You did great."
@@ -19,6 +19,6 @@ I didn't say anything weird just now, right?"
 0000000000000,智代子,え？　……えへへ、そうですかね,"Eh? ...Ehehe, you're right."
 0000000000000,智代子,"それじゃあ、次も同じように、いつもの私で行きますよ！
 見ててくださいね、プロデューサーさん！","Well then, next time, I'll do the same thing and be myself!
-Please watch me, Producer-san!"
+Please watch me, Producer!"
 info,produce_events/601000103.json,
 译者,,

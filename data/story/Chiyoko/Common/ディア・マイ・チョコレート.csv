@@ -1,12 +1,12 @@
 id,name,text,trans
 6901001090010,はづき,"プロデューサーさん！
-『W.I.N.G.』優勝、本当におめでとうございます！","Producer-san!
+『W.I.N.G.』優勝、本当におめでとうございます！","Producer!
 Big congratulations on your idol winning W.I.N.G.!"
 6901001090020,はづき,"私も会場で見てたんですけど、
 発表の瞬間、思わず大声を出しちゃいましたよ！",I was watching from the audience like you were. When they announced the results I screamed without even thinking!
 6901001090030,はづき,"今もまだ興奮しちゃってて、
 今日はもう眠れそうにありません！","I'm still full of excitement, I don't think I'll even be able to sleep tonight!"
-0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Hazuki-san, thank you so much!"
+0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Hazuki, thank you so much!"
 6902001090010,社長,"本当によくやった
 期待以上の結果を出してくれたな","You've done a very fine job.
 These results have far exceeded my expectations. "
@@ -35,7 +35,7 @@ Go and see her!"
 "
 0000000000000,プロデューサー,はい！　もちろんです！,"Yes! Absolutely! "
 0000000000000,プロデューサー,智代子、お疲れ様,"Chiyoko, good job."
-6010001090010,智代子,あ！　プロデューサーさん！,Ah! Producer-san!
+6010001090010,智代子,あ！　プロデューサーさん！,Ah! Producer!
 0000000000000,プロデューサー,はは、嬉しそうだな,"Haha, you seem happy."
 6010001090020,智代子,"もちろん、すっごく嬉しいです！
 だって私たち、優勝したんですよ！","Of course, I'm super happy!
@@ -73,7 +73,7 @@ It's good that you continued working as a chocolate idol."
 こんなに頑張れてなかったと思います","If you weren't here, I...
 I don't think I would've been able to try my best."
 6010001090160,智代子,"……だから、プロデューサーさん
-改めて、ありがとうございます！","...So, Producer-san, thank you again!"
+改めて、ありがとうございます！","...So, Producer, thank you again!"
 0000000000000,プロデューサー,"……智代子はきっと、ひとりでもチョコアイドルを
 諦めたりなんかしなかっただろうし",...I'm sure you wouldn't have done anything like give up on being a chocolate idol if you were by yourself.
 0000000000000,プロデューサー,俺がいなくても輝けるアイドルだ,You are an idol who can shine without me.
@@ -82,7 +82,7 @@ I don't think I would've been able to try my best."
 ……ここまで一緒に頑張ってくれてありがとう","However, let me say this.
 ...Thank you for doing your best together with me all this time."
 6010001090180,智代子,"！　……プロデューサーさん……！
-えへへ……なんだか照れちゃいますね……！","! ...Producer-san...!
+えへへ……なんだか照れちゃいますね……！","! ...Producer...!
 Ehehe... this is sort of embarrassing...!"
 6010001090190,智代子,"こんなにたくさん支えてもらったんだから
 私も、プロデュースして良かったって思ってもらわなきゃ！","You've supported me so much, so I have to think that it's good that you're my producer!"
@@ -93,6 +93,6 @@ I'm truly happy that I was able to produce you."
 0000000000000,プロデューサー,なら、俺も負けないように頑張らないとな！,"In that case, I'll have to do my best to not lose to you!"
 6010001090210,智代子,えへへ……そうですね！,Ehehe... that's right!
 6010001090220,智代子,"これからも、ずーっとよろしくお願いしますね
-プロデューサーさん！","I'm looking forward to working together with you for a looong time, Producer-san!"
+プロデューサーさん！","I'm looking forward to working together with you for a looong time, Producer!"
 info,produce_events/601000109.json,
 译者,,

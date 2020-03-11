@@ -12,7 +12,7 @@ id,name,text,trans
 6902001070040,社長,"さあ、早くその最高のアイドルに
 会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
 0000000000000,プロデューサー,……はい！,...Of course!
-6010001070010,智代子,あっ、プロデューサーさん、お疲れ様です！,"Ah, Producer-san, thanks for all your hard work!"
+6010001070010,智代子,あっ、プロデューサーさん、お疲れ様です！,"Ah, Producer, thanks for all your hard work!"
 6010001070020,智代子,"あの！　私、今後のために色々と考えたんです！
 まずですね、チョコアイドルとしては──","Um! I thought a lot about what will happen next.
 First is, as a chocolate idol, I──"
@@ -25,7 +25,7 @@ I have to try my best again, after all!"
 0000000000000,プロデューサー,"……そうか
 さすが、智代子だな","...I see.
 Just what I'd expect from you."
-6010001070040,智代子,……えへへ、プロデューサーさんは、やっぱり優しいです,"...Ehehe, you really are kind, Producer-san."
+6010001070040,智代子,……えへへ、プロデューサーさんは、やっぱり優しいです,"...Ehehe, you really are kind, Producer."
 6010001070050,智代子,"あの、私、もっと成長できるように、
 まだまだ挑戦してみてもいいですか？","Um, I want to keep on growing, so is it okay if I try again?"
 0000000000000,プロデューサー,"智代子なら、そう言ってくれると思ってた
@@ -37,6 +37,6 @@ You won't be disheartened or take a break, will you."
 6010001070070,智代子,"とにかく、アイドル活動はすっごくすっごく楽しいので、
 こんなところで止まるなんてありえないです！","Anway, working as an idol is really, really fun, so it's impossible for me to stop here!"
 6010001070080,智代子,"もっと輝いた姿を、ファンのみんなにも
-プロデューサーさんにも、絶対見てもらいますから！",I'll definitely show my fans and Producer-san a more shining version of myself!
+プロデューサーさんにも、絶対見てもらいますから！",I'll definitely show my fans and Producer a more shining version of myself!
 info,produce_events/601000107.json,
 译者,,
