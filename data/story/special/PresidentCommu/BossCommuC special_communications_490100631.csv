@@ -1,0 +1,31 @@
+id,name,text,trans
+4901006030010,社長,"ほう
+アイドルを導くべき立場のお前が、か？","Oh?
+Are you in some sort of position to guide that idol?"
+0000000000000,プロデューサー,"はい……
+みんなと話していると気付かされることが多くて","Yes...
+I often get noticed by others when I'm talking with someone."
+0000000000000,プロデューサー,まだまだ勉強することばかりの毎日です,"Well, after all, everyday is just learning about others."
+4901006030020,社長,"それは恥ずべきことではない
+アイドルたちが切磋琢磨して成長していくように","It doesn't make me feel ashamed,
+As long they work their hardest and grow as an Idol."
+4901006030030,社長,"お前とアイドルも互いに刺激しあい、
+共に成長していけばいい","You and the idol should also encourage each other,
+So that you both can grow together as well."
+0000000000000,プロデューサー,"……はい！
+ありがとうございます！","Y-Yes!
+Thank you!"
+4901006030040,社長,"…それでは次の質問だ
+お前の将来像を教えてくれ","...Onto the next question,
+Tell me about your future's goals."
+select,,"理想のプロデューサーを
+目指します","Aim as an 
+ideal producer"
+select,,"このまま
+プロデュースを続けます","Continue producing
+as usual"
+select,,"忙しくて、
+つい後回しに……","I'm busy, so
+just postpone it"
+info,special_communications/490100631.json,
+译者,,

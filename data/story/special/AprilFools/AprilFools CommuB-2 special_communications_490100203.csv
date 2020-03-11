@@ -1,0 +1,93 @@
+id,name,text,trans
+4901002030010,はづき,"あ～……
+お気遣いありがとうございます～……","Oh.
+Thank you for your concern."
+0000000000000,プロデューサー,"いえいえ
+それじゃあ、ちょっと待っていてください","Don't mention it.
+Please wait here for a moment."
+0000000000000,プロデューサー,"う～ん……薬局にも人がいないなんて……
+やっぱり、何かおかしいような……","Hmm... There's also no one at the drugstore.
+Something strange is really going on."
+0000000000000,プロデューサー,もしかして、みんな無人島にでも行ってしまったんじゃ──,Maybe everyone got whisked away to some uninhabited island?
+0000000000000,プロデューサー,"ん！？　向こうから人の声が……！
+はづきさん以外にも人がいたのか……？","Hmm? I hear someone over there!
+Someone else besides Hazuki is still around?"
+0000000000000,プロデューサー,とにかく行ってみよう！,"Anyways, I'll check it out!"
+4901002030020,果穂,～♪,Hmmhmhm♪
+0000000000000,プロデューサー,"あれ？
+向こうにいるのは果穂か……？","Hmm?
+Isn't that Kaho?"
+0000000000000,プロデューサー,おーい、果穂ー！,"Oi, Kaho!"
+4901002030030,果穂,"あっ、プロデューサーさんっ
+えへへ、こんなところで会うなんて──","Ah, Producer.
+Ehehe  I didn't expect to see you here."
+0000000000000,プロデューサー,"か、果穂！
+危ない！！","K-Kaho!
+Look out!"
+0000000000000,プロデューサー,果穂ー！！,KAHO!!
+4901002030040,果穂,"いたた……っ
+お尻、打っちゃいました……","Owow...
+My butt has been hit..."
+0000000000000,プロデューサー,"か、果穂……？
+その……平気、なのか……？","K-Kaho?
+Umm... Are you alright?"
+4901002030050,果穂,"あ！　しまった……！
+これは……その……！","Ah! Oh no!
+Umm... this is..."
+0000000000000,プロデューサー,"ぶつかってきた車はへこんでるし……
+一体何がどうなって……","The car that bumped you got a dent.
+Just what is going on here?"
+4901002030060,果穂,えっとですね……あの、その……,"You see... umm, well..."
+4901002030070,果穂,──プロデューサーさん、ごめんなさいっ,"I'm so sorry, Producer."
+0000000000000,プロデューサー,果穂！？　待ってくれ！,Kaho? Don't go!
+0000000000000,プロデューサー,"くっ……！
+早く追いかけないと……！","Tch.
+I have to catch up to her!"
+4901002030080,摩美々,…………,……
+0000000000000,プロデューサー,"わっ！？
+ま、摩美々か……？","Ah!?
+M-Mamimi?"
+4901002030090,摩美々,"……ふふー、プロデューサー
+これ、あげまぁす","Fufu, Producer
+I'll give you this."
+0000000000000,プロデューサー,"ん？　手紙……？
+これは一体……？","Hmm? A letter?
+What is this about?"
+4901002030100,摩美々,"ふふー……
+ついてきたら、教えてあげますよー","Fufu,
+I'll tell you if you follow me."
+0000000000000,プロデューサー,"お、おい……！
+行ってしまった……","H-Hey!
+And there she goes."
+0000000000000,プロデューサー,"う～ん……摩美々のことも気になるけど
+果穂のことも心配だ……",Hmm... I'm curious about Mamimi's got to say but I'm also worried about Kaho.
+0000000000000,プロデューサー,ここは……,I should──
+select,,電話をかけてみるか,Try calling
+select,,果穂を追いかけよう,Run after Kaho
+select,,摩美々に真意を尋ねよう,Ask Mamimi about her real motive
+4901002030110,社長,私だ,It's me.
+0000000000000,プロデューサー,"え！？
+社長、ですか……？","Eh?
+Is that you, President?"
+4901002030120,社長,何か用か？,Is there something you need?
+0000000000000,プロデューサー,"あ、いえ……！
+アイドルの携帯にかけたつもりだったのですが……","No, I'm sorry!
+I was actually trying to call one of our idols."
+4901002030130,社長,"まぁいい。ちょうど話したいことがあったからな
+少し時間いいか？","Okay. I do have something to talk to you about.
+Do you have some time?"
+0000000000000,プロデューサー,"あっ、はい
+わかりました","Oh, yes.
+I understand."
+0000000000000,プロデューサー,"ふぅ……少し長くなってしまったな
+果穂と摩美々は……さすがにもういないよな……","Whew... That took longer than I expected.
+Looks like both Kaho and Mamimi are gone now."
+0000000000000,プロデューサー,一旦事務所に戻ろう……,I'll just go back to the office for now.
+0000000000000,プロデューサー,"あれ、はづきさん……？
+いないのか……","Hmm? Hazuki?
+She's gone."
+0000000000000,プロデューサー,おーい……誰か、いたら返事してくれ～……,Oi! Is anyone around? Please answer!
+0000000000000,プロデューサー,誰か～……,Anyone?
+0000000000000,,『古びたメモを発見した』,"""There was an old note."""
+info,special_communications/490100203.json,
+译者,,

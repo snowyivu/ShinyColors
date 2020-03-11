@@ -1,0 +1,16 @@
+id,name,text,trans
+4901006040010,社長,アイドルが頼りになるのは良いことだが……,"Well, it's good to be able to rely on idols..."
+4901006040020,社長,"頼ってばかりでは困るぞ
+お前にはアイドルを導いてもらわねばならんからな","However, it's not enough to just rely on them,
+I got you to guide them as an Idol."
+0000000000000,プロデューサー,は、はい、気を付けます,Y-Yes... I'll be careful...
+4901006040030,社長,"ああ、わかればいい
+次は、お前の強みを教えてくれ","Yeah, just wanted to say that.
+Next, tell me about your strengths."
+select,,仕事のスピードです,Finishing work at speed
+select,,"アイドルに
+向き合う気持ち","Facing on an
+idol's mood"
+select,,ユーモアです,My good humor
+info,special_communications/490100641.json,
+译者,,

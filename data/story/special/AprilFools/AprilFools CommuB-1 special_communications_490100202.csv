@@ -1,0 +1,125 @@
+id,name,text,trans
+0000000000000,プロデューサー,"無理やりにでも一度寝たほうがいいと思いますよ
+疲れていたら、いい仕事はできないですから","Even if you're pushing yourself, it's better to get some sleep.
+After all, you can't do good work if you're tired."
+4901002020010,はづき,"そう言われてしまうと……
+わかりました、一度休むことにしますね～……","Now that you said it...
+Okay, I'll try going for a quick rest."
+4901002020020,はづき,"それじゃあ、お言葉に甘えて
+奥で寝かせてもらいますね～……","Well, I'll be taking up
+your offer and sleep inside."
+0000000000000,プロデューサー,はい、ゆっくり休んでください,Okay. Take your time to get plent of rest.
+0000000000000,プロデューサー,"…………
+はづきさん、大丈夫かな……","Hmm... I wonder if Hazuki
+would be alright."
+4901002020030,真乃,おはようございます,Good morning.
+0000000000000,プロデューサー,ま、真乃！？,M-Mano!?
+4901002020040,真乃,"ほわ……っ
+ど、どうかしたんですか、プロデューサーさん？","Ah.
+W-What's the matter, Producer?"
+0000000000000,プロデューサー,"あ、いや……真乃と会えるなんて
+思ってなかったからさ……","No, it's just that
+I didn't expect to see you, Mano."
+4901002020050,真乃,"そう、なんですか……？
+どうしてそんなに──あっ……！","Is that so?
+Why is it that strange── Ah!"
+4901002020060,真乃,"そ、そう言えば、今日はお休みの日でしたね……
+勘違いして来ちゃいました……","C-Come to think of it, today is a day-off.
+I mistook the date and came here."
+0000000000000,プロデューサー,あ……はは、そうだったのか,"Oh, haha. So, that's what happened."
+4901002020070,真乃,えへへ、ごめんなさい……,"Ehehe, sorry about that."
+0000000000000,プロデューサー,"（う～ん……何か変な感じがしていたが
+真乃もいつも通りだし、俺の勘違いだったのかもな）",(Hmm... Something doesn't feel right but Mano seems to be the same as usual. Maybe it's just me?)
+0000000000000,プロデューサー,"はは、何も謝ることはないよ
+真乃はどうする？　オフなんだし、帰るか？","Haha, no need to apologize.
+What would you do now? Since it is a day-off, maybe go back home?"
+4901002020080,真乃,"そうですね
+ピーちゃんのお散歩もありますし……","Let's see.
+I do have to take a walk with Pii-chan."
+0000000000000,プロデューサー,なら、気をつけて帰るんだぞ,"Well, careful on the way home."
+4901002020090,真乃,"はいっ
+ありがとうございます、プロデューサーさんっ","I will.
+Thank you for worrying about me, Producer."
+0000000000000,プロデューサー,"あれ？　はは、今日の真乃はうっかり屋だな
+そっちは出口じゃな──","Hmm? Haha  You seem to be forgetful today, Mano.
+That's not the exit──"
+4901002020100,真乃,──,──
+0000000000000,プロデューサー,"（……？
+どうしたんだ、窓の前に立って）","(Huh?
+Why is Mano standing in front of the window?)"
+4901002020110,真乃,……すぅ～,*inhale*
+4901002020120,真乃,ぽっぽる～,Coo-coo-roo!
+0000000000000,プロデューサー,"ま、真乃！？
+何を言って──","M-Mano!?
+What are you──"
+4901002020130,真乃,"行こっ
+ピーちゃんっ","Let's go,
+Pii-chan."
+0000000000000,プロデューサー,（真乃が……真乃が……！）,(Mano... She...)
+0000000000000,プロデューサー,（大きいピーちゃんに乗って飛び去って行った……！）,(She rode on a huge Pii-chan and flew away!)
+0000000000000,プロデューサー,"やっぱり、この世界はおかしいぞ！
+ひとまず、真乃を追いかけよう！","I knew this world is weird!
+I have to run after Mano!"
+4901002020140,？？？,あっ……！,Ah...!
+0000000000000,プロデューサー,"うわっ、申し訳ありません！
+少し急いでいたもので──","Oh, I'm so sorry about that!
+I was in a little rush and──"
+4901002020150,甜花,………,……
+0000000000000,プロデューサー,"あ、甜花か……すまん！
+もっと気をつけて走るべきだった……","Oh, it's you, Tenka. Sorry!
+I should've been more careful as I ran."
+4901002020160,甜花,…………,……
+0000000000000,プロデューサー,"ん……？
+どうしたんだ、何か様子が──","Hmm?
+What's the matter? Something doesn't seem right──"
+4901002020170,甜花,"……お家で待ってるね……
+今日はみんな、いるから……","Tenka's waiting for you at home...
+Everyone will be there today..."
+0000000000000,プロデューサー,"え？　て、甜花、それはどういう……
+って、もういないか……","Huh? T-Tenka, what do you mean by──
+Oh, she's gone."
+0000000000000,プロデューサー,"真乃のことも、
+甜花のことも気になるが……","I'm worried about
+Mano and Tenka."
+0000000000000,プロデューサー,ここは──,But what I have to do now is──
+select,,真乃を追いかけよう,Run after Mano
+select,,"甜花のところに
+行ってみるか",Go to where Tenka is
+select,,"どうすべきか、
+もっと考えよう……","Think more on
+what to do"
+0000000000000,プロデューサー,"一体何がどうなってるんだ……
+俺はアイドルたちを……う～ん……","Just what is going on here?
+Should I check our idols? Hmm..."
+4901002020180,はづき,ふぁ……プロデューサーさん～……,Hwaa... Producer.
+0000000000000,プロデューサー,"あれ？
+はづきさん、どうかしたんですか？","Hmm?
+What is it, Hazuki?"
+4901002020190,はづき,"ちょっとお話しておきたいことがあったのを
+思い出しまして～……","I just remembered about something
+I want to talk to you about."
+0000000000000,プロデューサー,え？,Huh?
+0000000000000,プロデューサー,もうすぐ本番か……,It's almost time for the actual thing.
+4901002020200,はづき,ふふ、緊張していますか～？,"Fufu, feeling nervous?"
+0000000000000,プロデューサー,"はづきさん……ええ、さすがに俺自身が
+アイドルをやるなんて、考えたこともなかったですから……","Hazuki... Yes, I am. The thought of me becoming an idol hasn't crossed my mind before."
+0000000000000,プロデューサー,"でも、不思議な気分でもあるんです
+何か、突き動かされるような……こんな感覚は初めてです","But, there's also this strange feeling. That something's driving me to do this... This is the first time I felt something like this."
+4901002020210,はづき,"……ふふっ、今日は良いステージが見られそうですね～
+プロデューサーさん♪","Fufu, looks we'll be seeing a nice stage today,
+Producer."
+0000000000000,プロデューサー,"はは。今は、はづきさんのほうが
+プロデューサーですよ","Haha, but, Hazuki,
+you're the producer now."
+0000000000000,プロデューサー,今の俺は、『元』プロデューサーですから,"After all, I'm a ""former"" producer."
+4901002020220,はづき,"あっ……ふふ、そうでしたね～
+でも、私にとってはこっちのほうが呼び慣れてますから","Oh. Fufu, that's right.
+But, I'm used to calling you that."
+4901002020230,はづき,"改めまして……プロデューサーさん、
+ステージ頑張ってきてくださいっ","Let me say it again, Producer. Please give it your all when you're on the stage."
+0000000000000,プロデューサー,"──はい！
+俺のサイコーのアイドル姿、見ていてください！","I will!
+Please have a good look at my best idol self!"
+0000000000000,,『古びたメモを発見した』,"""There was an old note."""
+info,special_communications/490100202.json,
+译者,,

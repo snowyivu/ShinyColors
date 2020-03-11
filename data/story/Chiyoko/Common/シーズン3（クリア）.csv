@@ -1,6 +1,6 @@
 id,name,text,trans
-0000000000000,プロデューサー,智代子、結果が――,"Chiyoko, the results are――"
-7010001050010,智代子,プロデューサーさん！　三次審査、どうでしたか！,Producer-san! How did I do on the third round of judging?!
+0000000000000,プロデューサー,智代子、結果が――,"Chiyoko, the results are──"
+7010001050010,智代子,プロデューサーさん！　三次審査、どうでしたか！,Producer! How did I do on the third round of judging?!
 0000000000000,プロデューサー,"うおっ……落ち着け、智代子
 三次審査は無事通過したぞ","Woah... calm down, Chiyoko.
 You passed the third round without accident."
@@ -24,7 +24,7 @@ It's because of all your worries that you're the Chiyoko you are now."
 7010001050070,智代子,"頑張ったことが認めてもらえて
 ファンのみんなのおかげでステージに立てて……","Being recognized for when I'm working hard, standing on stage for my fans..."
 7010001050080,智代子,"……プロデューサーさん
-私、まだまだ先に進みたいです","...Producer-san.
+私、まだまだ先に進みたいです","...Producer.
 I want to keep on moving forward."
 7010001050090,智代子,"ここで終わってもいいなんて思えません
 絶対、『W.I.N.G.』に出場したいです……！","I don't think stopping here would be good.
@@ -40,6 +40,6 @@ I'd be glad if you would come along with me!"
 Let's go to W.I.N.G. together!"
 7010001050120,智代子,"はい！
 頑張りましょうね、プロデューサーさん！","Yes!
-Let's do our best, Producer-san!"
+Let's do our best, Producer!"
 info,produce_events/701000105.json,
 译者,,

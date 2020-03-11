@@ -21,7 +21,7 @@ I'm looking forward to seeing the actual performance!)"
 0000000000000,プロデューサー,智代子、調子はどうだ？,"Chiyoko, are you ready?"
 1010001050050,智代子,"絶好調ですっ
 いつでも行けちゃいますよ～！","Everything is perfect.
-I'm ready to go whenever～!"
+I'm ready to go whenever!"
 0000000000000,プロデューサー,"ははは、出番はもうすぐだから
 もう少しだけ待っててくれよ","Ha ha ha, it'll be your turn soon.
 Please wait just a little bit longer."
@@ -32,7 +32,7 @@ Please wait just a little bit longer."
 It should be anytime now......"
 1010001050060,智代子,曲、流れませんね……,"The song isn't playing, is it..."
 1010001050070,智代子,"……あの、プロデューサーさん
-なんだか、スタッフさんたちの様子が……","...Um, Producer-san.
+なんだか、スタッフさんたちの様子が……","...Um, Producer.
 The staff members seem sort of..."
 0000000000000,プロデューサー,……ああ。ちょっと聞いてくる,...Yes. I'll go ask them.
 1010001050080,智代子,はい！　お願いします……！,Yes! Please...!
@@ -54,7 +54,7 @@ enthusiasm is decreasing little by little...)"
 暗い顔してる……このままじゃ……","Everyone was having so much fun up until now, but now their faces look gloomy...
 If it stays this way..."
 1010001050120,智代子,…………っ,......
-1010001050130,智代子,――プロデューサーさん、私、ステージに行きます！,"――Producer-san, I'm going to the stage!"
+1010001050130,智代子,――プロデューサーさん、私、ステージに行きます！,"──Producer, I'm going to the stage!"
 1010001050140,智代子,"来てくれてるお客さんが楽しめてないのに、
 何もしないでいるなんて嫌だから","If everyone in the audience who came here isn't having fun, there's no way I won't do anything about it."
 1010001050150,智代子,"私にも、できることがあると思うんです！
@@ -66,7 +66,7 @@ Go ahead!"
 1010001050160,智代子,！！,!!
 1010001050170,智代子,"はい！　ありがとうございます！
 ――行ってきます！","Yes! Thank you!
-――Here I go!"
+──Here I go!"
 1010001050180,智代子,みなさん！　お待たせしちゃってごめんなさい！,Everyone! Sorry for making you wait!
 1010001050190,智代子,実は、チョコっと機材のトラブルがありまして……,"The truth is, our equipment has gotten into some choco trouble..."
 1010001050200,智代子,"待っている間、私のとっておきの
@@ -77,7 +77,7 @@ Go ahead!"
 頑張れ！　智代子！）","(The venue's starting to feel more lively...
 Give it all you've got, Chiyoko!)"
 1010001050220,智代子,"――それでは、園田智代子でした！
-ありがとうございました！","――That was Chiyoko Sonoda!
+ありがとうございました！","──That was Chiyoko Sonoda!
 Thank you!"
 0000000000000,プロデューサー,"智代子！　お疲れ様！
 すごくよかったぞ！","Chiyoko! Great work!
@@ -126,6 +126,6 @@ and my hands are still shaking..."
 0000000000000,プロデューサー,"ああ！　智代子ならなれるさ
 一緒に頑張っていこう！","Yeah! You can do it.
 Let's work towards that together!"
-1010001050340,智代子,はい！　プロデューサーさん！,Yes! Producer-san!
+1010001050340,智代子,はい！　プロデューサーさん！,Yes! Producer!
 info,produce_events/101000105.json,
 译者,,

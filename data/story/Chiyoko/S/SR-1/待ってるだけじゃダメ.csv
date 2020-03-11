@@ -1,5 +1,5 @@
 id,name,text,trans
-3010003020010,智代子,凛世ちゃん、今日は来てくれてありがとう！,"Rinze-chan, thanks for coming!"
+3010003020010,智代子,凛世ちゃん、今日は来てくれてありがとう！,"Rinze, thanks for coming!"
 3010003020020,凛世,……お約束、しましたから……,…I promised I would after all…
 3010003020030,智代子,えへへ、今日はよろしくね！,"Hehe, I'm counting on you!"
 3010003020040,凛世,はい……,Yes…
@@ -14,7 +14,7 @@ id,name,text,trans
 3010003020100,樹里,"そうかもしれねーけど！
 でもアタシじゃそんな力には……","I mean, sure I'm here but it's not like I can do much…"
 3010003020110,智代子,"何か美味しいお菓子とかおごるから！
-ね、お願いだよ樹里ちゃん！　ダメ、かな……？","I'll treat you to something tasty! Come on, Juri-chan! Please…?"
+ね、お願いだよ樹里ちゃん！　ダメ、かな……？","I'll treat you to something tasty! Come on, Juri! Please…?"
 3010003020120,樹里,"ったく……
 うるせーな、わかったよ、付き合うって","For crying out… Fine, knock it off already, I'm in."
 3010003020130,智代子,"樹里ちゃん、信じてたよ……！
@@ -27,7 +27,7 @@ id,name,text,trans
 3010003020170,凛世,……どこへ、向かうのですか？,…Where are we heading?
 3010003020180,智代子,え、えーっと……,Uhh…
 3010003020190,樹里,……何も考えてなかったのか？,…You didn't have any ideas?
-3010003020200,智代子,そ、そんなことないよ～？,"I've, uh, got plenty～?"
+3010003020200,智代子,そ、そんなことないよ～？,"I've, uh, got plenty?"
 3010003020210,樹里,絶対嘘だろ……,You're a bad liar…
 3010003020220,智代子,"やだな樹里ちゃん！　そんなことないってば！
 えーっと……行き先、行き先……",That stings! I swear I'm not lying! Uhhh… we're going to…
@@ -50,7 +50,7 @@ id,name,text,trans
 チョコっぽいし","Here, this one works, doesn't it? Looks like your kind of thing."
 3010003020340,智代子,ほっ、ほんとに！？　ありがとう！,Really!? Thanks!
 3010003020350,智代子,"樹里ちゃん樹里ちゃん、ちなみにこれどこにつけたら
-個性的かな！？　頭？　腕？　それとも首！？","Juri-chan, hey Juri-chan, what's the most interesting spot to wear this anyway!? My head? My arm? What about my neck!?"
+個性的かな！？　頭？　腕？　それとも首！？","Juri, hey Juri, what's the most interesting spot to wear this anyway!? My head? My arm? What about my neck!?"
 3010003020360,樹里,いや、迷走しすぎだろ……,You're getting too carried away…
 3010003020370,智代子,"しょうがないじゃん！
 個性ほしいもん！",Of course I am! I want to stand out!
@@ -66,7 +66,7 @@ id,name,text,trans
 こうなったら、もういっそ全部つけるしか──！","Ahhh! In that case, I have no choice but to put everything on!"
 3010003020440,樹里,"ちょっと落ち着けって、
 そんなゴテゴテさせても意味ねーってば！",Knock it off. Going overboard with that isn't going to solve anything!
-3010003020450,智代子,でも、樹里ちゃん……,But Juri-chan…
+3010003020450,智代子,でも、樹里ちゃん……,But Juri…
 3010003020460,樹里,"よく考えてみろ
 これ全部つけたからって、個性的になれると思うか？",Use your head. You think wearing all of this is going to make you interesting?
 3010003020470,樹里,ただただおかしくなってくだけだろーが,You're just going to look stupid.
@@ -75,11 +75,11 @@ id,name,text,trans
 せっかくつき合ってくれたのに……","…Sorry, both of you. After you went to the trouble of coming with me…"
 3010003020500,樹里,"んな顔すんなよ
 ……別に誰も、もうつき合わないとは言ってねーだろ",Don't be like that… Nobody said they were walking out on you.
-3010003020510,智代子,樹里ちゃん本当！？,"You mean it, Juri-chan!?"
+3010003020510,智代子,樹里ちゃん本当！？,"You mean it, Juri!?"
 3010003020520,樹里,"……まぁ、乗りかかった船だし
 仕方ねーからな",…That ship's already sailed so I guess I'm stuck with you.
 3010003020530,凛世,凛世も、お手伝いいたします……,I will also continue to assist you…
 3010003020540,智代子,"凛世ちゃんも……！
-嬉しい……。えへへ、ふたりとも、ありがとー！","Rinze-chan too…! You're the best… Hehe, thanks, both of you!"
+嬉しい……。えへへ、ふたりとも、ありがとー！","Rinze too…! You're the best… Hehe, thanks, both of you!"
 info,produce_events/301000302.json,
 译者,,

@@ -1,0 +1,31 @@
+id,name,text,trans
+4901006020010,社長,"なんだその曖昧な返事は……？
+まさかアイドルにもそんな態度ではないだろうな？","What's with that vague response?
+Isn't that the attitude of an idol?"
+0000000000000,プロデューサー,"い、いえ、そんなことはありません……！
+うまくやれているのか、自信が無くてつい……","N-No, not at all!
+I'm still not confident enough to think I'm doing well..."
+4901006020020,社長,"フン、そういうことか……
+いいか、よく聞けプロデューサー","Heh, so that's what is...
+Good to hear, Producer."
+4901006020030,社長,"お前が迷えばアイドルが迷う
+現場のスタッフや関係者もそれは同じだ","If you keep getting lost, the idols get lost.
+The same goes for the staff and the people involved as well."
+4901006020040,社長,"自信が無くとも胸を張れ
+その時々で全力を尽くせば、そう間違いは起こらない","Even if you aren't confident enough,
+If you try and do your best at that time, no troubles would happen."
+0000000000000,プロデューサー,"は……はい！
+ありがとうございます、天井社長！","Y-Yes!
+Thank you very much, President Amai!"
+4901006020050,社長,"……それでは次の質問だ
+アイドルを導く上で、気を付けていることはなんだ？","Onto the next question,
+What do you keep in mind when guiding your Idol?"
+select,,"身だしなみや
+清潔感です","Their appearance,
+has to be fresh"
+select,,誠実さです,Their honesty
+select,,"アイドルの
+売り出し方です","How they would
+sell as an Idol"
+info,special_communications/490100621.json,
+译者,,
