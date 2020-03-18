@@ -6,15 +6,17 @@ Are you having a meal from the convenience store?"
 バタバタしてて、あまり時間が取れなくてな","Yes, that's right.
 I'm a little busy, so I don't have that much time."
 1016001000310020,千雪,"それだけだと、栄養が偏っちゃいますね……
-よかったら、私のお弁当、少しお分けしましょうか？","But it's not healthy…
-Say, you won't mind If I could share my lunchbox with you?"
+よかったら、私のお弁当、少しお分けしましょうか？","But it's not healthy… Say, you won't mind If I could share my lunchbox with you?"
 0000000000000,プロデューサー,（千雪のお弁当、うまそうだ……）,(Chiyuki's lunchbox looks delicious…)
 select,,"千雪の分が
-なくなってしまう","But you won't have enough "
+なくなってしまう","But you won't
+have enough."
 select,,"千雪は料理も
-できるんだな",You are also a good cook
+できるんだな","You are also
+a good cook."
 select,,"もったいなくて
-食べられないよ",I don't know if I deserve it
+食べられないよ","I don't know if
+I deserve it."
 1016001000310030,千雪,ふふ。お気遣いありがとうございます,"Fufu, thanks for the concern."
 1016001000310040,千雪,"でも、プロデューサーさんが食べてくれたほうが、
 私も安心してお腹いっぱいになれますから♪",But I'd feel fulfilled with mind and peace if you had some♪

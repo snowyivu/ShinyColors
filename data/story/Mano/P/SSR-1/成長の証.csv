@@ -1,0 +1,151 @@
+id,name,text,trans
+0000000000000,プロデューサー,"あれ？　まだいたのか、真乃
+もう遅いぞ？","Oh, Mano?
+You're still here. It's getting late, you know?"
+2001004030010,真乃,"あ、プロデューサーさん……
+ほわっ、もうこんな時間だったんですね","Ah, Producer...
+Hwa! It's dark already!"
+0000000000000,プロデューサー,"写真を見てたんだ？
+それは……この間撮った、宣材写真か","These photos that you're looking through... These are the promotional shots that we took the other day, right?"
+2001004030020,真乃,"はい。撮った後にも見せてもらいましたが
+もう一度、見てみたくなったんです","Yes. You showed me right after the shoot, but I wanted to take a look at them again."
+2001004030030,真乃,"ずっと前に撮った写真よりも、
+自然な笑顔になってる気がします",I think my smile looks a lot more natural now than when I first started.
+0000000000000,プロデューサー,"うん、
+かわいく撮れてる","I agree.
+It captures your cute side."
+2001004030040,真乃,"ほわっ！
+か、かわいい……","Hwa!
+C-Cute..."
+0000000000000,プロデューサー,"ん？
+そんなに驚くのか？","Hm?
+Are you surprised?"
+0000000000000,プロデューサー,"いつもカメラマンさんやファンに、
+かわいいって言ってもらってるだろ？","Photographers and fans tell you
+that you're cute all the time."
+2001004030050,真乃,そ、それは……そうですけど,"Well... Yes, but..."
+2001004030060,真乃,"他の方からかわいいって言われるのと、
+プロデューサーさんが言ってくれるのじゃ、違います……","Other people telling me I'm cute is one thing, but it's different when Producer says it!"
+2001004030070,真乃,"プロデューサーさんはいつも、
+いい感じに撮れてるな、みたいな言い方ですから……","""Well done, that was a great photoshoot"" is the kind of thing that Producer normally says."
+0000000000000,プロデューサー,"そうなのか
+じゃあ、これからはもっとかわいいって言っていこうか","I see.
+I'll have to tell you how cute you are more often from now on."
+2001004030080,真乃,"ほわわっ
+いえ、そんなにいつも言ってもらわなくても！","Hwawa! No, it's okay!
+You don't have to feel like you have to..."
+0000000000000,プロデューサー,"そうなんだ？
+まぁでも、かわいいのはかわいいからなぁ","Oh, okay.
+But I'm only saying you're cute because you are cute."
+2001004030090,真乃,ほわわ……,Hwawa...
+0000000000000,真乃,"あの……
+じゃあ、どの写真がよく撮れてると思いますか？","Um... Well then...
+Which photo do you think is the best?"
+select,,優しく微笑んでいる写真,The one with the gentle smile
+select,,ウインクしている写真,The one with the wink
+select,,ほわっとした顔の写真,The one with the startled expression
+0000000000000,プロデューサー,優しく微笑んでいる写真,The one with the gentle smile
+2001004030110,真乃,"これ……あまりアイドルらしくない笑い方のような……？
+他のアイドルの方はもっと、笑顔がまぶしい感じです","But... this smile doesn't look very idol-like.
+All the other idols I've seen have a more brilliant smile."
+0000000000000,プロデューサー,"そうかな？
+これが一番真乃らしく撮れてると思うよ","Is that so?
+But this is the photo that best captures you, Mano."
+0000000000000,プロデューサー,"写真を見た人が、つられて優しい気持ちになって
+穏やかな笑顔になれるような力がある",Everyone who sees this are drawn in by its gentle kindness. Such is the power of this smile.
+2001004030120,真乃,"ほわ……もしそうなってくれるならすごくうれしいですっ
+ありがとうございます、プロデューサーさん","Really? Hwa...
+That makes me really happy. Thank you, Producer!"
+2001004030130,真乃,"……あの、
+この写真、私がもらっても良いですか？","Um...
+Would it be okay if I took this photo?"
+0000000000000,プロデューサー,いいよ。写真のデータは残ってるしね,Sure. We keep backups of every photo after all.
+2001004030140,真乃,わあ、ありがとうございます,Hwa! Thank you very much!
+2001004030150,真乃,"それじゃあ……あの……
+もしこれ、よかったら……","Then...
+if it's okay with you..."
+0000000000000,プロデューサー,え……俺にくれるのか？,Oh... Is this for me?
+2001004030160,真乃,"はい、いつも頑張ってくれて、
+大変そうなプロデューサーさんが……","Yes... for working so hard on my behalf... It must be tough for you, so I thought..."
+2001004030170,真乃,少しでも笑顔になってくれたらって思って……,"If this helps bring a smile to your face, then..."
+0000000000000,プロデューサー,"そうか
+俺は、真乃からいつも元気をもらってるんだけどな","I see.
+Seeing your smile cheers me up every day already, Mano."
+0000000000000,プロデューサー,"でも……うん、もらっておくよ
+ありがとう","But thank you...
+I accept."
+2001004030180,真乃,"はい。これからもいい笑顔を撮ってもらえるように、
+私、頑張りますね","Thanks!
+I'll try my best to smile for the next photoshoot as well!"
+0000000000000,プロデューサー,ウインクしている写真,The one with the wink
+2001004030190,真乃,こ、これですか！？,T-This one!?
+2001004030200,真乃,"この写真は、その……
+カメラマンさんに思い切ってみてって言われて……","This photo is...
+The photographer told me to push a little bit more..."
+2001004030210,真乃,"わ、私じゃないみたいで……
+恥ずかしいです……","I-It doesn't feel like me at all...
+It's embarassing..."
+0000000000000,プロデューサー,"そんなことないよ、
+これも真乃で間違いない","That's not true at all,
+See, this one also feels like you."
+0000000000000,プロデューサー,新しい真乃の魅力が、よく出ているよ,"The new charm of yours, has came out well!"
+2001004030220,真乃,本当……ですか？,Really...?
+0000000000000,プロデューサー,改めてこの写真を見て、どう思う？,"Looking at this photo again, what do you think?"
+2001004030230,真乃,"最初は、私らしくないんじゃないかなって
+感じてました","It did not seem like me,
+is what I felt at first."
+2001004030240,真乃,"でも、プロデューサーさんに言われてみると、
+私もこんな表情ができるようになったんだなって……","But when you asked me,
+I've came to be able to look like this..."
+2001004030250,真乃,そんなふうに思えてきました,It just seemed like that.
+2001004030260,真乃,"この写真、いただいてもいいですか？
+今のプロデューサーさんの言葉、忘れずにいたいんです","Can I have this photo?
+I want to remember your words when I see it."
+0000000000000,プロデューサー,うん。データはあるし、持っていくといいよ,"Sure. I already have the data saved, and it's alright."
+2001004030270,真乃,"ありがとうございます
+新しい私、これからもっと出せるように頑張りますねっ","Thank you very much.
+My new self, I'll do my best to get more out of it."
+0000000000000,プロデューサー,ほわっとした顔の写真,The one with the startled expression
+2001004030280,真乃,"これは……自分では、あまり良いとは思ってませんでした
+なんだか力が抜けすぎてる気がして……","This one... I don't think it was very good...
+I feel like I'm too weak in it."
+2001004030290,真乃,"最初の頃から
+成長してないように思えてしまいます","From the beginning,
+They don't seem to grow yet."
+0000000000000,プロデューサー,"そうかな？
+よし、少し待ってて","Is that so?
+Okay, wait a minute."
+0000000000000,プロデューサー,"最初の頃に撮った写真を持ってきたよ
+さっきの写真と並べてみよう","I had a photo taken at the beginning.
+So let's line it up with the previous photos."
+2001004030300,真乃,やっぱり前とは変わってないような……,"After all, they all look the same."
+0000000000000,プロデューサー,"もっとよく見て？
+同じような表情でも、今の写真の方が輝けてるよ","Look closer?
+Even with the same expressions, the current photo is shining more."
+2001004030310,真乃,"そう言われてみればそんなふうにも……？
+私、成長できてるんでしょうか？","If you say so, is it really like that?
+Am I really, growing up?"
+0000000000000,プロデューサー,"今の写真も前の写真も、真乃らしい１枚だね
+だけど、今の真乃の方が――","Both the current photo and the previous one are like you.
+But now, you're now a lot better."
+0000000000000,プロデューサー,アイドルとして、魅力的だと思うよ,I think it's good as an idol.
+2001004030320,真乃,"ほわ……プロデューサーさんに、そう言ってもらえると
+……とてもうれしいですっ","Hey... when you told me that,
+I'm very happy."
+2001004030330,真乃,"私、アイドルになって……
+もっと、もっと自分を変えたいって思っていて……","I became an Idol...
+I wanted to change myself..."
+2001004030340,真乃,"あの、この写真、２枚ともいただいていいですか？
+変われてるっていつでも確かめられるようにしたいんです","Umm, can I have both of the photos?
+I want to be able to see when things are changing easily."
+0000000000000,プロデューサー,"うん、いいよ
+これからも、真乃はどんどん成長していくからな","Okay, sure.
+You'll continue growing steadily. "
+2001004030350,真乃,"プロデューサーさんと一緒なら……
+どこまでも頑張れそうです","If you are by my side...
+I'll try to do my best... "
+2001004030360,真乃,"ありがとうございます
+プロデューサーさんっ","Thank you,
+Producer."
+info,produce_events/200100403.json,
+译者,,

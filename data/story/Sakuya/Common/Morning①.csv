@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000,プロデューサー,おはよう、咲耶,"Morning, Sakuya."
+1006001000110010,咲耶,ああ、おはよう。プロデューサー,"Yeah, morning, Producer."
+1006001000110020,咲耶,"今日もいい天気だね
+なにかいいことがありそうだ","The weather's nice again today huh?
+Something good's going to happen today."
+0000000000000,プロデューサー,（朝から爽やかだな）,(It's been clear since the morning.)
+select,,気持ちいい朝だよな,"It's a pleasant
+morning, isn't it?"
+select,,精一杯サポートする,"I'll support you with
+all I've got."
+select,,"何か素敵な出会いが
+あればいいな","I hope we'll have
+a wonderful
+encounter."
+1006001000110030,咲耶,ああ、こんな日はいい出会いがありそうだね,"Yeah, I feel like such a day could have a good encounter."
+1006001000110040,咲耶,"フフ。新たな出会いを求め、早速出かけようじゃないか
+準備はいいかい、プロデューサー？","Hehe. Let's hurry and go seek out a new encounter. Are you ready, Producer?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
+1006001000110050,咲耶,ありがとう。頼りにしているよ、プロデューサー,"Thanks. I'm counting on you, Producer."
+1006001000110060,咲耶,"でも、すぐに仕事の話とはアナタらしい
+アナタとは仕事だけの関係に留まらず、仲良くなりたいな","But, it seems like you always talk about work right away. I want to get along with you, not just when it comes to work."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+1006001000110070,咲耶,ああ、そうだね,"Yeah, that's true."
+1006001000110080,咲耶,"さあ、もう出発の時間だ
+行こうか、プロデューサー","Well, it's already time to depart. Shall we go, Producer?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah... I screwed up.
+I should have said something else...)"
+info,produce_communications/100600100011.json,
+译者,,
