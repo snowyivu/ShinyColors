@@ -1,0 +1,135 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（……ん？　あそこにいるのは真乃と
+……誰だ？）","(Hmm? That's Mano over there...
+But who's the other guy?)"
+2001004020010,真乃,"……は、はい。そうです。その先を右に、曲がって……
+ほわっ！？　い、いえいえ。それではお気をつけて……","Y-Yes! Um... if you continue ahead and turn right... Huh!? Oh, no don't mention it! Please take care, then..."
+2001004020020,真乃,……ふう,...Sigh.
+0000000000000,プロデューサー,真乃、どうしたの？,"Mano, how are you?"
+2001004020030,真乃,はいっ……！,YES...!
+0000000000000,プロデューサー,うわっ！？,Wah!?
+2001004020040,真乃,"あ……プロデューサーさんでしたか
+ほわぁ……","Oh...
+It's Producer... Hwa..."
+0000000000000,プロデューサー,"大丈夫？
+さっきまで話してた人は……？","Are you alright?
+I saw you talking with that guy earlier..."
+2001004020050,真乃,"さっきの人には、道を聞かれたんです
+この先の、郵便局に行きたかったそうで……","Oh, he was just asking me for directions to the post office."
+2001004020060,真乃,"でも私、あんまり上手に教えられませんでした
+あの人が、迷子になったらどうしましょう……","But I'm not sure if I managed to explain very well, though. What if he got lost? ...And it'll be my fault..."
+0000000000000,プロデューサー,そうか、それで心配そうな顔をしてたのか,So that's why you were looking so worried.
+0000000000000,プロデューサー,"ちょっとだけ会話が聞こえてたけど、
+真乃はちゃんと説明できてたよ。充分伝わったと思う","I only heard a bit of the conversation, but I think you gave the directions perfectly. I'm sure he'll be fine."
+2001004020070,真乃,"ほわ～よかったです
+安心しましたっ","Ah! Thank goodness!
+That's a relief."
+2001004020080,真乃,"急に道を聞かれたから、
+私、びっくりしちゃって……",I get startled when someone suddenly asks me a question on the street.
+2001004020090,真乃,"もっと落ち着いて、わかりやすくお伝えできたら
+良かったんですけど……","If I had stayed calm, I could have been clearer with my directions."
+0000000000000,プロデューサー,"そういう心配ってあるよな
+でも突然のことなら仕方ないよ","Well, that's understandable. Sometimes, things happen when you don't expect them, you know?"
+2001004020100,真乃,"……はい
+私って、急にお話がくるとあわあわしちゃうんです",I know... But I wish I didn't panic every time someone started a conversation with me.
+2001004020110,真乃,もっと上手にお話できたらって思うんですけど……,If only I could get better at talking to people...
+0000000000000,プロデューサー,だったら、話す練習でもしてみるか？,"In that case, do you want to practice?"
+0000000000000,プロデューサー,"それじゃあ、
+急に話を振られた時の練習を始めてみようか","Alright. Let's begin the ""unexpected conversation"" practice."
+0000000000000,プロデューサー,俺が話を振るからそれに応えてみて,I'll start the conversation and then you try to reply.
+2001004020120,真乃,"は、はいっ
+よろしくお願いしますっ……",O-Okay! Please begin!
+0000000000000,プロデューサー,"（そこまで緊張しなくても……
+何か真乃がリラックスして応えられる話題を……）",(Mano looks tense... What topic would make her relax?)
+select,,"お出かけが好き
+なんだって？","Where you like
+to go out?"
+select,,植物に詳しいんだって？,The particulars of gardening?
+select,,"どんな公園が
+好きなんだ？","Your favorite
+parks?"
+0000000000000,プロデューサー,お出かけが好きなんだって？,Where you like to go out?
+2001004020130,真乃,"……はい。お日様の光を浴びながら、
+お散歩するのが好きです","Yes, I tend to sun-bask, but,
+I also like to go on a stroll."
+0000000000000,プロデューサー,歩いていくなら……やっぱり公園とかか？,Taking a stroll... like at a park?
+2001004020140,真乃,"はいっ、公園は大好きでよく行きます
+でも、街に行って、お買い物するのも好きです","Well, I love the park, and I often go there.
+But, I also like going to the town and shop there too."
+2001004020150,真乃,"全然知らないところへ行って、商店街を回ったりするのも
+初めて見るものがあったりで、とっても楽しいんです","Going to places you never been to at all, and going around the shopping district. There's many things to see for the first time, and they're quite nice."
+0000000000000,プロデューサー,そうか、真乃はいろんなところに行ってるんだな,"Oh, you're the one who goes to various places."
+2001004020160,真乃,"はい。お散歩してたら、いつの間にか
+遠くまでお出かけしちゃってることが多いんです","Yes. If you take a stroll with me, 
+I'd probably go way farther than you."
+0000000000000,プロデューサー,それは、真乃の良いところだね,That's a good thing about you.
+0000000000000,プロデューサー,"アイドルは、仕事を通していろんな場所に行けるんだ
+真乃なら、アイドルの仕事を楽しんでいけるね","Idols can go to many places through their work,
+But, if you're Mano, you can enjoy your work as an idol."
+2001004020170,真乃,"私の好きなお散歩みたいに、アイドルの仕事を楽しむ……
+私、とってもわくわくしてきました","Enjoying your work as an idol... like my favorite strolls...
+I suddenly feel very energized!"
+2001004020180,真乃,"私がこれからどこまで進んでいけるか、
+まだよくわかりませんけど……","How far can I go from here...
+I don't know that yet."
+2001004020190,真乃,"素敵な場所に行けるように、頑張りますねっ
+むんっ","I will do my best, so that I can go a nice place!
+Mun!"
+0000000000000,プロデューサー,植物に詳しいんだって？,The particulars of gardening?
+2001004020200,真乃,"はい。道の端っこにある樹や、お花を見て回ってます
+季節が変わったら咲く花も変わって、面白いです","Well, I look around the trees and flowers at the end of the roads. When the season changes, blooming flowers also change, which is interesting."
+2001004020210,真乃,後は……山に咲いているお花を見にいったりもします,After that... I go seeing the flowers on the mountains.
+0000000000000,プロデューサー,"山にも行くんだ？
+結構行動力あるんだな","Going to the mountains?
+You're quite active."
+2001004020220,真乃,"外に出ていろんなものを見て回るのが好きなんです
+ふふっ、私……山菜にもくわしいんですよっ","I like going out and looking around after all.
+Fufu, I'm also interested in wild plants too."
+2001004020230,真乃,"山菜を使ったお料理も好きで、よく美味しく頂くんです
+心がとってもあったかくなって……ほわほわ～ってなります","I also like cooking with wild vegetables, and they're quite delicious. My heart feels so warm... Hwawa, I'm sorry about that."
+0000000000000,プロデューサー,山菜を使った料理か……本当に美味しそうだ,Making a dish with wild vegetables... That sounds really delicious.
+2001004020240,真乃,"はいっ
+そうだ、今度作ったとき事務所に持ってきますね",Yes. I know! I'll bring some to the office when I make it next time.
+2001004020250,真乃,"みんなにも食べてもらえたらなぁ……
+山菜のかき揚げは……アツアツのほうがいいし……","I hope everyone will be able to enjoy it.
+Kakiage with wild vegetables... better if it was served while hot..."
+2001004020260,真乃,"山菜の……おにぎりなら？　それならいいかも
+頑張って作りますね、むんっ","Onigiri... made with wild vegetables...?
+It sounds good. I'll do my best for it! Mun!"
+0000000000000,プロデューサー,"そんなことまで考えてくれて、ありがとうな
+真乃の手作り、楽しみに待ってるよ","Thank you for thinking about that too...
+Mano's handmade meals, I'm looking forward to them."
+0000000000000,プロデューサー,どんな公園が好きなんだ？,Do you know any good parks?
+2001004020270,真乃,"ほわっ
+それは、難しい質問ですね……む～ん……","Hwa! That's a difficult question... 
+Muuun..."
+2001004020280,真乃,"あのおっきな公園も気持ちがいいですし……
+あ、すぐ近くの自然公園も……","The big park is nice...
+but the nearby nature park is also..."
+0000000000000,プロデューサー,（悩ませすぎてしまったか……？）,(She's thinking too hard about this!)
+2001004020290,真乃,"……あっ、今一番のお気に入りは、
+事務所のすぐ近くにある、いつもの公園ですっ",Ah! But my favorite park has to be the one I go to all the time ── the one next to our office.
+2001004020300,真乃,"ちょっと疲れちゃったときも、
+あの公園に行けば元気になれるんです","I go there when I'm feeling tired,
+and it always perks me up."
+0000000000000,プロデューサー,それが、真乃の元気の源なんだな,"I see. So it's like the wellspring of Mano's life-force, huh?"
+2001004020310,真乃,"はいっ
+お話してたら、今日も行きたくなってきました","Yeah! Now that we mention it,
+I kinda feel like going there today!"
+2001004020320,真乃,"あ……こんなにのんびりお話ししてたら、
+上手にお話しする練習にはなりませんよね……？","Oh... But making idle chit-chat like this doesn't really count as good conversation practice, does it?"
+0000000000000,プロデューサー,"いいや、真乃は考え迷いながらも、
+ちゃんと終わり方の用意された話をした","Oh, but it does! Despite hesitating at first, you managed to bring the conversation round to a satisfactory conclusion."
+0000000000000,プロデューサー,"一生懸命に話をしようとする真乃は……
+アイドルとして、いいＭＣができるんじゃないかな","If you try too hard, it makes the words sound stiff, and doesn't make for good MC'ing."
+2001004020330,真乃,"ほわ、ＭＣ……
+私にできるでしょうか……？","Hwa... MC'ing...?
+Will I be able to...?"
+0000000000000,プロデューサー,"うん、大丈夫
+真乃ならできるって、俺は信じてるよ","Yes, you will.
+I believe you will."
+2001004020340,真乃,"じゃあ私、これからも勉強して、
+楽しいお話ができるアイドルになりますねっ","Then, I'll practice hard and
+become an idol who can converse well!"
+info,produce_events/200100402.json,
+译者,,
