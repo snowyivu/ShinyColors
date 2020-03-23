@@ -5,7 +5,7 @@ id,name,text,trans
 4001001050030,めぐる,"（特訓に合流した日から、
 ずっと張りきってる感じだったしなぁ……）",(But she always looked so energetic when we got back together again...)
 4001001050040,めぐる,（無理……しちゃってたのかも）,(Did she push herself too hard...?)
-4001001050050,めぐる,『後でお見舞いに行くね！』,I'll pay you a visit later.
+4001001050050,めぐる,『後でお見舞いに行くね！』,"""I'll pay you a visit later!"""
 4001001050060,めぐる,（……真乃も行くかな？　連絡しておこう）,"(Mano would probably want to come too, so I should message her.)"
 4001001050070,灯織,"『ごめん、ありがとう
 着いたらインターホンで呼んでください。部屋番号は──』","""Sorry about this. Call me using the intercom when you arrive. My room number is..."""
@@ -16,7 +16,7 @@ id,name,text,trans
 4001001050100,めぐる,……よし、先に行こう,Sounds like a plan!
 4001001050110,めぐる,──って、あーっと、まだダメだ,"Ah, wait! Before I forget...!"
 4001001050120,めぐる,"……もしもし？　うん、めぐるだよ
-ごめん、今日の助っ人なんだけどさ──","Hello? Yes, it's Meguru. I'm really sorry, but about today’s practice..."
+ごめん、今日の助っ人なんだけどさ──","Hello? Yes, it's Meguru. I'm really sorry, but about today's practice..."
 4001001050130,めぐる,八宮です。灯織……ちゃんのお見舞いに来ました,"Hi, it's Hachimiya speaking. I'm here to visit Hiori..."
 4001001050140,灯織,……待ってて、今開けるから,Just a minute. I'll be down shortly.
 4001001050150,めぐる,灯織、身体の具合はどう？,"Hi, Hiori, how's your health?"
@@ -86,7 +86,7 @@ id,name,text,trans
 ……うん",...Yeah!
 4001001050590,灯織,"……来てくれて嬉しかった
 おかげで、すっきりした","I'm glad you came. My mind is clearer now, thanks to you."
-4001001050600,灯織,私……,Me...
+4001001050600,灯織,私……,I...
 4001001050610,灯織,"イルミネーションスターズで……
 みんなで一緒に輝きたい",With illumination STARS... with everyone... I want us to shine.
 4001001050620,灯織,"３人、一緒に……！

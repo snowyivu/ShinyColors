@@ -1,0 +1,281 @@
+id,name,text,trans
+4001007080001,めぐる＆恋鐘＆咲耶,…………,……
+4001007080002,果穂＆夏葉＆千雪,…………,……
+4001007080003,はづき,……？,Hmm?
+0000000000000,プロデューサー,"ふ、不審者じゃなくて、
+はづきさんだったんですか……！？","So it wasn't anyone suspicious.
+It was just Hazuki..."
+4001007080004,はづき,はい……？,Huh?
+4001007080005,はづき,それより。プロデューサーさん、お電話ですよ～,"In any case, Producer, you have a phone call."
+0000000000000,プロデューサー,──え？　あ、電話……？,Huh? A phone call?
+0000000000000,プロデューサー,"は、はい──
+…………あの、でも……","O-Okay...
+Ummm..."
+4001007080006,はづき,"……？
+どうかしましたか？","Hmm...
+Are you all right?"
+0000000000000,プロデューサー,"ああ、はい……！
+みんな、ちょっと行ってくるな……！","Ahhh, yes, of course!
+Excuse me, everyone."
+4001007080007,はづき,外線１番です～,It's on external line 1!
+4001007080008,はづき,"みなさんも寒くないですか～？
+ご用事が終わったら中に入ってくださいね～","Aren't you all cold?
+If you've finished, you should go inside."
+4001007080010,結華,……ちょ、ちょいちょい、はづきちさーん,"J-J-Just wait a minute, Hazukichi!"
+4001007080020,摩美々,……何からツッコんだらいいのー……,What would make a good retort...?
+4001007080030,夏葉,"ねぇ、はづき、
+なぜバールなんて物騒な物を持っているのかしら","Hey, Hazuki.
+Why are you carrying a dangerous-looking crowbar?"
+4001007080040,智代子,単刀直入だね夏葉ちゃん……！,"So direct, Natsuha!"
+4001007080041,はづき,"あ、これですか～？
+電気の修理をしていたんです","Oh, this?
+I was fixing a broken light."
+4001007080050,咲耶,"修理……
+明日、業者が入るとは聞いていたけれど","Repairs...?
+I heard that a workman was coming in tomorrow, but..."
+4001007080051,はづき,"そうなんです
+でも、配電盤のフタが開かないみたいで……","Yes, but I was having trouble removing the cover of the distribution box, so..."
+4001007080052,はづき,"えいっ！　って開くようにしたんです～
+経費削減です♪","I decided to apply a bit of force.
+A low budget solution♪"
+4001007080053,一同,…………,……
+4001007080060,めぐる,"……な、なんかよくわからないけど、
+解決！　かなぁ……？","I won't try to understand your logic,
+but I guess it worked...?"
+4001007080070,咲耶,それならドライバーも……,So the screwdriver was yours as well?
+4001007080071,はづき,"ええっ、ドライバーも落としていましたか……？
+私、眠くなっちゃったみたいで……","Huh? Did I drop the screwdriver too?
+My, I must have gotten sleepy..."
+4001007080080,千雪,"もう、はづきさんたら
+きっと廊下で寝ちゃったのね","So it was Hazuki 
+who dropped it in the corridor..."
+4001007080081,はづき,……ふふっ♪,...Fufu♪
+4001007080090,恋鐘,は……,Ha...
+4001007080091,一同,はづきさ～～～～～～ん！,Hazukiii!
+4001007080100,真乃,"……え、と……じゃあ、
+今度こそ解決……なのかな……？","Umm... So...
+finally the mystery is solved, right...?"
+4001007080110,恋鐘,"かぁ～～～～っ！　泥棒はおらんとやろ！？
+そいじゃあこの事件、解決ばい～！！","Gahhhh! So there was never a robber to begin with?!
+Then I guess it's case closed!!"
+4001007080120,果穂,"こ、恋鐘さん……！
+レッドみたいですっ！　スッゴくカッコいいです！","Kogane's like Red Ranger!
+SO COOL!"
+4001007080130,果穂,あ、あたしも恋鐘さんみたいに……──,I want to be like Kogane...
+0000000000000,プロデューサー,──……おおい！　みんな！！,Hey! Everyone!
+4001007080140,果穂,"あっ、プロデューサーさんっ！
+……えへへっ、『この事件、解決だっ！！！』です！","Producer!
+Ehehe, this case is now ""Case Closed!!!""."
+0000000000000,プロデューサー,"そ、そうだな……！
+今回の件は、確かに解決だ……！","I see!
+""Case Closed"" indeed!"
+0000000000000,プロデューサー,"でも、もうひとつ……！
+新しい事件があるぞ！","But it's not over yet!
+A new case has surfaced!"
+4001007080141,恋鐘＆咲耶＆果穂,……？,……?
+0000000000000,プロデューサー,聞いてくれ。なんと──,Listen well!
+select,,"２８３プロの
+合同ライブが決定した","283 Pro's group live
+has been confirmed,"
+0000000000000,プロデューサー,みんな、よく頑張ったな！,Thanks to all your hard work!
+4001007080150,甘奈,え……！,Eh...!
+4001007080160,真乃,２８３プロ……私たち、みんなで……？,283 Pro... All of us...?
+0000000000000,プロデューサー,もちろん、ここにいるみんなだ！！,That's right! Everyone here!!
+4001007080170,真乃,ほわぁ……！,Ahh!
+4001007080171,一同,……！,……!
+4001007080180,果穂,"みんなって……あたしたちだけじゃなくて、真乃さんとか、
+恋鐘さんとか、甘奈さんも一緒ってことですか……？！","Everyone? So not just Kaho's unit, but Mano's and Kogane's and Amana's too?!"
+4001007080190,甘奈,"うんっ！
+みーんなでステージってことだよ、果穂ちゃん☆","Yep!
+A stage where we'll all perform together, Kaho!"
+4001007080200,咲耶,フフ、なんて夜なんだろう……,"Heh, What a night it turned out to be."
+4001007080210,夏葉,"ええ、まったくだわ
+けれど……そうと決まれば、年内から練習をしたいわね","Certainly. But if we're doing the live, I'd like to get some practice in before the end of the year."
+4001007080220,恋鐘,よかね～！　今から特訓ば～い！,Isn't that great!? It'll be special training from now on!
+4001007080230,千雪,ふふ、プロデューサーさんったら……,"Fufu, Producer..."
+4001007080240,千雪,"泥棒さんでもトナカイでもなくて、
+サンタさんだったみたい……♪","It wasn't a thief, nor a reindeer,
+but Santa who came to visit♪"
+4001007080250,咲耶,"役者が揃ったというわけだね
+これは盛大なパーティになりそうじゃないか","So that's why we were called together.
+It's going to be a grand party."
+4001007080260,恋鐘,"うんっ、そうやったね！
+今日いっちばんのスペシャルイベントが待っとるばい～！","Yeah!
+I've been waiting for today's number one special event!"
+4001007080270,めぐる,"えへへっ
+それじゃあ、みんなで準備の続きだね！","Ehehe, 
+then we've got preparations to complete!"
+4001007080280,真乃,うんっ,Yeah!
+4001007080290,めぐる,真乃……真乃……！,"Mano, Mano?"
+4001007080300,灯織,挨拶の準備、大丈夫？,Are you ready with the greeting?
+4001007080310,真乃,"う、うん……
+大丈夫っ……","Y-Yes!
+I'm ready..."
+4001007080320,めぐる,"オッケー！　じゃあ行くよっ
+……せーのっ","Okay, let's go!
+One, two..."
+4001007080330,真乃,"え、えっと……
+……みんな、メリー・クリスマスっ","U-Ummm...
+Merry Christmas, everyone!"
+4001007080340,真乃,"そして、甜花ちゃん甘奈ちゃん、
+お誕生日おめでとうございますっ","And Happy Birthday,
+Tenka and Amana!"
+4001007080341,甘奈＆甜花,えへへ☆,Ehehe~
+4001007080350,めぐる,うんっ。真乃、いいよ、その調子！,"Nicely done, Mano! Just like that!"
+4001007080360,灯織,うん……！,Yeah!
+4001007080370,真乃,……うんっ,...Yeah!
+4001007080380,真乃,"──２８３プロ初めての合同ライブ……
+みんなで……頑張りましょうっ","Let's try our best
+for 283 Pro's first live!"
+4001007080390,真乃,乾杯……──！,Cheers!
+4001007080391,一同,かんぱ～い！,Cheers!
+4001007080400,めぐる,……真乃っ！　おつかれ！,"Well done, Mano!"
+4001007080410,真乃,めぐるちゃん……,Meguru...
+4001007080420,灯織,うん。おつかれ、真乃,"Yes, well done, Mano."
+4001007080430,真乃,灯織ちゃん……,Hiori...
+4001007080440,真乃,"……ありがとう
+えへへっ、メリー・クリスマス……","Thank you!
+Merry Christmas!"
+4001007080450,恋鐘,"ん～～～！　うまかぁ～～～！
+こんクラムチャウダー、天才ばい～！","Mmmmm! So tasty!
+This clam chowder is a work of genius!"
+4001007080460,夏葉,"あら、当然よ
+その中にはプ──","Naturally.
+For it contains..."
+4001007080470,果穂,"ああっ！　夏葉さんっ！
+それは秘密にって、樹里ちゃんが──","Ah! Natsuha!
+Juri said to keep it a secret!"
+4001007080480,夏葉,……そうだったわね、失礼,"Ah, so she did. My apologies."
+4001007080490,凛世,"ふふ……
+隠し味は……隠してこそ……","Fufu...
+The secret ingredient must remain secret..."
+4001007080500,果穂,"はいっ！　今回は『あれ』のおかげで
+と～ってもおいしくなりました！","Right! Thanks to a certain ingredient which shall go unmentioned, today's clam chowder is suuuper tasty!"
+4001007080510,夏葉,"ええ。今度こそ
+考えなしに『あれ』を入れただなんて言わせないわ",Indeed. Let no-one say that said ingredient was added without the utmost of care.
+4001007080520,智代子,え、まさか……,N-No way...
+4001007080530,樹里,"あーっ、なんでもねーよ
+みんな、たっぷり食えよな！","A-Anyway, aside from that!
+Everyone, eat up!"
+4001007080540,結華,"うんうん、美味しいねぇ
+なっかなかに筋肉がつきそうな味だぁ","Mmmm! It tastes so good, I can almost taste the physical exertion that went into making it!"
+4001007080550,甘奈,"うん！
+それ甘奈も思ったー☆","Yeah,
+so can I!"
+4001007080560,樹里,なっ……おい……！　チョコにはそのこと──,"Wha... Hey! Don't tell me, Chiyoko, you..."
+4001007080570,結華,んー？　何か聞かれちゃまずいことでもある？,Hmm? Is there something you don't want us to hear?
+4001007080580,樹里,アンタわかってて言ってるだろ！,You said you knew!
+4001007080590,結華,"えー、三峰わかんなぁい
+筋トレのお供に良さそうなスープだなぁって──",Mitsumine has no idea. All I heard was that this soup goes great with muscle training.
+4001007080600,樹里,わーっ！？　やめろって！,Aghhh! Say no more!
+4001007080610,智代子,"……ちゃんと美味しいんだから、私、怒ったりしないのに
+みんなして隠そうとして～……","It tastes good, so why would I be upset about it? Why everyone's being so evasive?"
+4001007080620,智代子,もう！,Jeez!
+4001007080630,摩美々,"あっち、面白そうな話してるー
+私だったらぁ、もっと色々入れるのにー","They're having a fun conversation over there.
+If it was me though, I would have added more stuff..."
+4001007080640,霧子,"闇鍋みたいだね……
+摩美々ちゃん……","It's like having a mystery stew,
+isn't it, Mamimi?"
+4001007080650,灯織,や、闇鍋……！？,A mystery stew!?
+4001007080660,灯織,"摩美々さん、今日はパーティーですから……！
+そういうのは、ダメです……！","Mamimi, we're having a party today,
+so that's not allowed!"
+4001007080670,摩美々,ふふー、灯織は真面目だねー,"Hmmm, why do you have to be so serious, Hiori?"
+4001007080680,摩美々,"みんなの料理に何か入れるのがダメならぁ、
+灯織の分にイタズラしてもいいんだケド","If everyone using their own ingredients is no good, we can always make Hiori's portion ""extra special""."
+4001007080690,灯織,……そ、それで摩美々さんが満足できるなら……！,I-If that's what it takes to make you happy...!
+4001007080700,霧子,"灯織ちゃん……
+摩美々ちゃんは、本気じゃないから……","Hiori...
+Mamimi wasn't being serious..."
+4001007080710,灯織,え……,Huh?
+4001007080720,摩美々,からかいがいのある人はいいねー,It's priceless when you find someone this easy to tease.
+4001007080730,灯織,"そっか、なんだ……
+良かった……","I see...
+That's a relief..."
+4001007080740,甜花,……あ、雪,"Oh, it's snowing..."
+4001007080750,夏葉,え？,Huh?
+4001007080760,甘奈,わぁ、ほんとだ！　雪～！,"Oooh, it's really snowing!"
+4001007080770,咲耶,フフ、なかなかロマンチックじゃないか,What a romantic scene.
+4001007080780,果穂,"すっ、スゴいですっ！
+お空も、きっとあたしたちをお祝いしてくれてるんですっ！","A-Amazing!
+The sky's also celebrating with us!"
+4001007080790,真乃,"ふふっ……
+そうだったら素敵だねっ","Fufu...
+That's a wonderful thought."
+4001007080800,めぐる,"きっとそうだよっ！　雪だけじゃなくて、
+いいこともいーっぱい、降りますように……！","It sure is!
+May we be showered with both snow and blessings!"
+4001007080810,甜花,"う……うん……！
+て、甜花も……お願いする……！","Y-Yeah!
+T-Tenka wishes for that too...!"
+4001007080820,甜花,"いいこと、いっぱい……
+降りますように……","I pray...
+for lots of blessings fall down on us!"
+4001007080830,恋鐘,ライブの時までず～っとばい！,Especially until the live!
+4001007080840,真乃,"そうだね……
+私も、ライブに向けて頑張らなきゃ……","Right...
+We've gotta try our best for the live."
+4001007080850,恋鐘,うちらも負けてられんばい！,We're not gonna lose!
+4001007080860,果穂,"…………すぅ……すぅ……
+…………","Zzzzz... Zzzzz...
+Zzz..."
+4001007080870,恋鐘,"……ん～～…………
+さんたぁ……待たんね…………","Oooh...
+Santa... I can't wait..."
+4001007080880,千雪,"……ふふ
+みんな、よく寝てる……","...Fufu,
+Everyone's fast asleep..."
+4001007080890,千雪,"（せっかくのお泊まりだもん
+プレゼント……今日渡さなきゃ……）","(Since we're staying over today, I can't miss this chance to give out presents...)"
+4001007080900,千雪,"甜花ちゃん、甘奈ちゃん、
+お誕生日おめでとう……","Tenka, Amana,
+happy birthday."
+4001007080910,甘奈,………………,……
+4001007080920,甜花,………………,……
+4001007080930,千雪,"……ふふ、可愛い……
+……おやすみなさい","They're so cute...
+Sleep tight..."
+4001007080940,千雪,──……きゃっ,...Kya!
+4001007080950,甘奈,しーっ……！,Shh...!
+4001007080960,甜花,しーっ……！,Shh...!
+4001007080970,千雪,……あ、甘奈ちゃん……甜花ちゃん……！,"Oh! Amana, Tenka!"
+4001007080980,甘奈,えへへ、サンタさんつかまえた☆,"Ehehe, Santa has been caught☆"
+4001007080990,甜花,甜花も、つかまえた……！,Been caught!
+4001007081000,千雪,……ふたりとも……！,"Oh, you two!"
+4001007081010,甘奈,"えへへ～、ダメだよ、千雪さん
+甘奈と甜花ちゃんにも、サンタさんやらせてくれなきゃ☆","Ehehe, it's no use, Chiyuki.
+Tenka and I are gonna be Santa too!"
+4001007081020,甜花,"うん……甜花たちも、サンタさんだから……
+はい、プレゼント……！","Yeah, Tenka is also Santa...!
+Here! Your present...!"
+4001007081030,千雪,"えぇ……！
+……わぁ、靴下に入ってるのね？","Eh! Goodness,
+you stuffed it in a stocking?"
+4001007081040,千雪,"……もう
+今日はふたりの誕生日なのよ……？","Dear me,
+today's supposed to be your birthdays, you know?"
+4001007081050,甘奈,えへへ、でも……,"Ehehe, well..."
+4001007081060,甜花,"３人のクリスマス……
+ううん……みんなの、クリスマスだから……","But it's Christmas for us three...
+No, for everyone..."
+4001007081070,千雪,"……
+もう……──","Oh...
+Bless..."
+4001007081080,千雪,ぎゅ～……っ,*Hug*
+4001007081090,甘奈,わっ、千雪さん……！,"Whoa, Chiyuki!"
+4001007081100,甜花,わわ……！,Wa-wa...!
+4001007081110,千雪,"……ふふ
+サンタさんって、ほんとにいるのね","It seems this
+Santa person really exists."
+4001007081120,千雪,──私も、つかまえた,And I've caught two of them!
+4001007081130,甘奈,あ～っ、甘奈が先につかまえたんだから！,"No, I caught Santa first!"
+4001007081140,甜花,"て、甜花も……
+ぎゅっ……","Tenka did too!
+*Hug*"
+4001007081150,甘奈,ぎゅ～っ☆,*Hug*☆
+4001007081160,千雪,ふふっ、メリー・クリスマス……,Merry Christmas...
+4001007081170,千雪,"私たちにも、みんなにも……
+来年が、いい年でありますように……",I pray that next year will be a good year... for the three of us... and for everyone...
+info,game_event_communications/400100708.json,
+译者,,
