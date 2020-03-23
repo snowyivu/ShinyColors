@@ -1,23 +1,22 @@
 id,name,text,trans
 4001003020010,果穂,"わぁ、ほんとに学校です！
-学校でお泊まりなんて、スッゴくドキドキしますっ","Wow, it really is a school!
-Being able to stay over in a school makes me really excited."
+学校でお泊まりなんて、スッゴくドキドキしますっ","Wow, it really is a school! Being able to stay over in a school makes me really excited."
 4001003020020,果穂,"えへへ、校舎もちゃんと撮れました！
 ……よーし、がんばるぞー！","Ehehe, I took a photo of the school building!
 ...Alright, I'll do my best!"
 4001003020030,果穂,"みなさんっ、まずは集合写真を撮りましょう！
 グラウンドに並んでくださいっ","Everyone, let's take a group photo first!
-Gather at the school ground!"
-0000000000000,プロデューサー,なら、カメラは一旦俺がもらうよ,"Then, I'll take the camera for awhile."
+Gather at the school grounds!"
+0000000000000,プロデューサー,なら、カメラは一旦俺がもらうよ,"Then, I'll take the camera for a second."
 0000000000000,プロデューサー,"果穂もいないと集合写真にならないからな
 ほら、行っておいで","It isn't a group photo without Kaho in it. Come on, go to them."
 4001003020040,果穂,はいっ、ありがとうございます！,"Yes, thank you very much!"
 0000000000000,プロデューサー,撮るぞー,I'm taking it.
 0000000000000,プロデューサー,"──よし
-ほら、果穂。カメラ返すよ","...Alright Here, Kaho, I'll give the camera back."
+ほら、果穂。カメラ返すよ","...Alright. Here, Kaho, I'll give the camera back."
 4001003020050,果穂,ありがとうございます、プロデューサーさん！,"Thank you very much, Producer!"
 4001003020060,智代子,ねぇねぇみんな、荷物置いたら中見て回らない？,"Hey hey everyone, after putting our luggage away, wanna take a look around inside?"
-4001003020070,樹里,そうだな、どこに何があるか確認しとかねーと──,"You're right, we have to confirm the location of where everything is at."
+4001003020070,樹里,そうだな、どこに何があるか確認しとかねーと──,"You're right, we have to confirm where everything is at."
 4001003020080,智代子,"ぶぶー、樹里ちゃん！　そういうカタい感じじゃなくてー、
 みんなで探検っ、みたいな感じだよ！","Wrong answer, Juri! It's nothing serious like that, but more like going on an expedition with everyone!"
 4001003020090,樹里,探検って……,An expedition...
@@ -32,13 +31,13 @@ The blackboard! The blackboard slides!"
 4001003020140,樹里,はしゃぎすぎんなっつってたのはどこの誰だよ……,Who was the one who told us to not get overly excited...
 4001003020150,智代子,夏葉ちゃんには珍しいのかなぁ、こういう普通の学校って,I wonder if all of this normal school stuff is unusual for Natsuha.
 4001003020160,樹里,あー……そうかもしんねーな,Ah... perhaps so.
-4001003020170,智代子,だったらいっぱい楽しめるといいよねぇ,"If so, then it'll be great if she could enjoy herself a lot."
+4001003020170,智代子,だったらいっぱい楽しめるといいよねぇ,"If so, then it'll be great if she can enjoy herself a lot."
 4001003020180,智代子,"……夏葉ちゃーん！　黒板気に入ったんなら、
 一緒に今日のレシピ書くの手伝ってー！","...Natsuha! If the blackboard caught your interest, then how about helping me to write the recipe for today!"
 4001003020190,夏葉,もちろんよ！,Of course!
 4001003020200,夏葉,"夕飯作りの手順を書いておけばいいのよね？
 黒板は上のまで使う必要がありそうかしら？","So I write down the order of how to prepare the ingredients, right? I wonder if there's a need to use even the blackboard at the top?"
-4001003020210,樹里,……そうだな、みんなで楽しめるといいな,"...That's right, it'll be great if everyone could enjoy themselves."
+4001003020210,樹里,……そうだな、みんなで楽しめるといいな,"...That's right, it'll be great if everyone can enjoy themselves."
 4001003020220,果穂,"次は向こうの教室です！
 自由時間に何をするか、決める会をしましょう！",Next is the classroom up ahead! Let's take some time to decide what we'll do during our free time!
 4001003020230,夏葉,あら？　智代子はどこにいったのかしら？,Hmm? I wonder where Chiyoko went?
@@ -73,7 +72,7 @@ The blackboard! The blackboard slides!"
 みなさんは、合宿で何がしたいですか？","Erm, then... What does everyone want to do at the training camp?"
 4001003020440,智代子,はい先生！,Here!
 4001003020450,果穂,"なんでしょう、ちょこせんぱ──
-いえ、園田さん！","What is it, Choko-senpa── No, Sonoda!"
+いえ、園田さん！","What is it, Choco-senpa── No, Sonoda!"
 4001003020460,智代子,私、トランプ持ってきました！,I brought cards!
 4001003020470,樹里,お、そういうことなら……はい先生,"Oh, in that case... Here."
 4001003020480,果穂,はいっ、西城さん！,"Yes, Saijo!"
@@ -89,7 +88,7 @@ And also, playing tag using the whole school."
 4001003020540,夏葉,"鬼ごっこは基礎体力作りと捉えたっていいんだし、
 レッスンに組み込めると思うわ","Tag can also be used to build up our physical fitness, so we can have it as part of the lesson plan."
 4001003020550,夏葉,"後のふたつだけど……
-せっかくなら、ここでしかできないことをしたいじゃない？",As for the other two... Don't you all want to do something that we can do only while we were here?
+せっかくなら、ここでしかできないことをしたいじゃない？",As for the other two... Don't you all want to do something that we can do only while we're here?
 4001003020560,智代子,"確かにそうだねぇ
 うん！　じゃあ、トランプは時間が余ったらにしよう！","You're exactly right. Alright! Then, we'll play cards only when we have time left!"
 4001003020570,夏葉,だそうよ、先生,What do you think?
@@ -100,7 +99,7 @@ And also, playing tag using the whole school."
 4001003020600,夏葉,"なるほど、いいわね
 それは明日の夜でどう？　締めって感じがするもの！","I see, that sounds good. How about having that tomorrow night? It's probably best to have it as a closing event."
 4001003020610,智代子,"あっ待って、夜やることなら肝試しは？
-この前、果穂と凛世ちゃんとやりたいって話してたんだよね","Ah wait a minute, then what about having a test of courage for our night activity? Previously didn't Kaho and Rinze say that they wanted to try it?"
+この前、果穂と凛世ちゃんとやりたいって話してたんだよね","Ah, wait a minute, then what about having a test of courage for our night activity? Didn't Kaho and Rinze say earlier that they wanted to try it?"
 4001003020620,夏葉,果穂先生でしょ、智代子,"You mean Teacher Kaho, Chiyoko."
 4001003020630,智代子,あ、そうでした……えへへ、ごめんなさい先生,"Ah, that's right... Ehehe, sorry."
 4001003020640,果穂,"大丈夫です、園田さん！
