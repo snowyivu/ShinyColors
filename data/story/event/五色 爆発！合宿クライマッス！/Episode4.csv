@@ -13,7 +13,7 @@ id,name,text,trans
 でもまぁいいか、さっさと始めようぜ","Says you. Well, not that I mind. Shall be begin?"
 4001003050080,果穂,ざぜん……どうやるんですか？,Zen meditation... What am I supposed to do?
 0000000000000,プロデューサー,"まず足を組んで座って、手も親指以外を軽く組んでくれ
-……難しければ、慣れてくるまで楽な姿勢でもいい","First, sit with your legs crossed, then lightly rest your fingers other than your thumb on top. If you're not used to it at first, a more relaxed posture is also fine."
+……難しければ、慣れてくるまで楽な姿勢でもいい","First, sit with your legs crossed, then lightly rest all your fingers except your thumbs on top. If you're not used to it at first, a more relaxed posture is fine."
 0000000000000,プロデューサー,そのまま呼吸を整えつつ、目を閉じるんだ,"While in that pose, regulate your breathing and close your eyes."
 0000000000000,プロデューサー,"落ち着きがない人が、
 棒で叩かれてるのは見たことあるだろ？",I've heard that some Zen masters chastise disciples who are unable to quiet their thoughts by whacking them with a stick.
@@ -24,7 +24,7 @@ id,name,text,trans
 0000000000000,プロデューサー,トントンされたら、気を引き締めるように,"If you feel a tap, try harder to regain your focus."
 4001003050100,凛世,"トントン……
 ……承知しました",Tap-tap... Understood.
-4001003050100,一同,…………,……
+4001003050100,一同,…………,......
 4001003050110,智代子,"うひゃあ！？
 ごっ、ごめんなさい！　お腹が減ってて……！",Hya!? S-Sorry! I'm a bit hungry...
 0000000000000,プロデューサー,"お腹が鳴るのは仕方がない
@@ -35,7 +35,7 @@ id,name,text,trans
 4001003050140,夏葉,"智代子、聞こえているわよ
 集中なさい","Chiyoko, I can hear you. Stay focused!"
 4001003050150,智代子,はい……ごめんなさい……,Sorry...
-4001003050150,一同,…………,……
+4001003050150,一同,…………,......
 4001003050160,樹里,……っ……,...Ugh...
 0000000000000,プロデューサー,樹里、落ち着け,"Juri, relax."
 4001003050170,樹里,っ、わかってるよ,...You don't have to tell me.
@@ -69,7 +69,7 @@ id,name,text,trans
 4001003050310,果穂,"はいっ！
 ヒーローは必ず、困難を乗り越えるんです！",Yeah! Heroes can overcome any difficulty!
 0000000000000,プロデューサー,"みんなよく頑張ったな
-……特に凛世。すごい集中力だった",You all did well... Especially Rinze. That was some amazing concentration.
+……特に凛世。すごい集中力だった",You all did well... especially Rinze. That was some amazing concentration.
 4001003050320,凛世,いえ、そのようなことは……,"Oh, no. That was nothing..."
 4001003050330,果穂,"凛世さん、スゴいです！
 １回もプロデューサーさんに肩を叩かれていませんでした！",Rinze! That was amazing! Producer didn't tap you on the shoulder even once!
