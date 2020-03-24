@@ -1,3 +1,4 @@
+import md5 from 'md5';
 import fetchData from '../utils/fetch'
 import parseCsv from '../utils/parseCsv'
 import { getLocalData, setLocalData } from './index'
@@ -51,13 +52,14 @@ const getStoryMap = (csv) => {
     const trans = trimWrap(item.trans)
     const name = trim(item.name)
     if (text && trans) {
+      const entryId = md5(text);
       if (id && !/^0+$/.test(id) && id !== 'select') {
-        storyMap.set(id, tagText(trans))
+        storyMap.set(entryId, tagText(trans))
       } else {
         if (id === 'select') {
-          storyMap.set(`${text}-select`, tagText(trans))
+          storyMap.set(`${entryId}-select`, tagText(trans))
         } else {
-          storyMap.set(text, tagText(trans))
+          storyMap.set(entryId, tagText(trans))
         }
       }
     }
