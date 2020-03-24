@@ -1,3 +1,4 @@
+import md5 from 'md5';
 import { log, replaceWrap, fixWrap, trim, transSpeaker, tagStoryText } from '../utils/index'
 import config from '../config'
 import showStoryTool from '../utils/story-tool'
@@ -77,23 +78,17 @@ const transStory = (data, storyMap, commMap, nameMap) => {
   data.forEach(item => {
     transSpeaker(item, nameMap)
     if (item.text) {
-      if (item.id) {
-        const id = item.id + ''
-        if (storyMap.has(id)) {
-          item.text = storyMap.get(id)
-        }
-      } else {
-        const text = fixWrap(item.text)
-        if (storyMap.has(text)) {
-          item.text = storyMap.get(text)
-        } else if (commMap.has(item.text)) {
-          item.text = tagText(commMap.get(item.text))
-        }
+      const textId = md5(fixWrap(item.text));
+      if (storyMap.has(textId)) {
+        item.text = storyMap.get(textId)
+      } else if (commMap.has(item.text)) {
+        item.text = tagText(commMap.get(item.text))
       }
     }
     if (item.select) {
       const select = fixWrap(item.select)
-      const sKey = `${select}-select`
+      const selectId = md5(select);
+      const sKey = `${selectId}-select`
       if (storyMap.has(sKey)) {
         item.select = storyMap.get(sKey)
       } else if (commMap.has(select)) {
