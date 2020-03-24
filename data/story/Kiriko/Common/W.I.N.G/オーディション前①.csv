@@ -1,0 +1,26 @@
+id,name,text,trans
+4008001000110010,霧子,"プロデューサーさん……
+きょ、曲の振り……と……飛んでしまいました……","Producer...
+Kyu, the song's rhythm... blew me away..."
+0000000000000,プロデューサー,（本番前に緊張しすぎたのか……）,(Was she this nervous before the show...?)
+select,,落ち着いて深呼吸だ,Calm down and take a deep breath
+select,,"たしかこんな振りで
+よかったはず","I'm sure
+you'll be fine"
+select,,困ったらアドリブだ,How about an adlib?
+4008001000110020,霧子,"は、はい……すぅ……はぁ……
+わ……頭がすっきりしてきました……","Y-Yes... Ah...
+My head is clearing up..."
+0000000000000,プロデューサー,（よし、もう大丈夫だな）,"(Good, she's fine)"
+4008001000110030,霧子,"……ふふ、少し違います……
+でも……思い出せました……！","Fufu, it's a bit different...
+but I finally got it...!"
+0000000000000,プロデューサー,"（間違えてたか……
+でも、霧子は心配なさそうだな）","(She's doing it wrong...
+However, she doesn't look as worried anymore.)"
+4008001000110040,霧子,"え……ア、アドリブですか……？
+わ……わたしに、できるでしょうか……","Eh... An adlib?
+I-I don't know if I can do one right..."
+0000000000000,プロデューサー,（かえって不安にさせたかな……）,(I hope I didn't make her more nervous...)
+info,produce_communication_cheers/400800100011.json,
+译者,,

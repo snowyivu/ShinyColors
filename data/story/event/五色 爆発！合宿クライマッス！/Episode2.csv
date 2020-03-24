@@ -1,6 +1,6 @@
 id,name,text,trans
 4001003030010,智代子,"それでは！　午後のレッスンも終わりましたので、
-これからみんなで、晩ご飯作りを始めたいと思います！","Well then! Since the afternoon Lessons are over, I'd like for us to start making dinner!"
+これからみんなで、晩ご飯作りを始めたいと思います！","Well then! Since the afternoon lessons are over, I'd like for us to start making dinner!"
 4001003030020,智代子,"メニューは果穂から提案がありました、
 定番・カレーライスです！　はい、拍手ー！","As for the menu, we have a suggestion from Kaho, the staple - Curry rice! A round of applause please~!"
 4001003030030,果穂,"カレー作るの、楽しみにしてましたっ
@@ -8,7 +8,7 @@ id,name,text,trans
 4001003030040,樹里,おー、頑張ろうな,"Yeah, let's do our best."
 4001003030050,凛世,"はい……プロデューサーさまも……
 楽しみにしておいででした……",Yes... Producer-sama was... Looking forward to it as well...
-4001003030060,夏葉,それで？　私たち、何から始めたらいいのかしら,So? What should we start from?
+4001003030060,夏葉,それで？　私たち、何から始めたらいいのかしら,So? What should we start with?
 4001003030070,智代子,"基本的にはレシピにそって進めてこっか
 切って、炒めて、煮たら完成だよー","Let's start with the basics by following the recipe. We cut, stir-fry, and after simmering it'll be done."
 4001003030080,智代子,"さっき夏葉ちゃんに書いてもらったから、
@@ -28,7 +28,7 @@ id,name,text,trans
 いつもご飯炊く時より、きもーち少なめにしてみてね",What's most important is the water level. Be sure to leave less to gut feeling than how you usually cook the rice.
 4001003030170,果穂,わかりました！,Understood!
 4001003030180,智代子,"私は野菜チームを手伝います！
-じゃあ、調理スタート！","I'll be helping the vegetable team! Well then, cooking Start!"
+じゃあ、調理スタート！","I'll be helping the vegetable team! Well then, cooking.. Start!"
 4001003030190,果穂,おー！,Oh!
 4001003030200,智代子,"凛世ちゃん夏葉ちゃん、私野菜洗っちゃうね
 終わったやつから皮とか剥いてもらっていい？","Rinze, Natsuha, I'll wash the vegetables. Can you help to peel the skin off the ones I'm done washing?"
@@ -57,7 +57,7 @@ id,name,text,trans
 4001003030350,果穂,ちょこ先輩、にんじん苦手だったんですか？,"Choco-senpai, you used to not like carrots?"
 4001003030360,智代子,そうそう、でももう食べられるようになったよ,"That's right, but I can eat them now."
 4001003030370,果穂,"スゴいです！　苦手克服です！
-ちょこ先輩は、工夫で苦手をやっつけたんですね！","That's amazing! You overcame your weak point! Choco-senpai, you beat your weak point using wit!"
+ちょこ先輩は、工夫で苦手をやっつけたんですね！","That's amazing! You overcame your weak point! Choco-senpai, you came up with a scheme to overcome your weak point!"
 4001003030380,智代子,"私って言うか、お母さんの知恵かな
 果穂も覚えてたら、いつか役に立つかも？","Not me, but rather my mom's wisdom I guess. Kaho, if you remember this, it'll eventually be of help to you."
 4001003030390,果穂,はいっ！,Yes!
@@ -109,12 +109,13 @@ id,name,text,trans
 ──おお、美味いな！","Let's eat──Ooh, this is delicious!"
 4001003030670,凛世,嬉しい……お言葉です……,That is... good to hear...
 4001003030680,樹里,"ほんと、ちゃんと作れて良かったぜ
-……はむ。ん、美味い","For real, I'm glad we could make it properly."
+……はむ。ん、美味い","For real, I'm glad we could make it properly.
+...Nom, mmm, it's tasty."
 4001003030690,樹里,"なぁチョコ、これ……
-やっぱり隠し味にチョコ入ってたりすんのか？","...Nom, mmm, it's tasty."
-4001003030700,智代子,んーん、今回チョコは使ってないよ,"Hey Choco, this... Did you really use chocolate to bring out the flavor?"
+やっぱり隠し味にチョコ入ってたりすんのか？","Hey Choco, this... Did you really use chocolate to bring out the flavor?"
+4001003030700,智代子,んーん、今回チョコは使ってないよ,"No, I didn't use chocolate this time."
 4001003030710,智代子,"チョコアイドルたるもの、チョコに頼りきりってわけにも
-いかないもん","No, I didn't use chocolate this time. As a chocolate Idol, I can't be overly dependent on chocolates."
+いかないもん","As a chocolate Idol, I can't be overly dependent on chocolates."
 4001003030720,智代子,このカレーの隠し味は──なんと、お砂糖です！,"The secret ingredient for this curry is... surprise, sugar!"
 4001003030730,樹里,砂糖！？　そんなん使って大丈夫なのかよ？,Sugar!? Is it alright to use something like that?
 4001003030740,智代子,さっき樹里ちゃんも美味しいって言ってたじゃん！,But you just said that it was delicious!
