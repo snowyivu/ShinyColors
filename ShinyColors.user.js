@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.9.94
+// @version      0.9.95
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -481,7 +481,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.9.94";
+	var version = "0.9.95";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -1330,7 +1330,8 @@
 	      const entryId = md5(text);
 
 	      if (id && !/^0+$/.test(id) && id !== 'select') {
-	        storyMap.set(entryId, tagText(trans));
+	        const mapId = id + entryId;
+	        storyMap.set(mapId, tagText(trans));
 	      } else {
 	        if (id === 'select') {
 	          storyMap.set(`${entryId}-select`, tagText(trans));
@@ -9886,10 +9887,18 @@
 	    if (item.text) {
 	      const textId = md5(fixWrap(item.text));
 
-	      if (storyMap.has(textId)) {
-	        item.text = storyMap.get(textId);
-	      } else if (commMap.has(item.text)) {
-	        item.text = tagText(commMap.get(item.text));
+	      if (item.id) {
+	        const mapId = item.id + textId;
+
+	        if (storyMap.has(mapId)) {
+	          item.text = storyMap.get(mapId);
+	        }
+	      } else {
+	        if (storyMap.has(textId)) {
+	          item.text = storyMap.get(textId);
+	        } else if (commMap.has(item.text)) {
+	          item.text = tagText(commMap.get(item.text));
+	        }
 	      }
 	    }
 
