@@ -1,12 +1,12 @@
 id,name,text,trans
 0000000000000,記者,一日署長、お疲れ様でした,Good work on being police officer for a day.
 0000000000000,記者,"制服、大変お似合いだと思います
-袖を通された感想を聞かせていただけますか？","That outfit really suits you, may I ask your opinion towards today’s activity?"
+袖を通された感想を聞かせていただけますか？","That outfit really suits you, may I ask your opinion on today's activity?"
 4001009020010,灯織,──はい,Yes.
 4001009020020,灯織,"警察の方々にとって、
-この制服は誇りそのものだと思っています","For an officer, I think this uniform is their pride and joy. By giving a chance for me to wear this..."
+この制服は誇りそのものだと思っています","For an officer, I think this uniform is their pride and joy. By giving me a chance to wear this..."
 4001009020030,灯織,"それだけのものを着せていただいたからには……
-そのお気持ちを裏切ることのないよう、頑張らないと、と",I have to do my best so I don't betray the feelings they put have placed in this uniform.
+そのお気持ちを裏切ることのないよう、頑張らないと、と",I have to do my best so I don't betray the feelings they have placed in this uniform.
 4001009020040,灯織,引き締まる思いでした,And I think I did that very well.
 4001009020050,真乃,灯織ちゃん、すごいな……っ,Hiori is really amazing.
 4001009020060,めぐる,"だねー！
@@ -14,11 +14,11 @@ id,name,text,trans
 4001009020070,めぐる,今日はわたしたちの方がドキドキしちゃってたもん,I think we are the ones that were nervous today.
 0000000000000,プロデューサー,はは、確かにそうだ,"Haha, I think so too."
 4001009020080,めぐる,プロデューサー！,Producer!
-4001009020090,真乃,わ、お疲れさまですっ……,Thank you for your work.
+4001009020090,真乃,わ、お疲れさまですっ……,Thank you for your hard work.
 0000000000000,プロデューサー,"うん、お疲れ様
 ふたりとも、今日は応援に来てくれてありがとうな","Yeah, thanks. You two, thank you for helping out today."
 0000000000000,プロデューサー,"灯織、随分嬉しそうだったし、
-改めて気合いも入ったみたいでさ",Hiori seems putting more effort and being kinder after knowing you were here.
+改めて気合いも入ったみたいでさ",Hiori seems to be putting in more effort and acting happier after seeing you were here.
 0000000000000,プロデューサー,"イルミネーションスターズとして
 恥ずかしくない仕事をしなきゃって言ってたよ","I can't embarrass myself as a member of illumination STARS, she said."
 4001009020100,めぐる,"！　……そっかぁ……
@@ -32,20 +32,20 @@ id,name,text,trans
 4001009020150,真乃,（……）,(......)
 4001009020160,めぐる,真乃っ、取材終わったみたいだよ！,"Mano, I think the interviews are over!"
 4001009020170,真乃,！,!
-4001009020180,めぐる,灯織、お疲れさまー！　こっちこっちー！,Hiori! good work! over here!
-4001009020190,真乃,……灯織ちゃん、お疲れさまっ,"Hiori, good work for today."
+4001009020180,めぐる,灯織、お疲れさまー！　こっちこっちー！,Hiori! good work! Over here!
+4001009020190,真乃,……灯織ちゃん、お疲れさまっ,"Hiori, good work today."
 4001009020200,灯織,"……ふたりとも、ありがとう……
-プロデューサーも、お疲れ様です","Thank you... to both of you... Producer too, thanks for your work."
+プロデューサーも、お疲れ様です","Thank you... to both of you... Producer too, thanks for your hard work."
 0000000000000,プロデューサー,"お疲れ様
-今みんなで話してたんだ、今日、すごく良かったって","Thanks for your work too We were talking about you just now, you really did well today."
+今みんなで話してたんだ、今日、すごく良かったって","Thanks for your hard work too. We were talking about you just now, you really did well today."
 4001009020210,めぐる,うんうんっ,"Yeah, yeah!"
-4001009020220,真乃,すっごくかっこよかったねって,You really cool today.
+4001009020220,真乃,すっごくかっこよかったねって,You were really cool today.
 4001009020230,めぐる,うんうんうんっ！,Yeah yeah yeah!
 4001009020240,灯織,"そんなっ……全然だよ
 緊張しちゃって、夢中で……！","That's not... true... I was so nervous, and I got too absorbed in it!"
 4001009020250,灯織,"あ、えっと……！
 私、着替えてくるから……！","Ah, ummm...! I... I'll get changed!"
-4001009020260,めぐる,ええっ！？　もう着替えちゃうの！？,Eh!? You’re gonna get changed already?
+4001009020260,めぐる,ええっ！？　もう着替えちゃうの！？,Eh!? You're gonna get changed already?
 4001009020270,真乃,ほわ、もったいないな……,"Oh, too bad..."
 4001009020280,真乃,"せっかくの署長さんだから、
 よかったら……もう少し……","While you have your chance as the Chief, how about if... for a bit longer..."
@@ -62,7 +62,7 @@ id,name,text,trans
 4001009020340,めぐる,"プロデューサー、もう１枚もう１枚！
 わたしのスマホでも撮ってー！","Producer, one more, one more! Please use my smartphone!"
 0000000000000,プロデューサー,わかったわかった,"Okay, okay..."
-4001009020350,灯織,……なんか……変な感じ,Somehow... I have this weird feeling.
+4001009020350,灯織,……なんか……変な感じ,Somehow... I have a weird feeling.
 4001009020360,真乃,……？,Hm?
 4001009020370,真乃,どうしたの？　灯織ちゃん,"What's wrong, Hiori?"
 4001009020380,灯織,"あ、ううん、なんでもなくて──
@@ -80,8 +80,8 @@ id,name,text,trans
 敬礼とかにしてみる？",How about another pose! Let's do a salute shall we?
 4001009020461,真乃＆灯織,──ふふっ,Haha.
 4001009020470,灯織,いいと思う,I think that's nice.
-4001009020480,真乃,みんなでおまわりさんだね……っ,Everyone became police officer it seems.
-4001009020490,めぐる,うん！　じゃあせーので！,"Yeah! then, ready!"
+4001009020480,真乃,みんなでおまわりさんだね……っ,Everyone became a police officer it seems.
+4001009020490,めぐる,うん！　じゃあせーので！,"Yeah! Then, ready!"
 4001009020491,一同,敬礼！,Salute!
 0000000000000,プロデューサー,おお、みんな立派な警察官だな,"Oooh, everyone looks like a good officer!"
 4001009020500,めぐる,"ほんとー！？
