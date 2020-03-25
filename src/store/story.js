@@ -54,7 +54,8 @@ const getStoryMap = (csv) => {
     if (text && trans) {
       const entryId = md5(text);
       if (id && !/^0+$/.test(id) && id !== 'select') {
-        storyMap.set(entryId, tagText(trans))
+        const mapId = id + entryId;
+        storyMap.set(mapId, tagText(trans))
       } else {
         if (id === 'select') {
           storyMap.set(`${entryId}-select`, tagText(trans))
