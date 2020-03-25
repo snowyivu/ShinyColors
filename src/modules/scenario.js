@@ -79,10 +79,17 @@ const transStory = (data, storyMap, commMap, nameMap) => {
     transSpeaker(item, nameMap)
     if (item.text) {
       const textId = md5(fixWrap(item.text));
-      if (storyMap.has(textId)) {
-        item.text = storyMap.get(textId)
-      } else if (commMap.has(item.text)) {
-        item.text = tagText(commMap.get(item.text))
+      if(item.id) {
+        const mapId = item.id + textId;
+        if (storyMap.has(mapId)) {
+          item.text = storyMap.get(mapId)
+        }
+      } else {
+        if (storyMap.has(textId)) {
+          item.text = storyMap.get(textId)
+        } else if (commMap.has(item.text)) {
+          item.text = tagText(commMap.get(item.text))
+        }
       }
     }
     if (item.select) {
