@@ -63,7 +63,7 @@ trueEndTeachingTipsText.deckEdit.text2,便利なアイテムを持ち込んで\n
 trueEndTeachingTipsText.trend,流行1位と得意ジャンルが一致していないようですね～\nそんな時は『流行雑誌』を使ってみましょう,It seems the top trend doesn't match your specialty～\r\nSo let's use the『Trend Magazine』!
 trueEndTeachingTipsText.skillBoard,おすすめのスキルをご紹介しますね～\n強力なスキルを優先して習得することが\nTrue Endへの近道ですよ♪,Here's some recommended skills～\nPrioritizing strong skills is the\r\nshortcut to True Ends♪
 twitter.postDialog.staticComment.gashaResultSkin,限定衣装%{idolName}を獲得したよ！とっても素敵な衣装！,You got {%idolName}'s limited outfit! What a nice outfit!
-mypageCommunication.producerComment,さて、仕事も一段落したし、\n少し休憩しようかな──……,"Well,  since work has settled down,\r\nI'll take a quick break──……"
+mypageCommunication.producerComment,さて、仕事も一段落したし、\n少し休憩しようかな──……,"Well,  since work has settled down,\r\nI'll take a quick break──......"
 mypageCommunication.idolComment,だ〜れだ？,Who~ is it?
 gasha.popTicketDesc.ticketName,%{ticketName}を,%{ticketName}
 gasha.popTicketDesc.quantity,消費してガシャを%{quantity}回引きます。\rよろしいですか？,Consumes and pulls %{quantity} times。\r\nIs this okay?
@@ -494,7 +494,7 @@ gasha.freeGift.popReward.title,おまけ,Bonus
 gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left
 gasha.stepupRemainingMinutes,残り%{minutes}分,%{minutes} min left
 gasha.stepupTimes.long,%{times}連ガシャ,%{times} Pulls
-gasha.stepupTimes.short,%{times}連,Step %{times}
+gasha.stepupTimes.short,%{times}連,%{times} pull
 gasha.scoutGasha.idolList.title,対象アイドル一覧,Idol Scout List
 gasha.scoutGasha.idolList.expireAt,【有効期限】%{expireAt}まで,【Expires】%{expireAt}
 gasha.scoutGasha.useConfirmation.title,使用確認,Confirm Use
@@ -832,8 +832,8 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュア
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
 fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds：%{level}
-fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(The Festival preparations……\r\nIt seems we don't have quite enough help……)
-fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(It might be okay to ask for more help……\r\n……who would be good……?)
+fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(The Festival preparations......\r\nIt seems we don't have quite enough help......)
+fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(It might be okay to ask for more help......\r\n......who would be good......?)
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Organization Limit
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません
@@ -886,7 +886,7 @@ shop.salesItemDialog.remainingText2,で販売終了,At end of sale
 shop.purchaseConfirmation.title,購入確認,Confirm Purchase
 shop.purchaseConfirmation.message,%{currencyName}を消費して\n以下のアイテムを購入しますか？,Spend %{currencyName} to buy\r\nthe below item？
 shop.purchaseConfirmation.messageSimple,以下のアイテムを購入しますか？,Buy the following item?
-shop.purchaseConfirmation.notice.convertMerchandise,解放済みのコミュはアルバムの鍵に変換されます,Unlocked commus will be converted to album keys
+shop.purchaseConfirmation.notice.convertMerchandise,解放済みのコミュはアルバムの鍵に変換されます,Unlocked commus are converted to album keys
 shop.purchaseConfirmation.notice.jewelMerchandise,無償フェザージュエルから先に消費されます,Free Feather Jewels will be consumed first
 shop.exchangeConfirmation.title,交換確認,Exchange Confirmation
 shop.exchangeConfirmation.message,%{exchangeItemName}を消費して\n以下のアイテムと交換しますか？,Exchange %{exchangeItemName}\r\nfor this item？
@@ -904,7 +904,7 @@ shop.exchangeResult.message,%{title}と交換しました,Exchanged for %{title}
 shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,Exchanged for\r\n%{title}
 shop.currencyLabel.jewelType.billedJewel,有償,Paid
 shop.currencyLabel.jewelType.freeJewel,無償,Free
-shop.expireDate,【交換期限】%{closeAt}まで,[Over] Collect by %{closeAt}
+shop.expireDate,【交換期限】%{closeAt}まで,[Ends] Collect by %{closeAt}
 shop.noShopItem,交換可能なアイテムがありません。,There are no exchangeable items
 recycleShop.tradeConfirmation.title,交換確認,Exchange Confirmation
 recycleShop.tradeConfirmation.message,以下のアイテムを交換しますか？,Do you want to exchange these items?
@@ -949,7 +949,7 @@ tutorial.openingMessage.mes0,「アイドル」,「Idol」
 tutorial.openingMessage.mes1,それは,"That image, "
 tutorial.openingMessage.mes2,女の子達の永遠の憧れ,The eternal aspiration of young women
 tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,"However, only one group"
-tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit…
+tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit...
 tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 19 Girls and"
 tutorial.openingMessage.mes7,今19人の女の子と,One Producer
 tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
@@ -1344,7 +1344,7 @@ reporterEvent.answer.ok,これでOK,That's OK
 reporterEvent.answer.private,プライベートの様子,About Private Life
 reporterEvent.answer.rethink,考え直す,Let's Rethink
 reporterEvent.answer.work,仕事の様子,About Work
-reporterEvent.answerMail,密着取材の依頼だ\nどうしようか……,It's a request for an interview.\r\nWhat should I do…
+reporterEvent.answerMail,密着取材の依頼だ\nどうしようか……,It's a request for an interview.\r\nWhat should I do...
 reporterEvent.badReporter,阿久井 徳次郎と申します──それじゃ、\n隅から隅まで取材させていただくんで、どうぞ宜しく,"I'm Tokujirou Akui,\r\nI'll be covering every aspect, best regards."
 reporterEvent.declineInterview,やめておこう。\n残念だが今回は都合がつかないな────,Let's not do it.\r\nUnfortunately it's not convenient at this time-
 reporterEvent.eventDetailTitle.failure,悪徳記者取材中,Corrupt Reporter Interview
@@ -1365,7 +1365,7 @@ staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美�
 staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~
 staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,"Is it chocolate~,they say that it's good for fatigue♪\r\nI'm going to eat it right away~"
 staffAssistEvent.workHard,頑張っちゃいますよ～♪,Do your best～♪
-staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~…
+staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~...
 shop.applyCampaignConfirmation.notices.1,購入前に必ず応募規約をお読みください,Please read the entry agreement before purchasing.
 shop.applyCampaignConfirmation.notices.2,購入時に応募規約に同意したものとみなします,You agree to the terms and conditions at the time of purchase.
 shop.applyCampaignConfirmation.title,購入確認,Purchase Confirmation
