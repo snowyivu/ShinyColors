@@ -1,9 +1,9 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,32
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,33
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,9
 images/ui/my_page/parts.json_image,my_page.parts.png,28
 images/ui/present_box/parts.json_image,present_box_parts.png,7
-images/ui/mission/parts.json_image,mission_parts.png,13
+images/ui/mission/parts.json_image,mission_parts.png,14
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,6
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,5
 images/content/my_page/banner_border/gasha.png,gasha.png,1
@@ -106,7 +106,7 @@ images/ui/item/parts_content.json_image,item_parts_content.png,8
 images/ui/item/parts.json_image,item_parts.png,9
 images/content/produce_area/button_m/002.png,button_m_002.png,1
 images/content/produce_area/button_l/002.png,button_l_002.png,1
-images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,1
+images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,2
 images/ui/common/parts_item_content.json_image,item_content.png,1
 images/ui/skin_exchange/parts.json_image,skin_exchange.png,9
 images/ui/produce_action/parts_fan_meeting.json_image,parts_fan_meeting.png,2
