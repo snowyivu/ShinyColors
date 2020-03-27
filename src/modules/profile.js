@@ -8,7 +8,7 @@ const ensureProfile = async () => {
     }
     return await profilePrms;
 }
-const transProfile = (data, item, profile) => {
+const transProfileProperty = (data, item, profile) => {
     if(item == "unit_name" && profile[item]) {
         data.unit.name = profile[item];
         return;
@@ -17,22 +17,33 @@ const transProfile = (data, item, profile) => {
         data[item] = profile[item];
     }
 }
-
+const transProfile = (data, idolProfile) => {
+    transProfileProperty(data, 'arm', idolProfile);
+    transProfileProperty(data, 'birthDay', idolProfile);
+    transProfileProperty(data, 'characterVoice', idolProfile);
+    transProfileProperty(data, 'firstName', idolProfile);
+    transProfileProperty(data, 'hobby', idolProfile);
+    transProfileProperty(data, 'nameKana', idolProfile);
+    transProfileProperty(data, 'place', idolProfile);
+    transProfileProperty(data, 'arm', idolProfile);
+    transProfileProperty(data, 'specialty', idolProfile);
+    transProfileProperty(data, 'starSign', idolProfile);
+    transProfileProperty(data, 'unit_name', idolProfile);
+}
 const idolProfiles = async (data) => {
     const profiles = await ensureProfile();
-    const idolProfile = profiles.get(data.name);
-    transProfile(data, 'arm', idolProfile);
-    transProfile(data, 'birthDay', idolProfile);
-    transProfile(data, 'characterVoice', idolProfile);
-    transProfile(data, 'firstName', idolProfile);
-    transProfile(data, 'hobby', idolProfile);
-    transProfile(data, 'nameKana', idolProfile);
-    transProfile(data, 'place', idolProfile);
-    transProfile(data, 'arm', idolProfile);
-    transProfile(data, 'specialty', idolProfile);
-    transProfile(data, 'starSign', idolProfile);
-    transProfile(data, 'unit_name', idolProfile);
-
+    if(data.name) {
+      const idolProfile = profiles.get(data.name);
+      transProfile(data, idolProfile)
+    }
+    if(data.beginnerMissionUnits) {
+     data.beginnerMissionUnits.forEach( (unit) => {
+         unit.idols.forEach( (idol) => {
+             const idolProfile = profiles.get(idol.idol.character.name);
+             transProfile(idol.idol.character, idolProfile);
+         });
+     });
+    }
 }
 
 export { idolProfiles }
