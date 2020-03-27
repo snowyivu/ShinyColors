@@ -88,7 +88,8 @@ const requestOfGet = [
   [/gashaGroups\/\d+\/rates/, 'cardName'],
   ['userProduces', [topCharacterReaction]],
   [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]],
-  [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill]
+  [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill],
+  ['userBeginnerMissions/top',[idolProfiles] ]
 ]
 
 const requestOfPost = [
