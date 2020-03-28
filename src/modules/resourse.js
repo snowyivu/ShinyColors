@@ -1,5 +1,6 @@
 import { log } from '../utils/index'
 import getImage from '../store/image'
+import getIgnoreImage from '../store/ignoreimage'
 import config from '../config'
 import { getAoba } from './get-module'
 
@@ -21,6 +22,14 @@ const ensureImage = async () => {
     imageDataPrms = getImage()
   }
   return await imageDataPrms
+}
+
+let ignoreImageDataPrms = null
+const ensureIgnoreImage = async () => {
+  if (!ignoreImageDataPrms) {
+    ignoreImageDataPrms = getIgnoreImage()
+  }
+  return await ignoreImageDataPrms
 }
 
 let replaced = false
@@ -47,7 +56,17 @@ export default async function resourceHook () {
         }
       } else {
         if (DEV) {
-          imageLog('IMAGE-MISSING','#ff0000', this.name, originalUrl)
+		  const ignoreImageMap = await ensureIgnoreImage()
+		  if(ignoreImageMap.has(this.name)) {
+			  log(this.name)
+			  const data = ignoreImageMap.get(this.name)
+			  if (!this.url.endsWith(`v=${data.version}`)) {
+				  imageLog('IMAGE-MISMATCH','#ff0000', this.name, originalUrl)
+			  }
+			  // else don't print because ignored
+		  } else {
+			imageLog('IMAGE-MISSING','#ff0000', this.name, originalUrl)
+		  }
         }
       }
     } catch (e) {
