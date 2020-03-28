@@ -9273,7 +9273,9 @@
 	        const version = trim(item.version) || '1';
 
 	        if (name) {
-	          ignoreImageMap.set(name, version);
+	          ignoreImageMap.set(name, {
+	            version
+	          });
 	        }
 	      }
 	    });
@@ -9334,7 +9336,7 @@
 	          }
 	        } else {
 	          if (DEV) {
-	            imageLog('IMAGE-MISMATCH', '#ff0000', this.name, originalUrl);
+	            imageLog('IMAGE-MISMATCH', '#ff00ff', this.name, originalUrl);
 	          }
 	        }
 	      } else {
@@ -9342,7 +9344,6 @@
 	          const ignoreImageMap = await ensureIgnoreImage();
 
 	          if (ignoreImageMap.has(this.name)) {
-	            log(this.name);
 	            const data = ignoreImageMap.get(this.name);
 
 	            if (!this.url.endsWith(`v=${data.version}`)) {
