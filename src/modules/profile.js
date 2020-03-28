@@ -44,6 +44,14 @@ const idolProfiles = async (data) => {
          });
      });
     }
+    if(data.units) {
+     data.units.forEach( (unit) => {
+         unit.idols.forEach( (idol) => {
+             const idolProfile = profiles.get(idol.character.name);
+             transProfile(idol.character, idolProfile);
+         });
+     });
+    }
 }
 
 export { idolProfiles }
