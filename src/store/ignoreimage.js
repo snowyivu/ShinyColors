@@ -19,7 +19,7 @@ const getIgnoreImage = async () => {
         const name = trim(item.name)
         const version = trim(item.version) || '1'
         if (name) {
-          ignoreImageMap.set(name, { version })
+          ignoreImageMap.set(name, version )
         }
       }
     })
