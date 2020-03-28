@@ -89,7 +89,8 @@ const requestOfGet = [
   ['userProduces', [topCharacterReaction]],
   [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]],
   [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill],
-  ['userBeginnerMissions/top',[idolProfiles] ]
+  ['userBeginnerMissions/top',[idolProfiles] ],
+  ['tutorialIdols',idolProfiles],
 ]
 
 const requestOfPost = [
