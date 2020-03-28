@@ -9254,6 +9254,37 @@
 	  return imageMap;
 	};
 
+	const ignoreImageMap = new Map();
+	let ignoreLoaded = false;
+
+	const getIgnoreImage = async () => {
+	  if (!ignoreLoaded) {
+	    let csv = await getLocalData('ignoreimage');
+
+	    if (!csv) {
+	      csv = await fetchWithHash('/data/ignoreimage.csv');
+	      setLocalData('ignoreimage', csv);
+	    }
+
+	    const list = parseCsv(csv);
+	    list.forEach(item => {
+	      if (item && item.name) {
+	        const name = trim(item.name);
+	        const version = trim(item.version) || '1';
+
+	        if (name) {
+	          ignoreImageMap.set(name, {
+	            version
+	          });
+	        }
+	      }
+	    });
+	    ignoreLoaded = true;
+	  }
+
+	  return ignoreImageMap;
+	};
+
 	const logStyles$1 = color => [`background-color:${color};color:#fff;padding:0 0.3em`, '', `color:${color};text-decoration:underline`];
 
 	const imageLog = (method, color, path, url) => {
@@ -9270,6 +9301,16 @@
 	  }
 
 	  return await imageDataPrms;
+	};
+
+	let ignoreImageDataPrms = null;
+
+	const ensureIgnoreImage = async () => {
+	  if (!ignoreImageDataPrms) {
+	    ignoreImageDataPrms = getIgnoreImage();
+	  }
+
+	  return await ignoreImageDataPrms;
 	};
 
 	let replaced = false;
@@ -9300,7 +9341,19 @@
 	        }
 	      } else {
 	        if (DEV) {
-	          imageLog('IMAGE-MISSING', '#ff0000', this.name, originalUrl);
+	          const ignoreImageMap = await ensureIgnoreImage();
+
+	          if (ignoreImageMap.has(this.name)) {
+	            log(this.name);
+	            const data = ignoreImageMap.get(this.name);
+
+	            if (!this.url.endsWith(`v=${data.version}`)) {
+	              imageLog('IMAGE-MISMATCH', '#ff0000', this.name, originalUrl);
+	            } // else don't print because ignored
+
+	          } else {
+	            imageLog('IMAGE-MISSING', '#ff0000', this.name, originalUrl);
+	          }
 	        }
 	      }
 	    } catch (e) {}
