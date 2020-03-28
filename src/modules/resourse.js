@@ -51,14 +51,13 @@ export default async function resourceHook () {
           }
         } else {
           if (DEV) {
-            imageLog('IMAGE-MISMATCH','#ff0000', this.name, originalUrl)
+            imageLog('IMAGE-MISMATCH','#ff00ff', this.name, originalUrl)
           }
         }
       } else {
         if (DEV) {
 		  const ignoreImageMap = await ensureIgnoreImage()
 		  if(ignoreImageMap.has(this.name)) {
-			  log(this.name)
 			  const data = ignoreImageMap.get(this.name)
 			  if (!this.url.endsWith(`v=${data.version}`)) {
 				  imageLog('IMAGE-MISMATCH','#ff0000', this.name, originalUrl)
