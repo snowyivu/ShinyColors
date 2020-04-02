@@ -3,13 +3,14 @@ id,name,text,trans
 どうかしたのか？","Juri, you've been staring at your smartphone…
 Is something wrong?"
 1011001000510010,樹里,"あ、プロデューサー
-ケータイの設定変えてーんだけどよ、よくわかんねーんだよ","Ah, Producer. I want to change the settings on my cellphone, but I have no idea how."
+ケータイの設定変えてーんだけどよ、よくわかんねーんだよ","Ah, Producer. 
+I want to change the settings on my cellphone, but I have no idea how."
 1011001000510020,樹里,ワリーんだけど、何とかしてくんねぇか？,"Sorry to bother, but can you do something about it?"
 0000000000000,プロデューサー,（樹里はとても困っているみたいだ）,"(Juri seems to be having a lot of trouble)
 "
 select,,"任せとけ、
 機械は得意だ","Leave it to me,
-I'm good at tech"
+I'm good at tech."
 select,,"壁紙は
 俺の写真でいいか？","Can I change the
 wallpaper
@@ -26,7 +27,7 @@ manual?"
 朝から冗談キツいぜプロデューサー","What?
 Don't make a bad joke this early in the morning, Producer."
 1011001000510060,樹里,"あっ
-でも、壁紙変更のやり方は教えてくれるか？","Ah
+でも、壁紙変更のやり方は教えてくれるか？","Ah.
 Can you teach me how to change the wallpaper though?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1011001000510070,樹里,説明書なんて持って来てねーよ,I don't have the manual with me.

@@ -1,12 +1,12 @@
 id,name,text,trans
 6901001090010,はづき,"プロデューサーさん！
-『W.I.N.G.』優勝、本当におめでとうございます！","Producer-san!
+『W.I.N.G.』優勝、本当におめでとうございます！","Producer!
 Big congratulations on your idol winning W.I.N.G.!"
 6901001090020,はづき,"私も会場で見てたんですけど、
 発表の瞬間、思わず大声を出しちゃいましたよ！",I was watching from the audience like you were. When they announced the results I screamed without even thinking!
 6901001090030,はづき,"今もまだ興奮しちゃってて、
 今日はもう眠れそうにありません！","I'm still full of excitement, I don't think I'll even be able to sleep tonight!"
-0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Hazuki-san, thank you so much!"
+0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Hazuki, thank you so much!"
 6902001090010,社長,"本当によくやった
 期待以上の結果を出してくれたな","You've done a very fine job.
 These results have far exceeded my expectations. "
@@ -41,7 +41,7 @@ Where did she go...?"
 0000000000000,プロデューサー,"おっ、空なんか眺めてどうした……事務所の前だからって、
 夜遅くに一人で出歩いたら危ないぞ","Oh, she's looking up at the sky... you're in front of the office, and going out for a walk by yourself at night is dangerous, you know."
 6009001090020,果穂,"わわっ、プロデューサーさんっ！？　すみません！
-ちょっとぼーっとしてました","Woah, Producer-san?! I'm sorry!
+ちょっとぼーっとしてました","Woah, Producer?! I'm sorry!
 I sort of spaced out."
 0000000000000,プロデューサー,何見てたんだ、星か？,"What are you looking at, the stars?"
 6009001090030,果穂,"はいっ！　なんかこう……
@@ -59,22 +59,22 @@ I sort of spaced out."
 6009001090080,果穂,"はいっ！　番組の終わりに、エンディングテーマと一緒に
 スタッフさんの名前が出てくるみたいに……",Yes! It's like when the staff members' names scroll by during the ending theme of a show.
 6009001090090,果穂,"お父さん、お母さん、お兄ちゃん、マメ丸、友達のみんな、
-ユニットのみんな……はづきさんに社長さん","Dad, mom, big brother, Mamemaru, all my friends, all of my unit members... Hazuki-san and the president."
+ユニットのみんな……はづきさんに社長さん","Dad, mom, big brother, Mamemaru, all my friends, all of my unit members... Hazuki and the president."
 6009001090100,果穂,"それで最後に、いっちばんおっきい字で、
-プロデューサーさん、です！","And last, in the hugest letters of all, is Producer-san!"
+プロデューサーさん、です！","And last, in the hugest letters of all, is Producer!"
 6009001090110,果穂,えへへっ！,Ehehe!
 0000000000000,プロデューサー,はは。それはうれしいけど、俺が一番でいいのか？,"Haha. I'm glad, but is it really okay for me to be the biggest?"
 6009001090120,果穂,"はい！　プロデューサーさんには、
 いっぱい助けてもらいましたからっ",Yes! It's because you helped me out a bunch.
 6009001090130,果穂,"あの、プロデューサーさん！
-本当にありがとうございました！","Um, Producer-san!
+本当にありがとうございました！","Um, Producer!
 Thank you, really!"
 6009001090140,果穂,"あたし、プロデューサーさんのおかげで、
 優勝できましたっ",It's because of you that I was able to win.
 0000000000000,プロデューサー,"そんなことはないよ
 果穂が頑張ったから、優勝できたんだ",That's not true. You won because of all your hard work.
 6009001090150,果穂,"いえっ！　あたしとプロデューサーさんは、
-チームですから！　チームの勝利なんです！",No! Producer-san and I are a team! It's a team win!
+チームですから！　チームの勝利なんです！",No! Producer and I are a team! It's a team win!
 6009001090160,果穂,"ヒーローも一人で勝てるわけじゃなくて、
 仲間の助けが必要ですからっ","Heroes don't win by themselves, either. They need help from their friends."
 6009001090170,果穂,一緒に戦ってきた仲間の協力を忘れたらダメです,You shouldn't forget how you fought together with your friends.
@@ -98,6 +98,6 @@ The story continues!"
 6009001090220,果穂,"やったー！
 あたし、スゴくカッコいいアイドルを目指して頑張ります！",Hooray! I'm going to work towards being a super cool idol!
 6009001090230,果穂,"だから、これからもよろしくお願いしますっ
-プロデューサーさん！","So, I'm looking forward to keeping on working with you, Producer-san!"
+プロデューサーさん！","So, I'm looking forward to keeping on working with you, Producer!"
 info,produce_events/600900109.json,
 译者,,

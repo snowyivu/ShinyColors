@@ -17,7 +17,7 @@ I saw you talking with that guy earlier..."
 2001004020050,真乃,"さっきの人には、道を聞かれたんです
 この先の、郵便局に行きたかったそうで……","Oh, he was just asking me for directions to the post office."
 2001004020060,真乃,"でも私、あんまり上手に教えられませんでした
-あの人が、迷子になったらどうしましょう……","But I'm not sure if I managed to explain very well, though. What if he got lost? ...And it'll be my fault..."
+あの人が、迷子になったらどうしましょう……",But I'm not sure if I managed to explain very well. What if he gets lost? ...It'll be my fault...
 0000000000000,プロデューサー,そうか、それで心配そうな顔をしてたのか,So that's why you were looking so worried.
 0000000000000,プロデューサー,"ちょっとだけ会話が聞こえてたけど、
 真乃はちゃんと説明できてたよ。充分伝わったと思う","I only heard a bit of the conversation, but I think you gave the directions perfectly. I'm sure he'll be fine."
@@ -44,31 +44,30 @@ That's a relief."
 select,,"お出かけが好き
 なんだって？","Where you like
 to go out?"
-select,,植物に詳しいんだって？,The particulars of gardening?
+select,,植物に詳しいんだって？,"Do you know
+much about plants?"
 select,,"どんな公園が
 好きなんだ？","Your favorite
 parks?"
 0000000000000,プロデューサー,お出かけが好きなんだって？,Where you like to go out?
 2001004020130,真乃,"……はい。お日様の光を浴びながら、
-お散歩するのが好きです","Yes, I tend to sun-bask, but,
+お散歩するのが好きです","Okay. I tend to sun-bask, but,
 I also like to go on a stroll."
 0000000000000,プロデューサー,歩いていくなら……やっぱり公園とかか？,Taking a stroll... like at a park?
 2001004020140,真乃,"はいっ、公園は大好きでよく行きます
 でも、街に行って、お買い物するのも好きです","Well, I love the park, and I often go there.
-But, I also like going to the town and shop there too."
+But, I also like going to town and the shops there."
 2001004020150,真乃,"全然知らないところへ行って、商店街を回ったりするのも
-初めて見るものがあったりで、とっても楽しいんです","Going to places you never been to at all, and going around the shopping district. There's many things to see for the first time, and they're quite nice."
-0000000000000,プロデューサー,そうか、真乃はいろんなところに行ってるんだな,"Oh, you're the one who goes to various places."
+初めて見るものがあったりで、とっても楽しいんです","Going to places I've never been to and walking around the shopping district. There's many things to see for the first time, I really like it."
+0000000000000,プロデューサー,そうか、真乃はいろんなところに行ってるんだな,"Oh, you're one who goes to various places."
 2001004020160,真乃,"はい。お散歩してたら、いつの間にか
 遠くまでお出かけしちゃってることが多いんです","Yes. If you take a stroll with me, 
 I'd probably go way farther than you."
 0000000000000,プロデューサー,それは、真乃の良いところだね,That's a good thing about you.
 0000000000000,プロデューサー,"アイドルは、仕事を通していろんな場所に行けるんだ
-真乃なら、アイドルの仕事を楽しんでいけるね","Idols can go to many places through their work,
-But, if you're Mano, you can enjoy your work as an idol."
+真乃なら、アイドルの仕事を楽しんでいけるね","Idols can go to many places through their work. But, since you're Mano, you can enjoy your work as an idol."
 2001004020170,真乃,"私の好きなお散歩みたいに、アイドルの仕事を楽しむ……
-私、とってもわくわくしてきました","Enjoying your work as an idol... like my favorite strolls...
-I suddenly feel very energized!"
+私、とってもわくわくしてきました",Enjoying my work as an idol... like my favorite strolls... I suddenly feel very energized!
 2001004020180,真乃,"私がこれからどこまで進んでいけるか、
 まだよくわかりませんけど……","How far can I go from here...
 I don't know that yet."
@@ -77,8 +76,8 @@ I don't know that yet."
 Mun!"
 0000000000000,プロデューサー,植物に詳しいんだって？,The particulars of gardening?
 2001004020200,真乃,"はい。道の端っこにある樹や、お花を見て回ってます
-季節が変わったら咲く花も変わって、面白いです","Well, I look around the trees and flowers at the end of the roads. When the season changes, blooming flowers also change, which is interesting."
-2001004020210,真乃,後は……山に咲いているお花を見にいったりもします,After that... I go seeing the flowers on the mountains.
+季節が変わったら咲く花も変わって、面白いです","Well, I look around the trees and flowers at the side of the roads. When the season changes, the flowers also change, which is interesting."
+2001004020210,真乃,後は……山に咲いているお花を見にいったりもします,After that... I go to see the flowers blooming on the mountains.
 0000000000000,プロデューサー,"山にも行くんだ？
 結構行動力あるんだな","Going to the mountains?
 You're quite active."
@@ -86,16 +85,16 @@ You're quite active."
 ふふっ、私……山菜にもくわしいんですよっ","I like going out and looking around after all.
 Fufu, I'm also interested in wild plants too."
 2001004020230,真乃,"山菜を使ったお料理も好きで、よく美味しく頂くんです
-心がとってもあったかくなって……ほわほわ～ってなります","I also like cooking with wild vegetables, and they're quite delicious. My heart feels so warm... Hwawa, I'm sorry about that."
+心がとってもあったかくなって……ほわほわ～ってなります","I also like cooking with wild vegetables, and they're quite delicious. My heart feels so warm... it's feeling light."
 0000000000000,プロデューサー,山菜を使った料理か……本当に美味しそうだ,Making a dish with wild vegetables... That sounds really delicious.
 2001004020240,真乃,"はいっ
-そうだ、今度作ったとき事務所に持ってきますね",Yes. I know! I'll bring some to the office when I make it next time.
+そうだ、今度作ったとき事務所に持ってきますね","Yeah! I know, I'll bring some to the office when I make it next time."
 2001004020250,真乃,"みんなにも食べてもらえたらなぁ……
 山菜のかき揚げは……アツアツのほうがいいし……","I hope everyone will be able to enjoy it.
-Kakiage with wild vegetables... better if it was served while hot..."
+Kakiage with wild vegetables... that's better served while hot..."
 2001004020260,真乃,"山菜の……おにぎりなら？　それならいいかも
 頑張って作りますね、むんっ","Onigiri... made with wild vegetables...?
-It sounds good. I'll do my best for it! Mun!"
+That sounds good. I'll do my best for it! Mun!"
 0000000000000,プロデューサー,"そんなことまで考えてくれて、ありがとうな
 真乃の手作り、楽しみに待ってるよ","Thank you for thinking about that too...
 Mano's handmade meals, I'm looking forward to them."
@@ -110,11 +109,10 @@ but the nearby nature park is also..."
 2001004020290,真乃,"……あっ、今一番のお気に入りは、
 事務所のすぐ近くにある、いつもの公園ですっ",Ah! But my favorite park has to be the one I go to all the time ── the one next to our office.
 2001004020300,真乃,"ちょっと疲れちゃったときも、
-あの公園に行けば元気になれるんです","I go there when I'm feeling tired,
-and it always perks me up."
+あの公園に行けば元気になれるんです","I go there when I'm feeling tired, and it always perks me up."
 0000000000000,プロデューサー,それが、真乃の元気の源なんだな,"I see. So it's like the wellspring of Mano's life-force, huh?"
 2001004020310,真乃,"はいっ
-お話してたら、今日も行きたくなってきました","Yeah! Now that we mention it,
+お話してたら、今日も行きたくなってきました","Yeah! Now that we've mentioned it,
 I kinda feel like going there today!"
 2001004020320,真乃,"あ……こんなにのんびりお話ししてたら、
 上手にお話しする練習にはなりませんよね……？","Oh... But making idle chit-chat like this doesn't really count as good conversation practice, does it?"
@@ -129,7 +127,6 @@ Will I be able to...?"
 真乃ならできるって、俺は信じてるよ","Yes, you will.
 I believe you will."
 2001004020340,真乃,"じゃあ私、これからも勉強して、
-楽しいお話ができるアイドルになりますねっ","Then, I'll practice hard and
-become an idol who can converse well!"
+楽しいお話ができるアイドルになりますねっ","Then, I'll practice hard and become an idol who can converse well!"
 info,produce_events/200100402.json,
 译者,,

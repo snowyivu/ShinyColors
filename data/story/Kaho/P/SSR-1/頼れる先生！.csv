@@ -1,0 +1,96 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お疲れ、果穂
+待たせてごめんな","Good job Kaho. Sorry to keep you waiting. "
+2009004010010,果穂,"あ、プロデューサーさんっ！
+お疲れさまですっ！",Ah Producer! Thank you for your hard work!
+0000000000000,プロデューサー,"……ん？
+何してるんだ？",Hm? What are you doing?
+2009004010020,果穂,宿題、やってましたっ,"I'm doing my homework. "
+0000000000000,プロデューサー,"宿題、か……
+なんだか懐かしい響きだな",Homework huh? That sounds so nostalgic...
+2009004010030,果穂,さっき、はづきさんに今日の学校の話をしてて……," I already told Hazuki that I had school today."
+2009004010040,果穂,"宿題がいっぱい出ちゃったんですって言ったら、
+プロデューサーさんが来るまでしててもいいって！","When I told her that I had a lot of homework to do, she said to do it before producer comes back to the office!"
+0000000000000,プロデューサー,そうか、えらいな," I see, that's pretty good."
+2009004010050,果穂,"えへへ……
+あ、今からお仕事ですよね",Hehe! Ah! About today's work....
+2009004010060,果穂,"教科書広げちゃってごめんなさいっ
+すぐ片づけますっ！","I'm sorry about all the texbooks scattered around the office! I'll try to clean it up as fast as I can! "
+0000000000000,プロデューサー,"いや、急がなくていいよ。俺も少し準備があるし、
+キリのいいところまでやってみたらどうだ？","No, you don't have to rush. I don't have many things to prepare so why don't you try to finish up the rest of your homework? 
+"
+2009004010070,果穂,"本当ですか？　ありがとうございますっ！
+じゃあ、あとちょっとだけやっちゃいます！","Really? Thank you so much Prodcuer! Now, let me see if I can finish up the rest!"
+2009004010080,果穂,"…………
+……うーん……"," Hm....."
+0000000000000,プロデューサー,"どうしたんだ？
+……あ",What's wrong? Oh.
+0000000000000,プロデューサー,（算数の問題でつまずいているのか……）,(I think she's having trouble with the arithmetic problems...)
+2009004010090,果穂,"……うー
+わかりそうで、わかりません……"," I don't think I understand this..."
+0000000000000,プロデューサー,"ああ、それなら……
+ここに補助線を引くと、どうかな？","Ah I get it now, How about drawing an additional line here? "
+2009004010100,果穂,"あ……
+そっか、それだとこうなって……",I see now. So that's what it's suppose to look like.
+0000000000000,プロデューサー,"そうそう
+……ああ、そこはこうして……","That's right. Ah, and then there's this."
+2009004010110,果穂,"それで……
+こうして……あっ！"," I see. So then this... Ah!"
+2009004010120,果穂,解けましたー！," I solved it!"
+0000000000000,プロデューサー,おお、やったな！,Ah you did it!
+2009004010130,果穂,"ありがとうございます！
+プロデューサーさんのおかげですっ","Thank you! I did it thanks to your help! "
+2009004010140,果穂,"スゴくわかりやすくって……
+プロデューサーさん、なんだか先生みたいでしたっ","That was pretty easy and awesome to understand! Producer you're almost like a teacher!
+"
+0000000000000,プロデューサー,はは、そうか？,"Haha, is that so? "
+2009004010150,果穂,"はいっ。お仕事だけじゃなくて
+勉強も教えてくれるなんて……"," Yeah! Not just at producing but also teaching people how to study! "
+2009004010160,果穂,プロデューサーさんって、なんでもできるんですねっ,How are you able to do so many things Producer?
+0000000000000,プロデューサー,そ、そこまで大したものじゃ……,I-It's not that big of a deal...
+2009004010170,果穂,プロデューサーさんはやっぱりスゴいですっ……！,"You really are amazing Producer! "
+2009004010180,果穂,良かったら、また今度あたしに勉強教えてください！,"If you can, please teach me again another time! 
+"
+select,,もちろんだ,Of course
+select,,"わからないところを
+教えるよ",I'll teach you what you don't understand
+select,,俺も勉強しておくよ,"I'll study with you too. "
+2009004010190,果穂,"わあっ……うれしいですっ！
+あ！　じゃあまた、事務所で宿題してもいいんでしょうかっ","Waaah! I'm so happy! Is it okay if I do my homework again in the office? "
+0000000000000,プロデューサー,ああ、いつでもいいぞ,"Ah, anytime is fine. "
+2009004010200,果穂,"やったー！　プロデューサーさんがいてくれたら
+どんな宿題でも怖いものなしです！","Hooray! With Producer, no homework is going to be scary ever again !"
+0000000000000,プロデューサー,"はは、そこまで期待されると、
+俺も少し気合い入れないとな","If that much is to be expected, I guess I have to be more enthusaistic."
+0000000000000,プロデューサー,"果穂がもっと大きくなって、
+俺には解けない問題をどんどん解くかもしれないから","As you grow bigger Kaho, there might be some problems that even I can't solve for you. "
+2009004010210,果穂,"プロデューサーさんにも解けない問題を……？
+なんだか、想像できません……"," Problems that Producer can't solve...? I can't imagine that..."
+0000000000000,プロデューサー,"でも、果穂にはそんな可能性があるんだからな
+勉強もアイドルも、精一杯頑張ろう"," But I think it's possible you can do it Kaho. So let's do our best to study and become the best idol. "
+2009004010220,果穂,"プロデューサーさん……
+はい！　あたし、どっちも頑張ります！"," Producer....! Yeah! I'll try my best at doing both!"
+0000000000000,プロデューサー,"まずは果穂自身が問題と向き合わないとな
+すぐに諦めない気持ちも大切だ","First of all Kaho, it's important that you don't turn away from a problem and give up immediately. "
+2009004010230,果穂,"……そっか！　あたしの宿題ですもんねっ！
+ヒーローも、すぐには諦めません！",You're right! It's my homework problem. A hero doesn't give up that fast!
+0000000000000,プロデューサー,"自分で考えて解くのが、１番身につくからな
+テストの時は、ひとりで頑張らないといけないし","Solving a problem by thinking over it just by yourself is the first thing that you get used to, because during tests, you need to do your best alone.
+"
+2009004010240,果穂,はいっ。まずは自分で、頑張ってみます！," Yeah. The first thing I have to do is trying the best I can! "
+0000000000000,プロデューサー,その意気だ！,That's the spirit!
+0000000000000,プロデューサー,"でも、本当にわからないことがあったら……
+すぐ声をかけてくれ。手助けするよ","But if you really don't understand a problem. Call out to me immdeiately, I'll help you out. "
+2009004010250,果穂,はいっ！　……えへへ、うれしいですっ！,Sure! Hehe! This makes me so happy!
+2009004010260,果穂,"えっ……！？
+どうして、プロデューサーさんまで勉強するんですか？","Huh!? Why do you want to study with me Prodcuer? "
+0000000000000,プロデューサー,果穂にわかりやすく教えてあげたいからな," I want to you teach in a way that's easy for you to understand. "
+2009004010270,果穂,"あたしのためにですか……！？
+プロデューサーさん、ありがとうございますっ！","Just for me!? Thank you so much Producer!
+"
+2009004010280,果穂,"大人になっても勉強するなんて……カッコいいです！
+あたしも、もっと勉強頑張りますっ！","Studying even when you're all grown up... That's so cool! I will do my best to study even more now! "
+0000000000000,プロデューサー,ああ、一緒に頑張ろうな,"Ah, let's do our best together."
+2009004010290,果穂,はいっ……！," Yep! "
+info,produce_events/200900401.json,
+译者,,
