@@ -4,12 +4,11 @@ id,name,text,trans
 It's embarassing to wear this in public, honestly…"
 0000000000000,プロデューサー,"（慣れないアイドル衣装を着て人前に出ることに
 不安を感じているようだ……なんとか励ましてあげよう）",(She seems to be worried about showing off an unfamilliar outfit… I have to encourage her somehow)
-select,,良く似合っているよ,It suits you well
+select,,良く似合っているよ,It suits you well.
 select,,"大丈夫だ。
 俺を信じろ","You look fine.
-Trust me
-"
-select,,ギャップがいい感じだ,There's a good gap
+Trust me."
+select,,ギャップがいい感じだ,There's a good gap.
 4011001000110020,樹里,"そ、そうか？
 なら、アンタの言葉を信じるぜ","R-really?
 I trust you then."
