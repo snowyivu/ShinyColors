@@ -1,38 +1,38 @@
 id,name,text,trans
 1015001001410010,甜花,"プロデューサーさん……
-甜花、どうかな？","Producer…
+甜花、どうかな？","Producer...
 What do you think, about Tenka?"
-0000000000000,プロデューサー,どうって……何がだ？,Think… about what?
+0000000000000,プロデューサー,どうって……何がだ？,Think... about what?
 1015001001410020,甜花,"なーちゃんに……前よりも
-元気だねって……言われたんだ……","Naa-chan… said that
-Tenka's more cheerful… than before…"
+元気だねって……言われたんだ……","Naa-chan... said that
+Tenka's more cheerful... than before..."
 0000000000000,プロデューサー,"そういうことか
 そうだな、今の甜花は……","It's about that, huh.
-That's right, the Tenka right now is…"
+That's right, the Tenka right now is..."
 select,,自信がついたからかな,More confident.
 select,,見違えるようだよ,Quite different.
 select,,前から元気だったぞ,Fine like usual.
 1015001001410030,甜花,"自信……そういえば、前より……
-ひとりで、いろいろできる……気がする……","Confident… That's right, lately…
-Tenka feels like she can do more things… by herself…"
+ひとりで、いろいろできる……気がする……","Confident... That's right, lately...
+Tenka feels like she can do more things... by herself..."
 1015001001410040,甜花,"にへへ……プロデューサーさんも……なーちゃんも……
-甜花より、甜花のこと知ってるね……","Nihehe… Producer… and Naa-chan too…
-really know Tenka well…"
+甜花より、甜花のこと知ってるね……","Nihehe... Producer... and Naa-chan too...
+really know Tenka well..."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,(Alright! That went really well.)
 1015001001410050,甜花,"プロデューサーさんも、そう思う……？
 甜花、あんまり変わってない気がする……けど……","You think so too?
-Tenka doesn't really feel like she's changed a lot… but…"
+Tenka doesn't really feel like she's changed a lot... but..."
 1015001001410060,甜花,"ふたりが、そう言ってくれるなら、そうなのかな……
-……ちょっと嬉しい、な……","If you two say so, then maybe it really is true…
-…That makes Tenka happy for a bit."
+……ちょっと嬉しい、な……","If you two say so, then maybe it really is true...
+...That makes Tenka happy for a bit."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1015001001410070,甜花,"そうかな……？
 甜花……少しは変わったのかなって、思うけど……","Is that so?
-Tenka… was wondering, if she changed a bit…"
+Tenka... was wondering, if she changed a bit..."
 1015001001410080,甜花,"プロデューサーさん……
-甜花、元気に見えない……？","Producer…
-Does Tenka really looks not that fine before…?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
-I should have said something else…)"
+甜花、元気に見えない……？","Producer...
+Does Tenka really looks not that fine before...?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah... I screwed up.
+I should have said something else...)"
 info,produce_communications/101500100141.json,
 译者,,

@@ -1,29 +1,29 @@
 id,name,text,trans
 4015001000210010,甜花,"プロデューサーさん……ちゃ、ちゃんと……
-歌って……くるね……","Producer… T-Tenka will…
-sing well… Okay…"
+歌って……くるね……","Producer... T-Tenka will...
+sing well... Okay..."
 0000000000000,プロデューサー,"甜花、なんだかあんまり声が出てないな
 それなら……","Tenka, your voice is not coming out properly.
-In that case…"
+In that case..."
 select,,のど飴をあげる,Here's cough candy.
 select,,水を飲んでおこう,Have some water.
 select,,大きな声を出してみよう,"Try making your
 voice louder."
 4015001000210020,甜花,"ありがと……あ、イチゴ味だ……
-にへへ、おいしい……本番、ちゃんと歌えそう……","Thank you… Ah, it's strawberry flavor…
-Nihehe, it's tasty… During the performance, Tenka will surely sing well…"
+にへへ、おいしい……本番、ちゃんと歌えそう……","Thank you... Ah, it's strawberry flavor...
+Nihehe, it's tasty... During the performance, Tenka will surely sing well..."
 0000000000000,プロデューサー,"（声も出るようになったし、
 緊張もほぐしてあげられたみたいだな）","(Her voice is coming out well,
 it seems her nervousness is gone as well.)"
 4015001000210030,甜花,"ごく……ごく……ふぅ……
-あ……声、ちゃんと出てなかったかも……","Gulp… Gulp… Phew…
-Ah… Tenka's voice, has come out a bit…"
+あ……声、ちゃんと出てなかったかも……","Gulp... Gulp... Phew...
+Ah... Tenka's voice, has come out a bit..."
 0000000000000,プロデューサー,"（緊張して喉が乾いてたのか……
-これで、良い声が出せるようになったな）","(It seems her nervousness is gone as she drinks…
+これで、良い声が出せるようになったな）","(It seems her nervousness is gone as she drinks...
 With this, she'll definitely be able to have a good voice.)"
 4015001000210040,甜花,"お、おっきい声……？　あ……あー！！
-こんな、感じ……？","L-Loud voice…? Aaaa!!
-Something like that…?"
+こんな、感じ……？","L-Loud voice...? Aaaa!!
+Something like that...?"
 0000000000000,プロデューサー,（さっきよりは声が出るようになったかな）,(Maybe her voice is slightly louder now.)
 info,produce_communication_cheers/401500100021.json,
 译者,,
