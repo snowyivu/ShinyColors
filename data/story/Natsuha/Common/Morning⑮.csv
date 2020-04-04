@@ -1,8 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"おはよう、夏葉
 それは……自分のライブ映像か","Morning, Natsuha.
-Is that... one of your live performances?
-"
+Is that... one of your live performances?"
 1013001001510010,夏葉,"ええ、そうよ
 ……プロデューサーも見てみて","Yes, it is.
 ...Take a look, Producer."
@@ -15,8 +14,7 @@ select,,"いいパフォーマンス
 performance,
 I think."
 select,,盛り上がっているな,"You were quite
-excited, huh?
-"
+excited, huh?"
 1013001001510030,夏葉,"そう！　私もそう思ってたの！
 どうも何かが足りないのよね……","Exactly! That's exactly what I was thinking!
 Somehow, something's missing."
@@ -24,19 +22,18 @@ Somehow, something's missing."
 プロデューサー、一緒に考えてくれないかしら？","I can't seem to figure out exactly what it is by myself.
 Could you help me think of what it could be?
 "
-0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1013001001510050,夏葉,"ありがとう
 そう言われるのは素直にうれしいわ","Thank you. I'm happy to hear you
 say that so honestly."
 1013001001510060,夏葉,でも、完璧だとは思えないのよね……,But I still think it wasn't perfect...
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1013001001510070,夏葉,"ええ…確かにすごい盛り上がりね
 私もすごく楽しかったわ","Yes... I was really excited.
 I had a lot of fun, too."
 1013001001510080,夏葉,"でも、プロデューサーには私のパフォーマンスを
 気にしてほしいわね","But, I'd like you to focus a bit more on
 my actual performance."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
-I should have said something else……)"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101300100151.json,
 译者,,

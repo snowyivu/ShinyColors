@@ -4,14 +4,12 @@ id,name,text,trans
 What song are you listening to?"
 1011001000610010,樹里,ああ、音楽じゃなくて英語のリスニングだよ,"Oh, it's not a song, it's an English listening exercise."
 1011001000610020,樹里,"最近、仕事が忙しくなってきただろ？
-あまり勉強時間が取れなくなってきたんだよなぁ","Work has been getting busy, so I don't have enough time to study. 
-"
+あまり勉強時間が取れなくなってきたんだよなぁ","Work has been getting busy, so I don't have enough time to study. "
 0000000000000,プロデューサー,たしかに仕事が増えると勉強が大変になるよな……,"Right, the more work you get the less time you have for school..."
 select,,俺が教えようか？,Shall I help?
 select,,"いつも勉強は
 欠かさないのか？","Are you always
-studying?
-"
+studying?"
 select,,"テスト前の日程、
 調整しようか？","Should I change
 the work schedule
@@ -20,18 +18,17 @@ before test dates?"
 期待はしてねーけど、試しにお願いしてみようかな","Producer, you can help with my homework?
 I'm not getting my hopes up, but it doesn't hurt to try."
 1011001000610040,樹里,へへ、アタシのことガッカリさせんなよ？,"Hehe, don't let me down, ok?"
-0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1011001000610050,樹里,"まぁ、欠かさねーっていうか、ほどほどだよ
 しない理由も特になかったし","Well, it's not like I'm always studying.
 I don't really have a reason not to do it."
 1011001000610060,樹里,"それにアイドル始めたからって、
 成績落ちるのもかっこわりーからな","Besides, it's lame to drop my grades just because I became an idol."
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1011001000610070,樹里,"いや、調整なんていいって
 アタシの都合で仕事とかを動かすわけにはいかねーしな","No, it's fine.
 We can't just reschedule work for my convenience."
 1011001000610080,樹里,これくらいアタシの力で乗り越えてみせるさ,I will overcome such thing with my own power.
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
-I should have said something else…)"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101100100061.json,
 译者,,

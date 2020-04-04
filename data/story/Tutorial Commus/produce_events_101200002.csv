@@ -1,0 +1,75 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（うーん、はづきさんのアドバイスで
+スカウトにきてみたけど……）","(Well, I came here to scout on Hazuki's advice, but…)"
+0000000000000,プロデューサー,やっぱりそう簡単には見つからないよなぁ……ん？,But of course it's not so easy to find… hm?
+0000000000000,プロデューサー,"（着物なんて、若いのに珍しい子がいるな……
+しゃがみこんでどうしたんだろう）","(A kimono? But she's so young… I wonder why she's
+crouching on the ground.)"
+0000000000000,プロデューサー,……君、大丈夫か？,"…Hey, are you okay?"
+1012001010010,凛世,"……凛世、でしょうか……？
+下駄の鼻緒が……","…Are you talking to Rinze…? My geta strap… "
+0000000000000,プロデューサー,"ああ、切れちゃったのか……
+ええと、ちょっとそれ、貸してくれないか","Ah, did it break…
+Uhm, do you mind handing it to me?"
+1012001010020,凛世,……？,…?
+0000000000000,プロデューサー,"うーんと、何かで読んだんだ。たしかハンカチを裂いて……
+5円玉に通してっと。よっ……できた！","Well, I read it somewhere. You can tear up a
+handkerchief… and put it through a 5 yen coin.
+Alright… there you go!"
+0000000000000,プロデューサー,"はい。……ちょっと不格好だけど
+少し歩くくらいなら問題ないと思う","Okay. It's a little ugly, but it should work to walk in
+for a bit."
+1012001010030,凛世,"……ご親切、感謝いたします
+ですが……貴方さまのハンカチが……","…That's very kind of you, I'm grateful, but…
+Your handkerchief… "
+1012001010040,凛世,"お返しに、あがりますので……
+ご所在を、お教えください",Please tell me... where may I return it?
+0000000000000,プロデューサー,"（……改めて見るとすごく美人な子だな……
+なんというか雰囲気がある……）","(…Looking again she really is a beautiful girl…
+There's a certain air about her…)"
+1012001010050,凛世,あの……？,Well…?
+0000000000000,プロデューサー,"え？　ああ！　すまんすまん
+ハンカチは返さなくていいよ。貰ってくれ。それより……","What? Oh! I'm sorry, you don't have to return the
+handkerchief. Please keep it. Beyond that…"
+0000000000000,プロデューサー,アイドルをやってみないか？,Would you like to become an idol?
+1012001010060,凛世,アイ、ドル……？,I… dol…?
+0000000000000,プロデューサー,"そう、きみをプロデュースしたいんだ
+俺が必ず最高の舞台に連れていってみせる","Right, I would like to produce you.
+I'll take you to the top."
+0000000000000,プロデューサー,……どうかな？,…How about it?
+1012001010070,凛世,"それはもしや……この凛世、
+殿方に、そのようなことを言われたのは、はじめてです……","Perhaps… this is the first time a gentleman has
+asked me such a thing…"
+0000000000000,プロデューサー,"あ……す、すまん
+急にこんなこと言われても困るよな……","Oh… s-sorry. I know this is sudden, I hope I haven't
+bothered you."
+0000000000000,プロデューサー,"でも、ちょっとでも興味があったら
+この名刺の事務所にきてほしい。待ってるから","However, if you're interested please come to the
+address on this card. I'll be waiting."
+1012001010080,凛世,……こちらに、貴方さまが……,"…So, that's your address…"
+1012001010090,凛世,"……必ずや、お伺いいたします
+この凛世、不義理は、いたしません。それでは……","…Rinze will definitely visit, you have my word.
+Well then…"
+0000000000000,プロデューサー,"（うーん、やっぱり連絡はないか……あの着物の子
+ちょっと強引すぎたかな……）","(Hmm, she still hasn't come… maybe I was too pushy
+with that young woman in the kimono…)"
+1012001010100,凛世,御免下さい……,Pardon me…
+0000000000000,プロデューサー,……あれ、君は……,…Oh! It's you…
+1012001010110,凛世,"先日は、ありがとう、ございました
+ハンカチの、お返しに、参りました","Thank you… very much, for the other day. I've come…
+to return your handkerchief."
+0000000000000,プロデューサー,"これを……そうか、わざわざ持ってきてくれたのか
+なんだか悪いな","So that's… I see, I feel bad that you came just to
+return it."
+1012001010120,凛世,"いえ……
+それと、本日は……お返事をしに伺いました","No… In addition to that, I came today…
+To give you my response."
+1012001010130,凛世,凛世は、心を、決めました,"Rinze's… heart, has chosen."
+1012001010140,凛世,"これからは一生、貴方さまに、
+ついて参ります","For the rest of my life, I will follow you."
+0000000000000,プロデューサー,"……ということは、決心してくれたのか！　
+ありがとう！　……その、りんぜ……さん？","…So that means, you've decided! Thank you! …Uh, Rinze… san?"
+1012001010150,凛世,"はい、杜野凛世と、申します。ふつつかものですが
+どうぞ、よろしくお願いいたします","Yes, I am called Rinze Morino. I apologize for being inexperienced, please treat me favorably."
+info,produce_events/101200002.json,
+译者,,

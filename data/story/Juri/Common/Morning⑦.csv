@@ -4,8 +4,7 @@ id,name,text,trans
 I used to chew them a lot back in the day."
 1011001000710010,樹里,あぁ、このガムすっげー膨らむんだぜ？,Yeah. This bubblegum can get real big too!
 1011001000710020,樹里,アンタも挑戦してみるか？,Wanna give it a try?
-0000000000000,プロデューサー,（おっ樹里は嬉しそうだ。さて、どうしようか……）,"(Woah, Juri seems excited. What should I say...)
-"
+0000000000000,プロデューサー,（おっ樹里は嬉しそうだ。さて、どうしようか……）,"(Woah, Juri seems excited. What should I say...)"
 select,,３つくれ！,Three for me!
 select,,どれくらい膨らむんだ？,"How big
 can it get?"
@@ -14,21 +13,18 @@ how to do it."
 1011001000710030,樹里,"お、３つ一気にか！　プロデューサーやる気だな
 そういうチャレンジ精神、アタシは好きだぜ","Oh, three in one go? Way to go, Producer.
 I like your fighting spirit."
-1011001000710040,樹里,へへ……だけどアタシも負けねーぞ？,"Hehe... I ain't gonna lose though.
-"
-0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+1011001000710040,樹里,へへ……だけどアタシも負けねーぞ？,Hehe... I ain't gonna lose though.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1011001000710050,樹里,"割れたとき、顔がベタベタになるくらい膨らむんだよ
 けっこーすげーだろ？","It gets so big that when it pops, your face'll be a mess.
 Ain't that something?"
 1011001000710060,樹里,できればもっと大きく作ってみたいんだけどな,There're probably some ways to make it even bigger too.
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1011001000710070,樹里,"なんだよ、男らしくねーな
 まぁ、別にいいけどよ","What, that's not manly at all.
-Oh well, I don't mind.
-"
+Oh well, I don't mind."
 1011001000710080,樹里,"こういうのって見たところで、
 やり方がわかるもんとも思えねーんだよな",I just don't think you'd get it just by looking.
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
-I should have said something else…)"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101100100071.json,
 译者,,
