@@ -17,7 +17,7 @@ const main = async () => {
 
 let waitCount = 0
 const start = async () => {
-  if ((unsafeWindow && unsafeWindow.ezg || window.ezg) && waitCount < 300) {
+  if ((window.unsafeWindow && unsafeWindow.ezg || window.ezg) && waitCount < 300) {
     await sleep(100)
     waitCount++
     if (waitCount % 10 === 0) log(`Waiting: ${waitCount / 10}s`)
