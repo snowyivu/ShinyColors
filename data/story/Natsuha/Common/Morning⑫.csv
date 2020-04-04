@@ -16,18 +16,17 @@ select,,ハードだな,"I bet it's
 harsh."
 1013001001210030,夏葉,"プロデューサーも色々考えていたのね！
 なるほど……悪くないわ、これをベースにしましょうか","So you've been thinking about it as well!
-Let's see here... This isn't bad. Let's use this as a base.
-"
+Let's see here... This isn't bad. Let's use this as a base."
 1013001001210040,夏葉,"やる気になってくれたみたいでうれしいわ
 この調子で頑張りましょう！","I'm glad to see you're so motivated.
 Let's keep this up!"
-0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1013001001210050,夏葉,ええ、まずはやってみないと始まらないわ,Right. You can't start if you never try.
 1013001001210060,夏葉,"継続は力なり、よ
 これで必ず成果が出るはず！　頑張ってね","Consistency is key. Alright?
 This should definitely produce results, so good luck!
 "
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1013001001210070,夏葉,"ハードかしら？
 プロデューサーに合わせてつくったメニューよ","Harsh?
 I'm making this routine to fit  you, though."
@@ -35,7 +34,6 @@ I'm making this routine to fit  you, though."
 弱音はいけないわね","This much should be reasonable for you to do.
 There's no need to complain.
 "
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah…… I screwed up.
-I should have said something else……)"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101300100121.json,
 译者,,

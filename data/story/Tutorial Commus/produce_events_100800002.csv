@@ -1,0 +1,85 @@
+id,name,text,trans
+1901001010170,はづき,"おはようございます、プロデューサーさん
+あの子、今日から来てくれてますよ","Good morning, Producer.
+That girl arrived today."
+0000000000000,プロデューサー,"はづきさん、おはようございます
+あの子……ですか？","Good morning, Hazuki.
+That girl..?"
+1901001010180,はづき,"ふふ、はい。しばらく応接室で作業してもらってますから、
+会いに行ってあげてくださいね","Hehe, yeah. We've been working in the reception room for a while, so please go and meet her."
+0000000000000,プロデューサー,は、はい,Okay.
+0000000000000,プロデューサー,（えーと、今日からか……誰のことだろう？）,"(Uhm, starting today... who will it be?)"
+0000000000000,プロデューサー,（……あれ、ドアがちょっと開いてる）,"(...Huh, the door's open a little.)"
+0000000000000,プロデューサー,（……と──！）,(...there──!)
+1008001010010,？？？,ん……と,And...
+1008001010020,？？？,"……できました……！
+……ふふ、包帯、いつもより上手く巻けたかも……♪","...I did it..!
+...hehe, the bandage is wrapped better than usual♪"
+1008001010030,？？？,……あっ……,Ah...
+0000000000000,プロデューサー,"（……あ、いかん
+つい見惚れてしまった……）","(...ah, somehow.
+I've just been watching in fascination...)"
+0000000000000,プロデューサー,"いや、ノックもしないですまない
+俺は──","Shoot, it'd be bad if I didn't knock.
+I──"
+1008001010040,？？？,プ、プロデューサー……さん……,P-Producer...
+0000000000000,プロデューサー,ん？　ああ……そうだ,Hm? Yeah... that's me.
+0000000000000,プロデューサー,（そう、この子は……忘れもしない──）,"(Right, this girl... I couldn't forget.)"
+0000000000000,プロデューサー,"幽谷霧子さんだね
+オーディションのとき以来だ","You're Kiriko Yukoku right?
+From the audition."
+1008001010050,霧子,"……！
+わたしの名前、覚えていてくれたんですね……","Oh!
+So you remembered my name..."
+0000000000000,プロデューサー,"ああ、よく覚えてるよ
+来てくれてうれしい。これからよろしくな","Yeah, I remember it well. I'm happy you came.
+Please treat me well going forward."
+1008001010060,霧子,は、はい……！,Y-Yes..!
+0000000000000,プロデューサー,"（さっきは引き込まれるような雰囲気があったけど、
+こうしてみると、すごく控え目なんだよな……）","(That feeling a moment ago drew me in but,
+looking at her this way, she seems very subdued...)"
+0000000000000,プロデューサー,"ところで、包帯を巻いてたみたいだけど、
+腕、ケガしてるのか？","By the way, it looked like you were bandaging
+yourself. Did you hurt your arm?"
+1008001010070,霧子,……いえ、あの……,"...ah, no..."
+1008001010080,霧子,……ち、ちょっとぶつけてしまって,J-Just bumped it a little.
+0000000000000,プロデューサー,"そうか……心配だな
+念のためだ、医者に診てもらおうか？","I see... well that's a relief.
+Just to be sure, would you go see a doctor?"
+1008001010090,霧子,"い、いえ、大したケガじゃないので……
+本当に大丈夫です……！","N-no, it's not a big deal...
+Honestly I'm fine..!"
+0000000000000,プロデューサー,"そ、そうか……？
+わかった。でも経過は伝えてくれ","Really?
+I understand. But keep me updated."
+1008001010100,霧子,は、はい……！,O-okay..!
+1008001010110,霧子,"あの……
+あ、ありがとうございます……！","Uhm...
+T-Thank you very much..!"
+0000000000000,プロデューサー,"はは、あんまり緊張しないで
+俺も急に邪魔して悪かったよ","Haha, no need to be nervous.
+I didn't mean to just butt in."
+0000000000000,プロデューサー,"それにしても、
+包帯を巻くの、上手なんだな","Well regardless, you're quite good at wrapping
+bandages aren't you?"
+1008001010120,霧子,はい……！,Yes..!
+1008001010130,霧子,"その……
+こうしてると、落ち着くんです","Er... when I wrap them, it helps calm me down."
+1008001010140,霧子,"プロデューサーさんに会うときは、
+緊張しないようにしたかったので……","Since I was going to meet you,
+I was getting nervous..."
+0000000000000,プロデューサー,"あ、ああ
+そうだったのか","Ah, gotcha.
+So that's how it is?"
+0000000000000,プロデューサー,（……？）,(..?)
+0000000000000,プロデューサー,"（どういう意味だろう……包帯を巻くと、
+緊張がほぐれるものなの……か？）","(Does she mean... when she wraps bandages,
+it helps to ease her tension...?)"
+1008001010150,霧子,"……プ、プロデューサーさん、
+これから……よろしくお願いします……！","...P-Producer, from now on...
+Please treat me well...!"
+0000000000000,プロデューサー,"……うん？　ああ、もちろんだ
+一緒にがんばっていこう！","...Hm? Yeah, of course!
+Let's do our best together!"
+info,produce_events/100800002.json,
+译者,,

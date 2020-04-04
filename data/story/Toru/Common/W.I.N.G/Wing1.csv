@@ -1,31 +1,34 @@
 id,name,text,trans
-1020001020010,透,小さい頃から\nたまに見る,"Ever since I was a little kid, I see it every once in a while."
-1020001020020,透,のぼってものぼってもてっぺんに着かない\nへんなジャングルジムの夢,"A dream about a weird jungle gym, that no matter how much I climb I can't reach the top."
-1020001020030,透,のぼる前は\nたいした大きさに見えなかったけど,It didn't seem especially big before I started climbing though.
+1020001020010,透,"小さい頃から
+たまに見る","Ever since I was a little kid, I see it every once in a while."
+1020001020020,透,"のぼってものぼってもてっぺんに着かない
+へんなジャングルジムの夢","A dream about a weird jungle gym, that no matter how much I climb I can't reach the top."
+1020001020030,透,"のぼる前は
+たいした大きさに見えなかったけど",It didn't seem especially big before I started climbing though.
 1020001020040,透,ひとつ足をかけると\nもう上が見えない,"After I put one foot on, I can't see the top anymore."
 1020001020050,透,それでこう思う\nああ、長いなぁ……,"Then I think,
 ""Ahh, it's so long..."""
-1020001020060,透,──…………ん\nふぁ……────,"--...Mmm.
-Yawn...--"
+1020001020060,透,──…………ん\nふぁ……────,"...Mmm.
+Yawn..."
 1020001020070,透,……\n……そっか。今日からあれか,"...
 ...Alright. So starting today, it'll be that..."
-0000000000000,プロデューサー,──えーと、今日見学させてもらうのは撮影現場だけど\nスタジオに着くまでの間も、誰に会うかわからない,"--Um, today we're taking a look at the filming location. I'm not sure who we'll meet until we get to the studio."
+0000000000000,プロデューサー,──えーと、今日見学させてもらうのは撮影現場だけど\nスタジオに着くまでの間も、誰に会うかわからない,"Um, today we're taking a look at the filming location. I'm not sure who we'll meet until we get to the studio."
 0000000000000,プロデューサー,俺が誰かと挨拶したら、\n透も元気よく続いてくれ,"If I greet someone, make sure you're also energetic."
 1020001020080,透,うん,Okay.
-0000000000000,プロデューサー,よし。できるだけたくさんの人に\n顔を覚えてもらわなきゃな。じゃあ行こ──,"Alright. We have to make as many people as we can remember your face. Okay, let's go--"
+0000000000000,プロデューサー,よし。できるだけたくさんの人に\n顔を覚えてもらわなきゃな。じゃあ行こ──,"Alright. We have to make as many people as we can remember your face. Okay, let's go──"
 0000000000000,TV局職員,おはようございまーす！,Good morning!
 0000000000000,プロデューサー,……！,...!
 1020001020090,透,おはようございまーす,Good morning.
 0000000000000,プロデューサー,……あ、おはようございますー！,"...Ah, good morning!"
-0000000000000,プロデューサー,──透、今の人……知り合いか？,"--Toru, did you... know that person?"
+0000000000000,プロデューサー,──透、今の人……知り合いか？,"Toru, did you... know that person?"
 1020001020100,透,え？　知らないよ,Eh? I don't.
-0000000000000,プロデューサー,えっ、でも……──,"Eh, but...--"
+0000000000000,プロデューサー,えっ、でも……──,"Eh, but..."
 0000000000000,ADふうの女性,おはようございますー,Good morning.
 1020001020110,透,おはようございまーす,Good morning.
-0000000000000,プロデューサー,──あ、はは、どうもー！\n…………今のは……？,"--Ah, haha, hello!
+0000000000000,プロデューサー,──あ、はは、どうもー！\n…………今のは……？,"Ah, haha, hello!
 ...And that one...?"
 1020001020120,透,……？\n知らない人だけど,...? I don't know them.
-select,,え──,Wha--
+select,,え──,Wha──
 select,,いやいや、\nそんな……,"No, that's..."
 select,,そ、そうか……\nいい挨拶できてるぞ,"I-I see... you're
 greeting people
@@ -33,32 +36,32 @@ well."
 0000000000000,番組ディレクター,あっはっは！\nみんなに挨拶される？,Ahaha! Is everyone greeting you?
 0000000000000,番組ディレクター,キミ、すごくオーラがあるから\n誰か有名な子だって思われるんだろうなぁ,"You have an amazing aura, so you seem like some sort of famous person."
 1020001020130,透,……,...
-0000000000000,プロデューサー,（と、透……！？　何か返さないと！）,(T-Toru...?! I have to respond with something!)
+0000000000000,プロデューサー,（と、透……！？　何か返さないと！）,(T-Toru...?! You have to respond with something!)
 0000000000000,プロデューサー,……はははっ\nそ、そうだったら光栄なことです！　なっ？,"...Hahaha. I-if that's right, it's an honor! Right?"
 1020001020140,透,え？　うん,Eh? Yeah.
-0000000000000,プロデューサー,──あ、あははは……！\nすみません、ちょっと緊張してるみたいで,"--A-ahahaha...! Excuse her, she seems a little bit nervous."
+0000000000000,プロデューサー,──あ、あははは……！\nすみません、ちょっと緊張してるみたいで,"A-Ahahaha...! Excuse her, she seems a little bit nervous."
 0000000000000,番組ディレクター,いや構わないよ。透くんって言ったか\nいつか一緒に仕事しよう,"No, it's not a problem. You said Toru-kun, right? Let's work together someday."
 1020001020150,透,はい,Yes.
 0000000000000,番組ディレクター,はっはっは！\nなんかこう、目に力があるなぁ！,Hahaha! You kind of have some power in your eyes!
 0000000000000,プロデューサー,……\nははは……！,"...
 Hahaha...!"
-0000000000000,プロデューサー,──透、あのさ\nああいう時は、しゃべってくれてかまわないんだぞ？,"--Toru, hold on. At times like that, I don't mind talking for you, okay?"
+0000000000000,プロデューサー,──透、あのさ\nああいう時は、しゃべってくれてかまわないんだぞ？,"Toru, hold on. At times like that, I don't mind talking for you, okay?"
 1020001020160,透,え？　うん,Eh? Sure.
 0000000000000,プロデューサー,いや、緊張してたなら無理は言えないんだけどさ\n──気になることでもあったか,"Well, if you were nervous it wouldn't be unreasonable.
---Was something bothering you?"
-1020001020170,透,──……ううん\nなんか──,"--...No.
-It's like--"
+Was something bothering you?"
+1020001020170,透,──……ううん\nなんか──,"...No.
+It's like──"
 1020001020180,透,人生って、長いなーって,"Life is just, so long."
 0000000000000,プロデューサー,…………えっ……？,...Eh...?
 1020001020190,透,あ、ううん\n次、頑張るから,"Ah, nothing. I'll work hard next time."
 1020001020200,透,……？\nでも、知らないし──,"...?
-But, I don't know them--"
+But, I don't know them──"
 0000000000000,芸能人ふうの男性,お疲れ様ですー,Thanks for your hard work.
-1020001020210,透,──お疲れ様でーす,--Thanks for your hard work.
+1020001020210,透,──お疲れ様でーす,──Thanks for your hard work.
 1020001020220,透,……誰だろ？,...Who was that?
 0000000000000,プロデューサー,……わからない\nけど……透、なんとなくオーラがあるからな……,"...I don't know.
 However... you have a sort of aura..."
-0000000000000,プロデューサー,──まぁ、考えても仕方ないか\n向こうから声を掛けてくれるなら幸いだ,"--Well, thinking about it is useless. It's great if other people greet you."
+0000000000000,プロデューサー,──まぁ、考えても仕方ないか\n向こうから声を掛けてくれるなら幸いだ,"Well, thinking about it is useless. It's great if other people greet you."
 0000000000000,プロデューサー,よし、挨拶は基本だぞ！\nあらためて、一人ひとりしっかり返そう！,"Alright, this is the basics of greetings! Let's reply to each and every single person!"
 1020001020230,透,うん。ふふっ,Yeah. Hehe.
 1020001020240,透,アイドルってもっと特別な感じかと思ったけど\n学校と変わんないね,"I thought being an idol would feel more special, but this is the same as it is at school."
@@ -66,18 +69,18 @@ However... you have a sort of aura..."
 1020001020250,透,人生って、長いなー,"Life is just, so long."
 1020001020260,透,ほんと？,Really?
 0000000000000,プロデューサー,うん。知らない人にも堂々とした感じで……\nははっ、誰か有名なタレントって思われてるのかもな,"Yeah. You're confident even around people you don't know... haha, they might think you're a famous talent."
-1020001020270,透,へぇ──,Oh--
+1020001020270,透,へぇ──,Oh──
 0000000000000,モデルふうの女性,おはようございますー！,Good morning!
-1020001020280,透,──おはようございまーす,--Good morning.
-1020001020290,透,──なんか\nけっこうやれるもんなんだね,--Seems like I can do this well.
+1020001020280,透,──おはようございまーす,──Good morning.
+1020001020290,透,──なんか\nけっこうやれるもんなんだね,Seems like I can do this well.
 0000000000000,プロデューサー,えっ、いやいや！\nそんな甘いものじゃないよ,"Eh, no, no! It's not that easy."
 1020001020300,透,そう？,Really?
 0000000000000,プロデューサー,うん,Yeah.
 1020001020310,透,まぁ、そっか\nじゃないと──,"Well, okay.
-If it's not--"
+If it's not──"
 1020001020320,透,人生、長すぎるよね,"Life is just, too long."
 0000000000000,プロデューサー,え？,Eh?
-1020001020330,透,──あっ、ほらほら。挨拶,"--Ah, look, look. A greeting."
+1020001020330,透,──あっ、ほらほら。挨拶,"Ah, look, look. A greeting."
 1020001020340,透,おはようございまーす,Good morning.
 info,produce_events/102000102.json,
 译者,,

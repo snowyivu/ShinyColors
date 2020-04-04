@@ -6,33 +6,30 @@ Is something wrong?"
 ケータイの設定変えてーんだけどよ、よくわかんねーんだよ","Ah, Producer. 
 I want to change the settings on my cellphone, but I have no idea how."
 1011001000510020,樹里,ワリーんだけど、何とかしてくんねぇか？,"Sorry to bother, but can you do something about it?"
-0000000000000,プロデューサー,（樹里はとても困っているみたいだ）,"(Juri seems to be having a lot of trouble)
-"
+0000000000000,プロデューサー,（樹里はとても困っているみたいだ）,(Juri seems to be having a lot of trouble.)
 select,,"任せとけ、
 機械は得意だ","Leave it to me,
 I'm good at tech."
 select,,"壁紙は
 俺の写真でいいか？","Can I change the
 wallpaper
-to my photo?
-"
+to my photo?"
 select,,"説明書を見ながら
 やってみれば？","Have you tried
 looking at the
 manual?"
 1011001000510030,樹里,お、サンキュ！　アタシ機械はよくわかんなくてさ……,"Oh, thanks! I'm not really tech savvy, so…"
 1011001000510040,樹里,へへ、アンタって意外に頼りになるよな,"Hehe, you're surprisingly reliable."
-0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Alright, that went really well!)"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1011001000510050,樹里,"はあ？
 朝から冗談キツいぜプロデューサー","What?
 Don't make a bad joke this early in the morning, Producer."
 1011001000510060,樹里,"あっ
 でも、壁紙変更のやり方は教えてくれるか？","Ah.
 Can you teach me how to change the wallpaper though?"
-0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1011001000510070,樹里,説明書なんて持って来てねーよ,I don't have the manual with me.
-1011001000510080,樹里,はぁ、他の子にでも聞いてみるか……,*sigh* Maybe I should ask someone else…
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,"(Ah… I screwed up.
-I should have said something else…)"
+1011001000510080,樹里,はぁ、他の子にでも聞いてみるか……,Sigh… Maybe I should ask someone else…
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101100100051.json,
 译者,,

@@ -13,7 +13,7 @@ id,name,text,trans
 プロデューサーさんが来るまでしててもいいって！","When I told her that I had a lot of homework to do, she said to do it before producer comes back to the office!"
 0000000000000,プロデューサー,そうか、えらいな," I see, that's pretty good."
 2009004010050,果穂,"えへへ……
-あ、今からお仕事ですよね",Hehe! Ah! About today's work....
+あ、今からお仕事ですよね",Hehe! Ah! About today's work...
 2009004010060,果穂,"教科書広げちゃってごめんなさいっ
 すぐ片づけますっ！","I'm sorry about all the texbooks scattered around the office! I'll try to clean it up as fast as I can! "
 0000000000000,プロデューサー,"いや、急がなくていいよ。俺も少し準備があるし、
@@ -22,7 +22,7 @@ id,name,text,trans
 2009004010070,果穂,"本当ですか？　ありがとうございますっ！
 じゃあ、あとちょっとだけやっちゃいます！","Really? Thank you so much Prodcuer! Now, let me see if I can finish up the rest!"
 2009004010080,果穂,"…………
-……うーん……"," Hm....."
+……うーん……"," Hm..."
 0000000000000,プロデューサー,"どうしたんだ？
 ……あ",What's wrong? Oh.
 0000000000000,プロデューサー,（算数の問題でつまずいているのか……）,(I think she's having trouble with the arithmetic problems...)
@@ -69,7 +69,7 @@ select,,俺も勉強しておくよ,"I'll study with you too. "
 0000000000000,プロデューサー,"でも、果穂にはそんな可能性があるんだからな
 勉強もアイドルも、精一杯頑張ろう"," But I think it's possible you can do it Kaho. So let's do our best to study and become the best idol. "
 2009004010220,果穂,"プロデューサーさん……
-はい！　あたし、どっちも頑張ります！"," Producer....! Yeah! I'll try my best at doing both!"
+はい！　あたし、どっちも頑張ります！",Producer...! Yeah! I'll try my best at doing both!
 0000000000000,プロデューサー,"まずは果穂自身が問題と向き合わないとな
 すぐに諦めない気持ちも大切だ","First of all Kaho, it's important that you don't turn away from a problem and give up immediately. "
 2009004010230,果穂,"……そっか！　あたしの宿題ですもんねっ！

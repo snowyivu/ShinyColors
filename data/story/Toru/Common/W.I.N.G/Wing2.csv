@@ -1,11 +1,11 @@
 id,name,text,trans
 0000000000000,アイドルA,『ハッピーお届けアイドル参上～♡\nひとつひとつが手作りハッピー♡召し上がれ♡♡』,"""An idol that delivers you happiness has arrived~ ♡ Enjoy your meal of individually handmade ♡ happiness ♡♡."""
 0000000000000,アイドルB,『こんにちわんわん！　わんちゃんアイドル！\nご主人サマでも噛みついちゃうぞ～！』,"""It's grrreat to see you! I'm the doggie idol! I might even snap at you, sir~!"""
-1020001030010,透,──浅倉透……参上\nえっと……楽しんでって,"--Toru Asakura... is here.
+1020001030010,透,──浅倉透……参上\nえっと……楽しんでって,"──Toru Asakura... is here.
 Umm... enjoy yourself."
-0000000000000,審査員,──はい、みなさん結構です\n結果は追ってご連絡します。順に退室してください,"--Okay, you all did great. I'll contact you with the results shortly. Please leave in an orderly fashion."
+0000000000000,審査員,──はい、みなさん結構です\n結果は追ってご連絡します。順に退室してください,"Okay, you all did great. I'll contact you with the results shortly. Please leave in an orderly fashion."
 1020001030020,透,……ふぅ,...Phew.
-0000000000000,プロデューサー,──『あなたのキャッチフレーズをお願いします』なんて\n課題資料に書いてなかったもんなぁ……,--It didn't say anything about a catchphrase in the assignment materials...
+0000000000000,プロデューサー,──『あなたのキャッチフレーズをお願いします』なんて\n課題資料に書いてなかったもんなぁ……,It didn't say anything about a catchphrase in the assignment materials...
 0000000000000,プロデューサー,その……そこまで気が回せてなくてすまなかった\n切り替えて、次のオーディションに向けて対策しよう！,Uh... I'm sorry I didn't read that far into it. Let's reassess and start planning for the next audition!
 1020001030030,透,え？　うん\n……あれ？　なんかダメだった？,"Eh? Sure.
 ...Huh? Did I do something wrong?"
@@ -16,18 +16,18 @@ Umm... enjoy yourself."
 ...Haha, I'm no match for you."
 0000000000000,プロデューサー,ちょっと話そうか\n……そこのベンチ、座ろう,"Shall we talk for a bit?
 ...Let's sit on the bench over there."
-1020001030050,透,うん──,Okay--
-1020001030060,透,──プロデューサー、このあたりも詳しいんだね\nベンチ、隠れて見えないのに,"--Producer, you're sure familiar with this area. Even though the bench is hidden from sight."
+1020001030050,透,うん──,Okay──
+1020001030060,透,──プロデューサー、このあたりも詳しいんだね\nベンチ、隠れて見えないのに,"Producer, you're sure familiar with this area. Even though the bench is hidden from sight."
 0000000000000,プロデューサー,え？　そりゃ、まぁ──\n……って、茶化すな！,"Eh? Well, it's not really... hey, don't poke fun at me!"
 1020001030070,透,ふふっ、ごめんごめん,"Hehe, sorry, sorry."
 0000000000000,プロデューサー,べつに詳しいってことないけど……\n昔、この公園でジャングルジムにのぼったことがあるよ,"I'm not especially familiar with this place, but... a long time ago, I climbed the jungle gym in this park."
-1020001030080,透,──え……,--Eh...
+1020001030080,透,──え……,Eh...
 0000000000000,プロデューサー,なんか、男の子に声かけられてさ\nその時は、たまたまこの近くに用事があって……,"A boy sort of called out to me. Back then, I sometimes had errands to run near here..."
 0000000000000,プロデューサー,……どうした？,...What's wrong?
-1020001030090,透,──あ、ううん……,"--Ah, nothing..."
-0000000000000,プロデューサー,って、オーディションの対策だったな\nほら座って────,"Oh, we were talking about plans for the audition. Here, sit down--"
-0000000000000,プロデューサー,──はぁ……やっぱり不合格か……\nオーラは抜群なんだけどなぁ、それだけじゃ……,"--Sigh... so she got rejected after all, huh... Her aura is outstanding, but just that alone won't..."
-0000000000000,プロデューサー,あ、透……お疲れ様\nこの前の結果のことなんだけど──,"Ah, Toru... thanks for your hard work. About the results just now--"
+1020001030090,透,──あ、ううん……,"Ah, nothing..."
+0000000000000,プロデューサー,って、オーディションの対策だったな\nほら座って────,"Oh, we were talking about plans for the audition. Here, sit down──"
+0000000000000,プロデューサー,──はぁ……やっぱり不合格か……\nオーラは抜群なんだけどなぁ、それだけじゃ……,"──Sigh... so she got rejected after all, huh... Her aura is outstanding, but just that alone won't..."
+0000000000000,プロデューサー,あ、透……お疲れ様\nこの前の結果のことなんだけど──,"Ah, Toru... thanks for your hard work. About the results just now──"
 select,,ごめんな,I'm sorry.
 select,,よくやった,You did great.
 select,,ダメだった,It was no good.
@@ -41,10 +41,10 @@ select,,ダメだった,It was no good.
 0000000000000,プロデューサー,それはわかるよ。でも、透がどんな子なのかってこと\n俺もファンも、もっとちゃんと知りたい,"I understand that. However, your fans and I all want to know what kind of person Toru is."
 0000000000000,プロデューサー,歌とかダンスでわかってほしいなら、そこにも\n透のことを伝えるためのメッセージをちゃんと込めてほしい,"If I want to get to know you through things like singing and dancing, you also have to include a message you want to convey."
 1020001030140,透,……\n──……私も知りたいんだ、プロデューサーのこと,"...
---...I want to get to know you too, Producer."
-0000000000000,プロデューサー,──え……？,--Eh...?
+...I want to get to know you too, Producer."
+0000000000000,プロデューサー,──え……？,Eh...?
 1020001030150,透,あ、ううん\nわかったよ,"Ah, nevermind. I understand."
-1020001030160,透,──とりあえず,"--well, for now,"
+1020001030160,透,──とりあえず,"Well, for now,"
 1020001030170,透,えっ……ダメだったんじゃなくて？,Eh... didn't I do poorly?
 0000000000000,プロデューサー,……いや、うん。そうなんだけど\nチャレンジしてくれたこと、褒めたくてな,"...Well, yeah. That is true, but I want to praise you for challenging yourself."
 1020001030180,透,……\nショック受けるかもって、気にしてくれてる？,...Were you worried you would shock me?
@@ -61,16 +61,16 @@ Yeah. It's a shock."
 But... it's strange."
 0000000000000,プロデューサー,え？,Eh?
 1020001030220,透,プロデューサーのこと、\n私は前から知ってたみたいな気がするから,"Producer, It feels like I've known you for a long time."
-0000000000000,プロデューサー,──なんでダメだったと思う？,--Why do you think it wasn't good?
+0000000000000,プロデューサー,──なんでダメだったと思う？,Why do you think it wasn't good?
 1020001030230,透,え？　それは……,Eh? Well...
-1020001030240,透,──この前は、\n『ちゃんと自分を伝えてないから』って言われた,"--A while ago, I was told that I don't convey myself well."
+1020001030240,透,──この前は、\n『ちゃんと自分を伝えてないから』って言われた,"A while ago, I was told that I don't convey myself well."
 0000000000000,プロデューサー,……うん\n覚えててくれたんだな。ありがとう,...Yeah. So you remembered it. Thank you.
 1020001030250,透,どういたしまして,You're welcome.
 0000000000000,プロデューサー,……透さ\nもしかして、あんまりアイドルやりたくないのか,"...Toru, could it be that you don't really want to be an idol?"
 1020001030260,透,えっ……\nなんで……？,"Eh... 
 Why...?"
 0000000000000,プロデューサー,その、自分を伝えろとか、\nあんまり無理に言えることじゃないからさ,"I mean, something like expressing yourself isn't something that's too unreasonable to ask for."
-0000000000000,プロデューサー,もし、こんな先が見えにくい世界に、\n透を無理に誘ってしまったんだったら──,"If I've needlessly forced you into a world you had trouble seeing, I--"
+0000000000000,プロデューサー,もし、こんな先が見えにくい世界に、\n透を無理に誘ってしまったんだったら──,"If I've needlessly forced you into a world you had trouble seeing, I──"
 1020001030270,透,……違うよ\n違うよ、プロデューサー,"...That's wrong.
 That's wrong, Producer."
 1020001030280,透,私、こうやって会えたこと\n嬉しいから,I'm happy I met you like this.

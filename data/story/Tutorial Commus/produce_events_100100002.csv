@@ -1,0 +1,61 @@
+id,name,text,trans
+0000000000000,プロデューサー,"自分でスカウトして来いか……
+はづきさんも社長も、無茶なこと言うなぁ。","Go scouting myself...? Both Hazuki and the
+President say some ridiculous things."
+0000000000000,プロデューサー,"（う～ん。ピンとくる子、なかなか見つからない……
+場所を変えてみるか）","(Hmmm. I'd know the girl when I see her, but
+I can't find one... Guess I'll go elsewhere?)"
+1001001010010,？？？,～～♪,Hmhm♪
+0000000000000,プロデューサー,（綺麗な歌声が聞こえてくる……）,(I hear a beautiful singing voice...)
+0000000000000,プロデューサー,"（あの子、かな……何か惹きつけられる……
+声をかけてみるか）","(That girl... There's something about her...
+Should I call out to her?)"
+0000000000000,プロデューサー,こんにちは、綺麗な歌声だね,"Hello, you have a lovely singing voice."
+1001001010020,？？？,"ほわっ？　あっ、あの……こんにちは
+人がいたなんて……気が付きませんでしたっ","Oh? Ah, uhm... Hello. I didn't realize...
+that anyone was here."
+0000000000000,プロデューサー,"（この子……独特の雰囲気があるな。癒されるというか
+……うん、ピンときたぞ！）","(This girl... She has a unique presence.
+It's almost invigorating... Yeah, she's the one!)"
+0000000000000,プロデューサー,"突然だけど……
+君、アイドルになってみる気はない？","This may be sudden, but...
+Would you like to become an idol?"
+1001001010030,？？？,"ほわっ……
+えっと……アイドル、ですか？","Huh...
+Umm... An idol?"
+0000000000000,プロデューサー,"俺はアイドルのプロデューサーで、新人を探してるんだ
+君はいつもここで歌を？","I'm an idol producer searching for a new talent.
+Do you always come here to sing?"
+1001001010040,？？？,"えと、気持ちのいいお天気なので、つい……
+歌ってると、鳩さんがよく集まってきてくれますし","Well, the weather here is nice, so...
+When I sing, the pigeons gather around."
+0000000000000,プロデューサー,"鳩さん……そうか、もうファンがいるんだね
+どうかな、アイドル、やってみないか？","Pigeons... I see. You already have fans then.
+How about it? Want to try being an idol?"
+1001001010050,？？？,"ほわ……多分私にはできないと思います
+自信ありません……","Hmm... I'm not sure that I could do it.
+I'm not very confident..."
+1001001010060,？？？,"すみません、せっかく誘ってくれたのに……
+じゃあ、これで……","Sorry, you went to the trouble of inviting me...
+Well then..."
+0000000000000,プロデューサー,"（何日か探して回ったけど、
+ピンときたのはこの公園にいた……あっ、あの子だ……）","(I've searched for a few days but, the needle
+in the haystack was in this park... Ah, that girl...)"
+1001001010070,？？？,アイドル……私がアイドルなんて……,An idol... Me as an idol...
+0000000000000,プロデューサー,"やあ、また会えたね
+アイドルの話、もう一度考えてみてほしいんだ","Hey, I was able to find you again.
+What I said about idols, I want you to reconsider."
+0000000000000,プロデューサー,"君の中には光り輝くものがある
+アイドルになって、今までとは違う世界を見てみないか？","There's a spark inside of you. Will you become an idol,
+and experience a whole new world from this one?"
+1001001010080,？？？,今までとは違う……,A whole new world...
+1001001010090,？？？,…………はい,...Okay.
+1001001010100,？？？,私、アイドルやりますっ,I will try being an idol.
+0000000000000,プロデューサー,"本当？　よかった！！
+君の名前、聞いてもいいかな？","Really? I'm so glad!
+Would you mind telling me your name?"
+1001001010110,真乃,"櫻木真乃、１6歳です
+これからよろしくお願いしますね","I'm Mano Sakuragi, age 16.
+From now on please treat me well."
+info,produce_events/100100002.json,
+译者,,
