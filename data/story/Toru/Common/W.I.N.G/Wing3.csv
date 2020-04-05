@@ -1,95 +1,111 @@
 id,name,text,trans
-1020001040010,透,のぼってものぼっても\nてっぺんに着かない,No matter how much I climb I can't reach the top.
+1020001040010,透,のぼってものぼっても\nてっぺんに着かない,"I try to climb all I want,
+but I never reach the top."
 1020001040020,透,へんなジャングルジム,A weird jungle gym.
-1020001040030,透,降りれないし、終わらないし\n長いなーって,"I can't go down, it's neverending, and it's so long."
-1020001040040,透,……でも、気付いたんだ\n『向こう側に誰かいる』って,"...But, I realized someting.
-There's someone on the other side."
+1020001040030,透,降りれないし、終わらないし\n長いなーって,"And I can't climb down, and it's not ending,
+and it's such a long way."
+1020001040040,透,……でも、気付いたんだ\n『向こう側に誰かいる』って,"...but then I've realised.
+""Oh, I think there's someone on the other side."""
 1020001040050,透,誰かがいて、一緒にのぼってくれてる\n言葉は交わさないけど──,"There's someone there, and they're climbing with me.
-Though we don't say anything to each other──"
-0000000000000,プロデューサー,日誌を、つけてもらうぞ,Let's have you write a journal.
-0000000000000,プロデューサー,日誌だ。今日あったことと、その感想\n困ったこと、嬉しかったこと──,"A journal, for things that happened today, how you felt when something put you at a loss, or made you happy──"
-1020001040060,透,え、そんなのわざわざ……？,"Eh, you're going that far...?"
-0000000000000,プロデューサー,ちゃんと透のことをわかりたいんだよ\n頼むな,I want to get to know you. Please.
-1020001040070,透,……\nうん。いいけど──,...Sure. That's fine──
-0000000000000,プロデューサー,──えーと……,Um...
-1020001040080,透,『今日はレッスン。歌メインでやった』,"""I did lessons today. I did the main singing part."""
-0000000000000,プロデューサー,『お疲れ様。レッスンがどうだったか感想も書いてくれ\nそういえば筋肉痛って言ってたけど、大丈夫か？』……と,"""Good job. Please write your feelings on how you think the lessons went, too. By the way, you said you had muscle pain, are you alright?"""
-1020001040090,透,『今日は挨拶回りとオーディションの練習\n疲れたけどいい感じだった』,"""Today I did a courtesy call and practiced for the audition. I'm tired, but it felt good."""
-0000000000000,プロデューサー,『よし！　その感触を大切にしていこうな！\n何か困ってることはないか？　感想多めに頼む』,"""Alright! Treasure that feeling! Is there anything bothering you? Please write more about  your thoughts."""
-1020001040100,透,『今日は衣装着て振りをやった。楽しいし充実してる\n困ってることは、特になし』,"""Today I tried on an outfit. It was fun and fulfilling. I don't really have anything that's bothering me."""
-0000000000000,プロデューサー,『ありがとう。いいぞ、衣装着てちゃんと踊れてたな！\nもっとなんでも書いてくれ。絵でも詩でも学校のことでも』,"""Thank you. That's great, you danced well with your outfit on! Write more about whatever you want. Like a drawing, poem, or about school."""
-0000000000000,プロデューサー,『おーい、サボるなよー。ほんとになんでもいいんだ\n記録して、ちゃんと積み重ねていこう！』,"""Hey, don't skip out! Really, anything's good. Let's document things and fill this out!"""
-1020001040110,透,『旅に出ます』,"""I'm going on a trip."""
-0000000000000,プロデューサー,────え……,Eh...
-0000000000000,プロデューサー,え……これ、どういう…………\n…………,"Eh... what does this mean...
+We don't exchange a word, though──"
+0000000000000,プロデューサー,日誌を、つけてもらうぞ,I want you to keep a journal.
+0000000000000,プロデューサー,日誌だ。今日あったことと、その感想\n困ったこと、嬉しかったこと──,"A journal, see. For what happens in a day, and your thoughts about it. What gave you trouble, put you at a loss, what you were happy for──"
+1020001040060,透,え、そんなのわざわざ……？,Eh? Are you okay going out of your way for...?
+0000000000000,プロデューサー,ちゃんと透のことをわかりたいんだよ\n頼むな,"I want to get to know you.
+Please."
+1020001040070,透,……\nうん。いいけど──,"...
+Okay. That's fine──"
+0000000000000,プロデューサー,──えーと……,──Let's see...
+1020001040080,透,『今日はレッスン。歌メインでやった』,"""Lessons today. Sang main vocals."""
+0000000000000,プロデューサー,『お疲れ様。レッスンがどうだったか感想も書いてくれ\nそういえば筋肉痛って言ってたけど、大丈夫か？』……と,"""Thanks for the hard work. If you could write about how you thought lessons went as well, please? Also, you said your muscles hurt──are you okay?"" ...there."
+1020001040090,透,『今日は挨拶回りとオーディションの練習\n疲れたけどいい感じだった』,"""Drop-in greetings and audition rehearsals today. Tired now, but went well."""
+0000000000000,プロデューサー,『よし！　その感触を大切にしていこうな！\n何か困ってることはないか？　感想多めに頼む』,"""Nice! That's a feeling to treasure!
+Did anything in particular give you trouble? I'd like to hear some more of your thoughts."""
+1020001040100,透,『今日は衣装着て振りをやった。楽しいし充実してる\n困ってることは、特になし』,"""Tried out an outfit today. Was fun. It felt fulfilling.
+Nothing giving me trouble in particular."""
+0000000000000,プロデューサー,『ありがとう。いいぞ、衣装着てちゃんと踊れてたな！\nもっとなんでも書いてくれ。絵でも詩でも学校のことでも』,"""Thank you. Doing well! Especially dancing with your outfit on! Write more about anything you want. Drawings, poetry──school stuff, even. Anything."""
+0000000000000,プロデューサー,『おーい、サボるなよー。ほんとになんでもいいんだ\n記録して、ちゃんと積み重ねていこう！』,"""Heeey. No slacking off! Really, absolutely anything's fine! Come on, let's build up a whole archive of memories!"""
+1020001040110,透,『旅に出ます』,"""I'm going somewhere."""
+0000000000000,プロデューサー,────え……,──uh...
+0000000000000,プロデューサー,え……これ、どういう…………\n…………,"Wait... what does this...
 ..."
 0000000000000,プロデューサー,……\n……っ,"...
-..."
-0000000000000,プロデューサー,（携帯はつながらない……\nはづきさんもみんなも何も聞いてない……）,(Her phone's not connected... Hazuki-san and the others haven't heard anything from her either...)
-0000000000000,プロデューサー,はぁっ……はっ……,Hah... ha...
-0000000000000,プロデューサー,どういうことなんだ……\n透……,What does this mean... Toru...
-0000000000000,プロデューサー,透は……何を考えて……\nどんな気持ちでいて……──,Toru... what she's thinking... how she's feeling...
-0000000000000,プロデューサー,自分のこと、ちゃんと伝えてくれって\n言ったのに……,"She said she would convey herself properly, but..."
-0000000000000,プロデューサー,──……っ、透……！？\n透……！,...Toru...?! Toru...!
-1020001040120,透,……え\n──あれ、プロデューサー？,"...Eh.
-Huh, Producer?"
-0000000000000,プロデューサー,はぁっ……はっ…………\n…………お、おいっ……透…………！,"Hah... ha...
-...H-Hey... Toru...!"
+...──"
+0000000000000,プロデューサー,（携帯はつながらない……\nはづきさんもみんなも何も聞いてない……）,"(I can't reach her phone...
+Hazuki-san hasn't heard anything──nobody has...)"
+0000000000000,プロデューサー,はぁっ……はっ……,Hahhh... hah...
+0000000000000,プロデューサー,どういうことなんだ……\n透……,"What is this about...?
+Toru..."
+0000000000000,プロデューサー,透は……何を考えて……\nどんな気持ちでいて……──,"What you're... thinking...
+How you're feeling..."
+0000000000000,プロデューサー,自分のこと、ちゃんと伝えてくれって\n言ったのに……,"You were going to convey yourself properly──
+you even told me as much..."
+0000000000000,プロデューサー,──……っ、透……！？\n透……！,"...──Toru...?!
+Toru...!"
+1020001040120,透,……え\n──あれ、プロデューサー？,"...Eh?
+Wait. Producer?"
+0000000000000,プロデューサー,はぁっ……はっ…………\n…………お、おいっ……透…………！,"Hahhh... hah...
+...h──hey... Toru...!"
 1020001040130,透,……どうしたの？,...What's wrong?
-0000000000000,プロデューサー,どうしたのじゃないっ……！,Don't ask me what's wrong...!
-0000000000000,プロデューサー,心配するだろ……！\n何してるんだ？,"I was worried...!
-What are you doing?"
-1020001040140,透,……なんとなく、気分転換\nていうか……探してくれてたの？,"...For some reason, I needed a change of pace.
-I mean... were you looking for me?"
-0000000000000,プロデューサー,当たり前だよ！　『旅』ってなんなんだ！？\n誰も行先知らないし、万一何かあったらって気が気じゃ──,"Of course I was! What did you mean by a ""trip""?! No one knew where you were, and we were worried if by some chance something had happened──"
-1020001040150,透,それは……なんでも書けって言うから\nていうか、そんなの誰も気にしないでしょ,"That's... because you said I could write anything. I mean, no one could've been that worried."
-0000000000000,プロデューサー,するよ……！,We were...!
-1020001040160,透,──……ごめん……,...Sorry...
-0000000000000,プロデューサー,──いや……\n俺も大きな声を出してすまない,"No...
-I'm sorry that I raised my voice."
-select,,わからない\nんだよ……,"I don't
-understand..."
-select,,教えて\nほしいんだ……,"I want you to teach
-me..."
+0000000000000,プロデューサー,どうしたのじゃないっ……！,Like you should be asking me that...!
+0000000000000,プロデューサー,心配するだろ……！\n何してるんだ？,"I was worried about you...!
+What's the meaning of all this?"
+1020001040140,透,……なんとなく、気分転換\nていうか……探してくれてたの？,"...I just sort of... needed a break from──
+Wait, I mean, were... you looking for me?"
+0000000000000,プロデューサー,当たり前だよ！　『旅』ってなんなんだ！？\n誰も行先知らないし、万一何かあったらって気が気じゃ──,"Of course I was! What did you mean, ""somewhere""!?
+Nobody knew where you'd gone!  What if something'd happened to you!? We were all──"
+1020001040150,透,それは……なんでも書けって言うから\nていうか、そんなの誰も気にしないでしょ,"That's... you said to write anything.
+And I mean, it's not like anyone really minds that much──"
+0000000000000,プロデューサー,するよ……！,We do...!
+1020001040160,透,──……ごめん……,──...sorry...
+0000000000000,プロデューサー,──いや……\n俺も大きな声を出してすまない,"──No...
+I'm sorry, I... I raised my voice there."
+select,,わからない\nんだよ……,"I just don't
+know..."
+select,,教えて\nほしいんだ……,"I want you to
+tell me..."
 select,,空回り\nしてるよな,"This is going
-nowhere."
-0000000000000,プロデューサー,思ってること、ちゃんと言葉にしてほしいんだ\nそうしてくれって言ったはずだ,I want you to put your thoughts into your words. I believe I've told you that before.
+nowhere, is it."
+0000000000000,プロデューサー,思ってること、ちゃんと言葉にしてほしいんだ\nそうしてくれって言ったはずだ,"I just want you to put what you're thinking into words.
+You'd said you could do that much for me."
 1020001040170,透,……\nそんなに通じてないって、思わなかったから,"...
-I didn't think you misunderstood me that much..."
-1020001040180,透,あの時の人なら……\n心が通じてるって……,"I thought that if it's the person from that time...
-I could communicate with my heart..."
-0000000000000,プロデューサー,え……？,Eh...?
-1020001040190,透,へんなジャングルジムの──\n向こう側をのぼってる誰か,"The person climbing on the other side──
-of the weird jungle gym."
-1020001040200,透,──ううん\n心配してくれて、ありがと,"No.
+I didn't think it'd be... so hard to get through to you."
+1020001040180,透,あの時の人なら……\n心が通じてるって……,"Because if you were from back then...
+You'd just relate to me somehow, is what..."
+0000000000000,プロデューサー,え……？,What...?
+1020001040190,透,へんなジャングルジムの──\n向こう側をのぼってる誰か,"Whoever that was, climbing──
+on the other side of the weird jungle gym."
+1020001040200,透,──ううん\n心配してくれて、ありがと,"──no, don't mind it.
 Thank you for worrying about me."
-1020001040210,透,──あの人かもって\n勝手に思い込んじゃってた……,"I had convinced myself on my own that you might be that person... "
-0000000000000,プロデューサー,今度こそ、ちゃんと\n──嫌なら、もうこの世界に縛られなくていい,"This time, properly.
-If it's unpleasant, it's okay for you to not be tied down to this world anymore."
-1020001040220,透,……──\n知ってるじゃん,"...
-You know that."
-0000000000000,プロデューサー,……いや、そんなことないんだ\nだから教えてほしい,"...No, that's not right.
-So I want you to teach me."
+1020001040210,透,──あの人かもって\n勝手に思い込んじゃってた……,"──just, I got hung up on it,
+by myself, thinking it might've been you..."
+0000000000000,プロデューサー,今度こそ、ちゃんと\n──嫌なら、もうこの世界に縛られなくていい,"Here and now, properly.
+──If you hate it, it's okay to go. To never be tied down to this world again."
+1020001040220,透,……──\n知ってるじゃん,"...──
+I thought you knew."
+0000000000000,プロデューサー,……いや、そんなことないんだ\nだから教えてほしい,"...No, I don't. Not at all.
+That's exactly why I want you to tell me now."
 1020001040230,透,でも────,But──
-0000000000000,プロデューサー,──……？,Hm?
-1020001040240,透,……ううん……\n……そっか、なんか、なんでも伝わってる感じがしてた,"...No...
-...I see, I felt like I'd sort of conveyed whatever I wanted to you."
-1020001040250,透,そんなこと、ないよね\n……ごめん,"That's not how it was.
-...Sorry."
-1020001040260,透,私、今度はちゃんとわかったから\nそんなに悩まないでよ,"I understand it this time.
-Don't be so worried."
-0000000000000,プロデューサー,ごめんな、俺が信用してもらえるように頑張らなきゃ\n責めるようなこと言って悪かった,"Sorry, I have to do my best so that you can trust me. I'm sorry that I sounded like I was criticizing you."
-1020001040270,透,……ううん、違うよ\n私も……悪かったのかも,"...No, that's not it.
-It... might've been my bad too."
-1020001040280,透,なんか、ちょっと思い込んでた\n気持ちが通じてるって……,I had sort of convinced myself that my feelings were being understood...
-0000000000000,プロデューサー,……え？,...Eh?
-1020001040290,透,──プロデューサーは……\n私のこと、知らない？,"Producer...
-You don't know me?"
+0000000000000,プロデューサー,──……？,──...?
+1020001040240,透,……ううん……\n……そっか、なんか、なんでも伝わってる感じがしてた,"...no...
+...I see. I kind of──I felt like you were getting anything, everything I could tell you."
+1020001040250,透,そんなこと、ないよね\n……ごめん,"And you just──weren't.
+...sorry."
+1020001040260,透,私、今度はちゃんとわかったから\nそんなに悩まないでよ,"I... get it this time, then.
+You shouldn't worry too hard about me now."
+0000000000000,プロデューサー,ごめんな、俺が信用してもらえるように頑張らなきゃ\n責めるようなこと言って悪かった,"I'm sorry. I need to work at it too for you to properly trust me. That wasn't right of me, talking to you like I was criticizing you."
+1020001040270,透,……ううん、違うよ\n私も……悪かったのかも,"...no, the other way round.
+I think... it might be my fault. "
+1020001040280,透,なんか、ちょっと思い込んでた\n気持ちが通じてるって……,"I just──was set on the idea, I think.
+That I'd been getting across to you..."
+0000000000000,プロデューサー,……え？,...huh?
+1020001040290,透,──プロデューサーは……\n私のこと、知らない？,"──Producer...
+Do you──not know me?"
 0000000000000,プロデューサー,──？\nだから……知りたいと思ってる,"──?
-That's why... I want to know you."
-1020001040300,透,──そうじゃなくて……\n…………,"──That's not it...
+I'm telling you... I want to."
+1020001040300,透,──そうじゃなくて……\n…………,"──That's not...
 ..."
-1020001040310,透,迎えに来てくれてありがと\n……帰ろ,"Thanks for coming to get me.
-...Let's go back."
+1020001040310,透,迎えに来てくれてありがと\n……帰ろ,"Thank you for coming for me.
+...let's go back."
 info,produce_events/102000104.json,
 译者,,
