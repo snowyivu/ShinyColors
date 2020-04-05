@@ -86,6 +86,10 @@ SSRのプロデュースアイドルを特訓します,Evolve an SSR Produce Ido
 芹沢あさひ,Asahi Serizawa,name
 黛冬優子,Fuyuko Mayuzumi,name
 和泉愛依,Mei Izumi,name
+浅倉透,Toru Asakura,name
+樋口円香,Madoka Higuchi,name
+福丸小糸,Koito Fukumaru,name
+市川雛菜,Hinana Ichikawa,name
 フェス,Fes,noun
 フェスリハーサル,Fes Rehearsal,noun
 グレードフェス,Grade Fes,noun
@@ -145,7 +149,7 @@ $noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよ�
 $nameのファンを累計で$num人獲得しよう,Earn $2 total fans for $1,exp
 $nameのファンを累計で$num万人獲得しよう,Earn $20000 total fans for $1,exp
 $nameのファンを累計で$num億人獲得しよう,Earn $200000000 total fans for $1,exp
-ファンを累計で$num人獲得しよう,Earn $2 total fans,exp
+ファンを累計で$num人獲得しよう,Earn $1 total fans,exp
 ファンを累計で$num万人獲得しよう,Earn $10000 total fans,exp
 ファンを累計で$num億人獲得しよう,Earn $100000000 total fans,exp
 $nameの思い出レベルを$numにしよう,Reach Memory Level $2 with $1,exp
