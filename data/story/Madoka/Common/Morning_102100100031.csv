@@ -1,0 +1,26 @@
+id,name,text,trans
+0000000000000,プロデューサー,ちょっとコンビニに行ってくるよ,I'm going to the convience store for a bit.
+0000000000000,プロデューサー,"円香の欲しい物とかあったら
+ついでに買──","If there happens to be anything you want, I can buy-"
+1021001000310010,円香,無いです,I don't want anything.
+0000000000000,プロデューサー,（即答だ……）,(Shot down instantly...)
+select,,飲み物とか,"Want something
+to drink?"
+select,,思いついたら連絡して,"If you think
+of anything,
+call me."
+select,,よかったら一緒に,"Would you
+want to
+go together?"
+1021001000310020,円香,あるので大丈夫です,"I have one, so I'm fine."
+1021001000310030,円香,お構いなく,Don't worry about me.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001000310040,円香,しません,I won't.
+1021001000310050,円香,貸しを作りたくないので,I don't want any debt.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001000310060,円香,は？,Huh?
+1021001000310070,円香,"欲しいものは無いと言っているのに、
+なんのためですか？","I already said I don't want anything, so why would I?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100031.json,
+译者,,

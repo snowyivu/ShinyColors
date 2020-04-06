@@ -1,0 +1,22 @@
+id,name,text,trans
+1021001000710010,円香,"今日は朝から出かけるって
+言ってませんでしたっけ",Didn't you say we were heading out this morning?
+0000000000000,プロデューサー,"ああ、そうだ
+そろそろ出ないと──","Yeah, that's right. We need to leave so-"
+1021001000710020,円香,あの時計、止まっていますよ,That clock is broken.
+0000000000000,プロデューサー,えっ！,Huh?!
+select,,ありがとう！,Thank you!
+select,,まずい！,Oh no!
+select,,う、嘘だろ！,N-no way!
+1021001000710030,円香,……はいはい,"...Yeah, yeah."
+1021001000710040,円香,"せいぜい頑張って、
+コメツキバッタみたいに謝ってきてください","Go do your best, and please apologize on the ground like a servent."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001000710050,円香,やっぱり気付いてなかったんですね,I knew you didn't notice.
+1021001000710060,円香,だとしても、時間感覚が無さすぎじゃないですか,"Even so, you really are too unaware of time."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001000710070,円香,大声、出さないでください,Please don't be so loud.
+1021001000710080,円香,……教えなければよかった,...I shouldn't have told you.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100071.json,
+译者,,

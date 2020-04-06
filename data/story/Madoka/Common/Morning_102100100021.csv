@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000,プロデューサー,円香、おはよう,"Madoka, good morning."
+1021001000210010,円香,おはようございます,Good morning.
+1021001000210020,円香,"私のことは構わず、
+どうぞ仕事に集中してください","Don't mind me, please focus on work."
+0000000000000,プロデューサー,（よーし、それなら仕事の話を……）,"(Alright, then I'll talk about work...)"
+select,,ユニットについて,"About
+the unit."
+select,,仕事の資料について,"About work
+documents."
+select,,レッスンについて,"About
+lessons."
+1021001000210030,円香,……みんなにも関わることですか？,...Everyone in the unit will be involved?
+1021001000210040,円香,"従うかどうかは聞いてから考えますが
+とりあえず、話してください",I'll think about going along or not after I hear more about it. Please tell me about it.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001000210050,円香,はい、わかりました,"Ok, got it."
+1021001000210060,円香,見ておきます,I'll look over it.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001000210070,円香,あなたに話せることがあるんですか？,Is there anything I need to discuss with you?
+1021001000210080,円香,余計なアドバイスなら結構です,I don't need any unnecessary advice.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100021.json,
+译者,,

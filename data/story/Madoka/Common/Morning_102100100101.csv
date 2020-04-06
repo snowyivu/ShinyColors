@@ -1,0 +1,21 @@
+id,name,text,trans
+0000000000000,プロデューサー,円香って、休みの日は何しているんだ？,"Madoka, what do you do on your days off?"
+1021001001010010,円香,答えません,I won't tell you.
+0000000000000,プロデューサー,"はは、冷たいなあ
+じゃあヒントだけでも","Haha, how cold. Then at least give me a hint."
+1021001001010020,円香,……プライベートです,...It's private.
+select,,惰眠とか？,Doing nothing?
+select,,勉強とか？,Studying?
+select,,家事とか？,Chores?
+1021001001010030,円香,あなたと一緒にしないでください,Please don't compare me to yourself.
+1021001001010040,円香,知らないけど,I don't know.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001001010050,円香,"必要な時にはやりますが、
+でも、それくらいは普通でしょ？","I do that occasionally when I need to, but that's normal isn't it?"
+1021001001010060,円香,机にかじりつくような優等生にでも見えましたか,Did you see me as a honor student who clings to their desk?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001001010070,円香,……その聞き方から察するに,"...I'm guessing from the way you asked, that..."
+1021001001010080,円香,あなたは休みの日以外、家事をしないみたいですね,You don't do chores except on your days off huh.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100101.json,
+译者,,

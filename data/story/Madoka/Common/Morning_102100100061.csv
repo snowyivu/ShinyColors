@@ -1,0 +1,25 @@
+id,name,text,trans
+1021001000610010,円香,……,...
+1021001000610020,円香,"今日の事務所、
+……いい香りがします",...The office smells nice today.
+0000000000000,プロデューサー,言われてみると確かに……,"Now that you mention it, you're right..."
+1021001000610030,円香,…………,......
+select,,花瓶の花かな,"It might be
+the flowers
+in the vase."
+select,,コーヒーかな,"It might be
+coffee."
+select,,柔軟剤かな,"It might be
+fabric
+softener."
+1021001000610040,円香,あ、新しい花……,"Ah, new flowers..."
+1021001000610050,円香,ちゃんと世話をしている人がいるんですね……,So there are some actually helpful people here...
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001000610060,円香,……それはいつもですよね。あなたのせいで,...That's always here. Thanks to you.
+1021001000610070,円香,私が言っているのは違います,I was talking about something else.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001000610080,円香,え、あなたのシャツの……？,"Huh, your shirt...?"
+1021001000610090,円香,はぁ……言うんじゃなかった……,Sigh... I shouldn't have said anything...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100061.json,
+译者,,
