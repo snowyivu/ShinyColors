@@ -1,0 +1,26 @@
+id,name,text,trans
+1021001000510010,円香,……窓を開けますね,...I'm opening the window.
+0000000000000,プロデューサー,ああ、どうかしたか？,"Sure, is something wrong?"
+1021001000510020,円香,"空気がこもっているので
+換気のために","The room was stuffy, so I wanted to ventilate it."
+0000000000000,プロデューサー,"そうか、気付かなかった
+ありがとう","Oh, I hadn't noticed. Thanks."
+select,,いい風だな,"What a 
+nice breeze."
+select,,肌寒いかな,"It's kind of
+chilly."
+select,,外がうるさいな,"It's loud
+outside."
+1021001000510030,円香,はい,Yeah.
+1021001000510040,円香,……気持ちいい,...It feels nice.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001000510050,円香,そうですか？,Really?
+1021001000510060,円香,私はちょうどいいです,I'm just fine.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001000510070,円香,"空気を入れ換えている間くらい
+我慢できないんですか",You can't even be patient while the air is circulating?
+1021001000510080,円香,"それに、うるさいというなら、
+あなたの声の方がよほど耳障りです","Besides, if you're irritated by the noise, your voice is way more irritating."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100051.json,
+译者,,

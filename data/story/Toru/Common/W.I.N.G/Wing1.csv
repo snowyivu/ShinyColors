@@ -14,7 +14,7 @@ and I suddenly can't see the top anymore."
 ""Ah, it sure is a long way..."""
 1020001020060,透,──…………ん\nふぁ……────,"...Mmm.
 Yawn..."
-1020001020070,透,……\n……そっか。今日からあれか,"...
+1020001020070,透,……\n……そっか。今日からあれか,"
 ...Right. It's that from now on, now."
 0000000000000,プロデューサー,──えーと、今日見学させてもらうのは撮影現場だけど\nスタジオに着くまでの間も、誰に会うかわからない,"──Alright... Today, they're letting us take a look at the location they're shooting. Be warned, I don't know who we'll bump into on the way to the studio."
 0000000000000,プロデューサー,俺が誰かと挨拶したら、\n透も元気よく続いてくれ,"So if I greet someone, be sure to be lively too."
@@ -22,7 +22,7 @@ Yawn..."
 0000000000000,プロデューサー,よし。できるだけたくさんの人に\n顔を覚えてもらわなきゃな。じゃあ行こ──,"Right. We want as many people to get to know
 your face as possible. Off we go──"
 0000000000000,TV局職員,おはようございまーす！,Good morning!
-0000000000000,プロデューサー,……！,...!
+0000000000000,プロデューサー,……！,Oh!
 1020001020090,透,おはようございまーす,Good morning.
 0000000000000,プロデューサー,……あ、おはようございますー！,"...Ah, good morning!"
 0000000000000,プロデューサー,──透、今の人……知り合いか？,"──Toru, have you... met that person somewhere before?"
@@ -32,8 +32,8 @@ your face as possible. Off we go──"
 1020001020110,透,おはようございまーす,Good morning.
 0000000000000,プロデューサー,──あ、はは、どうもー！\n…………今のは……？,"Ah, haha, hello!
 ...and that one...?"
-1020001020120,透,……？\n知らない人だけど,...? I don't know these people.
-select,,え──,Eh?──
+1020001020120,透,……？\n知らない人だけど,Hmm? I don't know these people.
+select,,え──,Eh──
 select,,いやいや、\nそんな……,"No, no,
 there's no way..."
 select,,そ、そうか……\nいい挨拶できてるぞ,"I-I see... you
@@ -42,17 +42,17 @@ at greetings."
 0000000000000,番組ディレクター,あっはっは！\nみんなに挨拶される？,Ah-hah-hah! Getting greeted by everyone?
 0000000000000,番組ディレクター,キミ、すごくオーラがあるから\n誰か有名な子だって思われるんだろうなぁ,"You've got an amazing aura about, you do.
 I think you've got people reckoning you're some kind of hot-shot kid."
-1020001020130,透,……,...
+1020001020130,透,……,……
 0000000000000,プロデューサー,（と、透……！？　何か返さないと！）,(T-Toru...!? You need to respond with something!)
 0000000000000,プロデューサー,……はははっ\nそ、そうだったら光栄なことです！　なっ？,"...Hahaha!
 That's a real honor if so! Right?"
 1020001020140,透,え？　うん,Huh? Yeah.
 0000000000000,プロデューサー,──あ、あははは……！\nすみません、ちょっと緊張してるみたいで,"──Uh, ahahaha...!
 Excuse her, I think she's a little bit nervous."
-0000000000000,番組ディレクター,いや構わないよ。透くんって言ったか\nいつか一緒に仕事しよう,"No, no problem. Toru-kun, was it? I hope we work together someday."
+0000000000000,番組ディレクター,いや構わないよ。透くんって言ったか\nいつか一緒に仕事しよう,"No, no problem. Toru, was it? I hope we work together someday."
 1020001020150,透,はい,Right.
 0000000000000,番組ディレクター,はっはっは！\nなんかこう、目に力があるなぁ！,"Hah-hah-hah! You know, you've got some force behind your eyes this way!"
-0000000000000,プロデューサー,……\nははは……！,"...
+0000000000000,プロデューサー,……\nははは……！,"……
 Hahaha...!"
 0000000000000,プロデューサー,──透、あのさ\nああいう時は、しゃべってくれてかまわないんだぞ？,"Toru, hey. At times like that, I don't mind talking for you, okay?"
 1020001020160,透,え？　うん,Huh? Okay.
@@ -60,7 +60,7 @@ Hahaha...!"
 Maybe there was something bothering you?"
 1020001020170,透,──……ううん\nなんか──,"...No.
 It was just──"
-1020001020180,透,人生って、長いなーって,Life sure is. A long way. You know.
+1020001020180,透,人生って、長いなーって,Life sure is a long way. You know.
 0000000000000,プロデューサー,…………えっ……？,...Eh...?
 1020001020190,透,あ、ううん\n次、頑張るから,"Oh, no. Nothing. I'll work at it next time."
 1020001020200,透,……？\nでも、知らないし──,"...?
@@ -72,7 +72,7 @@ But I don't know them──"
 0000000000000,プロデューサー,──まぁ、考えても仕方ないか\n向こうから声を掛けてくれるなら幸いだ,"──Well, no point thinking about it too hard.
 The fact they're the ones greeting you is a pretty amazing thing."
 0000000000000,プロデューサー,よし、挨拶は基本だぞ！\nあらためて、一人ひとりしっかり返そう！,"Alright, greetings are foundational! Let's make sure to give every single person a proper reply!"
-1020001020230,透,うん。ふふっ,Yeah. Fufu──
+1020001020230,透,うん。ふふっ,Yeah. Heheh──
 1020001020240,透,アイドルってもっと特別な感じかと思ったけど\n学校と変わんないね,"I thought being an idol would be more special,
 somehow, but it's just the same as school."
 0000000000000,プロデューサー,え？,Eh?

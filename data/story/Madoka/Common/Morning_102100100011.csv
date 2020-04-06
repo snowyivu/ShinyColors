@@ -1,0 +1,27 @@
+id,name,text,trans
+0000000000000,プロデューサー,"円香、おはよう
+今日はいい天気だなあ","Madoka, good morning. Isn't the weather is nice today?"
+1021001000110010,円香,はい,It is.
+1021001000110020,円香,…………,......
+0000000000000,プロデューサー,（か、会話が続かない……）,(This isn't going anywhere...)
+select,,午後は雨らしいけど,"It seems like
+it'll rain this
+afternoon."
+select,,朝食は食べた？,"What did
+you eat for
+breakfast?"
+select,,今日は何時に起きた？,"What time
+did you wake
+up today?"
+1021001000110030,円香,はい,Yeah.
+1021001000110040,円香,知っています,I know.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001000110050,円香,……つまらない質問,...What a boring question.
+1021001000110060,円香,"そこからどうやって会話を広げるのか、
+逆に見ものですね",Trying to continue the conversation like that makes it too obvious.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001000110070,円香,話しかけないでください,Please don't talk to me.
+1021001000110080,円香,無駄な会話にエネルギーを使いたくないので,I don't want to waste energy on pointless chatter.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100011.json,
+译者,,
