@@ -4,7 +4,7 @@ id,name,text,trans
 Which one do you like, pineapple or cherry?"
 1021001001210010,円香,どちらでも,Either.
 0000000000000,プロデューサー,"……それなら、じゃんけんで！
-円香が勝ったらパイン、負けたらチェリーにするか！","…Well then, let's do Rock-Paper-Scissors!
+円香が勝ったらパイン、負けたらチェリーにするか！","...Well then, let's do Rock-Paper-Scissors!
 If you win, it'll be pineapple, if you lose, it'll be cherry!"
 1021001001210020,円香,は？,Huh?
 0000000000000,プロデューサー,いくぞ、じゃーんけん──,Go! Rock-Paper──
@@ -21,6 +21,6 @@ go suit yourself."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1021001001210070,円香,何、ひとりではしゃいでいるんですか,"What the, are you playing by yourself?"
 1021001001210080,円香,付き合いませんよ,I'm not going out with you.
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102100100121.json,
 译者,,

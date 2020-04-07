@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"円香、おはよう
 今日はいい天気だなあ","Madoka, good morning. Isn't the weather nice today?"
 1021001000110010,円香,はい,It is.
-1021001000110020,円香,…………,……
+1021001000110020,円香,…………,......
 0000000000000,プロデューサー,（か、会話が続かない……）,(This isn't going anywhere...)
 select,,午後は雨らしいけど,"It seems like
 it'll rain this
@@ -22,6 +22,6 @@ up today?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1021001000110070,円香,話しかけないでください,Please don't talk to me.
 1021001000110080,円香,無駄な会話にエネルギーを使いたくないので,I don't want to waste energy on pointless chatter.
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102100100011.json,
 译者,,
