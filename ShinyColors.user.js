@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.9.98
+// @version      0.9.99
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -481,7 +481,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.9.98";
+	var version = "0.9.99";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -827,9 +827,8 @@
 	const getRequest = async () => {
 	  let md = await getModule('REQUEST', module => {
 	    return module.default && module.default.get && module.default.post && module.default.put && module.default.patch;
-	  }); //  md.default = {};
-	  //  console.log("This should break and confirms stuff");
-
+	  });
+	  md.default = Object.assign({}, md.default);
 	  return md;
 	};
 
@@ -942,10 +941,10 @@
 	      if (item && item.ja) {
 	        const _ja = trimWrap(item.ja);
 
-	        const _zh = trimWrap(item.zh);
+	        const _en = trimWrap(item.en);
 
-	        if (_ja && _zh && _ja !== _zh) {
-	          commonMap.set(_ja, _zh);
+	        if (_ja && _en && _ja !== _en) {
+	          commonMap.set(_ja, _en);
 	        }
 	      }
 	    });
@@ -9167,12 +9166,11 @@
 	const requestOfPatch = [[/^userSupportIdols\/\d+$/, supportSkill], ['userFesDecks', userFesDeck]];
 	async function requestHook() {
 	  const request = await getRequest();
-	  if (!request || !request.default.get) return;
-	  request.default = Object.assign({}, request.default); // GET
+	  if (!request || !request.get) return; // GET
 
-	  const originGet = request.default.get;
+	  const originGet = request.get;
 
-	  request.default.get = async function (...args) {
+	  request.get = async function (...args) {
 	    const type = args[0];
 	    const res = await originGet.apply(this, args);
 	    if (!type) return res;
@@ -9183,9 +9181,9 @@
 	  }; // PATCH
 
 
-	  const originPatch = request.default.patch;
+	  const originPatch = request.patch;
 
-	  request.default.patch = async function (...args) {
+	  request.patch = async function (...args) {
 	    const type = args[0];
 	    const res = await originPatch.apply(this, args);
 	    if (!type) return res;
@@ -9196,9 +9194,9 @@
 	  }; // POST
 
 
-	  const originPost = request.default.post;
+	  const originPost = request.post;
 
-	  request.default.post = async function (...args) {
+	  request.post = async function (...args) {
 	    const type = args[0];
 	    const res = await originPost.apply(this, args);
 	    if (!type) return res;
@@ -9209,16 +9207,16 @@
 	  }; // PUT
 
 
-	  const originPut = request.default.put;
+	  const originPut = request.put;
 
-	  request.default.put = async function (...args) {
+	  request.put = async function (...args) {
 	    const type = args[0];
 	    const res = await originPut.apply(this, args);
 	    if (!type) return res;
 	    let data = res.body;
 	    requestLog('PUT', '#9C27B0', args, data);
 	    return res;
-	  }; //  request.default = new Proxy(request.default, {
+	  }; //  request = new Proxy(request, {
 	  //    get(target, name, receiver) {
 	  //      if(name == 'get') return newGet;
 	  //      return Reflect.get(target, name, receiver);
