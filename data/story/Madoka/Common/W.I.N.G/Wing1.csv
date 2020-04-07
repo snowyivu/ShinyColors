@@ -5,7 +5,7 @@ id,name,text,trans
 1021001020020,円香,それなりに,As much as I can.
 0000000000000,プロデューサー,そうか、よかった……！,That's good...!
 0000000000000,プロデューサー,生活リズムも変わって大変だろう？\n困ったことがあったらなんでも言ってくれよ,It's hard to change your daily life style. If you have something bothering you feel free to tell me.
-1021001020030,円香,……,......
+1021001020030,円香,……,……
 0000000000000,プロデューサー,今日はよろしくお願いします！\n彼女がうちの新人で……,I'll be counting on you today! She's our new idol...
 1021001020040,円香,樋口円香です\nよろしくお願いします,I'm Madoka Higuchi. Nice to meet you.
 0000000000000,カメラマン,ああ、よろしく\nセッティングが終わるまで少し待っていてくれ,Nice to meet you too. Please wait a bit until we finish setting up.
@@ -13,14 +13,14 @@ id,name,text,trans
 0000000000000,プロデューサー,……緊張しなくていいからな\n肩の力は抜きつつ、全力で頑張ろう！,...Don't feel too nervous. Relax and do your best!
 1021001020050,円香,……ふふっ,...Fufu.
 1021001020060,円香,仕事熱心な人ですね,You're the type that's really into your work huh.
-0000000000000,プロデューサー,えっ？　そ、そうか……？,Huh? R-really...?
+0000000000000,プロデューサー,えっ？　そ、そうか……？,Huh? R-Really...?
 1021001020070,円香,ええ、嫌というほど伝わってきます,"Yes, to the point it's unpleasant."
-0000000000000,プロデューサー,はは……まあそれが取り柄のようなものだからさ\nでも最近は残業で怒られることも多くて──,Haha... Well that sounds like a redeeming point. But lately I've been scolded for my overtime-
-1021001020080,円香,でしょうね\nミスター・オールドタイプ,"Right, Mister Old Type."
+0000000000000,プロデューサー,はは……まあそれが取り柄のようなものだからさ\nでも最近は残業で怒られることも多くて──,Haha... Well that sounds like a redeeming point. But lately I've been scolded for my overtime──
+1021001020080,円香,でしょうね\nミスター・オールドタイプ,"Right, Mr. ""Old Type""."
 1021001020090,円香,いちいち情熱を燃やさないと、\nまともに仕事できないんですか？,"If everyone isn't personally that passionate, they can't work honestly can they?"
 1021001020100,円香,高燃費、ご苦労様です,"Good work, you gas-guzzler."
-0000000000000,プロデューサー,…………,......
-0000000000000,プロデューサー,──円香……,-Madoka...
+0000000000000,プロデューサー,…………,……
+0000000000000,プロデューサー,──円香……,──Madoka...
 0000000000000,プロデューサー,驚いた、いい表情だったよ\n初めての撮影とは思えない……,"I'm surprised, you had a good expression. You wouldn't think it was your first shoot..."
 1021001020110,円香,何よりですね,That's good.
 0000000000000,プロデューサー,宣材写真にしておくのはもったいないけど……\nこれでたくさん売り込んでくるからな！,"It's almost a waste to just keep it a promo photo, but... We'll get a lot of sales with this!"
@@ -31,21 +31,22 @@ id,name,text,trans
 1021001020130,円香,は……？　こんな路上で？,Huh...? On this street?
 0000000000000,プロデューサー,CDショップで毎週やっているイベントだよ\nアイドルについて学ぶチャンスだ,It's an event the CD shop does every week. This is a chance to study about idols.
 0000000000000,プロデューサー,ほら、ちょうど始まるぞ！,"Alright, it's about to start!"
-1021001020140,円香,………………ふうん,............Hm.
+1021001020140,円香,………………ふうん,…Hm.
 1021001020150,円香,素敵ですね,It's amazing.
-0000000000000,プロデューサー,……あ、ああ！　そうだろう！？,...Y-yeah! Isn't that right?!
+0000000000000,プロデューサー,……あ、ああ！　そうだろう！？,...Y-Yeah! Isn't that right?!
 1021001020160,円香,はい、私の想像通り,"Yes, just like I imagined."
 1021001020170,円香,笑っておけばなんとかなる\nアイドルって楽な商売,As long as you smile you'll make it. Being an idol is an easy occupation.
 0000000000000,プロデューサー,……\nいや、円香。それは……,"...No, Madoka. That's..."
 1021001020180,円香,別に否定してませんよ？\nおかげで私みたいな素人でもやれるんですから,I'm not denying anything? Even an ordinary person like me can do it too.
-select,,『気持ち』が重要なんだ,"""Feeling"" is important"
-select,,……違うよ,...You're wrong
+select,,『気持ち』が重要なんだ,"""Feeling"" is
+important."
+select,,……違うよ,...You're wrong.
 select,,うーん……,Hmm...
-0000000000000,プロデューサー,さっきの写真だってそうだ\n円香が全力で取り組んでくれたからこそ──,Your photo was like that too. It's because you took it with a lot of effort-
+0000000000000,プロデューサー,さっきの写真だってそうだ\n円香が全力で取り組んでくれたからこそ──,Your photo was like that too. It's because you took it with a lot of effort──
 1021001020190,円香,は？　ないです、そんなの\n宣材写真に全力が必要なんですか？,"Huh? No, I didn't. Is all your effort really needed for a promo shot?"
 1021001020200,円香,私は普通にやっただけです,I just did it normally.
 1021001020210,円香,でも『宣材写真にしておくのはもったいない』\n素晴らしい出来栄えだったんですよね？,"But you said ""It's a waste to just keep it a promo photo"". So I had wonderful results, right?"
-0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,……,……
 1021001020220,円香,さすが……\n人を見る目がおありですね,"As expected... The public opinion of someone is the end, right?"
 0000000000000,プロデューサー,誰かのための笑顔は簡単じゃない,It's not easy to smile for someone else.
 1021001020230,円香,それはすみませんでした\n私にはあの笑顔が自己顕示欲の塊に見えたので,I'm sorry about that. To me that smile felt like the embodiment of craving for the limelight.
@@ -53,7 +54,7 @@ select,,うーん……,Hmm...
 1021001020240,円香,ありがとうございます,Thank you.
 1021001020250,円香,では、いつかわかる日が来るまでは、\nほどほどの愛想で構いませんね,"Well then, until I understand someday, it's no problem to be somewhat civil."
 1021001020260,円香,恥ずかしいですから,It's embarassing.
-0000000000000,プロデューサー,確かにダンスも歌もまだまだかもしれない\nでも、一生懸命頑張って──,"It's true you need more work on dancing and singing, but if you do your best-"
+0000000000000,プロデューサー,確かにダンスも歌もまだまだかもしれない\nでも、一生懸命頑張って──,"It's true you need more work on dancing and singing, but if you do your best──"
 1021001020270,円香,つまり未完成でも商売になるってことですよね,So even if I'm incomplete I can still be in this occupation.
 1021001020280,円香,社会ってもっと厳しいものだと思っていました\n私の勘違いで何よりです,I thought society was stricter than that. I guess I was mistaken.
 0000000000000,プロデューサー,……アイドルのことを知らないうちは、\nそう見えるのかもしれないな,"...If you don't know about idols, it may seem like that."

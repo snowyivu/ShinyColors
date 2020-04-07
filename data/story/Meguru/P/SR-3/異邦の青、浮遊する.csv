@@ -10,7 +10,7 @@ I think I heard someone else."
 It's almost the day for the actual shoot!"
 2003006010030,めぐる,"急いで上手くならなくちゃでしょ？
 レッスンの時間だけじゃ足りないんだよー！","I have to get better right away, don't I?
-So doing it only during lesson times won't be enough!"
+Lessons don't give me enough time!"
 0000000000000,プロデューサー,あ、ああ……,R-Right.
 2003006010040,めぐる,"この台本ね、読めば読むほど、
 もっと役のこと知りたいーってなるんだ！","You see, the more I read into this script, the more I want to know more about the role!"
@@ -19,7 +19,7 @@ So doing it only during lesson times won't be enough!"
 I just couldn't hold my feelings back."
 0000000000000,プロデューサー,"めぐる……ごめんな
 そのことで大事な話があるんだ",Meguru... I hate to bring this to you but there's something important that you need to know about that role.
-2003006010060,めぐる,？　……うん、どうかしたの？,...Okay. What is it?
+2003006010060,めぐる,？　……うん、どうかしたの？,"...Oh, What is it?"
 0000000000000,プロデューサー,実は……その映画に出る話がなくなってしまったんだ,Actually... we just lost the opportunity to play in that movie.
 2003006010070,めぐる,えっ……！？,Eh?
 0000000000000,プロデューサー,すまない……,I'm really sorry...
@@ -27,12 +27,12 @@ I just couldn't hold my feelings back."
 2003006010090,めぐる,そっか……,So that's what happened...
 select,,"仕事がなくなった
 理由は……",The reason that job was gone is...
-select,,頑張っていたのにな,You were working so hard for it.
+select,,頑張っていたのにな,You were working so hard.
 select,,"でも…………
 もう一度……",But... I'll try again...
 2003006010100,めぐる,……,......
 0000000000000,プロデューサー,"脚本を修正したら、
-めぐるの役の出番がなくなってしまったと……","When the screenplay was revised, your role got written out..."
+めぐるの役の出番がなくなってしまったと……",The screenplay was revised and your role got written out...
 2003006010110,めぐる,！　脚本の修正で……？,The screenplay was revised?
 0000000000000,プロデューサー,先方も、本当に申し訳ないって、謝ってたよ,They were really sorry about this.
 2003006010120,めぐる,そっか……そうだったんだね……,Oh... I see...
@@ -50,7 +50,7 @@ I guess... the screenplay has its own share of problems too."
 次はもっとアピールできるようにするね！","So, I'm really sorry about this, Producer!
 I'll work harder to I could be more appealing next time!"
 0000000000000,プロデューサー,（めぐる……）,(Meguru...)
-0000000000000,プロデューサー,（俺にも、もっとプロデューサーとしての力があれば……）,"(Me too, if only I was a much better producer...)"
+0000000000000,プロデューサー,（俺にも、もっとプロデューサーとしての力があれば……）,(If only I worked harder too...)
 0000000000000,プロデューサー,（……）,(......)
 0000000000000,プロデューサー,"……ああ！　めぐるの努力は絶対に実る！
 次に向けて頑張ろう！","Yeah! I'm sure that your efforts will pay off!
