@@ -18,9 +18,9 @@ const getPhrase = async (full = false) => {
     list.forEach(item => {
       if (item && item.name) {
         const _name = trimWrap(item.name)
-        const _zh = trimWrap(item.zh)
-        if (_name && (_zh || full)) {
-          phraseMap.set(_name, tagText(_zh))
+        const _en = trimWrap(item.en)
+        if (_name && (_en || full)) {
+          phraseMap.set(_name, tagText(_en))
         }
       }
     })
