@@ -127,12 +127,11 @@ const requestOfPatch = [
 
 export default async function requestHook () {
   const request = await getRequest()
-  if (!request || !request.default.get) return
-  request.default = Object.assign({}, request.default);
+  if (!request || !request.get) return
 
   // GET
-  const originGet = request.default.get
-  request.default.get = async function (...args) {
+  const originGet = request.get
+  request.get = async function (...args) {
     const type = args[0]
     const res = await originGet.apply(this, args)
     if (!type) return res
@@ -143,8 +142,8 @@ export default async function requestHook () {
   }
 
   // PATCH
-  const originPatch = request.default.patch
-  request.default.patch = async function (...args) {
+  const originPatch = request.patch
+  request.patch = async function (...args) {
     const type = args[0]
     const res = await originPatch.apply(this, args)
     if (!type) return res
@@ -155,8 +154,8 @@ export default async function requestHook () {
   }
 
   // POST
-  const originPost = request.default.post
-  request.default.post = async function (...args) {
+  const originPost = request.post
+  request.post = async function (...args) {
     const type = args[0]
     const res = await originPost.apply(this, args)
     if (!type) return res
@@ -167,8 +166,8 @@ export default async function requestHook () {
   }
 
   // PUT
-  const originPut = request.default.put
-  request.default.put = async function (...args) {
+  const originPut = request.put
+  request.put = async function (...args) {
     const type = args[0]
     const res = await originPut.apply(this, args)
     if (!type) return res
@@ -176,7 +175,7 @@ export default async function requestHook () {
     requestLog('PUT', '#9C27B0', args, data)
     return res
   }
-//  request.default = new Proxy(request.default, {
+//  request = new Proxy(request, {
 //    get(target, name, receiver) {
 //      if(name == 'get') return newGet;
 //      return Reflect.get(target, name, receiver);

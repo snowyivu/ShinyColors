@@ -61,8 +61,7 @@ const getRequest = async () => {
   let md = await getModule('REQUEST', (module) => {
     return module.default && module.default.get && module.default.post && module.default.put && module.default.patch
   }) 
-//  md.default = {};
-//  console.log("This should break and confirms stuff");
+  md.default = Object.assign({}, md.default);
   return md
 }
 
