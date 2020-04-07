@@ -2,13 +2,13 @@ id,name,text,trans
 2002007020010,灯織,……はぁ……止まないな……,Haa... it's not stopping...
 2002007020020,灯織,"プロデューサー
 明日のイベント、大丈夫でしょうか……？","Producer,
-will tomorrow be alright I wonder...?"
+I wonder if tomorrow will be alright...?"
 0000000000000,プロデューサー,"うーん……
-せめて勢いが弱くならないと、難しいかもな……","Umm... If it doesn't slow down any,
+せめて勢いが弱くならないと、難しいかもな……","Yeah... If it doesn't slow down any,
 it might be bad for tomorrow..."
-2002007020030,灯織,……せっかくのイベントなのに……,Just the time when there’s an event scheduled...
+2002007020030,灯織,……せっかくのイベントなのに……,It just had to be when there’s an event scheduled...
 0000000000000,プロデューサー,予報では五分五分みたいだぞ,The forecast said there’s a 50% chance of rain tomorrow.
-2002007020040,灯織,でも、止みそうにないですよね,"But, it doesn't look like it'll be stopping anytime soon."
+2002007020040,灯織,でも、止みそうにないですよね,But it doesn't look like it'll be stopping anytime soon.
 2002007020050,灯織,"……前に私が嘘をつこうとしたから
 バチが当たったんでしょうか……","I tried to lie about rain before,
 so is this my karma..."
@@ -89,9 +89,9 @@ Ah! Then..."
 2002007020310,灯織,"どうしてもできない箇所があるんですが、
 今日ならできる気がするんです……！","I've hit a slump recently, 
 but after today's events I think I can make it through!"
-0000000000000,プロデューサー,もちろん大丈夫だ、勢いに乗ってやってしまおう,"Of course, you really are on a roll today."
+0000000000000,プロデューサー,もちろん大丈夫だ、勢いに乗ってやってしまおう,"Of course, you're on a roll today."
 2002007020320,灯織,"ありがとうございます……
 まずは今日のイベント、頑張ります！","Thank you very much...
-But first, I'll make today's event a success."
+But first, I'll have to make today's event a success."
 info,produce_events/200200702.json,
 译者,,
