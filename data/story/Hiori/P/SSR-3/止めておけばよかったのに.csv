@@ -4,88 +4,94 @@ id,name,text,trans
 明日のイベント、大丈夫でしょうか……？","Producer,
 will tomorrow be alright I wonder...?"
 0000000000000,プロデューサー,"うーん……
-せめて勢いが弱くならないと、難しいかもな……","Umm... If it does not get any weaker,
+せめて勢いが弱くならないと、難しいかもな……","Umm... If it doesn't slow down any,
 it might be bad for tomorrow..."
 2002007020030,灯織,……せっかくのイベントなのに……,Just the time when there’s an event scheduled...
-0000000000000,プロデューサー,予報では五分五分みたいだぞ,The forecast said there’s a 50% chance of raining tomorrow.
-2002007020040,灯織,でも、止みそうにないですよね,"But, it doesn't look like it would stopping anytime soon."
+0000000000000,プロデューサー,予報では五分五分みたいだぞ,The forecast said there’s a 50% chance of rain tomorrow.
+2002007020040,灯織,でも、止みそうにないですよね,"But, it doesn't look like it'll be stopping anytime soon."
 2002007020050,灯織,"……前に私が嘘をつこうとしたから
 バチが当たったんでしょうか……","I tried to lie about rain before,
-So is this my karma..."
+so is this my karma..."
 0000000000000,プロデューサー,雨が降るって言ってた、あれのことか？,When you said that it's going to rain?
 0000000000000,プロデューサー,"さすがに偶然だと思うぞ
-それに、そんなことくらいでバチなんて当たらないだろう","I think it's just a coincidence, Also, I don't think your karma going that bad."
-2002007020060,灯織,でもイベントの前日に雨が降るなんて……,"But, a rain a day before the events starts..."
-0000000000000,プロデューサー,気にするなって,Don't mind it...
+それに、そんなことくらいでバチなんて当たらないだろう","I think it's just a coincidence, Also, I don't think your karma is that bad."
+2002007020060,灯織,でもイベントの前日に雨が降るなんて……,"But, this rain a day before the events starts..."
+0000000000000,プロデューサー,気にするなって,Don't worry about it.
 2002007020070,灯織,……,......
 0000000000000,プロデューサー,（よし……）,(Okay.)
 0000000000000,プロデューサー,明日は晴れるぞー！,IT'S GOING TO BE SUNNY TOMORROW!
 2002007020080,灯織,"えっ！　プ、プロデューサー？
 どうしたんですか、急に大声を出して……","Eh! P-Producer?
-What's wrong? Suddenly shouting like that?"
-0000000000000,プロデューサー,こうすれば、想いが届くかと思ってな,"Maybe if I shout it out, it's going to be happen"
-0000000000000,プロデューサー,雨なんか、止むぞー！,"Stop, Rain!"
-2002007020090,灯織,そ、それで止むんですか……？,W-Will the rain stop with that?
+What's wrong? Why are you suddenly shouting like that?"
+0000000000000,プロデューサー,こうすれば、想いが届くかと思ってな,"Maybe if I shout it out loud, it'll listen to meー"
+0000000000000,プロデューサー,雨なんか、止むぞー！,"Stop, rain!"
+2002007020090,灯織,そ、それで止むんですか……？,W-Will the rain stop with just that?
 0000000000000,プロデューサー,"気持ちを込めれば大丈夫だ！
-雨なんかー！　止むぞー！",It's fine as long as we put our feelings into it! Rain or whatever! Will stop!
+雨なんかー！　止むぞー！","It'll be fine as long as we put our feelings into it! 
+Don't let it rain! Make it stop!"
 0000000000000,プロデューサー,ほら、灯織も一緒に,"C'mon Hiori, you too."
 2002007020100,灯織,"え？
 あ……えっと……","Eh?
 Ah... Umm..."
 2002007020110,灯織,あ、雨なんか、や、やむぞー……,Ah... Stop... Rain...
 0000000000000,プロデューサー,"おぉ、いいじゃないか
-絶対、晴れるぞー！","Oh, looking good
+絶対、晴れるぞー！","Oh, that's good.
 IT'S GONNA BE SUNNY!"
 2002007020120,灯織,絶対晴れるぞー……！,It's gonna be sunny...!
 0000000000000,プロデューサー,すごくいい天気になれー！,Please be sunny!
 2002007020130,灯織,すごくいい天気になぁれー！,Please be sunny!
 0000000000000,プロデューサー,"ふぅ……
-これだけ言えば、明日は晴れるだろう","Phew... If we said this much, it should be sunny right?"
-2002007020140,灯織,はぁ……はぁ……これで、ですか？,"Haa...haa.. Is this, okay?"
-0000000000000,プロデューサー,ああ、きっと気持ちは届くよ,"Yeah, our feelings must be reached out."
+これだけ言えば、明日は晴れるだろう","Phew... If we've yelled this much, it should be sunny by now right?"
+2002007020140,灯織,はぁ……はぁ……これで、ですか？,Haa...haa.. Is it working?
+0000000000000,プロデューサー,ああ、きっと気持ちは届くよ,"Yeah, I'm sure our feelings are felt out there."
 2002007020150,灯織,"……そうですね、私も信じてみます
-なんだか、気持ちも晴れましたし","I think so, I will try to believe that. Somehow it also brightened up my feelings."
+なんだか、気持ちも晴れましたし","Is that so? I'll try to believe that. 
+Somehow, I do feel a lot better."
 2002007020160,灯織,"嘘……本当に、晴れた……！
-昨日あんなに降ってたのに……","No way... It actually is sunny!
-Even though yesterday was pouring like that..."
+昨日あんなに降ってたのに……","No way... It's actually clearing up!
+Even though it was pouring like that yesterday..."
 select,,言霊ってやつだな,Are you an esper?
 select,,灯織は予言者だ,"Are you a prophet, Hiori?"
 select,,"ここまで晴れると
-いいことがありそう",I think it's a good sign for us
+いいことがありそう",I think it's a good sign for us.
 0000000000000,プロデューサー,"言葉にはそれ自体に力があるんだ
-だからきっと灯織の想いが届いたんだろう","Your words has some power behind it, I believe that your feelings became real."
+だからきっと灯織の想いが届いたんだろう","Your words had a lot of power in them.
+I believe that your feelings became real."
 2002007020170,灯織,そうなんでしょうか……？,Is it really like that?
 0000000000000,プロデューサー,"ああ、願いの力が強かったから
-現実になったんだよ","Yeah, if you strongly wish for it It can turn into reality."
+現実になったんだよ","Yeah, if you strongly wish for it something,
+it can turn into reality."
 2002007020180,灯織,素敵な考え方ですね……！,That's a wonderful way of thinking!
-2002007020190,灯織,今度から私も、お願いは口に出してみようと思います,Then I will try to watch what say from now on.
+2002007020190,灯織,今度から私も、お願いは口に出してみようと思います,Then I'll try to watch what say from now on.
 2002007020200,灯織,え……？　どういうことですか？,Eh? What do you mean?
 0000000000000,プロデューサー,"雨が止むと言ったら本当にそうなったんだ
-もしかしたら、灯織にはそういう力があったりしてな","When you said that the rain is going to stop, it really did. It’s possible that you have such power."
+もしかしたら、灯織にはそういう力があったりしてな","When you said that the rain is going to stop, it really did. 
+It’s possible that you have such a power."
 2002007020210,灯織,偶然だと思いますけど,I think it's just a coincidence.
 0000000000000,プロデューサー,だとしても、そう信じてみるのもいいんじゃないか,Isn't it better to just believe it?
 2002007020220,灯織,プロデューサー……,Producer...
-2002007020230,灯織,ふふ、それもそうですね,"Fufu, I guess you might be true."
-2002007020240,灯織,じゃあ……ここでひとつ、予言をします,Then... I will tell a prophecy
+2002007020230,灯織,ふふ、それもそうですね,"Fufu, I guess you might be right about that."
+2002007020240,灯織,じゃあ……ここでひとつ、予言をします,Then... I could give you a prophecy.
 0000000000000,プロデューサー,おお、なんだ？,"Oh, what is it?"
-2002007020250,灯織,今日のイベントはきっと……,Today events will be...
+2002007020250,灯織,今日のイベントはきっと……,Today's events will be...
 2002007020260,灯織,大成功します……！　ふふ,A huge success! Fufu.
-2002007020270,灯織,確かに、気持ちが高揚しますね……！,"Surely, now I'm fired up!"
+2002007020270,灯織,確かに、気持ちが高揚しますね……！,"Definitely, now I'm feeling fired up!"
 0000000000000,プロデューサー,"そうだろう？
-なにか悩みが解決したりとかな","Right? This makes us
-to forgot about our worries"
+なにか悩みが解決したりとかな","Is that right? I wonder if that
+will clear up my worries for today."
 2002007020280,灯織,"はい、そんな気がします
-……あ！　それなら","Yes, I feel so too
+……あ！　それなら","Yes, I feel that way.
 Ah! Then..."
 2002007020290,灯織,"プロデューサー、今日のイベントの後って
 確か時間ありましたよね？","Producer, do you have time after the event today?"
 0000000000000,プロデューサー,ああ、特に予定は入っていないぞ,"Yeah, I don't have any plans after this."
-2002007020300,灯織,でしたら、レッスンしたいです！,"Then, I want to do lessons!"
+2002007020300,灯織,でしたら、レッスンしたいです！,Then I want to do lessons!
 2002007020310,灯織,"どうしてもできない箇所があるんですが、
-今日ならできる気がするんです……！",I hit a slump recently but if it's today I think I can make it!
-0000000000000,プロデューサー,もちろん大丈夫だ、勢いに乗ってやってしまおう,"Of course, you really are riding the flow today."
+今日ならできる気がするんです……！","I've hit a slump recently, 
+but after today's events I think I can make it through!"
+0000000000000,プロデューサー,もちろん大丈夫だ、勢いに乗ってやってしまおう,"Of course, you really are on a roll today."
 2002007020320,灯織,"ありがとうございます……
 まずは今日のイベント、頑張ります！","Thank you very much...
-But first, I will make today's event a success."
+But first, I'll make today's event a success."
 info,produce_events/200200702.json,
 译者,,

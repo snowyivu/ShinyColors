@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おはよう──
+ん、髪切った？","Morning──
+Hm? Did you cut your hair?"
+1021001001410010,円香,……昨日と一緒ですが,…It's still the same as yesterday's.
+0000000000000,プロデューサー,あれ、違ったか,Huh? Was I wrong...?
+0000000000000,プロデューサー,（なんとなくいつもと違う気がするんだけど……）,(Somehow it feels like she isn't the same as usual...)
+select,,えーと、それじゃ……,"Well, let's see…"
+select,,メイクを変えたとか……,"You changed
+your makeup…"
+select,,シャンプーを変えた？,"Did you change 
+your shampoo?"
+1021001001410030,円香,"……さっきからなんですか？
+些細な変化にも気付けちゃうアピール？","...What's up with you?
+An appeal of just noticing the smallest of changes?"
+1021001001410040,円香,色気付いた中学生みたい……ふふっ,You look like a grown-up middle schooler… Fufu.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1021001001410050,円香,じろじろ見ないでください,Please stop staring at me.
+1021001001410060,円香,普通に考えて失礼な行動はやめてもらえますか,Could you stop with your rude behavior at least?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1021001001410070,円香,え、こわ……,Huh? Gross…
+1021001001410080,円香,近づかないでください……,Please don't get any closer…
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102100100141.json,
+译者,,
