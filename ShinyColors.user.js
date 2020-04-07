@@ -745,10 +745,10 @@
 	      if (item && item.name) {
 	        const _name = trimWrap(item.name);
 
-	        const _zh = trimWrap(item.zh);
+	        const _en = trimWrap(item.en);
 
-	        if (_name && (_zh || full)) {
-	          phraseMap.set(_name, tagText(_zh));
+	        if (_name && (_en || full)) {
+	          phraseMap.set(_name, tagText(_en));
 	        }
 	      }
 	    });
@@ -1390,10 +1390,10 @@
 	      if (item && item.ja) {
 	        const _ja = trimWrap(item.ja);
 
-	        const _zh = trimWrap(item.zh);
+	        const _en = trimWrap(item.en);
 
-	        if (_ja && _zh && _ja !== _zh) {
-	          commStoryMap.set(_ja, _zh);
+	        if (_ja && _en && _ja !== _en) {
+	          commStoryMap.set(_ja, _en);
 	        }
 	      }
 	    });
@@ -2393,7 +2393,7 @@
 	  }
 	};
 
-	let win = unsafeWindow || window;
+	let win = window.unsafeWindow || window;
 
 	win.printUnknowItems = () => log(unknownItems.join('\n'));
 
@@ -10108,7 +10108,7 @@
 	let waitCount = 0;
 
 	const start = async () => {
-	  if ((unsafeWindow && unsafeWindow.ezg || window.ezg) && waitCount < 300) {
+	  if ((window.unsafeWindow && window.unsafeWindow.ezg || window.ezg) && waitCount < 300) {
 	    await sleep(100);
 	    waitCount++;
 	    if (waitCount % 10 === 0) log(`Waiting: ${waitCount / 10}s`);
@@ -10119,7 +10119,7 @@
 	};
 
 	if (window.unsafeWindow) {
-	  unsafeWindow.addEventListener('load', start);
+	  window.unsafeWindow.addEventListener('load', start);
 	} else {
 	  window.addEventListener('load', start);
 	}
