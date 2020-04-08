@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.9.99
+// @version      0.9.991
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -481,7 +481,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.9.99";
+	var version = "0.9.991";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -829,7 +829,7 @@
 	    return module.default && module.default.get && module.default.post && module.default.put && module.default.patch;
 	  });
 	  md.default = Object.assign({}, md.default);
-	  return md;
+	  return md.default;
 	};
 
 	const getPhraseMd = async () => {
