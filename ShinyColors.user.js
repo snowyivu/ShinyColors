@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.9.991
+// @version      0.9.992
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -19,7 +19,7 @@
 	'use strict';
 
 	const ENVIRONMENT = "";
-	    const DATA_URL = 'http://localhost:15944/';
+	    const DATA_URL = 'https://snowyivu.github.io/ShinyColors';
 	    const DEV = false;
 	    const SHOW_UPDATE_TEXT = false;
 	    const COLLECT_CARD_RATE = false;
@@ -481,7 +481,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.9.991";
+	var version = "0.9.992";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
