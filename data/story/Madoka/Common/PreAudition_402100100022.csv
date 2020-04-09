@@ -1,0 +1,18 @@
+id,name,text,trans
+4021001000220010,円香,"審査員は、具体的に
+どんな部分を見ているんですか",What are the judges generally looking for?
+0000000000000,プロデューサー,（なんて答えようか……？）,(What should I say...?)
+select,,視線や指先,Your gaze and fingers
+select,,オーラ,Your aura
+select,,センス,Your taste
+4021001000220020,円香,"ふうん……わかりました
+意識してみます",Hm... Got it. I'll try to be aware of it.
+0000000000000,プロデューサー,（よし！　役立ててもらえるといいな）,(Alright! It'd be nice if it becomes useful)
+4021001000220030,円香,"抽象的な感覚の代表みたいな答えですね
+……ま、言葉にできない部分を見ているということですか？",That's pretty abstract. ...So they are looking for something you can't put into words?
+0000000000000,プロデューサー,（なんとなく伝わったかな……？）,(I think she got it...?)
+4021001000220040,円香,"だからそれを噛み砕いてもらいたいんですが
+……もういいです",I wanted you to explain it. ...Forget it.
+0000000000000,プロデューサー,（うまく伝えられなかった……）,(It didn't get across well...)
+info,produce_communication_cheers/402100100022.json,
+译者,,

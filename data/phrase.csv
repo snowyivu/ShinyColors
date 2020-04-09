@@ -660,8 +660,8 @@ option.twitterProfileDescription,設定したイラストをTwitterでシェア�
 option.twitterDeAuthorizeDialog.title,連携解除,Cancel Integration
 option.twitterDeAuthorizeDialog.message,Twitter連携を解除しました,Twitter Integration has been cancelled
 idol,アイドル,Idol
-supportIdolDetail.fromGashaNotice,最大まで特訓とトレーニングを行なった状態を表示しています。,This shows the stats when the card is fully evolved and at maximum level.
-idolDetail.fromGashaNotice,最大特訓時の状態を表示しています。,Displaying abilities at the highest evolution.
+supportIdolDetail.fromGashaNotice,最大まで特訓とトレーニングを行なった状態を表示しています。,Displaying stats when the card is maxed.
+idolDetail.fromGashaNotice,最大特訓時の状態を表示しています。,Displaying maximum potential abilities.
 idolDetail.headerTitle.produce,プロデュースアイドル詳細,Produce Idol Details
 idolDetail.headerTitle.support,サポートアイドル詳細,Support Idol Details
 idolDetail.headerTitle.fes,フェスアイドル詳細,Fes Idol Details

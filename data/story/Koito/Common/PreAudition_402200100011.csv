@@ -1,0 +1,23 @@
+id,name,text,trans
+4022001000110010,小糸,"ぴゃ……！？
+ぷ、プロデューサーさん……！！！","Pyah...?!
+P-Producer-san...!!!"
+0000000000000,プロデューサー,（ガチガチに緊張してるな……）,(She's worried stiff...)
+select,,頑張ろうな！,Let's do our best!
+select,,大丈夫だ！,It's alright!
+select,,無理しなくていい,"Don't overwork
+yourself."
+4022001000110020,小糸,"あ……え、えっと、はい……！
+が、頑張ります……！","Ah... u-um, yes...!
+I-I'll do my best...!"
+0000000000000,プロデューサー,（よし、気合が入ったみたいだ……！）,"(Alright, it looks like I motivated her...!)"
+4022001000110030,小糸,"あ……え、えへ……
+そ、そうですかね……","Ah... e-ehe...
+I-I'm not sure..."
+0000000000000,プロデューサー,（少しは緊張が解けたらいいけど……）,(I wish I could've eased her worries a bit...)
+4022001000110040,小糸,"え……あ……
+そ、そう、なんですかね……？","Eh... ah...
+a-are you sure...?"
+0000000000000,プロデューサー,（……しまった、困惑させてしまった……）,"(...Shoot, I ended up confusing her...)"
+info,produce_communication_cheers/402200100011.json,
+译者,,

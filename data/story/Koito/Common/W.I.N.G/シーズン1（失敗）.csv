@@ -1,0 +1,26 @@
+id,name,text,trans
+7902001020010,社長,結果は聞いた\n……ここまでだったようだな,"I heard the results.
+...It looks like this is the end."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...Yes. We didn't reach the target.
+7901001020010,はづき,『W.I.N.G.』はあらゆるアイドルが\n憧れるステージですからね,W.I.N.G. is a stage that all idols dream of.
+7901001020020,はづき,道はとっても険しかった、\nということなのでしょう……,It seems that the path there was too steep...
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I apologize for not producing results...
+7902001020020,社長,……私たちに謝っている場合じゃない\n彼女が、お前を待っているだろう？,"...This is not the time to apologize to us.
+The girl is waiting for you, isn't she?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
+0000000000000,プロデューサー,……行ってきます,...I'm off.
+0000000000000,プロデューサー,──小糸、ちょっといいか,"-Koito, do you have a minute?"
+7022001020010,小糸,ぴゃ……！？\nな、なんでしょう……！,Pyah...?! Wh-what is it...?!
+0000000000000,プロデューサー,一次審査なんだが……突破できなかった,It's about the first round... you weren't able to pass.
+0000000000000,プロデューサー,すまない\nプロデューサーとして、何もしてやれなかった,I'm sorry. I wasn't able to do anything as your producer.
+7022001020020,小糸,……あ……えっと\nそ、そんなことないですよ……！,"...Ah...um.
+Th-that's not true...!"
+0000000000000,プロデューサー,え……？,Eh...?
+7022001020030,小糸,いつも、プロデューサーさんは\n気にかけてくれてるのに……,Even though you were always concerned for me...
+7022001020040,小糸,なのに……わたしは……\nあの、ごめんなさい……,"Even though... I...
+Um, I'm sorry..."
+0000000000000,プロデューサー,謝らなくていいんだよ\n小糸は、何も悪くないんだから,You don't need to apologize. You didn't do anything wrong.
+7022001020050,小糸,違うんです……あの……\n……ごめんなさい……,"You're wrong... um...
+...I'm sorry..."
+info,produce_events/702200102.json,
+译者,,

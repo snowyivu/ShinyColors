@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──小糸、
+これ小糸の好きなお菓子……","-Koito.
+I have a candy you like here..."
+1022001000710010,小糸,"え……！
+お、お菓子ですか……！","Eh...!
+C-candy...?!"
+0000000000000,プロデューサー,"……って、あれ
+すまん、空だったみたいだ……","...Huh? Sorry, looks like that was a lie..."
+1022001000710020,小糸,"な…！？　だ、騙したんですか……
+も、もう！　ぷ、プロデューサーさん……！","Hey...?! W-was that a trick...
+J-jeez! P-Producer-san...!"
+select,,"すまん
+こんなはずじゃ……","Sorry, I didn't
+mean to..."
+select,,"また今度
+持ってくるな","I'll bring some
+next time."
+select,,"はは、
+騙されたな","Haha, I tricked you."
+1022001000710030,小糸,"べ、別に……
+だ、騙したわけじゃないならいいんです！","Wh-whatever...
+It's okay as long as you didn't mean to trick me!"
+1022001000710040,小糸,"……仕方ないので、プロデューサーさんには
+特別に飴、あげますね……！","...It can't be helped, so you'll give me some special candy...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000710050,小糸,ほ、ほんとですか……！,R-really...?!
+1022001000710060,小糸,"あ、い、いえ……！
+二度も騙されませんよ……！","Ah, n-no...!
+You won't let you fool me twice...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000710070,小糸,"う……！　べ、別に！
+ひ、ひっかかってあげたんですよ……！","Ah...! Wh-whatever!
+I-I fell for it...!"
+1022001000710080,小糸,"も、もうプロデューサーさんの
+お菓子は信用しませんから……！",I-I don't trust your candy anymore...!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100071.json,
+译者,,

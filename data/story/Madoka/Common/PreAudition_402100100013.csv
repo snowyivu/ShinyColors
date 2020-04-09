@@ -1,0 +1,17 @@
+id,name,text,trans
+4021001000130010,円香,"そろそろ出番のようなので
+いってきます","The performance is starting soon, so I'm going."
+0000000000000,プロデューサー,（なんて声をかけよう……）,(What should I say...)
+select,,いってらっしゃい,Good luck
+select,,いつも通りで！,Same as usual!
+select,,見ているぞ！,I'm watching you!
+4021001000130020,円香,はい,Yeah
+0000000000000,プロデューサー,（頑張れよ……！）,(Do your best...!)
+4021001000130030,円香,"……まあ、そのつもりですが
+当たり前のことを言う必要ってあります？","...Well, do you need to say something so obvious?"
+0000000000000,プロデューサー,（確かに、いつも通りの反応だ……）,(That certainly is the same response as usual...)
+4021001000130040,円香,"はい、床でも見ていてください
+あなたの視線はうっとうしいので","Yeah, please watch from the floor. Your gaze is irritating."
+0000000000000,プロデューサー,（目をつぶっているべきか……）,(Should I shut my eyes...?)
+info,produce_communication_cheers/402100100013.json,
+译者,,

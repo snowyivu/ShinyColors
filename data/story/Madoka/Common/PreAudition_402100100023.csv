@@ -1,0 +1,17 @@
+id,name,text,trans
+4021001000230010,円香,……？　ねえ、ちょっと,"...? Hey, come here for a minute."
+0000000000000,プロデューサー,（急に声をかけられた……）,(She suddenly called out for me...)
+select,,どうした？,What's wrong?
+select,,な、なんだ？,W-what?
+select,,ん？,Hm?
+4021001000230020,円香,"真剣な顔は面白いけど、もう少しリラックスしたらどうですか
+ステージに上がるのはあなたじゃないでしょ","Your serious face is funny, but can you relax a bit? You're not the one going on stage."
+0000000000000,プロデューサー,（円香にフォローされてしまった……）,(Madoka backed me up...)
+4021001000230030,円香,"さっきから拳を握りしめているのは、何？
+まさか緊張とか言いませんよね",Why have you been clenching your fist? Don't tell me you're nervous.
+0000000000000,プロデューサー,（し、心配されてしまった……）,(I-I made her worry...)
+4021001000230040,円香,"これ、あなたの分です
+さっきスタッフさんが配っていた水",This is yours. The staff gave water earlier.
+0000000000000,プロデューサー,（しまった、気付かなかった……）,"(Oh no, I hadn't noticed...)"
+info,produce_communication_cheers/402100100023.json,
+译者,,

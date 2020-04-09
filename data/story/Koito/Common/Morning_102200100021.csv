@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸！
+おはよう……！",Koito! Good morning...!
+1022001000210010,小糸,"ぴぇ！？
+あ、え、えっと……おはようございます……","Pyeh?! Ah, um, uh... good morning..."
+0000000000000,プロデューサー,"レッスン、頑張ってるみたいだな
+トレーナーも褒めてたよ",It sound like you've been working hard at your lessons. Your trainer spoke well of you.
+1022001000210020,小糸,え……！,Eh...!
+select,,"真面目で
+努力家だって","They said you were
+serious and hard
+working."
+select,,"今度練習、
+見に行こうかな","Maybe I'll go watch
+you practice next
+time."
+select,,"みんなにも
+見習って欲しいって","They said they want
+everyone to follow
+your example."
+1022001000210030,小糸,"え、えへ……
+そ、そんな……そんなことないですけど……","E-ehe...
+Th-that's... that's not true, but..."
+1022001000210040,小糸,こ、このくらい普通です……！,Th-this much is normal...!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000210050,小糸,"え……！
+ぷ、プロデューサーさん、来るんですか……！","Eh...!
+Y-you're going to come with...?!"
+1022001000210060,小糸,"あ、い、いえ……！
+べべべ別に緊張なんて、しません……！","Ah, n-no...!
+I-I-I-I'm not that nervous...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000210070,小糸,あ……そ、そうですか……,Ah... d-did they...
+1022001000210080,小糸,"で、でも、
+みんなはちゃんと、できてますから……","B-but, everyone's doing well, so..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100021.json,
+译者,,

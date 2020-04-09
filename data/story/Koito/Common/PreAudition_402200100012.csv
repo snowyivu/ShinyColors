@@ -1,0 +1,24 @@
+id,name,text,trans
+4022001000120010,小糸,"どどどどうしましょうプロデューサーさん……！
+ははは始まっちゃいます……！","Wh-wh-wh-what should I do Producer-san...!
+I-i-i-it's going to start...!"
+0000000000000,プロデューサー,（……緊張で落ち着かないみたいだ）,(...It looks like she can't calm down.)
+select,,深呼吸しよう,Take deep breaths.
+select,,お菓子食べるか？,"Want to eat some
+candy?"
+select,,とりあえず落ち着け,"First of all,
+calm down."
+4022001000120020,小糸,"は、はい……！
+すーはー……よ、よし……！","O-okay...!
+Hu, hah... a-alright...!"
+0000000000000,プロデューサー,（よし、切り替えられたみたいだな）,"(Alright, it looks like she was able to switch over.)"
+4022001000120030,小糸,"えっ、お、お菓子……！
+いいんですか……！","Eh, c-candy...!
+Can I...?!"
+0000000000000,プロデューサー,（とりあえず、少しは落ち着いたか……？）,"(She calmed down, for now...?)"
+4022001000120040,小糸,"あ、えっと……そ、そうですよね……！
+おおお落ち着かなきゃ……落ち着かなきゃ……！","Ah, um... y-you're right...!
+I-I-I-I have to calm down... have to calm down...!"
+0000000000000,プロデューサー,（余計に落ち着けなくなったみたいだ……）,(It looks like she's way too uncomposed...)
+info,produce_communication_cheers/402200100012.json,
+译者,,
