@@ -1,0 +1,23 @@
+id,name,text,trans
+4022001000230010,小糸,"ここまで頑張って来ましたから……
+で、できます……よね……！","I've worked hard up until this point, so...
+I can do it... right...!"
+0000000000000,プロデューサー,（小糸、自信がついてきたみたいだな……！）,(It looks like Koito's gotten more self-confident...!)
+select,,ああ、楽しんでこい！,"Yeah, have fun!"
+select,,ああ、できるよ！,"Yeah, you can do it!"
+select,,期待してるぞ！,"That's what I'm
+expecting!"
+4022001000230020,小糸,"……そ、そうですね！
+あとは、楽しむだけですね……！","...Y-yeah!
+All there's left to do is enjoy it...!"
+0000000000000,プロデューサー,（小糸、成長したな……！）,(Koito grew up...!)
+4022001000230030,小糸,"……はい！
+最後まで、頑張ってきます……！","...Yes!
+I'll do my best until the end...!"
+0000000000000,プロデューサー,（努力はきっと報われるはずだ……！）,(I'm sure her efforts will be rewarded...!)
+4022001000230040,小糸,"え、えへ……
+ぜ、絶対合格しますよ……！","E-ehe...
+I-I'm definitely going to pass...!"
+0000000000000,プロデューサー,（少し負担をかけてしまったかな……）,(I wonder if I ended up putting a bit of a burden on her...)
+info,produce_communication_cheers/402200100023.json,
+译者,,

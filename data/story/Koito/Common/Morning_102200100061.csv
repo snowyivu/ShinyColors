@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,あれ、小糸 何してるんだ？,"Huh, what are you doing Koito?"
+1022001000610010,小糸,"あ……
+ぷ、プロデューサーさん……！","Ah...
+P-Producer-san...!"
+1022001000610020,小糸,"こ、今度小テストがあるので、
+よ、予習を……","I-I have a quiz soon, so I'm p-preparing..."
+0000000000000,プロデューサー,"そうか、小糸は
+アイドルも勉強も頑張ってるんだな","I see. You're working hard at both being and idol and studying, aren't you."
+select,,"両立
+できてるな",Are you balancing them?
+select,,"大変
+じゃないか？",Isn't that hard to do?
+select,,"たまには
+休んだ方がいい",You should take a break once in a while.
+1022001000610030,小糸,"え、えへ……
+そうですかね……","E-ehe...
+I wonder..."
+1022001000610040,小糸,"じゃ、じゃなかった……！
+当たり前です……！","N-not...!
+Of course I am...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000610050,小糸,"い、いえ……
+このくらい全然！","N-no...
+this much is nothing!"
+1022001000610060,小糸,全然よゆーですよ！,It's nothing at all for me!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000610070,小糸,あ……はい……,Ah... okay...
+1022001000610080,小糸,"べ、別に無理してるわけじゃ
+ないですから……",I-I don't mean that I'm pushing myself too hard...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100061.json,
+译者,,

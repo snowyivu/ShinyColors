@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸は確か成績優秀
+なんだよな",You certainly get good grades in school.
+1022001000310010,小糸,"え……！
+ま、まあ……それなりに……！","Eh...!
+W-well... they're decent...!"
+0000000000000,プロデューサー,"新入生総代だった
+らしいじゃないか","You seem like you could've been the freshman representative, right?"
+1022001000310020,小糸,"は、はい……
+い、一応……","Y-yes...
+M-more or less..."
+select,,すごいじゃないか,That's amazing.
+select,,"勉強が
+得意なんだな","It seems like
+studying is your
+strong point."
+select,,頑張ったんだな,You must've worked hard.
+1022001000310030,小糸,"え、えへ……あ、いえ
+べ、別にこのくらい普通ですよ……！","E-ehe... ah, no. Th-this much isn't anything out of the ordinary...!"
+1022001000310040,小糸,"入試も、
+か、簡単でしたから……！","The entrance exam w-was easy, too...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000310050,小糸,"え、ええと……
+そ、そうですね……","Uh, ummm... i-it is..."
+1022001000310060,小糸,す、少しは……！,J-just a little...!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000310070,小糸,"あ……
+い、いえ、全然……","Ah...
+n-no, not at all..."
+1022001000310080,小糸,"ほ、本当に普通です……
+このくらい……","Th-this much...
+really is normal..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100031.json,
+译者,,

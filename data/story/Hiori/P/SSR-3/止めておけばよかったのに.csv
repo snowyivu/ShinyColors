@@ -2,32 +2,32 @@ id,name,text,trans
 2002007020010,灯織,……はぁ……止まないな……,Haa... it's not stopping...
 2002007020020,灯織,"プロデューサー
 明日のイベント、大丈夫でしょうか……？","Producer,
-I wonder if tomorrow will be alright...?"
+I wonder if tomorrow will turn out okay...?"
 0000000000000,プロデューサー,"うーん……
 せめて勢いが弱くならないと、難しいかもな……","Yeah... If it doesn't slow down any,
-it might be bad for tomorrow..."
+it might be bad tomorrow..."
 2002007020030,灯織,……せっかくのイベントなのに……,It just had to be when there’s an event scheduled...
 0000000000000,プロデューサー,予報では五分五分みたいだぞ,The forecast said there’s a 50% chance of rain tomorrow.
 2002007020040,灯織,でも、止みそうにないですよね,But it doesn't look like it'll be stopping anytime soon.
 2002007020050,灯織,"……前に私が嘘をつこうとしたから
 バチが当たったんでしょうか……","I tried to lie about rain before,
 so is this my karma..."
-0000000000000,プロデューサー,雨が降るって言ってた、あれのことか？,When you said that it's going to rain?
+0000000000000,プロデューサー,雨が降るって言ってた、あれのことか？,When you said that it was going to rain?
 0000000000000,プロデューサー,"さすがに偶然だと思うぞ
 それに、そんなことくらいでバチなんて当たらないだろう","I think it's just a coincidence, Also, I don't think your karma is that bad."
 2002007020060,灯織,でもイベントの前日に雨が降るなんて……,"But, this rain a day before the events starts..."
 0000000000000,プロデューサー,気にするなって,Don't worry about it.
 2002007020070,灯織,……,......
-0000000000000,プロデューサー,（よし……）,(Okay.)
+0000000000000,プロデューサー,（よし……）,(Here we go.)
 0000000000000,プロデューサー,明日は晴れるぞー！,IT'S GOING TO BE SUNNY TOMORROW!
 2002007020080,灯織,"えっ！　プ、プロデューサー？
 どうしたんですか、急に大声を出して……","Eh! P-Producer?
 What's wrong? Why are you suddenly shouting like that?"
-0000000000000,プロデューサー,こうすれば、想いが届くかと思ってな,"Maybe if I shout it out loud, it'll listen to meー"
+0000000000000,プロデューサー,こうすれば、想いが届くかと思ってな,"Maybe if I shout it out loud, the rain'll listen to meー"
 0000000000000,プロデューサー,雨なんか、止むぞー！,"Stop, rain!"
 2002007020090,灯織,そ、それで止むんですか……？,W-Will the rain stop with just that?
 0000000000000,プロデューサー,"気持ちを込めれば大丈夫だ！
-雨なんかー！　止むぞー！","It'll be fine as long as we put our feelings into it! 
+雨なんかー！　止むぞー！","It'll be fine as long as we put all our feelings into it! 
 Don't let it rain! Make it stop!"
 0000000000000,プロデューサー,ほら、灯織も一緒に,"C'mon Hiori, you too."
 2002007020100,灯織,"え？
@@ -43,13 +43,13 @@ IT'S GONNA BE SUNNY!"
 0000000000000,プロデューサー,"ふぅ……
 これだけ言えば、明日は晴れるだろう","Phew... If we've yelled this much, it should be sunny by now right?"
 2002007020140,灯織,はぁ……はぁ……これで、ですか？,Haa...haa.. Is it working?
-0000000000000,プロデューサー,ああ、きっと気持ちは届くよ,"Yeah, I'm sure our feelings are felt out there."
+0000000000000,プロデューサー,ああ、きっと気持ちは届くよ,"Yeah, I'm sure the weather has heard our feelings by now."
 2002007020150,灯織,"……そうですね、私も信じてみます
 なんだか、気持ちも晴れましたし","Is that so? I'll try to believe that. 
 Somehow, I do feel a lot better."
 2002007020160,灯織,"嘘……本当に、晴れた……！
 昨日あんなに降ってたのに……","No way... It's actually clearing up!
-Even though it was pouring like that yesterday..."
+Even though it was pouring like that since yesterday..."
 select,,言霊ってやつだな,Are you an esper?
 select,,灯織は予言者だ,"Are you a prophet, Hiori?"
 select,,"ここまで晴れると
@@ -57,7 +57,7 @@ select,,"ここまで晴れると
 0000000000000,プロデューサー,"言葉にはそれ自体に力があるんだ
 だからきっと灯織の想いが届いたんだろう","Your words had a lot of power in them.
 I believe that your feelings became real."
-2002007020170,灯織,そうなんでしょうか……？,Is it really like that?
+2002007020170,灯織,そうなんでしょうか……？,Is that really the case?
 0000000000000,プロデューサー,"ああ、願いの力が強かったから
 現実になったんだよ","Yeah, if you strongly wish for it something,
 it can turn into reality."
@@ -89,7 +89,7 @@ Ah! Then..."
 2002007020310,灯織,"どうしてもできない箇所があるんですが、
 今日ならできる気がするんです……！","I've hit a slump recently, 
 but after today's events I think I can make it through!"
-0000000000000,プロデューサー,もちろん大丈夫だ、勢いに乗ってやってしまおう,"Of course, you're on a roll today."
+0000000000000,プロデューサー,もちろん大丈夫だ、勢いに乗ってやってしまおう,Of course; you're on a roll today.
 2002007020320,灯織,"ありがとうございます……
 まずは今日のイベント、頑張ります！","Thank you very much...
 But first, I'll have to make today's event a success."

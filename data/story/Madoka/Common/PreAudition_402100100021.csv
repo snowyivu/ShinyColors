@@ -1,0 +1,14 @@
+id,name,text,trans
+4021001000210010,円香,…………,......
+0000000000000,プロデューサー,（なんとなく調子が悪そうだな……）,(Her condition seem poor...)
+select,,無理できるか,Can you do it?
+select,,無理するな,Don't push yourself
+select,,大丈夫か,Are you okay?
+4021001000210020,円香,……さあ？　やってみないとわかりません,...Who knows? I won't know until I try.
+0000000000000,プロデューサー,（期待しているぞ……！）,(I have high expectations...!)
+4021001000210030,円香,……そうですか。では、そうします,...Really? Then I will.
+0000000000000,プロデューサー,（違うことを言った方がよかったか……）,(I should have said something else...)
+4021001000210040,円香,……なんのことですか？　別にいつも通りです,...What are you talking about? I'm pretty much the same.
+0000000000000,プロデューサー,（はぐらかされてしまった……）,(She dodged it...)
+info,produce_communication_cheers/402100100021.json,
+译者,,

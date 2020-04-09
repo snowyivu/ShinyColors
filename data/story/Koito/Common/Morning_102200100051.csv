@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,おはよう、小糸！,"Good morning, Koito!"
+1022001000510010,小糸,"ぴぇ！？
+おおおおはようございます……！","Pyeh?!
+G-g-g-good morning...!"
+0000000000000,プロデューサー,"はは、少しは慣れてきたかな
+……最近調子はどうだ？","Haha, maybe you're getting a little more used to this?
+...How have you been lately?"
+1022001000510020,小糸,ちょ、調子、ですか……,"H-how I've been, huh..."
+select,,"レッスンは
+楽しいか？","Are your lessons
+fun?"
+select,,"学校は
+楽しいか？",Is school fun?
+select,,"昨日はよく
+眠れたか？","Were you able to
+sleep well
+yesterday?"
+1022001000510030,小糸,は、はい……！　えっと……！,Y-yes...! Um...!
+1022001000510040,小糸,"す、すごく……！
+楽しいです、が、頑張ってますよ……！","V-very...!
+They're fun, and I-I'm doing my best...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000510050,小糸,"あ、えっと……
+は、はい……！","Ah, um...
+y-yes...!"
+1022001000510060,小糸,"こ、この間、透ちゃんと円香ちゃんと雛菜ちゃんと
+一緒にお昼食べたんですよ……！","Th-the other day, I ate lunch with Toru-chan, Madoka-chan, and Hinana-chan...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000510070,小糸,あー……え、えっと……,Ahh... u-um...
+1022001000510080,小糸,そ、そうですね……はい……,I-I did... yes...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100051.json,
+译者,,

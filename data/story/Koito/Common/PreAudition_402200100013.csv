@@ -1,0 +1,25 @@
+id,name,text,trans
+4022001000130010,小糸,"ま、周りの子たち……
+み、みんなすごそうですね……","E-everyone around me...
+Th-they all look like they're amazing, don't they..."
+0000000000000,プロデューサー,（周りに圧倒されてしまっているな……）,(She's getting intimidated by those around her...)
+select,,練習量なら小糸が一番だ,"If we're talking
+about practice,
+you're in first
+place."
+select,,きっとそう見えるだけだ,I'm they only seem like it.
+select,,小糸が一番すごいだろ,Aren't you the most amazing?
+4022001000130020,小糸,"……そ、そうですよね……！
+わたしだって、上手にできるはず……！","...T-that's right...!
+I should be able to do good...!"
+0000000000000,プロデューサー,（よし、少し自信を持てたみたいだ！）,"(Alright, it looks like she gained some self-confidence!)"
+4022001000130030,小糸,"そ、そうですよね……！？
+周りの子から見たらわたしも上手そうに見えるはず……","R-right...?!
+I must look like I'm amazing to them, too..."
+0000000000000,プロデューサー,（なんとか持ち直したようだ……）,(It seems like she was able to recover somewhat...)
+4022001000130040,小糸,"え……あ……どうでしょう……
+そんなこと、ないと思いますけど……","Eh... ah... I wonder...
+I don't think that's true..."
+0000000000000,プロデューサー,（しまった……余計落ち込ませてしまった……）,(Shoot... I ended up making her feel way too down...)
+info,produce_communication_cheers/402200100013.json,
+译者,,

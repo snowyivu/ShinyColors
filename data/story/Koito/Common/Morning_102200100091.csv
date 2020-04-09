@@ -1,0 +1,34 @@
+id,name,text,trans
+1022001000910010,小糸,"ま、円香ちゃんが
+どういう子なのか、ですか……","Y-you want to know what kind of girl Madoka-chan is, huh..."
+0000000000000,プロデューサー,"仲がいい小糸には
+どんなふうなのかと思ってさ","I was wondering what you think of her, as a close friend of hers."
+1022001000910020,小糸,"そ、そうですね……！
+な、仲のいいわたしとして……ですよね……","L-let's see...!
+As a close friends of hers... right..."
+0000000000000,プロデューサー,"ああ、
+小糸から見たら、例えば……","Yeah. You see her as someone who's, for example..."
+select,,優しいとか,Kind?
+select,,厳しいとか,Serious?
+select,,怖いとか,Scary?
+1022001000910030,小糸,"そ、そうなんです……
+いつもお菓子くれて……","Sh-she is...
+She always gives me candy..."
+1022001000910040,小糸,"あ、別にお菓子くれるから
+優しいって言ってるわけじゃ……！","Ah, I don't really mean to say that she's nice just because she gives me candy...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000910050,小糸,"あ……そうですね……
+そういうところも……ありますけど","Ah... right...
+She might have that kind of side to her... too."
+1022001000910060,小糸,"それも、円香ちゃんの
+優しいところのひとつです……たぶん",That's another way she's kind... probably.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000910070,小糸,"は、はい……え、いえ！
+そ、そんなことないです……！","Y-yes... eh, no!
+That's not true...!"
+1022001000910080,小糸,"怖くなんてないですよ……！
+仲よしですから……！","She's not scary at all...!
+We're friends...!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100091.json,
+译者,,

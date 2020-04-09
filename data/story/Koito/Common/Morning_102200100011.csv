@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,小糸ー？,Koito-?
+1022001000110010,小糸,"ぴゃ！？
+ななななんでしょう……",Pyah?! Wh-wh-wh-what is it...
+0000000000000,プロデューサー,"はは、そんなに怖がらなくても
+大丈夫なんだけどな……","Haha, you don't have to be that scared..."
+0000000000000,プロデューサー,"あ、そうだ
+ポケットに確か──……","Ah, that's right. If I remember correctly, in my pocket there's..."
+select,,"──飴、
+食べないか？",-Candy. Want some?
+select,,"──チョコ、
+少し溶けてるけど","-Chocolate. Though
+it's a bit melted."
+select,,"……あれ、
+何もなかった","...Huh, there's
+nothing."
+1022001000110020,小糸,"え、あ……
+い、いいんですか……！","Eh, ah...
+I-is that okay...!"
+1022001000110030,小糸,"え、えへ……ありがとうございます
+……お、おいしい……！","E-ehe... thank you.
+...I-it's delicious...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000110040,小糸,"あ……えっと
+あ、ありがとうございます……","Ah... um.
+Th-thank you..."
+1022001000110050,小糸,い、いただきます……！,Th-thanks for the food...!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000,プロデューサー,"ごめん、何かお菓子が入ってたと
+思ったんだけど……","Sorry, I thought I had some kind of candy in there..."
+1022001000110060,小糸,"べ、べつにお菓子……
+い、いりません……！",I-I don't really... n-need any candy...!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100011.json,
+译者,,

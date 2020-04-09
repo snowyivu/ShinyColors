@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸！
+おはよう！","Koito!
+Good morning!"
+1022001001510010,小糸,"は、はい！
+おはようございます、プロデューサーさん……！","Y-yes!
+Good morning, Producer-san...!"
+0000000000000,プロデューサー,"…………！
+小糸も随分慣れてくれたな……","...!
+You're getting pretty used to this too..."
+1022001001510020,小糸,"な、なんですか……も、もしかして
+わたしと挨拶できて嬉しいんですか……！",Wh-what... a-are you happy that we can greet each other...?!
+select,,"すごく
+嬉しいよ",I'm very happy.
+select,,当たり前だろ,Isn't it obvious?
+select,,"はは、
+どうかな","Haha, maybe."
+1022001001510030,小糸,"な……なんですか
+ほ、ほんとにもう……！","Wh... what?
+R-really, come on...!"
+1022001001510040,小糸,"わ、わたしがいないと
+だめだめプロデューサーさんですね……！",Y-you would be a entirely useless Producer-san without me...!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001001510050,小糸,そ、そうですか……！,R-really...!
+1022001001510060,小糸,"よ、よかったですね……！
+明日も明後日も挨拶できます、よ……！","Th-thank goodness...! I can greet you tomorrow, and the day after that...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001001510070,小糸,"え……！
+ち、違うんですか……！","Eh...!
+W-was I wrong...?!"
+1022001001510080,小糸,"そ、そうですか……！
+べ、別にいいですけど……！","S-so that's how it is...!
+Th-that's fine with me though...!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100151.json,
+译者,,

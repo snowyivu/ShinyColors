@@ -1,0 +1,23 @@
+id,name,text,trans
+4022001000210010,小糸,"ぷ、プロデューサーさん、
+まさか、き、緊張してるんですかー……？","P-Producer-san, c-could it be that you're nervous...?"
+0000000000000,プロデューサー,（小糸、目が泳いでるな……）,(Koito is shifty-eyed...)
+select,,ああ、いい緊張感だ,"Yeah, it's a good
+nervousness."
+select,,小糸は大丈夫か？,Are you okay?
+select,,そういう小糸もな,"It looks like you
+are, too."
+4022001000210020,小糸,"……！
+わ、わたしも……！　わたしも一緒です！","...!
+M-me too...! I-I feel the same!"
+0000000000000,プロデューサー,（よし、少し元気が出たみたいだな……！）,"(Alright, it looks like she cheered up a bit...!)"
+4022001000210030,小糸,"わ、わたし……！
+わたしは……ちょ、ちょっとだけです……！","I-I...!
+I'm... j-just a little...!"
+0000000000000,プロデューサー,（なんとか、大丈夫そうかな……！）,"(Somehow, she sort of seems okay...!)"
+4022001000210040,小糸,"ぴぇ……！
+そそそそんなことないですよ……！","Pyeh...!
+N-n-n-no I'm not...!"
+0000000000000,プロデューサー,（図星だったか……）,"(Bull's-eye, huh...)"
+info,produce_communication_cheers/402200100021.json,
+译者,,

@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──そういえば、
+４人はいつから仲がいいんだ？","-Come to think of it, how long have the four of you been friends?"
+1022001000410010,小糸,"え、わたしたちですか……！
+えっと……","Eh, u-us...?!
+Um..."
+1022001000410020,小糸,"と、透ちゃんと円香ちゃんは幼稚園からで……
+ひ、雛菜ちゃんは小学校から、です……！","I-I've known Toru-chan and Madoka-chan since kindergarten...
+and H-Hinana-chan since middle school...!"
+0000000000000,プロデューサー,"そうか、じゃあもう10年以上の付き合いに
+なるんだな","I see, then you've already known each other for over ten years."
+select,,"本当に
+仲がいいんだな","You really are 
+good friends."
+select,,"幼馴染って
+いいよな","Childhood friends
+are great."
+select,,"これからも
+仲良くな","You should keep on
+being friends."
+1022001000410030,小糸,"は、はい……そうなんです
+あの……","Y-yes... we are.
+Um..."
+1022001000410040,小糸,"え、えへへ……
+そ、そう見えますかね……！","E-ehehe...
+I-I guess we do seem like it, don't we...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1022001000410050,小糸,"え……は、はい……！
+とってもいいですよ……！","Eh... y-yes...!
+They're really great...!"
+1022001000410060,小糸,す、すっごく、いいです……！,"R-really, really great...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1022001000410070,小糸,あ……そうですよね……,Ah... you're...
+1022001000410080,小糸,これからも、ずっと……,"From now on, forever..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/102200100041.json,
+译者,,
