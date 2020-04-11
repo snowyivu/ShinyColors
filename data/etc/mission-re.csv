@@ -198,3 +198,6 @@ $ukを$num以上にしよう,Get $1 to more than $2,exp
 「$uk」に$num回合格しよう,Pass「$1」$2 times,exp
 ファン数を累計$num万人以上獲得しよう,Gain over $10000 fans total,exp
 マニーショップで買い物をしよう,Buy one item from the Money Shop,text
+"累計$num,000ポイント達成","Earn $1,000 total points",exp
+"累計$num,$num,000ポイント達成","Earn $1,$2,000 total points",exp
+"最高スコア$num,$num達成","Earn a high score of $1,$2",exp
