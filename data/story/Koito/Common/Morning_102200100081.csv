@@ -1,17 +1,17 @@
 id,name,text,trans
-1022001000810010,小糸,と、透ちゃんがどんな子か、ですか……？,Y-you're wondering what kind of girl Toru-chan is...?
+1022001000810010,小糸,と、透ちゃんがどんな子か、ですか……？,Y-You're wondering what kind of girl Toru is...?
 0000000000000,プロデューサー,"ああ、小糸から見てどうかを
 聞いてみたいと思ってさ","Yeah, I was thinking of asking you what you think of her."
 1022001000810020,小糸,"そ、そうですね……
-う、うーん……","L-let me think...
-H-hmmm..."
+う、うーん……","L-Let me think...
+Hmmmm..."
 0000000000000,プロデューサー,例えば、そうだな……,"For example, let's see..."
 select,,かっこいいとか,She's cool?
 select,,不思議とか,She's mysterious?
 select,,よくわからないとか,You're not sure?
 1022001000810030,小糸,"そ、そうですね……！
-透ちゃんは、こう自然体なのに……","Y-yeah...!
-Toru-chan is naturally calm like that, but..."
+透ちゃんは、こう自然体なのに……","Y-Yeah...!
+Toru is naturally calm like that, but..."
 1022001000810040,小糸,"なんでも簡単にやっちゃって……
 すごく、すごいんです……！","She can do anything with no problem...
 She's really amazing...!"
@@ -21,7 +21,7 @@ She's really amazing...!"
 あるかもしれないですね……！",She might have a little mysterious side to her too...!
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1022001000810070,小糸,"そ、そんなわけ
-ないじゃないですか……！",Th-that's not what I mean...!
+ないじゃないですか……！",Th-That's not what I mean...!
 1022001000810080,小糸,"わたしたち、小さい頃から
 ずっと、一緒なんですから……！","We've always been together, ever since we were little...!"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)

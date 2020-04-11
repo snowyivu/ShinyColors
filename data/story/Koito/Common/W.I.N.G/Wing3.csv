@@ -1,19 +1,19 @@
 id,name,text,trans
-0000000000000,プロデューサー,──小糸\nまだやってたのか,"-Koito, you're still doing it?"
-1022001040010,小糸,ぴゃ！？\n……あ、プロデューサーさん……！,"Pyah?!
-...Ah, Producer-san...!"
+0000000000000,プロデューサー,──小糸\nまだやってたのか,"──Koito, you're still doing it?"
+1022001040010,小糸,ぴゃ！？\n……あ、プロデューサーさん……！,"Pyah!?
+...Ah, Producer...!"
 1022001040020,小糸,どうしたんですか……\nま、また何かありましたか……！？,"What's wrong...
-D-did something happen again...?!"
+D-Did something happen again...!?"
 0000000000000,プロデューサー,いや、ここの電気が点いてたから\n様子を見に来ただけだよ,"No, the light here was on, so I just came here to see you."
 1022001040030,小糸,あ……そうでしたか……,Ah... okay then...
 0000000000000,プロデューサー,車で送っていくからそろそろ上がらないか？\n遅くなると親御さんも心配するだろ,"I'll driving you home, so how about you finish up soon? Your parents will be worried once it gets late too."
 1022001040040,小糸,はっ、そうでした！\n……そういう、条件になったんでした,"Ah, you're right!
 ...Those were the conditions that were set."
 0000000000000,プロデューサー,条件っていうか……親御さんとの約束な\nアイドルと勉強と、ちゃんと両立していくって,By conditions... you mean our promise to your parents. We said you'll balance your idol work and studying well.
-1022001040050,小糸,──はい、そうでした,"-Yes, we did."
+1022001040050,小糸,──はい、そうでした,"──Yes, we did."
 1022001040060,小糸,……………………,...
 0000000000000,プロデューサー,小糸、疲れてないか？\n家まで眠ってても大丈夫だぞ,"Koito, aren't you tired? You can sleep until we get to your house."
-1022001040070,小糸,い、いえ！　わたしはよゆーですよ\n全然平気です！,N-no! This is no problem for me. I'm totally fine!
+1022001040070,小糸,い、いえ！　わたしはよゆーですよ\n全然平気です！,N-No! This is no problem for me. I'm totally fine!
 0000000000000,プロデューサー,はは、そうか\nそれならいいんだけど,"Haha, I see. That's good to hear."
 0000000000000,プロデューサー,小糸、すごく頑張ってるみたいだからさ,"But Koito, it looks like you're working very hard."
 1022001040080,小糸,……別に普通ですよ、このくらい\nわたしにしてみれば、朝飯前って感じです！,...This is nothing out of the ordinary. This is a piece of cake for me!
@@ -35,7 +35,7 @@ D-did something happen again...?!"
 1022001040170,小糸,一緒にいるはずなのに、\nひとりぼっちになるんじゃないかって,"We're supposed to be together, though I wonder if I'm ending up all alone."
 0000000000000,プロデューサー,…………うん,...Yeah.
 1022001040180,小糸,だから、わたし……\n全然よゆーなんです、プロデューサーさん,"So, I...
-This is no problem for me at all, Producer-san."
+This is no problem for me at all, Producer."
 1022001040190,小糸,そういうふうに、言ってないと……\n……………………,"I have to say it like that...
 ..."
 0000000000000,プロデューサー,……うん、そうか,"...Okay, I see."
@@ -53,13 +53,13 @@ select,,小糸はすごいよ,You're amazing.
 1022001040220,小糸,わたし、やればできるんですから！\n全部、よゆーなんですからね……！,"I can do it, after all! It's definitely no problem for me...!"
 0000000000000,プロデューサー,うん、わかってる,"Yeah, I understand."
 0000000000000,プロデューサー,ちゃんと、わかってるよ,I truly understand.
-1022001040230,小糸,……はい\nありがとうございます、プロデューサーさん,"...Okay. Thank you, Producer-san."
+1022001040230,小糸,……はい\nありがとうございます、プロデューサーさん,"...Okay. Thank you, Producer."
 0000000000000,プロデューサー,小糸の頑張ってるところ、知ってて\n応援して……,"Knowing about how hard your work, cheering for you..."
 0000000000000,プロデューサー,できることがあればなんでも\nサポートしたいと思ってる,I want to do anything I can do support you.
-1022001040240,小糸,プロデューサーさん……,Producer-san...
+1022001040240,小糸,プロデューサーさん……,Producer...
 0000000000000,プロデューサー,そのためにいるんだからさ\n何かさせてくれ,That's why I'm here. Let me do something for you.
-1022001040250,小糸,…………ま、全く、仕方ないですねー！\nプロデューサーさんは……！,"...J-jeez, how hopeless! Producer-san...!"
-1022001040260,小糸,わ、わたしがいないと、\n何もできないですもんねー！,"I-if I wasn't here, you wouldn't be able to do anything!"
+1022001040250,小糸,…………ま、全く、仕方ないですねー！\nプロデューサーさんは……！,"...J-Jeez, how hopeless! Producer...!"
+1022001040260,小糸,わ、わたしがいないと、\n何もできないですもんねー！,"I-If I wasn't here, you wouldn't be able to do anything!"
 0000000000000,プロデューサー,本当に、よく頑張ってる,You're really doing a great job.
 1022001040270,小糸,……そんなことないです\nこのくらい普通で、よゆーです,...No I'm not. This much is normal and not a problem for me.
 0000000000000,プロデューサー,そうやって言えるところが\n小糸の本当にすごいところかもしれないな,You being able to say stuff like that might mean you really are amazing.

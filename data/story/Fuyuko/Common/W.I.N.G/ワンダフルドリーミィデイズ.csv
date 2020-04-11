@@ -60,10 +60,14 @@ so she's at a loss on what to choose."
 0000000000000,プロデューサー,ん、なんだ？,Sure. What is it?
 1018001020160,冬優子,プロデューサーさんは……,"Producer,"
 1018001020170,冬優子,ふゆは、どんなアイドルになれると思いますか？,What kind of idol do you think Fuyu can become?
-select,,一緒に探していこう,Let's figure it out together
-select,,色んな可能性がある,You have a lot of potential
+select,,一緒に探していこう,"Let's figure it 
+out together"
+select,,色んな可能性がある,"You have a lot 
+of potential"
 select,,"冬優子が望む
-アイドルになろう",Let's turn you into the idol you want to be
+アイドルになろう","Let's turn you 
+into the idol 
+you want to be"
 1018001020180,冬優子,一緒に……ですか？,"Together, you say?"
 0000000000000,プロデューサー,"ああ、俺は冬優子のプロデューサーだけど
 ただ答えを言うだけが仕事じゃない","Yes. While I am your producer, it's not my job to just give out the answers."

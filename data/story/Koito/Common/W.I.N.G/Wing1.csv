@@ -1,13 +1,13 @@
 id,name,text,trans
-0000000000000,プロデューサー,──ああ、小糸\nちょっといいかな,"-Ah, Koito, do you have a minute?"
-1022001020010,小糸,ぴゃ……！？,Pyah...?!
+0000000000000,プロデューサー,──ああ、小糸\nちょっといいかな,"──Ah, Koito, do you have a minute?"
+1022001020010,小糸,ぴゃ……！？,Pyah...!?
 1022001020020,小糸,…………な、なんでしょう……！,...Wh-what is it...!
 0000000000000,プロデューサー,悪い、驚かせちゃったな\nちょっといいか？,"Sorry, I surprised you. Could we talk real quick?"
 1022001020030,小糸,…………！,...!
 0000000000000,プロデューサー,そんなに警戒しなくても大丈夫だ\n別に怒ったり叱ったりするわけじゃない,You don't have to put your guard up like that. I'm not going to get angry or scold you.
-1022001020040,小糸,…………は、はい……！,...O-okay...!
+1022001020040,小糸,…………は、はい……！,...O-Okay...!
 0000000000000,プロデューサー,それで、これ……２８３プロに所属するにあたって\n親御さんから書類、貰ってきてくれただろ？,"Well then, this... you turned in the documents from your parents to become part of 283 Productions, right?"
-1022001020050,小糸,…………！\nそそそそれが何か！　不備でもありましたか……！？,...! I-i-i-is there! Something wrong with them...?
+1022001020050,小糸,…………！\nそそそそれが何か！　不備でもありましたか……！？,...! I-I-I-Is there! Something wrong with them...!?
 0000000000000,プロデューサー,いや、これ自体には不備は無いよ\nただこれから本格的な活動していくにはさ,"No, there's nothing wrong with it itself. It's just about you working regularly from now on."
 0000000000000,プロデューサー,直接お会いしてご挨拶、\nというか説明と確認をさせてもらいたいんだ,"I would like to greet them in person, or I should say I would like to be able to explain and confirm this with them."
 0000000000000,プロデューサー,ご両親とも忙しいってことだったけど\nこのまま小糸の活動を進めていくわけにもいかない,"I know your parents are busy, but I can't have you move forward with your work like this."
@@ -18,7 +18,7 @@ id,name,text,trans
 1022001020080,小糸,え……っ\nあ、えっと……！,"Eh... ah, um...!"
 1022001020090,小糸,確認！　してみます……\nわたしから……！,Confirm! I... I'll try doing that...!
 0000000000000,プロデューサー,ああ、そうか？　こっちの都合はつけるから、\n親御さんの都合のいい日を聞いてみてくれ,"Ah, really? I'll arrange it on my end, so ask them what day would be good for them for me."
-1022001020100,小糸,……わ、わかりました…………,...G-got it...
+1022001020100,小糸,……わ、わかりました…………,...G-Got it...
 1022001020110,小糸,……………………,...
 0000000000000,プロデューサー,……そういえば、小糸は成績がいいらしいな\n勉強とレッスンの両立は大丈夫そうか？,"...By the way, it sounds like you have good grades. Will you be okay doing both studying and lessons?"
 1022001020120,小糸,………………はい……,...Yes...
@@ -27,7 +27,7 @@ id,name,text,trans
 0000000000000,プロデューサー,ああ、そういえば\nトレーナーが褒めてたぞ,"Yeah, speaking of that, the trainer praised you."
 0000000000000,プロデューサー,さすが幼馴染だけあって、\nみんな息があってるって,"They said as they could expect from childhood friends, you all worked well together."
 1022001020140,小糸,…………！\nえ……,...! Eh...
-1022001020150,小糸,それ、本当ですか……！,For real...?!
+1022001020150,小糸,それ、本当ですか……！,For real...!?
 0000000000000,プロデューサー,ああ、タイプはバラバラなのに\n一体感があるって,"Yeah, they said even though you're mismatched, you have a sense of unity."
 0000000000000,プロデューサー,……俺もそう思うよ,...I think so too.
 1022001020160,小糸,え……えへへ,Eh... ehehe.
@@ -42,23 +42,23 @@ select,,頑張っていこうな,Let's do our best.
 select,,聞いていたとおりだ,"It's just like I
 heard."
 0000000000000,プロデューサー,プロデューサーとしても,As your producer as well.
-1022001020200,小糸,はい……！\nみ、みんなのことなら任せてくださいね！,Yes...! Y-you can leave the others to me!
+1022001020200,小糸,はい……！\nみ、みんなのことなら任せてくださいね！,Yes...! Y-You can leave the others to me!
 0000000000000,プロデューサー,あはは、そうだな,"Ahaha, right."
 0000000000000,プロデューサー,小糸がみんなにいい影響を与えてるって\nわかる気がするな,I feel like I understand how you're a good influence for them.
 0000000000000,プロデューサー,小糸を見てると頑張ろうって思えるもんな？,"They'll most likely work hard if they see you, right?"
-1022001020210,小糸,ええ……それって\nどういう意味ですか……！？,Um... what do you mean by that...?!
-1022001020220,小糸,ちょっと、プロデューサーさーん！,"Hey, Producer-saaan!"
+1022001020210,小糸,ええ……それって\nどういう意味ですか……！？,Um... what do you mean by that...!?
+1022001020220,小糸,ちょっと、プロデューサーさーん！,"Hey, Produceeer!"
 0000000000000,プロデューサー,みんなのためにも、もちろん小糸のためにも,"For everyone's sake, and of course for your sake."
 0000000000000,プロデューサー,わからないこととか、不安なこととか\nなんでも聞いてくれ,"If there's ever anything you're confused or worried about, ask me."
 1022001020230,小糸,…………！\nあの……わ、わたし…………,...! Um... I-I...
 1022001020240,小糸,わたし、そんなの無いですよー！,There's nothing like that for me!
 0000000000000,プロデューサー,はは、そうか。無いならいいんだ\nでももし何かあれば、いつでも言ってくれ,"Haha, I see. That's good. But if anything ever pops up, you can ask me anytime."
 0000000000000,プロデューサー,本当に、いつでも,"Really, any time."
-1022001020250,小糸,…………はい\nそうですね、プロデューサーさん,"...Yes. That's right, Producer-san."
+1022001020250,小糸,…………はい\nそうですね、プロデューサーさん,"...Yes. That's right, Producer."
 1022001020260,小糸,え？,Eh?
 0000000000000,プロデューサー,小糸は幼馴染のことになると\nすごくいい表情をするってさ,"I heard that when it comes to your childhood friends, you have a good facial expression."
-1022001020270,小糸,……ええ……！？,...What...?!
+1022001020270,小糸,……ええ……！？,...What...!?
 0000000000000,プロデューサー,そういう、小糸の姿を\n色んな人に知ってもらえるといいなと思うよ,I think it'll be good if different kinds of people get to know you like that.
-1022001020280,小糸,…………はい\nありがとうございます、プロデューサーさん,"...Yes. Thank you, Producer-san."
+1022001020280,小糸,…………はい\nありがとうございます、プロデューサーさん,"...Yes. Thank you, Producer."
 info,produce_events/102200102.json,
 译者,,

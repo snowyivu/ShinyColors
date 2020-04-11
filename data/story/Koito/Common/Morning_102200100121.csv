@@ -1,7 +1,7 @@
 id,name,text,trans
 1022001001210010,小糸,"あ……！
 ど、どうしよう……","Ah...!
-Wh-what should I do..."
+Wh-What should I do..."
 0000000000000,プロデューサー,"小糸？
 どうかしたか？","Koito?
 What's wrong?"
@@ -26,15 +26,15 @@ I'll do that!"
 1022001001210040,小糸,ちょっと電話してきますね！,I'm going to go call her!
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1022001001210050,小糸,"い、いえ……！
-大丈夫です……！","N-no...!
+大丈夫です……！","N-No...!
 It's fine...!"
 1022001001210060,小糸,"あ、ありがとうございます
-連絡だけ、してみますね……！","Th-thank you.
+連絡だけ、してみますね……！","Th-Thank you.
 I'm going to try just contacting her...!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1022001001210070,小糸,あ……そうですよね……,Ah... you're right...
 1022001001210080,小糸,"い、一応、連絡して
-聞いてみます……","J-just in case, I'm going to call and ask her..."
+聞いてみます……","J-Just in case, I'm going to call and ask her..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/102200100121.json,
 译者,,

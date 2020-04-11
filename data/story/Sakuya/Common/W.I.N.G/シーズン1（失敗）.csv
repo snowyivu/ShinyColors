@@ -1,0 +1,33 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I heard about the results.
+...this is as far as we go, huh."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...yes. We didn't manage to reach their targets.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね","W.I.N.G. is what every idol dreams of winning, right?"
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……","So it makes sense it'd be a hard, unforgiving journey, but..."
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I'm so sorry I couldn't get the results we needed...
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...well, now's not the time for you to apologise to us. I think there's someone else out there you need to talk to."
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"I know it's rough, but this is part of your job, too."
+0000000000000,プロデューサー,……行ってきます,...I'll go talk to her.
+0000000000000,プロデューサー,"第１審査の結果が出たよ……
+残念だが、通過できなかった","The first round results are in... I'm sorry, but you didn't pass."
+7006001020010,咲耶,そうなのか……,Is that so...
+0000000000000,プロデューサー,咲耶……大丈夫か？,Sakuya... Are you alright?
+7006001020020,咲耶,……問題ないよ、プロデューサー,"...I'm fine, Producer."
+7006001020030,咲耶,"今の私が持ってる力は
+すべて出しつくしたつもりだ",I tried to put everything I had into this.
+0000000000000,プロデューサー,ああ、咲耶はこれまで全力で頑張ってくれていた,Mm. I've seen how hard you worked.
+7006001020040,咲耶,"それでもダメだったってことは
+私にまだ足りないところがあるんだろう",But the fact I still lost means I'm lacking in something.
+7006001020050,咲耶,"その足りないところを探しながら
+これからまたレッスンを頑張ればいいさ","And while I try to figure that out, I'll keep on working hard at improving myself through practice."
+0000000000000,プロデューサー,"（すごいな。もう、立ち直って前を向いている……
+さすがにプロ意識が高いな）","(She's incredible. She just looks ahead and keeps going... She's a real professional at heart, isn't she?)"
+0000000000000,プロデューサー,"そうだな。次はもっと咲耶の良さが伝わるように
+一緒に頑張ろう！","That's right! We'll make sure the world knows about you next time, Sakuya! Let's do this together!"
+7006001020060,咲耶,ああ。よろしく頼むよ、プロデューサー！,"Mhm. I'm counting on you, Producer!"
+info,produce_events/700600102.json,
+译者,,
