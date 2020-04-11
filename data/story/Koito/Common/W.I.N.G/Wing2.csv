@@ -1,20 +1,20 @@
 id,name,text,trans
-0000000000000,プロデューサー,──小糸\nちょっといいかな,"-Koito, do you have a minute?"
-1022001030010,小糸,あ……、プロデューサーさん！,Ah... Producer-san!
-1022001030020,小糸,なんでしょう！　何かご用事ですか？\nわたしこれから──……,"What is it?! Is there something to do? After this, I-..."
+0000000000000,プロデューサー,──小糸\nちょっといいかな,"──Koito, do you have a minute?"
+1022001030010,小糸,あ……、プロデューサーさん！,Ah... Producer!
+1022001030020,小糸,なんでしょう！　何かご用事ですか？\nわたしこれから──……,"What is it!? Is there something to do? After this, I──"
 0000000000000,プロデューサー,……ちょっと、ソファに座ってくれ\n話があるんだ,...Please sit on the sofa for a bit. I have something to discuss with you.
 1022001030030,小糸,え…………\n……は、はい……！,"Eh...
-...O-okay...!"
-0000000000000,プロデューサー,──すまん,-I'm sorry.
+...O-Okay...!"
+0000000000000,プロデューサー,──すまん,──I'm sorry.
 1022001030040,小糸,え…………,Eh...
 0000000000000,プロデューサー,小糸に黙って、小糸の家に電話させてもらった,I called your house phone without telling you about it.
-1022001030050,小糸,ぴゃ……！？,Pyah...?!
+1022001030050,小糸,ぴゃ……！？,Pyah...!?
 0000000000000,プロデューサー,親御さんと、電話越しだけど少し話したよ\n……アイドルのこと、何も言ってなかったんだな,"I spoke a little with your parents, though it was over the phone.
 ...You didn't tell them about being an idol, did you?"
 1022001030060,小糸,…………………………,...
 0000000000000,プロデューサー,小糸に謝らなきゃならないことがたくさんある\nまず、勝手に電話したことがひとつだ,"I have lots of things to apologize to you for.
 First, for calling them on my own."
-1022001030070,小糸,い、いえ……\nわたし…………,"N-no...
+1022001030070,小糸,い、いえ……\nわたし…………,"N-No...
 I..."
 0000000000000,プロデューサー,それから、もっと小糸の話を聞くべきだった,"Then, I should have listened more closely to you."
 1022001030080,小糸,それは、わたしが……\nわたしが、嘘、ついてたから……,"It's, because...
@@ -22,30 +22,30 @@ Because I lied..."
 0000000000000,プロデューサー,うん、嘘つかせることになってすまない,"Yes, I'm sorry for leading you into lying to me."
 1022001030090,小糸,…………………………,...
 0000000000000,プロデューサー,小糸の親御さんと、しっかり話さないといけない\nでも、その前にひとつ確認したい,"I have to speak properly with your parents. However, there's one thing I want to confirm before that."
-0000000000000,プロデューサー,──小糸はこの後も\nアイドル、やりたいか？,"-After this, do you want to be an idol?"
+0000000000000,プロデューサー,──小糸はこの後も\nアイドル、やりたいか？,"──After this, do you want to be an idol?"
 1022001030100,小糸,……………………………,...
 1022001030110,小糸,えっと、ですね……\n…………最初は,"Um, well...
 ...At first."
 1022001030120,小糸,やらないとみんなと一緒にいられないから\nわたし、またひとりになっちゃうと思って……,"If I don't do it, I can't be together with everyone. That makes me think I'll end up being all alone again..."
 1022001030130,小糸,…………………………,...
-0000000000000,プロデューサー,──面接しに来てくれた時、最初は正直、\n小糸にアイドルは難しいんじゃないかと思った,"-When you came here for the job interview, from the beginning, I honestly wondered if it would be difficult for you to be an idol."
+0000000000000,プロデューサー,──面接しに来てくれた時、最初は正直、\n小糸にアイドルは難しいんじゃないかと思った,"──When you came here for the job interview, from the beginning, I honestly wondered if it would be difficult for you to be an idol."
 0000000000000,プロデューサー,だけど、幼馴染のことを話しだしたら\nぱっと明るくなって……,"But when we talked about childhood friends, you suddenly cheered up..."
 0000000000000,プロデューサー,あまりにも一生懸命話すからさ、\nこっちも笑顔になった,"You really put too much effort into talking about it, so I starting smiling too."
 0000000000000,プロデューサー,そういう小糸の姿が、\n誰かを元気にできると思ったんだ,I thought the sight of you like that could cheer anyone up.
 1022001030140,小糸,…………っ,...
 0000000000000,プロデューサー,小糸がアイドルを始めてから、\n本当に一生懸命レッスンしてたのを見てきた,"Since you started being an idol, I've seen you really put all you can into your lessons."
 0000000000000,プロデューサー,いつも真面目でひたむきで、\n……だからきっとみんな、小糸を応援したくなる,You're always serious and earnest... that's why I'm sure everyone will start to cheer you on.
-0000000000000,プロデューサー,──小糸は、アイドルに向いてるよ,-You're cut out to be an idol.
+0000000000000,プロデューサー,──小糸は、アイドルに向いてるよ,──You're cut out to be an idol.
 1022001030150,小糸,……………………,...
 1022001030160,小糸,ま、毎日、学校が終わって……みんなでここに来て……\nレッスンするの……楽しかったです,"E-everyday, after school... coming here with everyone... and doing lessons... was fun."
 1022001030170,小糸,中学校はみんなと違う学校だったし……\n今までわたし、放課後は勉強ばっかりで……,"I was in a different school than everyone else in middle school... up until now, all I did after school was study..."
 1022001030180,小糸,わたしも、みんなと一緒に……\n特別になれたみたいで……,"It's like I, along with everyone else... have become more extraordinary..."
 1022001030190,小糸,だけどお母さんがいいよって言うわけないから……\n楽しくなるほど、言えなくなって…………,"But there's no way my mom would say it's okay... the more fun I had, the less I could tell her..."
-1022001030200,小糸,ごめんなさい、プロデューサーさん,"I'm sorry, Producer-san."
+1022001030200,小糸,ごめんなさい、プロデューサーさん,"I'm sorry, Producer."
 0000000000000,プロデューサー,…………うん,...Okay.
 1022001030210,小糸,わたし、ちゃんとした理由とか\nどうなりたいかとか、まだ全然無いけど……,"I don't know anything like a respectable reason or what I want to become yet, but..."
 1022001030220,小糸,それでもアイドル、やりたいって\n言ってもいいですか……！,"Despite that, is it okay if I say I want to be an idol...!"
-0000000000000,プロデューサー,──ああ,-Yeah.
+0000000000000,プロデューサー,──ああ,──Yeah.
 select,,もちろんだ,Of course.
 select,,いいよ,It's okay.
 select,,ありがとう,Thank you.
@@ -59,13 +59,13 @@ I'll be in your care...!"
 0000000000000,プロデューサー,いいに決まってる\nだからちゃんと、親御さんと話してこよう,Of course it's okay. So let's go speak properly with your parents.
 0000000000000,プロデューサー,一緒にさ,Together.
 1022001030260,小糸,…………はい……,...Okay...
-1022001030270,小糸,プロデューサーさん……\nありがとうございます……！,"Producer-san...
+1022001030270,小糸,プロデューサーさん……\nありがとうございます……！,"Producer...
 Thank you...!"
 0000000000000,プロデューサー,アイドル、やりたいって言ってくれて,For saying that you want to be an idol.
-1022001030280,小糸,…………プロデューサーさん,...Producer-san.
+1022001030280,小糸,…………プロデューサーさん,...Producer.
 0000000000000,プロデューサー,それ、親御さんにも伝えてみよう\n一緒に行くからさ,"Let's try explaining that to your parents.
 We'll go together."
-1022001030290,小糸,……プロデューサーさん\n……怒って、ないんですか……？,...Producer-san... you're not angry...?
+1022001030290,小糸,……プロデューサーさん\n……怒って、ないんですか……？,...Producer... you're not angry...?
 0000000000000,プロデューサー,……小糸、大丈夫だ\n失敗しても、いいんだよ,"...Koito, it's alright. Even if we fail, it'll be okay."
 1022001030300,小糸,………………！\nはい……！,"...!
 Okay...!"

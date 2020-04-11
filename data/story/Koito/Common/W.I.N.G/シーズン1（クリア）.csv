@@ -1,24 +1,24 @@
 id,name,text,trans
-0000000000000,プロデューサー,──あ、小糸！\n今いいか？,"-Ah, Koito! Can I have a moment?"
-7022001010010,小糸,ぴゃ……！？\nぷ、プロデューサーさん……,Pyah...?! P-Producer-san...
-7022001010020,小糸,ど、どうしたんですか……\nな、なんか元気ですけど……！,Wh-what is it... y-you seem sort of lively...!
+0000000000000,プロデューサー,──あ、小糸！\n今いいか？,"──Ah, Koito! Can I have a moment?"
+7022001010010,小糸,ぴゃ……！？\nぷ、プロデューサーさん……,Pyah...!? P-Producer...
+7022001010020,小糸,ど、どうしたんですか……\nな、なんか元気ですけど……！,Wh-What is it...? Y-You seem sort of lively...!
 0000000000000,プロデューサー,ああ、聞いてくれ！\n一次審査、突破したぞ！,"Yeah, listen to this! You passed the first round!"
 7022001010030,小糸,……え……？,...Eh...?
 0000000000000,プロデューサー,おめでとう、小糸,"Congratulations, Koito."
-7022001010040,小糸,え……あ……\nそ、そうなんですか！？,Eh... ah... r-really?!
+7022001010040,小糸,え……あ……\nそ、そうなんですか！？,Eh... ah... R-Really!?
 0000000000000,プロデューサー,ああ、\nなんだそんな信じられないみたいな顔して,Yes. Why're you making a face like you can't believe me?
 7022001010050,小糸,えっ、いや……！,"Eh, no...!"
 7022001010060,小糸,あの、わたし……\n……こ、このくらい当然ですよ！,"Um, I...
-...Th-this much is only natural!"
+...Th-This much is only natural!"
 0000000000000,プロデューサー,はは、そうか\n頼もしいな,"Haha, I see. That's promising."
-7022001010070,小糸,ま、まだ一次審査ですし！？\nちょっと喜びすぎです！,"I-it's only the first round, you know?! You're sort of celebrating too much!"
+7022001010070,小糸,ま、まだ一次審査ですし！？\nちょっと喜びすぎです！,"I-It's only the first round, you know!? You're sort of celebrating too much!"
 0000000000000,プロデューサー,そうかな、でも嬉しくてさ,"Maybe, but I'm happy."
 0000000000000,プロデューサー,小糸の一生懸命さが\nちゃんと伝わったんだなって,I think you've really shown that you're giving it everything you've got.
 7022001010080,小糸,……はい,...Yes.
 0000000000000,プロデューサー,これからもこの調子で、\n二次審査、三次審査……,"Let's keep on going like this, then the second round, third round..."
 0000000000000,プロデューサー,決勝まで、乗り越えていこうな,"Even the finals, we'll overcome them all."
 7022001010090,小糸,……あ、えっと……,"...Ah, um..."
-7022001010100,小糸,そ、そうですね……\nずっと、こうやって……,Th-that's right... if I'm like this forever...
+7022001010100,小糸,そ、そうですね……\nずっと、こうやって……,Th-That's right... if I'm like this forever...
 7022001010110,小糸,いられたら……いいですよね……,It would... be good...
 info,produce_events/702200101.json,
 译者,,

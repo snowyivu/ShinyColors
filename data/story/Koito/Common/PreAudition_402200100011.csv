@@ -1,7 +1,7 @@
 id,name,text,trans
 4022001000110010,小糸,"ぴゃ……！？
-ぷ、プロデューサーさん……！！！","Pyah...?!
-P-Producer-san...!!!"
+ぷ、プロデューサーさん……！！！","Pyah...!?
+P-Producer...!!!"
 0000000000000,プロデューサー,（ガチガチに緊張してるな……）,(She's worried stiff...)
 select,,頑張ろうな！,Let's do our best!
 select,,大丈夫だ！,It's alright!
@@ -17,7 +17,7 @@ I-I'm not sure..."
 0000000000000,プロデューサー,（少しは緊張が解けたらいいけど……）,(I wish I could've eased her worries a bit...)
 4022001000110040,小糸,"え……あ……
 そ、そう、なんですかね……？","Eh... ah...
-a-are you sure...?"
+A-Are you sure...?"
 0000000000000,プロデューサー,（……しまった、困惑させてしまった……）,"(...Shoot, I ended up confusing her...)"
 info,produce_communication_cheers/402200100011.json,
 译者,,
