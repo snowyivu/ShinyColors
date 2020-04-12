@@ -1,0 +1,93 @@
+id,name,text,trans
+1023001020010,雛菜,あ～♡\nプロデューサーだ～～～！,"Ah~♡
+It's producer~~~!"
+0000000000000,プロデューサー,えっ……\nああ、雛菜か,"Ehh...
+Ah, it's you, Hinana."
+1023001020020,雛菜,え～～～\nプロデューサー、冷たくない～……？,"Ehh~~~
+Producer, wasn't that a bit cold~...?"
+0000000000000,プロデューサー,すまん\nちょっと考え事しながら歩いてた、よくないよな,"My bad
+I was thinking about something while walking, so I wasn't paying attention."
+1023001020030,雛菜,よくない～！\n危なくないですか～？,"That's no good~!
+Isn't that dangerous~?"
+1023001020040,雛菜,歩きながら考え事しなきゃなんて\n大変～～～……,"Something like thinking while walking,
+That's bad~~~..."
+1023001020050,雛菜,プロデューサーって休んでる時あるの～……？,"Producer, do you take breaks sometimes~...?"
+0000000000000,プロデューサー,はは、ついな……,"Haha, well..."
+1023001020060,雛菜,あっでも！\n雛菜もプロデューサーのこと考えながら歩いてた～♡,"Ah, but! 
+Hinana was just walking while thinking about producer~♡"
+0000000000000,プロデューサー,そうなのか？\nじゃあお互い様だな,"That so?
+Then, we are the same."
+0000000000000,プロデューサー,雛菜のこと、これからどうやって\nプロデュースしていこうかって考えてたんだ,I was thinking about how can I produce Hinana the best from now on.
+1023001020070,雛菜,うそ～～～！,No way~~~!
+1023001020080,雛菜,雛菜だけがプロデューサーのこと考えてるのかな？\nって思ってたから、うれしい～～～,"I thought that Hinana was the only one thinking about producer...
+That makes me so happy~~~"
+0000000000000,プロデューサー,それはよかった\n雛菜は今日も元気いっぱいだな,"That's good.
+It looks like you're full of energy today too."
+1023001020090,雛菜,あは、でしょ～～～？\n今日も一日楽し～く、しあわせ～♡,"Aha, right~~~?
+All day today, fu~ull of fun and happiness~♡"
+0000000000000,プロデューサー,……今日も一日、か……\n雛菜、今日はこれからレッスンだったよな？,"...All day today, huh...?
+Hinana, you have lessons later, right?"
+0000000000000,プロデューサー,レッスンの様子、\n覗いていってもいいか？,Can I go and see how you're doing with them?
+1023001020100,雛菜,プロデューサーも来てくれるの？\nやは～♡　それさいこ～～～！,"Producer will come too?
+Yaha~♡ This is the best~~~!"
+1023001020110,雛菜,ね、はやく行こ～～～？\nプロデューサー,"Hey, let's get going already~? Producer~~~"
+0000000000000,トレーナー,──ワン、ツー、スリー、フォー\nファイブ、シックス、セブン、エイト,"One, two, three, four
+Five, six, seven, eight"
+0000000000000,トレーナー,……雛菜ちゃん、いいね\n今のところは完璧だったよ！,"...Hinana-chan, good going
+Everything was perfect so far!"
+1023001020120,雛菜,ほんと～～～？\nやは～、褒められちゃった～♡,"For realsies~~~?
+Yahoo~ I was praised~♡"
+1023001020130,雛菜,あ、プロデューサー見てた～～～？\n褒められちゃったよ～～～！,"Ah, producer, did you see~~~?
+They praised me~~~!"
+0000000000000,プロデューサー,こら、レッスン中だろ……！,"Hey, the lesson is still going...!"
+1023001020140,雛菜,だって、うれしかったから～\nプロデューサーに言いたくなっちゃった～～～,"Buut, I was so happy~
+I wanted to tell producer~~~"
+0000000000000,プロデューサー,こっちを気にしないで集中してくれ……！,Don't mind me and concentrate on your lesson...!
+1023001020150,雛菜,それじゃあプロデューサーは\n雛菜に集中しててね～？,"Then, producer, make sure to concentrate on Hinana~"
+0000000000000,プロデューサー,いいからほら、前を向いてくれ……！,"That's fine, but look at your trainer already...!"
+1023001020160,雛菜,は～い♡\nレッスンの続きお願いします～～～,"Yees ♡ Let's continue with the lesson, please~~~"
+0000000000000,プロデューサー,…………はは……,...Haha...
+0000000000000,プロデューサー,（……ダンスも上手いし、\n何より天真爛漫なところがアイドルに向いてるよな）,"(...Dance is her forte, but more than anything,
+that innocence of hers is perfectly suited for being an idol)"
+0000000000000,プロデューサー,（少し気分屋なところは気になるが……）,"(I'm a little worried about how fast her mood changes, though...)"
+0000000000000,トレーナー,──はい、それじゃあ今日はここまで！\nお疲れさまでした！,"-then, that's all for today!
+Great work!"
+1023001020170,雛菜,は～い♡\nありがとうございました～,"Yay ♡
+Thanks a lot~"
+1023001020180,雛菜,……プロデューサー見てた～～～？,"...Producer, did you see~~~?"
+0000000000000,プロデューサー,………………,.........
+1023001020190,雛菜,プロデューサー……？,Producer...?
+0000000000000,プロデューサー,えっ……ああ、雛菜！\nお疲れ様,"Eh... Ah, Hinana!
+Good work."
+1023001020200,雛菜,……また考え事ですか～？,"...Were you thinking about something again~? "
+select,,雛菜のプロデュース\n方法を考えてた,"I was thinking about how
+to produce Hinana"
+select,,雛菜はダンスが\n上手だなって,"I was thinking about how
+good Hinana is at dancing"
+select,,雛菜はいいアイドルに\nなりそうだなって,"I was thinking that Hinana
+is gonna become a fine idol"
+1023001020210,雛菜,あは、プロデューサー\nそればっかり～～～,"Aha, producer, that again~~~?"
+0000000000000,プロデューサー,そうだな\nそれだけ雛菜に可能性を感じてるんだよ,"Yeah
+With just this, I can feel the potential that Hinana has."
+1023001020220,雛菜,え～～～？\nそれって雛菜がすごいってこと～？,Eehh~~~? Does that mean that Hinana is amazing~?
+0000000000000,プロデューサー,ああ、きっと雛菜はすごいアイドルになれる,"Yeah, I'm sure that Hinana will become an amazing idol."
+0000000000000,プロデューサー,そのために、どうしていくのが一番いいのかって\n考えてたんだ,That's why I was wondering what the best way to achieve that would be.
+1023001020230,雛菜,……そんなの簡単ですよ～？\n楽しく、しあわせ～にやるのがいちばん♡,"...Isn't that obvious~?
+With looots of fun and happiness, it's the best way ♡"
+1023001020240,雛菜,やは～♡　プロデューサーにも\n褒められちゃった～～～,Yaha~♡ Producer also praised me~~~
+0000000000000,プロデューサー,これからレッスンを重ねれば\nもっと上手くなっていけるよ,"From now on, if you repeat your lessons,
+you can get even better."
+1023001020250,雛菜,雛菜、ダンスの才能があるのかも～,Hinana might have a talent for dancing~
+0000000000000,プロデューサー,ああ、期待してるよ,"Yeah, I expect a lot from you."
+1023001020260,雛菜,雛菜も～～～\nプロデューサーに期待してるよ～？,"Hinana too~~~
+I expect a lot from producer too~"
+1023001020270,雛菜,ほんと～～～？\nうれしい～！,"Really~~~?
+I'm so happy~!"
+0000000000000,プロデューサー,ダンスも上手だし、\n何よりいつも明るくて、楽しそうだ,"You're great at dancing,
+and also always so bright and looking like you're having fun."
+0000000000000,プロデューサー,そういう姿を、ファンに見せられたらいいな,"That side of Hinana, It'd be nice if the fans could see it."
+1023001020280,雛菜,うん～♡\n雛菜、それはたぶん得意～～～！,"Yeah~♡ 
+Hinana is probably good at that sort of stuff~~~!"
+1023001020290,雛菜,あは～、楽しみだな～～～,Aha~ I'm getting pumped already~~~
+info,produce_events/102300102.json,
+译者,,

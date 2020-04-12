@@ -42,10 +42,13 @@ You think so...?"
 どうしますかぁ？",If your motivation is just going nowhere... What would you do then?
 0000000000000,プロデューサー,……！,Erm...
 0000000000000,プロデューサー,俺だったら……そうだな,What will I do? Well...
-select,,他の仕事を頑張る,Do my best on other work.
-select,,食事休憩を取るかな,"Maybe take a break and eat.
+select,,他の仕事を頑張る,"Do my best on 
+other work."
+select,,食事休憩を取るかな,"Maybe take a break 
+and eat.
 "
-select,,レッスン……かな,"Do a lesson or two, perhaps"
+select,,レッスン……かな,"Do a lesson or two, 
+perhaps"
 2005006020150,摩美々,"……でもー、それとこれとは……
 違うじゃないですかぁ……","But, isn't this and that two different things?"
 0000000000000,プロデューサー,いや、そんなことはないぞ,"No, that's not true, "
