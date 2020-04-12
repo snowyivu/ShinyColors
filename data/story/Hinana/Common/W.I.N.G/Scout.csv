@@ -68,52 +68,55 @@ will be able to soar to even greater heights."
 1901001010120,はづき,"では、そろそろお仕事に移ってもらいましょうか
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
-0000000000000,プロデューサー,"ふぅ……
-少し休憩するか","Fuu...
-Maybe I should take a break..."
-0000000000000,プロデューサー,"（さすがにそう簡単に、
-ピンとくる子は見つからないよなぁ……）","(Seems like finding a promising girl isn't so easy, huh...)"
-0000000000000,プロデューサー,"あのモニターに映ってるCM、最近よく見るなぁ
-人気のアイドルだけあって、歌もダンスも本格的だな","A commercial which I've seen before is airing on that screen. The singing and dancing from those popular idols is serious, as one could expect."
-1017001010010,？？？,よっ……ほっ……っと,Umph... phew... step...
-0000000000000,プロデューサー,よし……そろそろ行こう──,"Okay, I should get going..."
-1017001010020,？？？,──ここは……こう？──,...Here... like this?...
-0000000000000,プロデューサー,"（あの子、さっきから踊ってるな……
-ん？　でもあのダンス……！）","(That girl has been dancing for a while... Hmmm?
-But... that dance is...!)"
-1017001010030,？？？,──っと……うん、決まった！,"... Step! ...Yup, I did it!"
-0000000000000,プロデューサー,君、ちょっといいかな？,"You, do you have a minute?"
-1017001010040,？？？,？　わたしっすか？,...Me?
-0000000000000,プロデューサー,"ああ、さっきのダンスって、
-モニターで流れてたCMのやつだよね？　練習してたの？","Ah, the dance you just did, it's the one from the commercial that aired just now, right? Were you practicing it?"
-1017001010050,？？？,"ううん、ちょっとやってみただけっすよ
-見てたら楽しそうだったんで！","Yeah, it looked a lil' fun so I gave it a shot!"
-0000000000000,プロデューサー,"え？　それってつまり……
-その場で見て、マネしてみたってことなのか？",Huh?  So that means... You imitated it just by looking at it?
-1017001010060,？？？,はいっす！,Yeah!
-0000000000000,プロデューサー,"（……簡単に言ってのけたけど、
-この子、すごいことをしている自覚はないのか……）","(She said it so easily, but... Doesn't this girl realize she danced really well...?)"
-0000000000000,プロデューサー,（もしかしたら……とんでもない才能を持ってるのかも）,"(Could it be... that she's got a tremendous talent?) "
-1017001010070,？？？,～♪,♪Fun-Fun-Fu-Fun♪
-0000000000000,プロデューサー,実は俺、こういうものなんだ,"Actually, this is kind of related to my job."
-1017001010080,？？？,……,Ohhhh...
-1017001010090,？？？,『プロデューサー』……っすか？,You're a producer?
-0000000000000,プロデューサー,"ああ、アイドルのプロデュースをしてるんだ
-君、もし良かったらアイドルになってみないか？","Yup, I'm an idol producer. So, would you like to become a great idol?"
-1017001010100,？？？,アイドルって、どんなことするんすか？,"What kinda things do idols do?
-"
-0000000000000,プロデューサー,"さっき君がマネをしてた女の子のように
-ダンスしたり、歌を歌ったりするんだ","Singing and dancing, just like the girl you were imitating."
-0000000000000,プロデューサー,他には──,"Other things too, like──"
-0000000000000,プロデューサー,──といった具合だね,──And so forth.
-1017001010110,？？？,……！,Ooooh!
-1017001010120,？？？,"面白そーっす！
-わたし、アイドルやってみたいっす！","Sounds interesting!
-I wanna become an idol then!"
-0000000000000,プロデューサー,"そ、そうか！　ありがとう！
-これからよろしく！","I-is that so! Thank you!
-Let's do our best from now on then!"
-1017001010130,あさひ,"はい！　わたし、芹沢あさひっす！
-よろしくっす！",Yes! I'm Asahi Serizawa. Nice to meet ya!
-info,produce_events/101700101.json,
+1023001010010,雛菜,わ～♡\n今日はよろしくお願いします～！,"Wah~♡
+Nice to meet you today~!"
+0000000000000,プロデューサー,……はい、よろしくお願いします\nそれでは、まず自己紹介を……,"...Yeah, nice to meet you.
+Well then, first introduce yourself..."
+1023001010020,雛菜,は～い♡\n市川雛菜、高校１年生です～～～,"Okay~♡
+I'm Hinana Ichikawa, I'm a 1st year highschooler~~~"
+0000000000000,プロデューサー,ありがとう\nアイドルを志望した理由を聞かせてくれるかな,"Thanks.
+Could you tell me the reason you wanted to become an idol?"
+1023001010030,雛菜,ん～とね～\n透先輩がアイドルやるって聞いて～……,"Hmm~ It's like, When I heard Toru-senpai was an idol~..."
+1023001010040,雛菜,すっごくいいな～、雛菜もやりたいな～\nって思って来ました♡,"That's so nice~, Hinana wanted to do it too~ That's what I thought♡"
+0000000000000,プロデューサー,なるほど……\n次に特技を聞かせてください,I see... Please tell me what your skills are next.
+1023001010050,雛菜,特技～……？\nん～なんでもそれなりにできる～！,Skills~...? Mn~ I guess anything's fine~!
+0000000000000,プロデューサー,なんでもそれなりに……？,Anything's fine..?
+1023001010060,雛菜,運動とか勉強とか、割とできる！\nだからアイドルやるのも楽しみ～～～♡,"Exercising or studying, I can do either! That's why idol work seems fun~~~♡"
+0000000000000,プロデューサー,そうか……\nアイドルはどんなイメージかな,"Is that so... 
+What kind of image are you going for as an idol?"
+1023001010070,雛菜,ん～、アイドルは～、\n楽しくてしあわせ～♡　ってイメージ？,"Hm~ As an idol~
+A fun and happy one~♡ That kind of image?"
+0000000000000,プロデューサー,確かに、そういうイメージが\n強いかもしれないな,"Certainly, that sort of image could be potent."
+0000000000000,プロデューサー,でも、アイドルは楽しいことばかりじゃない\n大変なこともたくさんあるぞ,"But, being an idol isn't just about fun. 
+There are lots of difficult stuff too."
+1023001010080,雛菜,え～、大変なのはやだ～……,"Eh~, difficult stuff is yucky~..."
+1023001010081,雛菜,あっ！　雛菜は楽しい担当がいい！,Ah! Hinana will be in charge of the fun stuff!
+0000000000000,プロデューサー,楽しい担当……か,In charge of the fun..?
+1023001010090,雛菜,どんなことでも楽しく、\nしあわせ～にやるのがいちばんでしょ～？,You can do anything cheerfully. Happiness~ is the most important right~?
+0000000000000,プロデューサー,そうだな、アイドルとして\nファンにはいつも笑顔を見せてもらいたいよ,"That's true, as an idol, you always want to show fans a smiling face."
+1023001010100,雛菜,ね～？\n雛菜、それ得意かも～～～♡,Right~? That's Hinana's specialty~~~♡
+1023001010110,雛菜,よく～、『雛菜はしあわせそうでいいね～』\nって言われるもん～～～,"Often~ People will say ""Hinana's just so happy~"" ~~~"
+0000000000000,プロデューサー,はは、そうか\n今もすごく楽しそうだし、いい笑顔だもんな,"Haha, I see. Even now you seem happy, and your smile is great."
+1023001010120,雛菜,あは～♡\nありがとうございます～～～,Aha~♡ Thank you very much~~~
+1023001010130,雛菜,雛菜はどんな時でもね\n楽し～く、しあわせ～に過ごすの,"No matter the situation, Hinana will be fun~ and happy~."
+1023001010140,雛菜,……みんなもそうしたらいいのにね？,"...and then everyone else will be too, right?"
+0000000000000,プロデューサー,うん、そうできたら\n一番いいんだろうけどな,"Yeah, if you can do that. I suppose that'd be best."
+0000000000000,プロデューサー,きっとそうできない人もいる\n……いや、そうできない人の方が多いんだよ,"There are definitely people who can't...
+No, it's more like there are a lot of people who can't."
+0000000000000,プロデューサー,だからそういう人を笑顔にするのが\nアイドルの仕事なんじゃないかって思う,So I think it's the job of an idol to make those kinds of people smile.
+1023001010150,雛菜,そっか～……\nじゃあ雛菜、アイドルに向いてるね？,"I see~... So then, Hinana's suited to be an idol?"
+1023001010160,雛菜,だって雛菜のしあわせ～なとこ見てたら\nみんなもしあわせ～って気持ちになるでしょ～？,"Because if they see Hinana's happiness~ then everyone will become happy too, right~?"
+0000000000000,プロデューサー,あはは……そうだな\nその通りかもしれない,"Ahaha... that's true
+You might be right about that."
+0000000000000,プロデューサー,──……よし、ありがとう\n以上で面接は終了だ,"--...Okay, thank you. That concludes the interview."
+1023001010170,雛菜,え～～～、雛菜もっと\nお話したかった～……,"Eh~~~, but Hinana wanted to chat more~..."
+0000000000000,プロデューサー,大丈夫\nこれから話す機会はたくさんあるよ,That's alright. We'll have plenty of opportunities to chat from now on.
+0000000000000,プロデューサー,２８３プロのアイドルとして\n……よろしく、雛菜,"As an idol of 283 Production...
+Welcome, Hinana."
+1023001010180,雛菜,やは～♡　ほんと～？\nうれしい～～～！,Yaha~♡ Honest~? I'm so happy~~~!
+0000000000000,プロデューサー,ああ、期待してるぞ,"Yeah, I'm looking forward to it."
+0000000000000,プロデューサー,雛菜のこと頑張って\nプロデュースしていくからさ,I'll do my best in order to produce you.
+1023001010190,雛菜,うん！\nじゃあ頑張ってプロデュースされる～！,Yeah! Then I'll do my best to be produced~!
+1023001010200,雛菜,よろしくね～～♡\n雛菜、プロデューサーのことすきかも～～～！,Please treat me well~~♡ Hinana might also like Producer~~~!
+info,produce_events/102300101.json,
 译者,,

@@ -1,0 +1,41 @@
+id,name,text,trans
+1023001000510010,雛菜,"あ～♡
+プロデューサー！","Ah~♡
+Producer!"
+0000000000000,プロデューサー,"おお、雛菜おはよう
+なんだかご機嫌だな","Oh, good day Hinana.
+You seem to be in a good mood."
+1023001000510020,雛菜,"あは～？
+わかりますか～？","Aha~?
+You can tell~?"
+0000000000000,プロデューサー,ああ、何かいいことでも……,And if something good happened...
+select,,"さては
+透だな","It must have been 
+about Toru"
+select,,"さては
+小糸だな","It must have been 
+about Koito"
+select,,"さては
+円香だな","It must have been 
+about Madoka"
+1023001000510030,雛菜,"え～！
+なんでわかったの～～～！？","Ehh~!
+How did you know~~~!?"
+1023001000510040,雛菜,"今日は透先輩のお家に
+行くんだ～～～♡","Today, I'll be going to Toru-senpai's house~~~♡"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1023001000510050,雛菜,"あは～、昨日小糸ちゃんに
+小テストのヤマ教えてもらったら～","Aha~, yesterday I had Koito-chan 
+teach me with a mini test~"
+1023001000510060,雛菜,"満点だった～！
+すごいよね～？","I got a perfect score~!
+Isn't that great~?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1023001000510070,雛菜,"ん～……
+円香先輩には会ってないよ～？","Mn~...
+But I haven't even met with Madoka-senpai~?"
+1023001000510080,雛菜,"なんで円香先輩だと
+思ったの～？",Why did you think it was about Madoka-senpai~?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102300100051.json,
+译者,,

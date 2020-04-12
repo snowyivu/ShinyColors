@@ -1,0 +1,99 @@
+id,name,text,trans
+1012001020010,凛世,"……トレーナーさま
+先ほどの、ところは……","Trainer,
+the area before…"
+1012001020020,凛世,……はい、もっと腕を……,"…Yes, more on the arms…"
+1012001020030,凛世,"ありがとう、ございます
+……今日は、ここまで、なのですね","Thank you very much…
+that should be it for today."
+1012001020040,凛世,"本日も、ありがとう、ございました……
+次回も、お願いいたします……","Thank you so much for today…
+I hope you come help us next time too."
+0000000000000,プロデューサー,"（今日もしっかりレッスンに励んでるな
+真面目過ぎるくらいだ）","(I should go encourage her more in this lesson.
+She's so serious.)"
+0000000000000,プロデューサー,"お疲れ、凛世
+近頃すごく上達してきたな","Good job, Rinze.
+You've improved a lot recently."
+1012001020050,凛世,"プロデューサーさま……
+見ていて、くださったのですね","Producer-sama…
+You were watching me?"
+1012001020060,凛世,プロデューサーさまの、ご指導の、おかげです,"It's all thanks to your guidance, Producer-sama."
+0000000000000,プロデューサー,"ああ、凛世が熱心に課題をこなしてくれるから
+スケジュールの組み甲斐があるよ","Yeah, because you were so enthusiastic, I knew that putting it on your schedule would be a good idea."
+1012001020070,凛世,いえ、お褒めいただくようなことでは……,No... I was praising you.
+0000000000000,プロデューサー,"それだけじゃないんだ、
+凛世の頑張りを社長も褒めていたぞ！","That's not it,
+Your hardwork is praised even by the President!"
+1012001020080,凛世,……はい、これからも、精進いたします,"...Yes, if that's so, I'll do my best next time."
+0000000000000,プロデューサー,……？　あんまり……うれしそうじゃないな？,Hmm? You seem a bit... are you unhappy?
+1012001020090,凛世,"いえ、プロデューサーさまに、お喜びいただく……
+それだけが、凛世の幸せなのです","No, Producer-sama,
+I'm happy but... But that's it, I'm just happy."
+0000000000000,プロデューサー,……そ、そうか,"...Oh, is that so?"
+0000000000000,プロデューサー,"（一応、喜んではくれているのかな？　でも
+なんとなくアイドルに対する興味が薄いような……）","(At least, I think she's happy? But, somehow I think she doesn't want to be an idol...)"
+1012001020100,凛世,"プロデューサーさま……？
+どうか、されましたか？","Producer-sama...?
+Is something wrong?"
+0000000000000,プロデューサー,"いや、なんていうか……
+ちょっと聞いてみたいんだけど","No, how do I put it...
+I'd like to ask a question."
+1012001020110,凛世,はい。どのような、ことでも,"Yes, ask me anything."
+select,,"なんで俺の誘いを
+受けてくれたんだ？","Why did you
+accept my scouting
+invitation?"
+select,,"何かやってみたい
+仕事はないか？","Are there any jobs 
+you'd like to do?"
+select,,"あまり無理はしすぎ
+ないようにな","Don't push yourself
+too hard"
+0000000000000,,//凛世、少し照れながら,Rinze feels a bit strange.
+1012001020120,凛世,"それは……プロデューサーさまのお言葉が、
+凛世を、変えてしまったのです……","That is... because of the words Producer-sama said to me, I have changed."
+0000000000000,プロデューサー,"（……「最高の舞台に連れていく」って言ったんだよな
+あの言葉を、凛世はずっと……）","(...since I said  ""I'll take you to the best stage"".
+Rinze has been...)"
+0000000000000,プロデューサー,"（なるほどな、凛世はまだこのくらいで
+気を緩めるわけにはいかないと思っていたんだ……）","(I see, she could still be thinking that she won't make it that far...)"
+0000000000000,プロデューサー,"さすが凛世だ。俺もこの世界に引き込んだ責任があるしな、
+最高の舞台を目指して一緒に頑張ろう！",That's our Rinze. I also have a responsibility to fulfill. Let's work hard together to reach the best stage!
+1012001020130,凛世,"はい。
+貴方さまのため、邁進して、参ります","Yes.
+For you, I will push forward..."
+1012001020140,凛世,末永く……お願い、いたします,For many years to come... please.
+1012001020150,凛世,"プロデューサーさまが、お望みであれば……
+凛世は、拒むことはいたしません……","If there is something Producer-sama wishes for me to do...
+I will not refuse..."
+0000000000000,プロデューサー,"そ、そうか……ありがとう。助かるよ
+けど……しいて言うなら何かないか？","I-Is that so...? Thank you.
+But... is there something else you meant to say?"
+1012001020160,凛世,"凛世は、プロデューサーさまに、見ていただける……
+それだけで……","I, well...
+being able to see Producer-sama... that is all I need."
+0000000000000,プロデューサー,"な、なるほど……なんだか期待されてるみたいだな
+凛世がそう言うなら俺もできる限り一緒にいるよ","I-I see... We'll see what will happen. If you say so, I will be as with you as much as I can."
+1012001020170,凛世,"ふふ
+ありがたき、お言葉……","Fufu, thank you...
+With that said..."
+1012001020180,凛世,"……これからも、お頼み申し上げます
+プロデューサーさま","...from now on,
+I'll follow your requests, Producer-sama."
+0000000000000,プロデューサー,"やりたくない仕事があれば必ず相談してくれ
+できるだけ凛世の意見を尊重したいんだ",Tell me whenever there's work you don't want to do. I want to respect your opinion too.
+1012001020190,凛世,"無理、でしょうか
+そのようなことは……","Such a thing...
+that's impossible..."
+1012001020200,凛世,"どのようなことも受け入れると……
+この凛世、心に決めております","I have made up my mind...
+that I will accept whatever comes my way."
+0000000000000,プロデューサー,"そうか……変な心配をしてすまなかったな
+凛世のその覚悟があれば、きっとこの先もうまくいく","Is that so... Sorry for my unfounded concern, then. If you're always that prepared, you'll definitely do well in the future."
+0000000000000,プロデューサー,"俺も凛世の覚悟に応えられるように、頑張るよ
+これからもよろしくな","To be able to respond to your preparation, I need to work hard too! From now on, I'll be in your care."
+1012001020210,凛世,"はい……プロデューサーさまの想いに応えられるよう……
+精進いたします",Yes... to be able to respond to Producer-sama's thoughts... I will devote myself.
+info,produce_events/101200102.json,
+译者,,

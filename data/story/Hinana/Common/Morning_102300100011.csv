@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,おはよう、雛菜！,"Good moring, Hinana!"
+1023001000110010,雛菜,あは～！　おはよう～,Aha~! Morning~
+1023001000110020,雛菜,"朝からプロデューサーに会えて
+雛菜、しあわせ～！","Meeting producer first thing in the morning
+Hinana is so happy~!"
+0000000000000,プロデューサー,はは、そうか？,"Haha, is that so?"
+select,,"幸せな一日に
+なりそうだ","Today is gonna be
+a happy day"
+select,,よかったよ,That's good
+select,,"雛菜は
+なんでも幸せだな","Hinana is happy
+no matter what"
+1023001000110030,雛菜,"ね～？
+今日はいい日になりそう～","Right~?
+Today is totally going to be a happy day~"
+1023001000110040,雛菜,"いい日記念に
+ケーキ買っちゃおうかな～！","To conmemorate such a good day,
+let's go buy some cake~!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1023001000110050,雛菜,雛菜もよかった～！,Hinana thinks the same~!
+1023001000110060,雛菜,"ね～、
+プロデューサーもしあわせ～？","Hey~
+Producer, are you happy too~?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1023001000110070,雛菜,"へ～……
+そんなことないけど～？","Ehh~...
+But it's not like that~?"
+1023001000110080,雛菜,"もしかしてプロデューサー、
+雛菜と会えてしあわせじゃない～……？","Maybe producer it's not happy
+to have met Hinana~...?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102300100011.json,
+译者,,

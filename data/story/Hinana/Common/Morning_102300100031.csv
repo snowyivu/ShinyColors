@@ -1,0 +1,37 @@
+id,name,text,trans
+1023001000310010,雛菜,"プロデューサー、さっき道で
+『芸能界に興味ありますか？』って言われた～","Producer, on the way here,
+I was asked if I was interested in the entertainment world~"
+0000000000000,プロデューサー,"え……！？
+それで、どうしたんだ？","Eh...!?
+And, what happened?"
+1023001000310020,雛菜,"ん～？
+『あります～』って言ったよ～？","Mn~?
+I just answered ""I am""~?"
+0000000000000,プロデューサー,え……！,Eh...!
+select,,断ったんだよな？,Did you refuse?
+select,,"勧誘
+されたのか？","Were you
+solicited?"
+select,,そうか……,I see...
+1023001000310030,雛菜,"へ～？
+うん～、断った！","Ehh~?
+Yup~, I refused!"
+1023001000310040,雛菜,"だって透先輩もプロデューサーも
+ここにしかいないもんね～？","Because, both Toru-senpai and producer
+are only here, right~?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1023001000310050,雛菜,ん～、どうかな～？,"Mn~, I wonder~?"
+1023001000310060,雛菜,"なんか言ってたけど
+すぐばいばいしてきちゃったから知らないや～","They were saying something,
+but I went bye bye right away, so I dunno~"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1023001000310070,雛菜,"え～～～
+それだけ～？","Eh~~~
+That's it~?"
+1023001000310080,雛菜,"プロデューサー、
+雛菜がいなくなっちゃってもいいの～？","Producer,
+if Hinana wasn't here, you wouldn't care~?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102300100031.json,
+译者,,
