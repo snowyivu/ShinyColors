@@ -347,3 +347,692 @@ Vocalタイプ,Vocal Set
 スピードくじ,Speed Lotto
 難易度とレベルを選択してください,Please select difficulty level
 推奨ランク,Rec Rank
+初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,First please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol~
+プロデュースアイドル確認,Confirm Idol
+櫻木真乃で\nチュートリアルを開始しますか？,Start the tutorial with\nMano Sakuragi?
+プロデューサーさん、アイドルの体力が減っている事に\n気付きましたか？,"Producer, did you notice your idol's\nStamina decreased?"
+まれに、朝、アイドルから話しかけられることがありますよ,"Morning conversations can pop up."
+事務所ではアイドルとコミュニケーションを取ることが\nできるんですよ,You're able to communicate with your idol\r\nin the office.
+まずは、1つ目の「スキル」選択してみましょう～,"First, let's choose the skill here~"
+選択した「スキル」と同じジャンルの\n「担当審査員」に使うと『好印象』を得られますので\n覚えておいてくださいね～,"Choosing a judge with the same specialty\nas your skill will get a good reaction.\nPlease keep this in mind~"
+２ターン目はこちらの「スキル」を\n選択してみてください,"For turn 2 please choose\nthis skill."
+３ターン目はこちらの「スキル」を\n選択してみてください,"For turn 3 please choose\nthis skill."
+真乃,Mano
+灯織,Hiori
+めぐる,Meguru
+恋鐘,Kogane
+摩美々,Mamimi
+咲耶,Sakuya
+結華,Yuika
+霧子,Kiriko
+果穂,Kaho
+智代子,Chiyoko
+樹里,Juri
+凛世,Rinze
+夏葉,Natsuha
+甘奈,Amana
+甜花,Tenka
+千雪,Chiyuki
+あさひ,Asahi
+優子,Fuyuko
+愛依,Mei
+透,Toru
+円香,Madoka
+小糸,Koito
+雛菜,Hinana
+利用規約とプライバシーポリシーに同意してから\n本サービスをご利用ください。\nまた、未成年の方は、法定代理人（ご両親等）の\n同意が必要です。,"Please agree to the Terms of Service and\nPrivacy Policy to use this service.\nIf you are a minor, you will need\na legal guardian's approval."
+これによりLINEへの自動投稿が許可されることはありません,This won't allow automated posting on LINE
+アカウント認証するとenzaユーザーアカウントが作成されます,Authenticating the account will create an enza account
+すでに連携済のデータがある場合、現在のゲームデータは連携されずに消去されます,"If an account is already linked, the current game data will be erased"
+すでにenzaアカウントをお持ちの方はこちら,Click here if you already have an enza account
+風野灯織で\nチュートリアルを開始しますか？,Start the tutorial with\nHiori Kazano?
+八宮めぐるで\nチュートリアルを開始しますか？,Start the tutorial with\nMeguru Hachimiya?
+月岡恋鐘で\nチュートリアルを開始しますか？,Start the tutorial with\nKogane Tsukioka?
+田中摩美々で\nチュートリアルを開始しますか？,Start the tutorial with\nMamimi Tanaka?
+白瀬咲耶で\nチュートリアルを開始しますか？,Start the tutorial with\nSakuya Shirase?
+三峰結華で\nチュートリアルを開始しますか？,Start the tutorial with\nYuika Mitsumine?
+幽谷霧子で\nチュートリアルを開始しますか？,Start the tutorial with\nKiriko Yukoku?
+小宮果穂で\nチュートリアルを開始しますか？,Start the tutorial with\nKaho Komiya?
+園田智代子で\nチュートリアルを開始しますか？,Start the tutorial with\nChiyoko Sonoda?
+西城樹里で\nチュートリアルを開始しますか？,Start the tutorial with\nJuri Saijo?
+杜野凛世で\nチュートリアルを開始しますか？,Start the tutorial with\nRinze Morino?
+有栖川夏葉で\nチュートリアルを開始しますか？,Start the tutorial with\nNatsuha Arisugawa?
+大崎甘奈で\nチュートリアルを開始しますか？,Start the tutorial with\nAmana Osaki?
+大崎甜花で\nチュートリアルを開始しますか？,Start the tutorial with\nTenka Osaki?
+桑山千雪で\nチュートリアルを開始しますか？,Start the tutorial with\nChiyuki Kuwayama?
+芹沢あさひで\nチュートリアルを開始しますか？,Start the tutorial with\nAsahi Serizawa?
+黛冬優子で\nチュートリアルを開始しますか？,Start the tutorial with\nFuyuko Mayuzumi?
+和泉愛依で\nチュートリアルを開始しますか？,Start the tutorial with\nMei Izumi?
+浅倉透で\nチュートリアルを開始しますか？,Start the tutorial with\nToru Asakura?
+樋口円香で\nチュートリアルを開始しますか？,Start the tutorial with\nMadoka Higuchi?
+福丸小糸で\nチュートリアルを開始しますか？,Start the tutorial with\nKoito Fukumaru?
+市川雛菜で\nチュートリアルを開始しますか？,Start the tutorial with\nHinana Ichikawa?
+アイドルロード,Idol Road
+ミッション達成数,Missions Cleared
+ミッションをクリアして進めよう,Clear Missions to Move Forward
+和泉愛依をホームユニットに編成しよう,Place Mei Izumi in your home unit
+和泉愛依を1回プロデュースしよう,Produce Mei Izumi 1 time
+和泉愛依を2回プロデュースしよう,Produce Mei Izumi 2 times
+和泉愛依を3回プロデュースしよう,Produce Mei Izumi 3 times
+和泉愛依を5回プロデュースしよう,Produce Mei Izumi 5 times
+和泉愛依をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Mei Izumi
+和泉愛依をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Mei Izumi
+和泉愛依の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Mei Izumi
+和泉愛依の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Mei Izumi
+和泉愛依の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Mei Izumi
+和泉愛依の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Mei Izumi
+和泉愛依をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Mei Izumi as a Center, play Grade Fes Level 2 or above"
+和泉愛依をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Mei Izumi as a Center, play Grade Fes Level 2 or above 3 times"
+和泉愛依をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Mei Izumi as a Center, play Grade Fes Level 3 or above"
+和泉愛依を含めた編成で営業を1回しよう,Have Mei Izumi complete 1 Job
+和泉愛依を含めた編成で営業を5回しよう,Have Mei Izumi complete 5 Jobs
+和泉愛依を含めた編成で営業を10回しよう,Have Mei Izumi complete 10 Jobs
+和泉愛依を含めた編成で営業を20回しよう,Have Mei Izumi complete 20 Jobs
+和泉愛依をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Mei Izumi with 400 or more Vocal
+和泉愛依をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Mei Izumi with 400 or more Dance
+和泉愛依をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Mei Izumi with 400 or more Visual
+和泉愛依をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Mei Izumi with 400 or more Mental
+和泉愛依をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Mei Izumi
+和泉愛依をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Mei Izumi"
+和泉愛依をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Mei Izumi"
+和泉愛依をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Mei Izumi"
+櫻木真乃をホームユニットに編成しよう,Place Mano Sakuragi in your home unit
+櫻木真乃を1回プロデュースしよう,Produce Mano Sakuragi 1 time
+櫻木真乃を2回プロデュースしよう,Produce Mano Sakuragi 2 times
+櫻木真乃を3回プロデュースしよう,Produce Mano Sakuragi 3 times
+櫻木真乃を5回プロデュースしよう,Produce Mano Sakuragi 5 times
+櫻木真乃をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Mano Sakuragi
+櫻木真乃をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Mano Sakuragi
+櫻木真乃の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Mano Sakuragi
+櫻木真乃の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Mano Sakuragi
+櫻木真乃の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Mano Sakuragi
+櫻木真乃の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Mano Sakuragi
+櫻木真乃をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Mano Sakuragi as a Center, play Grade Fes Level 2 or above"
+櫻木真乃をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Mano Sakuragi as a Center, play Grade Fes Level 2 or above 3 times"
+櫻木真乃をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Mano Sakuragi as a Center, play Grade Fes Level 3 or above"
+櫻木真乃を含めた編成で営業を1回しよう,Have Mano Sakuragi complete 1 Job
+櫻木真乃を含めた編成で営業を5回しよう,Have Mano Sakuragi complete 5 Jobs
+櫻木真乃を含めた編成で営業を10回しよう,Have Mano Sakuragi complete 10 Jobs
+櫻木真乃を含めた編成で営業を20回しよう,Have Mano Sakuragi complete 20 Jobs
+櫻木真乃をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Mano Sakuragi with 400 or more Vocal
+櫻木真乃をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Mano Sakuragi with 400 or more Dance
+櫻木真乃をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Mano Sakuragi with 400 or more Visual
+櫻木真乃をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Mano Sakuragi with 400 or more Mental
+櫻木真乃をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Mano Sakuragi
+櫻木真乃をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Mano Sakuragi"
+櫻木真乃をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Mano Sakuragi"
+櫻木真乃をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Mano Sakuragi"
+風野灯織をホームユニットに編成しよう,Place Hiori Kazano in your home unit
+風野灯織を1回プロデュースしよう,Produce Hiori Kazano 1 time
+風野灯織を2回プロデュースしよう,Produce Hiori Kazano 2 times
+風野灯織を3回プロデュースしよう,Produce Hiori Kazano 3 times
+風野灯織を5回プロデュースしよう,Produce Hiori Kazano 5 times
+風野灯織をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Hiori Kazano
+風野灯織をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Hiori Kazano
+風野灯織の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Hiori Kazano
+風野灯織の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Hiori Kazano
+風野灯織の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Hiori Kazano
+風野灯織の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Hiori Kazano
+風野灯織をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Hiori Kazano as a Center, play Grade Fes Level 2 or above"
+風野灯織をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Hiori Kazano as a Center, play Grade Fes Level 2 or above 3 times"
+風野灯織をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Hiori Kazano as a Center, play Grade Fes Level 3 or above"
+風野灯織を含めた編成で営業を1回しよう,Have Hiori Kazano complete 1 Job
+風野灯織を含めた編成で営業を5回しよう,Have Hiori Kazano complete 5 Jobs
+風野灯織を含めた編成で営業を10回しよう,Have Hiori Kazano complete 10 Jobs
+風野灯織を含めた編成で営業を20回しよう,Have Hiori Kazano complete 20 Jobs
+風野灯織をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Hiori Kazano with 400 or more Vocal
+風野灯織をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Hiori Kazano with 400 or more Dance
+風野灯織をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Hiori Kazano with 400 or more Visual
+風野灯織をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Hiori Kazano with 400 or more Mental
+風野灯織をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Hiori Kazano
+風野灯織をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Hiori Kazano"
+風野灯織をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Hiori Kazano"
+風野灯織をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Hiori Kazano"
+八宮めぐるをホームユニットに編成しよう,Place Meguru Hachimiya in your home unit
+八宮めぐるを1回プロデュースしよう,Produce Meguru Hachimiya 1 time
+八宮めぐるを2回プロデュースしよう,Produce Meguru Hachimiya 2 times
+八宮めぐるを3回プロデュースしよう,Produce Meguru Hachimiya 3 times
+八宮めぐるを5回プロデュースしよう,Produce Meguru Hachimiya 5 times
+八宮めぐるをCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Meguru Hachimiya
+八宮めぐるをBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Meguru Hachimiya
+八宮めぐるの思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Meguru Hachimiya
+八宮めぐるの思い出レベルを5にしよう,Reach Memory Appeal level 5 with Meguru Hachimiya
+八宮めぐるの信頼度を３以上にしよう,Reach Trust Level 3 or higher with Meguru Hachimiya
+八宮めぐるの信頼度を５以上にしよう,Reach Trust Level 5 or higher with Meguru Hachimiya
+八宮めぐるをセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Meguru Hachimiya as a Center, play Grade Fes Level 2 or above"
+八宮めぐるをセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Meguru Hachimiya as a Center, play Grade Fes Level 2 or above 3 times"
+八宮めぐるをセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Meguru Hachimiya as a Center, play Grade Fes Level 3 or above"
+八宮めぐるを含めた編成で営業を1回しよう,Have Meguru Hachimiya complete 1 Job
+八宮めぐるを含めた編成で営業を5回しよう,Have Meguru Hachimiya complete 5 Jobs
+八宮めぐるを含めた編成で営業を10回しよう,Have Meguru Hachimiya complete 10 Jobs
+八宮めぐるを含めた編成で営業を20回しよう,Have Meguru Hachimiya complete 20 Jobs
+八宮めぐるをプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Meguru Hachimiya with 400 or more Vocal
+八宮めぐるをプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Meguru Hachimiya with 400 or more Dance
+八宮めぐるをプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Meguru Hachimiya with 400 or more Visual
+八宮めぐるをプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Meguru Hachimiya with 400 or more Mental
+八宮めぐるをプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Meguru Hachimiya
+八宮めぐるをプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Meguru Hachimiya"
+八宮めぐるをプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Meguru Hachimiya"
+八宮めぐるをプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Meguru Hachimiya"
+月岡恋鐘をホームユニットに編成しよう,Place Kogane Tsukioka in your home unit
+月岡恋鐘を1回プロデュースしよう,Produce Kogane Tsukioka 1 time
+月岡恋鐘を2回プロデュースしよう,Produce Kogane Tsukioka 2 times
+月岡恋鐘を3回プロデュースしよう,Produce Kogane Tsukioka 3 times
+月岡恋鐘を5回プロデュースしよう,Produce Kogane Tsukioka 5 times
+月岡恋鐘をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Kogane Tsukioka
+月岡恋鐘をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Kogane Tsukioka
+月岡恋鐘の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Kogane Tsukioka
+月岡恋鐘の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Kogane Tsukioka
+月岡恋鐘の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Kogane Tsukioka
+月岡恋鐘の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Kogane Tsukioka
+月岡恋鐘をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Kogane Tsukioka as a Center, play Grade Fes Level 2 or above"
+月岡恋鐘をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Kogane Tsukioka as a Center, play Grade Fes Level 2 or above 3 times"
+月岡恋鐘をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Kogane Tsukioka as a Center, play Grade Fes Level 3 or above"
+月岡恋鐘を含めた編成で営業を1回しよう,Have Kogane Tsukioka complete 1 Job
+月岡恋鐘を含めた編成で営業を5回しよう,Have Kogane Tsukioka complete 5 Jobs
+月岡恋鐘を含めた編成で営業を10回しよう,Have Kogane Tsukioka complete 10 Jobs
+月岡恋鐘を含めた編成で営業を20回しよう,Have Kogane Tsukioka complete 20 Jobs
+月岡恋鐘をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Kogane Tsukioka with 400 or more Vocal
+月岡恋鐘をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Kogane Tsukioka with 400 or more Dance
+月岡恋鐘をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Kogane Tsukioka with 400 or more Visual
+月岡恋鐘をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Kogane Tsukioka with 400 or more Mental
+月岡恋鐘をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Kogane Tsukioka
+月岡恋鐘をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Kogane Tsukioka"
+月岡恋鐘をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Kogane Tsukioka"
+月岡恋鐘をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Kogane Tsukioka"
+田中摩美々をホームユニットに編成しよう,Place Mamimi Tanaka in your home unit
+田中摩美々を1回プロデュースしよう,Produce Mamimi Tanaka 1 time
+田中摩美々を2回プロデュースしよう,Produce Mamimi Tanaka 2 times
+田中摩美々を3回プロデュースしよう,Produce Mamimi Tanaka 3 times
+田中摩美々を5回プロデュースしよう,Produce Mamimi Tanaka 5 times
+田中摩美々をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Mamimi Tanaka
+田中摩美々をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Mamimi Tanaka
+田中摩美々の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Mamimi Tanaka
+田中摩美々の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Mamimi Tanaka
+田中摩美々の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Mamimi Tanaka
+田中摩美々の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Mamimi Tanaka
+田中摩美々をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Mamimi Tanaka as a Center, play Grade Fes Level 2 or above"
+田中摩美々をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Mamimi Tanaka as a Center, play Grade Fes Level 2 or above 3 times"
+田中摩美々をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Mamimi Tanaka as a Center, play Grade Fes Level 3 or above"
+田中摩美々を含めた編成で営業を1回しよう,Have Mamimi Tanaka complete 1 Job
+田中摩美々を含めた編成で営業を5回しよう,Have Mamimi Tanaka complete 5 Jobs
+田中摩美々を含めた編成で営業を10回しよう,Have Mamimi Tanaka complete 10 Jobs
+田中摩美々を含めた編成で営業を20回しよう,Have Mamimi Tanaka complete 20 Jobs
+田中摩美々をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Mamimi Tanaka with 400 or more Vocal
+田中摩美々をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Mamimi Tanaka with 400 or more Dance
+田中摩美々をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Mamimi Tanaka with 400 or more Visual
+田中摩美々をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Mamimi Tanaka with 400 or more Mental
+田中摩美々をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Mamimi Tanaka
+田中摩美々をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Mamimi Tanaka"
+田中摩美々をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Mamimi Tanaka"
+田中摩美々をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Mamimi Tanaka"
+白瀬咲耶をホームユニットに編成しよう,Place Sakuya Shirase in your home unit
+白瀬咲耶を1回プロデュースしよう,Produce Sakuya Shirase 1 time
+白瀬咲耶を2回プロデュースしよう,Produce Sakuya Shirase 2 times
+白瀬咲耶を3回プロデュースしよう,Produce Sakuya Shirase 3 times
+白瀬咲耶を5回プロデュースしよう,Produce Sakuya Shirase 5 times
+白瀬咲耶をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Sakuya Shirase
+白瀬咲耶をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Sakuya Shirase
+白瀬咲耶の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Sakuya Shirase
+白瀬咲耶の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Sakuya Shirase
+白瀬咲耶の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Sakuya Shirase
+白瀬咲耶の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Sakuya Shirase
+白瀬咲耶をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Sakuya Shirase as a Center, play Grade Fes Level 2 or above"
+白瀬咲耶をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Sakuya Shirase as a Center, play Grade Fes Level 2 or above 3 times"
+白瀬咲耶をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Sakuya Shirase as a Center, play Grade Fes Level 3 or above"
+白瀬咲耶を含めた編成で営業を1回しよう,Have Sakuya Shirase complete 1 Job
+白瀬咲耶を含めた編成で営業を5回しよう,Have Sakuya Shirase complete 5 Jobs
+白瀬咲耶を含めた編成で営業を10回しよう,Have Sakuya Shirase complete 10 Jobs
+白瀬咲耶を含めた編成で営業を20回しよう,Have Sakuya Shirase complete 20 Jobs
+白瀬咲耶をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Sakuya Shirase with 400 or more Vocal
+白瀬咲耶をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Sakuya Shirase with 400 or more Dance
+白瀬咲耶をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Sakuya Shirase with 400 or more Visual
+白瀬咲耶をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Sakuya Shirase with 400 or more Mental
+白瀬咲耶をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Sakuya Shirase
+白瀬咲耶をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Sakuya Shirase"
+白瀬咲耶をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Sakuya Shirase"
+白瀬咲耶をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Sakuya Shirase"
+三峰結華をホームユニットに編成しよう,Place Yuika Mitsumine in your home unit
+三峰結華を1回プロデュースしよう,Produce Yuika Mitsumine 1 time
+三峰結華を2回プロデュースしよう,Produce Yuika Mitsumine 2 times
+三峰結華を3回プロデュースしよう,Produce Yuika Mitsumine 3 times
+三峰結華を5回プロデュースしよう,Produce Yuika Mitsumine 5 times
+三峰結華をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Yuika Mitsumine
+三峰結華をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Yuika Mitsumine
+三峰結華の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Yuika Mitsumine
+三峰結華の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Yuika Mitsumine
+三峰結華の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Yuika Mitsumine
+三峰結華の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Yuika Mitsumine
+三峰結華をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Yuika Mitsumine as a Center, play Grade Fes Level 2 or above"
+三峰結華をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Yuika Mitsumine as a Center, play Grade Fes Level 2 or above 3 times"
+三峰結華をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Yuika Mitsumine as a Center, play Grade Fes Level 3 or above"
+三峰結華を含めた編成で営業を1回しよう,Have Yuika Mitsumine complete 1 Job
+三峰結華を含めた編成で営業を5回しよう,Have Yuika Mitsumine complete 5 Jobs
+三峰結華を含めた編成で営業を10回しよう,Have Yuika Mitsumine complete 10 Jobs
+三峰結華を含めた編成で営業を20回しよう,Have Yuika Mitsumine complete 20 Jobs
+三峰結華をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Yuika Mitsumine with 400 or more Vocal
+三峰結華をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Yuika Mitsumine with 400 or more Dance
+三峰結華をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Yuika Mitsumine with 400 or more Visual
+三峰結華をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Yuika Mitsumine with 400 or more Mental
+三峰結華をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Yuika Mitsumine
+三峰結華をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Yuika Mitsumine"
+三峰結華をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Yuika Mitsumine"
+三峰結華をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Yuika Mitsumine"
+幽谷霧子をホームユニットに編成しよう,Place Kiriko Yukoku in your home unit
+幽谷霧子を1回プロデュースしよう,Produce Kiriko Yukoku 1 time
+幽谷霧子を2回プロデュースしよう,Produce Kiriko Yukoku 2 times
+幽谷霧子を3回プロデュースしよう,Produce Kiriko Yukoku 3 times
+幽谷霧子を5回プロデュースしよう,Produce Kiriko Yukoku 5 times
+幽谷霧子をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Kiriko Yukoku
+幽谷霧子をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Kiriko Yukoku
+幽谷霧子の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Kiriko Yukoku
+幽谷霧子の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Kiriko Yukoku
+幽谷霧子の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Kiriko Yukoku
+幽谷霧子の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Kiriko Yukoku
+幽谷霧子をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Kiriko Yukoku as a Center, play Grade Fes Level 2 or above"
+幽谷霧子をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Kiriko Yukoku as a Center, play Grade Fes Level 2 or above 3 times"
+幽谷霧子をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Kiriko Yukoku as a Center, play Grade Fes Level 3 or above"
+幽谷霧子を含めた編成で営業を1回しよう,Have Kiriko Yukoku complete 1 Job
+幽谷霧子を含めた編成で営業を5回しよう,Have Kiriko Yukoku complete 5 Jobs
+幽谷霧子を含めた編成で営業を10回しよう,Have Kiriko Yukoku complete 10 Jobs
+幽谷霧子を含めた編成で営業を20回しよう,Have Kiriko Yukoku complete 20 Jobs
+幽谷霧子をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Kiriko Yukoku with 400 or more Vocal
+幽谷霧子をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Kiriko Yukoku with 400 or more Dance
+幽谷霧子をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Kiriko Yukoku with 400 or more Visual
+幽谷霧子をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Kiriko Yukoku with 400 or more Mental
+幽谷霧子をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Kiriko Yukoku
+幽谷霧子をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Kiriko Yukoku"
+幽谷霧子をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Kiriko Yukoku"
+幽谷霧子をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Kiriko Yukoku"
+小宮果穂をホームユニットに編成しよう,Place Kaho Komiya in your home unit
+小宮果穂を1回プロデュースしよう,Produce Kaho Komiya 1 time
+小宮果穂を2回プロデュースしよう,Produce Kaho Komiya 2 times
+小宮果穂を3回プロデュースしよう,Produce Kaho Komiya 3 times
+小宮果穂を5回プロデュースしよう,Produce Kaho Komiya 5 times
+小宮果穂をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Kaho Komiya
+小宮果穂をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Kaho Komiya
+小宮果穂の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Kaho Komiya
+小宮果穂の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Kaho Komiya
+小宮果穂の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Kaho Komiya
+小宮果穂の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Kaho Komiya
+小宮果穂をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Kaho Komiya as a Center, play Grade Fes Level 2 or above"
+小宮果穂をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Kaho Komiya as a Center, play Grade Fes Level 2 or above 3 times"
+小宮果穂をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Kaho Komiya as a Center, play Grade Fes Level 3 or above"
+小宮果穂を含めた編成で営業を1回しよう,Have Kaho Komiya complete 1 Job
+小宮果穂を含めた編成で営業を5回しよう,Have Kaho Komiya complete 5 Jobs
+小宮果穂を含めた編成で営業を10回しよう,Have Kaho Komiya complete 10 Jobs
+小宮果穂を含めた編成で営業を20回しよう,Have Kaho Komiya complete 20 Jobs
+小宮果穂をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Kaho Komiya with 400 or more Vocal
+小宮果穂をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Kaho Komiya with 400 or more Dance
+小宮果穂をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Kaho Komiya with 400 or more Visual
+小宮果穂をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Kaho Komiya with 400 or more Mental
+小宮果穂をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Kaho Komiya
+小宮果穂をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Kaho Komiya"
+小宮果穂をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Kaho Komiya"
+小宮果穂をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Kaho Komiya"
+園田智代子をホームユニットに編成しよう,Place Chiyoko Sonoda in your home unit
+園田智代子を1回プロデュースしよう,Produce Chiyoko Sonoda 1 time
+園田智代子を2回プロデュースしよう,Produce Chiyoko Sonoda 2 times
+園田智代子を3回プロデュースしよう,Produce Chiyoko Sonoda 3 times
+園田智代子を5回プロデュースしよう,Produce Chiyoko Sonoda 5 times
+園田智代子をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Chiyoko Sonoda
+園田智代子をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Chiyoko Sonoda
+園田智代子の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Chiyoko Sonoda
+園田智代子の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Chiyoko Sonoda
+園田智代子の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Chiyoko Sonoda
+園田智代子の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Chiyoko Sonoda
+園田智代子をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Chiyoko Sonoda as a Center, play Grade Fes Level 2 or above"
+園田智代子をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Chiyoko Sonoda as a Center, play Grade Fes Level 2 or above 3 times"
+園田智代子をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Chiyoko Sonoda as a Center, play Grade Fes Level 3 or above"
+園田智代子を含めた編成で営業を1回しよう,Have Chiyoko Sonoda complete 1 Job
+園田智代子を含めた編成で営業を5回しよう,Have Chiyoko Sonoda complete 5 Jobs
+園田智代子を含めた編成で営業を10回しよう,Have Chiyoko Sonoda complete 10 Jobs
+園田智代子を含めた編成で営業を20回しよう,Have Chiyoko Sonoda complete 20 Jobs
+園田智代子をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Chiyoko Sonoda with 400 or more Vocal
+園田智代子をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Chiyoko Sonoda with 400 or more Dance
+園田智代子をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Chiyoko Sonoda with 400 or more Visual
+園田智代子をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Chiyoko Sonoda with 400 or more Mental
+園田智代子をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Chiyoko Sonoda
+園田智代子をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Chiyoko Sonoda"
+園田智代子をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Chiyoko Sonoda"
+園田智代子をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Chiyoko Sonoda"
+西城樹里をホームユニットに編成しよう,Place Juri Saijo in your home unit
+西城樹里を1回プロデュースしよう,Produce Juri Saijo 1 time
+西城樹里を2回プロデュースしよう,Produce Juri Saijo 2 times
+西城樹里を3回プロデュースしよう,Produce Juri Saijo 3 times
+西城樹里を5回プロデュースしよう,Produce Juri Saijo 5 times
+西城樹里をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Juri Saijo
+西城樹里をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Juri Saijo
+西城樹里の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Juri Saijo
+西城樹里の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Juri Saijo
+西城樹里の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Juri Saijo
+西城樹里の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Juri Saijo
+西城樹里をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Juri Saijo as a Center, play Grade Fes Level 2 or above"
+西城樹里をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Juri Saijo as a Center, play Grade Fes Level 2 or above 3 times"
+西城樹里をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Juri Saijo as a Center, play Grade Fes Level 3 or above"
+西城樹里を含めた編成で営業を1回しよう,Have Juri Saijo complete 1 Job
+西城樹里を含めた編成で営業を5回しよう,Have Juri Saijo complete 5 Jobs
+西城樹里を含めた編成で営業を10回しよう,Have Juri Saijo complete 10 Jobs
+西城樹里を含めた編成で営業を20回しよう,Have Juri Saijo complete 20 Jobs
+西城樹里をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Juri Saijo with 400 or more Vocal
+西城樹里をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Juri Saijo with 400 or more Dance
+西城樹里をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Juri Saijo with 400 or more Visual
+西城樹里をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Juri Saijo with 400 or more Mental
+西城樹里をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Juri Saijo
+西城樹里をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Juri Saijo"
+西城樹里をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Juri Saijo"
+西城樹里をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Juri Saijo"
+杜野凛世をホームユニットに編成しよう,Place Rinze Morino in your home unit
+杜野凛世を1回プロデュースしよう,Produce Rinze Morino 1 time
+杜野凛世を2回プロデュースしよう,Produce Rinze Morino 2 times
+杜野凛世を3回プロデュースしよう,Produce Rinze Morino 3 times
+杜野凛世を5回プロデュースしよう,Produce Rinze Morino 5 times
+杜野凛世をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Rinze Morino
+杜野凛世をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Rinze Morino
+杜野凛世の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Rinze Morino
+杜野凛世の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Rinze Morino
+杜野凛世の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Rinze Morino
+杜野凛世の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Rinze Morino
+杜野凛世をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Rinze Morino as a Center, play Grade Fes Level 2 or above"
+杜野凛世をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Rinze Morino as a Center, play Grade Fes Level 2 or above 3 times"
+杜野凛世をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Rinze Morino as a Center, play Grade Fes Level 3 or above"
+杜野凛世を含めた編成で営業を1回しよう,Have Rinze Morino complete 1 Job
+杜野凛世を含めた編成で営業を5回しよう,Have Rinze Morino complete 5 Jobs
+杜野凛世を含めた編成で営業を10回しよう,Have Rinze Morino complete 10 Jobs
+杜野凛世を含めた編成で営業を20回しよう,Have Rinze Morino complete 20 Jobs
+杜野凛世をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Rinze Morino with 400 or more Vocal
+杜野凛世をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Rinze Morino with 400 or more Dance
+杜野凛世をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Rinze Morino with 400 or more Visual
+杜野凛世をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Rinze Morino with 400 or more Mental
+杜野凛世をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Rinze Morino
+杜野凛世をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Rinze Morino"
+杜野凛世をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Rinze Morino"
+杜野凛世をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Rinze Morino"
+有栖川夏葉をホームユニットに編成しよう,Place Natsuha Arisugawa in your home unit
+有栖川夏葉を1回プロデュースしよう,Produce Natsuha Arisugawa 1 time
+有栖川夏葉を2回プロデュースしよう,Produce Natsuha Arisugawa 2 times
+有栖川夏葉を3回プロデュースしよう,Produce Natsuha Arisugawa 3 times
+有栖川夏葉を5回プロデュースしよう,Produce Natsuha Arisugawa 5 times
+有栖川夏葉をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Natsuha Arisugawa
+有栖川夏葉をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Natsuha Arisugawa
+有栖川夏葉の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Natsuha Arisugawa
+有栖川夏葉の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Natsuha Arisugawa
+有栖川夏葉の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Natsuha Arisugawa
+有栖川夏葉の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Natsuha Arisugawa
+有栖川夏葉をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Natsuha Arisugawa as a Center, play Grade Fes Level 2 or above"
+有栖川夏葉をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Natsuha Arisugawa as a Center, play Grade Fes Level 2 or above 3 times"
+有栖川夏葉をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Natsuha Arisugawa as a Center, play Grade Fes Level 3 or above"
+有栖川夏葉を含めた編成で営業を1回しよう,Have Natsuha Arisugawa complete 1 Job
+有栖川夏葉を含めた編成で営業を5回しよう,Have Natsuha Arisugawa complete 5 Jobs
+有栖川夏葉を含めた編成で営業を10回しよう,Have Natsuha Arisugawa complete 10 Jobs
+有栖川夏葉を含めた編成で営業を20回しよう,Have Natsuha Arisugawa complete 20 Jobs
+有栖川夏葉をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Natsuha Arisugawa with 400 or more Vocal
+有栖川夏葉をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Natsuha Arisugawa with 400 or more Dance
+有栖川夏葉をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Natsuha Arisugawa with 400 or more Visual
+有栖川夏葉をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Natsuha Arisugawa with 400 or more Mental
+有栖川夏葉をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Natsuha Arisugawa
+有栖川夏葉をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Natsuha Arisugawa"
+有栖川夏葉をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Natsuha Arisugawa"
+有栖川夏葉をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Natsuha Arisugawa"
+大崎甘奈をホームユニットに編成しよう,Place Amana Osaki in your home unit
+大崎甘奈を1回プロデュースしよう,Produce Amana Osaki 1 time
+大崎甘奈を2回プロデュースしよう,Produce Amana Osaki 2 times
+大崎甘奈を3回プロデュースしよう,Produce Amana Osaki 3 times
+大崎甘奈を5回プロデュースしよう,Produce Amana Osaki 5 times
+大崎甘奈をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Amana Osaki
+大崎甘奈をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Amana Osaki
+大崎甘奈の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Amana Osaki
+大崎甘奈の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Amana Osaki
+大崎甘奈の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Amana Osaki
+大崎甘奈の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Amana Osaki
+大崎甘奈をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Amana Osaki as a Center, play Grade Fes Level 2 or above"
+大崎甘奈をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Amana Osaki as a Center, play Grade Fes Level 2 or above 3 times"
+大崎甘奈をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Amana Osaki as a Center, play Grade Fes Level 3 or above"
+大崎甘奈を含めた編成で営業を1回しよう,Have Amana Osaki complete 1 Job
+大崎甘奈を含めた編成で営業を5回しよう,Have Amana Osaki complete 5 Jobs
+大崎甘奈を含めた編成で営業を10回しよう,Have Amana Osaki complete 10 Jobs
+大崎甘奈を含めた編成で営業を20回しよう,Have Amana Osaki complete 20 Jobs
+大崎甘奈をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Amana Osaki with 400 or more Vocal
+大崎甘奈をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Amana Osaki with 400 or more Dance
+大崎甘奈をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Amana Osaki with 400 or more Visual
+大崎甘奈をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Amana Osaki with 400 or more Mental
+大崎甘奈をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Amana Osaki
+大崎甘奈をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Amana Osaki"
+大崎甘奈をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Amana Osaki"
+大崎甘奈をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Amana Osaki"
+大崎甜花をホームユニットに編成しよう,Place Tenka Osaki in your home unit
+大崎甜花を1回プロデュースしよう,Produce Tenka Osaki 1 time
+大崎甜花を2回プロデュースしよう,Produce Tenka Osaki 2 times
+大崎甜花を3回プロデュースしよう,Produce Tenka Osaki 3 times
+大崎甜花を5回プロデュースしよう,Produce Tenka Osaki 5 times
+大崎甜花をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Tenka Osaki
+大崎甜花をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Tenka Osaki
+大崎甜花の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Tenka Osaki
+大崎甜花の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Tenka Osaki
+大崎甜花の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Tenka Osaki
+大崎甜花の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Tenka Osaki
+大崎甜花をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Tenka Osaki as a Center, play Grade Fes Level 2 or above"
+大崎甜花をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Tenka Osaki as a Center, play Grade Fes Level 2 or above 3 times"
+大崎甜花をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Tenka Osaki as a Center, play Grade Fes Level 3 or above"
+大崎甜花を含めた編成で営業を1回しよう,Have Tenka Osaki complete 1 Job
+大崎甜花を含めた編成で営業を5回しよう,Have Tenka Osaki complete 5 Jobs
+大崎甜花を含めた編成で営業を10回しよう,Have Tenka Osaki complete 10 Jobs
+大崎甜花を含めた編成で営業を20回しよう,Have Tenka Osaki complete 20 Jobs
+大崎甜花をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Tenka Osaki with 400 or more Vocal
+大崎甜花をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Tenka Osaki with 400 or more Dance
+大崎甜花をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Tenka Osaki with 400 or more Visual
+大崎甜花をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Tenka Osaki with 400 or more Mental
+大崎甜花をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Tenka Osaki
+大崎甜花をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Tenka Osaki"
+大崎甜花をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Tenka Osaki"
+大崎甜花をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Tenka Osaki"
+桑山千雪をホームユニットに編成しよう,Place Chiyuki Kuwayama in your home unit
+桑山千雪を1回プロデュースしよう,Produce Chiyuki Kuwayama 1 time
+桑山千雪を2回プロデュースしよう,Produce Chiyuki Kuwayama 2 times
+桑山千雪を3回プロデュースしよう,Produce Chiyuki Kuwayama 3 times
+桑山千雪を5回プロデュースしよう,Produce Chiyuki Kuwayama 5 times
+桑山千雪をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Chiyuki Kuwayama
+桑山千雪をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Chiyuki Kuwayama
+桑山千雪の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Chiyuki Kuwayama
+桑山千雪の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Chiyuki Kuwayama
+桑山千雪の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Chiyuki Kuwayama
+桑山千雪の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Chiyuki Kuwayama
+桑山千雪をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Chiyuki Kuwayama as a Center, play Grade Fes Level 2 or above"
+桑山千雪をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Chiyuki Kuwayama as a Center, play Grade Fes Level 2 or above 3 times"
+桑山千雪をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Chiyuki Kuwayama as a Center, play Grade Fes Level 3 or above"
+桑山千雪を含めた編成で営業を1回しよう,Have Chiyuki Kuwayama complete 1 Job
+桑山千雪を含めた編成で営業を5回しよう,Have Chiyuki Kuwayama complete 5 Jobs
+桑山千雪を含めた編成で営業を10回しよう,Have Chiyuki Kuwayama complete 10 Jobs
+桑山千雪を含めた編成で営業を20回しよう,Have Chiyuki Kuwayama complete 20 Jobs
+桑山千雪をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Chiyuki Kuwayama with 400 or more Vocal
+桑山千雪をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Chiyuki Kuwayama with 400 or more Dance
+桑山千雪をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Chiyuki Kuwayama with 400 or more Visual
+桑山千雪をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Chiyuki Kuwayama with 400 or more Mental
+桑山千雪をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Chiyuki Kuwayama
+桑山千雪をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Chiyuki Kuwayama"
+桑山千雪をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Chiyuki Kuwayama"
+桑山千雪をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Chiyuki Kuwayama"
+芹沢あさひをホームユニットに編成しよう,Place Asahi Serizawa in your home unit
+芹沢あさひを1回プロデュースしよう,Produce Asahi Serizawa 1 time
+芹沢あさひを2回プロデュースしよう,Produce Asahi Serizawa 2 times
+芹沢あさひを3回プロデュースしよう,Produce Asahi Serizawa 3 times
+芹沢あさひを5回プロデュースしよう,Produce Asahi Serizawa 5 times
+芹沢あさひをCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Asahi Serizawa
+芹沢あさひをBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Asahi Serizawa
+芹沢あさひの思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Asahi Serizawa
+芹沢あさひの思い出レベルを5にしよう,Reach Memory Appeal level 5 with Asahi Serizawa
+芹沢あさひの信頼度を３以上にしよう,Reach Trust Level 3 or higher with Asahi Serizawa
+芹沢あさひの信頼度を５以上にしよう,Reach Trust Level 5 or higher with Asahi Serizawa
+芹沢あさひをセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Asahi Serizawa as a Center, play Grade Fes Level 2 or above"
+芹沢あさひをセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Asahi Serizawa as a Center, play Grade Fes Level 2 or above 3 times"
+芹沢あさひをセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Asahi Serizawa as a Center, play Grade Fes Level 3 or above"
+芹沢あさひを含めた編成で営業を1回しよう,Have Asahi Serizawa complete 1 Job
+芹沢あさひを含めた編成で営業を5回しよう,Have Asahi Serizawa complete 5 Jobs
+芹沢あさひを含めた編成で営業を10回しよう,Have Asahi Serizawa complete 10 Jobs
+芹沢あさひを含めた編成で営業を20回しよう,Have Asahi Serizawa complete 20 Jobs
+芹沢あさひをプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Asahi Serizawa with 400 or more Vocal
+芹沢あさひをプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Asahi Serizawa with 400 or more Dance
+芹沢あさひをプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Asahi Serizawa with 400 or more Visual
+芹沢あさひをプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Asahi Serizawa with 400 or more Mental
+芹沢あさひをプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Asahi Serizawa
+芹沢あさひをプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Asahi Serizawa"
+芹沢あさひをプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Asahi Serizawa"
+芹沢あさひをプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Asahi Serizawa"
+黛冬優子をホームユニットに編成しよう,Place Fuyuko Mayuzumi in your home unit
+黛冬優子を1回プロデュースしよう,Produce Fuyuko Mayuzumi 1 time
+黛冬優子を2回プロデュースしよう,Produce Fuyuko Mayuzumi 2 times
+黛冬優子を3回プロデュースしよう,Produce Fuyuko Mayuzumi 3 times
+黛冬優子を5回プロデュースしよう,Produce Fuyuko Mayuzumi 5 times
+黛冬優子をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Fuyuko Mayuzumi
+黛冬優子をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Fuyuko Mayuzumi
+黛冬優子の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Fuyuko Mayuzumi
+黛冬優子の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Fuyuko Mayuzumi
+黛冬優子の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Fuyuko Mayuzumi
+黛冬優子の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Fuyuko Mayuzumi
+黛冬優子をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Fuyuko Mayuzumi as a Center, play Grade Fes Level 2 or above"
+黛冬優子をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Fuyuko Mayuzumi as a Center, play Grade Fes Level 2 or above 3 times"
+黛冬優子をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Fuyuko Mayuzumi as a Center, play Grade Fes Level 3 or above"
+黛冬優子を含めた編成で営業を1回しよう,Have Fuyuko Mayuzumi complete 1 Job
+黛冬優子を含めた編成で営業を5回しよう,Have Fuyuko Mayuzumi complete 5 Jobs
+黛冬優子を含めた編成で営業を10回しよう,Have Fuyuko Mayuzumi complete 10 Jobs
+黛冬優子を含めた編成で営業を20回しよう,Have Fuyuko Mayuzumi complete 20 Jobs
+黛冬優子をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Fuyuko Mayuzumi with 400 or more Vocal
+黛冬優子をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Fuyuko Mayuzumi with 400 or more Dance
+黛冬優子をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Fuyuko Mayuzumi with 400 or more Visual
+黛冬優子をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Fuyuko Mayuzumi with 400 or more Mental
+黛冬優子をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Fuyuko Mayuzumi
+黛冬優子をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Fuyuko Mayuzumi"
+黛冬優子をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Fuyuko Mayuzumi"
+黛冬優子をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Fuyuko Mayuzumi"
+浅倉透をホームユニットに編成しよう,Place Toru in your home unit
+浅倉透を1回プロデュースしよう,Produce Toru 1 time
+浅倉透を2回プロデュースしよう,Produce Toru 2 times
+浅倉透を3回プロデュースしよう,Produce Toru 3 times
+浅倉透を5回プロデュースしよう,Produce Toru 5 times
+浅倉透をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Toru
+浅倉透をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Toru
+浅倉透の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Toru
+浅倉透の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Toru
+浅倉透の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Toru
+浅倉透の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Toru
+浅倉透をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Toru as a Center, play Grade Fes Level 2 or above"
+浅倉透をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Toru as a Center, play Grade Fes Level 2 or above 3 times"
+浅倉透をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Toru as a Center, play Grade Fes Level 3 or above"
+浅倉透を含めた編成で営業を1回しよう,Have Toru complete 1 Job
+浅倉透を含めた編成で営業を5回しよう,Have Toru complete 5 Jobs
+浅倉透を含めた編成で営業を10回しよう,Have Toru complete 10 Jobs
+浅倉透を含めた編成で営業を20回しよう,Have Toru complete 20 Jobs
+浅倉透をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Toru with 400 or more Vocal
+浅倉透をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Toru with 400 or more Dance
+浅倉透をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Toru with 400 or more Visual
+浅倉透をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Toru with 400 or more Mental
+浅倉透をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Toru
+浅倉透をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Toru"
+浅倉透をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Toru"
+浅倉透をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Toru"
+樋口円香をホームユニットに編成しよう,Place Madoka Higuchi in your home unit
+樋口円香を1回プロデュースしよう,Produce Madoka Higuchi 1 time
+樋口円香を2回プロデュースしよう,Produce Madoka Higuchi 2 times
+樋口円香を3回プロデュースしよう,Produce Madoka Higuchi 3 times
+樋口円香を5回プロデュースしよう,Produce Madoka Higuchi 5 times
+樋口円香をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Madoka Higuchi
+樋口円香をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Madoka Higuchi
+樋口円香の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Madoka Higuchi
+樋口円香の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Madoka Higuchi
+樋口円香の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Madoka Higuchi
+樋口円香の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Madoka Higuchi
+樋口円香をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Madoka Higuchi as a Center, play Grade Fes Level 2 or above"
+樋口円香をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Madoka Higuchi as a Center, play Grade Fes Level 2 or above 3 times"
+樋口円香をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Madoka Higuchi as a Center, play Grade Fes Level 3 or above"
+樋口円香を含めた編成で営業を1回しよう,Have Madoka Higuchi complete 1 Job
+樋口円香を含めた編成で営業を5回しよう,Have Madoka Higuchi complete 5 Jobs
+樋口円香を含めた編成で営業を10回しよう,Have Madoka Higuchi complete 10 Jobs
+樋口円香を含めた編成で営業を20回しよう,Have Madoka Higuchi complete 20 Jobs
+樋口円香をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Madoka Higuchi with 400 or more Vocal
+樋口円香をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Madoka Higuchi with 400 or more Dance
+樋口円香をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Madoka Higuchi with 400 or more Visual
+樋口円香をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Madoka Higuchi with 400 or more Mental
+樋口円香をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Madoka Higuchi
+樋口円香をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Madoka Higuchi"
+樋口円香をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Madoka Higuchi"
+樋口円香をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Madoka Higuchi"
+福丸小糸をホームユニットに編成しよう,Place Koito Fukumaru in your home unit
+福丸小糸を1回プロデュースしよう,Produce Koito Fukumaru 1 time
+福丸小糸を2回プロデュースしよう,Produce Koito Fukumaru 2 times
+福丸小糸を3回プロデュースしよう,Produce Koito Fukumaru 3 times
+福丸小糸を5回プロデュースしよう,Produce Koito Fukumaru 5 times
+福丸小糸をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Koito Fukumaru
+福丸小糸をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Koito Fukumaru
+福丸小糸の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Koito Fukumaru
+福丸小糸の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Koito Fukumaru
+福丸小糸の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Koito Fukumaru
+福丸小糸の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Koito Fukumaru
+福丸小糸をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Koito Fukumaru as a Center, play Grade Fes Level 2 or above"
+福丸小糸をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Koito Fukumaru as a Center, play Grade Fes Level 2 or above 3 times"
+福丸小糸をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Koito Fukumaru as a Center, play Grade Fes Level 3 or above"
+福丸小糸を含めた編成で営業を1回しよう,Have Koito Fukumaru complete 1 Job
+福丸小糸を含めた編成で営業を5回しよう,Have Koito Fukumaru complete 5 Jobs
+福丸小糸を含めた編成で営業を10回しよう,Have Koito Fukumaru complete 10 Jobs
+福丸小糸を含めた編成で営業を20回しよう,Have Koito Fukumaru complete 20 Jobs
+福丸小糸をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Koito Fukumaru with 400 or more Vocal
+福丸小糸をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Koito Fukumaru with 400 or more Dance
+福丸小糸をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Koito Fukumaru with 400 or more Visual
+福丸小糸をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Koito Fukumaru with 400 or more Mental
+福丸小糸をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Koito Fukumaru
+福丸小糸をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Koito Fukumaru"
+福丸小糸をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Koito Fukumaru"
+福丸小糸をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Koito Fukumaru"
+市川雛菜をホームユニットに編成しよう,Place Hinana Ichikawa in your home unit
+市川雛菜を1回プロデュースしよう,Produce Hinana Ichikawa 1 time
+市川雛菜を2回プロデュースしよう,Produce Hinana Ichikawa 2 times
+市川雛菜を3回プロデュースしよう,Produce Hinana Ichikawa 3 times
+市川雛菜を5回プロデュースしよう,Produce Hinana Ichikawa 5 times
+市川雛菜をCランク以上のフェスアイドルにしよう,Produce a Rank C or higher Hinana Ichikawa
+市川雛菜をBランク以上のフェスアイドルにしよう,Produce a Rank B or higher Hinana Ichikawa
+市川雛菜の思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with Hinana Ichikawa
+市川雛菜の思い出レベルを5にしよう,Reach Memory Appeal level 5 with Hinana Ichikawa
+市川雛菜の信頼度を３以上にしよう,Reach Trust Level 3 or higher with Hinana Ichikawa
+市川雛菜の信頼度を５以上にしよう,Reach Trust Level 5 or higher with Hinana Ichikawa
+市川雛菜をセンターに編成して、グレード2以上のフェスに1回参加しよう,"With Hinana Ichikawa as a Center, play Grade Fes Level 2 or above"
+市川雛菜をセンターに編成して、グレード2以上のフェスに3回参加しよう,"With Hinana Ichikawa as a Center, play Grade Fes Level 2 or above 3 times"
+市川雛菜をセンターに編成して、グレード3以上のフェスに1回参加しよう,"With Hinana Ichikawa as a Center, play Grade Fes Level 3 or above"
+市川雛菜を含めた編成で営業を1回しよう,Have Hinana Ichikawa complete 1 Job
+市川雛菜を含めた編成で営業を5回しよう,Have Hinana Ichikawa complete 5 Jobs
+市川雛菜を含めた編成で営業を10回しよう,Have Hinana Ichikawa complete 10 Jobs
+市川雛菜を含めた編成で営業を20回しよう,Have Hinana Ichikawa complete 20 Jobs
+市川雛菜をプロデュースして、Vo.400以上のフェスアイドルにしよう,Produce Hinana Ichikawa with 400 or more Vocal
+市川雛菜をプロデュースして、Da.400以上のフェスアイドルにしよう,Produce Hinana Ichikawa with 400 or more Dance
+市川雛菜をプロデュースして、Vi.400以上のフェスアイドルにしよう,Produce Hinana Ichikawa with 400 or more Visual
+市川雛菜をプロデュースして、Me.400以上のフェスアイドルにしよう,Produce Hinana Ichikawa with 400 or more Mental
+市川雛菜をプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Finals with Hinana Ichikawa
+市川雛菜をプロデュースして1万人のファン数を獲得しよう,"Earn 10,000 fans in one Produce run with Hinana Ichikawa"
+市川雛菜をプロデュースして5万人のファン数を獲得しよう,"Earn 50,000 fans in one Produce run with Hinana Ichikawa"
+市川雛菜をプロデュースして10万人のファン数を獲得しよう,"Earn 100,000 fans in one Produce run with Hinana Ichikawa"
+アイドルロード進行の報酬として\n以下を獲得しました,Received this reward from\nadvancing on Idol Road
+アイドルロード進行報酬,Idol Road Progress Reward
+あと1歩進めます,Can advance 1 step
+あと2歩進めます,Can advance 2 steps
+あと3歩進めます,Can advance 3 steps
+あと4歩進めます,Can advance 4 steps
+あと5歩進めます,Can advance 5 steps
+あと6歩進めます,Can advance 6 steps
+あと7歩進めます,Can advance 7 steps
+あと8歩進めます,Can advance 8 steps
+あと9歩進めます,Can advance 9 steps
+あと10歩進めます,Can advance 10 steps
+あと11歩進めます,Can advance 11 steps
+あと12歩進めます,Can advance 12 steps
+あと13歩進めます,Can advance 13 steps
+あと14歩進めます,Can advance 14 steps
+あと15歩進めます,Can advance 15 steps
+あと16歩進めます,Can advance 16 steps
+あと17歩進めます,Can advance 17 steps
+あと18歩進めます,Can advance 18 steps
+あと19歩進めます,Can advance 19 steps
+あと20歩進めます,Can advance 20 steps
+あと21歩進めます,Can advance 21 steps
+あと22歩進めます,Can advance 22 steps
+あと23歩進めます,Can advance 23 steps
+あと24歩進めます,Can advance 24 steps
+あと25歩進めます,Can advance 25 steps
+あと26歩進めます,Can advance 26 steps
