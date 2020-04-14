@@ -1,0 +1,109 @@
+id,name,text,trans
+0000000000000,プロデューサー,"それじゃ最終確認。今日の仕事は握手会だ
+凛世一人でやるのは初めてだよな","Just checking in one last time.
+Today's job will be a handshake event. It'll be your first time doing it alone."
+1012001040010,凛世,はい……お任せください,Yes... please leave it to me.
+0000000000000,プロデューサー,"よし、じゃあ、そろそろ時間だな
+今日もよろしく頼むぞ。凛世","Alright, well, it's about time. I'll be relying on you today, Rinze."
+1012001040020,凛世,はい、プロデューサーさまの、ためならば……,"Yes... Producer-sama, If it's for your sake..."
+0000000000000,プロデューサー,"（凛世は相変わらず……か。信頼はありがたいけど
+やっぱり自立というか、もう一歩前に進んでほしいな……）","(Rinze's the same as always, isn't she... I'm grateful for her trust in me, but I do want her to be able to stand on her own.)"
+1012001040030,凛世,それでは、行って、参ります,Then... I will go now.
+0000000000000,プロデューサー,ああ、頑張ってこい！,"Yeah, show them what you've got!"
+0000000000000,プロデューサー,"（凛世のやりたいことを見つける……
+ずっと考えちゃいるんだが……どうしたもんか……）",(To find out what Rinze's goals are... I'm still thinking about this... I'm not sure what to do yet.)
+0000000000000,スタッフ,"おい！　おまえ！　仕事はどうした！
+そんなところでぼさっとしてるなよ！",Hey! You there! What are you doing!? Don't just slack off!
+0000000000000,プロデューサー,"……え？　……俺！？
+……いや、これが仕事というか……俺は凛世の……",...Eh? Me!? I'm here working... I'm Rinze's...
+0000000000000,スタッフ,"はいはい、凛世ちゃんのファンなんだろ？　
+スタッフなんか大体みんなそうだよ！　設営手伝え！","Yeah, yeah, you're a fan of Rinze's right? Most of the staff here are too! Help us set things up!"
+0000000000000,プロデューサー,"えっ！？　いや……だから
+俺は凛世の……あの、ちょっと……！","Ehh!? No-no, like I said, I'm Rinze's... Um, wait a minute!"
+1012001040040,凛世,"はい……応援、ありがとうございます
+また、いつの日にか……",Yes... Thank you very much for your support... I hope to see you again soon.
+1012001040050,凛世,"（……プロデューサーさま……？
+いったい、どちらへ……）",(...Producer-sama...? Where... did you go...)
+1012001040060,凛世,（まさか、お身体の具合が……）,(Surely... you weren't feeling unwell...)
+1012001040070,凛世,"あ……失礼、いたしました……
+はじめ、まして……",Oh... Please excuse me... It's a pleasure to meet you.
+0000000000000,ファン１,"こ、こんにちは！　いつも応援してます！
+これからも頑張ってください！",H-Hello! I've been rooting for you! Please keep doing such a great job!
+1012001040080,凛世,はい……ありがとう、ございます……,Yes... Thank you very much...
+0000000000000,ファン１,……凛世ちゃん？　大丈夫？,...Rinze? Are you okay?
+1012001040090,凛世,……？,Hmm?
+0000000000000,ファン１,"……もしかして具合悪い？　なら休んだほうがいいよ
+俺たち待ってるからさ","Are you not feeling well? Maybe you should rest, and we'll wait for you?"
+0000000000000,ファン２,"マジ？　凛世ちゃん調子悪いの？
+やべぇ……俺、中止でもいいよ……！","Really? Is there something bothering you, Rinze? Oh no, we wouldn't mind if this has to be cancelled."
+0000000000000,ファン3,"そうそう、凛世ちゃんが早く治るように
+俺ら拝んどくから。一回、楽屋戻ってきなよ","Oh yeah, we'll wish you a speedy recovery! Why don't you go to your dressing room and rest?"
+1012001040100,凛世,……！,Oh...!
+1012001040110,凛世,"凛世は……もう、平気です
+……みなさま、ありがとう、ございます","I am... truly, I am well... Thank you very much though, everyone."
+0000000000000,ファン１,"ホントに？　よかった！
+でも、無理はしないでよ……？","Are you sure? I'm glad then! But really, don't push yourself."
+1012001040120,凛世,"……あの、貴方さまは……
+凛世の、ファン、なのでしょうか","Um... you are fans of mine, correct?"
+0000000000000,ファン１,"え？　そりゃもちろん……
+めちゃくちゃ応援してるよ！　この中の誰にも負けない！",Eh? Of course... I believe in you! I'm your number 1 fan!
+1012001040130,凛世,……,......
+0000000000000,ファン１,凛世ちゃん？,Rinze?
+1012001040140,凛世,"いえ……
+ふふ、ありがとう、ございます",No... fufu... Thank you so much.
+0000000000000,プロデューサー,"握手会、お疲れさま。ちょっとトラブルがあってな
+顔を出せなくてすまなかった……",Great work on the handshake event. Sorry I couldn't be there; there was a bit of trouble.
+1012001040150,凛世,"いえ……
+ご無事で、何よりです……",No... I am just glad you're well.
+select,,いい顔してるな,"You're looking
+pretty happy."
+select,,"ひとりにして
+悪かったな","I'm sorry I had
+to leave you alone."
+select,,"ファンは優しかった
+みたいだな","It looks like the
+fans were nice."
+1012001040160,凛世,"……そう、でしょうか。もしかしたら……
+ファンのみなさまの、おかげかもしれません","...Is that so... 
+If that is the case, it would be thanks to the fans."
+0000000000000,プロデューサー,"ああ、ファンはいつだって凛世の味方だよ
+もちろん、今日来ていない人だってそうだ","Oh, of course. The fans will always be on your side, even the ones who couldn't come today."
+1012001040170,凛世,プロデューサーさまも、凛世の……？,"Producer-sama, too, will be by my...?"
+0000000000000,プロデューサー,ああ、さっきは見てあげられなかったけど……,"Yeah, I even if I wasn't there to see you earlier..."
+1012001040180,凛世,"いえ、それはよいのです……
+この凛世、ファンのみなさまの温かさに触れ……","No, it's okay... I was touched by the warmth of my fans."
+1012001040190,凛世,お気持ちに応えたいと、感じております,I feel that... I want to meet their expectations.
+0000000000000,プロデューサー,そうか……,I see...
+0000000000000,プロデューサー,"はは、
+もしかして……それが凛世のやりたいことなんじゃないか？","Haha, perhaps... that's truly want you want to do, isn't it?"
+1012001040200,凛世,これが……凛世の……？,That is... what I...?
+1012001040210,凛世,"ふふ……
+そうかも、しれません",Fufu... Maybe you are correct.
+1012001040220,凛世,いえ、そのようなことは……,"No, it wasn't bad..."
+1012001040230,凛世,ファンのみなさまが、いてくださいましたから……,All of the fans... were there with me.
+1012001040240,凛世,……,......
+1012001040250,凛世,"プロデューサーさま
+本日は、驚いてしまいました……","Producer-sama...
+Today was surprising for me..."
+1012001040260,凛世,ファンのみなさまのお気持ちに、つゆも気づかず……,I was unaware of how deeply the fans cared about me...
+1012001040270,凛世,"これからは、みなさまに恩をお返ししたいと、
+思っております……","So that's why, I would like to return the favor to them..."
+0000000000000,プロデューサー,そうか……やりたいことは見つかったみたいだな,Is that so... It looks like you've found what your goal is.
+1012001040280,凛世,……はい,...Yes.
+1012001040290,凛世,"凛世のやりたいこと、
+見つけることが、できました……",What I have wanted to do... I was able to find it after all...
+1012001040300,凛世,"はい……
+ファンのみなさまのお言葉は、大変にお優しく……",Yes... all of the fans' words were so kind to me...
+1012001040310,凛世,しかし……凛世は、みなさまを不安にさせてしまいました,However... I feel that I made everyone uneasy.
+0000000000000,プロデューサー,"様子が変だって気づいてくれるような……
+そのくらいのファンが、できたんだな",That they'd notice if anything appeared unusual with you... Those are the sort of dedicated fans you've made.
+1012001040320,凛世,はい……これほど、凛世を見てくださるとは……,Yes... I was surprised that they noticed so well.
+1012001040330,凛世,"凛世は……
+ファンのみなさまと、向き合っておりませんでした……",The fans and I... I did not fully understand them in the same way...
+1012001040340,凛世,"これから先は、みなさまのお心に応えること……
+それが凛世の、望みでございます……",From now on... to be able to respond to the hearts of everyone... that is my wish.
+0000000000000,プロデューサー,"ああ、凛世ならできる
+これからも一緒にがんばろう","Yeah, you can do it, and we'll keep doing our best together, too."
+1012001040350,凛世,はい……どうか、凛世を、見ていてください,Yes... that is why I ask... please watch over me.
+info,produce_events/101200104.json,
+译者,,
