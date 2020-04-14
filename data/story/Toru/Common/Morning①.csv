@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,──卵焼きは、甘い派か？　しょっぱい派か？,"──When it comes to tamagoyaki, are you the sweet camp? Savory camp?"
+1020001000110010,透,えっ、何,Eh? What?
+0000000000000,プロデューサー,"いや、すまん……
+さっき出先で、そういう話になって──","Uh, no, sorry...
+Just, on the way here, that came up, and──"
+1020001000110020,透,卵焼き……,Tamagoyaki...
+select,,"──腹、
+減ってないか？","──Are you, um,
+hungry, maybe?"
+select,,嫌いか？　卵焼き,"Not a fan of
+tamagoyaki?"
+select,,"……どうでも
+いいよな","...I mean, either's
+fine, right?"
+1020001000110030,透,"え？　うん
+──あ、心配してくれたんだ","Huh? Yeah.
+──Ah, you were worried about me."
+1020001000110040,透,ありがと,Thanks.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001000110050,透,"え？　ううん……
+ていうか","Eh? No, I am...
+Wait."
+1020001000110060,透,甘い卵焼きって何？,What's sweet tamagoyaki?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001000110070,透,"え、ううん……
+考えてたけど","Eh? Not really...
+I was just thinking about it."
+1020001000110080,透,"作ってくれるとか
+そういう話じゃなくて？","It sounded like you were going to make some,
+or something. Was that not it?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100011.json,
+译者,,
