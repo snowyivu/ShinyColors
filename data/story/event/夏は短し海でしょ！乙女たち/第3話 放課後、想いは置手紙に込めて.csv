@@ -3,8 +3,7 @@ id,name,text,trans
 4001005040020,智代子,ちょっと待ってね、こっち片付けたら行くからー！,Will do in a sec! Once I've finished tidying up here.
 4001005040030,夏葉,はーい、わかったわ！,"Okay, got it!"
 4001005040040,樹里,"休憩終わってからも、
-結構お客さん来てくれて良かったよな","It's good that lots of customers
-still came after we took a break."
+結構お客さん来てくれて良かったよな",It's good that lots of customers still came after we took a break.
 4001005040050,果穂,"はい！　カレーライスも、かき氷も焼きそばも、
 いっぱい食べてもらえました！","Yep! We dished out mountains of curry rice,
 shaved-ice and yakisoba!"
@@ -12,8 +11,7 @@ shaved-ice and yakisoba!"
 海の家のお手伝い、とっても楽しかったです","Ehehe...
 Helping out at a seaside stall was great fun!"
 4001005040070,果穂,"アルストロメリアのみなさんが来た後も、
-きっとにぎやかになるはずです！","I'm sure it will be just as busy
-when Alstroemeria get here!"
+きっとにぎやかになるはずです！",I'm sure it will be just as busy when Alstroemeria get here!
 4001005040080,樹里,おう、きっとそうなると思うぜ,I imagine so.
 4001005040090,樹里,……さて。そしたらちゃんと引き継ぎしねーとだな,We've got to transition the stall over to them smoothly.
 4001005040100,果穂,引き継ぎ？,Transition...?
@@ -24,8 +22,8 @@ when Alstroemeria get here!"
 仕事で使う手紙みたいなもんかな","It's like writing a letter, but for work,
 instead of writing to your friends."
 4001005040140,果穂,"お仕事のお手紙！　わぁ、スゴいです、大人です！
-引き継ぎ、あたしも書いてもいいですか？","A letter for work! Wow! Awesome! It's like being a grown-up!
-Can I write it? Please?"
+引き継ぎ、あたしも書いてもいいですか？","A letter for work! Wow! Awesome! It's like being a
+grown-up! Can I write it? Please?"
 4001005040150,樹里,もちろん。色々書いてやれ,Of course. Write it how you like.
 4001005040160,果穂,わーい！,Yaaay!
 4001005040170,凛世,……果穂さん……樹里さん,Kaho... Juri...
@@ -77,8 +75,7 @@ I see. Please come in."
 カニさんって何を食べるんでしょう……？","But thinking about it...
 what do crabs like to eat?"
 4001005040460,凛世,"貝や……海藻……
-しらすも……召されましょう……","Their habitual diet
-consists of shellfish, seaweed, and whitebait..."
+しらすも……召されましょう……","Their habitual diet consists of shellfish, seaweed, and whitebait..."
 4001005040470,智代子,"だったらこれなんてどうかなー？
 小さなお客さんに、智代子スペシャル！","Then how about this?
 A Chiyoko Special for our tiny guest!"
@@ -129,18 +126,16 @@ The number of customers..."
 4001005040730,果穂,はいっ、あたし、あります！,Yep! Me!
 4001005040740,智代子,あ、そっか。果穂、カニのこと書くって言ってたもんね,Of course! You want to write about the thing with the crab!
 4001005040750,果穂,"はい！　カニさんもそうですし、
-今日はいっぱい出会いがありました！","Yep! The crab,
-and all the other people I met for the first time!"
+今日はいっぱい出会いがありました！","Yep! The crab, and all the other people I met for the first time!"
 4001005040760,果穂,"海は、新しいみなさんに好きになってもらえる
-チャンスです！","Coming to the beach was
-a great chance to make new friends!"
+チャンスです！",Coming to the beach was a great chance to make new friends!
 4001005040770,果穂,"だから、アルストロメリアのみなさんにも、
 知ってもらいたいなって思います！",So I'm really looking forward to getting to know everyone in Alstroemeria too!
 4001005040780,凛世,"はい……
 果穂さんのお言葉……きっと届くでしょう……","Indeed...
 I'm sure that your words... will be gladly received..."
 4001005040790,智代子,だね！　ほら果穂、ペンはこれを使って？,"Obviously! Here, Kaho. Use this pen."
-4001005040800,樹里,紙も、足りなかったらまだあるからな,And there's so shortage of paper should you run out.
+4001005040800,樹里,紙も、足りなかったらまだあるからな,And there's no shortage of paper should you run out.
 4001005040810,果穂,ありがとうございますっ,Thank you everyone!
 4001005040820,夏葉,……私たちのファンではない、初めて会う人たち……,"We experienced meeting lots of people, not just our fans..."
 4001005040830,夏葉,"そういう人たちへ気持ちを届けることの難しさと大切さが、
@@ -153,13 +148,13 @@ is perhaps what I should be saying."
 It's simply that..."
 select,,"みんななら
 できると信じてた","I believed
-in you all"
+in you all."
 0000000000000,プロデューサー,それだけだって,That's all.
 4001005040850,夏葉,……ふうん？,Hmmm?
 4001005040860,夏葉,"まぁ、そういうことにしておいてあげてもいいけど……
-個人的には、あんまり謙虚すぎるのは良くないと思うわよ","Well, if you say so, fine... But personally I don't think good to be too modest."
+個人的には、あんまり謙虚すぎるのは良くないと思うわよ","Well, if you say so, fine... But personally I don't think it's good to be overly modest."
 4001005040870,夏葉,"──だから、お礼は言っておくわ
-今日の仕事もありがとう。感謝してる",Consequently some words of thanks are in order. Thank you for arranging today's job. You have my gratitude.
+今日の仕事もありがとう。感謝してる","Consequently, some words of thanks are in order. Thank you for arranging today's job. You have my gratitude."
 4001005040880,夏葉,後半も頑張ってね、プロデューサー,"And best of luck for the second half, Producer!"
 0000000000000,プロデューサー,夏葉……,Natsuha...
 4001005040890,果穂,──できましたぁ！　引き継ぎ、完成です！,It's done! The letter is finished!

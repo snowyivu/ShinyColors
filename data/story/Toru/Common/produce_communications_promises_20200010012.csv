@@ -3,8 +3,8 @@ id,name,text,trans
 202000100120020,透,"──ダンスの話
 今週ダンスレッスンしたいんだけど","About that,
 I'd like to take dance lessons this week."
-select,,いいよ,Sure
-select,,ごめん,Sorry
+select,,いいよ,Sure.
+select,,ごめん,Sorry.
 202000100990010,透,"あ、いいの？
 ふふっ、ありがと","Oh, really?
 Heheh, thanks."

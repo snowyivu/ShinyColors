@@ -3,8 +3,7 @@ id,name,text,trans
 いっぱい出会いがありました！』","""And finally,
 we had many encounters today!"""
 4001005050020,果穂,"『海は、新しいみなさんに好きになってもらえる
-チャンスです！』","""The beach is a good chance
-for people to get like the new you!"""
+チャンスです！』","""The beach is a good chance for new people to start to like you!"""
 4001005050030,果穂,『甘奈さん、甜花さん、千雪さん！』,"""Amana, Tenka, Chiyuki!"""
 4001005050040,果穂,"『いっぱい海を楽しんで、
 いっぱいの好きに出会ってください！』","""Be sure to really enjoy the beach, and encounter lots of things you like!"""
@@ -15,7 +14,7 @@ from Afterschool Climax Girls....!"
 4001005050070,甘奈,"これって果穂ちゃんの字だよね！
 すっごい一生懸命書いてくれてる☆","Isn't this Kaho's handwriting?
 She really did her best in writing this!"
-4001005050080,甘奈,お手伝いする時のポイントとかも書いてあるよ☆,She even wrote down tips to being a helper!
+4001005050080,甘奈,お手伝いする時のポイントとかも書いてあるよ☆,She even wrote down tips for being a helper!
 4001005050090,甜花,……にへへ、嬉しい……,"...Nihehe, this makes Tenka happy..."
 4001005050100,千雪,ええ、本当に,"Yes, it sure does."
 4001005050110,千雪,"素敵なお店を引き継ぐんだもの、
@@ -36,15 +35,15 @@ Let's go, Tenka!"
 4001005050170,甘奈,"いいよー？
 なくしちゃわないようにね？","Oh sure!
 Be sure to not lose it alright?"
-4001005050180,甜花,うん……ちゃんと、ポッケに入れとく……,Yeah... Tenka will keep it properly in her pocket...
+4001005050180,甜花,うん……ちゃんと、ポッケに入れとく……,Yeah... Tenka will make sure to keep it in her pocket...
 4001005050190,甜花,にへへ……,Nihehe...
 4001005050200,千雪,"いらっしゃいませ、何名様でしょう？
 はい、それでは、奥の席へどうぞ","Welcome, how many in your party? 
-Yes, please move towards the table in the back."
+Okay, please sit at the table in the back."
 4001005050210,甘奈,ご注文繰り返しまーす☆,Repeating your order☆
 4001005050220,甘奈,"焼きそばがおふたつ、かき氷のいちごとレモンが
-おひとつずつ、ラムネがおひとつでお間違いないですか？","Two yakisoba, one strawberry flavored and one lemon flavored shaved ice, and one ramune, is this correct?"
-4001005050230,甘奈,はいっ、それでは少々お待ちくださいませ！,"OK, please wait a little while!"
+おひとつずつ、ラムネがおひとつでお間違いないですか？","Two yakisoba, one strawberry flavored and one lemon flavored shaved ice, and one Ramune, is this correct?"
+4001005050230,甘奈,はいっ、それでは少々お待ちくださいませ！,"Ok, please wait a little while!"
 4001005050240,甜花,"……え、えっと……お待たせ、しました……！
 フライドポテトと、ソフトクリーム、です……","...Uh, umm... sorry to keep you waiting...! 
 Your fries and soft-served ice cream..."
@@ -70,7 +69,7 @@ Even more amazing... than usual..."
 4001005050350,甘奈,"そうやって甜花ちゃんがやる気になってるなら、
 甘奈だって、サポート頑張っちゃうのは当たり前だよ","If Tenka is this enthusiatic about it, I'll obviously do my best to support her as well!"
 4001005050360,甘奈,"せっかくなんだもん、甜花ちゃんがその気になれば
-なんでもできるんだって、知ってもらわなきゃ☆","It's a rare opportunity, so we have to make Tenka understand that she can do anything if she put her mind into it!"
+なんでもできるんだって、知ってもらわなきゃ☆","It's a rare opportunity, so we have to make Tenka understand that she can do anything if she puts her mind into it!"
 4001005050370,千雪,ふふ、甘奈ちゃんは、甜花ちゃんを応援するのが上手ね,"Fufu, you sure are good at cheering Tenka on."
 4001005050380,甘奈,もっちろん☆　甘奈の大好きなことだもん！,Of course! It's something I love to do!
 4001005050390,甘奈,──甘奈も頑張らなきゃ！,I have to do my best too!
@@ -80,10 +79,9 @@ Even more amazing... than usual..."
 4001005050430,甜花,"了解……３番テーブルさんに……
 ラムネと、アイスティー……","Roger...
 this is for table number 3... Ramune and iced tea..."
-4001005050440,甘奈,ごめん、こっちは──,Sorry and this──
+4001005050440,甘奈,ごめん、こっちは──,"Sorry, and this──"
 4001005050450,甜花,"４番さんは……焼きそば大盛……
-かき氷はメロン……","The shaved ice
-is melon flavor..."
+かき氷はメロン……",The shaved ice is melon flavor...
 4001005050460,甜花,あっ、そうだ、なーちゃん……,"Ah, right, Na-chan..."
 4001005050470,甘奈,"はいはーい、１番さんの料理、もうすぐできるんだよね☆
 甘奈が運んじゃうよ☆","Yes yes, the food for table 1 will be done soon!
@@ -92,7 +90,7 @@ I'll bring it over☆"
 4001005050490,甘奈,えへへ、いつもより息ピッタリって感じだね,"Ehehe, it feels like we're more in sync than usual."
 4001005050500,甜花,……双子の勘が……冴えまくり……,...A display of... twins' sixth sense...
 4001005050510,甘奈,"どうしよっか？　双子のテレパシー接客！　とかで
-宣伝でもしちゃう？",What shall we do? Twins' telepathic serving! Should we market it like that?
+宣伝でもしちゃう？",What should we do? Twins' telepathic serving! Should we market it like that?
 4001005050520,甜花,"……立て看板……
 それとも、ビラ……？","...A signboard...
 Or maybe, flyers...?"
@@ -110,8 +108,7 @@ Or maybe, flyers...?"
 ほら、そこ！","Also, there's one more guest.
 See, over there!"
 4001005050610,千雪,"そう、ヤドカリさん！
-みんなのために、ヤドカリさんも来てくれたんですって","Right, it's Mr. Hermit crab!
-Mr. Hermit crab says that he's here to meet everyone."
+みんなのために、ヤドカリさんも来てくれたんですって","Right, it's Mr. Hermit crab! Mr. Hermit crab says that he's here to meet everyone."
 4001005050620,千雪,"あ、なでなでする時は気をつけてね？
 ヤドカリさんはハサミの手だから、ビックリさせないように","Ah, but be careful when you pat him, okay? Mr. Hermit crab has scissors for hands so be sure not to startle him."
 4001005050630,千雪,そうそう、上手♪,"Right right, you're doing well♪"
@@ -123,7 +120,7 @@ How about we play together?"
 4001005050670,甘奈,"そうだね
 集まってる子たちもみんな楽しそう","She sure is!
 The kids look like they're having fun!"
-4001005050680,甘奈,甘奈たちも、ああいう対応ができるようにならなきゃだね☆,We have to learn to be able to handle them like that some day!
+4001005050680,甘奈,甘奈たちも、ああいう対応ができるようにならなきゃだね☆,We have to learn how to handle them like that some day!
 4001005050690,甜花,……頑張ろう,...Let's do our best.
 4001005050700,甘奈,うん☆,Yeah!
 info,game_event_communications/400100505.json,
