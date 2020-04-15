@@ -1,12 +1,13 @@
 id,name,text,trans
 4001005010010,樹里,いらっしゃいませー！,Welcome!
-4001005010020,智代子,焼きそばもかき氷も、冷たいラムネも置いてまーす！,"We're serving yakisoba, shaved iced and chilled Ramune!"
+4001005010020,智代子,焼きそばもかき氷も、冷たいラムネも置いてまーす！,"We're serving yakisoba, shaved iced and
+chilled Ramune!"
 4001005010030,果穂,海の家はいかがでしょうかーっ,How about staying for a while in our beach hut?
 4001005010030,果穂＆智代子＆樹里,はぁっ……,Sigh...
 4001005010040,果穂,お客さん、あんまり集まりません……,Nobody's coming...
 4001005010050,智代子,"あーんどうしよう！
-これじゃアルストロメリアのみんなに申し訳ないよー！",What are we going to do? We'd be too ashamed to look the Alstroemeria girls in the eye again at this rate!
-4001005010060,樹里,せっかく任せてもらえたってのに……,And we were especially entrusted with this job too...
+これじゃアルストロメリアのみんなに申し訳ないよー！",What are we going to do? We'll be too ashamed to look the Alstroemeria girls in the eye again at this rate!
+4001005010060,樹里,せっかく任せてもらえたってのに……,And we were specially entrusted with this job too...
 4001005010070,果穂,海の家のお手伝い、ですか？,Helping out at a beach hut?
 0000000000000,プロデューサー,"ああ。地域を盛り上げるのに力を貸してもらえないかって
 打診があってな","That's right. It has proven more popular with tourists than expected, so they were wondering if we could lend a hand."
@@ -24,8 +25,7 @@ Working at a stall..."
 企画の日までもうあんま時間ねーぞ","But it's really short notice, isn't it?
 It's only a few days away."
 0000000000000,プロデューサー,"そうなんだ、向こうの方も告知なんかに
-あまり手が回っていないらしくて","Indeed.
-They're not giving us much in the way of detailed information."
+あまり手が回っていないらしくて",Indeed. They're not giving us much in the way of detailed information.
 0000000000000,プロデューサー,……当日は、立ち回り方にちょっと工夫が必要になると思う,We may be forced to improvise somewhat on the day...
 0000000000000,プロデューサー,ごめんな、みんなには苦労をかけるんだけど──,I'm sorry to ask you to do this...
 4001005010130,樹里,気にしねーっつーの,"Like I said, don't sweat it."
@@ -43,8 +43,8 @@ Producer-sama's expectations..."
 4001005010200,夏葉,……,......
 4001005010210,夏葉,──ええ、そうね！,Alright! Let's do this!
 4001005010220,智代子,"あんなに、あんなに自信満々でいたのにッ……！
-この状況はまずいよー……！","And to think... to think that I spoke with such confidence!
-This is bad!"
+この状況はまずいよー……！","And to think... to think that I spoke with such
+confidence! This is bad!"
 4001005010230,果穂,ちょこ先輩、こんな時は作戦会議です！,Choco-senpai! This situation calls for a strategy meeting!
 4001005010240,智代子,"おっけー果穂隊員、
 何か気づいたことがあったら言ってみるように！","Okay, Squadmate Kaho!
@@ -82,14 +82,13 @@ How are you doing...?"
 Sorry, it's not going very well..."
 4001005010410,凛世,……,......
 4001005010420,果穂,"なんとかしなきゃって、
-今、会議をしてたところなんです……！","We're having a meeting
-to decide what we're going to do."
+今、会議をしてたところなんです……！",We're having a meeting to decide what we're going to do.
 4001005010430,凛世,……,......
 4001005010440,凛世,"それでは……
 凛世に……策がございます……","In that case...
 I... have a suggestion..."
 4001005010450,凛世,"おしぼりは……
-平安の世からつづく……もてなしの心……",From the Hei-an period... a hot towel have long been presented to guests... as a token of hospitality...
+平安の世からつづく……もてなしの心……",From the Hei-an period... a hot towel has long been presented to guests... as a token of hospitality...
 4001005010460,凛世,"道行く方々に……
 お渡ししましょう……","Let us offer them...
 to the passers-by..."
@@ -151,8 +150,7 @@ It looks so refreshing."
 4001005010800,果穂,"あっ、こっちにもおしぼりですね！
 はい、今準備します！　待っててくださいっ","Ah, I need a towel over here too! Please wait a second and I'll prepare one for you!"
 4001005010810,樹里,"これ、どうぞ
-良かったら海の家にも、寄ってもらえると……","Here.
-And please visit our beach hut if you feel taking a break!"
+良かったら海の家にも、寄ってもらえると……",Here. And please visit our beach hut if you feel taking a break!
 4001005010820,凛世,"どうぞ……
 おしぼりです……","A hot towel...
 Please take it."
