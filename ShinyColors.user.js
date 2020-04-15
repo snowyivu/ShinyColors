@@ -841,12 +841,26 @@
 
 	let phraseMap$1 = null;
 
+	const collectPhrases = obj => {
+	  let list = [];
+
+	  for (let key in obj) {
+	    if (!phraseMap$1.has(key) && !key.includes('license')) {
+	      list.push(`${key},${replaceWrap(obj[key])}`);
+	    }
+	  }
+
+	  log(list.join(',\n'));
+	};
+
 	async function transPhrase() {
 	  const obj = await getPhraseMd();
-	  if (!obj) return; // if (ENVIRONMENT === 'development') {
-	  //   phraseMap = await getPhrase(true)
-	  //   collectPhrases(obj)
-	  // }
+	  if (!obj) return;
+
+	  if (ENVIRONMENT === 'development') {
+	    phraseMap$1 = await getPhrase(true);
+	    collectPhrases(obj);
+	  }
 
 	  phraseMap$1 = await getPhrase();
 
