@@ -17,10 +17,10 @@ const collectPhrases = (obj) => {
 export default async function transPhrase () {
   const obj = await getPhraseMd()
   if (!obj) return
-  // if (ENVIRONMENT === 'development') {
-  //   phraseMap = await getPhrase(true)
-  //   collectPhrases(obj)
-  // }
+   if (ENVIRONMENT === 'development') {
+     phraseMap = await getPhrase(true)
+     collectPhrases(obj)
+   }
   phraseMap = await getPhrase()
   for (let [key, value] of phraseMap) {
     obj[key] = value

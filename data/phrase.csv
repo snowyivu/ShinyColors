@@ -149,22 +149,13 @@ common.exSkill,Exスキル,Ex Skill
 common.people,%{num}人,%{num}
 common.sheet,%{num}枚,%{num}
 common.expireDatetimeString,mm/dd HH:MMまで,mm/dd HH:MM
-common.plusMessage,+%{name},+%{name}
 common.pIdol,プロデュースアイドル,Produce Idol
 common.sIdol,サポートアイドル,Support Idol
-common.quantityMessage,x%{quantity},x%{quantity}
-common.quantityMessageWithName,%{name} x%{quantity},%{name} x%{quantity}
 common.remainingTimeMessage,あと %{min}:%{sec},%{min}:%{sec} Left
-common.lv,Lv.%{level},Lv.%{level}
 common.staff,はづき,Hazuki
 common.staffAbsence,（はづきの書置き）,(Hazuki's Placeholder)
-common.horizontalEllipsis,...,...
 common.selectPaymentMethodTitle,決済方法選択,Select Payment Method
 common.exchangeItemForAlbum,アルバムの鍵,Album Key
-common.gaugeNumberMessage,%{progress}/%{progressMax},%{progress}/%{progressMax}
-common.leftBracket,【,
-common.rightBracket,】,
-common.bulletPoint,・,・
 common.useItemToReleaseSomething,%{itemName}を使用して\r%{releasedThingName}を解放しました,Use %{itemName} to\r\nunlock %{releasedThingName}
 common.commu,コミュ,Commu
 common.voice,ボイス,Voice
@@ -387,7 +378,7 @@ fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに�
 fes.fesGradeEvaluationReward.itemNameNum,%{type} ×%{num},%{type} ×%{num}
 fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,"Congratulations on reaching Grade Lv%{gradeId},\r\nDon't forget to grab your mission reward♪"
 fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,Your grade went up. \r\nNice job Producer♪
-fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,"You kept your grade, good luck this time. \r\nI'll be rooting for you♪"
+fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープですl今回も頑張りましょう\r私も応援していますね♪,"You kept your grade, good luck this time. \r\nI'll be rooting for you♪"
 fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,You're now Grade Lv%{gradeId}\r\nLet's aim for a Grade Up this time. 
 fes.ranking.score,%{score}pt,%{score}pt
 fes.ranking.emptyNotice,現在ランキング集計中です,Current Rank
@@ -921,8 +912,8 @@ skin,衣装,Outfit
 skinExchange.headerTitle,衣装ショップ,Outfit Shop 
 skinExchange.noMerchandiseNotice,交換できる衣装がありません。,There are no exchangeable outfits.
 skinExchange.shop.possessionMarkCaption,所持数,Num Owned
-skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,"This costume only changes the regular outfit,live outfit is not affected."
-skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit,regular outfit is not affected."
+skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,"This costume only changes the regular outfit,\nlive outfit is not affected."
+skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit,\nregular outfit is not affected."
 skinKind.plain,私服衣装,Regular Outfit
 skinKind.concert,ライブ衣装,Live Outfit
 specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Replay
@@ -1059,7 +1050,6 @@ idolDetail.produceDeck.detailPop.level,Lv.%{level}/%{limitLevel},Lv.%{level}/%{l
 idolDetail.tradeConfirmDialog.addition,+%{num},+%{num}
 idolDetail.tradeResultDialog.idolName,%{idolName},%{idolName}
 idolDetail.event.neverReadEventTitle,???,???
-invitation.receivedMessage.singularNum,,
 invitation.receivedMessage.multipleNum,×%{num},×%{num}
 invitation.receivedMessage.message,・%{typeText}%{numText},・%{typeText}%{numText}
 item.itemConfirm.name,%{name},%{name}
@@ -1072,7 +1062,6 @@ item.itemResult.beforeItemNum,%{num},%{num}
 item.itemResult.afterItemNum,%{num},%{num}
 item.itemResult.beforeValue,%{beforeValue},%{beforeValue}
 item.itemResult.afterValue,%{afterValue}(+%{gainValue}),%{afterValue}(+%{gainValue})
-popJoinRecommend.textDefault,,
 present.receiveAll.itemNameNum,%{type} ×%{num},%{type} ×%{num}
 filterPop.filter.sp,SP,SP
 produceHeader.concertSeason,W.I.N.G.,W.I.N.G.
@@ -1087,7 +1076,6 @@ shop.purchasableText.noLimitShort,/  ー,/  ー
 training.levelLabel,Lv.,Lv.
 training.selectedNum,x%{num},x%{num}
 trend.txtFan,%{count}人,%{count}人
-tutorial.openingMessage.mes5,,
 tutorial.skipPop.warning2,TIPS,TIPS
 twitter.postDialog.staticURL,https://go.enza.fun/IddpjY,https://go.enza.fun/IddpjY
 workActivityResult.totalFan.count,%{count}人,%{count}
@@ -1381,3 +1369,155 @@ training.successType.great,大成功,Great Success
 training.successType.super,超成功,ULTRA Success
 training.trainingTicketReturn.message,%{type}ボーナスの余剰Exp分を\rブロンズトレーニングチケットに変換して\rプレゼントに送りました,%{type}ボーナスの余剰Exp分を\rブロンズトレーニングチケットに変換して\rプレゼントに送りました
 training.trainingTicketReturn.title,トレーニングキャンペーン,Training Campaign
+beginnerMission.staffComment,初心者ミッションを進めて報酬を受け取ってくださいね〜,
+beginnerMission.selectIdolPopTitle,初心者ミッションを始めるプロデュースアイドルを選択します,
+beginnerMission.groupLabel.label.1,好きなアイドルを育てよう,Raise your favorite Idol
+beginnerMission.groupLabel.label.2,1人目のサポートアイドルを育てよう,Raise 1 Support Idol
+beginnerMission.groupLabel.label.3,2人目のサポートアイドルを育てよう,Raise 2 Support Idols
+beginnerMission.groupLabel.label.4,3人目のサポートアイドルを育てよう,Raise 3 Support Idols
+beginnerMission.groupLabel.label.5,4人目のサポートアイドルを育てよう,Raise 4 Support Idols
+beginnerMission.groupLabel.label.6,5人目のサポートアイドルを育てよう,Raise 5 Support Idols
+beginnerMission.groupLabel.label.7,より強力な編成でプロデュースに挑戦しよう,Challenge Produce with a Stronger Setup
+beginnerMission.idolSelectNavigateText,まずは一緒に初心者ミッションを受けるアイドルを\n選んであげてくださいね〜\nおすすめのサポートアイドルをピックアップしますよ♪,"First, please choose the idol to do the\nbeginner missions with, and we'll give you\na set of recommended support idols♪"
+beginnerMission.availableSupportIdolsDetailPop.title,プロデュースアイドル確認,Confirm Produce Idol
+beginnerMission.availableSupportIdolsDetailPop.tips,%{idolName}さんのサポートに適した,Suitable Supports for %{idolName}
+beginnerMission.availableSupportIdolsDetailPop.attribute,%{attribute}タイプ,%{attribute} Set
+beginnerMission.availableSupportIdolsDetailPop.tips2,のアイドル5人に来てもらいました♪,of 5 support idols will come♪
+beginnerMission.idolSelectConfirmPop.title,初心者ミッション開始確認,Start Beginner Mission Confirm
+beginnerMission.idolSelectConfirmPop.text,選択したプロデュースアイドルでは\n以下のサポートアイドルが手に入ります\n初心者ミッションを開始しますか？,If you choose to produce this idol you\nwill receive the below support idols.\nStart the beginner missions?
+beginnerMission.idolSelectConfirmPop.txtNotice,初心者ミッション開始後に選びなおすことはできません,Once you start the missions you can't re-select
+beginnerMission.clearedAlert.title,初心者ミッション達成,Cleared Beginner Mission
+beginnerMission.clearedAlert.text,以下のミッションを達成しました\n初心者ミッションページで報酬を受け取りましょう,
+beginnerMission.clearedAlert.reward,%{rewardName} ×%{num},%{rewardName} ×%{num}
+countUpCampaign.unit.fes_raid_laps,周,wk
+countUpCampaign.countUpText,%{unit}で%{title}達成,
+countUpCampaign.clearedFooterText.fes_raid_laps,コラボフェスの到達周数でボーナスをGET!,
+countUpCampaign.clearedFooterText.fan,プロデューサーズカップの累計獲得ファン数でボーナスをGET!,
+countUpCampaign.closeAt,集計期間: %{closeAt} まで,
+countUpCampaign.lastChallengeTitle,前回のチャレンジ結果,
+countUpCampaign.pCupAttention,休憩時間中のプロデュースなどで獲得したファン数も集計対象に含まれます,
+countUpCampaign.fanCount,約%{count}億,
+fortuneResultTweet.text1.normal,今日の運勢は・・・【%{rankName}】！素敵な1日になりそう！\n\n,
+fortuneResultTweet.text1.special,今日の運勢は・・・【%{rankName}】！最高の運勢で、特別な1日になりそう！\n\n,今日の運勢は・・・【%{rankName}】！最高の運勢で、特別な1日になりそう！\n\n
+fortuneResultTweet.text2,新年特別企画,
+fortuneResultTweet.hashTag,シャニマスおみくじ,
+fortuneResultTweet.text3,開催中！\nゲームにログインしておみくじを引こう！\n,
+fortuneEffectPop.title,ご利益内容,
+fortuneEffectPop.fesMoneyComment,おみくじのご利益により、フェスリハーサルや\nグレードフェスで「獲得マニーアップ」が発生!\nあと%{times}回有効！！,おみくじのご利益により、フェスリハーサルや\nグレードフェスで「獲得マニーアップ」が発生!\nあと%{times}回有効！！
+fortuneEffectPop.friendshipComment,おみくじのご利益により、プロデュース開始時に\nサポートアイドルの「絆アップ」が発生！\nあと%{times}回有効！！,おみくじのご利益により、プロデュース開始時に\nサポートアイドルの「絆アップ」が発生！\nあと%{times}回有効！！
+fortuneEffectPop.businessMotivationComment,おみくじのご利益により、営業で\n「モチベーションボーナスアップ」が発生！\nあと%{times}回有効！！,おみくじのご利益により、営業で\n「モチベーションボーナスアップ」が発生！\nあと%{times}回有効！！
+fortuneEffectPop.trainingSuccessComment,おみくじのご利益により、トレーニングすると\n一定確率で「大成功」が発生！\nあと%{times}回有効！！,おみくじのご利益により、トレーニングすると\n一定確率で「大成功」が発生！\nあと%{times}回有効！！
+fortuneEffectPop.specialComment,「モチベーションボーナスアップ」「絆アップ」\n「獲得マニーアップ」「トレーニング大成功」が発生！\nそれぞれ%{times}回有効！,
+temp.supportEvent,サポートイベント,Support Event
+temp.produceEvent,プロデュースイベント,Produce Event
+common.remainingText,あと,Left
+common.remainingMinutes,あと%{minutes}分,%{minutes}m
+common.remainingHours,あと%{hours}時間%{minutes}分,%{hours}h %{minutes}m
+userDailyLottery.ticketPop.ticketName,%{name}×%{num},%{name}×%{num}
+errorDialog.campaignClosedTitle,キャンペーン期間外,Campaign Closed
+evolution.confirm.maxStaffComment,最大特訓はづきさんを消費して、特訓をします\nよろしいですか？,最大特訓はづきさんを消費して、特訓をします\nよろしいですか？
+evolution.confirm.notice,特訓はづきさんが含まれています\n本当によろしいですか？,
+evolution.confirm.checkDescription,特訓を有効にする,
+evolution.confirm.maxStaffNotice,1回以上特訓しているアイドルが選択されています\n特訓を開始した場合、余剰分の特訓回数は消失します,1回以上特訓しているアイドルが選択されています\n特訓を開始した場合、余剰分の特訓回数は消失します
+evolution.confirm.maxStaffNoticeLevel,Lv.2以上のサポートアイドルが選択されています\n特訓を開始した場合、余剰分のExpは消失します,Lv.2以上のサポートアイドルが選択されています\n特訓を開始した場合、余剰分のExpは消失します
+evolution.normalInvalidBlockText,%{name}は\n他のアイドルや特訓はづきさんと\n一緒に使用することはできません,
+evolution.featuredInvalidBlockText,アイドルまたは他の特訓はづきさんと\n一緒に使用することはできません,
+evolution.featuredTrainingResultComment,%{name}の\n使用により、レベルが最大になりました,%{name}の\n使用により、レベルが最大になりました
+fes.difficultySelect.fesMatchMessage,グレードフェスの難易度を選択してください,
+gameEvent.presentEventSchedule.label.open,開催期間,Avail Time
+gameEvent.presentEventSchedule.label.receive,受取期間,Accept Time
+gameEvent.presentEventSchedule.schedule,%{closeAt}まで,Ends %{closeAt}
+gameEvent.presentEvent.givePresentDialog.text,自然回復の上限を超えて回復します,
+gameEvent.presentEvent.releaseRewardCommuDialog.title,スペシャルコミュ解放,Special Commu Unlock
+gameEvent.presentEvent.releaseRewardCommuDialog.text,【%{firstName}】からプレゼントがもらえる\nスペシャルコミュが解放されました,
+gameEvent.presentEvent.spCommuPlayConfirmPop.title,スペシャルコミュ再生確認,Re-watch Special Commu
+gameEvent.presentEvent.spCommuPlayConfirmPop.rewardCommuTitle,【%{firstName}】からのプレゼントコミュ,%{firstName}'s Present Commu
+gasha.skinRate,%{rate}%,%{rate}%
+gasha.instantLottery.popReward.title,スピードくじ,Speed Lotto
+gasha.result.evolutionLabel,%{evolutionStage}回特訓済,Evolve %{evolutionStage}
+header.produceIdolChoice,プロデュースアイドル選択,Choose Idol to Produce
+header.idolRoad,アイドルロード,Idol Road
+header.presentEvent,2019クリスマス特設ページ,
+album.campaignOpenDateMsg,%{openDateTime}よりコミュ解放,Commus Avail From %{openDateTime}
+mission.eventEnded,イベント終了,Event Over
+option.homeContent.title.touch,コミュニケーションタッチ判定,Decide Communcation Touch
+option.homeContent.title.idolPrank,アイドルからのイタズラ,Idol Prank
+option.homeContent.prank.unreleased,未解放,Unavailable
+option.homeContent.prank.sealed,設定可能なアイドルがいません\n「2019ハロウィンのおかし」を使用すると\nイタズラ機能が解放されます,
+option.pushNotificationContentTitle.businessFinish,営業完了通知,Job Complete Notice
+option.pushNotificationContentTitle.recoveredFesTicket,フェス参加権回復通知,Fes Point Full Notice
+option.pushNotificationContentTitle.recoveredStamina,スタミナ回復通知,Stamina Full Notice
+option.pushNotificationDescription,プラットフォームでの通知設定がブロックされている場合、オプション内での\nプッシュ通知がONであっても通知は送られません\nSafariおよびiOSブラウザではプッシュ通知は送られません,プラットフォームでの通知設定がブロックされている場合、オプション内での\nプッシュ通知がONであっても通知は送られません\nSafariおよびiOSブラウザではプッシュ通知は送られません
+idolDetail.fromGashaNoticeWithIdolRoad,最大特訓時、アイドルロード未進行の状態を表示しています。,最大特訓時、アイドルロード未進行の状態を表示しています。
+item.limitNumSimple,最大所持数:,Max Amount:
+item.evolutionNotice,アイドルや他の特訓はづきさんと一緒に使うことはできません,
+item.evolutionNotice2,すでに1回以上特訓しているアイドルに使用した場合\n余剰分の特訓回数は消失します,
+item.evolutionNoticeLevel,すでにLv.2以上トレーニングしているアイドルに使用した場合\n余剰分のExpは消失します,
+item.commuReleaseItem.imageCharacterSelectTitle,対象アイドル選択,Select Idol
+item.commuReleaseItem.giveItemToCharacterConfirmation,%{characterName}に\n以下のアイテムを使用しますか？,
+item.commuReleaseItem.commuReleasedTitle,コミュ解放,Commu Unlock
+present.valentine.title,バレンタインプレゼント受け取り,Valentine Present Received
+present.valentine.message,%{firstName}から\nバレンタインプレゼントを受け取りました,
+idolRoad.needsProduceEnd.title,アイドルロード進行不可,Can't Advance Idol Road
+idolRoad.needsProduceEnd.message1,%{idolName}は\n現在プロデュース中のため\nアイドルロードを進行する事ができません,
+idolRoad.needsProduceEnd.message2,プロデュースを完了するか\nプロデュースを終了してください,
+idolRoad.cantReceive.title,アイテム所持上限,Item Cap
+idolRoad.cantReceive.message,獲得アイテムが所持上限を超えているため\nアイドルロードを進行する事ができません,
+idolRoad.rewardDetail.rarityUp.name,レアリティ上昇,Rarity Increase
+idolRoad.rewardDetail.rarityUp.comment,%{beforeRarityText}プロデュースアイドルのレアリティが%{rarityText}に上昇,
+idolRoad.rewardDetail.unlockVoice.name,%{charName}\nホームボイス追加,%{charName}'s\nHome Voice line
+idolRoad.rewardDetail.unlockVoice.comment,%{voiceName}を追加,%{voiceName} obtained
+idolRoad.rewardDetail.evolutionStage.name,特訓数＋1,Evolve +1
+idolRoad.rewardDetail.evolutionStage.comment,%{rarityText}プロデュースアイドルの特訓数を＋1,
+idolRoad.rewardDetail.trustUp.name,%{charName}の\n信頼度Lv.上限＋%{num},
+idolRoad.rewardDetail.trustUp.comment,%{charName} の信頼度Lv.の上限が%{num}上昇,
+idolRoad.rewardDetail.title.name,専用称号『%{titleName}』x１,
+idolRoad.rewardDetail.title.comment,%{charName} 専用称号『%{titleName}』を獲得,
+idolRoad.rewardDetail.supportIdol.comment,%{rarityText}サポートアイドルです,
+idolRoad.evolutionStageUnlockPop.title,特訓数増加,Evolve Rank Increase
+idolRoad.evolutionStageUnlockPop.message,アイドルロードの進行によって\n特訓段階が増加しました,By moving forward on the Idol Road\nyour idol's evolve rank increased
+idolRoad.evolutionStageNotEnoughPop.title,特訓数不足,
+idolRoad.evolutionStageNotEnoughPop.message1,特訓数が足りていない為\nアイドルロードを進行することが出来ません,
+idolRoad.evolutionStageNotEnoughPop.message2,%{idolName}\nの特訓数を4まで上昇させる事で\nアイドルロードの進行が可能になります,
+idolRoad.produceAttentionPop.title,アイドルロード進行不可,Can't Advance Idol Road
+idolRoad.produceAttentionPop.message1,%{idolName}\nは現在プロデュース中の為\nアイドルロードを進行させることが出来ません,
+idolRoad.produceAttentionPop.message2,プロデュースを完了するか\nプロデュースを終了してください,
+idolRoad.rarityUpPop.title,レアリティ上昇,Rarity Increased
+idolRoad.rarityUpPop.message,アイドルロードの進行によって\nレアリティが上昇しました,By moving forward on the Idol Road\nyour idol's rarity increased
+idolRoad.trustLimitUpPop.title,信頼度上限解放,Trust Limit Unlock
+idolRoad.trustLimitUpPop.message1,アイドルロードの進行によって,By moving forward on the Idol Road
+idolRoad.trustLimitUpPop.message2,[%{idolName}]の信頼度lv上限が%{limit},%{idolName}'s Trust Limit %{limit}
+idolRoad.trustLimitUpPop.message3,に上昇しました,has been unlocked.
+idolRoad.roadRewardDetail.received,獲得済み,Received
+idolRoad.roadRewardDetail.notReceived,あとミッション%{count}個達成で到達,Reward from %{count} missions
+idolRoad.popReceive.title,アイドルロード進行報酬,Idol Road Progress Reward
+idolRoad.popReceive.comment,アイドルロード進行の報酬として\n以下を獲得しました,Received this reward from\nadvancing on Idol Road
+idolRoad.needsEvolution,%{idolName}を最大まで特訓しよう,Evolve %{idolName} to the max
+idolRoad.canProcessText,あと%{canProceedCount}歩進めます,Can advance %{canProceedCount} step(s)
+idolRoad.recommendProcessText,ミッションをクリアして進めよう,Clear Missions to Move Forward
+releasedCommentsPop.title,ボイス解放,Voice Unlocked
+releasedCommentsPop.message,を解放しました\n\nホーム画面にて聞くことができます\nアイドルアルバムで再生のON/OFFが可能です,has been unlocked.\n\nYou can listen on the home screen.\nYou can toggle it ON/OFF from the album.
+produceReady.idolRestrictionPop.title,編成アイドル制限,Idol Setup Restriction
+produceReady.idolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「%{title}」で\nプロデュースアイドルに選択できません,
+produceReady.idolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「%{title}」で\nサポートアイドルに選択できません,
+training.resultTitleFeatured,トレーニング結果,Training Result
+training.invalidRarity2,Nのサポートアイドルには使用できません,Can't be used on N Rarity Support Idols
+training.invalidRarity3,R以下のサポートアイドルには使用できません,Can't be used on R or lower Rarity Support Idols
+training.invalidRarity4,SR以下のサポートアイドルには使用できません,Can't be used on SR or lower Rarity Support Idols
+training.invalidLevel,Lv.%{lv}以上のため使用できません,Can't be used above Lv.%{lv}
+training.normalInvalidBlockText,%{name}は\n他のトレーニングチケットと\n一緒に使用することはできません,%{name} can't be used with other Training Tickets.
+training.featuredInvalidBlockText,他のトレーニングチケットと\n一緒に使用することはできません,Can't be used with other Training Tickets.
+training.confirm.comment,以下のチケットを使って、\nアイドルをトレーニングしますか？,Use this ticket to train\nthe idol?
+training.confirm.lvNotice,Lv.2以上のサポートアイドルが選択されています\nアイドルをトレーニングした場合\n余剰分のExpは消失します,A Lv.2 or higher support idol is\nselected.  The excess experience\nwill be lost.
+tutorial.dialog.idolChoice.title,プロデュースアイドル確認,Confirm Idol
+tutorial.dialog.idolChoice.message,%{name}で\nチュートリアルを開始しますか？,Start the tutorial with\n%{name}?
+tutorial.dialog.deckEdit.title,確認,Confirm
+tutorial.dialog.deckEdit.message,編成のチュートリアルを見ますか？,View the Team Setup Tutorial?
+tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,First please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol~
+tutorial.unitDescription.1,小さな光を宿す少女たちで結成された、新世代のアイドルユニット。\n今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、\n一等星を目指して歩んでいく！,"A new-generation unit of young girls who harbor a tiny light.\nThough it's faint, they'll continue struggling onward while\nsupporting each other to become shooting stars!"
+tutorial.unitDescription.2,胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、\n新世界の革命的アイドルユニット。\nゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。,"A revolutionary unit of the New World: their heart's smoldering\nflames made Song, solitude in their tears made Prayer.\nClad in Gothic dress, they sing on for Hope."
+tutorial.unitDescription.3,個性と個性がぶつかり合う全力系アイドルユニット。\n全身全霊でアイドル道を突き進む彼女達の姿こそ、クライマックスの証。\nファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す！！,"A full-power unit where unique personalities collide. Each of them\nplunges forward with complete devotion on the path of an idol,\nbearing the emblem of 'Climax'.\nThese idols will engulf the world as they aim for the very top!!"
+tutorial.unitDescription.4,ポップでハッピーな3人組アイドルユニット。\nアルストロメリアの花言葉「未来への憧れ」を胸に抱き、\n今日もシアワセなパフォーマンスで会場に笑顔を咲かせます！,"A happy Pop unit of three idols. They embrace the symbolism of the\nAlstromeria flower, 'longing for the future'. Their smiles will\nnow bloom in the venue of their wonderful performance!"
+tutorial.unitDescription.5,実在と非実在を行き来するカリスマ的アイドルユニット。\nアイドルというアバターを身に纏い、歌うは真実か、狂気か。\n解き放たれた迷光が、今日も世界を奔る。,"A charismatic unit that moves between reality and fiction. Garbed in\nthe avatar known as idol, is it truth or madness they sing?\nThe straying lights they unleash shake the world today."
+tutorial.unitDescription.6,幼なじみ４人で結成された、透明感あふれるアイドルユニット\n誰かになる必要なんてない――\n走り出す波を追って、少女たちは碧い風になる,"Formed from four childhood friends, a unit brimming with a sense of\ntranslucence. They don't have to be someone.\nChasing the breaking waves, the girls become azure winds."
+pushNotification.title,シャニマス,Shinymas
