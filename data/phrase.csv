@@ -1362,8 +1362,8 @@ shop.monthLimit,%{limit}/月,%{limit}/Month
 shop.packageDialog.itemNameAndNum,%{name} × %{num},%{name} × %{num}
 shop.packageDialog.noticeLimitText,【有効期限】%{expireDate},【Expires】%{expireDate}
 shop.smallTabTitles.money.all,ALL,ALL
-skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、\r私服衣装は変更されません。,"This costume only changes the live outfit,regular outfit is not affected."
-skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、\rライブ衣装は変更されません。,"This costume only changes the regular outfit,live outfit is not affected."
+skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、\r私服衣装は変更されません。,"This costume only changes the live outfit,\r\nregular outfit is not affected."
+skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、\rライブ衣装は変更されません。,"This costume only changes the regular outfit,\r\nlive outfit is not affected."
 training.resultTitleSuper,トレーニング超成功,ULTRA Training Success
 training.successType.great,大成功,Great Success
 training.successType.super,超成功,ULTRA Success
