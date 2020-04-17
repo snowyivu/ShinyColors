@@ -6,26 +6,26 @@ id,name,text,trans
 1022001020030,小糸,…………！,...!
 0000000000000,プロデューサー,そんなに警戒しなくても大丈夫だ\n別に怒ったり叱ったりするわけじゃない,You don't have to put your guard up like that. I'm not going to get angry or scold you.
 1022001020040,小糸,…………は、はい……！,...O-Okay...!
-0000000000000,プロデューサー,それで、これ……２８３プロに所属するにあたって\n親御さんから書類、貰ってきてくれただろ？,"Well then, this... you turned in the documents from your parents to become part of 283 Productions, right?"
+0000000000000,プロデューサー,それで、これ……２８３プロに所属するにあたって\n親御さんから書類、貰ってきてくれただろ？,"Well then, here... you turned in the documents from your parents to become part of 283 Productions, right?"
 1022001020050,小糸,…………！\nそそそそれが何か！　不備でもありましたか……！？,...! I-I-I-Is there! Something wrong with them...!?
-0000000000000,プロデューサー,いや、これ自体には不備は無いよ\nただこれから本格的な活動していくにはさ,"No, there's nothing wrong with it itself. It's just about you working regularly from now on."
-0000000000000,プロデューサー,直接お会いしてご挨拶、\nというか説明と確認をさせてもらいたいんだ,"I would like to greet them in person, or I should say I would like to be able to explain and confirm this with them."
-0000000000000,プロデューサー,ご両親とも忙しいってことだったけど\nこのまま小糸の活動を進めていくわけにもいかない,"I know your parents are busy, but I can't have you move forward with your work like this."
+0000000000000,プロデューサー,いや、これ自体には不備は無いよ\nただこれから本格的な活動していくにはさ,"No, there's nothing wrong with them. It's just about you working regularly from now on."
+0000000000000,プロデューサー,直接お会いしてご挨拶、\nというか説明と確認をさせてもらいたいんだ,"I would like to greet your parents in person, or I should say I would like to be able to clarify and confirm this with them."
+0000000000000,プロデューサー,ご両親とも忙しいってことだったけど\nこのまま小糸の活動を進めていくわけにもいかない,"You said your parents are busy, but I can't have you move forward with your work like this."
 1022001020060,小糸,……………………,...
-0000000000000,プロデューサー,やっぱり、忙しそうか？,So they really are busy?
+0000000000000,プロデューサー,やっぱり、忙しそうか？,So they're really that busy?
 1022001020070,小糸,………………はい,...Yes.
-0000000000000,プロデューサー,そうか……じゃあ一度電話させてもらって……,I see... then I'll call them...
+0000000000000,プロデューサー,そうか……じゃあ一度電話させてもらって……,I see... then I'll just call them...
 1022001020080,小糸,え……っ\nあ、えっと……！,"Eh... ah, um...!"
-1022001020090,小糸,確認！　してみます……\nわたしから……！,Confirm! I... I'll try doing that...!
-0000000000000,プロデューサー,ああ、そうか？　こっちの都合はつけるから、\n親御さんの都合のいい日を聞いてみてくれ,"Ah, really? I'll arrange it on my end, so ask them what day would be good for them for me."
+1022001020090,小糸,確認！　してみます……\nわたしから……！,I'll check! I... I'll try doing that...!
+0000000000000,プロデューサー,ああ、そうか？　こっちの都合はつけるから、\n親御さんの都合のいい日を聞いてみてくれ,"Ah, really? I'll move things on my end, so ask them what day would be good for them for me."
 1022001020100,小糸,……わ、わかりました…………,...G-Got it...
-1022001020110,小糸,……………………,...
-0000000000000,プロデューサー,……そういえば、小糸は成績がいいらしいな\n勉強とレッスンの両立は大丈夫そうか？,"...By the way, it sounds like you have good grades. Will you be okay doing both studying and lessons?"
+1022001020110,小糸,……………………,......
+0000000000000,プロデューサー,……そういえば、小糸は成績がいいらしいな\n勉強とレッスンの両立は大丈夫そうか？,"...By the way, it sounds like you have good grades. Will you be okay maintaining those while doing lessons?"
 1022001020120,小糸,………………はい……,...Yes...
 0000000000000,プロデューサー,……レッスン、やってみてどうだった？\n何か困ってることとかあるか？,...How were lessons when you tried them? Did you run into any problems?
 1022001020130,小糸,………………いえ……,...No...
 0000000000000,プロデューサー,ああ、そういえば\nトレーナーが褒めてたぞ,"Yeah, speaking of that, the trainer praised you."
-0000000000000,プロデューサー,さすが幼馴染だけあって、\nみんな息があってるって,"They said as they could expect from childhood friends, you all worked well together."
+0000000000000,プロデューサー,さすが幼馴染だけあって、\nみんな息があってるって,"They said as one could expect from childhood friends, you all worked well together."
 1022001020140,小糸,…………！\nえ……,...! Eh...
 1022001020150,小糸,それ、本当ですか……！,For real...!?
 0000000000000,プロデューサー,ああ、タイプはバラバラなのに\n一体感があるって,"Yeah, they said even though you're mismatched, you have a sense of unity."
@@ -33,7 +33,7 @@ id,name,text,trans
 1022001020160,小糸,え……えへへ,Eh... ehehe.
 0000000000000,プロデューサー,それに小糸は真面目で一生懸命だって,They also said that you seriously gave it your all.
 1022001020170,小糸,わぁ…………！,Wow...!
-0000000000000,プロデューサー,そういうところが他のメンバーにも\nいい影響を与えてるって聞いたよ,I heard you being like that is a good influence for the other members of your unit too.
+0000000000000,プロデューサー,そういうところが他のメンバーにも\nいい影響を与えてるって聞いたよ,"I heard that you being like that is a good influence for the other members of your unit, too."
 1022001020180,小糸,え、えっへん……！\nそうなんです！,"Ah, ahem...! That's right!"
 1022001020190,小糸,みんな、わたしがいないとだめなんですよー！,They would all be lost without me!
 0000000000000,プロデューサー,はは、ああ,"Haha, yeah."
@@ -43,7 +43,7 @@ select,,聞いていたとおりだ,"It's just like I
 heard."
 0000000000000,プロデューサー,プロデューサーとしても,As your producer as well.
 1022001020200,小糸,はい……！\nみ、みんなのことなら任せてくださいね！,Yes...! Y-You can leave the others to me!
-0000000000000,プロデューサー,あはは、そうだな,"Ahaha, right."
+0000000000000,プロデューサー,あはは、そうだな,"Ahaha, is that so?"
 0000000000000,プロデューサー,小糸がみんなにいい影響を与えてるって\nわかる気がするな,I feel like I understand how you're a good influence for them.
 0000000000000,プロデューサー,小糸を見てると頑張ろうって思えるもんな？,"They'll most likely work hard if they see you, right?"
 1022001020210,小糸,ええ……それって\nどういう意味ですか……！？,Um... what do you mean by that...!?
@@ -56,9 +56,9 @@ heard."
 0000000000000,プロデューサー,本当に、いつでも,"Really, any time."
 1022001020250,小糸,…………はい\nそうですね、プロデューサーさん,"...Yes. That's right, Producer."
 1022001020260,小糸,え？,Eh?
-0000000000000,プロデューサー,小糸は幼馴染のことになると\nすごくいい表情をするってさ,"I heard that when it comes to your childhood friends, you have a good facial expression."
+0000000000000,プロデューサー,小糸は幼馴染のことになると\nすごくいい表情をするってさ,"I heard that when it comes to your childhood friends, you get a nice expression."
 1022001020270,小糸,……ええ……！？,...What...!?
-0000000000000,プロデューサー,そういう、小糸の姿を\n色んな人に知ってもらえるといいなと思うよ,I think it'll be good if different kinds of people get to know you like that.
+0000000000000,プロデューサー,そういう、小糸の姿を\n色んな人に知ってもらえるといいなと思うよ,I think it'll be good if different kinds of people get to see you like that.
 1022001020280,小糸,…………はい\nありがとうございます、プロデューサーさん,"...Yes. Thank you, Producer."
 info,produce_events/102200102.json,
 译者,,
