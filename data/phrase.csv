@@ -442,10 +442,10 @@ gasha.popTicketDesc,%{ticketName}を\r消費してガシャを%{quantity}回引�
 gasha.popJewelDesc,フェザージュエルを%{price}個消費して\rガシャを%{quantity}回引きます。\rよろしいですか？,This will consume %{price} Feather Jewels.\r\nGacha will be drawn %{quantity} times.\r\nAre you sure?
 gasha.popBanaCoinDesc,バナコインでガシャを%{quantity}回引きますか？,バナコインでガシャを%{quantity}回引きますか？
 gasha.popFreeDesc,無料で1回ガシャを引きますか？,無料で1回ガシャを引きますか？
-gasha.popRedrawConfirm.title,ご注意,ご注意
+gasha.popRedrawConfirm.title,ご注意,Warning
 gasha.popRedrawConfirm.comment,「初回限定！運命の出会いガシャ」は、\nお気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です。,「初回限定！運命の出会いガシャ」は、\nお気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です。
 gasha.popRedrawConfirm.notice,「初回限定！運命の出会いガシャ」の\nアイドルを確定してもよろしいですか？,「初回限定！運命の出会いガシャ」の\nアイドルを確定してもよろしいですか？
-gasha.confirmDialog.title,使用確認,使用確認
+gasha.confirmDialog.title,使用確認,Confirm Use
 gasha.confirmDialog.message,フェザージュエルを%{price}個消費して\nガシャを%{count}回引きます\nよろしいですか？,Using %{price} Feather Jewels will pull\r\ngacha %{count} times.\r\nProceed?
 gasha.confirmDialog.messageBilledOnly,ガシャを%{count}回引きます\nよろしいですか？,Gacha will pull %{count} times.\r\nProceed?
 gasha.confirmDialog.noticeBilledOnly,有償フェザージュエルでのみ購入可能,Available only with Paid Feather Jewels
@@ -912,8 +912,8 @@ skin,衣装,Outfit
 skinExchange.headerTitle,衣装ショップ,Outfit Shop 
 skinExchange.noMerchandiseNotice,交換できる衣装がありません。,There are no exchangeable outfits.
 skinExchange.shop.possessionMarkCaption,所持数,Num Owned
-skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,"This costume only changes the regular outfit,\nlive outfit is not affected."
-skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit,\nregular outfit is not affected."
+skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,"This costume only changes the regular outfit, live outfit is not affected."
+skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit, regular outfit is not affected."
 skinKind.plain,私服衣装,Regular Outfit
 skinKind.concert,ライブ衣装,Live Outfit
 specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Replay
@@ -1187,7 +1187,7 @@ characterBirthday.specialCommunicationDialog.txtNotice,「あとで再生」を�
 errorDialog.closedText,期間は終了しました,This has ended. 
 errorDialog.eventClosedTitle,イベント期間外,Event Over
 errorDialog.expiredProduceItem,アイテムの使用期限が終了したため\n持ち込むことができませんでした\n\n再度アイテムを選択し直してください,アイテムの使用期限が終了したため\n持ち込むことができませんでした\n\n再度アイテムを選択し直してください
-errorDialog.shopClosedTitle,購入期間外,購入期間外
+errorDialog.shopClosedTitle,購入期間外,Shop Closed
 extraCampaign.application.announceTime,yyyy/mm/dd HH:MM,yyyy/mm/dd HH:MM
 extraCampaign.application.announceTimeLabel,当選発表,Selection Results
 extraCampaign.application.applicationAgreementDialog.body.heading,「アイドルマスター シャイニーカラーズ」\rリアルステージイベント『283プロダクション プロデューサー感謝祭』\rステージ観覧応募について,"About the ""iDOLM@STER: Shiny Colors"" Real Stage Event ""283 Productions Thank You Festival"" Viewing Application"
@@ -1197,7 +1197,7 @@ extraCampaign.application.applicationAgreementDialog.body.inquiry.title,お問�
 extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.1,・リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』ステージ観覧応募（以下、本応募企画といいます）は株式会社バンダイナムコエンターテインメント（以下、当社といいます）が配信するenza対応ゲーム「アイドルマスター シャイニーカラーズ」（以下、本ゲームといいます）に関連して、以下に掲げる応募条件を満たして応募していただいたお客様の内、抽選で1、515名様を、リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』（以下、本イベントといいます）へご招待する応募企画となります。,・リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』ステージ観覧応募（以下、本応募企画といいます）は株式会社バンダイナムコエンターテインメント（以下、当社といいます）が配信するenza対応ゲーム「アイドルマスター シャイニーカラーズ」（以下、本ゲームといいます）に関連して、以下に掲げる応募条件を満たして応募していただいたお客様の内、抽選で1、515名様を、リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』（以下、本イベントといいます）へご招待する応募企画となります。
 extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.2,・本応募企画は当社が実施するものであり、本ゲームを配信するストアの運営会社はその実施に関与していません。,・本応募企画は当社が実施するものであり、本ゲームを配信するストアの運営会社はその実施に関与していません。
 extraCampaign.application.applicationAgreementDialog.body.items.1.descriptions.3,・本イベントの性質上、本応募企画終了時点で満12歳に満たないお客様はご応募することが出来ません。予めご了承ください。,・本イベントの性質上、本応募企画終了時点で満12歳に満たないお客様はご応募することが出来ません。予めご了承ください。
-extraCampaign.application.applicationAgreementDialog.body.items.1.title,概要,概要
+extraCampaign.application.applicationAgreementDialog.body.items.1.title,概要,Summary
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.1,A賞：リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』観覧席へのご招待：1、515名様,A賞：リアルステージイベント『283プロダクション プロデューサー感謝祭 ～1.5 Anniversary Festival!!～』観覧席へのご招待：1、515名様
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.2,※本イベントの概要は以下となります。,※本イベントの概要は以下となります。
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.3,日時：2019年10月27日（日）開場17:00 / 開演18:00 （予定）,日時：2019年10月27日（日）開場17:00 / 開演18:00 （予定）
@@ -1209,9 +1209,9 @@ extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.8
 extraCampaign.application.applicationAgreementDialog.body.items.2.title,プレゼントの内容,プレゼントの内容
 extraCampaign.application.applicationAgreementDialog.body.items.3.descriptions.1,2019年7月31日(水)15：00～2019年8月31日(土)23：59まで,2019年7月31日(水)15：00～2019年8月31日(土)23：59まで
 extraCampaign.application.applicationAgreementDialog.body.items.3.descriptions.2,※応募期間終了後、応募先の変更はできませんのでご了承ください。,※応募期間終了後、応募先の変更はできませんのでご了承ください。
-extraCampaign.application.applicationAgreementDialog.body.items.3.title,応募期間,応募期間
-extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.1,■応募資格,■応募資格
-extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.10,■応募口数について,■応募口数について
+extraCampaign.application.applicationAgreementDialog.body.items.3.title,応募期間,Entry Period
+extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.1,■応募資格,■ Qualification Requirement
+extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.10,■応募口数について,■ About Number of Entries
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.11,・本応募企画において応募可能な応募口数は、本ゲーム内にて2019年7月31日(水)15:00～2019年8月31日(土)14：59まで開催される本イベント特設ページでの配布、および対象のアイテムパックに付属する応募券の累計獲得数に応じて変動いたします。,・本応募企画において応募可能な応募口数は、本ゲーム内にて2019年7月31日(水)15:00～2019年8月31日(土)14：59まで開催される本イベント特設ページでの配布、および対象のアイテムパックに付属する応募券の累計獲得数に応じて変動いたします。
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.12,・応募券1枚につきA賞もしくはB賞に1口ご応募いただけます。,・応募券1枚につきA賞もしくはB賞に1口ご応募いただけます。
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.13,・応募券の獲得方法等、詳細事項は本ゲーム内におけるお知らせをご確認ください。,・応募券の獲得方法等、詳細事項は本ゲーム内におけるお知らせをご確認ください。
@@ -1224,7 +1224,7 @@ extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.6
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.7,②、2019年8月31日（土）23：59の応募締め切り時点で、お持ちの応募券それぞれに設定されている応募先に、自動的に応募されます。,②、2019年8月31日（土）23：59の応募締め切り時点で、お持ちの応募券それぞれに設定されている応募先に、自動的に応募されます。
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.8,※①において応募される際、後述する基準にしたがい、応募可能な口数が変動いたします。,※①において応募される際、後述する基準にしたがい、応募可能な口数が変動いたします。
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.9,※②の応募完了時、応募規約に同意したものとみなします。\r,※②の応募完了時、応募規約に同意したものとみなします。\r
-extraCampaign.application.applicationAgreementDialog.body.items.4.title,応募について,応募について
+extraCampaign.application.applicationAgreementDialog.body.items.4.title,応募について,Regarding the Application
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.1,■応募・当選について,■About the Application and Selection
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.10,・当選された権利の譲渡や転売等は禁止いたします。譲渡・転売等を目的とした応募であると判明した場合、又はお客様が応募に際し、不正行為等を行ったと弊社が判断した場合、当該応募は抽選対象外となります。また、当選発表後に当選した権利の譲渡、転売等が発覚した場合、当選は無効とし、当日のご入場をお断りさせていただきます。予めご了承ください。,・当選された権利の譲渡や転売等は禁止いたします。譲渡・転売等を目的とした応募であると判明した場合、又はお客様が応募に際し、不正行為等を行ったと弊社が判断した場合、当該応募は抽選対象外となります。また、当選発表後に当選した権利の譲渡、転売等が発覚した場合、当選は無効とし、当日のご入場をお断りさせていただきます。予めご了承ください。
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.11,・応募に際してのパケット料金などの通信料はお客様のご負担となります。,・応募に際してのパケット料金などの通信料はお客様のご負担となります。
@@ -1253,7 +1253,7 @@ extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.1
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.11,・お名前が確認できる身分証明書に該当する書類は以下のいずれかになります。,・お名前が確認できる身分証明書に該当する書類は以下のいずれかになります。
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.12,学生証 / 社員証 / 住民基本台帳カード / 健康保険被保険者証 / 住民票の写し / 母子健康手帳 / 年金手帳,学生証 / 社員証 / 住民基本台帳カード / 健康保険被保険者証 / 住民票の写し / 母子健康手帳 / 年金手帳
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.13,・コピーした身分証明書、有効期限切れの身分証明書、クレジットカード、定期券、診察券、ポイントカード、公共料金払込票、マイナンバー通知カード等は有効な身分証明書には該当しません。\r,・コピーした身分証明書、有効期限切れの身分証明書、クレジットカード、定期券、診察券、ポイントカード、公共料金払込票、マイナンバー通知カード等は有効な身分証明書には該当しません。\r
-extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.14,■その他イベントについて,■その他イベントについて
+extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.14,■その他イベントについて,■Regarding Other Events
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.15,・本イベントにおきましては、フラワースタンド等の祝花を受け付けさせていただく予定です。詳細は追ってご案内いたします。,・本イベントにおきましては、フラワースタンド等の祝花を受け付けさせていただく予定です。詳細は追ってご案内いたします。
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.16,・座席は当日確認用メールにてご案内いたします。,・座席は当日確認用メールにてご案内いたします。
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.17,・座席の指定はできません。また、座席位置は会場内からランダムに抽選させていただきます。,・座席の指定はできません。また、座席位置は会場内からランダムに抽選させていただきます。
@@ -1279,9 +1279,9 @@ extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.7
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.8,なお、顔写真付きの身分証明書内のお写真とご当選者様の容姿が著しく異なる場合、ご入場いただけない場合がございます。,なお、顔写真付きの身分証明書内のお写真とご当選者様の容姿が著しく異なる場合、ご入場いただけない場合がございます。
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.9,・顔写真付きの身分証明書に該当する書類は以下のいずれかになります。,・顔写真付きの身分証明書に該当する書類は以下のいずれかになります。
 extraCampaign.application.applicationAgreementDialog.body.items.6.title,本イベントに関する注意事項,本イベントに関する注意事項
-extraCampaign.application.applicationAgreementDialog.title,応募規約,応募規約
+extraCampaign.application.applicationAgreementDialog.title,応募規約,Entry Agreenet
 extraCampaign.application.applyErrorDialog.text,応募期間が終了しているため\r応募できませんでした,応募期間が終了しているため\r応募できませんでした
-extraCampaign.application.applyErrorDialog.title,応募エラー,Application Error
+extraCampaign.application.applyErrorDialog.title,応募エラー,Entry Error
 extraCampaign.application.applyResultDialog.comment,応募券の使用先設定を保存しました\r\r抽選は応募期間終了時点での内容で処理されます,応募券の使用先設定を保存しました\r\r抽選は応募期間終了時点での内容で処理されます
 extraCampaign.application.applyResultDialog.notice,応募期間中はいつでも\r何度でも応募先を変更することができます,応募期間中はいつでも\r何度でも応募先を変更することができます
 extraCampaign.application.applyResultDialog.title,応募設定完了,応募設定完了
@@ -1289,16 +1289,16 @@ extraCampaign.application.applyTimeLimit,yyyy/mm/dd HH:MMまで,Until yyyy/mm/dd
 extraCampaign.application.applyTimeLimitLabel,応募期間,Application Period
 extraCampaign.application.heading,応募券の使用先を選んでください,応募券の使用先を選んでください
 extraCampaign.application.notice,必ず応募規約をお読みいただき\r内容に同意した上でご応募ください,必ず応募規約をお読みいただき\r内容に同意した上でご応募ください
-extraCampaign.application.possessionTicketCountLabel,獲得数,獲得数
+extraCampaign.application.possessionTicketCountLabel,獲得数,Receive Count
 extraCampaign.application.receivTimeOverNotice,受け取り期間終了,受け取り期間終了
 extraCampaign.application.receiveTicketsErrorDialog.text,受取期間が終了しているため\r応募券を受け取れませんでした,受取期間が終了しているため\r応募券を受け取れませんでした
 extraCampaign.application.receiveTicketsErrorDialog.title,応募券受け取りエラー,応募券受け取りエラー
 extraCampaign.application.receiveTicketsResultDialog.text,%{ticketName}を\r%{ticketCount}枚獲得しました,%{ticketName}を\r%{ticketCount}枚獲得しました
 extraCampaign.application.receiveTicketsResultDialog.title,応募券受け取り,応募券受け取り
 extraCampaign.application.receiveTimeLimit,yyyy/mm/dd HH:MMまで,Until yyyy/mm/dd HH:MM
-extraCampaign.application.receiveTimeLimitLabel,受取期間,受取期間
-extraCampaign.application.receivedNotice,受け取り済,受け取り済
-extraCampaign.application.ticketCountUnit,枚,枚
+extraCampaign.application.receiveTimeLimitLabel,受取期間,Receive Period
+extraCampaign.application.receivedNotice,受け取り済,Received
+extraCampaign.application.ticketCountUnit,枚,x
 extraCampaign.application.warnings.1,A賞およびB賞に応募し、A賞に当選した場合、B賞の抽選は行われません。,A賞およびB賞に応募し、A賞に当選した場合、B賞の抽選は行われません。
 extraCampaign.application.warnings.2,応募先は応募期間中何度でも変更できますが、応募期間終了時に選択していた応募先に自動的に応募されます。なお、応募完了時、応募規約に同意したものとみなされます。,応募先は応募期間中何度でも変更できますが、応募期間終了時に選択していた応募先に自動的に応募されます。なお、応募完了時、応募規約に同意したものとみなされます。
 extraCampaign.result.appliedTicketArea.rewardTitles.1,A賞,Prize A
@@ -1476,7 +1476,7 @@ idolRoad.rewardDetail.title.comment,%{charName} 専用称号『%{titleName}』�
 idolRoad.rewardDetail.supportIdol.comment,%{rarityText}サポートアイドルです,
 idolRoad.evolutionStageUnlockPop.title,特訓数増加,Evolve Rank Increase
 idolRoad.evolutionStageUnlockPop.message,アイドルロードの進行によって\n特訓段階が増加しました,By moving forward on the Idol Road\nyour idol's evolve rank increased
-idolRoad.evolutionStageNotEnoughPop.title,特訓数不足,
+idolRoad.evolutionStageNotEnoughPop.title,特訓数不足,Not Evolved Enough
 idolRoad.evolutionStageNotEnoughPop.message1,特訓数が足りていない為\nアイドルロードを進行することが出来ません,
 idolRoad.evolutionStageNotEnoughPop.message2,%{idolName}\nの特訓数を4まで上昇させる事で\nアイドルロードの進行が可能になります,
 idolRoad.produceAttentionPop.title,アイドルロード進行不可,Can't Advance Idol Road

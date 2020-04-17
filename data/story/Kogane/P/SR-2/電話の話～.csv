@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"はい……はい、承知いたしました
-ええ、……ははは、それじゃよろしくお願いします","Yes. Yes, I understand.
-Yes. Hahaha. I'm looking forward to it."
+ええ、……ははは、それじゃよろしくお願いします","Yes... Yes, I understand.
+Yes... Hahaha, I'm looking forward to it."
 0000000000000,プロデューサー,"……んーと……
 恋鐘は13時入りで大丈夫そうだな……","Let's see...
 It seems that it's alright for Kogane to come at 1 pm."
@@ -9,10 +9,10 @@ It seems that it's alright for Kogane to come at 1 pm."
 2004005110010,恋鐘,"はぁ～～……
 疲れたばい～～……","Haa...
 I'm so tired..."
-2004005110020,恋鐘,…………ふふ～,Fufu
+2004005110020,恋鐘,…………ふふ～,Fufu~...
 2004005110030,恋鐘,"『今日はよくやったぞ、恋鐘』
 やってぇ～……","""You did great today, Kogane""
-Aah..."
+Aah~..."
 2004005110040,恋鐘,……,......
 2004005110050,恋鐘,……んふふ～,Mfufu...
 2004005110060,恋鐘,"…………
@@ -20,12 +20,12 @@ Aah..."
 2004005110070,恋鐘,"ん～でも……
 シャワーくらいは……行かんば……",Still... I should at least take a shower...
 2004005110080,恋鐘,"……
-…………",......
+…………",Mhn...
 2004005110090,恋鐘,プロデューサー……なんしよっとかなー……,Producer... What should I do?
 2004005110100,恋鐘,もう家……帰ったとかなー……,I wonder if I really am home now...
 2004005110110,恋鐘,──わ、わわ……！,A-Aah!
 2004005110120,恋鐘,"プ、プロデューサーからメールばい……！
-え……と……！","I-It's a message from Producer!
+え……と……！","A message from Producer!
 Let's see..."
 0000000000000,プロデューサー,"『恋鐘、遅くに悪いな
 今日はよくがんばった。お疲れ様』","""Kogane, sorry for making you stay so late.
@@ -33,38 +33,38 @@ You were really great today. Good job."""
 0000000000000,プロデューサー,"『明日の現場だけど、13時入りに変更になったから
 午前はゆっくり休んでくれ』","""Regarding tomorrow, the schedule has been changed to 1 pm
 so please do get plenty of rest during the morning."""
-2004005110130,恋鐘,んふふ～！　び～っくりしたば～い！,Mfufu~! This is surprising!
+2004005110130,恋鐘,んふふ～！　び～っくりしたば～い！,Mfufu~! This is surprisin'!
 2004005110140,恋鐘,"13時かぁ～
 ……きっと気ぃ遣ってくれたとよねー……","1 pm...
-I'm sure that he's being considerate for me."
+I'm sure that he's being considerate for me..."
 2004005110150,恋鐘,ふふ……,Fufu...
 2004005110160,恋鐘,"…………
 …………電話！",...A phone call!
 2004005110170,恋鐘,……プロデューサーに、お礼言わんば！,I have to thank him!
 2004005110180,恋鐘,"お礼は大事やけん……！
 電話……せんといけんよね～～……うん！！","It's important to show my gratitude!
-So... I have to call him! Yeah!"
+So... I have to call him~! Yeah!"
 0000000000000,プロデューサー,"ふあぁ……
 あー……腹も減ってきたな……","*Yawn*
-Aah... And I'm getting hungry..."
+Aah... And I'm gettin' hungry..."
 0000000000000,プロデューサー,"おっと……！
 あれ……恋鐘からか……？","Woah!
 Wait... It's from Kogane?"
-0000000000000,プロデューサー,──はい。俺だけど,Hello. It's me.
-2004005110190,恋鐘,プロデューサー！？　お、お疲れば──ごほごほッ！,Producer? G-Good─*coughs*
+0000000000000,プロデューサー,──はい。俺だけど,"Hello, It's me."
+2004005110190,恋鐘,プロデューサー！？　お、お疲れば──ごほごほッ！,Producer!? G-Good──*coughs*
 0000000000000,プロデューサー,"ど、どうした、恋鐘！？
 大丈夫か！？","W-What happened, Kogane?
 Are you alright?"
 2004005110200,恋鐘,"う、うん。ちょっとむせただけ。ぜんぜん大丈夫！
-うちば～い！","Y-Yes. I just choked a little. I'm totally fine!
-Just fine!"
+うちば～い！","Y-Yeah, I just choked a little. I'm totally fine!
+Just fiiine~!"
 0000000000000,プロデューサー,"おう、わ、わかるぞ……
 どうしたんだ？　……明日のこと？","Oh, o-okay.
 So, what's the matter? Is it about for tomorrow?"
 2004005110210,恋鐘,"あ、うん！
 プロデューサー、さっきはありがとう～！","Ah, yes!
 Producer, thank you about that earlier!"
-2004005110220,恋鐘,うちに気ぃ遣ってくれたとよね,"You were bing considerate of me, weren't you?"
+2004005110220,恋鐘,うちに気ぃ遣ってくれたとよね,"You were being considerate of me, weren't ya?"
 0000000000000,プロデューサー,"いや……はは、
 今日はよくがんばってたからな","Well... Haha.
 You were working hard today so..."
@@ -80,7 +80,7 @@ I haven't managed to get much time, but please do rest up a little."
 I just wanted to thank you..."
 0000000000000,プロデューサー,"あ、そうだったのか！
 ……悪いな、かえって──","Oh, I see.
-...I'm really sorry─"
+...I'm really sorry──"
 2004005110260,恋鐘,"う、ううん！　ううん！
 ほんとに、嬉しかったとよ","N-No! It's alright!
 I was really happy."
@@ -99,21 +99,21 @@ Well... It seems to be sunny but... Well, we'll be at a studio so..."
 But, it'd be nice if it's sunny!"
 0000000000000,プロデューサー,"そうだな。……もし足元が悪いようなら迎えに回るから
 それじゃ、早く──","Yeah. But, in case if it's hard to walk, I'll pick you up instead.
-Okay, so─"
+Okay, so──"
 2004005110300,恋鐘,"あ、プロデューサー！
 ま、待って！！","Ah, Producer!
 P-Please wait! U-Umm..."
 0000000000000,プロデューサー,ん？,Yes?
 2004005110310,恋鐘,"そ、その……
-も、もうちょっと……お話せん……？",W-Well... W-Would you... talk with me for a while?
-0000000000000,プロデューサー,お話……って──,Talk?
+も、もうちょっと……お話せん……？",W-Well... W-Would ya... chat with me for a while?
+0000000000000,プロデューサー,お話……って──,Chat?
 2004005110320,恋鐘,"な、なんていうか……そうやった、よく眠れんとやった！
 だけん、ちょっとだけお話したかとけど……","H-How should I say this... By doing so, I'll be able to sleep well!
 That's why, I wanted to talk to you even for a little..."
 0000000000000,プロデューサー,"はは、そういうことか
-そんなのお安い御用だ","Haha  So that's what it is.
+そんなのお安い御用だ","Haha, so that's what it is.
 It's no big deal."
-2004005110330,恋鐘,ほ、ホント！？　……あ、ほんとは迷惑……？,"R-Really? ...Ah, but am I not being a nuisance?"
+2004005110330,恋鐘,ほ、ホント！？　……あ、ほんとは迷惑……？,"R-Really? ...Ah, but am I not bein' a nuisance?"
 0000000000000,プロデューサー,"そんなことないって。でも、
 夜更かしさせるために入りを変えたわけじゃないからな","Not at all. Although, I didn't change the schedule just so you could stay up late."
 2004005110340,恋鐘,"う、うん！　ありがとー！
@@ -131,7 +131,7 @@ Still, isn't that nice?"
 0000000000000,プロデューサー,恋鐘……,Kogane...
 2004005110370,恋鐘,……ふふ～…………,Fufu...
 0000000000000,プロデューサー,（恋鐘……寝ちゃったんだな）,(Kogane seem to have fallen asleep.)
-0000000000000,プロデューサー,はは……おやすみ、恋鐘,"Haha. Sweet dreams, Kogane."
+0000000000000,プロデューサー,はは……おやすみ、恋鐘,"Haha... Sweet dreams, Kogane."
 0000000000000,プロデューサー,また明日な,I'll be seeing you tomorrow.
 info,produce_events/200400511.json,
 译者,,
