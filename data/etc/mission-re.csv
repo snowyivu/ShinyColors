@@ -188,6 +188,7 @@ $nounの誰か一人をプロデュースして$noun以上のフェスアイド�
 【$note】ファン感謝祭でMVPを1回取ろう,【$1】Earn MVP in Thanks Flapping Day,exp
 【$note】$noun以上の$nounに参加して、「$noun」を達成しよう,【$1】In $2 or above $3 earn「$4」,exp
 累計$numポイント達成,Achieve $1 Total Points,exp
+"$num,$num周目クリア","Clear $1,$2 Weeks",exp
 $num周目クリア,Clear $1 Weeks,exp
 最高スコア$num達成,Highest Score $1 Achieved,exp
 トークイベントに出演などでSPを累計$num以上獲得しよう,Earn a total of $1 or more SP from Talkshows,exp

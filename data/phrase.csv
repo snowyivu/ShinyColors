@@ -95,7 +95,7 @@ achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送
 achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
 beginnerMission.headerTitle,初心者ミッション,Beginner Mission
 beginnerMission.detailPopTitle,初心者ミッション詳細,Beginner Mission Details
-beginnerMission.receivePopTitle,初心者ミッション達成,Beginner Mission Get
+beginnerMission.receivePopTitle,初心者ミッション達成,Beginner Mission Reward
 downLoad.confirmTitle,データダウンロード,Data Download
 downLoad.confirmComment,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります
 downLoad.persistMessageMobile,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります
@@ -941,8 +941,8 @@ tutorial.openingMessage.mes1,それは,"That image, "
 tutorial.openingMessage.mes2,女の子達の永遠の憧れ,The eternal aspiration of young women
 tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,"However, only one group"
 tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit...
-tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 19 Girls and"
-tutorial.openingMessage.mes7,今19人の女の子と,One Producer
+tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 23 Girls and"
+tutorial.openingMessage.mes7,今23人の女の子と,One Producer
 tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
 tutorial.openingMessage.mes9,足を踏み入れる！,World of Survival!
 tutorial.skipPop.message,次のチュートリアルまでスキップします\nよろしいですか？,Skip to the next tutorial\r\n Are you sure?
