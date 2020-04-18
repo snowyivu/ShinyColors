@@ -3,7 +3,7 @@ import { supportSkill, userIdolsSkill, produceExSkillTop,
   otherFesIdolSkill, reserveUserSptIdolsSkill, userFesDeck, ideaNotesSkill,
   userProIdolsSkill, userProSptIdolsSkill, proSkillPanels, produceFinish,
   fesMatchConcertSkill, resumeGameSkill, auditionSkill, produceResultSkill } from './skill'
-import transMission, { reportMission, fesRecomMission, fesRaidMission, teachingMission } from './mission'
+import transMission, { reportMission, fesRecomMission, fesRaidMission, teachingMission, beginnerMission, beginnerMissionComplete } from './mission'
 import { collectStoryTitle } from '../store/story'
 import { userItemTypes, transShopItem,
   transUserItem, transShopPurchase, transFesReward, transAccumulatedPresent,
@@ -89,12 +89,12 @@ const requestOfGet = [
   ['userProduces', [topCharacterReaction]],
   [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]],
   [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill],
-  ['userBeginnerMissions/top',[idolProfiles] ],
+  ['userBeginnerMissions/top',[beginnerMission, idolProfiles] ],
   ['tutorialIdols',idolProfiles],
 ]
 
 const requestOfPost = [
-  ['myPage', [reportMission, mypageComments]],
+  ['myPage', [reportMission, mypageComments, beginnerMissionComplete]],
   [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]],
   [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill],
   ['userShops/actions/purchase', transShopPurchase],
@@ -118,6 +118,7 @@ const requestOfPost = [
   [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]],
   [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus],
   [/^characterAlbums\/characters\/\d+$/, [idolProfiles,'storyTitle'] ],
+  [/^userLectureMissions\/\d+\/actions\/receive$/, beginnerMission]
 ]
 
 const requestOfPatch = [
