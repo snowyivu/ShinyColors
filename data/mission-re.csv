@@ -7,6 +7,7 @@ text,trans,type
 シルバートレーニングチケット,Silver Training Ticket,text
 デイリーミッションを全てクリアしよう,Complete All Daily Missions,text
 ゴールドトレーニングチケット,Gold Training Ticket,text
+Lv.50チケット,Lv.50 Ticket,text
 フェスで勝利しよう,Win a Fes,text
 ウィークリーミッションを全てクリアしよう,Complete All Weekly Missions,text
 フェスアイドルを誕生させよう,Create a Fes Idol,text
@@ -90,6 +91,29 @@ SSRのプロデュースアイドルを特訓します,Evolve an SSR Produce Ido
 樋口円香,Madoka Higuchi,name
 福丸小糸,Koito Fukumaru,name
 市川雛菜,Hinana Ichikawa,name
+櫻木 真乃,Mano Sakuragi,name
+風野 灯織,Hiori Kazano,name
+八宮 めぐる,Meguru Hachimiya,name
+月岡 恋鐘,Kogane Tsukioka,name
+田中 摩美々,Mamimi Tanaka,name
+白瀬 咲耶,Sakuya Shirase,name
+三峰 結華,Yuika Mitsumine,name
+幽谷 霧子,Kiriko Yukoku,name
+小宮 果穂,Kaho Komiya,name
+園田 智代子,Chiyoko Sonoda,name
+西城 樹里,Juri Saijo,name
+杜野 凛世,Rinze Morino,name
+有栖川 夏葉,Natsuha Arisugawa,name
+大崎 甘奈,Amana Osaki,name
+大崎 甜花,Tenka Osaki,name
+桑山 千雪,Chiyuki Kuwayama,name
+芹沢 あさひ,Asahi Serizawa,name
+黛冬 優子,Fuyuko Mayuzumi,name
+和泉 愛依,Mei Izumi,name
+浅倉 透,Toru Asakura,name
+樋口 円香,Madoka Higuchi,name
+福丸 小糸,Koito Fukumaru,name
+市川 雛菜,Hinana Ichikawa,name
 フェス,Fes,noun
 フェスリハーサル,Fes Rehearsal,noun
 グレードフェス,Grade Fes,noun
@@ -117,6 +141,13 @@ VERYHARD,VERYHARD,noun
 ランクB,Rank B,noun
 ランクA,Rank A,noun
 ランクS,Rank S,noun
+Fランク,Rank F,noun
+Eランク,Rank E,noun
+Dランク,Rank D,noun
+Cランク,Rank C,noun
+Bランク,Rank B,noun
+Aランク,Rank A,noun
+Sランク,Rank S,noun
 W.I.N.G.編,W.I.N.G. Run,note
 ファン感謝祭編,Thanks Flapping Day Run,note
 高難易度,High Difficulty,note
@@ -202,3 +233,21 @@ $ukを$num以上にしよう,Get $1 to more than $2,exp
 "累計$num,000ポイント達成","Earn $1,000 total points",exp
 "累計$num,$num,000ポイント達成","Earn $1,$2,000 total points",exp
 "最高スコア$num,$num達成","Earn a high score of $1,$2",exp
+【$unknown】$nameを最大まで特訓しよう,Evolve 【$1】$2 to max evolution
+【$unknown】$nameを最大まで\n特訓しよう,Evolve 【$1】$2 to max evolution
+$nameのRアイドルです,R rank idol of $1
+アイドルは特訓をすることで、強力なスキルを覚えられるようになります～,"By evolving your idols, they'll be able to learn powerful skills~"
+編成のチュートリアルを見よう,View the Team Setup tutorial
+$nameのSRサポートアイドルです,SR rank support idol of $1
+編成チュートリアルを参考にユニット編成してみてくださいね♪,Please reference the team setup tutorial to set your unit♪
+【$unknown】$nameを編成しよう,Set 【$1】$2 in a team
+初心者ミッションを進めるプロデュースアイドルを選択しよう,Let's select a Produce Idol to move forward
+初心者ミッションを進めるプロデュース\nアイドルを選択しよう,Let's select a Produce Idol to move forward
+トレーニングで【$unknown】$nameをLv.50にしよう,Train 【$1】$2 to Lv.50
+W.I.N.G.編のプロデュースで$noun以上のCreate 1 Fes Idols,Play a W.I.N.G. Produce run and create an idol at $1 or above
+W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1人誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above
+W.I.N.G.のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above
+W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above
+サポートアイドル1人をLv.65以上にしよう,Level 1 Support Idol to Lv.65 or above
+W.I.N.G.編のプロデュースの振り返りでスキルを習得してみよう,Learn a skill through Reminisce in W.I.N.G.
+受け取ったサポートアイドルを編成してみましょう♪,Let's set the Support Idol we got♪
