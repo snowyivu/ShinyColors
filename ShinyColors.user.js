@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.10.0
+// @version      0.10.1
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -256,8 +256,10 @@
 	  return _str.replace(/^[\u0020]+/g, '');
 	};
 
-	const trimWrap = str => {
-	  return trim(str).replace(/\\r/g, '\n').replace(/\\n/g, '\n').replace(/\n{2,}/g, '\n');
+	const trimWrap = (str, trans = false) => {
+	  let _str = trim(str).replace(/(\\r)?\\n/g, '\n').replace(/\\r/g, '\n');
+
+	  return trans ? _str : _str.replace(/\n{2,}/g, '\n');
 	};
 
 	const fixWrap = str => {
@@ -298,7 +300,7 @@
 
 	const replaceWrap = text => {
 	  if (isString_1(text)) {
-	    return text.replace(/\r?\n|\r/g, '\\n');
+	    return text.replace(/\r?\n/g, '\\n').replace(/\r/g, '\\n');
 	  }
 
 	  return text;
@@ -481,7 +483,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.10.0";
+	var version = "0.10.1";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -745,7 +747,7 @@
 	      if (item && item.name) {
 	        const _name = trimWrap(item.name);
 
-	        const _en = trimWrap(item.en);
+	        const _en = trimWrap(item.en, true);
 
 	        if (_name && (_en || full)) {
 	          phraseMap.set(_name, tagText(_en));
@@ -887,7 +889,7 @@
 	    list.forEach(item => {
 	      if (item && item.text) {
 	        const text = trimWrap(item.text);
-	        const trans = trimWrap(item.trans);
+	        const trans = trimWrap(item.trans, true);
 	        const type = trim(item.type) || 'normal';
 
 	        if (text && trans && text !== trans) {
@@ -955,7 +957,7 @@
 	      if (item && item.ja) {
 	        const _ja = trimWrap(item.ja);
 
-	        const _en = trimWrap(item.en);
+	        const _en = trimWrap(item.en, true);
 
 	        if (_ja && _en && _ja !== _en) {
 	          commonMap.set(_ja, _en);
@@ -1336,7 +1338,7 @@
 	  list.forEach(item => {
 	    const id = trim(item.id);
 	    const text = trimWrap(item.text);
-	    const trans = trimWrap(item.trans);
+	    const trans = trimWrap(item.trans, true);
 	    const name = trim(item.name);
 
 	    if (text && trans) {
@@ -1403,7 +1405,7 @@
 	      if (item && item.ja) {
 	        const _ja = trimWrap(item.ja);
 
-	        const _en = trimWrap(item.en);
+	        const _en = trimWrap(item.en, true);
 
 	        if (_ja && _en && _ja !== _en) {
 	          commStoryMap.set(_ja, _en);
@@ -1433,7 +1435,7 @@
 	      if (item && item.ja) {
 	        const _ja = trimWrap(item.ja);
 
-	        const _en = trimWrap(item.en);
+	        const _en = trimWrap(item.en, true);
 
 	        if (_ja && _en && _ja !== _en) {
 	          typeTextMap.set(_ja, _en);
@@ -1692,7 +1694,7 @@
 	    sortWords(list, 'text').forEach(item => {
 	      if (item && item.text) {
 	        const text = trimWrap(item.text);
-	        const trans = trimWrap(item.trans);
+	        const trans = trimWrap(item.trans, true);
 	        const type = trim(item.type);
 
 	        if (text && trans) {
@@ -1762,7 +1764,7 @@
 	    sortWords(list, 'text').forEach(item => {
 	      if (item && item.text) {
 	        const text = trimWrap(item.text);
-	        const trans = trimWrap(item.trans);
+	        const trans = trimWrap(item.trans, true);
 	        const type = trim(item.type);
 
 	        if (text && trans) {
@@ -1964,10 +1966,16 @@
 	};
 
 	const fesRivalsSkill = (data, skillData) => {
+	  if (!data) return;
 	  data.forEach(rival => {
 	    rival.userFesDeck && rival.userFesDeck.userFesDeckMembers.forEach(member => {
 	      member.userFesIdol.activeSkills.forEach(skill => {
 	        transEffects(skill, skillData);
+	      });
+	    });
+	    rival.userRaidDeck && rival.userRaidDeck.userRaidDeckMembers.forEach(member => {
+	      member.userFesIdol.activeSkills.forEach(skill => {
+	        commSkill(skill, skillData, true);
 	      });
 	    });
 	    rival.rival && rival.rival.rivalSkills.forEach(skill => {
@@ -2089,7 +2097,18 @@
 	  const skillData = await ensureSkillData();
 	  data.userFesDecks.forEach(deck => {
 	    deck.userFesDeckMembers.forEach(member => {
-	      member.userFesIdol.activeSkills.forEach(item => {
+	      member.userFesIdol && member.userFesIdol.activeSkills.forEach(item => {
+	        commSkill(item, skillData);
+	      });
+	    });
+	  });
+	};
+
+	const userRaidDeck = async data => {
+	  const skillData = await ensureSkillData();
+	  data.userRaidDecks.forEach(deck => {
+	    deck.userRaidDeckMembers.forEach(member => {
+	      member.userFesIdol && member.userFesIdol.activeSkills.forEach(item => {
 	        commSkill(item, skillData);
 	      });
 	    });
@@ -2120,7 +2139,8 @@
 
 	const fesMatchConcertSkill = async data => {
 	  const skillData = await ensureSkillData();
-	  data.userFesDeck.userFesDeckMembers.forEach(member => {
+
+	  const transDeckMember = member => {
 	    member.userFesIdol.activeSkills.forEach(item => {
 	      commSkill(item, skillData, true);
 	    });
@@ -2130,9 +2150,13 @@
 	      transSkill(item, 'name', skillData);
 	      transEffects(item, skillData);
 	    });
-	  });
+	  };
+
+	  data.userFesDeck && data.userFesDeck.userFesDeckMembers.forEach(transDeckMember);
+	  data.userRaidDeck && data.userRaidDeck.userRaidDeckMembers.forEach(transDeckMember);
 	  judegsSkill(data.judges, skillData);
 	  fesRivalsSkill(data.userFesRivals, skillData);
+	  fesRivalsSkill(data.userFesRaidRivals, skillData);
 	};
 
 	const auditionSkill = async data => {
@@ -2161,11 +2185,27 @@
 
 	    if (gData.produceAudition || gData.produceConcert) {
 	      await auditionSkill(gData);
-	    } else if (gData.userFesDeck) {
+	    } else if (gData.userFesDeck || gData.userRaidDeck) {
 	      await fesMatchConcertSkill(gData);
 	    }
 
 	    data.gameData = JSON.stringify(gData);
+	  } catch (e) {
+	    log(e);
+	  }
+	};
+
+	const resumeRaidGameSkill = async data => {
+	  if (!data.gameState || !data.gameState.game_data) return;
+
+	  try {
+	    let gData = JSON.parse(data.gameState.game_data);
+
+	    if (gData.userRaidDeck) {
+	      await fesMatchConcertSkill(gData);
+	    }
+
+	    data.gameState.game_data = JSON.stringify(gData);
 	  } catch (e) {
 	    log(e);
 	  }
@@ -2225,7 +2265,7 @@
 	    sortWords(list, 'text').forEach(item => {
 	      if (item && item.text) {
 	        const text = trimWrap(item.text);
-	        const trans = trimWrap(item.trans);
+	        const trans = trimWrap(item.trans, true);
 	        const type = trim(item.type);
 
 	        if (text && trans) {
@@ -6645,7 +6685,7 @@
 	        const jsonCsv = wrapComment.map(item => {
 	          return {
 	            'jp': item,
-	            'zh': ''
+	            'en': ''
 	          };
 	        });
 	        const str = papaparse.unparse(jsonCsv);
@@ -6664,7 +6704,7 @@
 	        return {
 	          name: item.name,
 	          'jp': item.comment,
-	          'zh': ''
+	          'en': ''
 	        };
 	      });
 	      const str = papaparse.unparse(jsonCsv);
@@ -6749,6 +6789,22 @@
 	    }
 
 	    data.gameData = JSON.stringify(gData);
+	  } catch (e) {
+	    log(e);
+	  }
+	};
+
+	const resumeRaidGamedata = async data => {
+	  if (!data.gameState || !data.gameState.game_data) return;
+
+	  try {
+	    let gData = JSON.parse(data.gameState.game_data);
+
+	    if (gData.judges) {
+	      await fesMatchConcert(gData);
+	    }
+
+	    data.gameState.game_data = JSON.stringify(gData);
 	  } catch (e) {
 	    log(e);
 	  }
@@ -9217,8 +9273,8 @@
 	  }
 	};
 
-	const requestOfGet = [[[/^userSupportIdols\/\d+$/, /^userSupportIdols\/statusMax/, /^produceTeachingSupportIdols\/\d+$/], [supportSkill, userSptIdolsSkill, 'storyTitle']], [/^userProduce(Teaching)?SupportIdols\/\d+$/, [supportSkill, userProSptIdolsSkill]], [/^userReserveSupportIdols\/userSupportIdol\/\d+$/, [supportSkill, reserveUserSptIdolsSkill]], [/^userIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [/^userSupportIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [[/^userIdols\/\d+$/, /^userIdols\/statusMax$/, /^produceTeachingIdols\/\d+$/], [userIdolsSkill, 'storyTitle']], [[/^userProduce(Teaching)?Idols\/\d+$/, 'userProduceTeachingIdol'], userProIdolsSkill], [/^userReserveIdols\/userIdol\/\d+$/, reserveUserIdolsSkill], [/^userFesIdols\/\d+$/, userFesIdolsSkill], [['userProduces/skillPanels', 'userProduceTeachings/skillPanels'], proSkillPanels], ['userMissions', transMission], [/^fesRaidEvents\/\d+\/rewards$/, fesRaidMission], [['characterAlbums', 'album/top'], 'storyTitle'], [['userShops', 'userIdolPieceShops'], transShopItem], [userItemTypes, transUserItem], [[/^userPresents\?limit=/, /^userPresentHistories\?limit=/], transPresentItem], [/gashaGroups\/\d+\/rates/, 'cardName'], ['userProduces', [topCharacterReaction]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill], ['userBeginnerMissions/top', [beginnerMission, idolProfiles]], ['tutorialIdols', idolProfiles]];
-	const requestOfPost = [['myPage', [reportMission, mypageComments, beginnerMissionComplete]], [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]], [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill], ['userShops/actions/purchase', transShopPurchase], [/produces\/\d+\/actions\/ready/, transUserItem], [/userPresents\/\d+\/actions\/receive/, transReceivePresent], [/userMissions\/\d+\/actions\/receive/, transReceiveMission], ['userLoginBonuses', transLoginBonus], ['fesTop', [transFesReward, fesDeckReactions]], [[/^userProduce(Teaching)?s\/skillPanels\/\d+$/, /^userProduces\/limitedSkills\/\d+$/], proSkillPanels], [/userSupportIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, [userSptIdolsSkill, supportSkill]], [/^produces\/actions\/(resume|next)$/, [ideaNotesSkill, topCharacterReaction, produceEndWeek, resumeGamedata, characterComment, produceAudition, produceReporterAnswer, supportSkill]], [['produces/actions/resume', 'produces/actions/finish', 'produceTeachings/resume'], [produceFinish, resumeGameSkill]], ['produces/actions/endWeek', produceEndWeek], ['produces/actions/act', [lessonResult, noteResultSkill]], [/^fes(Match)?Concert\/actions\/start$/, [fesMatchConcert, fesMatchConcertSkill]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], ['produces/actions/result', [trustLevelUp, produceResultSkill]], [[/^produce(Teaching)?s\/(\d+\/audition|concert)\/actions\/start$/, /^produceTeachings\/(auditions|concerts)\/start$/], [auditionSkill]], [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]], ['userProduceHelperSupportIdols', helperSupportIdols], [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]], [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus], [/^characterAlbums\/characters\/\d+$/, [idolProfiles, 'storyTitle']], [/^userLectureMissions\/\d+\/actions\/receive$/, beginnerMission]];
+	const requestOfGet = [[[/^userSupportIdols\/\d+$/, /^userSupportIdols\/statusMax/, /^produceTeachingSupportIdols\/\d+$/], [supportSkill, userSptIdolsSkill, 'storyTitle']], [/^userProduce(Teaching)?SupportIdols\/\d+$/, [supportSkill, userProSptIdolsSkill]], [/^userReserveSupportIdols\/userSupportIdol\/\d+$/, [supportSkill, reserveUserSptIdolsSkill]], [/^userIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [/^userSupportIdols\/\d+\/produceExSkillTop$/, produceExSkillTop], [[/^userIdols\/\d+$/, /^userIdols\/statusMax$/, /^produceTeachingIdols\/\d+$/], [userIdolsSkill, 'storyTitle']], [[/^userProduce(Teaching)?Idols\/\d+$/, 'userProduceTeachingIdol'], userProIdolsSkill], [/^userReserveIdols\/userIdol\/\d+$/, reserveUserIdolsSkill], [/^userFesIdols\/\d+$/, userFesIdolsSkill], [['userProduces/skillPanels', 'userProduceTeachings/skillPanels'], proSkillPanels], ['userMissions', transMission], [/^fesRaidEvents\/\d+\/rewards$/, fesRaidMission], [['characterAlbums', 'album/top'], 'storyTitle'], [['userShops', 'userIdolPieceShops'], transShopItem], [userItemTypes, transUserItem], [[/^userPresents\?limit=/, /^userPresentHistories\?limit=/], transPresentItem], [/gashaGroups\/\d+\/rates/, 'cardName'], ['userProduces', [topCharacterReaction]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], [/earthUsers\/[^\/]+\/userFesIdols\/\d+$/, otherFesIdolSkill], ['userBeginnerMissions/top', [beginnerMission, idolProfiles]], ['tutorialIdols', idolProfiles], ['userRaidDecks', userRaidDeck]];
+	const requestOfPost = [['myPage', [reportMission, mypageComments, beginnerMissionComplete]], [/^(produceMarathons|fesMarathons|trainingEvents)\/\d+\/top$/, [fesRecomMission, transAccumulatedPresent]], [/userIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, userIdolsSkill], ['userShops/actions/purchase', transShopPurchase], [/produces\/\d+\/actions\/ready/, transUserItem], [/userPresents\/\d+\/actions\/receive/, transReceivePresent], [/userMissions\/\d+\/actions\/receive/, transReceiveMission], ['userLoginBonuses', transLoginBonus], ['fesTop', [transFesReward, fesDeckReactions]], [[/^userProduce(Teaching)?s\/skillPanels\/\d+$/, /^userProduces\/limitedSkills\/\d+$/], proSkillPanels], [/userSupportIdols\/\d+\/produceExSkills\/\d+\/actions\/set/, [userSptIdolsSkill, supportSkill]], [/^produces\/actions\/(resume|next)$/, [ideaNotesSkill, topCharacterReaction, produceEndWeek, resumeGamedata, characterComment, produceAudition, produceReporterAnswer, supportSkill]], [['produces/actions/resume', 'produces/actions/finish', 'produceTeachings/resume'], [produceFinish, resumeGameSkill]], ['produces/actions/endWeek', produceEndWeek], ['produces/actions/act', [lessonResult, noteResultSkill]], [/^fes(Match|Raid)?Concert\/actions\/start$/, [fesMatchConcert, fesMatchConcertSkill]], [/^fes(Match)?Concert\/actions\/resume$/, [resumeGamedata, resumeGameSkill]], ['fesRaidConcert/actions/resume', [resumeRaidGamedata, resumeRaidGameSkill]], ['produces/actions/result', [trustLevelUp, produceResultSkill]], [[/^produce(Teaching)?s\/(\d+\/audition|concert)\/actions\/start$/, /^produceTeachings\/(auditions|concerts)\/start$/], [auditionSkill]], [/^produces\/(\d+\/audition|concert)\/actions\/(start|finish)$/, [produceAudition, characterComment]], ['userProduceHelperSupportIdols', helperSupportIdols], [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]], [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus], [/^characterAlbums\/characters\/\d+$/, [idolProfiles, 'storyTitle']], [/^userLectureMissions\/\d+\/actions\/receive$/, beginnerMission]];
 	const requestOfPatch = [[/^userSupportIdols\/\d+$/, supportSkill], ['userFesDecks', userFesDeck]];
 	async function requestHook() {
 	  const request = await getRequest();
