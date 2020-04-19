@@ -19,7 +19,7 @@ const getCommMap = async () => {
     list.forEach(item => {
       if (item && item.ja) {
         const _ja = trimWrap(item.ja)
-        const _en = trimWrap(item.en)
+        const _en = trimWrap(item.en, true)
         if (_ja && _en && _ja !== _en) {
           commonMap.set(_ja, _en)
         }

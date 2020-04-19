@@ -49,7 +49,7 @@ const getStoryMap = (csv) => {
   list.forEach(item => {
     const id = trim(item.id)
     const text = trimWrap(item.text)
-    const trans = trimWrap(item.trans)
+    const trans = trimWrap(item.trans, true)
     const name = trim(item.name)
     if (text && trans) {
       const entryId = md5(text);
@@ -108,7 +108,7 @@ const getCommStory = async () => {
     list.forEach(item => {
       if (item && item.ja) {
         const _ja = trimWrap(item.ja)
-        const _en = trimWrap(item.en)
+        const _en = trimWrap(item.en, true)
         if (_ja && _en && _ja !== _en) {
           commStoryMap.set(_ja, _en)
         }

@@ -95,7 +95,7 @@ const mypageComments = async (data) => {
           return replaceWrap(item['comment'])
         })
         const jsonCsv = wrapComment.map(item => {
-          return { 'jp': item, 'zh': '' }
+          return { 'jp': item, 'en': '' }
         })
         const str = CSV.unparse(jsonCsv)
         tryDownload(str, `${homeDeckList[key][0].speakerName}-myPageComments`)
@@ -107,7 +107,7 @@ const mypageComments = async (data) => {
         return { name: item['speakerName'], comment: replaceWrap(item['comment']) }
       })
       const jsonCsv = wrapList.map(item => {
-        return { name: item.name ,'jp': item.comment, 'zh': '' }
+        return { name: item.name ,'jp': item.comment, 'en': '' }
       })
       const str = CSV.unparse(jsonCsv)
       tryDownload(str, `deckMember-myPageComments`)
