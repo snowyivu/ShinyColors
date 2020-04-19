@@ -1387,7 +1387,7 @@ beginnerMission.idolSelectConfirmPop.title,初心者ミッション開始確認,
 beginnerMission.idolSelectConfirmPop.text,選択したプロデュースアイドルでは\n以下のサポートアイドルが手に入ります\n初心者ミッションを開始しますか？,If you choose to produce this idol you\nwill receive the below support idols.\nStart the beginner missions?
 beginnerMission.idolSelectConfirmPop.txtNotice,初心者ミッション開始後に選びなおすことはできません,Once you start the missions you can't re-select
 beginnerMission.clearedAlert.title,初心者ミッション達成,Cleared Beginner Mission
-beginnerMission.clearedAlert.text,以下のミッションを達成しました\n初心者ミッションページで報酬を受け取りましょう,以下のミッションを達成しました\n初心者ミッションページで報酬を受け取りましょう
+beginnerMission.clearedAlert.text,以下のミッションを達成しました\n初心者ミッションページで報酬を受け取りましょう,Completed this mission - Receive\nyour rewards on the Beginner Missions page
 beginnerMission.clearedAlert.reward,%{rewardName} ×%{num},%{rewardName} ×%{num}
 countUpCampaign.unit.fes_raid_laps,周,wk
 countUpCampaign.countUpText,%{unit}で%{title}達成,%{unit}で%{title}達成
