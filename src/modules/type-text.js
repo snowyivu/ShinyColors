@@ -199,6 +199,19 @@ const resumeGamedata = async (data) => {
   }
 }
 
+const resumeRaidGamedata = async (data) => {
+  if (!data.gameState || !data.gameState.game_data) return
+  try {
+    let gData = JSON.parse(data.gameState.game_data)
+    if (gData.judges) {
+      await fesMatchConcert(gData)
+    }
+    data.gameState.game_data = JSON.stringify(gData)
+  } catch (e) {
+    log(e)
+  }
+}
+
 const characterComment = async (data) => {
   if (!data.characterComment) return
   let list = []
@@ -245,6 +258,7 @@ export {
   lessonResult,
   produceEndWeek,
   resumeGamedata,
+  resumeRaidGamedata,
   characterComment,
   fesMatchConcert,
   helperSupportIdols,
