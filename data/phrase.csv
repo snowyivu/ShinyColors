@@ -1521,3 +1521,31 @@ tutorial.unitDescription.4,ポップでハッピーな3人組アイドルユニ�
 tutorial.unitDescription.5,実在と非実在を行き来するカリスマ的アイドルユニット。\nアイドルというアバターを身に纏い、歌うは真実か、狂気か。\n解き放たれた迷光が、今日も世界を奔る。,"A charismatic unit that moves between reality and fiction. Garbed in\nthe avatar known as idol, is it truth or madness they sing?\nThe straying lights they unleash shake the world today."
 tutorial.unitDescription.6,幼なじみ４人で結成された、透明感あふれるアイドルユニット\n誰かになる必要なんてない――\n走り出す波を追って、少女たちは碧い風になる,"Formed from four childhood friends, a unit brimming with a sense of\ntranslucence. They don't have to be someone.\nChasing the breaking waves, the girls become azure winds."
 pushNotification.title,シャニマス,Shinymas
+errorDialog.characterFanRankingBreakTimeChangeTitle,お休み時間設定,Set Rest Period
+errorDialog.characterFanRankingBreakTimeChangeError,設定可能時間外です\n画面を更新します,You can't currently set your rest period.\nPlease refresh the screen.
+fes.deckMemberBonusStatus.positionBonus,ポジションボーナス %{value}%,Position Bonus %{value}%
+fes.deckMemberBonusStatus.unitBonus,ユニットボーナス %{value}%,Unit Bonus %{value}%
+fes.deckMemberBonusStatus.passiveSkillBonus,パッシブ発動率 %{value}%UP,Passive Rate %{value}%UP
+fes.deckMemberBonusEffect.positionBonus,ポジションボーナス,Position Bonus
+fes.deckMemberBonusEffect.unitBonus,ユニットボーナス,Unit Bonus
+header.produceTeachingHintSetting,目標表示設定,Set Display Setting
+homeDeck.randomSetting.title,ホームユニットランダム表示設定,Set Random Home Unit
+homeDeck.randomSetting.notice,ランダム設定がONの場合、アイドルは常にランダムで抽選されます,"If the random setting is ON, the idols will always be randomly set"
+homeDeck.randomSetting.zoomTypes.label,距離,Distance
+homeDeck.randomSetting.zoomTypes.values.short,近距離,Close
+homeDeck.randomSetting.zoomTypes.values.middle,通常,Medium
+homeDeck.randomSetting.zoomTypes.values.long,遠距離,Far
+homeDeck.randomSetting.zoomTypes.values.super_long,超遠距離,Very Far
+homeDeck.randomSetting.bgTypes.label,背景・その他,BG / Other
+homeDeck.randomSetting.bgTypes.values.image,背景,BG
+homeDeck.randomSetting.bgTypes.values.effect,エフェクト,Effect
+homeDeck.randomSetting.costumeTypes.label,衣装,Outfit
+homeDeck.randomSetting.costumeTypes.values.plain,私服衣装,Plain Outfit
+homeDeck.randomSetting.costumeTypes.values.concert,ライブ衣装,Live Outfit
+homeDeck.loadAlertPop.title,確認,Confirm
+homeDeck.loadAlertPop.comment,５人表示を行う場合\n「ホームユニット」および「ホーム画面」での\n描画に負荷がかかります,When 5 members are set\nThe Home Unit and Home Screen\nmay take a long time to load.
+homeDeck.loadAlertPop.checkComment,今後、この警告を表示しない,Don't show this warning again
+produceAreaSelect.produceTeachingHintSettingConfirmationPopupTitle,研修設定確認,Confirm Training Settings
+produceAreaSelect.produceTeachingHintSettingPopupTitle,研修設定,Training Settings
+individualRanking.breakTimePop.title,お休み時間設定,Rest Period Settings
+individualRanking.changeBreakTimePop.title,お休み時間変更,Change Rest Period
