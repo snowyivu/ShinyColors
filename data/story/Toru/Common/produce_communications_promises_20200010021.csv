@@ -1,10 +1,10 @@
 id,name,text,trans
 202000100210010,透,"──やっぱり、
-ちょっとアレだったよね今日","As I thought,
-today had been quite a bit."
+ちょっとアレだったよね今日","──Yeah,
+it's been a little weird today, hasn't it."
 202000100210020,透,"一週間後ボーカルレッスン
-入れてほしいな","I'd like to take vocal lessons this week.
-If that's fine."
+入れてほしいな","I'd like to take vocal lessons in a week.
+If that'd be okay."
 select,,いいよ,Sure.
 select,,ごめん,Sorry.
 202000100990010,透,"あ、いいの？
@@ -12,6 +12,6 @@ select,,ごめん,Sorry.
 Heheh, thanks."
 202000100990020,透,"あ、うん。わかってたよ
 ……ごめんね、急に","Ah, okay. Got it.
-Sorry for asking suddenly."
+...Sorry for asking out of nowhere."
 info,produce_communications_promises/20200010021.json,
 译者,,

@@ -1,10 +1,10 @@
 id,name,text,trans
 202000100290010,透,"ねぇ、休みの希望って
-出しても平気？","Hey, is it okay if I tell you
-that I want a day off?"
+出しても平気？","Hey, would it be okay to say
+that I'd like a week off next week?"
 202000100290020,透,"スケジュールが大丈夫そうだったら
-一週間後休めないかな","If your schedule looks fine,
-then maybe I could."
+一週間後休めないかな","If the schedule looks fine,
+then I was wondering if I could."
 select,,いいよ,Sure.
 select,,ごめん,Sorry.
 202000100990010,透,"あ、いいの？
@@ -12,6 +12,6 @@ select,,ごめん,Sorry.
 Heheh, thanks."
 202000100990020,透,"あ、うん。わかってたよ
 ……ごめんね、急に","Ah, okay. Got it.
-Sorry for asking suddenly."
+...Sorry for asking out of nowhere."
 info,produce_communications_promises/20200010029.json,
 译者,,

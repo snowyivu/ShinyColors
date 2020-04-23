@@ -1,8 +1,8 @@
 id,name,text,trans
-202000100120010,透,なんか、みんなすごく上手くなってるよね,"Recently, I've been getting really good at dancing."
+202000100120010,透,なんか、みんなすごく上手くなってるよね,"They're all getting really good, aren't they?"
 202000100120020,透,"──ダンスの話
-今週ダンスレッスンしたいんだけど","About that,
-I'd like to take dance lessons this week."
+今週ダンスレッスンしたいんだけど","──At dance.
+I'd like to take dance lessons this week, if that's okay."
 select,,いいよ,Sure.
 select,,ごめん,Sorry.
 202000100990010,透,"あ、いいの？
@@ -10,6 +10,6 @@ select,,ごめん,Sorry.
 Heheh, thanks."
 202000100990020,透,"あ、うん。わかってたよ
 ……ごめんね、急に","Ah, okay. Got it.
-Sorry for asking suddenly."
+...Sorry for asking out of nowhere."
 info,produce_communications_promises/20200010012.json,
 译者,,
