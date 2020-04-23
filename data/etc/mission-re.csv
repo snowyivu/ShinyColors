@@ -233,29 +233,35 @@ $ukを$num以上にしよう,Get $1 to more than $2,exp
 "累計$num,000ポイント達成","Earn $1,000 total points",exp
 "累計$num,$num,000ポイント達成","Earn $1,$2,000 total points",exp
 "最高スコア$num,$num達成","Earn a high score of $1,$2",exp
-【$unknown】$nameを最大まで特訓しよう,Evolve 【$1】$2 to max evolution
-【$unknown】$nameを最大まで\n特訓しよう,Evolve 【$1】$2 to max evolution
-$nameのRアイドルです,R rank idol of $1
-アイドルは特訓をすることで、強力なスキルを覚えられるようになります～,"By evolving your idols, they'll be able to learn powerful skills~"
-編成のチュートリアルを見よう,View the Team Setup tutorial
-$nameのSRサポートアイドルです,SR rank support idol of $1
-編成チュートリアルを参考にユニット編成してみてくださいね♪,Please reference the team setup tutorial to set your unit♪
-【$unknown】$nameを編成しよう,Set 【$1】$2 in a team
-初心者ミッションを進めるプロデュースアイドルを選択しよう,Let's select a Produce Idol to move forward
-初心者ミッションを進めるプロデュース\nアイドルを選択しよう,Let's select a Produce Idol to move forward
-トレーニングで【$unknown】$nameをLv.50にしよう,Train 【$1】$2 to Lv.50
-W.I.N.G.編のプロデュースで$noun以上のCreate 1 Fes Idols,Play a W.I.N.G. Produce run and create an idol at $1 or above
-W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1人誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above
-W.I.N.G.のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above
-W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above
-サポートアイドル1人をLv.65以上にしよう,Level 1 Support Idol to Lv.65 or above
-W.I.N.G.編のプロデュースの振り返りでスキルを習得してみよう,Learn a skill through Reminisce in W.I.N.G.
-受け取ったサポートアイドルを編成してみましょう♪,Let's set the Support Idol we got♪
-編成に悩んだら、おまかせ編成を使ってください♪最初のうちは同じジャンルのアピールを持っているサポートアイドルで揃えるのがおすすめです～,"If you're worred about your setup, please use the Recommend button♪ Let's gather supports of the same appeal type first~"
-サポートアイドルならレベル上限も上昇しますよ♪,"For supports, their maximum level will also increase♪"
-サポートアイドルのレベルを上げると、プロデュースを有利に進めることができます～トレーニング以外にも、営業も活用してくださいね,"If you raise your support's levels, you can advance further in Produce~ Besides training, you can also level through Jobs."
-フェスアイドルを誕生させるには最後までプロデュースをしてくださいね～♪,"To create a Fes Idol, play Produce mode until the end~♪"
-誕生させたフェスアイドルを編成してフェスに参加してみましょう♪,Let's set the Fes Idol we just made in our Fes team♪
-ライブスキルはオーディション攻略に欠かせませんスキルの有無で難易度が大きく変わるので、大事なステージの前には取り忘れがないか確認を〜,"Live skills are indispensable for beating auditions, make sure you grab some before an important stage~"
-アイドルを特訓すると新しいスキルが覚えられます♪特訓には、「同じイラストのアイドルで特訓」と「特訓はづきさんで特訓」の二つの方法がありますよ～,"Your idol can learn new skills through Evolution♪ You can evolve an idol with a copy of the same card or the proper Hazuki seal~"
-それぞれのポジションに合ったアイドルを編成するとフェスで高いスコアを残すことができますよ～,"If you set an idol that suits each position, you can obtain a high score in Fes~"
+【$unknown】$nameを最大まで特訓しよう,Evolve 【$1】$2 to max evolution,exp
+【$unknown】$nameを最大まで\n特訓しよう,Evolve 【$1】$2 to max evolution,exp
+$nameのRアイドルです,R rank idol of $1,exp
+アイドルは特訓をすることで、強力なスキルを覚えられるようになります～,"By evolving your idols, they'll be able to learn powerful skills~",exp
+編成のチュートリアルを見よう,View the Team Setup tutorial,exp
+$nameのSRサポートアイドルです,SR rank support idol of $1,exp
+編成チュートリアルを参考にユニット編成してみてくださいね♪,Please reference the team setup tutorial to set your unit♪,exp
+【$unknown】$nameを編成しよう,Set 【$1】$2 in a team,exp
+初心者ミッションを進めるプロデュースアイドルを選択しよう,Let's select a Produce Idol to move forward,exp
+初心者ミッションを進めるプロデュース\nアイドルを選択しよう,Let's select a Produce Idol to move forward,exp
+トレーニングで【$unknown】$nameをLv.50にしよう,Train 【$1】$2 to Lv.50,exp
+W.I.N.G.編のプロデュースで$noun以上のCreate 1 Fes Idols,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
+W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1人誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
+W.I.N.G.のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
+W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
+サポートアイドル1人をLv.65以上にしよう,Level 1 Support Idol to Lv.65 or above,exp
+W.I.N.G.編のプロデュースの振り返りでスキルを習得してみよう,Learn a skill through Reminisce in W.I.N.G.,exp
+受け取ったサポートアイドルを編成してみましょう♪,Let's set the Support Idol we got♪,exp
+編成に悩んだら、おまかせ編成を使ってください♪最初のうちは同じジャンルのアピールを持っているサポートアイドルで揃えるのがおすすめです～,"If you're worred about your setup, please use the Recommend button♪ Let's gather supports of the same appeal type first~",exp
+サポートアイドルならレベル上限も上昇しますよ♪,"For supports, their maximum level will also increase♪",exp
+サポートアイドルのレベルを上げると、プロデュースを有利に進めることができます～トレーニング以外にも、営業も活用してくださいね,"If you raise your support's levels, you can advance further in Produce~ Besides training, you can also level through Jobs.",exp
+フェスアイドルを誕生させるには最後までプロデュースをしてくださいね～♪,"To create a Fes Idol, play Produce mode until the end~♪",exp
+誕生させたフェスアイドルを編成してフェスに参加してみましょう♪,Let's set the Fes Idol we just made in our Fes team♪,exp
+ライブスキルはオーディション攻略に欠かせませんスキルの有無で難易度が大きく変わるので、大事なステージの前には取り忘れがないか確認を〜,"Live skills are indispensable for beating auditions, make sure you grab some before an important stage~",exp
+アイドルを特訓すると新しいスキルが覚えられます♪特訓には、「同じイラストのアイドルで特訓」と「特訓はづきさんで特訓」の二つの方法がありますよ～,"Your idol can learn new skills through Evolution♪ You can evolve an idol with a copy of the same card or the proper Hazuki seal~",exp
+それぞれのポジションに合ったアイドルを編成するとフェスで高いスコアを残すことができますよ～,"If you set an idol that suits each position, you can obtain a high score in Fes~",exp
+営業を$num回完了しよう,Complete $1 jobs,exp
+W.I.N.G.準決勝に進出しよう,Advance to W.I.N.G. semifinals,exp
+$nounに参加しよう,Participate in $1,exp
+$nounに参加して$nounを達成しよう,Perform a $2 in $1,exp
+$noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
+ゲームにログインしよう,Log into the game,exp
