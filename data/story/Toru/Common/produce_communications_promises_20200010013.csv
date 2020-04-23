@@ -1,9 +1,9 @@
 id,name,text,trans
 202000100130010,透,"メイク薄いよって言われたんだよね
-──お母さんが言うなって感じだけど","They told me I was wearing a small amount of makeup.
-──It's like as if it was a comment from my mom."
+──お母さんが言うなって感じだけど","They told me I was barely wearing any makeup.
+──Honestly, it felt like my mom was telling me."
 202000100130020,透,"一応、ビジュアルレッスン入れたいんだけど
-今週どうかな","Just in case, I'd like to take visual lessons for a week.
+今週どうかな","Just in case, I'd like to take visual lessons this week.
 If you're fine with that."
 select,,いいよ,Sure.
 select,,ごめん,Sorry.
@@ -12,6 +12,6 @@ select,,ごめん,Sorry.
 Heheh, thanks."
 202000100990020,透,"あ、うん。わかってたよ
 ……ごめんね、急に","Ah, okay. Got it.
-Sorry for asking suddenly."
+...Sorry for asking out of nowhere."
 info,produce_communications_promises/20200010013.json,
 译者,,
