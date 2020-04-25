@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000,プロデューサー,おーい、透！\n一次審査、通ったぞ！,"Heeey, Toru!
+You did it, you passed the first round!"
+7020001010010,透,え、何？,"Uh, what?"
+0000000000000,プロデューサー,いや、何って……,"What do you mean, what..."
+0000000000000,プロデューサー,『W.I.N.G.』の一次審査だ！\n──もうちょっと喜んでもいいんじゃないか？,"The first round of W.I.N.G.!
+──You know it's okay to be a little over the moon about it, right?"
+7020001010020,透,あー……\nふふっ、嬉しい,"Aah...
+Fufu, I'm happy."
+0000000000000,プロデューサー,…………\nなんていうか、余裕だよなぁ,"...
+You seem really, um, composed, huh."
+7020001010030,透,そうかな,I wonder.
+0000000000000,プロデューサー,ああ\n悪いことじゃないけど──,"Oh, uh,
+I'm not saying that's a bad thing or whatever, but──"
+0000000000000,プロデューサー,これはみんながパスできるものじゃないんだ\nちゃんと通過したことを受け止めて、頑張ってほしい,"This isn't something everyone has the ability to just pass, you know. I want you to properly absorb the fact you did it, and keep working at it."
+7020001010040,透,じゃあ……うん、頑張る,"Then... alright, I'll work at it."
+0000000000000,プロデューサー,──はい、何を頑張るんだっけ？,"──Okay, and work at what, exactly?"
+7020001010050,透,──え？　あ……,──Eh? Uh...
+7020001010060,透,えっと、ウィ……\n『W.I.N.G.』……？,"Um, Wi...
+""W.I.N.G.""?"
+0000000000000,プロデューサー,……,...
+7020001010070,透,まかせて,Leave it to me.
+info,produce_events/702000101.json,
+译者,,

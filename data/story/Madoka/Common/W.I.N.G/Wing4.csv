@@ -6,21 +6,26 @@ id,name,text,trans
 1021001050030,円香,…………,......
 0000000000000,プロデューサー,──あ、そうだ\n次のオーディション資料、明日には届くらしい,"Oh, by the way, I've been told the documents for your next audition will come in tomorrow."
 1021001050040,円香,……次の……,...My next...
-0000000000000,プロデューサー,学校帰りとかでも事務所に寄れたりするかな？\n都合が悪かったら届けに──……,Any chance you could drop by the office after school? If not I'll bring them--...
+0000000000000,プロデューサー,学校帰りとかでも事務所に寄れたりするかな？\n都合が悪かったら届けに──……,Any chance you could drop by the office after school? If you're busy I'll just bring them--...
 1021001050050,円香,…………,......
 1021001050060,円香,あなたはなぜ私をアイドルにしたんですか,Why did you make me an idol?
 0000000000000,プロデューサー,……ん？,...Hm?
 1021001050070,円香,……私のことはさっさと追い払うべきでした\n本当に見る目がない……,...You should have turned me away. You really are a terrible judge of character.
 0000000000000,プロデューサー,…………,......
-0000000000000,プロデューサー,その……確かに俺は未熟だけど……,You know... I certainly do have a lot left to learn...
-0000000000000,プロデューサー,ごめんな、それには頷けない\n……円香を選んだのは間違いじゃない,"But I'm sorry, I'll have to disagree. I was not mistaken in choosing you."
-1021001050080,円香,歯の浮くようなセリフ……！\nここは舞踏会ですか、王子様……？,"Cut the theatrics already...! Does this place look like a ballroom to you, milord...?"
-0000000000000,プロデューサー,円香にはアイドルとしての才能がある\nこれからさらにもっと──,"Madoka, you have all the makings of an idol. And going forward you'll go even further--...."
-1021001050090,円香,さらにもっと？　そこで知るのは？\n身の程って現実でしょ,"Even further? And then what? I'll just be taught my place, that's what."
-1021001050100,円香,──……,--......
-0000000000000,プロデューサー,（ああ、そうか……円香は……）,(I see... so she's just...)
+0000000000000,プロデューサー,その……確かに俺は未熟だけど……,"You know... I certainly do lack experience, but..."
+0000000000000,プロデューサー,ごめんな、それには頷けない\n……円香を選んだのは間違いじゃない,"I'm afraid I'll have to disagree. 
+I was not mistaken in choosing you, Madoka."
+1021001050080,円香,歯の浮くようなセリフ……！\nここは舞踏会ですか、王子様……？,"Cut the theatrics already...! 
+Does this place look like a ballroom to you, milord...?"
+0000000000000,プロデューサー,円香にはアイドルとしての才能がある\nこれからさらにもっと──,"Madoka, you have all the makings of an idol. 
+And going forward you'll go even further..."
+1021001050090,円香,さらにもっと？　そこで知るのは？\n身の程って現実でしょ,"Even further? And then what? 
+I'll just be taught my place, that's what."
+1021001050100,円香,──……,──......
+0000000000000,プロデューサー,（ああ、そうか……円香は……）,(I see... so she is...)
 1021001050110,円香,アイドルなんか知りたくなかった,I wish I'd never gotten involved with this idol thing.
-1021001050120,円香,期待なんか背負いたくない\n必死になんか生きたくない,I don't want people's expectations weighing me down. I don't want to live on the edge.
+1021001050120,円香,期待なんか背負いたくない\n必死になんか生きたくない,"I don't want expectations weighing me down. 
+I don't want to live on the edge."
 1021001050130,円香,自分のレベルなんか試されたくない\n何度も……何度も……,I don't want to be put to the test again... and again...
 1021001050140,円香,そんなの私は……,It just...
 1021001050150,円香,怖い……,Terrifies me...
@@ -31,32 +36,34 @@ select,,すまない,I'm sorry
 1021001050160,円香,……,......
 0000000000000,プロデューサー,『望む空に羽ばたけるように』,"""To spread your wings and take to the skies that you've dreamed of"""
 0000000000000,プロデューサー,……これがプロデューサーの役目なんだ,...It's my job as a producer to make that happen.
-0000000000000,プロデューサー,晴天ばかりとは言わない\n雨も降るし、風も吹く。嵐の日もあるかもしれない,"It won't just be clear skies. There will be rain, there will be wind. There might even be storms."
-0000000000000,プロデューサー,だけど、絶対にその先へ行こう,But I'm certain we'll find a way through.
-1021001050170,円香,絶対……？,...you're certain...?
+0000000000000,プロデューサー,晴天ばかりとは言わない\n雨も降るし、風も吹く。嵐の日もあるかもしれない,"I won't pretend that it will only be clear skies.
+There will be rain, there will be wind. There might even be storms."
+0000000000000,プロデューサー,だけど、絶対にその先へ行こう,But we will definitely find a way through.
+1021001050170,円香,絶対……？,...Definitely...?
 0000000000000,プロデューサー,ああ！　円香が望めば叶うんだ,Yes! It will happen if you want it to!
 1021001050180,円香,そんな言葉に騙されない,Nice words like that won't fool me.
 0000000000000,プロデューサー,いや、あとは気持ちだけなんだ\n円香の場合──,"No, really, for you it actually is just a matter of mindset now."
 0000000000000,プロデューサー,これまでもずっと全力を出してきたんだから,Because you've already been putting in the effort all this time.
-1021001050190,円香,──…………本当に的外れ,--...You're way off.
+1021001050190,円香,──…………本当に的外れ,...You're way off.
 0000000000000,プロデューサー,あ……円香はそう言うだろうけど……ええと……,Ah... I knew you would say that but...ehm...
 1021001050200,円香,でも……それ、誰にも言わないで,But... please don't tell anyone.
 1021001050210,円香,…………言わないで,...don't tell them.
-1021001050220,円香,だから、私は──,"I'm telling you, I--"
-0000000000000,プロデューサー,円香が望めば、越えられないハードルなんてない,"There are no hurdles you can't overcome if you put your mind to it, Madoka."
-0000000000000,プロデューサー,ひとつずつチャレンジして……\n乗り越えていくんだ,"Just take them on one at a time, and you'll overcome them all."
+1021001050220,円香,だから、私は──,"I'm telling you, I──"
+0000000000000,プロデューサー,円香が望めば、越えられないハードルなんてない,"Madoka, if you truly want to, there are no hurdles you can't overcome."
+0000000000000,プロデューサー,ひとつずつチャレンジして……\n乗り越えていくんだ,Just take them on one at a time... and you'll overcome them.
 1021001050230,円香,……………,......
 1021001050240,円香,それでも……何度チャレンジしても、\n越えられないハードルがあったら？,"But... what if I run into a hurdle that's just too high for me, no matter how many times I try?"
-0000000000000,プロデューサー,……円香が諦める勇気を持てるまでそばにいる,...Then I'll be there for you as long as it takes for you to find the courage to give up.
+0000000000000,プロデューサー,……円香が諦める勇気を持てるまでそばにいる,...Then I'll be there right next to you for as long as it takes for you to find the courage to give up.
 0000000000000,プロデューサー,それで……一緒に大泣きしよう,And then we'll cry our eyes out together.
 1021001050250,円香,…………,......
-1021001050260,円香,どこまでも価値観が合いませんね,Looks like we'll never see eye to eye on some things.
+1021001050260,円香,どこまでも価値観が合いませんね,Amazing just how incompatible our values are.
 1021001050270,円香,私……泣きませんので,Because I... won't be crying.
 0000000000000,プロデューサー,言いたくないこと……言わせてしまったよな,I've made you say things you didn't want to say.
-1021001050280,円香,……それくらいはわかるんですね,"...So you understand that much, huh?"
+1021001050280,円香,……それくらいはわかるんですね,"...Well, at least you understand that much."
 0000000000000,プロデューサー,……円香は、ひと目見て素質があると思ったけど,"...I knew from the start that you have what it takes, but..."
-0000000000000,プロデューサー,──ダイヤの原石は原石でしかないんだ,--a diamond in the rough is nothing but a stone at first.
-0000000000000,プロデューサー,でも円香は逃げたりしなかった。挑み続けてくれた\nもちろん、その理由は色々あると思うけど……,"And yet you never ran away. You kept pushing on. I'm sure you had all kinds of reasons for that, but..."
+0000000000000,プロデューサー,──ダイヤの原石は原石でしかないんだ,──A diamond in the rough is nothing but a stone at first.
+0000000000000,プロデューサー,でも円香は逃げたりしなかった。挑み続けてくれた\nもちろん、その理由は色々あると思うけど……,"And yet you never ran away. You kept pushing on. 
+Of course, I'm sure you had all kinds of reasons for that, but..."
 0000000000000,プロデューサー,──自分の力でここまで来てくれた\n本当にありがとう……,You came this far all by yourself. Thank you.
 1021001050290,円香,………………,......
 1021001050300,円香,……私、あなたには期待しません,"...Yeah, I'm not expecting anything from you."

@@ -1,0 +1,26 @@
+id,name,text,trans
+0000000000000,プロデューサー,透……！\n通過だ！　三次審査も通ったぞ！,"Toru...!
+It's a pass! You passed the third round!"
+7020001050010,透,え……,Eh...?
+7020001050020,透,うそ,No way.
+0000000000000,プロデューサー,嘘ついても仕方ないだろ！\n──ははっ、嬉しそうじゃないか,"Like there'd be any point to lying!
+──Hahah, you seem pretty happy, huh?"
+7020001050030,透,うん。ふふっ,Yeah. Fufu.
+0000000000000,プロデューサー,珍しいな\nなんか、すごくいい顔してるよ,"Hey, that's rare.
+You're making this, like, really good face right now."
+7020001050040,透,ふふふっ、しつこいよ\nうん,"Fufufu. So persistent.
+Yeah."
+7020001050050,透,──ていうか、わかってくれてるじゃん,"──Actually, you're getting it right now, aren't you."
+0000000000000,プロデューサー,え？,Eh?
+7020001050060,透,『通過できて嬉しい』って……\nせっかく書こうと思ったのに、日誌,"""Happy I could pass""...
+I was just thinking I should write that. In the journal."
+0000000000000,プロデューサー,あぁ、そりゃあ──,"Ah, well, I mean──"
+0000000000000,プロデューサー,その顔見て『嬉しい』ってわからなかったら\nプロデューサー失格だよ,"If I looked at that face and couldn't imagine ""you're happy"", I'd be no longer a producer."
+7020001050070,透,まぁ……うん\nちゃんと書くから。どんなふうに嬉しいかってこと,"I... yeah.
+I promise I'll write about it properly. How I'm happy, in what kind of way."
+0000000000000,プロデューサー,……\n透……──,"...
+Toru...──"
+7020001050080,透,──って言いたいんでしょ、プロデューサー？,"──is what you wanted to tell me, right, Producer?"
+7020001050090,透,わかってる,I get it.
+info,produce_events/702000105.json,
+译者,,

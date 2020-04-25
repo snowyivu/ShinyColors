@@ -1,27 +1,29 @@
 id,name,text,trans
-0000000000000,プロデューサー,二次審査も通過だ……！\nおめでとう,We passed the second judging...! Congrats.
+0000000000000,プロデューサー,二次審査も通過だ……！\nおめでとう,We passed the second round...! Congrats.
 0000000000000,プロデューサー,それから、これも渡しておくよ,I also have this to give you.
-7021001030010,円香,手紙？,A letter?
-0000000000000,プロデューサー,円香宛のファンレターだよ,It's a fan letter addressed to you.
+7021001030010,円香,手紙？,Letters?
+0000000000000,プロデューサー,円香宛のファンレターだよ,Fan letters addressed to you.
 7021001030020,円香,え……,Huh...
-0000000000000,プロデューサー,円香を応援してくれる人が、\n少しずつ増えている証だ,It's proof that the people supporting you are growing bit by bit.
+0000000000000,プロデューサー,円香を応援してくれる人が、\n少しずつ増えている証だ,It's proof that the number of people supporting you is growing bit by bit.
 7021001030030,円香,ずいぶんな物好きですね,They have quite strange taste.
-0000000000000,プロデューサー,……少し、読み上げてみようか,...I'll try reading some of it outloud.
-0000000000000,プロデューサー,『円香さんの歌声、とっても素敵です』\n『聞いていると私も頑張ろうって思えます』,"""Madoka's singing voice is very wonderful"" ""When I hear it, I feel like I can do my best too"""
-7021001030040,円香,私も？,They can too?
-0000000000000,プロデューサー,『ライブで円香さんを見ると元気が出ます』\n『生命力に溢れている気がして……』,"""When I see Madoka live I feel cheered up"" ""I feel life force overflowing..."""
-7021001030050,円香,生命力……？,Life force...?
-0000000000000,プロデューサー,『円香さんならトップアイドルも夢じゃ──,"""If it's you, then becoming top idol isn't just a dre──"
+0000000000000,プロデューサー,……少し、読み上げてみようか,...Let me read some of it out loud.
+0000000000000,プロデューサー,『円香さんの歌声、とっても素敵です』\n『聞いていると私も頑張ろうって思えます』,"""Madoka, your singing voice is very wonderful"" 
+""When I hear it, I feel like I can do my best too"""
+7021001030040,円香,私も？,"They can ""too""?"
+0000000000000,プロデューサー,『ライブで円香さんを見ると元気が出ます』\n『生命力に溢れている気がして……』,"""When I see Madoka live, it cheers me up"" ""I feel so invigorated..."""
+7021001030050,円香,生命力……？,Invigorated...?
+0000000000000,プロデューサー,『円香さんならトップアイドルも夢じゃ──,"""If it's you, then becoming a top idol isn't just a dre──"
 7021001030060,円香,ああ、はい……もういいです\nよくわかりました,"Ah, yeah... That's enough. I get it already."
 7021001030070,円香,この業界にいる人って、\nアイドルも、スタッフも、ファンも──,"The people in this industry, including the idols, the staff, the fans──"
 7021001030080,円香,みんなエネルギッシュですよね,Everyone is so energetic.
 0000000000000,プロデューサー,俺はそういうところが好きなんだけど,I like that part of it though.
 7021001030090,円香,でしょうね、あなたと同じ人種なんですから,"Figures, they're the same type as you."
-0000000000000,プロデューサー,はは、円香は少し苦手そうだよな,"Haha, you're a bit bad at that."
-7021001030100,円香,……まあ\n悪どい人種よりは、ほんの少しだけマシですね,...Well it's a bit better than crooked people.
-0000000000000,プロデューサー,おや……ありがとう、嬉しいよ,"Oh... Thank you, I'm happy."
-7021001030110,円香,……今ほど失言を後悔したことはありません,...I don't regret my slip of tongue up to this point.
-0000000000000,プロデューサー,残りのファンレターはどうする？\n家で読むなら持って帰ってもいいぞ,What should I do with the other fan letters? If you want to read them at home you can take them with you.
+0000000000000,プロデューサー,はは、円香は少し苦手そうだよな,"Haha, I guess it's not your kind of thing."
+7021001030100,円香,……まあ\n悪どい人種よりは、ほんの少しだけマシですね,"...Well, at least it's a bit better than crooked people."
+0000000000000,プロデューサー,おや……ありがとう、嬉しいよ,"Well, well... Thank you, happy to hear that."
+7021001030110,円香,……今ほど失言を後悔したことはありません,...I've never regretted a slip of the tongue quite as much as this one.
+0000000000000,プロデューサー,残りのファンレターはどうする？\n家で読むなら持って帰ってもいいぞ,"What should I do with the other fan letters? 
+If you want to read them at home you can take them with you."
 7021001030120,円香,……,......
 7021001030130,円香,いえ、大丈夫です,"No, it's fine."
 info,produce_events/702100103.json,
