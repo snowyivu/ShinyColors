@@ -1,0 +1,92 @@
+id,name,text,trans
+0000000000000,プロデューサー,──円香、おはよう！,"──Good morning, Madoka!"
+1021001030010,円香,………………はぁ,...Ugh.
+0000000000000,プロデューサー,はは、そんなあからさまに\n嫌そうな顔をされると傷つくなぁ,"Haha, that look of obvious disgust on your face kind of hurts, you know."
+1021001030020,円香,笑いながら言うセリフですか？\nみんながあなたみたいに能天気なら世界も平和でしょうね,"Are you sure you should be laughing while saying that? 
+If everyone was as care-free as you are, the world would sure be a peaceful place."
+0000000000000,プロデューサー,ん、平和のためなら仕方ない……！\nこれからも能天気に頑張るよ,"Hm, if that's what it takes to achieve world peace... 
+I'll do my best to stay that way!"
+1021001030030,円香,……,......
+0000000000000,プロデューサー,今日はどうしたんだ？\nレッスンは無かったと思うけど,"So what's up today? 
+If I'm not mistaken you don't have any lessons."
+1021001030040,円香,はい、はづきさんから受け取るものがありまして,"Yes, I was just going to borrow something from Hazuki."
+0000000000000,プロデューサー,そうなのか、じゃあ事務所まで一緒に……,"If that's the case, let's go to the office together and..."
+0000000000000,女子高生,──あっ、あの！,"──Uhm, excuse me!"
+0000000000000,女子高生,すみません！\n樋口っ……円香……さんですかっ……？,"Excuse me!
+Are you... Madoka... Higuchi?"
+1021001030050,円香,……はい、そうですが,"...Yes, that would be me."
+0000000000000,女子高生,わあっ……！\n実は、この間ライブを見まして……！,"Oooh... 
+Actually, I was at your show the other day...!"
+0000000000000,女子高生,えっと、ファンに……なりました！\n握手してくれませんか！　よかったら写真も──！,"And I... I became a fan of yours! 
+Can I shake your hand? And a picture, if that's alright──!"
+1021001030060,円香,あ、ええと…………,"Ah, err..."
+0000000000000,プロデューサー,……ん、問題はないよ。円香の思うように,"...Hm? It's okay, Madoka. You can answer however you like."
+1021001030070,円香,……,......
+1021001030080,円香,……ええ、もちろん\n応援ありがとうございます,"...Yes, of course. 
+Thank you for your support."
+0000000000000,女子高生,わぁ、ありがとうございます！\nじゃあぜひぜひツーショットで──,"Oooh, thank you! 
+Then let's take a picture together──!"
+0000000000000,プロデューサー,喜んでくれてよかったな……！\n円香なら絶対トップアイドルになれる、だってさ,"Look at how happy she was, isn't that great...? 
+She said she's sure you can become a top idol!"
+1021001030090,円香,……\nそうですね,"...
+Yes, she did."
+0000000000000,プロデューサー,…………あんまり嬉しくないか,...You don't seem too happy.
+1021001030100,円香,──疑問が先立って,──I'm more confused than anything else.
+1021001030110,円香,私に何を期待しているんだろうと,Just what is she expecting from me?
+1021001030120,円香,まあ、わからなくても対応しますよ\nアイドルには必要なことみたいですから,"Oh well, I don't have to understand her to engage with her. 
+That seems to be a necessary part of being an idol."
+0000000000000,プロデューサー,……あのさ、円香──,"...Hey, Madoka──"
+select,,無理はするなよ,"Don't push yourself
+too hard"
+select,,やってみたいことは？,"Is there something
+you want to do in life?"
+select,,夢はないのか？,"Don't you have 
+any dreams?"
+1021001030130,円香,その言葉は無理をしそうな人にかけるべきです,You should tell that to someone who looks like they will.
+1021001030140,円香,それかちょっと優しくすれば、\n簡単に落とせそうな子にね,Or to the kind of girl who will easily fall for you if you just show them a little kindness.
+1021001030150,円香,雰囲気でしゃべるのはやめていただけますか？\nミスター・好青年,"I would appreciate it if you could stop the vapid chit-chat, Mr. Nice Guy."
+0000000000000,プロデューサー,………,......
+0000000000000,プロデューサー,すまん……で、でも、\n円香もアイドルとして頑張っているじゃないか,"I'm sorry... B-But... 
+You're working hard as an idol, aren't you?"
+1021001030160,円香,はい、そうですね,"Yes, that's right."
+0000000000000,プロデューサー,……！　ああ、だから力になりたいんだ,"...! Yeah, and that's why I want to be of help to you!"
+1021001030170,円香,はい、そうですね,"Yes, that's right."
+0000000000000,プロデューサー,う……『雰囲気』なんて言われないように……\nちゃんと行動で伝えられるようにするよ,"Ugh...I'll try to get that across to you with my actions so you won't have to accuse me of ""vapid chit-chat"" again."
+1021001030180,円香,はい、そうですね,"Yes, that's right."
+1021001030190,円香,…………,......
+0000000000000,プロデューサー,（その後──円香は事務所についてすぐに姿を消した）,(Madoka disappeared immediately after we arrived at the office.)
+0000000000000,プロデューサー,（はづきさんからレッスン室の鍵を借りて）,(But not without first borrowing the key to the lesson room from Hazuki.)
+1021001030200,円香,逆に聞きますが\nあるように見えますか？,"Let me ask you, do I look like there is?"
+0000000000000,プロデューサー,う、うーん……\nあるという可能性に賭けて……,"W-Well...
+Just betting on the possibility that there might be..."
+1021001030210,円香,クレイジーな人ですね\n勝算のない賭けに興じるなんて,You must be crazy to enjoy betting against all the odds.
+1021001030220,円香,──私、やりたいことはもうやっています,"──Besides, I'm already doing what I want to do."
+0000000000000,プロデューサー,えっ……,Huh...
+1021001030230,円香,あなたと事務所が悪さをしないか見張ること,Keeping an eye on you and your office to make sure you don't pull any tricks.
+0000000000000,プロデューサー,…………\nそ、そうか……はは……,".....
+I-I see... haha..."
+0000000000000,プロデューサー,まだ信用してもらえないか……\n俺の頑張りが足りないってことだな、ごめん,"So you still don't trust me...
+I suppose that means my efforts have been inadequate. I'm sorry."
+1021001030240,円香,…………そういうところが癇にさわる,...That's the part of you that gets on my nerves.
+0000000000000,プロデューサー,あ、はづきさん。円香を見かけませんでした？\nさっき一緒に来て……,"Ah, Hazuki. Have you seen Madoka?
+She was with me when I came here..."
+1021001030250,はづき,円香さんならもうレッスンに行きましたよ～？,Madoka? She already left for her lesson.
+0000000000000,プロデューサー,え？,Huh?
+0000000000000,プロデューサー,（今日はなんの予定もなかったはずだけど……）,(I'm pretty sure she had nothing scheduled for today...)
+0000000000000,プロデューサー,アイドルとしてじゃなくてもいい\n将来とかの──,"It doesn't have to be as an idol. 
+Like, your future──"
+1021001030260,円香,特にありません,Nothing in particular.
+0000000000000,プロデューサー,小さなことでもいいんだ\n思いつくことがあれば──,"It's okay if it's just something small.
+If you come up with something──"
+1021001030270,円香,では、ほどほどに生きることです,"In that case, it's to live in moderation."
+1021001030280,円香,トップアイドルなんて高望みしませんので\nまあ、それなりに,"I'll do my job, but I won't reach for the unattainable. Like becoming a top idol. "
+1021001030290,円香,──ありがとうございます、はづきさん,"──Thank you, Hazuki."
+0000000000000,プロデューサー,お、もう帰るのか？,"Oh, you're headed home already?"
+1021001030300,円香,はい。……ああ、そうだ,Yes. ...And by the way...
+1021001030310,円香,あなたの話し相手になる場合、\n次からは特別手当をいただきますので,"Next time you want me to engage in small talk with you, 
+I'll be expecting financial compensation."
+0000000000000,プロデューサー,そ、そうか……,I... I see...
+0000000000000,プロデューサー,（……あれ、今日はなんの予定もなかったはずだけど）,"(...Huh, I was sure there were no lessons scheduled today.)"
+0000000000000,プロデューサー,（レッスン室の鍵が無いな、貸出中か──）,"(The key to the lesson room is gone, did someone borrow it?)"
+info,produce_events/102100103.json,
+译者,,

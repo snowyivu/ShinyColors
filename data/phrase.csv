@@ -916,7 +916,7 @@ skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり
 skinKind.plain,私服衣装,Regular Outfit
 skinKind.concert,ライブ衣装,Live Outfit
 specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Replay
-specialCommunication.confirmationComment,%{title}\nが再生できます。\n\n再生しますか？,You can replay\r\n%{title}。\r\n\r\nReplay?
+specialCommunication.confirmationComment,%{title}\nが再生できます。\n\n再生しますか？,You can watch\r\n%{title}。\r\n\r\nWatch this?
 specialCommunication.achievementRewardDialogTitle,スペシャルコミュ再生報酬,Special Commu View Reward
 speaker.producer,プロデューサー,Producer
 speaker.ceo,社長,President

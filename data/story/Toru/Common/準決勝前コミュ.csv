@@ -1,0 +1,16 @@
+id,name,text,trans
+6020001010010,透,よーし……,Alright...
+0000000000000,プロデューサー,うん、透\n気合十分みたいだな,"Hey, Toru.
+Looks like you're full on fighting spirit."
+6020001010020,透,うん\nこれ、あのゴミ箱に入ったら勝つ──,"Yeah.
+I get this in the bin over there and I win──"
+0000000000000,プロデューサー,……え？,...What?
+6020001010030,透,──んっ……,──Hup...
+6020001010040,透,えっ,Eh.
+0000000000000,プロデューサー,えっ……\nま、負ける……のか？,"Huh...?
+Y──You're gonna... lose, or...?"
+6020001010050,透,ふふっ,Heheh.
+6020001010060,透,入るまでやる,I'll do it until it goes in.
+6020001010070,透,で、勝つから,Because I'm going to win.
+info,produce_events/602000101.json,
+译者,,

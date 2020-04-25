@@ -15,7 +15,7 @@ you will begin producing an idol yourself..."
 1902001010030,社長,"素晴らしい結果を期待させてもらう
 私は甘くないぞ","I'm expecting some spectacular results.
 I am not a lenient man."
-0000000000000,プロデューサー,は、はい！　よろしくお願いします！,O-of course! I will do all I can!
+0000000000000,プロデューサー,は、はい！　よろしくお願いします！,O-Of course! I will do all I can!
 1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,Excellent. I'll let Hazuki explain the rest...
 0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki? Actually... Woah!?
 0000000000000,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(Th-There's someone passed out behind the sofa!?)
@@ -74,16 +74,17 @@ The idol you will be producing──"
 1021001010030,？？？,急にすみません\n私、アイドルに興味があるんです,Sorry for being so sudden. I have an interest in idols.
 1021001010040,？？？,よかったらお話を伺えないでしょうか？,Is it alright if I ask you some questions about them?
 0000000000000,プロデューサー,（まっすぐで、綺麗な瞳だ……）,(She has such beautiful and straightforward eyes...)
-0000000000000,プロデューサー,わかりました\n事務所にご案内しますね、どうぞ──,"Got it. I can show you how to get to the office, it's this way-"
+0000000000000,プロデューサー,わかりました\n事務所にご案内しますね、どうぞ──,"Got it. I can show you how to get to the office, it's this way──"
 1021001010050,？？？,事務所の中は……ちょっと,"That... Isn't really necessary. "
 0000000000000,プロデューサー,……？,Hmm?
 1021001010060,？？？,軽くお話が聞ければ十分ですので\n近くの喫茶店では……いかがでしょう？,I think a quick chat would be plenty. There's a nearby cafe... let's talk there instead?
 0000000000000,プロデューサー,──など、２８３プロでは、\n本人の資質や希望に合わせた活動を……,"──So in 283Pro, we want the activities to be a combination of your qualities and aspirations..."
 1021001010070,？？？,資質や希望？　本当に？\nやりたくない仕事を無理やりさせたりとかは？,My qualities and aspirations? Really? So you won't force me to do work I don't want to?
-0000000000000,プロデューサー,チャレンジしてみようと持ちかけることはあります\nでも無理やりなんてことは絶対にありませんよ,"We will suggest for you to challenge yourself, but we will never make you force yourself."
+0000000000000,プロデューサー,チャレンジしてみようと持ちかけることはあります\nでも無理やりなんてことは絶対にありませんよ,"We will suggest for you to challenge yourself, but we will never force you to do anything."
 1021001010080,？？？,それなら安心ですね\n事務所に鍵でもかけられたら逃げられませんし,That's a relief. If the office was locked I wouldn't be able to escape.
 0000000000000,プロデューサー,（……なんだか尋問でもされているみたいだな……）,(...It's like I'm being interrogated...)
-1021001010090,？？？,ありがとうございました、もう結構です\n最後にあなたの名刺を頂きたいのですが,"Thank you very much, that's enough. Lastly, I'd like your business card."
+1021001010090,？？？,ありがとうございました、もう結構です\n最後にあなたの名刺を頂きたいのですが,"Thank you very much, that's enough. 
+Lastly, I'd like your business card."
 0000000000000,プロデューサー,あ、ああ……そうですね,"Ah, yeah... That's right."
 0000000000000,プロデューサー,改めまして……\n２８３プロダクションでプロデューサーを務めております──,So... I am employed as 283 Production's Producer──
 1021001010100,？？？,……！,...!
@@ -91,7 +92,7 @@ The idol you will be producing──"
 0000000000000,プロデューサー,うちでアイドルになりたいと思ってくれるなら、\nぜひまた連絡を──,"If you think that you want to become an idol with us, please contact us──"
 1021001010120,？？？,ああ、アイドル志望というのは嘘です,"Well, it was a lie that I had desire to become an idol."
 1021001010130,？？？,私の幼馴染がそちらに所属することになりまして\n騙されてないか、確かめに来たんです,"My childhood friend joined here, so I wanted to make sure she wasn't being tricked into something."
-0000000000000,プロデューサー,そ、そういうことでしたか……,S-so that's what this was all about...
+0000000000000,プロデューサー,そ、そういうことでしたか……,S-So that's what this was all about...
 1021001010140,？？？,悪どい芸能事務所もたくさんあるようですから？,"There are a lot of bad businesses out there, you know?"
 0000000000000,プロデューサー,……そうですよね……\nご心配おかけして申し訳ありません,...Right... I'm extremely sorry for causing you any concern.
 0000000000000,プロデューサー,認めてもらえるように、\nプロデューサーとして全力で頑張りたいと思います,I'd like to do my best as a Producer so you'll be able to approve of me.
@@ -102,7 +103,7 @@ The idol you will be producing──"
 0000000000000,プロデューサー,あっ……待って\nアイドル志望でないのなら……,"Ah... Wait. If you have no desire to be an idol, then..."
 0000000000000,プロデューサー,今、ここでスカウトさせてください……！,Please let me scout you...!
 1021001010180,？？？,……は……？,...Huh...?
-0000000000000,プロデューサー,出会った時にすぐわかりました\n……ダイヤの原石だって……！,I understood as soon as I met you... that you're a diamond in the rough...!
+0000000000000,プロデューサー,出会った時にすぐわかりました\n……ダイヤの原石だって……！,I knew as soon as I met you... that you're a diamond in the rough...!
 1021001010190,？？？,は……？　ふざけないでください\n近寄らないで,Huh...? Please don't mess around. Stay away from me.
 0000000000000,プロデューサー,ぜひ、浅倉さんと一緒に！\nどうでしょうか……！,You can be together with Asakura! How about that...?!
 1021001010200,？？？,………………,......
