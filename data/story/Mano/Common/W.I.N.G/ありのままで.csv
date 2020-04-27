@@ -1,0 +1,121 @@
+id,name,text,trans
+1001001030010,真乃,ふぅ、一段落です……,"Phew, the first part is done..."
+0000000000000,プロデューサー,"真乃、リハーサルよかったぞ
+グルメ番組に出るのは初めてだけど、この調子なら……","Mano, the rehearsal was good.
+It's your first time doing a gourmet show, but at this rate..."
+0000000000000,プロデューサー,ってどうした、表情が暗いぞ？,"Ah, what's wrong? You seem down."
+1001001030020,真乃,"その……よくわからなくって……
+どうして私が番組のオーディションに受かったんでしょう？","Um... I don't really get it...
+Why did I pass the audition?"
+1001001030030,真乃,食レポ、上手くできたって思えませんでした……,I don't think I didn't the food report well...
+0000000000000,プロデューサー,真乃には、見ている人を癒す力があるからじゃないかな,Maybe it's because you have the ability to soothe the viewers?
+1001001030040,真乃,人を癒す力……ですか？,The ability to soothe people...?
+0000000000000,プロデューサー,"うん、番組ディレクターからも、
+ちまちま食べてるところが可愛かったって言われたしね","Yeah, the director also said the way you were eating was cute."
+1001001030050,真乃,ほわ……？,Huh...?
+0000000000000,プロデューサー,"ディレクターの評価も高いってことだよ
+今の調子でみんなを癒していこう","I meant that the director's rating was good too.
+Just keep soothing everyone like this."
+1001001030060,真乃,"でも……私、人の癒し方なんて全然わからないです
+どうすればいいんでしょうか？","But... I don't know how to soothe others at all.
+What should I do?"
+1001001030070,真乃,"ちゃんと人を癒やせないと、
+番組ディレクターさんの期待にも応えられないですよねっ","If I don't properly soothe people, 
+I can't respond to the director's expectations either."
+0000000000000,プロデューサー,"自然体だからこそ、できることもあるんだ
+人を癒すなんて考えなくていいんだよ","It's also because you're being natural that you can do it.
+You don't really have to think about it."
+1001001030080,真乃,"自然体に、考えない……
+ほわっ、よけいに意識しちゃいますっ","Naturally... don't think about it...
+Ah, I end up overthinking it."
+select,,"鳥に話しかける
+つもりで……","As if you're
+talking to 
+a bird..."
+select,,まずは深呼吸を,"Start with 
+a deep breath"
+select,,料理を楽しもう,"Let's enjoy
+the food"
+0000000000000,プロデューサー,"ほら、ピーちゃんに話すみたいに食レポしてみたらどうかな
+それなら普通に話をしてる気持ちになれるんじゃないか？","How about you try it like you're talking to Pii-chan?
+If you do that you should be able to get used to talking normally, right?"
+1001001030090,真乃,"普通に話す……
+本当にそれだけでいいんでしょうか？","Talking normally...
+Is that really all?"
+0000000000000,プロデューサー,"ああ、そういう自然体な真乃の何気ない日常会話にこそ
+癒されたりするんだよ","Yes, it's soothing when you're just naturally having a normal conversation."
+1001001030100,真乃,そうだったんですね……,So that was the case...
+1001001030110,真乃,"全然意識していませんでした
+なんてことのない会話に癒される人も……","I wasn't paying attention to it at all.
+People are soothed by normal conversation..."
+1001001030120,真乃,"もし本当に誰かを癒やせてるなら
+私、うれしいですっ","If I can really soothe someone, then I'm happy."
+0000000000000,プロデューサー,うん、いつもの自然体でみんなを癒してくれ,"Yep, just soothe everyone with your natural self."
+1001001030130,真乃,"やってみます
+ピーちゃんに話しかけるつもりで","I'll try it.
+As if I'm talking to Pii-chan."
+1001001030140,真乃,"あ、そうだっ
+ピーちゃんもいいですけど……","Ah, right.
+Thinking of Pii-chan is good, but..."
+0000000000000,プロデューサー,ん、どうした？,"Hm, what's wrong?"
+1001001030150,真乃,"鳥さんだけじゃなくて、他の人とも気負わず
+自然体で話せるようにならないとですよねっ","I need to be able to talk to other people naturally without getting worked up too, not just birds."
+1001001030160,真乃,"だから、プロデューサーさんに話しかけるつもりで
+やってみますっ","So, I'll try it as if I'm talking to Producer."
+1001001030170,真乃,"自然体になるよう、頑張りますね
+むんっ","I'll do my best to act natural.
+Yeah!"
+0000000000000,プロデューサー,"（力んだら意味ないんだけど……
+ま、あの調子なら大丈夫かな）","(It's not really natural anymore if you try, but...
+Well, it should be fine this way)"
+1001001030180,真乃,"そ、そうですね
+大きく息を吸って吐いて","R-right.
+Breathe in, breathe out."
+1001001030190,真乃,すぅ～はぁ～すぅ～はぁ～,Haaaaa~
+1001001030200,真乃,"ほわ？　どうしてプロデューサーさん、
+ニコニコしてるんでしょうか？","Eh? Producer, why are you grinning?"
+0000000000000,プロデューサー,深呼吸する真乃の仕草がよかったから,The gestures you make while you take deep breaths are good.
+1001001030210,真乃,"ほわっ？　でも深呼吸の時しませんか？
+両手を広げて～すぅ～はぁ～すぅ～はぁ～こんなふうに","Huh? Isn't it normal while taking deep breaths?
+Moving your hands like this. Haaaaa~"
+0000000000000,プロデューサー,"真乃だから可愛く見えたんだね
+癒されたよ","It's cute because it's you.
+I've been soothed."
+1001001030220,真乃,そ、そう言われたら恥ずかしいです～,I-if you say it that way it's embarassing~
+0000000000000,プロデューサー,"今みたいに何気ないことで
+みんな癒されるんだよ、真乃の場合","People are soothed by you doing normal things like this, Mano."
+1001001030230,真乃,ほわ、そうなんですか……？,"Wah, really?"
+0000000000000,プロデューサー,だから癒さなくっちゃって気負う必要はないんだ,That's why you don't have to get worked up about soothing others.
+0000000000000,プロデューサー,"いつもどおりいつもどおり
+それが真乃の場合はいい","Just act like usual, that works for you."
+1001001030240,真乃,"はい、わかりましたっ
+ありがとうございます、プロデューサーさん","I understand. Thank you, Producer."
+0000000000000,プロデューサー,じゃあ、本番の前にもう一回深呼吸しておこうか,"Alright, let's take one more deep breath before the proper broadcast."
+1001001030250,真乃,"はいっ
+すぅ～はぁ～すぅ～はぁ～",Yes! Haaaaa~
+1001001030260,真乃,でも……食レポが大変で楽しむ余裕なんて……,But... the food report is so hard I barely have the room to enjoy it...
+0000000000000,プロデューサー,"美味しそうに食べてるように見えたけど
+料理の味もよくわからなかったかな？","You seemed like you were enjoying it, but were you unsure about the flavor of the food?"
+1001001030270,真乃,いいえ、すごーく美味しかったですっ,"No, it was really delicious."
+1001001030280,真乃,"海老は大きくてプリプリでしたし、
+サラダの野菜は新鮮シャキシャキでしたっ","The prawn was large and tender, and the vegetables in the salad were fresh and crisp."
+0000000000000,プロデューサー,"良かったよ、楽しめてて
+その調子で食レポもすればいいんだよ","It's good that you enjoyed it.
+Just do the food report like that."
+1001001030290,真乃,"今みたいなのでいいんでしょうか？
+普通に感想を言っただけです……","Is it really okay to do it like this?
+I just said my normal thoughts..."
+0000000000000,プロデューサー,"大丈夫だよ
+真乃の素直な反応は見てて癒されるからね","It's fine.
+Seeing your honest response is soothing."
+1001001030300,真乃,ほわ……そうだったんですね,Ah... So that was the case.
+1001001030310,真乃,"じゃあ、素直に料理を楽しみますっ
+プロデューサーさんのおかげでホッとしました","Okay, I'll enjoy the food naturally.
+Thanks to Producer, I feel relieved."
+0000000000000,プロデューサー,よし、その調子で気楽に行けばいい,"Yep, just continue at ease like that."
+1001001030320,真乃,"ふふ……気が楽になったら
+早くお料理を食べたいなぁ、って思えてきました","Hehe... Now that I feel comfortable, I think I want to hurry and eat some food."
+1001001030330,真乃,"食レポ、頑張りますね
+むんっ",I'll do my best with the food report. Yeah!
+info,produce_events/100100103.json,
+译者,,

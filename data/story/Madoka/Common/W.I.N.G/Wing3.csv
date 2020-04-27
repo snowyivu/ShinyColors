@@ -2,83 +2,80 @@ id,name,text,trans
 0000000000000,プロデューサー,今日のオーディションはどうだった？,How was today's audition?
 1021001040010,円香,…………,......
 0000000000000,プロデューサー,……円香？,...Madoka?
-1021001040020,円香,え？　ああ……今日の感想ですか,Huh? Right... you wanted to hear my thoughts about today?
-1021001040030,円香,別に……強いて言うなら、\nもっと居心地のいい控室がよかったですね,"Nothing special... If anything, I would have preferred a more comfortable green room."
-0000000000000,プロデューサー,ああ、他のオーディション参加者との共同だったからなあ\n狭かったり、騒がしかったり──,"Right, you had to share the room with the other participants, 
-so it must have been cramped and noisy, no?"
-1021001040040,円香,──空気の話です,──I'm talking about the atmosphere in there.
-1021001040050,円香,手の震えが止まらない子、\n何度も深呼吸している子……,"There was a girl whose hands wouldn't stop shaking,
-another girl who kept taking deep breaths..."
-1021001040060,円香,オーディションが終わった後、\n大声で泣き出す子もいましたね,"And after the audition was over, there was even a girl crying hysterically, saying that she messed up."
+1021001040020,円香,え？　ああ……今日の感想ですか,"Eh? Ah... thoughts on today, huh."
+1021001040030,円香,別に……強いて言うなら、\nもっと居心地のいい控室がよかったですね,"Not much... If anything, I'd have liked the waiting room to be more of a relaxed time than it was."
+0000000000000,プロデューサー,ああ、他のオーディション参加者との共同だったからなあ\n狭かったり、騒がしかったり──,"Right, you had to share with everyone else auditioning, didn't you? It must've been pretty crowded and noisy──"
+1021001040040,円香,──空気の話です,──I meant the atmosphere in there.
+1021001040050,円香,手の震えが止まらない子、\n何度も深呼吸している子……,"Girls whose hands wouldn't stop shaking, ones who kept on taking deep breaths, over and over..."
+1021001040060,円香,オーディションが終わった後、\n大声で泣き出す子もいましたね,"After the audition wrapped up, there was one who just cried a whole river out loud, saying that she messed up."
 1021001040070,円香,失敗した、悔しい、情けないって\nまだ結果も出ていないのに,"Said she felt frustrated and pathetic, even though the results aren't out yet."
-0000000000000,プロデューサー,そうだったのか\n…………円香は…………,"I see... 
-How about you, Madoka?"
-0000000000000,プロデューサー,あ……いや、円香なら大丈夫だよな\nいつも通りだったもんな……うん,"Err... never mind. I'm sure you were doing just fine, as always.
-...Right."
-1021001040080,円香,……さすが、難なく正解ということで,"...Good job, figuring out the correct answer all by yourself."
-0000000000000,プロデューサー,そうだよな！　じゃあきっと合格する\n結果が楽しみだ……！,"I knew it! Well, in that case I'm sure you'll pass the audition! 
-I'm looking forward to the results already...!"
+0000000000000,プロデューサー,そうだったのか\n…………円香は…………,"That's what you mean, then?
+...so, Madoka, you..."
+0000000000000,プロデューサー,あ……いや、円香なら大丈夫だよな\nいつも通りだったもんな……うん,"Ah... no, I'm sure you were doing just fine, as always.
+...Yeah."
+1021001040080,円香,……さすが、難なく正解ということで,"...well, congratulations on your easy right answer there."
+0000000000000,プロデューサー,そうだよな！　じゃあきっと合格する\n結果が楽しみだ……！,"I knew it! Well, in that case I'm sure you're gonna pass.
+Looking forward to the results already...!"
 1021001040090,円香,…………\n本当に？,"...
-Seriously?"
-1021001040100,円香,本当にそう思ってます？\nそれ、あなたの本心ですか？,"Do you seriously think so? 
-Is that what you genuinely believe?"
+Really?"
+1021001040100,円香,本当にそう思ってます？\nそれ、あなたの本心ですか？,"Are you truly thinking that?
+Is that honestly what you feel, deep down?"
 0000000000000,プロデューサー,（円香の調子は決して悪くなかった）,(Madoka's performance wasn't bad by any means.)
-0000000000000,プロデューサー,（だがライバルも強くなってきている\n厳しい戦いというのも事実だ──）,"(But the competition has also been growing stronger. 
-It will be a tough battle, I can't deny that.)"
-select,,もちろんだよ,Of course!
-select,,本心だ……,"I really do
-believe that..."
+0000000000000,プロデューサー,（だがライバルも強くなってきている\n厳しい戦いというのも事実だ──）,"(But her rivals are getting stronger, too. The fact she's got a hard fight on her hands is indisputable──)"
+select,,もちろんだよ,"Yeah, of course."
+select,,本心だ……,──It is...
 select,,…………,......
-0000000000000,プロデューサー,強敵揃いだったことは認める\nだけど円香も負けてない、勝つと信じてるよ,"Your opponents were quite formidable, I'll admit that much. 
-But you were in no way inferior to them, so I believe you'll win."
-1021001040110,円香,そうですか,I see.
-1021001040120,円香,信じるのは勝手ですが、\nその期待は背負いませんので,"You can believe all you want, but I'm not taking any responsibility for it."
-0000000000000,プロデューサー,ああ、もちろん\n聞き流してくれて構わない,"Of course. You can forget what I said, I don't mind."
+0000000000000,プロデューサー,強敵揃いだったことは認める\nだけど円香も負けてない、勝つと信じてるよ,"There were some formidable opponents lined up against you, I'll admit that much. But you were in no way inferior to them, so I believe you're going to win."
+1021001040110,円香,そうですか,Is that how it is?
+1021001040120,円香,信じるのは勝手ですが、\nその期待は背負いませんので,"You can believe all you want, but it's not my burden to carry."
+0000000000000,プロデューサー,ああ、もちろん\n聞き流してくれて構わない,"Yeah, understood.
+No skin off my teeth if you leave that aside."
 1021001040130,円香,………………,......
 1021001040140,円香,……前に見たアイドル、覚えてますか,...Do you remember the idol we saw before?
-0000000000000,プロデューサー,ああ、ショップイベントの……,"Ah, at the CD shop event...?"
-1021001040150,円香,そうです、あの安っぽい笑顔で歌っていた人,"Yes, the one singing, with that fake smile of hers."
-1021001040160,円香,……今日のオーディションにいました,...She was at today's audition.
-0000000000000,プロデューサー,そうか……どうだった？,She was? ...How did she do?
+0000000000000,プロデューサー,ああ、ショップイベントの……,"Ah, the one at the shop event...?"
+1021001040150,円香,そうです、あの安っぽい笑顔で歌っていた人,Her exactly. The one who smiled her shoddy smile and sang as she did.
+1021001040160,円香,……今日のオーディションにいました,"...At today's audition, she was there."
+0000000000000,プロデューサー,そうか……どうだった？,I see... how was she?
 1021001040170,円香,…………,......
-1021001040180,円香,控室で泣いていたの、その子です,She was the one crying in the green room.
-0000000000000,プロデューサー,（後日、オーディションの結果が届いた）,"(Some days later, the results came in.)"
-0000000000000,プロデューサー,（合格通知だった。それを見た円香は──）,(Madoka had passed the audition. Upon seeing this──)
-0000000000000,プロデューサー,（小さく息をついた）,(She sighed quietly.)
+1021001040180,円香,控室で泣いていたの、その子です,The girl who cried in the waiting room. That was her.
+0000000000000,プロデューサー,（後日、オーディションの結果が届いた）,"(──Some days later, the audition results reached us.)"
+0000000000000,プロデューサー,（合格通知だった。それを見た円香は──）,(Telling us she'd passed. And when Madoka saw that──)
+0000000000000,プロデューサー,（小さく息をついた）,"(──she took a small, sharp breath.)"
 0000000000000,プロデューサー,……だけど……,...But...
 1021001040190,円香,……,......
-0000000000000,プロデューサー,……すまない。勝負の世界で、\n楽しみだなんて安易に言うべきじゃなかったな,"...I'm sorry. It's a competitive world, I shouldn't have spoken so lightly about looking forward to the results."
-1021001040200,円香,いえ。あなたがどう思っているか聞いただけですから,It's fine. I was just asking how you felt about it.
-0000000000000,プロデューサー,……円香自身はどう思っているんだ？,"...So how do you feel about it, Madoka?"
+0000000000000,プロデューサー,……すまない。勝負の世界で、\n楽しみだなんて安易に言うべきじゃなかったな,"...No, my bad. It's a competitive world, I shouldn't have spoken so lightly about looking forward to the results."
+1021001040200,円香,いえ。あなたがどう思っているか聞いただけですから,"Pardon. I only wanted to hear what you've been thinking, that's all."
+0000000000000,プロデューサー,……円香自身はどう思っているんだ？,"...So what've you been thinking, personally, Madoka?"
 1021001040210,円香,私は不合格だと思います\nこのあたりが潮時じゃないですか,"I don't think I've passed this one.
 It might be about time to call it quits, don't you think?"
-0000000000000,プロデューサー,……まだわからないさ,...We don't know that yet.
+0000000000000,プロデューサー,……まだわからないさ,"...I mean, who can say yet."
 1021001040220,円香,そうですね\nまあどんな結果が出ても──,"True enough.
-Well, whatever the outcome──"
-1021001040230,円香,私が泣くことはないですね,I won't be shedding any tears over it.
-0000000000000,プロデューサー,（──後日、オーディションの結果が届いた）,"(Some days later, the results came in.)"
-0000000000000,プロデューサー,（合格通知だった）,(Madoka had passed the audition.)
+Well. Whichever result comes──"
+1021001040230,円香,私が泣くことはないですね,It's not going to see me crying.
+0000000000000,プロデューサー,（──後日、オーディションの結果が届いた）,"(──Some days later, the audition results reached us.)"
+0000000000000,プロデューサー,（合格通知だった）,(Telling us she'd passed.)
 1021001040240,円香,これ、全員合格だったとかあります？,"Did they just let everyone pass, you suppose?"
 0000000000000,プロデューサー,いや、それはないと思うよ\n不合格者も出たはずだ,"No, I think that's unlikely. 
 There must have been some unsuccesful participants as well."
 1021001040250,円香,……ふうん……,...Hmm...
-1021001040260,円香,強い言葉を使う時は、\nそう思い込もうとしている時,"Whenever you speak confidently, you're just trying to convince yourself that it's true."
+1021001040260,円香,強い言葉を使う時は、\nそう思い込もうとしている時,"Any time you pick your words that strongly, you're just trying to make yourself believe it."
 1021001040270,円香,違いますか？,Am I wrong?
 0000000000000,プロデューサー,……否定できないな\n確かに、楽に勝てるとは思わない,"...I can't deny that.
-You're right, I don't think it will be an easy victory."
-0000000000000,プロデューサー,だけど……円香なら合格すると思う\nその気持ちは本当だよ,But... I wasn't lying when I said I think you will pass the audition.
+For sure, I don't think you can just up and win like that."
+0000000000000,プロデューサー,だけど……円香なら合格すると思う\nその気持ちは本当だよ,"But... when it comes to you, I really do believe you will pass."
 1021001040280,円香,…………,......
-1021001040290,円香,『W.I.N.G.』で優勝したら泣きそう,Looks like a lot of tears would be shed if I were to end up winning W.I.N.G..
-0000000000000,プロデューサー,え……円香が……！？,Huh... you would cry...!?
-1021001040300,円香,違う、あなたが,"No, but you would."
-0000000000000,プロデューサー,おっと、すまん……早とちりで……,"Oh, sorry... jumping to conclusions again..."
+1021001040290,円香,『W.I.N.G.』で優勝したら泣きそう,"If I win W.I.N.G., there'll be crying, huh."
+0000000000000,プロデューサー,え……円香が……！？,Eh... you will...!?
+1021001040300,円香,違う、あなたが,No. YOU will.
+0000000000000,プロデューサー,おっと、すまん……早とちりで……,"Oop, sorry... jumped to conclusions there..."
 0000000000000,プロデューサー,しかし……はは、そうだな\nそれも否定できない,"But... haha, come to think of it...
 I can't deny that either."
-1021001040310,円香,……あーあ\n最近、まわりにいるのは簡単に泣くような人ばっかり,"...Geez, I've been surrounded by crybabies lately."
+1021001040310,円香,……あーあ\n最近、まわりにいるのは簡単に泣くような人ばっかり,"...ahh, ahh.
+I keep company with nothing but quick-off-the-mark crybabies these days."
 1021001040320,円香,………………疲れる,...Wears me out.
-0000000000000,プロデューサー,（──後日、オーディションの結果が届いた）,"(Some days later, the results came in.)"
-0000000000000,プロデューサー,（合格通知だった）,(Madoka had passed the audition.)
-1021001040330,円香,控室にいた人たち、ものすごく必死だったのに\nつまり、勝ち負けは気持ちの問題じゃない,"The other people in the green room were desperate to win. 
+0000000000000,プロデューサー,（──後日、オーディションの結果が届いた）,"(──Some days later, the audition results reached us.)"
+0000000000000,プロデューサー,（合格通知だった）,(Telling us she'd passed.)
+1021001040330,円香,控室にいた人たち、ものすごく必死だったのに\nつまり、勝ち負けは気持ちの問題じゃない,"Everyone who was in that waiting room──all of them, beyond desperate for it
 Clearly, winning or losing isn't a matter of how you feel about it."
 1021001040340,円香,──違いますか？,──Am I wrong?
 info,produce_events/102100104.json,

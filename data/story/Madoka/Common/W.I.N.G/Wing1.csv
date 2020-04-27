@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,次の駅で降りるからな,We'll be getting off at the next station.
 1021001020010,円香,……はい,...Okay.
-0000000000000,プロデューサー,レッスンの調子はどうかな\n少しは慣れてきた？,How are you doing at lessons? Are you getting used to it somewhat?
+0000000000000,プロデューサー,レッスンの調子はどうかな\n少しは慣れてきた？,How are you doing at lessons? Are you getting used to them somewhat?
 1021001020020,円香,それなりに,About as well as you'd expect.
 0000000000000,プロデューサー,そうか、よかった……！,That's good...!
 0000000000000,プロデューサー,生活リズムも変わって大変だろう？\n困ったことがあったらなんでも言ってくれよ,"It's hard to change your daily life style. If you have something bothering you, feel free to tell me."
@@ -31,7 +31,7 @@ id,name,text,trans
 1021001020130,円香,は……？　こんな路上で？,Huh...? On this street?
 0000000000000,プロデューサー,CDショップで毎週やっているイベントだよ\nアイドルについて学ぶチャンスだ,It's an event the CD shop does every week. This is a chance to learn more about idols.
 0000000000000,プロデューサー,ほら、ちょうど始まるぞ！,"Alright, it's about to start!"
-1021001020140,円香,………………ふうん,...Hm.
+1021001020140,円香,………………ふうん,............Hm.
 1021001020150,円香,素敵ですね,It's amazing.
 0000000000000,プロデューサー,……あ、ああ！　そうだろう！？,...Y-Yeah! Isn't that right!?
 1021001020160,円香,はい、私の想像通り,"Yes, just like I imagined."
@@ -45,8 +45,8 @@ select,,うーん……,Hmm...
 0000000000000,プロデューサー,さっきの写真だってそうだ\n円香が全力で取り組んでくれたからこそ──,Your photo was like that too. It's because you gave it your all──
 1021001020190,円香,は？　ないです、そんなの\n宣材写真に全力が必要なんですか？,"Huh? No, I didn't. Should I be giving my all for a promo shot?"
 1021001020200,円香,私は普通にやっただけです,I just did it normally.
-1021001020210,円香,でも『宣材写真にしておくのはもったいない』\n素晴らしい出来栄えだったんですよね？,"But you said ""It's a waste to just keep it a promo photo"". 
-So the result turned out great anyway, right?"
+1021001020210,円香,でも『宣材写真にしておくのはもったいない』\n素晴らしい出来栄えだったんですよね？,"But you said ""It's a waste to just keep it a promo
+photo"". So the result turned out great anyway, right?"
 0000000000000,プロデューサー,……,......
 1021001020220,円香,さすが……\n人を見る目がおありですね,You must simply have a great eye for talent. Very impressive.
 0000000000000,プロデューサー,誰かのための笑顔は簡単じゃない,It's not easy to smile for someone else.
@@ -57,8 +57,8 @@ You'll understand eventually."
 1021001020250,円香,では、いつかわかる日が来るまでは、\nほどほどの愛想で構いませんね,"Well then, until I understand someday, I'm sure you don't mind if I cut back on the civilities somewhat."
 1021001020260,円香,恥ずかしいですから,It's embarassing.
 0000000000000,プロデューサー,確かにダンスも歌もまだまだかもしれない\nでも、一生懸命頑張って──,"It's true you need more work on dancing and singing, but if you do your best──"
-1021001020270,円香,つまり未完成でも商売になるってことですよね,"So idols can turn a profit even if they don't have the skills for the job yet.
-That's what you're saying, isn't it?"
+1021001020270,円香,つまり未完成でも商売になるってことですよね,"So idols can turn a profit even if they don't have the
+skills for the job yet. That's what you're saying, isn't it?"
 1021001020280,円香,社会ってもっと厳しいものだと思っていました\n私の勘違いで何よりです,I thought society was stricter than that. I guess I was mistaken.
 0000000000000,プロデューサー,……アイドルのことを知らないうちは、\nそう見えるのかもしれないな,"...If you don't know about idols, it may seem like that."
 1021001020290,円香,では教えてください。アイドルとは？,Please tell me then. What is an idol?
@@ -66,6 +66,6 @@ That's what you're saying, isn't it?"
 ...It differs by each person."
 1021001020300,円香,ふふっ……,Fufu...
 0000000000000,プロデューサー,円香の答えを一緒に探していこう……！,Let's look for your answer together...!
-1021001020310,円香,はい、どうぞおひとりで,"Okay, please do so by yourself."
+1021001020310,円香,はい、どうぞおひとりで,"Sure, please do so by yourself."
 info,produce_events/102100102.json,
 译者,,
