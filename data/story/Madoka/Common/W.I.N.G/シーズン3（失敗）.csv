@@ -1,20 +1,22 @@
 id,name,text,trans
-7902001060010,社長,やはりここまで来ると、\n乗り越えるべき壁も高かったな……,The wall to overcome after coming this far was pretty high...
-7901001060010,はづき,結果は残念でしたけど……\nおふたりは立派にやってましたよ！,It's too bad about the results... You both did splendid!
-7901001060020,はづき,ここまで来れただけでも、\n胸を張って誇れることだと私は思います,I think that even coming this far that you should feel proud about it.
+7902001060010,社長,やはりここまで来ると、\n乗り越えるべき壁も高かったな……,The wall to climb over after coming this far was tall...
+7901001060010,はづき,結果は残念でしたけど……\nおふたりは立派にやってましたよ！,"The results are unfortunate, but...
+The two of you did a splendid job!"
+7901001060020,はづき,ここまで来れただけでも、\n胸を張って誇れることだと私は思います,"You were only able to come this far, but I think you can walk with your heads held high."
 7902001060020,社長,ああ、良い活躍だった\nそれはたしかだ,"Yes, it was certainly a great effort."
-0000000000000,プロデューサー,……俺もそう思います\n彼女はよくやってくれました,...I think so too. She did well.
-7901001060030,はづき,その言葉を、彼女に直接\n言ってあげましょう？,Maybe you should tell her that in person?
-0000000000000,プロデューサー,……はい,...Okay.
+0000000000000,プロデューサー,……俺もそう思います\n彼女はよくやってくれました,"...I think so, too.
+She did a great job."
+7901001060030,はづき,その言葉を、彼女に直接\n言ってあげましょう？,How about you tell that to her in person?
+0000000000000,プロデューサー,……はい,...I will.
 0000000000000,プロデューサー,……三次審査の結果が出た。残念だが……,...The results of the third judging came out. Sadly...
 7021001060010,円香,ああ、落ちたんですね\nわかりました,"Oh, so I didn't make it through? Got it."
 0000000000000,プロデューサー,円香……,Madoka...
-7021001060020,円香,ふふっ、深刻そうな顔で呼び出すから\n何事かと思いました,"Fufu, when you called me with that grave look on your face I thought something serious had happened."
+7021001060020,円香,ふふっ、深刻そうな顔で呼び出すから\n何事かと思いました,"Fufu, when you called me with that grave look on your face I thought something serious came up."
 7021001060030,円香,いちいち大げさにするの、\nやめてもらえます？,Can you stop exagerrating everything?
 0000000000000,プロデューサー,……すまない,...I'm sorry.
 7021001060040,円香,…………,......
 0000000000000,プロデューサー,円香は……ショックじゃないのか？,Madoka... Isn't this a shock to you?
-7021001060050,円香,そもそもとして、\n受かりたいと思ったことがありませんので,I didn't think about wanting to make it through to begin with.
+7021001060050,円香,そもそもとして、\n受かりたいと思ったことがありませんので,I never wanted to make it through to begin with.
 7021001060060,円香,このあたりで落ちておくのが、ちょうどいいですよ,Dropping out around here is just about right for me.
 info,produce_events/702100106.json,
 译者,,

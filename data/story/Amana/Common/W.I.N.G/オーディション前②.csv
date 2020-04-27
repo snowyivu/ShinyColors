@@ -4,7 +4,7 @@ id,name,text,trans
 ...I'm feeling anxious."
 0000000000000,プロデューサー,"（よし、何か言葉をかけて
 甘奈の不安を拭い去ろう……）","(Alright, I have to say something
-to ease Amana's mind for a bit...)"
+to ease her mind for a bit...)"
 select,,"ちょっと
 ステップしてみよう！","Let's try
 reviewing the
@@ -27,6 +27,6 @@ Yep, thanks a lot, I feel a bit more lighter now."
 4014001000120040,甘奈,"うーん……そういうものなのかなぁ？
 甘奈にはちょっとわかんないかもー","Hmm... Is that really true?
 I'm not really sure about that."
-0000000000000,プロデューサー,（うーん、甘奈はこういう考え方はしないようだ）,"(Hmm, it seems Amana doesn't get that well.)"
+0000000000000,プロデューサー,（うーん、甘奈はこういう考え方はしないようだ）,"(Hmm, seems like she didn't get that well.)"
 info,produce_communication_cheers/401400100012.json,
 译者,,

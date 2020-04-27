@@ -1,9 +1,10 @@
 id,name,text,trans
 0000000000000,プロデューサー,──円香、おはよう！,"──Good morning, Madoka!"
-1021001030010,円香,………………はぁ,...Ugh.
+1021001030010,円香,………………はぁ,......Ugh.
 0000000000000,プロデューサー,はは、そんなあからさまに\n嫌そうな顔をされると傷つくなぁ,"Haha, that look of obvious disgust on your face kind of hurts, you know."
-1021001030020,円香,笑いながら言うセリフですか？\nみんながあなたみたいに能天気なら世界も平和でしょうね,"Are you sure you should be laughing while saying that? 
-If everyone was as care-free as you are, the world would sure be a peaceful place."
+1021001030020,円香,笑いながら言うセリフですか？\nみんながあなたみたいに能天気なら世界も平和でしょうね,"Are you sure you should be laughing while saying
+that? If everyone was as care-free as you are, the
+world would sure be a peaceful place."
 0000000000000,プロデューサー,ん、平和のためなら仕方ない……！\nこれからも能天気に頑張るよ,"Hm, if that's what it takes to achieve world peace... 
 I'll do my best to stay that way!"
 1021001030030,円香,……,......
@@ -17,9 +18,8 @@ Are you... Madoka... Higuchi?"
 1021001030050,円香,……はい、そうですが,"...Yes, that would be me."
 0000000000000,女子高生,わあっ……！\n実は、この間ライブを見まして……！,"Oooh... 
 Actually, I was at your show the other day...!"
-0000000000000,女子高生,えっと、ファンに……なりました！\n握手してくれませんか！　よかったら写真も──！,"And I... I became a fan of yours! 
-Can I shake your hand? And a picture, if that's alright──!"
-1021001030060,円香,あ、ええと…………,"Ah, err..."
+0000000000000,女子高生,えっと、ファンに……なりました！\n握手してくれませんか！　よかったら写真も──！,"And I... I became a fan of yours! Can I shake your hand? And a picture, if that's alright──!"
+1021001030060,円香,あ、ええと…………,"Ah, err......"
 0000000000000,プロデューサー,……ん、問題はないよ。円香の思うように,"...Hm? It's okay, Madoka. You can answer however you like."
 1021001030070,円香,……,......
 1021001030080,円香,……ええ、もちろん\n応援ありがとうございます,"...Yes, of course. 
@@ -33,13 +33,14 @@ Yes, she did."
 0000000000000,プロデューサー,…………あんまり嬉しくないか,...You don't seem too happy.
 1021001030100,円香,──疑問が先立って,──I'm more confused than anything else.
 1021001030110,円香,私に何を期待しているんだろうと,Just what is she expecting from me?
-1021001030120,円香,まあ、わからなくても対応しますよ\nアイドルには必要なことみたいですから,"Oh well, I don't have to understand her to engage with her. 
-That seems to be a necessary part of being an idol."
+1021001030120,円香,まあ、わからなくても対応しますよ\nアイドルには必要なことみたいですから,"Oh well, I don't have to understand her to engage
+with her. That seems to be a necessary part of being an idol."
 0000000000000,プロデューサー,……あのさ、円香──,"...Hey, Madoka──"
 select,,無理はするなよ,"Don't push yourself
-too hard"
+too hard."
 select,,やってみたいことは？,"Is there something
-you want to do in life?"
+you want to do
+in life?"
 select,,夢はないのか？,"Don't you have 
 any dreams?"
 1021001030130,円香,その言葉は無理をしそうな人にかけるべきです,You should tell that to someone who looks like they will.
@@ -51,7 +52,7 @@ You're working hard as an idol, aren't you?"
 1021001030160,円香,はい、そうですね,"Yes, that's right."
 0000000000000,プロデューサー,……！　ああ、だから力になりたいんだ,"...! Yeah, and that's why I want to be of help to you!"
 1021001030170,円香,はい、そうですね,"Yes, that's right."
-0000000000000,プロデューサー,う……『雰囲気』なんて言われないように……\nちゃんと行動で伝えられるようにするよ,"Ugh...I'll try to get that across to you with my actions so you won't have to accuse me of ""vapid chit-chat"" again."
+0000000000000,プロデューサー,う……『雰囲気』なんて言われないように……\nちゃんと行動で伝えられるようにするよ,"Ugh... I'll try to get that across to you with my actions so you won't have to accuse me of ""vapid chit-chat"" again."
 1021001030180,円香,はい、そうですね,"Yes, that's right."
 1021001030190,円香,…………,......
 0000000000000,プロデューサー,（その後──円香は事務所についてすぐに姿を消した）,(Madoka disappeared immediately after we arrived at the office.)
@@ -65,8 +66,7 @@ Just betting on the possibility that there might be..."
 1021001030230,円香,あなたと事務所が悪さをしないか見張ること,Keeping an eye on you and your office to make sure you don't pull any tricks.
 0000000000000,プロデューサー,…………\nそ、そうか……はは……,".....
 I-I see... haha..."
-0000000000000,プロデューサー,まだ信用してもらえないか……\n俺の頑張りが足りないってことだな、ごめん,"So you still don't trust me...
-I suppose that means my efforts have been inadequate. I'm sorry."
+0000000000000,プロデューサー,まだ信用してもらえないか……\n俺の頑張りが足りないってことだな、ごめん,So you still don't trust me... I suppose that means my efforts have been inadequate. I'm sorry.
 1021001030240,円香,…………そういうところが癇にさわる,...That's the part of you that gets on my nerves.
 0000000000000,プロデューサー,あ、はづきさん。円香を見かけませんでした？\nさっき一緒に来て……,"Ah, Hazuki. Have you seen Madoka?
 She was with me when I came here..."
@@ -83,8 +83,8 @@ If you come up with something──"
 1021001030290,円香,──ありがとうございます、はづきさん,"──Thank you, Hazuki."
 0000000000000,プロデューサー,お、もう帰るのか？,"Oh, you're headed home already?"
 1021001030300,円香,はい。……ああ、そうだ,Yes. ...And by the way...
-1021001030310,円香,あなたの話し相手になる場合、\n次からは特別手当をいただきますので,"Next time you want me to engage in small talk with you, 
-I'll be expecting financial compensation."
+1021001030310,円香,あなたの話し相手になる場合、\n次からは特別手当をいただきますので,"Next time you want me to engage in small talk with
+you, I'll be expecting financial compensation."
 0000000000000,プロデューサー,そ、そうか……,I... I see...
 0000000000000,プロデューサー,（……あれ、今日はなんの予定もなかったはずだけど）,"(...Huh, I was sure there were no lessons scheduled today.)"
 0000000000000,プロデューサー,（レッスン室の鍵が無いな、貸出中か──）,"(The key to the lesson room is gone, did someone borrow it?)"
