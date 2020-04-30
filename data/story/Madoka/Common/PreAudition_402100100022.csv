@@ -2,7 +2,8 @@ id,name,text,trans
 4021001000220010,円香,"審査員は、具体的に
 どんな部分を見ているんですか",What are the judges generally looking for?
 0000000000000,プロデューサー,（なんて答えようか……？）,(What should I say...?)
-select,,視線や指先,Your gaze and fingers
+select,,視線や指先,"Your gaze 
+and fingers"
 select,,オーラ,Your aura
 select,,センス,Your taste
 4021001000220020,円香,"ふうん……わかりました
@@ -12,7 +13,7 @@ select,,センス,Your taste
 ……ま、言葉にできない部分を見ているということですか？",That's pretty abstract. ...So they are looking for something you can't put into words?
 0000000000000,プロデューサー,（なんとなく伝わったかな……？）,(I think she got it...?)
 4021001000220040,円香,"だからそれを噛み砕いてもらいたいんですが
-……もういいです",I wanted you to explain it. ...Forget it.
+……もういいです",I wanted you to break down what that is. ...Forget it.
 0000000000000,プロデューサー,（うまく伝えられなかった……）,(It didn't get across well...)
 info,produce_communication_cheers/402100100022.json,
 译者,,

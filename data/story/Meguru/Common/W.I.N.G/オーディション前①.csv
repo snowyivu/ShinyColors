@@ -1,0 +1,28 @@
+id,name,text,trans
+4003001000110010,めぐる,"そ、そろそろ時間だねっ！
+よーしっ、い、行ってくるよー！","I-It's about time!
+A-Alright, I'll be going!"
+0000000000000,プロデューサー,"（明るく振る舞っているが、
+少し緊張してるみたいだな……）","(Meguru's trying to stay cheerful,
+Though she seems a little nervous...)"
+select,,考えすぎるな,Don't overthink it.
+select,,落ち着いていこう,Let's calm down.
+select,,楽しんでこい！,Have fun!
+4003001000110020,めぐる,"……それでいいのかな？
+でも、プロデューサーが言うなら、そうしてみるね！","...Would that be okay?
+But, if you say so, I'll do that!"
+0000000000000,プロデューサー,"（戸惑ってはいるけど、
+少しは緊張がほぐれたみたいだ）","(I might've made her confused,
+But at least it eased her tension a bit.)"
+4003001000110030,めぐる,"そ、そうだね！　落ち着いて……
+あれ？　どうすれば落ち着けるのかな……","R-Right! Calm down...
+Uh? How can I calm down...?"
+0000000000000,プロデューサー,"（そわそわしている……
+うまく励ませなかったようだ）","(Now she's fidgeting...
+I guess I didn't encourage her well enough.)"
+4003001000110040,めぐる,"……そっか！　そうだよね！
+楽しまないと損だよね！　よーしっ！","...Right! Got it!
+It'd be a loss if I didn't have fun! Okaaay!"
+0000000000000,プロデューサー,（いつもの調子を取り戻したみたいだ）,(Now she's back to normal.)
+info,produce_communication_cheers/400300100011.json,
+译者,,

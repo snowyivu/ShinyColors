@@ -3,7 +3,7 @@ id,name,text,trans
 1021001000910020,円香,"この間、浅倉からあなたの写真が
 送られてきたんですが","The other day, Asakura sent me a photo."
 1021001000910030,円香,──なんですかこれ。どういうつもり？,"What's this all about, care to explain?"
-0000000000000,プロデューサー,ど、どういうつもりと言われても……,E-Even if I said I didn't know...
+0000000000000,プロデューサー,ど、どういうつもりと言われても……,W-what am I supposed to explain?
 select,,もうしないよ,"It won't
 happen again"
 select,,ピースしただけだ,Just a peace sign
@@ -15,12 +15,12 @@ to take a photo"
 Mr. ""Impurities""."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1021001000910060,円香,"はあ、そうですね
-浅倉とツーショットでピース？","Huh, fine then.
+浅倉とツーショットでピース？","Yes, I can see that.
 A peace sign selfie with her?"
 1021001000910070,円香,どうでもいいけど、二度としないで,"I don't care, just don't do it again."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1021001000910080,円香,は？,Haa?
-1021001000910090,円香,浅倉のせいにするの？　は？,You think you're gonna blame her for this? Haa?
+1021001000910080,円香,は？,Huh?
+1021001000910090,円香,浅倉のせいにするの？　は？,You think you're gonna blame her for this? Huh?
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102100100091.json,
 译者,,

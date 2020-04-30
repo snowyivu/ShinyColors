@@ -4,7 +4,7 @@ id,name,text,trans
 1021001000810010,円香,……スマホの充電が切れたので,...My smartphone battery is empty.
 0000000000000,プロデューサー,"ああ、それならコンセントを使えばいいよ
 充電コードは？",You can use the outlet. Where is your charger?
-1021001000810020,円香,……あったらとっくにしています,"If it was there, then I would've done it a long ago."
+1021001000810020,円香,……あったらとっくにしています,"If it was there, then I would've done it a long time ago."
 select,,貸してあげるよ,"I'll give
 you one"
 select,,無くしたのか？,"Did you lose
@@ -12,16 +12,16 @@ the charger?"
 select,,忘れ物とは珍しいな,"It's rare for
 you to lose
 something"
-1021001000810030,円香,いえ、あなたに貸しは作りたくないので……,"No, I'm not letting you lend me one..."
-1021001000810040,円香,………………少しだけ借ります,...I'll just borrow it.
+1021001000810030,円香,いえ、あなたに貸しは作りたくないので……,"No, I don't want to owe you anything..."
+1021001000810040,円香,………………少しだけ借ります,"...I'll borrow it, but just for a minute."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1021001000810050,円香,家に忘れただけだと思います,I think I just left it at home.
 1021001000810060,円香,"あ、もしかして透の家……？
 それかレッスン室とか……","Ah, it might be at Toru's house?
 Or at a lesson room, or something..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1021001000810070,円香,別にいいでしょ,It doesn't matter now.
-1021001000810080,円香,ほっといてください,Please leave me alone.
+1021001000810070,円香,別にいいでしょ,It's not like it's illegal.
+1021001000810080,円香,ほっといてください,And it's none of your business.
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102100100081.json,
 译者,,
