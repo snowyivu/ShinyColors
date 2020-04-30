@@ -1,0 +1,84 @@
+id,name,text,trans
+0,コンビニ店員,"17円のお返しです
+ありがとうございましたー",Your change is 17 yen. Thank you and have a nice day!
+3021002010010,透,はーい,You too.
+0,コンビニ店員,次の方どうぞー,"Next in line, please."
+3021002010020,透,……樋口,...Higuchi.
+3021002010030,円香,ん,Hm?
+3021002010040,透,あれ、さっきからいた？,"Wait, were you there the whole time?"
+3021002010050,円香,いた,Yeah.
+3021002010060,透,え、呼んでた？,"Huh, did you say anything?"
+3021002010070,円香,ううん,Nah.
+3021002010080,円香,入った時から、いるのは気付いてたけど,But I noticed you when I came in.
+3021002010090,透,そっか,Is that so.
+0,コンビニ店員,……238円、１点。157円、１点,"...one item for 238 yen, one for 157 yen."
+3021002010100,円香,あ……あと、カフェラテのMで,"Oh, and a cafe latte, medium please."
+0,コンビニ店員,"カフェラテMですねー……
+──合計３点、545円になります","One medium-size cafe latte…
+──Your total comes to 545 yen."
+3021002010110,円香,"ICカードでお願いします
+……じゃ、お疲れ","I'll pay by IC card.
+...See you."
+3021002010120,透,んー,Mm.
+0,コンビニ店員,ありがとうございましたー,"Thank you, have a nice day."
+3021002010130,円香,……あれ,...eh?
+3021002010140,透,ん？,Mm?
+3021002010150,円香,……待っててくれたの？,...Were you waiting for me?
+3021002010160,透,あー……コーヒー飲んでた,Yeah... drinking my coffee.
+3021002010170,円香,……じゃ、帰ろうか,...Let's go then.
+3021002010180,透,うん,Right.
+3021002010190,透,……,...
+3021002010200,円香,……,...
+3021002010210,透,……おはよ,...Morning.
+3021002010220,円香,は？,Huh?
+3021002010230,円香,何、急に。夜だけど,What's got into you? It's night.
+3021002010240,透,夜でもおはようなんだって,"Even when it's night, it's ""good morning"", they said."
+3021002010250,透,業界だと,In the industry.
+3021002010260,円香,え？　あー……,"Huh? Oh, right..."
+3021002010270,円香,"働き方が色々だから、
+時間帯問わずでおはよう……なんだっけ","Everyone's working hours are different, so greet them with ""good morning"" no matter what time it is... or something like that?"
+3021002010280,透,"ふふっ
+らしいよ","Heheh.
+Something like that."
+3021002010290,透,だから、おはよ,"So, morning."
+3021002010300,円香,私、芸能人じゃないし,I'm not in showbiz though.
+3021002010310,透,そうなの？,You're not?
+3021002010320,円香,そっちはどうなの？,What about you?
+3021002010330,透,んー……,Mm...
+3021002010340,透,どうだろ？,I wonder?
+3021002010350,円香,ほら,See.
+3021002010360,透,まあ、そうなんだって,"Anyway, that's what they said."
+3021002010370,円香,ふうん……,Hmm...
+3021002010380,円香,……,...
+3021002010390,円香,もう、色々やってるんだ,"You've been doing all sorts of stuff, huh?"
+3021002010400,透,"え、うん
+テレビ局行ったよ、挨拶","Eh? Yeah.
+I went to a TV station, met people."
+3021002010410,円香,ふうん……,Hmm...
+3021002010420,透,そっちは？,You?
+3021002010430,円香,宣材写真、撮った,Took some promo pictures.
+3021002010440,透,あー、撮った撮った,"Aah, I've been there."
+3021002010450,透,見せてよ、樋口の,"Show me yours, Higuchi."
+3021002010460,円香,嫌,Don't wanna.
+3021002010470,透,えー,Eh?
+3021002010480,円香,なんか嫌。勘違いしてるみたいで,I just don't like them. Make me look like I'm putting on airs.
+3021002010490,透,そうなんだ？,Is that so?
+3021002010500,円香,…………,...
+3021002010510,円香,"っていうかさ、
+浅倉は、なんで──……","Seriously though, Asakura, why did you──…"
+3021002010520,透,……？,...?
+3021002010530,円香,…………,......
+3021002010540,円香,……コンビニにいたの？,...Go to the convenience store?
+3021002010550,透,え……なんとなく,Uh... sort of felt like...
+3021002010560,透,コーヒー買うため？,"Buying a coffee, I guess?"
+3021002010570,円香,ま、そうだよね,Figured as much.
+3021002010580,透,うん,Yeah.
+3021002010590,透,えっ、何,"Um, why?"
+3021002010600,円香,ううん、別に,"Nah, just asking."
+3021002010610,透,──じゃ、家入るから,"──Alright, I'm heading in."
+3021002010620,円香,ん、お疲れ,"Right, good night."
+3021002010630,透,お疲れ,Night.
+3021002010640,透,おはようございました,Was a good morning.
+3021002010650,円香,ふっ……それ、絶対違うでしょ,Heh... I'm pretty sure they don't say that.
+info,produce_events/302100201.json,
+译者,,

@@ -2,15 +2,15 @@ id,name,text,trans
 4021001000120010,円香,……ふぅ,...Phew.
 0000000000000,プロデューサー,（緊張しているのかな？　何かできることは……）,(Is she nervous? What can I do...)
 select,,そっとしておく,Leave her alone
-select,,応援する,Support her
+select,,応援する,Cheer her on
 select,,飴をあげる,Give hard candy
 4021001000120020,円香,…………,......
-0000000000000,プロデューサー,（手を出すことだけがサポートじゃないよな……頑張れ）,(Support isn't always about stepping in... Do your best)
+0000000000000,プロデューサー,（手を出すことだけがサポートじゃないよな……頑張れ）,(Support isn't always about stepping in... Do your best!)
 4021001000120030,円香,"……あなたが喋るほどパフォーマンスが落ちますが、
 それでもよければ続けてください","...The more you talk the worse the performance gets, but if you're fine with that then keep talking."
 0000000000000,プロデューサー,（す、すまん…………）,(S-Sorry...)
 4021001000120040,円香,"……は？　飴を転がしながら、
-ステージに立てと言いたいんですか？",...Haa? I should stand on stage with candy?
+ステージに立てと言いたいんですか？",...Huh? I should stand on stage with candy?
 0000000000000,プロデューサー,（そ、そういうつもりじゃ……）,(T-That's not what I meant...)
 info,produce_communication_cheers/402100100012.json,
 译者,,

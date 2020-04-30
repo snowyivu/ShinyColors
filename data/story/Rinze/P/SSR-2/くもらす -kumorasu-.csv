@@ -1,9 +1,9 @@
 id,name,text,trans
 2012008020010,凛世,"水槽は……大きく……
 館内は……薄蒼く……","The aquarium is huge.
-Inside of it houses a light shade of blue."
-0000000000000,プロデューサー,アクアリウム？,Aquarium?
-2012008020020,凛世,……はい,Yes.
+Housed inside is a light shade of blue."
+0000000000000,プロデューサー,アクアリウム？,The aquarium?
+2012008020020,凛世,……はい,... Yes.
 2012008020030,凛世,"お付き合い……
 いただけないでしょうか……","Would you mind
 accompanying me there?"
@@ -15,7 +15,7 @@ never ever melt."
 Yeah, it won't be long before the day of that on-location shoot."
 2012008020050,凛世,凛世は……この日を…………,I have been waiting for this day to come.
 0000000000000,プロデューサー,"俺はかまわないぞ、凛世
-お互いオフでいいなら……土曜か？","I don't mind going, Rinze. If it's alright we have it on a day when we're both free, how about this Saturday?"
+お互いオフでいいなら……土曜か？","I don't mind going, Rinze. If it's alright, we'll go on a day when we're both free; how about this Saturday?"
 2012008020060,凛世,はい……！,Yes.
 2012008020070,凛世,"どうぞ……お付き合いくださいませ……
 プロデューサーさま……","Please do accompany me on that day,
@@ -28,19 +28,19 @@ Producer-sama."
 2012008020100,凛世,お召し物が……,Your clothes.
 0000000000000,プロデューサー,"えっ……なんか変かな
 今日はネクタイってのもおかしいかなって……","Huh? Is this a bit strange?
-I was wondering if wearing a necktie for today is okay or not."
+I was wondering if wearing a necktie for today would be okay or not."
 2012008020110,凛世,"いえ……
 凛世の知らない……お姿でしたので……","No. It just so happens
 that I do not see you much like that."
 0000000000000,プロデューサー,"そ、そうか？
 なんかそう言われると恥ずかしいな……","R-Really?
-It kinda makes me feel embarassed being told like that."
+It kinda makes me feel embarassed being told that."
 0000000000000,プロデューサー,"凛世もその服、
-初めて見る気がするけど","Rinze, I feel like this is the
-first time I saw you like that."
+初めて見る気がするけど","Rinze, I think this is the
+first time I've seen you in that."
 2012008020120,凛世,"……はい
-新しく……調えました……","Yes.
-I had a new one ready."
+新しく……調えました……","... Yes.
+It is new... I've just gotten it."
 0000000000000,プロデューサー,"へぇ、うん
 よく似合ってるぞ、凛世","I see.
 It really looks good on you."
@@ -56,31 +56,30 @@ Let me see the guide map."
 ウミガメが……お好きなのですか……","Fufu.
 Do you like sea turtles?"
 0000000000000,プロデューサー,"あ、いや……
-すまん、俺がはしゃいで","Ah, not really.
+すまん、俺がはしゃいで","Ah, not really...
 Sorry for getting a little too excited."
 0000000000000,プロデューサー,"なんか、大きいカメって言葉が通じそうでさ
-そんな感じしないか？","Doesn't those words kinda say
-that it's going to be a huge turtle?"
+そんな感じしないか？",Doesn't this say that sea turtles can communicate their feelings?
 2012008020160,凛世,……？,……?
-0000000000000,プロデューサー,……しないよな,"It doesnt, right."
+0000000000000,プロデューサー,……しないよな,"It doesnt, does it."
 2012008020170,凛世,"いえ……
 ウミガメは……涙を流すといいますから……","No, sea turtles
-are said to shed tears."
+are said to shed tears..."
 2012008020180,凛世,"会ったら……
 話を……してみましょう……","If we do see one,
 let's talk about it then."
 0000000000000,プロデューサー,そうか！　ははっ、おう,"I see! Haha, sure."
 0000000000000,プロデューサー,"なんというか……
 たまにはいいもんだなぁ……こういうところも","How should I say this...
-It's nice to be at a place like this from time to time."
+It's nice to go to a place like this from time to time."
 2012008020190,凛世,"ふふ……
 心惹かれるものが……たくさんございます……","Fufu.
-There are so many things that could get one fascinated,"
+There are so many fascinating things."
 0000000000000,プロデューサー,"もしかしてジェラートが気になってるのか？
 今日はプライベートなんだし、遠慮しなくてもいいんだぞ","Say, aren't you curious about the gelato? Since we're here today on a personal matter, you don't have to be so reserved."
 2012008020200,凛世,"い、いえ…………！
-…………はい……","I-I am not doing such a thing.
-...Yes, I am curious about it."
+…………はい……","I-I am not doing such a thing...
+...Yes, I am curious..."
 0000000000000,プロデューサー,"はは、うん。ジェラートを買ってこよう
 その分、撮影は頑張っ──","Haha, you got it. I'll go buy us some gelato.
 In return, be sure that during the shoot──"
@@ -97,17 +96,17 @@ mind me at all."
 forward to this day."
 2012008020250,凛世,"水槽は……大きく……
 館内は……薄蒼く……","The aquarium is huge.
-Inside of it houses a light shade of blue."
+Housed inside is a light shade of blue."
 2012008020260,凛世,プロデューサーさま……,Producer-sama...
 0000000000000,プロデューサー,"『悪い……凛世……
 どうしても、行かなきゃいけなくなった』","""I hate to do this, Rinze, but,
-I really have to go no matter what."""
+I really have to go; it's urgent."""
 2012008020270,凛世,"ジェラートは……
 いつまでも……溶けない……","The gelato will
 never ever melt."
 0000000000000,プロデューサー,"『本当にすまない……
-すぐには戻って来れなさそうで……』","""I'm really sorry. And
-I don't think I would get back right away."""
+すぐには戻って来れなさそうで……』","""I'm really sorry... 
+I don't think I will get back right away."""
 0000000000000,プロデューサー,『今日はやめておくか？』,"""Is it alright if we call it a day now?"""
 2012008020280,凛世,"『いえ……凛世の勝手に……
 お付き合いいただいて……申し訳ございません……』","""Please do not be sorry. This was all because of my selfishness. I am the one who should be apologizing for making you accompany me here."""
@@ -123,20 +122,19 @@ select,,カメには会えたか,Have you seen the turtles?
 select,,問題ないか,Any problems so far?
 2012008020320,凛世,プロデューサーさま……,Producer-sama...
 0000000000000,プロデューサー,"『凛世もその服、
-初めて見る気がするけど』","""Rinze, I feel like this is
-the first time I saw you like that."""
+初めて見る気がするけど』","""Rinze, I think this is the
+first time I've seen you in that."""
 2012008020330,凛世,ふふ……,Fufu.
 2012008020340,凛世,"凛世の召物を……
 見ていて……くださって……","You were
 looking at me..."
 2012008020350,凛世,（『すまん』……だなどと……）,"(Saying something like ""I'm sorry""...)"
 2012008020360,凛世,"入口までで……
-凛世は……胸がいっぱいでございました……","Un until the entrace,
-I was overwhelmed with emotions."
+凛世は……胸がいっぱいでございました……","Until we reached the entrace,
+I was overwhelmed with emotions..."
 2012008020370,凛世,プロデューサーさま……,Producer-sama...
 0000000000000,プロデューサー,"『なんか、大きいカメって言葉が通じそうでさ
-そんな感じしないか？』","""Doesn't those words kinda say
-that it's going to be a huge turtle?"""
+そんな感じしないか？』","""Doesn't this say that sea turtles can communicate their feelings?"""
 2012008020380,凛世,"はい……プロデューサーさま……
 凛世が……会って参ります……","Yes, Producer-sama.
 I have seen them."

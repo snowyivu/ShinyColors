@@ -8,15 +8,16 @@ select,,……うがい？,...Gargling?
 select,,……手洗い？,...Wash my hands?
 select,,……除菌？,...Disinfection?
 1021001001310030,円香,"そうですね。あなたからもらう風邪とか、
-発熱よりも絶望の方で寝込みます",Right. Getting a cold from you would be worse than being stuck in bed with a fever.
-1021001001310040,円香,いますぐ息を止めて、回れ右,Hold your breath right now.
+発熱よりも絶望の方で寝込みます","Right. If I were to get a cold from you, sheer despair would knock me out before the fever could."
+1021001001310040,円香,いますぐ息を止めて、回れ右,Now hold your breath and turn around.
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1021001001310050,円香,はい、満点の答えです,"Yes, a top grade answer."
 1021001001310060,円香,"赤ちゃん基準の採点ですが
-さすがでちゅね","That'd be a normal grade for a baby, but you are clever."
+さすがでちゅね","On a scale of 0 to baby level, that is. 
+Aren't you a clever boy."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1021001001310070,円香,わかっているなら早くして,If you get it then do so quickly.
-1021001001310080,円香,ああ、消滅しないように気をつけてくださいね,"Ah, be careful you aren't completely wiped out."
+1021001001310070,円香,わかっているなら早くして,If you get it then what are you waiting for?
+1021001001310080,円香,ああ、消滅しないように気をつけてくださいね,"Ah, be careful the disinfectant doesn't wipe you out completely."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102100100131.json,
 译者,,
