@@ -8,9 +8,9 @@ Which one do you like, pineapple or cherry?"
 If you win, it'll be pineapple, if you lose, it'll be cherry!"
 1021001001210020,円香,は？,Huh?
 0000000000000,プロデューサー,いくぞ、じゃーんけん──,Go! Rock-Paper──
-select,,ぐー,Rock
-select,,ちょき,Scissors
-select,,ぱー,Paper
+select,,ぐー,Rock.
+select,,ちょき,Scissors.
+select,,ぱー,Paper.
 1021001001210030,円香,──私の勝ちですね,──I won.
 1021001001210040,円香,……チェリーで,...I'll have the cherry.
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
