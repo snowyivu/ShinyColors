@@ -1,9 +1,9 @@
 id,name,text,trans
 4021001000110010,円香,何か飲み物をもらえませんか,Can you bring me something to drink?
 0000000000000,プロデューサー,（用意したのは……）,(I have something ready...)
-select,,ミネラルウォーター,Mineral Water
-select,,ジュース,Juice
-select,,ウーロン茶,Oolong Tea
+select,,ミネラルウォーター,Mineral Water.
+select,,ジュース,Juice.
+select,,ウーロン茶,Oolong Tea.
 4021001000110020,円香,ありがとうございます,Thank you very much.
 0000000000000,プロデューサー,（ああ、歌う前には喉を潤すことが大切だ……！）,(It's important to get your throat wet before singing...!)
 4021001000110030,円香,……それなら結構です,...No thanks.
