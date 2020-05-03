@@ -1,0 +1,100 @@
+id,name,text,trans
+0000000000000,プロデューサー,（そろそろ約束の時間だな）,(It's almost the time we agreed on...)
+1016001020010,千雪,"はあっ……はあっ……
+プロデューサーさん、お待たせしました～！","Haa... haa... Sorry for the wait, Producer!"
+1016001020020,千雪,"すみません
+雑貨屋のお仕事が、少し長引いてしまって……",I'm really sorry! Work at the general store dragged on for longer than expected...
+0000000000000,プロデューサー,"大丈夫、時間通りだよ
+お疲れさま",It's alright. You're just in time. Good work today.
+0000000000000,プロデューサー,"それじゃあ、今からはこっちに集中してくれ
+ごめんな……休憩もあんまりないままで","Well then, from here on I'll need you to focus. Sorry... We don't have time to take a break as it is right now."
+1016001020030,千雪,"いいえ、頑張りますね～！
+今日のお仕事は、挨拶まわり……ですよね？","I understand. I'll do my best! Today's work is... making courtesy calls, right?"
+0000000000000,プロデューサー,ああ、そうなんだ,"Yeah, that's right."
+0000000000000,プロデューサー,"うちの事務所が関わってるイベントがあるから、
+そこへ行って主催者に挨拶をしよう","There's an event that our office is involved with, so I'd like for us to go there and give our greetings to the event's sponsor."
+1016001020040,千雪,"はい
+……私にちゃんとできるでしょうか",Okay! ...I wonder if I can do it properly?
+0000000000000,プロデューサー,大丈夫、千雪にならできるさ,"If it's you, it'll be alright."
+0000000000000,プロデューサー,"あまり難しく考えずに
+イベントの雰囲気を楽しんでもらいたいなって思ってる","I was thinking that I'd like you to enjoy the event's atmosphere too, to help you think about difficult thoughts less."
+0000000000000,プロデューサー,"（アイドルのことをよく知らない千雪には、
+ステージを見てもらうのが一番だしな）","(Chiyuki doesn't know much about being an idol, so the best thing to do is to show her the stage.)"
+1016001020050,千雪,わ、わかりました,U-Understood.
+1016001020060,千雪,"桑山千雪といいます、新人のアイドルです
+どうぞよろしくお願いします","My name is Kuwayama Chiyuki, a newcomer idol. It's nice to meet you."
+0000000000000,イベント主催者,"おお～っそのスマイル、いいねぇ！　グッドグッド～！
+イベント、楽しんでいっちゃって～！","Ooh, that's a nice smile! Good, good! Enjoy the event!"
+1016001020070,千雪,"は、はい
+ありがとうございます～",I-I will! Thank you very much!
+0000000000000,プロデューサー,"（千雪にはやっぱり、何かがあるんだよな
+緊張はしてるけど、ちゃんと笑顔で挨拶できてる）","(I knew it. There's really something about Chiyuki. Even though she was nervous, she was still able to properly give her greetings with a smile.)"
+0000000000000,プロデューサー,"千雪、お疲れさま
+よく挨拶できてたよ","Chiyuki, good work today. You did your greetings nicely!"
+1016001020080,千雪,"ありがとうございます
+そう言ってもらえると安心します",Thank you! Hearing you say that gives me relief.
+1016001020090,千雪,"なんだか、少し恥ずかしいですけど……
+褒めていただいて、嬉しいな……",It was a little embarrassing but... being praised like this makes me happy.
+0000000000000,プロデューサー,"千雪の笑顔を気に入ってくれたんだ
+よし、ステージを見に行こうか","I was really pleased with your smile today. All right, let's go and look at the stage."
+1016001020100,千雪,……わぁ,...Wow
+0000000000000,プロデューサー,"どうだ？
+アイドルイベントは初めてだよな","How is it? This is your first idol event, isn't it?"
+1016001020110,千雪,"想像以上でした……
+アイドルの頑張る姿って、あんなに魅力的なんですね",It's more than what I imagined... So this is how charming an idol who's giving their all is...
+0000000000000,プロデューサー,千雪も、アイドルだぞ,"Chiyuki, you're also an idol you know."
+1016001020120,千雪,……そう、言えるかどうか,"...Yeah, although I'm not sure if I can say that or not."
+1016001020130,千雪,"さっきのステージ、
+観客の方もスタッフさんたちも、みんな楽しそうで……","Back at the stage, the audience and staff... Everyone looked like they were having fun."
+1016001020140,千雪,"私も、あんな風にたくさんの人を
+笑顔にできるのかなって……ちょっと不安です",Thinking about whether I could make a lot of people smile just like that... it makes me a bit nervous.
+0000000000000,プロデューサー,俺は、できるって思ってるよ,I believe you can do it.
+1016001020150,千雪,……プロデューサーさん,...Producer.
+1016001020160,千雪,"ふふ、はい……
+じゃあ、もっとアイドル活動に時間をかけなきゃです","Fufu, I understand. In that case, I need to dedicate more time to doing idol activities."
+0000000000000,プロデューサー,（よかった……いい刺激に、なったのかな）,(Good... I wonder if that was good motivation for her.)
+0000000000000,プロデューサー,"それは嬉しいよ
+じゃあ、さしあたっては……","In that case, I'd be happy.  Well then, for the time being..."
+select,,"営業に
+力を入れてみよう",I'll try putting more effort into our operations.
+select,,仕事を丁寧にこなそう,Let's be thorough in handling our work.
+select,,レッスンが大事だ,Lessons are important.
+0000000000000,プロデューサー,営業に力を入れてみよう,I'll try putting more effort into our business dealings.
+0000000000000,プロデューサー,今日みたいに、挨拶回りをするのも手だな,"Just like today, give me a hand when giving courtesy calls."
+0000000000000,プロデューサー,"業界の人たちに知ってもらえれば、
+自然と仕事ももらえるようになる","If people in the industry get to know you more, work will naturally come after."
+1016001020170,千雪,"はい
+まずは顔と名前を覚えてもらうってことですね","Okay! First, we need to let them remember my face and name, right?"
+0000000000000,プロデューサー,"ああ、いろんな人に、
+千雪の笑顔を知ってほしいな","Aah, I hope a lot of people get to know your smile!"
+1016001020180,千雪,まあ、そんな……！,T-That kind of thing is...!
+1016001020190,千雪,"でも、笑顔を知ってもらうお仕事って考えると
+……とっても素敵ですね","But thinking about how work can make more people recognize my smile... it's lovely, isn't it?"
+0000000000000,プロデューサー,"ああ
+頑張っていこうな",Yeah. Let's work hard!
+0000000000000,プロデューサー,仕事を丁寧にこなしていこう,Let's be thorough in handling our work.
+0000000000000,プロデューサー,"きれいごとに聞こえるかもしれないけど、
+仕事に大きいも小さいもない","It might sound like empty words, but there's no work that's too big or too small."
+1016001020200,千雪,"そうですね……いただいたお仕事には
+きちんと向き合わなきゃ",I agree... We should treat the work given to us properly.
+1016001020210,千雪,"そんな風に言ってくださるプロデューサーさんで
+……よかったです",A producer that says these things just like that... It makes me glad.
+0000000000000,プロデューサー,"はは、千雪のいいところを
+みんなにちゃんと見てもらおうな","Haha. Let's show everyone your good points, okay?"
+1016001020220,千雪,はい……！,Okay!
+0000000000000,プロデューサー,レッスンが大事だと思う,Lessons are important.
+0000000000000,プロデューサー,基礎があれば、どんな仕事にも自信が持てるからな,"If you have the basics down, you'll have confidence in any work that you do."
+1016001020230,千雪,"そうですね。では早速……
+この後、お付き合いいただいてもかまいませんか？","That's right. Well then, without delay... After this, would it be alright for you to take me for some lessons?"
+0000000000000,プロデューサー,"お、いいぞ
+けど……レッスン室が取れてないな","Oh, that's good! But... we can't reserve a room for lessons anymore."
+1016001020240,千雪,"では……トレーニングです！
+プロデューサーさん、河原を走りましょう！","Well then, let's go train! Producer, let's run by the riverside!"
+1016001020250,プロデューサー,"よ、よし……
+とことん付き合うぞ！",A-All right... I'll see this through!
+0000000000000,プロデューサー,（千雪の笑顔には、ついその気にさせられるな……！）,"(With Chiyuki's smile, I won't mind something like this!)"
+0000000000000,プロデューサー,千雪のその笑顔、たくさんの人に届けような,Let's make your smile reach a lot of people!
+1016001020260,千雪,"は、はい……！
+頑張ります、プロデューサーさん！","O-Okay! I'll do my best, Producer!"
+info,produce_events/101600102.json,
+译者,,
