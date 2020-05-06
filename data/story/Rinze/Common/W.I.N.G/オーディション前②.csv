@@ -1,0 +1,27 @@
+id,name,text,trans
+4012001000120010,凛世,"そろそろ……
+凛世の出番でしょうか……",It is almost time... for Rinze's turn...
+0000000000000,プロデューサー,"（いつもよりも動きが硬いな……
+少し緊張をほぐそう……）",(She seems uncomfortable... Let's try to make her relax a bit...)
+select,,一緒に深呼吸しよう,"Let's take a 
+deep breath 
+together."
+select,,結果を気にするな,"Don't worry
+about the
+outcome."
+select,,"審査員をかぼちゃと
+思え！","Imagine the
+judge as a
+pumpkin!"
+4012001000120020,凛世,"ともに……深呼吸を……
+……はい、プロデューサーさま……！","Together... we'll take a deep breath...
+Yes, Producer-sama...!"
+0000000000000,プロデューサー,（少し、緊張がほぐれたみたいだな）,"(Alright, it looks like she relaxed a little.)"
+4012001000120030,凛世,"はい……プロデューサーさまが……
+そうおっしゃるのでしたら……","Yes... Producer-sama...
+If you say so..."
+0000000000000,プロデューサー,(余計に緊張させちゃったみたいだな……）,(I might have made her a bit more nervous...)
+4012001000120040,凛世,ふふ……はい……,Fufu... Okay...
+0000000000000,プロデューサー,（ちょっと普通すぎたかな？）,(Isn't her reaction a bit normal for what I said?)
+info,produce_communication_cheers/401200100012.json,
+译者,,

@@ -1,0 +1,103 @@
+id,name,text,trans
+0000000000000,プロデューサー,（お、ちょうどレッスンが終わったところか）,"(Oh, the lesson's just ending)"
+1001001040010,真乃,ほわぁぁ,Howaaa
+0000000000000,プロデューサー,"真乃、調子が悪いのか？
+ふらついてるぞ","Mano, are you feeling alright? You're shaking."
+1001001040020,真乃,"平気です
+ほわわわ……",I'm okay. Howawawa…
+0000000000000,プロデューサー,"やっぱり調子が悪いんじゃないか？
+今日のレッスンは終わりにしよう","You're really not feeling well, are you? Let's end the lessons here for today."
+1001001040030,真乃,"でも、次のオーディションも近いですし、
+レッスンしたいです","But, the next audition is coming up, I'd like to do lessons."
+1001001040040,真乃,"レッスンさせてください
+お願いします！","Let me do lessons, please!"
+0000000000000,プロデューサー,真乃、ずいぶん熱心だな,"Mano, you're very enthusiastic, eh?"
+1001001040050,真乃,"最近、応援してくれる人が増えたんです
+道を歩いてて声をかけられたりすることも","Recently, the amount of people supporting me has increased. People call out to me while I'm walking on the streets."
+1001001040060,真乃,"学校のみんなからも、
+『頑張って』って言われるようになりました","Everyone at school has started telling me ""Do your best"" too."
+0000000000000,プロデューサー,うん、真乃はアイドルとしてどんどん伸びてるからな,"Yep, it's because you're quickly growing as an idol."
+1001001040070,真乃,"みんなの応援に応えたいって、思うんです
+できるだけ大勢の人に喜んでもらいたいって",I'm thinking that I want to respond to everyone's support. I want to make as many people as possible happy.
+1001001040080,真乃,"今までの私は、自分がどこを歩いているのかも
+よくわかっていませんでした",Until now I wasn't really sure where I was heading towards.
+1001001040090,真乃,"今もまだ、どこへ向かえばいいのかよくわかりません
+でも、どこかへ飛んでいけそうなんです","Even now, I don't really know where I should be going. But, I feel like I can get somewhere."
+0000000000000,プロデューサー,真乃がそう感じてるのはいいことだけど……,"It's good that you feel that way, but…"
+1001001040100,真乃,"すごく……わくわくしているんです、私
+だから、やれることは全部やっておきたくて","I feel… really excited. So, I want to do everything I can."
+1001001040110,真乃,"プロデューサーさん、
+いつもみたいに背中を押してください！","Producer-san, please give me a push like you always do!"
+select,,"今日のレッスンは
+終わりだ","Today's lessons
+are over"
+select,,でも真乃が心配なんだよ,"But I'm worried 
+about you"
+select,,その意気だ、真乃！,"That's the 
+spirit, Mano!"
+1001001040120,真乃,そんな……どうしてですか？,But… why?
+0000000000000,プロデューサー,"真乃はみんなを癒してくれるアイドルだ
+そんな真乃自身が傷つくことは誰も望んでない",You're an idol who soothes others. Nobody wants you to hurt yourself.
+0000000000000,プロデューサー,"真乃を休ませることが、
+俺なりの背中の押し方なんだよ",Asking you to rest is my way of giving you a push.
+1001001040130,真乃,"ほわっ……
+そう、だったんですね",Ah… That's true.
+0000000000000,プロデューサー,"俺や学校の友達が一番望んでることが何か
+真乃ならわかるはずだよ？","You should know what your classmates and I want the most, yes?"
+1001001040140,真乃,"……みんな私を大切にしてくれてます
+その私が傷ついてちゃダメですよね？","…I'm important to everyone. That me can't get hurt, right?"
+1001001040150,真乃,"それに……傷ついた翼ではうまく飛べない
+灯織ちゃんやめぐるちゃんに迷惑はかけたくないです",Also… It's not possible to fly well with wings that are hurt. I don't want to cause trouble for Hiori-chan and Meguru-chan.
+0000000000000,プロデューサー,"うん、真乃はファンや仲間、友達のことを
+本当に想ってるんだね","Yep, you really are thinking of your friends, aren't you."
+1001001040160,真乃,"……はい
+みんな、とっても……とっても大切な人たちですっ",…Yes. Everyone is really… really important to me.
+1001001040170,真乃,今日は帰って休むことにしますね,I'll go home and rest for today.
+1001001040180,真乃,"プロデューサーさん、大切なことに気付かせてくれて
+……いつも、ありがとうございますっ！",Producer-san ...thank you for always making me realize important things!
+1001001040190,真乃,"心配してくれてありがとうございます
+プロデューサーさん","Thanks for worrying about me, Producer-san."
+1001001040200,真乃,"でも私は……もっと頑張って
+みんなの期待に応えたいって思うんです",But I feel like I want to… try harder and respond to everyone's expectations.
+0000000000000,プロデューサー,"期待か……
+みんなが真乃に望んでることってなんだろう？",Expectations… What do you think everyone wants from you?
+1001001040210,真乃,"みなさんが望んでいること……
+前にプロデューサーさんが教えてくれたのは……",What everyone wants… What you told me before was…
+1001001040220,真乃,"癒し……？
+私を見て癒されるって、教えてくれました","Soothing…?  What you told me is, being soothed by watching me."
+0000000000000,プロデューサー,"そうだよ
+思い出してくれたね",That's right. You remember.
+1001001040230,真乃,"ほわっ……それなら、
+みなさんに心配かけちゃいけません","Ah… In that case, I can't make everyone worried."
+1001001040240,真乃,"心配してたら、癒されないです……
+もっと安心してもらわないと",If they worry they won't be soothed… I need to reassure them more.
+1001001040250,真乃,お休みすることも大事ですね……,"Resting is important, isn't it…"
+1001001040260,真乃,"でも私だけお休みしていたら、
+灯織ちゃんやめぐるちゃんの足を引っ張ってしまうかも……","But if it's just me who rests, I might hold back Hiori-chan and Meguru-chan…"
+0000000000000,プロデューサー,"身体を休めてても、できることはあると思うよ
+レッスンしてるところ、ビデオに撮ってるんだよね？","I think there are things you can do even if you're resting your body. Your lessons are being recorded, right?"
+1001001040270,真乃,はい、後から見たらいいお勉強になるんですっ,"Yes, it's helpful to watch them afterwards."
+1001001040280,真乃,"……ほわっ、そっか
+お休みしている時はビデオで復習すればいいんですね","…Oh, I see. It'll be good to review the videos while I'm resting."
+1001001040290,真乃,"ありがとうございます、プロデューサーさん
+また助けてくれましたっ","Thank you, Producer-san. You've helped me again."
+1001001040300,真乃,はいっ、もっともっとレッスン頑張りますっ,"Okay, I'll keep trying hard with lessons!"
+0000000000000,プロデューサー,そうだ、倒れるまで頑張れ！,"Yes, keep trying until you collapse."
+1001001040310,真乃,はいっ、倒れるまで……,"Okay, until I collapse…"
+1001001040320,真乃,ほわぁ、倒れたら……ダメです……,"Ah, it's not okay… if I collapse…"
+1001001040330,真乃,"もしお仕事ができなかったら、
+応援してくれているみなさんを悲しませてしまいます……","If I couldn't do jobs, it'll make everyone who is supporting me sad…"
+1001001040340,真乃,"灯織ちゃんやめぐるちゃん、プロデューサーさんに
+迷惑をかけてしまうし……","I'll end up causing trouble for Hiori-chan, Meguru-chan, and Producer-san…"
+0000000000000,プロデューサー,"そうだね、よく気付いてくれた
+無茶をしすぎちゃいけないんだよ","That's right, it's good that you realized. You can't do it excessively."
+1001001040350,真乃,"プロデューサーさんの言う通り、レッスンはお休みしますね
+でも……",I'll take a break from lessons like you said. But…
+0000000000000,プロデューサー,"よし、今日は他の子のレッスンを見学しようか
+きっといろんな発見があるはずだよ","Alright, for today let's observe other people's lessons. You'll definitely learn some new things."
+1001001040360,真乃,"ほわ、そういう勉強の仕方もあるんですね
+じゃあ、今日は見学しますっ","Oh right, that's also a way to study. Then, today I'll observe!"
+1001001040370,真乃,"プロデューサーさんありがとうございます
+これからもよろしくお願いしますねっ","Producer-san, thank you. Please keep watching over me from now on!"
+info,produce_events/100100104.json,
+译者,,

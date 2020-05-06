@@ -1,0 +1,20 @@
+id,name,text,trans
+4012001000230010,凛世,"プロデューサーさま……
+もうすぐ、凛世の……出番でございますね……","Producer-sama...
+Soon, it will be Rinze's turn..."
+0000000000000,プロデューサー,（何か言って欲しそうだな……）,(Does she have something to say?)
+select,,信じてるぞ,I believe in you!
+select,,客席は味方だぞ,"The audience is
+on your side!"
+select,,悔いの残らないように,"Don't leave any
+regrets."
+4012001000230020,凛世,"はい……！
+この上なき……お言葉です……","Okay...!
+Those words... mean a lot..."
+0000000000000,プロデューサー,（よし！　気合は充分だな）,(Alright! That's excellent!)
+4012001000230030,凛世,はい……力が、入りすぎていたようです,Yes... I will not overextend myself...
+0000000000000,プロデューサー,(いい声かけができたみたいだ）,(It looks like that was a good thing to say.)
+4012001000230040,凛世,はい……凛世は、やり遂げてみせます,I won't... And I will do what I must.
+0000000000000,プロデューサー,(……余計に力が入ってしまったかな）,(... Maybe what I said was a bit too much.)
+info,produce_communication_cheers/401200100023.json,
+译者,,
