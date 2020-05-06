@@ -59,3 +59,9 @@ You can manually download or upload .csv files when viewing commus.  You will se
 After the game URL add #story=edit , otherwise leave #story=normal 。
 
 You can also directly click these links，[Story Edit Button](https://shinycolors.enza.fun/home#story=edit)  /  [No Story Edit](https://shinycolors.enza.fun/home#story=normal)
+
+**Download homescreen lines**
+
+Thanks to some new code from Meru, you can download homescreen lines for the idols.
+
+After the game URL add #myPage=single or #myPage=multiple to download a single csv or multiple member's homescreen lines at once.
