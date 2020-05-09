@@ -7,7 +7,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"千雪は本当にすごいな
 そういうの、全部自分でやっちゃうもんな","You really are amazing, Chiyuki. Just like that, you were about to finish everything yourself."
 1016001030030,千雪,"そんな……こっちは本業ですから
-それにこの髪飾り、お店の新作にもなるなって……♪","Please... This is my main job, after all. Besides, this hair ornament will be one of our shop's new products……♪"
+それにこの髪飾り、お店の新作にもなるなって……♪","Please... This is my main job, after all. Besides, this hair ornament will be one of our shop's new products…♪"
 0000000000000,プロデューサー,はは、本業、か……,"Haha, main job, huh..."
 1016001030040,千雪,"あ……ごめんなさい、プロデューサーさん
 そういうつもりじゃないんです、つい──","Ah... Sorry, Producer. I didn't mean it like that..."
@@ -60,7 +60,8 @@ id,name,text,trans
 次はレッスンだな","Alright! Since you've calmed down, let's go. Next up is your lesson."
 1016001030180,千雪,はい、頑張りま──,"Understood, I'll do my──"
 1016001030190,千雪,"……！
-……あ、あら……？",...! ...H-Huh...?
+……あ、あら……？","Ah...!
+...H-Huh...?"
 0000000000000,プロデューサー,"ど、どうした、千雪！？
 大丈夫か！？","W-What's the matter, Chiyuki!? Are you alright!?"
 1016001030200,千雪,す、すみません、ちょっとふらついちゃって……,"S-Sorry, I feel a bit dizzy..."
@@ -85,7 +86,7 @@ id,name,text,trans
 select,,ゆっくり休め,Take your time resting.
 select,,ゆっくり考えろ,Think about it carefully.
 select,,千雪に任せるよ,"I'll entrust it to you, Chiyuki."
-0000000000000,,★選択肢①【ゆっくり休め】,★Option 1【Take your time resting】
+0000000000000,,★選択肢①【ゆっくり休め】,★Option 1【Take your time resting.】
 0000000000000,プロデューサー,ゆっくり休め,Take your time resting.
 0000000000000,プロデューサー,まずは、何も考えずにゆっくり休んだ方がいい,"First of all, it's better if you take your time resting instead of thinking about things."
 1016001030270,千雪,"私……すごいご迷惑を……

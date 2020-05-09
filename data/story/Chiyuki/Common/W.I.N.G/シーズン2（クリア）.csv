@@ -1,0 +1,46 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おめでとう、千雪
+二次審査も通過したぞ！","Congratulations, Chiyuki. You passed the second round!"
+7016001030010,千雪,……そう、ですか,...I see.
+0000000000000,プロデューサー,……もしかして、嬉しくないのか？,...Are you not happy about it?
+7016001030020,千雪,"あっ……いえっ、そんなことありません！
+すごく、嬉しいです","Ah... No, that's not it!
+I'm really, really happy."
+7016001030030,千雪,"でも……もっとちゃんと
+自分のことを考えなくちゃと思ったんです",But... I need to think about myself as an idol more.
+7016001030040,千雪,"ここまで来させてもらえたのは、
+ご縁とか、運とか……",Have I been able to pass these last few rounds because of fate? ...Because of luck?
+7016001030050,千雪,"私を想ってくださる、
+いろんな方々の想いのおかげだなって思います","Thanks to the feelings of all these people, I've been able to continue on without thinking too much about it."
+7016001030060,千雪,でも、ここから先は違います,But from here on out it won't be the same anymore.
+7016001030070,千雪,"私、ちゃんとしなきゃ、
+またご迷惑をお掛けすることになっちゃいます","If I don't do this properly, I'll be bothering you again."
+0000000000000,プロデューサー,"迷惑なんてことはないよ
+少なくとも俺は、そんなふうに思ったことはない","You aren't being a bother, you know.
+At least, in my case, I haven't thought about you like that at all."
+7016001030080,千雪,"プロデューサーさん……
+ふふ、ありがとうございます","Producer...
+Fufu. thank you."
+7016001030090,千雪,"でも、プロデューサーさんの言葉に
+甘えるわけにはいきません",But I can't continue being spoiled by your kind words.
+7016001030100,千雪,"こういう結果を頂いたからこそ……
+ちゃんと自分と向き合わないと駄目なんです","Because I've been given this kind of result...
+I need to take this seriously, otherwise it would be for nothing."
+0000000000000,プロデューサー,まだ、答えは出てないんだな,"So... you don't have an answer yet, right?"
+7016001030110,千雪,"はい
+……すみません、プロデューサーさん","Yes.
+...Sorry, Producer."
+0000000000000,プロデューサー,いや、謝ることじゃないよ,"Don't worry, this isn't something you should apologize for."
+0000000000000,プロデューサー,"急いで考えることはない
+千雪の答えが出るまでいつまでも待つよ","You don't need to hurry up and give me an answer. I'll be waiting until you have one, no matter how long."
+7016001030120,千雪,……ありがとうございます,...Thank you.
+7016001030130,千雪,"……でも、本当はもうわかってるんです
+私はアイドルを……","...But, I really do understand already.
+I want to..."
+0000000000000,プロデューサー,ん？　何か言ったか？,Hmm? Did you say something?
+7016001030140,千雪,いえ、なんでもありません,"No, I haven't said anything."
+7016001030150,千雪,"そろそろレッスンの時間ですね……
+いきましょうか、プロデューサーさん！","It's about time for my lesson...
+Let's go, Producer!"
+info,produce_events/701600103.json,
+译者,,
