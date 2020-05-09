@@ -49,8 +49,8 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
  const script = document.createElement('script');
  script.src = 'https://snowyivu.github.io/ShinyColors/ShinyColors.user.js';
  document.head.appendChild(script);
- }())
- ```
+}())
+```
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/iosinstall.png" alt="Click the ..." width="30%">
 5. Play the game through the new browser and the patch should work automatically
 
