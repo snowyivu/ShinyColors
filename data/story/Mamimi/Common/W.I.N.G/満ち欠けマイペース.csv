@@ -80,9 +80,12 @@ Don't hold back and just say it, ok?"
 0000000000000,プロデューサー,"……そうだな。良かったのは確かなんだけど、
 摩美々には、欠けているものがあると思うんだ","...That's right. It was certainly good, 
 but I think that Mamimi is still lacking in some aspects."
-select,,謙虚さが欠けてる,You are lacking modesty.
-select,,一生懸命さが足りない,You're lacking hard work.
-select,,可愛げがない,You lacked cuteness.
+select,,謙虚さが欠けてる,"You are lacking
+modesty"
+select,,一生懸命さが足りない,"You're lacking
+hard work"
+select,,可愛げがない,"You lacked
+cuteness"
 0000000000000,プロデューサー,謙虚さが欠けている,You are lacking modesty.
 1005001020150,摩美々,"それ、必要ですー？
 お仕事が上手にできれば、別にいいじゃないですかぁ？","Is something like that necessary?

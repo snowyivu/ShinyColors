@@ -14,7 +14,8 @@ id,name,text,trans
 でも、無理はしないでくれ",Aah... Let's do our best! But remember to not push yourself too hard.
 0000000000000,プロデューサー,（千雪……やっぱり、引退を決意してきたのか？）,(Chiyuki... So you really have decided to retire?)
 1016001040060,千雪,"はい、大丈夫です
-それで、プロデューサーさん","Yes, I'll be alright. And because of that, Producer..."
+それで、プロデューサーさん","Yes, I'll be alright.
+And because of that, Producer..."
 1016001040070,千雪,私、これが終わったら──,When I finish this──
 0000000000000,プロデューサー,（き、きた……！）,(H-Here it comes...!)
 0000000000000,プロデューサー,"ち、ちょっと待ってくれ、千雪
@@ -22,7 +23,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"俺はどんなときでも、千雪の考えを応援する
 でも、その話は……ステージが終わってからにしないか？","You know that I've always been supportive of your thoughts and ideas. But, this kind of talk... can't we do it after the show ends?"
 1016001040080,千雪,"……はい
-プロデューサーさんが、そうおっしゃるのでしたら",...I understand. If that's what Producer says.
+プロデューサーさんが、そうおっしゃるのでしたら",...I understand. If that's what you say.
 1016001040090,千雪,"ステージの後にお時間をください
 ……それじゃ私、レッスンに行ってきますね","Please reserve some time after the show for it. ...Well then, I'll be going to my lessons, okay?"
 0000000000000,プロデューサー,"お、おう
@@ -60,23 +61,23 @@ Ah no... Rather... Give it your all in the performance."
 0000000000000,プロデューサー,"（いや、さ、最後だからってことかな……
 でも、このままじゃ運営に怒られちゃうぞ……）","(No... Maybe because this is her last event... But at this rate, management will get mad at us...)"
 0000000000000,プロデューサー,"ち、千雪ー！
-ちょっと待っ──",C-Chiyukiー! Wai──
+ちょっと待っ──",C-Chiyuki──! Wai──
 0000000000000,ステージ主催者,"あ、千雪ちゃーん、お疲れ
-今日よかったよー","Ah, good work today, Chiyuki. Today was a good dayー"
+今日よかったよー","Ah, good work today, Chiyuki. Today was a good day──"
 0000000000000,プロデューサー,（あれは……主催のプロデューサー？）,(That's... the event producer?)
 0000000000000,ステージ主催者,"千雪ちゃん、マジでさ、今度お願いねー
-事務所の方、連絡入れとくからさ","Chiyuki, seriously, we'll be looking forward to next timeー
+事務所の方、連絡入れとくからさ","Chiyuki, seriously, we'll be looking forward to next time──
 We'll be putting in a good word for you at the office!"
 1016001040160,千雪,"わぁ、本当ですか？
 とっても嬉しいです～","Wow, really? That makes me so happy!"
 0000000000000,ステージ主催者,"いやー、その笑顔を見れただけでさ、
-今日のイベントやった価値があったよ。じゃ頑張って","Wellー, it's only because we saw that smile. Today's event was really worth a try. Keep doing your best."
+今日のイベントやった価値があったよ。じゃ頑張って","Well, it's only because we saw that smile. Today's event was really worth a try. Keep doing your best."
 1016001040170,千雪,"ありがとうございます！
 お疲れさまでしたー！",Thank you very much! Good work today!
 0000000000000,プロデューサー,ち、千雪、今の……,"C-Chiyuki, that talk just now..."
 1016001040180,千雪,"あ、プロデューサーさん、おつかれさまです
 吉報ですよ～","Ah, Producer, good work today! I have good news~"
-1016001040190,千雪,私、ステージのお仕事もらっちゃいましたー♪,I've been given more showsー♪
+1016001040190,千雪,私、ステージのお仕事もらっちゃいましたー♪,I've been given more shows♪
 0000000000000,プロデューサー,"え、ええ？　あの……
 アイドル……続けてくれるのか……？",E-Eh? Uhm... You'll continue... being an idol?
 1016001040200,千雪,"あ……そのお話がまだでしたね
@@ -88,7 +89,7 @@ We'll be putting in a good word for you at the office!"
 それで、挨拶まわりとファンの方々のお見送りをしてたんです","Fufu, yes♪
 With that being said, I'll be greeting my fans and wishing them farewell."
 1016001040230,千雪,"挨拶は、プロデューサーさんに教えていただいた
-基本、ですから","Greetings are something that Producer taught me. They're the basics, after all."
+基本、ですから","Greetings are something that you taught me. They're the basics, after all."
 0000000000000,プロデューサー,"ち、千雪……！
 でも……雑貨は、本当にいいのか？",C-Chiyuki...! But... Is it really okay to quit your job at the general store?
 1016001040240,千雪,"私、誰かに笑顔になってもらえるかぎり、
@@ -98,9 +99,9 @@ With that being said, I'll be greeting my fans and wishing them farewell."
 0000000000000,プロデューサー,そ、そうか……！,I-I see...!
 1016001040260,千雪,"プロデューサーさん、
 応援……してくださいますか……？","Producer, will you... continue to support me...?"
-select,,もちろんだ,Of course
-select,,当たり前だ,You got that right
-select,,応援する,I'll support you
+select,,もちろんだ,Of course!
+select,,当たり前だ,You got that right!
+select,,応援する,I'll support you!
 0000000000000,プロデューサー,もちろんだ,Of course!
 0000000000000,プロデューサー,千雪がそうしたいって、思ったんだろう？,"It's what you want to do, right?"
 1016001040270,千雪,"はい

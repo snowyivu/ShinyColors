@@ -1,0 +1,39 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","...Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"......! Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+0000000000000,プロデューサー,惜しかったな、『W.I.N.G.』……,"It's a shame, losing in W.I.N.G...."
+6016001070010,千雪,ええ……,Yeah...
+6016001070020,千雪,"……でも、あのステージに立たせてもらったこと
+本当に感謝してます","...But, I truly am grateful for having been given the chance to stand up on that stage."
+0000000000000,プロデューサー,千雪……,Chiyuki...
+6016001070030,千雪,今までで、いちばんたくさんの笑顔を見たんです,"Ever since I started, that was the first time I've seen so many smiles."
+6016001070040,千雪,"そしたら、何か、ここまでやってきたことが、
+間違いじゃないって思えて……","And then, in some way, I thought that everything I've done to get here wasn't a mistake..."
+6016001070050,千雪,だから、大丈夫です,That's why it's okay...
+6016001070060,千雪,一つひとつ、一人ひとり……笑顔を増やしていく,"One by one, on every person's face... I was able to increase the smiles bit by bit."
+6016001070070,千雪,"アイドルとしてやらなきゃいけないことは
+何も、変わらないですから","If I had not become an idol, then nothing would have changed for me."
+0000000000000,プロデューサー,ああ、俺も同じ気持ちだよ,"Aah, I share those same feelings."
+0000000000000,プロデューサー,"……俺、千雪のプロデューサーをやれて、
+ほんとによかったなぁ",...I'm really glad that I became your producer.
+6016001070080,千雪,"プロデューサーさん……？
+……もう",Producer...? ...Oh you.
+6016001070090,千雪,それ、勝った時に言うセリフなんじゃないです？,Isn't that a line you should say when we win?
+0000000000000,プロデューサー,"ん？　いや
+今本当に言いたかったセリフだ",Hm? Nah. It's a line I really wanted to say at this very moment.
+6016001070100,千雪,……ふふ、プロデューサーさん……,"...Fufu, Producer..."
+6016001070110,千雪,"私も、あの時プロデューサーさんに声をかけてもらって
+ほんとによかったです……",I'm really glad that you called out to me the first time we met too...
+info,produce_events/601600107.json,
+译者,,

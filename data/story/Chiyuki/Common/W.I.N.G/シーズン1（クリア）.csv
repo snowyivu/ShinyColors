@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000,プロデューサー,千雪、一次審査通ったぞ！,"Chiyuki, you passed the first round!"
+7016001010010,千雪,"えっ？　一次審査って……
+もしかして『W.I.N.G.』のですか？",Eh? The first round... Are you talking about W.I.N.G.?
+0000000000000,プロデューサー,ああ、そうだ！,"Yeah, that's right!"
+7016001010020,千雪,わぁ、本当ですか……！,"Wow, really...!?"
+7016001010030,千雪,"嬉しいです
+まだ一次かもしれませんけど……",That makes me happy. It's only the first round but...
+7016001010040,千雪,私には、すごいご褒美です……！,"For me, it's an amazing reward...!"
+0000000000000,プロデューサー,"はは、
+千雪、すごく頑張ってたからな","Haha, Chiyuki, it's because you've been working so hard."
+7016001010050,千雪,"そんな……
+やりたくてやってただけなんですよ","That's... I'm just doing things that I want to do, you know."
+7016001010060,千雪,"わからないことばっかりですけど、
+でも、レッスンも仕事も、本当に楽しくて……",There's a lot of things that I don't know but... our lessons and work truly are fun!
+0000000000000,プロデューサー,"それでも千雪が努力していたことにかわりないぞ
+二つのことを、どっちもきちんとやってたからな","And yet, the things you've been putting effort in haven't changed. This is the result of you giving it your all for both of your jobs!"
+7016001010070,千雪,"そうでしょうか……
+ふふ、ありがとうございます","Is that so... Fufu, thank you very much."
+7016001010080,千雪,こうなったら、次も頑張らなきゃ……ですね,"Since it's come to this, I have to keep giving it my all for the next round too."
+7016001010090,千雪,"神頼みというわけじゃないですけど
+お守りでも……作ろうかな……",It's not like it's a request from the gods but... Should I make a protective charm...?
+0000000000000,プロデューサー,はは、千雪らしくていいんじゃないか？,"Haha, isn't it just like you to do that?"
+7016001010100,千雪,そうですか？,Is that so?
+7016001010110,千雪,"じゃあ、その時はプロデューサーさんの分も
+お揃いで作りますね♪","In that case, I'll be making a matching one for you too♪"
+0000000000000,プロデューサー,"俺もいいのか？
+俺にはどんなご利益があるんだろうな",Is it alright to make one for me too? I wonder what kind of blessing the gods have in store for me.
+7016001010120,千雪,"それは……
+私に声をかけたことを後悔しないご利益、でしょうか",Isn't it... that you don't end up regretting that moment you called out to me?
+0000000000000,プロデューサー,"ははっ、それなら意味ないな
+俺は千雪のこと、一瞬でも後悔したことはないよ","Haha, if that's the case then there's no meaning in that. After all, since that moment, I have not regretted it even one bit."
+0000000000000,プロデューサー,むしろ、ありがとな……,"Rather than regret it, I'm thankful for you..."
+7016001010130,千雪,"プ、プロデューサーさん……
+はい……！",P-Producer... Okay...!
+info,produce_events/701600101.json,
+译者,,
