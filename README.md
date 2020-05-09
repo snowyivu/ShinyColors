@@ -39,7 +39,7 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
 
 ## Installing on iOS
-1. For mobile，you'll need a browser that supports scripts.  Currently the only known one for iOS is Alook Browser which unfortunately is 1.99 on the App Store.
+1. For mobile，you'll need a browser that supports scripts.  Currently the only known one for iOS is Alook Browser which unfortunately is .99 cents on the App Store.
 2. Once you've downloaded Alook you'll need to set up a Javascript extension for shinycolors.enza.fun
 3. Go to Settings > Custom Settings > JavaScript Extensions > Add a New One
 4. On the next screen you will need to set up the Match Type to Host , Match Value to shinycolors.enza.fun , Run At to DOMContentLoaded , and the following JavaScript Code:
