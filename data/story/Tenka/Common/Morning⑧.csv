@@ -3,7 +3,7 @@ id,name,text,trans
 0000000000000,プロデューサー,参考書をそんなに見つめてどうしたんだ？,Why are you looking at the reference book so much?
 1015001000810020,甜花,"プ、プロデューサーさん……
 ここ、わかんなくて……その……","P-Producer...
-Here, Tenka doesn't understand... this part..."
+Here, Tenka doesn't understand... This part..."
 0000000000000,プロデューサー,"ああ、宿題でわからないところがあったのか
 だったら……","Aah, you're doing your homework, huh. 
 In that case..."
@@ -15,7 +15,7 @@ select,,"甜花が頑張らないと
 you don't work 
 hard for it, right?"
 1015001000810030,甜花,"あ、ありがとう……にへへ……
-プロデューサーさんとなら、できそう……","T-Thank you... Nihehe.
+プロデューサーさんとなら、できそう……","Th-thank you... Nihehe.
 If it's from you, it's possible..."
 1015001000810040,甜花,また、わからないことがあったら……聞いてもいい？,"Next time, if there's something Tenka doesn't understand... Is it okay to ask you?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
@@ -28,7 +28,7 @@ So it's better this way..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1015001000810070,甜花,あうう……甜花、勉強苦手だから……,"Awh... Tenka, isn't really good at studying..."
 1015001000810080,甜花,"でも……プロデューサーさんが、言うなら……
-もうちょっと……頑張ってみる……","But... if you said so...
+もうちょっと……頑張ってみる……","But... If you say so...
 Just for a little bit... Tenka will do her best again..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101500100081.json,

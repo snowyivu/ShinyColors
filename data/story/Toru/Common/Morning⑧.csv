@@ -1,0 +1,36 @@
+id,name,text,trans
+1020001000810010,透,"あっつ……
+ちょっとこぼれちゃった、コーヒー","Ow──hot...
+I kind of spilled a little of my coffee."
+0000000000000,プロデューサー,透？　大丈夫か,Toru? You okay?
+1020001000810020,透,"あつあつ……
+ごめん、タオルないかな","Hot, ho──ttt──...
+Sorry, are there any towels anywhere?"
+0000000000000,プロデューサー,"おう
+──ほら","Roger that.
+──Oh,"
+select,,"マグも、
+ちゃんと置いて","put your mug
+down too."
+select,,気を付けてな,"make sure to
+take care, okay?"
+select,,シミになるかな,that might stain.
+1020001000810030,透,ありがと,"Thanks, yeah."
+1020001000810040,透,"ごめんね
+熱いの苦手なんだ","Sorry about that.
+I'm not good with hot stuff."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001000810050,透,"うん
+──あ、これプロデューサーの？","Yeah.
+──Ah, is this yours, Producer?"
+1020001000810060,透,"ごめんね、
+洗って返すから","Sorry,
+I'll wash it and give it back to you."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001000810070,透,"うん
+……コーヒー、そんなに得意じゃないのに","Yeah.
+...I'm not even that into coffee."
+1020001000810080,透,やめとけばよかった,"Just shouldn't have bothered, really."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100081.json,
+译者,,

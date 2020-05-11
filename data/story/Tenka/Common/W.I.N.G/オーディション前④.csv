@@ -1,9 +1,9 @@
 id,name,text,trans
 4015001000210010,甜花,"プロデューサーさん……ちゃ、ちゃんと……
 歌って……くるね……","Producer... T-Tenka will...
-sing well... Okay..."
+Sing well... Okay..."
 0000000000000,プロデューサー,"甜花、なんだかあんまり声が出てないな
-それなら……","Tenka, your voice is not coming out properly.
+それなら……","Tenka, your voice isn't coming out properly.
 In that case..."
 select,,のど飴をあげる,Here's cough candy.
 select,,水を飲んでおこう,Have some water.
@@ -22,7 +22,7 @@ Ah... Tenka's voice, has come out a bit..."
 これで、良い声が出せるようになったな）","(It seems her nervousness is gone as she drinks...
 With this, she'll definitely be able to have a good voice.)"
 4015001000210040,甜花,"お、おっきい声……？　あ……あー！！
-こんな、感じ……？","L-Loud voice...? Aaaa!!
+こんな、感じ……？","L-loud voice...? A, aaa!!
 Something like that...?"
 0000000000000,プロデューサー,（さっきよりは声が出るようになったかな）,(Maybe her voice is slightly louder now.)
 info,produce_communication_cheers/401500100021.json,

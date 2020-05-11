@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──歩きスマホは感心しないぞ？
+いくら事務所の中でもさ","──Walking around with your smartphone up's not very admirable, y'know? Even if it's in the office."
+1020001000910010,透,"あ、ごめん
+なんか樋口から連絡来て","Ah, sorry.
+I just got a message from Higuchi."
+1020001000910020,透,"プロデューサーの写真で
+返事していい？","Can I reply with a photo of you, Producer?"
+0000000000000,プロデューサー,え……？,Eh...?
+select,,──ピース,──Peaaace.
+select,,俺を撮るのか？,"You're taking a
+photo of me?"
+select,,"そんなので
+返事になるか？","Does that really
+count as a
+response?"
+1020001000910030,透,"ふふっ
+いいね、ピースフル","Heheh.
+That's good. Peaceful."
+1020001000910040,透,"じゃ、私も入ろう
+──ピース","kay, I'll get in it too.
+──Peace."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001000910050,透,"そうそう
+絵文字みたいな──","Yeah, yeah.
+Sort of like an emoji──"
+1020001000910060,透,『おはよ』って感じに写ってくれれば,"Like a ""good morning"" kind of feel, if I could capture that."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001000910070,透,うん。ダメ？,Yeah. No good?
+1020001000910080,透,"事務所にいるよって
+伝えようと思っただけなんだけど","I was only thinking I wanted to tell her ""hey, I'm at the office"", is all."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100091.json,
+译者,,

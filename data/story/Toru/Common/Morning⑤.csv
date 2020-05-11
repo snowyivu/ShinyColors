@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000,プロデューサー,──何見てるんだ？,──What're you looking at?
+1020001000510010,透,え？　うん……窓,Eh? Um... the window.
+0000000000000,プロデューサー,窓？,The window?
+1020001000510020,透,"窓っていうか、なんだろう……
+窓の外？","When I say the window, I mean, um...
+Outside the window?"
+0000000000000,プロデューサー,ええっと──,"Err, let's see──"
+select,,鳥が飛んでるな,"Hey, birds flying."
+select,,何かあるのか？,"Is there something
+out there?"
+select,,"雨降るって
+言ってたけど","Y'know, they were
+saying it'd rain."
+1020001000510030,透,"……ふふっ
+何それ","...Fufu.
+What's that meant to mean?"
+1020001000510040,透,飛んでるけどさ,Though I guess they sure are.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001000510050,透,べつに、ないけど……,"Not... really, I was just thinking..."
+1020001000510060,透,"明るいなーとか、
+家だなーとか","Like ""it sure is bright out"", or,
+""those sure are houses"", or."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001000510070,透,"え、今日？
+そうなんだ","Uh, today?
+Is that so."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100051.json,
+译者,,
