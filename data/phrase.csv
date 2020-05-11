@@ -350,7 +350,7 @@ fes.fesPositionName.leader,リーダー,Leader
 fes.fesPositionName.center,センター,Center
 fes.pauseSkillTitle.vocal,ボーカル担当,Vocal Position
 fes.pauseSkillTitle.dance,ダンス担当,Dance Position
-fes.pauseSkillTitle.visual,ビジュアル担当,Visual Positron
+fes.pauseSkillTitle.visual,ビジュアル担当,Visual Position
 fes.pauseSkillTitle.leader,リーダー,Leader
 fes.pauseSkillTitle.center,センター,Center
 fes.orderText,%{order}位,%{order} rank
@@ -828,7 +828,7 @@ produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Or
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,"The above idols cannot\ncurrently be selected as Produce Idols\for ""283Pro Fan Thanksgiving"""
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,"The above idols cannot\ncurrently be selected as Support Idols\for ""283Pro Fan Thanksgiving"""
 profile.cardEditDialogTitle,名刺編集,Edit Card
-profile.pfRecommend,名前を変更するには、データ連携が必要です,"To change your name, data must be linked."
+profile.pfRecommend,名前を変更するには、データ連携が必要です,Must link data to change name.
 profile.error.ngWord,\n禁止ワードが含まれています,\r\nBanned word detected.
 profile.error.wordLength,\n入力文字数が不正です,\r\nNot enough characters.
 profile.commentEditDialog.title,自己紹介編集,Edit Introduction

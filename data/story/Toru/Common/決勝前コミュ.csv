@@ -1,0 +1,19 @@
+id,name,text,trans
+0000000000000,プロデューサー,──ははっ、緊張してるな,"──Hahah, you're nervous, huh?"
+6020001040010,透,うん,Yeah.
+6020001040020,透,……え、何\nプロデューサー,"...Um, is something up,
+Producer?"
+0000000000000,プロデューサー,いや、緊張してるなって,"No, just, you're nervous, huh? That's all."
+6020001040030,透,あー──,Aah──
+0000000000000,プロデューサー,いいことだよ\nすごく,"It's a good thing!
+It's a really important thing."
+6020001040040,透,──……うん,──...yeah.
+0000000000000,プロデューサー,ん？,Hm?
+6020001040050,透,……ううん,"...oh, no."
+6020001040060,透,べつに緊張してない\nって言おうと思ったんだけど,"Just thought I should say ""I'm not really nervous"",
+or something, but──"
+6020001040070,透,してた、緊張,I was. I was nervous.
+6020001040080,透,でも……,But...
+6020001040090,透,大丈夫だから,I'll be fine.
+info,produce_events/602000104.json,
+译者,,

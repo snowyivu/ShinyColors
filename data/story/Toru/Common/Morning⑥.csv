@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000,プロデューサー,"日誌、直帰の時は家で書いてくれていいけど
+まとめてやるのはダメだぞ？","Your journal──doing it after you've gone home's fine, but leaving it and having to do entries in bulk misses the point, okay?"
+1020001000610010,透,"あ、うん
+大丈夫だよ","Ah, yeah.
+No worries."
+0000000000000,プロデューサー,じゃあ、今日の分もよろしくな,Then I look forward to today's.
+1020001000610020,透,もう書いたよ,I've already written it.
+select,,"──今日はまだ
+終わってないぞ","──Today's not
+over yet, y'know."
+select,,──早いな,──That was fast.
+select,,"──ちゃんと
+書いてくれたか？","──You sure you
+properly wrote
+that?"
+1020001000610030,透,"えっ
+あー……","Eh?
+Ah..."
+1020001000610040,透,"ごめん、そうだね
+出すのまだにしとく","Sorry, yeah.
+Gotta give it to you later, then."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001000610050,透,"うん
+このまま返事待ってようかな","Yeah.
+This way I can look forward to your reply, I was thinking."
+1020001000610060,透,ふふ,Fufu.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001000610070,透,"ちゃんとって……
+うーん……","Properly...?
+Hmm..."
+1020001000610080,透,"いつもより
+特別にしなきゃってこと？","As in,
+this one's gotta be more special than the rest?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100061.json,
+译者,,
