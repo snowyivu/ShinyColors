@@ -5,6 +5,8 @@
 <a href="https://shinycolors.enza.fun/"><img alt="283 Production" src="https://img.shields.io/badge/283-Production-9a77ff.svg"></a>
 </p>
 
+## Patch Install Instructions Below  
+
 ---
 <b>Questions, Feedback, or want to Help with Translations?：[Join the Discord](https://discord.gg/xuFcKzW)</b>
 
