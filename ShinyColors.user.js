@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.11.3
+// @version      0.11.7
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -483,7 +483,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.11.3";
+	var version = "0.11.7";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -760,9 +760,11 @@
 	  return phraseMap;
 	};
 
+	let OFFSET = 10;
+
 	const setIdList = (id, offset) => {
-	  let start = id - 2;
-	  let end = id + 2;
+	  let start = id - offset;
+	  let end = id + offset;
 	  let list = [];
 
 	  for (let i = start; i <= end; i++) {
@@ -776,7 +778,7 @@
 	};
 
 	const findModule = (id, conditionFunc) => {
-	  let idList = setIdList(id);
+	  let idList = setIdList(id, OFFSET);
 	  let module;
 
 	  for (let i = 0; i < idList.length; i++) {
