@@ -1407,8 +1407,6 @@ fortuneEffectPop.friendshipComment,おみくじのご利益により、プロデ
 fortuneEffectPop.businessMotivationComment,おみくじのご利益により、営業で\n「モチベーションボーナスアップ」が発生！\nあと%{times}回有効！！,おみくじのご利益により、営業で\n「モチベーションボーナスアップ」が発生！\nあと%{times}回有効！！
 fortuneEffectPop.trainingSuccessComment,おみくじのご利益により、トレーニングすると\n一定確率で「大成功」が発生！\nあと%{times}回有効！！,おみくじのご利益により、トレーニングすると\n一定確率で「大成功」が発生！\nあと%{times}回有効！！
 fortuneEffectPop.specialComment,「モチベーションボーナスアップ」「絆アップ」\n「獲得マニーアップ」「トレーニング大成功」が発生！\nそれぞれ%{times}回有効！,「モチベーションボーナスアップ」「絆アップ」\n「獲得マニーアップ」「トレーニング大成功」が発生！\nそれぞれ%{times}回有効！
-temp.supportEvent,サポートイベント,Support Event
-temp.produceEvent,プロデュースイベント,Produce Event
 common.remainingText,あと,Left
 common.remainingMinutes,あと%{minutes}分,%{minutes}m
 common.remainingHours,あと%{hours}時間%{minutes}分,%{hours}h %{minutes}m
