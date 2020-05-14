@@ -54,9 +54,11 @@ what you'll having, Producer?"
 2014004010160,甘奈,"えーっと、ソフトクリームをひとつと……
 プロデューサーさんは？","Well, I'll have a soft-serve ice cream.
 What about you, Producer?"
-select,,ピーチパフェにしよう,I'll have the peach parfait
+select,,ピーチパフェにしよう,"I'll have the
+peach parfait"
 select,,コーヒーにしよう,I'll have coffee
-select,,大盛りの定食にしよう,I'll have the large set meal
+select,,大盛りの定食にしよう,"I'll have the
+large set meal"
 2014004010170,甘奈,"店員さん
 ピーチパフェをお願いします",And one peach parfait.
 2014004010180,甘奈,"でも、意外かも。プロデューサーさんが

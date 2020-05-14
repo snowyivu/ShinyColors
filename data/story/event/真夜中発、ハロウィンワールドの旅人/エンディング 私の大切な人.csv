@@ -19,16 +19,14 @@ We and the pumpkins, have trained hard for this!"
 そんなの、上手くいきっこない！","Like... hell you will!
 There's no chance of this working!"
 4001006080100,灯織,"ふたりとも、わかってるの……？
-捕まったら、みんな戻れなくなるかもしれないんだよ？","Don't you understand?
-If you're caught, you might be trapped in here for ever!"
+捕まったら、みんな戻れなくなるかもしれないんだよ？","Don't you understand? If you're caught, you might be trapped in here for ever!"
 4001006080110,真乃,それは……そうかもしれないけど……,We can't deny that...
 4001006080120,灯織,そんな危ないこと、いいって言えるわけない！,There's no way I can agree with this reckless plan!
 4001006080130,めぐる,うーん……そうなんだけど、そうなんだけどー……！,Uuughh... You're right... but... but...!
 4001006080140,灯織,じゃあどうして……！,Then why?!
 4001006080150,真乃,……あ、あのねっ,"Um, you see..."
 4001006080160,真乃,"灯織ちゃんは、きっとそう言ってくれるんだろうなって……
-めぐるちゃんも私も、わかってたよ","We fully expected
-you to react like this."
+めぐるちゃんも私も、わかってたよ",We fully expected you to react like this.
 4001006080170,真乃,……わかってたんだけど……,"We know how you feel, but..."
 4001006080180,真乃,"でも……もし捕まっちゃったとしても……
 今までよりは、いいんじゃないかなって","But... Even if we do get caught,
@@ -48,21 +46,18 @@ it won't be the end of the world."
 4001006080300,めぐる,うん、ありがとう,That's what I wanted to hear!
 4001006080310,めぐる,じゃあね、灯織に、お願いがあるんだ,"Then we have a request to make, Hiori."
 4001006080320,めぐる,"真乃とわたしの大好きな人がね、困ってるの
-だから、助けるのを手伝ってもらえないかな？","Our beloved friend is in trouble and
-we really need your help to rescue her."
+だから、助けるのを手伝ってもらえないかな？",Our beloved friend is in trouble and we really need your help to rescue her.
 4001006080330,灯織,それ、って……,That's...
 4001006080340,真乃,"灯織ちゃんが手伝ってくれたら……
-きっと、上手くいくはずなんだっ","With your help,
-I'm sure it'll all work out!"
+きっと、上手くいくはずなんだっ","With your help, I'm sure it'll all work out!"
 4001006080350,真乃,だから、お願いっ,Won't you? Please?
 4001006080360,灯織,真乃……めぐる……,Mano... Meguru...
 4001006080370,灯織,"……なんで……！　私、こんなところにいて……
 ふたりに、迷惑ばっかりかけてるのに……！",I've been nothing but trouble... Getting myself trapped in here... So why are you helping me!?
-4001006080380,真乃,だって、灯織ちゃん,Hiori.
+4001006080380,真乃,だって、灯織ちゃん,"Because, Hiori."
 4001006080390,真乃,大好きな人が困ってるのは、私が困ってるのと同じだから,A friend's burden is our burden too.
 4001006080400,真乃,"だから……
-それを、迷惑だなんて思わないよ","We could never
-think of you as a problem."
+それを、迷惑だなんて思わないよ",We could never think of you as a problem.
 4001006080410,真乃,"それより、きっと……
 力になれたら嬉しいなぁって──……","In fact, when we're able to help you,
 it makes us happy too..."
@@ -96,7 +91,9 @@ You'll need a way of finding me when you enter."
 4001006080540,灯織,うん,"Good idea. "
 4001006080550,灯織,このペンダントの光が、きっと導いてくれる……,The light of my pendant shall guide you...
 select,,"──よし
-準備はいいか？",All preparations are ready?
+準備はいいか？","Okay. All 
+preparations
+are ready?"
 0000000000000,プロデューサー,"──よし
 準備はいいか？",All preparations are ready?
 4001006080551,一同,はいっ,Yes!
@@ -231,8 +228,7 @@ with many hellos and goodbyes...)"
 0000000000000,プロデューサー,"（そうか、今日はハロウィンだったな
 ……どこかで見たようなお菓子だけど──）",(I see. Today is Halloween. Why do I get the feeling I've seen these sweets before...?)
 0000000000000,プロデューサー,"…………
-みんなにとって、幸せなハロウィンになりますように……","...I hope everyone else
-has a happy Halloween, at least..."
+みんなにとって、幸せなハロウィンになりますように……","...I hope everyone else has a happy Halloween, at least..."
 0000000000000,プロデューサー,（──……あれ？　俺、何言ってんだろう……）,(...Huh? Why am I saying that?)
 0000000000000,プロデューサー,"──そうだ。ロケバスの車検、
 月内に書類書いておくように言われてたんだった……","Oh, I remember now. I was asked to complete the paperwork for the crew's bus vehicle inspection by the end of the month."

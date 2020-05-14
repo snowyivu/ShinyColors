@@ -1,0 +1,31 @@
+id,name,text,trans
+7019001030010,愛依,……,......
+0000000000000,プロデューサー,愛依、大丈夫か……？,"Mei, are you okay..?"
+7019001030020,愛依,うん……結果、出たんだよね？,Mhm... you have the results right?
+0000000000000,プロデューサー,ああ、でも、落ち着くまで少し待とうか？,"Yeah, but, did you want to calm down a little first?"
+7019001030030,愛依,大丈夫、言っちゃって,"I'm okay, just tell me."
+0000000000000,プロデューサー,わかった……,Understood...
+0000000000000,プロデューサー,おめでとう、無事に通過してたぞ！,"Congratulations, you passed without a scratch!"
+7019001030040,愛依,へ……？　マジで……？,Eh..? Seriously..?
+0000000000000,プロデューサー,ああ、本当だ,"Yeah, honestly."
+7019001030050,愛依,アハハ……よかった～……！,Ahaha... thank goodness~..!
+0000000000000,プロデューサー,この前のこと、やっぱり気になるのか,"As I guessed, you really were worried."
+7019001030060,愛依,"だってさぁ、あれ
+マジにやらかしちゃったやつじゃん？","That's because, like,
+I totally screwed up, right?"
+7019001030070,愛依,"プロデューサーにも
+ちょーメーワクかけちゃったし……",Since I was a major pain for you...
+0000000000000,プロデューサー,うん、反省するのは大切だ,"Yeah, it's important to self-reflect."
+0000000000000,プロデューサー,"けど、そこまで気に病む必要はないぞ
+次は挽回すればいいんだ","But, you don't have to fret over that.
+It's okay to improve for next time."
+7019001030080,愛依,そー言ってくれるのは嬉しいけどさ～,Well I'm happy that you said that~
+7019001030090,愛依,"でも、やっぱなんかヤじゃん？
+だから、これ以上そーなんないように、頑張る","But, wasn't that still bad? That's why I'll do my best to go past it."
+0000000000000,プロデューサー,"愛依、その気持ちでレッスンに励んでいけば
+きっと大丈夫だ","Mei, if you put those feelings into your lessons, you'll definitely be okay."
+0000000000000,プロデューサー,"けど、もし不安なことがあったら
+なんでも聞いてくるんだぞ","But, if you're worried about anything, don't hestitate to ask me for anything."
+7019001030100,愛依,うん、サンキュ、プロデューサー,"Yeah. Thanks, Producer."
+info,produce_events/701900103.json,
+译者,,
