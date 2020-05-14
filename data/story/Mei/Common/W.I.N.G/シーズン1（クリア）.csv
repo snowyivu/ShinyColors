@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,愛依！　結果が──,Mei! The results-
+7019001010010,愛依,"──えー、何それ、マジヤバくない？
+それはないわ～","-eh-, what's that, isn't it totally crazy? No way~"
+0000000000000,プロデューサー,っと……電話中か……,"And, oh... she's on the phone..?"
+7019001010020,愛依,"あ！　ゴメンちょっと切るわ！
+んじゃね～",Ah! Sorry I gotta hang up! Well seeya~
+7019001010030,愛依,"ゴメンゴメン！
+ちょっと長引いちゃった！",Sorry sorry! It dragged on a little bit!
+0000000000000,プロデューサー,そうか……まぁ、わかった……,"Is that so... well, I understand..."
+0000000000000,プロデューサー,一次審査なんだが……,About your first review...
+7019001010040,愛依,結果がもう出ちゃった的な！？,"Like, the results already came!?"
+0000000000000,プロデューサー,ああ,Yeah.
+0000000000000,プロデューサー,愛依、おめでとう！　通過したぞ,"Mei, congratulations! You passed."
+7019001010050,愛依,"お！　マジで！？
+よっしゃ！","Ah! Seriously!?
+Alright!!"
+7019001010060,愛依,やっぱ～、うちってゲーノー人の才能あるっぽくない？,"As I thought~, doesn't it seem like I have a knack for being a celebrity?"
+0000000000000,プロデューサー,大物になっちゃったりしてな,You're going to end up a bigshot.
+7019001010070,愛依,"でしょでしょ～、プロデューサー
+マジ、楽しみにしちゃっててよ～","Fer shure~ Producer, seriously, I'm really looking forward to it~"
+0000000000000,プロデューサー,"もちろんだ
+愛依のこと、これからも全力でサポートしてくよ",Of course. I'll do everything in my power to support you going forward.
+0000000000000,プロデューサー,"ま、とはいえ次の二次審査は今回より厳しくなるからな
+気を引き締めていこう","Well regardless, the second review is going to be even tougher. Let's brace ourselves."
+7019001010080,愛依,"そりゃそーっしょ
+うちだって手を抜くつもりなんてないもんね",Most definitely. I don't plan on cutting any corners after all.
+7019001010090,愛依,"うちらで力合わせて
+次もバッチリ決めるしかないっしょ！","With our strength combined, we'll flawlessly seize victory in the next one!"
+0000000000000,プロデューサー,ああ、俺も気合を入れなおすよ,"Yeah, I'll also be sure to fight on with you!"
+7019001010100,愛依,明日からもヨロシクね～、プロデューサー,"Please take care of me again tomorrow, Producer~"
+info,produce_events/701900101.json,
+译者,,
