@@ -14,6 +14,7 @@ import { idolProfiles } from './profile'
 import { mypageComments, fesDeckReactions, produceAudition, resumeGamedata, resumeRaidGamedata,
   trustLevelUp, produceReporterAnswer, topCharacterReaction, helperSupportIdols,
   produceEndWeek, lessonResult, characterComment, fesMatchConcert } from './type-text'
+import albumTrustLevel from './album/trust-level'
 import { log } from '../utils/index'
 import collectCardName from '../utils/collectCard'
 import cloneDeep from 'lodash/cloneDeep'
@@ -119,7 +120,7 @@ const requestOfPost = [
   ['userProduceHelperSupportIdols', helperSupportIdols],
   [['produceTeachings/resume', 'produceTeachings/next'], [teachingMission, supportSkill]],
   [/^userSelectLoginBonuses\/\d+$/, selectLoginBonus],
-  [/^characterAlbums\/characters\/\d+$/, [idolProfiles,'storyTitle'] ],
+  [/^characterAlbums\/characters\/\d+$/, [idolProfiles,'storyTitle', albumTrustLevel] ],
   [/^userLectureMissions\/\d+\/actions\/receive$/, beginnerMission]
 ]
 
