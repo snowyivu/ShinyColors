@@ -26,8 +26,8 @@ images/content/produce_place_categories/level_up_title/00003.png,00003.png,7
 images/content/produce_place_categories/level_up_title/00004.png,00004.png,7
 images/content/produce_place_categories/level_up_title/00005.png,00005.png,7
 images/content/produce_place_categories/level_up_title/00006.png,00006.png,7
-images/ui/skill_board/parts.json_image,skill_board.png,12
-images/ui/common/parts_skill_list.json_image,parts_skill_list.png,9
+images/ui/skill_board/parts.json_image,skill_board.png,13
+images/ui/common/parts_skill_list.json_image,parts_skill_list.png,10
 images/ui/login_bonus/parts.json_image,login_bonus.png,8
 images/ui/produce_common/parts_hint.json_image,parts_hint.png,9
 images/ui/produce_common/parts_hint_pop.json_image,parts_hint_pop.png,2
@@ -35,7 +35,7 @@ images/ui/common/parts_sort_buttons.json_image,parts_sort_buttons.png,4
 images/ui/produce_idol_rank/parts_idol_rank.json_image,parts_idol_rank.png,7
 images/ui/evolution/parts.json_image,evolution_parts.png,7
 images/ui/produce_deck/parts_deck_edit.json_image,parts_deck_edit.png,11
-images/ui/produce_action/parts_wing.json_image,parts_wing.png,2
+images/ui/produce_action/parts_wing.json_image,parts_wing.png,3
 images/ui/training/parts.json_image,training_parts.png,9
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,7
 images/ui/common/parts_filter.json_image,common_filter.png,4
@@ -235,3 +235,7 @@ images/tips/produce_grad/006.jpg,grad_tutorial_006.png,1
 images/tips/produce_grad/007.jpg,grad_tutorial_007.png,1
 images/tips/produce_grad/008.jpg,grad_tutorial_008.png,1
 images/tips/produce_grad/009.jpg,grad_tutorial_009.png,1
+images/ui/produce_action/parts_grad.json_image,produce_action_parts_grad.png,1
+images/ui/produce_block/parts.json_image,block_parts.png,1
+images/ui/produce_ability/parts.json_image,produce_ability_parts.png,1
+images/ui/produce_idol_rank/parts_block_result.json_image,block_result.png,1

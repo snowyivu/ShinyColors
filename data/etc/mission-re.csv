@@ -62,6 +62,8 @@ SSRのプロデュースアイドルを特訓します,Evolve an SSR Produce Ido
 ファン感謝祭をクリアしよう,Clear Thanks Flapping Day,text
 ファン感謝祭でMVPを1回取ろう,Recieve the MVP award in Thanks Flapping Day,text
 プロデュースを開始しよう,Start a Produce Run,text
+G.R.A.D.をクリアしよう,Clear G.R.A.D.,text
+G.R.A.D.に優勝しよう,Win the G.R.A.D. Championship,text
 トラブルを発生させずにシーズンをクリアしよう,Clear the season without any Trouble,text
 「オールアイドル感謝FESTIVAL」に2回合格しよう,Pass 「オールアイドル感謝FESTIVAL」2 Times,text
 「夕方ワイド アイドル一番！」に1回合格しよう,Pass 「夕方ワイド アイドル一番！」1 Time,text
@@ -150,6 +152,7 @@ Aランク,Rank A,noun
 Sランク,Rank S,noun
 W.I.N.G.編,W.I.N.G. Run,note
 ファン感謝祭編,Thanks Flapping Day Run,note
+G.R.A.D.編,G.R.A.D. Run,note
 高難易度,High Difficulty,note
 期間限定,Limited Time,note
 白いツバサ,White Wing,note
@@ -266,3 +269,4 @@ $nounに参加して$nounを達成しよう,Perform a $2 in $1,exp
 $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 ゲームにログインしよう,Log into the game,exp
 プロフィールで誕生日を設定しよう！,Set your birthday on your profile!,exp
+予選オーディションに合格しよう,Pass the Prelim Audition,exp
