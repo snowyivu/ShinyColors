@@ -42,7 +42,7 @@ staff_balloon.png,7
 images/ui/produce_common/parts_fan_meeting.json_image,3
 images/ui/cloth_change/parts.json_image,7
 images/ui/produce_event/parts_level_jump_up_effect.json_image,2
-images/ui/produce_common/parts.json_image,7
+images/ui/produce_common/parts.json_image,8
 images/ui/produce_countdown/parts.json_image,7
 images/event/log_text_frame/002.png,2
 images/event/log_text_frame/001.png,2
@@ -68,3 +68,12 @@ particles/produce_top/images.json_image,7
 images/ui/raid_common/parts.json_image,3
 images/ui/common/parts_reward_table.json_image,3
 images/event/bg/00001.jpg,6
+particles/costume_change/images.json_image,6
+images/ui/produce_common/parts_inspiration.json_image,1
+images/content/produce_area/description/003.png,1
+images/content/start/bg/26.jpg,1
+images/content/start/effect/25/particle_1.png,2
+images/content/start/effect/25/white_rim.png,2
+images/ui/produce_common/parts_grad.json_image,1
+images/ui/skill_board/bg.jpg,6
+images/ui/common/parts_effect.json_image,7
