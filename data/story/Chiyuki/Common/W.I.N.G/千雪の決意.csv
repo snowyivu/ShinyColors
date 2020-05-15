@@ -100,8 +100,10 @@ With that being said, I'll be greeting my fans and wishing them farewell."
 1016001040260,千雪,"プロデューサーさん、
 応援……してくださいますか……？","Producer, will you... continue to support me...?"
 select,,もちろんだ,Of course!
-select,,当たり前だ,You got that right!
-select,,応援する,I'll support you!
+select,,当たり前だ,"You got 
+that right!"
+select,,応援する,"I'll support 
+you!"
 0000000000000,プロデューサー,もちろんだ,Of course!
 0000000000000,プロデューサー,千雪がそうしたいって、思ったんだろう？,"It's what you want to do, right?"
 1016001040270,千雪,"はい
