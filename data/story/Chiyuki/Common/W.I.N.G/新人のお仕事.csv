@@ -56,9 +56,15 @@ id,name,text,trans
 0000000000000,プロデューサー,"それは嬉しいよ
 じゃあ、さしあたっては……","In that case, I'd be happy.  Well then, for the time being..."
 select,,"営業に
-力を入れてみよう",I'll try putting more effort into our operations.
-select,,仕事を丁寧にこなそう,Let's be thorough in handling our work.
-select,,レッスンが大事だ,Lessons are important.
+力を入れてみよう","g more effort into ou
+I'll try putting more
+effort into our
+operations."
+select,,仕事を丁寧にこなそう,"Let's be thorough
+in handling
+our work."
+select,,レッスンが大事だ,"Lessons are
+important."
 0000000000000,プロデューサー,営業に力を入れてみよう,I'll try putting more effort into our business dealings.
 0000000000000,プロデューサー,今日みたいに、挨拶回りをするのも手だな,"Just like today, give me a hand when giving courtesy calls."
 0000000000000,プロデューサー,"業界の人たちに知ってもらえれば、
