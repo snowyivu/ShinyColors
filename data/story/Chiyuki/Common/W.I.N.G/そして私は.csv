@@ -69,9 +69,12 @@ id,name,text,trans
 もう……ときどき、名言ぽいこと言うんですから","Producer... Sometimes, you really do end up saying something that resembles wise words."
 0000000000000,プロデューサー,はは、名言じゃあないんだな,"Haha, they aren't though."
 0000000000000,プロデューサー,でも、本当に今の千雪は……,"But really, the present you..."
-select,,立派なアイドルだな,Has become a splendid idol.
+select,,立派なアイドルだな,"Has become a
+splendid idol."
 select,,最高のアイドルだな,Is an incredible idol.
-select,,すごくいい顔しているよ,Has a really nice expression right now.
+select,,すごくいい顔しているよ,"Has a really
+nice expression
+right now."
 1016001050190,千雪,"……本当ですか？
 私、自分ではあんまりわからないんですよ","...Really? I don't really know myself, you know."
 0000000000000,プロデューサー,"はは、そういうものかもな……

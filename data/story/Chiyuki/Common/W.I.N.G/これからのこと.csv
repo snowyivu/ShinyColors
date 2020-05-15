@@ -83,9 +83,12 @@ id,name,text,trans
 1016001030250,千雪,このままじゃいけませんね、私……,I can't go on like this...
 1016001030260,千雪,"このままじゃ、
 きっと、また同じことを繰り返してしまう……","If I continue as is, I'm sure at some point I'll end up repeating the same mistake..."
-select,,ゆっくり休め,Take your time resting.
-select,,ゆっくり考えろ,Think about it carefully.
-select,,千雪に任せるよ,"I'll entrust it to you, Chiyuki."
+select,,ゆっくり休め,"Take your
+time resting."
+select,,ゆっくり考えろ,"Think about it
+carefully."
+select,,千雪に任せるよ,"I'll entrust it to
+you, Chiyuki."
 0000000000000,,★選択肢①【ゆっくり休め】,★Option 1【Take your time resting.】
 0000000000000,プロデューサー,ゆっくり休め,Take your time resting.
 0000000000000,プロデューサー,まずは、何も考えずにゆっくり休んだ方がいい,"First of all, it's better if you take your time resting instead of thinking about things."
