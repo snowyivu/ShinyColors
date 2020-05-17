@@ -1,0 +1,158 @@
+id,name,text,trans
+2005004020010,摩美々,……♪,Hmhm...♪
+0000000000000,プロデューサー,"摩美々、随分ご機嫌だな
+そのノート……何見てるんだ？","You seem to be in a very good mood, Mamimi.
+So, what are you reading in that note of yours?"
+2005004020020,摩美々,……！,......!
+2005004020030,摩美々,……別にー……,Nothing special.
+2005004020040,摩美々,"……プロデューサーこそ
+いつも遅くまで残って……何してるんですかぁ？","How about you, Producer?
+You always stay late here. What are you doing?"
+0000000000000,プロデューサー,何って……仕事だなぁ,"What, you ask... Well, work."
+2005004020050,摩美々,"こんなに遅くまで仕事して
+お腹空かないんですかぁ？","You keep working late like this
+so don't you ever get hungry?"
+0000000000000,プロデューサー,"まぁ、そろそろ甘いものが欲しくなる時間帯──というか
+もしかして摩美々、お腹が空いてるのか？","Well, it's almost time for me to get something sweet I guess. Say,
+could it be that you're feeling hungry right now, Mamimi?"
+2005004020060,摩美々,"私は別に空いてないですケド
+でもプロデューサーが何か食べたいなら──","I'm not really hungry though.
+But, if there's something you'd like to eat, then maybe."
+0000000000000,プロデューサー,"あれ……？　ちょっと待ってくれ
+なんだか上手く話が流されてる気がする","Huh? Hold on.
+I feel like you're really steering the conversation in a certain direction."
+2005004020070,摩美々,……ちっ,Tch.
+0000000000000,プロデューサー,し、舌打ち……！？,D-Did you just click your tongue!?
+0000000000000,プロデューサー,"摩美々……やっぱり何か隠してるんだな……？
+そのノートに一体何が……","Mamimi, you're hiding something, don't you?
+What exactly is in that notebook?"
+2005004020080,摩美々,"……別にー
+ただの授業で使ってるノートですよー","Nothing.
+It's just a notebook I use for studying."
+0000000000000,プロデューサー,"なんだ、そうだったのか
+真面目じゃないか。どれ──","Oh, I see.
+Aren't you being studious? Let me have a look."
+2005004020090,摩美々,……！,......!
+0000000000000,プロデューサー,な、なんで隠すんだ！？,W-Why are you hiding it?
+2005004020100,摩美々,え、それはぁ……えっと……,"Umm, well... you see..."
+0000000000000,プロデューサー,（この様子……ただの授業ノートじゃないな！？）,"(Based on her reaction, it must not be just some study notes.)"
+select,,"俺へのイタズラ
+ノートだな！？","It's a note for
+pranking me!?"
+select,,"あっ、あそこに可愛い
+カメレオンが！","Look, there's a cute
+chameleon over there!"
+select,,"……
+本当は何のノート？","So, what exactly is
+that note for?"
+0000000000000,,//摩美々、プロデューサーの勘違いに乗っかり、誤魔化そうとする,//摩美々、プロデューサーの勘違いに乗っかり、誤魔化そうとする
+2005004020110,摩美々,"……！
+……バ、バレちゃいましたね～……","......!
+S-So, you found me out."
+0000000000000,プロデューサー,"やっぱりか……しかし、ノートにまとめるほど
+イタズラに力を入れていたとは……","I knew it. Still, putting all that
+thought into a prank to the extent of writing it down..."
+2005004020120,摩美々,…………,......
+0000000000000,プロデューサー,"参考までに教えてほしいんだが……
+どんなことが書いてあるんだ？","I just want to have an idea about that.
+So, what is written there?"
+2005004020130,摩美々,"……え
+それはぁ……えー……っとー……","Eh?
+It's... umm... well..."
+2005004020140,摩美々,"プロデューサーのスーツを……ビリビリにするとか……
+プロデューサーのイスを……解体するとかぁ……","Something like... tearing your suit...
+or... ruining your seat..."
+0000000000000,プロデューサー,は……破壊的だな……！,Wha... That's quite destructive of you!
+0000000000000,プロデューサー,"（摩美々……そんな突飛なことを考えるほど
+仕事に疲れていたのか……なんてことだ）",(Mamimi... She must be so tired from work seeing she's thinking of strange things like these. Unbelievable.)
+0000000000000,プロデューサー,"……摩美々。何も物を犠牲にすることない
+俺も、悩みを聞くくらいはできるからな……！","Mamimi, you really don't have to sacrifice those things.
+If you don't mind me listening to your problems, then please!"
+2005004020150,摩美々,"……そうですねー
+頼りにする可能性もなくなくもないですかねー","Right.
+Can't say that there's not a chance that I couldn't trust you with this."
+0000000000000,プロデューサー,"──ん？
+それって可能性ないってことじゃ……","Hmm?
+That not a chance that you couldn't?"
+2005004020160,摩美々,……とにかく,"Anyways,"
+2005004020170,摩美々,"これを見たらぁ、
+この中で１番すごいイタズラ、しますからねー？","If you look into this,
+I'm so going to do the worst prank here, okay?"
+2005004020180,摩美々,……それじゃー、失礼しまぁす,"Well, I'll be leaving now."
+2005004020190,摩美々,……誤魔化せて良かったぁ……,I'm so glad that I managed to deceive him.
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,"（１番すごい、イタズラ……
+どんなものなんだ……？）","(The worst prank...
+What could that be?)"
+2005004020200,摩美々,──えっ,Huh?
+0000000000000,プロデューサー,"隙あり！！
+……あ","Gotcha!!
+...Ah."
+2005004020210,摩美々,"ふふー
+そんな単純な罠に、引っかかるわけないじゃないですかぁ","Fufu.
+Do you really think I'd fall for such a simple trick?"
+0000000000000,プロデューサー,"くっ……そうか……
+じゃあ……それは何の教科のノートなんだ？","Tch... Okay.
+So, which subject is that notes for?"
+2005004020220,摩美々,……化学のノートでーす,Chemistry
+0000000000000,プロデューサー,ダウト！！,I doubt it!
+2005004020230,摩美々,……え,Eh?
+0000000000000,プロデューサー,"それが化学のノートであるはずはない
+なぜなら……","There's no way that that's for chemistry.
+After all,"
+0000000000000,プロデューサー,"摩美々は化学式のびっしり書かれたノートを見て
+あんなに嬉しそうな顔はしないからな！","You wouldn't look so happy
+going over chemical formulas!"
+2005004020240,摩美々,……！,......!
+2005004020250,摩美々,"……わ、私
+そんな顔してましたかぁ？","W-Was I really making
+that kind of face?"
+0000000000000,プロデューサー,"（……あれ、思ってた反応と違う……
+なんだか申し訳なくなってきたぞ……）","(Hold on, this is not the reaction I expected her to make.
+Now I'm feeling sorry...)"
+0000000000000,プロデューサー,"……あ、いや、その。大事なノートなんだな
+勝手に見ようとして悪かった……","Ah, no, still, that is an important notebook to you.
+I'm sorry for trying to look at it without asking you first."
+2005004020260,摩美々＆プロデューサー,…………,......
+2005004020270,摩美々,"……このノート、
+ファンの子からの寄せ書きなんですー","This is a messages
+collection I got from a fan."
+0000000000000,プロデューサー,"──えっ！　……そうだったのか
+摩美々がファンからのノートで……うんうん","Eh? I see now.
+It's from one of your fans. Yes."
+2005004020280,摩美々,"プロデューサー……顔、緩みすぎですよー
+……ふふー","Producer... You're grinning from ear to ear.
+Fufu."
+2005004020290,摩美々,"……だからぁ、授業のノートですよー
+プロデューサーには関係ないものですー","As I already told you, it's for my studies.
+This shouldn't concern you at all."
+0000000000000,プロデューサー,（あの焦りようは、そんなわけないよな……）,"(Seeing how she seems to be defensive about it, it couldn't be that.)"
+0000000000000,プロデューサー,"（まさか……俺には言えない何かを
+書き留めているのか……？）",(Wait... Maybe something is written down in it that she can't say to me?)
+2005004020300,摩美々,……？,Hm?
+2005004020310,摩美々,あの……大丈夫ですかぁ？,Uh... You alright?
+0000000000000,プロデューサー,"いや……すまん、俺には関係ないことだった……
+プライベートがあるのは当然だし、仕方ないよな……","No... Sorry, that doesn't concern me.
+You do have your own share of personal life, so it can't be helped."
+2005004020320,摩美々,"えー……
+そんな本気で落ち込まなくてもー……","Huh?
+You really don't have to be so down about it."
+2005004020330,摩美々,"……はぁ
+しかたない人ですねー……","Haa...
+You're so hopeless."
+2005004020340,摩美々,──はい,Here.
+0000000000000,プロデューサー,"これは……
+摩美々へのメッセージが書いてある……","This... has messages
+written for you."
+2005004020350,摩美々,"そーですよー
+ファンの子からの寄せ書きです","That's right.
+This is a messages collection I got from a fan."
+0000000000000,プロデューサー,"こんなものをもらったのか！
+良かったな摩美々……！　大事にしないとな！！","You even got one of these!
+Isn't that nice, Mamimi! You have to cherish that!"
+2005004020360,摩美々,"そうですねー。大事にして……
+もう事務所では開かないことにしまぁす","Yes, I will.
+And I would never open it again here in the office."
+2005004020370,摩美々,はぁ……無駄に疲れましたぁ……,Haa... That was pointlessly tiring...
+info,produce_events/200500402.json,
+译者,,
