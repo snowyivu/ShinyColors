@@ -1,0 +1,104 @@
+id,name,text,trans
+0000000000000,スタッフ,これで、本日分の撮影は終了でーす！,"With this, today shoot is over!"
+2002005030010,灯織,ありがとうございました！,Thank you very much!
+0000000000000,プロデューサー,灯織、お疲れ様！,"Hiori, thanks for your hard work!"
+2002005030020,灯織,"お疲れ様です
+あの、どうでしたか？","Thanks for your hard work
+Umm, Is something wrong?"
+0000000000000,プロデューサー,全体的に良くできていたよ,"No at all, It's all good in general."
+2002005030030,灯織,……なら、良かったです,"Then, it's fine."
+0000000000000,プロデューサー,少し休んだら、途中まで送っていくよ,"You can rest a bit, I’ll go with you midway through."
+2002005030040,灯織,いえ、大丈夫です、すぐに出れます,"No, I am fine, Let's just go."
+0000000000000,プロデューサー,無理はしなくて良いんだぞ,"It's better to not push yourself too hard, you know?"
+2002005030050,灯織,……あの、プロデューサー,Umm... Producer.
+2002005030060,灯織,"移動中に気になった場所がいくつかあって……
+なので、ちょっと見てみたいんです","I saw a few places that piqued
+my interest when coming here."
+2002005030070,灯織,……少しだけ……大丈夫ですか？,"If it's alright, can we go to where they are? Just a little bit... please?"
+0000000000000,プロデューサー,あぁ、好きな場所を言ってくれ,"Sure, just tell me where you saw them"
+2002005030080,灯織,！　ありがとうございます,Thank you very much!
+2002005030090,灯織,あ、あの辺り、今日の撮影で行ったところですね,"Ah, we did shoot around this part too, didn't we?"
+0000000000000,プロデューサー,"おぉ、別の場所から眺めるとまた違うな
+なかなか良い景色だ","Oh, if we look at it from different angle it looks like different place It's a good spot."
+2002005030100,灯織,あっちの方も綺麗ですよ、プロデューサー,"That part is also beautiful, Producer."
+2002005030110,灯織,ふふ、なんだか見ていて飽きないですね……,"Fufu, somehow it doesn't bore me out after seeing it so many times."
+0000000000000,プロデューサー,"そうだな！　ところで……ここまで結構歩いたけど
+平気か？　収録でもたくさん移動したし"," I agree! By the way... We walked quite a distance, are you alright? You already walked a lot during the shoot today, didn’t you?"
+2002005030120,灯織,はい、平気です,"Yes, I'm fine."
+2002005030130,灯織,これもレッスンの成果なんでしょうか,Maybe it’s because of the lessons.
+select,,"もちろん
+それもあるが……","Of course
+that's also true."
+select,,"灯織は
+頑張ってるからな","That's because Hiori
+also works hard."
+select,,"俺も疲れて
+いられないな","Then don't count
+me out yet."
+0000000000000,,"★選択肢①【もちろん
+それもあるが……】","★選択肢①【もちろん
+それもあるが……】"
+0000000000000,プロデューサー,もちろん、それもあるが……,Of course that's also true.
+0000000000000,プロデューサー,今日のロケを灯織が心から楽しんでたからじゃないかな,"Isn't it also because you like this place, Hiori?"
+2002005030140,灯織,そう、見えてましたか……！,Is that how it looks?
+2002005030150,灯織,"先日、楽しむのは良いことだと
+教えてもらったので","Before, you taught me that
+it's important to enjoy things as well..."
+2002005030160,灯織,楽しいと思う気持ちを大切にしてみたんです,I tried to enjoy things recently as well.
+0000000000000,プロデューサー,しっかり伝わってきたぞ,It already has borne fruit then.
+0000000000000,プロデューサー,……実はな、灯織,"Actually, Hiori,"
+0000000000000,プロデューサー,"さっきディレクターさんから
+次も是非オファーしたいって言われたんだ","The director already gave an offer
+to work with him again next time."
+2002005030170,灯織,……本当ですか！,Really!?
+0000000000000,プロデューサー,"あぁ、知的な印象の灯織の
+時折見せる無邪気な笑顔がすごく良いって","Yeah, he said that you gave a good impression and your expression was really good."
+0000000000000,プロデューサー,"番組のコンセプトにマッチしてるって
+絶賛してたんだ","It fit the program concept
+so he told me that."
+2002005030180,灯織,そうなんですか……？,Is that true...?
+0000000000000,プロデューサー,ああ,Yeah.
+2002005030190,灯織,"ふふ、自分の楽しいって気持ちが人に伝わるのって
+嬉しいですね","Fufu, so if I enjoy myself then everyone can also feel it, I am so happy..."
+2002005030200,灯織,"プロデューサー、素敵なアドバイスをありがとうございます
+この気持ち、これからも大切にしていきますね","Producer, thanks for your wonderful advice.
+This feeling, I will keep it dear in my heart."
+0000000000000,,"★選択肢②【灯織は
+頑張ってるからな】","★選択肢②【灯織は
+頑張ってるからな】"
+0000000000000,プロデューサー,灯織は頑張ってるからな,That's because Hiori also works hard.
+0000000000000,プロデューサー,その努力がしっかりと結果に結びついているんだろう,"That means your hard work also produces results, right?"
+2002005030210,灯織,ありがとうございます,Thank you very much.
+2002005030220,灯織,……,......
+0000000000000,プロデューサー,ん？　どうした？,Hm? what's wrong?
+2002005030230,灯織,"いえ、自分のことをよく見ている人に褒めてもらえると
+なんだか心が温かくなるなって……","Nothing, it's just... Being praised by someone who has been watching me all the time. It warms up my heart."
+0000000000000,プロデューサー,……はは、そうだな,"Haha, that may be right..."
+2002005030240,灯織,どうしたんですか？　……私、何か変なことを言いましたか,What's wrong? Did I say something weird?
+0000000000000,プロデューサー,ああ、いや、灯織と会った頃のことを思い出してな,"Ah, nothing, it just reminded me when we first met."
+0000000000000,プロデューサー,"きっとあの頃の灯織なら
+安易に褒めないでくださいって怒ると思ったんだ","If it's the old Hiori, she'll get angry and say ""Don’t randomly praise people""."
+2002005030250,灯織,あ、えっと……あの頃の私は、何というか……その……,"Ah, Umm... that old me was, how to say... uum..."
+2002005030260,灯織,思い出したら恥ずかしくなってきました……,"If I remember it back, it's embarrassing..."
+0000000000000,プロデューサー,"ああ、すまん！　
+そんなつもりで言ったわけじゃなかったんだ","Agh! sorry!
+I didn’t intend to embarrass you or anything..."
+2002005030270,灯織,大丈夫ですよ、わかってますから,"It's okay producer, I know."
+2002005030280,灯織,そういう話をしてくれるのも、信頼の証だってこと,"This conversation also shows, how much trust that we have built between each other."
+0000000000000,,"★選択肢③【俺も疲れて
+いられないな】","★選択肢③【俺も疲れて
+いられないな】"
+0000000000000,プロデューサー,俺も疲れていられないな,Then don't count me out yet.
+0000000000000,プロデューサー,灯織、行きたいところがあったらどんどん言ってくれ！,"Hiori, just tell me if you want to check out another place."
+2002005030290,灯織,"じゃあ、さっき見えたところ、良いですか？
+ちょっと遠そうですが","Then, the place that we saw earlier, is it fine to go there? It looks like It's a bit far."
+0000000000000,プロデューサー,よし、そこに行こう,"Yeah, let's go."
+2002005030300,灯織,ふふ、プロデューサーも楽しそうですね,"Fufu, it seems like you’re also having fun Producer."
+0000000000000,プロデューサー,"灯織の生き生きしている姿を見てるから
+その気分が俺にも伝わってるんだよ",It's rare for you to look excited and it tells me what you’re feeling too.
+0000000000000,プロデューサー,"やっぱり灯織の笑顔には
+人を楽しい気持ちにさせる力があるって、実感するな","As I thought, Hiori’s smile can also bring happiness to other people I experienced it myself now."
+2002005030310,灯織,そ、そんなこと……,"So, something like that..."
+2002005030320,灯織,……早く行きますよ、プロデューサー,"Let's get going, Producer."
+info,produce_events/200200503.json,
+译者,,

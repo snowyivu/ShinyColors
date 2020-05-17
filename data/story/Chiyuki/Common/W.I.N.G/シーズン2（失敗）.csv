@@ -1,0 +1,48 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","That's too bad... I thought that since you passed the first judging, you'd keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"However, reality is pretty harsh..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","For a new idol and new Producer, it wasn't too bad of a result."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！",I think that I can still keep going onwards. If only I had more ability...!
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","All it means is that if your ability is lacking, you need to keep growing together with her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます",...You're right. I'm going to meet her.
+7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+0000000000000,プロデューサー,"千雪、二次審査の結果だが……
+通過出来なかった","Chiyuki, the second round's results are...
+We didn't pass."
+7016001040010,千雪,"そうでしたか……
+私、このままではもっとご迷惑を──","Is that so...
+At this rate, I'll only continue being a nuisance so──"
+7016001040020,千雪,いえ、なんでもありません,"No, never mind."
+0000000000000,プロデューサー,"……千雪
+何を言いたいのかはわかってる","...Chiyuki.
+I understand what you're trying to say."
+0000000000000,プロデューサー,それは、この結果で決めることじゃないぞ,But that isn't a decision you should make based on this outcome.
+0000000000000,プロデューサー,"『W.I.N.G』が全てじゃない。今回のことに囚われず
+自分の本当にやりたいことをやってほしいんだ","W.I.N.G. isn't everything. I want you to do what you really want to
+do without being fixated on the result."
+7016001040030,千雪,プロデューサーさん……,Producer-san...
+7016001040040,千雪,"自分でも、わかってるんです
+いつまでも考えていられないこと……","I myself know that.
+It's something I can't keep thinking about forever..."
+7016001040050,千雪,"こうしている間は、
+たった一人の笑顔も生み出せないこと……","While I'm contemplating like this, it'll be hard to bring forth a smile on even a single person's face..."
+0000000000000,プロデューサー,千雪……,Chiyuki...
+0000000000000,プロデューサー,"俺は千雪の気持ちを応援する
+今の気持ちも","I'll support your feelings.
+That includes what you're feeling right now."
+7016001040060,千雪,プロデューサーさん……,Producer-san...
+0000000000000,プロデューサー,"待つことしかできないが、
+それは俺の応援だと思ってくれ","The only thing I can do right now is wait, but think of it as my way of supporting you."
+0000000000000,プロデューサー,"どういう結論になったとしても、
+俺はちゃんと一緒に考えるからな","Even if it's about how it'll all end, I'll be here to properly think about it with you, okay?"
+7016001040070,千雪,"はい……
+もう少しだけ、待っててください……！","Okay...
+Please wait for me, just a bit more...!"
+info,produce_events/701600104.json,
+译者,,

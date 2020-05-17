@@ -1,0 +1,33 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since she was able to pass the first round of judging, she'd be able to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is very relentless, isn't it..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","However, these results aren't bad for a new idol and new producer."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！","But I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+0000000000000,プロデューサー,"冬優子は事務所に来ていない
+けど、結果は伝えないとな……","Fuyuko didn't come to the office
+But I have to tell her the result..."
+0000000000000,プロデューサー,"本当は、会ってちゃんと伝えないといけないけど……
+メッセージを送っておくか","I wish I could meet her and tell her it properly, but...
+I'll just send a text."
+0000000000000,プロデューサー,『冬優子、結果は……』,"""Fuyuko, the result..."""
+0000000000000,プロデューサー,"！
+冬優子からの返事だ","!
+It's a reply from Fuyuko."
+7018001040010,冬優子,『ほら、やっぱり』,"""See, after all"""
+7018001040020,冬優子,『私にアイドルなんて無理だったんだ』,"""I couldn't be an idol."""
+0000000000000,プロデューサー,冬優子……,Fuyuko...
+0000000000000,プロデューサー,…………,.........
+0000000000000,プロデューサー,『俺の目に映る冬優子は、確かにアイドルだったよ』,"""In my eyes, Fuyuko for sure is an idol."""
+info,produce_events/701800104.json,
+译者,,
