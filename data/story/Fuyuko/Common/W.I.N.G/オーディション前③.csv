@@ -1,0 +1,24 @@
+id,name,text,trans
+4018001000130010,冬優子,"ふゆの出番、もうすぐみたいです……！
+出番前のアドバイス、お願いします……！","It's Fuyu's turn soon...!
+Please give me some advice before...!"
+0000000000000,プロデューサー,（アドバイスか……）,"(Advice, uhhh....)"
+select,,審査員を見つめよう,Look at the judges
+select,,ライバルにも注目だ,"Pay attention
+to the rivals too"
+select,,自分のことだけ考えよう,Focus on yourself
+4018001000130020,冬優子,"はい！　ふゆの想いが届くように、審査員さんを見て……
+いっぱい、頑張ってきますね！","Right! I will look at the judges so that Fuyu's feelings can reach them.
+I'll do my best!"
+0000000000000,プロデューサー,（よし、いい笑顔だ）,"(Alright, what a nice smile.)"
+4018001000130030,冬優子,"ライバル……
+ふゆにないところとか、きっと勉強になりますね！","Rivals huh...
+Fuyu can for sure learn something from them!"
+0000000000000,プロデューサー,（まあ、上手くやれそうかな）,"(Well, that went okay.)"
+4018001000130040,冬優子,"そ、そうですね……！
+レッスン通りにできれば……大丈夫ですよね……","R-Right...!
+If I just do it like on the lessons... it will surely go well..."
+0000000000000,プロデューサー,"（もうちょっと違うことを
+言えばよかったかな……）",(I should've said something else instead...)
+info,produce_communication_cheers/401800100013.json,
+译者,,

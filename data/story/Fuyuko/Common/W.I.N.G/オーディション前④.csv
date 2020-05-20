@@ -1,0 +1,24 @@
+id,name,text,trans
+4018001000210010,冬優子,"ねえ、あんた！
+ちょっとテンション上がるようなこと言いなさいよ！","Hey, you!
+Say something that will boost my mood a little!"
+0000000000000,プロデューサー,（テンションが上がる言葉か……）,(Words that would boost her mood...)
+select,,今日も冬優子は最高だ,"Fuyuko is the best
+as always"
+select,,いつも通りやろう,Do it as usual
+select,,油断はするなよ,"Don't let your
+guard down"
+4018001000210020,冬優子,"トーゼンでしょ！
+審査員の連中にも見せつけて、結果で証明してやるわ！","Of course!
+I'll show it to the judges and prove it by winning!"
+0000000000000,プロデューサー,（よし、いい笑顔になったな）,"(Alright, that made her smile.)"
+4018001000210030,冬優子,"あんた、それ真顔で言うからタチ悪いわよね……
+まあいいわ、頭の片隅くらいには入れといてあげる","You can say that with a straight face...
+Well okay, I'll keep that in mind."
+0000000000000,プロデューサー,（まあ、いつも通りのテンションかな）,"(Well, it's the usual mood huh...)"
+4018001000210040,冬優子,"そうね、いつも通りやれば、きっと大丈夫なんだから……
+慌てないように……","Right, if I do it as usual it will surely be fine...
+Just have to not panic..."
+0000000000000,プロデューサー,（か、かえって緊張させちゃったか……？）,(D-Did I make her nervous instead...?)
+info,produce_communication_cheers/401800100021.json,
+译者,,
