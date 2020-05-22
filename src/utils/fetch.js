@@ -1,5 +1,4 @@
 import config from '../config'
-import fixModule from './fixModule'
 
 const { origin } = config
 
@@ -61,7 +60,6 @@ const getHash = new Promise((rev, rej) => {
     fetchInfo.data = data
     config.newVersion = data.version
     config.hashes = data.hashes
-    fixModule(data.moduleId.INJECT)
     rev(data)
   }).catch(rej)
 })
