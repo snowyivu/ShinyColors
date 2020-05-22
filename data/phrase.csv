@@ -272,7 +272,7 @@ errorDialog.other,エラーが発生しました。\n\n何度も発生する場�
 errorDialog.timeout,通信中にエラーが発生しました。\n時間をおいてもう一度お試しください。,A communication error has occurred. \r\nPlease wait a short while before trying again.
 errorDialog.resourceDownloadError,通信中にエラーが発生しました。\nネットワーク環境をご確認の上\nもう一度お試しください。,A communication error has occurred. \r\nPlease check your network signal and try again.
 errorDialog.unavailableGasha,ガシャのラインナップが更新されました。,The available Gachas have been updated. 
-errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。
+errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。,"Failed to load resources.\r\nPlease verify your connection, and try reloading."
 errorDialog.sdkLoginLoadFailed,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n
 errorDialog.sdkLoginLoadFailedIOS10,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n
 errorDialog.sdkLoginLoadFailedApp,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n
@@ -1546,3 +1546,58 @@ produceAreaSelect.produceTeachingHintSettingConfirmationPopupTitle,研修設定�
 produceAreaSelect.produceTeachingHintSettingPopupTitle,研修設定,Training Settings
 individualRanking.breakTimePop.title,お休み時間設定,Rest Period Settings
 individualRanking.changeBreakTimePop.title,お休み時間変更,Change Rest Period
+producerBirthday.homeDialog.title,HAPPY BIRTHDAY,HAPPY BIRTHDAY
+producerBirthday.homeDialog.description,アイドルからのメッセージがあります\n%{name} に会いに行きますか？,アイドルからのメッセージがあります\n%{name} に会いに行きますか？
+producerBirthday.homeDialog.notification,誕生日のメッセージコミュを再生します,誕生日のメッセージコミュを再生します
+producerBirthday.homeDialog.notificationSecondLine,本日中はホーム画面のバナーから遷移することができます,本日中はホーム画面のバナーから遷移することができます
+producerBirthday.title,プロデューサー誕生日,Producer's Birthday
+producerBirthday.staffComment,お誕生日おめでとうございます♪\nみなさんからお祝いがあるそうですよ～,お誕生日おめでとうございます♪\nみなさんからお祝いがあるそうですよ～
+producerBirthday.confirmDialog.title,確認,Confirm
+producerBirthday.confirmDialog.description,%{name} に会いに行きますか？,%{name} に会いに行きますか？
+producerBirthday.confirmDialog.notification,誕生日のメッセージコミュを再生します,Watch Birthday Message
+producerBirthday.notBirthdayDialog.title,エラー,Error
+producerBirthday.notBirthdayDialog.description,誕生日期間が過ぎているため\nコミュを再生することができません,誕生日期間が過ぎているため\nコミュを再生することができません
+profile.pfRecommendTwoLines,名前を変更するには\nデータ連携が必要です,名前を変更するには\nデータ連携が必要です
+profile.birthdayNotSet,未設定,Not Set
+profile.birthdayFormat,m月d日,mm dd
+profile.birthdayEditDialog.title,プロデューサー誕生日設定,Set Producer's Birthday
+profile.birthdayEditDialog.description,誕生日を設定すると\nアイドルから誕生日を祝ってもらえます,誕生日を設定すると\nアイドルから誕生日を祝ってもらえます
+profile.birthdayEditDialog.birthday,誕生日,Birthday
+profile.birthdayEditDialog.dateFormat,d日,d
+profile.birthdayEditDialog.monthFormat,m月,m
+profile.birthdayEditDialog.notification,誕生日は月に1回まで変更できます,誕生日は月に1回まで変更できます
+profile.birthdayEditLeapDayDialog.title,確認,Confirm
+profile.birthdayEditLeapDayDialog.description,うるう年が入力されました,うるう年が入力されました
+profile.birthdayEditLeapDayDialog.notification,うるう年ではない年の場合、前日を誕生日とします,うるう年ではない年の場合、前日を誕生日とします
+profile.birthdayEditReachedUpdateLimitDialog.title,エラー,Error
+profile.birthdayEditReachedUpdateLimitDialog.description,変更可能な回数が最大に達しています,変更可能な回数が最大に達しています
+profile.birthdayEditReachedUpdateLimitDialog.notification,誕生日は月に1回まで変更できます,誕生日は月に1回まで変更できます
+profile.birthdayEditInvalidParamterDialog.description,日付の入力が不正です\n正しい日付を入力してください,日付の入力が不正です\n正しい日付を入力してください
+profile.birthdayEditSuccessDialog.title,プロデューサー誕生日,Producer's Birthday
+profile.birthdayEditSuccessDialog.birthdayFormat,m月d日,mm dd
+profile.birthdayEditSuccessDialog.textTop,プロデューサー誕生日を,Producer's Birthday
+profile.birthdayEditSuccessDialog.textBottom,に設定しました,Has Been Set
+ability.locked,未解放,Locked
+ability.shortageOfInspirations,不足,Not Enough
+ability.acquired,習得済み,Acquired
+ability.noSkillMessage,習得しているアビリティはありません,習得しているアビリティはありません
+ability.emptyNotice,習得可能なアビリティはありません,習得可能なアビリティはありません
+ability.confirmPop.title,アビリティ習得,Gain Ability
+ability.confirmPop.comment,以下の「ひらめき」を消費して\nアビリティを習得しますか？,以下の「ひらめき」を消費して\nアビリティを習得しますか？
+ability.releaseCommentText,%{comment}で解放,%{comment}で解放
+commonMenu.dataLinkPop.titleForAppleLinked,enza連携,Link Enza
+idolList.infoSwitch.wing,デフォルト(W.I.N.G.用),Default (W.I.N.G.)
+idolList.infoSwitch.fan_meeting,アイデア(ファン感謝祭用),Idea (Fan Fest)
+idolList.infoSwitch.3rd_produce_area,ひらめき(G.R.A.D.用),Insight (G.R.A.D.)
+header.ability,アビリティ習得,Learn Ability
+header.abilityViewMode,アビリティ一覧,Ability List
+header.produceBlock,ブロック選択,Select Block
+produceBlock.confirmPop.title,確認,Confirm
+produceBlock.confirmPop.description,シーズン%{seasonNum}のプロデュース先に\n%{blockName}を選択しますか？,シーズン%{seasonNum}のプロデュース先に\n%{blockName}を選択しますか？
+produceBlock.confirmPop.notice,選択したブロックはシーズン終了まで変更できません,選択したブロックはシーズン終了まで変更できません
+produceAction.surplusInspirationDialog.title,ひらめき獲得,Gain Inspiration
+produceAction.surplusInspirationDialog.descriptions.first,獲得できるひらめきが上限枠を超えました,You can't store more than the Inspiration cap
+produceAction.surplusInspirationDialog.descriptions.second.left,獲得するひらめきを,Please Select
+produceAction.surplusInspirationDialog.descriptions.second.center,%{acquirableNum}つ,%{acquirableNum}x
+produceAction.surplusInspirationDialog.descriptions.second.right,選択してください,Inspirations to Get
+produceSeasonResult.season,シーズン%{seasonNum},Season %{seasonNum}

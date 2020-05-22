@@ -28,11 +28,13 @@ id,name,text,trans
 2009006020110,果穂,"いいんですかっ！？
 プロデューサーさんはお仕事が……"," Is that really alright!? What about your work Producer..."
 0000000000000,プロデューサー,"いや、朝一の仕事は終わらせてきたし、
-それに……","It's fine, I'm done with all my morning work. Besides...
-"
-select,,協力技だ！,Cooperation technique!
-select,,果穂と同じ気持ちなんだ,I feel the same as you Kaho.
-select,,果穂を手伝いたい,I want to help you Kaho.
+それに……","It's fine, I'm done with all my morning work. Besides..."
+select,,協力技だ！,"Cooperation
+technique!"
+select,,果穂と同じ気持ちなんだ,"I felt the same
+as you, Kaho."
+select,,果穂を手伝いたい,"I want to help
+you, Kaho."
 0000000000000,プロデューサー,協力すれば、きっとあっという間に終わるはずだぞ！,"If we work together, we should be able to finish this up in the blink of an eye!"
 2009006020120,果穂,"きょう・りょく・わざ……！
 カッコいいです！","Cooperation technique...! That sounds so cool! "
@@ -76,8 +78,7 @@ select,,果穂を手伝いたい,I want to help you Kaho.
 みんなのやる気が満々になる事務所にしてみせますっ","I want to work together with Producer to create an office where everyone is full of motivation! "
 0000000000000,プロデューサー,果穂だって、いつも俺の仕事を手伝ってくれるだろ？,"You always help me with my work, right Kaho? "
 2009006020250,果穂,"で、でも、あたしはいっつも、
-プロデューサーさんのお世話になってるから……","B-But you're always helping me out Producer...
-"
+プロデューサーさんのお世話になってるから……",B-But you're always helping me out Producer...
 0000000000000,プロデューサー,"それは俺も同じだよ
 だから、俺にも果穂の手伝いをさせてくれ","I feel the same way as you, so let me help you Kaho. "
 2009006020260,果穂,"プロデューサーさん……
