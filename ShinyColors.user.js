@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.11.11
+// @version      0.11.12
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -483,7 +483,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.11.11";
+	var version = "0.11.12";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -594,17 +594,15 @@
 	window.addEventListener('hashchange', getConfigFromHash);
 
 	const fixModule = (param = {}) => {
-	  let source = ["var n=window.csobb3pncbpccs;", "Object.freeze({addHeader:"];
-	  let result = ["var n=window.csobb3pncbpccs;window._require=t;", "({addHeader:"];
+	  let source = "var n=window.csobb3pncbpccs;";
+	  let result = "var n=window.csobb3pncbpccs;window._require=t;";
 	  if (param.source) source = param.source;
 	  if (param.result) result = param.result;
 	  const win = window.unsafeWindow || window;
 	  win.eval = new Proxy(win.eval, {
 	    apply(target, context, args) {
-	      for (let i = 0; i < source.length; i++) {
-	        if (args[0] && args[0].includes(source[i])) {
-	          args[0] = args[0].replace(source[i], result[i]);
-	        }
+	      if (args[0] && args[0].includes(source)) {
+	        args[0] = args[0].replace(source, result);
 	      }
 
 	      return Reflect.apply(target, context, args);
@@ -864,6 +862,7 @@
 	  let md = await getModule('REQUEST', module => {
 	    return module.get && module.post && module.put && module.patch;
 	  });
+	  md = Object.assign({}, md);
 	  return md;
 	};
 
