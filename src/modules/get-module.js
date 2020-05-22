@@ -61,6 +61,7 @@ const getRequest = async () => {
   let md = await getModule('REQUEST', (module) => {
     return module.get && module.post && module.put && module.patch
   })
+  md = Object.assign({}, md)
   return md
 }
 
