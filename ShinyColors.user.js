@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.11.8
+// @version      0.11.9
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -483,7 +483,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.11.8";
+	var version = "0.11.9";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
@@ -593,68 +593,98 @@
 	getConfigFromHash();
 	window.addEventListener('hashchange', getConfigFromHash);
 
+	const fixModule = (param = {}) => {
+	  let source = 'var n=window.csobb3pncbpccs;';
+	  let result = 'var n=window.csobb3pncbpccs;window._require=t;';
+	  if (param.source) source = param.source;
+	  if (param.result) result = param.result;
+	  const win = window.unsafeWindow || window;
+	  win.eval = new Proxy(win.eval, {
+	    apply(target, context, args) {
+	      if (args[0] && args[0].includes(source)) {
+	        args[0] = args[0].replace(source, result);
+	      }
+
+	      return Reflect.apply(target, context, args);
+	    }
+
+	  });
+
+	  win.eval.toString = () => 'function eval() { [native code] }';
+	};
+
 	const {
 	  origin
 	} = config;
+
+	const saveManifest = async () => {
+	  const t = Math.floor(Date.now() / 1000 / 60 / 60 / 6);
+	  const res = await fetch(`${origin}/manifest.json?t=${t}`);
+
+	  if (res.ok) {
+	    const data = await res.json();
+	    data.time = Date.now();
+	    localStorage.setItem('sczh:manifest', JSON.stringify(data));
+	    return data;
+	  } else {
+	    throw new Error(`${res.status} ${res.url}`);
+	  }
+	};
+
+	const getManifest = async () => {
+	  let data;
+
+	  try {
+	    let str = localStorage.getItem('sczh:manifest');
+	    if (str) data = JSON.parse(str);
+	    if (Date.now() - data.time > config.cacheTime * 60 * 1000) data = false;
+	  } catch (e) {}
+
+	  if (!data) {
+	    data = await saveManifest();
+	  } else {
+	    setTimeout(saveManifest, 5 * 1000);
+	  }
+
+	  return data;
+	};
+
 	let fetchInfo = {
-	  status: 'init',
-	  result: false,
 	  data: null
 	};
 
-	const tryFetch = async () => {
-	  if (fetch) {
-	    try {
-	      const res = await fetch(`${origin}/manifest.json`);
-	      const data = await res.json();
-	      fetchInfo.data = data;
-	      fetchInfo.result = true;
-	    } catch (e) {}
-	  }
-
-	  fetchInfo.status = 'finished';
-	};
-
 	const request = async pathname => {
-	  if (fetchInfo.result) {
-	    return new Promise((rev, rej) => {
-	      let timer = setTimeout(() => {
-	        rej(`加载${pathname}超时`);
-	      }, config.timeout * 1000);
-	      fetch(`${origin}${pathname}`).then(res => {
-	        clearTimeout(timer);
-	        const type = res.headers.get('content-type');
+	  return new Promise((rev, rej) => {
+	    let timer = setTimeout(() => {
+	      rej(`加载${pathname}超时`);
+	    }, config.timeout * 1000);
+	    fetch(`${origin}${pathname}`).then(res => {
+	      clearTimeout(timer);
 
-	        if (type && type.includes('json')) {
-	          return res.json();
-	        }
+	      if (!res.ok) {
+	        rej(`${res.status} ${res.url}`);
+	        return '';
+	      }
 
-	        return res.text();
-	      }).then(rev).catch(rej);
-	    });
-	  } else {
-	    return await fetchData(pathname);
-	  }
+	      const type = res.headers.get('content-type');
+
+	      if (type && type.includes('json')) {
+	        return res.json();
+	      }
+
+	      return res.text();
+	    }).then(rev).catch(rej);
+	  });
 	};
 
 	const getHash = new Promise((rev, rej) => {
-	  if (fetchInfo.status !== 'finished') {
-	    tryFetch().then(() => {
-	      const beforeStart = data => {
-	        config.newVersion = data.version;
-	        config.hash = data.hash;
-	      };
-
-	      if (fetchInfo.result) {
-	        beforeStart(fetchInfo.data);
-	        rev(fetchInfo.data);
-	      } else {
-	        rej('Network Error');
-	      }
-	    }).catch(rej);
-	  } else {
-	    rev(fetchInfo.data.hash);
-	  }
+	  getManifest().then(data => {
+	    fetchInfo.data = data;
+	    config.newVersion = data.version;
+	    config.hashes = data.hashes;
+	    fixModule(data.moduleId.INJECT);
+	    rev(data);
+	  }).catch(rej);
 	});
 
 	const fetchWithHash = async pathname => {
@@ -830,10 +860,10 @@
 
 	const getRequest = async () => {
 	  let md = await getModule('REQUEST', module => {
-	    return module.default && module.default.get && module.default.post && module.default.put && module.default.patch;
+	    return module.get && module.post && module.put && module.patch;
 	  });
-	  md.default = Object.assign({}, md.default);
-	  return md.default;
+	  md = Object.assign({}, md);
+	  return md;
 	};
 
 	const getPhraseMd = async () => {
@@ -1527,18 +1557,12 @@
 	async function watchText() {
 	  let aoba = await getAoba();
 	  if (!aoba) return;
-	  commMap = await getCommMap();
-	  typeTextMap$1 = await getTypeTextMap();
-	  const Text = new Proxy(aoba.Text, {
-	    construct(target, args, newTarget) {
-	      const text = args[0];
-	      const option = args[1];
-	      if (SHOW_UPDATE_TEXT) log('new text', ...args);
-	      args[0] = fontCheck(text, option);
-	      return Reflect.construct(target, args, newTarget);
-	    }
 
-	  }); // watch typeText
+	  try {
+	    commMap = await getCommMap();
+	    typeTextMap$1 = await getTypeTextMap();
+	  } catch (e) {} // watch typeText
+
 
 	  const originTypeText = aoba.Text.prototype.typeText;
 
@@ -1559,17 +1583,6 @@
 	      return originUpdateText.call(this, t);
 	    }
 	  };
-
-	  GLOBAL.aoba = new Proxy(aoba, {
-	    get(target, name, receiver) {
-	      if (name === 'Text') {
-	        return Text;
-	      }
-
-	      return Reflect.get(target, name, receiver);
-	    }
-
-	  });
 	}
 
 	const autoTransCache = new Map();
@@ -10221,20 +10234,6 @@
 
 	keepBgm();
 
-	const win$1 = window.unsafeWindow || window;
-	win$1.eval = new Proxy(win$1.eval, {
-	  apply(target, _this, [code]) {
-	    if (code.includes('var n=window.primJsp;')) {
-	      code = code.replace('var n=window.primJsp;', 'var n=window.primJsp;window._require=t;');
-	    }
-
-	    return Reflect.apply(target, _this, [code]);
-	  }
-
-	});
-
-	win$1.eval.toString = () => 'function eval() { [native code] }';
-
 	const main = async () => {
 	  try {
 	    await Promise.all([resourceHook(), addFont(), transPhrase(), watchText(), requestHook(), transScenario()]);
@@ -10246,13 +10245,15 @@
 	let waitCount = 0;
 
 	const start = async () => {
-	  if ((window.unsafeWindow && window.unsafeWindow.ezg || window.ezg) && waitCount < 300) {
+	  const win = window.unsafeWindow || window;
+
+	  if (win._require || waitCount >= 300) {
+	    main();
+	  } else {
 	    await sleep(100);
 	    waitCount++;
 	    if (waitCount % 10 === 0) log(`Waiting: ${waitCount / 10}s`);
 	    await start();
-	  } else {
-	    main();
 	  }
 	};
 
