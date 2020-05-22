@@ -4,6 +4,7 @@ import requestHook from './modules/request'
 import resourceHook from './modules/resourse'
 import transScenario from './modules/scenario'
 import addFont from './utils/fontFace'
+import fixModule from './utils/fixModule'
 import './utils/keepBgm'
 import { log, sleep } from './utils/index'
 
@@ -20,6 +21,8 @@ const main = async () => {
     log(e)
   }
 }
+
+fixModule();
 
 let waitCount = 0
 const start = async () => {
