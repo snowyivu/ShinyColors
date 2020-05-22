@@ -593,26 +593,6 @@
 	getConfigFromHash();
 	window.addEventListener('hashchange', getConfigFromHash);
 
-	const fixModule = (param = {}) => {
-	  let source = "var n=window.csobb3pncbpccs;";
-	  let result = "var n=window.csobb3pncbpccs;window._require=t;";
-	  if (param.source) source = param.source;
-	  if (param.result) result = param.result;
-	  const win = window.unsafeWindow || window;
-	  win.eval = new Proxy(win.eval, {
-	    apply(target, context, args) {
-	      if (args[0] && args[0].includes(source)) {
-	        args[0] = args[0].replace(source, result);
-	      }
-
-	      return Reflect.apply(target, context, args);
-	    }
-
-	  });
-
-	  win.eval.toString = () => 'function eval() { [native code] }';
-	};
-
 	const {
 	  origin
 	} = config;
@@ -682,7 +662,6 @@
 	    fetchInfo.data = data;
 	    config.newVersion = data.version;
 	    config.hashes = data.hashes;
-	    fixModule(data.moduleId.INJECT);
 	    rev(data);
 	  }).catch(rej);
 	});
@@ -862,7 +841,6 @@
 	  let md = await getModule('REQUEST', module => {
 	    return module.get && module.post && module.put && module.patch;
 	  });
-	  md = Object.assign({}, md);
 	  return md;
 	};
 
@@ -10223,6 +10201,26 @@
 	  document.head.appendChild(tag);
 	};
 
+	const fixModule = () => {
+	  let source = ["var n=window.csobb3pncbpccs;", "Object.freeze({addHeader:"];
+	  let result = ["var n=window.csobb3pncbpccs;window._require=t;", "({addHeader:"];
+	  const win = window.unsafeWindow || window;
+	  win.eval = new Proxy(win.eval, {
+	    apply(target, context, args) {
+	      for (let i = 0; i < source.length; i++) {
+	        if (args[0] && args[0].includes(source[i])) {
+	          args[0] = args[0].replace(source[i], result[i]);
+	        }
+	      }
+
+	      return Reflect.apply(target, context, args);
+	    }
+
+	  });
+
+	  win.eval.toString = () => 'function eval() { [native code] }';
+	};
+
 	const keepBgm = () => {
 	  window.addEventListener('blur', function (e) {
 	    if (config.bgm === 'on') e.stopImmediatePropagation();
@@ -10242,6 +10240,7 @@
 	  }
 	};
 
+	fixModule();
 	let waitCount = 0;
 
 	const start = async () => {
