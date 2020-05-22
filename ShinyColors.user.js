@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ShinyColorsEng
 // @namespace    https://github.com/snowyivu/ShinyColors
-// @version      0.11.10
+// @version      0.11.11
 // @description  For questions or submitting translations https://github.com/snowyivu/ShinyColors
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
@@ -483,7 +483,7 @@
 
 	var isPlainObject_1 = isPlainObject;
 
-	var version = "0.11.10";
+	var version = "0.11.11";
 
 	const PREVIEW_COUNT = 5;
 	const config = {
