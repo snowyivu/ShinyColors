@@ -59,10 +59,9 @@ const getScMd = async () => {
 
 const getRequest = async () => {
   let md = await getModule('REQUEST', (module) => {
-    return module.default && module.default.get && module.default.post && module.default.put && module.default.patch
-  }) 
-  md.default = Object.assign({}, md.default);
-  return md.default
+    return module.get && module.post && module.put && module.patch
+  })
+  return md
 }
 
 const getPhraseMd = async () => {
