@@ -43,9 +43,13 @@ id,name,text,trans
 2009006030150,果穂,ど、どうですか、プロデューサーさん……！,"H-How is it Producer? "
 0000000000000,プロデューサー,"そうだな……
 このスケジュール帳……",Well now... Your schedule book...
-select,,俺も見習わないとな,"I should be following your example. "
-select,,シールが可愛いな,"The stickers are cute. "
-select,,いつから使ってるんだ？,"How long have you been using it for? "
+select,,俺も見習わないとな,"I should be
+following your
+example. "
+select,,シールが可愛いな,"The stickers
+are cute."
+select,,いつから使ってるんだ？,"How long have you
+been using it for? "
 2009006030160,果穂,えっ、プロデューサーさんがあたしを……ですか！？,"What? You want follow what I'm doing Producer? "
 0000000000000,プロデューサー,"ああ
 このノート、しっかりと情報が整理されてるんだ","Ah, your notebook is well organized with it's information. "
