@@ -134,6 +134,7 @@ VERYHARD,VERYHARD,noun
 アンティーカ,L'Antica,noun
 アルストロメリア,Alstromeria,noun
 ストレイライト,Straylight,noun
+ノクチル,Noctchill,noun
 完全掌握,Complete Control,noun
 フェスマスター,Fes Master,noun
 パーフェクトライブ,Perfect Live,noun
@@ -270,3 +271,6 @@ $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 ゲームにログインしよう,Log into the game,exp
 プロフィールで誕生日を設定しよう！,Set your birthday on your profile!,exp
 予選オーディションに合格しよう,Pass the Prelim Audition,exp
+【$note】G.R.A.D.をクリアしよう,【$1】Clear G.R.A.D.,exp
+【$note】G.R.A.D.を優勝しよう,【$1】Win the G.R.A.D. Championship,exp
+【$unknown】$nameを編成して シーズン$numをクリアしよう,"With 【$1】$2 in the unit, clear Season $3",exp
