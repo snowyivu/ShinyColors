@@ -274,7 +274,7 @@ My stomach... is rumbling..."
 ふゆなんて、こんなものよ,ふゆなんて、こんなものよ
 またみんなで来ようね！\nお仕事じゃなかったら、\nプロデューサーも遊べるでしょ？,またみんなで来ようね！\nお仕事じゃなかったら、\nプロデューサーも遊べるでしょ？
 まだまだ……\n成すべきことが……あるのでしょう……,まだまだ……\n成すべきことが……あるのでしょう……
-もうすぐ……発売日……\n甜花の大好きな……超大作シリーズの、新作……\nだから、今日のお仕事は……いっぱい、頑張る……！,"Soon... It's coming out...\nTenka's favorite... popular series, new release...\nThat's why, today's work... Tenka will do her best...!"
+"Soon……It's coming out……\nTenka's favorite……popular series, new release……\nThat's why, today's work……Tenka'll do her best……！","Soon... It's coming out...\nTenka's favorite... popular series, new release...\nThat's why, today's work... Tenka will do her best...!"
 トップアイドルを目指すなら、くじけていられないわね！,トップアイドルを目指すなら、くじけていられないわね！
 ファンのみなさんの笑顔、とてもよく見えました\nきっと、感謝の気持ち、届きましたよね……！,ファンのみなさんの笑顔、とてもよく見えました\nきっと、感謝の気持ち、届きましたよね……！
 プロデューサープロデューサー。余計なお世話かなーとは\n思うんだけどさ、根詰めすぎないようにね？\n……三峰だって、大事な人の心配ぐらいするんだから,プロデューサープロデューサー。余計なお世話かなーとは\n思うんだけどさ、根詰めすぎないようにね？\n……三峰だって、大事な人の心配ぐらいするんだから
@@ -884,7 +884,7 @@ why don't you try participating in Fes!"
 蒼い光に照らされて、私はどこ\nまでも輝いていきます。プロデ\nューサー、見ててください,"Illuminated by this blue light, I can shine anywhere.\nProducer, please watch over me."
 ほら、プロデューサー、\n一緒に行きましょう,"Come on, Producer,\nlet's go together."
 このまま行きますよ！\n最後まで私に\nついてきてください！,Let's keep going!\nPlease follow me until the end!
-プロデューサー！　わたしね、\nプロデューサーが見ててくれる\nと、いーっぱい頑張れるんだ！,"Come on, Producer,\nlet's go together."
+プロデューサー！　わたしね、\nプロデューサーが見ててくれる\nと、いーっぱい頑張れるんだ！,プロデューサー！　わたしね、\nプロデューサーが見ててくれる\nと、いーっぱい頑張れるんだ！
 ステージでわたしの『楽しい』\nを歌うから！　プロデューサー\nも聴いててね──！,ステージでわたしの『楽しい』\nを歌うから！　プロデューサー\nも聴いててね──！
 夏の恋は……\n太陽みたいに眩しいのかな？\nあ、夏が過ぎたらどうなるの？,夏の恋は……\n太陽みたいに眩しいのかな？\nあ、夏が過ぎたらどうなるの？
 わたしね、星みたいに……\n……でも星よりも近くで、\nみんなを照らす光になりたい！,わたしね、星みたいに……\n……でも星よりも近くで、\nみんなを照らす光になりたい！
@@ -932,7 +932,7 @@ why don't you try participating in Fes!"
 キラキラのシャボン玉……\nプロデューサーさんとだと、いつもよりキラキラして見えます,キラキラのシャボン玉……\nプロデューサーさんとだと、いつもよりキラキラして見えます
 紅蓮の英雄団長、小宮果穂！\n流星マメ丸号は、スッゴく速くて……とにかくスゴいんです！,紅蓮の英雄団長、小宮果穂！\n流星マメ丸号は、スッゴく速くて……とにかくスゴいんです！
 プロデューサーさん\n見守っていてくれますか？,プロデューサーさん\n見守っていてくれますか？
-鳩さんとのんびりお話して\n一緒にいるのは、すごく\n楽しいんです,鳩さんとのんびりお話して\n一緒にいるのは、すごく\n楽しいんです
+鳩さんとのんびりお話して\n一緒にいるのは、すごく\n楽しいんです,"I had a peaceful chat with a pidgeon, it was quite pleasant."
 プロデューサーさんと\n一緒ならどこまでも頑張れ\nそうです,プロデューサーさんと\n一緒ならどこまでも頑張れ\nそうです
 はむっ……うん\nチョコ、甘くておいしいです！,はむっ……うん\nチョコ、甘くておいしいです！
 最近見つけた\nとってもおいしいチョコの\n食べ方なんですけど……,最近見つけた\nとってもおいしいチョコの\n食べ方なんですけど……
@@ -1835,11 +1835,19 @@ Use your common sense!"
 ……えっ,...Eh.
 え？\n──どしたの,Huh?\n──What's wrong?
 ……樋口円香です\nよろしくお願いします,...I'm Madoka Higuchi.\nNice to meet you.
-笑っておけばなんとなかる\nアイドルって楽な商売,As long as you smile you'll make\nit. Being an idol is an easy\noccupation.
-クレイジーな人ですね\n勝算のない賭けに興じるなんて,You're crazy. Amusing yourself by betting on someone with no chance of success.
+笑っておけばなんとかなる\nアイドルって楽な商売,As long as you smile you'll make it. Being an idol is an easy occupation.
+クレイジーな人ですね\n勝算のない賭けに興じるなんて,You must be crazy to enjoy betting against all the odds.
 うわ……,Ew...
 ……好奇心は猫を？,...What did curiosity\ndo to the cat?
 離れて、変態,"Get away from me, pervert."
+努力に意味とかないですよ\nそれを褒めるのって身内だけでしょ？\n……私は結果がまあまあなら十分です,"Effort isn't worth praise, unless it's someone close to you. ...For me a passable result is good enough."
+心外、私が喜ぶとでも？,Unbelievable. Did you think I'd like that?
+……で？,...And?
+ガラスの向こうから見つめないで\n一緒に溺れる気もないくせに,"Don't stare at me from the other side of the glass, if you're not prepared to drown together."
+少し割れた貝殻に耳をあてて\n碧い風の音を聞く\nそれだけ,I put a broken seashell to my ear and listen to the sound of the deep blue wind. That's all.
+ダメ,Not happening.
+別に屋上から街を見ていただけです。暇だったから。……あなたはすべての行動に理由があるの？,"Just looking at the city from the roof, had nothing else to do. ...Do you need a reason for everything?"
+あそこに廃墟があるでしょ。ああいうのを見ると、それが建てられた日のことを思う。……思わない？　そう,See those abandoned buildings?\nI always think about the day they were built. ...You don't? I see.
 みんな、わたしがいないとだめなんですよー！,Everyone wouldn't be able\nto do anything without\nme!
 ぴゃ……！？\nぷ、プロデューサーさん……,Pyah...!?\nP-Producer...
 い、いえ！　わたしはよゆーですよ\n全然平気です！,"N-No! I'm fine,\nperfectly fine!"
@@ -1849,3 +1857,45 @@ Use your common sense!"
 いい記事を書いてもらえそうだ！\nこれでお願いしようかな？,I think this would be a good article!\nShould I request this?
 たぶん大丈夫だろう\nこれでお願いしようかな？,That's probably okay.\nShould I request this?
 ちょっと心配だけど……\nこれでお願いしようかな？,I'm a little worried...\nShould I request this?
+プロデューサーさんの手、とっても\nあったかくて……撫でてもらうと眠く\nなっちゃいそうです,プロデューサーさんの手、とっても\nあったかくて……撫でてもらうと眠く\nなっちゃいそうです
+撫でるの？　どうぞだよー！\nでも、髪結び直す時は、プロデューサーにやってほしいなっ！,撫でるの？　どうぞだよー！\nでも、髪結び直す時は、プロデューサーにやってほしいなっ！
+透ちゃん……\n何が欲しいかわからなくて\nいつものお菓子に……,透ちゃん……\n何が欲しいかわからなくて\nいつものお菓子に……
+ふふ……はい……,Fufu... Yes...
+っと……\n……いや、頭に触れられるのは\nあまり慣れてなくてね,っと……\n……いや、頭に触れられるのは\nあまり慣れてなくてね
+なっ……\nいえ、嫌なんじゃなくて……\n……恥ずかしいです,なっ……\nいえ、嫌なんじゃなくて……\n……恥ずかしいです
+えへへっ……\nプロデューサーさんの手\nあったかくて……安心……,えへへっ……\nプロデューサーさんの手\nあったかくて……安心……
+やめて！\n……──て、あ、ごめん……\nあはは、慣れてなくてさ……,やめて！\n……──て、あ、ごめん……\nあはは、慣れてなくてさ……
+……ねぇ、なんのつもり？,……ねぇ、なんのつもり？
+……ごめん\nプロデューサーさんでも\nこれは……ダメ……,"Sorry, Producer... But what you did... wasn't nice..."
+えっ……と、何か嫌なことでもありました……か？　いえ、だからって許せな……ええと……,えっ……と、何か嫌なことでもありました……か？　いえ、だからって許せな……ええと……
+はい……\n凛世の……心は……\nここに……,Yes... Rinze's heart... is here...
+あの……\nふふ……嬉しいです……,Uhm... Fufu... I'm happy...
+わたしも……\n聴かせてください……\nどきん……どきん……,わたしも……\n聴かせてください……\nどきん……どきん……
+ほわっ\nぷ、プロデューサーさん……っ\nあのっ……や、やめてください,ほわっ\nぷ、プロデューサーさん……っ\nあのっ……や、やめてください
+にへへ……\n甜花、頑張った……\nだから……もっと……,にへへ……\n甜花、頑張った……\nだから……もっと……
+これ……\nなーちゃん、言ってた……\n変なこと……？,これ……\nなーちゃん、言ってた……\n変なこと……？
+んふふ～！\nうちの髪、ふわふわで\n気持ちよかやろ～？,んふふ～！\nうちの髪、ふわふわで\n気持ちよかやろ～？
+わっ\nご、ごめん～！\nぶつかった～！？,Wah! S-Sorry~! Did I bump into you~!?
+もう、わざとでしょー！\nそういうの、あんまりやると\n嫌われちゃうんだよー？,"Hey, that was on purpose! If you touch me too much I'll hate you for it, got it?"
+まさか！\nまた色落ちしてきてる\nカンジ！？,"Honestly! My color's going to fade again, y'know!?"
+撫でんのはいいけどさ～\nセットが崩れないくらいで\nヨロシクね～♪,"Hey, it's fine to touch it~ My hair won't get messed up. Treat me well~♪"
+プロデューサーに褒めてもらえると、\n調子乗っちゃうじゃん～？　けど……\nアイドルも地道な努力が大切なんだね,プロデューサーに褒めてもらえると、\n調子乗っちゃうじゃん～？　けど……\nアイドルも地道な努力が大切なんだね
+許してあげたいけどさぁ\n……これはちょっと無理～,I want to forgive you but... forgiving that is pretty impossible~
+うち、わざとなら\nフツーにキレるけど？,"If that was intentional, I definitely won't let it slide."
+ぴぇ！？　や、やった……！\n──あっ、い、いえ……！\nこのくらい当然です！,ぴぇ！？　や、やった……！\n──あっ、い、いえ……！\nこのくらい当然です！
+は～い♡\n市川雛菜、高校１年生です～～～,"Yes♡\nI'm Hinana Ichikawa, a freshmen highschool student~~~"
+雛菜はね、\n雛菜がしあわせ～って思えることだけでいいの,雛菜はね、\n雛菜がしあわせ～って思えることだけでいいの
+それじゃあプロデューサーは\n雛菜に集中しててね～？,"Then, shouldn't Producer focus on Hinana~?"
+あは～、プロデューサーって\nいつも雛菜のことで\n雛菜よりうれしそうだね～？,"Aha~, Producer's always thinking about Hinana, and that makes Hinana happy, yknow~?"
+ん～～～？\nなんですか～？,Mnnn~? What is it~?
+……へ～？,...Eh~?
+え～？\n何か付いてた～？,Eh~?\nWhy are you being so clingy~?
+雛菜、今日は\n透先輩のお誕生日しか\nしないからね～～～？,"Only for today, Hinana will be celebrating Toru-senpai's birthday, okay~?"
+面白いこと！　\nもっと！\nもっと！,An interesting thing! Give me more! More!
+あはは！\nプロデューサーさん\n撫でるの上手いっすね！,"Ahaha! Producer,\nyou sure are skilled at patting!"
+ふゆならこれぐらいできて当たり前\n──って何よ、その不満そうな顔は\n喜べって？　……甘やかさないでよね,"In that case, Fuyu is always reasonable──\nWhat's with that face?\nCan you not? ...Don't try spoiling me."
+……もしかしてー\nプロデューサーも頭撫でて欲しいんですかぁ？　ふふー,"...Perhaps, you want to be patted too? Fufu."
+ふふ、サラサラでしょ\nこれでも結構\n気を遣ってるんだから,ふふ、サラサラでしょ\nこれでも結構\n気を遣ってるんだから
+……ふゆ、自分の\nプロデューサーが逮捕なんて話\n聞きたくないんだけど,"Fuyu herself, doesn't want to ever hear about your arrest."
+ひゃわ……っ！\n……あんた、今の聞いた？\n聞いたんなら忘れなさい今すぐ,"Hyah...! Did you hear that...? If you did, please forget about it right now."
+──優しいです、それは……\nずるいです……,"You were being gentle, but... You were acting sly as well..."

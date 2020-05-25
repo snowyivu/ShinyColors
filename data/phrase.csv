@@ -5,7 +5,7 @@ announce.noticeLabel.update,すべてのお知らせ,All Announcements
 announce.noticeLabel.problem,メンテナンス・不具合情報,Maintenance・Issues News
 announce.noticeLabel.contents,コンテンツ情報,Content Announcements
 commonMenu.produceRetire.comment1.produce,プロデュース中のデータは失われます\n消費したスタミナと\nプロデュースアイテムは返却されません,You'll lose your current progress\r\nConsumed stamina and\r\nItems will not be returned.
-commonMenu.produceRetire.comment1.trueEndTeaching,プロデュース中のデータは失われます,You'll lose your current Produce progress
+commonMenu.produceRetire.comment1.trueEndTeaching,プロデュース中のデータは失われます,You'll lose your current progress
 commonMenu.produceRetire.comment2,進行中のプロデュースを終了して\n新たなアイドルをプロデュースします,Produce a new idol and\r\nEnd the current Production
 commonMenu.produceResume.produceTitle,プロデュース再開,Resume Production
 commonMenu.produceResume.trueEndTeachingTitle,True End研修再開,Resume True End Training
@@ -48,7 +48,7 @@ trueEndTeaching.objectivePopupTitle.season,シーズン%{seasonNum}目標,Season
 trueEndTeaching.objectivePopupHadukiHint.season2,目標をすべて達成したら、次のシーズンを見据えて\nレッスンやお仕事を行いましょう♪,"If you've achieved all your goals, let's do\r\nLessons and Work for next season♪"
 trueEndTeaching.objectivePopupHadukiHint.season3,目標をすべて達成したら、W.I.N.G.へ向けて\nレッスンやお仕事を行いましょう♪,"If you've achieved all your goals, let's do\r\nLessons and aim for W.I.N.G.♪"
 trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得しましたか？,Did you learn Skills in Reminisce?
-trueEndTeaching.allObjectiveClearedText,目標全てクリア,Clear all goals
+trueEndTeaching.allObjectiveClearedText,目標全てクリア,All goals cleared
 trueEndTeaching.auditionTipsTitle,おすすめオーディション,Recommended Audition
 trueEndTeaching.auditionTipsHadukiHintText,流行にも注目です〜♪　今週がチャンスですよ〜,Keep an eye on the trend〜♪ This is your chance~
 trueEndTeaching.openDialogTitle,初心者ミッションクリア,Beginner Mission Clear
@@ -59,7 +59,7 @@ trueEndTeachingTipsText.areaSelect.notClearedTrueEnd,プロデューサーさん
 trueEndTeachingTipsText.produceIdolSelect.text1,まずはプロデュースするアイドルを選択してください♪,Please select the idol to Produce first♪
 trueEndTeachingTipsText.produceIdolSelect.text2,プロデュースしたアイドルがTrue Endの条件を\n達成すると、ミッションクリアになります♪,If your idol achieves a True End\nThe mission will be cleared♪
 trueEndTeachingTipsText.deckEdit.text1,特別に%{name}さんのサポートに適したアイドルのみなさんに\nお手伝いしてもらいますね～,Everyone here is a useful support for\r\nhelping out %{name}~
-trueEndTeachingTipsText.deckEdit.text2,便利なアイテムを持ち込んで\nプロデュースに役立ててくださいね～\n今回は特別に2つのアイテムをプレゼントします♪,I've brought useful items\nSo please use them during Produce~\nThe two special items this time are a present♪
+trueEndTeachingTipsText.deckEdit.text2,便利なアイテムを持ち込んで\nプロデュースに役立ててくださいね～\n今回は特別に2つのアイテムをプレゼントします♪,"I've brought useful items,\nso please use them during Produce~\nThe two special items this time are a present♪"
 trueEndTeachingTipsText.trend,流行1位と得意ジャンルが一致していないようですね～\nそんな時は『流行雑誌』を使ってみましょう,It seems the top trend doesn't match your specialty~\r\nSo let's use the『Trend Magazine』!
 trueEndTeachingTipsText.skillBoard,おすすめのスキルをご紹介しますね～\n強力なスキルを優先して習得することが\nTrue Endへの近道ですよ♪,Here's some recommended skills～\nPrioritizing strong skills is the\r\nshortcut to True Ends♪
 twitter.postDialog.staticComment.gashaResultSkin,限定衣装%{idolName}を獲得したよ！とっても素敵な衣装！,You got {%idolName}'s limited outfit! What a nice outfit!
