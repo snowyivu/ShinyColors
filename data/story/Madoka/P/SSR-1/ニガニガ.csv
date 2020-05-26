@@ -4,11 +4,11 @@ id,name,text,trans
 0000000000000,プロデューサー,"あれ、さっき買ったコーヒー……
 ………………どこに置いたっけ……","Huh, that coffee I bought earlier...
 ...where did I put it?"
-0000000000000,つけっぱなしのテレビ,『……おーい……何してるのー……』,"""...Heeey... what are you up to--..."""
+0000000000000,つけっぱなしのテレビ,『……おーい……何してるのー……』,"""...Heeey... what are you up to──..."""
 0000000000000,プロデューサー,お、あったあった……,"Oh, there it is..."
 0000000000000,つけっぱなしのテレビ,"『──……ほら、新商品のサイダー飲む？　美味いぜ』
-『わ、ありがとう……！　──……』","""--Wanna try this new lemonade drink? It's really good.""
-""Ooh, thank you...! --..."""
+『わ、ありがとう……！　──……』","""──Wanna try this new lemonade drink? It's really good.""
+""Ooh, thank you...! ......"""
 0000000000000,プロデューサー,…………ふう……,...Aahh...
 0000000000000,プロデューサー,やあ！　おはよう円香！,"Hey! Good morning, Madoka!"
 2021004010010,円香,……挨拶なら、来た時にしましたけど,...I greeted you when I got here.
@@ -22,7 +22,7 @@ I'd like to use some of this."
 0000000000000,プロデューサー,ガムシロップとミルク？　ああ、構わないよ,"Syrup and milk? Sure, I don't mind."
 2021004010040,円香,ありがとうございます,Thank you.
 2021004010050,円香,…………,......
-0000000000000,プロデューサー,──円香？　待て、そのコーヒーは……,"--Madoka? Wait, that coffee is..."
+0000000000000,プロデューサー,──円香？　待て、そのコーヒーは……,"──Madoka? Wait, that coffee is..."
 select,,俺の──,It's mine.
 select,,え？,Huh?
 select,,ま、円香！,M-Madoka!
@@ -54,13 +54,13 @@ They really ought to switch it off when they leave..."
 2021004010120,円香,この番組を見てたわけじゃないけど,"I wasn't watching this show, though."
 0000000000000,テレビの音声,『意識する方がどうかしてるだろ』,"""Getting all self-conscious about it makes no sense, right. """
 2021004010130,円香,…………,...
-0000000000000,プロデューサー,こ、これあんまり面白くないな！　──……消そう,"T-This is kinda dull, isn't it! --...let's turn it off."
+0000000000000,プロデューサー,こ、これあんまり面白くないな！　──……消そう,"T-This is kinda dull, isn't it? ...Let's turn it off."
 0000000000000,プロデューサー,……いや、すまん。本当に……,"...So yeah, I'm sorry. I really am..."
 2021004010140,円香,………………変態,...You creep.
 0000000000000,プロデューサー,…………,...
 0000000000000,プロデューサー,……どうしよう、このコーヒー,...Now what do I do with this coffee...?
 2021004010150,円香,……？,...?
-2021004010151,円香＆プロデューサー,何──,What--?
+2021004010151,円香＆プロデューサー,何──,What──?
 2021004010152,円香＆プロデューサー,ちょっと……,Hey...
 2021004010153,円香＆プロデューサー,…………,...
 2021004010160,円香,何！？,What?!
@@ -90,7 +90,7 @@ Must be great, holding on to that innocence forever."
 2021004010220,円香,青春ごっこは他所でどうぞ,But please take your young adult drama fantasies somewhere else.
 0000000000000,プロデューサー,"…………
 やっぱり円香、飲ん──","...
-So you did drin--"
+So you did drin──"
 2021004010230,円香,飲んでいません、あなたの後には,"I didn't, not after you did anyway."
 0000000000000,プロデューサー,……,...
 0000000000000,テレビの音声,『意識する方がどうかしてるだろ』,"""Getting all self-conscious about it makes no sense, right. """
@@ -104,7 +104,7 @@ Sorry, I took a sip from it earlier because I thought it was mine."
 すぐに同じのを買ってくるから……！","I'm really sorry!
 I'll go buy you a new one right away...!"
 2021004010260,円香,……いらない,...No need.
-0000000000000,プロデューサー,でも──……,But--...
+0000000000000,プロデューサー,でも──……,But──
 2021004010270,円香,"いらない
 ……買ってすぐに一口飲んだけど","No need.
 ...I drank some right after buying it."
@@ -127,6 +127,6 @@ I'll be right back!"
 0000000000000,テレビの音声,『はは、大したことないだろ』,"""Haha, it's no big deal."""
 2021004010330,円香,"全然美味しくないのを、
 いつも飲んでるの","It doesn't taste good at all, so why is he always drinking it?"
-2021004010340,円香,……意味わからない,...Makes no sense at all.
+2021004010340,円香,……意味わからない,...Makes no sense to me.
 info,produce_events/202100401.json,
 译者,,

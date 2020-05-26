@@ -2,23 +2,22 @@ id,name,text,trans
 0000000000000,プロデューサー,"あれ、咲耶。まだいたのか
 もうだいぶ遅い時間だが、大丈夫なのか？","Oh, Sakuya. You're still here?
 It's getting pretty late, are you okay?"
-1006001030010,咲耶,ああ、ファンレターの返事を書いておきたくてね,Mm. Just wondering how to write a reply to this fan letter.
+1006001030010,咲耶,ああ、ファンレターの返事を書いておきたくてね,"Yeah, just wondering how to write a reply to this fan letter."
 0000000000000,プロデューサー,"それにしたって、今日はTVの収録もあったのに……
 ちゃんと休んでいないんじゃないのか？","You had a TV recording earlier today, didn't you... are you sure you're getting enough rest?"
 1006001030020,咲耶,フフ。私なら大丈夫だよ,Haha. I'll muddle through.
 1006001030030,咲耶,"ファンの子たちをいち早く喜ばせてあげたいからね
 休んでなんかいられないよ","All I want is to make my fans as happy as I can, as soon as I can. I don't need rest!"
 0000000000000,プロデューサー,"そうか……それにしても、こんな時間までかかるなんて……
-いったい、何人分だ？","Is that so... well, fair enough, but you shouldn't be working this late...
-How many are you writing?"
+いったい、何人分だ？","Is that so... well, fair enough, but you shouldn't be working this late... How many are you writing?"
 1006001030040,咲耶,まだ１人分かな,"Oh, just the one."
-0000000000000,プロデューサー,え……？　この長文が！？,Um... HOW long is this letter!?
-1006001030050,咲耶,ああ。そうだけど、どうしたんだい？,Quite! What about it?
+0000000000000,プロデューサー,え……？　この長文が！？,Um..? All of this is one letter!?
+1006001030050,咲耶,ああ。そうだけど、どうしたんだい？,"Yeah.  Why, is something the matter?"
 0000000000000,プロデューサー,"……咲耶、熱心なファンはとても大切な存在だ
 それは俺もよく分かる","...Sakuya, I understand wanting to give back to your biggest fans, but,"
 0000000000000,プロデューサー,だが、くれぐれも無理のない範囲にしてくれよ,I think you might have gone a little too far this time!
 0000000000000,プロデューサー,"最近、仕事も増えてきて
-ただでさえ休む時間が減ってるだろう","You've been getting more and more work lately, so taking time out to rest is important!"
+ただでさえ休む時間が減ってるだろう","You've been getting more and more work lately, so taking time off to rest is important!"
 1006001030060,咲耶,クス。心配してくれているのかい？,Hehe. Were you that worried about me?
 1006001030070,咲耶,"大丈夫だよ、まだまだ体力はある
 それに、これは私の好きでやっていることだからね","Don't worry, I've still got a lot of fight left in me.
@@ -28,25 +27,25 @@ Besides, I enjoy doing all this."
 聞かせてもらいたいんだけど……","On that note, I actually wanted to ask for your opinion, Producer..."
 1006001030090,咲耶,"ファンの子たちは、
 どうしたらもっと喜んでくれるだろう",What do you think would make all my dear fans happy?
-0000000000000,プロデューサー,もう充分喜ばせられていると思うぞ,What you're doing in general seems to be doing the job!
+0000000000000,プロデューサー,もう充分喜ばせられていると思うぞ,What you're already doing seems to be doing the job!
 1006001030100,咲耶,"ファンの子たちが喜んでくれる方法なら
-どんなことでも知りたいんだ","If there's even more I could do, though, I'd want to know!"
+どんなことでも知りたいんだ","If there's even more I could do, though, I want to know!"
 0000000000000,プロデューサー,"やれやれ……
 咲耶は本当に熱心だな","Seriously, Sakuya...
 You always give 110%."
-0000000000000,プロデューサー,そうだな、あえて言うなら……,"But anyway, as you were saying..."
+0000000000000,プロデューサー,そうだな、あえて言うなら……,"But anyway, if I had to think of something..."
 select,,"ダンスや歌のレベルを
 上げることだな","Work hard on
 improving your
-perfomance skills?"
+performance skills?"
 select,,"ありのままの咲耶で
 いることが大事だ","Don't change or try 
 too hard, just be 
 the Sakuya you are."
 select,,"咲耶自身が
 楽しむことが大事だ","I think they'd
-want to see you
-happy, too."
+most want to
+see you happy."
 0000000000000,プロデューサー,"咲耶のダンスはキレがあってスピード感もある
 だが、止めの時に少しブレてしまっているだろう？","Your dancing is gorgeous and has a real sense of pace to it, but you can trip up when it comes to sudden stops."
 0000000000000,プロデューサー,"ダンスは土台作りも大切だ
@@ -67,7 +66,7 @@ I'll do my best to make our performances even better!"
 今日は帰って休んだ方がいい","Ahh... I really respect going this hard, but I think you should head on home soon."
 0000000000000,プロデューサー,体調管理もアイドルの仕事のうちだぞ,"I mean, it's my job to make sure our idols stay healthy and safe, too!"
 1006001030160,咲耶,"……そうだね。今日はレッスンのスケジュールを
-立てるだけにしておくよ","...true. Well, I'll hold back for now and just get them in the schedule."
+立てるだけにしておくよ","...that's true. Well, I'll hold back for now and just get them in the schedule."
 1006001030170,咲耶,"よし！　レッスンは明日にしよう
 見ていてくれ、プロデューサー！","There! Tomorrow starts my new practice regime. Watch over me, Producer!"
 1006001030180,咲耶,でも、それじゃファンは喜んでくれないだろう？,Will that really make my fans happy?
@@ -75,38 +74,37 @@ I'll do my best to make our performances even better!"
 好きになってくれているんだ","All your fans became your fans because they like you as you are, Sakuya."
 0000000000000,プロデューサー,"無理をしている咲耶を、見たいわけじゃない
 かえって不安にさせるぞ","And I don't think they'd want to see you try too hard to be anything else. In fact, it might make them uneasy!"
-1006001030190,咲耶,……確かに、プロデューサーの言う通りだね,"...you have a point there, Producer."
+1006001030190,咲耶,……確かに、プロデューサーの言う通りだね,"...you certainly have a point there, Producer."
 1006001030200,咲耶,"けれど……もっと努力すべきだと思うし
 努力したくもあるんだ","But... when I think I should be doing more, then I start wanting to do more."
 1006001030210,咲耶,今のままじゃ、私自身が納得できない……,I'm not satisfied with how I am now...
 0000000000000,プロデューサー,"とはいえ、最近レッスンの量も増やして
 ますます頑張っているだろう","You say that, but you've been practicing harder than ever lately!"
 0000000000000,プロデューサー,"咲耶がこの調子でやっていけば、
-きっとファンも安心して喜んでくれるぞ","I think if you keep on working as hard as you have been up until now, your fans will feel happy, but more than that, they'll be relieved."
+きっとファンも安心して喜んでくれるぞ","I think if you just keep on working as hard as you have been up until now, your fans will feel happy, but more than that, they'll be relieved."
 1006001030220,咲耶,本当に、今のままの私でも大丈夫なのかな,Am I really fine as I am now?
 0000000000000,プロデューサー,"ありのままの咲耶が１番だ
 だから、くれぐれも無理はしないでくれ","You're amazing as you are, Sakuya. So don't burn yourself out."
 1006001030230,咲耶,"ありのままの自分で、無理のないように、か……
 それは少し、難しいかもしれないな……","As I am now, without forcing myself to go further...
-I can't quite understand the idea..."
+It's a little difficult to grasp the idea..."
 0000000000000,プロデューサー,"咲耶は、人の繋がりを大事にしているよな
-だから、ファンサービスもこんなに頑張っているだろう？","Sakuya, I know you treasure relationships with people. That's why you work so hard to please your fans, right"
-1006001030240,咲耶,ああ、人と人との繋がりは美しいからね,"Mm, the myriad ways in which people connect is always beautiful to me."
+だから、ファンサービスもこんなに頑張っているだろう？","Sakuya, I know you treasure relationships with people. That's why you work so hard to please your fans, right?"
+1006001030240,咲耶,ああ、人と人との繋がりは美しいからね,"Yeah, the myriad of ways in which people connect is always beautiful to me."
 1006001030250,咲耶,"そのためにも、ファンのみんなを笑顔にして
-幸せにしてあげたいんだ",That's why I want all my fans to be happy and bring them smiles.
+幸せにしてあげたいんだ",That's why I want all my fans to be happy and to bring them smiles.
 0000000000000,プロデューサー,良い考えだと思うぞ,It's a worldview I admire!
 0000000000000,プロデューサー,"その上で、咲耶自身が楽しんでいれば……
 仕事やパフォーマンスに、もっと磨きがかかるんじゃないか","And on top of that, Sakuya, if you're happy... I think that'll show through in both your work and on stage."
 1006001030260,咲耶,"ああ、私はちゃんと楽しんでいるよ
 みんなに喜んでもらうことが、私の生きがいだからね","Ah, don't worry. I'm always enjoying myself.
 After all, making people happy is my reason to live."
-1006001030270,咲耶,……ところで、プロデューサーはどうなんだい？,"...on which note, Producer, how about yourself?"
+1006001030270,咲耶,……ところで、プロデューサーはどうなんだい？,"...on that note, Producer, how about yourself?"
 0000000000000,プロデューサー,何がだ？,What about me?
 1006001030280,咲耶,私をプロデュースするのは、楽しいかい？,Are you enjoying producing me?
 0000000000000,プロデューサー,そうだな、楽しいというよりは、幸せかな,"Of course. Maybe it's more than just enjoyment? Maybe it makes me happy, too."
 1006001030290,咲耶,"幸せ……
-私は、プロデューサーも幸せにできているのかな？","Happiness...
-Does that mean I'm bringing you happiness too, Producer?"
+私は、プロデューサーも幸せにできているのかな？","Happiness... Does that mean I'm also bringing you happiness, Producer?"
 0000000000000,プロデューサー,"精一杯頑張って、どんどん輝いていく咲耶を
 間近で応援できるんだ。こんな幸せ者、そうそういないぞ？","I get to stand behind you and support you, Sakuya, as you do your very best and shine so bright. Who wouldn't be happy to do that?"
 1006001030300,咲耶,"フフ。そんな風に言ってもらえるなんて

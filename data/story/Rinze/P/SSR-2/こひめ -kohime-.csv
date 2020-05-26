@@ -51,10 +51,14 @@ doing this again?"
 0000000000000,プロデューサー,凛世、おーい,Hey Rinze!
 2012008010250,凛世,…………プロデューサーさま……！,Producer-sama.
 0000000000000,プロデューサー,ははっ──,Haha.
-select,,凛世も花見か？,Are you going to watch the cherry blossoms too?
-select,,今、帰りだったんだな,I see that you're on your way home.
+select,,凛世も花見か？,"Are you going to
+watch the cherry
+blossoms too?"
+select,,今、帰りだったんだな,"I see that you're on
+your way home."
 select,,"こんなとこで、
-風邪引くぞ？",You'll catch a cold here.
+風邪引くぞ？","You'll catch a
+cold here."
 2012008010260,凛世,"……い、いえ……
 ……プロデューサーさまは……？","N-No.
 How about you, Producer-sama?"
