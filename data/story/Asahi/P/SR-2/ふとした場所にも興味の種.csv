@@ -5,16 +5,16 @@ id,name,text,trans
 2017005010040,あさひ,がらがらがらがら……,Rattle rattle...
 2017005010050,あさひ,へー……こうやって入ってくんすね……,Woah... So that's how the cans go in...
 2017005010060,あさひ,あはは！　面白い！,Ahaha! That's so cool!
-0000000000000,作業員,補充……そんなに楽しいかな……？,"Is watching me refill the machine... Really that exciting...? "
+0000000000000,作業員,補充……そんなに楽しいかな……？,"Is watching me refill the machine... really that exciting...? "
 2017005010070,あさひ,はいっす！,Sure is!
-0000000000000,プロデューサー,おはよう、あさひ、それ何を見て──,"Good morning, Asahi. What are you looking at–"
+0000000000000,プロデューサー,おはよう、あさひ、それ何を見て──,"Good morning, Asahi. What are you looking at──"
 2017005010080,あさひ,──そこの大きい引き出し……何が入ってるんすか？,That big drawer... Does somethin' go inside?
 0000000000000,プロデューサー,あさひ？,Asahi?
 2017005010090,あさひ,あ、今は話しかけないでほしいっす,"Um, please don't talk to me right now."
 0000000000000,プロデューサー,お、おぉ……すまん……,O-Oh... Sorry...
 2017005010100,あさひ,へー……パックのジュースがぎっしりっすね,Woah... The juice boxes get packed in really tight.
 2017005010110,あさひ,"えぇ～、もう終わっちゃうんすか！
-もっと見たいっすよ～","Ehhh, it's already over? I wanna see more〜"
+もっと見たいっすよ～","Ehhh, it's already over? I wanna see more~"
 0000000000000,作業員,明日も同じくらいの時間に来るけど……,"Well, I'll be back again this time tomorrow... "
 2017005010120,あさひ,お！　そうなんすね！　やったっす～！,Oh! Ya will? Yaaay!
 2017005010130,あさひ,ばいばいっす～！,Bye-bye!
@@ -41,7 +41,7 @@ id,name,text,trans
 2017005010240,あさひ,そしたら中、見放題っす！,I could explore the inside of the machine all I wanna!
 0000000000000,プロデューサー,な、なるほどな……,O-Of course...
 0000000000000,プロデューサー,"そういうジャンルのSF映画でも見てみるか……？
-ヒントになるかどうかはわからないけど……","Well, there are lots of science-fiction movies where humans shrink themselves. You could try watching those... ? I can't say if they'll be any help though..."
+ヒントになるかどうかはわからないけど……","Well, there are lots of science-fiction movies where humans shrink themselves. You could try watching those...? I can't say if they'll be any help though..."
 2017005010250,あさひ,まずは情報集めからっすね！,"Right, I should start by doin' some research!"
 2017005010260,あさひ,目指せミクロ化！　っすよ！,I'm gonna become tiny! Just ya wait and see!
 info,produce_events/201700501.json,

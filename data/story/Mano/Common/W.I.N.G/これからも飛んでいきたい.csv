@@ -1,13 +1,13 @@
 id,name,text,trans
 6901001090010,はづき,"プロデューサーさん！
-『W.I.N.G.』優勝、本当におめでとうございます！","Producer-san!
+『W.I.N.G.』優勝、本当におめでとうございます！","Producer!
 Congratulations on winning W.I.N.G!"
 6901001090020,はづき,"私も会場で見てたんですけど、
 発表の瞬間、思わず大声を出しちゃいましたよ！","I was watching from the crowd too and when they announced it,
 I cheered so much, I didn't know I could scream that loud! "
 6901001090030,はづき,"今もまだ興奮しちゃってて、
 今日はもう眠れそうにありません！","I'm still so excited, I'm not sleepy at all!"
-0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Thank you, Hazuki-san!"
+0000000000000,プロデューサー,ありがとうございます、はづきさん！,"Thank you, Hazuki!"
 6902001090010,社長,"本当によくやった
 期待以上の結果を出してくれたな","Very well done.
 You've exceeded my expectations."
@@ -39,7 +39,7 @@ the main heroine of the day."
 0000000000000,プロデューサー,"（ああ、真乃だ
 公園にいるなんて……初めて会った頃みたいだな）","(Ah, it's Mano. She's in the park...
 The same one where we met all the time ago.)"
-6001001090010,真乃,あ、プロデューサーさん,"Ah, Producer-san."
+6001001090010,真乃,あ、プロデューサーさん,"Ah, Producer."
 0000000000000,プロデューサー,"やったな、真乃
 いいステージだった","Glad I caught you, Mano.
 Great performance today."
@@ -57,7 +57,7 @@ It... still hasn't hit me yet."
 6001001090060,真乃,"でも、ファンのみなさんが喜んでくれたことが
 何より一番うれしいですっ","But, seeing how happy I was able to make all of our fans
 makes me happier than anything else."
-6001001090070,真乃,プロデューサーさんが褒めてくれることも,"That and all of your kind words, Producer-san."
+6001001090070,真乃,プロデューサーさんが褒めてくれることも,"That and all of your kind words, Producer."
 0000000000000,プロデューサー,はは……真乃らしいな,Haha... that's just like you Mano.
 6001001090080,真乃,ほわっ、何かおかしなこと言っちゃいましたか？,"Howaa, did I say something weird?"
 0000000000000,プロデューサー,"ごめんな、そうじゃない
@@ -77,7 +77,7 @@ there's no doubt that that makes me happy!"
 Mano ""Who Heals Even When She Thinks She Isn't"" Sakuragi. "
 6001001090110,真乃,"そうなんですね
 プロデューサーさんが言うならきっとそうです","That's right.
-If Producer-san says so, I'm sure it's true."
+If you say so, then I'm sure it's true."
 0000000000000,プロデューサー,"うん、ずっと見てきたから
 真乃のことはわかってるつもりだよ","Yup, I've always seen it on you.
 It's my intent to understand Mano."
@@ -85,13 +85,13 @@ It's my intent to understand Mano."
 なかなか自信が持てませんでした……","I... didn't have much confidence in myself...
 when I started trying to become an Idol..."
 6001001090130,真乃,"でも、プロデューサーさんは
-ずっとサポートしてくれましたよね？","But, Producer-san's always supported me, haven't you?"
+ずっとサポートしてくれましたよね？","But, you always supported me, haven't you?"
 0000000000000,プロデューサー,まぁね、できるだけのことはしたつもりだよ,"I suppose, I had only done what I could. "
 6001001090140,真乃,"おかげで私は、あのステージに立てました
 灯織ちゃん、めぐるちゃんという素敵な仲間と一緒に","It's thanks to you that I was able to stand on that stage.
 Together with Hiori-chan and Meguru-chan "
 6001001090150,真乃,"ありがとうございます、プロデューサーさん
-ここまで私を連れてきてくれて","Thank you, Producer-san,
+ここまで私を連れてきてくれて","Thank you, Producer,
 for helping me get here. "
 0000000000000,プロデューサー,まだまだこれからだよ、真乃,"We still have a ways to go, Mano."
 6001001090160,真乃,"ふふ……そうでした
@@ -109,7 +109,7 @@ I want them to feel light."
 0000000000000,プロデューサー,真乃なら望めば望んだだけのことができるよ,"That really is a wish only you can make, Mano."
 6001001090190,真乃,ほわわわ……ありがとうございます,"Howawawa... Thank you. "
 6001001090200,真乃,"でも私は……プロデューサーさんの手助けがないと
-羽ばたくこともできません","But, I... Without Producer-san's help, I wouldn't
+羽ばたくこともできません","But, I... Without Producer's help, I wouldn't
 have been able to spread my wings and fly. "
 6001001090210,真乃,ほわ……羽ばたけないと大変です,Howa... I can't go without my wings.
 6001001090220,真乃,"応援してくれるみなさんに応えるためにも
@@ -117,6 +117,6 @@ have been able to spread my wings and fly. "
 0000000000000,プロデューサー,ああ、これからも真乃をサポートしていくからな,"Ah, then I'll continue to support you from here on, Mano. "
 6001001090230,真乃,"はいっ
 よろしくお願いしますね、プロデューサーさん！","Yes!
-I'll be in your care, Producer-san!"
+I'll be in your care, Producer!"
 info,produce_events/600100109.json,
 译者,,
