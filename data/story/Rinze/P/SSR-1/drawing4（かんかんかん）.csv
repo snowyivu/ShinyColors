@@ -10,7 +10,7 @@ Hahaha, no no. I'm over here...!"
 2012004040030,凛世,プロデューサーさま……,Producer-sama...
 0000000000000,プロデューサー,"さっきは──……
 ……と","Earlier──
-... Oh."
+...Oh."
 0000000000000,プロデューサー,"すまん、電話だ
 また後でな……！　もしもし──","Sorry, it's a phone call, one second!
 Hello, this is──"
@@ -21,13 +21,13 @@ Hello, this is──"
 0000000000000,プロデューサー,"何か用があるんだよな？
 俺、すぐ出なくちゃならなくなって……","Did you need something?
 I'm going to have to leave pretty soon..."
-2012004040060,凛世,いえ……凛世は……,No... Rinze's...
+2012004040060,凛世,いえ……凛世は……,No... I...
 0000000000000,プロデューサー,"後で必ず時間作るからさ、
 待っててくれ！","I'll certainly make time for you later, so wait up for me, okay!"
 2012004040070,凛世,"プロデューサーさま……
 あの……","Producer-sama...
 Um..."
-2012004040080,凛世,……はい,... Okay.
+2012004040080,凛世,……はい,...Okay.
 2012004040090,凛世,"プロデューサーさまは……
 お忙しいのです……","Producer-sama...
 Is quite busy."
@@ -43,7 +43,7 @@ I will..."
 今日は慌ただしかったなぁ……","Phew...
 I was rushing around today..."
 2012004040120,凛世,『プロデューサーさま……』,"""Producer-sama..."""
-0000000000000,プロデューサー,……え？,... Hm?
+0000000000000,プロデューサー,……え？,...Hm?
 0000000000000,プロデューサー,（凛世……？）,(Rinze...?)
 0000000000000,プロデューサー,凛世……どこかにいるのか……？,Rinze... is she around here...?
 0000000000000,プロデューサー,"……
@@ -54,15 +54,14 @@ I was rushing around today..."
 やっぱりそうだ）",(Oh── that's right!)
 0000000000000,プロデューサー,凛世ー！,Rinze──!
 0000000000000,プロデューサー,"凛世！　……はは、おーい
-走らなくって大丈夫だぞー！","Rinze! ... Haha, hey! There's no need to run or anything!
-"
+走らなくって大丈夫だぞー！","Rinze! ...Haha, hey! There's no need to run or anything!"
 select,,"もしかして、さっき
 呼んでくれてたか？","Were you the one
 who called out to
 me just now?"
 select,,お疲れ様,Good work today.
 select,,今日はごめんな,Sorry for today.
-2012004040130,凛世,はい──いえ……,Yes── well...
+2012004040130,凛世,はい──いえ……,Yes──well...
 2012004040140,凛世,"お呼びしたようで……
 そうでも……なく……","I did call out to you...
 But I wasn't sure... of it..."
@@ -82,26 +81,26 @@ An honest... call..."
 And however it happened..."
 2012004040200,凛世,お呼びして……よかった……,I am glad... I was able to call out to you.
 0000000000000,プロデューサー,"……うん
-俺には、聞こえたからさ","... Yeah. I heard you, loud and clear."
+俺には、聞こえたからさ","...Yeah. I heard you, loud and clear."
 2012004040210,凛世,プロデューサーさま……,Producer-sama...
 0000000000000,プロデューサー,"……そういえば、俺に何か用があったんだよな
-もう大丈夫だから、聞かせてくれるか？","... Which reminds me, you needed something from me earlier, right? If you don't mind, you can ask away now."
+もう大丈夫だから、聞かせてくれるか？","...Which reminds me, you needed something from me earlier, right? If you don't mind, you can ask away now."
 2012004040220,凛世,"それは……
 ──はい。ふふ……","That is...
 I will. Fufu..."
-0000000000000,プロデューサー,……偶然だな,... What a coincidence!
+0000000000000,プロデューサー,……偶然だな,...What a coincidence!
 2012004040230,凛世,はい……,It is...
 0000000000000,プロデューサー,"今日はどうだった？　……というか、
-何か俺に話したいことがあったんじゃないか？","How did your day go? ... Oh, earlier there was something you wanted to talk about, right?"
-2012004040240,凛世,……いえ、その……,"... No, that's..."
+何か俺に話したいことがあったんじゃないか？","How did your day go? ...Oh, earlier there was something you wanted to talk about, right?"
+2012004040240,凛世,……いえ、その……,"...No, that's..."
 0000000000000,プロデューサー,遠慮しないで、言ってみてくれ,"No need to hesitate, you can tell me."
-2012004040250,凛世,……はい,... Okay.
+2012004040250,凛世,……はい,...Okay.
 2012004040260,凛世,"おはようございます、と……
 お伝えしたく……","Good morning to you, is...
 what I wanted to tell you..."
 0000000000000,プロデューサー,え……？,Huh...?
 0000000000000,プロデューサー,"……あ、そうか
-今日は……ちゃんと挨拶してないかもしれない","... Oh, I get it. We weren't able to exchange proper greetings today."
+今日は……ちゃんと挨拶してないかもしれない","...Oh, I get it. We weren't able to exchange proper greetings today."
 2012004040270,凛世,いえ……！,No...!
 2012004040280,凛世,"プロデューサーさまに……
 非は……ございません……","Producer-sama... 
@@ -123,8 +122,7 @@ Producer-sama."
 I am... not sure why..."
 0000000000000,プロデューサー,"や、なぜって……
 今日はすれ違ってばっかりだったから","Oh, why?
-Just because we've been passing by each other all day.
-"
+Just because we've been passing by each other all day."
 0000000000000,プロデューサー,ごめん、って,"So, I'm sorry about that."
 2012004040340,凛世,……プロデューサーさま……,Producer-sama...
 2012004040350,凛世,凛世は……,I'm...
@@ -140,7 +138,7 @@ I had been thinking..."
 誰もいないんじゃないかなって",For a second I was worried the train would pass by and there'd be no one in sight.
 2012004040390,凛世,プロデューサーさま……,Producer-sama...
 0000000000000,プロデューサー,"……そうか、じゃあ
-『ごめん』じゃなくて『ありがとう』だよな！","... Well, I guess I shouldn't say ""Sorry,"" but rather, ""Thank you"" now."
+『ごめん』じゃなくて『ありがとう』だよな！","...Well, I guess I shouldn't say ""Sorry,"" but rather, ""Thank you"" now."
 0000000000000,プロデューサー,"呼び止めてくれてありがとう
 また……すれ違うとこだった",Thank you for yelling out to me. We would have missed each other again otherwise.
 2012004040400,凛世,……,...
