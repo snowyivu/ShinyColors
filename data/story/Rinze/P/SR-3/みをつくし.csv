@@ -39,9 +39,12 @@ by your foot. Careful now."
 ……プロデューサーさま、これは……？","I will.
 Producer-sama, what could this be?"
 0000000000000,プロデューサー,……ああ,Oh.
-select,,ビーチグラスだな,Seems like a beach glass.
-select,,流木みたいだな,Seems like a drift wood.
-select,,タコノマクラ、だな,Seems like a cake urchin.
+select,,ビーチグラスだな,"Seems like a
+beach glass."
+select,,流木みたいだな,"Seems like a
+drift wood."
+select,,タコノマクラ、だな,"Seems like a
+cake urchin."
 0000000000000,プロデューサー,"これはビーチグラスっていって、割れたビンとかの欠片が、
 海の中で削られてできたものなんだ","This is what's called a ""beach glass"". It could either be a fragment broken off from a bottle or was drifted from sea."
 2012006020090,凛世,海の中で……？,From the sea?

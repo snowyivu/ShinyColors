@@ -7,104 +7,104 @@ id,name,text,trans
 0000000000000,プロデューサー,転ばないように気を付けてくれよ,"Be careful not to trip and fall, okay."
 2021004020030,円香,……言われずとも,...That goes without saying.
 0000000000000,プロデューサー,今日はあたたかいな,It's warm today.
-2021004020040,円香,……はい,...Yes.
-0000000000000,プロデューサー,緑が眩しくて、風も気持ちいい,"The greenery looks so bright, and the wind feels pleasant too."
+2021004020040,円香,……はい,...Yeah.
+0000000000000,プロデューサー,緑が眩しくて、風も気持ちいい,"The greenery looks so dazzling, and the wind feels pleasant too."
 2021004020050,円香,……そうですか,"...Oh, really."
-0000000000000,プロデューサー,円香はどの季節が好きとかあるか？,"Do you have a favorite season, or anything like that?"
-2021004020060,円香,さあ……どうでしょうね,Well…who can say?
+0000000000000,プロデューサー,円香はどの季節が好きとかあるか？,"Do you have a favorite season, anything like that?"
+2021004020060,円香,さあ……どうでしょうね,Well...who can say?
 0000000000000,プロデューサー,"……ああ、すまんすまん
 下見の最中に話していたら邪魔だよな","...Alright, sorry. 
-It’s a pain if I keep talking while you’re checking out the shoot location, isn’t it?"
+It's a pain if I keep talking while you're checking out the shoot location, isn't it?"
 2021004020070,円香,お構いなく,"Oh, don't mind me."
-0000000000000,プロデューサー,いいよ、円香のペースで歩いてくれ,"It's okay, just walk at your own pace."
+0000000000000,プロデューサー,いいよ、円香のペースで歩いてくれ,"It's okay, just walk around at your own pace."
 2021004020080,円香,…………,......
-2021004020090,円香,──…………,──...…
+2021004020090,円香,──…………,──......
 2021004020100,円香,…………,......
-0000000000000,プロデューサー,（……気持ちよさそうだな）,(...She looks like she's enjoying it.)
+0000000000000,プロデューサー,（……気持ちよさそうだな）,(...She sure looks relaxed.)
 0000000000000,プロデューサー,（言葉では……言ってくれないけど）,(But she doesn't put that into words for me...)
 0000000000000,プロデューサー,…………,......
-0000000000000,プロデューサー,（──まだ本当の円香はつかまえられないか）,(──I still can’t seem to get a hold of the real Madoka.)
+0000000000000,プロデューサー,（──まだ本当の円香はつかまえられないか）,(──I still can't seem to get a hold of the real Madoka.)
 2021004020110,円香,──あっ,──Ah!
 0000000000000,プロデューサー,ん？　──！！,Hm? ──!!
-0000000000000,プロデューサー,（まずい、円香が……転ぶ──！）,"(Oh snap, she’s going to fall!)"
+0000000000000,プロデューサー,（まずい、円香が……転ぶ──！）,"(Oh snap, she's going to fall!)"
 select,,（手を伸ばす）,"(Reach out
 your hand)"
 select,,（腕を掴む）,(Grab her arm)
 select,,危ない！,Watch out!
-2021004020120,円香,………！,…!
-0000000000000,プロデューサー,あ…………,Ah…
+2021004020120,円香,………！,...!
+0000000000000,プロデューサー,あ…………,Ah...
 0000000000000,プロデューサー,……だ、大丈夫か？,...A-Are you alright?
 2021004020130,円香,"少し濡れただけです
-サンダルですし、別に","Got a little wet, that’s all.
-I’m wearing sandals, so it’s no big deal."
-2021004020140,円香,それよりも……あなたの靴,"Your shoes, on the other hand…"
-0000000000000,プロデューサー,え？　あっ……,Huh? Aah…
+サンダルですし、別に","Got a little wet, that's all.
+I'm wearing sandals, so it's no big deal."
+2021004020140,円香,それよりも……あなたの靴,"Your shoes, on the other hand..."
+0000000000000,プロデューサー,え？　あっ……,Huh? Aah...
 2021004020150,円香,なんであなたまで濡れているんですか,What did you even get them wet for?
-0000000000000,プロデューサー,はは、つい思わず……,"Haha, I wasn’t thinking…"
-0000000000000,プロデューサー,まあ乾かせば大丈夫……かな？,"Oh well, they’ll be fine if I let them dry… I think?"
-2021004020160,円香,……革靴はダメでしょ,"...No chance, that’s leather."
+0000000000000,プロデューサー,はは、つい思わず……,"Haha, I wasn't thinking..."
+0000000000000,プロデューサー,まあ乾かせば大丈夫……かな？,"Oh well, they'll be fine if I let them dry... I think?"
+2021004020160,円香,……革靴はダメでしょ,"...No chance, that's leather."
 0000000000000,プロデューサー,"大丈夫大丈夫……！　
-それよりも円香だ、もうすぐ撮影も始まっちゃうしな","It’ll be fine, just fine…!
+それよりも円香だ、もうすぐ撮影も始まっちゃうしな","It'll be fine, just fine...!
 More importantly, the shoot is gonna start soon."
-0000000000000,プロデューサー,タオル探してくるから,I’ll go find you a towel.
+0000000000000,プロデューサー,タオル探してくるから,I'll go find you a towel.
 0000000000000,プロデューサー,ここでちょっと待っててくれ……！,Just wait here for a minute...!
-2021004020170,円香,…………,……
+2021004020170,円香,…………,......
 2021004020180,円香,あなたもスタッフさんにサンダル借りたら？,How about you borrow a pair of sandals from the staff too?
-0000000000000,プロデューサー,あ、危なかったな……,T-That was close…
+0000000000000,プロデューサー,あ、危なかったな……,T-That was close...
 2021004020190,円香,"……
-離して","…
+離して","...
 Let go of me."
 0000000000000,プロデューサー,……ケガは無いか？,...Did you hurt yourself?
 2021004020200,円香,"あるわけないでしょ
-……転んでないんだから","Of course I didn’t.
-...because I didn’t fall."
+……転んでないんだから","Of course I didn't.
+...because I didn't fall."
 2021004020210,円香,あなたのおかげで,Thanks to you.
 0000000000000,プロデューサー,……待ってくれ、円香,"...Wait, Madoka."
 0000000000000,プロデューサー,"ゆっくり歩いた方がいい
-また転ぶかもしれないから、一緒に……","It’s best if you walk slowly.
-You might trip and fall again, so let me…"
+また転ぶかもしれないから、一緒に……","It's best if you walk slowly.
+You might trip and fall again, so let me..."
 2021004020220,円香,"転びかけたのはすみませんでした
-でも、あなたに助けてもらうのは──","I’m so sorry I nearly fell just now, but it doesn’t mean I need you to save m──"
+でも、あなたに助けてもらうのは──","I'm so sorry I nearly fell just now, but it doesn't mean I need you to save m──"
 2021004020230,円香,──っ！,──!
-0000000000000,プロデューサー,うお……！！,Whoa…!!
-0000000000000,プロデューサー,──あ、危なかったな,──T-That was close…
-2021004020240,円香,……離して,…Let go of me.
+0000000000000,プロデューサー,うお……！！,Whoa...!!
+0000000000000,プロデューサー,──あ、危なかったな,──T-That was close...
+2021004020240,円香,……離して,...Let go of me.
 0000000000000,プロデューサー,"うん、ちゃんと立ったら離すから
 足元に気を付けて、ゆっくり……","I will, once you get up on your feet properly.
-Easy, be careful where you stand…"
-2021004020250,円香,腰、掴むとか……許さない,Grabbing my waist like that… that’s not acceptable.
-0000000000000,プロデューサー,俺もとっさだったから……ごめんな,That was a spur-of-the-moment thing… I’m sorry.
-2021004020260,円香,……嫌、許さない,"...No way, it’s not acceptable."
-2021004020270,円香,──っ……,──...…
+Easy, be careful where you stand..."
+2021004020250,円香,腰、掴むとか……許さない,Grabbing my waist like that... that's not acceptable.
+0000000000000,プロデューサー,俺もとっさだったから……ごめんな,That was a spur-of-the-moment thing... I'm sorry.
+2021004020260,円香,……嫌、許さない,"...No way, unacceptable."
+2021004020270,円香,──っ……,──......
 0000000000000,プロデューサー,"だ、大丈夫か……！？
-痛いところは……？　ほら、立って──……","A-Are you okay…!?
-Does it hurt anywhere…? Here, get up…"
+痛いところは……？　ほら、立って──……","A-Are you okay...!?
+Does it hurt anywhere...? Here, get up..."
 2021004020280,円香,"……ひとりで立てますので
 …………","...I can stand up by myself.
-……"
+......"
 0000000000000,プロデューサー,──あれ、円香、右の靴は？,"---Huh, Madoka? Where's your right shoe?"
-2021004020290,円香,……？　ん……,…? Hmm…
+2021004020290,円香,……？　ん……,...? Hmm...
 0000000000000,プロデューサー,"もしかして、白いサンダルか？
 ──……流されてる！　川に！","Were you wearing white sandals, by any chance?
-──…There’s one floating down the river!"
-2021004020300,円香,えっ……,Huh…
+──...There's one floating down the river!"
+2021004020300,円香,えっ……,Huh...
 0000000000000,プロデューサー,"──よっ……と……
 やった！　掴まえたぞ！","--Gotcha...
 Did it, I got it!"
-2021004020310,円香,ありがとう、ございます……,Thank… you…
+2021004020310,円香,ありがとう、ございます……,Thank... you...
 0000000000000,プロデューサー,"はは、よかった！
-可愛いサンダルだな、大事にしないと……","Haha, that’s a relief. These sandals are so cute too, gotta take good care of them…"
-2021004020320,円香,……そうですね,...You’re right.
+可愛いサンダルだな、大事にしないと……","Haha, that's a relief. These sandals are so cute too, gotta take good care of them..."
+2021004020320,円香,……そうですね,...You're right.
 2021004020330,円香,"私のじゃないですが
-それ、スタッフさんに借りたものです","They’re not mine, though.
+それ、スタッフさんに借りたものです","They're not mine, though.
 I borrowed those from the staff."
 0000000000000,プロデューサー,スタッ……,From the sta...
-2021004020340,円香,でも、だから……なくさないで、よかったです,"But, that’s why… I’m glad we didn’t lose one."
+2021004020340,円香,でも、だから……なくさないで、よかったです,"But, that's why... I'm glad we didn't lose one."
 0000000000000,プロデューサー,……ああ！　そうだな！,...Yeah! Same here!
 2021004020350,円香,"……いつまで川の中にいるんですか
-革靴、濡れてる。スラックスも","...How long are you planning on standing in the river? Your leather shoes, they’re soaked. And your trousers, too."
+革靴、濡れてる。スラックスも","...How long are you planning on standing in the river? Your leather shoes, they're soaked. And your trousers, too."
 0000000000000,プロデューサー,"ま、まあ、ちょっと待って。ここ苔がいっぱいで
-ゆっくり歩かないと転びそ……うわっ","W-Well… just give me a minute. There’s lots of moss around here, so if I don’t walk slowly I’ll slip and… whoa!"
+ゆっくり歩かないと転びそ……うわっ","W-Well... just give me a minute. There's lots of moss around here, so if I don't walk slowly I'll slip and... whoa!"
 2021004020360,円香,え……,Eh...
 info,produce_events/202100402.json,
 译者,,

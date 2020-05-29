@@ -14,9 +14,9 @@ selectLoginBonus.rewardPop.title,アイテム獲得,Item Reward
 selectLoginBonus.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,The following items have been sent to your present box
 ending.popReceiveProduceIdol.title,報酬受け取り,Receive Rewards
 ending.popReceiveProduceIdol.comment,以下の報酬を受け取りました,Received the rewards below
-trueEndTeachingEnding.receivePop.popTitle,True End研修達成,Complete True End Training
-trueEndTeachingEnding.receivePop.missionTitle,True End研修でTrue Endを達成しよう,Achieve a True End in True End Training
-trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,"Thanks for training~\r\nFor this Production, let's do our best\r\nOkay~"
+trueEndTeachingEnding.receivePop.popTitle,True End研修達成,True End Training Complete
+trueEndTeachingEnding.receivePop.missionTitle,True End研修でTrue Endを達成しよう,Achieved a True End in True End Training
+trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,"Thanks for training~\r\nFor future Productions, let's do our\r\nbest, okay~?"
 trueEndTeachingEnding.receivePop.rewardDetailText,True End研修達成報酬SSRプロデュースアイドルです,True End Training Reward SSR Produce Idol
 errorDialog.trueEndTeachingDuplicate,進行中のTrue End研修があるので\n開始できませんでした。\n一度True End研修を終了してから始めてください。,Could not start because there is already\r\na True End training.\r\nPlease finish the current training.
 gasha.skinRateDescription,衣装,Outfit
