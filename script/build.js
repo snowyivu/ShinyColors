@@ -13,7 +13,7 @@ const banner = `// ==UserScript==
 // @icon         https://shinycolors.enza.fun/icon_192x192.png
 // @author       biuuu
 // @match        https://shinycolors.enza.fun/*
-// @run-at       document-end
+// @run-at       document-start
 // @grant        GM_xmlhttpRequest
 // @connect      api.interpreter.caiyunai.com
 // @connect      translate.google.com
