@@ -1,4 +1,4 @@
-<a href="https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js"><img src="data/image/banner.jpg" alt="Check for updates"></a>
+<a href="https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js"><img src="image/banner.jpg" alt="Check for updates"></a>
 <p align="center">
 <a href="https://github.com/snowyivu/ShinyColors/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/snowyivu/ShinyColors.svg"></a>
 <a href="https://idolmaster.jp/"><img alt="THE IDOLM@STER" src="https://img.shields.io/badge/IDOL-M%40STER-ff779c.svg"></a>
@@ -36,7 +36,7 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 5. Refresh the game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
-<img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
 
 ## Installing on iOS
 1. For mobile，you'll need a browser that supports scripts.  Currently the only known one for iOS is Alook Browser which unfortunately is .99 cents on the App Store.
@@ -51,7 +51,7 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
  document.head.appendChild(script);
 }())
 ```
-<img src="https://github.com/snowyivu/ShinyColors/blob/master/data/image/iosinstall.png" alt="Click the ..." width="30%">
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%">
 5. Play the game through the new browser. You may need to refresh the page once at the start each time you play to load the script.
 
 
