@@ -8,7 +8,7 @@ id,name,text,trans
 0000000000000,プロデューサー,お、あったあった……,"Oh, there it is..."
 0000000000000,つけっぱなしのテレビ,"『──……ほら、新商品のサイダー飲む？　美味いぜ』
 『わ、ありがとう……！　──……』","""──Wanna try this new lemonade drink? It's really good.""
-""Ooh, thank you...! ......"""
+""Ooh, thanks...!"""
 0000000000000,プロデューサー,…………ふう……,...Aahh...
 0000000000000,プロデューサー,やあ！　おはよう円香！,"Hey! Good morning, Madoka!"
 2021004010010,円香,……挨拶なら、来た時にしましたけど,...I greeted you when I got here.
@@ -45,25 +45,25 @@ That's a convenience store label..."
 0000000000000,テレビの音声,『や、やだ……！　恥ずかしい……！』,"""Oh my god...! That's so embarassing...!"""
 0000000000000,プロデューサー,す、すまん……,I-I'm sorry...
 0000000000000,テレビの音声,『はは、大したことないだろ』,"""Haha, it's no big deal."""
-2021004010100,円香,は？？　何この番組,Huh? What's up with this TV show.
+2021004010100,円香,は？？　何この番組,Huh? What's up with this TV show?
 0000000000000,プロデューサー,"えっ！？　あ、ああ！　誰がつけていったんだろうな
-ちゃんと消してくれないと……","Eh!? R-right! Someone must have left it on.
+ちゃんと消してくれないと……","Eh!? R-Right! Someone must have left it on.
 They really ought to switch it off when they leave..."
 2021004010110,円香,……テレビをつけたのは私,...That someone who turned on the TV was me.
 0000000000000,プロデューサー,おっ……そ、そうか…………,Oh... I-I see...
 2021004010120,円香,この番組を見てたわけじゃないけど,"I wasn't watching this show, though."
-0000000000000,テレビの音声,『意識する方がどうかしてるだろ』,"""Getting all self-conscious about it makes no sense, right. """
-2021004010130,円香,…………,...
+0000000000000,テレビの音声,『意識する方がどうかしてるだろ』,"""Getting all self-conscious about it makes no sense, right?"""
+2021004010130,円香,…………,......
 0000000000000,プロデューサー,こ、これあんまり面白くないな！　──……消そう,"T-This is kinda dull, isn't it? ...Let's turn it off."
 0000000000000,プロデューサー,……いや、すまん。本当に……,"...So yeah, I'm sorry. I really am..."
 2021004010140,円香,………………変態,...You creep.
-0000000000000,プロデューサー,…………,...
+0000000000000,プロデューサー,…………,......
 0000000000000,プロデューサー,……どうしよう、このコーヒー,...Now what do I do with this coffee...?
-2021004010150,円香,……？,...?
-2021004010151,円香＆プロデューサー,何──,What──?
+2021004010150,円香,……？,Hm?
+2021004010151,円香＆プロデューサー,何──,What?
 2021004010152,円香＆プロデューサー,ちょっと……,Hey...
-2021004010153,円香＆プロデューサー,…………,...
-2021004010160,円香,何！？,What?!
+2021004010153,円香＆プロデューサー,…………,......
+2021004010160,円香,何！？,What!?
 0000000000000,プロデューサー,"いやっ……そのコーヒー
 俺のだから……","No, it's just... that coffee is mine, so..."
 2021004010170,円香,"……これは私の。あなたのは机の上にありますよね
@@ -78,7 +78,7 @@ I did... sorry."
 でも円香は飲む前だったよな！？　だからセーフ……","I-I'm sorry, I really am!
 But you hadn't drunk any of it yet, right? So we're in the clear..."
 0000000000000,プロデューサー,ま、円香……？,M-Madoka...?
-2021004010190,円香,……,...
+2021004010190,円香,……,......
 2021004010200,円香,"何？　私と間接キスしたんじゃないかって
 慌てているんですか",What? Are you getting all worked up over whether or not we might have kissed by proxy or what?
 0000000000000,テレビの音声,"『や、やだー！　恥ずかしい……！』
@@ -88,17 +88,17 @@ But you hadn't drunk any of it yet, right? So we're in the clear..."
 いつまでも初々しくていいですね","...On the same level as the middle schoolers in this show, huh? Must be great, holding on to that innocence forever."
 2021004010220,円香,青春ごっこは他所でどうぞ,But please take your young adult drama fantasies somewhere else.
 0000000000000,プロデューサー,"…………
-やっぱり円香、飲ん──","...
+やっぱり円香、飲ん──","......
 So you did drin──"
 2021004010230,円香,飲んでいません、あなたの後には,"I didn't. Not after you did, anyway."
-0000000000000,プロデューサー,……,...
-0000000000000,テレビの音声,『意識する方がどうかしてるだろ』,"""Getting all self-conscious about it makes no sense, right. """
+0000000000000,プロデューサー,……,......
+0000000000000,テレビの音声,『意識する方がどうかしてるだろ』,"""Getting all self-conscious about it makes no sense, right?"""
 0000000000000,プロデューサー,…………うるさい,...Shut up.
-2021004010240,円香,……？,...?
+2021004010240,円香,……？,Hm?
 0000000000000,プロデューサー,"それ円香のだったのか？
 すまん、俺のだと思って一口飲んでしまったんだ","Was that yours?
 Sorry, I took a sip from it earlier because I thought it was mine."
-2021004010250,円香,…………は？,....Huh?
+2021004010250,円香,…………は？,...Huh?
 0000000000000,プロデューサー,"本当にすまん！
 すぐに同じのを買ってくるから……！","I'm really sorry!
 I'll go buy you a new one right away...!"
@@ -108,20 +108,19 @@ I'll go buy you a new one right away...!"
 ……買ってすぐに一口飲んだけど","No need.
 ...I drank some right after buying it."
 2021004010280,円香,"全然美味しくなかったので
-もう一本もらっても、むしろ迷惑です","But I didn't like the taste at all, so getting another one would just be a nuisance.
-"
+もう一本もらっても、むしろ迷惑です","But I didn't like the taste at all, so getting another one would just be a nuisance."
 0000000000000,プロデューサー,"そ、そうか……？
 でも俺が無駄にしてしまったのは変わらないし……","Is that so...?
 But that doesn't change the fact that I spoiled it..."
 0000000000000,プロデューサー,"何か別のものでお詫びするよ
 飲みたいものはあるか？","I'll get you something else to make up for it.
 Anything else you'd like to drink?"
-2021004010290,円香,……,...
+2021004010290,円香,……,......
 2021004010300,円香,レモンティー、微糖の,"Lemon tea, the low-sugar one."
 0000000000000,プロデューサー,"わかった！
 すぐに買ってくるからな──！","Got it!
 I'll be right back!"
-2021004010310,円香,…………,...
+2021004010310,円香,…………,......
 2021004010320,円香,なんでこんなに苦いのを……,This stuff is way too bitter...
 0000000000000,テレビの音声,『はは、大したことないだろ』,"""Haha, it's no big deal."""
 2021004010330,円香,"全然美味しくないのを、

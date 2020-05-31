@@ -1,0 +1,58 @@
+id,name,text,trans
+0000000000000,プロデューサー,"そういえばさ
+最近、ユニットでもソロでも仕事増えてきただろ……？","Oh right, hasn't your unit and solo work been increasing lately...?"
+1002003010010,灯織,そうですね、とてもありがたいことだと思います,"It has, I think it's something to be grateful for."
+0000000000000,プロデューサー,"うん、ありがたいし、嬉しいことなんだけど……
+ちゃんと休めているか心配になってさ","Yeah, it is a thing to be happy and grateful for, but... I'm worried about if you've been taking breaks properly."
+1002003010020,灯織,"大丈夫です
+ちゃんと休んだりリフレッシュしたり、できているので……",It's okay. I'm relaxing and refreshing myself properly...
+1002003010030,灯織,"次の休みに、真乃とめぐるが好きそうなイベントがあって
+誘ってみようかと考えているんです","During my next break, there was an event that Mano and Meguru might be interested in, so I was thinking of inviting them."
+0000000000000,プロデューサー,"次の休みか、それはいい──
+…………あ","Your next break, that's nice- ......Ah."
+1002003010040,灯織,……？,...?
+0000000000000,プロデューサー,"灯織、すまん……
+その日、ふたりとも仕事が入ってる","Hiori, I'm sorry... There's work for both of us on that day."
+1002003010050,灯織,"え……？
+その日はオフだって、聞いていたんですけど",Huh...? I asked for that day off though.
+0000000000000,プロデューサー,ああ。ちょっと急なオファーがあってさ,I know. There was a sudden offer that came.
+1002003010060,灯織,"……そうでしたか
+じゃあ、また別の機会にします","...Really? Okay, then I'll do it during another time."
+0000000000000,プロデューサー,悪いな……,It's my bad...
+1002003010070,灯織,"プロデューサーのせいじゃありません
+私が勝手に誘おうかなって思っていただけです",It's not your fault. It was my fault for thinking of inviting them.
+1002003010080,灯織,それに、仕事をいただけるのはいいことだと思います,I think getting work is a good thing too.
+0000000000000,プロデューサー,……そうだな,...That's true.
+0000000000000,プロデューサー,"今さ、ふたりとも
+オファーが来るとほぼすべて受けてくれるだろ？","Right now we've been accepting pretty much every offer that comes, right?"
+1002003010090,灯織,"はい
+忙しいって言いながら、とても楽しそうです",Yes. While it is busy it's also fun.
+0000000000000,プロデューサー,これまでこなしたことのない量だったから、聞いたんだ,I want to ask because so far we've had no issues.
+0000000000000,プロデューサー,"今のペースはきつくないか？　って
+そしたら、『今はなんでもやりたいから』って","I think if our pace right now too strict, and then think ""I want to do anything right now"""
+1002003010100,灯織,……わかる気がします,...I get what you mean.
+0000000000000,プロデューサー,そうか……,Is that so...
+0000000000000,プロデューサー,"俺個人としては、体を壊さないかとか
+ちゃんと遊べているかとか、心配でもあるけど──","For me personally, I have worries about not overworking our bodies and if we are actually having fun, but..."
+0000000000000,プロデューサー,でも、みんなが意欲的なのはやっぱり嬉しいよ,I'm glad everyone is motivated.
+1002003010110,灯織,…………,......
+1002003010120,灯織,プロデューサー,Producer.
+1002003010130,灯織,私、『G.R.A.D.』に出たいです,"I want to enter ""G.R.A.D.""."
+0000000000000,プロデューサー,灯織も、『今はなんでもやりたい』？,"Hiori, so you're also thinking ""I want to do anything right now""?"
+1002003010140,灯織,はい,Yes.
+1002003010150,灯織,"真乃とめぐるが頑張っているのに、
+私が頑張らなかったら、ふたりに合わせる顔がありません","If Mano and Meguru are doing their best and I'm not, I won't be able to match with them."
+1002003010160,灯織,"それに……
+これはプロデューサーが持ってきてくださった仕事です",Besides... This is a job you worked to get.
+1002003010170,灯織,私のために持ってきてくださった仕事を──,You got this job for me.
+1002003010180,灯織,やらない理由も、ありません,I have no reasons not to do it.
+0000000000000,プロデューサー,"そうか、わかった
+エントリーしておくな","Okay, I got it. I'll enter you in."
+0000000000000,プロデューサー,ただ、体は資本だからな,"However, your body is your asset."
+0000000000000,プロデューサー,体調には気を遣いすぎるくらい、気を付けること！,Make sure you pay attention to your needs properly!
+1002003010190,灯織,"……はい！
+ありがとうございます、プロデューサー","...Okay! Thank you very much, Producer."
+1002003010200,灯織,"自己管理をしっかりしつつ、
+勝ち抜けるように頑張りますね",I'll do my best to win while taking care of myself properly.
+info,produce_events/100200301.json,
+译者,,
