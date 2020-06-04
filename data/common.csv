@@ -1118,3 +1118,168 @@ Visualアピール倍率2.5倍以上のライブスキルを習得しよう,Let'
 Vocalアピール倍率3倍以上のライブスキルを習得しよう,Let's learn a Vocal 3x or higher Appeal
 Danceアピール倍率3倍以上のライブスキルを習得しよう,Let's learn a Dance 3x or higher Appeal
 Visualアピール倍率3倍以上のライブスキルを習得しよう,Let's learn a Visual 3x or higher Appeal
+Aブロック,A Block
+シーズン中のボーカルレッスンの施設Lv.+3,Vocal Lesson Room Lv.+3 during Season
+この街は音楽と共にある\n歩く音すらもリズムに変わる,This block is full of music.\nEven your footsteps move to the rhythm.
+Bブロック,B Block
+シーズン中のダンスレッスンの施設Lv.+3,Dance Lesson Room Lv.+3 during Season
+ストリートスポーツが盛んな街\nさあ、身体を動かそう,"A block thriving with street sports.\nHey, let's move our body!"
+Cブロック,C Block
+シーズン中のビジュアルレッスンの施設Lv.+3,Visual Lesson Room Lv.+3 during Season
+ファッション・アートの発信地\nここではセンスが武器になる,The origin of fashion and art.\nTaste and style are the law here.
+Dブロック,D Block
+シーズン中の全お仕事の施設Lv.+2,All Job Rooms Lv.+2 during Season
+高層ビルが立ち並ぶオフィス街\n昼も夜も、未来が生まれる,An office city lined with high-rise buildings.\nCreating the future around the clock.
+Leader適正 ○,Leader Qualification ○
+フェスユニット編成時、Leaderに設定した際のポジションボーナスを＋10%,"When set in a Fes Unit as Leader, gains +10% position bonus"
+Leader適正 ◎,Leader Qualification ◎
+フェスユニット編成時、Leaderに設定した際のポジションボーナスを＋15%,"When set in a Fes Unit as Leader, gains +15% position bonus"
+Vocal適正 ○,Vocal Qualification ○
+フェスユニット編成時、Vocalに設定した際のポジションボーナスを＋10%,"When set in a Fes Unit as Vocal, gains +10% position bonus"
+Vocal適正 ◎,Vocal Qualification ◎
+フェスユニット編成時、Vocalに設定した際のポジションボーナスを＋15%,"When set in a Fes Unit as Vocal, gains +15% position bonus"
+Dance適正 ○,Dance Qualification ○
+フェスユニット編成時、Danceに設定した際のポジションボーナスを＋10%,"When set in a Fes Unit as Dance, gains +10% position bonus"
+Dance適正 ◎,Dance Qualification ◎
+フェスユニット編成時、Danceに設定した際のポジションボーナスを＋15%,"When set in a Fes Unit as Dance, gains +15% position bonus"
+Visual適正 ○,Visual Qualification ○
+フェスユニット編成時、Visualに設定した際のポジションボーナスを＋10%,"When set in a Fes Unit as Visual, gains +10% position bonus"
+Visual適正 ◎,Visual Qualification ◎
+フェスユニット編成時、Visualに設定した際のポジションボーナスを＋15%,"When set in a Fes Unit as Visual, gains +15% position bonus"
+Center適正 ○,Center Qualification ○
+フェスユニット編成時、Centerに設定した際のポジションボーナスを＋5%,"When set in a Fes Unit as Center, gains +5% position bonus"
+Center適正 ◎,Center Qualification ◎
+フェスユニット編成時、Centerに設定した際のポジションボーナスを＋10%,"When set in a Fes Unit as Center, gains +10% position bonus"
+オールラウンダー○,All-Rounder ○
+フェスユニット編成時、ポジションボーナスが＋5%,"When set in a Fes Unit, gains +5% position bonus"
+オールラウンダー◎,All-Rounder ◎
+フェスユニット編成時、ポジションボーナスが＋10%,"When set in a Fes Unit, gains +10% position bonus"
+スロースターター,Slow Start
+アピール値4~20％UP[経過ターンが長いほど効果UP],Appeal Strength 4~20％UP [Higher in later turns]
+スタートダッシュ,Start Dash
+アピール値2~10％UP[経過ターンが短いほど効果UP],Appeal Strength 2~10％UP [Higher in early turns]
+人気者,Popular
+審査員の興味3％UP,Judge Interest 3％UP
+物静か,Quiet
+審査員の興味3％DOWN,Judge Interest 3％DOWN
+いずれかのひらめき×3,Any×3
+いずれかのひらめき×4,Any×4
+いずれかのひらめき×5,Any×5
+いずれかのひらめき×8,Any×8
+除去：メランコリー１,Remove: Melancholy 1
+アピールフェイズ開始毎にメランコリー効果を5％の確率で除去,5% chance to remove Melancholy at the start of each Appeal Phase
+除去：メランコリー２,Remove: Melancholy 2
+アピールフェイズ開始毎にメランコリー効果を10％の確率で除去,10% chance to remove Melancholy at the start of each Appeal Phase
+除去：リラックス１,Remove: Relax 1
+アピールフェイズ開始毎にリラックス効果を5％の確率で除去,5% chance to remove Relax at the start of each Appeal Phase
+除去：リラックス２,Remove: Relax 2
+アピールフェイズ開始毎にリラックス効果を10％の確率で除去,10% chance to remove Relax at the start of each Appeal Phase
+注目の的,Center of Attention
+注目度が10％UP,Attention Rate 10％UP
+ひかえめ,Low-Key
+注目度が3％DOWN,Attention Rate 3％DOWN
+Vocal上限＋,Vocal Limit+
+Vocalの上限値＋50,Vocal Cap +50
+Vocal上限＋＋,Vocal Limit++
+Vocalの上限値＋75,Vocal Cap +75
+Vocal上限＋＋＋,Vocal Limit+++
+Vocalの上限値＋100,Vocal Cap +100
+Dance上限＋,Dance Limit+
+Danceの上限値＋50,Dance Cap +50
+Dance上限＋＋,Dance Limit++
+Danceの上限値＋75,Dance Cap +75
+Dance上限＋＋＋,Dance Limit+++
+Danceの上限値＋100,Dance Cap +100
+Visual上限＋,Visual Limit+
+Visualの上限値＋50,Visual Cap +50
+Visual上限＋＋,Visual Limit++
+Visualの上限値＋75,Visual Cap +75
+Visual上限＋＋＋,Visual Limit+++
+Visualの上限値＋100,Visual Cap +100
+メンタル上限＋,Mental Limit+
+メンタルの上限値＋50,Mental Cap +50
+メンタル上限＋＋,Mental Limit++
+メンタルの上限値＋75,Mental Cap +75
+メンタル上限＋＋＋,Mental Limit+++
+メンタルの上限値＋100,Mental Cap +100
+ボーカルマスター,Vocal Mastery
+アピールフェイズ開始毎にVocalDOWNステータス効果を100％の確率で除去,100% Chance to remove VocalDOWN Effect at the start of each Appeal Phase
+ダンスマスター,Dance Mastery
+アピールフェイズ開始毎にDanceDOWNステータス効果を100％の確率で除去,100% Chance to remove DanceDOWN Effect at the start of each Appeal Phase
+ビジュアルマスター,Visual Mastery
+アピールフェイズ開始毎にVisualDOWNステータス効果を100％の確率で除去,100% Chance to remove VisualDOWN Effect at the start of each Appeal Phase
+パーフェクトリィ,Perfecthree
+すべてのアピール値が10％UP,All Appeal Strength 10％UP
+アピールUP（思い出高）,Appeal UP (High Memory)
+アピール値2~10％UP[思い出ゲージが多いほど効果UP],Appeal Strength 2~10％UP [Higher at higher Memory Gauge]
+アピールUP（思い出低）,Appeal UP (Low Memory)
+アピール値4~20％UP[思い出ゲージが少ないほど効果UP],Appeal Strength 4~20％UP [Higher at lower Memory Gauge]
+真乃×4,Mano×4
+櫻木真乃との絆,Bond with Mano
+櫻木真乃がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Mano is set in the unit
+灯織×4,Hiori×4
+風野灯織との絆,Bond with Hiori
+風野灯織がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Hiori is set in the unit
+めぐる×4,Meguru×4
+八宮めぐるとの絆,Bond with Meguru
+八宮めぐるがユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Meguru is set in the unit
+恋鐘×4,Kogane×4
+月岡恋鐘との絆,Bond with Kogane
+月岡恋鐘がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Kogane is set in the unit
+魔美々×4,Mamimi×4
+田中摩美々との絆,Bond with Mamimi
+田中摩美々がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Mamimi is set in the unit
+咲耶×4,Sakuya×4
+白瀬咲耶との絆,Bond with Sakuya
+白瀬咲耶がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Sakuya is set in the unit
+結華×4,Yuika×4
+三峰結華との絆,Bond with Yuika
+三峰結華がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Yuika is set in the unit
+霧子×4,Kiriko×4
+幽谷霧子との絆,Bond with Kiriko
+幽谷霧子がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Kiriko is set in the unit
+果穂×4,Kaho×4
+小宮果穂との絆,Bond with Kaho
+小宮果穂がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Kaho is set in the unit
+千代子×4,Chiyoko×4
+園田智代子との絆,Bond with Chiyoko
+園田智代子がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Chiyoko is set in the unit
+樹里×4,Juri×4
+西城樹里との絆,Bond with Juri
+西城樹里がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Juri is set in the unit
+凛世×4,Rinze×4
+杜野凛世との絆,Bond with Rinze
+杜野凛世がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Rinze is set in the unit
+夏葉×4,Natsuha×4
+有栖川夏葉との絆,Bond with Natsuha
+有栖川夏葉がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Natsuha is set in the unit
+甘奈×4,Amana×4
+大崎甘奈との絆,Bond with Amana
+大崎甘奈がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Amana is set in the unit
+甜花×4,Tenka×4
+大崎甜花との絆,Bond with Tenka
+大崎甜花がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Tenka is set in the unit
+千雪×4,Chiyuki×4
+桑山千雪との絆,Bond with Chiyuki
+桑山千雪がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Chiyuki is set in the unit
+あさひ×4,Asahi×4
+芹沢あさひとの絆,Bond with Asahi
+芹沢あさひがユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Asahi is set in the unit
+冬優子×4,Fuyuko×4
+黛冬優子との絆,Bond with Fuyuko
+黛冬優子がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Fuyuko is set in the unit
+愛依×4,Mei×4
+和泉愛依との絆,Bond with Mei
+和泉愛依がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Mei is set in the unit
+透×4,Toru×4
+浅倉透との絆,Bond with Toru
+浅倉透がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Toru is set in the unit
+円香×4,Madoka×4
+樋口円香との絆,Bond with Madoka
+樋口円香がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Madoka is set in the unit
+小糸×4,Koito×4
+福丸小糸との絆,Bond with Koito
+福丸小糸がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Koito is set in the unit
+雛菜×4,Hinana×4
+市川雛菜との絆,Bond with Hinana
+市川雛菜がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Hinana is set in the unit
