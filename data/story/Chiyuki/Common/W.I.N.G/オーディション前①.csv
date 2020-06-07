@@ -1,0 +1,26 @@
+id,name,text,trans
+4016001000110010,千雪,"なんだか、緊張しちゃいますね……
+人と話すのは、苦手じゃないはずなのに……","I'm kind of getting nervous...
+I'm not really the best at talking to people..."
+0000000000000,プロデューサー,（千雪の緊張を解いてあげなきゃな）,(I'll have to ease off Chiyuki's tension.)
+select,,"いつも通りの
+千雪で行こう","As usual,
+keep on going."
+select,,"にらめっこでも
+しよう",Stare at me.
+select,,"お店での経験を
+思い出そう","Think of it as if
+you were working
+at the store."
+4016001000110020,千雪,"ふふ……そうですね。私、気負いすぎてたみたいです
+ありがとうございます、行ってきますね！","Fufu... that's right. I guess I was just feeling overwhelmed. Thank you, I'm off!"
+0000000000000,プロデューサー,（うまく緊張はとけたみたいだな）,(Seems like I've eased her tension off.)
+4016001000110030,千雪,"えっ……？　えーと……あっぷっぷ……？
+ふふっ……やだ、プロデューサーさん、すごいお顔","Eh...? Erm... Ah-phfft...?
+Fufu... No way, you had such a great reaction!"
+0000000000000,プロデューサー,（少しは気が楽になったかな？）,(Did that make you feel a little better?)
+4016001000110040,千雪,"お店のお仕事とは、いろんなことが違いすぎて……
+でも、お客様と向かい合うことには変わりないですよね","There's many things that are different when I was still working... But, you still have to face both."
+0000000000000,プロデューサー,（もっと別の言葉をかけたほうがよかったか……）,(I should've said something else instead...)
+info,produce_communication_cheers/401600100011.json,
+译者,,

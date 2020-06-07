@@ -1,0 +1,23 @@
+id,name,text,trans
+4013001000230010,夏葉,"プロデューサー。なんとしても勝ちたいの！
+何を意識して臨めばいいかアドバイスを貰えるかしら？","Producer, I want to win no matter what!
+Is there any thing I should keep in mind?"
+0000000000000,プロデューサー,そうだな……,Well...
+select,,全部だ,Everything.
+select,,笑顔だ,Your smile.
+select,,余裕を持て,Stay calm.
+4013001000230020,夏葉,"ふふっ、そうよね。いつも私が言ってることじゃない
+バカなことを聞いてしまったわ","Fufu, very true. That's exactly what I always say, isn't it?
+Sorry about the dumb question."
+0000000000000,プロデューサー,(いい表情だ！　問題なさそうだな),"(That's the expression I like to see! Everything is going
+to be ok.)"
+4013001000230030,夏葉,"そうね、基本中の基本よね
+……気がはやって見落とすところだったわ","Right, that's the basic of basics.
+...I got ahead of myself and completely overlooked that."
+0000000000000,プロデューサー,(アドバイスを素直に受け入れたみたいだ),(It seems she readily accepted my advice.)
+4013001000230040,夏葉,"あら、流石に少しは余裕を持っているわよ？
+そう見えなかった？","Oh? I'm already quite calm though.
+Can you not tell?"
+0000000000000,プロデューサー,(余裕を見抜けなかったか……),(I could see right through you...)
+info,produce_communication_cheers/401300100023.json,
+译者,,
