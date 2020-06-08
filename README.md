@@ -24,7 +24,7 @@ Once you have the patch set up, it will grab future updates automatically.  The 
 4. Refresh game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
-Game Address：[Direct Link](https://shinycolors.enza.fun/home)
+Game Address：[Direct Link](https://shinycolors.enza.fun/)
 
 Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://go.enza.fun/YLZXbw)
 
@@ -33,7 +33,7 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 2. (Return to this page on your new browser)
 3. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension
 4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
-5. Refresh the game page and the patch should work automatically
+5. Refresh the game page [(Link Here)](https://shinycolors.enza.fun/) and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
@@ -44,8 +44,8 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 3. Go to Settings > Custom Settings > JavaScript Extensions > Add a New One
 4. On the next screen you will need to set up the Match Type to Host , Match Value to shinycolors.enza.fun , Run At to Very Beginning , and then for the "Javascript Code" section, you will need to paste the entire javascript found at this link:
 https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js (screenshot is older)
-<img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%">
-5. Play the game through the new browser. You may need to refresh the page once at the start each time you play to load the script.
+<img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%"></img>
+5. Play the game through the new browser [(Link Here)](https://shinycolors.enza.fun/) You may need to refresh the page once at the start each time you play to load the script.
 
 
 **Machine translation**
