@@ -2,18 +2,18 @@ id,name,text,trans
 1002001030010,灯織,……,......
 0000000000000,プロデューサー,灯織、暗い顔をしてどうしたんだ？,"Hiori, why do you look so gloomy?"
 1002001030020,灯織,"いえ。……この間の仕事で、
-またミスをしてしまったんです",Nothing. ...I made another mistake during work recently.
+またミスをしてしまったんです",Nothing... I made another mistake during work recently.
 1002001030030,灯織,"あんなにレッスンを重ねてきたのに
 仕事ひとつ完璧にこなせないなんて……アイドル失格です","Even though I've done so many lessons, I haven't been able to finish even a single job perfectly... I'm unfit to be an idol."
 0000000000000,プロデューサー,"（この頃、以前にも増してレッスン量が
-増えたのは、それが原因か……）","(Lately we've been increasing lessons more and more, maybe that is the cause...)"
+増えたのは、それが原因か……）","(Lately we've been increasing lessons more and more, maybe that's why...)"
 0000000000000,プロデューサー,灯織、そんなに落ちこむな,"Hiori, don't feel so down."
 0000000000000,プロデューサー,"焦ることはない。仕事の後の反省会だって欠かさずに
 しているし、経験を重ねていけばいずれ……","There's no need to rush. You've been doing review meetings consistently, so I'm sure someday as you get more experience..."
 1002001030040,灯織,"適当な励ましはやめてください
-何のためにもなりません",Please stop the inconsistent encouragement. It won't amount to anything.
+何のためにもなりません",Please stop the haphazard encouragement. It won't amount to anything.
 1002001030050,灯織,"自分が１番わかっています。こんなレベルじゃ
-トップアイドルなんてとても目指せないことを",I understand it the most that at this level I can't aim for top idol.
+トップアイドルなんてとても目指せないことを",I understand it best. At this level there's no way I can aim for top idol.
 1002001030060,灯織,"……もしかたら、アイドルなんて
 最初から私には向いていなかったのかもしれませんね……",...It might be that I wasn't fit to be an idol from the start...
 0000000000000,プロデューサー,"灯織……そんなことは絶対にない
@@ -30,41 +30,41 @@ select,,"そりゃ、
 超能力でパパッと……","Instantly with my
 psychic powers..."
 select,,"はは、
-ちょっと疲れた……","Haha,
-I'm a bit tired..."
+ちょっと疲れた……","Haha, I'm
+a bit worn-out..."
 select,,"灯織の気持ちに
 応えたかったんだ","I wanted to
 respond to
-your feelings"
+your feelings."
 1002001030100,灯織,真面目に答えてください,Please answer seriously.
 0000000000000,プロデューサー,"す、すまない……
 本当は、空いた時間を使ってこしらえたんだ",I-I'm sorry... The truth is I did it in my spare time.
 0000000000000,プロデューサー,"１日も早く、灯織をトップアイドルに
-してやりたいからな","If even by a day sooner, I want to make you into a top idol."
+してやりたいからな","If it's even by just a day sooner, I want to make you into a top idol."
 1002001030110,灯織,"トップアイドル……
 まだ、仕事一つろくにこなせない私がトップだなんて……",Top idol... There's no way I can get to the top when I can't even get work...
 0000000000000,プロデューサー,"いいや、俺は灯織の才能ならトップアイドルだって
-夢じゃないと信じている","No way, I believe that with your talent that even top idol isn't just a dream."
+夢じゃないと信じている","No way, I believe that with your talent, even top idol isn't just a dream."
 1002001030120,灯織,才能……？,My talent?
 0000000000000,プロデューサー,"ああ。灯織は自分の厳しい性格や言い方に
 悩んでいるようだけどな",Yeah. I know you get worried over your strict personality and way of saying things.
 0000000000000,プロデューサー,"それは、それだけ物事に真剣に向き合っている証拠で、
 灯織の才能なんだと俺は思う","However, I think that's proof that you confront everything earnestly, and that's your talent."
 1002001030130,灯織,"……才能だなんて、そんな風に考えたこと
-ありませんでした",...I never thought of it as my talent in that way.
+ありませんでした",...I never thought of it as a talent in that way.
 1002001030140,灯織,そんな考え方もあるんですね……,It's possible to think like that too...
 1002001030150,灯織,"……ありがとうございます、プロデューサー
 少し気持ちが楽になったみたいです","...Thank you very much, Producer. I feel like I'm a bit more relaxed."
 1002001030160,灯織,私、いつかトップアイドルになれるよう精進します,I'll keep devoting myself so that some day I can become top idol.
-0000000000000,プロデューサー,ああ、楽しみにしている,"Yeah, I'm looking forward to that."
+0000000000000,プロデューサー,ああ、楽しみにしている,"Yeah, I'm looking forward to it."
 1002001030170,灯織,"……さっそく、レッスンについて相談したいのですが
 いいですか？","...I want to talk about lessons as soon as possible, is that okay?"
-0000000000000,プロデューサー,もちろんだ。……そのための俺だからな,Of course. ...That's what I'm here for.
+0000000000000,プロデューサー,もちろんだ。……そのための俺だからな,Of course... That's what I'm here for.
 1002001030180,灯織,笑いごとではありません。質問に答えてください,This isn't something to laugh about. Please answer my question.
 0000000000000,プロデューサー,……俺も灯織に負けてられないなって思ってな,...I think that I don't want to lose to you.
 1002001030190,灯織,え……？,Huh?
 0000000000000,プロデューサー,"灯織がこんなに頑張っているのに
-俺だけぼんやりしていられないだろう？","You've been working so hard, so I shouldn't be the only one slacking around, right?"
+俺だけぼんやりしていられないだろう？","You've been working so hard, I shouldn't be slacking off either, right?"
 0000000000000,プロデューサー,"だから、灯織を見習って
 俺ができる全力でサポートしようと思ったんだ",So I thought I'd learn from you and do my best to support you.
 1002001030200,灯織,見習うだなんて……私にそんな長所はありません,Learn fom me... I'm not that great.
@@ -76,31 +76,31 @@ your feelings"
 少なくとも、ここにいるんだからな","Yeah, so have some self confidence. At the very least, there's someone right here strucken by you."
 1002001030220,灯織,プロデューサー……,Producer...
 0000000000000,プロデューサー,"どうだ？　さっそく練習メニューを試してみないか？
-悩むより慣れろ、心身を動かせ、だ","What do you think? Do you want to try the practice schedule now? Rather than worrying, get used to moving your body."
+悩むより慣れろ、心身を動かせ、だ","What do you think? Do you want to try the practice schedule now? Rather than worrying, get used to moving your mind and body."
 1002001030230,灯織,"……わかりました。よろしくお願いします
 プロデューサー","...I understand. I'll be counting on you, Producer."
 1002001030240,灯織,私の気持ち……？,My feelings...?
 0000000000000,プロデューサー,"ああ、灯織のアイドルへの切実な想いは
-痛いくらい伝わってきたからな","Yeah, your serious feelings towards being an idol showed so much it hurts."
+痛いくらい伝わってきたからな","Yeah, your serious feelings towards being an idol show so much that it hurts."
 0000000000000,プロデューサー,"プロデューサーとして、やれるべきサポートは
-すべてやっておきたかったんだ",I had to do everything I could to support you as a Producer.
+すべてやっておきたかったんだ",I had to do everything I could to support you as a producer.
 1002001030250,灯織,プロデューサー……,Producer...
 0000000000000,プロデューサー,"練習メニューはどうかな？
-俺なりに考えてみたつもりなんだが……",How is the practice schedule? I tried to think of it in my own way...
+俺なりに考えてみたつもりなんだが……",How is the practice schedule? I tried to come up with it in my own way...
 1002001030260,灯織,"一通りのローテーションから、休憩のタイミングまで……
 すごい！　私の理想のメニューです、プロデューサー","From all the rotations to even the break times... It's amazing! It's my ideal schedule, Producer."
 0000000000000,プロデューサー,よかった。そう言ってもらえると嬉しいよ,That's good. Hearing you say that makes me happy.
 1002001030270,灯織,"……こんなに、私に向き合ってくれた人は
-プロデューサーが初めてです",...You're the first person I've met who understand me so well.
+プロデューサーが初めてです",...You're the first person I've met who understands me so well.
 1002001030280,灯織,"私は、ついキツイことを言ってしまうことがあって
-そのせいで人と接するのも苦手で……","I tend to say harsh things suddenly without meaning to, so I'm not good at being close to other people..."
+そのせいで人と接するのも苦手で……","I tend to say harsh things suddenly without meaning to, so I'm not good at being close with other people..."
 1002001030290,灯織,だから、アイドルになりたいって思ったんです,That's why I think I want to be an idol.
 1002001030300,灯織,"私の目指すアイドルは、なりたかった理想の
-自分でもあったから……",The idol I'm aiming to be is my ideal self that I've wanted to become...
+自分でもあったから……",The idol I'm aiming to become is my ideal self...
 0000000000000,プロデューサー,……,......
 1002001030310,灯織,だけど最近はちょっと焦っていたかもしれません,"However, I might have been in a bit too much of a hurry lately."
 1002001030320,灯織,"……プロデューサー、改めてお願いします
-私をプロデュースしてください","...Producer, I'm counting on you again to please produce me."
+私をプロデュースしてください","...Producer, I'm counting on you once again to please produce me."
 0000000000000,プロデューサー,灯織？,Hiori?
 1002001030330,灯織,"私の夢にはプロデューサーが必要なんです
 だから、お願いします",I need a producer to accomplish my dream. That's why I'm counting on you.

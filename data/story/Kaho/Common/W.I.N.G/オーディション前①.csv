@@ -1,0 +1,16 @@
+id,name,text,trans
+4009001000110010,果穂,"わぁ……っ！　ステージの見えないところって
+こんなふうになってるんですねー。思ってたより広いです","Wow! I've never seen a stage like this ever before. It's way bigger than I thought it would be. "
+0000000000000,プロデューサー,（見慣れない舞台袖に、落ち着かないみたいだな……）,(She doesn't seem very comfortable being on such an unfamiliar stage...)
+select,,楽しんでいこう,Let's have fun.
+select,,いつも通りやろう,Just do what you always do.
+select,,落ち着いていこう,Calm her down.
+4009001000110020,果穂,はいっ！　張り切って行ってきますっ！,"Sure! I'll do my best! "
+0000000000000,プロデューサー,（よし。やる気満々だな……！）,"(Nice. She seems really motivated!) "
+4009001000110030,果穂,そうですね……いつも通りやれば、大丈夫ですよねっ！,"You're right. If I do what I always I do, I'll be just fine! "
+0000000000000,プロデューサー,（少し安心したみたいだな）,"(It looks like I calmed her down a little bit) "
+4009001000110040,果穂,"あっ、ごめんなさいっ！
+も、もう少し落ち着きますっ！","Ah, I'm sorry! I'll try to be a little bit more calm! "
+0000000000000,プロデューサー,（逆に焦らせてしまったか……？）,"(Maybe I was the one who was worried?) "
+info,produce_communication_cheers/400900100011.json,
+译者,,

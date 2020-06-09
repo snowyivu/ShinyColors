@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,"雛菜、おはよう！
+なんだか眠そうだな……","Hinana, good morning!
+You look kind of sleepy..."
+1023001000910010,雛菜,"プロデューサー、おはよう～
+すっごく眠いけど～……","Producer, morning~
+I'm actually super sleepy..."
+0000000000000,プロデューサー,"あ、コーヒーはどうだ？
+俺も今飲んでるけど、目が覚めるぞ","Ah, how about some coffee?
+I'm having some right now, and it helped me wake up."
+1023001000910020,雛菜,"ん～？
+じゃあそれ一口ちょうだい～","Mn~?
+Then, give me a sip of yours~"
+select,,"これは
+苦いぞ","It's bitter
+though"
+select,,"新しいの
+淹れるよ","I'll pour you
+a new cup"
+select,,これはだめだ,"That's
+no good"
+1023001000910030,雛菜,"ん～……
+じゃあ雛菜飲めないかも～","Mn~...
+Then Hinana might not be able to drink it~"
+1023001000910040,雛菜,"砂糖と牛乳
+あるかな～？",I wonder if we have sugar and milk~?
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1023001000910050,雛菜,え～、いいの～～～？,"Eh, is that fine~?"
+1023001000910060,雛菜,"じゃあコーヒーと砂糖と牛乳、
+３対３対４でお願いします～～～","Then, some coffee with sugar and milk,
+and make it extra sweet, please~!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1023001000910070,雛菜,ん～、そっか,Mn~ Is that so?
+1023001000910080,雛菜,"じゃあいいや～
+別のやつ飲む～……","Well, whatevs~
+I'll just drink something else~"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102300100091.json,
+译者,,
