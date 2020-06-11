@@ -822,8 +822,8 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュア
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
 fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds：%{level}
-fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(The Festival preparations......\r\nIt seems we don't have quite enough help......)
-fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(It might be okay to ask for more help......\r\n......who would be good......?)
+fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(The Festival preparations...\r\nIt seems we don't have quite enough help...)
+fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(It might be okay to ask for more help...\r\n...who would be good...?)
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Organization Limit
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,"The above idols cannot\ncurrently be selected as Produce Idols\for ""283Pro Fan Thanksgiving"""
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,"The above idols cannot\ncurrently be selected as Support Idols\for ""283Pro Fan Thanksgiving"""
@@ -1601,3 +1601,8 @@ produceAction.surplusInspirationDialog.descriptions.second.left,獲得するひ�
 produceAction.surplusInspirationDialog.descriptions.second.center,%{acquirableNum}つ,%{acquirableNum}x
 produceAction.surplusInspirationDialog.descriptions.second.right,選択してください,Inspirations to Get
 produceSeasonResult.season,シーズン%{seasonNum},Season %{seasonNum}
+produceAction.maxInspirationDialog.title,ひらめき獲得,Gain Inspiration
+produceAction.maxInspirationDialog.description1,ひらめきが最大獲得数に達しているため,The max amount of Inspiration has been acquired
+produceAction.maxInspirationDialog.description2,ひらめきが獲得できません,and further Inspiration cannot be gained
+produceAction.maxInspirationDialog.descriptionActions.lesson,「レッスン」を行いますか？,Perform the Lesson?
+produceAction.maxInspirationDialog.descriptionActions.work,「お仕事」を行いますか？,Perform the Job?

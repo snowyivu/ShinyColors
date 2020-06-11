@@ -1,0 +1,50 @@
+id,name,text,trans
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,I see... so we aren't able to participate.
+7901001080010,はづき,"……不参加って連絡が来たとき、
+聞き間違いかと思いました","...When I was contacted about our exclusion,
+I thought I might have been mishearing things."
+7901001080020,はづき,"私には、どうして彼女が参加できないのか
+ちっともわかりません……！",I just don't get why she can't participate...!
+7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
+受け入れるより他にあるまい","I understand how you feel... but these are the results.
+There's nothing we can do but accept them."
+7901001080030,はづき,"……私、きっとあの子のファンだったんですね
+だからこの結果が、悔しくてたまらないんです……","...I was definitely a fan of hers.
+So I can't help but feel frustrated about these results."
+0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
+誰よりも彼女のファンでしたから","Me too. As her producer, I was her biggest fan."
+0000000000000,プロデューサー,"……社長
+俺、彼女に会いに行ってきます","...President.
+I'm going to meet with her now."
+7902001080020,社長,ああ、そうするといい,"Yes, that would be wise."
+0000000000000,プロデューサー,『W.I.N.G.』には出場できない……ごめんな,"You didn't make it into ""W.I.N.G.""
+...I'm sorry. "
+7013001080010,夏葉,"……分かったわ
+全力でやったから悔いはないわ！","...I understand.
+I gave it everything I had, so I have no regrets!"
+0000000000000,プロデューサー,"（さすが夏葉だな……
+冷静に自分の状況を受け止めている）","(I expected her to say as much...
+She took that news with all the calm in the world.)"
+7013001080020,夏葉,"ほら、何ボーっとしてるの！
+今すぐ反省会よ！","Hey, what are you spacing out for!
+We need to get to work on reviewing
+material for next time!"
+0000000000000,プロデューサー,……あ、ああ、わかった,"...Oh, yeah, got it."
+7013001080030,夏葉,"なら早く準備しなさい、プロデューサーにも一緒に
+今後の課題を考えてもらわないといけないんだから！","Well, hurry up and get your things ready. This
+won't go anywhere without your help, Producer!"
+7013001080040,夏葉,"そして、次はもっとファンが喜んで楽しめるような
+完璧なパフォーマンスをしてみせるのよ！","I want to the next performance I give my fans
+to be absolutely perfect, so that they can all
+enjoy themselves."
+0000000000000,プロデューサー,"そうだな！
+一緒にもっともっと頑張ろう！","Exactly!
+Let's kick things up a notch!"
+7013001080050,夏葉,"その意気よ、プロデューサー！
+しっかり私についてきなさい！","That's the spirit, Producer!
+Make sure you follow my lead!"
+7013001080060,夏葉,"世界一のアイドルを目指すなら、
+こんなところで立ち止まってなんていられないもの！","I'll be the world's number one idol, yet.
+There's no way I can stop now!"
+info,produce_events/701300108.json,
+译者,,

@@ -24,7 +24,7 @@ I was kind of confused about what you were doing."
 It's a easy method to get some training in."
 0000000000000,プロデューサー,"……いつもそうやって、
 短い時間にもトレーニングをしてるのか？","...Do you always do that? 
-I mean, are you always looking for time to training?"
+I mean, are you always looking for time to train?"
 1013001020060,夏葉,"もちろんよ。はじめに言ったでしょう
 私はトップアイドルを目指しているって","Of course. I said it when we first met, right?
 I'm only setting my sights for the top."
@@ -36,18 +36,19 @@ to continue disciplining myself for that sake."
 be spent idly!"
 0000000000000,プロデューサー,そうか……,I see...
 select,,"夏葉のトップに対する
-気持ちはすごいな","Your drive to become
-the best is incredible."
+気持ちはすごいな","It's incredible
+how driven you are
+to be the best."
 select,,"頑張るのも大切だけど、
-無理をしないようにな","Working hard is
-important, but don't
+無理をしないようにな","I admire your
+effort, but don't
 overdo it, ok?"
 select,,"他にはどんな
 筋トレがあるんだ？","What other kinds
-of weight training
+of exercises
 are there?"
 1013001020090,夏葉,"当然よ
-いい？　トップというものは本当にすごいのよ？","Of course.
+いい？　トップというものは本当にすごいのよ？","Naturally.
 Listen. The top is a truly amazing place."
 1013001020100,夏葉,"たくさんの人たちの中の１番……
 たった１人だけが勝ち取る頂点……","To be the best among so many people...
@@ -66,12 +67,13 @@ Why are you so relentless towards yourself?
 成し遂げる人間になりたいの","...I want to be a person who does
 great things."
 1013001020150,夏葉,"誰よりも頑張ってアイドルのトップになることで、
-私はそんな未来の私に近づける気がしているのよ","And I can feel as I approach my future self, I can be the idol
-who worked harder than anyone else to reach the top."
+私はそんな未来の私に近づける気がしているのよ","And I can feel as I approach my future self,
+I can be the idol who worked harder than
+anyone else to reach the top."
 0000000000000,プロデューサー,"（熱いな……夏葉のこの気持ちがきっと報われるように
 俺も気合いを入れてサポートしていこう）","(I can feel her burning passion... I'll do whatever
-I can to match her fervor and see that she's rewarded
-for her efforts.)"
+I can to match her fervor and see that she's
+rewarded for her efforts.)"
 0000000000000,プロデューサー,"大切なことは、
 なにもトレーニングだけじゃないだろ？","You must value other things
 besides training and excerise, yes?"
@@ -96,24 +98,26 @@ It really isn't that big of deal."
 if I'm trying to reach the top."
 1013001020210,夏葉,だから私は、もっともっと頑張るつもりよ,That's why I intend to work even harder.
 0000000000000,プロデューサー,"（……ひた向きだな。無茶をしすぎないかだけは心配だが
-そこは俺がしっかり見守っていこう）","(...She's earnest, but I'm just worried that she's
-being a bit excessive. Best to keep watching over her.)"
+そこは俺がしっかり見守っていこう）","(...She's earnest, but I'm just worried
+that she's being a bit excessive. Best to
+keep watching over her.)"
 1013001020220,夏葉,"隙間時間を使って電車の移動中につま先立ちをするとか、
-立ったまま、かかとを上げ下げするのもいいし……","Moments when you're, say, on the train, you can stand
- up on your tiptoes. Moving your heels up and down
-as you're standing helps too."
+立ったまま、かかとを上げ下げするのもいいし……","Moments when you're, say, on the train, you can
+stand up on your tiptoes. Moving your heels up
+and down as you're standing helps too."
 1013001020230,夏葉,"それに普段の姿勢をぴんと美しく保つことを
-心がけるだけでも筋肉の付き方は変わってくるのよ","Furthermore, just keeping your posture nice and straight
-changes how you gain muscles."
+心がけるだけでも筋肉の付き方は変わってくるのよ","Furthermore, just keeping your posture nice
+and straight affects how you build muscles."
 1013001020240,夏葉,"……と、ひとまずこんなところにしておくけど
 これでわかったかしら？","...which is where I'm going to stop for now.
 Were you able to understand all of that?"
-0000000000000,プロデューサー,なるほど。すごく考えられてるんだな,I think I got it. You've really thought this all through.
+0000000000000,プロデューサー,なるほど。すごく考えられてるんだな,"I think I got it. You've really
+thought this all through."
 1013001020250,夏葉,"たとえ隙間時間と言っても
 トレーニングの可能性は無限なのよ！","Though I only gave you one example, the 
 opportunities to train are endless!"
 0000000000000,プロデューサー,"すごいな
-まるでトレーニング博士だ","Wow, you're like a training expert."
+まるでトレーニング博士だ","Wow, you're like an expert on working out."
 1013001020260,夏葉,"ふふっ、プロデューサーもやってみるといいわ
 アイドルじゃなくても、筋肉があって困ることはないもの","Fufu, it would be great if you gave it a try.
 Idol or not, if you have muscles, there's
@@ -126,7 +130,7 @@ nothing that can hold you back."
 それだけいつも頑張ってるということか）","(...she made it look so easy before. I guess
 that's what happens when you put in the work.)"
 0000000000000,プロデューサー,"（よし、その努力がちゃんと実るように
-俺も全力で支えていこう）","(Alright, I'll have to watch myself if I ever want to
-reach that level of consistency.)"
+俺も全力で支えていこう）","(Alright, I'll have to watch myself if I ever
+want to reach that level of consistency.)"
 info,produce_events/101300102.json,
 译者,,
