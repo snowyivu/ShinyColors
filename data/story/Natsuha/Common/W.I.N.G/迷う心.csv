@@ -1,53 +1,42 @@
 id,name,text,trans
 0000000000000,プロデューサー,"……夏葉も少しずつ
-グレードの高いイベントに出られるようになってきたな","...Little by little you're getting to participate
-in higher level events, huh Natsuha?"
+グレードの高いイベントに出られるようになってきたな","...Little by little you're getting to participate in higher level events, huh Natsuha?"
 1013001030010,夏葉,"……そうね。今日のリハーサル
-まわりの子たちのレベルも高かったわ","...Yes. During the rehersal today I noticed
-the other girls were quite high level themselves."
+まわりの子たちのレベルも高かったわ",...Yes. During the rehersal today I noticed the other girls were quite high level themselves.
 0000000000000,プロデューサー,確かに俺たちも負けちゃいられないよな,We definitely can't let ourselves lose.
 0000000000000,プロデューサー,でも、今日のところはゆっくり休んでくれ,But for today we can just rest.
 1013001030020,夏葉,"……いいえ、私は今から
 レッスンスタジオへ行くわ","...No, for now I'm going back to the studio."
 0000000000000,プロデューサー,"でも、今日も全力でリハーサルに
-挑んでいたじゃないか。本当に大丈夫か？","But didn't you just get done with your rehersal?
-You've exerted yourself a lot today.
-Are you really ok?"
+挑んでいたじゃないか。本当に大丈夫か？",But didn't you just get done with your rehersal? You've exerted yourself a lot today. Are you really ok?
 1013001030030,夏葉,"この位平気よ
-それより今は、確かめたいことがあるの","This much I can handle. More importantly,
-there's something I wanted to check with you."
+それより今は、確かめたいことがあるの","This much I can handle. More importantly, there's something I wanted to check with you."
 0000000000000,プロデューサー,"（うーん……今日は何か上手くいかなかった
-ことでもあるのかもしれないな……）","(Hmm... that must mean she was having trouble
-with something today...)"
+ことでもあるのかもしれないな……）",(Hmm... that must mean she was having trouble with something today...)
 0000000000000,プロデューサー,わかった。そういうことなら俺も一緒に行こう,"Alright. In that case, let's work this out together."
 1013001030040,夏葉,"……ええ
 プロデューサーに見てもらえると助かるわ","...Right.
 It would be a big help having you watch me."
 1013001030050,夏葉,それじゃあ、歌のレッスンから始めるわね,"Ok, I'm going to start with my vocal exercises."
 1013001030060,夏葉,"ラーララーラー……～～～♪♪
-違う、こうじゃないわ","Laー La Laー Laー ♪♪
+違う、こうじゃないわ","La-LaLa-La-♪♪
 ...Wait, that's not right."
 1013001030070,夏葉,"ラーララーラー……～～～♪♪
-もう、そうじゃないのよ","Laー La Laー Laー ♪♪
+もう、そうじゃないのよ","La-LaLa-La-♪♪
 ...Agh, that's still wrong."
 1013001030080,夏葉,"ラーララーラー……～～～♪♪
-ダメ、全然違うでしょ……","Laー La Laー Laー ♪♪
+ダメ、全然違うでしょ……","La-LaLa-La-♪♪
 It's no use. That's completely wrong, isn't it...?"
 0000000000000,プロデューサー,"……夏葉、今日のリハーサルは
-上手くいかなかったのか？","...Natsuha, were you having trouble
-during the rehersal today?"
-1013001030090,夏葉,いいえ、特に問題はなかったわ,"No, I didn't have an particular problems."
+上手くいかなかったのか？","...Natsuha, were you having trouble during the rehearsal today?"
+1013001030090,夏葉,いいえ、特に問題はなかったわ,"No, I didn't have a particular problem."
 0000000000000,プロデューサー,（……なら、いったい何が引っかかってるんだ？）,"(...Then, just what is she so stuck on?)"
 1013001030100,夏葉,"別に何か失敗したとかじゃなくて
-他の子の歌を聞いててわからなくなってしまったのよ","I didn't really do anything wrong, but it's just...
-When I heard the other girls sing, it just
-didn't make sense to me."
-1013001030110,夏葉,本当に今の歌い方でいいのかって……,"I thought, ""Is my singing really
-any good as it is now...?"""
+他の子の歌を聞いててわからなくなってしまったのよ","I didn't really do anything wrong, but it's just... When I heard the other girls sing, it just didn't make sense to me."
+1013001030110,夏葉,本当に今の歌い方でいいのかって……,"I thought, ""Is my singing really any good as it is now...?"""
 0000000000000,プロデューサー,"（なるほど……確かにさっきから
-誰かの真似をするような歌い方をしていたな）","(I see... She's been trying to copy how
-the others sing.)"
-0000000000000,プロデューサー,そうだな……,"Ok, well..."
+誰かの真似をするような歌い方をしていたな）",(I see... She's been trying to copy how the others sing.)
+0000000000000,プロデューサー,そうだな……,"Okay, well..."
 select,,夏葉らしいのが一番だ,"What's important
 is that it sounds like
 you, Natsuha"
@@ -62,48 +51,39 @@ want to do?"
 your own voice?"
 1013001030120,夏葉,私らしさを……,What sounds like me...
 0000000000000,プロデューサー,"何があっても一生懸命に突っ走れる
-それは誰にでもできることじゃない","You're a person who takes the world
-head on without a hint of hesitation."
+それは誰にでもできることじゃない",You're a person who takes the world head on without a hint of hesitation.
 0000000000000,プロデューサー,"だから夏葉はそんな自分らしさを信じて
-今まで通りに頑張っていけばいいと俺は思うぞ","Not everyone is like that. Trust in yourself.
-I think you persevering like you've done
-until now will work out fine."
+今まで通りに頑張っていけばいいと俺は思うぞ",Not everyone is like that. Trust in yourself. I think you persevering like you've done until now will work out fine.
 1013001030130,夏葉,"私は私……
-確かに、そうかもしれないわね","I am me...
-Of course, that would make sense, wouldn't it?"
+確かに、そうかもしれないわね","I am me... Of course, that would make sense, wouldn't it?"
 1013001030140,夏葉,でも、私らしさを引き出すにはいったいどうしたら……,"But, how do draw out what makes me ""me""?"
-1013001030150,夏葉,…………そもそも、私って何……,...just what am I...
+1013001030150,夏葉,…………そもそも、私って何……,Just what am I...?
 1013001030160,夏葉,"有栖川家の……いえ、そうじゃないわ……
 これは……私の、私だけの問題…………","The Arisugawa family's... no, that's not right...
-This... this is a question about me, for me alone...."
+This... this is a question about me, for me alone..."
 0000000000000,プロデューサー,"（夏葉はいつも頑張ってるし、それに見合うだけの自信も
-持ってると思っていたが、悩むこともあるんだな……）","(Natsuha's always so persistent, and with confidence
-in her eyes. Still it seems she has her concerns...)"
+持ってると思っていたが、悩むこともあるんだな……）","(Natsuha's always so persistent, and with confidence in her eyes. Still it seems she has her concerns...)"
 0000000000000,プロデューサー,"（これからはそういった面も含めて、
-ちゃんと見守っていくことにしよう）","(That side of her will need to be something
-I pay close attention to in the future.)"
+ちゃんと見守っていくことにしよう）",(That side of her will need to be something I pay close attention to in the future.)
 0000000000000,プロデューサー,ありのままでもいいんじゃないか？,Isn't it ok as you are?
-1013001030170,夏葉,……でも、何かが違う気がするの,"...still, I feel there's something off."
+1013001030170,夏葉,……でも、何かが違う気がするの,"...Still, I feel there's something off."
 0000000000000,プロデューサー,そうか……,I see...
-0000000000000,プロデューサー,けど、何もかも変える必要なんてないんじゃないか？,"But there's no need to for you to completely change
-everything, is there?"
-1013001030180,夏葉,そう…………,Right......
+0000000000000,プロデューサー,けど、何もかも変える必要なんてないんじゃないか？,"But there's no need to for you to completely change everything, is there?"
+1013001030180,夏葉,そう…………,Right...
 1013001030190,夏葉,"……ねぇ、プロデューサーは私の歌、
-どう思ってるのかしら？","...hey, Producer. What do you think
-about my singing?"
+どう思ってるのかしら？","...Hey, Producer. What do you think about my singing?"
 0000000000000,プロデューサー,夏葉の歌は――,Your singing is──
 1013001030200,夏葉,待って！　やっぱり今のはなし……,Wait! I change my mind...
-0000000000000,プロデューサー,……本当にいいのか？,...are you sure?
+0000000000000,プロデューサー,……本当にいいのか？,...Are you sure?
 1013001030210,夏葉,"……ええ、いいのよ
-それを聞いちゃうとダメな気がするから","...yes, it's fine.
+それを聞いちゃうとダメな気がするから","...Yes, it's fine.
 I have a feeling it'd be pointless."
 1013001030220,夏葉,"でも、ありがとう、プロデューサー
 ……私、もう少し自分について考えてみるわ","But thank you, Producer.
 ...I have some more reflecting I need to do."
 0000000000000,プロデューサー,自分の目指す形を、思い描いてみてくれ,I want you to imagine what you're aiming to become.
 1013001030230,夏葉,"自分の目指す形……
-他のアイドルの真似をしてもそこには辿り着けないわ……","What I'm aiming to become...
-I'd barely make it even if I kept copying other idols."
+他のアイドルの真似をしてもそこには辿り着けないわ……",What I'm aiming to become... I'd barely make it even if I kept copying other idols.
 1013001030240,夏葉,じゃあ私は、なんで……,"Then, why am I..."
 1013001030250,夏葉,……,......
 0000000000000,プロデューサー,"別に難しく考える必要はないんだぞ
@@ -112,8 +92,6 @@ How is it you want to sing?"
 1013001030260,夏葉,……私は,...I
 1013001030270,夏葉,ダメ、わからないわ……,...I don't know.
 0000000000000,プロデューサー,"（壁にぶつかったみたいだな……でもこの悩みは
-今後のためにもきっと必要なものだ。頑張れよ、夏葉）","(She's hit a wall, it seems... Still, this is the kind
-of thing she needs to struggle with for now.
-Hang in there, Natsuha.)"
+今後のためにもきっと必要なものだ。頑張れよ、夏葉）","(She's hit a wall, it seems... Still, this is the kind of thing she needs to struggle with for now. Hang in there, Natsuha.)"
 info,produce_events/101300103.json,
 译者,,

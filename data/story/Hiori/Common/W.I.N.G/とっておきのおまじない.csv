@@ -1,10 +1,10 @@
 id,name,text,trans
 0000000000000,プロデューサー,"少し時間が押してるな……
-急いで次の仕事に向かおう","It's taking a while...
+急いで次の仕事に向かおう","We're a little pressed for time...
 We need to hurry and get to the next job."
 1002001020010,灯織,……はい、そうですね,"...Yes, that's right."
 0000000000000,プロデューサー,"そろそろ仕事やイルミネーションスターズには慣れたか？
-新人アイドルはやることが多くて大変だからな",Are you getting used to work and illumination STARS? It's tough as new idols have a lot of things to do.
+新人アイドルはやることが多くて大変だからな",Are you getting used to work and working with illumination STARS? It's probably tough since new idols have a lot of things to do.
 1002001020020,灯織,……はい,...Yeah.
 0000000000000,プロデューサー,（……なんだか、灯織の表情が暗いな）,(...Her expression seems gloomy.)
 0000000000000,プロデューサー,"灯織、大丈夫か？
@@ -16,12 +16,12 @@ We need to hurry and get to the next job."
 0000000000000,プロデューサー,え？　先日って自己紹介のときか？,Huh? You mean when you introduced yourself?
 1002001020050,灯織,"はい。あのような失礼な態度をとってしまって
 反省しています……",Yes. I'm reflecting on how rude I was by acting that way...
-0000000000000,プロデューサー,（それを気にしていて暗い顔をしていたのか……）,(So she looked gloomy because she was worried about that...)
+0000000000000,プロデューサー,（それを気にしていて暗い顔をしていたのか……）,(So she looked gloomy because she was worried about that...?)
 0000000000000,プロデューサー,大丈夫だ、気にしてないよ,"It's fine, I'm not bothered about it."
 1002001020060,灯織,"……そうですか
 少し安心しました",...Really? I'm a bit relieved.
 1002001020070,灯織,"それと実は、今日の仕事は少し緊張していて……
-返事もちゃんとできなくて、すみません",Also the truth is I was nervous about today's work... I'm sorry I couldn't reply properly.
+返事もちゃんとできなくて、すみません","Moreso, the truth is I'm a little nervous about today's work... sorry I didn't really respond properly."
 0000000000000,プロデューサー,そうか、緊張か……,So you're nervous...
 select,,"次は新しい現場
 だったな","The next site
@@ -39,10 +39,10 @@ your palm..."
 0000000000000,プロデューサー,"……よし、なら『10分前に次の現場に
 到着できたら仕事は成功する』これで行こう！","...Alright, then let's go with ""if we arrive there 10 minutes early, we will succeed""!"
 1002001020090,灯織,"……何ですか、急に
-話の意図が見えません",...What is that all of a sudden? I don't see the point of this.
+話の意図が見えません",...What's this all of a sudden? I don't see the point of it.
 0000000000000,プロデューサー,"なに、マイルールっていうか
 即席のジンクスみたいなものだ","It's like a self-imposed rule, or rather like a lucky superstition."
-1002001020100,灯織,ジンクス……,A lucky superstition...
+1002001020100,灯織,ジンクス……,A superstition...
 0000000000000,プロデューサー,"ジンクスだって意外とバカにできないぞ？
 それだけで、なんだか大丈夫な気がしてくるもんだからな","You shouldn't trifle with superstitions, you know?
 You'll be okay if you have one."
@@ -59,13 +59,13 @@ You'll be okay if you have one."
 1002001020140,灯織,もともと、ジンクスとかはちょっと好きというか……,I kind of like things like superstitions already...
 0000000000000,プロデューサー,へえ……,Oh really...
 0000000000000,プロデューサー,"（てっきり非現実的だとバッサリ切られるかと
-思ったんだが……）","(I thought it'd be shut down instantly for sure as being too unrealistic, but...)"
+思ったんだが……）","(I thought it'd be shut down instantly for being too unrealistic, but...)"
 0000000000000,プロデューサー,"（何から何までストイックというわけでは
 ないんだな……）",(It seems she's not stoic about everything...)
 0000000000000,プロデューサー,……って、待て灯織！　俺を置いていくな！,"...Hey, wait Hiori! Don't leave me behind!"
 1002001020150,灯織,"待ちません。今からでも10分前には間に合いますが
 念のためもっと早めの到着を目指します","I won't wait. We should be able to get there 10 minutes early, but just in case I'm trying to get there sooner."
-1002001020160,灯織,さあ、急ぎますよ、プロデューサー,"Now let's hurry, Producer."
+1002001020160,灯織,さあ、急ぎますよ、プロデューサー,"Now, let's hurry Producer."
 0000000000000,,//★選択肢②【まぁ、大丈夫だろう】,"//★選択肢②【Well, it'll be fine】"
 1002001020170,灯織,……根拠もないのに、どうして簡単に言えるんですか？,...How can you say so that easily with no basis?
 1002001020180,灯織,"お仕事なんですから
@@ -99,7 +99,7 @@ You'll be okay if you have one."
 ま、結果オーライだな）","(In the end, it ended up just giving her peace of mind... Well, it turned out alright.)"
 0000000000000,,//★選択肢③【手のひらに人という字を……】,"//★選択肢③【Write the character for ""person"" in your palm...】"
 1002001020250,灯織,"３回書いて飲み込む、ですか？
-それはもうやりました",Write it 3 times and eat them to lower my nervousness? I already tried that.
+それはもうやりました",Draw three people and then eat them to lower my nervousness? I already tried that.
 0000000000000,プロデューサー,なんだ、そうだったのか……って、え？,"So you did... Wait, what?"
 1002001020260,灯織,……何ですか？,...What is it?
 0000000000000,プロデューサー,"あ、いや。ジンクスに頼るなんて、
