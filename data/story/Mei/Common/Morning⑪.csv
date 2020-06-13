@@ -10,24 +10,19 @@ select,,息抜きか,"Wanna take
 a breather?"
 select,,課題の手伝いか,Help with homework?
 1019001001110030,愛依,"当ったり～！
-さっすが～！","Obviously!
-As you'd expect~!"
+さっすが～！",Obviously! As you'd expect~!
 1019001001110040,愛依,"なんかプロデューサーに見てもらえんの
-楽しみってカンジ～♪","I'll have you watch some.
-This'll be fun~♪"
+楽しみってカンジ～♪",I'll have you watch some. This'll be fun~♪
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 0000000000000,,★選択肢②【息抜きか】,★選択肢②【息抜きか】
 1019001001110050,愛依,"まぁね～
-たまにはいいじゃん？","Ahh, well~
-It's good to do every once in awhile right?"
+たまにはいいじゃん？","Ahh, well~ It's good to take one every once in a while right?"
 1019001001110060,愛依,"気になる場所あっからさ
-ちょびっと付き合ってよ","There's somewhere I wanna go, so,
-let's go out for a little, 'kay?"
+ちょびっと付き合ってよ","There's somewhere I wanna go, so, let's go out for a little, 'kay?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 0000000000000,,★選択肢③【課題の手伝いか】,★選択肢③【課題の手伝いか】
 1019001001110070,愛依,う……ヤなこと思い出しちゃった,Uh... I just remembered I didn't do that.
-1019001001110080,愛依,自主練したかったけど、今日はムリぽ～……,"I wanted to do some independent study but, 
-today's not going to work I guess..."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+1019001001110080,愛依,自主練したかったけど、今日はムリぽ～……,"I wanted to do some independent study but, today's not going to work I guess..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101900100111.json,
 译者,,

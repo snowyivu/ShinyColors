@@ -11,7 +11,7 @@ commonMenu.produceResume.produceTitle,プロデュース再開,Resume Production
 commonMenu.produceResume.trueEndTeachingTitle,True End研修再開,Resume True End Training
 selectLoginBonus.comment,好きな場所を選択してください,Please choose your favorite
 selectLoginBonus.rewardPop.title,アイテム獲得,Item Reward
-selectLoginBonus.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,The following items have been sent to your present box
+selectLoginBonus.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,Items below have been sent to present box
 ending.popReceiveProduceIdol.title,報酬受け取り,Receive Rewards
 ending.popReceiveProduceIdol.comment,以下の報酬を受け取りました,Received the rewards below
 trueEndTeachingEnding.receivePop.popTitle,True End研修達成,True End Training Complete
@@ -84,14 +84,14 @@ errorDialog.checkin.notice,以下のFAQをご確認のうえ\n再度チェック
 errorDialog.checkin.invalid,有効期限外です,Expired
 errorDialog.invalidProduct,該当の商品が存在しないため、\n購入することができません。,"If the item no longer exists,\r\nit cannot be added to your cart."
 selectablePresentRewardPop.title,アイテム獲得,Item Gained
-selectablePresentRewardPop.text,以下のアイテムがプレゼントBOXに送られました,These items have been sent to the present box. 
+selectablePresentRewardPop.text,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box. 
 checkin.successDialog.title,チェックイン成功,Check-in Success
 checkin.successDialog.message,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました
 checkin.attention,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n
 availableInform.title,アイテム有効期限のお知らせ,Item Expiration Notice
 availableInform.description,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります,Expiring on                                \r\n%{contentName} will no longer be\r\n available after the\r\nexpiration date. 
 availableInform.remainTime,あと%{remainTime},%{remainTime} left
-achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,These items have been sent to the present box. 
+achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box. 
 achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
 beginnerMission.headerTitle,初心者ミッション,Beginner Mission
 beginnerMission.detailPopTitle,初心者ミッション詳細,Beginner Mission Details
@@ -213,7 +213,7 @@ copyright.holders.bne.title,権利表記,Copyright Notice
 copyright.holders.bne.message,© 2018 BANDAI NAMCO Entertainment Inc.,© 2018 BANDAI NAMCO Entertainment Inc.
 countdown.season,シーズン%{seasonNum}終了まで,Season %{seasonNum} Ends In
 userDailyLottery.rewardPop.title,まいにちくじ抽選結果,Daily Lotto Results
-userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,These items have been sent to the present box. 
+userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box.
 userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,You'll receive %{num} presents every day♪\r\nPlease look forward to the lotto results~
 deck.autoSelectDialog.title,おまかせ編成,Recommended Setup
 deck.autoSelectDialog.noUserIdol,おまかせ編成を使用するには\nプロデュースアイドルを設定してください,Please select a Produce Idol\nto use the Recommended Setup feature
@@ -392,7 +392,7 @@ fes.fesGradeRewardPop.missionReward.description,初めてLv.2以上の各グレ�
 fes.fesGradeRewardPop.missionReward.colTitle1,昇格グレード,New Grade
 fes.fesGradeRewardPop.missionReward.colTitle2,報酬内容,Rewards
 gameEvent.achievementRewardDialog.title,ミッション達成累積報酬,Mission Success Reward
-gameEvent.achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,These items have been sent to the present box. 
+gameEvent.achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box.
 gameEvent.achievementRewardDialog.rewardNameNum,%{name} x %{num},%{name} x %{num}
 gameEvent.achievementRewardDetailDialog.title,ミッション達成累積報酬詳細,Total Mission Completion Reward Details
 gameEvent.achievementRewardDetailDialog.missionDetailTitle,ミッション%{progressMax}個達成報酬,%{progressMax} Missions Completed Reward
@@ -472,13 +472,13 @@ gasha.instantLottery.subtitle,スピードくじ提供割合,Speed Lotto Rates
 gasha.instantLottery.header,等級（%{count}種）,Grade (%{count})
 gasha.instantLottery.grade,%{grade}等,%{grade} etc.
 gasha.instantLottery.popReward.instantLotteryReward.title,スピードくじ報酬,Speed Lotto Result
-gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,The above items have been sent to your present box
+gasha.instantLottery.popReward.text,上記のアイテムがプレゼントBOXに送られました,Items sent to the present box
 gasha.loadingWarning,読み込みに時間が掛かることがありますので、\nリロードはお控えください。,Loading may take some time.\r\nPlease do not reload the page.
 gasha.noExpire,期限なし,No Expiration
 gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
 gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,Get a %{pickUpName} after %{stampNumForNextPickUp} more stamps!
 gasha.stamp.popReward.title,スタンプカード報酬,Stamp Card Reward
-gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,The below items have been sent to your present box
+gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box
 gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,Once the stamp card is filled rewards will repeat the 1~%{boardNum} pages
 gasha.freeGift.popReward.title,おまけ,Bonus
 gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left
