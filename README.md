@@ -31,7 +31,7 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 ## Installing on Android
 1. For mobile，you'll need a browser that supports scripts.  I've succesfully used [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
 2. (Return to this page on your new browser)
-3. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension
+3. From Kiwi Browser, install the [Tampermonkey](https://tampermonkey.net/) extension (Chrome version, Stable build)
 4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
 5. Refresh the game page [(Link Here)](https://shinycolors.enza.fun/) and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
