@@ -1,0 +1,39 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"Oh? Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+6001001070010,真乃,"終わっちゃったんですね……
+私の『W.I.N.G.』への挑戦……","It's finally over huh...
+My attempt at W.I.N.G...."
+0000000000000,プロデューサー,真乃……,Mano...
+6001001070020,真乃,"……あの、プロデューサーさん
+今だからこそ、お礼を言わせてください","...Um, Producer-san
+Because now's a good time, I would like to express my gratitude."
+6001001070030,真乃,"何もできなかった私を……アイドルとして、
+ここまで成長させてくれて、ありがとうございますっ","The me that could do absolutely nothing... For helping me grow as an idol up to this point, thank you so much."
+6001001070040,真乃,"最後に負けちゃいましたけど……ここまで来れたのは、
+プロデューサーさんが支えてくれたおかげですっ","At the end I ended up losing, but...I made it this far because of Producer-san's helpful support."
+0000000000000,プロデューサー,……真乃は、もう満足したのか？,"...Mano, have you had enough?"
+6001001070050,真乃,"……いえ、まだまだずっとアイドルを続けたいです
+ステージでファンのみなさんにいろんな思いを届けたい","...No, I want to always continue being an idol as I still have some ways to go. On the stage, I want to deliver all kinds of feelings to each and every fan. "
+6001001070060,真乃,"私、最初はここまで来れただけで満足だったのに……
+今はもっと先へと羽ばたいていきたいと思っています","At the beginning, I would have been satisfied by how far I've gotten...
+But now I want to spread my wings even further."
+0000000000000,プロデューサー,"真乃がそう言ってくれてうれしいよ
+これからも最高のアイドルを目指して、二人で頑張ろうな","I'm really happy with the things you've said Mano.
+From this point on, we'll aim for being the top idol. The two of us will give our all, got it?"
+6001001070070,真乃,"はいっ、私、まだまだアイドル頑張ります
+むんっ","Understood, as an idol who's not finished yet I'll try my best!
+Mun!"
+info,produce_events/600100107.json,
+译者,,

@@ -2,9 +2,11 @@ id,name,text,trans
 1019001000810010,愛依,"プロデューサーってさ～
 なんか覚える時ってどーしてる～？",Hey Producer~ How do you remember stuff?
 0000000000000,プロデューサー,"そうだな……内容によって変わるけど
-何を覚えなくちゃならないんだ？",Well... it's different depending on what it is. What is it that you have to remember?
+何を覚えなくちゃならないんだ？","Well... it's different depending on what it is. What is
+it that you have to remember?"
 1019001000810020,愛依,"テストで同じとこ間違えちゃってさ～
-そこ覚えてないと次はヤバいんだよね～",I keep making the same mistakes in my tests~ It'd be seriously bad if I didn't remember next time y'know?
+そこ覚えてないと次はヤバいんだよね～","I keep making the same mistakes in my tests~ It'd be
+seriously bad if I didn't remember next time y'know?"
 0000000000000,プロデューサー,そういうことなら……,So that's how it is...
 select,,"部屋のドアに
 答えを貼っておく","Tape the answer
