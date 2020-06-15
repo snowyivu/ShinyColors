@@ -3,16 +3,16 @@ id,name,text,trans
 0000000000000,プロデューサー,おはよう、夏葉,"Morning, Natsuha."
 1013001040020,夏葉,プロデューサー、ちょっといいかしら？,"Producer, do you have a moment?"
 1013001040030,夏葉,"今から自主レッスンをしようと思っているのよ
-プロデューサー、見てもらってもいいかしら",I was planning on doing some independent training right now. Could you come and watch me?
+プロデューサー、見てもらってもいいかしら","I was planning on doing some independent training
+right now. Could you come and watch me?"
 0000000000000,プロデューサー,ああ、もちろん,"Oh, of course."
 1013001040040,夏葉,"ありがとう
-それじゃあ行きましょう――","Thank you.
-Let's get going then."
+それじゃあ行きましょう――",Thank you. Let's get going then.
 0000000000000,プロデューサー,"（しかし、見てほしいって……
-何か特別なことでもするんだろうか？）","(She asked me to watch, but... I wonder if she has something special in mind?)"
+何か特別なことでもするんだろうか？）","(She asked me to watch, but... I wonder if she has
+something particular in mind?)"
 1013001040050,夏葉,"……始めるわ
-それじゃあ、見てて頂戴","...Alright, I'm going start.
-Please pay attention, ok?"
+それじゃあ、見てて頂戴","...Alright, I'm going start. Please pay attention, ok?"
 0000000000000,off,off,off
 0000000000000,プロデューサー,（…………見たところ、普通のレッスンみたいだが……）,"(...The way I see it, it looks like regular practice...)"
 1013001040060,夏葉,ワン、ツー、スリー、フォー！,"One, two, three, four!"
@@ -27,75 +27,92 @@ Please pay attention, ok?"
 1013001040110,夏葉,～～～～♪♪,~~~♪♪
 0000000000000,off,off,off
 0000000000000,プロデューサー,"（……夏葉には感心させられるな。このレッスンは
-ただがむしゃらにやってるんじゃない）",(...Natsuha looks impressed with herself. But there's a recklessness to the way she's moving)
+ただがむしゃらにやってるんじゃない）","(...Natsuha looks impressed with herself. There's
+almost a recklessness to the way she's moving.)"
 0000000000000,プロデューサー,"（自分の魅力を少しでも引き出していくために
-常に全神経を研ぎ澄まして試行錯誤している……）","(She's sharpening her senses by constant trial and error, so she can draw out that charm of hers...)"
+常に全神経を研ぎ澄まして試行錯誤している……）","(She's sharpening her senses through constant trial
+and error, so she can draw out that charm of hers...)"
 1013001040120,夏葉,"ふぅ……
-どうだったかしら、プロデューサー？","Phew...
-How was that, Producer?"
+どうだったかしら、プロデューサー？","Phew... How was that, Producer?"
 select,,"夏葉の気合いが
 伝わってきたよ","Your spirit really
-came through"
+came through."
 select,,いつもの夏葉だな,"It's the same
-Natsuha I know"
+Natsuha I know."
 select,,夏葉はどう思う？,"What do you
 think, Natsuha?"
 1013001040130,夏葉,"それならよかったわ
-……私、この間、歌い方のことで迷っていたでしょう？","That's good, in that case.
-...Recently, I've been unsure about my singing, right?"
+……私、この間、歌い方のことで迷っていたでしょう？","That's good, in that case...Recently, I've been unsure
+about my singing, right?"
 0000000000000,プロデューサー,ああ、そうだな,"Ah, right."
 1013001040140,夏葉,"あのときのことをずっと考えていたの
-それでやっとわかったわ","I've been thinking about it since then, and think I finally get it."
+それでやっとわかったわ","I've been thinking about it since then, and think I
+finally get it."
 1013001040150,夏葉,きっと私は近道をしようとしてたのよね……,I was just looking for a shortcut...
 1013001040160,夏葉,"トップアイドルになるためには近道なんてない
-あたりまえの努力をただ積み重ねていくだけなのに……","But there's no shortcut for becoming a top idol.
-I have to put in the work to reap the fruit of my labor."
+あたりまえの努力をただ積み重ねていくだけなのに……","But there is no shortcut for becoming a top idol.
+I have to put in the work to reap the fruits of my
+labor."
 1013001040170,夏葉,"あのときのプロデューサーが伝えたかったこと……
-そういうことよね？","That was what you wanted me to understand... Right, Producer?"
+そういうことよね？","That was what you wanted me to understand...
+Right, Producer?"
 0000000000000,プロデューサー,夏葉がそう思うなら、きっとそれが答えだな,"If you feel that way, then that must be it."
 1013001040180,夏葉,ええ。自分の間違いに気づくことができたわ,Indeed. I was able to realize my own mistake.
 1013001040190,夏葉,ありがとう、プロデューサー,"Thank you, Producer."
 1013001040200,夏葉,"これからはもう近道なんて
-恥ずかしいことは２度と考えない",From here on I won't go embarassing myself by looking for these shortcuts.
+恥ずかしいことは２度と考えない","From here on I won't go embarassing myself by looking
+for these shortcuts."
 1013001040210,夏葉,迷わずトップへの道を進んでいくわ,I won't waver on my road to top.
-0000000000000,プロデューサー,迷いがない姿勢は、まさに夏葉だ,"""Unwavering"" is really like you, Natsuha."
+0000000000000,プロデューサー,迷いがない姿勢は、まさに夏葉だ,"This ""unwavering"" attitude is really like you, Natsuha."
 1013001040220,夏葉,"それならいいの
-ずっと私らしいやり方を考えていたから",That's fine then. I've spent this time thinking about what my own style is.
+ずっと私らしいやり方を考えていたから","That's fine then. I've spent this time thinking about
+what my own style is."
 1013001040230,夏葉,"歌い方に悩んだあのとき、
-私は誰かの真似をしようとしていたわ……","That time I was worried over my singing, I decided to copy someone else."
+私は誰かの真似をしようとしていたわ……","That time I was worried over my singing, I decided to
+copy someone else."
 1013001040240,夏葉,でも、それは間違いだったのよね,But that was my mistake.
 0000000000000,プロデューサー,答えが、出たんだな,So you've found your answer.
 1013001040250,夏葉,"ええ、私にとって何よりも大切なことは……
-ただ地道に、１歩ずつ努力をしていくことだったのに","Yes, what's most important to me is... making an honest effort to walk down this path."
+ただ地道に、１歩ずつ努力をしていくことだったのに","Yes, if I had to say what's most important to me...
+it would be making an honest effort to walk down
+the path I'm on."
 1013001040260,夏葉,"それがやっとわかったから
-プロデューサーに見てほしかったの","As soon as I realized that, I wanted you to come watch me."
+プロデューサーに見てほしかったの","As soon as I realized that, I wanted you to come
+and watch me."
 0000000000000,プロデューサー,そうか,I see.
 1013001040270,夏葉,"ええ、私はもう迷わないわ
-安易な手段に頼ろうなんて愚かなことも２度としない","Indeed, I don't feel lost anymore.
-I won't go foolishly relying on cheap tactics anymore."
+安易な手段に頼ろうなんて愚かなことも２度としない","Indeed, I don't feel lost anymore. I won't go
+foolishly relying on cheap tactics anymore."
 1013001040280,夏葉,"私はこのやり方で、真正面から
-トップアイドル道を突き進んでいくのよ！",I'll press on and follow this road to become a top idol in my own way!
+トップアイドル道を突き進んでいくのよ！","I'll press on and follow this road to become a top idol
+in my own way!"
 0000000000000,プロデューサー,"（しっかりと悩んで、自分で答えを出したようだな
-この経験はきっと大きな自信につながるだろう）",(She made the struggle to find her own answer. I'm sure this experience will build her confidnce even further.)
+この経験はきっと大きな自信につながるだろう）","(She made the struggle to find her own answer. I'm
+sure this experience will build her confidnce even
+further.)"
 0000000000000,プロデューサー,"（夏葉はこれからもっともっと
-輝きを増していくに違いない）",(No doubt Natsuha's only going to burn even brighter from now on.)
+輝きを増していくに違いない）","(No doubt Natsuha's only going to burn even brighter
+from now on.)"
 1013001040290,夏葉,これが私よ,This is me.
 1013001040300,夏葉,"できないことも足りないこともあるけど
-でもそれもひっくるめて私なの","Even the things I lack, or can't do.
-Those are all a part of me, too."
+でもそれもひっくるめて私なの","Even the things I lack, or can't do, those are all a
+part of me, too."
 1013001040310,夏葉,"私は私だもの、
-他の誰かになんてなれないわ","I am who I am.
-I can't just be someone else."
+他の誰かになんてなれないわ",I am who I am. I can't just be someone else.
 1013001040320,夏葉,"そんなことより、ただひたすらに
-自分を磨けばいいだけなのよね","But more importantly, I just have to focus on improving myself."
+自分を磨けばいいだけなのよね","But more importantly, I just have to focus on
+improving myself."
 1013001040330,夏葉,"もう迷いはないから安心して
 私は私なりの輝きでトップアイドルを目指すわ！","So don't worry, I've found my way forward.
 I'll use my own radiance to become a top idol!"
-0000000000000,プロデューサー,……それはよかった,...that's great to hear.
+0000000000000,プロデューサー,……それはよかった,...That's great to hear.
 0000000000000,プロデューサー,"しかし何かアドバイスできればと思ってたけど
-必要なかったな。役に立たなくてごめん",Though it seems that none of the advice I gave was of any use to you. I'm sorry.
+必要なかったな。役に立たなくてごめん","Though it seems that none of the advice I gave was
+of any use to you. I'm sorry about that."
 1013001040340,夏葉,"なに言ってるのよ。私は私なんだからって
-自信をもたせてくれたのはプロデューサーじゃない",What are you saying? Weren't you the one who said to be confident in myself because of who I am?
-1013001040350,夏葉,だから、もっと自信を持ってくれなきゃ困るわ！,"So, I'd be in trouble if you stopped now, ok?"
+自信をもたせてくれたのはプロデューサーじゃない","What are you saying? Weren't you the one who said
+to be confident in myself because of who I am?"
+1013001040350,夏葉,だから、もっと自信を持ってくれなきゃ困るわ！,"I'd be in quite a lot of trouble if you stopped
+believing in me now!"
 info,produce_events/101300104.json,
 译者,,

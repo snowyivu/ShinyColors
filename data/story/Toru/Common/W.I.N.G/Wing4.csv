@@ -9,15 +9,15 @@ Will check out the DVDs I've been given."""
 0000000000000,プロデューサー,『感想待ってるぞ』……と\nこういうのは、気持ちだ……！,"""I'll be waiting for your thoughts."" ...there.
 Now this is where feelings really lie...!"
 0000000000000,プロデューサー,戻りましたー\n──あれっ、透……！？,"I'm back!
-──Wait, Toru!?"
+──Wait, Toru...!?"
 1020001050020,透,お疲れ様\n……なんか、ボロっとしてるね,"Good work today.
 ...you look kind of worn out, you know."
-0000000000000,プロデューサー,ははっ、すまんなビシッとしてなくて\nどうしたんだ？,"Hahah, sorry, things just weren't going smoothly.
+0000000000000,プロデューサー,ははっ、すまんなビシッとしてなくて\nどうしたんだ？,"Hahah, sorry, things just weren't going smooth.
 Something up?"
 1020001050030,透,あ、うん\n色々観たから、感想言おうと思って,"Oh, yeah. I watched a whole bunch, so I was thinking I could tell you my impressions now."
 0000000000000,プロデューサー,え……,Eh...
 1020001050040,透,アイドルが合宿する方は、なんかすごかった\nみんな、朝ごはん食べる時からアピールしてて……,The one with the way idols are at training camps is kind of incredible. Everyone's on appeal mode from the moment they start eating breakfast...
-0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,……,...
 1020001050050,透,ライブの方は、なんか……\n裏方の人たちもめっちゃ一生懸命なのがよかった,"And in the live concert one, it was like, um...
 The way people backstage put all their soul into it too is really nice to see."
 0000000000000,プロデューサー,──透、それって……,"──Wait, Toru, did..."
@@ -32,7 +32,7 @@ So."
 It was just those two I saw."
 0000000000000,プロデューサー,えっ、もう終わりか！？\n──……はははっ,"Wait, so it's over already!?
 ──...hahahah."
-1020001050090,透,……なんで笑うの,...Why are you laughing?
+1020001050090,透,……なんで笑うの,...why are you laughing?
 0000000000000,プロデューサー,いや、嬉しいなぁと思ってな……\n色々話してくれて,"No, no, I was just actually really happy...
 You came out to me with a lot."
 1020001050100,透,私が無口みたいじゃん,You think I'm basically mute.
@@ -44,11 +44,11 @@ You came out to me with a lot."
 0000000000000,プロデューサー,俺は中学か高校だったから簡単にのぼれるんだけど、\nその子が一生懸命でさ,"I was in middle school? Or high school at that point,
 so it was simple enough for me, but that kid was going at it with all his heart."
 0000000000000,プロデューサー,夢の中でもよくのぼるって言ってたなぁ\nでも『てっぺんに着く前に目が覚める』って──,"He told me he climbed it a bunch in his dreams, too, but... ""I wake up before I reach the top,"" I think it was."
-1020001050130,透,…………っ,Oh?
+1020001050130,透,…………っ,...!
 0000000000000,プロデューサー,だから……一緒にてっぺんに座った時、\nただのジャングルジムなのに、すごく嬉しくて,"So, you know... when we got up there and sat at the top together──I mean, yeah, all it was was a jungle gym, but he was really happy about it."
 0000000000000,プロデューサー,ああ、のぼるのっていいことなんだなぁって思ったんだ\nなんか、最近そのことを思い出してな,"Like, huh. Climbing this was actually something really worth it. You know? I've been thinking back on that lately for whatever reason."
 1020001050140,透,プロデューサー……\n…………,"Producer...
-......"
+..."
 0000000000000,プロデューサー,透、『人生は長い』って言ってたよな？\nそれはきっとそうなんだけど──,"Toru, you were saying ""life's a long way"", right?
 I'm sure that's true, but I also think──"
 select,,のぼっていくの、\nいいことだからさ,"It's good to go
@@ -84,12 +84,14 @@ who knows if I'd be happy, even if I saw the top."
 0000000000000,プロデューサー,……透？,...Toru?
 1020001050270,透,今日、来てよかった,I'm glad──that I came today.
 1020001050280,透,頑張るから、私──,I'll do my best. Just watch me──
-1020001050290,透,……\n一生懸命、のぼる嬉しさってこと？,"...The joy of──climbing up with all your heart, you mean?"
+1020001050290,透,……\n一生懸命、のぼる嬉しさってこと？,"...
+The joy of──climbing up with all your heart, you mean?"
 0000000000000,プロデューサー,それが感じられたらさ、きっと\n人生長くてよかったなって、思えるんじゃないか,"Once you know that feeling, I'm sure you'll look at how long life is and be, well, thankful it is. I figure you can think like that."
 0000000000000,プロデューサー,一生懸命やった嬉しさとか、\n達成した嬉しさとか──,"The joy of having gone at it with all your heart,
 the joy of having achieved something──"
 1020001050300,透,一緒にのぼる嬉しさとか,The joy of climbing it together.
-0000000000000,プロデューサー,……透\nもしそう思ってくれるなら、俺も２倍嬉しいよ,"...Toru, if you can possibly see things that way too, then that's twice the joy to me."
+0000000000000,プロデューサー,……透\nもしそう思ってくれるなら、俺も２倍嬉しいよ,"...Toru,
+if you can possibly see things that way too, then that's twice the joy to me."
 1020001050310,透,ふふっ\n今は……ちょっとわかるよ,"Heheh.
 I think, now... I get it a little, yeah."
 1020001050320,透,『人生長い』なんて、しばらく忘れてた,"""Life's long."" I'd been forgetting that for a good while."

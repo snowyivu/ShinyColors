@@ -22,17 +22,18 @@ Yawn..."
 0000000000000,プロデューサー,よし。できるだけたくさんの人に\n顔を覚えてもらわなきゃな。じゃあ行こ──,"Right. We want as many people to get to know
 your face as possible. Off we go──"
 0000000000000,TV局職員,おはようございまーす！,Good morning!
-0000000000000,プロデューサー,……！,Oh!
+0000000000000,プロデューサー,……！,...!
 1020001020090,透,おはようございまーす,Good morning.
 0000000000000,プロデューサー,……あ、おはようございますー！,"...Ah, good morning!"
 0000000000000,プロデューサー,──透、今の人……知り合いか？,"──Toru, have you... met that person somewhere before?"
 1020001020100,透,え？　知らないよ,Eh? No.
-0000000000000,プロデューサー,えっ、でも……──,Huh? But...
+0000000000000,プロデューサー,えっ、でも……──,Huh? But...──
 0000000000000,ADふうの女性,おはようございますー,"Good morning, there."
 1020001020110,透,おはようございまーす,Good morning.
-0000000000000,プロデューサー,──あ、はは、どうもー！\n…………今のは……？,"Ah, haha, hello!
+0000000000000,プロデューサー,──あ、はは、どうもー！\n…………今のは……？,"──Ah, haha, hello!
 ...and that one...?"
-1020001020120,透,……？\n知らない人だけど,Hmm? I don't know these people.
+1020001020120,透,……？\n知らない人だけど,"...?
+I don't know these people."
 select,,え──,Eh──
 select,,いやいや、\nそんな……,"No, no,
 there's no way..."
@@ -42,7 +43,7 @@ at greetings."
 0000000000000,番組ディレクター,あっはっは！\nみんなに挨拶される？,Ah-hah-hah! Getting greeted by everyone?
 0000000000000,番組ディレクター,キミ、すごくオーラがあるから\n誰か有名な子だって思われるんだろうなぁ,"You've got an amazing aura about, you do.
 I think you've got people reckoning you're some kind of hot-shot kid."
-1020001020130,透,……,......
+1020001020130,透,……,...
 0000000000000,プロデューサー,（と、透……！？　何か返さないと！）,(T-Toru...!? You need to respond with something!)
 0000000000000,プロデューサー,……はははっ\nそ、そうだったら光栄なことです！　なっ？,"...Hahaha!
 That's a real honor if so! Right?"
@@ -52,22 +53,24 @@ Excuse her, I think she's a little bit nervous."
 0000000000000,番組ディレクター,いや構わないよ。透くんって言ったか\nいつか一緒に仕事しよう,"No, no problem. Toru, was it? I hope we work together someday."
 1020001020150,透,はい,Right.
 0000000000000,番組ディレクター,はっはっは！\nなんかこう、目に力があるなぁ！,"Hah-hah-hah! You know, you've got some force behind your eyes this way!"
-0000000000000,プロデューサー,……\nははは……！,"......
+0000000000000,プロデューサー,……\nははは……！,"...
 Hahaha...!"
-0000000000000,プロデューサー,──透、あのさ\nああいう時は、しゃべってくれてかまわないんだぞ？,"Toru, hey. At times like that, I don't mind talking for you, okay?"
+0000000000000,プロデューサー,──透、あのさ\nああいう時は、しゃべってくれてかまわないんだぞ？,"──Toru, hey.
+At times like that, I don't mind talking for you, okay?"
 1020001020160,透,え？　うん,Huh? Okay.
 0000000000000,プロデューサー,いや、緊張してたなら無理は言えないんだけどさ\n──気になることでもあったか,"No, the thing is, if you were nervous, that's not unreasonable, no-one can say that, but──
-Maybe there was something bothering you?"
-1020001020170,透,──……ううん\nなんか──,"...No.
+──Maybe there was something bothering you?"
+1020001020170,透,──……ううん\nなんか──,"──...no.
 It was just──"
 1020001020180,透,人生って、長いなーって,Life sure is a long way. You know.
 0000000000000,プロデューサー,…………えっ……？,...Eh...?
-1020001020190,透,あ、ううん\n次、頑張るから,"Oh, no. Nothing. I'll work at it next time."
+1020001020190,透,あ、ううん\n次、頑張るから,"Oh, no. Nothing.
+I'll work at it next time."
 1020001020200,透,……？\nでも、知らないし──,"...?
 But I don't know them──"
 0000000000000,芸能人ふうの男性,お疲れ様ですー,Good work in there!
 1020001020210,透,──お疲れ様でーす,──Good work.
-1020001020220,透,……誰だろ？,...Wonder who that was?
+1020001020220,透,……誰だろ？,...wonder who that was?
 0000000000000,プロデューサー,……わからない\nけど……透、なんとなくオーラがあるからな……,"...I don't know either. But... Toru, I think you might have some kind of aura about you..."
 0000000000000,プロデューサー,──まぁ、考えても仕方ないか\n向こうから声を掛けてくれるなら幸いだ,"──Well, no point thinking about it too hard.
 The fact they're the ones greeting you is a pretty amazing thing."
