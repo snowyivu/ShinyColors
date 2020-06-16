@@ -2,34 +2,40 @@ id,name,text,trans
 1013001050010,夏葉,はぁ……はぁ……,Haa... Haa...
 1013001050020,夏葉,よし……これで１時間……,Alright... That's one hour...
 1013001050030,夏葉,"でも、ここからラストスパートまでを考えると
-まだ１時間は頑張らないと",But I can't get ahead of myself. I still have another hour until the home strech.
+まだ１時間は頑張らないと","But I can't get ahead of myself. I still have another
+hour until the home strech."
 1013001050040,夏葉,"っ！
-ここで最後にこのポーズ……！","...!
-Then finish on this pose...!"
+ここで最後にこのポーズ……！",...Then finish on this pose...!
 0000000000000,プロデューサー,"（……まぶしいな
-一瞬、ここがどこだかわからなくなったぞ……）","(...she's dazzling.
-It's like, for a moment, I forgot where I was...)"
+一瞬、ここがどこだかわからなくなったぞ……）","(...She's dazzling. For a moment there, I almost
+forgot where I was...)"
 1013001050050,夏葉,どうだったかしら？,How was that?
 0000000000000,プロデューサー,……ああ、すごくよかった,"...Oh, it was really good."
 1013001050060,夏葉,うふふ、ならよかったわ,"Ufufu, that's good then."
 0000000000000,プロデューサー,"こんなにぶっ通しで踊るなんて……
-こんな無茶なレッスン、夏葉らしいな","This dancing, this reckless practice, how you never stop... This is just like you, Natsuha."
+こんな無茶なレッスン、夏葉らしいな","This dancing, this reckless practice, how you never
+stop... This is just like you, Natsuha."
 1013001050070,夏葉,私、考えたのよ,I've been thinking.
 1013001050080,夏葉,"たとえば明日、いきなり大きな会場で
-歌うことになる場合だってあるかもしれないでしょう？","There's a chance that, for example, I might get asked to sing in a big venue, right?"
+歌うことになる場合だってあるかもしれないでしょう？","There's a chance that, for example, I might get asked
+to sing in a big venue, right?"
 1013001050090,夏葉,"そんなとき、私は焦ったり、
-動揺したりなんかしたくないの",The last thing I'd want then is to get nervous and panic.
+動揺したりなんかしたくないの","The last thing I'd want then is to get nervous and
+panic."
 1013001050100,夏葉,"いつそのときが来てもいいように、いつだって
-100％の私を出せるようにしておきたいのよ！","That moment may come at any time, so I always want to be able to give my 100%."
-0000000000000,プロデューサー,なるほど、それでか,"Now I see where you're coming from.
-And so?"
+100％の私を出せるようにしておきたいのよ！","That moment may come at any time, so I always want
+to be able to give my 100%."
+0000000000000,プロデューサー,なるほど、それでか,I see where you're coming from. And so?
 1013001050110,夏葉,"だから、その準備をおこたるつもりなんて
-さらさらないわ！","So, I don't have the slightest intention to neglect what I need to do to prepare."
+さらさらないわ！","So, I don't have the slightest intention to neglect
+what I need to do to prepare."
 1013001050120,夏葉,"今はレッスンスタジオで歌っているけど、
-いつか必ず、私は世界一のステージで歌うんだもの！","I may only be singing in the studio now, but one day, I'm sure I'll be singing on the grandest of stages."
+いつか必ず、私は世界一のステージで歌うんだもの！","I may only be singing in the studio now, but one day,
+I'm sure I'll be singing on the grandest of stages."
 select,,"大きな舞台に
-いるようだった","So you're preparing
-for the big stage"
+いるようだった","So you're
+projecting yourself
+onto that stage."
 select,,"（さっきのは夢
 だったのかな）","(So then, was
 I dreaming
@@ -39,43 +45,55 @@ select,,"その夢、夏葉なら
 make that dream
 into reality."
 0000000000000,プロデューサー,"さっきのレッスン、まるで本当に
-夏葉がそこで歌っているみたいだったよ",It honestly felt like you were already there when you were singing during practice.
+夏葉がそこで歌っているみたいだったよ","It honestly felt like you were already there when you were
+singing during practice."
 1013001050130,夏葉,お世辞はいらないわ,I have no need for flattery.
 1013001050140,夏葉,"いつか『みたいだった』じゃなく、
-本当にそこで歌ってみせるから","One day, I don't want it to just ""feel like"" I'm singing there. I want to really be there."
+本当にそこで歌ってみせるから","One day, I don't want it to just ""feel like"" I'm singing
+there. I want to actually be standing there."
 0000000000000,プロデューサー,夏葉……,Natsuha...
 1013001050150,夏葉,"私はそのための努力を一歩ずつ積み重ねてきたし
-これからも全力でそうしていくの","I've been working things out one step at a time, but it's time to pull out all the stops."
+これからも全力でそうしていくの","I've been working things out one step at a time, but
+it's time to pull out all the stops."
 1013001050160,夏葉,"……それに、私がその覚悟を決められるように
-支えてくれたのはプロデューサーなのよ？","...Besides, you're the one who pushed me to stay resolved, aren't you Producer?"
+支えてくれたのはプロデューサーなのよ？","...You're the one who pushed me to stay resolved,
+aren't you Producer?"
 1013001050170,夏葉,"これでも私はアナタを信頼しているの
-だから中途半端な優しさや甘やかしはいらないわ","In spite of everything, I fully trust you, so I don't want any half-baked kindness or sweet words."
-0000000000000,プロデューサー,違う、本当――,"No, what I meant──"
+だから中途半端な優しさや甘やかしはいらないわ","I feel that I can fully trust you, so I don't want any
+half-baked kindness or sweet words."
+0000000000000,プロデューサー,違う、本当――,"Wait, what I meant──"
 0000000000000,プロデューサー,"（……いや、さっきの夢のような光景は
-きっとこれから起こることなのかもしれないな）","(...No, there is a chance for what she sees in her dreams to become a reality.)"
-0000000000000,プロデューサー,（なら、いつか来るそのときを、俺も待っていよう）,"(I, too, am waiting for that time to come.)"
+きっとこれから起こることなのかもしれないな）","(...No, there is a chance for what she sees in her
+dreams to become a reality now.)"
+0000000000000,プロデューサー,（なら、いつか来るそのときを、俺も待っていよう）,"(So I, too, should wait for that time to come.)"
 0000000000000,プロデューサー,"（さっき夏葉が歌っていたとき、本当に大きな舞台の
-スポットライトを浴びているように見えたんだが……）","(The way Natsuha was singing just now, it's like I could just see a great big spotlight over her.)"
+スポットライトを浴びているように見えたんだが……）","(The way Natsuha was singing just now, it's like I
+could just see a great big spotlight over her.)"
 1013001050180,夏葉,"……プロデューサー？
-どうしたの、ボーっとして","...Producer?
-You seem out of it. Are you ok?"
+どうしたの、ボーっとして",...Producer? You seem out of it. Are you ok?
 0000000000000,プロデューサー,いや、なんでもない,"Oh, it's nothing."
 1013001050190,夏葉,"ちょっと、アナタは私のプロデューサーなんだから
-しっかりして頂戴","Hey, if you're my producer you have keep it together, alright?"
+しっかりして頂戴","Hey, if you're my producer you have keep it together,
+alright?"
 1013001050200,夏葉,"今、私がこうして自信を持ってトップアイドルへの道を
-突き進んでいられるのも、アナタのおかげなのよ？","You know that the confidence I have to push forward on the road to the top is thanks to you, right?"
+突き進んでいられるのも、アナタのおかげなのよ？","You know that the confidence I have to push forward
+on the road to the top is thanks to you, right?"
 0000000000000,プロデューサー,"ああ、もうぼんやりした夢じゃない
-はっきり見える目標への道を駆け上がろう！","Yeah, this isn't some far-off dream anymore. Our goal is in sight, so we have to rise to the occasion."
+はっきり見える目標への道を駆け上がろう！","Yeah, this isn't some far-off dream anymore. Our goal
+is in sight, so we have to rise to the occasion."
 0000000000000,プロデューサー,（……さっきのことは自分の胸にしまっておこう）,(...I'll just keep my thoughts from earlier to myself.)
 0000000000000,プロデューサー,"（いつか夏葉が本当にその場所に立つときが来たら、
-そのときこそ今日のことを話そう）","(When the time comes and she stands in that place of her dreams, only then will I talk to her about today.)"
-0000000000000,プロデューサー,そのために、俺ももっと頑張るからな！,And I'll do everything I can to help you reach that goal!
-1013001050210,夏葉,なに言ってるのよ,What are you talking about?
+そのときこそ今日のことを話そう）","(When the time comes and she stands in that place
+of her dreams, only then will I talk to her about today.)"
+0000000000000,プロデューサー,そのために、俺ももっと頑張るからな！,"And I'll do everything I can to help you reach that
+goal!"
+1013001050210,夏葉,なに言ってるのよ,What are you saying?
 1013001050220,夏葉,"プロデューサーがすごく頑張ってるの
-私だって知ってるわ","If anyone know how hard you work, Producer, it's me."
+私だって知ってるわ","If anyone knows how hard you work, it's me."
 0000000000000,プロデューサー,な、夏葉……,Na... Natsuha....
 1013001050230,夏葉,"何も私だって、疲れ知らずってわけじゃないし
-気分が落ちることも少しくらいはあるし……","I'm not immune to everything that happens. I get tired, too, and sometimes things can get me down..."
+気分が落ちることも少しくらいはあるし……","I'm not immune to everything that happens. I get
+tired, too, and sometimes things can get me down..."
 1013001050240,夏葉,"でも、プロデューサーが私のために
 頑張ってくれてるのを知っているわ",But I know that you're working your hardest for my sake.
 0000000000000,プロデューサー,そんな事、思っててくれたのか,You really think that about me?

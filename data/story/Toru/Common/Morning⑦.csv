@@ -1,0 +1,27 @@
+id,name,text,trans
+1020001000710010,透,──……,──...
+0000000000000,プロデューサー,音楽聴いてるのか？,"Are you listening to music, there?"
+1020001000710020,透,"──……あ
+プロデューサー？","──...ah.
+Producer?"
+1020001000710030,透,何か言った？,Did you say something?
+select,,いや、聴いてるなって,"No, just thought you
+were listening to..."
+select,,ごめん、邪魔したな,"Sorry, I probably
+intruded just now."
+select,,なんでもないんだ,It was nothing at all.
+1020001000710040,透,"え？
+……あ、ううん","Eh?
+...ah, no."
+1020001000710050,透,寝てたよ,I was asleep.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001000710060,透,え？　そんなことないよ,"Eh? No, you didn't."
+1020001000710070,透,ぼーっとしてただけだし,"I was just spacing out, that's all."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001000710080,透,"……？
+そうなんだ","...?
+That so."
+1020001000710090,透,──まだ聴いてていい？,──Is it okay if I keep listening to this?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100071.json,
+译者,,
