@@ -1,7 +1,9 @@
 id,name,text,trans
 4013001000130010,夏葉,"オーディションの空気って不思議よね
-独特の雰囲気で……","There's something peculiar about today's audition, like there's something in the air..."
-0000000000000,プロデューサー,(重い空気に、夏葉も少し緊張しているみたいだ……),(The heavy atmosphere must making Natsuha nervous...)
+独特の雰囲気で……","There's something odd about today's audition,
+like there's something in the air..."
+0000000000000,プロデューサー,(重い空気に、夏葉も少し緊張しているみたいだ……),"(The heavy atmosphere must making Natsuha
+nervous...)"
 select,,緊張を楽しもう！,"Let's savor
 the tension!"
 select,,夏葉なら大丈夫,"You'll be fine,
@@ -9,14 +11,17 @@ Natsuha."
 select,,まずは落ち着こう,"Let's try to
 calm down."
 4013001000130020,夏葉,"そうね！　貴重な体験だもの
-全部自分の糧にするつもりで行ってくるわ！","You're right! This is a valuable experience for me, so I'm going to take it all in!"
+全部自分の糧にするつもりで行ってくるわ！","You're right! This is a valuable experience for me,
+so I'm going to take it all in!"
 0000000000000,プロデューサー,(よし、いつも以上にやる気に溢れてるようだ！),"(Nice, she's seems even more pumped up now!)"
 4013001000130030,夏葉,"ありがとう……
-よし！　自分のやるべきことを、やってくるわ","Thank you...
-Ok! I'm going to get out there and do what I need to do."
-0000000000000,プロデューサー,(どうやら、普段の自信を取り戻せたみたいだ),"(Seems like her usual confidence has come back, somewhat.)"
+よし！　自分のやるべきことを、やってくるわ","Thank you... Ok! I'm going to get out there and do
+what I need to do."
+0000000000000,プロデューサー,(どうやら、普段の自信を取り戻せたみたいだ),"(Seems like she got her usual confidence back,
+somewhat.)"
 4013001000130040,夏葉,"そうね、それも１つの手だけれど
-集中まで途切れてしまいそうだから……","Yes, that's one idea, but that would probably break my concentration..."
+集中まで途切れてしまいそうだから……","Yes, that's one idea, but that would probably break
+my concentration..."
 0000000000000,プロデューサー,(今１つしっくり来ていないみたいだ……),(It seems like the only idea we have though...)
 info,produce_communication_cheers/401300100013.json,
 译者,,

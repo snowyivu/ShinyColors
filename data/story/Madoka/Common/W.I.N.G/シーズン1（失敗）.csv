@@ -9,14 +9,18 @@ id,name,text,trans
 The girl is waiting for you, isn't she?"
 7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
 0000000000000,プロデューサー,……行ってきます,...I'm off.
-0000000000000,プロデューサー,一次審査の結果が出た\n……ここで終了だ,The results of the first judging came out. ...It ends here.
+0000000000000,プロデューサー,一次審査の結果が出た\n……ここで終了だ,"The results of the first judging came out.
+...It ends here."
 7021001020010,円香,ふうん、わかりました,"Hmm, got it."
-7021001020020,円香,話はそれだけですか？　では──,Was there anything else you wanted to talk about? If not──
+7021001020020,円香,話はそれだけですか？　では──,"Was there anything else you wanted to talk about?
+If not──"
 0000000000000,プロデューサー,えっ！？　あ、ちょっと待って……！,"Huh?! Ah, wait a minute...!"
-0000000000000,プロデューサー,今回は残念だったが……\n円香なら絶対に上を目指せるからな,"It's too bad we didn't get through this time, but... I know you can aim higher."
+0000000000000,プロデューサー,今回は残念だったが……\n円香なら絶対に上を目指せるからな,"It's too bad we didn't get through this time, but...
+I know you can aim higher."
 7021001020030,円香,そういうの結構ですので,I've had enough of that.
 0000000000000,プロデューサー,はは、嫌がるとは思ったけど……\nちゃんと伝えておきたかったんだ,"Haha, I thought that might annoy you, but... I wanted to get it across to you properly."
 0000000000000,プロデューサー,これからも一緒に頑張っていこう！,Let's keep up the good work together!
-7021001020040,円香,はい。『浅倉たちと一緒に』頑張ります,Yes. I'll keep up the good work 'together with Asakura and the rest of the unit'.
+7021001020040,円香,はい。『浅倉たちと一緒に』頑張ります,"Yes. I'll keep up the good work 'together with
+Asakura and the rest of the unit'."
 info,produce_events/702100102.json,
 译者,,

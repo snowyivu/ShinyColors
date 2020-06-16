@@ -1,25 +1,27 @@
 id,name,text,trans
-4013001000120010,夏葉,衣装は……これで大丈夫かしら……,Does my outfit look fine...?
+4013001000120010,夏葉,衣装は……これで大丈夫かしら……,Does my outfit look alright...?
 0000000000000,プロデューサー,"(自分の姿を一生懸命、見直している
-衣装のチェックをしているようだ……)",(She's been going over every last part of her appearance. Now she's onto a costume check...)
+衣装のチェックをしているようだ……)","(She's been going over every last part of her
+appearance. Now she's onto a costume check...)"
 select,,後ろも大丈夫だ,"The back
 looks all good."
-select,,いつも感心するよ,"You did great
+select,,いつも感心するよ,"You did a great
 job as always."
 select,,もう充分だ,"It's fine,
 already."
 4013001000120020,夏葉,"ありがとう、プロデューサー
-後ろの方は見えにくいから、助かったわ","Thank you, Producer.
-It's hard to check my own back, so that really helps."
+後ろの方は見えにくいから、助かったわ","Thank you, Producer. It's hard to check my own
+back, so that really helps."
 0000000000000,プロデューサー,(よかった。夏葉の役に立てたようだ！),(Good thing. I'm glad I could be helpful to Natsuha!)
 4013001000120030,夏葉,"当然よ。ステージに立つんだもの……
-少しでも、気を抜くことはできないわ！","Of course. I'm going up on stage, after all.
-I can't let anything slip by me."
+少しでも、気を抜くことはできないわ！","Of course. I'm going up on stage, after all. I can't
+let anything slip by me."
 0000000000000,プロデューサー,"(良い心構えだ
-だが、少し気を張り過ぎか……？)",(She's certaintly prepared. But doesn't she seem a little too stiff...?)
+だが、少し気を張り過ぎか……？)","(She's certaintly prepared. But doesn't she seem a
+little too stiff...?)"
 4013001000120040,夏葉,"ダメよ。完璧にしないと……
-どこかおかしなところはないかしら……","That won't do. If it's not perfect...
-There isn't anything too off, right...?"
+どこかおかしなところはないかしら……","That won't do. If it's not perfect... There isn't
+anything too off, right...?"
 0000000000000,プロデューサー,(もう少し安心させられたら良かったんだが……),(I should've done something to help her relax...)
 info,produce_communication_cheers/401300100012.json,
 译者,,

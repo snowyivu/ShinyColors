@@ -1,10 +1,11 @@
 id,name,text,trans
 4013001000110010,夏葉,"……いち、にっ……ふぅ
-こんなところかしら","...One, two... phew.
-I think that's good."
+こんなところかしら","...One, two... *phew*... I think that's good."
 0000000000000,プロデューサー,"(ストレッチをして集中しているみたいだ
-そろそろ、声をかけようか……)","(She seems preoccupied with her stretches, but I think it's about time I called for her.)"
-select,,準備完了だな！,"Preparations complete,
+そろそろ、声をかけようか……)","(She seems preoccupied with her stretches, but I
+think it's about time I called for her.)"
+select,,準備完了だな！,"Preparations
+complete,
 I take it!"
 select,,調子はよさそうだな,"You look
 ready to go."
@@ -15,8 +16,9 @@ to be ok?"
 Now to tackle the real thing!"
 0000000000000,プロデューサー,(よし、良い状態で舞台に立てそうだ！),"(Good, she seems ready to take the stage.)"
 4013001000110030,夏葉,"コンディションは悪くないわ
-これなら行けそうよ",Everything's fine. I shouldn't have any problems.
-0000000000000,プロデューサー,(少し緊張しているが、問題なさそうだ……),"(She seems a bit nervous, but there shouldn't be a problem.)"
+これなら行けそうよ",Everything's fine. I'm warmed up and ready to go.
+0000000000000,プロデューサー,(少し緊張しているが、問題なさそうだ……),"(She seems a bit nervous, but there shouldn't be
+any problem.)"
 4013001000110040,夏葉,"当たり前のことを聞かないでちょうだい
 そうでないと、ここにいるはずないでしょ","Please don't ask such obvious question.
 If I wasn't, I wouldn't be here, would I?"
