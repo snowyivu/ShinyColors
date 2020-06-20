@@ -1156,7 +1156,7 @@ raidResult.raidBonusDifficultyAndLevel,%{difficulty}(%{level}),%{difficulty}(%{l
 raidResult.raidNoAwardUser,なし,Nothing
 raidResult.scoreSuffix,%{value}pt,%{value}pt
 raidResult.difficultyRate,×%{value},×%{value}
-raidReady.description,テンション決定後は前の画面には戻れません\nコラボフェスパスを1消費します,Cannot return to previous screen once Tension has been confirmed.\r\nUses 1 Collab Fes Pass.
+raidReady.description,テンション決定後は前の画面には戻れません\nコラボフェスパスを1消費します,Can't return once Tension has been\r\nconfirmed. Uses 1 Collab Fes Pass.
 raidReady.unitSkillDetailDialog.title,ユニット詳細,Unit Details
 raidReward.headerTitle,イベント報酬,Event Reward
 raidReward.alertTexts.default,最大100件一度に受け取ることが可能です\n受け取り済の報酬は未受け取りの報酬の下部に表示されます,You can collect up to 100 at a time.\nRewards that have been claimed are shown beneath unclaimed rewards.
@@ -1583,7 +1583,7 @@ ability.acquired,習得済み,Acquired
 ability.noSkillMessage,習得しているアビリティはありません,No abilities acquired
 ability.emptyNotice,習得可能なアビリティはありません,No learnable abilities
 ability.confirmPop.title,アビリティ習得,Gain Ability
-ability.confirmPop.comment,以下の「ひらめき」を消費して\nアビリティを習得しますか？,Consume these 「inpsiration」\nand learn the ability?
+ability.confirmPop.comment,以下の「ひらめき」を消費して\nアビリティを習得しますか？,Consume these 「Inspiration」\nand learn the ability?
 ability.releaseCommentText,%{comment}で解放,Unlocked by %{comment}
 commonMenu.dataLinkPop.titleForAppleLinked,enza連携,Link Enza
 idolList.infoSwitch.wing,デフォルト(W.I.N.G.用),Default (W.I.N.G.)

@@ -1,0 +1,95 @@
+id,name,text,trans
+0000000000000,off,『強く願う夢ならば』,"""When you wish upon a dream"""
+0000000000000,off,『鐘が鳴っても、醒めたりしない──』,"""Do not wake, even when the bells ring──"""
+2013007010010,夏葉,んん…………,Ngh......
+2013007010020,夏葉,…………,............
+2013007010030,夏葉,……うーん……,......Hmm......
+2013007010040,夏葉,…………,............
+2013007010050,夏葉,……あら……カトレア,...Oh......Cattleya
+2013007010060,夏葉,おはよう……,Good morning...
+2013007010070,夏葉,何か……夢を見ていたような気がするの……,It felt like... I was dreaming about something...
+2013007010080,夏葉,ふふ……いま……何時かしら……,Fufu... I wonder what time it is...
+2013007010090,夏葉,…………！,Ah......!
+2013007010100,夏葉,あと少しでプロデューサーが迎えに来ちゃうじゃない！,The Producer's about to get here!
+2013007010110,夏葉,──な、なんとか間に合いそうね……,─S-Somehow I put myself together in time...
+2013007010120,夏葉,"カトレア……
+アナタのご飯だけは忘れちゃいけないわね",Cattleya... All I have left is to get your food.
+2013007010130,夏葉,"うふふっ
+わかっているわよ",Ufufu. I heard you.
+2013007010140,夏葉,今、用意するわね！,I'll go get ready right now!
+0000000000000,プロデューサー,──もしもし、夏葉？,"──Hello, Natsuha?"
+2013007010150,夏葉,プロデューサー……！,Producer...!
+0000000000000,プロデューサー,おはよう、夏葉,"Good morning, Natsuha."
+0000000000000,プロデューサー,少し早く着いたんだけど、もう出られそうか？,It looks like I got here a bit ahead of schedule. Are you about ready to go?
+2013007010160,夏葉,カトレアのご飯を準備し終わったら……出られるわよ！,I'll go as soon as I take care of Cattleya's food.
+0000000000000,プロデューサー,"そうか
+……夏葉は朝ご飯、しっかり食べられたか？",Alright. By the way... did you make sure to eat breakfast?
+2013007010170,夏葉,"…………いいえ
+実は、まだなの……","......No, I haven't eaten yet, actually..."
+2013007010180,夏葉,起きるのに、少し時間がかかってしまって……,"By the time I woke up, it was already almost time to go..."
+0000000000000,プロデューサー,朝、弱いって言ってたもんな,I do remember you saying you weren't a morning person.
+2013007010190,夏葉,ええ、だから途中で何か──,"Yes, so I was wondering if on the way──"
+0000000000000,プロデューサー,いや、大丈夫だぞ！,"Wait, I've got you totally covered!"
+2013007010200,夏葉,え……？,Huh...?
+select,,"サンドイッチ
+買ってきたんだ","I bought you
+a sandwich
+earlier..."
+select,,"おにぎり
+買ってきたんだ","I bought you
+some onigiri
+earlier..."
+select,,"スープ
+買ってきたんだ","I bought you
+some soup
+earlier..."
+0000000000000,,"★選択肢①【サンドイッチ
+買ってきたんだ】","★Option ① ""I bought you a sandwhich earlier..."""
+0000000000000,プロデューサー,"サンドイッチ
+買ってきたんだ",I bought you a sandwich earlier...
+0000000000000,プロデューサー,今ならまだ……コーヒーも温かいぞ！,And it looks like... the coffee I got is still warm!
+2013007010210,夏葉,"そうなの？
+うふふ、それじゃあ急がなくちゃね","Is that so? Ufufu, guess I'll have to hurry then."
+0000000000000,プロデューサー,"ああ、車で待ってるから
+冷めないうちにおいで","It'll be waiting for you in the car, so be sure to come down before it gets cold."
+2013007010220,夏葉,"ありがとう！
+すぐに行くから……一旦切るわね","Thank you! I'll be right down, so I'll see you then."
+0000000000000,プロデューサー,うん、じゃあ──,"Yeah, I'll be──"
+2013007010230,夏葉,"あっ、待って！
+ひとつ言い忘れていたわ","Ah, wait! I forgot to say something."
+0000000000000,プロデューサー,ん、何だ？,Hm? What is it?
+2013007010240,夏葉,……おはよう、プロデューサー！,"...Good morning, Producer!"
+0000000000000,,"★選択肢②【おにぎり
+買ってきたんだ】","★Option ② ""I bought you some onigiri earlier..."""
+0000000000000,プロデューサー,"おにぎり
+買ってきたんだ",I bought you some onigiri earlier...
+0000000000000,プロデューサー,あと、温かいお茶もあるぞ！,And some hot tea as well!
+2013007010250,夏葉,"うふふっ
+それじゃあ……すぐに行くわね","Ufufu. In that case, I'll be right out."
+0000000000000,プロデューサー,"ああ、慌てなくてもいいから
+戸締まりはしっかりな",There's no need to hurry. Just make sure to close up properly.
+2013007010260,夏葉,わかっているわ！,"I know, I know!"
+0000000000000,プロデューサー,……カトレアもそこにいるんだな,...Is Cattleya there too right now?
+2013007010270,夏葉,"ええ、カトレアも言っているのよ
+プロデューサーに、……ありがとうって","Yes, there's something Cattleya wants to tell you, Producer......""Thank you."""
+0000000000000,,"★選択肢③【スープ
+買ってきたんだ】","★Option ③ ""I bought you some soup earlier."""
+0000000000000,プロデューサー,"スープ
+買ってきたんだ",I bought you some soup earlier.
+0000000000000,プロデューサー,野菜と鶏肉が沢山入ってるやつだぞ！,It's got plenty of chicken and vegetables!
+2013007010280,夏葉,それは……美味しそうね……！,That sounds quite delicious!
+0000000000000,プロデューサー,ああ、きっと気に入ると思うよ,"Yeah, I thought you might like it."
+0000000000000,プロデューサー,"少し行儀は悪いけど、
+車に乗りながら食べてくれ","I'd usually ask you not to eat it in the car, but I'll make an exception today."
+2013007010290,夏葉,……ありがとう、プロデューサー,"...Thank you, Producer."
+0000000000000,プロデューサー,"だから冷めないうちに、な！
+待ってるよ","So make sure you get here before it gets cold, ok? I'll be waiting."
+2013007010300,夏葉,"もう、そんなに甘やかして……
+一体どうするつもり？","Hey, what do you think you're doing, spoiling me like this?"
+0000000000000,プロデューサー,"はは、そうだな
+うーん……","Haha, well I guess..."
+0000000000000,プロデューサー,トップアイドルにするつもり……かな！,I'm making you into a top idol... or something!
+2013007010310,夏葉,……！,......!
+2013007010320,夏葉,待っていて、すぐに行くわ！,Give me a moment. I'll be right there!
+info,produce_events/201300701.json,
+译者,,
