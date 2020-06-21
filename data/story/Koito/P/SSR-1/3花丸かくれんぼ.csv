@@ -9,7 +9,7 @@ id,name,text,trans
 0000000000000,プロデューサー,ああ……,Yeah...
 2022004030030,小糸,…………,......
 0000000000000,プロデューサー,小糸、\n元気が無いみたいだな,"Koito, you seem sort of down."
-2022004030040,小糸,……えっ\nあ、す、すみません……,"...Eh. Ah, I-I'm sorry..."
+2022004030040,小糸,……えっ\nあ、す、すみません……,"...Eh? Ah, I-I'm sorry..."
 0000000000000,プロデューサー,いや、謝ることは無いんだ\n……何かあったのか？,"No, it's nothing to apologize about.
 ...Did something happen?"
 2022004030050,小糸,…………\nしょ、小テストが返ってきたんです,...I-I got a quiz back.
@@ -50,13 +50,13 @@ select,,上手くいくよ,You're doing great.
 2022004030200,小糸,…………！\n……はい,"...!
 ...Okay."
 0000000000000,プロデューサー,これからもたぶん\n何も上手くいかない日もある,I'm sure there will be more days when you don't do well at something.
-2022004030210,小糸,…………はい……,...Yes...
+2022004030210,小糸,…………はい……,...Yeah...
 0000000000000,プロデューサー,それでもその先で\n全部が上手くいく日が絶対に来るよ,"But still, I'm sure the day will come when you do great at everything."
 2022004030220,小糸,ぜ、絶対に……？,Y-You're sure...?
 0000000000000,プロデューサー,おう、絶対だ,"Yeah, I'm sure."
 0000000000000,プロデューサー,小糸は上手くいく,You're doing great.
 2022004030230,小糸,……そうでしょうか……,...Am I...?
-0000000000000,プロデューサー,上手くいかなかったことも全部\n無駄にはならない,"All the times you've failed weren't for nothing, either."
+0000000000000,プロデューサー,上手くいかなかったことも全部\n無駄にはならない,"All of your failures aren't for nothing, either."
 0000000000000,プロデューサー,上手くいくために、全部必要なんだよ,They're all necessary for you to do well.
 info,produce_events/202200403.json,
 译者,,
