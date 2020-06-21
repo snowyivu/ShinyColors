@@ -1,0 +1,54 @@
+id,name,text,trans
+2022004020010,小糸,…………！,...!
+2022004020020,小糸,あ……,Ah...
+2022004020030,小糸,鍵、閉まってる……\nどどどどうしよう……,The door's locked... wh-wh-wh-what should I do...?
+0000000000000,プロデューサー,……あれ、小糸？,"...Oh, Koito?"
+2022004020040,小糸,ぴゃ！？,Pya?!
+0000000000000,プロデューサー,どうしたんだ\nこんな朝早くに,Why are you here so early in the morning?
+2022004020050,小糸,あ……,Ah...
+2022004020060,小糸,な、なんだ……\nプロデューサーさん……,O-Oh... it's just Producer-san...
+2022004020070,小糸,──はっ\nあ、そ、そうだ……！,"──Oh, ah, th-that's right...!"
+2022004020080,小糸,あの、えっとですね……！,"Um, well...!"
+2022004020090,小糸,わたし、事務所に\nノートを置いてきてしまったみたいで……！,I think I accidentally left my notebook in the office...!
+0000000000000,プロデューサー,なるほど、それで\n学校に行く前に取りに来たのか,I see. So you came here to pick it up before school?
+2022004020100,小糸,は、はい……,Y-Yes...
+0000000000000,プロデューサー,よし、すぐに鍵を開けるよ,"Gotcha, I'll open the door now."
+2022004020110,小糸,あ……\nお、お願いします……！,Ah... th-thank you...!
+2022004020120,小糸,あ……あった……！\nありました！,Th-... there it is...! It's here!
+0000000000000,プロデューサー,おお、よかった！,"Oh, that's good!"
+0000000000000,プロデューサー,よし\n……それじゃ、急ぐぞ！,"Alright.
+...Well then, let's hurry!"
+2022004020130,小糸,え……！？,Eh...?!
+0000000000000,プロデューサー,学校まで送っていくよ\nほら、遅刻するぞ！,"I'll take you to school. C'mon, or you'll be late!"
+2022004020140,小糸,ええ……！,Ehh...!
+2022004020150,小糸,い、いいですいいです！\nだ、大丈夫です！,Y-You don't have to! I-I'll be fine!
+0000000000000,プロデューサー,そんなに遠慮しなくても\nいいんだぞ？,"There's no need for you to be so reserved. It's fine, okay?"
+2022004020160,小糸,べ、別に遠慮してる\nわけじゃないですけど……！,I-I wasn't really trying to be reserved though...!
+0000000000000,プロデューサー,小糸、いつも遅刻しないように\n早く行ってるんだろ,You're always rushing to make sure you're never late.
+0000000000000,プロデューサー,今から電車やバスで行くより\nきっと早い,I'm sure you need to be faster than a train or bus right now.
+2022004020170,小糸,で、でも…………,B-But...
+0000000000000,プロデューサー,車ならここから校門前直通だしさ,"If I drive you there in a car, it'll be a straight shot to the school gates."
+0000000000000,プロデューサー,だからほら、行こう！,"So c'mon, let's go!"
+2022004020180,小糸,そ、そんな……,L-Like a...
+2022004020190,小糸,そ、そんな芸能人みたいな登校の仕方……！,"G-Going to school like a celebrity like that, is...!"
+select,,悪くないだろ？,"It's not a bad
+thing, right?"
+select,,決まりだな！,Then it's settled!
+select,,みたい、じゃ\nないだろ？,"You won't seem
+like one, y'know?"
+2022004020200,小糸,わ、悪くは…………,"Y-Yeah, it's..."
+2022004020210,小糸,ない、ですね…………！,Not bad...!
+0000000000000,プロデューサー,はは、よかった\nそれじゃあ行こう！,"Haha, that's good to hear. Well then, let's go!"
+2022004020220,小糸,……あ、ありがとうございます\nプロデューサーさん……！,"...Th-Thank you, Producer-san...!"
+2022004020230,小糸,え、ええ……！,E-Ehh...!
+2022004020240,小糸,が、学校に怒られないですかね……！,W-Won't that get us in trouble with the school?
+0000000000000,プロデューサー,怒られないと思うけど……\nじゃあこっそり、お忍びで行くしかないな！,I think it might... so we'll have to go secretly and incognito!
+2022004020250,小糸,お、お忍び……！,I-Incognito...!
+2022004020260,小糸,げ、芸能人っぽい……！,Th-That's what a celebrity would do...!
+0000000000000,プロデューサー,小糸はアイドルなんだし\nみたいじゃなくて芸能人だ,"You're an idol, so you don't seem like a celebrity, you are one."
+2022004020270,小糸,ぴぇ…………！,Pyeh...!
+0000000000000,プロデューサー,さぁ、行こう！\n芸能人登校だ！,"Now, let's go! It's time for this celebrity to go to school!"
+2022004020280,小糸,ちょ、ちょっと……！,H-Hey...!
+2022004020290,小糸,待ってくださいよ、プロデューサーさん……！,"Please wait, Producer-san...!"
+info,produce_events/202200402.json,
+译者,,

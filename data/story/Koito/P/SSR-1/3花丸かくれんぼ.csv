@@ -1,0 +1,62 @@
+id,name,text,trans
+0000000000000,プロデューサー,──お、メール来てるな……,"Oh, I got an email..."
+0000000000000,プロデューサー,お……,Oh...
+0000000000000,プロデューサー,この間小糸が受けた\nオーディションの……,It's about that audition Koito entered...
+0000000000000,プロデューサー,────…………,────......
+2022004030010,小糸,……おはようございます,...I'm here.
+0000000000000,プロデューサー,お、おう小糸！,"H-Hey, Koito!"
+2022004030020,小糸,あ……ぷ、プロデューサーさん\nいたんですね……,"Ah... y-you're here, Producer-san..."
+0000000000000,プロデューサー,ああ……,Yeah...
+2022004030030,小糸,…………,......
+0000000000000,プロデューサー,小糸、\n元気が無いみたいだな,"Koito, you seem sort of down."
+2022004030040,小糸,……えっ\nあ、す、すみません……,"...Eh. Ah, I-I'm sorry..."
+0000000000000,プロデューサー,いや、謝ることは無いんだ\n……何かあったのか？,"No, it's nothing to apologize about.
+...Did something happen?"
+2022004030050,小糸,…………\nしょ、小テストが返ってきたんです,...I-I got a quiz back.
+0000000000000,プロデューサー,……うん,...Uh-huh.
+2022004030060,小糸,でも、解答欄がひとつ\nずれてたみたいで……,But I marked one of the answers wrong on it...
+0000000000000,プロデューサー,ああ……\nなるほどな,Ah... so that's what happened.
+2022004030070,小糸,わたし……全部、\nちゃんとしなきゃなのに……,"I... I really needed to do it all right, but..."
+2022004030080,小糸,──そ、それより,──M-More importantly.
+2022004030090,小糸,ぷ、プロデューサーさんこそ\nなんだか、元気ないんじゃないですか……！,"Y-You seem down too, Producer-san...!"
+0000000000000,プロデューサー,…………\n──小糸、実はさ,"...
+Koito, the truth is..."
+0000000000000,プロデューサー,この間受けてもらったオーディション\n今日結果が来たんだ,I got the results from that audition you entered the other day.
+2022004030100,小糸,…………！,...!
+0000000000000,プロデューサー,……今回は、合格できなかった,...You didn't pass it this time.
+2022004030110,小糸,あ…………\nそう、ですか……,"Ah...
+I-Is that right...?"
+0000000000000,プロデューサー,…………うん,...Yeah.
+2022004030120,小糸,え、えっと……\nごめんなさい、プロデューサーさん,"U-Um... I'm sorry, Producer-san."
+2022004030130,小糸,わ、わたし、なんにも\n上手くできてないですね……,I-I can't do anything right...
+0000000000000,プロデューサー,いや、小糸は悪くないよ,"No, you didn't do anything wrong."
+0000000000000,プロデューサー,小糸はまだこの仕事を始めたばかりで\n慣れないことも多いだろうし,"You just started working here, so there's still a lot of things you're not used to yet."
+0000000000000,プロデューサー,仕事だけじゃなくて、学校との両立も大変なのに\n上手くサポートできなくて悪い,I'm sorry I didn't support you well enough with the tough job of balancing your work and school lives.
+0000000000000,プロデューサー,……でも、最初のうちはなかなか\n上手くいかないのが普通だし、当然なんだ,"...But it's totally natural to not be good at everything from the start. "
+2022004030140,小糸,……じゃあ、そのうち\n上手くいくんでしょうか,"...Then, someday, I'll be good at those things?"
+2022004030150,小糸,わたし、いつになったら……,When will I...
+0000000000000,プロデューサー,…………！,...!
+2022004030160,小糸,あ……\nご、ごめんなさい、そうじゃ、なくて……,Ah... I-I'm sorry. I didn't mean to...
+2022004030170,小糸,え、えへへ……\nだめだめですね、わたし,"E-Ehehe... I really am hopeless, aren't I?"
+2022004030180,小糸,──上手くいかないなぁ……,I really have to do well...
+select,,小糸はこれからだ,"You're just
+starting off."
+select,,一緒に乗り越えよう,"Let's overcome
+this together."
+select,,上手くいくよ,You're doing great.
+0000000000000,プロデューサー,それから俺も\nプロデューサーとしてまだまだだから,"As a Producer, I'm also just starting off."
+2022004030190,小糸,プロデューサーさん……,Producer-san...
+0000000000000,プロデューサー,頑張って、それでだめなときはまた\nこうやって話そう,"Let's do our best, and talk like this again whenever something doesn't go well."
+2022004030200,小糸,…………！\n……はい,"...!
+...Okay."
+0000000000000,プロデューサー,これからもたぶん\n何も上手くいかない日もある,I'm sure there will be more days when you don't do well at something.
+2022004030210,小糸,…………はい……,...Yes...
+0000000000000,プロデューサー,それでもその先で\n全部が上手くいく日が絶対に来るよ,"But still, I'm sure the day will come when you do great at everything."
+2022004030220,小糸,ぜ、絶対に……？,Y-You're sure...?
+0000000000000,プロデューサー,おう、絶対だ,"Yeah, I'm sure."
+0000000000000,プロデューサー,小糸は上手くいく,You're doing great.
+2022004030230,小糸,……そうでしょうか……,...Am I...?
+0000000000000,プロデューサー,上手くいかなかったことも全部\n無駄にはならない,"All the times you've failed weren't for nothing, either."
+0000000000000,プロデューサー,上手くいくために、全部必要なんだよ,They're all necessary for you to do well.
+info,produce_events/202200403.json,
+译者,,
