@@ -1,0 +1,178 @@
+id,name,text,trans
+0000000000000,女生徒,ごきげんよう,Good day.
+0000000000000,女生徒,"あら、ごきげんよう
+今日もいいお天気ですわね","Ah, good day to you. Lovely weather today, isnt it?"
+0000000000000,主人公,…………,......
+0000000000000,主人公,（ここが、今日から俺が勤める２８３女学院か……）,"(So this is where I'll starting my job today, at the Shining Wings All-Girls Academy...)"
+0000000000000,主人公,"（全寮制だけあって、敷地も広いし
+校舎自体もすごく大きい……）","(All students board here, the campus is sprawling, and the school building itself is huge...)"
+0000000000000,主人公,"（噂には聞いていたが、実際に見てみると
+想像以上に華やかな場所だな……）","(I'd heard stories about it before but seeing it myself, it's even fancier than I could have imagined...)"
+0000000000000,主人公,（これから、上手くやっていけるんだろうか……）,(I wonder if I'll be able to get by in a place like this...)
+0000000000000,主人公,"（……いや！　最初からこんな気持ちじゃダメだ！
+自分から動いていかないと……！）","(...no, stop! I can't let myself start thinking like that on my first day! I gotta start things off on the right foot...!"
+0000000000000,主人公,……こほん,...Ahem.
+0000000000000,主人公,みんな、おはよう！,"Good morning, everyone!"
+0000000000000,女生徒,…………,......
+0000000000000,主人公,"（あ、あれ……？　無視されてしまった……
+もしかして、聞こえなかったかな……）",(H-Huh...? They're completely ignoring me... Or maybe they just didn't hear me...)
+0000000000000,女生徒,……ねぇ、もしかしてあの人……,"...Hey, is that guy..."
+0000000000000,女生徒,うん、多分……,"Yeah, probably..."
+0000000000000,主人公,あの！\nおはよう！,"Uh, good morning!"
+0000000000000,女生徒,ひぃ……！,Heee...!?
+0000000000000,女生徒,ごめんなさい……！,We're sorry...!
+0000000000000,主人公,あ、ちょっと……！,"H-Hey, wait...!"
+0000000000000,主人公,行ってしまった……,And they're gone...
+0000000000000,主人公,"（急に声をかけたから、怖がらせてしまったかな……
+しかし──）",(I guess I scared them off by trying to greet them out of nowhere... Although──)
+0000000000000,女生徒,…………,......
+0000000000000,主人公,"（視線は感じるけど、生徒たちの姿が見えない……
+どうにも歓迎されていないみたいだな……）","(I can feel the students looking at me, but I can't see any of them. It's like I'm getting completely shunned.)"
+select,,気を取り直して……,I gotta get a grip...
+select,,"……とにかく元気を
+出していこう！","...Chin up, time to impress them with my winning smile!"
+select,,"何か悪いこと
+したかな……",Did I do something wrong...?
+0000000000000,主人公,"……あれ？
+そういえば、校内マップとかもらってないような……","...wait a second. Now that I think about it, I don't think they even gave me a map of the campus."
+0000000000000,主人公,誰か──って、誰も反応してくれないか……,"Even if I tried shouting for help, I doubt anyone would give me the time of day..."
+0000000000000,主人公,どうしたら……,What should I do...
+4901011010010,めぐる,"あれ……
+えっと、何か困りごとですか？","Hm...? Uhm, is there something bothering you?"
+0000000000000,主人公,"え？
+──ああ！　ちょっとカウンセラー室を探していて……",Huh? ...Ohh! I was just trying to find the counselor's office...
+4901011010020,めぐる,"それなら、中央広場を左に曲がってから
+階段を……えっと…………──","Oh, you can just take a left at the central plaza, then at the stairs... um..."
+4901011010030,めぐる,"……えへへ、上手く説明できないから、
+途中まで案内します！","...Ehehe, I'm not that good at giving directions, but I can show you where to go!"
+0000000000000,主人公,"本当か！？
+すまない、助かるよ……！",Really!? Thank you for your trouble!
+4901011010040,めぐる,"この学院広いから……！
+迷っちゃうのもしょうがないよ！","Well, the academy is pretty big...! Can't help it if you get lost!"
+0000000000000,主人公,"ああ……でも、初日からこれだと
+この先が思いやられるな……","Yeah... but if my first day is like this, I can't help but worry about my future..."
+4901011010050,めぐる,"初日……？
+それって……",First day...? So that means...
+0000000000000,主人公,"そうか
+自己紹介がまだだったね","Right, I haven't introduced myself yet."
+0000000000000,主人公,"今日から２８３女学院のカウンセラーとして赴任したんだ
+これからよろしくな",I'm starting today as Shining Wings All-Girls Academy new counselor. It's a pleasure to meet you.
+4901011010060,めぐる,えっ、カウンセラーの先生……！？,"Wait, the school counselor...!?"
+0000000000000,主人公,ああ、よかったら気軽に訪ねてくれ,"Yes, feel free to visit me whenever you'd like."
+4901011010070,めぐる,"う、うん……
+遊びに行くね……！",Y-Yeah... I'll go visit some time...!
+4901011010080,めぐる,……じゃあ、あとはこの道をまっすぐ行けば\nカウンセラー室がある校舎だから……！,"...So if you go straight through here, you'll get to the building where the counselor's office is...!"
+0000000000000,主人公,え？　あ、ああ、助かったよ！\nよければ名前を教えてくれないかな？,"Huh? Oh, right, I appreciate it! Before I go, would you mind telling me your name?"
+4901011010090,めぐる,高等部１年、八宮めぐるだよ,"Meguru Hachimiya, Upper Grade, 1st year."
+0000000000000,主人公,めぐるさんか……今日はありがとう\nまた今度、お礼をさせてほしい,"Meguru... Well, thanks for today. I'll make it up to you next time."
+4901011010100,めぐる,ちょっと道案内しただけだからいいよ……！\nじゃあ、わたし行くね……！,"It's fine, I just gave you some directions... Anyways, I need to go."
+4901011010110,めぐる,……先生！,...Hey teach!
+0000000000000,主人公,ん……？\nどうかしたか？,Hm...? What's going on?
+4901011010120,めぐる,その……\n……気を付けて──！,Well... Take care──!
+0000000000000,主人公,（……？　迷子にならないようにってことかな……？）,(...? Maybe she's worried I'm going to get lost again...?)
+0000000000000,主人公,とにかく、カウンセラー室へ行こう,"Anyways, I should head to the counselor's office."
+0000000000000,主人公,（……カウンセラー室は……あった！　ここだな）,(...The counselor room is... here! Found it.)
+4901011010440,はづき,……あ、先生\nおはようございます～,...Oh there you are. Good morning~
+4901011010450,はづき,私、教師の七草はづきといいます\nこれからよろしくお願いしますね♪,"My name is Haduki Nanakusa, I teach here. Nice to meet you♪"
+0000000000000,主人公,はい、よろしくお願いします！,Nice to meet you too!
+4901011010460,はづき,先生の到着が遅いので心配していたんですよ～,You were late so I was starting to get worried~
+0000000000000,主人公,すみません……\n少し、道に迷ってしまって……,Sorry... I got turned around a little...
+4901011010470,はづき,ああ～、まだ資料をお渡ししてなかったですもんね……\n大丈夫でしたか？,Oh yeah~ I still haven't given you your orientation materials yet... Did you have any trouble?
+0000000000000,主人公,ええ、生徒に道を教えてもらいまして……！,"No, a student helped me find my way...!"
+4901011010480,はづき,わぁ……\nもう生徒のみなさんと仲良くなれたんですね♪,Wow... You're already getting along great with the students then♪
+0000000000000,主人公,ああ、いえいえ……ほんの少し話しただけです,"Oh, I wouldn't go that far... Just a little bit."
+4901011010490,はづき,それでもすごいですよ～\nこれから、もっと色々なお話をしてあげてください,Even that's impressive~ Make sure you have plenty of good conversations with them from now on.
+0000000000000,主人公,……はい！,...Of course!
+4901011010500,はづき,それじゃあ、さっそくですが\nこれからのお仕事について説明させてもらいますね,"Anyway, this is sudden but let me fill you in on your job here."
+0000000000000,主人公,お願いします！,Please do!
+4901011010130,結華,わぁっ……！？,Wha...!?
+0000000000000,主人公,……え？,...Hm?
+4901011010140,結華,"ビックリしたー……
+お兄さん、元気いいね？",You scared me... Well you're awfully cheerful.
+0000000000000,主人公,"す、すまない、まさか人がいるとは思ってなくて……
+大丈夫だったか？","S-sorry about that, I didn't think anyone was around... Are you okay?"
+4901011010150,結華,あはは、ちょっと驚いただけだから平気平気！,"Ahaha, I was just a little startled is all. No worries!"
+0000000000000,主人公,"そうか……さっきから生徒を
+怖がらせてばかりだ……反省するよ","So that's all... Ever since I got here, I've just been scaring all the students... I feel bad about it."
+4901011010160,結華,──……もしかして、新しい先生？,...I suppose you're the new teacher?
+0000000000000,主人公,ああ、今日からこの学院のカウンセラーとして\nお世話になるよ,"Something like that, starting today I'm here as the academy's counselor. Thanks for having me."
+4901011010170,結華,やっぱり！\n先生って感じの雰囲気出てるもん,I knew it! You give off that big shot vibe and everything.
+4901011010180,結華,これからよろしくねー、先生。三峰結華でーす,Nice to meet you. Yuika Mitsumine at your service.
+0000000000000,主人公,…………ああ！\nこちらこそどうぞよろしく,...Same! Nice to meet you too.
+4901011010190,結華,……ん？　どうかした？,...Hm? Something up?
+0000000000000,主人公,いや……なんというか結華さんは、\n他の生徒みたいに怖がったりしないんだなと思って,"Oh, no... Was just thinking that you aren't scared of me like the rest of the students."
+4901011010200,結華,……あー、そういうことか,"...Ohhhh, so that's it."
+4901011010210,結華,この学院は女の子ばっかりだからね,Well this school is all girls after all.
+4901011010220,結華,男の先生なんて珍しいから、きっと戸惑ってるんだよ,We don't get many male faculty so that must have thrown them off.
+0000000000000,主人公,そうだといいんだが……,I hope that's all...
+4901011010230,結華,そうに決まってるって！\nこの三峰が言うんだから、間違いない！,Of course it is! Mitsumine won't steer you wrong!
+0000000000000,主人公,結華さん……ありがとう,Thanks... Yuika-san.
+0000000000000,主人公,しまった……！\nそろそろ行かないと……,Oh no...! I have to get going soon...
+4901011010240,結華,赴任早々、忙しいねぇ\n頑張って！,"Straight to business without a moment's rest, then. Good luck!"
+0000000000000,主人公,ありがとう！\n今度、ゆっくり話そう！,Thanks! We'll talk more next time!
+4901011010250,結華,あはは、おっけー\nカウンセラー室、遊びに行くね！,"Ahaha, okay. I'll go chill at the counseling office some time!"
+0000000000000,主人公,ああ、いつでも待ってるよ！,"Sure, I'll be there whenever you need me!"
+0000000000000,主人公,（少し落ち込んでいたのが嘘みたいに晴れやかだ……\n本当にいい子だったな……）,(That brightened things up like I was never feeling down in the first place... What a good kid.)
+0000000000000,主人公,よし！\nこれから、頑張っていくぞ！,Alright! Ready to do this!
+0000000000000,主人公,（……カウンセラー室は……あった！　ここだな）,(...The counselor room is... here! Found it.)
+4901011010440,はづき,……あ、先生\nおはようございます～,...Oh there you are. Good morning~
+4901011010450,はづき,私、教師の七草はづきといいます\nこれからよろしくお願いしますね♪,"My name is Haduki Nanakusa, I teach here. Nice to meet you♪"
+0000000000000,主人公,はい、よろしくお願いします！,Nice to meet you too!
+4901011010460,はづき,先生の到着が遅いので心配していたんですよ～,You were late so I was starting to get worried~
+0000000000000,主人公,すみません……\n少し、道に迷ってしまって……,Sorry... I got turned around a little...
+4901011010470,はづき,ああ～、まだ資料をお渡ししてなかったですもんね……\n大丈夫でしたか？,Oh yeah~ I still haven't given you your orientation materials yet... Did you have any trouble?
+0000000000000,主人公,ええ、生徒に道を教えてもらいまして……！,"No, a student helped me find my way...!"
+4901011010480,はづき,わぁ……\nもう生徒のみなさんと仲良くなれたんですね♪,Wow... You're already getting along great with the students then♪
+0000000000000,主人公,ああ、いえいえ……ほんの少し話しただけです,"Oh, I wouldn't go that far... Just a little bit."
+4901011010490,はづき,それでもすごいですよ～\nこれから、もっと色々なお話をしてあげてください,Even that's impressive~ Make sure you have plenty of good conversations with them from now on.
+0000000000000,主人公,……はい！,...Of course!
+4901011010500,はづき,それじゃあ、さっそくですが\nこれからのお仕事について説明させてもらいますね,"Anyway, this is sudden but let me fill you in on your job here."
+0000000000000,主人公,お願いします！,Please do!
+0000000000000,主人公,（特に不審な様子はなかったと思うんだが……多分……）,"(I mean, I don't think I'm being THAT shady... Probably...)"
+4901011010260,冬優子,ちょっと……,"Hey, you..."
+0000000000000,主人公,え？,Huh?
+4901011010270,冬優子,……邪魔なんだけど,...You're kinda in the way.
+0000000000000,主人公,あ、ああ！　すまない\nちょっとぼーっとして……どうぞ,O-Oh! Sorry. I was just spacing out for second there... Here.
+4901011010280,冬優子,ふーん,Hmmm.
+4901011010290,冬優子,……あんた、何者？,...Who are you?
+0000000000000,主人公,スクールカウンセラーだよ\n今日、赴任してきたばかりなんだ、どうぞよろし──,"The school counselor. I was just appointed to the position, but I hope to──"
+4901011010300,冬優子,ああ、どおりで\nみんなが不安そうにしているわけだわ……,So then you're just here to make everyone nervous...
+0000000000000,主人公,……あの、すまない。それって……？\n何か知っていたら教えてもらえないかな,"...Um, I'm sorry. What do you mean by that? If there's some thing I don't know, could you please tell me?"
+4901011010310,冬優子,あんた、何も知らないのね……,"You don't have a clue, do you?"
+0000000000000,主人公,ええと……,Well...
+4901011010320,冬優子,……はぁ\nしょうがないわね……,"...Haa, guess I have to then..."
+4901011010330,冬優子,いい？\n一度しか言わないから、よく聞くのよ,"You listening? I'm only gonna say this once, so pay attention."
+4901011010340,冬優子,この学院には、\n大事なルールがふたつあるの,"At this academy, there are two sacred rules you must follow."
+4901011010350,冬優子,ひとつめは、男性教諭に不用意に近づかないこと\nふたつめは、終業式が終わるまで敷地の外に出ないこと,"Firstly, do not carelessly approach any male professors. Secondly, until the closing ceremony has concluded, you may not leave the grounds of the school."
+0000000000000,主人公,そ、そんなルールがあったのか……,"S-So those are the rules, then?"
+4901011010360,冬優子,学院の規則じゃないけどね\n生徒たちの間でずっと守られてきたルール,"They're not the academy's rules, no, but rather they are carefully regulated rules established among the student body."
+4901011010370,冬優子,天下のお嬢様学院の生徒として、\n清く正しくってことでしょ,"As the students of a preeminent academy, our motto is Modesty and Fairness after all."
+0000000000000,主人公,なるほど……,I see...
+4901011010380,冬優子,わかったら、\nあんまり生徒に話しかけるんじゃないわよ,"If you understand, they I recommend you don't try talking to any of the students."
+0000000000000,主人公,ああ、できる限りそうさせてもらうよ,"Right, I'll do my best to keep that in mind."
+4901011010390,冬優子,それじゃあ、授業が始まるし\nふゆはもう行くわ,"In that case, class is starting, so I'll be on my way."
+0000000000000,主人公,あ、すまない！\nもうひとつだけ……！,"Ah, excuse me! One more thing...!"
+4901011010400,冬優子,何よ……まだ何か用があるの？,What now... Do you still need something from me?
+0000000000000,主人公,カウンセラー室に行きたいんだけど、\n場所がわからなくて……,"I'm trying to get to the counselor's office, but I'm not sure where it is..."
+4901011010410,冬優子,……はぁ\n中央広場を左に曲がって、階段を上ったらすぐよ,"...Haa... Take a left at the central plaza, go up the stairs, and it'll be just ahead."
+0000000000000,主人公,ありがとう！\n本当に助かったよ……えっと……,Thank you! You've been a big help... um...
+4901011010420,冬優子,…………冬優子\n黛冬優子よ,...Fuyuko. Fuyuko Mayuzumi.
+0000000000000,主人公,冬優子さん……ありがとう\nこれからよろしく……！,Fuyuko... Thank you! It was good to meet you...!
+4901011010430,冬優子,……,...
+0000000000000,主人公,（冬優子さん……色々とお世話になってしまったな）,(Fuyuko... Her advice was really helpful.)
+0000000000000,主人公,（……カウンセラー室は……あった！　ここだな）,(...The counselor room is... here! Found it.)
+4901011010440,はづき,……あ、先生\nおはようございます～,...Oh there you are. Good morning~
+4901011010450,はづき,私、教師の七草はづきといいます\nこれからよろしくお願いしますね♪,"My name is Haduki Nanakusa, I teach here. Nice to meet you♪"
+0000000000000,主人公,はい、よろしくお願いします！,Nice to meet you too!
+4901011010460,はづき,先生の到着が遅いので心配していたんですよ～,You were late so I was starting to get worried~
+0000000000000,主人公,すみません……\n少し、道に迷ってしまって……,Sorry... I got turned around a little...
+4901011010470,はづき,ああ～、まだ資料をお渡ししてなかったですもんね……\n大丈夫でしたか？,Oh yeah~ I still haven't given you your orientation materials yet... Did you have any trouble?
+0000000000000,主人公,ええ、生徒に道を教えてもらいまして……！,"No, a student helped me find my way...!"
+4901011010480,はづき,わぁ……\nもう生徒のみなさんと仲良くなれたんですね♪,Wow... You're already getting along great with the students then♪
+0000000000000,主人公,ああ、いえいえ……ほんの少し話しただけです,"Oh, I wouldn't go that far... Just a little bit."
+4901011010490,はづき,それでもすごいですよ～\nこれから、もっと色々なお話をしてあげてください,Even that's impressive~ Make sure you have plenty of good conversations with them from now on.
+0000000000000,主人公,……はい！,...Of course!
+4901011010500,はづき,それじゃあ、さっそくですが\nこれからのお仕事について説明させてもらいますね,"Anyway, this is sudden but let me fill you in on your job here."
+0000000000000,主人公,お願いします！,Please do!
+info,special_communications/490101101.json,
+译者,,

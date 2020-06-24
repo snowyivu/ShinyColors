@@ -11,9 +11,11 @@ id,name,text,trans
 2022004010050,小糸,ぷ、プロデューサーさん……！,P-Producer-san...!
 0000000000000,プロデューサー,すまん、驚かせたな,Sorry for surprising you.
 2022004010060,小糸,あ……\nい、いえ……,Ah... i-it's fine...
-0000000000000,プロデューサー,少し前から見てたんだけど\n小糸、全然気が付かなかったな,"I've been watching you for a minute. You didn't notice at all, did you?"
+0000000000000,プロデューサー,少し前から見てたんだけど\n小糸、全然気が付かなかったな,"I've been watching you for a minute. You didn't notice
+at all, did you?"
 2022004010070,小糸,えええ……\nみ、見て…………？,Whaaat... y-you were watching?
-0000000000000,プロデューサー,はは、すごい集中力だな\nさすがだよ,"Haha, you were amazingly focused. That's just what I'd expect."
+0000000000000,プロデューサー,はは、すごい集中力だな\nさすがだよ,"Haha, you were amazingly focused. That's just what
+I'd expect."
 0000000000000,プロデューサー,それに問題を解くのも\nすごく早かった,You solved the problems so fast too.
 2022004010080,小糸,…………\nそ、そうですかね……,"...
 ...D-Did I...?"
@@ -23,34 +25,41 @@ id,name,text,trans
 2022004010110,小糸,と、解き方を知っている\nだけですから……,S-So I already knew how to solve them...
 2022004010120,小糸,知ってれば……\n誰にでも…………,Anyone could do it... if they knew how...
 0000000000000,プロデューサー,そ、そうか……,I-I see...
-0000000000000,プロデューサー,あっ、そういえば小糸は確か\n他の３人とは別の中学だったって──,"Ah, speaking of that, I think you've mentioned before that you went to a different middle school than the others."
+0000000000000,プロデューサー,あっ、そういえば小糸は確か\n他の３人とは別の中学だったって──,"Ah, speaking of that, I think you've mentioned before
+that you went to a different middle school than the
+others."
 2022004010130,小糸,あ…………\nは、はい……,"Ah...
 I-I did..."
-2022004010140,小糸,…………,...
+2022004010140,小糸,…………,......
 0000000000000,プロデューサー,…………あ\n──そうだ、これ！,"...Ah.
 I know, here!"
 0000000000000,プロデューサー,ほら──,Look──
 select,,飴だ！,Candy!
 select,,チョコだ！,Chocolate!
 select,,ガムだ！,Gum!
-0000000000000,プロデューサー,……小糸、これ好きだろ？\n勉強のお供にほら,"...You like this kind, right? Here, it's good to eat while you're studying."
+0000000000000,プロデューサー,……小糸、これ好きだろ？\n勉強のお供にほら,"...You like this kind, right? Here, it's good to eat while
+you're studying."
 2022004010150,小糸,え……！\nし、知ってたんですか……！,Eh...! Y-You knew...?!
 2022004010160,小糸,な、なんで……！,H-How...?!
 0000000000000,プロデューサー,はは、さて\nどうしてかな,"Haha, well, I wonder how I knew?"
 2022004010170,小糸,え、ええ……！,E-Ehh...?!
-0000000000000,プロデューサー,はは、小糸のこと予習したからかな,"Haha, maybe it's because I've been studying to learn more about you."
+0000000000000,プロデューサー,はは、小糸のこと予習したからかな,"Haha, maybe it's because I've been studying to learn
+more about you."
 0000000000000,プロデューサー,合ってただろ？,Was I right?
 2022004010180,小糸,…………\nせ、正解です……！,"...
 C-Correct...!"
 2022004010190,小糸,わ、わぁ……！\nチョコ……！,W-Wah...! Chocolate...!
-0000000000000,プロデューサー,勉強のお供にってよく言うだろ？,"It's good to eat chocolate while you're studying, right?"
-0000000000000,プロデューサー,まぁ、小糸はもう課題\n終わっちゃったみたいだけどな,Though it sounds like you're already done with your homework.
+0000000000000,プロデューサー,勉強のお供にってよく言うだろ？,"It's good to eat chocolate while you're studying,
+right?"
+0000000000000,プロデューサー,まぁ、小糸はもう課題\n終わっちゃったみたいだけどな,"Though it sounds like you're already done with your
+homework."
 2022004010200,小糸,も、もらっちゃって\nいいんですか……！,C-Can I still have some...?!
 0000000000000,プロデューサー,ああ、もちろん,"Yeah, of course."
 2022004010210,小糸,…………！,...!
 2022004010220,小糸,…………っ\nんんん～……！,"...
 Mmm~...!"
-0000000000000,プロデューサー,勉強しながらガムを噛むといいって\n聞くし……よかったらもらってくれ,I've heard that it's good to chew gum while you're studying... you can have some if you'd like.
+0000000000000,プロデューサー,勉強しながらガムを噛むといいって\n聞くし……よかったらもらってくれ,"I've heard that it's good to chew gum while you're
+studying... you can have some if you'd like."
 2022004010230,小糸,あ……えっと……\nあ、ありがとうございます……！,Ah.. um... th-thank you...!
 0000000000000,プロデューサー,はは、もう少し早く渡せばよかったな,"Haha, I wish that I could've given you some earlier."
 0000000000000,プロデューサー,もう課題、終わっちゃっただろ？,Aren't you done with your homework already?

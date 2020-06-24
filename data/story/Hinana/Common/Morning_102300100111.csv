@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,雛菜、おはよう,"Hinana, good morning."
+1023001001110010,雛菜,"あ、おはよう～
+プロデューサー………………","Ah, morning~
+Producer........."
+0000000000000,プロデューサー,"こら、朝の挨拶をしながらソファに
+寝転がるんじゃない……！",Hey you! Don't drop down on the sofa while giving your morning greeting...!
+1023001001110020,雛菜,"あは～
+だってここ雛菜の特等席だもん～","Aha~
+But this is Hinana's special seat~"
+select,,"今だけ
+だぞ……！","Only for
+now...!"
+select,,"誰か来たら
+退くんだぞ？","If anyone
+comes, you
+have to move."
+select,,"ここで
+寝ちゃだめだ","Don't sleep
+in here."
+1023001001110030,雛菜,"うん～
+誰か来たらちゃんと座るよ～？","Yup~
+If anyone else comes, I just have to sit down properly~"
+1023001001110040,雛菜,"プロデューサーしかいなかったら
+いいでしょ～？","If producer is the only one around, then it's fine, right~?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1023001001110050,雛菜,わかってるよ～,I know that~
+1023001001110060,雛菜,だから今はおやすみ～……,"That's why, for now, good night~..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1023001001110070,雛菜,"え～……
+雛菜、寝てるから聞こえません～","Eh~...
+Hinana is asleep right now, so she can't hear you~"
+1023001001110080,雛菜,聞こえてないからね～～～？,"She can't hear you, you know~~~?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102300100111.json,
+译者,,
