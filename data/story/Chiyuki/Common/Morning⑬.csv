@@ -1,9 +1,9 @@
 id,name,text,trans
-0000000000000,プロデューサー,千雪、何縫ってるんだ……エプロン？,"Chiyuki, what are you sewing… an apron?"
+0000000000000,プロデューサー,千雪、何縫ってるんだ……エプロン？,"Chiyuki, what are you sewing... an apron?"
 1016001001310010,千雪,はい。家で使ってるものなんですけど、ほつれちゃって,"Yes, I usually use it at home, but recently it became very loose."
 1016001001310020,千雪,結構お気に入りだったので、もう少し使いたいんです,"I really liked it, so, I wanted to use it just once more."
 0000000000000,プロデューサー,"（縫う作業に迷いがない……
-さすがに、手馴れてるみたいだな）","(I don't have much hesitation to ask about sewing…
+さすがに、手馴れてるみたいだな）","(I don't have much hesitation to ask about sewing...
 As expected, I feel like I'm getting used to it at this point.)"
 select,,"千雪はエプロンが
 似合いそうだな","I think you would
@@ -20,19 +20,19 @@ of your costumes?"
 1016001001310030,千雪,"ええ、そうですか？
 ふふ……そう言われると、嬉しいかもです","Eh, Is that so?
 Fufu, you must've been pleased when you said that."
-1016001001310040,千雪,でも、なんか照れちゃうなぁ……♪,"Saying it like that, makes me feel flustered…♪"
+1016001001310040,千雪,でも、なんか照れちゃうなぁ……♪,"Saying it like that, makes me feel flustered...♪"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001001310050,千雪,"ええ
 新しいエプロンを買うのも素敵なんですけど……","Eh? I do get that
-it's nicer to buy a new apron, but…"
+it's nicer to buy a new apron, but..."
 1016001001310060,千雪,"せっかくなら、もっと可愛くしてあげて
 長生きしてもらいたいなって思うんです♪","If that's the case, then, I'll fix it
 and make it more cuter, and use it more for a while♪"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1016001001310070,千雪,い、衣装にですか……アイドルの、ですよね？,I-Is it really a costume… for an idol? Is it?
+1016001001310070,千雪,い、衣装にですか……アイドルの、ですよね？,I-Is it really a costume... for an idol? Is it?
 1016001001310080,千雪,"……どうしましょう、考えてもみませんでした……
-でも、可愛いかもしれませんね！","What should I do… I never thought much that…
+でも、可愛いかもしれませんね！","What should I do... I never thought much that...
 Actually now, I think it might be too cute for me!"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100131.json,
 译者,,

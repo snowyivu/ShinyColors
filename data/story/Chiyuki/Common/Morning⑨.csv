@@ -1,41 +1,41 @@
 id,name,text,trans
-0000000000000,プロデューサー,（うーん……どうしようかな、これ……）,(Hm… what should I do with this…)
+0000000000000,プロデューサー,（うーん……どうしようかな、これ……）,(Hm... what should I do with this...)
 1016001000910010,千雪,"おはようございます
-……あら、プロデューサーさん、そのハンカチ……","Good morning…
-Oh, Producer, that handkerchief…"
+……あら、プロデューサーさん、そのハンカチ……","Good morning...
+Oh, Producer, that handkerchief..."
 0000000000000,プロデューサー,"ああ、アイドル番組のディレクターからもらったんだ
 テレビ局のマスコットグッズらしいんだが……","This? I got it from the director of an Idol program.
-It seems to be some mascot goods for a TV station…"
+It seems to be some mascot goods for a TV station..."
 1016001000910020,千雪,"わぁ、そうなんですね……
-すごく可愛い……！","Oh, I see…
+すごく可愛い……！","Oh, I see...
 It's very cute!"
 select,,"……千雪、
-よかったら使うか？","…Chiyuki, do
+よかったら使うか？","...Chiyuki, do
 you wanna use it?"
 select,,"そんなに
 気に入ったのか？","Do you like
 it a lot?"
 select,,"俺にはあまり
 わからないが……","I don't know if I
-would really use it…"
+would really use it..."
 1016001000910030,千雪,えっ、いいんですか？,Eh? You won't mind?
 1016001000910040,千雪,"きゃ～っありがとうございます！
 ふふっ、今日から使っちゃいます……♪","Thank you very much!
-Fufu, I'll make sure to it for today…♪"
+Fufu, I'll make sure to it for today...♪"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001000910050,千雪,"い、いえ、その……
-とっても可愛いハンカチなので、つい……","N-No, It's just…
-It's a very pretty handkerchief, so…"
+とっても可愛いハンカチなので、つい……","N-No, It's just...
+It's a very pretty handkerchief, so..."
 1016001000910060,千雪,"なんだか、はしゃいじゃいましたね……
-恥ずかしい～……","And that, it makes me feel quite happy…
-I feel embarrased about that…"
+恥ずかしい～……","And that, it makes me feel quite happy...
+I feel embarrased about that..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001000910070,千雪,"ええ～
 こんなに可愛いのに……","Eh?
-But it's really cute…"
+But it's really cute..."
 1016001000910080,千雪,"プロデューサーさん
 そんなこと言っちゃ、この子がかわいそうですよ？","Say, Producer.
 Do you feel bad for having this handkerchief?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100091.json,
 译者,,

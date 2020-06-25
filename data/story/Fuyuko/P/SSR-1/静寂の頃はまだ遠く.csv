@@ -2,23 +2,25 @@ id,name,text,trans
 0000000000000,プロデューサー,──日が沈むのも早くなったな,"The sun's going down sooner now, isn't it?"
 2018004040010,冬優子,ええ、すぐ暗くなっちゃうのよね,"Yeah, it'll be dark soon."
 0000000000000,プロデューサー,"帰り道、ちゃんと気を付けてるか？
-家が遠いし、帰りが遅くなることも多いんだからな","On your way home, will you take care?\r\nSince your house is far, and you go back late often."
+家が遠いし、帰りが遅くなることも多いんだからな","On your way home, will you take care?
+Since your house is far, and you go back late often."
 0000000000000,プロデューサー,"あと、寒くなってきたから、風邪にも気を付けるんだぞ
 なんなら、上着くらい貸すから","Also, it's getting chillier, so be sure not to catch a
 cold. If you want, I'll lend you a coat."
 2018004040020,冬優子,"大丈夫よ
-どっちも、あんたが心配しない程度には気を付けてるわ","I'm fine, and besides,
-you don't need to worry about me so much."
+どっちも、あんたが心配しない程度には気を付けてるわ","I'm fine, and besides, you don't need to worry about me so much."
 2018004040030,冬優子,"それにふゆ、寒いのには強い方なの
-今だって、ちょうどいいくらい","Moreover, Fuyu is strong against the cold.\r\nEven now, I'm just fine."
+今だって、ちょうどいいくらい","Moreover, Fuyu is strong against the cold.
+Even now, I'm just fine."
 2018004040040,冬優子,…………,......
 2018004040050,冬優子,…………………,......
 0000000000000,プロデューサー,……冬優子？,...Fuyuko?
 2018004040060,冬優子,…………ふふっ,...Heheh.
 0000000000000,プロデューサー,"落ち葉ばっかり踏んで、何やってるんだ……
-転ばないようにな",What are you doing? Stepping on fallen leaves...\r\nMake sure you don't slip.
+転ばないようにな","What are you doing? Stepping on fallen leaves...
+Make sure you don't slip."
 2018004040070,冬優子,"大丈夫だってば
-あんた、余計な心配してばっかね","I'm fine.\r\nYou, you worry too much."
+あんた、余計な心配してばっかね","I'm fine. You, you worry too much."
 2018004040080,冬優子,…………秋が終わる音ね,...It's the sound of autumn ending.
 0000000000000,プロデューサー,ああ、もうすぐ冬だな,"Yeah, it's already winter huh."
 2018004040090,冬優子,…………ふゆね、冬が好きなの,"...I, like winter."
@@ -26,7 +28,8 @@ you don't need to worry about me so much."
 0000000000000,プロデューサー,誰もそんなこと言ってないだろ……,No one said you were...
 2018004040110,冬優子,ならいいけど,I hope not.
 2018004040120,冬優子,"……確かに、冬って何かとバタバタしがちだし、
-乾燥酷くなるから保湿も大変だけど──","...Certainly, winter comes with a lot of commotion,\r\nIt gets dry so moisturizing becomes difficult."
+乾燥酷くなるから保湿も大変だけど──","...Certainly, winter comes with a lot of commotion.
+It gets dry so moisturizing becomes difficult."
 2018004040130,冬優子,"ふゆ好みの重ね着したコーデができるじゃない？
 それにふゆって、ウォームカラーも好きなのよね","But you can coordinate a lot of layers to your taste
 can't you? And besides, I like warm colors."
@@ -40,69 +43,82 @@ select,,雪、綺麗だもんな,"Snow, it's beautiful."
 select,,美味しいものが多いしな,"There's lots of
 delicious things."
 select,,なんだか寂しいよな,"It's a bit
-lonesome isn't it."
+lonesome isn't it?"
 0000000000000,プロデューサー,雪、綺麗だもんな,"Snow, it's beautiful."
 2018004040170,冬優子,ふふ、それもいいところね,"Hehe, that's a nice thing too."
 2018004040180,冬優子,このあたりでも、たまに積もることあるじゃない？,"Even around here, it piles up doesn't it?"
 2018004040190,冬優子,"小さい頃なんか、それが嬉しくて
-朝から親が止めるのも聞かないで家を飛び出してたわ","When I was little, it made me happy.\r\nI wouldn't listen to my parents trying to stop me in the morning and would rush out."
+朝から親が止めるのも聞かないで家を飛び出してたわ","When I was little, it made me happy. I wouldn't listen to my parents trying to stop me in the morning and would rush out."
 0000000000000,プロデューサー,…………………,......
 2018004040200,冬優子,"……今、何考えてるか当ててあげる
-『冬優子にもそんな頃があったんだなぁ……』でしょ","...Now, I'll guess what you're thinking.\r\n""There was once a Fuyuko like that..."", right."
+『冬優子にもそんな頃があったんだなぁ……』でしょ","...Now, I'll guess what you're thinking.
+""There was once a Fuyuko like that..."", right."
 0000000000000,プロデューサー,…………………,......
 2018004040210,冬優子,図星ね,Bullseye.
 0000000000000,プロデューサー,今の冬優子からは、あんまり想像できないからな……,"I can't picture it, based on the current Fuyuko..."
 2018004040220,冬優子,ふゆにも純粋な頃があったってことよ,Fuyu was also innocent once.
 0000000000000,プロデューサー,"そうじゃな……
-…………そうだな",Is that so...\r\n...I see.
+…………そうだな",Is that so... I see.
 2018004040230,冬優子,"……でも、今は……
-雪が降ってるところを見る方が好きかも","...But, now...\r\nI might prefer to look where the snow is falling."
+雪が降ってるところを見る方が好きかも","...But, now... I might prefer to look where the snow is falling."
 0000000000000,プロデューサー,降ってるところ？,Where it's falling?
 2018004040240,冬優子,"そ
-地面に落ちる前の……真っ白な雪",Right.\r\nBefore it hits the ground... the pure white snow.
+地面に落ちる前の……真っ白な雪",Right. Before it hits the ground... the pure white snow.
 2018004040250,冬優子,"手に乗せたら一瞬で溶けちゃって、
-ほんとにそこにいたのかもわかんないような……","If you catch it in your hand it melts in an instant,\r\nIt's like it might not have really been there..."
+ほんとにそこにいたのかもわかんないような……","If you catch it in your hand it melts in an instant.
+It's like it might not have really been there..."
 2018004040260,冬優子,"……綺麗なものは儚いんだって……
-そう、言ってくれてるみたいで","...Beautiful things are fleeting after all...\r\nSo, that's what I'm saying."
+そう、言ってくれてるみたいで","...Beautiful things are fleeting after all... So, that's
+what I'm saying."
 0000000000000,プロデューサー,…………………そうか,...I see.
 0000000000000,プロデューサー,"確かに、冬優子と雪は違うかもな
-……同じように白くて綺麗でも、冬優子は……","Sure, Fuyuko and snow may be different.\r\n...But Fuyu is, just as white and pretty..."
+……同じように白くて綺麗でも、冬優子は……","Sure, Fuyuko and snow may be different.
+...But Fuyu is, just as white and pretty..."
 2018004040270,冬優子,"今年も、降るといいな……
-……雪","I hope, it falls again this year...\r\n...the snow."
+……雪","I hope, it falls again this year...
+...the snow."
 0000000000000,プロデューサー,美味しいものが多いしな,There's lots of delicious things.
 2018004040280,冬優子,…………,......
 0000000000000,プロデューサー,ん？　どうした？,Hm? What's wrong?
 2018004040290,冬優子,あんたねえ、この流れでどうしてそういう……,"Hey you, why do you drift off to that..."
 2018004040300,冬優子,"…………ま、いいわ
-あんたに期待したふゆがバカだった","...well, whatever.\r\nThat's all Fuyu can expect of an idiot like you."
+あんたに期待したふゆがバカだった","...well, whatever.
+That's all Fuyu can expect of an idiot like you."
 0000000000000,プロデューサー,何を期待されてたんだ……,What were you expecting...
 2018004040310,冬優子,さあね,I don't know.
 2018004040320,冬優子,"──あーあ、あんたが食べ物の話なんかするから、
-なんかお腹すいてきちゃった","Aah, if you're going to talk about food,\r\nYou're going to make me hungry."
+なんかお腹すいてきちゃった","Aah, if you're going to talk about food, you're going to make me hungry."
 2018004040330,冬優子,ねえ、なんかないの？,"Hey, should we get something?"
 0000000000000,プロデューサー,なんかって……,Something...
 0000000000000,プロデューサー,来たぞ、『なんか』,"Hey, ""something"" came to us."
 2018004040340,冬優子,…………,......
 2018004040341,冬優子,……ま、それもいっか,"...well, that's fine then."
 2018004040350,冬優子,"ほら、行くわよ！
-早くしないと、置いてっちゃうから！","Come on, let's go!\r\nIf you don't hurry up, I'll leave you behind!"
+早くしないと、置いてっちゃうから！","Come on, let's go! If you don't hurry up,
+I'll leave you behind!"
 0000000000000,プロデューサー,なんだか寂しいよな,It's a little lonesome isn't it.
 2018004040360,冬優子,…………！,Huh...!
 2018004040370,冬優子,"……ばか、好きなところの話をしてるのに
-なんで寂しいなんて言葉が出てくるのよ","...Dummy, I was talking about stuff I like.\r\nWhy would you say something like lonesome."
+なんで寂しいなんて言葉が出てくるのよ","...Dummy, I was talking about stuff I like.
+Why would you say something like lonesome?"
 0000000000000,プロデューサー,別にいいだろ、出てきたって,"I don't know, it just came out."
 0000000000000,プロデューサー,"人間、ひとりの時間も必要だからな
-冬の空気って、なんか考え事に向いてる気がしないか？","People, also need time to themselves though.\r\nThe winter air, isn't it a good atmosphere to face your own thoughts?"
+冬の空気って、なんか考え事に向いてる気がしないか？","People, also need time to themselves though.
+The winter air, isn't it a good atmosphere to face
+your own thoughts?"
 2018004040380,冬優子,何それ、なんかぼっちの発想って感じね……,"No way, you may have a bit of a point there..."
 0000000000000,プロデューサー,はは…………,Haha...
 2018004040390,冬優子,……でも、わかんなくもないかも,"...But, I'm not sure."
 2018004040400,冬優子,"みんなうつむいてて、無表情で、寒そうで……
-……みんな、おんなじで……","Everyone's looking down, expressionless, it's cold...\r\n...everyone's, all the same..."
+……みんな、おんなじで……","Everyone's looking down, expressionless, it's cold...
+...everyone's, all the same..."
 2018004040410,冬優子,"…………
-…………ねえ、上着貸して","......\r\n...Hey, lend me your coat."
+…………ねえ、上着貸して","......
+...Hey, lend me your coat."
 0000000000000,プロデューサー,え？,Huh?
 2018004040420,冬優子,"さっき、寒いなら貸すって言ったじゃない
-ほら、さっさと脱ぐ","Just now, you said if I was cold you'd lend me a coat.\r\nCome on, take it off."
+ほら、さっさと脱ぐ","Just now, you said if I was cold you'd lend me a coat.
+Come on, take it off."
 0000000000000,プロデューサー,わ、わかったから引っ張るな,"I-I get it, don't tug."
 2018004040430,冬優子,…………ふふ、あったかい,"...Hehe, it's warm."
 2018004040440,冬優子,…………………寂しくない,...and not lonely.

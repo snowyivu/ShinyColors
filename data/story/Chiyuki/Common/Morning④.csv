@@ -2,9 +2,9 @@ id,name,text,trans
 0000000000000,プロデューサー,"千雪、おはよう
 今日はちょっと遅かったんだな","Chiyuki, good morning.
 Sorry for being a little late today."
-1016001000410010,千雪,はい。ここに来るまでに道を尋ねられて……,"Yes, though I asked how to get here…"
+1016001000410010,千雪,はい。ここに来るまでに道を尋ねられて……,"Yes, though I asked how to get here..."
 1016001000410020,千雪,"その方、かなりお困りみたいだったので
-案内してきたんです","Though, they seemed to be quite troubled…
+案内してきたんです","Though, they seemed to be quite troubled...
 And that I guided them to the place."
 0000000000000,プロデューサー,（話している様子からすると、よくあることみたいだな）,(Seems to be a common thing to ask in a situation.)
 select,,千雪は優しいな,You're really kind.
@@ -17,7 +17,7 @@ select,,"口で伝えるだけじゃ
 to ask them?"
 1016001000410030,千雪,"いえいえ……！
 そんな大したことじゃないですから","Not at all!
-It's not that big of deal…"
+It's not that big of deal..."
 1016001000410040,千雪,"プロデューサーさんも道に迷っちゃったら
 ぜひ私に声をかけてくださいね","But really,
 If you get lost, just call me, okay?"
@@ -31,10 +31,10 @@ as a general store clerk would guide a costumer as well."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001000410070,千雪,"たしかに
 それで大丈夫だったかもしれないんですけど……","Certainly,
-It would've been okay…"
+It would've been okay..."
 1016001000410080,千雪,"もし、道を間違えちゃったらって
 不安になってしまって……","Though, if you made a mistake,
 you'd be worried too."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100041.json,
 译者,,

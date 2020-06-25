@@ -4,9 +4,9 @@ id,name,text,trans
 You seem to be staring at the window a bit too much."
 1016001000110010,千雪,"おはようございます、プロデューサーさん
 ちょっと天気が気になってしまって……","Good morning, Producer.
-I'm a little worried about today's weather…"
+I'm a little worried about today's weather..."
 1016001000110020,千雪,"今朝の予報では、午後から崩れるかもと言ってましたし
-雨が降らなければいいんですけど……","This morning, the forecast said it might rain during the afternoon. So, I hope it won't be raining today…"
+雨が降らなければいいんですけど……","This morning, the forecast said it might rain during the afternoon. So, I hope it won't be raining today..."
 0000000000000,プロデューサー,（なんだか、憂鬱そうな顔をしてるな）,"(Right, Chiyuki seems a bit gloomy.)"
 select,,"てるてる坊主でも
 作ってみるか","Do you wanna
@@ -25,13 +25,13 @@ Fufu, I'll make it out of felt♪"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001000110050,千雪,"プロデューサーさん、傘持ってきてないんですか？
 今日は持っておいたほうがいいかもしれませんね……","Producer, you didn't bring an umbrella?
-You could take mine for today…"
+You could take mine for today..."
 1016001000110060,千雪,あ。あとで、可愛い折り畳み傘を探しにいきましょうか,"Ah, we could go and look for a cute umbrella as well."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001000110070,千雪,"ふふ、プロデューサーさん
 詩的なことをおっしゃるんですね","Fufu, Producer.
 That sounds like a part of a lyric."
-1016001000110080,千雪,うーん……でも、雨は憂鬱です……,"But… still, the rain would be gloomy…"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+1016001000110080,千雪,うーん……でも、雨は憂鬱です……,"But... still, the rain would be gloomy..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100011.json,
 译者,,

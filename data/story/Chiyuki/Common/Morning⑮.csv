@@ -1,11 +1,11 @@
 id,name,text,trans
 1016001001510010,千雪,"プロデューサーさん、ご相談したいことがあって……
-こういった器具って、なにを買ったらいいんでしょうか？","Producer, I want to ask you about something…
+こういった器具って、なにを買ったらいいんでしょうか？","Producer, I want to ask you about something...
 What should I buy for this gadget?"
-0000000000000,プロデューサー,これは……トレーニング用品のカタログか？,Is this from… a training equipment catalog?
+0000000000000,プロデューサー,これは……トレーニング用品のカタログか？,Is this from... a training equipment catalog?
 1016001001510020,千雪,"はい。アイドルのレッスン以外にも
 自宅でもっと気軽に運動したいと思ってて……","That's right. Besides my Idol lessons,
-I want to exercise more at home easily…"
+I want to exercise more at home easily..."
 0000000000000,プロデューサー,（千雪は健康に気を使っているみたいだな）,(Chiyuki seems to be taking care of her health.)
 select,,一緒に調べてみるか,"Do you wanna do
 a check together?"
@@ -18,7 +18,7 @@ on the lessons
 first, instead."
 1016001001510030,千雪,"わぁ、ありがとうございます！
 こういうの、詳しくなくって……","Ah! Thank you!
-I don't know much about checking…"
+I don't know much about checking..."
 1016001001510040,千雪,"もしよかったら、
 お店にも一緒に行ってみませんか？","But if this is okay,
 why don't we go to the store together?"
@@ -31,11 +31,11 @@ Thank you so much!"
 they'd be very helpful."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001001510070,千雪,"あ……確かに
-そのほうがいいかもしれませんね……","Ah, for sure…
-that might be much better…"
+そのほうがいいかもしれませんね……","Ah, for sure...
+that might be much better..."
 1016001001510080,千雪,"無理にやって、身体を壊したりしちゃったら
 ご迷惑になりますし……","Though, when you forcibly train and hurt yourself on accident,
 that would be quite troublesome."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100151.json,
 译者,,

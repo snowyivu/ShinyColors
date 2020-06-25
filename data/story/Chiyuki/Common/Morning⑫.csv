@@ -4,7 +4,7 @@ id,name,text,trans
 do you have any extra buttons laying around?"
 0000000000000,プロデューサー,"シャツ……？
 ええと、今はないと思うけど","For the shirt?
-Well, I don't think I do…"
+Well, I don't think I do..."
 1016001001210020,千雪,"ならよかったです
 そういうの、定期的に見直してくださいね？","That's alright,
 Anyway, make sure to regularly check, okay?"
@@ -13,22 +13,22 @@ select,,は、はーい,Y-Yes.
 select,,いつもすまん,I'm really sorry.
 select,,心配しすぎだよ,"Don't worry too
 much about it."
-1016001001210030,千雪,ふふ、いいお返事です……♪,"Fufu, nice reply…♪"
+1016001001210030,千雪,ふふ、いいお返事です……♪,"Fufu, nice reply...♪"
 1016001001210040,千雪,"そういうところって、意外と
 ちゃんと見られてますからね？","Surprised in such a place,
 But, you listened properly to what I said, right?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001001210050,千雪,"いえいえ～
 ……あ、ほら。ここ、糸が出ちゃってます","No, it's alright~ 
-Ah, there… there's a thread over there."
+Ah, there... there's a thread over there."
 1016001001210060,千雪,"すぐ直しちゃうので
 じっとしててくださいね……","I'll go get it and fix it right away,
-so please stay still…"
+so please stay still..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001001210070,千雪,"そうですか？
 ……すみません","Are you sure?
-Well then, excuse me…"
-1016001001210080,千雪,ちょっと、お節介だったかもしれませんね……,I'm sorry… I thought would've been helpful…
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+Well then, excuse me..."
+1016001001210080,千雪,ちょっと、お節介だったかもしれませんね……,I'm sorry... I thought would've been helpful...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100121.json,
 译者,,

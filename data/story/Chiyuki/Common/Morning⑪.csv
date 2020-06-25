@@ -3,12 +3,12 @@ id,name,text,trans
 あ、プロデューサーさん。おはようございます","Hmhm~♪
 Oh, Producer. Good morning."
 0000000000000,プロデューサー,"おはよう千雪……なんだ？
-ほうきとちり取りなんて持って","Good morning, Chiyuki… Hmm?
+ほうきとちり取りなんて持って","Good morning, Chiyuki... Hmm?
 Why are you carrying a broom and a dustpan?"
 1016001001110020,千雪,"いえ、お掃除をしてるだけです
 ほんと、ちょっとした場所だけですけど","Oh, I'm just cleaning the place.
 Since the production is very small, It's easier for me to manage around."
-0000000000000,プロデューサー,（そんなことをしてくれていたのか……）,(Since for how long was she doing this for…)
+0000000000000,プロデューサー,（そんなことをしてくれていたのか……）,(Since for how long was she doing this for...)
 select,,俺も手伝うよ,I'll help you along.
 select,,ありがとうな,Thank you a lot.
 select,,"仕事に差し支えない
@@ -21,7 +21,7 @@ a limit to it."
 Then, I'm glad I took charge of the cleaning first♪"
 1016001001110040,千雪,"集めたの、そっちに寄せますね……
 ……はい、おしまいです。ありがとうございました♪","I've collected them already in a disposable bag, I'll give it to you.
-Yes, that's it… Thank you very much♪"
+Yes, that's it... Thank you very much♪"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001001110050,千雪,"いえいえ、これでプロデューサーさんも
 気持ちよくお仕事できるなら……","No need to thank me, Producer.
@@ -29,9 +29,9 @@ If you can work comfortablely, that's what matters more to me."
 1016001001110060,千雪,ふふっ、私も嬉しいですから,"Fufu, I hope I can make you happy."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001001110070,千雪,"あ……すみません
-何かお役に立てればって思ったんですけど……","Ah, I'm sorry…
-I thought it'd be helpful and easier for you…"
-1016001001110080,千雪,私、ちょっと自覚が足りなかったですね……,I-I wasn't quite fully aware about that…
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+何かお役に立てればって思ったんですけど……","Ah, I'm sorry...
+I thought it'd be helpful and easier for you..."
+1016001001110080,千雪,私、ちょっと自覚が足りなかったですね……,I-I wasn't quite fully aware about that...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100111.json,
 译者,,
