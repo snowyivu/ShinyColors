@@ -16,7 +16,7 @@ ending.popReceiveProduceIdol.title,報酬受け取り,Receive Rewards
 ending.popReceiveProduceIdol.comment,以下の報酬を受け取りました,Received the rewards below
 trueEndTeachingEnding.receivePop.popTitle,True End研修達成,True End Training Complete
 trueEndTeachingEnding.receivePop.missionTitle,True End研修でTrue Endを達成しよう,Achieved a True End in True End Training
-trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,"Thanks for training~\r\nFor future Productions, let's do our\r\nbest, okay~?"
+trueEndTeachingEnding.receivePop.adviceText,研修お疲れさまでした〜\nこれからもプロデュース、がんばっていきましょう\nね〜,"Thanks for training～\r\nFor future Productions, let's do our\r\nbest, okay～?"
 trueEndTeachingEnding.receivePop.rewardDetailText,True End研修達成報酬SSRプロデュースアイドルです,True End Training Reward SSR Produce Idol
 errorDialog.trueEndTeachingDuplicate,進行中のTrue End研修があるので\n開始できませんでした。\n一度True End研修を終了してから始めてください。,Could not start because there is already\r\na True End training.\r\nPlease finish the current training.
 gasha.skinRateDescription,衣装,Outfit
@@ -31,7 +31,7 @@ gasha.skinReplacement.possessionLabel,所持数,Owned
 header.trueEndTeachingProduceIdolSelect,プロデュースアイドル選択,Produce Idol Selection
 header.trueEndReport,研修レポート,Training Report
 loginBonus.christmasClerkComment.greeting,プロデューサーさん、メリークリスマス！\rこちらは今日のログインボーナスですよ,"Producer, Merry Christmas!\r\n Here's today's Login Bonus!"
-loginBonus.christmasClerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best~"
+loginBonus.christmasClerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best～"
 loginBonus.christmasClerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
 produceMain.supportSkillsDialog.title,発動中スキル,Active Skill
 produceMain.supportSkillsDialog.noSkill,発動中のサポートスキルはありません,No active support skills
@@ -50,21 +50,21 @@ trueEndTeaching.objectivePopupHadukiHint.season3,目標をすべて達成した�
 trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得しましたか？,Did you learn Skills in Reminisce?
 trueEndTeaching.allObjectiveClearedText,目標全てクリア,All goals cleared
 trueEndTeaching.auditionTipsTitle,おすすめオーディション,Recommended Audition
-trueEndTeaching.auditionTipsHadukiHintText,流行にも注目です〜♪　今週がチャンスですよ〜,Keep an eye on the trend〜♪ This is your chance~
+trueEndTeaching.auditionTipsHadukiHintText,流行にも注目です〜♪　今週がチャンスですよ〜,Keep an eye on the trend〜♪ This is your chance～
 trueEndTeaching.openDialogTitle,初心者ミッションクリア,Beginner Mission Clear
 trueEndTeaching.openDialogDescription,True End研修はホーム画面からスタートすることができます,True End Training can be started from the Home screen
-trueEndTeaching.tipsText,おめでとうございます♪　すべての初心者ミッションをクリア\nしましたよ～　次はアイドルのTrue Endミッション達成を\n目標にしてみましょう,Congratulations♪　You've cleared the beginner\r\nmissions~ Next let's aim to beat\r\nTrue End Training!
+trueEndTeaching.tipsText,おめでとうございます♪　すべての初心者ミッションをクリア\nしましたよ～　次はアイドルのTrue Endミッション達成を\n目標にしてみましょう,Congratulations♪　You've cleared the beginner\r\nmissions～ Next let's aim to beat\r\nTrue End Training!
 trueEndTeachingTipsText.areaSelect.clearedTrueEnd,プロデューサーさん、お疲れ様です♪\n初心にかえって研修を受けてみませんか？,"Producer, good luck♪\r\nWhy not start training from the beginning?"
-trueEndTeachingTipsText.areaSelect.notClearedTrueEnd,プロデューサーさん、お疲れ様です♪\nお仕事には慣れてきましたか？\n難関ミッションの達成にはコツが必要なんですよ～,"Producer, good luck♪\r\nAre you getting used to the job?\r\nI have some tips for the difficult missions~"
+trueEndTeachingTipsText.areaSelect.notClearedTrueEnd,プロデューサーさん、お疲れ様です♪\nお仕事には慣れてきましたか？\n難関ミッションの達成にはコツが必要なんですよ～,"Producer, good luck♪\r\nAre you getting used to the job?\r\nI have some tips for the difficult missions～"
 trueEndTeachingTipsText.produceIdolSelect.text1,まずはプロデュースするアイドルを選択してください♪,Please select the idol to Produce first♪
 trueEndTeachingTipsText.produceIdolSelect.text2,プロデュースしたアイドルがTrue Endの条件を\n達成すると、ミッションクリアになります♪,If your idol achieves a True End\nThe mission will be cleared♪
-trueEndTeachingTipsText.deckEdit.text1,特別に%{name}さんのサポートに適したアイドルのみなさんに\nお手伝いしてもらいますね～,Everyone here is a useful support for\r\nhelping out %{name}~
-trueEndTeachingTipsText.deckEdit.text2,便利なアイテムを持ち込んで\nプロデュースに役立ててくださいね～\n今回は特別に2つのアイテムをプレゼントします♪,"I've brought useful items,\nso please use them during Produce~\nThe two special items this time are a present♪"
-trueEndTeachingTipsText.trend,流行1位と得意ジャンルが一致していないようですね～\nそんな時は『流行雑誌』を使ってみましょう,It seems the top trend doesn't match your specialty~\r\nSo let's use the『Trend Magazine』!
+trueEndTeachingTipsText.deckEdit.text1,特別に%{name}さんのサポートに適したアイドルのみなさんに\nお手伝いしてもらいますね～,Everyone here is a useful support for\r\nhelping out %{name}～
+trueEndTeachingTipsText.deckEdit.text2,便利なアイテムを持ち込んで\nプロデュースに役立ててくださいね～\n今回は特別に2つのアイテムをプレゼントします♪,"I've brought useful items,\nso please use them during Produce～\nThe two special items this time are a present♪"
+trueEndTeachingTipsText.trend,流行1位と得意ジャンルが一致していないようですね～\nそんな時は『流行雑誌』を使ってみましょう,It seems the top trend doesn't match your specialty～\r\nSo let's use the『Trend Magazine』!
 trueEndTeachingTipsText.skillBoard,おすすめのスキルをご紹介しますね～\n強力なスキルを優先して習得することが\nTrue Endへの近道ですよ♪,Here's some recommended skills～\nPrioritizing strong skills is the\r\nshortcut to True Ends♪
 twitter.postDialog.staticComment.gashaResultSkin,限定衣装%{idolName}を獲得したよ！とっても素敵な衣装！,You got {%idolName}'s limited outfit! What a nice outfit!
 mypageCommunication.producerComment,さて、仕事も一段落したし、\n少し休憩しようかな──……,"Well, since work has settled down,\r\nI'll take a quick break..."
-mypageCommunication.idolComment,だ〜れだ？,Who~ is it?
+mypageCommunication.idolComment,だ〜れだ？,Who～ is it?
 gasha.popTicketDesc.ticketName,%{ticketName}を,%{ticketName}
 gasha.popTicketDesc.quantity,消費してガシャを%{quantity}回引きます。\rよろしいですか？,Consumes and pulls %{quantity} times。\r\nIs this okay?
 extraCampaign.result.idConfirmationDialog.notices.1,このコードは当選者を識別するためのコードなので\r第三者に知られないようにしてください,This code is used to identify the winning candidate. \r\nPlease do not give it out to a third party. 
@@ -214,7 +214,7 @@ copyright.holders.bne.message,© 2018 BANDAI NAMCO Entertainment Inc.,© 2018 BA
 countdown.season,シーズン%{seasonNum}終了まで,Season %{seasonNum} Ends In
 userDailyLottery.rewardPop.title,まいにちくじ抽選結果,Daily Lotto Results
 userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box.
-userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,You'll receive %{num} presents every day♪\r\nPlease look forward to the lotto results~
+userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,You'll receive %{num} presents every day♪\r\nPlease look forward to the lotto results～
 deck.autoSelectDialog.title,おまかせ編成,Recommended Setup
 deck.autoSelectDialog.noUserIdol,おまかせ編成を使用するには\nプロデュースアイドルを設定してください,Please select a Produce Idol\nto use the Recommended Setup feature
 deck.autoSelectDialog.description,設定中のプロデュースアイドルによって編成内容を判別します\n編成の方針を選択してください,This will recommend a team based on your chosen Produce Idol\nPlease choose the settings to use for recommendation
@@ -303,8 +303,8 @@ exchangeItem.businessMotivationItem.original,差し入れアイテム,Handmade G
 exchangeItem.businessMotivationItem.simple,差し入れアイテム,Handmade Goods 
 gameEventPoint,イベントpt,Event Pt
 idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah, Producer, you came to meet the idols. "
-idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,Everyone's been waiting for you Producer~
-idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,Raising idols is an important part of being a Producer~
+idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,Everyone's been waiting for you Producer～
+idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,Raising idols is an important part of being a Producer～
 idolPortal.staffComment4,トレーニングでアイドルを成長させましょう,Let's strengthen your idols with training!
 idolPortal.staffComment5,特訓でアイドル達の力をさらに引き出してあげましょう,Let's evolve your idols and draw out their power!
 idolPortal.staffComment6,プロデューサーさんの現在の担当アイドルはこちらで確認できます,You can check out your current idols here.
@@ -479,7 +479,7 @@ gasha.expireAt,使用期限：%{datetimeText},Expires：%{datetimeText}
 gasha.stamp.nextPickUp,あと%{stampNumForNextPickUp}回で%{pickUpName}獲得！,Get a %{pickUpName} after %{stampNumForNextPickUp} more stamps!
 gasha.stamp.popReward.title,スタンプカード報酬,Stamp Card Reward
 gasha.stamp.popReward.text,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box
-gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,Once the stamp card is filled rewards will repeat the 1~%{boardNum} pages
+gasha.stamp.notice,スタンプカードが最後まで埋まった後は1枚目～%{boardNum}枚目の内容を繰り返します,Once the stamp card is filled rewards will repeat the 1～%{boardNum} pages
 gasha.freeGift.popReward.title,おまけ,Bonus
 gasha.stepupRemainingHours,残り%{hours}時間,%{hours} hours left
 gasha.stepupRemainingMinutes,残り%{minutes}分,%{minutes} min left
@@ -589,7 +589,7 @@ judgeTrend.bonusValue,★%{value}倍,★%{value}x
 landscapeDialog.title,画面の向きについて,Screen Orientation
 landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,Please enjoy the game in Landscape\r\norientation.
 loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer, this is today's login bonus!"
-loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow, so do your best~"
+loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow, so do your best～"
 loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
 loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,I'm currently out. I'll leave the login bonus here.
 loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,Please don't forget to check the login bonus for tomorrow too.
@@ -779,7 +779,7 @@ produceItemPreparation.filterTitle,絞り込み,Refine
 produceItemPreparation.sortTitle,並び替え,Organize
 produceItemPreparation.description.unselected,アイテムを選択していません,No items selected
 produceItemPreparation.itemList.empty,プロデュースアイテムを所持していません,You don't own a Produce Item
-produceItemPreparation.itemList.tips,プロデュースアイテムは、\r2つまで持っていくことができますよ〜,You are able to bring\r\nUp to 2 Produce Items~
+produceItemPreparation.itemList.tips,プロデュースアイテムは、\r2つまで持っていくことができますよ〜,You are able to bring\r\nUp to 2 Produce Items～
 produceItemPreparation.isNotRestricted,なし,Nothing
 produceItemPreparation.isAreaRestricted,このアイテムは選択したプロデュースに\n持ち込むことができません,This item can't be brought to\r\nthe selected Production area
 produceItemPreparation.sameEffectType,同じ効果のプロデュースアイテムを複数持ち込む\rことはできません,"You cannot bring more than one
@@ -1345,14 +1345,14 @@ reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記�
 reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
 reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
 staffAssistEvent.eventDetailTitle,はづきさんアシスト中,Hazuki Assist
-staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,"Producer, how are you~?"
-staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving me homemade goods~?"
-staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,Thank you very much♪\r\nIs it okay if I look inside~?
-staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,"Is it a strawberry daifuku~,it looks really delicious♪\r\nWould you like to brew some tea,and join me~?"
-staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding~? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator~
-staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,"Is it chocolate~,they say that it's good for fatigue♪\r\nI'm going to eat it right away~"
-staffAssistEvent.workHard,頑張っちゃいますよ～♪,Do your best~♪
-staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break~...
+staffAssistEvent.greet,プロデューサーさん、どうかしましたか～？,"Producer, how are you～?"
+staffAssistEvent.receivePresent,えっ、私に差し入れですか～？,"Huh, are you giving me homemade goods～?"
+staffAssistEvent.openPresent,ありがとうございます♪\n中身を見てもいいですか～？,Thank you very much♪\r\nIs it okay if I look inside～?
+staffAssistEvent.present.daifuku,いちご大福ですか～、とっても美味しそうです♪\nお茶を淹れるので、ご一緒しませんか～？,"Is it a strawberry daifuku～,it looks really delicious♪\r\nWould you like to brew some tea,and join me～?"
+staffAssistEvent.present.pudding,プリンですか～、とっても楽しみです♪\n冷蔵庫で冷やしてからいただきますね～,Pudding～? I'm really looking forward to it♪\r\nLet's please cool it down in the refrigerator～
+staffAssistEvent.present.chocolate,チョコレートですか～、疲れに良いって言いますもんね♪\n早速いただいちゃいますね～,"Is it chocolate～,they say that it's good for fatigue♪\r\nI'm going to eat it right away～"
+staffAssistEvent.workHard,頑張っちゃいますよ～♪,Do your best～♪
+staffAssistEvent.rest,少し休憩してきますね～……,I'm going to take a break～...
 shop.applyCampaignConfirmation.notices.1,購入前に必ず応募規約をお読みください,Please read the entry agreement before purchasing.
 shop.applyCampaignConfirmation.notices.2,購入時に応募規約に同意したものとみなします,You agree to the terms and conditions at the time of purchase.
 shop.applyCampaignConfirmation.title,購入確認,Purchase Confirmation
@@ -1368,7 +1368,7 @@ training.successType.great,大成功,Great Success
 training.successType.super,超成功,ULTRA Success
 training.trainingTicketReturn.message,%{type}ボーナスの余剰Exp分を\rブロンズトレーニングチケットに変換して\rプレゼントに送りました,Excess Exp from %{type}\rhas been converted to Bronze Tickets\rand sent to Present Box
 training.trainingTicketReturn.title,トレーニングキャンペーン,Training Campaign
-beginnerMission.staffComment,初心者ミッションを進めて報酬を受け取ってくださいね〜,Please keep doing beginner missions to get your rewards~
+beginnerMission.staffComment,初心者ミッションを進めて報酬を受け取ってくださいね〜,Please keep doing beginner missions to get your rewards～
 beginnerMission.selectIdolPopTitle,初心者ミッションを始めるプロデュースアイドルを選択します,Select a Produce idol to move on with beginner missions.
 beginnerMission.groupLabel.label.1,好きなアイドルを育てよう,Raise your favorite Idol
 beginnerMission.groupLabel.label.2,1人目のサポートアイドルを育てよう,Raise 1 Support Idol
@@ -1510,7 +1510,7 @@ tutorial.dialog.idolChoice.title,プロデュースアイドル確認,Confirm Id
 tutorial.dialog.idolChoice.message,%{name}で\nチュートリアルを開始しますか？,Start the tutorial with\n%{name}?
 tutorial.dialog.deckEdit.title,確認,Confirm
 tutorial.dialog.deckEdit.message,編成のチュートリアルを見ますか？,View the Team Setup Tutorial?
-tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,First please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol~
+tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,First please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol～
 tutorial.unitDescription.1,小さな光を宿す少女たちで結成された、新世代のアイドルユニット。\n今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、\n一等星を目指して歩んでいく！,"A new-generation unit of young girls who harbor a tiny light.\nThough it's faint, they'll continue struggling onward while\nsupporting each other to become shooting stars!"
 tutorial.unitDescription.2,胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、\n新世界の革命的アイドルユニット。\nゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。,"A revolutionary unit of the New World: their heart's smoldering\nflames made Song, solitude in their tears made Prayer.\nClad in Gothic dress, they sing on for Hope."
 tutorial.unitDescription.3,個性と個性がぶつかり合う全力系アイドルユニット。\n全身全霊でアイドル道を突き進む彼女達の姿こそ、クライマックスの証。\nファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す！！,"A full-power unit where unique personalities collide. Each of them\nplunges forward with complete devotion on the path of an idol,\nbearing the emblem of 'Climax'.\nThese idols will engulf the world as they aim for the very top!!"
@@ -1551,7 +1551,7 @@ producerBirthday.homeDialog.description,アイドルからのメッセージが�
 producerBirthday.homeDialog.notification,誕生日のメッセージコミュを再生します,Play Birthday Message
 producerBirthday.homeDialog.notificationSecondLine,本日中はホーム画面のバナーから遷移することができます,You can view from the Home Screen today
 producerBirthday.title,プロデューサー誕生日,Producer's Birthday
-producerBirthday.staffComment,お誕生日おめでとうございます♪\nみなさんからお祝いがあるそうですよ～,Happy Birthday♪\nThere are congratulations from everyone~
+producerBirthday.staffComment,お誕生日おめでとうございます♪\nみなさんからお祝いがあるそうですよ～,Happy Birthday♪\nThere are congratulations from everyone～
 producerBirthday.confirmDialog.title,確認,Confirm
 producerBirthday.confirmDialog.description,%{name} に会いに行きますか？,Meet with %{name}?
 producerBirthday.confirmDialog.notification,誕生日のメッセージコミュを再生します,Watch Birthday Message

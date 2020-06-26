@@ -1,11 +1,11 @@
 id,name,text,trans
 1023001000210010,雛菜,"プロデューサー
 おはようございます～♡","Producer,
-good morning~♡"
+good morning～♡"
 0000000000000,プロデューサー,"おはよう！
 あれ……雛菜、今日学校の日じゃ……？","Good morning!
 Huh... Hinana, wasn't today a school day...?"
-1023001000210020,雛菜,あは～、そうだったかも～？,"Aha, maybe it was~?"
+1023001000210020,雛菜,あは～、そうだったかも～？,"Aha, maybe it was～?"
 0000000000000,プロデューサー,"だめじゃないか……！
 ほら、今からでも向かってくれ！","This is bad...!
 Come on, get going already!"
@@ -15,21 +15,21 @@ at school, too"
 select,,いってらっしゃい,Have a safe trip
 select,,急ぐんだ！,Hurry up!
 1023001000210030,雛菜,"あは～、仕方ないから
-楽しんできます～","Aha, it can't be helped~!
-I'll go and have fun~"
+楽しんできます～","Aha, it can't be helped～!
+I'll go and have fun～"
 1023001000210040,雛菜,"今日あった楽しいこと
 あとで全部聞いてね～？","Later, I'll tell you all about
-all the fun things that happened today, 'kay~?"
+all the fun things that happened today, 'kay～?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1023001000210050,雛菜,"ん～……
-じゃあ、いってきます～","Mn~...
-Then, I'll be going~"
-1023001000210060,雛菜,帰り、また寄るからね～？,"On my way back, I'll drop by again, 'kay~?"
+じゃあ、いってきます～","Mn～...
+Then, I'll be going～"
+1023001000210060,雛菜,帰り、また寄るからね～？,"On my way back, I'll drop by again, 'kay～?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1023001000210070,雛菜,え～……,Eh~...
+1023001000210070,雛菜,え～……,Eh～...
 1023001000210080,雛菜,"雛菜が遅いんじゃなくて
 １限が早いだけなのに～……","Even if Hinana isn't late,
-the first period is just too early~..."
+the first period is just too early～..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102300100021.json,
 译者,,

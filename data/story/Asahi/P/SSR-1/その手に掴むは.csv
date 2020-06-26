@@ -23,7 +23,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"おぉ、本当だ
 都内にクワガタなんて、珍しいな","Woah, you weren't kidding. It's strange seeing a stag beetle in the middle of the city. "
 2017004030130,あさひ,あ！　また飛んでった！,Oh! It's flyin' again!
-2017004030140,あさひ,待て～！,Wait up~!
+2017004030140,あさひ,待て～！,Wait up～!
 0000000000000,プロデューサー,あ！　あさひ！　待ってくれ──,Hey! Asahi! Don't run off──
 2017004030150,あさひ,えいっ！　……それっ！,Yes! ...C'mere!
 2017004030160,あさひ,うーん……全然届かない……,Awww... I can't reach it...
@@ -33,7 +33,7 @@ id,name,text,trans
 Asahi, where is the beetle..."
 0000000000000,プロデューサー,……あー、結構高いところにいるな,"...Oh, it landed pretty high up."
 2017004030170,あさひ,そうなんすよ！　……えいっ！,Yeah! ...C'mere!
-2017004030180,あさひ,やっぱり全然届かないっす～,Even if I jump I still can't reach it~!
+2017004030180,あさひ,やっぱり全然届かないっす～,Even if I jump I still can't reach it～!
 0000000000000,プロデューサー,どれ……よっと……俺が手を伸ばしてもダメか……,Let's see... Uh-oh... It's too high for me to reach too.
 2017004030190,あさひ,プロデューサーさんでも無理っすか～,"Even you can't, huh? "
 2017004030200,あさひ,うーん……,Hmmm...
@@ -43,7 +43,7 @@ Asahi, where is the beetle..."
 2017004030230,あさひ,平気っす！　ちょうどとがってない部分だったんで,I'm fine! It's pincers ain't that sharp.
 0000000000000,プロデューサー,……確かに血は出てない……,"...Well, you aren't bleeding..."
 0000000000000,プロデューサー,けど、少し赤くなってるから、事務所で手当てしよう,"But it looks a bit red. We'll treat it when we get back to the office. "
-2017004030240,あさひ,え～、痛くないし大丈夫っすよ～,But why? It doesn't even hurt~!
+2017004030240,あさひ,え～、痛くないし大丈夫っすよ～,But why? It doesn't even hurt～!
 0000000000000,あさひ,それより、ほら、このクワガタ、かなり大きいっす！,"Anyway, doesn't this stag beetle seem extra big?"
 2017004030250,あさひ,"けど、どうしてこんなとこにいたのかな……
 種類は……","I wonder what it was doin' in the city...
@@ -57,7 +57,7 @@ And what species is it..."
 とりあえず行こうな",That's great. But it's about time we start heading back.
 0000000000000,プロデューサー,調べるのは終わりにして……,So why don't you wrap up the research...
 2017004030290,あさひ,"あ、でも表面は思ってたより固いっすね～
-とげだけ触ったら──","Ooo, it's shell is a lot harder than you'd think~!
+とげだけ触ったら──","Ooo, it's shell is a lot harder than you'd think～!
 OK, time to try touchin' it's horn──"
 info,produce_events/201700403.json,
 译者,,

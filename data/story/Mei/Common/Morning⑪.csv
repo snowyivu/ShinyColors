@@ -2,7 +2,7 @@ id,name,text,trans
 1019001001110010,愛依,プロデューサー、今日仕事の後って空いてる～？,"Producer, are you free after work today?"
 0000000000000,プロデューサー,"ああ、空いてるけど
 どうした？","Ah, I'm free but, why do you ask?"
-1019001001110020,愛依,ちょっとお願いがあってさ～,I have a small request~
+1019001001110020,愛依,ちょっとお願いがあってさ～,I have a small request～
 0000000000000,プロデューサー,もしかして,It's probably...
 select,,自主練したいのか,"Want to do some
 independant study?"
@@ -10,13 +10,13 @@ select,,息抜きか,"Wanna take
 a breather?"
 select,,課題の手伝いか,Help with homework?
 1019001001110030,愛依,"当ったり～！
-さっすが～！",Obviously! As you'd expect~!
+さっすが～！",Obviously! As you'd expect～!
 1019001001110040,愛依,"なんかプロデューサーに見てもらえんの
-楽しみってカンジ～♪",I'll have you watch some. This'll be fun~♪
+楽しみってカンジ～♪",I'll have you watch some. This'll be fun～♪
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 0000000000000,,★選択肢②【息抜きか】,★選択肢②【息抜きか】
 1019001001110050,愛依,"まぁね～
-たまにはいいじゃん？","Ahh, well~ It's good to take one every once in a while,
+たまにはいいじゃん？","Ahh, well～ It's good to take one every once in a while,
 right?"
 1019001001110060,愛依,"気になる場所あっからさ
 ちょびっと付き合ってよ","There's somewhere I wanna go, so, let's go out for a

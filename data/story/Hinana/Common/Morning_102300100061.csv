@@ -1,11 +1,11 @@
 id,name,text,trans
 1023001000610010,雛菜,"プロデューサー、
 この間本屋さんでね～","Producer,
-the other day at the book store, you see~"
+the other day at the book store, you see～"
 1023001000610020,雛菜,"幸せになるための方法？
 みたいな本が売ってたんだけど……","""How to become happy"",
 they were selling books with that kind of names..."
-1023001000610030,雛菜,どう思う～～～？,What do you think~?
+1023001000610030,雛菜,どう思う～～～？,What do you think～?
 0000000000000,プロデューサー,え……そ、そうだな……,"Eh... A-ah, right..."
 select,,"雛菜も
 書けそうだな","Hinana could
@@ -17,21 +17,21 @@ for that stuff"
 select,,"それ、
 買ったのか？","Did you
 buy them?"
-1023001000610040,雛菜,あは～、そうだよね～？,"Aha~, do you think so too~?"
+1023001000610040,雛菜,あは～、そうだよね～？,"Aha～, do you think so too～?"
 1023001000610050,雛菜,"雛菜がしあわせ～って思うこと
-みんなに教えてあげたいね～",I'd love to teach everyone all about Hinana's happiness~
+みんなに教えてあげたいね～",I'd love to teach everyone all about Hinana's happiness～
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
-1023001000610060,雛菜,ん～、そっか～～～,"Mn~, I see~"
+1023001000610060,雛菜,ん～、そっか～～～,"Mn～, I see～"
 1023001000610070,雛菜,"やっぱりみんな
 しあわせになりたいんだな～","After all,
-everyone wants to be happy, right~?"
+everyone wants to be happy, right～?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1023001000610080,雛菜,"へ～～～？
-買ってないよ～","Eh~?
-I didn't buy any~"
+買ってないよ～","Eh～?
+I didn't buy any～"
 1023001000610090,雛菜,"もうしあわせだもん
 雛菜には必要ないかな～","Hinana is already happy,
-so she doesn't need something like that~"
+so she doesn't need something like that～"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102300100061.json,
 译者,,

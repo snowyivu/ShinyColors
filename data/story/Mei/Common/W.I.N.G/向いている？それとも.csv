@@ -1,15 +1,15 @@
 id,name,text,trans
-1019001020010,愛依,プロデューサー、おっはよ～,"Producer, good morning~"
+1019001020010,愛依,プロデューサー、おっはよ～,"Producer, good morning～"
 0000000000000,プロデューサー,"おはよう、愛依
 さっそく今日の予定を話していいか？","Good morning, Mei.
 Should we go ahead and talk about today's schedule?"
-1019001020020,愛依,オッケーオッケー、どんなカンジ～？,"Okay okay, how's it looking~?"
+1019001020020,愛依,オッケーオッケー、どんなカンジ～？,"Okay okay, how's it looking～?"
 0000000000000,プロデューサー,今日は基本的なレッスンをひと通り体験してもらおうと思う,"Today, I thought I'd try to get you through the basic lessons."
 0000000000000,プロデューサー,"スカウトの時、アイドルのこと全然知らなそうだったろ？
 手始めにな","When I first scouted you, it seemed like you didn't know anything about idols, right?"
 1019001020030,愛依,"え～やるじゃんプロデューサー！
-うちに合わせてくれたんだ～♪","Eh~ nice catch, Producer!
-You're totally in sync with me~♪"
+うちに合わせてくれたんだ～♪","Eh～ nice catch, Producer!
+You're totally in sync with me～♪"
 0000000000000,プロデューサー,"はは、これがプロデューサーの仕事だからな
 じゃ、レッスン場に移動しよう","Haha, that's my job after all.
 So, let's go to the lesson."
@@ -20,7 +20,7 @@ Like you said, this is my first time."
 ひとつ聞きたいんだが、もしかして何か習ってたか？","Good job, Mei. I'd like to ask, is it possible you've been trained in something before?"
 1019001020050,愛依,"あ、わかる？　
 うち近所のばーちゃんにシュージ習ってた系～","Ah, you know? Calligraphy lessons
-from a grandma in my neighbourhood~"
+from a grandma in my neighbourhood～"
 0000000000000,プロデューサー,"いやすまん、そうじゃなくて……
 歌とか……ダンスとか","Sorry, I didn't mean like that...
 I meant something like singing... or dancing."
@@ -55,7 +55,7 @@ Is that girl shadowing..?"
 and the main perfomance, would you like to go on stage?"
 0000000000000,プロデューサー,ありがとうございます！　是非よろしくお願いします！,Thanks so much! We absolutely appreciate it!
 0000000000000,プロデューサー,愛依、せっかくだし、行こうか,"Mei, it's a good chance, shall we go?"
-1019001020130,愛依,行く行く～,"Let's go, let's go~"
+1019001020130,愛依,行く行く～,"Let's go, let's go～"
 1019001020140,愛依,……す、すご……,...A-Awesome...
 0000000000000,プロデューサー,ステージの上からの景色は随分違ってみえるだろう,The view from up here on the stage is quite different.
 1019001020150,愛依,あ、そ、そだね……,"Ah, y-you're right..."
@@ -82,18 +82,18 @@ weakness?"
 1019001020210,愛依,サンキュ、プロデューサー、ヨロシクね！,"Thanks, Producer, I'll be in your care!"
 0000000000000,プロデューサー,"ステージに立つ経験なんてなかなかないからな
 最初から堂々としていられる子なんてそうそういないぞ",It's because you don't have any experience on stage yet. Not many girls can be confident from the start.
-1019001020220,愛依,だ、だよね～,"R, Right~..."
+1019001020220,愛依,だ、だよね～,"R, Right～..."
 0000000000000,プロデューサー,だんだんと慣れていけばいいさ,It's okay to gradually get used to it.
 1019001020230,愛依,サンキュ、うち、頑張っちゃうから,"Thanks, then I'll try to do my best."
 0000000000000,プロデューサー,はは、頼もしいな,"Haha, you are quite reliable."
-1019001020240,愛依,すぐに乗り越えちゃうから、見といてよね～！,"I'll get over it right away, just watch me~!"
-1019001020250,愛依,かもしんないわ～,That could be~
+1019001020240,愛依,すぐに乗り越えちゃうから、見といてよね～！,"I'll get over it right away, just watch me～!"
+1019001020250,愛依,かもしんないわ～,That could be～
 1019001020260,愛依,"あっ！　なんかさ、パパっとリラックスできちゃう
 裏技とかあったりしない？",Ah! Do you maybe know of any tricks to quickly relax?
 1019001020270,愛依,こういう時、使えたりすんじゃん？,Something I could use when I get like this?
 0000000000000,プロデューサー,なんだかんだで深呼吸が一番いいと思うぞ,In my opinion the best method in general is deep breathing.
-1019001020280,愛依,やっぱし～？,In general~?
+1019001020280,愛依,やっぱし～？,In general～?
 0000000000000,プロデューサー,けど、正しいやり方はあるからな、教えるよ,"But I know a lot more tricks, I'll teach you some."
-1019001020290,愛依,マジで～？　ちょー助かる～,Seriously~? That's such a big help~
+1019001020290,愛依,マジで～？　ちょー助かる～,Seriously～? That's such a big help～
 info,produce_events/101900102.json,
 译者,,
