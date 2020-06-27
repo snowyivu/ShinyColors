@@ -3,7 +3,7 @@ id,name,text,trans
 ここで勉強、やらしてよ！","Hey, Producer, I'm gonna study here, alright?"
 0000000000000,プロデューサー,？　ああ、大丈夫だぞ,"Oh? Ah, that's fine."
 2019003010020,愛依,"マジ！？　助かったー……
-サンキュ、プロデューサー","Really!? I'm saved... Thank you, Producer"
+サンキュ、プロデューサー","Really!? I'm saved... Thank you, Producer."
 2019003010030,愛依,"……よっしゃ～！
 じゃあ、さっそくやってくし！","...Alright! Then, I'll do it right away!"
 2019003010040,愛依,…………,......
@@ -13,7 +13,9 @@ id,name,text,trans
 誰からだろ…………プッ！","...Oh, a notification～ From who... Nheh!"
 2019003010070,愛依,アハハ、マジウケる～,"Ahaha, that's totally hilarious～"
 0000000000000,プロデューサー,"（あれ？　愛依、勉強してたんじゃないのか？
-さっそくスマホをいじってるみたいだけど……）","(Huh? Mei, aren't you studying? It's like you immediately started messing with your phone though...)"
+さっそくスマホをいじってるみたいだけど……）","(Huh? Mei, aren't you studying? It's like you
+immediately started messing with your phone
+though...)"
 0000000000000,プロデューサー,"（まあ、今だけかもしれないし、
 ちょっと様子を見ておこう……）","(Well, maybe it's just for now, I'll keep watching...)"
 2019003010080,愛依,"……って、ヤバいヤバい
@@ -35,17 +37,21 @@ Don't wear yourself out, okay?"
 2019003010130,愛依,"そうなんだけどさ～
 この状況は、うちのせいっていうか……","That's true～ This whole situation, is my fault..."
 0000000000000,プロデューサー,"少し溜めちゃっただけだろう？
-そんなに気を落とさなくても──",You let it pile up a little? You don't have to be discouraged──
+そんなに気を落とさなくても──","You let it pile up a little? You don't have to be
+discouraged──"
 2019003010140,愛依,"──実は、これ
-テストの補習で出された課題なんだよね～……","The truth is, these are supplemental lessons given out for the test～"
+テストの補習で出された課題なんだよね～……","The truth is, these are supplemental lessons given
+out for the test～"
 0000000000000,プロデューサー,……そうだったのか……,...Is that so?
 0000000000000,プロデューサー,……いつまでにやらなくちゃいけないんだ？,How much longer do you have until the test?
 2019003010150,愛依,……週明け,...The start of next week.
 0000000000000,プロデューサー,週明けって……今日、金曜日だぞ？,"The start of next week... Today is Friday, isn't it?"
 2019003010160,愛依,"わかってるって～
-でも、つい後回しにしたり、友達と遊んじゃったから……","I know～ But, I like unintentionally put it off, and played with my friends..."
+でも、つい後回しにしたり、友達と遊んじゃったから……","I know～ But, I like unintentionally put it off, and
+played with my friends..."
 2019003010170,愛依,"これはヤバい！　って思って
-事務所でやってみようと思ったんだけどさ～……","Ah this is wild! I think I thought I could do it at the office, but..."
+事務所でやってみようと思ったんだけどさ～……","Ah this is wild! I think I thought I could do it at the
+office, but..."
 0000000000000,プロデューサー,なるほどな……,I see...
 select,,"わからない問題は
 どれなんだ？","What's the problem
@@ -68,15 +74,16 @@ technique."
 おぉ、マジだ！","...! Oooh, really!?"
 2019003010210,愛依,よっし、じゃあ次の問題は？,"Right on, okay then, next problem?"
 0000000000000,プロデューサー,"それは確か……
-あぁ、前のページの例を参考に解くんだ","If I remember correctly... Ahh, you can use the example on the previous page to solve it."
+あぁ、前のページの例を参考に解くんだ","If I remember correctly... Ahh, you can use the
+example on the previous page to solve it."
 2019003010220,愛依,……なるほど～……！,I see!
 2019003010230,愛依,"マジサンキュ、プロデューサー！
 これならいけそうな気がする！","Like seriously thank you, Producer!
 I feel like I can do this!"
 2019003010240,愛依,"えっ！？
 な、なんで……？",Ehh!? W-What for...?
-0000000000000,プロデューサー,スマホがあると集中できないだろうからな,"If you have your phone out you won't be able to focus,
-right?"
+0000000000000,プロデューサー,スマホがあると集中できないだろうからな,"If you have your phone out you won't be able to
+focus, right?"
 2019003010250,愛依,そ、そうかもしんないけど……でもさ～……！,T-That might be the case but... but uh...!
 0000000000000,プロデューサー,"……愛依
 俺だって本当はこんなことしたくないんだ","...Mei, I don't really want to do such a thing either."
@@ -88,7 +95,8 @@ demon's...!"
 うち、このままじゃマズいもんね……",Uuh... it's true. I-I'm doomed at this rate...
 2019003010270,愛依,"わかった！　プロデューサー
 お願い、これ預かっといて！","Got it! Producer, please take care of it!"
-0000000000000,プロデューサー,よし！　わかった、確かに預かったからな,"Alright! I understand, I'll have someone take care of it."
+0000000000000,プロデューサー,よし！　わかった、確かに預かったからな,"Alright! I understand, I'll have someone take care of
+it."
 2019003010280,愛依,よっし、今度こそ集中するぞ～,"Awright, now I can definitely concentrate!"
 2019003010290,愛依,う、うん……,Y-Yeah...
 0000000000000,プロデューサー,あと何ページくらいあるんだ？,About how many more pages are there?

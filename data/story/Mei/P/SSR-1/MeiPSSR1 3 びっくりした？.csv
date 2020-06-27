@@ -36,11 +36,13 @@ don't you think I wouldn't be surprised by that?"
 2019004030120,愛依,"……あ、じゃあさ！
 それ、文化祭に来て証明してみてよ！","Oh, well! Then, prove it by coming to the festival!"
 2019004030130,愛依,"うち、本番でもプロデューサーのこと
-絶対驚かしてみせるし！","Even if it's in the haunted house, I'll definitely spook you!"
+絶対驚かしてみせるし！","Even if it's in the haunted house, I'll definitely spook
+you!"
 0,プロデューサー,よし！　いいだろう！　望むところだ,"Alright! Sounds good! I hope you do. "
 2019004030140,愛依,"勝負勝負～♪
-んじゃ、文化祭来んの、約束ね！","You're on～♪ Then, you're coming to the festival, it's a promise!"
-0,プロデューサー,ああ,Well.
+んじゃ、文化祭来んの、約束ね！","You're on～♪ Then, you're coming to the festival, it's
+a promise!"
+0,プロデューサー,ああ,Well...
 select,,"愛依は怖いの
 平気なのか？","Mei aren't you
 easily frightened?"
@@ -54,13 +56,15 @@ very important."
 それ、聞いちゃう？",Ah... Is that what you heard?
 0,プロデューサー,ってことは、あんまり得意じゃないのか,"Which means, this isn't your forte right?"
 2019004030160,愛依,"そうなの～……けど、 
-やっぱクラスのみんなと盛り上がりたいじゃん？","That's true... but, I wanted to get hyped with my class y'know?"
+やっぱクラスのみんなと盛り上がりたいじゃん？","That's true... but, I wanted to get hyped with my
+class y'know?"
 2019004030170,愛依,"文化祭は昼だし……
 うちは驚かせる側だし！　いけるかなって！","Since the festival is in the middle of the day...
 And I'm on the spooking side! I can totally do it!"
 0,プロデューサー,そうか……,I see...
 2019004030180,愛依,"そうそう！　そんで、
-絶対プロデューサーのこと驚かせるから！","Yeah yeah! And that's why, I'm definitely going to scare you Producer!"
+絶対プロデューサーのこと驚かせるから！","Yeah yeah! And that's why, I'm definitely going to
+scare you Producer!"
 0,プロデューサー,"ああ、楽しみにしてるよ
 ──あ、でも……","Yeah, I'm looking forward to it. Ah, but..."
 0,プロデューサー,"俺が学生の頃、お化け屋敷やったクラスで
@@ -72,7 +76,8 @@ coming from──"
 I don't want to hear thiiiissss!!!!"
 2019004030200,愛依,ゾンビ～！,A zombie!
 0,プロデューサー,"ゾンビか……愛依
-さっきのもう一回やってみてくれるか？","A zombie... Mei, can you show me what you just did one more time?"
+さっきのもう一回やってみてくれるか？","A zombie... Mei, can you show me what you just did
+one more time?"
 2019004030210,愛依,え？　いいけど？,Eh? It's okay to?
 2019004030220,愛依,……わっ！！！！,...Wahh!!!!
 0,プロデューサー,"うーん……
@@ -90,9 +95,11 @@ If you know you should teach me～♪"
 2019004030250,愛依,『うぅ～』……,"""Uuh～""..."
 2019004030251,,こんなカンジ？,Like that?
 0,プロデューサー,"おぉ、いい感じだぞ！
-それならすぐにできるようになりそうだな","Ooh, that was great! You were able to do it like that right away, huh? "
+それならすぐにできるようになりそうだな","Ooh, that was great! You were able to do it like that
+right away, huh? "
 2019004030260,愛依,"マジで！？　じゃあ今日一日
-ずっとそういうカンジで話すわ、覚えたいし！","Really!? Then all day today, I'm going to talk like that so I don't forget how!"
+ずっとそういうカンジで話すわ、覚えたいし！","Really!? Then all day today, I'm going to talk like that
+so I don't forget how!"
 0,プロデューサー,……仕事の後でやろうな,"...let's do that after work. "
 0,プロデューサー,道具とか衣装とか、作る物も多いだろうし,"You need props and costumes, there's a lot of stuff
 for you to make after all. "
@@ -110,7 +117,8 @@ that time to enjoy yourself."
 2019004030290,愛依,"……サンキュ！
 さっすがプロデューサー！",...thank you! That's my Producer!
 2019004030300,愛依,"よーし！　調整してくれる分
-めっちゃくちゃ驚かせちゃうぞ♪","Alright! With that adjustment, you're going to be extremely spooked♪"
+めっちゃくちゃ驚かせちゃうぞ♪","Alright! With that adjustment, you're going to be
+extremely spooked♪"
 0,プロデューサー,はは、お手柔らかに頼む,"Haha, please take it easy on me. "
 info,produce_events/201900403.json,
 译者,,

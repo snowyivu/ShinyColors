@@ -9,9 +9,11 @@ id,name,text,trans
 2019003110030,愛依,"プロデューサーのおかげじゃん！
 マジサンキュね！","It's all thanks to you, Producer! Seriously, thank you!"
 0000000000000,プロデューサー,"俺はちょっと手を貸しただけで
-本当に頑張ったのは愛依の方だよ","I only helped out a little though. Honestly, it's thanks to your hard work."
+本当に頑張ったのは愛依の方だよ","I only helped out a little though. Honestly, it's thanks
+to your hard work."
 2019003110040,愛依,"いやいや、そんなことないって～
-うちひとりだったら、絶対に詰んでたし","No, no, it's not like that～ If I was on my own, I would've been stuck."
+うちひとりだったら、絶対に詰んでたし","No, no, it's not like that～ If I was on my own, I
+would've been stuck."
 2019003110050,愛依,"わかんないとこ、スラスラ～って答えてくれたじゃん
 プロデューサーって、頭いいよね～","There were things I didn't understand that you
 answered easily. Producer, you're so smart y'know～"
@@ -21,15 +23,20 @@ while ago..."
 0000000000000,愛依,うちなんて、昨日のことも忘れる時あるし～,"For me, sometimes I forget things that I learned
 yesterday～"
 0000000000000,プロデューサー,"んん……？　それで大丈夫なのか……？　
-家で復習とかやってるか？",Hmm? Is that really okay...? Do you check things at home?
+家で復習とかやってるか？","Hmm? Is that really okay...? Do you check things at
+home?"
 2019003110070,愛依,"あ～……そういうのは全然やったことないな～
-テストさえどうにかなればいいやってカンジだし",Ah... I've never done that～ As long as I can pass my tests it's fine.
+テストさえどうにかなればいいやってカンジだし","Ah... I've never done that～ As long as I can pass my
+tests it's fine."
 0000000000000,プロデューサー,"試してみたらどうだ？
-覚えてられるようになるかもしれないぞ",Have you tried it? It might help you start to remember things better.
+覚えてられるようになるかもしれないぞ","Have you tried it? It might help you start to
+remember things better."
 2019003110080,愛依,"え～
-やったこと、もう１回するんでしょ？","Eh～ You mean do an assignment, and then just do it again?"
+やったこと、もう１回するんでしょ？","Eh～ You mean do an assignment, and then just do it
+again?"
 0000000000000,プロデューサー,"ああ、そうしないと
-人間なかなか覚えないからな","Yeah, if you don't, then people don't usually remember things that naturally."
+人間なかなか覚えないからな","Yeah, if you don't, then people don't usually remember
+things that naturally."
 2019003110090,愛依,"同じこと何回もやるのなんて
 つらくな～い？","Wait, you review the same thing over and over?
 Isn't that tough?"
@@ -38,7 +45,8 @@ Isn't that tough?"
 you could surround yourself with a pile of
 supplementary lessons."
 2019003110100,愛依,"うっ……！　あれだけはもう勘弁！
-絶対にやりたくないって！",Oh! Just forgive me already!! I absolutely don't want to do that!
+絶対にやりたくないって！","Oh! Just forgive me already!! I absolutely don't want
+to do that!"
 0000000000000,プロデューサー,"だったら、同じことにならないよう
 毎日少しずつでも勉強しなきゃな","Well this time, it's not really the same thing.
 You just have to study a little bit every single day."
@@ -71,9 +79,11 @@ I definitely don't want to run into any obstacles."
 0000000000000,プロデューサー,いい調子だ,You've got a knack for it.
 2019003110210,愛依,これなら余裕じゃん？,"Well then I've got some spare time, yeah?"
 2019003110220,愛依,"よっしゃ！　このまま復習なんか終わらせて
-明日からちょー遊ぶぞ～！",Yesss! Let's finish this review here. Tomorrow I get to go hang out!
+明日からちょー遊ぶぞ～！","Yesss! Let's finish this review here. Tomorrow I get
+to go hang out!"
 0000000000000,プロデューサー,"遊ぶのはいいけど
-復習は継続してやらないとだぞ","Hanging out is fine, but, are you really not going to finish up the review?"
+復習は継続してやらないとだぞ","Hanging out is fine, but, are you really not going to
+finish up the review?"
 2019003110230,愛依,"アハハ、大丈夫大丈夫！
 ちゃーんとやるって","Ahaha, it's totally fine! I worked super hard at it～"
 info,produce_events/201900311.json,
