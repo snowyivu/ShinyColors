@@ -1,13 +1,13 @@
 id,name,text,trans
 3009006010010,果穂,ただいま戻りましたーっ！,We have arrived!
 3009006010020,樹里,ただいまーっと……あー、さみぃ……,"We're back... Ahhh, it's freezing."
-0000000000000,,早くあったまらねーと風邪引いちま……あれ？,"If we don't warm our selves up soon, we're going to catach a cold. Huh?"
+0000000000000,,早くあったまらねーと風邪引いちま……あれ？,"If we don't warm our selves up soon, we're going to catch a cold. Huh?"
 3009006010030,智代子,"ん！？　あったかくないよ！？
 な、なんで！？",Huh!? Why is it still so cold in here!?
 3009006010040,夏葉,"おかしいわね……誰もいないみたい
 別の部屋にいるのかしら……？","That's strange. Nobody seems to be here. 
 Maybe they're in another room?"
-3009006010050,智代子,だ、暖房！　暖房つけないと！,The heater! It's not on yet!
+3009006010050,智代子,だ、暖房！　暖房つけないと！,The heater! It hasn't been turned on yet!
 3009006010060,樹里,おー、悪いなチョコ。頼んだ,"Oh, in that case, can you turn it on for us Choco?"
 0000000000000,,けど……しばらくは寒い中辛抱しないとか……,"But still, we shouldn't stay too long in the long in the cold."
 3009006010070,果穂,"何か、早く温まる裏ワザとかないでしょうか？
@@ -25,7 +25,7 @@ Don't go around breaking things by pressing weird buttons!"
 Then I shall prepare tea..."
 3009006010120,果穂,"わあ！　凛世さんのお茶なら、ぽかぽかになれますね！
 ありがとうございます、凛世さん！","Yay! If Rinze-san is making tea, then we can warm ourselves up in no time!
-Thanl you very much, Rinze-san!"
+Thank you very much, Rinze-san!"
 3009006010130,樹里,"はぁー……にしても寒いな……
 もうすぐ雪でも降るんじゃねーか？","Hahhh... but man, it sure is cold.
 Isn't it supposed to snow soon too?"
@@ -48,7 +48,7 @@ If it's gonna snow soon, I really want a lot to pile up."
 Tea is ready..."
 3009006010210,果穂,凛世さん、ありがとうございます！,Thank you very much Rinze-san!
 3009006010220,果穂,ふーっ、ふーっ……,"Hoo, hoo."
-0000000000000,,はぁ～……あったかくて、美味しいです……,Haaa～ it's so hot and tasty.
+0000000000000,,はぁ～……あったかくて、美味しいです……,Haaa～ It's so hot and tasty.
 3009006010230,智代子,"うん……
 あったまる～……","Mmm...
 I'm getting warmed right up～"
@@ -58,20 +58,20 @@ happy to hear..."
 3009006010250,凛世,──お話を……遮ってしまいました……,It seems that... I've interrupted your conversation...
 3009006010260,果穂,"……はっ、そうでした！　
 あのっ、凛世さんは雪、見たいですか？","Oh yeah!
-Rinze-san, do you want to see it snow?"
+Rinze-san, do you want to see snow?"
 3009006010270,凛世,雪……,Snow...
 3009006010280,夏葉,"数日後に雪が降るって予報が出てるのよ
 凛世も、雪は珍しいんじゃない？","The forecast is saying it will snow in a few days.
 You haven't seen snow that often, right?"
-3009006010290,凛世,はい……,Yes...
-3009006010300,凛世,……『焙じ茶の熱しかんばし雪景色』,A winter scenery with hot houjicha.
+3009006010290,凛世,はい……,Indeed...
+3009006010300,凛世,……『焙じ茶の熱しかんばし雪景色』,A frozen winter scenery with hot houjicha.
 3009006010310,果穂,"焙じ茶……
 お茶って、このお茶のことですか？","Houjicha?
 Are you talking about the tea you made for us?"
 3009006010320,凛世,"いえ……
 有名な……句です……","No...
 It's a famous saying..."
-3009006010330,凛世,雪を見ながら……焙じ茶がおいしいと……,To watch the snow... while enjoying houjicha.
+3009006010330,凛世,雪を見ながら……焙じ茶がおいしいと……,To watch the snow... while enjoying houjicha...
 3009006010340,凛世,"降れば……また……
 お茶を淹れましょう……","If it snows...
 Let us brew tea again, shall we?"
@@ -114,8 +114,8 @@ It kind of feels like making a statue of a great man. I'm getting pumped up."
 Maybe something like an igloo."
 3009006010510,果穂,"かまくら！　山でそーなんしたヒーローが、作ってました！
 吹雪の中で、風よけにするんです！","An igloo! A hero made something like that in the mountains! 
-It was able to protect them even in a blizzard."
-3009006010520,智代子,ヒーローでも遭難するんだね……,"So, heores can be in danger themselves, huh..."
+It was even able to protect them even in a blizzard."
+3009006010520,智代子,ヒーローでも遭難するんだね……,"So, heroes can be in danger themselves, huh..."
 3009006010530,凛世,猿も木から……落ちますゆえ……,Even monkeys can fall from trees...
 3009006010540,夏葉,"何かを作るのもいいけれど、
 雪合戦っていうのもいいんじゃないかしら","Personally, I'm down with anything.
@@ -143,6 +143,6 @@ Not to you or Rinze. And of course not to Kaho or Chiyoko."
 There sure are a lot things we want to do in the snow!"
 3009006010620,果穂,いーっぱい積もるといいなぁ……,I hope it snows a lot...
 3009006010630,果穂,ゆーきやこんこ、あーられやこんこ……,"It's snowing, it's hailing♪"
-3009006010640,果穂,雪がたくさんたくさん、降りますように……！,I hoping for lots and lots of snow!
+3009006010640,果穂,雪がたくさんたくさん、降りますように……！,I'm hoping for lots and lots of snow!
 info,produce_events/300900601.json,
 译者,,

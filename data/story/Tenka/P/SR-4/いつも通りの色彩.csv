@@ -32,10 +32,14 @@ id,name,text,trans
 仕事を頑張れるんじゃないかって思ったんだ",I figured it might help you do even better during work.
 2015007010100,甜花,ご褒美……,A present...
 0000000000000,プロデューサー,ああ,Yeah.
-select,,どんなご褒美がいい？,What kind of present would you like?
+select,,どんなご褒美がいい？,"What kind of present
+would you like?"
 select,,"甜花がいい仕事を
-するためだからな",It's so you'll do well while working.
-select,,甜花は頑張ってるからな,"You have been working hard, after all."
+するためだからな","It's so you'll do well
+while working."
+select,,甜花は頑張ってるからな,"You have been
+working hard,
+after all."
 2015007010110,甜花,"な、何がいいかな……
 えと、えっと……",What would Tenka like...? Um... ummm...
 2015007010120,甜花,……あ,...Oh!
