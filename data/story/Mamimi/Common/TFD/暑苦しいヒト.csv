@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──摩美々！
+すまん、待たせたな……！",──Mamimi! Sorry to keep you waiting...!
+1005002010010,摩美々,"……終わったんですかぁ？
+先に私だけ戻るでもいいですよー",... Are you finished? I was about to leave\nwithout you.
+1005002010020,摩美々,大事な相手みたいですしー,You must've met with someone important.
+0000000000000,プロデューサー,"ああ、駆け出しの時にとても世話になった人なんだ
+だから挨拶だけしたくて……でも、もう大丈夫","Ahh, it was someone who looked after me when I\nwas just starting out. I was just going to say hi,\nbut... well, it's fine."
+1005002010030,摩美々,別に聞いてないですケド……,"You've never really mentioned them, though..."
+1005002010040,摩美々,"でも、ふーん……
+プロデューサーにも、そういう時期があったんですねー","But, fuun...\nProducer, it's gotten pretty late, huh?"
+0000000000000,プロデューサー,ん？　まぁ、今でも似たようなもんだけどな,"Huh? It's not too late, though?"
+0000000000000,プロデューサー,"……昔はたくさん失敗して
+あの人に山のように雷を落とされたもんだよ","... In the old days I made a lot of mistakes,\n and that person yelled at me all the time..."
+0000000000000,プロデューサー,"厳しかったけど……
+今思うと、ちゃんと育ててもらったんだなって……","They were strict, but... when I look back on it,\nthey were just looking out for me."
+1005002010050,摩美々,"そうですかぁ
+…………ふふー",That right?\n...Fufu～
+0000000000000,プロデューサー,……どこに連絡しようとしてるんだ,...I try to see them whenever I get the chance.
+1005002010060,摩美々,"プロデューサーの若気の至り、
+みんなに教えてあげようかなぁってー","Producer's careless youth, I wonder if I\nshould tell everyone about it～"
+0000000000000,プロデューサー,"若気の……って、そんな話してないだろ……！
+あることないこと広める気か……！？","My youth... Hold on, you shouldn't share that...!\nThat's not the kind of thing to be spreading around...!?"
+1005002010070,摩美々,"えー？
+私、そんなことするように見えますかぁ？",Ehh?\nDo I look like the kind of person to do that?
+1005002010080,摩美々,でも……ふふっ,But... Fufu～
+1005002010090,摩美々,似たような人、私も知ってますー,I think I know someone like that～
+1005002010100,摩美々,"誰かのことを自分のことみたいに、
+怒ったり、笑ったり、信じたり……","A person who, for someone like me,\nwould scold them, smile for them,\nbelieve in them..."
+1005002010110,摩美々,"……他にもいるんですねー
+暑苦しい人っていうのは","… There's another one, huh～\nSomeone who can fire you up."
+info,produce_events/100500201.json,
+译者,Peach,

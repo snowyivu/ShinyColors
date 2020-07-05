@@ -35,9 +35,11 @@ id,name,text,trans
 2009004040100,果穂,はいっ！　めしあがれ、です！,"Yep! Bon appetite! "
 0000000000000,プロデューサー,ん……,Hm...
 2009004040110,果穂,どうですか……？,"How is it? "
-select,,美味いな！," It's delicious!"
-select,,上手に焼けたな,"They were baked really well. "
-select,,何か入ってる？," Is there anything inside in it?"
+select,,美味いな！,It's delicious!
+select,,上手に焼けたな,"They were baked
+really well. "
+select,,何か入ってる？,"Is there anything
+inside in it?"
 2009004040120,果穂,"……！
 やったーっ！","Hooray! "
 2009004040130,果穂,喜んでもらえて、スゴくうれしいですっ,"It's makes me really happy that you enjoyed the cookies I gave you. "

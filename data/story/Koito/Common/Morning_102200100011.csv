@@ -7,9 +7,10 @@ id,name,text,trans
 0000000000000,プロデューサー,"あ、そうだ
 ポケットに確か──……","Ah, that's right. If I remember correctly, in my pocket there's..."
 select,,"──飴、
-食べないか？",──Candy. Want some?
+食べないか？","──Candy.
+Want some?"
 select,,"──チョコ、
-少し溶けてるけど","──Chocolate. Though
+少し溶けてるけど","──Chocolate, though
 it's a bit melted."
 select,,"……あれ、
 何もなかった","...Huh, there's

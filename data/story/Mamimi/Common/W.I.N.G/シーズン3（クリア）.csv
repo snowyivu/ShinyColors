@@ -1,0 +1,43 @@
+id,name,text,trans
+0000000000000,プロデューサー,"三次審査、受かったぞ！
+やったな、摩美々","You've passed three rounds! Good job, Mamimi. "
+7005001050010,摩美々,あー、通ったんですねー,"Ahh, I got through it, huh?"
+0000000000000,プロデューサー,"とか言いつつ、本当は嬉しいんだろ？
+なんたって三次審査通過だからな","You say it like that, but you're actually happy,\naren't you? You just passed the third round\nafter all."
+7005001050020,摩美々,"このくらいまでなら、誰でも行けるのかなぁって思ってー
+あんまり頑張ってない私でも、通るくらいだからぁ","With how things have been so far, couldn't\nanyone have done well? I didn't put in much\neffort but it was still enough."
+0000000000000,プロデューサー,"……摩美々、そういう態度はあまり良くないぞ
+言い方には気をつけないと","... Mamimi, that kind of attitude is no good! \nSaying things like that is careless."
+7005001050030,摩美々,"えー、どうしてですかぁ？
+私が言ってるのは本当のことですよー","Ehh, how is that...? \nI'm only speaking the truth."
+0000000000000,プロデューサー,"確かに、審査は通ったが……
+でもそれは、摩美々が頑張ったからなのは間違いない","Sure, you got through this round, but... \nbut that's because you did your best, no doubt\nabout it."
+0000000000000,プロデューサー,誰でも通るなんてことは、絶対にないからな,"What you said, that anyone could do it,\nthere's no way that's the case."
+7005001050040,摩美々,……そうなんですかぁ？,... You really think so?
+0000000000000,プロデューサー,"まったく……いろいろとあったけど
+摩美々はなんだかんだで相変わらずだな","Honestly... no matter what happens,\nyou're still like this, huh?"
+0000000000000,プロデューサー,"（本当はやる気も出てきてるんだろうけど
+口ではいつもやる気なさげに言うからな）","(The truth is I can tell she's been motivated,\neven though she's telling me she isn't.)"
+7005001050050,摩美々,"まぁ、私、悪い子ですからぁ
+簡単に、良い子になったりしませんよー","Well, I'm a bad girl after all, \nmaking me a good girl isn't going to be easy."
+7005001050060,摩美々,こういう性格は、なかなか変わらないものですー,This attitude of mine really isn't something\nthat changes.
+0000000000000,プロデューサー,"……そういう態度を続けて、
+次の時も上手くいくとは限らないぞ","... With that attitude, next time things won't go so\nsmoothly."
+0000000000000,プロデューサー,"今までは良い結果が出たけど、ここで油断してたら
+後でしっぺ返し食らうかもしれないぞ？","Until now we've had good results, but if you\nget careless, don't you think it might\ncome back to bite you?"
+7005001050070,摩美々,"そうなんですかー？
+まぁ、次も普段通りやると思いますよー","You think so? Well, I guess I'll keep up the\nusual for next time."
+0000000000000,プロデューサー,"……他のアイドルは、必死にレッスンを受け続けて
+本気で仕事をこなしてきているんだ","... Other idols are never going to stop practicing,\ndoing everything they can to be the best."
+0000000000000,プロデューサー,"たとえ摩美々でも、本気でアイドル活動しないと
+勝てるとは思えない","Even if it's you, Mamimi, if you don't match their\nresolve and give it your all as an idol,\nI don't think you can win."
+7005001050080,摩美々,"……心配のしすぎじゃないですかー？
+今まで大丈夫なら、これからも大丈夫……かもですよー","... Aren't you worrying too much?\nIt's been fine so far, so it's going to stay fine...\nyou know?"
+0000000000000,プロデューサー,"そうならいいけどな。でも、
+俺は摩美々のプロデューサーとして全力でサポートする","If that's true, that'd be good.\nHowever, as your producer, I'll be doing\neverything I can to support you."
+0000000000000,プロデューサー,"悩みがあるなら聞くし、どうすればいいかを考える
+摩美々が次の審査も突破したいなら、もっと頑張ろう","If you ever have any problems, I'll be there and we'll\nthink it through. If you want to overcome the next\nqualifier, we'll both have to give our all."
+7005001050090,摩美々,"プロデューサーがそこまで言うならぁ、
+少しだけ考えておきますねー","If Producer says all that, I might consider it."
+info,produce_events/700500105.json,
+译者,,
