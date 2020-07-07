@@ -1,0 +1,25 @@
+id,name,text,trans
+1005001000610010,摩美々,おはよーございまぁす,Goood morning～
+0000000000000,プロデューサー,"ああ、おはよう
+……ん？　その服、もとからそういう感じなのか？","Oh, morning.\nHm? Your clothes seem even livelier than usual."
+1005001000610020,摩美々,"この服ですかぁ？
+自分でアレンジしたんですよー",My clothes?\nI coordinated the outfit myself～
+0000000000000,プロデューサー,（へえ……）,(Ehh...)
+select,,大胆だな,It's a bold look.
+select,,似合ってる,It suits you.
+select,,肌は出しすぎるなよ,You're showing\ntoo much skin.
+1005001000610030,摩美々,"一気に見栄えを変えた方がぁ、
+オシャレじゃないですかー？","I totally changed up my style,\nlooks sharp, doesn't it～?"
+1005001000610040,摩美々,"それにー、唯一無二のオリジナルって感じでー、
+愛着湧きますしねー","Oh, and its one-of-a-kind, original impression\nis another thing to love about it～"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001000610050,摩美々,"きっとプロデューサーも似合いますよー
+この服、男性でも着られますからぁ","And I'm sure it'd suit you as well～\nMen can wear an outfit like this too, you know."
+1005001000610060,摩美々,ぜひ着てみてくださいー,You should definitely wear it so we can see how\nit looks～
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001000610070,摩美々,"はぁい……
+プロデューサー、そういうこと言うんですねー","Riight...\nProducer would say something like that,\nwouldn't he..."
+1005001000610080,摩美々,まぁ、それくらい自分で判断できますケド,"Well, how much to show is something I can decide\nfor myself."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah... I should've said something else instead...)
+info,produce_communications/100500100061.json,
+译者,Peach,

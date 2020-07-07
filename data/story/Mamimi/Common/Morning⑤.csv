@@ -1,0 +1,27 @@
+id,name,text,trans
+1005001000510010,摩美々,…………,......
+0000000000000,プロデューサー,（すごく真剣に、鏡と向かい合ってるな……）,"(Wow, she's staring into that mirror pretty seriously)"
+0000000000000,プロデューサー,"摩美々、どうしたんだ？
+家でセットしてこなかったのか？","Mamimi, what happened?\nDidn't you fix your hair before you came?"
+1005001000510020,摩美々,"してきましたけどー……今日風が強くてー、
+髪がくしゃくしゃになってないか気になってるんですー","I did, but... It was windy today, andー\nit got all messed up, so I'm trying to fix it."
+select,,ここ、崩れてるぞ,"Look,\nit's falling apart."
+select,,紫の綿飴みたい,It looks like purple\ncotton candy.
+select,,いつも通りだな,It looks the\nsame as always.
+1005001000510030,摩美々,"うそ……
+あれ？　崩れてないじゃないですかぁ",Liar...\nHuh? My hair's not falling apart at all.
+1005001000510040,摩美々,"あ、もしかして私に意地悪したんですかぁ？
+ふふー受けて立ちますよー",Ah- Is it possible someone played a mean\ntrick on me?\nFufu～You got me～
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001000510050,摩美々,"えー……それ、どういうことですかぁ？
+褒めてますー……？",Ehh... What do you mean by that?\nIs that a compliment...?
+1005001000510060,摩美々,"そんなに共感はできませんケド……
+プロデューサー、綿飴なんてかわいいこと言うんですねー","I can't really say I see it myself, but...\nProducer, it's cute that you'd say\nsomething like cotton candy."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001000510070,摩美々,"これをいつも通りって……
+プロデューサー、ちゃんと見てませんねー？","This is the same as always...?\nProducer, you're not looking carefully enough～"
+1005001000510080,摩美々,"ほらぁ、こことか……
+くしゃくしゃになってるじゃないですかぁ","Look, right here...\nIsn't it messed up?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah... I should've said something else instead...)
+info,produce_communications/100500100051.json,
+译者,Peach,

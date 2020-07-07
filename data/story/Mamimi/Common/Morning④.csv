@@ -9,15 +9,15 @@ did something happen?"
 変な顔ですねー","Fufu～
 You're making a weird face."
 0000000000000,プロデューサー,（摩美々……）,(Mamimi...)
-select,,消しなさい,Delete this
-select,,紙に描きなさい,Draw on paper
-select,,自分で消すか……,Clean by yourself...
+select,,消しなさい,Erase it.
+select,,紙に描きなさい,Draw on paper\ninstead.
+select,,自分で消すか……,I'll clean it...
 1005001000410030,摩美々,"なんでその落書き、私の仕業ってすぐわかるんですかぁ？
 ……ふふー","How did you realize so quickly that that drawing was my doing?
 ...Fufu～"
 1005001000410040,摩美々,"まぁ、怒られたら仕方ないですねー
 ちゃんと消しまぁす","Well, if you're going to get angry, it can't be helped.
-I'll properly delete it."
+I'll properly erase it."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1005001000410050,摩美々,"リクエストですかぁ？
 私の絵、気に入ってくれたんですねー","Is that a request?
@@ -30,7 +30,7 @@ From now on I'll draw on paper, and paste them all around the place."
 ……その反応、何ですかぁ？","......
 ...What's with that reaction?"
 1005001000410080,摩美々,"さらっと流すんですねー
-つまんない人ー……","Brushing it aside just like that-
+つまんない人ー……","Brushing it aside just like thatー
 What a boring person..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
 info,produce_communications/100500100041.json,

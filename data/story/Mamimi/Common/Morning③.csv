@@ -3,13 +3,13 @@ id,name,text,trans
 1005001000310010,摩美々,"プロデューサー、気づきましたねー
 その花瓶、私が置いたんですよー","Producer, you noticed.
 I was the one who put that flower vase there."
-1005001000310020,摩美々,花の香りをかいで、リフレッシュしてくださいねー,Feel free to smell the aroma of the flowers and refresh yourself.
+1005001000310020,摩美々,花の香りをかいで、リフレッシュしてくださいねー,Feel free to smell the aroma of the flowers\nand refresh yourself.
 0000000000000,プロデューサー,ああ……ん？,Ah... Mm?
 select,,造花じゃないか！,"Isn't it an artificial 
 flower?!"
 select,,摩美々もかいでみて,"Come and smell it 
-too, Mamimi"
-select,,いい香りだな,What a nice smell
+too, Mamimi."
+select,,いい香りだな,What a nice smell.
 1005001000310030,摩美々,"ふふー。ツッコミが鋭いですー
 プロデューサーは、朝から元気ですねー","Fufu～ What a sharp comeback.
 Producer, you look energetic even in the morning."

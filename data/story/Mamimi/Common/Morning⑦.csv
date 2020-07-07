@@ -1,0 +1,26 @@
+id,name,text,trans
+1005001000710010,摩美々,どれにしようかなぁ……,Which should I go with...?
+0000000000000,プロデューサー,摩美々、どうしたんだそれ,"Mamimi, what's all this?"
+1005001000710020,摩美々,"たまにはお菓子でも食べようかと思って、
+テキトーに買ってきたんですケド……","Sometimes I think,\n""wouldn't it be nice to have some snacks?""\nWell, I found the chance and bought some, but..."
+1005001000710030,摩美々,"買いすぎちゃったから、何食べるか悩んでるんですよー
+プロデューサーはどれがいいと思いますかぁ？","I bought too much,\nand now I can't decide which to tryー\nProducer, what looks good to you?"
+select,,紫色の棒付き飴,Purple lolly.
+select,,カラフルドーナツ,Colorful donut.
+select,,爬虫類グミ,Reptile gummy.
+1005001000710040,摩美々,"味が想像できないですよねー
+だから気になって買ってきたんですー",I couldn't imagine what'd it'd taste likeー\nso I had to buy some and find out.
+1005001000710050,摩美々,"……３本ありますし、
+プロデューサーも一緒に食べませんかぁ？","... I have three, so\nwhy don't you try it with me?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001000710060,摩美々,"あ、これはプロデューサーにあげようと思って、
+買ってきたんですよー","Ah, I got this one for you."
+1005001000710070,摩美々,可愛いと思いませんかぁ？　私のイチオシですー,"It's cute, don't you think? I recommend it～"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001000710080,摩美々,"これ、すっごく可愛いですよねー
+だからぁ、逆に食べづらいんですー","These are so cute, huhー\nIt actually makes them hard to eat."
+1005001000710090,摩美々,"食べなきゃもったいないのは……
+わかってますケド","I need to eat them because it'd be wasteful not to...\nI know that, but..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah... I should've said something else instead...)
+info,produce_communications/100500100071.json,
+译者,Peach,
