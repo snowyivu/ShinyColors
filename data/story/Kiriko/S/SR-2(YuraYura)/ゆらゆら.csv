@@ -5,19 +5,19 @@ id,name,text,trans
 3008005010040,霧子,すーっ……,Swishー...
 3008005010050,恋鐘,ざっぷ～ん！,KER～SPLASH!
 3008005010060,霧子,"ざっ……──
-……？",Ker...ーー\n...?
+……？",Ker...──\n...?
 3008005010070,恋鐘,ざっぷ～ん！！,KER～SPLASH!!
 3008005010080,霧子,……こ、恋鐘ちゃん,...Ko-Kogane-chan.
 3008005010090,霧子,"金魚さんは……
-ざっぷーんって……しないんじゃないかな……",Goldfish... don't “kersplash!”...
+ざっぷーんって……しないんじゃないかな……","Goldfish... don't ""kersplash!""..."
 3008005010100,恋鐘,"え～！　そがんことなかよー
-魚ばい？",Ehh～？ No waay! They're fish ain't they?
+魚ばい？",Ehh～? No waay! They're fish ain't they?
 3008005010110,霧子,"そ、そっか……
 跳ねたり……するかもしれないよね……","A-Ah, I see...\nI guess I don't really know whether they can\nsplash or not..."
 3008005010120,恋鐘,"その霧子の出目金、まるまる太っとるけん、
 きっと、ざっっっぷ～～～ん！　っていうはずばい！","The popeyed goldfish on yours are so big'n'round,\n'course they're gonna make a big ol' ker～splash!"
 3008005010130,霧子,"ふふっ……恋鐘ちゃん……
-じゃあ恋鐘ちゃんの方は……ちゃぷん、かなぁ……","Hehe... Kogane-chan...\nThen, I'll do it like you...\n“Kersplash”... like that...?"
+じゃあ恋鐘ちゃんの方は……ちゃぷん、かなぁ……","Hehe... Kogane-chan...\nThen, I'll do it like you...\n""Kersplash""... like that...?"
 3008005010140,恋鐘,"うちのは何十匹も描いてあるけん、
 きっとみ～んなで跳ねるやろうね！","On mine, 'cause there's dozens of 'em,\no'course everybody's jumpin' out all the same time!"
 3008005010150,恋鐘,"はぁ～……見れば見るほどば～りかわいかね～！
@@ -52,8 +52,8 @@ id,name,text,trans
 3008005010330,霧子,うん……,Yes...!
 3008005010340,恋鐘,ゆらゆら～,Flutter-Flutter~
 3008005010350,霧子,ゆらゆら～……,Flutter-Flutter~...
-3008005010360,恋鐘,すーっ,Swishー
-3008005010370,霧子,すーっ……,Swishー...
+3008005010360,恋鐘,すーっ,Swisshhh
+3008005010370,霧子,すーっ……,Swisshhh...
 3008005010380,恋鐘,ざっぷ～ん！,KER～SPLASH!
 3008005010390,霧子,"ふふ……
 ざっぷ～んは……しないみたいだよ……",Hehe...\nIt seems like... they're not “kersplashing”...
@@ -72,7 +72,7 @@ id,name,text,trans
 恋鐘ちゃん……寮だもんね……","Ah...\nKogane-chan... you live in a dorm, right..."
 3008005010480,恋鐘,"うん、勝手に飼われんとよ
 それに……","Yeah, I can't have a pet just 'cause I feel like it.\nAnd, well..."
-3008005010490,霧子,……恋鐘ちゃん……？,... Kogane-chan...?
+3008005010490,霧子,……恋鐘ちゃん……？,...Kogane-chan...?
 3008005010500,恋鐘,"うち、自分のことば～っかりでいっぱいいっぱいやけん
 もっとがんばらんば、魚に嫌われる！","I'm waay~waay too full o'myself.\nIf I keep on, the fish'll hate me!"
 3008005010510,霧子,"こ、恋鐘ちゃんを、嫌いな人なんて……
@@ -84,14 +84,14 @@ id,name,text,trans
 うちももうちょっと霧子みたいに優しくなれたら……","Hahah～ Kiriko's real kind, huh～?\n... Look, even the goldfish wanna be around you!\nIf I was just a little kinder, like you, then..."
 3008005010550,恋鐘,ここの魚、迎えにくるけんね！,"all these fish, they'd come to me, too!..."
 3008005010560,霧子,"こ、恋鐘ちゃん……
-恋鐘ちゃんこそ──",K-Kogane-chan...\nyou're alsoーー
+恋鐘ちゃんこそ──",K-Kogane-chan...\nyou're also──
 3008005010570,恋鐘,"あ、霧子、なんか真っ赤になっとるね！
 こん金魚にそっくりたい～！","Ahh, Kiriko, your face is blushin'!\nThe goldfish're all over you～!"
-3008005010580,霧子,こ、恋鐘ちゃん……──！,K-Kogane-chan...ーー!
+3008005010580,霧子,こ、恋鐘ちゃん……──！,K-Kogane-chan...──!
 3008005010590,霧子,"ふふ……わたし、金魚さんになったら……
 恋鐘ちゃんのお家に行くね……",Hehe...\nWhen I become a goldfish...\nyou can take me home with you...
 3008005010600,恋鐘,ほんとね～！？,For real～!?
 3008005010610,霧子,"うん……！　そうなったら……
 毎日……遊ぼうね……",Yes...! And when that happens...\nevery day... let's play together...!
 info,produce_events/300800501.json,
-译者,Peach,
+Translator,Peach,

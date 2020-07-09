@@ -11,7 +11,8 @@ It's nothing out of the ordinary."
 ......"
 2005004010030,摩美々,"……あ
 そういえば、プロデューサーに聞きたいことがあってー","Ah.
-That reminds me, there's something I'd like to ask you, Producer."
+That reminds me, there's something I'd like to ask,
+Producer."
 0000000000000,プロデューサー,"おお、なんだ？
 なんでも聞いてくれ！","Oh, what is it?
 Feel free to ask me anything!"
@@ -25,8 +26,9 @@ What the!?"
 清楚ワンピース』！？　こ、これは……）","(""My Most Purest Ladylike Sophisticated Dress""!?
 T-This is...)"
 2005004010050,摩美々,"私服で人前に出ることも結構あるから……
-買っておこうかなって思ってるんですケド……","Since I do have to appear in public a lot wearing casual clothes,
-so I was thinking of buying this but..."
+買っておこうかなって思ってるんですケド……","Since I have to appear in public a lot wearing
+casual clothes,
+I was thinking of buying this but..."
 2005004010060,摩美々,あんまり代わり映えしませんかねー？,"It won't change a bit for me, right?"
 0000000000000,プロデューサー,"代わり映え！？
 ……それは……しすぎるくらいだと思うが……！","Won't change a bit!?
@@ -56,10 +58,11 @@ And I think it was a really good idea."
 select,,"い、いいんじゃ
 ないか……？","S-Sure,
 why not...?"
-select,,いや、やめよう,"No, let's drop this idea"
+select,,いや、やめよう,"No,\nlet's drop this idea"
 select,,"一体どうしたんだ
-摩美々！？","Just what has gotten
-into you, Mamimi!?"
+摩美々！？","Just what has
+gotten into you,
+Mamimi!?"
 0000000000000,プロデューサー,"（きっと摩美々なりの考えがあるんだろう
 摩美々の可能性を信じて、俺も覚悟を決めよう……！）","(Mamimi is sure to have some sort idea for this.
 Let's believe in Mamimi's potential and brace for what happens!)"
@@ -121,7 +124,8 @@ these kinds of clothes too... you know..."
 0000000000000,プロデューサー,ま、摩美々……？,M-Mamimi?
 2005004010270,摩美々,"違いますよプロデューサー
 私が話してたのはぁ、こっち。隣のページの服ですー","You have the wrong idea, Producer.
-I'm talking about this one. The clothes on the other page."
+I'm talking about this one.
+The clothes on the other page."
 0000000000000,プロデューサー,"これは……
 いつも通りの摩美々っぽい服……","This is...
 similar to what you usually wear."
@@ -168,4 +172,4 @@ Still, I'm glad we had this talk about clothes."
 次も面白い反応、期待してますねー？","When something comes up again, I guess I'll share it with you.
 I'll be expecting another good reaction from you, okay?"
 info,produce_events/200500401.json,
-译者,,
+Translator,,

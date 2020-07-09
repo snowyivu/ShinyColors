@@ -1,9 +1,9 @@
 id,name,text,trans
 0000000000000,プロデューサー,"摩美々、お疲れ様
 今日のライブも良かったぞ！","Well done, Mamimi.
-You put up a great live just like before!"
+You put up another great live!"
 2005004040010,摩美々,はいー……,"Thanks. "
-2005004040020,摩美々,……あの、私がさっきつけてたピアス……知りませんか？,"Say, I can't find the earring I was wearing. Do you have any idea where it could be?"
+2005004040020,摩美々,……あの、私がさっきつけてたピアス……知りませんか？,"Say, I can't find the earring I was wearing.\nDo you have any idea where it could be?"
 0000000000000,プロデューサー,"ステージでしてた金のピアスか？　俺は見てないけど……
 失くしたのか？　だったら俺も探すよ","The gold one you were wearing on stage? I haven't seen it though. Did you lose it? In that case, I'll help you find it."
 2005004040030,摩美々,"……知らないなら大丈夫です
@@ -70,7 +70,7 @@ then how come you're looking so hard for it?"
 0000000000000,プロデューサー,──えっと……金のピアスだったよな,"Let's see... It was a gold earring, right?"
 2005004040130,摩美々,"……！
 気付いてたんですねー……","......!
-So, you really noticed."
+So, you realized..."
 0000000000000,プロデューサー,"──うーん……
 こっちにもないか……","Hmm...
 Also not here, huh..."
@@ -84,7 +84,7 @@ That's nice."
 It's just one of the things they always give me."
 2005004040170,摩美々,でもあのピアスは……,But that earring...
 2005004040180,摩美々,"初めてライブに来てくれた後
-アンティーカの田中摩美々に、って……",They gave it to the Tanaka Mamimi of L'Antica right after seeing her first live.
+アンティーカの田中摩美々に、って……",They gave it to the Tanaka Mamimi of L'Antica right\nafter seeing her first live.
 0000000000000,プロデューサー,"……いいじゃないか
 尚更、絶対に見つけないとな！","That's really nice.
 All the more reason that we should find it!"
@@ -107,13 +107,15 @@ Thank you... so much..."
 I really thought that I wouldn't be able to find it."
 select,,"ピアスも見つけて
 ほしかったんだよ","The earring itself
-wants you to find it"
+wants you to find it."
 select,,"見つからない
-なんてことはないさ","There's no such thing as
-something that can't be found"
+なんてことはないさ","There's no such thing
+as something that
+cannot be found."
 select,,"摩美々が頑張った
-からだよ","It's because you're doing
-your best to find it"
+からだよ","It's because you
+were commited
+to finding it."
 0000000000000,プロデューサー,"ずっと、見つけてほしくて……
 見つけてもらうのを待ってたんだ、きっと","The earring is wishing you to find it all this time.
 It's waiting for you to find it, it has to be."
@@ -159,9 +161,10 @@ Where did that come from?"
 0000000000000,プロデューサー,"…………いや
 ピアスのこと、話してくれてありがとうな","Nothing.
 Still, I appreciate you sharing the story about your earring."
-0000000000000,プロデューサー,……簡単に手放せないものがあるって、大変だよなぁ,It sure is hard if you have something that you just can't easily let go off.
+0000000000000,プロデューサー,……簡単に手放せないものがあるって、大変だよなぁ,"It's tough...
+To have something you can't easily let go."
 2005004040340,摩美々,"…………
-……そーですね……本当に","Yeah...
-It really is."
+……そーですね……本当に","......
+... Yeah... It sure is."
 info,produce_events/200500404.json,
-译者,,
+Translator,,

@@ -42,8 +42,8 @@ Natsuha I know."
 select,,夏葉はどう思う？,"What do you
 think, Natsuha?"
 1013001040130,夏葉,"それならよかったわ
-……私、この間、歌い方のことで迷っていたでしょう？","That's good, in that case...Recently, I've been unsure
-about my singing, right?"
+……私、この間、歌い方のことで迷っていたでしょう？","I'm glad if that's the case...Recently, I've been
+unsure about my singing, right?"
 0000000000000,プロデューサー,ああ、そうだな,"Ah, right."
 1013001040140,夏葉,"あのときのことをずっと考えていたの
 それでやっとわかったわ","I've been thinking about it since then, and think I
@@ -56,19 +56,19 @@ labor."
 1013001040170,夏葉,"あのときのプロデューサーが伝えたかったこと……
 そういうことよね？","That was what you wanted me to understand...
 Right, Producer?"
-0000000000000,プロデューサー,夏葉がそう思うなら、きっとそれが答えだな,"If you feel that way, then that must be it."
+0000000000000,プロデューサー,夏葉がそう思うなら、きっとそれが答えだな,"If you feel that way, then that must be the answer."
 1013001040180,夏葉,ええ。自分の間違いに気づくことができたわ,Indeed. I was able to realize my own mistake.
 1013001040190,夏葉,ありがとう、プロデューサー,"Thank you, Producer."
 1013001040200,夏葉,"これからはもう近道なんて
 恥ずかしいことは２度と考えない","From here on I won't go embarassing myself by looking
 for these shortcuts."
 1013001040210,夏葉,迷わずトップへの道を進んでいくわ,I won't waver on my road to top.
-0000000000000,プロデューサー,迷いがない姿勢は、まさに夏葉だ,"This ""unwavering"" attitude is really like you, Natsuha."
+0000000000000,プロデューサー,迷いがない姿勢は、まさに夏葉だ,"This ""unwavering"" attitude is just like you, Natsuha."
 1013001040220,夏葉,"それならいいの
 ずっと私らしいやり方を考えていたから","That's fine then. I've spent this time thinking about
 what my own style is."
 1013001040230,夏葉,"歌い方に悩んだあのとき、
-私は誰かの真似をしようとしていたわ……","That time I was worried over my singing, I decided to
+私は誰かの真似をしようとしていたわ……","When I was worried about my singing, I decided to
 copy someone else."
 1013001040240,夏葉,でも、それは間違いだったのよね,But that was my mistake.
 0000000000000,プロデューサー,答えが、出たんだな,So you've found your answer.
@@ -88,7 +88,7 @@ foolishly relying on cheap tactics anymore."
 in my own way!"
 0000000000000,プロデューサー,"（しっかりと悩んで、自分で答えを出したようだな
 この経験はきっと大きな自信につながるだろう）","(She made the struggle to find her own answer. I'm
-sure this experience will build her confidnce even
+sure this experience will build her confidence even
 further.)"
 0000000000000,プロデューサー,"（夏葉はこれからもっともっと
 輝きを増していくに違いない）","(No doubt Natsuha's only going to burn even brighter
@@ -115,4 +115,4 @@ to be confident in myself because of who I am?"
 1013001040350,夏葉,だから、もっと自信を持ってくれなきゃ困るわ！,"I'd be in quite a lot of trouble if you stopped
 believing in me now!"
 info,produce_events/101300104.json,
-译者,,
+Translator,,

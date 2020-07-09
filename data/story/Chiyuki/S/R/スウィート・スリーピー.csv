@@ -1,8 +1,8 @@
 id,name,text,trans
 3016002010010,甘奈,"ふわぁ……
 あ、千雪さん！　お疲れさまー！","*Yawn*...
-Ah, Chiyuki! Good morning..."
-3016002010020,千雪,甘奈ちゃん、お疲れさま,"Good morning, Amana."
+Ah, Chiyuki-san! Good morning..."
+3016002010020,千雪,甘奈ちゃん、お疲れさま,"Good morning, Amana-chan."
 3016002010030,千雪,……ふふ、今日はちょっとおねむさんなのね？,"...Fufu, you seem a bit sleepy today, are you?"
 3016002010040,甘奈,"うん。お仕事の前に宿題終わらせちゃおう！
 って思ったんだけど……","Yeah, finish my homework before I go to work...
@@ -21,9 +21,9 @@ Seems like it was diffcult to balance both."
 I'm worried I might oversleep a little too much..."
 3016002010100,千雪,"そのときは私が起こしてあげるから
 ほら、甘奈ちゃんはソファを使って","I could wake you up then.
-Here, you can use the couch, Amana."
+Here, you can use the couch, Amana-chan."
 3016002010110,甘奈,"ほんとー！　千雪さん、ありがと！
-ちょっと休んだら、甘奈、大丈夫そうな気がする","Really? Chiyuki, thank you!
+ちょっと休んだら、甘奈、大丈夫そうな気がする","Really? Chiyuki-san, thank you!
 I'll go take a rest, after that, I'll be okay!"
 3016002010120,千雪,"そう？　じゃ、クッションを枕にしてね
 ブランケットも持ってくるから","Is that so? Then, you could use the cushion as a pillow.
@@ -31,8 +31,8 @@ I'll get you a blanket."
 3016002010130,千雪,"あとは……目覚ましもセットして……
 1時間半後で大丈夫？","After that... I'll set your alarm clock...
 Does ""an hour later and half"" sound okay?"
-3016002010140,甘奈,えへへ、ありがとう、千雪さん,"Eheheh, thanks, Chiyuki."
-3016002010150,甘奈,……千雪さん、きっといいお嫁さんになるんだろうなー,"Chiyuki, you sure would make a great bride..."
+3016002010140,甘奈,えへへ、ありがとう、千雪さん,"Eheheh, thanks, Chiyuki-san."
+3016002010150,甘奈,……千雪さん、きっといいお嫁さんになるんだろうなー,"Chiyuki-san, you sure would make a great bride..."
 3016002010160,千雪,も、もう……急になぁに？,H-Hey... why did you say that all of a sudden?
 3016002010170,甘奈,"えへへ
 だって、すごく優しいんだもん","Ehehe,
@@ -42,10 +42,10 @@ because you're so caring."
 ブランケット、やわらかぁい……","...*Yawn*,
 This blanket is so soft..."
 3016002010200,千雪,"ふふ、甘奈ちゃん、すっごく気持ちよさそう
-……ん～","Fufu, Amana, you look happy.
+……ん～","Fufu, Amana-chan, you look happy.
 ...Say,"
 3016002010210,千雪,"ねぇ甘奈ちゃん
-私も……お隣、いい？","Hey, Amana.
+私も……お隣、いい？","Hey, Amana-chan.
 Should I... sit next to you?"
 3016002010220,甘奈,もしかして千雪さんも少しおねむ？,Are you also feeling sleepy?
 3016002010230,千雪,"うん
@@ -53,12 +53,12 @@ Should I... sit next to you?"
 Actually, just a little..."
 3016002010240,甘奈,"あ……
 千雪さんも両立、大変だもんね","Ah...
-It must be hard for you too, Chiyuki."
+It must be hard for you too, Chiyuki-san."
 3016002010250,千雪,"ううん、それは私のワガママだから
 ……ありがとう、甘奈ちゃん","Not really, I'm just being a little selfish.
-...Thank you, Amana."
+...Thank you, Amana-chan."
 3016002010260,甘奈,"ううん……あ、じゃあ千雪さんも一緒に入ろう？
-ふたりのほうが、絶対あったかいし","No problem... Ah, well... Chiyuki, you'll join me along?
+ふたりのほうが、絶対あったかいし","No problem... Ah, well... Chiyuki-san, you'll join me along?
 It'd definitely be warmer if both of us were together."
 3016002010270,千雪,"わぁ、ほんと？
 ……それじゃあ、お邪魔します♪","Oh, is that so?
@@ -73,10 +73,10 @@ Must be your shampoo..."
 でも千雪さんも、めちゃめちゃいい匂いだよ～？","Really? But,
 you also smell really nice, no～?"
 3016002010310,千雪,"そう？
-ふふ、甘奈ちゃんに言われると、嬉しいかも","Really? Fufu, that makes me happy hearing that from you, Amana."
+ふふ、甘奈ちゃんに言われると、嬉しいかも","Really? Fufu, that makes me happy hearing that from you, Amana-chan."
 3016002010320,甘奈,えへへ、なんか恥ずかしいかも,"Ehehe, it's kind of embarrassing."
 3016002010330,甘奈,"ふあぁ……千雪さん……
-なんか、もう限界かも……","*Yawn*... Chiyuki...
+なんか、もう限界かも……","*Yawn*... Chiyuki-san...
 I don't know if I keep going a little longer..."
 3016002010340,千雪,"うん、私に遠慮しないでね
 おやすみ……","It's okay, no need to hesitate.
@@ -88,6 +88,6 @@ Night..."
 3016002010370,甘奈,すー……すー……,Zzz... zzz...
 3016002010380,千雪,（甘奈ちゃん、寝ちゃったみたい）,(Seems like she fell asleep.)
 3016002010390,千雪,（勉強もお仕事もって、大変だけど──）,"(It must've been a lot of work and study, but──)"
-3016002010400,千雪,頑張ってね、甘奈ちゃん,"(Good luck, Amana.)"
+3016002010400,千雪,頑張ってね、甘奈ちゃん,"(Good luck, Amana-chan.)"
 info,produce_events/301600201.json,
-译者,,
+Translator,,

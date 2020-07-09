@@ -3,11 +3,11 @@ id,name,text,trans
 もう準備はできてるな？","Alright, it's about time to head out.
 Do you have everything ready?"
 1013001020010,夏葉,"ええ、当然よ。次のお仕事に向けて
-コンディションも万全に整えてあるわ","Naturally. I'm entirely physically and mentally
-prepared for our next job."
+コンディションも万全に整えてあるわ","Naturally. I'm wholly prepared, physically and
+mentally for our next job."
 0000000000000,プロデューサー,"すまない
-少しここで待っててくれるか？","Sorry, do you mind waiting for me here just a second?"
-1013001020020,夏葉,いいわ。気にしないで,That's ok. Don't worry about me.
+少しここで待っててくれるか？","Sorry, do you mind waiting here for just a second?"
+1013001020020,夏葉,いいわ。気にしないで,That's fine. Don't worry about me.
 0000000000000,プロデューサー,ありがとう『――はい、いつもお世話になっております――,"Thanks.
 ""──Yes, of course. Thank you again for your──"""
 0000000000000,プロデューサー,"夏葉
@@ -16,7 +16,7 @@ prepared for our next job."
 1013001020040,夏葉,どうしたの？,What's wrong?
 0000000000000,プロデューサー,"いや、今さっきの……
 何をしてたのかなって思って","Nothing, it's just... I was kind of confused about what
-you were doing."
+you were just doing."
 1013001020050,夏葉,"片足立ちよ
 手軽にどこでもできる、いいトレーニング法なの","I was balancing on one leg. It's a simple form of
 working out."
@@ -27,7 +27,7 @@ looking for time to train?"
 私はトップアイドルを目指しているって","Of course. I said it when we first met, right?
 I'm only setting my sights for the top."
 1013001020070,夏葉,"そのためには、いつも貪欲に
-自分を鍛え続けないといけないの","For that sake, I have to apologetically take advantage
+自分を鍛え続けないといけないの","For that sake, I have to unapologetically take advantage
 of every moment I can to continue disciplining myself."
 1013001020080,夏葉,"たとえどんなに短くても
 空いた時間を無駄になんてできないわ！","I can't let even the tiniest of moments be spent
@@ -58,13 +58,12 @@ that you can reach the top."
 1013001020130,夏葉,だからこのぐらいのことは当たり前だわ,So it's only reasonable that I put in this much effort.
 0000000000000,プロデューサー,"それでもすごいものはすごいじゃないか
 どうしてそんなに自分に厳しくなれるんだ？","Still, what you do is incredible. Why are you so
-relentless towards yourself?"
+harsh on yourself?"
 1013001020140,夏葉,"……私は大きなことを
 成し遂げる人間になりたいの",...I want to be a person who does great things.
 1013001020150,夏葉,"誰よりも頑張ってアイドルのトップになることで、
-私はそんな未来の私に近づける気がしているのよ","And I can feel as I approach my future self, I can be
-the idol who worked harder than anyone else to reach
-the top."
+私はそんな未来の私に近づける気がしているのよ","By working harder than anyone else to become
+the top idol, I feel like I'm approaching my future self."
 0000000000000,プロデューサー,"（熱いな……夏葉のこの気持ちがきっと報われるように
 俺も気合いを入れてサポートしていこう）","(I can feel her burning passion... I'll do whatever I can
 to match her fervor and see that she's rewarded for
@@ -96,16 +95,16 @@ could be doing if I'm trying to reach the top."
 そこは俺がしっかり見守っていこう）","(...She's earnest, but I'm just worried that she's being
 a bit excessive. Best to keep watching over her.)"
 1013001020220,夏葉,"隙間時間を使って電車の移動中につま先立ちをするとか、
-立ったまま、かかとを上げ下げするのもいいし……","Moments when you're, say, on the train, you can
-stand up on your tiptoes. From there, you can do
-try lifting and lowering your heels."
+立ったまま、かかとを上げ下げするのもいいし……","If there's moments when you're, say, on the train,
+you can stand up on your tiptoes. From there,
+you can try lifting and lowering your heels."
 1013001020230,夏葉,"それに普段の姿勢をぴんと美しく保つことを
 心がけるだけでも筋肉の付き方は変わってくるのよ","And just keeping your posture nice and straight
 affects how you build muscles."
 1013001020240,夏葉,"……と、ひとまずこんなところにしておくけど
-これでわかったかしら？","...Which is where I'm going to stop for now. Were you
-able to get all of that?"
-0000000000000,プロデューサー,なるほど。すごく考えられてるんだな,I think I did. You've really thought this all through.
+これでわかったかしら？","...I'll stop there for now. Were you able to get all
+of that?"
+0000000000000,プロデューサー,なるほど。すごく考えられてるんだな,I think I did. You've really thought all this through.
 1013001020250,夏葉,"たとえ隙間時間と言っても
 トレーニングの可能性は無限なのよ！","Though I only gave you one example, the opportunities
 one has to exercise are endless!"
@@ -126,4 +125,4 @@ what happens when you put in the work.)"
 俺も全力で支えていこう）","(Alright, I'll have to watch myself if I ever want to
 reach that level of consistency.)"
 info,produce_events/101300102.json,
-译者,,
+Translator,,

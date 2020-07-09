@@ -24,7 +24,10 @@ id,name,text,trans
 1005002010070,摩美々,"えー？
 私、そんなことするように見えますかぁ？",Ehh?\nDo I look like the kind of person to do that?
 1005002010080,摩美々,でも……ふふっ,But... Fufu～
+1005002010090,摩美々,似たような人、私も知ってますー,I think I know someone like that～
+1005002010100,摩美々,"誰かのことを自分のことみたいに、
+怒ったり、笑ったり、信じたり……","A person who, for someone like me,\nwould scold them, smile for them,\nbelieve in them..."
 1005002010110,摩美々,"……他にもいるんですねー
-暑苦しい人っていうのは","… There's another one, huh～\nSomeone who knows how to fire you up."
-info,produce_events/100500211.json,
-译者,Peach,
+暑苦しい人っていうのは","… There's another one, huh～\nSomeone who can fire you up."
+info,produce_events/100500201.json,
+Translator,Peach,

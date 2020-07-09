@@ -13,18 +13,17 @@ You always stay late here. What are you doing?"
 お腹空かないんですかぁ？","You keep working late like this
 so don't you ever get hungry?"
 0000000000000,プロデューサー,"まぁ、そろそろ甘いものが欲しくなる時間帯──というか
-もしかして摩美々、お腹が空いてるのか？","Well, it's almost time for me to get something sweet I guess. Say,
-could it be that you're feeling hungry right now, Mamimi?"
+もしかして摩美々、お腹が空いてるのか？","Well, it's almost time for me to get something sweet\nI guess. Say, could it be that you're feeling hungry\nright now, Mamimi?"
 2005004020060,摩美々,"私は別に空いてないですケド
 でもプロデューサーが何か食べたいなら──","I'm not really hungry though.
-But, if there's something you'd like to eat, then maybe."
+But, if there's something you'd like to eat,\nthen maybe."
 0000000000000,プロデューサー,"あれ……？　ちょっと待ってくれ
 なんだか上手く話が流されてる気がする","Huh? Hold on.
-I feel like you're really steering the conversation in a certain direction."
+I feel like you're really steering the conversation in a\ncertain direction."
 2005004020070,摩美々,……ちっ,Tch.
 0000000000000,プロデューサー,し、舌打ち……！？,D-Did you just click your tongue!?
 0000000000000,プロデューサー,"摩美々……やっぱり何か隠してるんだな……？
-そのノートに一体何が……","Mamimi, you're hiding something, don't you?
+そのノートに一体何が……","Mamimi, you're hiding something, aren't you?
 What exactly is in that notebook?"
 2005004020080,摩美々,"……別にー
 ただの授業で使ってるノートですよー","Nothing.
@@ -93,15 +92,15 @@ What could that be?)"
 Do you really think I'd fall for such a simple trick?"
 0000000000000,プロデューサー,"くっ……そうか……
 じゃあ……それは何の教科のノートなんだ？","Tch... Okay.
-So, which subject is that notes for?"
-2005004020220,摩美々,……化学のノートでーす,Chemistry
+So, what subject are the notes for?"
+2005004020220,摩美々,……化学のノートでーす,Chemistry.
 0000000000000,プロデューサー,ダウト！！,I doubt it!
 2005004020230,摩美々,……え,Eh?
 0000000000000,プロデューサー,"それが化学のノートであるはずはない
 なぜなら……","There's no way that that's for chemistry.
 After all,"
 0000000000000,プロデューサー,"摩美々は化学式のびっしり書かれたノートを見て
-あんなに嬉しそうな顔はしないからな！","You wouldn't look so happy
+あんなに嬉しそうな顔はしないからな！","you wouldn't look so happy
 going over chemical formulas!"
 2005004020240,摩美々,……！,......!
 2005004020250,摩美々,"……わ、私
@@ -115,11 +114,11 @@ Now I'm feeling sorry...)"
 I'm sorry for trying to look at it without asking you first."
 2005004020260,摩美々＆プロデューサー,…………,......
 2005004020270,摩美々,"……このノート、
-ファンの子からの寄せ書きなんですー","This is a messages
-collection I got from a fan."
+ファンの子からの寄せ書きなんですー","This is a collection of messages I got
+from the fans."
 0000000000000,プロデューサー,"──えっ！　……そうだったのか
 摩美々がファンからのノートで……うんうん","Eh? I see now.
-It's from one of your fans. Yes."
+It's from the fans... I see!"
 2005004020280,摩美々,"プロデューサー……顔、緩みすぎですよー
 ……ふふー","Producer... You're grinning from ear to ear.
 Fufu."
@@ -155,4 +154,4 @@ Isn't that nice, Mamimi! You have to cherish that!"
 And I would never open it again here in the office."
 2005004020370,摩美々,はぁ……無駄に疲れましたぁ……,Haa... That was pointlessly tiring...
 info,produce_events/200500402.json,
-译者,,
+Translator,,

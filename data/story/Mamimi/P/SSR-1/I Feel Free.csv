@@ -47,7 +47,8 @@ You even ordered for me...)"
 Thank you!"
 2005004030080,摩美々,"……改まってなんですかぁ？
 いつまでも立ってないで、早く座って食べましょー","Why so serious all of a sudden?
-Don't just stand there, sit down already so that we can eat."
+Don't just stand there,
+sit down already so that we can eat."
 2005004030090,摩美々,ほら……カレードリア、冷めちゃいますよー,"Come on, the curry doria's gonna be cold."
 0000000000000,プロデューサー,"はは、そうだな
 それじゃあ、いただきます──","Haha, right.
@@ -62,7 +63,8 @@ Another great reaction for today from you, huh."
 こら、ま、ゲホッ……摩美々ー！！","Is this... tabasco!?!
 Hey, Ma― *cough* MAMIMI!"
 2005004030110,摩美々,"ダメですよー？　お店で騒いじゃ……
-お客様、静かにしてくださぁい","Now, now. No causing a riot while inside the restaurant.
+お客様、静かにしてくださぁい","Now, now.
+No causing a riot while inside the restaurant.
 Sir, please do keep it down."
 0000000000000,プロデューサー,ぐっ……,Grr...
 0000000000000,プロデューサー,"……しかし
@@ -72,13 +74,13 @@ here looks good."
 0000000000000,プロデューサー,"摩美々、そろそろ出ようか
 ──あれ、伝票がない","Mamimi, how about we leave now?
 Hmm? I can't see our chit."
-2005004030120,摩美々,お会計なら、もう終わってますよー,"If it's the bill you're looking at, it's already been paid for."
+2005004030120,摩美々,お会計なら、もう終わってますよー,"If it's the bill you're looking for, it's already been paid\nfor."
 0000000000000,プロデューサー,"えっ……
 摩美々が払ったのか？","Huh?
 Did you pay for it, Mamimi?"
 2005004030130,摩美々,正確には払ってもらった、ですかねー,"More accurately, I got it paid by someone else."
 0000000000000,プロデューサー,？　一体誰に……,Just by who exactly?
-2005004030140,摩美々,……『上様』ですねー,"...""The customer""."
+2005004030140,摩美々,……『上様』ですねー,"...""Our patron""."
 0000000000000,プロデューサー,はは……ちゃっかりしてるなぁ,"Haha, quite cheeky."
 0000000000000,プロデューサー,"……だけど、ファミレスでこの金額か……
 これははづきさんに怒られるなぁ","Still, spending this much at a diner...
@@ -96,10 +98,11 @@ I guess it can't be helped this time..."
 だから、そういう気持ちは素直に受け取ること！","This doesn't mean that I am spoiling you.
 Which is why, I'm going to accept this."
 0000000000000,プロデューサー,"あと、指でクリームをすくうのも行儀が悪いぞ
-もうやっちゃ駄目だからな","And also, it's bad manners licking the cream off using your fingers.
+もうやっちゃ駄目だからな","And also, it's bad manners licking the cream off using
+your fingers.
 You shouldn't be doing that."
 2005004030170,摩美々,"ふふー
 ……はぁい","Fufu...
 Okay."
 info,produce_events/200500403.json,
-译者,,
+Translator,,

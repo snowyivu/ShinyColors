@@ -46,8 +46,9 @@ It just really became a pain."
 You must do it seriously until the end, Mamimi."
 1005001030080,摩美々,"今日のレッスンは完璧ですからぁ、
 別に、同じところ繰り返さなくても大丈夫ですよー？","Today's lesson went perfectly, 
-so there's no point in repeating the same things again and again, right?"
-1005001030090,摩美々,それとも、やらないと駄目な理由があるんですかぁ？,Or is there any other reason to keep doing it?
+so there's no point in repeating the same things
+again and again, right?"
+1005001030090,摩美々,それとも、やらないと駄目な理由があるんですかぁ？,Or is there some other reason to keep doing it?
 select,,"摩美々なら
 もっと上を目指せる","If it is Mamimi, 
 you can aim higher"
@@ -149,4 +150,4 @@ Should we scrap that idea and continue as we are now?"
 繰り返しやってみますねー","Yeees. From now on, I'll figure out how not to get bored,
 and try it all over again."
 info,produce_events/100500103.json,
-译者,,
+Translator,,

@@ -1,14 +1,14 @@
 id,name,text,trans
 0000000000000,プロデューサー,おはよう、摩美々！,"Good morning, Mamimi!"
 1005001000210010,摩美々,あ……,Ah...
-1005001000210020,摩美々,プロデューサー、はいポーズ,"Producer, make a pose."
+1005001000210020,摩美々,プロデューサー、はいポーズ,"Producer, pose."
 select,,ピース！　んっ！？,Peace! Nn!?
 select,,なんでいきなり？,Why so suddenly?
 select,,変顔しようか？,"Should I make a 
 funny face?"
 1005001000210030,摩美々,驚かせちゃいましたぁ？,Were you surprised?
 1005001000210040,摩美々,"私もノってくれるプロデューサーに、
-ビックリしましたけどねー",I was also surprised by Producer playing along with me.
+ビックリしましたけどねー",I was also surprised by Producer playing along with\nme.
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1005001000210050,摩美々,"朝からいい顔をしてたのでー、
 これは残しておかないと、って思ったんですー","You've hand a nice expression since this morning, 
@@ -20,4 +20,4 @@ so I thought I had to preserve it."
 1005001000210080,摩美々,普通の写真がいいかな……,A normal photo would have been fine...
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
 info,produce_communications/100500100021.json,
-译者,,
+Translator,,

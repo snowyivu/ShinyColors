@@ -1,0 +1,14 @@
+id,name,text,trans
+6005002010010,摩美々,"──っ…………こほっ
+……んん……",ーーUgh...\nCough cough...\nUnnn...
+0000000000000,プロデューサー,……摩美々、具合は大丈夫か？,"... Mamimi, are you feeling alright?"
+6005002010020,摩美々,"はいー
+ご心配おかけしましたぁ",Yeahー\nI apologize for making you worry.
+0000000000000,プロデューサー,喉の方も治ったか？,"How about your throat, is it feeling better?"
+6005002010030,摩美々,"ぼちぼちですかねー……
+薬も飲みましたんでー……",A little bit...\nI took some medicine....
+0000000000000,プロデューサー,"そうか……まだ本番が控えてるんだ
+あまり無理しないようにな","Well... This is just a rehearsal, so take it easy\nand don't overextert yourself."
+6005002010040,摩美々,……はぁい,... Okayー
+info,produce_events/600500201.json,
+Translator,Peach,
