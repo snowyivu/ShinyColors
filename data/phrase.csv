@@ -171,8 +171,8 @@ common.produceItem,プロデュースアイテム,Produce Item
 common.staffItemPoint,はづきさんシール,Hazuki Jewel
 common.ticketNum,%{num}枚,%{num}
 commonMenu.bannerListTitle,キャンペーン一覧,Campaign List
-commonMenu.fesIdolLimit.title,フェスアイドル所属上限,Fes Idol Limit
-commonMenu.fesIdolLimit.text,これ以上フェスアイドルを所属させられません\nフェスアイドル詳細画面から移籍を行ってください,You can't add any more Fes Idols to your list.\r\nPlease transfer some idols from the idol details screen.
+commonMenu.fesIdolLimit.title,フェスアイドル所属上限,FES Idol Limit
+commonMenu.fesIdolLimit.text,これ以上フェスアイドルを所属させられません\nフェスアイドル詳細画面から移籍を行ってください,You can't add any more FES Idols to your list.\r\nPlease transfer some idols from the idol details screen.
 commonMenu.produceRetire.title,プロデュース終了,Retire Early
 commonMenu.menuPop.title,メニュー,Menu
 commonMenu.backToTitleConfirm.title,タイトルへ戻る,Return to Title
@@ -316,7 +316,7 @@ evolution.complete.title,特訓結果,Evolve Result
 evolution.complete.comment,特訓が完了しました！,Evolution Complete!
 evolution.costumeRelease.first,最大まで特訓したことによって\n,By evolving to the maximum\r\n
 evolution.costumeRelease.second,の衣装に\n変更可能になりました！,s costume\r\nwill be unlocked!
-fes.top.title,フェス,Fes
+fes.top.title,フェス,FES
 fes.top.scoreTitle,現在のスコア,Current Score
 fes.top.rankingTitle,グレード内順位/,Grade Pos
 fes.top.score,%{value}pt,%{value}pt
@@ -1205,7 +1205,7 @@ extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.5
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.6,B賞：ゲーム内アイテム『1.5 Anniversary P-SSRセレクションチケット×１』：100名様,B賞：ゲーム内アイテム『1.5 Anniversary P-SSRセレクションチケット×１』：100名様
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.7,※A賞とB賞は重複して当選いたしません。,※A賞とB賞は重複して当選いたしません。
 extraCampaign.application.applicationAgreementDialog.body.items.2.descriptions.8,※A賞とB賞どちらも応募していた場合でも、A賞に当選した時点でB賞の当選資格を失いますのでご了承ください。,※A賞とB賞どちらも応募していた場合でも、A賞に当選した時点でB賞の当選資格を失いますのでご了承ください。
-extraCampaign.application.applicationAgreementDialog.body.items.2.title,プレゼントの内容,プレゼントの内容
+extraCampaign.application.applicationAgreementDialog.body.items.2.title,プレゼントの内容,Present's Contents
 extraCampaign.application.applicationAgreementDialog.body.items.3.descriptions.1,2019年7月31日(水)15：00～2019年8月31日(土)23：59まで,2019年7月31日(水)15：00～2019年8月31日(土)23：59まで
 extraCampaign.application.applicationAgreementDialog.body.items.3.descriptions.2,※応募期間終了後、応募先の変更はできませんのでご了承ください。,※応募期間終了後、応募先の変更はできませんのでご了承ください。
 extraCampaign.application.applicationAgreementDialog.body.items.3.title,応募期間,Entry Period
