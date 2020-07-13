@@ -1,0 +1,88 @@
+id,name,text,trans
+1019001050010,愛依,みんな、今日は、ありがと,"Everyone, thanks for today."
+1019001050020,愛依,また、次のライブで。楽しみにしてるから,I'm looking forward... to the next live.
+1019001050030,愛依,……,......
+1019001050040,愛依,ふぅ……,Hm...
+0000000000000,プロデューサー,"よし、調子は万全みたいだな！
+まだ心配なところとかあったりするか？","Yes, your style looked flawless! Are you still anxious at all?"
+1019001050050,愛依,"サンキュ、プロデューサー
+今までちょー練習したし、ダイジョブそー！","Thank you, Producer. Because of all the practice we did, I'm A-OK!"
+0000000000000,プロデューサー,わかった、じゃあ後は出番が来るまで待とう,"Got it, well then we've got to wait a moment before your turn."
+0000000000000,プロデューサー,"それにしても愛依
+こんな短時間で仕上げてくるとは思わなかったよ","All things considered, Mei. I didn't expect you to be so polished in such a short amount of time."
+1019001050060,愛依,プロデューサーが色々考えてくれたおかげっしょ,"It's thanks to all the tricks you came up with, y'know."
+1019001050070,愛依,うちだけじゃ……マジありえなかったし,If it was just me... it'd be totally impossible.
+0000000000000,プロデューサー,"いや、俺は手伝っただけだよ
+愛依の努力があってこそだ","No, I just assisted you. It's thanks to your hard work."
+1019001050080,愛依,"まーたそーいうこと言う～
+でも確かに、うちもちょっとは頑張った系～","There you go saying that again～ But, for sure, I definitely gave it my all～"
+1019001050090,愛依,"だって、せっかくプロデューサーが考えてくれた作戦
+成功させないとかありえないっしょ？","After all, since you took the time to come up with the strategy, I couldn't let it fail, right?"
+0000000000000,スタッフ,そろそろ出番になりますので、準備お願いします,"Your turn is coming up, please get ready."
+1019001050100,愛依,"じゃあ、プロデューサー
+ビシッと決めてくんね！","Alright, Producer. Let's finish strong!"
+0000000000000,プロデューサー,おう、行ってこい！,"Right, let's go!"
+1019001050110,愛依,……！,...!
+0000000000000,プロデューサー,"よし、パフォーマンスも練習の成果がしっかり出ている
+あとは……","Alright, the results of her practice are showing in the performance..."
+1019001050120,愛依,みんな、ありがとう,"Everyone, thank you."
+1019001050130,愛依,次の曲、行くよ……！,Let's head into... the next song...!
+1019001050140,愛依,ありがとう,Thanks.
+1019001050150,愛依,じゃ、最後までついて来て……！,"So, stay with me until the end...!"
+0000000000000,プロデューサー,愛依！　お疲れ様！　すごかったぞ！,Mei! Congratulations! That was amazing!
+1019001050160,愛依,……ふぅ,...whew.
+1019001050170,愛依,"マジ、ちょーヤバかった～！
+緊張しすぎて心臓バクバクだったわ～",That was seriously totally wild～! I was so nervous my heart was gonna burst out of my chest～!
+1019001050180,愛依,うち、どーだった？　いーカンジに出来てた？,How did I do? Did I give off a good impression?
+select,,"しっかりと
+できていた","You did it
+thoroughly."
+select,,みんな驚いてた,"You astonished
+everyone."
+select,,"今、いい表情
+してるぞ","You're making a
+great face now."
+1019001050190,愛依,マジで？　うち、必死だったからあんま覚えてないんだけど,Seriously? I don't even remember much because it felt like I was on the brink of death.
+0000000000000,プロデューサー,"じゃあ、後で映像を見返してみよう
+自分でも驚くんじゃないか？","Well then, we'll have to go and look back at the recording. Will you surprise yourself?"
+1019001050200,愛依,え？　そんなにだった？,Eh? We'll do that?
+0000000000000,プロデューサー,ああ、そんなにだった,"Yeah, we will."
+1019001050210,愛依,……よっしゃ～！,...alright～!
+0000000000000,プロデューサー,"愛依、本当によくやった
+これなら本番も絶対に大丈夫だ","Mei, you really did a great job. You'll definitely be fine in performances from now on."
+1019001050220,愛依,"うん！
+なんかうち、失敗する気しないんだよね！","Mhm! Somehow, it doesn't feel like I can fail any more!"
+1019001050230,愛依,"やっぱ、プロデューサーの作戦のおかげっしょ
+ホント、サンキュね！","After all, I'm blessed with Producer's strategy! Really, thank you!"
+1019001050240,愛依,マジ？　そういえば何か聞こえたかも……？,Seriously? Now that you mention it I might have heard something...?
+0000000000000,プロデューサー,"ああ
+みんな思わず声をあげてたくらいだ",Yeah. Everyone was gasping.
+1019001050250,愛依,ヤバ！　ちょー嬉しいんだけど……！,Woah! That makes me pretty happy...!
+0000000000000,プロデューサー,それからな、もうひとついいことがあったぞ,"After that, something else good happened."
+1019001050260,愛依,え、なになに？　早く教えてほしいんだけど！,"Eh, what was it? Hurry up and tell me already!"
+0000000000000,プロデューサー,"実はな、この前の人も見ていたらしいんだ
+今日のリハ","Well the truth is, it was that person from before that you overheard at the rehearsal."
+1019001050270,愛依,……！　あの時の……,...! From then...
+0000000000000,プロデューサー,"ああ、愛依のパフォーマンスの後
+俺のところに来てくれてな","Yeah, they came to me after your performance."
+0000000000000,プロデューサー,"『同じ子とは思えないくらいすごかった』
+って言ってくれたぞ","""She's so amazing I can't even believe it's the same girl"" is what they said."
+1019001050280,愛依,よっ……しゃ！　見返せたじゃん！！,Hell... yeah!!! I totally proved them wrong!!
+1019001050290,愛依,"やっぱ、あのまんまじゃ悔しくない？
+いつかリベンジしたいって思ってたんだよねー","Still, I don't regret it. It made me want to succeed where I failed before y'know?"
+0000000000000,プロデューサー,達成できたな,You realized it.
+0000000000000,プロデューサー,これからもっと、愛依の魅力を知ってもらわないとな,From now on we'll have to show the fans even more of your charm.
+1019001050300,愛依,えっ、いい表情って……うちが？,"Eh, making a great face... me?"
+0000000000000,プロデューサー,"ああ、それが答えなんじゃないか？
+上手くできたか、どうかのな","Yeah, isn't that your answer? As to whether or not it went well."
+1019001050310,愛依,そっか……！,I see...!
+1019001050320,愛依,でも確かに、うちの胸の中……なんかヤバいんだよね,But inside my chest is definitely... kinda going crazy.
+1019001050330,愛依,"上手く言えないけど
+これが、アイドルってことなんかな？","I can't really express it but, is this what it's like to be an idol?"
+0000000000000,プロデューサー,うん、きっとそうだ,"Mhm, most definitely."
+1019001050340,愛依,"えっへへ、そっかぁー
+うちって、ゲーノー人じゃなくてアイドルなんだよね","Ehehe, I see! I'm not really a celebrity, but an idol, huh?"
+0000000000000,プロデューサー,"ああ
+どこに出しても恥ずかしくない、立派なアイドルだ",Yeah. You're a splendid idol I wouldn't be embarassed to show off anywhere.
+info,produce_events/101900105.json,
+Translator,,

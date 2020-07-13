@@ -1,0 +1,22 @@
+id,name,text,trans
+4013001000210010,夏葉,ふぅ……この緊張感は気持ちいいものね……,"Phew... This tension feels great, doesn't it..."
+0000000000000,プロデューサー,"(堂々としていて頼もしいな……
+よし、気合を入れてやる気を高めるぞ)",(Her confidence is pretty promising... Let's pump her up with some words of encouragment.)
+select,,"今回も全力で
+勝ちに行こう！","Let's go and
+sweep this round!"
+select,,いい表情だ,"That's a good
+expression."
+select,,リラックスしよう,"Let's try 
+and relax."
+4013001000210020,夏葉,"ええ、プロデューサーのお陰でさらに燃えてきたわ
+結果を楽しみにしていてちょうだい！","Indeed. Thanks to you, I've gotten even more fired up. Look forward to the results of this audition."
+0000000000000,プロデューサー,(よし、いいカンジだぞ！),"(Alright, I've got a good feeling about this!)"
+4013001000210030,夏葉,"そう？　……ふふっ、ありがとう
+おかげでいつも通りやれそうよ","Really? ...Fufu, thank you. Now I know I'll be able to do just as well as before."
+0000000000000,プロデューサー,(この様子だと、心配は無用だな),(I don't think there's anything to worry about
+4013001000210040,夏葉,"そんなに緊張しているように見えたの？
+うーん、もっと表情に気を付けるべきかしら","Do I really look that nervous? Hmm, maybe I should be more careful of my expression."
+0000000000000,プロデューサー,(夏葉にはあまり効果のないアドバイスだったか……),(This kind of advice doesn't seem to be effective to Natsuha...)
+info,produce_communication_cheers/401300100021.json,
+Translator,,

@@ -1,0 +1,50 @@
+id,name,text,trans
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,"So we really weren't able to participate, huh?"
+7901001080010,はづき,"……不参加って連絡が来たとき、
+聞き間違いかと思いました","...I thought I had misheard them
+when they told me she didn't qualify."
+7901001080020,はづき,"私には、どうして彼女が参加できないのか
+ちっともわかりません……！","I seriously don't understand 
+why she couldn't get in...!"
+7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
+受け入れるより他にあるまい","I understand how you feel, 
+but... these are the results.
+We have no choice but to accept them."
+7901001080030,はづき,"……私、きっとあの子のファンだったんですね
+だからこの結果が、悔しくてたまらないんです……","...I really was a fan of hers. 
+That's why I'm so frustrated by these results..."
+0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
+誰よりも彼女のファンでしたから","Me too. As her producer, 
+I was a fan of her more than anyone else."
+0000000000000,プロデューサー,"……社長
+俺、彼女に会いに行ってきます","...President. 
+I'm going to go see her now."
+7902001080020,社長,ああ、そうするといい,"Yes, you should go do that."
+0000000000000,プロデューサー,"すまない、千雪……俺の力不足だ
+『W.I.N.G.』には、出られない","I'm sorry, Chiyuki...
+We couldn't get into W.I.N.G. It's all my fault."
+7016001080010,千雪,"そうですか……
+ふふ、そうなんですね","Is that so...
+Fufu, I guess that's it then."
+7016001080020,千雪,"でも、プロデューサーさんの力不足だなんてお言葉は、
+頷けないです","However, I just can't agree with you, Producer-san.
+It's not your fault."
+0000000000000,プロデューサー,いや、千雪にはまったく非がないからな,"No, it is my fault. 
+You didn't do anything wrong, after all."
+7016001080030,千雪,"いえ……きっと何か、
+足りないところがあるんだと思います","That's not true...
+I'm sure there was something that I was lacking."
+7016001080040,千雪,"ふぅ～……
+でも、不思議です……","Phew～...
+However, it really is strange..."
+7016001080050,千雪,私、悔しいって思ってるんだなって,I can't help but think that this is really frustrating.
+0000000000000,プロデューサー,無理をしなくて、いいんだぞ？,"Don't be too hard on yourself, okay?"
+7016001080060,千雪,"ありがとうございます
+でも、大丈夫です","Thank you.
+I'm fine, though."
+7016001080070,千雪,"すっごく悔しいですし
+みなさんに、申し訳ないですけど……","I'm extremely frustrated,
+and I feel bad for letting everyone down, but..."
+7016001080080,千雪,笑顔だけは、忘れたくないですから,I don't want to forget everyone's smiling faces.
+info,produce_events/701600108.json,
+Translator,Tuna/Doodle,

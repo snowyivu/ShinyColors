@@ -1,0 +1,22 @@
+id,name,text,trans
+4013001000220010,夏葉,"いち、にっ……と……あら、表情が硬いわよ？
+私のこと、心配してくれてるのかしら？","One, two... and... Oh, aren't you a little tense? Could it be that worried for me?"
+0000000000000,プロデューサー,(夏葉は余裕そうだな……どう答えよう……),(Natsuha looks completely relaxed... How should I answer...)
+select,,夏葉なら心配ない,"There's nothing to
+worry about you."
+select,,"いつだって
+心配はしてるさ","Well, I'm always
+worried about you."
+select,,油断大敵だ,"We can't get
+careless."
+4013001000220020,夏葉,"ふふっ、ありがとう
+必ずその期待に応えるわ！","Fufu, thank you. I'll be sure to live up to those expectations!"
+0000000000000,プロデューサー,(夏葉から、確かな自信を感じるな),(I can feel Natsuha exude an air of confidence.)
+4013001000220030,夏葉,"私ってそんなに信頼されてない？　……なんてね
+それもアナタの仕事だもの、分かっているわ",Do you have that little faith in me? ...I'm only kidding. I know that it's a part of your job to worry.
+0000000000000,プロデューサー,(夏葉の返事からも余裕がうかがえるな……),(Even her answer was relaxed.)
+4013001000220040,夏葉,"分かっているわ
+いつだって、全力を尽くすだけよ",I'm aware. I always use every last bit of energy I have.
+0000000000000,プロデューサー,(聞くまでもないことだったな……),(That's something that goes without saying...)
+info,produce_communication_cheers/401300100022.json,
+Translator,,

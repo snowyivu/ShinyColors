@@ -1606,3 +1606,55 @@ produceAction.maxInspirationDialog.description1,ひらめきが最大獲得数�
 produceAction.maxInspirationDialog.description2,ひらめきが獲得できません,and further Inspiration cannot be gained
 produceAction.maxInspirationDialog.descriptionActions.lesson,「レッスン」を行いますか？,Perform the Lesson?
 produceAction.maxInspirationDialog.descriptionActions.work,「お仕事」を行いますか？,Perform the Job?
+filter.title,絞り込み,Filter
+filter.subTitle.supportSkill,絞り込みサポートスキル選択,Filter Support Skill Selection
+filter.categories.idol,アイドル,Idol
+filter.categories.fesIdolMark,フェスアイドルマーク,FES Idol Mark
+filter.categories.trueEnd,True End ミッション,True End Mission
+filter.categories.commu,コミュ,Commu
+filter.categories.commuIgnoreTrueEnd,コミュ（True End 除く）,Commu (Except True End)
+filter.categories.ideaMark,アイデアマーク,Idea Mark
+filter.categories.inspiration,ひらめき,Inspiration
+filter.categories.comicType,種類,Type
+filter.categories.comicOther,その他,Other
+filter.categories.supportSkill,サポートスキル,Support Skill
+filter.categories.idolArrivalType,登場種類,Arrival Type
+filter.categories.liveSkill,ライブスキル,Live Skill
+filter.cautions.fesIdolMark,アイドル詳細から好きなアイドルマークを設定できます,Look at the idol details and select an idol mark you like.
+filter.cautions.ideaMark,ファン感謝祭編の専用パラメータです,A parameter used in TFD mode.
+filter.cautions.inspiration,G.R.A.D.編の専用パラメータです,A parameter used in G.R.A.D. mode.
+filter.cautions.supportSkill,条件をひとつでも満たしているサポートスキルが絞り込まれます,Narrows down to cards that have at least one support skill.
+filter.cautions.liveSkill,チェックした条件をすべて満たすライブスキルが絞り込まれます,Narrows down to cards that meet all the live skill conditions.
+filter.texts.achieved,達成済み,Achieved
+filter.texts.notAchieved,未達成,Unachieved
+filter.texts.unread,未読あり,Unread
+filter.texts.ideas.vocal,ボーカル,Vocal
+filter.texts.ideas.visual,ビジュアル,Visual
+filter.texts.ideas.dance,ダンス,Dance
+filter.texts.ideas.mental,トーク,Talk
+filter.texts.ideas.skillPoint,アピール,Appeal
+filter.texts.supportSkill.includesUnacquired,未習得のサポートスキルも含む,Include unlearned support skills
+filter.texts.supportSkill.skill,スキル%{num},Skill%{num}
+filter.texts.supportSkill.notSet,未設定,Unset
+filter.texts.supportSkill.all,すべて,All
+filter.texts.liveSkill.includesUnacquired,未解放のライブスキルも含む,Include locked live skills
+filter.emptyMessage,該当するアイドルがいません。,There are no applicable idols.
+temp.supportEvent,サポートイベント,Support Event
+temp.produceEvent,プロデュースイベント,Produce Event
+concert.statusEffect.timesAndTurn,残り%{leftTurn}ターン\n残り%{remainTimes}回,%{leftTurn} turns left\%{remainTimes} times
+gameEvent.playPrologueDialog.title,シナリオ再生確認,Confirm scenario playback
+gameEvent.playPrologueDialog.text,%{name}\n%{title}\nを再生しますか？,Watch %{name}\n%{title}?
+gameEvent.specialCommunicationsRemainingPlayCount,本日のプレイ回数：残り%{count},Today's remaining plays: %{count}
+idolList.emptyMessages.fesIdolEdit,所持しているアイドルがいません。,There are no owned idols.
+idolList.emptyMessages.produceReady,所持しているアイドルがいません。,There are no owned idols.
+idolList.emptyMessages.idolList,所持しているアイドルがいません。,There are no owned idols.
+idolList.emptyMessages.training,所持しているアイドルがいません。,There are no owned idols.
+idolList.emptyMessages.evolution,特訓可能なアイドルがいません。,There are no idols that can be evolved.
+idolList.emptyMessages.workActivity,所持しているアイドルがいません。,There are no owned idols.
+option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,サポートアイドルスキルカットイン\n発生時に早送り解除
+option.homeContent.title.conversation,アイドル同士の会話,Conversations between idols
+idolDetail.skill.acquisitionLevel,Lv.%{level}で習得,Learned at Lv.%{level}
+produceHeader.concertSeason.fanMeeting,感謝祭,TFD
+profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,名前を変更するには、enza連携が必要です
+profile.pfAccountRecommendTwoLines,名前を変更するには\nenza連携が必要です,名前を変更するには\nenza連携が必要です
+trend.staffComment,流行の結果にあわせて、\nオーディションを受けてみてください♪,流行の結果にあわせて、\nオーディションを受けてみてください♪

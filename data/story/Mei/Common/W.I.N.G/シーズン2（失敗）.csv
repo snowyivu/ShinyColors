@@ -1,0 +1,34 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since she was able to pass the first round of judging, she'd be able to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is very relentless, isn't it..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","However, these results aren't bad for a new idol and new producer."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！","But I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Okay, go ahead."
+7019001040010,愛依,そっか……,I see...
+0000000000000,プロデューサー,"……ああ、さっき結果が届いてな
+二次審査、通らなかったんだ","...yeah, I just received the results.
+You didn't pass the second inspection."
+7019001040020,愛依,やっぱり、うちが失敗したから……,So I failed after all...
+0000000000000,プロデューサー,いや、それとこれとは別の問題だ,"No, this is a different problem."
+0000000000000,プロデューサー,"でも、すまない、愛依
+俺がもっと早くに対策をしていれば","But I'm sorry, Mei. I should have come up with a plan quicker."
+7019001040030,愛依,"プロデューサーは悪くないっしょ
+うちがもっと上手くやれてればよかったワケだし……",It's not your fault Producer. I wish I could have done better...
+7019001040040,愛依,プロデューサー、挽回、できるかな？,"Producer, can I recover from this?"
+0000000000000,プロデューサー,"ああ、きっと大丈夫だ
+だからこれからも頑張っていこう","Yeah, you'll be just fine. So let's do our best from now on."
+7019001040050,愛依,"……へこんでたらうちらしくないもんね！
+サンキュ、プロデューサー","...It's not like me to give up! Thank you, Producer."
+7019001040060,愛依,これからもヨロシク！,Please continue to take care of me!
+info,produce_events/701900104.json,
+Translator,,

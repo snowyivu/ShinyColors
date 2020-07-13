@@ -51,10 +51,13 @@ id,name,text,trans
 2009004010170,果穂,プロデューサーさんはやっぱりスゴいですっ……！,"You really are amazing Producer! "
 2009004010180,果穂,良かったら、また今度あたしに勉強教えてください！,"If you can, please teach me again another time! 
 "
-select,,もちろんだ,Of course
+select,,もちろんだ,Of course.
 select,,"わからないところを
-教えるよ",I'll teach you what you don't understand
-select,,俺も勉強しておくよ,"I'll study with you too. "
+教えるよ","I'll teach you
+what you don't
+understand."
+select,,俺も勉強しておくよ,"I'll study with
+you too. "
 2009004010190,果穂,"わあっ……うれしいですっ！
 あ！　じゃあまた、事務所で宿題してもいいんでしょうかっ","Waaah! I'm so happy! Is it okay if I do my homework again in the office? "
 0000000000000,プロデューサー,ああ、いつでもいいぞ,"Ah, anytime is fine. "
