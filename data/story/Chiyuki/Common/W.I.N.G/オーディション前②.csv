@@ -1,6 +1,6 @@
 id,name,text,trans
 4016001000120010,千雪,"審査員のみなさんにも、ちゃんと笑顔になってほしいんです
-でも、それって難しいことですよね……","I want to make sure the judges smile as well.
+でも、それって難しいことですよね……","I want to make the judges smile, too.
 However, that's going to be difficult to pull off, huh..."
 0000000000000,プロデューサー,（何か、アドバイスをしてあげたほうがいいかな）,(I should probably give her some advice.)
 select,,"千雪も楽しめば
@@ -12,9 +12,7 @@ select,,"あまり考えすぎない
 alright?"
 select,,"雰囲気に呑まれ
 なければ大丈夫","Don't get 
-overwhelmed, 
-and 
-
+overwhelmed, and 
 you'll be fine."
 4016001000120020,千雪,"そうですね……。笑顔、私から広げなきゃ……
 楽しいオーディションになるように、やってみます！","That's true... 
@@ -29,7 +27,7 @@ I'll try my best to be natural!"
 0000000000000,プロデューサー,（まだ少し固いか……）,(She still seems a bit stiff...)
 4016001000120040,千雪,"そうですね、雰囲気に……
 私、緊張しちゃってるのかもしれませんね……","You're right. I can't get overwhelmed...
-I guess I was just working myself up..."
+I guess I was just stressing myself out..."
 0000000000000,プロデューサー,（緊張を煽ってしまったかもしれないな……）,(I seem to have made her even more anxious...)
 info,produce_communication_cheers/401600100012.json,
 Translator,Tuna/Doodle,

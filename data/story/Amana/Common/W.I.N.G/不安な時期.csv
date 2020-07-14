@@ -9,20 +9,19 @@ Alright, one more time!"
 甜花といい、姉妹そろって……すごいな）","(Amana really has been training hard lately...
 Tenka as well. They're really sisters... Amazing.)"
 1014001040030,甘奈,"プロデューサーさん、
-自主練に付き合ってくれて、ありがとー！","Producer, thank you for helping me out with my training!"
+自主練に付き合ってくれて、ありがとー！","Producer-san, thank you for helping me out with my training!"
 0000000000000,プロデューサー,いやいや、プロデューサーならこれくらい当然だよ,"No, no, it's my responsibility to do this. "
 1014001040040,甘奈,ねぇ、今の甘奈どうだったかな？,"Hey, what do you think of me right now?"
 0000000000000,プロデューサー,"上手くできていたよ
-最近は、さらに上達しているな！","You're doing well right now. Lately, it seems you can grow even further!"
+最近は、さらに上達しているな！","You're doing well right now. Lately, it seems you can progress even further!"
 1014001040050,甘奈,"えへ、
 それなら良かったー","Ehe, well then I'm glad～ "
 1014001040060,甘奈,"……あ！
-ねぇねぇプロデューサーさん、聞いて聞いて","...Ah!
-Hey, hey, Producer, listen."
-0000000000000,プロデューサー,ん？　なんだ？,Hm?　What?
+ねぇねぇプロデューサーさん、聞いて聞いて","...Ah! Hey, hey, Producer-san, listen to this."
+0000000000000,プロデューサー,ん？　なんだ？,Hm? What?
 1014001040070,甘奈,"甜花ちゃんのことなんだけど、
-最近、めっちゃ頑張っててね","It's about Tenka, you see. Lately, she's working super hard right now. "
-1014001040080,甘奈,家に帰ってきたらすぐ寝ちゃうんだー,She immediately went to sleep as soon as she's home.
+最近、めっちゃ頑張っててね","It's about Tenka-chan, you see. Lately, she's been working super hard. "
+1014001040080,甘奈,家に帰ってきたらすぐ寝ちゃうんだー,She immediately goes to sleep as soon as she's home.
 1014001040090,甘奈,"そんなになるまでレッスンとか自主練とかして、
 本当にすごいよね！",She must've been doing her best on her lessons and jobs. She's really amazing!
 1014001040100,甘奈,だから、甘奈ももっと頑張らなくちゃーって！,"That's why, I have to work really hard as well!"
@@ -30,20 +29,20 @@ Hey, hey, Producer, listen."
 本当に思っていることがあるなら、言っていいんだぞ","...Amana, if there's something you really wanted to say in your mind, you can say it. "
 1014001040110,甘奈,えっ……何もないよ？,Eh... There's nothing really?
 0000000000000,プロデューサー,"俺の前では無理しなくていいんだ
-何かあるなら、ちゃんと聞くから","You don't really have to say it in front of me.
-If there's anything in your mind, I'll listen to it."
+何かあるなら、ちゃんと聞くから","It's fine if you don't want to say it in front of me.
+But if there's anything on your mind, I'll listen to it."
 1014001040120,甘奈,"……えへへ
-プロデューサーさんに隠し事は、できないね……",",,,Ehehe. I guess I really can't hide it from Producer..."
+プロデューサーさんに隠し事は、できないね……",...Ehehe. I guess I really can't hide it from Producer-san...
 1014001040130,甘奈,"あのね、甜花ちゃんがアイドルになって輝いたら、
-みんな甜花ちゃんのかわいさに気付いてくれるでしょ？","You see, when Tenka becomes an idol and shines bright, surely everyone will notice how cute she really is, right?"
-1014001040140,甘奈,それが甘奈の望みだったはずなんだー,"That's something I really wished for from my heart. "
-0000000000000,プロデューサー,あぁ、オーディションのとき、そう言っていたな,"Aah, you did said something about it in auditions."
-1014001040150,甘奈,それは今でも変わらないはずなのに……,And even though it never really changes until now...
+みんな甜花ちゃんのかわいさに気付いてくれるでしょ？","You see, when Tenka-chan becomes an idol and shines bright, surely everyone will notice how cute she really is, right?"
+1014001040140,甘奈,それが甘奈の望みだったはずなんだー,"That's something I really wished for from the bottom of my heart. "
+0000000000000,プロデューサー,あぁ、オーディションのとき、そう言っていたな,"Mhm, you did mention something about that in your audition."
+1014001040150,甘奈,それは今でも変わらないはずなのに……,And even though that never really changed up till now...
 1014001040160,甘奈,"ホントに甜花ちゃんが輝きはじめたら……
-なんか、怖くなってきちゃった……かも","When the time for Tenka to shine really bright has come... Somehow, it seems so scary for me... maybe."
+なんか、怖くなってきちゃった……かも","When the time for Tenka-chan to shine really bright comes... Somehow, it seems so scary to me... kind of."
 1014001040170,甘奈,"甘奈から離れて、どっか行っちゃいそうって、
-考えちゃうんだ","The thought that she will leave me alone and go somewhere else, is something I thought about. "
-1014001040180,甘奈,ねぇ、プロデューサーさん……どうしよう？,"Hey, Producer... what should I do?"
+考えちゃうんだ","That she will leave me all alone and go somewhere else, is something I thought about. "
+1014001040180,甘奈,ねぇ、プロデューサーさん……どうしよう？,"Hey, Producer-san... what should I do?"
 select,,"甜花は
 甘奈から離れない","Tenka will
 never leave
@@ -52,71 +51,65 @@ select,,甘奈も輝き始めている,"You are also
 shining bright."
 select,,"ふたりの関係は
 変わっていく","The relationship
-between you
-two will change."
+between the two
+of you will change."
 1014001040190,甘奈,そう……かな？,Is... that so?
 0000000000000,プロデューサー,"あぁ、ふたりの絆は揺らがないよ
 それを１番知っているのは、甘奈だろ？","Yeah, the bonds between you two will never waver. Aren't you the person who knows it the best, Amana?"
 1014001040200,甘奈,そうだけど、でも今は……,"That's true, but now..."
 0000000000000,プロデューサー,"甘奈と甜花は今までずっと、他の誰よりも一緒にいたよな
-だからふたりには強い繋がりがある","You and Tenka has always been together, more than anyone else. So of course your bonds are very strong. "
+だからふたりには強い繋がりがある","You and Tenka have always been together, more than anyone else. So of course your bonds are very strong. "
 0000000000000,プロデューサー,"それはこれからも変わらない
 そうだろ？",And that is something that will never change. Right?
 1014001040210,甘奈,"……うん……そうだった
-小さいころから、ずっと知ってたことだったよ","...Yeah... You're right. 
+小さいころから、ずっと知ってたことだったよ","...Yeah... you're right. 
 I've always known that since we were kids. "
 1014001040220,甘奈,"一緒の時間は減っちゃったけど、
-それでも一緒のときは今までと変わってなかったし……","We might've spent less time together lately, but even then, when we're spending together, it's just like the same as usual... "
-1014001040230,甘奈,ずっと、仲良いままだもん,"We're always been good to each other. "
+それでも一緒のときは今までと変わってなかったし……","We might've spent less time together lately, but even then, when we're together, it's the same as usual... "
+1014001040230,甘奈,ずっと、仲良いままだもん,We're as close as ever.
 0000000000000,プロデューサー,"甘奈と甜花は大丈夫だ
-心配なんてしなくていいんだぞ","You two both will be fine. Don't worry too much about it. "
+心配なんてしなくていいんだぞ","You two will be fine. Don't worry too much about it. "
 1014001040240,甘奈,"うん、だよね！　よけいなこと考えないで
-甜花ちゃんと一緒に輝いていく！","Yeah, that's right! Don't think too much about it. I will shine bright together with Tenka!"
+甜花ちゃんと一緒に輝いていく！","Yeah, that's right! Don't overthink it. I'll shine bright together with Tenka-chan!"
 0000000000000,プロデューサー,あぁ、その意気だ！,"Yeah, that's the spirit!"
-1014001040250,甘奈,えへ、プロデューサーさん、ありがとー！,"Ehe, thank you, Producer!"
+1014001040250,甘奈,えへ、プロデューサーさん、ありがとー！,"Eheh, thank you, Producer-san!"
 1014001040260,甘奈,"そう、かな？
-甘奈ね、自分では分かんなくって……","Is that so?
-I'm not really sure about that..."
+甘奈ね、自分では分かんなくって……",Is that so? I'm not really sure about that...
 0000000000000,プロデューサー,"そんなことないさ
-俺には、ふたりとも輝いて見える","That's not true. To me, you two both look shining bright. "
+俺には、ふたりとも輝いて見える","That's not true. To me, I see you two both shining bright. "
 1014001040270,甘奈,"甘奈も、か……
-うん……そうなのかも……","Me too, huh...
-Yeah... I guess so..."
+うん……そうなのかも……","Me too, huh... Yeah... I guess so..."
 1014001040280,甘奈,"ステージの上に立つと楽しいって気持ちだけは
-ずっと最初から変わってないんだ",All I know is that being on stage is really fun. And that feeling never changes even until now.
+ずっと最初から変わってないんだ",All I know is that being on stage is really fun. And that feeling hasn't changed.
 1014001040290,甘奈,"ファンのみんなが支えてくれてるんだって、
-うれしくなるんだ！","And the fans that supported and cheered for me until now, it made me really happy!"
-0000000000000,プロデューサー,ああ、きっとそれが、甘奈を輝かせる原動力なんだな,"Yeah, and that something is what drives Amana to shine even brighter."
+うれしくなるんだ！","And the fans that supported and cheered for me until now, made me really happy!"
+0000000000000,プロデューサー,ああ、きっとそれが、甘奈を輝かせる原動力なんだな,"Yeah, and that something is what drives you to shine even brighter."
 0000000000000,プロデューサー,"そうやってふたりとも輝いていけばいい
 そうすれば、怖くも寂しくもないはずだ","And with you two shining bright together, surely, it won't feel lonely or scary. "
 1014001040300,甘奈,"うん、そうだね！
-これからは、甘奈は甘奈で輝けるようにがんばるよ！","Yeah, that's right!
-From now on, I'll shine bright as much!"
-1014001040310,甘奈,それは、怖い……かも,That sounds... scary... maybe.
+これからは、甘奈は甘奈で輝けるようにがんばるよ！","Yeah, that's right! From now on, I'll do my best to shine as Amana!"
+1014001040310,甘奈,それは、怖い……かも,That sounds... scary... kind of.
 0000000000000,プロデューサー,"……変わるけど、悪い方にはいかないさ
-甘奈が悪い方へ変えないようにすればいいだろ？","...It might changes, but it's not necessarily a bad thing. you don't want it to change into something bad, right?"
+甘奈が悪い方へ変えないようにすればいいだろ？","...It might change, but it's not necessarily a bad thing. It's fine if it doesn't change into something bad, right?"
 1014001040320,甘奈,"でも、甜花ちゃんは輝こうとしているのに、
-甘奈が足を引っ張っちゃったら……","But, if Tenka is trying to shine bright, if I pulled on her legs and fell behind..."
-0000000000000,プロデューサー,だったら、甜花に負けないくらい甘奈も輝けばいい,"That's why, let's make you shine just as bright as Tenka."
+甘奈が足を引っ張っちゃったら……","But, if Tenka-chan is trying to shine bright, if I were to drag her down..."
+0000000000000,プロデューサー,だったら、甜花に負けないくらい甘奈も輝けばいい,"Well then, let's make you shine just as bright as Tenka."
 1014001040330,甘奈,それって……どういう……,What do you... mean by that...
 0000000000000,プロデューサー,甘奈が、甜花のライバルになるってことだ,"It means you are also Tenka's rival. "
 1014001040340,甘奈,"ライバル？
-こんなに仲良しなのに？","Rival?
-Even though we're always go along well together?"
+こんなに仲良しなのに？",Rival? Even though we always get along well together?
 0000000000000,プロデューサー,あぁ、ふたりの仲の良さはそのままでだ,"Yeah, well, you two are still getting along well as usual."
 1014001040350,甘奈,仲良しなのに、ライバル……,"Even though we get along, being rivals..."
 1014001040360,甘奈,"そしたら、甜花ちゃんと一緒に……
-ううん、これからはもっと……！","Then, together with Tenka...
-No, from now on...!"
+ううん、これからはもっと……！","Then, together with Tenka-chan...
+No, even more than before...!"
 1014001040370,甘奈,"えへ、なんかいいかも！
-サイコーに楽しくなりそー","Ehe, maybe that won't be really bad!
-It'll be the best fun we ever had."
+サイコーに楽しくなりそー","Eheh, maybe that won't be really bad!
+It'll be the best fun we've ever had."
 0000000000000,プロデューサー,"楽しいだけじゃないさ
-ふたりとも今よりも、もっといい関係になるはずだ","It's not just being more fun.
-The two of you by then, might change for better as well."
+ふたりとも今よりも、もっといい関係になるはずだ",It's not just about more fun. The relationship between the two of you might change for better as well.
 1014001040380,甘奈,"ホント？
-甘奈、本気にしちゃうよ？","Really?
-I'll be serious about this, you know?"
+甘奈、本気にしちゃうよ？","Really? I'm being serious about this, you know?"
 0000000000000,プロデューサー,あぁ、俺を信じていいぞ,"Yeah, you can believe me on that."
 1014001040390,甘奈,"うん、信じちゃう！　これからめっちゃすごくて
 めっちゃかわいー双子アイドルになれるよう、がんばるね☆","Yeah, I believe you! From now on, it'll be really fun, and we'll be the super cutest twin idols. I'll do my best☆"
