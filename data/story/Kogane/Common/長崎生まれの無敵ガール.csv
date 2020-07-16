@@ -72,21 +72,23 @@ The idol you will be producing──"
 0,プロデューサー,"（よし！　今回のオーディションで
 ダイヤの原石を見つけてみせるぞ！）","(Okay! I'm going to find a diamond in
 the rough at today's audition!)"
-0,プロデューサー,どうぞ,Please go ahead.
+0,プロデューサー,どうぞ,Come on in.
 1004001010010,恋鐘,"失礼します！　月岡恋鐘、19才ばい！　あっ……です！
-今日はよろしくお願いします！","Scuse me! Kogane Tsukioka, 19 years old! Ah... Erm!
-Nice to meet'cha!"
+今日はよろしくお願いします！","Excuse me! Kogane Tsukioka, 19 years'a... ah...
+Years old! Nice to meet you!"
 0,プロデューサー,ああ、よろしく,"Ah, pleased to meet you."
 0,プロデューサー,"それと、今回は君の良さを知るための審査だから
-方言とか気にせず話しやすい喋り方でいいからね","Well then, since I'd like to assess your traits and merits this time, it's fine to speak without worrying about your dialect or speech patterns."
+方言とか気にせず話しやすい喋り方でいいからね","Well then, since I'd like to assess your merits now,
+it's fine to talk without worrying about your dialect."
 1004001010020,恋鐘,"え、よかと？　助かるわ～、標準語は変に緊張するけん
-うちの実力を出し切れんもんね～","Oh, it's fine? Thank goodness. It's hard to show the real me if I'm worryin' about speakin' proper Hyoujun-Go."
+うちの実力を出し切れんもんね～","Oh, it's fine? Thank goodness. It's hard to show the
+real me if I'm worryin' about speakin' proper-like."
 0,プロデューサー,"はは、それは楽しみだ
 じゃあまずは出身から聞かせてもらおうかな","Haha, I'm looking forward to this. Well then,
 first could you tell me where you're from?"
 1004001010030,恋鐘,"うん。うちは～、長崎の佐世保出身！
-上京してきたばっかやけん、ちょっとまだ訛りがでるんよ","Mhm. I'm from Sasebo, Nagasaki! I've just come to the capital, so I've still
-got a lil' bit of an accent!"
+上京してきたばっかやけん、ちょっとまだ訛りがでるんよ","Mhm. I'm from Sasebo, Nagasaki! I've just come to
+the capital, so I've still got a lil' bit of an accent!"
 0,プロデューサー,"へぇー、長崎か
 いったことないな",Oh? I've never been to Nagasaki.
 1004001010040,恋鐘,"ホント！？　もったいなかよーそれは！
@@ -102,12 +104,14 @@ want to go."
 うち、こういうコメント？　みたいなんも得意なんよ～","Mhehe, oh yah? 'Cause of my remarks?
 Seems like one of my talents～!"
 0,プロデューサー,"（なんだか、すごく楽しそうに話す子だな
-それに自信に満ち溢れているところも面白い）",(She's kind of like a kid who's always talking excitedly. It's also fun that she's brimming with self-confidence.)
+それに自信に満ち溢れているところも面白い）","(She's very excited when she speaks. It's also nice
+that she's brimming with self-confidence.)"
 0,プロデューサー,"それじゃあ、次の質問ね
 今日はどうして２８３プロを受けてくれたのかな","Alright then, next question.
 Why did you audition with 283 Pro today?"
 1004001010070,恋鐘,"それは……うち、絶対アイドルになりたかけんね！
-やけん、オーディションは全部、片っ端から受けとーよ",Well... 'Cause I'm definitely gonna become an idol! That's why I've been doin' auditions one after another!
+やけん、オーディションは全部、片っ端から受けとーよ","Well... 'Cause I'm definitely gonna become an idol!
+That's why I've been doin' all the auditions I can!"
 0,プロデューサー,"ということは他のオーディションも受けてるってことか
 結果って聞いてもいい？","You're saying you've taken other auditions?
 Would you mind telling me your results?"
@@ -123,7 +127,7 @@ that's time to practice and practice～!"
 どこか人を引きつけるような魅力がある……）","(Indeed. An idol this lively and brimming with
 self-confidence has a certain fascinating charm...)"
 0,プロデューサー,"……よし！　決めた！
-月岡恋鐘さん。いきなりだが、オーディションは合格だ！","...Alright! I've decided!  Ms. Kogane Tsukioka,
+月岡恋鐘さん。いきなりだが、オーディションは合格だ！","...Alright! I've decided! Ms. Kogane Tsukioka,
 it may be sudden, but you've passed the audition!"
 0,プロデューサー,"俺が君をトップアイドルにしてみせる！
 これからよろしくな","I'll make you a Top Idol!
@@ -145,4 +149,4 @@ Let's do our best together! Kogane!"
 よろしゅう頼むばい！　プロデューサー！","Yeah! I'll do my darnedest!
 Please take care of me, Producer!"
 info,produce_events/100400101.json,
-Translator,,
+Translator,,,Cameron+Toiski

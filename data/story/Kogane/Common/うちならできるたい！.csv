@@ -1,32 +1,34 @@
 id,name,text,trans
 0,プロデューサー,"さて、恋鐘
-今日はアイドルとして初仕事なわけだけど……","Okay, Kogane.
+今日はアイドルとして初仕事なわけだけど……","Okay, Kogane. 
 Today will be your first job as an idol."
 1004001020010,恋鐘,"うん、ついにこの時がきたんやね～
 いやー、うち、わくわくするばい！","Yep, the time's finally here.
 Ah, I can't help but get excited!"
 1004001020020,恋鐘,"近いうちにユニットのアンティーカも本格的に動きだすし
-うち、ホントにアイドルになれたっちゃね……","And L'Antica's activities as a unit would also get off the ground soon. I really became an idol, didn't I?"
+うち、ホントにアイドルになれたっちゃね……","And L'Antica's startin’ to really work as a unit
+soon. I really became an idol, didn't I?"
 1004001020030,恋鐘,"よーし！
 今日は特に気合いれてくけん、見とってね～！","Okay! I'm so goin' to be so fired up today,
 so please keep your eyes on me!"
 0,プロデューサー,おお、その意気だぞ！,"Yeah, that's the spirit!"
 0,プロデューサー,"それじゃあ、最後の確認をしておこう
-今回のキャンペーンガールの仕事だけど……","So, let's do one final check.
+今回のキャンペーンガールの仕事だけど……","So, let's do one final check. 
 For this job, you'll be a campaign girl."
 1004001020040,恋鐘,"わかっとるよ～、キャンペーンガールって
-ようは商品をよろしくっていう看板娘のことっちゃろ～？","I know. A ""campaign girl"" is like a salesgirl that
+ようは商品をよろしくっていう看板娘のことっちゃろ～？","I know. A ""campaign girl"" is like a salesgirl that 
 introduces the product, right?"
 1004001020050,恋鐘,"うち、実家の定食屋でもよく褒められとったけん
-宣伝とかはバッチリたい！","I got a lotta praise while I was workin' at my family's restaurant.
-I'll nail this advertisin' gig perfectly!"
+宣伝とかはバッチリたい！","I got a lotta praise workin' at my family's 
+restaurant. I'll nail this advertisin' gig !"
 1004001020060,恋鐘,"看板娘をやらしてうちの右にでるもんはおらんばい！
 まかせとって！","There ain't no salesgirl better'n me!
 Just leave this to me!"
 0,プロデューサー,"（すごい……初仕事なのにまったく緊張がないな……
-これは期待できる！）",(Wow. This is supposed to be Kogane's first job and yet she's not nervous at all. Looks like I can expect good things from her!)
+これは期待できる！）","(Wow. This is Kogane's first job and yet she's not
+nervous at all. I can expect good things from her!)"
 0,プロデューサー,"じゃあ、頼んだぞ。恋鐘
-頑張ってこい","I'll be counting on you then, Kogane.
+頑張ってこい","I'll be counting on you then, Kogane. 
 Go get them!"
 1004001020070,恋鐘,はーい、いってくるばい！,Okay. I'll be goin' now!
 1004001020080,恋鐘,"みんなちょっと見てって～！
@@ -36,25 +38,27 @@ I'm about to introduce somethin' darn awesome!"
 今からトークショー始まるけん待っとってね～","Yeah, thanks y'all for stopping～.
 The talk show's about to begin so stick around～!"
 1004001020100,恋鐘,"……うん！　じゃあ、けっこう人も集まってくれとーけん
-さっそく、イベント始めていくばい～！","...Yeah! Now then, since there's a crowd gathered up,
-I'll get right to the event～!"
+さっそく、イベント始めていくばい～！","...Yeah! Now then, since there's a crowd gathered
+up, I'll get right to the event～!"
 1004001020110,恋鐘,"今日のキャンペーンイベントで紹介するのはこれ！
-これがまたばりすごくて……え？","We'll be presenting this at today's campaign event!
-This is a darn awesome... eh?"
+これがまたばりすごくて……え？","We'll be presenting this at today's campaign
+event! This is a darn awesome... eh?"
 1004001020120,恋鐘,"あ！　そっかまず会社の名前言わんとね！
-いや、うっかりしとったよ～！　えーっと……名前名前……","Ah! That's right, I need to say the company's name first!
-Oh, it almost slipped my mind～! Lessee... the name, the name..."
+いや、うっかりしとったよ～！　えーっと……名前名前……","Ah! That's right, I need to say the company's name
+first! Oh, I almost forgot～! Lessee... the name..."
 0,プロデューサー,"（あ、あれ……？　恋鐘……？
-さっきはあんなに自信満々だったのに……）","(W, wait...? Kogane...?
-You were brimming with such confidence just now...)"
+さっきはあんなに自信満々だったのに……）","(W, wait...? Kogane...? You were brimming with
+such confidence just now...)"
 1004001020130,恋鐘,"……それで、お！　次はなんと、この商品の開発者の人が
-直接効果の説明ばしてくれるよ～！","...And then, oh! Next, one'a the developers of this product
-is here to explain its effects in person!"
-1004001020140,恋鐘,では、開発主任田中さん！　どうぞー！,"Well then, lead developer Tanaka-san! If you please～!"
+直接効果の説明ばしてくれるよ～！","...And then, oh! Next, one'a the developers of this
+product is here to explain its effects in person!"
+1004001020140,恋鐘,では、開発主任田中さん！　どうぞー！,"Well then, lead developer Tanaka-san!
+If you please～!"
 1004001020150,恋鐘,"ん？…………え？　名前が違う？　中田さん？
 ええ～！？","Hm? ...Eh? I got the name wrong? Nakata-san?
 Eeh～!?"
-0,プロデューサー,（……やる気が空回りしてしまっているみたいだな）,(...all that energy seems to be going to spinning her wheels.)
+0,プロデューサー,（……やる気が空回りしてしまっているみたいだな）,"(...all that energy seems to be going to
+spinning her wheels.)"
 1004001020160,恋鐘,はぁー……ちょーっと失敗しちゃった～……,Sigh──... I fell a little flat～...
 0,プロデューサー,"お疲れ、恋鐘
 気にすることないさ","Good work, Kogane.
@@ -73,14 +77,18 @@ I'm even more energetic than before～!"
 しっかり切り替えられてる）","(Good, Kogane doesn't seem to be depressed.
 She can switch gears well.)"
 0,プロデューサー,"（恋鐘はまだまだやる気だし、ちょっとアドバイスすれば
-次はもっといい仕事ができそうだ）","(Kogane is still motivated, and if I giver her a little advice,
-she'll fo a better job next time.)"
+次はもっといい仕事ができそうだ）","(Kogane is still motivated, and if I giver her a
+little advice, she'll fo a better job next time.)"
 0,プロデューサー,なぁ、恋鐘,"Say, Kogane."
-select,,少し落ち着こう,Let's calm down a little.
+select,,少し落ち着こう,"Let's calm down
+a little."
 select,,"一度段取りを
-確認しておこう",Let's review our plans.
-select,,もっと元気よくいこう！,Let's be more cheerful!
-0,プロデューサー,少し落ち着こう,Let's calm down a little.
+確認しておこう","Let's review
+our plans."
+select,,もっと元気よくいこう！,"Let's be more
+cheerful!"
+0,プロデューサー,少し落ち着こう,"Let's calm down
+a little."
 0,プロデューサー,"やる気があるのはすごくいいけど
 少し気持ちが前に出すぎてる","It's great that you're so motivated,
 but you're a letting your emotions take control."
@@ -91,20 +99,21 @@ a little bit more calm."
 参考になるばい～！　さすがプロデューサー！","Ooh... I see...!
 That's helpful～! As expected of my producer!"
 1004001020210,恋鐘,"じゃあ、落ち着くためには……あ！　深呼吸がよかね！
-スー……ハー……スー……ハー……","Then, to calm down... ah! Deep breaths are just the thing!
-Haa... hoo... haa... hoo..."
+スー……ハー……スー……ハー……","Then, to calm down... ah! Deep breaths are
+just the thing! Haa... hoo... haa... hoo..."
 0,プロデューサー,少しは落ち着いたか？,Did you calm down a little?
 1004001020220,恋鐘,"うん！　なんか頭がすっきりした気がするばい～！
 ありがと、プロデューサー！","Yep! I fell like that's cleared up my head～!
 Thanks, producer!"
 1004001020230,恋鐘,じゃあ、いってくるったい！,"Well then, I'm going back out!"
 1004001020240,恋鐘,"――そいけん、本日のイベントはおしまい～！
-みんな今日の商品見かけたら、ぜひ買うてね～！","And with that, it's the end of today's event～! I'd be
-pleased as punch if'n y'all bought today's product when y'all see it!"
+みんな今日の商品見かけたら、ぜひ買うてね～！","That’s the end of this event～! I'd be pleased
+if'n y'all bought today's product when y'all see it!"
 0,プロデューサー,"（うん、頭の整理がしっかりできて
-後半はきちんと仕事がこなせたみたいだな）","(Yeah, now that she's put her head in order,
-she seems to have finished the job with no problems.)"
-0,プロデューサー,（次の仕事もこの調子でいこう、恋鐘）,"(Let's carry this momentum into your next job, Kogane.)"
+後半はきちんと仕事がこなせたみたいだな）","(Yeah, now that she's got her head on straight,
+she seems to have finished without problems.)"
+0,プロデューサー,（次の仕事もこの調子でいこう、恋鐘）,"(Let's carry this momentum into your next job,
+Kogane.)"
 0,プロデューサー,一度段取りを確認しておこう,Let's review our plans.
 1004001020250,恋鐘,え？　さっきスタッフさんと一回確認したとよ～？,Eh? I went over it with the staff once just now～?
 0,プロデューサー,念のため、最後の確認だよ,"Just in case, one last check."
@@ -112,25 +121,25 @@ she seems to have finished the job with no problems.)"
 大事やもんね～！","Hmm── For sure, gotta make sure
 my feet are on solid ground～!"
 1004001020270,恋鐘,"休憩中にもう一回最後の見直しせんばね！
-プロデューサー、手伝ってくれんかいな～？","I'll have to look it over once more while on my break!
-Producer, won'tcha give me a hand～?"
+プロデューサー、手伝ってくれんかいな～？","I'll have to look it over once more while on my
+break! Producer, won'tcha give me a hand～?"
 0,プロデューサー,"いいとも
-それじゃあ、後半の頭から確認してみようか","Sure thing.
-Well then, let's go over it from the top of the last half."
+それじゃあ、後半の頭から確認してみようか","Sure thing. Well then, let's go over it
+from the top of the last half."
 1004001020280,恋鐘,"……じゃあ、これで今日のキャンペーンは終わり～！
 みんな、ありがとーね！","Then, that's the end of today's campaign～!
 Thanks, y'all!"
 0,プロデューサー,"（よし、段取りを再確認したおかげで
-後半は一度も失敗せずにやりきれたようだな）","(Great, looks like she managed to get through the second half
-without any mistakes, thanks to reviewing the plan.)"
+後半は一度も失敗せずにやりきれたようだな）","(Great, she managed to get through the last half
+without mistakes, thanks to reviewing the plan.)"
 0,プロデューサー,（よく頑張ったぞ、恋鐘）,"(You really did your best, Kogane.)"
 0,プロデューサー,もっと元気よくいこう！,Let's be more cheerful!
 0,プロデューサー,"恋鐘は少しミスもしてるけど、それを気にして
-小さくなるのはよくない……","You're making some small mistakes, but it's also no good
-if you shrink away because of them."
+小さくなるのはよくない……","You're making some small mistakes, but it's also
+no good if you shrink away because of them."
 0,プロデューサー,"むしろミスをミスだと感じさせないくらい
-もっと元気にやるべきだ","Rather, you should do it so cheerfully that the mistakes
-don't feel like mistakes to the crowd."
+もっと元気にやるべきだ","Rather, you should do it so cheerfully that the
+mistakes don't feel like mistakes to the crowd."
 1004001020290,恋鐘,おお！　それはうちばり得意ばい～！,Ooh! I'm darn good at that～!
 1004001020300,恋鐘,"アイドルたるもん
 やっぱり元気が一番やもんね～！","That's idols're all about.
@@ -145,8 +154,8 @@ I'm goin' back out, producer!"
 また、よろしゅうねー！","...well, that's all for today, folks～!
 I'll be seeing y'all!"
 0,プロデューサー,"（ちょっとしたミスはあったが
-それを吹き飛ばすくらい恋鐘の良さが存分に出ていたな）","(There were some small mistakes, but
-Kogane's good sides shone bright enough to blow them away.)"
+それを吹き飛ばすくらい恋鐘の良さが存分に出ていたな）","(There were small mistakes, but Kogane's good
+sides shone bright enough to blow them away.)"
 0,プロデューサー,（いい笑顔だったぞ、恋鐘）,"(That's a nice smile, Kogane.)"
 info,produce_events/100400102.json,
 Translator,,,Cameron+Toiski

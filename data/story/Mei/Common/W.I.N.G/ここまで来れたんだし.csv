@@ -1,0 +1,33 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"Oh? Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+0000000000000,プロデューサー,（さて、愛依にどう声をかけてやれば……）,"(Well then, what should I say to Mei...)"
+6019001070010,愛依,"あっ、プロデューサー
+これ飲む？","Ah, Producer. Want a drink?"
+0000000000000,プロデューサー,お、おう……ありがとう,O-Oh... thanks.
+6019001070020,愛依,"どう？
+やっぱ頑張った後は喉乾くっしょ？","How is it? Got a dry throat after working so hard, yeah?"
+0000000000000,プロデューサー,"ああ……
+それより、俺の力不足で……悪かったな","Well... more importantly, because of my inadequecy... I have bad news."
+0000000000000,プロデューサー,"愛依なら優勝できていたはずだったのに
+プロデューサーである俺が不甲斐ないばかりに──","Even though you should have been able to win the finals, because I'm useless as a producer──"
+6019001070030,愛依,"ちょ、なに言っちゃってんのプロデューサー！
+謝るとか違うし……てかそれ、うちのセリフじゃん","Hey, what the heck are you saying! You shouldn't apologize... I'm the one who should be apologizing!"
+6019001070040,愛依,"そもそもプロデューサーと出会ってなきゃ
+うち、ここにいないし","After all, if I hadn't met you, I wouldn't even be here."
+6019001070050,愛依,"だからさ、謝んのとかなしにして
+次に進むしかないっしょ、プロデューサー！","So you shouldn't apologize. We've got no choice but to move on, Producer!"
+0000000000000,プロデューサー,愛依……そうだな！　これからもよろしく頼む,Mei... you're right! I'm looking forward to continuing to work with you.
+info,produce_events/601900107.json,
+Translator,,
