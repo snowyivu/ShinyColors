@@ -1612,13 +1612,13 @@ filter.categories.idol,アイドル,Idol
 filter.categories.fesIdolMark,フェスアイドルマーク,FES Idol Mark
 filter.categories.trueEnd,True End ミッション,True End Mission
 filter.categories.commu,コミュ,Commu
-filter.categories.commuIgnoreTrueEnd,コミュ（True End 除く）,Commu (Except True End)
+filter.categories.commuIgnoreTrueEnd,コミュ（True End 除く）,Commu (Except TE)
 filter.categories.ideaMark,アイデアマーク,Idea Mark
 filter.categories.inspiration,ひらめき,Inspiration
 filter.categories.comicType,種類,Type
 filter.categories.comicOther,その他,Other
 filter.categories.supportSkill,サポートスキル,Support Skill
-filter.categories.idolArrivalType,登場種類,Arrival Type
+filter.categories.idolArrivalType,登場種類,Acquire Method
 filter.categories.liveSkill,ライブスキル,Live Skill
 filter.cautions.fesIdolMark,アイドル詳細から好きなアイドルマークを設定できます,Look at the idol details and select an idol mark you like.
 filter.cautions.ideaMark,ファン感謝祭編の専用パラメータです,A parameter used in TFD mode.
@@ -1639,8 +1639,6 @@ filter.texts.supportSkill.notSet,未設定,Unset
 filter.texts.supportSkill.all,すべて,All
 filter.texts.liveSkill.includesUnacquired,未解放のライブスキルも含む,Include locked live skills
 filter.emptyMessage,該当するアイドルがいません。,There are no applicable idols.
-temp.supportEvent,サポートイベント,Support Event
-temp.produceEvent,プロデュースイベント,Produce Event
 concert.statusEffect.timesAndTurn,残り%{leftTurn}ターン\n残り%{remainTimes}回,%{leftTurn} turns left\%{remainTimes} times
 gameEvent.playPrologueDialog.title,シナリオ再生確認,Confirm scenario playback
 gameEvent.playPrologueDialog.text,%{name}\n%{title}\nを再生しますか？,Watch %{name}\n%{title}?

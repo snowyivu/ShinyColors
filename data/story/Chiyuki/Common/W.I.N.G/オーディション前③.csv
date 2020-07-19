@@ -1,0 +1,32 @@
+id,name,text,trans
+4016001000130010,千雪,"オーディションって、ステージ本番と違いますよね
+だから、気持ちの作り方が難しくて……","Auditions are pretty different from actual performances, huh...
+That's why it's hard to really get into it..."
+0000000000000,プロデューサー,（オーディションについての心構えか……）,"(Advice for an audition, huh...)"
+select,,"どっちも、自分と
+ファンのためになる","Both are for 
+the sake of you 
+and your fans."
+select,,"ステージ本番だと
+思っていいぞ","You can think
+of it as a real 
+performance."
+select,,"自分の気持ちを
+大事に","Put your own 
+feelings first."
+4016001000130020,千雪,"……そうですよね。みなさんに届くように……！
+それから……プロデューサーさんにも届くように、です","...You're right. I need make sure my feelings 
+reach everyone...! And then... I'll make sure 
+my feelings reach you too, Producer-san."
+0000000000000,プロデューサー,（迷いのない顔になったな）,(She looks confident now.)
+4016001000130030,千雪,"そう……ですね。私、目先の事に囚われていたかも……
+合格した後のつもりで、どーんと頑張ってきます！","You're right... I couldn't see the bigger picture. 
+I'll work hard with the intention of passing!"
+0000000000000,プロデューサー,（よし、緊張はとけたみたいだな）,"(Nice, it looks like her stress has melted away.)"
+4016001000130040,千雪,"ここに立っているのは、みなさんのおかげなので……
+でも、ありがとうございます。頑張りますね","The reason I'm standing here now is 
+thanks to everyone else... but thank you.
+I'll do my best, okay?"
+0000000000000,プロデューサー,（もっと別の言葉がよかったかもしれない……）,(I probably should have said something else...)
+info,produce_communication_cheers/401600100013.json,
+Translator,Tuna/Doodle,

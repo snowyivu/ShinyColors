@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,"凛世は、着物が多いよな
+よく似合ってるよ","Rinze, you have a lot of kimono.
+They suit you really well!"
+1012001000310010,凛世,"……ありがとうございます
+着なれて……おりますので……","...Thank you very much.
+I am used... to wearing them often..."
+1012001000310020,凛世,"プロデューサーさま……
+洋服のほうが……よいでしょうか……？","Producer-sama...
+Would it be better if... 
+I wore western clothes...?"
+0000000000000,プロデューサー,（うーん、そうだな……）,"(Yeah, that's a good question...)"
+select,,洋服も似合うと思う,"I think you'd look
+good in western
+clothes too."
+select,,着物が一番だ,Kimono are the best.
+select,,"凛世なら、
+何を着ても大丈夫","For Rinze, you 
+can wear anything
+you like."
+1012001000310030,凛世,ふふ……,Fufu...
+1012001000310040,凛世,"プロデューサーさまが……おっしゃるのでしたら……
+もう少し……調えてみます……","If Producer-sama says so...
+I will try to change things... a little bit more..."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1012001000310050,凛世,"ありがとうございます
+プロデューサーさま……","Thank you very much, Producer-sama..."
+1012001000310060,凛世,"凛世にも……
+これが一番でございます……","To Rinze...
+This is also the best..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1012001000310070,凛世,プロデューサーさま……,Producer-sama...
+1012001000310080,凛世,"プロデューサーさまの
+お好きな服を……着てみたいのですが……","I would like to... wear what is Producer-sama's...
+Favorite type of clothing..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/101200100031.json,
+Translator,,

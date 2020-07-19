@@ -1,0 +1,29 @@
+id,name,text,trans
+6016001040010,千雪,……,......
+0000000000000,プロデューサー,"千雪、どうした？
+何か飲み物でも取ってこようか","Chiyuki, what's up?
+Should I get you something to drink?"
+6016001040020,千雪,"あ……いえ！
+ふふ……","Ah... there's no need!
+Fufu..."
+6016001040030,千雪,私、震えてて,I'm just... shaking.
+0000000000000,プロデューサー,ん？　どうした、大丈夫か……？,"Hm? What happened, are you okay...?"
+6016001040040,千雪,"いえ……違うんです
+違うっていうか……","No... nothing happened.
+How can I say it..."
+6016001040050,千雪,とっても、心がびりびりしてて、熱いんです,"My heart is beating really loudly, and I'm burning up."
+6016001040060,千雪,"私、勝敗は大事じゃないって思いながら、
+ここで勝ちたい、ここで勝って笑いたいって","Despite believing that it's not important 
+whether I win or lose,
+I'm also thinking things like..."
+6016001040070,千雪,そんなふうにも思ってます,"""I want to win this, I want to win this and laugh."""
+0000000000000,プロデューサー,"千雪……
+アイドルって、そういうことなんだな","Chiyuki...
+That's just something that comes with being an idol."
+0000000000000,プロデューサー,俺も、いつもいつも、千雪から学ばされるよ,"I'm always learning things from you too, Chiyuki."
+6016001040080,千雪,プロデューサーさん……,Producer-san...
+0000000000000,プロデューサー,"よし、勝とう！
+行ってらっしゃい、千雪","All right, let's win this!
+Good luck out there, Chiyuki."
+info,produce_events/601600104.json,
+Translator,Tuna/Doodle,
