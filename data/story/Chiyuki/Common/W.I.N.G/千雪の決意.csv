@@ -1,7 +1,7 @@
 id,name,text,trans
 1016001040010,千雪,おはようございます！,Good morning!
 1016001040020,千雪,"プロデューサーさん、今回のこと
-本当に、申し訳ありませんでした","Producer, I'm truly sorry for what happened last time!"
+本当に、申し訳ありませんでした","Producer-san, I'm truly sorry for what happened last time!"
 0000000000000,プロデューサー,"お、おい千雪、何言ってるんだ……
 体のほうは、本当に大丈夫なのか？","C-Chiyuki, what are you saying... More importantly, are you really feeling better now?"
 1016001040030,千雪,"はい。大事なステージの前に
@@ -15,7 +15,7 @@ id,name,text,trans
 0000000000000,プロデューサー,（千雪……やっぱり、引退を決意してきたのか？）,(Chiyuki... So you really have decided to retire?)
 1016001040060,千雪,"はい、大丈夫です
 それで、プロデューサーさん","Yes, I'll be alright.
-And because of that, Producer..."
+And because of that, Producer-san..."
 1016001040070,千雪,私、これが終わったら──,When I finish this──
 0000000000000,プロデューサー,（き、きた……！）,(H-Here it comes...!)
 0000000000000,プロデューサー,"ち、ちょっと待ってくれ、千雪
@@ -34,7 +34,7 @@ And because of that, Producer..."
 0000000000000,プロデューサー,"よし、千雪。コンディションはばっちりだと思う
 今日は、思いっきりやろうな","Alright, Chiyuki. You're in perfect condition! Today, let's perform with all our heart."
 1016001040100,千雪,"はい、プロデューサーさん
-私、すごく、すごく緊張して……","Understood, Producer! I'm really, really nervous..."
+私、すごく、すごく緊張して……","Understood, Producer-san! I'm really, really nervous..."
 1016001040110,千雪,"でも、わくわくしてます
 こんな感じ、初めて……",But I'm also feeling the excitement! This is the first time I've felt like this...
 0000000000000,プロデューサー,千雪……,Chiyuki...
@@ -45,7 +45,7 @@ And because of that, Producer..."
 Ah no... Rather... Give it your all in the performance."
 0000000000000,プロデューサー,千雪の全部、俺もしっかり見てるからな,"I'll be watching your everything out there too, after all."
 1016001040130,千雪,"プロデューサーさん……
-はい！",Producer... Okay!
+はい！",Producer-san... Okay!
 0000000000000,プロデューサー,"（千雪……すごいぞ、最高だった……！
 はやく声をかけたいけど、どこへ行ったんだ……？）",(Chiyuki... You were incredible! I wanted to greet you right after but... where did you go?)
 0000000000000,ファンA,おい、千雪ちゃんが出口で挨拶してるってよ！,Hey! Chiyuki's greeting people at the exit!
@@ -76,7 +76,7 @@ We'll be putting in a good word for you at the office!"
 お疲れさまでしたー！",Thank you very much! Good work today!
 0000000000000,プロデューサー,ち、千雪、今の……,"C-Chiyuki, that talk just now..."
 1016001040180,千雪,"あ、プロデューサーさん、おつかれさまです
-吉報ですよ～","Ah, Producer, good work today! I have good news～"
+吉報ですよ～","Ah, Producer-san, good work today! I have good news～"
 1016001040190,千雪,私、ステージのお仕事もらっちゃいましたー♪,I've been given more shows♪
 0000000000000,プロデューサー,"え、ええ？　あの……
 アイドル……続けてくれるのか……？",E-Eh? Uhm... You'll continue... being an idol?
@@ -98,7 +98,7 @@ With that being said, I'll be greeting my fans and wishing them farewell."
 それからファンの方々に喜んでもらえる雑貨を作りたいです","From now on, I want to create miscellaneous goods for myself, Alstromeria, and my fans that gladly cheer me on!"
 0000000000000,プロデューサー,そ、そうか……！,I-I see...!
 1016001040260,千雪,"プロデューサーさん、
-応援……してくださいますか……？","Producer, will you... continue to support me...?"
+応援……してくださいますか……？","Producer-san, will you... continue to support me...?"
 select,,もちろんだ,Of course!
 select,,当たり前だ,"You got 
 that right!"
@@ -118,11 +118,11 @@ you!"
 0000000000000,プロデューサー,"正直な気持ちを言うと、
 千雪がアイドルを続けてくれて嬉しいよ","If I were to say what I really felt, I'm really happy that you're going to continue being an idol."
 1016001040290,千雪,"プロデューサーさん……私、
-アイドル、頑張りますね",Producer... I'll do my best as an idol!
+アイドル、頑張りますね",Producer-san... I'll do my best as an idol!
 0000000000000,プロデューサー,応援する,I'll support you.
 0000000000000,プロデューサー,千雪が選んだこと、俺は応援するよ,"I'll support what you've chosen, Chiyuki."
 1016001040300,千雪,"……ふふ。プロデューサーさんは、
 いっつも、迷わずそう言ってくれますね……","...Fufu. You always have been saying that, haven't you?"
-1016001040310,千雪,ありがとうございます、プロデューサーさん……,"Thank you, Producer..."
+1016001040310,千雪,ありがとうございます、プロデューサーさん……,"Thank you, Producer-san..."
 info,produce_events/101600104.json,
-Translator,,
+Translator,Kosakyun,

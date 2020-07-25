@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,（そろそろ約束の時間だな）,(It's almost the time we agreed on...)
 1016001020010,千雪,"はあっ……はあっ……
-プロデューサーさん、お待たせしました～！","Haa... haa... Sorry for the wait, Producer!"
+プロデューサーさん、お待たせしました～！","Haa... haa... Sorry for the wait, Producer-san!"
 1016001020020,千雪,"すみません
 雑貨屋のお仕事が、少し長引いてしまって……",I'm really sorry! Work at the general store dragged on for longer than expected...
 0000000000000,プロデューサー,"大丈夫、時間通りだよ
@@ -49,7 +49,7 @@ id,name,text,trans
 1016001020140,千雪,"私も、あんな風にたくさんの人を
 笑顔にできるのかなって……ちょっと不安です",Thinking about whether I could make a lot of people smile just like that... it makes me a bit nervous.
 0000000000000,プロデューサー,俺は、できるって思ってるよ,I believe you can do it.
-1016001020150,千雪,……プロデューサーさん,...Producer.
+1016001020150,千雪,……プロデューサーさん,...Producer-san.
 1016001020160,千雪,"ふふ、はい……
 じゃあ、もっとアイドル活動に時間をかけなきゃです","Fufu, I understand. In that case, I need to dedicate more time to doing idol activities."
 0000000000000,プロデューサー,（よかった……いい刺激に、なったのかな）,(Good... I wonder if that was good motivation for her.)
@@ -94,12 +94,12 @@ important."
 0000000000000,プロデューサー,"お、いいぞ
 けど……レッスン室が取れてないな","Oh, that's good! But... we can't reserve a room for lessons anymore."
 1016001020240,千雪,"では……トレーニングです！
-プロデューサーさん、河原を走りましょう！","Well then, let's go train! Producer, let's run by the riverside!"
+プロデューサーさん、河原を走りましょう！","Well then, let's go train! Producer-san, let's run by the riverside!"
 1016001020250,プロデューサー,"よ、よし……
 とことん付き合うぞ！",A-All right... I'll see this through!
 0000000000000,プロデューサー,（千雪の笑顔には、ついその気にさせられるな……！）,"(With Chiyuki's smile, I won't mind something like this!)"
 0000000000000,プロデューサー,千雪のその笑顔、たくさんの人に届けような,Let's make your smile reach a lot of people!
 1016001020260,千雪,"は、はい……！
-頑張ります、プロデューサーさん！","O-Okay! I'll do my best, Producer!"
+頑張ります、プロデューサーさん！","O-Okay! I'll do my best, Producer-san!"
 info,produce_events/101600102.json,
-Translator,,
+Translator,Kosakyun,

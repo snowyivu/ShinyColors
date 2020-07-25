@@ -1,6 +1,6 @@
 id,name,text,trans
 7016001050010,千雪,"プロデューサーさん
-三次審査の結果、どうでしたか……？","Producer, about the third round's results... How did it go?"
+三次審査の結果、どうでしたか……？","Producer-san, about the third round's results... How did it go?"
 0000000000000,プロデューサー,"三次審査……無事、通過したぞ！
 よかったな、千雪！","For the third round... we passed without any problems!
 Good for you, Chiyuki!"
@@ -14,14 +14,14 @@ Just a bit more. Let's keep doing our best like this!"
 7016001050040,千雪,はい！,Understood!
 7016001050050,千雪,"私、この結果のこと……
 誰よりも、プロデューサーさんにお礼を言いたいです","For me, this result...
-More than anyone, I'd like to extend to you my gratitude, Producer."
+More than anyone, I'd like to extend to you my gratitude, Producer-san."
 0000000000000,プロデューサー,俺に……？,To me...?
 7016001050060,千雪,"はい。私がいちばん悩んでた時
 いつも迷わず応援して、背中を押してくれましたから","That's right. During the time when I was most troubled, you were always there to support me, to encourage me without any hesitation."
 0000000000000,プロデューサー,なんだ、そんなのは当然だ,"Of course, that goes without saying."
 7016001050070,千雪,なんだ、じゃないです,It's not something as simple as a matter of course.
 7016001050080,千雪,"私、本当に、プロデューサーさんに出会えて
-よかったって思ってるんですから……","After all, to have met you by chance, Producer, is something that I'm truly thankful for from the bottom of my heart."
+よかったって思ってるんですから……","After all, to have met you by chance, Producer-san, is something that I'm truly thankful for from the bottom of my heart."
 0000000000000,プロデューサー,千雪……,Chiyuki...
 0000000000000,プロデューサー,"いや、すまん
 俺もそう思ってるよ","Ah, sorry about that.
@@ -47,4 +47,4 @@ What did you use to substitute for a charm?"
 最後の舞台まで一緒に来てもらうことにします","Yes. Until my final performance, I'll keep on bringing this hair ornament with me."
 7016001050150,千雪,最後まで、あの時の自分と頑張るために,"Until the end, for the sake of my self that I'm working hard to be..."
 info,produce_events/701600105.json,
-Translator,,
+Translator,Kosakyun,

@@ -1,6 +1,6 @@
 id,name,text,trans
 6901001090010,はづき,"プロデューサーさん！
-『W.I.N.G.』優勝、本当におめでとうございます！","Producer!
+『W.I.N.G.』優勝、本当におめでとうございます！","Producer-san!
 Big congratulations on your idol winning ""W.I.N.G.""!"
 6901001090020,はづき,"私も会場で見てたんですけど、
 発表の瞬間、思わず大声を出しちゃいましたよ！",I was watching from the audience like you were. When they announced the results I screamed without even thinking!
@@ -33,14 +33,14 @@ Go and see her!"
 褒めてあげてくださいねー！",Make sure to shower her with lots and lots of praise!
 0000000000000,プロデューサー,はい！　もちろんです！,"Yes! Absolutely! "
 6016001090010,千雪,"あっ、プロデューサーさん……
-お疲れさまです","Ah, Producer... Good work today!"
+お疲れさまです","Ah, Producer-san... Good work today!"
 0000000000000,プロデューサー,"お疲れさま、千雪
 ……隣、いいか？","You too, Chiyuki.
 ...Is it alright if I sit beside you?"
 6016001090020,千雪,ええ、どうぞ……あら？,"Please, by all means... Oh?"
 0000000000000,プロデューサー,ん？,Hm?
 6016001090030,千雪,"プロデューサーさん、
-ジャケットの裾、ほつれちゃってるみたいです","Producer, it looks like the hem of your jacket is frayed."
+ジャケットの裾、ほつれちゃってるみたいです","Producer-san, it looks like the hem of your jacket is frayed."
 0000000000000,プロデューサー,"え……ああ、ほんとだ
 恥ずかしいな……","Eh... Ah, you're right. That makes me a bit embarrassed..."
 6016001090040,千雪,ふふ、直しますね,"Fufu, let me fix it for you."
@@ -51,7 +51,7 @@ You just came back after all."
 だって、気になりません……？","Hmm?
 I really don't mind..."
 6016001090060,千雪,"よいしょ……っと、はい、プロデューサーさん
-裾、見せてくださいね～","There we... go. Okay, Producer.
+裾、見せてくださいね～","There we... go. Okay, Producer-san.
 Let me check your hem～"
 0000000000000,プロデューサー,あ、ああ、……ありがとう,"Ah, right... Thanks..."
 6016001090070,千雪,はい♪,No problem♪
@@ -90,7 +90,7 @@ There we go♪"
 0000000000000,プロデューサー,"お、サンキュー、千雪
 なんか、最初に声かけたときもこんなだったな","Oh, thank you, Chiyuki. Somehow, this reminds me of when I first called out to you."
 6016001090150,千雪,"ふふっ、プロデューサーさん、
-ボタンがすっごくグラグラだったんですもん……","Fufu, Producer.
+ボタンがすっごくグラグラだったんですもん……","Fufu, Producer-san.
 Back then, your sleeve's button was totally loose."
 0000000000000,プロデューサー,"いや、自分でも甲斐性ないなって思うよ
 この裾だって……気づいてくれてありがとな","If it was just me, I wouldn't have been able to notice it.
@@ -123,11 +123,11 @@ But, I..."
 To be able... to make anyone smile..."
 6016001090240,千雪,"私にも、そういうことができるんだって、
 プ、プロデューサーさんが……","That I, could make anyone smile...
-P-Producer..."
+P-Producer-san..."
 6016001090250,千雪,プロデューサーさんが、教えてくれたんです……,You were the one who taught me that...
 0000000000000,プロデューサー,千雪……,Chiyuki...
 6016001090260,千雪,"雑貨も、アイドルも、
-プロデューサーさんがいてくださったから諦めずに済んだ","General goods, or being an idol... I continued without giving up on any of them because you were there for me, Producer."
+プロデューサーさんがいてくださったから諦めずに済んだ","General goods, or being an idol... I continued without giving up on any of them because you were there for me, Producer-san."
 6016001090270,千雪,"というより、両方が、両方を輝かせてくれるんだって……
 そういうことにも気づかせてもらえました","More than that, both of them can make the other shine brighter...
 That's what you made me realize."
@@ -142,7 +142,7 @@ That's my line～..."
 And besides..."
 0000000000000,プロデューサー,"両方輝かせるんだったら、
 まだまだこんなとこじゃ終われないな","If you really will make both of them shine, then what we need to do is far from over."
-6016001090290,千雪,プ、プロデューサーさん……,P-Producer...
+6016001090290,千雪,プ、プロデューサーさん……,P-Producer-san...
 0000000000000,プロデューサー,また、明日からスタートだ,"Tomorrow, we start again."
 6016001090300,千雪,"……はい
 明日……これからも、側で支えていただけますか……？","...Right!
@@ -152,6 +152,6 @@ Tomorrow... and from now on, will you support me by my side?"
 Chiyuki, I look forward to working with you more!"
 6016001090310,千雪,"……ふふ
 はい、プロデューサーさん……！","...Fufu
-Same here, Producer..!"
+Same here, Producer-san..!"
 info,produce_events/601600109.json,
-Translator,,
+Translator,Kosakyun,

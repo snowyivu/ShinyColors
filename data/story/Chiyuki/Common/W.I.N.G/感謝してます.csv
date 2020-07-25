@@ -28,12 +28,12 @@ id,name,text,trans
 0000000000000,プロデューサー,"……俺、千雪のプロデューサーをやれて、
 ほんとによかったなぁ",...I'm really glad that I became your producer.
 6016001070080,千雪,"プロデューサーさん……？
-……もう",Producer...? ...Oh you.
+……もう",Producer-san...? ...Oh you.
 6016001070090,千雪,それ、勝った時に言うセリフなんじゃないです？,Isn't that a line you should say when we win?
 0000000000000,プロデューサー,"ん？　いや
 今本当に言いたかったセリフだ",Hm? Nah. It's a line I really wanted to say at this very moment.
-6016001070100,千雪,……ふふ、プロデューサーさん……,"...Fufu, Producer..."
+6016001070100,千雪,……ふふ、プロデューサーさん……,"...Fufu, Producer-san..."
 6016001070110,千雪,"私も、あの時プロデューサーさんに声をかけてもらって
 ほんとによかったです……",I'm really glad that you called out to me the first time we met too...
 info,produce_events/601600107.json,
-Translator,,
+Translator,Kosakyun,

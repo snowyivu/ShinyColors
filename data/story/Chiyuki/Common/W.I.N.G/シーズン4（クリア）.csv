@@ -8,10 +8,10 @@ id,name,text,trans
 やったな、千雪！","You passed. You can participate in W.I.N.G.!
 You did it, Chiyuki!"
 7016001070030,千雪,"わぁ……プロデューサーさん……！
-ありがとうございます","Wow... Producer...!
+ありがとうございます","Wow... Producer-san...!
 Thank you!"
 7016001070040,千雪,"ファンのみなさんと、プロデューサーさんに、
-心から感謝します","From the bottom of my heart, I'm thankful for all my fans and you, Producer..."
+心から感謝します","From the bottom of my heart, I'm thankful for all my fans and you, Producer-san..."
 0000000000000,プロデューサー,"はは、随分、落ち着いてるみたいだな
 さすがの貫禄だ","Haha, you seem to have calmed down considerably. 
 That's pretty impressive."
@@ -42,6 +42,6 @@ However..."
 頂けるものは、頂いちゃわないと……♪","I'll win W.I.N.G. as well!
 I need to gracefully accept what's been given to me, after all...♪"
 7016001070150,千雪,"だから、これからもよろしくお願いします
-プロデューサーさん","That's why from here on out, I look forward to continuing working with you, Producer!"
+プロデューサーさん","That's why from here on out, I look forward to continuing working with you, Producer-san!"
 info,produce_events/701600107.json,
-Translator,,
+Translator,Kosakyun,

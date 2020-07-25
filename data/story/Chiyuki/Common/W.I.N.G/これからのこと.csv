@@ -10,13 +10,13 @@ id,name,text,trans
 それにこの髪飾り、お店の新作にもなるなって……♪","Please... This is my main job, after all. Besides, this hair ornament will be one of our shop's new products...♪"
 0000000000000,プロデューサー,はは、本業、か……,"Haha, main job, huh..."
 1016001030040,千雪,"あ……ごめんなさい、プロデューサーさん
-そういうつもりじゃないんです、つい──","Ah... Sorry, Producer. I didn't mean it like that..."
+そういうつもりじゃないんです、つい──","Ah... Sorry, Producer-san. I didn't mean it like that..."
 0000000000000,プロデューサー,"ああ、わかってるよ
 千雪は、本当にどっちも頑張ってるもんな","Aah, I know that. You're really doing your best in both, after all."
 0000000000000,プロデューサー,"雑貨の方は、積み重ねてきた時間も長いしな……
 そっちのが慣れてるって意味だろ？",You've spent a lot of time dealing with general goods. Isn't what you're doing giving meaning to the work you've gotten used to?
 1016001030050,千雪,"は、はい……
-でも、プロデューサーさん",Y-Yes... But Producer...
+でも、プロデューサーさん",Y-Yes... But Producer-san...
 1016001030060,千雪,"本当によく見てくださっているプロデューサーさんの前で、
 言うべきじゃない言葉でした……",I've said things that I shouldn't have in front of someone who watches over me closely...
 0000000000000,プロデューサー,"あっ、いや、やめてくれよ
@@ -27,11 +27,11 @@ id,name,text,trans
 ありがとうございます……！",I understand... Thank you very much...!
 0000000000000,プロデューサー,"じゃ、そろそろ時間だ
 もうひと頑張り、頼むな","Well then, it's about time. I'll be relying on you for one last time today."
-1016001030080,千雪,はい、プロデューサーさん！,"Understood, Producer!"
+1016001030080,千雪,はい、プロデューサーさん！,"Understood, Producer-san!"
 0000000000000,プロデューサー,"はぁ～千雪、お疲れさま
 今日も長かったなぁ～","Haa... Chiyuki, good work! Today's work took a long time to finish, didn't it?"
 1016001030090,千雪,"いえ、プロデューサーさん
-今日のお仕事も、すっごく勉強になりました！","It wasn't that bad, Producer. I learned a lot from today's work as well!"
+今日のお仕事も、すっごく勉強になりました！","It wasn't that bad, Producer-san. I learned a lot from today's work as well!"
 0000000000000,プロデューサー,"そう言ってくれるのはうれしいけど
 疲れた時は言ってくれよ？","Hearing you say that makes me happy, but you can tell me when you're tired, you know?"
 1016001030100,千雪,ええ、大丈夫です,"Eeh, I'm alright."
@@ -54,7 +54,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"髪飾りだって、
 まず千雪が見てあげないとな","Even if there are hair ornaments there, first you have to look at yourself, okay?"
 1016001030160,千雪,"プ、プロデューサーさん……！
-ふふ、そうですね","P-Producer...! Fufu, you're right."
+ふふ、そうですね","P-Producer-san...! Fufu, you're right."
 1016001030170,千雪,ありがとうございます……♪,Thank you...♪
 0000000000000,プロデューサー,"よし、じゃあ落ち着いたら出よう
 次はレッスンだな","Alright! Since you've calmed down, let's go. Next up is your lesson."
@@ -96,7 +96,7 @@ you, Chiyuki."
 自分の勝手のせいで……",I... I'm causing a lot of trouble... And it's because of my own selfishness...
 0000000000000,プロデューサー,"そんなことないさ
 俺がちゃんと見れてなくて、悪かった",That isn't the case. I haven't been watching over you properly. I'm in the wrong.
-1016001030280,千雪,プロデューサーさん……,Producer...
+1016001030280,千雪,プロデューサーさん……,Producer-san...
 1016001030290,千雪,"少し休んだら……
 私、ちゃんと考えてみます",When I've rested a bit... I'll try thinking about it properly...
 0000000000000,プロデューサー,"……そうか
@@ -112,14 +112,14 @@ you, Chiyuki."
 0000000000000,プロデューサー,"こっちのことは気にせず、自分のことだけ考えてくれ
 千雪の人生だからな","Don't think about it from my end. Instead, think about yourself. It's your life, after all."
 1016001030311,千雪,"プロデューサーさん……
-そんなこと言わせて……ほんとに、ごめんなさい……","Producer... For you to say those things... I'm really, really sorry..."
+そんなこと言わせて……ほんとに、ごめんなさい……","Producer-san... For you to say those things... I'm really, really sorry..."
 0000000000000,,★選択肢③【千雪に任せるよ】,"★Option 3【I'll entrust it to you, Chiyuki.】"
 0000000000000,プロデューサー,千雪に任せるよ,"I'll entrust it to you, Chiyuki."
 0000000000000,プロデューサー,"千雪、いまどんな気持ちでいるかわからないけど……
 俺はこれからのこと、千雪に任せたいって思ってる","Chiyuki, I have no idea what you're feeling about your jobs right now... but from here on, I think I want to leave the decision to you."
 0000000000000,プロデューサー,"とにかく、自分を大事に考えてくれ
 迷うことがあったらいくらでも相談にのるからな","At any rate, please think about it seriously. If you feel lost, feel free to consult me about it anytime."
-1016001030320,千雪,プロデューサーさん……,Producer...
+1016001030320,千雪,プロデューサーさん……,Producer-san...
 0000000000000,プロデューサー,"きっと、考える時期なんだ
 ちょっとくらい休みを延ばしてでも","Surely, this is the time to think about it. But please rest a little bit more."
 1016001030330,千雪,"はい……私、ふらふらしてて、ごめんなさい
@@ -127,4 +127,4 @@ you, Chiyuki."
 1016001030340,千雪,"少し、待っててください
 これ以上、ご迷惑はおかけできません……","Please, wait a little bit more. I won't bother you more than I already have..."
 info,produce_events/101600103.json,
-Translator,,
+Translator,Kosakyun,
