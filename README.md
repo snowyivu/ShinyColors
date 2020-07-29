@@ -44,6 +44,7 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 3. Go to Settings > Custom Settings > JavaScript Extensions > Add a New One
 4. On the next screen you will need to set up the Match Type to Host , Match Value to shinycolors.enza.fun , Run At to Very Beginning , and then for the "Javascript Code" section, you will need to paste the entire javascript found at this link:
 https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js (screenshot is older)
+
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%"></img><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/VideoFloat.png" alt="Click the ..." width="30%"></img>
 5. Play the game through the new browser [(Link Here)](https://shinycolors.enza.fun/) You may need to refresh the page once at the start each time you play to load the script.
 6. It's recommend to disable "Video Floating" in Alook browser, so that gacha pulls and memory appeals don't attempt to open on a new page
