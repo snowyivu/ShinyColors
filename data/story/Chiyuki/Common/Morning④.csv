@@ -1,40 +1,38 @@
 id,name,text,trans
 0000000000000,プロデューサー,"千雪、おはよう
 今日はちょっと遅かったんだな","Chiyuki, good morning.
-Sorry for being a little late today."
-1016001000410010,千雪,はい。ここに来るまでに道を尋ねられて……,"Yes, though I asked how to get here..."
+You're a little late today."
+1016001000410010,千雪,はい。ここに来るまでに道を尋ねられて……,Yes. Someone asked me for the directions to this place...
 1016001000410020,千雪,"その方、かなりお困りみたいだったので
-案内してきたんです","Though, they seemed to be quite troubled...
-And that I guided them to the place."
-0000000000000,プロデューサー,（話している様子からすると、よくあることみたいだな）,(Seems to be a common thing to ask in a situation.)
+案内してきたんです","They seemed quite troubled,
+so I showed them the way."
+0000000000000,プロデューサー,（話している様子からすると、よくあることみたいだな）,"(From the way she's speaking, it seems like this happens a lot.)"
 select,,千雪は優しいな,You're really kind.
 select,,"道案内に
-慣れているんだな？","Are you slowly
-getting used to
+慣れているんだな？","Are you used
+to giving
 directions?"
 select,,"口で伝えるだけじゃ
-ダメだったのか？","Isn't it alright
-to ask them?"
+ダメだったのか？","Couldn't you just
+tell them the
+directions?"
 1016001000410030,千雪,"いえいえ……！
 そんな大したことじゃないですから","Not at all!
-It's not that big of deal..."
+It's not that big of a deal..."
 1016001000410040,千雪,"プロデューサーさんも道に迷っちゃったら
-ぜひ私に声をかけてくださいね","But really,
-If you get lost, just call me, okay?"
+ぜひ私に声をかけてくださいね","If you ever get lost, just call me, okay?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001000410050,千雪,"そうですね
-なぜか道を尋ねられることが多くて","That's right,
-I used to often ask for directions."
+なぜか道を尋ねられることが多くて","That's right.
+A lot of people ask me for directions for some reason."
 1016001000410060,千雪,"それに、
-雑貨屋はお客様を案内することもありますから","But, 
-as a general store clerk would guide a costumer as well."
+雑貨屋はお客様を案内することもありますから","Moreover, I've given directions to 
+customers at the general store as well."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001000410070,千雪,"たしかに
-それで大丈夫だったかもしれないんですけど……","Certainly,
-It would've been okay..."
+それで大丈夫だったかもしれないんですけど……","Well that certainly would have been enough, but..."
 1016001000410080,千雪,"もし、道を間違えちゃったらって
-不安になってしまって……","Though, if you made a mistake,
-you'd be worried too."
+不安になってしまって……",I'd be worried if they made a mistake along the way.
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100041.json,
-Translator,,
+Translator,Edits - Tuna/Doodle,

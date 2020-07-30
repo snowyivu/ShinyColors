@@ -113,13 +113,13 @@ So it's one of those～!"
 0,プロデューサー,やっぱり辞めたい、って思うのでもいい,"And ultimately, if you decide you just want to quit... that's fine too."
 4001026070390,小糸,──……っ,──...
 select,,"そういうこと含めて
-考えてほしいんだ","I wanted you to
-know all of that,
-so you could think
-about it, informed."
+考えてほしいんだ","Once you've
+taken all that in,
+then I want you
+to think about it."
 4001026070391,透＆円香,……,...
 0,プロデューサー,"ごめんな。でも、大事なことだと思ってる
-──概要の載った資料を置いていくから","Sorry about that. But it was important, I really do believe that.
+──概要の載った資料を置いていくから","Sorry. But it's important, I really do believe that.
 ──I'll leave the outline documents here."
 0,プロデューサー,それじゃ、練習もよろしく頼むな,Okay. Take care. And good luck with practice.
 4001026070400,雛菜,"は～い！
@@ -215,36 +215,41 @@ She's running away to there even now."
 4001026071001,小糸＆雛菜,──────,──────
 4001026071010,円香,私は──……,I...──
 4001026071020,雛菜,"え～～～！
-わ、ほんとだ～～～！","Eeeh～! Wow, for real～!"
+わ、ほんとだ～～～！","Eeeh～!
+Wow, for real～!"
 4001026071030,小糸,"──わぁ……！
-海辺の花火大会なんだね……！",──Oooh....! So it's a fireworks show on the beach...!
-4001026071040,小糸,ま、円香ちゃん……！,M-Madoka-chan...!
-4001026071050,円香,────……,────......
-4001026071060,円香,はぁ……,Ugh...
+海辺の花火大会なんだね……！","──Wow...!
+The fireworks show is going to be seaside, then...!"
+4001026071040,小糸,ま、円香ちゃん……！,Ma──Madoka-chan...!
+4001026071050,円香,────……,──...
+4001026071060,円香,はぁ……,Hahh...
 4001026071070,円香,行く,I'll go.
-4001026071080,小糸,い、行く理由は……？,And your reason for going is...?
-4001026071090,円香,いいんじゃない？　無くても,Anything wrong with not having one?
-4001026071100,雛菜,へ～？,Oh~?
+4001026071080,小糸,い、行く理由は……？,A──and your reason's gonna be...?
+4001026071090,円香,いいんじゃない？　無くても,"I'll be fine, won't I? Even without one."
+4001026071100,雛菜,へ～？,Heeh～?
 4001026071110,透,"あははっ
-いいじゃん","Ahaha.
-Seems fine to me."
-4001026071120,透,行きたいから、行きたい,We want to go because we want to.
+いいじゃん","Ahahah.
+Sounds good."
+4001026071120,透,行きたいから、行きたい,"We wanna go, so we wanna go."
 4001026071130,雛菜,"そっか～
-じゃあ行こ～！",Okay~ Then let's GO~!
+じゃあ行こ～！","Gotcha～
+Then let's go～!"
 4001026071140,小糸,"ま、円香ちゃん
-じゃあ……！","M-Madoka-chan...
-So that means...!"
+じゃあ……！","M──Madoka-chan...
+You're...!"
 4001026071150,円香,"──
 ほんとに、中身のない会話","──
-What a pointless conversation."
+Truly, a conversation with no contents."
 4001026071160,小糸,"じゃ、じゃあ……
-行けるの！？　みんなで……！",S-So... we're going...!? With the four of us...?
-4001026071170,透,行けるよ,Yeah.
+行けるの！？　みんなで……！","So──so...!
+We can go, right!? The four of us...!?"
+4001026071170,透,行けるよ,We sure can.
 4001026071180,小糸,"や、やったー……！
-プロデューサーさんに言っていい！？",Y-Yay...! Can I go tell the producer!?
+プロデューサーさんに言っていい！？","G──great...!
+Is it fine if I go tell the Producer!?"
 4001026071190,円香,"行きたい理由は無い
-────ただ、言えるのは","There's no reason for me to want to go.
-────But there's one thing I can say."
-4001026071200,円香,透にできることで、私にできないことはない,There's nothing Toru can do that I can't do.
+────ただ、言えるのは","I have no reason for wanting to go.
+──But I can say this."
+4001026071200,円香,透にできることで、私にできないことはない,There is nothing Toru can do that I cannot.
 info,game_event_communications/400102607.json,
-Translator,Pluie,
+Translator,Pluie / Emelia,

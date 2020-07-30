@@ -3,40 +3,41 @@ id,name,text,trans
 何を作っているんだ？","Good morning, Chiyuki. 
 What are you making?"
 1016001000510010,千雪,"おはようございます
-少し材料が余ったので、ぬいぐるみを作っていたんです","Good morning, I made a stuffed animal
-because there was a few more materials left."
+少し材料が余ったので、ぬいぐるみを作っていたんです","Good morning. I had some material left over, so I'm making a stuffed animal."
 1016001000510020,千雪,"そうだ、プロデューサーさんにも
-とびっきり可愛いのをお作りしましょうか♪","Say, Producer-san,
-how about we make some super cute ones?"
+とびっきり可愛いのをお作りしましょうか♪","Oh right, Producer-san,
+how about I make a super cute one for you too?"
 0000000000000,プロデューサー,"（今作っているのも
-すごく可愛らしいデザインのものみたいだが……）","(The one I'm making now
-looks like a cute design...)"
+すごく可愛らしいデザインのものみたいだが……）","(The one she's making now has an especially cute design, but...)"
 select,,"千雪が作ったもの
-なら嬉しいよ","I think you did
-a lot better
-than mine."
+なら嬉しいよ","I'm happy if 
+it's something 
+you make."
 select,,"可愛いのなんて、
-照れるよ","I feel shy about
-being cute."
+照れるよ","I feel 
+awkward
+having cute 
+things."
 select,,"千雪が持っていた
-ほうがいいと思う","I'm happy if it's
-made by you."
+ほうがいいと思う","I think it'll 
+be better if 
+you keep it."
 1016001000510030,千雪,わぁ、そんな……,"Huh, that's... "
 1016001000510040,千雪,"ふふ。じゃあ、どんなぬいぐるみがいいか
 教えていただかなきゃですね……♪","Fufu, then I guess I'll have to ask you
-which kind of stuffed animal is good...♪"
+what kind of stuffed animal you'd like...♪"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001000510050,千雪,ふふ、そうですか？,"Fufu, Is that so?"
 1016001000510060,千雪,"可愛いものとプロデューサーさん……
 きっとお似合いになるって、思いますよ？","Cute things and Producer-san...
-Do you think they would match together?"
+I think they'd really suit each other, you know?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001000510070,千雪,"そうですか……
-プロデューサーさんがそうおっしゃるなら……","Is that so?
+プロデューサーさんがそうおっしゃるなら……","I see...
 If you say so..."
 1016001000510080,千雪,"でも、遠慮なさらず
 もらってほしいなって思います","But don't hesitate
-to ask me how to make one."
+to ask me for one, okay?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100051.json,
-Translator,,
+Translator,Edits - Tuna/Doodle,
