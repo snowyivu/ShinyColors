@@ -1,0 +1,26 @@
+id,name,text,trans
+4004001000130010,恋鐘,"プロデューサー、今日の衣装、露出が多いというか……
+ちょっと派手じゃなか？","Producer, today's outfit shows a lotta skin...
+or rather, ain't it a bit gaudy?"
+0000000000000,プロデューサー,（恋鐘は衣装の露出が少し気になっているようだな）,"(Looks like Kogane is a little worried that her
+outfit shows so much skin.)"
+select,,"なんでも着こなす
+ところを見てもらおう","Show them that
+you look good
+in anything."
+select,,良く似合っているぞ,It suits you well.
+select,,我慢しよう,Just bear it.
+4004001000130020,恋鐘,"そうやね！　うちもプロなんやし……
+どんな衣装も着こなせるとこ見せないけんね！","That's right! I'm a professional too...
+I gotta show'em that I can look good in anything!"
+0000000000000,プロデューサー,（よし、しっかりと気合が入ったようだな）,"(Great, looks like she's getting into it now.)"
+4004001000130030,恋鐘,"えへへ……も～！
+そ、そげんことばっかり言って～","Ehehe... oh geez～!
+Y-ya always say stuff like that～."
+0000000000000,プロデューサー,（よし、なんとか気を逸らせたようだな）,"(Great, I was able to distract her.)"
+4004001000130040,恋鐘,"プロデューサーがそう言うならうち、頑張るばい……
+ばってん……","If ya say so, I'll do my best...
+But still..."
+0000000000000,プロデューサー,（しまった、もう少し別の言葉をかけるべきだったな）,"(Dammit, I should have said something different.)"
+info,produce_communication_cheers/400400100013.json,
+Translator,,,Toiski

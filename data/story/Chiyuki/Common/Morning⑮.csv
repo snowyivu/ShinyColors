@@ -1,17 +1,19 @@
 id,name,text,trans
 1016001001510010,千雪,"プロデューサーさん、ご相談したいことがあって……
-こういった器具って、なにを買ったらいいんでしょうか？","Producer, I want to ask you about something...
+こういった器具って、なにを買ったらいいんでしょうか？","Producer-san, I want to ask you about something...
 What should I buy for this gadget?"
 0000000000000,プロデューサー,これは……トレーニング用品のカタログか？,Is this from... a training equipment catalog?
 1016001001510020,千雪,"はい。アイドルのレッスン以外にも
 自宅でもっと気軽に運動したいと思ってて……","That's right. Besides my Idol lessons,
 I want to exercise more at home easily..."
 0000000000000,プロデューサー,（千雪は健康に気を使っているみたいだな）,(Chiyuki seems to be taking care of her health.)
-select,,一緒に調べてみるか,"Do you wanna do
-a check together?"
+select,,一緒に調べてみるか,"Do you wanna 
+do a check 
+together?"
 select,,"トレーナーの人に
-聞いてみるか","Do you want help
-from a trainer?"
+聞いてみるか","Do you want 
+help from a 
+trainer?"
 select,,"まずはレッスン
 だけに集中しよう","Let's concentrate
 on the lessons

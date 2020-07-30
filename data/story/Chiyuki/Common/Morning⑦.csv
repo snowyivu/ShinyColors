@@ -14,11 +14,13 @@ with you too?"
 select,,"すれ違う人が
 挨拶してくれるよな","When a passing
 person passes by,
-and they greet you."
+and they greet 
+you."
 select,,"朝は眠くて、
-俺には無理だな","I feel sleepy in the
-morning, and it's impossible
-for me to feel energetic."
+俺には無理だな","I'm drowsy
+most mornings,
+so I couldn't
+do that."
 1016001000710030,千雪,わぁ、それ、素敵です！,Oh! That would be wonderful!
 1016001000710040,千雪,"プロデューサーさんと一緒なら
 いつもよりたくさん走れそうです♪","Being with you,
@@ -29,10 +31,10 @@ I can run a lot more than usual♪"
 would greet you with a smile."
 1016001000710060,千雪,今日も一日頑張ろうって思えちゃうんですよね♪,I think I'll do my best for today as well♪
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1016001000710070,千雪,プロデューサーさん、もしかして朝が弱いんですか……？,"Producer, are you easily tired in the morning?"
+1016001000710070,千雪,プロデューサーさん、もしかして朝が弱いんですか……？,"Producer-san, are you not a morning person?"
 1016001000710080,千雪,"ダメですよ？
-あんまり遅くまでダラダラしてたら","Aren't you?
-Don't be sluggish and go sleeping very late."
+あんまり遅くまでダラダラしてたら","That's not good, you know?
+Don't stay up so late slacking off, okay?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100071.json,
 Translator,,

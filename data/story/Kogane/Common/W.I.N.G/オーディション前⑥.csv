@@ -1,0 +1,27 @@
+id,name,text,trans
+4004001000230010,恋鐘,"今回はうちのすごいとこをアピールしようと思うんよ！
+どこをアピールすればよか？","I think I should appeal with my best side today!
+What do ya think that is?"
+0000000000000,プロデューサー,（恋鐘のアピールポイントか……）,(Kogane's appealing point is...)
+select,,ポジティブなところ,Your positivity.
+select,,自分の特技,Your special skills.
+select,,セクシーさ、とか？,"Maybe your
+sexiness?"
+4004001000230020,恋鐘,"んふふー！　プロデューサーの言う通りやね
+うち、全力でぶつかってくるばい！","Mhehe! It's just as ya say, producer.
+I'll go hit 'em with my best shot!"
+0000000000000,プロデューサー,"（うん、恋鐘のこの前のめりな精神なら
+きっと大丈夫だろう）","(Yep, I'm sure Kogane's forward-leaning
+mentality will serve her well."
+4004001000230030,恋鐘,"ええね～！　踊り、演技、歌、料理、似顔絵……
+全部アピールするばい！","Good idea～! Dance, acting, singing, cooking,
+drawing caricatures... I'll appeal with all that!"
+0000000000000,プロデューサー,"（うーん、全部は多すぎるような……
+けど、やる気は十分みたいだな）","(Uh, I think everything is too much...
+But she's not lacking in spirit.)"
+4004001000230040,恋鐘,"うんう……って、ええ！？
+ぷ、プロデューサーがそう言うなら……が、頑張るばい","Yep, yep... wait, huh!?
+I-If'n ya say so... I-I'll do my best."
+0000000000000,プロデューサー,（動揺させてしまったか……）,(I made her lose her composure...)
+info,produce_communication_cheers/400400100023.json,
+Translator,,,Toiski

@@ -1,0 +1,34 @@
+id,name,text,trans
+1004001000110010,恋鐘,おはよー！　プロデューサー！,Good morning! Producer!
+0000000000000,プロデューサー,ああ、おはよう。恋鐘,"Oh, good morning, Kogane."
+1004001000110020,恋鐘,"んふふ～！　うち、今日は何でもできる気がするたい！
+バッチコーイ！","Ehehe～! I feel like I can do anythin' today!
+Lemme at'em!"
+0000000000000,プロデューサー,"（恋鐘は今日も元気だ
+むしろ元気が有り余ってるみたいだな）","(Kogane is as cheerful as always.
+She's almost too cheerful today.)"
+select,,レッスン日和だな,"It's nice weather
+for lessons."
+select,,少し身体でも動かそうか,"Shall we move
+our bodies?"
+select,,ちょっと落ち着こう,"Let's calm down
+a little."
+1004001000110030,恋鐘,"うん！　天気もいいし元気も十分！
+まさにレッスン日和たい！","Yep! The weather's great and I'm feelin' fine!
+It sure is nice weather for lessons!"
+1004001000110040,恋鐘,"うち、今日はすごい頑張れる気がするばい！
+やけん、早よーレッスン行こ！","I feel like givin' it all I got today!
+So let's scoot on over to the lesson!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1004001000110050,恋鐘,"ん？　ストレッチでもするん？
+そんならうち、ばり得意たい！","Hm? Like doing some stretches?
+That's right in my wheelhouse!"
+1004001000110060,恋鐘,ほら、こんなに体が柔らかとよ～！,"See, I'm this limber～!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1004001000110070,恋鐘,う、うちそんなに慌ててなかとよ～,I-I didn't think I was in that big a hurry～
+1004001000110080,恋鐘,"ばってん、事務所でちょっとはしゃぎすぎたけん……
+それはちょっと申し訳なか……","But I did make a big ol' racket in the office...
+I'm mighty sorry 'bout that..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100400100011.json,
+Translator,,,Toiski

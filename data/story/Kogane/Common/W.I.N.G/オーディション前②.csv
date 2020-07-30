@@ -1,0 +1,29 @@
+id,name,text,trans
+4004001000120010,恋鐘,"うわー、やっぱりみんな、気合入っとるねー……
+うちも負けられんばい……！","Whoa, everyone's as pumped as you'd expect...
+I won't be left in the dust...!"
+0000000000000,プロデューサー,"（確かに、空気がピリピリしてるな
+恋鐘も少し緊張しているみたいだ……）","(Certainly, there's electricity in the air.
+Looks like Kogane is starting to try hard too...)"
+select,,必ず合格できるぞ,"I'm sure
+you can pass."
+select,,大丈夫そうか？,"Do you think
+it'll work out?"
+select,,"いいアイドルが
+そろってるな","It's a gathering
+of great idols."
+4004001000120020,恋鐘,"そうやね！　プロデューサーの言う通りたい！
+うちにアイドルやらせたら、右に出るもんはおらんもんね！","That's right! It's just as ya say! When ya let me
+loose, there ain't no idol better'n me!"
+0000000000000,プロデューサー,（よし、いつも通りの恋鐘の力が出せそうだな）,"(Great, looks like she'll be able to express
+her usual energy.)"
+4004001000120030,恋鐘,"問題なか！　って言いたかけど、少し緊張しとるかも……
+けど、プロデューサーと一緒なら大丈夫たい！","No problem! I say that, but I'm a little nervous...
+But I'll be fine since you're here with me!"
+0000000000000,プロデューサー,（まだ緊張気味だが、これなら大丈夫そうだな）,"(She's still nervous, but looks like she'll be fine.)"
+4004001000120040,恋鐘,"そげんこと分かっとーばい
+ちゃんとうちのこと応援しててよ？","I know that much.
+Just cheer me on, okay?"
+0000000000000,プロデューサー,（かける言葉を間違えたかな……？）,(Did I choose the wrong words...?)
+info,produce_communication_cheers/400400100012.json,
+Translator,,,Toiski

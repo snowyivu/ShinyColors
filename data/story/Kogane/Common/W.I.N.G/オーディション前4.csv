@@ -1,0 +1,33 @@
+id,name,text,trans
+4004001000210010,恋鐘,"ここの振付は……よし、タイミングも……よし
+うん！　今日もいい感じたい～","This choreography... check, timing... check.
+Yep! Feelin' great about today again～!"
+0000000000000,プロデューサー,"（最後の確認中みたいだな
+しっかりアドバイスして恋鐘らしさをさらに引き出すぞ）","(Looks like she's going through final prep. I'll tease
+out her presonality with a last bit of solid advice."
+select,,"失敗を恐れず
+全力でいこう","Don't fear mistakes,
+give it your all."
+select,,"気にしすぎるのも
+良くないぞ","It's not good to
+worry too much."
+select,,ミスしないようにな,"Just don't make
+any mistakes."
+4004001000210020,恋鐘,"うん！
+よーし、うちの全力見せるけんねー！","Yep!
+Okay, I'll show'em what I've got!"
+0000000000000,プロデューサー,"（よし、さらにやる気を引き出せたな
+この調子なら大丈夫そうだ）","(Great, I teased out some more eagerness.
+It'll be fine with this mood.)"
+4004001000210030,恋鐘,"確かにそうかもしれんね！
+ここまで来たら、うちらしくやりきるだけっちゃね！","Ya might be right about that!
+I made it this far, I'll just finish it my way!"
+0000000000000,プロデューサー,（うまく肩の力が抜けたようだな）,(Looks like she's relaxed enough.)
+4004001000210040,恋鐘,"も、もちろん、大丈夫ばい！
+この日のためにレッスンしてきたんやし、大丈夫……！","O-of course I'll be fine!
+I'll be fine, I practiced for this day...!"
+0000000000000,プロデューサー,"（余計なことを言って
+少し不安にさせてしまったか……？）","(Did I say something unnecessary
+and end up making her uneasy...?)"
+info,produce_communication_cheers/400400100021.json,
+Translator,,,Toiski

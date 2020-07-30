@@ -1,0 +1,24 @@
+id,name,text,trans
+4004001000110010,恋鐘,"よーっし！
+やるからには全力でやるけんね！","All right!
+Since I'm going, I'm going whole hog!"
+0000000000000,プロデューサー,"（今日の恋鐘はやる気に満ちているな……
+よし、プロデューサーとして背中を押すぞ）","(There's a fire lit under Kogane today...
+Okay, as her producer I'll just give her a little push."
+select,,思いっきりいけ,Go full-blast.
+select,,落ち着いていこう,Calm down first.
+select,,失敗しないようにな,Try not to fail.
+4004001000110020,恋鐘,"うん！　うち、ばりばりアピールしてくるけん！
+じゃあ、行ってくるばい！　プロデューサー！","Yep! I'm gonna show them my real darn best!
+Well then, I'm going! Producer!"
+0000000000000,プロデューサー,（よし、この勢いなら大丈夫そうだな）,"(Great, this momentum will carry her through.)"
+4004001000110030,恋鐘,"うち、そんなに緊張して見えると？
+ちょっとドキドキするけど、大丈夫ばい！","Did I look that nervous?
+My heart's a bit a-flutter, but I'm fine!"
+0000000000000,プロデューサー,（よし、そこまで気負っていないようだな）,"(Okay, looks like she's not that worked up.)"
+4004001000110040,恋鐘,"プロデューサーは心配性やね
+それとも……うちのこと、信用してなかと……？","Producer, you're a worrywart.
+Or don't ya trust me...?"
+0000000000000,プロデューサー,（しまった、もう少し信用してあげれば良かったな……）,"(Dammit, I should have trusted her more...)"
+info,produce_communication_cheers/400400100011.json,
+Translator,,,Toiski
