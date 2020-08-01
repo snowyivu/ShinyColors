@@ -1,0 +1,38 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな",I heard the results... It seems like this is the end.
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...Right. I wasn't able to reach our goal.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね","""W.I.N.G."" is a stage every idol yearns for, after all."
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems like the road was too steep...
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I'm sorry for not being able to bring out good results...
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...It's not the time to say sorry to us. She's waiting for you, right?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"I'm sure it's rough, but this is part of your job too."
+0000000000000,プロデューサー,……行ってきます,...I'm going.
+0000000000000,プロデューサー,"真乃……残念だけど
+一次審査は突破できなかった",Mano... I'm afraid we didn't pass the first round of judging.
+7001001020010,真乃,"そうですか……私なりに頑張ってみましたけど
+だめだったんですね……","I see... I tried giving it my all, but it was for nothing..."
+7001001020020,真乃,"ごめんなさい……私の力不足で……
+プロデューサーさんはすごくよくしてくれたのに……","I'm sorry... It's because of my lack of skill...
+Even though you've done so much for me..."
+0000000000000,プロデューサー,"気を落とすな、真乃
+これで全部が終わりってわけじゃない",Don't be disheartened Mano. It all doesn't end here.
+0000000000000,プロデューサー,"アイドルとしての櫻木真乃は、
+まだまだこれからだからな",The idol Mano Sakuragi is just starting to flap its wings.
+7001001020030,真乃,"プロデューサーさん……
+ありがとうございますっ",Producer-san... Thank you so much.
+7001001020040,真乃,プロデューサーさんの気持ち、すごくうれしいです,Your feelings fill me with happiness.
+7001001020050,真乃,"私……もっと頑張りますからね
+むんっ","I'll...try even harder!
+Mun!"
+0000000000000,プロデューサー,"よし、その意気だ！
+俺も今以上に真乃をサポートしていくからな","Alright, that's the spirit!
+From now on, I'll support you more than ever as well."
+7001001020060,真乃,"はいっ、これからもよろしくお願いします
+プロデューサーさんっ","Understood! From now on please look after me,
+Producer-san."
+info,produce_events/700100102.json,
+Translator,kobster#1446,

@@ -1,0 +1,54 @@
+id,name,text,trans
+7001001050010,真乃,"あ、あの……プロデューサーさん
+審査の結果は……どうでしたか？","S-so...Producer-san.
+How did the...judging results turn out?"
+0000000000000,プロデューサー,"やったぞ、真乃！
+おめでとう、三次審査通過だ！","You did it!
+You passed the third round, congratulations!"
+7001001050020,真乃,"三次審査、通過……
+はぁぁ……よ、よかったぁー","The third round... I passed...
+Phew, I-i'm glad..."
+0000000000000,プロデューサー,"ああ、本当によかったよ
+けど、真乃から結果を聞きにくるなんて珍しいな","Likewise, I'm glad as well.
+But it's unusual for you to come to ask about the results."
+7001001050030,真乃,"はい……結果が今日に出るって聞いて
+ずっとそわそわしてました","Yeah... I heard the results were coming today, so I've been super nervous."
+7001001050040,真乃,"楽しみなような怖いような……早く結果を知りたくて
+ずーっとプロデューサーさんが来るのを待ってましたっ","The results are as exciting as they are scary... I couldn't wait to hear them, so I've been waiting for you to arrive."
+0000000000000,プロデューサー,"よかったな、
+これで『W.I.N.G.』が見えてきた","Glad to hear it. With this, W.I.N.G. is in sight."
+7001001050050,真乃,"はいっ、でも実はまだ……
+『W.I.N.G.』出場が近づいてきたっていう実感がなくて","Right, but the truth is... It feels like I'm not even close to competing in W.I.N.G."
+7001001050060,真乃,"今はアイドルとしての毎日がすごく楽しいんです
+まだ道は続いてるんだなって、まず安心しちゃいました","Right now, being an idol makes every day really fun. It made me relieved that there's still a long way to go."
+7001001050070,真乃,"アイドルでいられるのが、この日常が続くのが
+こんなにもうれしいだなんて……","By just being an idol, this everyday life continuing makes me really happy somehow..."
+0000000000000,プロデューサー,"真乃が心からアイドルをしていたい、という想いが
+この結果に繋がったんだよ",Your feelings of wanting to be an idol from your heart led to these results.
+7001001050080,真乃,はい！　ありがとうございますっ,Right! Thank you so much.
+7001001050090,真乃,"こんなにうれしかったことも……
+楽しかったことも、今までなかったです",I've never been so happy and had so much fun before.
+0000000000000,プロデューサー,"そうか、でもこれからは
+もっとうれしいことがたくさん起きるぞ","I see, then from now on let's make more and more good things happen!"
+7001001050100,真乃,"ほわ？
+今よりもっと……？",Howa? More good things than now?
+0000000000000,プロデューサー,"ああ、真乃はこれから次の予選も突破して
+『W.I.N.G.』で優勝するんだからな！",That's right! Because you're going to pass through the qualifiers and win W.I.N.G.!
+7001001050110,真乃,"私が『W.I.N.G.』で優勝……！？
+そ、そんな夢みたいな……","Me, the champion of W.I.N.G....!?
+T-that seems unreal..."
+0000000000000,プロデューサー,"いや、優勝はそんなに遠い目標なんかじゃないぞ
+あとひとつで本選出場なんだからな！",No way! Winning W.I.N.G. isn't far away at all. You're just one step away from being in the finals!
+0000000000000,プロデューサー,"真乃ならやれるって、俺は信じてる
+きっとファンのみんなもな！","Mano can do it, I believe in you. I'm sure all your fans do too!"
+7001001050120,真乃,"ほわわ……プロデューサーさんにそう言ってもらえると
+本当にできちゃう気がしてきますっ",Howawa... I'm glad to hear that from you Producer-san. I really feel like I can do it.
+7001001050130,真乃,"そうですよね……みなさんのためにも、
+出場するだけではなく……その先も目指して……","That's right... For all of my fans, I'll not only compete in W.I.N.G....but aim even higher."
+7001001050140,真乃,"『W.I.N.G.』の舞台で輝けるアイドルになれるよう、
+これからも頑張ります！","To become an idol that shines on the W.I.N.G. stage, from now on I'll give my all!"
+0000000000000,プロデューサー,ああ、俺も精一杯サポートするぞ！,"Alright, I'll also support you with all I've got!"
+7001001050150,真乃,"はいっ、これからも頼りにしてますね、
+プロデューサーさんっ","Okay, from now on let's try our best, Producer-san."
+info,produce_events/700100105.json,
+Translator,kobster#1446,
