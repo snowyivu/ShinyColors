@@ -1,0 +1,27 @@
+id,name,text,trans
+4020001000120010,透,"──え、なんかみんな
+マネージャーとかと手握ってる","──Eh? Everyone's sort of, like,
+holding the hands of their managers and stuff."
+0000000000000,プロデューサー,"（……ああ、まぁ
+本番前は緊張もマックスだろうからな──）","(...true, yeah.
+People's nerves max out right before the real thing──)"
+select,,透も握るか？,"Did you wanna
+too, Toru?"
+select,,透は大丈夫か？,"You okay,
+Toru?"
+select,,気にしなくていい,"You don't have
+to mind them."
+4020001000120020,透,"え、いいよ
+プロデューサーでしょ、緊張してるの","Eh? I'm fine.
+You're the one, right, Producer? Getting nervous."
+0000000000000,プロデューサー,（通常運転だ、透）,"(Operating as normal, Toru.)"
+4020001000120030,透,"うん
+……え、握手しとく？","Yeah.
+...huh? Should we shake hands?"
+0000000000000,プロデューサー,（はは、大丈夫そうだ）,"(Haha, you seem alright.)"
+4020001000120040,透,"えー
+なんか、そう言われると","Eeh?
+You, like... I dunno, the way you put it..."
+0000000000000,プロデューサー,（す、すまん……ちゃんと気持ちを上げてあげないと）,(S──sorry... I've gotta do a proper job of boosting morale for you.)
+info,produce_communication_cheers/402000100012.json,
+Translator,,

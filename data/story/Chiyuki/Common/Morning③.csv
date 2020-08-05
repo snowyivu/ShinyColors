@@ -1,7 +1,7 @@
 id,name,text,trans
 1016001000310010,千雪,"あれ？　プロデューサーさん
-今朝は、コンビニごはんですか？","Huh, Producer-san?
-Are you having a meal from the convenience store?"
+今朝は、コンビニごはんですか？","Oh? Producer-san,
+are you having a meal from the convenience store?"
 0000000000000,プロデューサー,"ああ、そうなんだ
 バタバタしてて、あまり時間が取れなくてな","Yes, that's right. Things were a bit hectic 
 this morning, so I didn't have much time to prepare a meal."
@@ -11,8 +11,8 @@ with you, would you like some of my lunchbox?"
 0000000000000,プロデューサー,（千雪のお弁当、うまそうだ……）,(Chiyuki's lunchbox looks delicious...)
 select,,"千雪の分が
 なくなってしまう","But there won't
-be enough for
-you."
+be enough left
+for you."
 select,,"千雪は料理も
 できるんだな","So you can
 cook as well."

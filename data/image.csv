@@ -26,7 +26,7 @@ images/content/produce_place_categories/level_up_title/00003.png,00003.png,7
 images/content/produce_place_categories/level_up_title/00004.png,00004.png,7
 images/content/produce_place_categories/level_up_title/00005.png,00005.png,7
 images/content/produce_place_categories/level_up_title/00006.png,00006.png,7
-images/ui/skill_board/parts.json_image,skill_board.png,13
+images/ui/skill_board/parts.json_image,skill_board.png,14
 images/ui/common/parts_skill_list.json_image,parts_skill_list.png,10
 images/ui/login_bonus/parts.json_image,login_bonus.png,8
 images/ui/produce_common/parts_hint.json_image,parts_hint.png,9
@@ -515,3 +515,9 @@ images/content/comics/web/page/10208.jpg,4koma/208.jpg,1
 images/content/comics/web/page/10209.jpg,4koma/209.jpg,1
 images/ui/common/parts_filter_category.json_image,common_parts_filter_category.png,1
 images/ui/comic/parts.json_image,comic_parts.png,8
+images/ui/produce_action/parts_effect.json_image,produce_action_effect.png,7
+images/ui/produce_top/parts_produce_item_content.json_image,produce_top_item_content.png,9
+images/ui/cloth_change/content_parts.json_image,cloth_change_parts.png,8
+images/ui/concert/parts_pause.json_image,concert_parts_pause.png,9
+images/ui/concert_result/parts_fan_meeting.json_image,concert_result_parts_fan_meeting.png,2
+images/ui/produce_ending/parts_reward_trust.json_image,parts_reward_trust.png,3

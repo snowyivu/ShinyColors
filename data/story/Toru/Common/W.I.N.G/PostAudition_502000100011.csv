@@ -1,0 +1,18 @@
+id,name,text,trans
+0000000000000,プロデューサー,よし、透！　合格だ！,"Alright, Toru! That's a pass!"
+5020001000110010,透,"うん
+着替えてきてもいい？","Yeah.
+Can I go get changed now?"
+0000000000000,プロデューサー,"──え？　……ああ、構わないけど
+もうちょっと喜んだり──","──Eh? ...uhh, sure, I don't mind, but──
+I was thinking you'd be more happy──"
+5020001000110020,透,いってくるね,"I'll be going, then."
+0000000000000,プロデューサー,"──あ、こら
+控室までは飾りを取らない！",──Wait! Hey! Don't start taking your accessories off before you're even in there!
+5020001000110030,透,……はーい,...got it.
+5020001000110040,透,"ふふっ
+ありがと、プロデューサー","Fufu.
+Thank you, Producer."
+5020001000110050,透,嬉しいから、色々,I'm happy. For a lot of things.
+info,produce_communication_auditions/502000100011.json,
+Translator,,

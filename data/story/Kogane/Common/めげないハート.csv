@@ -1,0 +1,131 @@
+id,name,text,trans
+0,プロデューサー,ただいま戻りましたー,I'm back.
+1004001040010,恋鐘,……,...
+0,プロデューサー,ただいまー……,I'm back...
+1004001040020,恋鐘,……はぁ,...sigh.
+0,プロデューサー,……恋鐘？　大丈夫か？,...Kogane? Are you all right?
+1004001040030,恋鐘,"え……うわああ！　ぷ、プロデューサーか～！
+戻ってたんやね！　おかえりー","Oh... Whoa! P-producer～!
+You're back! Wecome."
+0,プロデューサー,"なんか難しい顔してたけどどうした？
+悩み事か？","You were making a pretty sullen face there.
+What's up? Is something causing you worry?"
+1004001040040,恋鐘,"え！？　いやいや、うちが悩みなんて……
+そんなんあるわけなかばい～！","Eh!? No, no, ya know me...
+I'm never worried 'bout anthin'!"
+0,プロデューサー,本当か？,Really?
+1004001040050,恋鐘,"う、うん……！　ホントホント！
+ほら！　うち、ばり元気たい！","Y-yep...! Really, really!
+See! Right as rain!"
+0,プロデューサー,恋鐘……遠慮なんかする必要はないんだぞ？,"Kogane... you don't have to hold anything back
+from me."
+0,プロデューサー,"俺は恋鐘のプロデューサーだ
+解決できるかわからんが、一緒に考えるくらいはできる","I'm your producer. I don't know if I can resolve
+your worries, but I can at least share them."
+1004001040060,恋鐘,"プロデューサー……
+うん、ありがとーね……","Producer...
+Yep, thanks..."
+1004001040070,恋鐘,実は……ちょっと考え事しとったんよ,Actually... I had some concerns...
+0,プロデューサー,考え事？,Concerns?
+1004001040080,恋鐘,"うん、最近ユニットでもソロでもお仕事が増えて
+うちはホントにうれしかばい……","Yep, recently there's been a lot more work, both
+with the unit an' alone, and I'm reall happy..."
+1004001040090,恋鐘,けど、その仕事でうち、いっつも失敗してしまうんよ……,"But, I'm always makin' blunders..."
+1004001040100,恋鐘,"みんな笑っち許してくれて、仕事自体はうまくいっとるけど
+ホントにそれでよかとかいなって……","Everyone just laughs it off, an' the work itself goes
+all right, but I think it can't keep goin' like this..."
+1004001040110,恋鐘,"うち、最初んころは何でもできるつもりやったばい……
+うちがアイドルになったらすぐ一番になれるって思っとった","When I was startin' out, I thought I could do it all...
+that I could become the top idol in no time."
+1004001040120,恋鐘,"けど……実際アイドルやってみたら……
+みんなと比べたら……できんこと、ばっかりで……","But... when I started doin' idol work... compared
+to everyone, there's so much I can't do..."
+1004001040130,恋鐘,うちの憧れてたアイドルってこんなんやっけって……,That I was aspirin' to be an idol like that...
+0,プロデューサー,"（そうか……失敗しても気にしてないように見えてたけど
+やっぱり恋鐘なりに思うところがあったんだな）","(I see... she looked unfazed by mistakes, but
+Kogane still had her own worries...)"
+1004001040140,恋鐘,"うち、子どものころから地元のみんなに
+歌上手いねっ、可愛いねって言われて","Since I was a small'un, the folks back home told
+me I was great at singin', that I was cute."
+1004001040150,恋鐘,恋鐘ちゃんならいいアイドルになれるって言われてきて……,I've always been told I'd make a great idol...
+1004001040160,恋鐘,"それがずっとうちの自信の源やった……
+もちろん、今もみんなのこと疑ってなんかなかよ？","That was always the source of my confidence...
+And I ain't doubtin' them even now, ya know?"
+1004001040170,恋鐘,"けど……うちは、そんなみんなが誇れるようなアイドルに
+なれてるんかいなって……ちょこっと不安になって……","But, I'm a little worried that I'm... not the kind of
+idol all those folks could be proud of..."
+0,プロデューサー,そうか……恋鐘も悩んでたんだな……,I see... you were worried about something too...
+0,プロデューサー,"けど、頑張ろうとしてドジをしてしまうところは
+恋鐘のよさだと思うぞ","But I think your habit of messing up when you're
+giving your all is one of your good points."
+0,プロデューサー,"恋鐘には恋鐘のよさがあるんだから
+他と比べなくてもいいんじゃないか？","You have your own good points, so you don't
+need to compare yourself to others, okay?"
+1004001040180,恋鐘,そう、なんかな……,Is that really true...?
+1004001040190,恋鐘,"でも……
+うち、プロデューサーにも迷惑ばっかかけとるし……","But...
+I keep makin' trouble for you too, producer..."
+0,プロデューサー,恋鐘……,Kogane...
+select,,"なんのために
+俺がいるんだ","What am I
+here for?"
+select,,そんなこと気にするな,"Don't worry
+about that."
+select,,"いつもの恋鐘は
+どこにいったんだ","Where did the
+usual  Kogane go?"
+0,プロデューサー,なんのために俺がいるんだ,What am I here for?
+0,プロデューサー,"恋鐘が失敗したり、間違った時フォローするために
+俺はいるんだ","I'm here to cover for you when you fail or
+make mistakes."
+0,プロデューサー,"俺に迷惑がかかるなんて気にするな
+むしろたくさんかけろ！","Don't worry about making trouble for me.
+Rather, keep making lots!"
+1004001040200,恋鐘,"プロデューサー……うん！　わかったばい！
+ありがとー！","Producer... Yep! I got it!
+Thanks!"
+1004001040210,恋鐘,"うちはやっぱ、プロデューサーに迷惑かけると思う……
+けどその100倍、いや1万倍の笑顔を作ってみせるけん！","I think I'll keep makin' trouble for ya after all...
+But I'll make 100, no, 10 000 smiles for each time!"
+0,プロデューサー,ああ、それでこそ恋鐘だ,"Yeah, that's my Kogane."
+1004001040220,恋鐘,"えへへ、プロデューサー
+これからもばり迷惑かけるけど……よろしゅうね！","Ehehe, producer. I'll make more trouble for ya,
+but... I'm in your care!"
+0,プロデューサー,そんなこと気にするな,Don't worry about that.
+0,プロデューサー,"恋鐘が周りを気にして小さく丸まってしまったら
+きっとファンもがっかりするぞ","You'll let the fans down if you worry about your
+surroundings so much you curl up into a tiny ball."
+0,プロデューサー,"ファンのみんなも、そして俺も
+どこまでも一生懸命な恋鐘が好きで応援してるんだからな","The fans, and I as well, love and support the
+Kogane who's always giving her utmost effort."
+1004001040230,恋鐘,"そっか……うち自分が失敗することばっか考えて
+周りのこと見えてなかったかもしれん……","I see... Might be I was thinkin' too much about
+my own failures to see the folks around me..."
+1004001040240,恋鐘,"うちが失敗するかやない、みんなが楽しんでくれるかが
+大事やもんねー！","Me failin' or not ain't what's important, it's
+that everyone's havin' fun!"
+0,プロデューサー,ああ、そうだ恋鐘,"Yeah, that's right, Kogane."
+1004001040250,恋鐘,"うん、わかった！　うち失敗なんかもう気にせんばい！
+なんにでも挑戦していくけん！　よろしゅうね！","Yep, I got it! I won't wpay mind to failin' anymore!
+I'll take on anythin'! Please take care of me!"
+0,プロデューサー,いつもの恋鐘はどこにいったんだ,Where did the usual  Kogane go?
+0,プロデューサー,"確かに恋鐘が憧れたアイドルには
+恋鐘はなれてないかもしれない……","You might not have become an idol like those
+you looked up to..."
+0,プロデューサー,"でも、恋鐘は恋鐘として
+今いろんな人から憧れられてる","But many people look up to you,
+just the way you are."
+0,プロデューサー,"アイドルの在り方はひとつじゃない
+恋鐘は恋鐘っていうただ一人のアイドルになるべきなんだ","There's no one way to be an idol.
+You should become an idol that only you can be."
+1004001040260,恋鐘,"そっか……そうやんね！
+誰かのマネっこなんかうちらしくないばいー！","I see... that's how it is!
+It ain't like me to be copyin' others!"
+1004001040270,恋鐘,"せっかく、プロデューサーにアイドルにしてもらったけん
+やりたいようにやらんともったいなかよね！","I can't waste the chance to do this my way,
+seein' as how you made me an idol after all!"
+1004001040280,恋鐘,"ありがとう！　プロデューサー！
+うち、なんかわかったような気がするばい！","Thank you! Producer!
+I think I understood somethin' here!"
+info,produce_events/100400104.json,
+Translator,,,Toiski

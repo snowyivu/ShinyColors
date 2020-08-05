@@ -1,0 +1,27 @@
+id,name,text,trans
+4020001000230010,透,"なんか言って
+言ってほしい、プロデューサー","Say something.
+I want you to say something, Producer."
+0000000000000,プロデューサー,（……透────）,(...Toru──)
+select,,"ひとりじゃないぞ
+俺も一緒だ","You're not alone.
+I'll be right there
+with you."
+select,,頑張れ,Do your best.
+select,,"信じてくれ
+透のこと","Believe in
+yourself, Toru."
+4020001000230020,透,"……ふふっ
+やばい、刺さる、それ","...fufu.
+Oh no. My heart. That went straight through."
+0000000000000,プロデューサー,（よかった。安心してくれたかな）,(Phew. She seems like she got a little peace of mind.)
+4020001000230030,透,"……うん
+それしかないよね","...yeah.
+Nothing else but that, is there."
+0000000000000,プロデューサー,（よし、その感じだ）,"(Alright, just like that.)"
+4020001000230040,透,"ふふっ
+セリフっぽいよ","Fufu.
+That's a straight-up line, c'mon."
+0000000000000,プロデューサー,（あんまり伝わらないか……？）,"(Did that not get across to her, maybe...?)"
+info,produce_communication_cheers/402000100023.json,
+Translator,,

@@ -1,35 +1,34 @@
 id,name,text,trans
 0000000000000,プロデューサー,"おはよう千雪
-それ……スケッチしてるのか？","Good morning, Chiyuki.
+それ……スケッチしてるのか？","Morning, Chiyuki.
 Are you... sketching?"
 1016001001010010,千雪,"はい、衣装作りで、お姫様のドレスをイメージしてたら
-止まらなくなってしまって……","Yes, I'm sketching a princess dress-like costume.
-Though, I feel like it's missing something..."
+止まらなくなってしまって……","Yes, I was brainstorming ideas for a princess-dress-like costume, and I couldn't stop myself..."
 1016001001010020,千雪,"プロデューサーさんは
-この中で、どれか好きなのありますか？","Hey, Producer-san,
-Which one do you like the most?"
-0000000000000,プロデューサー,（うーん、色々あるけど……）,"(Well, there's various choices for me to choose...)"
+この中で、どれか好きなのありますか？",Which of these do you like the most?
+0000000000000,プロデューサー,（うーん、色々あるけど……）,"(Hmm, there are a variety to choose from...)"
 select,,シフォンのドレス,The chiffon dress.
 select,,"ハートの
-ついたドレス","The heart-like
-dress."
+ついたドレス","The dress with 
+the hearts on it."
 select,,フリルのドレス,The frilly dress.
-1016001001010030,千雪,ふふ、私もこの衣装、お気に入りなんです,"Fufu, I think like this for a costume!"
-1016001001010040,千雪,昔、絵本で読んだシンデレラの衣装みたいで……！,"It reminds me of Cinderella's dress, from the picture book I read about when I was young."
+1016001001010030,千雪,ふふ、私もこの衣装、お気に入りなんです,"Fufu, I also like this costume!"
+1016001001010040,千雪,昔、絵本で読んだシンデレラの衣装みたいで……！,"It reminds me of the dress Cinderella 
+wore in the picture book I read as a child."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001001010050,千雪,"ああ～！　私も好きなんです！
-好きなんですけど……","Oh! I like that idea! 
-I like it... "
+好きなんですけど……","Oh～! I also like that one! 
+I like it, but... "
 1016001001010060,千雪,"ちょっと可愛くしすぎちゃって……
-甘奈ちゃんとか甜花ちゃんなら似合うかしら……","Actually, it's a little too cute for me though...
-I wonder if Amana or Tenka would suit it more..."
+甘奈ちゃんとか甜花ちゃんなら似合うかしら……","It might be a little too cute for me...
+It might suit Amana-chan or Tenka-chan more..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001001010070,千雪,"フリル、ですか……
-確かにお好きな方が多い気がします","Frills, you say...
-I'm sure there are some people who may like it."
+確かにお好きな方が多い気がします","Frills, you say...?
+There certainly are many people who like frills."
 1016001001010080,千雪,"もうちょっと研究して
-ファンのみなさんに喜んでもらえるドレスを考えますね","But I think I'll study a bit more and think
-of a dress that will please the fans a lot more."
+ファンのみなさんに喜んでもらえるドレスを考えますね","But I'll study a bit more and think
+of a dress that will please my fans."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100101.json,
-Translator,,
+Translator,Edits - Tuna/Doodle,
