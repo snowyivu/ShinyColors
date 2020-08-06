@@ -137,7 +137,7 @@ images/tips/produce_skill_board/001.jpg,tutorial/produce_skill_board_001.jpg,8
 images/ui/work_activity_top/parts.json_image,work_activity_top.png,5
 images/ui/work_activity_result/parts.json_image,work_activity_result.png,3
 images/content/my_page/banner_border/event_notice.png,event_notice.png,2
-images/ui/gasha/parts.json_image,gasha_parts.png,12
+images/ui/gasha/parts.json_image,gasha_parts.png,13
 images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,3
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,4
 ae/work_activity_start/images/text_final.png,text_final.png,3
@@ -521,3 +521,13 @@ images/ui/cloth_change/content_parts.json_image,cloth_change_parts.png,8
 images/ui/concert/parts_pause.json_image,concert_parts_pause.png,9
 images/ui/concert_result/parts_fan_meeting.json_image,concert_result_parts_fan_meeting.png,2
 images/ui/produce_ending/parts_reward_trust.json_image,parts_reward_trust.png,3
+images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png,2
+images/ui/home_deck/parts_bg_change_layer.json_image,home_deck_change_layer.png,2
+images/ui/music_select/parts.json_image,music_select.png,3
+base_got_date.png,base_got_date.png,2
+images/ui/option/parts.json_image,ui_option_parts.png,17
+images/ui/twitter/parts.json_image,twitter_parts.png,4
+images/ui/profile/parts.json_image,profile_parts.png,3
+images/ui/title_setting/parts.json_image,title_setting_parts.png,9
+images/ui/gasha/parts_popup.json_image,gasha_parts_popup.png,8
+particles/training/images.json_image,training_images.png,7
