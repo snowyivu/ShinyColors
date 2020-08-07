@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おっと、何か落ちて──
+これ、冬優子のスマホのストラップか？","Oops, something fell──
+This... Is this smartphone strap yours, Fuyuko?"
+1018001000110010,冬優子,"あっ、ありがとうございます！
+金具が壊れちゃったみたいですね……","Th-Thank you!
+The metal fittings seem to be broken..."
+1018001000110020,冬優子,"これ、お友達にもらったものなんです
+ふゆはわかんないんですけど、アニメキャラらしくて……","It's something that I got from my friend.
+Fuyu dunno the details, though it seems to be an anime character..."
+0000000000000,プロデューサー,（マスコットキャラかな……）,(Maybe a mascot character...)
+select,,変わったデザインだな,It's a strange design.
+select,,可愛いな,It's cute.
+select,,変なデザインだな,It's a weird design.
+1018001000110030,冬優子,"そ、そうですかぁ……？
+すっごく可愛い子だって、思うんですけど……","I-Is that so...?
+She's just so lovely, I think..."
+1018001000110040,冬優子,"ふゆ、周りのみんなから
+センスが独特ってよく言われるんです……えへへ","Fuyu quite often got told from everyone around 
+that her sense is unique... ehehe."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000110050,冬優子,"はい！
+目がくりくりしてて可愛いですよね","Yes!
+The eyes are so round and cute, isn't it?"
+1018001000110060,冬優子,ふゆもお気に入りのストラップなんです！,It's Fuyu's favorite strap!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000110070,冬優子,確かに、ちょっと変わった子ですけど……,"Sure, she's a bit strange, but..."
+1018001000110080,冬優子,"でもでも、大事なお友達にもらった子なんです
+そう言われると、ちょっと……ショックです……","But, Fuyu received this from a precious friend.
+When you say it like that, it's a bit... shocking..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100011.json,
+Translator,Autumn Cloud,

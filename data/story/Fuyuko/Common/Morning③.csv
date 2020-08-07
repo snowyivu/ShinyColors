@@ -1,0 +1,39 @@
+id,name,text,trans
+1018001000310010,冬優子,"あの、プロデューサーさんっ！
+プロデューサーさんに食べてほしくって、作りました！","Um, Producer-san!
+Fuyu made this and wanted Producer-san to eat it!"
+0000000000000,プロデューサー,"冬優子、どうしたんだ？
+これ……スコーンか？","Fuyuko, what happened?
+Is this... a scone?"
+1018001000310020,冬優子,"えへへ、あんまり自信ないんですけど……
+どうぞ、召しあがってください♡","Ehehe, but Fuyu isn't very confident...
+Please, have a taste♡"
+0000000000000,プロデューサー,"（うん、美味しい……
+かなり甘めの仕上がりだな……）","(Yeah, delicious...
+Well, it's pretty sweet...)"
+select,,"もっと甘くない方が
+好きだな",I prefer a less sweet one better.
+select,,美味しい！,Delicious!
+select,,"みんなにも
+食べてもらおう",Let's eat it with everyone.
+1018001000310030,冬優子,"わあ……！
+プロデューサーさんは、大人の味がお好みなんですね！","Wah...!
+Producer-san have an adult taste!"
+1018001000310040,冬優子,"ふゆ、また作ってきます！
+今度は、美味しいって言わせちゃいますよ♡","Fuyu will make another one!
+This time Fuyu'll make Producer-san say it's delicious♡"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000310050,冬優子,"本当ですか！
+えへへ、嬉しいですっ！","For real!?
+Ehehe, Fuyu is happy!"
+1018001000310060,冬優子,ふゆ、また作ってきますね！,Fuyu will make it again!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000310070,冬優子,"え……っ！？
+……あ、も、もちろん、いいんですけど……","Eh...!?
+...Ah, o-of course, it's okay, but..."
+1018001000310080,冬優子,"プロデューサーさんにって作ってきたお菓子だから……
+少し、寂しいなって……","Because it's a sweet made for Producer-san...
+It's a bit sad..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100031.json,
+Translator,Autumn Cloud,

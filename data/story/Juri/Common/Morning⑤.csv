@@ -1,6 +1,6 @@
 id,name,text,trans
 0000000000000,プロデューサー,"樹里、スマホの画面をジッと見て……
-どうかしたのか？","Juri, you've been staring at your smartphone…
+どうかしたのか？","Juri, you've been staring at your smartphone...
 Is something wrong?"
 1011001000510010,樹里,"あ、プロデューサー
 ケータイの設定変えてーんだけどよ、よくわかんねーんだよ","Ah, Producer. 
@@ -18,7 +18,7 @@ select,,"説明書を見ながら
 やってみれば？","Have you tried
 looking at the
 manual?"
-1011001000510030,樹里,お、サンキュ！　アタシ機械はよくわかんなくてさ……,"Oh, thanks! I'm not really tech savvy, so…"
+1011001000510030,樹里,お、サンキュ！　アタシ機械はよくわかんなくてさ……,"Oh, thanks! I'm not really tech savvy, so..."
 1011001000510040,樹里,へへ、アンタって意外に頼りになるよな,"Hehe, you're surprisingly reliable."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1011001000510050,樹里,"はあ？
@@ -29,7 +29,7 @@ Don't make a bad joke this early in the morning, Producer."
 Can you teach me how to change the wallpaper though?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1011001000510070,樹里,説明書なんて持って来てねーよ,I don't have the manual with me.
-1011001000510080,樹里,はぁ、他の子にでも聞いてみるか……,Sigh… Maybe I should ask someone else…
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+1011001000510080,樹里,はぁ、他の子にでも聞いてみるか……,Sigh... Maybe I should ask someone else...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101100100051.json,
 Translator,,

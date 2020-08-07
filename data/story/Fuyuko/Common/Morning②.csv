@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,そういえば、ユニットのみんなとは上手くやれてるのか？,"By the way, are you doing well with everyone in the unit?"
+1018001000210010,冬優子,"はい！
+あさひちゃんも愛依ちゃんもすっごく可愛くて……","Yes!
+Asahi-chan and Mei-chan are so cute..."
+1018001000210020,冬優子,"こんな可愛い子たちと一緒のユニットでいいのかなって、
+ちょっと不安になっちゃいます……えへへ","Fuyu wonders if it's okay to be in a unit with such cute girls.
+Fuyu got a bit worried... ehehe."
+0000000000000,プロデューサー,"そんなふうに言うことないんだぞ
+だって……","I wouldn't say that,
+because..."
+select,,期待してるんだからな,I expect great things from you.
+select,,"冬優子も
+可愛いんだからな",Fuyuko is also cute.
+select,,最年長なんだからな,Fuyuko is the oldest.
+1018001000210030,冬優子,"期待……
+ふゆに期待、ですか……？","Expect...
+Expectations for Fuyu, is it...?"
+1018001000210040,冬優子,"……えへへっ！　ありがとうございます！
+そう言われたら、弱音なんて言ってられないですね！","...Ehehe! Thank you!
+When you say it like that, Fuyu shouldn't be complaining anymore!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000210050,冬優子,"そ、そんな……！
+ふゆなんて、みんなに比べたらまだまだ……","T-That's...!
+Fuyu is, compared to everyone is still..."
+1018001000210060,冬優子,"……でも、プロデューサーさんのこと……
+信じて、ますからね……？","...But, what Producer-san just said...
+Fuyu will... believe that, okay...?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000210070,冬優子,"最年長……
+確かに、ふゆが一番年上、ですもんね……","Oldest...
+Sure, Fuyu is the oldest, isn't it..."
+1018001000210080,冬優子,"お姉さんなんだから……
+ちゃんとしないと、ですよね……","Because Fuyu is the older sister...
+Fuyu has to do things the proper way..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100021.json,
+Translator,Autumn Cloud,
