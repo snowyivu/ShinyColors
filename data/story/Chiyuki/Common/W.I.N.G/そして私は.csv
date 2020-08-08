@@ -12,7 +12,7 @@ id,name,text,trans
 私も楽しんできますね","In order for the kids to be able to enjoy the program, I need to have fun doing it too!"
 0000000000000,プロデューサー,はは、うん。その感じだ,"Haha, yeah. Just like that."
 0000000000000,プロデューサー,"……あ、すまん、呼び出しだ
-待っててくれ","...Ah, excuse me for a bit. Someone's calling."
+待っててくれ","...Ah, excuse me for a second. Someone's calling."
 0000000000000,プロデューサー,"……もしもし、はい
 ……そうですか……どのくらい見ておけば……","...Hello. Yes.
 ...Is that so...How long do you think it'll last...?"
@@ -23,7 +23,7 @@ id,name,text,trans
 大丈夫か？",It seems like the photoshoot will be delayed for a bit... Are you okay with that?
 1016001050050,千雪,あら、何かあったんですか？,"Oh, did something happen?"
 0000000000000,プロデューサー,"ああ、撮影前に不安になった子が泣き出して、
-他の子たちもつられたみたいなんだ","Aah, an uneasy child burst out crying before the photoshoot, and it seems like it ended up attracting a bunch of other kids onto the site."
+他の子たちもつられたみたいなんだ","Ahh, an nervous child burst out crying before the photoshoot, and it seems like it ended up attracting a bunch of other kids onto the site."
 0000000000000,プロデューサー,"スタッフが頑張ってあやしてるみたいだけど、
 子どもたちが落ち着くまで、待機しててほしいそうだ","The staff has been doing their best to calm them down, so until then, they asked that we remain on standby."
 1016001050060,千雪,"まあ……かわいそうに
@@ -38,7 +38,7 @@ id,name,text,trans
 1016001050090,千雪,"うーん、すこーし元気がないみたいかな～？
 みんな、もう一度！　こんにちは～","Hmhm, it looks like we aren't feeling too good here, are we～? Everyone, let's try it one more time! Hello～"
 1016001050100,千雪,"うんうん、いい笑顔だね～！
-ウサちゃんも大喜びだよ～","Mhm, that's a good smile you guys have～! Usa-chan's real happy to see it too～"
+ウサちゃんも大喜びだよ～","Mhm, that's a good smile you guys～! Usa-chan's real happy to see it too～"
 0000000000000,プロデューサー,"（はは、すごいな……
 子どもたちがすっかり夢中になってるぞ！）","(Haha, that's amazing... It's like the children entered a dream!)"
 0000000000000,プロデューサー,"（千雪……パペットなんて
@@ -50,9 +50,9 @@ id,name,text,trans
 子どもたちをあやすなんてな","Besides that, the way you handled the children and calmed them down with the puppet was incredible!"
 1016001050120,千雪,"ふふ、もしかして何かに使えるかも～って、
 昔作ったのを持ってきてたんです","Fufu, I bring stuff that I've made in the past just in case we can use them for anything～"
-1016001050130,千雪,こんなふうに役に立つなんて……,"In this way, I can end up helping out..."
+1016001050130,千雪,こんなふうに役に立つなんて……,To think they ended up being useful in this kind of situation...
 0000000000000,プロデューサー,"スタッフも親御さんも、みんな千雪に感謝してたな
-パペットも、番組で使ってもらえるかもって",Both the parents and the staff are giving you their gratitude too! They might even let you use your puppet in the program.
+パペットも、番組で使ってもらえるかもって",Both the parents and the staff are thankful to you too! They might even let you use your puppet in the program.
 0000000000000,プロデューサー,"千雪は本当にすごいな……
 俺の想像なんか、どんどん超えていく","You really are amazing, Chiyuki. You keep doing things that are beyond my imagination."
 1016001050140,千雪,"そ、そんなに褒められると、
@@ -64,7 +64,7 @@ id,name,text,trans
 1016001050170,千雪,"アイドル活動をしてたからこそ
 こうして子どもたちとつながれたのかもしれないです……","But because of my activities as an idol, I probably will end up using it to connect with the children..."
 0000000000000,プロデューサー,"ああ、そうかもしれないな
-千雪の今までが全部……今になってるんだな","Aah, that will probably be the case, yeah. Everything you were before... Is still you in the present,  right?"
+千雪の今までが全部……今になってるんだな","Ahh, that will probably be the case, yeah. Everything you were before... Is still you in the present, right?"
 1016001050180,千雪,"プロデューサーさん……
 もう……ときどき、名言ぽいこと言うんですから","Producer-san... Sometimes, you really do end up saying something that resembles wise words."
 0000000000000,プロデューサー,はは、名言じゃあないんだな,"Haha, they aren't though."
@@ -85,7 +85,7 @@ right now."
 1016001050210,千雪,"こんな素敵な仕事ができるなんて……
 私、本当に幸せ者です",To be able to do a job as wonderful as this... I really am a fortunate person.
 1016001050220,千雪,"えっ……そ、そんな！　急にどうしたんですか
-その、私なんてまだまだ新人ですっ","P-Please! What suddenly brought this on? I mean, I still have a long way to go as a newcomer idol!"
+その、私なんてまだまだ新人ですっ","O-oh my! What suddenly brought this on? I mean, I still have a long way to go as a newcomer idol!"
 0000000000000,プロデューサー,"はは。カメラに映ってないところでも
 最高のパフォーマンスができるかどうか……",Haha. Whether or not you can give your best performance even in places that the camera can't capture...
 0000000000000,プロデューサー,俺の中では、それが最高のアイドルの基準かな,"In my heart, that's the basis of what becoming the best idol means."

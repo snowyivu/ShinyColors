@@ -841,7 +841,7 @@ profile.options.showFesDeckRank,フェスユニット評価,Fes Unit Rank
 profile.options.showUserGrade,最高到達グレード,Highest Grade
 profile.options.showCharacterFan,ファン人数,Fan Count
 userPolicy.title,利用規約,Terms of Service
-userPolicy.warningText,ないようがわからないときは\nおうちのひとにがめんをみせてください。,"If you aren't sure, please show this to a family member. "
+userPolicy.warningText,ないようがわからないときは\nおうちのひとにがめんをみせてください。,"If you aren't sure, please\r\nshow this to a family member. "
 shop.headerTitle,ショップ,Shop
 shop.headerTitles.money,マニー,Money
 shop.headerTitles.jewel,ジュエル,Jewel
@@ -1602,8 +1602,8 @@ produceAction.surplusInspirationDialog.descriptions.second.center,%{acquirableNu
 produceAction.surplusInspirationDialog.descriptions.second.right,選択してください,Inspirations to Get
 produceSeasonResult.season,シーズン%{seasonNum},Season %{seasonNum}
 produceAction.maxInspirationDialog.title,ひらめき獲得,Gain Inspiration
-produceAction.maxInspirationDialog.description1,ひらめきが最大獲得数に達しているため,The max amount of Inspiration has been acquired
-produceAction.maxInspirationDialog.description2,ひらめきが獲得できません,and further Inspiration cannot be gained
+produceAction.maxInspirationDialog.description1,ひらめきが最大獲得数に達しているため,Max amount of Inspiration acquired
+produceAction.maxInspirationDialog.description2,ひらめきが獲得できません,No more Inspiration can be gained
 produceAction.maxInspirationDialog.descriptionActions.lesson,「レッスン」を行いますか？,Perform the Lesson?
 produceAction.maxInspirationDialog.descriptionActions.work,「お仕事」を行いますか？,Perform the Job?
 filter.title,絞り込み,Filter

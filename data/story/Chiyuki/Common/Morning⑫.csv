@@ -1,34 +1,36 @@
 id,name,text,trans
 1016001001210010,千雪,"プロデューサーさん
-シャツのボタンとか、何か繕い物はないですか？","Producer-san, I'm currently patching up the shirt,
-do you have any extra buttons laying around?"
+シャツのボタンとか、何か繕い物はないですか？","Producer-san, do you have anything 
+that needs fixing? Like a shirt button?"
 0000000000000,プロデューサー,"シャツ……？
-ええと、今はないと思うけど","For the shirt?
-Well, I don't think I do..."
+ええと、今はないと思うけど","My shirt...?
+Umm, I don't think there's anything at the moment..."
 1016001001210020,千雪,"ならよかったです
-そういうの、定期的に見直してくださいね？","That's alright,
-Anyway, make sure to regularly check, okay?"
+そういうの、定期的に見直してくださいね？","That's good. Anyway, make sure to 
+check for stuff like that every now and then, okay?"
 0000000000000,プロデューサー,（千雪が、俺の服装を心配してくれているみたいだ）,(Chiyuki seems to be worried about my clothes.)
-select,,は、はーい,Y-Yes.
-select,,いつもすまん,I'm really sorry.
-select,,心配しすぎだよ,"Don't worry too
-much about it."
-1016001001210030,千雪,ふふ、いいお返事です……♪,"Fufu, nice reply...♪"
+select,,は、はーい,O-Okayy.
+select,,いつもすまん,"Sorry for 
+everything."
+select,,心配しすぎだよ,"You worry 
+too much 
+about this."
+1016001001210030,千雪,ふふ、いいお返事です……♪,"Fufu, good answer...♪"
 1016001001210040,千雪,"そういうところって、意外と
-ちゃんと見られてますからね？","Surprised in such a place,
-But, you listened properly to what I said, right?"
+ちゃんと見られてますからね？","It can be surprisingly easy for others 
+to notice imperfections in those kinds of places, you know?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1016001001210050,千雪,"いえいえ～
 ……あ、ほら。ここ、糸が出ちゃってます","No, it's alright～ 
-Ah, there... there's a thread over there."
+...Ah, look. You have a thread loose right here."
 1016001001210060,千雪,"すぐ直しちゃうので
-じっとしててくださいね……","I'll go get it and fix it right away,
-so please stay still..."
+じっとしててくださいね……","I'll fix it real quick,
+so stay still for a second, okay?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001001210070,千雪,"そうですか？
-……すみません","Are you sure?
-Well then, excuse me..."
-1016001001210080,千雪,ちょっと、お節介だったかもしれませんね……,I'm sorry... I thought would've been helpful...
+……すみません","Is that so?
+...I'm sorry."
+1016001001210080,千雪,ちょっと、お節介だったかもしれませんね……,I guess I was being a bit nosy...
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100121.json,
-Translator,,
+Translator,Edits - Tuna/Doodle,
