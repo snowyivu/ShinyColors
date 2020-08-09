@@ -1,14 +1,15 @@
 id,name,text,trans
 1016001001510010,千雪,"プロデューサーさん、ご相談したいことがあって……
-こういった器具って、なにを買ったらいいんでしょうか？","Producer-san, I want to ask you something...
+こういった器具って、なにを買ったらいいんでしょうか？","Producer-san, I want your advice on something...
 Which piece of equipment should I buy?"
-0000000000000,プロデューサー,これは……トレーニング用品のカタログか？,This...is this a calatogue for training equipment?
+0000000000000,プロデューサー,これは……トレーニング用品のカタログか？,"Ahh... This is this a calatogue for training equipment, right?"
 1016001001510020,千雪,"はい。アイドルのレッスン以外にも
-自宅でもっと気軽に運動したいと思ってて……",Yes. I want to more easily exercise at home outside of my lessons as an idol...
-0000000000000,プロデューサー,（千雪は健康に気を使っているみたいだな）,(Chiyuki seems to be taking care of her health.)
+自宅でもっと気軽に運動したいと思ってて……","Yes. I want to exercise more easily at home 
+outside of my idol lessons, so..."
+0000000000000,プロデューサー,（千雪は健康に気を使っているみたいだな）,(Chiyuki seems to be mindful of her health.)
 select,,一緒に調べてみるか,"Why don't 
-we check it 
-out together?"
+we look at 
+it together?"
 select,,"トレーナーの人に
 聞いてみるか","Let's try
 asking 
@@ -20,7 +21,7 @@ on your
 lessons."
 1016001001510030,千雪,"わぁ、ありがとうございます！
 こういうの、詳しくなくって……","Ah! Thank you!
-I don't very much about this kind of thing..."
+I don't know very much about this kind of thing..."
 1016001001510040,千雪,"もしよかったら、
 お店にも一緒に行ってみませんか？","But if it's okay with you,
 why don't we also try going to the store together?"
@@ -33,10 +34,10 @@ Thank you so much!"
 I feel like I could learn a lot from them."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1016001001510070,千雪,"あ……確かに
-そのほうがいいかもしれませんね……",Ah...that certainly might be for the best...
+そのほうがいいかもしれませんね……",Ah... that certainly might be for the best...
 1016001001510080,千雪,"無理にやって、身体を壊したりしちゃったら
-ご迷惑になりますし……","Though, it would be quite troublesome 
-if I ended up pushing myself too hard and injuring myself..."
+ご迷惑になりますし……","But it would be quite troublesome 
+if I ended up pushing myself too hard and getting injured..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101600100151.json,
 Translator,Edits - Tuna/Doodle,

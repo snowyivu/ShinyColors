@@ -1,11 +1,11 @@
 id,name,text,trans
 1012001030010,凛世,またのお運びを、お待ちしております……,I very much look forward to seeing you again...
-0000000000000,プロデューサー,お疲れ、凛世,"Good work, Rinze!"
+0000000000000,プロデューサー,お疲れ、凛世,"Good work, Rinze."
 1012001030020,凛世,……プロデューサーさま,...Producer-sama.
 0000000000000,プロデューサー,今日もいいステージだったぞ,"You had a great performance today, too."
 1012001030030,凛世,"そのようなことは……
 お喜びいただき、うれしい限りです……","Do you think so...?
-I am glad you're pleased..."
+I am happy you are pleased..."
 0000000000000,プロデューサー,ああ……,Ah...
 0000000000000,プロデューサー,"（そう、いつも通りだ……歌やダンスはうまくなってるし
 表情は少ないがきちんとファンサービスもする）","(Yes, as usual... Her singing and dancing are good.
@@ -30,10 +30,9 @@ I was just thinking that the live was good."
 1012001030070,凛世,……,......
 1012001030080,凛世,"プロデューサーさま、
 申し訳、ございません……","Producer-sama,
-If I have made a mistake, I humbly apologize..."
+There is no excuse if I have erred..."
 1012001030090,凛世,"至らぬ点がございましたら、必ずお直しいたします……
-ですから、凛世を、お見捨てなさいませんよう……","If there is something I am doing incorrectly, I would do anything to fix it.
-So please, I ask that you do not give up on Rinze..."
+ですから、凛世を、お見捨てなさいませんよう……","If there is something I am doing incorrectly, I would do anything to fix it... So please, I ask that you do not give up on Rinze..."
 0000000000000,プロデューサー,"いや、そうじゃないんだが……
 そうだな……","No, that's not the case... 
 It's more that..."
@@ -42,7 +41,7 @@ select,,"自分のしたいことは
 want to do?"
 select,,"何かを直してほしい
 わけじゃない","I don't want you
-to change anything"
+to change anything."
 select,,"俺の気持ちを聞いて
 くれるか？","Will you listen to
 some thoughts
@@ -73,17 +72,17 @@ But... there are always new things you could learn and do."
 1012001030170,凛世,"それは……どうすれば、
 見つかるもの、なのでしょう……？","That's... What is that, and how could one find it...?"
 0000000000000,プロデューサー,"わからない
-でも、きっと凛世自身が見つけなきゃいけないんだ","I'm not sure how to answer that...
+でも、きっと凛世自身が見つけなきゃいけないんだ","I'm not sure...
 Well, I think it's something you'd definitely have to find for yourself."
-1012001030180,凛世,……凛世に、できるでしょうか……,...Is that something I can just do?
+1012001030180,凛世,……凛世に、できるでしょうか……,...Is that something I can just do...?
 0000000000000,プロデューサー,"俺も手伝うから
 一緒に、考えてみないか？","I'll always be here to help you, so why don't we think it over together?"
 1012001030190,凛世,"……ありがとう、ございます
-プロデューサーさま","Thank you... very much, Producer-sama."
+プロデューサーさま","... Thank you... very much, Producer-sama."
 1012001030200,凛世,"凛世がアイドルとして、やりたいこと
 必ずや……",What I want to do as an idol... I surely want to find it...
 0000000000000,プロデューサー,俺の気持ちを聞いてくれるか？,Will you listen to some thoughts of mine?
-1012001030210,凛世,はい……もちろんで、ございます,Yes... of course I can do so.
+1012001030210,凛世,はい……もちろんで、ございます,Yes... Of course I can do so.
 0000000000000,プロデューサー,"俺は、凛世に、最高のアイドルになってほしいと思ってる
 一緒にいつか、最高の舞台にたどり着きたい","I want you to be the best idol you can be, and I want us to make it to the top together."
 0000000000000,プロデューサー,"どんな仕事をやっていても、いつだってそのことを
@@ -93,13 +92,13 @@ I'm your producer, after all."
 1012001030230,凛世,"凛世も、
 プロデューサーさまの、お望みならば……","I too, will wish for that if you want..."
 0000000000000,プロデューサー,ああ。でも、アイドルとしての凛世の願いはなんだ？,"Yeah, I get that. But what do you wish for, Rinze, as an idol?"
-1012001030240,凛世,凛世の……願い……？,What... I wish for...?
+1012001030240,凛世,凛世の……願い……？,What... I wish...?
 0000000000000,プロデューサー,"凛世がもっと成長するためには、俺のためじゃない、
 凛世自身のやりたいことを見つけなきゃいけないんだ","It's not just for me that you should grow. You have to find what you want to do for yourself, too."
 0000000000000,プロデューサー,"だからそれを探そう、凛世
 俺と一緒に","So, if you want, we could find that together."
 1012001030250,凛世,"……かしこまりました、プロデューサーさま
-それが貴方さまの、お望みなのですね……？","...Certainly, Producer-sama──
-if that is what you wish for...?"
+それが貴方さまの、お望みなのですね……？","... I understand, Producer-sama──
+That seems to be your wish, doesn't it...?"
 info,produce_events/101200103.json,
 Translator,alice,

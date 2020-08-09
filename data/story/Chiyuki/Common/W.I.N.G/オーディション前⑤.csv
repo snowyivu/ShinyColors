@@ -1,28 +1,30 @@
 id,name,text,trans
 4016001000220010,千雪,"プロデューサーさん？
 ……ふふ、プロデューサーさんが緊張してるみたい","Producer-san?
-...Fufu, looks like you're nervous."
-0000000000000,プロデューサー,（千雪、本番前なのに落ち着いてる……頼もしいな）,(Chiyuki is calm even before the audition... I'm surprised.)
+...Fufu, you look nervous."
+0000000000000,プロデューサー,（千雪、本番前なのに落ち着いてる……頼もしいな）,(Chiyuki is calm even before an audition... She's really reliable.)
 select,,"千雪には
-負けられないな","Let's not lose
-easily, Chiyuki."
+負けられないな","I won't lose 
+to you, Chiyuki."
 select,,"千雪には
-敵わないなぁ","We have to
-beat this, Chiyuki."
+敵わないなぁ","I'm no match
+for you, Chiyuki."
 select,,"いや、何でも
-頼ってくれ","That's... whatever
-Just count on me."
+頼ってくれ","You can rely 
+on me for
+anything."
 4016001000220020,千雪,"わぁ、じゃあ、今日のライバルはプロデューサーさんですね
-……なんて。ふふ、私、頑張れそうです","Oh, then, today's rival will be Producer-san.
-Well... Fufu, I'll do my best."
-0000000000000,プロデューサー,（力になれたみたいだな）,(Seems like I've helped.)
+……なんて。ふふ、私、頑張れそうです","Oh my. Well then, you'll be my rival for today.
+...Just joking. Fufu, I feel like I can give it my all now."
+0000000000000,プロデューサー,（力になれたみたいだな）,(Seems like I've helped her out.)
 4016001000220030,千雪,"ふふ……ここまできたら、覚悟を決めるしかないですから
-頑張りますね。みなさんと、プロデューサーさんのためにも","Fufu... Once you get here, you can't decide easily.
-I'll do my best, for everyone and you."
-0000000000000,プロデューサー,（迷いはないみたいだな）,(Looks like I shouldn't hesitate.)
+頑張りますね。みなさんと、プロデューサーさんのためにも","Fufu... At this point, you have to prepare 
+yourself for the worst. I'll do my best, 
+for your sake and for everyone else's sake."
+0000000000000,プロデューサー,（迷いはないみたいだな）,(It looks like she has no more doubts.)
 4016001000220040,千雪,"はい♪　……でも、そんなに心配させちゃってますか？
-大丈夫です。私、きっと笑顔でここに戻って来ますから","Okay♪ ...But why are you still worried?
+大丈夫です。私、きっと笑顔でここに戻って来ますから","Will do♪ ...But why are you still worried?
 It'll be okay. I'll come back here with a smile."
 0000000000000,プロデューサー,（もうちょっと力になりたかったな……）,(I just wanted to help out a little more...)
 info,produce_communication_cheers/401600100022.json,
-Translator,,
+Translator,Edits - Tuna/Doodle,
