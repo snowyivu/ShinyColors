@@ -1,0 +1,76 @@
+id,name,text,trans
+0000000000000,プロデューサー,……荷物はこれで全部かな,...I think that's all of the luggage.
+2016008030010,千雪,はい、ありがとうございます,"Yes, thank you so much."
+0000000000000,プロデューサー,"撮影の後は俺も近くの部屋に泊まってるから、
+何かあったら呼んでくれ","I'll be staying in a nearby room after the shoot, 
+so call me if you need anything."
+2016008030020,千雪,はい,Alright.
+0000000000000,プロデューサー,"メイクさんにも手伝ってもらって、
+日焼け対策は入念にな！",You'll get help from the make-up artist to make careful preparations against sunburns!
+2016008030030,千雪,はい,Ok.
+0000000000000,プロデューサー,"他には……確認しておきたいこととか、
+言っておきたいことはないか？",Anything else now... there isn't anything else you'd like to check or mention?
+2016008030040,千雪,……はい,...I'm fine.
+2016008030050,千雪,（……もしも夕日が綺麗だったら）,(...If the sunset is this beautiful)
+0000000000000,カメラマン,"──桑山さん、表情が少し硬いね
+緊張してる？","──Kuwayama-san, your expression is a little stiff. Are you nervous?"
+2016008030060,千雪,……あ、いえ……,"...Ah, no..."
+2016008030070,千雪,"そんなことは……
+ないんですけど……！",That's not... the case at all...!
+2016008030080,千雪,"──すみません、気を付けるので
+もう一度お願いします……！","──Sorry, I'll pay more attention. Please let me try again...!"
+0000000000000,プロデューサー,──撮影お疲れ様、千雪,"──Good work on the photoshoot, Chiyuki."
+0000000000000,プロデューサー,"後半はどんどん表情も柔らかくなっていったし、
+いい撮影だったと思うよ","Your expressions were getting gradually softer in the second half, 
+I think it was a good shoot."
+2016008030090,千雪,"そうでしょうか……！
+……でしたら、よかったです","Is that so...! 
+...In that case, that's a relief."
+2016008030100,千雪,…………,......
+2016008030110,千雪,"（伝えられずに飲み込んだ言葉に、
+意味はあるのかな）",(I wonder if the words I held back from saying and didn't convey will have any significance at all.)
+2016008030120,千雪,"（飲み込んで混ざり合えば、
+きっとなくなってしまうのに）","(If I swallow it and mix it together, it will definitely disappear.)"
+2016008030130,千雪,──……本当は,──...Seriously
+2016008030140,千雪,『次の撮影、緊張してしまって……』,"""I'm so nervous for my next photoshoot..."""
+2016008030150,千雪,"『プロデューサーさん
+緊張をほぐす方法って、ご存知ですか？』","""Producer-san, 
+do you know any methods to help me ease my nervousness?"""
+2016008030160,千雪,……なんて,...or something like that.
+2016008030170,千雪,"…………
+──ううん、だめだめ","......
+──No, that's no good."
+2016008030180,千雪,しっかりしなくちゃ……！,I have to stay strong...!
+0000000000000,プロデューサー,──千雪？,──Chiyuki?
+2016008030190,千雪,"えっ
+プ、プロデューサーさん……！","Eh. 
+P-Producer-san...!"
+0000000000000,プロデューサー,"どうしたんだ……？
+撮影の後、部屋に戻ってないのか？","What happened...? 
+You didn't go back to your room after the shoot?"
+2016008030200,千雪,"あ、はい……！
+もうすぐ夕暮れ時かなって思ったので","Ah, yeah...! 
+I was just thinking it's almost dusk."
+2016008030210,千雪,"せっかくですし
+日が沈むのを見てからにしようかなと……","Since I'm already here, I wanted to watch the sun set..."
+0000000000000,プロデューサー,"そうか
+冷えてきたから、風邪を引かないよう気を付けてくれよ","I see. 
+It's starting to get chilly, so be careful not to catch a cold."
+2016008030220,千雪,"……はい
+ありがとうございます","...Yeah. 
+Thank you very much."
+2016008030230,千雪,"……プロデューサーさんも、
+海を見に来られたんですか？",...Did Producer-san come to see the ocean too?
+0000000000000,プロデューサー,"ああ
+こういう時じゃなきゃ、見られる機会もないからさ","Yeah. 
+If not for times like this, I wouldn't have the chance to see it."
+2016008030240,千雪,……そうなんですね,...That's true.
+0000000000000,プロデューサー,……夕日、綺麗だなあ,"...The sunset sure is beautiful, huh."
+2016008030250,千雪,……もしも夕日が綺麗だったら──,...If the sunset is this beautiful──
+2016008030260,千雪,──緊張……,──Nervousness...
+0000000000000,プロデューサー,……？,...?
+2016008030270,千雪,"緊張を、ほぐす方法……！
+──って、ご存知、ですか……？","A method to ease my nervousness...! 
+──Do you happen to know any...?"
+info,produce_events/201600803.json,
+Translator,cloverbunz,

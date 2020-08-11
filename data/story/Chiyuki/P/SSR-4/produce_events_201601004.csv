@@ -1,0 +1,143 @@
+id,name,text,trans
+2016010040010,千雪,えーと──,Umm──
+2016010040020,千雪,"『明日、朝10ですよね
+いつものスタジオ直行します』","[It's tomorrow, at 10 am, right?
+I'll be going straight to the usual studio.]"
+2016010040030,千雪,──送信,──And send.
+2016010040040,千雪,"……あ
+既読","...Ah.
+It's already been read."
+2016010040050,千雪,"早いなぁ、プロデューサーさん
+──えい","That sure was fast, Producer-san.
+──There."
+2016010040060,千雪,『♪』,[♪]
+2016010040070,千雪,"ふふっ、気合い入ってますよー
+私","Fufu, I sure am motivated──"
+2016010040080,千雪,"──プロデューサーさん、
+お忙しいのかな……",──I wonder if he's busy...?
+2016010040090,千雪,いつもはすぐに……,He usually reads it immediately...
+0000000000000,プロデューサー,"──あっ、触っちゃったけど……
+今のメッセか？","Ah, I touched it...
+Is that the current message?"
+0000000000000,プロデューサー,"誰だろう
+千雪ってことないよな……？","Who could it be?
+Maybe it's from Chiyuki...?"
+0000000000000,プロデューサー,"……
+まだちょっとかかるからなぁ……","......
+It's still going to be a while..."
+select,,"ちょっと
+停めるか……","Should I stop
+for a while?"
+select,,"待ってて
+くれよ……","Please wait
+for a bit"
+select,,──そういえば……,"Come to think
+of it..."
+0000000000000,プロデューサー,高速降りるまでは、待っててくれよ……,Gonna have to wait till I get off the highway...
+0000000000000,プロデューサー,"──あ、やっぱり千雪だ
+ええと……『うん　朝10　頼むな！』","──Ah, as expected, it was from you.
+Umm... [Yeah, 10 am. I'm counting on you!]"
+0000000000000,プロデューサー,"『すまん　運転中で』
+──送信","[Sorry. I'm driving.]
+──and send."
+0000000000000,プロデューサー,あ、それから……,"Ah, and this too..."
+0000000000000,プロデューサー,『♪』,[♪]
+2016010040100,千雪,あ……,Ah...
+2016010040110,千雪,ふふっ、プロデューサーさん……！,"Fufu, Producer-san...!"
+2016010040120,千雪,"──……
+気を遣ってもらっちゃったなぁ","──....
+You're so considerate of me."
+0000000000000,プロデューサー,"──千雪、お疲れ
+今日は気合い入ってたな！","──Chiyuki, good work.
+You were really fired up today!"
+2016010040130,千雪,は、はい……！,Y-Yeah...!
+2016010040140,千雪,"──ふふっ
+伝わったんだったら、よかったです……！","──Fufu. If I was able to convey it to you, then that'd be good enough...!"
+0000000000000,プロデューサー,……？,Hm?
+2016010040150,千雪,"気合いは、メッセで伝えるんじゃなくて
+現場で伝えなきゃって……思って","I had to convey my motivation not through a message, but on the spot instead... that's what I felt."
+2016010040160,千雪,"昨日、運転中でいらっしゃったのに
+失礼しました","Yesterday, I sent the message while you were driving, sorry about that."
+0000000000000,プロデューサー,"あぁ、そのことか
+俺こそ、すぐ返せずにごめんな","Ahh, that. I'm the one who should be sorry that I didn't get back to you right away."
+2016010040170,千雪,"そんなの当然です……！
+私が、頼りすぎで……","Of course you couldn't...!
+I'm the one that’s too reliant..."
+0000000000000,プロデューサー,"頼ってもらえなきゃ、
+俺がいる意味ないだろ？",What's the point of me being here if I can't get you to rely on me?
+2016010040180,千雪,"……
+プロデューサーさん……","......
+Producer-san..."
+2016010040190,千雪,"──思いっきりお仕事でお返ししますね……
+プロデューサーさん……！","──I'll repay you by giving it my all...
+Producer-san...!"
+0000000000000,プロデューサー,"──あれっ、通行止めか！？
+こんなんじゃ先方にも遅刻しちゃうぞ……","──Huh, the road is closed!? In that case, I'm going to be late for Producer-san..."
+0000000000000,プロデューサー,"──はぁ……
+ぎりセーフか……！","──Haa...
+Just barely made it...!"
+0000000000000,プロデューサー,"えーと、メッセ……
+あっ、やっぱり千雪だ……","Umm, the message...
+Ah, as I thought, it was from Chiyuki..."
+0000000000000,プロデューサー,『そう　朝10　返信遅れてごめんな！』,[Yes. 10 am. Sorry for the late reply!]
+2016010040200,千雪,……あ,...Ah.
+2016010040210,千雪,ふふ、いいえ……,"Fufu, it's fine..."
+0000000000000,プロデューサー,──ええと,──Umm...
+0000000000000,プロデューサー,"もう少し具体的なスケジュールって出ますか？
+そのあたり集中しそうでして……","Do you have a more specific schedule?
+I think I'll focus more on that and..."
+2016010040220,千雪,そうだぞ、私,I was right.
+2016010040230,千雪,"プロデューサーさん
+あんなに忙しいんだから……",It was because you were that busy...
+2016010040240,千雪,手の離せない時だって、あるんだぞ,There's definitely times where you couldn't get away from work.
+0000000000000,プロデューサー,いえ、出せたらでいいんです,"Nah, it's fine as long as we can get it out."
+0000000000000,プロデューサー,"はは
+わりと、頑張り過ぎちゃうので──","Haha. Rather, the one who's usually working harder is──"
+0000000000000,プロデューサー,桑山は,Ms Kuwayama.
+2016010040250,千雪,"──ふふっ……
+頑張らなきゃ","──Fufu...
+I've got to try and keep up."
+0000000000000,プロデューサー,"ベストなタイミングで
+現場に入ってもらいたいんですよ",I want her to enter the field at the best possible timing.
+2016010040260,千雪,"私のこと、
+ちゃんと見ていてくださるんだもん……",He's always looking out for me properly...
+0000000000000,プロデューサー,"明日、朝10って伝えてるよな……？
+──あー……いかん、気になる……","Did I let her know about tomorrow's plan at 10 am...?
+──Aah... somehow, I'm kinda worried.."
+2016010040270,千雪,"……！
+あれ、プロデューサーさん……","......!
+Huh, Producer-san..."
+2016010040280,千雪,──はい、桑山です,"──Yes, it's Ms Kuwayama."
+0000000000000,プロデューサー,"『あ、千雪
+すまん、今大丈夫か？』","[Ah, Chiyuki.
+Sorry, is it a good time now?]"
+2016010040290,千雪,は、はい……！,Y-Yes...!
+0000000000000,プロデューサー,"『急に悪いな。明日のことなんだけど、
+朝10いつものスタジオって、俺伝えてたか……？』","[Sorry for the sudden call. About tomorrow, did I tell you we're meeting at the usual studio at 10 am...?]"
+2016010040300,千雪,"……
+プロデューサーさん……？","......
+Producer-san...?"
+2016010040310,千雪,"──ふふっ、はい
+さっきその確認でメッセしたんですけど……","──Fufu, yes.
+I sent you a message earlier to confirm that..."
+0000000000000,プロデューサー,"『──ああー！　そうなのか！
+あれ、やっぱり千雪だったかぁ！』","[──Ahh! I see!
+It was from you after all!]"
+2016010040320,千雪,……？,...?
+0000000000000,プロデューサー,"『いや、すまん。運転中だったんだ
+着信でつい触って……』","[Nah, I'm sorry. I was driving and accidentally tapped on the incoming message...]"
+2016010040330,千雪,ああ、そうなんですね……？,"Ahh, so that's what happened...?"
+0000000000000,プロデューサー,"『うん。なんとなく千雪かなって思ったら、
+明日の時間変更のこと、伝えたかどうか心配になってさ』","[Yeah. Somehow I had a feeling it was from you, but then I was worried about whether I informed you about the time change for tomorrow.]"
+0000000000000,プロデューサー,『すまん……！』,[Sorry...!]
+2016010040340,千雪,"いえ、謝られることなんて……！
+明日のことは、ちゃんとうかがってます","It's alright, there's no need to apologize...!
+I just wanted to properly ask about tomorrow."
+2016010040350,千雪,"──ふふっ、でも
+おんなじこと、気になってたんですね","──Fufu, but you were worried about the same issue, huh."
+0000000000000,プロデューサー,『うん、そうだな……ははっ』,"[Yeah, I was... Haha.]"
+2016010040360,千雪,やっぱり……,As expected...
+0000000000000,プロデューサー,『ん？』,[Hm?]
+2016010040370,千雪,プロデューサーさんだなぁ……,You are my Producer after all...
+info,produce_events/201601004.json,
+Translator,cloverbunz,

@@ -1,0 +1,87 @@
+id,name,text,trans
+0000000000000,プロデューサー,"……はぁっ
+セーフ……！","...Haa.
+Safe...!"
+0000000000000,プロデューサー,"──っていうかアウトっていうか……
+千雪、濡れなかったか？","──Though it seems like it's an out...
+Chiyuki, did you get wet?"
+2016010110010,千雪,"はい、大丈夫です……！
+プロデューサーさんは……？","No, I'm fine...!
+How about you...?"
+0000000000000,プロデューサー,"俺も大したことないよ
+でも……","It's no big deal for me too, but..."
+0000000000000,プロデューサー,"これ、すぐやむかな
+傘買いたいけど──","Hopefully the rain will stop soon.
+I'd like to buy an umbrella though──"
+2016010110020,千雪,"ええ、コンビニ戻るより
+事務所の方が近いかも……！","Yeah, but going to the office is closer than returning to the convenience store...!"
+0000000000000,プロデューサー,"だよなぁ
+ああ～、嫌なタイミングで降ってきたもんだよ","Right...
+Ahh, what bad timing for it to be pouring like that."
+2016010110030,千雪,ふふっ,Fufu.
+2016010110040,千雪,──It's raining cats and dogs……！,──It's raining cats and dogs...!
+0000000000000,プロデューサー,ん？,Hm?
+2016010110050,千雪,"どしゃ降りだぁ……！
+っていう表現なんですって","It's an expression that means ""What heavy rain...!"""
+0000000000000,プロデューサー,"えっ？
+キャッツ……とか、言ってなかったか？","Eh?
+Did you say cats... or something like that?"
+2016010110060,千雪,"ええ
+『キャッツ・アンド・ドッグス』って","Yeah. 
+""Cats and dogs""."
+2016010110070,千雪,何か、神話にちなんでるって言ってましたけど……,I was told it's related to a myth or something...
+2016010110080,千雪,"──この間、カフェにいたら
+お隣が英会話の先生と生徒さんだったんです","──The other day, when I was at a cafe, beside me was an English conversation teacher and her student."
+0000000000000,プロデューサー,"ははっ、そうなのか
+盗み聞きだなぁ？","Haha, I see.
+So you eavesdropped on them?"
+2016010110090,千雪,"もう、プロデューサーさん……！
+そんなんじゃないですー","Jeez, Producer-san...!
+It's not like that──"
+0000000000000,プロデューサー,"ごめんごめん
+それは、俺もつい聞いちゃうと思うよ","Sorry, sorry. I think I'd feel like listening to something like that too."
+0000000000000,プロデューサー,──なんでそんなふうに言うんだろうなぁ,──I wonder why the phrase is like that...
+2016010110100,千雪,ふふっ……,Fufu...
+2016010110110,千雪,"……なんだか、
+ネコやイヌが大はしゃぎしてるみたいな感じ","...Somehow, maybe it's because it feels like the cats and dogs are in high spirits."
+2016010110120,千雪,"そんなふうに考えれば、
+どしゃ降りもちょっと楽しいかなぁって──","If you think about it that way, somehow a downpour can seem kind of fun──"
+0000000000000,プロデューサー,ああ、一理ある……！,"Ahh, you do have a point...!"
+0000000000000,プロデューサー,千雪、ポジティブだなぁ,"Chiyuki, you sure are positive."
+2016010110130,千雪,──って、思っただけで,"──Not at all, it was just a thought."
+2016010110140,千雪,いざとなると、めげちゃいますね……！,"When it comes down to it, I'd be discouraged...!"
+0000000000000,プロデューサー,ははは……,Hahaha...
+0000000000000,プロデューサー,でも、ちょっと弱まってきたんじゃないか？,"But, the rain is starting to get a little weaker, isn't it?"
+2016010110150,千雪,"──あ……
+ええ……！","──Ah...
+Yeah...!"
+0000000000000,プロデューサー,まぁ、このまま待っててもいいけど──,"Well, it'd be fine if we continue to wait like this──"
+2016010110160,千雪,ふふっ,Fufu.
+2016010110170,千雪,"走っちゃいましょう
+キャットとドッグみたいに！","Let's run through it.
+Like cats and dogs!"
+0000000000000,プロデューサー,"……！
+おうっ、ははっ","......!
+Ohh, haha."
+0000000000000,プロデューサー,"よし、それじゃ──
+せーの、な！","Alright, then──
+On your count, ok!"
+2016010110180,千雪,はい……！,Ok...!
+2016010110190,千雪,せーの────,Ready──
+2016010110200,千雪,きゃあ、つめたーい……！,"Kyaa, it's cold...!"
+0000000000000,プロデューサー,"ほらっ、俺ので悪いけど！
+コートかぶって！","See, now I feel bad!
+Put on this coat!"
+2016010110210,千雪,"わっ……そんな
+プロデューサーさんが寒────","Waa... no way.
+You'll get cold──"
+0000000000000,プロデューサー,"いいからいいから！
+風邪引かないでくれ……！　ははっ","It's fine, it's fine!
+Don't catch a cold...! Haha!"
+2016010110220,千雪,……はいっ,...Alright!
+2016010110230,千雪,ふふふっ……！,Fufufu...!
+2016010110240,千雪,──っ……はぁっ……,Ufufu... Haa...
+2016010110250,千雪,やっぱり……楽しいみたい……,Just as I thought... it sure is fun...
+2016010110260,千雪,どしゃ降り……──！,This downpour...──!
+info,produce_events/201601011.json,
+Translator,cloverbunz,

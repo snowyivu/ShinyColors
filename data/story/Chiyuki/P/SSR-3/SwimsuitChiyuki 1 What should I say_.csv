@@ -1,0 +1,94 @@
+id,name,text,trans
+0000000000000,プロデューサー,千雪……？,Chiyuki...?
+2016008010010,千雪,"──わ、プロデューサーさん……！？
+おはようございますっ"," ──Waa, Producer-san...!? 
+Good morning."
+0000000000000,プロデューサー,"おはよう
+やっぱり千雪だったか","Good morning. 
+Just as I thought, it's you."
+0000000000000,プロデューサー,こんな朝早くから……ランニングか？,You're running... this early in the morning?
+2016008010020,千雪,"は、はいっ
+寮から軽く走ってきたんです","Y-Yeah. 
+I did a light run from the dorm."
+2016008010030,千雪,"それで今は、公園で何してたかっていうと
+休憩しているところで……","And as for what I'm doing in the park now, 
+I'm just taking a break..."
+0000000000000,プロデューサー,はは、見てればわかるよ,"Haha, I can tell just by looking."
+2016008010040,千雪,"……そ、そうですよね！
+あはは……！","...O-Oh, that's right! 
+Ahaha...!"
+0000000000000,プロデューサー,でも、朝から走るなんて頑張ってるな,"But you sure are working hard, running in the morning and all."
+2016008010050,千雪,いえ、そんなことないんです……！,"Not at all, it's nothing...!"
+2016008010060,千雪,"ただ最近は日中の気温が高いから、
+朝早くに走っちゃおうって決めているだけで……",I've just decided to run early in the morning because it's been so hot during the day lately...
+2016008010070,千雪,"……それに、それを言うなら
+プロデューサーさんもですよ","...Besides, even though you said that, you're working hard too."
+0000000000000,プロデューサー,……？,Hm?
+2016008010080,千雪,こんな朝早くから、どうされたんですか……？,What are you doing out here so early in the morning...?
+0000000000000,プロデューサー,"ああ……
+俺も、千雪と同じような感じだよ","Ahh... 
+I had the same idea as Chiyuki."
+0000000000000,プロデューサー,"日中は暑いからな……
+少しでも涼しいうちに出勤しちゃおうと思ってさ","Since it's quite hot during the day... 
+I decided to go to work while it's still a little cooler."
+2016008010090,千雪,ふふ、そうだったんですね,"Fufu, so that's what you were thinking."
+0000000000000,プロデューサー,……なんかさ、夏の朝って特別な感じがするよな,"...You know, it feels like there's something special about a summer morning."
+0000000000000,プロデューサー,"昼前には暑くなるし
+束の間の涼しさだからなのか──",Maybe it's because it gets warmer before noon and it's only cooler for a short while──
+0000000000000,プロデューサー,"この瞬間は今だけなんだって思うよ
+……って、当たり前のことなんだけどな","But I start thinking that this short moment only exists right now
+...Actually, that sounds kinda obvious."
+2016008010100,千雪,"……あ、私も、ベンチに座りながら
+ぼーっとそんなことを思ってたところです……！","...Ah, I was just thinking about that while I was lost in thought sitting on the bench...!"
+0000000000000,プロデューサー,千雪もそうだったか,"So you agree too.
+"
+0000000000000,プロデューサー,──空気が気持ちいいな,──The air sure feels nice.
+2016008010110,千雪,……はい,...Yeah.
+0000000000000,プロデューサー,"──そういえば千雪、今日は
+午後から事務所で撮影の打ち合わせの予定だよな？"," ──Speaking of which, Chiyuki, you're scheduled to have a meeting about the photoshoot this afternoon at the office, right?"
+2016008010120,千雪,はい……！,Yes...!
+0000000000000,プロデューサー,"午後もまたよろしく頼むよ……って
+もうこんな時間か……！","Then I'll be counting on you this afternoon... 
+oh, it's already this late...!"
+0000000000000,プロデューサー,"──というか
+千雪はランニングの途中だったんだよな","──Also, Chiyuki was in the midst of a run too."
+0000000000000,プロデューサー,邪魔してしまってすまない……,Sorry for interrupting you...
+2016008010130,千雪,いっ、いえ……！,I-It's fine...!
+0000000000000,プロデューサー,──それじゃあ,"──Well then,"
+select,,"日焼けには
+気を付けるんだぞ",Be careful not to get sunburnt.
+select,,また事務所でな,I'll see you in the office.
+select,,無理はしないようにな,"Take it easy, alright?"
+2016008010140,千雪,"はい……！
+水着での撮影も控えてますもんね……！","Yeah...! 
+I'll try not to, for the upcoming swimsuit photoshoot...!"
+0000000000000,プロデューサー,ああ、そうだな,"Ahh, that's right."
+2016008010150,千雪,"…………プロデューサーさん
+その、今日は──","...Producer-san, um, today──"
+2016008010160,千雪,"……き、今日の打ち合わせ、
+頑張りますね！　あはは……！","...D-Do your best for today's meeting! 
+Ahaha...!"
+0000000000000,プロデューサー,"……？
+お、おう","...? 
+O-Of course."
+0000000000000,プロデューサー,それじゃあ、また後でな,"Well then, I'll see you later."
+2016008010170,千雪,"（プロデューサーさん、
+その、今日は──）","(...Producer-san, um, today──)"
+2016008010180,千雪,朝から、お話しできて嬉しかったです,It was a pleasure to talk to you this morning
+2016008010190,千雪,…………なんて,...or something like that.
+2016008010200,千雪,あ、はい……！,"Ah, yes...!"
+2016008010210,千雪,……また、後ほど──,...I'll see you later──
+2016008010220,千雪,…………,......
+2016008010230,千雪,（……『邪魔』だなんて……）,"(...saying you're ""disturbing"" me...)"
+2016008010240,千雪,…………そんなこと、ないんです,...That's not the case at all.
+0000000000000,プロデューサー,"少し涼しいとはいえ、油断は禁物だ
+水分補給はこまめにするんだぞ","Even though it's kinda cool now, you still have to be careful and keep yourself frequently hydrated."
+0000000000000,プロデューサー,"……って
+今更、わかってるかもしれないけど","...Well, at this point, you probably already know that though."
+2016008010250,千雪,いえ、そんなこと……！,"Nah, that's...!"
+0000000000000,プロデューサー,それじゃあ、また後で,"Well then, I'll see you later."
+2016008010260,千雪,"──あ……！
+……はい、また","──Ah...! ...Yeah, later."
+2016008010270,千雪,…………,......
+info,produce_events/201600801.json,
+Translator,cloverbunz,

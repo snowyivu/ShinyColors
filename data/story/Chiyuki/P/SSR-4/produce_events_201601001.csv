@@ -1,0 +1,104 @@
+id,name,text,trans
+0000000000000,会議進行役,──内容についてのご説明は以上となります,──That concludes our explanation of the contents.
+0000000000000,会議進行役,"それでは、この期間のキャンペーン施策につきまして
+主に自治体の皆さまへのご共有になりますが──","Now, regarding the campaign measures during this period. It will mainly be shared with the local authorities──"
+0000000000000,プロデューサー,…………,......
+2016010010010,千雪,…………,......
+0000000000000,会議進行役,"──少々押しておりまして
+私共でも現在できる限りの────","While we're a little behind, we're doing as much as we can right now──"
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,『寒くないか』,[Is it cold?]
+2016010010020,千雪,……！,...!
+0000000000000,プロデューサー,『大丈夫か』,[Are you okay?]
+2016010010030,千雪,"『大丈夫です
+もう少しですから』","[I'm alright. 
+It's only a little while more.]"
+2016010010040,千雪,…………,......
+0000000000000,プロデューサー,"（うん、大丈夫そうだな
+じゃ────）","(Yeah, she should be alright. 
+In that case──)"
+2016010010050,千雪,────あっ消さ……！,"──Ah, don't erase...!"
+0000000000000,周囲の参加者,…………？,...?
+2016010010060,千雪,し、失礼しました……！,S-Sorry about that...!
+0000000000000,プロデューサー,（千雪……？）,(Chiyuki...?)
+select,,『どうしたんだ？』,[What's wrong?]
+select,,"『やっぱり
+寒いか？』","[Were you cold
+after all?]"
+select,,"（──ええと、
+空調は……）","Let's see, the air
+conditioner is..."
+2016010010070,千雪,『すみません！』,[Sorry!]
+2016010010080,千雪,『消したくなくて』,[Don't erase it.]
+0000000000000,プロデューサー,……？,...?
+2016010010090,千雪,『なんでもないです』,[Never mind.]
+0000000000000,プロデューサー,……,......
+2016010010100,千雪,『なんでもないです……！』,[It's no big deal...!]
+2016010010110,千雪,ふふっ……,Fufu...
+2016010010120,千雪,────た、大変失礼しました……,──M-My sincerest apologies...
+0000000000000,プロデューサー,…………？,...?
+2016010010130,千雪,"──『気遣ってくださったの
+嬉しくて。それで』","──[I'm happy that you were worried about me. 
+And also,]"
+0000000000000,プロデューサー,『ああ……！』,[Ah...!]
+0000000000000,プロデューサー,『グッ！』,[*thumbs up*]
+2016010010140,千雪,…………っ！,...! *giggles*
+2016010010150,千雪,『やめてくださいー……！』,[Stop that...!]
+0000000000000,プロデューサー,『ははは』,[Hahaha]
+2016010010160,千雪,────ふふっ……,──Fufu...
+2016010010170,千雪,……！,...!
+2016010010180,千雪,"『ちがうんです
+大丈夫です！』","[That's not it, I'm fine!]"
+0000000000000,プロデューサー,……？,...?
+2016010010190,千雪,『せっかくのお気づかいなのに』,"[While I do appreciate your concern,]"
+2016010010200,千雪,"『消しちゃったら
+さびしいじゃないですか』",[don't you think it'll feel lonely to erase it?]
+0000000000000,プロデューサー,（ああ……）,(Ahh...)
+0000000000000,プロデューサー,…………？,...?
+0000000000000,プロデューサー,"（クマ、かな……
+上手いもんだ）","(A bear, huh... she's good at it.)"
+0000000000000,プロデューサー,（はは、吹き出しがついたぞ……？）,"(Haha, it has a speech bubble...?)"
+2016010010210,クマ,『あったかいですよ～』,[It's very warm～]
+2016010010220,クマ,『くしゅんっ！』,[Achoo!]
+0000000000000,プロデューサー,（……ん？）,(...Hm?)
+2016010010230,千雪,『くしゃみしてるやないかい！』,[Why did you just sneeze then!]
+0000000000000,プロデューサー,ははっ……,Haha...
+0000000000000,周囲の参加者,……？,...?
+0000000000000,プロデューサー,し、失礼しました……！,S-Sorry about that...!
+2016010010240,千雪,"ふふっ……
+ごめんなさい……！","Fufu... 
+Sorry...!"
+2016010010250,千雪,あっ……,Ah...
+2016010010260,千雪,…………っ,...*sighs*
+2016010010270,千雪,『あの、もしかして空調』,"[Um, about the air conditioning.]"
+0000000000000,プロデューサー,『いいよな』,[It's fine.]
+0000000000000,プロデューサー,『絶対他の人も寒いし、風邪ひくより』,"[Everyone else is definitely feeling chilly too, so it's better than catching a cold.]"
+2016010010280,千雪,『はい』────,[Alright]──
+0000000000000,プロデューサー,あーっ……長かったなぁ！,Ah... that sure was long!
+2016010010290,千雪,"はい……
+後半は、ほとんど関係のない話題でしたし……","Yeah... 
+The second half wasn't even that relevant to the topic..."
+0000000000000,プロデューサー,"うん
+──あれ、それ……","Yup. 
+──Huh, those..."
+0000000000000,プロデューサー,"その資料、置いてきてよかったんだぞ？
+俺が持とうか","Wasn't it fine to leave those materials behind? 
+Let me help you carry that."
+2016010010300,千雪,──あっ、いえ……！,"──Ah, no...!"
+2016010010310,千雪,"これは……
+ふふっ、持って帰るんです","These... 
+Fufu, I’m bringing them back with me."
+0000000000000,プロデューサー,え？,Eh?
+2016010010320,千雪,"せっかく、
+プロデューサーさんの優しいメモが残ってるのに……","After all, there's a kind memo left by you in there... "
+2016010010330,千雪,置いてこれないですから,I certainly couldn't just leave it there.
+0000000000000,プロデューサー,"千雪……？
+────ああ！　こんなの、そんな大層なもんじゃ──","Chiyuki...? 
+──Ahh! Something like that wasn't that big of a deal──"
+2016010010340,千雪,"ふふふっ
+『こんなの』なんて……言っちゃダメです","Fufufu. 
+""Something like that""... you shouldn't put it that way."
+2016010010350,千雪,"ほんとに、
+あったかかったんですもん……！","Because that something was really kind...! "
+info,produce_events/201601001.json,
+Translator,cloverbunz,

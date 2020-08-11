@@ -3,11 +3,11 @@ id,name,text,trans
 0000000000000,プロデューサー,"ん？　どうしたんだ、樹里？
 何か気になることでもあるのか？","Hm? What's up, Juri? Something bothering you?"
 1011001020020,樹里,"……逆に、アンタは気になんね－のかよ
-アタシがこの場にいることについてさ",Shouldn't something be bothering you? About me being in this place.
+アタシがこの場にいることについてさ","Forget me, shouldn't something bug you here? About me being in this place."
 0000000000000,プロデューサー,"この場にって……別に、気にならないけどな
 今日は宣材写真を撮る日だって、説明してなかったか？","This place... Not really, hadn't crossed my mind. Did I forget to tell you we're shooting your promotional photos today?"
 1011001020030,樹里,"そういうことじゃね－っての
-アレを見ても、アンタは何も思わね－のか？",Nothing like that at all. Don't you have any thoughts looking at them?
+アレを見ても、アンタは何も思わね－のか？","Try again, smartass. Don't you have any thoughts looking at them?"
 0000000000000,プロデューサー,"アレって……
 ああ、他のアイドルの撮影を見ていたんだな","Them... Oh, you were watching the other idols' photo shoots."
 0000000000000,プロデューサー,"だけど、どうしてそんなに気にしてるんだ？
@@ -87,7 +87,8 @@ a badass pose."
 いい笑顔を期待してるぞ！",That's the spirit! I'm looking forward to a great smile!
 1011001020270,樹里,い、いちいちうるせ－んだよ！,Give it a rest already!
 1011001020280,樹里,"格好いい？
-……可愛いじゃなくてか？",Badass? ...And not cute?
+……可愛いじゃなくてか？","Badass?
+...And not cute?"
 0000000000000,プロデューサー,"樹里の場合は、可愛いより
 格好いいポ－ズの方が似合うと思うんだ。どうだ？",I think cool poses are more your style than cute ones. How about it?
 1011001020290,樹里,"……ま、そうだな
@@ -104,10 +105,10 @@ a badass pose."
 行ってくるよ、プロデュ－サ－","...Okay. My turn's coming up so I'll be back in a second, Producer."
 0000000000000,プロデューサー,"お、どういう写真を撮るのか
 考えはまとまったのか？","Oh, did you figure out what kind of pictures you want taken?"
-1011001020330,樹里,ん？……ま－な,Hm? Something like that.
+1011001020330,樹里,ん？……ま－な,Hm? ...Something like that.
 1011001020340,樹里,"どのくらいできるかはわかんねぇけど
 今のアタシにできる、一番格好いいポ－ズで決めてくるよ",Not sure how it'll go but I'll hit 'em with the most badass pose I can come up with right now.
 1011001020350,樹里,"でも、もっと格好いいポ－ズがあると思ったら
 言ってくれよ？　自己満足で終わりたくね－からな","But tell me if you think you've got something better, okay? Not trying to be too cocky here."
 info,produce_events/101100102.json,
-Translator,유동,
+Translator,,

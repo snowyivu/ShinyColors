@@ -1,0 +1,38 @@
+id,name,text,trans
+1018001000710010,冬優子,"あ、メッセージ……
+……もう","Ah, message...
+...again."
+0000000000000,プロデューサー,冬優子、どうしたんだ？,"Fuyuko, what's up?"
+1018001000710020,冬優子,"家族がね、ふゆが載ってる雑誌を見たんだって
+……ちょっと恥ずかしいわね","A relative just saw Fuyu featured in that magazine.
+...It's a bit embarrassing."
+0000000000000,プロデューサー,なるほど……,So that's it...
+select,,"もっと大きい
+仕事を見せてあげよう","Let's show them
+a bigger job."
+select,,良い家族じゃないか,"They're a good
+family, aren't they."
+select,,"確かに、
+少し恥ずかしいな","Sure, It's a little 
+embarrassing."
+1018001000710030,冬優子,"あはは！
+それ、いいわね！","Ahaha!
+That's a good one!"
+1018001000710040,冬優子,"いつどこにいてもふゆが目に入る……
+そんな毎日にしてあげるわ！","Every time and everywhere, Fuyu will be in sight...
+Let's create days like that!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000710050,冬優子,"まあ……確かにね
+ふゆのこと、応援してくれるし……","Well... sure is.
+If it's Fuyu, they will support me."
+1018001000710060,冬優子,"良い家族って、いまいちよくわかんないけど……
+悪くはない、かな","A great family isn't something Fuyu really understand...
+It's wrong, isn't it..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000710070,冬優子,……あんたに言われると、ちょっと腹立つわね,Being told this by you is a bit offending.
+1018001000710080,冬優子,"ふゆが言うのはいいけど、
+他人に言われるといやなの。わかる？","It's okay if Fuyu says it herself,
+but being told by others is a different case. Get it? "
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100071.json,
+Translator,Autumn Cloud,

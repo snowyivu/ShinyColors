@@ -1,0 +1,135 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──お疲れ、千雪
+だいぶ巻いたなぁ？","──Good work, Chiyuki.
+Today sure wrapped up quickly huh."
+2016010030010,千雪,"ふふっ、私が巻いたんじゃないです
+現場……とってもいい雰囲気でしたから","Fufu, it didn’t feel like that to me. The venue's... amazing ambiance may had been the reason."
+0000000000000,プロデューサー,"うん。こんなサクサクいくなんて思ってなくてさ
+千雪も、よく頑張ってくれた",Yeah. I didn't think things would go this smoothly.
+0000000000000,プロデューサー,今のうちに昼メシにしとこう,Let's get ready to have some lunch while we're at it!
+2016010030020,千雪,"わぁ、やったぁ……♪
+今日は一日ゼリーかなって、覚悟してたんです……！","Waa, hooray...! I was thinking of having jelly the whole day, so I'm prepared for it♪"
+0000000000000,プロデューサー,"はは、なんでもいいぞ
+がっつりいこう！","Haha, anything is fine.
+Let's go then!"
+2016010030030,千雪,"はい……！
+それじゃあ──","Alright...!
+Then──"
+0000000000000,プロデューサー,──いやぁ……がっつりだな,──Wow... Can't wait to stuff myself.
+2016010030040,千雪,がっつりです……,Same here...
+0000000000000,プロデューサー,"めちゃくちゃ本格的な店じゃないか……
+千雪、こんなの食べきれるのか","Doesn't it seem like an extremely authentic restaurant... Chiyuki, are you okay with eating something like this?"
+2016010030050,千雪,……も、もちろんです,...O-Of course I am.
+0000000000000,プロデューサー,頼もしいな……,How reliable...
+2016010030060,千雪,"プロデューサーさんは、
+どれにされます？","Producer-san, what will you be choosing?"
+0000000000000,プロデューサー,"ええと、そうだな……
+よし────","Umm, let's see...
+I'll get the──"
+select,,"デリシャス
+チーズバーガー","Double
+Big Burger"
+select,,"ダブル
+ビッグバーガー","Delicious
+Cheeseburger"
+select,,"グッドスパイシー
+バーガー","Good
+Spicy Burger"
+0000000000000,プロデューサー,千雪は？,How about you?
+2016010030070,千雪,私は……ええと,I'll choose... umm...
+2016010030080,千雪,"──すみません、
+デリシャスチーズバーガーもう１つお願いします……！","──Excuse me, could I please get another delicious cheeseburger?"
+0000000000000,プロデューサー,あれ,Oh?
+2016010030090,千雪,サイドメニューとかは、大丈夫でした？,Are you ready to order from the side menu too?
+0000000000000,プロデューサー,"ああ、うん
+俺は……ウーロン茶だけでいいや","Ahh, sure.
+I'll just... have oolong tea."
+2016010030100,千雪,"はい
+──それじゃあ、ウーロン茶を２つで","Alright.
+──Then, two oolong teas please."
+0000000000000,店員,"──かしこまりました
+お待ちくださいませ","──Understood, please give us some time."
+0000000000000,プロデューサー,"ははっ
+まったく一緒のメニューじゃないか","Haha.
+Aren't our orders exactly the same?"
+2016010030110,千雪,"はい
+だって──","Yup.
+After all──"
+2016010030120,千雪,"プロデューサーさんが食べてると
+なんでも美味しそうなんですもん……","Somehow, everything that Producer wanted to eat looked so delicious..."
+0000000000000,プロデューサー,ええ、そんなことないよ,"Ehh, that's not true."
+2016010030130,千雪,"ふふふ、プロデューサーさんには
+わからないですから","Fufufu, you don't know that."
+0000000000000,プロデューサー,そうかなぁ,Is that so?
+2016010030140,千雪,そうです……！,Yup...!
+2016010030150,千雪,ふふっ,Fufu.
+0000000000000,プロデューサー,"いやぁ、ほんとにでかい
+はははっ──","Wow, it really is big.
+Hahaha──"
+0000000000000,プロデューサー,これ、どうやって食べたらいいんだ？,How should I eat this?
+2016010030160,千雪,"ええと……
+ぎゅーって潰すって、聞いたことはあるんですけど……",Umm... I heard you should squish and flatten it...
+2016010030170,千雪,"こうやって……
+ん、しょ──","Just like this...
+Umph──"
+0000000000000,プロデューサー,"──あっ、千雪のやつは難しいだろ
+ベーコンはともかく、アボカドは柔らかいし……","──Ah, Chiyuki's burger will be difficult to do.
+Aside from the bacon, the avocado is also soft..."
+0000000000000,プロデューサー,ナイフとか、もらおうか？,Do you want me to get a knife or something?
+2016010030180,千雪,い、いえ……ダメです……,N-No... no need for that...
+2016010030190,千雪,────んっ……！,──Umph...!
+0000000000000,プロデューサー,千雪……！？,Chiyuki...!?
+2016010030200,千雪,"…………
+んんんーん……","......
+It's delicious..."
+0000000000000,プロデューサー,"……あっ、しゃべらなくていいから
+食べてくれ！","...Ah, you don't have to speak, just eat!"
+2016010030210,千雪,…………,......
+0000000000000,プロデューサー,だ、大丈夫か……,A-Are you okay...?
+2016010030220,千雪,"……ふふふっ
+美味しいです……！",...Fufu. It's delicious...!
+0000000000000,プロデューサー,"……！
+ははは、そっか！","Oh!
+Haha, I see!"
+2016010030230,千雪,はい,Yes!
+2016010030240,千雪,ガブーって、いかなきゃ……,I had to gulp it down...
+2016010030250,千雪,ハンバーガーなんですから！,"After all, it's a hamburger!"
+0000000000000,プロデューサー,"──辛っ……！
+思ったより、くるな……！","──Spicy...!
+Much more than I expected...!"
+0000000000000,プロデューサー,"水、水……
+──ああー……","Water, water...
+──Ahh..."
+2016010030260,千雪,………………,......
+0000000000000,プロデューサー,……千雪、けっこういけるんだな,"...Chiyuki, you sure are handling it quite well."
+2016010030270,千雪,"……
+い、いえ……","......
+N-Nope..."
+2016010030280,千雪,"すっごく辛いのに……
+なんだかやめられなくって","It's really spicy... but somehow, I can't seem to stop."""
+0000000000000,プロデューサー,"はは、それはわかる
+口に入れた時は、そうでもないんだけどなぁ","Haha, I get that.
+Not as much when I put it in my mouth though."
+2016010030290,千雪,"そうなんです……！
+むしろ、パンの甘みの方を感じるんですけど……","I agree...! Or rather,
+I first feel the sweetness of the bread, but..."
+0000000000000,プロデューサー,"そうそう！
+後からじわじわきて、水くれーってなって──",Yeah! And after that I gradually felt like asking for some water──
+2016010030300,千雪,"わかります！
+でも、またひと口欲しくなるんですよね……！",I get that! But you can't help but want to take another bite...!
+2016010030310,千雪＆プロデューサー,──はははっ……,──Hahaha...
+0000000000000,プロデューサー,"あぁ……こんなこと考えちゃダメだけど
+ビールが欲しいなぁ……","Ahh... I'm not supposed to be thinking about this, but I wish I had a beer too..."
+2016010030320,千雪,"あ、悪いこと言ってます
+プロデューサーさん","Ah, what a bad thing to say, Producer-san."
+0000000000000,プロデューサー,はは、冗談だよ,"Haha, it was a joke."
+2016010030330,千雪,"ふふふ、私も
+ビールがあったらなぁ……って","Fufufu, I... wish I had a beer too..."
+2016010030340,千雪,"──今度は……
+ごくごくできるタイミングがいいです……！",──Right now... it’ll be the perfect timing to take big gulps of it...!
+0000000000000,プロデューサー,"おう、望むところだ
+でも、桑山千雪のスケジュールはパンパンだからな？","Ohh, I want to do that. But Kuwayama Chiyuki's schedule is filled to the brim, isn't it?"
+2016010030350,千雪,は、はい……！,Y-Yeah...!
+2016010030360,千雪,それは、すーっごく頑張りますから♪,That's because I'm doing my very best♪
+info,produce_events/201601003.json,
+Translator,cloverbunz,

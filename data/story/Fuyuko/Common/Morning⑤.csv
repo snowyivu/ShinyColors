@@ -1,0 +1,35 @@
+id,name,text,trans
+1018001000510010,冬優子,おはようございますっ！,Good morning!
+0000000000000,プロデューサー,"冬優子、おはよう
+珍しく、ずいぶんぎりぎりの時間だな","Morning, Fuyuko.
+You're cutting it close for once, huh."
+1018001000510020,冬優子,"その……
+……えへへ、ちょっと寝坊しちゃって","Um...
+...Ehehe, I overslept a bit."
+0000000000000,プロデューサー,"（……冬優子のことだから、
+何か事情があっても言わないだろうな）","(...it's Fuyuko we're talking here,
+There must be something that she just wouldn't talk about)"
+select,,冬優子は優しいんだな,Fuyuko really is kind.
+select,,明日からは気を付けよう,Be careful from tomorrow.
+select,,本当はどうなんだ？,"Actually, what happened?"
+1018001000510030,冬優子,"…………！
+えへへ、実は来る途中、道案内をしてたんです","......!
+Ehehe, actually on the way here, Fuyu was giving directions."
+1018001000510040,冬優子,"プロデューサーさんには……
+なんでもお見通しなんですね♡","Producer-san... you can see 
+through anything can't you♡"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000510050,冬優子,"はぁい！
+明日からは、気を付けます","Yees!
+From tomorrow I'll be careful."
+1018001000510060,冬優子,えへへ、ごめんなさい♡,"Ehehe, sorry♡"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000510070,冬優子,"ど、どうって……
+ふゆが嘘ついてるっていうんですか？","W-What...?
+Do you mean Fuyu tells a lie?"
+1018001000510080,冬優子,"ひどいです……
+プロデューサーさん……","It's awful...
+Producer-san..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100051.json,
+Translator,Autumn Cloud,

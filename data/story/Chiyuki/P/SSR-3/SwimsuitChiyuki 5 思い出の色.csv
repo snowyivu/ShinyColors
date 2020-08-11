@@ -1,0 +1,83 @@
+id,name,text,trans
+0000000000000,プロデューサー,──あれ……,──Huh...
+0000000000000,プロデューサー,……こっちじゃなかったか……,...Wasn't it this way...
+0000000000000,プロデューサー,……ふう……,...Fuu...
+0000000000000,プロデューサー,"す、すまん、千雪……
+暑い中歩かせてしまって……","S-Sorry, Chiyuki... 
+For making you walk in this heat..."
+2016008110010,千雪,……あ、いえっ！　私は全然……！,"...Ah, it's fine! I don't mind it...!"
+2016008110020,千雪,"……でも
+今日の撮影スタジオ、見つからないですね……",...But we can't seem to find today's shooting studio...
+0000000000000,プロデューサー,ああ……,Yeah...
+0000000000000,プロデューサー,"えーと、サイトの地図には──
+『青い看板が目印の、大きなビル』","Um, the map on the website says── 
+""A large building with a blue billboard as a landmark"""
+0000000000000,プロデューサー,"……『の隣のビルです』
+って書いてあるけど……","...""is the building next to it"", 
+is what's written here..."
+2016008110030,千雪,"青い看板……
+なさそうです……","Blue billboard... 
+It seems unlikely it's here..."
+0000000000000,プロデューサー,"うーん……
+位置情報がどうも変なところにあるんだよなぁ……","Yeah... 
+The location information is in a very strange place..."
+2016008110040,千雪,早めに出てきて、正解でしたね……！,We were right to set off earlier...!
+0000000000000,プロデューサー,"ああ
+とはいえ、ずっと迷ってるわけにもいかないよな……","Yeah. 
+However, we can't get lost all the time..."
+0000000000000,プロデューサー,"えーと時間は──
+って……腕時計、つけ忘れてきちゃったか……","Um, the time is── 
+Er... I forgot to wear my watch..."
+2016008110050,千雪,"あら……！
+ちょっと待ってくださいね……","Oh my...! 
+Please wait for a while..."
+2016008110060,千雪,"大丈夫ですよ、
+まだ30分は余裕があります","It's fine, we still have 30 minutes to spare."
+0000000000000,プロデューサー,"そうか……！
+ありがとうな、千雪","I see...! 
+Thanks, Chiyuki."
+0000000000000,プロデューサー,"それじゃあもう少し、
+地図を信じて歩いてみるか","Well then, let's just trust the map a little more and continue walking."
+2016008110070,千雪,はいっ,Alright.
+2016008110080,千雪,…………,......
+0000000000000,プロデューサー,"……？
+千雪、どうかしたか？","...?
+Chiyuki, what's wrong?"
+2016008110090,千雪,"あ、いえ……！
+──プロデューサーさん、焼けたなぁって思って","Ah, it's nothing...! 
+──I was wondering if you got sunburnt."
+0000000000000,プロデューサー,"えっ？
+……ああ","Eh?
+...Ahh."
+0000000000000,プロデューサー,"改めて見ると、くっきり時計の跡がついちゃってる
+……はは、みっともないな","When I look at it again, I can clearly see the markings of my watch
+...Haha, how improper of me."
+2016008110100,千雪,"いえ、そんなこと……
+……少し、羨ましいですよ","Nah, that's not true...
+In fact, I'm a little jealous."
+2016008110110,千雪,私は日焼け、しなかったですから,I've never gotten sunburnt after all.
+0000000000000,プロデューサー,……しっかり対策してたもんな,...It's because you always make the proper preparations.
+2016008110120,千雪,ふふ……はい,Fufu... yup.
+2016008110130,千雪,"……いつの間にか、
+たくさんの時間を過ごしてきてたんですよね","...Before I knew it, a lot of time had already passed."
+2016008110140,千雪,"いつの間にか、夏も終わってしまいそうで……
+……プロデューサーさんの時計の跡は","Before I was aware, summer is already going to end... The markings of Producer's watch,"
+2016008110150,千雪,"私の代わりに、
+思い出を残してくれてるみたいです",it seems like a memory left as a stand-in for me.
+0000000000000,プロデューサー,"はは……
+そう言ってくれるなら、俺の日焼けも報われそうだよ","Haha... 
+If you put it like that, my sunburn would have paid off."
+0000000000000,プロデューサー,──あれっ,──Huh.
+2016008110160,千雪,……？,...?
+0000000000000,プロデューサー,"向こうの看板──
+目印の青い看板じゃないか……！？","That billboard over there── 
+Isn't that blue billboard the landmark...!?"
+2016008110170,千雪,あ、プロデューサーさん──,"Ah, Producer-san──"
+0000000000000,プロデューサー,──やっぱりそうだ,──It's just as I thought.
+0000000000000,プロデューサー,"結構距離があるみたいだな……
+おーい！　急ごう、千雪っ","It looks like there's quite a distance... 
+Hey! Hurry, Chiyuki."
+2016008110180,千雪,…………,......
+2016008110190,千雪,はーいっ……──,Coming...──
+info,produce_events/201600811.json,
+Translator,cloverbunz,

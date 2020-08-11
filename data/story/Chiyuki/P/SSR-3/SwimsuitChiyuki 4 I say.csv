@@ -1,0 +1,127 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──おお、千雪じゃないか
+おはよう","──Ohh, if it isn't Chiyuki. 
+Good morning."
+2016008040010,千雪,"わぁ、プロデューサーさん……！
+おはようございますっ","Waa, Producer-san...! 
+Good morning to you."
+0000000000000,プロデューサー,……なんか、前にもこんなことあったよな,"...Somehow, it feels like this has happened before."
+2016008040020,千雪,"はい……！
+公園の時ですね","Yeah...! 
+Back then at the park."
+0000000000000,プロデューサー,"ああ
+今日はランニング中じゃないんだな","Ahh. 
+I take it you're not in the midst of running today."
+2016008040030,千雪,"はい、今日は寮のゴミ出し当番だったので
+この後走ろうかなって","Yes, I'm on duty for taking out the dorm's trash today, so I thought I'd go run afterwards."
+2016008040040,千雪,"なので、
+サボってるとかではないんですよ……！","Even so, it's not like I'm slacking off or something...!"
+0000000000000,プロデューサー,はは、わかってるよ,"Haha, I understand."
+0000000000000,プロデューサー,それに千雪、今日はオフだもんな,"Besides, Chiyuki, it's your day off."
+0000000000000,プロデューサー,"頑張っているところを止めたいわけじゃないけど……
+体を休めることも大事だ、無理はするなよ","I don't want to stop you from working hard, but... 
+It's important for your body to take a break, so don't overdo it."
+2016008040050,千雪,"……はい
+ありがとうございます","...Yes. 
+Thank you."
+0000000000000,プロデューサー,──って、立ち話も悪いよな,"──Ah, we shouldn't stand around here talking."
+2016008040060,千雪,あ……！,Ah...!
+2016008040070,千雪＆プロデューサー,それじゃあ、休みの日に──,"Well then, since it's a day off──"
+2016008040071,千雪＆プロデューサー,……！,...!
+2016008040080,千雪,"あ、ええと……
+すみません、どうぞ","Ah, um... 
+Sorry, go ahead."
+0000000000000,プロデューサー,"──いや、その
+休みの日に、ごめんな","──Nah, um. 
+On your day off, sorry"
+0000000000000,プロデューサー,時間、取らせてしまって,for taking up your time and all.
+2016008040090,千雪,いっ、いえ……！,I-It's fine...!
+2016008040100,千雪,……──,......──
+0000000000000,プロデューサー,"──それじゃあ
+今日はゆっくり休んでくれ","──Well then, 
+get some rest today."
+2016008040110,千雪,"……──
+あのっ！","......──
+Um!"
+select,,伝え忘れか？,Did you forget to tell me something?
+select,,……？,......?
+select,,何かあったか,Is there something wrong?
+2016008040120,千雪,"いえ……！
+──あ、ではなくてっ","No...! 
+──Ah, that's not exactly it."
+2016008040130,千雪,でも、そうと言えばそんな感じで……,But that's what it sounds like when I say it...
+0000000000000,プロデューサー,…………？,...?
+2016008040140,千雪,"……ええと、その
+──私、プロデューサーさんとお話しすると……","...Um, it's
+──When I talk to you..."
+2016008040150,千雪,"今日も頑張るぞーって気持ちになれるんです
+……だから","I feel as though I can do my best today
+...That's why."
+2016008040160,千雪,"『時間取らせてごめん』
+なんて言わないでください……！","Please don't say something like ""Sorry for taking up your time""...!"
+0000000000000,プロデューサー,"……！
+──……おう","...! 
+──...Ohh."
+2016008040170,千雪,……プロデューサーさん……？,...Producer-san...?
+0000000000000,プロデューサー,"いや、なんか……
+そんなふうに思わせちゃってたのか……","Nah, it's just... 
+I didn't mean to give you that kind of impression..."
+0000000000000,プロデューサー,"かえって気を遣わせてしまったみたいで、すまん──
+……って、こういうのが駄目なんだよな","Rather, it seems that I made you feel concerned, sorry── 
+well, it seems I'm no good at this."
+2016008040180,千雪,"……ふふっ
+もう……","...Fufu. 
+Jeez..."
+0000000000000,プロデューサー,次から気を付けるよ,I'll be more careful next time.
+2016008040190,千雪,……はいっ,...Alright.
+2016008040200,千雪,"──それじゃあ、お仕事頑張ってくださいね
+行ってらっしゃい","──Well then, do your best at work. 
+Take care."
+2016008040210,千雪,"──ええと、
+き、今日は……","──Um, 
+t-today..."
+2016008040220,千雪,"朝から、プロデューサーさんと
+お話しできて嬉しかったです",──It was a pleasure talking to you this morning.
+2016008040230,千雪,"……という、私の気持ちを……
+お伝えしておきます……！","...And, I wanted to tell you… 
+how I felt...!"
+0000000000000,プロデューサー,"そ、そうか
+ありがとうな","I-I see. 
+Thank you then."
+2016008040240,千雪,"──それと
+私、決めましたっ","──Also, I've decided."
+2016008040250,千雪,"ランニングはお休みにして、
+今日はしっかり休むことにします",I'm going to take a break from running and get a good rest today.
+2016008040260,千雪,それで、明日からもお仕事、頑張ります……！,And I'm going to do my best for work tomorrow...!
+0000000000000,プロデューサー,おう、そうか,"Oh, I see."
+0000000000000,プロデューサー,"それじゃあ、俺は千雪が明日からも頑張れるように
+頑張ってくるよ","Then, I'll work hard to make sure Chiyuki can do her best tomorrow."
+2016008040270,千雪,"ふふっ、はい……！
+ありがとうございます","Fufu, alright...! 
+Thank you very much."
+2016008040280,千雪,"……何か、というか……
+……──","...Anything, or rather...
+......──"
+2016008040290,千雪,"私、朝からプロデューサーさんに
+お会いできて嬉しかったですっ",I was happy to meet Producer-san this morning.
+2016008040300,千雪,それを……伝えよう、と……,That's... conveying that to you...
+0000000000000,千雪,思いまして……,That's what I wanted...
+2016008040310,千雪,…………,......
+0000000000000,プロデューサー,そうか……,I see...
+2016008040320,千雪,"……だから、
+『時間取らせてごめん』じゃないんです","...That's why, 
+you shouldn't have said ""Sorry for taking up your time""."
+0000000000000,プロデューサー,……！,...!
+0000000000000,プロデューサー,"そうか、すまなかった
+千雪の気持ち、勝手に決めつけてしまって","I see, sorry about that. 
+I assumed your feelings by myself."
+0000000000000,プロデューサー,ありがとうな,Thanks for telling me.
+2016008040330,千雪,"──いえ……！
+……こちらこそです","──It's alright...! 
+...It was my pleasure."
+0000000000000,プロデューサー,"──それじゃあ
+今度こそ行くよ","──Well then, 
+I'll get going this time."
+2016008040340,千雪,はい、行ってらっしゃいっ,"Alright, take care."
+info,produce_events/201600804.json,
+Translator,cloverbunz,

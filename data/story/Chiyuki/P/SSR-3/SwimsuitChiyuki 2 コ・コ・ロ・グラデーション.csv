@@ -1,0 +1,100 @@
+id,name,text,trans
+0000000000000,プロデューサー,──綺麗な色だな,──Such a beautiful color.
+2016008020010,千雪,わ、プロデューサーさん……！,"Waa, Producer-san...!"
+2016008020020,千雪,"今戻られたんですね
+お疲れ様です","You're finally back now. 
+Thank you for your hard work."
+0000000000000,プロデューサー,うん、お疲れ様,"Yeah, thank you for your hard work too."
+0000000000000,プロデューサー,"……って、飲み物の色よりもこっちの方を
+先に言うべきだったな……すまん","...Actually, I should have said that first rather than mentioning the colour of the drink... sorry."
+2016008020030,千雪,ふふっ、いえいえ……！,"Fufu, it's fine...!"
+2016008020040,千雪,これ、レモネードなんです,This is lemonade.
+2016008020050,千雪,事務所に来る途中のカフェで見つけて……,I saw it in a cafe on the way to the office...
+2016008020060,千雪,"綺麗だし飲みたくなって
+買っちゃいました","And so I bought it, because it looked beautiful and I wanted to drink it."
+0000000000000,プロデューサー,"へえ……！
+そんなものがあるんだな","Hmm...! 
+To think that such a thing actually exists."
+2016008020070,千雪,"はい
+青と黄色のグラデーションなんて、珍しいですよね","Yup.
+A blue and yellow gradation sure is unusual, right."
+0000000000000,プロデューサー,そうだな、初めて見たよ,"Yeah, it's the first time I've seen something like this."
+0000000000000,プロデューサー,"……ちなみに、味はちゃんと
+レモネードなのか……？","...By the way, does it actually taste like lemonade...?"
+2016008020080,千雪,"あ……
+実は、まだ一口も飲んでないんです","Ah... 
+To be honest, I haven't even taken a sip yet."
+2016008020090,千雪,…………,......
+2016008020100,千雪,"せっかく綺麗なグラデーションなのに、
+混ざってしまうから……","It's such a precious, beautiful gradation, but it's going to get mixed up..."
+0000000000000,プロデューサー,そうか……,Yeah...
+select,,"また買えば
+いいんじゃないか？",Wouldn't it be alright if you just buy another one?
+select,,"それじゃあ、
+写真を撮っておくとか","If that's the case, let's take a picture of it."
+select,,"それは
+もったいないと思うぞ",I think that'd be a waste.
+2016008020110,千雪,そ、それはそうなんですけど……！,"T-That's true, but...!"
+2016008020120,千雪,"でも、
+そういうことじゃなくって……！",But that's not what I meant...!
+0000000000000,プロデューサー,"……？
+何か、千雪なりのこだわりがあるんだな……","......? 
+I wonder what it is that made you so fixated on it..."
+0000000000000,プロデューサー,俺でよければ話を聞くが……,If you're fine with telling me...
+2016008020130,千雪,"……い、いえっ
+そんな、大したことではないんです……！","...N-Nah, it's not that big of a deal...!"
+2016008020140,千雪,──ええと、だから,"──Um, so"
+2016008020150,千雪,"それでは、ひと思いにいただきます……！
+──えいっ","With that, I think I'll try it at once...! 
+──*Sips*"
+0000000000000,プロデューサー,"おお……
+ど、どうだ……？","Ohh... 
+H-How is it...?"
+2016008020160,千雪,"……ちゃんとレモネードですっ
+甘くて美味しくて──","...It's actual lemonade. 
+It's sweet and delicious──"
+2016008020170,千雪,……少しだけ、苦いです,...and just a little bit bitter.
+2016008020180,千雪,"……そ、それはもう
+撮り終えてまして……","A-Actually, I've already taken one..."
+0000000000000,プロデューサー,"えっ、そうか……
+それなら……うーん","Eh, I see... 
+Then... alright."
+2016008020190,千雪,"す、すみません……！
+そんなに真剣に考えていただいてしまって……","S-Sorry about that...! 
+You thought about it so seriously too..."
+0000000000000,プロデューサー,"あ、いや
+俺こそ大したアドバイスもできずに……すまない","Ah, it's fine. 
+I'm the one who couldn't give you much advice... sorry about that."
+0000000000000,プロデューサー,……でも、色々考えるよりもさ,"...However, rather than overthinking about too many things,"
+0000000000000,プロデューサー,"千雪がレモネードを飲みたいと
+思って買ったなら……",if you bought it simply because you wanted to drink the lemonade...
+0000000000000,プロデューサー,"素直にその気持ちを大切にするのが
+一番いいと思うぞ",I think it's best to cherish that feeling of honesty.
+0000000000000,プロデューサー,レモネードのことだけに限らないけどな,"It's not only limited to this lemonade, though."
+2016008020200,千雪,"わ……な、なんだかご心配をおかけして
+しまったみたいで……すみません","Aah... S-Somehow, it's like I've caused you some worry... 
+Sorry about that."
+2016008020210,千雪,"ありがとうございます、
+プロデューサーさん","Thank you very much, Producer-san."
+2016008020220,千雪,"……？
+そ、そうでしょうか……","......? 
+I-I guess so..."
+0000000000000,プロデューサー,"ああ
+冷たくて美味しいうちに飲んだ方が","Ahh. 
+But it should taste better when you drink it while it's cold."
+0000000000000,プロデューサー,"……なんというか、
+そのレモネードのため……？　にもなるんじゃないかな","...Or at least, for this lemonade...? 
+I wonder if it'd be the case too."
+2016008020230,千雪,…………,......
+0000000000000,プロデューサー,"……はは
+なんか変なこと言っちゃったけど……","...Haha, 
+I feel like I said something strange..."
+2016008020240,千雪,"……いえ
+そうですよね","...Nah. 
+You're right."
+2016008020250,千雪,レモネード、素直に飲むことにします……！,I'll just drink this lemonade as it is...!
+0000000000000,プロデューサー,おう,Ohh.
+0000000000000,プロデューサー,……どうだ？,...How is it?
+2016008020260,千雪,……ふふ、美味しいです,"...Fufu, it's delicious."
+info,produce_events/201600802.json,
+Translator,cloverbunz,
