@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,"冬優子、それは……
+料理の本を読んでるのか？","Fuyuko, that's...
+Are you reading a cooking book?"
+1018001000910010,冬優子,"うん
+最近仕事ばっかでしてなかったからね","Yup.
+I haven't done it lately because work took my time."
+1018001000910020,冬優子,"たまには新しいの作りたいなー……って
+何よ、変な顔して","Sometimes I just feel like creating something newー
+What's with the weird face?"
+0000000000000,プロデューサー,ああ、いや……,"Aah, no..."
+select,,今度食べさせてくれ,"This time 
+let me eat it."
+select,,意外だな,It's surprising.
+select,,ちゃんと作れるのか？,"Can you properly 
+make it?"
+1018001000910030,冬優子,"な……っ
+……だ、ダメなわけじゃ、ないけど……","Wh...
+...O-Of course that's... not the problem..."
+1018001000910040,冬優子,"ふゆの手料理は特別なんだから
+ちゃーんとわかってるんでしょうね？","Fuyu's homemade cooking is extraordinary, you know? Do you actually understand that?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000910050,冬優子,意外と家庭的って、結構ポイント高いのよ？,"Surprisingly homely skills have high points, you know?"
+1018001000910060,冬優子,"あははっ、仕事の時に上手く活かせたら、
+もっとふゆの人気が出るかもね！","Ahaha, if you make good use of it at work,
+maybe Fuyu will become more popular!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000910070,冬優子,"あったりまえでしょ
+これでもそこそこ得意なんだから","Of course.
+Even I can be reasonably good at this too."
+1018001000910080,冬優子,"人を見かけで判断しないでよ
+あんた、プロデューサーでしょ？","Don't judge people by appearance.
+You are a producer, right?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100091.json,
+Translator,Autumn Cloud,

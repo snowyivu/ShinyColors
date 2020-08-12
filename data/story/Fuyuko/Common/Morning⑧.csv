@@ -1,0 +1,36 @@
+id,name,text,trans
+1018001000810010,冬優子,"プロデューサー
+ちょっとこの企画書見てくれる？","Producer,
+can you see this proposal for a bit?"
+0000000000000,プロデューサー,"ああ
+『あのアイドルの意外な一面大公開』……これがどうした？","Ohh,
+""Public release of that idol's unexpected side"" 
+...What's the problem with this?"
+1018001000810020,冬優子,"意外な一面って言われても、
+ふゆ、何すればいいかわかんないんだけど……","Even if it's called an unexpected side,
+Fuyu doesn't know what to do..."
+0000000000000,プロデューサー,冬優子の意外な一面か……,"Fuyuko's unexpected side, huh..."
+select,,実は面倒見がいい,"""She's actually good at 
+taking care of others"""
+select,,実は可愛い,"""She's actually cute"""
+select,,"普段の冬優子を
+見せたらどうだ？","How about showing
+your usual self, Fuyuko?"
+1018001000810030,冬優子,"な、なに言ってんのよ……！？
+ふゆが、そんなことあるわけないでしょ……！","W-What are you talking about...!?
+Of course, Fuyu can't do that, you know...!?"
+1018001000810040,冬優子,"……あんたがそういうなら、
+そう見えることもあるかも、しれないけど……","...but if you say so,
+There might be that side to me, not that I know."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001000810050,冬優子,ふゆが可愛いのは、意外でもなんでもない事実でしょ！,"Fuyu's cuteness is not unexpected, but that's the fact!"
+1018001000810060,冬優子,"……ま、改めてふゆの可愛さをわかってもらう、
+ってのなら、ありかもしれないわね","...Well, it might be possible if you want to once again understand Fuyu's cuteness."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001000810070,冬優子,それ、本気で言ってんの？,"That, are you seriously saying that?"
+1018001000810080,冬優子,"ギャグのつもりならいいけど……
+全然面白くないから","If it meant as a joke, then so be it...
+Because it's not funny at all."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100081.json,
+Translator,Autumn Cloud,
