@@ -1,0 +1,35 @@
+id,name,text,trans
+1018001001210010,冬優子,ふふんふーんふーん,Hum hm...
+0000000000000,プロデューサー,"おはよう、冬優子
+朝から上機嫌だな","Morning, Fuyuko.
+You're in a good mood today."
+1018001001210020,冬優子,"え……っ！？
+あ、あんた、今の聞いてたの！？","Eh...!?
+Y-You, just now you heard me, right!?"
+0000000000000,プロデューサー,ああ、聞いてたけど……,"Yea, heard that..."
+select,,よく声が出てたな,"You were singing
+with a clear voice."
+select,,楽しそうだな,"You sounded like
+you're having fun."
+select,,"いいことでも
+あったのか？","Did something
+good happened?"
+1018001001210030,冬優子,いや、そうじゃなくて……！,"No, that's not...!"
+1018001001210040,冬優子,"……ま、これからボイトレだし……
+そういうことにしてあげる！","...Well, Fuyu is about to do a voice lesson anyway...
+Let's just say that's that!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001001210050,冬優子,わざわざ言わなくていいっての,You don't have to bother telling me that.
+1018001001210060,冬優子,"……プロデューサーのあんたが言うなら、
+そうかもしれないわね","...But if Producer says it,
+then that might be the case."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001001210070,冬優子,"うっさい！
+あっても、あんたには絶対教えてあげないんだから！","Shut up!
+Even if there is, I'll never tell you anyway!"
+1018001001210080,冬優子,"せいぜいふゆに何があったのかなって、
+想像してればいいの！","Let's see you guess what happened to Fuyu,
+using that imagination of yours!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100121.json,
+Translator,Autumn Cloud,

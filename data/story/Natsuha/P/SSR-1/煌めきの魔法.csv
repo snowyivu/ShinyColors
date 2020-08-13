@@ -18,7 +18,7 @@ id,name,text,trans
 0000000000000,プロデューサー,う、うーん……,U-Uh huh...
 2013004020080,夏葉,"はぁ……今日はモルディブの海にいるつもりで、
 ポージングを考えるくらいしかできないわね……",*sigh* ...I could've been on a beach in the Maldives today. Now all I can do is spend that time coming up with poses...
-0000000000000,プロデューサー,(窓に張り付いてしまったぞ……),(And now she has her face up against the window...)
+0000000000000,プロデューサー,(窓に張り付いてしまったぞ……),(And now she's sticking her face against the window...)
 2013004020090,夏葉,"……夜なら大丈夫なのよ
 でも夜じゃ何も見えないし……","...It'll have to be at night, but then it'll be too hard to see anything..."
 2013004020100,夏葉,……待って、そういえば……,...Wait a second. That reminds me...
@@ -67,9 +67,9 @@ id,name,text,trans
 2013004020290,夏葉,"ええ、他にもたくさん……
 ……嬉しい……！",Yes. There are so many others as well... It makes me so happy...!
 0000000000000,プロデューサー,"１枚だけ選ぶの大変だったよな
-さすが夏葉だ、って思ったよ","It was hard to only pick out one shot, but that's just the kind of quality I excepted from you."
+さすが夏葉だ、って思ったよ","It was hard to pick out a single shot, but that's just the kind of quality I expected from you."
 2013004020300,夏葉,あら、偶然ね？,Isn't that funny?
 2013004020310,夏葉,"私もアナタに同じことを思ったのよ
 ……うふふ",I was thinking just the same about you.... Ufufu.
 info,produce_events/201300402.json,
-Translator,,
+Translator,,,vio

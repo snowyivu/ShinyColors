@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000,プロデューサー,"冬優子にファンレターが来てたぞ
+はづきさんが預かってるから、受け取ってくれ","Some fan letters addressed to Fuyuko just came in.
+Hazuki-san keeps them, so please receive them."
+1018001001310010,冬優子,ふ、ふゆに……！？,F-For Fuyu...!?
+0000000000000,プロデューサー,どうしたんだ、そんなに動揺して,What's up with that troubled face?
+1018001001310020,冬優子,"……その、昔、ふゆもそういうの、送ったことがあって……
+自分が送られる側って、なんか、想像できなくて……","...Well, in the past, Fuyu also did send those...
+Being the one that received them myself is somewhat unimaginable..."
+select,,"憧れられる側に
+なったんだな","You're the one
+being admired now."
+select,,でも、現実だぞ,But it's a fact.
+select,,"どんなファンレター
+だったんだ？","What kind of 
+fan letter is it?"
+1018001001310030,冬優子,"う、うっさい……
+クサいこと言わないでよ","S-Shut up...
+Don't say something that cheesy."
+1018001001310040,冬優子,"……今から、読んでくるから……
+絶対、覗き見したりしないでよね","...From now, Fuyu will be reading these...
+Absolutely no peeking!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001001310050,冬優子,わ、わかってるわよ……,F-Fuyu knows that...
+1018001001310060,冬優子,"でも、やっぱり……
+ちょっと、信じられないんだもん……","But, after all...
+It's a bit, unbelievable after all..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001001310070,冬優子,"はあ！？
+なんであんたに教えなきゃいけないのよ！","Huuh!?
+Why does Fuyu need to tell you that!?"
+1018001001310080,冬優子,"あんたってほんっと、
+デリカシーってものがないわね","You're just really,
+can't be delicate at all, huh."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100131.json,
+Translator,Autumn Cloud,

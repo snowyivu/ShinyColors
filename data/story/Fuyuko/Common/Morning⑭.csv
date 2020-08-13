@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000,プロデューサー,"冬優子、何を読んでるんだ？
+これは……ギャル向けのファッション雑誌？","Fuyuko, what are you reading there?
+Is this... a fashion magazine marketed for girls?"
+1018001001410010,冬優子,"この前愛依と話しててね
+ふゆにこういうのが似合いそうってなったの","Talking to Mei that last time,
+Fuyu might actually be suited using these things."
+1018001001410020,冬優子,"ふゆは興味ないんだけど？
+お願いされたなら、着てみてあげようかなって","Fuyu isn't interested, though.
+But if asked to, Fuyu will give it a try."
+0000000000000,プロデューサー,（とか言いつつ、楽しそうだな……）,"(She said that, but she looked that happy about it)"
+select,,"冬優子なら
+似合うだろうな","If it's Fuyuko,
+it will look good."
+select,,あんまり似合わなそうだ,"It wouldn't really
+look good on you."
+select,,冬優子らしくないな,"It's not really like
+Fuyuko's style"
+1018001001410030,冬優子,"ふふん、当然でしょ
+ふゆを誰だと思ってんのよ","Heheh, of course.
+Who do you think Fuyu is."
+1018001001410040,冬優子,"愛依がかすんじゃうくらい、
+完璧に着こなしてやるんだから！","Because Fuyu will wear it so well,
+even Mei will be completely blown away!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1018001001410050,冬優子,ま、そうでしょうね,"Well, that's right."
+1018001001410060,冬優子,"でも……
+たまには、着てあげてもいいかなって","But...
+Sometimes, Fuyu wonders if she can wear that at all."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1018001001410070,冬優子,ふゆだってわかってるわよ、それくらい,"Fuyu knows that much, you know."
+1018001001410080,冬優子,"でも、その可能性を切り開くのが
+プロデューサーってもんじゃないの？","But, isn't it Producer's responsibility 
+to open up that possibility?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100141.json,
+Translator,Autumn Cloud,
