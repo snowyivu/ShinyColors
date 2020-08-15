@@ -1,0 +1,115 @@
+id,name,text,trans
+0000000000000,プロデューサー,あー……,Ahhh...
+0000000000000,プロデューサー,暑いな…………,It’s so hot...
+0000000000000,プロデューサー,"────はぁ……
+事務所、遠いなぁ……","────Huff, huff… Why is the office so far?"
+0000000000000,プロデューサー,木陰は気持ちよさそうだ……,That tree’s shade would probably feel amazing right now…
+0000000000000,プロデューサー,"…………って
+あそこで寝てるの…………",What the. Is there someone napping here?
+0000000000000,プロデューサー,透──────？,Toru?
+2020005010010,透,ふぁ────…………,Yaaaaawn…
+0000000000000,プロデューサー,"ええと……おーい
+透ー……────？",Ummm… Hello? Toru…?
+2020005010020,透,────え,────Huh?
+2020005010030,透,……プロデューサー,... Producer.
+0000000000000,プロデューサー,ははっ、おう,Haha. Hey.
+2020005010040,透,────仕事？,────Time for work?
+0000000000000,プロデューサー,"そりゃあ、平日の午後だからな
+透は昼寝か？","Since it’s an afternoon on a weekday, I’m guessing you were taking a nap?"
+2020005010050,透,"うん
+平日の午後だからね",Yeah. It is an afternoon on a weekday after all.
+0000000000000,プロデューサー,"はは、優雅な平日だ
+────事務所まで行けば涼しいのに","Haha, it is a beautiful day today. But you know, it’s a lot cooler if you go to the office."
+2020005010060,透,"あー
+うん",Huh. You’re right.
+2020005010070,透,ふふっ、無理だった,"Fufu, but I can't."
+0000000000000,プロデューサー,"無理ってことないぞ
+一緒に行こ────",What do you mean “I can’t?” Let’s head back toge────
+2020005010080,透,座ってよ,Sit with me.
+0000000000000,プロデューサー,え？,Huh?
+2020005010090,透,"風、くるよ
+ここ",A wind is coming.
+0000000000000,プロデューサー,"──おぉ……
+いい風だな……！",──Woah… That’s a nice breeze!
+2020005010100,透,"でしょ
+ほら",Right? Like I said.
+0000000000000,プロデューサー,じゃあ────,Then────
+0000000000000,プロデューサー,…………,......
+2020005010110,透,…………,......
+0000000000000,プロデューサー,…………,......
+2020005010120,透,"…………
+……止まったね、風","......
+... The wind has stopped."
+0000000000000,プロデューサー,"……
+うん……","......
+Yeah..."
+select,,"……すまん
+俺のせいかな","… Sorry, it must have been becasue of me."
+select,,"……来ちゃ
+いけなかったな",... I shouldn't have come.
+select,,"風よ、こい！
+……なんて","Come fort great winds! 
+... Just kidding."
+2020005010130,透,"……
+なんで？",… Why?
+0000000000000,プロデューサー,"いや、なんとなく……
+タイミング的に","Well, it's just that... didn't the timing just feel too perfect?"
+2020005010140,透,"ふふっ
+そんなわけないじゃん",Haha. There’s no way that could be the case.
+0000000000000,プロデューサー,"いやぁ、ほら、俺が来たことでさ
+涼しいはずの未来が書き換わって……みたいな","Well, when I came here, the eind-filled future was instantly rewritten... Or at least it felt like it."
+2020005010150,透,……だったらさ,If that’s the case...
+2020005010160,透,"もっかい、書き換えられるでしょ
+プロデューサー","You can rewrite the future one more time, Producer."
+0000000000000,プロデューサー,……え,Huh?
+2020005010170,透,"ほらほら、なんかやって
+未来が変わるっぽいこと","Come on, do something. I can feel the future changing again."
+0000000000000,プロデューサー,"ええっ、あぁ……！　うーん…………！
+……じゃあ、ここ来なかったってことにして俺は戻────","Uhhh, well…! Ummm…! 
+… In that case, it’s better if I didn’t come at all. I’ll just head ba-"
+2020005010180,透,────きた…………,────It’s back…
+2020005010181,透＆プロデューサー,あははっ…………,Ahaha…
+2020005010190,透,あー……,"Hmmm… "
+2020005010200,透,戻らない未来でいいから,I’m fine with the future we don't go back.
+0000000000000,プロデューサー,え？,Sorry?
+2020005010210,透,"で、いいから
+私",Don’t worry. I’m fine.
+2020005010220,透,"──？
+なんで","──?
+Why?"
+0000000000000,プロデューサー,"いや、なんというか……
+俺が止めちゃったみたいな雰囲気だからさ","Well, it kind of felt like… like maybe I was the one that stopped it or something."
+2020005010230,透,そうだけど,Seems so.
+0000000000000,プロデューサー,ええっ、そうなのか,"Wait, really?"
+2020005010240,透,タイミング的には、うん,"Based on the timing, yeah."
+0000000000000,プロデューサー,それは……すまない,But that’s… Sorry.
+2020005010250,透,ふふっ,Haha.
+2020005010260,透,"……止むことになってたから
+きっと",… The wind was definitely going to stop anyways.
+0000000000000,プロデューサー,え……？,Huh…?
+2020005010270,透,"それで……
+ここに来ることになってた。プロデューサー","Because… You were definitely going to come here, Producer."
+0000000000000,プロデューサー,……おう,… I see.
+2020005010280,透,"だから、
+いなよ","So, that’s why."
+2020005010290,透,いなよ,That’s why.
+2020005010300,透,────何？,────What?
+0000000000000,プロデューサー,"っ、その……
+呼んでみようかなと思って…………","Um, well… I was thinking about trying to call for the wind just now…"
+2020005010310,透,ふふっ,Haha.
+0000000000000,プロデューサー,"笑わないでくれよ
+──透は呼べそうな雰囲気あるけどな","Come on, don’t laugh like that. It felt like you were trying to call for the wind yourself just now too."
+2020005010320,透,無理でしょ,"That’s impossible. "
+0000000000000,プロデューサー,"いや
+無理かどうかは、やってみなきゃ","Well, you don't know if you don't try."
+2020005010330,透,"……
+風よ、こい……！","…… 
+Come forth, great winds…!"
+2020005010331,透＆プロデューサー,────あははっ……,Ahaha…
+2020005010340,透,"汗かいちゃったじゃん、もう
+……じゃ、交代ね","You’re sweating quite a bit... Here, let’s trade places."
+0000000000000,プロデューサー,ん？,Hm?
+2020005010350,透,────呼んでよ、風,"The wind. I’ll call for it. "
+2020005010360,透,やってみなきゃ,We’ll won't know if we don't try.
+info,produce_events/202000501.json,
+Translator,,

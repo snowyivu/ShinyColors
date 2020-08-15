@@ -235,7 +235,7 @@ images/tips/beginner_mission/002.jpg,tutorial/beginner_mission_002.jpg,2
 images/ui/game_event/parts_icon.json_image,game_event_parts_icon.png,9
 images/ui/idol_detail/parts_trust.json_image,idol_detail_parts_trust.png,2
 images/ui/character_fan_ranking/parts.json_image,fan_ranking_parts.png,7
-images/ui/box_gasha/parts.json_image,box_gasha_parts.png,8
+images/ui/box_gasha/parts.json_image,box_gasha_parts.png,9
 images/tips/produce_grad/001.jpg,tutorial/grad_tutorial_001.png,1
 images/tips/produce_grad/002.jpg,tutorial/grad_tutorial_002.png,1
 images/tips/produce_grad/003.jpg,tutorial/grad_tutorial_003.png,1
@@ -551,3 +551,13 @@ images/tips/workActivity/002.jpg,tutorial/work_activity_002.png,3
 images/tips/workActivity/003.jpg,tutorial/work_activity_003.png,3
 images/tips/workActivity/004.jpg,tutorial/work_activity_004.png,3
 ae/work_activity_start/images/text_mask.png,text_mask.png,3
+images/tips/shop/001.jpg,tutorial/shop_001.png,8
+images/tips/shop/002.jpg,tutorial/shop_002.png,8
+images/tips/shop/003.jpg,tutorial/shop_003.png,8
+images/tips/shop/004.jpg,tutorial/shop_004.png,2
+images/tips/shop/005.jpg,tutorial/shop_005.png,2
+images/tips/shop/006.jpg,tutorial/shop_006.png,2
+images/tips/shop/007.jpg,tutorial/shop_007.png,2
+images/tips/shop/008.jpg,tutorial/shop_008.png,2
+images/ui/fes_result/parts_fes_match.json_image,parts_fes_match.png,9
+images/content/game_event/reward_label/5_9_13_17_21_2.png,game_event_reward_label.png,1

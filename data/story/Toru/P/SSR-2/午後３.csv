@@ -1,0 +1,114 @@
+id,name,text,trans
+0000000000000,店員,"お待たせいたしました
+Ｂセットのサラダでございます",Sorry to keep you waiting. Here is the B Combo’s salad.
+2020005040010,透,はーい,Right here.
+0000000000000,プロデューサー,──どうも,Thank you.
+2020005040020,透,何、これ,What is this?
+0000000000000,プロデューサー,え？,What?
+2020005040030,透,なんか……花じゃない？,Is that… a flower?
+0000000000000,プロデューサー,"────あぁ……
+花、入ってるな。これってなんのサラダだっけか",Wow… They actually put a flower in it. What kind of salad is this?
+2020005040040,透,……『ナスタチウムとスプラウトのサラダ』,… “Nasturtium and Sprout Salad.”
+0000000000000,プロデューサー,"おおー……
+『ナスタチウム』なのかな。じゃあ","Ohhh. So, it was one of those nasturtium salads. "
+2020005040050,透,食べるの？,Are you going to eat it?
+0000000000000,プロデューサー,"い、いや……
+えっと……食べられるんだよな",W-well… I mean… I guess I can.
+2020005040060,透,え、うーん……,"Huh, ummm…"
+2020005040070,透,……,......
+0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,"────うん
+これ、飾りって雰囲気じゃないしさ",────They really decorated this thoroughly too.
+0000000000000,プロデューサー,食べてみるよ、男らしく,"Alright, I gotta do it. For the sake of my masculinity."
+2020005040080,透,"……ふふっ
+聞いてみようか？　お店の人",Haha. You don’t want to try asking the waiter about it first?
+0000000000000,プロデューサー,大丈夫だ、見ててくれ……！,Don’t worry. Watch over me...!
+2020005040090,透,"────
+男らしい……","────
+Masculinity…"
+0000000000000,プロデューサー,え？,Hm?
+2020005040100,透,"……思う？
+そういうの、男らしいって",… You really think so? That this is something masculine.
+0000000000000,プロデューサー,"えっ、あぁ……
+うーん────","Huh. Ah, um…"
+0000000000000,プロデューサー,"こういう時にビシッと決断できるといいな……
+ってつもりだったんだけど","It sure would be nice if I could think of an answer to that right now… Or at least that’s what I planned to do. "
+0000000000000,プロデューサー,まぁ、それが男だけの特徴かっていうとな────,"Well, I’m sure that it’s something a guy would do-"
+2020005040110,透,"──ふふっ
+言いきれない？",Fufu. Can’t answer?
+0000000000000,プロデューサー,うん、言いきれないかな,"Yeah, I guess I can’t answer that."
+2020005040120,透,好きだよ、そういうとこ,I like that part about you though.
+0000000000000,プロデューサー,……？　おう,…? Oh.
+2020005040130,透,"プロデューサーらしくいこ
+じゃ",I’ll follow in your footsteps then. Let’s do this.
+0000000000000,プロデューサー,"……
+そうか","……
+You're going to eat?"
+0000000000000,プロデューサー,よーし、じゃ────,Alright then────
+select,,せーので食べよう,Let’s begin on three.
+select,,"やっぱり食べ方、
+聞こう","Actually, let’s ask them the best way to eat this."
+select,,────むっ,"""────Chomp."""
+2020005040140,透,────えっ,"Huh. "
+0000000000000,プロデューサー,"せーのだ
+やっぱり、平等にいこう……！","On three, alright? If we’re doing this, we gotta do this equally!"
+2020005040150,透,えー……,Huh…
+2020005040160,透,じゃ、せーので,"Alright, on three then."
+0000000000000,プロデューサー,"おう
+せーの────","Okay. One, two, three────"
+2020005040161,透＆プロデューサー,もぐもぐ……,"“Munch, munch…”"
+0000000000000,プロデューサー,"────お、俺だけ……！
+ずるいぞ、透……","Wait, why am I the only one eating…!? That’s not fair, Toru…"
+2020005040170,透,"あははっ
+ごめんごめん","Ahaha. Sorry, sorry."
+2020005040180,透,"──大丈夫
+平等にいく","Don’t worry, we’re doing this equally. "
+2020005040190,透,────っ,"""────Nom."""
+0000000000000,プロデューサー,……ど、どうだ…………,"… How, how is it…"
+2020005040200,透,"……
+お、美味しい……","…… 
+It’s delicious. "
+2020005040210,透,とは、言いきれない…………,As if. I can’t even finish saying that…
+0000000000000,プロデューサー,"食べられるものなんだったら、
+美味しく食べる方がいいし","When eating something like this, it’s probably best to learn how to eat it in the tastiest way."
+2020005040220,透,"ふふっ
+確かに",Fufu. That’s true.
+0000000000000,プロデューサー,透はそれでいいか？,"Are you fine with that, Toru?"
+2020005040230,透,うん,Sure.
+2020005040240,透,"──ふふっ
+プロデューサーらしいね","Haha, that’s just like you Producer."
+0000000000000,プロデューサー,"……？
+食べ方聞くのが……か？","……? 
+You mean asking about how to eat the food…?"
+2020005040250,透,"ううん
+聞いてくれるとこ",No. I meant asking me at all.
+2020005040260,透,私もそれでいいか、って,And I said that I was fine with it.
+0000000000000,プロデューサー,"あぁ……そりゃ、
+俺だけよくたってなぁ",Oh… I just thought I was going to be the only one doing this.
+2020005040270,透,そういうとこ、す────,I really do lo-
+2020005040280,透,"……うん
+いいね、プロデューサーらしい",… Yeah. That really is just like you Producer.
+2020005040290,透,"あ……食べた
+ふふっ","Oh, you’re just going to eat it. Haha."
+0000000000000,プロデューサー,"……う、うん……なんだろう
+ちょっとピリッとくるというか…………","… Y-yeah… If I had to describe it, I guess the salad was a bit shocking to say the least…"
+0000000000000,プロデューサー,"……うん。いけるよ
+食べられるやつだ、これ","… But yeah, it’s fine. At least it’s edible. "
+2020005040300,透,"ありがと
+じゃあ……いくか、私も",Thanks. Now… I guess it’s my turn.
+0000000000000,プロデューサー,"おう
+ちょっとだけ、罪悪感あるけどな",Though I do feel a bit guilty.
+2020005040310,透,……？,……?
+0000000000000,プロデューサー,"いや……綺麗に咲いてる花だろ？
+ばりばりっといくのは、な",Well… You saw the pretty flowers? I kind of gobbled them all up just now didn’t I?
+2020005040320,透,あー……うん,Ah… I guess so.
+0000000000000,プロデューサー,"まぁ、それじゃ茎ならいいのかって話だし
+花だけ贔屓されちゃうか","Well, I’m sure that the stems should be pretty good too though. I was only really going after the flowers."
+2020005040330,透,────ふふ,────Fufu.
+2020005040340,透,"いいね、
+プロデューサーらしい",I’ll take you up on that. That’s just like you Producer
+2020005040350,透,"じゃ、贔屓なしでいくから
+────んっ","Then, I’ll eat without going after anything in particular. 
+“────Nom.”"
+info,produce_events/202000504.json,
+Translator,,

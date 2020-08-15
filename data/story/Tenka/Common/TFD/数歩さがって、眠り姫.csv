@@ -10,7 +10,7 @@ Waking up, by herself... She did it!"
 ひとりで、綺麗に……できました……！","Bed hair too...
 By itself, beautifully... She did it!"
 0000000000000,プロデューサー,（……前髪が跳ねてるのは、寝癖じゃなかったのか……）,(So her messy bangs was her own bed hair after all...)
-1015002020050,甜花,……で、でき、ました……,A-And done.
+1015002020050,甜花,……で、でき、ました……,...Sh-she... did it...
 0000000000000,プロデューサー,"……お、おう！
 そうかもしれないな！？","...Y-Yeah!
 I guess you can say so!?"
@@ -21,19 +21,20 @@ I guess you can say so!?"
 0000000000000,プロデューサー,──甜花,──Tenka.
 1015002020080,甜花,だ、ダメ……？,N-No...?
 0000000000000,プロデューサー,"いや、ちょっと待ってくれ
-……今そういう流れじゃなかったよな……？","No, wait a minute... That's not the original plan, is it?"
-1015002020090,甜花,そういう……流れだった……,It was... really like that...
+……今そういう流れじゃなかったよな……？","No, wait a minute...
+That's not how this conversation was moving, was it?"
+1015002020090,甜花,そういう……流れだった……,Yes... it was...
 0000000000000,プロデューサー,"ああ、甜花はそのつもりだったかもしれないけどな
 うーん……","Aah, I guess that's your plan from the very start.
 Hmm..."
-0000000000000,プロデューサー,（まあ、来週は休ませてあげてもいいんだけど……）,"(Well, we do can give you a rest for next week...)"
+0000000000000,プロデューサー,（まあ、来週は休ませてあげてもいいんだけど……）,"(Well, I guess we can let her res next week, but...)"
 0000000000000,プロデューサー,"でも、最近は仕事もレッスンもいい感じだし、
 この調子で頑張ってもらえたらと思うんだけどな……？","However, you're doing really well on work and lessons lately, don't you think it'll be better to keep up the pace for a bit?"
 1015002020100,甜花,う、うう……,Awh...
-0000000000000,プロデューサー,もう少し頑張ってみるのは難しいか？,Is it too hard to work harder just for a little bit?
+0000000000000,プロデューサー,もう少し頑張ってみるのは難しいか？,Is it too tough to work harder just for a little bit?
 1015002020110,甜花,"……ち、千雪さんが言ってた……
 この間……花瓶のお水を取り替えてた時……",Ch-Chiyuki told Tenka about something... That time... When she was changing the water in the vase...
-1015002020120,甜花,『無理にお水をあげてもお花は咲かない』って……！,"""If you forcibly water the flower, they won't bloom""...!"
+1015002020120,甜花,『無理にお水をあげてもお花は咲かない』って……！,"""If you water the flowers too much, they won't bloom""...!"
 0000000000000,プロデューサー,"！　なるほど……
 上手いこと言うなあ……！","Oh! I see...
 That's a good point!"
@@ -45,15 +46,14 @@ Let's take a rest for next week."
 ありがと、プロデューサーさん……！","H-Hooray!
 Thank you, Producer!"
 0000000000000,プロデューサー,"その代わり、あんまり気を緩めないようにな
-休み明けは遅刻厳禁だぞ","That being said, don't get too carried away with your rest.
-You cannot sleep too late at night again."
-1015002020150,甜花,大丈夫、未来の甜花が頑張ってくれる……,"That's alright, the future Tenka would do her best..."
+休み明けは遅刻厳禁だぞ","That being said, don't let this slow down 
+your progress too much. You cannot stay up too late again."
+1015002020150,甜花,大丈夫、未来の甜花が頑張ってくれる……,"That's alright, the future Tenka will do her best for me, so..."
 0000000000000,プロデューサー,"はは、それは未来が来た時に慌てるやつだな……
-それじゃ、まあゆっくり休んでくれ","Haha, your future self probably gonna panic when the time comes...
-Well then, take a good rest."
-1015002020160,甜花,にへへ……！,Nihehe...
+それじゃ、まあゆっくり休んでくれ","Haha, your future self is probably gonna panic when the time comes... Well then, take a good rest."
+1015002020160,甜花,にへへ……！,Nihehe...!
 1015002020170,甜花,"頑張った甜花は……また、ごろごろしましたとさ……
 ──『めでたし、めでたし』","The hardworking Tenka... will now relax well...
-──""Congrats, congrats."""
+──""And they all lived happily ever after"""
 info,produce_events/101500202.json,
 Translator,,
