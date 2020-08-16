@@ -1,79 +1,96 @@
 id,name,text,trans
 0000000000000,撮影スタッフ１,"──はーい、オッケー
-浅倉さん、休憩入りまーす","──Alright, perfect. Asakura-san, you’re welcome to take a break."
-0000000000000,撮影スタッフ２,お疲れ様でーす！,Good work!
-0000000000000,プロデューサー,透、おつか────,"Toru, good wo────"
+浅倉さん、休憩入りまーす","──Okaaay, that's good.
+Asakura-san, we'll break here for nooow."
+0000000000000,撮影スタッフ２,お疲れ様でーす！,"Good work, all!"
+0000000000000,プロデューサー,透、おつか────,"Toru, good w──"
 0000000000000,撮影ディレクター,"透ちゃん、よかったね～！
-表情出てたよ～！","Toru-chan, thank goodness～! You were able to show off some fine facial expressions for the shoot today～!"
+表情出てたよ～！","Toru-chan, that was nice stuff～!
+Your expressions were pristine～!"
 2020005020010,透,"え、褒めてる？
-やった",Was that a compliment? Yay.
+やった","Eh? You're praising me?
+Hooray."
 0000000000000,プロデューサー,"ははっ
-透、おつ────","Haha, Toru, good wo────"
+透、おつ────","Hahah.
+Toru, good──"
 0000000000000,メイクスタッフ,"浅倉さーん、お疲れ様
-メイクさ、後半もうちょっと攻めるからねー？",Good job out there Toru-san. Do you want to fix up your makeup a bit before we get back to work?
+メイクさ、後半もうちょっと攻めるからねー？","Asakura-saaan! Good work. I'll be hitting you with a little makeup for the last half, 'kay?"
 2020005020020,透,"うん
-お疲れ様、メイクさんも","Good job to you too. And yeah, I'd like that."
+お疲れ様、メイクさんも","Got it.
+And good work. To you too."
 0000000000000,撮影スタッフ３,"浅倉クン～！　差入れ持ってきてるよ～！
-食べたいって言ってたでしょ、噂のバターサンド！","Toru-kun～! I brought refreshments～! You said that you wanted something to eat, right? So, I got you the hot, new butter sandwich!"
+食べたいって言ってたでしょ、噂のバターサンド！","Toru-kun～! Got some snacks for you～! Said about trying those butter sandwiches, right? Ones that're all the rage!"
 0000000000000,衣装スタッフ,"あっ、私も～！　買ってきちゃった、行列フルーツソルベ！
-後でね～！","I brought you something too～! Here, I brought you thae new, super-exclusive fruit sorbet! Good luck～!"
-2020005020030,透,え、あー……,"Oh, thanks…"
+後でね～！","Oh, and me too～! I managed to snag you a fruit sorbet──the line for those! Alright, in a bit, then～!"
+2020005020030,透,え、あー……,Eh──aahh...
 2020005020040,透,ふふっ、イエーイ,Fufu. Yay.
-0000000000000,プロデューサー,────,────
+0000000000000,プロデューサー,────,──
 2020005020050,透,──プロデューサー,──Producer.
-0000000000000,プロデューサー,──おう、お疲れ,"Oh, good job out there."
+0000000000000,プロデューサー,──おう、お疲れ,──Hey. Good job out there.
 2020005020060,透,お疲れ,You too.
 0000000000000,プロデューサー,"えーと、これ……
-水分、摂ってくれ","Umm, here… It’s good to stay hydrated."
-0000000000000,プロデューサー,……水で悪いな,"…It’s only water though. Sorry. "
+水分、摂ってくれ","Uhh, well. Take this...
+Make sure to stay hydrated."
+0000000000000,プロデューサー,……水で悪いな,...sorry it's water.
 2020005020070,透,"……
-なんで？","…… 
-What do you mean?"
+なんで？","...
+Why?"
 0000000000000,プロデューサー,"いや、その、ソルベだなんだって
-気が利かなくって……すまない","Well, it’ just that the things the others gave you like the sorbet were so considerate… And all I got is this…"
-2020005020080,透,────ふふっ,────Haha.
-2020005020090,透,もらう、それ,I’ll take it.
-0000000000000,プロデューサー,……おう,… Oh.
+気が利かなくって……すまない","Well, just, with all the sorbet and everyone being so considerate of you, and then, uh... me, sorry."
+2020005020080,透,────ふふっ,──Fufu.
+2020005020090,透,もらう、それ,I'll take it.
+0000000000000,プロデューサー,……おう,...gotcha.
 0000000000000,プロデューサー,"まぁその……休憩中はさ、
-日光避けて、できるだけ体休めてくれたら嬉しいよ","Also… Since the sun is so bright right now, I’d feel a lot more comfortable if you took your break in the shade."
+日光避けて、できるだけ体休めてくれたら嬉しいよ","In any case, uh... while you're on break, try and get out of the sun as much as you can, I guess. Your body'll be thankful for the rest."
 0000000000000,プロデューサー,"あれだったら、スタッフさんたちの差し入れ
-俺がもらってくるからさ","In the meantime, I can gather all the gifts the staff have for you and pass them on to you there."
+俺がもらってくるからさ","If you wanna go find somewhere, I'll carry everything the staff left for you, then."
 2020005020100,透,"いいよ、自分で行ってくる
-ちゃんと休むし","Sure, I’ll be heading off then. I’ll make sure to properly rest up."
+ちゃんと休むし","I'll be fine. Can go by myself.
+I'll take a proper break."
 0000000000000,プロデューサー,"そうか？
-でも────",You will? Then────
+でも────","You sure?
+Just──"
 2020005020110,透,"……ふふっ
-逆さだよ、なんか",Haha. It’s reversed.
-0000000000000,プロデューサー,……え？,... What?
-2020005020120,透,プロデューサー、逆さに映ってる,"Producer, your reflection is reversed. "
+逆さだよ、なんか","...fufu.
+Seems kind of backwards."
+0000000000000,プロデューサー,……え？,...huh?
+2020005020120,透,プロデューサー、逆さに映ってる,"Your reflection's backwards, Producer."
 0000000000000,プロデューサー,"……？
-ペットボトルにか","……? 
-Oh, you’re talking about the water bottle."
+ペットボトルにか","...?
+In the bottle?"
 2020005020130,透,"うん
-小さくて、ヘンな感じ","Yeah. It feels strange looking at this small reflection. "
+小さくて、ヘンな感じ","Yeah.
+It's miniature. Kind of weird to see."
 0000000000000,プロデューサー,"……光の屈折とかかな
-────",It must be because of the refraction of light.
+────","...I guess it's probably down to the light refracting.
+──"
 2020005020140,透,"そうなの？
-いただきまーす","I see. Regardless, thanks for the water."
-2020005020150,透,──ん……ん……,"“Gulp, gulp…”"
+いただきまーす","That so?
+Thanks for the water."
+2020005020150,透,──ん……ん……,──nm... nn...
 0000000000000,プロデューサー,"……
-一気飲みだなぁ","......
-You really drank it all at once."
+一気飲みだなぁ","...
+Drinking it in one go, huh..."
 2020005020160,透,"────はぁ……
-うん……",────Whew… Yeah…
-2020005020170,透,欲しかったから、これ,"If you’re interested, here’s the bottle. "
+うん……","──haahh...
+Yeah..."
+2020005020170,透,欲しかったから、これ,"I needed this, after all."
 2020005020180,透,"喉、めっちゃ渇いてた
-──ありがと","I was really thirsty just now. So, thanks."
-0000000000000,プロデューサー,……透,… Toru.
+──ありがと","Throat was dry. I was really thirsty.
+──Thanks."
+0000000000000,プロデューサー,……透,...Toru...
 0000000000000,プロデューサー,"──うん
-それなら、よかった",No problem. I’m glad to hear that.
+それなら、よかった","──Yeah.
+That's a relief, then."
 2020005020190,透,"じゃ、もらってくるね
-差入れ",Then I’ll be counting on you for those refreshments.
+差入れ","Alright. I'll take them, then.
+The snacks."
 0000000000000,プロデューサー,"あ……おう！
-水もう一本用意しとくよ────","Ah… Oh yeah! Here, let me also get you another bottle of water."
-0000000000000,プロデューサー,────逆さ、か……,"Reversed, huh…"
-0000000000000,プロデューサー,ボトル、横にして見てたっけか────？,Was she looking at the bottle through the side?
-0000000000000,プロデューサー,────透,────Toru.
-0000000000000,プロデューサー,真っ直ぐだぞ、透は,Toru's always moving forward.
+水もう一本用意しとくよ────","Ah... got it!
+Have another bottle of water with you──"
+0000000000000,プロデューサー,────逆さ、か……,"──Backwards, huh..."
+0000000000000,プロデューサー,ボトル、横にして見てたっけか────？,"Lie the bottle flat and look through, was it──?"
+0000000000000,プロデューサー,────透,──Toru...
+0000000000000,プロデューサー,真っ直ぐだぞ、透は,"Ever straightforward you are, Toru."
 info,produce_events/202000502.json,
-Translator,,
+Translator,Mei W. / Emelia,

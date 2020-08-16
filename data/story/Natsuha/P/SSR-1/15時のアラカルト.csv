@@ -1,0 +1,92 @@
+id,name,text,trans
+2013004040010,夏葉,"……これが努力の楽しいところよね！
+ああ、また成長できたって実感できて──……",...That's the best part about putting in the work. You get that feeling of knowing you've made more progress and──
+0000000000000,プロデューサー,すまん、社長から連絡だ,"Sorry, it's from the President."
+2013004040020,夏葉,"あ、ごめんなさい。少しだけの約束なのに
+つい夢中になっちゃって","Agh, I'm sorry. This was only supposed to be a small favor, and I ended up getting carried away."
+2013004040030,夏葉,アナタは仕事に戻るのよね？,"You have to go back to work now, right?"
+0000000000000,プロデューサー,大丈夫、今日はこのあと事務所に寄るだけだ,Don't worry. I just need to drop by the office after this.
+2013004040040,夏葉,"……アナタって忙しそうでも
+生き生きして見えるのよね","...You look incredibly lively, despite how busy you seem."
+0000000000000,プロデューサー,"うーん、夏葉と運動しているおかげかな
+体力がついてきた気がするんだ","Hmm, it must be because of all that exercise you've had me do with you. I noticed I've had a lot more energy as of late."
+2013004040050,夏葉,"まあ、私のおかげ？　それなら
+次のトレーニングでも遠慮なく呼び出そうかしら？","Wow, thanks to me? So I guess you won't object if I go ahead and plan out our next workout session together?"
+0000000000000,プロデューサー,"ああ、俺に手伝えることがあれば
+いつでも言ってくれ",Sure. Be sure to tell me if there's anything I can help you with.
+2013004040060,夏葉,うふふ,Ufufu.
+2013004040070,夏葉,"……あ、お土産にケーキだけ買っていきたいの
+メニューを貸してもらえる？","...Oh, I wanted to come here so I could bring back some cakes. Could I borrow the menu?"
+2013004040080,夏葉,──すみません！,──Excuse me!
+0000000000000,プロデューサー,"トレーニングの後に甘いものなんて
+夏葉にしては珍しい……",Getting sweets after a work out is a pretty rare thing coming from you.
+2013004040090,夏葉,私じゃなくてみんなによ？,"Not for me, but everyone else."
+2013004040100,夏葉,"──テイクアウトの注文いいかしら？
+この赤いイチゴムースと","──Could I make a to-go order? I'd like this red, strawberry mousse one first."
+2013004040110,夏葉,チョコケーキをひとつずつ……,Then one chocolate cake...
+2013004040120,夏葉,"ああでも……智代子はダイエットしているのよね
+買わない方が優しさかしら……","But wait... Chiyoko is on a diet right now, so it might be better not to buy her anything..."
+0000000000000,プロデューサー,はは、すっかり仲良しじゃないか,"Haha, you've gotten pretty close, haven't you?"
+2013004040130,夏葉,"気がついたらね？
+もうずっと昔から友達だったような気持ちよ",So you've noticed? It feels like I've been friends with them since forever ago.
+select,,変わったな,"A little odd,
+don't you think?"
+select,,これからも一緒だ,"You'll be together
+from now on."
+select,,みんないい仲間だな,"Everyone's gotten
+along nicely."
+2013004040140,夏葉,え？　……そうねぇ,Huh? ...I guess so.
+2013004040150,夏葉,私もたまに不思議だなって思うわ,Sometimes it does strike me as mysterious.
+2013004040160,夏葉,"ずっと私がトップになる夢を
+思い描いていたけれど",I've always had a picture of myself for when I would reach the top.
+2013004040170,夏葉,今はその中にみんなの姿も見えるのよ,But now that picture has everyone else in it too.
+2013004040180,夏葉,うふふ……！,Ufufu...
+2013004040190,夏葉,"──あとモンブランと
+レアチーズケーキもひとつずつ頂戴！",──Can I also get a mont blanc and one of your no-bake cheesecakes.
+2013004040200,夏葉,"それから……
+──このフルーツロールも一切れ、お願いするわ！","After that... One of these cake rolls with fruit, please!"
+2013004040210,夏葉,最後のはアナタの分だからね？,"That last one is for you, alright?"
+0000000000000,プロデューサー,"夏葉の分が無いと
+みんな寂しがると思うよ",I think the other's might feel a bit sad if you don't bring anything for yourself.
+2013004040220,夏葉,あら……でも間食するのは……,"Oh... But, snacking between meals is..."
+2013004040230,夏葉,……ううん、今回だけは特別ね,"...Well, I can make an exception for this case."
+2013004040240,夏葉,"──何度もごめんなさい！
+フルーツロールをもうひとつ……！","──Sorry again, but could you make that two rolls?"
+0000000000000,プロデューサー,…………,......
+2013004040250,夏葉,ふっ……うふふっ……！,Fu... Ufufu...
+2013004040260,夏葉,"喫茶店で向かい合って
+そんなキザな台詞……ふふっ","We're sitting together in a cafe, and yet you come at me with such a grandiose line... Fufu."
+2013004040270,夏葉,おかしな人……！,What a strange person...
+0000000000000,プロデューサー,"あっ！　いや！
+これからもみんなで頑張ろうって意味で……！","Ah, wait! What I'm trying to say is that all of you will be doing your best...!"
+2013004040280,夏葉,"うふふっ……わかってるわよ
+なに慌ててるの",Ufufu... I get it. What are you getting all flustered for?
+2013004040290,夏葉,"──すみません、やっぱりさっきのケーキはやめて、
+代わりにこのフルーツロールをお願いできるかしら","──Excuse me, could we actually cancel that order for cake? I'd like to order this fruit cake roll instead, if possible."
+2013004040300,夏葉,……こほん！,...Ahem!
+2013004040310,夏葉,このカラフルなフルーツは私たち,These colorful fruits are us.
+2013004040320,夏葉,それを包んでいるのがアナタ,And the thing wrapping it together is you.
+2013004040330,夏葉,名付けて、放課後クライマックスロール！,"In other words, it's the Houkago Climax Roll!"
+2013004040340,夏葉,どうかしら！？,What do you think!?
+0000000000000,プロデューサー,……,...
+0000000000000,プロデューサー,"なるほど、その発想は無かったな
+ははっ……！",I see. I hadn't even considered that. Haha...!
+2013004040350,夏葉,ええ！　素敵でしょう？,"Yes, isn't it great?"
+2013004040360,夏葉,うふふ……！,Ufufu...
+2013004040370,夏葉,ええ！　アナタも含めてね！,"Indeed! That includes you, too!"
+2013004040380,夏葉,"……これからもみんなと一緒に、
+たくさんの素敵なことや楽しいことに出会うと思うの",...I hope we can look forward to many more fun and wonderful things coming our way.
+2013004040390,夏葉,"同じくらい辛いことや苦しいことも
+あるかもしれないけど",Though I expect we also have an equal share of tough times ahead.
+2013004040400,夏葉,でもね、まったく問題ないの,But you know what? That doesn't matter.
+2013004040410,夏葉,私がみんなを守るから！,Because I'll be there to protect everyone!
+2013004040420,夏葉,"この私がそう決めたのよ
+こんなに頼もしいことって無いでしょう？","That's what I've decided.  A guarantee like that doesn't come so easily, you know?"
+0000000000000,プロデューサー,（夏葉、そんなことを思っていたのか……）,"(So Natsuha had that sort of thing on her mind, huh?)"
+0000000000000,プロデューサー,俺も全力で支えられるように頑張るよ,I'll be sure to do my best to support you all as well.
+2013004040430,夏葉,"ええ、お願いね
+プロデューサー","Yes, please do, Producer."
+2013004040440,夏葉,私たち、毎日成長してるけど……,"We're all growing every day, but..."
+2013004040450,夏葉,本当にまだまだこれからなんだもの……！,Things are only just getting started...!
+info,produce_events/201300404.json,
+Translator,,,vio

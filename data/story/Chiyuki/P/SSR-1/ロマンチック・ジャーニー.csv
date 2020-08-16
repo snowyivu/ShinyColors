@@ -1,0 +1,142 @@
+id,name,text,trans
+2016004030010,千雪,"『──こんなに、素敵な……
+…………嬉しい……』","""──This is so lovely...
+I'm glad..."""
+2016004030020,千雪,…………ふぅ……,...Fuu...
+0000000000000,プロデューサー,"……おお
+千雪か、お疲れ様","...Ohh, Chiyuki, good work."
+2016004030030,千雪,"……あ、プロデューサーさん……！
+お疲れ様です","...Ah, Producer-san...! Good work to you too."
+0000000000000,プロデューサー,"台本読みか？
+邪魔しちゃって悪いな……",Reading a script? Sorry for disturbing you...
+2016004030040,千雪,"いえ……！
+少し、行き詰まっていたところだったので……",It's fine...! I seem to be a little stuck here actually...
+0000000000000,プロデューサー,"……そうか
+それなら、リフレッシュになるといいんだけど……","I see. Then, it might be good for you to refresh yourself..."
+0000000000000,プロデューサー,"これ、前の現場でもらったから差し入れだ
+コンビニで色々と買ってきてくれたみたいなんだ","I received these refreshments at the previous venue, it seems they bought various things from a convenience store."
+2016004030050,千雪,"え、そんな……
+頂いてしまって、いいんですか？","Ehh, no way... Was it really okay to receive all these?"
+0000000000000,プロデューサー,"はは、さすがにこの量はひとりじゃ食べきれないしな……
+好きなものを選んでくれ","Haha, I can't be expected to finish this amount on my own... go ahead and choose what you like."
+2016004030060,千雪,"では……このサンドイッチとお水、
+頂きますね",Then... I'll have this sandwich and water.
+0000000000000,プロデューサー,"ああ
+他に、お菓子とかも入ってるみたいだぞ","Ahh... additionally, there seems to be sweets included as well."
+0000000000000,プロデューサー,"──これは……食玩だな……
+アクセサリーか……？","──There's... a toy that comes with it too...
+Is this an accessory...?"
+2016004030070,千雪,わ……懐かしい～……！,Waa... How nostalgic～...!
+0000000000000,プロデューサー,なんのために入ってたんだ……？,Why was this inside here...?
+2016004030080,千雪,ふふっ……女の子はみんな好きですから,Fufu... any girl would like this kind of thing.
+0000000000000,プロデューサー,……いるか？,...You want it?
+2016004030090,千雪,"えっ、いいんですか……？
+で、では……お言葉に甘えて","Eh, is that alright...? W-Well... if you insist."
+2016004030100,千雪,──あ、これ……,"──Ah, this is..."
+0000000000000,プロデューサー,？,Hm?
+2016004030110,千雪,"金メッキのネックレスですよ！
+ちょっとだけレアで、当たると嬉しいものなんです","It's a gold-plated necklace! This is quite rare, so I'm happy I got it."
+0000000000000,プロデューサー,"ふーん……俺には違いがわからないが……
+そういうもんか……",Hmm... I can't really understand what's distinct about it... this kind of stuff...
+2016004030120,千雪,もう……ふふ,Jeez... Fufu.
+0000000000000,プロデューサー,"……そういえば、読んでた台本、今度のドラマのだよな
+調子はどうなんだ？","Speaking of which, how's the reciting of the script for your current drama going?"
+2016004030130,千雪,"……えっと……
+お恥ずかしながら、順調、とは言えないです……","Ummm... I'm embarrassed to say this, but it's not going too well..."
+2016004030140,千雪,"主役ではないですけど……ラブストーリーのお芝居なんて
+初めてなので、なんだか照れが残ってしまって……","Although I'm not playing the lead role... it's my first time in a drama about a love story, so I'm still a little shy..."
+0000000000000,プロデューサー,"そうか……うーん、俺にも何か手伝えることがあったら
+遠慮せず言ってくれよ","I see... Well, if there's anything I can do to help, don't hesitate to let me know."
+2016004030150,千雪,"あっ……それでしたら……
+……その。相手役をお願いしてもよいでしょうか……？","Ah... in that case...
+Um, may I request you to be my partner...?"
+2016004030160,千雪,ひとりの練習では少し限界を感じていて……,I feel restricted when I practice alone...
+0000000000000,プロデューサー,──お、おう。棒演技でもよければ……,──O-Oh. If you're fine with my stiff acting...
+2016004030170,千雪,そんなっ、もちろんです……！,Of course that's alright...!
+select,,"どこのページを
+やれば……","Which page
+should we do?"
+select,,えっと、台詞は……,"Um, the lines
+are..."
+select,,ここからでいいか？,"Is it okay to
+start from here?"
+2016004030180,千雪,"えっと、それでは……このページです。相手の方が
+ネックレスを首にかけてくれるシーンがありまして","Um, then... how about this page? There's a scene where the other actor hangs a necklace around my neck."
+2016004030190,千雪,"せっかくなので……このネックレスを使って、
+その辺りをお願いできますか……？",Since this is kinda important... could you make use of this necklace and place it around here...?
+0000000000000,プロデューサー,"……わかった
+──それじゃあ、始めるぞ","...Got it.
+──Well then, let’s get started."
+0000000000000,プロデューサー,"……
+『このネックレスを……』","......
+""This necklace..."","
+2016004030200,千雪,…………,......
+0000000000000,プロデューサー,『……君…………に……』,"""...Is for you..."""
+2016004030210,千雪,……っ,...Hnng.
+0000000000000,プロデューサー,"…………
+……千雪","......
+...Chiyuki?"
+2016004030220,千雪,は、はいっ！,Y-Yes!
+0000000000000,プロデューサー,すまん、このネックレス……外せる金具がなくて,"Sorry, this necklace... doesn't have any metal fixtures for me to unfasten."
+2016004030230,千雪,"あ……！　そ、そうでしたね！！
+おもちゃですもんね……！　すみませんっ、あはは……！","Ah...! T-That's right!!
+It's a toy after all...! Sorry, ahaha...!"
+2016004030240,千雪＆プロデューサー,…………,......
+2016004030250,千雪,"……あのっ、お忙しいところ、
+ありがとうございました！","...Um, thank you for your help even though you're busy!"
+2016004030260,千雪,"おかげで、結構感じが掴めた気がするので……
+この調子で、撮影まで、頑張りますね……！","Thanks to this, I feel that I got a good sense of it... I'll do my best for the filming in this condition!"
+2016004030270,千雪,"ちょうどネックレスを贈られるシーンがあるので……
+さっきのおもちゃを使ってやってみてもいいでしょうか？",There's a scene where you give me a necklace... could we try it out using the toy from earlier?
+0000000000000,プロデューサー,"ネックレスのシーン……
+このページか",The necklace scene... it's on this page.
+2016004030280,千雪,"それじゃあ、プロデューサーさん
+お願いします","Well then, Producer-san, let's begin."
+0000000000000,プロデューサー,"あ、ああ……！　えーと……
+『こ、このネックレス、を……キミニ……』","Ah, ahh...! Ummm...
+""T-This necklace, is... for you..."""
+2016004030290,千雪,……ふふ,...Fufu.
+0000000000000,プロデューサー,"──す、すまん！　下手すぎたか……
+これじゃあ練習にならないよな……",──S-Sorry! I’m really not good at this... I don't have enough practice with acting...
+2016004030300,千雪,"あ……ごめんなさいっ、あまりにも
+いつものプロデューサーさんと違ったので、つい……！","Ah... sorry about that, it was so different from the usual you, so...!"
+0000000000000,プロデューサー,や、やっぱり、俺が相手にならない方が……,"A-As I expected, it's better if I'm not the partner..."
+2016004030310,千雪,"いえ……！　よろしければ
+もう一度プロデューサーさんにお願いしたいです","Not at all...! If it's okay with you, I'd like to try it one more time, Producer-san."
+2016004030320,千雪,"プロデューサーさんは、
+いつも真剣に向き合ってくださるので……","Producer-san, you always take this kind of thing seriously..."
+2016004030330,千雪,"そういう方にお相手していただくことで
+私も、しっかりとこの役に向き合える気がするんです","So by having such a person face me like that, I feel that I can face this role seriously as well."
+0000000000000,プロデューサー,"そうか……千雪がそこまで言ってくれるんだ、
+俺も覚悟を決めて頑張ってみるよ……！","I see... since Chiyuki has said that much, I feel resolved to do my best now...!"
+2016004030340,千雪,"はい……！
+よろしくお願いします、プロデューサーさんっ","Yes...! Go ahead, Producer-san."
+2016004030350,千雪,"……はい
+右から４番目の台詞から、お願いします",...Yup. Please start with the 4th line from the right.
+0000000000000,プロデューサー,"これか……
+よし、始めるぞ……！","This line... alright, let's begin...!"
+0000000000000,プロデューサー,"……ごほん
+『世界中に、ふたりきりみたいだ』","...Ahem.
+""It's as if the two of us are alone in this world."""
+2016004030360,千雪,……え,...Eh?
+0000000000000,プロデューサー,"……えっと
+『今夜、この特別な景色を君と──』","...Umm...
+""Tonight, in this special scenery, together with you──"""
+2016004030370,千雪,…………,......
+0000000000000,プロデューサー,"……千雪？
+……って、あれ……？","...Chiyuki?
+...Um, wait...?"
+0000000000000,プロデューサー,"ここ、千雪の役が出てくるシーンじゃないな……！？
+すまん！！　間違えた……","This isn't the scene where you appear in...!?
+Sorry!! I was mistaken..."
+2016004030380,千雪,"あ、あはは……！
+ちょっと、びっくりしちゃいました……！",A-Ahaha...! That surprised me a little...!
+0000000000000,プロデューサー,あー……ははは……！　すまんすまん……！,Aha... hahaha...! Sorry sorry...!
+2016004030390,千雪,"……えっと、正しくはこのページです
+もう一度、始めましょうか……！","...Um, the correct page is here. Let's start once again...!"
+0000000000000,プロデューサー,"そ、そうだな……！
+じゃあ、気を取り直して……さっそくやっていこう！",I-I see...! Then let's get a grip... and try again right away!
+2016004030400,千雪,"は、はいっ
+お願い、いたします……！",Y-Yes. Go ahead...!
+info,produce_events/201600403.json,
+Translator,cloverbunz,

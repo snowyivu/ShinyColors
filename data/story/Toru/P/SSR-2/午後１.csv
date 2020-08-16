@@ -1,115 +1,143 @@
 id,name,text,trans
 0000000000000,プロデューサー,あー……,Ahhh...
-0000000000000,プロデューサー,暑いな…………,It’s so hot...
+0000000000000,プロデューサー,暑いな…………,"Sure is hot, huh..."
 0000000000000,プロデューサー,"────はぁ……
-事務所、遠いなぁ……","────Huff, huff… Why is the office so far?"
-0000000000000,プロデューサー,木陰は気持ちよさそうだ……,That tree’s shade would probably feel amazing right now…
+事務所、遠いなぁ……","──Hahhh…
+Office sure is a long way too..."
+0000000000000,プロデューサー,木陰は気持ちよさそうだ……,"Man, I'd love the tree shade right about now..."
 0000000000000,プロデューサー,"…………って
-あそこで寝てるの…………",What the. Is there someone napping here?
-0000000000000,プロデューサー,透──────？,Toru?
-2020005010010,透,ふぁ────…………,Yaaaaawn…
+あそこで寝てるの…………","...wait.
+Who's that sleeping there? Is that..."
+0000000000000,プロデューサー,透──────？,Toru──?
+2020005010010,透,ふぁ────…………,Yaaaawn──...
 0000000000000,プロデューサー,"ええと……おーい
-透ー……────？",Ummm… Hello? Toru…?
-2020005010020,透,────え,────Huh?
-2020005010030,透,……プロデューサー,... Producer.
-0000000000000,プロデューサー,ははっ、おう,Haha. Hey.
-2020005010040,透,────仕事？,────Time for work?
+透ー……────？","Er, uh... heeey.
+Toruuu...──?"
+2020005010020,透,────え,──Huh?
+2020005010030,透,……プロデューサー,...Producer.
+0000000000000,プロデューサー,ははっ、おう,Hahah. Hey.
+2020005010040,透,────仕事？,────Work?
 0000000000000,プロデューサー,"そりゃあ、平日の午後だからな
-透は昼寝か？","Since it’s an afternoon on a weekday, I’m guessing you were taking a nap?"
+透は昼寝か？","Well, yeah──weekday afternoon, after all.
+I guess you were napping?"
 2020005010050,透,"うん
-平日の午後だからね",Yeah. It is an afternoon on a weekday after all.
+平日の午後だからね","Yeah.
+Weekday afternoon, after all."
 0000000000000,プロデューサー,"はは、優雅な平日だ
-────事務所まで行けば涼しいのに","Haha, it is a beautiful day today. But you know, it’s a lot cooler if you go to the office."
+────事務所まで行けば涼しいのに","Haha. Beautiful weekday, can't deny that.
+──Though you'd probably do a lot better cooling off at the office."
 2020005010060,透,"あー
-うん",Huh. You’re right.
-2020005010070,透,ふふっ、無理だった,"Fufu, but I can't."
+うん","Aah.
+Yeah."
+2020005010070,透,ふふっ、無理だった,Fufu. I couldn't.
 0000000000000,プロデューサー,"無理ってことないぞ
-一緒に行こ────",What do you mean “I can’t?” Let’s head back toge────
-2020005010080,透,座ってよ,Sit with me.
+一緒に行こ────","No such thing as couldn't.
+C'mon, we can head there togeth──"
+2020005010080,透,座ってよ,Come sit down.
 0000000000000,プロデューサー,え？,Huh?
 2020005010090,透,"風、くるよ
-ここ",A wind is coming.
+ここ","Breeze blows through.
+Right here."
 0000000000000,プロデューサー,"──おぉ……
-いい風だな……！",──Woah… That’s a nice breeze!
+いい風だな……！","──Woah...
+That's a nice breeze!"
 2020005010100,透,"でしょ
-ほら",Right? Like I said.
-0000000000000,プロデューサー,じゃあ────,Then────
-0000000000000,プロデューサー,…………,......
-2020005010110,透,…………,......
-0000000000000,プロデューサー,…………,......
+ほら","Right?
+C'mon."
+0000000000000,プロデューサー,じゃあ────,Alrighty──
+0000000000000,プロデューサー,…………,...
+2020005010110,透,…………,...
+0000000000000,プロデューサー,…………,...
 2020005010120,透,"…………
-……止まったね、風","......
-... The wind has stopped."
+……止まったね、風","...
+...stopped, huh. The wind."
 0000000000000,プロデューサー,"……
-うん……","......
+うん……","...
 Yeah..."
 select,,"……すまん
-俺のせいかな","… Sorry, it must have been becasue of me."
+俺のせいかな","...sorry.
+Maybe it was
+my fault, huh."
 select,,"……来ちゃ
-いけなかったな",... I shouldn't have come.
+いけなかったな","...wasn't meant
+to come here,
+was I?"
 select,,"風よ、こい！
-……なんて","Come fort great winds! 
-... Just kidding."
+……なんて","O winds, come!
+...yeah, kidding."
 2020005010130,透,"……
-なんで？",… Why?
+なんで？","...
+Why?"
 0000000000000,プロデューサー,"いや、なんとなく……
-タイミング的に","Well, it's just that... didn't the timing just feel too perfect?"
+タイミング的に","No, just kind of...
+With the timing and all, I guess."
 2020005010140,透,"ふふっ
-そんなわけないじゃん",Haha. There’s no way that could be the case.
+そんなわけないじゃん","Fufu.
+No way, right."
 0000000000000,プロデューサー,"いやぁ、ほら、俺が来たことでさ
-涼しいはずの未来が書き換わって……みたいな","Well, when I came here, the eind-filled future was instantly rewritten... Or at least it felt like it."
-2020005010150,透,……だったらさ,If that’s the case...
+涼しいはずの未来が書き換わって……みたいな","Well, see, the moment I got here──it's like the, uh, refreshing future that was meant to be was written over... or something."
+2020005010150,透,……だったらさ,"...so, then."
 2020005010160,透,"もっかい、書き換えられるでしょ
-プロデューサー","You can rewrite the future one more time, Producer."
-0000000000000,プロデューサー,……え,Huh?
+プロデューサー","You can write over it again, right?
+Producer."
+0000000000000,プロデューサー,……え,...huh?
 2020005010170,透,"ほらほら、なんかやって
-未来が変わるっぽいこと","Come on, do something. I can feel the future changing again."
+未来が変わるっぽいこと","C'mon. Try doing something.
+Something that feels future-changey."
 0000000000000,プロデューサー,"ええっ、あぁ……！　うーん…………！
-……じゃあ、ここ来なかったってことにして俺は戻────","Uhhh, well…! Ummm…! 
-… In that case, it’s better if I didn’t come at all. I’ll just head ba-"
-2020005010180,透,────きた…………,────It’s back…
-2020005010181,透＆プロデューサー,あははっ…………,Ahaha…
-2020005010190,透,あー……,"Hmmm… "
-2020005010200,透,戻らない未来でいいから,I’m fine with the future we don't go back.
-0000000000000,プロデューサー,え？,Sorry?
+……じゃあ、ここ来なかったってことにして俺は戻────","Uh, got it...! Mmmm...!
+...Alright, let's say I never came here, and I went ba──"
+2020005010180,透,────きた…………,──It's here...
+2020005010181,透＆プロデューサー,あははっ…………,Ahahah...
+2020005010190,透,あー……,Aah...
+2020005010200,透,戻らない未来でいいから,The future without going back's fine.
+0000000000000,プロデューサー,え？,Eh?
 2020005010210,透,"で、いいから
-私",Don’t worry. I’m fine.
+私","Yeah.
+I'm fine with it."
 2020005010220,透,"──？
 なんで","──?
 Why?"
 0000000000000,プロデューサー,"いや、なんというか……
-俺が止めちゃったみたいな雰囲気だからさ","Well, it kind of felt like… like maybe I was the one that stopped it or something."
-2020005010230,透,そうだけど,Seems so.
-0000000000000,プロデューサー,ええっ、そうなのか,"Wait, really?"
-2020005010240,透,タイミング的には、うん,"Based on the timing, yeah."
-0000000000000,プロデューサー,それは……すまない,But that’s… Sorry.
-2020005010250,透,ふふっ,Haha.
+俺が止めちゃったみたいな雰囲気だからさ","No, it's, um, how do I put it... feels like it was me coming in that stopped it, I guess? That's what the mood feels like."
+2020005010230,透,そうだけど,"Yeah, it does."
+0000000000000,プロデューサー,ええっ、そうなのか,"Wait──it does, you think?"
+2020005010240,透,タイミング的には、うん,With the timing and all──yeah.
+0000000000000,プロデューサー,それは……すまない,"That's, uh... sorry for that."
+2020005010250,透,ふふっ,Fufu.
 2020005010260,透,"……止むことになってたから
-きっと",… The wind was definitely going to stop anyways.
-0000000000000,プロデューサー,え……？,Huh…?
+きっと","...stopping was a sure thing, anyway.
+I bet."
+0000000000000,プロデューサー,え……？,Eh...?
 2020005010270,透,"それで……
-ここに来ることになってた。プロデューサー","Because… You were definitely going to come here, Producer."
-0000000000000,プロデューサー,……おう,… I see.
+ここに来ることになってた。プロデューサー","And, then...
+coming through here was a sure thing. Producer."
+0000000000000,プロデューサー,……おう,...Gotcha.
 2020005010280,透,"だから、
-いなよ","So, that’s why."
-2020005010290,透,いなよ,That’s why.
-2020005010300,透,────何？,────What?
+いなよ","So.
+Stay here."
+2020005010290,透,いなよ,Stay here.
+2020005010300,透,────何？,──What?
 0000000000000,プロデューサー,"っ、その……
-呼んでみようかなと思って…………","Um, well… I was thinking about trying to call for the wind just now…"
+呼んでみようかなと思って…………","──um...
+Just thought I should try calling for it, or something..."
 2020005010310,透,ふふっ,Haha.
 0000000000000,プロデューサー,"笑わないでくれよ
-──透は呼べそうな雰囲気あるけどな","Come on, don’t laugh like that. It felt like you were trying to call for the wind yourself just now too."
-2020005010320,透,無理でしょ,"That’s impossible. "
+──透は呼べそうな雰囲気あるけどな","C'mon, don't laugh at me.
+──You seem like you'd have the mood to do it yourself, y'know."
+2020005010320,透,無理でしょ,No way.
 0000000000000,プロデューサー,"いや
-無理かどうかは、やってみなきゃ","Well, you don't know if you don't try."
+無理かどうかは、やってみなきゃ","Hey.
+Don't know if there's a way until you try."
 2020005010330,透,"……
-風よ、こい……！","…… 
-Come forth, great winds…!"
-2020005010331,透＆プロデューサー,────あははっ……,Ahaha…
+風よ、こい……！","...
+O winds, come...!"
+2020005010331,透＆プロデューサー,────あははっ……,──Ahahah...
 2020005010340,透,"汗かいちゃったじゃん、もう
-……じゃ、交代ね","You’re sweating quite a bit... Here, let’s trade places."
+……じゃ、交代ね","You're sweating there now, jeez.
+...alright, let's switch."
 0000000000000,プロデューサー,ん？,Hm?
-2020005010350,透,────呼んでよ、風,"The wind. I’ll call for it. "
-2020005010360,透,やってみなきゃ,We’ll won't know if we don't try.
+2020005010350,透,────呼んでよ、風,──Calling. The wind.
+2020005010360,透,やってみなきゃ,Don't know until you try.
 info,produce_events/202000501.json,
-Translator,,
+Translator,Mei W. / Emelia,

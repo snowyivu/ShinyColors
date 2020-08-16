@@ -2,9 +2,9 @@ id,name,text,trans
 2013004020010,夏葉,"今日は良い天気ね……
 絶好の水着日和だわ……",What lovely weather today... Definitely ideal swimsuit conditions...
 0000000000000,プロデューサー,(水着日和……？),(Swimsuit conditions...?)
-2013004020020,夏葉,こんな日はいますぐ海に行くべきだと思うの！,"Days like these, one aught to go to the beach as early as possible!"
+2013004020020,夏葉,こんな日はいますぐ海に行くべきだと思うの！,"Days like these, one ought to go to the beach as early as possible!"
 2013004020030,夏葉,"水着だってずっとクローゼットの中じゃ
-輝きを失ってしまうわ！","After all, a swimsuit that's stuck in the closet is sure to lose it's brilliance!"
+輝きを失ってしまうわ！","After all, a swimsuit that's stuck in the closet is sure to lose its brilliance!"
 0000000000000,プロデューサー,"……あれ？　もしかして
 まだファンに水着をお披露目できてないのか？",...Wait. Could it be that you still haven't gotten the chance to show off your swimsuit to your fans?
 2013004020040,夏葉,そうなのよ！,That's exactly it!
@@ -51,7 +51,7 @@ id,name,text,trans
 0000000000000,プロデューサー,……１回、深呼吸して落ち着こう,...Let's take a deep breath and calm down.
 2013004020230,夏葉,そんな気休め──……,We don't have the luxury──
 2013004020240,夏葉,………………すぅ──……は──……,.........
-0000000000000,プロデューサー,ちょっとストレッチもしようか,Let's do some some stretches as well.
+0000000000000,プロデューサー,ちょっとストレッチもしようか,Let's do some stretches as well.
 2013004020250,夏葉,……,...
 0000000000000,プロデューサー,いつもの夏葉で良いと思うんだ,I think you're fine as you are.
 0000000000000,プロデューサー,"大事なのは想像することだって、
@@ -70,6 +70,6 @@ id,name,text,trans
 さすが夏葉だ、って思ったよ","It was hard to pick out a single shot, but that's just the kind of quality I expected from you."
 2013004020300,夏葉,あら、偶然ね？,Isn't that funny?
 2013004020310,夏葉,"私もアナタに同じことを思ったのよ
-……うふふ",I was thinking just the same about you.... Ufufu.
+……うふふ",I was thinking just the same about you... Ufufu.
 info,produce_events/201300402.json,
 Translator,,,vio

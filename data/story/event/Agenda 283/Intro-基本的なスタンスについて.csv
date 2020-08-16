@@ -35,7 +35,7 @@ id,name,text,trans
 4001027010210,円香,"それルート２
 覚え方も間違ってるし",That one's for square root of 2.\nEven then you're remembering it wrong.
 4001027010220,雛菜,"雛菜わかる～！
-みひとつよひとついくにむいみ～～",Hinana know this one～!\nIt's mihitotsuyohitotsuikunimuimi～～
+みひとつよひとついくにむいみ～～",Hinana knows this one～!\nIt's mihitotsuyohitotsuikunimuimi～～
 4001027010230,透,え、そんなだっけ,Eh? Really?
 4001027010240,透,英語かー,So it's English
 4001027010250,小糸,"と、透ちゃん
@@ -170,4 +170,4 @@ id,name,text,trans
 4001027011060,真乃,"ありがとう……
 私たちって、言ってくれて────","Thank you...\nfor saying ""we""──"
 info,game_event_communications/400102701.json,
-Translator,,
+Translator,Kafuka,
