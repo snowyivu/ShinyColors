@@ -15,17 +15,17 @@ id,name,text,trans
 0000000000000,プロデューサー,"おはよう
 今日はすっきり目が覚めたよ",Good morning. I managed to snap myself completely awake today.
 2013004030070,夏葉,"あら、それなら遠くから
-大きなあくびが見えたのは気のせいかしら？","Oh, so you're saying that big yawn I saw in the distance was just my imagination?"
+大きなあくびが見えたのは気のせいかしら？","Oh, so you're saying that big yawn I saw from a distance was just my imagination?"
 2013004030080,夏葉,"まあいいわ
 身体をあたためたら早速行きましょう！","Well, it's fine. We can start as soon as we finish warming up."
 0000000000000,プロデューサー,はあ……はあ……,Haaah... Haaah...
 2013004030090,夏葉,大丈夫？,Are you ok?
 0000000000000,プロデューサー,思ったよりもなんとか……！,Better than I thought I'd be...
-0000000000000,プロデューサー,（夏葉ならもっと速く走ると思っていたが……）,(I figured Natsuha's would be much faster than she's been until now...)
+0000000000000,プロデューサー,（夏葉ならもっと速く走ると思っていたが……）,"(I figured Natsuha would be going a lot faster than she's been so far, but...)"
 2013004030100,夏葉,"頼もしいわね
-その調子でしっかりついてきて頂戴！",You're doing well. Make sure you keep up the pace!
+その調子でしっかりついてきて頂戴！",You're doing well. Make sure you keep it up!
 2013004030110,夏葉,"ちょっと雲が出てきたかしら？
-ねえ……",Isn't it starting to get a bit cloudy? Hey...
+ねえ……",Isn't it getting a bit cloudy? Hey...
 0000000000000,プロデューサー,はあ……はあ……,Haaah... Haaah...
 2013004030120,夏葉,プロデューサー！,Producer!
 0000000000000,プロデューサー,"えっ……ああ、本当だ……
@@ -37,10 +37,10 @@ id,name,text,trans
 2013004030150,夏葉,"お疲れ様……！
 飲み物とってくるわね",Good work out there. I'll get us something to drink.
 0000000000000,プロデューサー,"はあ……お疲れさま
-夏葉には物足りなかったんじゃないか？","Haaah... Good work. Are you sure you're not unsatisfied with that run, Natsuha?"
+夏葉には物足りなかったんじゃないか？","Haaah... Good work. You sure that run was enough for you, Natsuha?"
 2013004030160,夏葉,"まだ走れるくらいがちょうど良いのよ
-スポーツドリンクでいい？","I feel like I could've run a bit longer, but that's a perfectly good stopping point. Are you alright with a sports drink?"
-0000000000000,プロデューサー,ありがとう──,Thank you.
+スポーツドリンクでいい？","I could've gone a bit longer, but that's a perfectly good stopping point. Are you alright with a sports drink?"
+0000000000000,プロデューサー,ありがとう──,"Yeah, thank you."
 0000000000000,プロデューサー,（ごくごく……）,"(Gulp, gulp...)"
 2013004030170,夏葉,"久しぶりに走ってみてどう？
 疲れたでしょう？",How was your first run in a while? You must be tired.
@@ -52,20 +52,20 @@ running again."
 だいぶ身体が縮こまっていたんだ","I've been doing nothing but desk work recently, so my body feels all cramped up."
 2013004030180,夏葉,……本当？　無理していない？,...Really? Aren't you overdoing it then?
 0000000000000,プロデューサー,"ああ！　朝の空気も気持ち良かったし
-こんなに清々しい気持ちは久しぶりだよ","That's the thing! The weather was so nice this morning, and I hadn't felt anything so refreshing in a while."
+こんなに清々しい気持ちは久しぶりだよ","That's the thing! The weather was so nice this morning, I realized it's been forever since I felt anything so refreshing."
 2013004030190,夏葉,そう、なら良かったわ！　うふふ……！,"Well, then it works out! Ufufu..."
 2013004030200,夏葉,あら、雨の音……？　降ってきたみたいね,Hm? Do I hear rainfall...? It looks like it started coming down.
 0000000000000,プロデューサー,"通り雨みたいだから
-すぐに止むんじゃないかな",Seems like a full-blown shower. Probably won't be stopping any time soon.
+すぐに止むんじゃないかな",Seems like a full-blown shower. Probably won't let up any time soon.
 0000000000000,プロデューサー,あ、そうしたら……,"Oh, in that case..."
 2013004030210,夏葉,虹が見られたりするかしら！？,Do you think we'll get to see a rainbow!?
 2013004030220,夏葉,"ねえ、雨が上がったら
 もう１度、走ってみない？","Hey, can we go on another run after the rain stops?"
 2013004030230,夏葉,"川の方に行ってみたら
-水面にまあるく映った虹を見られるかもしれないわ","If we go to the river, we might get the chance to see the full ring of the rainbow."
+水面にまあるく映った虹を見られるかもしれないわ","If we go to the river, we might see a full rainbow in the water's reflection."
 2013004030240,夏葉,"アナタさえ良ければだけれど、
 どうかしら！？","It's only if you want to, but how about it!?"
-2013004030250,夏葉,ほら、普段運動しないからよ？,That's because you're not excerising every day.
+2013004030250,夏葉,ほら、普段運動しないからよ？,Well that's because you're not excerising every day.
 2013004030260,夏葉,"もう、アナタが自分を気遣う暇もないくらい
 忙しいのはわかっているけれど……","I understand that you don't always have the time to worry about your own needs, but still..."
 2013004030270,夏葉,もう少し自分にも優しくしてあげて,You should be a little kinder to yourself.
@@ -75,19 +75,19 @@ running again."
 2013004030290,夏葉,"でも今日は運動より先に休ませるべきだったわね
 失敗したわ……","Though I suppose today should've been dedicated to resting rather than exercise, then. That was my mistake..."
 2013004030300,夏葉,"少しゆっくりしていて
-しばらくしたら起こしてあげる",You should take it easy for a bit. I can wake you up after some time passes.
-2013004030310,夏葉,またあとでね,"See you later, ok?"
+しばらくしたら起こしてあげる",Take it easy for the time being. I can wake you up after some time passes.
+2013004030310,夏葉,またあとでね,"I'll see you later, ok?"
 2013004030320,夏葉,そう！？,Really!?
 2013004030330,夏葉,それなら、ちゃんとトレーニングしてみる？,Then how about getting into a proper routine?
 0000000000000,プロデューサー,"やってみようかな
 健康にも良さそうだ",Might not be a bad idea. It'd be good for my health.
 2013004030340,夏葉,"その言葉を待っていたわ！
-実はもうアナタのためのメニューを考えてあるのよ！",I was hoping you'd finally say that! I've actually been working on a workout plan for you!
-2013004030350,夏葉,まずは水泳でしょ、それにダンベル、加圧、スパーリング……,"We'd start you with swimming, then dumbells, resistance training, sparring..."
+実はもうアナタのためのメニューを考えてあるのよ！",I was hoping you'd finally say that! I've actually been thinking of a workout plan for you!
+2013004030350,夏葉,まずは水泳でしょ、それにダンベル、加圧、スパーリング……,"We'd start you with swimming, then go on to dumbells, Kaatsu training, sparring..."
 0000000000000,プロデューサー,"い、いきなりハードじゃないか？
 もっと気楽なものでも……","Th-That's a little much right out the gate, isn't it? Don't you have anything lighter..."
 2013004030360,夏葉,"ダメ！　やるならとことんよ！
-アナタは『有栖川夏葉』のプロデューサーでしょ？","Nope! If you're going to do it, you're going to do it right! You are in charge of ""Natsuha Arisugawa"" after all."
+アナタは『有栖川夏葉』のプロデューサーでしょ？","Nope! If you're going to do it, you're going to be thorough! You are in charge of ""Natsuha Arisugawa"" after all."
 2013004030370,夏葉,数ヶ月後、どうなっているかしら……,I wonder how things will change after a few months...
 2013004030380,夏葉,"とっても楽しみね！
 うふふ……！",I'm quite looking forward to it! Ufufu...
