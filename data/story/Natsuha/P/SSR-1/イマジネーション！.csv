@@ -30,7 +30,7 @@ id,name,text,trans
 2013004010140,夏葉,"もちろんよ？　アナタは私のプロデューサーなんだから
 同じように準備万端でいてもらいたいの","Why wouldn't I? You are my producer, after all. It'd be best if we were both as fully prepared as possible."
 2013004010150,夏葉,"今回で言えば水着ロケね
-状況を具体的にイメージしておくといいわ",Why don't take the swimsuit shoot that we were just talking about? Try to create a concrete image of how that shoot would go.
+状況を具体的にイメージしておくといいわ",Why don't you take the swimsuit shoot that we were just talking about? Try to create a concrete image of how that shoot would go.
 0000000000000,プロデューサー,なるほど、イメージか……,A concrete image...? Alright.
 2013004010160,夏葉,"今、やってみましょう！
 プロデューサーも座って？","Let's give this a shot, then! Do you want to sit down?"
@@ -49,7 +49,7 @@ just photos."
 select,,こっちはどうだ？,"How about
 this one?"
 2013004010220,夏葉,……足りないわ！,...Not good enough!
-2013004010230,夏葉,もっと強くイメージして！,You need a create a stronger image!
+2013004010230,夏葉,もっと強くイメージして！,You need to create a stronger image!
 0000000000000,プロデューサー,（うーむ……）,(Uh-huh...)
 2013004010240,夏葉,"アナタの心の中に
 この水着を着た私は見える！？",Can you see in your mind's eye what I truly look like in this swimsuit!?
@@ -86,4 +86,4 @@ this one?"
 2013004010390,夏葉,"アナタはここにいて
 私、手配してくるから……！",You stay here. I'll go ahead and make arrangements...!
 info,produce_events/201300401.json,
-Translator,,,vio
+Translator,vio,
