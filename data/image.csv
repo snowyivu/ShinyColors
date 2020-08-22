@@ -169,7 +169,7 @@ images/ui/concert/parts.json_image,concert_parts.png,16
 images/ui/tutorial/parts.json_image,parts_tutorial.png,9
 images/ui/notice/parts.json_image,notice_parts.png,11
 images/ui/produce_reporter_event/parts_reporter.json_image,parts_reporter.png,3
-images/ui/raid_top/parts.json_image,raid_top.png,3
+images/ui/raid_top/parts.json_image,raid_top.png,4
 images/ui/raid_concert/parts.json_image,raid_concert.png,2
 images/ui/selectable_present/parts.json_image,select_present_parts.png,4
 images/tutorial/001.jpg,tutorial/intro_tutorial_001.jpg,7
@@ -258,7 +258,7 @@ images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,11
 images/ui/common/parts.json_image,common_parts.png,28
-images/ui/common/parts_icons.json_image,common_parts_icons.png,19
+images/ui/common/parts_icons.json_image,common_parts_icons.png,20
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/true_end_teaching/ready/parts.json_image,true_end_ready.png,2
 images/tips/true_end_teaching/area_select/001.jpg,tutorial/true_end_tutorial_001.png,2
@@ -275,7 +275,7 @@ images/ui/gasha/parts_provide_rate.json_image,gasha_parts_provide_rate.png,4
 images/ui/produce_idea_note/parts.json_image,idea_note_parts.png,4
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,2
 images/ui/character_album/parts.json_image,character_album_parts.png,4
-images/ui/raid_result/parts.json_image,raid_result_parts.png,3
+images/ui/raid_result/parts.json_image,raid_result_parts.png,2
 images/content/ex_skills/icon.json_image,ex_skills.png,4
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,3
 images/ui/shop/parts_shop_content.json_image,shop_parts_content.png,5
@@ -564,3 +564,6 @@ images/ui/fes_result/parts_fes_match.json_image,parts_fes_match.png,9
 images/content/game_event/reward_label/5_9_13_17_21_2.png,game_event_reward_label.png,1
 images/ui/concert_result/parts.json_image,concert_result_parts.png,7
 images/ui/concert_result/parts_effect.json_image,concert_result_parts_effect.png,8
+images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,7
+images/ui/raid_concert/parts_audience.json_image,raid_concert_audience.png,2
+images/ui/raid_concert/parts_effect.json_image,raid_concert_audience_effect.png,2
