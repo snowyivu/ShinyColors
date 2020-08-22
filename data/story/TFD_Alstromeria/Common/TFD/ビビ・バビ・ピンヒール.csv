@@ -86,7 +86,7 @@ so I thought I'd wear some super cute shoes..."
 5004002040360,甘奈,"でも、それで足を痛くしてたら意味ないよね……
 今日はいっぱい迷惑かけちゃった……","But, if they make your feet hurt, 
 there's no meaning in that, huh...
-I really was a burden today..."
+I gave everyone a lot of trouble today..."
 0000000000000,プロデューサー,"……ん、腹が減る時間は
 なんだか気持ちも沈むもんだ","...Hm, having an empty stomach
 can make you feel depressed."
@@ -95,7 +95,7 @@ can make you feel depressed."
 I heard that there were some 
 savvy restaurants in the neighborhood."
 5004002040370,甘奈,"……んーん！　大丈夫！
-事務所に戻ろー！","...MmMm! I'm fine!
+事務所に戻ろー！","...No, it's okay. I'm fine!
 Let's head back to the officeー!"
 5004002040380,甘奈,"甜花ちゃんから、
 ドーナツ買ったよって連絡あったから☆","I got a text from Tenka-chan
@@ -138,22 +138,22 @@ But I do every now and then."
 select,,"安心できるものを
 探してみる","I try looking 
 for something 
-that'll help 
-me relax."
+that'll put me 
+at ease."
 select,,不安と向き合ってみる,"I face my
 worries 
 head on."
 select,,大丈夫だと信じる,"I believe
 it'll all be
 okay."
-5004002040490,甘奈,……安心できるもの？,...Things that'll help you relax?
+5004002040490,甘奈,……安心できるもの？,...Things that'll put you at ease?
 0000000000000,プロデューサー,ああ、それが自分を勇気づけてくれるんだ,"Yeah, things that'll help cheer me up."
 0000000000000,プロデューサー,"不安にどんどん飲み込まれてしまいそうな時でも、
 確かに信じられるもの……","They are things that I can believe in, 
 even when I feel like I'll be engulfed 
 by feelings of anxiety..."
 0000000000000,プロデューサー,甘奈の心にもあるんじゃないかな,Don't you also have something like that?
-5004002040500,甘奈,安心できる、信じられるもの……,Something relaxing that I can believe in...
+5004002040500,甘奈,安心できる、信じられるもの……,Something to put me at ease that I can believe in...
 0000000000000,プロデューサー,"見えないものにちゃんと光をあててみたら、
 怖くないかもしれないよ","If you try shining a light on the things 
 you can't see, they might not seem so scary anymore."
@@ -179,7 +179,8 @@ what's making me anxious."
 5004002040540,甘奈,"……それでいいの？
 それって逃げてることにならないかな……？","...But is that okay?
 Isn't that just running away from your issues...?"
-0000000000000,プロデューサー,甘奈は流石だな。本当にしっかりしてる……,"You're sharp, and really level-headed..."
+0000000000000,プロデューサー,甘奈は流石だな。本当にしっかりしてる……,"You really are amazing, Amana.
+You're thinking about this really thoroughly."
 0000000000000,プロデューサー,──でも大丈夫、未来は今の積み重ねなんだ,"──But it'll be okay.
 The future is a result of our efforts now."
 0000000000000,プロデューサー,"甘奈の大事なものは、
