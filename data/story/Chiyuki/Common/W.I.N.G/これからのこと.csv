@@ -36,7 +36,7 @@ id,name,text,trans
 疲れた時は言ってくれよ？","Hearing you say that makes me happy, but you can tell me when you're tired, you know?"
 1016001030100,千雪,ええ、大丈夫です,"Ehh, I'm alright."
 0000000000000,プロデューサー,"……あ、そうだ、
-この間の見本誌、届いてるぞ","...Ah, that reminds me. The recent work's magazine sample arrived."
+この間の見本誌、届いてるぞ","...Ah, that reminds me. The magazine sample from that recent job arrived."
 1016001030110,千雪,見本誌……ですか？,Magazine sample...?
 0000000000000,プロデューサー,"ほら、この前撮影した雑誌のだよ
 髪飾り、作ってくれたじゃないか","You know, the recent magazine photoshoot that you did. Didn't you make the hair ornament for that?"
@@ -47,10 +47,10 @@ id,name,text,trans
 0000000000000,プロデューサー,"ど、どうしたんだ？
 見ないのか？",W-What's the problem? Aren't you gonna look?
 1016001030140,千雪,"そ、その……
-小さく載っているだけだってわかってるんですけど……",T-That's... I know it's only a small thing to be part of but...
-1016001030150,千雪,恥ずかしくて、見れません～……,I can't look because it's embarrassing...
+小さく載っているだけだってわかってるんですけど……","T-That's... I know it's only a small thing to be a part of, but..."
+1016001030150,千雪,恥ずかしくて、見れません～……,"I can't look, it's embarrassing..."
 0000000000000,プロデューサー,"はは、なんだそれ
-自信を持っていいんだぞ","Haha, what the heck. It's good to have some confidence in yourself, you know."
+自信を持っていいんだぞ","Haha, what the heck. It's good to have some confidence in yourself, you know?"
 0000000000000,プロデューサー,"髪飾りだって、
 まず千雪が見てあげないとな","Even if there are hair ornaments there, first you have to look at yourself, okay?"
 1016001030160,千雪,"プ、プロデューサーさん……！
@@ -123,7 +123,7 @@ you, Chiyuki."
 0000000000000,プロデューサー,"きっと、考える時期なんだ
 ちょっとくらい休みを延ばしてでも","Surely, this is the time to think about it. But please rest a little bit more."
 1016001030330,千雪,"はい……私、ふらふらしてて、ごめんなさい
-早くご相談するべきでした","Understood. ...I'm sorry, I'm a bit dizzy. I needed to discuss it with you as soon as possible."
+早くご相談するべきでした","Understood... I'm sorry, I'm a bit dizzy. I should have discussed it with you as soon as possible."
 1016001030340,千雪,"少し、待っててください
 これ以上、ご迷惑はおかけできません……","Please, wait a little bit more. I won't bother you more than I already have..."
 info,produce_events/101600103.json,

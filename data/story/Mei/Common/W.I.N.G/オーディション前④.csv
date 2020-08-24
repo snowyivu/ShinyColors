@@ -1,0 +1,22 @@
+id,name,text,trans
+4019001000210010,愛依,今日のオーディションっていつもより長いんだよね？,Today's audition is longer than usual right?
+0000000000000,プロデューサー,（何か気になることがあるみたいだ）,(She seems concerned about something.)
+select,,"今のうちに
+リラックスしとこう","We have time
+to relax today."
+select,,"確か今日、
+用事があるんだよな","If I recall, you
+have an errand
+today, right?"
+select,,きつそうか,"Is that going to
+be a problem?"
+4019001000210020,愛依,そだね！　ちょっと深呼吸とかしとく～,Isn't that right! I can take a bit of a breather~
+0000000000000,プロデューサー,（しっかり肩の力を抜いてくれるといいな）,(Hopefully she can relax some tension in her shoulders.)
+4019001000210030,愛依,"まぁ、そこまでの用じゃないからこっちのが大事だけどさ
+一応の確認ってカンジ～","Well, I wouldn't go as far as saying it's anything important. Just wanted to confirm~"
+0000000000000,プロデューサー,（これで、より集中してくれそうだ）,(She seems to be more focused on this.)
+4019001000210040,愛依,"いやいやここまで来てさ
+さすがにそんなこと言わないって～","No, no, I came here after all. That's not what I'm saying~"
+0000000000000,プロデューサー,（逆効果だったみたいだ）,(Seems like that backfired.)
+info,produce_communication_cheers/401900100021.json,
+Translator,,

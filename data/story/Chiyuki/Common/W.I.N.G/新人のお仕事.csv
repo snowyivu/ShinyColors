@@ -30,9 +30,9 @@ id,name,text,trans
 0000000000000,プロデューサー,"（千雪にはやっぱり、何かがあるんだよな
 緊張はしてるけど、ちゃんと笑顔で挨拶できてる）","(I knew it. There's really something about Chiyuki. Even though she was nervous, she was still able to properly give her greetings with a smile.)"
 0000000000000,プロデューサー,"千雪、お疲れさま
-よく挨拶できてたよ","Chiyuki, good work today. You did your greetings nicely!"
+よく挨拶できてたよ","Chiyuki, good work today. You greeted people nicely!"
 1016001020080,千雪,"ありがとうございます
-そう言ってもらえると安心します",Thank you! Hearing you say that gives me relief.
+そう言ってもらえると安心します",Thank you! Hearing you say that makes me relieved.
 1016001020090,千雪,"なんだか、少し恥ずかしいですけど……
 褒めていただいて、嬉しいな……",It was a little embarrassing but... being praised like this makes me happy.
 0000000000000,プロデューサー,"千雪の笑顔を気に入ってくれたんだ
@@ -41,7 +41,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"どうだ？
 アイドルイベントは初めてだよな","How is it? This is your first idol event, isn't it?"
 1016001020110,千雪,"想像以上でした……
-アイドルの頑張る姿って、あんなに魅力的なんですね",It's more than what I imagined... So this is how charming an idol who's giving their all is...
+アイドルの頑張る姿って、あんなに魅力的なんですね",It's beyond my imagination... So this is how charming an idol who's giving their all is...
 0000000000000,プロデューサー,千雪も、アイドルだぞ,"Chiyuki, you're also an idol you know."
 1016001020120,千雪,……そう、言えるかどうか,"...Yeah, although I'm not sure if I can say that or not."
 1016001020130,千雪,"さっきのステージ、
@@ -52,9 +52,9 @@ id,name,text,trans
 1016001020150,千雪,……プロデューサーさん,...Producer-san.
 1016001020160,千雪,"ふふ、はい……
 じゃあ、もっとアイドル活動に時間をかけなきゃです","Fufu, I understand. In that case, I need to dedicate more time to doing idol activities."
-0000000000000,プロデューサー,（よかった……いい刺激に、なったのかな）,(Good... I wonder if that was good motivation for her.)
+0000000000000,プロデューサー,（よかった……いい刺激に、なったのかな）,(Alright... I wonder if that was good motivation for her.)
 0000000000000,プロデューサー,"それは嬉しいよ
-じゃあ、さしあたっては……","In that case, I'd be happy.  Well then, for the time being..."
+じゃあ、さしあたっては……","If you could, I'd be happy.  Well then, for the time being..."
 select,,"営業に
 力を入れてみよう","I'll try putting more
 effort into our
@@ -69,7 +69,7 @@ important."
 0000000000000,プロデューサー,"業界の人たちに知ってもらえれば、
 自然と仕事ももらえるようになる","If people in the industry get to know you more, work will naturally come after."
 1016001020170,千雪,"はい
-まずは顔と名前を覚えてもらうってことですね","Okay! First, we need to let them remember my face and name, right?"
+まずは顔と名前を覚えてもらうってことですね","Okay! First, we need to make them remember my face and name, right?"
 0000000000000,プロデューサー,"ああ、いろんな人に、
 千雪の笑顔を知ってほしいな","Ahh, I hope a lot of people get to know your smile!"
 1016001020180,千雪,まあ、そんな……！,T-That kind of thing is...!
@@ -90,7 +90,7 @@ important."
 0000000000000,プロデューサー,レッスンが大事だと思う,Lessons are important.
 0000000000000,プロデューサー,基礎があれば、どんな仕事にも自信が持てるからな,"If you have the basics down, you'll have confidence in any work that you do."
 1016001020230,千雪,"そうですね。では早速……
-この後、お付き合いいただいてもかまいませんか？","That's right. Well then, without delay... After this, would it be alright for you to take me for some lessons?"
+この後、お付き合いいただいてもかまいませんか？","That's right. Well then, without delay... After this, would it be alright for you to come along with me for some lessons?"
 0000000000000,プロデューサー,"お、いいぞ
 けど……レッスン室が取れてないな","Oh, that's good! But... we can't reserve a room for lessons anymore."
 1016001020240,千雪,"では……トレーニングです！

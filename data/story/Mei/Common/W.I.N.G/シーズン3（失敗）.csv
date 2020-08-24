@@ -1,0 +1,32 @@
+id,name,text,trans
+7902001060010,社長,"やはりここまで来ると、
+乗り越えるべき壁も高かったな……",The wall to climb over after coming this far was tall...
+7901001060010,はづき,"結果は残念でしたけど……
+おふたりは立派にやってましたよ！","The results are unfortunate, but...
+The two of you did a splendid job!"
+7901001060020,はづき,"ここまで来れただけでも、
+胸を張って誇れることだと私は思います","You were only able to come this far, but I think you can walk with your heads held high."
+7902001060020,社長,"ああ、良い活躍だった
+それはたしかだ","Yes, it was certainly a great effort."
+0000000000000,プロデューサー,"……俺もそう思います
+彼女はよくやってくれました","...I think so, too.
+She did a great job."
+7901001060030,はづき,"その言葉を、彼女に直接
+言ってあげましょう？",How about you tell that to her in person?
+0000000000000,プロデューサー,……はい,...I will.
+7019001060010,愛依,マジで？　ダメだったの……？,Really? I failed...?
+0000000000000,プロデューサー,ああ、その……惜しかったよ,"Yeah, it's... disappointing."
+7019001060020,愛依,"～～……っ！
+ヤバい悔しいんだけど！",......rrr! But that's so freakin' frustrating!
+7019001060030,愛依,"せっかくプロデューサーと作戦考えたのに！
+誰にも見てもらえないとか……！",You went through such pains to come up with a strategy! Now no one will see it...!
+0000000000000,プロデューサー,"……俺も悔しいよ、でもきっとまたチャンスはある
+その時に備えて、頑張っていこう","...I'm also upset, but I'm sure you'll get another chance. So let's do our best to prepare for when it appears."
+0000000000000,プロデューサー,"そして、今度こそみんなに
+愛依のパフォーマンスを見てもらおう！","Then, next time you'll be able to make everyone watch your performance!"
+7019001060040,愛依,"……そだね！
+そのためにも、今から猛特訓しちゃう？","...that's right! For that to happen, we'll have to train extra hard from now on, right?"
+0000000000000,プロデューサー,そうだな、早速やろう！,"Yeah, let's start at once!"
+7019001060050,愛依,ガンガン行くからね？　覚悟してよ、プロデューサー！,"Aren't you totally fired up? Hope you're ready, Producer!"
+info,produce_events/701900106.json,
+Translator,,
