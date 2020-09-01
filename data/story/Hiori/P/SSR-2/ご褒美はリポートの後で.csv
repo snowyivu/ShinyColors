@@ -7,7 +7,7 @@ id,name,text,trans
 Umm, Is something wrong?"
 0000000000000,プロデューサー,全体的に良くできていたよ,"No at all, It's all good in general."
 2002005030030,灯織,……なら、良かったです,"Then, it's fine."
-0000000000000,プロデューサー,少し休んだら、途中まで送っていくよ,"You can rest a bit, I’ll go with you midway through."
+0000000000000,プロデューサー,少し休んだら、途中まで送っていくよ,"You can rest a bit, I'll go with you midway through."
 2002005030040,灯織,いえ、大丈夫です、すぐに出れます,"No, I am fine, Let's just go."
 0000000000000,プロデューサー,無理はしなくて良いんだぞ,"It's better to not push yourself too hard, you know?"
 2002005030050,灯織,……あの、プロデューサー,Umm... Producer.
@@ -23,9 +23,9 @@ my interest when coming here."
 2002005030100,灯織,あっちの方も綺麗ですよ、プロデューサー,"That part is also beautiful, Producer."
 2002005030110,灯織,ふふ、なんだか見ていて飽きないですね……,"Fufu, somehow it doesn't bore me out after seeing it so many times."
 0000000000000,プロデューサー,"そうだな！　ところで……ここまで結構歩いたけど
-平気か？　収録でもたくさん移動したし"," I agree! By the way... We walked quite a distance, are you alright? You already walked a lot during the shoot today, didn’t you?"
+平気か？　収録でもたくさん移動したし","I agree! By the way... We walked quite a distance, are you alright? You already walked a lot during the shoot today, didn't you?"
 2002005030120,灯織,はい、平気です,"Yes, I'm fine."
-2002005030130,灯織,これもレッスンの成果なんでしょうか,Maybe it’s because of the lessons.
+2002005030130,灯織,これもレッスンの成果なんでしょうか,Maybe it's because of the lessons.
 select,,"もちろん
 それもあるが……","Of course
 that's also true."
@@ -77,12 +77,12 @@ This feeling, I will keep it dear in my heart."
 2002005030240,灯織,どうしたんですか？　……私、何か変なことを言いましたか,What's wrong? Did I say something weird?
 0000000000000,プロデューサー,ああ、いや、灯織と会った頃のことを思い出してな,"Ah, nothing, it just reminded me when we first met."
 0000000000000,プロデューサー,"きっとあの頃の灯織なら
-安易に褒めないでくださいって怒ると思ったんだ","If it's the old Hiori, she'll get angry and say ""Don’t randomly praise people""."
+安易に褒めないでくださいって怒ると思ったんだ","If it's the old Hiori, she'll get angry and say ""Don't randomly praise people""."
 2002005030250,灯織,あ、えっと……あの頃の私は、何というか……その……,"Ah, Umm... that old me was, how to say... uum..."
 2002005030260,灯織,思い出したら恥ずかしくなってきました……,"If I remember it back, it's embarrassing..."
 0000000000000,プロデューサー,"ああ、すまん！　
 そんなつもりで言ったわけじゃなかったんだ","Agh! sorry!
-I didn’t intend to embarrass you or anything..."
+I didn't intend to embarrass you or anything..."
 2002005030270,灯織,大丈夫ですよ、わかってますから,"It's okay producer, I know."
 2002005030280,灯織,そういう話をしてくれるのも、信頼の証だってこと,"This conversation also shows, how much trust that we have built between each other."
 0000000000000,,"★選択肢③【俺も疲れて
@@ -93,11 +93,11 @@ I didn’t intend to embarrass you or anything..."
 2002005030290,灯織,"じゃあ、さっき見えたところ、良いですか？
 ちょっと遠そうですが","Then, the place that we saw earlier, is it fine to go there? It looks like It's a bit far."
 0000000000000,プロデューサー,よし、そこに行こう,"Yeah, let's go."
-2002005030300,灯織,ふふ、プロデューサーも楽しそうですね,"Fufu, it seems like you’re also having fun Producer."
+2002005030300,灯織,ふふ、プロデューサーも楽しそうですね,"Fufu, it seems like you're also having fun Producer."
 0000000000000,プロデューサー,"灯織の生き生きしている姿を見てるから
-その気分が俺にも伝わってるんだよ",It's rare for you to look excited and it tells me what you’re feeling too.
+その気分が俺にも伝わってるんだよ",It's rare for you to look excited and it tells me what you're feeling too.
 0000000000000,プロデューサー,"やっぱり灯織の笑顔には
-人を楽しい気持ちにさせる力があるって、実感するな","As I thought, Hiori’s smile can also bring happiness to other people I experienced it myself now."
+人を楽しい気持ちにさせる力があるって、実感するな","As I thought, Hiori's smile can also bring happiness to other people I experienced it myself now."
 2002005030310,灯織,そ、そんなこと……,"So, something like that..."
 2002005030320,灯織,……早く行きますよ、プロデューサー,"Let's get going, Producer."
 info,produce_events/200200503.json,

@@ -651,7 +651,7 @@ option.twitterDeAuthorizeDialog.title,連携解除,Cancel Integration
 option.twitterDeAuthorizeDialog.message,Twitter連携を解除しました,Twitter Integration has been cancelled
 idol,アイドル,Idol
 supportIdolDetail.fromGashaNotice,最大まで特訓とトレーニングを行なった状態を表示しています。,Displaying stats when the card is maxed.
-idolDetail.fromGashaNotice,最大特訓時の状態を表示しています。,Displaying maximum potential abilities.
+idolDetail.fromGashaNotice,最大特訓時の状態を表示しています。,Displaying uncapped abilities.
 idolDetail.headerTitle.produce,プロデュースアイドル詳細,Produce Idol Details
 idolDetail.headerTitle.support,サポートアイドル詳細,Support Idol Details
 idolDetail.headerTitle.fes,フェスアイドル詳細,Fes Idol Details
@@ -698,7 +698,7 @@ item.noItem,アイテムがありません。,No Items.
 item.itemConfirm.title,使用確認,Confirm Use
 item.itemConfirm.effect,以下のアイテムを使用して\r%{valueName}を回復しますか？,Restore %{valueName}\r\nusing this item？
 item.itemConfirm.commentBlack,アイテムを使用すると,Using Items
-item.itemConfirm.commentRed,自然回復の上限を超えて回復できます,You can recover above the maximum limit
+item.itemConfirm.commentRed,自然回復の上限を超えて回復できます,You can recover above the max limit
 item.itemConfirm.warningMessage,%{itemName}の所持数が足りません,Not enough %{itemName}
 item.itemResult.title,アイテム使用結果,Item Use Effect
 item.itemResult.effect,%{itemName}を使用して\r%{valueName}を%{gainValue}回復しました,Restored %{gainValue} %{valueName}\r\nusing %{itemName}

@@ -1,10 +1,10 @@
 id,name,text,trans
-0000000000000,プロデューサー,（お、ちょうどレッスンが終わったところか）,"(Oh, the lesson's just ending)"
-1001001040010,真乃,ほわぁぁ,Howaaa
+0000000000000,プロデューサー,（お、ちょうどレッスンが終わったところか）,"(Oh, the lesson just ended.)"
+1001001040010,真乃,ほわぁぁ,Howaa
 0000000000000,プロデューサー,"真乃、調子が悪いのか？
 ふらついてるぞ","Mano, are you feeling alright? You're shaking."
 1001001040020,真乃,"平気です
-ほわわわ……",I'm okay. Howawawa…
+ほわわわ……",I'm okay. Howawawa...
 0000000000000,プロデューサー,"やっぱり調子が悪いんじゃないか？
 今日のレッスンは終わりにしよう","You're really not feeling well, are you? Let's end the lessons here for today."
 1001001040030,真乃,"でも、次のオーディションも近いですし、
@@ -23,7 +23,7 @@ id,name,text,trans
 よくわかっていませんでした",Until now I wasn't really sure where I was heading towards.
 1001001040090,真乃,"今もまだ、どこへ向かえばいいのかよくわかりません
 でも、どこかへ飛んでいけそうなんです","Even now, I don't really know where I should be going. But, I feel like I can get somewhere."
-0000000000000,プロデューサー,真乃がそう感じてるのはいいことだけど……,"It's good that you feel that way, but…"
+0000000000000,プロデューサー,真乃がそう感じてるのはいいことだけど……,"It's good that you feel that way, but..."
 1001001040100,真乃,"すごく……わくわくしているんです、私
 だから、やれることは全部やっておきたくて","I feel… really excited. So, I want to do everything I can."
 1001001040110,真乃,"プロデューサーさん、

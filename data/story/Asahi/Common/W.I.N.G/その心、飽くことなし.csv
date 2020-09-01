@@ -1,0 +1,143 @@
+id,name,text,trans
+0000000000000,プロデューサー,よし、今日はこんなところにしておこう,"Alright, let's stop here for today."
+1017001040010,あさひ,"プロデューサーさん、今日もありがとっす！
+お疲れっす！","Producer-san, thanks for today!"
+0000000000000,プロデューサー,ああ、お疲れ様,"Yeah, keep up the great work."
+0000000000000,プロデューサー,"（あれ以降、ステップにこだわりすぎて
+無理をすることもなくなったみたいだな……）","(Since then, she seems to not get
+overly focused on her steps anymore...)"
+0000000000000,プロデューサー,よし、俺は残りの仕事を片付けるか,"Alright, let's finish the rest of my work for today."
+0000000000000,プロデューサー,"もうこんな時間か……
+最後に戸締りを確認して……と","It's already this late...
+Last but not least, door lock checks..."
+0000000000000,プロデューサー,あれ？　倉庫の明りが……,Hm? The storeroom light...
+0000000000000,プロデューサー,誰かいるのか……？,Is there someone here...?
+1017001040020,あさひ,"あ、プロデューサーさん！
+お疲れさまっす！","Oh, Producer-san!
+Good work today!"
+0000000000000,プロデューサー,"あさひ！　帰ったんじゃなかったのか！
+……何してるんだ？","Asahi! Why are you still here!?
+...What are you doing?"
+1017001040030,あさひ,"今は発声の本を読んでたっす！
+前の映像のヒント、あるんじゃないかと思って！","Right now, I'm reading a vocal book!
+I wonder if there's a hint for that previous video!"
+0000000000000,プロデューサー,"いや、そうじゃなくてだな
+あまり無理しちゃダメだって、何回も言ってるだろ？","No, what I'm trying to say is,
+you shouldn't overdo things.
+How many times did I tell you this?"
+0000000000000,プロデューサー,……もしかして、ずっとこの調子なのか？,...Don't tell me you've always been doing this?
+1017001040040,あさひ,そっす！　でもなんでそんなこと聞くんすか？,Yes! But why do you ask that?
+1017001040050,あさひ,"あ、レッスンのあとにライブに行ったりもしてるっす！
+やっぱ生で見ると色んなことが見えるんすよね！","Oh, after the lesson, I also went to a live concert!
+After all, you can see a lot of things when you see them directly!"
+0000000000000,プロデューサー,"──あさひ……確かにあさひの探求心とか
+貪欲な姿勢は俺も頼もしいと思う","──Asahi... Sure, I do think that Asahi's inquisitive mind
+and eagerness to learn are desirable traits. "
+0000000000000,プロデューサー,"でもな……それ以前にこういう無理が重なって
+あさひが体を壊しちゃったら、どうしようもないんだぞ","But, you see... If Asahi's body gives up before then,
+it will only be for naught."
+1017001040060,あさひ,……ごめんなさいっす,...I'm sorry.
+0000000000000,プロデューサー,わかってくれたか、ありがとな、あさひ,"If you got that, then thanks, Asahi."
+0000000000000,プロデューサー,"前も言ったが、あさひはまだアイドルになったばかりなんだ
+だから、焦らずゆっくりと──","I told you this before, Asahi just started becoming an idol.
+That's why let's not rush in and take it slowly──"
+1017001040070,あさひ,それはいやっす！,I don't want that!
+0000000000000,プロデューサー,あさひ……？,Asahi...?
+1017001040080,あさひ,"頭から離れてくれないんっすよ！
+あの輝きとかドキドキが……","My head just won't let it go!
+That radiance… The pounding in my heart…"
+1017001040090,あさひ,"絶対ああなりたいって、
+わたしもなんでかわかんないっすけど……","I absolutely wanted to be like that,
+I also don't understand why's that, but…"
+1017001040100,あさひ,"とにかくあの気持ちを確かめないと
+納得いかないっす！","Anyway, until I can confirm that feeling,
+I'm not going to be satisfied!"
+1017001040110,あさひ,"プロデューサーさんが
+心配してくれるのは嬉しいっすけど……",Producer-san worries do make me happy...
+1017001040120,あさひ,"でも……それでも、じっとしてらんないっす！
+わたしは、もっと……！","But... Even so, I can't stay put!
+I need to do... more...!"
+0000000000000,プロデューサー,あさひ……,Asahi...
+select,,わかった,Okay.
+select,,"それでも
+無理はダメだ","Still, overdoing
+stuff is not good."
+select,,少し動いてみてくれるか,"Can you show me
+some of your moves?"
+0000000000000,プロデューサー,わかった,Okay.
+0000000000000,プロデューサー,"あさひの想い、しっかりと受け止めた
+明日、しっかり話し合おう","I accept Asahi's feelings.
+Let's properly discuss this at length tomorrow."
+1017001040130,あさひ,……どゆことっすか？,...What do you mean?
+0000000000000,プロデューサー,無理をしすぎないラインは引かせてもらうけど,I'll draw a line on what is considered as overdoing things.
+0000000000000,プロデューサー,"あさひのやりたいことを
+最大限やれるスケジュールを組むんだ",We'll set up a schedule that maximizes Asahi's goals.
+1017001040140,あさひ,"！　あはは、さすがっす、プロデューサーさん！
+明日からもレッスンレッスン、っすね～！","Woah! Ahaha, as expected of Producer-san!
+From tomorrow on its lesson and more lessons, right～!"
+0000000000000,プロデューサー,"いや、たまには休息も必要だ
+毎日こんな調子じゃ、体を壊してしまう","No, sometimes you need to rest.
+If you go like this every day, your body will bound to break."
+0000000000000,プロデューサー,"けど、これまでよりは色々できるようにする
+……何度も言うが、無理はするなよ。約束だ","But we'll try to do more than ever.
+...I said this many times, but don't force yourself.
+Promise me that."
+1017001040150,あさひ,"はい、約束っす～！
+これでもーっと色々研究できるっすね！","Yes, it's a promise～!
+With this, I'll be able to do a lot more research!"
+1017001040160,あさひ,ワクワクが止まんないっすね、プロデューサーさん！,"The excitement just won't stop, Producer-san!"
+0000000000000,off,off,off
+0000000000000,プロデューサー,それでも無理はダメだ,"Still, overdoing stuff is not good."
+1017001040170,あさひ,"え、なんでっすか？
+わたし、早く上手くなりたいっす！","Eh, why is that?
+I want to quickly be able to do it!"
+0000000000000,プロデューサー,"もちろん、その熱意は嬉しいぞ
+アイドルとして大切な考え方の１つだとも思う","Of course, I'm glad to hear your enthusiasm.
+I think it's one of the essential mindset for an idol."
+0000000000000,プロデューサー,"だけど、さっきも話したように
+あさひが無理をして倒れたら、みんなが悲しむことになる","But, as I said before,
+if Asahi forces herself and got sick, everyone will be sad."
+0000000000000,プロデューサー,"あさひが目指してるのは
+ファンを悲しませるようなアイドルなのか？","What is Asahi's aim?
+Becoming an idol that makes her fans sad?"
+1017001040180,あさひ,"それは……違うっす！
+そんなの全然楽しくないっす！","That's... just wrong!
+It isn't fun at all!"
+0000000000000,プロデューサー,"だったら、やりすぎはダメだ　
+な？","If that's the case, don't overdo it.
+Okay?"
+0000000000000,プロデューサー,"それに、あさひの代わりは誰にも務まらないんだ
+だから、もっと自分を大事にしてくれ","Nobody can replace Asahi.
+That's why take care of yourself."
+1017001040190,あさひ,……プロデューサーさん,...Producer-san.
+1017001040200,あさひ,"わたし、誓うっす！
+もう絶対無理しないって！","I swear it!
+That I'll never overdo things again!"
+0000000000000,off,off,off
+0000000000000,プロデューサー,少し動いてみてくれるか,Can you show me some of your moves?
+1017001040210,あさひ,"へ？
+こんな感じっすか？","Huh?
+Like this?"
+0000000000000,プロデューサー,あさひ、何か違和感を覚えないか？,"Asahi, don't you feel something strange?"
+1017001040220,あさひ,違和感……っすか？,Strange... huh?
+0000000000000,プロデューサー,少しだが、いつもよりキレが悪く見える,"It's just a little, but it looks worse than usual."
+1017001040230,あさひ,"……そっすね
+プロデューサーさんが言うなら、きっとそうっす","...Yes.
+If Producer-san said it, then it must be true."
+0000000000000,プロデューサー,"ああ。そのステップをずっと見てきた
+俺が言うんだから、間違いない","Yeah. I've seen those steps all the time.
+There's no doubt about it."
+0000000000000,プロデューサー,"いいか、あさひ。根を詰めて頑張りすぎると
+かえって明日に疲れが残るってこともあるんだぞ","Listen, Asahi. If you keep being like this,
+you'll just be back tired for tomorrow."
+0000000000000,プロデューサー,"早く成長したいなら、しっかり休みもとるべきだ
+急がば回れ、なんて言ったりもするだろ？","If you want to get better quickly, you should take a good rest.
+Slow and steady wins the race, wouldn't you say?"
+1017001040240,あさひ,ふんふん、自分の体のことも気を遣わなきゃならないんすね,"Uh-huh, I have to care for my well being."
+0000000000000,プロデューサー,"ああ、万全なコンディションでこそ
+しっかりとしたパフォーマンスができるんだ","Yeah, you can have a steady performance
+in perfect condition."
+1017001040250,あさひ,わかったっす！　プロデューサーさん！　ありがとっす！,Got that! Producer-san! Thanks!
+0000000000000,off,off,off
+info,produce_events/101700104.json,
+Translator,Autumn Cloud,
