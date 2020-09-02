@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,39
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,40
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,29
 images/ui/present_box/parts.json_image,present_box_parts.png,8
@@ -256,7 +256,7 @@ images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_
 images/ui/init/parts.json_image,init_parts.png,10
 images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
-images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,11
+images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,12
 images/ui/common/parts.json_image,common_parts.png,28
 images/ui/common/parts_icons.json_image,common_parts_icons.png,20
 particles/unlock_area/images.json_image,unlock_area.png,3
