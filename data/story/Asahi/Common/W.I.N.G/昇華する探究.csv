@@ -1,0 +1,145 @@
+id,name,text,trans
+0000000000000,プロデューサー,"あさひ、いよいよだな
+何か不安なこととか、ないか？","It's showtime, Asahi.
+Do you have any concerns?"
+1017001050010,あさひ,ないっす！,None!
+0000000000000,プロデューサー,そうやって言い切ってくれると、頼もしい限りだ,"If you can say that, I'm at ease now."
+1017001050020,あさひ,"だって、プロデューサーさん
+わたしのお願い、叶えてくれたっす！","After all, Producer-san
+did fulfill my wish!"
+0000000000000,プロデューサー,"約束したからな、当然のことだよ
+……まぁ、ちょっと負荷は高かったかもしれないが……","Of course. I promised you, after all.
+...Well, your demand might have been a bit too much..."
+1017001050030,あさひ,"そのおかげで、思いっきり楽しめそうっす！
+わたしの、初めてのステージ……","Because of that, I can enjoy this to the fullest!
+My own... First stage..."
+1017001050040,あさひ,さて、そろそろっすよね！,"Well, it's about time!"
+0000000000000,プロデューサー,ああ、そうだな、ここで見守って──,"Yeah, I'll just watch from over here──"
+1017001050050,あさひ,……,*inhale*
+0000000000000,プロデューサー,（集中しているんだな……）,(She's focusing...)
+1017001050060,あさひ,……プロデューサーさん,...Producer-san.
+0000000000000,プロデューサー,"ん？
+どうかしたか？","Hm?
+What's up?"
+1017001050070,あさひ,今、不思議な気持ちっす,"Now, there's this strange feeling."
+1017001050080,あさひ,"空を飛んでるみたいで……でも全然不安じゃなくて
+ドキドキしてて……でも落ち着いてて","Like flying through the sky... But I'm not worried at all.
+My heart was thumping... But I feel calm."
+1017001050090,あさひ,……とにかくわたし、早くステージに立ちたいっす,"...Anyway, I... Want to quickly stand on the stage."
+0000000000000,プロデューサー,その気持ち、全てステージにぶつけてこい！,All those feelings pour them all on the stage!
+1017001050100,あさひ,はいっす！,Yes!
+1017001050110,あさひ,"みんな～、今日はありがとっす！
+わたしも会えて嬉しいっすよ～","Everyone～ Thanks for coming!
+I'm happy that you've come to meet me～"
+1017001050120,あさひ,"すっごい盛り上がってるっすね～！
+じゃあ、そろそろ次の曲行くっすよ～！","Wow, what a hype～!
+Then, let's fire it up with the next song～!"
+1017001050130,あさひ,……,*inhale*
+1017001050140,あさひ,──っ！,──phew!
+0000000000000,プロデューサー,"（あさひのこだわりがしっかりと見て取れる
+一分の隙も無い完成度だ）","(Asahi's commitment can be seen clearly.
+There's no flaw. It's perfect.)"
+0000000000000,プロデューサー,"（それにしても、あさひがパフォーマンスを始めると
+会場の空気まで変わったかのようになる）","(Still, when Asahi starts performing,
+the venue's vibe changed.)"
+0000000000000,プロデューサー,"（引き込まれているのもあるんだろうけど
+何か特別なものを感じる……これは一体……）","(The audience sure got pulled in,
+but I felt something else too...)"
+1017001050150,あさひ,……,......
+0000000000000,プロデューサー,あさひ、お疲れ様！　すごい完成度だったぞ,"Great work, Asahi! That was amazing!"
+1017001050160,あさひ,……,......
+0000000000000,プロデューサー,……あさひ、どうした、大丈夫か？,"...Asahi, what's wrong? You okay?"
+1017001050170,あさひ,……,......
+0000000000000,プロデューサー,あさひ！,Asahi!
+1017001050180,あさひ,"！　あ、プロデューサーさんお疲れさまっす！　
+わたし、どうだったっすか？","Oh! Producer-san!
+How's my performance?"
+0000000000000,プロデューサー,"ああ、最高のステージだったよ！
+それより、ぼーっとしてどうしたんだ？","Yeah, it was the best stage!
+That aside, what's with the blank expression?"
+1017001050190,あさひ,？　なんのことっすか？,Huh? What are you talking about?
+0000000000000,プロデューサー,（気づいていない……のか？）,(She didn't realize... huh?)
+1017001050200,あさひ,"それよりもプロデューサーさん！
+わたし、ようやくやりたいことができた感じがするっす！","By the way, Producer-san!
+I finally feel like I have done what I want!"
+select,,"見ていて
+伝わってきた","I saw that,
+and your passion
+got to me."
+select,,"目的が達成できて
+よかったな","Glad you've
+achieved 
+your goal."
+select,,"怖いくらい
+良かったよ","Glad it was 
+frighteningly
+good."
+0000000000000,,"★選択肢①【見ていて
+伝わってきた】",1
+0000000000000,プロデューサー,見ていて伝わってきた,"I saw that, and your passion got to me."
+0000000000000,プロデューサー,"間違いなく、あさひにしかできないライブだった
+これがあさひなんだって、みんな感じたんじゃないかな","No doubt about it, I'm sure everyone felt that
+this was a show that only Asahi could do."
+1017001050210,あさひ,"それ、すごいっす！
+わたしだけにしかできないライブ……","That's amazing!
+Live concert that only I can do..."
+0000000000000,プロデューサー,"ああ、そうだ
+他の人にはできない、あさひだけの表現だ","Yeah, that's right.
+Only Asahi can present it like that, and no one else can."
+1017001050220,あさひ,"なんか……なんか、言葉にできないっすけど嬉しいっす！
+わたしのことが、誰かに伝わるって……","Somehow... Somehow, I can't put it into words, but I'm happy!
+I was able to convey my feeling to someone else..."
+0000000000000,プロデューサー,そうか！　なら、これからもみんなに伝えていかないとだな,"Then, from now on, let's spread your feelings to everyone else!"
+1017001050230,あさひ,はいっす！,Yes!
+1017001050240,あさひ,……でもなんでだろう,"...But, I wonder..."
+0000000000000,プロデューサー,？,Hm?
+1017001050250,あさひ,わたしにとって、アイドルって……,"For me, an idol is..."
+0000000000000,off,off,off
+0000000000000,,"★選択肢②【目的が達成できて
+よかったな】",2
+0000000000000,プロデューサー,そうか。目的が達成できてよかったな,Glad you've achieved your goal.
+1017001050260,あさひ,はいっす！,Yes!
+1017001050270,あさひ,プロデューサーさんがいてくれたからっすよ！,It's because Producer-san was there for me!
+0000000000000,プロデューサー,"いや、俺はただサポートしただけだ
+これはあさひの力だぞ","No, I only supported you.
+It's all because of your effort."
+1017001050280,あさひ,そっすかね？,Is that so?
+0000000000000,プロデューサー,"ああ、そうだ、あさひの強いこだわりが
+ここまでのパフォーマンスを作り出したんだ","Yeah, it is. Asahi's strong commitment
+created this performance."
+1017001050290,あさひ,うーん……,Hmm...
+1017001050300,あさひ,"やっぱりプロデューサーさんのおかげっすよ！
+だとしたら！","In the end, it's all thanks to Producer-san!
+After all..."
+1017001050310,あさひ,"助けがなかったら、きっとダメだったっす！
+そう思えるんすよね","If you hadn't helped me, I would fail!
+That's what I thought."
+0000000000000,off,off,off
+0000000000000,,"★選択肢③【怖いくらい
+良かったよ】",3
+0000000000000,プロデューサー,怖いくらい良かったよ,Glad it was frighteningly good.
+1017001050320,あさひ,？　怖い、っすか？,Hm? Frightening?
+1017001050330,あさひ,それってよくないことっすよね？,Isn't that a bad thing?
+0000000000000,プロデューサー,"いや、そうじゃない
+怖いってことはそれだけ引き込まれたってことだよ","No, it's not.
+The scary thing is that I was drawn in so much."
+0000000000000,プロデューサー,"あさひがパフォーマンスを始めた瞬間
+客席が静かになったの、気付かなかったか？","The moment Asahi started performing,
+the audience suddenly becomes quiet. Didn't you notice that?"
+1017001050340,あさひ,"そうだったんすか？
+わたし、パフォーマンスのことあんまり覚えてなくて","Is that so?
+I don't really remember much about the performance."
+0000000000000,プロデューサー,それだけ集中してたってことなんだな,"You were really concentrating, after all."
+1017001050350,あさひ,"なんか、ふわーって気持ちになって
+気付いたら体が動いてて……","Somehow, I felt really light.
+When I came to it, my body started moving..."
+1017001050360,あさひ,なんて言ったらいいんすかね……難しいっす！,How do I say it... It's hard!
+1017001050370,あさひ,"でも、とにかく今までで一番楽しかったっす！
+まだまだステージに立ちたいっすよ！","But anyway, it was the most fun thing ever!
+I feel like wanting to go up to the stage again!"
+0000000000000,プロデューサー,あさひなら立てるさ、望むだけ、何度でもな,"If it's Asahi, you'll be going up there again,
+as many times as you want."
+1017001050380,あさひ,……はいっす！,...Yes!
+0000000000000,off,off,off
+info,produce_events/101700105.json,
+Translator,Autumn Cloud,

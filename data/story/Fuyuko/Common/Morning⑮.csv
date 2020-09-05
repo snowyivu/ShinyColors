@@ -1,0 +1,40 @@
+id,name,text,trans
+1018001001510010,冬優子,"あーもう！
+腹立つわね、あの中学生！","Aah!
+That annoying little middle schooler!"
+0000000000000,プロデューサー,"中学生……って、あさひのことか？
+それに、これは……ダンスの教本……？","Middle schooler... is it about Asahi?
+And is this... a dance textbook...?"
+1018001001510020,冬優子,"前回のレッスン、あいつばっか褒められたの
+ふゆだってちゃんとできてたってのに……","In the previous lesson, she's the only one that gets praised.
+But Fuyu was able to do it properly too though..."
+0000000000000,プロデューサー,"そういうことか……
+なら……","So that was the case...
+Then..."
+select,,いいところを吸収しよう,"Let's search for 
+your good points."
+select,,"ふたりは
+ライバルなんだな","You two are
+rivals, huh."
+select,,負けずに追いつこう,"Let's catch up
+with the losses."
+0000000000000,,★選択肢①【いいところを吸収しよう】PREFECT,PERFECT
+1018001001510030,冬優子,"いいところ……
+そうね、せっかく向こうが油断してるとこなんだし","Good points...
+Yeah, especially when she's the definition of careless."
+1018001001510040,冬優子,"あいつのいいところ、ぜーんぶ盗んで、
+ふゆのものにしてやるんだから！","Her good points, Fuyu'll take all of those away
+and make those mine!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000,,★選択肢②【ふたりはライバルなんだな】GOOD,GOOD
+1018001001510050,冬優子,ライバルなんて、まだ言えないわよ,Can't say we're rivals yet.
+1018001001510060,冬優子,ふゆ、あいつに負けてばっかなんだから……,Fuyu won't lose to her every time...
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000,,★選択肢③【負けずに追いつこう】NORMAL,NORMAL
+1018001001510070,冬優子,"追いついて……それで終わり？
+ふゆはね、負けたくないんじゃなくて勝ちたいの！","Catch up... then it's the end?
+Fuyu doesn't want to just not losing, but she wanted to win!"
+1018001001510080,冬優子,それとも、ふゆはあいつに勝てないって言いたいの？,Or are you saying that Fuyu just can't beat her?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101800100151.json,
+Translator,Autumn Cloud,

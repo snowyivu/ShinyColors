@@ -1,0 +1,138 @@
+id,name,text,trans
+0000000000000,カメラマン,"……はい！　それじゃあ、次は
+友達を待ってる感じのポーズ、お願いしまーす","...Great! Next, can you give me another pose?
+Something like you were waiting for your friends to come."
+1008001050010,霧子,は……はい……！,Y...Yes...!
+0000000000000,プロデューサー,"（ファッション誌の撮影……
+ちょっと心配してたけど──）","(I was slightly worried about how this magazine job would go, but...)"
+0000000000000,プロデューサー,"（うん。上手くいってるな
+自分の見せ方がわかってきたんだな、きっと）","(Yeah, she's doing great.
+Seems like she figured out how to show her appeal.)"
+0000000000000,カメラマン,うーん、そうだな……,"Hm, well..."
+1008001050020,霧子,どうか……しましたか……？,Is there...anything wrong...?
+0000000000000,カメラマン,"あのー、最後にこうガツンと霧子ちゃんの魅力たっぷりの、
+インパクトのあるやつを撮りたいんだけど……","Yeah, seeー 
+For the last photo, I want a stunner; something that really shows off your cuteness..."
+0000000000000,カメラマン,"なかなかいい構図が思い浮かばなくてねぇ……
+どうだろう、プロデューサーさん？","But I can't think of anything good...
+What about you, producer? Got any ideas?"
+0000000000000,プロデューサー,"ああ、そうですね
+それなら──","Ah, yeah.
+If that's the caseー"
+1008001050030,霧子,"……そ……それなら……！
+わたしからひとつ……いいですか……？","...In that...case...!
+C-Can I...say something...?"
+0000000000000,プロデューサー,"ん……？
+何かあるか、霧子？","Hm...?
+Do you have something in mind, Kiriko?"
+1008001050040,霧子,"こ……この包帯を……見せる感じで
+……撮ってもらったり……で、できますか……！","Um...what about...making this bandage...
+The focus...of the picture...?!"
+0000000000000,カメラマン,え、いいの、霧子ちゃん？,"Eh, is that okay, Kiriko-chan?"
+0000000000000,カメラマン,"いやー、それ。なるべく隠さなきゃいけないかなって
+思ってたんだけど、なんかいい感じなんだよね","Haha, I thought it'd be better to not show it off too much, but...
+Yeah, that could be great."
+1008001050050,霧子,"か、勝手に……すみません……
+プ、プロデューサーさん……？","S-Sorry for...being so selfish...
+Producer-san...?"
+0000000000000,プロデューサー,"いや、俺もいい考えだと思う
+いいぞ、やってみよう！","No, I think it's a fantastic idea.
+Let's go with that!"
+1008001050060,霧子,"は、はい……！
+では……お願いします……！","Y-Yeah...!
+W-Well...please...!"
+0000000000000,カメラマン,"よーし、それならいっぱい撮っちゃうよ
+覚悟してね！","Alright then, I'm not holding back!
+I'll take as many photos as I can!"
+1008001050070,霧子,が……頑張ります……！,I...I'll try my best...!
+0000000000000,プロデューサー,"お疲れさま、霧子
+霧子のいいところ、アピールできたんじゃないか？","Welcome back, Kiriko.
+You showed us your best side this time around, huh."
+1008001050080,霧子,"……はい……！
+包帯……大丈夫でしょうか……","...Yeah...!
+Was the idea...with the bandages, fine?..."
+0000000000000,プロデューサー,"うん。いい感じに撮れてたぞ
+緊張をほぐしてくれるお守り、だろ？","It was. We took some great pictures.
+It's your lucky charm, right?"
+1008001050090,霧子,"は、はい……！
+でも、今は……それだけじゃないんです","Y, yeah...!
+But, um...this time, it wasn't just that..."
+0000000000000,プロデューサー,ん？,Hm?
+1008001050100,霧子,"今は……ここに隠してることも
+みなさんに、見てもらいたいって……","I wanted...to show everyone...
+Everything I'm hiding, too..."
+1008001050110,霧子,"不安とか……
+自信がなかったりすることとか","My worries...
+How I'm not confident in myself, at all..."
+1008001050120,霧子,お……おかしいでしょうか……？,I-Is that weird...?
+0000000000000,プロデューサー,"(うん……霧子も自分のことを表現したいって
+思えるようになってきたんだな)",(Huh...Kiriko's finally thinking about how to best express herself...)
+0000000000000,プロデューサー,"おかしくなんかない
+……すごく成長したんだ、霧子は","It's not weird at all.
+...You've grown a lot, Kiriko."
+select,,"カメラマンも
+褒めていたぞ","The cameraman couldn't stop singing praises about you, you know?"
+select,,ファンも喜ぶはずだ,"I'm sure your fans will be delighted, too."
+select,,"みんな霧子に
+夢中になるよ",No one's going to be able to take their eyes off you now.
+0000000000000,プロデューサー,カメラマンも、霧子のこと褒めていたぞ,"The cameraman couldn't stop singing praises about you, you know?"
+1008001050130,霧子,本当……ですか……？,Re-...really...?
+0000000000000,プロデューサー,"ああ。『包帯がとっても可愛かった
+って伝えておいてください』だそうだ","Yeah. He even asked me to tell you about how he thought your bandages were really cute, and all."
+0000000000000,プロデューサー,"それだけじゃないぞ
+編集部から、今後、霧子を表紙に使いたいって話があった","And it wasn't just him.
+The editors were also talking about how they wanted you to be the cover girl sometime in the future."
+0000000000000,プロデューサー,いっそ、専属になってほしいとも言われたんだ,They even said they wanted you to sign an exclusivity contract for this magazine.
+1008001050140,霧子,わたしが……ですか……？,Me...really...?
+0000000000000,プロデューサー,"霧子の魅力が、届いたんだ
+やったな！","Everyone's starting to notice your potential.
+You did it!"
+1008001050150,霧子,……はい、プロデューサーさん……,"...Yeah, Producer-san..."
+1008001050160,霧子,"もっと……
+もっと、アイドル頑張ります……！","I'll...
+I'll keep giving it my all...as an idol...!"
+0000000000000,プロデューサー,ファンもきっと喜ぶはずだ,"I'm sure your fans will be delighted, too."
+1008001050170,霧子,そう……でしょうか……,I...really?...
+0000000000000,プロデューサー,"霧子が、ちゃんと自分と向かい合って
+撮れた写真なんだ","Kiriko, these are photos we managed to take
+because you faced yourself in front of that viewfinder."
+0000000000000,プロデューサー,みんなの心に、絶対に届くものになる,I'm sure they'll leave a mark on the hearts of anyone that looks at them.
+1008001050180,霧子,"……プロデューサーさん……
+アイドルって……","...Producer-san...
+Being an idol, is..."
+1008001050190,霧子,"誰かの心につながったり……
+するものなんですね","Is really about...
+connecting with other people, right?"
+1008001050200,霧子,本当に、そうなったら……いいな,If that's the case...that'd be so nice...
+0000000000000,プロデューサー,みんな、必ず霧子に夢中になる,I can say that with certainty now.
+1008001050210,霧子,"……夢中……ですか……？
+想像できないです……","...Are they, really?...
+I can't imagine it..."
+0000000000000,プロデューサー,"なんていうか、
+霧子がこれまで、大事にしてきたこと……","I mean,
+everything you've cherished up until now..."
+0000000000000,プロデューサー,"みんなのことを一番に考えて、
+遠慮したり……心配したり……さ","The way you think about everyone before yourself...
+Your thoughtfulness...your kindness..."
+0000000000000,プロデューサー,"そういうことがきっと、
+包帯の下で眠ってたんだよ","All of it was under that bandage, right?"
+1008001050220,霧子,……！,...!
+0000000000000,プロデューサー,"その包帯、いつのまにか
+霧子のいいところになってたんだろうな","That bandage turned into one of your strongest points somewhere along the way, huh."
+0000000000000,プロデューサー,すごく、いい感じだった,You were great today.
+1008001050230,霧子,プ、プロデューサーさん……,P-Producer-san...
+0000000000000,プロデューサー,"霧子……どうだ、
+みんなを夢中にしたい、って思えるか？","So what do you say, Kiriko?
+Do you want to keep everyone's eyes on you, from now on?"
+1008001050240,霧子,わ……わたしに……そんなこと……,"I...I, um...I-..."
+0000000000000,プロデューサー,"いいんだ、それはいいことなんだ
+……って、霧子にもわかったんじゃないか？","It's fine. Wanting that is fine.
+...You get that now, right?"
+1008001050250,霧子,"……は、はい……！
+わたし、もっと……いろんなことをしてみたいです","...Y, yeah...!
+I want to try out lots of different things."
+1008001050260,霧子,"そして、ファンのみなさんも、プロデューサーさんも
+夢中になってくれたらいいなって……思います……！","And I want all my fans...and you too, Producer-san...
+It'd be so nice if you all kept on looking at me...from now on...!"
+info,produce_events/100800105.json,
+Translator,,,萌え豚
