@@ -3,12 +3,12 @@ id,name,text,trans
 花火じゃなくて、こっち見ろー","Heeey.
 Forget the fireworks; look over heeere."
 3021004020020,円香,こっち見ろー,Look over heeere.
-3021004020030,小糸,……！,...!
-3021004020040,小糸,こ、こっち見ろーー……！,L──look over hereee...!
+3021004020030,小糸,……！,......!
+3021004020040,小糸,こ、こっち見ろーー……！,L-Look over hereee...!
 3021004020050,雛菜,あは～～～！,Ahaaa～!
 3021004020060,雛菜,お～～～い！,Heeeeey～!
 3021004020070,円香,"……
-なんか焦げ臭いんだけど","...
+なんか焦げ臭いんだけど","......
 You know, something smells like burning."
 3021004020080,円香,"あ……
 浅倉、ちょっと近づけすぎ","Ah...
@@ -23,7 +23,7 @@ You're aware we don't actually own these outfits, right?"
 I could throw up hearing you say that again."
 3021004020130,小糸,なかなか乾かないね……！,"They're not really drying, are they...!"
 3021004020140,透,あ、切れた,Ah. It's out.
-3021004020141,一同,…………,...
+3021004020141,一同,…………,......
 3021004020150,雛菜,"やっぱりドライヤーじゃ、
 乾燥機の代わりにならなくない～？","I guess hairdryers don't cut it like an actual proper drying machine would, huh～?"
 3021004020160,円香,"乾きにくそうな部分に、
@@ -31,7 +31,7 @@ I could throw up hearing you say that again."
 3021004020170,雛菜,"でも古いのだから風弱いし
 お金入れないと動かないし～……","But they're all ancient and they barely blow, and they don't work unless you put the money in～..."
 3021004020180,透,樋口、もう10円玉無い,"Higuchi, I don't have any more 10-yens."
-3021004020190,円香,…………,...
+3021004020190,円香,…………,......
 3021004020200,円香,千円崩してくるから待ってて,"I'll break a thousand, so wait here."
 3021004020210,小糸,"あ、円香ちゃんのドライヤーまだ動いてるでしょ
 わたし両替してくるよ！","Ah, Madoka-chan, your dryer's still running, isn't it? I'll go find the coin exchange!"
@@ -59,38 +59,38 @@ Also, you need to find and restrain Hinana right now."
 ......Hinana?"
 3021004020350,小糸,"あ……えっと、
 雛菜ちゃん、もういなくて……","Ah... um,
-Hinana-chan's, already gone..."
+Hinana-chan, is already gone..."
 3021004020360,円香,衣装も置きっぱなしで？,And she just left her outfit here?
 3021004020370,円香,"……
-それじゃ、このドライヤーは小糸に","...
+それじゃ、このドライヤーは小糸に","......
 Fine, then. This dryer's yours now, Koito."
 3021004020380,小糸,うん……雛菜ちゃんの乾かす？,Sure... want me to dry Hinana-chan's?
 3021004020390,円香,自分の乾かしなよ,Ignore her. Dry your own.
 3021004020400,透,"やるけど
 雛菜の","I will, though.
 Hinana's."
-3021004020410,円香,…………,...
+3021004020410,円香,…………,......
 3021004020420,円香,いい,Fine.
 3021004020430,透,いいの？,Fine?
-3021004020440,円香,……焦がすでしょ,"...you're burning it, right?"
+3021004020440,円香,……焦がすでしょ,"...You're burning it, right?"
 3021004020450,透,あー,Aahh.
 3021004020460,円香,いいから自分のに集中して,It's fine. Just concentrate on your own.
 3021004020470,透,樋口,Higuchi.
-3021004020480,円香,……,...
+3021004020480,円香,……,......
 3021004020490,透,樋口、そこ,"Higuchi, over there."
-3021004020500,円香,……何,...what.
+3021004020500,円香,……何,...What.
 3021004020510,透,虫、いる,Bug. There.
 3021004020520,円香,えっ,Eh.
 3021004020530,透,樋口の足元、バッタっぽいやつ,By your feet. Some grasshopper thing.
 3021004020540,透,あ、跳ねた,Ah. Jumped.
 3021004020550,円香,──～～！！,──～～!!
-3021004020560,円香,な、何か、足に触った……！,S──something──touched my leg...!
+3021004020560,円香,な、何か、足に触った……！,S-Something touched my leg...!
 3021004020570,透,"大丈夫
 まだ床いるし","You're fine.
 It's still on the floor."
 3021004020580,小糸,"な、何か掴まえられるもの
-探してくる……待ってて……！",I──I'm gonna go and find something to trap it with... just hold on...!
-3021004020590,円香,えっ、ちょっと小糸……！,"Uh, wai──Koito...!"
+探してくる……待ってて……！",I-I'm gonna go and find something to trap it with... just hold on...!
+3021004020590,円香,えっ、ちょっと小糸……！,"Uh wait, Koito...!"
 3021004020600,円香,……浅倉……,...Asakura...
 3021004020610,透,ん？,Mm?
 3021004020620,円香,……バッタ、どこかやって,...the grasshopper. Kill it.
@@ -99,7 +99,7 @@ It's still on the floor."
 Higuchi, I think your best option is to run."
 3021004020640,円香,"両手がドライヤーでふさがってるの
 見てわからない……？",I'm stuck here with dryers in both my hands. Can you not tell looking at me...?
-3021004020650,円香,……５分、長……！,...five minutes... is so long...!
+3021004020650,円香,……５分、長……！,...Five minutes... is so long...!
 3021004020660,透,"おーい
 あっち行けー……","Oooi.
 Go over theeere..."
@@ -108,19 +108,19 @@ Go over theeere..."
 3021004020690,透,……跳ねた,...jumped.
 3021004020700,円香,や………！！,Hya...!!
 3021004020710,小糸,"ど、どうしたの！？
-大丈夫……？","W──what happened!?
+大丈夫……？","W-What happened!?
 Are you okay...?"
 3021004020720,小糸,"え、えっと
-バケツ、見つけたけど……","U──um,
-I found, um, a bucket..."
+バケツ、見つけたけど……","U-Umm,
+I found a bucket..."
 3021004020730,透,あ、ゴミ箱のとこ,Ah. Over by the bin.
 3021004020740,小糸,"つ、掴まえた……！
-もう大丈夫だよ……！","G──got it...!
+もう大丈夫だよ……！","G-Got it...!
 It's okay now...!"
 3021004020750,円香,………………バッタは……ね,"...
 ...grasshoppers... yeah."
-3021004020751,透＆円香＆小糸,…………,...
-3021004020760,円香,…………,...
-3021004020770,円香,……自然乾燥にしよう,...let's just let them dry out.
+3021004020751,透＆円香＆小糸,…………,......
+3021004020760,円香,…………,......
+3021004020770,円香,……自然乾燥にしよう,...Let's just let them dry out.
 info,produce_events/302100402.json,
 Translator,EmeliaK,

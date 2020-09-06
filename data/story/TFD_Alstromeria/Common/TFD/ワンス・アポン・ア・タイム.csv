@@ -1,6 +1,6 @@
 id,name,text,trans
 5004002010010,甘奈,"わあっ、千雪さんのなに頼んだのー？
-めっちゃ青色～！","Wow, what did you order, Chiyuki-sanー?
+めっちゃ青色～！","Wow, what did you order, Chiyuki-san?
 It's super blue～!"
 5004002010020,千雪,"これはね、マロウの花を使ったハーブティーよ
 とっても素敵な色でしょう？","Oh this? It's an herbal tea that's made 
@@ -10,12 +10,12 @@ It's quite a beautiful color, isn't it?"
 When you pour in some lemon syrup..."
 5004002010040,甘奈,"えっ、あれっ……ピンクになったよ！？
 どうしてー！？　すごいすごいっ！","Huh, what... it turned pink!?
-Howー!? Wow, that's so cool!"
+How!? Wow, that's so cool!"
 5004002010050,千雪,ふふ、面白いよね,"Fufu, it's interesting, isn't it?"
 5004002010060,甘奈,"うんっ！　ビックリしたっ☆
 かわいーし、魔法みたいだし……","Yeah! I was so surprised☆
 It's so cute, and it's like magic..."
-5004002010070,甘奈,────あっ……そうだ,────Oh... so how about this.
+5004002010070,甘奈,────あっ……そうだ,──Oh... so how about this.
 5004002010080,甘奈,"ねぇねぇ、ライブの途中でパッと照明を消してね
 次にパッとピンク色のライトで照らすの","So, in the middle of the performance, 
 let's suddenly switch the lights off, right? 
@@ -43,13 +43,13 @@ and I keep thinking of how I should do it..."
 My ideas are still a secret..."
 5004002010160,甘奈,"千雪さんのアイディア！？
 甘奈も見たーい！","Your ideas!?
-I wanna seeー!"
+I wanna seeee!"
 5004002010170,千雪,"あ、甘奈ちゃんまで……！
 ええと……もうちょっとまとまったら、聞いてほしいな","Wha, even Amana-chan...!
 Umm... I want to sort them out a 
 little more, and then I'll tell you."
 5004002010180,甘奈,えへへ、じゃあ楽しみにしてるねっ☆,"Ehehe, I'll be looking forward to it then☆"
-5004002010190,甜花,──……ふぇ……？,──...Fue...?
+5004002010190,甜花,──……ふぇ……？,──...Fueh...?
 5004002010200,甘奈,"あっ、甜花ちゃん
 ごめんね、うるさかった？","Ah, Tenka-chan.
 Sorry, was I being too loud?"
@@ -57,7 +57,7 @@ Sorry, was I being too loud?"
 5004002010220,千雪,ふふっ……,Fufu...
 5004002010230,甘奈,"ちょっと疲れてたんじゃないかなっ
 寝てていいよー？","You were tired, weren't you?
-It's alright to sleep, you knowー?"
+It's alright to sleep, you know?"
 5004002010240,甜花,"あ、ふ……もう、起きる……
 ……レッスンの時間は……？","Ah, fu... I'm already... awake...
 ...When are our lessons...?"
@@ -90,14 +90,14 @@ Umm, what kind of performance will that be like?"
 You can make it feel magical with smoke or bubbles～"
 5004002010340,千雪,"うん……！　物語仕立ての構成にしてもいいよね
 最後はハッピーエンドで幕を閉じる、みたいな……","Right...! Having the costumes match the theme would be nice too. And at the end, we can have the curtains close, like the happy ending in a storybook..."
-5004002010350,甘奈,あー！　それもいいねー☆,Ohー! That sounds great tooー☆
+5004002010350,甘奈,あー！　それもいいねー☆,Oh! That sounds great too☆
 0000000000000,プロデューサー,"なるほどなあ……！　面白そうだ
 どんな形でまとまるのか楽しみにしてるよ","I see...! That sounds interesting.
 I'm looking forward to how it'll turn out. "
 5004002010360,甜花,甜花も、楽しみ……,Tenka's also... looking forward to it...
 5004002010370,甘奈,"甜花ちゃんは一緒に考えるんだよー！
 今度、時間とって話そー☆","You'll be thinking of ideas with us too, 
-Tenka-chanー! Next time, let's all discuss it togetherー☆"
+Tenka-chan! Next time, let's all discuss it together☆"
 0000000000000,プロデューサー,"ははっ……じゃあ方針も決まったところで
 そろそろ移動するか","Haha... Now that we've come up with a plan,
 let's get a move on, shall we?"
@@ -113,7 +113,7 @@ but you can try it if you want."
 5004002010420,甘奈,"そのハーブティーねー、魔法みたいな仕掛けがあるんだよ！
 今度、甜花ちゃんにも見せたいなあ","You know, you can do a magic trick with this tea!
 I wanna show it to you next time, Tenka-chan!"
-0000000000000,プロデューサー,…………ほらほら、３人ともー！　行くぞー！,"...Come on now, you threeー! Let's goー!"
+0000000000000,プロデューサー,…………ほらほら、３人ともー！　行くぞー！,"...Come on now, you three! Let's go!"
 5004002010421,一同,はーい！,Okayy!
 info,produce_events/500400201.json,
 Translator,Tuna/Doodle,

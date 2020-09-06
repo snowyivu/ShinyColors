@@ -1,0 +1,23 @@
+id,name,text,trans
+4008001000230010,霧子,"わたしが受かったら……落ちた人は、悲しみます……
+みんなで……笑顔になれないのでしょうか……","If I manage to pass...the people who didn't...will be sad, right?...Can't everyone...be happy?..."
+0000000000000,プロデューサー,（緊張と不安で、マイナスのことばかり考えてるな）,"(Seems like the nerves are getting to her, and she's only thinking negatively...)"
+select,,"だったら負けた人も
+笑顔にすればいい","What about you put a smile on 
+the faces of even those who fail?"
+select,,"霧子を応援している
+ファンもいるんだ","There's also tons of people
+supporting you, Kiriko."
+select,,それがオーディションだ,That's just the way auditions are.
+4008001000230020,霧子,"はい……わたし、勝ちたいです……
+そ、それに……できるなら……そうしたいです……！","Yeah...I want to win...A-And, um...if I could do that...I'll try...!"
+0000000000000,プロデューサー,（よし、今の霧子ならきっとやれるぞ！）,(Alright. I'm sure she'll do it!)
+4008001000230030,霧子,"そうですね……わたし、ファンのみなさんのことを……
+……こ、これじゃよくないです……！",Yeah...I...wasn't thinking about my fans...I shouldn't do that...!
+0000000000000,プロデューサー,（よかった。もう後ろは向いてないな）,"(I'm glad. Seems like she can hold her head up high, now.)"
+4008001000230040,霧子,"……少し、考えすぎてました……
+それに……力を抜くのは、失礼ですよね……","...Maybe, I just thinked too much...and, um...I shouldn't think about holding back, right..."
+0000000000000,プロデューサー,"（わかってくれてるとは思うけど……
+納得してないみたいだな）","(I think she gets it, but...seems like she's not completely happy with the answer.)"
+info,produce_communication_cheers/400800100023.json,
+Translator,,

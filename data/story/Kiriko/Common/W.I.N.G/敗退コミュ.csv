@@ -1,0 +1,20 @@
+id,name,text,trans
+0000000000000,プロデューサー,霧子、お疲れ様,"Welcome back, Kiriko."
+6008001020010,霧子,"あ……プロデューサーさん……
+お疲れ様です……","Ah...
+Producer-san..."
+0000000000000,プロデューサー,惜しかったよ,We were really close.
+6008001020020,霧子,"そんなことは……
+いえ、ありがとうございます……",That's not...um...nevermind...thanks...
+0000000000000,プロデューサー,"……霧子、思うところがあるなら教えてくれ
+霧子が感じたことは、俺も大切にしたい","...Kiriko. If there's something you want to say, please tell me. I want to know what you're thinking."
+6008001020030,霧子,は、はい……！,Y-Yeah...!
+6008001020040,霧子,"その……相手の方たちのステージ、
+とても素敵だったな……って……",Um...I just thought...All the other girls...were so amazing...
+6008001020050,霧子,わたしが惜しかったなんて……,I wasn't close...at all...
+0000000000000,プロデューサー,"そう感じたなら、
+これから霧子ももっと素敵になれるよ","If that's it...that just means you'll become even better, from now on."
+6008001020060,霧子,"……はい、プロデューサーさん
+ありがとうございます……！","...Yeah. Thank you, Producer-san...!"
+info,produce_events/600800102.json,
+Translator,,

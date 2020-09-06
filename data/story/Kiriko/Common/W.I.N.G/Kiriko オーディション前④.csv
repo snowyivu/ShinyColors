@@ -1,0 +1,19 @@
+id,name,text,trans
+4008001000210010,霧子,"あの……今日は……気温も高いので……
+具合の悪くなる人が……いるかもしれません……","Um...today's pretty hot, so...there might be people...who aren't feeling so well..."
+0000000000000,プロデューサー,（ライバルの心配までしてるのか……）,(She's even worrying about her rivals...)
+select,,俺も気を配るよ,"Don't worry, I'll keep an eye out if anything happens."
+select,,霧子は優しいな,"Kiriko, you're so sweet."
+select,,霧子は心配性だな,"You really are a worrier, Kiriko."
+4008001000210020,霧子,"ほ、ほんと……ですか……！
+プロデューサーさんも……気をつけてくださいね……",R-Really...! Producer-san...take care too...okay?
+0000000000000,プロデューサー,（これで、不安は取りのぞけたな）,"(And with this, she can focus on her performance.)"
+4008001000210030,霧子,"い、いえ……そういうつもりじゃ、なくて……！
+でも……うれしいです……","N-No...I didn't mean it, like that...! But, um...thank you..."
+0000000000000,プロデューサー,（よし、霧子が集中できるように、気をつけるか）,"(Alright. Let's keep an eye out, so she can focus on her work.)"
+4008001000210040,霧子,"そ、そうですよね……
+今はオーディションに集中しないと……","Y-Yeah...I am, aren't I...I have to focus on the audition..."
+0000000000000,プロデューサー,"（とはいえ、周りを気にしてるな……
+もっと真剣に聞いてあげるべきだったか……）","(And yet, she can't help but keep on worrying...maybe I should've said something else...)"
+info,produce_communication_cheers/400800100021.json,
+Translator,,

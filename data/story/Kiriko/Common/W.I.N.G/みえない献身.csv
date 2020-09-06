@@ -7,14 +7,12 @@ id,name,text,trans
 お、おはようございます……！","...Ah, Producer-san.
 G-Good morning...!"
 0000000000000,プロデューサー,"どうしたんだ、こんな朝早くに？
-早朝レッスンの予定、入ってたかな","What's the matter? You're here pretty early, but...
-Did you have any lessons for this morning?"
+早朝レッスンの予定、入ってたかな","What's the matter? You're here pretty early, but...did you have any lessons for this morning?"
 0000000000000,プロデューサー,まだユニットのみんなも来てないようだけど……,Seems like no one else is here yet...
 1008001020040,霧子,す、少し早めに来てしまいました……！,I-I just got here early..!
 0000000000000,プロデューサー,それで……掃除をしていたのか？,And so...you were cleaning the room?
 1008001020050,霧子,"は、はい……
-みんな気持ち良くレッスンできたら、いいなって……","Y-Yes...
-I just thought about how nice it would be if everyone took their lessons in a clean room..."
+みんな気持ち良くレッスンできたら、いいなって……",Y-Yes...I just thought about how nice it would be if everyone took their lessons in a clean room...
 0000000000000,プロデューサー,"そうだったのか
 ……霧子は優しいな","I see...
 ...You're a really nice girl, Kiriko."
@@ -30,14 +28,12 @@ If we took our lessons in a dusty room..."
 0000000000000,プロデューサー,……どうしたんだ？,...What's wrong?
 1008001020110,霧子,わ、わたし、自信がなくて……,"I, um...I'm just not sure I can do this..."
 1008001020120,霧子,"みんなの足を引っ張ったりしたらって思うと、
-せめて……こんな形でも、みんなの役に立ちたくて……！","When I think I'm just dragging everyone down with me...
-I just want to be helpful in some way, even if it's just small things like these...!"
+せめて……こんな形でも、みんなの役に立ちたくて……！","When I think I'm just dragging everyone down with me...I just want to be helpful in some way, even if it's just small things like these...!"
 0000000000000,プロデューサー,……そうか……なるほどな,"...I see. "
 0000000000000,プロデューサー,（……ん？）,(...Hm?)
 0000000000000,プロデューサー,（霧子、ケガのところを押さえてるけど……痛むのかな）,(She's holding onto that wound she had the other day...does it hurt?)
 0000000000000,プロデューサー,"……とりあえず、霧子の気持ちはわかった
-なんとなくだけどな","...Anyhow, I get what you mean, Kiriko.
-Sort of."
+なんとなくだけどな","...Anyhow, I get what you mean, Kiriko. Sort of."
 1008001020130,霧子,は、はい……,Y-Yeah...
 0000000000000,プロデューサー,"でも、だから掃除をしようって考えるのは、
 すごく偉いことじゃないか？","And well, wanting to help out like this, that's remarkable of you."
@@ -49,8 +45,7 @@ Sort of."
 た、大したことは……できないんですけど……","Um...
 I, It's not like...I'm doing that much..."
 0000000000000,プロデューサー,"なるほど……
-いろいろやってくれてるってことなんだな、きっと","I see...
-So you're doing a lot for us, whenever we're not looking."
+いろいろやってくれてるってことなんだな、きっと","I see... So you're actually doing a lot for us, whenever we're not looking."
 1008001020170,霧子,い、いえ……！,N-Not at all...!
 1008001020180,霧子,"でも、あんまり……
 そんなふうに言ってもらったこと……なくて……","But, um...
@@ -66,23 +61,24 @@ select,,"じゃあ……
 俺にも掃除させてくれ","Well, then...
 Let me help out."
 select,,"それは、霧子のためにも
-なるって思うぞ","I'm sure it'll all end up being for your own good, too, in the end."
+なるって思うぞ","I'm sure that'll be for
+your own good, too."
 0000000000000,プロデューサー,"そういうところは、
-霧子の魅力だと思うぞ","I think that part of you is one of your biggest strengths, Kiriko."
+霧子の魅力だと思うぞ","I think that's one of your
+biggest strenghts, Kiriko."
 1008001020210,霧子,"……えっ
 そ、そんな……！","...Eh?
 N, not at all..!"
 1008001020220,霧子,考えたこと……ありませんでした……,I've never...thought about that...
 0000000000000,プロデューサー,"いや、そうやってみんなを支えていこうって気持ちは
-アイドルとして、必ずプラスになるはずだ","Even just that mentality of wanting to help those surrounding you 
-will surely turn into a plus for you, eventually."
+アイドルとして、必ずプラスになるはずだ","Even just that mentality of wanting to help those surrounding you will surely turn into a plus for you, eventually."
 1008001020230,霧子,"は、はい……
 魅力……ですか","S-sure...
 Strengths, huh."
 1008001020240,霧子,わ、わたしの中にも、あるんでしょうか……,"Do I even have...anything like that, in me?..."
 0000000000000,プロデューサー,"ああ
 ……でも霧子自身が、それに気づかなきゃいけないな","You do.
-...But you need to notice that you do, on your own."
+...But you need to realize that you do, on your own."
 1008001020250,霧子,わたし……自身が……？,On...my own...?
 1008001020260,霧子,"と、とっても……難しそうですけど……
 が、頑張ってみます……！","T-that seems...really hard, but...
@@ -112,15 +108,12 @@ I can practice...without worrying."
 それもそうなんだけど……","Haha, yeah.
 That's true, but it's not only that..."
 0000000000000,プロデューサー,"ここはみんなのレッスン室だし、
-霧子のレッスン室でもある","This is both everyone's lesson room,
-and also yours above all."
+霧子のレッスン室でもある","This is both everyone's lesson room, and also yours above all."
 0000000000000,プロデューサー,"アイドル幽谷霧子が育つ場所なんだってことを
-覚えておいてほしいんだ","This is the place where you, Kiriko Yukoku, will grow as an idol.
-I want you to keep that in mind."
+覚えておいてほしいんだ","This is the place where you, Kiriko Yukoku, will grow as an idol. I want you to keep that in mind."
 1008001020320,霧子,……アイドル、幽谷霧子……,"...Kiriko Yukoku, idol..."
 1008001020330,霧子,わたしも、アイドル……なんですよね,"I'm an idol, too...right?"
 1008001020340,霧子,"はい。みんなにご迷惑をかけないように、
-レッスン、頑張ります……！","Yeah...I'll give it my all in my lessons...
-And avoid causing trouble for...everyone else...!"
+レッスン、頑張ります……！",Yeah...I'll give it my all in my lessons... And avoid causing trouble for...everyone else...!
 info,produce_events/100800102.json,
 Translator,,,萌え豚

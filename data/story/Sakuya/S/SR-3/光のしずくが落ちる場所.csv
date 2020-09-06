@@ -59,7 +59,7 @@ id,name,text,trans
 優しく私を満たしてくれるからね",Nature is always beautiful—it satisfies me.
 3006007010360,摩美々,ふーん……,Hmm...
 3006007010370,摩美々,"じゃー、人がいっぱいいるときは……
-逆に、寂しかったりするとかぁ？",Thenー when there are a lot of people instead... is it lonely?
+逆に、寂しかったりするとかぁ？","Then, when there are a lot of people instead... is it lonely?"
 3006007010380,咲耶,"……うん、
 そんなときもあったよ","...Yeah, there were times like that."
 3006007010390,摩美々,……,......
@@ -74,7 +74,7 @@ id,name,text,trans
 3006007010460,咲耶,"……ねえ、摩美々
 少しだけ、手を貸してくれないかい？","...Hey, Mamimi. Can you lend me a hand?"
 3006007010470,摩美々,"ちょっとー
-急に何？",Heyー What are you doing?
+急に何？","Hey, what are you doing?"
 3006007010480,摩美々,"咲耶が何考えてるか……
 またわかんなくなったんだケド……",What are you thinking... I once again don't know...
 3006007010490,咲耶,フフ。すまないね,Hehe... Sorry.
@@ -93,10 +93,10 @@ id,name,text,trans
 だからこそ、人と人の繋がりは美しいんだと、ね",Because loneliness exists in this world... the connections between people are beautiful.
 3006007010590,摩美々,…………,......
 3006007010600,摩美々,"……でもー
-今は、寂しさなんて感じてる暇ないよねー？","...Butー you don't have time to feel lonely right now, right?"
+今は、寂しさなんて感じてる暇ないよねー？","...But, you don't have time to feel lonely right now, right?"
 3006007010610,摩美々,私、いつイタズラするかわかんないしー……,You don't know when I might pull a prank...
 3006007010620,咲耶,"確かに、そうかもしれないね
 摩美々はとてもイタズラ好きで……","Sure, it might be true that you really like pranks..."
 3006007010630,咲耶,そしてとても……優しい子だ,But also... you're a very kind girl.
 info,produce_events/300600701.json,
-Translator,,
+Translator,Autumn Cloud,

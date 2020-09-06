@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000,プロデューサー,霧子、大丈夫か？,"Kiriko, are you okay?"
+6008001010010,霧子,"プロデューサーさん……
+緊張で……手が震えてしまって……",Producer-san...my hands...won't stop shaking...
+0000000000000,プロデューサー,"そうか……
+ちょっと、思いっきり両手を握ってみてくれないか？","I see...say, what about you put your hands together, and squeeze them really tightly?"
+6008001010020,霧子,"え、えっと……手を握るんですか？
+こ、こんな感じでいいんでしょうか……？","Um...put my hands together?
+L-Like this...is this fine...?"
+0000000000000,プロデューサー,"よし、それじゃあ……
+霧子、先週末は何してた？","Alright, then...
+Kiriko, last weekend, what did you do?"
+6008001010030,霧子,"先週末……ですか？　た、たしか、ボイトレをして……
+振りの最終チェックをして……それから……","Last weekend...? U-Um...I, went to a voice training class...I rehearsed my dance, checking the steps one last time...and then..."
+0000000000000,プロデューサー,"うん、そうだな
+……じゃあ、もう大丈夫だ","Yeah, you did...well? How do you feel?"
+6008001010040,霧子,"そう……ですね
+今日のために……たくさん、レッスンしてきました……","Y-Yeah...I...trained a lot, for today..."
+0000000000000,プロデューサー,"ああ
+だから自信をもって、行っておいで！","That's right. So there's nothing to worry about, right? Go on, give it your all!"
+6008001010050,霧子,"はい……！
+プロデューサーさん、行ってきます！",Yeah...! Producer-san...I'll be going!
+info,produce_events/600800101.json,
+Translator,,

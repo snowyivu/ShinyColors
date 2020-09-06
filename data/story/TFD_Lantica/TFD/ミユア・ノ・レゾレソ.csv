@@ -7,7 +7,7 @@ id,name,text,trans
 うちもすぐ行くけん～","Ah, yep～! I'll be comin' right with ya～"
 0000000000000,プロデューサー,おっ、咲耶！,"Oh, Sakuya!"
 5002002010030,咲耶,"お出かけのようだねプロデューサー
-すれ違いとは残念だ","Looks like you're getting ready to leave,\nProducer. It's too bad we can't have a chat."
+すれ違いとは残念だ","Looks like you're getting ready to leave, Producer.\nToo bad we can't have a chat."
 0000000000000,プロデューサー,"あっ、悪いがはづきさんが出社したら
 今日も直帰の予定だと伝えてくれないか","Ah, sorry to ask this, but if you run into Hazuki-san\ncould you tell her I'm planning on heading straight\nhome today?"
 5002002010040,咲耶,"ああ……今日も忙しそうだね
@@ -16,19 +16,19 @@ id,name,text,trans
 いってきます──！","Sorry for the trouble, I'll leave it to you!\nSee you later!"
 5002002010050,咲耶,階段、足元に気をつけて……,"Hey, watch your step...."
 0000000000000,プロデューサー,──おわっ……！,──Uwoah...!
-5002002010060,咲耶,……忠告が少しばかり遅かったかな,"... Looks like I was a little late, huh?"
+5002002010060,咲耶,……忠告が少しばかり遅かったかな,"...Looks like I was a little late, huh?"
 5002002010070,恋鐘,いってきま──……あっ、あー！　咲耶──！,I'm off──... A-Ahh! Sakuya──!
 5002002010080,咲耶,"やあ、恋鐘もお出かけかい？
 プロデューサーと一緒かな","Yo, you're heading out, too? With Producer?"
 5002002010090,恋鐘,"うん！　ばってんえっとえっと～……
 咲耶に聞きたかことのあったとよ！","Yep! But, uhh... well～... So, ya heard about\nthat thing, right?"
 5002002010100,恋鐘,咲耶！　咲耶はどがんステージがよかと～？,Sakuya... What kinda stage d'ya like～?
-5002002010110,咲耶,ステージ？　…………もしかして感謝祭の話かな？,Stage? ... Are you talking about Thanksgiving?
+5002002010110,咲耶,ステージ？　…………もしかして感謝祭の話かな？,Stage? ...Are you talking about Thanksgiving?
 5002002010120,恋鐘,"うん～！　最近みんな忙しかけん、集まれんやろ～？
-なんかよか考えはなかかな～って思って、そいで──","Yep! Lately people've been busy, so\nshouldn't we get together'n do somethin'?\nI've been thinkin' on it and maybe we couldーー"
-0000000000000,プロデューサー,恋鐘ー！,Koganeー!
+なんかよか考えはなかかな～って思って、そいで──","Yep! Lately people've been busy, so\nshouldn't we get together'n do somethin'?\nI've been thinkin' on it and maybe we could──"
+0000000000000,プロデューサー,恋鐘ー！,Kogane!
 5002002010130,咲耶,"……プロデューサーがお呼びのようだね
-今日のところは時間切れかな","... Looks like Producer's calling for you.\nI guess there's a deadline today, huh?"
+今日のところは時間切れかな","...Looks like Producer's calling for you.\nI guess there's a deadline today, huh?"
 5002002010140,恋鐘,"ああ～～！　しょんなか！
 咲耶、今度また話そ～！","Ahh～! Too bad! Sakuya, let's talk later～!"
 5002002010150,咲耶,"ああ、次はちゃんと話そう
@@ -36,24 +36,24 @@ id,name,text,trans
 5002002010160,咲耶,……,......
 5002002010170,咲耶,忙しいのは良いことだ……,It's nice how everyone's keeping themselves busy...
 5002002010180,結華,"こがたん待って──あっ、さくやん！
-こがたん、もう行っちゃった？！","Koga-tan, wait upーーAh, Sakuyan!\nKoga-tan already left?!"
-5002002010190,咲耶,ああ──ちょうど今ね。走っていったよ,That's rightーー Just missed her.\nShe sure left in a hurry.
+こがたん、もう行っちゃった？！","Koga-tan, wait up──Ah, Sakuyan!\nKoga-tan already left?!"
+5002002010190,咲耶,ああ──ちょうど今ね。走っていったよ,That's right──Just missed her.\nShe sure left in a hurry.
 5002002010200,結華,"ええっ！？　ああ……お弁当……
 ソファーに置きっぱなしだったよ、こがたーん……",Eehh!? Ah... Her bento...\nshe forgot it on the sofa... Koga-taan...
 5002002010210,結華,"『今日のはば～りばりにすごか！』って言ってたのに……
-……間に合わないかもだけど連絡しとくかー……","“Today's is super-duper amazin'!” she said...\nIt's probably too late, but I'd like to get it to her..."
+……間に合わないかもだけど連絡しとくかー……","""Today's is super-duper amazin'!"" she said...\nIt's probably too late, but I'd like to get it to her..."
 5002002010220,咲耶,"……良かったら恋鐘には私から連絡しておこうか
-結華もこれから出かけるんだろう？","... If you'd like, I could take it to her for you.\nYou have somewhere to be, don't you?"
+結華もこれから出かけるんだろう？","...If you'd like, I could take it to her for you.\nYou have somewhere to be, don't you?"
 5002002010230,結華,"ああーっ、もうそんな時間！？
 ごめんさくやん、お願いしちゃっていいかな？","Aaah, it's already this late!?\nSorry Sakuyan, would it be okay if you took\ncare of it for me?"
 5002002010240,咲耶,"仲間だからね、忙しい時はお互い様さ
 私への『お願い』はとっておきの時に、ね","We're fellow idols, aren't we? I know how it\nfeels to be strapped for time. You can pay back the\nfavor when I'm in trouble, 'kay?"
 5002002010250,結華,"──これはありがとうって言わせないハラだな……？
-忙しいのはさくやんだって同じなのにさぁ","ーーI can't thank you enough, you're awesome!\nBut I wonder if you'll ever be in a rush like this?"
+忙しいのはさくやんだって同じなのにさぁ","──I can't thank you enough, you're awesome!\nBut I wonder if you'll ever be in a rush like this?"
 5002002010260,咲耶,"今はキミを送り出すのが私の仕事だよ
 ほらほら時間は大丈夫かい？","Right now I'm in a rush to get you where\nyou need to be going.\nLook here, have you got time to waste?"
 5002002010270,結華,"──あ～っもう！
-バタバタでごめんね！　いってきます！","ーーAah, already!\nSorry to trouble you! See you later!"
+バタバタでごめんね！　いってきます！","──Aah, already!\nSorry to trouble you! See you later!"
 5002002010280,咲耶,フフ、いってらっしゃい,"Haha, I'll be seeing you."
 5002002010290,咲耶,…………,......
 5002002010300,咲耶,ふう…………,Haa...
@@ -67,17 +67,17 @@ id,name,text,trans
 みんなで感謝祭の話を進めなくちゃいけないのに","Sorry... It looks like we might not be able plan\nanything. It would've been nice to get everyone\ntogether for Thanksgiving, too."
 5002002010330,恋鐘,"あっ、ううん！　忙しかとはよかことやけん！
 今は頑張らんといかん時やねって結華とも話し……","Ah, it's fine! It's good that everybody's\nbeen keepin' busy! Times like these we gotta\nkeep our heads up, I was talkin' with Yuika..."
-5002002010340,恋鐘,あああああっ──！！,Aaaaahーー!!
+5002002010340,恋鐘,あああああっ──！！,Aaaaah──!!
 0000000000000,プロデューサー,どうした！？,Did something happen!?
 5002002010350,恋鐘,うちのとっておきのお弁当～……,My precious bento～...
 5002002010360,恋鐘,"『ありがと～～！！ 　そい　ば～りすごかお弁当
-さっきゆびさし確認したとに……』","『Thank you～!! My super-duper bento,\nthanks so much for finding it for me, but...』"
+さっきゆびさし確認したとに……』","""Thank you～!! My super-duper bento,\nthanks so much for finding it for me, but..."""
 5002002010370,恋鐘,"『だれか食べてくれる人～～～
-おらんかなぁ？？？？？　ふぇ～～』",『Is there anyone who'd like to eat some～\nNot anybody????? Fuu～』
+おらんかなぁ？？？？？　ふぇ～～』","""Is there anyone who'd like to eat some～?\nNobody????? Fuu～"""
 5002002010380,咲耶,"ああ、恋鐘……
 忙しい時は仕方ないさ","Ahh, Kogane...\nYou're hopeless when you're in a rush."
 5002002010390,咲耶,"『ありがとう。それならお言葉に甘えさせてもらおう
-恋鐘の手作り、大切にいただくよ』","『Thank you. In that case, maybe I'll accept\nyour offer and indulge.\nI'll take my time and savor your cooking.』"
+恋鐘の手作り、大切にいただくよ』","""Thank you. In that case, maybe I'll accept your offer and indulge. I'll take my time and savor your cooking."""
 5002002010400,咲耶,けれど、ひとりで食べるのは……,"However, eating it alone..."
 5002002010410,咲耶,少しだけ…………,Just a little bit...
 info,produce_events/500200201.json,

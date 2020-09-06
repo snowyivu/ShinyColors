@@ -1,0 +1,32 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is so heartbreaking...you passed the first round, so I thought..."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"But it's not that simple, I guess..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","Still, for a newbie idol and a green producer, this wasn't a bad result at all."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！",I know we can get much farther...if only I was a better...
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,I'm giving you my opinion; I don't want to hear you wallowing in regret.
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you feel you're not good enough, then just grow into a better producer. Together with your idol."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go see her."
+7902001040040,社長,ああ、行ってこい,"Yeah, go."
+0000000000000,プロデューサー,霧子、二次審査は、残念だけど……,"Kiriko, about the second round..."
+7008001040010,霧子,不通過……だったんですね……,We didn't pass...right...
+0000000000000,プロデューサー,でも、俺は、いいところまで来たんだって思ってるぞ,"But...I think we did a fantastic job, regardless."
+7008001040020,霧子,プロデューサーさん……,Producer-san...
+7008001040030,霧子,"ありがとうございます……
+でも、そうだと思ってたので……大丈夫です",Thank you...just saying that...is enough...
+7008001040040,霧子,"どうしてダメだったのか……っていうのは
+わかってる……つもりで……","I know...exactly where I...went wrong, so..."
+7008001040050,霧子,"まだまだ……
+アイドルを楽しむっていうのは……できてないから……",I still...don't know...how to enjoy being an idol...
+0000000000000,プロデューサー,"(なるほど、俺が思っているより、
+霧子はずっとよくわかってるんだな……)",(I see. So Kiriko does get it...)
+0000000000000,プロデューサー,"そうか……
+それは、とっても大事で、とっても難しいことなんだろうな","I see...that's a really important, but also really hard thing to do."
+0000000000000,プロデューサー,じっくりやっていこう、霧子,"So let's keep on moving forward at our own pace, Kiriko."
+info,produce_events/700800104.json,
+Translator,,

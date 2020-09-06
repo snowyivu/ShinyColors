@@ -1,0 +1,26 @@
+id,name,text,trans
+4008001000120010,霧子,"わたし……変なところ……ありませんか……？
+ほ、包帯も……結び直さなきゃ……","Um...do I look weird...anywhere? Ah, I- I have to...wrap my bandages tighter..."
+0000000000000,プロデューサー,（身だしなみは問題ないよな……）,(Seems like she's not just worrying about her looks...)
+select,,綺麗に巻けてるぞ,"Don't worry, 
+they're wrapped perfectly."
+select,,"大丈夫、落ち着けば
+パーフェクトだ","You look fine. 
+Calm down, and you'll be perfect."
+select,,"もっと自信持っても
+いいんだぞ","Just be more 
+confident in yourself."
+4008001000120020,霧子,"ほんとですか……
+よかった……","Really...?
+I'm so glad..."
+0000000000000,プロデューサー,（よし、笑顔になったな！）,"(Alright, she's smiling now!)"
+4008001000120030,霧子,"は、はい……
+そう言っていただけるなら……大丈夫です……","Y-Yeah...
+If you think that...I'll be fine..."
+0000000000000,プロデューサー,（余裕が見えるな。よかった）,(Seems like she's calmer now.)
+4008001000120040,霧子,"は、はい……
+ありがとうございます……","Y-Yes...
+Thank you..."
+0000000000000,プロデューサー,（しまった、違うことを言えばよかったか……）,"(I messed up. I should've said something else, instead...)"
+info,produce_communication_cheers/400800100012.json,
+Translator,,
