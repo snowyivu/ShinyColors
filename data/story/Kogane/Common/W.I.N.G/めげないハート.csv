@@ -6,7 +6,7 @@ id,name,text,trans
 0000000000000,プロデューサー,……恋鐘？　大丈夫か？,...Kogane? Are you all right?
 1004001040030,恋鐘,"え……うわああ！　ぷ、プロデューサーか～！
 戻ってたんやね！　おかえりー","Oh... Whoa! P-producer～!
-You're back! Wecome."
+You're back! Welcome."
 0000000000000,プロデューサー,"なんか難しい顔してたけどどうした？
 悩み事か？","You were making a pretty sullen face there.
 What's up? Is something causing you worry?"
@@ -73,7 +73,7 @@ select,,そんなこと気にするな,"Don't worry
 about that."
 select,,"いつもの恋鐘は
 どこにいったんだ","Where did the
-usual  Kogane go?"
+usual Kogane go?"
 0000000000000,プロデューサー,なんのために俺がいるんだ,What am I here for?
 0000000000000,プロデューサー,"恋鐘が失敗したり、間違った時フォローするために
 俺はいるんだ","I'm here to cover for you when you fail or
@@ -86,7 +86,7 @@ Rather, keep making lots!"
 Thanks!"
 1004001040210,恋鐘,"うちはやっぱ、プロデューサーに迷惑かけると思う……
 けどその100倍、いや1万倍の笑顔を作ってみせるけん！","I think I'll keep makin' trouble for ya after all...
-But I'll make 100, no, 10 000 smiles for each time!"
+But I'll make 100, no, 10,000 smiles for each time!"
 0000000000000,プロデューサー,ああ、それでこそ恋鐘だ,"Yeah, that's my Kogane."
 1004001040220,恋鐘,"えへへ、プロデューサー
 これからもばり迷惑かけるけど……よろしゅうね！","Ehehe, producer. I'll make more trouble for ya,

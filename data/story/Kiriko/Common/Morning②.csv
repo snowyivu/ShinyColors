@@ -1,0 +1,32 @@
+id,name,text,trans
+1008001000210010,霧子,"はぁ……はぁ……
+着いた……","Aah...phew...
+I made it..."
+0000000000000,プロデューサー,"ど、どうしたんだ？　急いで来たみたいだけど……
+息があがっているようだし、大丈夫か……？","W-What's wrong? Looks like you rushed getting here...
+Are you alright? You're out of breath..."
+1008001000210020,霧子,"た、体力を……つけようって……走ってきました……
+でもペースを……ま、間違ってしまって……","I-I just had an idea...I thought about jogging straight...to the office...to build up some endurance...but, um, I got the pacing wrong..."
+0000000000000,プロデューサー,(走り込みを始めたのか、なるほど……),"(She picked up jogging, huh...)"
+select,,"俺も次からは一緒に
+走っていいか？","Next time,
+mind if I join?"
+select,,毎日続けよう,"What about you 
+do this everyday?"
+select,,自宅からか？,From your house?
+1008001000210030,霧子,"ほんとですか……？
+ひとりだと……恥ずかしくて……ついペースが……","Really...? I was so embarrassed...doing it on my own, I...um...kinda broke my pace, and..."
+1008001000210040,霧子,"だから、プロデューサーさんがいてくださると……
+とても……心強いです……！","And, um...if you were with me, Producer-san...that'd be so encouraging...!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1008001000210050,霧子,……ま、毎日……ですか……？,...E-Everyday...?
+1008001000210060,霧子,"は、はい……
+アイドルになったからには……がんばります……！","Y-Yeah...I'm an idol now, so...I'll try...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1008001000210070,霧子,"い、いえ……！　
+そこまで……では……","N-No...!
+Not from...that far..."
+1008001000210080,霧子,駅から事務所まで、少し遠回りしただけ……です,I just took...the long way from the station...to here...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100800100021.json,
+Translator,,

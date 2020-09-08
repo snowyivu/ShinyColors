@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（霧子が真剣な顔で雑誌を読んでいる……
+面白い記事でもあったのだろうか？）",(Kiriko's reading that magazine pretty intently...did an article pick up her interest?)
+1008001000510010,霧子,あ、今日の星座占い……,"Ah, today's horoscope..."
+1008001000510020,霧子,"……！
+ど、どうしよう……","...!
+W-What should I do..."
+0000000000000,プロデューサー,(きっと悪い結果だったんだな……),(Seems like she got a bad prediction for today...)
+select,,"ラッキーアイテムは
+何なんだ？","What's your
+lucky item?"
+select,,"悪い結果だとしても
+気にするな","Even if it's bad,
+don't mind it."
+select,,霧子は何座なんだ？,"What was your
+sign, again?"
+1008001000510030,霧子,"え、と……今日のラッキーアイテムは……
+「白のアクセサリー」でした……","Um...today's lucky item...
+""A white accessory""..."
+1008001000510040,霧子,"あ……！
+もしかして……包帯のことかも……！",Ah...! It might be talking about...my bandages...!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1008001000510050,霧子,"い、いえ……
+悪い結果というより……","N-No...
+U-um, it wasn't bad..."
+1008001000510060,霧子,"い、1位だったんですけど……
+どっちにしても……お、落ち着かないです……！","I'm having...the best day...out of all signs...
+Either way...I can't calm down...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1008001000510070,霧子,て、てんびん座です……！,I'm...a libra...!
+1008001000510080,霧子,"1位……だったので……
+ちゃんと1位らしく頑張れるかなって……不安です……","I have...the best luck today, so...um, I can't help but think...I have to give it my all, and...I can't calm down..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100800100051.json,
+Translator,,

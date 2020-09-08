@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おはよう、霧子
+空を気にしているようだけど、どうかしたのか？","Good morning, Kiriko. What's wrong? Why are you looking so much at the sky?"
+1008001000110010,霧子,"びょ、病院のシーツ……
+たくさん、干してきたんですけど……","I...I washed a lot of sheets, from the hospital...and they're drying right now..."
+1008001000110020,霧子,お天気が……心配で……,I'm just wondering...if it'll rain...
+0000000000000,プロデューサー,(天気、気になるみたいだな……),(So she's worrying about the weather...)
+select,,"今日の予報はずっと
+晴れるって聞いたよ","Today's forecast
+said today'll be sunny."
+select,,"いつも病院の備品は
+霧子が洗濯してるの？","You're always washing
+things at the hospital?"
+select,,"雨さえ降らないなら
+ちゃんと乾くさ","So long it doesn't rain
+I'm sure they'll dry up."
+1008001000110030,霧子,"ほ、ほんとですか……？
+晴れてて……よかったです……！","R-Really...?
+I'm so glad...it won't rain...!"
+1008001000110040,霧子,"それなら……
+シーツも、お日さまのにおいですね……♪","That means...all the sheets, will smell like sunshine...♪"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1008001000110050,霧子,"え、と……洗濯するのは……
+お、お手伝いできるときだけ……ですけど……",Umm...I only wash sheets...and other things...when I have time to help out...
+1008001000110060,霧子,"屋上に干すと……みんな風になびいて……
+キラキラ白くて……とっても素敵なんです……！",But..drying them at the rooftop...seeing how they wave along with the wind...it's all...so nice...!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1008001000110070,霧子,"は、はい……
+ほんとに……降らないといいな……","Y-Yeah...
+I really hope...it doesn't rain..."
+1008001000110080,霧子,"ちゃんと……減菌したシーツで
+眠ってもらいたくって……","I...disinfected them, so...I want them to...rest well..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100800100011.json,
+Translator,,

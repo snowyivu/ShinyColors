@@ -9,7 +9,7 @@ That went really badly..."
 There's nothing to feel sorry for."
 0000000000000,プロデューサー,"けど、レッスンのときよりずっと動きが小さかったし、
 自己アピールのときだって──","But, well, compared to how you do in lessons, your movements were infinitely more reserved, and even during your self introduction, you──"
-0000000000000,プロデューサー,（あれ……また腕を押さえてる……）,"(Huh?...She's holding onto that wound, again...)"
+0000000000000,プロデューサー,（あれ……また腕を押さえてる……）,"(Huh?...She's holding onto that bandage, again...)"
 0000000000000,プロデューサー,"緊張してたってだけなら、かまわないんだが……
 何か、理由があるんじゃないのか？","...If you were just nervous, that would all be understandable...but there's another reason behind what happened today, right?"
 1008001030020,霧子,"い、いえ……！
@@ -41,35 +41,31 @@ I just...wear bandages before getting hurt, um..."
 1008001030110,霧子,それで──,And──
 0000000000000,プロデューサー,それで、あんなにぎこちなくなったわけか……,And so that explains the clumsy performance...
 select,,"そういう優しさは、
-大事にしたいけどな","Though, well, it's not like I want you to change, either."
+大事にしたいけどな","Though, well...
+Treasure that."
 select,,"はは、大丈夫だ
 落ち込むことはないよ","Haha, it'll be fine.
 Don't worry about it."
 select,,"わかったよ。そのままの
-霧子を見せてくれ","Alright, got it. 
-Keep on showing me how you truly are, Kiriko."
-0000000000000,プロデューサー,そういう優しさは、大事にしたいけどな,"Though, well, it's not like I want you to change, either."
+霧子を見せてくれ","Got it. Show me
+all you are, Kiriko."
+0000000000000,プロデューサー,そういう優しさは、大事にしたいけどな,"Treasure that kindness of yours, Kiriko. That's what I want."
 1008001030120,霧子,"……？　でも……
 オーディションも上手くいきませんし……","...? But...
 I messed this audition up..."
 1008001030130,霧子,"プロデューサーさんにも、
-ご迷惑をおかけしてしまいましたし……","And I don't want to make your work any harder,
-Producer-san..."
+ご迷惑をおかけしてしまいましたし……","And I don't want to make your work any harder, Producer-san..."
 0000000000000,プロデューサー,いや、俺にとっては迷惑じゃない,"You're not doing that, at all."
 0000000000000,プロデューサー,"オーディションは、また次に頑張ればいい
-大切なのは……霧子がどうしたいかだ","If it's about the auditions, just give it your all next time.
-But what I really care about, what matters most, is what you want to do yourself."
+大切なのは……霧子がどうしたいかだ","If it's about the auditions, just give it your all next time. But what I really care about, what matters most, is what you want to do yourself."
 1008001030140,霧子,わたしが……ですか……？,What I...Really...?
 0000000000000,プロデューサー,"ああ。霧子のその気遣いとか……思いやりとかは、
-いつか必ず、もっと多くの人に届く","Yes. Kiriko, your kindheartedness...your thoughtfulness...
-I'll make sure more and more people come to notice it."
+いつか必ず、もっと多くの人に届く","Yes. Kiriko, your kindheartedness...your thoughtfulness...I'll make sure more and more people come to notice it."
 1008001030150,霧子,……！,...!
 0000000000000,プロデューサー,"はは、うん。……ちょっと変わってるけど、
-霧子のそういう優しさを、大切にしていこう","Haha, yeah. It can be a bit eccentric at times, but...
-I do think your kindliness is something worth treasuring."
+霧子のそういう優しさを、大切にしていこう","Haha, yeah. It can be a bit eccentric at times, but...I do think your kindliness is something worth treasuring."
 1008001030160,霧子,"プロデューサーさん……
-そんなふうに言ってもらえたのは、初めてです……","Producer-san...
-It's the first time anyone's said something like that to me..."
+そんなふうに言ってもらえたのは、初めてです……",Producer-san...it's the first time anyone's said something like that to me...
 1008001030170,霧子,"その……
 わたし、頑張ります……！","Um...
 I'll try even harder...!"
@@ -78,8 +74,7 @@ I'll try even harder...!"
 Don't worry about it."
 1008001030180,霧子,……そう……でしょうか……,Will it be...really?...
 0000000000000,プロデューサー,"うん。もし、ライバルだからって遠慮せずにやって……
-上手くいったとしても、霧子は後悔するだろ？","Yeah. Say you went against someone else, and you tried to win, relentlessly...
-You'd just end up regretting it regardless of the result. Am I wrong?"
+上手くいったとしても、霧子は後悔するだろ？","Yeah. Say you went against someone else, and you tried to win, relentlessly...you'd just end up regretting it regardless of the result. Am I wrong?"
 1008001030190,霧子,"それは……
 そうかも……しれません……","That's...
 That's...you're right..."
@@ -90,8 +85,7 @@ That's why it's fine, just do what feels right to you."
 でも……本当に今のままで、いいのでしょうか……","Y-Yeah...
 But...is it really okay...to keep on going like this?..."
 0000000000000,プロデューサー,"ああ。霧子は霧子らしく、
-大切なものは大切にして、守りたいものは守って","It is. Kiriko, just be yourself.
-Cherish all that's precious to you, and protect what you feel is worth it."
+大切なものは大切にして、守りたいものは守って","It is. Kiriko, just be yourself. Cherish all that's precious to you, and protect what you feel is worth it."
 0000000000000,プロデューサー,そして、成長していけばいいんだ,"And keep on growing, the way you are."
 1008001030210,霧子,プロデューサーさんは、見ていてくれますか……？,"Producer-san, will you be watching over me...?"
 0000000000000,プロデューサー,"もちろんだ。
@@ -101,18 +95,16 @@ Cherish all that's precious to you, and protect what you feel is worth it."
 わたし……頑張れそうです……！","Y, yeah...!
 I...feel like I can keep going...!"
 0000000000000,プロデューサー,"わかったよ。そのままの
-霧子を見せてくれ","Alright, got it. 
-Keep on showing me how you truly are, Kiriko."
+霧子を見せてくれ",Keep on showing me everything you are.
 0000000000000,プロデューサー,"なんとなく、霧子に感じていた魅力がなんなのかって、
 わかってきたんだ",I get now why I couldn't take my eyes off you back then.
 0000000000000,プロデューサー,"すごく心配性で、人のことばかり考えて……
-きっと、そういうところなんだよな",You're such a worrywart. And you're always putting others before yourself. I'm sure that's why.
+きっと、そういうところなんだよな",You're such a worrywart. And you're always putting others before yourself. I'm sure that's at least part of it..
 1008001030230,霧子,"そう……でしょうか……
 ちょっと……恥ずかしいです……","Is that...so...
-That's...embarrassing..."
+That's...so embarrassing..."
 1008001030240,霧子,"自分に自信を持つようなことって
-全然、なくって……","I never felt confident in who I am,
-and I doubt I can now...so, um..."
+全然、なくって……","I never felt confident in who I am, and I doubt I can now...so, um..."
 1008001030250,霧子,"だから、そのままのわたしっていうの……
 ちょっと難しいかも……です……","Um...showing you how I am...
 might be...a bit, hard..."
@@ -120,8 +112,7 @@ might be...a bit, hard..."
 ……それでいいんだ","Haha, yeah.
 ...But that's fine."
 0000000000000,プロデューサー,"難しく考えなくていい
-俺が見てるから","You don't have to think too hard about it.
-I'll just be by your side, always watching."
+俺が見てるから","You don't have to think too hard about it. I'll just be by your side, always watching."
 1008001030260,霧子,は……はい……！,Y-Yeah...!
 1008001030270,霧子,"プロデューサーさんが見ていてくださるなら
 わたし……大丈夫かもしれません……！","Producer-san, if you're watching over me...

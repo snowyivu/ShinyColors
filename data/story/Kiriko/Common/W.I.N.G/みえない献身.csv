@@ -7,7 +7,7 @@ id,name,text,trans
 お、おはようございます……！","...Ah, Producer-san.
 G-Good morning...!"
 0000000000000,プロデューサー,"どうしたんだ、こんな朝早くに？
-早朝レッスンの予定、入ってたかな","What's the matter? You're here pretty early, but...did you have any lessons for this morning?"
+早朝レッスンの予定、入ってたかな","What's the matter? You're here pretty early, but...did you have any lessons this early in morning?"
 0000000000000,プロデューサー,まだユニットのみんなも来てないようだけど……,Seems like no one else is here yet...
 1008001020040,霧子,す、少し早めに来てしまいました……！,I-I just got here early..!
 0000000000000,プロデューサー,それで……掃除をしていたのか？,And so...you were cleaning the room?
@@ -31,7 +31,7 @@ If we took our lessons in a dusty room..."
 せめて……こんな形でも、みんなの役に立ちたくて……！","When I think I'm just dragging everyone down with me...I just want to be helpful in some way, even if it's just small things like these...!"
 0000000000000,プロデューサー,……そうか……なるほどな,"...I see. "
 0000000000000,プロデューサー,（……ん？）,(...Hm?)
-0000000000000,プロデューサー,（霧子、ケガのところを押さえてるけど……痛むのかな）,(She's holding onto that wound she had the other day...does it hurt?)
+0000000000000,プロデューサー,（霧子、ケガのところを押さえてるけど……痛むのかな）,(She's holding onto that wound she had the other day...is she in pain?)
 0000000000000,プロデューサー,"……とりあえず、霧子の気持ちはわかった
 なんとなくだけどな","...Anyhow, I get what you mean, Kiriko. Sort of."
 1008001020130,霧子,は、はい……,Y-Yeah...
@@ -40,7 +40,7 @@ If we took our lessons in a dusty room..."
 1008001020140,霧子,……！,...!
 0000000000000,プロデューサー,もしかして、普段もこっそり掃除とかしてるのか？,"Don't tell me you're taking the time to clean other places, too?"
 1008001020150,霧子,い、いえ……,N-no...
-0000000000000,プロデューサー,（まただ、包帯のところをつかんで……）,(She's holding that wound again...)
+0000000000000,プロデューサー,（まただ、包帯のところをつかんで……）,(She's holding onto that wound again...)
 1008001020160,霧子,"その……
 た、大したことは……できないんですけど……","Um...
 I, It's not like...I'm doing that much..."
@@ -56,7 +56,8 @@ I don't get praised for it, too often...so..."
 だったら俺も嬉しいよ","Haha, that so?
 That makes two of us, then."
 select,,"そういうところは、
-霧子の魅力だと思うぞ","I think that part of you is one of your biggest strengths, Kiriko."
+霧子の魅力だと思うぞ","That might be part of
+your charm, Kiriko."
 select,,"じゃあ……
 俺にも掃除させてくれ","Well, then...
 Let me help out."
@@ -64,17 +65,16 @@ select,,"それは、霧子のためにも
 なるって思うぞ","I'm sure that'll be for
 your own good, too."
 0000000000000,プロデューサー,"そういうところは、
-霧子の魅力だと思うぞ","I think that's one of your
-biggest strenghts, Kiriko."
+霧子の魅力だと思うぞ","That might be part of your charm, Kiriko."
 1008001020210,霧子,"……えっ
 そ、そんな……！","...Eh?
 N, not at all..!"
 1008001020220,霧子,考えたこと……ありませんでした……,I've never...thought about that...
 0000000000000,プロデューサー,"いや、そうやってみんなを支えていこうって気持ちは
-アイドルとして、必ずプラスになるはずだ","Even just that mentality of wanting to help those surrounding you will surely turn into a plus for you, eventually."
+アイドルとして、必ずプラスになるはずだ","Even just that mentality of wanting to help those surrounding you will surely be beneficial to your career, eventually."
 1008001020230,霧子,"は、はい……
 魅力……ですか","S-sure...
-Strengths, huh."
+Charm, huh."
 1008001020240,霧子,わ、わたしの中にも、あるんでしょうか……,"Do I even have...anything like that, in me?..."
 0000000000000,プロデューサー,"ああ
 ……でも霧子自身が、それに気づかなきゃいけないな","You do.
@@ -98,8 +98,7 @@ Idols and producers are in this together."
 わたし、頑張ります……！","Yeah...!
 I'll give it my best...!"
 1008001020300,霧子,"あ……違いますね
-プロデューサーさん、一緒に……頑張りましょう！","Ah...I got it wrong...
-Um, Producer-san...let's give it our best...together!"
+プロデューサーさん、一緒に……頑張りましょう！","Ah...I got it wrong...um, Producer-san...let's give it our best...together!"
 0000000000000,プロデューサー,みんなのためってだけじゃない,It's not just for everyone else.
 1008001020310,霧子,"は、はい……わたしも……
 気持ち良く……練習できます","Y-Yes...It means...

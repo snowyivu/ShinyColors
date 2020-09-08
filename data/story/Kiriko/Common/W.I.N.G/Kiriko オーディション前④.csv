@@ -2,9 +2,11 @@ id,name,text,trans
 4008001000210010,霧子,"あの……今日は……気温も高いので……
 具合の悪くなる人が……いるかもしれません……","Um...today's pretty hot, so...there might be people...who aren't feeling so well..."
 0000000000000,プロデューサー,（ライバルの心配までしてるのか……）,(She's even worrying about her rivals...)
-select,,俺も気を配るよ,"Don't worry, I'll keep an eye out if anything happens."
+select,,俺も気を配るよ,"Don't worry, 
+I'll keep an eye out."
 select,,霧子は優しいな,"Kiriko, you're so sweet."
-select,,霧子は心配性だな,"You really are a worrier, Kiriko."
+select,,霧子は心配性だな,"You really are a worrier, 
+Kiriko."
 4008001000210020,霧子,"ほ、ほんと……ですか……！
 プロデューサーさんも……気をつけてくださいね……",R-Really...! Producer-san...take care too...okay?
 0000000000000,プロデューサー,（これで、不安は取りのぞけたな）,"(And with this, she can focus on her performance.)"

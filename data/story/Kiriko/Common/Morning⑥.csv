@@ -1,0 +1,31 @@
+id,name,text,trans
+1008001000610010,霧子,……,...
+0000000000000,プロデューサー,（霧子、朝から熱心に何を作っているんだ……？）,"(Kiriko's making something eagerly, from this early...?)"
+1008001000610020,霧子,"ここを……こうして……
+こうすれば……","This...goes here...
+And doing this..."
+0000000000000,プロデューサー,"（すごく集中してるみたいだけど……
+そろそろ時間だし、声をかけるか）","(She's really focused, but...it's about time we leave. Guess I'll talk to her.)"
+select,,それ、編みぐるみ？,"Is that a
+stuffed animal?"
+select,,そろそろ時間だぞ,It's time to go.
+select,,後は俺が編もうか？,"Want me to 
+do the rest, later?"
+1008001000610030,霧子,"わ……プ、プロデューサーさん……！
+はい、かわいい編みぐるみさん、です……♪","Ah...P-Producer-san...! 
+Y-Yes, it's a cute Stuffy-san...♪"
+1008001000610040,霧子,"──あ、もう……こんな時間……
+き、気づきませんでした……","──Ah, it's...already this late...
+S-Sorry...I didn't notice..."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1008001000610050,霧子,は、はい……！,O-Okay...!
+1008001000610060,霧子,"すみません……
+つい……夢中になってしまって……！",I'm so sorry...I was so focused...I didn't notice...!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1008001000610070,霧子,"え……！
+プ、プロデューサーさんが……続きを……？","Eh...! P-Producer-san, you...?"
+1008001000610080,霧子,"あの……こ、今度……
+……編み方の本を持ってきます",U-Um...I-I'll...bring a book on knitting with me...next time.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100800100061.json,
+Translator,,
