@@ -1,0 +1,31 @@
+id,name,text,trans
+1020001001110010,透,ふぁ……──,Yawn...──
+0000000000000,プロデューサー,"なんだ？
+寝てないみたいな顔してるな","What's up?
+You look like you haven't gotten any sleep."
+0000000000000,プロデューサー,"動画でも観てたか
+よく休んでくれって言ったつもりなんだけど","Watching videos and the like, I'm guessing? I did say to make sure to get some good rest, though, right?"
+1020001001110020,透,"あ、うん
+メッセありがとね","Ah, yeah.
+Thanks for that message."
+select,,"今日はちゃんと
+寝るんだぞ","Let's get some good
+sleep tonight, then."
+select,,しっかり休んでくれ,Rest up properly.
+select,,"夜更かしは
+ほどほどに","Stay up late
+in moderation."
+1020001001110030,透,大丈夫大丈夫,"No worries, no worries."
+1020001001110040,透,はい,Yep.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001001110050,透,"うん。休んでる
+でも──","Yeah. I'm resting.
+But, y'know──"
+1020001001110060,透,"プロデューサーも絶対ハマると思うんだけどな
+あのドラマ","Something tells me you were totally into it too, right? That drama."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001001110070,透,はいはい,"Yep, yep."
+1020001001110080,透,プロデューサーもね,"And you too, Producer."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100111.json,
+Translator,Emelia,

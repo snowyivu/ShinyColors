@@ -1,0 +1,37 @@
+id,name,text,trans
+7017001010010,あさひ,ここで、こうして……ターン！,"Here, like this... Turn!"
+7017001010020,あさひ,うーん……,Hmm...
+0000000000000,プロデューサー,あさひ、一次審査の結果が──,"Asahi, about the first round of judging result──"
+7017001010030,あさひ,──あ、ちょうどよかったっす、プロデューサーさん！,"──Oh, you come at the right time, Producer-san!"
+7017001010040,あさひ,この前のステップ、また見てもらいたいんすけど！,"These steps from before
+I'd like you to see it again!"
+0000000000000,プロデューサー,"あ、ああ、もちろんいいんだが
+ちょっと今は先に話さなくちゃならないことがある","O-Oh, of course that's okay, but
+I have something I need to tell you first."
+7017001010050,あさひ,？　なんすか？,What is it?
+0000000000000,プロデューサー,『W.I.N.G.』の一次審査、無事に通過したぞ,"You have successfully passed
+the first round of ""W.I.N.G""!"
+7017001010060,あさひ,一次審査……そうなんすね,First-round... okay then.
+0000000000000,プロデューサー,ん？　あまり嬉しくないか？,Hm? Are you not happy about it?
+7017001010070,あさひ,嬉しい？,Happy?
+7017001010080,あさひ,うーん、どうなんすかね……,"Hmm, how do I feel...?"
+0000000000000,プロデューサー,"そ、そうか……
+まぁ、わかったよ","T-That so...
+Well, I understand."
+0000000000000,プロデューサー,ところで、この前のステップの話だったよな？,"By the way,
+weren't you going to tell me about those steps?"
+7017001010090,あさひ,そっすよ！　プロデューサーさん！,Yeah! Producer-san!
+7017001010100,あさひ,"あれからわたしなりに色々試してみたんす！
+だから、見て欲しいっす","Since then, I've tried various things!
+So I want you to see it!"
+0000000000000,プロデューサー,わかった、見せてみてくれ,"Got it, let me see it."
+7017001010110,あさひ,ありがとっす！,Thanks!
+7017001010120,あさひ,このステップなんすけどね？,It's this step right here...
+0000000000000,プロデューサー,"（あくまでパフォーマンスを
+磨き上げることにこだわる姿勢……）","(An attitude which relentlessly
+pursuing improvement for her performance...)"
+0000000000000,プロデューサー,"（危なっかしい面もあるが
+あさひはすごい才能の持ち主なのかもしれないな……）","(There're some alarming concerns,
+but no doubt Asahi have a great talent...)"
+info,produce_events/701700101.json,
+Translator,Autumn Cloud,

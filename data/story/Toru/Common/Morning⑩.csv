@@ -1,0 +1,26 @@
+id,name,text,trans
+0000000000000,プロデューサー,──カバンについてるの、マスコットか？,"──Say, is that thing on your bag some mascot, or?"
+1020001001010010,透,これ？　うん,This? Yeah.
+1020001001010020,透,雛菜につけられた,Got stuck on there by Hinana.
+0000000000000,プロデューサー,はは、つけられちゃったのか,"Haha, she stuck it on there for you?"
+select,,仲いいな,"You get along
+well, huh."
+select,,"可愛い
+マスコットだな","What a cute
+mascot, huh?"
+select,,透は優しいな,"You're a kind
+person, aren't
+you, Toru?"
+1020001001010030,透,──ふふっ。うん,──Hahah. Yeah.
+1020001001010040,透,まぁね,"Well, y'know."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001001010050,透,そう？,Is it?
+1020001001010060,透,"──そうかも
+初めてちゃんと見た","──Maybe it is.
+First time I looked at it properly."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001001010070,透,え？　うーん……,Eh? Hmm...
+1020001001010080,透,優しいとかってことじゃないけど……,"It wasn't really being, like, kind or anything, though..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100101.json,
+Translator,Emelia,

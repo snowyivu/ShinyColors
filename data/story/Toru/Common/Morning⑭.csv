@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000,プロデューサー,透、運命って信じるか？,"Toru, d'you believe in fate?"
+1020001001410010,透,──えっ、何……,"──Eh, what..."
+1020001001410020,透,……,...
+0000000000000,プロデューサー,"ああ、いや
+すまん──","Aah, uh, sorry──"
+select,,"ラス１のおにぎり、
+好きな具だったんだ","Just, the last
+onigiri has your
+favorite topping."
+select,,"テレビで
+さっき言ってて","They were talking
+about it on TV,
+earlier."
+select,,冗談だよ,It's a joke.
+1020001001410030,透,"……ふふっ、コンビニで？
+それは──","...fufu, from the conbini?
+That's gotta be──"
+1020001001410040,透,運命だね,"fate, for sure."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001001410050,透,へぇ……,Heeh...
+1020001001410060,透,"テレビなんて、適当でしょ
+プロデューサーがどう思うかじゃない？","TV's pretty arbitrary, right?
+Maybe the real question's what you think of it, Producer?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001001410070,透,……ふーん,...hmm.
+1020001001410080,透,ヘンな冗談だね,"Weird kind of joke, isn't it."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100141.json,
+Translator,Emelia,

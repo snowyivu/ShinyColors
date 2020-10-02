@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,お、いいもの飲んでるな,"Hey, got something good to drink there, huh?"
+1020001001310010,透,え？　うん,Huh? Yeah.
+1020001001310020,透,飲む？,Wanna?
+0000000000000,プロデューサー,──こら,"──C'mon,"
+select,,からかうんじゃない,"don't just mess
+around with me."
+select,,飲まない,I'm not gonna.
+select,,透が飲んでくれ,"just drink it, Toru."
+0000000000000,,★選択肢①【からかうんじゃない】PERFECT,★選択肢①【からかうんじゃない】PERFECT
+1020001001310030,透,あははっ、ごめん,Ahahah. Sorry.
+1020001001310040,透,"炭酸平気なら
+もう１本あるよ","If you're good with fizzy stuff,
+I've still got another one."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000,,★選択肢②【飲まない】GOOD,★選択肢②【飲まない】GOOD
+1020001001310050,透,えー,Eeeh.
+1020001001310060,透,まぁ、もう空だけどね,"Well, it was already empty, though."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000,,★選択肢③【透が飲んでくれ】NORMAL,★選択肢③【透が飲んでくれ】NORMAL
+1020001001310070,透,……あ、うん,...ah. Sure.
+1020001001310080,透,飲んでるけど……,"I'm doing that, though..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100131.json,
+Translator,Emelia,

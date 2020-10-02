@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000,プロデューサー,ふぁ……──,Yawn...──
+1020001001510010,透,寝てないみたいな顔だね,Looks like you haven't gotten any sleep.
+0000000000000,プロデューサー,──あ、すまん,"──Ah, sorry."
+1020001001510020,透,動画とか見てた？,Were you watching videos or something?
+select,,仕事だよ、仕事！,"Work, it was work!"
+select,,"動画なら
+いいんだけどな","Would've been nice
+if it was videos."
+select,,なんでそうなるんだ,What's up with you?
+1020001001510030,透,ふふっ、何,Fufu. What's this?
+1020001001510040,透,忙しいアピールってやつなの？,The busy-type appeal point?
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1020001001510050,透,うわ、ごめん,"Oh, woah. Sorry."
+1020001001510060,透,"なんか深刻だね……
+頑張って","This suddenly went kind of deep...
+Do your best."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1020001001510070,透,……ごめんね,...sorry about that.
+1020001001510080,透,"ちょっと
+冗談言っただけ",I was just making a little joke.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102000100151.json,
+Translator,Emelia,

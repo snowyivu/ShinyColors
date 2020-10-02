@@ -1,0 +1,20 @@
+id,name,text,trans
+0000000000000,プロデューサー,"あさひ、いよいよ『W.I.N.G.』の舞台だ
+準備はいいか？","Asahi, it's finally the stage of ""W.I.N.G."".
+Are you ready?"
+6017001010010,あさひ,もう出ていいんすか！　じゃあ行ってくるっす！,"Is it my time to go!? Then, I'm goin'!"
+0000000000000,プロデューサー,待て待て！　出番はもう少し後だから……,"Wait, wait! Your turn is still a bit later..."
+0000000000000,プロデューサー,まぁ、でもその調子なら何も心配はいらないな,"Well, if you're this hyped,
+then I guess I don't need to worry about anything."
+6017001010020,あさひ,待ちきれないっすよ～、早く出番来ないっすか～？,"I can't wait any longer～
+Can't I get my turn earlier～?"
+6017001010030,あさひ,"最高の舞台で、最高のパフォーマンス……
+あ～！　ワクワクするっす～","The best stage, the best performances...
+Oh～! It's exciting～"
+0000000000000,プロデューサー,そのワクワク、俺にも伝わってくるぞ,"I'm also infected by that excitement, you know."
+0000000000000,プロデューサー,"よし……そろそろいいぞ！
+ファンにもその感情、伝えてこい！","Okay... It's about time!
+Spread that feeling to the fans!"
+6017001010040,あさひ,はいっす！,Yes!
+info,produce_events/601700101.json,
+Translator,Autumn Cloud,
