@@ -1,0 +1,26 @@
+id,name,text,trans
+4020001000210010,透,なんか、落ち着かなくて──,I kinda... can't calm down for some reason──
+0000000000000,プロデューサー,（……珍しいな、透）,(...that's pretty rare for Toru.)
+select,,"飲み物でも
+取ってこようか？","Want me to get
+something to
+drink for you?"
+select,,"程よい緊張が結果を
+出したりもするぞ","The right amount
+of pressure can
+give results, too."
+select,,大丈夫だ！,It'll be okay!
+4020001000210020,透,"ううん、いい
+──あーでも、気持ち嬉しい","No, that's fine.
+──But, uh, I'm happy. For the thought. Thanks."
+0000000000000,プロデューサー,（よかった、リラックスしてくれたのかな）,(That's a relief. Hopefully she relaxed a little.)
+4020001000210030,透,"ふふ、そう？
+じゃあいっか","Fufu. That so?
+Whatever, then."
+0000000000000,プロデューサー,（いつもの雰囲気に戻ってくれた）,"(Back to her normal mood, phew.)"
+4020001000210040,透,"えー
+根拠ないって、それ","Eehh?
+That's plain baseless. C'mon."
+0000000000000,プロデューサー,（おっと、逆効果だったか……？）,(Uh-oh. Did that backfire...?)
+info,produce_communication_cheers/402000100021.json,
+Translator,Emelia,

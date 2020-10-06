@@ -1,0 +1,25 @@
+id,name,text,trans
+4020001000110010,透,"ステージの袖って
+緊張感あるね","There's this kinda, um,
+nervous feel in the stage wing, huh."
+0000000000000,プロデューサー,（ああ、緊張しているのか──）,"(Aah, she might be getting nervous herself──)"
+select,,俺も緊張してるよ,"I'm nervous too,
+don't worry."
+select,,固くならなくていい,"You don't need
+to get so stiff."
+select,,深呼吸しよう,"Take some
+deep breaths."
+4020001000110020,透,"ふふっ
+ファイト","Fufu.
+Fight."
+0000000000000,プロデューサー,（……緊張、ほぐれたんだったらいいけど）,"(...if we've loosened up a little, that's good, at least.)"
+4020001000110030,透,"え？　うん
+どっちかいうと柔らかいかな","Eh? Sure.
+I guess I'm already feeling kinda loose, maybe?"
+0000000000000,プロデューサー,（はは……緊張してなさそうだ）,(Haha... seems like she wasn't all that nervous.)
+4020001000110040,透,"あー……
+緊張してるってわけじゃないけど","Aah...
+I wasn't really, like, getting at being nervous, though."
+0000000000000,プロデューサー,（しまった、別の言葉をかけるべきだったか……！？）,(Shoot. Maybe I should've tried saying something else...!?)
+info,produce_communication_cheers/402000100011.json,
+Translator,Emelia,

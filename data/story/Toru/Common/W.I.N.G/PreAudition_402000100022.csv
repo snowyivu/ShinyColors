@@ -1,0 +1,27 @@
+id,name,text,trans
+4020001000220010,透,"どう
+いけてる、今日？","Well.
+Looking good? Today."
+0000000000000,プロデューサー,（そうだな────）,(That is the question──)
+select,,すごく素敵だ、透,"Wonderful,
+Toru."
+select,,"自信がある顔
+してるぞ","Your face says
+you've got
+confidence."
+select,,輝くばかりだ,"Absolutely
+radiant."
+4020001000220020,透,"え、何……
+やばいね","Eh? Woah...
+Impact alert."
+0000000000000,プロデューサー,（あ、いい顔になった）,"(Ah, she's smiling now.)"
+4020001000220030,透,"ふふっ、うん
+あるよ","Fufu. Yeah.
+I got it."
+0000000000000,プロデューサー,（よし、そのまま本番だ！）,"(Alright, let's take that to the limelight!)"
+4020001000220040,透,"もう、いいって
+ほんとのこと言ってくれれば","Jeez, that's enough.
+Could've said something real instead."
+0000000000000,プロデューサー,（……っ、うまく言えなかった）,(──...I really didn't say that right...)
+info,produce_communication_cheers/402000100022.json,
+Translator,Emelia,
