@@ -10,8 +10,8 @@ id,name,text,trans
 select,,"もっと大きい
 仕事を見せてあげよう","Let's show them
 a bigger job."
-select,,良い家族じゃないか,"They're a good
-family, aren't they."
+select,,良い家族じゃないか,"They're a great
+family, aren't they?"
 select,,"確かに、
 少し恥ずかしいな","Sure, It's a little 
 embarrassing."
@@ -26,13 +26,15 @@ Let's create days like that!"
 ふゆのこと、応援してくれるし……","Well... sure is.
 If it's Fuyu, they will support me."
 1018001000710060,冬優子,"良い家族って、いまいちよくわかんないけど……
-悪くはない、かな","A great family isn't something Fuyu really understand...
+悪くはない、かな","A great family isn't something 
+Fuyu really understand...
 It's wrong, isn't it..."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1018001000710070,冬優子,……あんたに言われると、ちょっと腹立つわね,Being told this by you is a bit offending.
 1018001000710080,冬優子,"ふゆが言うのはいいけど、
 他人に言われるといやなの。わかる？","It's okay if Fuyu says it herself,
-but being told by others is a different case. Get it? "
+but being told by others is a different case.
+Get it? "
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101800100071.json,
 Translator,Autumn Cloud,
