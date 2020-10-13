@@ -163,7 +163,7 @@ images/tips/produce_top/002.jpg,tutorial/produce_top_002.png,7
 images/tips/produce_top/003.jpg,tutorial/produce_top_003.png,7
 images/tips/produce_top/004.jpg,tutorial/produce_top_004.png,7
 images/tips/produce_top/005.jpg,tutorial/produce_top_005.png,7
-images/ui/game_event/parts_button.json_image,game_event_button.png,3
+images/ui/game_event/parts_button.json_image,game_event_button.png,4
 images/ui/start/start_notice.jpg,start_notice.jpg,8
 images/ui/concert/parts.json_image,concert_parts.png,16
 images/ui/tutorial/parts.json_image,parts_tutorial.png,9
@@ -257,7 +257,7 @@ images/ui/init/parts.json_image,init_parts.png,10
 images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,12
-images/ui/common/parts.json_image,common_parts.png,28
+images/ui/common/parts.json_image,common_parts.png,29
 images/ui/common/parts_icons.json_image,common_parts_icons.png,21
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/true_end_teaching/ready/parts.json_image,true_end_ready.png,2
@@ -567,3 +567,16 @@ images/ui/concert_result/parts_effect.json_image,concert_result_parts_effect.png
 images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,7
 images/ui/raid_concert/parts_audience.json_image,raid_concert_audience.png,2
 images/ui/raid_concert/parts_effect.json_image,raid_concert_audience_effect.png,2
+images/content/idols/name/b38595f958abcc285d0eab78ea2b3b09_1030170020.png,cards/asahi_p_sr_2.png,2
+images/content/support_idols/name/121953fcf220a9f4bddff02179a37d78_2030100010.png,cards/chiyoko_s_sr_1.png,7
+images/content/support_idols/name/f1d94a586e49599c354c95a9e5bd91e6_2030020030.png,cards/hiori_s_sr_3.png,7
+images/content/idols/name/a77b7ff3de72c24d33f09ad1543e8217_1030040010.png,cards/kogane_p_sr_1.png,8
+images/content/idols/name/340a18641c774c18109f12e2456e1ec8_1030190010.png,cards/mei_p_sr_1.png,2
+images/content/idols/name/23ec9a30a7105f0fabcb7aa07a713b84_1030190020.png,cards/mei_p_sr_2.png,2
+images/content/idols/name/8e93974368b23746cb85636a0ae862af_1040130010.png,cards/natsuha_p_ssr_1.png,8
+images/content/support_idols/name/139486b850f3a71cabcb735b434345cc_2040120020.png,cards/rinze_s_ssr_2.png,4
+images/content/idols/name/a53473de8f533fd0bef7943cd9e574b4_1030070010.png,cards/yuika_p_sr_1.png,8
+images/content/support_idols/name/53c29ad856326e61fb2ec3922d1164ad_2040070010.png,cards/yuika_s_ssr_1.png,7
+images/content/idols/name/15990bcce9069bd7af834d6235f39a92_1040200020.png,cards/toru_p_ssr_2.png,1
+images/content/support_idols/name/6522011931dfd7c15bea4d6df6fe4731_2040110040.png,cards/juri_s_ssr_4.png,1
+images/content/idols/name/c16f6034f53f5303c264831515ef0d9a_1040210010.png,cards/madoka_p_ssr_1.png,1
