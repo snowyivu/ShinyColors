@@ -1,0 +1,26 @@
+id,name,text,trans
+4017001000130010,あさひ,ここでこうすれば……よし、いけそうっす！,"If I do it here like this... Okay, I can do it!"
+0000000000000,プロデューサー,（何かをつかんだみたいだ）,(Seems like she just thought of something)
+select,,早く試したいな,"Seems you 
+want to
+try it quickly."
+select,,何を思いついたんだ,"What did
+you come
+up with?"
+select,,"急に新しい
+ことはしない方が","Better not fiddle
+with something
+this sudden."
+4017001000130020,あさひ,そうなんすよ！　あ～、気分が盛り上がってきたっす！,"Yeah! Ohh～
+I'm feeling excited!"
+0000000000000,プロデューサー,（よし、気合が入ったな）,"(Good, she's pumped up)"
+4017001000130030,あさひ,"あはは、ちょっと秘密っすよ！　
+ステージ楽しみにしててほしいっす！","Ahaha, just a little secret moves!
+I want you to look forward to the stage!"
+0000000000000,プロデューサー,（よし、よく見ておこう）,"(Good, I'll definitely do that)"
+4017001000130040,あさひ,"え～……やめた方がいいっすかー？
+む～","Eh～ ...Should I drop it?
+Mm～"
+0000000000000,プロデューサー,（かえって気分を下げてしまった）,(I just made her spirit lower)
+info,produce_communication_cheers/401700100013.json,
+Translator,Autumn Cloud,

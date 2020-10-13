@@ -1,0 +1,16 @@
+id,name,text,trans
+4017001000120010,あさひ,……,......
+0000000000000,プロデューサー,（あさひ、どうしたんだろうか）,(What's wrong with Asahi?)
+select,,わっ！,Wah!
+select,,……,......
+select,,大丈夫か,You okay?
+4017001000120020,あさひ,"わっ！　びっくりしたっす！
+あ！　でも今のでいいこと思いついたっす！","Woah! You surprised me!
+Oh! But just now, I came up with a good idea!"
+0000000000000,プロデューサー,（よし、上手くいったな）,"(Good, it worked)"
+4017001000120030,あさひ,…………よし！　いけそうっす！,...Okay! All good!
+0000000000000,プロデューサー,（話しかけなくてよかったみたいだ）,(Seems like not saying anything is enough)
+4017001000120040,あさひ,えっ！？　あ！　今のでなんか忘れたっす！,Eh!? Oh! I think I forgot something just now!
+0000000000000,プロデューサー,（しまった、集中が切れてしまったようだ）,"(Oops, I just distracted her now, didn't I?)"
+info,produce_communication_cheers/401700100012.json,
+Translator,Autumn Cloud,

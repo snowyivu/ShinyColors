@@ -1,0 +1,88 @@
+id,name,text,trans
+3012002010010,凛世,"智代子さん……
+こちら……お借りしていた漫画です……","Chiyoko-san...
+Here is... the manga I borrowed from you..."
+3012002010020,智代子,"あ、もう読んじゃったんだ！
+どう？　面白かったでしょ！","Oh, you read it already!
+How was it! Wasn't it compelling?"
+3012002010030,凛世,"はい……
+大変……勉強させていただきました……","Yes...
+I studied it... with great intent..."
+3012002010040,智代子,"わぁ、本当ー？
+でも、そう言ってくれると思ってたんだぁ！","Wow, really!?
+But, then again I had a feeling you'd say that!"
+3012002010050,夏葉,"うふふ、盛り上がっているわね
+なんの話をしていたのかしら？","Ahaha, you're all riled up, huh?
+What is it that you two are discussing?"
+3012002010060,智代子,"あっ、夏葉ちゃん！
+漫画の話だよー。凛世ちゃんに貸してたの","Oh, Natsuha-chan!
+We're talking about manga! I lent one to Rinze-chan."
+3012002010070,凛世,"はい……
+良いものを……お借りできました……","Yes...
+It was a good one that I borrowed..."
+3012002010080,夏葉,"へぇ……
+これは恋愛もの？","Oh...?
+Is this a romance?"
+3012002010090,智代子,"そうそう、少女漫画！
+夏葉ちゃんもこういうの読む？","That's right, shoujo manga!
+Do you read things like this, Natsuha-chan?"
+3012002010100,夏葉,"そういえば、あまり読まないわね……
+でも、興味はあるわ！","Speaking of, I don't read manga much...
+But I do have an interest!"
+3012002010110,智代子,"あっ、興味ある？
+ほんとに面白いから、興味あったら読んでほしい！","Oh, you're interested?
+It's super fascinating, so if you're interested, you should read it!"
+3012002010120,智代子,"セリフの一つひとつがね、こう……胸にくるんだぁ
+……ほら、こういうのとか！","Every line of dialogue... They all hit me in my heart!
+... Look here, something like this!"
+3012002010130,夏葉,"ふぅん……
+『今日は帰さないからな。お前の答えを聞くまで……』","Hm...
+""I won't leave today. Not until I hear your answer..."""
+3012002010140,夏葉,……少し、キザすぎないかしら？,... Doesn't that seem a little conceited?
+3012002010150,智代子,"そこがいいんだよー！　考えてみて！？
+これ、好きな人に言われちゃったら……！","That's what's good about it! Think about it!
+What if someone you like were to tell you this...!"
+3012002010160,夏葉,"私には、よくわからないけど……
+そういうものなのね","To me, I don't really get the appeal, but...
+I guess I could see that."
+3012002010170,智代子,"そんなっ……伝わらない……！？
+凛世ちゃんは？　凛世ちゃんはきゅんきゅんするよね！？","Don't tell me... you can't relate to that...!?
+What about you, Rinze-chan? Isn't it heart-wrenching, Rinze-chan?"
+3012002010180,凛世,きゅんきゅん……ですか……？,"What is... ""heart-wrenching""...?"
+3012002010190,夏葉,凛世も、あまりわかってないようね,"Doesn't seem like Rinze fully gets that, either."
+3012002010200,智代子,"そ、そんなことないよね……！？
+ほら、目を閉じて想像してみて！","Th-that can't be the case, right...!?
+Here, try closing your eyes and imagining it!"
+3012002010210,凛世,"はい……
+想像……するのですね……","Okay...
+To... imagine this..."
+3012002010220,智代子,"そう！　いくよ……っ
+好きな人とふたりきりでいて……こう言われるの……！","Yes... Let's go!
+It's just you and the person you like... and they tell you this...!"
+3012002010230,智代子,『今日は帰さないからな。お前の答えを聞くまで……』,"""I won't leave today. Not until I hear your answer..."""
+3012002010240,凛世,……,......
+3012002010250,凛世,プロデューサーさま……,Producer-sama...
+3012002010260,凛世,"はい……
+凛世もお傍を……離れたくありません……","Yes...
+I, too, do not want... to be taken from your side..."
+3012002010270,智代子,"うわわ！？　凛世ちゃん待って！？
+ストップ、ストーップ！","Whoa!? Rinze-chan, hold on!? Stop, stop!"
+3012002010280,智代子,抱きつくのは反則です！,That's not the first thing you should think of!
+3012002010290,凛世,……？,......?
+3012002010300,夏葉,"ふふっ
+凛世のほうが一枚上手だったようね","Eheheh, looks like Rinze was taking it even more seriously than you, huh."
+3012002010310,智代子,うん……！　すごくびっくりした……！,Yeah...! I was totally startled by that...!
+3012002010320,凛世,"凛世は……
+想像を……していたのですが……",Rinze was... simply... imagining as told...
+3012002010330,凛世,何か……間違っておりましたか……？,What was... my error in this regard...?
+3012002010340,夏葉,うふふ、間違ってはいないと思うわよ,"Hehe, I don't think you were doing something wrong."
+3012002010350,智代子,"んんーっ……！
+そう、たしかに、間違ってはないけどー……！","Hmmmm...!
+Yeah, you're right that it's not really a mistake, but still...!"
+3012002010360,凛世,……はい,... Yes.
+3012002010370,凛世,……,...
+3012002010380,凛世,これが……きゅんきゅん……,"This is... ""heart-wrenching""..."
+3012002010390,凛世,"少女漫画とは……
+奥深き……世界です……",Shoujo manga has... its own interior world...
+info,produce_events/301200201.json,
+Translator,alice,

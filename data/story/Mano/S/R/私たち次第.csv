@@ -1,15 +1,15 @@
 id,name,text,trans
-3001002010010,真乃,灯織ちゃん……おはようっ,"Morning, Hiori..."
+3001002010010,真乃,灯織ちゃん……おはようっ,"Morning, Hiori-chan..."
 3001002010020,灯織,……,......
 3001002010030,真乃,"（あ、灯織ちゃん、雑誌を読むのに真剣みたい
-この前のインタビューかな……）","(Oh, Hiori looks so serious even though she's just reading a magazine. Maybe it's about the interview from the other day.)"
+この前のインタビューかな……）","(Oh, Hiori-chan looks so serious even though she's just reading a magazine. Maybe it's about the interview from the other day.)"
 3001002010040,真乃,（あれ？）,(Hmm?)
 3001002010050,真乃,占いだ……,It's horoscopes...
 3001002010060,灯織,えっ！　真乃！？,Eh?! Mano!?
 3001002010070,真乃,ご、ごめんねっ、勝手にのぞいちゃって,S-Sorry. I was peeking on my own.
 3001002010080,灯織,べ、別にいいけど……,I-I don't mind really...
-3001002010090,真乃,灯織ちゃんって、占いが……好きなの？,"Hiori, do you... like horoscopes?"
-3001002010100,灯織,好きってほどじゃないけど……,I can't say that I like it...
+3001002010090,真乃,灯織ちゃんって、占いが……好きなの？,"Hiori-chan, do you... like horoscopes?"
+3001002010100,灯織,好きってほどじゃないけど……,I wouldn't go so far as to say that I like them...
 3001002010110,真乃,"そっかぁ……私もよく占いのコーナーとか読むから
 一緒かなって思って……","I see... I read the horoscope column a lot 
 so I thought we were the same..."
@@ -47,4 +47,4 @@ Let's see... Oh, there it is."
 3001002010310,真乃,ふふっ……いい結果だねっ,Fufu... We got a nice one.
 3001002010320,灯織,ふふ、まあ……そうかもね,"Fufu, well... I guess so."
 info,produce_events/300100201.json,
-Translator,,
+Translator,https://pastebin.com/0vYsnz1e,
