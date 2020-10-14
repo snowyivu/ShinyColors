@@ -7,8 +7,8 @@ Oh, seems you are."
 まあ、大きめのステージではあるけどな","Don't be so stiff. Though, well... 
 I know where you're coming from, looking at the size of this stage."
 1008001040020,霧子,"はい……えっと……
-ここ……病院のすぐ近くなんです……","Yeah...umm...
-This place...it's near the hospital..."
+ここ……病院のすぐ近くなんです……","Yeah... umm...
+This place... it's near the hospital..."
 0000000000000,プロデューサー,"あー！　いつも霧子が手伝いに行ってるとこか
 たしかにそうだな","Oh, that hospital where you're always helping out, right?
 Yeah, now that you mention it..."
@@ -19,17 +19,17 @@ When I think that, I can't calm down..."
 0000000000000,プロデューサー,"ん？　包帯ほどけてるじゃないか
 ……ずいぶん握りしめてたみたいだな","Hm? Oh, one of your bandages is coming loose...
 ...Seems like you held too tightly onto it, huh."
-1008001040050,霧子,そ……そうみたいです……,Y-Yeah...seems so...
+1008001040050,霧子,そ……そうみたいです……,Y-Yeah... seems so...
 0000000000000,プロデューサー,"……お守りなんだろ？
 俺が直そう──","...It's one of your good luck charms, right?
 Let me fix it──"
 1008001040060,霧子,"す、すみません……プロデューサーさん！
-わたし、自分でやりますから……","I, s-sorry...Producer-san!
+わたし、自分でやりますから……","I, s-sorry... Producer-san!
 I'll do it myself..."
 0000000000000,プロデューサー,"大丈夫だ、俺に任せてくれ……
 ……っと、よし","It's fine, just let me do it.
 ...And there we go."
-1008001040070,霧子,あ……ありがとうございます！,Um...thank you so much!
+1008001040070,霧子,あ……ありがとうございます！,Um... thank you so much!
 0000000000000,プロデューサー,……霧子,...Kiriko.
 1008001040080,霧子,は、はい……,"Y, yeah..."
 0000000000000,プロデューサー,"今日は心配も遠慮もいらない
@@ -45,7 +45,7 @@ I'll do my best, Producer-san!"
 0000000000000,観客,キャー、霧子ちゃーん！,Aaah! Kiriko-chan!!
 1008001040110,霧子,"……あ、こんなに近くに……
 みんな……来てくれたんだ……","...Ah. So close...
-Everyone's...here..."
+Everyone's... here..."
 1008001040120,霧子,"みなさん……
 今日は来てくださって、ありがとうございます！","Everyone...
 Thank you for coming today!"
@@ -54,7 +54,7 @@ Thank you for coming today!"
 Ah, and he was discharged not too long ago...hehe♪)"
 0000000000000,プロデューサー,"（会場の空気があたたかいな……
 ずいぶん病院関係のお客さんが来てくれてるみたいだ）",(The venue is giving off a pretty warm vibe...seems like a majority of the people who came are related to the hospital in some way.)
-0000000000000,プロデューサー,（いい調子だぞ……頑張れ、霧子……！）,"(This is going pretty well...keep it up, Kiriko...!)"
+0000000000000,プロデューサー,（いい調子だぞ……頑張れ、霧子……！）,"(This is going pretty well... keep it up, Kiriko...!)"
 1008001040140,霧子,では、続けて２曲、歌わせてくださ……,"Now, I'll sing the next son..."
 0000000000000,赤ちゃん,おぎゃあ……おぎゃあ……!,Waaah...Waaaaaah...!
 0000000000000,プロデューサー,……！,...!
@@ -63,79 +63,82 @@ Ah, and he was discharged not too long ago...hehe♪)"
 Is there a baby crying, somewhere...?"
 0000000000000,赤ちゃん,おぎゃあ……！　おぎゃあ……！,Waaaaaah...! Waaaaaaaaaaaah...!
 0000000000000,プロデューサー,"（な、泣き止まないな……曲を始めにくい
-スタッフに見に来てもらうか……？）",(I-It won't stop crying...it's making it harder to start the next song. Should I ask one of the staffers to go check it out...?)
+スタッフに見に来てもらうか……？）",(I-It won't stop crying... it's making it harder to start the next song. Should I ask one of the staffers to go check it out...?)
 0000000000000,プロデューサー,（それに、き、霧子は大丈夫──）,"(More importantly, Kiriko! H-how is she...)"
 0000000000000,プロデューサー,……！,...!
 1008001040150,霧子,"ふふ、赤ちゃんさん……
 来てくださって、ありがとうございます……♪","Hehe, and you too, little baby...
-Thanks a lot...for coming...♪"
+Thanks a lot... for coming...♪"
 1008001040160,霧子,♪ねーむれー……,♪Sleepー Sleep wellー...
 0000000000000,プロデューサー,（き、霧子……！）,(K-Kiriko...!)
 0000000000000,プロデューサー,"（き……きれいな歌声だな……
 会場が静まり返っている……）","(T-That's some beautiful singing...
 The place went silent...)"
-0000000000000,プロデューサー,（赤ちゃんも……泣き止んだ……のか）,(And the baby...did it stop crying...?)
+0000000000000,プロデューサー,（赤ちゃんも……泣き止んだ……のか）,(And the baby... did it stop crying...?)
 1008001040170,霧子,"み、みなさん……！
 ふふ……ありがとうございます……♪","E-Everyone...!
-Hehe...Thank you so much...♪"
+Hehe... Thank you so much...♪"
 0000000000000,プロデューサー,"お疲れ様、霧子
 ……最高のパフォーマンスだったよ","Welcome back, Kiriko. You were fantastic out there."
 1008001040180,霧子,"……プロデューサーさん
-今日、わたし……すごくリラックスしてできました……！","...Producer-san. Today, I...I was able to stay calm...!"
+今日、わたし……すごくリラックスしてできました……！","...Producer-san. Today, I... I was able to stay calm...!"
 1008001040190,霧子,"赤ちゃんには……びっくりしましたけど、
-普段、よく歌ってあげたりしてたし……","The baby...really surprised me, but...I...have a bit of experience calming them down, and..."
-1008001040200,霧子,それに、たくさんの、知ってる方々が来てくれて……,And...a lot of people I know came to watch...
+普段、よく歌ってあげたりしてたし……","The baby... really surprised me, but... I... have a bit of experience calming them down, and..."
+1008001040200,霧子,それに、たくさんの、知ってる方々が来てくれて……,And... a lot of people I know came to watch...
 1008001040210,霧子,"ステージが、すごく楽しくて……
 すごく嬉しくて……","It was, so fun...
 I was really happy..."
 1008001040220,霧子,"プロデューサーさんの言うとおり……
-心配も遠慮も……いりませんでした","Just like you said, Producer-san...I didn't have to worry...or hold back..."
+心配も遠慮も……いりませんでした","Just like you said, Producer-san... I didn't have to worry... or hold back..."
 select,,"自信を手に
-入れたみたいだな","You finally learned to
-have faith in yourself."
+入れたみたいだな","You finally learned
+to have faith
+in yourself."
 select,,"イベントを楽しめた
-みたいだな","Seems like you really 
-enjoyed your time onstage."
+みたいだな","Seems like you
+really enjoyed your
+time onstage."
 select,,"お客さんも、
-みんな笑ってたな","The audience, everyoneー
-they were all smiling, huh."
-1008001040230,霧子,そう……そうかもしれません,Yeah...that might be...
-1008001040240,霧子,病院の方々が、あんなに喜んでくれるなんて……,"I didn't think...everyone from the hospital, would be so happy..."
+みんな笑ってたな","The audience,
+everyoneー they
+were all smiling, huh."
+1008001040230,霧子,そう……そうかもしれません,Yeah... that might be...
+1008001040240,霧子,病院の方々が、あんなに喜んでくれるなんて……,"I didn't think... everyone from the hospital, would be so happy..."
 0000000000000,プロデューサー,"そりゃあ、いつも優しくしてくれた
 霧子がアイドルになったんだ","Well, the girl who's always been looking over them and helping them out is an idol now."
 0000000000000,プロデューサー,ファンになって当然だろ？,"That's reason enough to become a fan, don't you think?"
 1008001040250,霧子,そ、そんな……！,"N-No, um...!"
 1008001040260,霧子,"でも、わたしのいつも感じている気持ちが、
-みなさんに伝わってるんだって、わかった気がして……","But...I felt like...everything I feel, usually...
+みなさんに伝わってるんだって、わかった気がして……","But... I felt like... everything I feel, usually...
 Like, I could actually share that with everyone else..."
 1008001040270,霧子,"プロデューサーさん……
 送り出してくださって、本当にありがとうございます……！","Producer-san...
-Thank you so much for giving me the push...I needed...!"
+Thank you so much for giving me the push... I needed...!"
 1008001040280,霧子,……はい……！,...Yeah!
 1008001040290,霧子,"今までは……不安とか緊張の連続で……
-でも今日は、本当に……楽しめました……！","Up until now...I haven't been able to...do much more than worry, and worry...but today was different...I really enjoyed it...!"
+でも今日は、本当に……楽しめました……！","Up until now... I haven't been able to... do much more than worry, and worry... but today was different... I really enjoyed it...!"
 0000000000000,プロデューサー,"お客さんたちもあたたかい雰囲気だったからな……
-霧子、いつも病院ではあんなふうなんだな","The audience being that warm towards you probably helped...though, well, I bet that's an everyday thing in the hospital whenever you're there."
+霧子、いつも病院ではあんなふうなんだな","The audience being that warm towards you probably helped... though, well, I bet that's an everyday thing in the hospital whenever you're there."
 1008001040300,霧子,"はい……みんなと、
-いつものように楽しくお話できました……！","Yeah...I...
+いつものように楽しくお話できました……！","Yeah... I...
 Just had a fun time with everyone, as always...!"
 0000000000000,プロデューサー,"普段の霧子の心遣いとか心配とか……
 そういうことがきっと全部出たステージだったと思う",I think this was a show where your usual kindness really took center stage.
 0000000000000,プロデューサー,……アイドルとしても大切なことを見つけたのかもな,...You might have found something really valuable for any idol to have.
 1008001040310,霧子,"今日みたいなこと……あるんですね
-アイドルになって、よかったって……思います……！","There's days...like today, too, huh...I'm so glad...I became an idol...!"
+アイドルになって、よかったって……思います……！","There's days... like today, too, huh... I'm so glad... I became an idol...!"
 1008001040320,霧子,"……はい……！　それが嬉しくて……
-アイドルって、こういうことなのかもしれないって……",...Yeah...! That made me so happy...I felt...idols might be all about moments like these...
+アイドルって、こういうことなのかもしれないって……",...Yeah...! That made me so happy... I felt... idols might be all about moments like these...
 0000000000000,プロデューサー,"霧子は普段から、
-病院の人たちを笑顔にしてきたんだよな……きっと","Though, imagining you at the hospital...Those smiles are an everyday thing to you, right?"
+病院の人たちを笑顔にしてきたんだよな……きっと","Though, imagining you at the hospital... Those smiles are an everyday thing to you, right?"
 0000000000000,プロデューサー,だから、今日もアイドルとして同じことができたんだよ,That's why you were able to do the same thing as an idol.
-1008001040330,霧子,そう……かもしれません……,That...yeah...maybe...
+1008001040330,霧子,そう……かもしれません……,That... yeah... maybe...
 0000000000000,プロデューサー,霧子も、笑顔が似合うな,"And Kiriko, you also look best when you're smiling."
 1008001040340,霧子,"そ、そんな……
 プロデューサーさん……！","N-No way...
 Producer-san...!"
 0000000000000,プロデューサー,最近は、本当にいい顔をしてると思うぞ,You've been having a great look in your face lately.
 1008001040350,霧子,"は、はい……今は……
-もっといいアイドルになりたいって……思います","Y-Yeah, that's...I've been thinking about...becoming an even better idol..."
+もっといいアイドルになりたいって……思います","Y-Yeah, that's... I've been thinking about... becoming an even better idol..."
 info,produce_events/100800104.json,
 Translator,萌え豚,
