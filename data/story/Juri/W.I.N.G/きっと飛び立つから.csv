@@ -33,12 +33,15 @@ id,name,text,trans
 1011001050090,樹里,"こんな大きなステージだし、
 お客さんがいっぱい見にきてんだ",It's such a big event and so many people came to watch.
 1011001050100,樹里,そりゃ、いつもよりドキドキすんに決まってんだろ……,"So y'know, of course my heart's pounding more than usual..."
-select,,お客さんは味方だ,The audience are on your side.
+select,,お客さんは味方だ,"The audience
+are on your side."
 select,,"大きな舞台に
 立ちたかったんじゃ
-ないのか",Weren't you hoping for a bigger stage?
+ないのか","Weren't you hoping
+for a bigger stage?"
 select,,"いつもみたいに
-自信を持て",Bring your usual confidence.
+自信を持て","Bring your usual
+confidence."
 0000000000000,,★選択肢①【お客さんは味方だ】,★選択肢①【お客さんは味方だ】
 0000000000000,プロデューサー,お客さんは味方だ,The audience are on your side.
 1011001050110,樹里,"味方……ね
