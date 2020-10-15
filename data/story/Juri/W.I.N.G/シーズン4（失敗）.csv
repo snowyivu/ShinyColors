@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,Really... We weren't able to participate.
+7901001080010,はづき,"……不参加って連絡が来たとき、
+聞き間違いかと思いました",...When the message came I thought I had misheard it.
+7901001080020,はづき,"私には、どうして彼女が参加できないのか
+ちっともわかりません……！","To me, I don't understand why she's not able to participate!"
+7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
+受け入れるより他にあるまい","I understand how you feel, but... these are the results."
+7901001080030,はづき,"……私、きっとあの子のファンだったんですね
+だからこの結果が、悔しくてたまらないんです……",I surely was a fan of hers. That's why I'm so frustrated by the results...
+0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
+誰よりも彼女のファンでしたから",Me too. I was a fan of her more than anyone as her producer.
+0000000000000,プロデューサー,"……社長
+俺、彼女に会いに行ってきます",...President. I'm going to meet her.
+7902001080020,社長,ああ、そうするといい,"Yes, it's best you do so."
+0000000000000,プロデューサー,"樹里……
+残念だが、『W.I.N.G.』には参加できない……",Juri... I'm sorry but you won't be participating in W.I.N.G....
+7011001080010,樹里,……そうか、ダメだったか,"...Really, that wasn't good enough?"
+0000000000000,プロデューサー,"（毎日あれだけ真剣にレッスンしてたのにな……
+俺にできることがもっとあったはずなんだ）",(Every day she did her lessons so seriously... There must have been something more I could have done.)
+7011001080020,樹里,……さすがにヘコむぜ,...That's a hell of a downer.
+0000000000000,プロデューサー,"そうだろうな……
+でもここでへこたれずに……",It really is... But if you look at it without...
+7011001080030,樹里,わかってるっての！,I already get it!
+7011001080040,樹里,"アタシには、支えてくれるたくさんのファンがいて、
+……プロデュ－サ－もいるからな","I have so many fans supporting me.
+...And you too, Producer."
+0000000000000,プロデューサー,やっぱり成長したな……樹里,You really have grown... Juri.
+7011001080050,樹里,ま、ま－な,Yeah maybe.
+7011001080060,樹里,"アイドルとして上に行く目標は変わらね－
+……これからも頼むぜ、プロデュ－サ－","Still haven't changed my goal to keep aiming higher.
+...I'm still counting on you, Producer."
+info,produce_events/701100108.json,
+Translator,,,Enzo and Mondo

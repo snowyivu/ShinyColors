@@ -1,0 +1,42 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おい、樹里！
+『W.I.N.G.』の三次審査、通過したぞ！","Yo, Juri! You passed the round 3 qualifier for W.I.N.G.!"
+7011001050010,樹里,よしっ！,Yes!
+0000000000000,プロデューサー,やったな、樹里ならやれると思ってたぞ,"You did it, just like I knew you would, Juri."
+7011001050020,樹里,"……ほ、ホントか？
+実は、アタシけっこー不安だったんだよな","...R-really? Actually, I really wasn't sure about this."
+0000000000000,プロデューサー,"おいおい、もっと自信を持っていいぞ
+樹里は精一杯やれることやってるからな","Whoa there, you can be a little more confident than that. You're doing everything to the best of your ability after all."
+7011001050030,樹里,"……アタシのこと、そうやって見てくれているのは
+悪い気しね－けどさ","...If that's the way you see me, I guess it doesn't feel too bad."
+7011001050040,樹里,"でもよ、『W.I.N.G.』が近付いてくると
+そのデカさもわかってくるんだ","But like, the closer W.I.N.G. gets, the more I realize how huge it is."
+7011001050050,樹里,"そう簡単には届かね－ステ－ジだなって
+けど……","Like how it isn't a stage you reach that easily.
+But..."
+0000000000000,プロデューサー,けど？,But?
+7011001050060,樹里,だんだん 『W.I.N.G.』が近くに見えてきた気がするぜ,"Little by little, it feels like I can start to see W.I.N.G. up close."
+0000000000000,プロデューサー,"ああ、そうだな
+この勢いで一緒に最終審査を突破しよう！","Yeah, that's how it is. Let's keep it up and bust through the last qualifier."
+7011001050070,樹里,"お、おう
+これからもよろしく頼むな",S-sure. I'll be counting on you.
+7011001050080,樹里,"……アタシがここまで来れたのは、
+アンタのそれがあるからだな","...I made it this far because of how you're always, y'know."
+0000000000000,プロデューサー,それって？,What's that?
+7011001050090,樹里,"アンタが一緒に頑張ってくれたから、
+ここまで来れた……ってことだよ",You stuck by me this whole time so I was able to get to this point... is what I mean.
+0000000000000,プロデューサー,"おお……
+樹里にそう言ってもらえるなんて、感慨深いな",Ohhh... I'm moved that you would say that to me.
+7011001050100,樹里,"はあ？
+そんなに感動することかよ",Huh? Is that something to get worked up over?
+0000000000000,プロデューサー,"そりゃ感動するさ
+樹里は変わったな、と思ってな",Gets me right here. I can really feel how you've changed.
+7011001050110,樹里,"そう、か？　あんま自覚はね－けど
+もしかしたら……ホントに少しずつ変わってきてるのかもな",That so? Not like I can tell myself but I guess... maybe I really am changing little by little.
+0000000000000,プロデューサー,"今の方が活き活きしてていいぞ
+これからもっと変わっていける","You're much more lively now. From here on, you could change even more."
+0000000000000,プロデューサー,"よし、本番に向けてスケジュ－ルを組んでいくぞ
+今まで以上に大変になるぞ？","Right, time to make a schedule in preparation for the main event. It's going to get tougher from now on, okay?"
+7011001050120,樹里,ああ、いくらでも付き合ってやるよ！,"Yeah, I'm down for whatever you throw at me!"
+info,produce_events/701100105.json,
+Translator,,,Enzo and Mondo
