@@ -1,0 +1,27 @@
+id,name,text,trans
+1017001000110010,あさひ,～♪,～♪
+0000000000000,プロデューサー,"おはよう、あさひ
+何かいいことでもあったのか？","Morning, Asahi.
+Is there something good happening?"
+1017001000110020,あさひ,すごい晴れてるじゃないっすか！,It's really sunny outside!
+0000000000000,プロデューサー,晴れてる……？,Sunny...?
+select,,"いいことが
+ありそうだよな","Good things
+might happen."
+select,,洗濯物がよく乾くな,"The laundry
+dries well."
+select,,"何か関係が
+あるのか？",Is that relevant?
+1017001000110030,あさひ,プロデューサーさんもそう思うっすよね！,"Producer-san also thinks so, right!?"
+1017001000110040,あさひ,"何かいいこと起きるっすよ～、きっと！
+ちょっと外出て探してくるっす！","Something good will happen～ I'm sure!
+I'm going out for a bit to find it!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000110050,あさひ,なるほど～、わたしにはない発想っす！,I see～I've never thought of it that way!
+1017001000110060,あさひ,面白いこと言うっすね！　プロデューサーさん！,"You say something interesting there, Producer-san!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000110070,あさひ,そう言われるとないっすね～……,Now that you put it like that...
+1017001000110080,あさひ,じゃあ、面白いこともなさそっすね、今日は,"Then, seems there won't be anything fun today."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100011.json,
+Translator,Autumn Cloud,

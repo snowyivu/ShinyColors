@@ -1,0 +1,27 @@
+id,name,text,trans
+1017001000510010,あさひ,あれ！　プロデューサーさん、何でここに？,"Huh!? Producer-san, why are you here?"
+0000000000000,プロデューサー,いや、ずっとここにいるけどな,"I've been here all day, though."
+1017001000510020,あさひ,あれ、じゃあさっき道で見かけたのって,"Huh, then the one that I saw on the road..."
+0000000000000,プロデューサー,（似た人でも見たのか……）,"(A look-alike, huh...)"
+select,,実は分身できるんだ,"Actually, I can
+make a copy
+of myself."
+select,,似てる人だろう,"That would just
+be a similar person."
+select,,実は兄弟だ,"Actually, it's
+my brother."
+1017001000510030,あさひ,"え！　ホントっすか！
+プロデューサーさん、忍者だったんすか？","Eh! For real!?
+Producer-san, you're a Ninja?"
+1017001000510040,あさひ,今度見せてほしいっす！,Let me see it too!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000510050,あさひ,うーん……似てる人っすか……,"Hmm... just a similar person, huh..."
+1017001000510060,あさひ,まぁ、そう言われればそうっすね,"Well, if you say so, then that must be it."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000510070,あさひ,兄弟いるんすね！　プロデューサーさん！,"So you have a brother, Producer-san!"
+1017001000510080,あさひ,"何人兄弟なんすか？　年はどれくらい離れてるんすか？
+さっき会った人はお兄さんっすか？　弟っすか？","How many siblings do you have? How about the ages?
+Was he your older or younger brother?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100051.json,
+Translator,Autumn Cloud,

@@ -1,0 +1,24 @@
+id,name,text,trans
+1017001000910010,あさひ,プロデューサーさん、窓の外ちょっと見てほしいっす！,"Producer-san, there's something outside the window!"
+0000000000000,プロデューサー,いいぞ、どうしたんだ？,"Okay, what's wrong?"
+1017001000910020,あさひ,あそこに見えるの、あれなんすかね？,"That thing over there, what's that?"
+0000000000000,プロデューサー,あれか……,"That, huh..."
+select,,謎の物体だな,"It's a mysterious
+object."
+select,,"ここからじゃ
+わからないな","Too far
+to be sure..."
+select,,虫じゃないか,Maybe just a bug.
+1017001000910030,あさひ,"謎の物体っすか！？
+……気になってきたっす！","A mysterious object!?
+...now I'm curious!"
+1017001000910040,あさひ,プロデューサーさん！　近くまで見に行くっすよ！,Producer-san! Let's take a closer look!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000910050,あさひ,プロデューサーさんにもわからないんすね……,So Producer-san also doesn't know...
+1017001000910060,あさひ,ちょっと倉庫から双眼鏡持ってくるっす,I'm going to storage for a bit to get binoculars.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000910070,あさひ,虫……っすか……,Bug... huh...
+1017001000910080,あさひ,面白くないっす～,It's not fun～
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100091.json,
+Translator,Autumn Cloud,

@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,うわ！　なんだこれ！,Woah! What happened!?
+1017001000210010,あさひ,プロデューサーさんじゃないっすか,"Oh, if it isn't Producer-san."
+1017001000210020,あさひ,どうしたんすか？　そんなにびっくりして,What's wrong? Getting worked up like that.
+0000000000000,プロデューサー,（散らかしたことに気付いていないのか……）,(Don't you notice this mess...?)
+select,,探し物はこれだな,"This is what
+you're looking for."
+select,,早く片付けなさい,Clean up quickly.
+select,,足の踏み場が……,"There's no place
+to put my feet..."
+1017001000210030,あさひ,なんでわかったっすか！？,How can you know that!?
+1017001000210040,あさひ,"何か面白い力でも持ってるんすか！　プロデューサーさん
+もっと見せてほしいっす","Do you have a psychic power!?
+Producer-san, show me more!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000210050,あさひ,"片付けるんすか？
+……まぁ、確かに散らかってるっすね","Wanna pack up?
+...Well, it's definitely messy here."
+1017001000210060,あさひ,よぉーし、やるっすよ～！,"Alright, let's do this～!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000210070,あさひ,まだまだ歩けるじゃないっすか！,There's still enough space to walk!
+1017001000210080,あさひ,あっちとか、あとそっちとか！,Like over here or over there!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100021.json,
+Translator,Autumn Cloud,

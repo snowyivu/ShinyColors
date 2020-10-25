@@ -1,0 +1,29 @@
+id,name,text,trans
+1017001001010010,あさひ,"プロデューサーさん、昨日倉庫で
+こんなの見つけたっす","Producer-san, I found this yesterday
+in the storage."
+0000000000000,プロデューサー,ん？　なんだろうなこれ、紙の切れ端みたいだけど,"Hm? Wonder what it is...
+It looks like a piece of paper."
+1017001001010020,あさひ,"もしかして事務所の重要な秘密だったり
+するっすかね？",Maybe it's our agency's important secret?
+0000000000000,プロデューサー,（あさひはそう考えたのか）,(So Asahi thinks it's something like that.)
+select,,"誰にも
+言っちゃダメだ","Don't tell
+anyone."
+select,,"すぐに
+返してくるんだ","Quickly,
+put it back."
+select,,"それ、
+領収書の切れ端だ","That is a
+piece of receipt."
+1017001001010030,あさひ,わかったっす！　絶対誰にも言わないっす！,Understood! I absolutely won't tell anyone!
+1017001001010040,あさひ,任せておくっすよ！,Just leave it to me!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001001010050,あさひ,もしかして、これ危険な物なんすか！,"Don't tell me, it's a dangerous document!?"
+1017001001010060,あさひ,それなら仕方ないっす！　返してくるっす！,Then it can't be helped! I'll return it!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001001010070,あさひ,それって、上様って書くやつっすよね？,Isn't that the thing written for the customer?
+1017001001010080,あさひ,な～んだ、全然面白くないっすよ～,Pooper～ Not fun at all～
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100101.json,
+Translator,Autumn Cloud,

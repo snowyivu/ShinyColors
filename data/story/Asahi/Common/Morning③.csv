@@ -1,0 +1,27 @@
+id,name,text,trans
+1017001000310010,あさひ,とぉーう！,Tooooh!
+0000000000000,プロデューサー,あさひ、何やってるんだ……？,"What are you doing, Asahi...?"
+1017001000310020,あさひ,"何なんすかねこれ
+プロデューサーさんは何だと思います？","Wonder what it is.
+Producer-san, what do you think?"
+0000000000000,プロデューサー,そうだな……,Let's see...
+select,,"とりあえず
+楽しそうだ","Anyway,
+it seems fun."
+select,,テレビで見た何か,"Something you
+saw on TV?"
+select,,意味はあるのか？,"Does it have
+a meaning?"
+1017001000310030,あさひ,"そうなんすよ！　楽しいんすよこれ！
+とぉーう！","Right! This is fun!
+Tooooh!"
+1017001000310040,あさひ,プロデューサーさんも一緒にどっすか？,"Producer-san too, won't you do it together?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000310050,あさひ,思い出したっす！　テレビで見たんすよこれ！,I remembered! I've seen it on TV!
+1017001000310060,あさひ,でも、なんだったっすかね～,But what was it about again～?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000310070,あさひ,意味っすか？　うーん……ないっすね！,"Meaning, huh? Hmm... none!"
+1017001000310080,あさひ,でも、意味なんて必要ないっす,"But, any meaning isn't needed!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100031.json,
+Translator,Autumn Cloud,

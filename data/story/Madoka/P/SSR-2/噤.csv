@@ -1,0 +1,119 @@
+id,name,text,trans
+0,ウェイター,"──繰り返します、アイスティーをおひとつと、
+アイスコーヒーをおひとつ","──Let me just double-check. One iced tea, and... one iced coffee."
+0,ウェイター,"アイスティーにはレモンかミルク、
+どちらかおつけしますか？","For your iced tea, would you like lemon or milk with it?"
+0,プロデューサー,ああ、ええと……どうする？,"Ahh, uhh... what do we want?"
+2021005030010,円香,……,...
+0,プロデューサー,──円香,──Madoka.
+2021005030020,円香,え、はい,Uh. Yeah.
+0,プロデューサー,"アイスティー、
+レモンとミルクはどうするかって","For the iced tea, do you want lemon or milk?"
+2021005030030,円香,……レモンでお願いします,"...lemon, please."
+0,ウェイター,かしこまりました,Thank you very much.
+2021005030040,円香,"すみません
+聞いていませんでした","Sorry about that.
+I wasn't listening at all."
+0,プロデューサー,いやいや、大丈夫だよ,"No, no, it's fine."
+2021005030050,円香,…………,...
+0,プロデューサー,……さっきの映画はどうだった？,...How did you feel about the film?
+2021005030060,円香,いい映画でした,It was a good film.
+0,プロデューサー,そっか、それは何より──,"Gotcha. Well, that's the most important──"
+0,関係者,おや……２８３さん……？,Oh... are you 283's...?
+0,プロデューサー,"……！　これはどうも……！
+本日はお招きいただきありがとうございました","...! It's nice to meet you...!
+Thank you very much for extending your invitation to us today."
+0,プロデューサー,すみません、会場でご挨拶さしあげたかったのですが……,"I'm sorry, we wanted to find you on-site so that we could greet you, but..."
+0,関係者,"いえいえ、私の方が来場者の対応で
+バタついておりましたからね、お気になさらず","No, no, the fault is mine──I was milling all over the place gathering audience responses, so no need to blame yourself."
+2021005030070,円香,"今日は素晴らしい機会をいただきまして、
+本当にありがとうございました",You gave us a wonderful opportunity today. I appreciate it very much.
+0,関係者,"樋口さん、こちらこそありがとうございました
+どうでしたか……試写をご覧いただいて","Higuchi-san, the pleasure is all mine.
+How did you find it...? At the private screening."
+2021005030080,円香,はい,Well.
+2021005030090,円香,"言葉で表せないくらい、
+素晴らしかったです","To the extent words wouldn't capture it, it was wonderful."
+2021005030100,円香,"最初は……恐縮ながら、
+主人公をつまらない男だと思っていたのですが","At first... while I'm ashamed to admit it, I thought of the protagonist as no more than a simple, boring man."
+2021005030110,円香,"途中で、主人公の心情がピアノの音と
+リンクしていることに気付いて本当に驚きました","Midway, I'd realized that the protagonist's emotional state and the sound of the piano were linked. That profoundly surprised me."
+0,プロデューサー,…………,...
+2021005030120,円香,"ラストシーン、埃だらけのピアノに触れた瞬間、
+世界が金色に染まったのは……","At the last scene, the moment he brushed against the dust-covered piano, and the world around him was dyed in gold..."
+2021005030130,円香,彼の心が世界に溢れ出た表れなのだろうなと,"It came across to me as though his heart was manifest, spilling over, flowing out into the world itself."
+0,関係者,なるほど、なるほど……,"I see, I see..."
+2021005030140,円香,"……すみません、素人の解釈なので、
+間違っているかもしれませんが……","...sorry, it's the interpretation of a layperson, so I may very well be mistaken, but..."
+2021005030150,円香,"一般公開されたら、もう一度……一度とは言わず何度も、
+繰り返し、観させていただきます","When it reaches public screening, I'd go another... not another, but however many times, in order to see it again."
+2021005030160,円香,本当に感動しました,It truly moved me.
+0,関係者,"ありがとうございます
+楽しんでもらえたなら私も嬉しいです","Thank you very much.
+The fact you could enjoy it makes me a very happy person myself."
+0,関係者,"……いや、ところで、すみません
+おふたりを長いこと立たせてしまいまして","...ah, on that note, I apologize. I've made you two stand up for quite a long while talking to me."
+0,関係者,"よかったらご相席しても構いませんか
+お取り込み中でしたら遠慮しますが","If you don't mind, I'd be happy to share the table with you? Not that I insist, certainly, if you're busy with something..."
+0,プロデューサー,とんでもございません、ぜひ！,"Oh, no problem at all! Certainly!"
+0,関係者,"はは、せっかくですから、
+もう少しだけお話できたらと……","Haha! Given the opportunity is ripe, I'd like to chit-chat a little more about..."
+0,プロデューサー,──ひとりで大丈夫か？,──Fine on your own?
+2021005030170,円香,はい、まだバスも電車もありますので,I'm fine. There are still buses and trains running.
+0,プロデューサー,"わかった
+……それじゃ、気をつけて","Got it.
+...well, then, take care."
+2021005030180,円香,お疲れ様でした,Thank you for your hard work.
+0,プロデューサー,──……円香！,──...Madoka!
+select,,"映画、楽しめたようで
+よかった","I'm glad you
+seemed to
+enjoy the film."
+select,,"予定より長引いて
+悪かった","Sorry things
+ended up dragging
+out so long."
+select,,映画、好きなのか？,"Do you like
+films?"
+2021005030190,円香,…………,......
+0,プロデューサー,……お疲れ様！,...thanks for the hard work!
+2021005030200,円香,"……あの映画は、
+できればひとりで観たいものでした",...that film was something I'd rather go see on my own if possible.
+2021005030210,円香,"感想を言葉にしなくていい時、
+しばらくの間、誰とも話さなくていい時に",There's times I can do without having to word out any feelings. There are some whiles where I just don't need to talk with anyone else at all.
+2021005030220,円香,そういう映画でした,It was that kind of film.
+0,プロデューサー,──……,──...
+2021005030230,円香,…………,...
+2021005030240,円香,いえ,"No, it's fine."
+2021005030250,円香,必要な時間だったと思いますので,I regard it as necessary time to have taken.
+2021005030260,円香,"大切なんでしょ
+ああいう積み重ねも","Important, right, isn't it?
+Those little things accumulating."
+0,プロデューサー,あ……ああ！,Ah... yeah!
+2021005030270,円香,"まあ、どんな話だったか、
+半分くらいは覚えていませんが","Well. Whatever conversation it was,
+I still don't remember half of it at all."
+0,プロデューサー,"……大丈夫
+もう半分は俺が引き受ける","...that's fine.
+I'll cover you for the other half."
+2021005030280,円香,……適当すぎ,...you never knock that off.
+0,プロデューサー,はは……お疲れ様,Haha... thanks for the hard work.
+2021005030290,円香,特には,Not especially.
+0,プロデューサー,あれ……そ、そうなのか……,"Oh, uh... um──I see..."
+0,プロデューサー,"じゃあ、すまん……他のことでもいい
+好きだと思えるものが見つかったら教えてくれ","I'm, uh, really sorry... anything at all goes as well, so if you find something you think you'd like, give me a shout about it."
+0,プロデューサー,返事は急がない,No need to rush.
+2021005030300,円香,"……考えておきます
+おそらく永遠にお返事できませんが","...I'll keep it in mind.
+Though, in all likelihood, I'll never have a reply to return you."
+0,プロデューサー,"考えてくれるだけでも十分だよ
+ありがとう──お疲れ様！","Just thinking about it's plenty enough.
+Thanks──and good work today!"
+2021005030310,円香,………………,......
+2021005030320,円香,"……仮に見つかったとしたら、
+それこそ話さないのでは",...suppose I found something. Suppose then I wouldn't tell?
+2021005030330,円香,大切なものほど、そうでしょ,"That's the way important things are, aren't they?"
+0,プロデューサー,……そういうものかな？,...that's what it means to you?
+2021005030340,円香,さあ、どうですかね,Well. Who could ever say.
+info,produce_events/202100503.json,
+Translator,"Emelia, Pluie",

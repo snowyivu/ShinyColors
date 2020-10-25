@@ -1,0 +1,146 @@
+id,name,text,trans
+0,プロデューサー,──……♪,──...♪
+0,プロデューサー,"……ん～ん～
+…………こんがり～焼いたら～♪","...hm-hmm～!
+......do 'em well～and do 'em fine～♪"
+0,プロデューサー,"ほっぺがおちちゃう♪
+とろけちゃう～♪","They'll make your cheeks a-puff right out♪
+They'll make you melt away～♪"
+0,プロデューサー,"ちゃ～う、ちゃうちゃう♪
+ちゃ～みんぐ、ク～ッキ～ン…………","Away～, away-away♪
+Away to Cha～rming Co～oki～ng..."
+0,円香＆プロデューサー,………………………………,.........
+0,円香＆プロデューサー,………………,......
+0,プロデューサー,いや、円香……,"Uh, Madoka..."
+2021005010010,円香,"……あなたは、
+割と偉そうな肩書きだったと思いますが","...I would've thought your position was a relatively crushing one to be in, but."
+2021005010020,円香,死ぬほど暇なんですね,You've got time to kill like killing never knew.
+0,プロデューサー,誤解だ,You've misunderstood.
+2021005010030,円香,いえ,No.
+0,プロデューサー,"ま、待て待て
+まず、今は昼休みで──","H──Hold on, hold on.
+Firstly, we've broken for lunch right now──"
+0,プロデューサー,"この間、料理番組のスタッフさんに教わった
+お菓子のレシピを試していただけなんだ",And the staff of that recent cooking program were gracious enough to teach me a recipe for something sweet for me to try.
+0,プロデューサー,"世間話で終わらせるなんて失礼だろう
+だから、ちゃんと結果を報告したくてさ","It'd be plain ungracious to brush it off as small talk and forget it, right? So I wanted to actually show something for it."
+0,プロデューサー,"こういう積み重ねも大切な仕事の一部なんだ
+遊んでいたわけじゃないんだよ",The little things like these accumulating up are small yet nevertheless vital parts of work. This is far from just playtime.
+2021005010040,円香,……わかりました,...I see.
+2021005010050,円香,"あなたが暇を持て余すくらい、
+優雅なご身分であることは","The sheer, staggering amount of spare time is more than you know what to do with. What a wonderful place to be in."
+0,プロデューサー,説明、耳を素通りしてるなあ…………,"The explanation went straight in and straight back out, huh..."
+2021005010060,円香,それから、『美味しそうならとっといて』と雛菜が,"Also, ""if it looks good, save some for me,"" Hinana says."
+0,プロデューサー,情報、回るの早いなあ…………,"And information gets around fast, huh..."
+0,プロデューサー,"でも……はは、もちろんだよ
+せっかくだからみんなへの差し入れにしようと思って","But, uh... haha. Yeah, of course. I was just thinking it'd be perfect to bring around as snacks for everyone."
+select,,もうすぐ焼き上がるから,"Oh, they're almost
+done──give
+them a moment."
+select,,よかったら円香も,"If you'd like,
+you too, Madoka."
+select,,持っていってくれ,"Take 'em over
+there for me?"
+0,プロデューサー,あと少しだけ待っていてくれ,Just hold on for a tiny bit longer.
+2021005010070,円香,……やめてもらえます？,...could you cut that out?
+2021005010080,円香,"レッスンまでの時間を潰しているだけなのに
+そう言われたら待っているみたいじゃないですか",You know full well I'm only here passing the time I have before lessons. You seem to say I've been spending it just waiting for you.
+0,プロデューサー,"はは、それはタイミングが悪かったな
+諦めてもらうしかない","Haha. Well, me being here's poor timing for you then. You're gonna need to give it up, sorry."
+2021005010090,円香,……自由すぎるでしょ,...you're too free-spirited.
+0,プロデューサー,堅苦しいよりはいいだろう？,"Better than being all ceremonially uptight, right?"
+2021005010100,円香,"そうですね
+部屋中に伸びやかな歌声が響き渡って","That's right, isn't it.
+Your carefree singing voice floating through all the rooms."
+0,プロデューサー,あ、歌は……いや、無意識で……,"Uh, the singing was... no, I just unconsciously..."
+2021005010110,円香,歌いたい時に歌っていいのは小鳥だけ,Only the birds outside start singing whenever they feel like it.
+0,プロデューサー,料理番組のテーマソングが耳に残っててさ……,The cooking program's theme song's just been stuck in my head...
+2021005010120,円香,"聞いてません
+ミスター・ミュージカル","I haven't heard it.
+Mr. Musical."
+0,プロデューサー,……次は、もう少し音量を抑えるな,...I'll try and... keep it down next time.
+2021005010130,円香,そういうことじゃありません,You're slightly missing the point.
+0,プロデューサー,"お、焼けたみたいだ
+美味しく出来ているかな……","Oh, looks like they're done baking.
+I wonder if they came out tasty..."
+2021005010140,円香,……では、私はレッスンに行きますね,"...well. I'll be going to lessons, then."
+0,プロデューサー,"えっ、もうそんな時間か！
+せめて味見だけでも──","Whoa, time flew by, huh!
+At least if you could give it a taste-test──"
+0,プロデューサー,"……って、言いたいところだけど、
+引き止めるのは違うよな","...well, I'd almost like to say that, but yeah, it'd be wrong to keep you held up here."
+0,プロデューサー,"あとで様子を見に行くからその時に差し入れするよ
+今日も頑張って、いってらっしゃい！","I'll drop by later to see you're all doing, so I'll hand these out to you then. Keep up the good work, and take care now!"
+2021005010150,円香,"……
+やめてもらえます？","...
+Could you cut that out?"
+2021005010160,円香,最後だけ『プロデューサー』みたいにするの,"Choosing just the final moment to act like a ""producer""."
+2021005010170,円香,"……あなたの手作りとか、
+なんの罰ゲームですか",...your own home cooking. Is this some kind of penalty game?
+0,プロデューサー,はは、そう言われると否定しきれないな,"Haha, put it to me that way and I can't really deny it."
+0,プロデューサー,"レシピ通りにできていれば美味しいはずだし、
+気持ちは込めたけど……もちろん無理強いはしないよ","As long as I stuck to the recipe, they should be tasty enough, and I did put some feelings into it... but obviously, I'm not forcing you."
+2021005010180,円香,……気持ち？,...feelings?
+0,プロデューサー,仕事頑張れ……！　レッスン頑張れ……！　って,Good luck with work...! Good luck with lessons...! The sort.
+2021005010190,円香,頑張れしか言ってない,"You're not saying anything but ""good luck""."
+0,プロデューサー,まあ、応援が仕事みたいなものだからさ,"Heck, cheering you guys on is a part of my work, in a way."
+2021005010200,円香,"……
+偉そうな肩書きの癖に","...
+So much for that crushing position of yours."
+0,プロデューサー,"はは……そうなんだよ、ちょっと偉そうなんだよな
+でも、肩書きに意味なんてないし……","Haha... yeah, they're kinda tough shoes to stand in, for sure, for sure. But the position here isn't what matters anyway..."
+0,プロデューサー,自分自身が何をするかだからさ,"It's what you do yourself, as you."
+2021005010210,円香,だから、業務時間中にお菓子作りをすると,"So you're whiling away business hours making desserts, then."
+0,プロデューサー,"そ、そこを繋げたらダメだ
+言ったよな、今は昼休みだから……！","Y──You can't tie this to that.
+C'mon, remember, we're on lunch break right now...!"
+2021005010220,円香,……,...
+2021005010230,円香,このオーブンの中……マフィンですか,So they're in this oven... are these muffins?
+0,プロデューサー,"ああ、あと数分で焼き上がりかな
+焦げてないか？","Uh-huh. Should be done in a few minutes, probably. They're not burnt, right?"
+2021005010240,円香,"さあ……
+黒くは見えませんが","Beats me...
+I can't see any blackening, but."
+2021005010250,円香,あなたが込めたとかいう気持ちも、見えませんね,"I can't exactly see all those feelings you were putting in, either."
+0,プロデューサー,"次、みんなでレッスンだったろう？
+悪いけど頼めるかな","You've got a lesson with everyone up next, right? Sorry, but could I possibly count on you for this?"
+2021005010260,円香,……業務命令であれば,...if it's an order from management.
+0,プロデューサー,"ま、まずいまずい……
+今、何時……","Uh──uh-oh, shoot...
+What time is it..."
+0,プロデューサー,あ……,Ah...
+2021005010270,円香,……随分と長い昼休みでしたね,"...quite the long lunch break, huh."
+0,プロデューサー,"はは……
+後片付けのことを考えてなかった……","Haha...
+I didn't factor in the cleanup afterwards..."
+0,プロデューサー,面目ない……,I'm ashamed...
+2021005010280,円香,"そこの腕時計、あなたのでしょ
+……外しっぱなし","The wristwatch over there. That's yours, right?
+...you've left it there for a while now."
+0,プロデューサー,"おっと……そうだった
+ありがとう","Whoah... right, yeah.
+Thanks."
+2021005010290,円香,では、私はレッスンなので,"Right. I have lessons now, so."
+0,プロデューサー,"そうか、もう時間だよな
+今日も頑張って、いってらっしゃい！","Right! It should be about time, shouldn't it.
+Keep up the good work, and take care now!"
+2021005010300,円香,……,...
+0,プロデューサー,"……
+ん？","...
+Hm?"
+2021005010310,円香,いってきます,I'll be going now.
+0,プロデューサー,"ああ……！
+成果が出るように応援しているよ","Yeah...!
+I'm supporting you. Hope you see some results!"
+2021005010320,円香,…………,...
+2021005010330,円香,ちゃーう、ちゃうちゃう……,"Awayyy, away-away..."
+0,プロデューサー,……──あっ,...──ah──
+0,プロデューサー,"そうだ！　差し入れ……！
+忘れてた……！","Right! The snacks...!
+I forgot...!"
+2021005010340,円香,──ちゃーみんぐ、クーッキーング……,──Away to Charming Cooookiiing...
+0,プロデューサー,"すまん、円香……
+ちょ、これを……おーい…………！！","Sorry, uh, Madoka...
+Wait──this... heeey...!!"
+info,produce_events/202100501.json,
+Translator,"Emelia, Pluie",

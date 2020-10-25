@@ -1,0 +1,30 @@
+id,name,text,trans
+1017001000410010,あさひ,うーん……,Hmm...
+0000000000000,プロデューサー,クロスワードか,"Crossword, huh."
+1017001000410020,あさひ,最後のひとつ……何すかねぇこれ,This last one... What is this?
+0000000000000,プロデューサー,これは……,This is...
+select,,"解き終わったら
+こっちにもあるぞ","Once you solve
+this line, it'll
+connect here too."
+select,,一緒に考えようか,"Wanna solve
+it together?"
+select,,たぶん答えは……,"Maybe the
+answer is..."
+1017001000410030,あさひ,あ！　それまだやったことないやつっす！,Oh! That's the one I haven't done yet!
+1017001000410040,あさひ,"楽しみが増えたっす～！　やったっす～！
+プロデューサーさん、ありがとっす～","Now the fun keeps coming～! Yay～!
+Producer-san, thanks～!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000410050,あさひ,"一緒に考えるっすか？
+プロデューサーさんならわかるっすかね……","Solve this together?
+Maybe if it's Producer-san..."
+1017001000410060,あさひ,"試しに見てほしいっす！
+これなんすけどね……","See if you can get it!
+This one right here..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000410070,あさひ,あ！　絶対言っちゃダメっすよ！,Ah! Absolutely don't say it!
+1017001000410080,あさひ,わたしの楽しみ、取っちゃ嫌っす！,"It's my fun, and I don't like it taken!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100041.json,
+Translator,Autumn Cloud,
