@@ -1,0 +1,41 @@
+id,name,text,trans
+1001001001010010,真乃,"プロデューサーさん、アイドルって、
+思ったより体をたくさん動かすお仕事なんですね","You know, Producer san...
+I never thought being an idol would be so much of a work-out."
+0000000000000,プロデューサー,"歌うのも踊るのも体力がいるからな
+きつく感じるか？","Yeah, singing and dancing both demand physical endurance.
+Is it too tough on you?"
+1001001001010020,真乃,"いえ、体力にはちょっぴり自信があるので大丈夫です
+今週もがんばります！　むんっ！","No, it's fine. I actually feel a little bit confident when it comes to being fit.  I'm going full steam ahead again this week! Mun!
+"
+0000000000000,プロデューサー,（確かに体力の心配はなさそうだ）,"(Well, she certainly does appear like she can handle it.)"
+select,,"前よりも体力
+ついたんじゃないのか","Maybe you've
+become even
+fitter than before."
+select,,俺も「むんっ」,"Same here!
+""Mun""!"
+select,,"疲れたなら
+休みにしようか","If you're tired,
+you can take
+the day off."
+1001001001010030,真乃,"はいっ、そう思います
+いつもやっているレッスンのおかげですね","Yes, I think so! 
+It must be thanks to the all of the lessons I've been taking."
+1001001001010040,真乃,"頑張ってる成果が出てきてるんだなって思うと、
+とってもうれしいです","The work I've been putting in is starting to pay off, and knowing that makes me really happy!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001001010050,真乃,ほわ、プロデューサーさんも元気いっぱいですねっ,"Hwa, I see you've got lots of energy too, Producer-san!"
+1001001001010060,真乃,"今週も一緒に頑張りましょう
+むんっ","Let's make this week a good one together.
+Mun!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001001010070,真乃,"ほわわ……いえ、私は大丈夫ですっ
+心配してくれてありがとうございます","Hwawa... 
+Thanks for worrying, but I'm okay, really!"
+1001001001010080,真乃,"プロデューサーさんも、
+疲れたときは言ってくださいね","The same goes for you, Producer-san.
+If you ever feel tired, make sure to tell me, okay?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100101.json,
+Translator,Pluie,

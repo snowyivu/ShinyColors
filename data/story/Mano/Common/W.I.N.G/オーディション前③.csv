@@ -1,0 +1,25 @@
+id,name,text,trans
+4001001000130010,真乃,"プ、プロデューサーさんっ
+私の衣装……おかしなところはありませんか？","P-Producer-san!
+Is there anything off about my costume...?"
+0000000000000,プロデューサー,（衣装か。問題無いように見えるが……）,(Her costume? There doesn't seem to be anything wrong with it....)
+select,,"どこから見ても
+アイドルだぞ","You look like 
+an idol from
+head to toe!"
+select,,"どこに出しても
+恥ずかしくないぞ","Nothing to be 
+ashamed off!"
+select,,大事なのは中身だ,"What matters 
+is what's inside."
+4001001000130020,真乃,ありがとうございますっ……精一杯アイドルしてきます！,"Thank you!
+...I'll do my best to act the part!"
+0000000000000,プロデューサー,（よし。この様子なら問題無いだろう）,(Alright. Looks like she's going to be fine.)
+4001001000130030,真乃,"ほわっ……
+あ、どこも問題ないって意味、なんですね","Hwa--...
+Umm... you mean there's no problem with it, right?"
+0000000000000,プロデューサー,（少しは安心して貰えただろうか）,(I hope that calmed her down at least a little bit.)
+4001001000130040,真乃,ほわ……でも、せっかくの衣装ですし……,Hwa... b-but... if I'm going to be wearing a costume I want it to look good...
+0000000000000,プロデューサー,（もう少し、言葉を選んだほうが良かったか……）,(Maybe I should have chosen my words a little more carefully...)
+info,produce_communication_cheers/400100100013.json,
+Translator,"Pluie, Emelia",

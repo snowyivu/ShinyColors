@@ -1,0 +1,22 @@
+id,name,text,trans
+4001001000210010,真乃,他のオーディション参加者さんたち、みんな上手そうです,The other participants all seem very talented.
+0000000000000,プロデューサー,（他の参加者に気圧されているようだ……）,(She's in awe of the other participants...)
+select,,真乃が一番だぞ,"You're 
+the best."
+select,,まわりなんか気にするな,"Don't mind
+the others."
+select,,今は集中しろ,"You should
+focus."
+4001001000210020,真乃,"あっ、ありがとうございます……
+そう言ってくれてうれしいです、ふふっ……","T-Thank you very much...
+I'm happy to hear that, hehe..."
+0000000000000,プロデューサー,（よし。これならオーディションも問題無いだろう）,(Alright. The audition should be no problem for her.)
+4001001000210030,真乃,"はい、そうですよね。自分の力を出せばいいって、
+プロデューサーさんが教えてくれたの、覚えてますっ","Yes, you're right. I still remember what you told me, Producer-san! I just have to do what I do best, right?"
+0000000000000,プロデューサー,（この様子ならなんとかなるだろう）,(It looks like things will work out.)
+4001001000210040,真乃,"し、集中ですね。とりあえず目をつむって……むむっ
+……なんだか、集中できたような気も？","F-Focus... I'll try closing my eyes... Mmu...!
+...I think I managed to focus... somewhat?"
+0000000000000,プロデューサー,（少し、落ち着いた……のか？）,(She calmed down a little bit... or did she?)
+info,produce_communication_cheers/400100100021.json,
+Translator,"Pluie, Emelia",

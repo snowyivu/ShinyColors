@@ -1,0 +1,36 @@
+id,name,text,trans
+1001001000910010,真乃,ふふっ、聞いてください、プロデューサーさんっ,"Hehe... you've got to hear this, Producer-san!"
+0000000000000,プロデューサー,ん、なんだ？,"Hm, what is it?"
+1001001000910020,真乃,"あのですね、今朝、
+ピーちゃんが一緒に歌ってくれたんですよ！","Well, you know what? This morning, Pii-chan sang along with me!"
+0000000000000,プロデューサー,（ピーちゃんと一緒に歌えたのがうれしかったようだ）,(She seems happy to have sung together with Pii-chan)
+select,,"素敵なハーモニーに
+なったか？","I bet it was
+a wonderful
+harmony."
+select,,"本当にピーちゃんが
+好きだな","You're really 
+fond of
+Pii-chan, huh?"
+select,,"ピーちゃんって
+俺のこと？","P-chan?
+You mean me?"
+1001001000910030,真乃,"はいっ、とっても素敵でした
+灯織ちゃん、めぐるちゃんと歌う時とはまた違って","Yes, it was wonderful, really really wonderful!
+Like singing with Hiori-chan and Meguru-chan, but different."
+1001001000910040,真乃,"今度はイルミネーションスターズのみんなと
+ピーちゃんとで歌いたいですっ","I'd love to sing together with Pii-chan with Illumination Stars sometime, with the four of us!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001000910050,真乃,"はいっ、大好きです！
+私の大切な家族ですから","Yes, I love them! Pii-chan's like family to me."
+1001001000910060,真乃,また一緒に歌えたらいいな～,I hope we get to sing together again.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001000910070,真乃,"ほわっ、どういうことですか？
+ピーちゃんは飼っている鳩さんのことで……","Hwa, what are you saying?
+Pii-chan is my pet pigeon..."
+1001001000910080,真乃,"…………あっ！
+もしかしてプロデューサーのピーですか？","....Oh!
+""P"" as in ""producer""?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100091.json,
+Translator,Pluie,

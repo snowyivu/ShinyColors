@@ -1,0 +1,22 @@
+id,name,text,trans
+4001001000220010,真乃,プロデューサーさん……何かアドバイスを……,Producer-san... Do you have any tips for me...?
+0000000000000,プロデューサー,（俺にアドバイスできることは……）,(What advice can I give her...?)
+select,,今の真乃なら大丈夫だ,"You'll be 
+fine, Mano."
+select,,レッスンを思い出せ,"Remember 
+your lessons."
+select,,元気よく頑張ろう！,"Let's go 
+all out!"
+4001001000220020,真乃,"ほわぁ、本当ですか！
+そう言ってもらえるとうれしいです","Hwa... really?!
+I'm happy to hear you say that."
+0000000000000,プロデューサー,（緊張がほどけたみたいだ）,(Seems like that got rid of her nerves.)
+4001001000220030,真乃,"はいっ、
+ここまで頑張ってきましたもんねっ","Okay! We've worked hard for this, after all."
+0000000000000,プロデューサー,（練習の成果が出せれば大丈夫なはずだ）,"(If she can show the results of her training, she should be fine.)"
+4001001000220040,真乃,"は、はい！
+そうですよねっ、げ、元気に頑張りますっ","Y-Yes!
+You're right... l-let's go... a-all out!"
+0000000000000,プロデューサー,（しまった……逆に、落ち着きがなくなったか……）,(Oh no... she's even more nervous now.)
+info,produce_communication_cheers/400100100022.json,
+Translator,"Pluie, Emelia",

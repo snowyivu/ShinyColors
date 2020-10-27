@@ -1,0 +1,33 @@
+id,name,text,trans
+1001001000410010,真乃,～～♪,～～♪
+1001001000410020,真乃,ほわ～鳥さんの鳴き声が聞こえますね,Hwa～ I can hear a bird singing.
+0000000000000,プロデューサー,ん～,Hmm?
+0000000000000,プロデューサー,"（あっ……本当だ、聞こえる
+真乃が耳を澄ましているな）","(Oh... she's right! I can hear it too.
+Mano is quite the keen audience.)"
+select,,"可愛らしい
+さえずり声だな","What a 
+lovely song."
+select,,"真乃のハミング、
+かわいかったぞ","Your humming
+was pretty cute."
+select,,元気な鳥だな,"That's one
+lively birdie."
+1001001000410030,真乃,"はいっ、そうですねっ
+まるで歌ってるみたいで、本当にかわいいっ","Yes, isn't it? It really does sound like it's singing a song. It's so cute!"
+1001001000410040,真乃,"鳥さんたちの歌を聞いてると、
+私も一緒に歌いたくなっちゃうんです、ふふっ","When I listen to the songs of birds, I can't help but feel like singing along with them, hehe."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001000410050,真乃,"ほわっ……プロデューサーさんに
+聞こえてたんですか？",Hwa... You heard that?
+1001001000410060,真乃,"私、無意識に歌いたくなっちゃうんで……
+ちょっと恥ずかしいです……",I tend to start singing without thinking about it... so it's a little bit embarrassing...
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001000410070,真乃,"ふふっ、あの小さな身体から
+あんなに大きな声が出るのってすごいです","Hehe, it's amazing how that tiny body can produce so much sound."
+1001001000410080,真乃,"私も……鳥さんたちに負けないくらい
+大きな声が出せるようになれたらいいんですけど……","I wish I could learn to sing like the birds do... 
+With a great, loud voice..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100041.json,
+Translator,"Pluie, Emelia",
