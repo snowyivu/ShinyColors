@@ -1,0 +1,36 @@
+id,name,text,trans
+7902001060010,社長,"やはりここまで来ると、
+乗り越えるべき壁も高かったな……",The wall to climb over after coming this far was tall...
+7901001060010,はづき,"結果は残念でしたけど……
+おふたりは立派にやってましたよ！","The results are unfortunate, but...
+The two of you did a splendid job!"
+7901001060020,はづき,"ここまで来れただけでも、
+胸を張って誇れることだと私は思います","You were only able to come this far,
+but I think you can walk with your heads held high."
+7902001060020,社長,"ああ、良い活躍だった
+それはたしかだ","Yes, it sure was a great effort.
+That's for sure."
+0000000000000,プロデューサー,"……俺もそう思います
+彼女はよくやってくれました","...I think so, too.
+She did a great job."
+7901001060030,はづき,"その言葉を、彼女に直接
+言ってあげましょう？",How about you tell that to her in person?
+0000000000000,プロデューサー,……はい,...I will.
+0000000000000,プロデューサー,"あさひ
+三次審査は……残念だが……","Asahi.
+For the third round... unfortunately..."
+7017001060010,あさひ,ダメ……だったんすか……,Not good... huh...
+7017001060020,あさひ,わたし、何やってたんすかね……,What am I even doing...
+7017001060030,あさひ,"プロデューサーさんの言う事
+もっとちゃんと聞いてたら……","If only I listened more
+to what Producer-san said..."
+7017001060040,あさひ,……わたしがひとりで突っ走らなければ……,...if only I didn't rush things alone...
+7017001060050,あさひ,もっと違う結果だったかもしれないのに,The result might have been different.
+0000000000000,プロデューサー,いや、俺の方こそ、もっと早くに気付ければ……,"No, I'm also one to blame.
+If only I notice it sooner..."
+7017001060060,あさひ,……なんで、こんなに,...why is it like this?
+7017001060070,あさひ,"なんでこんなに悲しいっすか？
+プロデューサーさん……","Why does it feel this sad,
+Producer-san...?"
+info,produce_events/701700106.json,
+Translator,Autumn Cloud,

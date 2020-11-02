@@ -1,0 +1,22 @@
+id,name,text,trans
+4017001000110010,あさひ,わたし、どっすか？,How do I look?
+0000000000000,プロデューサー,（唐突な質問だな……）,(Now that's a curveball...)
+select,,"ワクワクが
+伝わってくる","Brimming with
+excitement."
+select,,みなぎってるな,"Full of
+confidence."
+select,,"気になるところ
+はないぞ","Nothing
+needs to be
+worried about."
+4017001000110020,あさひ,あ！　そっすか！　そう見えるんすね！　やった！,Oh! Really!? I looked like that!? Hooray!
+0000000000000,プロデューサー,（どうやら望んだ答えだったようだ）,(Seems to be what she wanted to hear.)
+4017001000110030,あさひ,そう見えるんすね……なるほどなるほど,"I looked like that, huh... I see I see."
+0000000000000,プロデューサー,（これでよかったのか）,(Guess this is okay.)
+4017001000110040,あさひ,"そんなことないと思うんすけど……
+うーん……まぁそういうことにしておくっす","I don't think that's true, but...
+Hmm... Well, let's just roll with that."
+0000000000000,プロデューサー,（何か言えばよかったな）,(What should I say then?)
+info,produce_communication_cheers/401700100011.json,
+Translator,Autumn Cloud,

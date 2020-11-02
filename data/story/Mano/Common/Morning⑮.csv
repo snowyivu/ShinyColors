@@ -1,0 +1,39 @@
+id,name,text,trans
+1001001001510010,真乃,"お仕事とはわかっていても、
+ロケでいろんな所へお出かけできるのはうれしいです","I know it's supposed to be work, but I really enjoy visiting all kinds of places for outdoor shoots."
+1001001001510020,真乃,ほわ、ちょっと不真面目でしょうか？,Hwa... does that mean I'm not taking it seriously enough?
+0000000000000,プロデューサー,"そんなことはない
+仕事を楽しんでくれて俺もうれしいよ","Of course not.
+If you're enjoying your work, that makes me a happy producer."
+0000000000000,プロデューサー,（せっかくなんだ、次は……）,"(Next time, we might as well go for...)"
+select,,"大自然のロケで
+富士山の頂上だ","A nature 
+shoot on top 
+of Mt. Fuji."
+select,,"ホラ―映画の撮影で
+夜の森ロケはどうだ？","How about shooting
+a horror movie in 
+a forest at night?"
+select,,屋内撮影でもいい？,"Would you
+be okay with
+an indoor shoot?"
+1001001001510030,真乃,"ほわっ、富士山に登るってことですか……？
+それは……その……","Hwa... we're going to climb Mt. Fuji...?
+That's... I think that's..."
+1001001001510040,真乃,"とってもいいと思います！
+頑張って登りますね、むんっ","A wonderful idea!
+I'll do my best to get to the top. Mun!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001001510050,真乃,"ほわっ、夜の森ですか？
+それにホラ―撮影って……すごく怖そうです……","Hwa... at night... in a forest?
+And horror on top of that... it sounds really scary..."
+1001001001510060,真乃,"でも、プロデューサーさんが見ていてくれるなら……
+絶対に離れないでくださいねっ","But as long as you're watching...
+Make sure to stay close to me, okay?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001001510070,真乃,"はいっ、屋内撮影も
+いつものように頑張りますっ","Of course. Even if it's indoors, I'm still going to make the most of it."
+1001001001510080,真乃,ロケは……また今度の楽しみに取っておきますね,I'll just save my excitement for outdoor shoots for another time...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100151.json,
+Translator,Pluie,

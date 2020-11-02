@@ -1,0 +1,34 @@
+id,name,text,trans
+1001001001310010,真乃,プロデューサーさんっ……,Producer-san...
+0000000000000,プロデューサー,ん、どうした？,"Hm, what's the matter?"
+1001001001310020,真乃,"この前、ファンの方から『癒される～』って言われたんです
+だけど、なんて返事していいか、わからなくて……","The other day, a fan told me they felt ""soothed"" by me. I wasn't sure what to say..."
+0000000000000,プロデューサー,（ファンの気持ち、よくわかるなぁ）,(I totally get how her fans feel...)
+select,,何も言わず、微笑,"Say nothing,
+just smile."
+select,,「ほわ～」って言おう,"Say ""hwaa"""
+select,,"「ありがとう」で
+いいんじゃ","A simple
+""Thank you""
+will do."
+1001001001310030,真乃,"……何も言わずに微笑めばいいんですか？
+えっと……こう、でしょうか？","...You want me to just smile, without saying anything?
+Umm... you mean... like this?"
+1001001001310040,真乃,"ほわ……？
+プロデューサーさんまでにこにこ顔になりました？","Hwa...?
+Why are you smiling too, all of a sudden?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001001310050,真乃,"ほわ～って言えばいいんですか……？
+ええと、じゃあ練習してみますね","You want me to say ""hwaaa""...?
+Umm... okay, let me try it."
+1001001001310060,真乃,"ほわ～……違うような気が……？
+ほわ～……こんな感じですか、プロデューサーさん？","Hwaa.... No, that's not it...?
+Hwaa... Something like this, Producer-san?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001001310070,真乃,はいっ、次からはそうしてみますねっ,"Okay, I'll try that next time."
+1001001001310080,真乃,"ほわわわ……
+私って、癒されるんですねぇ……？","Hwawawa...
+So people feel soothed by me..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100131.json,
+Translator,Pluie,

@@ -1,0 +1,36 @@
+id,name,text,trans
+1001001001210010,真乃,"この前のイベントで、ファンのみなさんが
+送ってくれた声援が忘れられなくて……",I can't stop thinking about how my fans cheered for me at the event the other day...
+1001001001210020,真乃,"だから今日もアイドル活動を頑張りたいです
+プロデューサーさん、よろしくお願いしますねっ","It makes me feel like working real hard today. 
+Producer-san, I'm counting on you!"
+0000000000000,プロデューサー,うん、ファンのみんなの応援に応えたいな,"I get that. Gotta make sure we're worth their support, right?"
+0000000000000,プロデューサー,（真乃、やる気になってる）,(She seems eager to get started.)
+select,,"もっと大きな声援がもら
+えるようになりたいな","Let's get them
+to cheer even
+louder."
+select,,なら、まずは筋トレだ！,"Alright, let's
+start with some
+strength training!"
+select,,無理しすぎるなよ,"Don't push
+yourself
+too hard."
+1001001001210030,真乃,"どうしたら大きな声援がもらえるんでしょうか
+みなさんが喜んでくれるようなステージをすれば……","I wonder what I can do to make that happen. If my performance makes everyone happy, will that make them cheer louder? "
+1001001001210040,真乃,"きっとそうですよね
+私、頑張ります。むんっ","That has to be it, don't you think?
+I'm going to give it my all! Mun!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001001210050,真乃,"ほわっ、筋トレ……
+はいっ、トレーニングは大切ですっ","Hwa... Strength training...
+You're right, training is key!"
+1001001001210060,真乃,基礎が大切ってことですね、プロデューサーさん,"I've got to get the basics covered. Isn't that what you mean, Producer-san?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001001210070,真乃,"はい、無理をして怪我しちゃったら大変ですよね
+でも……","Yes, there would be no point if I pushed too hard and injured myself. But still..."
+1001001001210080,真乃,"私にできることは、
+何でもやっておきたいなって思います……",I want to make sure I do everything I can...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100121.json,
+Translator,Pluie,

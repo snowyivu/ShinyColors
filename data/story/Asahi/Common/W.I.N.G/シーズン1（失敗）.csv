@@ -1,0 +1,37 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I heard the results.
+...Looks like this is it."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...yes. Our goals weren't reached.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね","""W.I.N.G."" is the stage that
+all idols strive for."
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……","The road is grueling,
+that's what they say..."
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,"Without producing any result, I have no excuse..."
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...you shouldn't be apologizing to us.
+The girl, she's waiting for you, right?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It's painful, but this is also a Producer's job."
+0000000000000,プロデューサー,……行ってきます,...I'm going.
+0000000000000,プロデューサー,"……あさひ
+残念ながら、一次審査は突破できなかった","...Asahi.
+Unfortunately, you didn't get through the first round."
+7017001020010,あさひ,そうなんすね……,Is that so...?
+0000000000000,プロデューサー,"ごめんな
+俺の力が足りないばかりに……","I'm sorry.
+I just don't enough power to help..."
+7017001020020,あさひ,"でも、別にアイドル自体が
+終わるわけじゃないんすよね？","But it's not like the idol gig itself
+is over with this, right?"
+0000000000000,プロデューサー,ああ、その通りだが……,"Yeah, it's as you say..."
+7017001020030,あさひ,"なら平気っす！
+これからも頑張っていくっすよ！","So, it's okay!
+From now on, I'll keep doing my best!"
+0000000000000,プロデューサー,"……そうだよな
+ありがとう。これからも一緒に頑張ろうな","...you're right.
+Thanks. From now on, let's do our best."
+7017001020040,あさひ,もちろんっす！　どんどん進むっすよ～！,Of course! Let's keep on movin'～!
+info,produce_events/701700102.json,
+Translator,Autumn Cloud,

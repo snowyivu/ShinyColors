@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,おはよう、真乃,"Morning, Mano."
+1001001001410010,真乃,"オハヨー！　ボクは、ピーちゃんですゾ～
+ぽっぽる～","Howdy, I am Pii-chan～! Purrutrrr～"
+1001001001410020,真乃,ふふっ、なんちゃって,"Heehee, just kidding."
+0000000000000,プロデューサー,（ピーちゃんって、真乃が飼ってる鳩のことだよな）,(Pii-chan... I think that was her pet pigeon's name.)
+select,,ぽぉっぽるぅ～！,"Coo, coo～!"
+select,,ピーちゃんの物真似か？,"You're
+mimicking
+Pii-chan?"
+select,,"ピーちゃんは留守番中
+じゃないの？","Shouldn't Pii-chan
+be at home?"
+1001001001410030,真乃,"ほわっ、プロデューサーさん、
+鳩さんの物真似、すっごく上手なんですね～っ","Hwa! Producer-san, that's an impressive pigeon imitation."
+1001001001410040,真乃,"なんて言ってくれたんですか？
+私は『今日も頑張ります』って言ったんですよ","What was it you said?
+I said ""I'm raring to go!""."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001001410050,真乃,"はいっ、でもピーちゃんは鳩さんなので、
+人の言葉は喋れないんですけどね","Yes! Pii-chan can't speak human words, though. He's a pigeon, after all."
+1001001001410060,真乃,"なので『ぽっぽる～』のところだけが物真似です
+すごく似てるって、家族に好評なんですよっ","So the only part where I was mimicking him was the cooing. My cooing is a big hit at home, you know. Everyone says it sounds just like him!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001001410070,真乃,"そうなんです、ピーちゃんは私が帰るまで、
+とってもお利口さんにお留守番しててくれて……","That's right, Pii-chan's watching the house until I get home. He's a really good boy..."
+1001001001410080,真乃,"ほわ……ちょっぴり、
+ピーちゃんが恋しくなってきちゃいました……",Hwa... just thinking about it makes me miss him a little bit...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100141.json,
+Translator,Pluie,

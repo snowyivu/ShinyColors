@@ -1,0 +1,33 @@
+id,name,text,trans
+1001001001110010,真乃,おはようございます、プロデューサーさんっ,"Good morning, Producer-san!"
+0000000000000,プロデューサー,"おはよう、
+何か報告したそうな顔してるぞ？",Morning. One look at your face tells me there's something you can't wait to tell me about.
+1001001001110020,真乃,"実は昨日……灯織ちゃんとめぐるちゃんと、
+ご飯を食べに行ってきましたっ！","Well, actually... yesterday I went out to eat with Hiori-chan and Meguru-chan!"
+0000000000000,プロデューサー,（ユニットの三人でご飯に行ったのか）,"(So they went out to eat as a unit, huh.)"
+select,,仲良くなれたか？,"Did you get 
+to know them
+better?"
+select,,どこに行ってきたんだ？,"Where did
+you guys go?"
+select,,仕事も頑張れそうだな,"Then I bet 
+you're eager to
+get back to work."
+1001001001110030,真乃,"はいっ、ふたりともすっごく優しいんです
+どれがおいしそうか一緒に選んでくれて……",Yes! The two of them are so nice to me. They even helped me find the most delicious-looking things on the menu...
+1001001001110040,真乃,"また行こうねって約束しました
+次はどこへ行こうかなぁ……楽しみです","We promised each other we'd go out together again.
+I wonder where we'll go next time... I can't wait!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1001001001110050,真乃,"カフェに行ってきましたっ
+私、あまりカフェには詳しくないんですけど……","We went to a café.
+I'm not much of a café-goer myself..."
+1001001001110060,真乃,"灯織ちゃんとめぐるちゃんが色々教えてくれました
+とっても楽しかったですっ",But Hiori-chan and Meguru-chan told me everything I needed to know. We had a really really good time!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1001001001110070,真乃,はい、頑張ってお仕事しますっ,"Yes, I'm going to give it my all."
+1001001001110080,真乃,"昨日はお仕事のことを忘れて遊んでいました
+それじゃあ、ダメですよね？","...Yesterday I was having so much fun I forgot all about work. But that's no good, is it?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100100100111.json,
+Translator,Pluie,

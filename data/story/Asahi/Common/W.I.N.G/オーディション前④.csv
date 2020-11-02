@@ -1,0 +1,22 @@
+id,name,text,trans
+4017001000210010,あさひ,"プロデューサーさん、わたし、今日はなんか
+いつもよりいい感じなんす！","Producer-san, somehow today, I felt
+better than usual!"
+0000000000000,プロデューサー,（気分が乗っているみたいだ）,(Looks like she's on her hype train.)
+select,,"たくさん練習
+したもんな","You've practiced
+a lot, after all."
+select,,勝てそうだな,"Looks like
+you can win."
+select,,"いつも通りで
+大丈夫だ","It'll be okay
+to do it as usual."
+4017001000210020,あさひ,はいっす！　めいっぱい、成果を見せるっす！,Yes! I'll show the result of that to the fullest!
+0000000000000,プロデューサー,（しっかり成果が披露できるといいな）,"(Hopefully, she can pull off that result.)"
+4017001000210030,あさひ,そっすね、いつもよりはそんな気がするっす,"Yeah, I'm feeling it more than usual."
+0000000000000,プロデューサー,（よし、気負いはないみたいだ）,"(Great, looks like she isn't feeling down.)"
+4017001000210040,あさひ,そんなもんっすかねぇ……,I don't know...
+0000000000000,プロデューサー,（リラックスさせようと思ったが、逆効果だったか）,"(I thought it'll make relaxed,
+but it seems to be counterproductive.)"
+info,produce_communication_cheers/401700100021.json,
+Translator,Autumn Cloud,

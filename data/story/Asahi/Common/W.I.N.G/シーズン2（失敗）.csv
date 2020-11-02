@@ -1,0 +1,43 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since
+she was able to pass the first round of judging,
+she'd be able to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is very relentless, isn't it..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","However, these results aren't bad
+for a new idol and new producer."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！","But I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength,
+all that means is you should keep on
+growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Okay, go ahead."
+0000000000000,プロデューサー,すまない、二次審査は突破できなかった……,"Sorry, but you didn't get through the second round."
+7017001040010,あさひ,……,......
+7017001040020,あさひ,もう少しで見えそうだったんすけどね……,It seemed like I almost could see it...
+0000000000000,プロデューサー,見えそうだった？,Almost could see it?
+7017001040030,あさひ,"あのステップ、もう少しで何か……
+これだってものが見えそうだったんす","That step just needs a bit more of something...
+Even I could see that problem."
+7017001040040,あさひ,"ごめんなさいっす、プロデューサーさん
+色々教えてもらったのに","I'm very sorry, Producer-san.
+Even though I've been taught various things."
+7017001040050,あさひ,"ダメだったのは、きっと
+何かを見つけられなかったから……","I'm sure it didn't work because
+I couldn't find the answer..."
+0000000000000,プロデューサー,"いや、あの時点で充分ステップの出来は良かった
+俺がもっと他に的確なアドバイスをしていれば……","Nah, the steps were good enough at that time.
+If only I had more accurate advice..."
+7017001040060,あさひ,プロデューサーさんのせいじゃないっす,"Producer-san, it isn't your fault."
+7017001040070,あさひ,"わたしが気付けなかったから……
+なんかこう……モヤモヤするっす","It's because I didn't realize it...
+Like... This fuzzy feeling."
+info,produce_events/701700104.json,
+Translator,Autumn Cloud,
