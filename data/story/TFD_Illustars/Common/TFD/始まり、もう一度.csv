@@ -35,7 +35,7 @@ The three of us, with you, in this room..."
 わたしたちが決めていいってこと！？",──Huh!? So you're saying we get to decide on what we're going to perform!?
 0000000000000,プロデューサー,もちろん、要所要所で相談は必要だぞ？,"I do expect you to discuss all of the key aspects with me, of course."
 0000000000000,プロデューサー,"でも、みんなが一番感謝の気持ちを伝えられるように、
-なるべくみんなの思った通りの内容にできればと思ってる","That being said, I want to allow the three of you to express your gratitude in whatever way works best for you. So I intend to do what I can to facilitate your ideas."
+なるべくみんなの思った通りの内容にできればと思ってる",But I want to allow the three of you to express your gratitude in whatever way works best for you. So I intend to do what I can to facilitate your ideas.
 5001002010090,めぐる,そうなんだ……！,"Ah, gotcha...!"
 5001002010100,灯織,"……プロデューサー、
 可能な演出などのデータを頂くことはできますか？","...Producer, could you provide us with some more information on the stage effects and equipment available?"
@@ -89,7 +89,7 @@ Let's make it a great show together."
 0000000000000,プロデューサー,"トークはもちろんだけど、
 ここで、感謝祭の宣伝をしてきてほしい","Of course there'll be plenty of time for regular talk as well, but I want you to use this opportunity to get the word out about our Fan Fest."
 0000000000000,プロデューサー,"──ただ、ここのディレクターさんは、業界でも有名なんだ
-仕事がデキる人だという意味でも、厳しいという意味でも","──Keep in mind though, the director of this particular show is well-known in the industry. Not just for his competence on the floor, but also for his tough attitude."
+仕事がデキる人だという意味でも、厳しいという意味でも","Remember though, the director of this show is well-known in the industry. Not just for his competence on the floor, but also for his tough attitude."
 5001002010270,めぐる,"──……えへへ
 そういうこと聞くと、燃えてきちゃうね","──...Heheh.
 Hearing that just gets me fired up even more."
@@ -100,4 +100,4 @@ It doesn't matter how tough or trying it is, we'll see it through."
 私たちの気持ちが、届くように──……","Anything, if it helps us connect to the people listening──to our fans..."
 5001002010291,真乃＆めぐる,うんっ,Yeah!
 info,produce_events/500100201.json,
-Translator,,
+Translator,Pluie,
