@@ -1,8 +1,8 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（──ああ、もうこんな時間か
 そろそろみんなの練習が終わる頃だよな……）","(──Aaah, look at the time. They're probably wrapping up their practice by now...)"
-0000000000000,プロデューサー,（あれ、真乃から──）,"(Hey, it's Mano──)"
-5001002050010,真乃,『お疲れ様です』,"""Good afternoon"""
+0000000000000,プロデューサー,（あれ、真乃から──）,"(Oh, it's Mano──)"
+5001002050010,真乃,『お疲れ様です』,"""Good afternoon."""
 5001002050020,真乃,"『プロデューサーさんすみません、
 練習の後に、お時間をいただけないでしょうか……？』","""If you don't mind, Producer-san, could we ask for some of your time after our practice?"""
 5001002050030,真乃,"『私たちからプロデューサーさんに、
@@ -29,21 +29,21 @@ Producer...!"
 5001002050100,めぐる,"あのねーっ！
 早く聞いてほしくて、迎えにきたのーっ！","Well! We wanted to tell you as quickly as possible, so we came your way!"
 5001002050110,めぐる,"わたしたち、３人で話して──
-やっと──やっと、わかったから──！","We've talked it through, with the three of us! 
+やっと──やっと、わかったから──！","We talked it through, with the three of us! 
 And we finally──we finally get it now!"
 5001002050120,めぐる,だから、聞いてーっ！,So hear us out!
 5001002050130,灯織,──本当は──！,──The truth is──!
 5001002050140,灯織,"アイドルは可愛いだけでいいって言われたこと、
-どうしても、悔しかったんです……！",I absolutely hated being told that being cute is all it takes to be an idol...!
+どうしても、悔しかったんです……！",I hated being told that being cute is all it takes to be an idol... I couldn't stand it..!
 5001002050150,灯織,"そんなことない、みんなもっと頑張って、
 ファンの気持ちに応えたいって思ってるのにって──",I knew that couldn't be true. We're trying so hard to become what our fans believe we can be──
 5001002050160,灯織,──でも──！,But──!
-5001002050170,灯織,──私、すぐに『違う』って思えなかった──……！,"──At that moment, I couldn't convince myself that he was wrong──...!"
-5001002050180,真乃,私も──私も一緒です──……！,Me too──It was the same for me──...!
+5001002050170,灯織,──私、すぐに『違う』って思えなかった──……！,"──At that moment, I couldn't convince myself that he was wrong──......!"
+5001002050180,真乃,私も──私も一緒です──……！,Me too──It was the same for me──......!
 5001002050190,真乃,"プロデューサーさんは
 あの日も迷わず信じてくれたのに──","Even though you believed in us that day, even though you never hesitated──"
 5001002050200,真乃,この間の夕方も、信じて応援してくれたのに──,Even though you believed in us and cheered us on just the other day──
-5001002050210,真乃,私は、自分のことを信じきれてなかったんです──……っ,I didn't fully believe in myself....!
+5001002050210,真乃,私は、自分のことを信じきれてなかったんです──……っ,I didn't fully believe in myself...!
 5001002050220,めぐる,"──だから！
 だから、ずっとモヤモヤしたままだったの！","──That's why!
 That's why I couldn't shrug it off!"
@@ -51,14 +51,14 @@ That's why I couldn't shrug it off!"
 『わたしたちはそんなものじゃない』って──","I couldn't tell him ""That's nonsense"",
 I couldn't tell him ""We're so much more than that""──"
 5001002050240,めぐる,"あのディレクターさんに届けようって……
-頑張れなかった──……！",I should have done whatever it took to get that across to that director... but I couldn't....!
-5001002050250,めぐる,──……だからっ……,──....And that's why....
+頑張れなかった──……！",I should have done whatever it took to get that point across to that director... but I didn't...!
+5001002050250,めぐる,──……だからっ……,──...And that's why....
 5001002050260,灯織,"きっと──……
 届かなかったのは、自分のせいなんです……！","I'm sure...
 It was my own fault it never did get across...!"
-5001002050270,真乃,──ごめんなさいっ……,──I'm sorry...
+5001002050270,真乃,──ごめんなさいっ……,──I'm sorry...!
 5001002050271,灯織＆めぐる,ごめんなさい──！,I'm sorry──!
-0000000000000,プロデューサー,（……違う……！）,(...That's not true...!)
+0000000000000,プロデューサー,（……違う……！）,(......That's not true...!)
 0000000000000,プロデューサー,"──違う、違うぞ、みんな──！
 みんなが謝るようなことは、なんにもない──……！","──No, you're wrong!
 You've got absolutely nothing to apologize for...!"
@@ -84,11 +84,11 @@ We──!"
 0000000000000,真乃,──っ,──!
 0000000000000,灯織,──……！,──......!
 0000000000000,めぐる,──っ！,──!
-5001002050300,めぐる,──プロデューサー、聞こえた……！？,"──Producer, did you hear us...!?"
+5001002050300,めぐる,──プロデューサー、聞こえた……！？,"──Producer, did you hear that...!?"
 0000000000000,プロデューサー,"……いや、すまん……
-聞こえなかった……","...No, I'm sorry....
+聞こえなかった……","......No, I'm sorry...
 Couldn't quite catch that..."
-0000000000000,プロデューサー,……その、なんて言ってたんだ……？,"...So, what was it you said?"
+0000000000000,プロデューサー,……その、なんて言ってたんだ……？,"......So, what was it you said?"
 5001002050301,一同,……,......
 5001002050302,一同,……えへへ,......Ehehe.
 5001002050310,めぐる,──もう一回言うのは恥ずかしいから、また今度！,──It'd be kind of embarrassing to say it again. We'll tell you later!
@@ -110,7 +110,7 @@ I'll be looking forward to it."
 5001002050370,めぐる,──じゃあ、事務所に戻ろっか！,"──Alright, then let's head back to the office."
 0000000000000,プロデューサー,"おう
 ……悪かったな、迎えにきてもらって","Sure.
-...I'm sorry you guys had to come and meet me along the way."
+......I'm sorry you guys had to come and meet me along the way."
 5001002050380,めぐる,ううん、ちゃんと会えてよかった！,Nah. I'm glad we found you!
 5001002050390,灯織,あっ……そういえば……,Ah... now that you mention it...
 5001002050400,灯織,"プロデューサーがこの道通らないかも、とか……

@@ -1,23 +1,21 @@
 id,name,text,trans
 0000000000000,プロデューサー,"いきなり呼び出してごめんな
-今日は３人に、大事な話があるんだ",Glad all three of you are here. There's an important matter we need to talk about.
+今日は３人に、大事な話があるんだ",Glad all three of you are here. There's an important matter I need to tell you about.
 5001002010010,めぐる,"はーい！　わたし、わかった！
 それって、とっても素敵な話でしょ！？","Oooh, I know!
-You've got wonderful news for us, haven't you?"
+You've got wonderful news for us, don't you?"
 0000000000000,プロデューサー,"あ、あれ……？
 みんなに何か言ってたっけ……！？","H-Huh...?
 Did I say something to spoil the surprise...!?"
 5001002010020,めぐる,"んーん、そうじゃないけど
-──でも、だって。ねぇ？","Naaah, not quite.
+──でも、だって。ねぇ？","Naaah, not really.
 ──But, hey... you know?"
 5001002010030,真乃,ふふっ、うん,"Heehee, yeah."
 0000000000000,プロデューサー,……？,......?
 5001002010040,灯織,"……ユニットの結成を教えてもらった時と、一緒なんです
-この部屋で、私たち３人と、プロデューサーが揃って……","It's just like the day you first told us we were going to be a unit.
-The three of us, with you, in this room..."
+この部屋で、私たち３人と、プロデューサーが揃って……","It's just like the day you first told us we were going to be a unit. The three of us, with you, in this room..."
 5001002010050,灯織,"だから……きっと、今日のお話も、
-私たちにとって素敵なことなんだろうなって","So... whatever it is you've got for us today, it's bound to be wonderful news.
-"
+私たちにとって素敵なことなんだろうなって","So... whatever it is you've got for us today, it's bound to be wonderful news."
 5001002010060,灯織,──そういうことだよね？,──Am I saying that right?
 5001002010061,真乃＆めぐる,うんっ,Yeah!
 0000000000000,プロデューサー,ああ──なるほどな……！,"Okay, I see what you're getting at...!"
@@ -38,7 +36,7 @@ The three of us, with you, in this room..."
 なるべくみんなの思った通りの内容にできればと思ってる",But I want to allow the three of you to express your gratitude in whatever way works best for you. So I intend to do what I can to facilitate your ideas.
 5001002010090,めぐる,そうなんだ……！,"Ah, gotcha...!"
 5001002010100,灯織,"……プロデューサー、
-可能な演出などのデータを頂くことはできますか？","...Producer, could you provide us with some more information on the stage effects and equipment available?"
+可能な演出などのデータを頂くことはできますか？","Producer, could you provide us with some more information on the stage effects and equipment available to us?"
 0000000000000,プロデューサー,"ああ、そう言うと思ってた
 色々まとめておいたから、読んでおいてくれ","Yeah, I was expecting you'd ask that.
 I've collected all the info right here, have a look at it."
@@ -62,17 +60,17 @@ Umm, lemme see..."
 5001002010150,めぐる,わたしたちだって大好きだよーっ！,"Well, we love Illumination Stars just as much!"
 5001002010160,真乃,ふふっ、本当だねっ,"Heehee, we do!"
 5001002010170,めぐる,灯織、そっちはどう？,"Hiori, what does that one say?"
-5001002010180,灯織,う、うん──,U-Uhm...
+5001002010180,灯織,う、うん──,W-Well...
 5001002010190,灯織,『イルミネーションスターズの３人、可愛いから好き！』,"I adore Illumination Stars, the three of you are so cute!"
 5001002010200,灯織,──真乃とめぐるなら、わかるけど……,"──I'd get it if they were just talking about Mano or Meguru, but..."
 5001002010210,めぐる,"えー？　そのファンレターの人はー、
-灯織の今みたいなところを言ってるんだと思うなー？",Hmmm? Pretty sure the person who wrote that had exactly THAT reaction in mind when they called you cute──!
+灯織の今みたいなところを言ってるんだと思うなー？",Hmmm? Pretty sure the person who wrote it had THAT exact reaction in mind when they called you cute.
 5001002010220,灯織,"も、もう……！
 めぐるはいつもそうやって……！","Ohh, come on...!
 Meguru, why do you always have to..."
 5001002010230,めぐる,えへへー,Eheheー
 5001002010240,真乃,"私たちのこと……こんなにたくさん、
-見てくれる人ができたんだね……",To think that so many people... so many people are watching us now...
+見てくれる人ができたんだね……",To think that so many people are watching us now...
 5001002010241,灯織＆めぐる,！,!
 5001002010250,灯織,"──うん……！
 ……気持ちに、応えなきゃ……！","ーYeah...!
@@ -89,7 +87,7 @@ Let's make it a great show together."
 0000000000000,プロデューサー,"トークはもちろんだけど、
 ここで、感謝祭の宣伝をしてきてほしい","Of course there'll be plenty of time for regular talk as well, but I want you to use this opportunity to get the word out about our Fan Fest."
 0000000000000,プロデューサー,"──ただ、ここのディレクターさんは、業界でも有名なんだ
-仕事がデキる人だという意味でも、厳しいという意味でも","Remember though, the director of this show is well-known in the industry. Not just for his competence on the floor, but also for his tough attitude."
+仕事がデキる人だという意味でも、厳しいという意味でも","Though, the director of this show is well-known in the industry. Not just for his competence, but also for his tough attitude."
 5001002010270,めぐる,"──……えへへ
 そういうこと聞くと、燃えてきちゃうね","──...Heheh.
 Hearing that just gets me fired up even more."
