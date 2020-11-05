@@ -13,12 +13,12 @@ I have to give solo jobs my all, too, after all!"
 Today, that huge camera over there is going to be recording me, right?"
 0000000000000,プロデューサー,そうだ、今日のステージは中継もあるからな,"That's right, since today's performance is being broadcast."
 1003001020040,めぐる,"本物、初めて見たよー！
-あんなに大きいんだねー！","This is the very time I've seen one for real!
+あんなに大きいんだねー！","This is the very first time I've seen one for real!
 They really are that big!"
 1003001020050,めぐる,"あっ！　あの機械、音響のヤツだ！
 学校で見たのより複雑そう……やっぱ本格的って感じ！",Ah! That machine is used for sound! This one looks more complicated than the one we have at school... this is the real deal!
 0000000000000,プロデューサー,"……めぐる、珍しいのは分かるけど、
-もう少し静かに――","...Meguru, I understand your curiosity, but try to be a little more quiet."
+もう少し静かに――","...Meguru, I understand your curiosity, but try to be a little more reserved."
 1003001020060,めぐる,"……あっ！　スタッフさんたちが来た！
 ちょっと質問してくるね！","...Ah! The staff members are here!
 I'm going to go ask them some questions!"
@@ -61,8 +61,7 @@ select,,"アイドルを
 楽しんでこい！","Have fun being
 an idol!"
 0000000000000,プロデューサー,"友達を助けるのと同じだよ
-一緒に仕事をする人の手伝いをするつもりで頑張るんだ","It's just like how you support your friends.
-You can do your best to support the people you're working together with today."
+一緒に仕事をする人の手伝いをするつもりで頑張るんだ",It's just like how you support your friends. You can do your best to support the people you're working together with today.
 1003001020130,めぐる,"そっかぁ、友達にするのとおんなじでいいんだ？
 うん！　それならできそう！","So, it should be the same as when I help my friends?
 Okay! I can do that!"
@@ -84,8 +83,7 @@ It was because I was thinking of how I was together with everyone."
 ありがとう、プロデューサー！","And that's thanks to your advice!
 Thanks, Producer!"
 0000000000000,プロデューサー,"（めぐるはアドバイスを活かして一つ成長したみたいだ
-俺も負けていられないな！）","(It looks like Meguru made use of my advice and took one step forward.
-I have to try my best, too!)"
+俺も負けていられないな！）","(It looks like Meguru made use of my advice and took one step forward. I have to try my best, too!)"
 1003001020200,めぐる,"……！　なるほど、気合いだね！
 わたし、なんだか燃えてきたよ！","Oh...! Okay, so a fighting spirit!
 I'm getting sort of fired up!"
@@ -99,8 +97,7 @@ How was I? Did my dancing show a fighting spirit?"
 1003001020240,めぐる,"プロデューサー、
 ステージの上ってすごいんだね！","Producer, being on stage is amazing!"
 1003001020250,めぐる,"部活とも全然違うドキドキがあって……
-なんだかすっごくワクワクしたんだ！","It's exciting in a different way than when it's for a school club activity...
-I sort of felt really thrilled!"
+なんだかすっごくワクワクしたんだ！",It's exciting in a different way than when it's for a school club activity... I sort of felt really thrilled!
 1003001020260,めぐる,"わたし、もっといろんなアイドルのお仕事が
 したくなってきちゃった！",Now I want to do more different kinds of work as an idol!
 0000000000000,プロデューサー,（この調子で、次の仕事でもめぐるを引っ張っていこう）,"(Keeping this up, I'll take Meguru to her next job.)"
@@ -125,7 +122,6 @@ That was so fun!"
 何度でも、何回でも。これから先、ずっと！","I want to dance there again!
 Over and over, forever and ever!"
 0000000000000,プロデューサー,"（めぐるはステージの興奮が冷めやらない……
-アイドルとして、いいスタートを切ることができたな）","(Meguru won't calm down from the excitement of the stage...
-She was able to have a good start as an idol.)"
+アイドルとして、いいスタートを切ることができたな）",(Meguru won't calm down from the excitement of the stage... She was able to have a good start as an idol.)
 info,produce_events/100300102.json,
 Translator,,
