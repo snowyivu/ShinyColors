@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,42
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,43
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,30
 images/ui/present_box/parts.json_image,present_box_parts.png,8
@@ -164,7 +164,7 @@ images/tips/produce_top/003.jpg,tutorial/produce_top_003.png,7
 images/tips/produce_top/004.jpg,tutorial/produce_top_004.png,7
 images/tips/produce_top/005.jpg,tutorial/produce_top_005.png,7
 images/ui/game_event/parts_button.json_image,game_event_button.png,4
-images/ui/start/start_notice.jpg,start_notice.jpg,8
+images/ui/start/start_notice.jpg,start_notice.jpg,9
 images/ui/concert/parts.json_image,concert_parts.png,16
 images/ui/tutorial/parts.json_image,parts_tutorial.png,9
 images/ui/notice/parts.json_image,notice_parts.png,11

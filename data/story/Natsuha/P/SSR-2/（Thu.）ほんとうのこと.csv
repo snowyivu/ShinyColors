@@ -1,0 +1,78 @@
+id,name,text,trans
+2013006040010,夏葉,『質問１、好きな食べ物をおしえてください』ね……,"""Question 1: Please tell us what your favorite kind of food is,"" it says."
+2013006040020,夏葉,…………,......
+0000000000000,プロデューサー,"確かに、夏葉の好きな食べ物って
+ぱっと思い浮かばないな","Now that I think about it, I'm not actually sure I know what your favorite food is."
+2013006040030,夏葉,あら、そうかしら,"Oh, really?"
+2013006040040,夏葉,次は……『質問２、休日の過ごし方は？』,"Next one... ""Question 2: How do you spend your days off?"""
+2013006040050,夏葉,…………,......
+0000000000000,プロデューサー,休日か……最近忙しいからな……,"Days off... You've been busy lately, haven't you?"
+2013006040060,夏葉,"いいのよ
+私、忙しいほうが好きだから",It's alright. I prefer keeping busy.
+2013006040070,夏葉,"それに、プロデューサーが
+しっかりスケジュール管理してくれているもの","Besides, you do a great job managing my schedule."
+2013006040080,夏葉,十分休ませてもらっているわ,You always make sure I get enough rest.
+0000000000000,プロデューサー,それならいいんだが……,I guess it's fine then...
+2013006040090,夏葉,次ね、『質問３、ファッションのこだわりは？』,"Next is, ""Question 3: What are you particular about in terms of fashion?"""
+2013006040100,夏葉,……そうね,...Right.
+2013006040110,夏葉,"トレンドを把握すること……
+それから自分に似合うものを知ることが重要、かしら……","Keeping track of trends... and recognizing what looks good on me are both important, I suppose."
+2013006040120,夏葉,"……できたわ！
+これでどうかしら、プロデューサー","...And I'm finished! How's this, Producer?"
+0000000000000,プロデューサー,ああ、確認するよ,"Here, let me look over it."
+0000000000000,プロデューサー,……夏葉の回答って──,...Your answers seem──
+select,,夏葉らしい答えだよな,Very like you.
+select,,"かなり詳しく
+答えているよな",Considerably detailed.
+select,,"質問の答えになって
+ないんじゃないか……？","Like you got
+a bit derailed...?"
+2013006040130,夏葉,本当？　嬉しいわ,Really? I'm happy to hear that.
+2013006040140,夏葉,"普段実践していることを書いているつもりでは
+あるけれど",I was going to write down what I normally do.
+2013006040150,夏葉,少しだけ……ほんの少しだけ,But then I thought maybe... just maybe...
+2013006040160,夏葉,"こうありたいっていう願望を答えてしまっているような
+気もするのよ","...I could write it from the perspective of who I want to be, instead."
+0000000000000,プロデューサー,夏葉……,Natsuha...
+2013006040170,夏葉,"でも、理想の自分を追いかけるのって
+本当に楽しいわ！",It's actually quite fun pursuing your ideal self!
+2013006040180,夏葉,"うふふ、これからも一緒に……目指すはトップよ！
+プロデューサー！","Ufufu. Let's keep working together... to reach the top, Producer!"
+2013006040190,夏葉,"そうね、こういう質問ってきっと
+読んで、参考にしてくれる人もいると思うの",I suppose so. I figured these are the kinds of questions people would want to use as a reference.
+2013006040200,夏葉,"だから出来るだけ詳しく、
+実践しやすいように答えるようにしているわ",So I wanted to try to be as detailed as possible and write answers that would be practical.
+0000000000000,プロデューサー,なるほどな,I see.
+0000000000000,プロデューサー,"夏葉のファンは、夏葉に憧れて……
+夏葉みたいになりたいって人もたくさんいるもんな","Your fans are people you look up to you... And many of them strive to be more like you, as well."
+2013006040210,夏葉,"うふふ、そうね
+とっても嬉しいことだわ","Ufufu, I guess you're right. It's quite a wonderful thing."
+2013006040220,夏葉,"だからこそ……そう言ってもらえる自分で
+あり続けるために",So when I was thinking about how I need to measure up to the person everyone says I am...
+2013006040230,夏葉,頑張らなくちゃ！　って思うのよ,"""I'll just give it my best!"" popped into my head."
+2013006040240,夏葉,"そのためには、アナタの力が必要不可欠なんだから！
+プロデューサー！","Your assistance will be paramount to make that possible, Producer!"
+0000000000000,プロデューサー,好きなものとかこだわりを答えているというより……,Instead of talking about your favorite thing or what you're particular about...
+0000000000000,プロデューサー,夏葉が実践していることを勧めているというか……,It's like you're giving practical advice based on what you do.
+2013006040250,夏葉,……あえてそうしてみたの,...I did it on purpose.
+2013006040260,夏葉,"こういう質問ってきっと
+読んで、参考にしてくれる人もいると思うし",I figured these are the kinds of questions people would want to use as a reference.
+2013006040270,夏葉,"実践しやすいように答えられたらって、
+思って考えたのだけれど……",So I thought I could answer in a way that would be easy for people to put the ideas into practice.
+0000000000000,プロデューサー,そうだったのか……！,"Oh, so that's what you did...!"
+2013006040280,夏葉,"でも、少しだけ
+大袈裟に答えてしまっているかもしれないわ",But I may have exaggerated a bit when answering...
+2013006040290,夏葉,こうありたいっていう自分の理想を……,It's more like how I imagine my ideal self to be...
+0000000000000,プロデューサー,夏葉……,Natsuha...
+2013006040300,夏葉,……書き直すわね、ええと──,"...I should re-write them, shouldn't I? Let's see──"
+0000000000000,プロデューサー,いや、このままいこう！,"No, wait! Let's keep it like this!"
+0000000000000,プロデューサー,"きっとファンが知りたいのは、
+夏葉が今、書いてくれたことだと思う",I think what your fans want to know is already written on that paper.
+2013006040310,夏葉,プロデューサー……,Producer...
+0000000000000,プロデューサー,"それに理想……、いいじゃないか
+なろう！　今よりもっと理想の夏葉に","Moreover, your goals... That's fine, don't you think? Let's do it! We'll get you closer to your ideal self!"
+2013006040320,夏葉,"……そうね、そうよね！
+これでお願いするわ！","...Yes, you're right! Please help me do so."
+2013006040330,夏葉,ありがとう、プロデューサー,"Thank you, Producer."
+info,produce_events/201300604.json,
+Translator,,
