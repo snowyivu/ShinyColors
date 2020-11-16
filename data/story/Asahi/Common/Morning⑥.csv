@@ -1,0 +1,26 @@
+id,name,text,trans
+1017001000610010,あさひ,プロデューサーさん！　何飲んでるんすか、それ,Producer-san! What are you drinkin' there?
+0000000000000,プロデューサー,ああ、これか、栄養ドリンクだ,"Oh, this? It's an energy drink."
+1017001000610020,あさひ,どんな味がするんすか？　わたしも飲んでみたいっす！,What does it tastes like? I wanna drink too!
+0000000000000,プロデューサー,そうだな……,Well...
+select,,"大人にしか
+わからない味だ","Tastes that only
+adults can understand."
+select,,飲んでみるか,Want a sip?
+select,,あさひにはまだ早い,"It's too early
+for Asahi."
+1017001000610030,あさひ,子どもじゃわからないんすね！,"Kids won't get it, huh!"
+1017001000610040,あさひ,"あはは、じゃあ待つっす！　
+大人になってから飲んでみるっすよー！","Ahaha, then I'll wait!
+Once I grow up, I'll try drinkin' that!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000610050,あさひ,ありがとっす！　プロデューサーさん！,"Thanks, Producer-san!"
+1017001000610060,あさひ,"……
+思ったより変な味じゃないっすね","...
+It tastes stranger than expected."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000610070,あさひ,え～！　そんなこと言われたら気になるじゃないっすかー！,"Eh～ If you say it like that, I got more interested!"
+1017001000610080,あさひ,飲みたいっす飲みたいっすー！,Wanna drink! Wanna drinkー!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100061.json,
+Translator,Autumn Cloud,

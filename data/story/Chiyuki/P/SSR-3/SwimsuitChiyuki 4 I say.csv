@@ -43,9 +43,13 @@ get some rest today."
 2016008040110,千雪,"……──
 あのっ！","......──
 Um!"
-select,,伝え忘れか？,Did you forget to tell me something?
+select,,伝え忘れか？,"Did you forget 
+to tell me 
+something?"
 select,,……？,......?
-select,,何かあったか,Is there something wrong?
+select,,何かあったか,"Is there 
+something 
+wrong?"
 2016008040120,千雪,"いえ……！
 ──あ、ではなくてっ","No...! 
 ──Ah, that's not exactly it."

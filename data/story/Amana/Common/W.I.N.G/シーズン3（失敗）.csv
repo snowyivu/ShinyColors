@@ -1,0 +1,42 @@
+id,name,text,trans
+7902001060010,社長,"やはりここまで来ると、
+乗り越えるべき壁も高かったな……",The wall to climb over after coming this far was tall...
+7901001060010,はづき,"結果は残念でしたけど……
+おふたりは立派にやってましたよ！","The results are unfortunate, but...
+The two of you did a splendid job!"
+7901001060020,はづき,"ここまで来れただけでも、
+胸を張って誇れることだと私は思います","You were only able to come this far, but I think you
+can walk with your heads held high."
+7902001060020,社長,"ああ、良い活躍だった
+それはたしかだ","Yes, it was certainly a great effort."
+0000000000000,プロデューサー,"……俺もそう思います
+彼女はよくやってくれました","...I think so, too.
+She did a great job."
+7901001060030,はづき,"その言葉を、彼女に直接
+言ってあげましょう？",How about you tell that to her in person?
+0000000000000,プロデューサー,……はい,...I will.
+0000000000000,プロデューサー,"甘奈、第３審査だが……
+ダメだったよ……","Amana, the results of the third round came in...
+We didn't make it..."
+7014001060010,甘奈,そう、なんだ……,I see... so that's how it is...
+7014001060020,甘奈,"最近はがんばってたつもりだったけど
+ダメ、だったんだ……","I thought I'd been working hard lately, but it wasn't good enough, huh..."
+0000000000000,プロデューサー,甘奈、あまり気を落とすなよ？,"Amana, don't let it bring you down too much, okay?"
+7014001060030,甘奈,"うん、大丈夫
+大丈夫、なんだけど……","Yeah, I'm fine. 
+I'm fine, it's just that..."
+7014001060040,甘奈,"『W.I.N.G.』行きたかったなぁ
+……そう思うのが遅すぎたのかな？","I really really wanted to go to W.I.N.G....
+......Was it just too late when I realized that?"
+0000000000000,プロデューサー,"『W.I.N.G.』だけがすべてじゃない
+アイドルとしての甘奈には、まだ先があるだろ？","W.I.N.G. isn't the be-all end-all.
+Your path as an idol will go on, you know?"
+7014001060050,甘奈,"そっか
+これからも甘奈はアイドルなんだもんね","Right. I'm still an idol, after all."
+7014001060060,甘奈,"なら、今のうちにもっとやれることを全力でやりたい！
+ファンをもっと笑顔にしたいな！","If that's how it's gonna be, then I want to find more things I can do right now and give them my all! I'd like to put a smile on the faces of my fans!"
+7014001060070,甘奈,"アイドルとしてやりたいことはまだいっぱいあるよ！
+プロデューサーさん、これからも一緒に走ってこうね☆","There's still plenty more I want to do as an idol! 
+Producer-san, let's keep running together, okay☆"
+info,produce_events/701400106.json,
+Translator,Pluie,

@@ -1,0 +1,33 @@
+id,name,text,trans
+4014001000210010,甘奈,"プロデューサーさんっ！
+今日の甘奈の衣装の感じかわいくない？","Producer-san!!
+Today's costume is pretty cute, don't you think?"
+0000000000000,プロデューサー,（衣装か、どれどれ……）,"(Her costume, hm? Let's have a look...)"
+select,,"特に髪飾りの
+ワンポイントがいい","The hair accessory
+is an especially
+nice touch."
+select,,"後でツイスタに
+アップしよう","Let's upload it
+to Twesta
+afterwards."
+select,,いいと思うぞ！,"I think it's 
+great!"
+4014001000210020,甘奈,"気づいてくれた！？　実はこれ、甘奈が少しデコったんだー
+褒めてもらえて、嬉しいかも☆","Oh, you noticed!? 
+I actually customized it a little bit myself!
+I'm kinda happy you pointed it out☆"
+0000000000000,プロデューサー,"（工夫に気づいてあげられて、
+気分が上がったようだ）",(It seems she's excited I noticed something she put thought into.)
+4014001000210030,甘奈,"ファンサービスだね！　
+ファンのみんな、喜んでくれるといいな","Fan service, I see! 
+I hope the fans enjoy it."
+0000000000000,プロデューサー,（いい方向に気分が盛り上がったみたいだな）,"(It looks like that got her hyped up, in a good way.)"
+4014001000210040,甘奈,"あ……うん、ありがと
+じゃあ、行ってくるね","Ah... Yeah. Thanks.
+I'm off then."
+0000000000000,プロデューサー,"（何か言って欲しかったみたいだが……
+気づけなかったようだ）","(It looks like she wanted me to say something...
+I must've overlooked it.)"
+info,produce_communication_cheers/401400100021.json,
+Translator,Pluie,

@@ -1,0 +1,28 @@
+id,name,text,trans
+1017001001410010,あさひ,む～……！,Hmph...!
+0000000000000,プロデューサー,そんなにむくれてどうしたんだ？,Why the pout?
+1017001001410020,あさひ,さっき、廊下で跳んでたら冬優子ちゃんに怒られたっす～,"Just now in the corridor,
+Fuyuko-chan scold me when I jumped～"
+0000000000000,プロデューサー,（なるほど、それで）,"(I see, then...)"
+select,,"ぶつかりそうに
+なったとか","Maybe she was
+about to get hit."
+select,,それはそうだろう,That would be best.
+select,,"意味のないことは
+やめた方がいいぞ","You should stop
+doing silly things."
+1017001001410030,あさひ,"ちょうど冬優子ちゃんが階段から上がってきたとこ
+だったっすよ","It was right when Fuyuko-chan
+came up from the stairs."
+1017001001410040,あさひ,……でも確かにそれがなきゃ転ぶとこだったっすね,...but it would've been a disaster if she falls there.
+0000000000000,,明日、お礼言うっす！,Tomorrow I'll say my thanks!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001001410050,あさひ,プロデューサーさんもそう言うんすね……,"Producer-san says so too, huh..."
+1017001001410060,あさひ,でも、ふたりがそう言うなら止めとくっす,"But, if both of you say so, then I'll stop."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001001410070,あさひ,いや、意味はあるんすよ！,"No, it has meaning!"
+1017001001410080,あさひ,いいことがあって、思わずジャンプしちゃったんす！,"A good thing just happened,
+and I spontaneously jumped!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100141.json,
+Translator,Autumn Cloud,

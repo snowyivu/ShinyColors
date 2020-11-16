@@ -1,0 +1,25 @@
+id,name,text,trans
+1017001001210010,あさひ,あ、プロデューサーさん、聞いてくださいっす,"Oh, Producer-san, hear me out!"
+0000000000000,プロデューサー,ん？　どうしたんだ？,Hm? What's up?
+1017001001210020,あさひ,さっき、愛依ちゃんに頭なでられたんすよ,"Just now, Mei-chan patted my head!"
+0000000000000,プロデューサー,（仲がいいな）,(They're good friends)
+select,,可愛がられてるな,"She adored you, huh."
+select,,"なでやすいの
+かもな","Maybe you're
+just pattable."
+select,,嫌なのか,Do you hate it?
+1017001001210030,あさひ,よくなでてくるんすよね、愛依ちゃん,"She really likes patting, that Mei-chan."
+1017001001210040,あさひ,あはは、なんだかいい気持ちになるんすよね！,"Ahaha, somehow, it feels good!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001001210050,あさひ,なでやすい……ふむふむ……,Pattable...Hmhm...
+1017001001210060,あさひ,"高さ……？　頭の大きさ……
+それとも他の何か……","Height...? Head size...
+Or something else..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001001210070,あさひ,別に嫌じゃないっすよ！,It's not like I hate it!
+1017001001210080,あさひ,"もしかして、プロデューサーさんは
+なでられるの嫌なんすか……？","Maybe, Producer-san
+hates being patted...?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100121.json,
+Translator,Autumn Cloud,

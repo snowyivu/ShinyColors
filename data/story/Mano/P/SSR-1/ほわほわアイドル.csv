@@ -1,0 +1,85 @@
+id,name,text,trans
+0000000000000,プロデューサー,"真乃、ここにいたのか
+探したぞ","So this is where you were, Mano.
+I've been looking for you."
+2001004010010,真乃,"ほわ……
+プロデューサーさん？","Hwaa...
+Producer-san?"
+2001004010020,真乃,"あっ！
+もしかして、もうレッスンの時間ですか！？","Ah! 
+Is it time for my lesson already!?"
+2001004010030,真乃,"すみません
+鳩さんたちと遊ぶのに夢中になって……","I'm so sorry!
+I got carried away playing with the pigeons..."
+0000000000000,プロデューサー,"時間はまだ大丈夫だよ
+驚かせてごめんな","There's still time.
+Sorry, didn't mean to startle you."
+2001004010040,真乃,"まだ大丈夫ですか
+ほわ～よかったですっ","Ooh, there's still time?
+Hwaa... That's a relief."
+2001004010050,真乃,"私、ぼんやりしているので
+気をつけないと本当に夢中になってしまうんです","I zone out easily. 
+If I'm not careful I really do get carried away..."
+2001004010060,真乃,"しっかりしないといけません
+むんっ！","I've got to get it together.
+Mun!"
+0000000000000,プロデューサー,"お、そう言ってる間にも
+真乃の周りに……","Oh, and as we speak...
+Look around you..."
+2001004010070,真乃,"ほわわ……
+鳩さんがいっぱい……","Hwawa...
+So many pigeons..."
+0000000000000,プロデューサー,"すごいな
+真乃がいるだけで、鳩が集まってくる","It's quite a sight.
+All you do is stand there and the pigeons just come flocking to you."
+0000000000000,プロデューサー,本当に鳥に好かれてるんだな,"Those birds really love you, huh?"
+2001004010080,真乃,"はい、鳩さんとは仲良しで、
+つい時間を忘れて遊んでしまうんです","Yes! I'm good friends with the pigeons, and I easily lose track of time playing with them."
+2001004010090,真乃,"でも、それをプロデューサーさんに見られるなんて……
+ほわわわ……","But having you see me like that, Producer-san...
+Hwawawa..."
+2001004010100,真乃,"あの……鳩さんたち、もう行くね
+明日も来るからまた遊ぼう？","Uhm... you're all really good pigeons, but I've got to go now, okay?
+I'll be back tomorrow, so let's play again then."
+2001004010110,真乃,"ほわ……なんというか……
+さっきはお恥ずかしいところをお見せして……","Hwa... I uhm...
+I'm sorry for that embarrassing scene just now..."
+0000000000000,プロデューサー,"鳩のこと？
+別に恥ずかしいことはないと思うけど","You talking about the pigeons?
+I don't think there was anything embarrassing about that."
+2001004010120,真乃,"鳩さんとのんびりお話して
+一緒にいるのはすごく楽しいんです","I really enjoy having a laid-back chat with the pidgeons, and just being around them."
+2001004010130,真乃,"でも、人から見ると
+のんびりしすぎに見えるかも……","But I'm worried that, to other people, I might look too laid-back..."
+2001004010140,真乃,"私、昔から抜けているというか……
+ほわほわしているってよく言われるんです","I've always been a bit dopey...
+People often say I'm a dreamy one."
+2001004010150,真乃,"そんな私を変えたくて……
+アイドルになりました","But I want to change that...
+That's why I decided to become an idol."
+0000000000000,プロデューサー,……アイドルって、どういう仕事かわかるかな？,"......I wonder though, do you understand what an idol's job is?"
+2001004010160,真乃,"ほわ？
+歌って踊って……？","Hwa?
+To sing... and dance...?"
+0000000000000,プロデューサー,"それから誰かに好かれるんだ
+俺はたった今、真乃が好かれてる光景を見たよ","That, and to be beloved.
+And I just saw you getting a whole lot of love."
+2001004010170,真乃,鳩さん……に、ですか？,From the pigeons... you mean?
+0000000000000,プロデューサー,うん、アイドルの素質十分だ,Yeah. You've already got the makings of an idol.
+0000000000000,プロデューサー,きっと君なら好きな自分になれるよ,"I think you'll find that you can become someone you yourself can love, too."
+2001004010180,真乃,"ありがとうございます
+そう言ってもらえると、うれしいですっ","Thank you very much.
+I'm happy to hear that."
+0000000000000,プロデューサー,"これから一緒に頑張ろう
+俺もしっかりプロデュースするからな","Let's make it happen together.
+I'll have your back, of course, as your producer."
+2001004010190,真乃,"はいっ
+じゃあ、そろそろレッスンの時間ですよね？","Yes, thank you!
+Well then, it must be about time for my lesson, isn't it?"
+0000000000000,プロデューサー,"えっ……あ、本当だ！
+俺が忘れてどうする！？","Huh... Oh, you're right!
+What am I doing, forgetting the time!?"
+2001004010200,真乃,"今日もレッスン、頑張りますね
+むんっ！",I'm going to give today's lesson my all. Mun!
+info,produce_events/200100401.json,
+Translator,Pluie,

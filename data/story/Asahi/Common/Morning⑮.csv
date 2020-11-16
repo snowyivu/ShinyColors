@@ -1,0 +1,27 @@
+id,name,text,trans
+1017001001510010,あさひ,"プロデューサーさん、この間
+すごい人見つけたんすよ！","Producer-san, the other day,
+I found a great person!"
+0000000000000,プロデューサー,へぇ、どんな人だ？,"Huh, what kind of person?"
+1017001001510020,あさひ,それがですね、急に踊りだしたんすよ！,"You see, that person suddenly started dancin'!"
+0000000000000,プロデューサー,（なるほどな……）,(Okay...)
+select,,"どんなダンス
+だったんだ？","What kind of dance
+was it?"
+select,,あさひみたいだな,"Just like Asahi, huh."
+select,,俺も見てみたいな,"Now I want
+to see it too."
+1017001001510030,あさひ,えーっとっすね……こんな感じっす！,Welp... it looked like this!
+0000000000000,,よっ……ほっ……っと,Umph... phew... step...
+1017001001510040,あさひ,それでその後が──,So after that──
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001001510050,あさひ,え？　わたしみたいっすか？,Eh? Just like me?
+1017001001510060,あさひ,どんなところがっすか？　教えてほしいっす,"In which way? Tell me, please!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001001510070,あさひ,あ、でもその人、すぐいなくなっちゃったんすよ,"Oh, but that person has gone."
+1017001001510080,あさひ,"残念っす……プロデューサーさんに
+見せてあげられないっす","Sorry...
+I can't show that person to Producer-san."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100151.json,
+Translator,Autumn Cloud,

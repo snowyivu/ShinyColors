@@ -9,8 +9,7 @@ id,name,text,trans
 2016012020050,千雪,あ、あの……,U-Um…
 2016012020060,千雪,今のじゃ、いまいち……ですよね……！,It wasn’t good enough this time too… huh…!
 0000000000000,プロデューサー,"演技で頬を染めるって、難しいよなぁ……
-そういう雰囲気って、すぐに出せるものじゃないし……","It sure is difficult to act out a blush… 
-That kind of atmosphere is not something that can come out easily..."
+そういう雰囲気って、すぐに出せるものじゃないし……",It sure is difficult to act out a blush… That kind of atmosphere is not something that can be reproduced easily...
 2016012020070,千雪,"自分なりにこうかなぁって工夫してるんですけど……
 なかなか",I’ve been trying to come up with my own way of doing it but… it’s not easy.
 0000000000000,プロデューサー,そうだな……監督に相談してみようか？,I see… maybe you should try discussing it with the director?
@@ -21,7 +20,7 @@ That kind of atmosphere is not something that can come out easily..."
 0000000000000,プロデューサー,え？　もちろん構わないけど……,"Eh? Of course I don’t mind, but…"
 2016012020110,千雪,ちょっと試してみたいことがあって……,There’s something I’d like to try…
 0000000000000,プロデューサー,"千雪がいいと思う方法があるなら
-やってみるといいよ","If you have an idea you think is good, you should give it a try."
+やってみるといいよ","If you have an idea that you think is good, it's alright to give it a try."
 2016012020120,千雪,"ありがとうございます
 また練習見てくださいね","Thank you very much. 
 Please watch over my practice next time too."
@@ -37,23 +36,27 @@ Please watch over my practice next time too."
 鏡で見ても上手くできなくて……イメージを",…It’s just I couldn’t properly see my own image in the mirror when I was blushing…
 0000000000000,プロデューサー,"なるほどなぁ
 それにしてもこんなに本格的な絵を描けるなんてすごいな","I see. 
-It’s still amazing that you can draw such a full-scale picture."
+It’s still amazing that you can draw such a full-blown picture."
 2016012020190,千雪,"いえ、そんな……！
 高校の頃、ちょっとかじってただけなんですけど","It’s nothing much…! 
 I just dabbled in it a little when I was in high school."
 0000000000000,プロデューサー,"そんなことないよ
 本当に上手いなぁ……プロが描いたっていうか","No way. 
 You’re really skilled at it… it’s like it was drawn by a professional."
-2016012020200,千雪,そ、そんなことないです,T-That’s exaggerating.
+2016012020200,千雪,そ、そんなことないです,T-That’s an exaggeration.
 0000000000000,プロデューサー,だって、千雪にそっくりだぞ,"After all, it looks just like Chiyuki."
 2016012020210,千雪,わ、私、今、顔赤いかもしれません……,I-I think my face might be red right now…
 0000000000000,プロデューサー,"ははっ
 ちょっとな","Haha. 
 A little bit, yeah."
 2016012020220,千雪,本番でもこんなふうにできたらいいんですけど……,"I wish I could just blush like this, though…"
-select,,千雪ならできるよ,You can do it.
-select,,鏡持ってこようか？,Shall I get a mirror?
-select,,体に叩き込もう,Let’s get it into your system.
+select,,千雪ならできるよ,"You can 
+do it."
+select,,鏡持ってこようか？,"Shall I get 
+a mirror?"
+select,,体に叩き込もう,"Let’s get it 
+into your 
+system."
 2016012020230,千雪,そ、そうですか……？,I-Is that so...?
 0000000000000,プロデューサー,何かつかめてきたみたいだしな,I think you’re starting to get the hang of it.
 2016012020240,千雪,"はい……！
@@ -70,10 +73,10 @@ I think that’s a good approach."
 0000000000000,プロデューサー,よし、じゃあ、用意するよ,"Alright, then, I’ll prepare one for you."
 2016012020290,千雪,──ああ、でも……！,"──Ahh, but…!"
 2016012020300,千雪,"もう一回、褒めてもらうというのも……
-なんか……","One more time, because you praised me… somehow…"
+なんか……",Having you praise me one more time would be... somewhat...
 2016012020310,千雪,ええと、なんといいますか……,"Umm, how should I put it..."
 0000000000000,プロデューサー,"──なんて、
-千雪は恥ずかしくって赤くなったんだもんなぁ……！","──Somehow, Chiyuki was so embarrassed that she blushed…!"
+千雪は恥ずかしくって赤くなったんだもんなぁ……！","──Just kidding, you were so embarrassed that it made you blush, huh…!"
 2016012020320,千雪,"ふふっ
 はい……",Fufu. Yeah…
 0000000000000,プロデューサー,"うーん

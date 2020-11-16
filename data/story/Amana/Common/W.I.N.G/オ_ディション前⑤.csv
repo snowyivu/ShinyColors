@@ -1,0 +1,30 @@
+id,name,text,trans
+4014001000220010,甘奈,"ねぇねぇ、プロデューサーさん、
+どういうアピールしたら審査員の人たち喜んでくれるかな","Hey, Producer-san, what kind of things do you suppose the judges would like to see?"
+0000000000000,プロデューサー,"（アドバイスを求めているようだ
+ここはビシッと……）",(It seems she's looking for advice. Let's give her a sound answer...)
+select,,"決めポーズ前で
+ジャンプしてみよう","Try jumping
+just before you
+strike your pose."
+select,,"特別なことは
+しないで大丈夫","No need to
+do anything
+special."
+select,,ガンガンアゲていこう,"Just blow
+them away!"
+4014001000220020,甘奈,"おぉっ！　それすごく盛り上がりそうだよっ☆
+曲のイメージにも合いそうだし、さっすが～！","Ooh! That would totally get everyone hyped up☆
+It fits the song as well, what a great idea～!"
+0000000000000,プロデューサー,（よかった、具体的なアドバイスが功を奏したようだ）,"(Good, it seems giving her some concrete advice paid off.)"
+4014001000220030,甘奈,"そうだね、急に新しいことをやるのはやめたほうがいいよね
+普段通り、普段通りっと……","True. Best not to come up with something new at the last minute, right?
+Just stick with the regular stuff..."
+0000000000000,プロデューサー,"（少し物足りなさそうだが、
+しっかり力を出し切ってくれそうだ）","(It seems she's not quite satisfied, but I'm sure she'll give it her best shot.)"
+4014001000220040,甘奈,"うーん……確かにそうなんだけど……
+具体的にどうしたらいいかな～……","Yeeeah... I get what you're saying, but...
+I'm wondering HOW exactly I should do that..."
+0000000000000,プロデューサー,（ちょっとアバウトすぎたようだ……）,(It seems my advice was a little too vague...)
+info,produce_communication_cheers/401400100022.json,
+Translator,Pluie,

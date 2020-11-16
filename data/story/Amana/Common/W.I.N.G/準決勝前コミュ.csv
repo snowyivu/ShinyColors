@@ -1,0 +1,23 @@
+id,name,text,trans
+0000000000000,プロデューサー,もうすぐ出番だな。甘奈、緊張してないか？,"It's almost your turn, Amana. Are you feeling nervous?"
+6014001010010,甘奈,大丈夫大丈夫……,"I'm fine, I'm fine..."
+6014001010020,甘奈,あっ！,Ah!
+6014001010030,甘奈,"ごめん！　プロデューサーさん……
+お水、こぼしちゃった","Sorry! Producer-san...
+I spilled some water..."
+0000000000000,プロデューサー,……やっぱり緊張してるみたいだな,"......You ARE nervous, aren't you?"
+6014001010040,甘奈,"え、えへへー……バレちゃったかー
+しょーじき言うと、ちょっとだけ緊張してるんだ","E-Ehehe... blew my cover, didn't I.
+If I've got to be totally honest with you, I'm a little bit nervous."
+0000000000000,プロデューサー,"大丈夫だ、自分を信じよう
+今の甘奈ならきっと行けるさ","It's gonna be okay, just believe in yourself. 
+You've got what it takes now."
+6014001010050,甘奈,"プロデューサーさん……ありがと
+甘奈、自分を信じてみる","Producer-san... Thank you.
+I'll try to believe in myself."
+6014001010060,甘奈,"それじゃあプロデューサーさん
+甘奈、行ってくるね！","Well then, Producer-san...
+I'm off!"
+0000000000000,プロデューサー,ああ！　行ってこい！,Yeah! Good luck!
+info,produce_events/601400101.json,
+Translator,Pluie,

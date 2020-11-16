@@ -1,0 +1,42 @@
+id,name,text,trans
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,I see... so we aren't able to participate.
+7901001080010,はづき,"……不参加って連絡が来たとき、
+聞き間違いかと思いました","...When I was contacted about not participating, I
+thought I might have been mishearing things."
+7901001080020,はづき,"私には、どうして彼女が参加できないのか
+ちっともわかりません……！",I don't fully understand why she can't participate...!
+7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
+受け入れるより他にあるまい","I understand how you feel... but these are the
+results. There is nothing we can do but accept
+them."
+7901001080030,はづき,"……私、きっとあの子のファンだったんですね
+だからこの結果が、悔しくてたまらないんです……","...I was definitely a fan of hers. So I can't help
+but feel frustrated about these results."
+0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
+誰よりも彼女のファンでしたから","Me too. As her producer, I was her biggest fan."
+0000000000000,プロデューサー,"……社長
+俺、彼女に会いに行ってきます","...President.
+I'm going to meet with her now."
+7902001080020,社長,ああ、そうするといい,"Yes, that's what you should do."
+0000000000000,プロデューサー,"甘奈、残念だが……
+『W.I.N.G.』には参加できない……","Amana, it's a real shame but...
+We won't get to participate in W.I.N.G...."
+7014001080010,甘奈,そっか……,Gotcha...
+7014001080020,甘奈,……く……,...That's so...
+7014001080030,甘奈,悔し～い！,...SO frustrating!
+0000000000000,プロデューサー,あ、甘奈？,A-Amana?
+7014001080040,甘奈,"甘奈、こんなに悔しい気持ちになるなんて、
+思わなかったの！",I never thought I'd get so frustrated over this!
+7014001080050,甘奈,めっちゃ悔しいー！,It's such a letdown!
+0000000000000,プロデューサー,"（こんなに悔しがるなんて、
+甘奈もアイドルとして成長したんだな……）","(If she's this disappointed with herself...
+She's really grown as an idol, huh...)"
+7014001080060,甘奈,プロデューサーさん！,Producer-san!
+0000000000000,プロデューサー,なんだ？,What is it?
+7014001080070,甘奈,"『W.I.N.G.』には出られないけど、
+もっと大きなステージに連れて行って欲しいな","Even if I can't perform in W.I.N.G., I want you to take me to an even bigger stage."
+7014001080080,甘奈,"じゃなきゃこの悔しさは消えないと思うっ！
+甘奈、がんばるからお願いね！","I don't think there's any other way for me to get over this disappointment!
+I'll do my best, so let's make it happen, okay?"
+info,produce_events/701400108.json,
+Translator,Pluie,

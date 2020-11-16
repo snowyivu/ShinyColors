@@ -1,0 +1,91 @@
+id,name,text,trans
+3021005030010,円香,…………,...
+3021005030020,円香,なんか……あっつ……,It's... hot...
+3021005030030,円香,"ちょっと……
+部屋、暑い","Hey...
+This room. It's hot."
+0,透,……,...
+3021005030050,円香,"エアコンの温度、下げるよ
+いい？","I'm turning the aircon temp down.
+Okay?"
+0,透,……,...
+3021005030070,円香,……浅倉？,...Asakura?
+3021005030080,透,………………,......
+3021005030090,円香,…………,...
+3021005030100,円香,……ったく,...whatever.
+3021005030110,円香,……浅倉、浅倉,...Asakura. Asakura.
+3021005030120,透,…………,......
+3021005030130,円香,"起きて
+起きないならほっとく","Get up.
+I'll leave you for dead if you won't."
+3021005030140,透,…………,......
+3021005030150,円香,……寝るなら、ベッド,"...if you're sleeping, do it in bed."
+3021005030160,透,"────
+あれ……","────
+Huh..."
+3021005030170,透,……寝てた？,...was I asleep?
+3021005030180,円香,…………,...
+3021005030190,透,"……映画────
+終わったかー","...movie's──
+over, then."
+3021005030200,透,"見る？
+つづき","Look at it?
+Next one."
+3021005030210,円香,"……それでもいいけど
+なんかもう０時過ぎてるし","...That'd be fine,
+but it's pushing past midnight now."
+3021005030220,円香,"ちゃんと寝たら
+私も帰る","Just go to bed for real,
+and I'll head back."
+3021005030230,透,あー……,Aahhh...
+3021005030240,透,"じゃ
+寝るわ","Cool.
+Bed it is."
+3021005030250,円香,明日の予定は？　わかってる？,Remember tomorrow? Know what we've got?
+3021005030260,透,わかってるわかってる……,"I know, I know..."
+3021005030270,円香,言ってみて,Tell me.
+3021005030280,透,"あー……
+レッスン、なんか","Aaahh...
+Lessons, something."
+3021005030290,円香,…………,...
+3021005030300,円香,寝な、おやすみ,Just sleep. Good night.
+3021005030310,透,はいよー……,On it...
+3021005030320,円香,……,...
+3021005030330,透,…………,......
+3021005030340,円香,……,...
+0,off,『ふうん……？　何か見てるのかな』,『Hmm...? Wonder what she's looking at.』
+0,off,『何か、ずっと見上げてる』,"『Just, she's been looking up there, endlessly.』"
+0,off,『ね、なんだろう……』,"『Yeah, I wonder...』"
+3021005030350,off,私は、わかる,I understand.
+3021005030360,off,透が何を見てるのか,What it is Toru's looking at.
+0,off,『なるほどね…………』,『I see...』
+0,off,『見た目だけなら、あんまり使えないかなと思ったけど』,"『If she just had her looks, she wouldn't be the end-all, but...』"
+3021005030370,off,私は、知ってる,I know.
+3021005030380,off,透が何を秘めてるのか,What it is Toru's hiding.
+0,off,『み、みんな見てる……』,『E──everyone's looking...』
+0,off,『みんな、透ちゃん見てる……』,『──everyone's──looking at Toru-chan...』
+3021005030390,off,そうだね,Isn't that right.
+0,off,『みんな、見惚れてた』,『Everyone saw nothing but you.』
+0,off,『小糸も雛菜も、スタッフさんも』,"『Even Koito, even Hinana. Even the staff.』"
+3021005030400,off,私以外のみんなはね,"Everyone, except for me."
+3021005030410,円香,『色々、考えてきたんだ？』,"『Thought of everything, now?』"
+3021005030420,透,『え？』,『Eh?』
+3021005030430,off,知ってる,I know.
+3021005030440,off,わかってる,I understand.
+3021005030450,off,私だけは,"Only I can say,"
+3021005030460,off,浅倉透を,"for Asakura Toru,"
+3021005030470,透,…………,......
+0,円香,…………,...
+3021005030490,透,"…………
+……あれ────","...
+...huh──"
+0,円香,…………,...
+3021005030510,透,"……あれ
+いるし","...huh.
+You're here, though."
+3021005030520,円香,もう行く,I'm going.
+3021005030530,透,やば……ふとん蹴ってるじゃん,Crap... I was totally kicking out the futon.
+3021005030540,透,……見てた？,...you saw that?
+3021005030560,円香,見てない,I don't see anything.
+info,produce_events/302100503.json,
+Translator,Emelia / Belvera,

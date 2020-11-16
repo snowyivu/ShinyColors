@@ -1,0 +1,26 @@
+id,name,text,trans
+1017001000710010,あさひ,うーん……,Hmm...
+0000000000000,プロデューサー,どうした、さっきからじっと俺の首元を見て,What's up? You've been staring holes at my neck.
+1017001000710020,あさひ,ネクタイってなんでするんすか？,Why do ya wear a necktie?
+0000000000000,プロデューサー,それはだな,That's because...
+select,,外すとこうなるぞ,"If removed,
+it'll look like this."
+select,,オシャレだ,It's fashionable.
+select,,"気を
+引き締めるためだ","To tighten
+my mind."
+1017001000710030,あさひ,"なんだか、いつものプロデューサーさん
+じゃないみたいっす","Somehow, you don't look like Producer-san."
+1017001000710040,あさひ,あったほうがしっくりくるっすね！,It's better to have it on!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001000710050,あさひ,なるほど、オシャレだったんすね……！,"So it's a fashion statement, huh...!"
+1017001000710060,あさひ,スーツだと、ネクタイがオシャレの決め手なんすね……,"When it comes to suits fashion,
+necktie becomes the decisive factor, huh..."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001000710070,あさひ,気を引き締めるため……うーん……,To tighten mind... hmm...
+1017001000710080,あさひ,"ネクタイにそんな効果があるんすかねぇ
+よくわからないっす","So necktie has that kinda effect, huh.
+I didn't know that."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100071.json,
+Translator,Autumn Cloud,

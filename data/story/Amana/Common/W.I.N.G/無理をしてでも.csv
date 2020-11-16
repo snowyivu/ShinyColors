@@ -1,0 +1,38 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","...Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"......! Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+0000000000000,プロデューサー,"甘奈『W.I.N.G.』のステージが終わったばかりなんだ
+無理しないで、もう練習を終えたらどうだ？","Amana, your W.I.N.G. performance only just ended and you're already back to training. Don't push yourself too hard. How about calling it a day?"
+6014001070010,甘奈,"プロデューサーさん……
+ううん、今は無理したい気分なんだ","Producer-san...
+Nah, I feel like pushing myself harder right now..."
+6014001070020,甘奈,"甘奈がもっと早くアイドルに本気になってたら……
+もっと鏡と向かいあっていれば、もしかしたらって……","If only I'd gotten serious about being an idol sooner... If only I'd taken a good look at myself in the mirror, then I might've..."
+0000000000000,プロデューサー,甘奈……,Amana...
+6014001070030,甘奈,"アイドルとして上を目指そうって気持ち、
+持つのが遅すぎたんだよね","By the time I realized I wanted to aim higher as an idol, it was already too late..."
+6014001070040,甘奈,"それが今回の結果につながったんだと思うと、
+めっちゃ悔しくて……",And this was the result. I'm SO annoyed with myself...
+0000000000000,プロデューサー,"……遅すぎた、なんてことはないぞ
+輝くチャンスなら、これからいくらでもあるんだ","......You're not ""too late"" at all. There'll be plenty more opportunities for you to shine."
+0000000000000,プロデューサー,"甘奈なら、そのチャンスを必ず掴める
+アイドルに対して、本気になれたんだから","And knowing you, you'll latch onto those opportunities when they present themselves. After all, you're serious about being an idol now."
+6014001070050,甘奈,"プロデューサーさん……
+えへ、ありがと……！","Producer-san...
+Eheh, thanks...!"
+6014001070060,甘奈,"……じゃあ、これから甘奈、本気でいくよ！
+プロデューサーさん、ビシバシ鍛えてねっ","...Then I guess... I'm gonna give it my all!
+Producer-san, don't go easy on me, 'kay?"
+info,produce_events/601400107.json,
+Translator,Pluie,
