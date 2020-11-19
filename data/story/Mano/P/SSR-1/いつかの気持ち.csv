@@ -1,0 +1,141 @@
+id,name,text,trans
+0000000000000,プロデューサー,"よし、今日の撮影は終わりだ
+真乃、お疲れ様","Alright, we're done with today's shoot.
+Nice work, Mano."
+2001004040010,真乃,はい、今日は屋外の撮影だったので楽しかったです,"Thank you. I quite enjoyed it, especially since we were shooting outdoors today."
+0000000000000,プロデューサー,"じゃあ、今日はレッスンも仕事も終わりだから、
+早めに帰って休むといいよ","You've got no more lessons or work to do today, so you can go home early and take some rest."
+2001004040020,真乃,"はいっ
+……でもその","Okay!
+......But, uhm..."
+0000000000000,プロデューサー,ん？　どうしたんだ？,Hm? What's the matter?
+2001004040030,真乃,"今日はとってもいいお天気なので、
+まだお日様の下にいて身体を動かしたくて……","The weather is so nice today, I'd like to get some more sunlight and exercise..."
+2001004040040,真乃,だから、まだ帰らずにお出かけしてもいいですか？,"Would a little detour be alright, before I go home?"
+0000000000000,プロデューサー,"そうか
+……うん、それくらいはいいんじゃないか","I see...
+Well, no harm in that, I guess."
+2001004040050,真乃,"ありがとうございます
+じゃあ、行きましょう","Thank you.
+Well then, let's go."
+0000000000000,プロデューサー,……ん？　俺もか？,....Hm? I'm going with you?
+2001004040060,真乃,"ほわ……
+そうでした、私ってば勝手に……","Hwa...
+I'm sorry, I just assumed..."
+2001004040070,真乃,"ほわわ……プロデューサーさんと一緒にいることが
+増えたから、つい勝手な思い込みを……","Hwawa... we've been spending so much time together lately, I just kind of assumed that you..."
+2001004040080,真乃,"いつも一緒にいるものだって思ってしまうなんて
+私ってば……私ってば……",I shouldn't be taking it for granted that you're always with me. I don't know what's gotten into me...
+0000000000000,プロデューサー,"ああ、そういうことか
+じゃあ、これから一緒に出かけよう","Aah, gotcha. Well, then let's go somewhere together now."
+2001004040090,真乃,"え、いいんですか……
+本当はお忙しいんですよね？","A-Are you sure...?
+You have a busy schedule, don't you...?"
+0000000000000,プロデューサー,"いつでもできる事務仕事だけだよ
+どこか行きたいところあるかな？","Nah, just some paperwork I can do whenever.
+Anywhere specific you were thinking about going?"
+2001004040100,真乃,"ありがとうございますっ
+えっと、プロデューサーさんはどこがいいと思いますか？","Thank you so much!
+Uhm, where would you like to go, Producer-san?"
+select,,公園にしよう,"Let's go to
+the park."
+select,,"ショッピングモールに
+しよう","Let's make our
+way to the
+shopping mall."
+select,,デパートの屋上にしよう,"Let's go up to
+the rooftop of the 
+department store."
+0000000000000,プロデューサー,公園にしよう,Let's go to the park.
+0000000000000,プロデューサー,って思ったけど、歩くには距離があったかな,"...is what I was thinking, but it ended up being quite a long way to walk."
+2001004040110,真乃,"私なら平気です
+たくさんお散歩して、お日様から元気をもらえました",I don't mind it. Walking in the sun gave me plenty of energy.
+0000000000000,プロデューサー,"それならよかった
+……お、鳩が集まってきた","Well, that's good to hear.
+......Ah, and there's the pigeons."
+2001004040120,真乃,"ふふ……こんにちは、鳩さんたち
+みんなも元気そうだね","Heehee... Hello, lovely pigeons. You're all looking good today, aren't you!"
+0000000000000,プロデューサー,じゃあ、鳩と一緒にあっちのベンチで休もうか,"Why don't we stop and rest at that bench over there, together with the pigeons?"
+0000000000000,プロデューサー,"公園でのんびりするのもいいもんだな
+真乃がよく公園へ行くのもわかる気がする",Relaxing in the park like this is pretty nice. I kinda understand why you come here so often.
+2001004040130,真乃,"今日は特に、プロデューサーさんがいてくれて
+安らげます……","Today it's especially relaxing, because you're here as well."
+0000000000000,プロデューサー,"そうなのか？
+なら、時々一緒に公園に来ようか？","You think so?
+Shall I go with you to the park every once in a while, then?"
+2001004040140,真乃,"本当ですか……
+とてもうれしいです……","You will...?
+I'd be really happy with that..."
+0000000000000,プロデューサー,"大丈夫か、真乃？
+眠そうな声してるけど","Everything okay, Mano?
+Sounding a bit sleepy there."
+0000000000000,プロデューサー,（おっと……）,(Ah...)
+2001004040150,真乃,すう……すう……,......
+0000000000000,プロデューサー,"（寝てしまったか
+お疲れ様、真乃……）","(Looks like she fell asleep...
+It was a tiring day, huh, Mano...?)"
+0000000000000,プロデューサー,ショッピングモールにしよう,Let's make our way to the shopping mall.
+2001004040160,真乃,"とても素敵です
+この辺りはかわいいお店がいっぱいあるんですよ","This area is wonderful.
+There are a lot of cute little shops around here."
+0000000000000,プロデューサー,買い物にはよく来るんだ？,Do you go shopping a lot?
+2001004040170,真乃,"はいっ。お洋服を見たり、鳥さんの小物を見たり……
+いろいろなお店を、ゆっくり回るのが好きです","Yes. I go looking for new clothes, or for cute bird accessories...
+I enjoy taking my time to visit lots of different shops."
+0000000000000,プロデューサー,"そうか
+じゃあ今日は、真乃の買い物に付き合うぞ","I see. Well then, I'll be joining you on your shopping today."
+2001004040180,真乃,"え、でも……
+私のお買い物は、とっても時間がかかっちゃいますよ？","Huh, but...
+Are you sure? It takes a really long time when I go shopping."
+2001004040190,真乃,"だから私、お買い物する時はいつもひとりなんです
+誰かと一緒だと、お待たせしちゃうのが気になって……","That's why I always go shopping alone. If someone else is with me, I feel bad about keeping them waiting..."
+0000000000000,プロデューサー,"そうなんだ？
+最近はどうかな？",Really? How about more recently?
+2001004040200,真乃,ほわ……？,Hwa...?
+0000000000000,プロデューサー,"アイドルになってから、仲間が増えただろ
+事務所のみんなと買い物に行ったりはしないのか？","You've made new friends since you became an idol, right?
+Don't you go shopping with the other girls from the office?"
+2001004040210,真乃,"あ、そういえば……
+時々、めぐるちゃんに誘ってもらえるようになりました","Ah, now that you mention it...
+Sometimes, Meguru-chan invites me to come with her."
+2001004040220,真乃,"お待たせしてないか少し心配ですけど……
+とっても楽しいです","I still worry about making her wait, but I do enjoy it a lot."
+0000000000000,プロデューサー,"そうか
+めぐるもきっと、楽しいから真乃を誘うんだと思うな","Good. I'm sure Meguru is inviting you because she's enjoying it, too."
+0000000000000,プロデューサー,"真乃と一緒にいられて、俺も楽しいよ
+だから、そんなに気を遣うことはないんだ",And the same goes for me. I enjoy spending time with you. So there's nothing for you to feel bad about.
+2001004040230,真乃,"プロデューサーさんが、そう言ってくれるなら……
+実は私……行きたいお店があるんです","If you say so...
+Actually... there's a shop nearby that I'd like to go to."
+0000000000000,プロデューサー,じゃあ、これからそこへ行こうか,"Alright, then why don't we go there now."
+2001004040240,真乃,はいっ、よろしくお願いします,"Yes, thank you!"
+0000000000000,プロデューサー,デパートの屋上にしよう,Let's go up to the rooftop of the department store.
+2001004040250,真乃,日当たりもいいし、風も気持ちいいですっ,"There's plenty of sunlight here, and the breeze is nice too."
+0000000000000,プロデューサー,そうだな,"Yeah, sure is."
+0000000000000,プロデューサー,――お、舞台でヒーローショーが始まるみたいだ,"――Ooh, looks like they're doing a super hero show up on that stage."
+2001004040260,真乃,"ふふ……子どもたち、みんな楽しそうです
+ヒーローさんは大人気ですねっ","Heehee... the kids all seem to be enjoying it. They really love those heroes, don't they!"
+0000000000000,プロデューサー,真乃だって子どもたちの人気者になれるさ,"Well, you could be just as popular with the kids if you wanted to."
+2001004040270,真乃,"ほわっ？
+私が……ですか？","Hwa?
+Me...?"
+0000000000000,プロデューサー,"子どもたちは、
+ヒーローだけじゃなくアイドルも好きだからね","You know, children don't just like heroes. They also like idols."
+0000000000000,プロデューサー,"真乃はどう？
+子どもの頃、アイドルは好きだった？","How about you, Mano? Did you like idols as a kid?"
+2001004040280,真乃,"子どもの頃にみたアイドル……
+はい、キラキラふわふわしていて好きでしたっ","Idols I saw when I was little...
+Yes, I liked them! They were always so glittery and fluffy."
+0000000000000,プロデューサー,"真乃と同じような気持ちでいる子は、
+他にもいるはずだよ",I'm sure there are other kids out there who feel exactly the way you did.
+2001004040290,真乃,そうなんですか？,Do you really think so?
+0000000000000,プロデューサー,"真乃は小さな頃の自分の気持ちを大切にして、
+今度はみんなに夢を届ければいい","Just remember how it felt to you when you were little. Now, it's your turn to pass on that dream to them."
+2001004040300,真乃,"……ほわぁ
+私の歌やダンスで、誰かに何かを届けられたら……","...Hwa.
+If my singing and dancing can mean something to someone..."
+2001004040310,真乃,"私、頑張りますね！
+むんっ","I'll give it my best shot!
+Mun!"
+info,produce_events/200100404.json,
+Translator,Pluie,

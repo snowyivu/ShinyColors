@@ -1,0 +1,33 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","...It's true that we failed, but I still personally believe she's incredible. That she stands as one of the greatest idols out there."
+6902001070020,社長,……！　そうか……,"...! Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case, there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+0000000000000,プロデューサー,"樹里……
+『W.I.N.G.』の結果は……残念だったな",Juri... It's a shame how W.I.N.G. turned out...
+6011001070010,樹里,"……ああ
+久しぶりだよ、こんなに悔しいの",...Yeah. It's been a while since I've been this disappointed.
+6011001070020,樹里,"……バスケの大事な試合で負けた時も、
+今みたいな気持ちだったよ……","...Back when I lost important basketball games, this is how it felt..."
+0000000000000,プロデューサー,"樹里……大丈夫か？
+辛いことを思い出させてしまったな",Juri... Are you okay? This must have brought out bad memories.
+6011001070030,樹里,"……心配すんじゃね－よ
+全力でやったからこそ、こんなに悔しがれるんだ",...Don't worry about it. It's only this disappointing because I gave it my all.
+6011001070040,樹里,"プロデューサーとここまで全力で挑んできたのは
+無駄じゃねえし、無駄にしねえよ",The fact that we came this close to winning together was not a waste. I won't waste it.
+6011001070050,樹里,"また次の目標を見つけて、アイドルに全力を注ぐ
+だから安心しろ",I'll figure out my next goal and pour all my effort into being an idol. So relax.
+0000000000000,プロデューサー,ああ、これからも期待してるぞ,"Sure, I'm looking forward to what you do from here."
+6011001070060,樹里,"へへ、アタシを支えてくれるファンのみんなや
+プロデュ－サ－のために、これからも走り抜けてやるぜ","Hehe, for the sake of all my fans and you too, Producer, I'll keep chugging along."
+info,produce_events/601100107.json,
+Translator,,,Enzo and Mondo
