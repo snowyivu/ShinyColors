@@ -1,0 +1,28 @@
+id,name,text,trans
+4011001000130010,樹里,"な、なあプロデューサー……
+アタシ、キャラ作ったりしなくていーんだよな……？","Hey, Producer...
+I don't have to put on some kind of act, do I...?"
+0000000000000,プロデューサー,"（本番前の緊張で
+気にしなくていいところまで気にしてしまっているな）","(Stage fright is making her
+worry about things she doesn't need to think about.)"
+select,,素顔の樹里でいい,"Regular old
+Juri is fine."
+select,,"樹里、
+1回深呼吸だ","Juri, take a
+deep breath."
+select,,"自分の個性を
+出せば良い","Show what's
+unique
+about you."
+4011001000130020,樹里,"そ、そうだよな
+へへ、こんなこと気にするなんてアタシらしくなかったな","Y-you're right.
+Heh, it's not like me to worry about that."
+0000000000000,プロデューサー,（いつもの樹里に戻ったようだな）,(She's back to her usual self.)
+4011001000130030,樹里,"わりぃな、プロデューサー。少しテンパってた
+ふぅ、よしっ！　お陰で、落ち着いたぜ","My bad, Producer. Started to melt down a little there.
+Phew, okay! Thanks, that's better."
+0000000000000,プロデューサー,（落ち着きを取り戻してくれたようだな）,(Looks like she's calmed back down.)
+4011001000130040,樹里,き、急に個性って言われてもよ……,"H-how am I supposed to work with ""unique"" here..."
+0000000000000,プロデューサー,（かえって混乱させてしまったな……）,(That just shook her even more...)
+info,produce_communication_cheers/401100100013.json,
+Translator,,,Enzo and Mondo

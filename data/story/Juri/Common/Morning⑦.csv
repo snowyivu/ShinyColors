@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"おはよう樹里。それ、風船ガムか？
 俺も昔はよく噛んでたな","Good morning, Juri. Is that bubblegum?
-I used to chew them a lot back in the day."
+I used to chew that a lot back in the day."
 1011001000710010,樹里,あぁ、このガムすっげー膨らむんだぜ？,Yeah. This bubblegum can get real big too!
 1011001000710020,樹里,アンタも挑戦してみるか？,Wanna give it a try?
 0000000000000,プロデューサー,（おっ樹里は嬉しそうだ。さて、どうしようか……）,"(Woah, Juri seems excited. What should I say...)"
@@ -27,4 +27,4 @@ Oh well, I don't mind."
 やり方がわかるもんとも思えねーんだよな",I just don't think you'd get it just by looking.
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101100100071.json,
-Translator,,
+Translator,,,Ruru

@@ -1,13 +1,16 @@
 id,name,text,trans
 0000000000000,プロデューサー,"あっ、いたいた！
-お－い、樹里！","Oh, found you! Heeey Juri!"
+お－い、樹里！","Oh, found you!
+Heeey Juri!"
 7011001070010,樹里,な、なんだよ、デカイ声出して,W-what the hell are you yelling about?
 0000000000000,プロデューサー,"デカイ声も出すさ！
- 『W.I.N.G.』の最終審査の結果が出たんだぞ！",I've got to yell! The results for the final W.I.N.G. qualifier are here!
+ 『W.I.N.G.』の最終審査の結果が出たんだぞ！","I've got to yell!
+The results for the final W.I.N.G. qualifier are here!"
 7011001070020,樹里,……ふぅん、なるほどね,"...Hrm, makes sense."
 0000000000000,プロデューサー,なんだ、結果が聞きたくないのか？,"What, don't you want to hear the results?"
 7011001070030,樹里,"聞かなくたって
-その態度見たら大体想像ついちまうだろ","Even if I don't ask, the way you're acting, I can just about picture it."
+その態度見たら大体想像ついちまうだろ","Even if I don't ask,
+the way you're acting, I can just about picture it."
 0000000000000,プロデューサー,そ、それもそうか……,"W-well, I guess you're right..."
 7011001070040,樹里,……で、結果はどうだったんだよ？,"...So, what're the results?"
 0000000000000,プロデューサー,ん？,Hm?
@@ -16,25 +19,33 @@ id,name,text,trans
 ...Well?"
 0000000000000,プロデューサー,ああ。結果はな……,Right. The results are...
 0000000000000,プロデューサー,"おめでとう、樹里！
-見事 『W.I.N.G.』の最終審査を突破した！","Congratulations, Juri! You've passed the W.I.N.G. qualifiers with flying colors!"
+見事 『W.I.N.G.』の最終審査を突破した！","Congratulations, Juri!
+You've passed the W.I.N.G. qualifiers with flying colors!"
 0000000000000,プロデューサー,これで晴れて 『W.I.N.G.』に出場できるぞ！,Now you can officially participate in W.I.N.G.!
 7011001070060,樹里,そっか……無事に通過、できたんだな,For real... I actually made it through fine.
 7011001070070,樹里,"……まだあんまり実感ね－けど
-とりあえず、喜んでいいんだよな？","...It's not really sinking in yet but for now I should be happy, right?"
+とりあえず、喜んでいいんだよな？","...It's not really sinking in yet
+but for now I should be happy, right?"
 0000000000000,プロデューサー,"もちろんだ！
-『W.I.N.G.』への出場は新人アイドル最高の名誉だ！",Of course! Appearing in W.I.N.G. is the greatest honor for a new idol!
+『W.I.N.G.』への出場は新人アイドル最高の名誉だ！","Of course!
+Appearing in W.I.N.G. is the greatest honor for a new idol!"
 0000000000000,プロデューサー,樹里は、すごいことをやったんだよ！,"Juri, you've done something incredible!"
 7011001070080,樹里,"そうか……それじゃ、これまで支えてくれたファンに
-ようやく恩返しができるんだな",I see... Then that means I can finally repay the fans who've supported me this far.
+ようやく恩返しができるんだな","I see... Then that means I can finally repay
+the fans who've supported me this far."
 7011001070090,樹里,"よし……みんなに良いところ見せられるように
-これからももっともっと頑張らね－とな！",Alright... I've got to keep trying harder to make sure everyone sees me at my best!
+これからももっともっと頑張らね－とな！","Alright... I've got to keep trying harder to
+make sure everyone sees me at my best!"
 0000000000000,プロデューサー,"そうだな
-けど今は……本当におめでとう、樹里","Sure thing. But for now... congratulations, Juri."
+けど今は……本当におめでとう、樹里","Sure thing.
+But for now... congratulations, Juri."
 7011001070100,樹里,"ああ……アタシを一番傍で支えてくれた
-アンタのお陰だよ",Yeah... It's all thanks to you who's given the closest support of all.
+アンタのお陰だよ","Yeah... It's all thanks to you for being
+next to me through all of this."
 0000000000000,プロデューサー,樹里……,Juri...
 7011001070110,樹里,"プロデュ－サ－……なに湿っぽくなってんだよ
-気を抜くには早過ぎんじゃね－のか？",Producer... What are you getting so sappy over? Isn't it too early to lose focus?
+気を抜くには早過ぎんじゃね－のか？","Producer... What are you getting so sappy over?
+Isn't it too early to lose focus?"
 7011001070120,樹里,ここからが本当の戦い、だろ？,"The real battle begins here, right?"
 info,produce_events/701100107.json,
 Translator,,,Enzo and Mondo

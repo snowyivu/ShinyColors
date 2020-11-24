@@ -1,0 +1,28 @@
+id,name,text,trans
+4011001000120010,樹里,"ほかの奴らはすげーよな……堂々としてて
+アタシなんかよりずっと可愛いし、アイドルって感じだ……","Get a load of the rest of them... everyone's so impressive.
+They're way cuter than me and actually look like idols..."
+0000000000000,プロデューサー,"（どうやら他の参加者の様子が気になって
+不安になってるようだ……不安を和らげないと）","(It seems like she's getting self conscious watching
+the other competitors... I'd better ease her mind somehow.)"
+select,,樹里らしくいけばいい,"You should just
+be yourself."
+select,,自分に自信を持て,"Have a little
+confidence."
+select,,樹里が一番輝いてるよ,"You shine
+the brightest."
+4011001000120020,樹里,"確かに周りを気にしてもしょうがねーよな
+よしっ！　アタシらしく全力で行ってくるぜ！","You're right, it's no use worrying about other people.
+Alright! I'll give it my best shot!"
+0000000000000,プロデューサー,（よし、しっかり不安を拭えたようだな）,"(Nice, I think that got rid of all her worries.)"
+4011001000120030,樹里,"急にそんなこと言われてもよ……
+けど、努力した時間は裏切らねーか。よしっ！","That's easy for you to say...
+But I guess all my hard work up to now doesn't count for nothing. Let's do this!"
+0000000000000,プロデューサー,（なんとか前向きになってくれたようだな）,"(Anyway, she seems more positive now.)"
+4011001000120040,樹里,"はぁ？　いきなり何言ってんだよ……
+そんな風に褒められても、お世辞にしか聞こえねーよ","Huh? The hell are you talking about...
+Nobody'd believe a cheesy compliment like that."
+0000000000000,プロデューサー,"（本心のつもりだったんだが
+不信感を抱かせてしまったようだ……）",(I meant what I said but I just made her doubt me...)
+info,produce_communication_cheers/401100100012.json,
+Translator,,,Enzo and Mondo

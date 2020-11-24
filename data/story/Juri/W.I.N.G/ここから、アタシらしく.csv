@@ -1,25 +1,35 @@
 id,name,text,trans
 1011001020010,樹里,はぁ……,Haaahhh...
 0000000000000,プロデューサー,"ん？　どうしたんだ、樹里？
-何か気になることでもあるのか？","Hm? What's up, Juri? Something bothering you?"
+何か気になることでもあるのか？","Hm? What's up, Juri?
+Something bothering you?"
 1011001020020,樹里,"……逆に、アンタは気になんね－のかよ
-アタシがこの場にいることについてさ","Forget me, shouldn't something bug you here? About me being in this place."
+アタシがこの場にいることについてさ","Forget me, shouldn't something bug you here?
+About me being in this place."
 0000000000000,プロデューサー,"この場にって……別に、気にならないけどな
-今日は宣材写真を撮る日だって、説明してなかったか？","This place... Not really, hadn't crossed my mind. Did I forget to tell you we're shooting your promotional photos today?"
+今日は宣材写真を撮る日だって、説明してなかったか？","This place... Not really, hadn't crossed my mind.
+Did I forget to tell you we're shooting your promotional photos today?"
 1011001020030,樹里,"そういうことじゃね－っての
-アレを見ても、アンタは何も思わね－のか？","Try again, smartass. Don't you have any thoughts looking at them?"
+アレを見ても、アンタは何も思わね－のか？","Try again, smartass.
+Don't you have any thoughts looking at them?"
 0000000000000,プロデューサー,"アレって……
-ああ、他のアイドルの撮影を見ていたんだな","Them... Oh, you were watching the other idols' photo shoots."
+ああ、他のアイドルの撮影を見ていたんだな","Them...
+Oh, you were watching the other idols' photo shoots."
 0000000000000,プロデューサー,"だけど、どうしてそんなに気にしてるんだ？
-宣材写真は、普段通りの姿を見せればいいんだぞ？",But why are you so hung up on that? You're supposed to come as you are for promotional shots.
+宣材写真は、普段通りの姿を見せればいいんだぞ？","But why are you so hung up on that?
+You're supposed to come as you are for promotional shots."
 1011001020040,樹里,"はぁ？　普段通りって……
-アンタ、何言ってんだよ",Huh? Come as I am... Do you hear yourself?
+アンタ、何言ってんだよ","Huh? Come as I am...
+Do you hear yourself?"
 1011001020050,樹里,"他のアイドルたちの笑顔が見えてんのか？
-可愛いポ－ズとって、にっこり笑って……",Can't you see how those idols are smiling? Making those cutesy poses and grinning like that...
+可愛いポ－ズとって、にっこり笑って……","Can't you see how those idols are smiling?
+Making those cutesy poses and grinning like that..."
 1011001020060,樹里,"あんな姿、アタシにできると思うか？
-普段通りのアタシの中に、あんな笑顔はねぇだろーが",Do you really think I can do that? I'm here as myself and I don't have that kind of smile in me.
+普段通りのアタシの中に、あんな笑顔はねぇだろーが","Do you really think I can do that?
+I'm here as myself and I don't have that kind of smile in me."
 0000000000000,プロデューサー,"（そうか……樹里は周りのアイドルを見て
-自分が同じことをできるか気にしていたんだな）",(I see... Juri's worried about whether she can do the same things as the idols around her.)
+自分が同じことをできるか気にしていたんだな）","(I see... Juri's worried about whether she can
+do the same things as the idols around her.)"
 0000000000000,プロデューサー,（それなら、俺が樹里にかけるべき言葉は……）,"(In that case, the most important thing to tell Juri is...)"
 select,,"だったら
 笑わないのはどうだ？","Then how about
@@ -31,84 +41,116 @@ select,,"格好いい
 決めポ－ズを撮ろう","Let's go with
 a badass pose."
 1011001020070,樹里,"はぁ？
-笑わないって……それじゃ宣材にならねぇだろ",Huh? Don't smile... That's not going to work as a promotion.
+笑わないって……それじゃ宣材にならねぇだろ","Huh?
+Don't smile... That's not going to work as a promotion."
 0000000000000,プロデューサー,"そんなことはないさ
-宣材写真だからって、無理に笑顔を作る必要はないんだ",Sure it will. There's no reason you have to force a smile just because they're promotional photos.
+宣材写真だからって、無理に笑顔を作る必要はないんだ","Sure it will. There's no reason
+you have to force a smile just because they're promotional photos."
 0000000000000,プロデューサー,"樹里がどんな女の子なのか紹介するためのものなんだから
-普段の樹里らしさが出る写真を撮ればいいんだよ",We're using them to show what kind of girl you are so we should get pictures that bring out your personality.
+普段の樹里らしさが出る写真を撮ればいいんだよ","We're using them to show what kind of girl you are
+so we should get pictures that bring out your personality."
 1011001020080,樹里,ふぅん……,Hrm...
 1011001020090,樹里,"……アンタがそれでいいって言うんなら
-アタシもその方が楽だし、そうするけどよ","...If you're saying that's good enough, that makes it easier for me. Let's go with that, I guess."
+アタシもその方が楽だし、そうするけどよ","...If you're saying that's good enough,
+that makes it easier for me. Let's go with that, I guess."
 1011001020100,樹里,"けど、それで本当に大丈夫なのか？
-アイドルってもっと、笑顔を振りまくもんじゃね－の？",But are you sure it's enough? Aren't idols supposed to be all smiles?
+アイドルってもっと、笑顔を振りまくもんじゃね－の？","But are you sure it's enough?
+Aren't idols supposed to be all smiles?"
 0000000000000,プロデューサー,"そこはアイドルによるんじゃないか
-笑顔の可愛さが魅力のアイドルもいるだろうし－－","That depends on the idol, right? There are idols that draw you in with a cute smile, sure."
+笑顔の可愛さが魅力のアイドルもいるだろうし－－","That depends on the idol, right?
+There are idols that draw you in with a cute smile, sure."
 0000000000000,プロデューサー,"樹里みたいに、ク－ルな表情が魅力的なアイドルを
-好きになってくれるお客さんもたくさんいるはずだよ","But on the other hand, there are plenty of fans that go for idols like you that are attractive because they can pull off the cool look."
+好きになってくれるお客さんもたくさんいるはずだよ","But on the other hand, there are plenty of fans that go for
+idols like you that are attractive because they can pull off the cool look."
 1011001020110,樹里,"はぁっ……！？　な、なんだよアンタ
-魅力がどうとか、言ってて恥ずかしくねぇのか？","Huh!? What's with you? Attractive or not, don't you feel weird saying that to me?"
+魅力がどうとか、言ってて恥ずかしくねぇのか？","Huh!? What's with you?
+Attractive or not, don't you feel weird saying that to me?"
 0000000000000,プロデューサー,"ん？　まぁな。プロデュ－サ－として
-自分が受け持ったアイドルの魅力を考えるのは当然だろ","Hm? Not really. As a producer, of course I'm going to consider what's attractive about the idol I'm responsible for."
+自分が受け持ったアイドルの魅力を考えるのは当然だろ","Hm? Not really. As a producer, of course I'm
+going to consider what's attractive about the idol I'm responsible for."
 1011001020120,樹里,そうかよ……まぁなんでもいいけどさ,"Yeah sure... Well, whatever."
 1011001020130,樹里,"そういうことなら、アタシは好きにやらせてもらうから
-後で文句言うんじゃね－ぞ？","If that's how it goes, I'll just do it however I want. Don't come crying to me afterwards, yeah?"
+後で文句言うんじゃね－ぞ？","If that's how it goes, I'll just do it however I want.
+Don't come crying to me afterwards, yeah?"
 0000000000000,プロデューサー,（お？　この樹里の表情、さっきまでよりずっと……）,(Oh? Juri's expression right now is so much more...)
 1011001020140,樹里,それじゃ、行ってくるぜプロデュ－サ－,"Right, I'll go do it now, Producer."
 0000000000000,プロデューサー,"（うん。今の樹里の雰囲気なら
-魅力的な宣材写真が撮れること、間違いなしだな……！）",(Yeah. Juri's mood right now is going to make for some amazing photos. I'm sure of it...!)
+魅力的な宣材写真が撮れること、間違いなしだな……！）","(Yeah. Juri's mood right now is
+going to make for some amazing photos. I'm sure of it...!)"
 1011001020150,樹里,なっ……！,Wha...!
 1011001020160,樹里,"……ばっ、ばかやろ－！
-ふざけたこと言ってんじゃね－ぞ",...S-screw you! Quit messing with me.
+ふざけたこと言ってんじゃね－ぞ","...S-screw you!
+Quit messing with me."
 1011001020170,樹里,"アタシの笑顔……可愛いって……
-そ、そんなわけ、あるかよ……！",My smile... cute... Like anyone's going to think that...!
+そ、そんなわけ、あるかよ……！","My smile... cute...
+Like anyone's going to think that...!"
 1011001020180,樹里,"つ、つ－かよく考えたらテメ－
-アタシの笑顔なんか見たことね－だろ！","W-wait a minute, you haven't even seen me smile, have you!?"
+アタシの笑顔なんか見たことね－だろ！","W-wait just a damn minute,
+you haven't even seen me smile, have you!?"
 0000000000000,プロデューサー,"まぁ、確かにそうだな
-実際には見たことがないよ","I mean, true. I still haven't seen it."
+実際には見たことがないよ","I mean, true.
+I still haven't seen it."
 1011001020190,樹里,"ほ、ほらみろ！
-やっぱりテキトー言っただけじゃねぇか",You admit it! You aren't even pretending to try.
+やっぱりテキトー言っただけじゃねぇか","You admit it!
+You're just telling halfassed lies to get me out of your hair."
 1011001020200,樹里,ったく……ふざけやがって……,Damn it... Why you gotta be like this...
 0000000000000,プロデューサー,"でも、見なくたって分かる
-普段から樹里は魅力的だし、笑ったら絶対に可愛い",But I can tell without seeing it. You're already attractive so I'm sure your smile would be cute too.
+普段から樹里は魅力的だし、笑ったら絶対に可愛い","But I can tell without seeing it.
+You're already attractive so I'm sure your smile would be cute too."
 1011001020210,樹里,"ななな……こ、このっ！
-調子のいいことばっかり言ってんじゃねえよ！",W-w-wh... You son of a-! I've had it with your awful pickup lines!
+調子のいいことばっかり言ってんじゃねえよ！","W-w-wh... You son of a-!
+I've had it with your awful pickup lines!"
 0000000000000,プロデューサー,そんなにカリカリするなよ。俺は思ったことを言っただけだ,You don't need to get so irritated. I'm just saying what I think.
 1011001020220,樹里,……こ、コイツ,...Damn you.
 1011001020230,樹里,……なぁ、テキト－言ったわけじゃね－んだよな？,"...Hey, so you're not just saying things to get me out of your hair, then?"
 0000000000000,プロデューサー,テキト－？,What do you mean?
 1011001020240,樹里,"……はぁ。もういいよ
-笑顔で写真、撮ってくればい－んだろ？","...Ugh. Whatever. I just have to smile at the camera and we're done, right?"
+笑顔で写真、撮ってくればい－んだろ？","...Ugh. Whatever.
+I just have to smile at the camera and we're done, right?"
 0000000000000,プロデューサー,"樹里……！
-けど、いいのか？","Juri...! But, is that okay?"
+けど、いいのか？","Juri...!
+But, is that okay?"
 1011001020250,樹里,"まぁな。……ガラじゃねぇけど
-アイドルやるって決めたわけだしな",Guess so. Isn't like me but I did agree to be an idol.
+アイドルやるって決めたわけだしな","Guess so. Isn't like me
+but I did agree to be an idol."
 1011001020260,樹里,一度決めた以上はやってやるよ,I'll show you that I'm more than just talk.
 0000000000000,プロデューサー,"よし、その意気だ！
-いい笑顔を期待してるぞ！",That's the spirit! I'm looking forward to a great smile!
+いい笑顔を期待してるぞ！","That's the spirit!
+I'm looking forward to a great smile!"
 1011001020270,樹里,い、いちいちうるせ－んだよ！,Give it a rest already!
 1011001020280,樹里,"格好いい？
 ……可愛いじゃなくてか？","Badass?
 ...And not cute?"
 0000000000000,プロデューサー,"樹里の場合は、可愛いより
-格好いいポ－ズの方が似合うと思うんだ。どうだ？",I think cool poses are more your style than cute ones. How about it?
+格好いいポ－ズの方が似合うと思うんだ。どうだ？","I think cool poses are
+more your style than cute ones. How about it?"
 1011001020290,樹里,"……ま、そうだな
-アタシもその方が、自分に向いてると思うけど",...Can't argue with that. I think I can pull it off better too.
+アタシもその方が、自分に向いてると思うけど","...Can't argue with that.
+I think I can pull it off better too."
 1011001020300,樹里,"でも、他のアイドルたちは笑顔で撮ってるだろ
-格好いいなんて、アイドルらしくね－んじゃねぇの？","But then you've got all these other idols smiling for their pictures. I'm not going to look like much of an idol, am I?"
+格好いいなんて、アイドルらしくね－んじゃねぇの？","But then you've got all these other idols smiling for their pictures.
+I'm not going to look like much of an idol, am I?"
 0000000000000,プロデューサー,"そんなことはないさ
-樹里は樹里らしい形でアイドルをやっていけばいいんだよ",You're fine. You should still be yourself as an idol.
+樹里は樹里らしい形でアイドルをやっていけばいいんだよ","You're fine.
+You should still be yourself as an idol."
 0000000000000,プロデューサー,"可愛いアイドルは抵抗あるかもしれないけど
-格好いいアイドルなら、目指していけるんじゃないか？","It would probably feel a bit forced if you tried to be a cute idol but if you're aiming to be a cool idol, that's doable, right?"
+格好いいアイドルなら、目指していけるんじゃないか？","It would probably feel a bit forced if you tried to be a cute idol
+but if you're aiming to be a cool idol, that's doable, right?"
 1011001020310,樹里,"格好いいアイドル……か
-アイドルにも色んな方向性があるんだな","Cool idol, huh? There's more kinds of idol than I thought."
+アイドルにも色んな方向性があるんだな","Cool idol, huh?
+There's more kinds of idol than I thought."
 1011001020320,樹里,"……よし。そろそろアタシの出番だし
-行ってくるよ、プロデュ－サ－","...Okay. My turn's coming up so I'll be back in a second, Producer."
+行ってくるよ、プロデュ－サ－","...Okay. My turn's coming up
+so I'll be back in a second, Producer."
 0000000000000,プロデューサー,"お、どういう写真を撮るのか
-考えはまとまったのか？","Oh, did you figure out what kind of pictures you want taken?"
+考えはまとまったのか？","Oh, did you figure out
+what kind of pictures you want taken?"
 1011001020330,樹里,ん？……ま－な,Hm? ...Something like that.
 1011001020340,樹里,"どのくらいできるかはわかんねぇけど
-今のアタシにできる、一番格好いいポ－ズで決めてくるよ",Not sure how it'll go but I'll hit 'em with the most badass pose I can come up with right now.
+今のアタシにできる、一番格好いいポ－ズで決めてくるよ","Not sure how it'll go but
+I'll hit 'em with the most badass pose I can come up with right now."
 1011001020350,樹里,"でも、もっと格好いいポ－ズがあると思ったら
-言ってくれよ？　自己満足で終わりたくね－からな","But tell me if you think you've got something better, okay? Not trying to be too cocky here."
+言ってくれよ？　自己満足で終わりたくね－からな","But tell me if you think you've got
+something better, okay? Not trying to be too cocky here."
 info,produce_events/101100102.json,
 Translator,,,Enzo and Mondo

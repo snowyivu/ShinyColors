@@ -1,0 +1,25 @@
+id,name,text,trans
+4011001000210010,樹里,"本番前のこのピリピリした空気好きなんだ
+なんか、昔を思い出すっつーかさ……","I love this tingly energy everything has right before I go on.
+Kinda reminds me of back in the day..."
+0000000000000,プロデューサー,"（この空気感に浸っているようだな……
+なにか送り出す言葉をかけよう）","(She's taking the moment in...
+I should say something to see her off.)"
+select,,楽しんでこい！,Enjoy yourself!
+select,,落ち着いていけ,"Keep your
+cool out there."
+select,,大丈夫か？,Are you okay?
+4011001000210020,樹里,"ああ……！　目いっぱい楽しんでくるぜ！
+アイドルのアタシ、しっかり目に焼き付けとけよ！","Yeah...! Gonna have a lot of fun!
+Burn the sight of me into your eyes!"
+0000000000000,プロデューサー,（よし！　しっかりと送り出せたぞ）,(Nice! That hyped her up.)
+4011001000210030,樹里,"おう！　決めてくるぜ
+へへ、試合開始ってな！","Yup! I'll nail it.
+Hehe, just like the start of a match."
+0000000000000,プロデューサー,（いい感じに送り出せたようだ）,(That should give her a good start.)
+4011001000210040,樹里,"心配すんな、こういう空気は得意なんだ
+まあ、でも心配してくれてサンキューな","Don't worry, I'm used to this kind of vibe.
+Well, thanks for worrying about me anyway."
+0000000000000,プロデューサー,（逆に気を使わせてしまったな……）,(Got her worrying about me instead...)
+info,produce_communication_cheers/401100100021.json,
+Translator,,,Enzo and Mondo

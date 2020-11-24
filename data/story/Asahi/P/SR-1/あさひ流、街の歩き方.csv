@@ -1,0 +1,97 @@
+id,name,text,trans
+0000000000000,プロデューサー,"『はい、明日もよろしくお願いします
+では、失礼いたします』","[Yes, looking forward to working with you tomorrow.
+Please excuse me.]"
+0000000000000,プロデューサー,"よし、これで今日の予定は終わりだ
+少し腹も減ったしどこかに寄って……","Okay, this is the end of today's schedule.
+I feel a bit hungry. Where should I stop by..."
+0000000000000,プロデューサー,……ん？,...hm?
+0000000000000,プロデューサー,（あさひ……？　何してるんだ……？）,(Asahi...? What's she doing...?)
+0000000000000,プロデューサー,（ちょっと行ってみるか）,(Let's stop by for a bit.)
+2017003010010,あさひ,あっちかな～？,Is it over there～?
+0000000000000,あさひ,それともこっちの方？,Or maybe here?
+0000000000000,プロデューサー,あさひ！,Asahi!
+2017003010020,あさひ,？,Hm?
+2017003010030,あさひ,"あれ、プロデューサーさんじゃないっすか！
+こんなところで何してるんす？","Huh, it's Producer-san!
+Whatcha doin' in a place like this?"
+0000000000000,プロデューサー,俺は仕事の帰りだぞ,I just got back from work.
+2017003010040,あさひ,なーんだ、そうだったんすね！,"Oh, so that's why!"
+0000000000000,プロデューサー,それよりも、あさひが何をしてたか気になるんだが……,"Rather than that, I'm wondering what Asahi was doing..."
+2017003010050,あさひ,"わたしっすか？
+わたしは何か楽しいことがないか探してたんすよ！","Me?
+I was lookin' for anythin' that catch my interest!"
+2017003010060,あさひ,"それで、公園にマジシャンがいるって聞いたんで
+行こうと思ってたんす！","So then, I heard there's a magician in the park.
+I was thinkin' of goin'!"
+0000000000000,プロデューサー,それで色々な人に話を聞いたりしてたのか,That's why you were going around to various people.
+2017003010070,あさひ,"はいっす！　楽しいこと探しの基本は
+情報を集めるところからなんす！","Yes! The basics of searchin' for fun things
+is to collect information!"
+0000000000000,プロデューサー,"確かにそれで、楽しいことは見つかるかもしれないが
+あまり知らない人に話しかけたらダメだぞ？","Sure, you might find something fun that way,
+but talking to someone you don't know is no good, you know?"
+2017003010080,あさひ,？　どういうことっすか？,Hm? What do you mean?
+0000000000000,プロデューサー,"世の中は良い人ばかりじゃないからな
+危ない目に遭わないとも限らないんだ","The world isn't only filled with good people.
+There's no guarantee that you'll be safe from danger."
+2017003010090,あさひ,"あはは、何言ってるんすか、プロデューサーさん
+今までそんなことなかったっすよ～？","Ahaha, what're you on about, Producer-san?
+Until now, no such things have ever happened, y'know～?"
+0000000000000,プロデューサー,"それはあさひの運がよかったからだ
+何かあってからじゃ、遅いんだ","That's because Asahi was lucky.
+It's spoiled milk after something happens."
+2017003010100,あさひ,うーん……わかったっす～,Hmm... Rogers～
+0000000000000,プロデューサー,"まったく……
+それで、今からマジシャンを探しに行くんだよな？","Jeez...
+So, weren't you going to look for the magician?"
+2017003010110,あさひ,そうっす！,Yes!
+0000000000000,プロデューサー,"俺もついていこう
+あさひひとりじゃちょっと不安だしな","I'll tag along.
+Asahi going alone is concerning for my heart."
+2017003010120,あさひ,あれ……？,Eh...?
+0000000000000,プロデューサー,特にそれらしい人はいないな,No one fits the rumor.
+2017003010130,あさひ,そうっすね……うーん……残念っす,Yea... hmm... too bad.
+0000000000000,プロデューサー,（少し落ち込んでるみたいだな）,(Looks like she's a bit down.)
+select,,"どんな格好を
+しているんだ？","Do you remember
+the appearance?"
+select,,"マジシャン
+じゃないけど","Probably not
+a magician."
+select,,"事務所に
+戻ってみるか？","Let's try going
+back to the office."
+2017003010140,あさひ,シルクハットをかぶってるらしいっす,Seems to be wearin' a top hat.
+0000000000000,プロデューサー,なるほど……他にはないか？,Okay... anything else?
+2017003010150,あさひ,あと、青いスーツを着てるって聞いたっすね,"Also, wearin' a blue suit."
+0000000000000,プロデューサー,かなり目立ちそうだな……それならすぐに見つかりそうだ！,Sounds pretty conspicuous... then it'll be easy to find!
+0000000000000,プロデューサー,"一旦さっきの通りまで戻ろう
+人の多いところにいそうだしな","Let's go back to the street.
+Better to go look in a crowded place."
+2017003010160,あさひ,"はいっす！
+ふたりで探せば、きっと見つかるっすよね！","Rogers!
+With us two searchin', we'll sure to find it!"
+0000000000000,プロデューサー,帰りに人だかりができてたのを見たぞ,I saw a crowd on the way back.
+2017003010170,あさひ,何かあったんすかね？,Did somethin' happen?
+0000000000000,プロデューサー,"海外で大人気のお菓子らしいんだけど
+一号店が今日オープンしたらしい","Seems like about overseas' favorite sweets. 
+Their first shop just opened today."
+0000000000000,プロデューサー,"あさひが探してるものじゃないが、行ってみるか？
+結構、美味しそうだったぞ","It's not what Asahi's looking for,
+but would you like to go?
+It looked pretty good."
+2017003010180,あさひ,それも面白そうっすね……,That's sounds nice too...
+2017003010190,あさひ,うーん……,Hmm...
+2017003010200,あさひ,やっぱり、わたしはマジシャンを探すっす！,"Still, I wanna find that magician!"
+0000000000000,プロデューサー,お、おぉ……そうか,O-Oh... Okay then.
+2017003010210,あさひ,はいっす！　それじゃ、わたしは行くっすね！,"Yes! Well then, I'll be goin'!"
+2017003010220,あさひ,？　事務所に何かあるんすか？,Hm? Is there somethin' in the office?
+0000000000000,プロデューサー,いやまぁ、何ってこともないんだがな,"Well, nothing particular."
+0000000000000,プロデューサー,"灯台下暗しって言うし、事務所に戻ったら
+偶然、何かが起きるんじゃないかと思ってな","""It's dark under the lighthouse."" So if we get back,
+by chance, I wonder if something might happen."
+2017003010230,あさひ,うーん……なるほど……,Hmm... I see...
+2017003010240,あさひ,じゃあ、そういうことにしておくっす,"Then, let's just go with that."
+info,produce_events/201700301.json,
+Translator,Autumn Cloud,

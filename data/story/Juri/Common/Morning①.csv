@@ -22,8 +22,8 @@ Thanks for the input!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1011001000110050,樹里,"へへ、そうか？
 今の髪型は長すぎる気がしてたんだけどな……","Heh, really?
-I thought it's getting too long..."
-1011001000110060,樹里,ま、アンタがそう言うなら、しばらくこのままにしとくか,"If you said so, I guess I'll leave it like that for now."
+I thought it was getting too long..."
+1011001000110060,樹里,ま、アンタがそう言うなら、しばらくこのままにしとくか,"If you say so, I guess I'll leave it like that for now."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1011001000110070,樹里,"はぁ？　髪を伸ばすなんてアタシには似合わねーよ
 それに動きにくそうだし……","What? Long hair doesn't suit me at all.
@@ -31,4 +31,4 @@ Plus, it's difficult to move in it..."
 1011001000110080,樹里,ま、まぁ、いつか試してもいいかもな……,"W-well, guess I can try that some other time..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101100100011.json,
-Translator,,
+Translator,,,Ruru
