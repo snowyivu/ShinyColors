@@ -2,9 +2,9 @@ id,name,text,trans
 5002002010010,恋鐘,"──台本よ～し！　ペンよ～し！　ハンカチよ～し！
 そいで、大事なお弁当も──","──Script, check!～ Pen, check!～\nHandkerchief, check!～ And of course,\nthe all-important bento──"
 0000000000000,プロデューサー,"恋鐘ー！　先に行ってるぞー！
-車を回してくるから、準備ができたら下で待っていてくれ！","Koganeee! Don't leave without me!\nI've got to get my car, so if you're ready to go,\nplease hold on a minute!"
+車を回してくるから、準備ができたら下で待っていてくれ！","Koganeee! I'm heading out to the car. I'll bring it around, so wait downstairs once you're all set."
 5002002010020,恋鐘,"あっ、うん～！
-うちもすぐ行くけん～","Ah, yep～! I'll be comin' right with ya～"
+うちもすぐ行くけん～","Ah, yep～! I'll be comin' right down～"
 0000000000000,プロデューサー,おっ、咲耶！,"Oh, Sakuya!"
 5002002010030,咲耶,"お出かけのようだねプロデューサー
 すれ違いとは残念だ","Looks like you're getting ready to leave, Producer.\nToo bad we can't have a chat."
@@ -21,14 +21,14 @@ id,name,text,trans
 5002002010080,咲耶,"やあ、恋鐘もお出かけかい？
 プロデューサーと一緒かな","Yo, you're heading out, too? With Producer?"
 5002002010090,恋鐘,"うん！　ばってんえっとえっと～……
-咲耶に聞きたかことのあったとよ！","Yep! But, uhh... well～... So, ya heard about\nthat thing, right?"
-5002002010100,恋鐘,咲耶！　咲耶はどがんステージがよかと～？,Sakuya... What kinda stage d'ya like～?
-5002002010110,咲耶,ステージ？　…………もしかして感謝祭の話かな？,Stage? ...Are you talking about TFD?
+咲耶に聞きたかことのあったとよ！","Yep! But, uhh... well～... There's somethin' I wanted t'ask ya!"
+5002002010100,恋鐘,咲耶！　咲耶はどがんステージがよかと～？,Sakuya... Whatcha think we should do for our performance?
+5002002010110,咲耶,ステージ？　…………もしかして感謝祭の話かな？,Performance? ...Are you talking about TFD?
 5002002010120,恋鐘,"うん～！　最近みんな忙しかけん、集まれんやろ～？
-なんかよか考えはなかかな～って思って、そいで──","Yep! Lately people've been busy, so\nshouldn't we get together'n do somethin'?\nI've been thinkin' on it and maybe we could──"
+なんかよか考えはなかかな～って思って、そいで──","Yep! Lately we've all been busy, so\nshouldn't we get together'n do somethin'?\nI've been thinkin' on it and maybe we could──"
 0000000000000,プロデューサー,恋鐘ー！,Kogane!
 5002002010130,咲耶,"……プロデューサーがお呼びのようだね
-今日のところは時間切れかな","...Looks like Producer's calling for you.\nI guess there's a deadline today, huh?"
+今日のところは時間切れかな",...Looks like Producer's calling for you. I guess our conversation must be kept short.
 5002002010140,恋鐘,"ああ～～！　しょんなか！
 咲耶、今度また話そ～！","Ahh～! Too bad! Sakuya, let's talk later～!"
 5002002010150,咲耶,"ああ、次はちゃんと話そう
@@ -73,12 +73,12 @@ id,name,text,trans
 5002002010360,恋鐘,"『ありがと～～！！ 　そい　ば～りすごかお弁当
 さっきゆびさし確認したとに……』","""Thank you～!! My super-duper bento,\nthanks so much for finding it for me, but..."""
 5002002010370,恋鐘,"『だれか食べてくれる人～～～
-おらんかなぁ？？？？？　ふぇ～～』","""Is there anyone who'd like to eat some～?\nNobody????? Fuu～"""
+おらんかなぁ？？？？？　ふぇ～～』","""Is there anyone who'd like to eat some～?\nNobody????? Hweeeh～"""
 5002002010380,咲耶,"ああ、恋鐘……
 忙しい時は仕方ないさ","Ahh, Kogane...\nYou're hopeless when you're in a rush."
 5002002010390,咲耶,"『ありがとう。それならお言葉に甘えさせてもらおう
 恋鐘の手作り、大切にいただくよ』","""Thank you. In that case, maybe I'll accept your offer and indulge. I'll take my time and savor your cooking."""
-5002002010400,咲耶,けれど、ひとりで食べるのは……,"However, eating it alone..."
-5002002010410,咲耶,少しだけ…………,Just a little bit...
+5002002010400,咲耶,けれど、ひとりで食べるのは……,"Though, eating it all alone..."
+5002002010410,咲耶,少しだけ…………,"Makes me feel, kind of..."
 info,produce_events/500200201.json,
-Translator,Peach,
+Translator,"Peach, Edits by Belvera",

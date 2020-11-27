@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,ん？　さっきから俺を見てどうかしたのか？,Hm? Is there a reason you've been staring at me?
+1011001001510010,樹里,あ……いや、ふと思ったんだけどよ,"Oh... No, I was just thinking."
+1011001001510020,樹里,"感謝ってのは、後々後悔しねーためにも
+ちゃんと口に出したほうがいいと思ってよ","About how one of the reasons you tell people you
+appreciate them is so you don't regret not saying it later on."
+0000000000000,プロデューサー,感謝か、そうだな……,"Appreciation, huh..."
+select,,いつもありがとう、樹里,"Thanks for
+everything, Juri."
+select,,口にしなくても伝わるぞ,"I understand
+even if you
+don't say it."
+select,,好きなだけ言ってくれ,"Thank me
+all you want."
+1011001001510030,樹里,"違うって！　アタシが感謝されるんじゃなくて、
+アタシが伝えたかったんだよ","Not what I meant! I wasn't fishing for thanks,
+I wanted to say it to you."
+1011001001510040,樹里,あー、その……プロデューサー、いつもありがとな,"Oh, so yeah... Producer, thanks for everything."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001001510050,樹里,なるほど、口にしなくても態度でってことだよな,"I see, so you're saying actions speak louder than words."
+1011001001510060,樹里,"じゃあ、アタシも態度で示すことにするぜ！
+さ、今日は何するプロデューサー？","Then I'll just show you with my actions!
+Alright, what are we doing today, Producer?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001001510070,樹里,む……そういう感じで言われるとよ……,Hrm... If you just say it like that...
+1011001001510080,樹里,"……はぁ、もういいや
+さっき言ったことは忘れてくれ","...Phew, whatever.
+Just forget I said anything."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100151.json,
+Translator,,,Enzo and Mondo

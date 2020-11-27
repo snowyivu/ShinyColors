@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,"どうした樹里
+難しい顔して……何か悩みごとか？","What's wrong, Juri?
+You look worried about something... Is there anything I can do?"
+1011001000910010,樹里,"なぁ、プロデューサー……
+やっぱアイドルはこう、可愛い感じのタイプの方がいいよな？","Hey, Producer...
+So with idols, um, cute types are the best, right?"
+1011001000910020,樹里,ウチのユニットにもそーゆーのがいるけどよ……,Even my unit has them after all...
+0000000000000,プロデューサー,（樹里はアイドルの可愛さについて悩んでいるようだ）,(Juri is worried about how cute idols can get.)
+select,,"アイドルそれぞれの
+強みがある","Idols all have
+their own strengths."
+select,,"樹里には樹里の
+可愛さがある","You're cute in
+your own way."
+select,,"今から可愛さを
+出してみよう","Show me how
+cute you can
+be right now."
+1011001000910030,樹里,"なるほど
+アタシはアタシの強みを、見つければいいのか","I see.
+So you're saying I should find my own strengths."
+1011001000910040,樹里,なあ、アンタも見つけるの、手伝ってくれよな？,"Hey, you'll help me figure it out too, right?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001000910050,樹里,"か、可愛さって、なんだよ……
+真顔でヘンなこと言うなよな！","W-what do you mean cute...
+Quit saying weird crap like it was nothing!"
+1011001000910060,樹里,"でもまぁ……参考までに、その……
+もうちょい詳しく聞かせてもらっていいか？","But I mean... just for reference, uh...
+could you explain what you mean a little more?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001000910070,樹里,はぁ！？　アタシにかわいこぶれってか？,The hell!? You telling me to do some fake cutesy act?
+1011001000910080,樹里,そんなのぜってー似合わねぇって！,There's no way in hell that'll work!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100091.json,
+Translator,,,Enzo and Mondo

@@ -1,0 +1,116 @@
+id,name,text,trans
+0000000000000,プロデューサー,──真乃,──Mano.
+0000000000000,プロデューサー,"スタッフさんに状況を聞いてきたよ
+……撮影再開までは、まだ少しかかるらしい","Just got an update from the crew...
+It looks like it's gonna take some more time before we can resume shooting."
+0000000000000,プロデューサー,待たせてばかりですまない……,Sorry to keep you waiting...
+2001011010010,真乃,"……いえ
+全然平気です","......Oh, no, I don't mind it at all."
+2001011010020,真乃,"お仕事中なので、
+本当はいけないのかもしれないんですけれど……","I know it's supposed to be work, so maybe I shouldn't be saying this, but..."
+2001011010030,真乃,"……こうした時間も、なんだか
+うれしいなって思っちゃうんです……",......I kind of appreciate moments like this.
+2001011010040,真乃,"……お日様が沈んだ後の森は、 
+ちょっぴり怖くて、でも静かでやさしい場所で……","......The forest after sunset can be a little bit scary, but it's a nice and peaceful place."
+2001011010050,真乃,"普段はなかなか来られないので
+みなさんと、特別なところに来てるなって……","It's not often I get the chance to come here at night. So I was just thinking, we're lucky to visit this special place..."
+0000000000000,プロデューサー,"はは、そうか
+……うん、わかる気がするよ","Haha, I see.
+......Yeah, I think I get what you're saying."
+0000000000000,プロデューサー,"……なんとなくワクワクして楽しくて
+もっと続けばいいのにって気持ち──","......It triggers that unexplainable spark of excitement, that feeling of wanting to stay just a little bit longer──"
+2001011010060,真乃,……はい……っ,......Yes...!
+2001011010061,真乃＆プロデューサー,はは,Haha...
+2001011010070,真乃,"……それに
+見てくださいプロデューサーさん","......And it's not just that.
+Look up, Producer-san."
+0000000000000,プロデューサー,ん……？,Hmm...?
+0000000000000,プロデューサー,"──おお……！
+すごい星空……！","──Ooooh...!
+So many stars out here...!"
+0000000000000,プロデューサー,"気付かなかった……すごく綺麗だな──……
+って……なんか、もっとこううまいこと言えたらいいんだが","I hadn't even noticed... it's really beautiful, huh...
+Ehm... I kinda wish I had the vocabulary to describe it more eloquently..."
+2001011010080,真乃,"……ふふ、いえ……
+私も、とっても綺麗な星空だなって言っちゃいます……っ","......Heehee... it's okay.
+I would've said the same...
+The stars are really, really beautiful...!"
+0000000000000,プロデューサー,"はは……──それにしても、
+こうしてるだけで時間が経つのも忘れそうだ……","Haha...
+──Honestly though, you could be forgiven for losing track of time gazing up at a sky like this one..."
+2001011010090,真乃,……はい,......Yes.
+2001011010100,真乃,──あ……,──Ah...
+0000000000000,プロデューサー,ん、どうした真乃？,"Hm? What's the matter, Mano?"
+2001011010110,真乃,……あっ、すみません……,"......Ah, I'm sorry..."
+2001011010120,真乃,えっと、あそこにアオバズクさんがいて……,Uhm... there's a boobook over there...
+0000000000000,プロデューサー,"んん…………おお……
+あのフクロウ……かな？","Mmh... Oh...
+That owl... you mean?"
+2001011010130,真乃,……はい……っ,......Yes...!
+2001011010140,真乃,"アオバズクさん、こんばんは……
+……見守ってくれているんですか……？","Good evening, lovely boobook...
+......Are you keeping watch over us...?"
+0000000000000,プロデューサー,"……はは、まばたきしてる
+なんだか返事してくれてるみたいだなぁ","......Haha, it blinked. It's almost as if it's responding to what you said."
+2001011010150,真乃,"……時間ができたおかげでしょうか
+ご挨拶ができちゃいました",.....It might only be thanks to the delays that we got the chance to say hello to it.
+0000000000000,プロデューサー,"そうか……よかったよ
+こういう時間も、確かに悪くないな","I guess so... And I'm glad we did.
+You know what, I agree. Moments like this aren't half-bad."
+2001011010160,真乃,……はいっ,......Yes!
+2001011010170,真乃,"……こんなふうに、時間ができたとき
+この間は、お散歩へも出かけたんです……","......Just the other day, I unexpectedly had some time to spare, so I went out for a walk..."
+2001011010180,真乃,"朝早い時間だったんですけれど、その時も
+新しい鳥さんに出会えたり、うれしいことがありました","It was still early in the morning. And just like today, it led me to some lovely surprises, like a bird I'd never seen before."
+select,,"思わぬ出会いって
+嬉しいよな","Chance encounters
+can really make 
+your day, right?"
+select,,"……俺も
+真乃を見習おうかな","......Maybe I 
+should follow 
+your example."
+select,,うん、なるほどなぁ,"Yeah, I see what
+you mean now."
+0000000000000,プロデューサー,"……思いがけないところで会えると
+すごく印象に残るというか……","......The encounters you expect least are the ones that really stay with you, somehow..."
+2001011010190,真乃,"はい
+私も、そう思います……","Yes, I feel the same way..."
+2001011010200,真乃,"……なんでもないようなことでも
+それだけで、特別に思えて……",......It doesn't even have to be anything out of the ordinary. If it happens unexpectedly that's enough to make it feel special...
+0000000000000,プロデューサー,"はは……うん。──そう考えると、
+真乃との出会いも、思わぬ出会いだったな","Haha... yeah.
+──Come to think of it, our first encounter was an unforeseen one, too."
+2001011010210,真乃,ほわ……,Hwa...
+2001011010220,真乃,……確かに、そうかもしれません……,"......Yes, I suppose you could say that..."
+2001011010230,真乃,"プロデューサーさんとの出会いは、私にとって
+とっても特別でうれしいものになりました……","For me, it certainly turned out to be a very special, lovely encounter..."
+2001011010240,真乃,ほわ……え、えっと……,Hwa... u-uhm...
+0000000000000,プロデューサー,"真乃の時間の過ごし方すごくいいなって思ってな
+──俺も、まずは朝の散歩でもしてみようかなって","I envy the way you spend your time.
+──I guess I could start by including a morning walk in my daily routine."
+2001011010250,真乃,"わ……本当ですか……っ
+よかったら、ぜひです……","Wow... do you really mean that...?
+Well, I highly recommend it...!"
+2001011010260,真乃,"のぼり始めたやさしいお日様に、鳥さんも
+咲いているお花も、とってもきらきらしていて……","In the soft light of the rising morning sun, everything just seems to be sparkling. The birds, the blooming flowers..."
+2001011010270,真乃,なんだかぽかぽかした気持ちになれるんです……,"It feels so warm and cozy, somehow..."
+0000000000000,プロデューサー,"はは……！
+うん、それはすごく気持ちよさそうだ……！","Haha...!
+Yeah, that does sound really nice...!"
+0000000000000,プロデューサー,"確かに、そういうときこそ
+色んな発見ができていいよな","It's great how moments like that lead to all kinds of new discoveries, huh."
+0000000000000,プロデューサー,"いつもと違う道を行ってみると
+新しい喫茶店を見つけて嬉しかったり……！",Like when I take a different route from my usual one and find a new coffee place. That can get me pretty excited...!
+2001011010280,真乃,"……私も、時間があるときは
+行ったことのない道を選んでみたりします……っ","......When I have some time to spare, I like to try out roads I don't usually take, too...!"
+2001011010290,真乃,どこに繋がってるのかなって、ちょっと冒険みたいで……,"It's like a small adventure, just trying to find out where the road leads."
+2001011010300,真乃,……道に迷っちゃうこともあるんですけれど……,"......I do get lost sometimes, though..."
+0000000000000,プロデューサー,"はは、そうか
+俺も似たような経験あるよ","Haha, you do? 
+Something similar happened to me once, actually."
+0000000000000,プロデューサー,"──今日の帰りは、気を付けながら
+いつもと違う道を選んでみようか","──Let's try a different route on the way home today. While being careful not to get lost, of course."
+2001011010310,真乃,……はいっ,......Yes!
+info,produce_events/200101101.json,
+Translator,Pluie,

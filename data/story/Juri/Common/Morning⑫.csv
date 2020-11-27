@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,動物の動画を見てるのか、樹里？,"You watching animal videos, Juri?"
+1011001001210010,樹里,ああ、結構面白いんだよ,"Yeah, they're pretty amusing."
+1011001001210020,樹里,なぁ、プロデューサーの好きな動物ってなんだ？,"Hey, what's your favorite animal?"
+0000000000000,プロデューサー,そうだなぁ、好きな動物は……,"Let's see, my favorite animal is..."
+select,,モフモフした小動物かな,"Something small
+and fluffy."
+select,,ウォンバットなんだ,I like wombats.
+select,,大きな猟犬さ,"I'm into big
+hunting dogs."
+1011001001210030,樹里,"ああ……モルモットとかウサギって
+悪魔的な可愛さがあるよな……","Ahhhh... Things like marmots and rabbits
+are cute as hell, huh..."
+1011001001210040,樹里,"ポメラニアンなんかは特にモフモフしてるし……
+ってな、何ニヤニヤ見てんだよ！","And those pomeranians are so poofy and...
+Hold it, what are you smirking about!?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001001210050,樹里,"ウォンバット！？
+すげーところついてくるな","Wombats!?
+Wasn't expecting that as your go to."
+1011001001210060,樹里,"でも、ちょっとでかいけど、
+まるまるふかふかしててかわいーよな","But even if they're kind of big,
+it's cute how round and fluffy they are."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001001210070,樹里,"へ、へ～、そうなのか……
+まー猟犬はかっこよさそうだし、いーんじゃねーの","Um, oh yeaaah, so that's your favorite...
+Well hunting dogs look cool so I guess that's fair."
+1011001001210080,樹里,……でも、飼うなら柵が必須だよな,...But you'd need a good fence to own one.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100121.json,
+Translator,,,Enzo and Mondo

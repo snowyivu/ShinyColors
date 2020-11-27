@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,それってファッション誌か、樹里？,"That a fashion magazine, Juri?"
+1011001001310010,樹里,"たまには、普段着ないような服にも
+チャレンジしてみよーと思ってさ","Sometimes I think I'd like to try out
+the kind of clothes I don't normally wear."
+1011001001310020,樹里,"プロデューサーだったら、
+アタシにはどんな服が似合うと思う？","If you were picking,
+what kind of clothes would look good on me?"
+0000000000000,プロデューサー,それはもちろん……,Of course I'd go with...
+select,,花柄フリルのかわいい服,"Flowery, frilly,
+and cute."
+select,,黒くてレースが付いた服,"Something black
+with lace."
+select,,いつも通りが一番！,"Your usual look
+is the best!"
+1011001001310030,樹里,"ふ、フリル……！？
+そこまで女の子らしーのは考えてなかったな……","F-frilly...!?
+I hadn't even thought of anything that girly..."
+1011001001310040,樹里,"せ、折角だし、
+プロデューサーが言うなら試してみるか……","S-since I asked,
+if you say so, maybe I'll try it out..."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001001310050,樹里,"黒くてレース……それってゴスロリのことか？
+レースはともかく黒っぽいのは悪くねーよなぁ","Black with lace... You mean like goth loli?
+Nevermind the lace, I can work with black."
+1011001001310060,樹里,"でも、アタシに似合うかなぁ……
+お、おかしくても笑うなよ？","But I wonder if that'll work...
+D-don't laugh if it looks weird, okay?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001001310070,樹里,"いつものアタシの服装を
+褒めてくれるのは嬉しいけどさ……","I appreciate that you're complimenting
+the way I dress but..."
+1011001001310080,樹里,でも、やっぱり挑戦してみたい気がするんだよな,I really wanted to try something new out.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100131.json,
+Translator,,,Enzo and Mondo

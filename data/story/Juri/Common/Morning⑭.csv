@@ -1,0 +1,32 @@
+id,name,text,trans
+1011001001410010,樹里,"なぁプロデューサー、
+事務所にいる時、昼ごはんはどーしてんだ？","Hey Producer,
+when you're here at the office, what do you do for lunch?"
+0000000000000,プロデューサー,どうしたんだ、急に,What's this about?
+1011001001410020,樹里,"いや、なんか気になってさ
+やっぱ外に食べに行くのか？","Oh, just wondering.
+I bet you go out somewhere, huh?"
+0000000000000,プロデューサー,俺は昼ごはんはいつも……,For lunch I usually have...
+select,,屋上でお弁当！,"Bento on
+the roof!"
+select,,定食屋へ行く,"The daily special
+at a restaurant."
+select,,健康的にバナナ！,"A nice healthy
+banana!"
+1011001001410030,樹里,お、実はアタシも学校の屋上で弁当食べること多いんだ,"Ooh, actually I usually have a bento on the roof at school too."
+1011001001410040,樹里,"いつもはひとりだけど、
+プロデューサーとなら一緒してもいいかもな！","I always eat it alone but
+I wouldn't mind joining you some time!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001001410050,樹里,おー、定食屋か。なんだか男って感じがするな,"Ohhh, like one of those set meal places. That's pretty manly of you."
+1011001001410060,樹里,"今度プロデューサーがよく行く定食屋に
+連れてってくれよ","Take me to one of your usual spots
+next time we go out."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001001410070,樹里,"はあ？　バナナだけ？
+朝じゃなくて昼だぞ？","Huh? Just a banana?
+I asked about lunch, not breakfast."
+1011001001410080,樹里,それ、健康って言えんのか？,You think that's healthy?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100141.json,
+Translator,,,Enzo and Mondo

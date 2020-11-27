@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おっ、樹里が読んでいるのは、
+ゲーム雑誌じゃないか？","Oh, isn't that a game
+magazine you're reading?"
+1011001001110010,樹里,"ああ、面白そうな新作が多くて、
+どれ買おうか悩んでてさ……","Yup, there are so many interesting new releases,
+I don't know what I want to get..."
+1011001001110020,樹里,プロデューサーは何がいいと思う？,What kind would you pick?
+0000000000000,プロデューサー,新作のゲームか……,"A new game, huh..."
+select,,"激しい格闘ゲーム
+はどうだ？","How about a
+fast paced
+fighting game?"
+select,,"太鼓の
+リズムゲームは？","A drum based
+rhythm game?"
+select,,"のんびり
+牧場ゲームは？","A laid back
+farming game?"
+1011001001110030,樹里,"お、わかってんじゃん！
+やっぱ格闘ゲームは燃えるよな！","Ooh, you get it!
+Nothing gets me more hyped than a fighting game!"
+1011001001110040,樹里,もし買ったらプロデューサーも一緒に対戦しようぜ！,"If I go with that, I'll play you!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001001110050,樹里,リズムゲームは得意分野だ,Rhythm games are one of my specialties.
+1011001001110060,樹里,結構ゲーセンとかでもやってたんだぜ,I play them all the time at the arcade.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001001110070,樹里,"牧場か
+なんかすぐ眠くなっちまいそうだなー","Farming?
+Sounds like that'd put me to sleep."
+1011001001110080,樹里,ま、候補として考えとくよ,"Well, I'll put it on the list."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100111.json,
+Translator,,,Enzo and Mondo

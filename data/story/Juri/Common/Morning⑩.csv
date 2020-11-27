@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,なんだか楽しそうだな、樹里,"You're in a good mood, Juri."
+1011001001010010,樹里,"それがさ、ユニットのメンバーで軽くスポーツでもしよーぜ
+って話になってるんだよな","Oh yeah, that's because I was just having a little talk with the other
+members about maybe playing some sports together."
+1011001001010020,樹里,"プロデューサーがやるとしたら、
+どんなスポーツがいいと思う？","If you were going to play,
+what sport do you think you'd like?"
+0000000000000,プロデューサー,そうだな、スポーツだったら……,"Let's see, my pick would be..."
+select,,フットサル,Futsal.
+select,,卓球,Table tennis.
+select,,将棋,Shogi.
+1011001001010030,樹里,"いいな！　フットサルなら激しく勝負しても楽しいけど、
+軽く遊んだりもできるし","Nice! With futsal, we could have serious matches
+but we could also just play around."
+1011001001010040,樹里,"なあ、アンタも一緒にやらねーか？
+一緒にいい汗流そうぜ！","Hey, you really down for it?
+We can work up a good sweat!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1011001001010050,樹里,"おっ、いいな
+卓球は駆け引きが楽しいスポーツだよな","Ooh, nice.
+There's a lot of interesting strategy to table tennis."
+1011001001010060,樹里,"あー、でもアタシの場合、
+熱くなりすぎるかもしれねーな","Ahhh, but when I play,
+I get too into it to think about that stuff."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1011001001010070,樹里,"将棋？
+……あれも一種のスポーツなのか？","Shogi?
+...Oh, did that count as a kind of sport?"
+1011001001010080,樹里,"でも、頭を使うのも悪くねーけど、
+皆では楽しめないんじゃねーか……？","But even if I don't mind using my head,
+wouldn't that be hard to enjoy with everyone...?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101100100101.json,
+Translator,,,Enzo and Mondo
