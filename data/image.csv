@@ -3,7 +3,7 @@ images/ui/common/parts_buttons.json_image,common.parts_buttons.png,44
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,31
 images/ui/present_box/parts.json_image,present_box_parts.png,8
-images/ui/mission/parts.json_image,mission_parts.png,17
+images/ui/mission/parts.json_image,mission_parts.png,18
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,7
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,7
 images/content/my_page/banner_border/gasha.png,gasha.png,2
@@ -40,7 +40,7 @@ images/ui/training/parts.json_image,training_parts.png,9
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,7
 images/ui/common/parts_filter.json_image,common_filter.png,4
 images/ui/fes/parts.json_image,fes_parts.png,27
-images/ui/idol_detail/parts.json_image,idol_detail_parts.png,13
+images/ui/idol_detail/parts.json_image,idol_detail_parts.png,14
 images/ui/start/parts.json_image,start_parts.png,10
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,8
 images/ui/fes/tension_check_title.png,tension_check_title.png,7
@@ -94,13 +94,13 @@ images/tips/concert/008.jpg,tutorial/concert_008.png,7
 images/tips/concert/009.jpg,tutorial/concert_009.png,7
 images/ui/fes_result/parts.json_image,fes_result_parts.png,13
 images/ui/fes/fes_role_icons.json_image,fes_role_icons.png,8
-images/ui/gasha_result/parts.json_image,gasha_result.png,10
+images/ui/gasha_result/parts.json_image,gasha_result.png,11
 images/ui/common/parts_shop_merchandise.json_image,parts_shop_merchandise.png,8
 images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,8
 images/content/gasha/bg/fa33fc02dea4d8c612d9ca335b51cddf_5041.jpg,bg_5041.jpg,5
 images/content/gasha/title/fa33fc02dea4d8c612d9ca335b51cddf_5041.png,title_5041.png,5
 images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,9
-images/ui/home_deck/parts.json_image,home_deck_parts.png,13
+images/ui/home_deck/parts.json_image,home_deck_parts.png,14
 images/ui/item/parts_content.json_image,item_parts_content.png,9
 images/ui/item/parts.json_image,item_parts.png,10
 images/content/produce_area/button_m/002.png,button_m_002.png,2
@@ -135,11 +135,11 @@ images/ui/produce_helper_support_idol/parts.json_image,produce_helper_support_id
 images/ui/produce_action/parts_event.json_image,produce_action_parts_event.png,3
 images/tips/produce_skill_board/001.jpg,tutorial/produce_skill_board_001.jpg,8
 images/ui/work_activity_top/parts.json_image,work_activity_top.png,7
-images/ui/work_activity_result/parts.json_image,work_activity_result.png,3
+images/ui/work_activity_result/parts.json_image,work_activity_result.png,4
 images/content/my_page/banner_border/event_notice.png,event_notice.png,2
 images/ui/gasha/parts.json_image,gasha_parts.png,14
 images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,3
-images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,4
+images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,5
 ae/work_activity_start/images/text_final.png,text_final.png,3
 ae/work_activity_start/images/txt4.png,txt4.png,3
 ae/work_activity_start/images/txt3.png,txt3.png,3
@@ -229,7 +229,7 @@ images/tips/idol_road/001.jpg,tutorial/idolroad_001.jpg,2
 images/tips/idol_road/002.jpg,tutorial/idolroad_002.jpg,2
 images/tips/idol_road/003.jpg,tutorial/idolroad_003.jpg,2
 images/tips/idol_road/004.jpg,tutorial/idolroad_004.jpg,2
-images/ui/idol_road/parts.json_image,idol_road_parts.png,2
+images/ui/idol_road/parts.json_image,idol_road_parts.png,3
 images/tips/beginner_mission/001.jpg,tutorial/beginner_mission_001.jpg,2
 images/tips/beginner_mission/002.jpg,tutorial/beginner_mission_002.jpg,2
 images/ui/game_event/parts_icon.json_image,game_event_parts_icon.png,9
@@ -526,7 +526,7 @@ images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png
 images/ui/home_deck/parts_bg_change_layer.json_image,home_deck_change_layer.png,2
 images/ui/music_select/parts.json_image,music_select.png,3
 base_got_date.png,base_got_date.png,2
-images/ui/option/parts.json_image,ui_option_parts.png,18
+images/ui/option/parts.json_image,ui_option_parts.png,19
 images/ui/twitter/parts.json_image,twitter_parts.png,4
 images/ui/profile/parts.json_image,profile_parts.png,3
 images/ui/title_setting/parts.json_image,title_setting_parts.png,9
