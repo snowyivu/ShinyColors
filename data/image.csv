@@ -1,7 +1,7 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,43
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,44
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
-images/ui/my_page/parts.json_image,my_page.parts.png,30
+images/ui/my_page/parts.json_image,my_page.parts.png,31
 images/ui/present_box/parts.json_image,present_box_parts.png,8
 images/ui/mission/parts.json_image,mission_parts.png,17
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,7
@@ -11,7 +11,7 @@ images/content/my_page/banner_border/campaign.png,campaign.png,2
 images/content/my_page/banner_border/update.png,update.png,2
 images/content/my_page/banner_border/event_end.png,event_end.png,2
 images/content/my_page/banner_border/package.png,package.png,2
-images/ui/idol_portal/parts.json_image,idol_portal_parts.png,8
+images/ui/idol_portal/parts.json_image,idol_portal_parts.png,9
 images/ui/produce_commu/parts_commu.json_image,commu_parts.png,7
 images/ui/produce_top/parts.json_image,top_parts.png,18
 images/ui/idol_list/parts.json_image,idol_list_parts.png,13
@@ -257,8 +257,8 @@ images/ui/init/parts.json_image,init_parts.png,10
 images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,12
-images/ui/common/parts.json_image,common_parts.png,29
-images/ui/common/parts_icons.json_image,common_parts_icons.png,21
+images/ui/common/parts.json_image,common_parts.png,30
+images/ui/common/parts_icons.json_image,common_parts_icons.png,22
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/true_end_teaching/ready/parts.json_image,true_end_ready.png,2
 images/tips/true_end_teaching/area_select/001.jpg,tutorial/true_end_tutorial_001.png,2
