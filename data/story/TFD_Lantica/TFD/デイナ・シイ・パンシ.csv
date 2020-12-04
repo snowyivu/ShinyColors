@@ -1,24 +1,24 @@
 id,name,text,trans
 5002002020010,咲耶,"……──あ、結華と連絡がついたよ
-少し遅れるって。プロデューサーも一緒らしい","...Oh, I just got a text from Yuika. She'll be a little late. It seems like Producer is with her. "
+少し遅れるって。プロデューサーも一緒らしい","...Oh, I just got a text from Yuika. She'll be a little late. It seems Producer is with her. "
 5002002020020,恋鐘,"了解～～！
-そいじゃあ、着いたらすぐ倉庫に来てもらえばよかね～",Gotcha! Tell 'er to head to storage shed as soon as she get here!
+そいじゃあ、着いたらすぐ倉庫に来てもらえばよかね～",Gotcha! Tell 'er to head to storage shed as soon as she gets here!
 5002002020030,摩美々,……本当にここでやるのー？,...Are we seriously holding the meeting here?
 5002002020040,恋鐘,"もっちろんばい！
 作戦会議はこがんとこでやるって、決まっとると！"," 'Course we are! When yer holdin' a council of war, it's gotta be in a place like this!"
 5002002020050,咲耶,"フフ、作戦会議なのかい？
-私は感謝祭に向けてのミーティングだとばかり思っていたよ","Heh, is this a council of war? I must've been mistaken thinking it was just a meeting about our plans for FanFest."
+私は感謝祭に向けてのミーティングだとばかり思っていたよ","Heh, is this a council of war? I must've been mistaken thinking it was a meeting about our plans for FanFest."
 5002002020060,恋鐘,"作戦会議って言ったほうがかっこよか！
 ぜ～ったい、よか考えも湧いてくるけん！","Callin' it a council of war is way cooler! An' it'll help us think up sum great ideas too, no doubt 'bout it!"
 5002002020070,摩美々,でも埃っぽいのはちょっとー……,"If only it wasn't so dusty, though... "
 5002002020080,恋鐘,ふぇっ！　霧子、カーテンば開けると！？,"Hweh! Kiriko, don' go openin' the curtains!"
 5002002020090,霧子,"あっ……ごめんね……！
 空気を入れ替えようかなって……",Oh... I'm sorry...! I thought it might brighten things up a bit...
-5002002020100,恋鐘,薄暗かとこの方が、作戦会議の雰囲気出てよかよ～！,"Naw naw, meetin' with the light all dim makes it seems more like council of war, right?"
+5002002020100,恋鐘,薄暗かとこの方が、作戦会議の雰囲気出てよかよ～！,"Naw naw, meetin' with the lights all dim makes it seems more like council of war, right?"
 5002002020110,摩美々,"でもそれってー、作戦を立てる場所っていうより
 事件が起きる場所なんじゃないのー？","OK, but storage sheds don't seem like place where you make battle plans. They have more the vibe of places where crimes happen, right?"
 5002002020120,恋鐘,"事件が起きても関係なかっ！
-うちらにかかれば、泥棒でもトナカイでもいちころばい！","It don' matter if somebody tries to cause a scene! Be 'em robber or reindeer, we'll take 'em out in one shot!"
+うちらにかかれば、泥棒でもトナカイでもいちころばい！","If somebody tries to start somethin', we've got it covered! Be 'em robber or reindeer, we'll take 'em out in one shot!"
 5002002020130,咲耶,"……そうだね
 アンティーカが揃えばきっと無敵さ","...That's right. When L'antica is all together, we're invincible. "
 5002002020140,恋鐘,んふふ～！　そいば言いたかったと～！,Nfufu! I was gonna say that!
@@ -70,7 +70,7 @@ Producer-san..."
 5002002020360,結華,"わー……！
 さくやん、丁寧にまとめてくれてるね……！",Woah...! Sakuyan wrote down every last detail of the meeting in here!
 0000000000000,プロデューサー,"咲耶が進めておいてくれるとは思ったけど、なるほど……
-これからやることも疑問点もきれいに整理されてる……","I figured Sakuyan would've wanted to keep the ball rolling but, I see...  She's got the things we still need to do and discuss laid out so neatly..."
+これからやることも疑問点もきれいに整理されてる……","I figured Sakuya would've wanted to keep the ball rolling but, I see...  She's got the things we still need to do and discuss laid out so neatly..."
 5002002020370,結華,"ああ……案出しの交通整理だけでも大変だったろうに……
 ごめんねさくやん、ありがとう……！","It must've been tough keeping track of all the ideas everyone was shouting out... I'm sorry you had to go to the trouble, Sakyuan, but thank you so much...!"
 0000000000000,プロデューサー,これ、時間かかっただろうな……,She had to have spent quite some time writing all of this...
@@ -95,7 +95,7 @@ Producer? What's up?"
 三峰は別におかしな文章だとは思わないけどなー","...Well, what of it? Personally speaking, nothing about it struck me as off as at all. Not one bit."
 5002002020460,結華,……それにほら,...And I mean.
 5002002020470,結華,"『大丈夫』って言ってる間は、
-信じてもらえた方がありがたいじゃん？","If Sakuya herself says she's ""doing just fine"", don't you think we should believe her?"
+信じてもらえた方がありがたいじゃん？","If Sakuyan herself says she's ""doing just fine"", don't you think we should believe her?"
 0000000000000,プロデューサー,……えっ、いや……,"...Uh, well..."
 5002002020480,結華,"──なーんて言っても、
 きっとＰたんは心配しちゃうんだろうけどね～？","...No matter what I say, you're still gonna worry, aren'tcha P-tan?"
@@ -103,7 +103,7 @@ Producer? What's up?"
 信じてるぞ、ちゃんと……","O-Of course I'm not. I believe her, entirely..."
 5002002020490,結華,でもそれと心配とは別なんでしょ？,"Believing her and worrying about her are different things, though?"
 5002002020500,結華,"無闇に助けたりはしないけど、
-いざという時には颯爽と駆けつけちゃうのが──","He never intervenes without a plan, but when the time is right, he always comes rushing to the rescue --"
+いざという時には颯爽と駆けつけちゃうのが──","He never intervenes without a plan, but when the time is right, he always comes rushing to the rescue--"
 5002002020510,結華,我らがプロデューサーさん、だもんねぇ？,He's the one we call Producer!
 0000000000000,プロデューサー,"こら、からかうんじゃない
 ま、ただの杞憂かもしれないしな","Hey now, don't joke.

@@ -1,0 +1,155 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（えーっと、事務所に戻ってメールを確認したら
+今日の仕事は終わりだよな……）","(Let's see, I'll go back to the office, check my e-mails,
+and my work will be done for the day...)"
+0000000000000,プロデューサー,"（ふぅ……それにしても、今日は暑かった──
+はは……ワイシャツが汗だくだ……）","(Phew... Anyway, today was really hot──
+Haha... My clothes are drenched in sweat.)"
+0000000000000,プロデューサー,"（……ああ、水浴びでもしたいなぁ
+……いっそ川に飛び込んだら──なんてな……）","(...Ahh, I want to take a bath so bad.
+...Maybe I'll just jump in this river── Just kidding...)"
+0000000000000,プロデューサー,……ん？　あれは……,...Hm? Isn't that...
+0000000000000,プロデューサー,"おーい、真乃！
+こんなところでどうしたんだ？","Heeyy, Mano!
+What are you doing out here?"
+2001008020010,真乃,あっ、プロデューサーさん……っ,"Ah, Producer-san..."
+2001008020020,真乃,"お疲れさまです、プロデューサーさんっ
+今、PV撮影のために水鉄砲の練習をしていたんです","Good work today, Producer-san.
+I'm practicing with my water pistol for the PV shoot."
+0000000000000,プロデューサー,水鉄砲の……？,Water pistol...?
+2001008020030,真乃,"は、はい……っ。あの……今度の撮影は、
+水着でサバイバルゲームをするんですよね？","Y-yes... Uhm... The theme for the shoot is
+""swimsuit survival game"" right..."
+2001008020040,真乃,"私、サバイバルゲームはやったことなくて
+ちゃんとできるかなって……","I've never done anything like a survival game before.
+Can I really do it well..."
+2001008020050,真乃,"せめて、水鉄砲はきちんとかっこよく
+扱えるようにしておきたいなって思って……","At the very least I wanna be able to
+look cool while using the water pistol."
+0000000000000,プロデューサー,"そうだったのか、
+……これまでずっとひとりでやってたのか？","So that's how it is.
+...Have you been practicing alone all this time?"
+2001008020060,真乃,"いえ、灯織ちゃんとめぐるちゃんも一緒なんですっ
+相談したら練習に付き合ってくれて……っ","Nope, Hiori-chan and Meguru-chan helped me out.
+I asked them for help then we practiced together..."
+2001008020070,真乃,"あっ……今は、ふたりとも飲み物を買いに
+コンビニへ行ってくれているんですけれど……っ","Ah... Though, right now they're both on the way 
+to the store to get some drinks..."
+0000000000000,プロデューサー,なるほど、それでひとりでやってたんだな,"I see, so you're just practicing alone for now."
+0000000000000,プロデューサー,"そっちに置いてあるペットボトルが的だよな
+練習の成果はどうだ？","So how's it going trying to aim at those plastic bottles?
+Gotten any better yet?"
+2001008020080,真乃,"……それが
+少しも的に当てられなくて……","...Well,
+I haven't been able to get a good shot..."
+0000000000000,プロデューサー,"そうなのか……
+水鉄砲って意外とまっすぐ飛ばないもんな","I see...
+I didn't think that water pistols would be so hard to handle."
+2001008020090,真乃,"そ、そうなんですっ
+どうしても途中で曲がっちゃうんです……","Th-that's right.
+The water always curves while mid-air..."
+2001008020100,真乃,"……プロデューサーさん、もしよかったら
+私が撃つところ、少し見てもらえないでしょうか？","...Producer-san, if it's fine with you just for a bit...
+can you watch me practice hitting the bottles?"
+0000000000000,プロデューサー,ああ、俺でよければ全然構わないよ,"Yeah, I don't mind at all."
+2001008020110,真乃,ありがとうございますっ,Thank you so much!
+2001008020120,真乃,"……プロデューサーさん
+ど、どうでしょうか……？","...Producer-san,
+h-how was that?"
+0000000000000,プロデューサー,"そうだな……うーん
+しいて言うなら……","Let's see... Hmmm.
+How should I say this..."
+select,,"脇をしめて、両目で
+対象を捉える……","Put your arms together,
+and focus on the target..."
+select,,深呼吸してみよう,Try taking deep breaths
+select,,"当てなくても
+いいんじゃないかな","It's okay even if
+it doesn't hit"
+0000000000000,プロデューサー,そのふたつを意識してやってみたらどうかな？,How about you try keeping those in mind next time?
+2001008020130,真乃,"は、はいっ
+わかりました、やってみます……っ","O-okay.
+I get it, I'll try that..."
+2001008020140,真乃,脇を締めて……両目で対象を……捉える──っ,Put my arms closer together... Focus both eyes on the target...
+2001008020150,真乃,──えいっ,There!
+0000000000000,プロデューサー,"あぁ……！
+惜しい！　あともう少し右だった！","Ahh...!
+That was close! Just aim a bit more to the right!"
+2001008020160,真乃,"ほわぁ、でもさっきまでと全然違って
+的に近いところに撃つことができましたっ","Hwaa... It's much better than before.
+I was able to shoot closer to the target."
+2001008020170,真乃,プロデューサーさん、すごいですっ,You're awesome Producer-san!
+0000000000000,プロデューサー,"いや、なんだ……俺も人からの受け売りで、
+こうやってみるといいって聞いたことがあってさ","Nah... I was just repeating what tips I've heard
+from people who do this kind of thing."
+0000000000000,プロデューサー,はは、でも真乃の役に立ったのならよかったよ,Haha. It's great if it was able to help you though.
+2001008020180,真乃,ふふ……はいっ,Hehe... Yeah!
+2001008020190,真乃,"なんだか、水鉄砲を持つのが安定して
+とっても撃ちやすくなったって思いましたっ","Somehow, the water pistol feels more stable
+and it feels easier to shoot now."
+2001008020200,真乃,"次は当てられるように頑張りますねっ
+むんっ","I'll train hard so that I'll hit it next time.
+Mun!"
+2001008020210,真乃,"深呼吸……っ
+は、はいっ","Deep breaths...
+O-okay."
+2001008020220,真乃,"すー……はー……
+すー……はー……","Fhoo... Hwaa...
+Fhoo... Hwaa..."
+0000000000000,プロデューサー,（……よし、いい表情になってきたな）,"(...Alright, she's looking better now.)"
+0000000000000,プロデューサー,──次は、そのまま的を狙って……,Now aim at the target...
+2001008020230,真乃,"すー……はー……
+すー──","Fhoo... Hwaa...
+Fhoo..."
+2001008020240,真乃,──えいっ,There!
+2001008020250,真乃,"あ、あ……っ
+当たりました、プロデューサーさんっ","A-ah...
+I hit the target, Producer-san!"
+2001008020260,真乃,"狙ったところ、ぴったりに……っ
+ほわぁ……こんな感覚、初めてですっ","It hit right where I aimed at...
+Hwa... This sensation is new to me!"
+0000000000000,プロデューサー,"はは
+よかったな、真乃","Haha.
+That's great, Mano."
+2001008020270,真乃,"はいっ
+ありがとうございますっ","Yeah!
+Thank you so much!"
+2001008020280,真乃,"もう一度やってみますので
+見ていてください、プロデューサーさんっ","I'll try one more time,
+so please keep watching, Producer-san!"
+2001008020290,真乃,"ほわ……
+当てない……ですか？","Hwa...
+I shouldn't think of hitting it?"
+0000000000000,プロデューサー,"うん、『当たれ、当たれ』ってガチガチにならずに
+『当たらなくてもいい』っていう──","Yup, instead of being worried and thinking ""please hit"",
+just think ""it's fine if it doesn't hit""."
+0000000000000,プロデューサー,"それくらいの気持ちでやってみるのも
+いいかもしれないぞ","If you shoot with that in mind
+it might be good too."
+2001008020300,真乃,当たらなくても……,Even if it doesn't hit...
+2001008020301,真乃,……は、はいっ。私やってみますっ,...O-okay. I'll try it out.
+2001008020310,真乃,"えっと……
+当てないつもり……当てないつもり……","Uhm...
+Don't hit the target... Don't hit the target..."
+2001008020320,真乃,当てない──えいっ,Don't hit it... Here I go!
+2001008020330,真乃,ほわ……当たりませんでした,Hwa... It didn't hit the target.
+0000000000000,プロデューサー,"うん、そうだな
+見事に、外れたな","Yup, that's right.
+You did well missing the shot."
+2001008020340,真乃,"…………ふふっ、そ、そうですよね、
+わ、私、当てないつもりで撃ったのに……","...Hehe, t-that's right.
+I actually was supposed to miss..."
+2001008020350,真乃,"ふふっ、それなのに当たるかもって思っちゃいました
+ふふふっ","Hehe, despite that I still thought that it might just hit.
+Hehehe."
+2001008020360,真乃,"……でも、どこへ飛んでいくかわからないのに……
+撃つ時ドキドキして、なんだか楽しかったです……ふふっ","...But, I didn't know where it was going to land at all...
+When i took the shot, it felt so exciting... Hehe."
+0000000000000,プロデューサー,"はは、うん。それでいいんじゃないか
+真乃が楽しいって感じたなら、それが一番だ","Haha, yeah. It's fine just like that.
+What's best is that you're having fun, Mano."
+2001008020370,真乃,"──はいっ
+ふふっ、ありがとうございます、プロデューサーさんっ","Okay!
+Hehe, thank you so much, Producer-san!"
+info,produce_events/200100802.json,
+Translator,@transyabukip,

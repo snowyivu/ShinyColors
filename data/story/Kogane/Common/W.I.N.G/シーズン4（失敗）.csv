@@ -1,0 +1,46 @@
+id,name,text,trans
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,I see... So we couldn't participate.
+7901001080010,はづき,"……不参加って連絡が来たとき、
+聞き間違いかと思いました","...When I received the disqualification notice,
+I thought I must be mistaken."
+7901001080020,はづき,"私には、どうして彼女が参加できないのか
+ちっともわかりません……！",I don't have the slightest idea as to why she won't be able to participate!
+7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
+受け入れるより他にあるまい","I understand how you feel but... those are the results.
+We just have to accept it as it is."
+7901001080030,はづき,"……私、きっとあの子のファンだったんですね
+だからこの結果が、悔しくてたまらないんです……","...I realized that I must've been a big fan of her, 
+which is why I'm so upset after hearing the result..."
+0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
+誰よりも彼女のファンでしたから","I feel the same way. As her producer, I was also her biggest fan."
+0000000000000,プロデューサー,"……社長
+俺、彼女に会いに行ってきます","...President.
+I'm going to see her now."
+7902001080020,社長,ああ、そうするといい,"Yes, you should do that."
+0000000000000,プロデューサー,"残念だが……『W.I.N.G.』には出場できなかった
+せっかくここまで来れたのにな……","It's unfortunate... but you won't be participating in [W.I.N.G].
+Even though you've worked so hard to get here..."
+7004001080010,恋鐘,"ちょ、プロデューサー
+そげん落ち込まんとってよ","Hey, Producer.
+Don't look so bummed. "
+7004001080020,恋鐘,"プロデューサーば先に落ち込まれたら
+うちが落ち込めんばいー","If you're moping around like that, then I'll end up in the pits too!"
+0000000000000,プロデューサー,"すまない……
+俺よりも恋鐘の方が悔しいはずだもんな","I'm sorry...
+I know you must be more frustrated than I am right now. "
+7004001080030,恋鐘,"だから謝らんとってよ！
+それにさっきのは冗談やけん。うち、落ち込む気はないよ","Don't apologize!
+That was just a joke earlier, I'm not feeling down at all!"
+7004001080040,恋鐘,確かに、選考落ちたんは残念やし悔しいよ……,It is a shame that I failed the preliminaries...
+7004001080050,恋鐘,"けど、これで落ち込むんはうちらしくないけん！
+ファンのみんなもそんなうち見たくないばい！","But this ain't the time to be sad about it!
+My fans won't want to see me like that either!"
+0000000000000,プロデューサー,"……そうだな
+恋鐘の言う通りだ","...Yeah.
+You're right about that."
+7004001080060,恋鐘,やけん、うちは落ち込まんよー,Which is why I won't feel depressed!
+7004001080070,恋鐘,"だって、もう少しで次の景色が見えるんやもん……
+なら、進むしかないばい！","Because I still want to see what's ahead of me...
+So there's no choice but to press forward!"
+info,produce_events/700400108.json,
+Translator,Tatami+Pluie(Proofread),

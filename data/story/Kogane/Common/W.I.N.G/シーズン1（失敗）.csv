@@ -1,0 +1,40 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I've heard the results.
+...It looks like it ends here."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...Yes. We've failed to reach our goal.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね",[W.I.N.G] is a stage that various idols dreams of entering.
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems that the path you took was too difficult this time...
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I deeply apologize for not being able to bring forth any results...
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...You should not be apologizing to us.
+She is waiting for you, isn't she?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also a part of a producer's job."
+0000000000000,プロデューサー,……行ってきます,...I'll be on my way.
+0000000000000,プロデューサー,"一次審査だが……通らなかった
+残念だったな……恋鐘","We couldn't pass the first round...
+It's truly a shame... Kogane."
+7004001020010,恋鐘,"そうかぁ……
+ちょこっと残念やね……","I see...
+That's too bad..."
+0000000000000,プロデューサー,……案外落ち着いてるんだな,...You're more calm than I thought you'd be.
+7004001020020,恋鐘,"まあ、アイドル目指してればこういうこともあるけん
+全部合格できるなんておもっちょらんよ","Well, it happens when yer aiming to become an idol.
+I don't expect to just qualify everytime."
+7004001020030,恋鐘,"やから、たった一回転んだくらいで泣いてられん！
+それにうじうじするのはうちらしくない！","That's why, I'm not crying from tumbling just once!
+It ain't like me to stay in the dumps like this."
+0000000000000,プロデューサー,確かに落ち込んでる恋鐘はあまり想像できないな,"Yeah, I certainly can't imagine you getting discouraged."
+7004001020040,恋鐘,"そやろ？　うちは失敗してもただでは起きん！
+これを糧にしてまた頑張るばい！","Right? I'll just get back up when I fall!
+And I'll use that failure to fuel my efforts even more!"
+0000000000000,プロデューサー,"そうだな。アイドル活動はまだまだこれからなんだ
+また頑張ればいいさ","You're right. Our work is just getting started.
+We just need to try again."
+7004001020050,恋鐘,"その通り！　そうと決まったら
+さっそくレッスンするばい！　レッツゴー！","Ya got that right! Now that's outta the way,
+let's start on my lessons right away! Let's go!"
+info,produce_events/700400102.json,
+Translator,Tatami+Pluie(Proofread),
