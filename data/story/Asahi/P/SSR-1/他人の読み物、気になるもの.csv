@@ -1,0 +1,92 @@
+id,name,text,trans
+0000000000000,プロデューサー,あさひ、撮影お疲れ様,"Great work in the photoshoot, Asahi."
+2017004010010,あさひ,お疲れっす～！,You too～!
+0000000000000,プロデューサー,"俺は事務所に戻るけど、
+あさひはどうする？","I'm going back to the office,
+but what about you, Asahi?"
+2017004010020,あさひ,遊んでくっす！,I'm goin' to play!
+2017004010030,あさひ,"このショッピングモール、
+見たことないものがいっぱいありそうっすから！","In this shoppin' mall,
+there're lots of stuff I haven't seen before!"
+0000000000000,プロデューサー,わかった、あまり遅くならないようにな,"Got it, just don't get home too late."
+2017004010040,あさひ,"はいっす！
+プロデューサーさん、また明日っす！","Rogers!
+See ya, Producer-san!"
+0000000000000,プロデューサー,ああ、また明日,"Yeah, see you tomorrow."
+0000000000000,プロデューサー,さて、俺は帰るとするか,"Well, should I go straight back?"
+0000000000000,プロデューサー,"（うーん……でも、撮影少し早めに終わったしな……
+せっかくだし俺も何かしていこうか）","(Hmm... but the shooting ended a bit early...
+I'm here anyway, might as well go do something.)"
+0000000000000,プロデューサー,（お、本屋か）,"(Oh, a bookstore, huh.)"
+0000000000000,プロデューサー,"（そういえば、ちょっと気になっている本があるんだよな
+寄っていくか）","(If I think about it, there's this book
+I'm interested in. Let's stop by then.)"
+0000000000000,プロデューサー,（なるほどな……これはなかなかためになる──）,(I see.. this is quite helpful──)
+2017004010050,あさひ,……,......
+0000000000000,プロデューサー,（ん？　何か視線を感じる──）,(Hm? I feel something like a gaze──)
+0000000000000,プロデューサー,！　あさひ！？　どうしてここに──,Woah! Asahi! Why are you here──
+2017004010060,あさひ,──その本、面白いっすか！？,──that book is it interestin'!?
+0000000000000,プロデューサー,え、あぁ、これか……,"Eh, yeah, this..."
+select,,読んでみるか,Wanna read?
+select,,あさひに合うかなぁ,"Wonder if you'll
+like it..."
+select,,面白いぞ,It's interesting.
+0000000000000,,★選択肢①【読んでみるか】,Wanna read?
+2017004010070,あさひ,ありがとっす！,Thanks!
+2017004010080,あさひ,この本書いた人って、有名な人っすか？,"The guy in this book, is he famous?"
+0000000000000,プロデューサー,"ああ、有名な企業の社長でな、その人の仕事に対する
+考え方とかが書いてある本なんだ","Yeah, it's the president of a well-known company,
+and this book describes his work mindset."
+2017004010090,あさひ,"そうみたいっすね……
+──最初の何ページかでどんな本かはわかったっす……","It does seem like that...
+──I got the gist of it after readin' a few pages..."
+0000000000000,プロデューサー,すごいな、少し読んだだけでわかるなんて,"Understanding it with just a bit of
+reading is just amazing."
+2017004010100,あさひ,……,......
+2017004010110,あさひ,……そっすかねぇ……,...is that so...
+0000000000000,プロデューサー,"……
+読むなら買うか……？","...
+if you want to read it, should I buy it...?"
+2017004010120,あさひ,……,......
+0000000000000,プロデューサー,（……聞こえてないな）,(...she doesn't hear me.)
+0000000000000,プロデューサー,（もう少し待ってから声をかけるとするか……）,(I'll wait a bit more and then call her out again...)
+0000000000000,プロデューサー,"これ、ビジネス系の新書だから
+あさひが読んでもあまり面白くないかもしれないぞ","This is a new business book,
+so it may not be that intriguing for Asahi to read."
+2017004010130,あさひ,え～、そんなのわからないじゃないっすか！,Eh～ you'll never know before you try!
+2017004010140,あさひ,"なんでもやってみた方が、面白いことが
+見つかりやすいっす！","By tryin' to do everythin', it's easier
+to find interestin' stuff!"
+0000000000000,プロデューサー,確かに、それもそうだな……,"Indeed, that might be true..."
+0000000000000,プロデューサー,"決めつけて悪かったよ、あさひ
+ほら、これ","Sorry for deciding for you, Asahi.
+Here, take it."
+2017004010150,あさひ,ありがとっす！　早速読むっすよ～♪,Thanks! Let's get down to some readin'～♪
+0000000000000,プロデューサー,"後で感想、聞かせてくれ
+あさひがこれをどう読むか、気になるからな","Let me know what you think later.
+I'm curious about how Asahi will read this."
+2017004010160,あさひ,"いいっすね！
+わたしも話したいっす！","Cool!
+I wanna talk about it too!"
+0000000000000,プロデューサー,"この人の書いた本、ためになるからな
+よく読むんだよ","The book written by this person is quite useful.
+I like to read it."
+0000000000000,プロデューサー,"他のビジネス書とは違って、
+すごく実践的な内容が書かれているんだ","Unlike other business books,
+it has practicable content."
+0000000000000,プロデューサー,"──ほら、このページ！
+こんなに鋭く分析している本は他になくて……","──see here, this page!
+No other book is analyzing so sharply..."
+2017004010170,あさひ,そうなんすね……！　ふんふん……,I see...! Uh-huh...
+0000000000000,プロデューサー,"ああ、すまん
+ちょっとしゃべりすぎちゃったな","Oh, sorry.
+I talked too much, huh."
+2017004010180,あさひ,そんなことないっすよ！,That's not true!
+2017004010190,あさひ,"その話、すっごい面白そうっす！
+だからもっと話してくれないっすか？","It sounds really interestin'!
+So, can you tell me more about it?"
+0000000000000,プロデューサー,お、興味あるか？,"Oh, you're interested?"
+2017004010200,あさひ,はいっす～,Yeah～
+0000000000000,プロデューサー,それなら、もうちょっと話させてもらおうかな,"Well then, let me tell you the excellent bits about it."
+info,produce_events/201700401.json,
+Translator,Autumn Cloud,

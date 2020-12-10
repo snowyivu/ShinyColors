@@ -283,3 +283,9 @@ $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 プロデュースを開始しよう,Start a Produce Run,exp
 フェスアイドルを誕生させよう,Create a Fes Idol,exp
 $noun以上のフェスアイドルを$num人誕生させよう,Create $2 Fes Idols of $1 or above,exp
+Lv.$num以上のサポートアイドル$num人を編成しよう,Raise $2 Support Idols to Lv.$1
+トレーニングで【$unknown】$nameをLv.$numにしよう,Raise 【$1】$2 to Lv.$3
+思い出レベルを$num以上にしてW.I.N.G.に出場しよう,Reach Memory Appeal Level $1 in W.I.N.G.
+W.I.N.G.編のプロデュースで$unknownが$num以上のフェスアイドルを$num名誕生させよう,Create $3 Fes Idol with $2 $1 in W.I.N.G.
+$unknownが流行1位のときにW.I.N.G.準決勝に勝利しよう,Win a W.I.N.G. Semifinals when $1 is the top trend
+$unknownが流行1位のときにW.I.N.G.決勝に勝利しよう,Win a W.I.N.G. Finals when $1 is the top trend

@@ -1,0 +1,28 @@
+id,name,text,trans
+0000000000000,プロデューサー,少し腹が減ったな、軽く弁当でも……,"I'm a bit hungry, even after a light lunch..."
+1017001001110010,あさひ,プロデューサーさん、前も食べてたっすよね、それ！,"Producer-san, you've eaten that before, right?"
+1017001001110020,あさひ,先週と、１か月前も同じだったっす！,"Same as last week, also a month ago!"
+0000000000000,プロデューサー,（よく覚えているな……）,(Her memory's as sharp as ever...)
+select,,"次はいつ食べる
+でしょう？","Wonder when I'll
+eat this next?"
+select,,記憶力いいんだな,"Your memory
+is good."
+select,,"あさひもこれ
+好きなのか？","Do you like
+this too, Asahi?"
+1017001001110030,あさひ,"そーっすねぇ……今までのプロデューサーさんの
+食事サイクルからすると……","Let's see... from Producer-san's
+meal cycle so far..."
+1017001001110040,あさひ,"わかったっす！　３週間後っすね！
+当たりっすよね！　ね！","Got it! It'll be 3 weeks later!
+I got that, right!? Right!?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001001110050,あさひ,なんか覚えちゃうんすよね,I just somehow remember that.
+1017001001110060,あさひ,美味しそうだったからっすかね～？,Maybe because it looked delish～?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001001110070,あさひ,そういうわけじゃないんすけど……,"It's not because of that, though..."
+1017001001110080,あさひ,なんで気になっちゃうんすかね……うーん……,Wonder why I'm this curious... hmm...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100111.json,
+Translator,Autumn Cloud,

@@ -1,0 +1,24 @@
+id,name,text,trans
+1017001001310010,あさひ,あはは、これ、面白いっす～！,"Ahaha, this is so interestin'～!"
+0000000000000,プロデューサー,お、マンガか,"Oh, a manga, huh."
+1017001001310020,あさひ,はいっす！　昨日本屋で見つけたんすよ,Yeah! Found this in the bookstore yesterday.
+0000000000000,プロデューサー,なるほどな……,I see...
+select,,どんな話なんだ？,What's it about?
+select,,俺も最近読んだぞ,"I've also read
+that recently."
+select,,"ちょっと
+見せてくれるか？","Can I see that
+for a bit?"
+1017001001310030,あさひ,プロデューサーさんも知りたいっすか！,"You're curious too, Producer-san!?"
+1017001001310040,あさひ,"じゃあじゃあ、
+終わったら貸すんで読んでほしいっす！","Then,
+I'll lend you after this, so please read it!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1017001001310050,あさひ,ホントっすか！,No way!
+1017001001310060,あさひ,じゃあ、わたしが読み終わったら、色々と話すっすよ！,"Then, after I read it, let's talk about it some more!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1017001001310070,あさひ,今は、面白いところだからダメっす！,"Now I'm at a good part, so no!"
+1017001001310080,あさひ,取っちゃ嫌っすよ！,Don't take it from me!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101700100131.json,
+Translator,Autumn Cloud,
