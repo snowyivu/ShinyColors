@@ -283,9 +283,19 @@ $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 プロデュースを開始しよう,Start a Produce Run,exp
 フェスアイドルを誕生させよう,Create a Fes Idol,exp
 $noun以上のフェスアイドルを$num人誕生させよう,Create $2 Fes Idols of $1 or above,exp
-Lv.$num以上のサポートアイドル$num人を編成しよう,Raise $2 Support Idols to Lv.$1
-トレーニングで【$unknown】$nameをLv.$numにしよう,Raise 【$1】$2 to Lv.$3
-思い出レベルを$num以上にしてW.I.N.G.に出場しよう,Reach Memory Appeal Level $1 in W.I.N.G.
-W.I.N.G.編のプロデュースで$unknownが$num以上のフェスアイドルを$num名誕生させよう,Create $3 Fes Idol with $2 $1 in W.I.N.G.
-$unknownが流行1位のときにW.I.N.G.準決勝に勝利しよう,Win a W.I.N.G. Semifinals when $1 is the top trend
-$unknownが流行1位のときにW.I.N.G.決勝に勝利しよう,Win a W.I.N.G. Finals when $1 is the top trend
+Lv.$num以上のサポートアイドル$num人を編成しよう,Raise $2 Support Idols to Lv.$1,exp
+トレーニングで【$unknown】$nameをLv.$numにしよう,Raise 【$1】$2 to Lv.$3,exp
+思い出レベルを$num以上にしてW.I.N.G.に出場しよう,Reach Memory Appeal Level $1 in W.I.N.G.,exp
+W.I.N.G.編のプロデュースで$unknownが$num以上のフェスアイドルを$num名誕生させよう,Create $3 Fes Idol with $2 $1 in W.I.N.G.,exp
+$unknownが流行1位のときにW.I.N.G.準決勝に勝利しよう,Win a W.I.N.G. Semifinals when $1 is the top trend,exp
+$unknownが流行1位のときにW.I.N.G.決勝に勝利しよう,Win a W.I.N.G. Finals when $1 is the top trend,exp
+【$note】難易度$num以上のアイデアノートを$num回コンプリートしよう,【$1】Complete $3 Idea Notes of difficulty $2 or higher,exp
+期間中に$nameのファン人数を$num万人獲得しよう,"Earn $20,000 fans for $1 during the event",exp
+【$unknown】W.I.N.G.攻略ミッションを全て達成しよう,【$1】Complete all W.I.N.G. Walkthrough missions,exp
+【$unknown】アイドルをホームユニットに編成しよう,【$1】Set an idol in your Home Unit,exp
+【$unknown】グレードフェスに参加して、$num位に$num回なろう,【$1】Place $2 or higher in Grade Fes $3 times,exp
+【$unknown】1日1回10連無料ガシャを$num回実行しよう,【$1】Roll the Daily Free 10 Gacha $2 times,exp
+【$unknown】プロフィールでお気に入りのアイドルを設定しよう,【$1】Set your favorite Idol on your Profile,exp
+【$unknown】未読の4コマ漫画を1つ見よう,【$1】View a 4Koma,exp
+【$unknown】サポートアイドルをトレーニングしよう,【$1】Train a Support Idol,exp
+【$unknown】初心者ミッションを全て達成しよう,【$1】Complete all Beginner missions,exp
