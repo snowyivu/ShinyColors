@@ -11,7 +11,7 @@ It looks like it's gonna take some more time before we can resume shooting."
 2001011010030,真乃,"……こうした時間も、なんだか
 うれしいなって思っちゃうんです……",......I kind of appreciate moments like this.
 2001011010040,真乃,"……お日様が沈んだ後の森は、 
-ちょっぴり怖くて、でも静かでやさしい場所で……","......The forest after sunset can be a little bit scary, but it's a nice and peaceful place."
+ちょっぴり怖くて、でも静かでやさしい場所で……","......The forest after sunset can be a little bit scary, but it's nice and peaceful."
 2001011010050,真乃,"普段はなかなか来られないので
 みなさんと、特別なところに来てるなって……","It's not often I get the chance to come here at night. So I was just thinking, we're lucky to visit this special place..."
 0000000000000,プロデューサー,"はは、そうか
@@ -53,7 +53,7 @@ That owl... you mean?"
 0000000000000,プロデューサー,"……はは、まばたきしてる
 なんだか返事してくれてるみたいだなぁ","......Haha, it blinked. It's almost as if it's responding to what you said."
 2001011010150,真乃,"……時間ができたおかげでしょうか
-ご挨拶ができちゃいました",.....It might only be thanks to the delays that we got the chance to say hello to it.
+ご挨拶ができちゃいました",".....If not for this unplanned break, we might not have gotten the chance to say hello to it."
 0000000000000,プロデューサー,"そうか……よかったよ
 こういう時間も、確かに悪くないな","I guess so... And I'm glad we did.
 You know what, I agree. Moments like this aren't half-bad."
@@ -90,7 +90,7 @@ you mean now."
 ──俺も、まずは朝の散歩でもしてみようかなって","I envy the way you spend your time.
 ──I guess I could start by including a morning walk in my daily routine."
 2001011010250,真乃,"わ……本当ですか……っ
-よかったら、ぜひです……","Wow... do you really mean that...?
+よかったら、ぜひです……","Wow... do you really mean it...?
 Well, I highly recommend it...!"
 2001011010260,真乃,"のぼり始めたやさしいお日様に、鳥さんも
 咲いているお花も、とってもきらきらしていて……","In the soft light of the rising morning sun, everything just seems to be sparkling. The birds, the blooming flowers..."
@@ -101,16 +101,16 @@ Yeah, that does sound really nice...!"
 0000000000000,プロデューサー,"確かに、そういうときこそ
 色んな発見ができていいよな","It's great how moments like that lead to all kinds of new discoveries, huh."
 0000000000000,プロデューサー,"いつもと違う道を行ってみると
-新しい喫茶店を見つけて嬉しかったり……！",Like when I take a different route from my usual one and find a new coffee place. That can get me pretty excited...!
+新しい喫茶店を見つけて嬉しかったり……！",Like when I take a different route from my usual one and find a new coffee place. That gets me pretty excited...!
 2001011010280,真乃,"……私も、時間があるときは
 行ったことのない道を選んでみたりします……っ","......When I have some time to spare, I like to try out roads I don't usually take, too...!"
-2001011010290,真乃,どこに繋がってるのかなって、ちょっと冒険みたいで……,"It's like a small adventure, just trying to find out where the road leads."
+2001011010290,真乃,どこに繋がってるのかなって、ちょっと冒険みたいで……,"It's like a little adventure, just trying to find out where the road leads."
 2001011010300,真乃,……道に迷っちゃうこともあるんですけれど……,"......I do get lost sometimes, though..."
 0000000000000,プロデューサー,"はは、そうか
 俺も似たような経験あるよ","Haha, you do? 
-Something similar happened to me once, actually."
+Something similar's happened to me, actually."
 0000000000000,プロデューサー,"──今日の帰りは、気を付けながら
 いつもと違う道を選んでみようか","──Let's try a different route on the way home today. While being careful not to get lost, of course."
 2001011010310,真乃,……はいっ,......Yes!
 info,produce_events/200101101.json,
-Translator,Pluie,
+Translator,"Pluie, Emelia",

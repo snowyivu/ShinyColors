@@ -8,10 +8,11 @@ id,name,text,trans
 Uhm... I-Is the air conditioning alright, or is it too cold for you...?"
 0000000000000,プロデューサー,うん、平気だ、ちょうどいいよ,"No, it's fine. This is perfect, actually."
 0000000000000,プロデューサー,"真乃がすぐタオルを貸してくれたおかげで
-だいぶ乾いたんじゃないかな？","I'm mostly dry already, I think? Thanks to you handing me that towel rightaway."
+だいぶ乾いたんじゃないかな？","I'm mostly dry already, I think? 
+Thanks to you handing me that towel right away."
 2001011020030,真乃,……そ、それならよかったです……,......I-I'm relieved to hear that...
 0000000000000,プロデューサー,"……心配してくれてありがとう
-でも、本当に大丈夫だからさ",".....Thanks for worrying, but I'm okay. Really."
+でも、本当に大丈夫だからさ","......Thanks for worrying, but I'm okay. Really."
 2001011020040,真乃,"は、はい……
 ……すみません","Y-Yes...
 ...I'm sorry."
@@ -23,7 +24,7 @@ The office was already in sight, and then it suddenly started pouring."
 0000000000000,プロデューサー,……最近は急な雨が多くて困るよ,......Lots of nasty sudden downpours lately.
 0000000000000,プロデューサー,"俺も、真乃みたいに
 タオルを持ち歩くかな……","Maybe I should start carrying around a towel, like you..."
-0000000000000,プロデューサー,いざという時に備えられるように……！,Might as well be prepared when it happens...!
+0000000000000,プロデューサー,いざという時に備えられるように……！,Just to be prepared when it happens...!
 2001011020060,真乃,"……通り雨も多いので
 それもいいかもしれません……",......That might be a good idea. We've been having lots of passing showers as well.
 0000000000000,プロデューサー,はは、うん,"Haha, yeah."
@@ -44,7 +45,7 @@ I, uhm... I feel like there are things you can only experience when it rains..."
 2001011020110,真乃,"……小さい頃、たくさん雨が降った次の日に、
 大きな水たまりを探すのが好きでした","......When I was little, whenever it rained a lot, I would go out the next day to look for the biggest puddles. I loved that."
 2001011020120,真乃,"晴れた日は、水たまりに空が映って
-そこに飛び込んだら鳥さんになれた気がして……","On clear days, the puddles would reflect the sky. I would jump into them pretending to be a bird..."
+そこに飛び込んだら鳥さんになれた気がして……","On clear days, the puddles would reflect the sky, and I'd jump into them pretending to be a bird..."
 2001011020130,真乃,"……両親が心配するのも気にしないで、
 びしょ濡れになって遊んでいました……","......I'd get completely soaked playing like that. My parents would worry, but that wouldn't stop me..."
 0000000000000,プロデューサー,はは、真乃もやんちゃに遊ぶときがあったんだな,"Haha, so even you had your mischievous phase, huh?"
@@ -57,15 +58,15 @@ Yes....!"
 そういうふうに考えると雨もいいかもしれないな","Be that as it may... 
 Things you can only experience when it rains, huh? Rain doesn't seem so bad if you think about it like that."
 select,,"……今度、水たまり
-遊びをしてみるか","......I might try
-playing in a
+遊びをしてみるか","......Maybe I'll
+try playing in a
 puddle next time."
 select,,"傘を選ぶのが
 楽しいとか……","Picking a nice
 umbrella can
 be pretty fun..."
 select,,"片付けが
-捗ったり……","Cleaning up
+捗ったり……","Any clean-up
 tends to go
 a lot faster..."
 2001011020160,真乃,"ほわ……
@@ -76,7 +77,7 @@ Y-You, Producer-san...?"
 2001011020170,真乃,ほわ……,Hwa...
 2001011020180,真乃,"……プロデューサーさんが水たまりで……
 なんだかちょっと意外で、想像ができないです……","......Producer-san playing in a puddle...
-It's a little bit uncharacteristic. I can't imagine what it would look like..."
+It feels a little strange to thing about. I can't imagine what it would look like..."
 0000000000000,プロデューサー,はは……！　確かにそうか,Haha...! You've got a point.
 0000000000000,プロデューサー,"まあ、子どもの頃みたいにはできないけどさ
 たまにはそうしてはしゃぐのもいいだろう","Sure, I might not be able to play the way I would have as a kid anymore. Even so, no harm in blowing off some steam every now and then, you know?"
@@ -92,7 +93,7 @@ I enjoy going out with my favorite umbrella as well..."
 それを持っている日は、雨でも少し遠回りしたりしてさ","I actually have a favorite umbrella myself. When I've got that one with me, I sometimes take a little detour despite the rain."
 2001011020220,真乃,……ふふ,......Heehee.
 2001011020230,真乃,"私も、雨だからちょっとだけって思ったお散歩が
-楽しくなって、遠回りしちゃうことがあります……",Me too. What should have been a short stroll in the rain sometimes ends up becoming a long walk because I'm enjoying it too much.
+楽しくなって、遠回りしちゃうことがあります……",Me too. What should be a short stroll in the rain sometimes ends up becoming a long walk because I'm enjoying it too much.
 2001011020240,真乃,"……はい
 いつもより、念入りにやってしまったりします……","......Yes.
 I often find myself cleaning up more thoroughly than I would otherwise have..."
@@ -113,4 +114,4 @@ Could you help me organize the idol files?"
 ありがとうございます、プロデューサーさん……っ","Yes...!
 Thank you, Producer-san...!"
 info,produce_events/200101102.json,
-Translator,Pluie,
+Translator,"Pluie, Emelia",

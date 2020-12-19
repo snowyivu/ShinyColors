@@ -15,21 +15,22 @@ The stars are so pretty tonight, so I..."
 よく見えるような気がして……",......I thought I might be able to see them better with the lights off...
 0000000000000,プロデューサー,なるほどな──,"Aah, gotcha."
 2001011110050,真乃,"あのっ、勝手にすみません
-すぐ電気点けますね──","Uhm, I'm sorry! I should've asked first. I'll turn the lights back on now, okay?"
+すぐ電気点けますね──","Uhm, I'm sorry! I should've asked first. 
+I'll turn the lights back on now, okay?"
 0000000000000,プロデューサー,"ああ、いや、いいんだ真乃
 せっかくだしさ、俺も見てみようかな、星","Oh, no, it's fine, Mano.
-Might as well take a look myself, actually. At the stars."
+Might as well take a look myself, actually. Let's see those stars."
 2001011110060,真乃,……ほわ……,......Hwa...
 0000000000000,プロデューサー,真乃のとなり、いいか？,Mind if I stand next to you?
 2001011110070,真乃,"あっ、は、はいっ
-もちろんです……っ","Ah! N-No, of course not...!"
+もちろんです……っ","Ah! O-Of course not, go ahead...!"
 0000000000000,プロデューサー,──おお！　すごい星空だ……,"──Oooh...! 
 So many stars..."
 2001011110080,真乃,はい……,Yes...
 0000000000000,プロデューサー,"……本当に綺麗だな
 ──はは、代わり映えしないコメントだけど","......It's really beautiful.
 ──Haha, starting to sound like bit of a broken record, aren't I?"
-2001011110090,真乃,……ふふ、いえ……,"......Heehee, no..."
+2001011110090,真乃,……ふふ、いえ……,"......Heehee, not at all..."
 2001011110100,真乃,とっても、綺麗な星空です……っ,"The stars are really, really beautiful...!"
 0000000000000,プロデューサー,……うん、そうだな,"......Yeah, they sure are."
 0000000000000,プロデューサー,…………,......
@@ -41,8 +42,8 @@ So many stars..."
 2001011110140,真乃,"お星様のまたたきを見ていると
 大丈夫だよってお話をしてくれているように思えて……","When I see the stars twinkle, it's like they're talking to me. Telling me everything is going to be okay..."
 2001011110150,真乃,"それが心地よくて……心強くて……
-私は、いつも励まされていました","It's comforting... reassuring...
-It would never fail to lift me up."
+私は、いつも励まされていました","It's so comforting... reassuring...
+And it would never fail to lift me up."
 2001011110160,真乃,"……私も、誰かにとってそうあれたらって……
 そんなアイドルになりたいって……","......If I could be that star to somebody...
 If I could be that kind of idol..."
@@ -62,7 +63,7 @@ If I could be that kind of idol..."
 一緒だと、とってもうれしいです……",I'd be really happy to have you by my side...
 0000000000000,プロデューサー,はは、よかった,"Haha, good."
 0000000000000,プロデューサー,"焦らず、一歩ずつでも……
-理想に近づけたって思えるように進んでいこう",There's no need to hurry. We'll take it one step at a time. As long as you feel that every step brings you closer to your ideals.
+理想に近づけたって思えるように進んでいこう",There's no need to hurry. We'll take it one step at a time. As long as you feel that it brings you closer to your ideals.
 2001011110210,真乃,"はいっ
 精一杯頑張ります……っ","Yes!
 I'll give it my all...!"
@@ -79,8 +80,8 @@ I'm glad I got to see those beautiful stars!"
 I'll give you a ride."
 2001011110230,真乃,"は、はいっ
 荷物はまとめてあるので、すぐに行けますっ","Y-Yes, I've already packed up my stuff.
-I can leave at any moment."
+I'm ready to go."
 0000000000000,プロデューサー,よし、じゃあ行こうか,"Alright, then let's get going."
 2001011110240,真乃,はい……っ,Yes...!
 info,produce_events/200101111.json,
-Translator,Pluie,
+Translator,"Pluie, Emelia",

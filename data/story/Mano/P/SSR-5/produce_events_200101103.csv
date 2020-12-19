@@ -65,16 +65,16 @@ I'm sure the water's nice and cool."
 2001011030150,真乃,"……い、いいんでしょうか……
 その……高校生にもなって……","......A-Are you sure that's okay...?
 Uhm, I mean... 
-I'm already in high school..."
+Since I'm already in high school..."
 0000000000000,プロデューサー,ん？　うん、いいんじゃないかな,"Hm? 
-Yeah, why wouldn't it be okay?"
+Sure. I don't see why it wouldn't be okay."
 0000000000000,プロデューサー,"……いくつだったとしてもさ、
 やっちゃいけないなんてこときっとなくて","......You know, I don't think you can ever get ""too old"". That's nonsense."
 0000000000000,プロデューサー,"やりたいって思ったり、考えてること
-大事にしたっていいって、俺はそう思うよ","You don't need anyone's permission to ask yourself what YOU want to do. That's the way I look at it, anyway."
+大事にしたっていいって、俺はそう思うよ","You don't need anyone's permission to ask yourself what YOU want to be doing. That's the way I look at it, anyway."
 2001011030160,真乃,プロデューサーさん……,Producer-san...
 0000000000000,プロデューサー,"あ……いや、でもこれは俺の考えだから
-無理に付き合わせたいわけじゃなくて──","Ehm... Just stating my opinion, though.
+無理に付き合わせたいわけじゃなくて──","I mean, that's just how I think, though. 
 Not about to drag you into something you don't like──"
 2001011030170,真乃,"い、いえっ
 ……私も、私も水遊び……したいです……っ","N-No, I do...
@@ -95,4 +95,4 @@ The water at your feet is reflecting the sky!"
 気持ちいいですねっ、プロデューサーさんっ","Heheh...!
 This feels great! Don't you agree, Producer-san?"
 info,produce_events/200101103.json,
-Translator,Pluie,
+Translator,"Pluie, Emelia",

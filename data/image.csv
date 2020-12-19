@@ -134,7 +134,7 @@ images/ui/common/join_recommend_banner.png,join_recommend_banner.png,10
 images/ui/produce_helper_support_idol/parts.json_image,produce_helper_support_idol.png,3
 images/ui/produce_action/parts_event.json_image,produce_action_parts_event.png,3
 images/tips/produce_skill_board/001.jpg,tutorial/produce_skill_board_001.jpg,8
-images/ui/work_activity_top/parts.json_image,work_activity_top.png,7
+images/ui/work_activity_top/parts.json_image,work_activity_top.png,8
 images/ui/work_activity_result/parts.json_image,work_activity_result.png,4
 images/content/my_page/banner_border/event_notice.png,event_notice.png,2
 images/ui/gasha/parts.json_image,gasha_parts.png,14
@@ -257,7 +257,7 @@ images/ui/init/parts.json_image,init_parts.png,10
 images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,12
-images/ui/common/parts.json_image,common_parts.png,30
+images/ui/common/parts.json_image,common_parts.png,31
 images/ui/common/parts_icons.json_image,common_parts_icons.png,22
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/true_end_teaching/ready/parts.json_image,true_end_ready.png,2
@@ -593,3 +593,9 @@ images/content/idols/name/cc83fde96ec45426aaa8be8b8de5aa36_1030020030.png,cards/
 images/content/support_idols/name/f35418aec762714595fc041a53581774_2030020020.png,hiori_s_sr_2.png,8
 images/content/support_idols/name/18fe17d0b3bfe8100606cc8d669a97bf_2030020040.png,hiori_s_sr_4.png,2
 images/content/support_idols/name/b6ad64d7f4a7be9e45ade15c54f68678_2020020010.png,hiori_s_r_1.png,7
+images/content/idols/name/c1ece030659cc24923e687862c38d0a3_1030030010.png,meguru_p_sr_1.png,7
+images/content/idols/name/4c5e870c980b964dd990d8392bc52b4f_1030030030.png,meguru_p_sr_2.png,2
+images/content/support_idols/name/f14e29dd39b2206fa729ec2696138119_2020030010.png,meguru_s_r_1.png,7
+images/content/idols/name/9c59f3214fb37e8518d84f9f4cb50fb7_1030040030.png,kogane_p_sr_3.png,2
+images/content/support_idols/name/6c9527c3db82252fddb61032dec35234_2030040020.png,kogane_s_sr_2.png,2
+images/ui/ex_skill/parts.json_image,ex_skill_parts.png,5
