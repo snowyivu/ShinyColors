@@ -10,7 +10,7 @@ we can finally get some rest now."
 Is the air conditioner not turned on..."
 2001008040020,真乃,"ほわ……
 お外よりも暑くなっちゃってます……","Hwa...
-It feels much hotter than outside..."
+It feels much hotter than it is outside..."
 0000000000000,プロデューサー,"冷房つけよう……
 リモコンは──えーっと……","Let's turn on the air conditioner...
 Where could the remote be..."
@@ -40,23 +40,24 @@ I just tried putting in a little bit of sugar."
 It's energizing me too."
 2001008040080,真乃,"……プロデューサーさんにも
 気に入ってもらえてよかったです……っ","...You seem to be liking it, Producer-san.
-I'm glad..."
+I'm glad...!"
 0000000000000,プロデューサー,"ああ、こんなに美味しいお茶なら
 もっと飲みたいくらいだ","Yeah, if it's tea this delicious,
 then I wanna drink some more."
-2001008040090,真乃,それじゃあもう一杯入れてきますね……っ,Then I'll get another cup of tea for you...
+2001008040090,真乃,それじゃあもう一杯入れてきますね……っ,Then I'll get another cup of tea for you...!
 2001008040091,真乃＆プロデューサー,……ふぅ,Phew...
 0000000000000,プロデューサー,はは、ようやく暑さも落ち着いてきたかな,"Haha, we finally got to cool down huh?"
 2001008040100,真乃,ふふっ……そうですねっ,Hehe... That's right.
 2001008040110,真乃,"……こうやって氷の入ったグラスを見ているだけでも
 涼しい気持ちになれそうです……っ","...Even just looking at this cup filled with ice
-is making my body feel cool..."
+is making my body feel cool...!"
 0000000000000,プロデューサー,"ああ、確かに……
 グラスに入ったお茶もなんだかさわやかに見えるしな","Aah. That's right...
-The tea in this cup feels refreshing tool."
+It makes the tea in this cup look refreshing too."
 0000000000000,プロデューサー,"……暑い夏でも、こんなふうにちょっとしたことで
-涼しさを感じられるものってあるよな──","...Just by doing something like this, the heat
-of summer can really just go away like that."
+涼しさを感じられるものってあるよな──","...Just by doing something like this,
+the heat of summer can really just
+fade away like that."
 0000000000000,プロデューサー,例えば──,For example──
 select,,打ち水をするとか,Water sprinkling ceremony
 select,,ミストシャワーとか,Using a mist shower
@@ -66,18 +67,18 @@ select,,わらび餅もいいよな,Cold warabi mochi is nice too
 Seeing it while I'm taking a walk sure does cool me down..."
 0000000000000,プロデューサー,"あれは見た目だけじゃなくて
 実際に効果もあるらしいからな","It's not just from seeing it.
-I hear that it actually effects the temperature."
+I hear that it actually affects the temperature."
 2001008040130,真乃,どのくらい、涼しくなるものなんでしょうか？,How much does it actually cool down?
 0000000000000,プロデューサー,"俺も詳しくは分からないけど、結構涼しくなるみたいだ
 真乃はやったことないか？","I don't really know the details, but it gets pretty cold.
-Have you ever done uchimizu before, Mano?"
+Have you ever done the ceremony before, Mano?"
 2001008040140,真乃,はい、自分でやったことはないです,"Nope, I've never done it before."
 2001008040150,真乃,"ホースでお水を撒いているのを見た時は
 ちょっと楽しそうだなって思いました……っ","When I saw people sprinkling water around,
 I thought it looked kind of fun..."
 0000000000000,プロデューサー,"はは、そうか。そしたら今度、事務所のみんなを誘って
 ベランダとか屋上に打ち水をしてみようか","Haha. Then let's do it with the others sometime.
-We could do it on the veranda or our rooftop."
+We could do it on the balcony or our rooftop."
 2001008040160,真乃,"ほわぁ、本当ですかっ？
 みんなと一緒に……っ","Hwa, really?
 Doing it with everyone..."
@@ -108,25 +109,25 @@ you're near a mist shower."
 others the chance to use it too."
 2001008040240,真乃,"ほわ、わらび餅……
 そうですねっ","Hwa, warabi mochi...
-That's right."
+That's right!"
 2001008040250,真乃,"透明でプルプルしているのを見ると
 とっても涼しい気持ちになりますっ","It's transparent and jiggly.
-When I see it, it makes me feel nice and cold."
+When I see it, it makes me feel nice and cool!"
 0000000000000,プロデューサー,"うん、それに美味いし……
 夏につい食べたくなるよな","Yeah, on top of that its really tasty...
 Summer is making me crave it."
 2001008040260,真乃,"はいっ
 きな粉と黒蜜……どっちも美味しいですっ","Yeah!
 Along with kinako or brown sugar syrup...
-They're both delicious."
+They're both delicious!"
 0000000000000,プロデューサー,はは、両方かかってたらより美味そうだ,"Haha, if you combine those two it'll 
 probably taste even better."
 0000000000000,プロデューサー,"よし……今度、買ってくるから
 みんなで食べよう","Alright... I'll buy some warabi mochi sometime,
 then let's eat it with everyone."
 2001008040270,真乃,"ほわぁ……っ
-はいっ、ありがとうございますっ","Hwa...
-Okay! Thank you very much."
+はいっ、ありがとうございますっ","Hwa...!
+Okay! Thank you very much!"
 2001008040280,真乃,ふふ、とっても楽しみですっ,"Hehe, I'm really looking forward to it."
 info,produce_events/200100804.json,
 Translator,@transyabukiP,
