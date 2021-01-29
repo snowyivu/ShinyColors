@@ -1,0 +1,97 @@
+id,name,text,trans
+3011011020010,樹里,……んん……,...Nn...
+3011011020020,樹里,"結構寝ちまったか……？
+果穂は……","We slept a lot huh...?
+What about Kaho..."
+3011011020030,果穂,…………,......
+3011011020040,樹里,……よく寝てるな……,...She's sleeping so soundly...
+3011011020050,樹里,……,......
+3011011020060,果穂,んー……,Nー...
+3011011020070,樹里,"……お
+おはよう、果穂","...Oh.
+G'morning, Kaho."
+3011011020080,果穂,"樹里ちゃん……
+おはようございます……","Juri-chan...
+Good morning..."
+3011011020090,果穂,"あれ……
+あたし、いっぱいねちゃいましたか……？","Huh...
+Was I asleep for long..?"
+3011011020100,樹里,いや、アタシも今起きたばっかだよ,"Nah, I also just woke up recently."
+3011011020110,果穂,よかった……！,I'm glad then...!
+3011011020120,樹里,ああ、お互い様だ,"Yup, me too."
+3011011020130,樹里,"さて、果穂も起きたことだし
+アタシはそろそろ帰るよ","Well then, since you're awake already,
+I'll go back home now."
+3011011020140,果穂,雨、止んだでしょうか……！,I wonder if it's still raining...!
+3011011020150,樹里,"まだ降ってるか……
+けど、だいぶ弱くなってるし、大丈夫そうだ！","It's still pouring huh...
+Well, it's gotten lighter so I'll be fine!"
+3011011020160,果穂,"はいっ！
+これならびしょびしょになりません！","Yeah!
+You won't get soaked outside then!"
+3011011020170,樹里,よし！　今がチャンスだな,Alright! This is a good chance.
+3011011020180,樹里,"果穂、雨宿りさせてくれてありがとな！
+果穂のお母さんにもお礼言わないと──","Kaho, thanks for letting me take cover from the rain here!
+I gotta thank your mom too──"
+0000000000000,果穂の母,"──果穂～！
+ちょっとお願いしてもいいかしらー？","──Kaho～!
+Is it okay if I ask you to do something-?"
+3011011020190,果穂,"？
+なんだろう……？","?
+What could it be?"
+3011011020200,樹里,"結局
+果穂も出ることになっちゃったな","In the end,
+you ended up coming along with me huh."
+3011011020210,果穂,"えへへっ
+おつかいのおかげで、樹里ちゃんとお散歩できます！","Eheheh. Thanks to my errands I can take a walk
+together with Juri-chan!"
+3011011020220,樹里,"はは、駅までの楽しみができて
+アタシも嬉しい──","Haha, I'm also glad we can have fun until we
+reach the station──"
+3011011020230,果穂,わっ！,Wahh!
+3011011020240,樹里,っと、危ねー車だな……,"Oops, that was a close call."
+3011011020250,樹里,"果穂、アタシが車道側行くから
+こっち来てくれ","Kaho, I'll walk closer to the road,
+so switch places with me."
+3011011020260,果穂,わぁっ、ありがとうございますっ！,"Waa, thank you very much!"
+3011011020270,樹里,おう,No problem.
+3011011020280,果穂,"でも、さっきみたいな車がまた来たら、
+今度は樹里ちゃんがぬれちゃいます……","But, if a car like that comes again,
+the water is just gonna splash onto you instead..."
+3011011020290,樹里,"そうかもな
+けど、そんなにしょっちゅうあるもんじゃないし──","I guess so.
+But, it's not gonna happen often so──"
+3011011020300,樹里,……,......
+3011011020310,果穂,樹里ちゃん！,Juri-chan!
+3011011020320,樹里,はは、しょっちゅうあるもんだったな！,"Haha, then I guess it does happen often!"
+3011011020330,果穂,大丈夫ですか……！？,Are you okay...!?
+3011011020340,樹里,"ああ、足元だけだったし
+平気だよ","Yeah,
+it only splashed on my shoes so it's fine."
+3011011020350,果穂,ほんとですか……っ,Really...!?
+3011011020360,果穂,えへへ、よかったぁ……,"Ehehe, that's good then..."
+3011011020370,樹里,おー、不幸中の幸いだな,"Yup, it's a blessing in disguise."
+3011011020380,樹里,"けど、昔は雨に濡れんのとか
+気にしなかったな","Y'know, in the past I used to not care about
+getting soaked at all."
+3011011020390,果穂,そうなんですか？,Is that so?
+3011011020400,樹里,"雨降ってんのに、傘振り回してさ
+わざと反り返らせたりして遊んだりとかして","Even when it was raining I'd spin my umbrella around.
+I'd play around and turn my umbrella upside down."
+3011011020410,樹里,そんでびちゃびちゃになったり,And then I'd purposely get soaked.
+3011011020420,果穂,"あっ、それ、
+クラスの子もやってました！","Ah!
+A classmate of mine did that too!"
+3011011020430,樹里,なんであんなに面白かったんだろうな、あれ,I wonder why that was so fun back then.
+3011011020431,果穂＆樹里,っ！,!
+3011011020440,果穂,"あ、樹里ちゃん……！
+かさが！","Ah, Juri-chan...!
+The umbrella!"
+3011011020450,樹里,"！
+ひっくり返っちまったな","!
+It got inverted huh."
+3011011020460,樹里,……あはは,...Ahaha.
+3011011020470,果穂,……えへへ,...Ehehe.
+3011011020471,果穂＆樹里,あはははは,Ahahahaha!
+info,produce_events/301101102.json,
+Translator,Pie,
