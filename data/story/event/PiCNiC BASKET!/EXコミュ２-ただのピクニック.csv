@@ -14,14 +14,15 @@ id,name,text,trans
 天井社長の方針？",So these things are the agency's... the President's policies?
 4001011100060,美琴,"それにしても、所属アイドルがこんなに集まって
 レクリエーションなんて……あまり聞かないね","Regardless, your idols got together like this.
-Recreation huh... I hadn't heard much about it."
+Recreation huh... I haven't heard much about it."
 4001011100070,にちか,"だってこれ、番組１本できちゃいますよね？
 もったいないなぁ……！",That's because this was only one program right? What a waste...!
 4001011100080,美琴,"……２８３プロって
 ちょっと変わっているみたいだから",...283Pro does seem a little unusual.
 0,プロデューサー,そ、そうかな……,I-Is that so...
 4001011100090,にちか,"……うーわ、お姉ちゃんまで混じってるし
-撮れ高ないじゃないですかー","...woah, even big sis is in there. But there's not enough useable footage right-?"
+撮れ高ないじゃないですかー","...Woah, even big sis is in there.
+You didn't take enough useable footage, did youー"
 4001011100100,にちか,"私たちでこういうことあったら、
 ちゃんとカメラ入れてもらいましょうね、美琴さん！","If we had something like this- we have to make sure to turn on the camera right away, Mikoto-san!"
 4001011100110,美琴,"え？　んー……
@@ -41,13 +42,15 @@ Then we'll get a sponsor after right?!"
 4001011100170,にちか,"そ、それだ……！　可愛いーー！！
 『一緒に溶けよ♡　レンジでチン！』みたいなーー！！","T-That's...! Cuteーー!!
 ""Let's melt together♡ Pop in the Microwave!""
-Like that--!!"
+Like that--!! "
 0,プロデューサー,……よーし,...Alright.
 0,プロデューサー,"そこまで言うなら、にちか
 ２８３プロを代表していってみよう！","If we're talking like that, Nichika. You should represent 283 Pro!"
 4001011100180,にちか,……えっ！,...Eh!
 0,プロデューサー,"せっかくだから、一枚撮らないか？
-プロモ用だと思って、とびっきりのレンジでチン！　を頼む","While we're at it, why not take a picture? Think of it like a promotion, the extraordinary 'Pop in the Microwave'! if you would."
+プロモ用だと思って、とびっきりのレンジでチン！　を頼む","While we're at it, why not take a picture?
+Think of it like a promotion, the extraordinary
+'Pop in the Microwave'! if you would."
 4001011100190,にちか,"い、いやいやいや、なんで私なんですか……！
 大手家電メーカー怒りますよ","N-no no no no, why should it be me...! The major home appliance place would be ticked!"
 4001011100200,美琴,"……チャンス
@@ -61,7 +64,7 @@ Like that--!!"
 4001011100241,にちか＆プロデューサー,………………！,......!
 4001011100250,にちか,"す……すごい…………！
 …………","Ah... Amazing...!
-..."
+......"
 4001011100260,美琴,"────……
 ……ここ、ちょっと変わってるからこそ","ー...Right here, it's a little weird."
 4001011100270,美琴,"学べることが
@@ -74,9 +77,9 @@ Alright, shall we go through the album?"
 4001011100300,にちか,──────は、はいっ……！,...Y-yes...!
 4001011100310,にちか,"──────
 …………ただのピクニックだなーって感じですけどね……","ー
-...it just seems like an ordinary picnic though..."
+...It just seems like an ordinary picnic though..."
 0,プロデューサー,"……はは
-────いい絵だ","...haha.
+────いい絵だ","...Haha.
 ーit's a good picture."
 0,プロデューサー,撮れ高、オッケー,"Got some good footage, alrightー"
 info,game_event_communications/400101110.json,
