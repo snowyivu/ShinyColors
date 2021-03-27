@@ -1,6 +1,6 @@
 id,name,text,trans
 4001011100010,にちか,"────で、どこにあるんですか？
-この時の動画とか","ーHey, where were you here? During this video?"
+この時の動画とか","──Hey, where were you here? During this video?"
 0,プロデューサー,え？,Eh?
 4001011100020,にちか,"え？　カメラ入れてますよね？
 めちゃめちゃ豪華じゃないですか、メンツ","Eh? Didn't you turn on the camera? They're absolutely gorgeous aren't they, that lineup."
@@ -22,27 +22,27 @@ Recreation huh... I haven't heard much about it."
 0,プロデューサー,そ、そうかな……,I-Is that so...
 4001011100090,にちか,"……うーわ、お姉ちゃんまで混じってるし
 撮れ高ないじゃないですかー","...Woah, even big sis is in there.
-You didn't take enough useable footage, did youー"
+You didn't take enough useable footage, did you──"
 4001011100100,にちか,"私たちでこういうことあったら、
 ちゃんとカメラ入れてもらいましょうね、美琴さん！","If we had something like this- we have to make sure to turn on the camera right away, Mikoto-san!"
 4001011100110,美琴,"え？　んー……
-事務所がそれでいいならね",Eh? Hmー... As long as the agency's fine with it.
+事務所がそれでいいならね",Eh? Hmm... As long as the agency's fine with it.
 4001011100120,美琴,"知り合いのディレクターに
 お願いしてみようか",Shall I ask an acquaintance of the director?
 4001011100130,にちか,"うわー！！　美琴さんすごいーーー！！！
-じゃ後はスポンサーですね！","Woahー!! Mikoto-san is amazingーーー!!!
+じゃ後はスポンサーですね！","Woah!! Mikoto-san is amaaaazing!!!
 Then we'll get a sponsor after right?!"
 4001011100140,にちか,"プロデューサーさん！
 どのあたりの話つけられます？",Producer-san! Where should we discuss this?
 0,プロデューサー,い、いやいや……,N-No no no...
 4001011100150,にちか,"食器洗剤とかですかねー？　メジャーどころの
-あ、大手スーパーのチェーンとかでもいいかもですね！","Hm, something like dish soap maybe-? Some bigshot place-. Ah, like a major supermarket chain would be good right!"
+あ、大手スーパーのチェーンとかでもいいかもですね！","Hm, something like dish soap maybe? Some bigshot place... Ah, like a major supermarket chain would be good right!"
 4001011100160,美琴,"家電もいけるんじゃないの？
 『レンジでチン』だから",Home appliances works too right? 'Cooked in the Microwave' after all.
 4001011100170,にちか,"そ、それだ……！　可愛いーー！！
-『一緒に溶けよ♡　レンジでチン！』みたいなーー！！","T-That's...! Cuteーー!!
+『一緒に溶けよ♡　レンジでチン！』みたいなーー！！","T-That's...! Cuteee!!
 ""Let's melt together♡ Pop in the Microwave!""
-Like that--!! "
+Like that!! "
 0,プロデューサー,……よーし,...Alright.
 0,プロデューサー,"そこまで言うなら、にちか
 ２８３プロを代表していってみよう！","If we're talking like that, Nichika. You should represent 283 Pro!"
@@ -57,16 +57,15 @@ Think of it like a promotion, the extraordinary
 掴まなくてもいいの？",...It's an opportunity. Shouldn't you seize it?
 4001011100210,美琴,逃げていっちゃうよ,Before it runs away.
 4001011100220,にちか,"えっ、ええーーー……！
-全然チャンスじゃないですもんーーー",E-ehhhー...! It's not an opportunity at allー
+全然チャンスじゃないですもんーーー",E-ehhh...! It's not an opportunity at aaall!
 4001011100230,美琴,"そう？　でも、
 今できないなら、きっとできないよ","Really? But, if not now, then surely never."
 4001011100240,美琴,────レンジでチン,ーPop in the Microwave.
 4001011100241,にちか＆プロデューサー,………………！,......!
 4001011100250,にちか,"す……すごい…………！
-…………","Ah... Amazing...!
-......"
+…………",Ah... Amazing...!
 4001011100260,美琴,"────……
-……ここ、ちょっと変わってるからこそ","ー...Right here, it's a little weird."
+……ここ、ちょっと変わってるからこそ","──...Right here, it's a little weird."
 4001011100270,美琴,"学べることが
 あるのかもしれないって、思うの",I'm pretty sure there's something more I can learn.
 4001011100280,にちか,"それは……
@@ -80,7 +79,7 @@ Alright, shall we go through the album?"
 ...It just seems like an ordinary picnic though..."
 0,プロデューサー,"……はは
 ────いい絵だ","...Haha.
-ーit's a good picture."
-0,プロデューサー,撮れ高、オッケー,"Got some good footage, alrightー"
+──it's a good picture."
+0,プロデューサー,撮れ高、オッケー,"Got some good footage, alright!"
 info,game_event_communications/400101110.json,
 Translator,,
