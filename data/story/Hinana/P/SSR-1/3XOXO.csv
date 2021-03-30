@@ -1,0 +1,108 @@
+id,name,text,trans
+2023004030010,雛菜,…………ん～……？,Hmmm～...?
+0000000000000,プロデューサー,"…………ん？
+チェイン……雛菜か","Hm...?
+A text... From Hinana huh."
+2023004030020,雛菜,『プロデューサーいま何してる？』,"""Producer whatcha doin'?"""
+0000000000000,プロデューサー,……何かあったのか……？,What have I been doing...?
+0000000000000,プロデューサー,"『事務所で資料をまとめてるけど
+何かあったのか？』","""Just finishing up paperwork at the office,
+is everything okay?"""
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,"というか、この時間
+雛菜は授業中のはずじゃ……","Thinking about it,
+Hinana should be in class right now..."
+0000000000000,プロデューサー,……返信早いな……！,What a fast reply...!
+2023004030030,雛菜,"『雛菜がこの間持ってたプリント
+事務所にない？』","""Is the form that Hinana brought that one time
+still in the office?"""
+0000000000000,プロデューサー,"……この間……って
+進路のやつか！","That one time...
+Wait, the future life course one!"
+0000000000000,プロデューサー,雛菜、まだ出してなかったのか……！,She didn't turn it in yet...!
+0000000000000,プロデューサー,"『ちょっと待っててくれ
+探してみる』","""Give me a minute, I'll look for it."""
+0000000000000,プロデューサー,"──お、よかった
+あった……！","Oh, good good.
+I found it...!"
+0000000000000,プロデューサー,"あー……
+折り目きっちり付いてるな……","Ah, there's so many creases..."
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,『プリント、あったよ』,"""Found the form."""
+2023004030040,雛菜,『ほんと？　よかった』,Really? That's good.
+2023004030050,雛菜,"『じゃあ今日取りに行くね♡
+はやく出せって怒られちゃった♡』","""I'll pick it up today then♡
+They've been bugging me to turn it in A.S.A.P.♡"""
+0000000000000,プロデューサー,はぁ…………,Haaa...
+0000000000000,プロデューサー,"………………
+まだ、書いてなかったんだな","......
+She still hasn't written anything huh..."
+0000000000000,プロデューサー,───雛菜,───Hinana.
+select,,"なんて書くか
+考えたのか？","Have you thought about 
+what you're going to write?"
+select,,"期限を
+守らないとだめだ","You have to
+meet your deadline."
+select,,"もう
+無くさないようにな","Don't lose
+it again."
+2023004030060,雛菜,"ん～～～……
+まだ考え中～？","Hmmm～～～...
+Still thinking about it～"
+0000000000000,プロデューサー,そうか……,I see...
+2023004030070,雛菜,"でもなんか、何書いても
+怒られそうな気がするからな～",But somehow Hinana feel like she'll get scolded no matter what she writes～
+2023004030080,雛菜,"雛菜の思うとおりに書いたら
+きっと","If Hinana puts down what she wants,
+she's sure that'll happen."
+0000000000000,プロデューサー,"……なんだ、雛菜
+書きたいこと、あるのか？","...Why do you think that Hinana?
+Aren't there things you want to write about?"
+2023004030090,雛菜,"ん～？
+でもどうせ書き直し～って言われるよ？","Hmm～？
+Won't Hinana be told to rewrite her answers anyway?"
+0000000000000,プロデューサー,"それでも、雛菜が
+ちゃんと考えた結果ならいいんじゃないか","Even so Hinana. If you've thought about it properly,
+isn't that good enough?"
+2023004030100,雛菜,……そう～？,...Really～?
+2023004030110,雛菜,…………そっか～,...I see～
+2023004030120,雛菜,あ～……,Ah～...
+2023004030130,雛菜,そうかもね～……,Maybe you're right～...
+0000000000000,プロデューサー,"もし雛菜が何も浮かばないって言うなら
+それを書いて出したっていいんじゃないか","If you really can't think anything, 
+just write that down and send it out."
+2023004030140,雛菜,え～！　いいの～……？,Eh～! Would that be okay～...?
+0000000000000,プロデューサー,"ああ、それも含めて
+相談するためにあるんだよ、こういうのは","Yeah. That's the reason the faculty is there,
+to discuss things like this with you."
+2023004030150,雛菜,ふ～ん……,Hmmm～...
+2023004030160,雛菜,"じゃあ、雛菜が思うとおりに書いても
+いいってことか～","Then, it's okay for Hinana to write what she wants～"
+0000000000000,プロデューサー,"それは、もちろんそうだよ
+雛菜のことなんだから","I'm absolutely sure of it,
+because it's all about you. "
+2023004030170,雛菜,……なんだ、そっか～,"...Alright, got it～"
+2023004030180,雛菜,"無くしてないよ～？
+事務所に置いてあっただけ！","Hinana didn't lose it～ 
+Just left it in the office for safekeeping!"
+0000000000000,プロデューサー,"……大事なものなんだから
+ちゃんと管理しないと","...It's an important form.
+You have to take care of it."
+2023004030190,雛菜,"でも、プロデューサーが
+見つけてくれたでしょ？",But didn't Producer find it for me?
+0000000000000,プロデューサー,"……今回は、な
+毎回そういうわけには……","This time I did. 
+But it won't be like this every time..."
+2023004030200,雛菜,"だけど、見つからなかったら
+毎回、一緒に探してくれるでしょ？","But even if you don't find it yourself,
+won't you'll still look for it with me every single time?"
+0000000000000,プロデューサー,"…………
+まぁ、そうだな","......
+Ah, I guess you're right."
+2023004030210,雛菜,"あは～！
+やっぱりそうだよね～","Ahaaa～!
+I thought so～"
+2023004030220,雛菜,雛菜の思ったとおり～！,Hinana was on the ball～!
+info,produce_events/202300403.json,
+Translator,@imasloid/kjkj#1446,
