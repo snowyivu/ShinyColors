@@ -1,9 +1,9 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,44
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,45
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,31
 images/ui/present_box/parts.json_image,present_box_parts.png,8
-images/ui/mission/parts.json_image,mission_parts.png,18
+images/ui/mission/parts.json_image,mission_parts.png,19
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,7
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,7
 images/content/my_page/banner_border/gasha.png,gasha.png,2
@@ -39,7 +39,7 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,3
 images/ui/training/parts.json_image,training_parts.png,9
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,7
 images/ui/common/parts_filter.json_image,common_filter.png,4
-images/ui/fes/parts.json_image,fes_parts.png,27
+images/ui/fes/parts.json_image,fes_parts.png,28
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,14
 images/ui/start/parts.json_image,start_parts.png,10
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,8
