@@ -803,8 +803,8 @@ I believed you could pull it off all along!"
 ダンス\n上手すぎ！,ダンス\n上手すぎ！
 ノってるねえ\nいい感じだよ,It draws you in... nice!
 ビジュアル\n良すぎる！,ビジュアル\n良すぎる！
-プロデューサーさん、シーズン１が終了しましたよ\n次のシーズンも一緒に頑張りましょう～,プロデューサーさん、シーズン１が終了しましたよ\n次のシーズンも一緒に頑張りましょう～
-プロデューサーさん、シーズン３が終了しましたよ\n最後のシーズンも応援していますからね～,プロデューサーさん、シーズン３が終了しましたよ\n最後のシーズンも応援していますからね～
+プロデューサーさん、シーズン１が終了しましたよ\n次のシーズンも一緒に頑張りましょう～,"Producer-san, season 1 has ended! Let's do our best in the next season together～"
+プロデューサーさん、シーズン３が終了しましたよ\n最後のシーズンも応援していますからね～,"Producer-san, season 3 has ended! I'll be cheering for you in the final season as well～"
 リズムがまるで\nとれてないわ,リズムがまるで\nとれてないわ
 リズムに\nのってきたわね,リズムに\nのってきたわね
 全く出来ていませんね\n今のままではステージに上げられません,全く出来ていませんね\n今のままではステージに上げられません
@@ -883,7 +883,7 @@ However, it's time to annouce who passed──"
 合格の子、素敵だったわよ\nアタシ、気にいっちゃった。どんどん活躍してってね,"Those who passed did an amazing job. I was
 delighted by your performances. Keep on soaring!"
 おめでとうございます。ランクアップです\nまたひとつ、夢に近づきましたね！,"Congratulations, you moved up a rank! You're
-one step to closer to reaching your dream!"
+one step closer to reaching your dream!"
 プロデューサーさん、シーズン終了です！\nその見事な手腕、来シーズンも見せてくださいね！,"Producer, the season is over!\r\nPlease continue to show your amazing skills next season!"
 それでは発表します\n今回の合格者は──,Time for the announcement.\r\nThose who passed are-
 合格者の方、おめでとうございます！\n本番まで、しばらくお待ちください,Congratulations victors!\r\nPlease look forward to the live.
@@ -976,7 +976,7 @@ why don't you try participating in Fes!"
 プロデューサーさん、\n甘奈のこと、\nちゃんと見ててよね！,"Producer, for my sake, watch her properly, okay?"
 挨拶は、プロデューサーさんに\n教えていただいた\n基本、ですから,"Greetings are something you taught me. They're the basics, after all."
 ……私にできることがあったら\nなんでも、言ってくださいね,"...If there is anything I can do to help, just let me know, alright?"
-いつか、プロデューサーさんに\n本当に頼ってもらえるように\nなりたいなって……,"Well, some day, I want to be someone who you can rely upon, Producer-san..."
+いつか、プロデューサーさんに\n本当に頼ってもらえるように\nなりたいなって……,"Well, someday, I want to be someone who you can really rely on, Producer-san..."
 ……綺麗な夕日\n見られてよかったです,……綺麗な夕日\n見られてよかったです
 あはは、\nワクワクしてきたっす！,あはは、\nワクワクしてきたっす！
 プロデューサーさん、この間\nすごい人見つけたんすよ！,プロデューサーさん、この間\nすごい人見つけたんすよ！
@@ -1190,7 +1190,7 @@ Fufu."
 みんなが応援してくれる……\nだから……楽しい……,Everyone is cheering out...\nThat's why... it's fun... 
 ファンのみなさまが待って\nいて、くださいますから……,ファンのみなさまが待って\nいて、くださいますから……
 プロデューサーさまのため\n精一杯、努力してまいります,"For Producer-sama,\nI will give the absolute best I can..."
-プロデューサーさまの、ご期待\nに、きっと、応えてみせます,Producer-sama's expectations-\nI will certainly live up to them...
+プロデューサーさまの、ご期待\nに、きっと、応えてみせます,Producer's expectations- I will certainly live up to them...
 甜花を見に来てる人に……\n笑顔を、プレゼント……,For those who came to see Tenka...\nThe present is a smile...
 この衣装なら、このネイルで\nキレーめに、だよね,この衣装なら、このネイルで\nキレーめに、だよね
 プロデューサー、\nなんか気が紛れる話、よろ～,プロデューサー、\nなんか気が紛れる話、よろ～
@@ -1390,9 +1390,7 @@ Anyway, let's do this."
 今日も頼りにしてるぜ\nプロデュ－サ－,"I'm counting on you, Producer."
 アタシなりの\nアイドルってやつを目指して\n今日も頑張るか,"Tryin' to be an idol in my own way
 so I'm gonna keep it up today too."
-ボ－っとして大丈夫か？\n最近忙しいもんな\n疲れてるなら言えよ？,"You're spacing out, you sure you're fine?
-It's been getting busy lately.
-If you're feeling tired, just say so, okay?"
+ボ－っとして大丈夫か？\n最近忙しいもんな\n疲れてるなら言えよ？,"You spacing out? It's been busy lately, if you're feeling tired, just say so, okay?"
 この間のライブ大成功だった\nな！　これもプロデューサー\nのお陰なんだぜ？,"That last show was a hit!
 I've got you to thank for that one too."
 最近ダンスのキレが\nいい感じなんだ,My dance moves are on point lately!
@@ -1608,7 +1606,7 @@ you're seriously going to get it!"
 もー、いいかげんにせんば\nいかんよ？\nプロデューサー,"Come on, will you cut that out already, Producer?"
 ……そげんのはやめんね,You shouldn't do that.
 プロデューサー……\n見損なったばい……,Producer... I'm disappointed in you...
-うちも、気にしとるけん\n触らんでよ……,I'm quite conscious about this. Don't touch them.
+うちも、気にしとるけん\n触らんでよ……,I'm quite conscious about this. Don't touch...
 なんかが掴めそうたい！,I feel like I can get my hands on something!
 プロデューサー\n私のことをやる気に\nしてくださぁい,"Producer, do something to motivate me."
 私、何でもフツーにできるんでー\nサボってもいいですかぁ？,"I can do any of this stuff fine already. So I can just slack off, right?"
@@ -2232,7 +2230,7 @@ I'm going to rest up, so I can work hard again."
 この間なっちゃんにおすすめしてもらった本、めちゃめちゃためになった！　ありがとう！,That book Nacchan\nrecommended earlier really\ncame in handy! Thanks!
 お礼を言いたいのは私もよ\n結華のおかげで素敵な一冊に出会えたわ！,"I'm grateful too. Thanks to\nYuika, I encountered a\nwonderful volume!"
 それではなーちゃん！\nてんちゃんの魅力を30字以内で\nどうぞ！　はい！,"Then, Naachan! Tenka's good\npoints in 10 words or less,\nplease! Go!"
-めーっちゃかわいくて癒し系で優しくて頼りになって──って30字じゃ足りないよ～！,"She's super～ cute and kind and\ntherapeutic and reliable--\nwait, ten words aren't enough!"
+めーっちゃかわいくて癒し系で優しくて頼りになって──って30字じゃ足りないよ～！,"She's su～per cute and kind and\ntherapeutic and reliable--\nwait, ten words aren't enough!"
 ててててーん\nてんちゃんのレベルが\n１上がった,Tadadadah! Tenka leveled up\nonce!
 て、甜花は……！\n三峰さんとの……\nおしゃべりを覚えた……！,"T-Tenka...!\nLearned ""chat with\nMitsumine""...!"
 大きくなったら\n千雪姉さんとはづきちさんの飲み会に\n混ざりたい件について,"When I get bigger, I'd like to go\ndrinking with Big Sis Chiyuki\nand Hazukichi-san."
