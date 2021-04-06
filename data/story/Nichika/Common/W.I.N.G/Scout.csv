@@ -1,0 +1,155 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（２８３プロダクションに入社して数か月……
+いよいよ俺が、アイドルをプロデュースする時が来た）",(A few months have passed since I started working here at 283 Production... Now the time has finally come for me to produce an idol myself.)
+0000000000000,プロデューサー,"（ずっと憧れていた仕事をようやく任されたんだ、
+これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for so long, so I want to do my very best!)"
+0000000000000,プロデューサー,"おはようございます！
+って、天井社長……？","Good morning!
+Ah! President Amai...?"
+1902001010010,社長,おはよう、お前を待っていたぞ,Good morning. I've been waiting for you.
+0000000000000,プロデューサー,"（この２８３プロダクションを束ねる
+天井社長……あいかわらずダンディな雰囲気だ）",(President Amai is the boss here at 283 Production... He comes off as a bit of a dandy.)
+1902001010020,社長,"お前には今日から、アイドルを
+プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today,
+you will begin producing an idol yourself..."
+1902001010030,社長,"素晴らしい結果を期待させてもらう
+私は甘くないぞ","I'm expecting some spectacular results.
+I am not a lenient man."
+0000000000000,プロデューサー,は、はい！　よろしくお願いします！,O-Of course! I will do all I can!
+1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,Excellent. I'll let Hazuki explain the rest...
+0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki? Actually... Woah!?
+0000000000000,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(Th-There's someone passed out behind the sofa!?)
+1901001010010,はづき,"……ふわぁ～？
+なんですか～急に大きな声出して～……","...Mhmhn?
+What's going on... Why's everyone being so loud?"
+1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki... Why were you sleeping on the floor?
+1901001010020,はづき,"すみません、ソファへ着く前に
+眠気に負けてしまいまして～……","My apologies, I was so sleepy,
+I couldn't make it to the sofa in time."
+1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know..."
+1902001010070,社長,"……ともかく！
+彼に仕事の説明をしてくれ","...Moving on! 
+I'd like you to give him the details of his new job."
+1901001010030,はづき,"はい、もちろんです
+プロデューサーさん、どうぞ～","Yes, absolutely.
+Producer, please take these documents!"
+0000000000000,プロデューサー,"ありがとうございます
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
+0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite reliable...)"
+1901001010040,はづき,"ありがとうございます
+それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
+Alright, allow me to explain..."
+1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,"To start, let's discuss your main goal..."
+1901001010060,はづき,"ワンダーアイドルノヴァ・グランプリ……
+通称『W.I.N.G.』への出場を目指してください","You will aim to have your idol participate in
+the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
+0000000000000,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""... You say?"
+1901001010070,はづき,"はい
+新人アイドルの祭典とも言われる、すごいライブなんです",That's right. It's a special live that celebrates the best newcomer idols.
+1901001010080,はづき,"祭典と言われるだけあって、この『W.I.N.G.』は
+出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the qualifications that must be met to participate are quite strict..."
+1901001010090,はづき,"エントリーしたアイドルは開催前まで、
+全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons, and the bar is raised each time."
+1901001010100,はづき,"その時、一定のランクに達していないと、
+出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
+1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
+私もたくさんサポートさせていただきますね～","That being said, let's try our very best!
+I will do everything I can to support you."
+1902001010080,社長,"……少しアドバイスをしておくが、
+お前は、２８３プロダクションのプロデューサーだ","...Here's a bit of advice.
+You are now a producer here at 283 Production. "
+1902001010090,社長,"担当アイドルと他のアイドルたちを
+交流させることも重要になってくる","It is of utmost importance to allow the idol
+you'll be producing to network with the other idols here."
+1902001010100,社長,互いに影響しあうことで目指せる高みもあるだろう,"With each other's influence our idols
+will be able to soar to even greater heights."
+1902001010110,社長,"まあ、まずは思うようにやってみるといい
+結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see fit. Whether good results follow depends on the effort of both you and the idol you produce. "
+1024001010230,はづき,"では、今日からよろしくお願いしますね
+プロデューサーさん","Well then, please treat me favorably from here on out, Producer-san."
+1024001010010,？？？,"……っ……はっ…………
+…………────────！","...h... hah...
+...────────！"
+0000000000000,プロデューサー,お、おーい……！,H-Hey...!
+1024001010020,？？？,"────────
+やっ……たぁ……………………！","────────
+I... did it...!!!"
+0000000000000,プロデューサー,"──おー……
+ウチの特集、すごく力入れてもらってるなぁ……",──Oh... our store display. A lot of effort was put in huh...
+0000000000000,プロデューサー,"……ショップがこれだけ気合い入れてくれてるんだ
+俺も頑張らないと────","...since the shop is putting their all into it, I've gotta do my best too────"
+1024001010030,フロアスタッフ,"────あのっ
+２８３さんですよね……！　お世話になっておりますっ","────Uhm, you're from 283, right...! Thanks for your support."
+0000000000000,プロデューサー,"────あぁ
+フロアの担当さんですね……！　お世話になってます","────Ahh, you're in charge of this floor...! Thanks for your support. "
+1024001010040,フロアスタッフ,"は、はい！　あの、マネージャーがお呼びするようにって
+……バックルームまで、お願いできますか？","Y-Yes! Uhm, the manager was asking for you... would you please head to the back room?"
+0000000000000,プロデューサー,"……えっ
+えっとマネージャーさんには、さっきご挨拶して────","...uh. Uhm, regarding the manager, I just spoke with them────"
+1024001010050,フロアスタッフ,"────お、お伝えし忘れたことがあるって…………
+あの、どうぞこちらです……！","────T-There was something they forgot to tell you... uhm, this way please...!"
+0000000000000,プロデューサー,"────っと、あの……
+バックルームってこっちでしたっけ","────hey, uh... the back room was over this way, wasn't it?"
+0000000000000,プロデューサー,"……？　あの……
+すみません────",...? Uhm... excuse me────
+1024001010060,フロアスタッフ,"────お願いします
+３分だけでいいので、お時間をください…………！",────Please! If I could please just ask for three minutes of your time...!
+1024001010070,フロアスタッフ,"嘘をついてごめんなさい……！
+私、アイドル志望で────","I'm sorry for lying...! My, dream is to become an idol────"
+1024001010080,フロアスタッフ,"歌とダンスを、見てほしいんです…………！
+お願いします────！",I want you to watch me sing and dance...! Please────!
+0000000000000,プロデューサー,"……えっ
+あの、君──────！","...eh, uhm, you──────!"
+0000000000000,プロデューサー,────それは、なんていうか,"────it was, well how do I put this..."
+0000000000000,プロデューサー,"見よう見まねで……
+自己流で、素人っぽくて……平凡で","She learned by watching others... self taught, a little amateurish... unremarkable."
+0000000000000,プロデューサー,"けれど、アイドルが好きなんだろうなぁという
+憧れと懸命さに溢れていて────",Yet it was oozing with the kind of tenacity and yearning that told me she must love idols────
+1024001010090,フロアスタッフ,"────ど、どうでしょう……！
+２８３さんに、所属できるでしょうか！",────W-What do you think...?! Do you think I can join 283!?
+0000000000000,プロデューサー,"────えっ……
+あぁ……いや、どうかな…………","────Eh... Ahh, er, how about..."
+1024001010100,フロアスタッフ,"お願いします！　どんなことだってやります！
+きっと平凡な高校生だなって思われたと思うんですけど──",Please! I'll do anything! I know you surely think I'm just an ordinary high school student butー
+0000000000000,プロデューサー,"────ちょっと……待って！
+落ち着いてくれ……！","────Hey, wait! Calm down...!"
+1024001010110,フロアスタッフ,────お、大声を出しますよ……！,────I-I'll shout...!
+0000000000000,プロデューサー,き、君っ……！　そんなこと──────,Y-You...! That's not what...
+0000000000000,プロデューサー,"ええと……
+そうやって脅したって……今言えることは変わらないよ",Uhm... even if you threaten me... It won't change what I'm about to say.
+0000000000000,プロデューサー,"ちゃんとテストしてみないと、なんとも言えない
+よかったら、きちんとした場所であらためて────","Without giving you a proper trial, I can't make a decision. So if you'd like, you can try again in a suitable location────"
+1024001010120,フロアスタッフ,"ほ、ほんとですか！
+じゃあ────",R-Really!? Then────
+0000000000000,プロデューサー,"あ、預かれるかどうかは、テスト次第だから……！
+────お名前と連絡先、聞かせてもらえるかな","W-Whether or not I'll take you on, depends on the test...!
+────Can you give me your name and address?"
+1024001010130,フロアスタッフ,"────っ
+な……名前は………………","────uh,
+M-my name......"
+1024001010140,ななみ,"八雲……ななみです……
+連絡は……この番号にください！",Nanami... Yakumo... to get in touch... please use this number!
+0000000000000,プロデューサー,"……えっ、八雲……さん？
+名札には『七草』って──────","...huh, Yakumo... san?
+Your nametag says ""Nanakusa""──────"
+1024001010150,ななみ？,"──────！
+え、えっと、これは……──────","──────！
+U-Uhm, that's──────"
+1024001010160,ななみ？,"…………は、反対されてるんです……っ
+お姉ちゃんには、秘密にしてください──────！","...S-She's completely against it... please keep it a secret, from my older sister──────!"
+0000000000000,プロデューサー,"なぜ、この子をプロデュースしようと思ったのか
+自分でもはっきりとはわからない","Why, did I decide to produce this kid? I'm still not entirely sure myself."
+1024001010170,にちか,"やっ……ほー…………！
+七草にちか、ごーうーかーくーーーー…………！","Ya-hooo...!!!
+Nichika Nanakusa, p-a-s-s-e-dーーーー!!!"
+0000000000000,プロデューサー,"……に、にちかさん、ご近所に聞こえるから……！
+それにまだ、ちゃんとした所属ってわけじゃ────","...N-Nichika-san, the whole neighborhood will hear you...! Besides, it's not actually official yet────"
+1024001010180,にちか,"取り消せませんよ……！
+お姉ちゃんにも取り消せないように、大声出してるんです！",There's no stopping it...! I'm yelling it out loud so that my older sister can't stop it!
+1024001010190,にちか,"私……２８３プロで…………
+研修しまーーーーーーーーーーーす……！",I'm... training... at 283 Productionーーー!!!
+0000000000000,プロデューサー,"思いきりがいいことの他には
+とにかく平凡な……女の子だった","Apart from her amazing determination, she was just... an ordinary girl."
+1024001010200,off,────あっ、やまびこだー……！,"────ah, it echoed-...!"
+info,produce_events/102400101.json,
+Translator,,
