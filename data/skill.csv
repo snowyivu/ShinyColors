@@ -181,6 +181,35 @@ Viレッスン,Vi Lesson,noun
 あさひ,Asahi,name
 冬優子,Fuyuko,name
 愛依,Mei,name
+透,Toru,name
+円香,Madoka,name
+小糸,Koito,name
+雛菜,Hinana,name
+にちか,Nichika,name
+櫻木 真乃,Mano,name
+風野 灯織,Hiori,name
+八宮 めぐる,Meguru,name
+月岡 恋鐘,Kogane,name
+白瀬 咲耶,Sakuya,name
+田中 摩美々,Mamimi,name
+三峰 結華,Yuika,name
+幽谷 霧子,Kiriko,name
+小宮 果穂,Kaho,name
+園田 智代子,Chiyoko,name
+西城 樹里,Juri,name
+杜野 凛世,Rinze,name
+有栖川 夏葉,Natsuha,name
+大崎 甘奈,Amana,name
+大崎 甜花,Tenka,name
+桑山 千雪,Chiyuki,name
+芹沢 あさひ,Asahi,name
+黛冬 優子,Fuyuko,name
+和泉 愛依,Mei,name
+浅倉 透,Toru,name
+樋口 円香,Madoka,name
+福丸 小糸,Koito,name
+市川 雛菜,Hinana,name
+七草 にちか,Nichika,name
 [条件:リラックスが付与されている場合],[Condition: Under effects of Relax] ,
 リアクション回避率$percentUP,Reaction Chance $1UP,
 ダメージを受けるまで,Until Damaged,
@@ -188,3 +217,5 @@ Viレッスン,Vi Lesson,noun
 必ず最初に,Always First,
 必ず最後に,Always Last,
 リザレクション効果$num％付与,$1% Chance to Resurrect,
+[条件:$nameがライブに参加している場合],[Condition: $1 in Unit],
+[条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position],
