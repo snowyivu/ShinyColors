@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,"────！　そうですか……！
+……やった、はい……はい…………！","──! I see...!
+... We did it, yes... Thank you...!"
+7024001010010,にちか,…………！,......!
+0000000000000,プロデューサー,"……こ、こら……！
+にちか、放してくれ────","... H-hey...!
+Nichika, let go──"
+0000000000000,プロデューサー,"────ええ、ありがとうございます！
+それではまた……はい、失礼いたします……！","──Oh, thank you so much!
+That's all then, so see you... Yes, if you'll excuse me...!"
+7024001010020,にちか,────────！,"──! "
+0000000000000,プロデューサー,"……ははっ、うん
+いけるぞ、次に……！",".... Haha, yeah.
+We're gonna go on to the next...!"
+7024001010030,にちか,"──────
+ほんとのことですよね……ほんとに、ほんとの…………","───It's really true, huh... Really, truly, it's..."
+0000000000000,プロデューサー,"そう。まずは一歩進んだんだ
+やったな","Yes. You've taken your first step. 
+You did it!"
+7024001010040,にちか,ほ、ほらぁ────,L-look──!
+7024001010050,にちか,ほら、いけるじゃないですか…………！,"Look, we're going, aren't we...!"
+0000000000000,プロデューサー,────,──
+0000000000000,プロデューサー,"────そうだぞ……！
+自信持って、この感じでやっていこうな","──It's true...!
+You should carry that feeling you have now with confidence."
+7024001010060,にちか,えっと、この感じ……ですか,"Hm, this feeling, it's...?"
+7024001010070,にちか,"えっと、私……
+これからめっっっちゃ頑張るので────","Um, for me...
+It's doing my aaaaabsolute best from now on──"
+7024001010080,にちか,"『この感じ』じゃ
+甘いんじゃないですかね、全然…………","But ""this feeling"", it's not *entirely* sweet, right...?"
+7024001010090,にちか,優勝するんだから…………,Because we still have to win...
+info,produce_events/702400101.json,
+Translator,alice,

@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"にちか、次にいけるぞ…………
+突破だ！","Nichika, we're moving on...
+We passed!"
+7024001070010,にちか,────────！,───!
+0000000000000,プロデューサー,"……
+俺は、こうなるって思ってたぞ？",... Didn't I think this would happen?
+7024001070020,にちか,"…………
+こうなるって、言ってました…………","......
+You did say it would happen..."
+0000000000000,プロデューサー,"そうだ
+……ラッキーでここまで来たんじゃない","Yeah.
+... You didn't get here by luck."
+0000000000000,プロデューサー,"こうなるべくして、なったってこと
+よく知ってるから","I felt it was bound to happen.
+I know you well."
+7024001070030,にちか,"……
+じゃ、じゃあ……次は………………？","... Then, then... the next...?"
+0000000000000,プロデューサー,次もいける,The next step.
+7024001070040,にちか,………………っ,......!
+0000000000000,プロデューサー,"結果がどうなるかはわからないよ……
+けど","I don't know what the outcome will be... But,"
+0000000000000,プロデューサー,"にちかがアイドルでありつづけるってことは
+わかってる",I know that Nichika will keep being an idol.
+7024001070050,にちか,"……
+ぷ、プロデューサーさん…………",... P-Producer-san...
+0000000000000,プロデューサー,"だから……笑ってくれ
+にちかのために……","So... Smile.
+For yourself..."
+0000000000000,プロデューサー,"俺のため……にちかを応援してくれる人たちのために
+笑って舞台に立ってくれ","For me... Smile, standing on that stage, for all the people who support you."
+info,produce_events/702400107.json,
+Translator,alice,
