@@ -1,0 +1,35 @@
+id,name,text,trans
+6024001040010,にちか,"──────
+──────────","────
+────"
+0000000000000,プロデューサー,"…………にちか
+返事はいい、何か羽織るものを持ってくるよ──────","... Nichika.
+It's okay to keep quiet. Let me get you a blanket or something like that."
+6024001040020,にちか,"──────
+──────────こわくて………………","──
+──I'm scared..."
+0000000000000,プロデューサー,…………,......
+6024001040030,にちか,"…………こわくて……こわくてこわくて…………
+こわくて…………──────","...... I'm scared... I'm scared, I'm scared....
+I'm scared...──"
+6024001040040,にちか,"────
+たまらないです…………────────","──
+It's unbearable...──"
+0000000000000,プロデューサー,…………うん,... Yeah.
+0000000000000,プロデューサー,"…………ごめんな
+──────もう、笑顔じゃなくたっていい","... I'm sorry.
+──But you don't have to smile anymore."
+0000000000000,プロデューサー,大丈夫だ、仏頂面してたって,It's okay to show them how you feel.
+0000000000000,プロデューサー,"にちかは、これまでにちかが作ってきたものだけで
+十分やれる────魅了できる",You can make do with everything you've done up until now──you can mesmerize them.
+6024001040050,にちか,"──────────
+──────","────
+────"
+6024001040060,にちか,"──────
+笑えとか………笑うなとか──────","────
+Smile... or don't smile..."
+6024001040070,にちか,"──────
+鏡見てきます…………","────
+I'll go look in the mirror..."
+info,produce_events/602400104.json,
+Translator,alice,

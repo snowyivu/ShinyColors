@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,"にちか、すごいぞ！　優勝だ……！
+────おい、にちか？　大丈夫か、顔色が────","Nichika, you're amazing! You won...!
+──Hey, Nichika? Are you okay, your face looks pale──"
+0000000000000,プロデューサー,"──────！　に、にちかっ…………！？
+にちか……！　どうしたんだ、にちか……………！","──! Nichika...!!!? Nichika...!
+What's wrong...!?"
+0000000000000,プロデューサー,"あの、すみません……！　どなたか救護の方…………！
+────恐らく緊張で……ええ、倒れてしまって！","Hey, excuse me! Can we please have first aid...!?
+I think it's nerves... Yeah, she's collapsed!"
+0000000000000,プロデューサー,"にちか、聞こえるかっ
+おい────","NIchika, can you hear me?
+Hey──"
+6024001060010,にちか,"──────……い…………
+プロ…………てま…………","──... Wh......
+Pro─......... was......."
+0000000000000,プロデューサー,"にちか、しっかり呼吸するんだ……！
+吸って、吐く…………落ち着いて、しっかり──────","Nichika, focus on breathing...!
+Deep breaths... inhale, exhale──"
+6024001060020,にちか,"………………
+…………どんな…………かお………………",".........Wh──
+.....What sort...... of face....... was I......"
+0000000000000,プロデューサー,"────無理にしゃべらなくていい
+息をするんだ…………！","──It's okay, don't force yourself to talk.
+Breathe for me...!"
+6024001060030,にちか,"………………どんな……かお…………わたし………………
+…………わらえて…………………………","...... What sort...... of face......
+Was I...... smiling......?"
+0000000000000,プロデューサー,"………………っ
+どんな顔って………………苦しそうだよ………………！","......!
+What kind of face...? You seemed in pain...!"
+0000000000000,プロデューサー,──────けど、笑えてる………………！,──But you were smiling...!
+6024001060040,にちか,……………………,......
+0000000000000,プロデューサー,"大丈夫だ。しっかり吸って、吐いて、落ち着くんだ……
+これでもう……思いきり笑えるんだから──────","It's okay. Just focus on breathing now; inhale, exhale, and calm yourself...
+You can smile all you want, from now on──"
+info,produce_events/602400106.json,
+Translator,alice,
