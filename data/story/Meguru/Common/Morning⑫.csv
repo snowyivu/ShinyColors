@@ -1,0 +1,22 @@
+id,name,text,trans
+1003001001210010,めぐる,"今度、事務所のみんなでスポーツセンターに
+行こうって約束したんだー！","This time, everyone in the office promised to go to the sports centerー!"
+1003001001210020,めぐる,ねえねえ！　プロデューサーはどんなスポーツが好き？,"Hey, hey! What kind of sport do you like Producer?"
+0000000000000,プロデューサー,好きなスポーツか。そうだなぁ……,What kind of sports do I like? Let's see...
+select,,バレーボール,Volleyball.
+select,,バドミントン,Badminton.
+select,,eスポーツ,eSports.
+1003001001210030,めぐる,わー！　わたしもバレーボールが大好きなんだー！,Wahhー! I love volleyball tooー!
+1003001001210040,めぐる,"プロデューサーと試合するのも面白そう！
+えへへ！　今度、勝負しようね！",It would be interesting to play a match against you! Ehehe! Let's have a match next this time!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001001210050,めぐる,思いっきりスマッシュとか、気持ちいいよねー！,Smashing the ball as much as you want feels great doesn't itー!
+1003001001210060,めぐる,"ラケットとか持ってきたら、
+みんなで空き時間にできないかな！？","If you brought a racket or something, I wonder if everyone could do it in their free time!?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001001210070,めぐる,"eスポーツ？　ごめんね、知らないや
+なんだか難しそうだね……","eSports? Sorry, I don't know but they seem kind of difficult..."
+1003001001210080,めぐる,どんなスポーツなのか、今度教えてほしいな,Maybe next time you could teach me what kind of sports they are?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100121.json,
+Translator,Batsu,

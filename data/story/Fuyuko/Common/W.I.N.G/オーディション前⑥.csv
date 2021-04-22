@@ -1,0 +1,19 @@
+id,name,text,trans
+4018001000230010,冬優子,"どうしちゃったの、ふゆ……
+本番前に緊張するなんて、情けないわね、ほんと……","What happened, Fuyu... it's pathetic to be nervous before a performance, honestly..."
+0000000000000,プロデューサー,（少し身体が震えているな……）,(Seems she's shaking a little...)
+select,,冬優子らしくないぞ,That's not like you.
+select,,リラックスしよう,Relax.
+select,,そんな時もある,"There are times
+like this."
+4018001000230020,冬優子,"確かに、そうね。こんなのふゆらしくない
+もっとふゆらしく、ステージやってやろうじゃない！","Certainly, you're right. This isn't like Fuyu. I'll be more like Fuyu, and take on the stage!"
+0000000000000,プロデューサー,（緊張を吹っ飛ばしたみたいだな！）,(Looks like her nervousness blew away!)
+4018001000230030,冬優子,"わかってるわよ。リラックス……リラックス……
+……ふう……ちょっとは、落ち着いてきた、かな……",I understand that. Relax... relax... fuu... I might have calmed down a little...
+0000000000000,プロデューサー,（落ち着きを取り戻したみたいだ）,(Seems she regained some composure.)
+4018001000230040,冬優子,"フォローになってないわよ……
+ふゆは今すぐいつも通りにならないといけないのに……",I'm not following your logic... because Fuyu has to be her usual self right now...
+0000000000000,プロデューサー,（余計焦らせてしまったみたいだ……）,(Seems like she's too anxious...)
+info,produce_communication_cheers/401800100023.json,
+Translator,Batsu,

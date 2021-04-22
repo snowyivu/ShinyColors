@@ -1,0 +1,27 @@
+id,name,text,trans
+1003001001110010,めぐる,おはよっ、プロデューサー！,"Morning, Producer!"
+0000000000000,プロデューサー,おっ、いつにも増して元気そうだな！,"Oh, you seem more energetic than usual!"
+1003001001110020,めぐる,"うん！　今度バスケの試合で助っ人を頼まれたんだ！
+だからね、応援に来てくれたら嬉しいな！",Mhm! I was asked to help out in a basketball game! So I'd be happy if you came to support me!
+0000000000000,プロデューサー,（めぐるは、部活の応援に来てほしいみたいだ）,(Seems Meguru really wants me to support her club activities.)
+select,,"真乃や灯織も
+誘って行こう","I'll invite Mano
+and Hiori too."
+select,,"今度の仕事が
+上手くいったらな","As long as you do
+your next job well."
+select,,予定がなければ行くよ,"I'll come if I'm
+not booked."
+1003001001110030,めぐる,本当に！？　やったー！,Really!? Hurray-!
+1003001001110040,めぐる,"うーんっ、今から気合が入ってきちゃった！
+絶対、みんなも楽しめる試合にするからね！","Mhmm, I'm getting pumped now! I'll definitely make it a match that everyone can enjoy!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001001110050,めぐる,わーい！　約束だよ、プロデューサー！,"Waaah! It's a promise then, Producer!"
+1003001001110060,めぐる,"よーし！　どんな仕事が来ても
+成功させちゃうよー！",Alright! I'll succeed no matter what work's thrown my way next!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001001110070,めぐる,でも、プロデューサーっていつも忙しいよね……,"But, you're always busy Producer..."
+1003001001110080,めぐる,あんまり無理はしなくてもいいよ！,It's good not to overwork yourself!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100111.json,
+Translator,Batsu,

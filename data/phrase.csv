@@ -926,7 +926,7 @@ spine.cbCostume,ちびキャラ(ライブ),Chibi Character(Live)
 spine.cbSub,ちびサブキャラ,Chibi Sub Character
 spine.stand,等身キャラ,Live Character
 spine.standSub,等身サブキャラ,Live Sub Character
-titleSelect.result.message,称号を設定しました,Set Title
+titleSelect.result.message,称号を設定しました,Title changed
 supportIdol.remaining,あと %{remaining},%{remaining} left
 training.gainExpLabel,獲得Exp,Get XP
 training.skillListTitle,習得するサポートスキル,Learn Support Skill

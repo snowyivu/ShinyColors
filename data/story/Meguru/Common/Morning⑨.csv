@@ -1,0 +1,29 @@
+id,name,text,trans
+1003001000910010,めぐる,"昨日、真乃と灯織とダンスの練習をしたんだけど、
+人に教えるのって難しいなぁって思ったんだ","Yesterday, I practiced dancing with Mano and Hiori, but I thought it was pretty hard to teach other people."
+1003001000910020,めぐる,"ねぇプロデューサー、
+どうやったらうまく伝えられるのかなぁ？","Hey Producer, what should I do to better teach others?"
+0000000000000,プロデューサー,そうだなぁ……,I see...
+select,,相手の気持ちを考える,"Think of their
+feelings."
+select,,手取り足取り教える,"Teach them everything
+from A to Z."
+select,,細かく説明する,"Use a precise
+explanation."
+1003001000910030,めぐる,"そっか！
+教える時もその人の気持ちになればいいんだね！",Aha! I need to think about that person's feelings when I'm teaching them!
+1003001000910040,めぐる,"真乃と灯織のことなら良くわかるし、
+次はちゃんとできるかも！","Since I know Mano and Hiori well, I should be able to do great next time!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001000910050,めぐる,言葉だけじゃ伝わらないこともあるよね……,Sometimes words alone don't show you...
+1003001000910060,めぐる,"次のレッスンで試してみるよ！
+ふたりともっと仲良くなれるかもだし！",I'll practice with them next lesson! Then I'll grow even closer to the two of them!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001000910070,めぐる,"細かく、説明……
+えーっと……","A precise... explanation...
+Uhmmm..."
+1003001000910080,めぐる,"バーって動いて、チャチャッとやる感じ！
+……じゃ、ダメ？","Move with a Bahh, then like a Chacha feeling...! Eh, no good?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100091.json,
+Translator,Batsu,

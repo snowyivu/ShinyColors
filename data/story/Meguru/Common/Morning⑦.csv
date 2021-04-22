@@ -1,0 +1,32 @@
+id,name,text,trans
+1003001000710010,めぐる,おはよー！　プロデューサー！,Morning-! Producer!
+0000000000000,プロデューサー,おっ、今日も元気だな！,"Ah, you're lively again today!"
+1003001000710020,めぐる,"うん！　わたし今、元気いっぱいだから
+いろんなお仕事、取ってきてほしいな……！",Yeah! I'm full of energy today so I want you to give me lots of work...!
+0000000000000,プロデューサー,（すごいやる気だな……！）,(What amazing determination...!)
+select,,"過酷な海外ロケ
+とかはどうだ？","How about a
+harsh, overseas
+shoot?"
+select,,"持ち味を活かして
+バラエティ！","Let's do a variety
+taking advantage
+of your uniqueness!"
+select,,まずは今の仕事に集中だ,"Let's focus on our
+current work first."
+1003001000710030,めぐる,海外ロケかー！　なんだか面白そうだね！,An overseas location-! That seems interesting!
+1003001000710040,めぐる,"過酷なってことは色々動き回るのかな……
+今から楽しみになってきちゃった！",Moving around in harsh places... I'll be looking forward to it!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001000710050,めぐる,"いろんな人と話ができるなんて
+すっごい楽しそう！",Talking to different people sounds like fun!
+1003001000710060,めぐる,"それに、友達もいっぱいできそうだよね！
+ワクワクするなぁ",And I can probably make lots of friends! I'm getting excited...
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001000710070,めぐる,"そっか、今のお仕事もたしかに大事だよね……
+ちょっと焦っちゃってたかも","Right, our current works is really important... I might have been a little impatient..."
+1003001000710080,めぐる,"でも、別のお仕事もしてみたいのは本当だから、
+また今度考えてみてね","But, I really do want to do more work, so please keep thinking about it."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100071.json,
+Translator,Batsu,

@@ -1,0 +1,22 @@
+id,name,text,trans
+1003001000810010,めぐる,"ねえねえ。プロデューサー！
+好きな食べ物ってある？","Hey, hey, Producer! Do you have a favorite food?"
+0000000000000,プロデューサー,急にどうしたんだ？,Why are you suddenly asking?
+1003001000810020,めぐる,えへへ、ちょっと気になったの！,"Ehehe, I was a little curious!"
+0000000000000,プロデューサー,そうだなぁ……,I see...
+select,,アイス,Ice cream.
+select,,オムライス,Rice Omelettes.
+select,,納豆,Natto.
+1003001000810030,めぐる,"冷たくて、甘くて……おいしいよね！
+わたしも大好きだよー！",It's cold and sweet... so tasty! That's also my favorite-!
+1003001000810040,めぐる,お仕事が早めに終わったら、食べに行きたいね！,"If work ends a little early, we should go eat some!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001000810050,めぐる,プロデューサーがオムライス好きなのは、意外かも！,"Producer loves rice omelettes, that's surprising!"
+1003001000810060,めぐる,えへへ、なんだか可愛く見えちゃうな！,"Ehehe, that's cute to imagine!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001000810070,めぐる,好き嫌いが分かれる食べ物だよね……,Something people either like or hate huh...
+1003001000810080,めぐる,"わたしの友達は、苦手だって言ってた
+ネバネバしてるのがダメなんだって……",My friend said it wasn't for them. It's just too sticky and slimy...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100081.json,
+Translator,Batsu,

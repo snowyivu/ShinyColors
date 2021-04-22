@@ -1,0 +1,24 @@
+id,name,text,trans
+4003001000210010,めぐる,"前に出すぎないように気をつけて、音を聴いて……
+あっ、マイクももっとしっかり持たなくちゃ！","Take care not to move too far forward, listen for the sound... ah, I gotta hold the mike firmer!"
+0000000000000,プロデューサー,（色々なことを気にしすぎているな……）,(She's concerned about too many things...)
+select,,"ひとつのことに
+集中しよう！","Focus on just
+one thing!"
+select,,楽しむことを忘れるな！,"Don't forget to
+have fun!"
+select,,笑顔を忘れてるぞ！,"Don't forget
+to smile!"
+4003001000210020,めぐる,"そっか、たくさんのこと考えすぎちゃったらダメだよね！
+……でも、ひとつって……どれにすればいいの……？","I see, it's not gonna work if I'm thinking about too many things...! But, one thing... which one would be good...?"
+0000000000000,プロデューサー,（結局、何に集中するか、迷ってしまったようだ……）,"(In the end, she got lost on what she should focus on...)"
+4003001000210030,めぐる,"確かに！　そうだよね！
+マイク持つの楽しいなー！",For sure! You're right! It's fun to hold the micー!
+0000000000000,プロデューサー,"（そうじゃないんだが……
+調子を取り戻したみたいだし黙っておこう）",(That's not really... well I'll stay quiet since it seems she's regained her composure.)
+4003001000210040,めぐる,"……あっ、そうだよね！　楽しまなくちゃ、だよね！
+えへへ、ありがとうプロデューサー！","...ah, that's right! You have to have fun! Ehehe, thanks Producer!"
+0000000000000,プロデューサー,"（めぐるは元気にステージに向かった
+楽しむ気持ちを思い出せたみたいだ）",(Meguru went to the stage energetically. It seems like she remembered that fun feeling.)
+info,produce_communication_cheers/400300100021.json,
+Translator,Batsu,

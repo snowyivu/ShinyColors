@@ -1,0 +1,30 @@
+id,name,text,trans
+1003001000610010,めぐる,"おっはよー！　あっ、プロデューサー、ちょっといい？
+相談があるんだけど……","Morning-! Ah, Producer, got a sec? I wanted to ask you something..."
+0000000000000,プロデューサー,どうしたんだ？,What's the matter?
+1003001000610020,めぐる,"あのね！　夜起きていたくても、すぐ眠くなっちゃうんだ
+どうしたらいいかな？","Well, uhm! Even if I try to stay up at night, I get sleepy right away. What should I do?"
+0000000000000,プロデューサー,（めぐるは悩んでいるみたいだ）,(Meguru seems troubled.)
+select,,"早寝早起きが
+めぐるらしい","Meguru's an early
+to bed, early to rise
+type."
+select,,コーヒーを飲むといい,Drink coffee.
+select,,"夜更かしは
+しないほうがいいぞ","It's not good to
+stay up late."
+1003001000610030,めぐる,"わたしらしさって早寝早起きなの！？
+……でもプロデューサーが言うなら、そうなんだよね！","You think I'm an early to bed, early to rise type...!? If Producer says so it must be true!"
+1003001000610040,めぐる,"じゃあこのままでもいいかも！
+ありがとう、プロデューサー！","Well then I guess that's how it is! Thanks, Producer!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001000610050,めぐる,"プロデューサーもよく飲んでるもんね！
+……ちょっと苦いけど","Producer drinks it often too, right...! It's a little bitter though."
+1003001000610060,めぐる,今度試してみようかな……わたしでも飲めると思う？,Wonder if I should try it next time... think I can drink it?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001000610070,めぐる,それはそうなんだけど……,I know that but...
+1003001000610080,めぐる,"でも、夜に見たいテレビがあったり、
+宿題が終わらなかったりすることもあるんだよ","There's a TV show I want to watch at night, and sometimes I haven't finished my homework yet."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100061.json,
+Translator,Batsu,

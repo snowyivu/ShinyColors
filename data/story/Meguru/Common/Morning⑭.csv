@@ -1,0 +1,24 @@
+id,name,text,trans
+1003001001410010,めぐる,"プロデューサー聞いてー！
+今日はね、真乃と灯織と遊びに行くんだ！","Listen to this Producer! Today, Mano and Hiori and I are going to go play!"
+1003001001410020,めぐる,"でも、どこへ行くかまだ決めてないんだよねー
+プロデューサーは、おすすめの場所ってあるかな？","But, we still haven't decided on where we're going. Producer, do you have any recommendations?"
+0000000000000,プロデューサー,おすすめの場所か……,Recommended places...?
+select,,カラオケ！,Karaoke!
+select,,めぐるの家！,Your house!
+select,,事務所！,The office!
+1003001001410030,めぐる,"それ素敵だよ！
+真乃と灯織のお仕事以外の歌、聞いてみたい！",That's a great idea! I want to hear Mano and Hiori singing songs outside of work!
+1003001001410040,めぐる,"何歌うのかなー
+あっ、わたしたちの歌を歌ってもいいよね！","I wonder what kind of songs- Ah, it'd even be fun to sing our songs!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001001410050,めぐる,"わぁ！　わたしの家に真乃と灯織が来るなんて、楽しそう！
+二人が来るなら、おもてなししなくっちゃ！","Wahh! It sounds fun to have Mano and Hiori come to my house! If there's two of them, I'll have to treat them!"
+1003001001410060,めぐる,"えーっと、お菓子でしょージュースでしょー……
+あとは何がいるかな！？",Uhmmm... candy... and juice... what else is there!?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001001410070,めぐる,事務所で話をするのって楽しいんだよね！,It's fun to chat in the office isn't it!
+1003001001410080,めぐる,……あれ、でもそれっていつもと変わらない……？,"...huh, but isn't that what we always do...?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100141.json,
+Translator,Batsu,

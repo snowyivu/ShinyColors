@@ -1,0 +1,28 @@
+id,name,text,trans
+1003001001310010,めぐる,ねえ、プロデューサー。何か困ってることとかない？,"Hey, Producer. Is something bothering you?"
+0000000000000,プロデューサー,なんでだ？,Why's that?
+1003001001310020,めぐる,"プロデューサーにはいつもお世話になってるし、
+たまには恩返しをしないとって思ったんだ！","Producer's always helping me out, so I thought sometime I could return the favor!"
+0000000000000,プロデューサー,"（めぐるの恩返し、か。
+気持ちは嬉しいが、そうだなぁ……）","(Meguru's reciprocation? I'm happy, ah right...)"
+select,,"お礼を言うのは
+俺のほうだよ","I'm the one who should
+be thanking you."
+select,,サプライズで頼む,I'd like a surprise.
+select,,出世返しでいいよ,"Your success is
+thanks enough."
+1003001001310030,めぐる,"えー、プロデューサーがお礼しちゃうの！？
+お世話になってるのはわたしの方なのに！？","Eh, Producer wanted to thank me?! Because you're the one who owes me?!"
+1003001001310040,めぐる,"……えへへ！　でも、嬉しいな！
+それじゃあわたしは、これからもアイドル、頑張るね！","...ehehe! But, I'm happy! Well then, I'll continue to do my best as an idol!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1003001001310050,めぐる,"サプライズってわかってたら、
+サプライズにならないよー！","If you know about the surprise, then it won't be a surprise!"
+1003001001310060,めぐる,"……あっ、そっか！
+それでも驚いちゃうような恩返しを考えればいいんだね？","...ah, I see! You'd like me to think about a surprising way to repay you, right?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1003001001310070,めぐる,えー！　わたしは今すぐお礼がしたいのにー！,Eh-! But I wanted to thank you right now-!
+1003001001310080,めぐる,プロデューサーがそれでいいなら、いいけど……,"If you say so it's fine, but..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/100300100131.json,
+Translator,Batsu,

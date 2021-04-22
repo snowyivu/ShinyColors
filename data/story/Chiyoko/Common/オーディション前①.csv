@@ -1,0 +1,21 @@
+id,name,text,trans
+4010001000110010,智代子,"どうしよう……！　みんな可愛いし、オーラあるし、
+個性がまぶしい……！","What should I do...! Everyone's so cute, with aura, and radiant personalities...!"
+0000000000000,プロデューサー,（弱気になっているな……元気づけないと）,(She's trembling... I need to cheer her up.)
+select,,チョコを渡す,Give her chocolate.
+select,,"智代子も充分
+個性がある","Chiyoko's also got
+enough personality."
+select,,そのままでいい,"You're fine
+as you are."
+4010001000110020,智代子,"これは……！　私らしく頑張れってことですよね……！
+チョコアイドル園田智代子、いつも通り行ってきます！","This is...! I should do my best as me...! Chocolate Idol Chiyoko Sonoda, heading out as usual!"
+0000000000000,プロデューサー,（よし、ネガティブな気持ちは消えたな）,"(Alright, her negative thoughts seemed to have vanished.)"
+4010001000110030,智代子,"そうですよね……！　私の個性、発揮してこなきゃ
+だって、プロデューサーさんと一緒に考えてきたんですから","Oh yeah...! I have to show off my own personality. After all, that's what you and I have been thinking about."
+0000000000000,プロデューサー,（元気づけられたみたいだ）,(Looks like she cheered up.)
+4010001000110040,智代子,"そ、そのままで……？
+わかりました……ちょっと怖いですけど、頑張ります","A-As I am...? I understand, but... it's a little scary, I'll do my best."
+0000000000000,プロデューサー,（少しは前向きになってくれた……のか……？）,(That was a little constructive... right...?)
+info,produce_communication_cheers/401000100011.json,
+Translator,Batsu,
