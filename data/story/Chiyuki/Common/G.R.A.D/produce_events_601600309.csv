@@ -3,7 +3,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"お疲れ様
 ──よく頑張った","Good job.
 ──You did your best."
-6016003090020,千雪,プロデューサーさん……,Producer...
+6016003090020,千雪,プロデューサーさん……,Producer-san...
 6016003090030,千雪,────はい…………,──Yeah...
 6016003090040,千雪,…………,......
 0000000000000,プロデューサー,"…………
@@ -21,6 +21,6 @@ It might be weird of me to say this, but"
 6016003090090,千雪,"──
 全部の自分が胸を張れるような────","──
 I feel like I can be proud of every part of myself."
-6016003090100,千雪,そんなステージ,It was that kind of stage.
+6016003090100,千雪,そんなステージ,It was that kind of performance.
 info,produce_events/601600309.json,
 Translator,cloverbunz,

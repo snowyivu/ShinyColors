@@ -1,0 +1,24 @@
+id,name,text,trans
+4005001000220010,摩美々,テキトーに、ぱぱっと済ませてきちゃいますねー,I'm gonna coast and get this done quicklyー
+0000000000000,プロデューサー,（いつもの調子だが……なんて声をかけよう？）,(Her usual attitude... what should I say?)
+select,,"摩美々はそれで
+後悔しないんだな？","Won't you regret
+that, Mamimi?"
+select,,真剣に挑むべきだ,"You should take
+it seriously."
+select,,"摩美々がいいなら、
+そうすればいい","If you're fine,
+it'll be fine."
+4005001000220020,摩美々,"……それは……確かに言葉の綾にしても、
+もう少し言い方がありましたねー……","...that's... I didn't quite use the right expression, there's a better way to say itー..."
+0000000000000,プロデューサー,"（言いたいことはちゃんと伝わったようだ
+応援しているぞ、摩美々！）","(It seems she understood what I was trying to say. I'm rooting for you, Mamimi!)"
+4005001000220030,摩美々,"……まぁ、少しは頑張ってきますよー
+そういう気持ちもわかりますしー","...well, I'll do a little bit of hard workー I understand that attitude as wellー"
+0000000000000,プロデューサー,（ちょっとは気を引き締めることができたかな……？）,(I wonder if I was able to focus her mind a little...?)
+4005001000220040,摩美々,"……はぁい
+それじゃー、私の好きにしますねー",...fiiine. Well then... guess I'll enjoy itー
+0000000000000,プロデューサー,"（怒ったつもりだったが……
+上手く伝えることができなかったな……）",(She thought I was angry... I wasn't able to properly express myself...)
+info,produce_communication_cheers/400500100022.json,
+Translator,,

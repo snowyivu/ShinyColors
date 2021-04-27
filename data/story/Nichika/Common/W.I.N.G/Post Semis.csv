@@ -1,0 +1,21 @@
+id,name,text,trans
+6024001030010,にちか,────────,......
+0000000000000,プロデューサー,"……にちか
+大丈夫か","... Nichika.
+Are you okay?"
+6024001030020,にちか,"────────
+これって……続くってことですか…………？","...... Does this mean...
+We can keep going...?"
+0000000000000,プロデューサー,"……そうだよ
+続けられる、まだまだ","That's right.
+We'll keep going, further and further."
+6024001030030,にちか,────うそ……,──You're kidding...
+0000000000000,プロデューサー,"ほんとだ
+……喜んでいいんだ","It's true.
+... It's okay to to be happy."
+6024001030040,にちか,"────────
+わかんなくて……なんか、もう────","......
+I don't even know...  I just... don't──"
+6024001030050,にちか,嬉しいか、どうか──────,"Am I happy, or not──"
+info,produce_events/602400103.json,
+Translator,alice,

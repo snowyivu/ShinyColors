@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,咲耶、ユニットのみんなとは楽しくやれているか？,"Sakuya, are you having fun with everyone in your unit?"
+1006001000410010,咲耶,"ああ、誰かと一緒にいることは元々好きだけど、
+ユニットのみんなといるのは、特別楽しいね","Yeah, I enjoy being together with people normally, but I especially enjoy being with everyone in the unit."
+1006001000410020,咲耶,"レッスンや仕事だけでなく、
+プライベートでも一緒にいることが増えてきたよ","Not just in lessons and work, the amount of personal time we spend together is increasing as well."
+0000000000000,プロデューサー,（ユニットの仲がいいのは良いことだな……）,(It's good that the unit is on close terms...)
+select,,"俺もみんなと一緒に
+遊びたくなるな","I also want to
+spend time with
+everyone."
+select,,"楽しさを
+ファンにも届けよう","Let's bring that
+fun to your fans."
+select,,疲れ知らずだろうな,You're inexhaustible.
+1006001000410030,咲耶,"プロデューサーも一緒にか……うん
+みんなとの絆も深くなっていいかもしれないね",With Producer... mhm. It might be good to deepen your bond with everyone.
+1006001000410040,咲耶,"今度みんなで集まる時は、
+プロデューサーにも声をかけるよ","Next time everyone is together, I'll call out to you."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001000410050,咲耶,"もちろん伝えてみせるさ
+それが私の使命だからね","Of course I'll convey it, that's my mission after all."
+1006001000410060,咲耶,プロデューサーにはもう、届いているかい？,"Has it already reached you, Producer?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001000410070,咲耶,"確かに私はあまり疲れないが、
+ほかのみんなはどうだろうね？","I'm certainly not too tired, but what about everyone else?"
+1006001000410080,咲耶,"あまりはしゃぎすぎるのも、良くなかったかな
+今度からもっとみんなを気遣うよ",Perhaps it's not good if we frolic about too much. I'll be sure to worry about everyone else next time.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100041.json,
+Translator,,

@@ -4,8 +4,8 @@ id,name,text,trans
 Phew... Haa...──"
 0000000000000,プロデューサー,よし、ちゆ────,"Alright, Chiyu──"
 6016003070020,千雪,"プロデューサーさん
-私、決めました。今度のトークイベントの内容────","Producer.
-I've decided. The topic for the upcoming talk show──"
+私、決めました。今度のトークイベントの内容────","Producer-san.
+I've decided. The topic for the upcoming panel──"
 0000000000000,プロデューサー,"──お、おう……！
 その話、今か……！？","──O-Oh...!
 You want to talk about it right now...!?"
@@ -16,7 +16,7 @@ I'd like you to hear it now if you don't mind."
 6016003070050,千雪,って、どうでしょう……！,How's that...!
 0000000000000,プロデューサー,……千雪,...Chiyuki.
 6016003070060,千雪,"プロデューサーさん
-いつもいつも、助けていただいてありがとうございます……","Producer.
+いつもいつも、助けていただいてありがとうございます……","Producer-san.
 Thank you for all your support time and time again..."
 6016003070070,千雪,"少なくとも、千雪が千雪を見失ったりしないように
 頑張ってきますから……！","At the very least, I'll do my best to make sure that this 
@@ -24,6 +24,6 @@ Chiyuki doesn't lose sight of herself...!"
 0000000000000,プロデューサー,"……ははっ
 うん……！","...Haha.
 Alright...!"
-0000000000000,プロデューサー,応援してるぞ、桑山千雪────,"I'm rooting for you, Kuwayama Chiyuki──"
+0000000000000,プロデューサー,応援してるぞ、桑山千雪────,"I'm rooting for you, Chiyuki Kuwayama──"
 info,produce_events/601600307.json,
 Translator,cloverbunz,

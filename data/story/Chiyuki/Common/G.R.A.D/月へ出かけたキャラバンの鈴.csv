@@ -4,10 +4,10 @@ id,name,text,trans
 lesson..."
 1016003030030,千雪,"うん、コラムの原稿送って……
 トークイベントで話すこともまとめなきゃ……","Hmm, I have to send a draft of the column and... 
-summarise what to discuss at the talk event..."
-1016003030040,千雪,あ、その前に布地も見てきたいな────！,"Ah, but first I want to check out some fabrics──!"
+summarise what to discuss at the panel..."
+1016003030040,千雪,あ、その前に布地も見てきたいな────！,"Ah, but first I want to check out some fabric──!"
 1016003030050,千雪,"──23時までには帰って、歌詞の暗記
-明日の撮影の本読み、インタビューのゲラのチェックと──","──Be back home by 2300 hours, memorise the lyrics. 
+明日の撮影の本読み、インタビューのゲラのチェックと──","──Be back home by 11pm, memorise the lyrics. 
 Read the book for tomorrow's shoot, check the 
 transcripts for the interview, and──"
 1016003030060,千雪,"──ふふっ
@@ -18,12 +18,12 @@ transcripts for the interview, and──"
 column"""
 0000000000000,プロデューサー,おおー、３日巻いてるなぁ！,"Ohh, it's wrapped up within three days."
 0000000000000,プロデューサー,"『助かるよ　編集部には今日中に送っておくから
-よろしく』──","""Thanks. I'll send it to the editorial department by the 
-end of today""──"
+よろしく』──","""Thanks. I'll send it to the editorial department by 
+the end of today""──"
 0000000000000,プロデューサー,"──と、あと映画ガイドの帯文依頼もそろそろ〆切か
-映画とかホビー系の仕事も増えたよなぁ","──Also, it's almost the deadline of the obi request, 
-and the number of movie and hobby-related work has 
-increased."
+映画とかホビー系の仕事も増えたよなぁ","──Also, it's almost the deadline of the movie 
+guide's obi request, and the number of movie and 
+hobby-related work has increased."
 0000000000000,プロデューサー,"……って、ははっ
 帯文も来た","...Wait, haha. 
 The obi has also arrived."
@@ -64,21 +64,21 @@ And then, um... specify the delivery service..."
 ……商品名────","......
 ...Name of product──"
 0000000000000,ラジオ番組の構成作家,"じゃあ千雪ちゃん、
-落札者の方へのノベルティとして、サインもらえるかな","In that case, Chiyuki, 
-will the winning bidder get your autograph as a novelty?"
+落札者の方へのノベルティとして、サインもらえるかな","In that case, Chiyuki, will the winning bidder get your 
+autograph as a novelty?"
 1016003030170,千雪,"あ、はい……！
 ────えーと……","Ah, yes...! ──Umm..."
 0000000000000,ラジオ番組の構成作家,"ほんと盛り上がってよかったよね～
-ありがと、千雪ちゃん","I'm glad you're so excited about it~ 
+ありがと、千雪ちゃん","I'm glad you're so excited about it～
 Thank you, Chiyuki."
 1016003030180,千雪,"ふふっ
 もう。『10円にもならない』なんて言ってたのに……！","Fufu. 
 Jeez. Wasn't someone saying ""It's not even worth 10 
 yen"" before...!"
 0000000000000,ラジオ番組の構成作家,"あはは、嘘だよ許してよ～
-さすが『桑山千雪の手作り巾着』～！","Ahaha, forgive me for that joke~ 
-It's ""Kuwayama Chiyuki's Handmade Drawstring Bag"" 
-after all~!"
+さすが『桑山千雪の手作り巾着』～！","Ahaha, forgive me for that joke～
+It's ""Chiyuki Kuwayama's Handmade Drawstring Bag"" 
+after all～!"
 1016003030190,千雪,"……
 私は────","......
 I──"
@@ -89,20 +89,20 @@ The Moon"" was good─..."
 やっぱりね、商品タイトルはまずわかりやすさ！","That's no good, Miss Kuwayama. 
 After all, product titles should be easy to understand!"
 0000000000000,ラジオ番組ディレクター,"ダイレクトに魅力を伝えるものじゃなきゃさぁ
-桑山ちゃんの手作りってとこに価値があるんだから","It has to be something that directly conveys the item's 
-appeal. The fact that it's handmade by Miss Kuwayama 
-is its value."
+桑山ちゃんの手作りってとこに価値があるんだから","It has to be something that directly conveys the 
+item's appeal. The fact that it's handmade by 
+Miss Kuwayama is its value."
 1016003030210,千雪,────商品名……は……,──The name of the product... will be...
 1016003030220,千雪,『月へ出かけたキャラバンたちの鈴』────,"""The Caravan Bell That Went to The Moon""──"
 0000000000000,プロデューサー,"雑貨……か
 ────ほんとは","Sundry goods... huh. 
-──Seriously"
+──Seriously."
 0000000000000,プロデューサー,"手芸とか雑貨とか、仕事以外でも打ち込める時間
-作ってあげられたらいいんだけどな…………","I wish I could make time for you to devote to handicrafts 
-and sundry goods outside of work..."
+作ってあげられたらいいんだけどな…………","I wish I could make time for you to devote to 
+handicrafts and sundry goods outside of work..."
 1016003030230,千雪,"商品説明は……
 ええと────","The product description... 
-umm──"
+Umm──"
 1016003030240,千雪,『素敵なファブリックを見つけたので作ってみました』,"""I made this because I found a wonderful piece of 
 fabric."""
 1016003030250,千雪,"『月を目指して旅立った人たちが、
@@ -116,11 +116,11 @@ the fresh and powerful heartbeat of Earth."""
 edges is the history of the hearts of the people who've 
 weaved it, and discover the light within their hearts."""
 1016003030280,千雪,"『このまあるいフォルムの巾着は、
-まるで旅のラクダたちがつけた鈴のように』","""The drawstring bag has a form that is akin to the bells 
-worn by camels during their journey."""
+まるで旅のラクダたちがつけた鈴のように』","""The drawstring bag has a form that is akin to the 
+bells worn by camels during their journey."""
 1016003030290,千雪,『暗闇の旅の道しるべになる』,"""It will guide you in your journey into the darkness."""
 1016003030300,千雪,『──そんなストーリーをこめて』,"""──Made with such a story in mind."""
-1016003030310,千雪,────出品者名……『Ｃ．Ｋ』,"──The seller's name... ""C.K"""
+1016003030310,千雪,────出品者名……『Ｃ．Ｋ』,"──The seller's name... ""C.K."""
 0000000000000,off,『出品が完了しました』,"""The listing has been completed."""
 info,produce_events/101600303.json,
 Translator,cloverbunz,
