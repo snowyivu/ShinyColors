@@ -1,13 +1,12 @@
 id,name,text,trans
 1001001030010,真乃,ふぅ、一段落です……,"Phew, the first part is done..."
 0000000000000,プロデューサー,"真乃、リハーサルよかったぞ
-グルメ番組に出るのは初めてだけど、この調子なら……","Mano, the rehearsal was good.
-It's your first time doing a gourmet show, but at this rate..."
+グルメ番組に出るのは初めてだけど、この調子なら……","Mano, the rehearsal was good. It's your first time doing a gourmet show, but at this rate..."
 0000000000000,プロデューサー,ってどうした、表情が暗いぞ？,"Ah, what's wrong? You seem down."
 1001001030020,真乃,"その……よくわからなくって……
 どうして私が番組のオーディションに受かったんでしょう？","Um... I don't really get it...
 Why did I pass the audition?"
-1001001030030,真乃,食レポ、上手くできたって思えませんでした……,I don't think I didn't the food report well...
+1001001030030,真乃,食レポ、上手くできたって思えませんでした……,I don't think I did the food report well...
 0000000000000,プロデューサー,真乃には、見ている人を癒す力があるからじゃないかな,Maybe it's because you have the ability to soothe the viewers?
 1001001030040,真乃,人を癒す力……ですか？,The ability to soothe people...?
 0000000000000,プロデューサー,"うん、番組ディレクターからも、
@@ -21,10 +20,10 @@ Just keep soothing everyone like this."
 What should I do?"
 1001001030070,真乃,"ちゃんと人を癒やせないと、
 番組ディレクターさんの期待にも応えられないですよねっ","If I don't properly soothe people, 
-I can't respond to the director's expectations either."
+I can't meet the director's expectations either."
 0000000000000,プロデューサー,"自然体だからこそ、できることもあるんだ
-人を癒すなんて考えなくていいんだよ","It's also because you're being natural that you can do it.
-You don't really have to think about it."
+人を癒すなんて考えなくていいんだよ","It's also because you're being natural that you can do
+it. You don't really have to think about it."
 1001001030080,真乃,"自然体に、考えない……
 ほわっ、よけいに意識しちゃいますっ","Naturally... don't think about it...
 Ah, I end up overthinking it."
@@ -38,7 +37,8 @@ select,,料理を楽しもう,"Let's enjoy
 the food."
 0000000000000,プロデューサー,"ほら、ピーちゃんに話すみたいに食レポしてみたらどうかな
 それなら普通に話をしてる気持ちになれるんじゃないか？","How about you try it like you're talking to Pii-chan?
-If you do that you should be able to get used to talking normally, right?"
+If you do that you should be able to get used to
+talking normally, right?"
 1001001030090,真乃,"普通に話す……
 本当にそれだけでいいんでしょうか？","Talking normally...
 Is that really all?"
@@ -61,10 +61,10 @@ Thinking of Pii-chan is good, but..."
 1001001030150,真乃,"鳥さんだけじゃなくて、他の人とも気負わず
 自然体で話せるようにならないとですよねっ","I need to be able to talk to other people naturally without getting worked up too, not just birds."
 1001001030160,真乃,"だから、プロデューサーさんに話しかけるつもりで
-やってみますっ","So, I'll try it as if I'm talking to Producer."
+やってみますっ","So, I'll try it as if I'm talking to Producer-san."
 1001001030170,真乃,"自然体になるよう、頑張りますね
 むんっ","I'll do my best to act natural.
-Yeah!"
+Mun!"
 0000000000000,プロデューサー,"（力んだら意味ないんだけど……
 ま、あの調子なら大丈夫かな）","(It's not really natural anymore if you try, but...
 Well, it should be fine this way)"
@@ -73,7 +73,7 @@ Well, it should be fine this way)"
 Breathe in, breathe out."
 1001001030190,真乃,すぅ～はぁ～すぅ～はぁ～,Haaaaa～
 1001001030200,真乃,"ほわ？　どうしてプロデューサーさん、
-ニコニコしてるんでしょうか？","Eh? Producer, why are you grinning?"
+ニコニコしてるんでしょうか？","Eh? Producer-san, why are you grinning?"
 0000000000000,プロデューサー,深呼吸する真乃の仕草がよかったから,The gestures you make while you take deep breaths are good.
 1001001030210,真乃,"ほわっ？　でも深呼吸の時しませんか？
 両手を広げて～すぅ～はぁ～すぅ～はぁ～こんなふうに","Huh? Isn't it normal while taking deep breaths?
@@ -89,11 +89,11 @@ I've been soothed."
 0000000000000,プロデューサー,"いつもどおりいつもどおり
 それが真乃の場合はいい","Just act like usual, that works for you."
 1001001030240,真乃,"はい、わかりましたっ
-ありがとうございます、プロデューサーさん","I understand. Thank you, Producer."
+ありがとうございます、プロデューサーさん","I understand. Thank you, Producer-san."
 0000000000000,プロデューサー,じゃあ、本番の前にもう一回深呼吸しておこうか,"Alright, let's take one more deep breath before the proper broadcast."
 1001001030250,真乃,"はいっ
 すぅ～はぁ～すぅ～はぁ～",Yes! Haaaaa～
-1001001030260,真乃,でも……食レポが大変で楽しむ余裕なんて……,But... the food report is so hard I barely have the room to enjoy it...
+1001001030260,真乃,でも……食レポが大変で楽しむ余裕なんて……,But... the food report is so hard I barely have the time to enjoy it...
 0000000000000,プロデューサー,"美味しそうに食べてるように見えたけど
 料理の味もよくわからなかったかな？","You seemed like you were enjoying it, but were you unsure about the flavor of the food?"
 1001001030270,真乃,いいえ、すごーく美味しかったですっ,"No, it was really delicious."
@@ -111,11 +111,11 @@ Seeing your honest response is soothing."
 1001001030300,真乃,ほわ……そうだったんですね,Ah... So that was the case.
 1001001030310,真乃,"じゃあ、素直に料理を楽しみますっ
 プロデューサーさんのおかげでホッとしました","Okay, I'll enjoy the food naturally.
-Thanks to Producer, I feel relieved."
+Thanks to Producer-san, I feel relieved."
 0000000000000,プロデューサー,よし、その調子で気楽に行けばいい,"Yep, just continue at ease like that."
 1001001030320,真乃,"ふふ……気が楽になったら
 早くお料理を食べたいなぁ、って思えてきました","Hehe... Now that I feel comfortable, I think I want to hurry and eat some food."
 1001001030330,真乃,"食レポ、頑張りますね
-むんっ",I'll do my best with the food report. Yeah!
+むんっ",I'll do my best with the food report. Mun!
 info,produce_events/100100103.json,
 Translator,,
