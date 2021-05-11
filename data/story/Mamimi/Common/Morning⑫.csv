@@ -1,0 +1,22 @@
+id,name,text,trans
+1005001001210010,摩美々,プロデューサー、最近すごく忙しそうですねー,"Producer, you seem really busy latelyー"
+0000000000000,プロデューサー,ん、そうか？,"Hm, oh yeah?"
+1005001001210020,摩美々,"そーですよー。私、今日はいつもと違うんですケド……
+何も言ってきませんねー","Yeahー. I'm doing something different today, but... I'm not going to tell you whatー"
+0000000000000,プロデューサー,（いつもと違うところ、か……）,"(Something different than usual, huh...?)"
+select,,ヘアゴムが違う？,Different hair ties?
+select,,爪が違う？,New nails?
+select,,髪型が違う？,New hair style?
+1005001001210030,摩美々,へー……,Ohー...
+1005001001210040,摩美々,"このヘアゴム、初めてつけてきたんですよー
+よく気づきましたねー。ふふー",This is the first time I'm wearing these hair tiesー You noticed right awayー Hehe.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001001210050,摩美々,"はずれー……
+でも、爪まで見てるんですねー。意外ですー","Swing and a miss... but, you even looked at my nailsー Surprisingー"
+1005001001210060,摩美々,それじゃー、今度はネイルを変えてみますねー,"Well thenー, I'll change my nails next timeー"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001001210070,摩美々,髪型ですかぁ？……ふーん,My hairstyle...? Hmmph.
+1005001001210080,摩美々,そーですかぁ……,I see...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+info,produce_communications/100500100121.json,
+Translator,Batsu,

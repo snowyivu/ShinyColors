@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000,プロデューサー,"おはよう
+昨日の夜は、メンバーのみんなと食事に行ったんだってな","Morning. You went to dinner with your unit mates last night, right?"
+1005001001510010,摩美々,"おはよーございまぁす……
+そうですねー。なんかぁ、誘われたのでー",Good morrrning... that's right. Somehow I got invitedー
+1005001001510020,摩美々,みんないつも通り、にぎやかでしたよー,"Everyone was lively, as usualー"
+0000000000000,プロデューサー,そうか……,I see...
+select,,楽しかったか？,Was it fun?
+select,,美味しかったか？,Was it tasty?
+select,,食べ過ぎてないか？,Did you overeat?
+1005001001510030,摩美々,私は別にー……まぁ、悪くはなかったですケド,"Not particularly... well, it wasn't bad, though."
+1005001001510040,摩美々,"……なんでプロデューサーまでそんな反応するんですかぁ？
+親も嬉しそうにしてたんですケドー……",...why are you reacting like that? My parents seemed pretty happy about it too...
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001001510050,摩美々,"フツー、ですかねー……
+ひとりで食べるよりは、良かったんじゃないですかぁ？","Same as ever, I guess... it wasn't really better than when I go by myself?"
+1005001001510060,摩美々,また行ってみても……いいですケド,But I guess it's fine... to go again.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001001510070,摩美々,"さすがにそこまではぁ、食べないですねー……
+加減はわかりますよー",Unsurprisingly I don't eat that much... I know how to self regulateー
+1005001001510080,摩美々,……私、そんなに食べるように見えましたかぁ？,...do I look like someone who would eat too much?
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+info,produce_communications/100500100151.json,
+Translator,Batsu,

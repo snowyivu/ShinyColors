@@ -1,0 +1,28 @@
+id,name,text,trans
+1005001000810010,摩美々,"おはよーございまぁす
+今日はなんだかぁ、早く目が覚めちゃいましたぁ",Good morrrning. Somehow I managed to wake up early this morning.
+0000000000000,プロデューサー,"おはよう
+そうなのか？　こんな朝早くから来るなんて真面目だな",Morning. Is that so? You look quite serious coming in this early.
+1005001000810020,摩美々,そーですかぁ？  ヒマだっただけなんですケドー,Oh yeahh? I just happened to have some free timeー
+0000000000000,プロデューサー,もしかして……,Could it be...
+select,,イタズラしてた！？,"Are you pulling
+a prank!?"
+select,,よく眠れなかった？,"You didn't
+sleep well?"
+select,,仕事の話がしたい？,"Did you want to
+talk about work?"
+1005001000810030,摩美々,"ふふーどうでしょうねー
+いっぱい悩んでくださいねー","Fufuー how about thatー
+Make sure you worry a lotー"
+1005001000810040,摩美々,事務所って、意外と広くて楽しいですよねー,The office sure is surprisingly large and fun isn't itー
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001000810050,摩美々,そんなことないですケド……,"It wasn't like that, though..."
+1005001000810060,摩美々,"でもー、心配してくれたんですよねー？
+ありがとうございますー","But, you were worried about me righhht? Thanks for thatー"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001000810070,摩美々,ちがいますねー……朝からそれはちょっとー……,Definitely not... I'm just a little early...
+1005001000810080,摩美々,"プロデューサーと私のテンションの差、
+考えてくださいねー","Please remember the difference between our energy levels, okayー"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+info,produce_communications/100500100081.json,
+Translator,Batsu,

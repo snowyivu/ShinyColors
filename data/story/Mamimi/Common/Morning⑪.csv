@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000,プロデューサー,摩美々、何を見てるんだ？,"Mamimi, what are you looking at?"
+1005001001110010,摩美々,雑誌のー、パンクファッション特集ですー,"A magazineー, it's a special on punk fashionー"
+1005001001110020,摩美々,"プロデューサーはこの中で、
+１番どれが私に似合うと思いますー？","Producer, which one in here do you think suits me the bestー?"
+0000000000000,プロデューサー,（そうだな……）,(Let's see...)
+select,,"タータンチェックの
+ブーツ",The tartan boots.
+select,,黒のジャケット,The black jacket.
+select,,ピンクのパーカー,The pink hoodie.
+1005001001110030,摩美々,"このデザイン、私も好きですねー
+へー、プロデューサーもこれですかぁ","I like this design a lot tooー Hmmー Producer does too, huh?"
+1005001001110040,摩美々,結構ファッションのこと、わかってるんですねー,"You know a lot about fashion, don't youー"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001001110050,摩美々,"定番な感じですよねー
+コーディネートが引き締まりますー",It's the classic vibe huhー it makes coordinating your outfit a bit stricterー
+1005001001110060,摩美々,これなら、そんなに外すことはないですかねー,"If that's the case, I would have to go without it often, huhー"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001001110070,摩美々,あー色はいいんですけどねー色は……,"Ahー the color is nice, but, the color..."
+1005001001110080,摩美々,"デザインがなんだか……
+もうちょっと、なんですケド……","The design is, uh... it's a little much..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+info,produce_communications/100500100111.json,
+Translator,Batsu,

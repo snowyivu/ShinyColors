@@ -1,0 +1,23 @@
+id,name,text,trans
+1005001000910010,摩美々,んー。なんだか、喉が渇きましたぁ,Hmー. My throat's a little dry.
+0000000000000,プロデューサー,そうか。何か飲むか？,Oh yeah? You want something to drink?
+1005001000910020,摩美々,"そうですねー
+プロデューサーに選んでもらいたいですー",Let's seeー I want you to chooseー
+0000000000000,プロデューサー,（それなら……）,(In that case...)
+select,,紅茶は？,Some tea?
+select,,オレンジジュース,Orange juice.
+select,,ホットミルクは？,Warm milk?
+1005001000910030,摩美々,ふーん……紅茶に自信あり、ですかぁ？,Hmmm... are you confident in your tea making?
+1005001000910040,摩美々,"楽しみにしてますねー
+淹れるの頑張ってくださいー",I'm looking forward to it. Please do your best to prepare itー
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001000910050,摩美々,オレンジジュースって……子ども扱いですかぁ？,Orange juice... are you treating me like a kid?
+1005001000910060,摩美々,"まぁ、美味しいジュースなら飲みますケド
+……美味しいんですよね？","Well, I'll drink it if it's tasty juice though... it is pretty tasty, isn't it?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001000910070,摩美々,"ホットミルクを飲むとー、あったかくなってー
+眠くなっちゃいそうです―","If I drink warm milk, I'll end up getting so warm that I get sleepy―"
+1005001000910080,摩美々,朝より、夜に飲みたいですねー,I'd rather have that at night than early in the morning.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+info,produce_communications/100500100091.json,
+Translator,Batsu,

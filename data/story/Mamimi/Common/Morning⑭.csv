@@ -1,0 +1,26 @@
+id,name,text,trans
+1005001001410010,摩美々,"この前、テレビで温泉特集があったんですよー
+たまにはゆっくり温泉に行きたいですー","Earlier, there was a hot spring special on the TVー Sometime I want to go and relax at a hot springー"
+0000000000000,プロデューサー,ああ、いいよなあ……,"Yeah, that does sound good..."
+1005001001410020,摩美々,"プロデューサーは、
+どういうのがお好みですかー？","Producer, what kind do you preferー?"
+0000000000000,プロデューサー,そうだな。温泉行くなら……,Well let's see. If I went to a hot spring...
+select,,露天風呂かな,"Maybe an open
+air bath?"
+select,,足湯かな,Maybe a footbath?
+select,,いや、サウナかな,"No, maybe a sauna?"
+1005001001410030,摩美々,"わかりますー。露天風呂は、
+風にあたるのが気持ちいいんですよねー","I think so tooー The breeze hitting you in an open air bath feels good, doesn't itー"
+1005001001410040,摩美々,"さらにいい景色だったらぁ、
+たまりませんよねー","And then you're surrounded by beautiful scenery, it's irresistible, isn't itー"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1005001001410050,摩美々,"へー、足湯ですかぁ
+それなら私と一緒に入れますもんねー？",Ohー a foot bath? If that's the case did you want to go togetherー?
+1005001001410060,摩美々,"プロデューサーって、
+結構可愛いところあるんですねー","Producer, you've got a pretty cute side to you, huhー"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1005001001410070,摩美々,サウナも嫌いじゃないですー,I don't hate saunas eitherー
+1005001001410080,摩美々,でもー、せっかくの温泉ならお風呂に入りたいですねー,"Butー, I really want to take a bath in a hot springー"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+info,produce_communications/100500100141.json,
+Translator,Batsu,

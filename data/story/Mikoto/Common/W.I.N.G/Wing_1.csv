@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,────え……,──Hm...
 0000000000000,プロデューサー,"レッスン室、
 まだ明かり点いてるな",The lesson room is still lit up.
-0000000000000,プロデューサー,……こんな時間まで……,... At this hour...?
+0000000000000,プロデューサー,……こんな時間まで……,"... At this hour, though...?"
 0000000000000,プロデューサー,"…………
 出ない……","......
 No answer..."
@@ -15,9 +15,9 @@ You scared me."
 0000000000000,プロデューサー,"すまん、驚かせて
 気が付かないようだったから",Sorry about that. You didn't seem to notice me.
 1025001020030,美琴,"ううん、大丈夫
-来てたの、本当に気が付かなかった","Yeah, it's okay. I wasn't paying much attention."
+来てたの、本当に気が付かなかった","No, it's okay. I wasn't paying much attention."
 0000000000000,プロデューサー,"さっき、
-電話もしたんだけど",I called you not too long ago...
+電話もしたんだけど","I called you not too long ago, but..."
 1025001020040,美琴,"そうだったの？
 ごめんね、ずっとスマホ見ていなかったから","You did? I'm sorry, I haven't looked at my phone for a good while."
 0000000000000,プロデューサー,"……美琴、
@@ -66,9 +66,9 @@ I'll practice all the same."
 1025001020150,美琴,──10年間、ずっとこうしてきたのに？,──Haven't I been doing this for ten years?
 1025001020160,美琴,"前の事務所にいた時は、毎日こうしてた
 周りの子たちも、みんな","It was the same, each day, in my old workplace.
-The girls around me then, and everyone."
+The girls around me then, and everyone else, too."
 1025001020170,美琴,"そのくらい、難しくて
-切実な夢だと思うから",Maybe it's because it's such a particular and pressing dream of ours.
+切実な夢だと思うから",Maybe it was because it was such a particular and pressing dream of ours.
 1025001020180,美琴,自分のなりたい、アイドルになるってことは,"I want to be myself, a self made of an idol."
 0000000000000,プロデューサー,………………,.........
 1025001020190,美琴,"心配しなくても大丈夫
@@ -97,7 +97,7 @@ Thank you."
 Possibly a little too nice."
 0000000000000,プロデューサー,"そんなふうに言ったら
 きっと美琴のファンが悲しむ","To say such a thing...
-Undoubtedly your fans would be despondent to hear it."
+Undoubtedly, your fans would be despondent to hear it."
 0000000000000,プロデューサー,"美琴だって、応援してくれてる人を
 悲しませるのは本意じゃないだろ？","I don't think it's your intent to make everyone who supports you sad, right? "
 1025001020250,美琴,"そうだね
