@@ -1,9 +1,9 @@
 id,name,text,trans
 3025002010010,にちか,"────レッスン場、
-美琴さんと入れ替わりか…………","────the lesson room, got swapped with Mikoto-san..."
+美琴さんと入れ替わりか…………","──The lesson room, got swapped with Mikoto-san..."
 3025002010020,にちか,鍵、受け取らなきゃ,I have to get the key.
-3025002010030,にちか,………………──────,...──────
-3025002010040,にちか,一緒に練習したりとか──────？,Practicing together──────?
+3025002010030,にちか,………………──────,...──
+3025002010040,にちか,一緒に練習したりとか──────？,──Practicing together?
 3025002010050,にちか,"いやいやいや……！
 いやいやいやいや…………！","No no no...!
 No no no no...!"
@@ -17,7 +17,7 @@ No no no no...!"
 3025002010120,にちか,"あっ……
 お疲れ様です、美琴さん！！","Ah... thanks for your work today, Mikoto-san!!"
 3025002010130,にちか,"えーっと……！
-この後、16時からここ、予約してたんですよー！","Uhm...! After this, I had reserved the room, from 4:00ー!"
+この後、16時からここ、予約してたんですよー！","Uhm...! After this, I had reserved the room, from 4:00!"
 3025002010140,美琴,……え…………,...eh...
 3025002010150,美琴,"……うわ
 もうこんな時間？",...woah. It's already that late?
@@ -47,16 +47,16 @@ No no no no...!"
 3025002010300,美琴,──はい、鍵,"-here, the key."
 3025002010310,美琴,施錠と返却、よろしくね,"Lock the room and return it for me, please."
 3025002010320,にちか,"あっ……
-は、はい──────！",Ah... y-yeah──────!
+は、はい──────！",Ah... y-yeah──!
 3025002010330,美琴,"それじゃあ、私はこれで
 お疲れ様","Well then, that's it for me. Have a good one."
 3025002010340,にちか,"──────あっ
 えっと、美琴さん………！",─────ah. Uhm... Mikoto-san...!
 3025002010350,美琴,…………？,...?
-3025002010360,にちか,……一緒に練──────,...let's train toge──────
+3025002010360,にちか,……一緒に練──────,...let's train toge──
 3025002010370,美琴,……？,...?
 3025002010380,にちか,"────じゃなくて……
-ええっとー……","────no, it's...
+ええっとー……","──no, it's...
 Uhmmm..."
 3025002010390,にちか,あっ、もしかしてごはん食べてなかったりしませんか……！？,"Ah, have you not eaten anything yet...!?"
 3025002010400,美琴,"え？
@@ -66,7 +66,7 @@ Uhmmm..."
 忘れてた……んですね","...
 Forgot... did you?"
 3025002010430,にちか,"……あ、じゃああの
-これ────","...ah, well then. Here────"
+これ────","...ah, well then. Here──"
 3025002010440,美琴,え……？,Eh...?
 3025002010450,にちか,"おにぎり、練習の合間に食べようと思って
 いくつか作ってきたんですけど","Some onigiri. I was thinking of eating it during my practice breaks so I made some, but,"
@@ -78,8 +78,8 @@ Forgot... did you?"
 もう私は、今日は終わりだから","But, it's fine. I'm already finished for the day after all."
 3025002010500,美琴,……食べて、練習頑張って,"...Eat them, and practice hard."
 3025002010510,にちか,"あっ、あははっ！！
-そうですよねーーー！！　すみません！！",Ah- ahahaha!! You're totally rightーーー!! Sorry about that!!
-3025002010520,にちか,──よーし、頑張ろーー！,"ーalright, I'll do my bestーー!"
+そうですよねーーー！！　すみません！！",Ah- ahahaha!! You're totally right!! Sorry about that!!
+3025002010520,にちか,──よーし、頑張ろーー！,"...alright, I'll do my best!"
 3025002010530,美琴,"……うん
 それじゃあ",...yeah. Well then.
 3025002010540,にちか,……………………,......
@@ -88,6 +88,6 @@ Forgot... did you?"
 3025002010560,にちか,距離感やばいって……！,The distance between us is incredible...!
 3025002010570,にちか,ていうかおにぎりとか…………！！,"I mean, onigiri...!"
 3025002010580,にちか,"手作りとかも……
-ダメだったかな…………────",They're handmade... is it pointless...────?
+ダメだったかな…………────",They're handmade... is it pointless...──?
 info,produce_events/302500201.json,
 Translator,,
