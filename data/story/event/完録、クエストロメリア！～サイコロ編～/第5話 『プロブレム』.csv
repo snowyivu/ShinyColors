@@ -1,0 +1,233 @@
+id,name,text,trans
+0000000000000,テロップ,さっきの朝食の内容を教えてください,Please tell us what you had for breakfast earlier.
+4001012060010,甘奈,"えーっ？
+えっと……エッグベネディクトと……",Eh? Um... Eggs Benedict and...
+4001012060020,千雪,"２種類のスープと豆のサラダ、
+パンケーキ……──","Two types of soup, bean salad, and pancakes...──"
+4001012060030,甜花,ぱ、パンケーキ……,P-Pancakes...
+4001012060040,甘奈,"あと、トロピカルフルーツの盛り合わせと
+ココナッツヨーグルトだねっ","And also, a tropical fruits platter and coconut yogurt!"
+4001012060050,千雪,うん♪,That's right ♪
+4001012060060,甜花,あぅ……,Awh...
+0000000000000,テロップ,甜花さんはどうでしょう,What about Tenka-san?
+4001012060070,甜花,"え、と……
+コッペパンとハムと……牛乳……","Um.. Bread rolls, ham and... milk..."
+4001012060071,甘奈＆千雪,ええっ……！,Ehh...!
+0000000000000,テロップ,甜花、被弾,Tenka has taken a hit.
+4001012060080,千雪,"甜花ちゃん、バターガレットがあるの！
+あのね、おやつにって──","Tenka-chan, I have a butter galette here!
+And also, for a snack──"
+4001012060090,甘奈,"うんっ！　おやついっぱいあるんだ！
+えっと、これとこれと……──","Yeah! We have lots of snacks! Um, here and here...──"
+4001012060100,甘奈,うわー！　ねぇねぇ、シカだよ～！,"Uwaa! Look over there, it's a deer～!"
+4001012060110,千雪,"わぁ、ほんと……！
+ずいぶん山奥まできたのね……","Waa, it really is...! We've sure come quite deep into
+the mountains..."
+4001012060120,甜花,"見て……す、すごい……！
+お菓子の袋……パンパン……！","Look at that... a-amazing...!
+The bag of snacks is... bulging...!"
+4001012060130,甘奈,"わぁ、ほんとだ……！
+高いとこに来たからだよねっ！","Waa, it really is...! It's probably because we've come
+to such a high place!"
+4001012060140,甜花,た、たぶん……！,P-Probably...!
+4001012060150,甜花,"あ……
+こ、このままだと……破裂、しちゃう……！？",Ah... At this rate... won't it burst open...!?
+4001012060160,千雪,"そうなる前に、食べなきゃね……！
+──開けちゃう！","We should finish it before that happens...!
+──I'll open it!"
+4001012060170,甘奈,"あっ、千雪さん
+甘奈も食べる～！","Ah, Chiyuki-san. Amana wants to eat some too～!"
+4001012060180,甜花,うん……！,Me too...!
+0000000000000,テロップ,せっかくですが、現場到着です！,"I'm sorry, but we've arrived at the site!"
+0000000000000,ナレーション,『ミッション：展望台とフォトセッション！』,"""Mission: Observatory and Photo Session!"""
+4001012060190,甘奈,"ええっ、着いたんだ！
+──えっと、展望台って……","Oh, we've arrived! ──Um, the observatory..."
+4001012060200,千雪,"もう少し行くとあるみたい
+そこで写真を撮ればクリアなのね、きっと","Looks like we need to go a bit further...
+I'm sure we'll clear it once we take a photo over
+there."
+4001012060210,甜花,ば、罰ゲームは……,W-What is the punishment game...
+0000000000000,テロップ,罰ゲームは……,The punishment game...
+0000000000000,ナレーション,『ありません！』,"""There isn't one!"""
+4001012060220,甘奈,"よかった～！
+じゃあ、レッツゴーだね☆","What a relief～! Well then, let's go ☆"
+4001012060221,甜花＆千雪,うん！,Yeah!
+4001012060230,甜花,わ……なーちゃん、足元……！,"Ah... Naa-chan, watch your step...!"
+4001012060240,甘奈,えっ……？　あ……──,Eh...? Ah...──
+4001012060250,甘奈,水たまり……！,It's a puddle...!
+4001012060260,千雪,"……ほんとだ
+ここ、舗装されてないのね",...It really is. There's no paving over here huh.
+4001012060270,甜花,あ……スタッフさんたちも……,Ah... the staff are also...
+0000000000000,スタッフ１,"おーい！　台車はムリ！
+各自手持ちでよろしくー","Hey! We can't bring the trolley!
+Please carry everything on your own!"
+0000000000000,スタッフ２,はい！,Okay!
+4001012060280,甘奈,……──,......──
+4001012060290,千雪,"私たちも、気を付けようね
+台本は私がひとつ持っていればいいから……","We should be careful too. Since we only need one
+script, let's keep one with me..."
+4001012060300,甜花,"う、うん……
+甜花……カメラ首にかけとく……","Y-Yeah... Tenka... will hang the camera around her
+neck..."
+4001012060310,甘奈,…………,......
+4001012060320,甘奈,……うん,...Alright.
+4001012060330,甘奈,甜花ちゃん、千雪さん──,"Tenka-chan, Chiyuki-san──"
+4001012060340,甘奈,"あのね、甘奈だけ荷物持ってないから、
+スタッフさんのお手伝いしてきたいの","You see, since I'm the only one without any baggage
+with me, I want to go help the staff out."
+4001012060350,千雪,えっ？,Eh?
+4001012060360,甘奈,……『甘えちゃダメな時』『甘えさせてもらう時』,"...""Moments where we shouldn't be spoiled"",
+""moments where we can be spoiled"""
+4001012060370,甘奈,"あとね、『甘えてもらう時』も
+あったらいいって思うんだ","There are times where I wish it was a
+""moment where we can be spoiled""."
+4001012060380,甜花,……！,......!
+4001012060390,甘奈,"今日も昨日も……
+甘奈、もらってばっかりだから","Both today and yesterday... because all I have been
+was spoiled."
+4001012060400,甘奈,"あの……！
+荷物を運ぶの、お手伝いします！",Um...! I'll help carry the baggage!
+4001012060410,甜花,"な、なーちゃん……
+すごい……！",N-Naa-chan... is amazing...!
+4001012060420,甘奈,なんでも言ってください！,Please tell me anything you need help with!
+0000000000000,スタッフ３,"──大崎さん……！
+いえ、大丈夫ですよ！","──Osaki-san...! No worries, we're fine!"
+0000000000000,スタッフ４,"うんうん。ありがとねー
+甘奈ちゃんが気をつけて歩いてくれてたら、十分だよ！","Yeah. Thank you anyway. It's alright as long as
+Amana-chan is walking carefully! "
+4001012060430,甘奈,"私は大丈夫なんです、あの……！
+…………──","I'm perfectly fine, um...! ......──"
+4001012060440,甘奈,"ご、ごめんなさい……
+えっと……かえって迷惑、かな……","S-Sorry... um... I'm bothering you instead, aren't I..."
+0000000000000,スタッフ４,"──ありがとう、甘奈ちゃん
+それじゃあ……これ、お願いしちゃおうかな！","──Thank you, Amana-chan. In that case... here,
+please take care of this!"
+4001012060450,甘奈,"わ……！　ちっちゃい保温ボックス……！
+はいっ、大事に運びます！","Waa...! It's a small insulating box...!
+Don't worry, I'll carry it carefully!"
+4001012060460,甜花,あ、なーちゃん……それ、甜花も……──！,"Ah, Naa-chan... Tenka will help carry that too...──!"
+4001012060470,甘奈,大丈夫だよ。ひとりでへーき☆,It's fine. I can do it by myself ☆
+4001012060480,甜花,──あっ……,──Ah...
+4001012060490,千雪,あっ、甜花ちゃん──！,"Ah, Tenka-chan──!"
+4001012060500,甘奈,て、甜花ちゃん……！　甜花ちゃん！,T-Tenka-chan...! Tenka-chan!
+4001012060510,甜花,"……だ、大丈夫……
+地面……でこぼこだから……──",...I-I'm fine... The ground was just bumpy──
+4001012060520,甘奈,ケガしてな──きゃあっ……！,Are you injur── Kyaa...!
+4001012060530,千雪,甘奈ちゃん……！,Amana-chan...!
+4001012060540,甜花,なーちゃん……！　大丈夫……！？,Naa-chan...! Are you alright...!?
+4001012060550,甘奈,いてて……,Ouch...
+4001012060560,千雪,──ふたりとも、ケガはない？,──Are the two of you injured?
+4001012060570,甜花,"うん……甜花、転んだだけ……
+でも、なーちゃん……","Nope... Tenka just fell down... But, Naa-chan..."
+4001012060580,甘奈,甘奈、お洋服が……,My clothes are...
+4001012060590,千雪,"ううん、お洋服のことじゃない
+甘奈ちゃん、ケガは？","I'm not talking about your clothes.
+Amana-chan, are you injured?"
+4001012060600,甘奈,ケガは……してない,I'm... not injured.
+4001012060610,千雪,"…………
+……そうね。傷はないみたい",......I see. There doesn't seem to be any wounds.
+0000000000000,プロデューサー,おおい……！　大丈夫か！,Hey...! Are you all alright!
+4001012060620,千雪,プロデューサーさん……！,Producer-san...!
+0000000000000,プロデューサー,"──甘奈、甜花
+バスに戻ろう","──Amana, Tenka, let's go back to the bus."
+4001012060630,甘奈,えっ、プロデュー──,"Eh, Produc──"
+0000000000000,プロデューサー,ケガなら、ちゃんと手当てをしたい,"If you're injured, you should be properly treated."
+0000000000000,プロデューサー,"千雪は撮影を続行だ
+監督に従ってくれ",Chiyuki will continue the filming. Follow the director.
+4001012060640,甜花,"あ……あの、プロデューサーさん……
+甜花……ほんとに平気……",U-Um... Producer-san... Tenka... is really fine...
+0000000000000,プロデューサー,甜──,Ten──
+4001012060650,甜花,"ちょっと、つまずいただけ……！
+ほら……",I just tripped a bit...! Look...
+0000000000000,プロデューサー,"……そうか、確かに……
+それじゃ、任せてもいいか？","...I see, that's true...
+In that case, are you okay with continuing on?"
+4001012060660,甜花,うん……！,Yeah...!
+4001012060670,甘奈,あ、甘奈も……！,M-Me too...!
+0000000000000,プロデューサー,甘奈も、ケガはなさそうだけど──,Although you don't seem injured either──
+0000000000000,プロデューサー,"衣装が汚れちゃってる
+次の移動でなんとかするとして……今は難しいよ","But your outfit is dirty. I'll find a way as we move to
+the next location... it's a bit hard right now."
+4001012060680,千雪,"──あ、あの……
+私も手伝いますし……どうにかならないでしょうか","──U-Um... I'd like to help out too... is there anything
+I can do?"
+0000000000000,監督,"いや、みんなごめんねぇー
+今日でこれ、撮りきらなきゃいけないんだよねぇ","Hey, I'm sorry, everyone. I have to finish filming this
+by today. "
+4001012060690,千雪,監督さん……,Director...
+0000000000000,監督,"時間がなくってー
+日が暮れちゃうと、外は無理になっちゃうからねぇ","We don't have much time.
+When the sun has set, we can't go outside anymore."
+4001012060700,甘奈,…………,......
+0000000000000,プロデューサー,"みんな、すまん
+でも、たくさんのスタッフさんが一緒に頑張ってるんだ","Sorry, everyone.
+But the staff are all working hard together."
+0000000000000,プロデューサー,"今は、少しでも早く戻れるように努力しなくちゃ
+──甘奈、行こう","We should try our best to get back as soon as
+possible. ──Amana, let's go."
+4001012060710,甘奈,……はい,...Alright.
+0000000000000,プロデューサー,うん,Okay.
+4001012060720,千雪,"甘奈ちゃん……
+こっちは任せて……！　ね？",Amana-chan... just leave it up to me...! Alright?
+4001012060730,甘奈,千雪さん……,Chiyuki-san...
+4001012060740,甜花,甜花も……頑張るから……！,Tenka will... do her best too...!
+4001012060750,甘奈,甜花ちゃん……,Tenka-chan...
+4001012060760,甘奈,"……うん……
+お願いします……",...Okay... Please do...
+0000000000000,監督,うーん、ちょっとカメラ、止めようかぁー！,"Alright, let's turn off the camera for a while!"
+4001012060770,甘奈,……！,......!
+0000000000000,監督,みんな、疲れちゃってるかもしんないねぇー,Everyone must be tired now huh.
+4001012060780,千雪,い、いえ……──！,N-Not really...──!
+0000000000000,監督,"バスのシーンは撮れ高あるし……
+ね、少し休憩しよう、休憩ー！","We've gotten a good amount of footage for the bus
+scene... Hey, let's take a break, take a break!"
+4001012060790,甜花,あぅ……,Awh...
+4001012060800,甘奈,…………,......
+4001012060801,甘奈＆千雪,甘奈のせい──,Because of Amana──
+4001012060810,甘奈,……！,......!
+4001012060820,千雪,"……じゃないのよ？　甘奈ちゃん
+──そんな顔をしてる","...It's not that, okay? Amana-chan.
+──You have that look on your face."
+4001012060830,甘奈,"……ううん、甘奈が悪い。わかってるの
+監督さんは『疲れてる』って言ってくれたけど……","...No, it's my fault. I know that. Even though the
+director might've said ""we're tired"", but..."
+4001012060840,甘奈,"ちょっと、空気重くしちゃってるもん……
+甘奈……そうならないようにって、思ってるんだけど──","I'm making the atmosphere a little heavy...
+I'm... thinking that might not be the case, but──"
+4001012060850,甜花,"う、ううん……甜花も……
+展望台の時……にっこりできてなくて……","N-Not at all... It's Tenka's fault too...
+When I was at the observatory... I couldn't smile..."
+4001012060860,甜花,"そのこと……
+思い出して……ぼーっとしちゃってたかも……──","I was... thinking about earlier... and I might have been
+a bit dazed...──"
+4001012060870,甘奈,……甜花ちゃんは……悪くないよ,...It's not your fault... Tenka-chan.
+4001012060880,千雪,"……そんなことを言ったら、私も悪いわ
+いろいろ考えて……空回りしちゃってる……","...If you put it like that, it's my fault too.
+I was thinking about it a lot... and couldn't get
+anywhere..."
+4001012060890,千雪,"──ううん、だめだめ。違うの
+誰が悪いって言いたかったわけじゃなくて……","──No, we can't do this. That's not right.
+I didn't mean to say who's fault it was..."
+4001012060900,甜花,"……
+千雪さんも……悪くない……","......
+It wasn't... Chiyuki-san's fault either..."
+4001012060901,一同,…………,......
+4001012060910,甜花,"…………
+…………そ、そうだっ","......
+...I-I got it."
+4001012060920,甜花,KPT……！,KPT...!
+4001012060930,甘奈,……えっ,...Eh?
+4001012060940,甜花,"あの……あのね……！
+また、やりたい……KPT…………！",Um... you know...! I want to do that again... KPT...!
+4001012060950,千雪,"……！
+甜花ちゃん……",......! Tenka-chan...
+4001012060960,甜花,"うん……！
+昨日……うまくいった、から……！","Yeah...! Yesterday's one... went well, so...!"
+4001012060970,千雪,"そうね……！
+こうしてても、時間が過ぎていくだけだもん","I see...! That way, time will just fly by too."
+4001012060980,千雪,……一緒に考えたいな、『トライ』,"...Let's think of a ""Try"" together."
+4001012060990,甘奈,『トライ』…………,"""Try""..."
+4001012061000,甘奈,"うん……！
+甘奈も、考えたい……！",Yeah...! Amana will think of one too...!
+info,game_event_communications/400101206.json,
+Translator,Clover,

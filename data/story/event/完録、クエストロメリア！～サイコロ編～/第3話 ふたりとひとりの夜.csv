@@ -1,0 +1,156 @@
+id,name,text,trans
+0000000000000,テロップ,高級懐石,High Class Kaiseki
+4001012040010,千雪,"稚鮎……！
+天ぷらで頂くのね……！","Young sweetfish...! And it comes with tempura
+too...!"
+4001012040020,千雪,……わ、いい香り……！,"...Waa, what a nice aroma...!"
+0000000000000,千雪,──うん……！　美味しいです……！,──Yeah...! It's delicious...!
+4001012040030,甘奈,"では、甘奈は肉料理の方を食べてみます！
+なんと、Ａ５ランクだそうです！","Now then, I will try the meat dish! It seems like it's
+A5 rank!"
+4001012040040,甘奈,いただきまーす……──ん～！,Let's give it a try... ──Mhm～!
+0000000000000,甘奈,すごーい何これ！？　めっちゃ溶けるー☆,"Amazing, what is this!? It melts in my mouth so
+easily ☆"
+4001012040050,千雪,美味しい？,Is it delicious?
+4001012040060,甘奈,"うん！
+甘奈、こんなに美味しいの初めて食べた……！","Yeah! I've never tasted anything so delicious
+before...!"
+4001012040070,千雪,そっかぁ,I see.
+0000000000000,テロップ,それでは、ここでサイコロです,"Alright then, here is the dice."
+4001012040080,甘奈,"えーっ、なんで！？
+いい感じで食べてたのにー！","Eh, why!? I was having such a nice time eating!"
+4001012040090,千雪,"待ってください、鮎だけは……！
+これだけは、ちゃんと味わって食べたいの……！","Wait a minute, just leave the sweetfish...!
+That's the only one I want to taste properly...!"
+0000000000000,テロップ,"食事中のミッションを決定します！
+サイコロを振ってください","Decide on the meal mission! Please roll the dice. "
+4001012040091,甘奈＆千雪,あーん……！,Aahh...!
+0000000000000,テロップ,"ＮＧ食レポ！
+言わずに食べたら豪華デザート","NG Food Report! Win this gorgeous dessert if you
+eat without saying certain words."
+4001012040100,甘奈,っていうと……？,Meaning...?
+0000000000000,ナレーション,"『ＮＧ食レポ、ルール！
+お互いに、ＮＧワードをひとつ決めて食レポを行います』","""NG Food Report: Rules. You will decide on one
+NG word for each other and do a food report."""
+0000000000000,ナレーション,"『相手が先にＮＧワードを言ったら１ポイント
+よりポイントが多い方に、ご褒美のデザートを進呈します』","""You get one point if your opponent says the NG
+word first. We will present this reward dessert to
+the one that has more points."""
+4001012040110,千雪,甘奈ちゃんと戦うってことね……！？,You mean I'm challenging Amana-chan...!?
+4001012040120,甘奈,"デザートがかかってるとなれば……！
+千雪さん相手でも容赦しないよ……！","If we're talking about desserts...! I won't show mercy
+even if my opponent is Chiyuki-san...!"
+4001012040130,千雪,正々堂々頑張りましょう……！,"Let's do our best, fair and square...!"
+0000000000000,テロップ,"お題は鱧しゃぶ
+３枚食べきれば交代です","The theme is Pike Conger Shabu-Shabu. We'll switch
+turns every time three pieces are eaten."
+0000000000000,テロップ,"千雪設定、
+甘奈ＮＧワード「やわらかい」","Chiyuki has set Amana's NG word to be ""tender""."
+4001012040140,甘奈,いっただきまーす……！,I'm eating it...!
+4001012040150,甘奈,うーん…………いいですねー……,Mhm... it's good...
+4001012040160,千雪,"……甘奈ちゃん、すっごく手強そう
+ええと……『いい』って、何が？","...Amana-chan sure is a tough competitor.
+Um... what about it was ""good""?"
+4001012040170,甘奈,"えっへへー！　『いい』はセーフなんだねっ？
+この鱧、いいですねー☆","Ehehe! So I guess ""good"" is safe, right?
+This conger sure is good ☆"
+4001012040180,千雪,"もう、甘奈ちゃん……！
+鱧の何がいいの？","Jeez, Amana-chan...!
+What about the conger was good?"
+4001012040190,甘奈,"んーとね、鱧の食感──
+っていうのは危なそうだからー……","Hmm, I guess, the texture of the conger──
+Wait, that feels kinda dangerous, so..."
+4001012040200,甘奈,"顔！
+多分、鱧の顔がいいですねー",Its face! The conger's face is kinda nice!
+4001012040210,千雪,"ふふっ、何それ……！
+顔は今見えないでしょうっ","Fufu, what's with that answer...!
+You can't even see its face right now!"
+0000000000000,テロップ,甘奈、３枚完食,Amana finished eating three pieces.
+4001012040220,甘奈,やったー！　上手くいきました～！,Hooray! It went well～!
+4001012040230,千雪,"甘奈ちゃん強いんだもん……！
+悔しい～……","Amana-chan sure is strong huh...!
+How frustrating～..."
+4001012040240,甘奈,ねぇねぇっ、ＮＧワードはなんだったの？,"Hey hey, what was the NG word?"
+4001012040250,千雪,『やわらかい』,"""Tender""."
+4001012040260,甘奈,"嘘ー！？　危なかったぁ……！
+甘奈、一番最初に『やわらかい』って言おうと思ったの！","You're kidding!? That sure was dangerous...!
+I was thinking of saying ""tender"" at the start!"
+4001012040270,千雪,"え～っ……！
+余計に悔しいなぁ～……！",Eh～...! That's even more frustrating～...!
+0000000000000,テロップ,"甘奈設定、
+千雪ＮＧワード「いいダシ」","Amana has set Chiyuki's NG words to be ""good dashi""."
+4001012040280,千雪,"いただきます
+……うん、いいお出汁♪","I'll be having a taste... Mhm, such good dashi ♪"
+4001012040290,甘奈,千雪さん、アウトー！,"Chiyuki-san, out!"
+4001012040300,千雪,"え、何なに！？
+私、まだなんにも言ってないのに！","Eh, why, why!? I haven't even said anything yet!"
+4001012040310,甘奈,『いいダシ』がＮＧだよっ☆,"""Good dashi"" is NG ☆"
+4001012040320,千雪,"ええ～っ！
+……だって、いいお出汁なんだもん……！",Ehh～! ...But it really was such good dashi...!
+0000000000000,テロップ,アウトです,Out.
+4001012040330,千雪,え～ん……,Ehh～...
+0000000000000,テロップ,二品目──,Second list of items──
+4001012040340,甜花,"え、と……
+Ａセットが……生姜焼き",Um... Set A is... with grilled ginger.
+4001012040350,甜花,"Ｂセットが……ナポリタン
+Ｃセットは、アジフライ……",Set B is... Napolitan. Set C is fried horse mackerel...
+4001012040360,甜花,どれにしよ……,Which one should I choose...
+0000000000000,テロップ,勝利チームの夕食は、鮎、特上和牛、鱧などです,"The winning team's dinner will be sweetfish,
+special Japanese beef, and conger."
+4001012040370,甜花,え……,Huh...
+0000000000000,テロップ,千雪＆甘奈、食事を堪能,"Chiyuki and Amana, enjoying their meal."
+4001012040380,甘奈,"甘奈だけデザートごめんなさいでした！
+美味しかったです！","Sorry that the dessert was only for me!
+It was delicious!"
+4001012040390,千雪,"ううんっ
+甘奈ちゃんが美味しかったなら、よかった","No need. I'm happy as long as Amana-chan found it
+delicious."
+4001012040400,千雪,──よい勝負でした！,──It was a good game!
+4001012040410,甘奈,ごちそうさまでしたー☆,Thank you for the meal ☆
+4001012040420,甜花,教室で……アニメ……！,Anime... in the classroom...!
+4001012040430,甜花,"たくさん見ても、怒られない……！
+教室だけど、怒られない……！","Even if I watch alone, no one will get angry...!
+Even if I watch it in the classroom, no one will get
+angry...!"
+4001012040440,甜花,…………♪,......♪
+4001012040450,甜花,"にへへ……！
+ね、なーちゃん、見て──","Nihehe...! Hey, Naa-chan, look at──"
+4001012040460,甜花,あ……,Ah...
+4001012040470,甜花,"そっか……
+おうちじゃ……ない……",That's right... I'm not... at home...
+4001012040480,甜花,…………,......
+4001012040490,甜花,……うん,...Hmm.
+4001012040500,甜花,"日直は……甜花……
+名前を……書きます……","The one on duty today is... Tenka...
+Writing... my name..."
+4001012040510,甜花,"今日の授業は……
+お風呂と……銃、と……","Today's lesson was about... baths and... guns,
+and..."
+4001012040520,甜花,"Aセット、生姜焼き……か……
+和牛……あ、ゆ……","Set A was grilled ginger... and... wagyu beef...
+sweetfish..."
+4001012040530,甜花,"──は、も……？
+食べたこと……ない……",──Conger...? I've never... had it before...
+4001012040540,甜花,なーちゃん……千雪さん……,Naa-chan... Chiyuki-san...
+4001012040550,甜花,──それから,──And then.
+4001012040560,甜花,だ・い・じょ・う・ぶ,I ・ will ・ be ・ fine
+4001012040570,甜花,……うん,...There.
+4001012040580,甜花,"……にへへ
+甜花は……大丈夫……",...Nihehe. Tenka is... fine...
+4001012040590,甜花,大丈夫に……する,I'll be... fine.
+4001012040600,甜花,後は寝るだけ……！,All I have to do is go to sleep...!
+4001012040610,甜花,"寝て……起きたら……
+お仕事、ちゃーんとできてる……",Sleep... and when I wake up... work will be done...
+4001012040620,甜花,"うん……！
+おやすみなさい……！",Yeah...! Good night...!
+4001012040630,甜花,…………,......
+4001012040640,甜花,ひゃっ……？,Hyaa...?
+4001012040650,甜花,"ま、また……
+窓……なんか当たった……？",A-Again... Something's... hitting the window...?
+4001012040660,甜花,下……誰かいるの……？,Downstairs... is someone there...?
+4001012040661,甘奈＆千雪,甜花ちゃーん、こんばんはー！,"Good evening, Tenka-chan!"
+4001012040670,甜花,なーちゃん、千雪さん……！？,"Naa-chan, Chiyuki-san...!?"
+4001012040680,甘奈,"──えっへへー！
+『潜入撮影』だよ、甜花ちゃん！","──Ehehe! It's an ""undercover filming"", Tenka-chan!"
+info,game_event_communications/400101204.json,
+Translator,Clover,
