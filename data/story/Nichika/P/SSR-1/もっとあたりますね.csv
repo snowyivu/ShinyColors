@@ -1,0 +1,156 @@
+id,name,text,trans
+2024004020010,にちか,"────はい
+はい。すみませんでした……","──Yes.
+I understand. I'm very sorry..."
+0,フロアマネージャー,"……色々大変なのはわかるけど
+仕事は仕事だし、ミスはミスだから","... I know there's a lot to learn,
+but work is work, and so a mistake is a mistake."
+2024004020020,にちか,"はい……
+……","Yes...
+......"
+2024004020030,にちか,"お疲れ様でーす
+プロデューサーさー────","Afternoon~
+Producer-sa──"
+0,プロデューサー,"──あっ、ええ。はい
+すぐ向かいます！","─Okay, got it. Yes.
+I'm on my way!"
+0,プロデューサー,"はづきさんすみません……！
+すぐ出ちゃうので、荷物届いたら────","I'm sorry, Hazuki-san...!
+I have to go, so when the package comes──"
+2024004020040,にちか,──────……,──......
+0,プロデューサー,"────おう、にちか！
+お疲れ様","──Oh, Nichika! Good work today."
+2024004020050,にちか,お疲れ様です,"Good work today, too."
+0,プロデューサー,"自主練かな、河原走るんなら気を付けて行ってきてくれ
+──俺はちょっと出てくるから","Please be careful if you practice alone by the riverbank today. I have to go, unfortunately."
+2024004020060,にちか,あ、はい────,"Oh, understood──"
+0,プロデューサー,"あ、もしもし……！
+……はい、はい……！　ええ、それじゃ明日の────","Ah, hello...! Yes, that's correct...! Oh, so that'll be tomorrow──"
+2024004020070,にちか,…………,......
+0,プロデューサー,──よし、じゃあ今日も頑張ろう！,"──Alright, do your best today!"
+2024004020080,にちか,"あ、はい
+頑張るのは私ですけど……","Oh. I will. 
+I'll do the best I can do, but..."
+2024004020090,にちか,"プロデューサーさん
+今日は立ち合わないんですよね、レッスン？","Producer-san, you're not going to be there today, right? At the lesson?"
+0,プロデューサー,"あぁ……そうだな
+すまん。頑張ってきてくれ","Yeah... that's true.
+Sorry. Give it your best."
+2024004020100,にちか,"はいー
+全然、いつも頑張ってますけど────","Yes. I'll do my absolute best as usual, but──"
+0,プロデューサー,"──あ、悪い。電話が……
+終わる頃迎えにくるからな！　いってらっしゃい","──Sorry, my bad. I'll be back... around whenever this call is over, I think! Take care, please."
+2024004020110,にちか,"────え？
+振りって今週から付けてもらえるんじゃないんですか？",──Huh? Can't we go over those dance moves this week?
+0,ダンストレーナー,"あ、うーん……！
+ごめんね、早く色々踊ってみたいと思うんだけど────","Oh, I dunno...! I'm sorry, I think it might be a little early for that part──"
+0,ダンストレーナー,"にちかちゃん、
+もうちょっと基礎付けてからがいいかなぁって","Nichika-chan, I'd say it's probably better for you to have a bit stronger of a foundation first."
+2024004020120,にちか,"……あー
+あははっ、そうですよねー……","... Oh. 
+Ahaha, that's true, isn't it~..."
+2024004020130,にちか,"お疲れ様ですー
+────あれ、プロデューサーさん……","Good work today~
+──Huh? Producer-san...?"
+2024004020140,にちか,いないんだ,Not here.
+2024004020150,にちか,"……13時ナントカ社、14時リハ立ち合い、16時ラジオ
+打ち合わせ、16時半定例会議、17時半スタジオ立ち寄り","... 13:00, Nantoka Co. 14:00, rehearsal meeting. 16:00, radio meeting. 16:30, office meeting, 17:30, studio visit and check."
+2024004020160,にちか,────…………,──......
+2024004020170,にちか,────プーローデューサーさーーーーん！,──P r o d u c e r - s a a a n !
+0,プロデューサー,うわっ、すまん…………！,"Whoa, sorry...!"
+0,プロデューサー,"待ってる間に、音資料を聴いててさ……！
+ごめんな、乗ってくれ！","I was listening to some sound files while waiting...!
+Sorry again. Hop in!"
+2024004020180,にちか,"──────…………
+忙しいんだったら、私歩いて帰りますねー","──......
+If you're busy, I'll walk back──"
+0,プロデューサー,"えっ、にちか！？
+いやいや、それは無理だよ。乗って────","Huh? Nichika!?
+No, no, that's not a good idea. Get in──"
+2024004020190,にちか,それじゃ……！,I'm...!
+2024004020200,にちか,忙しいアピールやめてもらっていいですかねー────！？,Can't you stop showing off your oh-so busy schedule!?
+0,プロデューサー,──────……にちか,... Nichika...
+2024004020210,にちか,"別に……プロデューサーさんだけが
+忙しいわけじゃないのでー","It's just... You're not the only one who's busy, you know?"
+0,プロデューサー,……えっと────,... Well──
+0,プロデューサー,うん,You're right.
+2024004020220,にちか,"……っ
+私だって──────…………","......!
+That's why I──"
+select,,……大変だよな,"... Things are difficult
+right now."
+select,,"……俺は
+忙しくないよ","... I'm really not
+that busy."
+select,,"……そんなふうに
+見えるかな","... I didn't mean to
+come off like that."
+0,プロデューサー,俺なんかより……ずっとさ,I know... it's a lot more for you than it is for me.
+2024004020230,にちか,"……っ
+それめちゃめちゃ嘘つきじゃないですかー……！？","......!
+You don't have to be such a huge liar right now...!"
+2024004020240,にちか,めちゃめちゃ忙しいし────,I know you're super busy──
+2024004020250,にちか,"お仕事ですもんね！　全部、大事な！
+私みたいな……素人が夢見てるのと違って！","It's your job after all! Everything is important!
+Unlike mine... which is just the dream of an amateur!"
+0,プロデューサー,"……にちか……？
+なんで──────",... Nichika...? What do you──
+2024004020260,にちか,"……それじゃ、お疲れ様でしたー！
+バス来ちゃうんで行きますねー！","... Well, thank you sooo much for your hard work today! 
+The bus is here, so I'm taking that!"
+0,プロデューサー,"あっ……！　にちか…………！
+にちか、待ってくれ","Hey...! Nichika...!
+Nichika, wait──"
+2024004020270,にちか,"あはははっ
+暇になったら見に来てくださいねー、素人のダンス！",Ahahaha! Why don't you come and see it when you're free─ my amateur dancing!
+0,プロデューサー,"──────
+なんで","──
+Cut it out──"
+0,プロデューサー,"にちか、待って……
+待ってくれ──────","Nichika, wait...
+Hold on──"
+2024004020280,にちか,……っ────────,......!
+2024004020290,にちか,"────うわー……
+やばい嫌味……","──Wow.
+That's some awful sarcasm..."
+2024004020300,にちか,"プロデューサーさんが忙しくなかったら、じゃ私
+めちゃめちゃやばいやつですね！　超暇な一般人だー！","If you weren't soooo busy, I know I'd be a total loser right now! A super ordinary nobody~!"
+2024004020310,にちか,"いいですよ！
+仕事になってないことに、時間使わなくて大丈夫ですー",It's fine! No one said you have to spend your time doing anything but working!
+2024004020320,にちか,"あははっ、移動くらい自分でやれって話ですよね！
+夢を追いかけてるんだから当然！　それじゃ────","Ahaha, it's said that one should be able to get around on their own, right! Since I'm chasing my dreams, it's only natural! Well, if so──"
+0,プロデューサー,"……っ
+ど、どうしたんだ……？　俺はほんとに──────","......!
+What's wrong...? I really didn't mean──"
+0,プロデューサー,"────……
+俺の苦労なんて、にちかの大変さには比べられない","......
+I'd never mean to compare your hardships to mine."
+2024004020330,にちか,"……あ、バス来るっぽいので行きますねー
+明日もお迎え大丈夫ですー！","... Oh, looks like the bus is coming~!
+I'll see you tomorrow, just like this!"
+0,プロデューサー,"あっ、にち────────
+…………","Wh-, Nichi──
+......"
+2024004020340,にちか,"……っ
+違うんですかー！　すごーい！！","......!
+Oh, that's not the case!? Amaaazing!!"
+2024004020350,にちか,"めちゃめちゃ仕事して、めちゃめちゃ電話もかかってきて
+全然事務所にいる時間なくて、でも忙しくないんだー！","You've been working super hard and taking so many calls that you're never in the office at all, but no, you're not busy at all~!"
+0,プロデューサー,────……にちか、その──────,"... Nichika, that's──"
+0,プロデューサー,"俺が忙しそうに見えるとしたら、
+それは、全部にちかのためなんだ","If it really does seem like I'm too busy, it's because of the things I'm doing for you."
+2024004020360,にちか,"……やば、全部とか
+めちゃめちゃ適当に言ってるじゃないですか","... Totally, *everything.*
+It feels like you're just saying whatever at this point, doesn't it?"
+0,プロデューサー,"……いや、適当じゃないよ
+なんて言えばいいかな──────","... No, I'm truly not.
+What should I say───"
+2024004020370,にちか,"あ！　いいです全然！　めちゃめちゃ忙しいんだし、
+そんなどーうでもいい説明に時間使わないでくださいー！","Oh! Everything is fine! I know you're super busy, so no need to spend time explaining it to someone like me~!"
+2024004020380,にちか,"じゃ、私、時間あるのでゆっくりレッスン場行きますねー！
+もう邪魔しないので、資料チェック頑張ってくださいー！","Well, I on the other hand can take my time on my way to the lesson room! I won't interfere anymore, so do your best checking over those files, please~!"
+0,プロデューサー,"……っ、にちか──────
+──────待っ…………","... Hey, Nichika──
+──Wait..."
+info,produce_events/202400402.json,
+Translator,,

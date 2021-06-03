@@ -1,0 +1,28 @@
+id,name,text,trans
+1006001001110010,咲耶,"ねえ、プロデューサー
+アナタは黒と言えば、何を連想する？","Hey, Producer. When I say the word black, what do you associate it with?"
+0000000000000,プロデューサー,"いきなりどうしたんだ？
+次の衣装の話か？",What's this all of sudden? Talking about your next outfit?
+1006001001110020,咲耶,"フフ。ちょっとした占いだよ。今読んでいた雑誌に、
+色でみる性格診断というコーナーがあってね","Fufu. Just a little fortune-telling. In the article I'm reading, there's a section for personality type by color."
+0000000000000,プロデューサー,"そういうことか……
+うーん。黒で連想するものと言えば……",So that's what it is... Hmm. What I associate black with...
+select,,いろいろなもの,Lots of things.
+select,,かっこよさ,It's cool.
+select,,孤高,Solitude.
+1006001001110030,咲耶,"そのイメージは、ある意味で正しいのかもしれないね……
+カラスのように、様々な色が混ざった末に生まれる色……","That impression may be true in a sense... it's a color born from mixing various others, like a crow..."
+1006001001110040,咲耶,"雑誌に載っていない解答とは斬新だね
+フフ、やはりアナタは面白い","That's a pretty novel answer that isn't in the magazine. Fufu, you're intruiging as expected."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001001110050,咲耶,"確かに黒はかっこよさの表現に使われるね
+特に、ファッションではそうだな",Certainly the color black is used to convey stylishness. Especially when it comes to fashion.
+1006001001110060,咲耶,"そういえば、私の私服も黒が多いような気がするね
+アナタにとって私は、かっこいい存在だということかな","Come to think of it, my every day clothes are mostly black, aren't they? I guess you regard me as quite cool, huh?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001001110070,咲耶,"なるほど、孤高か……結果は、
+『クールに見せかけて、内面に寂しさを抱えている』らしい","I see, solitude...? It's like the result, ""You feign coolness, but inside you carry loneliness""."
+1006001001110080,咲耶,……もしかして、プロデューサーは寂しいのかい？,"...could it be, are you lonely, Producer?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100111.json,
+Translator,Batsu,

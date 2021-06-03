@@ -1,0 +1,27 @@
+id,name,text,trans
+1006001001310010,咲耶,"この前のオフに、友人と遊びに行ってきたよ
+とても面白い子達でね。楽しい時間を過ごせたよ","On my off day earlier, I went out with a friend. They're such a funny kid. I had a really good time."
+0000000000000,プロデューサー,"咲耶は誰かと一緒にいることが本当に多いな
+疲れないのか？",You truly go out a lot with someone or another. Doesn't it get tiring?
+1006001001310020,咲耶,"疲れるなんてことはないさ
+ひとりの時間を過ごすより、ずっといい",It doesn't tire me out at all. It's far better than spending time by myself.
+0000000000000,プロデューサー,"ひとりよりいい、か
+その理由って……","Better than by yourself, huh? The reason is..."
+select,,寂しいから？,You're lonely?
+select,,楽しませるため？,To entertain?
+select,,頼られてるんだな,To be relied on?
+1006001001310030,咲耶,"寂しい……？
+そうかもしれないね",Lonely...? Maybe so.
+1006001001310040,咲耶,"けど、アナタに出会ってから、
+そんなことを考えることは減ってしまったな","But, ever since I met you, I'm less likely to think about stuff like that."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001001310050,咲耶,フフ。みんなを笑顔にすることが私の使命だからね,"Fufu. Well, it is my mission to make everyone smile."
+1006001001310060,咲耶,"プロデューサーも楽しんでくれているなら、
+私も嬉しいんだが","If you're enjoying yourself as well, then I'm happy too."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001001310070,咲耶,どうかな？　私にはわからないことだよ,In what way? I don't quite understand.
+1006001001310080,咲耶,"笑顔でも、心では泣いているかもしれない
+表情だけでは、人の真の気持ちまでは判断できないからね","Even if you're smiling, you could be crying inside. Someone's face by itself won't be enough to determine their true feelings."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100131.json,
+Translator,Batsu,

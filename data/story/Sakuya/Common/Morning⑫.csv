@@ -1,0 +1,30 @@
+id,name,text,trans
+1006001001210010,咲耶,…………,......
+1006001001210020,咲耶,"……ああ、プロデューサー。アナタも人が悪い
+いたなら声をかけてくれたらいいのに","...hey, Producer. It's okay if you also want to reach out to me when you're feeling bad too."
+0000000000000,プロデューサー,"ああ、すまない
+何か考えごとをしてるようだったから……","Yeah, sorry. I was just thinking about something..."
+1006001001210030,咲耶,"考えごと、か……
+……ねえ、アナタは寂しさを感じることはあるかい？","Thinking, huh...? Hey, do you ever feel like you're lonely?"
+select,,"みんながいるから、
+寂しさは感じないな","I don't feel lonely
+because of
+everyone here."
+select,,たまに思う,Occasionally.
+select,,感じてる暇はない,"I don't have time
+to feel that way."
+1006001001210040,咲耶,"フフ……そうだね
+この場所にはみんながいる……",Fufu... isn't that right. Everyone's here in this place...
+1006001001210050,咲耶,"少し騒がしいくらいで……
+でも、それがとても、好ましい……","It can get a little boisterous... but, that's a really nice thing..."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001001210060,咲耶,"そうか……
+プロデューサーもそう感じることがあるんだね","I see... Producer feels that way too sometimes, huh."
+1006001001210070,咲耶,アナタも私と同じだと知って、少し安心したよ,"You and I feel the same way, I'm a little relieved."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001001210080,咲耶,"クス、アナタはすごいね
+きっとアナタは、どんな時でも強くいられるんだろう","Heh, you're quite amazing. I'm sure you're able to remain strong at all times."
+1006001001210090,咲耶,その強さが、羨ましいよ……,"That kind of strength, I'm envious..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100121.json,
+Translator,Batsu,

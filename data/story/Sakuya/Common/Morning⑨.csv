@@ -1,0 +1,28 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（咲耶が鏡の前で何か悩んでるようだな……
+どうしたんだろうか？）",(Sakuya's looking troubled in front of the mirror... what could be the issue?)
+1006001000910010,咲耶,"ねえ、プロデューサー。どんな衣装を着れば、
+みんなは喜んでくれるんだろうか","Hey, Producer. What kind of outfit should I wear, to make everyone happy?"
+1006001000910020,咲耶,アナタの意見を聞かせてくれないかい？,Would you mind giving me your opinion?
+0000000000000,プロデューサー,ファンが喜ぶ衣装か……,An outfit to please the fans...?
+select,,華やかで可愛い系,Showy and cute.
+select,,クールでかっこいい衣装,"Cool and stylish
+outfits."
+select,,パンクな衣装,A punk outfit.
+1006001000910030,咲耶,"フフ。考えたこともなかったな
+モデル時代も、可愛い服を着る機会はなかったし……","Fufu. I never thought about that. When I was a model, I didn't have the chance to wear those kinds of clothes..."
+1006001000910040,咲耶,"面白そうだ。アナタが言うなら、
+どんな衣装でも着こなしてみせようじゃないか","Interesting. If you say so, I'll show off any outfit."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001000910050,咲耶,"ふむ、やはり今の路線のままが、
+みんなに求められている姿かもしれないな……","Hrm, so it's still the same policy. That may be what everyone wants..."
+1006001000910060,咲耶,"ありがとう、
+やはりアナタに意見を聞くのが一番だね",Thanks. Sure enough it's best to ask for your opinion.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001000910070,咲耶,"派手なメイクにトゲのついた衣装か……
+うーん、なかなか挑戦的な衣装だね","A thorny outfit with flashy make-up...? Hmm, that's quite the provocative outfit."
+1006001000910080,咲耶,"どうなるか想像ができないが……
+きっと、そうだからこそ挑戦する価値があるんだろう？","I'm not even able to imagine it... undoubtedly that's a good reason to attempt it, right?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100091.json,
+Translator,Batsu,

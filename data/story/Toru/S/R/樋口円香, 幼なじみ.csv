@@ -27,10 +27,10 @@ Are there any cold packs or hot packs around?"
 Your mother."
 3020002010210,円香,"うん……
 おばさんにも言われた","Yeah...
-Your mom said too."
+Your mom said the same thing."
 3020002010220,透,"食べる？
-切るって","Eat it?
-Slicing and all."
+切るって","Wanna eat it?
+She's slicing one now."
 3020002010230,円香,"あ……
 うん","Uh...
 Sure."
@@ -38,7 +38,7 @@ Sure."
 3020002010250,透,……えーと,...let's──see...
 3020002010260,円香,"……
 湿布、貸して","...
-Compress. Pass it here."
+Come here, pass me the compress"
 3020002010270,透,──あ、冷なんだ,──Ah. It's a cold one.
 3020002010280,円香,"……
 肩出して","...
@@ -46,7 +46,7 @@ Show me your shoulders."
 3020002010290,透,うん,kay.
 3020002010300,透,──ったぁ……,──ch──oww...
 3020002010310,透,そこ。痛い,There. Hurts.
-3020002010320,円香,知ってる,I'm aware.
+3020002010320,円香,知ってる,I'm know.
 3020002010330,円香,──ていうか、なんで冷の方かわかってるの？,"──for that matter, why'd you figure you needed the cold one?"
 3020002010340,透,え？　あー……,Eh? Ah...
 3020002010350,透,わからん,Didn't.
@@ -64,8 +64,8 @@ Explanation's dull..."
 3020002010430,透,あー……,Aah...
 3020002010440,透,"そういうやつかも
 そっか","Something like that, maybe.
-Gotcha."
-3020002010450,円香,だから、冷,"So, cold."
+Yeah."
+3020002010450,円香,だから、冷,"Ergo, cold pack."
 3020002010460,透,"──っ
 冷た……","──tchh...
 Cold..."
@@ -81,11 +81,11 @@ Chilling it for too long isn't gonna be good for you."
 Though we're gonna have the melon soon."
 3020002010530,円香,……浅倉、あっちで食べたら,"...Asakura, why don't you eat it over there?"
 3020002010540,透,なんで,Why?
-3020002010550,円香,湿布でメロンが死ぬから,cause your compress is gonna kill the melon otherwise.
+3020002010550,円香,湿布でメロンが死ぬから,the smell of compress mixed with melon is gonna kill me.
 3020002010560,透,えー,Eeeh.
 3020002010570,透,こっちで食べるよ,I'm gonna eat it here.
 3020002010580,円香,……っ,...
 3020002010590,円香,なんで,Why?
 3020002010600,透,こっちで食べたいから,cause I wanna eat it here.
 info,produce_events/302000201.json,
-Translator,Emelia,
+Translator,Emelia/Dekabig,

@@ -1,0 +1,28 @@
+id,name,text,trans
+0000000000000,プロデューサー,咲耶、何を読んでるんだ？,"Sakuya, what are you reading?"
+1006001001010010,咲耶,"旅行雑誌だよ
+見知らぬ土地での新しい出会いもいいものだと思ってね",A travel magazine. I think it's great to meet new people in unfamiliar lands.
+1006001001010020,咲耶,"プロデューサー、
+アナタはどこか行きたい場所はあるかな？","Producer, what kind of places do you want to go?"
+0000000000000,プロデューサー,行きたい場所か……,Places to go...?
+select,,海が見たい,I'd like to see the sea.
+select,,大いなる山の頂,"The top of a
+large mountain."
+select,,にぎやかな観光地,"A bustling tourist
+attraction."
+1006001001010030,咲耶,"いいね、揺らめく波、照りつける太陽は人を開放的にする
+新しい出会いを求める場所としてはうってつけだ",Isn't it nice... the shimmering waves and beating sun make people open up. It's a great place to encounter new people.
+1006001001010040,咲耶,"フフ……それに、私も海を見るのは好きなんだ
+今度、一緒に見に行かないかい？","Fufu... besides, I also enjoy watching the ocean. Next time, would you like to go see it together?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001001010050,咲耶,"大いなる山の頂……？
+今に満足せず、さらに高みを求める……ということかな","The top of a large mountain...? Not satisfied with now, and searching for greater heights... you mean?"
+1006001001010060,咲耶,フフ、アナタらしい答え方だ,"Fufu, that's your kind of answer."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001001010070,咲耶,"なるほど、人がたくさんいるというのは良いね
+それだけで、旅というものが楽しくなる気がするよ","I see, it's good when there's lots of people. That alone makes taking a trip enjoyable."
+1006001001010080,咲耶,"けど、たまには普段と違うような
+非日常的な場所も悪くはないと思ったんだ","But, sometimes it doesn't feel different than usual. I think it's also not bad to go somewhere unexpected."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100101.json,
+Translator,Batsu,

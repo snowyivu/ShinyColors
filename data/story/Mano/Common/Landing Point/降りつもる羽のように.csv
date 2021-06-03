@@ -1,0 +1,69 @@
+id,name,text,trans
+1001004010010,真乃,『ライブのお知らせ』,"""Concert announcement!"""
+1001004010020,真乃,"『この度、イルミネーションスターズで
+ワンマンライブを開催できることになりました』","""Illumination STARS will be holding a stand-alone concert."""
+1001004010030,真乃,"『応援してくださるファンのみなさんと
+いっぱいいっぱい楽しい時間をすごせたらなって思います』","""I look forward to having an absolutely wonderful time there, together with everyone who's been rooting for us!"""
+1001004010040,真乃,『#ライブ告知 #イルミネーションスターズ』,"""#iIluminationSTARS #concert"""
+0000000000000,プロデューサー,"ツイスタでライブの告知か
+うん、投稿して問題ないよ","Announcing the show on your Twesta, huh? 
+Looks good, feel free to post it."
+1001004010050,真乃,……見ていただいてありがとうございます,Thank you for checking over it.
+0000000000000,プロデューサー,"いやいや、真乃も
+告知しようって思ってくれてありがとう","Don't mention it. Actually, I'm really glad you're taking the initiative to put out an announcement."
+0000000000000,プロデューサー,"強制するつもりはないけど
+こういうのやっぱりファンは嬉しいものだからさ","I don't want to make it a mandatory thing for any of you, but the fans really appreciate this kind of stuff, you know?"
+0000000000000,プロデューサー,"ここ最近、真乃が積極的に投稿してくれてるの
+ありがたいなって思ってるよ",So I'm pleased to see you've been actively updating your social media as of late.
+1001004010060,真乃,ほわ……,Hwa...
+1001004010070,真乃,"あ、あんまり他のみなさんみたいに
+ちゃんとできているか自信はないんですけれど……","T-To be honest, I'm not sure I'm as good at it as everyone else..."
+0000000000000,プロデューサー,"十分だよ、フォロワーだって増えてきてるしさ
+真乃の思うように、真乃のペースで続けてくれたらいい","The increase in your follower count is proof enough that you're doing fine, Mano. Just keep doing what you've been doing, in the way that suits you best."
+0000000000000,プロデューサー,他にも何か、真乃から話はあるか,"Anyway, was there anything else you wanted to talk about?"
+1001004010080,真乃,"いえ……っ
+今日はこれだけです……っ","No... not at the moment, no."
+0000000000000,プロデューサー,"そうか、ありがとう
+じゃあ、俺からもいいかな","Alright. Then there's one more thing from my side, if you don't mind."
+0000000000000,プロデューサー,真乃に仕事のことで相談があって,There's a job offer I'd like to discuss with you.
+1001004010090,真乃,はい……っ,Okay...!
+0000000000000,プロデューサー,"動物バラエティ番組から
+真乃にオファーが来ているんだ","We recently received an offer specifically addressed to you, from an animal-related variety show."
+0000000000000,プロデューサー,"飼育体験をしながら、
+生き物のリポートをするっていうコーナーで",They've got a recurring segment on the show where a reporter experiences what it's like to take care of various living creatures.
+0000000000000,プロデューサー,"今回、花鳥園でのリポートを
+真乃にやってほしいって","They want to tape at a bird park next, with you as the reporter."
+1001004010100,真乃,ほわぁ……花鳥園でリポート……,"Hwa... 
+Reporting from a bird park..."
+0000000000000,プロデューサー,"ワンマンライブも控えてて、レッスンだ打ち合わせだって
+立て込んでる中だけど、どうだろうか","You've got a pretty packed schedule of lessons and meetings as it is, what with the stand-alone concert coming up. What do you think?"
+0000000000000,プロデューサー,"もちろん、ワンマンに集中する……
+という意味で今回は断ることもできる","Obviously, if you want to decline and focus on the concert, that's fair."
+0000000000000,プロデューサー,"でも、もし真乃がやりたいって思うなら
+俺はサポートを惜しまないよ","On the other hand, if you do want to take on this opportunity, rest assured I won't spare any effort to make it work."
+1001004010110,真乃,"……わ、私、その……
+やって、みたいです","I, uhm... I'd like to give it a shot."
+1001004010120,真乃,"……鳥さんとのお仕事なので
+やりたいなっていう気持ちも大きいんですけれど……","The fact that I'll get to work with birds is a big part of that, of course..."
+1001004010130,真乃,"いろんなお仕事を通して
+ファンのみなさんとちょっとでもつながれたら……",But I also want to try lots of different ways to reach out to my fans.
+0000000000000,プロデューサー,"──よし、わかった
+じゃあ、受ける方向で返事をしておくよ","──Gotcha.
+I'll let them know you're accepting the offer, then."
+0000000000000,プロデューサー,"これからますます忙しくなるな
+スケジュール調整は任せてくれ","Busy days ahead, huh. 
+I'll rearrange your personal schedule where needed."
+0000000000000,プロデューサー,頑張ろうな,"Alright, let's do this!"
+1001004010140,真乃,"……はい……っ
+精一杯、頑張ります……っ","Y-Yes...!
+I'll give it my best shot!"
+1001004010150,真乃,"ワンマンライブも、リポートのお仕事も……っ
+だから……","Both the stand-alone concert and the reporter job...!
+So..."
+1001004010160,真乃,"だから、プロデューサーさん
+私のこと、見守っていてくれますか……？","So, Producer-san...
+Will you please watch over me?"
+0000000000000,プロデューサー,"ああ
+もちろんだよ、真乃","You bet I will, Mano."
+info,produce_events/100100401.json,
+Translator,Pluie,
