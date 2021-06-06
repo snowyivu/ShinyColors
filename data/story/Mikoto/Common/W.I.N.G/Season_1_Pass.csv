@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,──美琴、一次審査突破したよ,"──Mikoto, we've passed the first season!"
 7025001010010,美琴,"…………！
 ……そう、よかった……","......!
-... I see, I'm glad..."
+...I see, I'm glad..."
 0000000000000,プロデューサー,"はは、意外だな
 そんなに心配だったか？","Haha, I'm surprised by you.
 Were you worried about this?"
@@ -12,7 +12,7 @@ Were you worried about this?"
 skills being so good to start with, it's a natural result."
 0000000000000,プロデューサー,"美琴くらい実力があれば、
 この先も心配する必要ないよ",Anyone as skilled as you has little need to worry about the future.
-7025001010030,美琴,…………プロデューサー,...... Producer.
+7025001010030,美琴,…………プロデューサー,......Producer.
 7025001010040,美琴,"この世界、当たり前のことなんて
 ひとつも無いと思うの","In this world, you can't expect anything to happen naturally."
 7025001010050,美琴,"昨日できたことが、
@@ -26,18 +26,18 @@ To be judged and appreciated fairly..."
 こうして、サポートしてもらえることだって","For there to be someone cheering you on, to have people supporting you..."
 7025001010090,美琴,"私は、当たり前のことだとは思ってない
 ……そうじゃないって、知っているの","I can't trust they'll always be there.
-... This, I know all too well."
+...This, I know all too well."
 7025001010100,美琴,"だから、ありがとうプロデューサー
 一次審査突破、すごく嬉しい","So for this, thank you, Producer.
 I'm so very happy to have made it through the first season."
 0000000000000,プロデューサー,"ああ、そうだよな
 美琴の言うとおりかもしれない","I get it; you're welcome.
 And you might be right about what you said."
-7025001010110,美琴,……うん,... Yeah.
+7025001010110,美琴,……うん,...Yeah.
 0000000000000,プロデューサー,"美琴が毎日積み重ねてる努力も
 当たり前のことなんかじゃないもんな","The effort you give every single day──
 I'm not going to take it for granted."
-0000000000000,プロデューサー,……頑張ってくれてありがとう、美琴,"... Thank you for giving it your all, Mikoto."
+0000000000000,プロデューサー,……頑張ってくれてありがとう、美琴,"...Thank you for giving it your all, Mikoto."
 0000000000000,プロデューサー,『W.I.N.G.』一次審査、突破、おめでとう！,And congrats on passing the first season of W.I.N.G.!
 info,produce_events/702500101.json,
 Translator,alice,

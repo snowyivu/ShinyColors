@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000,プロデューサー,"咲耶、何を見てるんだ？
+……その動画、今話題になってるアイドルのだな","Sakuya, what are you watching...? That's... the video of the idol we were talking about."
+1006001001510010,咲耶,"ああ、プロデューサーか
+うん。彼女の姿には、とても惹かれるものがあるね","Oh, Producer? Yeah. There's something really striking about her appearance."
+1006001001510020,咲耶,"……ねえ、プロデューサー
+アイドルの魅力とは、一体なんだろうか","...hey, Producer. When it comes to idols, what's their general appeal?"
+0000000000000,プロデューサー,そうだな、アイドルの魅力はやっぱり……,"Well you see, the general appeal of idols..."
+select,,本人の楽しそうな姿,"Their happy
+appearance"
+select,,いいパフォーマンス,"A good
+performance"
+select,,見た目,Their looks
+1006001001510030,咲耶,"楽しむこと、か……
+自分が楽しければ相手も楽しい","Enjoying themselves, huh...? If they're enjoying themselves, you'll enjoy it as well."
+1006001001510040,咲耶,"なるほど。アイドルも、人との仲も
+同じようなものかもしれないね",I got you. Seems that both idols and building relationships with others are similar in that way.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1006001001510050,咲耶,"ファンが求めるさらに上のパフォーマンス、か
+フフ。気が引き締まるね","The fans are searching for an even better performance, huh? Fufu. I'm feeling the pressure."
+1006001001510060,咲耶,"プロデューサー、早速レッスンをお願いしたい
+共に高みを目指そうじゃないか","Producer, I'd like a lesson right away. Let's aim even higher together."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1006001001510070,咲耶,"そうだね。外見の美しさだけじゃなく、
+動きや言葉なんかも重要だ","Is that so. Not only their outward appearance and beauty, but also the way they move and talk is important."
+1006001001510080,咲耶,"人に見られているという自覚を常に持たないといけない
+……私も、もっと気を付けないといけないかな",You always have to keep in mind that others are watching you... I need to keep that in mind more as well.
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100600100151.json,
+Translator,,

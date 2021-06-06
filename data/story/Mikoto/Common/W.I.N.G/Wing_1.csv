@@ -2,11 +2,11 @@ id,name,text,trans
 0000000000000,プロデューサー,────え……,──Hm...
 0000000000000,プロデューサー,"レッスン室、
 まだ明かり点いてるな",The lesson room is still lit up.
-0000000000000,プロデューサー,……こんな時間まで……,"... At this hour, though...?"
+0000000000000,プロデューサー,……こんな時間まで……,"...At this hour, though...?"
 0000000000000,プロデューサー,"…………
 出ない……","......
 No answer..."
-0000000000000,プロデューサー,…………美琴,... Mikoto.
+0000000000000,プロデューサー,…………美琴,...Mikoto.
 1025001020010,美琴,────……,──...
 0000000000000,プロデューサー,美琴！,Mikoto!
 1025001020020,美琴,"……！
@@ -19,11 +19,11 @@ You scared me."
 0000000000000,プロデューサー,"さっき、
 電話もしたんだけど","I called you not too long ago, but..."
 1025001020040,美琴,"そうだったの？
-ごめんね、ずっとスマホ見ていなかったから","You did? I'm sorry, I haven't looked at my phone for a good while."
+ごめんね、ずっとスマホ見ていなかったから","You did? I'm sorry, I haven't looked at my phone for a
+good while."
 0000000000000,プロデューサー,"……美琴、
-今日は何時頃から練習してたんだ？","... Say, Mikoto...
-About what time did you start practicing today?
-"
+今日は何時頃から練習してたんだ？","...Say, Mikoto...
+What time did you start practicing today?"
 1025001020050,美琴,"え？　んー……
 今日は昼過ぎからしかレッスン室が空いていなくて","Oh? Hmー...
 Today, the lesson room only emptied out after noon."
@@ -34,61 +34,75 @@ Today, the lesson room only emptied out after noon."
 0000000000000,プロデューサー,それで寄ったんだけど,That's why I came back up.
 1025001020070,美琴,…………？,......?
 0000000000000,プロデューサー,"美琴、ほとんど毎日深夜まで……
-いや、明け方くらいまで練習してる日もあるだろ？","Mikoto, it's every day, basically until midnight... No, there are even days you practice until dawn, aren't there?"
+いや、明け方くらいまで練習してる日もあるだろ？","Mikoto, it's every day, basically until midnight...
+No, there are even days you practice until dawn,
+aren't there?"
 1025001020080,美琴,"うん、……もしかしてここのレッスン室
-夜は閉めないといけなかった？","Yeah.. You aren't, by any chance, thinking of closing the lesson room at night, right?"
+夜は閉めないといけなかった？","Yeah.. You aren't, by any chance, thinking of closing
+the lesson room at night, right?"
 1025001020090,美琴,"それなら別に、練習できるスタジオ
-探さないといけないか……","If that was the case, I'd have to find another studio to practice in..."
+探さないといけないか……","If that was the case, I'd have to find another studio
+to practice in..."
 0000000000000,プロデューサー,いいや、そういうことじゃなくて,"Oh, no, that's not what I'm getting at."
 1025001020100,美琴,"……？
 じゃあ、使っていてもいいの？","...?
-Then it's okay for me to use?"
-0000000000000,プロデューサー,……それは、構わないんだけどさ,"... Yeah, that's not a problem, but..."
+Then it's okay for me to use it?"
+0000000000000,プロデューサー,……それは、構わないんだけどさ,"...Yeah, that's not a problem, but..."
 0000000000000,プロデューサー,"美琴はトレーナーさんからも
-指摘するところが無いっていつも言われてるだろ？","Mikoto, do the trainers ever even tell you there's anything you could improve upon?"
+指摘するところが無いっていつも言われてるだろ？","Mikoto, do the trainers ever even tell you there's
+anything you could improve upon?"
 0000000000000,プロデューサー,"ダンスも歌も、覚えるのが早いし
 正直、今すぐにステージに立っても問題無いくらいだ","You learn routines and songs really fast.
-Honestly, you have no problems in being on stage right now."
+Honestly, you'd have no problem going on stage right now."
 1025001020110,美琴,…………,......
 0000000000000,プロデューサー,"練習熱心なのは良いことだし、
-もっと上手くなりたいっていう姿勢は素晴らしいと思う","It's great that you have such a zeal for practice, and I feel your attitude about continuing improvement is stellar."
+もっと上手くなりたいっていう姿勢は素晴らしいと思う","It's great that you have such a zeal for practice, and
+I feel your attitude about continuous improvement
+is stellar."
 0000000000000,プロデューサー,"でも、焦ったり無理したりしなくても
-美琴は充分──……","However, you're already above par, even without worrying and overworking yourself like this──..."
+美琴は充分──……","However, you're already above par, even without worrying
+and overworking yourself like this──..."
 1025001020120,美琴,"昨日できたことが、
-今日絶対にできるとは限らない",What you could do yesterday is not always what you can do today.
+今日絶対にできるとは限らない","What you could do yesterday is not always what you
+can do today."
 1025001020130,美琴,"だから、毎日、毎日
 同じように練習するの","That's why, day in, and day out──
 I'll practice all the same."
-1025001020140,美琴,それが本当に、できるってことだと思うから,"To always have today be that day, this is what I feel I have to do."
+1025001020140,美琴,それが本当に、できるってことだと思うから,"To always have today be that day, this is what I feel
+I have to do."
 0000000000000,プロデューサー,"…………だけど、
-たまにはちゃんと休んでほしいよ","... I get you, but please do take a good rest every once in a while."
+たまにはちゃんと休んでほしいよ","...I get you, but please do take a good rest every
+once in a while."
 0000000000000,プロデューサー,プロデューサーとしてはさ,I ask as your producer.
 1025001020150,美琴,──10年間、ずっとこうしてきたのに？,──Haven't I been doing this for ten years?
 1025001020160,美琴,"前の事務所にいた時は、毎日こうしてた
 周りの子たちも、みんな","It was the same, each day, in my old workplace.
 The girls around me then, and everyone else, too."
 1025001020170,美琴,"そのくらい、難しくて
-切実な夢だと思うから",Maybe it was because it was such a particular and pressing dream of ours.
+切実な夢だと思うから","Maybe it was because it was such a particular and
+pressing dream of ours."
 1025001020180,美琴,自分のなりたい、アイドルになるってことは,"I want to be myself, a self made of an idol."
 0000000000000,プロデューサー,………………,.........
 1025001020190,美琴,"心配しなくても大丈夫
 体調管理には気をつけてる","There's no need to worry.
 I'm careful about managing my physical condition."
-0000000000000,プロデューサー,……そうか,... I see.
+0000000000000,プロデューサー,……そうか,...I see.
 1025001020200,美琴,それに、私……,To me...
 1025001020210,美琴,"歌とか、ダンスとか……パフォーマンスで
-みんなに感動を与えるようなアイドルになりたいから",With my singing and dancing... I want to be an idol that truly moves everyone who sees my performances.
-1025001020220,美琴,……そうなれるなら、死んだっていいの,... I'd die happy if I could do that.
-select,,……わかった,... I understand.
-select,,……ダメだよ,... No good.
-select,,……仕方ないな,"... If I can't
+みんなに感動を与えるようなアイドルになりたいから","With my singing and dancing... I want to be an idol that
+truly moves everyone who sees my performances."
+1025001020220,美琴,……そうなれるなら、死んだっていいの,...I'd die happy if I could do that.
+select,,……わかった,...I understand.
+select,,……ダメだよ,...No good.
+select,,……仕方ないな,"...If I can't
 change your
 mind..."
 0000000000000,プロデューサー,"そこまで言うなら
 まずは美琴が思うように、やってみてくれ","If you want to go that far...
 I'm fine to see you try your ideas first."
 0000000000000,プロデューサー,"ただし体調管理には
-今まで以上に気をつけること！",But only if you also watch your physical condition above all else!
+今まで以上に気をつけること！","But only if you also watch your physical condition
+above all else!"
 1025001020230,美琴,"……うん、わかってる
 ありがとう","...Yeah, I can agree to that.
 Thank you."
@@ -96,25 +110,26 @@ Thank you."
 少し、優しすぎるけど","283Pro is a nice place to work.
 Possibly a little too nice."
 0000000000000,プロデューサー,"そんなふうに言ったら
-きっと美琴のファンが悲しむ","To say such a thing...
-Undoubtedly, your fans would be despondent to hear it."
+きっと美琴のファンが悲しむ",To say such a thing... I'm sure your fans would be despondent to hear it.
 0000000000000,プロデューサー,"美琴だって、応援してくれてる人を
-悲しませるのは本意じゃないだろ？","I don't think it's your intent to make everyone who supports you sad, right? "
+悲しませるのは本意じゃないだろ？","I don't think it's your intent to make everyone who
+supports you sad, right? "
 1025001020250,美琴,"そうだね
-それは一番したくないことだから、どうしよう","That's true. That's the last thing I'd ever want to do.
-So what's to be done?"
-1025001020260,美琴,……困っちゃうな,... I'm at a loss.
+それは一番したくないことだから、どうしよう","That's true. That's the last thing I'd ever want to
+do. So what's to be done?"
+1025001020260,美琴,……困っちゃうな,...I'm at a loss.
 0000000000000,プロデューサー,"アイドルのスケジュール管理も
-体調管理も、プロデューサーの仕事でもあるからな","It's my job to not only manage your schedule, but also watch out for your physical condition, too."
+体調管理も、プロデューサーの仕事でもあるからな","It's my job to not only manage your schedule, but also
+watch out for your physical condition, too."
 0000000000000,プロデューサー,"美琴が無理しすぎないように、それで
 毎日納得いくまで練習できるように、考えてみるよ","So you can't just push yourself to your limits.
-We'll have think of an agreeable way for you to practice every day how you like.
-"
+We'll have think of an agreeable way for you to
+practice every day until you're satisfied."
 1025001020270,美琴,"……本当？
-嬉しい、ありがとう","... Really? 
+嬉しい、ありがとう","...Really? 
 I'm happy, then. Thank you."
 1025001020280,美琴,"それなら、もっと頑張らないとね
 ……私には、これしかないんだから","All I can do is work my hardest for this.
-... Because this is all I have."
+...Because this is all I have."
 info,produce_events/102500102.json,
 Translator,alice,

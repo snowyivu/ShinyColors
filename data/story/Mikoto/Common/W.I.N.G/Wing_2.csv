@@ -6,7 +6,7 @@ First time seeing you in a while!"
 ２８３プロの所属になったので、またお願いします","Ah, nice to see you again. 
 I'm with 283Pro now, so please look out for me again."
 0000000000000,プロデューサー,"……２８３プロです
-よろしくお願いします！",... We're 283Pro. We look forward to working with you!
+よろしくお願いします！",...We're 283Pro. We look forward to working with you!
 0000000000000,スタイリスト,"──わ、え、美琴さん！？
 こんな所で会うなんて！","──Wow, wh- Mikoto-san!?
 I never thought I'd see you here!"
@@ -26,17 +26,19 @@ What do you mean, Producer?"
 普通だと思うけど……","Really?
 I feel it's fairly normal..."
 0000000000000,プロデューサー,"いや、驚いたよ
-俺のほうが紹介してもらう感じになってるもんな……","No, it's definitely surprising. It almost feels like I'm the one who needs to be introduced to you..."
+俺のほうが紹介してもらう感じになってるもんな……","No, it's definitely surprising. It almost feels like I'm
+the one who needs to be introduced by you..."
 1025001030060,美琴,"それでもいいんじゃない？
 『２８３プロの緋田美琴』として、挨拶できてるんだし","That's fine too, right?
-I can greet you as ""Aketa Mikoto, of 283Pro."""
+I can greet you as ""Mikoto Aketa's 283Pro Staff."""
 0000000000000,プロデューサー,"それは、まあ
 そうなんだが……","That's... 
 Jeez. You're funny..."
 0000000000000,ディレクター,────あれ、美琴ちゃん？,"──Oh, Mikoto-chan?"
 1025001030070,美琴,…………！,......!
 0000000000000,ディレクター,"えっ、久しぶりじゃん
-どうしたの！？　今日は何？","Wow, it's been a while. What's going on!? What's today for you?"
+どうしたの！？　今日は何？","Wow, it's been a while. What's going on!? What's
+today for you?"
 1025001030080,美琴,"ちょっと打ち合わせと挨拶に来てて……
 今、２８３プロダクションにいるの","We came for some short meetings and introductions...
 I'm with 283Pro now, by the way."
@@ -46,13 +48,14 @@ I'm with 283Pro now, by the way."
 ね、プロデューサー","It's a really recent development.
 Right, Producer?"
 0000000000000,プロデューサー,"はい、２８３プロダクションです
-よろしくお願いします！","Yes, we're 283Production. We look forward to working with you!"
-1025001030100,美琴,……また、よろしくお願いします,... I look forward to working with you again.
+よろしくお願いします！","Yes, we're 283Production. We look forward to working
+with you!"
+1025001030100,美琴,……また、よろしくお願いします,...I look forward to working with you again.
 0000000000000,ディレクター,"うんうん、よろしくね！
 ──あ、そういえば","Yeah, yeah, me too! Hey, speaking of."
 0000000000000,ディレクター,"今日ルカちゃん、隣のスタジオで撮影入ってるよ
-ほらあっちのほう、なーんかピリピリしてるでしょ","Today, Luca-chan has a shoot in the next studio over.
-Can you see how on edge everyone is over there?"
+ほらあっちのほう、なーんかピリピリしてるでしょ","Today, Luca-chan has a shoot in the next studio
+over. Can you see how on edge everyone is over there?"
 1025001030110,美琴,"…………
 ……そうなんだ","......
 Is that so..."
@@ -60,30 +63,33 @@ Is that so..."
 ごめんね、また仕事しよう！","Oh, shoot, I have to go about now!
 Sorry, let's work together again some time!"
 0000000000000,プロデューサー,"はい、緋田のこと
-引き続きよろしくお願いします……！","Yes, thank you for your ongoing support for Aketa-san...!"
+引き続きよろしくお願いします……！","Yes, thank you for your ongoing support for
+Aketa-san...!"
 1025001030120,美琴,…………,......
-0000000000000,プロデューサー,……美琴？,... Mikoto?
+0000000000000,プロデューサー,……美琴？,...Mikoto?
 1025001030130,美琴,"あ、ごめんね
-もう行こうか、結構いろんな人に会えたし","Oh, sorry. Let's move on, we've greeted a good amount of people."
+もう行こうか、結構いろんな人に会えたし","Oh, sorry. Let's move on, we've greeted a good
+amount of people."
 0000000000000,プロデューサー,"ああ、うん、そうだな
 今日はこのへんで──……","Oh, yeah, alright. That's good enough for today──..."
 1025001030140,？？？,────美琴……？,──Mikoto...?
-1025001030150,美琴,…………ルカ,...... Luca.
+1025001030150,美琴,…………ルカ,......Luca.
 1025001030160,ルカ,"美琴……
 ……なんで、こんなところに…………",Mikoto... Why are you here...?
 1025001030170,美琴,"私今、２８３プロダクションにいるの
 だから仕事、しに来ただけ",I'm with 283Production now. I just came for work.
 1025001030180,ルカ,"……！
 ………………ははっ……あはは！","......!
-......... Hahah.... Ahahah!"
+.........Hahah....Ahahah!"
 1025001030190,ルカ,"そうかよ……？
 そこまでして…………ははっ","Is that really so...?
 So that's where you've been...... Hahah."
 1025001030200,美琴,"……何？
-ルカには関係ないでしょ","... What?
+ルカには関係ないでしょ","...What?
 It has nothing to do with you."
 0000000000000,スタッフ,"──い、斑鳩さん、すみません……！
-そろそろ撮影、お願いしてもよろしいでしょうか……！","─I-Ikaruga-san, excuse me...! It's about time for the shoot, if you would kindly...?"
+そろそろ撮影、お願いしてもよろしいでしょうか……！","─I-Ikaruga-san, excuse me...! It's about time for the
+shoot, if you would kindly...?"
 1025001030210,ルカ,…………チッ,......Tch.
 1025001030220,美琴,………………,......
 1025001030230,ルカ,ふざけんなよ……！,Such bullshit.
@@ -96,7 +102,7 @@ select,,さっきの子って……,"That girl,
 earlier..."
 0000000000000,プロデューサー,まだ、話の途中だったみたいだから,It seemed like that was cut short.
 1025001030250,美琴,"……いいの
-それより、このままレッスン室に向かってくれる？","... It's fine. 
+それより、このままレッスン室に向かってくれる？","...It's fine. 
 From here, could you take me to the lesson room?"
 0000000000000,プロデューサー,"えっ、この後もレッスン室
 予約してるのか？","Huh, you still want to practice after all that?"
@@ -111,7 +117,7 @@ I can wait until you're comfortable."
 また今度でもいい？","Yes, well... 
 Maybe another time, I can?"
 1025001030290,美琴,"その話
-すごく、長くなりそうだから","That story,
+すごく、長くなりそうだから","That story...
 It's a very, very long one."
 1025001030300,美琴,"プロデューサー
 知らないわけじゃないでしょ？","Producer... You don't know of her, right?"
