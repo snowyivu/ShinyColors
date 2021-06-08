@@ -63,10 +63,14 @@ id,name,text,trans
 きちんと反映して作りたいんだろうなぁ）",(She really wants to make them blue and her mind is deadset on that color.)
 0,プロデューサー,（だとしたら──）,"(What should I say.) "
 select,,"色で分けると
-いいかもな",Maybe it would be better if you divided the colors.
+いいかもな","Maybe it would be
+better if you divided
+the colors."
 select,,"サイズごとに
-したらどうだ？","How about doing it by size instead? "
-select,,メインを決めよう！,Let's go with your main idea!
+したらどうだ？","How about doing it
+by size instead? "
+select,,メインを決めよう！,"Let's go with
+your main idea!"
 2009007030300,果穂,色、ですか？,"The colors? "
 0,プロデューサー,"そうそう。ビーチグラスって、
 同じに見えても、少しずつ色味が違うだろ？","That's right. Even though the beach glasses appear to look the same, their little color shades make them different from each other, right? "

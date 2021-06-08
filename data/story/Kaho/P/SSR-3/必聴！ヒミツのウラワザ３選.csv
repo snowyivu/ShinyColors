@@ -49,9 +49,11 @@ id,name,text,trans
 2009007040170,果穂,新しい策ですか……！？,"A whole new strategy!? "
 0,プロデューサー,"ああ
 えっとな──","Ah yes, that would be..."
-select,,裏技を使おう！,"Let's use a secret move! "
+select,,裏技を使おう！,"Let's use a
+secret move! "
 select,,"メニュー
-貸してくれるか？","Can you lend me the menu? "
+貸してくれるか？","Can you lend
+me the menu? "
 select,,休憩しよう！,"Let's take a break! "
 0,プロデューサー,──ここに、コーヒーフレッシュがある,Here is some coffee fresh.
 2009007040180,果穂,"？

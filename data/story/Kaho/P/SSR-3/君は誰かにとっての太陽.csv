@@ -71,10 +71,14 @@ id,name,text,trans
 2009007010180,果穂,はい！,"Yep! "
 0,プロデューサー,……そういえば──,Speaking of which...
 select,,"お子様ランチの
-どこが好きなんだ？","Which kid's lunch do you like the most? "
+どこが好きなんだ？","Which kid's lunch
+do you like
+the most? "
 select,,"お子様ランチを
-選んだのって……","Why did you choose this kid's lunch? "
-select,,量は足りそうか？,"Will that be enough to fill you? "
+選んだのって……","Why did you choose
+this kid's lunch? "
+select,,量は足りそうか？,"Will that be enough
+to fill you? "
 2009007010190,果穂,どこが……,Which one I like the most...
 2009007010200,果穂,考えたことありませんでした……！,I can't think of one!
 0,プロデューサー,そうなのか？,Are you sure?

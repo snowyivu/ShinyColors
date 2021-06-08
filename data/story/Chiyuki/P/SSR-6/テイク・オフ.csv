@@ -2,7 +2,7 @@ id,name,text,trans
 2016013030010,千雪,"…………
 …………♪",......♪
 0000000000000,プロデューサー,"あ、それ……さっきタクシーでかかってた曲だな
-空港に好きな人を迎えに行く歌だっけ","Ah, isn't that... the song that was playing in the taxi earlier? The one about going to pick someone up at the airport."
+空港に好きな人を迎えに行く歌だっけ","Ah, isn't that... the song that was playing in the taxi earlier? The one about picking up someone you love at the airport."
 2016013030020,千雪,"ええ、思い出の曲なんです
 高校生の頃作ったプレイリストに入ってて……","Yeah, it's a memorable song. It was on a playlist that I made when I was in high school..."
 2016013030030,千雪,"ふふっ、ちょうど旅行の前の晩だったんです
@@ -12,11 +12,11 @@ id,name,text,trans
 2016013030050,千雪,"リスト作りに熱中しちゃって、肝心の旅行、
 初日は少し眠かったなって、思い出してました",I was so absorbed in making that list that I was a little sleepy on the first day of the actual trip.
 0000000000000,プロデューサー,"わかる気がするよ
-学生の頃の夜ふかしって、妙にはかどるんだよな……","I feel like I understand. As a student, you can oddly make good progress when staying up late at night..."
+学生の頃の夜ふかしって、妙にはかどるんだよな……","I feel like I understand. As a student, you can oddly get a lot done when staying up late at night..."
 0000000000000,プロデューサー,なんでだろうな？,I wonder why?
 2016013030060,千雪,不思議ですよね,"It's strange, isn't it?"
 2016013030070,千雪,"みんな寝静まってる夜中に、
-そっと起きてて、何かに没頭していく、なんていうか──","In the middle of the night, while everyone else is sleeping, I quietly stay awake, get absorbed in something, it feels kind of──"
+そっと起きてて、何かに没頭していく、なんていうか──","In the middle of the night, while everyone else is sleeping, I quietly stay awake and get absorbed in something... It feels kind of──"
 2016013030071,千雪＆プロデューサー,昂揚感？,Exhilarating?
 2016013030080,千雪,あ──,Ah──
 0000000000000,プロデューサー,"ハッピーアイスクリーム！
@@ -47,26 +47,30 @@ id,name,text,trans
 これ食べながらめくろう","Ah, I'll get it. Let's flip through it while we're eating."
 2016013030150,千雪,はい……！,Alright...!
 2016013030160,千雪,"表紙を見てるだけでも
-色んな式があるんだなって……驚いちゃいますね","Just from looking at the cover, there are various types of styles available... how surprising."
+色んな式があるんだなって……驚いちゃいますね","Just from looking at the cover, there are various types of locations available... how surprising."
 2016013030170,千雪,"結婚式場と、有名ホテル……神社、教会……
 貸しスペース、レストラン、それから……","Wedding halls, famous hotels... shrines, churches... rental spaces, restaurants, and also..."
 0000000000000,プロデューサー,"こんなに選択肢があるのは楽しいだろうけど、
 迷って大変かもしれないなぁ……","It's fun to have so many options to choose from, but it's easy to get lost looking through them..."
 2016013030180,千雪,"ふふっ、わかります
-私も最後の二択とかで、すっごく悩んじゃうだろうなぁ……","Fufu, I get that. I'll definitely have a hard time choosing between the last two..."
+私も最後の二択とかで、すっごく悩んじゃうだろうなぁ……","Fufu, I get that. I'd definitely have a hard time choosing between the last two..."
 2016013030190,千雪,"プロデューサーさんはどうです？
 惹かれるもの、ありました……？","What about you, Producer-san? Did you find one that you were attracted to...?"
 0000000000000,プロデューサー,"え？
 うーん────",Eh? Um──
 select,,"海辺の
-チャペルかな？",Maybe the chapel by the sea?
+チャペルかな？","Maybe the chapel
+by the sea?"
 select,,"こぢんまりした
-内輪のパーティ",The small private party.
+内輪のパーティ","The small private
+party."
 select,,"千雪の号を
-見てからかな",Maybe after seeing the issue that Chiyuki appears in.
+見てからかな","Maybe after seeing
+the issue that
+you're in."
 2016013030200,千雪,あ、表紙のロケ地ですね？,"Ah, that's the location on the cover, right?"
 0000000000000,プロデューサー,"そうそう、海側がガラス張りになってるやつ……
-なんとなく、一生の思い出になりそうだなってさ","That's right, the one with the glass wall facing the ocean side... somehow, it feels like it'd be a memory of a lifetime."
+なんとなく、一生の思い出になりそうだなってさ","That's right, the one with the glass wall facing the ocean side... somehow, it feels like it'd be the memory of a lifetime."
 2016013030210,千雪,インパクトがありますよね,It sure has an impact huh.
 2016013030220,千雪,"モデルさんの表情とか、
 海に向かって誓いを捧げるような雰囲気も素敵……","The expression of the model and the atmosphere, as though she's making a vow to the sea, is wonderful..."
@@ -88,15 +92,15 @@ select,,"千雪の号を
 千雪もそう思うか？","Ohh. You think so too, Chiyuki?"
 2016013030270,千雪,ええ……,Yes...
 2016013030280,千雪,"プロデューサーさんも
-その場にいてくださったら、って思います……！",I hope that Producer-san will be there as well...!
+その場にいてくださったら、って思います……！",I hope that you will be there as well...!
 0000000000000,プロデューサー,"千雪の広告を見たらきっと、
-あ、この形がいいって思うだろうからさ","I'm sure if you saw Chiyuki's advertisement, you'd think, ""Ah, she has a nice appearance."""
+あ、この形がいいって思うだろうからさ","I'm sure if someone saw your advertisement, they'd think, ""Ah, she looks really good here."""
 0000000000000,プロデューサー,"衣装合わせで着たドレスも似合ってたしさ
-ロケと、CMの出来上がりも楽しみにしてるぞ",And you'll think that the dress she wore to the outfit fitting session looks good on her. You'll look forward to seeing her on the shooting location and in the finished commercial.
+ロケと、CMの出来上がりも楽しみにしてるぞ",I think the dress you wore to the outfit fitting session looked good on you. I look forward to seeing the shooting and the finished commercial.
 2016013030290,千雪,……ありがとうございます,...Thank you very much.
 2016013030300,千雪,はい……！,Alright...!
 2016013030310,千雪,"いろんな方に、プロデューサーさんに……
-素敵だなって思ってもらえるように頑張りますね",I'll have to do my best so that... many people and Producer-san will think that I'm wonderful.
+素敵だなって思ってもらえるように頑張りますね",I'll have to do my best so that... you and other people will think that I look just as wonderful.
 2016013030320,千雪,"……ふふっ
 気合い入ってきちゃったなぁ……！",...Fufu. I'm starting to get pumped up...!
 info,produce_events/201601303.json,

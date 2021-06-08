@@ -31,7 +31,7 @@ What's wrong? Is she alright?)"
 Thank goodness, I couldn't contact you by phone, so I got worried."
 1005001020060,摩美々,"あー、すみません電源切れてたみたいですー
 気づきませんでしたぁ","Ahh, sorry about that, 
-it looks like my battery died. I didn't notice."
+It looks like my battery died. I didn't notice."
 0000000000000,プロデューサー,……何かあったわけじゃないのか？,...Did something happen?
 1005001020070,摩美々,"何か、ですかぁ？
 ぼんやりしてたくらいですよー","Something? Not really.
@@ -40,7 +40,7 @@ I was just spacing out."
 そう言ってられるけどな","Spacing out...
 Today is a solo job, so you can say that, but..."
 0000000000000,プロデューサー,"これがもしユニットでの仕事だったら、
-みんなを心配させて、待たせてしまってたんだぞ","If this was an unit job, you would be making everyone worry,
+みんなを心配させて、待たせてしまってたんだぞ","If this was a unit job, you would be making everyone worry,
 not to mention wait."
 1005001020080,摩美々,"……私、時間に間に合ってるのに、
 プロデューサーは、どうしてそんなに焦ってるんですかぁ","...I made it in time, 
@@ -49,8 +49,7 @@ so why is Producer so flustered?"
 ギリギリに来ていいわけじゃないのは、わかるだろ？","There are preparations to make before the shooting, 
 so barely making it on time doesn't cut it, you get that?"
 0000000000000,プロデューサー,"スタッフさんたちは１時間も前から準備してたんだから
-あとで一言謝っておくんだ","The staff people are making preparations since about an hour ago, 
-so make sure to apologize to them later."
+あとで一言謝っておくんだ","The staff people have been making preparations since about an hour ago, so make sure to apologize to them later."
 1005001020090,摩美々,"……そこまで言うならぁ、考えておきますねー
 それより、準備しなくていいんですかぁ？","...If you put it like that, I'll have to think about it.
 That aside, shouldn't I be getting ready?"
@@ -60,7 +59,7 @@ Ok, for starters, let's go with the makeup artist."
 1005001020100,摩美々,はぁい,Suuure.
 0000000000000,プロデューサー,"（最初はどうなることか不安だったが……
 順調すぎて驚くな。カメラマンさんの受けもよさそうだ）","(I was worried at the beginning but...
-it's going unexpectedly well. The cameraman also approves of her.)"
+It's going unexpectedly well. The cameraman also approves of her.)"
 0000000000000,カメラマン,"摩美々ちゃん、いい感じだよー
 じゃあ、次はカッコいいポーズお願いっ！","Mamimi, that's good.
 Now, give me a cool pose!"
@@ -81,11 +80,11 @@ Don't hold back and just say it, ok?"
 摩美々には、欠けているものがあると思うんだ","...That's right. It was certainly good, 
 but I think that Mamimi is still lacking in some aspects."
 select,,謙虚さが欠けてる,"You are lacking
-modesty"
+modesty."
 select,,一生懸命さが足りない,"You're lacking
-hard work"
+hard work."
 select,,可愛げがない,"You lacked
-cuteness"
+cuteness."
 0000000000000,プロデューサー,謙虚さが欠けている,You are lacking modesty.
 1005001020150,摩美々,"それ、必要ですー？
 お仕事が上手にできれば、別にいいじゃないですかぁ？","Is something like that necessary?
@@ -98,7 +97,7 @@ you. Newcomers can come and get ready more quickly than anyone else."
 they might not judge you fairly. Be careful with that."
 1005001020160,摩美々,"ふふー
 私、そんなこと言われたの初めてですー","Fufu～
-It was the first time I was told something like that."
+That's the first time I've been told something like that."
 1005001020170,摩美々,"アイドルの世界っていろいろと、大変ですねー
 みんな、そんなこと気にしてるんですかぁ？","The world of idols sure is a pain.
 Does everyone have to pay attention to stuff like that?"
@@ -107,7 +106,7 @@ Does everyone have to pay attention to stuff like that?"
 Even though you are a rookie, you are also an idol, right?"
 1005001020180,摩美々,わかってますよー,I knooow.
 0000000000000,プロデューサー,"……とにかく、これからは真面目に、
-謙虚な態度で仕事に挑んでくれるか？","...Anyway, now seriously speaking,
+謙虚な態度で仕事に挑んでくれるか？","...Anyway, now speaking seriously,
 will you approach your work with a humble attitude from now on?"
 1005001020190,摩美々,"んー、私のキャラじゃないと思いますけどー、
 考えておきますねー","Mmm, I don't think it fits my character,
@@ -122,7 +121,7 @@ I can do it just as well as the other girls just by trying normally."
 0000000000000,プロデューサー,"できるできないじゃなくて、意識の問題なんだ
 仕事に気持ちが入ってるかどうかは、見てわかるものだ","It's not a matter of being able to do it or not, it's about awareness. You can tell by looking if someone is putting their feelings into their work or not."
 1005001020220,摩美々,"へぇー、プロデューサーって
-夢見がちな人なんですねー？","Ohh, isn't producer quite the romanticist?"
+夢見がちな人なんですねー？","Ohh, isn't producer quite the romantic?"
 0000000000000,プロデューサー,"資料として先月号の雑誌をもらっているから
 他の子たちがどう写っているかを、今見てみるんだ","I got last month's issue from this magazine as reference.
 Look at how the other girls are portrayed."
@@ -171,7 +170,7 @@ Losing to a similar idol... That might hurt a bit."
 Did you get motivated?"
 1005001020300,摩美々,"私の中からやる気が出たというよりもー
 プロデューサーにやる気、うつされたかもしれませんー","Rather than the motivation coming from myself,
-it feels as like Producer's motivation got
+it feels like Producer's motivation got
 transferred to me."
 1005001020310,摩美々,"プロデューサーがもっともっとやる気を出したら
 私にも可愛げが、芽生えるかもしれませんねー","If Producer gets even more motivated,

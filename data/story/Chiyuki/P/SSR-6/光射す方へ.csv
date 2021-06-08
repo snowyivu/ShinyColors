@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,（水中撮影が、こんなに大変だとはな……）,(I never knew underwater photoshoots could be so difficult...)
 0000000000000,プロデューサー,"（重りを巻きつけながら、
-そんなものはありませんって顔をしなきゃいけないし……）","(She has to be fastened with weights, while making a face suggesting otherwise.)"
+そんなものはありませんって顔をしなきゃいけないし……）",(She has to be fastened with weights while making a face suggesting otherwise.)
 0000000000000,プロデューサー,"（水中眼鏡するわけにはいかないから、何も見えない
 指示されたポーズを取るのも一苦労……）","(She can't wear underwater goggles either, so she can't see anything. It'll be hard for her to pose as instructed...)"
 0000000000000,プロデューサー,"（なのに俺は、モニターの前で見てるだけ……
@@ -25,18 +25,18 @@ id,name,text,trans
 そっちの方が心配で……","Rather, I'm more worried about whether I can properly express this worldview..."
 0000000000000,監督,そこはいい感じよ,It's going well so far.
 0000000000000,監督,"桑山ちゃん、味のあるいい表情してくれるしさ、
-表現にグッと深みが出たよねェ","Kuwayama-chan, you have a charming expression, and your expressiveness has more depth."
+表現にグッと深みが出たよねェ","Kuwayama-chan, you have a charming expression, and your expressiveness has depth."
 2016013040060,千雪,わ……！　恐縮です……,Wow...! I'm flattered...
 2016013040070,千雪,"……その、足りないところは
 もっともっと言っていただけると嬉しいので……！","...Um, I'd be happy if you tell me more about what I'm missing too...!"
 0000000000000,監督,うん、こちらこそありがとね,"Alright, I'm thankful to you as well."
 0000000000000,監督,"桑山ちゃん、ボクの予想より全然動けるから、
-色々、やれることは増えてるよ","Kuwayama-chan, you can move a lot more than I expected, so I think there's a lot more than you can do."
+色々、やれることは増えてるよ","Kuwayama-chan, you can move a lot more than I expected, so I think there's a lot more that you can do."
 2016013040080,千雪,……よかった,...What a relief.
 2016013040090,千雪,"……でしたら監督
 実はひとつ、ご相談があって──","...In that case, director. I actually do have one thing I'd like to discuss──"
 0000000000000,スタッフ,"千雪さんお着替え終わりました！
-カメラさん、泉に入って準備お願いしますー！","Chiyuki-san is done changing! Cameramen, please get in the lake──!"
+カメラさん、泉に入って準備お願いしますー！","Chiyuki-san is done changing! Cameramen, please get in the spring──!"
 0000000000000,プロデューサー,"千雪、さっき監督と何か話してたみたいだけど大丈夫か？
 無理だと感じたことは、断っていいからな","Chiyuki, you looked like you were talking to the director earlier, but are you alright? If you feel that you can't do something, it's fine to refuse them."
 2016013040100,千雪,"大丈夫です、心配かけちゃってすみません
@@ -46,16 +46,16 @@ id,name,text,trans
 一発で、最高のテイクを撮りましょう！","The condition of the dress will get worse with each retake, so let's do it in one shot and make it the best take we can get!"
 2016013040110,千雪,はい！,Got it!
 0000000000000,プロデューサー,"（千雪は度胸が決まってるみたいだ……
-……俺も落ち着いて見守らないとな）",Chiyuki seems to have the courage to do it... I have to keep calm and watch over her too.)
+……俺も落ち着いて見守らないとな）",(Chiyuki seems to have the courage to do it... I have to keep calm and watch over her too.)
 0000000000000,スタッフ,"カメラ、スタンバイＯＫです！
-本番行きますよ、桑山さん……！","Cameras on standby are okay! We're shooting the real thing now, Kuwayama-san...!"
+本番行きますよ、桑山さん……！","Cameras are on standby! We're shooting the real thing now, Kuwayama-san...!"
 2016013040120,千雪,"……それじゃ
-行ってきますね、プロデューサーさん","...Well then, I'll be going off now, Producer-san."
+行ってきますね、プロデューサーさん","...Well then, I'll be going now, Producer-san."
 0000000000000,プロデューサー,"ああ、頑張って
 十分に気を付けてくれ……！","Alright, do your best. Please be very careful...!"
 0000000000000,プロデューサー,──……！？,────......!?
 0000000000000,プロデューサー,"テストと違うじゃないですか……！
-なんであんな深いところまで────",Isn't this different from the test run...! Why is she going in so deep into──
+なんであんな深いところまで────",Isn't this different from the test run...! Why is she going so deep into──
 0000000000000,スタッフ,えっ……？,Eh...?
 0000000000000,プロデューサー,千雪────！,Chiyuki──!
 2016013040130,千雪,"…………
@@ -83,7 +83,7 @@ id,name,text,trans
 光を後ろにまとって見えて、とても美しいと思うんです","I think the composition of turning my back towards the surface of the water, with the light visible behind me, is also very beautiful."
 2016013040190,千雪,でも、なんというか……,"But, somehow..."
 2016013040200,千雪,"光に向かって、手を伸ばす……
-上向きのテイクの方が監督の意図に沿うんだったら","With my hand reaching for the light... If this upward-pointing shot is more in line with the director's intentions, then"
+上向きのテイクの方が監督の意図に沿うんだったら","With my hand reaching for the light... If this upward-pointing shot is more in line with your intentions, then"
 2016013040210,千雪,私も、ぜひそうしたいんです……！,I'd definitely want to do that too...!
 0000000000000,監督,……わかった、それならさ──,"...I understand, in that case──"
 2016013040220,千雪,"ごめんなさい、
@@ -91,10 +91,10 @@ id,name,text,trans
 2016013040230,千雪,"でも、どうしてもやりたくなってしまって……
 ……『その先』に向かって、手を伸ばしたくて","But I really wanted to do it no matter what... I wanted to try reaching for ""beyond that point""."
 0000000000000,プロデューサー,"『その先』……
-いいお言葉が聞けました",Beyond that point... it feels like I heard a good phrase there.
+いいお言葉が聞けました","""Beyond that point""... it feels like I heard a good phrase there."
 0000000000000,プロデューサー,……,......
 0000000000000,プロデューサー,"確かに、事前に話をされてたら、
-きっと俺は止めてたと思う","It's true that if you had told me beforehand, I definitely would've tried to stop it."
+きっと俺は止めてたと思う","It's true that if you had told me beforehand, I definitely would've tried to stop you."
 2016013040240,千雪,"……プロデューサーさん
 ……申し訳ありません……",...Producer-san... I'm sorry...
 0000000000000,プロデューサー,"……でも、カメラの中で起こることに

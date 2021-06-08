@@ -1,35 +1,35 @@
 id,name,text,trans
 0000000000000,プロデューサー,──では、桑山千雪さん,"──Well then, Chiyuki Kuwayama-san."
 0000000000000,プロデューサー,"あなたにとって、結婚とはなんですか？
-一言でお答え下さい",What does marriage mean to you? Please answer it briefly.
+一言でお答え下さい",What does marriage mean to you? Please explain your answer briefly.
 2016013020010,千雪,……はい,...Alright.
 2016013020020,千雪,"一言ですと『やってみないとわからないもの』という
-言葉になるでしょうか","I would say it's ""something you can't understand until you try it"" summarised briefly."
+言葉になるでしょうか","If I were to summarize it briefly, I'd say it's ""something you can't understand until you try it""."
 0000000000000,プロデューサー,"（……確かに、『一言で』とは言ったけど、
-意地悪な反応を引き出しそうな答えだな）","(...I did tell her to answer it ""briefly"", but that answer might draw out a malicious response)"
+意地悪な反応を引き出しそうな答えだな）","(...I did tell her to explain it ""briefly"", but that answer might elicit a malicious response.)"
 0000000000000,プロデューサー,"（本番で言われるより、
-今突っ込んでおいた方がいいか……）",(I guess it might be better to delve into it now than have it said during the actual show...)
+今突っ込んでおいた方がいいか……）",(I guess it might be better to grill her about it now than have it done during the actual show...)
 0000000000000,プロデューサー,"やってみないとわからないもの──
-捨て鉢にも聞こえる言葉ですね",Something you understand until you try── It sounds like a phrase anyone can throw around.
+捨て鉢にも聞こえる言葉ですね",Something you can't understand until you try── It sounds like a phrase anyone could throw around.
 0000000000000,プロデューサー,"結婚情報雑誌のキャンペーンガールは、
-顧客の結婚に対する気持ちをかきたてる仕事です","As a campaign girl for a marriage magazine, your job should encourage its readers to get married."
-0000000000000,プロデューサー,桑山さんのスタンスで、それが可能でしょうか？,"Do you think it's possible with your stance, Chiyuki Kuwayama-san?"
+顧客の結婚に対する気持ちをかきたてる仕事です","As a campaign girl for a marriage magazine, your job is to encourage its readers to get married."
+0000000000000,プロデューサー,桑山さんのスタンスで、それが可能でしょうか？,"Do you think that's possible with your stance, Chiyuki Kuwayama-san?"
 2016013020030,千雪,はい、できると思います,"Yes, I think it's possible."
 0000000000000,プロデューサー,"（先に結論を持ってくるのはオーディション面接の基本だ
 ちゃんと自信のある表情もできている、いいぞ）","(It's basic in an audition interview to bring up the conclusion first. You've got a confident expression, that's good.)"
 0000000000000,プロデューサー,理由をお伺いしてもよろしいですか？,May I ask why you think so?
 2016013020040,千雪,"私は、以前は全く違う種類の職に就いていたので、
-この世界に飛び込む時には、色々な迷いがありました","I used to work in a completely different type of job, so I had a lot of doubts when I dove into this world of idols."
+この世界に飛び込む時には、色々な迷いがありました","I used to work in a completely different type of job, so I had a lot of doubts when I dove into the world of idols."
 2016013020050,千雪,"アイドルというお仕事の苦労は
 本気でやってみるまで、きっとわからない",I never knew how hard it was to work as an idol until I really gave it a try.
 2016013020060,千雪,"でも……何かを大きく動かすためには、
 思いきりをつけて飛ぶことも大事だったんだなって",But... I believed it was important to fly with all my might in order to make a big change.
 2016013020070,千雪,今はそんなふうに感じます,That is the kind of feeling I have right now.
 2016013020080,千雪,"私は既婚者ではありませんが、
-そういう瞬間の価値については、わかるつもりです","I might not be married, but I do understand the value of these kinds of moments."
+そういう瞬間の価値については、わかるつもりです","I might not be married, but I do understand the value of those kinds of moments."
 0000000000000,プロデューサー,結婚も、それと似たようなものだと？,And you think that marriage will be something similar to that?
 2016013020090,千雪,"そうですね
-少し、乱暴な捉え方かもしれませんが……","I do. It might be a bit of a crude view of it, but..."
+少し、乱暴な捉え方かもしれませんが……","I do. It might be a bit of a basic view of it, but..."
 2016013020100,千雪,"不安があっても、相手が腕を広げて待ってくれていれば
 人間は、覚悟を決められるんだって思います","I believe that even if we're anxious about it, if our partner is waiting for us with open arms, any person will be prepared."
 2016013020110,千雪,信じて、飛び込む……,To trust them and dive right in...
@@ -37,7 +37,7 @@ id,name,text,trans
 最後のその思いきりがなければ、今の私はありませんでした","It might have sounded somewhat absurd, but without that last bit of determination, I wouldn't be where I am today."
 0000000000000,プロデューサー,なるほど……,I see...
 0000000000000,プロデューサー,"結婚を考えている人に、そうしたメッセージを伝えたい……
-というのが志望動機であると捉えてもよろしいですか？","Is it correct to say that you'd like this message you conveyed, to people who are thinking of getting married, to be their reason to go for it?"
+というのが志望動機であると捉えてもよろしいですか？",Would it be correct to say that you'd like this message to be the reason for people who are considering getting married to go ahead with it?
 2016013020130,千雪,はい,Yes.
 2016013020140,千雪,"もちろん、
 結婚については、もう少しシンプルな憧れもあります","Of course, when it comes to the idea of marriage, I also have a much simpler aspiration for it."
@@ -56,28 +56,34 @@ id,name,text,trans
 2016013020220,千雪,"おこがましいかもしれませんが、
 そう考えています","It may be a bit presumptuous, but that's how I consider it."
 0000000000000,プロデューサー,テーマを真剣に考えていただいてありがとうございます,Thank you very much for taking the theme so seriously.
-0000000000000,プロデューサー,『その先』……いいお言葉が聞けました,Beyond that point... it feels like I heard a good phrase there.
+0000000000000,プロデューサー,『その先』……いいお言葉が聞けました,"""Beyond that point""... it feels like I heard a good phrase there."
 2016013020230,千雪,あの、はい……！,"Um, thank you...!"
 2016013020240,千雪,"……大げさなものじゃなくて、
 物語の余白みたいなもの、と言いますか……","...I'm not trying to exaggerate, but I just meant it's like the blank margins of a story..."
 2016013020250,千雪,"結婚をしても、しなくても、した後も……
 未来には色んな物語が待っていると思います","Whether you get married or not, and even after you do... I think there will be various stories waiting for you in the future."
 2016013020260,千雪,"私が何かを表現させていただくことで、
-見てくださる方の心に、あり得るかもしれない余白を描けたら","I hope that by letting me showcase something, I can help depict a possible blank margin in the minds of those who see it."
-2016013020270,千雪,そんなふうに思っています,That's how I feel about it.
+見てくださる方の心に、あり得るかもしれない余白を描けたら","I hope that by letting me showcase something, I can help depict a possible blank margin in the minds of those who see the advertisement."
+2016013020270,千雪,そんなふうに思っています,That's how I feel.
 0000000000000,プロデューサー,"わかりました
-……桑山さんの方から、何か質問はありますか？",I understand... Are there any inquiries from Kuwayama-san's end?
+……桑山さんの方から、何か質問はありますか？",I understand... Are there any inquiries from your end?
 2016013020280,千雪,そうですね……,Let's see...
 2016013020290,千雪,"この仕事において、
-御誌が私に求めるものは、どのようなことでしょうか",Could I ask what your magazine is looking for from me in this job?
+御誌が私に求めるものは、どのようなことでしょうか",Could I ask what your magazine is seeking from me for this job?
 2016013020300,千雪,"生意気かもしれませんが、
 それに合わせて、私なりの物語を作れたら……と思いまして","It may seem cheeky to ask that, but I was wondering... if I could create my own story in accordance with your answer."
-0000000000000,プロデューサー,（いろんな意味で、難しい質問が飛んできたぞ……！？）,"(A difficult question, in more ways than one, seems to have flown out of nowhere...!?)"
+0000000000000,プロデューサー,（いろんな意味で、難しい質問が飛んできたぞ……！？）,(A difficult question in more ways than one seems to have flown out of nowhere...!?)
 0000000000000,プロデューサー,（そうだな……）,(Let's see...)
 select,,"桑山千雪さん、
-でしょうか",We are looking for Chiyuki Kuwayama-san.
-select,,優しさや包容力です,We are looking for kindness and receptiveness.
-select,,驚き、でしょうか,We are looking for someone surprising.
+でしょうか","We are looking
+for Chiyuki
+Kuwayama-san."
+select,,優しさや包容力です,"We are looking
+for kindness and 
+receptiveness."
+select,,驚き、でしょうか,"We are looking
+for someone
+surprising."
 0000000000000,プロデューサー,"……今、こうして話してくださっている
 あなた自身であっていただければと思いますよ",...The one that's talking to me right now. I want you to be yourself.
 2016013020310,千雪,"……あの
@@ -105,9 +111,9 @@ select,,驚き、でしょうか,We are looking for someone surprising.
 2016013020540,千雪,"……
 優しさと、包容力ですか",...Kindness and receptiveness huh.
 0000000000000,プロデューサー,"（少し会話の流れからは逸れるけど……
-急に別方向からボールが飛んでくるのも面接だ）",(Although it might deviate from the original flow of the conversation... it might also become an interview where things like these unexpectedly come out of nowhere.)
+急に別方向からボールが飛んでくるのも面接だ）",(Although it might deviate from the original flow of the conversation... it might also become an interview where things like these come out unexpectedly.)
 0000000000000,プロデューサー,"……ええ。そうしたものをお持ちで、
-この仕事の中で展開できるとお考えですか？","...Yes. Do you have such qualities, and think you're able to develop them during this job?"
+この仕事の中で展開できるとお考えですか？","...Yes. Do you have such qualities, and do you think you'd be able to develop them during this job?"
 2016013020370,千雪,"はい……
 その……",About that... Um...
 0000000000000,プロデューサー,"（自分にそういう内面的な魅力がある、って言いきるのは
@@ -140,7 +146,7 @@ select,,驚き、でしょうか,We are looking for someone surprising.
 0000000000000,プロデューサー,"今はまず、色々な方と会いたいと考えています
 この企画に──","First off, I would like to meet various types of people. For this project──"
 0000000000000,プロデューサー,"我々とは違う、新鮮なビジョンをもたらしてくれる方
-……そういう、驚きを感じさせてくれる方に会いたいですね","I would like to meet someone who brings us a fresh vision that is different from our own... in other words, we'd like to meet the kind of person that will surprise us."
+……そういう、驚きを感じさせてくれる方に会いたいですね","I would like to meet someone who brings us a fresh vision that differs from ours... particularly, we'd like to meet someone who will surprise us."
 0000000000000,プロデューサー,あなたは、そうした人物ですか？,Are you that kind of person?
 2016013020470,千雪,……っ,......
 2016013020480,千雪,"それは……
@@ -161,7 +167,7 @@ select,,驚き、でしょうか,We are looking for someone surprising.
 2016013020510,千雪,"……！
 プロデューサーさん……",......! Producer-san...
 2016013020520,千雪,"……ふふっ、でも……
-ちょっと意地悪な目をしたプロデューサーさん、新鮮でした","...Fufu, but... Producer-san with those slightly mean eyes was refreshing."
+ちょっと意地悪な目をしたプロデューサーさん、新鮮でした","...Fufu, but... It was refreshing to see you with those slightly mean eyes."
 2016013020530,千雪,──行ってきますね！,──I'll be off then!
 info,produce_events/201601302.json,
 Translator,Clover,

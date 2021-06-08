@@ -10,7 +10,7 @@ id,name,text,trans
 帰りの便までもう少しあるな",...Alright. We've got a bit more time before our flight back home.
 0000000000000,プロデューサー,こんな時は……,In times like this...
 2016013110020,千雪,ふふっ、同感です,"Fufu, I feel the same way."
-2016013110021,千雪＆プロデューサー,アイス……！,Ice...!
+2016013110021,千雪＆プロデューサー,アイス……！,Ice cream...!
 2016013110022,千雪＆プロデューサー,ははっ、ハッピーアイスクリーム！,"Haha, Happy Ice Cream!"
 0000000000000,プロデューサー,"お、同時だったな……
 千雪、こういう時はどういう判定になるんだ？","Oh, we said it at the same time... Chiyuki, what is your verdict for times like these?"
@@ -21,7 +21,7 @@ id,name,text,trans
 だったら、お互いにごちそうだ","Hahaha, is it fine if I decide? In that case, we should treat each other."
 2016013110050,千雪,賛成です……！,Agreed...!
 2016013110060,千雪,"あ、ちょうどあるんじゃないです？
-ご当地アイスクリームチェーン","Ah, isn't there one just right there? A local ice cream chain."
+ご当地アイスクリームチェーン","Ah, isn't there a local ice cream chain just right there?"
 0000000000000,プロデューサー,"いいじゃないか
 行こう……！",Isn't that just perfect? Let's go...!
 0000000000000,プロデューサー,"お、紅いもアイスも美味そうだな
@@ -30,7 +30,7 @@ id,name,text,trans
 そちらのスプーンでひとさじすくってみませんか？","Fufu, I haven't eaten it yet, so why don't you take a spoonful of it here?"
 0000000000000,プロデューサー,え、いいのか……？,"Eh, is that alright...?"
 2016013110080,千雪,"もちろんです
-そのかわり……",Of course. Instead...
+そのかわり……",Of course. But in return...
 2016013110090,千雪,"その黒糖アイスも、
 ひと口いただけません……？",Can I have a bite of that brown sugar ice cream too...?
 0000000000000,プロデューサー,"ああ、もちろん構わないぞ
@@ -48,21 +48,21 @@ id,name,text,trans
 いちばん美味しい気がするんです、私",I think it feels the most delicious when you stop at the moment you want a little bit more.
 0000000000000,プロデューサー,……なるほど？,...I see?
 2016013110140,千雪,"ふた口三口って食べちゃったら、
-全部欲しくなっちゃうし……","If you only eat two or three mouthfuls, you'll want all of it..."
+全部欲しくなっちゃうし……","If you have two or three mouthfuls, you'll want all of it..."
 2016013110150,千雪,"……なんだか、こういうふうに言っちゃうと
-素直じゃないみたいですね……！","...Somehow, it doesn't feel like I'm being genuine when I put it like that...!"
+素直じゃないみたいですね……！","...Somehow, it doesn't feel like I'm being sincere when I put it like that...!"
 0000000000000,プロデューサー,"うーん
-素直じゃない、か","Yeah. Not being genuine, huh."
+素直じゃない、か","Yeah. Not being sincere, huh."
 0000000000000,プロデューサー,"撮影の時は、
-自分に素直すぎて焦ったけどな……！","During the shooting, I must've been really genuine by being too anxious huh...!"
+自分に素直すぎて焦ったけどな……！","During the shooting, I must've been too sincere by being anxious then...!"
 2016013110160,千雪,"……！
 ごめんなさい、それは……本当に",...! I'm really... sorry about that.
 0000000000000,プロデューサー,"はは、悪い悪い
 もう言いっこなしだ","Haha, sorry. I won't bring it up again."
 0000000000000,プロデューサー,"俺は、すごいと思ったよ
-あんなふうに手を伸ばせること",I thought it was amazing though. To be able to reach out like that.
+あんなふうに手を伸ばせること",I thought it was amazing to be able to reach out like that though.
 0000000000000,プロデューサー,"────余白とか、その先とか
-言ってたよな","──You mentioned things like ""margins"" and going ""beyond that point""."
+言ってたよな","──You mentioned things like ""blank margins"" and going ""beyond that point""."
 0000000000000,プロデューサー,"千雪がそういうものに向かって
 自分を広げていける人だってこと、改めて感じたよ","Once again, I felt like you are someone who can extend yourself towards such things."
 2016013110170,千雪,プロデューサーさん……,Producer-san...
@@ -86,7 +86,7 @@ id,name,text,trans
 0000000000000,プロデューサー,…………？,......?
 2016013110230,千雪,"……その方が、
 美味しい気がしますから……",...Because I think I'd enjoy it more that way...
-2016013110240,千雪,素直じゃないので……！,Don't be so genuine about it...!
+2016013110240,千雪,素直じゃないので……！,"You aren’t being your usual self, so…!"
 0000000000000,プロデューサー,え、おう……,"Eh, alright..."
 2016013110250,千雪,……ふふっ,...Fufu.
 info,produce_events/201601311.json,

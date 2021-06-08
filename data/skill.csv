@@ -56,6 +56,7 @@ $noun＆$noun$percentUP,$1＆$2 $3 UP,
 [$nounが低い程効果UP],[Stronger at Lower $1] ,
 [$nounが少ない程効果UP],[Smaller $1 Effect UP] ,
 [$nounが少ないほど効果UP],[Smaller $1 Effect UP] ,
+[$nounが多い程効果UP],[Stronger with More $1] ,
 [超過分は思い出ゲージに変換],[Excess is converted into Memory Gauge] ,
 トラブル発生率,Trouble Rate,
 必ず最後にアピールを行い,"Always Appeal Last",
@@ -77,6 +78,7 @@ $noun上限,$1 Cap,
 初期絆UP,Start Bonds UP,
 プロデュース開始時に絆,Bonds at Start of Produce,
 （極小）,（V. Small）,
+（小）,（Small）,
 朝コミュ発生率,Morning Commu Rate,
 約束発生率,Promise Rate,
 $nounが$percentUPする効果,$1 Effect Increased $2,
@@ -93,7 +95,6 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
 限定スキルを解放,Unlocked Limited Skills,
 全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
-"ごく매우 드물게 현재의 흥미치에 관련되지 않고 단번에 만족시킨다","﻿Extremely Rare Chance Of Instantly Filling Judge"
 "ごくごく稀に現在の興味値に関わらず一気に満足させる","Extremely Extremely Rare Chance Of Instantly Filling Judge"
 "ごく稀に現在の興味値に関わらず一気に満足させる","Extremely Rare Chance Of Instantly Filling Judge"
 $noun･$noun･$nounUP,$1･$2･$3 UP,
@@ -221,3 +222,5 @@ Viレッスン,Vi Lesson,noun
 リザレクション効果$num％付与,$1% Chance to Resurrect,
 [条件:$nameがライブに参加している場合],[Condition: $1 in Unit],
 [条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position],
+​リラックス効果$num％付与,Grants $1% Relax,text
+全ユニットにリラックス効果$num％付与,Grants All Units $1% Relax,text
