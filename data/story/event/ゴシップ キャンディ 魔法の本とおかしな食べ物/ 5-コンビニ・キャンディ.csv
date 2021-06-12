@@ -5,7 +5,7 @@ it was the crows from the forest who summoned me here."
 0000000000000,プロデューサー,"みんなに呼び出された
 わけじゃないのかもしれないって","So it seems none of you are the reason
 I'm here after all. "
-0000000000000,プロデューサー,図書館で教えてもらったよ,"That’s what we figured out at the library. "
+0000000000000,プロデューサー,図書館で教えてもらったよ,"That's what we figured out at the library. "
 4001029060010,雛菜,"へ～
 そうなんだ","Eh～
 So that's what happened."
@@ -164,7 +164,7 @@ in the material world”"
 0000000000000,プロデューサー,……うん,"...Right. "
 4001029060540,透,"だから、えっと……
 ……あれ、わかんなくなってきた","So, uh… 
-...I didn’t get that before. "
+...I didn't get that before. "
 4001029060550,透,"あっちの世界？　じゃなくて
 こっちの世界にいたのかも","It's not from the other world, 
 it was from this world."
@@ -181,4 +181,4 @@ Fufu."
 4001029060580,透,それなら、グー,If that's the case then―
 4001029060590,透,大成功,"It was a huge success. "
 info,game_event_communications/400102906.json,
-Translator,,
+Translator,EmaP,

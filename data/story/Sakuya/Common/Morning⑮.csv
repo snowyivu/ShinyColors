@@ -4,20 +4,20 @@ id,name,text,trans
 1006001001510010,咲耶,"ああ、プロデューサーか
 うん。彼女の姿には、とても惹かれるものがあるね","Oh, Producer? Yeah. There's something really striking about her appearance."
 1006001001510020,咲耶,"……ねえ、プロデューサー
-アイドルの魅力とは、一体なんだろうか","...hey, Producer. When it comes to idols, what's their general appeal?"
+アイドルの魅力とは、一体なんだろうか","...Hey, Producer. When it comes to idols, what's their general appeal?"
 0000000000000,プロデューサー,そうだな、アイドルの魅力はやっぱり……,"Well you see, the general appeal of idols..."
 select,,本人の楽しそうな姿,"Their happy
-appearance"
+appearance."
 select,,いいパフォーマンス,"A good
-performance"
-select,,見た目,Their looks
+performance."
+select,,見た目,Their looks.
 1006001001510030,咲耶,"楽しむこと、か……
 自分が楽しければ相手も楽しい","Enjoying themselves, huh...? If they're enjoying themselves, you'll enjoy it as well."
 1006001001510040,咲耶,"なるほど。アイドルも、人との仲も
 同じようなものかもしれないね",I got you. Seems that both idols and building relationships with others are similar in that way.
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1006001001510050,咲耶,"ファンが求めるさらに上のパフォーマンス、か
-フフ。気が引き締まるね","The fans are searching for an even better performance, huh? Fufu. I'm feeling the pressure."
+フフ。気が引き締まるね","The fans are searching for an even better performance, huh? Heh. I'm feeling the pressure."
 1006001001510060,咲耶,"プロデューサー、早速レッスンをお願いしたい
 共に高みを目指そうじゃないか","Producer, I'd like a lesson right away. Let's aim even higher together."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"

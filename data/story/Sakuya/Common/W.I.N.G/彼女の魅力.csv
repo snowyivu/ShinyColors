@@ -10,17 +10,17 @@ id,name,text,trans
 プロデューサーがいてくれたからこそだよ",I can't imagine I'd have gotten work like this by myself. Couldn't have done it without you.
 1006001020040,咲耶,だからアナタの期待に応えられるよう、がんばるよ,"So I'll do my best to live up to your expectations, too!"
 0000000000000,プロデューサー,ああ、期待してるぞ！,"Mhm, and I'm looking forward to it."
-1006001020050,咲耶,フフ。ありがとう、プロデューサー,"Haha. Thank you again, Producer."
+1006001020050,咲耶,フフ。ありがとう、プロデューサー,"Heh. Thank you again, Producer."
 1006001020060,咲耶,"……しかし、モデルの経験はあっても
-こうした広告の撮影は初めてだからね","...you know, while I've had experience working as a model, this is my first time doing something for advertising."
+こうした広告の撮影は初めてだからね","...You know, while I've had experience working as a model, this is my first time doing something for advertising."
 1006001020070,咲耶,"広告は自分ではなく
-商品の魅力を伝えることが重要なはず……","It's not just about me, here. I have to make sure I show the power of the product, too..."
+商品の魅力を伝えることが重要なはず……","It's not just about me here. I have to make sure I show the power of the product, too..."
 1006001020080,咲耶,"商品を魅力的に見せるには
 どんなポーズや表情で撮影に臨めばいいのだろうか……","What poses would be best for that, how I should present myself, so many questions..."
 1006001020090,咲耶,プロデューサーは、どう思う？,"What do you think, Producer?"
 0000000000000,プロデューサー,"そうだな。俺は咲耶の魅力が伝われば、
 おのずと商品の魅力も伝えられると思う","Hmm. I think that if we get your appeal across, then the product will sell itself in the process."
-0000000000000,プロデューサー,だから、今日の咲耶は……,"So, today, Sakuya..."
+0000000000000,プロデューサー,だから、今日の咲耶は……,"So, today Sakuya..."
 select,,自然体がいいと思うぞ,"Just be you, 
 and it'll work
 out."
@@ -32,9 +32,9 @@ select,,"女性的な
 ポーズはどうだ？","Why not try to
 go for a more
 feminine touch?"
-1006001020100,咲耶,クス。嬉しいことを言ってくれるね,Hehe. I appreciate the compliment.
+1006001020100,咲耶,クス。嬉しいことを言ってくれるね,Heh. I appreciate the compliment.
 1006001020110,咲耶,"それじゃあ、プロデューサーの言うとおり
-ありのままの私で行ってくるとしよう","Then, Producer, I'll do as you say ── and just be myself!"
+ありのままの私で行ってくるとしよう","Then, Producer, I'll do as you say── And just be myself!"
 0000000000000,プロデューサー,"お疲れ
 初めての広告撮影、どうだった？","Well done!
 How was your first advertising photoshoot?"
@@ -53,12 +53,12 @@ How was your first advertising photoshoot?"
 それに咲耶のカッコよさも際立つしな","Yes!
 That, and it'll help show how cool you are too, Sakuya."
 1006001020180,咲耶,"フフ
-そう言ってもらえると、自信が持てるよ","Haha. Well, I know I can trust you on this."
+そう言ってもらえると、自信が持てるよ","Heh. Well, I know I can trust you on this."
 1006001020190,咲耶,"それじゃあ、プロデューサーの言葉を意識して
 撮影に挑むとしよう","I'll keep your advice in mind, and go for it."
 0000000000000,プロデューサー,"お疲れ！　良い撮影だったな
 女性スタッフが黄色い声を上げてたぞ",Well done! You did great. I heard some of the women in the room squealing over you!
-1006001020200,咲耶,クス、それは光栄だね,"Hehe, what an honor."
+1006001020200,咲耶,クス、それは光栄だね,"Heh, what an honor."
 1006001020210,咲耶,プロデューサーの的確なアドバイスがあったからこそだよ,And I think I have your advice to thank for that.
 0000000000000,プロデューサー,"いや、女性スタッフをあれだけ喜ばせられたのは
 咲耶のクールな魅力があってこそだ","I think you managed to charm those women all by yourself, Sakuya."
@@ -71,12 +71,12 @@ That, and it'll help show how cool you are too, Sakuya."
 I know you'll be up to the challenge, Sakuya!"
 0000000000000,プロデューサー,"今回は化粧品の広告だからな
 女性的な魅力を押し出した方がいいだろう","Since this is a cosmetics ad, why not go for showing off a more feminine side of yourself?"
-1006001020240,咲耶,色っぽい……女性的、か……,"A little more... womanly and sexy, hmm..."
+1006001020240,咲耶,色っぽい……女性的、か……,"A little more... Womanly and sexy, hmm..."
 0000000000000,プロデューサー,"難しいことは考えなくていい
 そのままの咲耶がもう、魅力的な女性だからな","Don't stress yourself thinking too hard about it!
 You'll wow them just as you are, Sakuya."
 1006001020250,咲耶,"……フフ、そうまっすぐ言われると
-少し照れてしまうね","...haha, well, I appreciate you being so straightforward. I might blush, you know."
+少し照れてしまうね","...Heh, well, I appreciate you being so straightforward. I might blush, you know."
 1006001020260,咲耶,"ありがとう
 これで迷いなく撮影に挑むことができるよ","Thank you.
 I won't doubt myself. I think I can do this."
@@ -84,7 +84,7 @@ I won't doubt myself. I think I can do this."
 クライアントからあんなに大好評で","Well done, Sakuya!
 Their company's very pleased with you!"
 1006001020270,咲耶,"ああ、次はもっと大きい広告で、なんて……
-嬉しいけど、驚いたよ","Aah, and apparently next time they might want me for a larger advert... Well, I'm flattered, but it's a lot to take in!"
+嬉しいけど、驚いたよ","Ah, and apparently next time they might want me for a larger advert... Well, I'm flattered, but it's a lot to take in!"
 1006001020280,咲耶,"しかしそれなら、女性的な魅力を
 もっと高めないといけないかもしれないね","But I suppose I need to sharpen my womanly appeal for that now, don't I?"
 0000000000000,プロデューサー,咲耶は、今のままでも充分魅力的だと思うけどな……,I don't think you need to change a thing...

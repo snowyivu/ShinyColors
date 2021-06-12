@@ -1,6 +1,6 @@
 id,name,text,trans
 4006001000210010,咲耶,"そろそろ私の出番だね……
-衣装、変なところはないかな？",It's coming up to my turn... is there anything off about my outfit?
+衣装、変なところはないかな？",It's coming up to my turn... Is there anything off about my outfit?
 0000000000000,プロデューサー,"衣装か？
 ……うん、どこも問題ないぞ","Your outfit...? Mm, there's no problems anywhere."
 select,,"でも、
@@ -15,6 +15,6 @@ select,,似合っている,It suits you.
 迷いなく出番を迎えられるよ","Thank you. When you say that, I can go and meet the stage without hesitation."
 0000000000000,プロデューサー,（少しでも、肩の力が抜けたなら良いんだが）,(It would be good if she could relax her shoulders just a little.)
 4006001000210040,咲耶,そうだろう？　気に入ってるんだ,Is that so? Then I'm pleased with it.
-0000000000000,プロデューサー,（……今更だったか？）,(...only just now?)
+0000000000000,プロデューサー,（……今更だったか？）,(...Only just now?)
 info,produce_communication_cheers/400600100021.json,
 Translator,Batsu,

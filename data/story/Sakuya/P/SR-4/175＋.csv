@@ -9,17 +9,17 @@ I was just... browsing this."
 ああ、今度のパーティーに着ていくやつか？","A catalog for dresses...
 I see, looking for something to wear for that party?"
 2006007010030,咲耶,まあ、そんなところ……かな,"Well, something like that... I guess?"
-0000000000000,プロデューサー,……何か、悩んでるのか？,...are you worried about something?
+0000000000000,プロデューサー,……何か、悩んでるのか？,...Are you worried about something?
 2006007010040,咲耶,…………,......
 0000000000000,咲耶,プロデューサーは、このドレスをどう思う？,"What do you think of the dress here, Producer?"
 0000000000000,プロデューサー,"ん？　……なるほど、
 かっこいいし綺麗で、咲耶によく似合いそうだな","Hm? ...Oh, it does look cool and beautiful.
 A perfect fit for Sakuya."
 2006007010050,咲耶,"フフ、ありがとう
-私も、自分ではそう思ってはいるんだ……","Fufu, thanks.
+私も、自分ではそう思ってはいるんだ……","Hehe, thanks.
 I also think that it'll fit me..."
 2006007010060,咲耶,でも……,However...
-0000000000000,プロデューサー,……何か、ダメな理由があるのか？,...is there something that you don't like about it?
+0000000000000,プロデューサー,……何か、ダメな理由があるのか？,...Is there something that you don't like about it?
 2006007010070,咲耶,"……このデザインだと、
 靴は高めのハイヒールが合うと思うんだ","...With this design,
 I think high-heeled shoes would go well with it."
@@ -32,18 +32,18 @@ so I think it's okay if I wear it then."
 アイドルとしての私、でなくてはいけない","Although now,
 as an idol, I have to present myself as such."
 2006007010110,咲耶,"では、どのような出で立ちをみんなに求められているのか
-それが果たして私に似合うものなのか……","Then, what kind of appearance everyone seeks from me?
-Does it actually suits me...?"
+それが果たして私に似合うものなのか……","Then, what kind of appearance does everyone seek from me?
+Does it actually suit me...?"
 2006007010120,咲耶,少し、わからなくなってね,It made me a bit confused.
 0000000000000,プロデューサー,咲耶……,Sakuya...
-2006007010130,咲耶,ねぇ……アナタは、どうすればいいと思う？,Hey... what do you think I should do?
+2006007010130,咲耶,ねぇ……アナタは、どうすればいいと思う？,Hey... What do you think I should do?
 select,,"咲耶が
-着たいものを着よう","Let's wear
-what Sakuya wants."
+着たいものを着よう","Just wear what
+you wanted to."
 select,,"咲耶に
-似合うものを着よう","Let's wear something
-that suits Sakuya."
-select,,咲耶はどうしたい？,"What does Sakuya
+似合うものを着よう","Wear something
+that suits you."
+select,,咲耶はどうしたい？,"What do you
 want to do?"
 2006007010140,咲耶,"それってつまり……
 このドレス、ということかい？","Does that mean...
@@ -60,15 +60,15 @@ for Sakuya as an idol, I'll stop you."
 2006007010160,咲耶,……！,...!
 0000000000000,プロデューサー,そんなこと、これから先もきっとないけどな,I'm sure there'll be no such thing in the future too.
 0000000000000,プロデューサー,"……だから、俺を信じるってことで、
-考えてみてくれないか？","...therefore, by believing in me,
+考えてみてくれないか？","...Therefore, by believing in me,
 can you consider it once more?"
 2006007010170,咲耶,"……クス
-ありがとう、プロデューサー","*chuckles*
+ありがとう、プロデューサー","...Heh.
 Thanks, Producer."
 2006007010180,咲耶,"そうだね
 もう少し、私は私を……自分自身を信じてみるよ","I know.
 I'll try to... believe in myself a little more."
-2006007010190,咲耶,……アナタが、私を信じてくれているようにね,...just like how you believe in me.
+2006007010190,咲耶,……アナタが、私を信じてくれているようにね,...Just like how you believe in me.
 0000000000000,プロデューサー,"せっかく咲耶というアイドルがいるんだ
 咲耶の魅力を一番引き立てるものを着るべきだ","We now have this precious idol called Sakuya,
 so you should wear something that brings out
@@ -79,13 +79,13 @@ as an idol, if it's out of character..."
 0000000000000,プロデューサー,"他のアイドルが着こなせないかもしれないドレスを
 着こなすのも、かっこいいと思うぞ？","I think it's stylish to wear a dress that other idols
 may not be able to wear, right?"
-2006007010210,咲耶,……かっこいい、のかい？,"...stylish, is it?"
+2006007010210,咲耶,……かっこいい、のかい？,"...Stylish, is it?"
 0000000000000,プロデューサー,"ああ、誰よりも輝いている咲耶の姿に
 きっとみんな喜んでくれるはずだ","Yeah, I'm sure everyone will be more than happy
 to be blessed with the presence of Sakuya
 who shines like no one else."
 2006007010220,咲耶,"……フフ。そうだね、私が望んでいるのは
-何よりもみんなに喜んでもらうことだから……","...fufu. Sure, what I wish more than anything
+何よりもみんなに喜んでもらうことだから……","...Hehe. Sure, what I wish more than anything
 is to make everyone happy after all... "
 2006007010230,咲耶,"それに、パーティーに呼んでもらったからには
 一番良い私を見せないとね","Besides, because I was invited to the party,
@@ -110,10 +110,10 @@ Sakuya who smiles brightly."
 what she thinks is best."
 2006007010280,咲耶,……プロデューサー……,...Producer...
 2006007010290,咲耶,"クス。アナタの言葉を聞くと、悩んでいた自分が
-とても愚かしく思えるよ","*chuckles* When I heard your words,
+とても愚かしく思えるよ","Heh. When I heard your words,
 this worry of mine seems very stupid."
 2006007010300,咲耶,"でも……ありがとう
-アナタのおかげで、決心したよ","However... thanks.
+アナタのおかげで、決心したよ","However... Thanks.
 Because of you, I made up my mind."
 2006007010310,咲耶,"いかなる時も
 私は私らしくあろう、とね","At any time,
