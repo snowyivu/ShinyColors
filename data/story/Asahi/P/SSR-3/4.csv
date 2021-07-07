@@ -1,0 +1,108 @@
+id,name,text,trans
+0000000000000,プロデューサー,おはようございま──,Good morni──
+0000000000000,プロデューサー,──うわっ！,──Uwah!
+0000000000000,プロデューサー,なんだ……？,Huh...?
+0000000000000,プロデューサー,"……あさひがもらったぬいぐるみ……
+ずっと置きっぱなしにしてるのか……","...The stuffed animals Asahi won...
+She left them lying everywhere..."
+2017007040010,あさひ,──おはよっす～！,──Mornin'!
+0000000000000,プロデューサー,あ、あさひ、ちょうどいいところに,"Ah, Asahi. Good timing, actually."
+2017007040020,あさひ,"えぇ～、なんすか！？
+今、急いでるんすよ！","Ehh～, What!?
+I'm busy right now!"
+0000000000000,プロデューサー,？　何かあったのか？,? Is something happening?
+2017007040030,あさひ,外に変な虫がいたんすよ！,I saw a weird bug outside!
+2017007040040,あさひ,"だから、網取りに来たっす！
+捕まえてくるっす～！","So I'm grabbin' my net!
+Imma catch it～!"
+0000000000000,プロデューサー,"……
+ぬいぐるみには目もくれなかったな……","......
+She didn't even bat an eye at the stuffed animals..."
+0000000000000,プロデューサー,…………,............
+2017007040050,あさひ,む～、もういなかったっす～,"Awww, it was already gone～"
+0000000000000,プロデューサー,あさひ、ちょっといいかな,"Asahi, could you come here for a second?"
+2017007040060,あさひ,なんすか～,What's up～?
+0000000000000,プロデューサー,"虫もいいんだけどさ
+くまやうさぎのこと、俺は気になる","Putting the bug thing aside,
+Look at these poor guys..."
+0000000000000,プロデューサー,ちょっと悲しそうにしてるぞ,I kind of feel bad for them.
+2017007040070,あさひ,えー？,Ehh?
+0000000000000,プロデューサー,"ほら、あそこに置きっぱなしになってるだろ
+遊園地でもらったぬいぐるみ","The stuffed animals you got. You just left them
+here."
+0000000000000,プロデューサー,"いいのか？
+ぬいぐるみにも心があるんだぞー？","They have feelings too, you know?"
+2017007040080,あさひ,そんなわけないっすよ,No way they do.
+0000000000000,プロデューサー,"それがあるんだよ
+長い時間が経つと、ぬいぐるみにも意思が生まれるんだ","They do, actually! Given enough time, even stuffed
+animals will eventually have a mind of their own."
+0000000000000,プロデューサー,付喪神っていうんだけど……知ってるか？,It's called a tsukumogami... You didn't know?
+2017007040090,あさひ,"知らないっす……
+本当っすか……？","I didn't...
+Really...?"
+0000000000000,プロデューサー,"ああ！　
+ただし、かなり長く大切にしたら……だけどな","Yep!
+But... it takes long years of taking care of them."
+2017007040100,あさひ,……どのくらいっすか？,...Like how long?
+0000000000000,プロデューサー,うーん……100年はかかるかもなぁ,Hmm... A hundred years maybe?
+2017007040110,あさひ,ふーん……,Hmmm...
+select,,……,.......
+select,,"もう、悲しませない
+ようにできるか？","Can you keep
+them happy from
+now on?"
+select,,……試してみるか？,"...Want to
+try it out?"
+2017007040120,あさひ,"…………プロデューサーさん
+これ持って帰りたいっす","...Producer-san.
+I think I'll take them home."
+0000000000000,プロデューサー,"はは、よし。じゃあ家まで車で運ぼうか
+抱えて持っていくには大変だしな","Haha, okay! I can drop you off with the toys then.
+Going home holding them would be troublesome."
+0000000000000,プロデューサー,あ、そういえば……,"Oh, right..."
+2017007040130,あさひ,ん？　どうしたんすか？,Hm? What's up?
+0000000000000,プロデューサー,"いや、このぬいぐるみ、
+名前とかあるのかなと思って","Well, I was just wondering if any of these little
+fellas have any names."
+2017007040140,あさひ,ないっすね,Nope.
+0000000000000,プロデューサー,付けたほうがいいんじゃないか？,Why don't you give them names?
+2017007040150,あさひ,うーん……,Hmmm...
+2017007040160,あさひ,うさぎ！　ねこ！　クマ！,Rabbit! Cat! Bear!
+0000000000000,プロデューサー,おいおい、そのまんまじゃないか,"Hey, hey... there's literally no difference!"
+2017007040170,あさひ,わかればいいっすよ！,"As long as you get it, it's fine!"
+2017007040180,あさひ,"…………
+生きてるかもしれないんすよね……？","............
+They could be alive, right...?"
+2017007040190,あさひ,わかったっす、持って帰るっすよ,"Okay, I'll bring them home."
+2017007040200,あさひ,わっ！,Wah!
+0000000000000,プロデューサー,大丈夫か！？,You alright!?
+2017007040210,あさひ,"大丈夫っす
+ぬいぐるみがクッションになってくれたっす","I'm fine.
+The stuffed animals softened my fall."
+0000000000000,プロデューサー,"もしかして、早速あさひのことを
+守ってくれたんじゃないか？","Maybe they're already protecting you, Asahi?"
+2017007040220,あさひ,"それはないんじゃないっすかね
+プロデューサーさん、さっき100年って言ったっす！","That's impossible, Producer-san.
+You said it'd take 100 years!"
+0000000000000,プロデューサー,それもそうだな……うん……,That's true... yeah...
+2017007040230,あさひ,プロデューサーさん、せっかちっすね！,"You're pretty impatient, Producer-san!"
+2017007040240,あさひ,…………そっすね！,...Okay!
+2017007040250,あさひ,あ！　でも100年はちょっと長すぎるっすね！,Ah! But 100 years is way too long.
+0000000000000,プロデューサー,"確かに
+あさひも俺もお年寄りになっちゃうな","You're right.
+We'd be really old by that time."
+2017007040260,あさひ,……,......
+2017007040270,あさひ,"もっと短くならないっすかね！
+一週間とか！","Could we just make it shorter?
+Like a week!"
+0000000000000,プロデューサー,さすがにそれは無理だろう,Probably not.
+2017007040280,あさひ,"えぇ～、でも
+100年も待てないっすよ～！",Ehhh～ But I can't wait 100 years!
+0000000000000,プロデューサー,"まぁ、それならとりあえず一週間
+大切にしてみるんだ","Well, I guess you could aim for 1 week for now.
+Take good care of it!"
+2017007040290,あさひ,"うーん……
+そっすね、そうしてみるっす","Hmmm...
+Yeah, I'll stick with that."
+info,produce_events/201700704.json,
+Translator,nkei,

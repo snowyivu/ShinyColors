@@ -1,0 +1,138 @@
+id,name,text,trans
+0000000000000,プロデューサー,ただ今戻りまし──,I'm back──
+2017007010010,あさひ,"あ！　
+そこどいて！","Ah!
+Outta the way!"
+0000000000000,プロデューサー,"え？
+わっ──！",Huh? Aaah!
+0000000000000,プロデューサー,──紙飛行機……？,──A paper airplane...?
+2017007010020,あさひ,"あーあ
+いい感じで飛んでたんすよ！　今の！","C'mon...
+And it was flying so well too!"
+0000000000000,プロデューサー,"そ、そうだったのか……じゃないじゃない……
+事務所の中でこんなことしたら危ないだろ──","O-Oh, was it... ah, nevermind that...
+Why are you doing something so dangerous indoors──"
+0000000000000,プロデューサー,"──ん？
+これは、テーマパークの優待……","──Hm?
+This is an amusement park coupon..."
+0000000000000,プロデューサー,"って、あさひ！
+これ、前にもらったやつじゃないか！","Wait, Asahi!
+This is the thing you got from someone recently!"
+2017007010030,あさひ,"あ～！　なんで広げちゃうんすか！
+まだ飛ばしたかったのに！","Hey! Why are you unfoldin' it!?
+I was still gonna fly it!"
+0000000000000,プロデューサー,"いやいや……！
+こんなことしたら、くれた人に失礼だよ","No, no...!
+You're being rude to the person who gave this, you
+know?"
+0000000000000,プロデューサー,"それに、
+折り曲げたりすると使えなくなるかもしれないし──","Also, the folds might ruin the coupon,
+and you won't be able to use it──"
+2017007010040,あさひ,使わないっすよ,I'm not gonna anyways.
+0000000000000,プロデューサー,"え？　どうしてだ！？
+ここ、すごい人気のテーマパークなんだぞ？","Huh? Why not!?
+This is for that one super popular amusement park!"
+0000000000000,プロデューサー,"チケットも全然取れなくて
+アトラクションも長蛇の列らしいし","It's hard to get tickets,
+and I hear the lines are super long..."
+2017007010050,あさひ,"じゃあ、プロデューサーさんにあげるっすよ
+わたしは別にいいんで","Well, you can have it then.
+I don't mind."
+0000000000000,プロデューサー,あさひ、テーマパークとか嫌いなのか？,"You don't like amusement parks, Asahi?"
+2017007010060,あさひ,んー、よくわからないっすけど……,"Hmm, dunno about that..."
+0000000000000,プロデューサー,"おっ、じゃあ調べてみよう
+確かガイドブックを──","Oh, let's have a look then.
+The guidebook should be here somewhere──"
+2017007010070,あさひ,あ、そんなのあったんすね,"Ah, there was that thing too, huh."
+0000000000000,プロデューサー,一緒にもらったじゃないか,"We both got a copy, didn't we?"
+2017007010080,あさひ,知らなかったっす,I didn't know.
+0000000000000,プロデューサー,"じゃあ、ちょっと見てみないか
+もしかしたら興味を引かれるかもしれないぞ","Well, take a look at it now.
+Something just might catch your interest!"
+2017007010090,あさひ,"うーん……
+わかったっす","Hmm...
+Okay."
+0000000000000,プロデューサー,"ありがとう
+そうだな……例えば……","Thanks.
+Let's see... for example..."
+0000000000000,プロデューサー,これなんて面白そうじゃないか,Doesn't this look neat?
+select,,"世界の大道芸人集合
+特別ステージ","A special worldwide
+street performers
+stage"
+select,,"遊園地の
+マスコット","The park
+mascot"
+select,,ジェットコースター,"The roller
+coaster"
+0000000000000,プロデューサー,なんか面白い人がたくさん見られそうじゃないか,"Seems like you'll be able to see a lot of
+interesting people."
+2017007010100,あさひ,へ～、そんなのあるんすね,"Hmm～ They have stuff like this, huh."
+0000000000000,プロデューサー,"ああ
+しかも観客参加のコーナーもあるみたいで──","Yep. They even have a segment where the audience
+can join in──"
+2017007010110,あさひ,──……,──......
+2017007010120,あさひ,"あ……！　これ面白そうっすね！
+やってみたいっす！","Ah...! This looks fun!
+I wanna try!"
+0000000000000,プロデューサー,"どれどれ……『超高速ダブルダッチ』……？
+確か曲芸の大縄跳びみたいなやつだよな……","Let's see... ""Ultra fast Jump-roping""...?
+The thing with the acrobats and the group jump-
+roping, right..."
+0000000000000,プロデューサー,"いやいや、これはさすがに参加型じゃないだろ
+第一、素人には無理じゃ──","Wait, no way is the audience joining this one.
+It'd be impossible for unexperienced──"
+2017007010130,あさひ,行くっすよ～！,Here I go～!
+2017007010140,あさひ,123456789──！,123456789──!
+2017007010150,あさひ,──とうっ！,──Toh!
+0000000000000,プロデューサー,"（参加できるかは置いておいて……
+あさひならやってのけるかもな……）","(Allowed or not...
+Asahi could pull it off, I bet...)"
+2017007010160,あさひ,楽しみになってきたっすね～,I'm suddenly gettin' excited～
+2017007010170,あさひ,これが面白いんすか？,Is it really that interestin'?
+0000000000000,プロデューサー,"ああ！　
+ほら、なんだか夢がある感じがしないか","Yeah!
+It's like it's right out of a dream!"
+2017007010180,あさひ,……きぐるみがっすか？,...The mascot?
+0000000000000,プロデューサー,う、うん……えっと、なんだ──,"Y-Yeah... Um, well──"
+0000000000000,プロデューサー,"ダンスしたり、色んなパフォーマンスで
+楽しませてくれたりするし……","They do all kinds of tricks,
+like dancing and stuff..."
+2017007010190,あさひ,へ～、そうなんすね,Hmm～ That so.
+2017007010200,あさひ,……いっすよ、行くっす！,"...Okay, let's go!"
+0000000000000,プロデューサー,ほんとか？,Really?
+2017007010210,あさひ,"きぐるみ着て踊るってどんな感じっすかね～
+わたしもやってみたいっす","I wonder what it's like dancin' in a mascot costume～
+I wanna try too!"
+0000000000000,プロデューサー,"これ、すごいらしいんだよ！
+一番高い場所で見える景色が迫力あるとかで","This seems pretty awesome!
+They say you'll be amazed at what you can see up
+top!"
+2017007010220,あさひ,どんな景色なんすか？,Like what?
+0000000000000,プロデューサー,"え、いや……
+それは俺も見たことないからわからないけど……","Err, well... I haven't gone on it yet, so
+I don't know..."
+2017007010230,あさひ,ふーん……そうなんすね……,Hmmm... that so...
+0000000000000,プロデューサー,（うっ……！　何か他の話題を探さないと……）,(Ah...! Maybe there's something else I can find...)
+0000000000000,プロデューサー,じゃあ、これなんかどうだ？,"Okay, what about this?"
+0000000000000,プロデューサー,"園内限定でしか食べられないハンバーガー！
+美味しそうだぞ！　俺も食べてみたいなぁ","A park-exclusive hamburger!
+Looks super tasty! I'd love to try it～"
+2017007010240,あさひ,……,......
+0000000000000,プロデューサー,あさひ？,Asahi?
+2017007010250,あさひ,"プロデューサーさん
+すごく行きたいんすね","Producer-san,
+you really wanna go, don't you?"
+0000000000000,プロデューサー,……いや、なんというか──,"...Ah, well, you know──"
+2017007010260,あさひ,"プロデューサーさんがそこまで楽しそうに思うってことは
+なんかあるんすかね……","If you're this excited to go,
+maybe there really is somethin' fun there..."
+2017007010270,あさひ,……,......
+2017007010280,あさひ,"わかったっす
+行くっす！","Okay.
+Let's go!"
+0000000000000,プロデューサー,そうか！　ありがとうな！　あさひ！,"Really? Thanks, Asahi!"
+2017007010290,あさひ,？　なんでわたしがお礼言われるんすか？,? Why are you thankin' me?
+0000000000000,プロデューサー,はは、それもそうだな,"Haha, I wonder."
+info,produce_events/201700701.json,
+Translator,nkei,

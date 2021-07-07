@@ -1,6 +1,7 @@
 id,name,text,trans
 1003001000610010,めぐる,"おっはよー！　あっ、プロデューサー、ちょっといい？
-相談があるんだけど……","Morning-! Ah, Producer, got a sec? I wanted to ask you something..."
+相談があるんだけど……","Morningー! Ah, Producer, got a sec?
+I wanted to ask you something..."
 0000000000000,プロデューサー,どうしたんだ？,What's the matter?
 1003001000610020,めぐる,"あのね！　夜起きていたくても、すぐ眠くなっちゃうんだ
 どうしたらいいかな？","Well, uhm! Even if I try to stay up at night, I get sleepy right away. What should I do?"
@@ -14,9 +15,11 @@ select,,"夜更かしは
 しないほうがいいぞ","It's not good to
 stay up late."
 1003001000610030,めぐる,"わたしらしさって早寝早起きなの！？
-……でもプロデューサーが言うなら、そうなんだよね！","You think I'm an early to bed, early to rise type...!? If Producer says so it must be true!"
+……でもプロデューサーが言うなら、そうなんだよね！","You think I'm an early to bed, early to rise type...!?
+If Producer says so it must be true!"
 1003001000610040,めぐる,"じゃあこのままでもいいかも！
-ありがとう、プロデューサー！","Well then I guess that's how it is! Thanks, Producer!"
+ありがとう、プロデューサー！","Well then I guess that's how it is!
+Thanks, Producer!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1003001000610050,めぐる,"プロデューサーもよく飲んでるもんね！
 ……ちょっと苦いけど","Producer drinks it often too, right...! It's a little bitter though."
