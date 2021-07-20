@@ -1,0 +1,29 @@
+id,name,text,trans
+1004001000610010,恋鐘,むむむ～……,Mumumu~...
+0000000000000,プロデューサー,どうした恋鐘？,"What's up, Kogane?"
+1004001000610020,恋鐘,"お、ちょうどよかった。東京の人の意見が聞きたかったんよ
+プロデューサーは……長崎のことどう思うと？","Oh, everything's peachy. I was lookin' to hear some opinions from Tokyo folk. Producer... whaddya think of Nagasaki?"
+0000000000000,プロデューサー,（長崎についてか……）,(About Nagasaki...?)
+select,,"ちゃんぽんとか
+美味しいんだよな","Stuff like Chanpon
+is really tasty."
+select,,"国民的アイドルの
+出身地、だろ","It's the birthplace of
+a national idol, right?"
+select,,九州のひとつ？,That's one in Kyushu right?
+1004001000610030,恋鐘,"そうなんよ～！　
+他にも長崎は美味しいもんたくさんあるから最高たい！","Ain't that right~! There are so many other delicious foods in Nagasaki, so I want it to be the best!"
+1004001000610040,恋鐘,いつかプロデューサーも長崎に遊びに来るとよかよ！,I hope ya come ta Nagasaki sometime!
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1004001000610050,恋鐘,"んふふ～、その通り！
+やっぱりわかっとるね～、プロデューサー！",Mfufu~ Dern right! That's the Producer I know!
+1004001000610060,恋鐘,"ばってん、うちの聞きたいことは
+そういうことじゃなかよ～","But, that's not exactly what I was hopin' to hear about~"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1004001000610070,恋鐘,"えー、まぁ、そうやけど……やっぱり東京では
+そのくらいの印象しかないんかなー","Eh, well, yeah but... I guess that's what you'd expect someone from Tokyo to think about it-"
+1004001000610080,恋鐘,"いや……うちが有名になれば長崎も有名になるばい！
+頑張らんと……！",No... if I get famous then Nagaski'll get famous! I'll do my best...!
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100400100061.json,
+Translator,,

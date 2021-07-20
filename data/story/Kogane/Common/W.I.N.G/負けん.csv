@@ -1,0 +1,33 @@
+id,name,text,trans
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
+彼女こそが最高のアイドルだと思っています","Well, we may have failed, but I think she's the most incredible idol she can be."
+6902001070020,社長,……！　そうか……,"Oh? Really, now..."
+6901001070010,はづき,"ふふ
+社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+6901001070020,はづき,"もし違う言葉が出てきたら、
+説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+6902001070030,社長,"……うるさいぞ。とにかく、
+そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+6902001070040,社長,"さあ、早くその最高のアイドルに
+会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+0000000000000,プロデューサー,……はい！,...Of course!
+0000000000000,プロデューサー,恋鐘……『W.I.N.G.』惜しかったな,"Kogane... we were so close with ""W.I.N.G.""..."
+6004001070010,恋鐘,"あと少し……あと少しやったばってん……
+あとほんの少しで優勝やった……",A little more... I just needed to do a little more... I was this close to winning the whole thing...
+6004001070020,恋鐘,"悔しいなぁ……
+もうちっとうちに実力があれば……",It's so frustrating... if I was just that little bit better...
+0000000000000,プロデューサー,"……今回は優勝できなかった
+だが、俺は恋鐘がこの敗北を糧にしてくれると信じてるよ","...we weren't able to win this time. But, I have faith that this defeat will only spur you onward."
+0000000000000,プロデューサー,"なにせ恋鐘はダメだった時こそ頑張るって知ってるからな
+今回ダメでも恋鐘なら絶対にまた輝ける","I know it's precisely when you fail that you give it your all. Though you lost this time, you'll shine bright again."
+6004001070030,恋鐘,……ホントにそう思っとると？,...you really think so?
+0000000000000,プロデューサー,ああ、ずっと恋鐘を見てきた俺が保証する,"Yeah, I swear I'll continue to watch you."
+6004001070040,恋鐘,"……ダメだった時こそ頑張る……
+そうやね。それがうちやね","...when I fail I give it my all... that's right, ain't it. That's me to a tee."
+6004001070050,恋鐘,"プロデューサーにそこまで言われたら
+挫ける訳にはいかんばい！","If Producer's telling me that, then I definitely can't lose heart!"
+6004001070060,恋鐘,"よし！　うちらしくまた輝いてみせるばい！
+頑張るぞー！　おー！",Alright! Time to show off my shine again! I'll give it my allー! Ooohー!
+info,produce_events/600400107.json,
+Translator,Batsu,

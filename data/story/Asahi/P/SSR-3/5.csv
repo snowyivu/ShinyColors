@@ -1,0 +1,71 @@
+id,name,text,trans
+0000000000000,プロデューサー,？,?
+2017007110010,あさひ,"『プロデューサーさん！
+すごいっす！』","""Producer-san! It's awesome!"""
+0000000000000,プロデューサー,『ん？　どうした』,"""Hm? What's up?"""
+2017007110020,あさひ,『動いたんすよ！』,"""It moved!"""
+0000000000000,プロデューサー,『何が動いたんだ？』,"""What moved?"""
+0000000000000,off,あさひ　が画像を送信しました,Asahi sent a picture.
+0000000000000,プロデューサー,……ぬいぐるみのことか,"...The stuffed animals, huh..."
+2017007110030,あさひ,"プロデューサーさん！
+見たっすよね！",Producer-san! You saw it right?!
+0000000000000,プロデューサー,ああ、見たぞ,"Yeah, I did."
+2017007110040,あさひ,すごかったっすよ～！,It was super cool～!
+2017007110050,あさひ,"夜中にもそもそ！　って音がしたから
+目を開けたんすよ！","I hear somethin' rustlin' in the middle of the
+night, right? So then I open my eyes!"
+2017007110060,あさひ,そしたら、動いてたんす！,"And I see them there, movin'!"
+0000000000000,プロデューサー,"……そうなのか……！
+すごいじゃないか","...I see...!
+That's pretty amazing!"
+2017007110070,あさひ,"はいっす！　
+わたしもびっくりしたっす！","Yep!
+I was surprised too!"
+0000000000000,プロデューサー,"だけど、
+随分、早く動いてくれたなあ","Although...
+It seems pretty early for that to happen..."
+2017007110080,あさひ,うーん……,Hmm...
+2017007110090,あさひ,毎日みんなと話したのがよかったんすかねぇ……,I wonder if talkin' with them everyday helped...
+0000000000000,プロデューサー,お、なるほど……,"Oh, I see..."
+2017007110100,あさひ,"はいっす
+あと、寝る時も一緒にいるようにして……","Yep.
+And I slept together with them every night..."
+2017007110110,あさひ,あ！　ちゃんとお風呂にもいれたっす！,Ah! I brought them into the bath too!
+0000000000000,プロデューサー,はは、それは仲良しだな,"Haha, you're really getting along with them."
+2017007110120,あさひ,"プロデューサーさんは
+どれが一番効果的だったと思うっすか？","Producer-san,
+which one do ya think did the trick?"
+0000000000000,プロデューサー,"はは……
+そうだな、どれだろう……？","Haha... That's a good question...
+Who knows...?"
+2017007110130,あさひ,え～？,Ehh～?
+0000000000000,プロデューサー,"いや、だって……
+それはこれから検証していくところだろう？","Well, isn't that for you to find out for yourself?"
+0000000000000,プロデューサー,"だけど、あさひがほったらかさないで
+大事にしてあげたから動いてくれたのかもしれない","But, as long as you continue looking after them,
+I think that's all that matters."
+2017007110140,あさひ,"うーん……？
+そうかもしれないっすね……！","Hmm...?
+You might be right...!"
+0000000000000,プロデューサー,"──なあ、あさひ
+そうやって、他のことも……","──Hey, Asahi. The way you're taking care of them
+now, and minding their feelings..."
+0000000000000,プロデューサー,"ぬいぐるみだけじゃなくて、色んなもの
+色んな人の気持ちのことも大切に考えていきたいよな……！","It would be great if you do the same to everything
+─and everyone─around you...! Not just the toys."
+2017007110150,あさひ,……,......
+2017007110160,あさひ,いっすよ！,Got it!
+0000000000000,プロデューサー,あさひ……！,Asahi...!
+2017007110170,あさひ,そしたら、それもきっと動くっすよね！,"And if I do that, even more stuff might start
+moving!"
+0000000000000,プロデューサー,え……？,Eh...?
+2017007110180,あさひ,まずはこのストラップから試してみるっす……！,Let's try it on this strap first...!
+2017007110190,あさひ,おーい、ストラップ～！,"Heeey, strap～!"
+0000000000000,プロデューサー,…………,............
+2017007110200,あさひ,ほら、プロデューサーさんも一緒に話しかけるっすよ！,"C'mon, Producer-san! Talk to it too!"
+0000000000000,プロデューサー,"……はは
+よし！","...Haha...
+Alright!"
+2017007110201,あさひ＆プロデューサー,おーい、ストラップ～！,"Heeey, strap～!"
+info,produce_events/201700711.json,
+Translator,nkei,

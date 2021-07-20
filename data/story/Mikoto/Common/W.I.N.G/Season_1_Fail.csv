@@ -1,0 +1,34 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I heard the results.
+...It looks like this is the end."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...Yes. We didn't reach the target.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね",W.I.N.G. is a stage that all idols dream of.
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems that the path there was too steep...
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I apologize for not producing results...
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...This is not the time to apologize to us.
+The girl is waiting for you, isn't she?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
+0000000000000,プロデューサー,……行ってきます,...I'm off.
+0000000000000,プロデューサー,"──美琴、『W.I.N.G.』一次審査
+突破できなかった","──Mikoto, the first trial of W.I.N.G., we didn't overcome it."
+7025001020010,美琴,…………そう,......I see.
+7025001020020,美琴,"わかった
+教えてくれてありがとう",I understand. Thanks for telling me.
+0000000000000,プロデューサー,"………………
+正直、納得できないよ","......
+To be honest with you, I don't agree."
+0000000000000,プロデューサー,"美琴ほどの実力があって
+評価されないなんて…………",I don't think you were evaluated based on your real ability...
+0000000000000,プロデューサー,どう考えたって、おかしいと思う,"No matter how you look at it, it seems strange."
+7025001020030,美琴,……プロデューサー、ごめんね,"...Producer, sorry."
+0000000000000,プロデューサー,"いや、美琴は何も悪くないよ
+そうじゃなくて──……","No, you did nothing wrong at all. That's not it──..."
+7025001020040,美琴,"ううん、誰にも文句を言わせないくらい
+もっと完璧にならないといけないの","Well, I won't allow any room for complaints. There's nothing to do but to become even more flawless."
+7025001020050,美琴,……レッスン室、行ってくるね,"...I'll head to the lesson room, alright?"
+info,produce_events/702500102.json,
+Translator,,

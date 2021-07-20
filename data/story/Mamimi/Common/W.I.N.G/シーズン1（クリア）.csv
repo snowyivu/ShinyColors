@@ -1,0 +1,44 @@
+id,name,text,trans
+0000000000000,プロデューサー,"一次審査、通ったぞ
+よかったな、摩美々","We passed the first exam. That's great, Mamimi."
+7005001010010,摩美々,──へぇー、そーなんですかぁ,"──huh, is that so?"
+0000000000000,プロデューサー,"……うれしくないのか？
+摩美々の頑張りが認められたんだぞ？",...aren't you happy? That your hard work is being recognized?
+7005001010020,摩美々,"うーん、どうですかねー？
+まだ、アイドルって感じはないのでー……","Hmmm, how soー? I still don't feel like an idolー..."
+0000000000000,プロデューサー,"（……まぁ、まだ一次審査を突破しただけだからな
+二次審査、三次審査だってある）","(...well, it was just the first exam that we overcame. There's also the second, and the third.)"
+0000000000000,プロデューサー,"摩美々の素質なら、まだまだ、もっと上へ行けるだろうし
+こんなところでは喜んでいられないか","With Mamimi's qualities, there's still so much further you can continue to go. Wouldn't you be happy in that situation?"
+7005001010030,摩美々,えー、別にそういうんじゃないですケドー,"Ehー not really, I guessー"
+7005001010040,摩美々,ていうかぁ実際、マジうれしいですしー,"Tell you the truth, I'm totally happyー"
+0000000000000,プロデューサー,"まったく、本当にうれしいと思っているのか？
+もっと素直に喜んでもいいんだぞ","Honestly, do you really think you're happy? I'd like it if you were more honest."
+7005001010050,摩美々,"さぁ、どうでしょうねー？
+まぁでもー、少なくとも、嫌な気分ではないですよー","Yeah, I wonderー? Well, butー at least, it's not like I feel badー"
+7005001010060,摩美々,"もしかしたらぁ、プロデューサーの助言もー
+ちょーっと、役に立ったかもですねー","It's possible, your advice was alsoー just a little bit, usefulー"
+0000000000000,プロデューサー,"……摩美々に足りないものがあるって話か
+言っておくけど、まだまだあるからな","...That I said you were lacking something? Though I said so, it's still true."
+7005001010070,摩美々,えー……まだなにかあるんですかぁ？,Ehー... there's something else?
+0000000000000,プロデューサー,"あぁ、沢山ある
+けどそれは、それだけ摩美々が成長できるってことだ","Yeah, there's a ton. But because of that, it just means there's that much more for you to grow."
+0000000000000,プロデューサー,"二次審査や三次審査を突破するためにも
+一つずつ足りないものを埋めていこう","In order to break through the second and third rounds, let's fill in the missing pieces bit by bit."
+0000000000000,プロデューサー,摩美々もここまで来たんだ,You've come this far.
+0000000000000,プロデューサー,"そろそろアイドルとしての
+自覚を持つようになっていってくれるとうれしい",I'd be happy to see you slowly become aware of yourself as an idol.
+7005001010080,摩美々,"そんなものなくても、仕事だってちゃんとしてますしー
+私は大丈夫だと思いますけどー","Even if I don't, I can still do the job fineー I think that's alrightー"
+7005001010090,摩美々,頑張るのも、めんどーですしー,"Giving it my best, it's suuuch a painー"
+0000000000000,プロデューサー,"（まったく……これじゃあ、先が不安だな
+……けど、このモチベーションで審査を突破したんだな）","(Jeez... with this, I'm worried about the future... but, we made it through the first exam with this motivation.)"
+0000000000000,プロデューサー,"（摩美々はどう思ってるか知らないけど
+それだけ、ポテンシャルが高いってことなんだろう）",(I can't tell what Mamimi's thinking though. Only just that her potential is high.)
+7005001010100,摩美々,どうかしたんですかぁ、プロデューサー,"What's the matter, Producer?"
+0000000000000,プロデューサー,"ちょっと、摩美々の今後を考えていたんだ
+摩美々が更に上を目指すには、どうすればいいかってな",Just... thinking about the future for you. How can you aim for even greater heights?
+7005001010110,摩美々,"……めんどーなことじゃなければ、
+まぁ、頑張ってみますよー","...what a pain. Well, guess I'll keep at itー"
+info,produce_events/700500101.json,
+Translator,,
