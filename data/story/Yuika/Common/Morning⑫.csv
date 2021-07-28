@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,ん？　結華、それカメラか？,"Hm? Yuika, is that a camera?"
+1007001001210010,結華,おっ、気づいちゃった？　いいでしょ！,"Oh, you noticed? You're right!"
+1007001001210020,結華,"写真撮るの好きなんだよね
+プロデューサー、何かいい素材ないかな？","I just love taking pictures. Producer, what kind of good stuff do you think we can find?"
+0000000000000,プロデューサー,（被写体を探しているのか）,(Searching for a photo subject?)
+select,,レッスン風景,The lesson room
+select,,事務所,The office
+select,,俺以外で,Anything but me
+1007001001210030,結華,"やっぱそれだよね！
+だって２８３プロにはたくさんの宝がいるんだし！",That's it!! 283Pro is full of treasure after all!
+1007001001210040,結華,"仲間ならではのベストショット決めてきちゃうよ～
+……あ。いいの撮れたら、広報とかでも使っちゃう？","Choosing a best shot only a close friend could get～... ah. Is it okay to take pictures, or do we have to talk to PR?"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1007001001210050,結華,"なるほどね。馴染みの場所だから気づかなかったけど
+確かに公園とか街中にはない面白さがあるかも？","Ah I see. I didn't consider it because it's a familiar place but, surely it has some interesting spots that somewhere like the park or downtown wouldn't?"
+1007001001210060,結華,"ならプロデューサー、後で事務所の写真撮ってもいいか
+社長に聞いてきてもいいかな？","Well then, can I take some pictures of the office later, Producer? Do we need to ask the company president?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1007001001210070,結華,えっ？　あっ、もちろん！,"Ehh? Ah, of course!"
+1007001001210080,結華,"……ごめん、最初からＰたんを撮るつもりは
+なかったかな～","...sorry, I wasn't even planning on taking pictures of P-tan from the start～"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100700100121.json,
+Translator,Batsu,

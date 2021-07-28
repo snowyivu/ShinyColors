@@ -1,0 +1,101 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（そろそろ握手会の前半が終わる頃か
+……摩美々は……さすがに途中で帰ってはいないよな）","(The first half of the handshake event is coming to an end...? Mamimi... as expected, she didn't leave in the middle of it.)"
+0000000000000,プロデューサー,"（ちょっと様子を見に行くとするかな
+休憩場所は……こっちだったな）",(Wonder if I can see what's going on. The rest area... was here right.)
+1005001040010,摩美々,はぁ…………,Hah...
+0000000000000,プロデューサー,"摩美々、握手会お疲れさま。
+なんだか表情が硬いな、疲れてしまったか？","Mamimi, thanks for that handshake event. Your face looks a little worn, are you tired?"
+1005001040020,摩美々,……あ、プロデューサー,"...ah, Producer."
+0000000000000,プロデューサー,どうした。何かあったのか？,What's wrong? Did something happen?
+1005001040030,摩美々,別にー、なんでもないですー……,"Not reallyー, it's nothingー..."
+0000000000000,プロデューサー,"なんでもなかったら、そんな顔しないだろ？
+話してみてくれないか？","If it's nothing, why are you making that face? Anything you want to talk about?"
+1005001040040,摩美々,"……大したことじゃないんですけどー、ファンの人に、
+今後の目標はなんですか、って聞かれたんですー","...it's not really a big deal but, my fans... they asked what my goals were from here on outー"
+1005001040050,摩美々,"でも、何も思い浮かばなかったからぁ、
+答えられなかったんですよー","But nothing came to mind, so I couldn't answer themー"
+0000000000000,プロデューサー,"なるほどな
+その答えを、考えていたんだな？","Ah, I see. Have you been thinking about your answer?"
+1005001040060,摩美々,"……目標なんて、私には関係ない話で……
+……別に考えるつもりは、ないんですけどねー","...goals, are a topic that have nothing to do with me... I don't have any intentions of coming up with anyー"
+1005001040070,摩美々,"でもー、気がつけば
+そのことばっかり、頭のなかにあるんですよねー","Butー before I'd realized it, there was something in my mind."
+0000000000000,プロデューサー,"ゆっくり考えることで見つかる答えもあるしな
+最初の頃と、なにが変わったんだと思う？",You gradually found answers when you thought about it. Do you think something has changed since you started?
+1005001040080,摩美々,"んー、そうですねー。私、プロデューサーと一緒にいたら
+面白そうだなぁ、くらいの気持ちでアイドルを始めただけで",Hmー I wonderー I started being an idol together with you at first because I thought it would be amusing.
+1005001040090,摩美々,"……強い想いなんて
+どこにもなかったんですよねー",...I didn't really have a strong idea of what it would be likeー
+0000000000000,プロデューサー,"ああ、そうだったな
+それは、今でも変わらないのか？","Gotcha, I see. Well then, has that not changed even now?"
+1005001040100,摩美々,"……ユニットのメンバーが
+夢とか目標の話してるのを聞いてると","...my unit members, I heard them talking about their dreams and goals."
+1005001040110,摩美々,"私、最近ちょっとだけ、
+落ち着かなくなるんですよねー","Recently, just a little bit, I've been feeling restless, you knowー"
+1005001040120,摩美々,"前はフツーに、聞き流せてたのに……変わっちゃいましたぁ
+今のままでいいのかな？　なぁんて、思っちゃうんです","Normally, I'd just ignore it... but it's changed. Am I okay to keep going just like this? I've been wondering."
+0000000000000,プロデューサー,"それは、みんなから
+いい影響を受けてるんじゃないかな","Well, it sounds like everyone's good influence has rubbed off on you, right?"
+1005001040130,摩美々,"どうなんですかねー
+でも、ずっと一緒にレッスンしてきましたしねー","I wonder about thatー but, we've been doing lessons together the entire timeー"
+1005001040140,摩美々,"みんなの真剣な顔も見てきましたし
+悔しさを隠して、明るく振る舞うのも見ちゃいましたしー","I've been watching everyone's faces. As they hide their frustrations, and put on a good faceー"
+1005001040150,摩美々,……真剣じゃない子なんて、いなかったんです,"...there wasn't a single one of them, who wasn't serious."
+1005001040160,摩美々,"ねえ、プロデューサー。目標がなくても、
+アイドルとしてやって行けるんですかねー？","Hey, Producer. Even if you don't have a goal, can you still make it as an idolー?"
+select,,これから見つけていこう,"Let's keep going
+and find out"
+select,,目標がなくてもいい,"You don't need
+a goal"
+select,,"アイドルとして
+成長したな","You've grown
+as an idol"
+0000000000000,プロデューサー,"まだまだたくさんアイドル活動はあるんだ
+その活動を通して見つけていけばいい",There's still so much to do as an idol. Let's discover it through those activities.
+1005001040170,摩美々,"それだとー、
+今までと一緒じゃないですかぁ",That's allー? Isn't that the same as before?
+0000000000000,プロデューサー,焦る必要はない,No need to rush.
+0000000000000,プロデューサー,"摩美々がやりたいと思えることが見つかれば
+全力でサポートするし","If you find what it is that you want to do, I'll give you my full support."
+0000000000000,プロデューサー,"もし見つからなくても、俺は、
+プロデューサーとしてずっと傍にいるぞ","Even if you can't, as your Producer, I'll be right there the whole time."
+1005001040180,摩美々,別に焦ったりとか、そういうんじゃないんですけどー,"It's not like I'm rushing, though."
+1005001040190,摩美々,"まぁ、プロデューサーといると楽しいですしー、
+今はこのままでいいってことにしておきますー","Well, it's fun to be with Producer at least. We'll leave it as it is for nowー"
+0000000000000,プロデューサー,今はただ、目の前の仕事をこなせばいいんだ,"For now, you just need to do the work that's in front of you."
+1005001040200,摩美々,"それ、今と変わりませんよねー？
+それでいいんですかぁ？","Then, that's the same as I am now rightー? Is that really alright?"
+1005001040210,摩美々,"私、知ってますよー。目標に向かって頑張ってます、
+なぁんてアイドルの方が、ウケるってことくらい","I realize it. I'm working hard towards my goals, the path of an idol is really crazy."
+0000000000000,プロデューサー,"そんなのは人それぞれだから、
+気にせず摩美々は摩美々らしくいればいいだろ？",Every person is different after all. Isn't it fine if Mamimi is just Mamimi?
+1005001040220,摩美々,"じゃあー、私らしく
+今日はもう帰りますねー","Well then, if I'm gonna be me, I'll head home already todayー"
+0000000000000,プロデューサー,"いやいや、そうじゃなくてだな……
+目標がないなら、目の前の仕事を頑張ろうって意味だ","No no, that's not what I'm saying... if you have no goal, I mean it's fine to work hard at the work in front of you."
+0000000000000,プロデューサー,"まったく。すぐサボろうとする癖は健在だな
+握手会の後半、手を抜かないか見張っておくからな","Sheesh. Your slacker habits are alive and well, huh. In the second half of your handshake event, I'll be keeping an eye that you don't cut corners."
+1005001040230,摩美々,"ふふー。仕方ないですねー
+じゃあ怒られないようにー後半も頑張りますー",Fufuー I guess then it can't be helpedー I'll work hard in the second half so that you don't get angryー
+0000000000000,プロデューサー,"そんなことを真剣に考えるなんて、
+偉いじゃないか","Reflecting so seriously about this, it's completely different, isn't it?"
+1005001040240,摩美々,"えー、別にー
+ただぁ、質問にどう応えようかなぁって思っただけですー","Ehー not reallyー I was just wondering how I should answer the question, like usualー"
+1005001040250,摩美々,"アンティーカのみんなは真剣な目標とかありますしー
+私も、ちゃんとした返事をするべきだったんですよねー","Since everyone in L'Antica has such serious goalsー I should have had a good answer, rightー"
+0000000000000,プロデューサー,"それで答えを考えていたのなら
+ファン想いの、いいアイドルだと思うぞ","And so you were thinking about the answer. Considering your fans, I think you're a good idol."
+1005001040260,摩美々,別に、まっすぐに見つめられたから困っただけですし……,"Naw, it was just awkward because they were staring right at me..."
+0000000000000,プロデューサー,"そうだとしても、きちんと向き合ってるんだ
+ファンのことをきちんと考えているってことだろ？","Even so, you faced them properly. That means you're thinking about your fans, right?"
+1005001040270,摩美々,……じゃあもう、それでいいですー,"...ah well, I guess that's fineー"
+0000000000000,プロデューサー,"さぁ、そろそろ握手会の後半が始まるぞ
+摩美々のことを想って並んでくれてるファンがいるんだ","Alright, looks like the second half is starting. There are fans lining up who are thinking about Mamimi."
+0000000000000,プロデューサー,アイドルらしく、しっかり頑張ってこい！,"Like an idol, do your best!"
+1005001040280,摩美々,……まぁ、仕方ありませんねぇ,"...well, guess it can't be helped."
+1005001040290,摩美々,"私、プロデューサーに
+アイドルとして成長させられちゃいましたしー","I'm forced to grow as an idol, thanks to Producer."
+1005001040300,摩美々,それに、ファンと話すのも……ちょっと面白いですし,"Besides, talking with my fans... it's a little interesting."
+info,produce_events/100500104.json,
+Translator,Batsu,

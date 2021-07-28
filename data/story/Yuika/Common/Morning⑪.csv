@@ -1,0 +1,27 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お、その漫画、今話題になってるよな
+俺も読んだけど、面白かったよ","Oh, that manga, it's popular right now isn't it. I read some too, it's pretty interesting."
+1007001001110010,結華,え、プロデューサーもこれ読んだの？,"Eh, you read this too Producer?"
+1007001001110020,結華,"漫画とか読むんだねぇ
+どんなのが好き？","You read stuff like manga, huh... what kind's your favorite?"
+0000000000000,プロデューサー,好きな漫画か……,My favorite manga...
+select,,最近は読んでないな,"I haven't read
+much recently"
+select,,大体何でも,Almost anything
+select,,それが好き,I like that one
+1007001001110030,結華,"最近はってことは前は結構いけたクチ？
+もったいないなぁ","You haven't read much recently, meaning you read a bit before? Well that's a waste."
+1007001001110040,結華,"また何か読みたくなったら、三峰に言ってね
+いいの教えてあげるから","If you decide you want to start reading again, ask Mitsumine okay? I'll tell you what's good."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1007001001110050,結華,そうなの？　ならもっと早く言ってほしかった……！,Oh yeah? Well then you should have said so sooner...!
+1007001001110060,結華,"今度おススメでも教えてよ、
+プロデューサーイチオシのやつ！",Next time you'll have to tell me what you recommend! Producer's Daily Advice!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1007001001110070,結華,"ん？　これだけ？
+……あーもしかして、あまり読むわけじゃない？","Hm? Just this...? Ahh, maybe you don't really read much?"
+1007001001110080,結華,"たまたまこれ読んでただけか……
+そっか、残念だなぁ","You just happened to read this one...? I see, that's a bummer."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100700100111.json,
+Translator,Batsu,
