@@ -1,0 +1,110 @@
+id,name,text,trans
+3020003020010,透,しゃー,Okaayー
+3020003020020,透,やろ,Let’s do it.
+3020003020030,小糸,……！,...!
+3020003020040,雛菜,……？,...?
+3020003020050,円香,……,...
+3020003020060,透,やるよー,"C'mon, let's start."
+3020003020070,透,"はい、柔軟
+はい！","C’mon, stretches.
+C’mon.
+"
+3020003020080,小糸,……う、うん！,...Y-Yeah!
+3020003020090,小糸,"今日は透ちゃん
+張り切ってるね……！","Toru, you’re kinda fired up today,
+aren’t you?
+"
+3020003020100,透,うん,Yeah.
+3020003020110,透,"ほら、雛菜も
+はい","C’mon, Hinana too.
+Here.
+"
+3020003020120,雛菜,うん～！,Yep～!
+3020003020130,雛菜,なんか、やる気だね～？,"Like, you’re really pumped～?"
+3020003020140,円香,ったく,Jeez.
+3020003020150,透,いくよー,Let’s go.
+3020003020160,透,樋口、補助しようか,"Higuchi, need some help there?"
+3020003020170,円香,いい、いい,"It’s fine, it’s fine."
+3020003020180,透,"オッケー
+じゃ首回りから────","Okay.
+Let’s start with neck rotations────
+"
+3020003020190,小糸,右、右、右、キメ……！,"Right, right, right, and pose…!"
+3020003020200,透,────右、右、右、キメ,"────Right, right, right, and pose."
+3020003020210,小糸,えっと、あれ……？,"Um, huh…?"
+3020003020220,小糸,キメ、がこう……！,"The pose is, like this…!"
+3020003020230,透,こう……,Like this...
+3020003020240,小糸,"うん！
+じゃ、せーの────","Yep!
+Then, one, two────
+"
+3020003020241,透＆小糸,右、右、右、キメ……！,"Right, right, right, and pose…!"
+3020003020250,雛菜,なんか違くない～？,Doesn’t it look a little different~?
+3020003020260,透,……,...
+3020003020270,透,"見てて、雛菜
+もっかい","Look closely, Hinana.
+One more time.
+"
+3020003020280,雛菜,"ん～！
+食べながらでいい～？","Yup～!
+Can I eat while watching?
+"
+3020003020290,透,"オッケー
+──小糸ちゃん","Okay.
+──Koito-chan."
+3020003020300,小糸,え、あ、うん……！,"Eh? Ah, yep…!"
+3020003020301,透＆小糸,右、右、右、キメ……！,"Right, right, right, and pose…!"
+3020003020310,透,右、右、右、キメ……,"Right, right, right, and pose…"
+3020003020320,雛菜,"あは～ 
+このかばん、学校で見た～","Aha～
+It’s that bag I saw at school～"
+3020003020330,小糸,"可愛いね……！
+雑誌の付録って感じしないし……","It’s cute, isn’t it…!
+It doesn’t look like a magazine freebie too...
+"
+3020003020340,透,右、右、右、キメ……,"Right, right, right, and pose..."
+3020003020350,円香,────見せて,────Lemme see.
+3020003020360,小糸,"ほら、これ
+すごいよね……！","See, this one.
+Looks good, doesn’t it…!
+"
+3020003020370,円香,"ふうん……
+でも確かにすごくかぶりそう","Hmm...
+Though, it does look like one you’d see everywhere.
+"
+3020003020380,透,キメ……,And pose...
+3020003020390,雛菜,透先輩、終わり～？,"Toru-senpai, are you done～?"
+3020003020400,小糸,"と、透ちゃん
+一緒に、やる……？","T-Toru-chan,
+wanna practice together?
+"
+0,ダンストレーナー,"１、２、３、４
+右、右、右、キメ……！","1, 2, 3, 4
+Right, right, right, and pose…!
+"
+0,ダンストレーナー,はい、いいでしょう……！,"Alright, looks good…!"
+3020003020410,透,ふー……,Fuu...
+0,ダンストレーナー,"──とってもいい感じです
+みなさん、なんだかレベルが上がったわね！","──That was great.
+It seems like all of you have levelled up a notch!
+"
+3020003020420,小糸,は、はい……！,Y-Yes…!
+3020003020430,雛菜,へ～？,Heh～?
+0,円香,……,...
+3020003020441,小糸＆雛菜,────,────
+3020003020450,透,……よしっ,...Alright.
+0,ダンストレーナー,"こうやって意識を高く持って
+レッスンに臨んでもらえたら嬉しいです","It’d be greatly appreciated if you all 
+would keep it up like this with your lessons.
+"
+3020003020460,小糸,は、はい……,R-Right...
+0,ダンストレーナー,その調子で頑張りましょうね,"Let’s keep at this pace, shall we?"
+3020003020461,一同,ありがとうございました……！,Thank you very much…!
+3020003020470,透,よし、行こう,"Alright, let’s go."
+3020003020480,小糸,……？,…?
+3020003020490,透,行こう、バッティングセンター,To the batting centre.
+3020003020500,円香,……,...
+3020003020510,透,これで打てる,"With this, I’ll hit it."
+3020003020520,円香,……打てるか,...will you.
+info,produce_events/302000302.json,
+Translator,,

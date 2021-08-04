@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,46
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,48
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,32
 images/ui/present_box/parts.json_image,present_box_parts.png,8
@@ -14,7 +14,7 @@ images/content/my_page/banner_border/package.png,package.png,2
 images/ui/idol_portal/parts.json_image,idol_portal_parts.png,9
 images/ui/produce_commu/parts_commu.json_image,commu_parts.png,7
 images/ui/produce_top/parts.json_image,top_parts.png,20
-images/ui/idol_list/parts.json_image,idol_list_parts.png,13
+images/ui/idol_list/parts.json_image,idol_list_parts.png,15
 images/ui/produce_action/parts.json_image,produce_action.png,16
 images/ui/produce_common/parts_pyramid.json_image,parts_pyramid.png,7
 images/ui/produce_common/parts_header.json_image,parts_header.png,14
@@ -31,7 +31,7 @@ images/ui/common/parts_skill_list.json_image,parts_skill_list.png,10
 images/ui/login_bonus/parts.json_image,login_bonus.png,8
 images/ui/produce_common/parts_hint.json_image,parts_hint.png,9
 images/ui/produce_common/parts_hint_pop.json_image,parts_hint_pop.png,2
-images/ui/common/parts_sort_buttons.json_image,parts_sort_buttons.png,4
+images/ui/common/parts_sort_buttons.json_image,parts_sort_buttons.png,5
 images/ui/produce_idol_rank/parts_idol_rank.json_image,parts_idol_rank.png,7
 images/ui/evolution/parts.json_image,evolution_parts.png,7
 images/ui/produce_deck/parts_deck_edit.json_image,parts_deck_edit.png,12
@@ -40,7 +40,7 @@ images/ui/produce_action/parts_tab_3.json_image,parts_tab_3.png,1
 images/ui/training/parts.json_image,training_parts.png,9
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,7
 images/ui/common/parts_filter.json_image,common_filter.png,4
-images/ui/fes/parts.json_image,fes_parts.png,28
+images/ui/fes/parts.json_image,fes_parts.png,29
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,14
 images/ui/start/parts.json_image,start_parts.png,10
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,8
@@ -259,7 +259,7 @@ images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,12
 images/ui/common/parts.json_image,common_parts.png,32
-images/ui/common/parts_icons.json_image,common_parts_icons.png,23
+images/ui/common/parts_icons.json_image,common_parts_icons.png,24
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/true_end_teaching/ready/parts.json_image,true_end_ready.png,2
 images/tips/true_end_teaching/area_select/001.jpg,tutorial/true_end_tutorial_001.png,2

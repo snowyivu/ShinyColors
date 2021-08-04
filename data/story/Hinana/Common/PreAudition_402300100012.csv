@@ -1,0 +1,22 @@
+id,name,text,trans
+4023001000120010,雛菜,"あは～、審査員の人怖そう～～～！
+雛菜、怒られたらやだな～……",Aha~ The judge looks like a pushover~~~! There's no way they'd scold Hinana~...
+0000000000000,プロデューサー,（審査員のことを気にしているのか……）,(She's concerned with the judges...?)
+select,,きっと褒められるよ,"They'll definitely
+praise you"
+select,,いつも通りやれば平気だ,"Just perform like
+you normally do"
+select,,"怒りはしない
+んじゃないか？","They wouldn't get
+angry, right?"
+4023001000120020,雛菜,"あ～、そっか～！
+それなら大丈夫だ～～～！",Ah~ I see~! Well then it'll all be fine~~~!
+0000000000000,プロデューサー,（はは……さすがだな……）,(Haha... that's Hinana for you...)
+4023001000120030,雛菜,"うん～、そうだよね
+いつも通りやれば褒められるよね～？","Hmm~ could be. If I do what I normally do I'll be praised, right~?"
+0000000000000,プロデューサー,（うん……少しは持ち直したようだ）,(Hmmm... she seems to have recovered a little.)
+4023001000120040,雛菜,"え～……ほんとに～？
+それならいいけど～……",Eh~... really~? I guess it'll be okay...
+0000000000000,プロデューサー,（しまった、もっとちゃんと答えればよかった……）,(Shoot... I should have answered more carefully...)
+info,produce_communication_cheers/402300100012.json,
+Translator,Batsu,
