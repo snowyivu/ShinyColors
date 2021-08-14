@@ -12,16 +12,16 @@ Ahhh...!"
 2024004010040,にちか,"──────ステップ、ステップ…………
 ……あーーーーーー違う違う…………","──Step, step...
 Uahhh── wrong, wrong!"
-2024004010050,にちか,…………──────うるさ,... Noisy.
+2024004010050,にちか,…………──────うるさ,...Noisy.
 2024004010060,にちか,ステップ、ステップ、ステッ──────,"Step, step, st──"
 2024004010070,にちか,────────………………,──......
 2024004010080,にちか,……あの,Hey...
 2024004010090,にちか,────あの！,──Hey!
 0,プロデューサー,"…………ん？
-あれ、呼んだか","...... Hm?
+あれ、呼んだか","......Hm?
 Oh, you're asking for me?"
 2024004010100,にちか,"うわ……
-絶対呼んでる状況ですよね！？","Uah...
+絶対呼んでる状況ですよね！？","Ugh...
 Without a doubt, I'm asking for you!"
 0,プロデューサー,"……っ
 す、すまん……！　どうしたんだ？",".....! S-sorry...!
@@ -39,7 +39,7 @@ What's going on?"
 0,プロデューサー,"す、すまん……
 なんか緊張してしまって──────","S-sorry...
 You seem sort of anxious──"
-0,プロデューサー,──────…………にちか？,──... Nichika?
+0,プロデューサー,──────…………にちか？,──...Nichika?
 0,プロデューサー,ど、どうしたんだ……,What happened?
 0,プロデューサー,"…………
 カバンと……傘…………","......!
@@ -54,7 +54,7 @@ The bottle... is from my bag too──"
 0,プロデューサー,"……！
 は……はい…………","......!
 G... got it..."
-0,プロデューサー,…………あ、待ってくれ！,"... Oh, hold on!"
+0,プロデューサー,…………あ、待ってくれ！,"...Oh, hold on!"
 2024004010170,にちか,……,......
 0,プロデューサー,"今のうちに、ちょっと何か飲みたいんだけど……
 キッチンだけ入っていいか……？","I could actually use something to drink right about now...
@@ -71,31 +71,31 @@ Mind if I go to the office kitchen really quick?"
 Well, um──"
 2024004010210,にちか,飲み物ですか？,Something to drink?
 select,,"……いや
-無理にはいいんだ","... Oh, well, it's
+無理にはいいんだ","...Oh, well, it's
 okay if not."
 select,,うん……,Yeah...
-select,,……ごめんな,... I'm sorry.
+select,,……ごめんな,...I'm sorry.
 2024004010220,にちか,"うわっ
-いいんだったら言わなくてよくないですかー！","Uah, it's not like you have to tell me if it's okay or not!"
+いいんだったら言わなくてよくないですかー！","Ugh, it's not like you have to tell me if it's okay or not!"
 2024004010230,にちか,やば、めちゃめちゃ私悪者みたい……！,"That's awful, I really sounded like the bad guy just then...!"
 0,プロデューサー,"いや、すまん！　俺がうるさくしてしまったのが悪いな
 外行ってくるよ……！","No, sorry! It's my fault for being troublesome.
 I'm gonna head out...!"
 2024004010240,にちか,"……あっ
-………………","... Wh──
+………………","...Wh──
 ......"
-2024004010250,にちか,……どれ取りますかー,... Which one should I get?
+2024004010250,にちか,……どれ取りますかー,...Which one should I get?
 0,プロデューサー,え？,Huh?
 2024004010260,にちか,どれ取りますか！　水ですかお茶ですかコーヒーですか！,Which one should I get!? Water? Tea? Coffee!?
 0,プロデューサー,い、いいのか……！,A-are you sure...!?
 2024004010270,にちか,"あーーんーーーー！！
 めっちゃめちゃうるさいので飲み物だけ取りますーーー！！",Aaaahhhhhhh!!!!!!! Just shut up and tell me what you want me to get!!!
 0,プロデューサー,"……その、つけ麺わりと辛いやつで
-それに外出ると、それはそれでうるさいかなとか…………","... Well, that tsukemen is kinda spicy... And I'm afraid if I don't eat out there, it's gonna be annoying..."
+それに外出ると、それはそれでうるさいかなとか…………","...Well, that tsukemen is kinda spicy... And I'm afraid if I don't eat out there, it's gonna be annoying..."
 2024004010280,にちか,"うるさいの気にするんだったら最初からしてくださいよー
 言い訳とかやめ────うわっ","If you were worried about that, you should have told me from the start! Don't make excu──Whoa."
 0,プロデューサー,──────……,──...
-2024004010290,にちか,今は静かにするのやめてもらえないですかねーーーー！！,Can you please stop being quiet now~~!!
+2024004010290,にちか,今は静かにするのやめてもらえないですかねーーーー！！,Can you please stop being quiet now!?
 2024004010300,にちか,…………,......
 0,プロデューサー,す、すまん……ありがとう、にちか……！,"S-sorry... Thank you, Nichika...!"
 2024004010310,にちか,…………,......
@@ -107,7 +107,7 @@ I'm gonna head out...!"
 昼も食べないで頑張ってくれてるんだもんな……！","But Nichika, you've been working hard without eating lunch too, you know...!"
 2024004010330,にちか,……,...
 2024004010340,にちか,30秒ですー,30 seconds.
-0,プロデューサー,…………にちか？,... Nichika?
+0,プロデューサー,…………にちか？,...Nichika?
 2024004010350,にちか,"ほんとに30秒なんですけど大丈夫ですか
 バリア開きます……25、24、23────","You really have 30 seconds while it's okay.
 The barrier is open... 25, 24, 23──"
@@ -115,12 +115,12 @@ The barrier is open... 25, 24, 23──"
 急ぐよ──────","──Oh! Thank you! 
 I'm hurrying──!"
 2024004010360,にちか,"あーーーー！　ぜっったい置いてる物に
-触れないでくださいー！！　触ったらやばいので！！！","Aaaahh~! Please don't touch anything I put in there either~!
+触れないでくださいー！！　触ったらやばいので！！！","Aaaahh!! Please don't touch anything I put in there either~!
 It's gonna be dangerous if you do!!!"
 0,プロデューサー,"……お、おう！
-やばいっていうのは…………？","... O-okay! But what do you mean by ""dangerous""...?"
+やばいっていうのは…………？","...O-okay! But what do you mean by ""dangerous""...?"
 2024004010370,にちか,"……えっと
-パンチですかねー…………！","... H-hm...
+パンチですかねー…………！","...H-hm...
 I'll bonk you...!?"
 info,produce_events/202400401.json,
 Translator,Alice,

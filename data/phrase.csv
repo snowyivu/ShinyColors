@@ -1649,12 +1649,12 @@ idolList.emptyMessages.idolList,所持しているアイドルがいません。
 idolList.emptyMessages.training,所持しているアイドルがいません。,There are no owned idols.
 idolList.emptyMessages.evolution,特訓可能なアイドルがいません。,There are no idols that can be evolved.
 idolList.emptyMessages.workActivity,所持しているアイドルがいません。,There are no owned idols.
-option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,サポートアイドルスキルカットイン\n発生時に早送り解除
+option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,Cancel fast forward when support idle skill cut-in \ n occurs
 option.homeContent.title.conversation,アイドル同士の会話,Conversations between idols
 idolDetail.skill.acquisitionLevel,Lv.%{level}で習得,Learned at Lv.%{level}
 produceHeader.concertSeason.fanMeeting,感謝祭,TFD
-profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,名前を変更するには、enza連携が必要です
-profile.pfAccountRecommendTwoLines,名前を変更するには\nenza連携が必要です,名前を変更するには\nenza連携が必要です
+profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,"To change the name, enza cooperation is required"
+profile.pfAccountRecommendTwoLines,名前を変更するには\nenza連携が必要です,enza cooperation is required to change the name
 trend.staffComment,流行の結果にあわせて、\nオーディションを受けてみてください♪,流行の結果にあわせて、\nオーディションを受けてみてください♪
 beginnerMission.completeRewardPop.title,%{title}コンプリート,
 beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,

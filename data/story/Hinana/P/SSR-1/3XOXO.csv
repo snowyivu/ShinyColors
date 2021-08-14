@@ -4,7 +4,7 @@ id,name,text,trans
 チェイン……雛菜か","Hm...?
 A text... From Hinana huh."
 2023004030020,雛菜,『プロデューサーいま何してる？』,"""Producer whatcha doin'?"""
-0000000000000,プロデューサー,……何かあったのか……？,What have I been doing...?
+0000000000000,プロデューサー,……何かあったのか……？,Did something happen?
 0000000000000,プロデューサー,"『事務所で資料をまとめてるけど
 何かあったのか？』","""Just finishing up paperwork at the office,
 is everything okay?"""
@@ -12,7 +12,7 @@ is everything okay?"""
 0000000000000,プロデューサー,"というか、この時間
 雛菜は授業中のはずじゃ……","Thinking about it,
 Hinana should be in class right now..."
-0000000000000,プロデューサー,……返信早いな……！,What a fast reply...!
+0000000000000,プロデューサー,……返信早いな……！,Such a fast reply...!
 2023004030030,雛菜,"『雛菜がこの間持ってたプリント
 事務所にない？』","""Is the form that Hinana brought that one time
 still in the office?"""
@@ -57,8 +57,7 @@ Still thinking about it～"
 きっと","If Hinana puts down what she wants,
 she's sure that'll happen."
 0000000000000,プロデューサー,"……なんだ、雛菜
-書きたいこと、あるのか？","...Why do you think that Hinana?
-Aren't there things you want to write about?"
+書きたいこと、あるのか？",So you do have something to write about?
 2023004030090,雛菜,"ん～？
 でもどうせ書き直し～って言われるよ？","Hmm～？
 Won't Hinana be told to rewrite her answers anyway?"

@@ -3,7 +3,7 @@ id,name,text,trans
 はい。すみませんでした……","──Yes.
 I understand. I'm very sorry..."
 0,フロアマネージャー,"……色々大変なのはわかるけど
-仕事は仕事だし、ミスはミスだから","... I know there's a lot to learn,
+仕事は仕事だし、ミスはミスだから","...I know there's a lot to learn,
 but work is work, and so a mistake is a mistake."
 2024004020020,にちか,"はい……
 ……","I understand...
@@ -12,7 +12,7 @@ but work is work, and so a mistake is a mistake."
 プロデューサーさー────","Afternoon~
 Producer-sa──"
 0,プロデューサー,"──あっ、ええ。はい
-すぐ向かいます！","─Okay, got it. Yes.
+すぐ向かいます！","──Okay, got it. Yes.
 I'm on my way!"
 0,プロデューサー,"はづきさんすみません……！
 すぐ出ちゃうので、荷物届いたら────","I'm sorry, Hazuki-san...!
@@ -47,14 +47,14 @@ Sorry. Give it your best."
 0,ダンストレーナー,"にちかちゃん、
 もうちょっと基礎付けてからがいいかなぁって","Nichika-chan, I'd say it's probably better for you to have a bit stronger of a foundation first."
 2024004020120,にちか,"……あー
-あははっ、そうですよねー……","... Oh. 
-Ahaha, that's true, isn't it~..."
+あははっ、そうですよねー……","...Oh. 
+Ahaha, that's true, isn't it~?"
 2024004020130,にちか,"お疲れ様ですー
 ────あれ、プロデューサーさん……","Good work today~
 ──Huh? Producer-san...?"
 2024004020140,にちか,いないんだ,Not here.
 2024004020150,にちか,"……13時ナントカ社、14時リハ立ち合い、16時ラジオ
-打ち合わせ、16時半定例会議、17時半スタジオ立ち寄り","... 13:00, Nantoka Co. 14:00, rehearsal meeting. 16:00, radio meeting. 16:30, office meeting, 17:30, studio visit and check."
+打ち合わせ、16時半定例会議、17時半スタジオ立ち寄り","...13:00, Nantoka Co. 14:00, rehearsal meeting. 16:00, radio meeting. 16:30, office meeting, 17:30, studio visit and check."
 2024004020160,にちか,────…………,──......
 2024004020170,にちか,────プーローデューサーさーーーーん！,──P r o d u c e r - s a a a n !
 0,プロデューサー,うわっ、すまん…………！,"Whoa, sorry...!"
@@ -69,21 +69,21 @@ If you're busy, I'll walk back──"
 No, no, that's not a good idea. Get in──"
 2024004020190,にちか,それじゃ……！,I'm...!
 2024004020200,にちか,忙しいアピールやめてもらっていいですかねー────！？,Can't you stop showing off your oh-so busy schedule!?
-0,プロデューサー,──────……にちか,... Nichika...
+0,プロデューサー,──────……にちか,...Nichika...
 2024004020210,にちか,"別に……プロデューサーさんだけが
 忙しいわけじゃないのでー","It's just... You're not the only one who's busy, you know?"
-0,プロデューサー,……えっと────,... Well──
+0,プロデューサー,……えっと────,...Well──
 0,プロデューサー,うん,You're right.
 2024004020220,にちか,"……っ
 私だって──────…………","......!
 That's why I──"
-select,,……大変だよな,"... Things are difficult
+select,,……大変だよな,"...Things are difficult
 right now."
 select,,"……俺は
-忙しくないよ","... I'm really not
+忙しくないよ","...I'm really not
 that busy."
 select,,"……そんなふうに
-見えるかな","... I didn't mean to
+見えるかな","...I didn't mean to
 come off like that."
 0,プロデューサー,俺なんかより……ずっとさ,I know... it's a lot more for you than it is for me.
 2024004020230,にちか,"……っ
@@ -94,15 +94,15 @@ You don't have to be such a huge liar right now...!"
 私みたいな……素人が夢見てるのと違って！","It's your job after all! Everything you do is important!
 Unlike mine... which is just the dream of an amateur!"
 0,プロデューサー,"……にちか……？
-なんで──────",... Nichika...? What do you──
+なんで──────",...Nichika...? What do you──
 2024004020260,にちか,"……それじゃ、お疲れ様でしたー！
-バス来ちゃうんで行きますねー！","... Well, thank you sooo much for your hard work today! 
+バス来ちゃうんで行きますねー！","...Well, thank you sooo much for your hard work today! 
 The bus is here, so I'm taking that!"
 0,プロデューサー,"あっ……！　にちか…………！
 にちか、待ってくれ","Hey...! Nichika...!
 Nichika, wait──"
 2024004020270,にちか,"あはははっ
-暇になったら見に来てくださいねー、素人のダンス！",Ahahaha! Why don't you come and see it when you're free─ my amateur dancing!
+暇になったら見に来てくださいねー、素人のダンス！","Ahahaha! Why don't you come and see it when you're free, my amateur dancing!"
 0,プロデューサー,"──────
 なんで","──
 Cut it out──"
@@ -126,7 +126,7 @@ What's wrong...? I really didn't mean──"
 俺の苦労なんて、にちかの大変さには比べられない","......
 I'd never mean to compare your hardships to mine."
 2024004020330,にちか,"……あ、バス来るっぽいので行きますねー
-明日もお迎え大丈夫ですー！","... Oh, looks like the bus is coming~!
+明日もお迎え大丈夫ですー！","...Oh, looks like the bus is coming~!
 I'll see you tomorrow, just like this!"
 0,プロデューサー,"あっ、にち────────
 …………","Wh-, Nichi──
@@ -136,21 +136,21 @@ I'll see you tomorrow, just like this!"
 Oh, that's not the case!? Amaaazing!!"
 2024004020350,にちか,"めちゃめちゃ仕事して、めちゃめちゃ電話もかかってきて
 全然事務所にいる時間なくて、でも忙しくないんだー！","You've been working super hard and taking so many calls that you're never in the office at all, but no, you're not busy at all~!"
-0,プロデューサー,────……にちか、その──────,"... Nichika, that's──"
+0,プロデューサー,────……にちか、その──────,"...Nichika, that's──"
 0,プロデューサー,"俺が忙しそうに見えるとしたら、
 それは、全部にちかのためなんだ","If it really does seem like I'm too busy, it's because of the things I'm doing for you."
 2024004020360,にちか,"……やば、全部とか
-めちゃめちゃ適当に言ってるじゃないですか","... Totally, *everything.*
+めちゃめちゃ適当に言ってるじゃないですか","...Totally, *everything.*
 It feels like you're just saying whatever at this point, doesn't it?"
 0,プロデューサー,"……いや、適当じゃないよ
-なんて言えばいいかな──────","... No, I'm truly not.
+なんて言えばいいかな──────","...No, I'm truly not.
 What should I say───"
 2024004020370,にちか,"あ！　いいです全然！　めちゃめちゃ忙しいんだし、
 そんなどーうでもいい説明に時間使わないでくださいー！","Oh! Everything is fine! I know you're super busy, so no need to spend time explaining it to someone like me~!"
 2024004020380,にちか,"じゃ、私、時間あるのでゆっくりレッスン場行きますねー！
 もう邪魔しないので、資料チェック頑張ってくださいー！","Well, I on the other hand can take my time on my way to the lesson room! I won't interfere anymore, so do your best checking over those files, please~!"
 0,プロデューサー,"……っ、にちか──────
-──────待っ…………","... Hey, Nichika──
+──────待っ…………","...Hey, Nichika──
 ──Wait..."
 info,produce_events/202400402.json,
 Translator,Alice,
