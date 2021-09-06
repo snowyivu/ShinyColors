@@ -1,0 +1,135 @@
+id,name,text,trans
+2020007110010,透,ねー,Heey.
+2020007110020,透,"どんな味？
+ルッコラって","What do they taste like?
+Arugulas, I mean.
+"
+0000000000000,プロデューサー,え？,Eh?
+2020007110030,透,"え？
+どんな味かなーって、ルッコラ","Eh?
+I just wondered how arugulas taste like.
+"
+0000000000000,プロデューサー,"……はは
+用件、それか？","...Haha.
+That’s what you called me for?
+"
+2020007110040,透,んー,Yeah.
+0000000000000,プロデューサー,なんだ、家なのか？,"What, you at home?"
+2020007110050,透,"んー
+暇","Yeah.
+Bored."
+0000000000000,プロデューサー,"そっか
+ちゃんと休めてるなら、よかった","I see.
+If you’re getting proper rest then that’s fine.
+"
+2020007110060,透,外？,You outside?
+0000000000000,プロデューサー,"え、俺か
+うん","Eh, me?
+Yeah.
+"
+2020007110070,透,"聞こえる、セミの声
+忙しい？","I can hear the sound of cicadas.
+Busy?
+"
+0000000000000,プロデューサー,まぁまぁかな,"So so, I guess."
+2020007110080,透,"じゃ、教えてよ
+ルッコラどんな味か","Then, tell me.
+How do arugulas taste?
+"
+2020007110090,透,"あるんだ
+冷蔵庫に",There's some in the refrigerator.
+0000000000000,プロデューサー,"あぁ……
+留守番なのか","Ahh…
+Are you home alone?"
+2020007110100,透,"そう
+来る？","Yep.
+Wanna come over?"
+0000000000000,プロデューサー,なんでだ,Why?
+2020007110110,透,"いいじゃん
+手伝ってよ、宿題とか","Why not.
+Help me out with my homework, maybe."
+0000000000000,プロデューサー,"ダメダメ
+せっかく時間あるんだから、じっくり取り組むこと","No will do.
+Since it’s your off-day, I want you to spend it well.
+"
+2020007110120,透,えー,Eeeh.
+2020007110130,透,……あ,...Ah.
+2020007110140,透,聴こえるね、なんか,I hear something.
+0000000000000,プロデューサー,"あ、すまん
+ちょっと騒がしいとこでさ","Ah, sorry.
+It’s a little noisy on my end."
+0000000000000,プロデューサー,かけなおそうか、後で？,Want me to call back later instead?
+2020007110150,透,"え、ううん
+いい","Eh, no.
+It’s fine."
+2020007110160,透,いい、このままで,It’s fine like this.
+0000000000000,プロデューサー,ええと……そうか,"Oh, uh... I see."
+2020007110170,透,"うん
+……","Yeah.
+...
+"
+0000000000000,プロデューサー,……,...
+2020007110180,透,"……聴いたことある
+この曲",...I’ve heard this song before.
+0000000000000,プロデューサー,ん？,Hm?
+2020007110190,透,"曲
+後ろ、聴こえるやつ",The song playing in the background.
+0000000000000,プロデューサー,"あぁ、うん
+古いやつだよな","Ahh, right.
+That’s an old one.
+"
+0000000000000,プロデューサー,"ちょっともの悲しくて……
+ギターの音がさ","It’s a little melancholic, 
+with the guitar backing and all...
+"
+2020007110200,透,……え？,...Eh?
+2020007110210,透,"ギターの音？
+これ","That's a guitar?
+This?"
+0000000000000,プロデューサー,え？　うん,Eh? Yeah.
+2020007110220,透,へー……,Huh...
+2020007110230,透,初めて聴いた,First time hearing it.
+0000000000000,プロデューサー,"ははは、いやいや……
+この前弾いてたじゃないか","Hahaha. No way…
+You played one just the other day, didn’t you.
+"
+2020007110240,透,"え、だって
+全然違うじゃん","Eh?
+But it sounds totally different.
+"
+0000000000000,プロデューサー,まぁ、弦も緩んでたか,"Well, maybe it had a loose string or something."
+0000000000000,プロデューサー,"でも、ギターだよ。これが
+いろんな曲に使われてるだろ？","Still, it’s a guitar.
+It’s used in a lot of songs, you know?
+"
+2020007110250,透,ふーん……,Hmm...
+2020007110260,透,"ふふ
+増えた","Fufu.
+I know even more now."
+0000000000000,プロデューサー,……？,...?
+2020007110270,透,音,Sounds.
+2020007110280,透,"かたまりだったけど
+音楽って",Music is the overlapping of many sounds.
+2020007110290,透,これが、ギター,And this is... the sound of a guitar.
+0000000000000,プロデューサー,……うん,...Yeah.
+2020007110300,透,"ちょ……
+黙らないでよ、なんか","Hey…
+Don’t go silent on me."
+0000000000000,プロデューサー,"あぁ、すまん
+ええと────","Ahh sorry.
+Umm────
+"
+2020007110310,透,"ルッコラ
+教えてもらってない","Arugulas.
+You haven’t told me about them.
+"
+0000000000000,プロデューサー,"ははは、その話続いてたのか
+そんな大した味じゃないぞ。普通の野菜だ","Hahaha. We’re still talking about that?
+It’s not that big of a deal.  It’s just like any other 
+summer vegetable."
+2020007110320,透,えー、わかんないって,"Eeh, I told you I dunno, though."
+2020007110330,透,"増えたらいいじゃん
+味も","Why not know more flavors too?
+"
+info,produce_events/202000711.json,
+Translator,,

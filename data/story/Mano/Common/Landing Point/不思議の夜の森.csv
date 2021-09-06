@@ -1,25 +1,25 @@
 id,name,text,trans
 0000000000000,プロデューサー,『真乃さんの花鳥園リポートをいつも楽しみに見ています！』,"""I find myself looking forward to your bird park report every single time!"""
 0000000000000,プロデューサー,"『鳥への優しい眼差し、心和みます』
-──それから……","""Your kind and gentle approach to birds is truly heart-warming to witness! ""
+──それから……","""Your gentle approach to birds is so comforting to watch! ""
 ──Oh, and here's another one..."
 0000000000000,プロデューサー,"『まのちゃんのコーナーがいちばんすきです』……はは、
 これは小さな子からのファンレターかな？","""the part with mano-chan is my favrite!""
-Haha, looks like a child wrote this fanletter."
+Haha, looks like a little kid wrote this letter."
 1001004030010,真乃,"ほわぁ……ふふ……
 クレヨンで書かれてます……っ","Hwa... heehee...
 It's all in crayon...!"
-1001004030020,真乃,番組、いろんな方が見てくださっているんですね……,It really shows how many different kinds of people are watching the show...
-0000000000000,プロデューサー,ああ、ツイスタでの感想も少しずつ増えているよ,Yeah. And it's been gaining some traction on Twesta as well.
+1001004030020,真乃,番組、いろんな方が見てくださっているんですね……,The program is being watched by so many different kinds of people...
+0000000000000,プロデューサー,ああ、ツイスタでの感想も少しずつ増えているよ,Yeah. And it's been gaining traction on Twesta as well.
 0000000000000,プロデューサー,"今回、真乃がスタジオトークに呼ばれたのも、
-番組サイドが思っていた以上の反響があったからだそうだ","From what I've been told, even the TV guys were surprised by the reception of your segment. That's what made them decide to invite you to the studio."
-0000000000000,プロデューサー,テーマは『鳥との思い出エピソード』ってことだけど──,"""Your most memorable encounters with birds""
+番組サイドが思っていた以上の反響があったからだそうだ","From what I heard, even the TV guys were surprised by the reception of your segment. That's why they invited you to the studio today."
+0000000000000,プロデューサー,テーマは『鳥との思い出エピソード』ってことだけど──,"""Memorable encounters with birds""
 That's what the topic's gonna be, they said."
 0000000000000,プロデューサー,"……真乃なら問題ないな
 なんといっても大好きな鳥のことだ","Well, should be a piece of cake for you, anyway.
 I mean, you could talk about birds for hours on end, right?"
 0000000000000,プロデューサー,"……っと、そろそろ時間だな
-スタジオに移動するか","Oh, and look at the clock. It's about time to get ourselves to the studio."
+スタジオに移動するか","Oh, look at the time. Let's head to the studio."
 1001004030030,真乃,はい……っ,Yes...!
 1001004030040,真乃,……あの、スタジオトークも頑張ります……ので,I'm going to give it my very best shot in the studio... so...
 1001004030050,真乃,見守っていてくれますか……？,Will you please watch over me...?
@@ -27,9 +27,9 @@ I mean, you could talk about birds for hours on end, right?"
 0000000000000,プロデューサー,"どんなエピソードを聞かせてもらえるんだろうな
 俺も楽しみだ──！",I wanna hear about your bird adventures just as much as everyone else!
 0000000000000,司会者,"──さて真乃ちゃん、『花鳥園便り』のコーナーで、
-いつも楽しいリポートを送ってくれてありがとう！","──I gotta thank you first, Mano-chan. I've really been enjoying your bird reports in our ""Letters from the Bird Park"" segment."
+いつも楽しいリポートを送ってくれてありがとう！","──I gotta thank you first, Mano-chan. I've really been enjoying your bird reports in our ""News from the Bird Park"" segment."
 0000000000000,司会者,"真乃ちゃんって、
-鳥さんのこと本当に大好きだよね……！","You're a pretty big bird lover yourself, isn't that right?"
+鳥さんのこと本当に大好きだよね……！","You're quite a bird lover yourself, isn't that right?"
 1001004030060,真乃,"は、はい……っ
 好きです……知っていてくれたんですか","Y-Yes, I am...! You knew about that?"
 0000000000000,司会者,"そりゃそうだよ～！
@@ -40,10 +40,10 @@ Like, memorable encounters with birds you had, or something...!"
 1001004030070,真乃,"も、持ちネタはないですけれど……っ
 えっと……じゃあ……","I-I'm not sure about telling them at parties, but...
 Uhm... well..."
-1001004030080,真乃,フクロウさんに助けてもらったお話を……,How about the time an owl saved me...?
+1001004030080,真乃,フクロウさんに助けてもらったお話を……,How about the time an owl helped me out...?
 0000000000000,司会者,"ほら、やっぱり……！
-すごい話が出てきたよ……詳しく詳しく……！","Hah, there you go!
-That sounds like an awesome story... tell me everything!"
+すごい話が出てきたよ……詳しく詳しく……！","Hah, I knew it!
+That sounds like a great story... tell me everything!"
 1001004030090,真乃,……小さい頃、家族でキャンプした時のことなんですが,"Well, it happened when I was little, and I was out camping with my family..."
 1001004030100,真乃,"私、テントから離れて……
 森の中で道がわからなくなってしまったんです","I had gone away from our tent by myself, but then I lost my way in the forest..."
@@ -56,15 +56,16 @@ That sounds like an awesome story... tell me everything!"
 1001004030140,真乃,そんなところに──,"But then, right when I was growing anxious──"
 1001004030150,真乃,フクロウさんが来てくれたんです,An owl appeared...
 1001004030160,真乃,不安な私をなだめるように、ほーほーって……,"Hoo-hoo! It hooted at me, as if trying to comfort me."
-1001004030170,真乃,優しく、あたたかく声をかけてくれて……,"It kept calling out to me, in a warm, gentle voice..."
+1001004030170,真乃,優しく、あたたかく声をかけてくれて……,"It kept calling out to me, in a kind, warm voice..."
 1001004030180,真乃,"分かれ道では、
 こっちだよって教えてくれて──","Whenever I came to a fork in the path, it would tell me which way to go──"
-1001004030190,真乃,……気がついたら、テントのそばまで戻っていました,"...and before I knew it, I was back at the tent."
+1001004030190,真乃,……気がついたら、テントのそばまで戻っていました,"...and before I knew it, I found myself back by the tent."
 0000000000000,司会者,…………すごいね,"Wow, that's amazing..."
 0000000000000,司会者,"迷子の真乃ちゃんを導いて、
 助けてくれたんだ",So that owl was showing you the way when you were lost?
 1001004030200,真乃,"はい……っ
-そうなんです",Yes... That's right.
+そうなんです","Yes... 
+That's right."
 1001004030210,真乃,フクロウさんはきっと……,I'm sure it must have──...
 0000000000000,プロデューサー,……今日のトーク、とっても良かったよ,"That was great, you really nailed that interview."
 1001004030220,真乃,ほ、本当ですか……っ,R-Really...?
@@ -73,18 +74,18 @@ That sounds like an awesome story... tell me everything!"
 もちろんそのエピソードにも驚いたけど","That anecdote about the owl...
 It was a pretty perplexing story, but it wasn't just that."
 0000000000000,プロデューサー,"真乃の話し方が上手いのかな
-夜の森の情景が浮かんできて……","Maybe it's because you're a good story-teller, but I could just see that dark forest right in front of my eyes."
+夜の森の情景が浮かんできて……","Maybe it's because you're a good story-teller, but I could almost see that dark forest right in front of my eyes."
 0000000000000,プロデューサー,俺も、真乃が出会ったフクロウの声を聞いた気がしたんだ,"In fact, it almost felt like I could hear the owl you met there."
 0000000000000,プロデューサー,ほー、ほー、って……,Hoo-hoo...!
 1001004030230,真乃,……,......
 0000000000000,プロデューサー,"……はは……なんて、すまん
 下手なモノマネで……","...Heh... forget it.
-I'm no good at animal impressions..."
+I'm terrible at animal impressions..."
 1001004030240,真乃,…………,......
 1001004030250,真乃,"ふふ……っ
 いえ、その……","Heehee...!
 No, actually..."
 1001004030260,真乃,……きっと、同じ声だったと思います,I'm sure it sounded just like that.
-1001004030270,真乃,優しくて、あたたかい──,A warm and gentle voice──
+1001004030270,真乃,優しくて、あたたかい──,Kind and warm...
 info,produce_events/100100403.json,
 Translator,Pluie,

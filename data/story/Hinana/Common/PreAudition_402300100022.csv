@@ -1,0 +1,24 @@
+id,name,text,trans
+4023001000220010,雛菜,"は～い、プロデューサー
+ステージに向かう雛菜に一言どうぞ～♡","Okay, producer～
+A word for Hinana before she goes on stage～♡"
+0000000000000,プロデューサー,（さて、なんて声をかけようか……）,"(Now, what should I say...)"
+select,,楽しみにしてるぞ！,"I'm looking forward
+to it!"
+select,,楽しんでこい！,"Go have lots
+of fun!"
+select,,頑張ってこい！,Go get them!
+4023001000220020,雛菜,"やは～♡
+うん、プロデューサーのこと楽し～くしてあげる！","Yaha～♡
+Yep, I'll make sure producer
+has lots of fun!"
+0000000000000,プロデューサー,（いい笑顔だ、いけそうだな……！）,(That was a bright smile. She'll do fine...!)
+4023001000220030,雛菜,"うん～♡
+楽しく、しあわせ～に、ね？","Yep～♡
+With looots of fun and happiness, okay?"
+0000000000000,プロデューサー,（よし、いつもの雛菜だな……！）,"(Alright, she's back to her usual self...!)"
+4023001000220040,雛菜,うん～、いつも通り頑張る～～～,"Sure～
+I'll do my best as usual～"
+0000000000000,プロデューサー,（あれ、反応がいまいちだな……）,"(Hm, that wasn't a reply I expected...)"
+info,produce_communication_cheers/402300100022.json,
+Translator,,

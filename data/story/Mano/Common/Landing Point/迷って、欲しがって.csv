@@ -1,10 +1,12 @@
 id,name,text,trans
 1001004020010,真乃,"『今から、お花に囲まれた素敵な場所で
-とっても楽しみにしていた収録が始まります』","""At a wonderful place right now. Flowers everywhere! We're about to start shooting something I've been really looking forward to."""
+とっても楽しみにしていた収録が始まります』","""I'm surrounded by flowers, this place is beautiful! 
+We're about to start filming something I've been really looking forward to."""
 1001004020020,真乃,"『詳細お伝えできるようになったら
-またご報告しますね』","""I don't have any details I can share right now, but I'll let you know when I can."""
+またご報告しますね』","""I'll let you know when I can share more details."""
 1001004020030,真乃,"『収録の後は、ライブに向けての打ち合わせがあります
-今日も、頑張ります』","""After the shoot, I've got a preparation session for the concert. Hard at work today!"""
+今日も、頑張ります』","""After the recording, I've got a preparation session for the concert. 
+Hard at work today!"""
 0000000000000,プロデューサー,（真乃、こまめに投稿してくれているな……）,(Glad to see Mano posting so frequently...)
 0000000000000,プロデューサー,（楽しんで仕事に取り組めているなら何よりだ）,(Even more so because she seems to be enjoying her work.)
 0000000000000,プロデューサー,（今回の仕事、本当にすごくいい調子だ──）,(This job has been going smoothly like you wouldn't believe.)
@@ -15,23 +17,23 @@ id,name,text,trans
 イルミネーションスターズの櫻木真乃です","Good afternoon, everyone!
 I'm Mano Sakuragi of illumination STARS."
 1001004020050,真乃,"きれいなお花と、たくさんの鳥さんたちに会える
-こちらの花鳥園をご紹介させていただきます……っ","Let me introduce you to this bird park, filled with stunningly beautiful flowers and all kinds of different birds to discover."
+こちらの花鳥園をご紹介させていただきます……っ","Let me introduce you to this flower and bird park, filled with stunningly beautiful flowers and all kinds of different birds to discover."
 1001004020060,真乃,"まず最初の鳥さんは……
 花鳥園の人気者、フラミンゴさんです……っ","The first bird I'd like you to meet is none other than the star of the park, the flamingo...!"
 1001004020070,真乃,"みなさん知っていますか？
 フラミンゴさんはとっても情熱的なダンサーでもあるんです","Did you know? 
-Flamingos are extremely passionate dancers!"
+Flamingos are very passionate dancers!"
 1001004020080,真乃,"こうやって……
-群れのみんなで頭を振るのですが……","They will turn their heads from one side to the other with the whole colony, like this..."
+群れのみんなで頭を振るのですが……","They turn their heads from one side to the other with the whole colony, like this..."
 1001004020090,真乃,"このダンスは今からみんなで恋をしよう、子育てしよう、
-助け合おう……って号令でもあるそうです","Apparently, this dance also functions as a signal that it's time to fall in love, to raise chicks and to help each other out."
+助け合おう……って号令でもあるそうです","Apparently, this dance is also a call for all of them to fall in love, to raise chicks and to help each other out."
 1001004020100,真乃,"また、フラミンゴさんが恋をする時期は、
-一年でいちばん鮮やかな羽色になります","During the season when the flamingos fall in love, their plumage becomes even more vibrant than usual."
+一年でいちばん鮮やかな羽色になります","Around the time of the year when the flamingos fall in love, their plumage becomes even more vibrant than usual."
 1001004020110,真乃,"尾羽の下から出る赤い色素を、くちばしで丁寧に羽に塗って
-きれいなピンクに見えるようにお化粧するんですよ","With their beaks, they paint their feathers using a red pigment secreted from under the tail. This ""make-up"" gives them a beautiful pink color."
+きれいなピンクに見えるようにお化粧するんですよ","Using a red pigment that comes out from under their tails, they carefully paint their feathers with their beaks. This ""make-up"" gives them a beautiful pink color."
 1001004020120,真乃,"……ふふ……っ
-フラミンゴさんのダンスやお化粧、見てみたいですよねっ","Heehee, after all this talk about their dancing and their make-up artistry, I'm sure you'd like to see it for yourself. I know I do!"
-1001004020130,真乃,それでは、その様子をVTRで──どうぞっ,"So without further ado, let's roll the clip──"
+フラミンゴさんのダンスやお化粧、見てみたいですよねっ","Heehee, I'm sure you'd like to see their dancing and their make-up for yourself. I know I do!"
+1001004020130,真乃,それでは、その様子をVTRで──どうぞっ,So let's take a look at a clip showing just that──
 0000000000000,撮影スタッフ,"はい、カーット！
 真乃ちゃん、とっても良かったよ！","Aaaand cut!
 Mano-chan, that was great!"
@@ -45,12 +47,13 @@ Do you have a moment?"
 はい、もちろんです。なんでも──","Oh, hello...!
 Yes, of course. If there's anything you'd──"
 0000000000000,飼育員,"ああ、大したことじゃないんです
-ちょっと撮影を見ていて思っただけのことで……","Oh, it's nothing important. It's just, I was watching you during the recording, and..."
+ちょっと撮影を見ていて思っただけのことで……","Oh, it's nothing important. 
+It's just, I was watching you during the recording, and..."
 0000000000000,飼育員,"……リポート、とてもお上手ですね
 びっくりしました","I was impressed by your presenting skills, you're really good at it."
 1001004020160,真乃,"い、いえっ、そんな……
 飼育員さんから教えていただいたことばかりで……","O-Oh, no, not at all...
-I was simply repeating everything you had told me..."
+I was simply repeating what you taught me..."
 0000000000000,飼育員,"ええ、でもそれを櫻木さんの中で
 しっかりまとめてくださったでしょう？","Well, but you turned all of that into a clear and coherent story, didn't you?"
 1001004020170,真乃,"……あの……大丈夫だったでしょうか
@@ -70,17 +73,18 @@ Just a hunch, but do you happen to be a bird-lover yourself?"
 1001004020200,真乃,は、はい……っ,"Y-Yes, I am...!"
 0000000000000,飼育員,"やっぱりそうなんですね
 いえ、とてもいきいきと話されていたので──","I thought so!
-Ah, what I'm saying is, since you were talking about them so passionately──"
+Ah, what I'm saying is, since you were speaking so animatedly──"
 0000000000000,プロデューサー,"お話中のところすみません
-場所を移動するようなので良かったら歩きながらでも","Sorry to interrupt, but the crew's decided to move to a different spot. Feel free to carry on talking while we make our way there."
+場所を移動するようなので良かったら歩きながらでも","Sorry to interrupt, but it looks like we're moving locations. Feel free to carry on talking while we make our way there."
 0000000000000,飼育員,"ああ、邪魔をしてしまってすみません
 私はこちらで失礼します","Oh, no, I didn't mean to get in the way. I should get back to work."
 0000000000000,飼育員,"それではまた……
 この後の撮影も頑張ってくださいね、櫻木さん","See you later. Miss Sakuragi, good luck with the rest of the recording."
 1001004020210,真乃,ありがとうございます,Thank you.
 1001004020220,真乃,"飼育員さんも、お仕事頑張ってください
-また……っ",And good luck with your work. See you later...!
-0000000000000,プロデューサー,……親しくなれたみたいで良かったな,"Looks like you're getting along well with the caretaker, huh? Glad to see it."
+また……っ","And good luck with your work. 
+See you later...!"
+0000000000000,プロデューサー,……親しくなれたみたいで良かったな,"Looks like you're getting along well with the keepers, huh? Glad to see it."
 1001004020230,真乃,"……飼育員さんが、
 優しく言葉をかけてくださったので……","Well, she started the conversation, and she had nothing but kind words for me, so that helped..."
 1001004020240,真乃,…………,......
@@ -94,7 +98,7 @@ How did I do?"
 0000000000000,プロデューサー,"……大丈夫だよ
 真乃はもうすごく頑張ってくれている",You're doing fine as it is. You've never been one for slacking off to begin with.
 0000000000000,プロデューサー,"飼育員さんも言っていただろう？
-とてもいきいきと話してくれたって","Didn't that caretaker just tell you? How she could tell that you were speaking passionately, and all that."
+とてもいきいきと話してくれたって",Didn't that park keeper just tell you? How you were talking animatedly and all that.
 0000000000000,プロデューサー,"……真乃の一生懸命な気持ちは、
 みんなにちゃんと伝わっているんだ",Your hard work is shining through. Everyone can tell.
 1001004020280,真乃,……はい,Okay...
@@ -111,8 +115,8 @@ You're doing fine. Absolutely fine."
 Maybe they went ahead without us..."
 0000000000000,プロデューサー,"──！　そうだ、撮影場所を移動するんだったな
 忘れてた……！","──! Oh, right! 
-We were going to continue shooting at a different spot!  I completely forgot...!"
-0000000000000,プロデューサー,すまん、真乃！　ちょっと小走りで……！,"Sorry, Mano, but we're gonna have to make a dash for it!"
-1001004020310,真乃,はい、小走りで……っ,"Okay, a dash it is!"
+We were going to change locations!  I completely forgot...!"
+0000000000000,プロデューサー,すまん、真乃！　ちょっと小走りで……！,"Sorry, Mano! We're gonna have to walk quickly!"
+1001004020310,真乃,はい、小走りで……っ,"Okay, let's hurry!"
 info,produce_events/100100402.json,
 Translator,Pluie,

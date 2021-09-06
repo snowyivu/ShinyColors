@@ -1,0 +1,26 @@
+id,name,text,trans
+4023001000210010,雛菜,"ね、プロデューサー
+みんな、雛菜のステージ見てしあわせ～ってなるかな～？","Hey, producer, will everyone be full of happiness 
+when they see Hinana on stage～?"
+0000000000000,プロデューサー,（……雛菜がこんなふうに言うなんて珍しいな）,(...It's rare for Hinana to think that way.)
+select,,もちろん、なるよ,"Of course 
+they will"
+select,,きっと、大丈夫だ,"I'm sure 
+it'll be fine"
+select,,雛菜次第だな,"That depends 
+on you, Hinana"
+4023001000210020,雛菜,"そっか～、うん
+じゃあ雛菜が楽しくしあわせ～にならなきゃね～！","I see～
+Then, Hinana will need to be 
+full of happiness and fun too～!"
+0000000000000,プロデューサー,（よし、調子を取り戻したみたいだな）,(Alright. Looks like she's back in the game.)
+4023001000210030,雛菜,"あは～、それってほんとに
+大丈夫なやつ～～～？","Aha～
+Is that really gonna be alright～?"
+0000000000000,プロデューサー,（うん、笑ってリラックスできただろう……！）,"(Okay, she's seems relaxed and fine now...!)"
+4023001000210040,雛菜,"ん～、そっか～……
+じゃあ雛菜がだめだったらだめだね～","Mn～ I see～...
+So if Hinana fails it's a failure okay～"
+0000000000000,プロデューサー,（しまった……違う言い方にすべきだった……）,(Ugh...I should have said something else...)
+info,produce_communication_cheers/402300100021.json,
+Translator,,
