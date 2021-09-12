@@ -1,34 +1,34 @@
 id,name,text,trans
-0000000000000,プロデューサー,──千雪、どうかしたのか,"──Chiyuki, is something the matter?"
+0000000000000,プロデューサー,──千雪、どうかしたのか,"──Is something the matter, Chiyuki?"
 2016007020010,千雪,"えっ
-わ、私ですか……？","Eh, did you mean me...?"
+わ、私ですか……？","Eh, were you talking about me...?"
 0000000000000,プロデューサー,"ああ
 何か、俺に用事でも……","Yeah.
 Do you need me for something...?"
 2016007020020,千雪,"……いえ！
 なんでもないです～……！","...Nope!
-Nothing...!"
-0000000000000,プロデューサー,……？,Huh?
+Nothing at all～...!"
+0000000000000,プロデューサー,……？,...?
 0000000000000,プロデューサー,"──あれ
-千雪、今日はいつもと雰囲気違うんだな","──Hmm, Chiyuki, your ambiance today seems different from usual."
+千雪、今日はいつもと雰囲気違うんだな","──Hmm, something about you seems different than usual, Chiyuki."
 2016007020030,千雪,……あ、もしかしたらメイクのせいかもしれないです,"...Ah, perhaps it's because of the makeup."
 2016007020040,千雪,"最近だんだんと温かくなってきましたし
-春に合わせてといいますか……！","It's been getting warmer lately, wouldn't you say it matches springtime?"
+春に合わせてといいますか……！","It's been getting warmer lately, it's as though it's already springtime...!"
 2016007020050,千雪,あの。……ど、どうでしょうか……？,Umm... W-What's the matter...?
 0000000000000,プロデューサー,え？,Eh?
 2016007020060,千雪,……あ、変じゃないかなって……！,"...Ah, it must've looked weird!"
 2016007020070,千雪,"似合ってなかったりとか、
 そういうのがあれば、教えていただきたくて……","If it doesn't suit me, or something like that, please let me know..."
 0000000000000,プロデューサー,"あぁ、それなら大丈夫だ
-似合ってるぞ","Ahh, then it's fine.
+似合ってるぞ","Ahh, in that case, it's fine.
 It suits you."
 2016007020080,千雪,"……そ、そうですか……！
-よかったぁ……","...I-I see!
+よかったぁ……","...I-I see...!
 That's a relief..."
 0000000000000,プロデューサー,…………？,......?
 2016007020090,千雪,…………,......
 0000000000000,プロデューサー,"……おお
-千雪、ここにいたのか","...Ohh. Chiyuki, you were here all along."
+千雪、ここにいたのか","...Oh. Here you are, Chiyuki."
 0000000000000,プロデューサー,"今度の打ち合わせの場所なんだが……
 ……？　千雪？","This is the location of our next appointment...
 Huh? ...Chiyuki?"
@@ -40,22 +40,22 @@ Huh? ...Chiyuki?"
 大丈夫でしたか？","S-Sorry, I bumped into you...
 Are you OK?"
 0000000000000,プロデューサー,"あ、あぁ……こっちこそすまない
-集中してる時に……──","Ah, um... I'm sorry about that too. Interrupting you while you were concentrating──"
-0000000000000,プロデューサー,というか、今日はレッスンの日じゃなかったよな？,"Then again, today isn't the day for your lessons, right?"
+集中してる時に……──","Ah, um... I'm sorry about that too. I interrupted you while you were concentrating──"
+0000000000000,プロデューサー,というか、今日はレッスンの日じゃなかったよな？,But I thought you didn't have any lessons today?
 2016007020140,千雪,"……は、はい
 ええと、歌の、自主レッスンを……！","...Y-Yeah. 
-Umm, it's a voluntary singing lesson!"
+Umm, I'm have a singing lesson voluntarily!"
 0000000000000,プロデューサー,"……千雪
 最近、何かあったのか？","...Chiyuki.
-What's been happening to you recently?"
+What's been going on with you recently?"
 2016007020150,千雪,…………あ,...Ah.
 2016007020160,千雪,"……すみません、
-余計なご心配をおかけしてしまって……",...I'm sorry for making you needlessly worry...
+余計なご心配をおかけしてしまって……",...I'm sorry for making you worry needlessly...
 2016007020170,千雪,……実は、歌のレッスンで,"...Actually, during the singing lesson, "
 2016007020180,千雪,"トレーナーさんから、もっと気持ちを込めるようにと
 ご指導をいただいたんです","The trainer instructed me to put more emotion into my singing. "
 2016007020190,千雪,"それで、詞の内容を自分なりに理解しようとして
-色々と試してたんですけど……","As such, I tried out various things to try and understand the contents of the lyrics, but..."
+色々と試してたんですけど……","As such, I've been trying out various things to understand the contents of the lyrics, but..."
 0000000000000,プロデューサー,……そうか……,...I see.
 select,,具体的には？,In particular?
 select,,"力みすぎてる
@@ -65,50 +65,50 @@ overexerting
 yourself"
 select,,それこそ……,That's...
 0000000000000,プロデューサー,"……色々試したって言ってたからさ
-どんなことをしたのかなって",...I'm wondering what you did when you said you tried various things.
+どんなことをしたのかなって",...I'm wondering what exactly did you do when you said you tried various things.
 2016007020200,千雪,"あ、その……！　詞と同じことをしてみようと
-思いまして、メイクを変えてみたり……とか……！","Ah, that...! I thought of doing the same things as the lyrics and tried changing up my makeup, something like that...!"
+思いまして、メイクを変えてみたり……とか……！","Ah, um...! I thought of doing the same things as the lyrics and tried changing up my makeup, something like that...!"
 0000000000000,プロデューサー,"あぁ、
-この前のはそういうことだったのか……！","Ah, so that was what happened previously...!"
+この前のはそういうことだったのか……！","Ah, so that was what happened back then...!"
 2016007020210,千雪,は、はい～…………,Y-Yes～
 0000000000000,プロデューサー,"けど……
-うーん、そうか……","But... Hm, I got it..."
+うーん、そうか……","But... Hm, how about this..."
 0000000000000,プロデューサー,"例えば、物語を読むみたいな気持ちで
 歌詞について考えてみるのはどうだ？","For instance, why not try thinking about the lyrics with the kind of emotions you have when reading a story?"
 0000000000000,プロデューサー,千雪、そういうのは得意そうだしさ,That seems to be your speciality.
 2016007020220,千雪,──歌詞を、物語として……,"──The lyrics, as a story..."
 2016007020230,千雪,"……そっか
-なんだか、光が見えた気がします～……！",...I see. It feels as though I saw the light～...!
+なんだか、光が見えた気がします～……！",...I see. It feels as though I've found the light～...!
 2016007020240,千雪,"プロデューサーさん、ありがとうございます！
 私、やってみますね……！","Producer-san, thank you so much! I'll try it out...!"
 0000000000000,プロデューサー,無理に詞のことだけを考えなくてもさ,You don't have to think so hard about the lyrics.
 0000000000000,プロデューサー,"もっと自然に、千雪なりの気持ちを
-込めてみればいいんじゃないか？","Wouldn't it be more natural for it to be filled with your feelings? "
+込めてみればいいんじゃないか？","Wouldn't it be more natural for it to be filled with your own feelings? "
 0000000000000,プロデューサー,"……なんて
-あんまり俺が偉そうに言えることじゃないけどな",...Or something like that. It's not like I can say something impressive.
+あんまり俺が偉そうに言えることじゃないけどな",...Or something like that. Though I'm not really in any position to say that.
 2016007020250,千雪,いえ……,No...
 2016007020260,千雪,"……そう、ですよね……
 私なりの……","...You're right...
 My own..."
 2016007020270,千雪,──恋する女の子の気持ち……,──Feelings as a girl in love...
 0000000000000,プロデューサー,"うーん……それはちょっと、
-アイドルには難しい内容かもしれないな……？","Yeah... Well, that might be a topic difficult for idols?"
+アイドルには難しい内容かもしれないな……？",Yeah... Though maybe that might be a bit of a problematic topic for idols...?
 2016007020280,千雪,"あっ、そ……
 そうですよね、あはは……！","Ah, y... yeah, ahaha...!"
 0000000000000,プロデューサー,"ちゃんとしたアドバイスができずにすまないが……
-頑張ってくれ、千雪……！","Sorry I couldn't give any proper advice, but... please do your best, Chiyuki...!"
+頑張ってくれ、千雪……！","Sorry I couldn't give any proper advice, but... do your best, Chiyuki...!"
 2016007020290,千雪,"は、はいっ
 頑張ります……！","Y-Yes, I will...!"
 0000000000000,プロデューサー,"ヒロインだよ
 この前話していたみたいなさ",Like a heroine. It's like what we talked about previously.
 2016007020300,千雪,え？,Eh?
 0000000000000,プロデューサー,"えっと、詞の中のヒロインの気持ちに
-なって歌ってみる……とかどうかなって","Um, how about trying to sing with the feelings of the heroine within the lyrics... or something like that."
+なって歌ってみる……とかどうかなって","Um, how about trying to sing with the feelings of lyrics' heroine in mind... or something like that."
 2016007020310,千雪,な、なるほど……！,I-I see...!
 0000000000000,プロデューサー,"ちなみに、
 その曲はどんな内容の詞なんだっけ","By the way, what are the lyrics of this song about?"
 2016007020320,千雪,"ええと……
-一筋縄ではいかない恋のうた、でしょうか……",Umm... it's about love that isn't straightforward...
+一筋縄ではいかない恋のうた、でしょうか……",Umm... it's about a love that isn't straightforward...
 0000000000000,プロデューサー,"そ、そうか……
 う～ん……難しい内容だな","I-I see... Yeah...
 That sure is a difficult topic..."
@@ -121,10 +121,10 @@ With those feelings, huh..."
 2016007020350,千雪,"……私、もしかすると
 形にとらわれていたかもしれません",...I may have been restricting myself too much.
 2016007020360,千雪,"もっとこの詞のヒロインの気持ちになって
-歌えるよう、頑張ってみますね……！",I'll try my best to sing with the emotions of the heroine within the lyrics...!
+歌えるよう、頑張ってみますね……！",I'll try my best to sing with the emotions of the lyrics' heroine...!
 0000000000000,プロデューサー,"お、おお……！
-ならよかった。頑張ってくれよ、千雪！","Ohh...! That's fine then.
-Good luck, Chiyuki!"
-2016007020370,千雪,……はいっ,...Of course.
+ならよかった。頑張ってくれよ、千雪！","Ohh...! That's good to hear.
+Do your best, Chiyuki!"
+2016007020370,千雪,……はいっ,...I will.
 info,produce_events/201600702.json,
 Translator,cloverbunz,

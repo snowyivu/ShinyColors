@@ -1,37 +1,38 @@
 id,name,text,trans
 2016007010010,千雪,『叶えては生まれる、新しい夢のなか』,"[And so, a new dream had come true.]"
-2016007010020,千雪,『親指姫は気付いていたのかな？』,[Was Thumbelina aware of it?]
-2016007010030,千雪,『花の国の王子様が　最後の夢だって──』,"[Her final dream, was to be with the prince of the kingdom of flowers──]"
+2016007010020,千雪,『親指姫は気付いていたのかな？』,[Did Thumbelina realise it?]
+2016007010030,千雪,『花の国の王子様が　最後の夢だって──』,[That her final dream was to be with the prince of the kingdom of flowers──]
 2016007010040,千雪,──ど、どうでしょうか……？,──W-What do you think...?
-0000000000000,プロデューサー,……うん、すごくいいよ,"...Yup, that's very good."
-0000000000000,プロデューサー,きっと、読んでくれた人の記憶に残るんじゃないかな,The people who listen to your reading will definitely find it memorable.
+0000000000000,プロデューサー,……うん、すごくいいよ,"...Yup, that was good."
+0000000000000,プロデューサー,きっと、読んでくれた人の記憶に残るんじゃないかな,The people who listened to your reading will definitely find it memorable.
 2016007010050,千雪,"あ……
-ありがとうございます……！",Th... Thank you very much!
+ありがとうございます……！",T-Thank you very much...!
 0000000000000,プロデューサー,"けど、千雪は
-親指姫をこんなふうに読んでたんだな","However, to think that Chiyuki would narrate Thumbelina like that."
+親指姫をこんなふうに読んでたんだな",But to think that you'd narrate the story of Thumbelina in this manner.
 2016007010060,千雪,……？,...?
 0000000000000,プロデューサー,"いや……俺なんかは
 小さいお姫様の話、くらいにしか思ってなかったから",It's just... I thought of it merely as a story about a small princess.
-2016007010070,千雪,いえ、そんな……,"It's fine, that's..."
+2016007010070,千雪,いえ、そんな……,"Eh, that's fine too..."
 2016007010080,千雪,"受け取り方は人それぞれですし……
-そこが物語のいいところですから",Every person can have a different interpretation... that's what makes the story good.
+そこが物語のいいところですから",Each person can have a different interpretation of a story... that's what makes stories so good.
 0000000000000,プロデューサー,"……はは
 ありがとうな",...Haha. Thank you for that.
 0000000000000,プロデューサー,"でも、好きな本のコラムに
-親指姫の絵本を選ぶなんてさ","However, you chose the picture book of Thumbelina for the column on your favourite book."
+親指姫の絵本を選ぶなんてさ","Although, it's kinda surprising that you chose a Thumbelina picture book as your favourite book for the column."
 0000000000000,プロデューサー,"千雪らしいけど……
-何か、選んだ理由はあるのか？",It seems Chiyuki-like but... is there any particular reason for that?
+何か、選んだ理由はあるのか？","It's very much like you to do that, but... was there any particular reason for it?"
 2016007010090,千雪,"……はい
-弟が小さなころ、絵本の読み聞かせをしていたので",Yes... I used to read picture books aloud to my younger brother when he was younger.
+弟が小さなころ、絵本の読み聞かせをしていたので",...Yes. I used to read picture books aloud to my younger brother when he was young.
 0000000000000,プロデューサー,そうか,I see.
 2016007010100,千雪,……でも、それだけじゃなくて,"...However, that's not the only reason."
 2016007010110,千雪,"昔から好きなんです
-絵本とか……そういった、物語が","I've always liked them since way back. "
-2016007010120,千雪,物語のヒロインを見ていると……,Picture books and... such stories...
+絵本とか……そういった、物語が","I've always liked them since way back.
+Picture books and... such stories."
+2016007010120,千雪,物語のヒロインを見ていると……,Whenever I saw the heroine of these stories...
 2016007010130,千雪,"自分もきっと、
-何かになれるんじゃないかって思って","Whenever I saw the heroine of these stories... I thought surely, I could become something like that too. "
+何かになれるんじゃないかって思って","I thought, surely, I could become someone like that too. "
 2016007010140,千雪,"ヒロイン──
-なんて言わないですけど……",Heroine──I don't know if I can even call myself one...
+なんて言わないですけど……",Heroine── I don't know if I can even call myself one...
 2016007010150,千雪,…………,......
 select,,"いいじゃないか、
 ヒロイン","Isn't it fine
@@ -45,31 +46,31 @@ want to be
 now?"
 2016007010160,千雪,え……,Eh...
 0000000000000,プロデューサー,"なれないとか、なっちゃだめ
-なんてものはないよ",There's no reason why you can't become one.
+なんてものはないよ",There's no reason why you can't be one.
 0000000000000,プロデューサー,"それに、アイドルも似たようなものだと思うぞ
-みんなの憧れのヒロインじゃないか","Plus, I think idols are kind of similar too. Aren't they the heroine everyone longs to become?"
-2016007010170,千雪,……そうでしょうか,...That's true.
+みんなの憧れのヒロインじゃないか","Plus, I think idols are kind of similar to them too. Aren't they the real heroine that everyone admires?"
+2016007010170,千雪,……そうでしょうか,...Is that really the case?
 0000000000000,プロデューサー,"だからさ、千雪はもっと
-自分のことだけを考えてくれていいんだ",That's why it'll be nice if Chiyuki would think more about herself.
+自分のことだけを考えてくれていいんだ",That's why it'll be nice if you could start thinking more about yourself.
 0000000000000,プロデューサー,"それで、ファンや俺にも
-千雪の物語を見せてくれると嬉しいな","By doing so, the fans and I will be happy to watch the story of yours."
+千雪の物語を見せてくれると嬉しいな",And both me and your fans will be glad to see your story.
 2016007010180,千雪,…………,......
 0000000000000,プロデューサー,"──すまん、
-なんだか抽象的な話になってしまって……","──Sorry, that was kind of an abstract topic to talk about..."
+なんだか抽象的な話になってしまって……","──Sorry, I was being a bit too general about it..."
 2016007010190,千雪,いえ……,It's fine...
 2016007010200,千雪,"プロデューサーさんが
 優しくて、嬉しいです",Your kindness makes me happy.
-2016007010210,千雪,……ありがとうございます,Thank you very much.
-0000000000000,プロデューサー,その物語の疑似体験っていうのかな……,I wonder if it's because we try to simulate ourselves being in the experiences of the story...
+2016007010210,千雪,……ありがとうございます,...Thank you very much.
+0000000000000,プロデューサー,その物語の疑似体験っていうのかな……,It's kinda like simulating the experience of a story...
 0000000000000,プロデューサー,"アクション映画を観た後は
-なんだか自分も強くなった気がしたりとかな！",It's like how I feel I've become stronger after watching an action movie!
+なんだか自分も強くなった気がしたりとかな！",Sort of like how you feel like you've become stronger after watching an action movie!
 2016007010220,千雪,ふふっ……！,Fufu...!
 2016007010230,千雪,"……それじゃあ、親指姫の場合は
-『自分が小さかったら』の疑似体験でしょうか？","...Then, in the case of Thumbelina, would it be a simulated experience of ""what if I were tiny""?"
+『自分が小さかったら』の疑似体験でしょうか？","...Then, in the case of Thumbelina, wouldn't I be simulating the experience of being tiny?"
 0000000000000,プロデューサー,"おお……
 それは…………大変だな","Ohh...
 That... would be a problem."
-2016007010240,千雪,ですね～……,Right...?
+2016007010240,千雪,ですね～……,It sure would～...
 0000000000000,プロデューサー,"そう考えると、やっぱり
 どんどん未来に挑んでいった親指姫はすごいよ","Still, if you think about it, Thumbelina was amazing for continuously challenging her future."
 2016007010250,千雪,"はい……
@@ -77,24 +78,24 @@ That... would be a problem."
 2016007010260,千雪,"未来にはもっと
 素敵な事があるって思ったんだと思います",I think that there are surely still wonderful things waiting for me in the future.
 0000000000000,プロデューサー,"そうか……！
-それは、見習っていきたい考え方だな",Yeah...! That's the kind of mentality I want to have as well.
+それは、見習っていきたい考え方だな",I see...! That's the kind of mentality we should all learn to have.
 2016007010270,千雪,……ふふ、そうですね……！,"...Fufu, indeed!"
 2016007010280,千雪,"え？　ええと……
 ……そんな、急には思いつきません……",Eh? Umm... There's no way I can think of something that suddenly...
-0000000000000,プロデューサー,すまん、そうだよな……,"Sorry, that's true..."
+0000000000000,プロデューサー,すまん、そうだよな……,"Sorry, I guess that's true..."
 0000000000000,プロデューサー,"でも、ゆっくりでいいから
-自分の気持ちに向き合ってみてくれないか","However, it's alright to take it slowly. I want you to face your own feelings."
+自分の気持ちに向き合ってみてくれないか","However, it's alright to take it slow. I want you to confront your own feelings."
 2016007010290,千雪,…………,......
-2016007010300,千雪,私が、今……,"Now, I..."
+2016007010300,千雪,私が、今……,"Right now, I..."
 2016007010310,千雪,"……今は──たくさんの人を笑顔にできるような、
-そんなアイドル……でしょうか",...Right now I──want to be the kind of idol that can make others smile... or something like that.
+そんなアイドル……でしょうか",...Right now── I want to be the kind of idol that can make others smile... or I wonder if I could be.
 0000000000000,プロデューサー,……そうか。わかった,...I see. I understand.
 0000000000000,プロデューサー,"でも、それが最後の夢って
-わけじゃないんだろ？","But, that's not your final dream, right?"
+わけじゃないんだろ？","But that's not your final dream, is it?"
 2016007010320,千雪,……！,......!
 2016007010330,千雪,……はい、きっとそうです,...Yes. I think so.
 0000000000000,プロデューサー,"俺は……
-千雪が、これが最後なんだって思える夢まで","I... whatever you think your final dream may be,"
+千雪が、これが最後なんだって思える夢まで","Whatever you think your final dream may be, I..."
 0000000000000,プロデューサー,"叶えるための手伝いを
 させてもらえるといいと思ってるよ",I hope that I can help make it come true.
 2016007010340,千雪,"プロデューサーさん……

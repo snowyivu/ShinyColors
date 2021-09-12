@@ -1,0 +1,132 @@
+id,name,text,trans
+2006011040010,咲耶,"はづきさん！
+現場で頂いたお菓子、冷蔵庫に入れておくよ──","Hazuki-san!
+I'll put the snacks I got from filming in the fridge──"
+2006011040020,咲耶,"──おや
+今日のキミはこんなところにいたんだね、コウモリくん","──Oh my.
+It seems you're here this time around, little bat."
+2006011040030,咲耶,"可哀想に、こんなに冷えて……
+キミのご主人様はひどい仕打ちをするものだ","Poor thing, being placed in such a cold place...
+Your master is treating you so cruelly."
+2006011040040,咲耶,"──おいで
+私とともに行こう","──Over here.
+Come with me."
+2006011040050,咲耶,"……キミのご主人様には
+反省をしてもらわなきゃ、だな","...We must have your master reflect on what he
+has done."
+0000000000000,プロデューサー,ただいま戻りました──,I'm back──
+0000000000000,プロデューサー,"……さて
+今日はどこに隠れてるのかな～……？","...Well then...
+Where could he be hiding today～...?"
+0000000000000,プロデューサー,"（昨日は観葉植物の鉢の中だっただろー
+その前は、雑誌の陰で……）","(Yesterday, he was in the decorative plant's pot,
+right... And before that, under a magazine...)"
+0000000000000,プロデューサー,"（……テレビの裏にいたこともあったよな
+同じ場所には隠さないだろうから……）","(...He was also behind the TV at one point...
+I don't think he'd be in the same place again, so...)"
+0000000000000,プロデューサー,"（そろそろ倉庫に行ってる可能性も考えるべきか──
+って、お……！）","(Is he in the storage room this time──
+Wait... Oh!)"
+0000000000000,プロデューサー,"窓なんて、今日はずいぶんわかりやすいところにいるんだな
+『星が見たい』とか、おねだりでもしたのか？","Looking out of the window, are you? Pretty simple...
+Did you want to see the stars that badly?"
+0000000000000,プロデューサー,（──あ。メモがついてる……）,"(──Oh, there's a note attached...)"
+2006011040060,咲耶,『プロデューサー？』,"""Producer?"""
+2006011040070,咲耶,"『冷蔵庫の中に入れるなんて、
+コウモリくんが冷えて可哀想なんじゃないか？』","""I can't believe you placed the poor thing in the
+refrigerator. Didn't you feel bad for him?"""
+0000000000000,プロデューサー,──おっと,──Whoops.
+0000000000000,プロデューサー,"……はは……
+確かにそこには気が回っていなかった……","...Haha...
+I wasn't very mindful placing him there, for sure..."
+0000000000000,プロデューサー,すまん、コウモリくん,"My bad, little guy."
+0000000000000,プロデューサー,"見つからないようにするのに夢中になりすぎて、
+君の都合を無視しちゃってたな","I was so obsessed with finding a good place,
+I didn't consider your well being."
+0000000000000,プロデューサー,"……代わりに
+今日はとっておきの場所に連れていくから","...I'll make it up to you by placing you in the best
+spot I know."
+select,,"おやつのある
+引き出し","The drawer
+with candy."
+select,,倉庫,"The storage
+room."
+select,,"ソファの
+クッションの上","On top of
+the sofa."
+0000000000000,プロデューサー,──よし、こっち,"──Okay, right here."
+0000000000000,プロデューサー,ここのお菓子、この間補充したばっかりなんだ,It was recently refilled with more candy too.
+0000000000000,プロデューサー,"お詫びと言ったらなんだけど──
+よかったら、食べてくれ","Eat as much as you'd like──
+Think of it as my apology."
+0000000000000,プロデューサー,遠慮はナシだぞ,There's no need to hold back.
+2006011040080,咲耶,おはようございます,Good morning.
+2006011040090,咲耶,"フフ
+ここにいたのかい？","Hehe.
+You're here this time?"
+2006011040100,咲耶,さながら、キミ専用のパティスリーといった風情だね,"It's almost as if this whole drawer is your own
+personal patisserie."
+2006011040110,咲耶,"『お菓子は好きかな？
+昨日のお詫びに、色々用意してみたんだ』","""Do you like sweets?
+I prepared this to apologize for yesterday."""
+2006011040120,咲耶,"『よかったら、食べてくれ
+遠慮はナシだぞ』","""Eat as much as you like.
+There's no need to hold back."""
+2006011040130,咲耶,"……フフ
+キミのご主人様は、なんて言っていたんだろうか","...Hehe.
+Perhaps your master said something like that?"
+0000000000000,プロデューサー,"……決めた
+でも準備がいるんだ、もうちょっと待ってな","...I've decided.
+But... preparations will take a bit, so just wait."
+0000000000000,プロデューサー,"えっと……？
+確か空き箱がこの辺に──……","Hmm...
+If I remember correctly, there's an empty box
+somewhere here──..."
+2006011040140,咲耶,おはようございます,Good morning.
+2006011040150,咲耶,"──ああ……！
+これはまた、素敵な寝室を用意してもらったね……！","──Ooh...!
+It looks like a wonderful bedroom was prepared
+for you...!"
+2006011040160,咲耶,"（お菓子の空き箱の部屋……
+綿を敷き詰めたマグカップは、ベッドのつもりかな……？）","(A room made from an empty sweets box...
+Is the mug with a cloth spread over it your bed,
+perhaps?)"
+2006011040170,咲耶,"（……フフ、テーブルや椅子まで……
+器用なんだね、プロデューサー）","(...Hehe, there's even a table and a chair...
+How detailed of you, Producer.)"
+2006011040180,咲耶,キミのご主人様は、可愛らしい人だ,Your master is such a sweet person.
+2006011040190,咲耶,"……ときどきうっかりすることもあるけれど、
+こうしてキミに多くの愛情を注いでくれている","...He has some moments where he's a bit careless,
+but he has certainly given you lots of love this time,
+I'm sure you can tell."
+2006011040200,咲耶,"…………ねぇ、コウモリくん
+これは、自慢なのだけれど","...Hey, my little bat.
+This may come off as boasting, but..."
+2006011040210,咲耶,"──キミの可愛らしいご主人様は、
+私の素晴らしいプロデューサーでもあるんだよ？","──Do you know your lovely master happens
+to also be my wonderful Producer?"
+2006011040220,咲耶,……フフ……,...Hehe...
+0000000000000,プロデューサー,"……一番居心地がいい場所って言ったら、
+ここだよな","...If we're talking about the most comfortable place,
+this has to be it."
+0000000000000,プロデューサー,──……あとは、そうだな……,"──....What else...
+Ah..."
+2006011040230,咲耶,おはようございます,Good morning.
+2006011040240,咲耶,──フフッ,──Hehe.
+2006011040250,咲耶,"昨日の私の隠し場所に負けないくらい、
+わかりやすいところにいるじゃないか","Today's place is so straightforward, it's like he's
+given up after yesterday's hiding spot."
+2006011040260,咲耶,"『コウモリくん専用！』とは
+──ずいぶん格上げをしてもらったね？　コウモリくん","""Reserved for this bat's use only!"", it says.
+──Your status has raised quite a bit, hasn't it?"
+2006011040270,咲耶,"……知っているかい？
+それは、あの人のお気に入りのクッションなんだよ","...Did you know?
+That spot is his favorite cushion."
+2006011040280,咲耶,ソファに座る時、彼はよくそれを使っているんだ,"Whenever he sits on the sofa,
+he always chooses that place."
+2006011040290,咲耶,自分の一番を、キミに譲ってくれたんだね,I see that he gave up his favorite spot for you.
+2006011040300,咲耶,"──まったく
+うらやましいコウモリくんだ","──Goodness.
+I'm quite envious of you, my little bat."
+info,produce_events/200601104.json,
+Translator,nkei,

@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,──小糸、お疲れ様！,"Great work today, Koito!"
+0000000000000,プロデューサー,"始まる前は不安そうにしてたけど
+リハーサル、よかったぞ！","You looked a little nervous before we started, 
+but you did great in rehearsal! "
+6022002020010,小糸,"あ、ありがとうございます
+でも……","T-Thank you, 
+but..."
+6022002020020,小糸,"まだ、完璧ってわけじゃ
+なかったですよね……","It's still 
+not perfect yet though..."
+0000000000000,プロデューサー,"……そうか
+小糸は自分で、そう思ったんだな","...I see.
+You came to that conclusion by yourself?"
+6022002020030,小糸,は、はい……,Y-yeah...
+0000000000000,プロデューサー,"それなら、本番までに
+修正していこう！","Well then, let's work on perfecting it  
+before the performance!"
+0000000000000,プロデューサー,"そうすれば、きっと
+もっといいステージになるだろ？","If we do that then we can make it even better, 
+I'm sure of it."
+6022002020040,小糸,そ、そうですよね……,T-That's right...
+6022002020050,小糸,"まだ、時間……
+ありますよね……？","We still have some time 
+don't we...?"
+0000000000000,プロデューサー,ああ、大丈夫だよ,"We do, it'll be alright."
+0000000000000,プロデューサー,"本番は小糸も、小糸のファンも
+満足できるステージにしよう","Let's make this a performance that makes you and your fans happy,
+Koito-chan."
+6022002020060,小糸,……はい,...Yeah
+6022002020070,小糸,"ありがとうございます
+プロデューサーさん","Thanks, 
+Producer-san!"
+info,produce_events/602200202.json,
+Translator,ema,
