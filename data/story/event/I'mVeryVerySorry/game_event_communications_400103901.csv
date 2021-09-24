@@ -2,41 +2,47 @@ id,name,text,trans
 4001039010010,真乃,"あの人は、
 どうやら何か探し物をしているらしい",That person seemed to be searching for something.
 4001039010020,摩美々,"静かな海辺の町で
-人々はそう口を揃えた",Such was the rumor spreading in this quiet town by the sea.
+人々はそう口を揃えた","Such was the rumor spreading in this quiet town by
+the sea."
 4001039010030,霧子,"町の外れで骨董商を営む
-ミステリアスな寡婦",People talked about a mysterious widow who ran an antique store on the edge of town.
+ミステリアスな寡婦","People talked about a mysterious widow who ran an
+antique store on the edge of town."
 4001039010040,智代子,ねえ、何を探しているの,"Hey, what are you searching for?"
 4001039010050,智代子,なぜ探しているの,Why are you searching for it?
 4001039010060,真乃,"どう見ても価値のなさそうなものに
-しかし彼女はしばしば驚くような値を付けて買い取った","She would often buy things at surprising prices, despite their apparent lack of worth."
+しかし彼女はしばしば驚くような値を付けて買い取った","She would often buy things at surprising prices,
+despite their apparent lack of worth."
 4001039010070,摩美々,答えて、美しい人,"Tell me, beautiful woman."
 4001039010080,霧子,それはまだ見つかっていないんだね？,"You still haven't found it yet, right?"
 4001039010090,智代子,それはそんなに、手に入りにくいもの？,Is that thing so difficult to find?
 4001039010100,off,『わからないの、私にも』,"""I don't know either."""
 4001039010110,off,"『何を探していたのかさえ、
-もう忘れてしまいそう』","""Though I'm the one searching, I've already forgotten what, and why."""
+もう忘れてしまいそう』","""Though I'm the one searching, I've already forgotten
+for what, and why."""
 4001039010120,摩美々,"────自分でも、どうしてそんな探し物に
-付き合おうという気になったのかわからない","────I, too, did not know why I wanted to accompany her on that search for that something."
+付き合おうという気になったのかわからない","────I, too, don't know why I went along with the search
+for that something."
 4001039010130,off,"『どこかにあると思うんだけれど
-ちょうど、こんな季節の────』","""I know it's out there, though, during this time of the year────"""
+ちょうど、こんな季節の────』","""I know it's out there, though, during this time of the
+year────"""
 4001039010140,off,『────夏のどこかに』,"""────Right here, in the summer."""
 4001039010150,霧子,けれど、もう僕は引き寄せられていた,"As I listened to her, I was already..."
 4001039010160,智代子,"そんなふうに言う彼女の
-洞のような瞳に",…trapped in the void inside her eyes.
-4001039010170,霧子,────え、と……,───U-Uhm…
+洞のような瞳に",...trapped in the void inside her eyes.
+4001039010170,霧子,────え、と……,───U-Uhm...
 4001039010180,摩美々,"そうー
 それ打ったら、先に小計ボタンー","Yeaah.
 You press that, then hit the Subtotal button."
-4001039010190,真乃,……っ,…Oh.
+4001039010190,真乃,……っ,...Oh.
 4001039010200,智代子,"そっか！
 これで金額が表示されるって言ってたもんね……！","I see!
-Then the amount will be shown here…!"
+Then the amount will be shown here...!"
 4001039010210,摩美々,"そうー
 ……じゃあ、どうぞー","Yuup.
-…Well then, go aheaad."
+...Well then, go aheaad."
 4001039010220,真乃,"はい……っ
-『1320円になります』……っ","Okay…
-""That will be 1320 yen""…"
+『1320円になります』……っ","Okay...
+""That will be 1320 yen""..."
 4001039010230,智代子,"はい！
 じゃあお客さん役やります！","Sure!
 I'll play the role of the customer!"
@@ -44,125 +50,144 @@ I'll play the role of the customer!"
 『2000円でお願いします！』","Uhh, my purse──
 ""Here's 2000 yen!"""
 4001039010250,霧子,"はい……
-2000円……お預かりします……","Thank you…
-Out of 2000 yen…"
-4001039010260,摩美々,……そしたら『2000』って打ち込んで現計ボタンー,"…Then you type ""2000"" and hit Cash."
-4001039010270,真乃,うん……っ,Mhm…
+2000円……お預かりします……","Thank you...
+Out of 2000 yen..."
+4001039010260,摩美々,……そしたら『2000』って打ち込んで現計ボタンー,"...Then you type ""2000"" and hit Cash."
+4001039010270,真乃,うん……っ,Mhm...
 4001039010280,真乃,"────『2000』……
-現計……っ","───""2000""…
-Cash…"
-4001039010281,真乃＆霧子,…………っ,…Ah.
-4001039010290,霧子,おつり……表示されてる……,The change amount… showed up…
+現計……っ","───""2000""...
+Cash..."
+4001039010281,真乃＆霧子,…………っ,...Ah.
+4001039010290,霧子,おつり……表示されてる……,The change amount... showed up...
 4001039010300,真乃,"うん……っ
-『それでは、680円のお返しです』……っ","Mhm…
-""680 yen is your change""…"
+『それでは、680円のお返しです』……っ","Mhm...
+""680 yen is your change""..."
 4001039010310,智代子,"はいっ
 680円、確かに受け取りました！","Okay!
-I certainly got 680 yen back!"
+I most certainly got 680 yen back!"
 0000000000000,店長,"いいわねぇ
-レジの操作はもうばっちり。合格点！",Very nice. You're already operating the register perfectly. You pass!
+レジの操作はもうばっちり。合格点！","Very nice. You're already operating the register
+perfectly. You pass!"
 0000000000000,店長,"おつりを渡す時に、小銭が落ちないように
-手を添えてあげると、もっとベターかな","It can be better if you place the change on the customer's palm, just to make sure that the coins won't drop."
-4001039010320,真乃,は、はい……っ,O-Okay…
-4001039010330,霧子,メモ……しなきゃ……,I'll… take note…
+手を添えてあげると、もっとベターかな","It can be better if you place the change in the
+customer's palm, just to make sure that the coins
+won't drop."
+4001039010320,真乃,は、はい……っ,O-Okay...
+4001039010330,霧子,メモ……しなきゃ……,I'll... take note...
 4001039010340,智代子,"レジの人って、
-一瞬でこんなに色々操作してるんだなぁ……",Cashiers have to handle so many things at once…
+一瞬でこんなに色々操作してるんだなぁ……",Cashiers have to handle so many things at once...
 0000000000000,店長,"あはは、今はどうなのかなぁ？
-ウチのは古い機械だから、よそとは勝手が違うかも","Ahaha, I wonder what it's like now. Ours is an older machine, so it's probably different from other places."
+ウチのは古い機械だから、よそとは勝手が違うかも","Ahaha, I wonder what it's like now. Ours is an older
+machine, so it's probably different from other places."
 0000000000000,店長,"そこは『職場体験』ってことで、
-雰囲気だけで許してちょうだいね！","Please pardon us for having this as part of the ""work experience""!"
+雰囲気だけで許してちょうだいね！","Please pardon us for having this as part of the
+""work experience""!"
 4001039010350,智代子,"ええっ、そんな！
 こういうこと、全然知らなくって──","Oh, no problem!
 I'm not familiar with this sort of stuff at all──"
 4001039010360,智代子,"今、すっごく学ばせてもらってる……！
-って感じです……！",I feel like I'm learning so much right now…!
-4001039010370,真乃,はい……っ,Yeah…
+って感じです……！",I feel like I'm learning so much right now...!
+4001039010370,真乃,はい……っ,Yeah...
 4001039010380,摩美々,"ふふー
-そういうわけで、レジだけはどうにかなりそうですー",Hehe. That's why even just the cash register is so much to take in.
+そういうわけで、レジだけはどうにかなりそうですー","Hehe. That's why even just the cash register is so
+much to take in."
 0000000000000,店長,"心強いわぁ。でも、みんなはアイドルさんだから
-店頭でお仕事するのは控えめにしなきゃね","That's reassuring. But, since you all are idols, you can only do small tasks around the store."
+店頭でお仕事するのは控えめにしなきゃね","That's reassuring. But, since you all are idols, you can
+only do small tasks around the store."
 0000000000000,店長,"表の方が面白いと思うんだけど、みんなのメインは裏
-お掃除とか色々あるから、頑張ってね～？","Although the front is more interesting, your main job is at the back. There's a lot of cleaning and stuff to do, so work hard, okay～?"
-4001039010381,一同,はい……っ,Okay…
+お掃除とか色々あるから、頑張ってね～？","Although the front is more interesting, your main job
+is at the back. There's a lot of cleaning and stuff to
+do, so work hard, okay～?"
+4001039010381,一同,はい……っ,Okay...
 0000000000000,プロデューサー,"────おお、そうか。了解
 終了連絡ありがとな","───Right, I see. Got it.
-Thanks for the end report."
+Thanks for the summary report."
 0000000000000,プロデューサー,"どうだった……？
-……はは、すごいじゃないか","How was it…?
-…Haha, wasn't that great?"
+……はは、すごいじゃないか","How was it...?
+...Haha, wasn't that great?"
 4001039010390,真乃,"はい……っ
-レジを打てるようになりました……っ","Yes…
-I can now handle the cash register…"
+レジを打てるようになりました……っ","Yes...
+I can now handle the cash register..."
 4001039010400,摩美々,"まぁ
-これからは物販もセルフでやれちゃう感じですねー","Well, it feels like I can use the self-service from now on."
+これからは物販もセルフでやれちゃう感じですねー","Well, it feels like I can use the self-service from
+now on."
 0000000000000,プロデューサー,"ははは、それはありがたいスキルアップだ
 よし、アンティーカはレジスタッフさん不要、と────","Hahaha, it's a useful skill to learn.
 Alright, L'Antica won't need a cashier, then────"
 4001039010410,霧子,"わ……！
-が、頑張らなきゃ……！","Wah…!
-I-I have to do my best then…!"
+が、頑張らなきゃ……！","Wah...!
+I-I have to do my best then...!"
 4001039010420,智代子,"待って待って霧子ちゃん！？
 それはプロデューサーさんに考え直してもらおう……！？","Wait, wait, Kiriko-chan!?
-Shouldn't Producer-san rethink that…!?"
+Shouldn't Producer-san rethink that...!?"
 4001039010430,真乃,"あ、あの……っ
-お手伝いが必要だったら、私も────","U-Uhm…
+お手伝いが必要だったら、私も────","U-Uhm...
 If you need some help, I can also────"
 4001039010440,智代子,真乃ちゃんまで！？,Even Mano-chan!?
 0000000000000,プロデューサー,"『いや、すまんすまん！
 冗談だよ、あくまでこれは職場体験の研修だから……！』","""No no, sorry! I was joking.
-This is just a hands-on workplace training…!"""
+This is just a hands-on workplace training...!"""
 4001039010450,摩美々,ふふー,Hehe.
 0000000000000,プロデューサー,"うん。物販でレジ打ってくれてる人が、
-こんなことしてたんだって……",Yeah. It's to learn what a person who works at the register do…
+こんなことしてたんだって……","Yeah. It's to learn what a person who works at the
+register does..."
 0000000000000,プロデューサー,"もしそういうことを考えてくれたんだったら、
-それで十分なんだ","If you can keep in mind that sort of stuff, then it's enough."
+それで十分なんだ","If you can keep in mind that sort of stuff, then it's
+enough."
 0000000000000,プロデューサー,"『よし
 それじゃ、解散』","""Alright.
 You're dismissed."""
 0000000000000,プロデューサー,"『せっかくの夏休みだ。予定が合ったのは４人だけだけど
-何か少しでも学んできてくれたら嬉しいよ』","""Make use of your summer vacation. Only you four were available for the schedule, but I hope you've learned something, at least."""
-4001039010460,霧子,──────……,─────……
+何か少しでも学んできてくれたら嬉しいよ』","""Make use of your summer vacation. Only you four
+were available for the schedule, but I hope you've
+learned something, at least."""
+4001039010460,霧子,──────……,─────......
 4001039010470,真乃,"────……
-……ん────","────...…
-……mm────"
+……ん────","────......
+......mm────"
 4001039010480,真乃,"……ほわ
-ご、ごめんなさい……っ","…Hwah!
-S-Sorry…"
-4001039010490,真乃,私、寝ちゃってたんだね……,I… fell asleep…
+ご、ごめんなさい……っ","...Hwah!
+S-Sorry..."
+4001039010490,真乃,私、寝ちゃってたんだね……,I... fell asleep...
 4001039010500,霧子,"ふふ……
-５分……くらいだよ……","Fufu…
-It was only… about five minutes…"
+５分……くらいだよ……","Fufu...
+It was only... about five minutes..."
 4001039010510,霧子,"昨日も……
-一日中……お仕事だったって……",You've worked… all day… yesterday…
-4001039010520,真乃,う、うん……,Y-Yeah…
+一日中……お仕事だったって……",You worked... all day... yesterday...
+4001039010520,真乃,う、うん……,Y-Yeah...
 4001039010530,真乃,"でも……
-楽しくって……っ",But… It was fun…
+楽しくって……っ",But... It was fun...
 4001039010540,真乃,"こんなふうに、みんなでお花屋さんをやれて
-その……夏休みなんだな、って……","In this way, everyone worked at a florist together. Well... you could say we didn't have a summer vacation..."
+その……夏休みなんだな、って……","Because we're all working at a florist together...
+It feels like... summer vacation is here..."
 4001039010550,真乃,"楽しくって、
-ちょっと興奮しすぎちゃったのかも……っ",Maybe I was a little too worked up to have fun...
-4001039010551,真乃＆霧子,ふふふ……っ,Hehehe…
-4001039010560,真乃,────わ……,────wah…
-4001039010570,真乃,ゲーム……！,A game…!
+ちょっと興奮しすぎちゃったのかも……っ",Maybe it was so fun that I got a little too worked up...
+4001039010551,真乃＆霧子,ふふふ……っ,Hehehe...
+4001039010560,真乃,────わ……,────wah...
+4001039010570,真乃,ゲーム……！,A game...!
 4001039010580,霧子,"うん……
-待ってね……終わるから……",Mhm... one second... it's almost over...
+待ってね……終わるから……","Mhm...
+One second... It's almost over..."
 4001039010590,真乃,"う、ううん……っ
-私が寝ちゃってたから……",N-No... since I was sleeping...
+私が寝ちゃってたから……","N-No...
+It's my bad for sleeping..."
 4001039010600,霧子,"そしたら……
-カモメさんに……食べものをあげるまで……",Well then... until I feed... seagull-san...
+カモメさんに……食べものをあげるまで……",Well then... Let me feed... Seagull-san...
 4001039010610,霧子,"ふふ……食べものをあげるの……
 こうやって……",Fufu... I'll give you something... eat this...
 4001039010620,真乃,"ほわ……っ
 うん……っ",Hwa... hm...
 4001039010630,霧子,"真乃ちゃんも……
-ここ……タップしてくれますか……？",Mano-chan... did you also... want to tap here...?
+ここ……タップしてくれますか……？","Mano-chan...
+Can you... tap here...?"
 4001039010640,真乃,"はい……っ
 ────","Yeah...
 ────"
 4001039010650,off,『ふふふっ……！』,"""Hehehe...!"""
-4001039010660,真乃,『そしたら、降ってきたんだ』,"""And then, it descended."""
+4001039010660,真乃,『そしたら、降ってきたんだ』,"""And then, it started to rain."""
 4001039010670,真乃,『あいが』,"""Ai."""
 4001039010680,真乃,"『夏の空から、
-あいが降ってきたんだ』","""From the summer sky, Ai descended."""
+あいが降ってきたんだ』","""From the summer sky,
+it rained Ai."""
 info,game_event_communications/400103901.json,
 Translator,Batsu,

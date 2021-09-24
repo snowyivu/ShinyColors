@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸、おめでとう
+予選通過だぞ……！","Congratulations, Koito!
+You qualified...!"
+6022003020010,小糸,"え…………
+つ、通過……したんですか……？","Eh...
+I-I really passed...?"
+0000000000000,プロデューサー,ああ、これで次も──……,"Well, there's still the next oneー..."
+6022003020020,小糸,………………,......
+0000000000000,プロデューサー,小糸？,Koito?
+6022003020030,小糸,"……練習よりはましだったって、
+思ってもらえましたかね……？","...I wonder...
+if I actually performed any better than in practice...?"
+0000000000000,プロデューサー,"え……いや、
+あのさ、小糸──","Eh...well, 
+about that, Koitoー"
+6022003020040,小糸,"あ…………い、いえ
+そうじゃなくて……","Ah...n-no,
+it's not that at all..."
+6022003020050,小糸,"よ、よかったです
+予選……","I-I'm so relieved, 
+to have qualified..."
+6022003020060,小糸,……ありがとうございます、プロデューサーさん,"...Thank you, Producer-san."
+info,produce_events/602200302.json,
+Translator,ema,

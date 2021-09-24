@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸……お疲れ様
+残念だったな","Koito...you worked hard.
+It was so close."
+6022003030010,小糸,"あ……
+ごめんなさい、プロデューサーさん","Ah...
+I'm sorry, Producer-san."
+6022003030020,小糸,"わ、わたし……
+全然、だめでしたね……","I-I...
+was a total failure, huh..."
+0000000000000,プロデューサー,"いいや、いいんだ
+謝らないでくれ","No, not at all.
+Please don't apologize. "
+0000000000000,プロデューサー,"それに、まだ終わったわけじゃない
+チャンスはある","After all, it's not over yet.
+We still have a chance."
+6022003030030,小糸,"…………
+そう、ですよね……","...
+That's...that's right..."
+0000000000000,プロデューサー,"だから、その前に一度
+ちゃんと話をしよう","And before we try again,
+let's talk it over together."
+0000000000000,プロデューサー,"小糸と話さなきゃいけないことが、
+たくさんあるんだ","There's plenty of things 
+I'd like to discuss with you."
+6022003030040,小糸,"……！
+……はい…………","...!
+...Of course..."
+6022003030050,小糸,……よろしくお願いします、プロデューサーさん,"...Let's give it our all, Producer-san."
+info,produce_events/602200303.json,
+Translator,ema,

@@ -1,0 +1,28 @@
+id,name,text,trans
+6022003040010,小糸,………………,......
+0000000000000,プロデューサー,小糸、いけそうか？,"Koito, are you ready?"
+6022003040020,小糸,"え、あ……はい！
+だ、大丈夫です！","Eh, ah...yes!
+I-I'm ready!"
+6022003040030,小糸,"……優勝するなら、まずは
+ここを突破、しなきゃですから……！","...If I want to win, I just...
+need to make it through this first...!"
+0000000000000,プロデューサー,"うん、そうだな
+────……小糸","That's right.
+ー...Koito."
+6022003040040,小糸,……？,...?
+0000000000000,プロデューサー,"小糸が頑張ってきたこと、
+ちゃんと、知ってるからな","I know how hard you've been working, you know.
+I've seen it."
+6022003040050,小糸,"…………！
+はい、わ、わたしも……","...!
+Y-Yeah, I-I.."
+6022003040060,小糸,"プロデューサーさんが知ってくれてること、
+ちゃんと……知ってますよ","I trust that you know, Producer-san. 
+That you really see my efforts..."
+0000000000000,プロデューサー,……！,...!
+6022003040070,小糸,"あ、え、えっと、じゃあ……
+行ってきますね、プロデューサーさん……！","Ah, u-um...well then...
+here I go, Producer-san...!"
+info,produce_events/602200304.json,
+Translator,ema,

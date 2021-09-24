@@ -1,0 +1,31 @@
+id,name,text,trans
+6022003100010,小糸,──プロデューサーさん、ごめんなさい,"ーI'm really sorry, Producer-san."
+6022003100020,小糸,"や、やっぱりわたし
+だめだったみたいです……","I-I really couldn't do it,
+after all..."
+0000000000000,プロデューサー,"お疲れ様、小糸
+おしかったな","Good work out there, Koito.
+It was so close."
+6022003100030,小糸,………………,......
+6022003100040,小糸,"……あの、
+プロデューサーさん","...Um, 
+Producer-san..."
+0000000000000,プロデューサー,うん？,Hm?
+6022003100050,小糸,"か、帰ってから……一緒に、
+考えてもらっても、いいですか……？","W-When we get back...would it be okay if...
+we thought this over together...?"
+6022003100060,小糸,"なりたいって思った目標に、
+近づいていくために、次は、何をするか……！","To get closer to where I want to be...to reach our goals,  
+can we think of what to do next...?"
+0000000000000,プロデューサー,…………！,......!
+0000000000000,プロデューサー,"ああ、もちろん
+一緒に考えさせてくれ","Of course we can. 
+Let's work this out together."
+6022003100070,小糸,……ありがとうございます,...Thank you.
+0000000000000,プロデューサー,"次にどうしたらいいか、考えてさ
+……また、頑張っていこう","While we're thinking it over...
+let's continue to do our best."
+6022003100080,小糸,…………はい,...Yeah.
+6022003100090,小糸,……よろしくお願いします、プロデューサーさん,"...Let's give it our all, Producer-san. "
+info,produce_events/602200310.json,
+Translator,ema,

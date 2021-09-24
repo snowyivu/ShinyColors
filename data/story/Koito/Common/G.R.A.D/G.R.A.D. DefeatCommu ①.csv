@@ -1,0 +1,13 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──今日は、休みにしようか
+小糸","―You should rest for the day,
+Koito."
+1022003080010,小糸,え、あ……休み、ですか……？,"E-Eh, ah...you mean, take the day off...?"
+0000000000000,プロデューサー,"ああ、リフレッシュしたら
+新しい考えとか、いい案が浮かぶかもしれない","That's right. Rest up and clear your head. 
+Who knows, you might just come up with new ways to tackle this."
+1022003080020,小糸,"……そ、そうですね
+それが、いいかもしれないです","...T-That's true...
+That might...be a good idea after all."
+info,produce_events/102200308.json,
+Translator,ema,

@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸、わざわざ来てもらって悪いな
+これ、渡したくてさ","Koito, sorry to make you come all this way. 
+Here, I wanted to give you these."
+1022002010010,小糸,"…………？
+こ、これって──","......?
+T-This isー"
+0000000000000,プロデューサー,小糸宛のファンレターだよ,These are the fan letters addressed to you.
+1022002010020,小糸,ぴぇ……！,Pyeh...!
+1022002010030,小糸,"こ、これ、全部
+本当にわたしに……！？","R-Really, all of these?
+They're all...sent for me...!?"
+1022002010040,小糸,"他のみんなに
+じゃなくてですか……？","You're sure they're not for
+everyone else...?"
+0000000000000,プロデューサー,"はは
+宛名、ちゃんと小糸宛になってるだろ？","Hahaha, 
+they're all properly addressed to you, see?"
+1022002010050,小糸,えっと……,Um...
+1022002010060,小糸,──『福丸小糸様』,"ー ""Dear Koito Fukumaru."""
+1022002010070,小糸,"は、はじめて貰いました……
+ファンレター……！","I-I really received some...
+my first fan letters...!"
+0000000000000,プロデューサー,ああ、よかったな,Isn't that great?
+0000000000000,プロデューサー,"小糸が頑張ってるところ
+ちゃんと見てくれてる人がいるってことだ","It means there's plenty of people out there who recognise your hard
+work, Koito. "
+1022002010080,小糸,…………！,...!
+0000000000000,プロデューサー,早速読んでみたらどうだ？,Will you read them right away?
+1022002010090,小糸,はい……！,Y-Yes...!
+1022002010100,小糸,………………,......
+1022002010110,小糸,"や、やっぱり、
+あとで家でひとりで読みます……！","A-Actually, on second thought...
+I want to read them alone...at home later...!"
+info,produce_events/102200201.json,
+Translator,,

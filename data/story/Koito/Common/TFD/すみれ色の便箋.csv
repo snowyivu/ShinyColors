@@ -1,0 +1,87 @@
+id,name,text,trans
+1022002020010,小糸,…………よ、よし,...A-Alright!
+1022002020020,小糸,"で、出来ました
+プロデューサーさん……！","T-They're all done now, 
+Producer-san...!"
+0000000000000,プロデューサー,"おお、そうか
+じゃあ預かるよ","Ah, good work.
+I'll handle these for you now. "
+1022002020030,小糸,よ、よろしくお願いしますね……！,I'll leave them in your care...!
+0000000000000,プロデューサー,"一通一通、結構分厚いな……
+小糸、一体何枚書いたんだ……？","Each of these letters are pretty thick...
+How many pages did you write, Koito?"
+1022002020040,小糸,"え、えっと…………
+す、すみません","U-Um...
+S-Sorry..."
+1022002020050,小糸,"あれもこれもって書いてたら
+長くなっちゃって……","I kept thinking about so many things, 
+I ended up rambling a little..."
+0000000000000,プロデューサー,"はは、そうか
+それなら仕方ないな","Haha, is that right?
+Well, there's nothing we can do about that now."
+0000000000000,プロデューサー,"返事が届いたらきっと
+みんな喜んでくれるだろうな","I'm sure everyone will be thrilled to receive such
+lengthy responses from you."
+1022002020060,小糸,"え、えへへ……
+そうだといいんですけど……","E-Ehehe...
+I hope you're right about that..."
+0000000000000,プロデューサー,"この後郵便局に行くから
+その時に持っていくな","I'll be heading over to the post office later 
+to deliver these."
+0000000000000,プロデューサー,"小糸のファンレター返信
+しっかり出してくるからさ","I'll make sure to properly send out all of these fan letter responses 
+you worked so hard on, Koito."
+1022002020070,小糸,"そ、そうですか……！
+ありがとうございます……！","R-Right...!
+Thank you so much...!"
+1022002020080,小糸,………………,......
+0000000000000,プロデューサー,"……小糸？
+何か他にもまだ、用事あったか？","...Koito?
+Is there anything else you need me for?"
+1022002020090,小糸,"ぴゃ……
+そ、そういうわけでは……","Pyah...
+N-No, that's not..."
+0000000000000,プロデューサー,"そうか？
+それならいいけど……","You're sure?
+If not that's okay then..."
+1022002020100,小糸,………………,......
+0000000000000,プロデューサー,"……やっぱり小糸
+何かあるんじゃないか？","...That look on your face, 
+are you sure you don't need me for something after all?"
+1022002020110,小糸,"…………！
+あ、え、えっと……","...!
+Ah, uh...um...."
+1022002020120,小糸,"プロデューサーさん
+この後……郵便局、ですよね……？","You're heading to the...
+to the post office soon right, Producer-san...?"
+0000000000000,プロデューサー,"ああ、うん
+この書類整理がおわったらな","I have some paperwork to take care of first, 
+then I'll head out."
+1022002020130,小糸,"そ、その……
+わたしもそれ、ついていってもいいですか……？","W-Well...
+would it be okay if I came with you...?"
+0000000000000,プロデューサー,"…………はは、
+なんだ、そういうことか","...Hahaha, 
+so that's what it was!"
+0000000000000,プロデューサー,──よし、行くぞ！　小糸,"ーAlright, let's go now then!"
+1022002020140,小糸,"あ、え、しょ、書類……
+いいんですか……！？","Ah, um... but t-the paperwork...
+is this really okay?"
+0000000000000,プロデューサー,ああ、先に郵便局に行くことにしたよ,"Of course, let's visit the post office first."
+0000000000000,プロデューサー,"それと帰りに封筒と便箋、
+買ってこよう","We can pick up some envelopes and stationery 
+on the way back."
+0000000000000,プロデューサー,小糸、好きなデザインを選んでくれ！,"You can pick out any design you like, Koito!"
+1022002020150,小糸,わ、わたしが選んでいいんですか……？,I-It's really okay if I choose them...?
+0000000000000,プロデューサー,"ああ、小糸は一回の返信にも
+何枚も便箋が必要みたいだし","Absolutely, since your replies are long 
+you'll need a lot of stationery going forward. "
+0000000000000,プロデューサー,"それに、これからもっと
+たくさんの手紙に返事、書くことになるだろうから","Since I'm sure you'll be receiving and answering 
+a lot more letters from now on."
+1022002020160,小糸,"…………！
+はい！","...!
+Yeah!"
+1022002020170,小糸,行きますよ、プロデューサーさん！,"Let's go, Producer-san!"
+info,produce_events/102200202.json,
+Translator,ema,

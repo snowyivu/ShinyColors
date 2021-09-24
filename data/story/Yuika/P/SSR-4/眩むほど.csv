@@ -9,20 +9,24 @@ So... wanna do it?"
 0000000000000,プロデューサー,なんだ、ご不満か？,What gives? Not satisfied?
 2007009010040,結華,そりゃあご不満ですけど～？,Meee? Satisfied?
 2007009010050,結華,"はーやだやだ！
-もっと慌てるＰたんが見られるかと思ってたのに","Haaaa, this isn't it! I wanted to get P-tan all flustered!"
+もっと慌てるＰたんが見られるかと思ってたのに","Haaaa, this isn't it! I wanted to get P-tan all
+flustered!"
 2007009010060,結華,しれっと乗ってきちゃってさぁ,"Instead, I get you playing it cool."
 0000000000000,プロデューサー,"ははは
 からかわれる可能性は考えてたからな","Hahaha, I figured you were out to tease me!"
 2007009010070,結華,"面白くな～い！
-その『わかってます』って感じ、すごいムカつく～～！","That's no fuuun! It kills the mood if you're being all ""I get what she's trying to do""!"
+その『わかってます』って感じ、すごいムカつく～～！","That's no fuuun! It kills the mood if you're being all
+""I get what she's trying to do""!"
 0000000000000,プロデューサー,"『わかってます』なんて、そんな
-買いかぶりすぎだよ、俺なんてまだまだだ","You're giving me too much credit! I'm far from that level of ""getting it""!"
+買いかぶりすぎだよ、俺なんてまだまだだ","You're giving me too much credit!
+I'm far from that level of ""getting it""!"
 0000000000000,プロデューサー,"もっと結華のことを知らなくちゃと思ってる
 だからいろんな一面を見せてほしいんだけど──","Yuika, there's still more I need to know from you.
 So I must get you to show me your different sides."
 2007009010080,結華,ほらもう！,"Listen here, Mister!"
 2007009010090,結華,"そうやって隙あらば情報取ってこうとする感じも
-ほんといけ好かないー！",I don't appreciate being ambushed for personal information like this!
+ほんといけ好かないー！","I don't appreciate being ambushed for
+personal information like this!"
 0000000000000,プロデューサー,"っふは……！
 しょうがないだろ、誰のプロデューサーだと思ってるんだ","Haha! This is how it is! What do you think they look
 for in a producer anyway?"
@@ -31,8 +35,10 @@ for in a producer anyway?"
 Isn't this what they look for?"
 0000000000000,プロデューサー,残念、大ハズレ,Bzzt! Wrong answer.
 0000000000000,プロデューサー,"いつだってアイドルに真剣な結華のプロデューサーを
-任せてもらってるんだから","I'm the producer entrusted to work with Yuika, who takes idols very seriously."
-0000000000000,プロデューサー,俺だってできる限り優秀じゃなくちゃって話だよ,All I'm saying is that I have nothing but my best to offer for her!
+任せてもらってるんだから","I'm the producer entrusted to work with Yuika,
+who takes idols very seriously."
+0000000000000,プロデューサー,俺だってできる限り優秀じゃなくちゃって話だよ,"All I'm saying is that I have nothing but my best
+to offer for her!"
 2007009010110,結華,まったこのプロデューサーは……,Good grief... this producer...
 0000000000000,プロデューサー,その反応なら、今日の俺は合格点か？,"Oh, does that mean I get a passing grade?"
 2007009010120,結華,知らなーい！,How should I know?!
@@ -53,12 +59,14 @@ I want a passing grade from you more than anything..."
 0000000000000,プロデューサー,"──……はい、結華。水
 喉が渇く前に水分補給、で頼む","──Hey, Yuika. Here... water. Keep yourself hydrated."
 2007009010160,結華,"お。ありがとうプロデューサー
-じゃあ三峰からもお返ししなきゃだね","Ah, thank you, Producer. Mitsumine will return the favor then."
+じゃあ三峰からもお返ししなきゃだね","Ah, thank you, Producer.
+Mitsumine will return the favor then."
 0000000000000,プロデューサー,？,?
 2007009010170,結華,"三峰の荷物預かってもらってるでしょ
 あの中に、ちっちゃい巾着があるから","You have Mitsumine's luggage stored, right?
 My purse is inside."
-2007009010180,結華,中の塩飴持ってって,Go ahead and grab some salt candy inside the purse.
+2007009010180,結華,中の塩飴持ってって,"Go ahead and grab some salt candy from inside
+the purse."
 0000000000000,プロデューサー,塩飴……,Salt candy...
 2007009010190,結華,"──水分補給だけして、
 塩分を摂り忘れることのないように","──If you're gonna stay hydrated, don't forget
@@ -85,4 +93,4 @@ for how she always looks out for those around her."
 0000000000000,プロデューサー,"──おう！
 いってらっしゃい、頑張れ！",──Yup! I'll see you in a bit. Take care!
 info,produce_events/200700901.json,
-Translator,,
+Translator,Lewdacriz,

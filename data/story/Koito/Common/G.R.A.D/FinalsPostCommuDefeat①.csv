@@ -1,0 +1,34 @@
+id,name,text,trans
+6022003090010,小糸,"……ごめんなさい、プロデューサーさん
+わたし……","...I'm really sorry, Producer san. 
+I..."
+6022003090020,小糸,"あんなこと言っておいて、また
+な、なんの結果も──……","After what I said before...
+A-Again, I have nothing to show for itー..."
+0000000000000,プロデューサー,"小糸、
+──これ、見てくれ","Koito, 
+ーHere, take a look at this."
+6022003090030,小糸,え…………？,Huh...?
+6022003090040,小糸,『#福丸小糸』……？,"""# Koito Fukumaru"" ...?"
+0000000000000,SNSの声,"『小糸ちゃん、応援してたのに！
+残念だったー！』","""Koito-chan, you may have lost this time but
+I'm rooting for youー!"""
+0000000000000,SNSの声,『私の中での優勝は、福丸小糸ちゃんだった』,"""Koito-chan is the real winner to me!"""
+0000000000000,SNSの声,"『今回初めて見たけど
+福丸さんって子、良かった』","""It's the first time I've seen her performance, 
+but Fukumaru-san was wonderful."" "
+6022003090050,小糸,あ…………,Ah......
+0000000000000,プロデューサー,"小糸は
+なんの結果も、出せてないわけじゃないよ","You see? It's not for nothing, Koito.
+Not at all."
+6022003090060,小糸,…………,......
+0000000000000,プロデューサー,"──『G.R.A.D.』
+本当にお疲れ様、小糸","ーFor all of your hard work during G.R.A.D,
+you have my sincerest thanks, Koito."
+0000000000000,プロデューサー,"それでここからまた、……頑張っていこう
+一緒に","We'll continue moving forwards... let's keep doing our best, 
+together."
+6022003090070,小糸,……はい……！,...Y-Yes...!
+6022003090080,小糸,……よろしくお願いします、プロデューサーさん,"...Let's do our best, Producer-san. "
+info,produce_events/602200309.json,
+Translator,ema,

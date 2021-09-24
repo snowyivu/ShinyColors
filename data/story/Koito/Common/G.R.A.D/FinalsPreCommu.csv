@@ -1,0 +1,29 @@
+id,name,text,trans
+6022003070010,小糸,………………,......
+0000000000000,プロデューサー,"おーい
+小糸、大丈夫か？","You're spacing out, Koito. 
+Are you alright?"
+6022003070020,小糸,"あ……はい！
+すみません、プロデューサーさん","Ah...yeah!
+Sorry, Producer-san. "
+6022003070030,小糸,"あの、わたし……
+絶対、優勝したいなって、思って……！","I, um...was just thinking...
+that no matter what, I want to win...!"
+0000000000000,プロデューサー,"はは、うん
+その様子なら、大丈夫そうだ","I agree.
+By the looks of things, I'm certain you'll do great."
+6022003070040,小糸,えへへ……大丈夫ですよ,Ehehe...I'll be alright.
+6022003070050,小糸,"……優勝したら、何かがすごく
+変わるってわけじゃ、無いかもしれないけど","...Even if I win, 
+I don't know if much will change..."
+6022003070060,小糸,"で、でも……！
+少しくらいは、目標に、近づけますよね……？","B-But...! 
+Even if it's just by a little, I'm getting closer to my goals... aren't I...?"
+0000000000000,プロデューサー,"ああ、もちろん
+……きっと、小糸にとってすごく、大きな一歩になる","Of course you are. 
+...This will be a big step for you, I'm sure of it."
+6022003070070,小糸,"……はい……！
+じゃあ、行ってきますね、プロデューサーさん","...Yeah...!
+I'll be off now, Producer-san!"
+info,produce_events/602200307.json,
+Translator,ema,

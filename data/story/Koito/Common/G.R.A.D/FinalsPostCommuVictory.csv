@@ -1,0 +1,32 @@
+id,name,text,trans
+0000000000000,プロデューサー,"小糸、おめでとう
+──宣言通りの、優勝だ","Koito, congratulations!
+ーIt was just as you said, you won!"
+6022003080010,小糸,"え……
+あ、あれ、わたし……","Eh...
+T-That's...I"
+6022003080020,小糸,優勝……──,I won...!
+0000000000000,プロデューサー,"はは、うん
+実感、わかないか？","Ahaha, I see. 
+Still in disbelief? "
+6022003080030,小糸,い、いえ……あの……,N-No...it's just...
+6022003080040,小糸,"……やっぱり、優勝したからって
+その瞬間に何かが変わることは……無いなって","...Just, as I thought... winning really doesn't change anything
+in the moment..."
+0000000000000,プロデューサー,……うん,...Mhm.
+6022003080050,小糸,"だけど、ちゃんと結果を出せたってことは
+……すごく、嬉しいです","But, actually achieving the results I set out to get...
+...I'm so happy!"
+0000000000000,プロデューサー,"ああ、そうだな
+ここからまた、頑張っていこう","That's right!
+Let's keep doing our best going forwards."
+0000000000000,プロデューサー,"……俺も、もっとちゃんと
+小糸のことプロデュースできるように","...I want to do my part too, 
+to better support you as your producer."
+0000000000000,プロデューサー,……頑張るからさ,...I'll do my very best.
+6022003080060,小糸,……はい……！,...Yeah...!
+6022003080070,小糸,"プロデューサーさん
+……ありがとうございました","Thank you so much, 
+Producer-san!"
+info,produce_events/602200308.json,
+Translator,ema,

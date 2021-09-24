@@ -1,0 +1,29 @@
+id,name,text,trans
+0000000000000,プロデューサー,"……お疲れ様、小糸
+頑張ったな","...Great work, Koito. 
+You did your best."
+6022003060010,小糸,"全然、だめでしたね……
+わたし…………","I was...
+A total failure, huh..."
+6022003060020,小糸,"あんなこと言っておいて、
+決勝にも、進めないなんて……","To not even make it to the finals...
+after everything we said..."
+0000000000000,プロデューサー,"……結果は、残念だったし
+変えることはできないよ","...The results are disappointing, 
+but we can't change them now."
+0000000000000,プロデューサー,"だからこそ、小糸が……
+次に進もうって思わない限り","That's exactly why we should keep going...
+unless you decide not to."
+0000000000000,プロデューサー,多分、……次は来ないんだ,If so... there might not be a next time.
+6022003060030,小糸,あ…………,Ah...
+0000000000000,プロデューサー,"逆に言えば、小糸が進もうとする限り
+ずっと次はあると思うんだ","However, if you choose to keep moving, Koito, 
+there will always be a next time. "
+6022003060040,小糸,"そ、そうですね……
+うん、そうでした……","T-That's true...
+Yeah, that's right..."
+6022003060050,小糸,"わたし、ちゃんと考えます
+……この次の……これからのこと","I'll think it over properly. 
+...This and...what to do from here..."
+info,produce_events/602200306.json,
+Translator,ema,

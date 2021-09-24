@@ -1,0 +1,102 @@
+id,name,text,trans
+3022004020010,小糸,えっと……,Let's see...
+3022004020020,小糸,"かぼちゃと、バター……と
+お砂糖、薄力粉、コーンスターチ……","There's the pumpkin and the butter…
+The sugar, flour, and cornstarch..."
+3022004020030,小糸,あ、あと卵……！,"O-Oh, and the eggs…!"
+3022004020040,小糸,"よかった割れてない……
+バニラエッセンスも──よし","Phew, they haven't cracked...
+The vanilla extract is here too... ─all okay!"
+3022004020050,小糸,"先にクッキーからやってみて、
+上手くいったらパイも作ろう……！","I think I'll try making cookies first…
+If that goes well, I'll make a pie too…!"
+3022004020060,小糸,"材料、多めに買ったし
+ちょっと失敗しても、大丈夫……！","There's plenty of ingredients 
+so if I mess up a little it's alright…!"
+3022004020070,小糸,えっと、レシピは──……,"Let me see, the recipe says─..."
+3022004020080,小糸,………………,......
+3022004020090,小糸,"……ま、まだかな
+焦げてないよね……？","...N-Not done yet…
+Surely they won't get burnt like this…?"
+3022004020100,円香,──小糸？,─Koito?
+3022004020110,小糸,ぴぇ……！？,Pyah...!?
+3022004020120,円香,……何やってんの,…What're you up to?
+3022004020130,小糸,ま、円香ちゃん……！,M-Madoka-chan…!
+3022004020140,円香,"粉だらけじゃん
+……散らかしてるね","You're all covered in powder. 
+...And it's a mess in here."
+3022004020150,小糸,"え、えへ……
+終わったらちゃんと片付けるよ","E-Ehe…
+I'll clean up properly when I'm finished!"
+3022004020160,小糸,"明日のハロウィンパーティーのお菓子
+作ってるんだ！","I'm making sweets 
+for the Halloween party tomorrow!"
+3022004020170,小糸,"事務所のキッチン使っていいよって
+プロデューサーさんも言ってくれて……","Producer-san gave me the okay 
+to use the office's kitchen to make them..."
+3022004020180,円香,ふうん,Hmmm.
+3022004020190,小糸,"あ、あの……！
+よかったら、一緒に作らない？","U-Um…!
+Madoka-chan, if you want to,"
+3022004020200,小糸,円香ちゃんも……！,Do you wanna make some too? T-Together…!
+3022004020210,小糸,材料、いっぱいあるんだよ,There's a ton of ingredients left.
+3022004020220,円香,……もうコンビニでお菓子買ったから,...I already bought mine at the store earlier.
+3022004020230,円香,これ、置きに来ただけ,I just came here to drop them off.
+3022004020240,小糸,あ……そ、そっか,O-Oh...r-right!
+3022004020250,円香,ごめんね,Sorry.
+3022004020260,円香,そんな張り切っても────,You seem so hyped up about it too─
+3022004020270,小糸,"…………
+そ、そうだよね","…
+I-I am!"
+3022004020280,円香,じゃ、頑張って,"Well, good luck."
+3022004020290,小糸,え、あ…………,A-Ah...
+3022004020300,小糸,"あ、あの！
+味見！　味見は！？","W-Wait a second!
+Taste! C-Could you taste them for me?"
+3022004020310,円香,え……,Huh...
+3022004020320,小糸,"もうすぐ
+かぼちゃのクッキー焼けるから！","The pumpkin cookies 
+will be done in just a sec!"
+3022004020330,小糸,"このあと
+かぼちゃのパイもやるし……！","And after that 
+I'm making a pumpkin pie…!"
+3022004020340,円香,"…………
+頑張りすぎじゃない？","...
+Isn't this a little too much?"
+3022004020350,小糸,"そ、そうかな……
+でもわたし","W-Well, maybe…
+But, I'm just..."
+3022004020360,小糸,……楽しみなんだ,...I'm really looking forward to it.
+3022004020370,円香,…………,......
+3022004020380,小糸,"ほ、ほら！
+出来たみたい……！","H-Here, 
+Looks like they're done…!"
+3022004020390,小糸,"ちょっと待ってね
+お茶も淹れるから……！","Wait just a sec, 
+I'll make some tea too…!"
+3022004020400,円香,…………,......
+3022004020410,小糸,…………,......
+3022004020420,小糸,"ま、円香ちゃんごめん……
+ちょっと、焦がしちゃったみたい","S-Sorry, Madoka-chan…
+They ended up a little burnt..."
+3022004020430,小糸,もう一回、作り直して──,I-If I just try making them again─
+3022004020440,円香,そんなに待てないから,I can't wait that long.
+3022004020450,円香,…………ん,…*munch*
+3022004020460,小糸,え……！,Eh…!
+3022004020470,円香,……感想いる？,...Do you want my opinion on them?
+3022004020480,小糸,あ、え、えっと……,"A-Ah, u-um..."
+3022004020490,円香,……ん,...Mm.
+3022004020500,円香,じゃ、帰るよ,I'll head home then.
+3022004020510,小糸,"う、あの……
+ごめんね……！","U-Um…
+Sorry again…!"
+3022004020520,円香,別に,Don't worry about it.
+3022004020530,小糸,"明日までに、
+ちゃんとしたの作るから……！","I'll make sure to have it 
+perfect by tomorrow…!"
+3022004020540,円香,…………,......
+3022004020550,小糸,………………,......
+3022004020560,小糸,……うん,...Alright.
+3022004020570,小糸,もう一回、やろう……！,Let's give this another shot…!
+info,produce_events/302200402.json,
+Translator,ema,
