@@ -102,7 +102,7 @@ let's stop by the lesson room first!"
 I'm sorry for the sudden request..."
 4001039070420,美琴,先にお花屋さんに寄るのでもいいけど,We can stop at the flower shop first.
 4001039070430,美琴,……どう？,...Yeah?
-4001039070440,にちか,あっ,Ah.
+4001039070440,にちか,あっ,"Ah,"
 4001039070450,にちか,"はい、私も全然……
 レッスン場、まだ空かないですし","Yeah, I'm fine too...
 The lesson room is still being used anyway."
@@ -128,7 +128,7 @@ Leave it to me."
 4001039070530,智代子,『なぜ探しているの』,"""Why are you searching for it?"""
 0000000000000,他店２店員,"──ごめんなさいね、
 ５本しか用意できなくて……","──I apologize,
-We only have five in stock..."
+we only have five in stock..."
 4001039070540,霧子,"来てもらえて……
 とっても……嬉しいです……",I'm just glad... you have them...
 0000000000000,他店２店員,"そう？　おまけってわけじゃないんだけど
@@ -228,10 +228,10 @@ When I do it..."
 ────"
 4001039070870,真乃,──────……,──────...
 0000000000000,off,『そしたら、降ってきたんだ』,"""And then, it started to rain."""
-0000000000000,off,『あいが』,"""Ai."""
+0000000000000,off,『あいが』,"""Love."""
 4001039070880,off,"『夏の空から、
 あいが降ってきたんだ』","""From the summer sky,
-it rained Ai."""
+it rained Love."""
 0000000000000,生花店スタッフ,"────よし、間に合う！
 いってきます……！","────Yes! We made it in time!
 I'll head out...!"

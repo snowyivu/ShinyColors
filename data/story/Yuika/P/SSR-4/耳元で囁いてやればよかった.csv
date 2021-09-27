@@ -3,7 +3,7 @@ id,name,text,trans
 2007009040010,結華,うん……！？,Huh...!?
 0000000000000,プロデューサー,"あっ、いや！
 『すごいな』って言ったんだ！","Ah... oh! I was saying ""that's crazy!"""
-0000000000000,プロデューサー,セミの声、すごいなって！,"It's so crazy that the cicadas are making this\
+0000000000000,プロデューサー,セミの声、すごいなって！,"It's so crazy that the cicadas are making this
 much noise!"
 2007009040020,結華,あはっ、ほんとにねー！,Ah! It sure is!
 2007009040030,結華,結構声張らないとかき消される──,They'll drown you out if you don't speak up──
@@ -34,7 +34,7 @@ tell me?"
 select,,"聞こえてないとは
 言ってないぞ","I never said
 that I didn't
-hear youu."
+hear you."
 select,,（お返し、ってことで）,"(It's
 payback
 time)"
@@ -56,7 +56,7 @@ and I failed to deliver a response."
 2007009040170,結華,──……っふふ……！,Pff! Heheh!
 2007009040180,結華,Ｐたんはどこまでも真面目さんですこと！,"P-tan, you're taking this waaay too hard!"
 2007009040190,結華,え,Eh?
-0000000000000,プロデューサー,俺も、『いつもありがとう』！,"Me too, ""Thank you for for everything!"""
+0000000000000,プロデューサー,俺も、『いつもありがとう』！,"Me too, ""Thank you for everything!"""
 2007009040200,結華,～～～～っ！,~~~~!
 2007009040210,結華,"何それ！
 そういうのずるいからねプロデューサー！","What the heck!
@@ -87,4 +87,4 @@ back there?"
 2007009040290,結華,……まったく、強引な交渉だね？,"Sheesh... Someone's being reaaal pushy with
 negotiations, huh?"
 info,produce_events/200700904.json,
-Translator,,
+Translator,Lewdacriz,

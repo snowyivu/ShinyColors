@@ -35,7 +35,7 @@ anything."""
 I'm happy to receive this lovely item."""
 4001039080140,ヒロイン,『また持ってきてね』,"""I'd love to see more."""
 4001039080150,霧子,"『と、仕掛け人形のようにあいを差し出すその手は筋張って
-頬も少しずつこけていくように見えた』","""Then, as she held out Ai like a string puppet,
+頬も少しずつこけていくように見えた』","""Then, as she held out Love like a string puppet,
 I realized that her cheeks were hollow."""
 4001039080160,智代子,『彼女の財は、尽きかけていた』,"""Her fortune was about to run out."""
 4001039080170,霧子,おはようございます……,Good morning...
@@ -69,8 +69,8 @@ had saved together with her husband."""
 しかしガラクタなど買い手がつくわけもない』","""She bought all the junk that came, but there
 weren't any buyers for them."""
 4001039080250,智代子,"『そういえば当初から、
-買い取り以外の客を店で見たことはなかった』","""Come to think of it, the store didn't have any visitor
-other than some shoppers."""
+買い取り以外の客を店で見たことはなかった』","""Come to think of it, the store never had a visitor
+besides some customers."""
 4001039080260,霧子,"……
 こんなに……たくさん────","......
 There are so many... of them────"
@@ -89,8 +89,8 @@ the job────"
 もう自分でもわからないのだ、と彼女は言っていた』","""'I don't know if I'm really looking for something
 anymore,' she said."""
 4001039080300,摩美々,"『そうだったのだろう
-手持ちのあいを切り崩し、手当たり次第にガラクタを買い』","""That must be it. She had been shaving away her Ai
-to buy any junk that came her way."""
+手持ちのあいを切り崩し、手当たり次第にガラクタを買い』","""That must be it. She had been shaving away her
+Love to buy any junk that came her way."""
 4001039080310,智代子,"『まるで自分自身を
 少しずつ削り取っているようにも見えたから』","""It was as if,
 she was losing herself, piece by piece."""
@@ -99,7 +99,7 @@ she was losing herself, piece by piece."""
 to throw away as few as possible."
 4001039080320,霧子,……────,......────
 4001039080330,霧子,"『残ったあいがなくなる頃に、
-彼女もまた消えてしまうのではないだろうか────』","""When her Ai runs out,
+彼女もまた消えてしまうのではないだろうか────』","""When her Love runs out,
 I wonder if she will also cease to exist────"""
 0000000000000,ダンストレーナー,"基礎をみるっていうのは、
 大ベテランでも難しいんですよ",Going back to basics is difficult even for veterans.
@@ -108,7 +108,7 @@ I wonder if she will also cease to exist────"""
 I sort of get that."
 0000000000000,ダンストレーナー,"簡単に測れないでしょう？
 振りができてるかどうかってことと違って","It's difficult to judge, y'know? It's not like how
-you can tell if someone can dance a move or not."
+you can tell if someone can perform a move or not."
 0000000000000,プロデューサー,はい,Yeah.
 4001039080340,にちか,"……っ……
 ２、３、４────","......eh......
@@ -129,7 +129,7 @@ You don't have to do it...!"
 I know..."
 4001039080380,霧子,"……
 お花は……心だ、って……","......
-Flowers... are like hearts, so..."
+Flowers... are hearts, so..."
 4001039080390,摩美々,あ……,Ah...
 4001039080400,摩美々,……アイテム増えた,...The items increased.
 4001039080410,摩美々,────あ……,────Oh...
@@ -168,8 +168,8 @@ it didn't seem like she had much time left."""
 4001039080520,摩美々,"『もはや客であるという建前も忘れ
 私はただ急いで浜へ向かった』","""I hurried to the seashore,
 no longer pretending to be a customer."""
-4001039080530,霧子,『あるだけのあいを懐に入れて』,"""I stuffed as much Ai as I could in my pockets."""
-4001039080540,智代子,『カモメの餌に、全あいを注ぎこんでください！』,"""Pour all your Ai into the seagull's food!"""
+4001039080530,霧子,『あるだけのあいを懐に入れて』,"""I stuffed as much Love as I could in my pockets."""
+4001039080540,智代子,『カモメの餌に、全あいを注ぎこんでください！』,"""Pour all your LP into the seagull's food!"""
 4001039080550,智代子,『だって！』,"""He said!"""
 4001039080560,摩美々,"……どういう意味ー
 餌はアイテムじゃなくて────","...That makes no sense.
@@ -340,6 +340,6 @@ That's great..."
 4001039081150,霧子,"お別れした……お花さんたちと……
 入れ替わったんだね……","You're here... to replace...
 The flowers we said goodbye to..."
-4001039081151,一同,────────,────────Hello there.
+4001039081151,一同,────────,──Hello there.
 info,game_event_communications/400103908.json,
 Translator,Ru Ru,

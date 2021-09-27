@@ -4,7 +4,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"……ふー……
 お疲れ様だったな、結華","Phew... Good work out there, Yuika."
 2007009110020,結華,"プロデューサーこそ
-……いやー、長引いたねぇ","Likewise, Producer
+……いやー、長引いたねぇ","Likewise, Producer.
 Maaan, we've sure been through a lot."
 0000000000000,プロデューサー,"そうだな……
 帰りの道も混んでたし……","Tell me about it...
@@ -89,7 +89,7 @@ We shared a very pleasant summer!"
 Now's the time for a celebration!"
 0000000000000,プロデューサー,？,?
 2007009110170,結華,"冷蔵庫にねー、
-とっておきの水ようかんがあるんだよね","In the fridge── I've got a special ""mizu yokan"" inside!"
+とっておきの水ようかんがあるんだよね","In the fridge── I've got a special ""mizu yokan"" inside."
 2007009110180,結華,"いつかのご褒美に～って思ってたけど、
 今日開けちゃうことにする！","I had planned to use it as a reward for myself,
 but today's a good time to open it up!"
@@ -99,7 +99,7 @@ Wait, you don't need to do that, Yui──"
 0000000000000,プロデューサー,──いや、悪い。間違った,──Um... Forgive me. I was mistaken.
 0000000000000,プロデューサー,"そういうことなら、遠慮なく頂くよ
 ありがとう","In that case, I'll gladly take you up on the offer."
-2007009110190,結華,──ふふ。うん,"Fufu, yup!"
+2007009110190,結華,──ふふ。うん,"Hehehe, yup!"
 0000000000000,プロデューサー,"……よし。せっかくだ、いい皿に出さないか？
 来客用のが棚の奥にある","Kay... Might as well use the special plates?
 The fancy plates for visitors are futher back in the
@@ -115,4 +115,4 @@ I'll be in charge of destroying the evidence."
 We'll have a glorious supper thanks to you, Yuika."
 2007009110220,結華,どういたしまして！,The pleasure is mine!
 info,produce_events/200700911.json,
-Translator,,
+Translator,Lewdacriz,

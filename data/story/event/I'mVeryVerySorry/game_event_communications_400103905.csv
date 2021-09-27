@@ -5,12 +5,14 @@ id,name,text,trans
 afternoon with shadows stretching far."""
 4001039050030,霧子,『滅多に家の外に出ることはなく』,"""She rarely left her house."""
 4001039050040,智代子,"『店に立つ時はいつでも黒いヴェールが目元を覆い
-同じ色のドレスが、明けることのない喪をしるしていた』","""When she's at her store, a black veil covers her
-eyes. And the matching dress denoted her
-never-ending grief."""
+同じ色のドレスが、明けることのない喪をしるしていた』","""While she was at her store, a black veil would
+cover her eyes. And the matching dress denoted
+her never-ending grief."""
 4001039050050,真乃,────あ……,────Ah...
 4001039050060,真乃,"『渡り鳥たちが短い夏を楽しみ、草木が風と戯れ、
-花と果実が光の祝福を浴びているその庭で』","""In the garden where birds migrated, where plants danced with the wind, where fruits and flowers basked in the sun's blessing,"""
+花と果実が光の祝福を浴びているその庭で』","""In the garden where birds migrated, where plants
+danced with the wind, where fruits and flowers
+basked in the sun's blessing,"""
 4001039050070,霧子,『彼女だけが色を持たず、声を持たず』,"""She alone had no color, or voice."""
 4001039050080,智代子,"『まるであの人自身が、
 失われたその何かであるような気さえしてくる』","""It was as if she had lost something of herself."""
@@ -124,7 +126,7 @@ What are your thoughts on this?"
 How did I feel～?"
 4001039050560,恋鐘,"……ん～～～
 どがん気持ち～……どがん気持ちやったとやろ～……","......Uh～
-How did I feel～......What did I think～......"
+How did I feel～...... What did I think～......"
 4001039050570,美琴,……暗い感じかな,......I think it's grim.
 4001039050580,にちか,"……あーっ！
 わかりますー！　ですよねー……！","......Ah!
@@ -171,7 +173,8 @@ the wait was, he shouldn't have dragged you in
 like that...!"
 4001039050740,美琴,…………どうかな,...I guess.
 0000000000000,プロデューサー,"攻略するからさ、
-うちのみんなが頑張った作品は",I have to win the game that we all have put hard effort into.
+うちのみんなが頑張った作品は","I have to beat the game that we all put hard
+effort into."
 4001039050750,美琴,"────
 見せたかったのかもね","────
 He wanted to show me, perhaps."
@@ -211,7 +214,7 @@ something like that."
 4001039050890,美琴,…………,....
 0000000000000,プロデューサー,"ペナルティはないよ
 愛をもらえるだけで","There's no penalty.
-You only receive ""Love."""
+You only receive love."
 4001039050900,にちか,……どうせ、結局諦めたくせに,"...But she gave up in the end, anyway."
 4001039050910,智代子,"妻に自分の知り得ぬ新しい時間が生まれると思うと
 夫には不安とも怒りともつかない感情が湧き上がった","The thought that his wife would have free time
@@ -242,7 +245,8 @@ you can never be a painter."""
 never be crossed, the wife did not hold back."
 4001039051010,摩美々,燃える瞳がぶつかる,Furious eyes collided.
 4001039051020,恋鐘,"そいでも、
-きっとうちがやったらよかこともある～って思って……","Even so, I thought there must be merit in me doing the job..."
+きっとうちがやったらよかこともある～って思って……","Even so, I thought there must be merit in me doing
+the job..."
 4001039051030,恋鐘,"あれが違うこれが違う～って言われながら
 い～っぱいやり直したけん","I had to do lotsa retakes because they said this
 and that were wrong～."
@@ -343,6 +347,6 @@ The waves roared in a low baritone."""
 4001039051440,智代子,"『数日後、バラバラになったイーゼルが浜に打ち上げられ
 弔鐘が町に響いた』","""Several days later, a broken easel washed up on the
 shore. Mourning bells echoed through the town."""
-4001039051450,真乃,『彼女は、寡婦になった』,"""And, she became a widow."""
+4001039051450,真乃,『彼女は、寡婦になった』,"""And so, she became a widow."""
 info,game_event_communications/400103905.json,
 Translator,Ru Ru,

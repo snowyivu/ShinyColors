@@ -36,7 +36,7 @@ we play a game of tag~?"
 0000000000000,プロデューサー,こらこら待て待て待て……！,W-Wait just a second...!
 2007009030100,結華,やだなぁ、冗談だよ！,"Oh stop, you~ I'm just joking!"
 2007009030110,結華,"三峰、ちゃーんと常識は弁えてるんだから
-そんな間違った遊び方するわけないでしょ？","Mitsumine know that it's common sense not to play
+そんな間違った遊び方するわけないでしょ？","Mitsumine knows that it's common sense not to play
 around haphazardly with these things."
 2007009030120,結華,疑われちゃうなんて、心外～,To think that I've been doubted... boohoo~
 0000000000000,プロデューサー,よく言う……！,You got some nerve...!
@@ -50,7 +50,7 @@ second thought, won't you?!"
 2007009030130,結華,え～,Ehhh~
 2007009030140,結華,"三峰のことわかりすぎるくらいわかってくれてるＰたん、
 怖～い","To think that P-tan understands Mitsumine
- this much... So scaaary~"
+this much... So scaaary~"
 0000000000000,プロデューサー,怖いとか言うな、怖いとか,"Hey, don't you go calling me scary!"
 2007009030150,結華,ふふふっ,Hehehe!
 2007009030160,結華,"怖いから、花火向けるのはやめてあげるー
@@ -59,8 +59,8 @@ Well? What do you want to do now, P-tan?"
 0000000000000,プロデューサー,線香花火だよ,...Sparklers.
 2007009030170,結華,えっ、早くない？,Huh? Isn't it too early for that?
 2007009030180,結華,"線香花火って最後じゃないの？
-まだ他のも残ってるのに","Aren't sparklers the last thing to do? We still have many
-fireworks to get through too..."
+まだ他のも残ってるのに","Aren't sparklers the last thing to do? We still have
+many fireworks to get through too..."
 0000000000000,プロデューサー,俺は今、こいつを長く育ててやりたい気分なんだ……！,"Nah, I'm gonna start a daycare for sparklers as a side
 hustle. I'll raise this little guy to have a long and
 healthy life!"
@@ -82,20 +82,20 @@ with rough play."
 select,,"大事に
 使ってくれるなら","We should
 take things slow."
-2007009030230,結華,どっちが長く育ててあげられるかってやつ？,To see who's sparkler burns the longest?
+2007009030230,結華,どっちが長く育ててあげられるかってやつ？,To see whose sparkler burns the longest?
 0000000000000,プロデューサー,おう,Yeah.
 2007009030240,結華,んふふー、乗った！,"Fufufu, you're on!"
 2007009030250,結華,"勝負とあらば、負けませんよぉ
 ──なんてね！","If it's a game you want, then I'm not gonna lose──
 just kidding!"
 2007009030260,結華,"はーいはい了解でーす
-Ｐたんの作法に従うってば","Yeah yeah, roger that. I'll abide by by P-tan's rules."
+Ｐたんの作法に従うってば","Yeah yeah, roger that. I'll abide by P-tan's rules."
 2007009030270,結華,三峰割と合わせるタイプなの、知ってるでしょー？,"Shouldn't you already know that Mitsumine's the
 flexible, cooperative-type?"
 0000000000000,プロデューサー,"…………前言撤回だ
 俺にも５本ぐらい寄越してくれ","...I take back what I said.
 Gimme all five."
-2007009030280,結華,えっ？,Huh? Isn't it too early for that?
+2007009030280,結華,えっ？,Huh?
 0000000000000,プロデューサー,"今日は結華式でいこう
 ……気が変わったから","I've changed my mind...
 We'll be doing your suggestion earlier."
@@ -108,11 +108,11 @@ Producer!"
 2007009030310,結華,うん？,Hmm?
 0000000000000,プロデューサー,"花火だよ
 使い切ったら、帰らなきゃいけないだろ","I-I mean the fireworks. We'll have to head back home
- once we go through them all."
+once we go through them all."
 0000000000000,プロデューサー,"せっかく楽しいんだ、ちょっとでも長く遊んでいたい
 だから無駄遣いはナシだぞ？","I want to have as much fun for as long as possible,
 so let's make all of this worth our time, okay?"
 2007009030320,結華,……──！,...──!
 2007009030330,結華,はーいっ,Okay!
 info,produce_events/200700903.json,
-Translator,,
+Translator,Lewdacriz,
