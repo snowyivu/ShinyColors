@@ -1,0 +1,144 @@
+id,name,text,trans
+0,プロデューサー,（……すっかり遅くなっちゃったな）,(It's getting really late...)
+0,プロデューサー,………………,......
+0,プロデューサー,（事務所、さすがにもう電気消えてるか）,"(I don't see any lights at the office. 
+No surprise there, given the time.)"
+0,プロデューサー,"……えっ
+玄関の鍵開いてるじゃないか……！","Huh...
+The door isn't locked...!"
+0,プロデューサー,"（はづきさんが締め忘れ……
+ってことは無いだろうし）","(Did Hazuki forget to lock it...?
+No, she wouldn't.)"
+0,プロデューサー,（まだ誰か居るのか……？）,"(So is someone still here, then...?)"
+0,プロデューサー,"（けど、電気点いてなかったよな……？
+まさか、誰か不法侵入者が──……）","(But then why would the lights be off...?
+I sure hope we haven't got ourselves a burglar……)"
+0,プロデューサー,………………！,.......!
+2025004040010,美琴,…………っ！,.......!
+0,プロデューサー,──うわ、美琴……！？,"──Woah, Mikoto...!?"
+2025004040020,美琴,"………………
+びっ……くりした……！","......
+Woah, you scared me...!"
+0,プロデューサー,"いやいや、
+それはこっちのセリフだぞ……！",I should be the one saying that...!
+0,プロデューサー,"どうしたんだ、
+こんな時間に電気も点けないで──……","What's going on? 
+Why are you still here and why are the lights──……"
+0,プロデューサー,"……それ、
+誰かのライブ映像か？","......
+Is that a concert movie you're watching?"
+2025004040030,美琴,"え……？
+あ……うん、そうなの","Huh...?
+Ah... yeah, it is."
+2025004040040,美琴,"この間買ったでしょ？
+昔、一緒に研究生していた子が出ていて……","You were there when I bought it, remember?
+I trained together with one of these girls, way back."
+2025004040050,美琴,"そんなに知名度のあるグループじゃないけど
+……でも、このライブは良かった","They're not a very well-known group... 
+...but this concert was very good."
+0,プロデューサー,…………そうか,"......
+I see."
+2025004040060,美琴,"出ていく時に戸締まりさえすれば見ていてもいいって、
+はづきさんが言ってくれたから","Hazuki-san said that if I promised to lock the doors when I leave, I could stay here and watch it."
+2025004040070,美琴,"ここ、借りていたの
+だけど電気、点けていればよかったね","So that's what I've been doing.
+I suppose I should've kept the lights on."
+0,プロデューサー,"ああ、うん
+てっきり、誰かが事務所に侵入してるのかと思ったよ",Yeah. I honestly thought someone had broken into the office.
+2025004040080,美琴,"……私も、プロデューサーは今日
+もう帰って来ないと思っていたから",And I thought you wouldn't be coming back to the office until tomorrow morning...
+2025004040090,美琴,"知らない人が急に入ってきたのかと思って、
+びっくりしちゃった","So I was sure a total stranger had walked in. 
+You had me scared for a moment."
+0,プロデューサー,はは……すまんすまん,"Haha, sorry about that."
+0,プロデューサー,"でも、もう遅いし
+続きは家で見たらどうだ？","Anyway, it's getting pretty late.
+How about you watch the rest at home?"
+0,プロデューサー,もちろん、送っていくしさ,"I'll give you a ride, of course."
+2025004040100,美琴,…………あのね,"......
+The thing is..."
+2025004040110,美琴,"家のテレビ、
+モニターが点かなくなっちゃったの",My TV at home stopped working.
+2025004040120,美琴,"だからここで、
+見させてもらっていたんだけど",That's why I was watching it here.
+0,プロデューサー,"えっ
+この間、洗濯機も調子悪いって言ってなかったか？","Huh, didn't you say your washing machine was acting up as well?"
+2025004040130,美琴,……そうなの,"Yeah, it is..."
+2025004040140,美琴,"家電って、一気に調子悪くなったりするけど
+どうしてなんだろう","You know how it is. 
+When appliances go bad, they go bad all at once.
+I wonder why..."
+0,プロデューサー,"確かに
+……だけど、困るよな",True enough. Real pain when it happens.
+2025004040150,美琴,"……うん
+でも、それもそうだなって思って","Yeah...
+It's actually not all that strange, when you think about it."
+2025004040160,美琴,"こっちに上京してきてから
+ずっと使っている物だから、もう10年だし","I've been using all of my appliances since I moved to Tokyo, and that was 10 years ago."
+2025004040170,美琴,…………色々,"......
+After that much time..."
+2025004040180,美琴,ダメになっても、おかしくない頃だよね,"...all sorts of good things start turning bad, don't you think?"
+0,プロデューサー,………………,......
+2025004040190,美琴,"──ねえ、プロデューサー
+この映像、あと20分くらいで見終わるから","──Say, Producerー
+The video is only about 20 more minutes."
+2025004040200,美琴,だからもう少し、ここで見ていってもいい？,So can I stay and watch a little longer before we go?
+2025004040210,美琴,"……これで最後なの
+全部、見終わるから","This is the last part...
+Then I'll have seen everything."
+0,プロデューサー,"──わかった
+…………美琴","──Okay, okay.
+......
+Mikoto...?"
+select,,"一緒に見ても
+いいか","Can I watch
+with you?"
+select,,"でも、あと少し
+だけだぞ","Just a little
+longer, okay?"
+select,,"明日も
+あるだろ？","What about
+tomorrow?"
+2025004040220,美琴,"もちろんいいけど……
+途中から……っていうか","Of course you can...
+If you don't mind starting halfway in..."
+2025004040230,美琴,"ラストのアンコールからって感じになるけど
+いいの？","Or rather, starting from the final encore...
+Is that okay with you?"
+0,プロデューサー,おう、構わないよ,Sure. No problem.
+0,プロデューサー,"どういうライブで、
+何が参考になりそうだったのかは","I do want to hear what kind of performance it was though, and what parts of it inspired you."
+0,プロデューサー,"美琴を送っていく車の中で
+話してもらうことにするからさ",You can tell me all about on the drive home.
+0,プロデューサー,"明日も仕事にレッスンに──……
+予定はたくさんあるんだから","Don't forget that you've got more work and lessons tomorrow──……
+It's gonna be another busy day."
+0,プロデューサー,"それ見終わったら、
+事務所の戸締まりして、送っていくからな！","When you're done watching that, we'll lock the doors and go. Okay?"
+2025004040240,美琴,"うん
+……ありがとう","Yeah...
+Thank you."
+2025004040250,美琴,"早く新しい家電に
+買い換えなきゃって思っていたけど","I was thinking about replacing my broken appliances, but..."
+2025004040260,美琴,"なんか、至れり尽せりだから
+しばらく、このままでもいいのかも","You're spoiling me so much, maybe I'll hold off on that for a bit a longer."
+0,プロデューサー,え……！,Huh...?
+2025004040270,美琴,なんて……嘘、冗談だよ,Come on... I'm just kidding.
+0,プロデューサー,"明日の朝、早いし……
+本当にそれだけ見て、すぐ帰ろうな","Tomorrow's gonna be an early morning.
+We leave the minute you finish watching that. Okay?"
+2025004040280,美琴,"大丈夫
+目覚まし時計は壊れていないから",Don't worry. My alarm clock isn't broken.
+0,プロデューサー,"いや
+起きられるかどうかじゃなくてさ",I'm not worried about whether you'll be able to get up in the morning.
+0,プロデューサー,"ちゃんと寝る時間が
+あるのかどうかが、心配なんだよ",I'm worried about how little sleep you're going to be getting.
+2025004040290,美琴,それは大丈夫……だと思うけど,I'll be fine... I think.
+2025004040300,美琴,でも、心配してくれてありがとう,But thank you for worrying.
+0,プロデューサー,"うん
+いつも言ってるけど、無理はしないように","Well, I can't say this enough, but don't push yourself too hard."
+2025004040310,美琴,そうだね、気を付ける,You're right. I'll be careful.
+2025004040320,美琴,……私まで壊れちゃったら困るしね,"......
+After all, it'd be a bit inconvenient if I broke down too."
+info,produce_events/202500404.json,
+Translator,Pluie,

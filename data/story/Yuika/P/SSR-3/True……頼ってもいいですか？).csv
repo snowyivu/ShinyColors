@@ -1,0 +1,69 @@
+id,name,text,trans
+2007008110010,結華,『すみません』,"""Sorry.""
+"
+2007008110020,結華,"『熱が出てしまったので、
+今日のレッスンはお休みさせてください』","""I have a fever so I'd like to take a break from lessons today."""
+0000000000000,プロデューサー,"（熱か……
+『了解した。お大事にな』と……）","(A fever, huh... ""Understood. Take care,"" and send...)"
+0000000000000,プロデューサー,"（……あれ、待てよ
+結華って一人暮らしだったよな……）","(...Wait a minute. Yuika lives alone, doesn't she...)
+"
+0000000000000,プロデューサー,（…………）,(...)
+2007008110030,結華,…………はぁい……,...Hello...
+2007008110040,結華,"──って、えっ……はぁ！？
+プロデューサー！？","Wait, wha... huh!?
+Producer!?"
+0000000000000,プロデューサー,おおっ！？　ゆい──,Wha!? Yui──
+2007008110050,結華,なんで……！？,Why...!?
+0000000000000,プロデューサー,"すまん！　やっぱりメッセージ見てないか
+一応、様子を見に行きたいって──",Sorry! I guess you must have missed the message I sent. I just wanted to check in──
+2007008110060,結華,"──わ、ほんとだ
+ごめん、さっきまで寝てたから──","Oh, I sure did.
+Sorry, I was sleeping just now──"
+0000000000000,プロデューサー,いや！　こちらこそ、急に来て本当に悪かった,"It's fine! I should be the one to say sorry, coming over all of a sudden."
+0000000000000,プロデューサー,"一人暮らしだろ、
+しんどかったり何か困ってたりしてないかと思って──",You're living alone so I thought you might be having trouble or need something or-
+2007008110070,結華,プロデューサー……,Producer...
+2007008110080,結華,ありがとう……,Thanks...
+0000000000000,プロデューサー,"とんでもない！
+……ひとまず、大丈夫そうか？","No worries!
+...Anyway, are you doing okay?"
+2007008110090,結華,……ん,...Yeah.
+0000000000000,プロデューサー,ならよかった,That's good.
+0000000000000,プロデューサー,"──じゃあ俺は戻るけど、
+何かあったら遠慮なく連絡してくれていいからな","Guess I'll get going but if you need anything at all, be sure to let me know."
+0000000000000,プロデューサー,お大事に,Take care.
+2007008110100,結華,あ……待って──,Oh... wait──
+0000000000000,プロデューサー,？,?
+2007008110110,結華,"……えーっと……既に何かあると言いますかー……
+あー……その──……",...Um... There might be something already... uh... well...
+2007008110120,結華,"もう少しだけ、一緒に……
+おしゃべり……とか、してくれない……？","
+Could you... stick around just a little longer... and talk to me...?"
+0000000000000,プロデューサー,……結華──,...Yuika──
+0000000000000,プロデューサー,……おう！　もちろんだ,...Sure! You've got it.
+2007008110130,結華,先日はどうも、お世話様でした……,Thank you very much for looking after me the other day...
+0000000000000,プロデューサー,これはこれはご丁寧に……,"Well, well. You're awfully formal today..."
+2007008110140,結華,"──ごめんね
+貴重な昼休み、三峰のために使わせちゃったね","──Sorry for everything.
+Mitsumine cost you your one and only lunch break that day."
+0000000000000,プロデューサー,問題ない,Not a problem.
+2007008110150,結華,帰ってから、仕事、遅れなかった？,So it didn't set you back when you got back to work?
+0000000000000,プロデューサー,"当然だ
+あの日はちゃんと定時退社キメたよ","Of course not.
+My work-life balance was flawless that day."
+2007008110160,結華,ふふふっ……さすが！　優秀！,Hehe... Great job! Gold star for you!
+0000000000000,プロデューサー,はは……,Haha...
+2007008110170,結華,"……でも本当に、ありがとう
+心細かったから、嬉しかった","...But I mean it, thanks. I was feeling pretty helpless so that brightened my day."
+0000000000000,プロデューサー,……そうか,"...It did?
+"
+2007008110180,結華,そう！,Yup!
+2007008110190,結華,"だからね、
+『プロデューサーが熱出したら三峰が看病してあげる♡』","And so, ""If you ever get sick, Mitsumine will nurse you back to health ♡"""
+2007008110200,結華,……とかじゃなくて、さ,...Just kidding.
+2007008110210,結華,"……本当に嬉しかったから、この先プロデューサーが
+熱出したりしないように、見ててあげる","...Rather, since you really made me happy, I'll keep an eye on so you don't come down with anything in the first place instead."
+2007008110220,結華,──お礼として！,──As my thanks!
+info,produce_events/200700811.json,
+Translator,"Enzo and Mondo, Minor edits by Belvera",
