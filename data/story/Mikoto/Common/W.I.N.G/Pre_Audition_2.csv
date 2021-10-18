@@ -1,0 +1,24 @@
+id,name,text,trans
+4025001000120010,美琴,"ちゃんと評価してもらえるといいな
+……やってきたこと",I hope they'll appreciate the work I've put into this...
+0000000000000,プロデューサー,（美琴、やっぱり不安があるんだな……）,(Mikoto seems a little concerned...)
+select,,"評価されるように
+頑張ろう","We'll make them
+appreciate it."
+select,,"美琴の実力なら
+大丈夫だ","I'm sure you
+can handle it."
+select,,心配ない！,"Nothing to
+worry about!"
+4025001000120020,美琴,"うん……
+そうするしか、ないよね","Yeah...
+That's the only way, I suppose."
+0000000000000,プロデューサー,（よし、少し表情が明るくなったかな）,"(Alright, I think her expression softened a little bit.)"
+4025001000120030,美琴,"そう言ってくれるのは
+嬉しいけど……","I appreciate you saying that, but..."
+0000000000000,プロデューサー,（美琴の努力が報われるといいんだが……）,(I hope her hard work pays off...)
+4025001000120040,美琴,"……そうだといいけど
+どうかな","I hope you're right, but I'm not so sure..."
+0000000000000,プロデューサー,（かえって不安にさせてしまったかな……）,(Did I just make things worse...?)
+info,produce_communication_cheers/402500100012.json,
+Translator,Pluie,

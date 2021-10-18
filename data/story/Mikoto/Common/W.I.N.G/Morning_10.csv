@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,"美琴は実家、
+帰ったりするのか？","Mikoto, do you ever go back to your hometown to visit your parents?"
+0000000000000,プロデューサー,……結構遠方だよな,"It's pretty far away, right?"
+1025001001010010,美琴,"え？
+……ううん、全然帰っていないの","Mh...?
+Nah, I haven't been back since I left."
+1025001001010020,美琴,"ちゃんと、ここで結果を出すことが
+恩返しだと思っているから",I think producing actual results here is the best way for me to repay them for their support.
+select,,なるほどな,Makes sense.
+select,,そうなのか,I see.
+select,,……でもさ,But...
+0000000000000,プロデューサー,"……確かに、美琴の言う通りだ
+恩返し、していかないとな","You've certainly got a point.
+We've gotta make sure you can return the favor to them, then."
+1025001001010030,美琴,"うん……そうなの
+本当にね","Yeah... exactly.
+Definitely."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000,プロデューサー,"ちゃんとご両親まで美琴の活躍が
+届くように、俺も頑張らないとな……","I'll do my best to make sure word of your success reaches all the way to your hometown, then."
+1025001001010040,美琴,"……うん
+そうだね……私も","......
+Yeah, you're right. So will I."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000,プロデューサー,"連絡くらいは、してあげてくれよ
+きっと心配してるだろうし……","You should at least call them every once in a while.
+I'm sure they're worried about you."
+1025001001010050,美琴,"……うん
+そうかもしれないね","Yeah...
+You might be right."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100101.json,
+Translator,Pluie,

@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"どうしたんだ、甘奈？
+俺の顔をまじまじと見て","What's wrong, Amana?
+Anything going on with my face?"
+1014001001510010,甘奈,"あのね、甜花ちゃんとお話してたら、
+プロデューサーさんで良かったねーって話によくなるんだー","You know, I've talked with Tenka-chan,
+we feel so grateful having you as our producer-"
+1014001001510020,甘奈,"今思えば、プロデューサーさん以外のプロデューサーは、
+考えられないかな","I can't think of having any other producer than
+Producer-san."
+0000000000000,プロデューサー,（何か言葉を返そう……）,(Let's try to answer this…)
+select,,こちらこそだ,I feel the same.
+select,,照れるな,"You're embarassing
+me."
+select,,褒めすぎだと思うぞ,"I think you're
+complimenting me
+too much."
+1014001001510030,甘奈,"えへ、プロデューサーさんも甘奈で良かったーって、
+思ってくれてるんだ？","Ehe, does Producer-san also feel as grateful
+as me?"
+1014001001510040,甘奈,じゃあ、これからも一緒にがんばっていこうね☆,"Then, from now on let's do our best together☆"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1014001001510050,甘奈,"えへっ
+言ってる甘奈もちょっと恥ずかしいかも",Ehe. It was also embarrassing when I said it.
+1014001001510060,甘奈,でも、こういうの、ちゃんと言っておきたかったんだー,"But, I wanted to tell this to you properly."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1014001001510070,甘奈,ううん、褒めすぎなんてことはないよ！,"No, no, it's not too much of a compliment!"
+1014001001510080,甘奈,"もっと自信持ってくれた方が、
+甘奈たちも嬉しいかな","Tenka-chan and I would be much happier too
+if you be more confident."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101400100151.json,
+Translator,Aria,

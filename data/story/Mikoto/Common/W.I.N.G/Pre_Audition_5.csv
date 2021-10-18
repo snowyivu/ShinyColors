@@ -1,0 +1,29 @@
+id,name,text,trans
+4025001000220010,美琴,"……プロデューサー
+私の背中、押してくれない？","Producer...
+Can you give me a push?"
+0000000000000,プロデューサー,"（本番前に気合を入れたいって
+感じかな……）",(I think she wants to psych herself up before the show...?)
+select,,"よし！
+行ってこい！","Alright!
+Go get 'em!"
+select,,"お、おう
+いくぞ……！","S-Sure.
+Here it comes...!"
+select,,"ええ……！
+そうだな……","What...!?
+Well, uhh..."
+4025001000220020,美琴,"……！
+気合、入ったかも……ありがとう","......!
+I think I'm ready to go now.
+Thanks."
+0000000000000,プロデューサー,（よし、いい笑顔だ……！）,"(Alright, that's a good smile...!)"
+4025001000220030,美琴,"そんなに恐る恐るじゃなくて
+大丈夫なのに……",No need to go all scaredy-cat on me...
+0000000000000,プロデューサー,（まあ、リラックスはさせられたかな）,"(Well, at least she relaxed a little bit.)"
+4025001000220040,美琴,"……もう
+出番が来ちゃうよ","......Come on already.
+I'm gonna miss my cue."
+0000000000000,プロデューサー,（戸惑ってる場合じゃなかったな……）,"(She's right, this is no time to be dallying...)"
+info,produce_communication_cheers/402500100022.json,
+Translator,Pluie,

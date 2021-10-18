@@ -26,8 +26,8 @@ id,name,text,trans
 0000000000000,プロデューサー,……ああ,...Yeah.
 2007008020140,結華,"でも！　……あの、これだけは信じてほしいんだけど
 プロデューサーはなんにも悪くないし──","But! ...Um, I just want to make sure you understand this but none of it is your fault──"
-2007008020150,結華,もちろんアンティーカでなんかあったわけでもなくて、,And it definitely doesn't have anything to do with L'Antica!
-0000000000000,結華,仕事がどうこうって話でもなくて、ほんと、個人的なアレで,"Nothing's going on with work either, I'm really just going through some personal stuff."
+2007008020150,結華,もちろんアンティーカでなんかあったわけでもなくて、,"And it definitely doesn't have anything to do with L'Antica! Nothing's going on with work either, "
+0000000000000,結華,仕事がどうこうって話でもなくて、ほんと、個人的なアレで,I'm really just going through some personal stuff.
 0000000000000,プロデューサー,ああ,I understand.
 2007008020160,結華,"──ちゃんと！　ちゃんと自分で解決するから！
 むしろ自分で落としどころ見つけなきゃいけないやつだから",And for sure! I'll really make sure to take care of it myself! It's the sort of situation where I have to be the one to figure out a solution.
@@ -36,8 +36,7 @@ id,name,text,trans
 もう少しだけ、時間がほしい……です……",...I'm sorry. Could you give me a little more time... please...
 0000000000000,プロデューサー,……,...
 0000000000000,プロデューサー,"（結華はひとりで抱え込みやすい
-でも──……）","
-(Yuika has a habit of bottling things up. But...)"
+でも──……）",(Yuika has a habit of bottling things up. But...)
 2007008020190,結華,"……こういう時の三峰信用ならないだろうなぁっていうのは
 本人としても重々承知してるんだけどさ",...I know better than anyone that it's hard to trust Mitsumine at times like this.
 2007008020200,結華,今回は、ほんとに……,But this time I'm serious...
@@ -62,7 +61,7 @@ by your first name."
 select,,"何かあったら
 相談してくれ","Don't be afraid
 to ask for help
-if you need it"
+if you need it."
 select,,……待ってるな,...I'll be here.
 0000000000000,プロデューサー,約束だ,I promise.
 2007008020260,結華,ごめんなさい、プロデューサー……,"I'm sorry, Producer..."
@@ -72,8 +71,7 @@ select,,……待ってるな,...I'll be here.
 うん……","!
 Yeah..."
 0000000000000,プロデューサー,"だったら、気兼ねしなくていいんだ
-──ただし、ちゃんと成果は出してくれよ","
-Then it's no imposition on me. Just, be sure to figure this out."
+──ただし、ちゃんと成果は出してくれよ","Then it's no imposition on me. Just, be sure to figure this out."
 2007008020280,結華,っ、うん……！,Uh huh...!
 0000000000000,結華,ちょっとだけ待ってて……！,It'll just be a little bit...!
 0000000000000,プロデューサー,"言いにくいことだったら

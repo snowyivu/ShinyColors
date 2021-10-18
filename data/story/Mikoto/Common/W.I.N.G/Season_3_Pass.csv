@@ -1,0 +1,45 @@
+id,name,text,trans
+0000000000000,プロデューサー,──美琴、やったぞ！,──Mikoto! You did it!
+7025001050010,美琴,"どうしたの？　プロデューサー
+そんなにはしゃいで","What are you so excited about, Producer?"
+0000000000000,プロデューサー,"三次審査も突破だ！
+おめでとう！","You passed the third round!
+Congrats!"
+7025001050020,美琴,"……そっか、ありがとう
+よかった……","I see, thank you...
+I'm so glad we made it..."
+7025001050030,美琴,"プロデューサーも、
+すごく喜んでくれているみたいだし、嬉しい","And I'm happy to see that you seem quite thrilled about it yourself, Producer."
+0000000000000,プロデューサー,それはそうだよ,"Well, what did you expect?"
+0000000000000,プロデューサー,"だって、美琴がいつも
+頑張ってるのを知ってるから",I know how hard you've been working for this.
+0000000000000,プロデューサー,"……それから、これまでずっと頑張ってきたことも
+聞かせてもらったから",And I now also know that that those backbreaking efforts of yours go back years upon years.
+7025001050040,美琴,…………,......
+0000000000000,プロデューサー,"だから、美琴がすごいんだぞって
+認められるのが嬉しくてさ","You're truly amazing, Mikoto, and I'm just happy it hasn't gone unnoticed."
+0000000000000,プロデューサー,"もちろん、これからもっと美琴の実力が
+評価されてほしいし、そうじゃなきゃおかしい","This is only the beginning, though. You still deserve more recognition for what you're capable of."
+0000000000000,プロデューサー,"……そうなるように、
+プロデューサーとして頑張るからな","......
+And it's my job to make sure you get that recognition."
+7025001050050,美琴,"ありがとう
+……ごめんね、これ言ってばっかりで","Thank you.
+......
+I'm sorry, I just keep saying ""thank you""..."
+7025001050060,美琴,"本当に…………
+結果で返せるようにしないとね","But what I really should do be doing... 
+...is repaying you with results."
+0000000000000,プロデューサー,"大丈夫だ美琴
+行けるよ、絶対に","Don't worry Mikoto.
+We're going there. No doubt in my mind."
+0000000000000,プロデューサー,──大きくて眩しい、ステージ,"We're going to that grand, radiant stage."
+7025001050070,美琴,…………！,......!
+7025001050080,美琴,"うん、そうだね
+行こう、絶対に","Yeah, you're right.
+Let's make sure we do."
+7025001050090,美琴,"それじゃあ、まずは
+レッスン室に行かないとね","Well then, first stop: the practice room."
+0000000000000,プロデューサー,はは……流石だな,"Haha, why am I not surprised?"
+info,produce_events/702500105.json,
+Translator,Pluie,

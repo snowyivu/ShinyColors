@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,美琴、おはよう！,"Morning, Mikoto!"
+1025001001510010,美琴,"おはよう、プロデューサー
+朝から元気がいいね","Morning, Producer.
+You seem mighty cheerful at this early hour."
+0000000000000,プロデューサー,"ああ！
+美琴もいつもより元気そうじゃないか？","Of course!
+And do my eyes deceive me, or do you seem more cheerful than usual yourself?"
+1025001001510020,美琴,"そうかな？
+自分じゃよくわからないけど","Do I? 
+I can't really tell the difference myself."
+select,,"美琴のこと
+わかってきた","I've come to
+understand you
+more lately."
+select,,"２８３プロに
+慣れてきたのかも","I think you're
+getting used
+to 283 Pro."
+select,,"はは、
+気のせいかな","Haha, maybe
+I was just
+imagining things."
+0000000000000,プロデューサー,"……って、気がしてるだけ
+かもしれないけど……",Or maybe that's just wishful thinking on my part.
+1025001001510030,美琴,"ううん、そんな事無い
+……いつもありがとう","No, don't say that.
+Thank you, really."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001001510040,美琴,……うん、そうかもしれない,"Yeah, maybe I am..."
+1025001001510050,美琴,"変わった事務所だって
+思っていたのにね",And to think that I used to consider this office such an odd place...
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001001510060,美琴,……私もわからないから,"Well, like I told you, I don't know."
+1025001001510070,美琴,"プロデューサーがわからないなら
+誰もわからないと思うよ","So if you don't know either, then I suppose no one does."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100151.json,
+Translator,Pluie,

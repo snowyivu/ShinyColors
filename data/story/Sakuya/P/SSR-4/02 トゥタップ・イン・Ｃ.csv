@@ -1,0 +1,161 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──え、倉庫のカギ？
+いいけど……","Huh, you want the key to the store room?
+I mean, sure, but..."
+0000000000000,プロデューサー,探し物なら、俺がやっとくぞ？,"If there's something you're looking for, I can help 
+out?"
+2006010020010,咲耶,"フフ、わざわざアナタの手を
+煩わせるようなことじゃないさ","Haha, you don't have to go out of your way like that."
+2006010020020,咲耶,少し、自分の荷物を整理したくてね,I just want to go through my things a bit.
+0000000000000,プロデューサー,"そうか？
+──じゃあ、これ。いってらっしゃい","Yeah? Well, here you go then. See you soon."
+0000000000000,プロデューサー,"──ん……
+ふぁ……いい天気続きだなぁ……","── Mm...
+Ahh... The weather's still so lovely..."
+0000000000000,プロデューサー,"……あ
+咲耶……手伝わなくて平気かな","...Ah.
+I wonder if Sakuya's doing alright without any help..."
+2006010020030,？？？,──んー……んん……,"── Hmm, hmm hmm..."
+0000000000000,プロデューサー,"……？
+鼻歌……誰だ……？","...?
+Someone's humming?"
+2006010020040,？？？,んーんんー……んー…………,"Hmm, hm hm... hmm..."
+0000000000000,プロデューサー,──咲耶……？,── Sakuya?
+2006010020050,咲耶,────っ,Ah ──
+2006010020060,咲耶,"と……
+プロデューサー────","Oh...
+Producer ──"
+select,,──いい声だな,── Your voice sounds lovely.
+select,,──いい天気だよな,── Isn't the weather great?
+select,,珍しいな,Isn't this unusual.
+0000000000000,プロデューサー,──いい声だな,── Your voice sounds lovely.
+2006010020070,咲耶,"……急に背後を脅かすなんて
+趣味がいいとは言えないな","...It's not very becoming to sneak up on people like 
+that."
+0000000000000,プロデューサー,"おっと、すまんすまん！
+ええと……コンコン、失礼するぞ","Ah, I'm so sorry!
+Umm... knock knock, hello..."
+2006010020080,咲耶,"──クス……
+どうぞ","Heh...
+Come on in."
+2006010020090,咲耶,"アナタかな、セイレーンの歌声に惑わされた──
+憐れな船乗りは？","Could it be that you're a poor old sailor, bewitched 
+by the song of a siren?"
+0000000000000,プロデューサー,セイレーン……？,A siren...?
+2006010020100,咲耶,"妖艶な歌声で旅の船を誘惑する
+伝説の人魚のことさ","The mermaids of legend, with singing voices so 
+captivating that they would seduce travelling ships."
+0000000000000,プロデューサー,"へぇ！　それなら……
+うん、そうかもしれない","Ohh! In that case, then... you might be right."
+2006010020110,咲耶,"……っ、フフッ……
+なんだか調子が狂うよ、プロデューサー","...Ah, ahah...
+You seem a little out of whack, Producer."
+2006010020120,咲耶,"つたない鼻歌で失礼したね
+何か用かい？","Sorry about my rubbish old humming. Is there 
+something I can do for you?"
+0000000000000,プロデューサー,"あぁ、手伝いとかいらないかなってさ
+どうだ、作業は順調か？","No, I was just wondering if you could do with some 
+help...
+How's it going?"
+2006010020130,咲耶,"あぁ……
+フフ、おかげさまでほとんど何も進んでいない","Ah.. Haha, well, thanks to the circumstances here, 
+I've barely gotten anywhere."
+2006010020140,咲耶,"窓を開けたら、
+風が心地よくてね……","With the window open, there's a lovely, comforting
+breeze..."
+0000000000000,プロデューサー,"あぁ……
+はは、俺もさっきそう思ったんだ","Ah...
+Haha, I was just thinking the same thing myself."
+0000000000000,プロデューサー,"──それで……
+なんとなく見に来ちゃったのかもしれないな","── And then...
+I found myself coming to see you, I guess."
+2006010020150,咲耶,"へぇ……
+セイレーンはこの薫風だったというわけか","Heh... Do you think that sirens might have just been breezes of the summer air, like this one?"
+2006010020160,咲耶,"それでは、もうしばらく
+この悩ましい風に魅せられておくとしよう────","Well then, why don't we allow this enticing breeze to 
+captivate us for a little longer?"
+0000000000000,プロデューサー,咲耶……？,Sakuya...?
+2006010020170,咲耶,"こちらへ、プロデューサー
+風が微笑んでいるよ","Come over here, Producer.
+The wind is smiling at us."
+0000000000000,プロデューサー,──いい天気だよな,── Isn't the weather great?
+2006010020180,咲耶,ああ……クス────,Ah... Heh ──
+2006010020190,咲耶,"それを言うために
+わざわざ？",You came all the way here just to say that?
+0000000000000,プロデューサー,"あ、いや、そういうわけじゃないんだけど……
+何か手伝えることがないかなって","Ah, no, that's not the reason...
+I was just wondering if there was anything I could 
+help with."
+2006010020200,咲耶,"それはそれは、恐れ多いな
+残念ながらまだないんだ。なにせ────","Well, well, what an honor this is. Unfortunately, I 
+don't really need any yet. You see ──"
+2006010020210,咲耶,"この陽気に誘われてしまってね
+箱を開けたのはいいけれど、作業はそれっきり","I ended up getting distracted by the weather.
+I managed to open some boxes, but that's all."
+0000000000000,プロデューサー,"ははっ、なんだ！
+それなら手伝いがいがあるよ","Haha, well then!
+It seems it's well worth me helping you out."
+2006010020220,咲耶,プロデューサー……,Producer...
+2006010020230,咲耶,"──フフ、アナタらしいな
+でも、無理に整理しようというんじゃないんだ","── Heh, you never change.
+But it's not too important that I get this stuff sorted."
+2006010020240,咲耶,"むしろ、せっかく来てくれたのなら
+ほら────","Instead of that, since you came all the way here, 
+come on ──"
+2006010020250,咲耶,"入れ替えた空気を
+楽しんでいってくれるかい？",Won't you enjoy the fresh air that's blown in?
+2006010020260,咲耶,ん────,Mm ──
+0000000000000,プロデューサー,"──おぉ……いい風が来た
+はははっ、葉っぱも入ってきちゃったぞ","Ohh... what a lovely breeze this is.
+Hahaha, some leaves have blown in too."
+2006010020270,咲耶,フフフ、片付けるものが増えてしまった,"Hehe, even more for us to clean up."
+2006010020280,咲耶,"やれやれ
+でも、そうだな────","Goodness me.
+Then again, I guess that's it ──"
+2006010020290,咲耶,この季節が悪いのさ,That's just the way this season is.
+2006010020300,咲耶,────…………♪,─── ...♪
+0000000000000,プロデューサー,"──
+…………♪","──
+...♪"
+2006010020310,咲耶,…………ふふ,...Hehe.
+0000000000000,プロデューサー,珍しいな,Isn't this unusual.
+2006010020320,咲耶,"おや……
+それならプロデューサーは歌わないのかい？","Oho...
+Well then, Producer, won't you sing with me?"
+0000000000000,プロデューサー,"え？　いや……
+俺は──","Eh? Uhh, no...
+I don't ──"
+2006010020330,咲耶,"見てごらんよ
+緑が萌え、鳥が歌うこの午後を","Just look.
+On this fine afternoon with the greenery starting to 
+bloom, and the birds singing..."
+2006010020340,咲耶,"フフ、この競演に応えずして
+私たちはいつ歌うのだろう──？","Hehe, if we don't rise up to this chance to perform 
+now, when are we going to sing?"
+2006010020350,咲耶,ドゥドゥドゥ……♪,Do do do...♪
+0000000000000,プロデューサー,──咲耶？,...Sakuya?
+2006010020360,咲耶,"ダダダ……♪
+──さぁ、一緒に。ステップを踏むよ","Da da da...♪
+...Come on, together now. Let us dance."
+2006010020370,咲耶,ドゥドゥドゥ……♪,Do do do...♪
+0000000000000,プロデューサー,──ど……どぅーどぅーどぅー……,── D... Do do do...
+2006010020380,咲耶,ダァダァダァ……♪,Da daa da...♪
+0000000000000,プロデューサー,──ダーダーダー……！,── Da daa da...!
+2006010020390,咲耶,ラッタッタ……♪,Ra ta ta...♪
+0000000000000,プロデューサー,ラッタッタ……♪,Ra ta ta...♪
+2006010020400,咲耶,"タラッタッタッタッタ……♪
+──フフ","Tara ta ta ta ta...♪
+...Hehe."
+2006010020410,咲耶,ブラボーだ！,Bravo!
+0000000000000,プロデューサー,さ、咲耶……ははっ……！,S-Sakuya... haha...!
+2006010020420,咲耶,"なかなかキレがあったよ
+プロデューサー","Your movements were pretty sharp, Producer."
+2006010020430,咲耶,"この美しい季節を愛し、祝福することができないなら
+私たちはせっかくの生命をムダ遣いすることになる","If we can't adore and appreciate this beautiful
+season, it'll be a waste of the life that we've been 
+granted."
+2006010020440,咲耶,"さぁ、もう少し楽しもう
+一緒に────","So, let's enjoy this a little longer.
+Together now ──"
+info,produce_events/200601002.json,
+Translator,,

@@ -1,0 +1,42 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since she was
+able to pass the first round of judging, she'd be able
+to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is relentless, isn't it..."
+7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
+悪くない結果だった","However, these results aren't bad for a new idol and
+new producer."
+0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
+俺にもっと力があれば……！","But I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is
+you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+0000000000000,プロデューサー,──美琴、二次審査は突破できなかった,"──Mikoto, we didn't pass the second round."
+7025001040010,美琴,"…………
+……そう","......
+......
+I see."
+0000000000000,プロデューサー,"結果は、納得できるものじゃないけど
+……美琴はよくやったよ","While I can't say I'm satisfied with this outcome...
+I think you did well, Mikoto."
+0000000000000,プロデューサー,"毎日見てきたんだ
+美琴が、努力してきた姿を","I watched you work like a trojan. Day in, day out."
+7025001040020,美琴,"…………
+努力が必ず、報われるとは限らないと思うの","......
+I'm afraid hard work is not always rewarded."
+7025001040030,美琴,"それを、今まで
+もう何度も何度も思い知って……",I should know. I've experienced it time and time again...
+0000000000000,プロデューサー,………うん,"......
+Yeah..."
+7025001040040,美琴,だけど私…………,But I...
+7025001040050,美琴,私には、もうこれ以外はないの,I've got nothing else left to me...
+7025001040060,美琴,……レッスン室、行ってくる,I'm off to the practice room...
+info,produce_events/702500104.json,
+Translator,Pluie,

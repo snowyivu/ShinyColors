@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,美琴、おはよう,"Morning, Mikoto."
+0000000000000,プロデューサー,"今日はこれからまた
+レッスン室か？",Are you headed to the practice room again?
+1025001000210010,美琴,"うん、そうなの
+今日は一日練習","Yeah, I want to get in a full day of practice today."
+0000000000000,プロデューサー,"じゃあこれ、
+好きなの持っていってくれ","Okay, then take one of these. Whichever one you like."
+select,,ドリンクだ,"One of these 
+drinks..."
+select,,おにぎりだ,"One of these
+onigiri..."
+select,,ケーキだ,"One of these
+cake slices..."
+1025001000210020,美琴,いいの？　ありがとう,"I can have one? 
+Thanks."
+1025001000210030,美琴,"じゃあ、遠慮無く
+いただいていくね",I'll take this one then.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001000210040,美琴,"……ありがとう
+プロデューサーの分じゃないの？","......
+Thank you, but didn't you bring those for yourself?"
+1025001000210050,美琴,"でも、せっかくだし
+ひとつだけ、いただくね","Well, since you're offering, I guess I'll take one."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001000210060,美琴,え……ケーキ……？,"Huh...?
+Cake...?"
+1025001000210070,美琴,"プロデューサーが食べたかったんじゃないの？
+私は、遠慮しておくね","Wouldn't you rather eat that yourself?
+I think I'll pass."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100021.json,
+Translator,Pluie,

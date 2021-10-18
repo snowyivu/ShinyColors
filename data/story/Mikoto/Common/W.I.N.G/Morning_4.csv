@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──お、美琴
+冷蔵庫におやつあるってさ","──Hey, Mikoto.
+I was told to remind you that there are sweet snacks in the fridge."
+1025001000410010,美琴,……おやつ……？,Snacks...?
+0000000000000,プロデューサー,"いつもはづきさんが準備してくれてるんだけど
+美琴、手を付けてないみたいだからさ","Yeah, Hazuki-san always brings them to the office.
+She said you never seem to take any."
+1025001000410020,美琴,"そうなの？
+ここって本当、変わってる事務所","Huh, seriously?
+This really is an unusual agency."
+select,,"今日は
+ゼリーだ","It's jelly day 
+today."
+select,,"今日は
+アイスだ","It's ice cream
+day today."
+select,,"今日は
+特大エクレアだ","It's super-sized
+éclair pastry
+day today."
+1025001000410030,美琴,"いいね
+ちょうど今、食べたかったかも","Great, I think that's just what I need right now."
+1025001000410040,美琴,早速いただいてもいいかな？,Would you mind if I take one right away?
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001000410050,美琴,"アイスか……
+それなら、食べられそうかも","Ice cream...?
+I guess that might not be so bad."
+1025001000410060,美琴,ちょっと見てこようかな,I think I'll go have a look.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001000410070,美琴,"うわ……あ、ごめんね
+嫌いではないんだけど","Woah... ah, uhm, I'm sorry.
+It's not that I don't like it, but..."
+1025001000410080,美琴,今はちょっと、いいかな……,"Some other time, maybe..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100041.json,
+Translator,Pluie,

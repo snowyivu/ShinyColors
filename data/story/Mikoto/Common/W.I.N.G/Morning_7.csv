@@ -1,0 +1,32 @@
+id,name,text,trans
+1025001000710010,美琴,…………,......
+0000000000000,プロデューサー,どうした？　美琴,"What's the matter, Mikoto?"
+1025001000710020,美琴,"あ……ううん、２８３プロって
+意外とこじんまりした事務所だなって思って","Ah... I was just thinking...
+The 283 Pro office is surprisingly small."
+0000000000000,プロデューサー,"はは……確かに
+そこまで大きな事務所って訳じゃないが……","Haha... for sure, it's not all that spacious, but..."
+select,,"居心地は
+悪くないだろ","It's quite
+comfortable,
+don't you think?"
+select,,"俺はここが
+好きだよ",I like it here.
+select,,"ここが一番
+だと思ってるよ","I think it's
+the best."
+1025001000710030,美琴,"うーん……そうだね
+まだ慣れてないし、変わってるとも思うけど","Mmh... yeah, I suppose so.
+I haven't gotten used to it yet, so it still feels a bit strange."
+1025001000710040,美琴,でも、悪くはないかな,"But it's not bad, I'll give you that."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001000710050,美琴,……うん、そうだね,Yeah... I thought so.
+1025001000710060,美琴,"それは、見ていればすぐに
+わかるよ",I can tell just by looking at you.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001000710070,美琴,そうなの？,You do?
+1025001000710080,美琴,"だけどプロデューサー、
+他の事務所のこと、あまり知らないんじゃない？","But you don't know much about the offices of other agencies, do you?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100071.json,
+Translator,Pluie,

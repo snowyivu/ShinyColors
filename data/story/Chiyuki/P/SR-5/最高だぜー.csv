@@ -30,7 +30,7 @@ Let's take a break now. It's starting to look kinda good."
 0000000000000,プロデューサー,"ああ、部活か
 応援に行ったりとかもしなかったのか？","Oh, you're talking about club activities. Didn't you ever go cheer them on or anything?"
 2016011010100,千雪,"ええ
-そんなに強いチームでもなかったみたいで",No. It seemed like they weren't a very strong team either.
+そんなに強いチームでもなかったみたいで",No. It seemed like they weren't that strong of a team.
 2016011010110,千雪,"──ふふっ、でも、すっごく素敵な声が聞こえてくるんです
 『最高だぜー！』って","──Fufu, but I heard wonderful voices, like ""That was amazing──!"" from them."
 0000000000000,プロデューサー,ええっ、何が,"Ohh, what was that about?"
@@ -52,7 +52,7 @@ Let's take a break now. It's starting to look kinda good."
 0000000000000,プロデューサー,おっ、やるか,"Oh, are we continuing?"
 2016011010180,千雪,はい,Yes.
 2016011010190,千雪,私は……始めますから……！,I'm... starting...!
-2016011010200,千雪,始めますから、夏,I'm starting my summer!
+2016011010200,千雪,始めますから、夏,My summer will begin.
 0000000000000,プロデューサー,"──おっ、いい構え……！
 振りかぶった……！","──Ohh, that's a good form...! Swing it...!"
 2016011010210,千雪,──この、一球から────！,With this one pitch──
@@ -60,4 +60,4 @@ Let's take a break now. It's starting to look kinda good."
 0000000000000,プロデューサー,────ははっ,──Haha
 0000000000000,プロデューサー,ずっしりきたよ、千雪────！,"That was quite a heavy pitch, Chiyuki──!"
 info,produce_events/201601101.json,
-Translator,,
+Translator,cloverbunz,

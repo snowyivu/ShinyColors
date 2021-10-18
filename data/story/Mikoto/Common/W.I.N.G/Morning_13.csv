@@ -1,0 +1,40 @@
+id,name,text,trans
+0000000000000,プロデューサー,"うわ……この教科書誰のだ？
+忘れ物か……？","Woah... whose textbook is this?
+Did someone forget it here...?"
+1025001001310010,美琴,"……ここでよく
+宿題とかしている子、いるからね",".....
+Well, yeah, some of the girls do their homework here."
+0000000000000,プロデューサー,"そうなんだよ
+それはいいんだけどな……","Yeah, I know.
+I don't mind that per se, but..."
+1025001001310020,美琴,"事務所っていうより、家のリビングみたいね
+ここは","This place feels more like a living room than an office, don't you think?"
+select,,"……うるさくして
+たらすまん","Sorry if it's
+too noisy
+for you."
+select,,"美琴も自由に
+使ってくれ","Feel free to
+use it however
+you like."
+select,,"美琴も家だと
+思っていいぞ","You're welcome to
+consider it
+your home, too."
+1025001001310030,美琴,"ううん、いいの
+気にしないで","Nah, it's fine.
+Don't worry about it."
+1025001001310040,美琴,使いたい子が、使った方がいいから,Whoever wants to use this space should be able to do that.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001001310050,美琴,……うん、ありがとう,"......
+Yeah, thanks."
+1025001001310060,美琴,"でも、今も十分
+使わせてもらっているから","I've already been doing that, though."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001001310070,美琴,……うん、そうだね,"......
+Sure."
+1025001001310080,美琴,まあ……、そのうちにね,"Well... I might, at some point."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100131.json,
+Translator,Pluie,

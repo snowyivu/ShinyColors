@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,おーい、美琴ー！,"Heeey, Mikoto!"
+0000000000000,プロデューサー,美琴、聞こえてるかー？,"Mikoto, you listening?"
+1025001000910010,美琴,"…………！
+ごめん、音楽聴いてて","......!
+Sorry, I had music on."
+1025001000910020,美琴,"今気付いた、ごめんね
+何か用だった？","I only noticed you just now. I'm sorry.
+Did you need something?"
+select,,おはよう！,Good morning!
+select,,"大丈夫かな
+と思って","I was wondering
+if you were okay."
+select,,"呼んでみた
+だけだ","Nah, just felt
+like calling 
+your name."
+0000000000000,プロデューサー,"って、言ったんだけど
+返事が無かったからさ……","...is what I was trying to say to you, but I wasn't getting any response..."
+1025001000910030,美琴,"そうだったの？　ごめんね
+おはよう、プロデューサー","Oh, you were? Sorry about that.
+Good morning, Producer."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000,プロデューサー,"聞こえてないみたいだから
+何か悩んで考え込んでるのかと……","You didn't seem to hear me, so I thought there might be something troubling you."
+1025001000910040,美琴,"ううん、全然
+ただ聞こえていなかっただけ","Oh, no, not at all.
+I just didn't hear you, that's all."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001000910050,美琴,"え……じゃあ
+特に用は無いってこと？","Ehm... 
+So, no reason, basically?"
+0000000000000,プロデューサー,ああ、すまん……,Yeah. I'm sorry...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100091.json,
+Translator,Pluie,

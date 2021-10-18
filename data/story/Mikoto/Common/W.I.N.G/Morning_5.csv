@@ -1,0 +1,26 @@
+id,name,text,trans
+0000000000000,プロデューサー,"美琴は、地元から出てきて
+もう長いよな？","Say, Mikoto, it's been quite a long time since you moved out on your own, right?"
+1025001000510010,美琴,"……うん、そうだね
+もう10年","......
+Yeah, it's been 10 years already."
+0000000000000,プロデューサー,"じゃあ、家事とかも
+得意なのか？","You must be pretty good at housework and stuff, then."
+1025001000510020,美琴,え……？,Huh...?
+select,,洗濯とか,Like... laundry.
+select,,掃除とか,Like... cleaning.
+select,,料理とか,Like... cooking.
+1025001000510030,美琴,うん、洗濯はするよ,"Oh, yeah, I do laundry."
+1025001000510040,美琴,……洗濯機が、大体してくれるから,"......
+My washing machine does most of the work for me, so... yeah."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001000510050,美琴,……うん,......Sure.
+1025001000510060,美琴,"ほとんど物が無いから、
+掃除は楽なの","I hardly have any stuff at home, so cleaning's easy."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001000510070,美琴,うーん……料理か……,"Mmh... cooking, huh...?"
+1025001000510080,美琴,"でも、買ったほうが結局
+美味しいし、安くないかな？","Don't you think ready-made meals are cheaper and more delicious, though?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100051.json,
+Translator,Pluie,

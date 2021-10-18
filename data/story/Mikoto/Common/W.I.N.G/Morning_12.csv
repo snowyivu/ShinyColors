@@ -1,0 +1,34 @@
+id,name,text,trans
+1025001001210010,美琴,…………──,......──
+0000000000000,プロデューサー,それ、なんの曲だ？,What's that music?
+1025001001210020,美琴,"え……
+プロデューサー、居たの？","Huh...
+Producer, were you here the whole time?"
+0000000000000,プロデューサー,"すまん、盗み聴きするつもりは
+なかったんだが……","Sorry, I didn't mean to eavesdrop."
+select,,綺麗な曲だな,"It's a very
+beautiful piece."
+select,,寂しい曲だな,"It's a very
+melancholic piece."
+select,,"聴いたこと
+ない曲だな","I've never
+heard this piece
+before."
+1025001001210030,美琴,"そう？
+ありがとう","Really?
+Thank you."
+1025001001210040,美琴,"プロデューサーにそう言ってもらえて
+よかった","I appreciate you saying that, Producer."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001001210050,美琴,"…………！
+うん、そうだね","......!
+Yes, that's exactly what it is."
+1025001001210060,美琴,すごい、どうしてわかったの？,How did you know that? I'm impressed.
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001001210070,美琴,……うん、そうなの,"......
+Yeah, you haven't."
+1025001001210080,美琴,"…………
+そういう曲だから",That's kind of the point...
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100121.json,
+Translator,Pluie,

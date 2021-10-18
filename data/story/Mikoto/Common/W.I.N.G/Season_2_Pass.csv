@@ -1,0 +1,46 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──美琴、二次審査も無事突破だ
+おめでとう","──Mikoto, you've passed the second round.
+Congrats!"
+7025001030010,美琴,"……そう、よかった
+ありがとう","Well, that's a relief...
+Thank you."
+7025001030020,美琴,"これも毎日レッスン室に
+差し入れしてくれるプロデューサーのお陰かな？",Perhaps the drinks and snacks you kept bringing to the training room every day gave me the push I needed?
+0000000000000,プロデューサー,はは、力になれたなら良かった,"Haha, I'd like to believe so!"
+0000000000000,プロデューサー,"でもそれを言うなら、
+毎日練習を怠らない美琴の、努力の結果だよ","Jokes aside, your diligence and training disicipline are clearly paying off."
+0000000000000,プロデューサー,"……とは言え、
+最初に言ったとおり、無理は禁物だからな","But like I told you before, don't overdo it now."
+7025001030030,美琴,"わかってる
+毎日会っているんだから、わかるでしょ？","I know, I know.
+Besides, you're checking in on me every day, so..."
+7025001030040,美琴,無理なんかしてないって,You should know that I'm not overdoing it.
+0000000000000,プロデューサー,…………うん,"......
+True enough."
+0000000000000,プロデューサー,"美琴、何かあったら、
+いつでも話してくれよ","Mikoto, please tell me if you need anything. 
+You can talk to me anytime, okay?"
+7025001030050,美琴,"……？　どうしたの、急に
+そんなに改まって",".....?
+What's with you, all of a sudden?
+I thought we got past the formalities."
+0000000000000,プロデューサー,いや、そう思ったからさ,"No, I was just thinking..."
+0000000000000,プロデューサー,"美琴は、前に『当たり前のことなんてない』
+って言ってたけど","You told me before, right?
+About how you don't want to take anything for granted."
+0000000000000,プロデューサー,"俺が、美琴を応援するのは
+当たり前だと思ってくれて、いいからな","But you know, the fact that I'm here to support you... 
+I'd like you to take that for granted, at least."
+7025001030060,美琴,…………！,......!
+0000000000000,プロデューサー,さあ、今日もこの後練習するんだろ？,"Anyways, you're diving right back into dance practice after this, no?"
+0000000000000,プロデューサー,"美琴の好きなドリンク買っておいたんだ
+持っていってくれ","Here, take this. I bought you that drink you liked."
+7025001030070,美琴,……ありがとう、プロデューサー,"......
+Thank you, Producer."
+7025001030080,美琴,"こんなふうにしてもらうのが
+当たり前、なんて",You want me to take this kind of stuff for granted...
+7025001030090,美琴,"……そう思うのは、今はまだ
+少し怖いかもしれない",But I'm not sure I'm ready for that just yet.
+info,produce_events/702500103.json,
+Translator,Pluie,

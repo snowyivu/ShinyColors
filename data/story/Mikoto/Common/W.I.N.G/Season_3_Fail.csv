@@ -1,0 +1,42 @@
+id,name,text,trans
+7902001060010,社長,"やはりここまで来ると、
+乗り越えるべき壁も高かったな……",The wall to climb over after coming this far was tall...
+7901001060010,はづき,"結果は残念でしたけど……
+おふたりは立派にやってましたよ！","The results are unfortunate, but...
+The two of you did a splendid job!"
+7901001060020,はづき,"ここまで来れただけでも、
+胸を張って誇れることだと私は思います","You were only able to come this far, but I think you
+can walk with your heads held high."
+7902001060020,社長,"ああ、良い活躍だった
+それはたしかだ","Yes, it was certainly a great effort."
+0000000000000,プロデューサー,"……俺もそう思います
+彼女はよくやってくれました","...I think so, too.
+She did a great job."
+7901001060030,はづき,"その言葉を、彼女に直接
+言ってあげましょう？",How about you tell that to her in person?
+0000000000000,プロデューサー,……はい,...I will.
+0000000000000,プロデューサー,"──美琴、三次審査
+突破できなかった","──Mikoto, we didn't make it through the third round."
+7025001060010,美琴,……プロデューサーは、どう思う？,"......
+How do you feel about it, Producer?"
+0000000000000,プロデューサー,え……？,Huh...?
+7025001060020,美琴,"この結果、納得してる？
+してない？","Are you satisfied with this result, or not?"
+0000000000000,プロデューサー,……してないよ,"......
+I'm not."
+0000000000000,プロデューサー,"美琴は十分、三次審査を突破できる実力を持ってるし、
+それ以上に努力してる","You're easily good enough to pass the third round, and you've been putting in more than enough effort."
+0000000000000,プロデューサー,納得なんて、できないよ,I couldn't possibly agree with this result.
+7025001060030,美琴,"……そう、ありがとう
+プロデューサーなら、そう言ってくれると思って","......
+I see, thank you.
+I was expecting you'd say that."
+7025001060040,美琴,"……わかっていたのに、聞いちゃった
+だけど、聞いてよかった","......
+I asked knowing what your answer would be. 
+But I'm still glad I did."
+7025001060050,美琴,"……それじゃあ
+レッスン室、行ってくるね","......
+Well then, I'm headed to the practice room."
+info,produce_events/702500106.json,
+Translator,Pluie,

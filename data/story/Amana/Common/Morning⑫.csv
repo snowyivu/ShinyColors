@@ -1,0 +1,35 @@
+id,name,text,trans
+1014001001210010,甘奈,"プロデューサーさんっ
+机の周りがちょーっと散らかってる気がするんだけど","Producer-san.
+I think your desk is quite a mess."
+0000000000000,プロデューサー,あぁ、最近忙しくてついな……,"Ahh, I was busy lately, so…"
+1014001001210020,甘奈,よーし、じゃあ甘奈が片付けてあげるね☆,"Alright, let me tidy it up☆"
+0000000000000,プロデューサー,（どうしようか……）,(What should I do…)
+select,,"しっかり気づけて、
+甘奈は偉いな","That's really
+nice of you
+to notice it."
+select,,ありがとう、助かるよ,"Thanks,
+appreciate it."
+select,,"あとで
+まとめて片付けるよ","I will clean
+it all later."
+1014001001210030,甘奈,"えへへー
+甘奈、整理整頓は得意だしね☆","Ehehe!
+Organizing things is my speciality☆"
+1014001001210040,甘奈,"それに、プロデューサーさんのことは
+甘奈がしっかり見てないとって思ってるし☆","And also, I think I need to look after
+Producer-san more closely☆"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1014001001210050,甘奈,"いえいえ、
+いつもお世話になってますからね～","No, no.
+I've always been indebted to you～"
+1014001001210060,甘奈,でも、普段からしっかり片づけようね,"But, let's clean it up on a regular basis, okay?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1014001001210070,甘奈,後回しにするのは良くないよー！,You should not procrastinate!
+1014001001210080,甘奈,"今やっちゃおう！
+ね？　プロデューサーさん？","Let's do it now!
+Come on? Producer-san?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101400100121.json,
+Translator,,

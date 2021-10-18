@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,"ダンスのトレーナーさんが、美琴には
+教えることがないって困ってたよ",Your dance coach said she's having trouble finding anything to teach you.
+1025001001410010,美琴,……そうなの？,She did...?
+1025001001410020,美琴,"そういえば、前にダンストレーナーとか
+振付師って道もあるって","You know, that reminds me. 
+Someone once told me that I could become a dance coach. Or a choreographer."
+1025001001410030,美琴,……誰かに言われた気がする,At least I think that's what they said...
+select,,"でも、アイドル
+を選んだんだな","And yet you
+chose to be
+an idol."
+select,,"……そう
+だったのか","They did, 
+huh..."
+select,,"そうならなくて
+よかったよ","Well, I'm glad
+you didn't heed
+their advice."
+1025001001410040,美琴,"……うん
+だって、ステージに立ちたいから","Yeah.
+Because I want to be on stage."
+1025001001410050,美琴,"だけど振り付けは
+やれる機会があればいいな",But I hope I get a chance to do some choreography as well.
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001001410060,美琴,"もちろん、私は
+そんな気、全然無かったけど","Yeah, but obviously I didn't have any intention of becoming either."
+1025001001410070,美琴,……今も、これからもね,"I still don't, and I don't think I ever will."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001001410080,美琴,……うん、だけど,"......
+Yeah, but..."
+1025001001410090,美琴,"きっとそう言ってくれた人も
+私の為に、言ってくれたんだと思うの","I'm sure the person who said that to me had my best interests in mind, too."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100141.json,
+Translator,Pluie,

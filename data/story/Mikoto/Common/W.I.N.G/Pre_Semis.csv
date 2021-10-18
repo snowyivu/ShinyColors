@@ -1,0 +1,27 @@
+id,name,text,trans
+6025001010010,美琴,──もう、行かないと,──I have to go now.
+0000000000000,プロデューサー,"ああ
+……そろそろ出番だ","Yep...
+You're up soon."
+0000000000000,プロデューサー,"美琴がやってきたこと、
+全部出しきってきてくれ",Go show them what you've got. All of it.
+6025001010020,美琴,"……うん
+その為に、練習してきたから","I will...
+That's what I've been practicing for."
+0000000000000,プロデューサー,"美琴の実力も、魅力も
+全部をちゃんと評価してもらえるように……",It's time to get the world to recognize your ability and your charm.
+0000000000000,プロデューサー,"まあ、ここまで来たら俺は
+何もしてやれないんだけどな","Well, easy for me to say, of course.
+There's nothing I can contribute at this point."
+6025001010030,美琴,"……ずっと一緒にやってきたのに
+今更そんなこと言わないでよ","Oh come on, don't give me that.
+We made the journey here together."
+0000000000000,プロデューサー,え……,Huh...
+6025001010040,美琴,"でも……そうだね
+一緒にステージに立つわけにはいかないから","But, well... 
+You can't join me on stage, that much is true."
+6025001010050,美琴,"だから、応援してて
+──美琴って、名前を呼んで","So please cheer for me.
+Call my name. ""Mikoto!"", like always."
+info,produce_events/602500101.json,
+Translator,Pluie,

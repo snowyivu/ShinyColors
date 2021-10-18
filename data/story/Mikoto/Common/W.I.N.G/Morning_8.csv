@@ -1,0 +1,38 @@
+id,name,text,trans
+0000000000000,プロデューサー,美琴、おはよう！,"Morning, Mikoto!"
+1025001000810010,美琴,"……！　びっくりした……
+プロデューサーか……","......! Woah.
+Jeez, Producer..."
+0000000000000,プロデューサー,"はは、驚かせてすまん
+──あれ、テレビ、消しちゃったのか？","Haha, didn't mean to startle you.
+──Hm, did you just turn off the TV?"
+0000000000000,プロデューサー,"見てても良かったのに
+この時間なら多分……","Don't mind me, feel free to keep watching.
+Actually, I think we're just in time to catch..."
+select,,"天気予報
+やってるよな","The weather
+forecast."
+select,,"占いコーナー
+やってるよな","Our daily
+horoscopes."
+select,,"芸能ニュース
+やってるよな","The showbiz
+news."
+0000000000000,プロデューサー,"今週のスケジュール的に
+晴れてくれると助かるんだが……","With everything we've got planned for this week, it'd better not rain..."
+1025001000810020,美琴,"それじゃあ、
+ちょっと見てみようか","Okay, let's take a look and find out."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001000810030,美琴,"プロデューサー、
+そういうの気にするの？","You're into that sort of thing, Producer?"
+1025001000810040,美琴,"……ちょっと意外だね
+なんだか可愛いけど","That's a little surprising...
+But it's kinda cute."
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1025001000810050,美琴,"うん……でも
+ちょうどさっき終わったところ","Well, you actually just missed that."
+1025001000810060,美琴,"そんなに気になるものは
+無かったけど","Nothing too interesting, though."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100081.json,
+Translator,Pluie,

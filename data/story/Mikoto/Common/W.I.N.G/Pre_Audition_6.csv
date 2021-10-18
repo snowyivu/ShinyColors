@@ -1,0 +1,24 @@
+id,name,text,trans
+4025001000230010,美琴,──…………,──......
+0000000000000,プロデューサー,"（……さすがに
+ここまで来れば緊張するか──よし）","(Well......
+Anyone would be nervous here...
+──Okay, let's try this.)"
+select,,美琴ー！,Mikoto!!
+select,,大丈夫か？,You okay?
+select,,緊張してるのか？,Are you nervous?
+4025001000230020,美琴,"……！
+もう、驚かせないでよ……でも、ありがとう","......!
+Jeez, you don't have to scare me like that...
+But thank you."
+0000000000000,プロデューサー,（よし、元気が出たみたいだ！）,"(Alright, looks like she's feeling better!)"
+4025001000230030,美琴,"大丈夫に見える？
+……でも、大丈夫にしないとね","Do I look like I'm okay?
+But, yeah... I guess I'll have to be."
+0000000000000,プロデューサー,（少しは緊張が解けたかな）,(I think that eased her nerves a little.)
+4025001000230040,美琴,"……うん
+プロデューサーは、しないんだ","Yeah...
+Are you saying you're not?"
+0000000000000,プロデューサー,（うっ……し、しまった……）,(Ugh... O-Oops...)
+info,produce_communication_cheers/402500100023.json,
+Translator,Pluie,

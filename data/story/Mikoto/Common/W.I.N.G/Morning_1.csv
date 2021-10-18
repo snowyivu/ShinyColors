@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000,プロデューサー,"あれ、美琴
+来てたのか","Oh, Mikoto?
+Here already?"
+0000000000000,プロデューサー,おはよう！,Good morning!
+1025001000110010,美琴,……うん、おはよう,......Yeah. Morning.
+0000000000000,プロデューサー,なんだ、朝なのに元気が無いな,Hm? What's with the lack of energy?
+select,,"朝ご飯
+食べたか？","Have you 
+had breakfast?"
+select,,"ちゃんと
+寝れたか？","Did you get
+enough sleep?"
+select,,"規則正しい
+生活しないとな","You gotta
+fix your routine!"
+0000000000000,プロデューサー,"もしまだなら、
+このパン、食べるか？","If not, do you want some of this bread?"
+1025001000110020,美琴,"……いいの？
+じゃあ、いただこうかな",".....
+You sure you don't mind?
+I guess I'll have some, then."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1025001000110030,美琴,"え？
+うん、これから帰って寝るよ","Huh?
+Yeah, I'm about to head home and get some."
+0000000000000,プロデューサー,えっ、これから……！？,You're what...!?
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000,プロデューサー,体調管理もしっかりな！,"Take care of yourself, okay?"
+1025001000110040,美琴,"……うん
+でも、大丈夫だから","......Yeah, yeah.
+I'm doing just fine."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102500100011.json,
+Translator,,
