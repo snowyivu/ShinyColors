@@ -1,9 +1,9 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,51
-images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
-images/ui/my_page/parts.json_image,my_page.parts.png,33
-images/ui/present_box/parts.json_image,present_box_parts.png,8
+images/ui/my_page/parts.json_image,my_page.parts.png,34
 images/ui/mission/parts.json_image,mission_parts.png,20
+images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
+images/ui/present_box/parts.json_image,present_box_parts.png,8
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,7
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,8
 images/content/my_page/banner_border/gasha.png,gasha.png,2
@@ -569,6 +569,10 @@ images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,7
 images/ui/raid_concert/parts_audience.json_image,raid_concert_audience.png,2
 images/ui/raid_concert/parts_effect.json_image,raid_concert_audience_effect.png,2
 images/content/idols/name/b38595f958abcc285d0eab78ea2b3b09_1030170020.png,cards/asahi_p_sr_2.png,2
+images/ui/ex_skill/parts.json_image,ex_skill_parts.png,5
+images/ui/fes_tower_common/parts.json_image,fes_tower_common_parts.png,1
+images/ui/fes_tower_deck/parts_endurance.json_image,fes_tower_deck_parts_endurance.png,1
+images/ui/fes_tower_deck/parts.json_image,fes_tower_deck_parts.png,1
 images/content/support_idols/name/121953fcf220a9f4bddff02179a37d78_2030100010.png,cards/chiyoko_s_sr_1.png,7
 images/content/support_idols/name/f1d94a586e49599c354c95a9e5bd91e6_2030020030.png,cards/hiori_s_sr_3.png,7
 images/content/idols/name/a77b7ff3de72c24d33f09ad1543e8217_1030040010.png,cards/kogane_p_sr_1.png,8
@@ -727,4 +731,6 @@ images/content/support_idols/name/4dcd34f3a25a3394d956019f851509f4_2030210010.pn
 images/content/support_idols/name/8bb4ca7c14b7463a683e6cef9c4347a9_2040030010.png,cards/meguru_s_ssr_1.png,8
 images/content/idols/name/f6a02b89b7cd1adea23cf125a59d91e2_1040150060.png,cards/tenka_p_ssr_6.png,1
 images/content/idols/name/d7a32f9ebe6c8cae8f6caa054a91b721_1040250010.png,cards/mikoto_p_ssr_1.png,1
-images/ui/ex_skill/parts.json_image,ex_skill_parts.png,5
+images/content/support_idols/name/8f8b1fe0d34f4319514e1c7744e2881e_2040010020.png,cards/mano_s_ssr_2.png,8
+images/content/idols/name/259e2cb01d686ac389395c6ebc84e4cf_1020250010.png,cards/mikoto_p_r_1.png,1
+images/content/idols/name/8db38734e2946432fc8859f803a6fe2e_1040060040.png,cards/sakuya_p_ssr_4.png,1
