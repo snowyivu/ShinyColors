@@ -1,6 +1,7 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,51
-images/ui/my_page/parts.json_image,my_page.parts.png,34
+images/ui/common/parts.json_image,common_parts.png,34
+images/ui/my_page/parts.json_image,my_page.parts.png,33
 images/ui/mission/parts.json_image,mission_parts.png,20
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/present_box/parts.json_image,present_box_parts.png,8
@@ -101,12 +102,12 @@ images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,8
 images/content/gasha/bg/fa33fc02dea4d8c612d9ca335b51cddf_5041.jpg,bg_5041.jpg,5
 images/content/gasha/title/fa33fc02dea4d8c612d9ca335b51cddf_5041.png,title_5041.png,5
 images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,9
-images/ui/home_deck/parts.json_image,home_deck_parts.png,14
+images/ui/home_deck/parts.json_image,home_deck_parts.png,15
 images/ui/item/parts_content.json_image,item_parts_content.png,9
 images/ui/item/parts.json_image,item_parts.png,10
 images/content/produce_area/button_m/002.png,button_m_002.png,2
 images/content/produce_area/button_l/002.png,button_l_002.png,2
-images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,3
+images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,5
 images/ui/common/parts_item_content.json_image,item_content.png,2
 images/ui/skin_exchange/parts.json_image,skin_exchange.png,10
 images/ui/produce_action/parts_fan_meeting.json_image,parts_fan_meeting.png,3
@@ -258,7 +259,6 @@ images/ui/init/parts.json_image,init_parts.png,10
 images/ui/init/parts_pop.json_image,init_parts_pop.png,11
 images/content/limit_break_skills/icon.json_image,limit_break.png,9
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,12
-images/ui/common/parts.json_image,common_parts.png,33
 images/ui/common/parts_icons.json_image,common_parts_icons.png,24
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/true_end_teaching/ready/parts.json_image,true_end_ready.png,2
@@ -280,7 +280,7 @@ images/ui/raid_result/parts.json_image,raid_result_parts.png,2
 images/content/ex_skills/icon.json_image,ex_skills.png,4
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,3
 images/ui/shop/parts_shop_content.json_image,shop_parts_content.png,9
-images/ui/gasha/parts_scout_ticket.json_image,gasha_parts_scout_ticket.png,5
+images/ui/gasha/parts_scout_ticket.json_image,gasha_parts_scout_ticket.png,6
 images/content/idols/name/1209a8ef1f8e6a454b7e8df52952bc7f_1040010010.png,cards/mano_p_ssr_1.png,7
 images/content/support_idols/name/08ce6dca93ce15a3062c76cff7b77551_2020210010.png,cards/madoka_s_r_1.png,2
 images/content/idols/name/d7038fba9f7b2153cb56ba5e24410c81_1040220010.png,cards/koito_p_ssr_1.png,1
