@@ -1,0 +1,158 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（まずい、完全に道に迷った……！
+このままだと待ち合わせに遅れる……！）","(This is bad, I'm completely lost...!
+At this rate, I'll be late...!)"
+0000000000000,プロデューサー,（とりあえず結華に連絡しないと──）,(I need to let Yuika know for now──)
+2007004010010,結華,あれ、プロデューサーからだ,"Oh, that must be the producer."
+2007004010020,結華,はいもしもしー,Yeees? What is it?
+0000000000000,プロデューサー,すまん！　結華か？,Sorry! Yuika?
+2007004010030,結華,"はいはい三峰ですー
+どしたのプロデューサー、なんか慌ててる感じ？","Yes yes, this is Mitsumine~
+What's wrong, Producer? Sounds like you're in a rush."
+0000000000000,プロデューサー,"いや申し訳ない、今ちょっと道に迷ってて……！
+多分、時間通りに着けないと思う……！","Sorry, it's just that I'm a bit lost right now!
+I'm not sure if I can meet up with you on time...!"
+0000000000000,プロデューサー,結華は今どこだ……？,"Where are you now, Yuika?"
+2007004010040,結華,んーと、こっちは今待ち合わせ場所に着いたとこかな,"Hmm, I just arrived at the meeting spot."
+2007004010050,結華,"ごめんね、わかりづらいとこ指定しちゃって
+駅とかにしといたら良かった","Sorry 'bout that. I picked a spot that's hard to reach.
+We should have met at the station or something."
+0000000000000,プロデューサー,"結華は悪くない！　地図さえあればなんとかなると
+思った俺が甘かったんだ……！","It's not your fault! I just thought that I could
+get by with a map..."
+2007004010060,結華,"あー……この辺、道も入り組んでるし、
+何より土日は人が多いもんねぇ……","Ahh, the roads are convoluted here, and it
+gets congested with people on weekends..."
+2007004010070,結華,"……そだ、プロデューサー、
+今いるとこから何が見える？","...Oh that's right, Producer.
+Do you see anything from where you're at?"
+0000000000000,プロデューサー,"え。……そうだな……大きい交差点と、
+化粧品の看板があるビルが見える……","Um... Ah, okay. I see an intersection and
+a building with a cosmetics sign."
+2007004010080,結華,"なるほど？
+そのビルってプロデューサーから見てどっち側？","I see... Can you tell where it is from
+where you are, Producer?"
+0000000000000,プロデューサー,えっと、交差点を渡って右手側、かな,"Umm, across the intersection on the
+right-side, I think?"
+2007004010090,結華,おっけおっけ、じゃあその交差点渡ってから左ね,"Okey-dokey, take a left after crossing that
+intersection."
+2007004010100,結華,"しばらく行くとクレープ屋さんがあると思うんだ、
+多分路地３本目ぐらい。そしたらその通りに入って？","There should be a crêpe shop three alleys down.
+Then get into that street."
+0000000000000,プロデューサー,"すごいな結華、わかるのか……！？
+というか、案内してくれるのか……！？","I'm impressed, Yuika!
+You really know your way in and out, huh?
+Ah, but can you stick around to guide me?"
+2007004010110,結華,"ご名答！
+安心してナビされちゃっていいよー？","Leave it to me!
+I'll navigate you with no problem!"
+0000000000000,プロデューサー,待たせている上に、申し訳ない……！,"I'm so sorry to pile all of this on you on top of making
+you wait...!"
+2007004010120,結華,"やだなぁ畏まんないでって！　こういう時こそお互い様！
+……それよりほら、足、止まってない？","Don't be so timid! We got each other's back!
+...Anyways, have you even left your spot?"
+0000000000000,プロデューサー,"ああすまない！
+渡って左だったよな？","Oh, I'm sorry! You said to take a left after
+crossing the intersection, right?"
+2007004010130,結華,そうそう、それで次は──,That's right. Next up is──
+2007004010140,結華,"よーしもうちょっと！
+後はその道まっすぐ来るだけだよ～","Niiiice! Just a bit more!
+All that's left is to head straight down that road~"
+0000000000000,プロデューサー,ありがとう結華……！　助かったよ……！,"Thank you, Yuikaaa...! You saved me!"
+2007004010150,結華,……,...
+2007004010160,結華,ね、プロデューサー,Hey Producer?
+2007004010170,結華,ここで三峰が動いたら、面白いことになりそうだね？,"Wouldn't it be funny if Mitsumine moved away
+from here?"
+0000000000000,プロデューサー,──え,──Eh?
+2007004010180,結華,"逃げる三峰、追うプロデューサー……
+壮大な追いかけっこが、今、始まる……！","Mitsumine running away... And the producer hot on
+her tail... An epic game of tag begins now!"
+0000000000000,プロデューサー,えええ！？,Ehhhhh!?
+select,,"頼む！
+合流させてくれ……！","Please no!
+Let me meet
+up with you!"
+select,,"もう少しだけ
+待ってもらえないか","I'm almost there.
+Can it wait?"
+select,,"……わかった、
+受けて立とう","...All right.
+I'll play along."
+2007004010190,結華,おや～？　Ｐたん、必死だねぇ,"Oh boooy~
+P-tan, you sound desperate."
+0000000000000,プロデューサー,"そりゃあそうだよ、今結華を見失ったら、
+すぐに探し出せる自信ないし……！","Well duh! I don't think I'll be able to find you
+if you suddenly disappear on me...!"
+0000000000000,プロデューサー,"ただでさえ俺が遅れてるせいで結華に迷惑かけてるんだ、
+これ以上時間を使わせるわけにはいかない","I've already caused you enough trouble by being late.
+I don't want to eat up any more of your time
+chasing you around."
+0000000000000,プロデューサー,だからお願いだ、そこで待っていてくれないか……！,So please! Just wait there for me...!
+2007004010200,結華,"あははっ、もう！
+プロデューサーはほんっと真面目だなぁ","Ahaha! Aw shucks!
+You sure like to take this seriously, Producer."
+2007004010210,結華,"こっちからふざけてるんだから、
+三峰への迷惑なんて考えなくたっていいのに","But I'm just messing with you. Mitsumine
+doesn't mind you taking your sweet time."
+0000000000000,プロデューサー,"そういうわけにはいかないよ
+……この状況で何言っても説得力ないかもしれないけど……","There's no way I'm letting you excuse me.
+...But I'm in no position to say anything convincing..."
+2007004010220,結華,"確かに！
+絶賛迷子のＰたんが言うと、かっこよさは半減かな？","Indeed! It's as P-tan says! Perhaps being
+lost debuffed your Charisma Stat by 50%?"
+2007004010230,結華,"でもほら、もう少しでそのデバフもなくなるから安心して？
+あ、携帯ショップの通りを右だよ～","But no biggie. It'll wear off after a few turns, okay?
+Ah, walk down the street to the right of the
+cell phone shop."
+0000000000000,プロデューサー,あ、ありがとう,"Oh, thank you."
+2007004010240,結華,うん,Yup.
+2007004010250,結華,"言いつけ守って大人しく待ってるから、
+早く来てよねー、プロデューサー","I'll comply and wait quietly, so
+come quickly, Producer!"
+2007004010260,結華,"少しー？
+別にいいけど、ほんとに少しだよー？","Almost? I don't mind waiting if it's that, but
+are you suuure you're almost here?"
+2007004010270,結華,じゅーう、きゅーう、はーち、なーな──,"Teeen, niiiine, eiiight, seeveeen..."
+0000000000000,プロデューサー,──見つけた！,──I found you!
+2007004010280,結華,あれっ、プロデューサー！？,Whoa! Producer!?
+0000000000000,プロデューサー,"間に合って良かった……
+いや、正確には間に合ってないんだけど……","I made it just in time... Wait...
+I can't really say that I'm really on time, huh?"
+0000000000000,プロデューサー,待たせて悪かった、結華……！,"I'm really sorry for the wait, Yuika!"
+2007004010290,結華,"あーあー、そんな息切らしてまで
+走ってこなくても良かったのに……","My my, aren't you out of breath.
+You didn't need to break a sweat to get here..."
+2007004010300,結華,大丈夫？,Are you okay?
+0000000000000,プロデューサー,"あ、ああ……大丈夫だ
+とにかく、結華が動き出す前に合流できて良かった……","Ahh... haa... Yes, I'm fine. Anyway I'm
+relieved to have met up with you before
+you even got a chance to run away..."
+2007004010310,結華,"ふふっ、ほんとにもう
+まさかここまで一生懸命になってくれるとは思わなかったよ","Heehee, you're a real piece of work.
+To think that you'd go all-out just for me..."
+2007004010320,結華,"せっかくのおふざけだったのになぁ
+ざーんねんっ","...I wanted to play our little game longer too.
+Bummer."
+2007004010330,結華,……じゃ、少し休んだら出発しよっか,"Okay, let's take it easy for a bit before we head off."
+2007004010340,結華,"あれっ、乗ってくれるんだ？　珍しいね
+ちょっと待っててくれとか言われるかと思ってた","Huh? You're on board with it? That's weird.
+Thought you were gonna ask me to wait or something."
+0000000000000,プロデューサー,"いや、待たせて迷惑をかけているのはこっちだし……
+結華がそうしたいなら、付き合いたいなと……","It's enough trouble as it is making you wait.
+So if you want to do this, then I'll keep you entertained."
+2007004010350,結華,"ふふっ……！
+Ｐたん、律儀……！",Heehee! P-tan's an eager one...!
+2007004010360,結華,別にちょっとの遅れぐらいそんなに気にしないのにー,I don't mind us falling a bit behind scehedule...
+2007004010370,結華,でも、三峰的にはその心意気が嬉しいよ……！,...because Mitsumine's glad to see you be so willing!
+2007004010380,結華,──ということなので、追いかけっこスタート！,"So without further do, our game of tag begins!"
+2007004010390,結華,"せっかくのプロデューサーの心遣い、
+ムダにしたくないから……！","I'll be taking full advantage of that kind
+consideration you've given me, Producer."
+0000000000000,プロデューサー,あ、ああ。お手柔らかに頼む……！,Oh brother... Just have some mercy...!
+2007004010400,結華,大丈夫だよぉ、どっちに行ったかは教えたげるから,It's totally fine! I'll even give you a hint.
+2007004010410,結華,"そうだねぇ……最初の待ち合わせ場所から見てー、
+一番目立つビルの方に歩こっかな～","Let's see what's around here...
+Maybe I should walk over to the building over there~"
+2007004010420,結華,……ちゃーんと探し出してよね？,"...Make sure you come find me, kaaay?"
+info,produce_events/200700401.json,
+Translator,Lewdacriz,

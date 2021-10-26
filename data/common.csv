@@ -1297,3 +1297,682 @@ Visualの上限値＋100,Visual Cap +100
 ホームボイス1,Home Voice 1
 ホームボイス2,Home Voice 2
 ホームボイス3,Home Voice 3
+タイア可能回数,Retire Credits
+ライブクリア条件,Clear Conditions
+２位以上の順位でライブが終了,Finish 2nd or above
+ステージ制限,Stage Restrictions
+習得しているアビリティはありません,No abilities learned
+体力,Stamina
+ボーナス,Bonus
+イルミネーションスターズ,illumination STARS
+アンティーカ,L'Antica
+放課後クライマックスガールズ,Houkago Climax Girls
+アルストロメリア,ALSTROEMERIA
+ストレイライト,Straylight
+ノクチル,noctchill
+シーズ,SHHis
+達成Vocalライブ回数,Vocal Lives Cleared
+達成Danceライブ回数,Dance Lives Cleared
+達成Visualライブ回数,Visual Lives Cleared
+1位回数,Times Ranked #1
+2位回数,Times Ranked #2
+総スター獲得数,Total Stars Earned
+Extreme勝利回数,Extreme Victories
+最高ライブスコア,Highest Live Score
+イベントパネル選択回数,Event Panels
+プレゼントパネル選択回数,Present Panels
+回復パネル選択回数,Heal Panels
+挑戦可能なExtremeライブがありません,No Extreme Lives available to enter
+北海道地方,Hokkaido
+東北地方,Tohoku
+関東地方,Kanto
+中部地方,Chubu
+中国地方,Chugoku
+近畿地方,Kinki
+四国地方,Shikoku
+九州地方,Kyushu
+所持しているアイテムがありません,You do not have any items
+アイテムを選択してください,Please select an item
+ユニットボーナスUP,Unit Bonus UP
+ライブ中のユニットボーナスを+1％,Increases unit bonus by 1% during the live
+ボーナスUP(Leader),Leader Bonus UP
+ライブ中のポジションボーナスを+1％(Leader),Increases Leader position bonus by 1% during the live
+ボーナスUP(Center),Center Bonus UP
+ライブ中のポジションボーナスを+1％(Center),Increases Center position bonus by 1% during the live
+ボーナスUP(Vocal),Vocal Bonus UP
+ライブ中のポジションボーナスを+1％(Vocal),Increases Vocal position bonus by 1% during the live
+ボーナスUP(Dance),Dance Bonus UP
+ライブ中のポジションボーナスを+1％(Dance),Increases Dance position bonus by 1% during the live
+ボーナスUP(Visual),Visual Bonus UP
+ライブ中のポジションボーナスを+1％(Visual),Increases Visual position bonus by 1% during the live
+VocalUP,Vocal UP
+DanceUP,Dance UP
+VisualUP,Visual UP
+ライブ中、Vocal2％UP[3ターン]を付与,Grants a 3-turn Vocal 2% UP buff during the live
+ライブ中、Dance2％UP[3ターン]を付与,Grants a 3-turn Dance 2% UP buff during the live
+ライブ中、Visual2％UP[3ターン]を付与,Grants a 3-turn Visual 2% UP buff during the live
+Vocal基礎能力UP,Vocal Base Stat UP
+ライブ中のVocal基礎能力を+10,Vocal stat +10 during lives
+Dance基礎能力UP,Dance Base Stat UP
+ライブ中のDance基礎能力を+10,Dance stat +10 during lives
+Visual基礎能力UP,Visual Base Stat UP
+ライブ中のVisual基礎能力を+10,Visual stat +10 during lives
+Vocal\nアピールUP,Vocal\nAppeal UP
+Dance\nアピールUP,Dance\nAppeal UP
+Visual\nアピールUP,Visual\nAppeal UP
+Center\nボーナスUP,Center Pos.\nBonus UP
+Leader\nボーナスUP,Leader Pos.\nBonus UP
+Vocal\nボーナスUP,Vocal Pos.\nBonus UP
+Dance\nボーナスUP,Dance Pos.\nBonus UP
+Visual\nボーナスUP,Visual Pos.\nBonus UP
+体力上限UP,Max Stamina UP
+体力減少量軽減,Consume Less\nStamina
+体力回復量UP,Stamina\nHeal UP
+リタイア回数\n増加,More Retire\nCredits
+アイテム\n持ち込み数+,More Item\nSlots
+アイテム\n引き継ぎ数+,More Item\nCarry-Over Slots
+アドバンテージを選択してください,Please select an Advantage
+該当するアドバンテージはありません,No applicable Advantages found
+ライブオート,Auto-Live
+リタイア回数,Retire Credits
+アイテムスロット増加,Increase\nItem Slots
+アイテム引き継ぎ,Item Carry-Over
+櫻木真乃の\n体力上限UP,Mano's\nMax Stamina UP
+風野灯織の\n体力上限UP,Hiori's\nMax Stamina UP
+八宮めぐるの\n体力上限UP,Meguru's\nMax Stamina UP
+月岡恋鐘の\n体力上限UP,Kogane's\nMax Stamina UP
+田中摩美々の\n体力上限UP,Mamimi's\nMax Stamina UP
+白瀬咲耶の\n体力上限UP,Sakuya's\nMax Stamina UP
+三峰結華の\n体力上限UP,Yuika's\nMax Stamina UP
+幽谷霧子の\n体力上限UP,Kiriko's\nMax Stamina UP
+小宮果穂の\n体力上限UP,Kaho's\nMax Stamina UP
+園田智代子の\n体力上限UP,Chiyoko's\nMax Stamina UP
+西城樹里の\n体力上限UP,Juri's\nMax Stamina UP
+杜野凛世の\n体力上限UP,Rinze's\nMax Stamina UP
+有栖川夏葉の\n体力上限UP,Natsuha's\nMax Stamina UP
+大崎甘奈の\n体力上限UP,Amana's\nMax Stamina UP
+大崎甜花の\n体力上限UP,Tenka's\nMax Stamina UP
+桑山千雪の\n体力上限UP,Chiyuki's\nMax Stamina UP
+芹沢あさひの\n体力上限UP,Asahi's\nMax Stamina UP
+黛冬優子の\n体力上限UP,Fuyuko's\nMax Stamina UP
+和泉愛依の\n体力上限UP,Mei's\nMax Stamina UP
+浅倉透の\n体力上限UP,Toru's\nMax Stamina UP
+樋口円香の\n体力上限UP,Madoka's\nMax Stamina UP
+福丸小糸の\n体力上限UP,Koito's\nMax Stamina UP
+市川雛菜の\n体力上限UP,Hinana's\nMax Stamina UP
+七草にちかの\n体力上限UP,Nichika's\nMax Stamina UP
+緋田美琴の\n体力上限UP,Mikoto's\nMax Stamina UP
+櫻木真乃の\n体力減少量軽減,Mano's Stamina\nConsumption DOWN
+風野灯織の\n体力減少量軽減,Hiori's Stamina\nConsumption DOWN
+八宮めぐるの\n体力減少量軽減,Meguru's Stamina\nConsumption DOWN
+月岡恋鐘の\n体力減少量軽減,Kogane's Stamina\nConsumption DOWN
+田中摩美々の\n体力減少量軽減,Mamimi's Stamina\nConsumption DOWN
+白瀬咲耶の\n体力減少量軽減,Sakuya's Stamina\nConsumption DOWN
+三峰結華の\n体力減少量軽減,Yuika's Stamina\nConsumption DOWN
+幽谷霧子の\n体力減少量軽減,Kiriko's Stamina\nConsumption DOWN
+小宮果穂の\n体力減少量軽減,Kaho's Stamina\nConsumption DOWN
+園田智代子の\n体力減少量軽減,Chiyoko's Stamina\nConsumption DOWN
+西城樹里の\n体力減少量軽減,Juri's Stamina\nConsumption DOWN
+杜野凛世の\n体力減少量軽減,Rinze's Stamina\nConsumption DOWN
+有栖川夏葉の\n体力減少量軽減,Natsuha's Stamina\nConsumption DOWN
+大崎甘奈の\n体力減少量軽減,Amana's Stamina\nConsumption DOWN
+大崎甜花の\n体力減少量軽減,Tenka's Stamina\nConsumption DOWN
+桑山千雪の\n体力減少量軽減,Chiyuki's Stamina\nConsumption DOWN
+芹沢あさひの\n体力減少量軽減,Asahi's Stamina\nConsumption DOWN
+黛冬優子の\n体力減少量軽減,Fuyuko's Stamina\nConsumption DOWN
+和泉愛依の\n体力減少量軽減,Mei's Stamina\nConsumption DOWN
+浅倉透の\n体力減少量軽減,Toru's Stamina\nConsumption DOWN
+樋口円香の\n体力減少量軽減,Madoka's Stamina\nConsumption DOWN
+福丸小糸の\n体力減少量軽減,Koito's Stamina\nConsumption DOWN
+市川雛菜の\n体力減少量軽減,Hinana's Stamina\nConsumption DOWN
+七草にちかの\n体力減少量軽減,Nichika's Stamina\nConsumption DOWN
+緋田美琴の\n体力減少量軽減,Mikoto's Stamina\nConsumption DOWN
+櫻木真乃の\n体力回復量上昇,Mano's Stamina\nRecovery UP
+風野灯織の\n体力回復量上昇,Hiori's Stamina\nRecovery UP
+八宮めぐるの\n体力回復量上昇,Meguru's Stamina\nRecovery UP
+月岡恋鐘の\n体力回復量上昇,Kogane's Stamina\nRecovery UP
+田中摩美々の\n体力回復量上昇,Mamimi's Stamina\nRecovery UP
+白瀬咲耶の\n体力回復量上昇,Sakuya's Stamina\nRecovery UP
+三峰結華の\n体力回復量上昇,Yuika's Stamina\nRecovery UP
+幽谷霧子の\n体力回復量上昇,Kiriko's Stamina\nRecovery UP
+小宮果穂の\n体力回復量上昇,Kaho's Stamina\nRecovery UP
+園田智代子の\n体力回復量上昇,Chiyoko's Stamina\nRecovery UP
+西城樹里の\n体力回復量上昇,Juri's Stamina\nRecovery UP
+杜野凛世の\n体力回復量上昇,Rinze's Stamina\nRecovery UP
+有栖川夏葉の\n体力回復量上昇,Natsuha's Stamina\nRecovery UP
+大崎甘奈の\n体力回復量上昇,Amana's Stamina\nRecovery UP
+大崎甜花の\n体力回復量上昇,Tenka's Stamina\nRecovery UP
+桑山千雪の\n体力回復量上昇,Chiyuki's Stamina\nRecovery UP
+芹沢あさひの\n体力回復量上昇,Asahi's Stamina\nRecovery UP
+黛冬優子の\n体力回復量上昇,Fuyuko's Stamina\nRecovery UP
+和泉愛依の\n体力回復量上昇,Mei's Stamina\nRecovery UP
+浅倉透の\n体力回復量上昇,Toru's Stamina\nRecovery UP
+樋口円香の\n体力回復量上昇,Madoka's Stamina\nRecovery UP
+福丸小糸の\n体力回復量上昇,Koito's Stamina\nRecovery UP
+市川雛菜の\n体力回復量上昇,Hinana's Stamina\nRecovery UP
+七草にちかの\n体力回復量上昇,Nichika's Stamina\nRecovery UP
+緋田美琴の\n体力回復量上昇,Mikoto's Stamina\nRecovery UP
+櫻木真乃の\nCenter担当適正UP,Mano's Center\nPos. Aptitude UP
+櫻木真乃の\nLeader担当適正UP,Mano's Leader\nPos. Aptitude UP
+櫻木真乃の\nVocal担当適正UP,Mano's Vocal\nPos. Aptitude UP
+櫻木真乃の\nDance担当適正UP,Mano's Dance\nPos. Aptitude UP
+櫻木真乃の\nVisual担当適正UP,Mano's Visual\nPos. Aptitude UP
+風野灯織の\nCenter担当適正UP,Hiori's Center\nPos. Aptitude UP
+風野灯織の\nLeader担当適正UP,Hiori's Leader\nPos. Aptitude UP
+風野灯織の\nVocal担当適正UP,Hiori's Vocal\nPos. Aptitude UP
+風野灯織の\nDance担当適正UP,Hiori's Dance\nPos. Aptitude UP
+風野灯織の\nVisual担当適正UP,Hiori's Visual\nPos. Aptitude UP
+八宮めぐるの\nCenter担当適正UP,Meguru's Center\nPos. Aptitude UP
+八宮めぐるの\nLeader担当適正UP,Meguru's Leader\nPos. Aptitude UP
+八宮めぐるの\nVocal担当適正UP,Meguru's Vocal\nPos. Aptitude UP
+八宮めぐるの\nDance担当適正UP,Meguru's Dance\nPos. Aptitude UP
+八宮めぐるの\nVisual担当適正UP,Meguru's Visual\nPos. Aptitude UP
+月岡恋鐘の\nCenter担当適正UP,Kogane's Center\nPos. Aptitude UP
+月岡恋鐘の\nLeader担当適正UP,Kogane's Leader\nPos. Aptitude UP
+月岡恋鐘の\nVocal担当適正UP,Kogane's Vocal\nPos. Aptitude UP
+月岡恋鐘の\nDance担当適正UP,Kogane's Dance\nPos. Aptitude UP
+月岡恋鐘の\nVisual担当適正UP,Kogane's Visual\nPos. Aptitude UP
+田中摩美々の\nCenter担当適正UP,Mamimi's Center\nPos. Aptitude UP
+田中摩美々の\nLeader担当適正UP,Mamimi's Leader\nPos. Aptitude UP
+田中摩美々の\nVocal担当適正UP,Mamimi's Vocal\nPos. Aptitude UP
+田中摩美々の\nDance担当適正UP,Mamimi's Dance\nPos. Aptitude UP
+田中摩美々の\nVisual担当適正UP,Mamimi's Visual\nPos. Aptitude UP
+白瀬咲耶の\nCenter担当適正UP,Sakuya's Center\nPos. Aptitude UP
+白瀬咲耶の\nLeader担当適正UP,Sakuya's Leader\nPos. Aptitude UP
+白瀬咲耶の\nVocal担当適正UP,Sakuya's Vocal\nPos. Aptitude UP
+白瀬咲耶の\nDance担当適正UP,Sakuya's Dance\nPos. Aptitude UP
+白瀬咲耶の\nVisual担当適正UP,Sakuya's Visual\nPos. Aptitude UP
+三峰結華の\nCenter担当適正UP,Yuika's Center\nPos. Aptitude UP
+三峰結華の\nLeader担当適正UP,Yuika's Leader\nPos. Aptitude UP
+三峰結華の\nVocal担当適正UP,Yuika's Vocal\nPos. Aptitude UP
+三峰結華の\nDance担当適正UP,Yuika's Dance\nPos. Aptitude UP
+三峰結華の\nVisual担当適正UP,Yuika's Visual\nPos. Aptitude UP
+幽谷霧子の\nCenter担当適正UP,Kiriko's Center\nPos. Aptitude UP
+幽谷霧子の\nLeader担当適正UP,Kiriko's Leader\nPos. Aptitude UP
+幽谷霧子の\nVocal担当適正UP,Kiriko's Vocal\nPos. Aptitude UP
+幽谷霧子の\nDance担当適正UP,Kiriko's Dance\nPos. Aptitude UP
+幽谷霧子の\nVisual担当適正UP,Kiriko's Visual\nPos. Aptitude UP
+小宮果穂の\nCenter担当適正UP,Kaho's Center\nPos. Aptitude UP
+小宮果穂の\nLeader担当適正UP,Kaho's Leader\nPos. Aptitude UP
+小宮果穂の\nVocal担当適正UP,Kaho's Vocal\nPos. Aptitude UP
+小宮果穂の\nDance担当適正UP,Kaho's Dance\nPos. Aptitude UP
+小宮果穂の\nVisual担当適正UP,Kaho's Visual\nPos. Aptitude UP
+園田智代子の\nCenter担当適正UP,Chiyoko's Center\nPos. Aptitude UP
+園田智代子の\nLeader担当適正UP,Chiyoko's Leader\nPos. Aptitude UP
+園田智代子の\nVocal担当適正UP,Chiyoko's Vocal\nPos. Aptitude UP
+園田智代子の\nDance担当適正UP,Chiyoko's Dance\nPos. Aptitude UP
+園田智代子の\nVisual担当適正UP,Chiyoko's Visual\nPos. Aptitude UP
+西城樹里の\nCenter担当適正UP,Juri's Center\nPos. Aptitude UP
+西城樹里の\nLeader担当適正UP,Juri's Leader\nPos. Aptitude UP
+西城樹里の\nVocal担当適正UP,Juri's Vocal\nPos. Aptitude UP
+西城樹里の\nDance担当適正UP,Juri's Dance\nPos. Aptitude UP
+西城樹里の\nVisual担当適正UP,Juri's Visual\nPos. Aptitude UP
+杜野凛世の\nCenter担当適正UP,Rinze's Center\nPos. Aptitude UP
+杜野凛世の\nLeader担当適正UP,Rinze's Leader\nPos. Aptitude UP
+杜野凛世の\nVocal担当適正UP,Rinze's Vocal\nPos. Aptitude UP
+杜野凛世の\nDance担当適正UP,Rinze's Dance\nPos. Aptitude UP
+杜野凛世の\nVisual担当適正UP,Rinze's Visual\nPos. Aptitude UP
+有栖川夏葉の\nCenter担当適正UP,Natsuha's Center\nPos. Aptitude UP
+有栖川夏葉の\nLeader担当適正UP,Natsuha's Leader\nPos. Aptitude UP
+有栖川夏葉の\nVocal担当適正UP,Natsuha's Vocal\nPos. Aptitude UP
+有栖川夏葉の\nDance担当適正UP,Natsuha's Dance\nPos. Aptitude UP
+有栖川夏葉の\nVisual担当適正UP,Natsuha's Visual\nPos. Aptitude UP
+大崎甘奈の\nCenter担当適正UP,Amana's Center\nPos. Aptitude UP
+大崎甘奈の\nLeader担当適正UP,Amana's Leader\nPos. Aptitude UP
+大崎甘奈の\nVocal担当適正UP,Amana's Vocal\nPos. Aptitude UP
+大崎甘奈の\nDance担当適正UP,Amana's Dance\nPos. Aptitude UP
+大崎甘奈の\nVisual担当適正UP,Amana's Visual\nPos. Aptitude UP
+大崎甜花の\nCenter担当適正UP,Tenka's Center\nPos. Aptitude UP
+大崎甜花の\nLeader担当適正UP,Tenka's Leader\nPos. Aptitude UP
+大崎甜花の\nVocal担当適正UP,Tenka's Vocal\nPos. Aptitude UP
+大崎甜花の\nDance担当適正UP,Tenka's Dance\nPos. Aptitude UP
+大崎甜花の\nVisual担当適正UP,Tenka's Visual\nPos. Aptitude UP
+桑山千雪の\nCenter担当適正UP,Chiyuki's Center\nPos. Aptitude UP
+桑山千雪の\nLeader担当適正UP,Chiyuki's Leader\nPos. Aptitude UP
+桑山千雪の\nVocal担当適正UP,Chiyuki's Vocal\nPos. Aptitude UP
+桑山千雪の\nDance担当適正UP,Chiyuki's Dance\nPos. Aptitude UP
+桑山千雪の\nVisual担当適正UP,Chiyuki's Visual\nPos. Aptitude UP
+芹沢あさひの\nCenter担当適正UP,Asahi's Center\nPos. Aptitude UP
+芹沢あさひの\nLeader担当適正UP,Asahi's Leader\nPos. Aptitude UP
+芹沢あさひの\nVocal担当適正UP,Asahi's Vocal\nPos. Aptitude UP
+芹沢あさひの\nDance担当適正UP,Asahi's Dance\nPos. Aptitude UP
+芹沢あさひの\nVisual担当適正UP,Asahi's Visual\nPos. Aptitude UP
+黛冬優子の\nCenter担当適正UP,Fuyuko's Center\nPos. Aptitude UP
+黛冬優子の\nLeader担当適正UP,Fuyuko's Leader\nPos. Aptitude UP
+黛冬優子の\nVocal担当適正UP,Fuyuko's Vocal\nPos. Aptitude UP
+黛冬優子の\nDance担当適正UP,Fuyuko's Dance\nPos. Aptitude UP
+黛冬優子の\nVisual担当適正UP,Fuyuko's Visual\nPos. Aptitude UP
+和泉愛依の\nCenter担当適正UP,Mei's Center\nPos. Aptitude UP
+和泉愛依の\nLeader担当適正UP,Mei's Leader\nPos. Aptitude UP
+和泉愛依の\nVocal担当適正UP,Mei's Vocal\nPos. Aptitude UP
+和泉愛依の\nDance担当適正UP,Mei's Dance\nPos. Aptitude UP
+和泉愛依の\nVisual担当適正UP,Mei's Visual\nPos. Aptitude UP
+浅倉透の\nCenter担当適正UP,Toru's Center\nPos. Aptitude UP
+浅倉透の\nLeader担当適正UP,Toru's Leader\nPos. Aptitude UP
+浅倉透の\nVocal担当適正UP,Toru's Vocal\nPos. Aptitude UP
+浅倉透の\nDance担当適正UP,Toru's Dance\nPos. Aptitude UP
+浅倉透の\nVisual担当適正UP,Toru's Visual\nPos. Aptitude UP
+樋口円香の\nCenter担当適正UP,Madoka's Center\nPos. Aptitude UP
+樋口円香の\nLeader担当適正UP,Madoka's Leader\nPos. Aptitude UP
+樋口円香の\nVocal担当適正UP,Madoka's Vocal\nPos. Aptitude UP
+樋口円香の\nDance担当適正UP,Madoka's Dance\nPos. Aptitude UP
+樋口円香の\nVisual担当適正UP,Madoka's Visual\nPos. Aptitude UP
+福丸小糸の\nCenter担当適正UP,Koito's Center\nPos. Aptitude UP
+福丸小糸の\nLeader担当適正UP,Koito's Leader\nPos. Aptitude UP
+福丸小糸の\nVocal担当適正UP,Koito's Vocal\nPos. Aptitude UP
+福丸小糸の\nDance担当適正UP,Koito's Dance\nPos. Aptitude UP
+福丸小糸の\nVisual担当適正UP,Koito's Visual\nPos. Aptitude UP
+市川雛菜の\nCenter担当適正UP,Hinana's Center\nPos. Aptitude UP
+市川雛菜の\nLeader担当適正UP,Hinana's Leader\nPos. Aptitude UP
+市川雛菜の\nVocal担当適正UP,Hinana's Vocal\nPos. Aptitude UP
+市川雛菜の\nDance担当適正UP,Hinana's Dance\nPos. Aptitude UP
+市川雛菜の\nVisual担当適正UP,Hinana's Visual\nPos. Aptitude UP
+七草にちかの\nCenter担当適正UP,Nichika's Center\nPos. Aptitude UP
+七草にちかの\nLeader担当適正UP,Nichika's Leader\nPos. Aptitude UP
+七草にちかの\nVocal担当適正UP,Nichika's Vocal\nPos. Aptitude UP
+七草にちかの\nDance担当適正UP,Nichika's Dance\nPos. Aptitude UP
+七草にちかの\nVisual担当適正UP,Nichika's Visual\nPos. Aptitude UP
+緋田美琴の\nCenter担当適正UP,Mikoto's Center\nPos. Aptitude UP
+緋田美琴の\nLeader担当適正UP,Mikoto's Leader\nPos. Aptitude UP
+緋田美琴の\nVocal担当適正UP,Mikoto's Vocal\nPos. Aptitude UP
+緋田美琴の\nDance担当適正UP,Mikoto's Dance\nPos. Aptitude UP
+緋田美琴の\nVisual担当適正UP,Mikoto's Visual\nPos. Aptitude UP
+櫻木真乃の編成時\nVocalアピールUP,When using Mano\nVocal Appeal UP
+櫻木真乃の編成時\nDanceアピールUP,When using Mano\nDance Appeal UP
+櫻木真乃の編成時\nVisualアピールUP,When using Mano\nVisual Appeal UP
+風野灯織の編成時\nVocalアピールUP,When using Hiori\nVocal Appeal UP
+風野灯織の編成時\nDanceアピールUP,When using Hiori\nDance Appeal UP
+風野灯織の編成時\nVisualアピールUP,When using Hiori\nVisual Appeal UP
+八宮めぐるの編成時\nVocalアピールUP,When using Meguru\nVocal Appeal UP
+八宮めぐるの編成時\nDanceアピールUP,When using Meguru\nDance Appeal UP
+八宮めぐるの編成時\nVisualアピールUP,When using Meguru\nVisual Appeal UP
+月岡恋鐘の編成時\nVocalアピールUP,When using Kogane\nVocal Appeal UP
+月岡恋鐘の編成時\nDanceアピールUP,When using Kogane\nDance Appeal UP
+月岡恋鐘の編成時\nVisualアピールUP,When using Kogane\nVisual Appeal UP
+田中摩美々の編成時\nVocalアピールUP,When using Mamimi\nVocal Appeal UP
+田中摩美々の編成時\nDanceアピールUP,When using Mamimi\nDance Appeal UP
+田中摩美々の編成時\nVisualアピールUP,When using Mamimi\nVisual Appeal UP
+白瀬咲耶の編成時\nVocalアピールUP,When using Sakuya\nVocal Appeal UP
+白瀬咲耶の編成時\nDanceアピールUP,When using Sakuya\nDance Appeal UP
+白瀬咲耶の編成時\nVisualアピールUP,When using Sakuya\nVisual Appeal UP
+三峰結華の編成時\nVocalアピールUP,When using Yuika\nVocal Appeal UP
+三峰結華の編成時\nDanceアピールUP,When using Yuika\nDance Appeal UP
+三峰結華の編成時\nVisualアピールUP,When using Yuika\nVisual Appeal UP
+幽谷霧子の編成時\nVocalアピールUP,When using Kiriko\nVocal Appeal UP
+幽谷霧子の編成時\nDanceアピールUP,When using Kiriko\nDance Appeal UP
+幽谷霧子の編成時\nVisualアピールUP,When using Kiriko\nVisual Appeal UP
+小宮果穂の編成時\nVocalアピールUP,When using Kaho\nVocal Appeal UP
+小宮果穂の編成時\nDanceアピールUP,When using Kaho\nDance Appeal UP
+小宮果穂の編成時\nVisualアピールUP,When using Kaho\nVisual Appeal UP
+園田智代子の編成時\nVocalアピールUP,When using Chiyoko\nVocal Appeal UP
+園田智代子の編成時\nDanceアピールUP,When using Chiyoko\nDance Appeal UP
+園田智代子の編成時\nVisualアピールUP,When using Chiyoko\nVisual Appeal UP
+西城樹里の編成時\nVocalアピールUP,When using Juri\nVocal Appeal UP
+西城樹里の編成時\nDanceアピールUP,When using Juri\nDance Appeal UP
+西城樹里の編成時\nVisualアピールUP,When using Juri\nVisual Appeal UP
+杜野凛世の編成時\nVocalアピールUP,When using Rinze\nVocal Appeal UP
+杜野凛世の編成時\nDanceアピールUP,When using Rinze\nDance Appeal UP
+杜野凛世の編成時\nVisualアピールUP,When using Rinze\nVisual Appeal UP
+有栖川夏葉の編成時\nVocalアピールUP,When using Natsuha\nVocal Appeal UP
+有栖川夏葉の編成時\nDanceアピールUP,When using Natsuha\nDance Appeal UP
+有栖川夏葉の編成時\nVisualアピールUP,When using Natsuha\nVisual Appeal UP
+大崎甘奈の編成時\nVocalアピールUP,When using Amana\nVocal Appeal UP
+大崎甘奈の編成時\nDanceアピールUP,When using Amana\nDance Appeal UP
+大崎甘奈の編成時\nVisualアピールUP,When using Amana\nVisual Appeal UP
+大崎甜花の編成時\nVocalアピールUP,When using Tenka\nVocal Appeal UP
+大崎甜花の編成時\nDanceアピールUP,When using Tenka\nDance Appeal UP
+大崎甜花の編成時\nVisualアピールUP,When using Tenka\nVisual Appeal UP
+桑山千雪の編成時\nVocalアピールUP,When using Chiyuki\nVocal Appeal UP
+桑山千雪の編成時\nDanceアピールUP,When using Chiyuki\nDance Appeal UP
+桑山千雪の編成時\nVisualアピールUP,When using Chiyuki\nVisual Appeal UP
+芹沢あさひの編成時\nVocalアピールUP,When using Asahi\nVocal Appeal UP
+芹沢あさひの編成時\nDanceアピールUP,When using Asahi\nDance Appeal UP
+芹沢あさひの編成時\nVisualアピールUP,When using Asahi\nVisual Appeal UP
+黛冬優子の編成時\nVocalアピールUP,When using Fuyuko\nVocal Appeal UP
+黛冬優子の編成時\nDanceアピールUP,When using Fuyuko\nDance Appeal UP
+黛冬優子の編成時\nVisualアピールUP,When using Fuyuko\nVisual Appeal UP
+和泉愛依の編成時\nVocalアピールUP,When using Mei\nVocal Appeal UP
+和泉愛依の編成時\nDanceアピールUP,When using Mei\nDance Appeal UP
+和泉愛依の編成時\nVisualアピールUP,When using Mei\nVisual Appeal UP
+浅倉透の編成時\nVocalアピールUP,When using Toru\nVocal Appeal UP
+浅倉透の編成時\nDanceアピールUP,When using Toru\nDance Appeal UP
+浅倉透の編成時\nVisualアピールUP,When using Toru\nVisual Appeal UP
+樋口円香の編成時\nVocalアピールUP,When using Madoka\nVocal Appeal UP
+樋口円香の編成時\nDanceアピールUP,When using Madoka\nDance Appeal UP
+樋口円香の編成時\nVisualアピールUP,When using Madoka\nVisual Appeal UP
+福丸小糸の編成時\nVocalアピールUP,When using Koito\nVocal Appeal UP
+福丸小糸の編成時\nDanceアピールUP,When using Koito\nDance Appeal UP
+福丸小糸の編成時\nVisualアピールUP,When using Koito\nVisual Appeal UP
+市川雛菜の編成時\nVocalアピールUP,When using Hinana\nVocal Appeal UP
+市川雛菜の編成時\nDanceアピールUP,When using Hinana\nDance Appeal UP
+市川雛菜の編成時\nVisualアピールUP,When using Hinana\nVisual Appeal UP
+七草にちかの編成時\nVocalアピールUP,When using Nichika\nVocal Appeal UP
+七草にちかの編成時\nDanceアピールUP,When using Nichika\nDance Appeal UP
+七草にちかの編成時\nVisualアピールUP,When using Nichika\nVisual Appeal UP
+緋田美琴の編成時\nVocalアピールUP,When using Mikoto\nVocal Appeal UP
+緋田美琴の編成時\nDanceアピールUP,When using Mikoto\nDance Appeal UP
+緋田美琴の編成時\nVisualアピールUP,When using Mikoto\nVisual Appeal UP
+櫻木真乃の 体力上限UP,Mano's Max Stamina UP
+風野灯織の 体力上限UP,Hiori's Max Stamina UP
+八宮めぐるの 体力上限UP,Meguru's Max Stamina UP
+月岡恋鐘の 体力上限UP,Kogane's Max Stamina UP
+田中摩美々の 体力上限UP,Mamimi's Max Stamina UP
+白瀬咲耶の 体力上限UP,Sakuya's Max Stamina UP
+三峰結華の 体力上限UP,Yuika's Max Stamina UP
+幽谷霧子の 体力上限UP,Kiriko's Max Stamina UP
+小宮果穂の体力上限UP,Kaho's Max Stamina UP
+園田智代子の体力上限UP,Chiyoko's Max Stamina UP
+西城樹里の体力上限UP,Juri's Max Stamina UP
+杜野凛世の体力上限UP,Rinze's Max Stamina UP
+有栖川夏葉の体力上限UP,Natsuha's Max Stamina UP
+大崎甘奈の体力上限UP,Amana's Max Stamina UP
+大崎甜花の体力上限UP,Tenka's Max Stamina UP
+桑山千雪の体力上限UP,Chiyuki's Max Stamina UP
+芹沢あさひの体力上限UP,Asahi's Max Stamina UP
+黛冬優子の体力上限UP,Fuyuko's Max Stamina UP
+和泉愛依の体力上限UP,Mei's Max Stamina UP
+浅倉透の体力上限UP,Toru's Max Stamina UP
+樋口円香の体力上限UP,Madoka's Max Stamina UP
+福丸小糸の体力上限UP,Koito's Max Stamina UP
+市川雛菜の体力上限UP,Hinana's Max Stamina UP
+七草にちかの体力上限UP,Nichika's Max Stamina UP
+緋田美琴の体力上限UP,Mikoto's Max Stamina UP
+櫻木真乃の体力減少量軽減,Mano's Stamina Consumption DOWN
+風野灯織の体力減少量軽減,Hiori's Stamina Consumption DOWN
+八宮めぐるの体力減少量軽減,Meguru's Stamina Consumption DOWN
+月岡恋鐘の体力減少量軽減,Kogane's Stamina Consumption DOWN
+田中摩美々の体力減少量軽減,Mamimi's Stamina Consumption DOWN
+白瀬咲耶の体力減少量軽減,Sakuya's Stamina Consumption DOWN
+三峰結華の体力減少量軽減,Yuika's Stamina Consumption DOWN
+幽谷霧子の体力減少量軽減,Kiriko's Stamina Consumption DOWN
+小宮果穂の体力減少量軽減,Kaho's Stamina Consumption DOWN
+園田智代子の体力減少量軽減,Chiyoko's Stamina Consumption DOWN
+西城樹里の体力減少量軽減,Juri's Stamina Consumption DOWN
+杜野凛世の体力減少量軽減,Rinze's Stamina Consumption DOWN
+有栖川夏葉の体力減少量軽減,Natsuha's Stamina Consumption DOWN
+大崎甘奈の体力減少量軽減,Amana's Stamina Consumption DOWN
+大崎甜花の体力減少量軽減,Tenka's Stamina Consumption DOWN
+桑山千雪の体力減少量軽減,Chiyuki's Stamina Consumption DOWN
+芹沢あさひの体力減少量軽減,Asahi's Stamina Consumption DOWN
+黛冬優子の体力減少量軽減,Fuyuko's Stamina Consumption DOWN
+和泉愛依の体力減少量軽減,Mei's Stamina Consumption DOWN
+浅倉透の体力減少量軽減,Toru's Stamina Consumption DOWN
+樋口円香の体力減少量軽減,Madoka's Stamina Consumption DOWN
+福丸小糸の体力減少量軽減,Koito's Stamina Consumption DOWN
+市川雛菜の体力減少量軽減,Hinana's Stamina Consumption DOWN
+七草にちかの体力減少量軽減,Nichika's Stamina Consumption DOWN
+緋田美琴の体力減少量軽減,Mikoto's Stamina Consumption DOWN
+櫻木真乃の体力回復量上昇,Mano's Stamina Recovery UP
+風野灯織の体力回復量上昇,Hiori's Stamina Recovery UP
+八宮めぐるの体力回復量上昇,Meguru's Stamina Recovery UP
+月岡恋鐘の体力回復量上昇,Kogane's Stamina Recovery UP
+田中摩美々の体力回復量上昇,Mamimi's Stamina Recovery UP
+白瀬咲耶の体力回復量上昇,Sakuya's Stamina Recovery UP
+三峰結華の体力回復量上昇,Yuika's Stamina Recovery UP
+幽谷霧子の体力回復量上昇,Kiriko's Stamina Recovery UP
+小宮果穂の体力回復量上昇,Kaho's Stamina Recovery UP
+園田智代子の体力回復量上昇,Chiyoko's Stamina Recovery UP
+西城樹里の体力回復量上昇,Juri's Stamina Recovery UP
+杜野凛世の体力回復量上昇,Rinze's Stamina Recovery UP
+有栖川夏葉の体力回復量上昇,Natsuha's Stamina Recovery UP
+大崎甘奈の体力回復量上昇,Amana's Stamina Recovery UP
+大崎甜花の体力回復量上昇,Tenka's Stamina Recovery UP
+桑山千雪の体力回復量上昇,Chiyuki's Stamina Recovery UP
+芹沢あさひの体力回復量上昇,Asahi's Stamina Recovery UP
+黛冬優子の体力回復量上昇,Fuyuko's Stamina Recovery UP
+和泉愛依の体力回復量上昇,Mei's Stamina Recovery UP
+浅倉透の体力回復量上昇,Toru's Stamina Recovery UP
+樋口円香の体力回復量上昇,Madoka's Stamina Recovery UP
+福丸小糸の体力回復量上昇,Koito's Stamina Recovery UP
+市川雛菜の体力回復量上昇,Hinana's Stamina Recovery UP
+七草にちかの体力回復量上昇,Nichika's Stamina Recovery UP
+緋田美琴の体力回復量上昇,Mikoto's Stamina Recovery UP
+櫻木真乃のCenter担当適正UP,Mano's Center Pos. Aptitude UP
+櫻木真乃のLeader担当適正UP,Mano's Leader Pos. Aptitude UP
+櫻木真乃のVocal担当適正UP,Mano's Vocal Pos. Aptitude UP
+櫻木真乃のDance担当適正UP,Mano's Dance Pos. Aptitude UP
+櫻木真乃のVisual担当適正UP,Mano's Visual Pos. Aptitude UP
+風野灯織のCenter担当適正UP,Hiori's Center Pos. Aptitude UP
+風野灯織のLeader担当適正UP,Hiori's Leader Pos. Aptitude UP
+風野灯織のVocal担当適正UP,Hiori's Vocal Pos. Aptitude UP
+風野灯織のDance担当適正UP,Hiori's Dance Pos. Aptitude UP
+風野灯織のVisual担当適正UP,Hiori's Visual Pos. Aptitude UP
+八宮めぐるのCenter担当適正UP,Meguru's Center Pos. Aptitude UP
+八宮めぐるのLeader担当適正UP,Meguru's Leader Pos. Aptitude UP
+八宮めぐるのVocal担当適正UP,Meguru's Vocal Pos. Aptitude UP
+八宮めぐるのDance担当適正UP,Meguru's Dance Pos. Aptitude UP
+八宮めぐるのVisual担当適正UP,Meguru's Visual Pos. Aptitude UP
+月岡恋鐘のCenter担当適正UP,Kogane's Center Pos. Aptitude UP
+月岡恋鐘のLeader担当適正UP,Kogane's Leader Pos. Aptitude UP
+月岡恋鐘のVocal担当適正UP,Kogane's Vocal Pos. Aptitude UP
+月岡恋鐘のDance担当適正UP,Kogane's Dance Pos. Aptitude UP
+月岡恋鐘のVisual担当適正UP,Kogane's Visual Pos. Aptitude UP
+田中摩美々のCenter担当適正UP,Mamimi's Center Pos. Aptitude UP
+田中摩美々のLeader担当適正UP,Mamimi's Leader Pos. Aptitude UP
+田中摩美々のVocal担当適正UP,Mamimi's Vocal Pos. Aptitude UP
+田中摩美々のDance担当適正UP,Mamimi's Dance Pos. Aptitude UP
+田中摩美々のVisual担当適正UP,Mamimi's Visual Pos. Aptitude UP
+白瀬咲耶のCenter担当適正UP,Sakuya's Center Pos. Aptitude UP
+白瀬咲耶のLeader担当適正UP,Sakuya's Leader Pos. Aptitude UP
+白瀬咲耶のVocal担当適正UP,Sakuya's Vocal Pos. Aptitude UP
+白瀬咲耶のDance担当適正UP,Sakuya's Dance Pos. Aptitude UP
+白瀬咲耶のVisual担当適正UP,Sakuya's Visual Pos. Aptitude UP
+三峰結華のCenter担当適正UP,Yuika's Center Pos. Aptitude UP
+三峰結華のLeader担当適正UP,Yuika's Leader Pos. Aptitude UP
+三峰結華のVocal担当適正UP,Yuika's Vocal Pos. Aptitude UP
+三峰結華のDance担当適正UP,Yuika's Dance Pos. Aptitude UP
+三峰結華のVisual担当適正UP,Yuika's Visual Pos. Aptitude UP
+幽谷霧子のCenter担当適正UP,Kiriko's Center Pos. Aptitude UP
+幽谷霧子のLeader担当適正UP,Kiriko's Leader Pos. Aptitude UP
+幽谷霧子のVocal担当適正UP,Kiriko's Vocal Pos. Aptitude UP
+幽谷霧子のDance担当適正UP,Kiriko's Dance Pos. Aptitude UP
+幽谷霧子のVisual担当適正UP,Kiriko's Visual Pos. Aptitude UP
+小宮果穂のCenter担当適正UP,Kaho's Center Pos. Aptitude UP
+小宮果穂のLeader担当適正UP,Kaho's Leader Pos. Aptitude UP
+小宮果穂のVocal担当適正UP,Kaho's Vocal Pos. Aptitude UP
+小宮果穂のDance担当適正UP,Kaho's Dance Pos. Aptitude UP
+小宮果穂のVisual担当適正UP,Kaho's Visual Pos. Aptitude UP
+園田智代子のCenter担当適正UP,Chiyoko's Center Pos. Aptitude UP
+園田智代子のLeader担当適正UP,Chiyoko's Leader Pos. Aptitude UP
+園田智代子のVocal担当適正UP,Chiyoko's Vocal Pos. Aptitude UP
+園田智代子のDance担当適正UP,Chiyoko's Dance Pos. Aptitude UP
+園田智代子のVisual担当適正UP,Chiyoko's Visual Pos. Aptitude UP
+西城樹里のCenter担当適正UP,Juri's Center Pos. Aptitude UP
+西城樹里のLeader担当適正UP,Juri's Leader Pos. Aptitude UP
+西城樹里のVocal担当適正UP,Juri's Vocal Pos. Aptitude UP
+西城樹里のDance担当適正UP,Juri's Dance Pos. Aptitude UP
+西城樹里のVisual担当適正UP,Juri's Visual Pos. Aptitude UP
+杜野凛世のCenter担当適正UP,Rinze's Center Pos. Aptitude UP
+杜野凛世のLeader担当適正UP,Rinze's Leader Pos. Aptitude UP
+杜野凛世のVocal担当適正UP,Rinze's Vocal Pos. Aptitude UP
+杜野凛世のDance担当適正UP,Rinze's Dance Pos. Aptitude UP
+杜野凛世のVisual担当適正UP,Rinze's Visual Pos. Aptitude UP
+有栖川夏葉のCenter担当適正UP,Natsuha's Center Pos. Aptitude UP
+有栖川夏葉のLeader担当適正UP,Natsuha's Leader Pos. Aptitude UP
+有栖川夏葉のVocal担当適正UP,Natsuha's Vocal Pos. Aptitude UP
+有栖川夏葉のDance担当適正UP,Natsuha's Dance Pos. Aptitude UP
+有栖川夏葉のVisual担当適正UP,Natsuha's Visual Pos. Aptitude UP
+大崎甘奈のCenter担当適正UP,Amana's Center Pos. Aptitude UP
+大崎甘奈のLeader担当適正UP,Amana's Leader Pos. Aptitude UP
+大崎甘奈のVocal担当適正UP,Amana's Vocal Pos. Aptitude UP
+大崎甘奈のDance担当適正UP,Amana's Dance Pos. Aptitude UP
+大崎甘奈のVisual担当適正UP,Amana's Visual Pos. Aptitude UP
+大崎甜花のCenter担当適正UP,Tenka's Center Pos. Aptitude UP
+大崎甜花のLeader担当適正UP,Tenka's Leader Pos. Aptitude UP
+大崎甜花のVocal担当適正UP,Tenka's Vocal Pos. Aptitude UP
+大崎甜花のDance担当適正UP,Tenka's Dance Pos. Aptitude UP
+大崎甜花のVisual担当適正UP,Tenka's Visual Pos. Aptitude UP
+桑山千雪のCenter担当適正UP,Chiyuki's Center Pos. Aptitude UP
+桑山千雪のLeader担当適正UP,Chiyuki's Leader Pos. Aptitude UP
+桑山千雪のVocal担当適正UP,Chiyuki's Vocal Pos. Aptitude UP
+桑山千雪のDance担当適正UP,Chiyuki's Dance Pos. Aptitude UP
+桑山千雪のVisual担当適正UP,Chiyuki's Visual Pos. Aptitude UP
+芹沢あさひのCenter担当適正UP,Asahi's Center Pos. Aptitude UP
+芹沢あさひのLeader担当適正UP,Asahi's Leader Pos. Aptitude UP
+芹沢あさひのVocal担当適正UP,Asahi's Vocal Pos. Aptitude UP
+芹沢あさひのDance担当適正UP,Asahi's Dance Pos. Aptitude UP
+芹沢あさひのVisual担当適正UP,Asahi's Visual Pos. Aptitude UP
+黛冬優子のCenter担当適正UP,Fuyuko's Center Pos. Aptitude UP
+黛冬優子のLeader担当適正UP,Fuyuko's Leader Pos. Aptitude UP
+黛冬優子のVocal担当適正UP,Fuyuko's Vocal Pos. Aptitude UP
+黛冬優子のDance担当適正UP,Fuyuko's Dance Pos. Aptitude UP
+黛冬優子のVisual担当適正UP,Fuyuko's Visual Pos. Aptitude UP
+和泉愛依のCenter担当適正UP,Mei's Center Pos. Aptitude UP
+和泉愛依のLeader担当適正UP,Mei's Leader Pos. Aptitude UP
+和泉愛依のVocal担当適正UP,Mei's Vocal Pos. Aptitude UP
+和泉愛依のDance担当適正UP,Mei's Dance Pos. Aptitude UP
+和泉愛依のVisual担当適正UP,Mei's Visual Pos. Aptitude UP
+浅倉透のCenter担当適正UP,Toru's Center Pos. Aptitude UP
+浅倉透のLeader担当適正UP,Toru's Leader Pos. Aptitude UP
+浅倉透のVocal担当適正UP,Toru's Vocal Pos. Aptitude UP
+浅倉透のDance担当適正UP,Toru's Dance Pos. Aptitude UP
+浅倉透のVisual担当適正UP,Toru's Visual Pos. Aptitude UP
+樋口円香のCenter担当適正UP,Madoka's Center Pos. Aptitude UP
+樋口円香のLeader担当適正UP,Madoka's Leader Pos. Aptitude UP
+樋口円香のVocal担当適正UP,Madoka's Vocal Pos. Aptitude UP
+樋口円香のDance担当適正UP,Madoka's Dance Pos. Aptitude UP
+樋口円香のVisual担当適正UP,Madoka's Visual Pos. Aptitude UP
+福丸小糸のCenter担当適正UP,Koito's Center Pos. Aptitude UP
+福丸小糸のLeader担当適正UP,Koito's Leader Pos. Aptitude UP
+福丸小糸のVocal担当適正UP,Koito's Vocal Pos. Aptitude UP
+福丸小糸のDance担当適正UP,Koito's Dance Pos. Aptitude UP
+福丸小糸のVisual担当適正UP,Koito's Visual Pos. Aptitude UP
+市川雛菜のCenter担当適正UP,Hinana's Center Pos. Aptitude UP
+市川雛菜のLeader担当適正UP,Hinana's Leader Pos. Aptitude UP
+市川雛菜のVocal担当適正UP,Hinana's Vocal Pos. Aptitude UP
+市川雛菜のDance担当適正UP,Hinana's Dance Pos. Aptitude UP
+市川雛菜のVisual担当適正UP,Hinana's Visual Pos. Aptitude UP
+七草にちかのCenter担当適正UP,Nichika's Center Pos. Aptitude UP
+七草にちかのLeader担当適正UP,Nichika's Leader Pos. Aptitude UP
+七草にちかのVocal担当適正UP,Nichika's Vocal Pos. Aptitude UP
+七草にちかのDance担当適正UP,Nichika's Dance Pos. Aptitude UP
+七草にちかのVisual担当適正UP,Nichika's Visual Pos. Aptitude UP
+緋田美琴のCenter担当適正UP,Mikoto's Center Pos. Aptitude UP
+緋田美琴のLeader担当適正UP,Mikoto's Leader Pos. Aptitude UP
+緋田美琴のVocal担当適正UP,Mikoto's Vocal Pos. Aptitude UP
+緋田美琴のDance担当適正UP,Mikoto's Dance Pos. Aptitude UP
+緋田美琴のVisual担当適正UP,Mikoto's Visual Pos. Aptitude UP
+櫻木真乃の編成時VocalアピールUP,When using Mano Vocal Appeal UP
+櫻木真乃の編成時DanceアピールUP,When using Mano Dance Appeal UP
+櫻木真乃の編成時VisualアピールUP,When using Mano Visual Appeal UP
+風野灯織の編成時VocalアピールUP,When using Hiori Vocal Appeal UP
+風野灯織の編成時DanceアピールUP,When using Hiori Dance Appeal UP
+風野灯織の編成時VisualアピールUP,When using Hiori Visual Appeal UP
+八宮めぐるの編成時VocalアピールUP,When using Meguru Vocal Appeal UP
+八宮めぐるの編成時DanceアピールUP,When using Meguru Dance Appeal UP
+八宮めぐるの編成時VisualアピールUP,When using Meguru Visual Appeal UP
+月岡恋鐘の編成時VocalアピールUP,When using Kogane Vocal Appeal UP
+月岡恋鐘の編成時DanceアピールUP,When using Kogane Dance Appeal UP
+月岡恋鐘の編成時VisualアピールUP,When using Kogane Visual Appeal UP
+田中摩美々の編成時VocalアピールUP,When using Mamimi Vocal Appeal UP
+田中摩美々の編成時DanceアピールUP,When using Mamimi Dance Appeal UP
+田中摩美々の編成時VisualアピールUP,When using Mamimi Visual Appeal UP
+白瀬咲耶の編成時VocalアピールUP,When using Sakuya Vocal Appeal UP
+白瀬咲耶の編成時DanceアピールUP,When using Sakuya Dance Appeal UP
+白瀬咲耶の編成時VisualアピールUP,When using Sakuya Visual Appeal UP
+三峰結華の編成時VocalアピールUP,When using Yuika Vocal Appeal UP
+三峰結華の編成時DanceアピールUP,When using Yuika Dance Appeal UP
+三峰結華の編成時VisualアピールUP,When using Yuika Visual Appeal UP
+幽谷霧子の編成時VocalアピールUP,When using Kiriko Vocal Appeal UP
+幽谷霧子の編成時DanceアピールUP,When using Kiriko Dance Appeal UP
+幽谷霧子の編成時VisualアピールUP,When using Kiriko Visual Appeal UP
+小宮果穂の編成時VocalアピールUP,When using Kaho Vocal Appeal UP
+小宮果穂の編成時DanceアピールUP,When using Kaho Dance Appeal UP
+小宮果穂の編成時VisualアピールUP,When using Kaho Visual Appeal UP
+園田智代子の編成時VocalアピールUP,When using Chiyoko Vocal Appeal UP
+園田智代子の編成時DanceアピールUP,When using Chiyoko Dance Appeal UP
+園田智代子の編成時VisualアピールUP,When using Chiyoko Visual Appeal UP
+西城樹里の編成時VocalアピールUP,When using Juri Vocal Appeal UP
+西城樹里の編成時DanceアピールUP,When using Juri Dance Appeal UP
+西城樹里の編成時VisualアピールUP,When using Juri Visual Appeal UP
+杜野凛世の編成時VocalアピールUP,When using Rinze Vocal Appeal UP
+杜野凛世の編成時DanceアピールUP,When using Rinze Dance Appeal UP
+杜野凛世の編成時VisualアピールUP,When using Rinze Visual Appeal UP
+有栖川夏葉の編成時VocalアピールUP,When using Natsuha Vocal Appeal UP
+有栖川夏葉の編成時DanceアピールUP,When using Natsuha Dance Appeal UP
+有栖川夏葉の編成時VisualアピールUP,When using Natsuha Visual Appeal UP
+大崎甘奈の編成時VocalアピールUP,When using Amana Vocal Appeal UP
+大崎甘奈の編成時DanceアピールUP,When using Amana Dance Appeal UP
+大崎甘奈の編成時VisualアピールUP,When using Amana Visual Appeal UP
+大崎甜花の編成時VocalアピールUP,When using Tenka Vocal Appeal UP
+大崎甜花の編成時DanceアピールUP,When using Tenka Dance Appeal UP
+大崎甜花の編成時VisualアピールUP,When using Tenka Visual Appeal UP
+桑山千雪の編成時VocalアピールUP,When using Chiyuki Vocal Appeal UP
+桑山千雪の編成時DanceアピールUP,When using Chiyuki Dance Appeal UP
+桑山千雪の編成時VisualアピールUP,When using Chiyuki Visual Appeal UP
+芹沢あさひの編成時VocalアピールUP,When using Asahi Vocal Appeal UP
+芹沢あさひの編成時DanceアピールUP,When using Asahi Dance Appeal UP
+芹沢あさひの編成時VisualアピールUP,When using Asahi Visual Appeal UP
+黛冬優子の編成時VocalアピールUP,When using Fuyuko Vocal Appeal UP
+黛冬優子の編成時DanceアピールUP,When using Fuyuko Dance Appeal UP
+黛冬優子の編成時VisualアピールUP,When using Fuyuko Visual Appeal UP
+和泉愛依の編成時VocalアピールUP,When using Mei Vocal Appeal UP
+和泉愛依の編成時DanceアピールUP,When using Mei Dance Appeal UP
+和泉愛依の編成時VisualアピールUP,When using Mei Visual Appeal UP
+浅倉透の編成時VocalアピールUP,When using Toru Vocal Appeal UP
+浅倉透の編成時DanceアピールUP,When using Toru Dance Appeal UP
+浅倉透の編成時VisualアピールUP,When using Toru Visual Appeal UP
+樋口円香の編成時VocalアピールUP,When using Madoka Vocal Appeal UP
+樋口円香の編成時DanceアピールUP,When using Madoka Dance Appeal UP
+樋口円香の編成時VisualアピールUP,When using Madoka Visual Appeal UP
+福丸小糸の編成時VocalアピールUP,When using Koito Vocal Appeal UP
+福丸小糸の編成時DanceアピールUP,When using Koito Dance Appeal UP
+福丸小糸の編成時VisualアピールUP,When using Koito Visual Appeal UP
+市川雛菜の編成時VocalアピールUP,When using Hinana Vocal Appeal UP
+市川雛菜の編成時DanceアピールUP,When using Hinana Dance Appeal UP
+市川雛菜の編成時VisualアピールUP,When using Hinana Visual Appeal UP
+七草にちかの編成時VocalアピールUP,When using Nichika Vocal Appeal UP
+七草にちかの編成時DanceアピールUP,When using Nichika Dance Appeal UP
+七草にちかの編成時VisualアピールUP,When using Nichika Visual Appeal UP
+緋田美琴の編成時VocalアピールUP,When using Mikoto Vocal Appeal UP
+緋田美琴の編成時DanceアピールUP,When using Mikoto Dance Appeal UP
+緋田美琴の編成時VisualアピールUP,When using Mikoto Visual Appeal UP
+ライブをオートでプレイできる,Unlocks Auto-Play\noption for lives
+リタイア可能回数1,Allows retiring from\n a live once
+リタイア可能回数2,Allows retiring from\n a live twice
+リタイア可能回数3,Allows retiring from\n a live 3 times
+リタイア可能回数4,Allows retiring from\n a live 4 times
+リタイア可能回数5,Allows retiring from\n a live 5 times
+ライブに持ち込み可能な\nライブアイテム数＋1,Number of items you can\nbring to lives +1
+ライブに持ち込み可能な\nライブアイテム数＋2,Number of items you can\nbring to lives +2
+ライブに持ち込み可能な\nライブアイテム数＋3,Number of items you can\nbring to lives +3
+ライブに持ち込み可能な\nライブアイテム数＋4,Number of items you can\nbring to lives +4
+ライブに持ち込み可能な\nライブアイテム数＋5,Number of items you can\nbring to lives +5
+ライブアイテムを引き継ぎ可能\n枠＋1,Number of slots for\nitem carry-over +1
+ライブアイテムを引き継ぎ可能\n枠＋2,Number of slots for\nitem carry-over +2
+ライブアイテムを引き継ぎ可能\n枠＋3,Number of slots for\nitem carry-over +3
+ライブアイテムを引き継ぎ可能\n枠＋4,Number of slots for\nitem carry-over +4
+ライブアイテムを引き継ぎ可能\n枠＋5,Number of slots for\nitem carry-over +5
+審査員情報,Judge Details
+テンションが上がります,Tension will increase.
+プレゼントボックスを開けるとアイテムが\n獲得できます,By opening the present box\nyou will obtain items.
+休憩すると体力が回復します,If you take a break\nstamina will recover.
+受けるメンタルダメージを10%UP,Mental dmg. taken +10%
+受けるメンタルダメージを20%UP,Mental dmg. taken +20%
+受けるメンタルダメージを40%UP,Mental dmg. taken +40%
+受けるメンタルダメージを100%UP,Mental dmg. taken +100%
+全ジャンルの基礎能力を10%減少,Base Vo/Da/Vi stats -10%
+全ジャンルの基礎能力を20%減少,Base Vo/Da/Vi stats -20%
+全ジャンルの基礎能力を50%減少,Base Vo/Da/Vi stats -50%
+全ジャンルの基礎能力を90%減少,Base Vo/Da/Vi stats -90%
+一定間隔でメンタルに1倍ダメージ/Vocal100％UP[2ターン],Periodically deals 1x mental damage & Vocal 100% UP (2 turns)
+一定間隔でメンタルに1倍ダメージ/Dance100％UP[2ターン],Periodically deals 1x mental damage & Dance 100% UP (2 turns)
+一定間隔でメンタルに1倍ダメージ/Visual100％UP[2ターン],Periodically deals 1x mental damage & Visual 100% UP (2 turns)
+一定間隔でメンタルに2倍ダメージ/Vocal10％DOWN[2ターン],Periodically deals 2x mental damage & Vocal 10% DOWN (2 turns)
+一定間隔でメンタルに2倍ダメージ/Dance10％DOWN[2ターン],Periodically deals 2x mental damage & Dance 10% DOWN (2 turns)
+一定間隔でメンタルに2倍ダメージ/Visual10％DOWN[2ターン],Periodically deals 2x mental damage & Visual 10% DOWN (2 turns)
+体力が５０％未満のアイドルが編成されています\nライブを開始しますか？,Some of your idols are under\n50% stamina. Start live anyway?
+体力が低いアイドルは、ライブ参加時に\nマイナスのステータス効果がつくなど不利になります,Idols with low stamina are at a\ndisadvantage during lives due to a debuff.
+テンションを上げますか？,Raise Tension?
+テンションが上がりました,Tension increased!
+プレゼントボックスを開けますか？,Open the present box?
+休憩しますか？,Take a break?
+すべてのアイドルの体力が回復しました,All idols recovered some stamina.
+フェスツアーズを開始しますか？,Commence Fes Tours?
+スキップはリスタート1回につき1度のみです\nスキップ数に応じたアイテム獲得と体力減少が行われます,You can skip once per restart.\nYou will lose stamina and obtain items\nbased on the nr. of stages skipped.
+スキップしますか？,Would you like to skip?
+ステージまでスキップできます," stages may be skipped."
+ステージまでスキップしました," stages were skipped."
+この地方へツアーに向かいますか？,Tour this region?
+様々なイベントが発生します,All sorts of events may happen.
+イベントを開始しますか？,Start event?

@@ -1,0 +1,138 @@
+id,name,text,trans
+2007004020010,結華,ねぇ兄さん──,Hey big bro──
+0000000000000,プロデューサー,え,What.
+2007004020020,結華,？,?
+2007004020030,結華,──っ！！,──!!!
+2007004020040,結華,ちょっ、待っ……！,"N-No, wait...!"
+2007004020050,結華,"待ってプロデューサーお願い待って！
+今のはっ、なんて言うか！　違うのっ……！","Producer hold on, please wait!
+That was just... how should I put this...
+You've got it all wrong...!"
+0000000000000,プロデューサー,……兄さん……,...Big bro?
+2007004020060,結華,うわぁ忘れてってば！,Uwaaaa! Just forget about it!
+0000000000000,プロデューサー,いやぁ、すまん。珍しかったからつい,"Sorry about that. It's just that it's pretty rare
+coming from you."
+0000000000000,プロデューサー,用件はなんだ？,"So, did you need something?"
+2007004020070,結華,えっ……その……,Uh... Well...
+2007004020080,結華,"この間のレッスンの録画、見てたら意見がほしくて……
+アンティーカ全員で合わせたやつ……","I'd like your opinion on the lesson tape 
+the other day. The one with L'antica..."
+0000000000000,プロデューサー,ああ、あれか,"Ohhh, that one."
+0000000000000,プロデューサー,"そうだなぁ、他に人がいると、
+結華はフォローに回りがちに見えるかな","Yeah, right there... I've noticed that you're
+prone to fall into a supporting role when you're
+with the others."
+0000000000000,プロデューサー,バランスを取ってくれるのはもちろん嬉しいし、助かる,"Sure... It's good to balance things out with a 
+helping hand. But..."
+0000000000000,プロデューサー,"でも、もっと自分のことだけ考えて
+パフォーマンスをする瞬間があってもいいと思うぞ","...you need to give yourself more attention.
+Try to have your own moment during a performance."
+2007004020090,結華,そ、そっか……,I-I see...
+2007004020100,結華,"うーん、自分ではそこまで引いてるつもりなかったから、
+今度は気を付けてみるね","Right... I didn't mean to carry it out like that.
+I'll keep it in mind next time."
+0000000000000,プロデューサー,"ああ、自覚するのが難しかったら……
+結華のファンのため、って思って動いてみるのがいいかもな","Oh, maybe it would be easier to put yourself in the
+spotlight if you think of it as doing it for your fans."
+0000000000000,プロデューサー,"自分のファンが一番喜ぶのはどういう見せ方だろうって、
+相手を具体的に想定して考えてみるんだ","Think of what would make them happy the most.
+It helps to visualize how your fans would react..."
+2007004020110,結華,なるほど……,Understood...
+0000000000000,プロデューサー,……お兄さんとか,...like visualizing your big bro for example.
+2007004020120,結華,っ！？,!?
+2007004020130,結華,"もうっ！　プロデューサー！
+三峰真面目に聞いてたのに！","Geeeez! Producer!
+I thought you were giving out advice!"
+2007004020140,結華,面白がってるでしょ！？,Do you think this is funny?!
+0000000000000,プロデューサー,"悪い悪い、最後だけちょっとな
+それ以外は真面目なアドバイスだよ","My bad. I wanted to poke some fun at the end there.
+Other than that, I waas serious about my feedback."
+0000000000000,プロデューサー,でも……,That being said...
+select,,"親しみやすさが
+１上がった、だな","Social Link
+Rank Up!"
+select,,お兄さんっ子だったのか,"Seems you're
+super close with
+your big bro."
+select,,嬉しい間違いだよ,"I'm glad
+you said it."
+2007004020150,結華,嫌だぁもう、こんなことでそのパラメーター上げたくない！,"I hate it!
+I don't wanna have you ranking me up like that!"
+0000000000000,プロデューサー,そうか？　良いギャップだと思うんだけど,Really now? I think what I did was clever and helpful.
+2007004020160,結華,……,......
+2007004020170,結華,嘘ばっかり,That's a load of bull.
+0000000000000,プロデューサー,あれ、なんでわかるんだ？,How can you tell?
+2007004020180,結華,"思いっきりニヤニヤしちゃってるからですよ！
+ええ、ええ、それはもう！　わかりますとも！","You're totally smiling from ear to ear!
+Yes, yes, just like that! It's as plain as day!"
+2007004020190,結華,"本気でそう思ってたらそんな顔してないでしょ、
+プロデューサー","You wouldn't be looking at me like that
+if you weren't playing around, Producer!"
+0000000000000,プロデューサー,いやでも、冗談で言ってるわけじゃないんだぞ,No way! I wasn't playing around...
+0000000000000,プロデューサー,……半分くらいは,...half the time.
+2007004020200,結華,"この～！
+引っ張りすぎだよＰたんのバカ！","Why yooouu!
+You're pushing your luck, you idiot P-tan!"
+2007004020210,結華,"三峰、拗ねたらめんどくさいんですからねー？
+知らないんだから","That's why Mitsumine's a sulking mess right now.
+Don't you know?"
+0000000000000,プロデューサー,おお、それは困ったな,"Oh, now that's asking for trouble!"
+2007004020220,結華,"だったら上々！　思う存分困って、
+三峰の機嫌を取ってくださいな、プロデューサー？","Wonderful! I'll fly into trouble! Then you'll
+be fixing Mitsumine's mood, won't you, Producer?"
+2007004020230,結華,違う,Not quite.
+0000000000000,プロデューサー,……違うのか？,...How so?
+2007004020240,結華,っ……,......
+2007004020250,結華,"別に、仲が悪いとか、そこまでではないけどね……？
+でも、お兄さんっ子ってほどでもないと言うか……","Well... While he and I aren't in bad terms,
+I wouldn't go as far to say that we're super close."
+2007004020260,結華,……なんかこれすごい墓穴掘ってる気がする……,I feel like I'm digging up my own grave with this one...
+0000000000000,プロデューサー,そうか？,Really?
+2007004020270,結華,"……いやね、なんか今度、
+弟も一緒にこっちまで出てくるって言うからさぁ","...Well anyways, next time he and I hang out,
+our little bro will be tagging along."
+2007004020280,結華,案内した方がいいかなーとか、ちょっと考えてたわけですよ,So I was thinking of showing him around.
+0000000000000,プロデューサー,"そうだったのか！　ならきちんと時間を取った方がいいな、
+お兄さんたち絶対喜ぶぞ","That's great! You should defenitely do that!
+I'm sure they'll have a good time."
+0000000000000,プロデューサー,"日取りが決まったら教えてくれ！
+スケジュールは調整しとくから","Just fill me on the exact date!
+I'll fix up the schedule for you."
+2007004020290,結華,"あー……
+当日、絶対プロデューサーと出くわさないようにしよ……","Ugh... Note to self...
+Don't cross paths with the producer that day..."
+0000000000000,プロデューサー,えっ,Whaaaa?
+0000000000000,プロデューサー,"（それって、俺には会わせたくないってことだよな……！？
+……まだ、そこまで信用してもらえてはない、か……）","(She doesn't want me to meet them!?
+I guess that means she hasn't fully trusted me yet...)"
+0000000000000,プロデューサー,"（ショックだけど……
+もっと近づけるように、頑張らないと……！）","(What a shock... I need to do my best to get
+her to trust me more...!)"
+2007004020300,結華,"……兄さんたちになんてからかわれるか
+わかったもんじゃないし","...I don't want to imagine what my brothers
+would tease me about if you showed up."
+2007004020310,結華,"嬉しいって……Ｐたんねぇ
+人の間違いがそんなに面白い？","You're glad...!?
+Do you find joy in other people's mistakes, P-tan?"
+0000000000000,プロデューサー,違うよ、そうじゃなくて,I don't! It's not like that!
+0000000000000,プロデューサー,"お兄さんと呼び間違えたってことは、
+それだけ事務所でリラックスできてるってことだろ？","You may have called out to me as ""big bro"" by mistake,
+but doesn't that mean you feel at home in the office?"
+0000000000000,プロデューサー,"ここが結華にとって居心地のいい場所になってるなら、
+プロデューサーとしては嬉しい限りだなって","It'll mean very much to me as a producer if you've come
+to treat this place like a second home, Yuika."
+2007004020320,結華,っ……！,...!
+2007004020330,結華,"プロデューサー……
+今のはさぁ……ちょっとさぁ……","Producer...
+Why on earth... did you say it like..."
+0000000000000,プロデューサー,えっ、なんだ！？　何かまずいこと言ったか！？,Ehh? Why?! Did I say something wrong?!
+2007004020340,結華,"は～……自覚ナシとか……
+これだから……","Ugh, so dense...
+This is exactly why you're..."
+0000000000000,プロデューサー,す、すまん……？,S-Sorry...?
+2007004020350,結華,そこで謝っちゃうとことかも、ぜーんぜんわかってない……,You don't even know why you're apologizing...
+2007004020360,結華,Ｐたんってば、存外タチ悪いよね～,P-tan unexpectedly talks reaaal smooth~
+2007004020370,結華,……これは苦労しそうだなぁ,"...I'll have trouble keeping my wits about me
+with this one."
+info,produce_events/200700402.json,
+Translator,Lewdacriz,
