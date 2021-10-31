@@ -1,0 +1,151 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（あれ。おかしいな、電気が……
+この時間はもう誰もいないはずじゃ……？）","(Huh, that's weird. The light's still on...
+Someone's still inside at this hour...?)"
+0000000000000,プロデューサー,お疲れ様です──,Thanks for the hard work toda──
+2007004040010,結華,…………,......
+0000000000000,プロデューサー,（ああ、結華だったのか）,"(Aah, it's Yuika.)"
+2007004040020,結華,んん…………,ZzzZzz....
+0000000000000,プロデューサー,"（雑誌に音楽プレーヤーにタブレット……
+事務所の資料で勉強してたんだろうなぁ）","(Magazines, music players, and a tablet...
+She probably was using the office resources
+to study up.)"
+0000000000000,プロデューサー,"（それにファンレターも……大事に抱えて……
+新しく届いてたやつ、ひとりで読んでたのか）","(And she's holding a fan letter... It's the new one
+that came in... She must have read it all alone here.)"
+0000000000000,プロデューサー,"（……ってことは、これ多分、事務所が空く時間を
+狙って来たんだよな……？　となると……うーん……）","(...It must have been empty when she dropped by
+the office then. Makes sense... Hmm...)"
+0000000000000,プロデューサー,……どうするか,What should I do...
+0000000000000,プロデューサー,"（起こしたら俺に見つかったことがわかっちゃうし……
+かと言って、こんな時間に放って帰るわけにもいかないし）","(If I wake her up, then she'll realize that I saw her
+asleep. But I can't leave her alone at this hour...)"
+0000000000000,プロデューサー,（…………）,(.........)
+0000000000000,プロデューサー,"（どっちにしても冷えるよな！　何か掛けてから考えよう
+確か向こうにブランケットがあったはず──）","(It'll get chilly anyway! I'll put on a blanket and deal
+with the consequences later... Now where can it be?)"
+0000000000000,プロデューサー,あったあった,There we go.
+2007004040030,結華,うん……？,Mmm...?
+0000000000000,プロデューサー,あ,Oh.
+2007004040040,結華,プロデューサー……？,Producer...?
+2007004040050,結華,っ！,Huh?!
+2007004040060,結華,"なんで！？　今日直帰じゃなかったの！？
+えっ、もしかしてもう朝！？","Why!? You didn't head back home!?
+It... It can't already be morning, right!?"
+2007004040070,結華,"嘘っ、ごめんなさいっ！
+時間やばかったりとか──","No way... I'm sorry!
+I didn't keep track of time──"
+0000000000000,プロデューサー,"ああいや、そんなに焦らなくて大丈夫だぞ
+遅いけど、まだ今日だ。朝じゃない","Calm down, don't be in such a rush.
+I know it looks late, but the day hasn't ended yet.
+And it isn't morning either."
+2007004040080,結華,そっ……か、良かったぁ……,I-I see... What a relief...
+2007004040090,結華,"プロデューサー、夜は来ないって聞いてたから
+もう朝なのかと……","I heard that you weren't dropping by tonight,
+so I thought it was morning already."
+0000000000000,プロデューサー,ごめん、勘違いさせたな,Sorry for the misunderstanding.
+2007004040100,結華,"いや、もとはと言えば三峰が悪いから！
+ごめんなさい、勝手に事務所に一泊しそうになっちゃって","No! It's Mitsumine who's sorry here! It's my fault
+for almost having spent the night in the office!"
+2007004040110,結華,"呼び間違いもそうだし、
+Ｐたんには変なとこ見られてばっかだなぁ","It's my mistake! And now you found me out, P-tan..."
+2007004040120,結華,"隠れてお勉強～なんて一番バレちゃダメなやつじゃんね、
+恥ずかしいったら……","Being found working like this in secret is the
+worst thing that can happen... How embarrassing..."
+0000000000000,プロデューサー,結華、それは……,Yuika...
+select,,"恥ずかしがる
+ことじゃない","That's nothing
+to be ashamed of."
+select,,"俺こそ、
+気付かせて悪かった","It's my fault too,
+for being found out."
+select,,"俺は何も見てないし
+聞いてない！","I saw nothing!
+I heard nothing!"
+0000000000000,プロデューサー,"どうあれ、結華が一生懸命なことに変わりはないんだ
+隠す必要も、恥ずかしがる必要もないと思うぞ","You keep pulling your weight no matter what, Yuika.
+You don't need to hide something like that."
+2007004040130,結華,まーたＰたんはそうやって真っ正面から褒める～,"There you go again, P-tan~
+Giving me praise like it's nothing."
+0000000000000,プロデューサー,"そりゃあ褒めるべきことをやってるんだから褒めるだろう
+──今日も遅くまでお疲れ様、結華","Of course. I'll give you due credit when you've
+done something worth being praised over."
+2007004040140,結華,えー……,Ehhh....
+0000000000000,プロデューサー,えー……って。不満か？,"What do you mean ""ehhh""? Are you not satisfied?"
+2007004040150,結華,まぁ……不満と言うか、なんと言うか……,Whether it's that or not... but...
+2007004040160,結華,だってさ、今の三峰、割と格好つかなくない？,Isn't the Mitsumine right now looking pretty lame?
+0000000000000,プロデューサー,んー……俺はそうは思わないけど,"Hmm, I don't think so."
+0000000000000,プロデューサー,"でも、仮に格好がついてないとしても、別にいいだろ
+本番で格好つけられてれば十分だ","But, it doesn't matter if you're a mess right now.
+As long as you're cleaned up for the show, you're good."
+0000000000000,プロデューサー,"まだ練習中、研究中の時まで完璧でいようとしたら
+大変になっちゃうからな","Being a perfectionist when you're still practicing
+and drilling through will make things hard on you."
+2007004040170,結華,っ！,!
+2007004040180,結華,ふーん……？,Hmm...?
+2007004040190,結華,"プロデューサーがそう言ってくれるんなら、
+まぁいっか……","Well if that's what the producer says, then fine."
+2007004040200,結華,"やだなぁさっきからー
+Ｐたんが謝ること、何もないでしょ？","Even after all I've said...
+Why do you feel the need to take the blame, P-tan?"
+0000000000000,プロデューサー,"いや、今起きたら結華は気にするだろうなーって
+わかってたんだ","Um, had a feeling that you'd care about it if you woke up."
+0000000000000,プロデューサー,"だからこう、もっとスマートにブランケットだけ掛けて
+退散できてれば良かったんだけど……","The plan was to leave a blanket and make
+my escape without leaving a trace..."
+2007004040210,結華,プロデューサー、そんなこと思ってたの？,Producer... Is that what you've been thinking?
+0000000000000,プロデューサー,"？　ああ。結華は、こういうところを見られるの
+好きじゃないんじゃないかと思って……","Hmm? Well yeah, because I know that you
+wouldn't like it if you caught me seeing you
+asleep like that..."
+2007004040220,結華,"あーららぁ……
+見破られちゃってるとか……","My oh my...
+And you did find me out."
+0000000000000,プロデューサー,もうちょっと上手く気配でも消せていれば──,If only I had dumped my Skill Points into Stealth...
+2007004040230,結華,"いいよいいよプロデューサー、
+そんな忍者みたいなスキルゲットしようとしなくても","Oh that's unecessary, Producer.
+I don't need you to spec into the Ninja Class."
+2007004040240,結華,"……別にプロデューサーにだったら、
+見つけてもらうのも悪くないかなって感じしてるしね","Anyways...
+It's not so bad if you were the one to find me like this."
+0000000000000,プロデューサー,そ、そうか……？,R-Really...?
+2007004040250,結華,そうそう！,Uh-huh!
+2007004040260,結華,"──こんなこと滅多に言わないんだから、
+特別だって自覚は持ってほしいところだけど","──I don't say it very often if at all, but...
+...just know that it's something special when I do."
+0000000000000,プロデューサー,結華？,"What was that, Yuika?"
+2007004040270,結華,ん！　なんでもなーい,Hmm? It's nothing~
+2007004040280,結華,え,Huh?
+0000000000000,プロデューサー,"だから大丈夫だ！
+結華がきまり悪く思う必要は全然ないぞ！","That's why it's okay!
+There's no need for you to worry about it at all!"
+2007004040290,結華,"……っふ、あはは！
+それは無理があるでしょプロデューサー！","Pff..! Ahaha!
+You're asking for the impossible, Producer!"
+2007004040300,結華,"ブランケットまで持ってきてくれてるのに、
+見てないって……！　ふふっ……","Giving me a blanket like this and telling me
+that you didn't see anything? Hehehe...!"
+2007004040310,結華,"Ｐたんたまにすごいこと言うよね？
+ふふっ、はぁ、おっかしー……！","Oh P-tan, you sure say some crazy things, huh?
+Hehehe! Haaaa, you're a funny guy!"
+0000000000000,プロデューサー,"……いや、まぁ、それはそうなんだけどな？
+でもほら、そういうことにしておこう、みたいな……！","...Well, I know that I'm asking for the impossible but...
+Can't we just... pretend that it's as I said!?"
+2007004040320,結華,三峰のために？,For Mitsumine's sake?
+0000000000000,プロデューサー,そ、そのつもりだった,"Y-Yeah, that was the goal."
+2007004040330,結華,"そっかそっか
+……ふふっ、ありがとね","Kay, we got a deal.
+...Heehee, thank you then."
+2007004040340,結華,"Ｐたんのおかげで、なんかもう見られてもいいじゃんって
+気がしてきたよ","It's because of P-tan that I probably don't mind
+being seen like this anymore. I can feel at ease
+dropping my guard."
+0000000000000,プロデューサー,そうか……？　なら良いんだけど……,Is that right? Sounds good...
+0000000000000,プロデューサー,"いや良くないのか……？
+あんまりマシな策じゃなかったってことだよな……？","No wait, is it really okay...? Doesn't that mean it's my
+fault for waking you up like that!?"
+2007004040350,結華,"違う違う
+プロデューサーの優しさが身に沁みたって話だよ！","You're so off the mark!
+I'm not blaming you for your kind gesture, Producer!"
+info,produce_events/200700404.json,
+Translator,Lewdacriz,

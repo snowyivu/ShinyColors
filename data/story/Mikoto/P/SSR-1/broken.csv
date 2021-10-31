@@ -12,7 +12,7 @@ No, she wouldn't.)"
 0,プロデューサー,（まだ誰か居るのか……？）,"(So is someone still here, then...?)"
 0,プロデューサー,"（けど、電気点いてなかったよな……？
 まさか、誰か不法侵入者が──……）","(But then why would the lights be off...?
-I sure hope we haven't got ourselves a burglar……)"
+I sure hope we haven't got ourselves a burglar...)"
 0,プロデューサー,………………！,.......!
 2025004040010,美琴,…………っ！,.......!
 0,プロデューサー,──うわ、美琴……！？,"──Woah, Mikoto...!?"
@@ -39,14 +39,17 @@ I trained together with one of these girls, way back."
 0,プロデューサー,…………そうか,"......
 I see."
 2025004040060,美琴,"出ていく時に戸締まりさえすれば見ていてもいいって、
-はづきさんが言ってくれたから","Hazuki-san said that if I promised to lock the doors when I leave, I could stay here and watch it."
+はづきさんが言ってくれたから","Hazuki-san said that if I promised to lock the doors
+when I leave, I could stay here and watch it."
 2025004040070,美琴,"ここ、借りていたの
 だけど電気、点けていればよかったね","So that's what I've been doing.
 I suppose I should've kept the lights on."
 0,プロデューサー,"ああ、うん
-てっきり、誰かが事務所に侵入してるのかと思ったよ",Yeah. I honestly thought someone had broken into the office.
+てっきり、誰かが事務所に侵入してるのかと思ったよ","Yeah. I honestly thought someone had broken into
+the office."
 2025004040080,美琴,"……私も、プロデューサーは今日
-もう帰って来ないと思っていたから",And I thought you wouldn't be coming back to the office until tomorrow morning...
+もう帰って来ないと思っていたから","And I thought you wouldn't be coming back to the
+office until tomorrow morning..."
 2025004040090,美琴,"知らない人が急に入ってきたのかと思って、
 びっくりしちゃった","So I was sure a total stranger had walked in. 
 You had me scared for a moment."
@@ -62,22 +65,24 @@ The thing is..."
 2025004040120,美琴,"だからここで、
 見させてもらっていたんだけど",That's why I was watching it here.
 0,プロデューサー,"えっ
-この間、洗濯機も調子悪いって言ってなかったか？","Huh, didn't you say your washing machine was acting up as well?"
+この間、洗濯機も調子悪いって言ってなかったか？","Huh, didn't you say your washing machine was
+acting up as well?"
 2025004040130,美琴,……そうなの,"Yeah, it is..."
 2025004040140,美琴,"家電って、一気に調子悪くなったりするけど
-どうしてなんだろう","You know how it is. 
-When appliances go bad, they go bad all at once.
-I wonder why..."
+どうしてなんだろう","You know how it is. When appliances go bad, they
+all go bad at once. I wonder why..."
 0,プロデューサー,"確かに
-……だけど、困るよな",True enough. Real pain when it happens.
+……だけど、困るよな",True enough. Huge pain when that happens.
 2025004040150,美琴,"……うん
-でも、それもそうだなって思って","Yeah...
-It's actually not all that strange, when you think about it."
+でも、それもそうだなって思って","Yeah... It's actually not all that strange, when you
+think about it."
 2025004040160,美琴,"こっちに上京してきてから
-ずっと使っている物だから、もう10年だし","I've been using all of my appliances since I moved to Tokyo, and that was 10 years ago."
+ずっと使っている物だから、もう10年だし","I've been using all of my appliances since I moved to
+Tokyo, and that was 10 years ago."
 2025004040170,美琴,…………色々,"......
 After that much time..."
-2025004040180,美琴,ダメになっても、おかしくない頃だよね,"...all sorts of good things start turning bad, don't you think?"
+2025004040180,美琴,ダメになっても、おかしくない頃だよね,"...all sorts of good things start turning bad,
+don't you think?"
 0,プロデューサー,………………,......
 2025004040190,美琴,"──ねえ、プロデューサー
 この映像、あと20分くらいで見終わるから","──Say, Producerー
@@ -87,8 +92,7 @@ The video is only about 20 more minutes."
 全部、見終わるから","This is the last part...
 Then I'll have seen everything."
 0,プロデューサー,"──わかった
-…………美琴","──Okay, okay.
-......
+…………美琴","──Okay, okay......
 Mikoto...?"
 select,,"一緒に見ても
 いいか","Can I watch
@@ -107,21 +111,26 @@ If you don't mind starting halfway in..."
 Is that okay with you?"
 0,プロデューサー,おう、構わないよ,Sure. No problem.
 0,プロデューサー,"どういうライブで、
-何が参考になりそうだったのかは","I do want to hear what kind of performance it was though, and what parts of it inspired you."
+何が参考になりそうだったのかは","I do want to hear what kind of performance it was
+though, and what parts of it inspired you."
 0,プロデューサー,"美琴を送っていく車の中で
 話してもらうことにするからさ",You can tell me all about it on the drive home.
 0,プロデューサー,"明日も仕事にレッスンに──……
-予定はたくさんあるんだから","Don't forget that you've got more work and lessons tomorrow──……
-It's gonna be another busy day."
+予定はたくさんあるんだから","Don't forget that you've got more work and
+lessons tomorrow──…… It's gonna be another
+busy day."
 0,プロデューサー,"それ見終わったら、
-事務所の戸締まりして、送っていくからな！","When you're done watching that, we'll lock the doors and go. Okay?"
+事務所の戸締まりして、送っていくからな！","When you're done watching that, we'll lock the doors
+and go. Okay?"
 2025004040240,美琴,"うん
 ……ありがとう","Yeah...
 Thank you."
 2025004040250,美琴,"早く新しい家電に
-買い換えなきゃって思っていたけど","I was thinking about replacing my broken appliances, but..."
+買い換えなきゃって思っていたけど","I was thinking about replacing my broken appliances,
+but..."
 2025004040260,美琴,"なんか、至れり尽せりだから
-しばらく、このままでもいいのかも","You're spoiling me so much, maybe I'll hold off on that for a bit a longer."
+しばらく、このままでもいいのかも","You're spoiling me so much, maybe I'll hold off on that
+for a bit a longer."
 0,プロデューサー,え……！,Huh...?
 2025004040270,美琴,なんて……嘘、冗談だよ,Come on... I'm just kidding.
 0,プロデューサー,"明日の朝、早いし……
@@ -130,15 +139,17 @@ We leave the minute you finish watching that. Okay?"
 2025004040280,美琴,"大丈夫
 目覚まし時計は壊れていないから",Don't worry. My alarm clock isn't broken.
 0,プロデューサー,"いや
-起きられるかどうかじゃなくてさ",I'm not worried about whether you'll be able to get up in the morning.
+起きられるかどうかじゃなくてさ","I'm not worried about whether you'll be able to get up
+in the morning."
 0,プロデューサー,"ちゃんと寝る時間が
-あるのかどうかが、心配なんだよ",I'm worried about how little sleep you're going to be getting.
+あるのかどうかが、心配なんだよ","I'm worried about how little sleep you're going to
+be getting."
 2025004040290,美琴,それは大丈夫……だと思うけど,I'll be fine... I think.
 2025004040300,美琴,でも、心配してくれてありがとう,But thank you for worrying.
 0,プロデューサー,"うん
-いつも言ってるけど、無理はしないように","Well, I can't say this enough, but don't push yourself too hard."
+いつも言ってるけど、無理はしないように","Well, I can't say this enough, but don't push yourself
+too hard."
 2025004040310,美琴,そうだね、気を付ける,You're right. I'll be careful.
-2025004040320,美琴,……私まで壊れちゃったら困るしね,"......
-After all, it'd be a bit inconvenient if I broke down too."
+2025004040320,美琴,……私まで壊れちゃったら困るしね,"......After all, it'd be a bit inconvenient if I broke down too."
 info,produce_events/202500404.json,
 Translator,Pluie,

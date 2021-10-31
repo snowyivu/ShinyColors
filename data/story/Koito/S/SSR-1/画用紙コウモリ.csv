@@ -1,5 +1,5 @@
 id,name,text,trans
-3022004010010,小糸,──ハロウィンの、配信……,─A Halloween broadcast...
+3022004010010,小糸,──ハロウィンの、配信……,─A Halloween livestream...
 3022004010020,小糸,"…………！
 ハロウィン、パーティー……！","…...!
 A Halloween Party…!"
@@ -8,10 +8,10 @@ A Halloween Party…!"
 Without further ado..."
 3022004010040,小糸,"『ノクチルハロウィンWEB配信』について
 何か、意見がある人……！","On the topic of ‘Noctchill's Online Halloween Broadcast' - 
-if anyone has any suggestions please raise your hand!"
+anyone with suggestions please raise your hand!"
 3022004010050,透,"えらいね
-やる気","This is great already,
-way to go, Koito."
+やる気","Great start,
+way to go."
 3022004010060,小糸,そ、そうかな……！,Y-You really think so…?
 3022004010070,雛菜,は～い♡　雛菜～！,"Me, me! ♡ Hinana～!"
 3022004010080,雛菜,"ハロウィンだし、
@@ -35,8 +35,8 @@ it'll be tasty AND tons of fun～!"
 3022004010180,雛菜,それじゃだめなの～？,Or is that no good～?
 3022004010190,円香,いいなら、いいんじゃない,"If we can make that work, let's do that."
 3022004010200,小糸,"でも、何を話すかくらいは
-考えておいた方がいいんじゃ……","But if we do something like that, 
-we should think of what to say beforehand..."
+考えておいた方がいいんじゃ……","But then... it might be good to 
+think of what to say beforehand..."
 3022004010210,雛菜,ん～、そう～？,Hmm～ I guess so～?
 3022004010220,小糸,………………,......
 3022004010230,小糸,"──あ、
@@ -58,18 +58,18 @@ Hinana thinks that's a great idea～"
 3022004010290,小糸,"ほ、ほんと……！　
 ま、円香ちゃんはどう？","R-Really…?
 W-What do you think, Madoka-chan?"
-3022004010300,円香,いいなら、オッケー,If you're sure then I'm okay with it.
+3022004010300,円香,いいなら、オッケー,"If it sounds good to you, I'm okay with it."
 3022004010310,小糸,"そ、そっか……！
 透ちゃんは？","G-Got it…!
 What about you, Toru-chan?"
 3022004010320,透,……え？,...Eh?
-3022004010330,小糸,あ、あの、だから……,"U-Um, is it okay with you if we.."
+3022004010330,小糸,あ、あの、だから……,"U-Um, I was saying..."
 3022004010340,小糸,"こ、今度のハロウィンの配信、
 みんなでお菓子持ち寄って、食べて……","For this year's Halloween broadcast…
-We all bring snacks and eat them together while chatting..."
+We'll all bring snacks and eat them together while chatting..."
 3022004010350,小糸,"サイコロのお題でおしゃべりするって案、
-なんだけど……","And we use the dice to decide our conversation topics? 
-Something like that..."
+なんだけど……","And we use the dice to decide what we chat about? 
+Or something like that..."
 3022004010360,透,あー、うん,Ahー Sure.
 3022004010370,透,いいね,"Sounds like fun. "
 3022004010380,透,楽しみ,I'm in.
@@ -102,6 +102,6 @@ I can see what you're up to, you know."
 そっちかな……！","M-Maybe here…! 
 Or here might be better…!"
 3022004010530,小糸,……ハロウィンパーティーかぁ……,"...A Halloween party, huh…"
-3022004010540,小糸,えへへ……,Ehehe…
+3022004010540,小糸,えへへ……,Ehehe…!
 info,produce_events/302200401.json,
 Translator,ema,

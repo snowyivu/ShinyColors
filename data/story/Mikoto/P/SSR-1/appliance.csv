@@ -2,13 +2,14 @@ id,name,text,trans
 0,プロデューサー,（──もう昼か……）,(──Lunchtime already...)
 0,プロデューサー,"（美琴は今日……も、練習か
 ちょうど始めた頃かな）","(Let's check Mikoto's schedule...
-Dance practice again, huh. Figures. 
+Dance practice again, huh? Figures. 
 She's probably getting started right about now.)"
 0,プロデューサー,……………………,......
 0,プロデューサー,"（何か買って様子見に行こう
-またノンストップでやってるだろうし）","(Knowing her, she's gonna be at it non-stop for hours again. I should buy her something and check in on her.)"
+またノンストップでやってるだろうし）","(Knowing her, she's gonna be at it non-stop for hours
+again. I should buy her something and check in on her.)"
 0,プロデューサー,"（確か前に差し入れて美琴が気に入ってた
-スムージーの店が、この辺だったような……）","(She really liked that smoothie I got her before. 
+スムージーの店が、この辺だったような……）","(She really liked that smoothie I got her before.
 I'm pretty sure the shop was close to here...)"
 0,プロデューサー,──よし,"──Alright, with that taken care of..."
 0,プロデューサー,…………美琴,"......
@@ -19,7 +20,8 @@ Mikoto?"
 やっぱり、全然気が付かないな","Heh...
 No response, huh?"
 0,プロデューサー,"（自分でもペットボトルのドリンク
-持ってきてるみたいだけど、全然減ってないな）","(It looks she's brought her own water bottle at least, but it's still completely full.)"
+持ってきてるみたいだけど、全然減ってないな）","(It looks she's brought her own water bottle at least,
+but it's still completely full.)"
 0,プロデューサー,"（レッスン始めて１時間以上経ってるよな
 ……そろそろちゃんと声かけたほうがいいか）","(She must've been slaving away for at least an hour.
 I need to get her attention somehow...)"
@@ -29,8 +31,7 @@ Not now, please..."
 0,プロデューサー,"──美琴ー！
 差し入れ、ここ置いとくなー……","──Mikotooo!
 I bought you something, I'm leaving it hereー......"
-0,プロデューサー,……ステップで返事してるみたいだ,"......
-Guess I'll have to take her dance steps for an answer."
+0,プロデューサー,……ステップで返事してるみたいだ,......Guess I'll have to take those dance steps as her answer.
 0,プロデューサー,ああ、はいはい…………！,"Yeah, yeah, I'm coming...!"
 0,プロデューサー,"────はい
 もしもし──……","───Hello, this is 283 Production──...."
@@ -46,12 +47,12 @@ Mikoto?"
 2025004010020,美琴,────……,────......
 0,プロデューサー,"……差し入れ、気付いてないどころか
 水も飲んでないみたいだな……","Not only has she not noticed the smoothie... 
-Looks like she has yet to drink a single drop of water..."
+Looks like she has yet to drink a single drop
+of water..."
 0,プロデューサー,………………,......
 0,プロデューサー,──美琴ー！！！,──MI-KO-TO!!!
 2025004010030,美琴,"……！
-えっ……何？　びっくりした","...!!
-Huh? What...!? 
+えっ……何？　びっくりした","...!! Huh? What...!? 
 You startled me."
 2025004010040,美琴,"あ……
 プロデューサー、来ていたの？","Oh...
@@ -60,10 +61,13 @@ Producer? How long've you been here?"
 美琴全然気が付かなくて","I came here about 30 minutes ago. 
 I called out to you, but you didn't hear me."
 0,プロデューサー,"その後電話がかかってきたから
-一旦出たんだけど……","Then my phone rang, so I left the room to take the call."
+一旦出たんだけど……","Then my phone rang, so I left the room to take the
+call."
 2025004010050,美琴,そうだったの？,Is that so?
 0,プロデューサー,"戻ってきてみたら相変わらず続けてるからさ
-全く水分も摂ってないみたいだし","When I came back just now you were still at it, and it doesn't look like you've been hydrating yourself properly either."
+全く水分も摂ってないみたいだし","When I came back just now you were still at it, and
+it doesn't look like you've been hydrating yourself
+properly either."
 0,プロデューサー,そこに差し入れ置いていったんだけど……,"I left a little something for you over there, but..."
 0,プロデューサー,"やっぱり……
 もうぬるくなっちゃってるな","Yeah, as I thought.
@@ -72,14 +76,15 @@ It's lukewarm by now..."
 ありがとう、ごめんね","Thank you, and I'm sorry. 
 I was completely wrapped up in dance practice..."
 0,プロデューサー,"最近、暑くなってきてるし
-水分補給忘れずにって、いつも言ってるだろ？","You need to make sure you stay hydrated, like I keep telling you.
-It's been getting pretty hot lately."
+水分補給忘れずにって、いつも言ってるだろ？","You need to make sure you stay hydrated, like I keep
+telling you. It's been getting pretty hot lately."
 0,プロデューサー,"室内でも熱中症になることだってあるし
 これだけ動いてるんだから──","Heat strokes can happen even indoors, you know?
 Especially when you're exercising..."
 2025004010070,美琴,うん、わかってる,"Yeah, I know."
 2025004010080,美琴,"……だけど今日は、練習始めてから
-まだそんなに時間経ってないでしょ？","But I haven't even been practicing for that long today, have I?"
+まだそんなに時間経ってないでしょ？","But I haven't even been practicing for that long
+today, have I?"
 2025004010090,美琴,たぶん１時間位──……あれ,"Maybe an hour, at m──Huh...?"
 0,プロデューサー,……もうすぐ２時間ってところだよ,"You're about to hit two hours, actually."
 2025004010100,美琴,"あー…………
@@ -88,10 +93,12 @@ Man, time sure flies, doesn't it?"
 2025004010110,美琴,自分が思うよりずっと,Much faster than I ever thought it would...
 0,プロデューサー,……そうみたいだな,"Yeah, clearly."
 2025004010120,美琴,"なんか、自動で水分補給できる機械とかが
-あったらいいのにね？",Wouldn't it be nice if there was some sort of automatic rehydration appliance?
+あったらいいのにね？","Wouldn't it be nice if there was some sort of
+automatic rehydration appliance?"
 0,プロデューサー,え？,What?
 2025004010130,美琴,"そしたら、どんなに汗をかいても
-ずっと歌って、踊っていられるのに","Then I'd be able to keep singing and dancing forever, no matter how much I sweat."
+ずっと歌って、踊っていられるのに","Then I'd be able to keep singing and dancing forever,
+no matter how much I'd sweat."
 0,プロデューサー,…………,......
 select,,"まずは
 意識してくれ","You need to
@@ -108,7 +115,9 @@ you."
 2025004010140,美琴,……うん、頑張るね,"......
 Okay, I'll try."
 0,プロデューサー,"限られたレッスン時間をどう使うのがいいか考えたら
-自ずとタイムキープはできるんじゃないか？",I'm pretty sure time management will come naturally to you once you start thinking of it as a way to optimize your practice sessions.
+自ずとタイムキープはできるんじゃないか？","I'm pretty sure time management will come naturally
+to you once you start thinking of it as a way to
+optimize your practice sessions."
 2025004010150,美琴,"………………
 そうだよね","......
 Yeah, you're right."
@@ -128,11 +137,14 @@ Do you take me for someone who'd notice an alarm?"
 スマホのアラームでやって、ダメなら","But I'll give it a try.
 And if my phone alarm doesn't do the trick..."
 2025004010200,美琴,"プロデューサーが呼んでくれる時くらい
-大きい音が出るタイマー、探さないと",I'll just have to look for one that's as loud as you are when you call me.
-2025004010210,美琴,……『美琴ー！』って、毎回？,"You're going to be here yelling ""MIKOTOO!!"" every time?"
+大きい音が出るタイマー、探さないと","I'll just have to look for one that's as loud as you are
+when you call me."
+2025004010210,美琴,……『美琴ー！』って、毎回？,"You're going to be here yelling ""MIKOTOO!!""
+every time?"
 0,プロデューサー,"毎回……ってわけには
 いかないかもしれないけど","Well, maybe not every single time."
-0,プロデューサー,だけど来られる時は毎回、そうする,"But whenever I have time to drop by, that's what I'll do, yeah."
+0,プロデューサー,だけど来られる時は毎回、そうする,"But whenever I have time to drop by, that's what
+I'll do, yeah."
 2025004010220,美琴,"……いいの？
 そんな約束しちゃって","Are you sure...?
 That's quite a commitment."

@@ -8,8 +8,8 @@ Didn't expect to see you here."
 だけど今日は、あと１時間後からなの","Ah... yeah.
 But not until an hour from now."
 0,プロデューサー,"そうか
-事務所に何か用事あったのか？","Oh? 
-Something else that you needed to take care of here in the office, then?"
+事務所に何か用事あったのか？","Oh? Something else that you needed to take care
+of here in the office, then?"
 0,プロデューサー,"…………少し
 落ち着かないって雰囲気だけど",You seem uhh... a little restless.
 2025004110030,美琴,──用事っていうか……,"──Well, something like that, yeah..."
@@ -23,15 +23,15 @@ I think it's here."
 なんだそのダンボール","......!?
 What's with the box? Care to explain?"
 2025004110050,美琴,"これ……新しい掃除機
-勝手に掃除してくれるの","This? 
-This is my new vacuum cleaner.
+勝手に掃除してくれるの","This? This is my new vacuum cleaner.
 Fully automatic. Cleans all by itself."
 0,プロデューサー,"うん、それは箱を見れば
 何となくわかるんだけど……","Yeah, I can sort of tell by looking at the box."
 0,プロデューサー,それが、どうしてここに届いたんだ？,"What I'm asking is, why was it delivered here?"
 2025004110060,美琴,…………？,......?
 2025004110070,美琴,"だってこの間、通販の物
-事務所に届けてもいいって言っていたでしょ？",Didn't you tell me the other day that I could have my online shopping delivered to the office?
+事務所に届けてもいいって言っていたでしょ？","Didn't you tell me the other day that I could have my
+online shopping delivered to the office?"
 2025004110080,美琴,"だからダメになった家電
 買い換えようと思って……",I figured I should replace my broken appliances...
 0,プロデューサー,………………ああ……,"......
@@ -42,14 +42,16 @@ Right. I see."
 構わないんだけどさ","Well, I did say that you could, yes...
 And I was serious, I don't mind it."
 0,プロデューサー,"美琴が直接受け取れるなら、
-自宅でもよかったんじゃないかと思って","It's just that...
-If you're going to be sitting here waiting to answer the door yourself, why not do that at home?"
+自宅でもよかったんじゃないかと思って","It's just that... If you're going to be sitting here
+waiting to answer the door yourself, why not
+do that at home?"
 2025004110100,美琴,あ…………,Ah...
 0,プロデューサー,"ていうか、それ
 結構大きくて重そうだけど","I mean, that box is pretty big. 
 And it looks kinda heavy."
 0,プロデューサー,"ここから持って帰るの、
-かなり大変そうだよな……大丈夫か？",You sure you're gonna be okay carrying that all the way home from here?
+かなり大変そうだよな……大丈夫か？","You sure you're gonna be okay carrying that all the
+way home from here?"
 2025004110110,美琴,……………………,......
 0,プロデューサー,…………美琴？,"......
 Uhm, Mikoto...?"
@@ -58,35 +60,38 @@ Uhm, Mikoto...?"
 ……ここに","I'm expecting another delivery. My new TV.
 Here..."
 0,プロデューサー,"え……！　じゃあまさか
-洗濯機も……とか言わないよな！？","What...? 
-Wait a minute, please don't tell me you ordered a new washing machine as well!?"
+洗濯機も……とか言わないよな！？","What...? Wait a minute, please don't tell me you
+ordered a new washing machine as well!?"
 2025004110140,美琴,"そ、それはまだ……
-注文ボタン押してないから、セーフ？","N-No. Not yet...
-I haven't pressed the order button, so I think I can still cancel?"
+注文ボタン押してないから、セーフ？","N-No. Not yet... I haven't pressed the order button,
+so I think I can still cancel?"
 0,プロデューサー,"はは……セーフか……
 そうか、よかったよ","Hah... just in time...
 Well, uhm, that's a relief."
 0,プロデューサー,────よし,────Alright.
 0,プロデューサー,"まず、その掃除機と
-これから来るっていうモニターは車に積んで","Here's the plan. We're gonna put that vacuum cleaner in the back of my car. And the TV as well, when it gets here."
+これから来るっていうモニターは車に積んで","Here's the plan. We're gonna put that vacuum cleaner
+in the back of my car. And the TV as well, when it
+gets here."
 0,プロデューサー,"今日の帰り、
-美琴を送っていきながら運ぶよ","After work today, I'll drive you and your new stuff home."
+美琴を送っていきながら運ぶよ","After work today, I'll drive you and your new stuff
+home."
 2025004110150,美琴,"……！
 いいの？","......!
 You sure?"
 0,プロデューサー,"ああ、それから洗濯機は……
-自宅で受け取らないと大変だと思うから","Yeah. But I suggest you have that washing machine shipped directly to your home address, okay?"
+自宅で受け取らないと大変だと思うから","Yeah. But I suggest you have that washing machine
+shipped directly to your home address, okay?"
 0,プロデューサー,"……スケジュール、調整するよ
-美琴がちゃんと受け取れるように","......
-I'll adjust your schedule so you can be home when it gets delivered."
+美琴がちゃんと受け取れるように","......I'll adjust your schedule so you can be home
+when it gets delivered."
 0,プロデューサー,"それでいて、ちゃんと仕事も
-練習もできるようにさ","In such a way that you won't have to miss out on work or practice time, of course."
+練習もできるようにさ","In such a way that you won't have to miss out on
+work or practice time, of course."
 2025004110160,美琴,…………！,......!
 2025004110170,美琴,ありがとう、プロデューサー,"Thank you, Producer."
 0,プロデューサー,"いや、こういうのは
-プロデューサーの仕事……では、無いかもしれないけど","Don't sweat it. 
-This is all part of my job as a producer.
-Well, technically speaking, it probably isn't..."
+プロデューサーの仕事……では、無いかもしれないけど","Don't sweat it. This is all part of my job as a producer. Well, technically speaking, it probably isn't..."
 0,プロデューサー,"でも、
 美琴の役に立てそうでよかったよ！","But either way, I'm more than happy to help you out!"
 2025004110180,美琴,………………っ,......
@@ -96,8 +101,7 @@ Mikoto?"
 ごめんなさい、なんだかおかしくて","───P-Pha...ahahah!
 I'm sorry, I'm not even sure which is funnier."
 2025004110200,美琴,"自分のそそっかしさもそうだし……
-そんなことまでしてくれるプロデューサーも","My own goof-ups...
-Or the fact that you'd do all of that for me without complaining..."
+そんなことまでしてくれるプロデューサーも",All of my blunders... Or the fact that you'd do all of that for me without complaining...
 0,プロデューサー,はは、そうか？,"Haha, you think that's odd?"
 2025004110210,美琴,"うん、やっぱり
 ２８３プロって…………","Yeah.
