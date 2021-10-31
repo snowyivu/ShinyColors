@@ -139,6 +139,7 @@ VERYHARD,VERYHARD,noun
 アルストロメリア,Alstromeria,noun
 ストレイライト,Straylight,noun
 ノクチル,Noctchill,noun
+シーズ,SHHis,noun
 完全掌握,Complete Control,noun
 フェスマスター,Fes Master,noun
 パーフェクトライブ,Perfect Live,noun
@@ -311,7 +312,7 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 ガシャを1回実行しよう（運命の出会いガシャを除く）,Pull from 1 Gacha (Excluding Fateful Meeting Gacha)
 初心者ミッションを全て達成しよう,Clear all Beginner Missions,exp
 【$note】W.I.N.G.を優勝しよう,【$1】Win W.I.N.G.,exp
-【$note】W.I.N.G.を3回優勝しよう,【$1】Win W.I.N.G. 3 times,exp
+【$note】W.I.N.G.を$num回優勝しよう,【$1】Win W.I.N.G. $2 times,exp
 【$note】G.R.A.D.で優勝しよう,【$1】Win G.R.A.D.,exp
 【$unknown】$nameを編成してシーズン$numを クリアしよう,【$1】 Clear Season $3 with $2,exp
 シーズン$numを$num回クリアしよう,"Clear ""Season $1"" $2 times",exp
@@ -328,3 +329,4 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 【$note】G.R.A.D.を$num回クリアしよう,【$1】Clear G.R.A.D. $2 times,exp
 【$note】予選オーディションに$num回合格しよう,【$1】Clear G.R.A.D. Pre-Selection Audition $2 times,exp
 【$note】ファン感謝祭を$num回クリアしよう,【$1】Win T.F.D. $2 times,exp
+$nounの誰か一人をプロデュースして$noun以上のフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of $2 or above
