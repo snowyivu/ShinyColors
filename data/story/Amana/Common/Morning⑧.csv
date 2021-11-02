@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,料理のレシピサイトを見てるのか？,Looking for recipes online?
+1014001000810010,甘奈,"そうだよ
+今日の夕食は甘奈が作るんだ","That's right.
+Tonight's dinner will be mine's to cook!"
+1014001000810020,甘奈,"何にしようかなー
+甜花ちゃんにも何が食べたいか聞かないと","What should I make today?
+Maybe I should ask Tenka-chan what she wants."
+0000000000000,プロデューサー,（夕飯を作っているのか、えらいな）,"(She makes dinner, huh? That's amazing.)"
+select,,美味しいんだろうな,Must be delicious!
+select,,意外だな,That's surprising.
+select,,栄養も考えないとな,"Well, you should
+always consider
+the nutrition."
+1014001000810030,甘奈,"えへ、
+家族はみんな美味しいって言ってくれるかな","Ehe.
+I wonder if my family would say my food is delicious?"
+1014001000810040,甘奈,"昔から家のお手伝いしてきたからねー
+料理するのも慣れてるんだ☆","I've been helping with the housework for a long time,
+so cooking is also something that I'm used to☆"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1014001000810050,甘奈,"えへ、
+そう言われること多いかも","Ehe, people always tell me that."
+1014001000810060,甘奈,でも、こう見えて、ちゃーんと作れるんだよ？,"I may not look like it, but
+I can cook well, you know?"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1014001000810070,甘奈,そんなの当然だよー,Well that's obvious.
+1014001000810080,甘奈,"甘奈、いつも栄養バランスばっちりな料理を
+作ってるんだよ？","I always make my food's nutrition balanced,
+you know?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/101400100081.json,
+Translator,Aria,
