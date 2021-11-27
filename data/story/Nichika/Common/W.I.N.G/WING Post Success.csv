@@ -1,7 +1,7 @@
 id,name,text,trans
 6024001090220,はづき,プロデューサーさん……,Producer-san...
-6024001090230,はづき,プロデューサーさん、その…………,"Producer-san, this is..."
-6024001090240,はづき,なんていえばいいのか……私、混乱してしまって,What can I even say... I'm at a loss.
+6024001090230,はづき,プロデューサーさん、その…………,"Producer-san, um..."
+6024001090240,はづき,なんていえばいいのか……私、混乱してしまって,I'm not really sure what to say... I'm at a bit of a loss.
 0000000000000,プロデューサー,"やったんですよ……！
 はづきさん、やったんです！","We did it...!
 Hazuki-san, we did it!"
@@ -9,7 +9,7 @@ Hazuki-san, we did it!"
 期待以上の結果を出してくれたな","And you did incredibly, at that.
 You've surpassed all expectations."
 0000000000000,プロデューサー,ありがとうございます、社長……！,"Thank you very much, President...!"
-6024001090260,はづき,もう、何が起こったんだか────,"Wow, I really don't even know what's going on──"
+6024001090260,はづき,もう、何が起こったんだか────,"Goodness, what have we gotten ourselves into──"
 6901001090050,はづき,"優勝したってわかった瞬間、社長が泣いてしまって……
 ステージをほとんど見れていませんでしたから","The instant we realized you won, the President started crying... He could hardly see the stage through the tears at that point."
 6902001090020,社長,"こ、こら！
@@ -53,10 +53,10 @@ Here's a milk tea. Don't let yourself get cold."
 ………………","Thank you very much...
 ......"
 0000000000000,プロデューサー,"…………
-嬉しい涙だったら、いいんだけど","... If those are happy tears, then good."
+嬉しい涙だったら、いいんだけど",...Hopefully those are happy tears.
 6024001090060,にちか,"……
-嬉しい涙ですよ……！",... They are happy tears...!
-0000000000000,プロデューサー,そっか,Good.
+嬉しい涙ですよ……！",...They're happy tears alright...!
+0000000000000,プロデューサー,そっか,I'm glad.
 0000000000000,プロデューサー,"これからはもっともっと思いきり……自由に活動していける
 にちかが、自分でつかんだ時間だから","From now on, you can... do anything you like, to your heart's content.
 This is time that you seized for yourself."
@@ -70,10 +70,10 @@ If it wasn't for her, I..."
 にちかをここまで、連れてきてくれたんだから……","Yeah. I have to thank her too. She brought you this far, so you could do this..."
 6024001090080,にちか,"…………──────
 はい……右耳っ","...──
-Yeah... Your right ear!"
+Here... put in this earbud!"
 0000000000000,プロデューサー,──────えっ……,──Huh...?
 6024001090090,にちか,"ボリューム上げますねっ
-これ、聴いてた途中だったので────","I'll turn the volume up, yeah?
+これ、聴いてた途中だったので────","I'm turning up the volume.
 This is what I was in the middle of listening to──"
 0000000000000,off,『八雲なみ／そうだよ』,"""Yakumo Nami / That's Right"""
 0000000000000,プロデューサー,"──お、おう！
@@ -143,7 +143,7 @@ I'm certain that you'll soon be an idol longer than she ever was."
 ......──"
 0000000000000,プロデューサー,"だから、どのみち……
 続きは、にちかが作っていかなきゃいけない","That's why, at any rate...
-You'll be the one carrying on her story."
+It's time to carve out a path all on your own, Nichika."
 6024001090200,にちか,"………………
 わかってます…………たぶん","......
 I understand... Maybe."
@@ -153,10 +153,9 @@ It really is, Nichika."
 6024001090210,にちか,"……
 プロデューサーさん…………","......
 Producer-san..."
-0000000000000,プロデューサー,にちかは幸せになるんだ,This is your time to be happy.
+0000000000000,プロデューサー,にちかは幸せになるんだ,"You'll find your happiness, Nichika."
 0000000000000,プロデューサー,"────ああ、そういうことなのか、と思った
-なぜこの子をプロデュースしたいと考えたのか────","──Yeah, this is what I was thinking about back then.
-""Why do I even want to produce this girl──?"""
-0000000000000,プロデューサー,俺に、そのための仕事をさせてくれ,"Let me do the rest of the work for you, now."
+なぜこの子をプロデュースしたいと考えたのか────","──I realized then, what the answer was. Back when I thought to myself, ""Why did I decide produce this girl?"""
+0000000000000,プロデューサー,俺に、そのための仕事をさせてくれ,"I took this job, to help Nichika find her happiness. "
 info,produce_events/602400109.json,
 Translator,Alice,

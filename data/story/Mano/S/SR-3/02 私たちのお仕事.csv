@@ -16,17 +16,17 @@ id,name,text,trans
 3001011020090,真乃,そうだね……私も……っ,"Yeah, me too..."
 3001011020100,灯織,……ふふ,....Ehehe.
 3001011020110,めぐる,"じゃあじゃあ今度こそ……！
-右に、しゅっぱーつ！",Then next time...! We turn right!
+右に、しゅっぱーつ！","Then next time...! We turn, riiight!"
 3001011020120,めぐる,──あ！！,──Ahh!!
 3001011020130,めぐる,"真乃！　灯織！
-見て見て！　わたしたちだよ！",Mano! Hiori! Look! It's us!
+見て見て！　わたしたちだよ！",Mano! Hiori! Come look! It's us!
 3001011020131,真乃＆灯織,え──？,Eh?
 3001011020132,街頭モニター,『みんなと一緒に働いてみませんか？』,Want to work with everyone?
 3001011020140,真乃,"あの時のCM……
-もう放送されてるんだ……",A commercial from that time... It's airing already...
+もう放送されてるんだ……",The commercial from that time... It's airing already...
 3001011020150,灯織,仮の映像は一回見せてもらったけど──,"I saw the rough cut of it earlier, but──"
 3001011020160,めぐる,"えへへっ
-実際に見ると、ちょっと不思議な感じ……！","Ehehe... When you actually see it on TV, it feels a little strange..."
+実際に見ると、ちょっと不思議な感じ……！","Ehehe... When you actually see it on TV, it feels a little surreal..."
 3001011020170,真乃,"うん……っ
 なんだか……えっと、なんて言ったらいいのかな……","Yeah... Somehow... um, how do I say it..."
 3001011020180,灯織,……少し、くすぐったいような感じ、とか？,"...It's a little... embarrassing, I guess?"
@@ -41,11 +41,11 @@ id,name,text,trans
 わたしも、真乃と同じ気持ち！",Yeah! I feel the same as you!
 3001011020241,一同,……ふふっ,...Hehe.
 3001011020250,灯織,……それじゃあ、えっと……こほん,"....Well then, um... Ahem."
-3001011020260,灯織,『お客様、お飲み物は何にいたしますか？』,What would you like to drink?
+3001011020260,灯織,『お客様、お飲み物は何にいたしますか？』,"""Miss, what would you like to drink?"""
 3001011020270,真乃,"ほわ……っ
-え、えっと……灯織ちゃん……？",Wahh... Umm... Hiori...?
+え、えっと……灯織ちゃん……？",Wahh... umm... Hiori-chan...?
 3001011020280,めぐる,"そっか！　わたしたち 
-タピオカ飲みに行くんだった！",Right! We came here for tapioca!
+タピオカ飲みに行くんだった！",That's right! We came here for tapioca!
 3001011020290,真乃,──あっ,──Ah.
 3001011020291,真乃,ふふ……っ,Hehe...
 3001011020300,真乃,"それじゃあ、店員さんっ
@@ -53,21 +53,21 @@ id,name,text,trans
 3001011020310,灯織,"ふふっ
 『それでは、お席──お店までご案内しますね』","Hehe. ""Well then, let me guide you to your seat."""
 3001011020320,真乃,ありがとうございますっ,Thank you very much.
-3001011020330,真乃,めぐるちゃんも──,"Meguru, too──"
+3001011020330,真乃,めぐるちゃんも──,"Meguru-chan, too──"
 3001011020340,めぐる,──こほんっ,──Ahem.
-3001011020350,めぐる,『お客様！　トッピングはいかがでしょうか？』,And what about the toppings?
+3001011020350,めぐる,『お客様！　トッピングはいかがでしょうか？』,"""And Miss, what about the toppings?"""
 3001011020360,真乃,ほわっ,Ahh...
-3001011020370,真乃,え、えっと……,Umm...
+3001011020370,真乃,え、えっと……,U-Umm...
 3001011020380,真乃,"『ご、ご注文を繰り返します 
-タピオカミルクティーにナタデココをトッピングでっ』",L-Lemme repeat the order then. Tapioca milk tea topped with nata de coco.
+タピオカミルクティーにナタデココをトッピングでっ』","""L-Lemme repeat their order then. Tapioca milk tea, topped with nata de coco."""
 3001011020390,めぐる,あははっ！　３人とも店員さんになっちゃった！,Ahaha! All three of us have become employees!
 3001011020400,真乃,"ほわ……っ、そっか……みんなで店員さんだと、
-よくわからないことになっちゃうよね","Wahh... Right... If all of us are the employees, you won't be able to understand what's happening."
+よくわからないことになっちゃうよね","Wahh... Right... If all of us are employees, it'll be hard to tell what's going on."
 3001011020410,灯織,"それなら、今度は私たちがお客さんで
-真乃に注文を聞いてもらおうかな","Well then, now we're the customers. Can you take our order, Mano?"
+真乃に注文を聞いてもらおうかな","Well then, this time we're the customers. Can you take our order, Mano?"
 3001011020420,めぐる,"うんうん！
-店員さーん！　注文お願いしまーす！","Yeah, yeah! Excuse me! I'd like to order!"
-3001011020430,真乃,ふふ、はいっ,"Haha, yes."
+店員さーん！　注文お願いしまーす！","Yeah, yeah! Excuse me, there! I'd like to order!"
+3001011020430,真乃,ふふ、はいっ,"Haha, okay."
 3001011020440,真乃,──『いらっしゃいませっ』,"──""What would you like to order?"""
 info,produce_events/300101102.json,
 Translator,,

@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,"そういえば、雛菜は
 透も円香のことも『先輩』呼びだよな","Come to think of it, Hinana calls Toru and Madoka 'senpai'."
 0000000000000,プロデューサー,"小糸は『ちゃん』付けなのに
-どうしてかと思ってさ",And yet you use 'chan' with Kotio. I was wondering why.
+どうしてかと思ってさ",And yet you use 'chan' with Koito. I was wondering why.
 1023001001310010,雛菜,"雛菜は中学から『先輩』呼びだけど～
 小糸ちゃんは別の中学校だったから～",Hinana's been saying 'senpai' since junior high though～ And Koito-chan was going to a different junior high～
 1023001001310020,雛菜,"え～、なんかだめだった～？
@@ -16,7 +16,7 @@ Hinana think?"
 select,,"呼び方なんて
 なんでもいい","Anything you call
 them is fine."
-1023001001310030,雛菜,そうだよね～～～？,You think so～～～?
+1023001001310030,雛菜,そうだよね～～～？,You think so～?
 1023001001310040,雛菜,"透先輩のこと『先輩』って言えるの
 雛菜の特権だもん～♡",Calling Toru-senpai 'senpai' is Hinana's special privilege～♡
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
@@ -28,7 +28,7 @@ them is fine."
 じゃあプロデューサーちゃん？","Eh～? Well then, Producer-chan?"
 1023001001310080,雛菜,"プロデューサーくん～？
 プロデューサー先輩～～～？","Producer-kun～?
-Producer-senpai～～～?"
+Producer-senpai～?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102300100131.json,
 Translator,Batsu,
