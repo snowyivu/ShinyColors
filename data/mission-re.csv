@@ -175,10 +175,10 @@ $nounに参加して、$nounを$num回達成しよう,Join $1 and earn $2 $3 tim
 「$noun」：アピールメーターを$nounの位置で止める,[$1]: Stop the appeal meter at $2,exp
 「$noun」：$num人の$nounから$nounと$nounを獲得する,[$1]: Get $4 and $5 from $2's $3,exp
 $noun以上の$nounに参加して、$nounを$num回達成しよう,"Join $1 or above $2, and earn $3 $4 times",exp
-$nounに参加して、$num位になろう,"Participate in $1, and earn $2 place",exp
-$noun以上の$nounに参加して、$num位になろう,"Participate in $1 $2 or above, and earn $3 place",exp
-$nounの$nounに参加して、$num位になろう,"Participate in $1 $2, and earn $3 place",exp
-【$note】$nounの$nounに参加して、$num位に$num回なろう,[$1]: Participate in $2 $3 and earn $4 place $5 times,exp
+$nounに参加して、$num位になろう,"Participate in $1, and earn rank $2",exp
+$noun以上の$nounに参加して、$num位になろう,"Participate in $1 $2 or above, and earn rank $3",exp
+$nounの$nounに参加して、$num位になろう,"Participate in $1 $2, and earn rank $3",exp
+【$note】$nounの$nounに参加して、$num位に$num回なろう,[$1]: Participate in $2 $3 and earn rank $4 $5 times,exp
 $nounの$nounに参加して、$num位以上になろう,Join $1 $2 and earn rank $3 or above,exp
 $noun全員を編成して、$noun以上の$nounに参加しよう,"With all members of $1, participate in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounに$num回参加しよう,"With all members of $1, participate in $2 or above $3 $4 times",exp
@@ -329,4 +329,9 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 【$note】G.R.A.D.を$num回クリアしよう,【$1】Clear G.R.A.D. $2 times,exp
 【$note】予選オーディションに$num回合格しよう,【$1】Clear G.R.A.D. Pre-Selection Audition $2 times,exp
 【$note】ファン感謝祭を$num回クリアしよう,【$1】Win T.F.D. $2 times,exp
-$nounの誰か一人をプロデュースして$noun以上のフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of $2 or above
+$nounの誰か一人をプロデュースして$noun以上のフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of $2 or above,exp
+【$note】$noun以上の$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3 or above, earn a 「$4」 $5 times",exp
+$nounの$nounに参加して、$num位に$num回なろう,"In $1 $2, earn rank $3 $4 times",exp
+【$note】$nounの$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3, earn a 「$4」 $5 times",exp
+$nounの$nounに参加して、$num位以上に$num回なろう,"In $1 $2, earn rank $3 or above $4 times",exp
+$noun全員を編成して、$noun以上の$nounで$num位に$num回なろう,"With all members of $1, earn rank $4 $5 times in $2 or above $3",exp
