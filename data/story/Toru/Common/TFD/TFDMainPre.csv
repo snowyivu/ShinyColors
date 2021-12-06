@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,"……透？
+どうした","...Toru?
+Something wrong?"
+6020002030010,透,"────え……
+あ……","────Eh...
+Ah..."
+6020002030020,透,"……こういう感じ、知ってるなって
+なんか","...I just thought about how
+this all feels familiar, somehow."
+6020002030030,透,"ざざーん……
+みたいな","Like,
+whoosh..."
+0000000000000,プロデューサー,"はは、なんとなくわかるよ
+──客席の声って、底から響いてくるよな","Haha, I kind of get what you mean.
+The sound from the audience, it eally echoes through the stage huh."
+6020002030040,透,うん,Yeah.
+0000000000000,プロデューサー,……やれそうか,...Think you can do it?
+6020002030050,透,"ふふっ
+まー……","Fufu.
+Well..."
+6020002030060,透,"全部、やってもらったから
+このステージのこと","It's all been done for me.
+This stage."
+6020002030070,透,"やる番
+こっからは",So it's my turn now.
+0000000000000,プロデューサー,"……うん
+大丈夫そうだ","...Yep.
+Sounds like you're good to go."
+6020002030080,透,大丈夫大丈夫,"It's all good, all good."
+6020002030090,透,"大体、合ってるから
+うちら","I mean, we've got it pretty much down. All of us."
+info,produce_events/602000203.json,
+Translator,,

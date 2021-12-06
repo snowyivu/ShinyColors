@@ -1,0 +1,27 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──よし、みんな
+いよいよ本番だ","──Alright, guys.
+It's finally time for the real thing."
+5006002060010,透,"うん
+じゃ","Yep.
+See ya."
+0000000000000,プロデューサー,"お、おいおい
+ちょっと待った……！","W-Wait wait.
+Hold up just a second...!"
+5006002060020,円香,……なんですか？,...What is it?
+0000000000000,プロデューサー,"出る前に、なんかこう……
+掛け声とかさ……！","Aren't you all gonna, uh...
+Do a pump up chant or something...!"
+5006002060030,雛菜,"あ～
+そういうのある～！","Ah～
+People do that～!"
+5006002060040,小糸,"ゆ、ユニット名とか
+叫ぶやつですね……！","T-The ones where people
+shout the name of their unit, right...?"
+5006002060050,透,"あー……
+え、『ノクチル』みたいな？","Ah...
+Eh, like ""noctchill""?"
+5006002060060,透,──せーの,"One, two..."
+5006002060061,一同,ノクチル！,Noctchill!
+info,produce_events/500600206.json,
+Translator,,
