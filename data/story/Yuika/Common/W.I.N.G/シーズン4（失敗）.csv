@@ -1,0 +1,45 @@
+id,name,text,trans
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,I see... so we aren't able to participate.
+7901001080010,はづき,"……不参加って連絡が来たとき、
+聞き間違いかと思いました","...When I was contacted about not participating, I thought I might have been mishearing things."
+7901001080020,はづき,"私には、どうして彼女が参加できないのか
+ちっともわかりません……！",I don't fully understand why she can't participate...!
+7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
+受け入れるより他にあるまい","I understand how you feel... but these are the results.
+There is nothing we can do but accept them."
+7901001080030,はづき,"……私、きっとあの子のファンだったんですね
+だからこの結果が、悔しくてたまらないんです……","...I was definitely a fan of hers.
+So I can't help but feel frustrated about these results."
+0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
+誰よりも彼女のファンでしたから","Me too. As her producer, I was her biggest fan."
+0000000000000,プロデューサー,"……社長
+俺、彼女に会いに行ってきます","...President.
+I'm going to meet with her now."
+7902001080020,社長,ああ、そうするといい,"Yes, that's what you should do."
+0000000000000,プロデューサー,"……『W.I.N.G.』には参加できないことになった
+俺の力不足だ。すまない","...You won't be able to participate in ""W.I.N.G""
+I failed you. My apologies."
+7007001080010,結華,そっか……,I see...
+7007001080020,結華,……でも違うよ、プロデューサー。力不足は三峰の方,"...But you're wrong ,Producer. The one who failed is Mitsumine"
+7007001080030,結華,"プロデューサーが三峰のために
+たくさん頑張ってくれたこと、知ってる","Producer, for Mitsumine
+I know you gave many efforts"
+7007001080040,結華,だから……期待に応えられなくて、ごめんなさい,That's why... I'm sorry for not meeting the expectations.
+7007001080050,結華,ねぇプロデューサー……三峰のこと、呆れた？,Hey Producer... Are you tired of Mitsumine?
+0000000000000,プロデューサー,"そんなことあるわけないだろう
+だから結華が謝る必要なんてない","How could it be the case
+So you don't have to apologize, Yuika"
+0000000000000,プロデューサー,次の機会を目指して、また頑張っていこう,Let's do our best and aim for the next opportunity
+7007001080060,結華,"……なら！　三峰はもっと気張らないとね
+次こそプロデューサーの期待に応えるために！","...In that case! Mitsumine will be more enthusiast
+Next time I'll definitely meet Producer's expectations!"
+7007001080070,結華,"もちろんプロデューサーにも一緒に走ってもらうよ！
+ふたりでもっとたくさん頑張ったらさ……","Of course Producer will have to run with me!
+Let's both give even more efforts..."
+7007001080080,結華,今度はきっと、おっきなステージに立てるよね！,Next time I'll be sure to stand on a bigger stage!
+0000000000000,プロデューサー,"ああ、もちろんだ
+だからこれからも、支えさせてくれ","Yes, of course
+When the time come let me support you again"
+7007001080090,結華,うん……！,Yes...!
+info,produce_events/700700108.json,
+Translator,,

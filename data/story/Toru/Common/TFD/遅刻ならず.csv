@@ -1,0 +1,60 @@
+id,name,text,trans
+0000000000000,プロデューサー,おーい……！,Heey…!
+1020002020010,透,"────
+…………あれ","────
+...oh.
+"
+0000000000000,プロデューサー,おーい、おはよう……！,Heey. Morning…!
+1020002020020,透,"何
+休み？","What,
+off-day today?
+"
+0000000000000,プロデューサー,"いやいや……
+まずおはよう、な？","No no...
+Greetings first, alright?
+"
+1020002020030,透,おはようございまーす,Good morning.
+0000000000000,プロデューサー,"はい、おはよう
+──俺はこれから現場","Right, good morning.
+──I'm on my way to a studio."
+0000000000000,プロデューサー,こっちのバス停からが近くてさ,"It's around the corner from this bus stop, you see."
+1020002020040,透,"おー
+お疲れ様です","Ohh.
+Good work.
+"
+0000000000000,プロデューサー,"──って、あれ？
+遅刻しないのかこの時間って……！？","──Wait, hold on.
+Aren't you going to be late?!"
+1020002020050,透,あー……,Ahh...
+1020002020060,透,"間に合わないから
+もう","I'm not gonna make it, so."
+0000000000000,プロデューサー,"そ、そうでもなくないか……！？
+まだ10分くらいあるよな","Y-You think so…?!
+You still have about 10 minutes, don't you?"
+1020002020070,透,無理無理,"Not happening, not happening."
+1020002020080,透,あの家のとこで58分じゃないと,I won't make it unless I leave by .58 .
+0000000000000,プロデューサー,……,...
+1020002020090,透,……えっ,...Eh?
+0000000000000,プロデューサー,どうした、透ー！,"What's wrong, Toru!"
+1020002020100,透,……なんで,...Why?
+0000000000000,プロデューサー,"なんでって、学校まで透を届けるよ
+遅れないように！","Why, you say? To make sure 
+Toru gets to school on time!
+"
+1020002020110,透,え……,Eh...
+1020002020120,透,"やばいでしょ、それ
+現場","That's bad news for you, right?
+Making it to the studio."
+0000000000000,プロデューサー,ははっ,Haha.
+0000000000000,プロデューサー,今日は余裕持って出てきたんだ,I left the house early today.
+0000000000000,プロデューサー,────もう遅刻しないようにさ？,"────So that I won't run late anymore, you know?"
+1020002020130,透,……あー,...Ahh.
+0000000000000,プロデューサー,"おーい
+風、気持ちいいぞー","Heey.
+The wind feels reaally good.
+"
+1020002020140,透,……,...
+1020002020150,透,ふふっ,Fufu.
+1020002020160,透,間に合うかもじゃん,Maybe I'll make it on time.
+info,produce_events/102000202.json,
+Translator,OrangeKabocha,

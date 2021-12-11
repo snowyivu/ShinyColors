@@ -1,0 +1,25 @@
+id,name,text,trans
+6023002030010,雛菜,──あ、プロデューサーいた～！,"──Ah, there you are, Producer～!"
+0000000000000,プロデューサー,おう、雛菜,"Oh, it's Hinana."
+0000000000000,プロデューサー,どうした？　もうすぐ出番だろ？,What's wrong? Aren't you supposed to go on stage soon?
+6023002030020,雛菜,"うん～
+これ、預けようと思って！","Yep～
+Here. I was thinking of handing this to you!"
+0000000000000,プロデューサー,"……雛菜のスマホ？
+これ、持ってればいいのか？","...Your smartphone?
+You don't mind me holding on to it?"
+6023002030030,雛菜,"ううん、プロデューサーに
+写真撮っておいてもらおうと思って","Nope. I was thinking that Producer can
+help us take some photos."
+6023002030040,雛菜,雛菜たちが、ステージに出てるとこ！,Of when we go up on stage!
+0000000000000,プロデューサー,袖からの撮影になるけど、いいのか？,"It's going to be from the side of the stage though,
+you okay with that?"
+6023002030050,雛菜,"いいよ～！
+そのほうがレアだしね～？","Yeep～!
+It's rarer to get a view like that, isn't it～?"
+0000000000000,プロデューサー,……はは、そうだな,"...Haha, that's true."
+6023002030060,雛菜,"それに、プロデューサーに雛菜が
+どんなふうに見えたか、わかるでしょ？","Besides, I'll know how Hinana looks from 
+Producer's view then, right?"
+info,produce_events/602300203.json,
+Translator,OrangeKabocha,

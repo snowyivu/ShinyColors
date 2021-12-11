@@ -2,28 +2,28 @@ id,name,text,trans
 6020002010010,透,──わりといるね、お客さん,──There's a lot of them huh. In the audience seats.
 0000000000000,プロデューサー,"……ん？
 えっ","...Hm?
-Eeh."
+Eh."
 0000000000000,プロデューサー,"あれっ、リハにお客さん入れるのか……！？
 そんな話聞いて────","Wait, the audience is in for the rehearsals...?!
 I didn't hear anything about tha────"
 6020002010020,透,"……え
-冗談なんだけど","...Eh.
+冗談なんだけど","...Eh?
 I'm kidding."
 0000000000000,プロデューサー,"……！
 透ー……","...!
 Toru..."
 0000000000000,プロデューサー,"──リハってさ、貴重な時間だから……
 もう少し緊張感持ってやってくれたら嬉しいんだけどな？","──Look, the rehearsals are important so...
-Id appreciate it if you could have 
+I'd appreciate it if you could have 
 a little more nerves in you, you know?"
 6020002010040,透,"えー
 だから……","Eeh.
 But..."
-6020002010050,透,やってたんじゃん,"I am, aren't I."
-0000000000000,プロデューサー,……何を,...And what is that?
+6020002010050,透,やってたんじゃん,"I'm doing it, aren't I."
+0000000000000,プロデューサー,……何を,...And what's that?
 6020002010060,透,イメージトレーニング,Image training.
 6020002010070,透,"席、いっぱいだから
 お客さんで","The audience seats are filled you see.
 With an audience."
 info,produce_events/602000201.json,
-Translator,,
+Translator,OrangeKabocha,
