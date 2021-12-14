@@ -129,6 +129,7 @@ G.R.A.D.に優勝しよう,Win the G.R.A.D. Championship,text
 トップアピール,Top Appeal,noun
 ラストアピール,Last Appeal,noun
 プロ根性,Pro Willpower,noun
+ファン感謝祭,TFD,noun
 NORMAL,NORMAL,noun
 HARD,HARD,noun
 VERYHARD,VERYHARD,noun
@@ -156,6 +157,9 @@ Cランク,Rank C,noun
 Bランク,Rank B,noun
 Aランク,Rank A,noun
 Sランク,Rank S,noun
+Vo.,Vo.,noun
+Vi.,Vi.,noun
+Da.,Da.,noun
 W.I.N.G.編,W.I.N.G. Run,note
 ファン感謝祭編,Thanks Flapping Day Run,note
 G.R.A.D.編,G.R.A.D. Run,note
@@ -335,3 +339,8 @@ $nounの$nounに参加して、$num位に$num回なろう,"In $1 $2, earn rank $
 【$note】$nounの$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3, earn a 「$4」 $5 times",exp
 $nounの$nounに参加して、$num位以上に$num回なろう,"In $1 $2, earn rank $3 or above $4 times",exp
 $noun全員を編成して、$noun以上の$nounで$num位に$num回なろう,"With all members of $1, earn rank $4 $5 times in $2 or above $3",exp
+$nounに参加して、スターを累計$num個獲得しよう,Earn $2 stars from participating in $1,exp
+$nounに参加して、$num位に$num回なろう, Earn rank $2 in $1 $3 times,exp
+$nounを$num回クリアしよう,Clear $1 $2 times,exp
+いずれかのアイドルをプロデュースして、$noun$num以上のフェスアイドルを誕生させよう,Create any idol with $2 $1 or higher,exp
+オーバーキャストモノクローム獲得ミッションを全て達成しよう,Complete all Overcast Chrome missions,exp
