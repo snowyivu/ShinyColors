@@ -1,0 +1,15 @@
+id,name,text,trans
+6025002010010,美琴,────…………,────...
+0000000000000,プロデューサー,"……美琴、どうだ？
+いけそうか？","...Mikoto, how are you feeling?
+Do you think you're ready?"
+6025002010020,美琴,──イメージ…………,──The vision...
+0000000000000,プロデューサー,え……？,Eh...?
+6025002010030,美琴,"イメージ、見える？
+プロデューサーには","The vision, can you see it?
+Producer."
+0000000000000,プロデューサー,…………,...
+6025002010040,美琴,……もう行かなきゃ,...It's time for me to go.
+0000000000000,プロデューサー,…………────,...────
+info,produce_events/602500201.json,
+Translator,Belvera,

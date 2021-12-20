@@ -1,0 +1,67 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──美琴
+美琴ー……","──Mikoto.
+Mikoto...!"
+0000000000000,プロデューサー,…………,...
+0000000000000,プロデューサー,今日は特に集中してるみたいだな……,She seems particularly focused today...
+0000000000000,プロデューサー,……少しだけ待とうか,...Maybe I should just wait here for a little while.
+1025002020010,美琴,──サー……,──ducer...
+0000000000000,プロデューサー,…………,...
+1025002020020,美琴,プロデューサー……！,Producer...!
+0000000000000,プロデューサー,"え…………
+あ、あれ……","Eh...
+Uh, um..."
+1025002020030,美琴,"いつからいたの？
+全然気が付かなかった","When did you get here?
+I didn't notice you there at all."
+0000000000000,プロデューサー,……すまん、寝ちゃってたみたいだな,"...I'm so sorry, I guess I fell asleep."
+0000000000000,プロデューサー,"美琴、今日は呼んでも気付いてくれないから
+しばらく待っていようと思って","I was trying to call out to you but you weren't noticing so, I thought I'd just wait here for a little while."
+0000000000000,プロデューサー,そしたら……,"And then, next thing I knew..."
+1025002020040,美琴,"……疲れが出たのかもね
+感謝祭も終わって","...Your tiredness might be catching up to you. Now that FanFest is done. "
+1025002020050,美琴,少しだけ落ち着いたから,"And things have calmed down a little. "
+0000000000000,プロデューサー,"いや……
+こんなことじゃいけないよな","I mean...
+That's still no excuse to let things like this happen."
+1025002020060,美琴,…………？,...?
+0000000000000,プロデューサー,"だって本当に大変だったのは
+美琴たちだし……","And in case, FanFest was way more intense for you and Nichika, than me..."
+1025002020070,美琴,…………,...
+0000000000000,プロデューサー,"美琴は今日も練習頑張ってるっていうのに
+プロデューサーがこんなことじゃいけないだろ？","So if you're already back to practicing, then your Producer shouldn't be slacking off either, right?"
+1025002020080,美琴,"……ううん
+そんなことないよ","...No.
+I don't think that's the case. "
+1025002020090,美琴,私は、これが当然だから,This is just what I do.
+0000000000000,プロデューサー,え……？,Eh...?
+1025002020100,美琴,"もう何年もこうやってきたし
+こういう生活が、当たり前だから","I've lived like this for so many years.
+This lifestyle is what's natural for me."
+1025002020110,美琴,"大変だとか疲れたとか
+あまり思わないかも","I don't really think about things like it being intense, or about me being tired."
+0000000000000,プロデューサー,……美琴、でもさ──……,"...Even so, Mikoto..."
+1025002020120,美琴,"その方がいいの
+私は","For me, this is just fine."
+1025002020130,美琴,"その方が『やりきった』って思うまで
+止まらずにいられるから","I plan to live like this until the day I can look back and think ""I've done it all."""
+0000000000000,プロデューサー,………………,...
+1025002020140,美琴,それで？,Anyway?
+1025002020150,美琴,"プロデューサーはお疲れのところ
+どうしたの？","Did you have something you wanted to tell me, Producer, before you fell asleep?"
+1025002020160,美琴,わざわざここまで来て,You must have come here for a reason.
+0000000000000,プロデューサー,"え……？
+あ……","Eh...?
+Oh..."
+1025002020170,美琴,何か用があったんじゃない？,"There had to have been something, right?"
+0000000000000,プロデューサー,そうだったな,"There was, yeah."
+0000000000000,プロデューサー,"実は今度の撮影、前倒しできないかって
+相談が来ててさ","That photoshoot you have coming up, I was asked if you'd be able to do it a few days earlier than had been originally planned."
+0000000000000,プロデューサー,"だけど美琴、ここのところ忙しかったし
+元のスケジュールのままがいいかと思ってたんだけど……","But Mikoto, you were so busy up until recently, I was thinking it might be better to leave your schedule how it was before..."
+1025002020180,美琴,"ううん
+私は大丈夫","No, I'll be just fine."
+1025002020190,美琴,……やれるよ,...I can do it.
+0000000000000,プロデューサー,…………そうか,"...Alright, then."
+info,produce_events/102500202.json,
+Translator,Belvera,

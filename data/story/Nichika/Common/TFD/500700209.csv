@@ -3,7 +3,7 @@ id,name,text,trans
 5007002090020,にちか,──────────…………,──────────…………
 5007002090030,美琴,"広いステージの上で、
 動くものは私だけ","On top of a vast stage,
-I am the only thing that moves."
+I am the only one that moves."
 0000000000000,ボーカル講師,"『アー』って一音だけ歌うのが、
 どれだけプレッシャーかかることか……",Only singing a single note places quite a lot of pressure on you...
 0000000000000,ボーカル講師,"ふふふ。バカにしてたでしょ、そんな簡単なことって
@@ -19,39 +19,45 @@ I am the only thing that moves."
 My discipline."
 5007002090060,美琴,私のスキル,My skills.
 0000000000000,ボーカル講師,"……すごいわ
-アイドルの武器、全部封じるのと同じよ","...This is absurd. It's like sealing away every asset an idol could possibly have. "
+アイドルの武器、全部封じるのと同じよ","...This is incredible.
+It's like locking away every asset an idol could
+possibly have. "
 5007002090070,にちか,"持ってない、武器なんか
-最初から","I've never really had any assets or anything in the first place, though."
+最初から","The thing is, I've never really had any assets in the first place."
 5007002090080,美琴,"筋肉、細胞、私をつくるもの
-全部を使ってステージを動かす","My muscle, my cells, everything that I've trained to perfection. Utilizing all of it, I move myself through the performance."
+全部を使ってステージを動かす","My muscle, my cells, everything that I've finessed.
+Utilizing it all, I move myself through the performance."
 5007002090090,にちか,"美琴さんが飛べるように…………
 …………美琴さんの隣に置いてもらえるように","In order for Mikoto-san to be able to soar... 
-...In order for me to remain by Mikoto-san's side─"
-5007002090100,にちか,台になるだけ,All I can do is become a stage for her.
-5007002090101,にちか＆美琴,軸足に重心を乗せて上体はしっかり矯める,"I balance my weight on my pivot foot, and straighten my upper body.
-I take a deep breath as Mikoto-san prepares to move."
-5007002090102,にちか＆美琴,肩とあごの力を抜く、腹筋で体を支えて発声準備,"I shift my center of gravity, lift my arms to paint the air.
-I relax my shoulders and jaw, steel my abdomen, and prepare to sing."
-5007002090103,にちか＆美琴,飛んで、美琴さん──────,"I swing my body downwards, and jump!
-Fly, Mikoto-san──────"
+...In order for me to remain by Mikoto-san's side──"
+5007002090100,にちか,台になるだけ,All I can do is make myself a platform for her to take flight from.
+5007002090101,にちか＆美琴,軸足に重心を乗せて上体はしっかり矯める,"[I balance on my pivot foot, straighten my torso.]
+(I inhale deeply as Mikoto-san prepares to move.)"
+5007002090102,にちか＆美琴,肩とあごの力を抜く、腹筋で体を支えて発声準備,"[I shift my weight, lift my arms to paint the air.]
+(I relax my shoulders and jaw, steel my abdomen,
+and prepare to sing.)"
+5007002090103,にちか＆美琴,飛んで、美琴さん──────,"[I swing my body downwards, and jump.]
+(Fly, Mikoto-san──────)"
 0000000000000,にちか＆美琴,──────……………………,──────……………………
 5007002090110,ルカ,"空、紺碧の……
-心の奥の奥みたいな音────……","Like the azure of the sky...
-A sound like the bottom of the bottom of your heart..."
+心の奥の奥みたいな音────……","An azure sky...
+A sound like the deepest depths of your heart..."
 5007002090120,美琴,────────…………,────────…………
-0000000000000,SNSの投稿１,『にちかちゃん、踊れないのかわいそかわいい』,"""the fact nichika-chan can't dance is like, so pathetic it's cute."""
-0000000000000,SNSの投稿２,『シーズのちょっとうまくない方、健在～』,"""glad to see SHHis' kinda amateur one is as amateurish as ever～"""
+0000000000000,SNSの投稿１,『にちかちゃん、踊れないのかわいそかわいい』,"""the fact nichika-chan can't dance is like, so sad
+it just makes her even cuter."""
+0000000000000,SNSの投稿２,『シーズのちょっとうまくない方、健在～』,"""glad to see SHHis' kinda amateur one is still as
+amateurish as ever～"""
 0000000000000,プロデューサー,失礼します,Excuse me.
 5007002090130,社長,"────ああ、入れ
 お前の評価をせねばならなくてな","────Ah yes, come in.
-It's time for your performance evaluation."
+We need to go over your performance evaluation."
 0000000000000,雑誌質問,"『今回の演目の狙いを教えてください
 七草さんの一音のためのステージとも言えるのでは？』","""What was the goal for SHHis' FanFest? Can it be said that this was a performance created so Nichika Nanakusa could sing a single note?"""
 5007002090140,社長,……自己評価項目には目を通した,I looked over the self-assessment you turned in regarding FanFest.
 0000000000000,プロデューサー,……はい,...Yes.
 5007002090150,社長,低いな,You rated yourself quite low.
 0000000000000,雑誌質問,"『七草さんのイメージを塗り替える舞台でしたね
-今後こういったところに力を入れていくんですか？』","""This performance reinvented the image of Nichika Nanakusa. Can we expect to see more of this in the future?"""
+今後こういったところに力を入れていくんですか？』","""This performance reinvented the image of Nichika Nanakusa. Can we expect to see more of this from her in the future?"""
 0000000000000,プロデューサー,"────何かを変えたいって思いながら
 なんの成果も出せていないと……感じることも多くて","I kept thinking I wanted to change how I was going about it, and I often felt like... I wasn't getting any results either."
 5007002090160,社長,"……
@@ -67,7 +73,7 @@ What is it that I meant, by results?"
 何かがずっと……違ったままなのは","...I know this much, though.
 The entire time... I'd been doing something wrong."
 5007002090190,社長,"……次で出せ
-協和する音を","...Next time, I want you to show me a perfect harmony. "
+協和する音を","...Next time, I want a perfect harmony. "
 0000000000000,雑誌記事,"『ダンサーとして磨きがかかる緋田が空間を作り出し
 七草が一音を投じる瞬間を演出した』","""While Mikoto Aketa set the stage with her polished skills as a dancer, Nichika Nanakusa stole the show as she sang only a single note."""
 5007002090200,ルカ,"──────…………

@@ -4,8 +4,8 @@ id,name,text,trans
 …………────────"
 5007002010020,ルカ,"──────…………
 あー…………────────","──────...
-Aaah...────────"
-5007002010030,ルカ,あぁぁ……あ────────────！,Auaaah... Augh──────！
+Aaaaa...────────"
+5007002010030,ルカ,あぁぁ……あ────────────！,Aaaaaa... Aaa──────！
 5007002010040,ルカ,黙れ,Shut up.
 5007002010050,ルカ,"黙れって
 黙れ","Just shut up.
@@ -34,11 +34,13 @@ Shut the hell up."
 今回はちょっと少ないんです────","Oh, it should...! 
 It's true that it's not too many this time."
 5007002010130,にちか,"……うーわー。なんかそういうジェネレーションギャップ
-笑ってくみたいの生産性なくないですかー！",...Sheesh. Isn't taking cheap shots at me for being a zoomer kinda counterproductive?
+笑ってくみたいの生産性なくないですかー！",...Sheesh. Isn't taking cheap shots at me for being Gen Z kinda counterproductive?
 0000000000000,お笑い,"おっ、きたぁ
-にちかのご意見タイムー。もっと生意気なのほしいっす！","Oh shoot, here it comes! Nichika's Opinion Time! C'mon now, I know you can get even cheekier!"
+にちかのご意見タイムー。もっと生意気なのほしいっす！","Oh shoot, here it comes! Nichika's Opinion Time!
+C'mon now, I know you can get even cheekier!"
 5007002010140,にちか,"わー、ご意見とか言ってマウント取るタイプー
-そういうのもっと生産性ないって思いませんかねー？","Wooow, so now you're pitching jabs at me just for stating my opinion? That's even more counterproductive. "
+そういうのもっと生産性ないって思いませんかねー？","Wooow, so now you're pitching jabs at me just for stating my opinion
+That's even more counterproductive. "
 0000000000000,お笑い,なんだとー！　やるかー？,What was that!? You wanna go!?
 5007002010150,にちか,"やりませんけどーー
 ────べーっ","No way.
@@ -49,7 +51,7 @@ It's true that it's not too many this time."
 0000000000000,CDショップスタッフ,でも私、すごくすごく嬉しいんです……！,"But even still, I'm so thrilled that you were able to come by...!"
 0000000000000,CDショップスタッフ,"緋田さんのこと、実は前の事務所の時から応援していて……
 こんな丁寧に書いていただけたら、CDだって喜んでます","I've been a fan of yours since before you switched agencies, you see... And I'm sure it made the CDs happy too, to be autographed with such great care."
-5007002010170,美琴,……それじゃあ、もう一枚,"...In that case, I think there's one more CD I need to sign."
+5007002010170,美琴,……それじゃあ、もう一枚,"...In that case, I think there's one more CD that I need to sign."
 0000000000000,お笑い,ちょ、このクソガキ指導してきていいです！？,"Um, anyone mind if I give this brat a little discipline!? "
 0000000000000,番組司会者,"はははっ、ちょっとやめて～！
 このケンカいつも楽屋まで引っ張るんだもんさぁ～","Hahaha, pull it back you two～! If you don't stop them now, these fights get taken all the way back to the green room～"
@@ -87,7 +89,7 @@ But thank you very much!"
 5007002010260,美琴,──────うん……,──────Mm...
 5007002010270,美琴,いいホール,This concert hall should work.
 0000000000000,美琴,"『ホールの下見、ひとりで行けるから大丈夫
-今の現場が早く終わったの』","""My previous job finished up early, so I'm heading to scope out the concert hall on my own."""
+今の現場が早く終わったの』","""My current job finished early, so I'm heading over to scope out the concert hall on my own."""
 0000000000000,プロデューサー,"はは、いや────
 『待っててくれるか。俺も行くよ』","Haha, of course. ""Do you mind waiting there for me? I'd like to take a look at it as well."""
 0000000000000,プロデューサー,"────感謝祭の会場なんだ
@@ -95,7 +97,7 @@ But thank you very much!"
 5007002010290,にちか,"────一緒にネタ……いいですねー！
 次もよろしくお願いしまーす！","───Thinking up gags together...? I'd love to!
 I'll see you next show, then!"
-5007002010300,ルカ,ぁぁ────────,ahhh──────
+5007002010300,ルカ,ぁぁ────────,aaaaa──────
 5007002010310,にちか,……あーあ──────,...Aaahhh──────
 5007002010320,美琴,アー────────,AAAAAH──────
 info,produce_events/500700201.json,

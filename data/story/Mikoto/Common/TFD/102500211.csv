@@ -1,0 +1,44 @@
+id,name,text,trans
+0000000000000,プロデューサー,──美琴,──Mikoto.
+0000000000000,プロデューサー,美琴ー！,Mikoto!
+1025002010010,美琴,…………,...
+1025002010020,美琴,"──あ……
+プロデューサー、来てたの？","──Ah...
+Producer, you stopped by?"
+0000000000000,プロデューサー,"ああ、練習の邪魔してすまん！
+伝えておきたいことがあって……","Yeah, I'm sorry for interrupting your practice!
+There's something I wanted to tell you..."
+1025002010030,美琴,…………？,...?
+0000000000000,プロデューサー,"急で悪いんだけど
+明日の朝、CDのサイン入れお願いしてもいいかな","I apologize for the short notice, but a record shop wanted to know if you could come by and autograph some CDs tomorrow morning. "
+0000000000000,プロデューサー,"ショップの中で書かせてもらえるって
+ことらしいんだけど……","They'd like you to do the signing at the shop itself, if that's alright..."
+1025002010040,美琴,明日…………,Tomorrow...
+1025002010050,美琴,"うん
+構わないけど","Sure.
+It's fine by me."
+0000000000000,プロデューサー,"そうか
+ありがとう","I see. 
+Thank you."
+0000000000000,プロデューサー,"午後は別件あるから、10時に店に行ってもらって……
+終わったらそのまま次に向かってくれ","You have that other commitment in the afternoon,
+so if you go to the record shop at 10 AM, then you
+can head straight there after you finish up. "
+1025002010060,美琴,"わかった
+わざわざ言いに来てくれてありがとう","Understood.
+Thanks for coming by just to tell me this."
+0000000000000,プロデューサー,"だって、練習中は連絡しても
+気が付かないだろ？　美琴","Well, if I tried to call or text you while you were
+practicing, I doubt that you would have noticed,
+Mikoto."
+1025002010070,美琴,……うん、ごめんね,...Yeah. Sorry about that.
+1025002010080,美琴,"それじゃあ、私はもう少し練習していくから
+……お疲れ様","Well, I'd like to keep on practicing a little more, so.
+...I'll see you later, then."
+0000000000000,プロデューサー,"え……！　いや、明日の朝に予定入れちゃったし
+今日はもう……","Eh...! But, you have something scheduled tomorrow
+morning now! Shouldn't you call it quits for today...?"
+1025002010090,美琴,……？,...?
+0000000000000,プロデューサー,………………,...
+info,produce_events/102500211.json,
+Translator,Belvera,
