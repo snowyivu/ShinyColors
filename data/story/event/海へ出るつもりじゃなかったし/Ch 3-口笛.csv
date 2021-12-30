@@ -1,0 +1,273 @@
+id,name,text,trans
+4001032040010,AB船員,風、こないね～……,The wind's not coming～...
+4001032040020,航海士,"……
+気圧計、高いしね","...
+The barometer reads high after all."
+4001032040030,ボーイ,"き、船長
+いつ、船を出せますか……！","C-Captain,
+when can we sail our boat...!"
+4001032040040,船長,んー……,Mn...
+4001032040050,船長,風さえ吹けば、いつでも,"If a wind blows, anytime."
+4001032040060,AB船員,でも、吹かないよ～？,"But there's no wind, you know～?"
+4001032040070,船長,……,…
+4001032040080,船長,それじゃ、呼ぼう,"Then, let's call it."
+4001032040090,航海士,……口笛で？,…By whistling?
+4001032040100,船長,"そう
+ほら、AB船員、ボーイ","Right.
+Come on, able-seaman, boy."
+0000000000000,船長,────♪,────♪
+4001032040120,ボーイ,"わ……！
+口笛で、来るの……？","Wah...!
+Will the wind blow if we whistle…?"
+4001032040130,AB船員,"あは～
+ほんと～？","Aha～
+Really～?"
+4001032040140,航海士,本当,Really.
+0000000000000,航海士,────♪,────♪
+4001032040160,ボーイ,ぴゅ、ぴゅー……！,"Pyu, pyuuu...!"
+4001032040170,AB船員,ぴゅ～！,Pyuu～!
+4001032040180,船長,"──航海士、すぐに風が来る
+追い風だ","──Mate, the wind will come soon.
+It's a tailwind."
+4001032040190,船長,ジャイブ、いくよ,Prepare to jibe.
+4001032040200,航海士,アイ・アイ・サー,"Aye aye, sir."
+4001032040210,AB船員,────わ……！,────Wow...!
+4001032040220,船長,風だ……！,It's the wind...!
+4001032040230,透,──────…………,──────…
+4001032040240,透,世界だ,The world.
+4001032040250,透,"────…………
+────","────…
+────"
+0000000000000,透の母,"そろそろ起きてきてー
+もうおせち、準備できてるのー","How about you wake up now?
+I've prepared the osechi."
+4001032040260,透,"──あ
+んー……","──Ah.
+Nn..."
+0000000000000,透の母,お雑煮、おもちいくつにするー？,And how many pieces of mochi in your zoni?
+4001032040270,透,"────ふぁ……
+２個ー","────Fwaa...
+2 pieces."
+0000000000000,透の母,はーい,Okaay.
+4001032040280,透,────,────
+4001032040290,透,"やば
+寝ちゃったか","Man.
+I fell asleep huh."
+0000000000000,透の母,"全然起きてこないんだもんー
+初詣、すぐに戻って来てたじゃない？","You wouldn't wake up at all.
+You came right home after the hatsumode, right?"
+4001032040300,透,"あ、うん
+ごめん","Ah, yeah.
+Sorry."
+4001032040310,透,"なんか、本読んでて
+帰ってきてから","I was reading a book.
+After I came back."
+0000000000000,透の母,なんのー？,About what?
+4001032040320,透,"昔の
+出てきた、押し入れから","An old one.
+It dropped out of my closet."
+0000000000000,透の母,"ふーん。お昼寝ててもいいけど
+お母さんたち、ちょっと出てくるからねー？","Hmm. It's fine to sleep in but
+mother and the rest are heading out for a bit, 
+alright?"
+4001032040330,透,んー,Nn.
+4001032040340,小糸,────あ,────Ah.
+4001032040350,小糸,新春テレビ特大号……,The new years' TV special catalog…
+0000000000000,小糸の妹,お母さん、もう帰るのー？,"Mom, are we going home now?"
+0000000000000,小糸の母,"ええ
+買い物は済んだでしょう？","Yes.
+We've gotten everything, haven’t we?"
+0000000000000,小糸の母,──小糸？,──Koito?
+4001032040360,小糸,"……え
+あ……！","...Eh.
+Ah...!"
+0000000000000,小糸の母,小糸も福袋、欲しいの？,"Koito, you want a lucky bag too?"
+4001032040370,小糸,"あ、ううん、大丈夫
+ちょっと雑誌のとこ見てただけ","Ah, no, it's okay.
+I was just looking at the magazines."
+0000000000000,小糸の妹,本屋さん寄るの？,How about we drop by the bookstore?
+4001032040380,小糸,"ううん
+表紙がちょっと気になっただけ","Nope, it's fine.
+I was just curious about the magazine cover."
+0000000000000,小糸の母,"そう？
+じゃあ行きましょうか","Is that so?
+How about we get going, then?"
+4001032040390,小糸,あ、うん……,"Ah, yep…"
+0000000000000,off,"『新春テレビ特大号
+アイドルバトル体育編！　前後編』","""New Years' TV Special Catalog:
+Idol Sports Battle! Part 1&2""."
+4001032040400,小糸,────あの番組だ……,────It's that TV program…
+4001032040410,小糸,"こんな有名なやつなんだ……
+────","It's that popular a TV program huh…
+────"
+4001032040420,円香,"──じゃ
+今回断るってチェインしないとね","──Then, we'll have to send a chain message on 
+rejecting the offer today."
+4001032040430,雛菜,"は～い
+小糸ちゃんパス～！","Okay～
+Do your best, Koito-chan～!"
+4001032040440,小糸,"……え、わ、わたしばっかり！
+だめだからね……！","...Eh? I-It's always me!
+I'm not taking that, okay…!"
+4001032040450,透,"そこをひとつ
+なんとか","Just this one thing,
+if you could, please."
+4001032040460,透,"頼りだから、
+小糸ちゃんが","You're dependable after all,
+Koito-chan."
+4001032040470,小糸,……！,...!
+4001032040480,小糸,"ま、まぁ……
+絶対だめってわけじゃ、ないけど……！","W-Well...
+I didn't say I absolutely wouldn't...!"
+4001032040490,雛菜,"へ～
+ほんとにいいの～？","Heh～
+Is that really okay～?"
+4001032040500,小糸,"み、みんなで文章考えるなら
+打ってもいいよ……！","If everyone chips in on the contents,
+I don’t mind sending it...!"
+4001032040510,円香,……,…
+4001032040520,円香,正論じゃない、浅倉,"Fair deal, right Asakura?"
+4001032040530,雛菜,あ～,Ah～
+4001032040540,透,ですねー……,I thought so...
+0000000000000,小糸の母,"小糸？
+行くわよー？","Koito?
+We're leaving, you know?"
+0000000000000,小糸の妹,"そんなに欲しかったなら
+本屋さん寄ればよかったのに","We should have just dropped by the bookstore
+if you really wanted it."
+4001032040550,小糸,"あ……ううん
+大丈夫……！","Ah...no.
+It's okay...!"
+0000000000000,円香の父,"──円香
+どこか出るのか","──Madoka.
+Going out?"
+4001032040560,円香,年賀状出しに,Dropping some new year cards at the post box.
+0000000000000,円香の父,"あれ……？
+俺のだけだったと思ったけどな","Huh...?
+I thought I was the only one sending any."
+4001032040570,円香,"そうだけど
+頼まれたから","You're right.
+I've been asked to do so."
+0000000000000,円香の父,待ってれば車出すよ,"Wait for a little, I'll get the car ready."
+4001032040580,円香,"いい、洗ったばっかりでしょ
+散歩ついでに行ってくるから","It's fine. You just washed it after all.
+I'll drop them while on my walk."
+0000000000000,円香の父,"そうか
+透ちゃんもさっき出てったぞ","I see.
+I think Toru-chan went out earlier too."
+4001032040590,円香,ふうん,Hmmm.
+4001032040600,円香,暇なんじゃない,"Probably because she's free, isn't it."
+4001032040610,円香,じゃ、いってくる,I better get going then.
+4001032040620,円香,────,────
+4001032040630,小糸,え、ええと……,U-Uhm...
+4001032040640,小糸,"『プロデューサーさん
+お待たせしました』","""Producer, sorry for the wait."""
+4001032040650,小糸,"──お、お待たせしました、でいいんだよね……！
+変じゃないよね……！","──""S-Sorry for the wait"" sounds fine, right...?
+It's not weird, is it...!"
+4001032040660,雛菜,いいよ～,It's fine～
+4001032040670,円香,期限守ってるから、待たせてないけどね,"We're replying within the given period, 
+so we're not really making him wait for anything."
+4001032040680,小糸,"う、うん
+じゃあ──","R-Right.
+So──"
+4001032040690,小糸,"『お仕事の件ですが
+今回はNGです』","""About the offer,
+this time it's NG."""
+4001032040700,小糸,"こ、これもいいかな……？
+ちょっと上からって感じ、しない……？","H-How about this...?
+Doesn't it sound like we're above him, somehow…?"
+4001032040710,透,"んー……
+上から？","Hmm...
+Above him?"
+4001032040720,雛菜,"あ～……
+お仕事って、どっちが上～？","Ah～...
+Who's supposed to be above again～?"
+4001032040730,透,んー……,Hmm...
+4001032040740,円香,"頼む方が下じゃない
+知らないけど","The one asking for favors is the one below, right?
+Not that I know anyway."
+4001032040750,透,じゃあ、いっか,"Then, all good."
+4001032040760,小糸,"で、でも、お仕事くれる人には
+感謝してないと────……","B-But, we have to thank the ones
+who give us jobs────..."
+4001032040770,雛菜,"ん～……ね、
+NGってどういう意味だっけ～？","Hm～
+...Hey, what does 'NG' mean again～?"
+4001032040771,一同,……,…
+4001032040780,円香,そこが変なんじゃない？,Isn't it that part that sounds weird?
+4001032040790,小糸,"そ、そっか！
+どうしよう……？","Y-You're right!
+What should we do...?"
+4001032040800,透,あ、わかった,"Ah, I got it."
+4001032040810,透,"バーン……！
+『今回はお断りします』","Bam...!
+""We'll decline this time."""
+4001032040820,雛菜,お～！,Oh～!
+4001032040830,円香,それ、もうちょっと丁寧な感じで,"That, with a hint of politeness."
+4001032040840,小糸,"……あ
+じゃあ、はい……！","...Ah.
+Then, this...!"
+4001032040850,雛菜,はい、小糸ちゃん～,"Go ahead, Koito-chan～"
+4001032040860,小糸,"えっと、
+『今回はお断りしたいと思います』は……？","Um, how's ""We'd like to politely decline the offer 
+this time."" sound?"
+4001032040870,透,バーン！,Bam!
+4001032040880,円香,いいんじゃない,Sounds good to me.
+4001032040890,雛菜,"あは～
+決定～","Aha～
+It's decided～"
+4001032040900,小糸,"や、やった……！
+それじゃ、打つね────","Y-Yay...!
+Okay, I'm going to type it────"
+4001032040910,小糸,"お断り……したいと……
+思い……ます────","We'd like...to politely...
+decline the offer...this time────"
+4001032040920,雛菜,ん～,Mn～
+4001032040930,雛菜,"文章打つだけなのに
+上とか下とか大変だね～","It's tough when you gotta think about 
+who's above or below when it's just some text, huh～"
+4001032040940,円香,────,────
+0000000000000,小糸の母,"──あ、荷物先に降ろすわね
+小糸も手伝ってくれる？","──Ah, I'll be putting the things at the back first.
+Will you give me a hand, Koito?"
+4001032040950,小糸,"……え？
+あ、うん……！","...Eh?
+Ah, okay...!"
+4001032040960,透,──あ、レスきた,"──Ah, a reply."
+4001032040970,雛菜,"プロデューサー
+早い～",Producer responds really quickly～
+0000000000000,プロデューサー,"『ありがとな、みんな
+早めに答えてくれて助かった』","""Thank you everyone.
+I appreciate your swift response."""
+0000000000000,プロデューサー,"『今回は俺も仕方ないと思うし、結論に賛成だ
+けれど、これからも同じようなケースは出てくる』","""I, too, feel that it was too sudden a request, 
+and I'm onboard with the answer you all gave.
+However, in future cases like these,"""
+0000000000000,プロデューサー,"『やりたいから、やりたくないから
+っていう理由は、仕事を選ぶ上でとても大事だけど』","""I'd like you all to prioritize work over your personal 
+reasons when deciding whether to accept an offer 
+or not."""
+0000000000000,プロデューサー,"『みんなでどうなりたいか、ってことも
+少しずつ考えながら、選んでみてくれると嬉しい』","""I'd appreciate if you all give some thought into 
+factors like the kind of idol you want to be when 
+choosing offers."""
+0000000000000,off,『既読4』,(4 read).
+0000000000000,プロデューサー,"『あ、返事はいいぞ
+いい年にしよう』","""Ah, your response was fine by the way.
+Let's have a good year."""
+4001032040980,透,『はい』,"""Noted."""
+4001032040990,円香,『はい』,"""Noted."""
+4001032041000,小糸,『はい』,"""Noted."""
+4001032041010,雛菜,『は～い』,"""Noted～"""
+4001032041020,小糸,"みんなは、
+どうなりたいんだろう────","I wonder, what kind of idol 
+does everyone want to be────"
+4001032041030,円香,……,…
+4001032041040,円香,……いい天気,...Such fine weather.
+4001032041050,円香,"暇だね
+浅倉","It's boring, isn't it,
+Asakura."
+4001032041060,off,ふぁ────,Fwaa────
+info,game_event_communications/400103204.json,
+Translator,,

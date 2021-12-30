@@ -1,0 +1,26 @@
+id,name,text,trans
+6020003010010,透,ねぇ,Hey.
+6020003010020,透,勝ったらさ、すごい？,"If I win, amazing?"
+0000000000000,プロデューサー,"そりゃあ、うん
+すごいよ","Well, yeah.
+It'll be amazing.
+"
+6020003010030,透,"……あー
+じゃなくって、なんだろ。偉い？","...Ah.
+Not that. Like, admirable?
+"
+0000000000000,プロデューサー,"え？
+勝ったらか","Eh?
+If you win?
+"
+6020003010040,透,うん,Yeah.
+0000000000000,プロデューサー,"……偉い、と思うよ
+それだけが偉さってわけじゃないけど","...It's admirable.
+No matter if you win or not, though."
+6020003010050,透,"……あー
+んーと────","...Ah.
+Hmm────"
+6020003010060,透,────いいや、行ってくるね,────Nevermind. I'll go now.
+0000000000000,プロデューサー,────透……,────Toru...
+info,produce_events/602000301.json,
+Translator,Ruru,

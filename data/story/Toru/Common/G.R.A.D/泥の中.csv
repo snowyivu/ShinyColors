@@ -1,0 +1,90 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──そう、焦点合わせて……
+安物だけどさ、ちゃんとミジンコくらいは見え────","──Yeah, just adjust the focus...
+It's a cheap model, but you should at least see the
+water fleas────"
+1020003090010,透,────あっ,────Ah.
+0000000000000,プロデューサー,見えたか！,Did you see it?
+1020003090020,透,"あー……
+違った、なんか。ゴミ","Ah...
+Nah. Something else. Trash, probably."
+1020003090030,透,"ダメなんじゃないですかー
+安い顕微鏡じゃ",Maybe this cheap microscope doesn't work.
+0000000000000,プロデューサー,"……諦めないことが大事だ
+俺が代わる────","...It's important not to give up.
+Let me try────"
+1020003090040,透,"あーダメ
+やるから","Aah, nah.
+I'll do it."
+0000000000000,プロデューサー,"────先生、ありがとうございました
+ええ、いったん区切りということで。またいずれ……","────Thank you very much, instructor.
+Yes, she's taking a short break. We'll see you again..."
+0000000000000,プロデューサー,"……あはは、ええ……
+あれから、むしろ仕事も落ち着いてしまって────","...Ahaha, yeah...
+Things have been rather calm ever since────"
+0000000000000,プロデューサー,"────ははは、そう簡単にはいかないみたいです
+おこぼれの注目でしたから……はい","────Hahaha, it doesn't seem to be that easy.
+We were just taking advantage of the hype... Yes."
+0000000000000,プロデューサー,でも────,But────
+1020003090050,透,"────あ……
+いた","────Ah...
+There."
+0000000000000,プロデューサー,"おっ、本当か
+どんなだ────？","Oh, really?
+How is it────?"
+1020003090060,透,────────,────────
+0000000000000,プロデューサー,"つかみましたから
+100周、走って",She's set on running 100 laps.
+1020003090070,透,心臓,A heart.
+0000000000000,プロデューサー,彼女は、彼女の心を,Because she found her own heart.
+1020003090080,透,"ある、心臓
+心臓ある","There's a heart. 
+A real heart."
+1020003090090,透,"どきどきしてる
+すごい……めっちゃ","It's going ba-dump, ba-dump.
+Again... and again.."
+0000000000000,映像ディレクター,────いいですね、すごく,────Asakura-kun is a natural at this.
+0000000000000,映像ディレクター,"浅倉くんがカメラを向くと、
+カメラが息をし始めるんですよ……忘れてたみたいにね","Whenever she turns to the camera,
+the camera just starts breathing... as if it has been
+forgetting to do so."
+1020003090100,透,どきどきする,I can hear the ba-dump.
+1020003090110,透,"めっちゃ動いてる
+めっちゃ……","It's beating so much.
+So, so much..."
+0000000000000,映像ディレクター,"そういう存在がいるんです
+全部のんじゃう、全部のんで輝く────","She's an existence that swallows and absorbs
+everything to shine────"
+1020003090120,透,生きてる,It's alive.
+0000000000000,映像ディレクター,────捕食者が,────A predator.
+0000000000000,委員長,"湿地で、最初の動物なの
+ミジンコって","The first animals of the wetlands,
+are water fleas."
+0000000000000,クラス委員,"イエーイ！！
+発表、お疲れ様でしたー！！","Yaaaay!!
+We did it, guys!!"
+0000000000000,クラスメイト１,"────みんな、すっごいよかったよー！
+お疲れ様！　委員長も、イエーイ！","────That was great, everyone!
+Good job! Come on, class prez!"
+0000000000000,クラスメイト２,４組金賞、イエーイ！！,"First place for Class 4, congrats!!"
+0000000000000,委員長,"うん、イエーイ！
+────あ。あの、浅倉さん…………！","Yeah, we did it!
+────Ah. Um, Asakura-san...!"
+0000000000000,委員長,"────
+ありがとう、読んでくれて","────
+Thank you for narrating."
+1020003090130,透,"……いいや、私
+どんな形したのが、私って思われても","...I think, 
+no matter what body I was born into,"
+1020003090140,透,"どきどきしたい
+ミジンコみたいに","I'd like my heart to go ba-dump,
+just like the water flea."
+1020003090150,透,嬉しい,I'm happy
+1020003090160,透,"そうやって、命のひとつになって────
+いつか誰かが、食べてくれたら","to become such living being────
+And one day, when it's my turn to eat someone,"
+1020003090170,透,そういうところにいたい,where I want to be
+1020003090180,透,泥の中に,is deep in the mud.
+1020003090190,透,プロデューサー,Producer.
+info,produce_events/102000309.json,
+Translator,Ruru,

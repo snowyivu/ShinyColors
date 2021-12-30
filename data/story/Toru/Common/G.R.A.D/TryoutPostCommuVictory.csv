@@ -1,0 +1,22 @@
+id,name,text,trans
+0000000000000,プロデューサー,"やったな、透！
+お客さんもみんな引き込まれて────","You did it, Toru!
+The audience was so into it────"
+6020003020010,透,ねぇ、偉い？,"Admirable, right?"
+0000000000000,プロデューサー,"────ええと……
+うん。偉いぞ","────Uh...
+Yes. It's admirable."
+6020003020020,透,"────
+じゃ……すごい？","────
+Then... amazing?"
+0000000000000,プロデューサー,"……すごいよ
+聞こえてただろ？　歓声","...It is amazing.
+Didn't you hear all those cheerings?"
+6020003020030,透,頑張った？,Did my best?
+0000000000000,プロデューサー,"──────
+頑張ったよ、透","──────
+You did your best, Toru."
+6020003020040,透,────……いっか、じゃあ,"────......'kay, then."
+6020003020050,透,帰ろ,Let's go.
+info,produce_events/602000302.json,
+Translator,Ruru,

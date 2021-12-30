@@ -1,0 +1,29 @@
+id,name,text,trans
+6020003030010,透,"──朝からだっけ
+明日って","──Tomorrow.
+From morning?"
+0000000000000,プロデューサー,"え？　あぁ……
+悪いな、オフにできなくて","Eh? Yeah...
+Sorry, I wish I could give you a break."
+6020003030020,透,ううん,It's fine.
+0000000000000,プロデューサー,"透、その……
+結果のことはいいんだ","Hey, Toru...
+Don't worry too much about the result."
+6020003030030,透,"……あー
+ごめん。なんか","...Ah.
+Sorry, but."
+6020003030040,透,減る？　仕事,Won't I get fewer offers?
+0000000000000,プロデューサー,"……透が、たくさん仕事をしたいなら
+頑張って取ってくるよ、どんな時だって","...If you want lots of work to do,
+I'll do my best to get them, no matter what."
+6020003030050,透,……ふふっ,...Hehe.
+6020003030060,透,かっこいい,You're pretty cool.
+0000000000000,プロデューサー,"……
+いや────","......
+Uh────"
+6020003030070,透,"つられる
+プロデューサーに","I'm caught,
+by Producer."
+6020003030080,透,────持ってきてよ、仕事,────Bring it to me. Work.
+info,produce_events/602000303.json,
+Translator,Ruru,

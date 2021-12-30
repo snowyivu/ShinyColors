@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お疲れ様
+帰ろうか","Good job out there.
+Shall we go?"
+6020003100010,透,うん,Mhm.
+0000000000000,プロデューサー,"どうだった
+今日は",How was today?
+6020003100020,透,"ふふっ
+頑張った","Hehe.
+Did my best."
+0000000000000,プロデューサー,"はは、うん
+頑張ってた","Haha. Yeah.
+You did your best."
+0000000000000,プロデューサー,"────勝ったら偉いかって
+聞いてたよな……前に","────You asked me before,
+whether it's admirable if you won."
+0000000000000,プロデューサー,負けたけど偉いよ、透,"You're admirable even if you lost, Toru."
+6020003100030,透,"……
+おー。褒められた","......
+Ooh. I got a compliment."
+0000000000000,プロデューサー,"うん。偉い時は、
+勝つとか負けるとか関係ない時なんだって────","Yes. It takes an admirable person to say winning or
+losing doesn't change a thing."
+0000000000000,プロデューサー,"そんなふうに言えればよかったんだ
+俺も",I'm glad that I'm able to tell you so.
+6020003100040,透,"────ふふっ
+頑張ってるねー。プロデューサーも","────Hehe.
+You're working hard. Producer."
+0000000000000,プロデューサー,おう、頑張ってるよ,Yeah. I am.
+0000000000000,プロデューサー,"だから……
+頑張ろうな、一緒に","So...
+Let's do our best, together."
+info,produce_events/602000310.json,
+Translator,Ruru,

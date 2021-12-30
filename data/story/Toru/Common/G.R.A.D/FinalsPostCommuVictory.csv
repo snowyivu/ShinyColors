@@ -1,0 +1,25 @@
+id,name,text,trans
+6020003080010,透,よーし……,Okaay...
+6020003080020,透,じゃ、行こ,Let's go.
+0000000000000,プロデューサー,え？,Eh?
+6020003080030,透,河原,To the riverbed.
+0000000000000,プロデューサー,えっ、今からか……！？,"Uh, right now...!?"
+6020003080040,透,"え、うん
+言ったじゃん、朝","Eh. Yeah.
+I said so. This morning."
+0000000000000,プロデューサー,"あ、あぁ……
+今日のことだったのか、あれ","O-Oh...
+I didn't think that was the plan for today."
+6020003080050,透,"あと10周
+もうちょっと",Only 10 more laps.
+0000000000000,プロデューサー,────うん,────Yeah.
+0000000000000,プロデューサー,透……,Toru...
+6020003080060,透,え？,Eh?
+0000000000000,プロデューサー,"頑張れてるぞ、透
+透は頑張ってる","You're working hard, Toru.
+You're doing your best."
+6020003080070,透,うん,Mhm.
+6020003080080,透,わかるよ、たぶん,I think I'll know.
+6020003080090,透,あと10周で,After 10 more laps.
+info,produce_events/602000308.json,
+Translator,Ruru,

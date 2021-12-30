@@ -1,0 +1,135 @@
+id,name,text,trans
+0000000000000,プロデューサー,"────これ、
+挑戦してみないか、小糸","──Why don't we give this a try, 
+Koito?"
+2022006020010,小糸,……？,...?
+0000000000000,プロデューサー,"小糸の得意なことが、
+活かせるんじゃないかと思うんだ","I think this fits right in with 
+what you're good at."
+0000000000000,プロデューサー,もちろん、無理にとは言わないんだけど……,"But of course, I won't force you!"
+2022006020020,小糸,……『高校生クエッション』……,...“The High-Schooler's Quiz”...
+2022006020030,小糸,"これ、クイズ番組ですよね？
+見たことあります、テレビでやってるやつ……","This is the title of that quiz game show, right? 
+I've seen it on TV before..."
+2022006020040,小糸,……これに出場するってことですか？,"...Do you mean, I'd be competing in this? "
+0000000000000,プロデューサー,"ああ、そうだ！　地上波の番組だし
+もしも出られればそれだけですごいことだよ","That's exactly it! 
+It's a cable show so if we took part... it'd be a good opportunity."
+2022006020050,小糸,…………！,……!
+2022006020060,小糸,"で、でも、これって確か３人くらいで
+チームを組むんじゃなかったですか？","B-But, if I remember right, 
+aren't you supposed to compete in teams of 3...? "
+2022006020070,小糸,色々な高校の、クイズ部の子とかが……,"With kids from other high schools, all quiz club members..."
+0000000000000,プロデューサー,"ああ、番組には一般人の現役高校生たちも
+出演するよ","That's right, 
+students from various public high schools will also be attending."
+2022006020080,小糸,"透ちゃんとか円香ちゃんとか
+雛菜ちゃんと出る……ってこと、ですかね……？","So you mean...Toru-chan, Madoka-chan, or Hinana-chan 
+would be coming on with me...right?"
+2022006020090,小糸,チームとして……？,As a team...?
+0000000000000,プロデューサー,"ああ、いや！
+違うよ","Ah, 
+not quite!"
+0000000000000,プロデューサー,それは『高校生チーム』の方だろ？,That'd be if you were on the High Schooler team!
+2022006020100,小糸,え……？,Huh...?
+0000000000000,プロデューサー,小糸はこっちの『芸能人チーム』の方だよ,"You'd be on the Celebrity Team, Koito!"
+2022006020110,小糸,げ、『芸能人チーム』……！,T-The Celebrity Team...!
+0000000000000,プロデューサー,"固定の解答者ゲスト何人かは
+もう決まってるらしいんだけどさ","It seems there's a team of fixed players 
+that have already been decided."
+0000000000000,プロデューサー,"毎回、何人かは番組の事前試験で
+上位の人が出られる枠があるらしいんだ","But before the show, different contestants take a test. 
+Only the top performers get to participate."
+0000000000000,プロデューサー,"ペーパーテスト形式の番組オーディションって
+ところだな！","The audition is a written test, an application you fill out on paper...
+that's about it!"
+2022006020120,小糸,…………！,......!
+0000000000000,プロデューサー,"試験の範囲は義務教育で習うことの応用と雑学……
+って感じらしい","The tests cover things you already learn as part of 
+your mandatory school syllabus… is what I've heard."
+0000000000000,プロデューサー,"一般常識的な知識と、
+ひらめきの力が必要……みたいだな","You need to be good at general knowledge 
+and be an intuitive thinker..."
+0000000000000,プロデューサー,"これに向けて対策するってなると
+学校とか他のレッスンもあるしかなり大変だと思うけど","I know it'll be hard to prepare for something like this on top of 
+regular school work and lessons,"
+0000000000000,プロデューサー,それでも──……,But still I─...
+2022006020130,小糸,やります……！,I'll do it...!
+0000000000000,プロデューサー,…………！,......!
+2022006020140,小糸,"わたし、それ
+やりたいです……！","I..., 
+I really want to take part...!"
+0000000000000,プロデューサー,……うん,...I see.
+select,,そう言うと思ったよ,I thought you might.
+select,,"すぐ決めなくて
+いいんだぞ？","You don't have to decide right away, 
+you know?"
+select,,"やるからには
+優勝目指そう！","If we do this, 
+let's aim to win!"
+0000000000000,プロデューサー,だからほら……,So I thought...
+2022006020150,小糸,ぴぇ…………！,Pyeh…!
+0000000000000,プロデューサー,"参考になりそうなクイズの本
+集めてみたんだ……！","...some quiz books might be helpful. 
+I've been collecting them...!"
+2022006020160,小糸,す、すごいですね……！,W-Woah...!
+0000000000000,プロデューサー,"好きなもの、持っていってくれ
+俺も一緒に勉強して対策できればと思うんだ","If there's anything you like, feel free to take them home. 
+If only I could study along with you..."
+2022006020170,小糸,"あ、ありがとうございます
+プロデューサーさん","T-Thank you so much, 
+Producer-san."
+2022006020180,小糸,………………,......
+0000000000000,プロデューサー,"どうだ？
+できそうか？","What do you think? 
+Is it doable? "
+2022006020190,小糸,"……うん
+やります、わたし……","...Yeah...
+I'm going to do this...!"
+2022006020200,小糸,出演してみせます……！,I'll show you I can do it...!
+0000000000000,プロデューサー,…………！,......!
+2022006020210,小糸,"だから、よろしくお願いします
+プロデューサーさん","So I look forward to working with you, 
+Producer-san."
+0000000000000,プロデューサー,悪い話では無いんだけどさ,"It's not a bad idea, however..."
+0000000000000,プロデューサー,"もしやるって決めたら
+小糸はすごく一生懸命取り組んでくれると思うから","I know that if you choose to, 
+there's no doubt you'll give it your very best, Koito."
+0000000000000,プロデューサー,"……だからこそ
+ゆっくり考えてみてほしい","...That's why, 
+I want you to take some time making your decision. "
+2022006020220,小糸,………………,......
+2022006020230,小糸,"明日になっても、きっと
+気持ちは変わってないと思います","Even by the time tomorrow comes, 
+I won't change my mind."
+0000000000000,プロデューサー,……そうか,...I see.
+2022006020240,小糸,"だから、また明日も同じ様に
+お返事しにきます……！","That's why, I'll give you the exact same 
+response tomorrow...!"
+2022006020250,小糸,"わたし、それ
+やりたいです……って……！","To show you 
+how much I want to do this...!"
+2022006020260,小糸,"優勝って、出演して、さらに
+その中で一番……ってことですか……？","Winning as in...the show, and performance within your team? 
+Like...the best of them all...?"
+0000000000000,プロデューサー,ああ、もちろん！,"Well, of course!"
+0000000000000,プロデューサー,"そのくらいの気持ちが無いと
+出演だって難しいかもしれない","If you don't go into it with that kind of spirit, 
+it might be more difficult."
+0000000000000,プロデューサー,それでも、できそうか？,"That said, can you do it?"
+2022006020270,小糸,…………！,……!
+2022006020280,小糸,"も、もちろんですよ……！
+当たり前じゃないですか","O-Of course I can...!
+Isn't that obvious?"
+2022006020290,小糸,"そのくらい、全然
+よゆーなんですから……！","This much is no problem for me! 
+It's perfectly fine...!"
+0000000000000,プロデューサー,"はは、そうか
+余裕か","Hahaha.
+Perfectly fine, huh?"
+0000000000000,プロデューサー,"うん、その意気だ！
+頑張ろうな","That's the spirit! 
+Let's do our best,"
+0000000000000,プロデューサー,一緒に,together.
+info,produce_events/202200602.json,
+Translator,ema,

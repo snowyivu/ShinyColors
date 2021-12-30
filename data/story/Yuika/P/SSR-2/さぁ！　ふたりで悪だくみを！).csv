@@ -1,0 +1,111 @@
+id,name,text,trans
+0000000000000,プロデューサー,……さて結華、聞いてくれるか,"...Okay Yuika, I need you to hear me out."
+2007007030010,結華,"もちろんですとも！
+どしたの、プロデューサー？","Of course I will!
+What's up, Producer?"
+0000000000000,プロデューサー,……ここに、シュークリームが５つある,Inside this cake box... are five cream puffs.
+2007007030020,結華,"わぁ素敵！　
+その箱は新しくできた話題のお店のものでは！？","Oooh, how lovely!
+Aren't those from that hit new store that opened up?"
+0000000000000,プロデューサー,"ああそうだ。俺は今日のアンティーカの差し入れ用に、
+シュークリームを５つ買ったんだ","That would be correct. I brought these cream puffs
+with me as an offering for L'Antica today."
+2007007030030,結華,ふんふん、それはありがとうございます,"Funfun, why thank you for that."
+0000000000000,プロデューサー,──……ただな,──But here's the thing...
+2007007030040,結華,？　ただ？,Hmm? The thing?
+0000000000000,プロデューサー,"開店キャンペーンで、くじをやっていた
+それを引いた結果、俺は──","The store's opening campaign provided
+lottery tickets... And because of that I got──"
+2007007030050,結華,"！？
+ケーキボックスがもうひとつ……！？","!?
+Another cake box...!?"
+0000000000000,プロデューサー,"そう……！　追加のシュークリームをふたつ、
+手に入れてしまったんだ……！","Exactly! I've managed to procure not one, but TWO
+additional cream puffs in this box!"
+2007007030060,結華,……なんてことでしょう……！！,Shuuut! Up...!
+2007007030070,結華,……それで？,...So what now?
+0000000000000,プロデューサー,はは、乗ってもらって悪いな,"Haha, as you see, I'm in quite a predicament."
+0000000000000,プロデューサー,"それで、だ
+分けられないわけだから、追加のふたつは余分だろ？","Of course there's no way to divide up seven creams
+puffs among five people... There'll be two extra, yes?"
+0000000000000,プロデューサー,"事務所にはまだ、結華と俺しかいない
+だから──","It's just you and me alone in this office, Yuika...
+Sooo..."
+2007007030080,結華,"三峰と悪いことがしたい──
+ってお誘い？","So you invite Mitsumine...
+...to be your accomplice to this crime?"
+0000000000000,プロデューサー,話が早くて助かるよ,Nice of you to catch on.
+0000000000000,プロデューサー,みんなが来る前に、ふたりで食べちゃわないか？,Shall we eat these up before everyone arrives?
+2007007030090,結華,"ふふっ、いいよぉ
+さーんせーい！","Heehee, I'm down.
+Let's. Get. Going!"
+2007007030100,結華,……でもプロデューサー、いけないんだぁ,"...But really, Producer, who would have thought
+you're that kind of guy."
+0000000000000,プロデューサー,"ははは、内緒で頼むぞ
+結華を見込んで話を持ちかけてるんだ","Haha, keep it under wraps.
+I bring it up because it's you, Yuika."
+2007007030110,結華,おおっ、言ってくれるじゃーん？,"Oooh, are you sure that's the true story?"
+2007007030120,結華,"たまたま事務所にいたのが三峰だったから、
+三峰に分けてくれてるだけのくせにー","Maybe you're sharing it with Mitsumine since
+Mitsumine's the only one here in the office."
+0000000000000,プロデューサー,いや、そうでもない,"Nah, not quite."
+0000000000000,プロデューサー,"──結華の言う通り、たまたま結華が事務所にいたから
+ふざけたってのも本当だけど","As you say, you just happen to be here...
+And yes, I may have been playing around... But..."
+0000000000000,プロデューサー,ここに結華がいなかったらふざけてもいなかった,...I only do it whenever you're here.
+0000000000000,プロデューサー,"──そういう意味では、
+最初から結華と食べるつもりだったんだからさ","So in other words... I had planned on eating
+these with you from the start."
+2007007030130,結華,お……,Oh...
+2007007030140,結華,……今の、ちょっとグッときたよプロデューサー,"Just now, I felt a tinge of excitement, Producer."
+0000000000000,プロデューサー,そうか？,Did you really?
+2007007030150,結華,そうとも！,You bet!
+2007007030160,結華,"早起きは三文の徳──じゃないけど、
+今日は早く来といてよかったなって感じ！","The early bird gets the worm as they way,
+and I'm glad to have dropped off early for dibs!"
+select,,"シュークリームは
+罪の味だもんな","This cream puff
+tastes of sin."
+select,,"こういうの、
+わくわくするしな","Doing this
+is a thrill."
+select,,"……まぁちょっと、
+罪悪感もあるけど","Maaaybe...
+I'm feeling
+a bit guilty..."
+0000000000000,プロデューサー,ふたつもあったらなおさらだ,Especially with two of them!
+2007007030170,結華,それもそうだけど──ふふっ,That's true but... Hehehe...
+0000000000000,プロデューサー,うん？,Hmm?
+2007007030180,結華,"特別扱いって、嬉しいものじゃん？
+三峰的には、いいなって思ったのはそっちの方かな","Wouldn't it be better to think of it as special
+treatment? Mitsumine would prefer it that way."
+2007007030190,結華,プロデューサーは三峰のこと──,Because it's nice to know that...
+2007007030200,結華,"一緒に悪だくみできるほど、
+息の合ったパートナーと思ってくれてるみたいだしね","...you would choose Mitsumine as your partner
+for something so naughty~"
+2007007030210,結華,"見つかっちゃうかもしれないスリル、
+難しいミッションを相棒とこなしていく高揚感──！","The thrill of avoiding being caught red-handed...!
+And the high from pulling off a mission with
+your partner-in-crime...! "
+2007007030220,結華,そしてご褒美の美味しいスイーツ！　ってね！,...Comes a sweet reward following a sweet victory!
+2007007030230,結華,"……ん～！　クリームたっぷりで最高～！
+秘密の味は甘くて美味しいなぁ","............
+Yum~! The cream's the best~! Eating this in secret
+makes it even more deliciously sweet!"
+0000000000000,プロデューサー,結華も悪だなぁ,"You're quit the villain, Yuika."
+2007007030240,結華,いいえー、Ｐたんほどでは！,"Not even! Not as much as you, P-tan!"
+2007007030250,結華,"あらら弱気！
+ダメだよー、そういうこと言ってるとよくないことが──","My my, what a wimp.
+That won't do. It's not good saying that──"
+2007007030251,結華＆プロデューサー,！,!
+2007007030260,結華,"ほら言わんこっちゃない！　誰か来ちゃった！
+はいはい早くたいらげて～！","Look! That's why you shouldn't have said it!
+Now someone's coming! Hurry! Quickly! Finish up!"
+0000000000000,プロデューサー,んむっ、んん、待っ──！,Mmph... Mm... Wai──!
+2007007030270,結華,あーもー、はみ出てるはみ出てる,"Hey hey, it's still there. It's still there!"
+2007007030280,結華,"こ・こ！　口元、クリームついてるよ
+証拠隠滅はちゃーんとお願いね、相棒さん？","Right... There! You still have cream on your mouth!
+Make sure you destroy the evidence next time...
+Okay? Paaartner?"
+info,produce_events/200700703.json,
+Translator,Lewdacriz,
