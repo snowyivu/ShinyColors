@@ -1,9 +1,10 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,53
-images/ui/common/parts.json_image,common_parts.png,35
-images/ui/my_page/parts.json_image,my_page.parts.png,34
-images/ui/fes/parts.json_image,fes_parts.png,32
-images/ui/mission/parts.json_image,mission_parts.png,21
+images/ui/common/parts.json_image,common_parts.png,36
+images/ui/my_page/parts.json_image,my_page.parts.png,35
+images/ui/fes/parts.json_image,fes_parts.png,33
+images/ui/mission/parts.json_image,mission_parts.png,22
+images/ui/gasha/parts.json_image,gasha_parts.png,16
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,11
 images/ui/present_box/parts.json_image,present_box_parts.png,9
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,8
@@ -139,7 +140,6 @@ images/tips/produce_skill_board/001.jpg,tutorial/produce_skill_board_001.jpg,9
 images/ui/work_activity_top/parts.json_image,work_activity_top.png,10
 images/ui/work_activity_result/parts.json_image,work_activity_result.png,6
 images/content/my_page/banner_border/event_notice.png,event_notice.png,3
-images/ui/gasha/parts.json_image,gasha_parts.png,15
 images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,5
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,6
 ae/work_activity_start/images/text_final.png,text_final.png,4
@@ -548,7 +548,7 @@ images/tips/fes/010.jpg,tutorial/fes_010.png,11
 images/tips/fes/011.jpg,tutorial/fes_011.png,11
 images/ui/concert/parts_ranking.json_image,ranking.png,3
 images/ui/common/parts_score_result.json_image,score_result.png,3
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,17
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,18
 images/tips/workActivity/001.jpg,tutorial/work_activity_001.png,4
 images/tips/workActivity/002.jpg,tutorial/work_activity_002.png,4
 images/tips/workActivity/003.jpg,tutorial/work_activity_003.png,4
@@ -764,3 +764,7 @@ images/content/idols/name/076df3f96b9893dc8f66f7f97334bf1d_1930200010.png,cards/
 images/content/idols/name/dd08313ababba9c41e48359888f30537_1930220010.png,cards/koito_p_r_2.png,3
 images/content/idols/name/d4eb89895c481bf985baf2e90bb59e31_1930230010.png,cards/hinana_p_r_2.png,3
 images/content/idols/name/a03a0f314e01ae8b8723b6711d4ac5d4_1930250010.png,cards/mikoto_p_r_2.png,2
+images/content/idols/name/c9a6148850dd58be92f7a85351798612_1940200010.png,cards/toru_p_r_3.png,3
+images/content/support_idols/name/d5fb53ced81c3434658a703d06b34b46_2040120050.png,cards/rinze_s_ssr_5.png,2
+images/content/idols/name/722a3bca7271ce52b7b6a5127f3d9190_1040070020.png,cards/yuika_p_ssr_2.png,3
+images/content/idols/name/d9b38a2981ee9a43f87d34a43a3d6dd0_1040220030.png,cards/koito_p_ssr_3.png,1
