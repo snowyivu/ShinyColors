@@ -1,5 +1,5 @@
 id,name,text,trans
-2007007110010,結華,…………,…………
+2007007110010,結華,…………,......
 2007007110020,結華,……三峰さぁ、虫がダメなの,...Did you know that Mitsumine can't stand bugs?
 0000000000000,プロデューサー,……うん？,...Hmm?
 2007007110030,結華,……虫,...Bugs.
@@ -8,8 +8,8 @@ id,name,text,trans
 someone's with me though..."
 2007007110050,結華,"ほんとはまわり飛ばれるだけで怖いし、
 あと、触りたくないから追い払えなくて、すごく困る","But it's freaky to see them buzzing around.
-I don't wanna touch them either, so it's
-a huge pain to get rid of them."
+I don't wanna touch them either, so it's a huge
+pain to get rid of them."
 0000000000000,プロデューサー,そうだったのか,That so?
 2007007110060,結華,……うん,...Yes.
 2007007110070,結華,"──それからね、誰かと一緒に買い物に行くのも、
@@ -25,7 +25,7 @@ make sure that I'm entertaining them."
 waiting for me to be done. So I have to rush myself..."
 2007007110100,結華,"色々考えてると疲れちゃって、
 買い物が楽しくなくなっちゃったりして──","It's draining to be considerate like that.
-It just takes all the fun out form shopping──"
+It just takes all the fun out from shopping──"
 0000000000000,プロデューサー,"それは──す、すまん……！
 今まで何度も付き合ってもらってるよな……！","Sorry! I-I didn't know...! I've had you accompany
 me on so many shopping trips too...!"
@@ -69,8 +69,9 @@ stick to them? Something like that."
 2007007110230,結華,あは、それはプロデューサーに言われたらやばいやつだねぇ,"Aha... Must be reeeally baad if you're saying
 that, Producer."
 2007007110240,結華,"……で、今みたいに自分勝手に話すくせして、
-最後まで踏み込めないように自分から一歩引いちゃうのとか","...I'm telling you this stuff now and putting it out
-there on my terms? Something like that."
+最後まで踏み込めないように自分から一歩引いちゃうのとか","...I'm telling you this stuff now and putting 
+it out there on my terms, so that you can't
+cross the line to find out for yourself..."
 2007007110250,結華,……ずるいなって、思うの,"...It's unfair of me, I think."
 0000000000000,プロデューサー,…………,......
 2007007110260,結華,……ね、もう踏み込めないでしょ？,"...Now then, there shouldn't be anything left
@@ -82,7 +83,7 @@ unfair at all telling me about your personal
 boundaries, Yuika."
 0000000000000,プロデューサー,むしろ、結華について教えてもらえて──,In fact... I appreciate you for telling me this.
 0000000000000,プロデューサー,"プロデューサーとして頼ってもらえてるって
-気持ちになれるから、嬉しいくらいだ","It shows me that you're willing to depend one me as
+気持ちになれるから、嬉しいくらいだ","It shows me that you're willing to depend on me as
 a producer. And that makes me especially happy."
 0000000000000,プロデューサー,だから少なくとも、俺に対してはずるくない,In the very least.. I don't think it's aggravating.
 2007007110280,結華,────,────
@@ -116,6 +117,6 @@ Besides, if it's you, Producer... Then it's fine."
 ever do the thing that she hates the most."
 2007007110390,結華,"だってプロデューサー、三峰のことよく見てくれてるもん
 ……だから、大丈夫","You've always been paying close attention to me...
-That's why... I don't need to saya it. It's fine."
+That's why... I don't need to say it. It's fine."
 info,produce_events/200700711.json,
 Translator,Lewdacriz,
