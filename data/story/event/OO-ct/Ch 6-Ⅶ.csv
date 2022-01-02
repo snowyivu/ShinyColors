@@ -1,0 +1,423 @@
+id,name,text,trans
+4001038070010,にちか,"大通りだなーって
+思って、見てた","""This really is the main street of the city,"" I thought,
+as I looked out my window."
+4001038070020,にちか,"通ったことない道、
+見たことないお店、看板、高速の入り口","Streets I've never traveled, shops I've never seen
+before. Billboards and highway access points."
+4001038070030,にちか,"自転車を追い抜く、
+誰かが大声を出してる",Someone shouting as they pass a person on a bicycle.
+4001038070040,にちか,"ここって、
+こんなところだったんだ","What I tend to only think of as ""here"" is actually...
+Such a lively place."
+4001038070050,美琴,"────
+トン、タ、タ……ウェーブ────","────
+Dun, da, da... wave────"
+4001038070060,美琴,"────そこ
+ウェーブのところ、リハでも少しもたついてた","────Right there.
+At the wave part, you're timing has been a bit slow.
+It was that way at the rehearsal, too. "
+4001038070070,にちか,"はい……！
+気を付けます……！","R-right...!
+I'll make sure to speed that up...!"
+4001038070080,美琴,もう一回いこう────,Let's try the routine one more time────
+0000000000000,レッスン場スタッフ,"すみませーん、お時間ですー
+申し訳ないでーす……","Excuse me, your reserved time is now over.
+We apologize for any inconvenience... "
+4001038070090,美琴,────あ……,────Oh...
+4001038070100,にちか,"すっ、すみません……
+私のせいで時間をとってしまって────！","I-I'm so sorry...
+All our practice time got used up by you helping me..."
+4001038070110,美琴,"それは仕方がないけど
+もう少し…………","That was inevitable.
+But I'd like to practice a little more..."
+4001038070120,にちか,は、はい……,Y-yes...
+4001038070130,にちか,"……どうしましょう
+事務所の倉庫とかなら────","...What should we do?
+We could practice in the office storage shed────"
+4001038070140,美琴,じゃあ、出ようか,"Why don't we head out, then."
+4001038070150,にちか,はいっ,Right.
+0000000000000,プロデューサー,"────それでは、今日はお騒がせいたしました
+どうぞ当日もよろしくお願いいたします","────In any case, I apologize for what a mess
+I caused today. I would be humbled if you were still
+willing to work with us on the day of."
+0000000000000,現場監督,"あぁ、そんな恐縮していただかなくても……！
+ケガがなくてよかったですよ～","Oh, you don't need to act so ashamed...!
+We're just grateful that she wasn't injured～"
+0000000000000,舞台監督,"でも、シーズさんにはそれだけプライドを感じるからね
+きっちり作って魅せるんだっていう","SHHis have such a sense of pride in what they do.
+They want to create a performance that's flawless."
+0000000000000,プロデューサー,"そんなふうに言っていただけるのは、
+本当に光栄です",I'm honored that you would say that about them.
+0000000000000,現場監督,"まぁ、僕たちもぎりぎりまでよくなるように頑張るから
+何かあれば言ってくださいよ","Anyway, we're also pushing ourselves to the limit
+to pull this off, so if you need anything else from us,
+please don't hesitate to ask."
+0000000000000,プロデューサー,はい……！,I won't...!
+0000000000000,舞台監督,"あはは、また本番で今日みたいなことがあったら
+心臓もたないからね～！","Ahaha, by all means! After all, if something like today
+happened during the actual performance, I think my
+heart would stop～"
+4001038070160,美琴,────……,────...
+4001038070170,にちか,"……あれ？　あの……
+こっち曲がらなくて平気です……？","...Uh? Um...
+Are you sure we don't need to turn here...?"
+4001038070180,美琴,"……？
+タクシー拾うから、通りへ出ないと","...?
+We're going to catch a taxi, so we need to
+make our way over to the street."
+4001038070190,にちか,"えっ……
+じ、事務所までタクシーですか……！","Huh...?
+W-we're going to take a taxi just to go back to
+office...!?"
+4001038070200,美琴,"──あ……ううん
+事務所へは戻らないよ","──Ah... no.
+We aren't going back to the office."
+4001038070210,美琴,"無理でしょ？
+倉庫で練習なんて","I mean, that's ridiculous, isn't it?
+Trying to practice in the storage shed. "
+0000000000000,プロデューサー,"────
+戻りました……","────
+I'm back..."
+0000000000000,プロデューサー,……もう誰もいないか,...I guess everyone else has already gone home.
+4001038070220,にちか,"で、でも……！
+この間は────","B-but, wait...!
+Earlier, weren't you────"
+4001038070230,にちか,"────あ、えっと
+いえ……！","────Ah, um.
+Nevermind...!"
+4001038070240,美琴,……？,......?
+4001038070250,美琴,乗って,"Come on, get in."
+4001038070260,にちか,"……！
+は、はい……！","...!
+R-right...!"
+4001038070270,美琴,スタジオへ行くから,We're getting a ride to a studio.
+4001038070280,にちか,……,......
+4001038070290,美琴,……────,......────
+4001038070300,にちか,あ、あの────,U-um────
+4001038070310,にちか,────あ……なんでもないですー……,"────Ah... nevermind, it's nothing..."
+4001038070320,美琴,……,......
+4001038070330,にちか,"大通りだなーって
+思って、見てた","""This really is the main street of the city,"" I thought,
+as I looked out my window."
+4001038070340,にちか,"通ったことない道、
+見たことないお店、看板、高速の入り口","Streets I've never traveled, shops I've never seen
+before. Billboards and highway access points."
+0000000000000,タクシー運転手,"────お客さん、次の交差点左行きます？
+ナビだとまっすぐでもいけるんだけど","────Passengers, would you like me to turn left at
+the next intersection? The GPS says that going
+straight is also an option."
+4001038070350,にちか,"……あっ、すみません！
+ちょっと待ってください────","...Oh, pardon me!
+Give me just a moment, please────"
+4001038070360,にちか,"──あの、集中されてるところすみません！
+美琴さん……","──Um, I'm sorry to bother you when you're trying to
+focus! Mikoto-san..."
+4001038070370,にちか,"自転車を追い抜く、
+誰かが大声を出してる",Someone shouting as they pass a person on a bicycle.
+4001038070380,美琴,"────え、道……？
+じゃあ、まっすぐでお願いします","────Huh, which street to take...?
+Just go straight, please."
+0000000000000,タクシー運転手,はいよー,You got it.
+4001038070390,にちか,"……
+慣れてる道なんですね","...
+So you know the way there pretty well?"
+4001038070400,美琴,"……どうなんだろう
+多分、大丈夫じゃない？","...I'm not so sure.
+But in the end, does it really matter?"
+4001038070410,にちか,えっ,Eh?
+4001038070420,にちか,"白いシートの手触り、
+練習でも仕事でもない、なんでもない会話","The feel of the white seats beneath my hands.
+Conversations that aren't about practice, or work.
+Conversations about nothing in particular. "
+4001038070430,美琴,いつもは外なんて見ないし……,I never have time to pay any attention to the route...
+4001038070440,美琴,"でも、ナビが合っているなら、
+着くんじゃない？","But, as long as the GPS knows the way, we'll still get
+there, right? No matter which route we take."
+4001038070450,にちか,"あー……
+あはは……っ","Oh, yeah...
+Ahaha..."
+4001038070460,にちか,"ここって、
+こんな場所だったんだ","What I tend to only think of as ""here"" is actually...
+Such a lively place."
+4001038070470,にちか,"……
+綺麗……","......
+So beautiful..."
+4001038070480,はづき,お疲れ様です～……,Good evening～...
+0000000000000,プロデューサー,"あれ……はづきさん？
+忘れ物ですか","Huh... Hazuki-san?
+Did you forget something?"
+4001038070490,はづき,"あ、いえ～
+通りがかったら、灯りがついていたので～","Oh, no～
+I just had noticed that the lights were still on when
+I drove past～"
+0000000000000,プロデューサー,"ああ、すみません
+直帰予定だったんですけど────","Oh, I'm sorry for the confusion there.
+I had intended to go straight home, but────"
+0000000000000,プロデューサー,"リハでなんとなく興奮してしまって
+もう少し仕事片付けようかな、なんて……はは","The rehearsal left me feeling kind of antsy, so I
+thought I'd stop by and try to at least get some
+work done, I guess... Haha."
+4001038070500,はづき,あぁ、フェスですか～,"Oh, the rehearsal for the music festival, right～"
+0000000000000,プロデューサー,"ええ
+戻ってきたところです","Yeah.
+I just got back, actually."
+4001038070510,はづき,"それは、お疲れ様でした～
+──私も、配送物の整理だけしていこうかな～","Good on you for working so hard～
+──Maybe I should stay and get this mail sorted～"
+0000000000000,プロデューサー,"……あの、残られるようでしたら……
+ひとつ報告させてもらえませんか","...Um, if you're able to stay a while, then...
+There's something that I need to tell you."
+4001038070520,はづき,"……
+ええ、大丈夫ですよ～","...
+Yes, that's fine by me～"
+0000000000000,プロデューサー,"ありがとうございます
+……コーヒー、いれますね","Thank you very much.
+...I'll go make us some coffee."
+4001038070530,美琴,──こっち,──It's this way.
+4001038070540,にちか,あ、はい……！,"Oh, right...!"
+4001038070550,にちか,"地下……の
+スタジオなんですね……","So, it's... an underground studio, huh..."
+4001038070560,美琴,"そう
+どうぞ……扉、重いから","That's right.
+Go on in... This door is quite heavy."
+4001038070570,にちか,"は、はい……
+失礼します────！","Y-yes...
+Pardon the intrusion────!"
+4001038070580,にちか,──────わぁ……,──────Woah...
+4001038070590,にちか,機材がいっぱい……！,There's so much equipment in here...!
+4001038070600,にちか,"楽器も色々……
+雑誌とかDVDもめちゃめちゃ揃ってる……！","All kinds of musical instruments too...
+And a huge the collection of magazines and DVDs...!"
+4001038070610,美琴,"荷物、好きなところに置いて
+そんなに広くないけど、倉庫よりいいでしょ？","You can set your bag down where ever you like.
+It's not too spacious, but it's miles better than the
+storage shed, right?"
+4001038070620,にちか,あっ、はい……！,"Oh, for sure...!"
+4001038070630,にちか,"あれっ
+美琴さんのスウェットじゃないです、これ……？","Huh?
+Isn't that your sweatshirt lying there, Mikoto-san...?"
+4001038070640,美琴,そうだね、今日持って帰ろうかな,"It is, yeah. 
+I should probably take it back home with me today."
+4001038070650,美琴,さ、やろう,"Well then, let's get to it."
+4001038070660,はづき,"────ああ……
+それはご迷惑をおかけしました～……","────I see...
+She must have caused a lot of trouble for you～..."
+0000000000000,プロデューサー,いえ、そうじゃなくて……,"Oh no, that's not the case at all..."
+0000000000000,プロデューサー,"危うく、ケガをさせてしまうかもしれなかったんです
+俺のいたらないところで……申し訳ありません","She could have easily been injured, or worse.
+I wanted to apologize for allowing that to happen...
+due to my absence. "
+0000000000000,プロデューサー,"きっと今も……
+心配でたまらないですよね",Even now I'm still just... worried sick.
+4001038070670,美琴,────いくよ、最後しっかり────,"────Let's go, right from the start────"
+4001038070680,美琴,３、２、１、バン────,"3, 2, 1, bang────"
+4001038070690,にちか,────っ,────Nh.
+4001038070700,美琴,……うん、オッケー,"...Mm, okay."
+4001038070710,にちか,"──────……っ
+はい！","────...ah.
+Yes!"
+4001038070720,にちか,……,......
+4001038070730,美琴,────お水,"────Here, have some water."
+4001038070740,にちか,"……！
+ありがとうございます……！","...!
+Thank you very much...!"
+4001038070750,にちか,"あっ、あの私……！
+近くの中華屋さんのクーポンあるんですよー！","U-uh, so as it turns out...!
+I've got a coupon for that Chinese place nearby!"
+4001038070760,美琴,"私もう少しやっていくから
+お疲れ様","I think I'll practice a little longer.
+So I'll see you later, then."
+4001038070770,にちか,"────
+お、お水……もらっちゃった……","────Awah.
+S-she gave me... some water..."
+4001038070780,にちか,"あの、ここって……
+もしかして美琴さんの専用のスタジオとかですか……？","Um, so is this place... 
+Actually your own personal studio, Mikoto-san...?"
+4001038070790,美琴,"え……うーん
+知り合いのスタジオなんだけど","Eh... No, not quite.
+It belongs to an acquaintance of mine. "
+4001038070800,美琴,この部屋は、私くらいしか使わないから,"No one else uses this room except for me, though."
+4001038070810,にちか,"し、知りませんでした……！
+じゃあ、あの機材とかも美琴さんが使うんですか？","I-I had no idea...!
+Does that mean the equipment is all stuff you use?"
+4001038070820,美琴,……うん,...Mm.
+4001038070830,にちか,もしかして、曲とかも作ったり……！？,"So do you like, make your own songs...!?"
+4001038070840,美琴,"まあ
+そんな大したものじゃないけど……","I mean, it's really not that big a deal, but..."
+4001038070850,にちか,へ、へぇ……！,W-woah...!
+4001038070860,にちか,……！,......!
+4001038070870,美琴,……,......
+4001038070880,にちか,"──でも、あの……
+この前、倉庫で練習されてませんでした……？　事務所の","──Um, I do have to ask, though...
+Weren't you practicing in the storage shed earlier...?
+The one at the office."
+4001038070890,美琴,"え……？
+あ、いたの？","Huh...?
+Ah, did you see me?"
+4001038070900,にちか,"は、はい……
+……声をかけるのは、お邪魔かなって……思って","Y-yes...
+...I figured that... me calling out to you would be
+getting in your way. "
+4001038070910,にちか,ううん…………かけられなくて,"Except, in the end...
+Not being able to call out to her."
+4001038070920,にちか,私が、最低すぎて,"Ended up making me even worse, instead."
+4001038070930,にちか,"────もしかして
+狭いところでターンの練習してたんですか……？","────Were you in there because you wanted to
+practice doing a turn in a narrow space...?"
+4001038070940,美琴,"棚の隙間でどこにもぶつからずに回れたら
+リフターの上でも簡単かと思って","I thought that if I could pull off a turn in-between all
+those shelves without hitting anything, doing the
+same thing on top of a lifter would be just as easy. "
+4001038070950,にちか,"す、すみません……そうですよね
+美琴さんだったら、絶対回れるに決まってるのに、私……","So it  really was that... I-I'm so sorry, Mikoto-san.
+I was watching you at the rehearsal and I just knew,
+that you were going to try and spin up there."
+4001038070960,美琴,"ううん、ごめんね
+まさかあんなふうに止められると思わなかったから","No, I'm sorry too.
+For having no idea that you would try to stop me by
+doing something so drastic."
+4001038070970,美琴,"いいステージにしたいの
+そうじゃなきゃ","I want to  bring an excellent performance.
+If I don't, then────"
+4001038070980,美琴,感動も、納得もできないでしょ？,"There's no way that it could move people's hearts,
+or leave them feeling satisfied either, right...?"
+4001038070990,にちか,"あんなに話したの
+すごい……めちゃめちゃ久しぶり","It's been so so so long...
+Since she's talked to me this much."
+4001038071000,にちか,初めの頃みたい,"It's like how it was back then, we had only just
+been made a unit."
+4001038071010,にちか,"──
+美琴さんは……アイドルですね","──
+You really are an idol... Mikoto-san."
+4001038071020,美琴,"……いつも
+そうなりたいって思ってるけど","...Well, wanting to become one is about all I ever think
+about."
+4001038071030,にちか,……────,......────
+4001038071040,はづき,"それは……
+心配ですよ、とっても～……","It is... worrying, isn't it.
+Incredibly～..."
+0000000000000,プロデューサー,……,......
+4001038071050,はづき,"そうじゃない親御さんとか、
+いらっしゃるんでしょうか……","I don't think there's a parent or relative out there
+that wouldn't be worried sick in this situation..."
+4001038071060,美琴,……何か弾ける？,...Is there anything you can play?
+4001038071070,にちか,"……あっ、いえ……！
+私はピアノ、全然なんですけど……","...Oh, no...!
+I really don't know how to play piano at all..."
+4001038071080,にちか,────え、えっと……,"────But, um..."
+4001038071090,にちか,…………,............
+4001038071100,美琴,────『ホーム・スイート・ホーム』,"────""Home! Sweet Home!"""
+4001038071110,にちか,"は、はい……
+これだけ……弾けるっていうか","Y-yes...
+This is the only song I know how play... you could say."
+0000000000000,プロデューサー,美琴は、ひとりで踊ってるわけじゃないよ,It's not as if Mikoto could dance all alone.
+4001038071120,にちか,"……
+アイドル……だったんですよ、私","...Mm.
+I actually... used to be an idol, once."
+0000000000000,帰路のタクシー運転手,"お客さま、こちら右に曲がることもできますが、
+お好みのルートがございましたら","Passengers, I can take a right here, but if there's a
+different route you'd like me to take, please do say?"
+4001038071130,にちか,"あっ、はい……！
+あの……まっすぐでお願いします","Oh, yes...!
+Um... Keep on going straight, please!"
+4001038071140,にちか,"その……家族の中のアイドルですけどね
+ずっと小さい頃の","Well... I was my family's idol, if you will.
+Back when I was a little kid."
+4001038071150,にちか,"──大好きなアイドルがいて、
+その真似をして踊る私のこと、家族も大好きで……","──There was an idol that I loved.
+I would try to imitate her dancing, and my family all
+loved it. They all loved me, too."
+4001038071160,にちか,"……小さいおもちゃのキーボードがあって
+そこにこの曲が入ってて、それもよくみんなで歌って……","...I had this little toy keyboard, and that song was
+one of the songs on it. I'd play it, and we'd all sing it
+together, as a family..."
+0000000000000,にちか,"……
+あの頃、みたいに────","...I had thought that maybe, this could give some of
+that back to me────"
+4001038071180,にちか,"でも、目指しはじめたら……なんか、どんどん
+わからなくなってっちゃって","But once I started seriously trying to become an
+idol... something changed.
+Everything kind of, stopped making sense."
+4001038071190,にちか,"とにかく必死で……でも
+必死でいたら、わからないこともわからずにいられて……","I'm putting my heart and soul into it... but.
+Even so, there is still so much that I don't get..."
+4001038071200,にちか,"すみません……なんか急に……
+『で？』って、感じですよね……！","I'm so sorry... I'm just rambling, now.
+You're probably asking yourself what point I'm even
+trying to make...!"
+4001038071210,にちか,"今ちゃんとアイドルできないで
+美琴さんの邪魔ばっかりして…………！","Right now, I can hardly call myself an idol, and all I do
+is get in your way, Mikoto-san...!"
+4001038071220,美琴,……,......
+4001038071230,はづき,"ずっと生きていかなきゃいけないんですよ
+もし……夢が終わったとしても","You have to keep on living life, no matter what.
+Even if... your dream may have to come to an end."
+0000000000000,プロデューサー,……ええ,...Yeah.
+4001038071240,はづき,うちは、それほど余裕がないですから,We can't afford to do otherwise.
+4001038071250,はづき,"今がよかったとしても、
+その後を確実に支えられるか、考えなきゃいけないですから","Even if right now it seemed like the perfect time,
+whether a dream can be sustained into the future,
+has to be considered."
+0000000000000,プロデューサー,"……はづきさん
+……",...Hazuki-san...
+4001038071260,美琴,────邪魔なんだとしたら,"If you think that you get in my way, then────"
+4001038071270,美琴,練習するしかないと思う,I think the only thing to do is practice until you don't.
+4001038071280,にちか,"……は、はい
+……","R-right.
+......"
+4001038071290,美琴,それから……,"And, also..."
+4001038071300,美琴,"アイドルじゃないって思ったら、
+もうアイドルじゃない","The moment you stop believing that you're an idol,
+is the moment that you stop being an idol."
+4001038071310,美琴,"アイドルになれない人とは、
+私は組めない",I cannot partner with someone who cannot be an idol.
+4001038071320,にちか,"…………
+はい……","......
+Understood..."
+4001038071330,はづき,──でも、私は心配するだけですから～,"──But me, all I do is sit on the sidelines and worry～"
+0000000000000,プロデューサー,……,......
+4001038071340,はづき,"大変なのはプロデューサーさん
+いつも、にちかが本当にお世話になっております……","The one who's putting in all the work here is you,
+Producer-san.
+You're always doing such a good job with Nichika..."
+0000000000000,プロデューサー,"そ、そんな……！
+俺も迷ってばっかりで…………","I-I'm not so sure about that...!
+I really have no idea what I'm doing..."
+4001038071350,美琴,──────,──────
+4001038071360,にちか,……美琴さん,...Mikoto-san.
+4001038071370,美琴,……この曲、いい旋律だね,...This song does have a nice melody.
+4001038071380,美琴,──────,────────────
+4001038071381,にちか＆美琴,──────,────────────
+4001038071382,にちか＆美琴,──────,────────────
+4001038071390,美琴,……,......
+4001038071400,にちか,…………,......
+4001038071410,美琴,ペンシルターン、悪くなかったと思う,I didn't think your pencil turn was half bad.
+4001038071420,にちか,"……っ
+は、はい……！","...Ah.
+T-thanks...!"
+4001038071430,美琴,────あ,────Oh.
+4001038071440,にちか,あっお水が……！,"No, your water...!"
+4001038071450,美琴,こぼしちゃった,It spilled.
+4001038071460,にちか,ふっ拭くもの……タオル……！,"I'll find a towel, or something... to dry you with... "
+0000000000000,プロデューサー,"でも……
+俺は頑張りたいですから、にちかさんと一緒に","But still...
+I want to keep on trying, right alongside Nichika."
+0000000000000,プロデューサー,美琴と一緒に,Right alongside Mikoto as well.
+4001038071470,にちか,"────
+おお……わがやどよ……","────
+Oooh... my home...."
+4001038071480,にちか,あのつまんない二人組は,I wonder if that lame old comedy duo────
+4001038071490,にちか,今日も餃子なのかな,"Are getting gyoza again, today."
+0000000000000,プロデューサー,ずっと生きていくために必要なもの────,"I know there must be things out there they need.
+The things necessary for them to learn how to keep
+on living, no matter what happens────"
+select,,探しますから,"And I'm going
+to find them."
+4001038071500,にちか,"たのしとも
+たのもしや────","It makes me happy,
+It makes me feel strong────"
+4001038071510,にちか,練習するね、私は,I've got a lot of practicing to do.
+4001038071520,にちか,仲良しとか、いらないから,"After all, I didn't become an idol to make friends."
+info,game_event_communications/400103807.json,
+Translator,Belvera,

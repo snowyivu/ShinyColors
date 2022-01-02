@@ -1,0 +1,82 @@
+id,name,text,trans
+0000000000000,プロデューサー,────ええと……,────Hmm...
+0000000000000,プロデューサー,……これは…………シュレッダー行きかな,...This is... going into the shredder.
+0000000000000,プロデューサー,"……
+いや────","......
+Nevermind────"
+0000000000000,プロデューサー,"とっとくか
+うん",I probably should keep it.
+0000000000000,プロデューサー,はぁー────────,*sigh*────────
+0000000000000,はづきからの連絡,"『倉庫の大掃除前に、
+不要なものの廃棄をお願いします』","""Please throw away any unnecessary items before the
+warehouse gets cleaned out."""
+0000000000000,プロデューサー,──────終わらないなぁ……！,──────It just never ends...!
+0000000000000,プロデューサー,────────っ,────────hn?
+4001043010010,霧子,────あ、メッセ……,"────Oh, a message..."
+0000000000000,プロデューサー,"────く、崩しちゃったか……
+『小道具関係・アンティーカ』…………","────D-Did it break...
+""L'Antica's small props""..."
+0000000000000,プロデューサー,"……
+何か割ったりしてなければいいけど────","......
+ I sure hope I didn't mess up anything────"
+0000000000000,プロデューサー,──────はぁー,──────*sigh*
+4001043010020,恋鐘,"ふぇ、なんやろ～
+グループに来とるばい～","Hweh～
+What's going on in the group chat～"
+4001043010030,恋鐘,え～っと～～────,Lemme～ see～────
+0000000000000,プロデューサー,"──────よし、と
+これで最後かな","──────Okay.
+I guess that's the last of it"
+0000000000000,プロデューサー,"…………あれ。なんだこれ
+インスタントカメラ？","...Huh. What's this?
+A disposable camera?"
+0000000000000,プロデューサー,だいぶ古い感じだけど────,"It seems really old, though────"
+0000000000000,プロデューサー,"『倉庫で見つけたんだけど
+これ、みんなのかな？』","""I found this in the warehouse.
+Does it belong to anyone?"""
+4001043010040,摩美々,"……えー
+何これ……","...Eeh.
+What even is it..."
+0000000000000,プロデューサー,"『大掃除してたら
+アンティーカ用の収納棚から出てきたんだ』","""I found it in the L'Antica cabinet while cleaning up."""
+4001043010050,結華,"……？
+わりと年代物じゃん","...?
+Looks real old."
+0000000000000,プロデューサー,"『すまんな
+心当たりがなければ大丈夫だよ』","""Sorry to bother you all.
+It's fine if nobody recognizes it."""
+4001043010060,咲耶,"……
+初めて見た、と思うのだけれど────","......
+I've never seen it before───"
+4001043010070,咲耶,『すまない、私は覚えがないな』,"""Sorry. I don't remember seeing this."""
+0000000000000,プロデューサー,……おっと,...Uh oh.
+4001043010080,結華,『三峰も初めて見る』,"""Mitsumine has never seen it either."""
+4001043010090,恋鐘,『うちも！！！！！！』,"""Me neither!!!!!!"""
+4001043010100,摩美々,『私も』,"""Same."""
+4001043010110,霧子,『わたしもです＾＾』,"""Me either. ^^"""
+0000000000000,プロデューサー,"────まぁ、そうか
+ちょっと古いもんな","────Well, that's expected.
+It seems pretty old, after all."
+0000000000000,プロデューサー,……あ、はづきさん────,"...Ah, Hazuki-san────"
+0000000000000,プロデューサー,────も、わからないと,────doesn't know either.
+0000000000000,プロデューサー,"……
+フィルム、ちょっとだけ残ってる","...
+There's a little bit of film left inside."
+0000000000000,プロデューサー,"『ありがとう。誰も心当たりがないみたいだから
+現像してみるよ』","""Thanks all. Since nobody claimed it,
+I'll go get the photos developed."""
+0000000000000,プロデューサー,"────でも、せっかく現像するんなら
+使い切りたいよな……","────I should use the rest of the flim up before that, though..."
+0000000000000,プロデューサー,……よし,...Okay.
+0000000000000,プロデューサー,『さっきのやつ、ありがとな』,"""About what I mentioned earlier,"""
+0000000000000,プロデューサー,"『フィルムが少し余ってるから、
+みんなのこと撮らせてもらおうかな』","""There's some left-over film.
+How about we use it to take photos of everyone?"""
+0000000000000,プロデューサー,"『明日から少し持ち歩くから、
+ひとり一枚、ポートレート撮影！』","""I'll bring it with me from tomorrow.
+One per person, solo portrait photo shoot!"""
+0000000000000,プロデューサー,"『付き合ってもらえたら嬉しいよ』────と
+うん","""I hope you're down for this idea""────there.
+Mhm."
+info,game_event_communications/400104301.json,
+Translator,,
