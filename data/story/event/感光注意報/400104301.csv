@@ -8,8 +8,8 @@ Nevermind────"
 うん",I probably should keep it.
 0000000000000,プロデューサー,はぁー────────,*sigh*────────
 0000000000000,はづきからの連絡,"『倉庫の大掃除前に、
-不要なものの廃棄をお願いします』","""Please throw away any unnecessary items before the
-warehouse gets cleaned out."""
+不要なものの廃棄をお願いします』","""Please throw away any unnecessary items before
+the warehouse gets cleaned out."""
 0000000000000,プロデューサー,──────終わらないなぁ……！,──────It just never ends...!
 0000000000000,プロデューサー,────────っ,────────hn?
 4001043010010,霧子,────あ、メッセ……,"────Oh, a message..."
@@ -18,7 +18,7 @@ warehouse gets cleaned out."""
 ""L'Antica's small props""..."
 0000000000000,プロデューサー,"……
 何か割ったりしてなければいいけど────","......
- I sure hope I didn't mess up anything────"
+I sure hope I didn't mess up anything────"
 0000000000000,プロデューサー,──────はぁー,──────*sigh*
 4001043010020,恋鐘,"ふぇ、なんやろ～
 グループに来とるばい～","Hweh～
@@ -26,7 +26,7 @@ What's going on in the group chat～"
 4001043010030,恋鐘,え～っと～～────,Lemme～ see～────
 0000000000000,プロデューサー,"──────よし、と
 これで最後かな","──────Okay.
-I guess that's the last of it"
+I guess that's the last of it."
 0000000000000,プロデューサー,"…………あれ。なんだこれ
 インスタントカメラ？","...Huh. What's this?
 A disposable camera?"
@@ -79,4 +79,4 @@ One per person, solo portrait photo shoot!"""
 うん","""I hope you're down for this idea""────there.
 Mhm."
 info,game_event_communications/400104301.json,
-Translator,,
+Translator,Ruru,

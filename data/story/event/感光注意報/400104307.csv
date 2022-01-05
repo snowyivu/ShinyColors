@@ -6,17 +6,17 @@ id,name,text,trans
 ひとり一枚、ポートレート撮影！』","""I'll bring it with me from tomorrow. One per person, solo portrait photo shoot!"""
 0000000000000,プロデューサー,"────
 １枚、余るんだよなぁ……","────
- I have one shot left..."
+I have one shot left..."
 0000000000000,プロデューサー,"……
 変なカメラだよ","......
- Strange camera."
+Strange camera."
 0000000000000,プロデューサー,……いや、この部屋撮ったってなぁ,...This room isn't interesting enough for a photo.
 0000000000000,プロデューサー,"……でも
 ずいぶん増えた────","...But somehow, I'm seeing more of────"
 0000000000000,プロデューサー,ここに集まってくれる顔が,the faces of those who come here.
 0000000000000,プロデューサー,"────
 『みんなで１枚撮れればいいんだけど』","────
- ""Let’s do one photo with eveyone."""
+ ""Let's do one photo with eveyone."""
 0000000000000,プロデューサー,"……いやいや、無理して集まる余裕なんてないか
 ────年明けだなぁ","...Nah, I can't just force them to gather.
 ────It's the start of the new year."
@@ -100,7 +100,7 @@ I ordered one pasta and one vegetable juice────"
 Producer?"
 4001043070020,摩美々,"……？
 何これー","......?
- What's going on?"
+What's going on?"
 0000000000000,プロデューサー,"『摩美々、この後事務所に寄る予定だよな？
 よかったらお腹空かせて来てくれないか』","""Mamimi, you're stopping by the office later, right? It'd be better if you come hungry."""
 0000000000000,プロデューサー,『これ、間違って事務所に届いてしまって』,"""They delivered this by mistake."""
@@ -142,4 +142,4 @@ Good work today. So, would you like a slice...!"
 0000000000000,プロデューサー,────集めてくれたのかな、こいつが,────The thing that brought everyone here...
 0000000000000,プロデューサー,この、変なカメラが,...is probably this strange camera.
 info,game_event_communications/400104307.json,
-Translator,,
+Translator,Ruru,

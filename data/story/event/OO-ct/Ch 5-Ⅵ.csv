@@ -25,7 +25,7 @@ Okay, let's do this!"
 0000000000000,ダンストレーナー,"はーい、前のふたりもお待たせー
 入ってー！","Alright, thanks for waiting, you two.
 Assume your places right in front!"
-4001038060060,にちか,は、はい────！,A-alright────!
+4001038060060,にちか,は、はい────！,A-Alright────!
 4001038060070,美琴,はい,Right.
 4001038060080,社長,──────……,──────...
 4001038060090,はづき,"……？
@@ -96,9 +96,8 @@ team from a famous university's engineering club."
 素敵だったわね","The daughter of the Aketas played wonderfully
 today as well."
 0000000000000,ピアノ生徒の保護者２,"そうよねぇ
-でも緋田さんはいつもお上手だから","That's true.
-But you know, young Miss Aketa plays so skillfully
-at every recital."
+でも緋田さんはいつもお上手だから","That's true. But you know, young Miss Aketa
+plays so skillfully at every recital."
 4001038060280,美琴,"────
 足場の高さを考えると────","────
 Taking the height of the footholds into
@@ -124,12 +123,12 @@ the finals?"
 0000000000000,ダンサー,ターンですか？,Practicing a turn?
 4001038060380,にちか,"────っ……
 は、はい……！","────Guh...
-Y-yes...!"
+Y-Yes...!"
 0000000000000,ダンサー,"わわっ！
 ごめんなさい、びっくりしないでください～！","Wawah!
 I'm sorry, please don't startle me like that～!"
 4001038060390,にちか,"い、いえいえっ、すみません……！
-私お邪魔ですね、こんなとこで……！","O-oh no, I'm the one who should be sorry...!
+私お邪魔ですね、こんなとこで……！","O-Oh no, I'm the one who should be sorry...!
 I'm getting in the way aren't I, practicing here...!"
 0000000000000,ダンサー,"え～っ、いえいえ！　何言ってるんですか～！
 シーズさんの現場ですよ～！","Eh, not in the slightest～! Don't say that～!
@@ -150,7 +149,7 @@ Here, hold yourself like this, and────
 Spin..."
 4001038060440,にちか,"……っ
 は、はい……","...Nh.
-R-right..."
+R-Right..."
 4001038060450,にちか,"……こう構えて
 すっ……","...Hold myself like this, and────
 Spin..."
@@ -163,18 +162,18 @@ Spin..."
 That's how it's done～"
 4001038060470,にちか,あー……！　あははっ……,Ahhh...! Ahaha...
 4001038060480,にちか,もう一回────,One more time────
-4001038060490,にちか,１、２、──────っ,"1, 2,──────Ahah."
+4001038060490,にちか,１、２、──────っ,"1, 2, ──────Ahah."
 0000000000000,ダンサー,"あ～！　いいですね、よくなってきました
 たぶんコツはつかんでいただけてると思います～","Yesss～ Great job, look at you.
 I think you've gotten the trick to it now～"
 4001038060500,にちか,"……あ、はい……！
 すみません、関係ない練習に付き合ってくださって……","...Oh, yes...!
 I'm so sorry for having you help me with practice
-that has nothing to with the performance... "
+that has nothing to do with the performance... "
 0000000000000,ダンサー,"いえいえ～
 アイドルさんなのにこんなに踊るの、大変だと思います～","It's no problem at all～
 I think it's harsh, having idols dance this much～"
-4001038060510,にちか,あっ────あの…………,Ah────Um...
+4001038060510,にちか,あっ────あの…………,Ah──── Um...
 0000000000000,テレビの音声,『おめでとうございます！　本選出場は────』,"""Congratulations!
 Moving on to the finals is────"""
 4001038060520,はづき,"……────
@@ -191,7 +190,7 @@ Do your best out there, okay～!"
 4001038060560,社長,"圧倒的な差で彼らが勝利する
 想いや友情など、コマの強度には関係がない","The engineering club takes an overwhelming victory.
 Things like emotions and friendship have no effect on
-the strength of spinning top."
+the strength of a spinning top."
 0000000000000,ピアノ生徒の保護者４,そうね、美琴ちゃんはいつもお上手だものね～,"Indeed, Mikoto-chan's piano skills always impress～"
 4001038060570,社長,だが────,However────
 0000000000000,ピアノ生徒の保護者４,"でも、今日はこの子が最優秀賞いただけて嬉しいです～
@@ -214,7 +213,7 @@ be any danger────"
 The 20 minutes should be almost up～"
 4001038060600,にちか,"……！
 は、はい……！","...!
-Y-yes...!"
+Y-Yes...!"
 4001038060610,はづき,"────ええ……
 でも、苦労して積み上げて、準備してきたものが────","────Indeed...
 However, when it's something that one's blood,
@@ -230,19 +229,17 @@ Everyone, please check your positions."
 4001038060631,にちか＆美琴,────……,────...
 0000000000000,現場監督,"はい、そこでダンサーチームも一度捌ける、
 スピーディーに！","Alright, here the dance team needs to exit the
-stage for moment. Quickly!"
+stage for a moment. Quickly!"
 0000000000000,現場監督,オッケー！,Okay!
 0000000000000,プロデューサー,"──承知しました
-プロモーションの段取りも問題ないです","──Understood.
-There should be no issue with the promotion plans,
-either."
+プロモーションの段取りも問題ないです","──Understood. There should be no issue with
+the promotion plans, either."
 0000000000000,広告マン,"ありがとうございます！
 じゃそんな感じでヨロシクお願いしますねー","Thank you very much!
 We'll do it just like that, then."
 0000000000000,プロデューサー,"はい！
-では、少しステージの方見てきたいので────","Sounds good!
-Well, I'd better go check on how the rehearsal is
-going────"
+では、少しステージの方見てきたいので────","Sounds good! Well, I'd better go check on
+how the rehearsal is going────"
 0000000000000,広告マン,"ああ、どうぞどうぞ！
 お引き留めしてすみませんー！","Oh please, go right on ahead!
 I apologize for keeping you!"
@@ -284,7 +281,7 @@ I mean, if she tried to spin while that high up..."
 4001038060760,美琴,──────,──────
 4001038060770,美琴,止まる直前で予備動作,"Right before it stops, I make my preliminary motions."
 4001038060780,にちか,"……ぜ、絶対やる
-絶対やる、美琴さんは────","...S-she's definitely gonna do it.
+絶対やる、美琴さんは────","...S-She's definitely gonna do it.
 Definitely, I know Mikoto-san would────"
 4001038060790,にちか,ステージのためなら,"If it was for the sake of the performance. "
 4001038060800,にちか,あの、すみません、誰か────,"Um, pardon me, could someone────"
@@ -300,7 +297,7 @@ a turn up there──!"
 4001038060840,美琴,──────……,──────...
 4001038060850,にちか,"み、美琴さーん…………！
 だ、ダメです────！","M-Mikoto-saaan...!
-D-don't dooo it────!"
+D-Don't dooo it────!"
 0000000000000,プロデューサー,"……
 にちか……？","...
 Nichika...?"
@@ -324,7 +321,7 @@ Nichika-chan──────?"
 0000000000000,プロデューサー,"すみません、救護の方────
 にちか……！","Excuse me, can someone call for first aid────
 Nichika...!"
-4001038060890,にちか,は、はい…………,Y-yes...
+4001038060890,にちか,は、はい…………,Y-Yes...
 4001038060900,にちか,美琴さんは────,"Mikoto-san, was────"
 4001038060910,にちか,"見てた
 美琴さんが、私を","She looked at me.
@@ -337,9 +334,8 @@ putting up such a good fight────"""
 古い論争があってね────","...The question of which of the two is more worthy of
 one's support, has been debated for many years───"
 0000000000000,舞台監督,"もう……！
-なんであんな危ないことするの……！","Goodness...!
-Why on earth would you attempt something that
-dangerous...!"
+なんであんな危ないことするの……！","Goodness...! Why on earth would you attempt
+something that dangerous...!"
 4001038060940,にちか,よ、よかった……,"Oh, thank God..."
 4001038060950,美琴,"……
 大丈夫……？","......
