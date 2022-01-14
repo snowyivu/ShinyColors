@@ -2,7 +2,7 @@ name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,53
 images/ui/common/parts.json_image,common_parts.png,36
 images/ui/my_page/parts.json_image,my_page.parts.png,35
-images/ui/fes/parts.json_image,fes_parts.png,33
+images/ui/fes/parts.json_image,fes_parts.png,34
 images/ui/mission/parts.json_image,mission_parts.png,22
 images/ui/gasha/parts.json_image,gasha_parts.png,16
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,11
@@ -573,7 +573,7 @@ images/ui/fes_tower_common/parts.json_image,fes_tower_common_parts.png,2
 images/ui/fes_tower_deck/parts_endurance.json_image,fes_tower_deck_parts_endurance.png,2
 images/ui/fes_tower_deck/parts.json_image,fes_tower_deck_parts.png,2
 images/ui/fes/fes_ready.json_image,fes_ready.png,2
-images/ui/fes/fes_deck.json_image,fes_deck.png,2
+images/ui/fes/fes_deck.json_image,fes_deck.png,3
 images/ui/fes/fes_trends.json_image,fes_trends.png,2
 images/ui/fes_tower_item/parts.json_image,fes_tower_item_parts.png,2
 images/ui/fes_tower_live_panel/parts.json_image,fes_tower_live_panel_parts.png,2
