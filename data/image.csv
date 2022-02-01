@@ -4,7 +4,8 @@ images/ui/common/parts.json_image,common_parts.png,36
 images/ui/my_page/parts.json_image,my_page.parts.png,35
 images/ui/fes/parts.json_image,fes_parts.png,34
 images/ui/mission/parts.json_image,mission_parts.png,22
-images/ui/gasha/parts.json_image,gasha_parts.png,16
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,19
+images/ui/gasha/parts.json_image,gasha_parts.png,17
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,11
 images/ui/present_box/parts.json_image,present_box_parts.png,9
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,8
@@ -532,7 +533,7 @@ images/ui/option/parts.json_image,ui_option_parts.png,23
 images/ui/twitter/parts.json_image,twitter_parts.png,5
 images/ui/profile/parts.json_image,profile_parts.png,4
 images/ui/title_setting/parts.json_image,title_setting_parts.png,10
-images/ui/gasha/parts_popup.json_image,gasha_parts_popup.png,9
+images/ui/gasha/parts_popup.json_image,gasha_parts_popup.png,10
 particles/training/images.json_image,training_images.png,8
 particles/training/images_super_success.json_image,training_super_success.png,3
 images/tips/fes/001.jpg,tutorial/fes_001.png,11
@@ -548,7 +549,6 @@ images/tips/fes/010.jpg,tutorial/fes_010.png,11
 images/tips/fes/011.jpg,tutorial/fes_011.png,11
 images/ui/concert/parts_ranking.json_image,ranking.png,3
 images/ui/common/parts_score_result.json_image,score_result.png,3
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,18
 images/tips/workActivity/001.jpg,tutorial/work_activity_001.png,4
 images/tips/workActivity/002.jpg,tutorial/work_activity_002.png,4
 images/tips/workActivity/003.jpg,tutorial/work_activity_003.png,4
