@@ -1,12 +1,12 @@
 id,name,text,trans
 0000000000000,スタッフ,"それでは、撮影開始します！
 ５秒前！　４、３────……","Alright, we're going to start filming!
-In 5! 4, 3──……"
+In 5! 4, 3──......"
 4001018020010,真乃,"──えっと、それじゃあ
 この小さな箱が学校の『宝物』……","──Umm, so to confirm,
-this little box is the school's ""treasure""…"
+this little box is the school's ""treasure""..."
 0000000000000,生徒会長,"ええ、正確にはその中身……
-ですが私も詳しくは知りません","That's right. More specifically, what's inside…
+ですが私も詳しくは知りません","That's right. More specifically, what's inside...
 But I don't know what it is either."
 0000000000000,生徒会長,"この『宝物』を狙って、
 何人かのオニが追いかけてきます","There will be ""demons"" chasing after you
@@ -16,15 +16,15 @@ in order to get their hands on this ""treasure""."
 どうか『宝物』を守ってください","Please protect this ""treasure"" until sunset,
 when the demons can no longer roam about."
 0000000000000,生徒会長,"イルミネーションスターズのみなさん
-……お願いできますか？","illumination STARS…
-…Can I trust you with this mission?"
+……お願いできますか？","illumination STARS...
+...Can I trust you with this mission?"
 4001018020011,一同,任せてくださいっ,Leave it to us!
-0000000000000,プロデューサー,（ルール説明から先の台本は無い……始まるぞ）,(There's no more script after the rules are explained…Here we go)
+0000000000000,プロデューサー,（ルール説明から先の台本は無い……始まるぞ）,(There's no more script after the rules are explained...Here we go)
 4001018020020,灯織,"運動場は目立ちすぎるから
 とりあえず校舎に入るのはどうかな","We'll stand out if we stay in the courtyard,
 so why don't we enter the school building?"
 4001018020030,めぐる,オッケー！　灯織隊長ー！,"Okay, Captain Hiori!"
-4001018020040,灯織,隊長……！？,Captain…?
+4001018020040,灯織,隊長……！？,Captain...?
 4001018020050,めぐる,"えへへっ！
 かならず、お役に立ってみせます！","Eheheh!
 At your service, Captain!"
@@ -37,17 +37,17 @@ from the green room, so please head over──"
 0000000000000,プロデューサー,（真乃、灯織、めぐる──）,"(Mano, Hiori, Meguru──)"
 0000000000000,プロデューサー,（頑張れよ！）,(Give it all you've got!)
 4001018020060,灯織,"はっ……はぁ……
-オニ、来てる──！？","Hah…Hah…
+オニ、来てる──！？","Hah...Hah...
 Are the demons coming──!?"
 4001018020070,めぐる,"大丈夫みたいっ……！
-多分……だけどっ","Looks like we're fine…!
-I think…maybe."
+多分……だけどっ","Looks like we're fine...!
+I think...maybe."
 4001018020080,灯織,"よしっ……じゃあ、今のうちに作戦を立てよう
-──『宝物』は誰が持つ？","Alright…Then, let's plan our strategy while we still can.
+──『宝物』は誰が持つ？","Alright...Then, let's plan our strategy while we still can.
 ──Who's going to carry this ""treasure""?"
 4001018020090,真乃,"絶対に逃げ切らないといけない役だから……
-めぐるちゃんにお願いできたら……っ","It's got to be someone who can get away fast, so…
-I think we could leave it to Meguru-chan…"
+めぐるちゃんにお願いできたら……っ","It's got to be someone who can get away fast, so...
+I think we could leave it to Meguru-chan..."
 4001018020100,灯織,"私もそう思う
 めぐる、どうかな？","I think so too.
 Meguru, is that alright?"
@@ -55,7 +55,7 @@ Meguru, is that alright?"
 命に換えても守り抜きますっ","Roger! ──I, Meguru Hachimiya,
 shall protect it with my life on the line!"
 4001018020120,灯織,"…………
-いや、命と引き換えはダメ","……
+いや、命と引き換えはダメ","......
 No, you can't put your life on the line."
 4001018020130,めぐる,"ごめんごめん、
 それくらいの心意気だよーってこと！","Sorry, I was joking.
@@ -63,18 +63,18 @@ I meant that I'll do it with that kind of determination, you know!"
 4001018020140,灯織,"この後はどうしようか
 ３人バラバラに逃げるって手もあるけど──","What should we do now?
 All 3 of us could run in different directions, but──"
-4001018020150,真乃,ん……,Umm…
+4001018020150,真乃,ん……,Umm...
 4001018020160,灯織,どうしたの、オニが来た──！？,What is it!? Are the demons here──!?
 4001018020170,真乃,"あっ、ううん……っ
-この『ミッション』って貼り紙、何かなって……","Ah, no…
-I was just wondering, what's this ""Mission"" notice…?"
+この『ミッション』って貼り紙、何かなって……","Ah, no...
+I was just wondering, what's this ""Mission"" notice...?"
 0000000000000,off,"ミッション！
 １-Ａで学園祭のプログラムを貰おう","Mission!
 Obtain a festival program from Class 1-A."
-4001018020180,めぐる,わぁ……！,Wow…!
+4001018020180,めぐる,わぁ……！,Wow...!
 4001018020190,めぐる,"このプログラム、どこのクラスで
 どんな出し物やってるーとか全部書いてある……！","This program has all the classrooms
-and what exhibitions they're doing written on it…!"
+and what exhibitions they're doing written on it...!"
 0000000000000,校内放送,"『校内のみなさんにお知らせです
 ただいま、１-Ａのミッションがクリアされました！』","""This is an announcement for everyone within the school.
 The mission at 1-A has just been cleared!"""
@@ -82,26 +82,27 @@ The mission at 1-A has just been cleared!"""
 食堂でココアを無料サービスいたします！』","""For 10 minutes starting now,
 free hot chocolate will be given out at the cafeteria!"""
 4001018020200,灯織,"なるほど、ミッションクリアするとご褒美があって、
-学園祭を盛り上げることができるんだ……","I see, so a reward is provided when we clear the missions,
-and we can liven up the school festival this way…"
-4001018020210,真乃,ほわぁ……っ,Howaa…
+学園祭を盛り上げることができるんだ……","I see, so a reward is provided when we clear the
+missions, and we can liven up the school festival this
+way..."
+4001018020210,真乃,ほわぁ……っ,Howaa...
 4001018020220,めぐる,"すごいすごい！　じゃあどんどん回ろうっ！
 真乃はどこの出し物に行きたい？","That's so cool! Let's keep going around, then!
 Where do you want to go next, Mano?"
 4001018020230,真乃,"えーっと……
-あっ、飼育委員の動物ふれあい広場──","Umm…
+あっ、飼育委員の動物ふれあい広場──","Umm...
 Ah, the Animal Care Club has a petting zoo──"
 4001018020240,灯織,"！　ちょっと待って
 ミッションクリアの放送……","! Hold on.
-That mission cleared broadcast…"
+That mission cleared broadcast..."
 4001018020250,灯織,オニも聞いてるんじゃない！？,"The demons can hear it too, right!?"
-0000000000000,オニ,…………,……
+0000000000000,オニ,…………,......
 4001018020260,灯織,"すぐに離れるべきだと思う
 真乃、めぐる──！","I think we should leave now.
 Mano, Meguru──!"
 4001018020270,真乃,"うん……っ
-すみません１-Ａのみなさん、慌ただしくて……","Yeah…
-Sorry, everyone in Class 1-A, we're in a hurry…"
+すみません１-Ａのみなさん、慌ただしくて……","Yeah...
+Sorry, everyone in Class 1-A, we're in a hurry..."
 4001018020280,めぐる,また遊びに来るからねーっ,We'll come back to hang out again!
 0000000000000,生徒,おー！　頑張れー！,Ooh! Do your best!
 0000000000000,生徒,オニだ！　オニが来たぞ──！,It's the demons! The demons are coming──!
@@ -111,57 +112,57 @@ Please clear the way!"
 0000000000000,off,"ミッション！
 ３-Ｃの射的で一等の賞品をゲットせよ！","Mission!
 Win the first prize at Class 3-C's shooting game!"
-4001018020300,めぐる,ああ～っ……外した～……,Aaah~…I missed~…
+4001018020300,めぐる,ああ～っ……外した～……,Aaah~...I missed~...
 0000000000000,生徒,"惜しかったね！
 はい、五等の賞品だよ！","That was so close!
 Here you go, the fifth prize!"
 4001018020310,めぐる,おもちゃの光るマイクかぁー,"A glowing toy mic, huh?"
-4001018020320,灯織,次、私の番だね。やってみる……,It's my turn next. I'll give it my best shot…
+4001018020320,灯織,次、私の番だね。やってみる……,It's my turn next. I'll give it my best shot...
 4001018020330,真乃,"灯織ちゃんっ
 当てようと思わないでやってみるのがいいかも……っ","Hiori-chan!
-Don't focus too hard on hitting the target, I think…"
+Don't focus too hard on hitting the target, I think..."
 4001018020340,灯織,えっ！？　なんで？,Eh!? Why?
 4001018020350,めぐる,"ふれー！　ふれー！
 当・た・る・よ！　ひ・お・りー！","Hooray! Hooray!
 Go and get it! Hiori!"
 4001018020360,灯織,"や、やめて
-逆に緊張するからっ……！","S-Stop that…
-Now you're making me nervous…!"
+逆に緊張するからっ……！","S-Stop that...
+Now you're making me nervous...!"
 0000000000000,off,"ミッション！
 調理部の屋台で直径30センチ以上のわたあめを作れ！","Mission!
 Make cotton candy with a diameter over 30 cm at the Cooking Club's stall!"
 4001018020370,真乃,"えっと……
-この機械の中で割り箸を回せばいいんだよね……","Umm…
-So we just have to twirl this chopstick in this machine, right…"
-4001018020380,真乃,──ほわぁ、ふわふわ……っ,"──Howaa, it's so fluffy…"
+この機械の中で割り箸を回せばいいんだよね……","Umm...
+So we just have to twirl this chopstick in this machine, right..."
+4001018020380,真乃,──ほわぁ、ふわふわ……っ,"──Howaa, it's so fluffy..."
 4001018020390,灯織,"わたあめを大きく作る方法……
-学園祭の仕事なんだから、調べておけばよかった……","Making cotton candy…
+学園祭の仕事なんだから、調べておけばよかった……","Making cotton candy...
 I should have looked up some tips and tricks the 
-moment I knew we were going to a school festival…"
+moment I knew we were going to a school festival..."
 4001018020400,めぐる,ざらめ、もっと入れちゃえばいいんじゃない！？,"Hey, wouldn't it be better if I put in more sugar!?"
 4001018020410,真乃,ありがとう、めぐるちゃんっ,"Thanks, Meguru-chan."
 4001018020420,灯織,あっ、機械が動いてる時に入れちゃ──,"Ah, the machine's still running so don't──"
 0000000000000,off,"ミッション！
 ２-Ｂの脱出ゲームをクリアせよ！","Mission!
 Clear the escape room in Class 2-B!"
-4001018020430,真乃,…………,……
-4001018020440,めぐる,…………,……
-4001018020450,灯織,……多分、この数字を……入れ替えれば……,"…These numbers, maybe…should be replaced…"
-4001018020460,めぐる,……これのクリアは、後回しがいいかも……,…Maybe we should've left this one for later…
+4001018020430,真乃,…………,......
+4001018020440,めぐる,…………,......
+4001018020450,灯織,……多分、この数字を……入れ替えれば……,"...These numbers, maybe...should be replaced..."
+4001018020460,めぐる,……これのクリアは、後回しがいいかも……,...Maybe we should've left this one for later...
 0000000000000,off,"ミッション！
 美術部のトリックアート前で生徒たちと記念撮影せよ！","Mission!
 Take a commemorative photo with the students in 
 front of the Fine Art Club's trick art!"
 0000000000000,生徒,"いきますよ～
 はいっ、チーズ！　じゃなくて……","Here we go~
-Say cheese! No, I mean…"
-0000000000000,生徒,イルミネーションスター……ズ！,Illumination Star…s!
-4001018020461,一同,ズ！,Star…s!
+Say cheese! No, I mean..."
+0000000000000,生徒,イルミネーションスター……ズ！,Illumination Star...s!
+4001018020461,一同,ズ！,Star...s!
 4001018020470,灯織,いや、今のかけ声なに？,"Wait, what even was that call?"
 4001018020480,めぐる,"待って待って、もう一回！
 『ズ！』だと口が尖っちゃうよー","Hold up, hold up! Let's take one more!
 If we say ""Stars"" our faces get all puckered up!"
-0000000000000,プロデューサー,（ははっ──今度そのかけ声使ってみるか）,(Haha…I'll try using that call next time)
+0000000000000,プロデューサー,（ははっ──今度そのかけ声使ってみるか）,(Haha...I'll try using that call next time)
 0000000000000,校内放送,"『ミッションクリア！
 10分間、校門前で飲食割引き券を配布いたします！』","""Mission cleared! For 10 minutes,
 food and drink coupons will be distributed at the school gate!"""
@@ -180,7 +181,7 @@ illumination STARS has completed our mission."""
 科学室のマッドサイエンティストといえば──』","And here's our first guest! Everyone knows him
 as the Mad Scientist of the Science Lab──"""
 4001018020490,めぐる,"……みなさんご存知、
-２８３プロの熱血漢といえばー？","…Everyone knows him
+２８３プロの熱血漢といえばー？","...Everyone knows him
 as the hot-blooded gentleman of 283 Pro!"
 4001018020500,灯織,ちょっとめぐる,"Stop that, Meguru."
 4001018020510,真乃,ふふっ,Heehee.
@@ -190,34 +191,34 @@ as the hot-blooded gentleman of 283 Pro!"
 4001018020550,めぐる,真乃、それなんか違うー,"Mano, that's not it!"
 4001018020551,一同,あははっ,Ahahah!
 4001018020560,灯織,"このクラスはクリア、このクラスも……クリア
-あとは……","This class is cleared, and this one's…cleared too.
-The ones we have left are…"
+あとは……","This class is cleared, and this one's...cleared too.
+The ones we have left are..."
 4001018020570,真乃,"もうすぐ講堂のステージも始まるみたい
 サッカー部の仮装ミュージカルに、バンド演奏……","The show in the auditorium is starting soon.
-There's a costume musical by the soccer team, and a band recital…"
+There's a costume musical by the soccer team, and a band recital..."
 4001018020580,灯織,"そっちにもミッションがあるかもしれないね
 行ってみようか","There might be a mission for us there too.
 Let's go check it out."
-4001018020590,真乃,うんっ……ふふ……っ,Yeah…Hehe…
-4001018020600,真乃,楽しいね、灯織ちゃん……っ,"Isn't this fun, Hiori-chan…?"
-4001018020610,灯織,……急にどうしたの？,…What's gotten into you all of a sudden?
+4001018020590,真乃,うんっ……ふふ……っ,Yeah...Hehe...
+4001018020600,真乃,楽しいね、灯織ちゃん……っ,"Isn't this fun, Hiori-chan...?"
+4001018020610,灯織,……急にどうしたの？,...What's gotten into you all of a sudden?
 4001018020620,めぐる,"ふたりとも！
 生徒さんたちが昇降口の方でオニを見たって！","You two!
 Some students said they saw demons by the entrance!"
 4001018020630,真乃,"ほわ……
-じゃあそのルートは避けた方がいいね……","Howa…
-Then we'd better avoid that route…"
+じゃあそのルートは避けた方がいいね……","Howa...
+Then we'd better avoid that route..."
 4001018020640,灯織,"あ、真乃。後ろ、機材が通るみたいだから
-もうちょっとこっちに寄って","Ah, Mano. Someone's transporting equipment behind us,
-so come walk closer to this side."
+もうちょっとこっちに寄って","Ah, Mano. Someone's transporting equipment behind
+us, so come walk closer to this side."
 4001018020650,真乃,"あ……す、すみません……っ
-灯織ちゃんありがと──","Ah…E-Excuse me…
+灯織ちゃんありがと──","Ah...E-Excuse me...
 Thanks, Hiori-chan──"
 4001018020660,めぐる,──！　真乃！,──! Mano!
 4001018020670,めぐる,"オニが隠れてる！
 それ機材じゃない！！","There's a demon hiding there!
 That's not equipment!!"
-4001018020680,真乃,えっ……,Huh…?
+4001018020680,真乃,えっ……,Huh...?
 4001018020690,めぐる,逃げて！,Get away!
 4001018020700,めぐる,"──灯織！
 真乃を守って、早く！","──Hiori!
@@ -227,29 +228,29 @@ Protect Mano, quickly!"
 後で合流っ！","Let's split up for now!
 We'll meet up later!"
 4001018020730,めぐる,ね？,Okay?
-4001018020740,灯織,めぐる……っ,Meguru…
+4001018020740,灯織,めぐる……っ,Meguru...
 4001018020750,めぐる,──オニさーん！　『宝物』はこっちだよー！,"──Hey Mr. Demon! The ""treasure"" is right here!"
 4001018020760,真乃,"こ、ここにいると、
 他のオニも集まって来ちゃうかな……","I-If we stay here,
-the other demons might come after us…"
-4001018020770,灯織,うん……逃げなくちゃ,You're right…We have to get away.
-4001018020780,真乃,はぁ、はぁ……,"Haa, haa…"
+the other demons might come after us..."
+4001018020770,灯織,うん……逃げなくちゃ,You're right...We have to get away.
+4001018020780,真乃,はぁ、はぁ……,"Haa, haa..."
 4001018020790,灯織,"めぐる……まだ捕まってないよね
-『宝物』が奪われたら、放送が流れるはずだから","Meguru…She hasn't been caught, right?
+『宝物』が奪われたら、放送が流れるはずだから","Meguru...She hasn't been caught, right?
 If the ""treasure"" was stolen, a broadcast should play."
-4001018020800,真乃,……あのねっ……『宝物』──ここに、あるの……,"…Umm, well…the ""treasure""──It's actually, right here…"
-4001018020810,灯織,！　それ……,! That's…
+4001018020800,真乃,……あのねっ……『宝物』──ここに、あるの……,"...Umm, well...the ""treasure""──It's actually, right here..."
+4001018020810,灯織,！　それ……,! That's...
 4001018020820,真乃,"めぐるちゃんが庇ってくれた時、
 私のポケットに……","When Meguru-chan shielded me there,
-she slipped it into my pocket…"
-4001018020830,灯織,っ………………,……
-4001018020840,灯織,はあ……,Haaa…
+she slipped it into my pocket..."
+4001018020830,灯織,っ………………,......
+4001018020840,灯織,はあ……,Haaa...
 4001018020850,灯織,"じゃあ、私たちを逃がすためにおとりになったってこと？
 本当にもう……","So she turned herself into bait to let us get away?
-Geez, really now…"
-4001018020860,真乃,…………,……
+Geez, really now..."
+4001018020860,真乃,…………,......
 4001018020870,真乃,"き、きっと……大丈夫
-めぐるちゃんなら、きっと逃げ切って──","S-She'll…definitely be fine.
+めぐるちゃんなら、きっと逃げ切って──","S-She'll...definitely be fine.
 It's Meguru-chan, so I'm sure she can run──"
 0000000000000,校内放送,『緊急のニュースです』,"""This is a breaking news broadcast."""
 0000000000000,校内放送,『八宮めぐるさんがオニに捕まりました』,"""Meguru Hachimiya-san has been captured by the demons."""

@@ -6,9 +6,9 @@ id,name,text,trans
 プロデューサーはどんなお店がいいと思う？","But I'm not sure where we should go...
 What kind of store do you think should we go to?"
 0000000000000,プロデューサー,（みんなでご飯か。それなら……）,"(Eating with everyone, huh. If that's the case...)"
-select,,カフェ,Cafe
-select,,ハンバーガーショップ,Hamburger shop
-select,,定食屋,Diner
+select,,カフェ,Cafe.
+select,,ハンバーガーショップ,Hamburger shop.
+select,,定食屋,Diner.
 1003001000410030,めぐる,"なるほどー！
 たしかにそれなら、ふたりとも喜んでくれそうだね！","That's right!
 If we go there, I think those two would be happy!"
