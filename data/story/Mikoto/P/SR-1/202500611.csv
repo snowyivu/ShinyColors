@@ -1,0 +1,92 @@
+id,name,text,trans
+0000000000000,プロデューサー,………………,..................
+0000000000000,プロデューサー,美琴、やっぱり練習に来ちゃってるのか,"Mikoto, I knew you'd come to practice."
+0000000000000,プロデューサー,……少しは休んでもらいたかったんだけどな,...even though I was hoping you'd get some rest.
+0000000000000,プロデューサー,美琴ー……,Mikoto...
+0000000000000,プロデューサー,……気付かないか,...She probably didn't notice.
+0000000000000,プロデューサー,"────あ
+明けた","──── Ah.
+It's the new year (aketa)."
+2025006110010,美琴,え？,Huh?
+2025006110020,美琴,"あれ、プロデューサー
+……いつ来たの？","Oh hey, Producer.
+...When did you get here?"
+0000000000000,プロデューサー,はは、結構前だよ,"Haha, quite a while ago."
+0000000000000,プロデューサー,"美琴、全然気が付かないからさ
+しばらく見させてもらったよ","Mikoto, you didn't notice me at all.
+I've been watching you for a while."
+2025006110030,美琴,"そうだったんだ
+ごめん","I see.
+Sorry."
+2025006110040,美琴,"それで、今
+何か言った？","So...
+What did you just say?"
+0000000000000,プロデューサー,ああ、『明けた』って,It's the new year (aketa).
+2025006110050,美琴,"…………？
+何を開けたの？","............?
+What did you open (aketa)?"
+2025006110060,美琴,……あ、もしかして『緋田』？,"...Oh, did you mean ""Aketa""?"
+2025006110070,美琴,"珍しいね
+名字で呼ぶなんて","That's unusual.
+Calling me by my last name."
+0000000000000,プロデューサー,はは、違うよ,"Haha, no."
+0000000000000,プロデューサー,年が明けたって言ったんだ,I said it was the beginning of the year.
+2025006110080,美琴,え…………,Eh...
+2025006110090,美琴,"……本当だ
+もう０時、回ってる","...Right.
+It's already past midnight."
+0000000000000,プロデューサー,気が付かないうちに年、越しちゃったな,The year was over before you could realize it.
+2025006110100,美琴,"うん
+そんなに時間が経っていると思わなくて……","Yeah.
+I didn't realize it had been that long..."
+0000000000000,プロデューサー,"集中してたからな
+相変わらず","You were in the zone.
+As usual."
+0000000000000,プロデューサー,"そうだ
+年越し用にって、そば買ってきたんだ","Anyway.
+I bought soba for New Year's Eve."
+0000000000000,プロデューサー,"って言っても、ただの
+インスタントなんだけどさ","Though, it's just the instant kind."
+0000000000000,プロデューサー,"本当は年の最後の差し入れに……って
+つもりだったけど","I intended it to be your last refreshment of the year, but..."
+0000000000000,プロデューサー,最初の差し入れになっちゃったな,It turned out to be the first one.
+2025006110110,美琴,……ありがとう,...Thank you.
+2025006110120,美琴,"せっかくだし
+頂こうかな","Since we're here, I'll have some."
+0000000000000,プロデューサー,"おう
+じゃあお湯入れてくるよ","Sure.
+I'll go get hot water."
+0000000000000,プロデューサー,"その他にも袋の中色々入ってるから
+好きに食べて待っててくれ","There's other stuff in the bag too.
+You can eat them while waiting for me."
+2025006110130,美琴,"うん、ありがとう
+お願いします","Mm, thanks.
+I'll wait here."
+0000000000000,プロデューサー,じゃ、すぐ戻ってくるから,"Okay, I'll be right back."
+2025006110140,美琴,ねぇ、プロデューサー,"Hey, Producer."
+0000000000000,プロデューサー,うん？,Mhm?
+2025006110150,美琴,──あけましておめでとう,──Happy New Year.
+2025006110160,美琴,……って、まだ言ってなかったよね,...I didn't tell you that.
+0000000000000,プロデューサー,"あ、ああ
+そうだったな……！","Oh, yeah.
+That's right...!"
+0000000000000,プロデューサー,あけましておめでとう,Happy New Year.
+0000000000000,プロデューサー,今年もよろしくな,Let's have another good year.
+2025006110170,美琴,"……うん
+こちらこそ、よろしくね","...Mm.
+Let's have another good year."
+0000000000000,プロデューサー,おう！,Yup!
+0000000000000,プロデューサー,"今まで以上に気合を入れて
+美琴をプロデュースしていくからな！",I'll be producing Mikoto with more enthusiasm than ever!
+2025006110180,美琴,…………っ,............heh.
+0000000000000,プロデューサー,"なんだ
+俺何か変なこと言ったか……？","Hey.
+Did I say something weird...?"
+2025006110190,美琴,"ううん
+違うの","No.
+You didn't."
+2025006110200,美琴,"なんだか
+すごく良い一年になりそうな気がしたから","I just have a feeling that,
+it's going to be a really good year."
+info,produce_events/202500611.json,
+Translator,,

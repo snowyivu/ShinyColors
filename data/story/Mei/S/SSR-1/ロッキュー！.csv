@@ -3,11 +3,11 @@ id,name,text,trans
 いっぱい集まるといいっすね！",You think lots of guests will come~? It'd be nice if a lot of them showed up!
 3019004010020,冬優子,"今、やれるだけのことはやったから……
 あとは信じよう？","For now, we've done all that we can... let's trust the rest will follow?"
-3019004010030,冬優子,ふう……ドキドキしてきた……,Hah... my heart's pounding...
+3019004010030,冬優子,ふう……ドキドキしてきた……,Hah... Fuyu's heart is pounding...
 3019004010040,愛依,"え、えっと……
 あのさ……",U-Uhm... Hey...
 3019004010050,愛依,"実は、ふたりに言っておかないと
-いけないことがあって──","The truth is, there's something I have to talk to you two about that I can't do─"
+いけないことがあって──","The truth is, there's something I have to tell the two of you─"
 3019004010060,あさひ,"なんすかなんすか？
 面白いことっすか？","What is it, what is it? Is it somethin' interesting?"
 3019004010070,愛依,面白いことっつーか……,Something interesting...?
@@ -23,7 +23,7 @@ id,name,text,trans
 身体は勝手に動くっすから！","When your body's up on the stage, it'll just start moving on its own!"
 3019004010150,愛依,そ、そういうもん……？,Y-You think so...?
 0000000000000,スタッフ,"それじゃあストレイライトのみなさん、
-本番前のステージチェックお願いしまーす！","Alright then, Straylight group, let's do Stage Check before the performance, please!"
+本番前のステージチェックお願いしまーす！","Alright then, Straylight, let's do a final stage check before the performance, please!"
 3019004010160,冬優子,"はーい
 よろしくお願いしまーす",Okay! Thanks for helping out.
 3019004010170,あさひ,行くっす行くっすー！,Let's go let's goー!
@@ -34,7 +34,7 @@ id,name,text,trans
 0000000000000,スタッフ,和泉さーん、イヤモニ大丈夫ですかー？,"Izumi-san, is your earpiece workingー?"
 3019004010210,愛依,は、はい……！,Y-Yes...!
 0000000000000,スタッフ,"音量確認しますので、
-MCの感じで声を出してもらえるとー","In order to check the sound, would you mind giving us an example of your MC'ing?"
+MCの感じで声を出してもらえるとー","I'd like to check the sound levels, so would you mind talking like you're doing an MC?"
 3019004010220,愛依,えっ、MC……！？　な、なんだっけそれ……,"Ehh, MC...!? W-What's that..."
 3019004010230,冬優子,"喋ることだよ
 お客さんに向けて……",It's just talking. To the audience...
@@ -51,36 +51,36 @@ MCの感じで声を出してもらえるとー","In order to check the sound, w
 ストレイライト……ストレイライト……","...Straylight... Straylight...
 Straylight... Straylight..."
 3019004010310,冬優子,"……噛みそうな名前だもんね
-間違っちゃうのも仕方ないよ","...you fumbled on the name, huh. You're gonna make mistakes sometimes, y'know."
+間違っちゃうのも仕方ないよ","...it's a pretty tricky name, isn't it? You shouldn't beat yourself up about it."
 3019004010320,愛依,"はああ……マジごめん……
-なんか真っ白になっちゃって……",Haaa... I'm totally sorry... I went white as a sheet...
+なんか真っ白になっちゃって……","Haaa... I'm totally sorry... Somehow my mind, like, blanked out..."
 3019004010330,冬優子,……大丈夫？,...are you okay?
 3019004010340,愛依,だっ、大丈夫……！　大丈夫……,I-I'm okay...! I'm okay...
 3019004010350,愛依,"さっきは急に振られたからビックリしたけどさ……
 プロデューサーと考えたヒミツのワザもあるし……！",I just got started because that was thrown on me all of a sudden... but Producer taught me a secret technique...!
 3019004010360,あさひ,ヒミツのワザっすか？,A secret technique?
 3019004010370,愛依,うん、喋れないことを逆手にとるワザ！,"Yeah, it's a technique to reverse my speechlessness!"
-3019004010380,愛依,ミステリアスキャラになんの！,I'll be a Mysterious Character!
+3019004010380,愛依,ミステリアスキャラになんの！,I'll become a mysterious character!
 3019004010390,冬優子,…………？？,......??
-3019004010400,冬優子,えっと……愛依ちゃんが？,Uhm... Mei-chan will be?
+3019004010400,冬優子,えっと……愛依ちゃんが？,"Uhm... you, Mei-chan?"
 3019004010410,愛依,そう！,Yeah!
-3019004010420,冬優子,ミステリアスキャラに……なるの？,You'll become... a Mysterious Character?
+3019004010420,冬優子,ミステリアスキャラに……なるの？,You'll become... a mysterious character?
 3019004010430,愛依,そうそう！　なんの！,That's right! I'll change!
 3019004010440,冬優子,………………,......
 3019004010450,あさひ,あー、冬優子ちゃんが信じてないっすー,"Ahh, Fuyuko-chan totally doesn't believe itー"
 3019004010460,冬優子,そ、そういう訳じゃ……！,T-That's not...!
 3019004010470,冬優子,"ただちょっとイメージできなくて……
-いつもの愛依ちゃんとは違うから……",But it's an image I can't really see... since it's completely different than the everyday Mei-chan...
+いつもの愛依ちゃんとは違うから……",But it's something Fuyu can't really picture... since it's completely different than the everyday Mei-chan...
 3019004010480,愛依,"アハハ、だよねー
 わかる～","Ahaha, rightー? I get that～"
 3019004010490,冬優子,"あっ、ごめんね
-全然違うって訳じゃないんだけど、その……","Ah, sorry about that. It's just since it's totally different, I guess..."
+全然違うって訳じゃないんだけど、その……","Ah, sorry about that. It's just since it's totally different, it's..."
 3019004010500,あさひ,"わたしは見たことないっす！
 ミステリアスな愛依ちゃん、楽しみっす！","I don't see it either! The Mysterious Mei-chan, sounds fun!"
 3019004010510,愛依,"マジでマジで！？
 楽しみにしてくれるとかありがと～！",Isn't it totally!? Thanks for looking forward to it~!
 3019004010520,愛依,"じゃ、あさひちゃんのためにも
-腕によりをかけたミステリアスをお見せしないとね～","Then, I'll have to really up my skill to show the Mysterious character to Asahi-chan too~"
+腕によりをかけたミステリアスをお見せしないとね～","Then, I'll have to really pump up the mysterious character act for you, Asahi-chan~"
 3019004010530,冬優子,………………,......
 3019004010540,冬優子,めっ、愛依ちゃんっ……！,M-Mei-chan...!
 3019004010550,愛依,ん！？,Hm!?
@@ -90,13 +90,13 @@ Straylight... Straylight..."
 ふゆ、精一杯フォローするから……！","We'll have to come up with a signal... Fuyu, will do her best to back you up...!"
 3019004010580,冬優子,ね……！,Okay...?
 3019004010590,愛依,冬優子ちゃん……,Fuyuko-chan...
-3019004010600,あさひ,わたしも合図欲しいっす！,I want a signal too!
+3019004010600,あさひ,わたしも合図欲しいっす！,I wanna do a signal too!
 3019004010610,愛依,あさひちゃん……,Asahi-chan...
 3019004010620,あさひ,"合図をもらったら何すればいいっすか？
-踊ればいいっすか？","For a signal, what kind of a sign would be good? Maybe like a dance move?"
+踊ればいいっすか？","What kinda signal would be good? Maybe, like, a dance move?"
 3019004010630,愛依,アハハ……,Ahaha...
 3019004010640,愛依,"うん、あさひちゃんが踊ってくれたら
-うちも踊って誤魔化そうかな～","Hm, if Asahi-chan did a dance move, we'd also have to do the move too, right~"
+うちも踊って誤魔化そうかな～","Yeah, if Asahi-chan does a dance move, I'll start dancing too to hide my nerves!"
 3019004010650,あさひ,"ナイスアイディアっす！
 やっぱりアイドルはパフォーマンス勝負っすからね！",Nice idea! Idol performances are a competition after all!
 3019004010660,冬優子,まったくもう……,Honestly already...
@@ -106,12 +106,14 @@ Straylight... Straylight..."
 3019004010691,あさひ,──始めるっすよ,─I'll start.
 3019004010692,愛依,ん……,Mm...
 3019004010693,冬優子,……！,...!
-3019004010694,あさひ,──歓迎してくれて、ありがとっす,"─Welcome, thanks everyone."
+3019004010694,あさひ,──歓迎してくれて、ありがとっす,Thanks for the welcome!
 3019004010695,あさひ,"……でも、ねぇみんな、
-これじゃまだまだだなって思いません？","...but, guys, don't you think there's still more?"
+これじゃまだまだだなって思いません？","...But, hey everyone,
+don't you think this still isn't enough?"
 3019004010696,あさひ,"わたしは、今日来てくれたみんなのこと、
-後悔させないっすよ","For everyone who came today, I'll make sure you don't regret it."
-3019004010697,あさひ,──……みんながついてこられたら、なんすけど,"─...if everyone can follow me, what then?"
+後悔させないっすよ","Everyone who came here today,
+I won't make you regret it."
+3019004010697,あさひ,──……みんながついてこられたら、なんすけど,"...Everyone, can you follow me?"
 3019004010698,愛依,"…………応援、ありがと
 届いてる、よ……","......your cheers, thank you. They've reached me..."
 3019004010699,愛依,"みんなのために……
