@@ -41,8 +41,10 @@ select,,"着くまで
 寝ててもいいぞ","It's alright if you 
 take a nap while 
 we're on the road."
-select,,ラジオつけるか？,Want me to turn the radio on?
-select,,しりとりでもするか！,Let's play some shiritori!
+select,,ラジオつけるか？,"Want me to turn
+the radio on?"
+select,,しりとりでもするか！,"Let's play some
+shiritori!"
 0000000000000,プロデューサー,疲れてるだろうし、着いたら起こすから,I bet you're tired. I can just wake you up when we arrive.
 2013006010170,夏葉,いいえ、大丈夫よ,"No, I'm fine."
 0000000000000,プロデューサー,遠慮しなくてもいいんだぞ？,"You don't have to force yourself, you know."

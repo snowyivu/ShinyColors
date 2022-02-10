@@ -1,11 +1,11 @@
 id,name,text,trans
-5006002050010,透,…………,…
+5006002050010,透,…………,...
 5006002050020,円香,……ん……,...Nn...
 5006002050030,小糸,……はぁ……はぁ……,...Haa...haa...
 5006002050040,雛菜,……ふ～……,...Phew...
 0000000000000,トレーナー,うん、とても良かったです,"Alright, looks good."
-0000000000000,トレーナー,みんな、ここまでよく頑張りました,"Everyone, you’ve worked hard."
-5006002050050,小糸,…………！,…!
+0000000000000,トレーナー,みんな、ここまでよく頑張りました,"Everyone, you've worked hard."
+5006002050050,小糸,…………！,...!
 0000000000000,トレーナー,本番に間に合いそうでよかった,"And I'm happy to say that all of you 
 are ready for the fan festival."
 0000000000000,トレーナー,"この先は通しで練習して
@@ -17,7 +17,7 @@ and polish yourselves up till the end!"
 Good work everyone!"
 5006002050061,一同,ありがとうございました！,Thank you very much!
 0000000000000,トレーナー,"…………！
-あはは……","…!
+あはは……","...!
 Ahaha..."
 5006002050070,小糸,え……,Eh...
 5006002050080,雛菜,"トレーナーさん
@@ -83,13 +83,13 @@ How about Madoka and Koito?"
 もっとらくがきだったけど～",What Hinana drew was more rough than this though～
 5006002050260,小糸,"す、すごいな……
 楽しみだね……！","A-Amazing...
-I'm looking forward to it…!"
+I'm looking forward to it...!"
 0000000000000,プロデューサー,はは、そうだな,"Haha, you're right."
 0000000000000,プロデューサー,"細かい演出面では出してもらった案を
 実現できたところも、できなかったところもある","Regarding the performance itself,
 there were parts of your suggestions that we couldn't fit in as well."
 0000000000000,プロデューサー,"例えば……
-飴を降らすっていうのは難しくて","For example… This part about dropping candy. 
+飴を降らすっていうのは難しくて","For example... This part about dropping candy. 
 That'll be a little tricky."
 5006002050270,雛菜,あは～、やっぱり～,Aha～ I thought so～
 0000000000000,プロデューサー,"その代わり、紙吹雪を
@@ -101,7 +101,7 @@ Innovation.
 "
 5006002050290,小糸,"こ、これ、わたしたちも
 拾って帰れるかな……！","I-I wonder if we're able to pick them up 
-and bring them home ourselves…!"
+and bring them home ourselves...!"
 5006002050300,円香,"……いいんじゃない？
 小糸ひとりで拾うなら","...Why not? It's probably fine as long as 
 Koito's the only one picking them up."
@@ -113,14 +113,14 @@ been confirmed as of now."
 I'll send this document for final adjustments, 
 however..."
 0000000000000,プロデューサー,"その他に、まだ
-やりたいこと、あるか？",Is there anything else you’d all like to do?
-5006002050310,小糸,…………！,…!
+やりたいこと、あるか？",Is there anything else you'd all like to do?
+5006002050310,小糸,…………！,...!
 5006002050320,透,…………,...
 5006002050330,円香,…………,...
 0000000000000,プロデューサー,"……無さそうなら
 今、出ているもので──……","...Seems like there's nothing, I see.
 Alright, I'll send these ou──..."
-5006002050340,小糸,あ、あの……！,U-Um…!
+5006002050340,小糸,あ、あの……！,U-Um...!
 0000000000000,プロデューサー,"お、小糸
 何かあるか？","Oh, Koito. 
 Got something in mind?"
@@ -144,10 +144,10 @@ I was thinking we had to deal with that first..."
 5006002050410,円香,…………,......
 5006002050420,小糸,"でも、今日の練習で
 たぶん、ちゃんと、できたから……！","But, from today's lesson,
-I think, we’ve got it down properly…!"
+I think, we've got it down properly...!"
 5006002050430,小糸,"遅くなっちゃったけど、
 わたしも案、出してもいいですか……！","It's a little late but,
-I hope it’s alright for me...to put in a suggestion now…!"
+I hope it's alright for me...to put in a suggestion now...!"
 0000000000000,プロデューサー,"ああ、もちろん
 みんなはどうだ？","Of course.
 How about the rest?"
@@ -162,9 +162,9 @@ like these, after all."
 Have you written that letter already?"
 5006002050470,小糸,"う、うん
 一応……！","Y-Yep.
-Somewhat…!"
+Somewhat...!"
 5006002050480,雛菜,じゃあ読んでみて～！,How about you read it now～!
-5006002050490,小糸,え……！,Eh…!
+5006002050490,小糸,え……！,Eh...!
 5006002050500,透,聞きたい,I wanna hear it.
 5006002050510,小糸,で、でも……,B-But...
 5006002050520,円香,"『レッスン室でできないことは
@@ -173,7 +173,7 @@ you're not pulling it off during the live."""
 5006002050530,円香,……って、トレーナーも言ってなかったっけ？,...Didn't our trainer say something like that?
 5006002050540,小糸,"う……も、もう
 仕方ないなぁ……！","Uu...F-Fine.
-I guess I don’t have a choice…!"
+I guess I don't have a choice...!"
 0000000000000,プロデューサー,──はは……,──Haha...
 select,,盛り上がってきたな,Seems like things are getting lively
 select,,本番が楽しみだな,I'm looking forward to the real thing
@@ -190,11 +190,11 @@ the whole time, you know～?"
 5006002050570,円香,小糸が読み始められないんですが,Koito can't start reading otherwise.
 0000000000000,プロデューサー,……心配なさそうだ,...Seems like there's nothing to worry about.
 5006002050580,透,うん,Yeah.
-5006002050590,透,大丈夫,It’s all good.
+5006002050590,透,大丈夫,It's all good.
 5006002050600,小糸,"…………
-じゃ、じゃあ、読みます","……
+じゃ、じゃあ、読みます","......
 T-Then, I'll be reading it."
 5006002050610,小糸,──『こんにちは』,"── ""Good afternoon."""
-5006002050620,小糸,『ノクチルの、福丸小糸です』,"""It’s Fukumaru Koito from noctchill."""
+5006002050620,小糸,『ノクチルの、福丸小糸です』,"""It's Fukumaru Koito from noctchill."""
 info,produce_events/500600205.json,
 Translator,OrangeKabocha,

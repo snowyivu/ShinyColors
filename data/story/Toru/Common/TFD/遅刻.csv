@@ -1,17 +1,17 @@
 id,name,text,trans
 1020002010010,透,────あれ,────Huh.
-0000000000000,プロデューサー,あれっ、透……！,"Oh, Toru…!"
+0000000000000,プロデューサー,あれっ、透……！,"Oh, Toru...!"
 1020002010020,透,"何
 めっちゃ走ってる","You're practically sprinting.
 What's up?"
 0000000000000,プロデューサー,"か、会議でさ……！
-もう遅刻ぎりぎりなんだけど……また後でな！","I-It's a meeting, you see…!
+もう遅刻ぎりぎりなんだけど……また後でな！","I-It's a meeting, you see...!
 I'm running late so uh...talk to you later!"
 1020002010030,透,……────,...────
-0000000000000,プロデューサー,────ふぅ…………,────Phew…...
+0000000000000,プロデューサー,────ふぅ…………,────Phew......
 1020002010040,透,────ちょ……,────Hold...
 1020002010050,透,"速いから……！
-意外に……","You're really fast…!
+意外に……","You're really fast...!
 Surprisingly..."
 0000000000000,プロデューサー,"えっ、透！？
 なん────","Eh, Toru?!
@@ -30,17 +30,17 @@ Wai────
 Is Toru...running too...
 "
 1020002010100,透,"……
-知らない……","…
+知らない……","...
 I don't know..."
 1020002010110,透,"走る……から……
-プロデューサーが……","Because...Producer…
+プロデューサーが……","Because...Producer...
 is running too...
 "
 0000000000000,プロデューサー,えっ,Eh?
-1020002010120,透,つられる……！,I'm getting dragged along…!
+1020002010120,透,つられる……！,I'm getting dragged along...!
 1020002010130,透,"……あと
 気持ちいいでしょ……！","...also because...
-it feels good…!"
+it feels good...!"
 1020002010140,透,風────,The wind────
 info,produce_events/102000201.json,
 Translator,OrangeKabocha,
