@@ -743,7 +743,6 @@ present.main.count.unit,件,x
 present.main.notice,期限が切れたプレゼントは自動的に削除されます。\rまた、一度に受け取れるプレゼントは100件までです。,Expired presents are automatically deleted.\r\nYou can claim up to 100 presents at a time.
 present.receive.title,プレゼント受け取り,Accept Presents
 present.receive.message,以下のプレゼントを受け取りました,You received the following gifts
-present.receive.itemNameNum,%{Name} ×%{Num},%{Name} ×%{Num}
 present.receiveAllConfirm.title,プレゼント一括受け取り,Collect Bulk Gifts
 present.receiveAllConfirm.text,プレゼントを新しいものから\r100件まで受け取ります。\rよろしいですか？,Claim the latest 100 gifts\r\nAre you sure?
 present.receiveAll.title,プレゼント一括受け取り,Collect Bulk Gifts
