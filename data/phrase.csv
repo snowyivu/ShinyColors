@@ -1339,7 +1339,7 @@ reporterEvent.eventEndCutIn.endText,取材による効果の発動期間が終�
 reporterEvent.eventEndCutIn.failure,うちの記事のせいでアイドルの評判が落ちた？\n言いがかりはよしてください。偶然ですよ、偶然──,"Your idol lost some reputation after my article?\nDon't look at me, it's a coincidence."
 reporterEvent.eventEndCutIn.success,素敵なお話をありがとうございました！\nこれからのご活躍も楽しみにしております──！,Thanks for your wonderful story!\nWe look forward to your success in the future!
 reporterEvent.goodReporter,敏腕通信社『週刊イチオシ！』編集部の善村 良子です！\n%{name}様の魅力を伝えられるように努めます！,"This is Ryoko Yoshimura from ""Weekly Recommended""'s editorial department!\nI think we conveyed Ms. %{name}'s charm well!"
-reporterEvent.incomingMail,『%{name}様のご活躍を拝見し、\n是非とも、お話を伺いたいと────────』,"""I've been watching Ms. %{name}'s accomplishments,\nand would love to interview them----"""
+reporterEvent.incomingMail,『%{name}様のご活躍を拝見し、\n是非とも、お話を伺いたいと────────』,"""I've been watching Ms. %{name}'s\naccomplishments, and would love to\ninterview them----"""
 reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記事にしてもらおうか？,"Alright! Well then,\r\nwhat kind of article should we do?"
 reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
 reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
