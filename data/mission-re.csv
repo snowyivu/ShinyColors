@@ -344,3 +344,9 @@ $nounに参加して、$num位に$num回なろう, Earn rank $2 in $1 $3 times,e
 $nounを$num回クリアしよう,Clear $1 $2 times,exp
 いずれかのアイドルをプロデュースして、$noun$num以上のフェスアイドルを誕生させよう,Create any idol with $2 $1 or higher,exp
 オーバーキャストモノクローム獲得ミッションを全て達成しよう,Complete all Overcast Chrome missions,exp
+$nameをプロデュースして$noun以上のフェスアイドルにしよう,Create a $2 or higher $1 Fes Idol,exp
+【$unknown】ライブアイテムを$num個使用する,【$1】Use $2 Live Items,exp
+Fes Toursで$numSTAGEを突破する,Clear stage $1 in Fes Tours,exp
+ライブアイテムを$num個使用する,Use $1 Live Items,exp
+STAGE$numで登場するExtremeライブに勝利する,Clear the Stage $1 Extreme Live,exp
+Extremeライブに$num回勝利する,Clear $1 Extreme Lives,exp
