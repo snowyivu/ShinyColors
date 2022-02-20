@@ -100,7 +100,7 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
-興味無視,Ignore Judge Interest,
+興味無視,Ignore Judge Interest,noun
 Dance,Dance,noun
 Vocal,Vocal,noun
 Visual,Visual,noun
@@ -219,7 +219,7 @@ Viレッスン,Vi Lesson,noun
 ライバルに,All Rivals,
 必ず最初に,Always First,
 必ず最後に,Always Last,
-リザレクション効果$num％付与,$1% Chance to Resurrect,
+リザレクション効果$num％付与,Resurrect at $1%,
 [条件:$nameがライブに参加している場合],[Condition: $1 in Unit],
 [条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position],
 ​リラックス効果$num％付与,Grants $1% Relax,text

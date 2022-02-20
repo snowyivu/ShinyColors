@@ -1803,7 +1803,7 @@ fesTower.bonus.areaClearedBonusSelectPop.title,地方ツアー達成ボーナス
 fesTower.bonus.areaClearedBonusSelectPop.description,%{areaName}ツアーを達成しました\r地方ツアーの達成ボーナスを選択してください,Completed tour of %{areaName}.\rPlease select a completion bonus.
 fesTower.bonus.areaClearedBonusSelectPop.noticeText,地方ツアーの達成ボーナスは全国ツアー達成まで継続します,A region completion bonus is valid until completing the national tour.
 fesTower.bonus.completeBonusSelectPop.title,全国ツアー達成ボーナス,National tour Completion Bonus
-fesTower.bonus.completeBonusSelectPop.description,全国ツアー%{completeAreaLevel}周目を達成しました\r全国ツアーの達成ボーナスを選択してください,National Tour %{completeAreaLevel} completed.\Please select a completion bonus.
+fesTower.bonus.completeBonusSelectPop.description,全国ツアー%{completeAreaLevel}周目を達成しました\r全国ツアーの達成ボーナスを選択してください,National Tour %{completeAreaLevel} completed.\rPlease select a completion bonus.
 fesTower.bonus.completeBonusSelectPop.noticeText,全国ツアーの達成ボーナスは次のリスタートまで継続します,A national completion bonus is valid until your next restart.
 fesTower.bonus.extremeBonusSelectPop.title,Extremeライブ達成ボーナス,Extreme Live Completion Bonus
 fesTower.bonus.extremeBonusSelectPop.description,ExtremeライブLv.%{extremeLiveLevel}を達成しました\rExtremeライブの達成ボーナスを選択してください,Extreme Live Lv.%{extremeLiveLevel} completed.\rPlease select a completion bonus.
