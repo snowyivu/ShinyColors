@@ -112,7 +112,7 @@ G.R.A.D.に優勝しよう,Win the G.R.A.D. Championship,text
 大崎 甜花,Tenka Osaki,name
 桑山 千雪,Chiyuki Kuwayama,name
 芹沢 あさひ,Asahi Serizawa,name
-黛冬 優子,Fuyuko Mayuzumi,name
+黛 冬優子,Fuyuko Mayuzumi,name
 和泉 愛依,Mei Izumi,name
 浅倉 透,Toru Asakura,name
 樋口 円香,Madoka Higuchi,name
@@ -352,12 +352,28 @@ STAGE$numで登場するExtremeライブに勝利する,Clear the Stage $1 Extre
 Extremeライブに$num回勝利する,Clear $1 Extreme Lives,exp
 "灯織、摩美々、結華、霧子、凛世、甜花、愛依、小糸","Hiori,Mamimi,Yuika,Kiriko,Rinze,Tenka,Mei,Koito",noun
 "めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか","Meguru,Sakuya,Kaho,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika",noun
-"真乃、霧子、甜花","Mano,Kiriko,Tenka",noun
+"チーム","Team",noun
+"ピーちゃん","Pii-chan",noun
+"(真乃、霧子、甜花)","(Mano,Kiriko,Tenka)",noun
+"一番星","First Star",noun
+"(灯織、果穂、甘奈)","(Hiori,Kaho,Amana)",noun
+"うさちよかめ","UsaChiyoKame",noun
+"(恋鐘、智代子、愛依)","(Kogane,Chiyoko,Mei)",noun
+"まりあ","MaRiA",noun
+"(摩美々、凛世、あさひ)","(Mamimi,Rinze,Asahi)",noun
+"青春ジャージ","Youthful Jersey",noun
+"(結華、夏葉、千雪)","Yuika,Natsuha,Chiyuki",noun
+"ヘルメス","Hermes",noun
+"(めぐる、咲耶、樹里、冬優子)","(Meguru,Sakuya,Juri,Fuyuko)",noun
 $nounのすべての基礎能力$num%,"$1 Base Stamina $2%",exp
-$unknown$noun$unknownの体力回復量を20%上昇,$1$2$3 restore 20% more Stamina,exp
-$nameの編成時、すべてのアピール値$num%,"When using $1, all appeal strength $2%",exp
-$unknown$noun$unknownの体力減少量を$num%軽減,$1$2$3 lose $4% less Stamina,exp
-$nounの編成時、すべてのアピール値$num%,"When using $1, all appeal strength $2%",exp
-すべてのアイドルのすべての基礎能力$num%,All idol's Base Stamina $1%,exp
+$nounの体力減少量を$num%軽減,$1 lose $2% less Stamina,exp
+$noun$unknown$noun$noun$unknownの体力回復量を$num%上昇,$1$2$3$4$5 restore $6% more Stamina,exp
+$nounの体力回復量を$num%上昇,$1 restore $2% more Stamina,exp
+$nameの編成時、すべてのアピール値$num%,"Appeals by $1 have $2% effect",exp
+$noun$unknown$noun$noun$unknownの体力減少量を$num%軽減,$1$2$3$4$5 lose $6% less Stamina,exp
+$nounの編成時、すべてのアピール値$num%,"Appeals by $1 have $2% effect",exp
 フェスツアーptの獲得量を$num%減少,Fes Tour pt gains decreased $1%,exp
+すべてのアイドルのすべての基礎能力$num%,All idol's Base Stamina $1%,exp
 すべてのアイドルの体力回復量を$num%上昇,All idol's Stamina Recovery increased $1%,exp
+すべてのアピール値$num%,Appeals by all idols have $1% effect,exp
+すべてのアイドルの体力消費量$num%上昇,All idol's Stamina drains $1% faster,exp
