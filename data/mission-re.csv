@@ -365,15 +365,17 @@ Extremeライブに$num回勝利する,Clear $1 Extreme Lives,exp
 "(結華、夏葉、千雪)","Yuika,Natsuha,Chiyuki",noun
 "ヘルメス","Hermes",noun
 "(めぐる、咲耶、樹里、冬優子)","(Meguru,Sakuya,Juri,Fuyuko)",noun
+"めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか","Meguru,Sakuya,Juri,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika",noun
 $nounのすべての基礎能力$num%,"$1 Base Stamina $2%",exp
-$nounの体力減少量を$num%軽減,$1 lose $2% less Stamina,exp
 $noun$unknown$noun$noun$unknownの体力回復量を$num%上昇,$1$2$3$4$5 restore $6% more Stamina,exp
 $nounの体力回復量を$num%上昇,$1 restore $2% more Stamina,exp
 $nameの編成時、すべてのアピール値$num%,"Appeals by $1 have $2% effect",exp
-$noun$unknown$noun$noun$unknownの体力減少量を$num%軽減,$1$2$3$4$5 lose $6% less Stamina,exp
 $nounの編成時、すべてのアピール値$num%,"Appeals by $1 have $2% effect",exp
 フェスツアーptの獲得量を$num%減少,Fes Tour pt gains decreased $1%,exp
 すべてのアイドルのすべての基礎能力$num%,All idol's Base Stamina $1%,exp
 すべてのアイドルの体力回復量を$num%上昇,All idol's Stamina Recovery increased $1%,exp
 すべてのアピール値$num%,Appeals by all idols have $1% effect,exp
 すべてのアイドルの体力消費量$num%上昇,All idol's Stamina drains $1% faster,exp
+$unknown$noun$unknownの体力減少量を$num%軽減,$1$2$3 lose $4% less Stamina,exp
+$nounの体力減少量を$num%軽減,$1 lose $2% less Stamina,exp
+$noun$unknown$noun$noun$unknownの体力減少量を$num%軽減,$1$2$3$4$5 lose $6% less Stamina,exp
