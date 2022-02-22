@@ -109,6 +109,7 @@ images/ui/item/parts_content.json_image,item_parts_content.png,10
 images/ui/item/parts.json_image,item_parts.png,12
 images/content/produce_area/button_m/002.png,button_m_002.png,3
 images/content/produce_area/button_l/002.png,button_l_002.png,3
+images/content/produce_area/button_l/004.png,button_l_004.png,2
 images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,6
 images/ui/common/parts_item_content.json_image,item_content.png,3
 images/ui/skin_exchange/parts.json_image,skin_exchange.png,11
@@ -144,6 +145,9 @@ images/content/my_page/banner_border/event_notice.png,event_notice.png,3
 images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,5
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,6
 ae/work_activity_start/images/text_final.png,text_final.png,4
+images/ui/produce_deck/parts_deck_move_copy.json_image,parts_deck_move_copy.png,2
+images/ui/produce_music_common/parts.json_image,produce_music_common_parts.png,3
+images/ui/produce_music_select/parts.json_image,produce_music_select_parts.png,2
 ae/work_activity_start/images/txt4.png,txt4.png,4
 ae/work_activity_start/images/txt3.png,txt3.png,4
 ae/work_activity_start/images/txt2.png,txt2.png,4

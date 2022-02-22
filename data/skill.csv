@@ -224,3 +224,15 @@ Viレッスン,Vi Lesson,noun
 [条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position],
 ​リラックス効果$num％付与,Grants $1% Relax,text
 全ユニットにリラックス効果$num％付与,Grants All Units $1% Relax,text
+歌唱力,Vocals,noun
+安定感,Stability,noun
+表現力,Expressiveness,noun
+​​集中力,Focus,noun
+団結力,Teamwork,noun
+​​レッスンのすべて,All Lessons,noun
+お仕事のすべて,All Work,noun
+​​トークイベントのすべて,All Talk Event,noun
+楽曲サポートボーナス,Music Support Bonus,noun
+の熟練度獲得量が$num倍,$1x Prep Gain,exp
+トラブル率が$num%,Trouble Rate $1%,exp
+​​体力の消費量が増加,Stamina Drain Increased,exp
