@@ -5,23 +5,23 @@ id,name,text,trans
 『ピース・オブ・エイト！』","""Pieces of eight!""
 ""Pieces of eight!"""
 4001032010020,透,"…………──────
-──────","…──────
+──────","...──────
 ──────"
 0000000000000,off,"『オキロ　ノロマ
 グズグズ　スルナ！』","""Wake up, you silly duffer!
 Stop lazing around!"""
 4001032010030,透,"──────
 ────………","──────
-────…"
+────..."
 0000000000000,off,『ピース・オブ・エイト！』,"""Pieces of eight!"""
 4001032010040,透,"────
 ────────","────
 ────────"
 4001032010050,透,"──────…………
-……あー","──────…
-…Ahh."
+……あー","──────...
+...Ahh."
 4001032010060,透,"…………
-おまえかー…………","…
+おまえかー…………","...
 It was you huh..."
 0000000000000,オウム,オキロ　ノロマ！,"WAKE UP, YOU SILLY DUFFER!"
 4001032010070,透,"いや休みだし……
@@ -32,10 +32,10 @@ It was you huh..."
 オキロ　ノロマ！","WAKE UP, YOU SILLY DUFFER!
 WAKE UP, YOU SILLY DUFFER!"
 4001032010090,透,"──────……
-だまれ……鳥……──────","──────…
+だまれ……鳥……──────","──────...
 Shut up...you bird...──────"
 4001032010100,透,"…………────
-──────────","…────
+──────────","...────
 ──────────"
 4001032010110,透,"ドン……
 と",Boom...
@@ -87,7 +87,7 @@ That's awful～!"
 ほんとにのろのろしてるんじゃない","Really?
 I bet you were actually lazing around.
 "
-4001032010280,透,あー……,Ahh…
+4001032010280,透,あー……,Ahh...
 4001032010290,透,"え
 休みだし","Eh.
 I mean, it's the holidays."
@@ -108,7 +108,7 @@ lucky items like the kumade──"""
 夏が終わったと思ったばっかりなのに","Haha. 
 Even though it feels like summer just ended."
 0000000000000,プロデューサー,"…………
-テレビ、消すとちょっと寂しいんだよなぁ","…
+テレビ、消すとちょっと寂しいんだよなぁ","...
 It gets kind of lonely in here without the TV on..."
 0000000000000,プロデューサー,"みんな、
 休暇を楽しんでくれてたらいいんだけど────",I hope everyone's enjoying their holidays────
@@ -143,7 +143,7 @@ M-Maybe we can find a better one...!"
 It's fine."
 4001032010410,円香,お遣い終わり,Errand done.
 4001032010420,小糸,"い、いいの……？
-透ちゃん────","I-Is it really okay…?
+透ちゃん────","I-Is it really okay...?
 Toru-chan────"
 4001032010430,透,"うん
 いい、いい──","Yep.
@@ -201,20 +201,20 @@ Peaace."
 透先輩映ってる～","Aha～
 Toru-senpai, you're on TV～"
 4001032010610,小糸,"も、もういっぱい映ったよ……！
-帰ろ────","W-We've appeared enough…!
+帰ろ────","W-We've appeared enough...!
 Let's go────"
 4001032010620,円香,ピース,Peaace.
-4001032010630,小糸,ま、円香ちゃんまで……！,E-Even Madoka-chan…!
+4001032010630,小糸,ま、円香ちゃんまで……！,E-Even Madoka-chan...!
 4001032010640,雛菜,"やは～
 ピース～！","Yaha～
 Peacee～!"
-4001032010650,小糸,ぴ、ぴぇ……！,P-Pyeh…!
+4001032010650,小糸,ぴ、ぴぇ……！,P-Pyeh...!
 0000000000000,ニュース番組リポーター,"『────それでは
 カメラをスタジオにお戻しします────』","""────And with that,
 back to the studio────"""
 4001032010651,一同,──────,──────
 4001032010660,透,ふふっ,Fufu.
-4001032010670,透,はー……,Haaa……
+4001032010670,透,はー……,Haaa......
 0000000000000,プロデューサー,"──おっと、テレビ局から……？
 もう年内の営業は────","──Oh-ho, a call from the TV station...?
 Pretty sure our jobs for the year are────"
@@ -231,7 +231,7 @@ We're not planning on taking up
 such offers at the moment────"
 4001032010690,透,"休み
 いつまでだっけ","When's our holiday till, again?"
-4001032010700,透,────ねむ……,────I'm sleepy…
+4001032010700,透,────ねむ……,────I'm sleepy...
 0000000000000,off,"オキロ　ノロマ！
 グズグズ　スルナ！","Wake up, you silly duffer!
 Stop lazing around!"
@@ -242,7 +242,7 @@ answer...and um────"
 4001032010710,透,じゃーねー,Byeee.
 4001032010711,一同,バイバーイ……,Bye bye...
 0000000000000,プロデューサー,──はい、恐れ入ります,"──Yes, thank you."
-0000000000000,プロデューサー,…………,……
+0000000000000,プロデューサー,…………,......
 0000000000000,オウム,"ピース・オブ・エイト！
 ピース・オブ・エイト！","PIECES OF EIGHT!
 PIECES OF EIGHT!"
@@ -281,7 +281,7 @@ PIECES OF EIGHT!"
 What does that even mean."
 0000000000000,オウム,オキロ　ノロマ！,"WAKE UP, YOU SILLY DUFFER!"
 0000000000000,オウム,オキロ！,WAKE UP!
-4001032010800,透,…………,……
+4001032010800,透,…………,......
 4001032010810,透,黙れ、鳥────,"Shut up, bird────"
 info,game_event_communications/400103201.json,
 Translator,OrangeKabocha,

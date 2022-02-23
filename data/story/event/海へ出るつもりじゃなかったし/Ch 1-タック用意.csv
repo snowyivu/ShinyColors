@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"みん……な……おつ……かれ……
 冬……休……み……楽しん……でる……か","Hello..everyone...I hope..you're..keeping well...
-Is…everyone..enjoying their..winter..break?"
+Is...everyone..enjoying their..winter..break?"
 0000000000000,プロデューサー,"『みんな、お疲れ
 冬休み、楽しんでるか』","""Hello everyone, I hope you're keeping well.
 Is everyone enjoying their winter break?"""
@@ -62,9 +62,9 @@ It's nothing～!"
 完全に休みモードだな","Everyone...
 They're all on holiday mode, huh."
 0000000000000,プロデューサー,"……まぁ
-休暇中に仕事の打診っていうのも気が引けるけど……","…Well.
+休暇中に仕事の打診っていうのも気が引けるけど……","...Well.
 Getting a work notification during your break 
-certainly is a bummer, but…
+certainly is a bummer, but...
 "
 0000000000000,プロデューサー,"『みんなに少し相談したい
 通話できるようなら教えてくれるか』","""I have something to discuss with all of you.
@@ -73,7 +73,7 @@ Please let me know if any of you are free to call."""
 4001032020180,円香,──────,──────
 0000000000000,少年,"──ママ、まってて！
 あの絵本だけとってくるから……！","──Mommy, wait!
-I'm gonna grab that picture book real quick…!"
+I'm gonna grab that picture book real quick...!"
 0000000000000,少年,……！,...!
 4001032020190,円香,────ん？,────Hm?
 0000000000000,少年,"…………
@@ -101,17 +101,17 @@ Okay...!"
 0000000000000,プロデューサー,"『みんなに少し相談したい
 通話できるようなら教えてくれるか』","""I have something to discuss with all of you.
 Please let me know if any of you are free to call."""
-4001032020270,円香,……,…
+4001032020270,円香,……,...
 4001032020280,円香,場所的に無理,"Considering where I am, I'm not."
 0000000000000,off,『既読３』,(3 read).
-0000000000000,プロデューサー,……,…
+0000000000000,プロデューサー,……,...
 4001032020290,小糸,"……
-①が、モンテスキュー","…
+①が、モンテスキュー","...
 Question ①, Montesquieu."
 4001032020300,小糸,"……合ってる
-②はロック……③は啓蒙思想……","…I got it right.
-Question ② is Locke…
-Question ③ is the Lumieres' movement…"
+②はロック……③は啓蒙思想……","...I got it right.
+Question ② is Locke...
+Question ③ is the Lumieres' movement..."
 4001032020310,小糸,"……！
 ８問正解……！","...!
 8 questions correct...!"
@@ -159,7 +159,7 @@ If it's about the call, I'm fine."""
 4001032020510,円香,『助かる』,"""Thanks a lot."""
 4001032020520,雛菜,『了解～』,"""Gotcha～"""
 4001032020530,小糸,"もう……！
-────ええと","Goodness…!
+────ええと","Goodness...!
 ────Let's see."
 4001032020540,小糸,"『みんな、夜なら大丈夫そうです
 ７時はどうですか？』","""It seems like everyone's available at night.
@@ -194,7 +194,7 @@ with your families as well. Sudden requests like
 these also tend to sound enticing at first."
 4001032020610,小糸,"……！
 て、テレビに出られるから、ってことですか……？","...!
-I-Is it because…we get to appear on TV...?"
+I-Is it because...we get to appear on TV...?"
 4001032020620,雛菜,へ～,Huh～
 0000000000000,プロデューサー,"うん。扱いは大きくないけど、
 地上波に出られるのは悲願、という人たちだっているんだ","Yep. It's nothing big but,
@@ -208,11 +208,11 @@ for the show, isn't it?"
 でも今回は共演者も豪華だから、飛び付く事務所もある","...Well, that's the real reason. But there's some 
 big names participating this time. Some agencies 
 are sending talents just for that as well."
-4001032020650,透,……,…
+4001032020650,透,……,...
 0000000000000,プロデューサー,"まぁ、俺も積極的に勧める気はないよ
 それでも地上波っていうのはインパクトがあるから──","Well, I'm not especially keen on taking the offer as well.
 But, it is true that being on TV will give you good exposure──"
-4001032020651,一同,……,…
+4001032020651,一同,……,...
 0000000000000,プロデューサー,"もしみんなが出たいと思ったら、教えてくれ
 期限は、申し訳ないけど明々後日。元日の昼まで","If everyone wishes to participate, let me know.
 Sorry but, the deadline's gonna be tight. 
@@ -229,7 +229,7 @@ It's just,"
 0000000000000,プロデューサー,"……連絡はさ、
 仕事のひとつだって考えてほしい","...I'd appreciate it if you all took 
 replying to messages as a part of the job."
-4001032020671,一同,…………,……
+4001032020671,一同,…………,......
 0000000000000,プロデューサー,"ごめんな
 休暇の日にチェインに張り付いててくれって意味じゃないよ","Sorry.
 I'm not saying that you have to keep a constant 
@@ -238,7 +238,7 @@ lookout for chain messages on your off days."
 少なくともほったらかしにはしてほしくないんだ","It's just that, I'd appreciate it if you all don't just 
 ignore messages just because it's about work."
 4001032020680,透,『はーい……』,"""Got it..."""
-4001032020690,小糸,『は、はい……！』,"""U-Understood…!"""
+4001032020690,小糸,『は、はい……！』,"""U-Understood...!"""
 4001032020700,雛菜,『あ～……』,"""Ah～..."""
 4001032020710,円香,『……』,"""..."""
 0000000000000,プロデューサー,"よし
@@ -246,7 +246,7 @@ ignore messages just because it's about work."
 Look forward to hearing from everyone."
 4001032020720,透,……大玉転がし,...Giant ball-rolling race.
 0000000000000,オウム,ノロマ！　ノロマ！,DUFFER! SILLY DUFFER!
-4001032020730,円香,……,…
+4001032020730,円香,……,...
 4001032020740,円香,ま、いいや,"Well, whatever."
 4001032020750,雛菜,ん～,Hm～
 4001032020760,雛菜,"あ、ケーキ
