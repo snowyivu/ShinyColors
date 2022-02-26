@@ -1655,33 +1655,33 @@ produceHeader.concertSeason.fanMeeting,感謝祭,TFD
 profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,Enza Link is required to change your name
 profile.pfAccountRecommendTwoLines,名前を変更するには\nenza連携が必要です,Enza Link is required to\nchange your name
 trend.staffComment,流行の結果にあわせて、\nオーディションを受けてみてください♪,流行の結果にあわせて、\nオーディションを受けてみてください♪
-beginnerMission.completeRewardPop.title,%{title}コンプリート,%{title}コンプリート
+beginnerMission.completeRewardPop.title,%{title}コンプリート,%{title} Complete
 beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました
 characterAlbum.idolEffectPop.title,演出再生,演出再生
 characterAlbum.idolEffectPop.message,再生する演出を選んでください,再生する演出を選んでください
 common.reserveNum,控室%{reserveNum},控室%{reserveNum}
-deck.deckNameEdit.defaultName,ユニット%{deckNumber},ユニット%{deckNumber}
-deck.deckNameEdit.dialog.title,ユニット名変更,ユニット名変更
+deck.deckNameEdit.defaultName,ユニット%{deckNumber},Unit %{deckNumber}
+deck.deckNameEdit.dialog.title,ユニット名変更,Edit Unit Name
 deck.deckNameEdit.dialog.description,ユニット%{deckNumber}の名前を変更できます,ユニット%{deckNumber}の名前を変更できます
 deck.deckNameEdit.complete.title,ユニット名変更完了,ユニット名変更完了
 deck.deckNameEdit.complete.message,ユニット名を変更しました,ユニット名を変更しました
 deck.deckNameEdit.error.ngWord,禁止ワードが含まれています,禁止ワードが含まれています
 deck.deckNameEdit.error.wordLength,入力文字数が不正です,入力文字数が不正です
-deck.deckCopy.confirm.title,ユニットコピー確認,ユニットコピー確認
+deck.deckCopy.confirm.title,ユニットコピー確認,Confirm Copy Unit
 deck.deckCopy.complete.title,ユニットコピー完了,ユニットコピー完了
 deck.deckCopy.complete.message,ユニット情報をコピーしました,ユニット情報をコピーしました
-deck.title.deckCopy,ユニットコピー,ユニットコピー
+deck.title.deckCopy,ユニットコピー,Copy Unit
 deck.title.deckMove,ユニット切り替え,ユニット切り替え
 groupedExpireAlert.title,アイテム有効期限確認,アイテム有効期限確認
 gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,イベント限定報酬アイドル
 gasha.redrawGashaBackNotice,確定せずに戻る,確定せずに戻る
-gasha.popRedrawQuit.title,ご注意,ご注意
+gasha.popRedrawQuit.title,ご注意,Attention
 gasha.popRedrawQuit.comment,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です
 gasha.popRedrawQuit.notice,現在のガシャ結果は破棄されます,現在のガシャ結果は破棄されます
 gasha.scoutGasha.possessedIdol,所持済,所持済
 gasha.scoutGasha.notPossessedIdol,未所持,未所持
-homeDeckBGM,ホームユニットBGM,ホームユニットBGM
-homeDeckBackgroundEffect,ホームユニットエフェクト,ホームユニットエフェクト
+homeDeckBGM,ホームユニットBGM,Home Unit BGM
+homeDeckBackgroundEffect,ホームユニットエフェクト,Home Unit Effect
 exSkill.unreleased,未解放,未解放
 exSkill.produceExSkillCondition.title,[条件%{number}],[条件%{number}]
 exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Lv.%{requiredLevel}達成
@@ -1695,39 +1695,38 @@ exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解
 exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,どちらかの条件を達成すると解放
 exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Exスキル枠を\n選択してください
 exSkill.noExSkill,Exスキルを\n所持していません,Exスキルを\n所持していません
-exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}のExスキル
+exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
 exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}種/%{totalKindNum}種
 exSkill.upgradeConfirmPop.title,グレードアップ確認,グレードアップ確認
 exSkill.upgradeConfirmPop.notice.lackTotalNum,現在のExスキルの所持数が不足しています,現在のExスキルの所持数が不足しています
 exSkill.upgradeConfirmPop.notice.lackUnsetNum,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください
 exSkill.upgradeConfirmPop.notice.limitOver,グレードアップ後のExスキルが所持上限に達しています,グレードアップ後のExスキルが所持上限に達しています
-exSkill.upgradeResultPopTitle,グレードアップ,グレードアップ
+exSkill.upgradeResultPopTitle,グレードアップ,Grade Up
 monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283パス有効期限のお知らせ
-monthlyPassport.expireAlertPop.runningDays,%{runningDays}日,%{runningDays}日
+monthlyPassport.expireAlertPop.runningDays,%{runningDays}日,%{runningDays}d
 monthlyPassport.expireAlertPop.remainDays,あと%{remainDays}日,あと%{remainDays}日
 monthlyPassport.expireAlertPop.remainHours,あと%{remainHours}時間,あと%{remainHours}時間
 monthlyPassport.expireAlertPop.remainMinutes,あと%{remainMinutes}分,あと%{remainMinutes}分
-option.volumeTitle.concertBgm,楽曲,楽曲
+option.volumeTitle.concertBgm,楽曲,Music
 option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,アイドルからのイタズラ【ささやき】
-option.homeContent.itemName.joke,2019ハロウィンのおかし,2019ハロウィンのおかし
-option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020ハロウィンのおかし
-item.expireAt,使用期限：%{expireAt},使用期限：%{expireAt}
+option.homeContent.itemName.joke,2019ハロウィンのおかし,2019 Halloween Sweets
+option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 Halloween Sweets
+item.expireAt,使用期限：%{expireAt},Expires：%{expireAt}
 item.releaseMypageCommunicationPop.title,イタズラ解放,イタズラ解放
 item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,トリック・オア・トリート！\nホーム画面でじっとしていると…？
-shop.headerTitles.monthlyPassport,283パス,283パス
+shop.headerTitles.monthlyPassport,283パス,283Pass
 shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage}回特訓済)
 shop.labelGameEventShopIdolPossessionText,所持状況,所持状況
-shop.monthlyPassport.limitAt,%{limitAt}まで,%{limitAt}まで
-shop.monthlyPassport.price,%{price}円,%{price}円
+shop.monthlyPassport.limitAt,%{limitAt}まで,Until %{limitAt}
 shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,ブラウザ版のみ
 shop.monthlyPassport.unpurchasableBadge.outOfTerm,%{nextOpenDate}から購入可,%{nextOpenDate}から購入可
 skillBord.fromDeckHeader,スキルパネル,スキルパネル
-topicPath.produce.areaSelect,プロデュース選択,プロデュース選択
-topicPath.produce.deckEdit,ユニット編成,ユニット編成
-topicPath.produce.itemSelect,アイテム選択,アイテム選択
-topicPath.trueEndTeaching.areaSelect,プロデュース選択,プロデュース選択
-topicPath.trueEndTeaching.idolSelect,アイドル選択,アイドル選択
-topicPath.trueEndTeaching.deckEdit,ユニット編成,ユニット編成
+topicPath.produce.areaSelect,プロデュース選択,Produce Selection
+topicPath.produce.deckEdit,ユニット編成,Unit Setup
+topicPath.produce.itemSelect,アイテム選択,Item Selection
+topicPath.trueEndTeaching.areaSelect,プロデュース選択,Produce Selection
+topicPath.trueEndTeaching.idolSelect,アイドル選択,Idol Selection
+topicPath.trueEndTeaching.deckEdit,ユニット編成,Unit Setup
 trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G.攻略ミッションコンプリート
 trueEndTeaching.openPopup.description,True End研修はホーム画面からスタートすることができます,True End研修はホーム画面からスタートすることができます
 trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう
@@ -1740,7 +1739,7 @@ workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しまし�
 workActivityReady.startErrorDialog.confirmationText,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です
 unitName.1,イルミネーションスターズ,illumination STARS
 unitName.2,アンティーカ,L'Antica
-unitName.3,放課後クライマックスガールズ,Houkago Climax Girls
+unitName.3,放課後クライマックスガールズ,Hokago Climax Girls
 unitName.4,アルストロメリア,ALSTROEMERIA
 unitName.5,ストレイライト,Straylight
 unitName.6,ノクチル,noctchill

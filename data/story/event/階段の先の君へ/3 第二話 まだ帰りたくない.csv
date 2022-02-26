@@ -1,0 +1,194 @@
+id,name,text,trans
+4001021030010,樹里,…………,"...... "
+4001021030020,樹里,ん……,Hmm...?
+4001021030030,樹里,プロデューサー……,"Producer... "
+4001021030040,樹里,──もしもし、プロデューサー？,"──What is it, Producer?"
+0000000000000,プロデューサー,樹里、今大丈夫か？,"Juri, is now a good time?"
+4001021030050,樹里,"ああ……
+大丈夫、どうした？","Uh-huh... 
+Yeah, what's up?"
+0000000000000,プロデューサー,この間、ポスター配りしたいって言ってただろ？,"You said you wanted to help distribute the posters, right?"
+4001021030060,樹里,"うん、おっちゃ……
+会長さんに聞いてくれたか？","Yup, did you ask Gramp... 
+... I mean, the Chairman about it?"
+0000000000000,プロデューサー,"それが、もうポスター
+刷り上がってきてるみたいなんだ","About that, it seems that
+the posters have finished printing."
+4001021030070,樹里,えっ、早いな……！,"Huh, that was fast... !"
+0000000000000,プロデューサー,"会長さんの店に届いてるみたいなんだけど
+今日、行けそうか？","They've already arrived at the Chairman's store,
+so do you think you can go today?"
+0000000000000,プロデューサー,"智代子と夏葉はこれから来るには
+少し時間がかかるだろうから……","It'll take Chiyoko and Natsuha some time
+to reach there even if they leave now... "
+0000000000000,プロデューサー,"もし大丈夫なら樹里と凛世と果穂に
+お願い出来ないかと思ったんだけど","If it's alright with you all, I'd like to ask
+you, Rinze and Kaho to help today."
+4001021030080,樹里,"アタシは大丈夫！
+果穂と凛世にも聞いてみるよ","I'm on it!
+I'll go check with Kaho and Rinze too."
+0000000000000,プロデューサー,"ああ、頼む
+本当は一緒に配れたらよかったんだけど──……","Yes, please do so.
+I actually wanted to go with you all too, but─...... "
+4001021030090,樹里,"プロデューサーはいいって！
+他にも仕事あんだろ？","Don't worry about it, Producer!
+You've got other work to do, right?"
+0000000000000,プロデューサー,悪いな……気をつけて行ってきてくれ,"I'm sorry... Take care on your way there, alright?"
+0000000000000,プロデューサー,何かあったらすぐ連絡してくれよ,"If anything comes up, call me right away."
+4001021030100,樹里,"大丈夫だよ、心配しすぎだっつーの！
+…………じゃあ、行ってくるな！","Stop worrying so much, I'll be fine!
+... Well then, I'll get going now!"
+0000000000000,プロデューサー,……おう,... Got it.
+4001021030110,樹里,──うしっ！ 行くか！,──Right! Let's go!
+4001021030120,樹里,──よーし、集まったな！,"──Alright, everyone's here!"
+4001021030130,果穂,はいっ！,Yes!
+4001021030140,凛世,はい……,"Yes... "
+4001021030150,樹里,"あれ
+果穂、ランドセルは？","Huh?
+Kaho, where's your backpack?"
+4001021030160,果穂,いったん家に帰って置いてから来ました！,I went home to drop it off before coming here!
+4001021030170,凛世,"では……
+お届けが……終わったら……","Then... 
+Once we have finished... our errand... "
+4001021030180,樹里,"おー
+そのまま果穂送ってくか","Yeah.
+Let's walk Kaho home together."
+4001021030190,凛世,はい……,"Yes... "
+0000000000000,商店街の会長,"──あ、おーい
+みんな！","──Ah, heeey!
+Everyone!"
+4001021030200,樹里,"……あっ
+おー！ おっちゃん！","... Ah.
+Hey, Gramps!"
+0000000000000,商店街の会長,"よく来てくれたね
+ポスター配り、本当にお願いして大丈夫かな？","Glad you're here.
+Is it really alright to have you deliver the posters?"
+4001021030210,樹里,"大丈夫、大丈夫！
+アタシがやりたくてお願いしたんだから","Of course it's alright!
+I asked because I wanted to do it, after all."
+4001021030220,凛世,お任せください……,"Please leave it to us... "
+4001021030230,果穂,あたしもがんばりますっ！,I'll do my best too!
+0000000000000,商店街の会長,"……ありがとう
+じゃあ、これがポスターと、配る先のリストだ","... Thank you.
+Here are the posters, and the list of delivery addresses."
+0000000000000,商店街の会長,"時間がかかりそうだったら
+途中まででも大丈夫だからね","If you can't finish everything today,
+feel free to leave partway if you need to."
+0000000000000,商店街の会長,終わったら暗くならないうちに帰るんだよ,"When you're done, make sure to go home before it gets dark."
+4001021030240,樹里,"わかってるって！
+んじゃ、手分けしてやるか！","I know that!
+Alright, let's split up the work!"
+4001021030250,樹里,"アタシがこっからここまでで……
+果穂がここのブロック、凛世はこっちで……","I'll take care of the places from here to here.
+Kaho, you do this block, and Rinze, you go from there..."
+4001021030260,樹里,終わったらここ、集合で！,"Once we're done, let's meet up here!"
+4001021030261,果穂＆凛世,はい！,Yes!
+4001021030270,樹里,おばちゃーん！,"Hey, Auntie!"
+0000000000000,スーパーの店員,"──あら樹里ちゃん、いらっしゃいませ
+もう歯磨き粉切らした？","──Oh, Juri-chan. Come on in!
+Did you run out of toothpaste already?"
+4001021030280,樹里,"いや、ちげーって！
+歯磨き粉はこの間買ったばっかりだし","Nah, that's not it!
+I just bought some the other day, remember?"
+0000000000000,スーパーの店員,"じゃあお化粧水は？
+トイレットペーパーも、大丈夫？","What about face lotion then?
+Oh, and toilet paper, do you have enough?"
+4001021030290,樹里,それもこの間買ったばっか！,I just bought those too!
+4001021030300,樹里,"もー、おばちゃん！ これ！
+今度の節分のポスター！","Geez, Auntie! Here!
+It's posters for the Setsubun event!"
+4001021030310,樹里,"……スーパーでも、
+ポスターって貼ってもらえるか……？","... Would you put these up
+in the supermarket for us... ?"
+0000000000000,スーパーの店員,"もちろんいいわよ！
+店長がだめって言っても勝手に貼っちゃうから！","Of course I will!
+Even if the boss says no, I'll stick them up anyway!"
+4001021030320,樹里,"あはは、ありがと
+でも勝手にはだめだからさ……","Ahaha, thanks.
+But don't put them up without permission... "
+4001021030330,樹里,"……店長さんにも、よろしくお願いしますって
+伝えてもらえますか","... So could you please ask the boss for us?
+Tell him I said hi, too."
+0000000000000,スーパーの店員,"はい、わかったわ！
+ありがとね、樹里ちゃん","Alright, I will.
+Thank you, Juri-chan."
+4001021030340,果穂,──あっ、樹里ちゃーん！,"─Ah, Juri-chaaan!"
+4001021030350,樹里,"おー、果穂と凛世、
+もう配り終わったのか？","Oh, Kaho and Rinze.
+Did you finish giving them out?"
+4001021030360,凛世,はい……,"Yes... "
+4001021030370,樹里,アタシもあと一か所で終わりだ,I've just got one last stop too.
+4001021030380,果穂,じゃあ、最後は３人で行きませんか？,"Then, can all 3 of us go together?"
+4001021030390,凛世,ふふ……はい……,"Fufu... Yes... "
+4001021030400,樹里,"ん、ありがとな
+じゃ、これ配ったら果穂送ってくか！","Hm, thanks.
+Once we deliver this one, let's walk home with Kaho!"
+0000000000000,生花店の店主,"──それで、３人がわざわざポスター
+配りに来てくれたのか","──So the 3 of you came down all this way
+to deliver the posters to us?"
+4001021030410,果穂,"はいっ！
+ポスター、お店にはってもらえますか……？","Yes!
+Will you put the poster up in your store?"
+0000000000000,生花店の店主,ああ、もちろんいいよ,"Yup, of course I will."
+4001021030420,樹里,当日も、アタシたちが盛り上げるからさ！,We'll be livening things up on the day itself too!
+4001021030430,凛世,よろしくお願い致します……,Thank you for your cooperation...
+0000000000000,生花店の店主,"わかったよ、目立つところに貼るね
+ありがとう","Got it, I'll put it up somewhere prominent.
+Thank you."
+4001021030440,樹里,"や、いつもここの人たちには
+アタシらの方が世話になってるし……","Nah, everyone here's always taken
+such good care of us, so... "
+0000000000000,生花店の店主,"──そっか
+きっと、会長さんも喜んでるだろうね","──I see
+I'm sure the Chairman's real happy about this."
+4001021030450,樹里,え、ああ……,"Uh, yeah... "
+0000000000000,生花店の店主,"最後にみんなが頑張ってくれて……
+寂しくなるけどね","Everyone's pitching in one last time... 
+It'll get lonely after this though."
+4001021030460,樹里,え……？,Eh... ?
+0000000000000,生花店の店主,あれ、聞いてない？,"Wait, didn't you hear?"
+0000000000000,生花店の店主,"会長さん、節分が終わったら
+お店閉じるんだって","The Chairman is closing his store
+once Setsubun is over."
+0000000000000,生花店の店主,それで商店街の会長も引き継いで──……,"And he'll be retiring as chairman of the association──... "
+4001021030461,果穂＆樹里＆凛世,え……,"Ehh... "
+0000000000000,生花店の店主,"あっ、もしかしてこれ
+言っちゃいけなかったのかな……？","Oops, don't tell me, was this something
+I wasn't supposed to say... ?"
+4001021030462,果穂＆樹里＆凛世,…………,"...... "
+4001021030470,樹里,"──果穂、今日はありがとな
+早く家の中入って暖まれよ","──Kaho, thanks for coming today.
+Hurry inside and warm yourself up, alright?"
+4001021030480,果穂,"はい……あの、送ってくれて
+ありがとうございました……","Okay... Umm, thank you
+for walking me home... "
+4001021030490,凛世,……はい,... Yes
+4001021030500,凛世,果穂さん……お疲れさまでした……,"Kaho-san... thank you for your hard work... "
+4001021030510,樹里,"……凛世
+寮、戻ってていーけど……","... Rinze.
+You can go back to the dorm, y'know... "
+4001021030520,凛世,樹里さんは……,"Juri-san... "
+4001021030530,樹里,"アタシは……
+……まだ帰りたくないってだけ","I... 
+... just don't feel like going home yet."
+4001021030540,凛世,では……凛世も……,"Then... Rinze, too... "
+4001021030550,樹里,…………そっか,... I see.
+4001021030560,凛世,…………,"...... "
+4001021030570,樹里,…………,......
+4001021030580,樹里,"今見てる景色ってさ、
+どれくらい覚えてられるんだろうな","Hey, this view in front of us now... 
+How long do you think we can remember it?"
+4001021030590,凛世,……？,...... ?
+4001021030600,樹里,"……ここから見える景色とかも
+そのうち、ちょっとずつ変わっていくのかな","...The scenery we're seeing here, too.
+Will it slowly start changing, someday soon?"
+4001021030610,樹里,"気づかないうちに
+アタシも、凛世も……みんなも","Without us even realizing... 
+Me, and Rinze... and everyone, too."
+4001021030620,凛世,…………,"...... "
+4001021030630,樹里,…………,"...... "
+4001021030640,樹里,"……きっと
+そうなんだろうな……","... That's just 
+how it is, right... "
+info,game_event_communications/400102103.json,
+Translator,,

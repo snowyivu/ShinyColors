@@ -201,8 +201,12 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 以下のプレゼントを受け取りました,Received the Following Gift
 以下のチケットを使って、\rアイドルをトレーニングしますか？,"With the following ticket,\nTrain this idol?"
 以下のプロデュースアイテムとスタミナを消費して\rプロデュースを開始しますか？,Use these Items and Stamina\nand start the Produce Run?
-ファン感謝祭編,Thanks Flapping Day
+W.I.N.G.編,W.I.N.G. Mode
+ファン感謝祭編,Thanks Flapping Day Mode
+G.R.A.D.編,G.R.A.D. Mode
+Landing Point編,Landing Point Mode
 習得可能なスキルがありません,No Skills Available
+プロデュース選択,Produce Selection
 アイドルA,Idol A
 アイドルB,Idol B
 アイドルC,Idol C
@@ -1974,3 +1978,46 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 様々なイベントが発生します,All sorts of events may happen.
 イベントを開始しますか？,Start event?
 ユニット単独ライブに向けた準備を通してアイドルを成長させることができます。ライブでパフォーマンスする楽曲の熟練度を上げて、ユニット単独ライブを成功させましょう！,Raise idols through preparation for the unit solo live. Improve your skills with deep music performance study and make your unit solo live a success!
+"歌唱力の熟練度獲得量が2倍(1週)","2x Vocal Proficiency Gains(1Wk)"
+"安定感の熟練度獲得量が2倍(1週)","2x Stability Proficiency Gains(1Wk)"
+"表現力の熟練度獲得量が2倍(1週)","2x Expressiveness Proficiency Gains(1Wk)"
+"集中力の熟練度獲得量が2倍(1週)","2x Focus Proficiency Gains(1Wk)"
+"団結力の熟練度獲得量が2倍(1週)","2x Teamwork Proficiency Gains(1Wk)"
+"楽曲サポートボーナスの熟練度獲得量が3倍(1週)","3x Music Support Bonus Proficiency Gains(1Wk)"
+"体力の消費量が増加(中)、レッスンのすべての熟練度獲得量が2倍(1週)","Fatigue Drain Increased(Med),2x All Lesson Proficiency Gains(1Wk)"
+"お仕事のすべての熟練度獲得量が2倍(1週)","2x All Work Proficiency Gains(1Wk)"
+"歌唱力の熟練度獲得量が2倍(2週)","2x Vocal Proficiency Gains(2Wk)"
+"安定感の熟練度獲得量が2倍(2週)","2x Stability Proficiency Gains(2Wk)"
+"表現力の熟練度獲得量が2倍(2週)","2x Expressiveness Proficiency Gains(2Wk)"
+"楽曲サポートボーナスの熟練度獲得量が3倍(2週)","3x Music Support Bonus Proficiency Gains(2Wk)"
+"体力の消費量が増加(小)、すべての熟練度獲得量が2倍(1週)","Fatigue Drain Increased(Small),2x All Proficiency Gains(1Wk)"
+"集中力の熟練度獲得量が4倍(2週)","4x Focus Proficiency Gains(2Wk)"
+"団結力の熟練度獲得量が4倍(2週)","4x Teamwork Proficiency Gains(2Wk)"
+"楽曲サポートボーナスの熟練度獲得量が5倍(2週)","5x Music Support Bonus Proficiency Gains(2Wk)"
+"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Vocal Lesson Proficiency Gains(2Wk)"
+"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Dance Lesson Proficiency Gains(2Wk)"
+"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Visual Lesson Proficiency Gains(2Wk)"
+"集中力の熟練度獲得量が2倍(2週)","2x Focus Proficiency Gains(2Wk)"
+"団結力の熟練度獲得量が2倍(2週)","2x Teamwork Proficiency Gains(2Wk)"
+"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains(2Wk)"
+"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Dance Lesson Proficiency Gains(2Wk)"
+"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Visual Lesson Proficiency Gains(2Wk)"
+"歌唱力の熟練度獲得量が4倍(2週)","4x Vocal Proficiency Gains(2Wk)"
+"安定感の熟練度獲得量が4倍(2週)","4x Stability Proficiency Gains(2Wk)"
+"表現力の熟練度獲得量が4倍(2週)","4x Expressiveness Proficiency Gains(2Wk)"
+"お仕事のすべての熟練度獲得量が4倍(1週)","4x All Work Proficiency Gains(1Wk)"
+"体力の消費量が増加(小)、すべての熟練度獲得量が2倍(2週)","Fatigue Drain Increased(Small),2x All Proficiency Gains(2Wk)"
+"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains(1Wk)"
+"ボーカルレッスンのすべての熟練度獲得量が3倍(1週)","3x All Vocal Lesson Proficiency Gains(1Wk)"
+"体力の消費量が増加(小)、レッスンのすべての熟練度獲得量が5倍(1週)","Fatigue Drain Increased(Small),5x All Lesson Proficiency Gains(1Wk)"
+"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Dance Lesson Proficiency Gains(1Wk)"
+"ダンスレッスンのすべての熟練度獲得量が3倍(1週)","3x All Dance Lesson Proficiency Gains(1Wk)"
+"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Visual Lesson Proficiency Gains(1Wk)"
+"ビジュアルレッスンのすべての熟練度獲得量が3倍(1週)","3x All Visual Lesson Proficiency Gains(1Wk)"
+"ビジュアルレッスンのすべての熟練度獲得量が3倍(2週)","3x All Visual Lesson Proficiency Gains(2Wk)"
+"ラジオの収録のすべての熟練度獲得量が3倍(1週)","3x Radio Show Proficiency Gains(1Wk)"
+"トークイベントのすべての熟練度獲得量が3倍(1週)","3x Talk Show Proficiency Gains(1Wk)"
+"レッスンのすべての熟練度獲得量が2倍(1週)","2x All Lesson Proficiency Gains(1Wk)"
+"レッスンのすべての熟練度獲得量が4倍(1週)","4x All Lesson Proficiency Gains(1Wk)"
+"すべての熟練度獲得量が3倍(1週)","3x All Proficiency Gains(1Wk)"
+"雑誌の撮影のすべての熟練度獲得量が3倍(1週)","3x Photoshoot Proficiency Gains(1Wk)"

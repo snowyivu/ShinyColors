@@ -387,14 +387,28 @@ $noun$unknown$noun$noun$unknownの体力減少量を$num%軽減,$1$2$3$4$5 lose 
 雑誌の撮影,Photoshoot,noun
 お仕事,Work,noun
 休む,Rest,noun
-レッスン,Lesson,noun
 Vocal,Vocal,noun
 Visual,Visual,noun
 Dance,Dance,noun
 $nounを$num回行う,Go to $1 $2 times,exp
+レッスンを$num回行う,Go to $1 Lessons,exp
 Excellentを$num回発生させる,Trigger $1 Excellents,exp
 Perfect&Excellentを$num回発生させる,Trigger $1 Perfect&Excellents,exp
 $nounのステータスを$num上昇させる,Raise $1 to $2,exp
 パーフェクトコミュニケーションを$num回行う,Get $1 Perfect Communications,exp
 約束を$num回守る,Keep $1 Promises,exp
 サポートアイドル$num人の絆を赤ゲージにする,Get $1 Support Idol Bond Gauges to Red,exp
+親愛度小アップ,Small Trust Up,exp
+親愛度中アップ,Medium Trust Up,exp
+親愛度大アップ,Large Trust Up,exp
+親愛度特大アップ,Massive Trust Up,exp
+全アイドルとの絆が小アップ,All Idol Bonds Up Small,exp
+全アイドルとの絆が中アップ,All Idol Bonds Up Medium,exp
+アビリティ「$unknown」習得,Gain Ability 「$1」,exp
+体力が大回復,Large Fatigue Recovery,exp
+体力が特大回復,Massive Fatigue Recovery,exp
+体力が小回復,Small Fatigue Recovery,exp
+体力が中回復,Medium Fatigue Recovery,exp
+テンションが小アップ,Small Tension Up,exp
+メンタル$num,Mental$1,exp
+$nounの上限値$num,$1 Cap $2,exp
