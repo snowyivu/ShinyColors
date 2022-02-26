@@ -1720,7 +1720,7 @@ shop.labelGameEventShopIdolPossessionText,所持状況,所持状況
 shop.monthlyPassport.limitAt,%{limitAt}まで,Until %{limitAt}
 shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,ブラウザ版のみ
 shop.monthlyPassport.unpurchasableBadge.outOfTerm,%{nextOpenDate}から購入可,%{nextOpenDate}から購入可
-skillBord.fromDeckHeader,スキルパネル,スキルパネル
+skillBord.fromDeckHeader,スキルパネル,Skill Panel
 topicPath.produce.areaSelect,プロデュース選択,Produce Selection
 topicPath.produce.deckEdit,ユニット編成,Unit Setup
 topicPath.produce.itemSelect,アイテム選択,Item Selection
@@ -1912,11 +1912,11 @@ produceAction.musicAssignmentChangeConfirmDialog.title,楽曲課題変更,楽曲
 produceAction.musicAssignmentChangeConfirmDialog.description,楽曲課題を抽選して、別の課題に変更できます\n課題%{number}を別の課題に変更しますか？,楽曲課題を抽選して、別の課題に変更できます\n課題%{number}を別の課題に変更しますか？
 produceAction.musicAssignmentChangeConfirmDialog.notice1,課題は週に1つだけ変更できます,課題は週に1つだけ変更できます
 produceAction.musicAssignmentChangeConfirmDialog.notice2,変更される課題の達成度はリセットされます,変更される課題の達成度はリセットされます
-proficiencies.sing_ability,歌唱力,歌唱力
-proficiencies.feel_stable,安定感,安定感
-proficiencies.expressive_power,表現力,表現力
-proficiencies.concentration,集中力,集中力
-proficiencies.teamwork,団結力,団結力
+proficiencies.sing_ability,歌唱力,Vocals
+proficiencies.feel_stable,安定感,Stability
+proficiencies.expressive_power,表現力,Expressiveness
+proficiencies.concentration,集中力,Focus
+proficiencies.teamwork,団結力,Teamwork
 shop.headerTitles.piece,ピース,ピース
 shop.purchaseConfirmation.notice.trustPointUpMerchandise,既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります,既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります
 shop.idolPossessedText.idol,所持済,所持済

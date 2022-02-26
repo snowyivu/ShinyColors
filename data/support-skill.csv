@@ -40,6 +40,18 @@ text,trans,type
 撮影マスタリー$noun,"Photoshoot Mastery-$1",text
 約束リカバー,"Promise Recovery",text
 イベントブースト,"Event Boost",text
+ボーカルマスタリー,Vocal Mastery,text
+オーディションマスタリー,"Audition Mastery",text
+ダンスマスタリー,"Dance Mastery",text
+テンションマスタリー,"Tension Mastery",text
+トラブルガード,"Trouble Guard",text
+トークマスタリー,"Talkshow Mastery",text
+パーフェクトマスタリー,"Perfect Mastery",text
+ビジュアルマスタリー,"Visual Mastery",text
+ユニットマスタリー,"Unit Mastery",text
+ラジオマスタリー,"Radio Mastery",text
+撮影マスタリー,"Photoshoot Mastery",text
+施設マスタリー,"Location Mastery",text
 Dance,Dance,noun
 Visual,Visual,noun
 Vocal,Vocal,noun
@@ -50,3 +62,46 @@ Vo,Vo,noun
 Me,Me,noun
 SP,SP,noun
 体力,Stamina,noun
+"Vocal\nアピール","Vocal\nAppeal",text
+"Dance\nアピール","Dance\nAppeal",text
+"Visual\nアピール","Visual\nAppeal",text
+"Excellent\nアピール","Excellent\nAppeal",text
+興味無視,Ignore Judge\nInterest,text
+"一気に満足\nさせる","Instant Judge\nCaptivation",text
+全観客に\nアピール,All Judge\nAppeal,text
+メンタルが多い\nほど効果UP,High Mental\nEffect UP,text
+メンタルが少な\nいほど効果UP,Low Mental\nEffect UP,text
+思い出ゲージが\n多いほど効果UP,High Memory\nGauge Effect UP,text
+注目度が高い\nほど効果UP,High Attention\nEffect UP,text
+注目度が低い\nほど効果UP,Low Attention\nEffect UP,text
+所属ユニットが\n多いほど効果UP,Matching Unit\nEffect UP,text
+消去,Cleanse,text
+アピール倍率\nUP,Appeal\nMultiplier UP,text
+思い出ゲージ\nUP,Memory\nGauge UP,text
+思い出ゲージ\nDOWN,Memory\nGauge DOWN,text
+メンタル回復,Mental\nRecovery,text
+自身のメンタ\nルを減らす,Mental\nSelf Drain,text
+リザレクショ\nン効果付与,Ressurection\nEffect,text
+リラックス\n効果付与,Relax\nEffect,text
+メランコリー\n効果付与,Melancholy\nEffect,text
+メンタルダメ\nージCUT,Mental\nDamage CUT,text
+メンタル\nダメージUP,Mental\nDamage UP,text
+注目度UP,Attention\nUP,text
+注目度\nDOWN,Attention\nDOWN,text
+リアクション\n回避率UP,React Evade\nRate UP,text
+回避時ステー\nタス効果付与,Evasion\nEffect,text
+ダメージ時ステー\nタス効果付与,When Damaged\nEffect,text
+興味UP,Interest\nUP,text
+興味DOWN,Interest\nDOWN,text
+興味反転,Interest\nFlip,text
+影響力\nDOWN,Influence\nDOWN,text
+影響力\nUP,Influence\nUP,text
+ダメージを\n受けるまで,When\nDamaged,text
+PERFECT\nなら効果UP,On PERFECT\nEffect,text
+必ず最初に\nアピール,Always First\nAppeal,text
+必ず最後に\nアピール,Always Last\nAppeal,text
+デュエット,Duet,text
+期間限定\nガシャ,Limited\nGacha,text
+通常ガシャ,Regular\nGacha,text
+各種\nイベント,Events,text
+その他,Other,text

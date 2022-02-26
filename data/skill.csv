@@ -95,8 +95,8 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
 限定スキルを解放,Unlocked Limited Skills,
 全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
-"ごくごく稀に現在の興味値に関わらず一気に満足させる","Extremely Extremely Rare Chance Of Instantly Filling Judge"
-"ごく稀に現在の興味値に関わらず一気に満足させる","Extremely Rare Chance Of Instantly Filling Judge"
+"ごくごく稀に現在の興味値に関わらず一気に満足させる","Extremely Extremely Rare Chance Of Instantly Captivating Judge"
+"ごく稀に現在の興味値に関わらず一気に満足させる","Extremely Rare Chance Of Instantly Captivating Judge"
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
@@ -224,3 +224,4 @@ Viレッスン,Vi Lesson,noun
 [条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position],
 ​リラックス効果$num％付与,Grants $1% Relax,text
 全ユニットにリラックス効果$num％付与,Grants All Units $1% Relax,text
+興味$num倍,Interest x$1,
