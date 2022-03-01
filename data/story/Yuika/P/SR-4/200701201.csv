@@ -1,0 +1,131 @@
+id,name,text,trans
+0000000000000,乗客１,"そういえばアンティーカ好きだったよね？
+この間見たんだけどさ、三峰ちゃん、可愛いね～！","Oh hey, didn't you say you're an L'Antica fan?
+I checked them out the other day.
+Mitsumine-chan's super cute!"
+0000000000000,乗客２,"！
+え、ほんと！？","!
+Wha... really!?"
+0000000000000,乗客１,"うんうん
+明るくて賑やかな感じで。可愛い","Yeah, she's so lively and bright. Very cute."
+2007012010010,結華,（『え、ほんと！？』はこっちの台詞だよ～……！）,"(""Wha... really!?""
+That's what I should be saying...!)"
+2007012010020,結華,"（聞かない方が……
+…………いやでも、市場調査……！）","(I really shouldn't be snooping...
+......Ah might as well, it's fan feedback!)"
+0000000000000,乗客２,"ありがとうございます！！
+でもあの子はそれだけじゃなくて……！","I'm happy that you agree!!
+But... that's not all there is to her, lemme tell you...!"
+0000000000000,乗客２,"ちょっとお調子者風なんだけどさ、まわりをよく見てて！
+実はユニットの潤滑油になってるっていうか","Even if she acts all carefree and upbeat, she's
+always keeping an eye out on others! She's pretty
+much the oil that keeps the unit running smooth."
+0000000000000,乗客２,"頭良くてさ、立ち回りが上手くて
+見れば見るほど沼るっていうの？","She's also clever and is adept at reading the room.
+Don't you get pulled in the more you learn about her?"
+0000000000000,乗客２,"実は負けず嫌いだったりとか、実は乙女だったりとか、
+もうほんとっ、いろいろあって──！","Did you know that she hates to lose?
+Annnd that she's got a maiden's heart?!
+There's just so many things about her!"
+2007012010030,結華,（……う、うわ～…………！！）,(...Wha... Uwaaa......!!)
+0000000000000,乗客２,"よかったら今度
+インタビュー載ってる雑誌とか貸すから──","If you want, I can lend you the magazine
+with her interview about it tooー"
+0000000000000,乗客１,"──ちょ
+ちょい待ち、ちょい待ち……！","ーWait...
+Slow down, just give me a minute...!"
+0000000000000,乗客２,"ご、ごめん……！
+こっちばっかぺらぺら……！","S-Sorry...!
+I was blabbing out all kinds of stuff...!"
+0000000000000,乗客１,"や、それはいいんだけど
+……でもごめん、話聞いてたら、三峰ちゃんは違ったかも","Nah, you're good. But... after hearing all of that...
+Mitsumine-chan isn't who I thought she was."
+0000000000000,乗客２,え,Uh...
+0000000000000,乗客１,"なんていうか、元気でいい子だな～って思ってたから
+そういう感じではないんだなって","Like... I thought she was simply an earnest, lively girl.
+I guess she isn't like that exactly."""
+0000000000000,乗客１,──あ、君の推しを貶すつもりはないんだよ！？,"──I mean...
+Not to diss your favorite idol or anything..."
+0000000000000,乗客１,"ただ、そういう裏表……とは違うかもだけど、
+いろいろ計算してそうなタイプの子合わなくってさ","It's not that I'm saying she's two-faced but... 
+Her being the calculating-type isn't really for me,
+y'know?"
+0000000000000,乗客１,だから、先に遠慮しといた方がいいなって,So I think it's best to leave it off like this.
+0000000000000,乗客２,"──あ……
+そっか、そうだよね、ごめん……──！","──Ah... I see. Yeah, you're right...
+Sorry about that──!"
+0000000000000,乗客１,いやこっちこそ……！,"Nah, same here...!"
+0000000000000,乗客２,"いやいやいや！
+お互い嫌な思いする前にやめられてよかったから──","No no no! It's fine... It's good you stopped me
+before things got too heated."
+2007012010040,結華,────……,───......
+2007012010050,結華,"（……見せる範囲を変えてる
+って、だけのつもりだったけど）","(...My goal had just been to start showing a little
+more of myself to my fans, but...)"
+2007012010060,結華,（……それは、嘘になるのかなぁ）,"(...Maybe that's made it seem I've been
+lying to them?)"
+2007012010070,結華,……,......
+2007012010080,結華,（──あ）,(──Ah.)
+2007012010090,結華,（一旦なしなし！）,(Don't let it get to your head!)
+2007012010100,結華,お疲れ様でーす,Coming right in~
+0000000000000,プロデューサー,おお結華、お疲れ様──……って,"Aah, Yuika. Nice to see... you...?"
+2007012010110,結華,？,?
+0000000000000,プロデューサー,"……
+何かあったか？","""......
+Did something happen?"""
+2007012010120,結華,え,Eh?
+0000000000000,プロデューサー,"あ、いや──
+違ってたらすまんなんだが……！","Ah... Well...
+If I'm wrong, then... sorry about that..!"
+2007012010130,結華,……これはさぁ,...Just look at you.
+2007012010140,結華,"三峰がＰたんに気を許しすぎなのか
+Ｐたんの観察力がやばすぎなのか、どっちだと思う？","Has Mitsumine lost her edge on you, P-tan?
+Or did you dump your skill points into observation?"
+0000000000000,プロデューサー,ええ……？,Ehhh...?
+select,,というより……,Or rather...
+select,,"やっぱり、
+何かあったのか？","I knew it.
+Something happened."
+select,,"仮にどっちだった
+としても",Whichever it is...
+0000000000000,プロデューサー,"結華がそれだけ真剣に考えてた、
+ってことじゃないのか……？","Does that mean you have something weighing
+on your mind, Yuika?"
+2007012010150,結華,顔に出るくらいってことー？,"What, is it written all over my face?"
+0000000000000,プロデューサー,"顔には出てないんだけど……
+うーん……？","No, it's not that... Umm...
+Hum...?"
+0000000000000,プロデューサー,"……何か、ちゃんと考えたいことがあるのかなって
+気がした……みたいな……？","...I guess, I wondered if you had something to
+talk about. It was a hunch...?"
+2007012010160,結華,あは、何それー,"Ahaha, what's with you?"
+2007012010170,結華,実は全然わかってないんじゃん！,I guess you didn't catch on after all!
+2007012010180,結華,"うーん、あったといえばそうなんだけど、
+自分では別にそこまで困ってるつもりじゃなくてね","Yeah, something did. But it's not dire enough for me
+to bring it up."
+0000000000000,プロデューサー,"あー……！　そっか、悪い……！
+無理に聞きたいわけじゃ……！",Ah...! My bad... I didn't mean to pry...!
+2007012010190,結華,"いやいや
+気にかけてくれてありがとう、だし","No worries.
+Thanks for your concern anyway."
+2007012010200,結華,"……でもちょっと自信はなくしちゃうな～
+切り替えたはずだったのに気付かれちゃうとか","You've made me lose some faith in my ability to
+hide things, though... To think you'd catch me in
+the act when I wasn't making it obvious~"
+0000000000000,プロデューサー,本当にごめんって……！,I'm sorry about that...!
+2007012010210,結華,"ふふっ、ううん
+三峰こそからかってごめん","Heehee, yeah...
+Mitsumine's just messing with you"
+2007012010220,結華,ありがとう、プロデューサー,"Thanks again, Producer!"
+0000000000000,プロデューサー,……俺としては嬉しい結果が出る選択肢だな……？,...isn't either one a reason to celebrate?
+2007012010230,結華,えー？,Ehhh?
+2007012010240,結華,担当アイドルが退化してるの、喜ぶわけ？,Would you really celebrate your idol regressing?
+0000000000000,プロデューサー,俺に気を許すのは退化なのか……,I wouldn't say that opening up means a regression...
+2007012010250,結華,まぁ、場合によっては？,"Welp, maybe in some instances?"
+2007012010260,結華,"……だってさぁ、あんまりなんでもわかられちゃったら
+隠しごとができなくなるってことでしょ？","...Like, there's nothing to hide if you know
+everything there is to someone, right?"
+2007012010270,結華,そしたら、いつか嘘つくことになっちゃうかもだからね,"If so, then that someone might have to lie
+to you someday."
+info,produce_events/200701201.json,
+Translator,Lewdacriz,

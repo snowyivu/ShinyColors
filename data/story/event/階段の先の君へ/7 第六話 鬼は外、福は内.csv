@@ -125,8 +125,8 @@ select,,大切にしていこうな,And cherish them dearly.
 4001021070520,樹里,──ああ、そうだな,"──Yeah, that's right."
 0000000000000,プロデューサー,"……よし、ほら
 もう出発だ！","... Alright, come on!
-Time for us to go!"
-4001021070530,樹里,おー、行ってくる！,"Yeah, right behind ya!"
+Time to get going!"
+4001021070530,樹里,おー、行ってくる！,"Yeah, I'm on it!"
 0000000000000,プロデューサー,樹里、ちゃんと前見て歩くんだぞ！,"Juri, look ahead when you walk!"
 4001021070540,樹里,……わかってるって！,... I know that!
 4001021070550,果穂,"みなさーん！
@@ -142,4 +142,4 @@ Demons out!"
 4001021070580,果穂,福は内ー！,Fortunes in!
 4001021070581,一同,福は内ー！,Fortunes in!
 info,game_event_communications/400102107.json,
-Translator,,
+Translator,Rinka,
