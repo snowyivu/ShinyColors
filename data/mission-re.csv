@@ -322,6 +322,7 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 シーズン$numを$num回クリアしよう,"Clear ""Season $1"" $2 times",exp
 【$note】W.I.N.G.決勝に$num回進出しよう,【$1】Reach W.I.N.G. Finals $2 times,exp
 ​【$note】いずれかのアイドルのTrueEndを$num回見よう,【$1】Reach any idol True End $2 times,exp
+【$note】いずれかのアイドルのTrueEndを1回見よう,【$1】Reach any idol's True End,exp
 【$note】シーズン$num開催のオーディション「$uk」に$num回合格しよう,【$1】Pass audition 「$3」 $4 times in Season $2,exp
 【$note】シーズン$num開催の特別オーディション「$uk」に$num回合格しよう,【$1】Pass special audition 「$3」 $4 times in Season $2,exp
 ​【$note】$nounの誰か一人でLandingPointをクリアしよう,【$1】Clear LandingPoint with any $2 idol,exp
@@ -331,7 +332,12 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 【$note】LandingPointを$num回クリアしよう,【$1】Clear LandingPoint $2 times,exp
 【$note】G.R.A.D.を$num回優勝しよう,【$1】Win G.R.A.D. $2 times,exp
 【$note】G.R.A.D.を$num回クリアしよう,【$1】Clear G.R.A.D. $2 times,exp
+【$note】G.R.A.D.編でアビリティを$num個獲得しよう,【$1】Earn $2 Abilities in G.R.A.D.,exp
 【$note】予選オーディションに$num回合格しよう,【$1】Clear G.R.A.D. Pre-Selection Audition $2 times,exp
+【$note】LandingPoint編でアビリティを$num個獲得しよう,【$1】Earn $2 Abilities in LandingPoint,exp
+【$note】ライブ本番で会場ボルテージの目標を$num回達成しよう,【$1】Achieve the Venue Voltage goal $2 times in Lives,exp
+【$note】楽曲熟練度の合計レベルを$numにしよう,【$1】Raise the total music proficiency level to $2,exp
+【$note】楽曲課題を$num個クリアしよう,【$1】Clear $2 song assignments,exp
 【$note】ファン感謝祭を$num回クリアしよう,【$1】Win T.F.D. $2 times,exp
 $nounの誰か一人をプロデュースして$noun以上のフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of $2 or above,exp
 【$note】$noun以上の$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3 or above, earn a 「$4」 $5 times",exp
