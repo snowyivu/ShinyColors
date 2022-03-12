@@ -1,0 +1,32 @@
+id,name,text,trans
+6020004010010,透,……心配？,...Worried?
+0000000000000,プロデューサー,"……
+なんの心配だ","...
+About what?"
+6020004010020,透,"……
+ううん","...
+Nothing."
+0000000000000,プロデューサー,"──気がかりなことを抱えたまま
+ステージに立ってもらうのは、俺の力不足だ。苦しいよ","──To have you go on stage with feelings
+like that, really shows my incompetence. 
+I feel terrible about that."
+0000000000000,プロデューサー,"けど……
+今日のことなら心配してない","But...
+If it's about the live today, then I have no worries."
+0000000000000,プロデューサー,ステージだから。ここが,It's the stage after all.
+0000000000000,プロデューサー,────終わったら話し合おう,────Let's talk about it after the live.
+6020004010030,透,"……
+言ったけど、無理って。あのことなら","...
+I told you, about that. It's impossible."
+0000000000000,プロデューサー,"────でも、わかってるんだろ
+ステージが透を逃さない","───But, you know it, don't know.
+That the stage isn't going to let Toru escape."
+0000000000000,プロデューサー,"カメラも、モニターも、お客さんも
+……この世界が透を逃さないよ","Nor will the cameras, monitors, or the audience.
+...This world isn't going to let you escape."
+0000000000000,プロデューサー,"たくさんの心臓が脈を打ってる
+その音に、その匂いに────","Hearts are pulsating.
+To that sound, that smell────"
+0000000000000,プロデューサー,────ひかれてるんだろ、透,"────They're drawn to you, Toru."
+info,produce_events/602000401.json,
+Translator,OrangeKabocha,

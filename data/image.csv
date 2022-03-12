@@ -12,6 +12,7 @@ images/ui/idol_list/parts.json_image,idol_list_parts.png,16
 images/ui/produce_common/parts_header.json_image,parts_header.png,15
 images/ui/produce_event/parts_event.json_image,parts_event.png,15
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,15
+images/ui/fes_result/parts_fes_match.json_image,fes_match.png,13
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,11
 images/ui/present_box/parts.json_image,present_box_parts.png,10
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,9
@@ -232,6 +233,7 @@ images/content/unit/catch_copy/005.png,unit_catch_005.png,3
 images/content/unit/name/006.png,unit_name_006.png,3
 images/content/unit/catch_copy/006.png,unit_catch_006.png,3
 images/content/unit/name/007.png,unit_name_007.png,2
+images/content/unit/catch_copy/007.png,unit_catch_007.png,2
 images/ui/common/parts_beginner_and_true_end_teaching_button.json_image,parts_beginner_and_true_end.png,5
 images/ui/game_event/parts_list.json_image,game_event_parts_list.png,7
 images/ui/raid_deck/parts.json_image,raid_deck_parts.png,4
@@ -799,3 +801,4 @@ images/content/support_idols/name/19199b6cd8783022806d037760c3698f_2040250040.pn
 images/content/support_idols/name/b7d1571ff295ced571a759631c36148f_2020240010.png,cards/nichika_s_r_1.png,2
 images/content/support_idols/name/d76a3655c51c33d63a43e35675d562f4_2030200030.png,cards/toru_s_sr_3.png,1
 images/content/idols/name/5e884ccdaf364e8800c1e304bcac2b47_1030070040.png,cards/yuika_p_sr_4.png,2
+images/content/support_idols/name/5ebc319608ce9c0f15fdd38888149266_2040190060.png,cards/mei_s_ssr_6.png,1

@@ -1,0 +1,38 @@
+id,name,text,trans
+6020004040010,透,────イエー,────Yaaay.
+0000000000000,プロデューサー,"おう、お疲れ様！
+よかったぞ","Hey, good work out there!
+That was spectacular."
+6020004040020,透,"んー
+いい感じ、めっちゃ","Mn.
+It was, very."
+6020004040030,透,"はー……
+減ったー、お腹","Phew...
+I'm starved."
+6020004040040,透,"ある？　なんか
+もっと","Got anything?
+More."
+0000000000000,プロデューサー,……ん？,...Hm?
+6020004040050,透,おにぎりとか,Like an onigiri or something.
+0000000000000,プロデューサー,"はは、食べ物か。まだ残ってたんじゃないかな
+おにぎりでいいのか？","Haha, you meant food huh. 
+There should be some leftover.
+You fine with just onigiri?"
+6020004040070,透,"あー……
+んー────","Ahh...
+Mnn────"
+6020004040080,透,"────
+足りなくて、なんか","────
+It feels lacking, somehow."
+6020004040090,透,"なんかもっと……
+もっと","Like, more...
+More."
+6020004040100,透,お腹減ってて,I'm hungry.
+0000000000000,プロデューサー,……────,…────
+0000000000000,プロデューサー,"よし、うん
+なんでも手配するよ、おにぎりでも肉でもなんでも────","Okay, got it.
+I'll get you anything you want, be it onigiri 
+or meat────"
+0000000000000,プロデューサー,待っててくれ,Watch me.
+info,produce_events/602000414.json,
+Translator,OrangeKabocha,

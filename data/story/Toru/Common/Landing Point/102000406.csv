@@ -1,0 +1,109 @@
+id,name,text,trans
+1020004060010,透,"いるかな
+どっかに","I wonder if they're here.
+Somewhere."
+0000000000000,プロデューサー,"……
+映画館に来てた人たちか？","…
+Those people you met at the cinema?
+"
+1020004060020,透,うん,Yep.
+0000000000000,プロデューサー,"はは、それは……
+架空の人たちじゃないんだろ？","Haha, are you sure...
+they aren't just fictional people you made up?"
+1020004060030,透,"……わかんない
+いないし、もう","...I don't know.
+They're all gone, anyway."
+0000000000000,プロデューサー,"……いないってことはないよ
+きっと皆さん、元気で────","...They're not gone.
+I'm sure everyone's healthy and living, somewhere 
+out there────"
+1020004060040,透,"じゃあ、見るかな
+ここに……看板立ったら","Then, will I be able to find them?
+If... a signboard with me on it gets constructed here."
+1020004060050,透,"ここ潰した看板
+私の看板","A signboard with me on it.
+To replace this tattered, old signboard.
+"
+0000000000000,カメラマン,"そう……いい表情……
+そのまま少し横向こうか……そう────","That's it... That's a good expression...
+Would you look a little this way... That's it────"
+0000000000000,プロデューサー,────透,────Toru.
+1020004060060,透,『街はつづく、人生みたいに』,"""The city goes on, just like life."""
+1020004060070,透,"続くんだって、この街
+……あそこがなくなっても","This city will go on, they say.
+...Even with this place gone."
+0000000000000,プロデューサー,"それは……それが人生だから
+……そういうコピーだろ","That's... That's just how life is.
+...That's what the slogan is about, right?"
+0000000000000,プロデューサー,それで────,So────
+0000000000000,プロデューサー,"透も生きる
+もっと……もっと食べて","Live on, Toru.
+Go on... and devour."
+0000000000000,撮影ディレクター,"──まぁ、クライアントさんも持ち帰るって言ってるし
+そんな恐縮されなくても","Well, the client says it's fine to wrap it up here too, 
+so. Don't fret over it."
+0000000000000,プロデューサー,"す、すみません……
+オーダーいただいてる雰囲気じゃなくなって……","I-I'm sorry...
+It seems like she's not in the mood to 
+take directions..."
+0000000000000,撮影ディレクター,"いやいや、僕もこっちのがいいなって思うんです
+おさえもかなり撮ってますし、大丈夫ですよ","No, not at all. I think it's the best for all of us here 
+as well.
+We're getting plenty of shots fine just like that."
+0000000000000,プロデューサー,"怒ってるみたいな、悲しんでるみたいな
+挑んでるみたいな────","It's like a pained, sad,
+controlled────"
+0000000000000,プロデューサー,微笑み,smile.
+1020004060080,透,"……ごめん。うん
+いい、もう","...Sorry. Yeah.
+It's fine now."
+1020004060090,透,決めたから,I've made up my mind.
+0000000000000,プロデューサー,……,…
+1020004060100,透,"爆発するかも
+私","I feel like
+I'm about to explode."
+1020004060110,透,"なんか……
+いつもそんな感じする。最近","It's like...
+I've been feeling a lot like that, lately."
+0000000000000,プロデューサー,"……
+起こしてくれるのか。事故とか","…
+Like you're about to start something?"
+1020004060120,透,"かも
+起こすかも","I might.
+Maybe."
+1020004060130,透,でも……,But...
+1020004060140,透,"取ってくれるんでしょ
+責任","You're going to take responsibility for it, right?"
+1020004060150,透,一緒に,With me.
+0000000000000,プロデューサー,うん,Yeah.
+0000000000000,プロデューサー,"出会った頃の透なら……
+断ってたよな、迷わず","If this was the Toru from when I first met her...
+She would have rejected it. Without a doubt."
+0000000000000,プロデューサー,"その方がよかったのかもしれない
+────わからないよ、正直なところ","Perhaps it might've been better that way.
+────Frankly speaking, I don't know."
+1020004060160,透,……,…
+1020004060170,透,"欲しい
+もっと","I want more
+of that.
+"
+0000000000000,プロデューサー,"……でも、そういうことだよな
+未来って","...But that's how it is, right?
+Things like ""the future""."
+1020004060180,透,そういうこと,That's how it is.
+0000000000000,プロデューサー,────バチーン,────Booom.
+0000000000000,プロデューサー,"……そう言えば、あの映画の続きってさ
+結局見れなかったのか？","...By the way, did you ever see the ending
+of that movie you talked about?"
+1020004060190,透,"あー……
+うん。終わってた、とっくに","Ahh...
+Right. It stopped showing. 
+Since a while back."
+1020004060200,透,"……でも
+いいや、知らなくて","...But,
+I'm fine with that."
+1020004060210,透,"知りたくないから
+ラストのことは","I don't really wanna know.
+About what happens at the end."
+info,produce_events/102000406.json,
+Translator,OrangeKabocha,
