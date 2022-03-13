@@ -61,7 +61,7 @@ $noun＆$noun$percentUP,$1＆$2 $3 UP,
 トラブル発生率,Trouble Rate,
 必ず最後にアピールを行い,"Always Appeal Last",
 必ず最初にアピールを行い,"Always Appeal First",
-$noun滞在率,$1 Room Rate,
+$noun滞在率$noun,$1 Room Rate$2,
 興味$percentUP,Interest $1UP,
 興味$percentDOWN,Interest $1DOWN,
 興味DOWN$percent,Interest DOWN $1,
@@ -72,15 +72,17 @@ $noun滞在率,$1 Room Rate,
 特訓$num回目で解放,Limit Break $1 Times,
 $noun初期値,$1 Start Value,
 $noun上限,$1 Cap,
-サポートイベント発生率UP,Support Event Chance UP,
-初期テンションUP,Start Tension UP,
+サポートイベント発生率UP$noun,Support Event Chance UP$1,
+初期テンションUP$noun,Start Tension UP$1,
 初期親愛度,Start Affection,
 初期絆UP,Start Bonds UP,
 プロデュース開始時に絆,Bonds at Start of Produce,
-（極小）,（Tiny）,
-（小）,（Small）,
-朝コミュ発生率,Morning Commu Rate,
-約束発生率,Promise Rate,
+（極小）,（Tiny）,noun
+（小）,（Small）,noun
+（中）,（Med）,noun
+（大）,（Large）,noun
+朝コミュ発生率UP$noun,Morning Commu Rate UP$1,
+約束発生率UP$noun,Promise Rate UP$1,
 $nounが$percentUPする効果,$1 Effect Increased $2,
 受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1 UP,
 $nounが$percentDOWNする効果,$1 Effect Decreased $2 DOWN,
@@ -131,6 +133,7 @@ Voレッスン,Vo Lesson,noun
 Daレッスン,Da Lesson,noun
 Viレッスン,Vi Lesson,noun
 親愛度,Trust,noun
+初期親愛度,Starting Trust,noun
 絆,Bonds,noun
 テンション,Tension,noun
 ラジオ,Radio,noun

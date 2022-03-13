@@ -1696,8 +1696,8 @@ exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を�
 exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Exスキル枠を\n選択してください
 exSkill.noExSkill,Exスキルを\n所持していません,Exスキルを\n所持していません
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
-exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}種/%{totalKindNum}種
-exSkill.upgradeConfirmPop.title,グレードアップ確認,グレードアップ確認
+exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}/%{totalKindNum}
+exSkill.upgradeConfirmPop.title,グレードアップ確認,Grade Up Review
 exSkill.upgradeConfirmPop.notice.lackTotalNum,現在のExスキルの所持数が不足しています,現在のExスキルの所持数が不足しています
 exSkill.upgradeConfirmPop.notice.lackUnsetNum,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください
 exSkill.upgradeConfirmPop.notice.limitOver,グレードアップ後のExスキルが所持上限に達しています,グレードアップ後のExスキルが所持上限に達しています
@@ -1954,3 +1954,9 @@ workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%
 workActivityTalkAndCommu.unitLevelRewardPopContent.title,レベル報酬,レベル報酬
 unitSelectGasha.confirmTitle,ピックアップユニット確認,ピックアップユニット確認
 unitSelectGasha.confirmText,ピックアップユニットを「%{unitName}」に確定しますか？,ピックアップユニットを「%{unitName}」に確定しますか？
+fes.top.residualBorder,残留ライン,Stay Line
+fes.top.promotionBorder,昇格ライン,Promote Line
+fesTower.bossPanelInfo,FINALライブ Lv.%{level},FINAL Live Lv.%{level}
+header.producerDeskTop,Pデスク,P Desk
+header.producerLevel,プロデューサーレベル,Producer Level
+header.producerDeskShop,Pレベルショップ,P Level Shop
