@@ -160,6 +160,7 @@ Sランク,Rank S,noun
 Vo.,Vo.,noun
 Vi.,Vi.,noun
 Da.,Da.,noun
+Me.,Me.,noun
 W.I.N.G.編,W.I.N.G. Run,note
 ファン感謝祭編,Thanks Flapping Day Run,note
 G.R.A.D.編,G.R.A.D. Run,note
@@ -167,7 +168,6 @@ LandingPoint,LandingPoint,note
 LandingPoint編,LandingPoint,note
 高難易度,High Difficulty,note
 期間限定,Limited Time,note
-白いツバサ,White Wing,note
 $nounに$num回参加しよう,Participate in $1 $2 times,exp
 営業を$num回しよう,Do $1 Jobs,exp
 フェス参加権が$num回復します,Recover $1 Fes Entries,exp
@@ -418,3 +418,166 @@ $nounのステータスを$num上昇させる,Raise $1 to $2,exp
 テンションが小アップ,Small Tension Up,exp
 メンタル$num,Mental$1,exp
 $nounの上限値$num,$1 Cap $2,exp
+$nameをホームユニットに編成しよう,Place $1 in your home unit,exp
+$nameを$num回プロデュースしよう,Produce $1 $2 times,exp
+$nameを$noun以上のフェスアイドルにしよう,Produce a $2 or higher $1,exp
+$nameの思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with $1,exp
+$nameの思い出レベルを5にしよう,Reach Memory Appeal level 5 with $1,exp
+$nameの信頼度を３以上にしよう,Reach Trust Level 3 or higher with $1,exp
+$nameの信頼度を５以上にしよう,Reach Trust Level 5 or higher with $1,exp
+$nameをセンターに編成して、グレード$num以上のフェスに$num回参加しよう,"With $1 as a Center, play Grade Fes Level $2 or above $3 times",exp
+$nameを含めた編成で営業を$num回しよう,Have $1 complete $2 Jobs,exp
+$nameをプロデュースして、$noun400以上のフェスアイドルにしよう,Produce $1 with 400 or more $2,exp
+$nameをプロデュースしてW.I.N.G.決勝に進出しよう,Win W.I.N.G. Semifinals with $1,exp
+$nameをプロデュースして$num万人のファン数を獲得しよう,"Earn $20,000 fans with $1",exp
+２８３プロのヒナ,283Pro Hatchling,note
+克服の特訓,Overcoming Special Training,note
+金色の元気いっぱいガール,Golden Vivacious Girl,note
+淡雪の戯れ,Playing with Snowfalls,note
+冬街イルミネート,Illuminated Winter Streets,note
+落下予測地点,Estimated Drop Point,note
+魔法の階段を上って……,Climbing the Magic Staircase...,note
+白いツバサ,White Wing,note
+手作りの心遣い,Handmade Consideration,note
+遊び疲れて……,Tired from playing...,note
+柔らかな微笑み,Tender Smile,note
+乙女と交わすTrick,Girl and Her Interlaced Tricks,note
+日を食んで、夜を啜って,"Eat the Day, Sip the Night",note
+指先の煌めき,Sparkling Fingertips,note
+天然色ピクニック,Technicolor Picnic,note
+閑話,Chatter,note
+花結びゆくゆく,Rosette on the Way ,note
+和泉流・書道心得,Izumi Style Calligraphy,note
+気になる！？染めちゃう！？,Whacha Think!? Should I Dye It!?,note
+頬を照らすのは,The Shine on Your Cheeks,note
+by to illuminate,by to illuminate,note
+RPGのススメ,RPG Rally,note
+アイドルのたまご,Idol in the Making,note
+アイドルロード,Idol Road,note
+アルティメットマーメイド,Ultimate Mermaid,note
+お揃いスナップ,Matching Shots,note
+キネマ・リリックで夢見て,Lyrics Dreamt at the Cinema,note
+く ら く ら,Dizzy Dizzy,note
+ぐうぜんBOOKS,Coincidental BOOKS,note
+ゴースト・サイド！,Ghost Side!,note
+さかさま世界,Upside-down World,note
+しじまに華ひととき,A Moment's Flowers,note
+スタァライトショウタイム,Starlight Showtime,note
+スプラッシュビート,Splash Beat,note
+ソラを跳ね,Splash into the sky,note
+チエルアルコは流星の,Ĉielarko's Meteor,note
+ちょっとあげる～,I'll Give You A Little～,note
+てへっ♪,Tehe♪,note
+と～りゃんせ！,Toryanse!,note
+トリッキーナイト,Tricky Night,note
+ナチュラルモード,Natural Mode,note
+は～と♡に火をつけて,Light My Fire,note
+はじけてスマイル,Bursting Smile,note
+バス・タイムの気分で,Bath Time Mood,note
+ばってん長崎恋岬,"Anyhow, Nagasaki Cape o' Love",note
+プレゼン・バトン！,Present Baton!,note
+ほわっとスマイル,Gentle Smile,note
+マフラー直して、心は解けて,"Fix Your Scarf, Melt My Heart",note
+左選んで～！,Choose Left～!,note
+秋、どがんね～？,"Fall, How've Ya Been?",note
+摩的・アンチテーゼ,Mamimian Antithesis,note
+パープル・ミラージュ,Purple Mirage,note
+裏腹あまのじゃく,Contrary Devil,note
+夕つ方まみみチック,Dusk Mamimi-mantic,note
+そのまみみ無気力につき,Regarding Mamimi's Lethargy,note
+闇鍋上等,First-Class Potluck Hot Pot,note
+カラフルポップMIX,Colorful Pop MIX,note
+イン・ザ・ピンク,In The Pink,note
+街角フラワーガーデン,Street Corner Flower Garden,note
+咲耶と摩美々のぶらり旅,Sakuya & Mamimi's Aimless Trip,note
+それなら目をつぶりましょう,"In That Case, Close Your Eyes",note
+カラフルメタモルフォーゼ,Colorful Metamorphosis,note
+雨色、上機嫌,Rainy Good Mood,note
+お願い、ただの少女がいい,"Just an Ordinary Girl, Please",note
+等身大のレイニーデイ,Realistic Rainy Day,note
+賑やか四畳半,Lively 4 ½ Tatami Room,note
+霧・音・燦・燦,Kiri's・Bright・Sou・nds,note
+包・帯・組・曲,Band・age・Wrap・Melody,note
+白・白・白・祈,Pure・White・Light・Prayer,note
+雨・雨・電・電,Rain・Rain・Ring・Ring,note
+我・思・君・思,My・Thoughts・Your・Thoughts,note
+第２形態アーマードタイプ,2nd Form Armored Type,note
+新装備・バブルバスター！,"New Equipment, Bubble Buster!",note
+デコって！ハッピークッキー,Decoration! Happy Cookie,note
+ヒーローインザパーク,Hero In The Park,note
+放課後スノーガールズ！,Afterschool Snow Girls!,note
+ちょこ色×きらきらロマン,Chocolatey×Sparkling Romance,note
+桜餅マスター……？,Sakura Mochi Master...?,note
+迷走チョコロード,Straying Off Choco Road,note
+ぐるもこ・まふ×２,Fuzzy and Soft Muffler x2,note
+茜色セレンディピティ,Autumn-Colored Serendipity,note
+３名様極楽旅行記,Journey to Paradise for 3,note
+晴れ待ちのひと時,Waiting for the Sun to Shine,note
+杜野凛世の印象派,The Impressionsim of Rinze Morino,note
+凛世花伝,Flowering Rinze,note
+水色感情,Light Blue Feelings,note
+想ひいろは,The ABCs of Love,note
+凛凛、凛世,Austere-inze,note
+微熱風鈴,Slight Fever Wind Chime,note
+ふらここのうた,Swinging Song,note
+階段式純情昇降機,Up the Elevator of Naivete,note
+凛世夕町物語,Rinze's Evening Town Takes,note
+常夏CLIMAX,Summer's Everlasting CLIMAX,note
+百色ふぉとぐらふ,Hundred Color Photograph,note
+メイドインナツハ,Maid In Natsuha,note
+ストイックトレーニング,Stoic Training,note
+#ナッツ・チョコジェリー,#Nuts・ChocoJelly,note
+虹待ちレインドロップ,Raindrops Awaiting a Rainbow,note
+スタンド・バイ,Stand By,note
+ゆらゆらアクアリウム,Swaying Aquarium,note
+甜花ちゃんといっしょ☆,Together With Tenka☆,note
+幸せのりんご飴,Candy Apple of Happiness,note
+まだ……寝ないから……,Won't Get Up... Just Yet...,note
+秘密のがんばり,Secret Endurance,note
+光の想い出,Memories of Light,note
+シンメトリー・プールサイド,Symmetry Poolside,note
+お日様染めのマリーナ,Sun Dyed Marina,note
+マイ・ピュア・ロマンス,My Pure Romance,note
+シークレット・ヒロイン,Secret Heroine,note
+サマーハニー・シーズン,Summer Honey Season,note
+はるかぜまち、1番地,"Spring Breeze Street, Address 1",note
+ハッピー・アイ・スクリーム,Happy I Scream,note
+マイフェイバリット,My Favorite,note
+一夏一刻物語,One Summer Story,note
+よそゆき顔のセレナーデ,Formal Look Serenade,note
+ワン・モア・フラワリング,One More Flowering,note
+夏、イエー,"Summer, Yay",note
+先生のお時間,Teacher's Time,note
+ブルーミングハート,Blooming Heart,note
+こころに恋,Love in the Heart,note
+かしゃーんとがらがら,Clatter and Rattle,note
+腹が減っては遊びはできぬ,Don't Play on an Empty Stomach,note
+オ♡フ♡レ♡コ,Off♡The♡Record,note
+ザ・冬優子イズム,The Fuyukoism,note
+水×天カイヤナイト,Water×Kyanite Sky,note
+スパイシーベリィデコレイト,Spicy Berry Decorate,note
+なるんじゃん？,Shouldn't We Be?,note
+おかえり、ギター,"Welcome Back, Guitar",note
+がんばれ！ ノロマ号,Good Luck! Dimwit,note
+かっとばし党の逆襲,Knock-Out Counter-Attack,note
+殴打、その他の夢について,"About Striking, Other's Dreams",note
+游魚,Swimming Fish,note
+ポシェットの中には,Inside the Pochette,note
+はれのひ喫茶店,Clear Day Cafe,note
+パーティーのやくそく,Our Promised Party,note
+思い出にもならない,It Won't Be A Memory,note
+傍白のあいだ,Between the Asides,note
+きせつはアイスクリン,Seasonal Ice Cream,note
+しかえし優等生,Repeat Honor Student,note
+間違いそうだ,There's Been A Mistake,note
+海と太陽のプロメッサ,Promessa of the Sun and Sea,note
+く　ら　く　ら,D i z z y D i z z y,note
+プレゼントなら両手いっぱい,Lots Of Presents In My Hands,note
+十二月短篇,December Story,note
+秋空と紅葉,The Autumn Sky And Leaves,note
+途方もない午後,Extraordinary Afternoons,note
+チョコレー党、起立！,"ChocoLovers, Assemble!",note
+カラカラカラ,"Clatter, Clatter, Madder",note
+ギンコ・ビローバ,Ginkgo Biloba,note
+てのひらの答え,Palm's Reply,note
+♡まっクろはムウサぎ♡,♡Pitch Black Hamster Rabbit♡,note

@@ -1732,8 +1732,8 @@ trueEndTeaching.openPopup.description,True End研修はホーム画面からス�
 trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう
 trueEndTeaching.openPopup.teachingText,True End研修へ,True End研修へ
 userOnlyMessagePopup.title,専用メッセージ,専用メッセージ
-workActivityTop.checkUnitDialogTitle,営業編成確認,営業編成確認
-workActivityReady.selectedBusinessNone,未選択,未選択
+workActivityTop.checkUnitDialogTitle,営業編成確認,Job Status Check
+workActivityReady.selectedBusinessNone,未選択,Unselected
 workActivityReady.autoSelectedDialog.title,おまかせ編成,おまかせ編成
 workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しました,おまかせ編成が完了しました
 workActivityReady.startErrorDialog.confirmationText,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です
@@ -1917,12 +1917,12 @@ proficiencies.feel_stable,安定感,Stability
 proficiencies.expressive_power,表現力,Expressiveness
 proficiencies.concentration,集中力,Focus
 proficiencies.teamwork,団結力,Teamwork
-shop.headerTitles.piece,ピース,ピース
+shop.headerTitles.piece,ピース,Pieces
 shop.purchaseConfirmation.notice.trustPointUpMerchandise,既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります,既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります
-shop.idolPossessedText.idol,所持済,所持済
-shop.idolPossessedText.other,アイドル所持,アイドル所持
-shop.idolUnpossessedText.idol,未所持,未所持
-shop.idolUnpossessedText.other,アイドル未所持,アイドル未所持
+shop.idolPossessedText.idol,所持済,Owned
+shop.idolPossessedText.other,アイドル所持,Owned Idol
+shop.idolUnpossessedText.idol,未所持,Unowned
+shop.idolUnpossessedText.other,アイドル未所持,Unowned Idol
 shop.smallTabTitles.gameEvent.coin,グレフェスコイン,Grade Fes Coins
 shop.smallTabTitles.idolPiece.idolEvolutionPiece,アイドルピース,Idol Pieces
 skillBord.enablePassiveSkillDeletionNotice.title,確認,確認
@@ -1933,21 +1933,21 @@ skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキ�
 skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません
 characterSpecialCommunication.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
 characterSpecialCommunication.releaseConfirmationComment,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？
-characterSpecialCommunication.dayLimitTitle,エラー,エラー
+characterSpecialCommunication.dayLimitTitle,エラー,Error
 characterSpecialCommunication.dayLimitComment,本日の解放上限に達しています,本日の解放上限に達しています
 characterSpecialCommunication.remainingPlayCount,本日の解放数： %{remaining}/%{max}回,本日の解放数： %{remaining}/%{max}回
 characterSpecialCommunication.schedule,開催期限 %{startAt}〜%{closeAt},開催期限 %{startAt}〜%{closeAt}
 specialCommunicationSituation.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
 specialCommunicationSituation.confirmationComment,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます
 tutorial.unitDescription.7,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。
-workActivityRewardPop.unitLevelRewardTitle,報酬受け取り,報酬受け取り
+workActivityRewardPop.unitLevelRewardTitle,報酬受け取り,Received Reward
 workActivityRewardPop.commuTitle,コミュ解放,コミュ解放
 workActivityRewardPop.talkCompleteRewardTitle,報酬受け取り,報酬受け取り
 workActivityRewardPop.unitLevelRewardText,営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました,営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました
 workActivityRewardPop.commuText,営業ユニットレベルが一定に達したため\n以下のコミュが解放されました,営業ユニットレベルが一定に達したため\n以下のコミュが解放されました
 workActivityRewardPop.talkCompleteRewardText,トークのコンプ数が一定に達したため\n以下の報酬を受け取りました,トークのコンプ数が一定に達したため\n以下の報酬を受け取りました
-workActivityResult.unitWorkActivityPointPop.title,ユニット営業ポイント確認,ユニット営業ポイント確認
-workActivityTalkAndCommu.commuListPopTitle,営業ユニットコミュ,営業ユニットコミュ
+workActivityResult.unitWorkActivityPointPop.title,ユニット営業ポイント確認,Unit Job Points Review
+workActivityTalkAndCommu.commuListPopTitle,営業ユニットコミュ,Unit Job Commu
 workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName,コンプ数\n%{num},コンプ数\n%{num}
 workActivityTalkAndCommu.talkCompleteRewardPopContent.title,コンプ報酬,コンプ報酬
 workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%{num},ユニット\nLv.%{num}
@@ -1960,3 +1960,5 @@ fesTower.bossPanelInfo,FINALライブ Lv.%{level},FINAL Live Lv.%{level}
 header.producerDeskTop,Pデスク,P Desk
 header.producerLevel,プロデューサーレベル,Producer Level
 header.producerDeskShop,Pレベルショップ,P Level Shop
+producerDesk.producerLevel.statusPopupTitle,ステータスアップ一覧,Status Up List
+shop.producerDesk.unlockText,レベル%{level}で解放,Unlocks at Lv.%{level}
