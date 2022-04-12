@@ -1,7 +1,7 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,55
 images/ui/common/parts.json_image,common_parts.png,36
-images/ui/my_page/parts.json_image,my_page.parts.png,36
+images/ui/my_page/parts.json_image,my_page.parts.png,37
 images/ui/fes/parts.json_image,fes_parts.png,34
 images/ui/mission/parts.json_image,mission_parts.png,22
 images/ui/produce_top/parts.json_image,top_parts.png,21
@@ -247,7 +247,7 @@ images/tips/beginner_mission/001.jpg,tutorial/beginner_mission_001.jpg,3
 images/tips/beginner_mission/002.jpg,tutorial/beginner_mission_002.jpg,3
 images/ui/game_event/parts_icon.json_image,game_event_parts_icon.png,10
 images/ui/idol_detail/parts_trust.json_image,idol_detail_parts_trust.png,3
-images/ui/character_fan_ranking/parts.json_image,fan_ranking_parts.png,8
+images/ui/character_fan_ranking/parts.json_image,fan_ranking_parts.png,9
 images/ui/box_gasha/parts.json_image,box_gasha_parts.png,10
 images/tips/produce_grad/001.jpg,tutorial/grad_tutorial_001.png,2
 images/tips/produce_grad/002.jpg,tutorial/grad_tutorial_002.png,2
@@ -267,6 +267,7 @@ images/ui/concert_result/parts_status.json_image,concert_result_status.png,8
 images/ui/produce_staff_assist_event/parts.json_image,staff_assist_event_parts.png,3
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_produce.png,3
 images/ui/init/parts.json_image,init_parts.png,11
+images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,2
 images/ui/init/parts_pop.json_image,init_parts_pop.png,13
 images/content/limit_break_skills/icon.json_image,limit_break.png,11
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,13

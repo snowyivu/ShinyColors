@@ -1962,3 +1962,13 @@ header.producerLevel,プロデューサーレベル,Producer Level
 header.producerDeskShop,Pレベルショップ,P Level Shop
 producerDesk.producerLevel.statusPopupTitle,ステータスアップ一覧,Status Up List
 shop.producerDesk.unlockText,レベル%{level}で解放,Unlocks at Lv.%{level}
+gasha.popTicketDesc.consumption,消費してガシャを引きます,
+gasha.stamp.notice.repeatOneCard,スタンプカードが最後まで埋まった後は1枚目の内容を繰り返します,
+gasha.stampComplete,済,
+gasha.billedJewel,有償,Paid
+gasha.drawText,%{drawNum}回引く,%{drawNum}Pulls
+gasha.limitedPerDayText,1日1回,1/Day
+gasha.staffChanceGashaRewardListPopTitle,報酬一覧,Reward List
+gasha.staffChanceGashaAcquiredRewardPop.title,当選結果,Selection Result
+gasha.staffChanceGashaAcquiredRewardPop.listDescription,以下の報酬が当選しました,Won the Following Rewards
+gasha.freeOnceADayBalloonText,1日1回無料,Free 1/Day
