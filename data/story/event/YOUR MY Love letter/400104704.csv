@@ -1,0 +1,168 @@
+id,name,text,trans
+0000000000000,店内BGM,『────────♪』,"""──────── ♪"""
+4001047040010,店内BGM,『コンビニへご来店のみなさま、こんばんはー』,"""Good evening to all convenience store shoppers."""
+4001047040011,店内BGM,『アルストロメリアです！』,"""We're Alstroemeria!"""
+4001047040020,店内BGM,『夜遅くても、おなかいっぱい食べた～い！』,"""If you're craving for a full meal late at night!"""
+4001047040030,店内BGM,『そんなあなたにおすすめなのがいろどりパワーサラダ！』,"""We recommend the Colorful Power Salad!"""
+4001047040040,店内BGM,『チキン、ビーンズ、ふわたま……そして、菜の花！』,"""Chicken, beans, fluffy eggs... combined with nanohana!"""
+4001047040050,店内BGM,『春の味わい、ぜひお試しください！』,"""Please try this taste of spring!"""
+4001047040060,店内BGM,『それでは────』,"""With that being said────"""
+4001047040070,店内BGM,『ご来店のみなさまに、午後10時をお知らせします』,"""Dear customers, this is a reminder that it's 10:00PM."""
+0000000000000,コンビニ店員,"────じゃ、シフト交換については、
+俺から店長に話しときますんで","────Okay then.
+I'll talk to the manager.about the shift swap"
+0000000000000,バイト仲間,"マジでありがと
+助かるよ","Seriously, thanks.
+You saved me there."
+0000000000000,バイト仲間,"ささやかだけどお礼な
+これ、よかったら","
+Please take this as a small token of my appreciation."
+0000000000000,コンビニ店員,"……？
+なんですか、これ","......?
+What is this?"
+0000000000000,バイト仲間,"何って……
+見たまんまだよ","Uh...
+It's just what you see."
+0000000000000,バイト仲間,"アルストロメリアの店内POP
+まあ店の取っといただけだけど……まあまあレアらしいぜ","Alstroemeria's store advertising display.
+Well, I just took it from the store... but I heard it's pretty rare."
+0000000000000,コンビニ店員,"はあ、なるほど……
+ありがとうございます","Hah, I see...
+Thank you."
+0000000000000,バイト仲間,"誰が推しなんだよ
+甘奈か？　甜花か？　千雪か？","Who do you like?
+Amana? Tenka? Or Chiyuki?"
+0000000000000,コンビニ店員,"いえ……
+別にファンじゃないので","Nah...
+I'm not really a fan."
+0000000000000,バイト仲間,"…………？
+アルスト、好きだって言ってなかったっけ","............?
+Didn't you say you liked Alstro?"
+0000000000000,コンビニ店員,"曲はいいなと思いますけど
+歌っている人は別に","I think their songs are good.
+I just don't care about the singers."
+0000000000000,コンビニ店員,顔も知らないですし,I don't even know what they look like.
+0000000000000,バイト仲間,え、そういう感じなんだ……,"Eh, is that so..."
+0000000000000,バイト仲間,"まあいいや
+なんか適当に飾ってくれ","Oh well.
+Display it in somewhere nice, anyway."
+0000000000000,バイト仲間,"じゃ、お疲れ
+夜勤頑張ってな","Good night.
+Do your best with the night shift."
+0000000000000,コンビニ店員,お疲れ様です────,Good night────
+0000000000000,コンビニ店員,…………,............
+0000000000000,コンビニ店員,バイトの顔ぶれは移り変わりが早くて,The faces of my part-time coworkers change so quickly.
+0000000000000,コンビニ店員,俺も気がついたら古株になっていたけど,"Before I knew it, I had become an old-timer too."
+0000000000000,コンビニ店員,彼は俺よりも長くここで働いている,"He has worked here longer than I have, though."
+0000000000000,コンビニ店員,"これから先もずっと
+ここで働き続けるのだろうか","I wonder if he will keep staying here in the future. "
+0000000000000,コンビニ店員,それから俺も,"I ask myself that, too."
+0000000000000,コンビニ店員,（余裕はないのに、単調な毎日────）,(A monotonous cycle with no time to spare────)
+0000000000000,コンビニ店員,……慣れの問題,...Just have to get used to it
+0000000000000,コンビニ店員,…………なのか？,......right?
+0000000000000,メール,『Subject：』,"""Subject:"""
+0000000000000,メール,『ドキュメンタリー番組出演のご相談』,"""Regarding the offer to appear in the documentary show"""
+0000000000000,プロデューサー,"あああ……
+本当に依頼が…………","Ahh...
+It's a real deal..."
+0000000000000,プロデューサー,冗談じゃなかったのか…………,They weren't kidding...
+0000000000000,プロデューサー,…………,............
+0000000000000,メール,『……ヶ月間、密着取材させていただき────』,"""...We would like to follow you closely for a month────"""
+0000000000000,メール,『────スタジオトーク……インタビュー…………』,"""────studio talk... interview..."""
+0000000000000,メール,『ご質問の例────』,"""Sample questions────"""
+0000000000000,メール,『仕事のやりがい、座右の銘、今後挑戦したいこと』,"""Job satisfaction, motto, goals for the future"""
+0000000000000,メール,『過去の自分に伝えたいこと』,"""What you want to tell your past self"""
+0000000000000,プロデューサー,…………,............
+0000000000000,off,────これだけは覚えておいてください,────Just remember this one thing.
+0000000000000,off,あなたも、脚光を浴びていい,"You, too, can step into the limelight."
+0000000000000,プロデューサー,……っ！,......!
+0000000000000,プロデューサー,誰か…………？,Who's that...?
+0000000000000,プロデューサー,"……なんだ……
+…………風の音か────","...Oh...
+...It was just sound of the wind────"
+0000000000000,メール,『もし別の道を歩んでいたら』,"""If you had chosen a different path"""
+0000000000000,プロデューサー,この仕事以外の道を歩んでいたら？,If I had chosen a path different from this job?
+0000000000000,プロデューサー,今頃、どんな自分になっていただろう,I wonder what I would have become by now.
+0000000000000,プロデューサー,"──それこそ、
+自分に光が当たる人生だったのだろうか","──To be precise,
+I wonder if the light would have shine on me in that life."
+0000000000000,女子高生,（か、買ってしまった──！）,(I-I bought it──!)
+0000000000000,女子高生,（まなプロデュースの、リップ……！）,(The lipstick produced by Mana...!)
+0000000000000,女子高生,（み、見た目から、めっちゃかわい～……）,(It already looks so cute at first sight～...)
+0000000000000,女子高生,（これはお守りってことにしよう）,(I'll make it my good luck charm)
+0000000000000,女子高生,（いつか、なりたい自分になれますように、って）,(so that one day I can be the person I want to be.)
+0000000000000,女子高生,使えなくても、持ってるだけで強くなれる気がする,"Even if I can't use it yet, I think I become stronger just by having it."
+0000000000000,女子高生,そうだよね、まな……？,"Right, Mana...?"
+0000000000000,司会,『MV、見ましたよ』,"""I've seen the music video."""
+4001047040080,千雪,『わ、ありがとうございます……！』,"""Whoa, thank you so much...!"""
+0000000000000,司会,『すっ………………ごかった』,"""It was amaaazing."""
+4001047040090,千雪,『ですよね──！』,"""I know, right──?"""
+4001047040100,千雪,『私も初めて見た時、同じことを思いました』,"""I thought the same thing when I first saw it."""
+4001047040110,千雪,『すっ………………ごい、って！』,"""It was amaaazing."""
+4001047040120,千雪,"『とても素敵な曲をいただいたんですが、
+MVも本当に……』","""We got a very nice song, but the music video also ......"""
+4001047040130,千雪,『ひとつひとつの音まで、表現してくださっているんです』,"""expressed every single note perfectly."""
+0000000000000,司会,"『監督さんによると、
+桑山さんもいろいろ提案してくれた、ってことだけど……？』","""According to the director.
+Kuwayama-san made a lot of suggestions...?"""
+4001047040140,千雪,『えっ、いえいえ。私はそんな────』,"""Eh, not really. I didn't────"""
+0000000000000,同級生,────やっほー、聞こえる……？,"────Yo, can you hear me...?"
+0000000000000,同級生,自習室、空いたみたいだよー,The study room seems to be free.
+0000000000000,女子高生,"あっ、ありがとう……！
+今、行くから……！","Oh, thank you..!
+I'll go right now...!"
+4001047040150,千雪,『制作スタッフのみなさんに感謝しています』,"""I'm very grateful for the production staff."""
+4001047040160,千雪,"『曲とあわせたひとつの作品として……
+楽しんでいただけたら、嬉しいです』","""I hope everyone will enjoy it as a work that adds to the song."""
+0000000000000,司会,"『はーい、では視聴者のみなさんにも
+ご覧いただきましょう』","""Yes. And now, let's invite the audience to take a look at it."""
+0000000000000,司会,『アルストロメリアのスペシャルMV、どうぞ────』,"""Alstroemeria's special music video, check it out────"""
+0000000000000,女子高生,（本当だ、たくさんの音がきらきらしてる）,(The sounds are truly sparkling.)
+0000000000000,女子高生,（でも、やっぱり一番輝いているのは歌声）,(But it's the singing that shines the brightest.)
+0000000000000,女子高生,（アルストロメリアの歌声）,(Alstroemeria's singing.)
+0000000000000,女子高生,いつか、私も,"One day, I'll also be"
+0000000000000,女子高生,たくさんの光のひとつじゃなくて,not one of the many lights
+0000000000000,女子高生,たったひとつの、まばゆい光に────,"but a single, blinding light────"
+0000000000000,ピアスの女性,……え、どういうことですか,"...Eh, what do you mean?"
+0000000000000,ピアスの女性,フルリニューアルの提案書は、私が────,I'm the one working on the proposal for the full redesign────
+0000000000000,グループ長,いや、だって急ぎって言ってたからさ,"Well, you said it was urgent, so."
+0000000000000,ピアスの女性,でも、私も途中まで作って…………,But I'm almost done with it...
+0000000000000,グループ長,"あ～～～～すまん
+そうだったんだ、知らなくて","Ahhh～ Sorry.
+Is that so? I didn't know."
+0000000000000,ピアスの女性,…………,............
+0000000000000,グループ長,"高熱で倒れたっていうからさ
+しっかり休んでもらいたかったんだよ","They said you came down with a high fever,
+so we wanted to make sure you were well rested."
+0000000000000,グループ長,"代わりにやっておくから心配するなって……
+言った気になっていた、すまん",I thought I told you not to worry because we would take care of it in your place... Sorry.
+0000000000000,ピアスの女性,"……すみません
+確かに、そうですよね","...I'm sorry.
+You must have said so."
+0000000000000,ピアスの女性,２日間も休んでしまって申し訳ありませんでした,I also apologize for taking two days off.
+0000000000000,ピアスの女性,"提案書、ありがたくいただきます
+先方にアポ取りますね","Thank you for the proposal.
+I'll make an appointment with the client."
+0000000000000,グループ長,"あっ……
+それも、もう────","Oh...
+About that────"
+0000000000000,眼鏡の男性,"オレ、行ってきました
+先輩いなくて不安でしたけど……！","I presented it to them.
+I was worried since you weren't there, but...!"
+0000000000000,眼鏡の男性,"さっき電話もらって、
+無事、受注できましたんで……！","We just got a call earlier.
+The project went through...!"
+0000000000000,ピアスの女性,……,......
+0000000000000,グループ長,…………,............
+0000000000000,グループ長,"まだ体調万全じゃないんだろ？
+治るまで、ちゃんと休んでくれていいから","You're not feeling well yet, are you?
+Make sure to get some rest until you're better."
+0000000000000,グループ長,……無理しないで,...Take it easy.
+0000000000000,ピアスの女性,────その言葉は、優しさではなかった,────Those words were far from kindness.
+0000000000000,ピアスの女性,本当に、無理をしなくてよかったのだ,They really mean that I can take it easy.
+0000000000000,ピアスの女性,私の代わりにできる人がいる,Because there are people who can do what I do.
+0000000000000,ピアスの女性,私がいなくてもまわる,Things can go on without me.
+0000000000000,ピアスの女性,私の代わりは,I can be
+0000000000000,ピアスの女性,いる,replaced.
+info,game_event_communications/400104704.json,
+Translator,Ruru,
