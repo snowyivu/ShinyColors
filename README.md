@@ -50,7 +50,10 @@ https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js (screen
 
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%"></img><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/VideoFloat.png" alt="Click the ..." width="30%"></img>
 
+## Installing the sync extension
+Finally, [(Click Here)](https://chrome.google.com/webstore/detail/%E9%97%AA%E8%80%80%E8%89%B2%E5%BD%A9%E5%BC%82%E6%AD%A5%E8%84%9A%E6%9C%AC/caafhkjcgpbinkgnghkojaoipgdkbcbc/) to install the new ShinyColors script syncing extension, which will prevent an issue where the patch would fall off during season changes, etc.
 
+## Settings and options
 **Machine translation**
 
 If no one has submitted a translation for a commu，machine translation can be turned on。
