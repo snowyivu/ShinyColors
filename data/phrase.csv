@@ -1972,3 +1972,109 @@ gasha.staffChanceGashaRewardListPopTitle,報酬一覧,Reward List
 gasha.staffChanceGashaAcquiredRewardPop.title,当選結果,Selection Result
 gasha.staffChanceGashaAcquiredRewardPop.listDescription,以下の報酬が当選しました,Won the Following Rewards
 gasha.freeOnceADayBalloonText,1日1回無料,Free 1/Day
+filter.categories.individuality,ノウハウ,Know-How
+filter.categories.specialProduceType,特化プロデュース,Special Produce
+filter.categories.produceDeck,編成中のアイドル,Idol in Setup
+filter.cautions.individuality,チェックした条件をすべて満たすノウハウが絞り込まれます,Know-How will be narrowed down to match checked conditions
+filter.cautions.produceDeck,現在選択中の編成に含まれるアイドルが絞り込まれます,Idols in the setup are currently narrowed down
+filter.emptyKnowHowBookMessage,該当するノウハウブックがありません,There are no corresponding Know-How books
+specialAnnounce.vote.confirmTitle,投票確認,Confirm Vote
+specialAnnounce.vote.resultTitle,投票完了,Vote Complete
+specialAnnounce.vote.resultMessage,%{voteTarget}\n%{contentName}\nに投票しました,Voted for\n%{voteTarget}\n%{contentName}
+common.producerSkill,プロデューサースキル,Produce Skill
+commonMenu.knowHowBookLimit.title,ノウハウブック所持上限,Max Limit of Know-How books
+commonMenu.knowHowBookLimit.text,これ以上ノウハウブックを所持できません\nノウハウブック一覧画面から売却を行ってください,You can't own more Know-How books.\nPlease go to the Know-How summary screen to sell some.
+deck.fesIdolShortageNotice,指導アイドルがセットされていないので\nスタートできません,Can't start because the mentor\nidol is not set.
+deck.knowHowListDialog.title,ノウハウ一覧,Know-How List
+errorDialog.limitedEvolutionItemExpired,使用期限付きはづきさんの期限が切れています\n特訓をやり直してください,The time limit to use this Hazuki-san has expired.\nPlease try evolving again.
+evolution.confirm.timeLimitedStaffNotice,使用期限付き特訓はづきさんを所持しています\n本当によろしいですか？,You own an evolution Hazuki-san that will expire.\nReally okay?
+fes.popularityRanking.rankingTextLabel,位,rk
+fes.deckMemberPopularity.rankingTextLabel,位,rk
+fesTower.reset.acquirementPop.lockedDesc,未解放,Locked
+idolList.emptyKnowHowBookMessage,所持しているノウハウブックがありません,No owned Know-How books
+idolList.leaveEditModeDialog.sale,売却,Sale
+idolList.infoSwitch.5th_produce_area,デフォルト(S.T.E.P.用),Default(S.T.E.P. Run)
+idolList.sale.selectedKnowHowCount,選択ノウハウブック数,Select Know-How Book Count
+idolList.sale.saleAfterMoney,売却後マニー,Resulting Money
+idolList.sale.saleAfterComment,ノウハウブック売却により,From selling Know-How Books
+idolList.sale.saleAfterDialogTitle,売却結果,Sale Result
+idolList.sale.saleConfirmTitle,売却確認,Confirm Sale
+idolList.sale.knowHowBookSaleConfirm,以下のノウハウブックを売却します\n売却を確定してよろしいですか？,The following Know-How Books will be sold.\nConfirm?
+gashaGroupExpireAlertPopTitle,ガシャ開催期間のお知らせ,Gacha Period Notice
+gasha.scoutGasha.useConfirmation.maxDescription,最大特訓セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？,%{name}\nx%{exchangeNum} will be earned from\nthe maximum evolution exchange ticket.\nConfirm?
+header.produceKnowHowBookSelect,ノウハウブック選択,Select Know-How
+header.knowHowBookList,ノウハウブック一覧,Know-How List
+header.musicListen,楽曲試聴,Music Records
+header.produceGrowth,成長,Develop
+exSkill.disabled,効果を発揮しません,No Effect
+mission.shinyPassAdBanner.purchaseCount,%{purchaseCount}回,x%{purchaseCount}
+option.homeContent.title.idolPrank2021,アイドルからのイタズラ【イタズラケーキ】,Idol Prank【Prank Cake】
+option.homeContent.itemName.joke2021,2021ハロウィンのおかし,2021 Halloween Joke
+idolDetail.receiveMemorialPieceDialog.pieceNameMulti,以下のメモリアルピース,The below Memorial Pieces
+produceEvent.skipNotice,【%{title}】のコミュが解放されました,【%{title}】commus has been unlocked
+produceItemPreparation.isAreaEffectRestricted,このアイテムは選択したプロデュースにて\n一部の効果が発揮されません,This item will not have some of its\neffects in the selected Produce mode
+produceItemPreparation.alertPopTitle,プロデュースアイテム選択警告,Produce Item Warning
+produceTop.autoConcertConfirmPop.titles.entry,エントリーライブ挑戦確認,Confirm Live Entry
+produceTop.autoConcertConfirmPop.titles.exhibition,エキシビションマッチ挑戦確認,Confirm Exhibition Match
+produceTop.produceGoalPop.title,プロデュース目標,Produce Goal
+produceTop.produceGoalPop.season1,シーズン１ エントリー,Season 1 Entry
+produceTop.produceGoalPop.season2,シーズン２ ノービス,Season 2 Novice
+produceTop.produceGoalPop.season3,シーズン３ ミドル,Season 3 Middle
+produceTop.produceGoalPop.season4,シーズン４ エキスパート,Season 4 Expert
+produceTop.produceGoalPop.goalSuffix.fan,人,fan
+produceTop.produceGoalPop.goalSuffix.week,週,wk
+produceTop.produceGoalPop.goalPrefix.fan,あと,after
+produceTop.produceGoalPop.goalPrefix.week,残り,remain
+produceAction.auditionScheduleDialogTitle,スケジュール確認,Check Schedule
+produceAction.auditionScheduleDialog.weekText,%{week}週,%{week}wk
+produceAction.auditionScheduleDialog.seasonText,シーズン%{seasonNum},Season %{seasonNum}
+produceAction.auditionScheduleDialog.seasonTitleText.1,エントリー,Entry
+produceAction.auditionScheduleDialog.seasonTitleText.2,ノービス,Novice
+produceAction.auditionScheduleDialog.seasonTitleText.3,ミドル,Middle
+produceAction.auditionScheduleDialog.seasonTitleText.4,エキスパート,Expert
+produceAction.clearBonusPanel.bonusText,「%{name}」解放,「%{name}」Unlocked
+produceAction.clearBonusDialog.title,ボーナス確認,Confirm Bonus
+produceAction.clearBonusDialog.message,「%{name}」\n\n効果\n「%{comment}」\nを解放,「%{name}」\n\nEffect\n「%{comment}」\nUnlocked
+produceAction.clearBonusDialog.passiveMessage,%{name}\n\n%{comment}\nを解放,%{name}\n\n%{comment}\nUnlocked
+produceAction.reservedAuditionDialog.title,予約確認,Reservation Confirm
+produceAction.reservedAuditionDialog.message,予約した「オーディション/ライブ」があります\n確認しますか？,Confirm your 「Audition/Live」\nReservation?
+produceEvents.header,発生コミュ一覧,
+produceEvents.eventsDialogTitle,発生イベントコミュ,
+growthPoints.vocalGrowthPoint,歌唱力,Vocal
+growthPoints.danceGrowthPoint,安定感,Stability
+growthPoints.visualGrowthPoint,表現力,Expressiveness
+growthPoints.mentalGrowthPoint,集中力,Cooperation
+growthPoints.skillGrowthPoint,団結力,Unity
+growthConfirm.title,成長確認,Confirm Develop
+growthConfirm.noticeLive,ライブスキルを習得する場合、選択したライブスキルは必ず入れ替える必要があります,"When acquiring a Live Skill, the selected Live Skill must always be replaced"
+growthConfirm.noticeStatus,基礎能力の上昇時、能力が上限に達していた場合、超えた分は破棄されます,"When base ability is increased, if the base ability cap is reached, excess will be lost"
+growthTab.status,ステータス,Status
+growthTab.skill,スキル,Skill
+growthTab.ability,アビリティ,Ability
+growthTab.other,その他,Other
+growthActiveSkillAlert.title,ライブスキル選択警告,Live Skill Selection Warning
+growthCount,%{count}回,x%{count}
+growthLeaveConfirmDialog.title,確認,Confirm
+growthLeaveConfirmDialog.text,まだ習得は確定していません\n選択状態を解除して移動しますか？,It still hasn't been learned.\nDo you want to deselect and transfer?
+shop.smallTabTitles.idolPiece.star,星,Star
+shop.battlePassport.privilegeSelectPop.title,購入特典選択,Purchase Bonus Choice
+shop.battlePassport.privilegeSelectPop.notice,購入特典は購入30日後までの使用期限付きです\n期限内に使用しなかった場合、アイテムは失われます,"Purchase Bonus must be used within 30 days. If the\nbonus is not used, the item will expire."
+shop.battlePassport.privilegeSelectPop.description,シャイニーパス購入特典として\n受け取るアイテムをどちらか選択してください,Please select the item you wish to receive\nfrom purchasing the Shiny Pass
+shop.battlePassport.privilegeSelectPop.privileges.item1,使用期限付き\nSSR特訓はづきさん\n（プロデュース）,Time-Limited Use\nSSR Evolution Hazuki-san\n(Produce)
+shop.battlePassport.privilegeSelectPop.privileges.item2,使用期限付き\nSSR特訓はづきさん\n（サポート）,Time-Limited Use\nSSR Evolution Hazuki-san\n(Support)
+shop.battlePassport.totalPurchasedTimes,%{times}回,x%{times}
+shop.battlePassport.stampCardNotice,%{rewardNum}個目以降の購入時の報酬については後日追加されます,Rewards for purchases after %{rewardNum} will be added at a later date
+shop.battlePassport.missionRewardPop.title,ミッション報酬,Mission Reward
+shop.battlePassport.missionRewardPop.day,%{day}日目,For day %{day}
+shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewel
+topicPath.produce.knowHowBookSelect,ノウハウブック選択,Know-How Book Selection
+training.expireDate,使用期限 %{expireDate}まで,Expires %{expireDate}
+producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You'll receive %{rewardNum} rewards
+producerDesk.releaseCondition.title,解放条件,Unlock Condition
+producerDesk.releaseCondition.wingMission,初心者ミッションをクリアする必要があります,You must clear the Beginner Missions
+producerDesk.releaseCondition.trueEndMission,W.I.N.G.攻略ミッションをクリアする必要があります,You must clear the W.I.N.G. Missions
+producerDesk.releaseCondition.fanMeeting,ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります,"In order to unlock FanFest, you must\nclear Season 2 of a 「W.I.N.G. Run」"
+producerDesk.releaseCondition.grad,G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock G.R.A.D., you must\ncreate an idol with 「FanFest」"
+producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock Landing Point, you must\ncreate an idol through a 「G.R.A.D. Run」"
+producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours are currently not ongoing
+producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal

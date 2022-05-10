@@ -1,0 +1,112 @@
+id,name,text,trans
+0000000000000,off,20XX年 XX月 XX日 15:00,"Year 20XX Month XX Day XX, 15:00."
+0000000000000,弟子,みなさん、ようこそおいでくださいました,"Everyone, thank you for coming."
+0000000000000,弟子,"本日よりしばらく、みなさんのお世話をさせていただく
+『Ａ』の弟子をしているものです","I am A's disciple, and from today onwards, 
+I will be assisting all of you."
+4901032020010,めぐる,あーーーっ！,Ahhhhh!
+4901032020020,めぐる,『Ａ』が弟子を取ったって話、聞いたことある！,I've heard that A took in a disciple!
+4901032020030,めぐる,"そっか、それがあなたなんだ！
+わたしは八宮めぐるです、よろしくお願いします！","I see! So you're A's disciple huh!
+I'm Meguru Hachimiya, pleased to meet you!"
+4901032020040,灯織,八宮さんは耳が早いんですね,"The wind blows quickly for you huh, Hachimiya-san."
+4901032020050,灯織,弟子がいるなんて話、初めて聞きました,It's my first time hearing that A has a disciple.
+4901032020060,灯織,"まぁ、私が『死神』だから、
+情報提供してもらえないだけなのかもしれないけど……","Well, I'm ""The Reaper"" after all,
+so it might just be that information doesn't reach me at all..."
+0000000000000,弟子,"ははは……
+よろしくお願いします","Hahaha...
+It's a pleasure to meet the both of you."
+0000000000000,弟子,"早速ですが……今回、武器の類、火気の持ち込みは
+不可とさせていただきます","Now, I apologise for getting right into it but... no firearms or explosives
+will be allowed in this mansion."
+0000000000000,弟子,"そのようなものをお持ちの方は、
+こちらにあります箱にお入れください","For those who have any of the following, please put them in this box right here."
+0000000000000,弟子,"隠して持ち込んでいた場合は失格とさせていただきます
+箱の中身はお帰りの際にお返しいたします","Those who are found with such hidden possessions will be failed immediately.
+The items placed in this box will be returned when the trial ends."
+4901032020070,円香,"……とりあえず、従いましょう
+あなたを信用したわけではありませんが","...Let's follow the rules for now.
+Not that we trust you yet, though."
+4901032020080,円香,"ま、名高い探偵を集めるのなら、
+疑われるくらいは織り込み済みですよね","Well, seeing that this many prolific detectives are here,
+it's a given that everyone here has their doubts about you."
+4901032020090,小糸,"わ、わたしも……
+『Ａ』については、気になってたけど……","I-I'm also...
+curious to find out about A, but..."
+4901032020100,小糸,う、疑うって何を……？,D-Doubts? About what...?
+4901032020110,雛菜,"ん～……
+この人がほんとに『Ａ』の弟子なのかってこと？","Mm～...
+About whether this person is really A's disciple, maybe?"
+4901032020120,雛菜,嘘かもしれないもんね～,He might be lying after all～
+4901032020130,雛菜,"実は全然関係ない人かもしれないし～
+逆に『Ａ』のこと恨んでる人かも！","Maybe he's someone who's completely unrelated～
+Or someone who has a grudge against A!"
+0000000000000,弟子,"後ほど『Ａ』本人が
+みなさんにご挨拶する予定ではございますが……","A, himself, is planning
+to meet all of you sometime later however..."
+4901032020140,透,んー……,Mn...
+4901032020150,透,美味しい、紅茶,"This black tea, it's good."
+4901032020160,冬優子,"──……お弟子さん
+よかったら、クイズに付き合っていただけませんか？","──...Mr. Disciple,
+would you like to play a round of quiz with me?"
+0000000000000,弟子,クイズ、ですか……？,A quiz...?
+4901032020170,冬優子,"はい
+……まぁ、ちょっとしたお遊びです♡","Yes.
+...Well, it's just a fun little game♡"
+0000000000000,弟子,"……わかりました
+お願いします","...Understood.
+I'll give it a go, then."
+4901032020180,冬優子,１日で倍に増える藻を、池に入れました,"One day, a species of algae that multiplies everyday is introduced to a pond."
+4901032020190,冬優子,"30日で池が藻に覆い尽くされるなら、
+藻が池の半分を占めるのは何日後でしょう？","If the pond was fully covered by the 30th day,
+how many days will it take for half the pond to be covered?"
+select,,15日後,15 days
+select,,23日後,23 days
+select,,29日後,29 days
+4901032020200,冬優子,"……
+ハズレです……","...
+Incorrect..."
+4901032020210,冬優子,藻は、１日で倍に増えるんですよ……？,"The algae multiplies every day, you know...?"
+4901032020220,冬優子,残念です……,That's too bad...
+4901032020230,冬優子,"今の答え方だと、それっぽい数字を言っただけに
+聞こえちゃいます……","Hearing your answer, it sounds like you just
+guessed a random number..."
+4901032020240,冬優子,正解です！,That's correct!
+4901032020250,冬優子,ちょっと簡単すぎましたね……？,I guess that was too easy for you...?
+4901032020260,あさひ,"２倍になるのはギリギリの29日……
+あははっ、面白いっすね～！","It'd roughly be the 29th day if the algae multiplies by two...
+Ahaha, this is kinda fun～!"
+4901032020270,あさひ,"そっちの４人は、一緒に来たっすね
+なんでっすか？","The 4 of you came together, right?
+Why's that?"
+4901032020280,円香,"ああ、別に……
+近くに住んでるからってだけ","Ahh, it's nothing much...
+We live close to one another."
+4901032020290,円香,幼馴染と言ってもいいけど,I guess I could also say that we're childhood friends.
+4901032020300,真乃,幼馴染……,Childhood friends...
+4901032020310,真乃,素敵だな……,That's wonderful...
+4901032020320,めぐる,"うんうん！
+いいよね、気の置けない相手って感じ！","Yep yep!
+It's nice, isn't it. The feeling of inseparable friends!"
+4901032020330,めぐる,"……あっ、ごめんね急に
+わたし、ここで探偵友達ができたらいいなって思ってて","...Ah, sorry for budging in suddenly.
+I was thinking that maybe I could make some detective friends here or something."
+4901032020340,真乃,"ほわ……っ
+探偵友達……っ","Huh...
+Detective friends..."
+4901032020350,真乃,"私も……っ
+そういう人ができたら、うれしいです……っ","I'm...
+happy to make some detective friends, too..."
+4901032020360,真乃,"……あのっ
+櫻木真乃といいます","...Umm.
+My name is Mano Sakuragi."
+4901032020370,めぐる,"真乃だね！
+──あっ、名前呼び大丈夫かな？","Mano huh!
+──Ah, is it all right if I call you that way?"
+4901032020380,真乃,う、うん……っ,Y-Yeah...
+4901032020390,めぐる,"ありがとう！
+改めてよろしくね、真乃！","Thanks!
+Once again, pleased to meet you, Mano!"
+info,special_communications/490103202.json,
+Translator,OrangeKabocha,

@@ -1,0 +1,219 @@
+id,name,text,trans
+0000000000000,マネージャー,"ええ、ええ……
+あの……ええ────","Yes, yes...
+Um... Yes────"
+0000000000000,マネージャー,"────そちらじゃありませんでしたか……
+ええ、すみません急に……！","────So she's not over there either...
+Yes, I'm sorry for suddenly asking...!"
+0000000000000,マネージャー,"はい……いえ、こちらこそ……
+……はい、ごめんくださいませ────","Yes... No, I should be the one saying that...
+...Yes, please excuse me────"
+4001048010010,ルカ,"──────…………
+…………────────","──────......
+......───────"
+4001048010020,ルカ,『きえる』,"""i'm gonna disappear."""
+4001048010030,ルカ,『私』,"""bye."""
+0000000000000,マネージャー,"……いつもお世話になっております
+あの、弊社の斑鳩がそちらに伺っていたり────","...Thank you for your help as always.
+If by any chance our agency's Ikaruga comes by───"
+4001048010040,ルカ,"────────
+──────","────────
+──────"
+4001048010050,ルカ,"そうだよ
+月までだって行けるわ","That's right.
+I could even make it to the moon."
+0000000000000,マネージャー,"────さようですか……いえ、ご心配は……！
+突然お騒がせいたしました……はい、ええ────","───I see... Oh, no worries...!
+I apologize for the trouble... Yes────"
+0000000000000,マネージャー,"……
+──────じゃ","......
+──────Well then."
+0000000000000,マネージャー,あそこか,There's only one place left.
+4001048010060,ルカ,"──────
+パ、ダ、ダ──────────","──────
+Pa, da, da──────────"
+4001048010070,美琴,──────……,──────......
+4001048010080,美琴,……──────,......──────
+4001048010090,美琴,────気温、上がりそう……,────Seems like the temperature may rise...
+4001048010100,にちか,"────はーい……
+はい……","────Uh-huh...
+Yes..."
+4001048010110,にちか,"……えっ、それって準備期間ちゃんと取れるやつですー？
+…………はい……まぁいいですけど……","...Eh, would I have enough time to prepare for that?
+......Okay... Whatever, I guess..."
+4001048010120,にちか,"……っ、嫌ならいいとか……じゃ全部嫌って言ったら
+全部キャンセルできるんですかねー……！","...Guh, don't give me that ""You don't have to if you
+don't want to"" stuff... In that case I might as well
+cancel ALL my jobs because I don't want them...!"
+4001048010130,にちか,"……もう現場着いてるのでー
+後でお願いしますー","...Anyway, I've arrived at the site already.
+Talk to you later."
+4001048010140,にちか,……,……
+4001048010150,にちか,おはようございますー,Good morning.
+4001048010160,にちか,"２８３プロの七草にちかです
+本日もよろしくお願いしますー！","I'm Nichika Nanakusa from 283Pro.
+I look forward to working with you today!"
+4001048010170,美琴,……──────,……──────
+4001048010180,美琴,アー──────,Aaaaa──────
+0000000000000,テレビ局スタッフ,"あっ
+七草さん、おはようございます～……！","Oh.
+Nanakusa-san, good morning～...!"
+0000000000000,テレビ局スタッフ,"ごめんなさ～い……！　まだここ整ってなくて……
+その、前の収録が押しちゃったもので……！","I am sooo sorry...!
+The previous recording got pushed back so we
+haven't gotten this place in order yet...!"
+4001048010190,にちか,"あーっ、早すぎました……！？
+ごめんなさい、ちゃんと時間に来いって話ですよねー","Ah, did I get here too early...!?
+I apologize, I should've come in at the exact time."
+0000000000000,テレビ局スタッフ,"そんな……！　どうしましょう、休憩スペースに飲み物
+用意しましょっか！　ちょっとだけそちらで────","It's my bad...! Here, how about I find another room for
+you to relax in, and I'll get you some drinks too.
+Please, just wait in there while I handle that────"
+4001048010200,にちか,"──あっ、でもキレイじゃないです？
+うわ、めちゃめちゃ清潔空間じゃないですかー！　空気吸お","─Oh, but this room already seems pretty tidy to me!
+It's practically spotless! Just feel that fresh air!"
+0000000000000,テレビ局スタッフ,"──その、ええ……！
+大体は終わってて……","──Oh, yeah...!
+We're nearly done cleaning up..."
+4001048010210,美琴,アー──────,Aaaaa──────
+4001048010220,美琴,……────,……────
+0000000000000,プロデューサー,────美琴ー……？,────Mikoto...?
+4001048010230,美琴,──────あ……,──────ah...
+4001048010240,美琴,プロデューサー……,Producer...
+0000000000000,プロデューサー,"……おう、今から迎えにいこうと思ってたんだけど
+ここの鍵がなかったからさ。もしかしてって────","...Hey there. I was about to go pick you up but I
+realized the key to this place was missing, so
+I thought I might find you here────"
+0000000000000,プロデューサー,────一晩、いた感じだな,────Seems like you've been here all night.
+0000000000000,テレビ局スタッフ,"それじゃ、急いで撤収しますね……！
+先にお飲み物持ってきますから、おかけになっててください","Anyhow, we'll be done cleaning in a minute...!
+But I'd better go grab you that drink first, so please
+go ahead and take a seat."
+4001048010250,にちか,"あっ、はーい！
+そんなお気遣い────","Ah, sure!
+Thanks for going to such great────"
+4001048010260,にちか,"────
+いらないでしょ、そんなお気遣い","────
+There's no need to go such great lengths, for me."
+0000000000000,にちか,テレビでしゃべって笑われて……,Yapping away on TV and getting laughed at...
+0000000000000,にちか,ろくに踊れなくてもちやほやされて……,Getting fawned over when I can hardly even dance...
+4001048010290,にちか,────アイドルでもなんでもないやつに,"────Not for someone who isn't even an idol.
+Not for someone who isn't even anyone."
+4001048010300,美琴,……体を起こしてから戻ろうと思ったの,"...After I got my body warmed up, I was planning on
+heading home."
+4001048010310,美琴,"気を遣わせたなら
+ごめんなさい",Sorry if I made you worry.
+0000000000000,プロデューサー,"いや、そういう意味じゃないんだ……！
+続けてくれ","Oh, no, I didn't mean it like that...!
+Please, do continue."
+0000000000000,プロデューサー,あ、でも────,"Ah, though────"
+0000000000000,プロデューサー,"────よかったらこれ。ゼリーだけでも
+水もあるぞ","───If you don't mind, I brought some refreshments.
+There's jelly and some bottled water, too."
+4001048010320,美琴,"……
+ありがとう","......
+Thank you."
+4001048010330,美琴,あとで頂くね,I'll have them later.
+4001048010340,にちか,"────……
+暑……","────......
+It's hot in here..."
+4001048010350,にちか,"────
+エアコン……点いてないのかな","────
+I wonder if the AC is off...?"
+4001048010360,にちか,リモコンリモコン────,Where's the remote for it────
+4001048010180,美琴,アー──────,Aaaaa──────
+0000000000000,プロデューサー,────……,────……
+4001048010210,美琴,アー──────,Aaaaa──────
+0000000000000,美琴,"その方がいいの
+私は","For me, this is just fine."
+0000000000000,美琴,"その方が『やりきった』って思うまで
+止まらずにいられるから","I plan to live like this until the day I can look back and
+think ""I've done it all."""
+0000000000000,プロデューサー,…………,…………
+4001048010410,にちか,"……えー
+リモコンどこー……","...Ehhh...
+C'mon, where'd they put the AC remote?"
+4001048010420,にちか,"……やばっ
+顔てっかてか────あれっ","...Yikes.
+My face is all greasy.
+────Huh?"
+4001048010430,にちか,"これ……
+……リップ？",This is... a tube of lipstick?
+0000000000000,プロデューサー,────美琴、そろそろだ,"────Mikoto, it's almost time to go."
+4001048010440,美琴,……あ────,...Ah────
+4001048010450,美琴,"うん
+支度しないとね","Mm.
+Got to start getting ready"
+0000000000000,プロデューサー,"ロビーで待ってるよ
+15分くらいで出られるか？","I'll be waiting for you in the lobby.
+Will you be ready to leave in 15 or so?"
+4001048010460,美琴,"大丈夫
+……お水、頂こうかな","That'll be fine.
+...Maybe I should drink some water."
+0000000000000,プロデューサー,"──ははっ
+おう！　いくらでも","──Haha.
+Yeah! Have as much of it as you like."
+4001048010470,にちか,────前の人の忘れ物かな……,"───Maybe the person in here before me left this
+behind..."
+4001048010480,にちか,"……わー
+超高いヤツ────","...Oh, wow.
+This is the high-end expensive stuff────"
+0000000000000,テレビ局スタッフ,"お待たせしました～……！
+お飲み物とおしぼり、使ってくださいね～","Thank you for you patience～...!
+I brought you some drinks and a hot towel, please do
+take them～"
+4001048010490,にちか,────あっ、ありがとうございますー！,"────Oh, thank you so much!"
+4001048010500,にちか,"あの、すみません
+エアコンってもしかして消えてますー？","Um, pardon me.
+But I think the AC in here might be turned off?"
+0000000000000,テレビ局スタッフ,"わぁ……！　申し訳ありません、そうですね……！
+前のクルーが、エアコン消していってくださったので──","Oh, goodness...!
+I do apologize, it sure is...!
+The act in here before must have had it turned off."
+4001048010510,にちか,あー、前の……,"Oh, the previous act..."
+0000000000000,テレビ局スタッフ,リモコン、私さっきどこかに置いちゃって────,"Now, where did I put down the remote────"
+4001048010520,にちか,"────あ、前に入ってたのってどなたですかねー？
+化粧台に────","────Um, do you mind me asking who that was?
+You see, by the mirror I found────"
+0000000000000,テレビ局スタッフ,ああ、はい……！,"Oh, certainly...!"
+4001048010530,テレビ局スタッフ,斑鳩ルカさんがご使用でした,This room was utilized by Luca Ikaruga previously.
+4001048010540,にちか,────えっ,────Eh.
+4001048010550,ルカ,────……,────......
+0000000000000,テレビ局スタッフ,"────あれ、ごめんなさい！
+私、何か遮っちゃいました……？","────Oh no, I'm so sorry!
+I'm not keeping you from something, am I...?"
+4001048010560,にちか,……あ、ああー……！,"...Oh no, nooo...!"
+4001048010570,にちか,"…………あの、なんでもないですー！
+あははっ、そうなんですねー……！","...Um, it's nothing!
+Ahaha, I see! So that's who was in here...!"
+0000000000000,テレビ局スタッフ,"それじゃ、ゴミだけ回収させていただいて失礼しますね
+ご用意が遅れて申し訳ありませんでしたー……","Well then, I'll just empty the trash and then I'll get
+out of your way. I apologize once again for taking so
+long to get the room prepared for you."
+4001048010580,にちか,"はーい、全然……！
+ありがとうございましたー……！","It's no problem at all...!
+Thank you very much...!"
+4001048010590,にちか,────じゃ、これって,"────Then, this lipstick..."
+4001048010600,ルカ,────……,────......
+4001048010610,にちか,"……
+あの人のやつ、かな────","......
+Probably belongs, to her────"
+4001048010620,にちか,────赤っか,────Such a deep red.
+0000000000000,スナックのママ,"────まだやってないわよ……
+オープンは７時。出直してちょうだ────","────We're not open for business yet.
+We start serving at 7 AM. Please, come back th───"
+4001048010630,ルカ,"……あはは
+仕込みだったら手伝うよ","...Ahaha.
+If you're getting the bar prepped, I can help out."
+0000000000000,スナックのママ,────あら、お客さんかと思ったら,"────My, I'd thought you were a customer."
+0000000000000,スナックのママ,"おかえり
+急だね","Welcome home.
+I wasn't expecting you. "
+4001048010640,ルカ,"……うん
+ただいま","...Yeah.
+I'm home."
+4001048010650,ルカ,"ただいま……！
+ママ────","I'm home...!
+Mama────"
+info,game_event_communications/400104801.json,
+Translator,Belvera&Ruru,

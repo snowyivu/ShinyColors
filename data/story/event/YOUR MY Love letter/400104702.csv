@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,コンビニ店員,新生活に胸を踊らせていたけれど,"I was excited about my new life, but"
 0000000000000,コンビニ店員,あっという間に忙しさに飲まれた,all the hustle and bustle swallowed me up in the blink of an eye.
 0000000000000,コンビニ店員,勉強とバイトの繰り返し,Studying and working part-time
-0000000000000,コンビニ店員,余裕はないのに単調である,is a monotonous cycle with no time to spare.
+0000000000000,コンビニ店員,余裕はないのに単調である,is a monotonous cycle with no room to breathe.
 0000000000000,コンビニ店員,大学生活をエンジョイしているやつらとは,I don't live in the same rhythm
 0000000000000,コンビニ店員,生活リズムが合わない,as those who are enjoying college life.
 0000000000000,コンビニ店員,友達とも疎遠になった,I drifted away from my friends.
@@ -24,7 +24,7 @@ I'm exhausted..."
 0000000000000,コンビニ店員,バイトの数、減りましたもんね,"It's because we have fewer people now, right?"
 0000000000000,店長,うん、ずっと募集はかけてるんだけど,"Yeah, although we've been hiring for a long while."
 0000000000000,店長,"君にも悪いね
-最近はワンオペでお願いしちゃって","I feel bad for you, too,
+最近はワンオペでお願いしちゃって","I feel bad for you too,
 since we've been asking you to work by yourself lately."
 0000000000000,コンビニ店員,いえ,It's okay.
 0000000000000,店長,新しい人が入ったら調整するから,We'll make adjustments when there are new hires.
@@ -33,9 +33,9 @@ since we've been asking you to work by yourself lately."
 I'm used to it."
 0000000000000,コンビニ店員,そう、慣れの問題なんだ,"Yeah, it's something I have to get used to."
 0000000000000,コンビニ店員,"繁華街にある店ではないので
-深夜の客は少ない","We're not a downtown restaurant,
-so we don't get many late-night customers."
-0000000000000,コンビニ店員,とはいえ暇ではないけれど,"It doesn't mean we can relax, though."
+深夜の客は少ない","It's not a downtown restaurant,
+so there aren't many late-night customers."
+0000000000000,コンビニ店員,とはいえ暇ではないけれど,"It doesn't mean I can relax, though."
 0000000000000,店員連絡ノート,『深夜の人へ』,"""To the night shift"""
 0000000000000,店員連絡ノート,『今日はおでんの什器をきれいに洗ってください』,"""Please clean the oden machine today."""
 0000000000000,店員連絡ノート,『乾いたらバックヤードに！』,"""Then put it in the backroom when it's dry!"""
@@ -57,7 +57,7 @@ so we don't get many late-night customers."
 バックヤードで廃棄処理をすると決めている","At the stroke of midnight,
 I've decided to take expired products to the backroom."
 0000000000000,コンビニ店員,というのは嘘で,That was a lie.
-4001047020080,店内BGM,『ぴ、ぴ、ぴ、ぴーん』,"""P-p-p-pin."""
+4001047020080,店内BGM,『ぴ、ぴ、ぴ、ぴーん』,"""Pi-pi-pi-ping."""
 4001047020090,店内BGM,『今日もいい日になりますように』,"""We hope you will have another good day."""
 4001047020100,店内BGM,『そんな願いを込めた私たちの曲、聞いてください』,"""Please listen to our song, a carrier of that wish."""
 0000000000000,店内BGM,『────♪』,"""────♪"""
@@ -81,7 +81,7 @@ I've decided to take a break in the backroom."
 0000000000000,女子高生,ごめん、気付かなかった,"Sorry, I didn't realize."
 0000000000000,同級生,"あはは、集中してたねー
 英語のリスニングとか？","Haha, you were so focused.
-English listening excersise?"
+English listening exercise?"
 0000000000000,女子高生,"あ、ああ……うん！
 そんな感じ","Uhh... Yeah!
 Something like that."
@@ -102,7 +102,7 @@ Congrats...!"
 0000000000000,同級生,"どうもどうもー！
 我ながら面白くできたと思う","Thank you thank you!
 I must say that I did a pretty good job."
-0000000000000,同級生,コンクール、見に来てよね,You should come watch the competition.
+0000000000000,同級生,コンクール、見に来てよね,You should come watch the competition by the way.
 0000000000000,女子高生,うん、もちろん！,"Yeah, of course!"
 0000000000000,同級生,ってかさ……,You know...
 0000000000000,同級生,演劇部、戻ってくるなら歓迎するから,You're always welcome to come back to the drama club.
@@ -120,11 +120,11 @@ or acting talent, or a suitable personality."
 本当の気持ちに気付いたから","But I have no regrets.
 Because I realized how I truly felt."
 0000000000000,女子高生,私は,I think.
-0000000000000,女子高生,（え！？　まなプロデュースのリップとポーチ……！？）,(Eh!? Lipstick and pouch produced by Mana...!?
+0000000000000,女子高生,（え！？　まなプロデュースのリップとポーチ……！？）,(Eh!? Lipstick and pouch produced by Mana...!?)
 0000000000000,女子高生,（めっちゃ欲しい～～～～！）,(I want them so bad～!)
 0000000000000,女子高生,私は変わりたかっただけ,I just wanted to change.
 0000000000000,女子高生,かわいくなりたかっただけ,I just wanted to be pretty.
-0000000000000,女子高生,アルストロメリアみたいに,Like Alstromeria.
+0000000000000,女子高生,アルストロメリアみたいに,Like Alstroemeria.
 0000000000000,女子高生,（まなはどこでメイクとか覚えたんだろ……）,(Where did Mana learn to do makeup and stuff like that...)
 0000000000000,女子高生,（おんなじ高校生なのにな）,(Even though we're both in high school.)
 0000000000000,お母さん,"テスト勉強はどうー？
@@ -150,7 +150,7 @@ Dinner is ready by the way."
 I look forward to working with you again."
 0000000000000,テレビ局部長,"ええ、こちらこそ
 アルストロメリアのみなさんにもどうぞよろしくと","It is my pleasure.
-Please send my regards to Alstromeria as well."
+Please send my regards to Alstroemeria as well."
 0000000000000,テレビ局部長,エレベーターまでお見送りしますよ,I'll see you to the elevator.
 0000000000000,テレビ局部長,"……電車
 もう動いているといいですね","...I hope the train is back to operation. "
@@ -169,15 +169,14 @@ I will try not to be late next time."
 今度、あらためてご相談しようと思っていたんですが","That reminds me...
 I was going to ask you next time, but,"
 0000000000000,テレビ局部長,"仕事人に密着するドキュメンタリー番組がありまして
-その出演者を探しているんです","
-I'm looking for a performer for a documentary program about a professional."
+その出演者を探しているんです",I'm looking for a performer to star in a documentary program about a professional.
 0000000000000,テレビ局部長,どうでしょう,What do you think?
 0000000000000,プロデューサー,"ありがとうございます！
 アルストロメリア……ですか？","Thank you!
 Is it for Alstroemeria...?"
 0000000000000,テレビ局部長,いえ,No.
 0000000000000,テレビ局部長,"あなたです
-プロデューサーさん","It's for you.
+プロデューサーさん","It's for you,
 Producer-san."
 0000000000000,テレビ局部長,あなたにオファーしたいんです,I'm offering you the role.
 0000000000000,プロデューサー,え……,Eh......

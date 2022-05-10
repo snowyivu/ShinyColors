@@ -1,0 +1,66 @@
+id,name,text,trans
+0000000000000,off,"拝啓　XX　XX殿
+突然このような手紙を送りつける無礼を許して欲しい","Greetings XX XX.
+I sincerely apologise for the sudden invitation."
+0000000000000,off,"──私の名は『Ａ』
+ご存知、世界で唯一の顧問探偵だ","──My name is A.
+As you may know, I'm the world's only consulting detective."
+0000000000000,off,"君の活躍は、私の耳にも届いている
+実にすばらしい名探偵ぶりじゃないか","Your accomplishments have reached my ears.
+And I must say, they're brilliant."
+0000000000000,off,"我が屋敷に来て、
+直に話を聞かせてくれないだろうか？","How about you pay me a visit at my mansion and
+we can work some things out?"
+0000000000000,『Ａ』,"ここまで読んで、もしかしたら君は
+誰の前にも姿を現さなかったことで有名な私、『Ａ』が──","Reading this, perhaps you might wonder;
+A, who's never shown his true self anywhere──"
+0000000000000,『Ａ』,"こんなお願いをすることを
+不思議に思っているかもしれないね？","For what and why, would he ever make
+a request like this?"
+0000000000000,『Ａ』,"如何なる権力にも凶悪な犯罪者にも屈しなかった私にも、
+唯一あらがえないものがあったというわけだ","As someone who never lost to malicious criminals nor crimes,
+there was one thing this absolute detective couldn't fight against."
+0000000000000,『Ａ』,時間だよ,"That is, time."
+0000000000000,『Ａ』,"私は老い、病み、
+死神の足音を間近に感じるようになった","I am old and sickly.
+I can hear the footsteps of the reaper coming to take me."
+0000000000000,『Ａ』,"故に私は次代の名探偵たちを集め、その中から
+最も優れた者に、築き上げた全てを譲ろうと考えた","As such, I've decided to gather all candidates, 
+and hand down everything I own to the fittest of them all."
+0000000000000,『Ａ』,──そう、全てだ,"──Yes, everything."
+0000000000000,『Ａ』,不動産、有価証券、銀行口座の中身だけではない,"Not just my properties, securities, and bank accounts."
+0000000000000,『Ａ』,"今まで私が解決してきた事件をまとめた真相ファイルも
+その人物に受け継いでもらう","But also a file containing truths regarding all the cases I've solved.
+I'm thinking to pass that down as well."
+0000000000000,『Ａ』,"政財界にまつわる闇、犯罪史に残る未解決事件……
+例えば、名画『アンダルシアの乙女強奪事件』の犯人……","Writings detailing the darkness of the political and business world, unsolved crimes...
+Take for example, the infamous criminal behind the ""Andalusian Womens' Robbery""..."
+0000000000000,『Ａ』,"無論、昨今世を賑わせている
+『怪盗２８３』の正体を知ることができる資料もある","Of course, details behind the popular
+""Phantom Thief 283"" are also in it."
+0000000000000,『Ａ』,"どれもこれも、探偵ならば
+喉から手が出るほど知りたいことばかりのはずだ","I'm sure every one of you reading this, should you be a true detective, 
+will be willing to know the truth behind it all."
+0000000000000,『Ａ』,"……XX月XX日を空けておいてくれたまえ
+前日に、向かうべき場所を知らせよう","...Now, clear your schedules on XX.XX.
+I'll inform you regarding the meeting location the day before."
+0000000000000,『Ａ』,"『Ａ』より愛を込めて
+　　　　　　　　　　　　　　　　　　　　　敬具","Best regards,
+　　　　　　　　　　　　　　　　　　　　　A."
+0000000000000,？？？？,"本当に、
+こちらでよろしかったのですか……『Ａ』","Is it really fine 
+to do it this way... A."
+4901032010010,『Ａ』,……不満か,...Are you unhappy about it?
+0000000000000,？？？？,"そんな
+私ごときが『Ａ』の判断に異を唱えることなど……","Not at all.
+A person like me can't possibly question the decision of A..."
+4901032010020,『Ａ』,"『登場人物』たちがこの時間に意味を与えてくれるだろう
+──無論、おまえもそのひとりだ","I'm sure the ""actors"" will find the time they've spent here meaningful.
+──Of course, that includes you."
+0000000000000,弟子,…………,...
+4901032010030,『Ａ』,いい時間になることを願う,I hope that you'll find your time here useful.
+0000000000000,弟子,"何事も、あなたの意のままに
+……『Ａ』","I shall as you wish.
+...A."
+info,special_communications/490103201.json,
+Translator,OrangeKabocha,

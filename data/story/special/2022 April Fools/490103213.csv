@@ -1,0 +1,126 @@
+id,name,text,trans
+4901032130010,美琴,"死亡推定時刻の前後に写真や動画を撮っていた人が
+何人かいたよね？","There were several people that took photos and videos
+before and after the incident happened, right?"
+4901032130020,にちか,"私と美琴さんで、それを集めて何か情報が出ないか
+調べてみようと思ってるんです",Mikoto and I are thinking of putting all of those together to decipher more clues.
+4901032130030,にちか,"お弟子さん、動画とか得意ですか？
+倍速再生の仕方とかわかります？","Are you familiar with videos, Mr. Disciple?
+Do you know how to adjust the playback speed of videos?"
+0000000000000,弟子,"はは、正直それほど自信はありませんが……
+あとで様子を見に伺います","Haha, to tell you the truth, I'm not all that confident but...
+I'll take a look at it later."
+0000000000000,off,20XX年 XX月 XX日 午前,"Year 20XX Month XX Day XX, noon."
+4901032130040,にちか,……どうぞ,...Here.
+0000000000000,弟子,…………,......
+0000000000000,弟子,ん……,Hm...
+0000000000000,弟子,"（テーブルにあるペットボトル、
+妙に汗をかいてるな……？）",(The bottle on that table is strangely condensating...?)
+4901032130050,にちか,"……うわ
+いきなり女子の部屋見まくるの、怖すぎなんですけど……","...Woow.
+One step into a girl's room and your eyes are already everywhere. 
+That's kinda creepy, you know..."
+0000000000000,弟子,"いや、テーブルの上に乗ってるペットボトル
+凍らせてるのかな、って思ったんですよ","No, I was just thinking whether that bottle on the table there's 
+been cooled recently or something."
+0000000000000,弟子,冷凍庫には何も入れてなかったと思うんですが……,I don't think anything's been put into refrigerator though...
+4901032130060,美琴,『Ａ』の冷蔵庫から一本いただいてきたの,I was given a bottle from A's refrigerator.
+4901032130070,美琴,"凍ってるのは……
+過冷却の原理","The reason it's cooled...
+It's the process of supercooling."
+0000000000000,弟子,過冷却……ですか？,Supercooling... you say?
+4901032130080,にちか,『Ａ』の弟子なのに知らないんですか～？,You're A's disciple and you don't know this～?
+4901032130090,にちか,"過冷却っていうのは、凝固点以下の温度になっても
+液体のままでいる状態なんですよー",Supercooling is the process of lowering a liquid below it's freezing point without turning it into a solid.
+4901032130100,にちか,そこに衝撃を与えたりすると、一気に凍るんです,"And when the liquid is struck, it'll instantly freeze."
+0000000000000,弟子,へえ……そういうこともあるんですね,Huuh... You can do something like that huh...
+4901032130110,美琴,"夏になると、これを利用したコーラやビールが
+売られることもあるみたい","Apparently, supercooled bottles of cola and beer are sold during summer too."
+0000000000000,弟子,……機会があれば、飲んでみたいですね,...It'd be nice to try that sometime.
+4901032130120,美琴,"そうだ
+映像と動画を整理していたんだけど……","Oh right.
+I understand that we're here to put together the photos and video footage but..."
+4901032130130,美琴,"ちょっと気になるところがあって
+これ、見て","There's something I'm a little curious about.
+Take a look at this."
+0000000000000,弟子,かしこまりました,Understood.
+0000000000000,弟子,これは…………？,This is......?
+4901032130140,にちか,"西城さんがうっかり録画モードにしたまま、
+その辺の廊下に置きわすれてたカメラの映像らしいです","This is footage from Saijo-san's phone. 
+Apparently, she left her it somewhere along the hallway with the camera rolling by accident."
+4901032130150,にちか,"和泉さんが向かった先、
+『Ａ』の部屋がありますよね？","Izumi-san was headed in the direction where A's room was, right?"
+0000000000000,弟子,…………,...
+0000000000000,弟子,確かに、そうですが……,"You're right, but..."
+select,,"時刻を
+確かめてみましょう","Let's take a look 
+at the time again"
+select,,１人なのは不思議ですね,"It's strange that
+she's alone as well"
+select,,その辺の廊下ですか,"The hallway 
+right there?"
+4901032130160,美琴,あ、これ……,"Ah, the time..."
+0000000000000,弟子,"……ええ
+この時刻にはすでに『Ａ』は亡くなってるはずです","...That's right.
+A has already been murdered when this was taken."
+0000000000000,弟子,"和泉さんが『Ａ』の部屋に向かったとしても、
+犯人ではないんじゃないでしょうか？","Even if Izumi-san is headed towards A's room,
+we can conclude that she's not the murderer, no?"
+4901032130170,美琴,そうかな？,You think so?
+4901032130180,美琴,"彼女、この前の時間帯にはアリバイがあるし……
+ひとりでうろついていても不思議じゃないと思うけど","She's got an alibi for when the murder happened...
+And, it isn't strange for her to wander around the mansion as well."
+0000000000000,弟子,（確かに、それもそうか……）,(She's right...)
+4901032130190,にちか,"廊下にもいろいろ飾り付けがしてありますからねー
+置いた時にまぎれちゃったとかでしょうか？","There's lots of decorations around the hallways after all.
+Maybe they got messed up somehow?"
+4901032130200,美琴,"ロビーも暖炉とか……
+それらしいものがいっぱいあるから","There was a fireplace at the lobby too...
+Lots of stuff around the mansion like that."
+4901032130210,にちか,"それよりこの時刻……
+もう、『Ａ』が亡くなっている時間じゃないですか？","More importantly, look at the timestamp.
+Wasn't A already murdered at this time?"
+4901032130220,美琴,"でも、こんな風に人目を忍んで行動するのが
+この時刻っていうのも、おかしいんじゃない？","But, isn't it strange for her to be acting this wearily?
+Not to mention, at this hour."
+0000000000000,弟子,確かに……,That's true...
+0000000000000,弟子,遺体を私が見つけたのは今朝のことです,I only saw the corpse this morning.
+0000000000000,弟子,"この時点では、犯人以外
+『Ａ』が死んでいることを知らないはず……","At this point, the only one who would've known
+about A's death is the murderer themself."
+4901032130230,にちか,……ですよね,...I figured as much.
+4901032130240,にちか,"和泉さんに、
+事情を聞かせてもらったほうがよさそう……",I think we should ask Izumi-san about this...
+4901032130250,美琴,"カメラは、21時45分から朝まで
+置かれていたみたい","It seems like the camera was left rolling from 9:45pm 
+till morning today."
+4901032130260,美琴,他にも何人か映っている人はいたけど,There were others who were also captured in the footage.
+4901032130270,美琴,"みんな程なく、
+がっかりした顔で戻ってきているの","Most of them can be seen returning
+with a face of disappointment."
+4901032130280,にちか,"部屋を見つけても、中の『Ａ』が死んでたら
+開けてもらえませんもんね……","Even if they found A's room, A wouldn't be able to 
+open the door for them if he was already dead, after all..."
+4901032130290,美琴,"そうだね
+鍵を持っていない限り……","Right.
+Unless they had the key themselves..."
+0000000000000,弟子,確かに……,True...
+0000000000000,弟子,"……他に、
+何か気づいたことなどはありませんでしたか？",...Are there any other clues?
+4901032130300,美琴,大したことではないけど,"It's nothing much but,"
+4901032130310,美琴,"現場の写真を見せてもらった時に気になったのは……
+『Ａ』の傷が思ったより広かったこと","when I was shown a photo of the crime scene...
+I realised that the scar on A was strangely large."
+4901032130320,美琴,だから、凶器はそれなりに大きなものなんじゃないかな,"So I though, perhaps, the weapon used against A must've been fairly large."
+4901032130330,にちか,ええ,Indeed.
+4901032130340,にちか,"そんな大きな凶器、どう始末したんだろうって
+美琴さんと言ってたんです","How did they procure such a large weapon, was what Mikoto and I were discussing earlier."
+0000000000000,弟子,"なるほど……
+ありがとうございます","I see...
+Thank you very much."
+4901032130350,美琴,気になったのはこのくらいかな？,I guess that's all we have?
+4901032130360,にちか,"また何かわかったら教えてください
+私たちもそうします","Please come to us if you have more information.
+We'll do the same."
+info,special_communications/490103213.json,
+Translator,OrangeKabocha,

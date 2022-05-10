@@ -10,8 +10,8 @@ you need a fresh lipstick color!"
 We're also handing out some promotional skin care products♡"
 4001014020040,冬優子,…………っていうか,"...Say,"
 4001014020050,冬優子,これ、アイドルの仕事なわけ……？,Is this an idol's job...?
-4001014020060,あさひ,冬優子ちゃーんっ,"Fuyuko,"
-4001014020070,あさひ,冬優子ちゃん、試供品配り終わったっすか？,"Fuyuko, are you done handing out samples?"
+4001014020060,あさひ,冬優子ちゃーんっ,"Fuyuko-chan,"
+4001014020070,あさひ,冬優子ちゃん、試供品配り終わったっすか？,"Fuyuko-chan, are you done handing out samples?"
 4001014020080,冬優子,"ううん、まだまだ
 あさひちゃんは？","No, not yet.
 Are you?"
@@ -33,12 +33,12 @@ Do you think, maybe you should be a little careful...?"
 4001014020170,あさひ,"？　なんでっすか？
 欲しがってる人にあげるのが一番っすよね？","Hm? Why's that?
 Isn't it most important to give people what they want?"
-4001014020180,冬優子,それはそうなんだけど,"That's true,"
+4001014020180,冬優子,それはそうなんだけど,That's true.
 4001014020190,冬優子,"でも、同じ人にたくさんあげちゃったら、
 その分渡せる人が少なくなっちゃうでしょう？","However, well, if you give a lot to the same person, not as many people will be able to get some, right?"
 4001014020200,冬優子,"ふゆたちは、商品と、スポンサーの会社さんを
 効果的に広めるためにお仕事をしてるわけだから","For Fuyu's group, with products of our sponsor company, our job is to spread them out as effectively as possible."
-4001014020210,冬優子,そういうことも考えなくちゃいけないと思うの,I think we have to be concerned about things like that
+4001014020210,冬優子,そういうことも考えなくちゃいけないと思うの,I think we have to be concerned about things like that.
 4001014020220,あさひ,"なるほど……？
 そういうもんっすか……","Oh really...?
 Is that the way it is?"
@@ -50,18 +50,18 @@ You're doing it huh."
 4001014020250,冬優子,"わっ……！？
 お疲れ様ですっ","Huh...!?
 Thank you very much──"
-4001014020260,あさひ,……冬優子ちゃん、この人誰っすか？,"...Fuyuko, who's this?"
+4001014020260,あさひ,……冬優子ちゃん、この人誰っすか？,"...Fuyuko-chan, who's this?"
 4001014020270,冬優子,"あさひちゃん！
-現場の責任者の方だよ、ほらちゃんとご挨拶を──","Asahi!
+現場の責任者の方だよ、ほらちゃんとご挨拶を──","Asahi-chan!
 They're the supervisor of this area, c'mon, greet him──"
 4001014020280,あさひ,"責任者さんってことは、
 この化粧品については知ってるってことっすよね！","Since you're the person in charge here,
-You must know about these cosmetics, right!"
+you must know about these cosmetics, right!"
 0000000000000,責任者,ああ、そうだよ,"Ah, I do."
 4001014020290,あさひ,"じゃあ、宣伝する必要はないっすね！
 わたし、向こうで声かけてくるっす！","Well then, there's no need to advertise to you!
 I'll go chat with those people over there!"
-4001014020300,冬優子,あさひちゃん！？,Asahi!?
+4001014020300,冬優子,あさひちゃん！？,Asahi?!
 0000000000000,責任者,っく、ははは……！,"Pf, hahaha...!"
 4001014020310,冬優子,"すっ、すみません……！
 きちんとご挨拶もしないで……！","S-Sorry...!
@@ -90,25 +90,29 @@ Thanks in advance."
 次も楽しみっす～","We're going to be doing that job a few more times later right?
 Next time will be fun!"
 4001014020410,冬優子,"……ごめんね、あさひちゃん
-ちょっといいかな","...Excuse me, Asahi.
+ちょっといいかな","...Excuse me, Asahi-chan.
 Can I have a moment?"
 4001014020420,あさひ,"？
 どうしたっすか？","Hmm?
 What's up?"
 4001014020430,冬優子,"あのね、今日のあさひちゃんを見てて思ったんだけど……
-──もう少しだけ、まわりを見てくれたら嬉しいなって","Well uhm, I was thinking while assessing Asahi today, but...
-──it'd be great if you could watch your surroundings, just a little more."
+──もう少しだけ、まわりを見てくれたら嬉しいなって","Well uhm, I was thinking while assessing Asahi today, 
+but... ──it'd be great if you could watch your 
+surroundings, just a little more."
 4001014020440,あさひ,……どういうことっす？,...What do you mean?
 4001014020450,冬優子,"今日、責任者の方に挨拶しなかったでしょう？
 そういうのって、あんまりよくないことだと思うの","Today, you didn't greet the supervisor right?
 Stuff like that, I think isn't really so good."
 4001014020460,冬優子,あさひちゃんはアイドルなんだもん,You're an idol.
 4001014020470,冬優子,"あさひちゃんを見て、お仕事をくれる人たちのこと──
-もう少し、意識しなくちゃ","When looking at Asahi, those people are giving you jobs──
+もう少し、意識しなくちゃ","When looking at Asahi-chan, those people are giving 
+you jobs──
 You should be a little more conscious of that."
 4001014020480,あさひ,……,......
 4001014020490,あさひ,"でも、商品と会社を知ってもらうのが大事だって
-冬優子ちゃん、言ってたっす","...But, what's most important is to know the product and the company after all. Fuyuko, you said that."
+冬優子ちゃん、言ってたっす","...But, what's most important is to know the product 
+and the company after all. 
+That's what you said, Fuyuko-chan."
 4001014020500,あさひ,わたし、それはすごくわかったっすよ！,I really understood it!
 0000000000000,あさひ,でも、責任者の人とおしゃべりするのは違う気がするっす,"But, chit-chatting with the supervisor feels like a different thing!"
 4001014020510,冬優子,"それは──……
@@ -120,7 +124,7 @@ There's a time and a place for it──"
 真剣に受け止めてくれたのはありがとう","...But, what Fuyu said,
 thanks for taking it seriously..."
 4001014020550,冬優子,"……でも、もしあさひちゃんが
-責任者の人からよく思われなかったら","However, Asahi, suppose you don't take the time to consider the supervisor."
+責任者の人からよく思われなかったら","However, Asahi-chan, suppose you don't take the time to consider the supervisor."
 4001014020560,冬優子,"その次のお仕事が
 来なくなっちゃうかもしれないでしょう？","For the next job,
 you may not be able to come along, right?"
@@ -129,7 +133,7 @@ you may not be able to come along, right?"
 won't that be enough to be noticed?"
 4001014020580,冬優子,"……
 違うよあさひちゃん……","......
-That's not it, Asahi..."
+That's not it, Asahi-chan..."
 4001014020590,冬優子,"みんなから愛されなかったら──
 応援してくれる人がいなくなっちゃったら","If you're not loved by everyone──
 If no one is there cheering for you,"
@@ -138,25 +142,26 @@ If no one is there cheering for you,"
 4001014020620,あさひ,……だから、我慢しておしゃべりするんすか？,"...So, you have to control yourself and chit-chat?"
 4001014020630,冬優子,……意地悪な言い方かもしれないけど、そう,"...That's a mean way of putting it but, yeah. "
 4001014020640,冬優子,"ふゆたちはアイドルだから、めいっぱい可愛くして、
-もっと話したいなって思うような子にならなきゃ","Since Fuyu's group are idols, we have to be as cute as possible,
-I think you should become someone people want to talk to more."
+もっと話したいなって思うような子にならなきゃ","Since Fuyu's group are idols, we have to be 
+as cute as possible, so I think you should become 
+someone people want to talk to more."
 4001014020650,冬優子,"あさひちゃんだって、
-みんなから好かれたいでしょう？","After all Asahi,
-Don't you want to be loved by everyone?"
+みんなから好かれたいでしょう？","After all, Asahi-chan,
+don't you want to be loved by everyone?"
 4001014020660,あさひ,"それは相手の自由でいいと思うっす
 嫌いならそれはそれでいい","I think it's fine if that's what you want.
 I think it's fine if you hate it."
-4001014020670,あさひ,好かれなきゃって思って振る舞うのは、面倒っす,"It's a pain if you have to act the way others want you to, "
-4001014020680,あさひ,冬優子ちゃんは違うんすか？,"Isn't it, Fuyuko?"
-4001014020690,冬優子,あさひちゃん……,Asahi...
+4001014020670,あさひ,好かれなきゃって思って振る舞うのは、面倒っす,It's a pain if you have to act the way others want you to.
+4001014020680,あさひ,冬優子ちゃんは違うんすか？,"Isn't it, Fuyuko-chan?"
+4001014020690,冬優子,あさひちゃん……,Asahi-chan...
 4001014020700,冬優子,……,......
 4001014020710,あさひ,……,......
 4001014020720,あさひ,"……違ってたら、今度また教えてほしいっす！
 また明日っすよ、冬優子ちゃん","...If I'm wrong, please teach me again!
-See ya tomorrow, Fuyuko!"
+See ya tomorrow, Fuyuko-chan!"
 4001014020730,冬優子,"え！？
 ちょっと、あさひちゃん待って──","Eh!?
-Hey, wait Asahi──"
+Hey, wait Asahi-chan──"
 4001014020740,冬優子,あ……,Ah...
 4001014020750,冬優子,"……だから、なんなのよ……！
 あいつは……！","...So, what even...!
@@ -164,7 +169,7 @@ That kid...!"
 4001014020760,あさひ,おはようっす～,Morning.
 4001014020770,冬優子,おはようございます♡,Good morning♡
 0000000000000,スタッフ,"おっ、あさひちゃんだ
-おはよう、今日もじゃんじゃん配ってね～","Ah, Asahi.
+おはよう、今日もじゃんじゃん配ってね～","Ah, Asahi-chan.
 Morning, freely hand out things again today, okay?"
 4001014020780,あさひ,"はいっす！
 任せといてほしいっす！","Yes!
@@ -174,19 +179,19 @@ I want you to leave it to me!"
 精いっぱい頑張ります……！","Y-Yes!
 I'll do my very best...!"
 4001014020800,冬優子,……,......
-0000000000000,責任者,──おや、芹沢さんだね,"──Oh, that's Serizawa, isn't it?"
+0000000000000,責任者,──おや、芹沢さんだね,"──Oh, that's Serizawa-san, isn't it?"
 4001014020810,あさひ,──……責任者さんっす！,...Supervisor!
 0000000000000,責任者,はは、覚えていてもらえて光栄だ,"Haha, I'm honored you remember me."
 0000000000000,責任者,"芹沢さんの声がけね、気持ちがいいって、
-お客様にも評判なんだよ","Your voice has a good feeling,
-You've become popular with the customers."
-4001014020820,あさひ,ほんとっすか！？,Really!?
+お客様にも評判なんだよ","The customers have all been saying
+that your voice gives off a good feeling."
+4001014020820,あさひ,ほんとっすか！？,Really?!
 0000000000000,責任者,"この調子で頑張りなさい
 期待しているから","Keep up that attitude.
 I have great expectations."
 4001014020830,あさひ,はいっす！,Yes!
 4001014020840,冬優子,──……,......
-0000000000000,責任者,ああ、芹沢さんと一緒に来ている子だね,"Ahh, you're the girl who came with Serizawa, right?"
+0000000000000,責任者,ああ、芹沢さんと一緒に来ている子だね,"Ahh, you're the girl who came with Serizawa-san, right?"
 4001014020850,冬優子,"はい──
 あの、おはようございますっ……","Yes.
 Uhm, good morning..."

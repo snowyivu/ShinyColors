@@ -28,13 +28,13 @@ That was my scream of joy."
 0000000000000,プロデューサー,……ええ、同じくです,"...Yes, I feel the same."
 0000000000000,ラジオディレクター,でも困ったよねぇ,But it's still unfortunate.
 0000000000000,ラジオディレクター,"もともと『グッド・ネムレナイト』は
-３か月限定の放送だったでしょ","""Good Sleepy Night"" is only going to air for three months."
+３か月限定の放送だったでしょ","""Good Sleepless Night"" is only going to air for three months."
 0000000000000,ラジオディレクター,"その後も単発では復活させてるけど
 次の放送予定はないし……","After it's over they're going to bring it back here and there, but there's no plan for continuation..."
 0000000000000,プロデューサー,…………,............
 0000000000000,ラジオディレクター,本当に困ったよねぇ？,"Too bad, right?"
 0000000000000,プロデューサー,"大崎……甜花は『グッド・ネムレナイト』の収録を
-いつも楽しみにしていました","Osaki... Tenka always looked forward to recording ""Good Sleepy Night."""
+いつも楽しみにしていました","Osaki... Tenka always looked forward to recording ""Good Sleepless Night."""
 0000000000000,ラジオディレクター,……ふーん？,...Is that so?
 0000000000000,プロデューサー,"ゴージャス版の後には、
 レギュラー放送にならないかなあとも言ってましたね","After the deluxe episode, she also wondered if it would become a regular broadcast."
@@ -78,7 +78,7 @@ I'm not like a teacher here, right?"
 0000000000000,彼方,否定はできませんね……,I can't disagree...
 0000000000000,彼方＆萌夢,…………………………,..............................
 0000000000000,彼方,あーーえーーと……,"So, um, uh..."
-0000000000000,彼方,お、お互い様ってことでどうですかね……？,H-how about we call it even...?
+0000000000000,彼方,お、お互い様ってことでどうですかね……？,H-How about we call it even...?
 0000000000000,彼方,私、今日、リップを塗ってみたんです,I tried wearing lipstick today.
 0000000000000,彼方,あと、肌と、眉と、目と、チークも,"Touched up my skin, eyebrows, eyes, and blush."
 0000000000000,彼方,今日は私も、私らしくないから、だから────,"I'm also not feeling like myself today, so────"
@@ -112,8 +112,7 @@ You're so lucky...!"
 I shook their hands at the mall...!"
 0000000000000,萌夢,い、いいなぁ……！,N-Now that's what I call luck...!
 0000000000000,彼方,"演劇部の小道具で、
-キャンプ用品を見にいった時に────","
-So, when I was looking at camping equipments to find props for the drama club────"
+キャンプ用品を見にいった時に────","So, when I was looking at camping equipments to find props for the drama club────"
 4001047080010,甜花,──『大丈夫！』,"──""It's okay!"""
 4001047080020,甜花,『甜花、家にいる！！』,"""Tenka is at home!!"""
 0000000000000,プロデューサー,"『ありがとう』
@@ -132,7 +131,8 @@ I'm sure these letters"
 is a piece of someone's life."
 0000000000000,プロデューサー,"全部に返事をするのは難しくても、
 大丈夫……","It's difficult to respond to all of them, but that's alright..."
-select,,想いは、届く,Feelings will reach them.
+select,,想いは、届く,"Feelings will
+reach them."
 0000000000000,プロデューサー,"誰かから、誰かに……
 まわりまわって────","From one person to another...
 Going around and around────"
@@ -191,7 +191,7 @@ Then Tenka-chan has to stay home!"
 今、切らしてまして","Sorry.
 We're out right now."
 4001047080200,高校生くらいの子,"すぐ作ったりとかって……
-できたりします……？",Is it possible for you to make them quickly or something?
+できたりします……？",Is it possible... for you to make them quickly or something...?
 0000000000000,銀之介,あ……,Ah...
 0000000000000,銀之介,"確か……肉まん系は時間がかかるんですよ
 かなりお待ちいただくことになるかと……",If I remember correctly... The buns take a long time to be prepared. I'm afraid you'll have to wait quite a while...
@@ -211,7 +211,7 @@ Customer."
 すぐできますけど","If you're fine with corn dogs,
 I can get them ready in a minute."
 0000000000000,銀之介,"アメリカンドッグは、
-レンジでチンでできるので",Corn dogs can be prepared in the microwave.
+レンジでチンでできるので",Since corn dogs can be prepared in the microwave.
 4001047080240,高校生くらいの子,……,......
 4001047080250,高校生くらいの子,"じゃあ、アメリカンドッグ、ひとつ──
 あ、ふたつ、お願いできますか","Then I'll have a corn dog...
@@ -225,8 +225,8 @@ Oh, actually, two please."
 0000000000000,店内,………………………………,....................................
 0000000000000,銀之介,"……
 暦の上では春ですけど","......
-It's spring on the calendar"
-0000000000000,銀之介,今日は寒いですね,but it's cold today.
+The calendar says it's spring already"
+0000000000000,銀之介,今日は寒いですね,but the weather is still cold today.
 4001047080270,高校生くらいの子,"……
 ですね…………","......
 I know, right..."
@@ -237,7 +237,7 @@ I know, right..."
 0000000000000,銀之介,"すみません、ホットスナック系、慣れてなくて……
 あたためすぎてしまったかもしれません","Sorry, I'm not used to preparing hot snacks...
 I think I warmed it longer than needed."
-0000000000000,銀之介,ちょっと熱いかも……,It might be a little too hot. ......
+0000000000000,銀之介,ちょっと熱いかも……,It might be a little too hot...
 4001047080300,高校生くらいの子,はい──,No worries──
 4001047080310,高校生くらいの子,"わ……
 本当ですね、ちょっと熱いかも……","Whoa...

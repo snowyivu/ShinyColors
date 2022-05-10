@@ -5,19 +5,18 @@ id,name,text,trans
 0000000000000,ピアスの女性,それが正しい,It's the right thing to do.
 0000000000000,ピアスの女性,正しいんだ,It is.
 0000000000000,バラエティ司会,『では次のコーナーは────』,"""The next segment is────"""
-0000000000000,バラエティ司会,『#水曜日のア・ラ・モード～～～～！』,"""#Wednesday_à_la_mode～!"""
+0000000000000,バラエティ司会,『#水曜日のア・ラ・モード～～～～！』,"""#Wednesday_A_La_Mode～!"""
 0000000000000,バラエティ司会,『こちらはトレンドファッションを紹介するコーナー……』,"""This is the trendy fashion segment..."""
 0000000000000,バラエティ司会,『……なんですが……』,"""...However..."""
 0000000000000,バラエティ司会,『今回はおやすみとなります』,"""We have to postpone it this time."""
-0000000000000,バラエティ司会,『ガイドの甘奈ちゃんが風邪気味ということでね』,"""Our guide, Amana, has caught a cold."""
+0000000000000,バラエティ司会,『ガイドの甘奈ちゃんが風邪気味ということでね』,"""Our guide, Amana-chan, has caught a cold."""
 0000000000000,雛壇芸人,『甘奈ちゃんのコーナーがないなんてやだやだ～！』,"""Nooooo we want Amana's segment back～!"""
-0000000000000,バラエティ司会,『そこ、野太い声で駄々こねないでもらっていいですかね』,"
-""I'd appreciate if y'all can stop throwing a tantrum over there."""
+0000000000000,バラエティ司会,『そこ、野太い声で駄々こねないでもらっていいですかね』,"""I'd appreciate if y'all can stop throwing a tantrum over there."""
 0000000000000,雛壇芸人,『にへへ……甜花の出番……！』,"""Nihehe... It's Tenka's turn..."""
 0000000000000,バラエティ司会,『ああ、甘奈ちゃんの双子の甜花ちゃんね』,"""Oh right, Tenka-chan is Amana-chan's twin."""
 0000000000000,バラエティ司会,"『じゃ、ちょっと電話してみましょうか
 ……ものまねにはツッコミませんよ～……』","""Well, let's give her a call.
-...I'm not gonna follow up on your Tenka-chan immitation～...'"
+...I'm not gonna follow up on your Tenka-chan immitation～..."""
 0000000000000,バラエティ司会,『……こういうのね、ライブ感あるでしょ────』,"""...Doesn't this feel like we're filming live?────"""
 0000000000000,バラエティ司会,"『出ないっていうのもね、うん
 生放送ならではだよね』","""It's only on live TV that people don't answer their phones."""
@@ -27,7 +26,7 @@ id,name,text,trans
 て……甜花です……！』","""Y-Yesh...!
 I'm...Tenka...!"""
 0000000000000,バラエティ司会,『ごめんね、電話しちゃって～』,"""Excuse me for calling you～"""
-0000000000000,バラエティ司会,『甘奈ちゃんの様子はどう？』,"""How's Amana doing?"""
+0000000000000,バラエティ司会,『甘奈ちゃんの様子はどう？』,"""How's Amana-chan doing?"""
 4001047060030,甜花,『あ……えと……』,"""Ah... um..."""
 0000000000000,甜花,『……、…………』,"""......, ............"""
 0000000000000,バラエティ司会,『……………………』,"""........................"""
@@ -37,7 +36,7 @@ I'm...Tenka...!"""
 0000000000000,バラエティ司会,『それだと仮病ってことになっちゃうけど……』,"""Sounds like she's faking sick here though..."""
 4001047060060,甜花,"『あ……ち、違くて……
 ちょっと……声が出ないだけ、って……！』","""Ah... N-No...
-She just... lost a voice a little...!"""
+She just... lost her voice a little...!"""
 0000000000000,バラエティ司会,『えっ、大変じゃない。早く治してねって伝えて……！？』,"""Eh, that's serious then. Please tell her to get well soon...!?"""
 4001047060070,甜花,『はい……！』,"""O-Okay...!"""
 0000000000000,バラエティ司会,『よかったら甜花ちゃんスタジオに来ない？』,"""Why don't you come to the studio, Tenka-chan?"""
@@ -85,7 +84,7 @@ sniff............nngh────────"
 0000000000000,自分,『やり方、教えてくれ』,"""Can you show me how?"""
 0000000000000,年配の男性,……既読がつかないまま,...She still hasn't read it.
 0000000000000,年配の男性,10日経った,It's been ten days.
-0000000000000,自分,『今度、家に荷物取りに来るんだよな』,"""You're picking up your stuff the next time you're visiting, right?"
+0000000000000,自分,『今度、家に荷物取りに来るんだよな』,"""You're picking up your stuff the next time you're visiting, right?"""
 0000000000000,自分,『その時でいいから』,"""I'll see you then."""
 0000000000000,チェインの表示,『──既読──』,"""──Read──"""
 0000000000000,年配の男性,あ……,Ah...
@@ -173,7 +172,7 @@ is closed for business today."
 4001047060450,千雪,またのご来店を、お待ちしております……,We look forward to seeing you again...
 4001047060460,千雪,あーー────……,Haah────......
 4001047060470,千雪,んー…………,Mmm............
-4001047060480,千雪,（鞄からいらないものを出して……）,(Take the things you don't need out of your bag...)
+4001047060480,千雪,（鞄からいらないものを出して……）,(Take the things I don't need out of my bag...)
 4001047060490,千雪,（明日の準備、して……）,(Get ready for tomorrow...)
 4001047060500,千雪,（あ……お洗濯もしなくちゃ……）,(Oh... I have to do laundry too...)
 4001047060510,千雪,"（コート……クリーニングに出してるの……
@@ -239,6 +238,6 @@ Toothpaste...)"
 4001047060580,ラジオの音,『ぴーん』,"""Ping!"""
 4001047060590,ラジオの音,『────今夜は、ゴージャス版……です！』,"""────Tonight is the deluxe edition of...!"""
 4001047060600,ラジオの音,『アルストロメリアの────』,"""Alstroemeria's────"""
-4001047060601,ラジオの音,『グッド・ネムレナイト』,"""Good Sleepy Night."""
+4001047060601,ラジオの音,『グッド・ネムレナイト』,"""Good Sleepless Night."""
 info,game_event_communications/400104706.json,
 Translator,Ruru,

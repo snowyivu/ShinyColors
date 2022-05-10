@@ -1,0 +1,180 @@
+id,name,text,trans
+4901032140010,夏葉,"お弟子さんも一緒に来るのね
+人手は多いにこしたことはないし、歓迎よ","I see that Mr. Disciple's joining us.
+No worries, we welcome as many helping hands as possible."
+4901032140020,樹里,じゃあ、とりあえず現場に向かってみるか,"Then, let's head to the crime scene."
+0000000000000,off,20XX年 XX月 XX日 午前,"Year 20XX Month XX Day XX, noon."
+4901032140030,果穂,あっ、お弟子さん！,"Ah, Mr. Disciple!"
+4901032140040,果穂,ちょっとこっちに来てください！,Take a look at this!
+0000000000000,弟子,"もちろんです
+何か見つけられましたか……？","Certainly.
+Did you find something...?"
+4901032140050,智代子,"被害者の……『Ａ』さんの頭部から、
+砂糖菓子みたいな甘い匂いがするんです","There's a sweet smell, like a sugary substance... 
+It's coming from A's head."
+4901032140060,智代子,気のせいではないと思うんですけど……,I doubt this is just a coincidence...
+0000000000000,弟子,なるほど、私も確認してみましょう,"I see, let me have a look."
+0000000000000,弟子,…………,...
+0000000000000,弟子,（何人か出入りして空気が入れ替わったからだろうか）,(I wonder if it's because many people have entered and left the room.)
+0000000000000,弟子,"（血なまぐささは、さっきより薄れているが……
+甘い匂いがするかどうかはよくわからない）","(But, the smell of blood is starting to wane...
+Not sure about that sweet smell, however.)"
+4901032140070,樹里,"うーん……
+アタシにはよくわかんねーけど……","Hmm...
+I don't know about that..."
+4901032140080,凛世,"智代子さんは、お菓子に滅法詳しいと
+聞き及んでございます",I've heard that Chiyoko-san is knowledgable with sweets and their properties.
+4901032140090,凛世,であれば……,With that said...
+4901032140100,凛世,"我々の鼻ではわからなくとも
+道具を使って調べてみるのもよろしいのではないかと……","While our noses might not be able to draw a conclusion,
+perhaps a tool of sorts might help us..."
+4901032140110,夏葉,"確かにそうね
+こちらは世界的な名探偵『Ａ』のお屋敷だもの","That's true.
+We're in the abode of the world's best detective, A, after all."
+4901032140120,夏葉,"サンプルを採取して
+何が含まれているのか調べることはできるかしら？","Could we gather some samples and find out 
+what it might be?"
+0000000000000,弟子,はい、少々お時間をいただければ──,"Yes, if you could give me some time──"
+4901032140130,樹里,"智代子の言うとおり
+出たな、砂糖…………","It's as Chiyoko claimed.
+It's sugar..."
+4901032140140,智代子,うん……！,Yep...!
+4901032140150,果穂,スゴいですっ！,Amazing!
+4901032140160,果穂,"頭にほんの少しお砂糖がついてた……
+これがきっとヒントになりますっ","A pinch of sugar on A's head...
+I'm sure this'll be a big hint!"
+4901032140170,樹里,そうだな,You're right.
+4901032140180,樹里,"砂糖が入った飲み物やお菓子は
+この部屋には見当たらねーし……","I don't see any food or drinks that might have sugar in them 
+in this room either..."
+4901032140190,凛世,傷口と、傷の周りにのみついておりました……,Only on the wound and the edges of the wound...
+4901032140200,凛世,"おそらく凶器にも
+砂糖がついていたということでありましょう……","I think it's safe to conclude that the weapon 
+will also have traces of sugar on it..."
+4901032140210,夏葉,"でも、不思議よね
+何かに砂糖を詰めたものが凶器なのかしら？","But, it's strange isn't it.
+What sort of weapon could possibly have sugar in it?"
+0000000000000,弟子,"重い何かを袋に詰めて凶器とする──
+ブラックジャックのようなものということですね","Putting a heavy object into a bag, turning it into a weapon──
+It's almost like a game of blackjack, isn't it."
+4901032140220,智代子,"砂糖なら、台所とかお風呂とかで溶かせば処理できるし……
+昨日は雨が降ってたから、外に捨てるだけでもよかった","Since it's sugar, the perpetrator could've easily washed it off at the kitchen or in a bathroom... It rained yesterday too, so they could've just tossed it out."
+4901032140230,智代子,"凶器が見つかるのを避けるために──
+って可能性はあるのかも……！","Getting rid of the weapon used──
+To remove the evidence...!"
+0000000000000,弟子,"ええ、
+しかし、そうなると……","Yes, but, in that case..."
+select,,風呂と外を調べましょう,"Let's investigate the 
+showers and outside
+the mansion"
+select,,犯人は凶悪ですね,"The perpetrator is 
+really wicked, huh"
+select,,"何に砂糖を
+詰めたんでしょう？","Did they mix 
+sugar with 
+something else?"
+4901032140260,夏葉,調べた方がいいのは、わかるわ,I think that's a good idea.
+4901032140270,夏葉,"でも、タイムリミットまでに屋敷の外と、
+全ての部屋を調べきることができるかしら？","But, do we really have enough time to 
+investigate all the rooms and the exterior of the mansion?"
+0000000000000,弟子,"……確かに
+現実的ではありませんね……","...You're right.
+That seems kind of impractical..."
+4901032140280,凛世,"お弟子さま
+凛世は犯人の凶悪性が気になります","Mr. Disciple,
+I'm a little perplexed about the perpetrator's intentions."
+4901032140290,凛世,"殴打できるだけの砂糖を持ちこむ、というのは……
+最初から殺すつもりでやってきた、ということですから……","To bring a weapon with sugar enough to kill someone just by striking... 
+The perpetrator must have planned to kill A from the beginning..."
+4901032140240,凛世,"はい
+凛世もお弟子さまと同じ意見でございます","Yes.
+Rinze thinks the same."
+4901032140250,凛世,"殴打できるだけの砂糖を持ちこむ、というのは……
+最初から殺すつもりでやってきた、ということですから……","To bring a weapon with sugar enough to kill someone just by striking... 
+The perpetrator must have planned to kill A from the beginning..."
+0000000000000,弟子,"袋詰めにされて売られていますが、それをそのまま
+殴殺に使うには、強度が足りない気がします","We're assuming that the perpetrator simply put sugar in a bag as a weapon but, the bag might simply break with that kind of force."
+4901032140300,樹里,"……靴下とか？
+ビニール袋に入れた砂糖をセットすれば、ほら……","...What about a sock?
+Add that to a vinyl bag and..."
+4901032140310,果穂,わかりますっ！,I know that!
+4901032140320,果穂,分解できる凶器はよくあります！,It's a commonly used weapon that can be taken apart!
+4901032140330,智代子,その辺りはこれから調べなきゃですね……！,We've gotta look into that too...!
+4901032140340,凛世,"お弟子さま
+凛世は犯人の凶悪性が気になります","Mr. Disciple,
+I'm a little perplexed about the perpetrator's intentions."
+4901032140350,凛世,"殴打できるだけの砂糖を持ちこむ、というのは……
+最初から殺すつもりでやってきた、ということですから……","To bring a weapon with sugar enough to kill someone just by striking... 
+The perpetrator must have planned to kill A from the beginning..."
+0000000000000,弟子,ええ……,Yes...
+0000000000000,弟子,"衝動的な犯行なら、
+他にも凶器になりそうなものはいろいろあるわけですし……","If the murder was done on impulse, 
+the perpetrator had plenty of weapons to choose from..."
+4901032140360,樹里,"殺意、か……
+それだけの恨みが『Ａ』にあったのかもしれないな……","Intention, huh...
+The murderer must have something against A..."
+4901032140370,夏葉,そうね。探偵って、そういう仕事だもの……,Right. That's just part and parcel of being a detective...
+4901032140380,果穂,お砂糖と言えば台所ですよね……？,"Sugar means the kitchen is involved, right...?"
+4901032140390,果穂,"桑山さんは台所にいたって言ってました
+お話を聞いてみるのはどうでしょうか？","Kuwayama-san mentioned being in the kitchen.
+How about we ask her a few questions?"
+4901032140400,凛世,折を見て、そういたしましょう,"Looking at things, that seems to be the wisest choice."
+0000000000000,弟子,みなさん、他に何か気づいたことなどはございますか？,Are there any other points of interest?
+4901032140410,樹里,"そういえば──
+いや、そんな大したことじゃねーか……？","That reminds me──
+Nevermind, it's not that big a deal, I guess...?"
+4901032140420,夏葉,"一見大したことじゃなくても、
+他の事実と組み合わせると重要なピースになるものよ","Some things might not seem crucial at a glance, 
+but when pieced together, it can serve as an important clue."
+4901032140430,夏葉,何かあるなら、聞かせて頂戴,"Please, if you've anything at all. We'll listen."
+4901032140440,樹里,ほんとに大したことじゃないんだけど……,"It's really nothing, but..."
+4901032140450,樹里,"愛依……だっけ
+ゲームルームで碁石のケースを開けてんのを見かけてさ","Mei... I think.
+I saw her open the case of Go stones in the game room."
+0000000000000,弟子,碁石ですか……,Go stones...
+4901032140460,樹里,"誰かとそれで遊ぼうって雰囲気でもなかったから、
+気になってさ……そんだけ！","It didn't seem like she was taking it to play 
+with someone else too... That's all!"
+4901032140470,果穂,聞いてみましょう！,Let's ask her about it!
+4901032140480,凛世,…………,......
+4901032140490,樹里,凛世、どうかしたのか？,"What's wrong, Rinze?"
+4901032140500,凛世,"いえ……今のお話を聞いて、
+凛世もお話しした方がよいのか、と……","No... It's just that, Rinze has decided that it'd be better 
+to speak of this now after hearing your story..."
+0000000000000,弟子,何でも仰ってみてください,Please tell us anything you know.
+4901032140510,凛世,"……朝方、７時頃でございましょうか
+客室棟のランドリールームを使おうとしたところ","...At dawn, about 7am I suppose. 
+I was about to use the laundry room in the guest rooms tower."
+4901032140520,凛世,"ちょうど洗濯が終わったところだったのでしょう、
+中に湿った布のバッグが入っていたのでございます","I noticed a unit that'd just finished its cycle. 
+In it was a damp cloth bag."
+4901032140530,凛世,"ぱっと見ただけではございますが……
+大きめの、飾り気のない生成りのバッグでありました","I took no more than a glance but...
+It seemed like a plain, large-sized organic bag."
+4901032140540,果穂,"エコバッグですか……？
+あたしもお買い物をする時に使います！","Do you mean an eco bag...?
+I use that when shopping too!"
+4901032140550,果穂,誰かがお洗濯したんでしょうか？,Did someone put that in the wash?
+4901032140560,智代子,そうだね……！,I see...!
+4901032140570,智代子,"でも、昨日今日でエコバッグを使うタイミングって
+あんまり……","But, why would anyone need a tote bag between these 2 days..."
+4901032140580,樹里,"靴下やタオルとかならわかるんだけど……
+何かひどい汚れがついちまったとか……？","I get it if it's socks or a towel but...
+Did they get a huge stain on it or something...?"
+4901032140590,夏葉,"……あとで確認しておきましょうか
+凛世、バッグはランドリールームに置いたまま？","...We'll have to check that later.
+Rinze, was the bag left in the laundry room?"
+4901032140600,凛世,左様でございます,Indeed.
+0000000000000,弟子,私も後ほど確認させていただきます,I will take a look later as well.
+0000000000000,弟子,"イニシャルの入ったシンプルなエコバッグを
+当館のスタッフも台所に常備しておりましたので……","The mansion's staff have also left an eco bag with some 
+lettering in the kitchen as well, so..."
+4901032140610,果穂,"ありがとうございます！
+お願いしますっ！","Thank you very much!
+We're counting on you!"
+0000000000000,弟子,"いえいえ、情報をありがとうございました
+それでは私は失礼致します","Not at all. Thank you for your insights.
+Now, please excuse me if you will."
+4901032140620,凛世,はい。お弟子さまも、お気をつけて……,"Yes. Please take care, Mr. Disciple..."
+info,special_communications/490103214.json,
+Translator,OrangeKabocha,

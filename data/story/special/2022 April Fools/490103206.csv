@@ -1,0 +1,105 @@
+id,name,text,trans
+0000000000000,off,20XX年 XX月 XX日 06:23,"Year 20XX Month XX Day XX, 06:23."
+0000000000000,弟子,"みなさん、
+朝早くからお集まりいただきありがとうございます","Everyone,
+Thank you for gathering this early in the morning."
+0000000000000,弟子,"──残念なお知らせをしなくてはなりません
+我が師、『Ａ』が……","──I have some upsetting news for everyone.
+Regrettably, my master, A..."
+0000000000000,弟子,"自室にて何者かに殺害され、遺体となっているのを
+発見しました",was found murdered in his room by an unknown assailant this morning.
+4901032060001,探偵たち,──！,──!
+4901032060010,めぐる,……どうして『Ａ』が亡くなってるってわかったの？,...Do you know how A was killed?
+4901032060020,めぐる,"『Ａ』の自室がわかった理由についても……
+詳しく教えてもらっていいかな","And, would it be possible for you to share with us... 
+how you knew where A's room was?"
+0000000000000,弟子,……はい,...Certainly.
+0000000000000,弟子,６時ちょうどのことでした,It was approximately 6am.
+0000000000000,弟子,"私のパソコンに
+自動応答メッセージが配信されたんです",I received an automated notification from my computer.
+0000000000000,弟子,"それは『Ａ』のつけているスマートウォッチから、
+生体反応がなくなってしばらく経つと……","A's smartwatch detected a lack of biological reactions
+from A's body..."
+0000000000000,弟子,表示されるもののようでした,triggering an automated notification to be sent after a few minutes.
+0000000000000,弟子,"そこには『Ａ』の本当の自室の位置と、
+入室するためのパスワードが書かれていて……","Along with the message was the location of A's room,
+as well as a password to enter the room."
+4901032060030,智代子,それで確認しに行ったら……ってことですか……？,So you went there to check... and...?
+0000000000000,弟子,"はい｡『Ａ』は自室にて後頭部を殴られ、
+出血した状態で横たわっていました","Yes. It seemed like A was struck on the back of his head
+and left to bleed to death."
+4901032060040,凛世,そうですか……,I see...
+4901032060050,凛世,"他に何か気づいた点はございますか？
+死亡推定時刻や、現場について、など……","Was there anything else you noticed?
+Like the time of death, or anything left in the room..."
+0000000000000,弟子,死亡推定時刻については……,About the time of his death...
+0000000000000,弟子,"遺体はすっかり冷たくなっていましたから、殺害されてから
+だいぶ時間が経っているようでした、とだけ","His body felt cold, so I suspect that
+the murder was carried out hours before."
+0000000000000,弟子,"死亡推定時刻を割り出すキットはありますが、
+詳しいことを調べるのは時間がかかりますので……","There was a kit that could deciper his time of death but,
+it would simply take too much time to set up..."
+4901032060060,咲耶,私たちへの知らせを優先させてくれたんだね,Your first priority was to break the news to us.
+0000000000000,弟子,"はい。また、部屋は荒らされており……
+金庫も空けられ、中身は空になっていました","That's right. The room also seemed messy...
+And the safe was left open with nothing in it."
+4901032060070,恋鐘,ちょ、ちょっと待って……,W-Wait a minute...
+4901032060080,恋鐘,そい……解毒剤も全部なくなっとるってこと？,So... ya mean the antidote's all gone?
+0000000000000,弟子,……そういうことになりますね,...That seems the most likely.
+0000000000000,弟子,"軽く探してみましたが、
+部屋の中には解毒剤はありませんでした","I did a quick search around the room,
+but I didn't find any antidotes."
+4901032060090,千雪,"……『Ａ』を殺した犯人が持ち去ったんでしょうか
+でも、何のために……","...The murderer who killed A must have took it.
+But for what reason, I wonder..."
+4901032060100,愛依,そんなの……,Right...
+4901032060110,愛依,"うちらに対して……
+取引できるカードにするために決まってるし……","They must have wanted...
+To use the antidotes as leverage against us..."
+4901032060120,智代子,"……うん
+可能性はあるよね","...Yep.
+There's that possibility."
+4901032060130,智代子,"だって犯人は、自分の分を飲んだ後、
+その場で残りを割ってもよかったんだもん","That's because, the murderer could've just distributed them
+after drinking theirs."
+4901032060140,智代子,"そうしなかったってことは、
+何かやりたいことがあったのかもしれない",They must have something else up their sleeve.
+0000000000000,弟子,…………,......
+0000000000000,弟子,"また、現場は施錠され、
+天窓もしっかりと閉められていました……","Not to mention, the room was also locked.
+And the roof was closed tight shut as well."
+4901032060150,咲耶,"なるほど
+いわゆる密室殺人……というわけだね","I see.
+I guess you could say it was... a locked-room murder."
+4901032060160,咲耶,"謎を解いて、犯人を見つけ出さなければ
+解毒剤のありかもわからないままだろう","We won't know if the murderer took the antidote unless we 
+find them and solve the mystery."
+4901032060170,咲耶,まずは現場を見てみたい,"First things first, I'd like to take a look at the crime scene."
+4901032060180,摩美々,"……ていうか、スマートウォッチに
+心拍数とか、そういう記録が残ってるんじゃないー？","...I mean, doesn't the smartwatch have records
+of A's heart rate or something?"
+4901032060190,摩美々,"それを見れば、
+何時まで『Ａ』が生きてたかわかるかもー","If it's recorded, we might be able to figure out
+when exactly did A die."
+0000000000000,弟子,"確かに……！
+その可能性はありそうです","That's true...!
+That's one way for us."
+4901032060200,霧子,あの……,Um...
+4901032060210,霧子,"ご遺体を見たら、
+何かわかることがあるかもしれません……","I might be able to find some clues
+if I'm allowed to inspect his corpse..."
+4901032060220,結華,"本当！？
+すごいね……！","Really?!
+That's amazing...!"
+4901032060230,結華,"三峰にはそんな特殊技能はないんだけど……！
+現場、調べさせてもらえると嬉しいな","Mitsumine can't do anything like that but...!
+I'd like to inspect the crime scene if that's possible."
+4901032060240,恋鐘,うちも一緒に行ってよか？,Can I tag along with you all?
+4901032060250,恋鐘,"昨日の晩、食べたもんの中に毒ば入れた～って
+『Ａ』は言っとったけん","Yesterday, A said that the food had poison it it～"
+4901032060260,恋鐘,"部屋調べたら、
+どがん毒が入れられたかわかるかもしれん","If we look around the room,
+we might be able to find out what kind of poison was in it."
+4901032060270,霧子,うん……！,Yeah...!
+info,special_communications/490103206.json,," "
+Translator,OrangeKabocha,
