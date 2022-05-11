@@ -205,8 +205,8 @@ It's okay, then...!"
 0000000000000,銀之介,………………,..................
 0000000000000,銀之介,"あの……
 お客様","Um...
-Customer."
-4001047080230,高校生くらいの子,え、はい……？,"Eh, yes...?"
+Miss?"
+4001047080230,高校生くらいの子,え、はい……？,"Oh, yes...?"
 0000000000000,銀之介,"アメリカンドッグだったら
 すぐできますけど","If you're fine with corn dogs,
 I can get them ready in a minute."
@@ -225,13 +225,13 @@ Oh, actually, two please."
 0000000000000,店内,………………………………,....................................
 0000000000000,銀之介,"……
 暦の上では春ですけど","......
-The calendar says it's spring already"
+The calendar says it's spring already,"
 0000000000000,銀之介,今日は寒いですね,but the weather is still cold today.
 4001047080270,高校生くらいの子,"……
 ですね…………","......
 I know, right..."
 4001047080280,高校生くらいの子,"ちょっと運動してたんですけど
-それでも",I was exercising a little earlier
+それでも","I was exercising a little earlier,"
 4001047080290,高校生くらいの子,すごく、寒くて,but it's still so cold.
 0000000000000,銀之介,お待たせしました,Thank you for waiting.
 0000000000000,銀之介,"すみません、ホットスナック系、慣れてなくて……
@@ -261,9 +261,9 @@ You're right. It's a little hot..."
 4001047080412,一同,『ぴ』,"""Pi"""
 4001047080413,一同,『ぴ』,"""Pi"""
 4001047080414,一同,『ぴーん────────』,"""Ping────────"""
-0000000000000,unknown,久しぶりに,I opened the curtains
+0000000000000,unknown,久しぶりに,"I opened the curtains,"
 0000000000000,unknown,カーテンを開けた,for the first time in a long while.
-0000000000000,off,まっくらだった部屋に,In the room that was pitch black
-0000000000000,off,光が,The light came.
+0000000000000,off,まっくらだった部屋に,"In the room that was pitch black,"
+0000000000000,off,光が,the light came.
 info,game_event_communications/400104708.json,
 Translator,Ruru,
