@@ -84,3 +84,6 @@ Thanks to some new code from Meru, you can download homescreen lines for the ido
 
 After the game URL add #myPage=single or #myPage=multiple to download a single csv or multiple member's homescreen lines at once.
 
+**Switch to original font**
+
+After the game URL add #originalFont=on if you'd prefer to keep the original Japanese font when the patch is active
