@@ -1,0 +1,137 @@
+id,name,text,trans
+select,,遺体を調べる,Check the corpse
+select,,部屋を調べる,"Look around the 
+room"
+select,,"クローゼットを
+調べる",Check the closet
+0000000000000,弟子,"死亡推定時刻は､幅を広めに見積もって
+昨夜の21時半から23時の間のようですね","It seems like the approximate time of A's death is 
+9:30pm to 11pm."
+0000000000000,弟子,おそらくは即死……,The death was most likely an instant one...
+4901032340010,霧子,"……
+死因は背後から鈍器で殴られたこと……","...
+It seems like the cause of death is impact from 
+a blunt weapon to the back of his head."
+4901032340020,霧子,だいぶ重たいもので殴られたみたい……,The weapon seems to be a fairly heavy one...
+4901032340030,咲耶,ゴルフクラブやトロフィー……,Perhaps a golf club or trophy...
+4901032340040,咲耶,凶器になりそうなものは色々あるけれど──,"There seems to be a few possible weapons 
+in this room──"
+4901032340050,咲耶,血のついたものは見当たらないね,Though none of them seem to have blood stains on them.
+4901032340060,霧子,"転がってるゴルフクラブは、
+あの入れ物に立てられるのと同じ本数……","The number of golf clubs on the floor adds up with 
+the number of holes in the golf club rack..."
+4901032340070,霧子,欠けているものはないみたい……,There doesn't seem to be any missing...
+0000000000000,弟子,"犯人がこの現場に初めて来たのなら、
+部屋に何があるのかは予想できないのではないかと……","If it's their first time entering this room, 
+they must've not been able to anticipate the items 
+present in this room..."
+4901032340080,咲耶,ああ,Right.
+4901032340090,咲耶,"犯人は凶器を用意してきて、
+そのまま持ち帰ったと考えるのが自然だろう","It seems more logical to assume that culprit prepared 
+a weapon, used it, and brought it back with with them."
+4901032340100,咲耶,──財布と身分証がある,──There's a wallet and ID card here.
+4901032340110,咲耶,"……天井努
+これが彼の本名か……","...Tsutomu Amai. 
+So that is his real name..."
+4901032340120,霧子,…………,...
+4901032340130,咲耶,"……？
+どうかした？","...?
+What's the matter?"
+4901032340140,霧子,なんでもありません……,It's nothing...
+0000000000000,弟子,"（幽谷霧子の様子も気になるが……
+他のところも見てみようかな）","(I'm curious about Kiriko Yukoku's thoughts... 
+But first, I've to look at the other places in this room...)"
+4901032340150,結華,散らかされたものに目が行くけど……,"Everything scattered around this room is enough to 
+catch your attention but..."
+4901032340160,結華,壁のCDとかレコードはなんなんだろうね……？,"I really wonder what's up with those CDs and 
+records on the wall...?"
+4901032340170,摩美々,"『Ａ』は犯人にかまをかけて
+『うたわせる』ことが得意だったみたいー","A is known for his ability to make his targets 
+""sing"" their crimes to him, apparently."
+4901032340180,摩美々,……ですよねー？,...Riiight?
+0000000000000,弟子,ええ。田中さんの仰るとおりです,"Indeed. It's as you say, Tanaka-san."
+0000000000000,弟子,"うたわせる……自分の口で犯行を自白させた方が、
+犯人は言い逃れできなくなる……","""Sing their crimes""... By making them confess their 
+wrongdoings, they're basically presenting trustworthy 
+evidence upon themselves..."
+0000000000000,弟子,『Ａ』はそう言っていました,That's what A said.
+4901032340190,結華,"へぇ。じゃあこれには、『Ａ』がうたわせた犯人の
+音声データが入ってるかもしれないんだ","Heeh. So that means, these records might have the 
+audio recordings of criminals confessing to their crimes."
+4901032340200,結華,ふーん……,Huh...
+4901032340210,摩美々,…………んー,...Hmm.
+0000000000000,弟子,"どうかされたんですか？
+裏側をのぞき込んだりして……","Is something the matter? 
+Staring at the back of the records..."
+4901032340220,摩美々,"……レコードやCDを留めてる金具を登って
+天窓から脱出できないかって思ったんですケド","...I was just wondering, if it's possible for the culprit 
+to climb these records and CDs by stepping on these 
+metallic bars attached to them."
+4901032340230,摩美々,"それをやったとしたら
+レコードやCDが外れちゃいますよねー","If they did that, the CDs and records would fall 
+off though, right?"
+0000000000000,弟子,そうですね……,Let's see...
+0000000000000,弟子,"もし登れたとしても、
+そこから天窓を閉めるのは難しいかもしれません","Should they be able to make it to the top, 
+I believe it'd be difficult to close the roof window."
+0000000000000,弟子,"天窓の開閉は、
+今デスクの上に載っているリモコンで行うので……","The opening and closing of the roof window is 
+done through the remote on A's desk..."
+4901032340240,結華,"ワンチャン、リモコン持って外に出た後ボタンを押して、
+天窓が閉まりきるまでに放り込むのは──","What if, the culprit brings the remote up to the roof 
+with them and throws it down as the roof window closes──"
+0000000000000,弟子,"だいぶ高さがあるので……
+リモコンが壊れてしまうかと","It's quite the height so...
+It'd probably smash into pieces."
+4901032340250,結華,あはは、だよねー,"Ahaha, I thought so."
+4901032340260,結華,"そもそも落としただけじゃ
+綺麗に『置かれた』感じにはならないもんなぁ","Besides, if they simply dropped it down, 
+it wouldn't be neatly placed on A's table now."
+4901032340270,恋鐘,"クローゼットん中の金庫……
+鍵ばこじ開けられたりはしとらんみたいやね","The safe in the closet... 
+Doesn't seem like it was broken open or anything."
+4901032340280,恋鐘,中身は綺麗になくなっとる,And the insides have been wiped clean.
+4901032340290,恋鐘,"解毒剤も、事件の真相を綴じたファイルも、
+犯人が持っていったんやろね","I'm sure the culprit took the antidotes and 
+the file of truths with them."
+0000000000000,弟子,そうですね……,Right...
+4901032340300,恋鐘,"あと、クローゼットのそばに落ちとった鞄と
+デスクの引き出しが気になるばい……","I'm also curious about the bag beside the closet and 
+the drawers at A's desk..."
+4901032340310,恋鐘,"お弟子さん、見てみんね
+いろいろ引っかき回した跡があるばい","Take a lookie at this, Mr. Disciple. 
+There's traces of these drawers being ransacked."
+0000000000000,弟子,"本当ですね
+犯人は何を探していたんでしょう……？","You're right. 
+I wonder if the culprit was looking for something...?"
+0000000000000,弟子,……あと、これ──,...And this──
+4901032340320,恋鐘,"うん、そん机……
+一番下の引き出しん中、色んな毒が入っとったばい","Yeah. At this desk... 
+The bottom-most drawer contains all sorts of poison."
+4901032340330,恋鐘,"昨日の夕食に混ぜた毒は、
+きっと『Ａ』がブレンドしたもんなんやろね","I bet one of these was mixed into our dinner 
+yesterday."
+0000000000000,弟子,…………,...
+0000000000000,弟子,"毒の種類を特定して、解毒剤がなくても
+なんとかなるように動くのは無理そうですね……","I guess we can't just identify the poison given to us and 
+prolong our lives without the antidote, huh..."
+4901032340340,恋鐘,でも、お弟子さん！,"But look, Mr. Disciple!"
+4901032340350,恋鐘,"今回のは、解毒剤ば自分だけこっそり飲んで、
+あとは割るような犯人じゃなか……！","The culprit this time doesn't seem to have destroyed 
+the other antidotes other than their own...!"
+4901032340360,恋鐘,"自分以外の２５人ば殺すとに、
+ためらいがあった人ばい！","This shows that the culprit is someone who'd hesitate 
+to take the lives of 25 people!"
+4901032340370,恋鐘,やけん……,I think...
+4901032340380,恋鐘,"うちは探偵のみんなと協力して犯人ば見つけ出して、
+生き残る気まんまんばい！","I'm always ready work with the other detectives 
+and make it out alive!"
+select,,遺体を調べる,Check the corpse
+select,,部屋を調べる,"Look around the 
+room"
+select,,"クローゼットを
+調べる",Check the closet
+select,,調査を終える,"Wrap up your 
+search"
+info,special_communications/490103234.json,
+Translator,OrangeKabocha,

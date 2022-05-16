@@ -1,8 +1,10 @@
 id,name,text,trans
-4901032090010,霧子,現場の調査は、こんなところでしょうか……,I guess that's about it for the investigations in this room...
+4901032090010,霧子,現場の調査は、こんなところでしょうか……,"I guess that's about it for the investigations in 
+this room..."
 4901032090020,咲耶,そうだね,Yeah.
 4901032090030,咲耶,"この部屋からも遺体からも
-『アレ』が見つからないのが気になるし……","Though, it's puzzling that we found ""that"" in neither A's body nor anywhere in this room..."
+『アレ』が見つからないのが気になるし……","Though, it's puzzling that we found ""that"" in neither 
+A's body nor anywhere in this room..."
 4901032090040,摩美々,『アレ』ねー,"""That"", huh."
 0000000000000,弟子,アレって……,"By ""that"", you mean..."
 select,,ファイルのことですか？,The file?
@@ -29,7 +31,7 @@ the key to the safe is in his chest pocket..."
 4901032090130,恋鐘,そん鍵がなか,There wasn't anything like that.
 4901032090140,恋鐘,"……ってことは、
 犯人が持っていった、っていうことやけん……","...That means,
-the perpetrator took it away with them..."
+the culprit took it away with them..."
 4901032090150,摩美々,……ピンチじゃーん,"... We're in a pinch, aren't we."
 4901032090160,霧子,うん……,Yep...
 0000000000000,弟子,"……ロビーに戻りましょう

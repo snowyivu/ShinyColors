@@ -1,5 +1,5 @@
 id,name,text,trans
-0000000000000,女将,……でね、旅館組合の若いもんが言うんですよ,"... So, the youngins at the Inn Association told me"
+0000000000000,女将,……でね、旅館組合の若いもんが言うんですよ,"... So, the youngins at the Inn Association told me,"
 0000000000000,女将,"今のままじゃ駄目だ
 もっと力を入れるべきだ～って","The business can't go on like this.
 We need to put more work into it."
@@ -20,7 +20,7 @@ It changes so fast, doesn't it?"
 0000000000000,女将,"私も苦手なつもりはなかったんですけどね
 若手の話に全然ついていけなくなって","I didn't think I was that out of touch, but I really can't keep up with the younger generation at all."
 0000000000000,眼鏡の男性,ほうほう,Mhm.
-0000000000000,女将,こりゃもうプロを頼るしかないかって,That's why I had to turn to a professional.
+0000000000000,女将,こりゃもうプロを頼るしかないかって,That's why I have to turn to a professional.
 0000000000000,ピアスの女性,（……あなたが目を向けてる人、新人なんですけど）,(...The guy you're looking at is new to the job.)
 0000000000000,ピアスの女性,（……話、半分もわかってないですよ）,(...He doesn't even understand half of what you're saying.)
 0000000000000,ピアスの女性,（……眼鏡のせいでデキる風に見えるのかもだけど）,(...Maybe the glasses give people the impression that he's competent.)
@@ -124,8 +124,8 @@ Please come out～!"""
 4001047010080,甜花,『練習、してきました……！』,"""We've been practicing...!"""
 0000000000000,バラエティ司会,『いや、練習したかどうかは聞いてないから』,"""No, I didn't ask if you practiced."""
 4001047010090,千雪,"『私たち、甘奈ちゃんが頑張ってる番組に
-呼んでいただいたので』","""Since we have been invited to the show that Amana-chan is working so hard on"""
-4001047010100,千雪,『少しでも盛り上げたいなあって』,"""we wanted to sprinkle in a little extra excitement."""
+呼んでいただいたので』","""Since we have been invited to the show that Amana-chan is working so hard on,"""
+4001047010100,千雪,『少しでも盛り上げたいなあって』,"""We wanted to sprinkle in a little extra excitement."""
 4001047010110,千雪,『それで……ね？』,"""Right...?"""
 4001047010120,甜花,『うん……！』,"""Yeah...!"""
 0000000000000,雛壇芸人,"『まあまあかな』

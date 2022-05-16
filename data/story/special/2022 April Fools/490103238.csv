@@ -1,0 +1,64 @@
+id,name,text,trans
+select,,碁石,Go stones
+select,,クッキー,Cookies
+select,,ペットボトル,Bottle
+4901032380020,結華,え、そうなの？,"Eh, really?"
+0000000000000,弟子,…………,...
+0000000000000,弟子,（……いや、違うな……）,"(...Nah, that's not right...)"
+0000000000000,弟子,"（碁石を見ていたのは和泉愛依、
+そしてさっき彼女の潔白は証明した……）","(The one who found the Go stones was Mei Izumi.
+And we just proved her innocence...)"
+0000000000000,弟子,すみません、言い間違えました,"Sorry, I said the wrong thing."
+4901032380010,甘奈,"千雪さんが作ったの
+さくさくで軽かったけど……","The cookies Chiyuki-san made were 
+light and crispy though..."
+0000000000000,弟子,…………,...
+0000000000000,弟子,（……いや、違うな……）,"(...Nah, that's not right...)"
+0000000000000,弟子,"（クッキーは、影のような役割を演じていたのは確かだが
+凶器としてではない……）","(The cookies were indeed important in casting a shadow 
+on the situation but, it's not the weapon used..."
+0000000000000,弟子,すみません、言い間違えました,"Sorry, I said the wrong thing."
+0000000000000,弟子,そう、私は考えました,"Yes, I've got it."
+0000000000000,弟子,"ペットボトルを
+エコバッグに詰めたのではないでしょうか","Perhaps, the eco bag was filled with bottles."
+4901032380030,摩美々,"確かにペットボトルはいっぱいあったケド、
+それで殴って殺すって……難しくないですかねー？","It's true that there were plenty of bottles but, 
+would someone really die... from being struck by that?"
+0000000000000,弟子,"中身が液体の状態では、
+おっしゃるとおり、人を殺すのは難しいでしょう","If the contents of the bottle were in liquid state, 
+that might be a little difficult, yes."
+4901032380040,恋鐘,"そいやったら、
+犯人はどがん方法ば使ったとやろ？","Then, what did the culprit do?"
+0000000000000,弟子,"……犯人は、
+凍らせたペットボトルを使ったんだと思っています","...I believe, the culprit used 
+frozen bottles."
+4901032380050,結華,でも、冷凍庫の中には何も──,"But, there wasn't anything in the refrig──"
+4901032380060,結華,……待って、もしかして,"...Wait, don't tell me..."
+0000000000000,弟子,"はい
+確かに冷凍庫の中は空でしたが……","Yes. 
+The refrigerators were indeed empty..."
+0000000000000,弟子,"台所には、
+『氷より冷たい温度』に飲み物を保つ冷蔵庫があります","In the kitchen, there was a refrigerator that could 
+could ""cool liquids below their freezing point""."
+4901032380070,霧子,……！,...!
+4901032380080,霧子,過冷却……かな？,Supercooling... right?
+0000000000000,弟子,私もそう考えました,I believe so.
+0000000000000,弟子,"凝固点以下に冷やされた液体に衝撃を与えると……
+一瞬で凍るんです","Liquids kept below their freezing points...
+When struck with a reasonable amount of force, 
+it instantly freezes."
+4901032380090,恋鐘,ふぇ……,Fweh...
+4901032380100,恋鐘,"そいで凍らせたボトルばエコバッグに入れて、
+凶器にしたとね……","So you're saying they kept those frozen bottles in
+the eco bag to make a weapon..."
+4901032380110,咲耶,"確かに……凍らせたペットボトルをいくつか入れれば、
+人を殺せるだけの道具ができあがる","Indeed... If the bag contained several frozen bottles, 
+it could be enough to bludgeon someone."
+4901032380120,咲耶,盲点だったよ、素晴らしいね,"I didn't think of that, amazing."
+0000000000000,弟子,恐縮です……,I'm humbled...
+4901032380130,甘奈,"でも、それで……
+犯人はいつ、どんな風に『Ａ』を……？","But, then...
+How and when did the culprit...?"
+0000000000000,弟子,それは──,That's──
+info,special_communications/490103238.json,
+Translator,OrangeKabocha,

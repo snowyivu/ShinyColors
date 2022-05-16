@@ -1,0 +1,66 @@
+id,name,text,trans
+0000000000000,off,あれから数ヶ月──,A few months later──
+0000000000000,off,"『Ａ』の名を継いだ俺の元には
+今日も世界各国から、難事件が舞い込んでくる","Inheriting the name ""A"", 
+my days were filled with countless cases from 
+all over the world."
+0000000000000,off,『Ａ』が殺された事件から、不思議に繋がった縁──,"A fate I didn't anticipate by solving the mystery of 
+A's murder──"
+0000000000000,off,"様々な能力を持つ探偵たち、
+それに怪盗２８３にも助けられているが──","It was thanks to the efforts of many skilled detectives, 
+as well as the prowess of the phantom thief, 283──"
+4901032330010,はづき,"お疲れ様です
+コーヒーいかがですか、『Ａ』","Good work. 
+Would you like a coffee, A?"
+0000000000000,『Ａ』,"……ありがとう、はづきさん
+いただこうかな","...Thanks, Hazuki-san.
+I'll have one."
+4901032330020,はづき,"先代の『Ａ』が亡くなった時は、
+どうなることかと思いましたけど……","I was wondering what would happen after the 
+previous A passes, but..."
+4901032330030,はづき,安心しました～,I'm kind of relieved～
+0000000000000,『Ａ』,"はづきさんから見て、安心できる探偵ぶりなら
+及第点なのかな……","I wonder if being a detective that ""makes you relieved"" 
+is worth anything..."
+4901032330040,はづき,いい探偵ぶりだと思ってますよ～,I think you're plenty fine a detective～
+0000000000000,『Ａ』,"はは……褒められるのには慣れてないんです
+参ったな……！","Man... It's kinda strange being complimented by you. 
+Haha...!"
+0000000000000,『Ａ』,……あ、そういえば,"...Ah, that reminds me."
+4901032330050,はづき,なんですか？,What is it?
+0000000000000,『Ａ』,"ひとつだけ、わからないことがあるんです
+桑山千雪は、なぜ『Ａ』の部屋を探し当てられたのか……","There's just one thing I haven't figured out. 
+How did Chiyuki Kuwayama figure out where 
+A's room was..."
+0000000000000,『Ａ』,"実は、その謎だけが解けていなくて……
+はづきさん、何かご存知ないですか？","Actually, I haven't solved that mystery... 
+Do you know anything about it?"
+4901032330060,はづき,"ああ、それは……
+あぶり出しです♪","Ahh, that... 
+It's aburidashi ♪"
+4901032330070,はづき,"『Ａ』が送った招待状と、館の見取り図に
+あぶり出しを仕込んでおくよう言われていて……","A told me to include the use of aburidashi in 
+both the invitation letters and the mansion map."
+4901032330080,はづき,ふたつを合わせると、謎解きが出てくるんです,"If you put them both together, you'll get a puzzle."
+4901032330090,はづき,"それを解けば、
+『Ａ』の居場所がわかるようになってるんですよ～","And if you solve the puzzle, you'll be able to 
+figure out where A's room is～"
+0000000000000,『Ａ』,"そんな仕掛けがあったのか……
+全然気がつかなかった","He had a trick like that up his sleeve, huh... 
+I didn't notice it at all."
+4901032330100,はづき,"だから彼女は、台所にいたんじゃないでしょうか
+他の探偵たちに、あぶり出しをさせないように","That's probably why she stayed in the kitchen, right? 
+To prevent anyone from attempting to decode the 
+secret messages."
+4901032330110,はづき,そして、先代の『Ａ』は……,"As for the previous ""A""..."
+4901032330120,はづき,"探偵の誰かと協力しないと解けない謎を、
+あなたに出したかったんじゃないでしょうか","I'm sure he crafted this trial in a way that required you 
+to work with the other detectives to solve the mystery."
+0000000000000,『Ａ』,……なるほど、納得しました,...I see. That makes a lot of sense.
+4901032330130,はづき,……ふふっ,...Fufu.
+0000000000000,はづき,他にも何かわからないことはありますか、『Ａ』？,"Is there anything else you'd like to ask, A?"
+0000000000000,『Ａ』,"……いや
+これからもよろしくお願いします、はづきさん","...Nah. 
+I look forward to working with you, Hazuki-san."
+info,special_communications/490103233.json,
+Translator,OrangeKabocha,

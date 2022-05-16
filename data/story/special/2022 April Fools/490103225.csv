@@ -1,0 +1,43 @@
+id,name,text,trans
+0000000000000,off,20XX年 XX月 XX日 16:05,"Year 20XX Month XX Day XX, 16:05."
+4901032250010,恋鐘,"お弟子さん
+ほんとに犯人、わかったと……？","Mr. Disciple. 
+Did you really find out who the culprit is...?"
+0000000000000,弟子,はい,Yes.
+0000000000000,弟子,"今回の犯人は、狡猾で、残酷で、手段を選ばない……
+本当に『Ａ』の後継者に相応しい方でした","The culprit this time is cunning, malicious, 
+and willing to use any methods at their disposal... 
+Truly a fitting candidate as A's successor."
+0000000000000,弟子,……私はその方しかいないと確信しております,...There's no doubt that it could only be this person.
+0000000000000,弟子,"（一人の女性の目を、じっと見つめて
+俺はそう告げた）","(I said that as I met eyes with 
+one girl in the room.)"
+4901032250020,美琴,……犯罪者を誉めるのはどうかと思うけど,"...While I don't think you should be praising 
+the perpetrator here,"
+4901032250030,美琴,"25人の探偵がいる中で犯行に及んで
+この時間まで逃げ延びているんだから──……","they did prolong the investigation till today, 
+even with 25 detectives present in a single mansion──..."
+4901032250040,甘奈,"お弟子さん……
+そんなことができた、犯人って一体……？","Mr. Disciple...
+Who exactly, is this murderer...?"
+0000000000000,弟子,……それは──,...That's──
+0000000000000,弟子,…………,......
+0000000000000,弟子,（……本当に、ここで犯人を明らかにしていいのか？）,"(Is it really alright to announce the name of 
+the murderer here?)"
+0000000000000,弟子,"（『Ａ』が望む後継者の資質を備えた『彼女』を
+捕らえること──）","(To capture ""the one"" who possesses the traits of 
+A's desired successor──)"
+0000000000000,弟子,（それは、『Ａ』の望みなのだろうか）,(Is that what A really wants?)
+0000000000000,弟子,…………,......
+select,,"『Ａ』を殺した
+犯人を追及する","Announce the 
+name of the 
+murderer"
+select,,"『Ａ』を殺した
+犯人を逃がす","Let the murderer
+escape"
+select,,"『Ａ』を殺した
+のは私です","The murderer 
+is me"
+info,special_communications/490103225.json,
+Translator,OrangeKabocha,

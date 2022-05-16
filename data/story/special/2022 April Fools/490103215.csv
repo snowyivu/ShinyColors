@@ -9,7 +9,8 @@ To steal the key to the safe."
 That might be it, but..."
 4901032150040,小糸,"それ以外の動機も、あったのかも……
 『探偵』って恨みを買うものだし……","There might be another reason too...
-Grudges are part and parcel of being a detective, after all..."
+Grudges are part and parcel of being a detective, 
+after all..."
 4901032150050,雛菜,"あ～
 そうかもね～","Ah～
 That's true～"
@@ -27,7 +28,8 @@ What do you need my help with?"
 別にないですね～","Hm～?
 Nothing really～"
 4901032150100,雛菜,"なんか、『天井努』って名前が出てきたので
-みんなに知ってるか聞いてました～","I was asking everyone if they knew who ""Tsutomu Amai"" was～"
+みんなに知ってるか聞いてました～","I was asking everyone if they knew who 
+""Tsutomu Amai"" was～"
 4901032150110,小糸,あ……わ、わたしは……,Uh... I-I...
 4901032150120,小糸,"ろ、ロビーの隅に『Ａ』の手帳を見つけたので
 それを持ってきて、読んでました……！","I-I found A's notebook in a corner of the lobby, 
@@ -47,7 +49,7 @@ Mr. Disciple?"
 I never knew about the notebook..."
 4901032150170,円香,……そうですか,...I see.
 4901032150180,円香,それならあなたも見るべきですね,Then I suppose you should read it.
-0000000000000,弟子,（手帳を受け取って読めば……）,(I picked the notebook up and read it...)
+0000000000000,弟子,（手帳を受け取って読めば……）,(I picked up the notebook and read it...)
 0000000000000,弟子,"（この場に呼ばれた探偵たちのうち
 何人かの名前が書かれているようだ）","(The names of several detectives who are present 
 for the trial are written in the notebook.)"
@@ -56,8 +58,8 @@ for the trial are written in the notebook.)"
 揃ってマルがつけられていること）","(Kiriko Yukoku, Toru Asakura, whose names are marked 
 with a circle.)"
 0000000000000,弟子,"（また、八宮めぐると和泉愛依の名前の横には
-チェックがつけられていることだ）","(Meanwhile, the names Meguru Hachimiya and Mei Izumi 
-are marked with a tick.)"
+チェックがつけられていることだ）","(Meanwhile, the names Meguru Hachimiya and 
+Mei Izumi are marked with a tick.)"
 4901032150190,透,"……でね
 思いだしたんだ、『天井努』","...Then, I remembered. ""Tsutomu Amai""."
 4901032150200,透,"何があったかは知らないけど……
@@ -96,15 +98,18 @@ like myself investigate the matter."
 so the weather is great."
 4901032150320,小糸,あ……はい,Ah...yeah.
 4901032150330,小糸,"透ちゃんの部屋の上を通って降りるなら
-どの辺りになりそうか、考えやすそうですね……","If we think about how they passed the roof of Toru-chan's 
-room and got down, it'd be a lot easier to figure out their route..."
+どの辺りになりそうか、考えやすそうですね……","If we think about how they passed the roof of 
+Toru-chan's room and got down, it'd be a lot easier 
+to figure out their route..."
 4901032150340,透,んー……,"Mn... "
 4901032150350,雛菜,"屋敷の回りの足跡は２種類だけど
 どっちも降りてきた感じじゃなさそう～？","There's 2 sets of footsteps around the mansion but, 
-doesn't it seem like both of them came down from the roof～?"
+doesn't it seem like both of them came down 
+from the roof～?"
 4901032150360,円香,"多分、八宮さんと有栖川さんの……？
 外、うろついていたって言ってたし","Isn't it Hachimiya-san and Arisugawa-san's...?
-They were the ones investigating the outsides of the mansion after all."
+They were the ones investigating the outsides of 
+the mansion after all."
 4901032150370,雛菜,"ん～……
 ね、この辺って","Hm～...
 Hey, doesn't this place"
@@ -115,7 +120,7 @@ without any tools～?"
 Y-You mean by sliding off the rain gutter and stuff...?"
 4901032150400,小糸,"…………！
 あ、あれ……！","...!
-T-That...!"
+L-Look...!"
 4901032150410,雛菜,"あは～
 踏み荒らされた跡発見～！","Aha～
 There you are, footsteps～!"
@@ -133,7 +138,7 @@ set of faint footprints..."
 0000000000000,弟子,"浅倉さんの部屋の上を通った何者かが、
 ここに降りてきた、って考えるのが妥当ですね……","It's fair to assume that these footprints belong 
 to whoever scrambled past Asakura-san's rooftop..."
-0000000000000,弟子,犯人はもしかしたら──,"Most likely, the perpetrator──"
+0000000000000,弟子,犯人はもしかしたら──,"Most likely, the culprit──"
 select,,天窓から脱出した？,"Escaped through
 the roof?"
 select,,翼があるのかも？,Had wings?
@@ -147,7 +152,7 @@ to these set of footprints, after all..."
 Are you saying they grew wings and flew?"
 4901032150490,雛菜,"それって『怪盗２８３』のこと～？
 じゃあなんで足跡残ってるの？","Do you mean the ""Phantom Thief 283""～?
-Even though they left all those footprints?"
+Then why did they leave all those footprints?"
 4901032150500,小糸,"天窓から出てここに降りた、のかな……？
 屋敷の周りに『やってきて消えた』足跡がないし……","You think they came from the rooftop and got off...?
 Since there aren't any footprints leading to here..."
@@ -172,7 +177,8 @@ for such flawed security?"
 4901032150590,小糸,"て、天窓から出てここに降りた……
 ってことはない、ですかね……？","D-Don't you think it's unlikely that... they escaped 
 from the roof and got down here...?"
-4901032150600,小糸,屋敷の周りに『やってきて消えた』足跡がありませんし……,"There doesn't seem to be any footsteps leading to these, after all..."
+4901032150600,小糸,屋敷の周りに『やってきて消えた』足跡がありませんし……,"There doesn't seem to be any footsteps leading 
+to these, after all..."
 4901032150610,小糸,"客室棟の窓から出て、透ちゃんの部屋の上を通って、
 ここに降りるのも変な気がしますし……","It's kind of weird to think that they'd leave through 
 the guest rooms tower's windows, climb atop Toru-chan's 
@@ -188,8 +194,8 @@ A real mystery."
 そうですね～","Aha～
 Right～"
 4901032150640,雛菜,"でも、天窓に上るのって難しそうじゃない？
-さっき見たでしょ～？","But, doesn't it seem difficult for them to escape through the roof?
-We took a look earlier, didn't we～?"
+さっき見たでしょ～？","But, doesn't it seem difficult for them to escape through 
+the roof? We took a look earlier, didn't we～?"
 4901032150650,雛菜,"リモコンで開けてみたけど、
 屋根にロープとかもかけられなさそうだったし","We tried opening A's roof window earlier, 
 but it didn't seem like there was anything to attach 
@@ -205,7 +211,7 @@ escape A's room through the roof..."
 4901032150700,雛菜,"もうちょっと足跡
 綺麗に残ってたらよかったのにね～",If only they left clearer footprints～
 4901032150710,雛菜,"あんまり大きくない
-レディースの靴って感じかな～……","The footprints don't seem to big, 
+レディースの靴って感じかな～……","The footprints don't seem too big, 
 and the shape seems to be of a lady's footwear."
 4901032150720,円香,……弟子のあなたにとっては朗報では？,"...I guess that's good news for you, Mr. Disciple?"
 4901032150730,円香,この足跡は自分のものではない、と主張できるわけですから,"Since you could say that these footprints 

@@ -1,0 +1,60 @@
+id,name,text,trans
+select,,真相ファイルです,"The file of
+truths"
+select,,ゴルフクラブです,The golf club
+select,,共犯者です,An accomplice
+4901032390020,真乃,あ、あれ……？,H-Huh...?
+0000000000000,弟子,…………,...
+0000000000000,弟子,（確かに、ファイルでは道は作れない、か……）,"(Oh, right. A file can't possibly help here...)"
+0000000000000,弟子,すみません、少し勘違いをしていたようです,"Sorry, it seems like I've made an error."
+4901032390010,真乃,"……私もそう思います……っ
+きっと、犯人は──","...I think so too...
+I'm sure the culprit──"
+0000000000000,弟子,"犯人は共犯者に支えてもらい、
+天窓に手をかけ、脱出したのではないでしょうか","The culprit had an accomplice support them, 
+and the culprit reaches for the roof and escapes."
+4901032390030,真乃,"……す、すみません……っ
+それだと、共犯の方が部屋を出られないと思います……","...S-Sorry, but...
+In that case, the accomplice wouldn't have 
+been able to escape..."
+4901032390040,真乃,最初の犯人と、同じ状況になってしまいますから……,The accomplice would then be in the culprit's situation...
+0000000000000,弟子,…………,...
+0000000000000,弟子,（確かに、彼女の言うとおりだ……）,"(Indeed, she's right...)"
+0000000000000,弟子,すみません、少し勘違いをしていたようです,"Sorry, it seems like I've made an error."
+0000000000000,弟子,"ゴルフクラブを何本か束ねて、
+オブジェを支える棒と棒の間に橋渡しにしたんでしょう","The culprit stacked several golf clubs and placed 
+them between 2 metallic decorations, which then
+forms a ladder for them to climb up."
+4901032390050,灯織,なるほど,I see.
+4901032390060,灯織,"だから、オブジェを支える部品と、
+ゴルフクラブに擦れた傷がついていた……","So, that was why there were scratches on both
+the metallic decorations and the golf clubs..."
+4901032390070,透,"次の段に足をかけて、
+つま先でゴルフクラブを持ち上げれば……",By picking up the golf clubs after each step...
+4901032390080,透,"ゴルフクラブは床に落ちて、
+何に使われたかわからなくなるし","The culprit then tosses them to the ground, 
+concealing her methods."
+4901032390090,小糸,"ご、ゴルフクラブだけ散らかってたら
+怪しまれるから","M-Maybe they thought just tossing the golf
+clubs all over might be too obvious,"
+4901032390100,小糸,"本とかトロフィーもばら撒いて
+部屋を荒らしたように見せかけた、ってことかな……？","so they scattered books and trophies all over 
+the room to make it seem like a mess...?"
+4901032390110,雛菜,ん～,Hm～
+4901032390120,雛菜,"遺体が最初、天窓の下にあったのも
+死亡推定時刻を誤魔化すために見せかけて～","Maybe, the body was left beneath the roof window 
+to seem like they were trying to falsify A's death～"
+4901032390130,雛菜,"天窓が開いてるのを
+誤魔化すためだったのかも！","So, maybe the roof window was left open 
+on purpose too!"
+4901032390140,透,"それで雨が降ってる中、私の部屋の屋根の上を通って……
+屋外から屋敷の中に入ったわけか","Then, they scrambled past the roof of my window as 
+it started raining... Then, they get off the roof and 
+head back into the mansion."
+4901032390150,透,ふふ、やるね,Fufu. They're good.
+4901032390160,雛菜,外に出てた人も何人かいたけど～,"Though, there were several people outside as well～"
+4901032390170,雛菜,"夜だし、雨も降ってたから
+見つかりにくいんじゃない？","Maybe it was hard to spot her 
+cause of the rain?"
+info,special_communications/490103239.json,
+Translator,OrangeKabocha,

@@ -1,0 +1,147 @@
+id,name,text,trans
+0000000000000,off,20XX年 XX月 XX日 13:18,"Year 20XX Month XX Day XX, 13:18."
+0000000000000,弟子,"（みんなからいろいろ話を聞いたが
+まだ、全容はつかめていない……）","(I've gathered various accounts from everyone but, 
+it's still hardly enough to form a clear picture...)"
+0000000000000,弟子,"（もう一度、
+現場に足を運んでおく必要がありそうだ……）","(I suppose I'll take a look at the crime scene 
+one last time for good measure...)"
+0000000000000,弟子,（確かめたいこともあるしな……）,"(There's a few things I'd like to make sure of, after all...)"
+4901032170010,めぐる,"……ね
+なんかおかしいよね……？","...Right.
+Something's off, right...?"
+4901032170020,真乃,"うん……
+どうしてこんな傷がついてるんだろう……？","Yep...
+Why does he have a wound here...?"
+4901032170030,灯織,"跡がついているものとついていないものがある
+何か理由があるのかもしれない","There are marks on some and none on others. 
+I wonder why is that."
+0000000000000,弟子,何か見つかりましたか？,Did you all manage to find something?
+4901032170040,めぐる,"お弟子さん！　ちょうどいいところに！
+あのね、これ見てくれる……？","Mr. Disciple! You came at a good time! 
+Um, could you take a look at this...?"
+0000000000000,弟子,"（八宮めぐるは、CDやレコードを飾っているオブジェの裏側、
+壁から伸びる棒を指さした）","(Meguru Hachimiya points towards a metallic decoration 
+that holds each CD and record in its place on the wall.)"
+4901032170050,灯織,"よく見ると、いくつかに
+何か硬いもので擦ったような傷がついているんです","If you look closely, you'll notice that some have 
+scratches on them, while others don't."
+4901032170060,灯織,『Ａ』が何かをここにかけたのではないかと,"We were wondering if A has hung some other 
+things on these bars."
+0000000000000,弟子,"『Ａ』は几帳面な方でしたから、人に見えない裏側とはいえ
+傷がつくようなことはしないと思いますが……","A's quite the perfectionist so, I doubt he'd overlook 
+a single scratch even in places where no one looks..."
+4901032170070,めぐる,どうしたの、真乃？,"What's wrong, Mano?"
+4901032170080,真乃,"灯織ちゃん、めぐるちゃん、お弟子さんも……っ
+これを見てください","Hiori-chan, Meguru-chan, and Mr. Disciple too...
+Please look at this."
+4901032170090,灯織,"ゴルフクラブ？
+──これ…………","A golf club?
+──This is..."
+4901032170100,真乃,うん,Yep.
+4901032170110,真乃,"グリップの下──金属の棒のあたりと、ヘッドの手前に
+同じように跡があるんです","Both the bottom of the grip── 
+And the neck of the golf club have similar scratches."
+4901032170120,めぐる,"本当だ
+オブジェ裏の棒の跡と、何か関係あるのかな？","You're right.
+I wonder if they're related?"
+4901032170130,灯織,"そこまではわからない
+でも、他にも同じ状態のクラブがある","We can't tell for now. 
+Though, the other clubs have similar scratches."
+4901032170140,真乃,うん,Yup.
+0000000000000,弟子,…………,...
+0000000000000,弟子,……他の探偵が教えてくれました,...The other detectives hypothesised that
+0000000000000,弟子,"もしかしたら、『Ａ』の遺体は
+死後に動かされたかもしれない、と……","perhaps, A's body was moved right after 
+he was murdered..."
+0000000000000,弟子,"（……俺は３人に、大崎姉妹から聞いた
+胸ポケットの内側の紙の話……）","(...Then, I told them about the note the Oosaki sisters 
+found in A's chest pocket...)"
+0000000000000,弟子,"（……死亡推定時刻をずらすための工作では？
+という推論を話した）","(...About how the body might have been moved 
+to falsify A's time of death.)"
+4901032170150,灯織,"なるほど……
+でしたら、絨毯をずらしてみるのはどうでしょうか","I see...
+In that case, how about we move the carpet?"
+4901032170160,灯織,"絨毯の上で遺体を動かした形跡はありません
+とすれば──","There aren't any traces of the body being moved 
+onto the carpet. Which means──"
+4901032170170,灯織,床に血痕があると考える方が自然です,There must been blood stains on the floor.
+4901032170180,めぐる,"確かに！
+灯織さすが！","That's true!
+As expected of Hiori!"
+4901032170190,真乃,お弟子さん、絨毯を動かしてみてもかまいませんか？,"Mr. Disciple, do you mind if we move the carpet?"
+0000000000000,弟子,"大丈夫ですよ
+私も手伝います","No problem.
+I'll help out with that."
+4901032170200,めぐる,"ありがとう！
+せーので引っ張ろう！","Thanks!
+Pull on the count of 3!"
+4901032170210,灯織,ご遺体には気を付けて,Be careful of the corpse.
+4901032170220,真乃,うん……っ,Okay...
+4901032170230,真乃,……っ,...
+4901032170240,真乃,この血痕……──,These stains...──
+0000000000000,弟子,"遺体の発見時とは違う場所に、
+広がっていますね……","They're in a different spot from where I 
+first found the body..."
+0000000000000,弟子,"やはり『Ａ』の遺体は、頭部に一撃を受けた後、
+何者かに動かされたとみてよさそうです……","As I thought, after receiving a fatal blow to his head, 
+A's body was moved..."
+4901032170250,灯織,"血痕に引きずった跡がありません
+絨毯が動かされたのは、血が乾いてからのようですね","There aren't traces of the body being moved onto 
+the carpet. They must've waited for the blood to dry 
+before doing so."
+4901032170260,めぐる,"うん
+でもそうすると……────","Yep. 
+But then...────"
+4901032170270,真乃,犯人は、なんのために遺体を動かしたんでしょう……,Why did the murderer move the body in the first place...
+select,,"動かしたのが
+犯人とは限らない","It might've been
+someone else"
+select,,"死亡推定時刻を
+ずらすため？","To falsify A's 
+time of death?"
+select,,"かわいそうに
+思ったのかも","Maybe they 
+pitied A"
+0000000000000,弟子,私はそう思います,That's my deduction.
+4901032170280,真乃,"そ、そうですね……っ
+すみません……","R-Right...
+I'm sorry..."
+4901032170290,灯織,"死亡推定時刻の後に、
+この部屋の方に来た人がいたのを忘れていました……","I forgot that there were others that came 
+into the room after A's time of death..."
+0000000000000,弟子,……でしょうか,...I think.
+4901032170300,めぐる,"本当にそれだけなのかな？
+なんだかしっくりこないような……","Was that really the only reason? 
+That doesn't sound right..."
+4901032170310,灯織,そうだね,Right.
+0000000000000,弟子,そう思いました,That's what I think.
+4901032170320,真乃,"えっと……
+最初は死亡推定時刻をずらそうと思っていたけれど……","Umm...
+So they wanted to falsify A's time of death at first..."
+4901032170330,真乃,"雨に打たれている姿を見て、やっぱりやめようと思った
+……ということでしょうか……？","But seeing A's drenched corpse, they felt sorry for him
+and moved him... Is that what you mean...?"
+4901032170340,めぐる,真乃の言うとおりで、それだとちょっと変だよね,"Like what Mano's said, I think that's kind of strange."
+4901032170350,めぐる,"犯人って、最初から凶器を持ち込んでるような
+殺意の高い人だよ？","The murderer is someone who entered the room 
+with a weapon and the intention to kill, you know?"
+4901032170360,灯織,そうだね,Right.
+4901032170370,灯織,"そもそも、死亡推定時刻をずらしたいなら、
+天窓の下から移動させる必要はない……","In the first place, there's no need to move the body just 
+to falsify A's time of death..."
+4901032170380,めぐる,もうちょっと考えてみないとダメそう！,It seems like we'll have to mull over this a little longer!
+4901032170390,めぐる,"でもでも、なんとなく
+犯人の行動がわかってきた気がする","But but, I feel like I'm starting to get 
+what the culprit tried to do."
+4901032170400,真乃,光が……見えてきた気がします,It feels like... the truth is coming closer to light.
+0000000000000,弟子,"ええ、ですが……
+まだ、犯人を特定するには足りない情報がありそうです","Right. However... 
+We're still missing key information to identifying 
+the muderer."
+4901032170410,めぐる,"うん
+頑張ろう！","Yep. 
+Let's push on!"
+info,special_communications/490103217.json,
+Translator,OrangeKabocha,

@@ -42,16 +42,21 @@ Thank you...!"
 0000000000000,弟子,こちらが本棟の見取り図となります,Here's the sketch of the main tower.
 4901032050220,めぐる,"今わたしたちがいるのが本棟ロビーで……
 客室棟には、ここを通らないと行けないみたいだね","We're now in the lobby of the main tower...
-To get to the guest rooms tower, we'll have to pass through here it seems."
+To get to the guest rooms tower, we'll have to 
+pass through here it seems."
 4901032050230,真乃,"たくさんあるお部屋……
 ロビーと台所の他は、名前がないんですね……？","That's a lot of rooms...
-Do the other rooms not have names apart from the kitchen and lobby?"
+Do the other rooms not have names apart from 
+the kitchen and lobby?"
 0000000000000,弟子,"『Ａ』自身がいろいろと手を加えておりましたので、
 私にもわからない部分がありまして……","A himself has made several changes along the way,
 so I'm not sure about those myself..."
-0000000000000,弟子,間違いがあってはいけないので、空欄にしております,"There shouldn't be any inaccuracies on the map, so I left those parts blank."
+0000000000000,弟子,間違いがあってはいけないので、空欄にしております,"There shouldn't be any inaccuracies on the map, 
+so I left those parts blank."
 0000000000000,弟子,"なお、屋敷に詳しい私はハンデとして、
-しばらくロビーでみなさんのご質問に答えております","With that said, since I've got the upper hand of knowing the place well, I'll remain in the lobby for a while to answer any questions you all might have."
+しばらくロビーでみなさんのご質問に答えております","With that said, since I've got the upper hand of knowing 
+the place well, I'll remain in the lobby for a while to answer 
+any questions you all might have."
 4901032050240,灯織,"すみません、質問なのですが……
 入ってはいけない場所はあるのでしょうか","Sorry, I have a question...
 Are there any rooms we can't enter?"
@@ -63,16 +68,18 @@ It's equipped with sturdy locks and bulletproof glass, so..."
 0000000000000,弟子,"全てのドアも、
 鍵を持っていなければ開けることは不可能……",The doors in this mansion are all locked as well.
 0000000000000,弟子,"開けられるのは『怪盗２８３』くらいだと
-『Ａ』は申しておりました","""Perhaps the only person able to open the doors is the Phantom Thief 283"", was what A said."
+『Ａ』は申しておりました","""Perhaps the only person able to open the doors is 
+the ""Phantom Thief 283"" "", was what A said."
 4901032050250,結華,ああ、それインタビューで読んだことある,"Ohh, I've read about that in an interview."
 4901032050260,めぐる,うんうんっ,Mm mhm.
 4901032050270,めぐる,"『怪盗２８３』以外には決して開けられない鍵
-──って！","Locks that'll stop anyone, except the ""Phantom Thief 283""
-──Right?!"
+──って！","Locks that'll stop anyone, except the 
+""Phantom Thief 283"" ──Right?!"
 4901032050280,灯織,なるほど……,I see...
 4901032050290,結華,"……要するに。鍵がかかってなければ入っていいし、
 かかってても開けられれば入っていいってことかな？","...So that means, if a door isn't locked, we can enter it.
-If it's locked but we manage to get in somehow, that's fine too, right?"
+If it's locked but we manage to get in somehow, 
+that's fine too, right?"
 0000000000000,弟子,そういうことだと思います,That seems to be the case.
 4901032050300,めぐる,そっかー！,I see!
 4901032050310,めぐる,"じゃあじゃあ、隠し部屋とか謎の地下室──
@@ -110,12 +117,15 @@ If it's possible..."
 4901032050450,灯織,好きに呼んでもらえれば……,"Please, address me however you like..."
 4901032050460,真乃,ありがとう……っ,Thanks...
 0000000000000,弟子,"（見渡してみれば、
-他の面々もそれぞれ動き出しているようだ）",(It seems like the others are starting to set off on their own investigations.)
+他の面々もそれぞれ動き出しているようだ）","(It seems like the others are starting to set off on 
+their own investigations.)"
 0000000000000,弟子,"（櫻木真乃たちのようにチームを作るもの……
-ひとりで行動すると決めてロビーを出て行くもの……）","(Just like Mano Sakuragi and her group, the others are also forming groups and making their way out of the lobby...)"
+ひとりで行動すると決めてロビーを出て行くもの……）","(Just like Mano Sakuragi and her group, the others are 
+also forming groups and making their way out of the lobby...)"
 0000000000000,弟子,（俺も、ぼうっとしてはいられないな……）,"(I can't just stick around here anymore, too...)"
 0000000000000,弟子,"（『Ａ』からの命令だ、
-弟子としての仕事はこなしつつも……）",(Just as A ordered me; ontop of carrying out my duties as his disciple...)
+弟子としての仕事はこなしつつも……）","(Just as A ordered me; ontop of carrying out 
+my duties as his disciple...)"
 0000000000000,弟子,（本当の自室を探るとするか…………）,(I've to look for A's real room...)
 info,special_communications/490103205.json,
 Translator,OrangeKabocha,

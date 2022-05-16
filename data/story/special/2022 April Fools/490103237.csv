@@ -1,0 +1,81 @@
+id,name,text,trans
+select,,ペットボトル,Bottle
+select,,雨,Rain
+select,,靴下,Socks
+0000000000000,弟子,そうですね、和泉さん？,"Right, Izumi-san?"
+4901032370010,愛依,…………,...
+0000000000000,弟子,そうですね、和泉さん？,"Right, Izumi-san?"
+4901032370020,霧子,"ま、待って……
+雨に打たれた時間は短いから、偽装はできないって……","W-Wait... 
+There isn't enough time to falsify A's time of death 
+by leaving his body in the rain, remember...?"
+0000000000000,弟子,そうでした、思い違いをしていたようですね……,"Oh right, I remembered wrongly..."
+0000000000000,弟子,そうですね、和泉さん？,"Right, Izumi-san?"
+4901032370030,愛依,……え、靴下……？,...Eh? Socks?
+0000000000000,弟子,（あれ、違ったかな……？）,"(Wait, something's wrong...?)"
+4901032370040,冬優子,……どういうことですか？,...What do you mean?
+0000000000000,弟子,台所にいた桑山さんたちから聞いています,I heard this from Chiyuki-san in the kitchen.
+0000000000000,弟子,冷蔵庫の中に、冷えたペットボトルがあったと……,There were chilled bottles in the refrigerator...
+0000000000000,弟子,そして、台所には──,"And, in the kitchen──"
+0000000000000,弟子,"凍るか凍らないか……という温度をキープするための
+冷蔵庫もありました","There is a refrigerator that can keep liquids at 
+a temperature... that leaves it supercooled."
+0000000000000,弟子,和泉さんはその中からペットボトルを取りだして……,Izumi-san took one of those bottles...
+0000000000000,弟子,"念のため、凍った固体の部分をなくすために
+冷蔵庫に入れていたのでしょう","She must have left it in that refrigerator 
+to keep it from freezing."
+4901032370050,千雪,"そうやって冷やしたお水を遺体にかけた……
+だからメモがふやけて、濡れていたのね……","Then, she poured the chilled liquid onto the corpse... 
+So that's why the note was soaked..."
+4901032370060,雛菜,"ん～……
+だったら、天窓は開けておいていいんじゃない？","Mn～
+Then, why didn't she just leave the window open?"
+4901032370070,雛菜,"わざわざ閉めて、
+雨が当たらないところにずらさなくても","Why would she close it and put the body in a position 
+where the rain wouldn't hit it?"
+4901032370080,灯織,……私もそう思います,...That's what I think too.
+4901032370090,灯織,お弟子さんは、凶器は何だと思っているんですか？,"Mr. Disciple, what do you was the weapon used in the murder?"
+0000000000000,弟子,……碁石です,...Go stones.
+0000000000000,弟子,"和泉さんはそれを袋のようなものに入れ、
+ブラックジャック代わりにして『Ａ』を殺したのでしょう","Izumi-san filled the bag with Go stones and struck A. 
+I believe that's what happened."
+4901032370100,小糸,"ご、碁石のセットを見ていた、というのは
+わたしも聞きました……！",I-I heard about the Go stones as well...!
+4901032370110,小糸,でも…………,But...
+4901032370120,冬優子,"……少し、進め方が強引じゃないですか？
+まるで愛依ちゃんを犯人にしたいみたい","...Aren't you, being a little agressive here?
+It sounds like you're trying to pin Mei-chan here."
+4901032370130,冬優子,"そういうことなら……ふゆは
+愛依ちゃんに人を殺すなんてできない、と主張します","If that's what you're planning... 
+Then Fuyu will declare this here and now.
+Mei-chan isn't capable of commiting murder."
+4901032370140,あさひ,わたしも同感っす,I agree.
+4901032370150,あさひ,……愛依ちゃん、本当に殺したんすか？,"...Mei-chan, did you really kill A?"
+4901032370160,愛依,…………,...
+4901032370170,愛依,"そう……
+うちがやった…………","Yes...
+I did..."
+4901032370180,愛依,信じてくれたのに……ごめん,Sorry... even though you believed in me.
+0000000000000,弟子,"……自白してくださって
+ありがとうございます","...Thank you for coming clean with us.
+"
+0000000000000,弟子,"タイムリミットが迫っておりますので……
+解毒剤の在処を教えていただけますか？","We're all running on a time limit with our lives here...
+Do you mind telling us where the antidotes are?"
+4901032370190,愛依,…………それ、は……,......That's...
+4901032370200,千雪,何か不都合があるのかな？,Do you have some sort of situation?
+4901032370210,千雪,"あとでお弟子さんにだけ話す、とかでも
+私は構いません","I'm fine if you want to only tell Mr. Disciple 
+about it."
+0000000000000,弟子,"そうですね……
+教えてくれるなら、どんな形でも歓迎です","Right...
+I'll allow any means for you to tell us where it is."
+4901032370220,愛依,"……わかった
+じゃあ、そうするから……","...I understand.
+Then, I'll do that..."
+4901032370230,愛依,"10分後に、うちの部屋に来て……
+解毒剤を用意しておくから……","Come to my room in 10 minutes...
+I'll have the antidotes ready by then..."
+4901032370231,あさひ＆冬優子,…………,...
+info,special_communications/490103237.json,
+Translator,OrangeKabocha,

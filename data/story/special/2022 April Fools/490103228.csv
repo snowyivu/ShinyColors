@@ -1,0 +1,51 @@
+id,name,text,trans
+0000000000000,弟子,"……犯人は真っ先に『Ａ』の居室にたどり着きました
+そして、エコバッグに詰めたペットボトルで殴殺し……","...The culprit heads straight for A's room. 
+Then, they strike A with the bag of frozen bottles..."
+0000000000000,弟子,"ファイルと解毒剤、
+それに『Ａ』の部屋の鍵を手に入れた","Then, they take the files, antidotes, 
+and A's key."
+0000000000000,弟子,"それから、部屋を出ようとして……
+困ったんだと思います","As they plan their exit... 
+They must've been in a pickle."
+4901032280010,樹里,"もしかして、
+アタシがカメラを置き忘れたから……？","Is that because I left my camera rolling 
+in the hallway...?"
+0000000000000,弟子,多分、そうなのではないかと,"Yes, I believe so."
+0000000000000,弟子,"西城さんは一人でいたわけではないですよね、
+その時間、アリバイが証明されているわけですから","It's proven that Saijo-san wasn't acting alone at that 
+moment. Your alibi proves that."
+4901032280020,樹里,"ああ、凛世と智代子と一緒に、本棟の方を探ってた
+カメラをどこかに置き忘れた、って言った覚えもある……","Yeah. I was looking around the main tower 
+with Rinze and Chiyoko. I remember mentioning that 
+I left my camera somewhere, too..."
+0000000000000,弟子,"なるほど……
+犯人はそれを室内から聞いたのでしょう","I see... 
+The culprit must've heard that as well."
+0000000000000,弟子,そして──,Then──
+0000000000000,弟子,"誰もいないことを見計らってドアから出るのは難しい、
+そう思ったんでしょう","They must've thought that leaving through the door 
+without anyone to keep watch would be difficult."
+0000000000000,弟子,だから、天窓から脱出することを選んだんです,"So, they decided to escape through the roof window."
+4901032280030,真乃,天窓から……,The roof window...
+4901032280040,円香,"なるほど
+詳しくお聞かせください","I see.
+Please explain."
+4901032280050,円香,一応、現場の様子をおさらいすると,"From my investigations,"
+4901032280060,円香,"天窓の外にロープをかけられるような場所はなく、
+部屋のオブジェも足場にはできない──","it didn't seem possible to hang a rope from 
+the roof window, and climbing the metallic 
+decorations seemed impossible too──"
+4901032280070,めぐる,うん……,Yeah...
+4901032280080,めぐる,"オブジェを支える棒に足を掛けたら、
+飾ってあるCDやレコードが外れちゃう","If you step on those metallic bars, 
+they'll just give way."
+0000000000000,弟子,"おふたりの仰るとおり、
+確かにオブジェ自体を足場にすることはできませんが……","As the 2 of you have mentioned, climbing the 
+decorations on foot is impossible, however..."
+0000000000000,弟子,"犯人はあるものを使い、
+天窓に続く道を築くことができました","The culprit used a certain object 
+to climb the walls."
+0000000000000,弟子,それは──,That is──
+info,special_communications/490103228.json,
+Translator,OrangeKabocha,

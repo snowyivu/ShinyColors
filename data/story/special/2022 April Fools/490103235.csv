@@ -1,0 +1,22 @@
+id,name,text,trans
+select,,凶器について調べる,"Look into the 
+weapon used"
+select,,犯行時刻を絞り込む,"Deduce the 
+time of death"
+select,,動機について調べる,"Find out the 
+motive behind"
+select,,屋敷の中を見廻る,"Look around 
+the mansion"
+select,,凶器について調べる,"Look into the 
+weapon used"
+select,,犯行時刻を絞り込む,"Deduce the 
+time of death"
+select,,動機について調べる,"Find out the 
+motive behind"
+select,,屋敷の中を見廻る,"Look around 
+the mansion"
+select,,"もう一度現場を
+確認する","Check the 
+crime scene again"
+info,special_communications/490103235.json,
+Translator,OrangeKabocha,

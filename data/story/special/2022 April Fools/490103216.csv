@@ -1,0 +1,206 @@
+id,name,text,trans
+4901032160010,千雪,現場は密室だったってお話ですよね……,"The crime scene is supposedly a hidden room, right..."
+4901032160020,千雪,"だったら、お屋敷の中にも
+何かヒントが残っているかもしれません",Perhaps we'll find some clues around the mansion.
+4901032160030,甘奈,だね,Right.
+4901032160040,甘奈,"それに、みんな現場を見にいくんだったら
+少し時間をずらした方がよさそうかも","Besides, if everyone's taking turns to take a look at 
+the crime scene, it'd be good to spread out the 
+time of each visit."
+4901032160050,めぐる,なるほど、なるほど,"I see, I see."
+4901032160060,めぐる,"わたしも気になることがあるし……
+屋敷の中を調べてみようかな──","I have some things I'd like to take a look at too... 
+I guess I'll investigate the rooms around the mansion."
+0000000000000,off,20XX年 XX月 XX日 午前,"Year 20XX Month XX Day XX, noon."
+0000000000000,弟子,"（ん……？
+この声は…………）",(Hm...? This voice...)
+4901032160070,千雪,そんなことがあったなんて、知らなかったな……,"So something like this happened, I never knew..."
+4901032160080,千雪,"教えてくれてありがとう
+甘奈ちゃん、甜花ちゃん","Thank you for telling me about it, 
+Amana-chan, Tenka-chan."
+4901032160090,甘奈,あ、お弟子さん！,"Ah, Mr. Disciple!"
+4901032160100,甘奈,"ちょうどよかった！
+今、千雪さんに状況を伝えてたところだったんだよ","Great timing! 
+We were just filling in Chiyuki-san on what happened."
+4901032160110,甜花,"うん……
+甜花となーちゃんも……現場、見てきた……","Yep...
+Tenka and Naa-chan... visited the crime scene as well..."
+4901032160120,甘奈,"千雪さん、ロビーであさひちゃんたちとお話してたから
+その間にちょっとね……！","You were talking to Asahi-chan and the others 
+in the lobby so, in the meantime...!"
+4901032160130,甘奈,"……『Ａ』のジャケットを調べてたら、
+中にあったメモの字が、にじんでることに気がついたの","...When we looked into A's jacket, we found a note 
+with its writings smudged."
+4901032160140,甜花,"あ……絨毯も……
+なんか……染みてた……","Ah... the carpet too...
+It was a little... soaked..."
+4901032160150,甜花,"血と……
+水っぽいもので……","With blood...
+And some sort of liquid..."
+4901032160160,甜花,"あと……
+散らかった本も……","And... 
+The books scattered as well..."
+4901032160170,甘奈,絨毯も本も、遺体のそばのだけが濡れてた,"Only the parts of the carpet and books that were 
+closest to the body were soaked..."
+4901032160180,甘奈,だからね、甘奈たち言ってたの,That's why we were saying that...
+4901032160190,甘奈,"もしかすると『Ａ』の遺体はしばらく、
+雨に打たれてたんじゃないかな？　って……","Perhaps,
+A's body was left against the rain for a while."
+0000000000000,弟子,"なるほど……
+そうなると……","I see...
+In that case..."
+select,,"『Ａ』はまだ
+生きていた？",Is A still alive?
+select,,遺体は外にあった？,"The corpse was 
+left outside?"
+select,,誰かが遺体を動かした？,"The corpse 
+was moved?"
+4901032160290,甜花,……！,...!
+4901032160300,千雪,それだけの力があったなら……,"If only we had the ability to 
+make that happen..."
+4901032160310,千雪,"『Ａ』ならダイイングメッセージとか……
+残してくれるんじゃないかな？",Would A have left a dying message for us...?
+4901032160320,甘奈,"えっとね、甘奈、
+『Ａ』は即死だって聞いた気がするかな？","Uhmm, Amana heard that A suffered from 
+a sudden death, I think?"
+4901032160330,甘奈,"『Ａ』の遺体、
+最初は天窓の下にあったのかも？",Maybe A's body was beneath the roof window at first?
+4901032160220,甜花,"じゃあ……
+外から遺体を入れた、ってこと……？","So...
+They moved the body into the room, from outside...?"
+4901032160230,甜花,"……それは……
+難しそう……","...That...
+Seems kind of complicated..."
+4901032160240,甘奈,"ドアからだと、カメラに映っちゃいそうだし……
+血痕や道具の後始末も大変そう","They'd be caught on camera if they went through the door...
+Cleaning up the blood trail and discarding the weapons 
+seems tough in that case as well."
+4901032160250,甜花,"天窓から遺体、吊るしたり……
+落としても……","Even if they rappelled... 
+Or dropped the body from the roof..."
+4901032160260,甜花,"遺体に……
+痕、残るよね……","The corpse would...
+Show signs of that, right..."
+4901032160270,甘奈,うん……,Yeah...
+4901032160280,甘奈,"『Ａ』の遺体は
+最初は雨が降り込む、天窓の下にあったのかも……？","What if A's body was beneath the roof window at first, 
+where the rain is falling through?"
+4901032160200,甘奈,うん……,Right...
+4901032160210,甘奈,"『Ａ』の遺体は元々
+天窓の下にあったのかも……","A's body might have been beneath 
+the roof window at first..."
+4901032160340,千雪,"……だとすると、
+どうして犯人は『Ａ』の遺体を動かしたのかな……","...If that was the case, 
+I wonder why would the culprit move A's body..."
+4901032160350,千雪,なんの理由もなく、そんなことはしないと思うの,"It's unlikely to think that they'll do that without 
+any reason."
+4901032160360,甜花,"……えと……
+雨に打たせて、身体を冷やすため……とか……？","...Um...
+To wet the body with the rain... to cool it...?"
+4901032160370,甘奈,"身体を冷やせば、
+死亡推定時刻をずらせそうな気がするよね……","Maybe they wanted to falsify the time of A's death 
+by cooling the body with the rain..."
+0000000000000,弟子,（そうかもしれないが……）,"(That's possible, but...)"
+0000000000000,弟子,"（ん……何か引っかかるな……
+だとすると、しなくていいことがあった気がする……）","(Hm... Something feels off...
+If that was the case, it feels like they could have opted 
+for other ways to do so...)"
+0000000000000,弟子,…………,......
+4901032160380,甜花,そ、そういえば……,B-By the way...
+4901032160390,甜花,"千雪さん……
+昨日の夜のこと……ご、ごめんなさい……","Chiyuki-san...
+I-I'm sorry... about what happened yesterday..."
+0000000000000,弟子,何かあったのでしょうか……？,Did something happened...?
+4901032160400,甘奈,"昨日の夜、９時半ごろと10時半過ぎに、
+甘奈たちは千雪さんと台所で会ってたの","Yesterday night, at about 9:30pm and after 10:30pm, 
+we bumped into Chiyuki-san in the kitchen."
+4901032160410,千雪,はい、９時半ごろにふたりがキッチンに来たので……,"Right. The 2 of them came to the kitchen at around 
+9:30pm..."
+4901032160420,千雪,"１時間もしたらクッキーが焼けるからおいで、って
+ティータイムにお誘いしたんです","I told them that the cookies would be baked if they 
+came back in an hour and we could all have tea together."
+4901032160430,甘奈,"９時半にキッチンに行ったのは
+ふたりでココアを飲もうと思ったからなんだけど","We visited the kitchen at 9:30pm to make some 
+hot chocolate but..."
+4901032160440,甜花,"甜花……
+冷蔵庫からミルク、出したら……","When Tenka...
+Took the milk out of the refrigerator..."
+4901032160450,甜花,すっごく冷たくって、びっくりして……,"It was super cold, it scared me..."
+4901032160460,甜花,"そしたら、なんか踏んじゃって……
+棚からいろんなものも、落ちてきて……","Then, I stepped on something...
+And things started falling off the shelves..."
+4901032160470,甘奈,"ミルクも甘奈と甜花ちゃんの服にかかって、
+大変だったんだよね","The milk splashed all over both of us.
+It was a whole mess."
+4901032160480,甘奈,"でも、千雪さんが『あとで一緒に片づけておくから
+大丈夫』って言ってくれて……","But, Chiyuki-san said ""Don't worry, I'll clean it 
+all up at one go""..."
+4901032160490,千雪,"ふふっ、素敵なお洋服だったんだもの
+しみになっちゃったら大変でしょう？","Fufu, they were some lovely clothes after all. 
+It'd be a waste to leave them stained, right?"
+4901032160500,千雪,お洋服、ランドリーコーナーでちゃんと洗ったかな？,"Did you manage to get them cleaned at 
+the laundry room?"
+4901032160510,甘奈,"夜のうちに洗っておいたよ！
+心配してくれてありがと、千雪さん！","We left them to run overnight!
+Thanks for looking out for us, Chiyuki-san!"
+4901032160520,甜花,"あぅ……
+ほ、ほんとに……ごめんなさい……","Augh...
+W-We're really... sorry..."
+4901032160530,甜花,"そ、それに……甜花たちが一緒にいれば……
+千雪さんのアリバイも、証明できたのに……","B-Besides... If Tenka and Amana had stayed...
+We would have been able to serve as Chiyuki-san's alibi..."
+4901032160540,千雪,大丈夫,Don't worry about it.
+4901032160550,千雪,"クッキーがオーブンの中にいる間、私……
+お部屋でお風呂に入ってたりもしてたの","When the cookies were in the oven, I...
+Went back to my room to get a shower too."
+4901032160560,甘奈,"10時半に会った時は
+パジャマに着替えてたね","You were in pajamas when we met up 
+at 10:30pm after all."
+4901032160570,千雪,"寝る前の甘いものは、いけないけど……
+だからこそ、美味しく感じちゃうのよね","They say having a sweet snack before bed isn't good 
+but... I suppose it's a guilty pleasure."
+0000000000000,弟子,大崎甜花さん,Tenka Oosaki-san.
+0000000000000,弟子,"転がったものを踏んでしまったそうですが、
+ケガなどはありませんでしたか？",Were you hurt when you slipped?
+4901032160580,甜花,う、うん……,N-No...
+4901032160590,甜花,"大丈夫……
+ガムシロップ、だったし……","I'm fine...
+It was just some syrup..."
+4901032160600,甜花,"踏んじゃって……
+飛び散っちゃったけど……","I stepped on it...
+It became a whole mess, though..."
+0000000000000,弟子,"（このキッチン……
+夕べはいろいろ大騒動だったんだな……）","(This kitchen...
+It sure was lively last night, huh...)"
+4901032160610,甘奈,"クッキーもらいに来た時は、ロビーで他の人を待たせてて
+あんまりお礼言えなかったから","We kept a lot of people waiting at the lobby, 
+so we didn't have time to say our thanks properly."
+4901032160620,甘奈,今、こうして来てたんだ,And now we're here.
+0000000000000,弟子,そうだったんですね,So that's what happened.
+0000000000000,弟子,"……しかし、
+ミルクが異様に冷たかったというのは気になりますね","...Though, I am curious about the unusually chilled 
+milk in the refrigerator."
+0000000000000,弟子,こちらの冷凍庫には何も入れていないはずですし……,"There isn't supposed to be anything in 
+this refrigerator after all..."
+0000000000000,弟子,冷蔵庫の調子が悪いんでしょうか？,Is the refrigerator not working well?
+4901032160630,甘奈,"甘奈もそうかな、って思ったんだけど……
+さっき調べてみたら、冷えムラとかはなかったよ","I thought that too...
+So I checked the refrigerator, but it didn't seem like 
+there were any temperature imbalances..."
+4901032160640,甜花,"でも……すっごく、冷たかったよ……
+氷より冷たいくらい……","But... It was super cold...
+Colder than touching ice..."
+4901032160650,千雪,"不思議ね
+凍ったものが入ってたわけでもないのに……","That's strange.
+It's not like there were frozen foods in there..."
+4901032160660,甘奈,"うん、ミルクの隣にはコーラのペットボトルが入ってたけど
+凍ってなかったのは覚えてる……","Yep. Beside the milk were bottles of cola but,
+they weren't frozen or anything..."
+0000000000000,弟子,……ありがとうございます,...Thank you very much.
+0000000000000,弟子,"また何か、わからないことがあったら
+お話を聞かせていただいてもいいですか？",Can I ask you more questions later?
+4901032160670,千雪,"もちろんです！
+よろしくお願いしますね……！","Of course!
+I'll answer them to the best of my ability...!"
+info,special_communications/490103216.json,
+Translator,OrangeKabocha,

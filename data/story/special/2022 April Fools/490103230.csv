@@ -1,0 +1,79 @@
+id,name,text,trans
+0000000000000,弟子,"犯人は、桑山千雪さん
+あなたです","The culprit is you.
+Chiyuki Kuwayama-san."
+4901032300010,千雪,私が、犯人……？,I'm... the culprit...?
+4901032300020,千雪,お弟子さん、冗談はやめてください,"Mr. Disciple, this joke isn't funny."
+0000000000000,弟子,残念ながら、冗談ではないんです,"Unfortunately, I'm not making a joke here."
+0000000000000,弟子,"そうですよね、和泉さん
+あなたは彼女から、鍵を受け取ったはずだ","Isn't that right, Izumi-san? 
+The key... you got it from her, didn't you?"
+4901032300030,愛依,…………,...
+4901032300040,千雪,"……私を名指しするからには、
+それなりの理由があるんですよね？","...To accuse me with such confidence, 
+surely you have a convincing reason for that, no?"
+0000000000000,弟子,はい,Yes.
+4901032300050,千雪,"それなら……
+じっくり、伺わせていただきたいと思います♪","In that case... 
+Please entertain my questions ♪"
+4901032300060,千雪,"私は犯人ではないので……
+あなたのお話には、無理が出てくるはず","Though, I'm sure you won't be able to present 
+a substantial theory. 
+That's because, I'm not the culprit..."
+0000000000000,弟子,"（肝が据わっているな……
+さすがにこの状況で『Ａ』を殺しただけある……）","(How tough...
+As expected of someone who could murder A...)"
+0000000000000,弟子,……わかりました,...Understood.
+0000000000000,弟子,まず、第一に,"Well then, firstly."
+0000000000000,弟子,"死亡推定時刻に
+アリバイがない７人の中の１人であること","You're someone among the 7 people in this room
+who doesn't have an alibi during A's time of death."
+4901032300070,千雪,"ふふっ……そうですね
+それから？","Fufu... I see.
+And then?"
+0000000000000,弟子,21時半まで台所にいたことです,You were in the kitchen up till 9:30pm.
+4901032300080,千雪,"ガムシロップ、エコバッグ
+それに、過冷却で凍ったペットボトル……","Using the syrup, eco bag, and supercooled bottles..."
+4901032300090,千雪,"台所にいた私が一番怪しい、というのはわかりますけど……
+それは少し雑じゃありません？　お弟子さん","It's reasonable for you to suspect me as I was in 
+the kitchen... Though, doesn't your reasoning sound 
+a little lacking? Mr. Disciple."
+0000000000000,弟子,"台所にいたからだけではありません
+先ほどご説明いたしました通り……","It's not just because you were in the kitchen. 
+As I explained earlier..."
+0000000000000,弟子,"このトリックでは、
+凍らせたペットボトルが必要になります","To pull this off, frozen bottles are required."
+4901032300100,千雪,そうですね……？,I see...?
+0000000000000,弟子,"八宮さんと有栖川さん、
+ふたりは死亡推定時刻の間、ずっと外にいました","During the time of death, both Hachimiya-san and 
+Arisugawa-san were outside the mansion."
+0000000000000,弟子,"そして、本棟にある台所に行けていない
+過冷却用の冷蔵庫からボトルを取り出せないんです","So, since the both of them were not within the main tower where 
+the kitchen is, they won't be able to retrieve the supercooled 
+bottles from the special refrigerator."
+4901032300110,千雪,……証拠はあるんでしょうか？,...Do you have any proof for that?
+0000000000000,弟子,屋敷の他の出入り口は全て施錠されています,All other entrances and exits to the mansion are locked.
+0000000000000,弟子,"屋敷の周りを確認しましたが、
+窓から侵入したような形跡もありませんでした","I looked around the the outsides of the mansion as well 
+and found no signs of intrusion."
+0000000000000,弟子,"外から戻って本棟の台所に向かうには、
+芹沢さんのカメラに映らなくてはならない……","Besides, one would be caught on Serizawa-san's camera 
+if they were to enter the mansion and head towards the kitchen."
+0000000000000,弟子,でも、ふたりの姿は記録されていない,"However, there was no such footage."
+4901032300120,透,そうだったね……,That's true...
+4901032300130,めぐる,"外で有栖川さんと会えてたら
+もっと色々わかるのにって思ってたけど……","I thought maybe if I met Arisugawa-san when we were 
+both outside the mansion, it would have cleared things up..."
+4901032300140,めぐる,そっか、そういう考え方をすればいいんだね,"But, I didn't think of it that way. I see."
+4901032300150,冬優子,それって、ふゆたちにも同じことが言えますね……？,"So, the same can be said for Fuyu and the others, right...?"
+0000000000000,弟子,はい,That's right.
+0000000000000,弟子,"黛さん、浅倉さんも八宮さん方と同様……
+客室棟からキッチンに行っていない、即ちシロです","Mayuzumi-san, Asakura-san and Meguru-san... 
+Since the 3 of you were in your respective rooms and were 
+not caught heading towards the kitchen, you're in the clear."
+0000000000000,弟子,残りは緋田さん、幽谷さん、桑山さんになるわけですが……,"The remaining 3 are Aketa-san, Yukoku-san and Kuwayama-san..."
+0000000000000,弟子,"緋田さんは違います
+その理由は──","However, the culprit isn't Aketa-san. 
+That's because──"
+info,special_communications/490103230.json,
+Translator,OrangeKabocha,

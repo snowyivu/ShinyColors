@@ -3,7 +3,8 @@ id,name,text,trans
 何人かいたよね？","There were several people that took photos and videos
 before and after the incident happened, right?"
 4901032130020,にちか,"私と美琴さんで、それを集めて何か情報が出ないか
-調べてみようと思ってるんです",Mikoto and I are thinking of putting all of those together to decipher more clues.
+調べてみようと思ってるんです","Mikoto and I are thinking of putting all of those together 
+to decipher more clues."
 4901032130030,にちか,"お弟子さん、動画とか得意ですか？
 倍速再生の仕方とかわかります？","Are you familiar with videos, Mr. Disciple?
 Do you know how to adjust the playback speed of videos?"
@@ -21,8 +22,8 @@ I'll take a look at it later."
 One step into a girl's room and your eyes are already everywhere. 
 That's kinda creepy, you know..."
 0000000000000,弟子,"いや、テーブルの上に乗ってるペットボトル
-凍らせてるのかな、って思ったんですよ","No, I was just thinking whether that bottle on the table there's 
-been cooled recently or something."
+凍らせてるのかな、って思ったんですよ","No, I was just thinking whether that bottle on the table 
+there's been cooled recently or something."
 0000000000000,弟子,冷凍庫には何も入れてなかったと思うんですが……,I don't think anything's been put into refrigerator though...
 4901032130060,美琴,『Ａ』の冷蔵庫から一本いただいてきたの,I was given a bottle from A's refrigerator.
 4901032130070,美琴,"凍ってるのは……
@@ -31,25 +32,30 @@ It's the process of supercooling."
 0000000000000,弟子,過冷却……ですか？,Supercooling... you say?
 4901032130080,にちか,『Ａ』の弟子なのに知らないんですか～？,You're A's disciple and you don't know this～?
 4901032130090,にちか,"過冷却っていうのは、凝固点以下の温度になっても
-液体のままでいる状態なんですよー",Supercooling is the process of lowering a liquid below it's freezing point without turning it into a solid.
+液体のままでいる状態なんですよー","Supercooling is the process of lowering a liquid below it's 
+freezing point without turning it into a solid."
 4901032130100,にちか,そこに衝撃を与えたりすると、一気に凍るんです,"And when the liquid is struck, it'll instantly freeze."
 0000000000000,弟子,へえ……そういうこともあるんですね,Huuh... You can do something like that huh...
 4901032130110,美琴,"夏になると、これを利用したコーラやビールが
-売られることもあるみたい","Apparently, supercooled bottles of cola and beer are sold during summer too."
+売られることもあるみたい","Apparently, supercooled bottles of cola and beer are sold 
+during summer too."
 0000000000000,弟子,……機会があれば、飲んでみたいですね,...It'd be nice to try that sometime.
 4901032130120,美琴,"そうだ
 映像と動画を整理していたんだけど……","Oh right.
-I understand that we're here to put together the photos and video footage but..."
+I understand that we're here to put together the photos 
+and video footage but..."
 4901032130130,美琴,"ちょっと気になるところがあって
 これ、見て","There's something I'm a little curious about.
 Take a look at this."
 0000000000000,弟子,かしこまりました,Understood.
 0000000000000,弟子,これは…………？,This is......?
 4901032130140,にちか,"西城さんがうっかり録画モードにしたまま、
-その辺の廊下に置きわすれてたカメラの映像らしいです","This is footage from Saijo-san's phone. 
-Apparently, she left her it somewhere along the hallway with the camera rolling by accident."
+その辺の廊下に置きわすれてたカメラの映像らしいです","This is footage from Saijo-san's camera. 
+Apparently, she left her it somewhere along the hallway 
+with it rolling by accident."
 4901032130150,にちか,"和泉さんが向かった先、
-『Ａ』の部屋がありますよね？","Izumi-san was headed in the direction where A's room was, right?"
+『Ａ』の部屋がありますよね？","Izumi-san was headed in the direction where A's room 
+was, right?"
 0000000000000,弟子,…………,...
 0000000000000,弟子,確かに、そうですが……,"You're right, but..."
 select,,"時刻を
@@ -69,11 +75,12 @@ we can conclude that she's not the murderer, no?"
 4901032130170,美琴,そうかな？,You think so?
 4901032130180,美琴,"彼女、この前の時間帯にはアリバイがあるし……
 ひとりでうろついていても不思議じゃないと思うけど","She's got an alibi for when the murder happened...
-And, it isn't strange for her to wander around the mansion as well."
+And, it isn't strange for her to wander around the 
+mansion as well."
 0000000000000,弟子,（確かに、それもそうか……）,(She's right...)
 4901032130190,にちか,"廊下にもいろいろ飾り付けがしてありますからねー
-置いた時にまぎれちゃったとかでしょうか？","There's lots of decorations around the hallways after all.
-Maybe they got messed up somehow?"
+置いた時にまぎれちゃったとかでしょうか？","There's lots of decorations around the hallways 
+after all. Maybe they got messed up somehow?"
 4901032130200,美琴,"ロビーも暖炉とか……
 それらしいものがいっぱいあるから","There was a fireplace at the lobby too...
 Lots of stuff around the mansion like that."
@@ -111,10 +118,12 @@ Unless they had the key themselves..."
 4901032130310,美琴,"現場の写真を見せてもらった時に気になったのは……
 『Ａ』の傷が思ったより広かったこと","when I was shown a photo of the crime scene...
 I realised that the scar on A was strangely large."
-4901032130320,美琴,だから、凶器はそれなりに大きなものなんじゃないかな,"So I though, perhaps, the weapon used against A must've been fairly large."
+4901032130320,美琴,だから、凶器はそれなりに大きなものなんじゃないかな,"So I though, perhaps, the weapon used against A must've 
+been fairly large."
 4901032130330,にちか,ええ,Indeed.
 4901032130340,にちか,"そんな大きな凶器、どう始末したんだろうって
-美琴さんと言ってたんです","How did they procure such a large weapon, was what Mikoto and I were discussing earlier."
+美琴さんと言ってたんです","How did they procure such a large weapon, was what 
+Mikoto and I were discussing earlier."
 0000000000000,弟子,"なるほど……
 ありがとうございます","I see...
 Thank you very much."

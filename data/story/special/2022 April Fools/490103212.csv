@@ -10,8 +10,8 @@ id,name,text,trans
 Did ya manage to find medicine or something like that?"
 4901032120050,霧子,うん……,Yeah...
 4901032120060,霧子,"お弟子さんに声をかけようかと思ったんですけど、
-ちょうど入れ違ってたみたいで……","I was about to ask Mr. Disciple about it, but we happened to find 
-one that was misplaced..."
+ちょうど入れ違ってたみたいで……","I was about to ask Mr. Disciple about it, but we happened 
+to find one that was misplaced..."
 4901032120070,果穂,"幽谷さんは、あたしが熱を出すかもって
 毛布を持ってきて、ずっと一緒にいてくれました！","Yukoku-san thought I was going to get a fever,
 so she brought a towel and stayed with me the whole time!"
@@ -44,24 +44,33 @@ she could've used it as her alibi."
 0000000000000,弟子,あまりこういうことは言いたくないのですが……,I hate to say things like this but...
 0000000000000,弟子,"アリバイのない７人を
 １人で行動させないようにした方がいいでしょう","For the 7 of you who don't have an alibi...
-I'd appreciate if you refrain from being by yourselves from now on."
+I'd appreciate if you refrain from being by yourselves 
+from now on."
 4901032120210,千雪,"それぞれのお部屋や、所持品も……
-初対面の人同士で調べあった方がよさそうです",I think it'd be better to have the detectives who've had no contact with the 7 of us check on our rooms and personal belongings...
+初対面の人同士で調べあった方がよさそうです","I think it'd be better to have the detectives who've had 
+no contact with the 7 of us check on our rooms and 
+personal belongings..."
 4901032120220,夏葉,"……そうね
 どちらも妥当な判断だと思うわ","...Right.
 I think both ideas are reasonable."
 4901032120230,夏葉,"でも、私もそろそろ調査に向かいたいの
 真犯人を見つけて、無実を証明するためにもね","But, I'd like to continue with my investigations soon.
-The sooner we catch the perpetrator, the sooner we'll get answers."
+The sooner we catch the culprit, the sooner we'll 
+get answers."
 4901032120240,智代子,"お部屋と所持品の確認が終わったら、
 みんなで手分けして色々調べましょう！","After we've inspected the rooms and personal belongings 
-of the 7 without an alibi, let's gather again and continue our search!"
+of the 7 without an alibi, let's gather again and continue 
+our search!"
 0000000000000,弟子,（部屋の調査を終えたところで……）,(After investigating each room...)
 0000000000000,弟子,"（話し合って、有栖川夏葉たちは凶器について、
-緋田美琴たちは犯行時刻の絞り込みについて）","(They continue their discussions; Natsuha Arisugawa and others discuss the possible weapons used, while Mikoto Aketa and others try to deduce the time of A's death.)"
-0000000000000,弟子,（浅倉透たちは動機について調べることになった）,(Toru Asakura and some others discuss the possible motivations of the perpetrator.)
+緋田美琴たちは犯行時刻の絞り込みについて）","(They continue their discussions; Natsuha Arisugawa 
+and others discuss the possible weapons used, while 
+Mikoto Aketa and others try to deduce the time of A's death.)"
+0000000000000,弟子,（浅倉透たちは動機について調べることになった）,"(Toru Asakura and some others discuss the possible motivations 
+of the perpetrator.)"
 0000000000000,弟子,"（桑山千雪、八宮めぐる、和泉愛依はそれぞれ、
-屋敷の中を調べてみることにしたようだ）","(Chiyuki Kuwayama, Meguru Hachimiya and Mei Izumi leaves to investigate the mansion.)"
+屋敷の中を調べてみることにしたようだ）","(Chiyuki Kuwayama, Meguru Hachimiya and Mei Izumi 
+leaves to investigate the mansion.)"
 0000000000000,弟子,（俺も、ぼうっとしてはいられないな──）,"(I, too, will soon have to make my move.)"
 info,special_communications/490103212.json,
 Translator,OrangeKabocha,

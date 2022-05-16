@@ -2,28 +2,35 @@ id,name,text,trans
 0000000000000,off,20XX年 XX月 XX日 07:19,"Year 20XX Month XX Day XX, 07:19."
 4901032080010,結華,……,...
 4901032080020,結華,"他の部屋と同じ鍵と、パスワード入力式の鍵……
-ふたつ使われてるんだね","Looks like the room uses both a physical lock like every other room,
-and a password lock."
+ふたつ使われてるんだね","Looks like the room uses both a physical lock like 
+every other room, and a password lock."
 0000000000000,弟子,本当のマスターキーを持っているのは『Ａ』ですが……,The master key is with A but...
 0000000000000,弟子,"パスワード入力式の鍵を
-彼はこの部屋に増設したみたいですね……",It seems like the perpetrator entered the room with the password...
+彼はこの部屋に増設したみたいですね……","It seems like the culprit entered the room with 
+the password..."
 0000000000000,弟子,それでは、開けます──,"Alright, I'm opening it──"
 0000000000000,弟子,"（伝えられた暗証番号で隠し部屋の鍵を開ければ、
 生臭い匂いが鼻腔を突き刺す）","(As I opened the door with the password, 
 the stench of a fresh corpse seeped into our noses.)"
 0000000000000,弟子,"（きちんとあるべき場所に収まっていたであろう
 ゴルフクラブやトロフィーなどが散乱し、酷い有り様だ）","(What was once a neat and proper room was now trashed
-with golf clubs and trophies strewn everywhere, making a horrible mess of the room.)"
+with golf clubs and trophies strewn everywhere, 
+making a horrible mess of the room.)"
 0000000000000,弟子,"（天井近くまでディスプレイされている
-様々なレコードやＣＤには、手がつけられた様子はない）","(The various records and CDs hung near the ceiling did not seem to be tampered with, however.)"
+様々なレコードやＣＤには、手がつけられた様子はない）","(The various records and CDs hung near the ceiling 
+did not seem to be tampered with, however.)"
 0000000000000,弟子,"（その中で、俺の師である『Ａ』は、
 部屋の中央に仰向けになって横たわっている──）","(And in the middle of the room laid my former master, A, 
 left lying on his back.)"
 4901032080030,咲耶,状況的に、物盗りのようにも見えるけれど……,"At a glance, it seems like a burglary but..."
 4901032080040,結華,"わざわざ探偵が集まってる状況で人殺しをする目的が、
-物盗りっていうのもねぇ……",It's a little hard to believe that the perpetrator's objective is simply theft when murder's involved in a space with many prolific detectives...
+物盗りっていうのもねぇ……","It's a little hard to believe that the perpetrator's objective 
+is simply theft when murder's involved in a space with 
+many prolific detectives..."
 4901032080050,結華,"なんでそんな難しいことするの？　って感じでしょ
-予告出してから盗む『怪盗２８３』じゃあるまいし","It's like a ""Why would you go to this extent?"" kinda deal. It doesn't seem like it's the work of the ""Phantom Thief 283"" as well."
+予告出してから盗む『怪盗２８３』じゃあるまいし","It's like a ""Why would you go to this extent?"" kinda deal. 
+It doesn't seem like it's the work of the ""Phantom Thief 283"" 
+as well."
 4901032080060,摩美々,"……あ
 スマートウォッチ、壊されてる","...Ah.
 The smartwatch is broken."
@@ -40,11 +47,14 @@ Is that alright?"
 お願いします","Yes...
 Please do."
 4901032080110,摩美々,"それじゃー私も
-気になるところ、調べようかなぁ","Then, I'll go look around some parts of the room that I'm curious about."
+気になるところ、調べようかなぁ","Then, I'll go look around some parts of the room 
+that I'm curious about."
 4901032080120,摩美々,"──お弟子さん、犯人っぽい人がいないか
-見張っててくださいねー？","──Mr. Disciple, please keep your eyes out for anyone who looks like they could be the murderer, alright?"
+見張っててくださいねー？","──Mr. Disciple, please keep your eyes out for anyone 
+who looks like they could be the murderer, alright?"
 4901032080130,摩美々,"誰が犯人か、
-まだ絞れてもいないんでー","We haven't narrowed down who the murderer might be, after all.."
+まだ絞れてもいないんでー","We haven't narrowed down who the murderer 
+might be, after all.."
 0000000000000,弟子,"心苦しいですが……
 そうですね、わかりました……","It pains my heart to do so but...
 Understood. I'll keep a lookout."
@@ -53,9 +63,11 @@ Understood. I'll keep a lookout."
 0000000000000,弟子,……はい,...Right.
 0000000000000,弟子,"（幽谷霧子と白瀬咲耶は『Ａ』の遺体を……
 三峰結華と田中摩美々は部屋の様子を……）","(Kiriko Yukoku and Sakuya Shirase are inspecting A's body...
-while Yuika Mitsumine and Mamimi Tanaka are looking around the room...)"
+while Yuika Mitsumine and Mamimi Tanaka are 
+looking around the room...)"
 0000000000000,弟子,"（月岡恋鐘は
-クローゼットや引き出しの中を見ているようだ……）",(Kogane Tsukioka seems to be checking the closets and drawers...)
+クローゼットや引き出しの中を見ているようだ……）","(Kogane Tsukioka seems to be checking 
+the closets and drawers...)"
 0000000000000,弟子,（さて、俺はどうするか……）,"(Now, what should I do...)"
 info,special_communications/490103208.json,
 Translator,OrangeKabocha,

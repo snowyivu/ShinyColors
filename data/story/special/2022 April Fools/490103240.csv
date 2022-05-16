@@ -1,0 +1,60 @@
+id,name,text,trans
+select,,"『Ａ』の部屋の
+場所を知らない","She doesn't 
+know where 
+A's room is"
+select,,"犯行可能な時間が
+15分しかない","She only had
+15 minutes to 
+commit the crime"
+select,,"夕食時と
+変わりなかった","She didn't seem 
+any different 
+from dinnertime"
+4901032400030,美琴,無罪を主張してくれる人に言うのもなんだけど……,"I'm sorry to say this when someone's proving 
+my innocence, but..."
+4901032400040,美琴,"私、謎を解いて
+夜の１時に『Ａ』の部屋に行ったの","I actually figured it out and went to A's room 
+at 1am in the morning."
+4901032400050,美琴,"声をかけても返事がないから、
+そのまま部屋に戻ったんだけど……","I called out at the door however, I didn't get any 
+response. So I went back to my room..."
+0000000000000,弟子,"（何人か『Ａ』の部屋に向かった探偵たちがいたが……
+謎解きになっていたのか？）","(Several detectives managed to figure out where 
+A's room is... Was there a puzzle or something?)"
+0000000000000,弟子,（いや、今はそれを考えている場合じゃないな……）,"(No, this isn't the time to be thinking about that...)"
+0000000000000,弟子,"…………失礼しました
+他にも理由はあります","...My apologies. 
+Allow me to state another reason."
+4901032400060,千雪,わあ、ごまかした,"Wow, he tricked us."
+4901032400020,千雪,"それが、不可能につながるんです？
+ちょっとわからないな、私","And that rules her out? 
+Well, I don't know about that."
+0000000000000,弟子,"…………失礼しました
+他にも理由はあるんですが……","...My apologies. 
+Allow me to state another reason..."
+4901032400010,千雪,"それだけ？
+大胆な性格なのかもしれませんよ？","That's all? 
+She might just be a huge risk-taker, you know?"
+0000000000000,弟子,"いいえ……
+これこそが彼女に犯行が不可能な理由なんです","No... 
+This is exactly why she isn't the culprit."
+0000000000000,弟子,"天窓からアンプル、ファイルを持って脱出したなら
+服が濡れるか、雨具を持っているかしなくてはいけない","Unless she had a raincoat, there was no way she 
+could have brought the ampules and files with her 
+through the roof window without getting soaked."
+0000000000000,弟子,だが、緋田さんにそんな様子はなかった……,"However, Aketa-san seemed no different from dinnertime."
+0000000000000,弟子,"それに、緋田さんの靴のサイズは
+犯人のものらしき靴跡と違うように思われます","Besides, the size of the footprints seemed different 
+from Aketa-san's."
+4901032400070,千雪,"いいでしょう
+では、幽谷さんは？","That's reasonable, I suppose. 
+Then, what about Yukoku-san?"
+0000000000000,弟子,彼女もまた、犯人ではありません……,She isn't the culprit as well...
+4901032400080,千雪,なぜそう言いきれるんでしょう,And what makes you so sure?
+0000000000000,弟子,（…………？）,(...?)
+4901032400090,透,お弟子さん、どうかした……？,"Mr. Disciple, what's wrong...?"
+0000000000000,弟子,いえ、……ちょっと,No... It's just...
+0000000000000,弟子,…………,...
+info,special_communications/490103240.json,
+Translator,OrangeKabocha,
