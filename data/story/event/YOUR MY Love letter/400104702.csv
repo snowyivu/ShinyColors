@@ -1,211 +1,211 @@
 id,name,text,trans
-0000000000000,コンビニ店員,新生活に胸を踊らせていたけれど,"I was excited about my new life, but"
-0000000000000,コンビニ店員,あっという間に忙しさに飲まれた,all the hustle and bustle swallowed me up in the blink of an eye.
-0000000000000,コンビニ店員,勉強とバイトの繰り返し,Studying and working part-time
-0000000000000,コンビニ店員,余裕はないのに単調である,is a monotonous cycle with no room to breathe.
-0000000000000,コンビニ店員,大学生活をエンジョイしているやつらとは,I don't live in the same rhythm
-0000000000000,コンビニ店員,生活リズムが合わない,as those who are enjoying college life.
-0000000000000,コンビニ店員,友達とも疎遠になった,I drifted away from my friends.
-0000000000000,コンビニ店員,大変だけど、つらいとは言いたくない,"It sucks, but I don't want to admit so."
-0000000000000,コンビニ店員,慣れの問題だ,I just have to get used to it.
-0000000000000,コンビニ店員,あれ、店長……,"Oh, manager..."
-0000000000000,店長,"おー
+game_event_communications4001047023,コンビニ店員,新生活に胸を踊らせていたけれど,"I was excited about my new life, but"
+game_event_communications4001047024,コンビニ店員,あっという間に忙しさに飲まれた,all the hustle and bustle swallowed me up in the blink of an eye.
+game_event_communications40010470211,コンビニ店員,勉強とバイトの繰り返し,Studying and working part-time
+game_event_communications40010470212,コンビニ店員,余裕はないのに単調である,is a monotonous cycle with no room to breathe.
+game_event_communications40010470215,コンビニ店員,大学生活をエンジョイしているやつらとは,I don't live in the same rhythm
+game_event_communications40010470216,コンビニ店員,生活リズムが合わない,as those who are enjoying college life.
+game_event_communications40010470219,コンビニ店員,友達とも疎遠になった,I drifted away from my friends.
+game_event_communications40010470223,コンビニ店員,大変だけど、つらいとは言いたくない,"It sucks, but I don't want to admit so."
+game_event_communications40010470224,コンビニ店員,慣れの問題だ,I just have to get used to it.
+game_event_communications40010470228,コンビニ店員,あれ、店長……,"Oh, manager..."
+game_event_communications40010470229,店長,"おー
 お疲れ様！","Hey.
 Good evening!"
-0000000000000,コンビニ店員,"お疲れ様です
+game_event_communications40010470230,コンビニ店員,"お疲れ様です
 ……今日は店長も一緒ですか？","Good evening.
 ...Are you working with me today?"
-0000000000000,店長,"いやいや！
+game_event_communications40010470231,店長,"いやいや！
 もう帰らせてもらうよ","Nope!
 I'm going home now."
-0000000000000,店長,"休みなしで朝からずっとだったからさ
+game_event_communications40010470232,店長,"休みなしで朝からずっとだったからさ
 もう、くたくた……","I've been here since morning without a break, so.
 I'm exhausted..."
-0000000000000,コンビニ店員,バイトの数、減りましたもんね,"It's because we have fewer people now, right?"
-0000000000000,店長,うん、ずっと募集はかけてるんだけど,"Yeah, although we've been hiring for a long while."
-0000000000000,店長,"君にも悪いね
+game_event_communications40010470233,コンビニ店員,バイトの数、減りましたもんね,"It's because we have fewer people now, right?"
+game_event_communications40010470234,店長,うん、ずっと募集はかけてるんだけど,"Yeah, although we've been hiring for a long while."
+game_event_communications40010470236,店長,"君にも悪いね
 最近はワンオペでお願いしちゃって","I feel bad for you too,
 since we've been asking you to work by yourself lately."
-0000000000000,コンビニ店員,いえ,It's okay.
-0000000000000,店長,新しい人が入ったら調整するから,We'll make adjustments when there are new hires.
-0000000000000,コンビニ店員,"大丈夫ですよ
+game_event_communications40010470237,コンビニ店員,いえ,It's okay.
+game_event_communications40010470238,店長,新しい人が入ったら調整するから,We'll make adjustments when there are new hires.
+game_event_communications40010470239,コンビニ店員,"大丈夫ですよ
 慣れました","Don't worry.
 I'm used to it."
-0000000000000,コンビニ店員,そう、慣れの問題なんだ,"Yeah, it's something I have to get used to."
-0000000000000,コンビニ店員,"繁華街にある店ではないので
+game_event_communications40010470241,コンビニ店員,そう、慣れの問題なんだ,"Yeah, it's something I have to get used to."
+game_event_communications40010470245,コンビニ店員,"繁華街にある店ではないので
 深夜の客は少ない","It's not a downtown restaurant,
 so there aren't many late-night customers."
-0000000000000,コンビニ店員,とはいえ暇ではないけれど,"It doesn't mean I can relax, though."
-0000000000000,店員連絡ノート,『深夜の人へ』,"""To the night shift"""
-0000000000000,店員連絡ノート,『今日はおでんの什器をきれいに洗ってください』,"""Please clean the oden machine today."""
-0000000000000,店員連絡ノート,『乾いたらバックヤードに！』,"""Then put it in the backroom when it's dry!"""
-0000000000000,コンビニ店員,（ああ、おでんの販売は終わりか）,"(Oh, did the oden sales end?)"
-0000000000000,コンビニ店員,（まだ寒いのに）,(Even though the weather is still cold.)
-0000000000000,コンビニ店員,（暦の上では春なんだな）,(I guess the calendar says it's spring already.)
-0000000000000,店内BGM,『────────♪』,"""──────── ♪"""
-4001047020010,店内BGM,『コンビニへご来店のみなさま、こんばんはー』,"""Good evening to all the convenience store shoppers."""
-4001047020011,店内BGM,『アルストロメリアです！』,"""We're Alstroemeria!"""
-4001047020020,店内BGM,『少しずつあたたかくなってきましたね』,"""The weather is warming up a little bit."""
-4001047020030,店内BGM,『でも、まだまだ寒い時もありますので油断は禁物！』,"""But it can be cold sometimes, so don't let your guard down!"""
-4001047020040,店内BGM,『おいしいものを食べて、体力をつけて』,"""Please eat good food and stay active"""
-4001047020050,店内BGM,『素敵な春を迎えましょう』,"""so we can have a wonderful spring."""
-4001047020060,店内BGM,『それでは────』,"""With that being said────"""
-4001047020070,店内BGM,『ご来店のみなさまに、午前０時をお知らせします』,"""Dear customers, this is a reminder that it's midnight."""
-0000000000000,コンビニ店員,（あ……もうそんな時間か）,(Oh... Is it that late already?)
-0000000000000,コンビニ店員,（廃棄処理しないと）,(I should go take stuff off the shelves.)
-0000000000000,コンビニ店員,"０時になったら、
+game_event_communications40010470246,コンビニ店員,とはいえ暇ではないけれど,"It doesn't mean I can relax, though."
+game_event_communications40010470249,店員連絡ノート,『深夜の人へ』,"""To the night shift"""
+game_event_communications40010470251,店員連絡ノート,『今日はおでんの什器をきれいに洗ってください』,"""Please clean the oden machine today."""
+game_event_communications40010470252,店員連絡ノート,『乾いたらバックヤードに！』,"""Then put it in the backroom when it's dry!"""
+game_event_communications40010470255,コンビニ店員,（ああ、おでんの販売は終わりか）,"(Oh, did the oden sales end?)"
+game_event_communications40010470256,コンビニ店員,（まだ寒いのに）,(Even though the weather is still cold.)
+game_event_communications40010470257,コンビニ店員,（暦の上では春なんだな）,(I guess the calendar says it's spring already.)
+game_event_communications40010470260,店内BGM,『────────♪』,"""──────── ♪"""
+game_event_communications40010470262,店内BGM,『コンビニへご来店のみなさま、こんばんはー』,"""Good evening to all the convenience store shoppers."""
+game_event_communications40010470263,店内BGM,『アルストロメリアです！』,"""We're Alstroemeria!"""
+game_event_communications40010470264,店内BGM,『少しずつあたたかくなってきましたね』,"""The weather is warming up a little bit."""
+game_event_communications40010470265,店内BGM,『でも、まだまだ寒い時もありますので油断は禁物！』,"""But it can be cold sometimes, so don't let your guard down!"""
+game_event_communications40010470266,店内BGM,『おいしいものを食べて、体力をつけて』,"""Please eat good food and stay active"""
+game_event_communications40010470267,店内BGM,『素敵な春を迎えましょう』,"""so we can have a wonderful spring."""
+game_event_communications40010470268,店内BGM,『それでは────』,"""With that being said────"""
+game_event_communications40010470269,店内BGM,『ご来店のみなさまに、午前０時をお知らせします』,"""Dear customers, this is a reminder that it's midnight."""
+game_event_communications40010470270,コンビニ店員,（あ……もうそんな時間か）,(Oh... Is it that late already?)
+game_event_communications40010470271,コンビニ店員,（廃棄処理しないと）,(I should go take stuff off the shelves.)
+game_event_communications40010470274,コンビニ店員,"０時になったら、
 バックヤードで廃棄処理をすると決めている","At the stroke of midnight,
 I've decided to take expired products to the backroom."
-0000000000000,コンビニ店員,というのは嘘で,That was a lie.
-4001047020080,店内BGM,『ぴ、ぴ、ぴ、ぴーん』,"""Pi-pi-pi-ping."""
-4001047020090,店内BGM,『今日もいい日になりますように』,"""We hope you will have another good day."""
-4001047020100,店内BGM,『そんな願いを込めた私たちの曲、聞いてください』,"""Please listen to our song, a carrier of that wish."""
-0000000000000,店内BGM,『────♪』,"""────♪"""
-0000000000000,コンビニ店員,"０時になったら、
+game_event_communications40010470275,コンビニ店員,というのは嘘で,That was a lie.
+game_event_communications40010470279,店内BGM,『ぴ、ぴ、ぴ、ぴーん』,"""Pi-pi-pi-ping."""
+game_event_communications40010470281,店内BGM,『今日もいい日になりますように』,"""We hope you will have another good day."""
+game_event_communications40010470282,店内BGM,『そんな願いを込めた私たちの曲、聞いてください』,"""Please listen to our song, a carrier of that wish."""
+game_event_communications40010470285,店内BGM,『────♪』,"""────♪"""
+game_event_communications40010470287,コンビニ店員,"０時になったら、
 バックヤードで休憩すると決めている","At the stroke of midnight,
 I've decided to take a break in the backroom."
-0000000000000,コンビニ店員,椅子にもたれて,I lean back in a chair
-0000000000000,コンビニ店員,ゆっくり羽根を伸ばすんだ,and slowly stretch my wings.
-0000000000000,SNS,『#流星群に似合うアルスト』,"""#Alstro_looks_good_in_a_meteor_shower."""
-0000000000000,SNS,『#利きアルスト』『#バスタイムのアルスト』,"""#Healing_Alstro"" ""#Bathtime_Alstro"""
-0000000000000,SNS,『#小悪魔かわいいアルスト』,"""#Cute_little_devil_Alstro"""
-0000000000000,女子高生,（お……！）,(Oh...!)
-0000000000000,女子高生,（このプレイリストを作った人、わかってるね）,"(Whoever made this playlist, I get what you mean.)"
-0000000000000,ポップアップ,『お気に入りに追加しました』,"""Added to favorites"""
-0000000000000,同級生,あれ……？,Oh...?
-0000000000000,同級生,おつおつー,Hey there.
-0000000000000,女子高生,…………,............
-0000000000000,同級生,あれ？　おーい,Huh? Hellooo.
-0000000000000,女子高生,えっ？ あっ,Eh? Ah.
-0000000000000,同級生,ああイヤホンしてたのか,"Oh, you had your earphones in."
-0000000000000,女子高生,ごめん、気付かなかった,"Sorry, I didn't realize."
-0000000000000,同級生,"あはは、集中してたねー
+game_event_communications40010470288,コンビニ店員,椅子にもたれて,I lean back in a chair
+game_event_communications40010470289,コンビニ店員,ゆっくり羽根を伸ばすんだ,and slowly stretch my wings.
+game_event_communications40010470298,SNS,『#流星群に似合うアルスト』,"""#Alstro_looks_good_in_a_meteor_shower."""
+game_event_communications40010470299,SNS,『#利きアルスト』『#バスタイムのアルスト』,"""#Healing_Alstro"" ""#Bathtime_Alstro"""
+game_event_communications400104702103,SNS,『#小悪魔かわいいアルスト』,"""#Cute_little_devil_Alstro"""
+game_event_communications400104702104,女子高生,（お……！）,(Oh...!)
+game_event_communications400104702105,女子高生,（このプレイリストを作った人、わかってるね）,"(Whoever made this playlist, I get what you mean.)"
+game_event_communications400104702107,ポップアップ,『お気に入りに追加しました』,"""Added to favorites"""
+game_event_communications400104702111,同級生,あれ……？,Oh...?
+game_event_communications400104702112,同級生,おつおつー,Hey there.
+game_event_communications400104702113,女子高生,…………,............
+game_event_communications400104702114,同級生,あれ？　おーい,Huh? Hellooo.
+game_event_communications400104702115,女子高生,えっ？ あっ,Eh? Ah.
+game_event_communications400104702117,同級生,ああイヤホンしてたのか,"Oh, you had your earphones in."
+game_event_communications400104702118,女子高生,ごめん、気付かなかった,"Sorry, I didn't realize."
+game_event_communications400104702119,同級生,"あはは、集中してたねー
 英語のリスニングとか？","Haha, you were so focused.
 English listening exercise?"
-0000000000000,女子高生,"あ、ああ……うん！
+game_event_communications400104702120,女子高生,"あ、ああ……うん！
 そんな感じ","Uhh... Yeah!
 Something like that."
-0000000000000,女子高生,自習室埋まってたから待ってただけ,The study room is packed so I've been waitting out here.
-0000000000000,同級生,"やっぱり！
+game_event_communications400104702122,女子高生,自習室埋まってたから待ってただけ,The study room is packed so I've been waitting out here.
+game_event_communications400104702123,同級生,"やっぱり！
 さすが真面目だねー","I knew it!
 You're always so diligent!"
-0000000000000,女子高生,そっちはもう帰るところ？,Are you going home?
-0000000000000,同級生,"うん
+game_event_communications400104702124,女子高生,そっちはもう帰るところ？,Are you going home?
+game_event_communications400104702125,同級生,"うん
 ほらこれ、見て見て……","Yeah.
 Hey, check this out..."
-0000000000000,同級生,"どやー！
+game_event_communications400104702127,同級生,"どやー！
 コンクールの台本完成しました！","Ta-da!
 My script for the competition is finished!"
-0000000000000,女子高生,"わ……
+game_event_communications400104702128,女子高生,"わ……
 おつかれ……！","Wow...
 Congrats...!"
-0000000000000,同級生,"どうもどうもー！
+game_event_communications400104702129,同級生,"どうもどうもー！
 我ながら面白くできたと思う","Thank you thank you!
 I must say that I did a pretty good job."
-0000000000000,同級生,コンクール、見に来てよね,You should come watch the competition by the way.
-0000000000000,女子高生,うん、もちろん！,"Yeah, of course!"
-0000000000000,同級生,ってかさ……,You know...
-0000000000000,同級生,演劇部、戻ってくるなら歓迎するから,You're always welcome to come back to the drama club.
-0000000000000,女子高生,……,......
-0000000000000,女子高生,うん、ありがと,I know. Thanks.
-0000000000000,女子高生,ステージに憧れたこともあった,I once longed to be on stage.
-0000000000000,女子高生,"でも本当にまったく向いてなかった
+game_event_communications400104702130,同級生,コンクール、見に来てよね,You should come watch the competition by the way.
+game_event_communications400104702131,女子高生,うん、もちろん！,"Yeah, of course!"
+game_event_communications400104702132,同級生,ってかさ……,You know...
+game_event_communications400104702134,同級生,演劇部、戻ってくるなら歓迎するから,You're always welcome to come back to the drama club.
+game_event_communications400104702135,女子高生,……,......
+game_event_communications400104702136,女子高生,うん、ありがと,I know. Thanks.
+game_event_communications400104702139,女子高生,ステージに憧れたこともあった,I once longed to be on stage.
+game_event_communications400104702140,女子高生,"でも本当にまったく向いてなかった
 まるでだめだった","However, I'm not cut out for it at all.
 It's hopeless for me."
-0000000000000,女子高生,"華がある顔じゃないし、
+game_event_communications400104702141,女子高生,"華がある顔じゃないし、
 演技の才能もない、性格的にも向いてない","I don't have a pretty face,
 or acting talent, or a suitable personality."
-0000000000000,女子高生,結局、一度も舞台にあがらないまま、辞めた,"In the end, I quit without ever performing on stage."
-0000000000000,女子高生,"でも未練はない
+game_event_communications400104702142,女子高生,結局、一度も舞台にあがらないまま、辞めた,"In the end, I quit without ever performing on stage."
+game_event_communications400104702146,女子高生,"でも未練はない
 本当の気持ちに気付いたから","But I have no regrets.
 Because I realized how I truly felt."
-0000000000000,女子高生,私は,I think.
-0000000000000,女子高生,（え！？　まなプロデュースのリップとポーチ……！？）,(Eh!? Lipstick and pouch produced by Mana...!?)
-0000000000000,女子高生,（めっちゃ欲しい～～～～！）,(I want them so bad～!)
-0000000000000,女子高生,私は変わりたかっただけ,I just wanted to change.
-0000000000000,女子高生,かわいくなりたかっただけ,I just wanted to be pretty.
-0000000000000,女子高生,アルストロメリアみたいに,Like Alstroemeria.
-0000000000000,女子高生,（まなはどこでメイクとか覚えたんだろ……）,(Where did Mana learn to do makeup and stuff like that...)
-0000000000000,女子高生,（おんなじ高校生なのにな）,(Even though we're both in high school.)
-0000000000000,お母さん,"テスト勉強はどうー？
+game_event_communications400104702147,女子高生,私は,I think.
+game_event_communications400104702152,女子高生,（え！？　まなプロデュースのリップとポーチ……！？）,(Eh!? Lipstick and pouch produced by Mana...!?)
+game_event_communications400104702153,女子高生,（めっちゃ欲しい～～～～！）,(I want them so bad～!)
+game_event_communications400104702155,女子高生,私は変わりたかっただけ,I just wanted to change.
+game_event_communications400104702157,女子高生,かわいくなりたかっただけ,I just wanted to be pretty.
+game_event_communications400104702159,女子高生,アルストロメリアみたいに,Like Alstroemeria.
+game_event_communications400104702161,女子高生,（まなはどこでメイクとか覚えたんだろ……）,(Where did Mana learn to do makeup and stuff like that...)
+game_event_communications400104702162,女子高生,（おんなじ高校生なのにな）,(Even though we're both in high school.)
+game_event_communications400104702164,お母さん,"テスト勉強はどうー？
 ごはん、できたよー","How's studying for the test?
 Dinner is ready by the way."
-0000000000000,女子高生,"はーい
+game_event_communications400104702165,女子高生,"はーい
 すぐ行く",I'm coming.
-0000000000000,女子高生,（私がメイクなんてしたらお母さんどう思うかな）,(I wonder what mom will think if I start wearing makeup.)
-0000000000000,女子高生,（怒らないとは……思うけど……）,(She probably won't be mad... but...)
-0000000000000,SNS,『#勇気をくれるアルスト』,"""#Alstro_gives_me_courage"""
-0000000000000,ポップアップ,『お気に入りに追加しました』,"""Added to favorites"""
-0000000000000,アナウンス,『……急停止、申し訳ございません』,"""...We apologize for the sudden stop."""
-0000000000000,アナウンス,『他の線区にて危険を知らせる信号を受信しました』,"""We were notified that there is a hazard ahead on the track."""
-0000000000000,プロデューサー,（えっ……）,(Eh......)
-0000000000000,アナウンス,『ただいま詳しい状況を確認中です』,"""We are currently investigating the situation for more details."""
-0000000000000,アナウンス,『この場にてしばらく停車いたします』,"""The train will stop here in the meantime."""
-0000000000000,プロデューサー,（そ、そんな……）,(Oh no...)
-0000000000000,プロデューサー,（打ち合わせ開始まで、もうそんなに時間がない）,(There's not much time left before my meeting starts.)
-0000000000000,プロデューサー,（弱ったな……）,(I'm in trouble...)
-0000000000000,プロデューサー,（すぐに動いてくれるといいんだけど────）,(Hopefully the train will move soon────)
-0000000000000,プロデューサー,"────本日はありがとうございました
+game_event_communications400104702167,女子高生,（私がメイクなんてしたらお母さんどう思うかな）,(I wonder what mom will think if I start wearing makeup.)
+game_event_communications400104702168,女子高生,（怒らないとは……思うけど……）,(She probably won't be mad... but...)
+game_event_communications400104702170,SNS,『#勇気をくれるアルスト』,"""#Alstro_gives_me_courage"""
+game_event_communications400104702176,ポップアップ,『お気に入りに追加しました』,"""Added to favorites"""
+game_event_communications400104702182,アナウンス,『……急停止、申し訳ございません』,"""...We apologize for the sudden stop."""
+game_event_communications400104702185,アナウンス,『他の線区にて危険を知らせる信号を受信しました』,"""We were notified that there is a hazard ahead on the track."""
+game_event_communications400104702186,プロデューサー,（えっ……）,(Eh......)
+game_event_communications400104702190,アナウンス,『ただいま詳しい状況を確認中です』,"""We are currently investigating the situation for more details."""
+game_event_communications400104702191,アナウンス,『この場にてしばらく停車いたします』,"""The train will stop here in the meantime."""
+game_event_communications400104702192,プロデューサー,（そ、そんな……）,(Oh no...)
+game_event_communications400104702195,プロデューサー,（打ち合わせ開始まで、もうそんなに時間がない）,(There's not much time left before my meeting starts.)
+game_event_communications400104702196,プロデューサー,（弱ったな……）,(I'm in trouble...)
+game_event_communications400104702197,プロデューサー,（すぐに動いてくれるといいんだけど────）,(Hopefully the train will move soon────)
+game_event_communications400104702204,プロデューサー,"────本日はありがとうございました
 またよろしくお願いします","────Thank you very much for today.
 I look forward to working with you again."
-0000000000000,テレビ局部長,"ええ、こちらこそ
+game_event_communications400104702205,テレビ局部長,"ええ、こちらこそ
 アルストロメリアのみなさんにもどうぞよろしくと","It is my pleasure.
 Please send my regards to Alstroemeria as well."
-0000000000000,テレビ局部長,エレベーターまでお見送りしますよ,I'll see you to the elevator.
-0000000000000,テレビ局部長,"……電車
+game_event_communications400104702207,テレビ局部長,エレベーターまでお見送りしますよ,I'll see you to the elevator.
+game_event_communications400104702214,テレビ局部長,"……電車
 もう動いているといいですね","...I hope the train is back to operation. "
-0000000000000,プロデューサー,"ええ……しかし、すみませんでした
+game_event_communications400104702215,プロデューサー,"ええ……しかし、すみませんでした
 次は遅れないようにいたします","Yes... On that note, I apologize.
 I will try not to be late next time."
-0000000000000,テレビ局部長,"お気になさらず！
+game_event_communications400104702216,テレビ局部長,"お気になさらず！
 ……結局、タクシーでいらしたんですか？","Don't worry!
 ...Did you end up taking a cab?"
-0000000000000,プロデューサー,いえ、歩きで,"No, I walked."
-0000000000000,プロデューサー,"なんとか駅で下りることはできたのですが、
+game_event_communications400104702217,プロデューサー,いえ、歩きで,"No, I walked."
+game_event_communications400104702219,プロデューサー,"なんとか駅で下りることはできたのですが、
 道路も混んでいたので無理だなと","I managed to get off at the station, but the traffic was bad so I thought I wouldn't make it."
-0000000000000,テレビ局部長,"はは……！　その腕の振り具合だと、
+game_event_communications400104702220,テレビ局部長,"はは……！　その腕の振り具合だと、
 歩きというよりは走りだったんじゃないですか","Haha...! I saw you swinging your arms, so it was more of a run than a walk, wasn't it?"
-0000000000000,テレビ局部長,"ああそうだ……
+game_event_communications400104702222,テレビ局部長,"ああそうだ……
 今度、あらためてご相談しようと思っていたんですが","That reminds me...
 I was going to ask you next time, but,"
-0000000000000,テレビ局部長,"仕事人に密着するドキュメンタリー番組がありまして
+game_event_communications400104702223,テレビ局部長,"仕事人に密着するドキュメンタリー番組がありまして
 その出演者を探しているんです",I'm looking for a performer to star in a documentary program about a professional.
-0000000000000,テレビ局部長,どうでしょう,What do you think?
-0000000000000,プロデューサー,"ありがとうございます！
+game_event_communications400104702224,テレビ局部長,どうでしょう,What do you think?
+game_event_communications400104702225,プロデューサー,"ありがとうございます！
 アルストロメリア……ですか？","Thank you!
 Is it for Alstroemeria...?"
-0000000000000,テレビ局部長,いえ,No.
-0000000000000,テレビ局部長,"あなたです
+game_event_communications400104702226,テレビ局部長,いえ,No.
+game_event_communications400104702228,テレビ局部長,"あなたです
 プロデューサーさん","It's for you,
 Producer-san."
-0000000000000,テレビ局部長,あなたにオファーしたいんです,I'm offering you the role.
-0000000000000,プロデューサー,え……,Eh......
-0000000000000,テレビ局部長,"あなたは人を輝かせることに長けている
+game_event_communications400104702229,テレビ局部長,あなたにオファーしたいんです,I'm offering you the role.
+game_event_communications400104702230,プロデューサー,え……,Eh......
+game_event_communications400104702232,テレビ局部長,"あなたは人を輝かせることに長けている
 本当に素晴らしい『プロデューサー』です","You are an excellent ""Producer"" who is great at making other people shine."
-0000000000000,テレビ局部長,だけど……,But...
-0000000000000,テレビ局部長,"いや、だからこそ、
+game_event_communications400104702233,テレビ局部長,だけど……,But...
+game_event_communications400104702235,テレビ局部長,"いや、だからこそ、
 今のままではもったいない","No, that's why,
 it would be a shame to stop there."
-0000000000000,テレビ局部長,あなたも日の当たる場所に出るべきだ,You should come where the sun shines.
-0000000000000,プロデューサー,"そんな……恐れ入ります
+game_event_communications400104702236,テレビ局部長,あなたも日の当たる場所に出るべきだ,You should come where the sun shines.
+game_event_communications400104702237,プロデューサー,"そんな……恐れ入ります
 滅相もございません…………","Thank you, but...
 I'm afraid this is out of the question..."
-0000000000000,テレビ局部長,"はは……困らせていますかね
+game_event_communications400104702238,テレビ局部長,"はは……困らせていますかね
 そういう謙虚なところも素敵だと思っているんですよ","Haha... Did I embarass you?
 It's wonderful to see that you're humble too."
-0000000000000,テレビ局部長,"あ、それとも……
+game_event_communications400104702239,テレビ局部長,"あ、それとも……
 おたくのボスがこういうの許しませんかね……？","Oh, before that...
 Would your boss allow this kind of thing...?"
-0000000000000,テレビ局部長,あ、やっと来ましたね,"Ah, here we are at last."
-0000000000000,テレビ局部長,"……雑談が長くなりました
+game_event_communications400104702241,テレビ局部長,あ、やっと来ましたね,"Ah, here we are at last."
+game_event_communications400104702244,テレビ局部長,"……雑談が長くなりました
 この件は改めて","...We've talked quite a bit.
 Let's continue the discussion later."
-0000000000000,プロデューサー,"……はい！
+game_event_communications400104702245,プロデューサー,"……はい！
 本日は本当にありがとうございました","...Yes!
 Thank you so much for your time today."
-0000000000000,プロデューサー,それでは──……,See you──...
-0000000000000,テレビ局部長,これだけは覚えておいてください,Just remember this one thing.
-0000000000000,テレビ局部長,あなたも、脚光を浴びていい,"You, too, can step into the limelight."
-0000000000000,テレビ局部長,主役になれるんだ,You can become the star.
+game_event_communications400104702248,プロデューサー,それでは──……,See you──...
+game_event_communications400104702250,テレビ局部長,これだけは覚えておいてください,Just remember this one thing.
+game_event_communications400104702252,テレビ局部長,あなたも、脚光を浴びていい,"You, too, can step into the limelight."
+game_event_communications400104702254,テレビ局部長,主役になれるんだ,You can become the star.
 info,game_event_communications/400104702.json,
 Translator,Ruru,

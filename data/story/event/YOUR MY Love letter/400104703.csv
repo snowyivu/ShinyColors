@@ -1,245 +1,245 @@
 id,name,text,trans
-0000000000000,ピアスの女性,"……はい、すみません
+game_event_communications4001047036,ピアスの女性,"……はい、すみません
 病院に行ってから出社できればと","...Yes, I'm sorry.
 I need to drop by the hospital before coming in."
-0000000000000,ピアスの女性,"あ、大丈夫、大丈夫です、はい
+game_event_communications4001047038,ピアスの女性,"あ、大丈夫、大丈夫です、はい
 風邪気味なだけで……熱もないので……","Oh, I'm fine, I'm fine, yes.
 It's just a cold... and I don't have a fever..."
-0000000000000,ピアスの女性,"そう言ってくださるのは嬉しいのですが
+game_event_communications40010470311,ピアスの女性,"そう言ってくださるのは嬉しいのですが
 今、一日休むのは……ちょっと……","I'm glad to hear so, but...
 I'd rather not take today off..."
-0000000000000,ピアスの女性,"……旅館サイトのフルリニューアル案件も
+game_event_communications40010470313,ピアスの女性,"……旅館サイトのフルリニューアル案件も
 急ぎでまとめないとですし……",...I need to finalize the website redesign project for the inn as soon as possible...
-0000000000000,ピアスの女性,"そうです
+game_event_communications40010470315,ピアスの女性,"そうです
 まだ受注確定じゃなくて……","Yes.
 The decision hasn't been made..."
-0000000000000,ピアスの女性,"提案書を作るのは
+game_event_communications40010470316,ピアスの女性,"提案書を作るのは
 私じゃないと……無理なので……！",I have to be the one making the proposal...!
-0000000000000,ピアスの女性,……はい、無理だけはしないようにします,"...Yes, I'll try not to push myself too hard."
-0000000000000,ピアスの女性,いや、もちろん無理するが！？！？,"Nope, of course I have to push myself!?!?"
-0000000000000,ピアスの女性,"休めるものなら休みたいが！？
+game_event_communications40010470318,ピアスの女性,……はい、無理だけはしないようにします,"...Yes, I'll try not to push myself too hard."
+game_event_communications40010470320,ピアスの女性,いや、もちろん無理するが！？！？,"Nope, of course I have to push myself!?!?"
+game_event_communications40010470321,ピアスの女性,"休めるものなら休みたいが！？
 だるくてだるくて仕方ないが────！？","I'd take a break if I could!?
 It's a pain-in-the-ass but what else can I do────!?"
-0000000000000,ピアスの女性,でも,But
-0000000000000,ピアスの女性,やっと仕事を回せるようになったのだ,I finally turned my job around.
-0000000000000,ピアスの女性,後輩の指導も任せてもらえるようになったのだ,I'm now entrusted with the responsibility of mentoring junior staff.
-0000000000000,ピアスの女性,"私が止まってしまったら
+game_event_communications40010470323,ピアスの女性,でも,But
+game_event_communications40010470326,ピアスの女性,やっと仕事を回せるようになったのだ,I finally turned my job around.
+game_event_communications40010470330,ピアスの女性,後輩の指導も任せてもらえるようになったのだ,I'm now entrusted with the responsibility of mentoring junior staff.
+game_event_communications40010470334,ピアスの女性,"私が止まってしまったら
 他の人たちにも迷惑がかかるのだ","If I stop,
 it will be a nuisance to everyone else."
-0000000000000,ピアスの女性,今、私はやりたいことをやっているのだ,"Right now, I'm doing what I want to do."
-0000000000000,ピアスの女性,（ううー。でもだるい！　動きたくない！）,(Ughhh. But I'm so tired! I don't want to move!)
-0000000000000,ピアスの女性,（でも、頑張れ、頑張れ）,"(Still, hang in there, hang in there.)"
-0000000000000,ピアスの女性,（頑張って、立ち上がれ～～～～～…………！）,(Do your best and get uuuup～...!)
-0000000000000,ピアスの女性,"あれ……
+game_event_communications40010470337,ピアスの女性,今、私はやりたいことをやっているのだ,"Right now, I'm doing what I want to do."
+game_event_communications40010470340,ピアスの女性,（ううー。でもだるい！　動きたくない！）,(Ughhh. But I'm so tired! I don't want to move!)
+game_event_communications40010470341,ピアスの女性,（でも、頑張れ、頑張れ）,"(Still, hang in there, hang in there.)"
+game_event_communications40010470342,ピアスの女性,（頑張って、立ち上がれ～～～～～…………！）,(Do your best and get uuuup～...!)
+game_event_communications40010470350,ピアスの女性,"あれ……
 歯磨き粉、ない……","Oh...
 I ran out of toothpaste..."
-0000000000000,ピアスの女性,"ストック～～
+game_event_communications40010470353,ピアスの女性,"ストック～～
 ……も、ないのか……","Let's see～
 ...I don't have any left..."
-0000000000000,ピアスの女性,………………,..................
-0000000000000,ピアスの女性,大丈夫、大丈夫,It's okay. It's okay.
-0000000000000,ピアスの女性,まだ絞り出せば……なんとか……！,I can still squeeze the last bit out... somehow...!
-0000000000000,高校教師,私は,I am
-0000000000000,高校教師,教師,a teacher
-0000000000000,高校教師,だけど,but
-0000000000000,高校教師,先生らしくないって言われた,I've been told that I don't act like one.
-0000000000000,同僚,誰に？,By who?
-0000000000000,高校教師,保護者にぃ,Parents.
-0000000000000,同僚,へー……,Heh...
-0000000000000,高校教師,ねぇ、先生らしい先生ってなに……？,"Hey, what makes someone a teacher...?"
-0000000000000,高校教師,どうすれば先生らしくなれる？,How can I be more like a teacher?
-0000000000000,同僚,わからん,No idea.
-0000000000000,高校教師,教えてくださいよ、先生ぇ……,"Please tell me, teacher..."
-0000000000000,同僚,俺が教えてほしいくらいよ,I wish I could let you know.
-0000000000000,同僚,"んー、気にするなって言いたいけど……
+game_event_communications40010470354,ピアスの女性,………………,..................
+game_event_communications40010470357,ピアスの女性,大丈夫、大丈夫,It's okay. It's okay.
+game_event_communications40010470358,ピアスの女性,まだ絞り出せば……なんとか……！,I can still squeeze the last bit out... somehow...!
+game_event_communications40010470364,高校教師,私は,I am
+game_event_communications40010470367,高校教師,教師,a teacher
+game_event_communications40010470370,高校教師,だけど,but
+game_event_communications40010470374,高校教師,先生らしくないって言われた,I've been told that I don't act like one.
+game_event_communications40010470375,同僚,誰に？,By who?
+game_event_communications40010470376,高校教師,保護者にぃ,Parents.
+game_event_communications40010470377,同僚,へー……,Heh...
+game_event_communications40010470378,高校教師,ねぇ、先生らしい先生ってなに……？,"Hey, what makes someone a teacher...?"
+game_event_communications40010470379,高校教師,どうすれば先生らしくなれる？,How can I be more like a teacher?
+game_event_communications40010470380,同僚,わからん,No idea.
+game_event_communications40010470381,高校教師,教えてくださいよ、先生ぇ……,"Please tell me, teacher..."
+game_event_communications40010470382,同僚,俺が教えてほしいくらいよ,I wish I could let you know.
+game_event_communications40010470383,同僚,"んー、気にするなって言いたいけど……
 気にしちゃうんだもんな？","Hmm, I'd tell you not to worry about it, but...
 You do mind, right?"
-0000000000000,高校教師,うん,Yeah.
-0000000000000,同僚,仕方ないなあ────,"I can't help you, then────"
-0000000000000,同僚,"あ、そろそろ音楽室に戻らないと
+game_event_communications40010470384,高校教師,うん,Yeah.
+game_event_communications40010470387,同僚,仕方ないなあ────,"I can't help you, then────"
+game_event_communications40010470389,同僚,"あ、そろそろ音楽室に戻らないと
 続きはまた今度","Oh, I should get back to the music room.
 Talk to you later."
-0000000000000,高校教師,"え……ごめん……
+game_event_communications40010470390,高校教師,"え……ごめん……
 もうそんな時間？","Eh... Sorry...
 Is it time already?"
-0000000000000,同僚,"昼飯終わる頃に戻るって、
+game_event_communications40010470391,同僚,"昼飯終わる頃に戻るって、
 部員に言ってたんだ",I told the club members that I'd be back after lunch.
-0000000000000,同僚,……そっちは？,...What about you?
-0000000000000,高校教師,うちの部活動は午前で終わり,Our club activities ended in the morning.
-0000000000000,同僚,"そっか
+game_event_communications40010470392,同僚,……そっちは？,...What about you?
+game_event_communications40010470393,高校教師,うちの部活動は午前で終わり,Our club activities ended in the morning.
+game_event_communications40010470394,同僚,"そっか
 早く帰ってゆっくり休みな","I see.
 Go home and get some rest."
-0000000000000,高校教師,家に帰ったら来週のプリント作らないと,"When I get home, I have to make next week's printouts."
-0000000000000,同僚,"……じゃ、ゆっくり帰りな
+game_event_communications40010470395,高校教師,家に帰ったら来週のプリント作らないと,"When I get home, I have to make next week's printouts."
+game_event_communications40010470396,同僚,"……じゃ、ゆっくり帰りな
 気分転換に映画でも見たりしてさ","...Then, take your time getting home.
 Maybe go watch a movie for a change."
-0000000000000,同僚,な？,Yeah?
-0000000000000,同僚,頑張れよ、応援してる,Do your best. I'm rooting for you.
-0000000000000,同僚,……おまえなら大丈夫だ,...You'll be fine.
-0000000000000,高校教師,ずるいよなぁ,That's not fair.
-0000000000000,高校教師,自分だけ先生っぽくなっちゃってさぁ────,You're the only one who seems like a teacher────
-0000000000000,高校教師,私は教師,I am a teacher
-0000000000000,高校教師,だけど,but
-0000000000000,高校教師,土曜の午後は、ただの私,"on Saturday afternoons, I am just me."
-4001047030010,映画の音声,『……ここにいるのは、ただの私』,"""...Right now, I am nothing else but myself."""
-4001047030020,映画の音声,『誰でもない、私』,"""There's no one else but me."""
-4001047030030,映画の音声,『それじゃ、ダメ……？』,"""Isn't that good enough...?"""
-4001047030040,映画の音声,『待って……！』,"""Wait...!"""
-4001047030050,映画の音声,『心が、泣き出しそうだったんでしょう……？』,"""Your heart was about to cry, wasn't it...?"""
-4001047030060,映画の音声,『見ればわかるよ、でも、誰にも言わない』,"""I know just by looking, but I won't tell anyone else."""
-4001047030070,映画の音声,『……明日には……明日には全部忘れる』,"""...Tomorrow... I'll forget about everything tomorrow..."""
-4001047030080,映画の音声,『だから……』,"""So..."""
-4001047030090,映画の音声,『今だけは……甘えてもいいから……』,"""Just for now... You can lean on me..."""
-4001047030100,映画の音声,『ね……？』,"""Please...?"""
-0000000000000,高校教師,（あー……）,(Aah......)
-0000000000000,高校教師,（テレビの続きを丁寧に描いてくれてたなぁ）,(It was a faithful sequel to the TV show.)
-0000000000000,高校教師,（脇役だった甘奈ちゃんもちゃんと出してくれたし……）,(Amana-chan had a minor role but she got to show up...)
-0000000000000,高校教師,（なんだか励まされた気もするし……）,(I kinda feel encouraged...)
-0000000000000,高校教師,（泣けたぁ……）,(It made me cry...)
-0000000000000,高校教師,（あ！　あれ……）,(Oh! That is...)
-4001047030110,店頭モニター,『病める時も、健やかなる時も』,"""In sickness and in health"""
-4001047030120,店頭モニター,『空腹の時も、満腹の時も』,"""For richer, for poorer"""
-4001047030130,店頭モニター,『手を繋いでいる時も、背中合わせにある時も』,"""Hand in hand, back to back"""
-4001047030140,店頭モニター,『信じて、支え合い』,"""I will trust and support you"""
-4001047030150,店頭モニター,『愛することを、誓いますか────？』,"""Do you vow to love me────?"""
-0000000000000,高校教師,（きゃー、千雪さんのCMだ……！）,"(OMG, it's Chiyuki-san's commercial...!)"
-0000000000000,高校教師,（ウェディングドレスの千雪さん……綺麗だなぁ……）,(Chiyuki-san in a wedding dress... is so beautiful...)
-0000000000000,生徒,あれ、先生……？,"Uh, teacher...?"
-0000000000000,高校教師,ひ……！,Eek...!
-0000000000000,生徒,"やっぱ先生じゃん！
+game_event_communications40010470397,同僚,な？,Yeah?
+game_event_communications40010470399,同僚,頑張れよ、応援してる,Do your best. I'm rooting for you.
+game_event_communications400104703100,同僚,……おまえなら大丈夫だ,...You'll be fine.
+game_event_communications400104703105,高校教師,ずるいよなぁ,That's not fair.
+game_event_communications400104703107,高校教師,自分だけ先生っぽくなっちゃってさぁ────,You're the only one who seems like a teacher────
+game_event_communications400104703110,高校教師,私は教師,I am a teacher
+game_event_communications400104703111,高校教師,だけど,but
+game_event_communications400104703112,高校教師,土曜の午後は、ただの私,"on Saturday afternoons, I am just me."
+game_event_communications400104703116,映画の音声,『……ここにいるのは、ただの私』,"""...Right now, I am nothing else but myself."""
+game_event_communications400104703117,映画の音声,『誰でもない、私』,"""There's no one else but me."""
+game_event_communications400104703118,映画の音声,『それじゃ、ダメ……？』,"""Isn't that good enough...?"""
+game_event_communications400104703121,映画の音声,『待って……！』,"""Wait...!"""
+game_event_communications400104703125,映画の音声,『心が、泣き出しそうだったんでしょう……？』,"""Your heart was about to cry, wasn't it...?"""
+game_event_communications400104703126,映画の音声,『見ればわかるよ、でも、誰にも言わない』,"""I know just by looking, but I won't tell anyone else."""
+game_event_communications400104703127,映画の音声,『……明日には……明日には全部忘れる』,"""...Tomorrow... I'll forget about everything tomorrow..."""
+game_event_communications400104703128,映画の音声,『だから……』,"""So..."""
+game_event_communications400104703129,映画の音声,『今だけは……甘えてもいいから……』,"""Just for now... You can lean on me..."""
+game_event_communications400104703130,映画の音声,『ね……？』,"""Please...?"""
+game_event_communications400104703136,高校教師,（あー……）,(Aah......)
+game_event_communications400104703137,高校教師,（テレビの続きを丁寧に描いてくれてたなぁ）,(It was a faithful sequel to the TV show.)
+game_event_communications400104703138,高校教師,（脇役だった甘奈ちゃんもちゃんと出してくれたし……）,(Amana-chan had a minor role but she got to show up...)
+game_event_communications400104703143,高校教師,（なんだか励まされた気もするし……）,(I kinda feel encouraged...)
+game_event_communications400104703144,高校教師,（泣けたぁ……）,(It made me cry...)
+game_event_communications400104703146,高校教師,（あ！　あれ……）,(Oh! That is...)
+game_event_communications400104703149,店頭モニター,『病める時も、健やかなる時も』,"""In sickness and in health"""
+game_event_communications400104703150,店頭モニター,『空腹の時も、満腹の時も』,"""For richer, for poorer"""
+game_event_communications400104703151,店頭モニター,『手を繋いでいる時も、背中合わせにある時も』,"""Hand in hand, back to back"""
+game_event_communications400104703152,店頭モニター,『信じて、支え合い』,"""I will trust and support you"""
+game_event_communications400104703153,店頭モニター,『愛することを、誓いますか────？』,"""Do you vow to love me────?"""
+game_event_communications400104703154,高校教師,（きゃー、千雪さんのCMだ……！）,"(OMG, it's Chiyuki-san's commercial...!)"
+game_event_communications400104703155,高校教師,（ウェディングドレスの千雪さん……綺麗だなぁ……）,(Chiyuki-san in a wedding dress... is so beautiful...)
+game_event_communications400104703157,生徒,あれ、先生……？,"Uh, teacher...?"
+game_event_communications400104703158,高校教師,ひ……！,Eek...!
+game_event_communications400104703163,生徒,"やっぱ先生じゃん！
 こんちはー！","It's you!
 Good afternoon!"
-0000000000000,高校教師,"こ、こんにちは……！
+game_event_communications400104703164,高校教師,"こ、こんにちは……！
 遊びに来てるの？","G-Good afternoon!
 Are you just hanging out?"
-0000000000000,生徒,"そー、そー
+game_event_communications400104703165,生徒,"そー、そー
 ……てか、先生","Yup.
 ...By the way, teacher."
-0000000000000,生徒,結婚するの！？,Are you getting married!?
-0000000000000,高校教師,ひっ！？,Huh!?
-0000000000000,高校教師,しない、しないよ！,"No, no way!"
-0000000000000,生徒,"えー？
+game_event_communications400104703167,生徒,結婚するの！？,Are you getting married!?
+game_event_communications400104703168,高校教師,ひっ！？,Huh!?
+game_event_communications400104703169,高校教師,しない、しないよ！,"No, no way!"
+game_event_communications400104703170,生徒,"えー？
 じゃあなんで式場の案内見てたの？","Eeh?
 Then why were you looking at a ceremony hall guide?"
-0000000000000,高校教師,"み、見てたのはCMで……
+game_event_communications400104703171,高校教師,"み、見てたのはCMで……
 式場じゃないの","I-I was checking what the commercial I saw was about...
 Not the ceremony hall."
-0000000000000,生徒,なんだ、ざんねーん,Really? I got excited for a second...
-0000000000000,生徒,"あっ、映画始まっちゃう
+game_event_communications400104703172,生徒,なんだ、ざんねーん,Really? I got excited for a second...
+game_event_communications400104703175,生徒,"あっ、映画始まっちゃう
 ごめんね、声かけちゃって！","Oh, the movie's starting.
 Sorry I called out to you!"
-0000000000000,生徒,先生、またねー！,"See you later, teacher!"
-0000000000000,高校教師,"う、うん……！ 楽しんできてね
+game_event_communications400104703177,生徒,先生、またねー！,"See you later, teacher!"
+game_event_communications400104703178,高校教師,"う、うん……！ 楽しんできてね
 暗くならないうちに帰るのよ","Y-yeah...! Have fun.
 Remember to get home before it's too dark."
-0000000000000,生徒,あはは、はーい！,"Ahaha, I will!"
-0000000000000,同僚,────聞いたよ、おめでとう,────I heard about it. Congrats.
-0000000000000,高校教師,……何がぁ？,...Heard what?
-0000000000000,同僚,"え？　結婚するらしいじゃん？
+game_event_communications400104703179,生徒,あはは、はーい！,"Ahaha, I will!"
+game_event_communications400104703183,同僚,────聞いたよ、おめでとう,────I heard about it. Congrats.
+game_event_communications400104703184,高校教師,……何がぁ？,...Heard what?
+game_event_communications400104703187,同僚,"え？　結婚するらしいじゃん？
 相手がいたのも知らなかったわ","Eh? You're getting married, right?
 I didn't even know you had a partner."
-0000000000000,高校教師,………………,..................
-0000000000000,高校教師,やー……、もう、ほらぁ…………,No... Let me explain...
-0000000000000,同僚,ん？　どした？,Hm? What's wrong?
-0000000000000,高校教師,私は教師,I am a teacher
-0000000000000,高校教師,"平日も休日も
+game_event_communications400104703189,高校教師,………………,..................
+game_event_communications400104703191,高校教師,やー……、もう、ほらぁ…………,No... Let me explain...
+game_event_communications400104703192,同僚,ん？　どした？,Hm? What's wrong?
+game_event_communications400104703195,高校教師,私は教師,I am a teacher
+game_event_communications400104703196,高校教師,"平日も休日も
 いついかなる時も──────","Both on and off work
 Anytime, every day──────"
-4001047030160,甜花,おはようございまーす……！,Good morning...!
-0000000000000,ラジオディレクター,"甜花ちゃん、おはよー！
+game_event_communications400104703200,甜花,おはようございまーす……！,Good morning...!
+game_event_communications400104703201,ラジオディレクター,"甜花ちゃん、おはよー！
 今日のラジオもよろしくねぇ","Good morning, Tenka-chan!
 Good luck with today's radio show."
-4001047030170,甜花,"はい……！
+game_event_communications400104703204,甜花,"はい……！
 よろしくお願い、します……！","Yes...!
 I will do my best...!"
-0000000000000,ラジオディレクター,これ今日読んでもらうリスナーさんからのお手紙,These are the listenters' letters for you to read today.
-4001047030180,甜花,──あ……,──Ah...
-4001047030190,甜花,"えと……両手、ふさがってて……
+game_event_communications400104703205,ラジオディレクター,これ今日読んでもらうリスナーさんからのお手紙,These are the listenters' letters for you to read today.
+game_event_communications400104703206,甜花,──あ……,──Ah...
+game_event_communications400104703209,甜花,"えと……両手、ふさがってて……
 荷物、置いてからでも……いいですか……？","Um... My hands are full...
 May I... put my stuff down first...?"
-0000000000000,ラジオディレクター,"あはは！　もちろんよー
+game_event_communications400104703210,ラジオディレクター,"あはは！　もちろんよー
 ごめんごめん","Ahaha! Of course!
 Sorry, my bad."
-0000000000000,ラジオディレクター,なんか美味しそうなもの持ってるね,You got something tasty over there.
-4001047030200,甜花,"にへへ……
+game_event_communications400104703213,ラジオディレクター,なんか美味しそうなもの持ってるね,You got something tasty over there.
+game_event_communications400104703214,甜花,"にへへ……
 こっちは新作のドリンクで……","Nihehe...
 This is a new drink..."
-4001047030210,甜花,"こっちは……
+game_event_communications400104703217,甜花,"こっちは……
 差し入れのドーナツ……！","These are...
 donuts I brought as refreshments...!"
-0000000000000,ラジオディレクター,"えっ、ほんとー！？
+game_event_communications400104703218,ラジオディレクター,"えっ、ほんとー！？
 ありがとう……！","Oh, really!?
 Thank you...!"
-4001047030220,甜花,"いつももらってるから……
+game_event_communications400104703219,甜花,"いつももらってるから……
 お返し、です……！","I always receive them,so ...
 It's my turn...!"
-0000000000000,ラジオディレクター,"いいのに、もーー
+game_event_communications400104703220,ラジオディレクター,"いいのに、もーー
 ありがとね","You don't have to.
 Thank you, though."
-4001047030230,甜花,にへへ……！,Nihehe...!
-4001047030240,甜花,"……！
+game_event_communications400104703221,甜花,にへへ……！,Nihehe...!
+game_event_communications400104703227,甜花,"……！
 今日のお手紙……これ……？","......!
 Are these... today's letters...?"
-4001047030250,甜花,すごい、いっぱい……！,There are so many...!
-0000000000000,ラジオディレクター,"あっ、違う違う、それは次回の分
+game_event_communications400104703228,甜花,すごい、いっぱい……！,There are so many...!
+game_event_communications400104703229,ラジオディレクター,"あっ、違う違う、それは次回の分
 まだ甜花ちゃんが目を通してないやつね","Oh, nah. That's for next time.
 You haven't checked them out yet."
-4001047030260,甜花,あ……,Ah...
-4001047030270,甜花,"じゃ、じゃあ……
+game_event_communications400104703230,甜花,あ……,Ah...
+game_event_communications400104703231,甜花,"じゃ、じゃあ……
 これは、収録の後……読んできます……！","T-Then...
 I'll read them after the recording...!"
-0000000000000,ラジオディレクター,"……いつもありがとね
+game_event_communications400104703232,ラジオディレクター,"……いつもありがとね
 時間は大丈夫？","...Thank you as always.
 Do you have time for it?"
-4001047030280,甜花,うん……！,Yeah...!
-0000000000000,ラジオディレクター,"最近、前よりもお手紙が増えてるからさ
+game_event_communications400104703233,甜花,うん……！,Yeah...!
+game_event_communications400104703234,ラジオディレクター,"最近、前よりもお手紙が増えてるからさ
 全部目を通してくれるのは嬉しいけど、無理はしないでね","We've been getting more letters lately.
 I'm glad you're reading all of them, but don't be too hard on yourself."
-4001047030290,甜花,全然、大丈夫……です……！,It's not a problem...!
-4001047030300,甜花,ドーナツも、あるし……！,And I have donuts with me...!
-0000000000000,ラジオディレクター,"あははっ、そっか！　そーね！
+game_event_communications400104703235,甜花,全然、大丈夫……です……！,It's not a problem...!
+game_event_communications400104703236,甜花,ドーナツも、あるし……！,And I have donuts with me...!
+game_event_communications400104703237,ラジオディレクター,"あははっ、そっか！　そーね！
 ドーナツ食べながらみんなで読もっか……！","Ahaha, I see! That's true!
 Let's all read them together while eating donuts...!"
-4001047030310,ラジオの音声,『────次のお手紙は……えっと……』,"""────The next letter is from... um..."""
-4001047030320,ラジオの音声,『ラジオネーム……』,"""Radio name..."""
-4001047030330,ラジオの音声,『教師は辛いよ、さんから……』,"""Teachers-are-strict...san..."""
-0000000000000,高校教師,"！？！？！？
+game_event_communications400104703243,ラジオの音声,『────次のお手紙は……えっと……』,"""────The next letter is from... um..."""
+game_event_communications400104703244,ラジオの音声,『ラジオネーム……』,"""Radio name..."""
+game_event_communications400104703245,ラジオの音声,『教師は辛いよ、さんから……』,"""Teachers-are-strict...san..."""
+game_event_communications400104703246,高校教師,"！？！？！？
 きゃーーーー！？！？","!?!?!?
 No waaaay!?!?"
-4001047030340,ラジオの音声,『甜花ちゃん、いつもラジオ聞いてます』,"""Tenka-chan, I always listen to your radio."""
-4001047030350,ラジオの音声,『にへへ……ありがと……！』,"""Nihehe... Thanks...!"
-0000000000000,高校教師,"うう……
+game_event_communications400104703247,ラジオの音声,『甜花ちゃん、いつもラジオ聞いてます』,"""Tenka-chan, I always listen to your radio."""
+game_event_communications400104703248,ラジオの音声,『にへへ……ありがと……！』,"""Nihehe... Thanks...!"
+game_event_communications400104703249,高校教師,"うう……
 こちらこそありがとぉ……","Ooo...
 Thank you too..."
-4001047030360,ラジオの音声,『私は教師なのですがいつも失敗ばかりです』,"""I'm a teacher, but I'm always making mistakes."""
-4001047030370,ラジオの音声,『この間も保護者の人に先生らしくないと怒られました』,"""The other day, a parent was upset with me for not acting like a teacher."""
-4001047030380,ラジオの音声,"『甜花ちゃんはどんな先生が好きですか？
+game_event_communications400104703250,ラジオの音声,『私は教師なのですがいつも失敗ばかりです』,"""I'm a teacher, but I'm always making mistakes."""
+game_event_communications400104703251,ラジオの音声,『この間も保護者の人に先生らしくないと怒られました』,"""The other day, a parent was upset with me for not acting like a teacher."""
+game_event_communications400104703252,ラジオの音声,"『甜花ちゃんはどんな先生が好きですか？
 教えてください！』","""What kind of teacher do you like, Tenka-chan?
 Please tell me!"""
-4001047030390,ラジオの音声,『わ……先生……！　すごい……』,"""Whaa... a teacher...! Amazing...!"""
-4001047030400,ラジオの音声,"『あ……でも……
+game_event_communications400104703253,ラジオの音声,『わ……先生……！　すごい……』,"""Whaa... a teacher...! Amazing...!"""
+game_event_communications400104703254,ラジオの音声,"『あ……でも……
 もし……甜花の先生だったら、どうしよ……』","""Ah... but...
 What if... this is from Tenka's teacher?..."""
-0000000000000,高校教師,"違うよぉ……
+game_event_communications400104703255,高校教師,"違うよぉ……
 でも私は甜花ちゃんの先生になりたかったよぉ……","Nope...
 But I wish I was your teacher, Tenka-chan..."
-4001047030410,ラジオの音声,"『……えと……甜花……
+game_event_communications400104703256,ラジオの音声,"『……えと……甜花……
 先生に叱られること、結構、あって……』","""...Um...Tenka...
 gets scolded a lot by teachers..."""
-4001047030420,ラジオの音声,『て、甜花が、悪いんだけど……！』,"""T-Tenka is the one at fault, though...!"""
-4001047030430,ラジオの音声,"『だから…………
+game_event_communications400104703257,ラジオの音声,『て、甜花が、悪いんだけど……！』,"""T-Tenka is the one at fault, though...!"""
+game_event_communications400104703258,ラジオの音声,"『だから…………
 うーん……』","""So......
 hmm..."""
-4001047030440,ラジオの音声,"『甜花は……先生らしくない先生が……
+game_event_communications400104703261,ラジオの音声,"『甜花は……先生らしくない先生が……
 好き……かも……！』","""Tenka... probably likes...
 a teacher who doesn't act like one....!"""
-0000000000000,高校教師,わ、わあぁ…………！,W-Whoaa...!
-0000000000000,高校教師,ありがと、ありがとぉ、甜花ちゃーん……,"Thank you, thank youuu, Tenka-chaan..."
-0000000000000,高校教師,これで月曜からも生きられるよぉお……,Now I can live through another Monday and beyond...
-4001047030450,ラジオの音声,"『にへへ……頑張ってね……
+game_event_communications400104703262,高校教師,わ、わあぁ…………！,W-Whoaa...!
+game_event_communications400104703263,高校教師,ありがと、ありがとぉ、甜花ちゃーん……,"Thank you, thank youuu, Tenka-chaan..."
+game_event_communications400104703264,高校教師,これで月曜からも生きられるよぉお……,Now I can live through another Monday and beyond...
+game_event_communications400104703265,ラジオの音声,"『にへへ……頑張ってね……
 教師は辛いよ……さん……！』","""Nihehe... Do your best...
 Teachers-are-strict...san!"""
-0000000000000,高校教師,でも、『教師はつらいよ』って読むんだよぉ～～～……,"My name is ""Teaching-is-hard"" though～..."
-0000000000000,高校教師,ひらがなで書かなくてごめんねぇ～～～……,Sorry I didn't write in hiragana～...
+game_event_communications400104703266,高校教師,でも、『教師はつらいよ』って読むんだよぉ～～～……,"My name is ""Teaching-is-hard"" though～..."
+game_event_communications400104703267,高校教師,ひらがなで書かなくてごめんねぇ～～～……,Sorry I didn't write in hiragana～...
 info,game_event_communications/400104703.json,
 Translator,Ruru,

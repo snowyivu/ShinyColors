@@ -1,269 +1,269 @@
-id,name,text,trans
-0000000000000,ラジオディレクター,"見てよ、これ
+"id,name,text,trans",name,text,trans
+game_event_communications4001047089,ラジオディレクター,"見てよ、これ
 この量！！",Check out this mountain of letters we got!!
-0000000000000,ラジオディレクター,全部、リスナーさんからのお便り！,All from our listeners!
-0000000000000,プロデューサー,"はは……
+game_event_communications40010470811,ラジオディレクター,全部、リスナーさんからのお便り！,All from our listeners!
+game_event_communications40010470812,プロデューサー,"はは……
 すごいですね","Haha...
 That's amazing."
-0000000000000,ラジオディレクター,"いやいやいや…………
+game_event_communications40010470813,ラジオディレクター,"いやいやいや…………
 やばいでしょ……！","It's not amazing...
 It's crazy...!"
-0000000000000,ラジオディレクター,"メールで届いた分も合わせたら、
+game_event_communications40010470814,ラジオディレクター,"メールで届いた分も合わせたら、
 この３倍はあるんだけど……！？","If we include the emails, there would be three times this many...!?"
-0000000000000,ラジオディレクター,"捌ききれないよー
+game_event_communications40010470815,ラジオディレクター,"捌ききれないよー
 まったく……！","Gosh, I really can't handle it!"
-0000000000000,プロデューサー,すみません……,Sorry...
-0000000000000,プロデューサー,"なんだか、ご迷惑をおかけして……？
+game_event_communications40010470816,プロデューサー,すみません……,Sorry...
+game_event_communications40010470817,プロデューサー,"なんだか、ご迷惑をおかけして……？
 ……本当に……","For giving you troubles, somewhat...?
 ...I'm really sorry..."
-0000000000000,ラジオディレクター,……ふふっ,...Hehe.
-0000000000000,プロデューサー,はは……,Haha...
-0000000000000,ラジオディレクター,"ん、わかってると思うけど
+game_event_communications40010470819,ラジオディレクター,……ふふっ,...Hehe.
+game_event_communications40010470820,プロデューサー,はは……,Haha...
+game_event_communications40010470821,ラジオディレクター,"ん、わかってると思うけど
 冗談ね、冗談","Mm, I thought you knew I was kidding."
-0000000000000,ラジオディレクター,"ああやって呼びかけたいって相談されて、
+game_event_communications40010470822,ラジオディレクター,"ああやって呼びかけたいって相談されて、
 間髪入れずに『かませー！』って答えたの、僕だしね","When Alstroemeria asked me if they could call out to the listeners like that, I immediately replied ""Absolutely!"""
-0000000000000,ラジオディレクター,"実際、こんなに反応してもらえて……
+game_event_communications40010470823,ラジオディレクター,"実際、こんなに反応してもらえて……
 嬉しい悲鳴、ってやつよ","Since we got such a great response...
 That was my scream of joy."
-0000000000000,プロデューサー,……ええ、同じくです,"...Yes, I feel the same."
-0000000000000,ラジオディレクター,でも困ったよねぇ,But it's still unfortunate.
-0000000000000,ラジオディレクター,"もともと『グッド・ネムレナイト』は
+game_event_communications40010470824,プロデューサー,……ええ、同じくです,"...Yes, I feel the same."
+game_event_communications40010470826,ラジオディレクター,でも困ったよねぇ,But it's still unfortunate.
+game_event_communications40010470827,ラジオディレクター,"もともと『グッド・ネムレナイト』は
 ３か月限定の放送だったでしょ","""Good Sleepless Night"" is only going to air for three months."
-0000000000000,ラジオディレクター,"その後も単発では復活させてるけど
+game_event_communications40010470828,ラジオディレクター,"その後も単発では復活させてるけど
 次の放送予定はないし……","After it's over they're going to bring it back here and there, but there's no plan for continuation..."
-0000000000000,プロデューサー,…………,............
-0000000000000,ラジオディレクター,本当に困ったよねぇ？,"Too bad, right?"
-0000000000000,プロデューサー,"大崎……甜花は『グッド・ネムレナイト』の収録を
+game_event_communications40010470829,プロデューサー,…………,............
+game_event_communications40010470830,ラジオディレクター,本当に困ったよねぇ？,"Too bad, right?"
+game_event_communications40010470831,プロデューサー,"大崎……甜花は『グッド・ネムレナイト』の収録を
 いつも楽しみにしていました","Osaki... Tenka always looked forward to recording ""Good Sleepless Night."""
-0000000000000,ラジオディレクター,……ふーん？,...Is that so?
-0000000000000,プロデューサー,"ゴージャス版の後には、
+game_event_communications40010470832,ラジオディレクター,……ふーん？,...Is that so?
+game_event_communications40010470833,プロデューサー,"ゴージャス版の後には、
 レギュラー放送にならないかなあとも言ってましたね","After the deluxe episode, she also wondered if it would become a regular broadcast."
-0000000000000,ラジオディレクター,"ちょっとぉ……！
+game_event_communications40010470834,ラジオディレクター,"ちょっとぉ……！
 その攻め方はずるくなーい……！？","Heyyy...!
 Stop attacking me like that...!?"
-0000000000000,プロデューサー,"はは……！
+game_event_communications40010470835,プロデューサー,"はは……！
 すみません","Haha...!
 I'm sorry."
-0000000000000,ラジオディレクター,"ふふ……──っとにもう、
+game_event_communications40010470836,ラジオディレクター,"ふふ……──っとにもう、
 さっきから全然謝ってないんだけど……！？","Hehe... You're not actually sorry at all from the start, are you...!?"
-0000000000000,彼方,あ……,Ah...
-0000000000000,萌夢,ひっ……！？,Eek...!?
-0000000000000,彼方,"先生……？
+game_event_communications40010470841,彼方,あ……,Ah...
+game_event_communications40010470842,萌夢,ひっ……！？,Eek...!?
+game_event_communications40010470843,彼方,"先生……？
 鈴藤先生ですよね……？","Suzufuji-sensei...?
 It's you, right...?"
-0000000000000,萌夢,"ひゃ、ひゃい
+game_event_communications40010470844,萌夢,"ひゃ、ひゃい
 こんにちは………………","Y-Yup.
 Hello there..."
-0000000000000,萌夢,"ぐ、偶然ね……！
+game_event_communications40010470845,萌夢,"ぐ、偶然ね……！
 甲田さんもライブとか好きなんだ","W-What a coincidence...!
 I didn't know you like concerts too, Koda-san."
-0000000000000,彼方,ああ……,Erm...
-0000000000000,彼方,えーまあ……,Well...
-0000000000000,萌夢,目当てはどのアーティスト……？,Which artist are you here for...?
-0000000000000,彼方,………………,..................
-0000000000000,彼方,先生はアルストロメリアが目当てなんですね……,So you're here for Alstromeria...
-0000000000000,萌夢,ひゃっ？,Hyah?
-0000000000000,彼方,そのアルストロメリアの法被…………,That Alstromeria happi coat...
-0000000000000,彼方,自作でしょ……？,Did you make it yourself...?
-0000000000000,彼方＆萌夢,……………………,........................
-0000000000000,萌夢,まあ……………………,Well........................
-0000000000000,彼方,"……もしかして
+game_event_communications40010470846,彼方,ああ……,Erm...
+game_event_communications40010470847,彼方,えーまあ……,Well...
+game_event_communications40010470848,萌夢,目当てはどのアーティスト……？,Which artist are you here for...?
+game_event_communications40010470849,彼方,………………,..................
+game_event_communications40010470850,彼方,先生はアルストロメリアが目当てなんですね……,So you're here for Alstromeria...
+game_event_communications40010470851,萌夢,ひゃっ？,Hyah?
+game_event_communications40010470852,彼方,そのアルストロメリアの法被…………,That Alstromeria happi coat...
+game_event_communications40010470854,彼方,自作でしょ……？,Did you make it yourself...?
+game_event_communications40010470856,彼方＆萌夢,……………………,........................
+game_event_communications40010470858,萌夢,まあ……………………,Well........................
+game_event_communications40010470859,彼方,"……もしかして
 声かけちゃいけなかったやつですか",...Maybe I shouldn't have called you out.
-0000000000000,萌夢,"も、もちろん
+game_event_communications40010470860,萌夢,"も、もちろん
 そんなことないのよ！",O-Of course you can!
-0000000000000,萌夢,"でも……こんなの……
+game_event_communications40010470861,萌夢,"でも……こんなの……
 先生らしくないでしょ？","It's just that...
 I'm not like a teacher here, right?"
-0000000000000,彼方,まあ……,Uh...
-0000000000000,彼方,否定はできませんね……,I can't disagree...
-0000000000000,彼方＆萌夢,…………………………,..............................
-0000000000000,彼方,あーーえーーと……,"So, um, uh..."
-0000000000000,彼方,お、お互い様ってことでどうですかね……？,H-How about we call it even...?
-0000000000000,彼方,私、今日、リップを塗ってみたんです,I tried wearing lipstick today.
-0000000000000,彼方,あと、肌と、眉と、目と、チークも,"Touched up my skin, eyebrows, eyes, and blush."
-0000000000000,彼方,今日は私も、私らしくないから、だから────,"I'm also not feeling like myself today, so────"
-0000000000000,萌夢,──そう、そうなの！,─R-Right!
-0000000000000,萌夢,だから先生、声をかけてもらうまで気付かなかったの,That's why I didn't recognize you until you called out to me.
-0000000000000,萌夢,"今日の甲田さんは、
+game_event_communications40010470863,彼方,まあ……,Uh...
+game_event_communications40010470865,彼方,否定はできませんね……,I can't disagree...
+game_event_communications40010470867,彼方＆萌夢,…………………………,..............................
+game_event_communications40010470869,彼方,あーーえーーと……,"So, um, uh..."
+game_event_communications40010470870,彼方,お、お互い様ってことでどうですかね……？,H-How about we call it even...?
+game_event_communications40010470873,彼方,私、今日、リップを塗ってみたんです,I tried wearing lipstick today.
+game_event_communications40010470874,彼方,あと、肌と、眉と、目と、チークも,"Touched up my skin, eyebrows, eyes, and blush."
+game_event_communications40010470875,彼方,今日は私も、私らしくないから、だから────,"I'm also not feeling like myself today, so────"
+game_event_communications40010470876,萌夢,──そう、そうなの！,─R-Right!
+game_event_communications40010470877,萌夢,だから先生、声をかけてもらうまで気付かなかったの,That's why I didn't recognize you until you called out to me.
+game_event_communications40010470879,萌夢,"今日の甲田さんは、
 学校で見る姿と全然違ってて……","Today, Koda-san doesn't look like the Koda-san I see at school..."
-0000000000000,萌夢,別の人みたいに……,It's as if you're a different person...
-0000000000000,萌夢,"めっちゃ……
+game_event_communications40010470880,萌夢,別の人みたいに……,It's as if you're a different person...
+game_event_communications40010470882,萌夢,"めっちゃ……
 めっちゃ、きらきらしてて……！","You're so, so... sparkly...!"
-0000000000000,彼方,………………,..................
-0000000000000,萌夢,"やっぱり、楽しんでる時の顔って、
+game_event_communications40010470883,彼方,………………,..................
+game_event_communications40010470884,萌夢,"やっぱり、楽しんでる時の顔って、
 め～っちゃかわいーねぇ……！",They say you look the cutest when you're having fun...!
-0000000000000,彼方,……………………,........................
-0000000000000,彼方,あの、先生ってもしかして,"Um, teacher, could it be that"
-0000000000000,彼方,甘奈ちゃん……推し？,You're a fan of... Amana-chan?
-0000000000000,萌夢,"ひゃっ！？
+game_event_communications40010470885,彼方,……………………,........................
+game_event_communications40010470888,彼方,あの、先生ってもしかして,"Um, teacher, could it be that"
+game_event_communications40010470889,彼方,甘奈ちゃん……推し？,You're a fan of... Amana-chan?
+game_event_communications40010470890,萌夢,"ひゃっ！？
 えと、先生は────","Hyah!?
 Uh, I────"
-0000000000000,彼方,実は……,To be honest...
-0000000000000,彼方,私も…………,Me too............
-0000000000000,萌夢,…………！,............!
-0000000000000,萌夢,"──先生はね、
+game_event_communications40010470891,彼方,実は……,To be honest...
+game_event_communications40010470892,彼方,私も…………,Me too............
+game_event_communications40010470893,萌夢,…………！,............!
+game_event_communications40010470898,萌夢,"──先生はね、
 この間、ラジオでお手紙読んでもらっちゃった","──You know,
 my letter was read on the radio the other day."
-0000000000000,彼方,"えっ
+game_event_communications40010470899,彼方,"えっ
 いいな……！","Eh.
 You're so lucky...!"
-0000000000000,彼方,"あっ、でも、私も！
+game_event_communications400104708100,彼方,"あっ、でも、私も！
 ショッピングモールで握手してもらったことあるんです……！","Ah, actually, me too!
 I shook their hands at the mall...!"
-0000000000000,萌夢,い、いいなぁ……！,N-Now that's what I call luck...!
-0000000000000,彼方,"演劇部の小道具で、
+game_event_communications400104708101,萌夢,い、いいなぁ……！,N-Now that's what I call luck...!
+game_event_communications400104708102,彼方,"演劇部の小道具で、
 キャンプ用品を見にいった時に────","So, when I was looking at camping equipments to find props for the drama club────"
-4001047080010,甜花,──『大丈夫！』,"──""It's okay!"""
-4001047080020,甜花,『甜花、家にいる！！』,"""Tenka is at home!!"""
-0000000000000,プロデューサー,"『ありがとう』
+game_event_communications400104708109,甜花,──『大丈夫！』,"──""It's okay!"""
+game_event_communications400104708110,甜花,『甜花、家にいる！！』,"""Tenka is at home!!"""
+game_event_communications400104708111,プロデューサー,"『ありがとう』
 『夜遅くにごめんな』","""Thank you.""
 ""Sorry it's so late at night."""
-0000000000000,プロデューサー,『それじゃ、今から行くから』,"""I'll be on my way then."""
-0000000000000,プロデューサー,（ダンボールいっぱいの手紙────）,(A cardboard box full of letters────)
-0000000000000,プロデューサー,（甜花、喜ぶだろうな……）,(Tenka will probably rejoice...)
-0000000000000,プロデューサー,"いや……
+game_event_communications400104708112,プロデューサー,『それじゃ、今から行くから』,"""I'll be on my way then."""
+game_event_communications400104708114,プロデューサー,（ダンボールいっぱいの手紙────）,(A cardboard box full of letters────)
+game_event_communications400104708115,プロデューサー,（甜花、喜ぶだろうな……）,(Tenka will probably rejoice...)
+game_event_communications400104708116,プロデューサー,"いや……
 この手紙はきっと","No...
 I'm sure that these letters..."
-0000000000000,プロデューサー,（……３人で、大事に読んでいくんだろうな）,(...will be read carefully by the three of them.)
-0000000000000,プロデューサー,短い文章でしかない手紙,Letters with only short sentences.
-0000000000000,プロデューサー,"このひとつひとつが、
+game_event_communications400104708117,プロデューサー,（……３人で、大事に読んでいくんだろうな）,(...will be read carefully by the three of them.)
+game_event_communications400104708120,プロデューサー,短い文章でしかない手紙,Letters with only short sentences.
+game_event_communications400104708121,プロデューサー,"このひとつひとつが、
 誰かの人生のカケラなんだ","Every single one of them
 is a piece of someone's life."
-0000000000000,プロデューサー,"全部に返事をするのは難しくても、
+game_event_communications400104708124,プロデューサー,"全部に返事をするのは難しくても、
 大丈夫……","It's difficult to respond to all of them, but that's alright..."
-select,,想いは、届く,"Feelings will
+game_event_communications400104708125,,想いは、届く,"Feelings will
 reach them."
-0000000000000,プロデューサー,"誰かから、誰かに……
+game_event_communications400104708126,プロデューサー,"誰かから、誰かに……
 まわりまわって────","From one person to another...
 Going around and around────"
-0000000000000,プロデューサー,知らないところで支えて、支えられて、生きていくんだ,Our lives support and are supported in ways we aren't aware of.
-0000000000000,プロデューサー,彼女たちを架け橋として,The girls connect us that way.
-4001047080030,甜花,"なーちゃん……！
+game_event_communications400104708127,プロデューサー,知らないところで支えて、支えられて、生きていくんだ,Our lives support and are supported in ways we aren't aware of.
+game_event_communications400104708130,プロデューサー,彼女たちを架け橋として,The girls connect us that way.
+game_event_communications400104708136,甜花,"なーちゃん……！
 これから、プロデューサーさんが────","Naa-chan...!
 Producer-san is────"
-4001047080040,甜花,"あれ……
+game_event_communications400104708138,甜花,"あれ……
 なーちゃん、お出かけ？","Oh...
 Naa-chan, are you heading out?"
-4001047080050,甘奈,"ランニングだよ～
+game_event_communications400104708140,甘奈,"ランニングだよ～
 ちょっとだけだけどね","I'm going for a run～
 Just for a little bit."
-4001047080060,甜花,"よ、夜だよ……？
+game_event_communications400104708142,甜花,"よ、夜だよ……？
 ひとりで大丈夫……？","I-It's dark out...?
 Are you okay by yourself...?"
-4001047080070,甘奈,うん！　そんなに遠くまで行かないから,Yeah! I'm not going anywhere too far.
-4001047080080,甜花,"で、でも……
+game_event_communications400104708143,甘奈,うん！　そんなに遠くまで行かないから,Yeah! I'm not going anywhere too far.
+game_event_communications400104708144,甜花,"で、でも……
 寒く……ない……？",W-What if you... catch a cold...?
-4001047080090,甘奈,えへへ、走れば大丈夫だよー☆,"Ehehe, I'll be fine if I run☆"
-4001047080100,甜花,"あぅ……じゃあ……
+game_event_communications400104708145,甘奈,えへへ、走れば大丈夫だよー☆,"Ehehe, I'll be fine if I run☆"
+game_event_communications400104708146,甜花,"あぅ……じゃあ……
 て、甜花も────","Ah... then...
 Tenka will also────"
-4001047080110,甘奈,"これからプロデューサーさんが来るんでしょ？
+game_event_communications400104708148,甘奈,"これからプロデューサーさんが来るんでしょ？
 じゃあ、甜花ちゃんは家にいなくちゃ！","Producer-san is coming over soon, right?
 Then Tenka-chan has to stay home!"
-4001047080120,甘奈,……大丈夫だから,...I'll be fine.
-4001047080130,甘奈,……ね？,...Okay?
-4001047080140,甜花,……う、うん……,......O-Okay......
-4001047080150,甘奈,"帰りにコンビニで何か買ってくるね
+game_event_communications400104708149,甘奈,……大丈夫だから,...I'll be fine.
+game_event_communications400104708151,甘奈,……ね？,...Okay?
+game_event_communications400104708153,甜花,……う、うん……,......O-Okay......
+game_event_communications400104708154,甘奈,"帰りにコンビニで何か買ってくるね
 欲しいものある？",I'll stop by the convenience store on my way home. Is there anything you want?
-4001047080160,甜花,"あ、えと……
+game_event_communications400104708155,甜花,"あ、えと……
 ……いいの……？","Ah, um...
 ...If that's alright...?"
-4001047080170,甜花,じゃ、じゃあ────！,T-Then────!
-0000000000000,店員連絡ノート,『────の、落とし物あり』,"""────there's a lost and found item."""
-0000000000000,店員連絡ノート,『棚卸しは明日の午前から────』,"""Inventory check at tomorrow's morning────"""
-0000000000000,店員連絡ノート,『追伸！！！！』,"""P.S.!!!!"""
-0000000000000,店員連絡ノート,『大崎甘奈に激似の子、発見。本人かも！？』,"""I saw a girl who looks like Amana Osaki. Maybe it's her!?"""
-0000000000000,店員連絡ノート,『他にも見かけた人がいたら教えてください！！』,"""Please let me know if someone else sees her!!"""
-0000000000000,銀之介,…………,............
-0000000000000,銀之介,甘奈…………,Amana...
-0000000000000,銀之介,（どこかで聞いたような名前だけど……）,(I've heard that name somewhere...)
-0000000000000,銀之介,（なんだっけ────）,(Where was it────)
-0000000000000,銀之介,いらっしゃいませー,Welcome.
-0000000000000,銀之介,お待ちでしたらどうぞー,I can help you over here.
-4001047080180,高校生くらいの子,あ、あの……！,U-Um...!
-0000000000000,銀之介,はい,Yes.
-4001047080190,高校生くらいの子,"あんまん……
+game_event_communications400104708157,甜花,じゃ、じゃあ────！,T-Then────!
+game_event_communications400104708168,店員連絡ノート,『────の、落とし物あり』,"""────there's a lost and found item."""
+game_event_communications400104708170,店員連絡ノート,『棚卸しは明日の午前から────』,"""Inventory check at tomorrow's morning────"""
+game_event_communications400104708172,店員連絡ノート,『追伸！！！！』,"""P.S.!!!!"""
+game_event_communications400104708173,店員連絡ノート,『大崎甘奈に激似の子、発見。本人かも！？』,"""I saw a girl who looks like Amana Osaki. Maybe it's her!?"""
+game_event_communications400104708174,店員連絡ノート,『他にも見かけた人がいたら教えてください！！』,"""Please let me know if someone else sees her!!"""
+game_event_communications400104708175,銀之介,…………,............
+game_event_communications400104708176,銀之介,甘奈…………,Amana...
+game_event_communications400104708179,銀之介,（どこかで聞いたような名前だけど……）,(I've heard that name somewhere...)
+game_event_communications400104708181,銀之介,（なんだっけ────）,(Where was it────)
+game_event_communications400104708183,銀之介,いらっしゃいませー,Welcome.
+game_event_communications400104708189,銀之介,お待ちでしたらどうぞー,I can help you over here.
+game_event_communications400104708190,高校生くらいの子,あ、あの……！,U-Um...!
+game_event_communications400104708191,銀之介,はい,Yes.
+game_event_communications400104708192,高校生くらいの子,"あんまん……
 売り切れ……ですよね？",Are red bean buns... sold out?
-0000000000000,銀之介,あ……そうですね……,Oh... Let me see...
-0000000000000,銀之介,（しまった、今日は深夜帯じゃなかった……）,"(Damn, I forgot that it's not the midnight shift right now...)"
-0000000000000,銀之介,（この時間はホットスナック補充しないと……）,(I'm supposed to restock hot snacks at this time...)
-0000000000000,銀之介,"すみません
+game_event_communications400104708193,銀之介,あ……そうですね……,Oh... Let me see...
+game_event_communications400104708195,銀之介,（しまった、今日は深夜帯じゃなかった……）,"(Damn, I forgot that it's not the midnight shift right now...)"
+game_event_communications400104708196,銀之介,（この時間はホットスナック補充しないと……）,(I'm supposed to restock hot snacks at this time...)
+game_event_communications400104708197,銀之介,"すみません
 今、切らしてまして","Sorry.
 We're out right now."
-4001047080200,高校生くらいの子,"すぐ作ったりとかって……
+game_event_communications400104708198,高校生くらいの子,"すぐ作ったりとかって……
 できたりします……？",Is it possible... for you to make them quickly or something...?
-0000000000000,銀之介,あ……,Ah...
-0000000000000,銀之介,"確か……肉まん系は時間がかかるんですよ
+game_event_communications400104708199,銀之介,あ……,Ah...
+game_event_communications400104708200,銀之介,"確か……肉まん系は時間がかかるんですよ
 かなりお待ちいただくことになるかと……",If I remember correctly... The buns take a long time to be prepared. I'm afraid you'll have to wait quite a while...
-4001047080210,高校生くらいの子,そうなんですね……！,I see...!
-4001047080220,高校生くらいの子,"すみませんでした
+game_event_communications400104708201,高校生くらいの子,そうなんですね……！,I see...!
+game_event_communications400104708202,高校生くらいの子,"すみませんでした
 じゃあ、大丈夫です……！","Sorry for asking.
 It's okay, then...!"
-0000000000000,銀之介,申し訳ございません……,I apologize...
-0000000000000,銀之介,（ずっと店内を回ってる……）,(She's been circling around the store this whole time...)
-0000000000000,銀之介,（あんまん……食べたかったのかな……）,(Does she want a red bean bun that much...)
-0000000000000,銀之介,………………,..................
-0000000000000,銀之介,"あの……
+game_event_communications400104708203,銀之介,申し訳ございません……,I apologize...
+game_event_communications400104708209,銀之介,（ずっと店内を回ってる……）,(She's been circling around the store this whole time...)
+game_event_communications400104708210,銀之介,（あんまん……食べたかったのかな……）,(Does she want a red bean bun that much...)
+game_event_communications400104708211,銀之介,………………,..................
+game_event_communications400104708212,銀之介,"あの……
 お客様","Um...
 Miss?"
-4001047080230,高校生くらいの子,え、はい……？,"Oh, yes...?"
-0000000000000,銀之介,"アメリカンドッグだったら
+game_event_communications400104708213,高校生くらいの子,え、はい……？,"Oh, yes...?"
+game_event_communications400104708214,銀之介,"アメリカンドッグだったら
 すぐできますけど","If you're fine with corn dogs,
 I can get them ready in a minute."
-0000000000000,銀之介,"アメリカンドッグは、
+game_event_communications400104708216,銀之介,"アメリカンドッグは、
 レンジでチンでできるので",Since corn dogs can be prepared in the microwave.
-4001047080240,高校生くらいの子,……,......
-4001047080250,高校生くらいの子,"じゃあ、アメリカンドッグ、ひとつ──
+game_event_communications400104708217,高校生くらいの子,……,......
+game_event_communications400104708218,高校生くらいの子,"じゃあ、アメリカンドッグ、ひとつ──
 あ、ふたつ、お願いできますか","Then I'll have a corn dog...
 Oh, actually, two please."
-0000000000000,銀之介,はい,Sure.
-4001047080260,高校生くらいの子,あと、これもお願いします,And these too.
-0000000000000,銀之介,はい,Okay.
-0000000000000,銀之介,（缶のコンポタ、コーヒー、ミルクティ……）,"(Canned corn soup, coffee, milk tea...)"
-0000000000000,銀之介,（の、ホット────）,(hot────)
-0000000000000,銀之介,あと、アメリカンドッグをおふたつですね,And two corn dogs.
-0000000000000,店内,………………………………,....................................
-0000000000000,銀之介,"……
+game_event_communications400104708219,銀之介,はい,Sure.
+game_event_communications400104708220,高校生くらいの子,あと、これもお願いします,And these too.
+game_event_communications400104708223,銀之介,はい,Okay.
+game_event_communications400104708230,銀之介,（缶のコンポタ、コーヒー、ミルクティ……）,"(Canned corn soup, coffee, milk tea...)"
+game_event_communications400104708231,銀之介,（の、ホット────）,(hot────)
+game_event_communications400104708232,銀之介,あと、アメリカンドッグをおふたつですね,And two corn dogs.
+game_event_communications400104708240,店内,………………………………,....................................
+game_event_communications400104708242,銀之介,"……
 暦の上では春ですけど","......
 The calendar says it's spring already,"
-0000000000000,銀之介,今日は寒いですね,but the weather is still cold today.
-4001047080270,高校生くらいの子,"……
+game_event_communications400104708243,銀之介,今日は寒いですね,but the weather is still cold today.
+game_event_communications400104708244,高校生くらいの子,"……
 ですね…………","......
 I know, right..."
-4001047080280,高校生くらいの子,"ちょっと運動してたんですけど
+game_event_communications400104708245,高校生くらいの子,"ちょっと運動してたんですけど
 それでも","I was exercising a little earlier,"
-4001047080290,高校生くらいの子,すごく、寒くて,but it's still so cold.
-0000000000000,銀之介,お待たせしました,Thank you for waiting.
-0000000000000,銀之介,"すみません、ホットスナック系、慣れてなくて……
+game_event_communications400104708246,高校生くらいの子,すごく、寒くて,but it's still so cold.
+game_event_communications400104708252,銀之介,お待たせしました,Thank you for waiting.
+game_event_communications400104708255,銀之介,"すみません、ホットスナック系、慣れてなくて……
 あたためすぎてしまったかもしれません","Sorry, I'm not used to preparing hot snacks...
 I think I warmed it longer than needed."
-0000000000000,銀之介,ちょっと熱いかも……,It might be a little too hot...
-4001047080300,高校生くらいの子,はい──,No worries──
-4001047080310,高校生くらいの子,"わ……
+game_event_communications400104708256,銀之介,ちょっと熱いかも……,It might be a little too hot...
+game_event_communications400104708258,高校生くらいの子,はい──,No worries──
+game_event_communications400104708259,高校生くらいの子,"わ……
 本当ですね、ちょっと熱いかも……","Whoa...
 You're right. It's a little hot..."
-4001047080320,高校生くらいの子,でも、あたたかい……,"It is warm, though..."
-4001047080330,高校生くらいの子,ありがとうございました！,Thank you very much!
-0000000000000,銀之介,……ありがとうございました,...Thank you very much.
-4001047080340,店内BGM,『────♪』,"""──── ♪"""
-4001047080350,店内BGM,『コンビニへご来店のみなさま、こんばんはー』,"""Good evening to all convenience store shoppers."""
-4001047080351,店内BGM,『アルストロメリアです────』,"""We are Alstroemeria────"""
-0000000000000,銀之介,あれ……,Huh...
-0000000000000,銀之介,もうそんな時間か,Is it time already?
-0000000000000,銀之介,品出し、しなくちゃ,I should go stock some stuff.
-4001047080360,甜花,『ぴ』,"""Pi"""
-4001047080370,甘奈,『ぴ』,"""Pi"""
-4001047080380,千雪,『ぴ』,"""Pi"""
-4001047080390,甜花,『ぴ』,"""Pi"""
-4001047080400,甘奈,『ぴ』,"""Pi"""
-4001047080410,千雪,『ぴ』,"""Pi"""
-4001047080411,一同,『ぴ』,"""Pi"""
-4001047080412,一同,『ぴ』,"""Pi"""
-4001047080413,一同,『ぴ』,"""Pi"""
-4001047080414,一同,『ぴーん────────』,"""Ping────────"""
-0000000000000,unknown,久しぶりに,"I opened the curtains,"
-0000000000000,unknown,カーテンを開けた,for the first time in a long while.
-0000000000000,off,まっくらだった部屋に,"In the room that was pitch black,"
-0000000000000,off,光が,the light came.
-info,game_event_communications/400104708.json,
-Translator,Ruru,
+game_event_communications400104708260,高校生くらいの子,でも、あたたかい……,"It is warm, though..."
+game_event_communications400104708264,高校生くらいの子,ありがとうございました！,Thank you very much!
+game_event_communications400104708265,銀之介,……ありがとうございました,...Thank you very much.
+game_event_communications400104708267,店内BGM,『────♪』,"""──── ♪"""
+game_event_communications400104708268,店内BGM,『コンビニへご来店のみなさま、こんばんはー』,"""Good evening to all convenience store shoppers."""
+game_event_communications400104708269,店内BGM,『アルストロメリアです────』,"""We are Alstroemeria────"""
+game_event_communications400104708271,銀之介,あれ……,Huh...
+game_event_communications400104708274,銀之介,もうそんな時間か,Is it time already?
+game_event_communications400104708276,銀之介,品出し、しなくちゃ,I should go stock some stuff.
+game_event_communications400104708288,甜花,『ぴ』,"""Pi"""
+game_event_communications400104708290,甘奈,『ぴ』,"""Pi"""
+game_event_communications400104708292,千雪,『ぴ』,"""Pi"""
+game_event_communications400104708294,甜花,『ぴ』,"""Pi"""
+game_event_communications400104708296,甘奈,『ぴ』,"""Pi"""
+game_event_communications400104708298,千雪,『ぴ』,"""Pi"""
+game_event_communications400104708300,一同,『ぴ』,"""Pi"""
+game_event_communications400104708301,一同,『ぴ』,"""Pi"""
+game_event_communications400104708302,一同,『ぴ』,"""Pi"""
+game_event_communications400104708305,一同,『ぴーん────────』,"""Ping────────"""
+game_event_communications400104708311,unknown,久しぶりに,"I opened the curtains,"
+game_event_communications400104708313,unknown,カーテンを開けた,for the first time in a long while.
+game_event_communications400104708316,off,まっくらだった部屋に,"In the room that was pitch black,"
+game_event_communications400104708319,off,光が,the light came.
+"info,game_event_communications/400104708.json,,",game_event_communications/400104708.json,
+"Translator,,,",Ruru,

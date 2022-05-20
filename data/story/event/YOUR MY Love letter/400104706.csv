@@ -1,243 +1,243 @@
 id,name,text,trans
-0000000000000,ピアスの女性,仕事はチームプレイだ,My job is to be a team player.
-0000000000000,ピアスの女性,当然、私の代わりはいるよ,So of course I can be replaced.
-0000000000000,ピアスの女性,社会はそうやって回っている,That's how society works.
-0000000000000,ピアスの女性,それが正しい,It's the right thing to do.
-0000000000000,ピアスの女性,正しいんだ,It is.
-0000000000000,バラエティ司会,『では次のコーナーは────』,"""The next segment is────"""
-0000000000000,バラエティ司会,『#水曜日のア・ラ・モード～～～～！』,"""#Wednesday_A_La_Mode～!"""
-0000000000000,バラエティ司会,『こちらはトレンドファッションを紹介するコーナー……』,"""This is the trendy fashion segment..."""
-0000000000000,バラエティ司会,『……なんですが……』,"""...However..."""
-0000000000000,バラエティ司会,『今回はおやすみとなります』,"""We have to postpone it this time."""
-0000000000000,バラエティ司会,『ガイドの甘奈ちゃんが風邪気味ということでね』,"""Our guide, Amana-chan, has caught a cold."""
-0000000000000,雛壇芸人,『甘奈ちゃんのコーナーがないなんてやだやだ～！』,"""Nooooo we want Amana's segment back～!"""
-0000000000000,バラエティ司会,『そこ、野太い声で駄々こねないでもらっていいですかね』,"""I'd appreciate if y'all can stop throwing a tantrum over there."""
-0000000000000,雛壇芸人,『にへへ……甜花の出番……！』,"""Nihehe... It's Tenka's turn..."""
-0000000000000,バラエティ司会,『ああ、甘奈ちゃんの双子の甜花ちゃんね』,"""Oh right, Tenka-chan is Amana-chan's twin."""
-0000000000000,バラエティ司会,"『じゃ、ちょっと電話してみましょうか
+game_event_communications4001047062,ピアスの女性,仕事はチームプレイだ,My job is to be a team player.
+game_event_communications4001047064,ピアスの女性,当然、私の代わりはいるよ,So of course I can be replaced.
+game_event_communications4001047066,ピアスの女性,社会はそうやって回っている,That's how society works.
+game_event_communications4001047068,ピアスの女性,それが正しい,It's the right thing to do.
+game_event_communications40010470610,ピアスの女性,正しいんだ,It is.
+game_event_communications40010470613,バラエティ司会,『では次のコーナーは────』,"""The next segment is────"""
+game_event_communications40010470618,バラエティ司会,『#水曜日のア・ラ・モード～～～～！』,"""#Wednesday_A_La_Mode～!"""
+game_event_communications40010470620,バラエティ司会,『こちらはトレンドファッションを紹介するコーナー……』,"""This is the trendy fashion segment..."""
+game_event_communications40010470621,バラエティ司会,『……なんですが……』,"""...However..."""
+game_event_communications40010470622,バラエティ司会,『今回はおやすみとなります』,"""We have to postpone it this time."""
+game_event_communications40010470623,バラエティ司会,『ガイドの甘奈ちゃんが風邪気味ということでね』,"""Our guide, Amana-chan, has caught a cold."""
+game_event_communications40010470624,雛壇芸人,『甘奈ちゃんのコーナーがないなんてやだやだ～！』,"""Nooooo we want Amana's segment back～!"""
+game_event_communications40010470625,バラエティ司会,『そこ、野太い声で駄々こねないでもらっていいですかね』,"""I'd appreciate if y'all can stop throwing a tantrum over there."""
+game_event_communications40010470626,雛壇芸人,『にへへ……甜花の出番……！』,"""Nihehe... It's Tenka's turn..."""
+game_event_communications40010470627,バラエティ司会,『ああ、甘奈ちゃんの双子の甜花ちゃんね』,"""Oh right, Tenka-chan is Amana-chan's twin."""
+game_event_communications40010470628,バラエティ司会,"『じゃ、ちょっと電話してみましょうか
 ……ものまねにはツッコミませんよ～……』","""Well, let's give her a call.
 ...I'm not gonna follow up on your Tenka-chan immitation～..."""
-0000000000000,バラエティ司会,『……こういうのね、ライブ感あるでしょ────』,"""...Doesn't this feel like we're filming live?────"""
-0000000000000,バラエティ司会,"『出ないっていうのもね、うん
+game_event_communications40010470632,バラエティ司会,『……こういうのね、ライブ感あるでしょ────』,"""...Doesn't this feel like we're filming live?────"""
+game_event_communications40010470634,バラエティ司会,"『出ないっていうのもね、うん
 生放送ならではだよね』","""It's only on live TV that people don't answer their phones."""
-4001047060010,甜花,『あ…………』,"""Ah......"""
-0000000000000,バラエティ司会,『あ、もしもし！　甜花ちゃん！？』,"""Oh, hello! Is this Tenka-chan!?"""
-4001047060020,甜花,"『ひ、ひゃいっ……！
+game_event_communications40010470637,甜花,『あ…………』,"""Ah......"""
+game_event_communications40010470638,バラエティ司会,『あ、もしもし！　甜花ちゃん！？』,"""Oh, hello! Is this Tenka-chan!?"""
+game_event_communications40010470639,甜花,"『ひ、ひゃいっ……！
 て……甜花です……！』","""Y-Yesh...!
 I'm...Tenka...!"""
-0000000000000,バラエティ司会,『ごめんね、電話しちゃって～』,"""Excuse me for calling you～"""
-0000000000000,バラエティ司会,『甘奈ちゃんの様子はどう？』,"""How's Amana-chan doing?"""
-4001047060030,甜花,『あ……えと……』,"""Ah... um..."""
-0000000000000,甜花,『……、…………』,"""......, ............"""
-0000000000000,バラエティ司会,『……………………』,"""........................"""
-0000000000000,バラエティ司会,『あれ、どうしたのかな……？』,"""Erm, what's wrong...?"""
-4001047060050,甜花,『……げ、元気……だそうです……！』,"""S-she's fine...!"""
-0000000000000,バラエティ司会,『あれっ、そうなの？』,"""Oh, really?"""
-0000000000000,バラエティ司会,『それだと仮病ってことになっちゃうけど……』,"""Sounds like she's faking sick here though..."""
-4001047060060,甜花,"『あ……ち、違くて……
+game_event_communications40010470640,バラエティ司会,『ごめんね、電話しちゃって～』,"""Excuse me for calling you～"""
+game_event_communications40010470641,バラエティ司会,『甘奈ちゃんの様子はどう？』,"""How's Amana-chan doing?"""
+game_event_communications40010470642,甜花,『あ……えと……』,"""Ah... um..."""
+game_event_communications40010470643,甜花,『……、…………』,"""......, ............"""
+game_event_communications40010470644,バラエティ司会,『……………………』,"""........................"""
+game_event_communications40010470645,バラエティ司会,『あれ、どうしたのかな……？』,"""Erm, what's wrong...?"""
+game_event_communications40010470646,甜花,『……げ、元気……だそうです……！』,"""S-she's fine...!"""
+game_event_communications40010470647,バラエティ司会,『あれっ、そうなの？』,"""Oh, really?"""
+game_event_communications40010470648,バラエティ司会,『それだと仮病ってことになっちゃうけど……』,"""Sounds like she's faking sick here though..."""
+game_event_communications40010470650,甜花,"『あ……ち、違くて……
 ちょっと……声が出ないだけ、って……！』","""Ah... N-No...
 She just... lost her voice a little...!"""
-0000000000000,バラエティ司会,『えっ、大変じゃない。早く治してねって伝えて……！？』,"""Eh, that's serious then. Please tell her to get well soon...!?"""
-4001047060070,甜花,『はい……！』,"""O-Okay...!"""
-0000000000000,バラエティ司会,『よかったら甜花ちゃんスタジオに来ない？』,"""Why don't you come to the studio, Tenka-chan?"""
-0000000000000,バラエティ司会,『甘奈ちゃんのコーナー、回してほしいんだけど！』,"""We want Amana's segment back!"""
-4001047060080,甜花,『あ……』,"""Ah..."""
-4001047060090,甜花,『えと……』,"""Um..."""
-4001047060100,甜花,『ご、ごめんなさい……』,"""I-I'm sorry..."""
-4001047060110,甜花,『無理です……』,"""I can't..."""
-4001047060120,甜花,"『甜花、なーちゃんの代わりは……
+game_event_communications40010470651,バラエティ司会,『えっ、大変じゃない。早く治してねって伝えて……！？』,"""Eh, that's serious then. Please tell her to get well soon...!?"""
+game_event_communications40010470652,甜花,『はい……！』,"""O-Okay...!"""
+game_event_communications40010470653,バラエティ司会,『よかったら甜花ちゃんスタジオに来ない？』,"""Why don't you come to the studio, Tenka-chan?"""
+game_event_communications40010470654,バラエティ司会,『甘奈ちゃんのコーナー、回してほしいんだけど！』,"""We want Amana's segment back!"""
+game_event_communications40010470655,甜花,『あ……』,"""Ah..."""
+game_event_communications40010470656,甜花,『えと……』,"""Um..."""
+game_event_communications40010470657,甜花,『ご、ごめんなさい……』,"""I-I'm sorry..."""
+game_event_communications40010470658,甜花,『無理です……』,"""I can't..."""
+game_event_communications40010470659,甜花,"『甜花、なーちゃんの代わりは……
 できない、から……』","""Tenka can't replace Naa-chan, so..."""
-0000000000000,バラエティ司会,『そっかあ、残念だなあ…………』,"""I see, that's too bad..."""
-0000000000000,ピアスの女性,………………………………,....................................
-0000000000000,ピアスの女性,…………っ！,............gh!
-0000000000000,ピアスの女性,（ああ……）,(Oh...)
-0000000000000,ピアスの女性,（ああ、だめだ）,(Oh no.)
-0000000000000,ピアスの女性,（泣いたらだめだ、こんなことで）,(Don't cry over something like this.)
-4001047060130,甜花,"『えと……じゃあ、甜花から……
+game_event_communications40010470660,バラエティ司会,『そっかあ、残念だなあ…………』,"""I see, that's too bad..."""
+game_event_communications40010470663,ピアスの女性,………………………………,....................................
+game_event_communications40010470664,ピアスの女性,…………っ！,............gh!
+game_event_communications40010470665,ピアスの女性,（ああ……）,(Oh...)
+game_event_communications40010470666,ピアスの女性,（ああ、だめだ）,(Oh no.)
+game_event_communications40010470667,ピアスの女性,（泣いたらだめだ、こんなことで）,(Don't cry over something like this.)
+game_event_communications40010470668,甜花,"『えと……じゃあ、甜花から……
 えっと……』","""Um... then, Tenka will...
 um..."""
-4001047060140,甜花,『最新トレンドのスイーツを……送ります！』,"""Send you... the latest trendy sweets!"""
-4001047060150,甜花,"『それではスタジオのみなさん、どうぞおめしが……
+game_event_communications40010470669,甜花,『最新トレンドのスイーツを……送ります！』,"""Send you... the latest trendy sweets!"""
+game_event_communications40010470670,甜花,"『それではスタジオのみなさん、どうぞおめしが……
 おめしがり……──食べてください……！』","""Everyone at the studio, please enjoy the squish...
 The swish...──Please eat...!"
-0000000000000,バラエティ司会,"『────ということで、
+game_event_communications40010470672,バラエティ司会,"『────ということで、
 こちらに甜花ちゃんからのスイーツが届いておりまーす』","""────With that being said,
 here are the sweets we received from Tenka-chan."""
-0000000000000,雛壇芸人,『し、仕込み～～！』,"""T-that's so scripted～!"""
-0000000000000,雛壇芸人,『さっき、これがライブ感って言ってたじゃないですかー！』,"""You said earlier that this would feel like live TV!"""
-0000000000000,バラエティ司会,『うるさい！　つべこべ言わない！』,"""Quiet! Stop complaining!"""
-0000000000000,バラエティ司会,『さーて、どんなスイーツか見てみましょう────』,"""Anyway, let's see what kind of sweets────"""
-0000000000000,ピアスの女性,……………………………………,..........................................
-0000000000000,ピアスの女性,……っ…………,......n............
-0000000000000,ピアスの女性,"………………っ
+game_event_communications40010470673,雛壇芸人,『し、仕込み～～！』,"""T-that's so scripted～!"""
+game_event_communications40010470674,雛壇芸人,『さっき、これがライブ感って言ってたじゃないですかー！』,"""You said earlier that this would feel like live TV!"""
+game_event_communications40010470675,バラエティ司会,『うるさい！　つべこべ言わない！』,"""Quiet! Stop complaining!"""
+game_event_communications40010470676,バラエティ司会,『さーて、どんなスイーツか見てみましょう────』,"""Anyway, let's see what kind of sweets────"""
+game_event_communications40010470681,ピアスの女性,……………………………………,..........................................
+game_event_communications40010470683,ピアスの女性,……っ…………,......n............
+game_event_communications40010470685,ピアスの女性,"………………っ
 ふ…………っ、く────────","..................gh
 sniff............nngh────────"
-0000000000000,ピアスの女性,（……くそ……泣きたくなんかないのに）,(......Damn...... I didn't want to cry.)
-0000000000000,ピアスの女性,（いいなぁ……）,(I wish......)
-0000000000000,ピアスの女性,（……いいなぁ……）,(......I wish......)
-0000000000000,ピアスの女性,"あなたじゃないと駄目、って言ってもらえて
+game_event_communications40010470687,ピアスの女性,（……くそ……泣きたくなんかないのに）,(......Damn...... I didn't want to cry.)
+game_event_communications40010470689,ピアスの女性,（いいなぁ……）,(I wish......)
+game_event_communications40010470691,ピアスの女性,（……いいなぁ……）,(......I wish......)
+game_event_communications40010470694,ピアスの女性,"あなたじゃないと駄目、って言ってもらえて
 ………………いいなぁ………………","......I wish someone would tell me
 ...""You're the only one""......"
-0000000000000,年配の男性,もう、親が必要ない歳だということは,I know
-0000000000000,年配の男性,わかっているが,you're old enough that you don't need your parents anymore.
-0000000000000,自分,『最近は音楽がオンラインで買えるんだよな』,"""I heard that we can buy music online these days."""
-0000000000000,自分,『やり方、教えてくれ』,"""Can you show me how?"""
-0000000000000,年配の男性,……既読がつかないまま,...She still hasn't read it.
-0000000000000,年配の男性,10日経った,It's been ten days.
-0000000000000,自分,『今度、家に荷物取りに来るんだよな』,"""You're picking up your stuff the next time you're visiting, right?"""
-0000000000000,自分,『その時でいいから』,"""I'll see you then."""
-0000000000000,チェインの表示,『──既読──』,"""──Read──"""
-0000000000000,年配の男性,あ……,Ah...
-0000000000000,娘,『当分、帰るの無理になった』,"""i won't visit home for a while"""
-0000000000000,娘,『ごめん』,"""sorry"""
-0000000000000,自分,『仕事？』,"""Work?"""
-0000000000000,娘,『うん』,"""yeah"""
-0000000000000,年配の男性,……うん,...I see.
-0000000000000,年配の男性,もう、俺が必要ないってことはわかっているが,I know you don't need me anymore.
-0000000000000,高校教師,必要とされているのは,"As a teacher,"
-0000000000000,高校教師,先生としての、私,I am needed.
-0000000000000,高校教師,"わ……このフェス、
+game_event_communications40010470698,年配の男性,もう、親が必要ない歳だということは,I know
+game_event_communications400104706100,年配の男性,わかっているが,you're old enough that you don't need your parents anymore.
+game_event_communications400104706104,自分,『最近は音楽がオンラインで買えるんだよな』,"""I heard that we can buy music online these days."""
+game_event_communications400104706105,自分,『やり方、教えてくれ』,"""Can you show me how?"""
+game_event_communications400104706108,年配の男性,……既読がつかないまま,...She still hasn't read it.
+game_event_communications400104706109,年配の男性,10日経った,It's been ten days.
+game_event_communications400104706112,自分,『今度、家に荷物取りに来るんだよな』,"""You're picking up your stuff the next time you're visiting, right?"""
+game_event_communications400104706114,自分,『その時でいいから』,"""I'll see you then."""
+game_event_communications400104706116,チェインの表示,『──既読──』,"""──Read──"""
+game_event_communications400104706117,年配の男性,あ……,Ah...
+game_event_communications400104706123,娘,『当分、帰るの無理になった』,"""i won't visit home for a while"""
+game_event_communications400104706124,娘,『ごめん』,"""sorry"""
+game_event_communications400104706125,自分,『仕事？』,"""Work?"""
+game_event_communications400104706126,娘,『うん』,"""yeah"""
+game_event_communications400104706127,年配の男性,……うん,...I see.
+game_event_communications400104706129,年配の男性,もう、俺が必要ないってことはわかっているが,I know you don't need me anymore.
+game_event_communications400104706134,高校教師,必要とされているのは,"As a teacher,"
+game_event_communications400104706135,高校教師,先生としての、私,I am needed.
+game_event_communications400104706142,高校教師,"わ……このフェス、
 うちのすぐ近くでやるんだぁ……！",Wow... This festival is going to be right around the corner from my house...!
-0000000000000,高校教師,近くに来るんだ、アルストロメリア……！,Alstroemeria is coming my way...!
-0000000000000,高校教師,行くしか────！,I must go────!
-0000000000000,off,あれ、先生……？,"Uh, teacher...?"
-0000000000000,off,"やっぱ先生じゃん！
+game_event_communications400104706147,高校教師,近くに来るんだ、アルストロメリア……！,Alstroemeria is coming my way...!
+game_event_communications400104706153,高校教師,行くしか────！,I must go────!
+game_event_communications400104706157,off,あれ、先生……？,"Uh, teacher...?"
+game_event_communications400104706158,off,"やっぱ先生じゃん！
 こんちはー！","It's you!
 Good afternoon!"
-0000000000000,高校教師,……！,......!
-0000000000000,高校教師,………………,..................
-0000000000000,バスのアナウンス,『────お客さーん、乗りませんか』,"""────Are you riding?"""
-0000000000000,高校教師,あっ……,Ah......
-0000000000000,高校教師,"の、乗りません
+game_event_communications400104706162,高校教師,……！,......!
+game_event_communications400104706166,高校教師,………………,..................
+game_event_communications400104706168,バスのアナウンス,『────お客さーん、乗りませんか』,"""────Are you riding?"""
+game_event_communications400104706169,高校教師,あっ……,Ah......
+game_event_communications400104706172,高校教師,"の、乗りません
 この経路じゃないので……！","N-No, I'm not.
 It's not my route...!"
-0000000000000,高校教師,すみません……,I'm sorry...
-0000000000000,高校教師,……………………,........................
-0000000000000,高校教師,（……やめよう）,(...Stop it.)
-0000000000000,高校教師,（今は『先生』にならなくちゃ）,"(You have to be a ""teacher"" now.)"
-0000000000000,高校教師,"…………
+game_event_communications400104706173,高校教師,すみません……,I'm sorry...
+game_event_communications400104706177,高校教師,……………………,........................
+game_event_communications400104706179,高校教師,（……やめよう）,(...Stop it.)
+game_event_communications400104706180,高校教師,（今は『先生』にならなくちゃ）,"(You have to be a ""teacher"" now.)"
+game_event_communications400104706181,高校教師,"…………
 ……………………","............
 ........................"
-0000000000000,高校教師,頑張ろう,Let's work hard.
-4001047060160,甘奈,頑張ったら結果が出るわけじゃない,Hard work doesn't guarantee good results.
-4001047060170,甘奈,"どんなに努力しても
+game_event_communications400104706183,高校教師,頑張ろう,Let's work hard.
+game_event_communications400104706187,甘奈,頑張ったら結果が出るわけじゃない,Hard work doesn't guarantee good results.
+game_event_communications400104706188,甘奈,"どんなに努力しても
 欲しいものに手が届かないこともある","No matter how hard you try.
 Sometimes you just can't get what you want."
-4001047060180,甘奈,でも、だからこそやらなくちゃ,"But, that's precisely why we have to try."
-4001047060190,甘奈,……やらなくちゃ,...I have to.
-4001047060200,甘奈,"日常って、
+game_event_communications400104706189,甘奈,でも、だからこそやらなくちゃ,"But, that's precisely why we have to try."
+game_event_communications400104706192,甘奈,……やらなくちゃ,...I have to.
+game_event_communications400104706195,甘奈,"日常って、
 どうしてこんなに追い立ててくるのかな","Why must my everyday
 chase me relentlessly?"
-4001047060210,甜花,（もう２時間……）,(It's been two hours...)
-4001047060220,甜花,（ちょっと出かけるって……言ってから……）,(She said she was going out for a bit...)
-4001047060230,甜花,帰ってこない……,She's not back yet...
-4001047060240,甜花,…………………………,..............................
-4001047060250,甜花,（どこ、行ったのかな）,(I wonder where she went.)
-4001047060260,甜花,（無理して、ないかな……）,(I hope she's not pushing herself too hard...)
-4001047060270,甜花,………………,..................
-4001047060280,甜花,"頑張れって言葉は、
+game_event_communications400104706200,甜花,（もう２時間……）,(It's been two hours...)
+game_event_communications400104706201,甜花,（ちょっと出かけるって……言ってから……）,(She said she was going out for a bit...)
+game_event_communications400104706202,甜花,帰ってこない……,She's not back yet...
+game_event_communications400104706203,甜花,…………………………,..............................
+game_event_communications400104706207,甜花,（どこ、行ったのかな）,(I wonder where she went.)
+game_event_communications400104706209,甜花,（無理して、ないかな……）,(I hope she's not pushing herself too hard...)
+game_event_communications400104706211,甜花,………………,..................
+game_event_communications400104706214,甜花,"頑張れって言葉は、
 元気が出てくる魔法の呪文","The phrase ""do your best""
 is a magic spell to cheer someone up."
-4001047060290,甜花,頑張れ、頑張れ……って────,"Do your best, do your best...────"
-4001047060300,甜花,"甜花……
+game_event_communications400104706218,甜花,頑張れ、頑張れ……って────,"Do your best, do your best...────"
+game_event_communications400104706223,甜花,"甜花……
 たくさん、言ってきたけど……","Tenka...
 said that a lot, but..."
-4001047060310,甜花,"本当に、頑張るのは……
+game_event_communications400104706228,甜花,"本当に、頑張るのは……
 甜花、じゃなくて──────","The one who's really doing her best...
 isn't Tenka──────"
-4001047060320,甜花,……………………,........................
-4001047060330,甜花,"想いって……
+game_event_communications400104706231,甜花,……………………,........................
+game_event_communications400104706232,甜花,"想いって……
 どこまで、届くのかな…………","I wonder how far...
 my feelings can reach..."
-0000000000000,店内アナウンス,『──────♪』,"""──────♪"""
-0000000000000,店内アナウンス,『ご来店いただき、ありがとうございます』,"""Thank you for visiting our store."""
-0000000000000,店内アナウンス,『当店は、まもなく閉店のお時間でございます』,"""It is almost time for us to close for the day."""
-0000000000000,店内アナウンス,『どなた様も、お忘れ物ございませんよう────』,"""Please don't forget your belongings────"""
-4001047060340,千雪,（え、ええっと……）,(U-Um...)
-4001047060350,千雪,（何、買おうとしてたんだったかな、私……）,(What was I trying to buy again...?)
-4001047060360,千雪,（思い出せー、千雪……！）,"(Try to remember, Chiyuki...!)"
-4001047060370,千雪,（そう、朝、確か──）,(Let's start from the morning...)
-4001047060380,千雪,（歯磨きして、顔を洗って……）,"(I brushed my teeth, washed my face...)"
-4001047060390,千雪,（化粧水のポンプを押しながら……）,(I was pumping my toner when...)
-4001047060400,千雪,（帰りにドラッグストアに寄らなくちゃ、って……）,(I thought that I should stop by the drugstore on the way home...)
-4001047060410,千雪,（…………）,(............)
-4001047060420,千雪,"（んーーー……
+game_event_communications400104706238,店内アナウンス,『──────♪』,"""──────♪"""
+game_event_communications400104706239,店内アナウンス,『ご来店いただき、ありがとうございます』,"""Thank you for visiting our store."""
+game_event_communications400104706240,店内アナウンス,『当店は、まもなく閉店のお時間でございます』,"""It is almost time for us to close for the day."""
+game_event_communications400104706241,店内アナウンス,『どなた様も、お忘れ物ございませんよう────』,"""Please don't forget your belongings────"""
+game_event_communications400104706242,千雪,（え、ええっと……）,(U-Um...)
+game_event_communications400104706244,千雪,（何、買おうとしてたんだったかな、私……）,(What was I trying to buy again...?)
+game_event_communications400104706246,千雪,（思い出せー、千雪……！）,"(Try to remember, Chiyuki...!)"
+game_event_communications400104706247,千雪,（そう、朝、確か──）,(Let's start from the morning...)
+game_event_communications400104706248,千雪,（歯磨きして、顔を洗って……）,"(I brushed my teeth, washed my face...)"
+game_event_communications400104706249,千雪,（化粧水のポンプを押しながら……）,(I was pumping my toner when...)
+game_event_communications400104706250,千雪,（帰りにドラッグストアに寄らなくちゃ、って……）,(I thought that I should stop by the drugstore on the way home...)
+game_event_communications400104706251,千雪,（…………）,(............)
+game_event_communications400104706252,千雪,"（んーーー……
 なんだったっけ………！？）","(Hmmm...
 But what do I need...!?)"
-0000000000000,店内アナウンス,『またのご来店を、心よりお待ちいたしております』,"""We look forward to seeing you again."""
-4001047060430,千雪,あー……,Hah...
-4001047060440,千雪,"桑山千雪……
+game_event_communications400104706253,店内アナウンス,『またのご来店を、心よりお待ちいたしております』,"""We look forward to seeing you again."""
+game_event_communications400104706262,千雪,あー……,Hah...
+game_event_communications400104706263,千雪,"桑山千雪……
 本日の営業は終了いたしました──","Chiyuki Kuwayama...
 is closed for business today."
-4001047060450,千雪,またのご来店を、お待ちしております……,We look forward to seeing you again...
-4001047060460,千雪,あーー────……,Haah────......
-4001047060470,千雪,んー…………,Mmm............
-4001047060480,千雪,（鞄からいらないものを出して……）,(Take the things I don't need out of my bag...)
-4001047060490,千雪,（明日の準備、して……）,(Get ready for tomorrow...)
-4001047060500,千雪,（あ……お洗濯もしなくちゃ……）,(Oh... I have to do laundry too...)
-4001047060510,千雪,"（コート……クリーニングに出してるの……
+game_event_communications400104706268,千雪,またのご来店を、お待ちしております……,We look forward to seeing you again...
+game_event_communications400104706270,千雪,あーー────……,Haah────......
+game_event_communications400104706273,千雪,んー…………,Mmm............
+game_event_communications400104706276,千雪,（鞄からいらないものを出して……）,(Take the things I don't need out of my bag...)
+game_event_communications400104706277,千雪,（明日の準備、して……）,(Get ready for tomorrow...)
+game_event_communications400104706278,千雪,（あ……お洗濯もしなくちゃ……）,(Oh... I have to do laundry too...)
+game_event_communications400104706279,千雪,"（コート……クリーニングに出してるの……
 そろそろ取りに行かないと……）","(I left my coat at the dry cleaner...
 I should go pick it up soon...)"
-4001047060520,千雪,（それから……）,(Then......)
-4001047060530,千雪,（それから…………）,(Then............)
-4001047060540,千雪,"あ……っ
+game_event_communications400104706280,千雪,（それから……）,(Then......)
+game_event_communications400104706282,千雪,（それから…………）,(Then............)
+game_event_communications400104706285,千雪,"あ……っ
 あー……思い出した……！","Ah...
 Aaah... I just remembered...!"
-4001047060550,千雪,買わなきゃいけなかったの,What I had to buy was
-4001047060560,千雪,歯磨き粉────！,toothpaste────!
-0000000000000,unknown,────,────
-0000000000000,unknown,身体が重い,My body is heavy.
-0000000000000,unknown,やらなくてはいけないことが,There are so many things I have to do
-0000000000000,unknown,たくさんあるのに,And yet
-0000000000000,unknown,疲れた,I'm tired
-0000000000000,unknown,"もう
+game_event_communications400104706286,千雪,買わなきゃいけなかったの,What I had to buy was
+game_event_communications400104706288,千雪,歯磨き粉────！,toothpaste────!
+game_event_communications400104706295,unknown,────,────
+game_event_communications400104706296,unknown,身体が重い,My body is heavy.
+game_event_communications400104706298,unknown,やらなくてはいけないことが,There are so many things I have to do
+game_event_communications400104706299,unknown,たくさんあるのに,And yet
+game_event_communications400104706301,unknown,疲れた,I'm tired
+game_event_communications400104706303,unknown,"もう
 疲れた","I'm
 so tired"
-0000000000000,unknown,もう,so tired
-0000000000000,unknown,"動きたく
+game_event_communications400104706305,unknown,もう,so tired
+game_event_communications400104706307,unknown,"動きたく
 ない",I don't want to move
-0000000000000,雛壇芸人,『なにこれ、うま……！』,"""This stuff is delicious...!"""
-0000000000000,雛壇芸人,『これが最新トレンドのスイーツ……！　スイーツ……』,"""As expected of the latest trendy sweets...! Sweets..."""
-0000000000000,雛壇芸人,『スイーーーーーーーーツ！！！！』,"""Sweeeeeeeeeeets!!!!"""
-0000000000000,雛壇芸人,『水曜だけにね♪』,"""Only on Wednesdays."""
-0000000000000,バラエティ司会,『やかましいわ』,"""Y'all are noisy."""
-0000000000000,ピアスの女性,…………っ,............gh
-0000000000000,ピアスの女性,………………ひっく……,..................sobs......
-0000000000000,ピアスの女性,（涙って生産性皆無でしょ……）,(Tears are never productive...)
-0000000000000,ピアスの女性,（目が腫れるとやばい……）,(It's not good if my eyes swell...)
-0000000000000,ピアスの女性,（明日も仕事なんだから）,(Because I still have work tomorrow.)
-0000000000000,ピアスの女性,（立ち上がれ…………）,(Get up............)
-0000000000000,ピアスの女性,"……………………
+game_event_communications400104706311,雛壇芸人,『なにこれ、うま……！』,"""This stuff is delicious...!"""
+game_event_communications400104706312,雛壇芸人,『これが最新トレンドのスイーツ……！　スイーツ……』,"""As expected of the latest trendy sweets...! Sweets..."""
+game_event_communications400104706313,雛壇芸人,『スイーーーーーーーーツ！！！！』,"""Sweeeeeeeeeeets!!!!"""
+game_event_communications400104706314,雛壇芸人,『水曜だけにね♪』,"""Only on Wednesdays."""
+game_event_communications400104706315,バラエティ司会,『やかましいわ』,"""Y'all are noisy."""
+game_event_communications400104706319,ピアスの女性,…………っ,............gh
+game_event_communications400104706320,ピアスの女性,………………ひっく……,..................sobs......
+game_event_communications400104706322,ピアスの女性,（涙って生産性皆無でしょ……）,(Tears are never productive...)
+game_event_communications400104706324,ピアスの女性,（目が腫れるとやばい……）,(It's not good if my eyes swell...)
+game_event_communications400104706325,ピアスの女性,（明日も仕事なんだから）,(Because I still have work tomorrow.)
+game_event_communications400104706327,ピアスの女性,（立ち上がれ…………）,(Get up............)
+game_event_communications400104706329,ピアスの女性,"……………………
 はぁ──……","........................
 huff......."
-0000000000000,テレビの音声,『アルストロメリアさんが出演するフェスがもうすぐ──』,"""The festival where Alstroemeria will be performing is coming up soon──"""
-0000000000000,ピアスの女性,（この間、買ったもやしはもう駄目かな）,(The bean sprouts I bought the other day probably went bad already.)
-0000000000000,ピアスの女性,（自炊で節約だか、無駄遣いなんだかわからんな……）,(I don't know if I'm saving or wasting money by cooking for myself...)
-0000000000000,ピアスの女性,（フライパンも焦げたままだし……）,(And the frying pan is still burnt...)
-0000000000000,ピアスの女性,………………,..................
-0000000000000,ピアスの女性,……………………,........................
-0000000000000,ピアスの女性,（寝よ）,(I'll sleep.)
-0000000000000,ピアスの女性,"（あ……
+game_event_communications400104706331,テレビの音声,『アルストロメリアさんが出演するフェスがもうすぐ──』,"""The festival where Alstroemeria will be performing is coming up soon──"""
+game_event_communications400104706340,ピアスの女性,（この間、買ったもやしはもう駄目かな）,(The bean sprouts I bought the other day probably went bad already.)
+game_event_communications400104706341,ピアスの女性,（自炊で節約だか、無駄遣いなんだかわからんな……）,(I don't know if I'm saving or wasting money by cooking for myself...)
+game_event_communications400104706342,ピアスの女性,（フライパンも焦げたままだし……）,(And the frying pan is still burnt...)
+game_event_communications400104706344,ピアスの女性,………………,..................
+game_event_communications400104706360,ピアスの女性,……………………,........................
+game_event_communications400104706361,ピアスの女性,（寝よ）,(I'll sleep.)
+game_event_communications400104706372,ピアスの女性,"（あ……
 歯磨き粉……）","(Oh...
 Toothpaste...)"
-0000000000000,ピアスの女性,（……買い忘れてた）,(...I forgot to buy it.)
-0000000000000,ピアスの女性,（でもまだ絞り出せば──────）,(But I can still squeeze──────)
-0000000000000,ピアスの女性,（駄目だ）,(Nope.)
-0000000000000,ピアスの女性,（もう、少しも出てこない）,(Nothing is coming out).
-0000000000000,ピアスの女性,（からっぽだ）,(It's empty.)
-0000000000000,unknown,疲れた,I'm tired
-0000000000000,unknown,もう疲れたんだ,I'm dead tired
-0000000000000,unknown,動きたくない,I don't want to move
-0000000000000,unknown,というより,Or more like
-0000000000000,unknown,動けない,I can't move
-0000000000000,unknown,指の先すら,Not even the tips of my fingers
-0000000000000,unknown,もう疲れた,I'm so tired
-0000000000000,unknown,眠りたいのに,I want to sleep
-0000000000000,unknown,眠れない──────,but I can't──────
-4001047060570,ラジオの音,『ぴ、ぴ、ぴ』,"""Pi, pi, pi"""
-4001047060580,ラジオの音,『ぴーん』,"""Ping!"""
-4001047060590,ラジオの音,『────今夜は、ゴージャス版……です！』,"""────Tonight is the deluxe edition of...!"""
-4001047060600,ラジオの音,『アルストロメリアの────』,"""Alstroemeria's────"""
-4001047060601,ラジオの音,『グッド・ネムレナイト』,"""Good Sleepless Night."""
+game_event_communications400104706373,ピアスの女性,（……買い忘れてた）,(...I forgot to buy it.)
+game_event_communications400104706375,ピアスの女性,（でもまだ絞り出せば──────）,(But I can still squeeze──────)
+game_event_communications400104706378,ピアスの女性,（駄目だ）,(Nope.)
+game_event_communications400104706379,ピアスの女性,（もう、少しも出てこない）,(Nothing is coming out).
+game_event_communications400104706381,ピアスの女性,（からっぽだ）,(It's empty.)
+game_event_communications400104706386,unknown,疲れた,I'm tired
+game_event_communications400104706388,unknown,もう疲れたんだ,I'm dead tired
+game_event_communications400104706390,unknown,動きたくない,I don't want to move
+game_event_communications400104706391,unknown,というより,Or more like
+game_event_communications400104706394,unknown,動けない,I can't move
+game_event_communications400104706396,unknown,指の先すら,Not even the tips of my fingers
+game_event_communications400104706398,unknown,もう疲れた,I'm so tired
+game_event_communications400104706400,unknown,眠りたいのに,I want to sleep
+game_event_communications400104706402,unknown,眠れない──────,but I can't──────
+game_event_communications400104706405,ラジオの音,『ぴ、ぴ、ぴ』,"""Pi, pi, pi"""
+game_event_communications400104706406,ラジオの音,『ぴーん』,"""Ping!"""
+game_event_communications400104706408,ラジオの音,『────今夜は、ゴージャス版……です！』,"""────Tonight is the deluxe edition of...!"""
+game_event_communications400104706411,ラジオの音,『アルストロメリアの────』,"""Alstroemeria's────"""
+game_event_communications400104706413,ラジオの音,『グッド・ネムレナイト』,"""Good Sleepless Night."""
 info,game_event_communications/400104706.json,
 Translator,Ruru,

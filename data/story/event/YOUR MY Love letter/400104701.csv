@@ -1,152 +1,152 @@
 id,name,text,trans
-0000000000000,女将,……でね、旅館組合の若いもんが言うんですよ,"... So, the youngins at the Inn Association told me,"
-0000000000000,女将,"今のままじゃ駄目だ
+game_event_communications4001047018,女将,……でね、旅館組合の若いもんが言うんですよ,"... So, the youngins at the Inn Association told me,"
+game_event_communications4001047019,女将,"今のままじゃ駄目だ
 もっと力を入れるべきだ～って","The business can't go on like this.
 We need to put more work into it."
-0000000000000,眼鏡の男性,なるほど,I see.
-0000000000000,女将,"自分たちで予約を取れるようになった方が、
+game_event_communications40010470112,眼鏡の男性,なるほど,I see.
+game_event_communications40010470114,女将,"自分たちで予約を取れるようになった方が、
 中間マージン取られないからいいって",It would be better if we could take reservations ourselves and cut out the middleman.
-0000000000000,眼鏡の男性,なるほどなるほど,I see.
-0000000000000,ピアスの女性,………………,..................
-0000000000000,ピアスの女性,（……女将さん）,(...The landlady)
-0000000000000,ピアスの女性,（……私の方、全然見ないな）,(...isn't looking my way at all.)
-0000000000000,女将,"──で、いつも来てくれる代理店の営業さんに、
+game_event_communications40010470115,眼鏡の男性,なるほどなるほど,I see.
+game_event_communications40010470118,ピアスの女性,………………,..................
+game_event_communications40010470120,ピアスの女性,（……女将さん）,(...The landlady)
+game_event_communications40010470122,ピアスの女性,（……私の方、全然見ないな）,(...isn't looking my way at all.)
+game_event_communications40010470124,女将,"──で、いつも来てくれる代理店の営業さんに、
 そういうの相談できる会社ある？ って聞いたらね","──Then, I talked to a sales agent who's also a regular at our place. I asked what company we should go to for this."
-0000000000000,女将,おたくを紹介されたものだから,And I was referred to you.
-0000000000000,眼鏡の男性,あー、そういうことでしたか,"Aah, so that's how it is."
-0000000000000,女将,"いやね、ITってなんかこう若い人たちの技術じゃない
+game_event_communications40010470125,女将,おたくを紹介されたものだから,And I was referred to you.
+game_event_communications40010470126,眼鏡の男性,あー、そういうことでしたか,"Aah, so that's how it is."
+game_event_communications40010470127,女将,"いやね、ITってなんかこう若い人たちの技術じゃない
 めまぐるしく変わるでしょ","Good golly, only young people can keep up with this IT stuff.
 It changes so fast, doesn't it?"
-0000000000000,女将,"私も苦手なつもりはなかったんですけどね
+game_event_communications40010470128,女将,"私も苦手なつもりはなかったんですけどね
 若手の話に全然ついていけなくなって","I didn't think I was that out of touch, but I really can't keep up with the younger generation at all."
-0000000000000,眼鏡の男性,ほうほう,Mhm.
-0000000000000,女将,こりゃもうプロを頼るしかないかって,That's why I have to turn to a professional.
-0000000000000,ピアスの女性,（……あなたが目を向けてる人、新人なんですけど）,(...The guy you're looking at is new to the job.)
-0000000000000,ピアスの女性,（……話、半分もわかってないですよ）,(...He doesn't even understand half of what you're saying.)
-0000000000000,ピアスの女性,（……眼鏡のせいでデキる風に見えるのかもだけど）,(...Maybe the glasses give people the impression that he's competent.)
-0000000000000,眼鏡の男性,"つまり、自社のWebサイトに
+game_event_communications40010470129,眼鏡の男性,ほうほう,Mhm.
+game_event_communications40010470130,女将,こりゃもうプロを頼るしかないかって,That's why I have to turn to a professional.
+game_event_communications40010470132,ピアスの女性,（……あなたが目を向けてる人、新人なんですけど）,(...The guy you're looking at is new to the job.)
+game_event_communications40010470133,ピアスの女性,（……話、半分もわかってないですよ）,(...He doesn't even understand half of what you're saying.)
+game_event_communications40010470135,ピアスの女性,（……眼鏡のせいでデキる風に見えるのかもだけど）,(...Maybe the glasses give people the impression that he's competent.)
+game_event_communications40010470137,眼鏡の男性,"つまり、自社のWebサイトに
 予約システムの導入をご希望ってことですね","So basically, you would like to implement a reservation system on your own website?"
-0000000000000,眼鏡の男性,"それは全然できるんですが、
+game_event_communications40010470138,眼鏡の男性,"それは全然できるんですが、
 サイトリニューアルとセットの方がいいですよ","We can totally do that, but I recommend just getting the site redesign package."
-0000000000000,ピアスの女性,（……うわ、言い方……！）,(...That's not how you should speak to her...!)
-0000000000000,眼鏡の男性,予約数を増やすためにはアクセス数も増やさないとでしょ？,"Since we want to increase reservations, we have to increase traffic first, right?"
-0000000000000,眼鏡の男性,"わかりにくいからって
+game_event_communications40010470140,ピアスの女性,（……うわ、言い方……！）,(...That's not how you should speak to her...!)
+game_event_communications40010470142,眼鏡の男性,予約数を増やすためにはアクセス数も増やさないとでしょ？,"Since we want to increase reservations, we have to increase traffic first, right?"
+game_event_communications40010470143,眼鏡の男性,"わかりにくいからって
 すぐにページ閉じられちゃったら終わりすから","If visitors close your page immediately because it's difficult to navigate, that's end of the story."
-0000000000000,眼鏡の男性,"トップからの回遊率を高めて、
+game_event_communications40010470144,眼鏡の男性,"トップからの回遊率を高めて、
 滞在時間を増やすようにして……",We need to increase page views and time spent on the homepage...
-0000000000000,女将,はあ……トップから……,Wha... homepage...
-0000000000000,眼鏡の男性,"あ、トップから見始めるとも限らないんすよ？
+game_event_communications40010470145,女将,はあ……トップから……,Wha... homepage...
+game_event_communications40010470146,眼鏡の男性,"あ、トップから見始めるとも限らないんすよ？
 検索結果から詳細ページへ流入することも当然────","Oh, people don't always check the homepage first, you know? They might jump right into the subpages by clicking search results────"
-0000000000000,ピアスの女性,（ああ、待って待って）,"(Uh-oh, hold on.)"
-0000000000000,ピアスの女性,（そんな言い方じゃ女将さんには伝わらないって）,(The landlady won't understand that lingo.)
-0000000000000,ピアスの女性,（もっと言葉を選ばないと……！）,(You need to choose better words...!)
-0000000000000,ピアスの女性,……そうなんです,...That's right.
-0000000000000,ピアスの女性,"予約システムを入れるだけでも
+game_event_communications40010470148,ピアスの女性,（ああ、待って待って）,"(Uh-oh, hold on.)"
+game_event_communications40010470149,ピアスの女性,（そんな言い方じゃ女将さんには伝わらないって）,(The landlady won't understand that lingo.)
+game_event_communications40010470150,ピアスの女性,（もっと言葉を選ばないと……！）,(You need to choose better words...!)
+game_event_communications40010470152,ピアスの女性,……そうなんです,...That's right.
+game_event_communications40010470153,ピアスの女性,"予約システムを入れるだけでも
 間違いなく効果は出ます",Putting in a reservation system can work wonders.
-0000000000000,ピアスの女性,"そこから試してみようということでも、
+game_event_communications40010470154,ピアスの女性,"そこから試してみようということでも、
 十分、お力になれるかと思いますが",We can offer you help if you want to give it a try.
-0000000000000,ピアスの女性,"本当に必要なのはシステムではなく、
+game_event_communications40010470156,ピアスの女性,"本当に必要なのはシステムではなく、
 大手ポータルに頼らない運用手段ですよね","However, what you really need is not a reservation system, but a way to operate without relying on major web portals."
-0000000000000,ピアスの女性,"よろしければ、
+game_event_communications40010470157,ピアスの女性,"よろしければ、
 それを実現するためのご提案を────","If that's alright with you,
 let us discuss the proposal for this project────"
-0000000000000,眼鏡の男性,"よかったですね
+game_event_communications40010470164,眼鏡の男性,"よかったですね
 今日のミーティング！","Today's meeting went well, right?"
-0000000000000,眼鏡の男性,"フルリニューアルへの誘導！
+game_event_communications40010470165,眼鏡の男性,"フルリニューアルへの誘導！
 先輩の作戦通り！","We scored a full redesign project!
 All thanks to your strategy, senpai!"
-0000000000000,ピアスの女性,"あ、あはは……
+game_event_communications40010470166,ピアスの女性,"あ、あはは……
 具体的な提案はこれからだけどね……","Ah, ahaha...
 We still have to work on the details of the proposal..."
-0000000000000,眼鏡の男性,"でも緊張したぁ……
+game_event_communications40010470168,眼鏡の男性,"でも緊張したぁ……
 オレ、ちゃんと喋れてましたか！？","I was so nervous though...
 Did I explain everything to her properly!?"
-0000000000000,ピアスの女性,……！,......!
-0000000000000,ピアスの女性,（いや、喋れてないが！？）,"(No, you didn't!?)"
-0000000000000,ピアスの女性,（ひやひやした場面いっぱいあったが！？）,(I was on the edge of my seat looking at you!?)
-0000000000000,ピアスの女性,（私がフォローしたからなんとかなったんじゃん！？）,(It only turned out well because I stepped in!?)
-0000000000000,ピアスの女性,（だけど……）,(But...)
-0000000000000,ピアスの女性,（だけど、この言葉じゃ伝わらないから）,(I don't think saying that would help.)
-0000000000000,ピアスの女性,……うん,...Yeah.
-0000000000000,ピアスの女性,"この前よりも堂々と喋れてた
+game_event_communications40010470169,ピアスの女性,……！,......!
+game_event_communications40010470172,ピアスの女性,（いや、喋れてないが！？）,"(No, you didn't!?)"
+game_event_communications40010470173,ピアスの女性,（ひやひやした場面いっぱいあったが！？）,(I was on the edge of my seat looking at you!?)
+game_event_communications40010470174,ピアスの女性,（私がフォローしたからなんとかなったんじゃん！？）,(It only turned out well because I stepped in!?)
+game_event_communications40010470176,ピアスの女性,（だけど……）,(But...)
+game_event_communications40010470180,ピアスの女性,（だけど、この言葉じゃ伝わらないから）,(I don't think saying that would help.)
+game_event_communications40010470182,ピアスの女性,……うん,...Yeah.
+game_event_communications40010470183,ピアスの女性,"この前よりも堂々と喋れてた
 さすがだね","You were much more confident than last time.
 You did a great job."
-0000000000000,眼鏡の男性,よっしゃ……！,Yay...!
-0000000000000,ピアスの女性,"喋りは頑張れてるから、
+game_event_communications40010470184,眼鏡の男性,よっしゃ……！,Yay...!
+game_event_communications40010470187,ピアスの女性,"喋りは頑張れてるから、
 次は相手の言葉に耳を傾けてみよう","Since you're improving at speaking,
 let's listen carefully to what the client says next time."
-0000000000000,ピアスの女性,"表に出てこない本当の気持ちが、
+game_event_communications40010470188,ピアスの女性,"表に出てこない本当の気持ちが、
 はしばしに隠れていたりするから",Because people often hide what they really mean.
-0000000000000,ピアスの女性,"そこを察して提案できるようになると、
+game_event_communications40010470189,ピアスの女性,"そこを察して提案できるようになると、
 もっといけてる感じになると思う！","If you can see through that while working on the proposal, it will be even better!"
-0000000000000,眼鏡の男性,いけてる感じ、すか……！,"Better, you say...!"
-0000000000000,眼鏡の男性,"わかりました！
+game_event_communications40010470190,眼鏡の男性,いけてる感じ、すか……！,"Better, you say...!"
+game_event_communications40010470195,眼鏡の男性,"わかりました！
 頑張ります！","Got it!
 I'll try my best!"
-0000000000000,ピアスの女性,"うん
+game_event_communications40010470196,ピアスの女性,"うん
 よろしくね","Yeah.
 Good luck."
-0000000000000,ピアスの女性,（早く一人前になれるようにサポートしてあげなくちゃ）,(I need to help him learn how to pull his own weight as soon as possible.)
-0000000000000,ピアスの女性,（信じて、見守って、たまにほんの少しだけ軌道修正）,"(I'll believe in him, watch over him, and gently nudge him in the right direction sometimes.)"
-0000000000000,ピアスの女性,（しばらく脇役になるけど、仕方ない──────）,"(I have to be the supporting role for now, but that's how it works──────)"
-0000000000000,ピアスの女性,（もう柔軟剤ないな）,(I ran out of fabric softener.)
-0000000000000,ピアスの女性,（買ってこないと）,(I should go buy some.)
-0000000000000,ピアスの女性,（そろそろ洗い物も放置できないな）,(I can't leave the dishes unwashed anymore.)
-0000000000000,ピアスの女性,（寝る前にこれだけ、頑張ろう……）,(Let's do just this one thing before going to bed...)
-0000000000000,ピアスの女性,（えっ、ああ～～～～～）,(Huh. Arghhhhh.)
-0000000000000,ピアスの女性,（フライパン水つけてなかった……）,(I forgot to soak the frying pan in water...)
-0000000000000,ピアスの女性,（焦げつき、やばいが……）,(The burn looks so bad...)
-0000000000000,バラエティ司会,"『えーと、今日のゲストは
+game_event_communications40010470199,ピアスの女性,（早く一人前になれるようにサポートしてあげなくちゃ）,(I need to help him learn how to pull his own weight as soon as possible.)
+game_event_communications400104701100,ピアスの女性,（信じて、見守って、たまにほんの少しだけ軌道修正）,"(I'll believe in him, watch over him, and gently nudge him in the right direction sometimes.)"
+game_event_communications400104701101,ピアスの女性,（しばらく脇役になるけど、仕方ない──────）,"(I have to be the supporting role for now, but that's how it works──────)"
+game_event_communications400104701105,ピアスの女性,（もう柔軟剤ないな）,(I ran out of fabric softener.)
+game_event_communications400104701108,ピアスの女性,（買ってこないと）,(I should go buy some.)
+game_event_communications400104701117,ピアスの女性,（そろそろ洗い物も放置できないな）,(I can't leave the dishes unwashed anymore.)
+game_event_communications400104701118,ピアスの女性,（寝る前にこれだけ、頑張ろう……）,(Let's do just this one thing before going to bed...)
+game_event_communications400104701123,ピアスの女性,（えっ、ああ～～～～～）,(Huh. Arghhhhh.)
+game_event_communications400104701124,ピアスの女性,（フライパン水つけてなかった……）,(I forgot to soak the frying pan in water...)
+game_event_communications400104701125,ピアスの女性,（焦げつき、やばいが……）,(The burn looks so bad...)
+game_event_communications400104701127,バラエティ司会,"『えーと、今日のゲストは
 甘奈ちゃんが連れてきてくれた大切な人なんだって？』","""Ermm, today's guests are
 Amana-chan's important people?"""
-4001047010010,甘奈,"『はいはーい！　
+game_event_communications400104701128,甘奈,"『はいはーい！　
 甘奈のめっちゃ大切な人たちで～す☆』","""Yuuup!
 People who are very important to Amana～☆"""
-4001047010020,甘奈,『もう呼んじゃっていいですか！？』,"""May I invite them out here now!?"""
-0000000000000,バラエティ司会,『えっ、そりゃまあ……』,"""Uh, sure..."""
-0000000000000,バラエティ司会,『ていうか呼んじゃだめって言っても呼ぶでしょ？』,"""I mean, if I said no, you'd still bring them out anyway."""
-4001047010030,甘奈,『えへへ……！』,"""Ehehe...!"""
-4001047010040,甘奈,『じゃあ、早速……！』,"""Then, let me introduce...!"""
-0000000000000,ピアスの女性,（………………）,(..................)
-0000000000000,ピアスの女性,（このアイドル、他の番組でも見た気がするな……）,(I think I've seen this idol on other shows...)
-4001047010050,甘奈,"『甜花ちゃーん！　千雪さーん！
+game_event_communications400104701129,甘奈,『もう呼んじゃっていいですか！？』,"""May I invite them out here now!?"""
+game_event_communications400104701130,バラエティ司会,『えっ、そりゃまあ……』,"""Uh, sure..."""
+game_event_communications400104701131,バラエティ司会,『ていうか呼んじゃだめって言っても呼ぶでしょ？』,"""I mean, if I said no, you'd still bring them out anyway."""
+game_event_communications400104701132,甘奈,『えへへ……！』,"""Ehehe...!"""
+game_event_communications400104701133,甘奈,『じゃあ、早速……！』,"""Then, let me introduce...!"""
+game_event_communications400104701135,ピアスの女性,（………………）,(..................)
+game_event_communications400104701136,ピアスの女性,（このアイドル、他の番組でも見た気がするな……）,(I think I've seen this idol on other shows...)
+game_event_communications400104701138,甘奈,"『甜花ちゃーん！　千雪さーん！
 どうぞ～！』","""Tenka-chan! Chiyuki-san!
 Please come out～!"""
-0000000000000,ピアスの女性,（なんかのユニットの……）,(She belongs to some unit...)
-4001047010060,甘奈,『それでは！　あらためてご挨拶させていただきます』,"""Well then! Let me introduce once again."""
-4001047010061,一同,『甘奈！　甜花！　千雪！』,"""Amana! Tenka! Chiyuki!"""
-4001047010070,甘奈,『３人合わせて～～～～？』,"""The three of us make～?"""
-4001047010071,一同,『アルストロメリア、です！』,"""Alstroemeria!"""
-0000000000000,ピアスの女性,（あーそうそう、アルストロメリアね）,"(Oh. Yeah, Alstroemeria.)"
-0000000000000,バラエティ司会,『どうぞ、よろしく～～～』,"""Welcome to the show～"""
-0000000000000,バラエティ司会,『ていうか待って！　何、今の挨拶！？』,"""Wait a sec! What was that greeting!?"""
-0000000000000,バラエティ司会,『キミたちそんな芸風だったっけ！？』,"""I don't remember y'all doing that before!?"""
-4001047010080,甜花,『練習、してきました……！』,"""We've been practicing...!"""
-0000000000000,バラエティ司会,『いや、練習したかどうかは聞いてないから』,"""No, I didn't ask if you practiced."""
-4001047010090,千雪,"『私たち、甘奈ちゃんが頑張ってる番組に
+game_event_communications400104701140,ピアスの女性,（なんかのユニットの……）,(She belongs to some unit...)
+game_event_communications400104701141,甘奈,『それでは！　あらためてご挨拶させていただきます』,"""Well then! Let me introduce once again."""
+game_event_communications400104701142,一同,『甘奈！　甜花！　千雪！』,"""Amana! Tenka! Chiyuki!"""
+game_event_communications400104701143,甘奈,『３人合わせて～～～～？』,"""The three of us make～?"""
+game_event_communications400104701144,一同,『アルストロメリア、です！』,"""Alstroemeria!"""
+game_event_communications400104701146,ピアスの女性,（あーそうそう、アルストロメリアね）,"(Oh. Yeah, Alstroemeria.)"
+game_event_communications400104701148,バラエティ司会,『どうぞ、よろしく～～～』,"""Welcome to the show～"""
+game_event_communications400104701149,バラエティ司会,『ていうか待って！　何、今の挨拶！？』,"""Wait a sec! What was that greeting!?"""
+game_event_communications400104701150,バラエティ司会,『キミたちそんな芸風だったっけ！？』,"""I don't remember y'all doing that before!?"""
+game_event_communications400104701151,甜花,『練習、してきました……！』,"""We've been practicing...!"""
+game_event_communications400104701152,バラエティ司会,『いや、練習したかどうかは聞いてないから』,"""No, I didn't ask if you practiced."""
+game_event_communications400104701153,千雪,"『私たち、甘奈ちゃんが頑張ってる番組に
 呼んでいただいたので』","""Since we have been invited to the show that Amana-chan is working so hard on,"""
-4001047010100,千雪,『少しでも盛り上げたいなあって』,"""We wanted to sprinkle in a little extra excitement."""
-4001047010110,千雪,『それで……ね？』,"""Right...?"""
-4001047010120,甜花,『うん……！』,"""Yeah...!"""
-0000000000000,雛壇芸人,"『まあまあかな』
+game_event_communications400104701154,千雪,『少しでも盛り上げたいなあって』,"""We wanted to sprinkle in a little extra excitement."""
+game_event_communications400104701155,千雪,『それで……ね？』,"""Right...?"""
+game_event_communications400104701156,甜花,『うん……！』,"""Yeah...!"""
+game_event_communications400104701157,雛壇芸人,"『まあまあかな』
 『すべってたけど』","""Okay, I guess.""
 ""You slipped up though."""
-0000000000000,バラエティ司会,『こらー！』,"""C'mon!"""
-0000000000000,ピアスの女性,（流行りのアーティストとかわからなくなってきたなあ……）,(I don't even know who the trendy artists are anymore...)
-0000000000000,ピアスの女性,（…………）,(............)
-0000000000000,ピアスの女性,（私も、女将さんと一緒だわ）,(I'm just like the landlady.)
-0000000000000,バラエティ司会,『はいはい、雛壇の人たち立ち上がらないで』,"""Y'all on the guest seats, sit down please."""
-0000000000000,バラエティ司会,『盛り上げ方を競いにきたわけじゃないから！』,"""We're not here to compete for attention!"""
-0000000000000,雛壇芸人,『えー！？』,"""What!?"""
-0000000000000,雛壇芸人,『いちばんウケた人が主役になれるんじゃないの！？』,"""The most popular person in the room doesn't get to be the star!?"""
-0000000000000,バラエティ司会,『そういう番組じゃない！』,"""That's a completely different show!"""
-4001047010121,一同,『ふふ……！』,"""Hehe...!"""
-0000000000000,バラエティ司会,『はいはい、仕切り直すよー』,"""Okay, let's get back to business."""
-0000000000000,バラエティ司会,『本日の主役はアルストロメリアさんでーす！』,"""Today's star is Alstroemeria!"""
-0000000000000,テレビの音声,『……、────────』,"""......, ────────"""
-0000000000000,ピアスの女性,…………,............
-0000000000000,ピアスの女性,フライパンの焦げ,The burnt stuff on the frying pan
-0000000000000,ピアスの女性,………………………………,....................................
-0000000000000,ピアスの女性,落ちないが,won't come off.
+game_event_communications400104701158,バラエティ司会,『こらー！』,"""C'mon!"""
+game_event_communications400104701161,ピアスの女性,（流行りのアーティストとかわからなくなってきたなあ……）,(I don't even know who the trendy artists are anymore...)
+game_event_communications400104701162,ピアスの女性,（…………）,(............)
+game_event_communications400104701163,ピアスの女性,（私も、女将さんと一緒だわ）,(I'm just like the landlady.)
+game_event_communications400104701165,バラエティ司会,『はいはい、雛壇の人たち立ち上がらないで』,"""Y'all on the guest seats, sit down please."""
+game_event_communications400104701166,バラエティ司会,『盛り上げ方を競いにきたわけじゃないから！』,"""We're not here to compete for attention!"""
+game_event_communications400104701167,雛壇芸人,『えー！？』,"""What!?"""
+game_event_communications400104701168,雛壇芸人,『いちばんウケた人が主役になれるんじゃないの！？』,"""The most popular person in the room doesn't get to be the star!?"""
+game_event_communications400104701169,バラエティ司会,『そういう番組じゃない！』,"""That's a completely different show!"""
+game_event_communications400104701171,一同,『ふふ……！』,"""Hehe...!"""
+game_event_communications400104701172,バラエティ司会,『はいはい、仕切り直すよー』,"""Okay, let's get back to business."""
+game_event_communications400104701173,バラエティ司会,『本日の主役はアルストロメリアさんでーす！』,"""Today's star is Alstroemeria!"""
+game_event_communications400104701176,テレビの音声,『……、────────』,"""......, ────────"""
+game_event_communications400104701182,ピアスの女性,…………,............
+game_event_communications400104701184,ピアスの女性,フライパンの焦げ,The burnt stuff on the frying pan
+game_event_communications400104701186,ピアスの女性,………………………………,....................................
+game_event_communications400104701188,ピアスの女性,落ちないが,won't come off.
 info,game_event_communications/400104701.json,
 Translator,Ruru,

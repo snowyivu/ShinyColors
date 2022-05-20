@@ -1,234 +1,234 @@
 id,name,text,trans
-0000000000000,年配の男性,おかしくないだろうか,Isn't it weird
-0000000000000,年配の男性,この歳でアイドルのCDなんて,to buy an idol CD at this age?
-0000000000000,年配の男性,（CDに触ることすらためらわれる……）,(I hesitate to even touch the CD...)
-0000000000000,年配の男性,（いや……）,(No...)
-0000000000000,年配の男性,（逆に考えよう、この歳で何を恥じらうことがある）,(What is there to be ashamed of at my age?)
-0000000000000,年配の男性,（俺は深い意味もなく手に取っただけだ）,(I'm just picking it up casually.)
-0000000000000,年配の男性,（そしてさっと裏返し）,(Quickly flipping it over.)
-0000000000000,年配の男性,（商品表示を確認しているだけ）,"(And checking out the product display.) "
-0000000000000,店員,……っしゃいませー,...Welcome.
-0000000000000,年配の男性,（……今の店員はこう思ったはずだ）,(...The clerk just now must have thought)
-0000000000000,年配の男性,（『音楽関係の業者が市場調査に来たのかなあ？』）,"(""Is someone from a music company here to do market research?"")"
-0000000000000,年配の男性,（俺はそれくらい渋い顔でCDをひっくり返している）,(I turn the CD over with a sour face like that.)
-0000000000000,年配の男性,（もしくは──）,(Or──)
-0000000000000,年配の男性,（『娘に買ってきてと頼まれたお父さんかなあ？』）,"(""Maybe it's a dad buying for his daughter?"")"
-0000000000000,年配の男性,（……この路線でもオッケー！）,(...I'll settle with that!)
-0000000000000,年配の男性,…………,............
-0000000000000,年配の男性,"そう、娘くらいの歳なのだ
+game_event_communications4001047053,年配の男性,おかしくないだろうか,Isn't it weird
+game_event_communications4001047054,年配の男性,この歳でアイドルのCDなんて,to buy an idol CD at this age?
+game_event_communications4001047057,年配の男性,（CDに触ることすらためらわれる……）,(I hesitate to even touch the CD...)
+game_event_communications4001047058,年配の男性,（いや……）,(No...)
+game_event_communications4001047059,年配の男性,（逆に考えよう、この歳で何を恥じらうことがある）,(What is there to be ashamed of at my age?)
+game_event_communications40010470511,年配の男性,（俺は深い意味もなく手に取っただけだ）,(I'm just picking it up casually.)
+game_event_communications40010470512,年配の男性,（そしてさっと裏返し）,(Quickly flipping it over.)
+game_event_communications40010470513,年配の男性,（商品表示を確認しているだけ）,"(And checking out the product display.) "
+game_event_communications40010470516,店員,……っしゃいませー,...Welcome.
+game_event_communications40010470519,年配の男性,（……今の店員はこう思ったはずだ）,(...The clerk just now must have thought)
+game_event_communications40010470521,年配の男性,（『音楽関係の業者が市場調査に来たのかなあ？』）,"(""Is someone from a music company here to do market research?"")"
+game_event_communications40010470523,年配の男性,（俺はそれくらい渋い顔でCDをひっくり返している）,(I turn the CD over with a sour face like that.)
+game_event_communications40010470525,年配の男性,（もしくは──）,(Or──)
+game_event_communications40010470527,年配の男性,（『娘に買ってきてと頼まれたお父さんかなあ？』）,"(""Maybe it's a dad buying for his daughter?"")"
+game_event_communications40010470528,年配の男性,（……この路線でもオッケー！）,(...I'll settle with that!)
+game_event_communications40010470531,年配の男性,…………,............
+game_event_communications40010470532,年配の男性,"そう、娘くらいの歳なのだ
 このアイドルは","Right, this idol is
 about the age of my daughter."
-0000000000000,年配の男性,千雪────────,Chiyuki────────
-0000000000000,年配の男性,……………………………………,...................................
-0000000000000,年配の男性,（そうだ、俺にとっては娘のようなものなのだ）,"(Yeah, she's like a daughter to me.)"
-0000000000000,年配の男性,（娘を見守るような気持ちなのだ）,(I feel like I'm watching over my daughter.)
-0000000000000,年配の男性,（だから何も問題ない！　買ってオッケー！）,(So ​​there is nothing wrong with buying it! It's okay!)
-0000000000000,店員,……しゃーせー,...'elcome.
-0000000000000,年配の男性,（…………本当にオッケーなのか……？）,(...Is it really okay...?)
-4001047050010,千雪,（ええと────）,(Umm────)
-4001047050020,千雪,（オフィスは24階……）,(The office is on the 24th floor...)
-4001047050030,千雪,（……エレベーターで行けるの10階まで？）,(...but the elevator only goes to the 10th floor?)
-4001047050040,千雪,あ……,Ah...
-4001047050050,千雪,（このエレベーターは２階から10階までなんだ……）,(This elevator goes from the 2nd to the 10th floor...)
-4001047050060,千雪,"（そっか……それならきっと
+game_event_communications40010470535,年配の男性,千雪────────,Chiyuki────────
+game_event_communications40010470536,年配の男性,……………………………………,...................................
+game_event_communications40010470540,年配の男性,（そうだ、俺にとっては娘のようなものなのだ）,"(Yeah, she's like a daughter to me.)"
+game_event_communications40010470541,年配の男性,（娘を見守るような気持ちなのだ）,(I feel like I'm watching over my daughter.)
+game_event_communications40010470542,年配の男性,（だから何も問題ない！　買ってオッケー！）,(So ​​there is nothing wrong with buying it! It's okay!)
+game_event_communications40010470544,店員,……しゃーせー,...'elcome.
+game_event_communications40010470547,年配の男性,（…………本当にオッケーなのか……？）,(...Is it really okay...?)
+game_event_communications40010470552,千雪,（ええと────）,(Umm────)
+game_event_communications40010470553,千雪,（オフィスは24階……）,(The office is on the 24th floor...)
+game_event_communications40010470556,千雪,（……エレベーターで行けるの10階まで？）,(...but the elevator only goes to the 10th floor?)
+game_event_communications40010470559,千雪,あ……,Ah...
+game_event_communications40010470560,千雪,（このエレベーターは２階から10階までなんだ……）,(This elevator goes from the 2nd to the 10th floor...)
+game_event_communications40010470561,千雪,"（そっか……それならきっと
 21階からのエレベーターがどこかに────）","(I see... Then, there must be another elevator somewhere from the 21st floor────)."
-0000000000000,青年,────桑山さん！,────Kuwayama-san!
-4001047050070,千雪,……はい？,...Yes?
-0000000000000,青年,もう受付しちゃいました？,Did you check in yet?
-4001047050080,千雪,"……あ……
+game_event_communications40010470565,青年,────桑山さん！,────Kuwayama-san!
+game_event_communications40010470566,千雪,……はい？,...Yes?
+game_event_communications40010470568,青年,もう受付しちゃいました？,Did you check in yet?
+game_event_communications40010470569,千雪,"……あ……
 いえ、これから……","...Oh...
 No, I'm going to do it now..."
-0000000000000,青年,"いいっすよ
+game_event_communications40010470570,青年,"いいっすよ
 僕、ゲスト用のカードキー持ってるんで","Don't worry about it.
 I have a guest key card."
-0000000000000,青年,"これでゲート通れます
+game_event_communications40010470574,青年,"これでゲート通れます
 行きましょう","We can go through the gate.
 Let's go."
-4001047050090,千雪,"え……
+game_event_communications40010470575,千雪,"え……
 ……ええ……はい……！","Eh...
 ...yeah... sure..!"
-4001047050100,千雪,"……わざわざ迎えに来てくださって
+game_event_communications40010470579,千雪,"……わざわざ迎えに来てくださって
 ありがとうございます",...Thank you very much for coming all the way down here to pick me up.
-0000000000000,青年,"いえいえ
+game_event_communications40010470580,青年,"いえいえ
 そろそろ着く頃かなって思っただけなんで","You're welcome.
 I just thought it was about time for you to arrive."
-4001047050110,千雪,ふふ……！,Hehe...!
-4001047050120,千雪,"……えっと……
+game_event_communications40010470581,千雪,ふふ……！,Hehe...!
+game_event_communications40010470585,千雪,"……えっと……
 はじめまして、ですよね？","...Um...
 This is the first time we met, right?"
-4001047050130,千雪,"今度、番組に新しいスタッフさんが
+game_event_communications40010470587,千雪,"今度、番組に新しいスタッフさんが
 いらっしゃるって聞いてました……！",I heard that we have a new staff member coming on the show...!
-4001047050140,千雪,さっそくお会いできて嬉しいです,I'm glad that I met you right away!
-4001047050150,千雪,"改めまして、桑山千雪です
+game_event_communications40010470588,千雪,さっそくお会いできて嬉しいです,I'm glad that I met you right away!
+game_event_communications40010470589,千雪,"改めまして、桑山千雪です
 これからよろしくお願いします","Nice to meet you, I'm Chiyuki Kuwayama.
 I look forward to working with you from now on."
-0000000000000,青年,…………あはは,...Ahaha.
-0000000000000,青年,"ええ、ヘルプで呼ばれました
+game_event_communications40010470592,青年,…………あはは,...Ahaha.
+game_event_communications40010470593,青年,"ええ、ヘルプで呼ばれました
 こちらこそよろしくお願いします！","Yes, I was called in to help with things.
 It's nice to meet you too!"
-0000000000000,青年,会議室、こちらです────,The conference room is this way────
-0000000000000,監督,あれ……,Oh...
-0000000000000,監督,桑山さん？,Kuwayama-san?
-4001047050160,千雪,"監督……！
+game_event_communications400104705102,青年,会議室、こちらです────,The conference room is this way────
+game_event_communications400104705107,監督,あれ……,Oh...
+game_event_communications400104705109,監督,桑山さん？,Kuwayama-san?
+game_event_communications400104705112,千雪,"監督……！
 お久しぶりです","Director...!
 Long time no see."
-0000000000000,監督,見たよ～、この間の番組,I saw the show the other day～!
-0000000000000,監督,"MVのこと、すごく評価してくれてたね
+game_event_communications400104705114,監督,見たよ～、この間の番組,I saw the show the other day～!
+game_event_communications400104705115,監督,"MVのこと、すごく評価してくれてたね
 ありがとう","You gave lots of compliments to the MV.
 Thank you."
-4001047050170,千雪,"えー……？
+game_event_communications400104705116,千雪,"えー……？
 だって、本当に、本当に素晴らしかったんですもん","Eh...?
 I mean, it was really, really great."
-4001047050180,千雪,"評価なんて偉そうなことじゃなくて……
+game_event_communications400104705117,千雪,"評価なんて偉そうなことじゃなくて……
 ただの本心です！","I'm not just trying to flatter you...
 I really mean it!"
-0000000000000,監督,ははは……！,Hahaha...!
-0000000000000,監督,でもほんと、いいチームで作れたよね,"But really, we made a great team."
-4001047050190,千雪,"ええ、監督とスタッフのみなさん、
+game_event_communications400104705118,監督,ははは……！,Hahaha...!
+game_event_communications400104705119,監督,でもほんと、いいチームで作れたよね,"But really, we made a great team."
+game_event_communications400104705120,千雪,"ええ、監督とスタッフのみなさん、
 ひとりひとりのおかげで……",Yes. It was all thanks to the director and each and everyone of the staff...
-0000000000000,監督,また集まれたらいいよね～,I hope we can work together again～
-0000000000000,監督,──君も、その時までに腕を上げておいてくれよなあ,"──And you, too. Let's get your skills up by then."
-0000000000000,青年,はい！,Yes!
-0000000000000,監督,"次はアシスタントじゃなくて、
+game_event_communications400104705121,監督,また集まれたらいいよね～,I hope we can work together again～
+game_event_communications400104705124,監督,──君も、その時までに腕を上げておいてくれよなあ,"──And you, too. Let's get your skills up by then."
+game_event_communications400104705125,青年,はい！,Yes!
+game_event_communications400104705128,監督,"次はアシスタントじゃなくて、
 カメラマンとして呼べたらと思うからさ！","I have a feeling we won't be calling you an assistant anymore, but a cameraman!"
-0000000000000,青年,"うわ、頑張ります！
+game_event_communications400104705129,青年,"うわ、頑張ります！
 ありがとうございます……！","Whoa, I'll do my best!
 Thank you very much...!"
-0000000000000,監督,はは……,Haha...
-0000000000000,監督,ごめんね、呼び止めちゃって,Sorry for stopping you.
-0000000000000,監督,ふたりともまたね～！,See you both～!
-4001047050200,千雪,あの、もしかして……,"Um, could it be that..."
-0000000000000,青年,はい？,Yes?
-4001047050210,千雪,MVの撮影の時にもいらっしゃいました……？,You were there when we shot the MV...?
-0000000000000,青年,"あ、ええ
+game_event_communications400104705130,監督,はは……,Haha...
+game_event_communications400104705131,監督,ごめんね、呼び止めちゃって,Sorry for stopping you.
+game_event_communications400104705133,監督,ふたりともまたね～！,See you both～!
+game_event_communications400104705137,千雪,あの、もしかして……,"Um, could it be that..."
+game_event_communications400104705138,青年,はい？,Yes?
+game_event_communications400104705139,千雪,MVの撮影の時にもいらっしゃいました……？,You were there when we shot the MV...?
+game_event_communications400104705140,青年,"あ、ええ
 あはは……！","Uh, yeah.
 Ahaha...!"
-0000000000000,青年,そうです、実は,"Yes, I was."
-4001047050220,千雪,"す、すみません！　私……！
+game_event_communications400104705141,青年,そうです、実は,"Yes, I was."
+game_event_communications400104705142,千雪,"す、すみません！　私……！
 それなのにはじめましてだなんて……","I-I'm so sorry!
 I thought we just met for the first time..."
-0000000000000,青年,"あああ、いいんすよ、全然
+game_event_communications400104705143,青年,"あああ、いいんすよ、全然
 ただのアシスタントですし","Oh, it's fine. There's no problem.
 I'm just an assistant."
-0000000000000,青年,ずっと師匠の影に隠れてたっすから,I've been shadowing my mentor this whole time.
-4001047050230,千雪,……！,......!
-0000000000000,青年,"行きましょう！
+game_event_communications400104705144,青年,ずっと師匠の影に隠れてたっすから,I've been shadowing my mentor this whole time.
+game_event_communications400104705145,千雪,……！,......!
+game_event_communications400104705146,青年,"行きましょう！
 会議、始まっちゃいますよ！","Let's get going!
 The meeting is about to start!"
-4001047050240,千雪,はい,Okay.
-0000000000000,コンビニ店員,こちらのレジ、どうぞー,I can help the next guest.
-0000000000000,コンビニ店員,袋はご入用ですか？,Do you need a bag?
-0000000000000,客,…………,............
-0000000000000,客,………………,..................
-0000000000000,コンビニ店員,"年齢確認商品ですので
+game_event_communications400104705149,千雪,はい,Okay.
+game_event_communications400104705156,コンビニ店員,こちらのレジ、どうぞー,I can help the next guest.
+game_event_communications400104705164,コンビニ店員,袋はご入用ですか？,Do you need a bag?
+game_event_communications400104705165,客,…………,............
+game_event_communications400104705166,客,………………,..................
+game_event_communications400104705176,コンビニ店員,"年齢確認商品ですので
 画面のボタンを押してもらえますか？","We need to verify your age for this item.
 Please press the button on the screen."
-0000000000000,客,…………,............
-0000000000000,コンビニ店員,………………,..................
-0000000000000,客,………あ？　何？,.........Huh? What?
-0000000000000,コンビニ店員,"年齢、問題ないようでしたら、
+game_event_communications400104705177,客,…………,............
+game_event_communications400104705178,コンビニ店員,………………,..................
+game_event_communications400104705179,客,………あ？　何？,.........Huh? What?
+game_event_communications400104705180,コンビニ店員,"年齢、問題ないようでしたら、
 画面のボタンを押してください",Please press the button on the screen to verify your age.
-0000000000000,客,あー……,Ohh......
-0000000000000,客,あと、袋入れてよ,Put them in a bag too.
-0000000000000,コンビニ店員,ああ、はい,Sure.
-0000000000000,コンビニ店員,……お買い上げ金額は──────,...Your total is──────
-0000000000000,コンビニ店員,ありがとうございました,Thank you very much.
-0000000000000,客の連れ,遅い～～～～,What took you so long～～～～
-0000000000000,客,"ごめんごめん
+game_event_communications400104705181,客,あー……,Ohh......
+game_event_communications400104705183,客,あと、袋入れてよ,Put them in a bag too.
+game_event_communications400104705184,コンビニ店員,ああ、はい,Sure.
+game_event_communications400104705186,コンビニ店員,……お買い上げ金額は──────,...Your total is──────
+game_event_communications400104705190,コンビニ店員,ありがとうございました,Thank you very much.
+game_event_communications400104705194,客の連れ,遅い～～～～,What took you so long～～～～
+game_event_communications400104705195,客,"ごめんごめん
 酒のつまみ迷っちゃって","Sorry babe.
 I couldn't decide on a snack to pair with the booze."
-0000000000000,客の連れ,うちのシュークリームはー？,Did you get my cream puffs?
-0000000000000,客,買った買った,I got 'em I got 'em.
-0000000000000,客,でもシュークリームと酒は合わなくね？,Cream puffs and booze don't go well together tho?
-0000000000000,客の連れ,"いいのー！
+game_event_communications400104705196,客の連れ,うちのシュークリームはー？,Did you get my cream puffs?
+game_event_communications400104705197,客,買った買った,I got 'em I got 'em.
+game_event_communications400104705198,客,でもシュークリームと酒は合わなくね？,Cream puffs and booze don't go well together tho?
+game_event_communications400104705199,客の連れ,"いいのー！
 うちのマイブームなのー","Who cares!
 Now it's my favorite."
-0000000000000,コンビニ店員,（………………）,(..................)
-0000000000000,コンビニ店員,（カノジョに対してとずいぶん態度が違うじゃないか）,"(Your attitude is totally different when you're with your girlfriend, huh.)"
-0000000000000,コンビニ店員,（まあ、当然だ。他人なんて────）,"(Not that I expected anything.
+game_event_communications400104705204,コンビニ店員,（………………）,(..................)
+game_event_communications400104705205,コンビニ店員,（カノジョに対してとずいぶん態度が違うじゃないか）,"(Your attitude is totally different when you're with your girlfriend, huh.)"
+game_event_communications400104705207,コンビニ店員,（まあ、当然だ。他人なんて────）,"(Not that I expected anything.
 Strangers are all just────)"
-0000000000000,コンビニ店員,（全部モブだ）,(background characters.)
-0000000000000,コンビニ店員,自分の価値なんて考えるのはやめよう,Stop thinking about your own worth.
-0000000000000,コンビニ店員,雑に扱われるのも、慣れの問題だ,Get used to being treated like a chore.
-0000000000000,コンビニ店員,"忙しくても、気持ちに波風を立てなければ
+game_event_communications400104705208,コンビニ店員,（全部モブだ）,(background characters.)
+game_event_communications400104705211,コンビニ店員,自分の価値なんて考えるのはやめよう,Stop thinking about your own worth.
+game_event_communications400104705212,コンビニ店員,雑に扱われるのも、慣れの問題だ,Get used to being treated like a chore.
+game_event_communications400104705213,コンビニ店員,"忙しくても、気持ちに波風を立てなければ
 明日も明後日もまざっていく","If your mood stays still even when you're busy,
 tomorrow and the day after will all blend together."
-0000000000000,コンビニ店員,毎日は、永遠に今日の続きだ,"Every day is just today, stretching to eternity."
-0000000000000,コンビニ店員,（もうすぐ廃棄の時間だな）,(It's almost time to check for expiration dates.)
-0000000000000,コンビニ店員,（値下げしなきゃ）,(I gotta mark down prices.)
-4001047050250,甘奈,はっ……はっ────,Huff...huff────
-4001047050260,甘奈,（息、まだ白い……）,(My breath is still white...)
-4001047050270,甘奈,"（コート仕舞うの
+game_event_communications400104705214,コンビニ店員,毎日は、永遠に今日の続きだ,"Every day is just today, stretching to eternity."
+game_event_communications400104705217,コンビニ店員,（もうすぐ廃棄の時間だな）,(It's almost time to check for expiration dates.)
+game_event_communications400104705218,コンビニ店員,（値下げしなきゃ）,(I gotta mark down prices.)
+game_event_communications400104705222,甘奈,はっ……はっ────,Huff...huff────
+game_event_communications400104705225,甘奈,（息、まだ白い……）,(My breath is still white...)
+game_event_communications400104705226,甘奈,"（コート仕舞うの
 早かったかな……）",(I guess it was too early to stop bringing my coat...)
-4001047050280,甘奈,（だいぶあたたかくなったと思ったんだけど……）,(I thought it was getting a lot warmer...)
-4001047050290,甘奈,（夜はまだ……）,(But the night is still cold...)
-4001047050300,甘奈,『レッスン室ついた～！』,"""I'm in the lesson room～!"""
-4001047050310,甜花,『お疲れ様』,"""Good work."""
-4001047050320,甜花,『今から自主練するの？』,"""Are you going to practice on your own now?"""
-4001047050330,甘奈,『うん！』,"""Yup!"""
-4001047050340,甘奈,『夕飯、食べちゃっていいからね！』,"""You can go ahead and eat dinner!"""
-4001047050350,甜花,『なーちゃんは？』,"""What about Naa-chan?"""
-4001047050360,甘奈,『さっきパワーサラダ食べたから大丈夫！』,"""I just had a power salad so I'm fine!"""
-4001047050370,甘奈,"『見てみて～！
+game_event_communications400104705230,甘奈,（だいぶあたたかくなったと思ったんだけど……）,(I thought it was getting a lot warmer...)
+game_event_communications400104705231,甘奈,（夜はまだ……）,(But the night is still cold...)
+game_event_communications400104705235,甘奈,『レッスン室ついた～！』,"""I'm in the lesson room～!"""
+game_event_communications400104705236,甜花,『お疲れ様』,"""Good work."""
+game_event_communications400104705239,甜花,『今から自主練するの？』,"""Are you going to practice on your own now?"""
+game_event_communications400104705240,甘奈,『うん！』,"""Yup!"""
+game_event_communications400104705241,甘奈,『夕飯、食べちゃっていいからね！』,"""You can go ahead and eat dinner!"""
+game_event_communications400104705242,甜花,『なーちゃんは？』,"""What about Naa-chan?"""
+game_event_communications400104705243,甘奈,『さっきパワーサラダ食べたから大丈夫！』,"""I just had a power salad so I'm fine!"""
+game_event_communications400104705249,甘奈,"『見てみて～！
 貸し切りだよ～』","""Check this out～!
 I have the room to myself～"""
-4001047050380,甜花,レッスン室……寒く、ない？,"Is the lesson room, cold...?"
-4001047050390,甜花,エアコン、つけて……！,"Turn on, the heater...!"
-4001047050400,甘奈,『つけた！　ありがと！』,"""It's on! Thank you!"""
-4001047050410,甜花,頑張って、なーちゃん……,"Do your best, Naa-chan..."
-4001047050420,甘奈,『うん！』,"""Yup!"""
-4001047050430,甘奈,『甜花ちゃんの頑張れ、うれしいな』,"""I appreciate Tenka-chan's encouragement."""
-4001047050440,甘奈,『めっちゃあたたまってきたよ～！』,"""It makes me so warmed up～!"""
-4001047050450,甘奈,それじゃ、また帰る時……連絡する、ね,"I'll get back to you... when I leave, okay?"
-4001047050460,甘奈,…………,............
-4001047050470,甘奈,……はぁ………,......whew.........
-4001047050480,甘奈,（甘奈、みんなに支えてもらってる）,(Amana has everyone's support.)
-4001047050490,甘奈,"（弱音を吐いたら、
+game_event_communications400104705255,甜花,レッスン室……寒く、ない？,"Is the lesson room, cold...?"
+game_event_communications400104705256,甜花,エアコン、つけて……！,"Turn on, the heater...!"
+game_event_communications400104705260,甘奈,『つけた！　ありがと！』,"""It's on! Thank you!"""
+game_event_communications400104705264,甜花,頑張って、なーちゃん……,"Do your best, Naa-chan..."
+game_event_communications400104705265,甘奈,『うん！』,"""Yup!"""
+game_event_communications400104705266,甘奈,『甜花ちゃんの頑張れ、うれしいな』,"""I appreciate Tenka-chan's encouragement."""
+game_event_communications400104705270,甘奈,『めっちゃあたたまってきたよ～！』,"""It makes me so warmed up～!"""
+game_event_communications400104705275,甘奈,それじゃ、また帰る時……連絡する、ね,"I'll get back to you... when I leave, okay?"
+game_event_communications400104705278,甘奈,…………,............
+game_event_communications400104705280,甘奈,……はぁ………,......whew.........
+game_event_communications400104705283,甘奈,（甘奈、みんなに支えてもらってる）,(Amana has everyone's support.)
+game_event_communications400104705284,甘奈,"（弱音を吐いたら、
 全力で受け止めてもらえることも、知ってる）","(I know that, whenever I feel vulnerable,
 I have people to rely on.)"
-4001047050500,甘奈,（甘奈が欲しい言葉、きっとたくさんたくさんくれる）,"(They will definitely, definitely say all the words I need to hear.)"
-4001047050510,甘奈,だから、ダメなの,"Therefore,"
-4001047050520,甘奈,それに甘えちゃうから,I can't take advantage of that.
-4001047050530,甘奈,今の甘奈は────,Amana is now────
-4001047050540,甘奈,……自分で,...on her own.
-4001047050550,甘奈,……自分を褒められるように、なりたい,...I want to be able to praise myself.
-4001047050560,甘奈,………………,..................
-4001047050570,甘奈,エアコンに頼るな……！,Don't just rely on the heater...!
-4001047050580,甘奈,立ち上がれ、甘奈……！,"Get up, Amana...!"
-4001047050590,甘奈,まずはウォームアップから！,I'll warm up first!
-4001047050600,甘奈,いっくぞ～────！,Let's go～────!
-4001047050610,甜花,ラジオネーム……,Radio name...
-4001047050620,甜花,"あ、魑魅魍魎さんだ
+game_event_communications400104705285,甘奈,（甘奈が欲しい言葉、きっとたくさんたくさんくれる）,"(They will definitely, definitely say all the words I need to hear.)"
+game_event_communications400104705288,甘奈,だから、ダメなの,"Therefore,"
+game_event_communications400104705289,甘奈,それに甘えちゃうから,I can't take advantage of that.
+game_event_communications400104705290,甘奈,今の甘奈は────,Amana is now────
+game_event_communications400104705293,甘奈,……自分で,...on her own.
+game_event_communications400104705295,甘奈,……自分を褒められるように、なりたい,...I want to be able to praise myself.
+game_event_communications400104705297,甘奈,………………,..................
+game_event_communications400104705301,甘奈,エアコンに頼るな……！,Don't just rely on the heater...!
+game_event_communications400104705302,甘奈,立ち上がれ、甘奈……！,"Get up, Amana...!"
+game_event_communications400104705305,甘奈,まずはウォームアップから！,I'll warm up first!
+game_event_communications400104705306,甘奈,いっくぞ～────！,Let's go～────!
+game_event_communications400104705316,甜花,ラジオネーム……,Radio name...
+game_event_communications400104705317,甜花,"あ、魑魅魍魎さんだ
 また送ってきてくれてる……","Oh, Chimimoryo-san sent another letter..."
-4001047050630,甜花,にへへ……,Nihehe...
-4001047050640,甜花,頑張れ……,Do your best...
-4001047050650,甜花,……頑張れ……,...Do your best...
-4001047050660,甜花,頑張れ、みんな────,"Do your best, everyone────"
-4001047050670,甜花,……………………,........................
-4001047050680,甜花,"想いって……
+game_event_communications400104705318,甜花,にへへ……,Nihehe...
+game_event_communications400104705324,甜花,頑張れ……,Do your best...
+game_event_communications400104705327,甜花,……頑張れ……,...Do your best...
+game_event_communications400104705332,甜花,頑張れ、みんな────,"Do your best, everyone────"
+game_event_communications400104705334,甜花,……………………,........................
+game_event_communications400104705338,甜花,"想いって……
 どこまで届くのかな…………","I wonder...
 how far my feelings can reach..."
-0000000000000,年配の男性,愛は報われるべきと考えるなら,If you believe that love should be rewarded
-0000000000000,年配の男性,それは自己愛だ,then it's narcissism.
-0000000000000,年配の男性,エゴと言ってもいいかもしれない,"Or Ego, you might say."
-0000000000000,年配の男性,千雪────────,Chiyuki────────
-0000000000000,年配の男性,"そう、千雪くらいの歳なのだ
+game_event_communications400104705342,年配の男性,愛は報われるべきと考えるなら,If you believe that love should be rewarded
+game_event_communications400104705344,年配の男性,それは自己愛だ,then it's narcissism.
+game_event_communications400104705346,年配の男性,エゴと言ってもいいかもしれない,"Or Ego, you might say."
+game_event_communications400104705348,年配の男性,千雪────────,Chiyuki────────
+game_event_communications400104705350,年配の男性,"そう、千雪くらいの歳なのだ
 うちの娘は","Yes, my daughter is around the same age as Chiyuki."
-0000000000000,自分,『最近は音楽がオンラインで買えるんだよな』,"""I heard that we can buy music online these days."""
-0000000000000,自分,『やり方、教えてくれ』,"""Can you show me how?"""
-0000000000000,年配の男性,………………………………,....................................
-0000000000000,年配の男性,娘は、千雪に少し似ている気がする,I think my daughter is a little like Chiyuki.
-0000000000000,年配の男性,優しくて、明るくて、たまに頑固で……,"She's kind, cheerful, and sometimes, stubborn..."
-0000000000000,年配の男性,"いや、千雪は頑固じゃないか？
+game_event_communications400104705356,自分,『最近は音楽がオンラインで買えるんだよな』,"""I heard that we can buy music online these days."""
+game_event_communications400104705358,自分,『やり方、教えてくれ』,"""Can you show me how?"""
+game_event_communications400104705361,年配の男性,………………………………,....................................
+game_event_communications400104705364,年配の男性,娘は、千雪に少し似ている気がする,I think my daughter is a little like Chiyuki.
+game_event_communications400104705365,年配の男性,優しくて、明るくて、たまに頑固で……,"She's kind, cheerful, and sometimes, stubborn..."
+game_event_communications400104705366,年配の男性,"いや、千雪は頑固じゃないか？
 まあともかく…………","Is Chiyuki stubborn, though?
 I don't know, but, anyway..."
-4001047050690,テレビの音声,『アルストロメリアは────』,"""Alstroemeria────"""
-4001047050700,テレビの音声,『２日目のステージで歌わせていただきます』,"""will be singing on stage on the second day"""
-4001047050710,テレビの音声,『リリカルフェス in Spring』,"""of Lyrical Fest in Spring."""
-4001047050720,テレビの音声,『────ときめいて、春』,"""────Flourish, spring."""
-0000000000000,年配の男性,………………,..................
-0000000000000,年配の男性,（あの子も、こんなふうに輝いているといいんだが）,(I hope she's shining like this too.)
-0000000000000,年配の男性,……既読、つかないな,...She's not reading my texts.
-0000000000000,年配の男性,もう親が必要ない歳なのはわかっているが,I know she's old enough that she doesn't need her parents anymore.
+game_event_communications400104705369,テレビの音声,『アルストロメリアは────』,"""Alstroemeria────"""
+game_event_communications400104705370,テレビの音声,『２日目のステージで歌わせていただきます』,"""will be singing on stage on the second day"""
+game_event_communications400104705371,テレビの音声,『リリカルフェス in Spring』,"""of Lyrical Fest in Spring."""
+game_event_communications400104705372,テレビの音声,『────ときめいて、春』,"""────Flourish, spring."""
+game_event_communications400104705373,年配の男性,………………,..................
+game_event_communications400104705374,年配の男性,（あの子も、こんなふうに輝いているといいんだが）,(I hope she's shining like this too.)
+game_event_communications400104705377,年配の男性,……既読、つかないな,...She's not reading my texts.
+game_event_communications400104705379,年配の男性,もう親が必要ない歳なのはわかっているが,I know she's old enough that she doesn't need her parents anymore.
 info,game_event_communications/400104705.json,
 Translator,Ruru,
