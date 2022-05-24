@@ -1,0 +1,100 @@
+id,name,text,trans
+3025003020010,美琴,──傘、買っておいてよかった,──I'm glad I bought an umbrella.
+3025003020020,美琴,──おはようございま──……,──Good morning──……
+3025003020030,美琴,…………？,…………？
+3025003020040,美琴,"──あれ、
+もう来てたんだ","──Well,
+I already came in once."
+3025003020050,にちか,"……？
+あ、美琴さん！　お疲れ様です！","……？
+Ah, Mikoto-san! Welcome back!"
+3025003020060,にちか,"美琴さん早い……
+まだ30分ありますよ、打ち合わせまで！","Mikoto-san is early……
+We still have 30 minutes left before the meeting!"
+3025003020070,美琴,"……うん
+私より早い子もいたみたいだけどね？","……Yeah
+It seems that you were earlier than me, right?"
+3025003020080,にちか,"えへへ
+ちょっと、早く着きすぎちゃって","Ehehe, I did get here a bit early."
+3025003020090,美琴,"…………
+それで、何をしていたの？","…………
+So then, what were you doing?"
+3025003020100,にちか,え……！,Ehh....!
+3025003020110,美琴,"さっき、慌てていたみたいだから
+……何か隠したでしょ？","I was in a rush.
+……You're hiding something, aren't you?"
+3025003020120,美琴,窓の外に何かあるの？,Is there something outside the window?
+3025003020130,にちか,"……
+あはは……","……
+Ahaha……"
+3025003020140,にちか,隠したわけじゃ……ないんですけど,I didn't exactly……hide it....
+3025003020150,美琴,──あ……,──Ah……
+3025003020160,美琴,"窓の所
+それ、サイン……？","On the window
+There's a signature……？"
+3025003020170,にちか,"はい……
+あっ、遊んでただけなので気にしないでください！","Yes……
+Ah, I was just playing around, so there's no need to worry!"
+3025003020180,美琴,"そう
+なんだ、隠すことないのに","I see.
+Then, there's no need to hide it."
+3025003020190,にちか,い、いえ……,N-no……
+3025003020200,にちか,"……あーもうっ
+まじまじ見ないでください～～！","……Oh, man!
+Please don't look～～！"
+3025003020210,美琴,…………,…………
+3025003020220,美琴,……私も隣、書いてもいい？,".....Can I write something, too?"
+3025003020230,にちか,え──……,Ehh──……
+3025003020240,美琴,────うん、書けた,"────There, I wrote it."
+3025003020250,にちか,…………！,…………！
+3025003020260,美琴,"……ちょっと曲がっちゃったかも
+もっと練習しないとね","……It's a little crooked.
+Maybe I need to practice more."
+3025003020270,にちか,"美琴さん……！
+手、汚れちゃいます！","Mikoto-san……！
+Your hands got dirty！"
+3025003020280,美琴,"え？
+こんなの、後で洗えば大丈夫","Huh？
+It's fine, I'll wash them later."
+3025003020290,にちか,"で、でも……！
+────私、紙とペン探してきますね！","B-but……！
+────Okay, I'm looking for a pen and paper！"
+3025003020300,にちか,"それか私のノートでよければ
+すぐに出るんですけど……！","Or we can use my notebook, I was going to bring it out anyways!"
+3025003020310,美琴,"ううん、いいの
+ここで","Yeah, that's good. Put it there."
+3025003020320,美琴,"まだ書けるところ、いっぱいあるから
+練習し放題でしょ？","There are so many things to write on. We can get all the practice we need, right?"
+3025003020330,にちか,それは……！,That's.....!
+3025003020340,にちか,"あーっ
+でも美琴さんのサインが消えちゃうのはもったいないです！","Ah...
+But it's such a waste to see Mikoto-san's signature disappear！"
+3025003020350,美琴,"…………
+そうかな？","…………
+You think so?"
+3025003020360,美琴,……私は消えちゃった方がいいな,……Maybe I should be the one to disappear.
+3025003020370,美琴,"練習の跡とか、失敗した跡なんて
+最初から無かったみたいに","No traces of practice or failure, as if it wasn't even there to begin with."
+3025003020380,にちか,……っ,......
+3025003020390,美琴,"いざサイン書くって時に
+完璧に書ければ──","When it's time to sign an autograph, it's done perfectly──"
+3025003020400,美琴,完璧な結果だけが残れば、いいのに,I wish I had only perfect results.
+3025003020410,にちか,…………────,…………────
+3025003020420,美琴,……だけど,"......However,"
+3025003020430,美琴,"それって、結果が出せなければ
+何も残らないってことだから",You can't get any results if nothing remains.
+3025003020440,美琴,"それが良い事なのか
+どうかは、わからないけど","Whether or not that's a good thing, I don't know."
+3025003020450,美琴,……私はその方が、いいな,…… think I prefer it that way.
+3025003020460,にちか,………………,..............
+3025003020470,にちか,"……残れば……
+ううん、残せばいいんですよね","……If you leave it there……
+Yeah, you just have to leave it."
+3025003020480,にちか,……結果,......That's the result.
+3025003020490,美琴,そうだね,So that's how it is.
+3025003020500,美琴,"ちゃんと何かが残せるような
+私になりたいって、思ってるの","If something has to be left behind, I want it to be the real me."
+3025003020510,美琴,……ここでね,......Right here.
+3025003020520,美琴,────うん、完璧,────Yep. Perfect.
+info,produce_events/302500302.json,
+Translator,Deuil,

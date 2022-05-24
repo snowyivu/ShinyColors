@@ -265,5 +265,5 @@ game_event_communications400104708311,unknown,久しぶりに,"I opened the curt
 game_event_communications400104708313,unknown,カーテンを開けた,for the first time in a long while.
 game_event_communications400104708316,off,まっくらだった部屋に,"In the room that was pitch black,"
 game_event_communications400104708319,off,光が,the light came.
-"info,game_event_communications/400104708.json,,",game_event_communications/400104708.json,
-"Translator,,,",Ruru,
+info,game_event_communications/400104708.json,
+Translator,Ruru,

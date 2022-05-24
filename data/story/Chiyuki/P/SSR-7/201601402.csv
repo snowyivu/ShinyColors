@@ -1,0 +1,89 @@
+id,name,text,trans
+0000000000000,プロデューサー,驚いた……,How surprising...
+0000000000000,プロデューサー,"この辺り、
+オフィスビルばっかりだと思ってたのにさ",I always thought there were only office buildings around this area.
+0000000000000,プロデューサー,"通りを一歩入ると、
+ああいう昔ながらの和菓子屋さんがあるんだな……","But if you take a step down this street, you'll find this kind of traditional sweets shop too..."
+2016014020010,千雪,そうなんです,That's right.
+2016014020020,千雪,ちょっと、ギャップがありますよね,"It's quite a contrast, isn't it?"
+0000000000000,プロデューサー,"うん
+下町らしさもわりと残ってるんだな",Yeah. There's still some signs of a traditional district left.
+0000000000000,プロデューサー,"ガラス張りの新しいビルの谷間に建つ
+瓦葺きの一軒家、絵になると思ったよ",I felt that the scene of a lone tiled-roof building amongst the numerous modern glass buildings was quite picturesque.
+2016014020030,千雪,"小上がりが、
+イートインスペースになっていましたよね","The small private room turned out to be a dining area too, right?"
+2016014020040,千雪,"あそこでお菓子をいただいてると、
+私、今どこにいるんだろうって……","When I was getting sweets over there, I suddenly wondered what kind of place I ended up in..."
+0000000000000,プロデューサー,わかるな……,I get that...
+0000000000000,プロデューサー,"ちょっと時間を忘れるっていうか
+……うん。いい雰囲気だな",As if you suddenly lost track of time... Yeah. That's a nice sentiment.
+0000000000000,プロデューサー,ありがとう、千雪,"Thank you, Chiyuki."
+0000000000000,プロデューサー,いい店を教えてもらった,For introducing me to such a shop.
+0000000000000,プロデューサー,"今度この辺に来た時は、
+俺も入ってみようかな",I might go there again the next time I'm in the area.
+2016014020050,千雪,"……よかった
+プロデューサーさんがそう言ってくださって",I'm glad to hear you say that.
+2016014020060,千雪,"読者の方も、
+そう思ってくれたらいいな……",I hope the readers will feel the same way too...
+0000000000000,プロデューサー,"はは、コラムのネタだったのか
+今回も楽しみにしてるぞ","Haha, you mean for your column? I'm looking forward to it this time as well."
+2016014020070,千雪,ふふっ、ありがとうございます,"Fufu, thank you very much."
+2016014020080,千雪,……頑張らなくちゃですね,...I'll have to do my best then.
+2016014020090,千雪,あ……,Ah...
+0000000000000,プロデューサー,どうした、千雪？,"What is it, Chiyuki?"
+2016014020100,千雪,ほら、プロデューサーさん……！,"Look, Producer-san...!"
+2016014020110,千雪,"ビルの間……ほら！
+あんなに大きな────",Between the buildings... over there! That's such a big──
+0000000000000,プロデューサー,……おお、すごいな……！,"...Ohh, that's amazing...!"
+2016014020120,千雪,ええ……,Yeah...
+2016014020121,千雪,────……,──...
+0000000000000,プロデューサー,……これも、ギャップじゃないか？,...Isn't this a kind of contrast too?
+2016014020130,千雪,……え？,...Huh?
+0000000000000,プロデューサー,"はは、さっきのお店みたいだ
+ビルの間にさ、ぽっかり覗いてて","Haha, like the store we just went to, it's peeking out between the buildings."
+2016014020140,千雪,"わ……
+ええ……！",Waa... you're right...!
+2016014020150,千雪,"……ふふっ
+和菓子屋さんとビルと、月────","...Fufu. With the traditional sweets shop, all these buildings, and the moon──"
+2016014020160,千雪,"────なんだか、時間を忘れちゃいます
+ここがどこだっけってことも",──It feels like I'm losing track of time somehow. It also makes me wonder where exactly I am.
+2016014020170,千雪,"私、こういう感じ
+とっても楽しいです……",I really enjoy this kind of sentiment...
+0000000000000,プロデューサー,千雪……,Chiyuki...
+select,,うん,Yeah.
+select,,形にできるといいな,It'd be nice if these sentiments could be externalised.
+select,,"もうちょっと
+言葉になるか？",Could you express it in words a bit more?
+0000000000000,プロデューサー,俺も楽しいよ,Me too.
+0000000000000,プロデューサー,"こういう風景、
+べつに初めて見たわけじゃないけど……",Although this isn't my first time seeing this kind of scenery...
+0000000000000,プロデューサー,"千雪に見えてるものが、
+俺にもうつったのかもしれない",Maybe your perspective was passed on to me as well.
+2016014020180,千雪,そうなんです……？,Is that so...?
+0000000000000,プロデューサー,"そう
+……こうやってさ、読者の人にも見せてあげてくれ",Yeah... You can show it to your readers in this way.
+0000000000000,プロデューサー,千雪に見えてるもの,Your perspectives.
+0000000000000,プロデューサー,"……その気持ちも
+コラムにしたらどうだ？",...Why don't you try including these sentiments in your column?
+2016014020190,千雪,"……？
+ええと……",...? Um...
+0000000000000,プロデューサー,和菓子屋さんとビルと、月────,"When you talk about the traditional sweets shops, the buildings and the moon──"
+0000000000000,プロデューサー,"なんていうか、
+千雪の原稿読んでるみたいな気がするよ","Somehow, it feels like I'm reading a Chiyuki-original work."
+2016014020200,千雪,"……
+プロデューサーさん……",...Producer-san...
+2016014020210,千雪,"ふふっ
+それ、頂いちゃいますね……？",Fufu. I just might take you up on that then...?
+2016014020220,千雪,"……
+ええと……",...Umm...
+2016014020230,千雪,……ふふっ、難しい,"...Fufu, that's kinda difficult."
+2016014020240,千雪,"プロデューサーさんも
+もしかしておんなじ気持ちかなって……思ってたんですけど",But I was simply wondering... if you might be feeling the same way...
+0000000000000,プロデューサー,"えっ
+ええと……なんとなくは、わかるんだけど……！","Eh, I mean... I somewhat understood your sentiments, but...!"
+2016014020250,千雪,いえ、ごめんなさい……！,"Never mind, it's nothing...!"
+2016014020260,千雪,言葉にしてみますね、色んな気持ち,I'll try to put these various feelings into words.
+2016014020270,千雪,"プロデューサーさんにも、
+読者の方にも……！",For both Producer-san and the readers...!
+info,produce_events/201601402.json,
+Translator,cloverbunz,
