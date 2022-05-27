@@ -23,7 +23,7 @@ text,trans,type
 行動した場所に自分以外のユニットメンバーがいると1人につき$noun＋$num,For each other produce or support idol in the room of the same unit gain $1＋$2,
 アイドルイベントとサポートイベントの発生率$num倍,Idol Events and Support Events occur $1x more often,
 オーディションで$num位を取ると$noun＋$num,Take $1st in an audition for $2＋$3,
-オーディションに成功すると$noun＋$num,Pass an audition for $2＋$3,
+オーディションに成功すると$noun＋$num,Pass an audition for $1＋$2,
 体力サポート,Stamina Support,text
 おやすみブースト,"Rest Boost",text
 アイドルの絆,"Idol Bonds",text

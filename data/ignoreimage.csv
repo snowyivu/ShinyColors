@@ -285,7 +285,6 @@ images/ui/home_deck/parts_character_content.json_image,4
 images/content/exchange_items/icon/002.png,8
 images/content/unit/logo/006.png,3
 particles/fes/tension_check/images.json_image,8
-images/content/idols/fes_card_s/2b0ff267165d7140cbf20381e3f60585_1040130030.png,3
 images/content/home_deck_background/bg/00040.jpg,3
 spine/idols/stand_costume/1930180010/data.json_atlas_page_data.png,3
 images/content/characters/home_deck_anime_icon/001.png,7
@@ -3170,3 +3169,4 @@ images/content/produce_items/icon/10313.png,3
 images/content/produce_items/icon/10323.png,3
 images/content/produce_items/icon/10333.png,3
 images/ui/shop/parts_small_tab_short.json_image,1
+particles/ex_skill/radial_star_1/images.json_image,2
