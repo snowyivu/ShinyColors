@@ -23,6 +23,7 @@ text,trans,type
 行動した場所に自分以外のユニットメンバーがいると1人につき$noun＋$num,For each other produce or support idol in the room of the same unit gain $1＋$2,
 アイドルイベントとサポートイベントの発生率$num倍,Idol Events and Support Events occur $1x more often,
 オーディションで$num位を取ると$noun＋$num,Take $1st in an audition for $2＋$3,
+オーディションに成功すると$noun＋$num,Pass an audition for $2＋$3,
 体力サポート,Stamina Support,text
 おやすみブースト,"Rest Boost",text
 アイドルの絆,"Idol Bonds",text
@@ -62,6 +63,17 @@ Vo,Vo,noun
 Me,Me,noun
 SP,SP,noun
 体力,Stamina,noun
+歌唱力,Vocals,noun
+安定感,Stability,noun
+表現力,Expressiveness,noun
+集中力,Focus,noun
+団結力,Teamwork,noun
+Vocal上限,Vocal Limit,noun
+Dance上限,Dance Limit,noun
+Visual上限,Visual Limit,noun
+Vo上限,Vo Limit,noun
+Da上限,Da Limit,noun
+Vi上限,Vi Limit,noun
 "Vocal\nアピール","Vocal\nAppeal",text
 "Dance\nアピール","Dance\nAppeal",text
 "Visual\nアピール","Visual\nAppeal",text
@@ -105,3 +117,4 @@ PERFECT\nなら効果UP,On PERFECT\nEffect,text
 通常ガシャ,Regular\nGacha,text
 各種\nイベント,Events,text
 その他,Other,text
+「約束」を守れなかった場合に$percentの確率でテンションが下がらない　※S.T.E.P.では効果を発揮しません,$1 chance to not lose tension if a promise is not kept ※No effect in S.T.E.P.,
