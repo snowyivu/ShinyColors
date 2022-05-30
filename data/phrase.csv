@@ -2067,7 +2067,7 @@ shop.battlePassport.stampCardNotice,%{rewardNum}個目以降の購入時の報�
 shop.battlePassport.missionRewardPop.title,ミッション報酬,Mission Reward
 shop.battlePassport.missionRewardPop.day,%{day}日目,For day %{day}
 shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewel
-topicPath.produce.knowHowBookSelect,ノウハウブック選択,Know-How Book Selection
+topicPath.produce.knowHowBookSelect,ノウハウブック選択,Know-How Book
 training.expireDate,使用期限 %{expireDate}まで,Expires %{expireDate}
 producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You'll receive %{rewardNum} rewards
 producerDesk.releaseCondition.title,解放条件,Unlock Condition
