@@ -25,12 +25,12 @@ Not sure about that sweet smell, however.)"
 アタシにはよくわかんねーけど……","Hmm...
 I don't know about that..."
 4901032140080,凛世,"智代子さんは、お菓子に滅法詳しいと
-聞き及んでございます","I've heard that Chiyoko-san is knowledgable with sweets 
-and their properties."
+聞き及んでございます","I've heard that Chiyoko-san is knowledgable with 
+sweets and their properties."
 4901032140090,凛世,であれば……,With that said...
 4901032140100,凛世,"我々の鼻ではわからなくとも
-道具を使って調べてみるのもよろしいのではないかと……","While our noses might not be able to draw a conclusion,
-perhaps a tool of sorts might help us..."
+道具を使って調べてみるのもよろしいのではないかと……","While our noses might not be able to draw a 
+conclusion, perhaps a tool of sorts might help us..."
 4901032140110,夏葉,"確かにそうね
 こちらは世界的な名探偵『Ａ』のお屋敷だもの","That's true.
 We're in the abode of the world's best detective, 
@@ -49,8 +49,8 @@ It's sugar..."
 I'm sure this'll be a big hint!"
 4901032140170,樹里,そうだな,You're right.
 4901032140180,樹里,"砂糖が入った飲み物やお菓子は
-この部屋には見当たらねーし……","I don't see any food or drinks that might have sugar in 
-them in this room either..."
+この部屋には見当たらねーし……","I don't see any food or drinks that might have sugar 
+in them in this room either..."
 4901032140190,凛世,傷口と、傷の周りにのみついておりました……,Only on the wound and the edges of the wound...
 4901032140200,凛世,"おそらく凶器にも
 砂糖がついていたということでありましょう……","I think it's safe to conclude that the weapon 
@@ -62,17 +62,17 @@ What sort of weapon could possibly have sugar in it?"
 ブラックジャックのようなものということですね","Putting a heavy object into a bag and turning it into 
 a weapon── It's almost like a bludgeon."
 4901032140220,智代子,"砂糖なら、台所とかお風呂とかで溶かせば処理できるし……
-昨日は雨が降ってたから、外に捨てるだけでもよかった","Since it's sugar, the culprit could've easily washed it off 
-at the kitchen or in a bathroom... It rained yesterday too, 
-so they could've just tossed it out."
+昨日は雨が降ってたから、外に捨てるだけでもよかった","Since it's sugar, the culprit could've easily washed it 
+off at the kitchen or in a bathroom... It rained 
+yesterday too, so they could've just tossed it out."
 4901032140230,智代子,"凶器が見つかるのを避けるために──
 って可能性はあるのかも……！","Getting rid of the weapon used──
 To remove the evidence...!"
 0000000000000,弟子,"ええ、
 しかし、そうなると……","Yes, but, in that case..."
-select,,風呂と外を調べましょう,"Let's investigate the 
-showers and outside
-the mansion"
+select,,風呂と外を調べましょう,"Let's investigate 
+the showers and 
+mansion exterior"
 select,,犯人は凶悪ですね,"The culprit is 
 really wicked, 
 huh"
@@ -92,15 +92,15 @@ That seems kind of impractical..."
 I'm a little perplexed about the perpetrator's intentions."
 4901032140290,凛世,"殴打できるだけの砂糖を持ちこむ、というのは……
 最初から殺すつもりでやってきた、ということですから……","To bring a weapon with sugar enough to kill someone 
-just by striking... The perpetrator must have planned to 
-kill A from the beginning..."
+just by striking... The perpetrator must have planned 
+to kill A from the beginning..."
 4901032140240,凛世,"はい
 凛世もお弟子さまと同じ意見でございます","Yes.
 Rinze thinks the same."
 4901032140250,凛世,"殴打できるだけの砂糖を持ちこむ、というのは……
 最初から殺すつもりでやってきた、ということですから……","To bring a weapon with sugar enough to kill someone 
-just by striking... The perpetrator must have planned to 
-kill A from the beginning..."
+just by striking... The perpetrator must have planned 
+to kill A from the beginning..."
 0000000000000,弟子,"袋詰めにされて売られていますが、それをそのまま
 殴殺に使うには、強度が足りない気がします","We're assuming that the culprit simply put sugar in a bag 
 as a weapon but, the bag might simply break with 
@@ -116,8 +116,8 @@ Add that to a vinyl bag and..."
 I'm a little perplexed about the perpetrator's intentions."
 4901032140350,凛世,"殴打できるだけの砂糖を持ちこむ、というのは……
 最初から殺すつもりでやってきた、ということですから……","To bring a weapon with sugar enough to kill someone 
-just by striking... The perpetrator must have planned to 
-kill A from the beginning..."
+just by striking... The perpetrator must have planned 
+to kill A from the beginning..."
 0000000000000,弟子,ええ……,Yes...
 0000000000000,弟子,"衝動的な犯行なら、
 他にも凶器になりそうなものはいろいろあるわけですし……","If the murder was done on impulse, 
@@ -151,8 +151,9 @@ with someone else too... That's all!"
 4901032140480,凛世,…………,......
 4901032140490,樹里,凛世、どうかしたのか？,"What's wrong, Rinze?"
 4901032140500,凛世,"いえ……今のお話を聞いて、
-凛世もお話しした方がよいのか、と……","No... It's just that, Rinze has decided that it'd be better 
-to speak of this now after hearing your story..."
+凛世もお話しした方がよいのか、と……","No... It's just that, Rinze has decided that it'd be 
+better to speak of this now after hearing your 
+story..."
 0000000000000,弟子,何でも仰ってみてください,Please tell us anything you know.
 4901032140510,凛世,"……朝方、７時頃でございましょうか
 客室棟のランドリールームを使おうとしたところ","...At dawn, about 7am I suppose. 
