@@ -51,9 +51,14 @@ id,name,text,trans
 とっても楽しいです……",I really enjoy this kind of sentiment...
 0000000000000,プロデューサー,千雪……,Chiyuki...
 select,,うん,Yeah.
-select,,形にできるといいな,It'd be nice if these sentiments could be externalised.
+select,,形にできるといいな,"It'd be nice if
+these sentiments
+could be
+externalised."
 select,,"もうちょっと
-言葉になるか？",Could you express it in words a bit more?
+言葉になるか？","Could you
+elaborate
+a bit more?"
 0000000000000,プロデューサー,俺も楽しいよ,Me too.
 0000000000000,プロデューサー,"こういう風景、
 べつに初めて見たわけじゃないけど……",Although this isn't my first time seeing this kind of scenery...

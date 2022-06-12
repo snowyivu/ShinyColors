@@ -65,10 +65,13 @@ id,name,text,trans
 2016014030290,千雪,"コラムを読んでない人にも、
 少しだけ、広がってくれるかもですね……！",it may even spread a bit to people who haven't read the column...!
 0000000000000,プロデューサー,そうだな……,You're right...
-select,,きっと、広がるよ,I'm sure it will spread.
-select,,千雪らしいよ,It's very Chiyuki-like.
+select,,きっと、広がるよ,"I'm sure it
+will spread."
+select,,千雪らしいよ,"It's very
+Chiyuki-like."
 select,,"美味しく
-できるといいな",I hope it'll turn out delicious.
+できるといいな","I hope it'll turn
+out delicious."
 0000000000000,プロデューサー,"現に、俺にも……
 千雪の想いが伝わって、広がってる","In fact, from my perspective... your feelings are already being conveyed and spread."
 2016014030300,千雪,……嬉しいです,...I'm glad to hear that.

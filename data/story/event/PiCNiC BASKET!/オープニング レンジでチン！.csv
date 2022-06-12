@@ -15,12 +15,12 @@ id,name,text,trans
 4001011010070,はづき,"鬼じゃない人がタッチしてあげれば、
 『解凍』されて、また動けるんですよね～♪","When someone who isn't the Oni touches you, you'll ""unfreeze"" and be able to move once again~♪"
 0000000000000,プロデューサー,"ええ、そうなんですけど、
-この遊びは解凍にふたり必要で──","Yeah, that's how it is, however in this game you require two people to touch in order to unfreeze──"
+この遊びは解凍にふたり必要で──","Yeah, that's how it usually is, however in this game two people are required in order to unfreeze──"
 4001011010080,甘奈,千雪さんっ！,Chiyuki-san!
 4001011010090,千雪,うん、甘奈ちゃん！,"Mhm, Amana-chan!"
 4001011010091,甘奈＆千雪,ぎゅ～っ☆,*Squeeze*~☆
 0000000000000,プロデューサー,"ああやって、凍ってる子を
-ふたりがかりで抱きしめて──","Well to do it, the two players have to hug the frozen one─"
+ふたりがかりで抱きしめて──","Well, in order to do it, the two players have to hug the frozen one─"
 4001011010092,甘奈＆千雪,せーの──,"Ready, set─"
 4001011010093,甘奈＆千雪,レンジでチン！,Pop in the microwave!
 4001011010100,甜花,か、解凍ー……！,T-Thawed...!
@@ -37,8 +37,8 @@ id,name,text,trans
 実行委員も頑張ってたからなぁ……","Yeah, truly. The executive committee's also been working hard..."
 0000000000000,プロデューサー,いいピクニックになりましたね,It's turned into a nice picnic.
 4001011010150,はづき,はい……♪,Yeah...♪
-0000000000000,プロデューサー,この感じで、あの子たちも迎えてあげられれば──,"This way, we can also welcome in those girls─"
-4001011010160,摩美々,ねー、あっちもやばいんじゃないー？,"Heyy, isn't it an issue over there tooー?"
+0000000000000,プロデューサー,この感じで、あの子たちも迎えてあげられれば──,We can also welcome in those girls in this setting─
+4001011010160,摩美々,ねー、あっちもやばいんじゃないー？,"Heyy, isn't there an issue over there tooー?"
 4001011010170,智代子,いくよっ、樹里ちゃんっ！,"Let's go, Juri-chan!"
 4001011010180,樹里,おーっ！,Rightー!
 4001011010181,智代子＆樹里,"ぎゅーっ
@@ -60,7 +60,7 @@ Pop in the microwave!"
 Wait for me～～～!!"
 4001011010250,恋鐘,"はぁ……はぁ……
 ──……こ、こいで……全員……？","Hah... hah...
-──...i-is that... everyone...?"
+──...I-Is that... everyone...?"
 4001011010260,咲耶,いや、あとひとり残っている,"No, there's still one left."
 4001011010270,結華,杜野凛世……──,Rinze Morino...─
 4001011010280,凛世,"…………
@@ -75,7 +75,7 @@ Where is she～...!?"
 4001011010320,咲耶,"フフ、お互いここが勝負どころだ。油断はしないよ
 ……覚悟してもらおうか、凛世","Fufu, this is our decisive moment. I won't be careless... Prepare yourself, Rinze."
 4001011010330,凛世,"いざ……
-尋常に……立ち会いましょう……",Come... naturally... I'll be there...
+尋常に……立ち会いましょう……",Come... Naturally... I'll be there...
 4001011010340,恋鐘,──勝負ば～い！,Match Start!
 4001011010350,凛世,"──左……右……
 左にかわす……","──Left... Right...
@@ -97,13 +97,13 @@ Dodge to the left..."
 ─Or should I say, executive committee chairman☆"
 4001011010470,夏葉,ええ。マメ丸も楽しんでたみたいだわ,Yeah. It seemed like Mamemaru was having fun as well.
 4001011010480,果穂,え、えへへ……ありがとうございますっ！,Eh-Ehehe... thank you!
-4001011010490,灯織,……私、トレーニングより距離出てるかも,...it looks like my training is quite a ways off.
+4001011010490,灯織,……私、トレーニングより距離出てるかも,...it looks like my training still has a ways to go.
 4001011010500,樹里,灯織は狙われてたからな……,"It's because they were aiming for you, though..."
 4001011010510,灯織,え……狙われて──？,Eh... aiming for─?
 4001011010520,甜花,"う、うん……
 甜花も……いっぱい、追っかけられた……","Y-Yeah... Tenka also... was being pursued, a lot..."
 4001011010530,結華,"いやー、ごめんねー！
-鬼も大変でさぁ","Man, sorryー! Bein' an Oni's also serious."
+鬼も大変でさぁ","Ah, sorryー! Bein' an Oni's also serious."
 4001011010540,真乃,"ふふっ
 鬼のみなさんも、お疲れさまです……",Fufu. The Onis also worked hard...
 4001011010550,千雪,"それじゃあ、早く飲み物を渡さなくちゃね
@@ -133,6 +133,6 @@ Dodge to the left..."
 角度、よし！","Okay, a little closer then! Angle's... good!"
 4001011010690,甘奈,角度、よし！,Angle's... good!
 4001011010700,智代子,"おしゃれピクニックな１枚、
-ふたりでもらっちゃいまーすっ","Taking one pic of the two of us, at a fashionable picnic!"
+ふたりでもらっちゃいまーすっ","Taking a pic of the two of us, at a fashionable picnic!"
 info,game_event_communications/400101101.json,
 Translator,Batsu,

@@ -14,7 +14,7 @@ id,name,text,trans
 4001011080100,果穂,"絶対にどこかに忘れたり落としたりできないんだって、
 必ず家に持って帰ろうねって──","Definitely don't forget and leave them somewhere, make sure to bring them right home-"
 4001011080110,果穂,あたし、マメ丸とお話してたんです……！,That's what I told Mamemaru...!
-4001011080120,果穂,マメ丸、わんってお返事してくれて……,"Mamemaru, barked back..."
+4001011080120,果穂,マメ丸、わんってお返事してくれて……,"Mamemaru, barked a reply..."
 4001011080130,果穂,"だから、多分……
 宝物、マメ丸が見つけて……持って帰ってくれたんです","So, maybe... Mamemaru found the treasure... and brought it home."
 4001011080140,果穂,"みなさんっ、
@@ -170,15 +170,16 @@ Yeah...!"
 4001011081090,？？？,"ほら、あっちの方っす！
 あっちの──","Look, it's over that way! Over there-"
 4001011081100,？？？,……あれ？,...huh?
-4001011081110,？？？,え～、ないカンジ～？,"Eh~ Is it, like, not~?"
-4001011081120,？？？,……うーん、見えないね……？,"...hmmm, but I don't see it...?"
+4001011081110,？？？,え～、ないカンジ～？,Eh~ It's not~?
+4001011081120,？？？,……うーん、見えないね……？,"...hmmm, I don't see it...?"
 4001011081130,？？？,"あ、あれ～……おかしいっすね……
 さっきは……",H-Huh~ That's weird... I just saw it...
 0000000000000,プロデューサー,"……？
 みんな、いいか",...? Is everything alright?
 select,,"これから会うのは、
-素敵なアイドルだ","You're about to meet,
-some wonderful idols."
+素敵なアイドルだ","You're about to
+meet some
+wonderful idols."
 0000000000000,プロデューサー,みんなと同じようにな,The same as you.
 4001011081131,一同,──！,-!
 4001011081140,？？？,"ってか、ゲーノー人と会うの、マジ楽しみなんだけど

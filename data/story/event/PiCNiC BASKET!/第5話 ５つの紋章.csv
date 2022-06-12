@@ -5,7 +5,7 @@ id,name,text,trans
 4001011060030,樹里,"そっかぁ……
 うーん……",I see... Mmmm...
 4001011060040,樹里,"草が多いところか……あとは、
-アタシらでも届きそうな木とかが怪しいんだよな……",There's lots of grass in the area... so let's be thorough with it and stuff like tress around us...
+アタシらでも届きそうな木とかが怪しいんだよな……",There's lots of grass in the area... so let's be thorough with that and stuff like the trees around us...
 4001011060050,夏葉,"あら、樹里
 詳しいのね","Oh, Juri. You're quite detailed."
 4001011060060,樹里,"や、詳しいっつーか……
@@ -22,7 +22,7 @@ id,name,text,trans
 ふざけてみたと言いますか……！","I was just trying to trying to cheer you up a little, it was just a little joke...?!"
 4001011060130,樹里,はぁ……？,Huh...?
 4001011060140,凛世,"ふふ……
-大変……興味深いです……",Fufu... it was really... quite interesting...
+大変……興味深いです……",Fufu... it's really... quite interesting...
 4001011060150,樹里,……？,...?
 4001011060160,果穂,"──あっ、樹里ちゃん！
 背中に何かついてます！","─Ah, Juri-chan! There's something stuck to your back!"
@@ -34,7 +34,7 @@ id,name,text,trans
 4001011060200,果穂,"──スゴいです……！
 葉っぱ、全然落ちませんっ！","─Amazing...! The leaf, isn't falling at all!"
 4001011060210,夏葉,"本当だわ……！
-これ、服にくっついているの……？","That's true...! Is this, sticking to your clothes...?"
+これ、服にくっついているの……？","That's true...! This, is it sticking to your clothes...?"
 4001011060220,智代子,あははー、やっぱりすぐ気付かれちゃうね,"Ahahaー It got noticed pretty quick, as I suspected."
 4001011060230,智代子,"そこに、くっつく葉っぱが生えてたんだ
 小さい頃遊んでたなーって思い出しちゃって",I found that sticky leaf growing over there. I remember playing with them when I was a child.
@@ -50,13 +50,13 @@ id,name,text,trans
 4001011060290,智代子,えー！？,Ehh!?
 4001011060300,夏葉,"……私も知らなかったけど、
 面白いものであることは確かね……","...I also didn't know about them, but, they are certainly an interesting thing..."
-4001011060310,夏葉,智代子、これはどうやって使ったらいいの？,"Chiyoko, what's a good way to use them?"
+4001011060310,夏葉,智代子、これはどうやって使ったらいいの？,"Chiyoko, how should I go about using them?"
 4001011060320,智代子,"あ、手順とかは特にないよ！
 普通に葉っぱを取ってきて、服に押し付ければ大丈夫","Ah, there's not a special process! Just pick them like an ordinary leaf, and you're good to press them onto some clothes."
 4001011060330,智代子,──ほら、こんな感じで！,"─Here, like this!"
 4001011060340,夏葉,"すごいわ……！
 私も早く探さなくちゃ──",Wonderful...! I've got to search for some quickly as well─
-4001011060350,樹里,はー、綺麗にくっつくもんだなぁ,"Ahh, they stick really cleanly, don't they."
+4001011060350,樹里,はー、綺麗にくっつくもんだなぁ,"Ahh, they stick really cleanly, don't they?"
 4001011060360,果穂,"わぁぁ……！
 やっぱりスゴいです！　魔法みたいです！",Wahhhh...! I knew they were amazing! It's like magic!
 4001011060370,樹里,──……,──...
