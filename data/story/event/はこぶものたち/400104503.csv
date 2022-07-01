@@ -1,0 +1,277 @@
+id,name,text,trans
+4001045030010,灯織,────お疲れ様です,────Good afternoon.
+0000000000000,プロデューサー,"おう、お疲れ様
+乗ってくれ","Yeah, good afternoon.
+Hop on in."
+4001045030020,灯織,はい,Okay.
+4001045030030,灯織,"……すみません
+少しお待たせしてしまいましたよね","... Sorry.
+Did I keep you waiting for a long time?"
+0000000000000,プロデューサー,そんなことないよ,"No, not at all."
+4001045030040,灯織,"でも、車がすごく冷えてます
+今日日直で……すみません","But the car is really cold.
+I was on class duty today.. Sorry."
+0000000000000,プロデューサー,"ああ……！　それなら俺の方がすまん
+はは、アイドリングさせとくわけにいかないから","Aah... ! No, that's my bad.
+Haha, I couldn't leave it idling, you see."
+4001045030050,真乃,"────
+誰もいない……？","───
+No one's here... ?"
+4001045030060,真乃,"『真乃さん　出力した台本類です
+お持ちください　七草』────","""Mano-san,
+Here is the script I printed. Please take it.
+From Nanakusa"""
+4001045030070,真乃,"はい
+頂いていきます……っ","Yes.
+Thank you, I'll be taking this... "
+0000000000000,プロデューサー,……日直って、何するんだっけな,"... What do you do on class duty, again?"
+4001045030080,灯織,────えっ,──Huh?
+0000000000000,プロデューサー,"ああ、いや……！
+懐かしいなと思って、日直","Aah, no... !
+It just sounded nostalgic, class duty that is."
+4001045030090,灯織,"あ、はい……
+そうですね、日誌を書いたり、黒板を消したり……","Ah, right... 
+Let's see, we fill in the class journal, and erase the blackboards... "
+0000000000000,プロデューサー,はは、そうだそうだ,"Haha, yeah, I remember."
+4001045030100,灯織,"……すみません、書き終わった日誌を先生に届けたら
+職員室で別の先生に呼び止められてしまって","... I'm sorry. After I filled out the journal and handed it in,
+another teacher called me when I was in the staff room."
+0000000000000,プロデューサー,"あ、違うんだ
+遅かったって言いたいんじゃなくて────","Ah, that's not it at all.
+I didn't mean to ask what took you or anything───"
+4001045030110,灯織,"……
+プロデューサー、どうかしました？","... 
+Producer, what's wrong?"
+0000000000000,プロデューサー,"ええと、うん……すまん
+ちょっと話をしたいなと思ってたんだけど","Umm, yeah... I'm sorry.
+I just wanted to talk to you, but..."
+0000000000000,プロデューサー,なんかヘンな感じだよな、俺,"I guess I'm being pretty weird about it, huh?"
+4001045030120,灯織,"……ふふっ
+はい、少し","... Fufu.
+Yes, just a little."
+0000000000000,プロデューサー,"ごめんごめん
+灯織の仕事のこと、話したいんだ","Sorry about that.
+I wanted to talk to you about your work."
+4001045030130,真乃,"……
+『走れごはん！　初回しょう料むりょ』……っ","... 
+""Run, food! Free derively camp─""... "
+4001045030140,真乃,"……
+初回……送料無料……キャンペーン実施中……","... 
+Free... delivery campaign... for your first order... "
+4001045030150,真乃,"……
+『走れごはん！　初回送料無料キャンペーン実施中！』……","... 
+""Run, food! Free delivery campaign for your first order!"""
+4001045030160,真乃,『送料』で、区切ろう……,"Short pause, after ""campaign""... "
+4001045030170,灯織,……私の仕事ですか,... About my work?
+0000000000000,プロデューサー,"うん、もっと増やしたいとか、
+こんなことがやりたいとか","Yeah, like if you'd like to do more jobs,
+or if there's anything in particular you'd like to do."
+4001045030180,灯織,"そうですね……今はペースがゆったりしているので
+落ち着いて仕事ができていると思います","Let's see... Right now, there's not a lot on my plate,
+so I can relax and focus on what I already have."
+4001045030190,灯織,でも、もっとできます,"But, I can definitely do more."
+0000000000000,プロデューサー,"おお、そうか……！
+ありがとう……もちろん、無理してほしいんじゃないんだ","Ooh, is that so... !
+Thank you... Of course, I don't want you to push yourself too hard."
+0000000000000,プロデューサー,"何か、希望があったりするかなって
+落ち着いてるなら、そういうことを考えるいい機会だから","But since things are a little slow right now,
+it's a good time to think about what kinds of jobs you'd like to do."
+4001045030200,灯織,なるほど……,"I see...... "
+4001045030210,灯織,"……すみません、何かこれがっていうのは
+すぐには────","... Sorry, I don't think I can come up with any
+specific ideas so quickly──"
+4001045030220,灯織,あ……,"Ah... "
+4001045030230,灯織,もしかして、真乃とめぐるのことですか,Is this about Mano and Meguru?
+0000000000000,プロデューサー,え？,Eh?
+4001045030240,灯織,"……っ
+すみません、違いましたか","...... 
+I'm sorry, did I get the wrong idea?"
+4001045030250,灯織,"その、ふたりとも忙しくなるから……
+それでかな、と","Umm, since the two of them are getting busy... 
+And because of that, maybe."
+0000000000000,プロデューサー,"ああ……その、うん
+なんだか、すごくヘンな聞き方になっちゃったな","Aah... Actually, yeah.
+I guess, it's a really roundabout way of bringing it up."
+0000000000000,プロデューサー,"すまん。灯織は、自分ももっと仕事をしなきゃって
+……自分に厳しく考えるんじゃないかと思って","Sorry. I was worried that you'd push yourself to do more to keep up.
+...That you'd be too hard on yourself."
+4001045030260,灯織,……────,......────
+4001045030270,めぐる,────♪,────♪
+0000000000000,デザイナー,"おっとー、めぐるちゃん
+じっとしてじっとして","Uh-oh, Meguru-chan.
+Stay still, stay still."
+4001045030280,めぐる,"あーっ、ごめんなさい！
+寸法ずれちゃいましたか！？","Aaah, I'm sorry!
+Did I mess up the measurements!?"
+0000000000000,デザイナー,"あはは、大丈夫
+きっちり測り直すからね","Ahaha, don't worry.
+I'll take them again, alright?"
+4001045030290,めぐる,"うわーん
+もう動きません！","Waaah!
+I won't move anymore, I promise!"
+0000000000000,デザイナー,"はーい、よろしくお願いします
+──でも嬉しいよねぇ、新しい服仕立てる時って","Yes, please do so.
+──But having new clothes made for you is always exciting, isn't it?"
+4001045030300,めぐる,"……！
+うん、そうなの！","...... !
+Yeah, it really is!"
+0000000000000,デザイナー,おっと！　じっとしてくださーい,"Uh-oh! Remember, stay still!"
+4001045030310,めぐる,"あっ
+ごめんなさーい……！","Ah!
+I'm sorry... !"
+0000000000000,プロデューサー,────でも、いらない心配だったみたいだ,──But it seems like I didn't have to worry about a thing.
+0000000000000,プロデューサー,"みんな、本当に仲がいいからさ
+ひとりだけ少し状況が違うと、気に病んだりしないかって","You three really do get along well, 
+so even if things are a little different for one of you, 
+it's not something you'd fret over."
+4001045030320,灯織,"……
+それは……","......
+That's... "
+0000000000000,プロデューサー,失礼だった,Sorry about that.
+4001045030330,灯織,"……ふふ、そうですよ
+いつも報告会をやっていますし","... Hehe, that's right.
+We always hold debrief sessions together."
+4001045030340,灯織,"ふたりが忙しい時に
+私が応援できる方がいいですし","And when both of them are busy,
+I like being able to fully support them, too."
+0000000000000,プロデューサー,"うん
+……はは","Yeah.
+...... Haha."
+4001045030350,真乃,"『走れごはん！
+初回送料無料キャンペーン実施中！』……","""Run, food!
+Free delivery campaign, for your first order!""... "
+4001045030360,真乃,言えた……っ,I said it... !
+0000000000000,プロデューサー,ありがとう,Thanks.
+0000000000000,プロデューサー,"……でも、何かやりたいことがあったら
+必ず教えてほしい","... But if there's anything you'd like to do yourself,
+I want you to let me know."
+0000000000000,プロデューサー,応援されたい時は、ためらわないでくれ,Please don't hesitate to tell me when you need to be supported.
+0000000000000,off,オン！,On!
+4001045030370,灯織,……,"...... "
+0000000000000,プロデューサー,────俺も少し、探してみるから,────I'm going to keep looking too.
+4001045030380,灯織,……はい,... Yeah.
+0000000000000,デザイナー,"────はーい、その感じでじっとして
+もうちょっとで終わりますよー……","────Alright, just stay still like that.
+I'll be done in just a minute... "
+4001045030390,めぐる,はーい！,Okaay!
+0000000000000,デザイナー,"いいお洋服になーれって
+おまじないしててねー","Then cast a little magic spell 
+so that these clothes will become beautiful."
+4001045030400,めぐる,"おまじない……！
+します！","A magic spell... !
+I'll do it!"
+4001045030410,めぐる,……────,......────
+0000000000000,プロデューサー,"はは、ちょっと難しいかな
+丈夫で飽きないデザインだと、長く着れるだろ？","Haha, I guess that got pretty technical.
+In other words, these clothes are sturdy and won't go out of style, 
+so you can wear them for a long time, right?"
+0000000000000,めぐる,うん……！,Yeah... !
+0000000000000,プロデューサー,"そしたら次々に服を買わなくてもよくなる
+それは、環境に優しくしてるってことにもなる","And that means you won't need to keep buying and replacing clothes, so that'll be good for the environment too."
+0000000000000,ディレクター,"おっしゃっていただいた通りです
+『エシカル』ということをテーマにしているんです","It's just as you say.
+""Ethical"" is the key theme we're working with."
+0000000000000,プロデューサー,"────いえ、はい。ええ……
+はは、そうなんです","────No, yeah. Alright... 
+Haha, that's right."
+0000000000000,プロデューサー,"少しお伺いできたら……
+営業というわけじゃないんですが────","I was just hoping I could drop by soon... 
+Not really for official business, but────"
+4001045030430,めぐる,──『エシカル』ってどういう意味なんですか？,"──What does it mean to be ""ethical""?"
+0000000000000,デザイナー,"えー？
+あはは。めぐるちゃん、いい言葉知ってるんだなぁ","Huh?
+Ahaha. Meguru-chan, that's a good question you're asking."
+0000000000000,デザイナー,"もしかして、これから作るお洋服のこと
+考えてくれてる？","Are you perhaps, thinking about the clothes
+we're going to be making?"
+4001045030440,めぐる,はい！,Yeah!
+0000000000000,デザイナー,"おーっと！
+動かない動かないー！","Uh-oh!
+Don't move, don't move!"
+4001045030450,めぐる,"あっ
+えへへー……","Ah.
+Eheheh... "
+4001045030460,真乃,────練習、おしまい……,"───Practice, over... "
+4001045030470,真乃,……,"...... "
+4001045030480,真乃,"灯織ちゃんは、打ち合わせ
+めぐるちゃんは、採寸……","Hiori-chan, is at a meeting.
+Meguru-chan, has a fitting... "
+4001045030490,真乃,"……
+メッセは、ちょっとだけ我慢……っ","...... 
+I'll wait a while, before sending a message... !"
+0000000000000,デザイナー,"うーんと、そのまま訳すと
+『倫理的』って言葉","Hmmm, if we take the literal meaning,
+it's another way of saying ""moral""."
+4001045030500,めぐる,"……！
+りんりてき……","...... !
+Moral... "
+0000000000000,デザイナー,"あはは、言葉のことはいいんだぁ
+いっぱい考えようねーってことだから","Ahaha, there's no need to be particular about the words.
+It basically means to think things over a lot."
+4001045030510,めぐる,"……『考える』っていうのは
+環境とかってことなんですか？","...... By ""think things over"", do you mean
+like the environment, and stuff?"
+0000000000000,デザイナー,"あ、打ち合わせとかで聞いてくれたー？
+そうそう、環境もそうだし……着てくれる人もそう","Ah, did you hear about that at the meeting?
+That's right, the environment... and also the people who are going to wear these clothes."
+0000000000000,デザイナー,"誰かの服を着たら、
+あ、自分とこういうとこが違うなーって思うでしょ？","When you wear someone else's clothes,
+you feel like, ""Oh, that's a bit different from me"", don't you?"
+0000000000000,デザイナー,"そんなふうに、世界にはいろーんな人や命があるなって
+感じられる服になったらいいなぁ","And then, you realize that the world is full of so many different people and living things. I hope these clothes can make people feel that way."
+4001045030520,めぐる,ふーん……！,Hmmm... !
+0000000000000,デザイナー,"────はーい、終了
+もう動いていいよー","──Okay, all done.
+You can move now."
+4001045030530,めぐる,"わーっ！　ありがとうございます！
+それじゃあ──","Wow! Thank you so much!
+Well then──"
+4001045030540,めぐる,"みんなのこと考える
+いいお洋服になーれ","Please become nice clothes 
+that are considerate of everyone."
+0000000000000,プロデューサー,"────ええ、最近、どうですー？
+あはは、さすがだなぁ","────Yeah, how are things lately?
+Ahaha, that's great to hear."
+0000000000000,プロデューサー,"……はい、ははは。ええ
+ちょっとまた寄らせていただけないかなと思いまして","... Yes. Hahaha. Right.
+I was just thinking of stopping by to see how things are."
+0000000000000,あるアカウント,"『うわっフォロワーさんすごい！
+今月100稼いでる！』","""Wow, my followers are the best!
+I earned 100 this month!"""
+0000000000000,アカウント２,"『おめでとー！
+俺も頑張んなきゃね！！！！』","""Congrats!
+I've gotta do my best too!!!!"""
+0000000000000,アカウント３,『おめでと♡』,"""Congrats♡"""
+0000000000000,アカウント４,『おめでとう～！』,"""Congratulations～!"""
+4001045030550,灯織,────すごい……！,────That's great... !
+0000000000000,プロデューサー,"……あはは、お久しぶりです！
+ええ、いえ、折り返していただいてほんと────","... Ahaha, it's been a while!
+Uh-huh, no, thank you for calling me back───"
+0000000000000,プロデューサー,"────ええ、そうなんです
+少しまた、お話できたらなぁなんて────","───Yes, that's right.
+If it's alright with you, I was hoping we could have a little chat───"
+0000000000000,あるアカウント,『OK！　深夜帯狙いにいく！！』,"""OK! I'm gonna keep my eyes on the late night orders!"""
+4001045030560,灯織,"ふふっ……
+──────","Fufu... 
+──────"
+0000000000000,アカウント５,"『ダメ今月
+単価やばいし、へんなクレーム多いし』","""This month's no good. The pay per delivery is terrible, and there are too many weird complaints."""
+4001045030570,灯織,……,"...... "
+0000000000000,アカウント６,"『ピンクの帽子の配達員最低なんだけど
+歩道めっちゃスピード出してるし子どもの前で信号無視』","""Those pink hat delivery guys are the worst.
+They speed on sidewalks and run red lights in front of children."""
+0000000000000,アカウント７,"『フーデリろくなやついなくない？
+稼ぐことしか頭にねーしサービスの質がありえない』","""aren't food delivery guys nothing but scum?
+all they care about is money and their service is terrible."""
+4001045030580,灯織,"……
+兄やんは、違う……","...... 
+Big Bro, is different... "
+4001045030590,灯織,負けるな兄やん……,"Don't lose to them, Big Bro... "
+0000000000000,プロデューサー,"────あ、もしもし
+ご無沙汰しております、２８３プロですー……！","─────Ah, good evening.
+It's been a while, this is from 283 Pro... !"
+0000000000000,プロデューサー,"ははは、最近いかがですー？　……ええ
+いえ、またちょっとお伺いできればと────","Hahaha, how have things been lately? ... I see.
+No, I was just thinking of paying you another visit soon────"
+info,game_event_communications/400104503.json,
+Translator,,

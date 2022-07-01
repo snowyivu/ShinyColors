@@ -17,7 +17,7 @@ images/ui/idol_detail/parts.json_image,idol_detail_parts.png,16
 images/ui/produce_common/parts_header.json_image,parts_header.png,16
 images/ui/produce_event/parts_event.json_image,parts_event.png,15
 images/ui/fes_result/parts_fes_match.json_image,fes_match.png,13
-images/ui/start_and_common/parts.json_image,start_and_common.parts.png,12
+images/ui/start_and_common/parts.json_image,start_and_common.parts.png,13
 images/ui/present_box/parts.json_image,present_box_parts.png,10
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,9
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,8
@@ -138,7 +138,7 @@ images/event/fg/007422.png,event/April22/022.png,1
 images/event/fg/007423.png,event/April22/023.png,1
 images/event/fg/007424.png,event/April22/024.png,1
 images/event/fg/007425.png,event/April22/025.png,1
-images/ui/home_deck/parts.json_image,home_deck_parts.png,16
+images/ui/home_deck/parts.json_image,home_deck_parts.png,17
 images/ui/item/parts_content.json_image,item_parts_content.png,10
 images/ui/item/parts.json_image,item_parts.png,12
 images/content/produce_area/button_m/002.png,button_m_002.png,3
@@ -572,7 +572,7 @@ images/ui/home_deck/parts_bg_change_layer.json_image,home_deck_change_layer.png,
 images/ui/music_select/parts.json_image,music_select.png,4
 base_got_date.png,base_got_date.png,3
 images/ui/twitter/parts.json_image,twitter_parts.png,5
-images/ui/profile/parts.json_image,profile_parts.png,4
+images/ui/profile/parts.json_image,profile_parts.png,5
 images/ui/title_setting/parts.json_image,title_setting_parts.png,10
 images/ui/gasha/parts_popup.json_image,gasha_parts_popup.png,10
 particles/training/images.json_image,training_images.png,8
