@@ -1510,12 +1510,12 @@ tutorial.dialog.idolChoice.message,%{name}で\nチュートリアルを開始し
 tutorial.dialog.deckEdit.title,確認,Confirm
 tutorial.dialog.deckEdit.message,編成のチュートリアルを見ますか？,View the Team Setup Tutorial?
 tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,First please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol～
-tutorial.unitDescription.1,小さな光を宿す少女たちで結成された、新世代のアイドルユニット。\n今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、\n一等星を目指して歩んでいく！,"A new-generation unit of young girls who harbor a tiny light.\nThough it's faint, they'll continue struggling onward while\nsupporting each other to become shooting stars!"
-tutorial.unitDescription.2,胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、\n新世界の革命的アイドルユニット。\nゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。,"A revolutionary unit of the New World: their heart's smoldering\nflames made Song, solitude in their tears made Prayer.\nClad in Gothic dress, they sing on for Hope."
-tutorial.unitDescription.3,個性と個性がぶつかり合う全力系アイドルユニット。\n全身全霊でアイドル道を突き進む彼女達の姿こそ、クライマックスの証。\nファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す！！,"A full-power unit where unique personalities collide. Each of them\nplunges forward with complete devotion on the path of an idol,\nbearing the emblem of 'Climax'.\nThese idols will engulf the world as they aim for the very top!!"
-tutorial.unitDescription.4,ポップでハッピーな3人組アイドルユニット。\nアルストロメリアの花言葉「未来への憧れ」を胸に抱き、\n今日もシアワセなパフォーマンスで会場に笑顔を咲かせます！,"A happy Pop unit of three idols. They embrace the symbolism of the\nAlstromeria flower, 'longing for the future'. Their smiles will\nnow bloom in the venue of their wonderful performance!"
-tutorial.unitDescription.5,実在と非実在を行き来するカリスマ的アイドルユニット。\nアイドルというアバターを身に纏い、歌うは真実か、狂気か。\n解き放たれた迷光が、今日も世界を奔る。,"A charismatic unit that moves between reality and fiction. Garbed in\nthe avatar known as idol, is it truth or madness they sing?\nThe straying lights they unleash shake the world today."
-tutorial.unitDescription.6,幼なじみ４人で結成された、透明感あふれるアイドルユニット\n誰かになる必要なんてない――\n走り出す波を追って、少女たちは碧い風になる,"Formed from four childhood friends, a unit brimming with a sense of\ntranslucence. They don't have to be someone.\nChasing the breaking waves, the girls become azure winds."
+tutorial.unitDescription.1,小さな光を宿す少女たちで結成された、新世代のアイドルユニット。\n今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、\n一等星を目指して歩んでいく！,"A new-generation unit of girls, harboring a tiny light.\nAlthough their glow is faint, they will persevere together\nto shine even brighter and become shooting stars!"
+tutorial.unitDescription.2,胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、\n新世界の革命的アイドルユニット。\nゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。,"The smoldering flame in their hearts made into ""Song"",\nand the solitude in their tears turned into ""Prayer"".\nThey are a revolutionary unit of the New World.\nClad in Gothic dresses, they sing on for hope."
+tutorial.unitDescription.3,個性と個性がぶつかり合う全力系アイドルユニット。\n全身全霊でアイドル道を突き進む彼女達の姿こそ、クライマックスの証。\nファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す！！,"A full-power unit where their unique personalities clash.\nThey plunge forward on the path of an idol, with the proof\nof their devotion shown at the ""Climax"" of their performance.\nThese idols will engulf the world as they aim for the very top!!"
+tutorial.unitDescription.4,ポップでハッピーな3人組アイドルユニット。\nアルストロメリアの花言葉「未来への憧れ」を胸に抱き、\n今日もシアワセなパフォーマンスで会場に笑顔を咲かせます！,"A happy pop unit of three idols.\nThey embrace the symbolism of the alstroemeria flower,\n""Longing for the future"". Their cheerful performances\nwill make smiles bloom from everyone in the audience!"
+tutorial.unitDescription.5,実在と非実在を行き来するカリスマ的アイドルユニット。\nアイドルというアバターを身に纏い、歌うは真実か、狂気か。\n解き放たれた迷光が、今日も世界を奔る。,"A charismatic unit on the edge between reality and fiction.\nGarbed in the avatar of idols, is it truth or madness they sing?\nThe straying lights they unleash shake the world today."
+tutorial.unitDescription.6,幼なじみ４人で結成された、透明感あふれるアイドルユニット\n誰かになる必要なんてない――\n走り出す波を追って、少女たちは碧い風になる,"A unit brimming with a sense of translucence.\nThey are four childhood friends, with no need to be anyone else.\nThe girls become azure winds as they chase the breaking waves!"
 pushNotification.title,シャニマス,Shinymas
 errorDialog.characterFanRankingBreakTimeChangeTitle,お休み時間設定,Set Rest Period
 errorDialog.characterFanRankingBreakTimeChangeError,設定可能時間外です\n画面を更新します,You can't currently set your rest period.\nPlease refresh the screen.
@@ -1939,7 +1939,7 @@ characterSpecialCommunication.remainingPlayCount,本日の解放数： %{remaini
 characterSpecialCommunication.schedule,開催期限 %{startAt}〜%{closeAt},開催期限 %{startAt}〜%{closeAt}
 specialCommunicationSituation.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
 specialCommunicationSituation.confirmationComment,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます
-tutorial.unitDescription.7,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。
+tutorial.unitDescription.7,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。,"A spicy & girly dance-pop unit.\nThe music won't stop. So shut up and listen.\nLet the BPM of your heart race, to create an unstoppable melody.\nA 1000-carat story unfolds, for I (she) became me (she)."
 workActivityRewardPop.unitLevelRewardTitle,報酬受け取り,Received Reward
 workActivityRewardPop.commuTitle,コミュ解放,コミュ解放
 workActivityRewardPop.talkCompleteRewardTitle,報酬受け取り,報酬受け取り
