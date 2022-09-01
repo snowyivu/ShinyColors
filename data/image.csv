@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,60
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,61
 images/ui/common/parts.json_image,common_parts.png,38
 images/ui/my_page/parts.json_image,my_page.parts.png,39
 images/ui/fes/parts.json_image,fes_parts.png,34
@@ -138,7 +138,7 @@ images/event/fg/007422.png,event/April22/022.png,1
 images/event/fg/007423.png,event/April22/023.png,1
 images/event/fg/007424.png,event/April22/024.png,1
 images/event/fg/007425.png,event/April22/025.png,1
-images/ui/home_deck/parts.json_image,home_deck_parts.png,17
+images/ui/home_deck/parts.json_image,home_deck_parts.png,18
 images/ui/item/parts_content.json_image,item_parts_content.png,10
 images/ui/item/parts.json_image,item_parts.png,12
 images/content/produce_area/button_m/002.png,button_m_002.png,3
