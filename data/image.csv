@@ -9,7 +9,7 @@ images/ui/mission/parts.json_image,mission_parts.png,24
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,23
 images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,22
-images/ui/gasha/parts.json_image,gasha_parts.png,20
+images/ui/gasha/parts.json_image,gasha_parts.png,21
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
 images/ui/idol_list/parts.json_image,idol_list_parts.png,17
@@ -108,7 +108,7 @@ images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,9
 images/ui/produce_ending/parts_fes_idol_birth_effect.json_image,fes_idol_birth_effect.png,8
 images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,10
 game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
-images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,1
+images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,2
 images/tips/produce_step/action/001.jpg,tutorial/step_action_001.jpg,1
 images/tips/produce_step/action/002.jpg,tutorial/step_action_002.jpg,1
 images/tips/produce_step/action/003.jpg,tutorial/step_action_003.jpg,1
@@ -162,7 +162,7 @@ images/content/produce_auditions/banner/018.jpg,produce_auditions_banner_018.jpg
 images/content/produce_auditions/banner/011.jpg,produce_auditions_banner_011.jpg,7
 images/content/produce_auditions/banner/009.jpg,produce_auditions_banner_009.jpg,7
 images/content/produce_auditions/banner/012.jpg,produce_auditions_banner_012.jpg,7
-images/ui/produce_area/parts.json_image,produce_area_parts.png,11
+images/ui/produce_area/parts.json_image,produce_area_parts.png,12
 images/content/produces/banners/002.png,produces_banners_002.png,3
 images/ui/album/parts.json_image,album_parts.png,16
 images/ui/update_information/parts_new_idol.json_image,update_information.png,13
@@ -300,7 +300,7 @@ images/ui/concert_result/parts_status.json_image,concert_result_status.png,9
 images/ui/produce_staff_assist_event/parts.json_image,staff_assist_event_parts.png,3
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_produce.png,3
 images/ui/init/parts.json_image,init_parts.png,11
-images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,2
+images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,3
 images/ui/init/parts_pop.json_image,init_parts_pop.png,13
 images/content/limit_break_skills/icon.json_image,limit_break.png,11
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,13
