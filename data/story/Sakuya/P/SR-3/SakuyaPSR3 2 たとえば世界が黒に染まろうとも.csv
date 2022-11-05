@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,（……なんとか、落ち着いた……）,(I've managed to calm down somehow...)
 0000000000000,プロデューサー,"（……大丈夫、ちゃんとリカバーできた
-連絡も、後処理も終わったし……）","(...It's oklay. You bounced back.
+連絡も、後処理も終わったし……）","(...It's okay. You bounced back.
 You made the call and dealt with the consequences...)"
 0000000000000,プロデューサー,"（いい大人なんだ、ミス一つで落ち込んでる場合じゃない
  そんなことをしている暇があったら──）","(You're a grown man for crying out loud.
@@ -126,4 +126,4 @@ else from earlier."
 2006009110320,咲耶,だから、アナタを愛する人のこと……,So please don't forget all about...
 2006009110330,咲耶,アナタも忘れないで欲しいな、プロデューサー,...the ones that appreciate you deeply.
 info,produce_events/200600911.json,
-Translator,,
+Translator,Lewdacriz,
