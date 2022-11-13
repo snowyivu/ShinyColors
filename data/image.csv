@@ -1,15 +1,15 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,61
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,62
 images/ui/common/parts.json_image,common_parts.png,38
 images/ui/my_page/parts.json_image,my_page.parts.png,39
 images/ui/fes/parts.json_image,fes_parts.png,34
 images/ui/common/parts_icons.json_image,common_parts_icons.png,28
-images/ui/option/parts.json_image,ui_option_parts.png,24
+images/ui/option/parts.json_image,ui_option_parts.png,25
 images/ui/mission/parts.json_image,mission_parts.png,24
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,23
 images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,22
-images/ui/gasha/parts.json_image,gasha_parts.png,21
+images/ui/gasha/parts.json_image,gasha_parts.png,22
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
 images/ui/idol_list/parts.json_image,idol_list_parts.png,17
@@ -319,7 +319,7 @@ images/ui/produce_ending/parts_true_lesson.json_image,true_end_report.png,3
 images/ui/gasha/parts_provide_rate.json_image,gasha_parts_provide_rate.png,5
 images/ui/produce_idea_note/parts.json_image,idea_note_parts.png,5
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,3
-images/ui/character_album/parts.json_image,character_album_parts.png,6
+images/ui/character_album/parts.json_image,character_album_parts.png,7
 images/ui/raid_result/parts.json_image,raid_result_parts.png,3
 images/content/ex_skills/icon.json_image,ex_skills.png,5
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,4

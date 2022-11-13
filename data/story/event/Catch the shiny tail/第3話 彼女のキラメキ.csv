@@ -1,0 +1,183 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──……えっと、３人とも寝ちゃってて、
+終点まで行っちゃったってことだな？","──... So let's see, all three of you fell asleep,
+and you went all the way to the final stop?"
+4001009040010,真乃,"は、はい……すみません……っ
+それで、あのっ……","Y-Yes... I'm sorry... 
+And, umm..."
+4001009040020,真乃,"本当は、もうおうちに着く時間だと思うんですけど、
+着くのが、遅くなっちゃいそうでっ……","I think we should have, arrived at home by this time,
+but it seems that, we'll be returning pretty late... "
+0000000000000,プロデューサー,"うん、わかった
+電話してくれてありがとうな、真乃","Alright, got it.
+Thanks for giving me a call, Mano."
+4001009040030,真乃,"いえ……っ
+本当に、すみませ──","Not at all... 
+I'm really sorr──"
+0000000000000,プロデューサー,"大丈夫だから、落ち着いて
+謝らなくていい","It's alright, calm down.
+Don't apologize."
+0000000000000,プロデューサー,"真乃が連絡くれたから、
+みんなの状況がわかって助かってるくらいだ","I'm glad you contacted me,
+because now I know the situation on the ground."
+4001009040040,真乃,そんな……,"It's nothing... "
+0000000000000,プロデューサー,"……えーと、そしたら……
+灯織とめぐるも、今一緒にいるってことでいいんだよな？","... Ummm, and also... 
+Can I confirm that Hiori and Meguru are with you too?"
+4001009040050,真乃,"は、はいっ
+ふたりは──","Y-Yes... 
+They're both──"
+4001009040060,めぐる,代わるよっ,Pass it to me.
+4001009040070,真乃,う、うん,Y-Yeah.
+4001009040080,真乃,"あの、プロデューサーさんっ
+今、めぐるちゃんに代わります──","Umm, Producer-san!
+I'm switching over to Meguru-chan now──"
+0000000000000,プロデューサー,おお、わかった,"Ooh, got it."
+4001009040090,真乃,はい、めぐるちゃん,"Here, Meguru-chan."
+4001009040100,めぐる,ありがと！,Thanks!
+4001009040110,めぐる,"──もしもしプロデューサー？
+うん、うん。……そうなの、わたしが眠くなっちゃって……","──Hey there, Producer?
+Uh-huh, yeah... That's right, I got sleepy... "
+4001009040120,めぐる,ごめんなさいっ,I'm sorry.
+4001009040130,めぐる,"……うん、えっと……まだちゃんとは調べてないんだけど、
+結構時間かかっちゃうかも……","... Yeah, ummm... I haven't really checked yet,
+but it might take a while... "
+4001009040140,めぐる,"……え！？　いいの！？
+あっ、ちょっと待ってね！","... Huh!? You sure!?
+Ah, hold on for a minute!"
+4001009040150,めぐる,"ねぇねぇっ、プロデューサー、
+途中まで迎えにきてくれるって！","Hey, Producer just said
+he'll pick us up partway!"
+4001009040151,真乃＆灯織,！,!
+4001009040160,めぐる,プロデューサー、優しいね,Isn't he so nice?
+4001009040170,灯織,"……うん……
+申し訳ないけど……","... Yeah... 
+I feel kind of sorry though... "
+4001009040180,灯織,でも、嬉しい,But I'm glad.
+4001009040190,めぐる,えへへ、言っとく,"Ehehe, I'll let him know."
+4001009040200,真乃,……,"...... "
+4001009040210,めぐる,"──迷惑かけちゃってごめんなさい、プロデューサー
+でもありがとう！　すっごく嬉しい！","──Sorry for causing you trouble, Producer.
+But thank you! We're so glad you'll come get us!"
+4001009040220,めぐる,"今のふたりからの伝言ね──
+あっ、もちろんわたしからもだよっ","That was a message from Mano and Hiori──
+Ah, of course, I feel that way too!"
+4001009040230,めぐる,"じゃあ後で電車の時間送るから……
+うんっ、丁度いい駅で合流ね！","Then I'll send you the train schedule later.
+Yeah, let's meet up at a good station partway!"
+4001009040240,めぐる,"──わかった、
+みんなにもおうちに連絡してねって伝えておく","──Got it,
+I'll tell them to let their parents know too."
+4001009040250,真乃,"（めぐるちゃん……すごいなぁ……
+電話……すごく、テキパキしてる……）","(Meguru-chan... is so amazing... 
+She's talking on the phone so decisively... )"
+4001009040260,真乃,……,"...... "
+4001009040270,めぐる,"ほんとにありがとう……！
+帰りは絶対乗り過ごしたりしないからっ！","Really, thank you so much... !
+We definitely won't miss our stop on the way back!"
+4001009040280,めぐる,"──あっ、待って待って！
+みんなにも代わるよ！","──Ah, hold on!
+I'll pass it around to the others!"
+4001009040290,めぐる,"はい灯織！
+灯織もプロデューサーに一言！","Here, Hiori!
+Say a few words to Producer!"
+4001009040300,灯織,"えっ……！？
+きゅ、急に言われても……！","Huh... !?
+W-What am I supposed to say... !?"
+4001009040310,めぐる,切っちゃう前に、ほらほら！,"Hurry up, before he hangs up!"
+4001009040320,灯織,ま、待って──！,W-Wait──!
+4001009040330,灯織,"──あ、ぷ、プロデューサー……！
+その……お疲れ様です……","──Ah, uh, P-Producer... !
+Uhh... good work today... "
+4001009040340,灯織,"えっと……ご迷惑をおかけして、すみません……
+私も眠ってしまったので……","Umm... I'm sorry, for causing trouble for you... 
+It's all because I fell asleep... "
+4001009040350,灯織,"……え？　あ、いえ……
+朝早かったのは……当然です……","... Huh? Ah, no... 
+Starting early in the morning... that's just a matter 
+of course... "
+4001009040360,灯織,"あの、ありがとうございます……！
+──めぐるに代わります……！","And, thank you so much... !
+──I'll switch back to Meguru... !"
+4001009040370,灯織,め、めぐる！　はい……！,M-Meguru! Here... !
+4001009040380,めぐる,ん、オッケー！,"Oh, okay!"
+4001009040390,めぐる,もしもしプロデューサー、今度は真乃に代わるねー！,"Hi again Producer, now I'm giving it to Mano!"
+4001009040400,めぐる,はいっ、真乃もラスト！,"Here, you're up last, Mano!"
+4001009040410,真乃,う、うん──！,Y-Yeah──!
+4001009040420,真乃,"プロデューサーさん……
+ありがとうございます……！","Producer-san... 
+Thank you so much... !"
+0000000000000,プロデューサー,"うん、大丈夫だよ
+みんな楽しそうで良かった","No, it's no big deal.
+I'm glad you three seem to be having fun."
+4001009040430,真乃,"はい……
+その……よろしくお願いします……っ","Yeah... 
+Umm... then we'll see you later... "
+0000000000000,プロデューサー,おう,Sure.
+4001009040440,真乃,じゃあ、めぐるちゃんに代わります──,"Then, I'll give it back to Meguru-chan."
+4001009040450,めぐる,"はいはーい！
+それじゃあプロデューサー、また連絡するね！","Okaaay!
+Well then Producer, I'll update you later!"
+4001009040460,めぐる,"……うん、うん、はーい！
+よろしくお願いしまーす！","... Uh-huh, uh-huh, alright!
+See you later!"
+4001009040470,めぐる,"真乃も灯織もありがとう！
+次は電車の時間調べなきゃだね！","Thanks for just now, Mano and Hiori!
+So we've got to check the train schedule next, right?"
+4001009040480,灯織,うん,Yeah.
+4001009040490,真乃,……,"...... "
+4001009040500,真乃,（やっぱり……すごいなぁ）,(She really is... amazing.)
+4001009040510,真乃,……めぐるちゃんも、ありがとう,"... Thank you, Meguru-chan."
+4001009040520,めぐる,え？,Huh?
+4001009040530,真乃,ううん、あの……,"No, it's just... "
+4001009040540,真乃,"プロデューサーさんも、
+きっと安心してくれてるだろうなって、思って","I just thought, thanks to you, 
+Producer-san must be pretty relieved too."
+4001009040550,めぐる,"だといいなぁ
+きっとビックリさせちゃったもんね","I hope so!
+We must've really shocked him."
+4001009040560,めぐる,──あ、時間時間！,"──Ah, the schedule!"
+4001009040570,灯織,……調べた、けど……,"... I checked, but... "
+4001009040580,灯織,"今１本出ていったところだから、
+30分ぐらい待たなきゃいけないかも","A train in that direction just left earlier,
+so we may have to wait another 30 minutes."
+4001009040581,真乃＆めぐる,！,!
+4001009040590,真乃,そ、そんなに……,T-That long... ?
+4001009040600,灯織,ちょっと、他のルートも調べてみるから──,"Hold on, I'll try checking other routes too──"
+4001009040610,めぐる,うーん……,"Hmmm... "
+4001009040620,めぐる,"──はいはい！　だったら、
+せっかくだから餃子を食べて帰るっていうのはどう？！","──Oh, hey! In that case,
+why don't we eat some gyoza while we're here?!"
+4001009040630,灯織,餃子……？,Gyoza... ?
+4001009040640,めぐる,うんっ！,Yup!
+4001009040650,めぐる,"あそこの看板とか、『名物』って書いてあるでしょ？
+美味しそうな感じ、しない？","The signs over there say it's a ""specialty"" here, right?
+It looks pretty tasty, should we try some?"
+4001009040660,真乃,ほわ、ほんとだ……,"Howah, you're right... "
+4001009040670,めぐる,"わたし、今お腹ぺこぺこで……！
+よかったら──","And I'm really hungry right now... !
+So if you're okay with it──"
+4001009040680,灯織,──！,──!
+4001009040690,めぐる,……お腹空いてるの、わたしだけじゃなさそう？,"... Looks like I'm not the only one who's hungry, huh?"
+4001009040700,灯織,"ち、ちが──！
+──違っては……ないけど……！","T-That's not──!
+──You're not... wrong... but... !"
+4001009040710,めぐる,灯織のお腹は賛成かなー？,"So your tummy agrees with me, right?"
+4001009040720,灯織,もう……！,Geez... !
+4001009040730,真乃,"灯織ちゃん
+私も餃子、食べたいな","Hiori-chan.
+I want to eat some gyoza too."
+4001009040740,灯織,真乃まで……！,"Mano, not you too... !"
+4001009040750,灯織,──でも、お店で食べてる時間はないと思う,──But I don't think we have time to eat in-store.
+4001009040751,真乃＆めぐる,……,"...... "
+4001009040760,灯織,"──だから、テイクアウトのにして、
+ホームの待合室で食べよう","──So, let's order takeout,
+and eat in the waiting room on the platform."
+4001009040761,真乃＆めぐる,！,!
+4001009040770,めぐる,ありがと灯織っ、大好き！,"Thank you, Hiori! I love you so much!"
+4001009040780,灯織,……大袈裟,... You're going overboard.
+4001009040790,めぐる,"えっへへー
+それじゃあ！　餃子ミッション、スタートだねっ！","Eh-heheh!
+With that! Our gyoza mission, starts now!"
+info,game_event_communications/400100904.json,
+Translator,Rinka,
