@@ -2,7 +2,7 @@ name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,62
 images/ui/common/parts.json_image,common_parts.png,38
 images/ui/my_page/parts.json_image,my_page.parts.png,39
-images/ui/fes/parts.json_image,fes_parts.png,34
+images/ui/fes/parts.json_image,fes_parts.png,35
 images/ui/common/parts_icons.json_image,common_parts_icons.png,28
 images/ui/option/parts.json_image,ui_option_parts.png,25
 images/ui/mission/parts.json_image,mission_parts.png,24
@@ -606,7 +606,7 @@ images/tips/shop/008.jpg,tutorial/shop_008.png,3
 images/content/game_event/reward_label/5_9_13_17_21_2.png,game_event_reward_label.png,2
 images/ui/concert_result/parts.json_image,concert_result_parts.png,9
 images/ui/concert_result/parts_effect.json_image,concert_result_parts_effect.png,9
-images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,8
+images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,9
 images/ui/raid_concert/parts_audience.json_image,raid_concert_audience.png,3
 images/ui/raid_concert/parts_effect.json_image,raid_concert_audience_effect.png,3
 images/ui/ex_skill/parts.json_image,ex_skill_parts.png,6
