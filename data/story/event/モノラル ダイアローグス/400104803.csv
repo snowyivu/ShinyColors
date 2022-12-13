@@ -131,13 +131,13 @@ Yikes..."
 4001048030250,にちか,"ほんと大変ですねー……！
 頑張って取ってきた仕事、頑張らないヤツに選り好みされて",It must be so tough for you...! Working so hard to bring work to someone so lazy yet so picky.
 0000000000000,プロデューサー,"……
-逆だよ","……
+逆だよ","......
 It's the opposite."
 0000000000000,プロデューサー,にちかが頑張ってるから、仕事が入ってくるんだ,Jobs are coming in because of your hard work.
 4001048030260,にちか,"……あははっ
 笑われながら座ってること『頑張る』って言うんだー……！","...Ahaha.
 So sitting in one place to be laughed at also counts as ""hard work"" huh...!"
-0000000000000,プロデューサー,……,……
+0000000000000,プロデューサー,……,......
 4001048030270,にちか,"仕事っていうのは、美琴さんみたいに
 歌って踊れて────！","To work means to sing and dance, just like Mikoto-san────!"
 0000000000000,プロデューサー,シーズの仕事が増えるならって、思ってるんだろ,Don't you think that SHHis will get more work this way?
@@ -218,4 +218,4 @@ I'll come back later────"
 0000000000000,ルカ,『私』,"""bye."""
 4001048030540,社長,……,......
 info,game_event_communications/400104803.json,
-Translator,,
+Translator,Ruru?,

@@ -47,7 +47,7 @@ You know that it's your turn to make dinner today, right～?"
 いちおう綴じておいたんだけど────","Oh...
 I got it just in case you're interested────"
 4001048040090,美琴,"……『プライベートレッスンの模様を配信』
-練習を撮るの？","...""The private lessons will be recorded""
+練習を撮るの？","...""The private lessons will be recorded.""
 So, filming the practice?"
 0000000000000,プロデューサー,まぁ、そういうことみたいだ,I guess so.
 0000000000000,プロデューサー,"専門的な意味合いはないと思うよ。どっちかっていうと
@@ -94,7 +94,7 @@ I just thought it was unexpected"
 Other people can hardly catch up to you..."
 0000000000000,プロデューサー,"美琴がずっとずっと、
 磨きつづけてきたものがさ","What you have been refining for so, so long..."
-4001048040160,美琴,……,……
+4001048040160,美琴,……,......
 0000000000000,プロデューサー,"俺は、それを思う存分発揮できる場所を
 用意したいって思う",I want to find a place where you can show it to your heart's content.
 4001048040170,美琴,"……プロデューサー
@@ -167,8 +167,8 @@ Hmm──────"
 Because I can't just not understand her, we end up fighting."
 4001048040270,にちか,────……,────......
 0000000000000,ルカの発言,"『大体のことはわかってるっていうか
-研究生の頃からずっと一緒にやってるし』",[I know what she thinks because we've been together ever since we were trainees.]
-0000000000000,ルカの発言,『このへんでバーッて大きい振り入るな、とか』,"[Like, I would know when and where she would stick a flashy dance move in.]"
+研究生の頃からずっと一緒にやってるし』","""I know what she thinks because we've been together ever since we were trainees."""
+0000000000000,ルカの発言,『このへんでバーッて大きい振り入るな、とか』,"""Like, I would know when and where she would stick a flashy dance move in."""
 4001048040280,にちか,…………,............
 0000000000000,代理店ディレクター,"もうなんというか……
 事実、一緒にいるってことが大事で","How can I say it...
@@ -178,7 +178,7 @@ The fact that we're together is what matters."
 0000000000000,代理店ディレクター,一緒にいられる条件を,Making compromises so that we can stay together.
 0000000000000,プロデューサー,"……すごいです
 私からすれば、仲のいいご夫婦に見えますよ","...That's wonderful.
-You two seem like a great match looking in."
+You two seem like a great match to me."
 0000000000000,代理店ディレクター,"いや、仲がいいだなんて……！
 クリニックに行くことだってあるくらいで……","I'm not sure if we are...!
 We even went to a clinic for help..."
@@ -191,11 +191,11 @@ We even went to a clinic for help..."
 Should I introduce you to a good doctor?"
 0000000000000,プロデューサー,……えっ,...Eh?
 4001048040290,美琴,────っ、こほっ……,"────nh, *cough*..."
-0000000000000,ルカの発言,『でしょ、美琴？』,"[Right, Mikoto?]"
+0000000000000,ルカの発言,『でしょ、美琴？』,"""Right, Mikoto?"""
 4001048040300,にちか,──────,──────
 4001048040310,にちか,でしょ、美琴,"Right, Mikoto."
 4001048040320,にちか,────,────
-4001048040330,にちか,いつ返せばいいんだろ、これ,When am I going to return it?
+4001048040330,にちか,いつ返せばいいんだろ、これ,When should I return this?
 4001048040340,にちか,……赤っかいやつ,...This red thing.
 info,game_event_communications/400104804.json,
-Translator,,
+Translator,Ruru?,

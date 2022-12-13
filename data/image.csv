@@ -1,18 +1,18 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,62
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,63
 images/ui/common/parts.json_image,common_parts.png,38
 images/ui/my_page/parts.json_image,my_page.parts.png,39
 images/ui/fes/parts.json_image,fes_parts.png,35
 images/ui/common/parts_icons.json_image,common_parts_icons.png,28
 images/ui/option/parts.json_image,ui_option_parts.png,25
-images/ui/mission/parts.json_image,mission_parts.png,24
+images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,23
 images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,22
 images/ui/gasha/parts.json_image,gasha_parts.png,22
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
-images/ui/idol_list/parts.json_image,idol_list_parts.png,17
+images/ui/idol_list/parts.json_image,idol_list_parts.png,18
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,16
 images/ui/produce_common/parts_header.json_image,parts_header.png,16
 images/ui/produce_event/parts_event.json_image,parts_event.png,15
@@ -43,7 +43,7 @@ images/ui/produce_common/parts_hint_pop.json_image,parts_hint_pop.png,3
 images/ui/common/parts_sort_buttons.json_image,parts_sort_buttons.png,9
 images/ui/produce_idol_rank/parts_idol_rank.json_image,parts_idol_rank.png,8
 images/ui/evolution/parts.json_image,evolution_parts.png,8
-images/ui/produce_deck/parts_deck_edit.json_image,parts_deck_edit.png,14
+images/ui/produce_deck/parts_deck_edit.json_image,parts_deck_edit.png,15
 images/ui/produce_action/parts_wing.json_image,parts_wing.png,6
 images/ui/produce_action/parts_tab_3.json_image,parts_tab_3.png,2
 images/ui/training/parts.json_image,training_parts.png,10
@@ -154,7 +154,7 @@ images/content/produce_auditions/banner/002.jpg,produce_auditions_banner_002.jpg
 images/content/produce_auditions/banner/001.jpg,produce_auditions_banner_001.jpg,7
 images/content/produce_auditions/banner/006.jpg,produce_auditions_banner_006.jpg,7
 images/content/produce_auditions/banner/007.jpg,produce_auditions_banner_007.jpg,7
-images/ui/produce_item/parts.json_image,produce_item_parts.png,16
+images/ui/produce_item/parts.json_image,produce_item_parts.png,17
 images/content/produce_auditions/banner/015.jpg,produce_auditions_banner_015.jpg,7
 images/content/produce_auditions/banner/013.jpg,produce_auditions_banner_013.jpg,7
 images/content/produce_auditions/banner/017.jpg,produce_auditions_banner_017.jpg,7
@@ -316,7 +316,7 @@ images/tips/true_end_teaching/deck_edit/tips_produce_item_vocal.jpg,tutorial/tru
 images/tips/true_end_teaching/deck_edit/tips_produce_item_visual.jpg,tutorial/true_end_tutorial_visual.png,4
 images/ui/true_end_teaching/produce/parts.json_image,true_end_produce_parts.png,4
 images/ui/produce_ending/parts_true_lesson.json_image,true_end_report.png,3
-images/ui/gasha/parts_provide_rate.json_image,gasha_parts_provide_rate.png,5
+images/ui/gasha/parts_provide_rate.json_image,gasha_parts_provide_rate.png,6
 images/ui/produce_idea_note/parts.json_image,idea_note_parts.png,5
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,3
 images/ui/character_album/parts.json_image,character_album_parts.png,7
@@ -933,3 +933,6 @@ images/content/support_idols/name/40bce09ff0f930db8b3d743c178db11b_2040190040.pn
 images/content/support_idols/name/585e84614dab9edad7f07b142a19546e_2040200050.png,cards/toru_s_ssr_5.png,1
 images/content/support_idols/name/8892e8f36bf65f60230c65a5ed98ec4a_2030120050.png,cards/rinze_s_sr_5.png,1
 images/content/idols/name/b4c5cc9434285ebbe6d3319afc275ca9_1030060040.png,cards/sakuya_p_sr_3.png,3
+images/content/support_idols/name/61380bc57b74ea9ccf9efe9e92abfefb_2040020020.png,cards/hiori_s_ssr_2.png,5
+images/content/support_idols/name/c66c1c84d63b0cddcd4f4b73effdd30d_2030030030.png,cards/meguru_s_sr_3.png,5
+images/content/support_idols/name/857a70286003782bcade8179fb9eca9d_2040060090.png,cards/sakuya_s_ssr_9.png,1

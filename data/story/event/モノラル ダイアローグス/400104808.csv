@@ -1,0 +1,301 @@
+id,name,text,trans
+4001048080010,はづき,"────プロデューサーさん
+これ、どういう形で計上します～……？","────Producer-san.
+How should I mark this on our expenses～...?"
+0000000000000,プロデューサー,"……ああ！
+クリニックの請求書……","...Oh!
+The invoice from the clinic..."
+0000000000000,プロデューサー,"……すみません、その、にちかさんを────
+ご説明した通り、何かおかしなことではなくて────","...Pardon me, it was, well, just as we discussed───
+I promise, nothing unusual. I simply had Nichika-san
+attend a few────"
+4001048080020,はづき,レッスン、ですよね～……,"Attend a few ""lessons"", wasn't it～..."
+0000000000000,プロデューサー,────はい,────Yes.
+4001048080030,はづき,"……わかってますよ～
+伝票をどこに付けておこうかっていうご相談です～","...Understood～
+I was only asking so I'd know where to put the slip～"
+0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,"見守ってくださることに、本当に感謝してます……
+そしたら────","I really appreciate you looking out for us...
+Also────"
+0000000000000,講師からのメール,『自分にとって相手はどんな存在か』,"""What does your partner mean to you?"""
+4001048080040,にちか,……,......
+0000000000000,ルカ,パクったのかよ…………！,"Think you can just steal shit, huh...!"
+0000000000000,講師からのメール,『相手にとって自分はどんな存在か』,"""What do you mean to your partner?"""
+0000000000000,ショップスタッフ５,あの、にちかちゃんのことよろしくお願いします……！,"Um, please take good care of our Nichika-chan...!"
+4001048080060,美琴,……,......
+0000000000000,講師からのメール,『どちらの事実もまっすぐ見つめようとしない子』,"""One of you refuses to directly confront both
+your own truth, and your partner's truth."""
+0000000000000,講師からのメール,『どちらの事実にも目を向けたことがない子』,"""One of you has never tried to confront your own
+truth, or your partner's truth, at all."""
+0000000000000,講師からのメール,"『答えはまだ導き出せそうにありませんが、
+レッスンはここで一区切りしてみてもよいかと存じます』","""We haven't reached an answer yet, but I think it's good to end the lesson here."""
+0000000000000,クリニック講師,────言葉が出ないわね,────Your words aren't coming out.
+4001048080061,にちか＆美琴,…………,............
+0000000000000,クリニック講師,いいの、大丈夫────,That's fine────
+0000000000000,クリニック講師,"いつか言葉にするために、沈黙もたくさん必要なんです
+……まず自分の心を知ること","You need a lot of silence to put your feelings into
+words one day.
+...Try to know yourself first."
+0000000000000,クリニック講師,"きっと、黙っている間に考えていることも
+変わってきてるんじゃないかしら",I'm certain that the silence will change what's in your mind.
+4001048080070,にちか,…………,............
+0000000000000,プロデューサー,……,......
+4001048080080,美琴,…………──────,............──────
+4001048080090,美琴,……この住所まで,...To this address.
+0000000000000,タクシー運転手,"はい……
+シートベルトお願いしますね","Sure...
+Please fasten your seatbelts."
+4001048080100,にちか,────……,────......
+4001048080110,美琴,────,────
+0000000000000,クリニック講師,"レッスンはここまでになるけど……約束してください
+答えを探す時は、主観の箱に入って考えること","The lesson will end here... but you have to promise me. When you're looking for the answer, think in a subjective box."
+0000000000000,クリニック講師,考える際は、必ず言葉にすること,"And when you're thinking, make sure to put it into words."
+4001048080120,美琴,────夜は、収録かな,"────You have a recording session tonight, right?"
+4001048080130,にちか,"……！
+は、はい……","......!
+Y-Yes..."
+4001048080140,にちか,"そうです……
+────ご存知だったんですね","I do...
+────They must have let you know."
+4001048080150,美琴,"……よかったら
+それまで、付き合ってもらえない？",...Would you mind keeping me company until then?
+4001048080160,にちか,────……,────......
+4001048080170,にちか,あの……！,Um...!
+4001048080180,美琴,練習をするだけなんだけど,"I'm only practicing, though."
+4001048080190,にちか,"……っ
+はい……！　もちろんです────","......
+Yes...! Of course────"
+4001048080200,美琴,……──────,......──────
+4001048080210,にちか,……,......
+4001048080220,美琴,……,......
+4001048080230,美琴,私……,I......
+0000000000000,off,『言葉にすること』,"""Put your feelings into words."""
+4001048080240,美琴,なんて言ったらいいか、わからないの,"I just don't know, what's the best thing to say."
+4001048080250,美琴,"…………
+ずっと、練習してきたから","............
+Because, all I ever know is practice."
+4001048080260,美琴,"それ以外のことが
+……よくわかっていないのかもしれない","Other than that
+...There's nothing else I really know."
+4001048080270,にちか,……────,......────
+4001048080280,美琴,"……遅い
+１、２、３、４────そう、そこ","...Too slow.
+1, 2, 3, 4──── Right, you got it."
+4001048080290,にちか,はい……！,Yes...!
+4001048080300,にちか,"…………美琴さん……
+────","............Mikoto-san......
+────"
+4001048080310,美琴,……でも、他に思いつかないの,"...But, I can't think of doing something else."
+4001048080320,美琴,"……練習をする以外に
+どうしたらいいか────","...Other than practicing
+I don't know what else to do────"
+4001048080330,にちか,"────……
+もう一回いきます","────......
+Let's go one more time."
+4001048080340,美琴,うん,Mm.
+4001048080341,にちか＆美琴,──────,"──────
+(1, 2, 3, 4)"
+0000000000000,配信ディレクター,"……いい画だなぁ
+──────……","...Very nice footage.
+──────......"
+0000000000000,プロデューサー,……,......
+4001048080350,にちか,"……
+あの……それで、でも────","......
+Um... even so────"
+4001048080360,にちか,────私と……練習してくれるんですか,────Will you... practice with me?
+4001048080370,にちか,──────どうして……,──────Why...
+4001048080380,美琴,……,......
+4001048080390,にちか,……あの──────,......Um──────
+4001048080400,にちか,────……,────......
+0000000000000,off,『必ず』,"""No more excuses."""
+4001048080410,にちか,…………私……私で──────,... Are... Are you──────
+0000000000000,off,『言葉にすること』,"""Put your feelings into words."""
+4001048080420,にちか,────────私でいいんでしょうか……,────Are you sure I'm the right partner for you...?
+4001048080430,美琴,……,......
+4001048080440,美琴,……それがわからないから、練習したいの,"...I don't know the answer to that.
+That's why I want to practice."
+4001048080450,美琴,わからないけど、あなたと練習して、その……,"I don't know the answer, but if I practice with you
+then, um..."
+4001048080460,美琴,"……一緒にやる意味が、
+あるのかどうかを……","...I thought I might be able to understand, whether
+or not there's meaning in us practicing together..."
+4001048080470,にちか,────────,────────
+4001048080480,美琴,あなたは？,What are your thoughts on that?
+4001048080490,にちか,１、２、３、──────！,"1, 2, 3,──────!"
+4001048080500,美琴,……,......
+4001048080510,にちか,私……は──────,I...──────
+0000000000000,配信ディレクター,すごいなぁ……,This is great...
+0000000000000,配信ディレクター,"……ありがとうございます
+公開練習でこんな迫力ある画が撮れるって、思ってなくて","...Thank you so much.
+I didn't expect to get such powerful footage from the open practice."
+0000000000000,プロデューサー,"いえ、こちらこそ本当に……！
+──すみません、緋田へのオファーだったのに、七草も……","Oh, I should be the one saying that...!
+──I'm sorry. It's an offer for Aketa, but Nichika also..."
+0000000000000,配信ディレクター,"いやいやいや……！　嬉しいですよ
+かえって緋田さんの凄みも感じられる気がして────","No need to say sorry...! I'm glad it's like this. In fact, it makes Aketa-san even more amazing────"
+0000000000000,美琴,完成したものを見せるために、練習するのに,I only practice to show a finished product.
+0000000000000,プロデューサー,……ええ,...Yes.
+0000000000000,プロデューサー,"こうやってプロセスを開いていくみたいに、
+彼女の────","By doing this, her process is being unfolded────"
+0000000000000,プロデューサー,"────いえ……
+彼女たち自身の世界も開いていってくれるなら","────or rather...
+Their worlds are being unfolded."
+4001048080530,にちか,──────私も練習したいです………………,"──────I, too, want to practice.................."
+4001048080540,ルカ,──────,──────
+4001048080541,にちか＆美琴,『１、２、３、４────』,"[1, 2, 3, 4────!]"
+4001048080550,ルカ,────────ぁあ……！,────────aaah...!
+4001048080560,美琴,"……オーケー
+少し筋肉を休めて","...Okay.
+Let's rest our muscles for a bit."
+4001048080570,にちか,あ、はい……！,"Ah, yes...!"
+0000000000000,プロデューサー,────ふたりとも、お疲れ様,"────Good work, you two."
+4001048080571,にちか＆美琴,お疲れ様です……！,Thank you...!
+0000000000000,プロデューサー,"うん……
+いい練習ができてるみたいだ","Yeah...
+It was a good practice. "
+4001048080580,美琴,……そうだね,...Right.
+0000000000000,プロデューサー,────それじゃ,────Well then.
+0000000000000,プロデューサー,何か、見えてきたか,Did you realize anything?
+4001048080581,にちか＆美琴,────……,────......
+0000000000000,マネージャー,"ルカ……！　待って────
+────申し訳ありません、片付けますので……","Luca...! Wait────
+────I'm so sorry, we will clean this up..."
+4001048080590,ルカ,"────来んな
+来んな──────！","────Get away from me!
+Get away──────!"
+4001048080600,美琴,"…………
+うん────","............
+Mm────"
+4001048080610,にちか,────えっ……,────Eh...
+0000000000000,プロデューサー,……しばらく、休養することになった,"...She's going on hiatus for the time being, to rest."
+4001048080620,にちか,"……っ
+え……美琴さんが…………？","...Guh.
+Eh... Mikoto-san is...?"
+0000000000000,プロデューサー,そうだ,That's right.
+4001048080630,にちか,…………あの、でも──────！,"...Um, but, I mean──────!"
+0000000000000,プロデューサー,"────ふたりで請ける仕事はしばらくないし……
+そう長い間じゃないと聞いてる","────Well, there aren't any jobs scheduled for
+SHHis for a bit... and she told me she doesn't plan
+to be away for long."
+4001048080640,にちか,………………,............
+4001048080650,美琴,……そう、うん────,"...Yes, mm────"
+4001048080660,美琴,────わからないということが、わかったの,────I've realized that I still don't know the answer.
+4001048080670,美琴,"それで……
+もう少し時間が欲しい","So...
+I'd like to have a little bit more time."
+4001048080680,美琴,何かを始めるというなら,In order for us to properly begin.
+0000000000000,プロデューサー,生まれ育った街に戻るそうだ,"It seems she's returning to the town where she was
+born and raised."
+4001048080690,にちか,──────戻るんだ,──────She's going back.
+4001048080700,にちか,……そうなんだ,...It all makes sense.
+4001048080710,にちか,練習以外のものが、あった時間に,"She's going back to a time when she had things
+other than practice. "
+4001048080720,にちか,──────美琴さん……,──────Mikoto-san...
+4001048080730,ルカ,────ッ,────Tch.
+4001048080740,ルカ,オマエ──────,"You──────
+"
+4001048080750,社長,"……
+うるさい客がいると思ったが","...I came over because I overheard another patron
+making a scene."
+0000000000000,プロデューサー,────にちか,────Nichika.
+4001048080760,にちか,"私も、やらないと……
+できること見つけて、やらないと…………！","I'll work hard too...
+I have to figure out what I can do...!"
+0000000000000,クリニック講師,全然すごくない人が、すごい人と一緒にいるのはなぜ？,Why is a not-amazing person with an amazing person?
+0000000000000,プロデューサー,────うん,────Yeah.
+select,,"待ってるよ
+ふたりのこと","I'll wait here.
+Until you're
+both ready."
+4001048080770,ルカ,…………アハハッ,...Ahaha.
+4001048080780,ルカ,よく耐えられるね、アンタ,"You've got some balls, dude."
+4001048080790,ルカ,"誰と食ってるんだよ
+アハッ、誰と食ってるんだよオイ……？","Who are you eating here with?
+Aha, tell me! Who are you eating here with...?"
+4001048080800,社長,口のものを飲みこんでから話すといい,"You should finishing eating what's in your mouth
+before you speak."
+4001048080810,ルカ,ナポリタン……！,Naporitan...!
+4001048080820,ルカ,まずいね、このナポリタン……最悪な味がする,"This naporitan tastes like shit...
+It's the worst naporitan I've ever had...!"
+4001048080830,社長,……シェフを呼ぼうか,...Would like to complain to the chef?
+4001048080840,ルカ,"……あ？　アンタまずいと思わねぇの？
+────アハハッ","...Huh? You don't think it tastes like shit?
+────Ahaha."
+4001048080850,ルカ,オンチだね、２８３の社長さんはやっぱ,"So the president of 283Pro has no sense of taste.
+Yikes!"
+4001048080860,にちか,"────おはようございますー
+本日もよろしくお願いしますー","────Good morning.
+I'll be in your care today too."
+0000000000000,AD,"……あ、七草さん
+おはようございまーす！","...Oh, Nanakusa-san.
+Good mooorning!"
+0000000000000,ディレクター,おはようちゃん～,Good morning～
+0000000000000,お笑い,おはよ、にちかっ！,"Mornin', Nichika!"
+4001048080870,にちか,うわっ、呼び捨ての人に挨拶するの無理ですー！,"Uwah, I can't say hello to someone who calls me that!"
+4001048080880,社長,"──
+料理の味を損ねているのは誰かね","──────
+I wonder who it is, that's ruining the flavor of your
+food."
+4001048080890,ルカ,……ハァ？,...Say what?
+0000000000000,ディレクター,"────あ、そだそだ～
+今度ね、準レギュラー増えるの","──Oh, that reminds me～
+We're gonna be adding a new member to our rotating
+cast of regulars."
+4001048080900,にちか,"あ、はい……！　私のスケジュールも
+ご配慮くださったみたいで……ありがとうございます","Oh, I see...! I assume also in order to help free up my
+schedule a little bit, I appreciate it...
+Thank you very much. "
+0000000000000,ディレクター,"ま～ねぇ、それも大事だし
+全体フレッシュにしていこっかなって","Well～ Kinda? Sure, that played a role too.
+Mostly I was hoping to freshen things up around here."
+4001048080910,にちか,えーっ、私フレッシュじゃないんですかー？,"Ehhh, am I not fresh enough anymore?"
+0000000000000,制作スタッフ,"あははっ、新しい子ウケちゃったら
+出番食われていったりして～！","Ahaha, now that there's a new member coming in,
+they're gonna start stealing away all your show
+appearances～!"
+0000000000000,お笑い,あっ、もう今日からチェンジでいっすよ,"Oh hey, if you want to have her replaced completely,
+it's never too soon."
+4001048080920,にちか,"うーわ、私もうざいコンビ感
+解消していきたいんですけど……！","Sheesh! Well, I'd certainly be glad to be done with
+having to play along with your obnoxious routines...!"
+4001048080930,一同,────あははっ……,────Ahaha...
+4001048080940,ルカ,…………アンタらがやったことだろ？,"...You lot are the reason all of this happened, y'know?"
+0000000000000,にちか＆美琴,『１、２、３、４────！』,"[1, 2, 3, 4────!]"
+4001048080950,ルカ,"アンタらが……！
+全部全部全部………………","It's you lot...!
+You're the ones that ruin everything...!"
+4001048080960,ルカ,"全部全部……まずくしたんだろ………………！
+自分らだけ幸せごっこやってんじゃねェよ…………！","You're the reason everything has gone to shit...!
+And then you think you can just go on playing at being
+happy all by your little selves, leaving us to rot...!"
+0000000000000,お笑い,──で、その新しいコって誰なんすか？,"──So, who's this new kid you got anyway?"
+0000000000000,ディレクター,あ、うん。来てくれるのは────,"Oh, right.
+Joining our cast is────"
+4001048080970,社長,…………,............
+4001048080980,社長,"……ふしあわせなのか
+あの人は",...Are you sure she's unhappy?
+4001048080990,ルカ,──────っ,──────Guh.
+0000000000000,ルカの母,ふふふっ……,Hehehe...
+4001048081000,にちか,────────えっ……,───────Eh...
+4001048081010,ルカ,────────ふし……,────────Unha...
+4001048081020,ルカ,………………っけんな………………！,......Don't you goddamn dare......!
+0000000000000,ディレクター,──来てくれるのは、斑鳩ルカちゃん～！,──Joining our cast is the lovely Luca Ikaruga～!
+0000000000000,お笑い,"ギャー！！！　マジすか！！！！
+レギュラークラスじゃないすか！！！！！","Gyaaa!!! For real!?!?
+Isn't she a little too good for us!?!?!"
+4001048081030,にちか,────────,────────
+4001048081040,ルカ,アンタにそれ聞く資格はねぇよ…………ッ,"You sure as hell ain't the one who gets to decide
+how she feels...!"
+4001048081050,にちか,──────────やだ,"──────────Please, no."
+4001048081060,美琴,──────こほっ……,──────*cough*...
+4001048081070,にちか,やだやだやだ…………やだ…………,"No no no, please... No..."
+4001048081080,にちか,"…………
+あの人だけは…………………………！","......
+Anyone else, anyone else but her......!"
+4001048081090,美琴,…………暑くなりそう,......Seems like it's going to heat up.
+4001048081091,にちか＆ルカ,全部……取り戻してやる…………………………,"I'm going to take it all back......
+(No...)"
+4001048081100,にちか,──────────盗られる,──────────She's going to steal it.
+info,game_event_communications/400104808.json,
+Translator,Ruru?,

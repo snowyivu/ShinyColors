@@ -1,0 +1,72 @@
+id,name,text,trans
+0000000000000,男子生徒A,おい！,Yo!
+0000000000000,男子生徒A,今年の学園祭、アイドル呼ぶらしいぞ！,I heard that they're inviting an idol to the school festival this year!
+1002005010010,灯織,…………,…………
+0000000000000,男子生徒B,マジ？,Seriously?
+0000000000000,女子生徒C,うちの中学にそんな予算あったの……？,Our middle school has that kind of budget...?
+0000000000000,女子生徒D,それ～,For real～
+0000000000000,女子生徒C,ていうか、アイドルって女性？　男性？,Are we talking about a female or male idol?
+0000000000000,男子生徒B,男は興味ねーからなー,I'm not interested if it's a guy.
+0000000000000,女子生徒D,男子はそうでしょうね～,I don't expect anything better from you boys～
+0000000000000,男子生徒B,お？　女子は女のアイドルでも嬉しいわけ？,Oh? So you're saying girls would be happy with a female idol?
+0000000000000,女子生徒C,"嬉しいに決まってんじゃん！
+可愛い子が来るなら見たいもん","Of course!
+If she's cute I'd love to see her."
+0000000000000,女子生徒D,それ～！,Yup～!
+0000000000000,女子生徒C,誰が来るのかな？,I wonder who's coming.
+0000000000000,男子生徒A,予想当てたやつにおごりな！,Let's have a bet!
+1002005010020,灯織,…………,…………
+1002005010030,灯織,（イヤホンして音楽でも……──）,(I can hear them even with my music and earbuds on...──)
+0000000000000,女子生徒A,……あの、風野さん,"...Um, Kazano-san."
+1002005010040,灯織,…………何？,......What?
+0000000000000,女子生徒A,"……っ
+えっと……","...Uh.
+Well..."
+1002005010050,灯織,……？,……?
+0000000000000,女子生徒A,"風野さんは、誰が来ると思う？　って
+話を……",I just wanted to ask what's your guess on who's coming...
+1002005010060,灯織,……どうして私に？,...Why are you asking me?
+0000000000000,女子生徒A,"風野さん、アイドルが来るって言った時に
+少し気にしてたから……",You seemed to be interested when they said an idol is coming...
+0000000000000,女子生徒A,アイドル、好きなのかなって,I just thought maybe you liked idols.
+1002005010070,灯織,ええと……,Well...
+1002005010080,灯織,"アイドル、ということしかわからないのに
+予想なんてできないと思うんだけど……","I can't simply take a guess when all I know is that, it's an idol..."
+1002005010090,灯織,"そもそも、この話を私として、
+彼女は何か得られるものがあるのかな",Is there anything she can get out of this conversation to begin with?
+1002005010100,灯織,"全然話をしない私より、
+仲のいい子とこういう話するほうが建設的じゃない……？","Wouldn't it be more constructive for her to talk to someone she gets along with, rather than me, who barely talks to her...?"
+1002005010110,灯織,その話、必要？,Do we really need to talk about this?
+0000000000000,女子生徒A,……え,......eh.
+1002005010120,灯織,……え？,......eh?
+0000000000000,女子生徒A,"ご、ごめん
+必要ないよね、戻るね","S-Sorry.
+We don't have to. I'll stop."
+1002005010130,灯織,ぁ……,ah......
+1002005010140,灯織,また、やった,I did it again.
+1002005010150,灯織,（今の言い方、ダメだったな）,(I shouldn't have phrased it that way.)
+1002005010160,灯織,（傷ついた……ような顔だった）,(I could see that she was hurt...)
+1002005010170,灯織,（でも、なんて言えばよかったんだろう）,"(But, what should I have said?)"
+1002005010180,灯織,"（謝るのも変だし……伝え直すにも
+何を言えばいいの……？）",(It's weird to apologize... And I don't know how to rephrase what I said...)
+0000000000000,女子生徒B,……大丈夫？,...You okay?
+0000000000000,女子生徒A,平気、ありがと,"I'm fine, thanks."
+0000000000000,女子生徒B,"どうして風野さんに声かけたの……
+ああなるってわかってたじゃん","Why did you talk to Kazano-san...
+You knew it was going to be like that."
+0000000000000,女子生徒A,"……そうだね
+でも、クラスメイトだし……いつもひとりでいるし","...I know.
+But we're classmates... and she's always alone."
+0000000000000,女子生徒A,話すきっかけがつかめたかもって思って,I just thought I could strike up a conversation.
+0000000000000,女子生徒B,"あれで……？
+まー、もうやめときなよ。ちょっと難易度高いよ","That's why...?
+Well, listen to my advice. Don't pick a battle you can't win."
+0000000000000,女子生徒A,"……
+うん……そうだね…………","......
+Yeah... You're right..."
+0000000000000,女子生徒B,"風野さん、顔綺麗だし高嶺の花感あるし
+なんか……本当とっつきにくいんだよねぇ……","Kazano-san is pretty, but she's hard to reach.
+It's just... really difficult to approach her..."
+0000000000000,女子生徒B,会話続けてくれる気がないっていうか,It's always like she doesn't want to keep any conversation going.
+info,produce_events/100200501.json,
+Translator,Ruru,

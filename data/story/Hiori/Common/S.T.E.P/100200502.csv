@@ -1,0 +1,77 @@
+id,name,text,trans
+1002005020010,灯織,…………,…………
+1002005020020,灯織,（今日はどこも人が多いな……）,(People are everywhere today...)
+1002005020030,灯織,（どこか、静かなところってないのかな）,(Is there anywhere less noisy?)
+1002005020040,灯織,"（救護室……は具合悪くもないし、
+屋上は立ち入り禁止だし）","(There's the first aid room... but I'm not even sick.
+And the rooftop is off limits.)"
+1002005020050,灯織,"（教室は邪魔になるから無理、
+体育館裏……とか？）",(I can't sit in the classroom because I'd be in the way. Maybe I should go to the back of the gym...?)
+1002005020060,灯織,（体育館自体は人がいるだろうけど……）,(As long as I'm not inside the actual gym where it's crowded...)
+1002005020070,灯織,（行ってみようかな……）,(I think I'll go there...)
+0000000000000,男子生徒A,ほら、早くしろって！,"Come on, hurry up!"
+0000000000000,男子生徒C,ごめん！！　あと何分！？,Sorry!! How much time do we have!?
+0000000000000,男子生徒A,あーーーー10分！,"Ahhhh, ten minutes!"
+0000000000000,男子生徒C,野外ステージまで結構あるけど間に合う？,The outdoor stage is quite far away. Can we make it?
+0000000000000,男子生徒B,走りゃいけるっしょ！,We can if we run!
+1002005020080,灯織,…………,............
+1002005020090,灯織,（何かあるんだっけ……？）,(Is something going on...?)
+1002005020100,灯織,………………あ,..................Oh.
+0000000000000,男子生徒A,今年の学園祭、アイドル呼ぶらしいぞ！,I heard that they're inviting an idol to the school festival this year!
+1002005020110,灯織,ああ……アイドルの……,"Those idols, huh..."
+1002005020120,灯織,（じゃあ、校庭は避けて、やっぱり体育館の……──）,"(Then I'll avoid the schoolyard, and head to the gym's...──)"
+0000000000000,女子生徒A,"ご、ごめん
+必要ないよね、戻るね","S-Sorry.
+We don't have to. I'll stop."
+1002005020130,灯織,……,......
+1002005020140,灯織,"（誰が来るかの予想はできなくても、
+来た人についての感想なら……）","(Although I can't guess who's here, I can at least share my impression of them...)"
+1002005020150,灯織,（それで、あの時はごめんなさいって謝れたら……）,(And then I can apologize for that one time...)
+1002005020160,灯織,"（っていうのは、卑怯か……
+アイドルをだしにしている感じが……──）","(Or maybe that just makes me a coward...
+using idols as a preface...──)"
+0000000000000,アナウンス,"『この後、屋外ステージにて
+スペシャルライブが行われます』","""After this, there will be a special concert on the outdoor stage."""
+0000000000000,アナウンス,"『本校初の試みとなっておりますので、
+みなさまお誘いあわせの上────』","""This will be the first time we've ever held this event at our school. Please come and join us at ────."""
+0000000000000,学園祭の客A,え、ライブ？　そんなのあるの？,"Huh, a concert? They have that here?"
+0000000000000,学園祭の客B,"あー、これみたい
+パンフに書いてあるー","Oh, I think it says so in the brochure."
+0000000000000,学園祭の客A,"アイドル？　へぇ、行ってみる？
+普段ならお金払わないと見られないじゃん","Idol? Dang. You wanna go?
+It's not everyday that we can see that for free."
+0000000000000,学園祭の客B,"確かにー行こう行こう
+昇降口どっち？","True true. Let's go!
+Which way is the entrance?"
+0000000000000,灯織,…………,............
+1002005020180,灯織,（そういう考えもあるんだ……）,(That's one way to think about it...)
+1002005020190,灯織,…………うん,............Okay.
+1002005020200,灯織,（行くだけ、行ってみよう）,(I'll just go check it out.)
+1002005020210,灯織,（それで……────）,(And then...────)
+0000000000000,アイドル,こんにちはー！,Hellooo!
+0000000000000,アイドル,"貴重な時間を使って見に来てくれてありがとう！
+そして、みなさんはじめまして！","Thanks for taking your precious time out to come see us!
+Nice to meet you all!"
+0000000000000,アイドル,"たぶん、私たちのことを知らない人もいると思います！
+なので名前だけでも覚えてもらえたら嬉しいです！","Some of you must have no idea who we are! Regardless, we hope you can at least remember our name!"
+0000000000000,アイドル,"今日はここにいる全員を笑顔にするまで帰りません！
+ううん、笑顔にしてみせるから、どうか楽しんでほしい！","We're not leaving until we can make everyone here smile! Actually, we WILL make you smile, so please enjoy the show!"
+0000000000000,アイドル,"曲がわからなくても、
+腕を上げたりジャンプしたり好きに楽しんでほしい！","You don't have to know the songs. Please just raise your arms, jump, and have fun!"
+0000000000000,アイドル,"声を出してもいいし、サビが繰り返しだ！　ってわかったら
+一緒に歌ったり踊ったりしてくれると超ハッピー！","Feel free to cheer with your voice! The chorus repeats, so if you can sing or dance along with us, we'll be super happy!"
+0000000000000,アイドル,みんな笑顔で最高の一日にしよう！,Let's all smile and have an amazing day!
+0000000000000,アイドル,笑顔は無敵だからね～！,Because smiling makes you invincible~!
+0000000000000,アイドル,じゃあ──いくぞっ！,"Okayyy, let's go!"
+1002005020220,灯織,…………,............
+1002005020230,灯織,すごい……,Amazing...
+1002005020240,灯織,アイドルって……あんなに……,Idols... are so...
+1002005020250,灯織,"（あんなに、歌って踊って動き回って
+ずっと笑顔で……みんなを笑顔にして……）","(They sing, dance, and move around so much, yet they're smiling all the time... and making everyone else smile...)"
+1002005020260,灯織,（キラキラ……輝いてる……──！）,(Sparkling... and shining...──!)
+1002005020270,灯織,私も……,"I, too..."
+1002005020280,灯織,（私も、あんなふうに）,"(I, too, want to be like that...)"
+1002005020290,灯織,（私が、こうやって衝撃を受けたみたいに）,(I want to fill someone with this much awe.)
+1002005020300,灯織,（誰かを笑顔にできるように、なりたい……！）,(I want to be able to make someone smile...!)
+info,produce_events/100200502.json,
+Translator,,
