@@ -1,9 +1,9 @@
 id,name,text,trans
-1002005020010,灯織,…………,…………
+1002005020010,灯織,…………,............
 1002005020020,灯織,（今日はどこも人が多いな……）,(People are everywhere today...)
 1002005020030,灯織,（どこか、静かなところってないのかな）,(Is there anywhere less noisy?)
 1002005020040,灯織,"（救護室……は具合悪くもないし、
-屋上は立ち入り禁止だし）","(There's the first aid room... but I'm not even sick.
+屋上は立ち入り禁止だし）","(There's the infirmary... but I'm not even sick.
 And the rooftop is off limits.)"
 1002005020050,灯織,"（教室は邪魔になるから無理、
 体育館裏……とか？）",(I can't sit in the classroom because I'd be in the way. Maybe I should go to the back of the gym...?)
@@ -18,7 +18,7 @@ And the rooftop is off limits.)"
 1002005020090,灯織,（何かあるんだっけ……？）,(Is something going on...?)
 1002005020100,灯織,………………あ,..................Oh.
 0000000000000,男子生徒A,今年の学園祭、アイドル呼ぶらしいぞ！,I heard that they're inviting an idol to the school festival this year!
-1002005020110,灯織,ああ……アイドルの……,"Those idols, huh..."
+1002005020110,灯織,ああ……アイドルの……,"That idol, huh..."
 1002005020120,灯織,（じゃあ、校庭は避けて、やっぱり体育館の……──）,"(Then I'll avoid the schoolyard, and head to the gym's...──)"
 0000000000000,女子生徒A,"ご、ごめん
 必要ないよね、戻るね","S-Sorry.
@@ -50,8 +50,7 @@ Which way is the entrance?"
 1002005020210,灯織,（それで……────）,(And then...────)
 0000000000000,アイドル,こんにちはー！,Hellooo!
 0000000000000,アイドル,"貴重な時間を使って見に来てくれてありがとう！
-そして、みなさんはじめまして！","Thanks for taking your precious time out to come see us!
-Nice to meet you all!"
+そして、みなさんはじめまして！",Thanks for taking your precious time out to come see us! Nice to meet you all!
 0000000000000,アイドル,"たぶん、私たちのことを知らない人もいると思います！
 なので名前だけでも覚えてもらえたら嬉しいです！","Some of you must have no idea who we are! Regardless, we hope you can at least remember our name!"
 0000000000000,アイドル,"今日はここにいる全員を笑顔にするまで帰りません！
