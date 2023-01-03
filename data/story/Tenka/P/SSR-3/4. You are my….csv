@@ -1,0 +1,133 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（ふう……これは──提出まで少しあるな
+なら、こっちの資料を先に……）","(Phew... let's see── there's still some time before I 
+need to submit this, so I'll handle these documents
+first... )"
+0000000000000,プロデューサー,（……もう空か、おかわり──）,(... Already empty? Time for a refill──)
+0000000000000,プロデューサー,（…………まあいいや、キリがよくなってから……）,"(... Never mind, I'll do it once I'm done with this
+part... )"
+2015009040010,甜花,…………,"...... "
+0000000000000,プロデューサー,（……よし、ここまで終われば大丈夫だな）,"(... Alright, I guess it's fine if I stop here for now)"
+0000000000000,プロデューサー,（ちょっと、コーヒーを……）,(Time to refill my coffee... )
+0000000000000,プロデューサー,…………！？,...... !?
+0000000000000,プロデューサー,どうした！？　何があっ──,What's wrong!? Did someth──
+2015009040020,甜花,あ、あうう……,"A-Auu... "
+0000000000000,プロデューサー,"て、甜花！？
+どうした！？　どこかぶつけたか！？","T-Tenka!?
+What happened!? Did you bump into something!?"
+2015009040030,甜花,"だ、大丈夫……
+甜花も……","I-It's okay... 
+Tenka is okay..."
+2015009040040,甜花,"……コーヒーの、豆も……
+無事……！","... The coffee, beans...
+are safe too... !"
+0000000000000,プロデューサー,こ、コーヒー豆？,C-Coffee beans?
+0000000000000,プロデューサー,……って──,... Wait──
+0000000000000,プロデューサー,"（キッチン……
+ごちゃごちゃだけど、コーヒーミルに、フィルターに……）","(The kitchen... 
+it's pretty messy, but there's the coffee grinder, and 
+the coffee filters... )"
+0000000000000,プロデューサー,"もしかして──
+コーヒー、淹れようとしてくれてたのか？","Don't tell me──
+Were you going to make some coffee?"
+2015009040050,甜花,え、えと……,"U-Umm... "
+2015009040060,甜花,"プロデューサーさん、忙しそうで……
+コップ、空っぽで……","Producer-san, you looked busy...
+and your cup, was empty... "
+2015009040070,甜花,"甜花が、淹れたら……
+喜んでくれる、かな、って……","So Tenka thought, if she made some coffee...
+then it'd make you happy, maybe... "
+2015009040080,甜花,でも……,"But... "
+0000000000000,プロデューサー,"そうだったのか……
+ありがとな、甜花","So that's what happened... 
+Thank you, Tenka."
+0000000000000,プロデューサー,──そうだ,"──Oh, that's right."
+select,,"コーヒーの
+お供といえば？","Do you know what 
+goes with coffee?"
+select,,一緒に淹れよう,Let's make it together.
+select,,一緒に飲もう,Let's drink it together.
+2015009040090,甜花,"え？　え、えと……
+甘いもの……？","Eh? Uh, umm...
+Something sweet... ?"
+0000000000000,プロデューサー,"正解だ
+──さて、ここに後はドリップするだけのコーヒーがある","Exactly.
+──Now, here's some coffee that just needs to be left
+to drip."
+0000000000000,プロデューサー,"すぐにドリップするのもいいけど、その前に……
+何か、甘いものでも買ってこないか？","We could drip it right away, but before that...
+Why don't we go buy something sweet to go with it?"
+2015009040100,甜花,"え……？
+プロデューサーさん、お仕事は……？","Huh?
+But Producer-san, your work... ?"
+0000000000000,プロデューサー,"一段落したから大丈夫だよ
+それに、いい仕事のためには休憩も大事だからな","I'm at a good place to stop for now, so it's okay.
+Moreover, it's important to rest well so that I can
+do my job well."
+0000000000000,プロデューサー,"少し歩いて、気分転換して……
+甘いものでも食べてリフレッシュしよう","I was thinking we could take a short walk for a change
+of pace... Maybe have something sweet and take a
+breather."
+0000000000000,プロデューサー,どうだ？　甜花,"What do you think, Tenka?"
+2015009040110,甜花,…………うん！,...... Yeah!
+2015009040120,甜花,"いいお仕事の、ために……
+お休みは……大事……！","A good rest, is important... 
+to do... a good job... !"
+0000000000000,プロデューサー,"甜花はミル挽きのコーヒー初めてだよな？
+この後のやり方を教えるから……","This is the first time you're making coffee with a
+hand grinder, right? I'll show you how to do it, so... "
+2015009040130,甜花,わあ……,"Whoa... "
+2015009040140,甜花,"プロデューサーさん、コーヒー……！
+コーヒーのにおい……！！！！","Producer-san, it's coffee... !
+It smells like coffee... !!!!"
+0000000000000,プロデューサー,はは、コーヒーだからな,"Haha, that's because it is coffee."
+2015009040150,甜花,"…………あ……
+あの……いっぱい、時間かかっちゃった……","... Ah...
+But... that took, a long time..."
+2015009040160,甜花,"プロデューサーさん……
+お仕事、あったのに……","And Producer-san...
+you had work to do, too... "
+0000000000000,プロデューサー,"いや、いい気分転換になったよ
+……それよりほら、淹れたてを飲んでみよう","No, it made for a pretty good change of pace.
+... More importantly, here, try it freshly brewed."
+2015009040170,甜花,う、うん……,"O-Okay... "
+2015009040180,甜花,…………,"...... "
+2015009040181,甜花,……にがい,... Bitter.
+0000000000000,プロデューサー,はは、甜花はあんまりコーヒー飲まないからな,"Haha, that's because you don't drink coffee much, 
+Tenka."
+2015009040190,甜花,"うん……
+……でも、美味しい……","Yeah...
+... But, it's good... "
+0000000000000,プロデューサー,……ああ,... Yeah.
+0000000000000,プロデューサー,……美味しいな,... It's really good.
+0000000000000,プロデューサー,"せっかく甜花が淹れてくれるんだし──
+ああ、甜花はコーヒー飲まないから、ココアか紅茶でも……","Since you've going to the trouble to make me some──
+Oh, you don't drink coffee, so how about hot chocolate
+or tea instead... "
+2015009040200,甜花,え、えと……,"Uh, umm... "
+0000000000000,プロデューサー,ん？,Hmm?
+2015009040210,甜花,"甜花も……飲んでみたい……
+…………頑張る……","Tenka... wants to try some coffee...
+... She'll do her best... "
+2015009040220,甜花,い、いただきます…………！,H-Here goes... !
+2015009040230,甜花,"………………
+……あぅっ",".......
+... Aauh!"
+0000000000000,プロデューサー,だ、大丈夫か？,A-Are you okay?
+2015009040240,甜花,"あ、熱かった……
+……もう一回……！","R-Really hot... 
+... One more try... !"
+2015009040250,甜花,…………,"...... "
+2015009040251,甜花,にがい……,"It's bitter... "
+0000000000000,プロデューサー,"初めてだから、濃くしすぎたのかもしれないな
+無理に飲まなくても……","It's your first time, so maybe that was too strong.
+You don't have to force yourself to... "
+2015009040260,甜花,だ、大丈夫……,"I-It's okay... "
+2015009040270,甜花,"ちょっとずつ、なら……飲める……
+大丈夫……だから……","It'll be fine... if Tenka drinks...
+a little at a time... "
+2015009040280,甜花,"プロデューサーさん、お仕事のあいだ……
+甜花、ここで……飲んでる……ね……","Producer-san, while you do your work...
+Tenka will, stay here... and drink it... okay?"
+info,produce_events/201500904.json,
+Translator,"@kotonekotoP, Rinka",

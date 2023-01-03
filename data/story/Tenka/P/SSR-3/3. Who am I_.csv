@@ -1,0 +1,141 @@
+id,name,text,trans
+2015009030010,甜花,"『──内側から鍵のかかった密室、
+これはまさに不可能犯罪という他ない』","""──This room was locked from the inside,
+making this none other than an impossible crime."""
+2015009030020,甜花,"『……しかし、この完全密室
+たったひとりだけは破ることが可能です』","""... However, there was one person alone who 
+could have broken through this perfectly locked 
+room."""
+2015009030030,甜花,『……つまり、状況からしゅいさつするに……』,"""... In other words, from my conjekshure based
+on this situation... """
+0000000000000,プロデューサー,（──ん？）,(──Hmm?)
+2015009030040,甜花,………………,"...... "
+2015009030041,甜花,……あうう……,"... Auuu... "
+0000000000000,プロデューサー,"大丈夫だ甜花！
+ここまでちゃんと読めてたじゃないか！","It's alright, Tenka!
+You managed to read it perfectly up to now!"
+0000000000000,プロデューサー,"せっかく主演に抜擢されたんだ
+探偵役、練習すればばっちりこなせるようになるさ","You've finally been chosen for a leading role.
+With practice, you'll pull of this detective role
+perfectly."
+2015009030050,甜花,"そ、そうだよね……！
+次は、ちゃんと……！","T-That's right... !
+The next try, for sure... !"
+2015009030060,甜花,"『──状況から推察するに、
+はんこ、犯行が可能なのはただひとり……』","""──from my conjecture based on this situation,
+only one person could have commit, committed... """
+2015009030070,甜花,『………………』,"""......"""
+2015009030080,甜花,……あう……,"... Auu... "
+0000000000000,プロデューサー,（甜花、ドツボに嵌ってしまってるな……）,(Tenka seems to have hit a rough patch... )
+select,,発声練習をしてみよう,Let's try some vocal exercises.
+select,,一緒に読んでみよう,Let's read it together.
+select,,どんな台本だったっけ？,What kind of script was it again?
+0000000000000,プロデューサー,"あめんぼあかいなあいうえお
+……ほら、甜花も","""A proper copper coffee pot""
+... You try it, Tenka."
+2015009030090,甜花,"え、えと……
+あめんぼあかいなあいうえお","Uh, umm...
+""A proper copper coffee pot."""
+0000000000000,プロデューサー,"ほら、俺より全然発声がいいじゃないか
+さすが甜花だな","See, your pronunciation is way better than mine.
+Just what I'd expect from you, Tenka."
+2015009030100,甜花,"そ、そうかな……
+に、にへへ……","Y-You think so... ?
+Ni, nihehe... "
+0000000000000,プロデューサー,"ああ……
+──そうだ、早口言葉なんかも言えるんじゃないか？","That's right...
+──Hey, you can do some tongue twisters, right?"
+2015009030110,甜花,早口言葉……？,"Tongue twisters... "
+0000000000000,プロデューサー,"ああ、そうだな……
+……みぎめみぎみみみみみみみぎめ！","Yeah, let's see...
+... ""The sixth sick sheik's shick six six!"""
+0000000000000,プロデューサー,"……正しくは、右目、右耳、右耳、右目、だ
+本当は３回言うんだけどな……","... The correct phrase is ""the sixth sick sheik's sixth 
+sheep's sick"". By right, it should be said three times... "
+2015009030120,甜花,え、えと……えと……目、耳、耳、目……？,"Uh, umm... uhh... sick, sheik, sixth, sheep... ?"
+2015009030130,甜花,"──右目右耳右耳右目、右目右耳右耳右目、
+右目右耳右耳右目……！","──The sixth sick sheik's sixth sheep's sick,
+the sixth sick sheik's sixth sheep's sick,
+the sixth sick sheik's sixth sheep's sick... !"
+2015009030140,甜花,"…………っ！
+……言え、た……？","...... !
+... I did, it... ?"
+0000000000000,プロデューサー,ああ、ちゃんと言えたじゃないか！,"Yeah, you said it perfectly!"
+0000000000000,プロデューサー,"俺も言えない早口言葉だって言えるんだ
+台本くらい、簡単に読めるよ、甜花なら","You managed to do a tongue twister I couldn't 
+even do. So reading this script should be easy 
+for you, Tenka."
+2015009030150,甜花,甜花なら……,"Easy for Tenka... "
+2015009030160,甜花,"て、甜花……
+もう一回、やってみる……！","T-Tenka...
+will try, one more time... !"
+2015009030170,甜花,"だ、だから……
+プロデューサーさん、そこで……見てて……！","S-So... 
+Producer-san, watch Tenka... from there... !"
+0000000000000,プロデューサー,"自分のセリフだけを読んでるから、
+流れがつかみにくくなってるんじゃないか？","You're only reading your own lines, so it must be 
+hard to grasp the flow of conversation, right?"
+2015009030180,甜花,いいの……？,Is that okay... ?
+0000000000000,プロデューサー,"チェック用の台本、まだ返してなかったはずだし──
+あ、でも、演技力は期待しないでくれよな","I should still have the copy they sent for reference──
+Ah, but, don't expect much in the way of acting skill, 
+alright?"
+2015009030190,甜花,うん、へたっぴでも……大丈夫……！,"Yeah, it's okay... even if you're bad... !"
+0000000000000,プロデューサー,はは……,"Haha... "
+2015009030200,甜花,"『──内側から鍵のかかった密室、
+これはまさに不可能犯罪という他ない』","""──This room was locked from the inside,
+making this none other than an impossible crime."""
+0000000000000,プロデューサー,"『容疑者は全員鍵のかかった部屋にいた！
+犯行は不可能だ！』","""All the suspects were trapped in a locked room!
+No one could have committed the crime!"""
+2015009030210,甜花,"『一見そうでしょう。しかし、このふたつの密室、
+たったひとりだけ破ることが可能です』","""That's how it appears on first glance. However, there 
+was one person alone who could have broken through 
+the two locked rooms."""
+0000000000000,プロデューサー,"『誰だ！？
+犯人は──誰だっていうんだ！』","""Who!?
+Who are you saying is the culprit!"""
+2015009030220,甜花,"『──状況から推察するに、
+犯行が可能なのはただひとり……』","""──from my conjecture based on this situation,
+only one person could have committed this crime... """
+0000000000000,プロデューサー,（よし……！）,(Alright... !)
+0000000000000,プロデューサー,"──あ、あっと、えっと……
+『そ、それはいったい──！？』","─Ah, ahh, umm...
+""Who on earth could have──!?"""
+2015009030230,甜花,『……犯人は、あなたです！』,""".... The culprit, is you!"""
+2015009030240,甜花,"え、えと……
+洋館……閉じこめられちゃって……事件、起きて……","Uh, umm...
+They get trapped... in a mansion... and an incident,
+happens... "
+2015009030250,甜花,"でも……女の子の、探偵が……
+色んな謎、解いて……敵、やっつけて……","But... a girl, detective...
+solves, lots of puzzles... and beats, the bad guy... "
+2015009030260,甜花,すごい……かっこいい……！,She's... really cool... !
+0000000000000,プロデューサー,"なるほど……
+──それで、そのかっこいい探偵が甜花なんだな","I see...
+──And that cool detective, is Tenka, right?"
+2015009030270,甜花,え……,Huh... ?
+2015009030280,甜花,"え、えと、そうだけど……
+でも、甜花じゃ……","Uh, umm, kind of... 
+But, Tenka's not... "
+0000000000000,プロデューサー,"甜花は、なってみたくないか？
+すごくてかっこいい探偵に","Don't you want to be like her, Tenka?
+A really cool detective."
+2015009030290,甜花,なりたい……でも……,"Yeah... but... "
+0000000000000,プロデューサー,"でも、なんて心配しなくて大丈夫さ
+甜花がやりたいなら、みんな全力でサポートする","Don't worry about any ifs or buts.
+As long as you want to do it, everyone will give
+you their full support."
+2015009030300,甜花,みんな……,"Everyone... "
+0000000000000,プロデューサー,"ひとりだと、できないかもって思うこともあるかもしれない
+でも、甜花の力になるみんなを信じれば……どうだ？","There may be things that you might not be able to
+do on your own. But maybe if you believe everyone
+that's supporting you... how about it?"
+2015009030310,甜花,"そう、だよね……
+みんな、すごくて……すごいから……","That's, right... 
+Everyone, is great... and awesome, so... "
+2015009030320,甜花,"きっと……
+甜花も、どうにかしてくれる……はず……！","Surely...
+they'll make things work... for Tenka... too!"
+info,produce_events/201500903.json,
+Translator,"@kotonekotoP, Rinka",
