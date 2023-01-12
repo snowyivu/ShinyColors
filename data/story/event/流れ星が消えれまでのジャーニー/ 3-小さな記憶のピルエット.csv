@@ -2,13 +2,13 @@ id,name,text,trans
 4001030040010,千雪,そっか、まだ……,"I see, so she's still down... "
 4001030040020,甜花,"うん……昨日、プロデューサーさん、
 病院に連れてってくれた……けど……","Uh-huh... Yesterday, Producer-san,
-took her to the hospital... but... "
+took her to the doctor... but... "
 4001030040030,千雪,……ちょっと、長引きそうなのね,... Looks like it'll drag on a while longer.
 4001030040040,千雪,"お仕事の予定、
 もうちょっと後だったらいいんだけど────","If only her job were
 scheduled a little later────"
 4001030040050,甜花,…………,"...... "
-4001030040060,甜花,──キャンセル、してくれるかな……,"──Could they, cancel it... ?"
+4001030040060,甜花,──キャンセル、してくれるかな……,"──Could they, cancel it...?"
 0,プロデューサー,え？,Huh?
 4001030040070,甜花,"もうすぐ……だよね
 お仕事の予定……","It's pretty soon... right?
@@ -21,7 +21,7 @@ That big job scheduled... "
 ... Is Naa-chan... "
 4001030040100,甜花,"なーちゃんが……
 無理しないかな、って……","Do you think Naa-chan...
-is pushing herself too hard... ?"
+is pushing herself too hard...?"
 0,プロデューサー,"ん？　すまん
 そういうことか","Hmm? Oh sorry,
 that's what you meant."
@@ -48,7 +48,7 @@ easy. Amana knows that very well, so... she'll be fine."
 4001030040140,甜花,"にへへ……
 じゃ……大丈夫、だね","Nihehe... 
 So... she'll be fine, then."
-0,プロデューサー,おう……！,Right... !
+0,プロデューサー,おう……！,Right...!
 4001030040150,甜花,…………,"...... "
 4001030040160,甘奈,『──ごめんね』,"""──Sorry."""
 4001030040170,甘奈,"『あまなばっかりデビたろうとあそんじゃった
@@ -65,12 +65,12 @@ so, so hearty... """
 なんだかいつもと逆だね』","""But... Yeah, I see.
 It feels like the opposite from usual, huh."""
 4001030040240,甜花,"『うん……！
-熱の間は、なーちゃんが、甜花……！』","""Yeah... !
-While you're sick, Naa-chan, you're Tenka... !"""
-4001030040250,甘奈,『じゃあ、甜花ちゃんが甘奈……？』,"""Then, Tenka-chan is Amana... ?"""
-4001030040260,甜花,………っ,...... !
+熱の間は、なーちゃんが、甜花……！』","""Yeah...!
+While you're sick, Naa-chan, you're Tenka...!"""
+4001030040250,甘奈,『じゃあ、甜花ちゃんが甘奈……？』,"""Then, Tenka-chan is Amana...?"""
+4001030040260,甜花,………っ,......!
 4001030040270,甜花,"──あ、あのね……！
-プロデューサーさん……あの……","──H-Hey, umm... !
+プロデューサーさん……あの……","──H-Hey, umm...!
 Producer-san... uhh... "
 0,プロデューサー,ん？,Hmmm?
 4001030040280,甜花,"もし……なーちゃんが、
@@ -81,21 +81,21 @@ in time for her job... "
 We'll be late～"
 4001030040300,甜花,"んしょ……
 くつのひも、結べ……た……！","Hup... 
-Shoelaces... are... tied... !"
+Shoelaces... are... tied...!"
 4001030040310,甘奈,"オッケー！
 じゃ、ママ、いってきまーす！","Okay!
 Then, we'll be going now, Mama!"
 0,ママ,"待って、ふたりとも！
 裁縫バッグの注文、今日が締め切りだったでしょ","Wait, you two!
 Today's the deadline to order the sewing kits, isn't it?"
-4001030040320,甘奈,あっ、わすれてた……！,"Ah, I forgot... !"
+4001030040320,甘奈,あっ、わすれてた……！,"Ah, I forgot...!"
 0,ママ,"はい、この封筒を先生に渡して
 お金が入ってるからなくさないでね？","Here, hand this envelope to your teacher.
 There's money inside, so don't lose it, alright?"
 0,ママ,"甜花ちゃんは『デビ太郎バッグ』
 甘奈ちゃんは『ルビーショルダーバッグ』でいいのよね？","Tenka-chan's is the ""Devitaro Bag"", and
 Amana-chan's is the ""Ruby Shoulder Bag"", correct?"
-4001030040321,甘奈＆甜花,うん……！,Yeah... !
+4001030040321,甘奈＆甜花,うん……！,Yeah...!
 0,パパ,もうすっかりクリスマスの飾り付けだなあ,"It's all decked out for Christmas already here, huh?"
 4001030040330,甘奈,ね～！　ハロウィンが終わったばっかりなのに,"Right～? Halloween was just the other day, too."
 0,パパ,"早めにプレゼントを考えなさいってことかな
@@ -114,10 +114,10 @@ about it."
 4001030040360,甜花,甜花……ゲーム売り場、行きたい……！,"Tenka... wants to go, to the game section.. !"
 0,パパ,おっ、いいな、覗いてみよう！,"Oh, sounds good, let's take a look!"
 4001030040370,甘奈,"甘奈はお洋服とアクセサリーが見たい……！
-あとコスメ……！","Amana wants to look at clothes and accessories... !
-And makeup too... !"
+あとコスメ……！","Amana wants to look at clothes and accessories...!
+And makeup too...!"
 0,パパ,"コスメ……！？
-ハハハ、甘奈はおませだなあ","Makeup... !?
+ハハハ、甘奈はおませだなあ","Makeup...!?
 Hahaha, Amana, you're growing up too fast!"
 4001030040380,甘奈,えー？　いまどき普通だよー,Huh? It's totally normal these days!
 4001030040381,off,服が２着、違うもの,"Two sets of clothes, each different."
@@ -131,7 +131,7 @@ how she's cheerful, sparkling, and has lots of friends."
 優しくて、強くて、かっこよくて、かわいーところ","Tenka-chan's good points are,
 how she's kind, strong, cool and sooo cute."
 4001030040421,off,いいところは、違うところ──,"Our good points, are how we're different."
-0,プロデューサー,………？　甜花？,...... ? Tenka?
+0,プロデューサー,………？　甜花？,......? Tenka?
 4001030040430,甜花,あ……,"Ah... "
 4001030040440,甜花,"やっぱ……
 なんでもない……","Never mind... 
@@ -146,7 +146,7 @@ in time for her job... "
 Tenka could go, as Naa-chan, to the job... "
 4001030040480,甜花,でも……やっぱり、ダメか……って,"But... of course, that won't work... huh."
 0,プロデューサー,"はは……！
-なるほどな、ふたごならではの……ってやつだな","Haha... !
+なるほどな、ふたごならではの……ってやつだな","Haha...!
 I get it, because you're twins... that old trick."
 0,プロデューサー,"プライベートなら面白いかもしれないけど、
 確かに、仕事では難しそうだ","It might be fun to try in private,
@@ -156,7 +156,7 @@ but like you said, it'll be hard to pass off at work."
 Tenka is Tenka, and Amana is Amana after all──"
 0,off,『──わ、かわいいお嬢さんたち。ふたりともそっくりね』,"""──My, what adorable little ladies. You two look
 exactly alike."""
-4001030040481,甘奈＆甜花,『えへへ……！』,"""Ehehe... !"""
+4001030040481,甘奈＆甜花,『えへへ……！』,"""Ehehe...!"""
 4001030040482,甘奈＆甜花,『そんなこと、ないんですよ』,"""No, that's not true."""
 4001030040483,off,私たちは、違う,"Amana and Tenka, are different."
 4001030040484,off,ふたりは、ふたり,"The two of us, are two."

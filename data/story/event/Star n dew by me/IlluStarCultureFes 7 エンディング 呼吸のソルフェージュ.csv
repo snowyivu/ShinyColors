@@ -5,8 +5,9 @@ id,name,text,trans
 Look over there...Fireworks...!"
 4001018080021,真乃＆灯織,えっ,Eh?
 4001018080030,灯織,本当だ……,You're right...
-4001018080040,めぐる,……生徒会長さんの告白、成功したかなぁ,...I wonder if the Student Council President's confession went well.
-4001018080050,灯織,ふふっ……めぐるって意外とやじうま？,"Fufu...Meguru, could you perhaps be a busybody?"
+4001018080040,めぐる,……生徒会長さんの告白、成功したかなぁ,"... I wonder if the Student Council President's 
+confession went well."
+4001018080050,灯織,ふふっ……めぐるって意外とやじうま？,"Fufu... Meguru, could you perhaps be a busybody?"
 4001018080060,めぐる,"や、やじうま……！？
 そっか、今のってやじうまかぁ……！？","B-Busybody...!?
 I see, so I'm being a busybody now, huh...!?"
@@ -24,7 +25,7 @@ the staff's plan after all?"
 ある程度はそうだったのかもね","Maybe not everything...
 But for the most part, I think so."
 4001018080120,めぐる,うー、なんだかもてあそばれた気分……,"Urgh, I kinda feel like we've been played like fiddles..."
-4001018080130,真乃,ふふっ……やられちゃったね,Hehe...We've been had.
+4001018080130,真乃,ふふっ……やられちゃったね,Hehe... We've been had.
 4001018080140,灯織,"でも、本気かどうかってお客さんにも視聴者にも、
 やっぱり伝わるものだから","But, I'm sure the guests and viewers can feel
 how serious we were about the whole thing."
@@ -41,7 +42,7 @@ So I'm glad you were able to make the decision, Mano."
 全力を出してくれてありがとう","Meguru, too.
 Thanks for giving it your full power."
 4001018080210,めぐる,"えへへ……ちょっとは役に立たないと！
-戻ってきた意味がないもんねっ","Eheheh...I had to be useful somehow!
+戻ってきた意味がないもんねっ","Eheheh... I had to be useful somehow!
 Otherwise there's no point in bringing me back."
 4001018080220,真乃,あ……,Ah...
 4001018080230,真乃,"ごめんね……
@@ -50,7 +51,7 @@ I didn't really think about the point, or anything..."
 4001018080231,灯織＆めぐる,……？,...?
 4001018080240,真乃,"めぐるちゃんはたくさんすごいところがあるけど……
 そうじゃなくて……えっと……","Meguru-chan, you can do so many amazing things, but...
-That's not really...uhm..."
+That's not really... uhm..."
 4001018080250,真乃,"すごいめぐるちゃんじゃなくて、
 めぐるちゃんが好きだから","It's not those amazing things that I like.
 I just like you, Meguru-chan."
@@ -61,15 +62,15 @@ but I want to be by your side, that's all..."
 4001018080280,めぐる,──えへへっ……,──Eheheh...
 4001018080290,灯織,取り戻した後の作戦とか考えてあったの？,Did you think of any strategy after bringing her back?
 4001018080300,真乃,"ううん……全然……
-だから私のせいで負けちゃってたかもしれなくて……","No...Not really...
+だから私のせいで負けちゃってたかもしれなくて……","No... Not really...
 So it might have been my fault if we'd lost..."
 4001018080310,灯織,真乃、すごい……,"Mano, that's amazing..."
 4001018080320,めぐる,"本当だよねっ
 すごい……","Yeah, that's right.
 Amazing..."
-4001018080330,めぐる,……っく……,...Hic...
+4001018080330,めぐる,……っく……,... Hic...
 4001018080331,真乃＆灯織,えっ……！？,Eh...!?
-4001018080340,めぐる,…………っ…………,......Sob......
+4001018080340,めぐる,…………っ…………,...... Sob......
 4001018080350,灯織,"め、めぐるっ……！？　どうしたのっ……
 何か悪いこと言っちゃった……！？","M-Meguru...!? What's wrong...?
 Did I say something that hurt you...!?"
@@ -96,18 +97,21 @@ Sorry...I'm so sorry..."
 0000000000000,プロデューサー,ん……？,Hmm...?
 0000000000000,プロデューサー,（おっと……！）,(Oops...!)
 0000000000000,プロデューサー,"（カップルかと思ったら告白の真っ最中とは……
-……そうだよな、後夜祭だもんな）","(I thought it was a couple, but they're in the middle of a confession...Of course, it's the night festival, after all.)"
+……そうだよな、後夜祭だもんな）","(I thought it was a couple, but they're in the middle 
+of a confession... Of course, it's the night festival, 
+after all.)"
 0000000000000,？？？,うふふ……,Heehee...
 0000000000000,プロデューサー,（この廊下は避けて回り道するか……）,(Let's make a roundabout and leave them be...)
 0000000000000,プロデューサー,"お疲れ様、みんな
 例のサインはちゃんと渡してき──","Thanks for your hard work, everyone.
 I've passed on those autographs to──"
 4001018080510,めぐる,あっ,Ah.
-4001018080520,めぐる,……プロデューサーも！,...Producer too!
+4001018080520,めぐる,……プロデューサーも！,... Producer too!
 0000000000000,プロデューサー,ん？,Hmm?
 4001018080530,灯織,"めぐる、言葉が足りない
 それじゃ今来たプロデューサーにはわからないよ","Meguru, that's not enough.
-Producer just got here, so he won't get what you're saying."
+Producer just got here, so he won't get what you're 
+saying."
 4001018080540,めぐる,あはは、だよねっ。ついつい……,"Ahaha, that's true. I got carried away..."
 0000000000000,プロデューサー,なんの話だ？,What were you talking about?
 4001018080550,めぐる,ううん、なんでもない,"Nope, it's nothing."
@@ -115,7 +119,7 @@ Producer just got here, so he won't get what you're saying."
 なんでもないっ！","It was actually kind of important,
 but it's nothing!"
 0000000000000,プロデューサー,"……そうなのか？
-じゃあまた必要があったら教えてくれ","...Is that so?
+じゃあまた必要があったら教えてくれ","... Is that so?
 Well then, let me know later if you need to."
 0000000000000,プロデューサー,"さて、そろそろ帰るぞ
 帰る準備できたか？","Alright, it's about time to leave.
@@ -127,14 +131,15 @@ S-Sorry, not yet..."
 わたしが余計な話なんてしたから──！","I'm sorry!
 It's all because I held you up──!"
 4001018080590,灯織,"……違うよ、めぐる
-みんなで花火を見てたから、だよ","...That's not it, Meguru.
+みんなで花火を見てたから、だよ","... That's not it, Meguru.
 We were watching the fireworks, that's all."
 4001018080600,灯織,"プロデューサーすみません、すぐに支度します
 ……ごめん、真乃。ライトつけてくれる？","Producer, sorry about that. We'll get ready soon.
-...Sorry, Mano. Could you turn on the lights for me?"
+... Sorry, Mano. Could you turn on the lights for me?"
 4001018080610,真乃,うんっ,Okay!
 0000000000000,プロデューサー,"あっ……いや、それじゃあ花火だけ見ていこうか
-３人が力を合わせて勝ち取った光だもんな","Ah...No, in that case, let's watch the fireworks before we go.
+３人が力を合わせて勝ち取った光だもんな","Ah... No, in that case, let's watch the fireworks 
+before we go.
 This is the light the three of you won back, after all."
 0000000000000,プロデューサー,──ほら,──See.
 0000000000000,プロデューサー,とっても──,It's so very──

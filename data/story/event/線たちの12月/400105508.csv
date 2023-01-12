@@ -2,7 +2,7 @@ id,name,text,trans
 4001055080010,凛世,『今日は、２度目の巡回に行きました。』,"""Today, we made our second patrol."""
 4001055080020,透,……おばば？,... Gramma?
 4001055080030,透,────ただいま,────I'm home.
-4001055080031,咲耶＆凛世＆小糸,…………！,...... !
+4001055080031,咲耶＆凛世＆小糸,…………！,......!
 4001055080040,小糸,え……,"Ehh... "
 0000000000000,老いた女性,うん,Yup.
 0000000000000,老いた女性,もう行くの？,Are you going now?
@@ -65,7 +65,7 @@ What!? I don't get... what you're saying..."
 だったら、アイツ──────","...If that was...
 If that was her──────"
 4001055080250,灯織,"すみません……！
-Cルームは……まだどなたか残っておられますか────","Excuse me... !
+Cルームは……まだどなたか残っておられますか────","Excuse me...!
 Is there anyone... still remaining in Room C────"
 4001055080260,ルカ,アイツ、オメェんとこのヤツだっていうのかよ……,"You're saying, she's one of yours..."
 0000000000000,プロデューサー,"……そうです
@@ -111,7 +111,7 @@ You────"
 4001055080400,ルカ,────────そんなツラ……だったかよ…………,────────So that's how you actually look...
 4001055080410,灯織,"……っ
 あの…………！","...... Um.
-Excuse me... !"
+Excuse me...!"
 4001055080420,ルカ,来んな────────！,Go away────────!
 4001055080430,灯織,……っ,......huh.
 0000000000000,プロデューサー,────その……,"────Um... "
@@ -184,7 +184,7 @@ Because there was no one, to make it for anymore... "
 If it looks real."
 0000000000000,凛世,"────見えるものが……増えれば……
 変わりましょうか……","────If what can be seen... increases...
-Then... would things change... ?"
+Then... would things change...?"
 4001055080700,咲耶,────ああ……,"────Yes... "
 4001055080710,咲耶,本当のようなものであってほしい,I hope that it could be like the real thing.
 4001055080720,咲耶,……それが、彼女を幸せにするものであったらいいなと,.... And I hope that it could make her happy.
@@ -198,8 +198,8 @@ Well, but it's nothin' more than what I think!"
 4001055080750,咲耶,願うだけ、祈るだけ,"We can only hope, and only pray."
 4001055080760,小糸,うん……,"Yeah... "
 0000000000000,咲耶,"────できた……！
-星、つけたよ……！","────I did it... !
-I put the star on... !"
+星、つけたよ……！","────I did it...!
+I put the star on...!"
 4001055080780,咲耶,クリスマスは、みんながそうであってほしい,"I hope that Christmas, could be like that for
 everyone."
 0000000000000,off,『幸せでいてね』,"""Please be happy."""
@@ -212,11 +212,11 @@ Isn't that snow...?"
 お腹減ったー","Ayeee.
 I'm hungry."
 4001055080820,小糸,"……っ
-あ…………","...... !
+あ…………","......!
 Ah... "
 4001055080830,凛世,……,"...... "
-4001055080840,凛世,あ、あの……！,E-Excuse me... !
-4001055080850,小糸,ひゃ、はい…………,"Yeh, yes... ?"
+4001055080840,凛世,あ、あの……！,E-Excuse me...!
+4001055080850,小糸,ひゃ、はい…………,"Yeh, yes...?"
 4001055080860,凛世,あの……あの…………,"Uh... Umm... "
 0000000000000,off,"祈るだけ
 願うだけ","Only pray.
@@ -224,12 +224,12 @@ Only hope."
 4001055080870,凛世,"あの……
 飴が……ございます……","Umm...
 I have... some candy... "
-4001055080880,小糸,え……！,Eh... !
+4001055080880,小糸,え……！,Eh...!
 4001055080890,凛世,"その……
 よかったら…………","And, umm...
 If it is alright with you... "
 4001055080900,off,────見えるものが……増えれば……,────If what can be seen... increases...
-4001055080910,凛世,も、もらっていただく……だけでも…………,W-Would you... please accept it... ?
+4001055080910,凛世,も、もらっていただく……だけでも…………,W-Would you... please accept it...?
 4001055080920,小糸,"あの……
 う、うん…………","Uhh... 
 Y-Yeah... "
@@ -248,14 +248,14 @@ Everyone... good evening... "
 あははっ、雪だよー！？","Look at that!
 Ahaha, it's snowing!?"
 4001055080980,咲耶,──……私たちは会議室へ行こうか？,──... Should we head to the meeting room?
-4001055080990,灯織,あ、いえ……！,"Ah, no... !"
+4001055080990,灯織,あ、いえ……！,"Ah, no...!"
 4001055081000,灯織,"よかったら、ここでどうぞ
 ────その、少し寒いというか","If it's alright, please stay here.
 ────It's just, a little cold..."
 4001055081010,灯織,寂しいような……感じがしていたので,And kind of lonely... that's how I feel.
 4001055081020,透,──じゃ、あざーす,"──Then, 'scuse me."
 4001055081030,小糸,"……！
-し、失礼します……","...... !
+し、失礼します……","......!
 E-Excuse me... "
 4001055081040,凛世,"寒いと……寂しいは……
 たしかに似ております……","Feeling cold... and feeling lonely...
@@ -309,13 +309,13 @@ If anything, I'd expect him to praise us."
 4001055081240,透,"うーす
 ふぁ……なんで、こんな────","Ayeee.
 Yaaawn... why'd, he make us────"
-4001055081250,小糸,────あ、あの……！,"────Uh, ummm... !"
-4001055081260,凛世,……？,...... ?
+4001055081250,小糸,────あ、あの……！,"────Uh, ummm...!"
+4001055081260,凛世,……？,......?
 4001055081270,小糸,"……
 わ、わたしも……","...... 
 I, I have... "
 4001055081280,小糸,飴、あって……,"Candy, too... "
-4001055081290,凛世,……！,...... !
+4001055081290,凛世,……！,......!
 0000000000000,プロデューサー,できるだけみんなに、色んなことやってもらいたいと思って,"I'd like you all to have as many different experiences
 as possible."
 select,,"仕事も、
@@ -326,7 +326,7 @@ work too."
 4001055081310,凛世,…………,"...... "
 4001055081320,凛世,"……
 はい……！","......
-Yes... !"
+Yes...!"
 4001055081330,咲耶,"────どうなんだろう
 『なんでこんなこと』……────","────I wonder about that.
 ""Why'd he make us do something like this""...────"

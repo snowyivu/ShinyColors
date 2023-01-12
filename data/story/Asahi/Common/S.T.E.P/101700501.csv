@@ -1,0 +1,83 @@
+id,name,text,trans
+1017005010010,off,…………,"...... "
+0000000000000,先生,芹沢さん、芹沢さん,"Serizawa-san, Serizawa-san."
+1017005010020,あさひ,……わっ！？,... Whoa!?
+0000000000000,先生,"ごめん、呼んでも起きないから……
+もうホームルームだから、行きましょう","Sorry, you wouldn't wake up when I called you... 
+It's time for homeroom, so let's get going."
+0000000000000,委員長,"それでは自由研究の班分けですけど
+今の席をもとに──……","Next, about the groups for the research project.
+We'll decide based on the current seating
+arrangement──..... "
+0000000000000,隣の生徒,…………,"...... "
+1017005010030,あさひ,どこにあるの？　サバンナ,Where is it? The savannah.
+0000000000000,隣の生徒,……！,...... !
+1017005010040,あさひ,ヒョウとか、バッファロー！,"With the jaguars, and the buffalos!"
+0000000000000,隣の生徒,…………,"...... "
+1017005010050,あさひ,"…………
+さっき先生と話してた、ビョーンってなるやつ……！","...... 
+The one that goes boing, like the teacher said... !"
+0000000000000,隣の生徒,……南口、出てすぐ、ビルの上,"... South Exit, just outside, on top of the building."
+1017005010060,あさひ,ありがと！,Thanks!
+0000000000000,先生,…………,"...... "
+0000000000000,委員長,"？
+意見ですか？","?
+Do you have something to say?"
+1017005010070,あさひ,ん？　ないよ,Hmm? Nope.
+1017005010080,あさひ,ばいばい！,Bye-bye!
+0000000000000,委員長,"……そろそろ締めます
+みなさん、よろしくお願いします","... I'll wrap things up here.
+Everyone, I look forward to your cooperation."
+1017005010090,あさひ,あははっ,Ahahah!
+1017005010100,あさひ,……ここのモニターだ,... It's this monitor.
+1017005010110,あさひ,全然、出てこない……,"It's not showing up... "
+1017005010120,あさひ,どのくらい待ったら出てくるかな,I wonder how long I'll hafta wait to see it?
+1017005010130,あさひ,…………,"...... "
+1017005010140,あさひ,"わ……すごい、動いてる
+体……","Wow... Those movements are so cool.
+With their bodies... "
+1017005010150,あさひ,……ダンス……？,... A dance... ?
+1017005010160,あさひ,終わっちゃった,It's over.
+1017005010170,あさひ,────…………,"────...... "
+1017005010180,あさひ,飛びながら、バッと手、伸ばして……,"While jumping, quickly, extend arm... "
+1017005010190,あさひ,"ちょっと、早いかも
+なんか、にゅるんってしてた","Guess that's too fast.
+It was like, more flowy."
+0000000000000,男性,──なんだ？　大道芸か？,──What's going on? A street performance?
+1017005010200,あさひ,"ここで、こう反って……
+あ、ここ動かせる……","And at this part, flip like this...
+Ah, gotta move this part... "
+1017005010210,あさひ,……もう一回流れないかな、さっきの,... Won't it play one more time?
+1017005010220,あさひ,……来た,... There it is!
+0000000000000,プロデューサー,君、ちょっといいかな？,"You, do you have a minute?"
+1017005010230,あさひ,？　わたしっすか？,...Me?
+1017005010240,あさひ,"はい！　わたし、芹沢あさひっす！
+よろしくっす！",Yes! I'm Asahi Serizawa. Nice to meet ya!
+1017005010250,あさひ,"アイドルかあ……
+それで？　何からするっすか？","An idol, huh...
+So? What should I do first?"
+1017005010260,あさひ,わたし、さっきのダンスみたいなのやってみたいっす,I wanna do something like that dance from before.
+0000000000000,プロデューサー,"はは……ずいぶんやる気だな
+嬉しいよ","Haha... You seem really motivated.
+I'm glad to see that."
+0000000000000,プロデューサー,でも、まずは親御さんとお話させてほしい,"But, first of all, I want you to talk to your parents
+about this."
+0000000000000,プロデューサー,"それから、君、中学生だよね
+学校にも……","And, you're still in middle school, right?
+We'll need to discuss this with your school too... "
+1017005010270,あさひ,"ふーん……
+よくわかんないから、任せるっす","Huh... 
+I don't get it, so I'll leave it to you."
+1017005010280,あさひ,じゃあ、もういっすね,"Then, I guess we're done."
+1017005010290,あさひ,それじゃ！,See ya!
+0000000000000,プロデューサー,あ、ああ……,"Ah, sure... "
+0000000000000,プロデューサー,"──いや！　ちょっと待ってほしい
+君の連絡先とか何も知らないから！","──No! Hold on a minute.
+I still don't know how to contact you or anything!"
+0000000000000,プロデューサー,電話番号とか……メッセージが送れるチェインとか……,"Can I get your phone number... or any messaging
+app I can contact you through... ?"
+1017005010300,あさひ,チェインならある気がするっす,I think I might have Chain.
+1017005010310,あさひ,どうやってやるっすか？,How do I use it?
+0000000000000,プロデューサー,ええとだな……,"Let's see... "
+info,produce_events/101700501.json,
+Translator,Rinka,

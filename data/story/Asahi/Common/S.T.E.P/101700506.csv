@@ -1,0 +1,57 @@
+id,name,text,trans
+0000000000000,プロデューサー,"『あさひ、着いたぞ。ちょっと職員室先行ってるな』
+……","""Asahi, I'm here. I'm paying a visit to the teacher's
+lounge first.""... "
+1017005060010,あさひ,…………,"...... "
+0000000000000,生徒,"いーなースマホ
+なんで使えるんだろ","Must be nice to get to use your phone here.
+Why can you even do that?"
+1017005060020,あさひ,"許可取ってあるよ
+授業中はだめだけど","I got permission to.
+I can't use it during class though."
+0000000000000,生徒,"ねえ、また来たよ
+あのお兄さん","Hey, he's here again.
+Your ""big bro""."
+1017005060030,あさひ,お兄さんじゃないよ,He's not my big bro.
+0000000000000,生徒,"それはわかってるって
+じゃああの人ってなんなの","Yeah, I know.
+Then who is he?"
+1017005060040,あさひ,プロデューサーさん！,He's Producer-san!
+1017005060050,あさひ,"じゃあ、行くね！
+ばいばい！","Gotta go now!
+Bye-bye!"
+0000000000000,生徒たち,…………,"...... "
+0000000000000,生徒,──またいないよ、芹沢,──Serizawa's gone again.
+0000000000000,生徒,いいんじゃない？　別にいなくても,"It's fine, right? Even if she isn't here."
+0000000000000,生徒,……勝手にどこにでも行けばいいじゃん,... She can go wherever she likes.
+0000000000000,プロデューサー,中に入るのは久しぶりだな……,"It's been a while since I've gone inside... "
+0000000000000,プロデューサー,あれ、ここ……,"Hey, this is... "
+0000000000000,プロデューサー,机も椅子もなくなってる……,"The desks and chairs are gone... "
+1017005060060,あさひ,プロデューサーさん！,Producer-san!
+0000000000000,プロデューサー,"お、あさひ
+来たな","Oh, Asahi.
+You're here."
+0000000000000,プロデューサー,ここ、片付けられちゃってるじゃないか,"They got rid of all the stuff here, huh?"
+1017005060070,あさひ,"そうなんすよ！
+ここにあると、わたしが居つくからって","Yeah, that's right!
+They said I'd hang around here if they didn't."
+0000000000000,プロデューサー,"そっか……
+じゃあ、屋上とかに行くのか？","I see... 
+Then, shall we go to the rooftop?"
+1017005060080,あさひ,そっちも、しばらくは立ち入り禁止っす,The rooftop's off limits for now too.
+1017005060090,あさひ,問題起こした子がいるからって,They said some kids were causing trouble there.
+0000000000000,プロデューサー,それって、あさひじゃないよな？,"That wasn't you, right Asahi?"
+1017005060100,あさひ,わたしじゃないっす,It wasn't me.
+0000000000000,プロデューサー,そうか……,"I see... "
+0000000000000,プロデューサー,行けなくなって、残念だな？,"It's a shame we can't go anymore, isn't it?"
+0000000000000,プロデューサー,あれから、いろんなことあったよな……,"A lot of things have happened since then... "
+1017005060110,あさひ,"プロデューサーさん、プロデューサーさん！
+早く行かないといけないんじゃないっすか？","Producer-san, Producer-san!
+We gotta go now, don't we?"
+1017005060120,あさひ,冬優子ちゃん、愛依ちゃんが待ってるっすよ～！,Fuyuko-chan and Mei-chan are waiting for us～!
+0000000000000,プロデューサー,わっ、袖引っ張らないでくれ！,"Whoa, don't pull on my sleeve like that!"
+1017005060130,あさひ,……大丈夫っす。ひとりでやるっす,I'm fine. I can do it myself.
+0000000000000,プロデューサー,……はは,... Haha.
+0000000000000,プロデューサー,そうだな、急ごう,"You're right, let's hurry."
+info,produce_events/101700506.json,
+Translator,Rinka,

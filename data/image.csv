@@ -9,7 +9,7 @@ images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,23
 images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,23
-images/ui/gasha/parts.json_image,gasha_parts.png,22
+images/ui/gasha/parts.json_image,gasha_parts.png,23
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
 images/ui/idol_list/parts.json_image,idol_list_parts.png,19
@@ -102,7 +102,7 @@ images/tips/concert/008.jpg,tutorial/concert_008.png,8
 images/tips/concert/009.jpg,tutorial/concert_009.png,8
 images/ui/fes_result/parts.json_image,fes_result_parts.png,14
 images/ui/fes/fes_role_icons.json_image,fes_role_icons.png,9
-images/ui/gasha_result/parts.json_image,gasha_result.png,12
+images/ui/gasha_result/parts.json_image,gasha_result.png,13
 images/ui/common/parts_shop_merchandise.json_image,parts_shop_merchandise.png,9
 images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,9
 images/ui/produce_ending/parts_fes_idol_birth_effect.json_image,fes_idol_birth_effect.png,8
@@ -937,3 +937,4 @@ images/content/support_idols/name/61380bc57b74ea9ccf9efe9e92abfefb_2040020020.pn
 images/content/support_idols/name/c66c1c84d63b0cddcd4f4b73effdd30d_2030030030.png,cards/meguru_s_sr_3.png,5
 images/content/support_idols/name/857a70286003782bcade8179fb9eca9d_2040060090.png,cards/sakuya_s_ssr_9.png,1
 images/content/idols/name/fb48984f649fa75256652a17e13cb97a_1040150030.png,cards/tenka_p_ssr_3.png,3
+images/content/support_idols/name/d510acaa927bc1b09e51ad4e3a6f1ede_2040070080.png,cards/yuika_s_ssr_8.png,1

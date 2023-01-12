@@ -1,0 +1,88 @@
+id,name,text,trans
+1017005040010,あさひ,……ふうっ,... Phew!
+1017005040020,あさひ,完璧にできた気がする！,I think I did that perfectly!
+1017005040030,あさひ,…………,"...... "
+0000000000000,プロデューサー,いや……,"No... "
+0000000000000,プロデューサー,聞こえたよ,I heard it.
+1017005040040,あさひ,…………,"...... "
+1017005040050,あさひ,"じゃ、わたしはアイドルになって
+完璧に歌とダンス、やってみたいっす！","Then, I wanna become an idol,
+and sing and dance perfectly!"
+0000000000000,プロデューサー,うん、君ならできそうだ,"Yeah, I think you'll be able do that."
+0000000000000,プロデューサー,"でも……アイドルっていうのは
+ダンスが、歌が完璧……ってだけじゃ駄目なんだ","But... for an idol, just dancing
+and singing perfectly... isn't enough."
+1017005040060,あさひ,ふーん……？,Huh... ?
+1017005040070,あさひ,完璧なのに？,Even if it's perfect?
+0000000000000,プロデューサー,そうだね,That's right.
+1017005040080,あさひ,じゃあ、どうしたらいっすか？,"Then, what should I do?"
+0000000000000,プロデューサー,"何が必要か……っていうのは、その子によって
+違うと思うんだ","What needs to be done... I think that's different
+from person to person."
+1017005040090,あさひ,"えー。すぐ知りたいっす！
+わたしはなんすか？","Ehh, but I wanna know now!
+What do I need to do?"
+0000000000000,プロデューサー,"それは、すぐには見つからないんだ
+宝探しみたいに、あると信じて探し続けたら……","It's not something you can find out right away.
+It's like a treasure hunt, you have to believe it's out 
+there and keep looking for it... "
+1017005040100,あさひ,見つかるっすか！？,And then I'll find it!?
+0000000000000,プロデューサー,"──わからない
+でも、君なら見つけられるかもしれない","──I don't know.
+But I think you'll be able to find it."
+0000000000000,プロデューサー,一緒に、きらきらするものを探しに行こう,"Let's go look for things that sparkle, together."
+1017005040110,あさひ,……きらきら……,".... Sparkle... "
+1017005040120,あさひ,…………,"...... "
+1017005040130,あさひ,んー……,"Mmh... "
+1017005040140,あさひ,……よっと,... Hup.
+1017005040150,あさひ,いた……,"Ow... "
+0000000000000,先生,"……！
+芹沢さん！","...... !
+Serizawa-san!"
+0000000000000,先生,"な、何やってるの！
+離れなさい！！","W-What are you doing!
+Get away from there!!"
+1017005040160,あさひ,わっ……わわっ！,Wah... Waaah!
+1017005040170,あさひ,痛いっす～,That hurt～
+0000000000000,先生,"ごめんなさい……でも、あなたが
+あんな馬鹿なことするから……！","I'm sorry... but, I can't let
+you do something that stupid... !"
+1017005040180,あさひ,そんなことないっす,That's not what I was doing.
+0000000000000,先生,じゃあ何してたの！,Then what were you doing!?
+1017005040190,あさひ,……,"...... "
+1017005040200,あさひ,フェンスの向こう側に、行ってみたかったっす,I wanted to go to the other side of that fence.
+1017005040210,あさひ,空見てたら、フェンスが邪魔だなって,"When I looked at the sky, I just thought the fence
+was in the way."
+0000000000000,先生,はぁ……,"Haa... "
+0000000000000,先生,"行きたいのは、わかったわ
+でも、フェンスによじ登るのも越えるのも駄目","I know that you want to go there.
+But, you're not allowed to climb or go over that fence."
+1017005040220,あさひ,"なんでっすか？
+越えてみるだけっすよ。落ちたりしないっす","Why?
+I just wanna go over it. I'm not gonna fall."
+0000000000000,先生,"だとしても危ないから
+この向こうに立つってことは……！","Nevertheless, standing on 
+that side is dangerous... !"
+0000000000000,先生,"それに、そんなことしたら今後一切屋上も禁止よ
+芹沢さんも、他のみんなも","And if you do that, the whole rooftop will be off 
+limits too. For you, and everyone else."
+1017005040230,あさひ,……なんで、他のみんなもなんすか,"... Why everyone else, too?"
+0000000000000,先生,"学校のルールなの。ひとりが破ったら、
+みんなも禁止しないといけなくなるの","Those are the school rules. If one person breaks them, 
+then everyone else has to be forbidden from doing 
+the same thing as well."
+1017005040240,あさひ,……よくわかんないっす,... I don't get it.
+0000000000000,先生,"約束して
+もう、フェンスに登らないって","Promise me, alright?
+That you won't ever climb that fence again."
+1017005040250,あさひ,………………,"....... "
+1017005040260,あさひ,じゃあ、向こうに行くにはどうしたらいっすか？,"Then, how do I get to the other side?"
+1017005040270,あさひ,あっちに行ってみたいっす,I wanna go there.
+0000000000000,先生,────……,"────...... "
+0000000000000,先生,先生、行かないと,I need to go now.
+0000000000000,先生,"あなたも今日のところは屋上禁止です
+さあ、一緒に行きましょう","You're not allowed to go to the rooftop anymore
+for today. Now, let's go back inside together."
+1017005040280,あさひ,…………,"...... "
+info,produce_events/101700504.json,
+Translator,Rinka,
