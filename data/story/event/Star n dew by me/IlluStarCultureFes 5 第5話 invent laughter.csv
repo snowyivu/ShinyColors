@@ -2,7 +2,7 @@ id,name,text,trans
 4001018060010,めぐる,あ、プロデューサー！　お疲れさま！,"Ah, Producer! Good to see you!"
 0000000000000,プロデューサー,"お疲れ様
 あれ……スタッフさんは……","Good to see you too.
-Huh...Where are the other staff members...?"
+Huh... Where are the other staff members...?"
 4001018060020,めぐる,"みんな打ち合わせとか準備とかで
 どこかに行っちゃった！　今はわたしだけ","They left somewhere for briefings and
 other preparations! It's just me here now."
@@ -41,8 +41,8 @@ I didn't hear the surrounding noises as much."
 too. Like the radio or the staff talking."
 0000000000000,プロデューサー,そうだな、それもあるかもしれない,"That's right, that might be it."
 4001018060100,めぐる,あとは……,Plus...
-4001018060110,めぐる,ハラハラさせちゃったから……とか……,Maybe I...made you feel anxious...or something...
-0000000000000,プロデューサー,……ん？,...Hmm?
+4001018060110,めぐる,ハラハラさせちゃったから……とか……,Maybe I... made you feel anxious... or something...
+0000000000000,プロデューサー,……ん？,... Hmm?
 4001018060120,めぐる,"あの、さっきはごめんなさい……
 しばらくカメラ止めちゃったりして……","Umm, I'm really sorry about earlier...
 They had to stop the cameras because of me..."
@@ -66,7 +66,7 @@ Would you mind closing your eyes for a bit?"
 4001018060170,めぐる,いいから！　お願いっ！,Just do it! Please!
 0000000000000,プロデューサー,？　ああ……,? Okay...
 4001018060180,めぐる,開けちゃダメだよー？,"No peeking, okay?"
-4001018060190,めぐる,……んー……,...Hmm...
+4001018060190,めぐる,……んー……,... Hmm...
 4001018060200,めぐる,"──今日のお仕事が学校だったからかなぁ
 臆病なわたしが混ざっちゃったのかも","──Maybe it's because today's job is at a school,
 but I felt the cowardly part of me take over earlier."
@@ -88,7 +88,7 @@ I guess I forgot that for a little bit."
 0000000000000,プロデューサー,（めぐる……）,(Meguru...)
 4001018060260,めぐる,──よしっ……,──Okay...!
 4001018060270,めぐる,目、開けて？,Can you open your eyes now?
-0000000000000,プロデューサー,……これは……,...This is...
+0000000000000,プロデューサー,……これは……,... This is...
 4001018060280,めぐる,えへへっ……,Eheheh...
 0000000000000,プロデューサー,俺のお弁当が山盛りに……,You've piled it onto my lunch...
 4001018060290,めぐる,"心配性のプロデューサーに、
@@ -96,7 +96,7 @@ I guess I forgot that for a little bit."
 a gift of sweet carrots as thanks!"
 0000000000000,プロデューサー,グリンピースがごはんの上で星の形に……,The green peas are in the shape of a star...
 4001018060300,めぐる,力作です！,I worked really hard on that!
-0000000000000,プロデューサー,……人参とグリンピースが苦手なのか？,...Do you not like carrots and green peas?
+0000000000000,プロデューサー,……人参とグリンピースが苦手なのか？,... Do you not like carrots and green peas?
 4001018060310,めぐる,"ち、違う違う、好きだよ！
 わたし、嫌いなものほとんどないからっ……！","N-No, no way, I like them!
 There aren't many foods I don't like, after all...!"
@@ -117,13 +117,13 @@ select,,"ずーっとめぐるを
 応援してるから","I'm always cheering 
 for you, Meguru."
 0000000000000,プロデューサー,心の中でいつもいつも、大声でな,"Always, in my heart, as loud as I can."
-4001018060340,めぐる,……うんっ,...Yeah
+4001018060340,めぐる,……うんっ,... Yeah.
 4001018060350,めぐる,"心の中でいいから
 そばにいてくれたら嬉しい","It's okay if it's just in your heart.
 I'll be glad if you can be by my side."
 0000000000000,プロデューサー,頼まれずとも──,That goes without asking──
 0000000000000,プロデューサー,あっ……,Ah...
-0000000000000,プロデューサー,……確かにうまいなこのがんもどき,"...You're right, this ganmodoki does taste great."
+0000000000000,プロデューサー,……確かにうまいなこのがんもどき,"... You're right, this ganmodoki does taste great."
 4001018060360,めぐる,でしょでしょーっ！,Doesn't it!?
 0000000000000,off,"ミッション！
 電脳部自作の格闘ゲームで最高スコアを叩き出せ！","Mission!
@@ -131,10 +131,10 @@ Beat the high score on the Computer Club's
 self-made fighting game!"
 0000000000000,ゲーム画面,『YOU LOSE!!』,"""YOU LOSE!!"""
 4001018060370,真乃,"……もうちょっとで大ボス
-やっつけられそうだったね……","...Just a little more, and
+やっつけられそうだったね……","... Just a little more, and
 you would've beat that big boss..."
-4001018060380,灯織,ごめん、真乃……交代……,"Sorry, Mano...Let's switch..."
-4001018060390,真乃,頑張ってみるね……むんっ,I'll do my best...Mun!
+4001018060380,灯織,ごめん、真乃……交代……,"Sorry, Mano... Let's switch..."
+4001018060390,真乃,頑張ってみるね……むんっ,I'll do my best... Mun!
 4001018060400,めぐる,真乃と灯織が向かうミッション……,A mission Mano and Hiori would head for...
 4001018060410,めぐる,"飼育委員の動物ふれあい広場……
 ３-Ａのぬいぐるみ喫茶……","The Animal Care Club's petting zoo...
