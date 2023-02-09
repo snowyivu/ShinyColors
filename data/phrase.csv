@@ -2078,3 +2078,199 @@ producerDesk.releaseCondition.grad,G.R.A.D.を解放する為には「ファン�
 producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock Landing Point, you must\ncreate an idol through a 「G.R.A.D. Run」"
 producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours are currently not ongoing
 producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal
+filter.categories.aptitude,適性,Aptitude
+filter.categories.costumePossession,衣装所持,
+filter.categories.costumeType,種類,
+filter.categories.clearStatus,CLEAR状況,
+filter.categories.fightSkill,ファイトスキル,Fight Skill
+filter.categories.voiceType,ボイス種別,
+filter.categories.releaseCondition,解放状況,
+filter.categories.jointFesArea,エリア,Area
+filter.categories.jointFesRewardFacilityItem,アイテム,Item
+filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,
+filter.texts.possession,所持済み,
+filter.texts.notPossessed,未所持,
+filter.texts.released,解放済み,
+filter.texts.unreleased,未解放,
+filter.texts.aptitudes.musicStyle,楽曲適性,
+filter.texts.aptitudes.performance,パフォーマンス適性,
+filter.texts.aptitudes.environment,環境適性,
+filter.texts.costumeType.produceIdol,プロデュース\nアイドル衣装,
+filter.texts.costumeType.other,その他,
+filter.texts.mvIdol,MVあり,
+possessionLimit,所持上限数,
+characterAlbum.voiceType.home,ホームボイス,Home Voice
+characterAlbum.voiceType.idol,アイドルボイス,Idol Voice
+characterAlbum.voiceType.specialComment,スペシャルボイス,Special Voice
+characterAlbum.voiceType.produce,プロデュースボイス,Produce Voice
+characterAlbum.voiceType.touch,タッチボイス,Touch Voice
+characterAlbum.voiceType.characterTrustLevelComment,信頼度ボイス,
+characterAlbum.voiceType.mypageConversationComment,アイドル同士の会話,
+common.fesIdol,フェスアイドル,Fes Idol
+common.facilityItem,施設強化アイテム,
+common.knowHowBook,ノウハウブック,Know-How Book
+concert.judge.interestingRatio,%{value}倍,%{value}x
+concert.judgeDetailDialog.interestingRatio,×%{value}倍,×%{value}
+concert.fightSkill.noFightSkillMessage,ファイトスキルがありません,No Fight Skills
+concert.skillChangeableCount,あと%{skillChangeableCount}回,
+autoConcertResult.unlockNotice,%{name}解放,
+possessionLimitDialog.title,所持上限オーバー,
+possessionLimitDialog.message,所持上限を超えているため\n移籍/売却をするか上限枠を解放してください,
+possessionLimitExpansion.confirmTitle,解放確認,
+possessionLimitExpansion.confirmMessage.fesIdolUpperLimit,フェザージュエルを消費して\nフェスアイドルの所持上限を解放しますか？,
+possessionLimitExpansion.confirmMessage.knowHowBookUpperLimit,フェザージュエルを消費して\nノウハウブックの所持上限を解放しますか？,
+possessionLimitExpansion.jewelDetailMessage,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します
+deck.staminaRate,%{rate}倍,%{rate}x
+eventPoint.jointFes,マッチライブP,Match Live Pt
+eventPoint.training,育成P,Train Pt
+evolution.homeUnitMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMVが設定可能になりました,
+evolution.homeUnitFullMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMV(アナザーVer.)が設定可能になりました,
+evolution.fullMvRelease.comment,[%{musicName}]の\nMV(アナザーVer.)が解放されました,
+evolution.trustLimitUp.comment,[%{idolName}]の信頼度Lv.上限が%{limit}\nに上昇しました,
+fes.deck.informationTypes.default,デフォルト,Default
+fes.deck.informationTypes.status,フェスアイドル,Fes Idol
+fes.deck.informationTypes.param_bonus,ボーナス,Bonus
+fes.deck.informationTypes.popularity,使用率,Usage
+fes.deck.informationTypes.fightSkill,ファイトスキル,Fight Skill
+fes.deck.informationTypes.aptitude,適性,Aptitude
+fes.retireDialog.title,ライブ終了,End Live
+fes.retireDialog.text,ライブを終了しますか？,Really End Live?
+fes.deckMemberAptitude.musicStyle.cute,キュート,Cute
+fes.deckMemberAptitude.musicStyle.cool,クール,Cool
+fes.deckMemberAptitude.musicStyle.positive,ポジティブ,Positive
+fes.deckMemberAptitude.musicStyle.relax,リラックス,Relax
+fes.deckMemberAptitude.musicStyle.emotional,エモーショナル,Emotional
+fes.deckMemberAptitude.performance.high,ハイペース,High Pace
+fes.deckMemberAptitude.performance.medium,ミドルペース,Mid Pace
+fes.deckMemberAptitude.performance.slow,スローペース,Slow Pace
+fes.deckMemberAptitude.environment.fine,快晴,Clear
+fes.deckMemberAptitude.environment.sunny,晴れ,Sunny
+fes.deckMemberAptitude.environment.cloudy,くもり,Cloudy
+fes.deckMemberAptitude.environment.rain,雨,Rain
+fes.fightSkillSelect.title,ファイトスキル選択,Choose Fight Skill
+fesTower.liveAutoSetupPop.title,ライブオート設定,
+fesTower.liveItemPresetPop.title,ライブアイテムプリセット,
+fesTower.liveItemPresetPop.groupNumber,プリセット%{groupNumber},
+fesTower.panelUnit.unsetDeckNumber,未設定,
+fesTower.panelUnit.staffComment,流行ごとのライブパネルに参加するユニットを選択しましょう♪\nパネルごとにアイテムも選択できますよ～,
+fesTower.bonus.tourBonus.noticeText,ツアー中の地方ボーナスは地方ツアー達成まで継続します,
+fesTower.bonus.tourBonus.unitBonusText,%{unitName}のユニットボーナスUP！,
+fesTower.bonus.tourBonus.genreBonusText,%{genreName}のジャンルボーナスUP！,
+fesTower.bonus.tourBonus.characterBonusText,%{characterName}のアイドルボーナスUP！,
+fesTower.bonus.activeBonusListPop.noUserDeckComment,パネルが選択されていません,
+fesTower.bonus.activeBonusListPop.tab.tabTourBonus,ツアー中,
+fesTower.bonus.activeBonusListPop.tab.tabSpecialBonus,特別ボーナス,
+fesTower.bonus.activeBonusListPop.listTitle.tourBonus,地方ボーナス,
+fesTower.bonus.activeBonusListPop.listTitle.specialBonusProduceIdol,プロデュースアイドル,
+fesTower.bonus.activeBonusListPop.listTitle.specialBonusSupportIdol,サポートアイドル,
+fesTower.levelUp.headerTitle,レベルアップ,Level Up
+idolList.emptyRewardKnowHowBookMessage,獲得しているノウハウブックがありません,
+idolList.emptyMessages.homeDeckEdit,所持しているMVアイドルがいません。,
+header.homeDeckMvSelect,MV選択,MV Select
+header.jointFesFacility,施設一覧,
+header.jointFesTrophy,トロフィー,Trophy
+header.jointFesRanking,ランキング,Ranking
+header.fesTowerPanelUnit,パネルユニット編成,
+header.photoIdolChange,アイドル変更,
+header.jewelCounter,フェザージュエルミッション,
+header.produceResultSkillAndBook,獲得報酬,
+homeDeck.displayType.mv,MVモード,MV Mode
+homeDeck.mvAnother,(アナザーver.),
+homeDeck.mvTime,%{min}分%{sec}秒,%{min}m%{sec}s
+homeDeck.presetSettingPop.title,アニメモード プリセット,
+homeDeck.presetSettingPop.presetLabel,プリセット%{presetNum},
+jointFes.top.title,マッチライブ,Match Live
+jointFes.bonusListPop.title,ボーナス一覧,
+jointFes.skip.listPopTitle,スキップ,Skip
+jointFes.skip.confirmPopTitle,スキップ確認,Confirm Skip
+jointFes.skip.resultPopTitle,スキップ結果,Skip Result
+jointFes.facility.enhanceItemsTitle,施設強化アイテム一覧,
+jointFes.facility.enhanceTitle,施設強化,
+jointFes.facility.enhanceConfirmTitle,強化確認,
+jointFes.facility.bonusInfoTitle,ボーナス詳細,
+jointFes.facility.bonusInfoEmptyMessage,発動中のボーナスがありません,
+jointFes.facility.possessionItem,施設強化の際に必要なアイテム素材です,
+jointFes.facility.confirmEnhance,以下のアイテムを消費し、施設を強化しますか？,以下のアイテムを消費し、施設を強化しますか？
+jointFes.facility.noBonus,ボーナス無し,
+jointFes.facility.noBonusMessage,発動中のボーナスがありません,
+jointFes.stageSelect.title,ステージ選択,Stage Select
+jointFes.stageInfoPop.title,ステージ詳細,Stage Details
+jointFes.stageInfoPop.produceAreaSuffix,編,
+jointFes.ranking.rankingEndAt,%{dateTime} まで,
+jointFes.ranking.announceRankingType.stage,ステージ\n順位,
+jointFes.ranking.announceRankingType.group,グループ\n順位,
+jointFes.ranking.announceRankingType.event_point,ポイント\n順位,
+jointFes.ranking.stageSelect.title,ステージ選択,
+jointFes.ready.title,マッチライブ詳細,
+jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,
+jointFes.ready.unitEmptyPop.title,確認,
+jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,
+jointFes.seasonChange.title,マッチライブ更新,
+jointFes.seasonChange.commonMessage,マッチライブのシーズンが切り替わりました\nイベントポイントやミッション・ショップなどがリセットされます,
+jointFes.seasonChange.titleMessage,前シーズンのランキング報酬として以下を獲得しました,
+jointFes.seasonChange.titleCategories.joint_fes_group_ranking,・総合ランキング称号ｘ1,
+jointFes.seasonChange.titleCategories.joint_fes_point_ranking,・累計ポイントランキング称号ｘ1,
+jointFesConcert.scoreInfo.popTitle,スコア詳細,Score Info
+jointFesConcert.scoreInfo.player,＜あなた＞,＜You＞
+jointFesConcert.scoreInfo.rival,＜ライバル＞,＜Rival＞
+jointFesConcert.scoreInfo.term,第%{termNumber}ターム,
+jointFesConcert.scoreInfo.termLastScore,第%{termNumber}ターム最終スコア,
+jointFesConcert.scoreInfo.result,最終結果,
+jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,
+jointFesConcert.scoreInfo.tapToScrollMessage,▲タームをタッチで該当のタームまでスクロールします▲,
+jointFesConcert.scoreDetailLabel.appealPoint,アピール値変換後ポイント,
+jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,
+jointFesConcert.scoreDetailLabel.musicRate,楽曲補性,
+jointFesConcert.scoreDetailLabel.musicStyleRate,楽曲スタイル適性,
+jointFesConcert.scoreDetailLabel.performanceRate,パフォーマンス適性,
+jointFesConcert.scoreDetailLabel.mentalRate,メンタル値補正,
+jointFesConcert.scoreDetailLabel.fightSkillRate,発動スキルポイント補正,
+jointFesConcert.scoreDetailLabel.fightSkillPoint,発動スキルポイント加算,
+jointFesConcert.bonusScoreLabel.badAppeal,ライブスキル発動（bad）×%{count},
+jointFesConcert.bonusScoreLabel.normalAppeal,ライブスキル発動（normal）×%{count},
+jointFesConcert.bonusScoreLabel.goodAppeal,ライブスキル発動（good）×%{count},
+jointFesConcert.bonusScoreLabel.perfectAppeal,ライブスキル発動（perfect）×%{count},
+jointFesConcert.bonusScoreLabel.fightSkillNormal,ファイトスキル発動（normal）×%{count},
+jointFesConcert.bonusScoreLabel.fightSkillGood,ファイトスキル発動（good）×%{count},
+jointFesConcert.bonusScoreLabel.fightSkillPerfect,ファイトスキル発動（perfect）×%{count},
+jointFesConcert.bonusScoreLabel.majorityWin,全体勝利,
+jointFesConcert.bonusScoreLabel.allTermWin,全勝ボーナス,
+jointFesConcert.bonusScoreLabel.bonusTotalPoint,ボーナスポイント合計,
+musicSelect.playMvDialog.title,MV再生,
+musicSelect.playMvDialog.message,再生するMVを選択してください,
+musicSelect.mvSettingDialog.title,詳細設定,
+musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,
+musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,
+photoMotionDialog.title,ポーズ指定,
+photoMotionDialog.message,アイドルに呼びかけてポーズを取ってもらうことができます,
+photoBootFailDialog.title,カメラの許可,
+filterPop.filter.individualityExpressionRateUp,発現確率,
+filterPop.filter.individualityDefiniteExpression,ノウハウ,Know-How
+filterPop.filter.individualityInheritanceRateUp,継承確率,
+photo.option.bg,背景,BG
+photo.option.effect,エフェクト,Effect
+photo.option.frame,フレーム,Frame
+produceReady.produceAreaAttension.title,注意事項,
+shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,
+shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,
+shop.purchaseResult.expansionMessage,%{item}の所持上限を解放しました,
+shop.smallTabTitles.premium.beginners,新人P向け,
+shop.monthlyPassport.price,%{price}円,
+shop.monthlyPassport.dailyRewardPop.title,ログイン報酬,
+shop.monthlyPassport.dailyRewardPop.count,%{count}回目,
+shop.monthlyPassport.dailyRewardPop.rewardJewelName,無償フェザージュエル,
+stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,
+stepCommunicationReleaseDialog.message,新たなS.T.E.P.編のコミュが解放されました！,
+stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,
+workActivityTalkAndCommu.categories.notCleared,未CLEAR,
+producerDesk.costume.costumeName,%{costumeName}の衣装,
+producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,
+producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。
+jewelCounter.sortTitle,並び替え,
+jewelCounter.typeText.daily,デイリー,Daily
+jewelCounter.typeText.weekly,ウィークリー,Weekly
+jewelCounter.typeText.normal,ノーマル,Normal
+jewelCounter.typeText.special,スペシャル,Special
+jewelCounter.typeText.event,イベント,Event
+seasonalPresentPop.title,年賀状受け取り,
+seasonalPresentPop.message,アイドルからの年賀状が届いています,アイドルからの年賀状が届いています
