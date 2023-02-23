@@ -41,13 +41,17 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
 
 ## Installing on iOS
-1. For mobile，you'll need a browser that supports scripts.  Currently the only known one for iOS is Alook Browser which unfortunately is .99 cents on the App Store.
-2. Once you've downloaded Alook you'll need to set up a Javascript extension for shinycolors.enza.fun
-3. Go to Settings > Custom Settings > JavaScript Extensions > Add a New One
-4. On the next screen you will need to set up the Match Type to Host , Match Value to shinycolors.enza.fun , Run At to Very Beginning , and then for the "Javascript Code" section, you will need to paste the entire javascript found at this link:
-https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js (screenshot is older)
-5. Play the game through the new browser [(Link Here)](https://shinycolors.enza.fun/) You may need to refresh the page once at the start each time you play to load the script.
-6. It's recommend to disable "Video Floating" in Alook browser, so that gacha pulls and memory appeals don't attempt to open on a new page
+1. For mobile, you'll need a browser that supports scripts. Currently, the best free option for iOS is <em>Stay - Userscript Extension.</em>
+2. Once you've downloaded Stay, you'll need to complete the initialization tutorial.
+
+<img src="https://i.imgur.com/kPiMdjZ.jpg" width="500"></img>
+
+3. Once you've completed Step 7 of the initialization tutorial, continue to the next screen where you'll be prompted to install a sample userscript. Skip this step.
+4. Open Safari and visit the following link: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js Stay should prompt you to install the userscript.
+
+<img src="https://i.imgur.com/l0shT2n.jpg" width="500"></img>
+
+5. The patch should now be installed. Play the game in Safari (https://shinycolors.enza.fun/) and ensure the patch is working correctly.
 
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%"></img><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/VideoFloat.png" alt="Click the ..." width="30%"></img>
 
