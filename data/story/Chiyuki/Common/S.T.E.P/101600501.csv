@@ -1,0 +1,104 @@
+id,name,text,trans
+0000000000000,雑貨店店主,"千雪さん
+ちょっといいかな？","Do you have a moment, Chiyuki-san?"
+1016005010010,千雪,"はい……？
+なんでしょうか","Sure...?
+What is it?"
+0000000000000,雑貨店店主,来週、文房具の展示会あるでしょう？,"There's a stationery expo coming up 
+next week, isn't there?"
+0000000000000,雑貨店店主,"僕、
+用事ができて行けなくなっちゃってね……","I have a prior engagement,
+so I won't be able to make it..."
+0000000000000,雑貨店店主,"今回は千雪さんにお任せしたいなって思うんだけど、
+どうかな？","I was thinking of letting you handle it though,
+Chiyuki-san. How does that sound?"
+1016005010020,千雪,…………！,............!
+1016005010030,千雪,"前に一度、ご一緒した展示会ですよね
+私で大丈夫でしょうか……？","We did this together last time, didn't we?
+Are you sure I'll be alright...?"
+0000000000000,雑貨店店主,"うん。新しい仕入れ先候補と、
+ゼロからお話をしてもらうことになるから","Yeah. You'll be talking with potential new suppliers,
+starting from square one with them."
+0000000000000,雑貨店店主,ちょっと難しいかもしれないんだけど……,"It might be a bit challenging, but..."
+0000000000000,雑貨店店主,"千雪さんもだいぶ慣れてきたみたいだからね
+ひとつ上の仕事、お願いできたら嬉しい","It seems you've gotten the hang of things.
+I'd be delighted if you could do
+this one favor for me."
+1016005010040,千雪,"はい……！
+頑張ります、ちゃんと下調べもしていかないとですね","Of course...! I'll do my best, but I'll need to 
+do some thorough prepwork first."
+0000000000000,雑貨店店主,うん、いい意気,"Good, that's the spirit."
+0000000000000,雑貨店店主,ふふっ……,Fufu...
+1016005010050,千雪,店長……？,Boss...?
+0000000000000,雑貨店店主,"ちょっとね、楽しみなんだよ
+どんなの選んで、仕入れてきてくれるのか","Well, I'm just looking forward to seeing what
+goods you'll choose to bring in, that's all."
+0000000000000,雑貨店店主,"この間、ハリネズミの
+ぬいぐるみを作ってきてくれたでしょう？","You made a stuffed hedgehog
+just the other day, didn't you?"
+0000000000000,雑貨店店主,千雪さんのああいうセンス、僕も好きだからね,"I like that style of yours, Chiyuki-san."
+1016005010060,千雪,わあ……,Oh...
+1016005010070,千雪,"えっと、あの……とっても嬉しいです
+頑張りますね！","I'm, uh... really glad to hear that!
+I'll do my best out there!"
+0000000000000,雑貨店店主,"うん
+期待してます","Got it.
+I'll be counting on you."
+1016005010080,千雪,はあ……,Ah...
+1016005010090,千雪,（出展する企業さん、だいたい全部さらったかな？）,"(That more or less covers all the companies
+that'll be there, right?)"
+1016005010100,千雪,"（……回る順番も決めたし
+少し、ゆっくりしてもいいぞ、千雪）","(...Now that you've plotted out your route,
+you can go ahead and relax a little, Chiyuki.)"
+1016005010110,千雪,"（ふふっ……
+嬉しいな）",(Fufu... I'm so happy.)
+1016005010120,千雪,"（ひとつひとつ、やれることが増えていって……
+少しずつ、素敵なものを広げられていくの……）","(One by one, the things I can do increase...
+Little by little, these wonderful things
+expand their reach...)"
+1016005010130,千雪,"（ハリネズミくん、お客さんにも評判よかったし……
+もう一匹作ろうかな……？）","(The customers really liked Hedgey...
+Maybe I should make another...?)"
+1016005010140,千雪,あ……,Ah...
+1016005010150,千雪,"……もしもし
+お母さん、どうかした？","...Hi Mom, how are you?"
+1016005010160,千雪,…………,......
+1016005010170,千雪,"ごめんなさい、
+お店から帰って、バイブ解除しておくの忘れちゃってて","Sorry, I forgot to take my phone off silent
+when I got back from the shop."
+0000000000000,千雪の母,"そう、それならよかった
+最近は順調？","Well, glad to hear that's why.
+How have things been lately?"
+1016005010180,千雪,"うん
+今度ね、仕入れを少しだけ任されたりして──","Good.
+I've been tasked with procuring stock for work──"
+1016005010190,小さな声,"『そうなのね
+将来は、やっぱりそちらの道で考えているの？』","""Oh, I see.
+Still thinking about going down 
+that path in the future, are you?"""
+1016005010200,千雪,それは──,That's not──
+1016005010210,千雪,…………,......
+1016005010220,千雪,今は、いろいろ勉強させてもらってるところ,"I'm just learning a lot right now, that's all."
+1016005010230,千雪,"素敵だと思うものを作ったり、仕入れたりして
+お客様が喜んでくれるのは嬉しいよ","Whether making things I think are nice, or bringing
+in stock for the shop, I'm happy with whatever
+makes our customers happy."
+1016005010240,小さな声,『そう……』,"""I see..."""
+1016005010250,小さな声,『でも、だんだんわかってきたなら……』,"""Still, the picture's getting clearer for you..."""
+1016005010260,小さな声,"『憧れだけじゃすまない、
+大変なところも見えてきているわよね』","""The tougher parts of life are coming into view,
+it's not all admiration and adoration."""
+1016005010270,千雪,"それは…………
+そう、なんだけど……","That's... certainly true, but..."
+1016005010280,小さな声,"『お母さんは、千雪とは違う生き方をしていたから
+わからないこともあるでしょう』","""Your mother lived a life different from yours,
+so there are bound to be things we each don't get."""
+1016005010290,小さな声,"『でも、どんな生き方を選ぶにせよ……
+ちゃんとした大人として──……』","""Still, no matter the path you choose...
+At least be a respectable adult──......"""
+1016005010300,千雪,…………うん,...Right.
+1016005010310,千雪,"わかってるんだ……
+でも、もう少しだけ──","I get that, but...
+Just a little while longer, please──"
+info,produce_events/101600501.json,
+Translator,K,
