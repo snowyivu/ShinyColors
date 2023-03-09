@@ -25,8 +25,8 @@ Given that this is... something special for yourself."
 0000000000000,雑貨店店主,今のお客さん、とっても嬉しそうだったもの,That customer just now looked so happy.
 1016005020060,千雪,……ええ,...Yeah.
 1016005020070,千雪,"ぎゅって両手で包んで、いい笑顔をくれて……
-私の方こそありがとうって思っちゃいました","She held it tight in both arms and gave me
-the sweetest smile...
+私の方こそありがとうって思っちゃいました","She held it tight in both arms
+and gave me the sweetest smile...
 I should've been the one thanking her."
 0000000000000,雑貨店店主,"ふふっ、千雪さんも
 とっても嬉しそうだった","Fufu, you also looked pretty
@@ -36,15 +36,15 @@ happy yourself, Chiyuki-san."
 seeing a customer smile like that."
 1016005020080,千雪,"はい……
 私の『好き』が伝わった気がして、嬉しかったです","It is...
-Seeing my ""love"" make it through to them
-made me very happy."
+Seeing my ""love"" make it through
+to them made me very happy."
 0000000000000,雑貨店店主,うんうん、その気持ちわかるなあ……,"Mhm, I know the feeling..."
 0000000000000,雑貨店店主,"……今回は僕の都合で、
 代わりに仕入れに行ってもらった形だったけどさ","...You know, I know I asked you to take over
 securing supply for the shop just this once 
 since something came up on my end..."
 0000000000000,雑貨店店主,これからは普通にお願いしちゃおうかな,"But maybe I'll just ask you to handle it
-from now on instead."
+yourself from now on instead."
 1016005020090,千雪,はい……,Okay...
 0000000000000,雑貨店店主,千雪さん……？,Chiyuki-san...?
 1016005020100,千雪,あ、いえ、なんでもありません,"Oh, no, it's nothing."
@@ -52,7 +52,7 @@ from now on instead."
 1016005020120,千雪,"（ずっと、憧れていた仕事に就けて……
 お客さまも喜んでくれて……）","(I'd finally gotten the job I'd always wanted,
 one that makes my customers happy...)"
-1016005020130,千雪,"（こうなりたいなって店長さんがいて…… 
+1016005020130,千雪,"（こうなりたいなって店長さんがいて……
 私のセンスを認めてもらえて……）","(I even have a boss who wants the same...
 One who even admires my style...)"
 1016005020140,千雪,（なのに…………）,(And yet...)
@@ -61,8 +61,8 @@ One who even admires my style...)"
 scouting for some new idols."
 0000000000000,プロデューサー,"あなたなら、きっと素敵なアイドルになれると思うんです
 あなたの笑顔は、たくさんの人たちを元気づけられます！","I think you'd make for a wonderful idol.
-That smile of yours could cheer up
-plenty of people!"
+That smile of yours could
+cheer up so many people!"
 1016005020150,千雪,"（どうして私、
 迷ってるんだろう）",(Why do I feel so... conflicted?)
 1016005020160,千雪,"アイドルになろうなんて、
@@ -76,8 +76,8 @@ that's suddenly sprung up before you?"""
 1016005020180,小さな声,『今からアイドルになる、って選択肢は……』,"""Would the choice to become an idol now..."""
 1016005020190,小さな声,『本当に現実味があるものなの？』,"""Really be a realistic one?"""
 1016005020200,小さな声,"『雑貨屋で働くことにだって、
-千雪は不安があったじゃない……』","""Even working at that shop
-was enough to make you feel insecure..."""
+千雪は不安があったじゃない……』","""Even working at that shop was enough
+to make you feel insecure..."""
 1016005020210,小さな声,『今、ハンドルを切ったとして……』,"""Suppose you turned the wheel now..."""
 1016005020220,小さな声,"『それは、
 千雪の納得のいく……』","""Would this be a path that would let you..."""
@@ -89,7 +89,8 @@ Willing to try them both..."
 1016005020260,千雪,プロデューサーさんのおっしゃる通り……,Just like Producer-san said...
 1016005020270,千雪,私に、誰かを笑顔にする力があるなら……,"I have the power to make people smile, so..."
 1016005020280,千雪,ううん、違うな──,"No, that's not it──"
-1016005020290,千雪,雑貨屋の私だって、誰かを笑顔にしたいんだもの,"I want people to smile even when I'm working at the shop, but..."
+1016005020290,千雪,雑貨屋の私だって、誰かを笑顔にしたいんだもの,"I want people to smile even when I'm working
+at the shop, but..."
 1016005020300,千雪,"アイドルというお仕事で、
 私にどのくらい、それができるのか","I wonder how much I could make people smile,
 working as an idol?"
