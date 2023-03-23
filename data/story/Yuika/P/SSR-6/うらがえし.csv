@@ -1,0 +1,134 @@
+id,name,text,trans
+2007011010010,結華,～～…………,~ ~ .......
+0000000000000,プロデューサー,結華？,Yuika?
+2007011010020,結華,──あ、ごめん,"──Oh, sorry."
+2007011010030,結華,宿題全然終わんないから唸っちゃった,"I'm groaning because I can't get this assignment
+done."
+0000000000000,プロデューサー,"宿題──
+って、ああ、雑誌のアンケートか？","Assignment?
+Oh, the survey for the magazine."
+2007011010040,結華,そ。まー埋まらないよね、長所,"Yep. I have to fill the page up with a list
+of my strengths."
+2007011010050,結華,"自分で自分の長所書くって結構罰ゲームじゃない？
+短所ならすぐ出てくるのに～","Coming up with an entire list sounds like the perfect
+penalty game, huh? It's so much easier writing down
+weaknesses~"
+2007011010060,結華,"履歴書もそうだけどさぁ、
+絶対長所の欄いらないでしょ","Writing up a resume is a pain too. But at least that
+doesn't ask for a whole list of your strengths."
+0000000000000,プロデューサー,"いらないことはないだろ
+まぁ書くのが大変だってのは同意するけど","Yeah, that's not necessary for a resume.
+And I agree that it can be daunting."
+0000000000000,プロデューサー,……でも、結華ならすぐに埋まると思うんだけどなぁ,"However, I do think you'll have an easy
+time filling it out, Yuika."
+2007011010070,結華,えー？,Ehhh?
+0000000000000,プロデューサー,"自分で短所だと思ってるところ、
+長所とも言えるんじゃないか？","What you may think of as a weakness...
+...could also count as a strength, right?"
+0000000000000,プロデューサー,"すぐ思いつくものを使わないのももったいないし、
+言い換えてみたらいいと思うんだ","Besides, it's a waste not to use what comes to
+mind. It'd do you well to give it a positive spin."
+2007011010080,結華,……えー？,Eh...?
+0000000000000,プロデューサー,ほら、騙されたと思って,"Come on, just humor me here."
+2007011010090,結華,……ビビり,"......
+Panicky."
+0000000000000,プロデューサー,慎重,Vigilant.
+2007011010100,結華,気にしい,Worrywart.
+0000000000000,プロデューサー,相手の気持ちを汲もうとする,You're considerate of people's feelings.
+2007011010110,結華,うじうじしてる！,I'm wishy-washy!
+0000000000000,プロデューサー,物事をよく考える,You're a thorough thinker.
+2007011010120,結華,自分に自信が持てないっ,I have low self-confidence.
+0000000000000,プロデューサー,現状に満足せず、常に上を目指そうとしている,You go above and beyond to improve your situation.
+2007011010130,結華,あ、ああ言えばこう言う……！,H-How are you so quick with these?!
+0000000000000,プロデューサー,はははっ,Hahaha!
+0000000000000,プロデューサー,──でも、埋められそうなぐらい数は出てきただろ？,──Well was it enough to fill it out at least?
+2007011010140,結華,"いやいやいや、自己申告の長所にそんなこと書けないって
+そもそも三峰納得してないし！","No no no, Mitsumine can't just write down
+the qualities she doesn't have!"
+0000000000000,プロデューサー,"ああ、一個追加だな
+『真面目』","Aha, that's another one.
+""Sincere."""
+2007011010150,結華,……っ,Uuu....
+0000000000000,プロデューサー,『律儀』でもいいぞ～,"""Honest"" works too~"
+2007011010160,結華,もーーーーっ！,Stooooop!
+0000000000000,プロデューサー,ふはっ、悪い悪い……！,"Haha, my bad, my bad!"
+0000000000000,プロデューサー,──……そうやって結華は気にするけどさ,"──...But even if you have issues with it, Yuika..."
+0000000000000,プロデューサー,"今言ったやつが書いてあっても、
+誰も『そんなわけないだろ』なんて言わないと思うよ","I don't think anyone would call you out
+if you wrote down what I've said."
+0000000000000,プロデューサー,これは、実際に結華のそばにいる人間からの生の声だ,"After all, this is coming from someone who's
+been with you for a long while now."
+2007011010170,結華,……,......
+2007011010180,結華,そうやってさぁ、いい笑顔でさぁ,"Well, would you look at that.
+That's a smug look if I ever saw one."
+2007011010190,結華,このスーパーお節介め,You're a total snoop.
+0000000000000,プロデューサー,……え、あ。いや……すまん……,Huh? No... I... Sorry...
+2007011010200,結華,今だけ変換しないのもおかしいし～～！,Why didn't you switch it up just now?
+0000000000000,プロデューサー,ええ……？,Ehh?
+2007011010210,結華,"今の流れだったらポジティブに言い換えてよ！
+ほら！　はい！","We're supposed rephrase it into something positive,
+remember? Go on! Switch it up!"
+0000000000000,プロデューサー,"お、おう！
+えっと……","R, Right!
+Ummm..."
+select,,"『ありがとう』……
+とか……？","""Thank you""...
+I guess...?"
+select,,…………,......
+select,,……ちなみに,By the way...
+2007011010220,結華,よろしい,Good job.
+0000000000000,プロデューサー,……自分で言うの恥ずかしいな,Well that felt embarassing. Saying it myself...
+2007011010230,結華,それを人にやらせようとしてたのはＰたんでしょうが！,"You say that, P-tan, but this was your idea!"
+0000000000000,プロデューサー,"いや、だって結華の長所は事実だろ！
+俺のこれはなんか違うっていうか──","But all the good things I've said about you was true,
+though! It's different talking about myself──"
+2007011010240,結華,"三峰からの感謝だって事実です～！
+変わんないからね～～？？！","But that ""thank you"" from earlier is also true!
+So is this really any different?!"
+2007011010241,結華＆プロデューサー,──……,──......
+0000000000000,プロデューサー,……この話題痛み分けでどうだ？,...Why don't we call it a draw?
+2007011010250,結華,"……そうね
+お互い、なんか変に恥ずかしさの上塗りしてるもんね","...Sure. We'll just end up saying even
+more embarassing things to each other."
+0000000000000,プロデューサー,"──よし
+じゃあ次の話題提供するぞ……えーっとそうだな……","──Okay. Change of topic, then.
+Ummm... What about..."
+2007011010260,結華,"……敏腕プロデューサーが
+珍しく墓穴を掘った件について",...about how you somehow got us into this mess?
+0000000000000,プロデューサー,"！？
+話題！　変わってないだろ！","!?
+Hey, why do you have to bring it back?!"
+2007011010270,結華,あははははっ,Ahahahaha!
+2007011010280,結華,"……おーい？　Ｐたーん……？
+スイッチ切っちゃったのー？","Oooi? P-taaan...?
+Did you switch from ON to OFF?"
+0000000000000,プロデューサー,……いや、なんていうか,"...No, it's more like, uh..."
+0000000000000,プロデューサー,……自分のことになるとびっくりするほど出てこないな……,"...It's surprisingly tough rephrasing it into
+something positive about myself..."
+2007011010290,結華,それ～～,See~
+2007011010300,結華,"わかりました？
+三峰の気持ち、わかりました？","You get it nooow?
+Do you get Mitsumine's dilemma?"
+0000000000000,プロデューサー,わかりました……,I get it...
+2007011010310,結華,"ふふっ、素直
+じゃあそんなＰたんには答えを教えてあげちゃうね","Fufu, so frank.
+Then I'll flip it and give you the answer, P-tan."
+2007011010320,結華,"──……そんなふうに見ててくれて、教えてくれて
+ありがとう","──The way you tell me all the things that you
+notice about me is something I'm grateful for."
+2007011010330,結華,うん？,Hmm?
+0000000000000,プロデューサー,今のは照れ隠しってことでいいんだよな？,"You're embarassed, aren't you?"
+2007011010340,結華,！？,!?
+0000000000000,プロデューサー,"それとも、こんな大ヒントみたいな質問は
+許してもらえないのかな",Or is asking that maybe giving away too much...
+0000000000000,プロデューサー,どうです？　出題者さん,"What say you, Miss Examiner?"
+2007011010350,結華,"～～っ、なんでプロデューサーが余裕なわけーー！？
+今完全に三峰がからかう流れだったじゃん！","Ugh, why does nothing phase this producer?!
+Mitsumine was supposed to be on top just now!"
+0000000000000,プロデューサー,年の功かな～,Maybe I'm just wise beyond my years~
+2007011010360,結華,ああーーっだとしたら年の差が憎い～～！,"Ugh, then screw the age difference~!"
+0000000000000,プロデューサー,ははは,Hahaha!
+0000000000000,プロデューサー,──……で、結華の答えは？,──So... Yuika's answer is?
+2007011010370,結華,──それも含めて問題です！,──That smug attitude of yours needs to go!
+info,produce_events/200701101.json,
+Translator,Lewdacriz,

@@ -7,7 +7,8 @@ id,name,text,trans
 0000000000000,プロデューサー,俺は諦めないよ,I'm not giving up.
 0000000000000,スポンサー担当者,"やばいやばーい……！
 でもそういうの、そのうち会話録音されちゃいますよ──","That doesn't sound good...!
-I feel like you two are going to start recording conversations at some point."
+I feel like you two are going to start recording
+conversations at some point."
 0000000000000,プロデューサー,……,......
 0000000000000,アートディレクター,"いやだからそこまでいく前にさぁ？
 もうちょっと奥さんの身になってみなきゃイカンって","But before going that far, try putting yourself in your wife's shoes a little bit, you know?"
@@ -16,12 +17,15 @@ I feel like you two are going to start recording conversations at some point."
 I really don't think I can compromise any further."
 0000000000000,スポンサー担当者,"えー……
 ２８３さんどうです？　ちょっと折れたっていいですよねぇ","Huh...
-What do you think, Mr. 283? Should they separate for the time being?"
+What do you think, Mr. 283? Should they separate for
+the time being?"
 0000000000000,プロデューサー,──────えっ,──────Eh.
 4001048040030,美琴,"────このラジオは問題ないと思う
-入りは早いの？","────I don't have a problem with this radio show, but isn't the start time too early?"
+入りは早いの？","────I don't have a problem with this radio show,
+but isn't the start time too early?"
 0000000000000,プロデューサー,"いや、番組のスタートは早いけど
-美琴は10時くらいの出番になるはずだ","No, the show starts early, but you will be on air at around 10 or so."
+美琴は10時くらいの出番になるはずだ","No, the show starts early, but you will be on air at
+around 10 or so."
 4001048040040,美琴,"うん
 それじゃ、大丈夫","I see.
 That's fine, then."
@@ -29,7 +33,8 @@ That's fine, then."
 ええと……","Great. Thank you.
 Um..."
 0000000000000,プロデューサー,"……うん。今来てるオファーはそんなとこかな
-また資料見ておいてくれ",...Yeah. That's all the offers we have for you right now. Feel free to go through them again.
+また資料見ておいてくれ","...Yeah. That's all the offers we have for you right
+now. Feel free to go through them again."
 4001048040050,美琴,了解,Understood.
 4001048040060,美琴,"────『公開練習』……
 これは……？","────""Open practice""....
@@ -39,7 +44,8 @@ What is it...?"
 ...I'm going to practice by myself, so I'll be home late."
 4001048040080,はづき,"はーい……
 今日、にちかがごはん当番だからね～？","Okay...
-You know that it's your turn to make dinner today, right～?"
+You know that it's your turn to make dinner today,
+right～?"
 4001048040081,にちか＆はづき,──────！,"──────！
 (I know!)
 (Did you forget about it?)"
@@ -51,7 +57,9 @@ I got it just in case you're interested────"
 So, filming the practice?"
 0000000000000,プロデューサー,まぁ、そういうことみたいだ,I guess so.
 0000000000000,プロデューサー,"専門的な意味合いはないと思うよ。どっちかっていうと
-プライベートのチラ見せ企画ってところかなぁ","I don't think it's meant to be a professional recording, though. It's probably more like a glimpse behind the scenes."
+プライベートのチラ見せ企画ってところかなぁ","I don't think it's meant to be a professional
+recording, though. It's probably more like a glimpse
+behind the scenes."
 4001048040100,美琴,……そうなんだ,...I see.
 0000000000000,プロデューサー,"うん。とくに勧めるつもりはなかったんだけど……
 気になるのか？","Yeah. I wasn't going to recommend it to you, but...
@@ -62,21 +70,25 @@ It sounds like a strange project."
 4001048040120,美琴,完成したものを見せるために、練習するのに,I only practice to show a finished product.
 0000000000000,にちか,"……あははっ
 笑われながら座ってること『頑張る』って言うんだー……！","...Ahaha.
-So sitting in one place to be laughed at also counts as ""hard work"" huh...!"
+So sitting in one place to be laughed at also counts
+as ""hard work"" huh...!"
 0000000000000,プロデューサー,"……
 そうだよな","......
 I understand."
 0000000000000,プロデューサー,"どんな思いで
-……どれだけ練習してるか",What goes on her mind when she practices that much...
+……どれだけ練習してるか","What goes on her mind when she practices that
+much..."
 0000000000000,プロデューサー,"それを知ってれば
 簡単に勧めることはできないよ","If I knew the answer, I wouldn't think about recommending it to her."
 0000000000000,プロデューサー,……その────,...By the way────
 0000000000000,プロデューサー,────もっと自由に踊りたいか,────Do you want to dance more freely?
 0000000000000,知人ダンサー,"あんな感じで、思いっきりやれるソロのステージ
-増やせるわけでしょ？","That way, you have more opportunities to do solo performances to your heart's content, yeah?"
+増やせるわけでしょ？","That way, you have more opportunities to do solo
+performances to your heart's content, yeah?"
 0000000000000,代理店ディレクター,"────いや、すみませんさっきは……
 あのメンツになるとどうもいらん話で盛り上がっちゃって","────Hey, sorry about earlier...
-I got carried away with subjecting you all to my nonsense."
+I got carried away with subjecting you all to my
+nonsense."
 0000000000000,プロデューサー,"そんな……！
 私こそ、プライベートな話をうかがってしまって……","No, not at all...!
 I was the one at fault for prying into your private life..."
@@ -96,32 +108,39 @@ Other people can hardly catch up to you..."
 磨きつづけてきたものがさ","What you have been refining for so, so long..."
 4001048040160,美琴,……,......
 0000000000000,プロデューサー,"俺は、それを思う存分発揮できる場所を
-用意したいって思う",I want to find a place where you can show it to your heart's content.
+用意したいって思う","I want to find a place where you can show it to your
+heart's content."
 4001048040170,美琴,"……プロデューサー
 うん","...Producer.
 Mm."
 0000000000000,プロデューサー,でも、その……,However...
 0000000000000,プロデューサー,……それで本当に合ってるのか、わからないとも思うんだ,...I'm not sure if that really is the right thing to do.
-0000000000000,プロデューサー,それだけでふたりが笑顔になれるとは……思ってない,Because... I don't think it's enough to make you two smile.
+0000000000000,プロデューサー,それだけでふたりが笑顔になれるとは……思ってない,"Because... I don't think it's enough to make you two
+smile."
 4001048040180,美琴,"……間違っていないんじゃない？
 場所を用意してもらうだけじゃ、意味がないから","...I don't think it is wrong.
 Of course it's not enough to just have a place to perform."
 4001048040190,美琴,それに見合うものを見せられないと,I need to show something worthy of that stage.
 0000000000000,代理店ディレクター,────いや、ボクなんてそんな……,"────Nah, you don't have to flatter me..."
 0000000000000,代理店ディレクター,"お金とかプロジェクトとか動かしてるつもりですけど
-……なんで妻ひとり動かせないかなぁって",I'm doing well financially and making progress on my projects... but things haven't been working out with my wife.
+……なんで妻ひとり動かせないかなぁって","I'm doing well financially and making progress on my
+projects... but things haven't been working out with
+my wife."
 0000000000000,プロデューサー,……,......
 0000000000000,代理店ディレクター,"ほんとは、自分がやれてることなんて
 やれてるって思ってるだけの偶然なんじゃないか……とか",Maybe I'm just deluding myself into thinking I'm doing my part...
 0000000000000,プロデューサー,……そんな,...I don't think so.
 0000000000000,代理店ディレクター,アハハ……すみませんまた……,Ahaha... I'm sorry once again...
 0000000000000,代理店ディレクター,"でも、こんなに一緒にいても、わかんないんですよねぇ
-あいつ────相手の心って","Even though we've been together for so long, I still don't understand her heart──── my partner's heart."
+あいつ────相手の心って","Even though we've been together for so long, I still
+don't understand her heart──── my partner's
+heart."
 0000000000000,プロデューサー,"……
 それは……練習することで手に入るものなのか","......
 Is that something you can achieve by just practicing?"
 4001048040200,美琴,……え？,...Eh?
-0000000000000,プロデューサー,このままそれなりの規模のステージを確保して,Let's say we secure a stage no bigger than the ones you've had so far.
+0000000000000,プロデューサー,このままそれなりの規模のステージを確保して,"Let's say we secure a stage no bigger than the ones
+you've had so far."
 0000000000000,プロデューサー,練習して、練習して,"Then you practice, and practice."
 0000000000000,プロデューサー,"……にちかも、練習して
 それで────","... Nichika too, practices.
@@ -139,7 +158,8 @@ I haven't thought this through before speaking."
 0000000000000,プロデューサー,そうしようと思えば、できるものなんでしょうか……,"I think if you want to, you can do it..."
 0000000000000,プロデューサー,……その、相手の心を知らないで……,...Even if you can't understand your partner's heart...
 0000000000000,プロデューサー,"なおかつ一緒にいられる、
-っていうことは、あるんでしょうか…………","Maybe it's still possible to stay together, regardless..."
+っていうことは、あるんでしょうか…………","Maybe it's still possible to stay together,
+regardless..."
 0000000000000,代理店ディレクター,────,────
 0000000000000,プロデューサー,……公開練習の案件は、ただ挟んでおいただけだから,"...The open practice offer is still there, just in case."
 0000000000000,プロデューサー,今のこと、もう一度話させてくれ,Let's discuss this again later.
@@ -164,11 +184,13 @@ Here's the magazine you placed on hold from the back issues archive."
 Hmm──────"
 0000000000000,代理店ディレクター,"なんですかね……まぁ
 知らないじゃいられないから、喧嘩するというか","The thing is, well...
-Because I can't just not understand her, we end up fighting."
+Because I can't just not understand her, we end up
+fighting."
 4001048040270,にちか,────……,────......
 0000000000000,ルカの発言,"『大体のことはわかってるっていうか
 研究生の頃からずっと一緒にやってるし』","""I know what she thinks because we've been together ever since we were trainees."""
-0000000000000,ルカの発言,『このへんでバーッて大きい振り入るな、とか』,"""Like, I would know when and where she would stick a flashy dance move in."""
+0000000000000,ルカの発言,『このへんでバーッて大きい振り入るな、とか』,"""Like, I would know when and where she would stick a
+flashy dance move in."""
 4001048040280,にちか,…………,............
 0000000000000,代理店ディレクター,"もうなんというか……
 事実、一緒にいるってことが大事で","How can I say it...
@@ -184,7 +206,9 @@ You two seem like a great match to me."
 We even went to a clinic for help..."
 0000000000000,プロデューサー,……クリニック,...Clinic.
 0000000000000,代理店ディレクター,"あはは……そういう擦り合わせもできないってなったら
-……それはもう一緒にいられないってことですかねぇ",Ahaha... If we went that far and things still can't work out... Then I guess we shouldn't stay together anymore.
+……それはもう一緒にいられないってことですかねぇ","Ahaha... If we went that far and things still can't
+work out... Then I guess we shouldn't stay together
+anymore."
 0000000000000,プロデューサー,────……,────......
 0000000000000,代理店ディレクター,"え、深刻そうだなぁ
 いい先生ご紹介しましょうか？","Hey, your case seems tough.

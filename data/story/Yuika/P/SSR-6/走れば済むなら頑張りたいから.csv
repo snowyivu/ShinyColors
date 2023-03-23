@@ -1,0 +1,124 @@
+id,name,text,trans
+0000000000000,プロデューサー,お……？,Oh...?
+2007011020010,結華,"『お疲れ様です！
+打ち合わせ、５分ぐらい遅れそうです』","""Good afternoon! 
+I'll be about 5 minutes late for our meeting."""
+2007011020020,結華,『すみません……！』,"""I apologize in advance...!"""
+0000000000000,プロデューサー,（おお……珍しいな）,(Huh... That's odd.)
+2007011020030,結華,"……、すみません……！
+遅くなりました……！","...I'm so sorry...!
+Excuse me for being late...!"
+0000000000000,プロデューサー,"いやいやいや、時間ぴったりだろ
+走ってきたんだよな、お疲れ様──","No no, it's ok. You're right on the dot.
+Good job making it on time."
+0000000000000,プロデューサー,"事前に連絡くれてたんだし、
+無理して間に合わせなくてもよかったのに","And you messaged me ahead of time anyway,
+so it's fine if you were a little late."
+0000000000000,プロデューサー,俺との打ち合わせなんだしさ,It's only a meeting.
+2007011020040,結華,"……いや、それは……
+さすがに……","...No, that's...
+I guess you're right..."
+0000000000000,プロデューサー,"はは、そうか
+悪いな、ありがとう","Haha, yeah, don't sweat it.
+Thanks for making it."
+0000000000000,プロデューサー,──まぁほら、お茶でも飲んで,"───And here, I made you some tea."
+2007011020050,結華,……いただきます……,...Thank you...
+0000000000000,プロデューサー,……ちなみに、理由は聞いても？,"...By the way, may I ask what happened?"
+2007011020060,結華,"……通年の授業で……
+夏休みにグループ課題を出されまして……","...We were given a group assignment.
+Happens every summer for my class."
+0000000000000,プロデューサー,おお,I see.
+2007011020070,結華,"『三峰ちゃん大変だよね？　できるとこやっとくよ！』
+って言ってもらったんだけど","""Mitsumine-chan, it's tough isn't it? I can help 
+do your share!"" ──I've been told stuff like that."
+2007011020080,結華,……それを受けたら、負けな気がして……,It feels like I'll lose if I let them do that for me...
+0000000000000,プロデューサー,負け,Lose?
+2007011020090,結華,"だって、他にバイトとかサークルとかで
+忙しい人もいるんだし","That's because there are others who can do
+their part even when they're busy with work
+and extracurriculars."
+2007011020100,結華,"三峰だけズルみたいになっちゃうの
+嫌じゃん……？！","Mitsumine wouldn't be able to stand it
+if she's the only one getting help like this!"
+2007011020110,結華,"だから今日、課題やる会に出てて……
+抜けるタイミングが掴みづらくて……","So today, I attended a meeting for the assignment...
+And it was hard to know when it's time to leave."
+0000000000000,プロデューサー,あー、なるほど,"Ahhh, I see..."
+2007011020120,結華,"──でもそれで遅刻してたら世話ないよね
+ごめんなさい、ご迷惑をおかけしました","───but even still, it would've been bad if I ran late.
+I apologize for the setbacks."
+0000000000000,プロデューサー,"だから、今回のはノーカンだよ
+対俺の場合、時間ぴったりはセーフだ","Yeah, I said that it's okay.
+And you arrived exactly on time."
+0000000000000,プロデューサー,普段からの５分前行動に救われたと思って,"You normally give me a heads-up five minutes in
+advance anyways, so I'm not holding this against you."
+2007011020130,結華,……すみません。ありがとうございます,You didn't need to do that... but thanks.
+0000000000000,プロデューサー,うん,Sure.
+select,,それにしても──,Anyways...
+select,,課題の方も頑張ってな,"Go all out on the
+group assignment."
+select,,"じゃあ改めて、
+業務上の確認だ","Okay, let's go
+over what to do."
+0000000000000,プロデューサー,結構な負けず嫌いエピソードだな？,"This is what you'd call ""Yuika's tale of tenacity"",
+right?"
+2007011020140,結華,"あ、そこ見栄っ張りエピソードって言わないあたり
+Ｐたんは優しい","Oh, I like that you didn't call it a ""tale of me stroking
+my ego"". You're so sweet, P-tan."
+0000000000000,プロデューサー,はは……見栄っ張りって,"Haha... Stroking your ego, huh?"
+2007011020150,結華,実際そうだもん,Precisely.
+2007011020160,結華,みんなの善意はわかるんだけどさー！,I get that they all just want to help...!
+2007011020170,結華,"それに乗ったら、今後三峰が勝手に
+負い目感じたりしそうだなっていうさぁ……","But if they end up doing my share of the work,
+Mitsumine'll end up feeling bad about it later on..."
+2007011020180,結華,"さすがに今そこに甘えるわけには──みたいな
+わかる……？","I can't sit by and let them do me favors like that──
+Do you get me...?"
+0000000000000,プロデューサー,"わかるよ
+自分だけ甘えてると不安になるもんな","I do. I'd feel uneasy if everyone spoiled me from
+doing any work myself."
+2007011020190,結華,そう！,Exactly!
+2007011020200,結華,"そしてせっかくの親切を受け取らないなんてー！
+っていう自己嫌悪……","And the part where it's like you don't want to
+turn them down... I hate that feeling..."
+0000000000000,プロデューサー,ああ……,Yeaaah...
+2007011020210,結華,……でもまぁ、それが三峰なんですけどね,"...But anyways, that's just classic Mitsumine
+speaking."
+2007011020220,結華,！,!
+0000000000000,プロデューサー,"せっかく両方頑張ろうと思ったんだからさ
+負けにならないだけじゃなくて、勝てるようにっていうか","You've got to set your eyes on showing that you're
+not backing down and that you can pull it off just
+as well as the others can."
+0000000000000,プロデューサー,結華がきっちり納得できるように、ファイトだ,"You got to carry the group so hard that there's no
+room for doubt. You got this, Yuika!"
+2007011020230,結華,ふふっ、ありがとう！,"Hehehe, thanks!"
+0000000000000,プロデューサー,"……まぁそんなの言われなくてもって
+感じだとは思うんだが……","Well, I feel that you don't need me to tell
+you what you're about to do anyway..."
+2007011020240,結華,ええーっ、なんでよ,"Ehhh, why not?"
+2007011020250,結華,それはもちろん言われなくても頑張るつもりだったけど,"While I was going to do all that without being
+told..."
+2007011020260,結華,"言ってもらった方が嬉しいんだからさ！
+そんな申し訳なさそうにしないでよ～","...it's still nice to hear it from you!
+So don't be so down about it~"
+2007011020270,結華,"──言葉にしてくれてありがとう、も込めた
+『ありがとう』なんだから","──I'm happy that you put my feelings into
+words, so here's a little ""thank you"" from me!"
+2007011020280,結華,？,?
+0000000000000,プロデューサー,この件に関して、俺が手伝うことってあるか？,Is this something you'd want my help for?
+2007011020290,結華,"！
+──ふふっ","!
+Ehehe!"
+2007011020300,結華,"だーいじょうぶです！
+ちゃんと無事になんとかできる予定を組みました！","Nooo, I'm goood! I've already assembled
+a plan of action for 100% success!"
+2007011020310,結華,今日以降、ご迷惑とご心配をかける予定はありません！,I won't have to bug you about anything after today!
+0000000000000,プロデューサー,そうか,I see.
+2007011020320,結華,──でも、途中でサボっちゃったら便宜よろしく,"──Buut, if I can't be bothered,
+you'll pick up the slack for me, yeah?"
+0000000000000,プロデューサー,"うーん
+サボっちゃうやつには約束できないなぁ","I dunno.
+I don't do lazy people any favors."
+2007011020330,結華,あははっ、意外と厳しい～！,"Ahaha, you're so unforgiving~!"
+info,produce_events/200701102.json,
+Translator,Lewdacriz,
