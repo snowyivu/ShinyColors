@@ -1,6 +1,7 @@
 id,name,text,trans
 4001027020010,恋鐘,"『よかね～～！！！！
-やるとよ～～！！！！！』","""Alrighty～～!!!!\nLet's do it～～!!!!!"""
+やるとよ～～！！！！！』","""Alrighty～～!!!!
+Let's do it～～!!!!!"""
 4001027020020,真乃,恋鐘ちゃん……？,Kogane-chan...?
 4001027020030,結華,『？』,"""?"""
 4001027020040,咲耶,『？』,"""?"""
@@ -14,147 +15,209 @@ id,name,text,trans
 4001027020120,智代子,『なになに？』,"""What what?"""
 4001027020130,真乃,ごみ拾い……？,Collecting trash...?
 4001027020140,果穂,"真乃さーん……！
-お疲れ様ですっ",Mano-san...!\nHow's it going?
+お疲れ様ですっ","Mano-san...!
+How's it going?"
 4001027020150,真乃,"果穂ちゃん
-お疲れさまですっ","I am fine, Kaho-chan,\nhow are you?"
+お疲れさまですっ","I am fine, Kaho-chan,
+how are you?"
 4001027020160,果穂,"えへへ～
-お母さんと軍手を買いました！",Ehehe～\nI went to buy working gloves with my mom!
+お母さんと軍手を買いました！","Ehehe～
+I went to buy working gloves with my mom!"
 0,プロデューサー,"────え、真乃？
-ごみ拾いのこと、言わない方がよかったか","──eh, Mano?\nYou mean it's better that I don't mention the\ntrash collecting to the others?"
+ごみ拾いのこと、言わない方がよかったか","──eh, Mano?
+You mean it's better that I don't mention the
+trash collecting to the others?"
 4001027020170,真乃,"い、いえ……っ
-そういうわけじゃ────",No...\nI didn't meant that──
+そういうわけじゃ────","No...
+I didn't meant that──"
 4001027020180,果穂,"トングも持っていきますっ
-ごみ拾い、他に必要なものってありますか！？",I will also bring tongs along.\nAnything else necessary for trash collection!?
+ごみ拾い、他に必要なものってありますか！？","I will also bring tongs along.
+Anything else necessary for trash collection!?"
 4001027020190,真乃,"ふふっ
-果穂ちゃん……","Fufu,\nKaho-chan..."
+果穂ちゃん……","Fufu,
+Kaho-chan..."
 4001027020200,真乃,"ありがとう……っ
-あの────",Thank you...\nErm──
+あの────","Thank you...
+Erm──"
 4001027020210,真乃,"でも、暑いし、忙しいし……
-我慢したり無理しちゃう人、いないかなって……","However, it's hot out here, plus everyone is busy...\nI am worried if there are some who are putting up\nwith this and forcing themselves..."
+我慢したり無理しちゃう人、いないかなって……","However, it's hot out here, plus everyone is busy...
+I am worried if there are some who are putting up
+with this and forcing themselves..."
 4001027020220,果穂,なんですかっ！,What is it!?
 4001027020230,真乃,う、ううん……っ,U──Umm...
 0,プロデューサー,"真乃たちが自主的にごみ拾いをしてるって話をしてさ
-そしたら恋鐘、手伝わなきゃって────","I was talking about you three volunteering to collect\ntrash. So when Kogane heard about it, she decided\nshe had to help──"
+そしたら恋鐘、手伝わなきゃって────","I was talking about you three volunteering to collect
+trash. So when Kogane heard about it, she decided
+she had to help──"
 0,プロデューサー,はは、すぐにメッセし始めてな,"Haha, then she started messaging in the chat group right away."
 0,プロデューサー,"みんなグループで
-すごく盛り上がってたじゃないか","See, everyone in the chat group,\nthey were all super excited about this, weren't they?"
+すごく盛り上がってたじゃないか","See, everyone in the chat group,
+they were all super excited about this, weren't they?"
 4001027020240,真乃,"……っ
-は、はい……",...\nYe──Yes...
+は、はい……","...
+Ye──Yes..."
 4001027020250,真乃,"すごいな……
-軍手とトングがあったら、ばっちりだね……っ",Wonderful...\nWorking gloves and tongs would really come in handy...
+軍手とトングがあったら、ばっちりだね……っ","Wonderful...
+Working gloves and tongs would really come in handy..."
 4001027020260,果穂,"わぁ……！
-ほんとですかっ",Wow...!\nReally!?
+ほんとですかっ","Wow...!
+Really!?"
 4001027020270,真乃,あ、あの……っ,E──erm...
 0,プロデューサー,ん？,Hmm?
 4001027020280,真乃,みんなが、その……,"Is everyone, erm..."
 4001027020290,真乃,"無理して参加してくれていたり
-しないでしょうか……","Could it be that,\nthey're forcing themselves to take part in this...?"
+しないでしょうか……","Could it be that,
+they're forcing themselves to take part in this...?"
 0,プロデューサー,ああ────,Ahh──
 4001027020300,果穂,"あたしたち、
 ごみの勉強もやってるんです！",We are also studying more about trash!
 4001027020310,真乃,えっ、お勉強……？,"Eh, study...?"
 4001027020320,果穂,はいっ,Yes!
 4001027020330,果穂,"プラスチックのごみは海に行かせちゃいけないとか、
-色んなことを夏葉さ──あっ","Like we can't allow plastic trash to go into the\nocean, we're learning all sorts of things from\nNatsuha-sa...ah!"
+色んなことを夏葉さ──あっ","Like we can't allow plastic trash to go into the
+ocean, we're learning all sorts of things from
+Natsuha-sa...ah!"
 4001027020340,果穂,"夏葉かん境大臣が
-教えてくれるんですっ","I mean Natsuha En-vironment Minister,\nshe's teaching us about all these."
+教えてくれるんですっ","I mean En-vironment Minister Natsuha,
+she's teaching us about all these."
 4001027020350,真乃,"す、すごいな……っ
 環境大臣さん……",Wo─Woah...\nEnvironment Minister-san...
 4001027020360,果穂,"はいっ、あたしたち色んな大臣を決めたので
-ごみ拾いの日は、スッゴくがんばりますっ！","Yup, we've decided on different kinds of ministers.\nWhen the day to collect trash comes, we will do\nour best!"
+ごみ拾いの日は、スッゴくがんばりますっ！","Yup, we've decided on different kinds of ministers.
+When the day to collect trash comes, we will do
+our best!"
 4001027020370,真乃,う、うん……っ,O──Okay...
 0,プロデューサー,いいんじゃないか、無理してても,Why not? Even if they are forcing themselves.
 4001027020380,真乃,"……っ
 プロデューサーさん……",...huh?\nProducer-san...
 4001027020390,果穂,それじゃあ失礼しますっ！,"Well then, I am going off!"
 0,プロデューサー,"真乃、気持ちはわかるつもりなんだ
-みんなに広めたいっていうより、好きでやってるんだよな","Mano, I think I know how you feel.\nIt's not that you want to advocate this act among\nothers, you're doing it just because you would like to."
+みんなに広めたいっていうより、好きでやってるんだよな","Mano, I think I know how you feel.
+It's not that you want to advocate this act among
+others, you're doing it just because you would like to."
 4001027020400,真乃,は、はい……っ,Ye──Yes...
 0,プロデューサー,"うん
-ボランティアってなると、ちょっと断りづらいしな","Uh huh, it's indeed kind of hard to refuse\nwhen volunteering is involved."
+ボランティアってなると、ちょっと断りづらいしな","Uh huh, it's indeed kind of hard to refuse
+when volunteering is involved."
 0,プロデューサー,"そういう繊細なことも
-考えてくれてるんだろうなって思う","I'm sure even delicate things like these,\nyou would still be thinking about them."
+考えてくれてるんだろうなって思う","I'm sure even delicate things like these,
+you would still be thinking about them."
 4001027020410,真乃,────……,──...
 0,プロデューサー,"でも俺は、それでもみんなでやる価値があるって気がする
-まぁ、自然とそういう流れにもなったし──","Even so, I still feel like it's worth having everyone\ndo it together.\nOh well, it has come to this naturally anyway."
+まぁ、自然とそういう流れにもなったし──","Even so, I still feel like it's worth having everyone
+do it together.
+Oh well, it has come to this naturally anyway."
 0,プロデューサー,真乃のためにもなるって思ってる,"I think it's good for you too, Mano."
 4001027020420,真乃,"……っ
-プロデューサーさん……",...\nProducer-san...
+プロデューサーさん……","...
+Producer-san..."
 4001027020430,真乃,……────,──
 4001027020440,真乃,"……
-気にしすぎちゃってるのかな……",...\nAm I way too concerned about this...?
+気にしすぎちゃってるのかな……","...
+Am I way too concerned about this...?"
 4001027020450,真乃,──あ,──ah
 4001027020460,甜花,"『お疲れ様です
-ごみ拾い頑張ります』","""Good day to you.\nI'll try my best to collect trash."""
+ごみ拾い頑張ります』","""Good day to you.
+I'll try my best to collect trash."""
 4001027020470,甜花,"『これは、ファイトって言ってる
-なーちゃんと千雪さんの写真』","""This is a photo from Naa-chan and Chiyuki-san,\nthey are saying 'fight!'."""
+なーちゃんと千雪さんの写真』","""This is a photo from Naa-chan and Chiyuki-san,
+they are saying 'fight!'."""
 4001027020480,真乃,わ……,Wow...
 4001027020490,甜花,『あと、幽谷さんと撮った！』,"""Also this one, I took it with Yukoku-san"""
 4001027020500,真乃,わぁ……,Oh my...
 4001027020510,真乃,"えっと
-『ありがとう』────","Umm,\n""Thank you""──"
+『ありがとう』────","Umm,
+""Thank you""──"
 4001027020520,真乃,"ふふっ
-ありがとうってばっかり言ってる","Fufu,\nall I've been saying is thank you."
+ありがとうってばっかり言ってる","Fufu,
+all I've been saying is thank you."
 4001027020530,真乃,"……
-うれしいな……",...\nI am so happy...
+うれしいな……","...
+I am so happy..."
 4001027020540,咲耶,……────,...──
 4001027020550,霧子,"ハーブのお水……
-どうぞ……",Herbal water...\nHere you are...
+どうぞ……","Herbal water...
+Here you are..."
 4001027020560,咲耶,"……おや、霧子
-作ってくれたのかい？","...oh my, Kiriko,\nyou made this for me?"
+作ってくれたのかい？","...Oh my, Kiriko,
+you made this for me?"
 4001027020570,霧子,うん……,Yes...
 4001027020580,咲耶,"ありがとう
-いただくよ","Thank you,\nI'll take it."
+いただくよ","Thank you,
+I'll take it."
 4001027020590,霧子,"咲耶さんは……
-考えごとの……途中みたい……",Sakuya-san...\nYou seemed to be in the middle of...thinking about\nsomething...
+考えごとの……途中みたい……","Sakuya-san...
+You seemed to be in the middle of... thinking about
+something..."
 4001027020600,咲耶,"ああ……
-フフ、考えごとというほどのことじゃないんだ","Aah...\nFufu, it's not like I am really thinking."
+フフ、考えごとというほどのことじゃないんだ","Aah...
+Fufu, it's not like I am really thinking."
 4001027020610,咲耶,"８月というのは、
-どこか切ないものだな……とね","I mean somehow,\nAugust is somewhat heart-rending for me..."
+どこか切ないものだな……とね","I mean somehow,
+August is somewhat heart-rending for me..."
 4001027020620,霧子,……────,...──
 4001027020630,咲耶,どう言ったものだろうな────,How shall I put it──
 4001027020640,摩美々,"何ー
-暗い話してるのー",What──\nAre you two having gloomy talks?
+暗い話してるのー","What──
+Are you two having gloomy talks?"
 4001027020650,霧子,"ううん……
-８月が……切ないって……",Umm no...\nIt's about August...being somewhat heart-rending...
+８月が……切ないって……","Umm no...
+It's about August... being somewhat heart-rending..."
 4001027020660,摩美々,"えー
-やっぱり暗いじゃん",Eh──\nSo it's gloomy after all.
+やっぱり暗いじゃん","Eh──
+So it's gloomy after all."
 4001027020670,霧子,ふふっ……,Fufu...
 4001027020680,霧子,"夏が……齢をとってく時間……
-だからかな……？",Is it because...\nSummer is the time of aging...?
+だからかな……？","Is it because...
+Summer is the time of aging...?"
 4001027020690,咲耶,"ふむ……
-そうかもしれない",Hmm...\nIt might be the case.
+そうかもしれない","Hmm...
+It might be the case."
 4001027020700,咲耶,"同じ風鈴の音でも
-７月はどこかはつらつとして感じられるのだけれど","Even the sound from the same wind chime,\nin July it feels somewhat livelier."
+７月はどこかはつらつとして感じられるのだけれど","Even the sound from the same wind chime,
+in July it feels somewhat livelier."
 4001027020710,摩美々,風鈴は風鈴でしょー,"Wind chime is just wind chime, right?"
 4001027020720,霧子,"うん……
-風鈴は……風鈴……",Right...\nWind chime is...wind chime...
+風鈴は……風鈴……","Right...
+Wind chime is... wind chime..."
 4001027020730,霧子,"咲耶さんが……
-秋に……向かってるんだね……",Sakuya-san...\nYou're heading towards autumn...
+秋に……向かってるんだね……","Sakuya-san...
+You're heading towards autumn..."
 4001027020740,咲耶,ああ、なるほど────,"Aah, I see──"
 4001027020750,摩美々,ふふー,Fufu──
 4001027020760,咲耶,──摩美々……っ,──Mamimi...
 4001027020770,霧子,"わ……
-元気な……風鈴さん……！",Wow...\nAn energetic...wind chime-san...!
+元気な……風鈴さん……！","Wow...
+An energetic... wind chime-san...!"
 4001027020780,摩美々,"私はもうちょっと
 ８月楽しむんでー",I am going to enjoy August a bit more──
 4001027020790,結華,"あははっ
 なになにー？","Ahaha, what is it?"
 4001027020800,結華,"そんなに鳴っちゃったら
-風鈴、ひと夏の仕事終わっちゃうよ？","If you keep ringing it this way,\na whole summer's worth of work is about to end\nfor that wind chime."
+風鈴、ひと夏の仕事終わっちゃうよ？","If you keep ringing it this way,
+a whole summer's worth of work is about to end
+for that wind chime."
 4001027020810,摩美々,"んー
-咲耶はひと足先に秋らしいケドー",Hmm──\nIt seems Sakuya is one step ahead into\nautumn though.
+咲耶はひと足先に秋らしいケドー","Hmm──
+It seems Sakuya is one step ahead into
+autumn though."
 4001027020820,咲耶,"フフ、参ったな
-どうもセンチメンタルな風が吹くものでね","Fufu, you got me.\nSomehow sentimental winds keep blowing my way."
+どうもセンチメンタルな風が吹くものでね","Fufu, you got me.
+Somehow sentimental winds keep blowing my way."
 4001027020830,結華,"ええっ、何それ
-まだまだ秋には早いでしょ","Eeh, what's that about?\nIt's still too early for autumn, ain't it?"
+まだまだ秋には早いでしょ","Eeh, what's that about?
+It's still too early for autumn, ain't it?"
 4001027020840,結華,"まだ今月始まったばっかりだからね～？
-ごみ拾いとか、楽しそうなこともあるしさ","This month has just begun, right?\nThere're also things that seem to be fun,\nlike collecting trash."
+ごみ拾いとか、楽しそうなこともあるしさ","This month has just begun, right?
+There're also things that seem to be fun,
+like collecting trash."
 4001027020850,霧子,ふふ……,Fufu...
 4001027020860,霧子,"まだまだ……ずーっと……
-８月……",Still more to come...all the way through...\nAugust...
+８月……","Still more to come... all the way through...
+August..."
 4001027020870,恋鐘,"なんしよっと～？
-水羊羹、切ったとよ～",Whatcha all doin'～?\nI've done cutting up Mizu Yokan～
+水羊羹、切ったとよ～","Whatcha all doin'～?
+I've done cutting up Mizu Yokan～"
 4001027020880,結華,──あ,──ah
 4001027020881,一同,はーい……！,Yes──...!
 info,game_event_communications/400102702.json,

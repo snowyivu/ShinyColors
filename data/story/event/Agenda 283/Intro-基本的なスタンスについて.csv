@@ -1,57 +1,77 @@
 id,name,text,trans
 4001027010010,透,あー……,Aah...
 4001027010020,小糸,"と、透ちゃん……？
-それ……",To──Toru-chan...?\nThat's...
+それ……","To──Toru-chan...?
+That's..."
 4001027010030,透,"あった、ここに
-ミニ扇風機","Found it here,\nthe mini fan."
+ミニ扇風機","Found it here,
+the mini fan."
 4001027010040,小糸,"か、勝手に触っちゃ
-だめだよ……！",Yo──You shouldn't touch things like that\nwithout asking first...!
+だめだよ……！","Yo──You shouldn't touch things like that
+without asking first...!"
 4001027010050,円香,"あっつ……
-ここ、エアコンないの",It's so hot...\nIs there no air conditioner here?
-4001027010060,円香,いや、風が生ぬるい,"Not that, the wind from that thing\nis unpleasantly warm."
+ここ、エアコンないの","It's so hot...
+Is there no air conditioner here?"
+4001027010060,円香,いや、風が生ぬるい,"Not that, the wind from that thing
+is unpleasantly warm."
 4001027010070,雛菜,"ん～……
-色んなもの置いてあるね～",Mmm～...\nThere's all kinds of stuff stored here～
+色んなもの置いてあるね～","Mmm～...
+There's all kinds of stuff stored here～"
 4001027010080,小糸,"あ、雛菜ちゃんまで……！
-あんまり触っちゃ────","Ah, even Hinana-chan...!\nDon't mess around too much──"
+あんまり触っちゃ────","Ah, even Hinana-chan...!
+Don't mess around too much──"
 4001027010090,透,あ,Ah
 4001027010100,透,『お題ボックス』でしょ、これ,"This is a ""theme box"", right?"
 4001027010110,小糸,も、もう……！,S──Stop it...!
 4001027010120,雛菜,"あは～
-何それ～",Aha～\nWhat is that～
+何それ～","Aha～
+What is that～"
 4001027010130,透,"じゃじゃん
-──『私、実は△△にハマっていました』","Ta-daa\n──""Actually, I was hooked on △△"""
+──『私、実は△△にハマっていました』","Ta-daa
+──""Actually, I was hooked on △△"""
 4001027010140,透,"じゃ、小糸ちゃん
-『私、実は円周率にハマっていました』","Well then, Koito-chan\n""Actually, I was hooked on Pi"""
+『私、実は円周率にハマっていました』","Well then, Koito-chan
+""Actually, I was hooked on Pi"""
 4001027010150,小糸,"ぴぇ……！
-え、えっと────",Pyeh...!\nU──umm...
+え、えっと────","Pyeh...!
+U──umm..."
 4001027010160,小糸,3. 1415926535────,3. 1415926535────
 4001027010170,雛菜,"あは～！
-すご～い！",Aha～!\nAmaz～ing!
+すご～い！","Aha～!
+Amaz～ing!"
 4001027010180,円香,何ケタくらいまで言えるの？,How many digits can you recite?
 4001027010190,小糸,"な、何ケタかな……
-3. 14159265358979────",I──I am not sure...\n3. 14159265358979────
+3. 14159265358979────","I──I am not sure...
+3. 14159265358979────"
 4001027010200,透,"あはは、やばい
-ひとよひとよにひとみごくうでしょ","Ahaha, impressive.\nIt's hitoyohitoyonihitomigokuu right?"
+ひとよひとよにひとみごくうでしょ","Ahaha, impressive.
+It's hitoyohitoyonihitomigokuu right?"
 4001027010210,円香,"それルート２
-覚え方も間違ってるし",That one's for square root of 2.\nEven then you're remembering it wrong.
+覚え方も間違ってるし","That one's for square root of 2.
+Even then you're remembering it wrong."
 4001027010220,雛菜,"雛菜わかる～！
-みひとつよひとついくにむいみ～～",Hinana knows this one～!\nIt's mihitotsuyohitotsuikunimuimi～～
+みひとつよひとついくにむいみ～～","Hinana knows this one～!
+It's mihitotsuyohitotsuikunimuimi～～"
 4001027010230,透,え、そんなだっけ,Eh? Really?
-4001027010240,透,英語かー,So it's English
+4001027010240,透,英語かー,So it's English.
 4001027010250,小糸,"と、透ちゃん
-日本語だよ……",To──Toru-chan...\nIt's Japanese...
+日本語だよ……","To──Toru-chan...
+It's Japanese..."
 4001027010260,小糸,ぴゃ……！,Pyah...!
 4001027010261,一同,──────！,────!
 4001027010270,真乃,────あ……,──ah...
 4001027010280,真乃,ノクチル……さんたち？,"Everyone from Noctchill...-san, is inside?"
 4001027010290,透,もう１個ないかな,I wonder if there's another one like this.
 4001027010300,円香,"だから生ぬるい
-やめて","As I said, the wind it produces is unpleasantly warm.\nDrop it."
+やめて","As I said, the wind it produces is unpleasantly warm.
+Drop it."
 4001027010310,真乃,────……,──...
 4001027010320,灯織,"真乃？
-入らないの",Mano?\nYou are not going in?
+入らないの","Mano?
+You are not going in?"
 4001027010330,真乃,"あ、うん……っ
-────","Ah, um...\n──"
+────","Ah, um...
+──"
 4001027010340,雛菜,何これ～～～！,What is this～～～!
 4001027010350,小糸,わ、落ちちゃうよ……！,"Wait, it's going to fall...!"
 4001027010360,灯織,────あ,──ah
@@ -64,110 +84,157 @@ id,name,text,trans
 4001027010430,真乃,──お、お疲れさまです……っ,──Good...Good day to you...
 4001027010440,めぐる,やっほーー,Yaho────
 4001027010450,真乃,"お邪魔します……
-お掃除……ですか……っ",Sorry for interrupting...\nAre you...cleaning up the room...?
+お掃除……ですか……っ","Sorry for interrupting...
+Are you...cleaning up the room...?"
 4001027010460,小糸,"…………
-え、あ…………","......\nEh, ah......"
+え、あ…………","......
+Eh, ah......"
 4001027010470,雛菜,"あ～
-遊んでるだけですよ～？",Ah～\nWe're just playing around～
+遊んでるだけですよ～？","Ah～
+We're just playing around～"
 4001027010480,円香,"行こう
-私たち、邪魔",Let's go.\nWe're getting in the way.
+私たち、邪魔","Let's go.
+We're getting in the way."
 4001027010490,真乃,"あっ、う、ううん……違うんです……っ
-私たちが、後から来てるし……","Ah, u──umm...it's not like that...\nWe came here later anyway..."
+私たちが、後から来てるし……","Ah, u──umm...it's not like that...
+We came here later anyway..."
 4001027010500,灯織,"うん、ごめんなさい
-ちょっと、しまったものを取りに来ただけで……","Yeah, please excuse us.\nWe just came to grab something we left here..."
+ちょっと、しまったものを取りに来ただけで……","Yeah, please excuse us.
+We just came to grab something we left here..."
 4001027010510,めぐる,"すぐだから、気にしないでねー！
-えーと────","It shall be done in a moment, don't worry!\nLet's see──"
+えーと────","It shall be done in a moment, don't worry!
+Let's see──"
 4001027010520,めぐる,"あれっ？
-ないよ",Huh?\nIt's not here.
+ないよ","Huh?
+It's not here."
 4001027010530,灯織,"え？
-絶対あるはず……",Eh?\nIt must be here somewhere...
+絶対あるはず……","Eh?
+It must be here somewhere..."
 4001027010540,雛菜,"ん～？
-何か探してます～？",Hmm～?\nWhat are you looking for～?
+何か探してます～？","Hmm～?
+What are you looking for～?"
 4001027010550,真乃,"あっ、えっと……
-どうしても必要なものじゃないんですけど",Ah──Um...\nIt's not something really necessary though.
+どうしても必要なものじゃないんですけど","Ah──Um...
+It's not something really necessary though."
 4001027010560,真乃,ミニ扇風機────,A mini fan──
 4001027010570,透,あー……,Ah──...
 4001027010571,一同,それー！,That's it!
 4001027010580,めぐる,あー,Ah──
 4001027010590,めぐる,──あっ、あった,"Ah, another one."
 4001027010600,灯織,"また缶……
-確かに、このへんは落ちてるのかも、ごみ",A can again...\nIt sure seems a lot of trash were dropped\naround this area.
+確かに、このへんは落ちてるのかも、ごみ","A can again...
+It sure seems a lot of trash were dropped
+around this area."
 4001027010610,真乃,うん……,Yes...
 4001027010620,めぐる,"ふぅー！
-結構夢中になっちゃうね、ごみ拾い……！","Fuuh!\nIt turns out we're actually quite into collecting\ntrash, aren't we?"
+結構夢中になっちゃうね、ごみ拾い……！","Fuuh!
+It turns out we're actually quite into collecting
+trash, aren't we?"
 4001027010630,真乃,"ふふっ
-めぐるちゃん、いっぱい見つけててすごい……っ","Fufu\nYou've found so many, Meguru-chan, it's impressive..."
-4001027010640,真乃,……私、まだめぐるちゃんの半分くらいかな,I've collected...\nprobably about half as many as Meguru-chan has.
+めぐるちゃん、いっぱい見つけててすごい……っ","Fufu
+You've found so many, Meguru-chan, it's impressive..."
+4001027010640,真乃,……私、まだめぐるちゃんの半分くらいかな,"I've collected...
+probably about half as many as Meguru-chan has."
 4001027010650,めぐる,"えへへっ
-あっつーい！　集中力切れちゃうや！",Ehehe\nIt's so hot! I am going to lose my focus!
+あっつーい！　集中力切れちゃうや！","Ehehe
+It's so hot! I am going to lose my focus!"
 4001027010660,めぐる,"ふたりも扇風機回して回して！
 はい、あー────","Come, the two of you, take a spin at the fan!\nReady? Ah────"
 4001027010670,灯織,"──っ
-あー……！",──...\nAh──...!
+あー……！","──...
+Ah──...!"
 4001027010680,めぐる,真乃もっ,Mano as well!
 4001027010690,真乃,"──
-あー……っ",──\nAh──...
+あー……っ","──
+Ah──..."
 4001027010691,一同,────あははっ……,────Ahaha...
 4001027010700,真乃,"──あっ、見つけた
-ビン、回収……っ","──Ah, found one.\nBottle, retrieved..."
+ビン、回収……っ","──Ah, found one.
+Bottle, retrieved..."
 4001027010710,めぐる,"はいはーい
-ビンはこっち！",Okie dokie.\nBring the bottle over here!
+ビンはこっち！","Okie dokie.
+Bring the bottle over here!"
 4001027010720,真乃,"────
-あのっ",────\nErm...
+あのっ","────
+Erm..."
 4001027010730,真乃,"付き合ってくれて、
-ありがとう……っ",Thank you...\nfor coming along with me to do this...
+ありがとう……っ","Thank you...
+for coming along with me to do this..."
 4001027010731,灯織＆めぐる,……,......
 4001027010740,めぐる,"一緒にやりたいって言ったの、
-わたしたちだよっ",It was us who said that we would like to do\nthis together.
+わたしたちだよっ","It was us who said that we would like to do
+this together."
 4001027010750,灯織,"うん
-というか──","Yeah,\nor rather──"
+というか──","Yeah,
+or rather──"
 4001027010760,灯織,"『付き合ってる』なんて
-思ってないから","Coming along with you,\nthat's not how we feel about this at all."
+思ってないから","Coming along with you,
+that's not how we feel about this at all."
 4001027010770,真乃,"……っ
-う、うん……っ","...\nU──umm, I see..."
+う、うん……っ","...
+U──umm, I see..."
 4001027010780,真乃,じゃあ……,Well...
 4001027010790,真乃,やっぱり、ありがとう……っ,"Still, thank you..."
 4001027010800,めぐる,"そしたらわたしもっ
-ありがとう！",Then the same goes for us.\nThank you!
+ありがとう！","Then the same goes for us.
+Thank you!"
 4001027010810,灯織,"ありがとう、真乃
-楽しいよ","Thanks, Mano\nIt's a lot of fun."
+楽しいよ","Thanks, Mano
+It's a lot of fun."
 4001027010820,めぐる,うんっ,Yup!
 4001027010830,めぐる,"夏休みーって、
-感じがする────",Summer break is upon us!\nThat's how it feels like──
+感じがする────","Summer break is upon us!
+That's how it feels like──"
 4001027010840,真乃,"──あのね……
-他のみんなは、どうだと思う……？","──Erm...\nthen, how's it like for the others...?"
+他のみんなは、どうだと思う……？","──Erm...
+then, how's it like for the others...?"
 4001027010850,灯織,え？,Eh?
 4001027010860,真乃,"プロデューサーさんが……
-せっかくなら、事務所のみんなでやってみようって","Producer-san said...\nif we're doing this, might as well let everyone\nfrom the office take part in it."
+せっかくなら、事務所のみんなでやってみようって","Producer-san said...
+if we're doing this, might as well let everyone
+from the office take part in it."
 4001027010870,めぐる,ごみ拾いを？,You mean collecting trash?
 4001027010880,真乃,うん……,Yes...
 4001027010890,真乃,"ここの地域にもお世話になってるし
-いいレクリエーションにもなるんじゃないかって","Since this area has helped us out a lot,\nand it could be a good recreation for us."
+いいレクリエーションにもなるんじゃないかって","Since this area has helped us out a lot,
+and it could be a good recreation for us."
 4001027010900,めぐる,おおっ！,Oooh!
 4001027010910,真乃,"そ、その……
-みんなでやれたらとってもうれしいなって思うし──",I──I mean...\nI would be really glad if everyone could do\nthis together──
+みんなでやれたらとってもうれしいなって思うし──","I──I mean...
+I would be really glad if everyone could do
+this together──"
 4001027010920,真乃,"みんなもきっと、
-うんって言ってくれるって思うんだけど……","I think, everyone would sure say yes to this proposition,\nhowever..."
+うんって言ってくれるって思うんだけど……","I think, everyone would sure say yes to this proposition,
+however..."
 4001027010930,真乃,"でも、暑いし、忙しいし……
-我慢したり無理しちゃう人、いないかなって……","However, it's hot out here, plus everyone is busy...\nI am worried if there are some who are putting up\nwith this and forcing themselves..."
+我慢したり無理しちゃう人、いないかなって……","However, it's hot out here, plus everyone is busy...
+I am worried if there are some who are putting up
+with this and forcing themselves..."
 4001027010940,灯織,真乃……,Mano...
 4001027010950,真乃,"私が、勝手に始めたことなのに
-その……────","This is something that I started of my own accord,\nand yet..."
+その……────","This is something that I started of my own accord,
+and yet..."
 4001027010960,めぐる,えへへっ,Ehehe.
 4001027010970,めぐる,"誰かを迷わせたり困らせたりするために
-やりたいわけじゃないもんねっ","I see, at the end of the day, we're not doing this in\norder to lead somebody astray or bother someone."
+やりたいわけじゃないもんねっ","I see, at the end of the day, we're not doing this in
+order to lead somebody astray or bother someone."
 4001027010980,真乃,う、うん……っ,Ye──Yeah...
 4001027010990,灯織,"確かに、こういうことって
-ちょっと断りにくかったりするかもしれないし","Come to think about it, this kind of thing is\nindeed a bit hard to turn down."
+ちょっと断りにくかったりするかもしれないし","Come to think about it, this kind of thing is
+indeed a bit hard to turn down."
 4001027011000,灯織,"……
-プロデューサーに言ってみよう",...\nGo talk to Producer about this then.
+プロデューサーに言ってみよう","...
+Go talk to Producer about this then."
 4001027011010,灯織,真乃は──,Mano is──
-4001027011020,灯織,私たちは、好きでやってるだけだから,"After all,\nwe are doing this because we would love to."
+4001027011020,灯織,私たちは、好きでやってるだけだから,"After all,
+we are doing this because we would love to."
 4001027011030,めぐる,"うんうんっ
-みんながわたしたちに付き合わなきゃってなるのはなしね！","Yeah yeah,\nit shouldn't be us forcing everyone to come along!"
+みんながわたしたちに付き合わなきゃってなるのはなしね！","Yeah yeah,
+it shouldn't be us forcing everyone to come along!"
 4001027011040,真乃,ふふっ、うん,"Fufu, right."
 4001027011050,真乃,そうする……っ,Let's do so...
 4001027011060,真乃,"ありがとう……
-私たちって、言ってくれて────","Thank you...\nfor saying ""we""──"
+私たちって、言ってくれて────","Thank you...
+for saying ""we""──"
 info,game_event_communications/400102701.json,
 Translator,Kafuka,

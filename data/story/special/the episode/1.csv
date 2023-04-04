@@ -1,0 +1,71 @@
+id,name,text,trans
+special_communications4901039018,留守電の応答音,"『ただいま、留守にしております
+ご用の方は、発信音の後に──────』","""We're unable to answer the phone right now.
+Leave your message after the beep──────"""
+special_communications49010390111,ルカ,────────,────────
+special_communications49010390118,ルカ事務所スタッフ１,"────はい、もしもし……あっ
+ええ、はい、申し訳ございません……！　ええ────","────Yes, hello... Oh.
+Yes, yes, our apologies...! Yes────"
+special_communications49010390120,ルカ事務所スタッフ２,"……ええ、斑鳩の件ですね、大変申し訳ございません……
+…………ええ、そうなんです、ええ────","...Yes, this is about Luca, isn't it?
+We're terribly sorry about all this...
+...Yes, we understand, yes────"
+special_communications49010390122,ルカ事務所スタッフ３,"ちょっと、ねぇ、３番も！　こっちもルカの件入ってる！
+木曜レギュラーのあれ……どうしとく？　１時間後戻せる？","Hey, on line 3! They're asking about Luca too!
+It's about her regular Thursday appearance...
+What do we do? Push it back an hour?"
+special_communications49010390124,マネージャー,"あのっ……はい……
+すみません、30分後折り返しでお伝えください……！","Well... Sure...
+Sorry, I'll call you back in 30...!"
+special_communications49010390127,ルカ,──────────────────,──────────────────
+special_communications49010390129,SNSの投稿,『ルカ。』,"""Luca."""
+special_communications49010390131,SNSの投稿,『ルカの声が聞こえないよ。』,"""I can't hear your voice, Luca."""
+special_communications49010390133,SNSの投稿,『ねえルカ。夜が終わらないの。ルカが見えないの。』,"""Hey Luca. The night's not over.
+I can't see you, Luca."""
+special_communications49010390138,ルカ,────────,────────
+special_communications49010390143,ルカ,──────うるせぇ──────うるせぇな──────,"──────Shut up──────
+Just shut up already──────"
+special_communications49010390144,ルカ,うるせぇ──────,Shut up──────
+special_communications49010390148,ルカ,"なんの音なんだよ……………………
+────────────","What's with that noise...
+────────────"
+special_communications49010390153,マネージャー,ルカ……！　ルカ、開けて……！,"Luca...! Luca, open up...!"
+special_communications49010390156,ルカ,何日も,How many days...
+special_communications49010390159,ルカ事務所スタッフ４,"────あの、ええ……大変申し訳ございません
+頂いていたオファーについても……ええ…………","────Er, yes... We're terribly sorry.
+Now, about the accepted offers... Yes..."
+special_communications49010390162,ルカ事務所スタッフ５,"ええ、弊社アナウンスの通り……斑鳩は今…………
+はい、ええ……しばらく見送らせていただけましたら──","Yes, per the official announcement...
+Luca is currently... Yes, of course...
+Sorry, but could you please hold?──"
+special_communications49010390165,ルカ,"何日も
+何日も何日も","How many days...
+How many days, how many days..."
+special_communications49010390167,SNSの投稿,『ルカ、ルカはもういないの？』,"""Luca, are you still gone?"""
+special_communications49010390169,SNSの投稿,"『ルカは暗いとこでケガしてるの。
+この世の誰も治せないの。同じなの。あたしと。』","""Luca's in a dark place, in pain.
+Nobody in the world can heal her.
+We're the same. Her and I."""
+special_communications49010390173,マネージャー,"────ルカ、食べてね……
+置いとくから…………","────Please eat, Luca...
+I'll leave this here for you..."
+special_communications49010390176,ルカ,"もう
+何日かわからないくらい続いて","God,
+I don't even know how long this has gone on..."
+special_communications49010390178,雑誌記事見出し,『八雲なみトリビュートギグ、狂熱の３時間を完全レポ』,"""Nami Yakumo Tribute Gig,
+an Enthusiastically Complete 3-Hour Report"""
+special_communications49010390180,美琴,『それじゃね』,"""That's it, I guess..."""
+special_communications49010390182,ルカ,────────,────────
+special_communications49010390186,ルカ事務所スタッフ６,────局の件、代役立ったそうです……！,"────Oh, they're sending in a replacement...!"
+special_communications49010390189,ルカ,それが、いつか,"And then, one day..."
+special_communications49010390192,ルカ事務所スタッフ７,"────はい、です……部長許可で、あっちの方は
+トップの子たちを出す形で先方もご納得いただいて────","────Yes, of course... With the head chief's
+blessing, we'll be sending over one of our top
+talents────"
+special_communications49010390195,ルカ,雨の音に変わってた,The sound turned to rain.
+special_communications49010390199,ルカ,──────────────────,──────────────────
+special_communications490103901102,ルカ,この音もやんだら,And when it stops...
+special_communications490103901104,ルカ,たぶん──────,Then maybe──────
+special_communications490103901108,マネージャー,ルカ…………！,Luca...!
+info,special_communications/490103901.json,
+Translator,K,
