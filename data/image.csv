@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,68
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,69
 images/ui/common/parts.json_image,common_parts.png,40
 images/ui/my_page/parts.json_image,my_page.parts.png,42
 images/ui/fes/parts.json_image,fes_parts.png,37
@@ -8,7 +8,7 @@ images/ui/option/parts.json_image,ui_option_parts.png,25
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,23
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,23
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,24
 images/ui/gasha/parts.json_image,gasha_parts.png,26
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
@@ -154,7 +154,7 @@ images/content/produce_auditions/banner/002.jpg,produce_auditions_banner_002.jpg
 images/content/produce_auditions/banner/001.jpg,produce_auditions_banner_001.jpg,7
 images/content/produce_auditions/banner/006.jpg,produce_auditions_banner_006.jpg,7
 images/content/produce_auditions/banner/007.jpg,produce_auditions_banner_007.jpg,7
-images/ui/produce_item/parts.json_image,produce_item_parts.png,18
+images/ui/produce_item/parts.json_image,produce_item_parts.png,19
 images/content/produce_auditions/banner/015.jpg,produce_auditions_banner_015.jpg,7
 images/content/produce_auditions/banner/013.jpg,produce_auditions_banner_013.jpg,7
 images/content/produce_auditions/banner/017.jpg,produce_auditions_banner_017.jpg,7

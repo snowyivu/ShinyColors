@@ -1,0 +1,126 @@
+id,name,text,trans
+3020011010010,off,──────ぺぺベンベンベン…………,──────Pe pe ben ben ben...
+3020011010020,off,ぺぺベンベンベン…………,Pe pe ben ben ben...
+3020011010030,off,ぺぺ──────,Pe pe──────
+3020011010040,あさひ,──────あっ,──────Ah.
+0000000000000,イベントスタッフ,"────はーい、芹沢さんお待たせです
+サイン、書けましたー？","────Heeey, sorry to keep you waiting, 
+Serizawa-san. 
+Have you signed everything?"
+3020011010050,あさひ,"──っ
+あ……書いたっす","──Oh.
+Ah... I did."
+0000000000000,イベントスタッフ,"あらー、ありがとうございます！
+それじゃもらってっちゃいますねー","My, thank you very much!
+I'll be taking these then, alright."
+0000000000000,イベントスタッフ,"────あ、プロデューサーさんはまだノクチルさんたちの
+お仕事見てるので、しばらく待っててあげてください？","────Oh, Producer-san is still looking over
+Noctchill's job at the moment, so would you wait
+for him for a little while?"
+3020011010060,あさひ,"……っ
+待つ────","...h.
+Wait────"
+3020011010070,off,ベンベンベン、ベン、ベン、ベン、ベン──────,"Ben ben ben, ben, ben, ben, beeen──────"
+3020011010080,あさひ,──────,──────
+3020011010090,あさひ,────それって、自由時間ってことっすか？,────Does that mean it's free time now?
+0000000000000,イベントスタッフ,"……え？
+あ、うーん……そうかなぁ？","...Eh?
+Ah, hmm... I guess you could say that?"
+3020011010100,off,……べ、べ、べ、ベン──────,...Beh beh beh beeen──────
+0000000000000,イベントスタッフ,────何かお急ぎでした……？,────Do you have something to attend to...?
+3020011010110,あさひ,自由時間だったら、ちょっと行ってくるっす！,"If it's free time, then I'm gonna go out for a bit!"
+0000000000000,イベントスタッフ,えっ……！,Eh...!
+3020011010120,off,べ、べーべー、ベッ、ベーン──────,"Beh beh beh, beh beeen──────"
+3020011010130,あさひ,逃げたっす……！,It ran away...!
+0000000000000,イベントスタッフ,──────えっ,──────Eh.
+3020011010131,あさひ,さっき、そこから────,From there────
+3020011010140,あさひ,クマが逃げ出したっすよ…………！,A bear escaped and ran away...!
+3020011010150,透,ベベンッ,Beh beeen.
+3020011010160,透,…………,……
+3020011010170,あさひ,…………,……
+3020011010180,透,…………,……
+3020011010190,あさひ,…………っ,...Oh.
+0000000000000,現場スタッフ,"────え、クマ？
+……ああー、アイドルの子？","────What? A bear?
+...Ahh, that idol girl?"
+3020011010200,透,…………,……
+3020011010210,あさひ,…………,……
+0000000000000,現場スタッフ,あははっ、外行っちゃったの？,"Ahaha, did she go out?"
+0000000000000,現場スタッフ,"着ぐるみ着っぱなしで暑そうだったからさ
+休憩どうぞって伝えたんだけど────","I figured it'd be hot to keep that costume on, 
+so I told her to take a break, but────"
+3020011010220,透,…………おーい,...Oii.
+3020011010230,透,ついてくんなー,Don't follow meee.
+3020011010240,あさひ,"わたしっすか
+ついてってないっす","You talkin' to me?
+I'm not following you."
+3020011010250,透,"……
+じゃ、見んなー","…
+Then, don't stare at meee."
+3020011010260,あさひ,見てるんじゃないっす,I'm not staring at you.
+3020011010270,透,……,…
+3020011010280,あさひ,調べてるっすよ,I'm observing you.
+3020011010290,あさひ,"やっぱり
+透ちゃんっす！","Just as I thought, 
+you're Toru-chan, right?!"
+3020011010300,透,……,…
+3020011010310,透,ちがーう,Nooope.
+3020011010320,あさひ,……っ,...Oh.
+3020011010330,あさひ,"えっ、そうっすよ
+透ちゃんの声っす","Eh, but,
+you sound like Toru-chan."
+3020011010340,透,ちがう,Wrong.
+3020011010350,あさひ,"……っ
+えっ……","...Uh.
+Eh..."
+3020011010360,あさひ,違うっすか……！,You're not...!?
+3020011010370,透,ちがうね,Nuh-uh.
+3020011010380,透,……はぁー,...Haa.
+3020011010390,透,──────ふー…………,──────Phew...
+3020011010400,あさひ,やっぱり透ちゃんっす！,"I knew it was you, Toru-chan!"
+3020011010410,透,てぃがう,yoU're wRong.
+3020011010420,あさひ,なんで違うって言うっすか,Why'd you keep saying it's not you?
+3020011010430,透,"え？
+んー……","Eh?
+Mn..."
+3020011010440,あさひ,怒られるっすか？,Will they get mad at you?
+3020011010450,透,え？,Eh?
+3020011010460,あさひ,"仕事の時に、外行ったりしたら
+怒られるっす","They're gonna get mad at you
+for going out when you're working."
+3020011010470,透,え、あー……,Eh... Ahh...
+3020011010480,透,イエス,Yes.
+3020011010490,透,じゃ、替わろ,"Then, let's swap."
+3020011010500,あさひ,えっ,Eh.
+3020011010510,透,半分替わろ──────,Let's swap for half──────
+3020011010520,あさひ,────うわっ、重い……,"────Uwa, it's heavy..."
+3020011010530,透,んー……ふふっ,Mhm... Fufu.
+3020011010540,透,"怒られてよ、半分
+一緒に","Get scolded with me.
+Half and half."
+3020011010550,あさひ,"わたしは怒られないっすよ
+自由時間っす","I'm not gonna get scolded.
+It's my free time now."
+3020011010560,透,"えー
+でも私じゃん、半分。今","Ehh.
+But you're half me. Right now."
+3020011010570,あさひ,"……？
+勝手にかぶせたっすよ","...?
+But you're the one that put this on me."
+3020011010580,透,えー,Eeehhh.
+3020011010590,あさひ,なんでここ来たっすか,Why'd you come here?
+3020011010600,透,え、んー……,Eh? Mn...
+3020011010610,透,"……なんか、ここっていうか
+んー……","...Rather than ""here"", it's more like...
+Mn..."
+3020011010620,透,なんだっけ、この曲,"What was it again? This song.
+"
+3020011010630,透,────まぁ、行こ,"────Well whatever, let's go."
+3020011010640,あさひ,帰るっすか,Are you going back?
+3020011010650,透,え、ううん,"Eh, nahh."
+3020011010660,透,行く,I'll be off.
+3020011010670,透,"どこ行きたいか……
+思い出すまで","Until I remember...
+where it was I wanted to go."
+info,produce_events/302001101.json,
+Translator,OrangeKabocha,
