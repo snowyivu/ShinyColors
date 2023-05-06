@@ -1,0 +1,88 @@
+id,name,text,trans
+0000000000000,プロデューサー,…………！？,............!?
+0000000000000,プロデューサー,今何かすごい音したけど──……,I just heard something loud──......
+1025003090010,美琴,…………,............
+0000000000000,プロデューサー,"美琴？
+どうした、大丈夫か？","Mikoto?
+What's wrong? Are you okay?"
+1025003090020,美琴,なんか、爆発したみたい,I think something exploded.
+1025003090030,美琴,"ごめんねプロデューサー
+壊れちゃったかも","I'm sorry, Producer.
+I might have broken it."
+0000000000000,プロデューサー,え……あ、レンジか,Oh... It's the microwave.
+0000000000000,プロデューサー,"うーん
+壊れてはなさそうだけど……","Hmm.
+It's not broken, at least..."
+1025003090040,美琴,"……そう？　よかった
+何もしてないのに壊れちゃったかと思った","......Really? That's good.
+I thought it was broken even when I didn't do anything."
+0000000000000,プロデューサー,"何もしてないってことは無いだろ
+何かしたからそうなったんだろうし","You must have done something, though.
+It only became like this because you did something."
+1025003090050,美琴,"……そっか
+じゃあ、ごめんね","...I see.
+Then, I'm sorry."
+0000000000000,プロデューサー,"いや、謝って欲しいわけじゃなくてさ
+美琴を責めてるわけでもない","It's okay. I wasn't asking you to apologize.
+I'm not blaming it on you."
+0000000000000,プロデューサー,……というか、何を温めてたんだ？,"...but anyway, what were you trying to warm up?"
+0000000000000,プロデューサー,──これは……なんだ？,──What is... this?
+1025003090060,美琴,"なんか、マグカップとレンジで
+誰でも簡単にケーキができるんだって","Well, I heard that it's so easy to make a cake with a mug and a microwave, anyone can do it."
+1025003090070,美琴,実家に戻ったときに買ったの,I bought this when I was back at my parents' house.
+0000000000000,プロデューサー,ケーキ……,Cake...
+1025003090080,美琴,"……でも、できなかったから嘘みたいだね
+このパッケージの文言","...but I couldn't do it, so I guess they lied on the packaging."
+1025003090090,美琴,私が特別下手だったのかもしれないけど……,Or I was just exceptionally bad at it...
+0000000000000,プロデューサー,"はは……だけど珍しいな
+こういう物、美琴が作って食べようとしてるの","Haha... It's rare to see you make something like this to eat, though."
+1025003090100,美琴,"……ううん
+本当はプロデューサーにあげようと思って、お土産","...No.
+I was actually going to give it to Producer as a souvenir."
+1025003090110,美琴,ダメになっちゃったけど,It turned out to be a bad idea.
+0000000000000,プロデューサー,…………！,............!
+0000000000000,プロデューサー,"そうか
+……それなら少し、食べてみようかな","I see.
+...I'll try some of it, then."
+1025003090120,美琴,"え……
+やめておいた方がいいと思うけど","Eh...
+I don't think you should."
+1025003090130,美琴,……本当に食べるの……？,... Are you really going to eat it...?
+0000000000000,プロデューサー,"──……ん
+焦げてるな","──......mm.
+It's burnt."
+1025003090140,美琴,"……やっぱり
+ごめんね、上手くできなくて","...I knew it.
+Sorry, I couldn't make it right."
+1025003090150,美琴,"何がいけなかったんだろう
+ただ混ぜて、レンジに入れるだけだと思ったのに","I don't know what went wrong.
+I thought I just had to mix it up and put it in the microwave."
+0000000000000,プロデューサー,"でも少し甘いよ
+ほろ苦いといえば、そうかもしれない","It's a little sweet, though.
+Bittersweet, you might say."
+1025003090160,美琴,"本当？
+食べられるの？","Really?
+So it's edible?"
+0000000000000,プロデューサー,まあ、すごく美味いとは言えないけど,"Well, I can't say it tastes very good."
+1025003090170,美琴,……そうだよね,...Right.
+1025003090180,美琴,"もうやめておくね、こういうの
+向いてないみたいだから","I should stop trying.
+I don't think I'm cut out for this kind of thing."
+0000000000000,プロデューサー,"……はは、そう言わないで
+美琴の気が向いたら、また挑戦してくれ","......Haha, don't say that.
+When you're ready, give it another shot."
+0000000000000,プロデューサー,それか、今度は一緒に作ろうか,"Or maybe, we can make it together next time."
+1025003090190,美琴,え……,Eh...
+0000000000000,プロデューサー,"こんなことくらい、いくら失敗してもいいよ
+なんでも完璧である必要はないし","It doesn't matter how many times you may fail at this.
+Nothing has to be perfect."
+0000000000000,プロデューサー,また失敗したとしても、また俺が食べるから,"If you fail again, I'll eat it again."
+1025003090200,美琴,…………,............
+0000000000000,プロデューサー,──ごちそうさま,──Thanks for the food.
+1025003090210,美琴,……全部、食べたんだ,...You ate the whole thing.
+0000000000000,プロデューサー,"うん
+なんていうか","Yeah.
+How should I say it..."
+0000000000000,プロデューサー,人生みたいな味だったよ,It tasted just like life.
+info,produce_events/102500309.json,
+Translator,Ruru,

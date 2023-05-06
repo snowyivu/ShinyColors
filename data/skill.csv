@@ -4,7 +4,7 @@ Excellent$num倍アピール,Excellent $1x Appeal,
 思い出ゲージ増加量$percentDOWN,Memory Gauge Increase $1DOWN,
 [$num回],[$1x],
 メンタルが0になった時$percent回復,$1 Chance to Revive From 0 Mental,
-"自身にメランコリー効果$percent付与","You Receive $1 Melancholy",
+自身にメランコリー効果$percent付与,You Receive $1 Melancholy,
 全ユニットにメランコリー効果$percent付与,All Units Receive $1 Melancholy,
 ライバルにメランコリー効果$percent付与,Rival Units Receive $1 Melancholy,
 $noun$percentUP,$1 $2 UP,
@@ -59,8 +59,8 @@ $noun＆$noun$percentUP,$1＆$2 $3 UP,
 [$nounが多い程効果UP],[Stronger at High $1] ,
 [超過分は思い出ゲージに変換],[Excess is converted into Memory Gauge] ,
 トラブル発生率,Trouble Rate,
-必ず最後にアピールを行い,"Always Appeal Last",
-必ず最初にアピールを行い,"Always Appeal First",
+必ず最後にアピールを行い,Always Appeal Last,
+必ず最初にアピールを行い,Always Appeal First,
 $noun滞在率$noun,$1 Room Rate$2,
 興味$percentUP,Interest $1UP,
 興味$percentDOWN,Interest $1DOWN,
@@ -97,8 +97,8 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
 限定スキルを解放,Unlocked Limited Skills,
 全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
-"ごくごく稀に現在の興味値に関わらず一気に満足させる","Extremely Extremely Rare Chance Of Instantly Captivating Judge"
-"ごく稀に現在の興味値に関わらず一気に満足させる","Extremely Rare Chance Of Instantly Captivating Judge"
+ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Extremely Rare Chance Of Instantly Captivating Judge,
+ごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance Of Instantly Captivating Judge,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
@@ -165,7 +165,7 @@ Viレッスン,Vi Lesson,noun
 全アイドルと七草はづきの絆UP,Increase Bonds of all Idols and Hazuki,text
 限定スキル解放,Unlock Limited Skill,text
 審査員スキル,Judge Skill,text
-思い出アピール未修得の状態です,Memory Appeal Unavailable,text
+思い出アピール未習得の状態です,Memory Appeal Unavailable,text
 真乃,Mano,name
 灯織,Hiori,name
 めぐる,Meguru,name
@@ -236,3 +236,14 @@ Viレッスン,Vi Lesson,noun
 すべてのアピール値を$percentUP,All Appeal Effect $1,
 フェスユニット編成時に$nounボーナスを$percent,$2 $1 Bonus when Setting Up Fes Units,
 フェスユニット編成時に全基礎能力へのボーナスを$percent,All Base Values $1 when Setting Up Fes Units,
+団子より,Instead of Dango,
+団子より＋,Instead of Dango+,
+団子より＋＋,Instead of Dango++,
+団子より＋＋＋,Instead of Dango+++,
+[花より]団子より,[Flowers]Instead of Dango,
+ふたりで叫ぶ合言葉,The Word That We Shout,
+ふたりで叫ぶ合言葉＋,The Word That We Shout+,
+ふたりで叫ぶ合言葉＋＋,The Word That We Shout++,
+ふたりで叫ぶ合言葉＋＋＋,The Word That We Shout+++,
+[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories]The Word That We Shout,
+思い出アピール未習得,Memory Appeal Unavailable,

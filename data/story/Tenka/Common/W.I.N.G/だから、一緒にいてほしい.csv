@@ -1,44 +1,48 @@
 id,name,text,trans
-6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol you're responsible for?"
+6902001070010,社長,お前、担当アイドルのことをどう思っている？,"So, what do you think of the idol that you've been
+looking after?"
 0000000000000,プロデューサー,"……たしかに負けてしまいましたけど、
-彼女こそが最高のアイドルだと思っています","...Well, we may have failed, but I think she's the most incredible idol she can be."
+彼女こそが最高のアイドルだと思っています","...Well, we may have lost,but I think she's quite the amazing idol."
 6902001070020,社長,……！　そうか……,"......! Really, now..."
 6901001070010,はづき,"ふふ
-社長が聞きたかった言葉、そのまま出てきましたね",Eheh. You told the president exactly what he was hoping to hear.
+社長が聞きたかった言葉、そのまま出てきましたね","Eheh. You told the president exactly what he was
+hoping to hear."
 6901001070020,はづき,"もし違う言葉が出てきたら、
-説教してやるって言って聞かなかったのに","If you said anything else, he had quite the lecture prepared for you. "
+説教してやるって言って聞かなかったのに","If you had said anything else, he had quite the
+lecture prepared for you. "
 6902001070030,社長,"……うるさいぞ。とにかく、
-そういうことなら私から言うことはない","...Shut up. Anyway, in that case there's nothing I need to say to you. "
+そういうことなら私から言うことはない","...Shut up. Anyways, in that case there's nothing I
+need to say to you. "
 6902001070040,社長,"さあ、早くその最高のアイドルに
-会いに行ってこい",What you need to do now is go and meet with that incredible idol of yours.
+会いに行ってこい","What you need to do now is go and meet with that
+incredible idol of yours."
 0000000000000,プロデューサー,……はい！,...Of course!
 6015001070010,甜花,"はぁ……はぁ……
-ふぅ……","Haa... Haa...
-Phew..."
+ふぅ……","Haa...... Haa......
+Phew......"
 0000000000000,プロデューサー,"甜花……ひとりで練習してたのか……
-悔しい気持ちはわかるけど、無理はするな","Tenka... You're practicing on your own...
-I get that it must be frustrating to you, but don't overdo it."
+悔しい気持ちはわかるけど、無理はするな","Tenka... You've been practicing all on your own...
+I get that you'refrustrated, but don't overdo it."
 6015001070020,甜花,"プロデューサーさん……
-でも……","Producer...
-But..."
+でも……","Producer-san......
+But......"
 6015001070030,甜花,"甜花……本当に悔しくて……
-どうすればいいのかわかんない……","Tenka... Is really frustrated...
-She doesn't know what to do..."
+どうすればいいのかわかんない……","Tenka...... is really frustrated......
+she doesn't know what to do......"
 0000000000000,プロデューサー,"だからって、甜花もつらいだろう
-休むときには休んだほうがいいぞ","That's why Tenka is tired too, right?
-You better rest if you need to."
+休むときには休んだほうがいいぞ","That's what i mean, you're in pain......
+I think it'd be better if you were resting right now."
 6015001070040,甜花,"でも……このままじゃ、いけないんだって……
-それだけはわかるから……","But... If this keeps up, it won't be possible...
-Even that, Tenka knows..."
+それだけはわかるから……","But...... she can't let it... continue like this......
+that's all she really knows right now......"
 0000000000000,プロデューサー,"（……甜花は本当に成長したんだな
-アイドルとしても……）","(...Tenka really grew up
-as an idol.)"
+アイドルとしても……）",(...Tenka really grew into a fine idol.)
 6015001070050,甜花,"だから……レッスン、する……
-プロデューサーさん……見てて……","That's why... Tenka will do lessons...
-Producer... Please look..."
+プロデューサーさん……見てて……","That's why...... please watch over her......
+as she does her lessons...... Producer-san......"
 0000000000000,プロデューサー,"……ああ、わかった。でも今日だけじゃない
-甜花が活躍できるように、これからも傍で支えていくよ","...Alright, I got it. But not just for today,
-from now on and forward, I'll continue to support Tenka's activities."
-6015001070060,甜花,にへへ……プロデューサーさん、ありがと……,"Nihehe... Producer, thank you..."
+甜花が活躍できるように、これからも傍で支えていくよ","...Sure, you got it. But not just for today,
+I'll be right here with you through your efforts."
+6015001070060,甜花,にへへ……プロデューサーさん、ありがと……,Nihehe... thank you...... Producer-san......
 info,produce_events/601500107.json,
 Translator,,

@@ -53,7 +53,7 @@ half-baked Kansai accent is so bad my stomach is
 turning."""
 0000000000000,お笑い,"えっ、あれーっ
 もしかしてこの差し入れ────","Huh, hold on.
-Does that mean this was brought by────"
+You're saying she brought this────"
 0000000000000,ダンストレーナー,痛めつけたいだけなんじゃないかなー？,"It just seems like she's asking to be hurt, you know?"
 1024003040040,にちか,……３────いっ…………,...3────ouch......
 0000000000000,お笑い,これ、アイツ持ってきたやつなんすかー！？,Did she bring all this stuff!?
@@ -93,14 +93,14 @@ Actually, nevermind. Not today."
 Just because I'm here bi-weekly now...
 there's no one else..."
 0000000000000,お笑い,"忙しそーな雰囲気ってか、真剣ぽいムード出してたし……
-ジャマになっちゃいかんすわ","She looks busy and is in a serious mood...
+ジャマになっちゃいかんすわ","She looked busy and was always in a serious mood...
 I don't wanna get in her way ya know."
 0000000000000,番組スタッフ,"あ、それはなんとなくそうかも……
 ────でも、気遣い見せられるなんてらしくなーい！","Oh, you might be right actually...
 ────Though, it's unlike you to show some
 consideration!"
 0000000000000,お笑い,"えーっ
-気遣いねー言葉だなーっ","Ehh.
+気遣いねー言葉だなーっ","Heey.
 Now that's just mean."
 1024003040110,にちか,"…………あたりまえか
 こんな……微妙な………………","......Of course it's like this.
@@ -111,7 +111,7 @@ All because... of those elaborate refreshments......"
 then this isn't where you should be."
 0000000000000,プロデューサー,"──────もっと……もっと違うものを
 つかんでくれてるのかなと思っていたんです","──────I was thinking that she might be grasping
-on something... Something more unique."
+onto something... Something more unique."
 1024003040130,にちか,忘れられるスピードには、追いつけないから,I can't catch up to the speed of being forgotten.
 1024003040140,にちか,"やっぱり……
 やっぱり練習しかない…………","I really... really have to practice, afterall......"
@@ -122,4 +122,4 @@ that's all she has right now."
 それに…………すがるしか",────She can only cling to... what's hurting herself.
 0000000000000,プロデューサー,…………でも,"......However,"
 info,produce_events/102400304.json,
-Translator,,
+Translator,Ruru,

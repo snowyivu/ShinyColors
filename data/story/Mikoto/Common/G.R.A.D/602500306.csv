@@ -1,0 +1,19 @@
+id,name,text,trans
+6025003060010,美琴,"……ごめんね
+プロデューサー","...Sorry, Producer."
+0000000000000,プロデューサー,いや、美琴が謝ることじゃないよ,You don't have to apologize.
+0000000000000,プロデューサー,"それに、俺は良いステージだったと思う
+美琴はどう思った？","Besides, I think it was a good performance.
+What do you think?"
+6025003060020,美琴,私は──…………,I──............
+6025003060030,美琴,"…………
+どうかな、わからないや","............
+I'm not sure. I don't know."
+0000000000000,プロデューサー,……そうか,...It's alright.
+6025003060040,美琴,…………,............
+0000000000000,プロデューサー,じゃあ、また頑張っていこう,"Well then, let's try again."
+0000000000000,プロデューサー,"美琴が良かったって思えるステージが
+できるように",I hope that we can create a performance that you're happy with.
+0000000000000,プロデューサー,一緒にさ,Together.
+info,produce_events/602500306.json,
+Translator,Ruru,

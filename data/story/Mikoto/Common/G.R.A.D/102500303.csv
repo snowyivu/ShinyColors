@@ -1,0 +1,93 @@
+id,name,text,trans
+1025003030010,美琴,…………,............
+0000000000000,美琴の母,……美琴,......Mikoto.
+1025003030020,美琴,……！,......!
+0000000000000,美琴の母,片付け？,Tidying up?
+1025003030030,美琴,"……うん、そんなところ
+ごめんね、うるさかった？","...Yeah, something like that.
+Sorry, was that too loud?"
+0000000000000,美琴の母,"ううん、大丈夫
+咳、少しは良くなった？","No, it's fine.
+Is your cough a little better?"
+1025003030040,美琴,どうかな、わからないけど,I'm not sure. I don't know.
+0000000000000,美琴の母,"…………
+ピアノ、調律してもらおうか","............
+I'll have the piano tuned for you."
+1025003030050,美琴,え……？,Eh......?
+0000000000000,美琴の母,ずっと居てもいいのよ、美琴,"You can stay here from now, Mikoto."
+1025003030060,美琴,──…………,──............
+1025003030070,美琴,"どこに？
+私の部屋も無いのに","Where?
+I don't even have my own room."
+1025003030080,美琴,この家,In this house.
+0000000000000,美琴の母,…………,............
+1025003030090,美琴,"いいの
+私、やっぱりもう帰らなきゃ","It's okay.
+I have to go back, afterall."
+1025003030100,美琴,"……帰りたいの
+だから調律しなくていいし、なんなら処分してもいい","...I want to go back there.
+So, I don't it to be to tuned. Feel free to get rid of it."
+0000000000000,美琴の母,…………そう,............I see.
+1025003030110,美琴,"ごめんね
+急に来たりして","Sorry.
+I didn't mean to come on such short notice."
+0000000000000,美琴の母,"ううん、応援してるから
+お父さんも、お母さんも","It's fine. We're rooting for you.
+Both your father and I."
+1025003030120,美琴,…………,............
+0000000000000,美琴の母,……頑張ってね,......Do your best.
+1025003030130,美琴,"うん
+……ありがとう","Yeah.
+......Thank you."
+1025003030140,美琴,…………,............
+1025003030150,美琴,"どうせ息苦しいなら
+帰りたい","It's suffocating afterall
+so I want to go back"
+1025003030160,美琴,"生きたい場所に行きたい
+そのためなら、私──","I want to go where I want to live
+That's my sole purpose──"
+1025003030170,美琴,『帰ります』,"""I'm going back."""
+1025003030180,美琴,──いいよね、プロデューサー,"──It's good, right? Producer."
+1025003030190,美琴,…………,............
+1025003030200,美琴,…………,............
+1025003030210,美琴,──もしもし、プロデューサー？,"──Hello, Producer?"
+0000000000000,プロデューサー,"『あ……美琴！
+繋がってよかった』","""Oh... Mikoto!
+Glad you picked up."""
+0000000000000,プロデューサー,『もう空港か？』,"""Are you at the airport?"""
+1025003030220,美琴,"え……？
+うん、そうだけど","Eh...?
+Yes I am."
+1025003030230,美琴,"プロデューサーも空港にいるの？
+なんか、音が……","Are you at the airport too?
+I heard the sound..."
+0000000000000,プロデューサー,『ああ、そうなんだ』,"""Yeah, I'm here."""
+0000000000000,プロデューサー,"『美琴から昨日の夜連絡もらって
+迎えに行こうと思って──』","""Since you called me last night,
+I thought I'd pick you up──"""
+1025003030240,美琴,"…………
+……いいのに、迎えなんて","............
+......You didn't have to."
+0000000000000,プロデューサー,『はは、俺が来たかったからさ』,"""Haha. I just wanted to come."""
+0000000000000,プロデューサー,"『今、空港に着いた所なんだ
+入れ違いにならなくてよかった』","""I got to the airport just now.
+Glad we didn't miss each other."""
+1025003030250,美琴,"…………
+……プロデューサー","............
+......Producer."
+0000000000000,プロデューサー,『うん？』,"""Hm?"""
+1025003030260,美琴,──帰ってきても、よかった？,──Is it good that I'm back?
+0000000000000,プロデューサー,『え……』,"""Eh..."""
+1025003030270,美琴,"私、結局──
+ひとりで、考えてもよくわからなかったの","Afterall, I──
+I didn't know what to think when I was alone."
+1025003030280,美琴,だけど──……,But──......
+1025003030290,美琴,"ステージの無い場所で生きるなんて
+死ぬより辛い","Living in a place without a stage,
+is worse than dying."
+0000000000000,プロデューサー,……美琴,......Mikoto.
+1025003030300,美琴,だから、帰ってきたの,That's why I came back.
+0000000000000,プロデューサー,……そうか,...I see.
+0000000000000,プロデューサー,──おかえり、美琴,"──Welcome back, Mikoto."
+info,produce_events/102500303.json,
+Translator,,

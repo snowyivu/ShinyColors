@@ -4,8 +4,8 @@ id,name,text,trans
 そうそう、アレ反響けっこうヤバくてー","Oh, did you watch the broadcast?
 Yeah, the response was crazy."
 1024003050010,にちか,────２、３……,"────2, 3..."
-1024003050020,にちか,ひり,squeaks
-1024003050030,にちか,きき,squeaks
+1024003050020,にちか,ひり,hiri
+1024003050030,にちか,きき,kiki
 1024003050040,にちか,"３……４────！
 ──────っ","3... 4────!
 ──────gh."
@@ -13,7 +13,7 @@ Yeah, the response was crazy."
 1024003050060,にちか,"────────…………
 ３、４──────！","────────............ 
 3, 4──────!"
-1024003050070,にちか,ひきき,squeaks
+1024003050070,にちか,ひきき,hikiki
 1024003050080,にちか,"────────っ
 った…………","────────gh.
 ouch............ "
@@ -52,7 +52,7 @@ actually defensive..."
 Looks like the show is thriving as usual."
 0000000000000,プロデューサー,…………にちか,......Nichika.
 1024003050120,にちか,痛った……っ…………,Ouch...gh......
-1024003050130,にちか,…………っ,............huh.
+1024003050130,にちか,…………っ,......huh.
 0000000000000,プロデューサー,おう,Hey.
 1024003050140,にちか,…………休んでるわけじゃないので,......I'm not taking a break.
 0000000000000,プロデューサー,うん,Mhm.
@@ -92,7 +92,7 @@ And then what?"
 その痛みは","Will it make that go away?
 That pain."
 0000000000000,プロデューサー,にちかが怖がっていることは,What Nichika is afraid of.
-0000000000000,プロデューサー,決勝の前に、確認しておきたい,"Before the finals, I want you to make sure"
+0000000000000,プロデューサー,決勝の前に、確認しておきたい,"Before the finals, I want you to make sure,"
 0000000000000,プロデューサー,……つかみかけてたのにな、せっかく,...of what you were so close to grasping.
 1024003050230,にちか,"────どうなる……って、アイドルなんですよ……！
 自分、アイドルのプロデューサーじゃないんですか……！？","────""And then what""... Continue being an idol,
@@ -100,12 +100,13 @@ of course...!?
 Aren't you an idol producer yourself...!?"
 0000000000000,プロデューサー,……違うよ,...No.
 0000000000000,プロデューサー,にちかのプロデューサーだ,I am your producer.
-0000000000000,プロデューサー,だから、箱の中身を見つける……手伝いがしたい,"That's why, I want you to help you... find what's in the box."
-1024003050240,にちか,きぎ,squeaks
+0000000000000,プロデューサー,だから、箱の中身を見つける……手伝いがしたい,"That's why, I want to help you... find what's in the
+box."
+1024003050240,にちか,きぎ,kigi
 0000000000000,プロデューサー,"俺は、自分をそんなふうにして何かが見つかると思えないよ
 ……やっぱり、痛めてるよな。爪か？　消毒液買ってきた","I personally don't think you can find something by
 doing this. ...You're in pain, aren't you?
-Are your nails okay? I bought disinfectant."
+Are your toenails okay? I bought disinfectant."
 select,,……血は？,...Are you bleeding?
 select,,……見せてくれ,...Let me see.
 select,,"……遅くなって
@@ -120,7 +121,7 @@ Why do I have to show you...!?"
 1024003050270,にちか,"……っ
 何がです？　なんなんですか勝手に────","...gh.
 Late for what? Don't just do what you want────"
-1024003050280,にちか,きぎぎ,squeaks
+1024003050280,にちか,きぎぎ,kigigi
 0000000000000,プロデューサー,"…………ごめん。それじゃ治療は任せるよ
 でも────","......Sorry. I'll let you care for yourself then.
 However────"
@@ -143,10 +144,10 @@ destroyed for good."
 0000000000000,プロデューサー,"絶対……
 絶対そんなことはさせない","I will never, ever, let that happen."
 0000000000000,プロデューサー,……次の選考、落ちてきてほしい,"...At the next audition, I want you to fall."
-1024003050320,にちか,…………え,............eh.
+1024003050320,にちか,…………え,......eh.
 0000000000000,プロデューサー,"それで何も終わらないってことを
 ……俺が証明してみせるよ","Nothing will end even if you fall.
 ...I'll prove that to you."
 0000000000000,プロデューサー,裸足で出て、落ちてきてくれ,"Go barefoot, and fall."
 info,produce_events/102400305.json,
-Translator,,
+Translator,Ruru,

@@ -1,0 +1,116 @@
+id,name,text,trans
+2020004110010,透,──あ,──Ah.
+0000000000000,プロデューサー,……ん？,...Hm?
+2020004110020,透,"星
+いっこ光ってるなって","A star.
+There's one glittering in the sky."
+0000000000000,プロデューサー,"──あぁ……ほんとだ
+なんて星かな","──Ahh... You're right.
+I wonder which star is that."
+0000000000000,プロデューサー,あ、透──,"Ah, Toru──"
+2020004110030,透,行こ,Let's go.
+2020004110040,透,"夕方
+おわっちゃう","The sunset's
+gonna end."
+0000000000000,プロデューサー,"え……
+──はは","Eh...
+──Haha."
+0000000000000,プロデューサー,おう……！,Okay...!
+2020004110050,透,────,────
+0000000000000,プロデューサー,"はぁ……いい夕方だ……！
+──んーー…………","Phew... What a wonderful sunset...!
+──Mmn..."
+2020004110060,透,"ふふっ
+のびないでよ、急に","Fufu.
+Don't stretch all of a sudden."
+0000000000000,プロデューサー,"いや、だって
+こんな景色の前でさ────んー……","I mean, look.
+How could I not when vieeew────'s this..."
+2020004110070,透,ん……────,Mnn────
+2020004110080,透,──……,──…
+2020004110090,透,"全部見えるって感じ
+世界中","Feels like you're able to see it all.
+The world."
+0000000000000,プロデューサー,"ははっ
+うん、街中見えるな","Haha.
+Yeah, you can see the whole city from here.
+"
+2020004110100,透,"違うって
+世界中","No,
+the world.
+"
+0000000000000,プロデューサー,──そりゃ、すごい,──Well that's... amazing.
+2020004110101,透＆プロデューサー,ふふっ,Fufu.
+2020004110110,透,……,…
+0000000000000,プロデューサー,……,…
+2020004110120,透,ここってさ、誰かのもの？,"I wonder, who owns this place?"
+0000000000000,プロデューサー,え？,Eh?
+2020004110130,透,"え
+あ……適当なこと言ったかも","Eh.
+Ah... I might be saying random things."
+0000000000000,プロデューサー,"ここって……
+公園か？","By this place you mean...
+The park?"
+2020004110140,透,"んー……
+もっと、『ここ』っていうか","Mn...
+I meant something more… ""earthly"", kinda."
+0000000000000,プロデューサー,"……ここの土地だったら
+自治体とか、国とかかなぁ","...If you mean this land,
+maybe the government, or the country."
+2020004110150,透,"なんだろ、そういうんじゃなくて……
+世界？","Not that, but more like...
+The world?"
+0000000000000,プロデューサー,……,…
+2020004110160,透,ここ,Here.
+0000000000000,プロデューサー,──はは、難しいなぁ,"──Haha, that's kinda difficult."
+0000000000000,プロデューサー,"世界っていうなら、
+誰のってわけでもないんじゃないか","If you mean this world, 
+it belongs to no one, doesn't it."
+2020004110170,透,"……
+そっか","…
+I see.
+"
+2020004110180,透,"ありがと
+なんかうまく言えないや","Thanks for that.
+I can't really explain it well."
+2020004110190,透,"誰かのものじゃないといいなって
+思っただけ","I just thought that it'd be nice if
+it belonged to no one. That's all."
+2020004110200,透,ここが,"Here, that is."
+0000000000000,プロデューサー,……透？,...Toru?
+2020004110210,透,"なんか、
+今が","Like,
+this moment."
+0000000000000,プロデューサー,────,────
+2020004110220,透,──星、増えてきたね,──There's more stars now.
+0000000000000,プロデューサー,"……あぁ、ほんとだ
+もうさっきのがどれか、わかんないな","...Yeah, you're right.
+You can't tell between the one we saw earlier 
+and the others now."
+2020004110230,透,"えー
+見つけてよ","Ehh.
+Look harder.
+"
+0000000000000,プロデューサー,ははっ、もう難しいって,"Haha, it's almost impossible now."
+2020004110240,透,いけるいける,"You got this, you got this."
+0000000000000,プロデューサー,"えー
+じゃ、透はわかるのか？","Ehh.
+So, you can tell?
+"
+2020004110250,透,え、うん……,"Eh, hm..."
+2020004110260,透,……わかんないわ,"…Nah, I can't."
+2020004110261,透＆プロデューサー,ははっ……,Haha...
+2020004110270,透,────じゃ、これも加えとく,"────Then, I'll add this."
+0000000000000,プロデューサー,──え？,──Eh?
+2020004110280,透,"『一生のうちにやりたい10のこと』って
+あったでしょ","""10 Things You Want To Do In Your Lifetime"" 
+right?"
+2020004110290,透,さっきの星、見つけるって,Finding that star... will be one of them.
+0000000000000,プロデューサー,"──そりゃあ……
+ははっ、いつになるんだろうなぁ","──That's...
+Haha, I wonder when that'll happen."
+2020004110300,透,いつか,Someday.
+2020004110310,透,でも、見つけられるから,"Someday, I'll find it."
+2020004110320,透,誰のものでもないんだったら────,So long as it remains as no one's────
+info,produce_events/202000411.json,
+Translator,OrangeKabocha,

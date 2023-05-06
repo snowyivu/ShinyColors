@@ -1,0 +1,101 @@
+id,name,text,trans
+0000000000000,カメラマン,──うん、いいね,"──Alright, nice."
+1025003050010,美琴,……ありがとうございます,"...Thank you very much,"
+0000000000000,デザイナー,"美琴……良かった
+しばらくお休みするって聞いたから、驚いたけど","Mikoto... I'm so glad.
+I was surprised when I heard you were taking a little break."
+1025003050020,美琴,"ごめんなさい
+撮影のスケジュール、ずらしてもらっちゃって",I'm sorry for delaying the shooting schedule.
+0000000000000,デザイナー,"いいのいいの！
+うちのモデルは絶対美琴にお願いしたかったから","That's totally okay!
+We really wanted you to model for us."
+0000000000000,デザイナー,"最悪コレクションの発売をずらすつもりだったけど……
+間に合ってよかった","Worst case scenario, we were going to delay the
+launch of the collection, but...
+I'm glad you could make it."
+1025003050030,美琴,"うん
+……よかった、すぐに帰ってきて","Mm.
+...I'm glad I was back soon."
+0000000000000,デザイナー,"そうよ
+あの休まない美琴が休むだなんて言うから","Yeah.
+You never took breaks, so when you did, we thought
+something might have happened."
+0000000000000,デザイナー,"何かあったのかって
+すっごく心配したんだから",We were really worried.
+1025003050040,美琴,……何か……,...Something...
+1025003050050,美琴,"…………
+何かは、あったのかも","............
+Something might have happened."
+1025003050060,美琴,ね、プロデューサー,"Right, Producer?"
+0000000000000,プロデューサー,"え……！？
+い、いや、はは……","Eh...!?
+U-Uh, haha..."
+0000000000000,デザイナー,"……？
+そうなの？","......?
+Really?"
+0000000000000,デザイナー,"ふふ、じゃあ後で聞かせて、何があったのか
+じゃあ着替えてもらって次の衣装──……","Hehe, you'll have to tell me all about it later.
+Now I'll need you to change into the next outfit──..."
+1025003050070,美琴,──待って,──Hold on.
+1025003050080,美琴,"もう何枚か撮ってみてもらってもいい？
+私の、自由に","May I try getting a few more shots?
+On my own."
+0000000000000,デザイナー,"……！
+え、ええ、構わないけど……","......!
+Y-Yeah, sure, no problem..."
+1025003050090,美琴,じゃあ、お願いします,"Please excuse me, then."
+0000000000000,カメラマン,──じゃあ思うように、やってみてください,"──Well then, pose however you want."
+1025003050100,美琴,はい,Yes.
+0000000000000,デザイナー,──…………,──............
+0000000000000,デザイナー,……あの、プロデューサーさん,"...Um, Producer-san."
+0000000000000,プロデューサー,"……？
+はい","......?
+Yes."
+0000000000000,デザイナー,美琴は本当に、何かあったんですか？,Did something really happen to Mikoto?
+0000000000000,プロデューサー,え……？,Eh......?
+0000000000000,デザイナー,"これまで美琴が撮影する姿を
+何度も見てきましたけど","I've seen Mikoto shoot many times before, but..."
+0000000000000,デザイナー,"あの子があんなこと言うの、これまでになかったから
+……本当に、何かあったんだなって","She's never said anything like that before.
+...So, I thought something must have happened."
+0000000000000,プロデューサー,…………そうですね,............That's right.
+0000000000000,プロデューサー,"美琴は……
+ただ、立ってるだけじゃなくて",Mikoto is... not just standing there.
+0000000000000,プロデューサー,一生懸命、生きようとしてるんだと思います,I think she's trying her best to live.
+0000000000000,デザイナー,…………？,............?
+0000000000000,プロデューサー,──……,──......
+1025003050110,美琴,……ねえ、プロデューサー,"...... Hey, Producer."
+0000000000000,プロデューサー,"うん？
+どうした、美琴","Hm?
+What's up, Mikoto?"
+1025003050120,美琴,何か、良いことでもあったの,Did something good happen?
+0000000000000,プロデューサー,"え……？
+な、なんでだ？","Eh...?
+W-Why did you ask?"
+1025003050130,美琴,なんだか、すごく楽しそうだから,Because you seem to be really happy.
+0000000000000,プロデューサー,"え……
+そ、そうかな","Eh...
+I-I see."
+1025003050140,美琴,"……ひとりで喜んで
+ずるい",...It's not fair to be having fun by yourself.
+0000000000000,プロデューサー,"はは……
+そうか、ずるいか","Haha......
+I guess it's not fair."
+0000000000000,プロデューサー,"さっきの撮影、すごくよかったなって
+そう思ったら嬉しかったんだよ","I was just thinking how great the shoot was.
+That's what made me happy."
+1025003050150,美琴,……それだけ？,...Is that all?
+0000000000000,プロデューサー,"ああ、そうだよ
+美琴はそれだけって思うかもしれないけど","Yeah, that's all.
+You may think that's all there is to it, but..."
+0000000000000,プロデューサー,俺にはすごく、嬉しいことだったんだ,"I was very, very happy."
+1025003050160,美琴,"……そうなんだ
+よくわからないけど","...... I see.
+I don't really know what, but..."
+1025003050170,美琴,"プロデューサーが喜んでるなら
+よかった","If Producer is happy,
+then I'm glad."
+0000000000000,プロデューサー,……うん,......Yeah.
+0000000000000,プロデューサー,よかったんだ,It was good.
+info,produce_events/102500305.json,
+Translator,Ruru,

@@ -1,19 +1,19 @@
 id,name,text,trans
 0000000000000,off,『ひんやりして　ね　ぴったりじゃない』,"""It's cold, right? / Isn't it perfect tonight"""
 0000000000000,off,『今夜　わたしを　つれていく靴』,"""These shoes / That carry me along"""
-0000000000000,プロデューサー,──────……,──────……
+0000000000000,プロデューサー,──────……,──────......
 1024003030010,にちか,────『少し休む』……？,"────""A short break""...?"
 1024003030020,にちか,"……あははっ
 すごい、敏腕の頂点極めてますねプロデューサーさん……！","...Ahaha.
 Amazing, I'm on the pinnacle of competence, Producer-san...!"
-1024003030030,にちか,……,……
+1024003030030,にちか,……,......
 1024003030040,にちか,そうやって────,So that's how────
 0000000000000,雑誌表紙の見出し,『cover story 斑鳩ルカ』,"""cover story: Luca Ikaruga"""
-1024003030050,にちか,……っ,……guh.
+1024003030050,にちか,……っ,......guh.
 0000000000000,off,『そうだよ　赤いじゅうたん駆けて』,"""That's right / I'll run on the red carpet"""
 1024003030060,にちか,"────２……
-２、３、４……","────2……
-2, 3, 4……"
+２、３、４……","────2......
+2, 3, 4......"
 1024003030070,にちか,１、２、３、４────,"1, 2, 3, 4────"
 1024003030080,にちか,そうやって,So that's how
 0000000000000,off,『そうだよ　月までだって行けるわ』,"""That's right / I can go to the moon"""
@@ -24,11 +24,11 @@ Amazing, I'm on the pinnacle of competence, Producer-san...!"
 So that's how..."
 1024003030110,にちか,忘れられてくってことかー,That's how I'm going to be forgotten.
 0000000000000,off,『うふふっ。ほら見てぇ、このナス』,[Hehe. Check out this eggplant.]
-0000000000000,プロデューサー,……,……
+0000000000000,プロデューサー,……,......
 1024003030120,にちか,────ダ、ダ、ダッ……,"────Da, da, da..."
 1024003030130,にちか,"タッ、ダ、ダ、ダッ……！
 …………った……","Ta, da, da, da...!
-…………ta……"
+............ta......"
 0000000000000,レッスン場スタッフ,ごめんなさーい、あと10分でーす,"Excuse me, you have 10 minutes left."
 1024003030140,にちか,"あっ、はい……！
 すみません、出ます","Ah, yes...!
@@ -108,4 +108,4 @@ then this isn't where you should be."
 レッスン室を押さえてきた","Let's go.
 I've secured the lesson room."
 info,produce_events/102400303.json,
-Translator,,
+Translator,Ruru,

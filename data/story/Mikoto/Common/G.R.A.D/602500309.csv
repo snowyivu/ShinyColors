@@ -1,0 +1,34 @@
+id,name,text,trans
+6025003090010,美琴,──ダメだったみたい,──Seems like I didn't make it.
+6025003090020,美琴,ごめんね、プロデューサー,"Sorry, Producer."
+0000000000000,プロデューサー,美琴……,Mikoto...
+6025003090030,美琴,"……せっかく応援してもらったのに
+私──……","...You've supported me so much,
+and yet, I──"
+0000000000000,プロデューサー,"悔しいな
+良いステージだったのに","It's frustrating.
+It was a great performance."
+0000000000000,プロデューサー,"悲しいし、苦しいよ
+美琴が頑張ってきたのを知ってるし、応援してきたから","It's sad and painful. 
+I've been supporting you, knowing how hard work
+you've put in."
+6025003090040,美琴,それは…………,That's......
+6025003090050,美琴,"……ごめんなさい
+私がもっとちゃんとできていたら──……","...I'm sorry.
+If I had tried doing better──..."
+0000000000000,プロデューサー,そうじゃないよ,That's not what I meant.
+0000000000000,プロデューサー,"……一緒に考えて、一緒に苦しんだり
+楽しんだりしていきたいって美琴が言ったんだ","...You said that you want us to figure it out, and go
+through both difficult and fun times together."
+6025003090060,美琴,…………,............
+0000000000000,プロデューサー,"だから俺も言うよ
+悔しいし悲しいし、苦しい……どうしてだろうな","That's why I'll say it too.
+It's frustrating, sad and painful... I wonder why
+that's the result."
+6025003090070,美琴,……うん,...Mm.
+0000000000000,プロデューサー,"そういう気持ちを忘れないで
+……それで、また頑張っていこう","Don't forget those feelings.
+...And then, let's try again."
+0000000000000,プロデューサー,──ステージに立つために,──So that you can stand on the stage.
+info,produce_events/602500309.json,
+Translator,Ruru,

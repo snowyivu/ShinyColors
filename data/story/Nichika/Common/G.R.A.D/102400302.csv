@@ -1,9 +1,9 @@
 id,name,text,trans
 1024003020010,にちか,"────２……
-２、３、４……","────2……
-2, 3, 4……"
+２、３、４……","────2......
+2, 3, 4......"
 1024003020020,にちか,１、２、３、４────,"1, 2, 3, 4────"
-0000000000000,ダンストレーナー,…………,…………
+0000000000000,ダンストレーナー,…………,............
 0000000000000,プロデューサー,"────どうかな、明日学校が終わったら
 少しミーティングができればって思うんだけど","────So, I was wondering if we could have a small meeting tomorrow after school."
 1024003020030,にちか,……え？,...Huh?
@@ -24,13 +24,13 @@ I forgot it's every other week now, ahaha."
 1024003020090,にちか,"うわー、すみませんー
 ヒマ人がめちゃめちゃイキってイラっとしましたよね……！","Uwah, my bad.
 This jobless someone was so full of herself she threw a tantrum...!"
-0000000000000,プロデューサー,……,……
-1024003020100,にちか,…………,…………
+0000000000000,プロデューサー,……,......
+1024003020100,にちか,…………,............
 0000000000000,プロデューサー,いや、にちか────,"No, Nichika────"
 0000000000000,ダンストレーナー,────あのー、にちかちゃん,"────Hey, Nichika-chan."
 1024003020110,にちか,"タッ、ダダ……
 …………っ","Ta, dada...
-…………oh."
+............oh."
 1024003020120,にちか,はい……！,Yes...!
 0000000000000,ダンストレーナー,"そんなに基礎トレやってもさ？
 しかもなんか、ヒールとか履いちゃって","Do you have to practice the basics that much?
@@ -52,48 +52,52 @@ I'll be very hurry...!"
 0000000000000,プロデューサー,"────
 ヒマっていうふうには、俺には思えないよ","────
 I don't think you're jobless at all."
-1024003020160,にちか,……,……
+1024003020160,にちか,……,......
 0000000000000,プロデューサー,"仕事のオファーもいくつか来てる
 だからミーティングができたら────","We have a few job offers coming in, so if you can make the meeting────"
 1024003020170,にちか,"あっ、笑われるお仕事選ぼうって話ですかね、
 了解ですー","Ah, right, I'm choosing another job where I'm laughed at. Roger."
 1024003020180,にちか,"……？
-はい、なんでしょう","……?
+はい、なんでしょう","......?
 Yes, what is it?"
 0000000000000,ダンストレーナー,"あ、ごめんねー、終わろって言っときながら
-なんかさ────","Oh, sorry, since I already told you to end the day.
+なんかさ────","Oh, sorry, I didn't mean to hold you up.
 It's just that────"
 0000000000000,プロデューサー,……そうじゃないよ,...That's not what it is.
 0000000000000,ダンストレーナー,よくないと思うよ、こういうトレーニング,I don't think that kind of training is good.
 0000000000000,ダンストレーナー,"トレーニングってゆーか……
-鍛えたいとか思ってないでしょ",We don't train because we want a workout...
+鍛えたいとか思ってないでしょ",We don't train because we want a workout... right?
 0000000000000,プロデューサー,"笑われる仕事じゃない
 ……笑われる仕事なんてない","It's not a job to be laughed at.
 ...There's no such thing as a job to be laughed at."
 0000000000000,プロデューサー,にちかが笑うんだ,You're the one laughing.
-1024003020190,にちか,……っ,……gh.
+1024003020190,にちか,……っ,......gh.
 0000000000000,ダンストレーナー,ちょっとお休みにしよかー,You should take a break for a while.
 1024003020200,にちか,……えっ,...eh.
 0000000000000,ダンストレーナー,"トレーニングもだし、そうだなー……
-ダンスレッスンも？","Take a break from training... and dance lessons, too?"
+ダンスレッスンも？","Take a break from training...
+and dance lessons, too?"
 1024003020210,にちか,……やめてもらっていいですか,...Can you stop that?
 1024003020220,にちか,"やめてもらっていいですかそういうなんかほんと、
-ドラマとかじゃないので……！",Can you stop saying things like that please? This isn't a drama show...!
-0000000000000,プロデューサー,……,……
+ドラマとかじゃないので……！","Can you stop saying things like that please?
+This isn't a drama show...!"
+0000000000000,プロデューサー,……,......
 1024003020230,にちか,"私が笑ったらなんなんです？
-私が笑ったってだけじゃないですか、怖……！","What do you mean by I'm the one laughing? It's not just about me laughing, isn't it? Scary...!"
+私が笑ったってだけじゃないですか、怖……！","So what if I laughed?
+There's nothing to point out from the fact that I
+simply laughed. That's scary...!"
 0000000000000,ダンストレーナー,んじゃ連絡しとくねん、Ｐ氏のとこ,I'll let your P know then.
 1024003020240,にちか,"えっ、あの……！
 ……すみません、急に休みっていうのはちょっと────","Eh, um...!
 ...I'm sorry, I'm not sure I can suddenly take a break────"
 0000000000000,ダンストレーナー,傷んじゃうよ。心も体も,You're going to hurt both your mind and body at this rate.
-1024003020250,にちか,……っ,……guh.
+1024003020250,にちか,……っ,......guh.
 0000000000000,プロデューサー,"……
-そうかもしれない","……
+そうかもしれない","......
 I guess so."
 0000000000000,プロデューサー,ミーティングは……やめておこうか,Let's postpone the meeting...
 0000000000000,プロデューサー,それで────,"Well, then────"
-1024003020260,にちか,…………──────,…………──────
+1024003020260,にちか,…………──────,............──────
 0000000000000,プロデューサー,少し休もう,Let's take a short break.
 1024003020270,にちか,…………なんなの," ......What's all of that for."
 info,produce_events/102400302.json,

@@ -1,0 +1,147 @@
+id,name,text,trans
+2020004010010,透,んー……,Hm...
+2020004010020,透,いっぱい寝る……,Sleep a bunch...
+0000000000000,プロデューサー,──なるほど,──Mm-hm.
+2020004010030,透,映画とか観る……,Watch movies and stuff...
+0000000000000,プロデューサー,──まぁ……うん,──Yeah... yeah.
+2020004010040,透,……あ、ブラウス欲しい,"...Ah, I wanted a blouse."
+0000000000000,プロデューサー,うん…………,Right...
+0000000000000,プロデューサー,"……質問の内容、
+『一生のうちにやりたい10のこと』だぞ？","...the question was ""10 Things You Want To Do 
+In Your Lifetime"", right?"
+0000000000000,プロデューサー,"そりゃ、小さいアンケート記事だけど──
+なんかもうちょっと、ないかな","I get it's just a little questionnaire article-type 
+thing, but──
+Don't you have something a little... more? Maybe."
+2020004010050,透,──え、ダメ？,──Eh? No good?
+0000000000000,プロデューサー,"いや、ダメじゃないんだけど
+なんていうか────","It's, well──it's not ""no good"", but...
+How d'you put it──"
+2020004010060,透,じゃあ、プロデューサーは？,"Kay. What about you, Producer?"
+0000000000000,プロデューサー,え？,Eh?
+2020004010070,透,『一生のうちにやりたい10のこと』,"""10 Things You Want To Do In Your Lifetime""."
+0000000000000,プロデューサー,"……
+そりゃ……","...
+Huh..."
+0000000000000,プロデューサー,"うーん……
+いや、えっとな────","Mmm...
+Well, no, see──"
+2020004010080,透,難しくない？,Isn't that hard?
+0000000000000,プロデューサー,──……うん,──...yeah.
+0000000000000,プロデューサー,"あらためて聞かれると、確かになぁ
+普段思ってても出てこないっていうか……","When you have to answer it yourself, yeah, 
+it really is... it's not like it's something you really 
+come up with in everyday thought, or..."
+2020004010090,透,──あ、それ飲みたい,"──Ah, I wanna try that."
+0000000000000,プロデューサー,"ん？
+……あぁ、飲むか？　アイスコーヒー","Hm?
+...Oh, drinking some? Iced coffee."
+2020004010100,透,うん,Yeah.
+2020004010110,透,──『アイスコーヒー飲みたい』,"──""I wanna drink iced coffee."""
+0000000000000,プロデューサー,"ははっ、だから透
+『一生のうちにやりたいこと』だからな？","Hahah, c'mon, Toru. ""Things You Want To Do In Your 
+Lifetime"", right?"
+2020004010120,透,──でも、埋まらないし,──But I can't fill these in otherwise.
+0000000000000,プロデューサー,それ、今やりたいことじゃないか,"Those're all things you want to do in the moment, 
+though, aren't they?"
+2020004010130,透,"今やりたいこと、
+今大事にしなきゃ","Gotta hold close in the moment
+what you wanna do in the moment."
+2020004010140,透,明日、宇宙人とかが攻めてくるかもしれないし,"Might be aliens or something coming to attack us 
+all tomorrow, after all."
+0000000000000,プロデューサー,……ははっ,...Hahah.
+0000000000000,プロデューサー,"まぁ、一理あるか
+じゃあ俺は──","Well, you've got a point.
+Let's see, then. I'd──"
+select,,"アイスコーヒー
+作りたい","──Wanna make
+some iced coffee."
+select,,『いっぱい寝る』,"──""Sleep a bunch""."
+select,,────,────
+2020004010150,透,"……ふふっ
+もう作ってるじゃん","...Fufu.
+Aren't you making some already?"
+0000000000000,プロデューサー,"──あぁ、うん
+これ透が飲んでくれればいいよ","──Ahh, yeah.
+You'll just have to drink this."
+0000000000000,プロデューサー,"俺の分だけじゃなくて
+透の分も作りたいってこと","I want to be able to make not just my share,
+but yours too, Toru.
+"
+0000000000000,プロデューサー,"なんていうか……
+透の力になれるように頑張っていきたい、みたいなことだ","Like, how do I put this...
+I want to be of help to Toru, you see."
+2020004010160,透,──そっか,──I see.
+2020004010170,透,"ふふっ
+それって、なんか正解っぽいね","Fufu.
+That sounds about right.
+"
+2020004010180,透,『一生のうちにやりたい10のこと』っぽい,"""10 Things You Want To Do In Your Lifetime""-like."
+0000000000000,プロデューサー,"だろ？　テンション的には、
+『一生かけてやり遂げたいこと』くらいの感じだからな！","Right? Kinda fits the mood of ""10 Things You Want 
+To Do In Your Lifetime"", don't you think!"
+2020004010190,透,……,...
+0000000000000,プロデューサー,"はは、すまん
+でも……俺はそのくらいの気持ちだからさ","Haha, sorry.
+But... that's how I really feel."
+0000000000000,プロデューサー,──アンケート、ちゃんと頑張って答えること,"──Like, answering this questionnaire to the best 
+of my ability."
+2020004010200,透,はーい……,Got it...
+2020004010210,透,ありがと、アイスコーヒー,"Thanks for the iced coffee.
+"
+2020004010220,透,飲んどく,I'll have it.
+2020004010230,透,"……ふふっ
+真似じゃん、私の","...Fufu.
+You're copying me, aren't you?"
+0000000000000,プロデューサー,"結構いい願望だよなって
+『いっぱい寝る』","I was just thinking that it's a pretty good one, 
+y'know.
+""Sleeping a bunch""."
+2020004010240,透,でしょ,Right?
+0000000000000,プロデューサー,"うん。でも『いっぱい頑張る』とセットだ
+『いっぱい頑張って、いっぱい寝る』","Yeah. But it comes in a set with ""working a bunch"".
+“Work a bunch, sleep a bunch”."
+0000000000000,プロデューサー,──真似していいぞ？,"──You can copy that, y'know?"
+2020004010250,透,"ふふっ
+えー……","Fufu.
+Ehhh..."
+2020004010260,透,なんか、１個で10個分みたいな答えだね,That sounds like a 10-in-1 answer.
+0000000000000,プロデューサー,"ははっ、まぁいっぱい頑張っていっぱい寝たら
+一生なんて、あっという間かもな","Haha, well, if you work a bunch and sleep a bunch 
+all the time, life will pass by in a flash."
+2020004010270,透,"──じゃあ、うん
+もらっとく","──Then, okay.
+I'll take them."
+2020004010280,透,"その答えと、
+アイスコーヒーも","Both the answer
+and that iced coffee."
+0000000000000,プロデューサー,"……って、
+やっぱりとっさには出ないな","…uh,
+It's kinda hard to give an answer on the fly, huh."
+2020004010290,透,"ふふっ
+じゃあ、宿題","Fufu.
+Guess that's homework for you."
+2020004010300,透,私も宿題でいい？,You mind if I take it home too?
+0000000000000,プロデューサー,"え？　いいけど──
+ははっ、ひとつも埋まらないのか？","Eh? That's fine I suppose.
+Haha, you're not even going to fill one in now?"
+2020004010310,透,うん,Yeah.
+0000000000000,プロデューサー,"それじゃ、持ち帰る前にさ
+何か１つ２つでも埋めて、弾みをつけよう","Well then, before you bring it home, 
+let's think of 1 or 2 answers to get it going, alright?"
+2020004010320,透,えー……,Ehh...
+0000000000000,プロデューサー,"ほらほら、１つ考えたら休憩な
+アイスコーヒー作るから","C'mon now. We'll take a break once you've come up 
+with an answer.
+I'll make you iced coffee."
+2020004010330,透,……あ、じゃあわかった,"...Ah, I've got it."
+0000000000000,プロデューサー,おっ？,Oh?
+2020004010340,透,"うん
+『この質問の答えを見つけること』","Yeah.
+""Find out the answer to this question""."
+0000000000000,プロデューサー,──え,──Ehh.
+2020004010350,透,"ふふっ
+アイスコーヒー、作ってくる","Fufu.
+I'll go make that iced coffee."
+info,produce_events/202000401.json,
+Translator,Emelia&OrangeKabocha,

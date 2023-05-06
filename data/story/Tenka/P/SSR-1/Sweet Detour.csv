@@ -1,0 +1,137 @@
+id,name,text,trans
+0000000000000,プロデューサー,今日の仕事はどうだった？,How was work today?
+2015004030010,甜花,"うん、緊張したけど……
+甜花なりに……頑張れたと、思う","Um... Tenka was nervous, but......
+She did her best...... in her own way......"
+0000000000000,プロデューサー,"そうだな
+練習の成果が出ていたと思うよ","Nice job. I think we're starting to see the
+results of all your hard work!"
+0000000000000,プロデューサー,声はよく出ていたし、ダンスもミスがなかったし……,"You're projecting your voice well,
+and you're not messing up when you dance......"
+2015004030020,甜花,……,Oh......
+0000000000000,プロデューサー,"（ん？　なんだか甜花、ぼんやりしてるな
+疲れてるのか？　いや、何か見て……）","(Hm? Perhaps she's tired from working so hard?
+No, she's looking at something......)"
+0000000000000,プロデューサー,甜花？,Tenka?
+2015004030030,甜花,"ひゃい……！？
+あ……ぼ、ぼーっとしてて、ごめんなさい……",Yes......! Oh... s-sorry... for spacing out......
+0000000000000,プロデューサー,"こ、こっちこそごめんな、おどろかせて
+何か気になるものでもあるのか？","I'm sorry too, for surprising you.
+Was there something that caught your eye?"
+2015004030040,甜花,"そ、その……
+あれ……","U-Um......
+That......"
+0000000000000,プロデューサー,"あれって……
+何かのお店か？","Is that......
+Some kind of shop?"
+2015004030050,甜花,"うん……あそこで売ってるスイーツ、美味しいって……
+なーちゃんから聞いて……","Yeah...... Naa-chan said that...
+the sweets you get there..... are really good......"
+2015004030060,甜花,"食べてみたいけど……
+いっつも、いっぱい人、並んでて……","Tenka wants to try them, but......
+There's always... so many people lined up......"
+0000000000000,プロデューサー,"人気の店なんだな
+でも今は、並んでいないみたいだけど","It's a pretty popular shop, huh?
+But right now, it seems pretty open."
+2015004030070,甜花,"うん……
+おやつには、ちょっと遅いから……かな……？","Yeah...... She was wondering......
+if she could... have a late snack......"
+0000000000000,プロデューサー,……せっかくだから行ってみるか？,"......You've waited for so long, so how about we try it?"
+2015004030080,甜花,"で、でも……事務所に戻るまでが仕事……だよね？
+だから、終わってない……","B-But...... we're working until we head back...... right?
+So... work isn't done yet......"
+0000000000000,プロデューサー,"（そうか、事務所に帰るまではまだ仕事だと思って、
+気軽に寄り道しようと思えなかったんだな）","(I see, she still thinks we're 
+working until we get back......
+She doesn't think we can just stop by)"
+select,,一緒に行くか？,Want to go together?
+select,,じゃあ、買ってこうか,"Well, lets go buy some"
+select,,近くで見てみようか,Let's take a closer look.
+2015004030090,甜花,ほ、ほんと？　良いの……？,R-Really? Is that okay......?
+0000000000000,プロデューサー,"ああ。仕事、頑張ってただろ？
+そのご褒美にしよう","Yeah. You've worked hard, haven't you?
+Don't you think you deserve a reward?"
+2015004030100,甜花,"う、うん……
+プロデューサーさん、ありがと……！","S-Sure......
+Thanks, Producer-san......!"
+0000000000000,プロデューサー,"お礼を言われることじゃないさ
+甜花は、いつも一生懸命に仕事をしているからな","You don't have to thank me.
+You're always working so hard, after all."
+2015004030110,甜花,"にへへ……
+そ、そうかな……","Nihehe......
+Y-You think so......"
+0000000000000,プロデューサー,"ああ、だからこのくらいのご褒美、当たり前だ
+よし、じゃあお店に入るか","Yeah, that's why you deserve this much of a reward.
+Alright, shall we enter?"
+2015004030120,甜花,うん……！,"Yeah......!
+"
+2015004030130,甜花,"にへへ……
+甜花……これからもお仕事、頑張るね……！","Nihehe......
+Tenka...... will keep working super hard......!"
+2015004030140,甜花,良いの……？,Is that okay......?
+0000000000000,プロデューサー,"ああ、テイクアウトできるみたいだから
+持って帰って、事務所で食べよう","Yeah, looks like they can do takeout,
+so we can get it then go back and eat."
+2015004030150,甜花,"うん……！
+ありがと、プロデューサーさん","Sure......!
+Thanks, Producer-san."
+0000000000000,プロデューサー,"けど、スイーツ食べて終わりじゃないからな
+打ち合わせ、ちゃんとやるんだぞ","However, make sure you don't slack after this.
+Keep working hard at everything you do."
+2015004030160,甜花,"わ、わかった……
+甜花、ちゃんと頑張る……！","G-Got it......
+Tenka, will do her best......!"
+0000000000000,プロデューサー,"うん、良い意気込みだ
+じゃあ、買ってこようか","Alright, good enthusiasm!
+Now then, lets buy it and head out."
+2015004030170,甜花,"うん……！
+あ、プロデューサーさんは、買うの……？","Yeah......!
+Oh, are you buying it too, Producer-san......?"
+0000000000000,プロデューサー,"俺……？
+うーん、どうしようかなぁ","Me......? Hmmm, what to do......"
+2015004030180,甜花,"て、甜花……
+プロデューサーさんと食べたい、な……","T-Tenka......
+wants to eat with you, Producer-san......"
+0000000000000,プロデューサー,"甜花……
+そうだな、せっかくだから、一緒に食べようか","Tenka......
+Right, since you've worked
+so hard, let's eat it together."
+2015004030190,甜花,"うん……！
+にへへ、プロデューサーさんと食べるの、楽しみ……","Okay......!
+Nihehe... eating... with Producer-san... sounds fun......"
+2015004030200,甜花,"良いの……？
+うん、行く……！","Is that okay......?
+Alright, let's go......!"
+0000000000000,プロデューサー,甜花、こっちにメニューが載ってる看板があるみたいだ,"Looks like the menu's on a billboard over here, Tenka."
+2015004030210,甜花,わぁ……！,Woah......!
+0000000000000,プロデューサー,"ははっ
+甜花、目がきらきらしてるぞ","Haha!
+Your eyes are sparkling, Tenka."
+2015004030220,甜花,ど、どれも美味しそうだから……,"W-Well, they all look so good......"
+0000000000000,プロデューサー,"トッピングまで細かく選べるみたいだな
+甜花は、どれが良いんだ？","Looks like you can pick a ton of different toppings.
+Which ones do you want, Tenka?"
+2015004030230,甜花,"……マシュマロ……クッキー……
+あっ、白玉もある……あうぅ、チョコもいっぱい……","......Marshmallows...... and cookies...... Oh, there's 
+dango pearls too...... Auu, and so much chocolate......"
+0000000000000,プロデューサー,甜花？,Tenka?
+2015004030240,甜花,"しゅ、種類が、いっぱいあって……決められない……
+……どうしよう……","Th-There's... so many... different kinds......
+She can't decide...... what should she do......"
+0000000000000,プロデューサー,"確かに、こんなに組み合わせがあるんじゃ、
+迷うのもしかたないな","There definitely are a ton of combinations...
+It's only natural if someone gets lost."
+2015004030250,甜花,"ご、ごめんなさい……
+すぐ、決める、から……えっと、えっと……","S-Sorry......
+She'll... decide soon... so...... Um... Ummmmm......"
+0000000000000,プロデューサー,"大丈夫だ
+甜花が決められるまで待ってるから","That's okay.
+I'll wait until you can make a decision."
+2015004030260,甜花,待ってて……くれるの……？,You'll really...... wait......?
+0000000000000,プロデューサー,"ああ。だから、どれが良いか好きなだけ悩んでいいぞ
+決まったら、それを食べよう","Yep. So, it's completely fine to worry about it."
+2015004030270,甜花,"プロデューサーさん……ありがと
+にへへ、どれにしようかな……","Thanks...... Producer......
+Nihehe... What should we pick......"
+info,produce_events/201500403.json,
+Translator,@kotonekotoP,

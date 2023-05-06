@@ -1,44 +1,48 @@
 id,name,text,trans
-0000000000000,プロデューサー,そうですか……参加はできませんでしたか,Really... we weren't able to participate.
+0000000000000,プロデューサー,そうですか……参加はできませんでしたか,I see...... we won't be able to participate.
 7901001080010,はづき,"……不参加って連絡が来たとき、
-聞き間違いかと思いました",...When the message came I thought I had misheard it.
+聞き間違いかと思いました",When I heard the message I thought I had misheard it.
 7901001080020,はづき,"私には、どうして彼女が参加できないのか
-ちっともわかりません……！","To me, I don't understand why she's not able to participate...!"
+ちっともわかりません……！","In my opinion,
+i don't really see why she can't participate......!"
 7902001080010,社長,"その気持ちはわかるが……これが結果なんだ
-受け入れるより他にあるまい","I understand how you feel, but... these are the results."
+受け入れるより他にあるまい","I understand how you feel... but these are the results.
+We don't really have a choice except to accept it."
 7901001080030,はづき,"……私、きっとあの子のファンだったんですね
-だからこの結果が、悔しくてたまらないんです……",...I surely was a fan of hers. That's why I'm so frustrated by the results.
+だからこの結果が、悔しくてたまらないんです……","...I was a big fan of hers.
+That's why these results are so hard to accept."
 0000000000000,プロデューサー,"俺もです。彼女のプロデューサーである俺自身が、
-誰よりも彼女のファンでしたから",Me too. I was a fan of her more than anyone as her producer.
+誰よりも彼女のファンでしたから","Me too. As her producer,
+I was a fan of her more than anyone else."
 0000000000000,プロデューサー,"……社長
-俺、彼女に会いに行ってきます",...President. I'm going to meet her.
-7902001080020,社長,ああ、そうするといい,"Yes, it's best you do so."
+俺、彼女に会いに行ってきます",...President. I'm going to go meet her.
+7902001080020,社長,ああ、そうするといい,"Yes, you definitely should."
 0000000000000,プロデューサー,"甜花……あのな、最終審査なんだが……
-落選だったよ","Tenka... Well, about the final round's result...
+落選だったよ","Tenka... well, about the final round's result...
 You didn't pass."
 7015001080010,甜花,"……え……不合格……
-……そ、そんな……","Eh... Didn't pass...
-N-no way..."
-7015001080020,甜花,もう、先に……進めないんだ……,Going onward... Tenka can't go on...
+……そ、そんな……","......Huh...... Didn't pass......
+n-no way......"
+7015001080020,甜花,もう、先に……進めないんだ……,Tenka can't...... keep going......
 7015001080030,甜花,"あの……こんなこと思っていいのか、わかんないけど……
-でも……やっぱり悔しい……","Umm... Tenka doesn't know what to think about this...
-But... It's really frustrating..."
-0000000000000,プロデューサー,……甜花は成長したな,"...Tenka really grew up, huh."
+でも……やっぱり悔しい……","Umm...... Tenka doesn't really know how to feel......
+but... she's really frustrated......"
+0000000000000,プロデューサー,……甜花は成長したな,"...You've really grown up, haven't you?"
 7015001080040,甜花,"え……どうして……？
-甜花……予選、落ちたのに……","Eh... Why...?
-Tenka... Didn't pass, after all..."
+甜花……予選、落ちたのに……","Huh...... Why......?
+She...... wasn't able to pass......"
 0000000000000,プロデューサー,"「悔しい」って思えたんだろう？
-それは、甜花が前を向いて進んでた、なによりの証だよ","Don't you feel frustrated?
-That's proof that Tenka is moving forward."
-7015001080050,甜花,「悔しい」が……成長……,Frustrated... Is growing up...
+それは、甜花が前を向いて進んでた、なによりの証だよ","You feel ""frustrated"", don't you?
+That's proof that you've been moving forward."
+7015001080050,甜花,「悔しい」が……成長……,"Being ""frustrated"" ...... is growth......"
 0000000000000,プロデューサー,"そうだ。その気持ちがあれば大丈夫だ
-何度だってやり直せばいい","That's right. It's alright if you have those feelings.
-We can start all over again."
+何度だってやり直せばいい","That's right. It's okay to feel those feelings.
+We'll do it over as many times as we need to."
 7015001080060,甜花,"そっか……
-甜花、成長できたんだ……","Is that so...
-Tenka, is growing up..."
+甜花、成長できたんだ……","Got it......
+Tenka... was able to grow......"
 7015001080070,甜花,"うん……
-甜花、もっと頑張ってみるね……","Okay...
-Tenka will try her best again..."
+甜花、もっと頑張ってみるね……","Okay......
+She'll try her best again......"
 info,produce_events/701500108.json,
 Translator,,

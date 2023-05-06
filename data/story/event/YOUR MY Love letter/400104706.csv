@@ -24,7 +24,7 @@ game_event_communications40010470637,甜花,『あ…………』,"""Ah......"""
 game_event_communications40010470638,バラエティ司会,『あ、もしもし！　甜花ちゃん！？』,"""Oh, hello! Is this Tenka-chan!?"""
 game_event_communications40010470639,甜花,"『ひ、ひゃいっ……！
 て……甜花です……！』","""Y-Yesh...!
-I'm...Tenka...!"""
+This is...Tenka...!"""
 game_event_communications40010470640,バラエティ司会,『ごめんね、電話しちゃって～』,"""Excuse me for calling you～"""
 game_event_communications40010470641,バラエティ司会,『甘奈ちゃんの様子はどう？』,"""How's Amana-chan doing?"""
 game_event_communications40010470642,甜花,『あ……えと……』,"""Ah... um..."""
@@ -38,13 +38,13 @@ game_event_communications40010470650,甜花,"『あ……ち、違くて……
 ちょっと……声が出ないだけ、って……！』","""Ah... N-No...
 She just... lost her voice a little...!"""
 game_event_communications40010470651,バラエティ司会,『えっ、大変じゃない。早く治してねって伝えて……！？』,"""Eh, that's serious then. Please tell her to get well soon...!?"""
-game_event_communications40010470652,甜花,『はい……！』,"""O-Okay...!"""
+game_event_communications40010470652,甜花,『はい……！』,"""Okay...!"""
 game_event_communications40010470653,バラエティ司会,『よかったら甜花ちゃんスタジオに来ない？』,"""Why don't you come to the studio, Tenka-chan?"""
 game_event_communications40010470654,バラエティ司会,『甘奈ちゃんのコーナー、回してほしいんだけど！』,"""We want Amana's segment back!"""
 game_event_communications40010470655,甜花,『あ……』,"""Ah..."""
 game_event_communications40010470656,甜花,『えと……』,"""Um..."""
-game_event_communications40010470657,甜花,『ご、ごめんなさい……』,"""I-I'm sorry..."""
-game_event_communications40010470658,甜花,『無理です……』,"""I can't..."""
+game_event_communications40010470657,甜花,『ご、ごめんなさい……』,"""S-Sorry..."""
+game_event_communications40010470658,甜花,『無理です……』,"""She can't..."""
 game_event_communications40010470659,甜花,"『甜花、なーちゃんの代わりは……
 できない、から……』","""Tenka can't replace Naa-chan, so..."""
 game_event_communications40010470660,バラエティ司会,『そっかあ、残念だなあ…………』,"""I see, that's too bad..."""
@@ -59,7 +59,7 @@ um..."""
 game_event_communications40010470669,甜花,『最新トレンドのスイーツを……送ります！』,"""Send you... the latest trendy sweets!"""
 game_event_communications40010470670,甜花,"『それではスタジオのみなさん、どうぞおめしが……
 おめしがり……──食べてください……！』","""Everyone at the studio, please enjoy the squish...
-The swish...──Please eat...!"
+The swish...──Please enjoy...!"
 game_event_communications40010470672,バラエティ司会,"『────ということで、
 こちらに甜花ちゃんからのスイーツが届いておりまーす』","""────With that being said,
 here are the sweets we received from Tenka-chan."""
@@ -132,8 +132,8 @@ game_event_communications400104706200,甜花,（もう２時間……）,(It's b
 game_event_communications400104706201,甜花,（ちょっと出かけるって……言ってから……）,(She said she was going out for a bit...)
 game_event_communications400104706202,甜花,帰ってこない……,She's not back yet...
 game_event_communications400104706203,甜花,…………………………,..............................
-game_event_communications400104706207,甜花,（どこ、行ったのかな）,(I wonder where she went.)
-game_event_communications400104706209,甜花,（無理して、ないかな……）,(I hope she's not pushing herself too hard...)
+game_event_communications400104706207,甜花,（どこ、行ったのかな）,(Where... did she even go?)
+game_event_communications400104706209,甜花,（無理して、ないかな……）,(She's not working too hard... right......?)
 game_event_communications400104706211,甜花,………………,..................
 game_event_communications400104706214,甜花,"頑張れって言葉は、
 元気が出てくる魔法の呪文","The phrase ""do your best""
@@ -143,12 +143,12 @@ game_event_communications400104706223,甜花,"甜花……
 たくさん、言ってきたけど……","Tenka...
 said that a lot, but..."
 game_event_communications400104706228,甜花,"本当に、頑張るのは……
-甜花、じゃなくて──────","The one who's really doing her best...
-isn't Tenka──────"
+甜花、じゃなくて──────","Tenka's not... the one who's......
+really... doing her best──────"
 game_event_communications400104706231,甜花,……………………,........................
 game_event_communications400104706232,甜花,"想いって……
-どこまで、届くのかな…………","I wonder how far...
-my feelings can reach..."
+どこまで、届くのかな…………","How far......
+can Tenka's feelings reach............"
 game_event_communications400104706238,店内アナウンス,『──────♪』,"""──────♪"""
 game_event_communications400104706239,店内アナウンス,『ご来店いただき、ありがとうございます』,"""Thank you for visiting our store."""
 game_event_communications400104706240,店内アナウンス,『当店は、まもなく閉店のお時間でございます』,"""It is almost time for us to close for the day."""

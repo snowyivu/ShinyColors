@@ -2069,7 +2069,7 @@ shop.battlePassport.missionRewardPop.day,%{day}日目,For day %{day}
 shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewel
 topicPath.produce.knowHowBookSelect,ノウハウブック選択,Know-How Book
 training.expireDate,使用期限 %{expireDate}まで,Expires %{expireDate}
-producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You'll receive %{rewardNum} rewards
+producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You'll receive %{rewardNum} reward(s)
 producerDesk.releaseCondition.title,解放条件,Unlock Condition
 producerDesk.releaseCondition.wingMission,初心者ミッションをクリアする必要があります,You must clear the Beginner Missions
 producerDesk.releaseCondition.trueEndMission,W.I.N.G.攻略ミッションをクリアする必要があります,You must clear the W.I.N.G. Missions

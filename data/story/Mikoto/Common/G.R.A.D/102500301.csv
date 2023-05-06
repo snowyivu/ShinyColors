@@ -1,0 +1,79 @@
+id,name,text,trans
+1025003010010,美琴,…………,............
+1025003010020,美琴,……！,......!
+1025003010030,美琴,──もしもし、プロデューサー？,"──Hello, Producer?"
+0000000000000,プロデューサー,おう、美琴か？,"Hey, Mikoto."
+0000000000000,プロデューサー,"よかった
+ちょうどそっち、着いた頃かと思ってさ","That's good.
+I was just wondering if you got there yet."
+1025003010040,美琴,"『うん
+さっき到着したところ』","""Yeah.
+I just landed."""
+0000000000000,プロデューサー,"そうか、無事着いてよかったよ
+ゆっくりしてきてくれ","Glad you had a safe flight.
+Rest up while you're there."
+1025003010050,美琴,『…………』,"""............"""
+0000000000000,プロデューサー,美琴……？,Mikoto...?
+1025003010060,美琴,"『プロデューサー
+……前にも言ったけど』","""Producer.
+...I've said this before, but"""
+1025003010070,美琴,"『『G.R.A.D.』の予選には、
+間に合うようにするから』","""I'll come back in time for the 'G.R.A.D.' preliminary."""
+0000000000000,プロデューサー,"え……いや、だからそれは
+しばらく、ゆっくりしてから考えようって話しただろ？","Well... We've talked about how you should think it over
+while you're on break, right?"
+1025003010080,美琴,"『……それは、
+私に辞退しろってこと？』","""...Does that mean,
+you want me to withdraw?"""
+0000000000000,プロデューサー,"いや、そうじゃないよ
+だけど、今のままでは出場していいとも言えない","No, that's not it.
+However, I can't say that you should perform as is."
+0000000000000,プロデューサー,"ステージに立つには
+万全の状態でいないとだろ？","You have to be in perfect shape to go on stage,
+right?"
+0000000000000,プロデューサー,それに何より、美琴の身体が大事だ,"And most importantly, your health is the priority."
+1025003010090,美琴,『…………そうかな』,"""......I guess so."""
+0000000000000,プロデューサー,ああ、そうだよ,"Yeah, that's what I think."
+0000000000000,プロデューサー,…………,............
+0000000000000,プロデューサー,"美琴、しばらく休んで
+ご実家の方に帰ってみるのはどうだ？","Mikoto, why don't you take a break for a while and go
+back to your parents' house?"
+1025003010100,美琴,え……,Eh......
+0000000000000,プロデューサー,"スケジュールの調整ならするし
+……ほら、美琴のご実家の方は空気も綺麗だろ？","We can make changes to your work schedule.
+...Well, the air is cleaner at your parents' place too,
+isn't it?"
+0000000000000,プロデューサー,咳も、少しはよくなるんじゃないか──……,It might help with the coughs you've been having──...
+1025003010110,美琴,"…………
+そうかな、わからないけど","............
+If you say so. I don't really know."
+1025003010120,美琴,"私は
+別に、来たくなかった",I didn't have any reason to come here.
+1025003010130,美琴,……帰ってなんて,...I didn't want to go home.
+0000000000000,プロデューサー,『……美琴……』,"""......Mikoto......"""
+1025003010140,美琴,こんな所に来たって──……,Coming to a place like this──......
+1025003010150,美琴,"『──……っ
+ごほっ……』","""──......
+*cough*......"""
+0000000000000,プロデューサー,"だ、大丈夫か……！？
+とにかく、しばらくの間はしっかり休んでくれ","A-Are you okay......!?
+You should get some rest for a while."
+0000000000000,プロデューサー,それで、良くなってきたら考えよう,"When you're feeling better, we'll figure it out."
+1025003010160,美琴,『……そう』,"""......Yeah."""
+0000000000000,プロデューサー,"また、連絡するから
+美琴も、何かあれば……","I'll be in touch.
+Mikoto, if you need anything..."
+0000000000000,プロデューサー,"いや、何もなくてもいい
+いつでも連絡してくれ","Actually, call me anytime,
+even if you don't need anything."
+1025003010170,美琴,"『…………うん
+わかった』","""............Sure.
+Got it."""
+1025003010180,美琴,『……じゃあね』,"""......Bye, then."""
+0000000000000,プロデューサー,…………,............
+0000000000000,プロデューサー,"『G.R.A.D.』……
+見送るべきなんだろうな","""G.R.A.D.""......
+Maybe we should have passed on it."
+0000000000000,プロデューサー,だけど──……,But──......
+info,produce_events/102500301.json,
+Translator,,

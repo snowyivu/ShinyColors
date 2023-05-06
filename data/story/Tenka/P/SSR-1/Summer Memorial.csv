@@ -1,0 +1,109 @@
+id,name,text,trans
+2015004010010,甜花,"うーん……ここが、良いかな……
+それとも、こっち……？","Hmm...... This could be good......
+Or maybe... this one......?"
+0000000000000,プロデューサー,"甜花、何してるんだ？
+調べものか？","What's up Tenka?
+Are you looking something up?"
+2015004010020,甜花,"あ……プロデューサーさん
+そ、その……夏祭り、調べてる……","Oh...... Producer-san
+U-Um...... different...... summer festivals......"
+2015004010030,甜花,なーちゃんと、一緒に行きたくって……,Tenka wanted to go together with Naa-chan......
+0000000000000,プロデューサー,"ああ、もうすぐ夏だからなぁ
+お祭りがはじまる時期だな","Yeah, it's almost summer isn't it......
+It's almost the season for festivals."
+2015004010040,甜花,"う、うん……
+いっぱいあるから、迷って……","M-Mhmm.....
+There's so many...... it's confusing......"
+0000000000000,プロデューサー,"なるほど……
+候補はあるのか？","I see......
+Well, do you have any you like so far?"
+2015004010050,甜花,えっと、ここ……とか……？,Umm...... something like...... this one......?
+0000000000000,プロデューサー,"お、良さそうだな
+花火もやってるし……","Oh, that one looks good,
+since they've got fireworks and all..."
+2015004010060,甜花,"にへへ……
+なーちゃんと、見るの……楽しみ……","Nihehe......
+Seeing it...... with Naa-chan...... will be fun......"
+0000000000000,プロデューサー,ああ、思いっきり楽しんで来い,"Yeah, go and have a ton of fun..."
+0000000000000,プロデューサー,"……だけど、大丈夫か？
+お祭りって人混みすごいだろ？","......but, will you be okay?
+There's some big crowds at festivals."
+2015004010070,甜花,"う、うん……そうだけど、平気……
+なーちゃんがいるし、それに……","Y-Yeah...... she should be...... just fine......
+because...... Naa-chan will be there, and......"
+2015004010080,甜花,"お祭り……人、いっぱいいるけど……
+きらきらしてて……甜花、好き","There's...... lots of people at festivals...... but......
+Tenka... likes how it shines......"
+0000000000000,プロデューサー,良かった、それなら安心だ,"Good, that puts me at ease."
+2015004010090,甜花,プ、プロデューサーさんは……？,"P-Producer-san, do you like them......?"
+0000000000000,プロデューサー,ん？　俺？,Hm? Me?
+2015004010100,甜花,お祭り……好き？,Do you...... like festivals?
+0000000000000,プロデューサー,ああ、なんだかわくわくするよな,"Yeah, I get pretty excited for them."
+0000000000000,プロデューサー,"でも、前は行くこともあったけど、
+ここ数年は忙しくて行けてないんだよな","I used to go but,
+I've been so busy the last few years that I haven't
+been able to."
+2015004010110,甜花,……っ,O-Oh......
+0000000000000,プロデューサー,……甜花、どうした？,"......Whats wrong, Tenka?"
+2015004010120,甜花,"……だ、だって、プロデューサーさん行けないのに……
+甜花ばっか、楽しみにしちゃって……","T-Tenka's going to be out having fun......
+when you can't even go......"
+0000000000000,プロデューサー,（そういうことか……）,(So that's it......)
+select,,"じゃあ、俺の分まで
+楽しんで来てくれ","Well, make sure you 
+have a good time
+without me, okay?"
+select,,また機会はあるさ,There's always another time.
+select,,"甜花が楽しそうだと
+俺も嬉しいよ","I'm just glad that you'll
+get to have fun."
+2015004010130,甜花,プロデューサーさんの分まで？,Without you...?
+0000000000000,プロデューサー,"ああ、そうだ。俺は、甜花が思いっきり楽しんで、
+その思い出話をしてくれたら嬉しいよ","Yeah, that's right. I want you to have tons of fun,
+and I'll be more than happy to hear the stories later."
+2015004010140,甜花,……それで、プロデューサーさんは喜んで、くれる？,......So... you'd be happy... with just that?
+0000000000000,プロデューサー,もちろんだ！,Of course!
+2015004010150,甜花,"じゃ、じゃあ、プロデューサーさんに
+お話、いっぱいできるように……","Th-Then... Tenka will make sure to have fun
+with Naa-chan......"
+2015004010160,甜花,甜花……なーちゃんと、いっぱい楽しんでくるね……！,So that...... she can tell you lots of stories......!
+0000000000000,プロデューサー,ああ。土産話、待ってるよ,"Sure, I'll be waiting to hear about your adventures."
+2015004010170,甜花,"機会……
+じゃあ、次は……甜花たちと行こう……？","Another time......
+So, next time...... you'll come with us......?"
+0000000000000,プロデューサー,え、甜花たちと？,"Huh, with you two?"
+2015004010180,甜花,"だ、ダメ……？
+な、なーちゃんも、きっと喜ぶ……と、思う……","I-Is that bad......?
+Naa-chan would... be really happy...... too....."
+0000000000000,プロデューサー,"……甜花、ありがとう
+そうだな、きっと楽しそうだ。次の時は、一緒に行こう","......Thank you Tenka.
+You're right, that does seem fun.
+Lets go next time, okay?"
+2015004010190,甜花,にへへ……プロデューサーさん、約束……,Nihehe...... you promised... Producer-san......
+2015004010200,甜花,"そうだ……千雪さんも誘って、良い……？
+そしたら……もっと、楽しい……から……","Oh right...... Would it... be okay to...... invite Chiyuki-san 
+too? If we do...... it'll be...... even more fun..... so......"
+0000000000000,プロデューサー,"良いな、それ
+あとで千雪にも話をしに行こうか","That sounds great!
+We should go talk to Chiyuki about it later."
+2015004010210,甜花,"にへへ……
+みんなでお祭り……行けると良いな……","Nihehe......
+Tenka hopes...... that we can all go to the festival......"
+2015004010220,甜花,……そうなの？,......you are?
+0000000000000,プロデューサー,"ああ、
+甜花の笑顔には人を幸せにする力があるから……","Yeah,
+your smile has the power to make anyone happy......"
+0000000000000,プロデューサー,甜花はたくさん笑って、みんなに幸せを届けてくれ,"So I want you to smile a lot,
+and make everyone happy."
+2015004010230,甜花,人を幸せにする、笑顔……,The power to... make people happy......
+2015004010240,甜花,"プロデューサーさんに、そう言われたら
+できるような気がしてきた……","Tenka thinks... she can do it......
+since you said that, Producer-san......"
+0000000000000,プロデューサー,そのために、夏祭りを思いっきり満喫してこい！,"And to that end, make sure you enjoy
+this summer festival to the fullest!"
+2015004010250,甜花,"うん……！
+甜花、いっぱい楽しいことしてくる……！","Yeah......!
+Tenka... will do lots of fun stuff......!"
+info,produce_events/201500401.json,
+Translator,@kotonekotoP,

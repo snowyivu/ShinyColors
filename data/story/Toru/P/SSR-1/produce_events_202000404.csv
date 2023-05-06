@@ -1,0 +1,165 @@
+id,name,text,trans
+0000000000000,プロデューサー,──てことで,──With that said.
+2020004040010,透,……うん,…Yeah.
+0000000000000,プロデューサー,"個人レッスン増やすけど、勉強とのバランスもとりたい
+だから、きつそうだと思ったら相談すること","You'll be taking more individual lessons, on top of 
+balancing your studies, of course. Do let me know if 
+it's too much or anything like that."
+2020004040020,透,……ん,...Mn.
+0000000000000,プロデューサー,──携帯、置いてくれていいんだぞ？,"──It wouldn’t hurt to put down your phone 
+even just for a little, you know?"
+2020004040030,透,はーい、ごめん────,Riiight. Sorry────
+2020004040040,透,"──なんか来てて
+樋口から","──Got a message.
+From Higuchi.
+"
+0000000000000,プロデューサー,"あぁ……同じ件かもしれない
+全体レッスンの日程も、合わせて調整するからさ","Ahh... It's probably about what we just discussed.
+Your group lessons are also being adjusted, 
+after all."
+2020004040050,透,"そっか
+うん、話はわかったよ","I see.
+Okay, I got it.
+"
+0000000000000,プロデューサー,"よし、じゃそれ飲んだら出よう
+──会計してくる","Alright then, we'll leave once you're done with 
+that drink.
+──I'll get the bill."
+2020004040060,透,──え……,──Eh...
+0000000000000,プロデューサー,ん？,Hm?
+2020004040070,透,"あ……
+今日もいいの？","Ah...
+Today's fine too?"
+2020004040080,透,なんかさ、いつも奢ってもらってない？,"Like, it feels like I'm always getting treated, 
+you know?"
+0000000000000,プロデューサー,"えっ、いや……
+これ経費だからさ","Eh, I wouldn't...
+It's a company expense, so."
+2020004040090,透,"……え、うん
+経費かもだけど──","...Um, yeah.
+It might be a company expense but──"
+2020004040100,透,毎回、奢ってもらってるじゃん,I'm always the one getting treated.
+0000000000000,プロデューサー,"……うん
+だから、奢るっていうか……──","...Yeah.
+Like I said, rather than a treat, it's more like...──"
+0000000000000,プロデューサー,道端で打ち合わせするわけにもいかないし……,"We can't just hold a meeting in the middle of 
+a street after all..."
+0000000000000,プロデューサー,"ごはん時だったら、
+大事なアイドルのお腹空かせとくわけにもいかない","And if it’s close to meal time, 
+we can't just have our precious idols be left 
+hungry after all."
+2020004040110,透,あー……,Ahh...
+0000000000000,プロデューサー,な？,Right?
+2020004040120,透,アイドルか……,"Idol, huh..."
+2020004040130,透,──奢ってもらってるって感じなんだ、なんか,"──It feels like you're treating me all the time, 
+though."
+0000000000000,プロデューサー,"……？
+そうなのか","...?
+Is that so?"
+2020004040140,透,"今日私のやったこと、
+釣り合わないなって──","It doesn't add up with
+what I did for today too──"
+2020004040150,透,『さっぱりおろしハンバーグとカキフライ膳』に,"With the ""Refreshing Hamburg Steak with Grated 
+Radish and Fried Oysters"" I had."
+0000000000000,プロデューサー,────いや……,────Nah...
+2020004040160,透,"うん
+まぁちょっと……","Yeah.
+Well, anyway..."
+2020004040170,透,ここはワリカンで,Let's split the bill for today.
+0000000000000,プロデューサー,"……っ
+透…………！？","…
+Toru......?!"
+select,,待ってくれ……！,Hold up...!
+select,,気にしないでくれ！,"Don't worry 
+about it!"
+select,,だ、ダメだ……！,N-No...!
+0000000000000,プロデューサー,"いや、その……
+透の気持ちも、確かになって思うんだけどさ","I mean, um...
+I understand how Toru feels about this."
+0000000000000,プロデューサー,"けど、じゃあワリカンが正しいかっていうと
+そうとも思えない","But, that doesn't mean splitting the bill
+is the right answer."
+2020004040180,透,……そうなの？,...Really?
+0000000000000,プロデューサー,"うん。透と俺が個人的に遊びに来たっていうんなら
+奢ったり奢られたり、ワリカンしたりっていうのもいいけど","Right. It's fine to treat one another, or even split 
+the bill if it's us going out to have fun outside 
+of work."
+0000000000000,プロデューサー,今は、仕事の時間だからさ,"But, it's work right now."
+2020004040190,透,あー……うん,Ahh... Yeah.
+2020004040200,透,だから、仕事できてないなって,"That's why I said, I haven't done any work at all."
+0000000000000,プロデューサー,"ははっ、そんなことないぞ
+今日はちゃんと話を聞くのが仕事","Haha. That's not true.
+You sat through our meeting today. 
+That's plenty of work done."
+0000000000000,プロデューサー,"だから、レッスンの件わかってくれたならお疲れ様だ！
+1,373円、払わせてくれ","If you've understood what I've just told about 
+the lessons, then that's a job well done!
+So, let me pay the outstanding 1,373 yen for that."
+2020004040210,透,"そっか
+────うん。わかった","I see.
+────Okay. Got it.
+"
+2020004040220,透,じゃ、今度はワリカンね,"Then, let's split the bill next time."
+0000000000000,プロデューサー,……ん？,...Hm?
+2020004040230,透,ふふっ,Fufu.
+2020004040240,透,ね,Okay?
+2020004040250,透,"……え
+でも、気にするし","...Eh.
+But, I do."
+0000000000000,プロデューサー,あぁ……なんて言ったらいいかな──,Ahh... How should I put this──
+2020004040260,透,ていうか、奢れなくてすみません,"Oh and, sorry I couldn't make it a treat."
+0000000000000,プロデューサー,"……っ
+だから────","…
+Like I said────
+"
+0000000000000,プロデューサー,"──うん、それじゃ
+気にしてくれ","──Okay. 
+Then, worry about it."
+2020004040270,透,え？,Eh?
+0000000000000,プロデューサー,"……ええと、代金のこと気にしてもらう
+それで、次のレッスンで今日の分を返してもらいたい","...Umm, it's the bill you're worried about, right?
+So, you can return that amount in your lessons."
+0000000000000,プロデューサー,"『さっぱりおろしハンバーグとカキフライ膳』分のカロリー
+しっかり消費して、頑張ってくれ！","That is, the amount of calories from your 
+""Refreshing Hamburg Steak with Grated Radish 
+and Fried Oysters"". Break a leg!!"
+2020004040280,透,──あー……,──Ahh...
+2020004040290,透,"ふふっ
+そっか、うん","Fufu.
+I see. Got it.
+"
+2020004040300,透,……899キロカロリー,...899 kilocalories.
+2020004040310,透,結構、大変かも,This is... going to be tough.
+2020004040320,透,────え,────Eh.
+0000000000000,プロデューサー,"あ……すまん
+その────","Ah... Sorry.
+Um────"
+0000000000000,プロデューサー,"透の気持ち、すごく嬉しいよ
+仕事できちんと成果を上げなきゃって思ってくれてるんだな","I'm really happy you think that way, Toru.
+That reward comes with work being done."
+2020004040330,透,"え、うん
+……わかんないけど","Eh, yeah.
+… I don't know about that."
+0000000000000,プロデューサー,"いや、嬉しい
+でも──","Still, I'm glad.
+But──"
+0000000000000,プロデューサー,"ワリカンすればそれで終わりってふうには
+したくないんだ","I don't want things to be resolved 
+with just ""splitting the bill""."
+2020004040340,透,…………,……
+0000000000000,プロデューサー,"うん。俺は、お金とかごはんとか
+そういうもので透とつながってるとは、思ってないからさ","Yeah. Things like money or meals.
+I don't want that to be the things that matter 
+between us."
+0000000000000,プロデューサー,"だから、いいんだ
+透がそうやって、頑張ろうって思ってくれてるなら","So, it's fine.
+As long as Toru continues to believe in working hard 
+for her goals like that."
+2020004040350,透,"……そっか
+ふふっ、大丈夫","...I see.
+Fufu, don't worry about it."
+2020004040360,透,"カキフライとハンバーグ以上のつながりだから
+私たち","Our bond is more than just
+fried oysters and hamburg, after all."
+info,produce_events/202000404.json,
+Translator,OrangeKabocha,

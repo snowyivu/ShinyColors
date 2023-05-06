@@ -1,34 +1,38 @@
 id,name,text,trans
 7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
-この調子で、と思ったんですけど","That's too bad... I thought that since you passed the first judging, you'd keep it up."
-7901001040020,はづき,現実は、なかなか厳しいですね……,"However, reality is pretty harsh..."
+この調子で、と思ったんですけど","That's too bad... I thought you'd be able to keep up
+your pace after winning the first one."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Real life is pretty tough though, huh......"
 7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
-悪くない結果だった","For a new idol and new Producer, it wasn't too bad of a result."
+悪くない結果だった","But, it wasn't that bad of a result,
+for both a new idol and producer."
 0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
-俺にもっと力があれば……！",I think that I can still keep going onwards. If only I had more ability...!
-7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+俺にもっと力があれば……！",I think I can still keep going. If only I had done better......!
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I was critical, but I don't want to hear any complaining."
 7902001040030,社長,"力が足りないのなら、彼女とともに
-これから成長していけばいいだけのことだ","All it means is that if your ability is lacking, you need to keep growing together with her."
+これから成長していけばいいだけのことだ","If you weren't good enough,
+then you need to keep growing together with her."
 0000000000000,プロデューサー,"……そうですね
-彼女に、会いに行ってきます",...You're right. I'm going to meet her.
-7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+彼女に、会いに行ってきます","...You're right.
+I'm going to go check on her."
+7902001040040,社長,ああ、行ってこい,"Alright, take care of her."
 0000000000000,プロデューサー,"二次審査の結果だが……
-落選だった","For the second round's results...
+落選だった","So, for the second round's results...
 You didn't pass."
 7015001040010,甜花,"うん……
-だめだったんだ……","Yes...
-So it's useless after all..."
-0000000000000,プロデューサー,甜花は本当によく頑張ってたんだけどな……,Even though Tenka has worked so hard...
-7015001040020,甜花,でも……結果、出なかった……,"But... the result, says otherwise..."
+だめだったんだ……","Yeah......
+She really is a failure......"
+0000000000000,プロデューサー,甜花は本当によく頑張ってたんだけどな……,"Keep in mind, you did work really hard..."
+7015001040020,甜花,でも……結果、出なかった……,But...... she didn't... pass......
 0000000000000,プロデューサー,"……なあ、甜花。ゆっくりでもいいから
-自分のペースで頑張っていけばいいんじゃないか？","...Hey, Tenka. It's alright to take it slowly.
-Why don't we try to work hard at your own pace?"
-7015001040030,甜花,甜花のペースで……,Tenka's own pace...
+自分のペースで頑張っていけばいいんじゃないか？","...Hey, Tenka. It's alright to take it slowly, so why
+don't you try to take things at your own pace?"
+7015001040030,甜花,甜花のペースで……,Tenka's own pace......
 0000000000000,プロデューサー,"ああ、そうだ
 俺もちゃんとサポートするから","Yeah, that's right.
-I'll make sure to properly support you."
+And i'll support you along the way."
 7015001040040,甜花,"……うん
-もうちょっと、頑張ってみるね……","...okay.
-Just for a little bit, let's do our best."
+もうちょっと、頑張ってみるね……","......Okay.
+She'll try her best... just a bit more......"
 info,produce_events/701500104.json,
 Translator,,
