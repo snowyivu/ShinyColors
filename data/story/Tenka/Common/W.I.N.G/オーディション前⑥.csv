@@ -1,34 +1,35 @@
 id,name,text,trans
-4015001000230010,甜花,今日は……みんなに迷惑をかけないようにしないと……,Today... Tenka must make sure to not bother everyone else...
+4015001000230010,甜花,今日は……みんなに迷惑をかけないようにしないと……,"Today...... Tenka has to make sure she doesn't trouble
+everyone else......"
 0000000000000,プロデューサー,"（甜花も頑張ろうとしてるんだな
-それなら……）","(Tenka is doing her best.
+それなら……）","(Tenka is about to work really hard.
 In that case...)"
 select,,"今の甜花なら
-できるはずだ","Tenka can definitely
-do it now."
+できるはずだ","You can do it
+as you are now"
 select,,"困ったときには
 頼ってくれ","If you're 
 troubled,
 count on me."
-select,,俺は必要無さそうだな,"You can do it
-without me."
+select,,俺は必要無さそうだな,"Looks like you
+won't need me."
 4015001000230020,甜花,"うん……いっぱい頑張ってきたから……
-今日も、頑張ってくるね……！","Yes... Tenka has done her best...
-Today too, she'll doing her best as well...!"
+今日も、頑張ってくるね……！","Yeah...... she's worked hard, so...... she'll do her best
+today, too......!"
 0000000000000,プロデューサー,"（上手く背中を押してあげられたみたいだ
-いいパフォーマンスを期待できそうだ）","(It seems she got her well-needed push on the back.
-She'll definitely give her best performance.)"
+いいパフォーマンスを期待できそうだ）","(It seems she got her well-needed encouragement.
+Looks like I can expect a great performance.)"
 4015001000230030,甜花,"ありがと……でも、頼らなくてもいいように
-甜花、頑張ってくるから……っ","Thank you... But, it's okay without help.
-Tenka, will do her best..."
+甜花、頑張ってくるから……っ","Thanks... but, she'll try to do her best...
+without having to rely on you......"
 0000000000000,プロデューサー,"（ひとりで頑張ろうとしてる甜花を、
-もっと信じてもよかったな）","(Tenka tried to do her best on her own.
-I should've trusted her more about that.)"
+もっと信じてもよかったな）","(Tenka's going to try to do it all on her own,
+so I should support her a bit more.)"
 4015001000230040,甜花,"え……プロデューサーさん、いないの……？
-な、なんか……ダ、ダメな気がしてきた……","Eh... Without, Producer...?
-S-somehow... It feels impossible..."
+な、なんか……ダ、ダメな気がしてきた……","Huh...... without you, Producer-san......?
+Th-That's kinda...... bad to think about...... "
 0000000000000,プロデューサー,"（甜花のことを信じてると伝えるつもりが……
-いきなりすぎたみたいだ）","(I was about to say I believe in Tenka, but...
-I guess that was too sudden.)"
+いきなりすぎたみたいだ）","(I intended on showing my support for her, but......
+I guess it was pretty abrupt.)"
 info,produce_communication_cheers/401500100023.json,
 Translator,,

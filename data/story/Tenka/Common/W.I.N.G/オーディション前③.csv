@@ -1,30 +1,30 @@
 id,name,text,trans
 4015001000130010,甜花,"い、いつも通り……いつも通りに頑張れば……
-大丈夫……","A-as always... If you do your best as always...
-It'll be fine..."
+大丈夫……","If she...... If she tries her best like always......
+It'll be okay......"
 0000000000000,プロデューサー,"（ちょっと気負いすぎてるな……
 少しでも、気持ちを落ち着かせられる言葉は……）","(It seems she's little bit nervous...
-Words that can calm her for a bit are...)"
-select,,笑ってみよう,Try to laugh.
-select,,楽しめばいいんだ,Try to enjoy it.
+What are some words to calm her down...)"
+select,,笑ってみよう,Try laughing
+select,,楽しめばいいんだ,Try to have fun
 select,,難しく考えすぎるな,"Don't think 
 too hard
-about it."
+about it"
 4015001000130020,甜花,"う、うん……にへへ……
-あ……なんか、楽しくなってきた……かも","Y-yes... Nihehe...
-Ah... Perhaps, it will be fun... Maybe."
+あ……なんか、楽しくなってきた……かも","Y-Yeah...... Nihehe......
+Oh...... She's having a little more fun...... maybe......"
 0000000000000,プロデューサー,"（よし！　いい具合にリラックスもできたみたいだな
-余計な力が抜けていいステージになりそうだ）","(Alright! It seems she's relaxed well.
-She can do her best on stage now.)"
+余計な力が抜けていいステージになりそうだ）","(Alright! It seems like she's in a good spot now.
+She'll be able to do even better in the performance.)"
 4015001000130030,甜花,"た、楽しく……？　なーちゃんと、
-お話しするみたいに……かな……や、やってみる、ね……","E-enjoy it...? Just like
-what Naa-chan said... Maybe...  Tenka will try, okay..."
-0000000000000,プロデューサー,（肩の力を抜いてあげられたかな）,(I wonder if her shoulders relaxed as well.)
+お話しするみたいに……かな……や、やってみる、ね……","H-Have fun......? Just like...
+what Naa-chan said...... Tenka will... try it......"
+0000000000000,プロデューサー,（肩の力を抜いてあげられたかな）,(I wonder if she was able to relax.)
 4015001000130040,甜花,"う、うん……簡単に……簡単に……
-あれ……？　このあと、どうするんだっけ……","Y-yes... Take it easy... Take it easy...
-Huh...? What to do, after this..."
+あれ……？　このあと、どうするんだっけ……","Y-Yeah...... Take it easy...... Take it easy......
+Huh......? What was happening... after this......?"
 0000000000000,プロデューサー,"（落ち着きはしたけど、
 違うことを忘れちゃったみたいだ）","(She's calmed down,
-but it seems she's forgotten something else.)"
+but it seems like she's forgotten something else.)"
 info,produce_communication_cheers/401500100013.json,
 Translator,,

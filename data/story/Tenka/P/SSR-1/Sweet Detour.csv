@@ -41,12 +41,14 @@ if she could... have a late snack......"
 だから、終わってない……","B-But...... we're working until we head back...... right?
 So... work isn't done yet......"
 0000000000000,プロデューサー,"（そうか、事務所に帰るまではまだ仕事だと思って、
-気軽に寄り道しようと思えなかったんだな）","(I see, she still thinks we're 
-working until we get back......
-She doesn't think we can just stop by)"
-select,,一緒に行くか？,Want to go together?
-select,,じゃあ、買ってこうか,"Well, lets go buy some"
-select,,近くで見てみようか,Let's take a closer look.
+気軽に寄り道しようと思えなかったんだな）","(I see, she still thinks we're working until we get
+back...... She doesn't think we can just stop by)"
+select,,一緒に行くか？,"Want to go
+together?"
+select,,じゃあ、買ってこうか,"Well, lets go
+buy some"
+select,,近くで見てみようか,"Let's take a
+closer look."
 2015004030090,甜花,ほ、ほんと？　良いの……？,R-Really? Is that okay......?
 0000000000000,プロデューサー,"ああ。仕事、頑張ってただろ？
 そのご褒美にしよう","Yeah. You've worked hard, haven't you?
@@ -94,8 +96,7 @@ Oh, are you buying it too, Producer-san......?"
 wants to eat with you, Producer-san......"
 0000000000000,プロデューサー,"甜花……
 そうだな、せっかくだから、一緒に食べようか","Tenka......
-Right, since you've worked
-so hard, let's eat it together."
+Right, lets eat together since you've worked so hard."
 2015004030190,甜花,"うん……！
 にへへ、プロデューサーさんと食べるの、楽しみ……","Okay......!
 Nihehe... eating... with Producer-san... sounds fun......"
