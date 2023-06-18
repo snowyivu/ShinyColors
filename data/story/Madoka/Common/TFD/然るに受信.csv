@@ -1,0 +1,84 @@
+id,name,text,trans
+0000000000000,プロデューサー,……どうだ？,...How is it?
+1021002020010,円香,………………,......
+1021002020011,円香,まあ、焼き芋の味がしますね,"Well, it tasted like roasted sweet potato alright."
+0000000000000,プロデューサー,はは、そうか。よかった……！,"Haha, I see. That's great...!"
+1021002020020,円香,"……何それ
+美味しいともなんとも言ってないんですが","...What's with that.
+I didn't say it tasted good or anything."
+0000000000000,プロデューサー,"ん……？
+すまん、いまいちだったか？","Hm...?
+My bad. It didn't taste good enough?"
+1021002020030,円香,"別に
+とても美味しいです","Not at all.
+It was delicious."
+1021002020040,円香,"いくらでしたか
+800円くらい？","How much was it?
+Around 800 yen?"
+0000000000000,プロデューサー,"ああ、気にしないでくれ
+これは差入れだからさ","Aah, forget about it.
+It's a treat."
+1021002020050,円香,"ありがとうございます
+でも、余計な気遣い無しで","Thank you,
+but I'd rather not receive anything I didn't ask for."
+0000000000000,プロデューサー,気持ちとして,It's a token of my appreciation.
+1021002020060,円香,取引として,It's a transaction.
+0000000000000,プロデューサー,うぐ……,Ugh...
+1021002020070,円香,"……もうどっちでもいいけど
+手間の分も上乗せで払いますので","...It doesn't matter either way.
+I'll pay extra for the trouble too."
+0000000000000,プロデューサー,"わかった、受け取る
+でも手間賃は無しだ","Okay, I'll accept that.
+But I don't need the extra."
+1021002020080,円香,"……強情
+じゃあ、それで","...You're stubborn.
+Whatever. I'll settle with that."
+0000000000000,プロデューサー,"交渉成立……！
+すまん、ありがとうな","It's a deal...!
+Sorry but thanks."
+1021002020090,円香,"……
+あなたが謝る理由もありませんが","...
+There's no reason for you to apologize."
+1021002020100,円香,"気持ちを押し付けられても、
+私は返す気がないので","Even if you gave it with feelings of appreciation,
+I won't give you anything in return."
+1021002020110,円香,"なるべく受け取りたくない
+それだけです","Which is why I don't want to accept anything as
+much as possible. That's all there is to it."
+0000000000000,プロデューサー,"なるほど……
+受け取る理由があったら違うのか？","I see... It becomes wrong if there's a reason for
+accepting it?"
+1021002020120,円香,……まあ、場合により,"...Well, in some cases."
+0000000000000,プロデューサー,よし、わかった,"Alright, I got it."
+1021002020130,円香,わかってないですよね,"No, you haven't."
+0000000000000,プロデューサー,"はは……
+いや、まあ……","Haha...
+Well then..."
+0000000000000,プロデューサー,"もう円香からもらったものを、
+俺の方が返したかっただけなんだ","I just wanted to give back what I already received
+from you, that's all."
+0000000000000,プロデューサー,"感謝祭も大成功だったし、
+ありがとう、お疲れ様って伝えたくてさ","Thanks Flapping Day was a big success,
+and all I wanted was to say good job and thank you."
+1021002020140,円香,……それはどうも,...You're very welcome then.
+0000000000000,プロデューサー,"SNSの感想とかもみんなにも見てもらえるように
+まとめているところなんだけど……ちょっと見るか？","I've been looking at socials so that I can show them
+to everyone. I'm just about done rounding them up...
+Wanna take a peak?"
+1021002020150,円香,……いえ,...No.
+0000000000000,プロデューサー,"そうか、うん……じゃあ、
+円香のファンの人たちも喜んでいたことだけ伝えておくな","I see. Well... in that case.
+I'll just say that your fans were elated."
+0000000000000,プロデューサー,"特に歌についてのコメントが多かったよ
+もちろん、良い内容だ","There are many comments about the singing in
+particular and of course they were all praises."
+1021002020160,円香,……,...
+1021002020170,円香,"それは歌詞や曲や何かの力で、
+私は関係ない","That's all 'cos of the lyrics, composition or whatever,
+and nothing to do with me."
+0000000000000,プロデューサー,そうか？,Really?
+1021002020180,円香,だって、私は,Because...
+1021002020190,円香,誰かのために、歌っていない,I wasn't singing for the sake of anyone.
+1021002020200,円香,………,......
+info,produce_events/102100202.json,
+Translator,Mycstea,

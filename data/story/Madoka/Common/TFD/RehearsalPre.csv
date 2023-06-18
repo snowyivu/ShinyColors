@@ -1,0 +1,20 @@
+id,name,text,trans
+6021002010010,円香,……,...
+0000000000000,プロデューサー,"お、円香
+そろそろ時間だぞ","Hey, Madoka.
+It's about time."
+6021002010020,円香,はい,Yes.
+0000000000000,プロデューサー,どうかしたか？,Something bothering you?
+6021002010030,円香,……いえ,...Not really.
+6021002010040,円香,"思っていたより、
+ちゃんとしたリハですね","This rehearsal's just way more
+formal than I expected."
+0000000000000,プロデューサー,……ああ。そう思ってもらえたなら良かった,...Ahh. I'm glad you think so.
+6021002010050,円香,てっきり学園祭レベルかと,I thought it'd be like a school festival.
+0000000000000,プロデューサー,そうなのか？,Really?
+6021002010060,円香,はい,Yes.
+6021002010070,円香,"私たちでステージを作れというのは、
+……そういうことでしょ？","Cos when you said you wanted a perfomance 
+made by us... Wasn't that what you meant?"
+info,produce_events/602100201.json,
+Translator,Mycstea,

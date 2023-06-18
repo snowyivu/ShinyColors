@@ -1,0 +1,45 @@
+id,name,text,trans
+1021002010010,円香,はい,Yes.
+0000000000000,プロデューサー,"『お疲れ様、円香！
+──あのさ、焼き芋って食べるか？』","『Good job, Madoka! ──Hey, do you want some
+roasted sweet potatoes?』"
+1021002010020,円香,……,......
+1021002010030,円香,何？,What?
+0000000000000,プロデューサー,"今、そっちに向かっているところなんだけど、
+焼き芋の軽トラを見つけてさ……","I'm on my way over to you, but there's a mini truck
+street vendor selling roasted sweet potatoes..."
+1021002010040,円香,『……この音、もしかして走ってます？』,"『...That sound... Wait, are you running?』"
+0000000000000,プロデューサー,ああ！　ちょっと追いかけてる！,Aah! Yeah I'm chasing after it!
+1021002010050,円香,『…………』,『......』
+0000000000000,プロデューサー,"レッスン後だから小腹が減っているんじゃないかと思って
+でも、好きじゃないものを持っていってもアレだろ？","I thought you might be a little hungry after the
+lesson, but still, it would be awkward if I brought
+something you wouldn't like, right?"
+0000000000000,プロデューサー,だから──……！,So──...!
+1021002010060,円香,『……』,『...』
+1021002010070,円香,『……焼き芋は』,『...Roasted sweet potatoes is...』
+0000000000000,プロデューサー,──！　あっ……！,──! Agh......!
+0000000000000,プロデューサー,"ま、まずい……！　画面、割れて……ないな……
+はあ……ビックリした……","A-ah crap...! The screen... didn't crack... I think...
+Haah... That was close..."
+1021002010080,円香,『なんの音ですか？』,『What was that noise?』
+0000000000000,プロデューサー,"ああ、すまん……
+今、スマホを落としてしまって","Hello? I'm sorry...
+I dropped my phone just now."
+1021002010090,円香,"『……？
+…………………………』","『...?
+......』"
+0000000000000,プロデューサー,……円香？　おーい……？,...Madoka? Helloo...?
+1021002010100,円香,『ちょっと……何……？』,『Hey... What...?』
+1021002010110,円香,"『……こっちの声、
+…………聞こえますか』","『...Can you hear me?
+......Hello?』"
+0000000000000,プロデューサー,"あ、あれ……。円香の声、聞こえてるぞ……！
+こっちの声は聞こえないか……？","H-huh... I can hear your voice...!
+Can you hear anything from my end...?"
+1021002010120,円香,『…………』,『...』
+0000000000000,プロデューサー,おーい……！,Hellooo...!
+1021002010130,円香,『…………何も』,『......I can't』
+1021002010140,円香,『何も聞こえない』,『hear anything.』
+info,produce_events/102100201.json,
+Translator,Mycstea,

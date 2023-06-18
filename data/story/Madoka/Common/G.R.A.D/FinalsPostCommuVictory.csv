@@ -1,0 +1,28 @@
+id,name,text,trans
+6021003080010,円香,聞こえました？,Could you hear it?
+6021003080020,円香,"最後のステップで、
+……思い切りステージを踏みつけた、音","The sound of that last step.
+...I stomped as hard as I could."
+0,プロデューサー,"えっ、あ……？
+それは見ていたけど音か……いや、音は……","Eh, ah...?
+I saw it but the sound though... Hmm..."
+6021003080030,円香,あ、聞こえなかったなら結構です,"Ah, it's fine if you couldn't hear it."
+0,プロデューサー,すまん、音響も歓声もすごかったから……,"I'm sorry, the music and cheers were too loud, so..."
+6021003080040,円香,はい、でしょうね,"Yes, I suppose so."
+6021003080050,円香,というか私の耳にも聞こえませんでしたし,Even I couldn't hear it with my own ears.
+0,プロデューサー,え？　そ、そうか……？,Eh? R-Really...?
+0,プロデューサー,"いや……
+でもなんだかいつもよりダイナミックで……","No, I meant...
+It's like, more dynamic than usual..."
+6021003080060,円香,……ダメでしたか？,... Was it no good?
+0,プロデューサー,"いや、すごく良かった
+なんというか……","No, it was great.
+How do I say it..."
+0,プロデューサー,ゾウがドシーンって感じで……！,It felt like an elephant came crashing down...!
+6021003080070,円香,ゾウ？,An elephant?
+0,プロデューサー,ゾウ,An elephant.
+6021003080071,円香＆プロデューサー,……………………,......
+6021003080072,円香＆プロデューサー,……ふっ,...Hehe.
+6021003080073,円香＆プロデューサー,ふふっ………,Hehehe...
+info,produce_events/602100308.json,
+Translator,Mycstea,

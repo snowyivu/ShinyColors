@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,69
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,70
 images/ui/common/parts.json_image,common_parts.png,40
 images/ui/my_page/parts.json_image,my_page.parts.png,43
 images/ui/fes/parts.json_image,fes_parts.png,37
@@ -7,9 +7,9 @@ images/ui/common/parts_icons.json_image,common_parts_icons.png,31
 images/ui/option/parts.json_image,ui_option_parts.png,25
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
-images/ui/concert/parts.json_image,concert_parts.png,23
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,26
-images/ui/gasha/parts.json_image,gasha_parts.png,26
+images/ui/concert/parts.json_image,concert_parts.png,24
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,27
+images/ui/gasha/parts.json_image,gasha_parts.png,27
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
 images/ui/idol_list/parts.json_image,idol_list_parts.png,20
@@ -560,7 +560,7 @@ images/content/comics/web/page/10207.jpg,4koma/207.jpg,2
 images/content/comics/web/page/10208.jpg,4koma/208.jpg,2
 images/content/comics/web/page/10209.jpg,4koma/209.jpg,2
 images/ui/common/parts_filter_category.json_image,common_parts_filter_category.png,4
-images/ui/comic/parts.json_image,comic_parts.png,9
+images/ui/comic/parts.json_image,comic_parts.png,10
 images/ui/produce_action/parts_effect.json_image,produce_action_effect.png,12
 images/ui/produce_top/parts_produce_item_content.json_image,produce_top_item_content.png,10
 images/ui/cloth_change/content_parts.json_image,cloth_change_parts.png,9
@@ -614,7 +614,7 @@ images/ui/fes_tower_common/parts.json_image,fes_tower_common_parts.png,3
 images/ui/fes_tower_deck/parts_endurance.json_image,fes_tower_deck_parts_endurance.png,2
 images/ui/fes_tower_deck/parts.json_image,fes_tower_deck_parts.png,2
 images/ui/fes/fes_ready.json_image,fes_ready.png,2
-images/ui/fes/fes_deck.json_image,fes_deck.png,6
+images/ui/fes/fes_deck.json_image,fes_deck.png,7
 images/ui/fes/fes_trends.json_image,fes_trends.png,2
 images/ui/fes_tower_item/parts.json_image,fes_tower_item_parts.png,2
 images/ui/fes_tower_live_panel/parts.json_image,fes_tower_live_panel_parts.png,4
@@ -945,4 +945,9 @@ images/content/support_idols/name/4982c555b4a934774974218e71377e1b_2030210030.pn
 images/content/idols/name/7a60c62309e64be0a09eb09da7052279_1040070060.png,cards/yuika_p_ssr_6.png,2
 images/content/idols/name/3c983e5fb9bb7eaa925c4d8ab6ac9674_1040150010.png,cards/tenka_p_ssr_1.png,9
 images/content/idols/name/9627c8bb1322c0bce3487adfa5cead04_1040200010.png,cards/toru_p_ssr_1.png,2
-images/content/idols/name/18ae2ddca621a75c0e02961f31ba35f7_1940250010.png,cards/mikoro_p_r_3.png,2
+images/content/idols/name/18ae2ddca621a75c0e02961f31ba35f7_1940250010.png,cards/mikoto_p_r_3.png,2
+images/content/idols/name/31e584f78b7e203ea49513a5c03a20c4_1030210010.png,cards/madoka_p_sr_1.png,2
+images/content/idols/name/3da66e3ac5f9a8cafafb3f52634ed78a_1040060030.png,cards/sakuya_p_ssr_3.png,3
+images/content/idols/name/548401a0c3696b9e515f4ff29fb04407_1040210030.png,cards/madoka_p_ssr_3.png,2
+images/content/support_idols/name/b0f8690698e52dcd48de0242c4d8dfd3_2040210030.png,cards/madoka_s_ssr_3.png,2
+images/content/support_idols/name/23fa9e559ec6287c150eea176e98f326_2040210070.png,cards/madoka_s_ssr_7.png,1

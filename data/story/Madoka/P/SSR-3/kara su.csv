@@ -1,0 +1,150 @@
+id,name,text,trans
+2021007040010,円香,……んん……っ,...(Clears throat)...
+2021007040020,円香,…………,...
+0,プロデューサー,──あれ、円香,"──Oh, it's Madoka."
+0,円香,…………,...
+0,プロデューサー,"事務所に寄ってくれていたのか
+気付かなかったよ",Didn't notice you dropping by the office.
+0,プロデューサー,"今は休憩中？
+──すまん、ちょっとだけ邪魔するな","Was it an off day?
+──Sorry, I won't be bothering you."
+0,プロデューサー,えーと……,Hm-m...
+2021007040040,円香,……？,...?
+0,プロデューサー,"なあ、このあたりにカラスの巣があるの知ってるか？
+ここから見えるかな──……","Hey, did you know that there's a crow's nest around here?
+Maybe you can see it from here──..."
+2021007040050,円香,……ああ、カラスの巣？,"... Aah, the crow's nest?"
+0,プロデューサー,……！,...!
+2021007040060,円香,"そこの柵の下じゃない
+そのあたりから、よく声がした","It's not under that fenced area there.
+You can hear it from around there."
+0,プロデューサー,いや、円香……,"Hey, Madoka..."
+2021007040070,円香,何？,Yes?
+0,プロデューサー,声、大丈夫なのか？,Is your voice okay?
+2021007040080,円香,"ああ……別に……
+次の仕事までに治します","Yea... It's fine...
+It'll recover by the next job."
+0,プロデューサー,……,...
+2021007040090,円香,"……別にじゃないか
+報告せず申し訳ありません","...Yeah it's not fine.
+I apologize for not reporting about it."
+0,プロデューサー,……いや,...No.
+0,プロデューサー,"ごめんな
+痛いなら喋らなくていい","I'm sorry.
+You shouldn't speak if it hurts."
+2021007040100,円香,そう言われると喋りたくなりますが,I feel like speaking even more if you say that.
+0,プロデューサー,"はは……
+なんでそうなるんだ","Haha...
+Why do that."
+0,プロデューサー,"お……本当だな
+あったあった、カラスの巣","Oh... you're right.
+Right over there, the crow's nest."
+2021007040110,円香,…………,......
+0,プロデューサー,"春頃から雛を守ろうと飛び回っていただろう
+近所の人が困っていて──","Spring time brings about new chicks and the crows
+fly around the nest guarding their chicks. It sure is
+causing a ruckus to those living around eh──"
+2021007040120,円香,撤去するんですか？,Are you going to take the nest down?
+0,プロデューサー,"ああ、俺だけでは決められないから、
+行政の人とも相談してな","Aah, I alone don't have the right to decide on anything
+so we'll have to discuss it with the public administration
+people."
+2021007040130,円香,……,...
+select,,雛も巣立った後みたいだ,"Seems like the
+chicks have left
+the nest."
+select,,ガラクタだらけだ,"The nest is filled
+with junk."
+select,,あ、ビー玉,"Ah, I spot a marble."
+0,プロデューサー,"針金とかハンガーとか使うんだな
+なんだか尖ったガラスみたいなのもあるし……","It seems to be made with wire and hangers, and
+something that looks like shattered glass nestled within
+too."
+0,プロデューサー,"でもカラスにとっては
+心地いい寝床だったのかなあ","But to the crows,
+maybe it's a comfy bed."
+0,プロデューサー,"残してやりたい気もするけど、
+そういうわけにもいかないし","Though the chicks would love to remain,
+things don't work that way."
+2021007040140,円香,…………,......
+0,プロデューサー,"…………
+落ちないように","......
+Be careful not to fall out."
+2021007040150,円香,落ちるほど乗り出してない,I haven't ventured far enough to fall yet.
+0,プロデューサー,……どうした？,...How so?
+0,プロデューサー,"……
+ん……？","...
+Hm...?"
+2021007040160,円香,なんでも守ろうとするのは癖？,Is it your habit to protect everything?
+2021007040170,円香,それから詮索するのも,Then to pry into them as well.
+0,プロデューサー,"……しまった、相談窓口の時間を過ぎちゃったな
+明日は忘れずに電話しないと──","...Ah, crap. Looks like the help desk has closed for the
+day. Gotta remember to make the call tomorrow──"
+0,プロデューサー,──！,──!
+0,プロデューサー,（窓辺のカラスが小さな箱をつついていた）,"(A crow perched by the window is pecking on a small
+box)"
+0,プロデューサー,（人間に驚いたのかすぐに去ったが）,(Maybe a human approached and it got scared off)
+0,プロデューサー,（小箱は落ちた衝撃で蓋が壊れたようだった）,"(The small box dropped and its lid broke upon impact,)"
+0,プロデューサー,（金メッキの錠前も砕けていた）,(along with the attached golden padlock)
+0,プロデューサー,"人間にはガラクタに見えても
+カラスにとっては宝物なのかな","It may look like junk, but they may be precious to
+the crows."
+2021007040180,円香,"でも、撤去
+するんでしょ","But, it's going to get removed.
+Right?"
+0,プロデューサー,まあ……,Hmm...
+2021007040190,円香,不衛生ですしね,It's not very sanitary.
+2021007040200,円香,カラスも自分で捨てたんだし,The crow will discard it by itself too.
+0,プロデューサー,"あれ、電話──
+はづきさんいないのか","Eh, a phone call──
+Hazuki-san isn't around, huh."
+0,プロデューサー,うわ、しまった……,Yikes...
+0,プロデューサー,──はい！　大変お待たせいたしました──,──Hello! I'm sorry for keeping you waiting──
+0,プロデューサー,"……ああ、折返しありがとうございます！
+カラスの巣のことでご相談がございまして──","...Aah, thanks for getting back to us!
+Yes, regarding the crow's nest nearby──"
+0,プロデューサー,（受話器を肩で挟みながら落ちたものを掻き集めると）,"(Holding the phone receiver between my ear and
+shoulder, I picked up things that had fallen out of the
+nest)"
+0,プロデューサー,（その中に見慣れない小箱があった）,"(Among the items was a small box I've never seen
+before)"
+0,プロデューサー,（いや……宝石箱？）,(No... It's a jewel box?)
+0,プロデューサー,（蓋の小さな錠前も壊れてしまっていた）,"(And the small padlock attached to the lid broke
+too)"
+0,プロデューサー,"巣の真ん中あたり
+……ほら","Right in the middle of the nest.
+...See?"
+2021007040210,円香,"あれのこと……？
+木の実か何かでは","That thing...?
+Isn't it a nut or something."
+0,プロデューサー,"え、違うかな
+でも木の実にしてはしっかり丸いし……","Eh, maybe not.
+But it sure is round, if it is a nut..."
+2021007040220,円香,"わかりません
+汚れすぎ","I don't know.
+It's too dirty to tell."
+2021007040230,円香,"ていうか
+どうでもいい","Or rather, it doesn't matter."
+0,プロデューサー,いやまあ……そうだな,"Hmm, no... Actually, you're right."
+2021007040240,円香,"あとはお一人で
+好きなだけ、童心に帰ってください","Also, please go back to thinking like a child by
+yourself and leave me out of it."
+2021007040250,円香,……けほっ,...*Cough*
+0,プロデューサー,……その通りではあるんだけどさ,...You're exactly right though.
+0,プロデューサー,童心に帰るのは大人の特権だとも思うんだよなあ,"It's a priviledge for adults to go back to those
+childish thoughts."
+0,プロデューサー,"──ああ、もうこんな時間か
+相談窓口の電話番号は……","──Oh, it's this late already.
+What's the number for the public administration
+help desk again?"
+0,プロデューサー,あー…………,Ahー...
+0,プロデューサー,"落としたのは……これで全部──
+いや……","That's everything... that dropped out huh──
+Hm..."
+0,プロデューサー,"なんだ……錠前？
+壊れているけど……","What's this... A padlock?
+It looks broken..."
+0,プロデューサー,あ、この小箱についていたのか,"Ah, it was attached to this small box huh."
+0,プロデューサー,小箱というか……宝石箱……？,Or rather... a jewel box...?
+info,produce_events/202100704.json,
+Translator,Mycstea,

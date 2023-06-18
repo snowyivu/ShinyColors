@@ -69,37 +69,45 @@ will be able to soar to even greater heights."
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
 0000000000000,プロデューサー,"ふぅ……
-少し休憩するか","Fuu...
+少し休憩するか","Phew...
 Maybe I should take a break..."
 0000000000000,プロデューサー,"（さすがにそう簡単に、
 ピンとくる子は見つからないよなぁ……）","(Seems like finding a promising girl isn't so easy, huh...)"
 0000000000000,プロデューサー,"あのモニターに映ってるCM、最近よく見るなぁ
-人気のアイドルだけあって、歌もダンスも本格的だな","A commercial which I've seen before is airing on that screen. The singing and dancing from those popular idols are serious, as one could expect."
-1017001010010,？？？,よっ……ほっ……っと,Umph... phew... step...
+人気のアイドルだけあって、歌もダンスも本格的だな","That commercial's showing on that billboard screen 
+again. Those idols sure are good at singing and 
+dancing, no wonder they're so popular."
+1017001010010,？？？,よっ……ほっ……っと,Umph... huff... phew...
 0000000000000,プロデューサー,よし……そろそろ行こう──,"Okay, I should get going..."
-1017001010020,？？？,──ここは……こう？──,...Here... like this?...
+1017001010020,？？？,──ここは……こう？──,──For this part... something like this?──
 0000000000000,プロデューサー,"（あの子、さっきから踊ってるな……
-ん？　でもあのダンス……！）","(That girl has been dancing for a while... Hmmm?
-But... that dance is...!)"
-1017001010030,？？？,──っと……うん、決まった！,"... Step! ...Yup, I did it!"
-0000000000000,プロデューサー,君、ちょっといいかな？,"You, do you have a minute?"
-1017001010040,？？？,？　わたしっすか？,...Me?
+ん？　でもあのダンス……！）","(That girl has been dancing for a while... 
+Hm? But that dance is...!)"
+1017001010030,？？？,──っと……うん、決まった！,"... Hup! ...Yeah, got it!"
+0000000000000,プロデューサー,君、ちょっといいかな？,"Excuse me, do you have a minute?"
+1017001010040,？？？,？　わたしっすか？,Ah... Do you mean me?
 0000000000000,プロデューサー,"ああ、さっきのダンスって、
-モニターで流れてたCMのやつだよね？　練習してたの？","Ah, the dance you just did, it's the one from the commercial that aired just now, right? Were you practicing it?"
+モニターで流れてたCMのやつだよね？　練習してたの？","That dance you were just doing, it's the one from the
+commercial that aired just now, right? Were you 
+practicing it?"
 1017001010050,？？？,"ううん、ちょっとやってみただけっすよ
-見てたら楽しそうだったんで！","Yeah, it looked a lil' fun, so I gave it a shot!"
+見てたら楽しそうだったんで！","No, I'm just trying it out. It seemed pretty fun 
+after all!"
 0000000000000,プロデューサー,"え？　それってつまり……
-その場で見て、マネしてみたってことなのか？",Huh?  So that means... You imitated it just by looking at it?
-1017001010060,？？？,はいっす！,Yeah!
+その場で見て、マネしてみたってことなのか？","Huh?  So that means... You imitated it just now 
+just by looking at it?"
+1017001010060,？？？,はいっす！,Yep!
 0000000000000,プロデューサー,"（……簡単に言ってのけたけど、
-この子、すごいことをしている自覚はないのか……）","(She smoothly said it, but... Doesn't this girl realize she danced really well...?) "
-0000000000000,プロデューサー,（もしかしたら……とんでもない才能を持ってるのかも）,"(Could it be... that she's got a tremendous talent?) "
-1017001010070,？？？,～♪,♪Fun-Fun-Fu-Fun♪
-0000000000000,プロデューサー,実は俺、こういうものなんだ,"Actually, this is kind of related to my job."
-1017001010080,？？？,……,Ohhhh...
-1017001010090,？？？,『プロデューサー』……っすか？,You're a producer...?
+この子、すごいことをしている自覚はないのか……）","(...She says that as if it's normal, but it doesn't seem 
+like she realizes how amazing that is...)"
+0000000000000,プロデューサー,（もしかしたら……とんでもない才能を持ってるのかも）,"(Could it be... that she's got tremendous talent?) "
+1017001010070,？？？,～♪,♪Hm-hm-hmmmmmm♪
+0000000000000,プロデューサー,実は俺、こういうものなんだ,"Actually, I'd like you to have this."
+1017001010080,？？？,……,.......
+1017001010090,？？？,『プロデューサー』……っすか？,"You're a ""producer""...?"
 0000000000000,プロデューサー,"ああ、アイドルのプロデュースをしてるんだ
-君、もし良かったらアイドルになってみないか？","Yup, I'm an idol producer. So, would you like to become a great idol?"
+君、もし良かったらアイドルになってみないか？","Yup, I'm an idol producer. If it's okay with you, 
+would you like to become a idol?"
 1017001010100,？？？,アイドルって、どんなことするんすか？,What kinda things do idols do?
 0000000000000,プロデューサー,"さっき君がマネをしてた女の子のように
 ダンスしたり、歌を歌ったりするんだ","Singing and dancing, just like the girl you were imitating."
@@ -111,8 +119,8 @@ But... that dance is...!)"
 I wanna become an idol then!"
 0000000000000,プロデューサー,"そ、そうか！　ありがとう！
 これからよろしく！","I-Is that so? Great!
-Let's do our best from now on then!"
+Then let's do our best from now on!"
 1017001010130,あさひ,"はい！　わたし、芹沢あさひっす！
-よろしくっす！",Yes! I'm Asahi Serizawa. Nice to meet ya!
+よろしくっす！",Yeah! I'm Asahi Serizawa. Nice to meetcha!
 info,produce_events/101700101.json,
-Translator,,
+Translator,Cheez,

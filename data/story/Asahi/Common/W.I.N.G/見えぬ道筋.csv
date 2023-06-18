@@ -1,105 +1,105 @@
 id,name,text,trans
 0000000000000,プロデューサー,あさひ、おはよう,"Morning, Asahi."
-0000000000000,プロデューサー,……いないか、ということは……,"...she's not here, then..."
+0000000000000,プロデューサー,……いないか、ということは……,"...She's not here, which means..."
 1017001030010,あさひ,よっ……はっ……ほっ……！,Umph... phew... huff...!
 1017001030020,あさひ,"……違うなぁ……
 なかなか上手くいかない……","...No...
-It shouldn't go like this..."
-1017001030030,あさひ,じゃあ、ここをこうして……,"Then, do this in this part..."
+I'm not doin' so hot..."
+1017001030030,あさひ,じゃあ、ここをこうして……,"Well, what if I tried this instead..."
 1017001030040,あさひ,……,......
 1017001030050,あさひ,ん～～～……？,Hmm～...?
 0000000000000,プロデューサー,"やっぱりここか
-あさひ、おはよう","As I thought you'd be here.
-Morning, Asahi."
+あさひ、おはよう","I had a feeling you'd be here.
+Good morning, Asahi."
 1017001030060,あさひ,ん～～～～！,Hmmm～!
 0000000000000,プロデューサー,あさひ？,Asahi?
 1017001030070,あさひ,……あ！　プロデューサーさん、おはよっす！,"...Oh! Producer-san, mornin'!"
 0000000000000,プロデューサー,ああ、おはよう,"Yeah, morning."
 0000000000000,プロデューサー,"ところで、この間から同じ練習をしているようだけど
-……大丈夫か？","By the way, it seems that you have been
-practicing over the same thing.
+……大丈夫か？","By the way, it seems like you're working on 
+the same move from yesterday.
 ...How's it going?"
 1017001030080,あさひ,"そうなんすよ！
 なんでなんすかね……？","Yeah!
-I wonder why...?"
+But I don't... Hmm..."
 0000000000000,プロデューサー,ん？,Hm?
-1017001030090,あさひ,全然、この映像の通りにならないんすよ,It doesn't look like this video at all.
+1017001030090,あさひ,全然、この映像の通りにならないんすよ,I can't do it like in the video at all.
 0000000000000,プロデューサー,"映像の通りに……
-それが理由で、そのステップを続けていたのか","Like this video...
-So that's the reason, then did you continue until that step?"
+それが理由で、そのステップを続けていたのか","Like in the video...?
+So that's why you've been practicing from that step?"
 0000000000000,プロデューサー,"でも俺が見る限り
-もうほとんどできてると思うけどな","But as far as I can see,
-I think you've done it really well."
-1017001030100,あさひ,でも、完璧に同じではないじゃないっすか？,"But, isn't it still not quite similar?"
-1017001030110,あさひ,どうやったらこんなふうになれるんすかね～……,How do you think I can be like this～?
+もうほとんどできてると思うけどな","But as far as I can see
+you've practically got it down."
+1017001030100,あさひ,でも、完璧に同じではないじゃないっすか？,"But it's not perfect, is it?"
+1017001030110,あさひ,どうやったらこんなふうになれるんすかね～……,I wonder how I can do it like they did～...
 0000000000000,プロデューサー,"そうだな……まず、あさひは現状で
-かなりよくできていると断ったうえでだけどな","Let's see... To start with, Asahi is currently
-refusing to say that it was pretty good."
+かなりよくできていると断ったうえでだけどな","Let's see... Setting aside the fact that I think
+you did pretty well..."
 1017001030120,あさひ,ふんふん……！,Uh-huh...!
-select,,全体の動きを見直そう,"Let's review
-the whole movement."
-select,,焦りすぎはよくない,"Too impatient
-isn't right."
-select,,ステップは完璧だ,"The steps
+select,,全体の動きを見直そう,"Let's go over it
+from the beginning."
+select,,焦りすぎはよくない,"Try not to
+rush."
+select,,ステップは完璧だ,"Your steps
 are perfect."
-0000000000000,プロデューサー,全体の動きを見直そう,Let's review the whole movement.
+0000000000000,プロデューサー,全体の動きを見直そう,Let's go over it from the beginning.
 0000000000000,プロデューサー,"今のあさひに必要なのは、高度な技術じゃない
-バランス感覚だ","It's not an advanced technique
-that Asahi needs today,
-but a sense of balance."
-1017001030130,あさひ,バランス感覚？,Sense of balance?
+バランス感覚だ","What you need right now isn't some sort 
+of fancy technique, but balance."
+1017001030130,あさひ,バランス感覚？,Balance?
 0000000000000,プロデューサー,"ああ。あれも見せよう、これも見せようと考えすぎると
-かえって見栄えが悪くなることがあるからな","Yeah. Show me that, and if you overthink it,
-it might look bad."
+かえって見栄えが悪くなることがあるからな","If you focus too much on showing off this or that, 
+the whole performance could wind up 
+suffering as a result."
 0000000000000,プロデューサー,"ファンに見せたいことをひとつに絞って
-それを見せるために一番いい動きを考えるんだ","Consider what you want to show to your fans.
-Think of the best move to show it."
+それを見せるために一番いい動きを考えるんだ","Figure out one thing you want to show your fans.
+Then, find the best move to show it."
 1017001030140,あさひ,ふんふん……勉強になるっす……,Uh-huh... I think I got it...
 0000000000000,プロデューサー,"（……こうやって熱心に耳を傾ける姿を見てると
-あさひの成長が早いのも、うなずけるよな）","(...I feel like tipping my hat to Asahi's fast growth
-especially when I see how she listens enthusiastically)"
-1017001030150,あさひ,他にもないっすか？　もっと聞きたいっす！,Don't you have other tips? I'd like to hear more!
-0000000000000,プロデューサー,わかった、じゃあ他にもちょっと難しいことを教えるぞ,"Okay, then next, I'll tell you a bit intricate stuff."
+あさひの成長が早いのも、うなずけるよな）","(...When I see her paying so much attention I can
+start to understand how she learns so quickly.)"
+1017001030150,あさひ,他にもないっすか？　もっと聞きたいっす！,Got any other tips? I'd like to hear more!
+0000000000000,プロデューサー,わかった、じゃあ他にもちょっと難しいことを教えるぞ,"Sure, here's something a little more advanced."
 1017001030160,あさひ,"やった！　嬉しいっす！
-心して聞くっす、プロデューサーさん！","Hooray! I'm so happy!
+心して聞くっす、プロデューサーさん！","Yes! I'd love that!
 I'll listen carefully, Producer-san!"
 0000000000000,off,off,off
-0000000000000,プロデューサー,焦りすぎはよくない,Too impatient isn't right.
+0000000000000,プロデューサー,焦りすぎはよくない,Try not to rush.
 0000000000000,プロデューサー,"今教えることはできるけど、色々言い過ぎても
-よくないからな","I can teach now, but it's not good if I say too much."
-1017001030170,あさひ,え～！　わたし早く知りたいっす！,Eh～! I want to know soon!
-0000000000000,,知りたい知りたい知りたい～！,"Wanna know, wanna know, wanna know～!"
+よくないからな","You might be able to learn right now, but I don't
+want to tell you too much."
+1017001030170,あさひ,え～！　わたし早く知りたいっす！,Come on～! I wanna know now though!
+0000000000000,,知りたい知りたい知りたい～！,"I wanna knooow, I wanna knooow～!"
 0000000000000,プロデューサー,"ま、まあ落ち着け……
 あさひはまだアイドルになったばかりだ","C-Calm down...
-Asahi has just become an idol."
+You've only just started being an idol, Asahi."
 0000000000000,プロデューサー,"焦る気持ちもわかるが、色々と教えすぎると
 あさひは無理をしちゃいそうで心配なんだよ","I can understand the impatience, but I'm worried
-that Asahi will overdo it if I teach too much."
-0000000000000,プロデューサー,だから、もう少しゆっくりといこう,That's why let's take it slowly.
-1017001030180,あさひ,うーん……楽しみは後に取っとくってことっすね……？,"Hmm... I'll just get the fun later, huh...?"
+that you'll overexert yourself if I teach too much."
+0000000000000,プロデューサー,だから、もう少しゆっくりといこう,"Let's take it slowly, okay?"
+1017001030180,あさひ,うーん……楽しみは後に取っとくってことっすね……？,"Hmm... I'll have to look forward to it later, huh...?"
 1017001030190,あさひ,"あはは、ならそういうことにしとくっす
-プロデューサーさん！","Ahaha, then I'll just go with that,
-Producer-san!"
+プロデューサーさん！","Ahaha, guess we'll leave it at 
+that, Producer-san!"
 0000000000000,off,off,off
-0000000000000,プロデューサー,ステップは完璧だ,The steps are perfect.
+0000000000000,プロデューサー,ステップは完璧だ,Your steps are perfect.
 1017001030200,あさひ,ホントっすか！？,Really!?
 0000000000000,プロデューサー,"ああ、たくさん練習しただけあって
-これ以上ないくらいにできてると思うぞ","Yeah, just practice a lot,
-and then you'll get there."
+これ以上ないくらいにできてると思うぞ","Yeah. You've really drilled this part out, 
+so I don't think there's much left to improve."
 0000000000000,プロデューサー,"だからその分、ほかの部分の完成度が気になるんだ
-まあ、どれもレベルが高くはあるんだけどな","That's why you're worried about
-the perfection of other parts.
-Well, all of them are at a high level, though."
-1017001030210,あさひ,じゃあ、他も完璧にするっす！,"Then, I'll make the other parts perfect!"
+まあ、どれもレベルが高くはあるんだけどな","So I'm curious how far along the other parts are now. 
+I mean, they're all pretty high-level, too."
+1017001030210,あさひ,じゃあ、他も完璧にするっす！,"Alright, then, I'll make the other parts perfect!"
 0000000000000,プロデューサー,"そうだな。でも、例の映像をただ真似るだけじゃ
-完璧だとは言えないぞ","Right. But, that video earlier, don't just copy it.
-I can't say it's perfect either."
+完璧だとは言えないぞ","You've got it. Still, don't just copy that video.
+I wouldn't call that perfection."
 0000000000000,プロデューサー,"ここまでしっかり固めたステップを軸にしながら
-あさひに合った、パフォーマンスを身につけていくんだ","While focusing on those fixed steps,
-we'll create a performance that suits Asahi."
+あさひに合った、パフォーマンスを身につけていくんだ","Take those steps as a base, and make a
+performance that suits you."
 1017001030220,あさひ,"プロデューサーさん、ありがとっす！
-わたし、もっともっとやれそうっす！","Producer-san, thanks!
-I can do more and more!"
+わたし、もっともっとやれそうっす！","Thanks Producer-san!
+I feel like I can do a lot more now!"
 0000000000000,off,off,off
 info,produce_events/101700103.json,
-Translator,Autumn Cloud,
+Translator,Autumn Cloud/Cheez,

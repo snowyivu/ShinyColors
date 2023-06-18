@@ -1,35 +1,35 @@
 id,name,text,trans
-1015001000110010,甜花,あ、あの……,U-umm...
+1015001000110010,甜花,あ、あの……,U-Umm...
 0000000000000,プロデューサー,"お、甜花。
-おはよう。いい朝だな","Ah, Tenka.
-Good morning. The sun feels nice today."
+おはよう。いい朝だな","Oh, Tenka.
+Morning. It's pretty nice out, isn't it?"
 1015001000110020,甜花,"お、おはよう……
-プロデューサーさん……","M-morning...
-Producer..."
-0000000000000,プロデューサー,（あれ……？　なんだか甜花の声が小さいような……）,(Huh? I can't hear Tenka's voice clearly...)
+プロデューサーさん……","M-Morning......
+Producer-san......"
+0000000000000,プロデューサー,（あれ……？　なんだか甜花の声が小さいような……）,(Huh......? Tenka's voice sounds kind of quiet......)
 select,,今日も頑張ろう！,"Let's do our
 best today!"
-select,,元気出して行くぞ！,"Let's be
-spirited today!"
+select,,元気出して行くぞ！,"Let's give it
+all of our energy!"
 select,,"元気がないようだが
 大丈夫か？","You seem down.
 Are you alright?"
 1015001000110030,甜花,"う、うん……っ
-甜花、頑張る……！","Y-yes...
-Tenka, will do her best!"
+甜花、頑張る……！","Y-Yeah......!
+Tenka will... do her best!"
 1015001000110040,甜花,"にへへ……
-今日は……失敗しないように、するからね……","Nihehe...
-Today... Tenka will make sure she won't fail..."
+今日は……失敗しないように、するからね……","Nihehe.....
+Tenka will...... make sure she... doesn't fail today......"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
-1015001000110050,甜花,えっ……元気出してるけど……,"Eh... Tenka's pretty spirited, but..."
+1015001000110050,甜花,えっ……元気出してるけど……,Huh....... Tenka's... already giving it energy......
 1015001000110060,甜花,"もっと、出せるかな……
-や、やってみるね……","To be more spirited...
-Tenka will try too..."
+や、やってみるね……","But... she will......
+t-try to give more......"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1015001000110070,甜花,え、え……？　甜花、普通だよ……？,"E-eh? Tenka feels normal, though...?"
+1015001000110070,甜花,え、え……？　甜花、普通だよ……？,Wh-Wha......? Tenka... feels normal though......?
 1015001000110080,甜花,"プロデューサーさんから見ると……
-もっと元気出したほうが……いいんだね……","From your viewpoint...
-It's better to be more... Energetic..."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+もっと元気出したほうが……いいんだね……","From your standpoint.....
+it'd be better...... to be more... energetic......"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ugh… I should've said something else instead…)
 info,produce_communications/101500100011.json,
 Translator,,
