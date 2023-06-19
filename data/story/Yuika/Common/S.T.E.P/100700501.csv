@@ -1,0 +1,83 @@
+id,name,text,trans
+0000000000000,教授,"──────
+──────────","────
+──────────"
+1007005010010,結華,（────やば。聞いてなかった）,(────Crap. I wasn't listening.)
+1007005010020,結華,（せめて板書は……）,(Well at least it's on the blackboard...)
+0000000000000,教授,"────
+──────────","────
+──────────"
+1007005010030,結華,…………,............
+1007005010040,結華,（……あー……、必修つら…………）,"(...Ugh, prereqs are annoying.)"
+0000000000000,結華の友達１,三峰ちゃんお疲れ～,Mitsumine-chan! Can we ask you something?
+1007005010050,結華,お疲れお疲れー,"Yeah, what's up?"
+0000000000000,結華の友達２,"ねーこの後予定どう？
+ケーキかパフェ食べようって話してたんだけどさ","Got anything planned for later? We're thinking
+of grabbing some cake and parfait."
+1007005010060,結華,"あーごめーん……！
+今日バイト……！","Ohhh, I'm sorry...!
+I've got work today!"
+0000000000000,結華の友達２,"嘘！？
+あれ、いつもシフト月曜だっけ！？","No way?!
+Since when did they give you shifts on Monday?!"
+0000000000000,結華の友達１,違う違う、三峰ちゃんは単発──……だったよね？,"No no, it's for a one-day shift... I think?"
+1007005010070,結華,"そうそう
+もともと予定なかったんだけどさぁ","That's right.
+I wasn't planning on it at first, but..."
+1007005010080,結華,"──この間一目惚れしちゃった服があって
+いるのよ、お金が","──...I fell in love with this one piece of clothing
+the other day. So I need money."
+0000000000000,結華の友達２,"あーね……！
+それは仕方ないね……！","Ohhh okay...!
+Yeah, can't help you with that one!"
+0000000000000,結華の友達１,"ぜひ射止めて
+その一目惚れの彼を","Love at first sight, huh?
+You better win him over."
+1007005010090,結華,あは、彼なんかい,"Haha, it's not like it's some guy."
+0000000000000,結華の友達２,てか三峰ちゃんさぁ、定職就く気ないの？,"By the way, Mitsumine-chan.
+Why not go for a more stable job?"
+1007005010100,結華,ちょ、人をプー太郎みたいに,"Hey, don't say it like I'm unemployed."
+0000000000000,結華の友達２,"うちのバイト先人探してるよ？
+輪っか状の揚げ菓子を売ってるお店なんだけど","Our shop is looking for part-timers.
+We sell fried ring-shaped confectionaries."
+0000000000000,結華の友達１,謎にドーナツと言わないの何,"Why are you hiding the fact that they're
+just donuts?"
+1007005010110,結華,……んやー、ありがたいお申し出なのですが……,"Uhh, I appreciate the offer..."
+1007005010120,結華,"色々体験できるから
+単発バイト、結構気に入ってるんだよね","...but I like that I can try different things just
+doing one-day shifts."
+0000000000000,結華の友達２,あーんそっかぁ,Shame... Oh well.
+1007005010130,結華,"──じゃ、そろそろ……！
+ほんとごめんね！　また誘ってくれたら嬉しい！","──Well anyways...! Sorry, I can't go!
+But you can keep asking for me!"
+0000000000000,結華の友達２,"もちろん！
+三峰ちゃんと揚げ仲間になれるように頑張る！","Of course! I'll make sure that we'll be
+chums frying up donuts together in no time!"
+1007005010140,結華,"あっ、そっちじゃなくて
+ケーキかパフェの方だったんだけど！？","She wasn't talking about that!
+She's talking about the cake and parfait!"
+0000000000000,結華の友達２,わかってるよ～冗談～,I knooow~ Kidding~
+1007005010150,結華,あはは、じゃあまたね,"Ahaha, well, catch you later!"
+0000000000000,結華の友達１,んー、ばいばーい,"Yeah, buh-bye!"
+1007005010160,off,"お金が欲しいのは
+アイドルのグッズを買うから","I want to buy idol merch.
+That's why I need money."
+1007005010170,off,"バイト先を固定しないのは
+所属するところを増やしたくないから","I don't want a proper part-time job because
+I don't want more commitments."
+1007005010180,off,"そんなこと言わないのは
+言ったら気まずくなるってわかってるから","It's just going to make things awkward if I tell
+them that. So I don't."
+1007005010190,結華,（──許せ、友よ……！）,"(──forgive me, my friends...!)"
+1007005010200,off,卒業したら大人になっちゃう,"After graduation, I will become a working adult."
+1007005010210,off,"大人になったら──
+しっかり生きなきゃいけないんでしょ？","And once I'm a full-fledged adult──
+I'll have to live my life responsibly, won't I?"
+1007005010220,結華,"（……今ぐらいはせめてさぁ……
+極力楽しく生きたいじゃん）","(So at least for now...
+Let's live life free without worry.)"
+1007005010230,結華,あー…………,Haaa...
+1007005010240,結華,なんか楽しいことないかなぁ…………,I wonder if there's anything fun in store...
+0000000000000,プロデューサー,アイドルに、興味はありませんか？,Are you interested in becoming an idol?
+info,produce_events/100700501.json,
+Translator,Lewdacriz,

@@ -1,0 +1,26 @@
+id,name,text,trans
+4024001000130010,にちか,"こう……お願いできますか！
+ステージ袖の、熱いのを……！","Can I ask you for something...?!
+An encouragement behind the stage, please...!"
+0000000000000,プロデューサー,"え？
+おう、もちろんだ","Eh?
+Sure, of course."
+select,,あっと言わせてやろう,"Take our breath
+away."
+select,,いけるぞ、にちか,"Let's go, Nichika."
+select,,きっと大丈夫だ,"You'll certainly
+do well."
+4024001000130020,にちか,"……！　はい……！
+そうですよね…………！","...! Yes...!
+I will.....!"
+0000000000000,プロデューサー,（うん……いい顔をしてる）,(Okay... She's looking great.)
+4024001000130030,にちか,"はい……
+そのつもりです！","Yes...
+I will!"
+0000000000000,プロデューサー,（よし……頑張ろうな）,(Alright... Do your best.)
+4024001000130040,にちか,"……はい！
+まぁ、『きっと』って感じですよね……！","...Yes!
+Well, I sure hope that will be the case...!"
+0000000000000,プロデューサー,（ち、違う……そういう意味じゃないんだ……）,(W-Wait... That's not what I meant...)
+info,produce_communication_cheers/402400100013.json,
+Translator,,
