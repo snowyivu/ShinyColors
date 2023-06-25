@@ -4,7 +4,7 @@ id,name,text,trans
 I look forward to working with you!"
 0,スタッフ,"あっ、甘奈ちゃん！
 倒れたって聞いたんだけど大丈夫？","Ah, Amana-chan!
-I heard you collapsed, are you okay?"
+I heard you were pretty sick, are you okay?"
 4001030070020,甘奈,"ご心配おかけしました……！
 ちょっと風邪をこじらせちゃったみたいで","Sorry for worrying you...!
 I just caught a pretty bad cold."
@@ -23,10 +23,10 @@ But, I'm fine now!"
 Are you up? You'll be late, you know?"
 0,ママ,"はやく降りてきなさーい
 ……どうしたの、まだ具合悪い？","Hurry up and get down here.
-... What's wrong, are you still feeling sick?"
+...What's wrong, are you still feeling sick?"
 0,ママ,あら……？,Hmm...?
-4001030070050,甜花,『10分したら起きます』,"""I'll get up in 10 minutes."""
-4001030070060,甜花,『熱はないです』『眠い』,"""I don't have a fever."" ""I'm sleepy."""
+4001030070050,甜花,『10分したら起きます』,"""Tenka will get up in 10 minutes."""
+4001030070060,甜花,『熱はないです』『眠い』,"""No fever."" ""Just sleepy."""
 0,ママ,まったく、あの子ったら──,"My goodness, that girl──"
 4001030070070,甘奈,"……あっ、いた
 千雪さ～ん！","... Ah, there she is.
@@ -35,11 +35,11 @@ Chiyuki-saaan～!"
 4001030070081,一同,久しぶり～！,Long time no see～!
 4001030070090,甘奈,"えへへ、甘奈は昨日のお仕事で
 一緒だったけど……","Ehehe, I was with you for
-the job yesterday, but... "
+work yesterday, but... "
 4001030070100,千雪,"うん
 やっぱり、３人だと嬉しいな","Yeah.
 It sure feels great when the three of us are together."
-4001030070110,甜花,明日の夜のために、風邪、治した……！,"Tenka healed up from the cold, for tomorrow night...!"
+4001030070110,甜花,明日の夜のために、風邪、治した……！,"Tenka healed up the cold, for tomorrow night...!"
 4001030070120,甘奈,"甜花ちゃん『食べて、寝て、治す』って
 いっぱい頑張ったもんね～！","Tenka-chan went all ""Eat, sleep, heal!"" 
 and did her best to get better～!"
@@ -60,7 +60,7 @@ There's a lot of different types... "
 4001030070190,甜花,うちにあるのは……どの形……？,Which type... is the one at home...?
 4001030070200,甘奈,"んー……
 このレクタングラー型……だったかな……？","Hmm... 
-It's probably this rectangular-style one... I think...?"
+It's probably this rectangular-style one... I think... ?"
 4001030070210,千雪,"……？
 シュラフ、持ってるの？","......?
 You have a sleeping bag at home?"
@@ -84,59 +84,59 @@ I'll send a message to my mom──"
 ──あ、でも、ちょっとストップ……","Okay.
 ──Ah, but, stop what you're doing for a while... "
 4001030070290,甘奈,？,?
-0,女子高生,…………あ……,"... Ah... "
-4001030070300,千雪,……えっと、ごめんなさい,"... Umm, excuse me."
+0,女子高生,…………あ……,"...Ah... "
+4001030070300,千雪,……えっと、ごめんなさい,"...Umm, excuse me."
 4001030070310,千雪,もしかして、ご用事ですか,"Do you perhaps, have something to ask us?"
 0,女子高生,"あっ、いえ！　ええと……！
 す、すみませんお話中のところ……すみません……","Ah, no! Umm...!
 S-Sorry to disturb your conversation... Sorry... "
 0,女子高生,"あの、いま話しかけても、大丈夫ですか……？
-あ、アルストロメリアのみなさん、ですよね……？","Umm, is it okay, to speak to you right now...?
-Y-You're, from Alstromeria, right...?"
+あ、アルストロメリアのみなさん、ですよね……？","Umm, is it okay, to speak to you right now... ?
+Y-You're, from Alstromeria, right... ?"
 4001030070320,千雪,"ええ……！　アルストロメリアです
-こんにちは","Yes...! We are Alstromeria.
+こんにちは","Yes... ! We are Alstromeria.
 Nice to meet you."
 0,女子高生,"きゃ、きゃあ……！
-やばいやばいやばい、わー……どうしよ……！","Kya, kyaaah...!
+やばいやばいやばい、わー……どうしよ……！","Kya, kyaaah... !
 No way, no way, no way, oh wow... what do I do...!"
 0,女子高生,"えっとえっと、すみません、私、ファンで……
 曲、全部買ってます……！","Umm, umm, excuse me, I'm, a fan of you... 
 I've bought, all your songs...!"
 0,女子高生,あ、握手してもらってもいいですか……！,C-Can I shake hands with you...!?
-4001030070330,千雪,わぁ、もちろんです……！,"Wow, of course...!"
-4001030070340,千雪,……わたしで、いいのかなぁ,... If you're alright with me.
+4001030070330,千雪,わぁ、もちろんです……！,"Wow, of course... !"
+4001030070340,千雪,……わたしで、いいのかなぁ,...If you're alright with me.
 0,女子高生,"きゃあ……！
 どど、どうも……！","Kyaaaa...!
 T-Thank you so much...!"
 0,女子高生,"え、えっと
 甘奈ちゃんと甜花ちゃんも……ええと……！","Uh, umm....
 Amana-chan, and Tenka-chan, too... uhh...!"
-0,女子高生,……甘奈ちゃんの雑誌も買いました！,"... I bought your magazines, Amana-chan!"
+0,女子高生,……甘奈ちゃんの雑誌も買いました！,"...I bought your magazines, Amana-chan!"
 0,女子高生,甜花ちゃんのラジオも全部聞いてます……！,"And I listen to all your radio shows, Tenka-chan...!"
 0,女子高生,ふたりともとってもかわいくて……憧れてて……！,The two of you are so cute... and I admire you...!
 4001030070350,甘奈,"……えへへ☆　めーっちゃ、ありがとー！！
-こんなかわいー子に応援してもらえるなんてうれしーなぁ！","... Ehehe☆ Here's a suuuper big thanks to you!!
+こんなかわいー子に応援してもらえるなんてうれしーなぁ！","...Ehehe☆ Here's a suuuper big thanks to you!!
 I'm really glad that someone sooo cute is rooting
 for us!"
 0,女子高生,えっ…………あれ……,"Huh... what... "
-4001030070360,甘奈,えへへ……ごめんね、気付いちゃったかな？,"Ehehe... Sorry, but have you realized?"
+4001030070360,甘奈,えへへ……ごめんね、気付いちゃったかな？,"Ehehe... Sorry, have you realized?"
 4001030070370,甘奈,ラジオが上手な甜花ちゃんは……こっち！,"The awesome radio host, Tenka-chan, is... this one!"
 4001030070380,甜花,な、なーちゃんは……こっち！,N-Naa-chan is... this one!
 0,女子高生,……！！　す、すすす、すみません……！！,"......!! I-I'm s-s-so, so, s-sorry...!!"
 0,女子高生,"普段は間違えたりしないんです
 わ、私、ふたりのこと、ちゃんと見分けられるので……！","I would never mix you up normally!
-I-I, know exactly, how to tell you two apart...!"
+I-I, know exactly, how to tell you two apart... !"
 0,女子高生,でも、あの、き、緊張しちゃったみたいで……,"But, I, uh, g-got kinda nervous... "
 4001030070390,甜花,"あっ、あ……気にしない、で……！
 えっと、えっと……","Ah, uh... Don't worry about it...!
 Uh, umm... "
-4001030070400,甜花,甜花も……よく間違える……から……！,"Tenka... gets it wrong... all the time, too...!"
+4001030070400,甜花,甜花も……よく間違える……から……！,"Tenka... gets it wrong... all the time, too... !"
 0,女子高生,えっ！？,Huh!?
 4001030070410,甜花,"あ、あの、バスタオル、
 間違ってなーちゃんの使っちゃったり……","Ah, umm, like, using Naa-chan's 
 bath towel by mistake... "
 4001030070420,甜花,その……,"And, uh... "
-4001030070430,千雪,……ふふっ、甜花ちゃんもつられて緊張してる？,"... Fufu, don't tell me you've caught the nerves too,
+4001030070430,千雪,……ふふっ、甜花ちゃんもつられて緊張してる？,"...Fufu, don't tell me you've caught the nerves too,
 Tenka-chan?"
 4001030070440,甜花,に、にへへ……！,"Ni, nihehe...!"
 0,女子高生,"す……すみません……制服だったからかな……
@@ -163,18 +163,18 @@ so don't go too far from the tent, alright?"
 てんかの手、にぎって","Naa-chan... 
 Hold, Tenka's hand."
 4001030070480,甜花,はなれちゃ、ダメだよ,"Don't let go, okay."
-4001030070490,甘奈,……うん、はなれない,"... Okay, Amana won't let go."
+4001030070490,甘奈,……うん、はなれない,"...Okay, Amana won't let go."
 4001030070500,甘奈,……,"...... "
 4001030070510,甘奈,てんかちゃんは……,Tenka-chan...
-4001030070520,甘奈,くらいの……こわくない……？,It's dark... Aren't you scared...?
-4001030070530,甜花,……うん,.... Nope.
+4001030070520,甘奈,くらいの……こわくない……？,It's dark... Aren't you scared... ?
+4001030070530,甜花,……うん,...Nope.
 4001030070540,甜花,"なーちゃんが、てんかのかわりに、
-こわいって思ってくれるから","Cause Naa-chan, is taking
-Tenka's share, of being scared."
+こわいって思ってくれるから","Because Naa-chan, is already
+scared enough... for both of us..."
 4001030070550,甜花,だから……こわくない,That's why... Tenka's not scared.
 4001030070560,甘奈,…………？,......?
 4001030070570,甘奈,うん,Okay.
-4001030070580,甘奈,……てんかちゃん,... Tenka-chan.
+4001030070580,甘奈,……てんかちゃん,...Tenka-chan.
 4001030070590,甘奈,てんかちゃんの手、あったかいね,"Tenka-chan, your hand is warm."
 0,パパ,"おっ……
 甜花、甘奈、おいで！","Oh... 
