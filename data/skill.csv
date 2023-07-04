@@ -137,6 +137,9 @@ Viレッスン,Vi Lesson,noun
 絆,Bonds,noun
 テンション,Tension,noun
 ラジオ,Radio,noun
+ボーカルアピール,Vocal Appeal,noun
+ダンスアピール,Dance Appeal,noun
+ビジュアルアピール,Visual Appeal,noun
 ごくごく稀,Extremely Extremely Rare,other
 ごく稀,Extremely Rare,other
 リンクアピール,Link Appeal,text
@@ -240,10 +243,39 @@ Viレッスン,Vi Lesson,noun
 団子より＋,Instead of Dango+,
 団子より＋＋,Instead of Dango++,
 団子より＋＋＋,Instead of Dango+++,
-[花より]団子より,[Flowers]Instead of Dango,
+[花より]団子より,[Flowers] Instead of Dango,
 ふたりで叫ぶ合言葉,The Word That We Shout,
 ふたりで叫ぶ合言葉＋,The Word That We Shout+,
 ふたりで叫ぶ合言葉＋＋,The Word That We Shout++,
 ふたりで叫ぶ合言葉＋＋＋,The Word That We Shout+++,
-[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories]The Word That We Shout,
+[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout,
 思い出アピール未習得,Memory Appeal Unavailable,
+[条件:履歴に$nameがある場合],[Condition: $1 in the history],
+[条件:回復回数5回以上履歴に大崎甜花がある場合],[Condition: Heal at least 5 times and Tenka in the history],
+[条件:回復回数6回以上アルスト全員がライブに参加],[Condition: Heal at least 6 times and Alst. in unit],
+[発動制限],[Limited Use],
+リラックス効果$percent付与,Increases relaxation effect by $1,
+[回復回数増加で効果UP],Effect UP based on number of heals,
+アピールUP,Appeal UP,
+すべてのアピール値を$percentUP,Value of all appeals $1 UP,
+[超過思い出変換],[Excess is converted into Memory Gauge] ,
+[条件:回復回数$num回以上],[Condition: Heal at least $1 times],
+事務所。静寂。大輪の華,Office. Silence. Large Brilliant Flower,
+$nameアピール,$1 Appeal,
+$nameアピール＋,$1 Appeal+,
+$nameアピール＋＋,$1 Appeal++,
+$nameアピール＋＋＋,$1 Appeal+++,
+$nameアピール＋＋＋＋,$1 Appeal++++,
+$nounI,$1 I,
+$nounII,$1 II,
+$nounIII,$1 III,
+$nounIV,$1 IV,
+$nounV,$1 V,
+$nounVI,$1 VI,
+$nounVII,$1 VII,
+テンション＋$num,Tension +$1,
+パッシブスキル発動率$num％UP,Passive Skill Rate $1% UP,
+色とりどりの羽根,Multicolored Feather,
+[輝く]色とりどりの羽根,[Shining] Multicolored Feather,
+少し前,That Day,
+[いつか　の]少し前,[Just Before] That Day,
