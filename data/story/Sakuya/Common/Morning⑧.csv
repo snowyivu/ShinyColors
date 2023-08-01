@@ -5,10 +5,13 @@ id,name,text,trans
 1006001000810020,咲耶,"今日も天気がいいね
 とても気持ちのいい朝だ","Today's weather is good huh. It's a perfectly nice morning. "
 0000000000000,プロデューサー,そうだな。日差しもあって暖かいし……,Very true. The sunshine sure is pleasant...
-select,,出かけたくなるな,I kind of want to go outside.
-select,,レッスン日和だ,It's a good day for lessons.
+select,,出かけたくなるな,"I kind of want to
+go outside."
+select,,レッスン日和だ,"It's a good day
+for lessons."
 select,,"日焼けしないように
-気をつけよう",Take care not to get a sunburn.
+気をつけよう","Take care not to
+get a sunburn."
 1006001000810030,咲耶,"いい天気にはいい出会いがつきものだからね
 いろいろな場所に出向きたくなる気持ちもわかるよ","That's because good weather is accompanied by good encounters. I too understand the desire to leave for various places. "
 1006001000810040,咲耶,レッスンが終わったら、一緒に散歩でもしないかい？,"Once the lesson is over, shall we go for a stroll together?"

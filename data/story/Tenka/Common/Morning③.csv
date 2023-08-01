@@ -1,34 +1,36 @@
 id,name,text,trans
 1015001000310010,甜花,"なーちゃん、可愛い……
-……でも……","Naa-chan is cute...
-But..."
+……でも……","Naa-chan... is cute......
+but......"
 0000000000000,プロデューサー,急にどうしたんだ？,Did something happen?
 1015001000310020,甜花,"……ううん……
-思っただけ……なんでもない……","Mmm...
-I just thought... It's nothing..."
+思っただけ……なんでもない……","......No......
+Tenka just thought that... nevermind......"
 0000000000000,プロデューサー,（甜花、何か落ち込んでいるようだ……）,(Tenka seems to be feeling down...)
 select,,"甜花もいいところが
-あると思うぞ","You also have 
-your own
-good points too."
+あると思うぞ","You've also
+got your own
+good points."
 select,,"甘奈はいい
 アイドルだよな","Amana is a
-good idol, yeah."
-select,,悩みでもあるのか？,Are you worried?
+fine idol, 
+isn't she?"
+select,,悩みでもあるのか？,"Are you
+worried?"
 1015001000310030,甜花,"そ、そうかな……？　でも、プロデューサーさんが、
-言ってくれるなら……そうなのかも……","I-is that so? But, Producer,
-if you can tell... Tenka about them..."
-1015001000310040,甜花,甜花、もうちょっと……頑張ってみる、ね……,Tenka will work... Even harder...
+言ってくれるなら……そうなのかも……","Y-You think so......? Well...... if you're the one saying
+it... then it's probably true......"
+1015001000310040,甜花,甜花、もうちょっと……頑張ってみる、ね……,Tenka will... keep working hard......
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1015001000310050,甜花,"う、うんっ！
-甜花も、そう思う……っ","Y-yes!
-Tenka thinks the same too!"
+甜花も、そう思う……っ","Y-Yeah!
+Tenka thinks so too!"
 1015001000310060,甜花,"にへへ……なーちゃん、やっぱりすごいよね……
-……甜花より、ずっと……","Nihehe... Naa-chan is really amazing...
-Compared to Tenka..."
+……甜花より、ずっと……","Nihehe...... Naa-chan really is amazing......
+She's always been... more amazing than Tenka......"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1015001000310070,甜花,あう……違う……あの……,Awh... That's not it... Um...
-1015001000310080,甜花,や、やっぱり……なんでもない……,I-it's really... Nothing...
+1015001000310070,甜花,あう……違う……あの……,Auu...... that's not it...... Um......
+1015001000310080,甜花,や、やっぱり……なんでもない……,J-Just...... forget about it......
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101500100031.json,
 Translator,,

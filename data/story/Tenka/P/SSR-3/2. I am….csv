@@ -19,8 +19,8 @@ got this, from someone... in another class... "
 seem like you're bothered at all."
 2015009020080,甜花,……う、うん……,"... Y-Yeah... "
 2015009020090,甜花,"……いつも、甜花のこと応援してるよ、って……
-こないだの、雑誌も……良かったって……","... She said, that she's always supporting Tenka, and... 
-that, our last magazine... was really good too... "
+こないだの、雑誌も……良かったって……","... She said, that she's always supporting Tenka,
+and... that, our last magazine... was really good too... "
 2015009020100,甜花,"…………甜花、なーちゃん以外……
 あんまり名前、呼んでもらえたこと……なかった……","... Other than Naa-chan, not many people... 
 have really called, Tenka... by her name... "
@@ -36,8 +36,8 @@ calls Naa-chan, Amana-chan... "
 なーちゃん、いいなぁって、思っちゃってた……","Tenka... felt, kind of jealous...
 and thought, Naa-chan must have it nice...."
 2015009020140,甜花,"……なーちゃん、いつも明るくて……
-みんなの、名前……呼んでたから、なのに……","... But that's because Naa-chan, is always really bright,
-and she calls everyone, by name... but... "
+みんなの、名前……呼んでたから、なのに……","... But that's because Naa-chan, is always really
+bright, and she calls everyone, by name... but... "
 2015009020150,甜花,……甜花、なんもしなかったのに……,"... Tenka, hasn't done any of that..."
 0000000000000,プロデューサー,……そうだったのか……,"... I see, so that's how it was... "
 2015009020160,甜花,で、でもね……！,B-But... !
@@ -58,8 +58,11 @@ Tenka, got called Tenka... !"
 through your work, Tenka."
 2015009020200,甜花,うん……！,Yeah... !
 select,,返事を書こう,Write a letter back.
-select,,応援に応えないとな,You'll have to respond to her support.
-select,,友達が増えたな,Seems like you've made a friend.
+select,,応援に応えないとな,"You'll have to
+respond to her
+support."
+select,,友達が増えたな,"Seems like you've
+made a friend."
 2015009020210,甜花,うん、書く……！,"Yeah, Tenka will write back... !"
 2015009020220,甜花,"お返事、書いて……
 届けに、行く……！","Write, a letter...
@@ -71,8 +74,8 @@ Tenka will go ask, if she's there... !"
 2015009020240,甜花,にへへ……,"Nihehe... "
 2015009020250,甜花,…………お手紙セット……,"... A letter writing set... "
 2015009020260,甜花,"……ちっちゃいころ、パパとママが買ってくれたけど……
-甜花、お手紙書く友達、いないから……全然減らなくて……","... When we were little, Papa and Mama bought one 
-for us... but Tenka had no friends, to write letters to...
+甜花、お手紙書く友達、いないから……全然減らなくて……","...When we were little, Papa and Mama bought one for
+us... but Tenka had no friends, to write letters to...
 so it didn't get used at all..."
 2015009020270,甜花,"……でも、アイドル、なって……
 お手紙……お返事、いっぱい書いて……","... But, now that Tenka, is an idol... 
@@ -87,9 +90,8 @@ Nihehe, it's weird... isn't it... "
 0000000000000,プロデューサー,応援に応えないとな,You'll have to respond to her support.
 2015009020300,甜花,て、甜花に……できるかな……,C-Can Tenka... do that... ?
 0000000000000,プロデューサー,"まずは応えようって気持ちを持とう
-きっと甜花の頑張りは、みんなを幸せにできるから","First off, you'll need to express that wish to respond
-to her support through your work. I'm sure that you 
-can make everyone happy through your efforts, Tenka."
+きっと甜花の頑張りは、みんなを幸せにできるから","First off, if you show them your response through
+your efforts, i'm sure they would be happy"
 2015009020310,甜花,そ、そうかな……,Y-You think so... ?
 2015009020320,甜花,"……お仕事、雑誌とか、出て……
 ……クラスの子が、見たよって……","... When Tenka's jobs, like magazines and stuff, 

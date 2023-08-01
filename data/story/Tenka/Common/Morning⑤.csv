@@ -1,42 +1,39 @@
 id,name,text,trans
 0000000000000,プロデューサー,"お、なんだか嬉しそうだな
-いいことでもあったのか？","Ah, you seem to be happy.
+いいことでもあったのか？","Oh, you seem kinda happy.
 Did something good happen?"
 1015001000510010,甜花,"今日も……
-なーちゃんと、事務所に……来たんだ……","Naa-chan and Tenka...
-We came to the office together today..."
-1015001000510020,甜花,なーちゃんと一緒だと……甜花、安心する……,When Tenka is with Naa-chan... Tenka feels relieved...
-0000000000000,プロデューサー,（たしかに今日の甜花は、いい表情をしてるな……）,"(Now that I think about it, Tenka's expression looks great today...)"
+なーちゃんと、事務所に……来たんだ……","Tenka and Naa-chan... came to the office together...
+today......"
+1015001000510020,甜花,なーちゃんと一緒だと……甜花、安心する……,When Tenka is with Naa-chan... she feels relieved......
+0000000000000,プロデューサー,（たしかに今日の甜花は、いい表情をしてるな……）,(Tenka really does seem like she's glowing today......)
 select,,"仕事もなるべく
 一緒にしておくよ","I'll make sure 
-to have you two
+to let you two
 work together."
 select,,いつも仲が良いな,"You two 
 always get 
 along well."
 select,,"ひとりで来るのも
-新鮮だぞ","Try going 
-by yourself.
-It'll be a new 
-experience."
-1015001000510030,甜花,にへへ……ありがとう……,Nihehe... Thank you...
+新鮮だぞ","Have you
+tried going
+by yourself?"
+1015001000510030,甜花,にへへ……ありがとう……,Nihehe...... Thanks......
 1015001000510040,甜花,"きっと、なーちゃんがいれば……
-むずかしいお仕事も安心、だよね……","Surely with Naa-chan around...
-Tenka feels relieved even if it's a hard job..."
+むずかしいお仕事も安心、だよね……","All of the hard work... is a lot easier...... if
+Naa-chan... is there to help......"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1015001000510050,甜花,"うん……甜花となーちゃん……
-いつも一緒だから……","Yes... Because Tenka and Naa-chan...
-Are always together..."
+いつも一緒だから……",Yeah...... because... we're always together.......
 1015001000510060,甜花,"にへへ……
-これからも、ずっと一緒にいられたらいいな……","Nihehe...
-It would be nice, if we could stay together forever..."
+これからも、ずっと一緒にいられたらいいな……","Nihehe......
+Tenka wishes that... we could be together forever......"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1015001000510070,甜花,"えっ……で、でも……
-甜花だけだと、ちょっとこわいかも……","Eh... B-but...
-If Tenka's alone, it feels scary..."
+甜花だけだと、ちょっとこわいかも……",Wha...... B-But... if she goes alone... it's kinda scary......
 1015001000510080,甜花,"うぅ……やっぱり、ひとりで来られるようになったほうが、
-いいのかな……？","Uu... So it is better to just come alone,
-right?"
+いいのかな……？","Uu... So... it probably would be better... if she came on
+her own......"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101500100051.json,
 Translator,,

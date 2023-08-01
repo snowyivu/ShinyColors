@@ -27,9 +27,12 @@ only one person could have commit, committed... """
 2015009030070,甜花,『………………』,"""......"""
 2015009030080,甜花,……あう……,"... Auu... "
 0000000000000,プロデューサー,（甜花、ドツボに嵌ってしまってるな……）,(Tenka seems to have hit a rough patch... )
-select,,発声練習をしてみよう,Let's try some vocal exercises.
-select,,一緒に読んでみよう,Let's read it together.
-select,,どんな台本だったっけ？,What kind of script was it again?
+select,,発声練習をしてみよう,"Let's try some
+vocal exercises."
+select,,一緒に読んでみよう,"Let's read it
+together."
+select,,どんな台本だったっけ？,"What kind of script
+was it again?"
 0000000000000,プロデューサー,"あめんぼあかいなあいうえお
 ……ほら、甜花も","""A proper copper coffee pot""
 ... You try it, Tenka."
@@ -59,7 +62,7 @@ the sixth sick sheik's sixth sheep's sick,
 the sixth sick sheik's sixth sheep's sick... !"
 2015009030140,甜花,"…………っ！
 ……言え、た……？","...... !
-... I did, it... ?"
+......Tenka... did it... ?"
 0000000000000,プロデューサー,ああ、ちゃんと言えたじゃないか！,"Yeah, you said it perfectly!"
 0000000000000,プロデューサー,"俺も言えない早口言葉だって言えるんだ
 台本くらい、簡単に読めるよ、甜花なら","You managed to do a tongue twister I couldn't 
@@ -77,9 +80,8 @@ Producer-san, watch Tenka... from there... !"
 hard to grasp the flow of conversation, right?"
 2015009030180,甜花,いいの……？,Is that okay... ?
 0000000000000,プロデューサー,"チェック用の台本、まだ返してなかったはずだし──
-あ、でも、演技力は期待しないでくれよな","I should still have the copy they sent for reference──
-Ah, but, don't expect much in the way of acting skill, 
-alright?"
+あ、でも、演技力は期待しないでくれよな","I should still have the extra copy they sent── Ah,
+but, don't expect much in the way of acting, alright?"
 2015009030190,甜花,うん、へたっぴでも……大丈夫……！,"Yeah, it's okay... even if you're bad... !"
 0000000000000,プロデューサー,はは……,"Haha... "
 2015009030200,甜花,"『──内側から鍵のかかった密室、
@@ -89,9 +91,9 @@ making this none other than an impossible crime."""
 犯行は不可能だ！』","""All the suspects were trapped in a locked room!
 No one could have committed the crime!"""
 2015009030210,甜花,"『一見そうでしょう。しかし、このふたつの密室、
-たったひとりだけ破ることが可能です』","""That's how it appears on first glance. However, there 
-was one person alone who could have broken through 
-the two locked rooms."""
+たったひとりだけ破ることが可能です』","""That's how it appears upon first glance. However,
+there was one person alone who could have broken
+through the two locked rooms."""
 0000000000000,プロデューサー,"『誰だ！？
 犯人は──誰だっていうんだ！』","""Who!?
 Who are you saying is the culprit!"""
