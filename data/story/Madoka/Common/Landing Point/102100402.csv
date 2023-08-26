@@ -26,7 +26,8 @@ They'll fill up just fine."
 了解、進めておくよ","...Got it!
 I'll proceed in that case then."
 0000000000000,円香,…………,......
-1021004020100,円香,あなたも暇じゃないでしょ,"It's not like you have a lot of time on your hands, right?"
+1021004020100,円香,あなたも暇じゃないでしょ,"It's not like you have a lot of time on your hands,
+right?"
 1021004020110,円香,"ユニットのライブで忙しい時期に
 これを企画する必要がありました？","Is there a need to plan for this while we're busy with
 unit lives?"
@@ -56,8 +57,8 @@ Got it... Let's see..."
 1021004020200,円香,私の歌にどれだけの価値があるのかわかりませんが,"I don't know how much value my songs have,"
 1021004020210,円香,私ならもっと上手いアーティストのライブに行きます,"but if it's me, I'd go to a live of an artiste who can
 sing better than me."
-0000000000000,プロデューサー,来てくれるのは歌を聞きたい人じゃない,"Madoka, those who come aren't people who want
-to listen to songs."
+0000000000000,プロデューサー,来てくれるのは歌を聞きたい人じゃない,"Madoka, those who come aren't people who want to
+listen to songs."
 0000000000000,プロデューサー,円香の歌を聞きたい人だ,They're people who come to hear you sing.
 1021004020220,円香,……,...
 0000000000000,プロデューサー,腹が減った時に,"When you're hungry,"
@@ -66,14 +67,14 @@ to listen to songs."
 eat. More like...  it's the feeling when you want to go
 to a particular store."
 0000000000000,プロデューサー,"うまい店はたくさんあるけど、
-この店の……エビグラタンが食べたいんだって気持ち──","Even though there are many stores with great
-food... you just feel like eating the shrimp gratin
-from this particular store─"
+この店の……エビグラタンが食べたいんだって気持ち──","Even though there are many stores with great food...
+you just feel like eating the shrimp gratin from this
+particular store─"
 1021004020230,円香,……エビを出せば私が納得するとでも,...You're trying to talk me through using shrimps?
 0000000000000,プロデューサー,"や、エビじゃなくてもいいんだけどな
 円香にはわかりやすいかと……","No, shrimps aren't the point. It can be anything.
-I just thought that this would be an example you'd
-be able to relate..."
+I just thought that this would be an example you'd be
+able to relate..."
 1021004020240,円香,本当に,It is.
 1021004020250,円香,とてもわかりやすいたとえ,I totally can.
 0000000000000,off,"最近の円香は、
@@ -98,6 +99,6 @@ happy if you read them』"
 0000000000000,プロデューサー,『困ったことがあったら言ってくれ』,『Let me know if you have any problems』
 0000000000000,円香,…………,......
 1021004020290,円香,……,...
-0000000000000,off,掴めそうな気がしていた,I feel like I can finally grasp it.
+0000000000000,off,掴めそうな気がしていた,I feel like I can finally reach out.
 info,produce_events/102100402.json,
-Translator,,
+Translator,Mycstea,

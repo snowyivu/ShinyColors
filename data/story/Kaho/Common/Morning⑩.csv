@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,"事務所内を歩き回ったりして、
+何かあったのか、果穂？","Walking around in the office like that,
+did something happen, Kaho?"
+1009001001010010,果穂,"この前、ジャングルの奥地を大探検！　って番組に
+出てた冒険家の人がスッゴいカッコよかったんです！","Recently, a program called ""Let's Explore the Depth
+of the Jungle!"" has a really cool adventurer in it!"
+1009001001010020,果穂,"プロデューサーさん、あたしもあんなふうに
+冒険がしてみたいですっ","Producer-san, I also want to go on 
+an adventure like that!"
+0000000000000,プロデューサー,うーん、冒険か……,"Hmm, adventure huh..."
+select,,"そういう仕事を
+探すのもいいか","Should I look for 
+that kind of work for you?"
+select,,"果穂はそういうのが
+得意そうだな","Kaho does seems to be good 
+at that kind of stuff."
+select,,"冒険は危険なことが
+いっぱいだぞ","Adventures are filled with
+dangerous things, you know."
+1009001001010030,果穂,"わーい！　ありがとうございます！
+えへへ、今から楽しみです！","Yaaay! Thank you very much!
+I will look forward to it!"
+1009001001010040,果穂,お仕事が来たら、スッゴい冒険しちゃいますね！,"When it comes, I will be doing a big adventure!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1009001001010050,果穂,えへへ、そう見えますか？,"Ehehe, do I seem like that?"
+1009001001010060,果穂,"大変なこともあるかもですけど、
+あたしも、困難を乗り越えてみたいですっ！","There may be difficult things ahead, 
+but I, also want to overcome difficulties!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1009001001010070,果穂,"困難を乗り越えてこそ、たっせーかんがあるって、
+冒険家の人が言ってました","Only by overcoming difficulties, you will get
+a sense of accomplishment, said the adventurer."
+1009001001010080,果穂,"でも、プロデューサーさんがそう言うなら、
+あたしにはまだ早いのかな？","But if Producer-san said so,
+is it maybe a little early for me?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100900100101.json,
+Translator,,

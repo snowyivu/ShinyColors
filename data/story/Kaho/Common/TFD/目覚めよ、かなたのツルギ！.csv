@@ -1,0 +1,51 @@
+id,name,text,trans
+1009002010010,果穂,『天気、くもりのち晴れ』,"[Weather, cloudy with expected sunny later.]"
+1009002010020,果穂,"『今日は体育のドッジボールで、
+最後のひとりに残りました！』","[Today, in dodgeball,
+I was the last man standing!]"
+1009002010030,果穂,"『とちゅうで、友達に当たりそうだったボールを
+キャッチできた時もありました』","[In the match, I managed to catch some of the 
+ball that seemed to go for my teammates.]"
+1009002010040,果穂,"『ありがとう！　と言ってもらえて、
+ヒーローはいつもこんな気持ちなのかな？　と思いました』","[""Thanks!"", said the teammate.
+""Does a hero always feel like this?"", I thought.]"
+0000000000000,プロデューサー,"へぇ……！
+すごいじゃないか果穂、大活躍だな！","Whoaa...!
+Isn't that great, Kaho, you were outstanding!"
+1009002010050,果穂,えへへ……！,Ehehe...!
+1009002010060,果穂,"『それから、うちにある封印されし宝物について
+思い出しました……！』","[And then, I was reminded of the sealed treasure
+in my house...!]"
+0000000000000,プロデューサー,宝物？,Treasure?
+1009002010070,果穂,"はい！
+キラキラでカッコいい剣です！","Yes!
+It's a sparkling and cool-looking sword!"
+1009002010080,果穂,……でも、どこにしまったかわからなくなっちゃってて……,...But I've lost track of its location...
+1009002010090,果穂,"プロデューサーさんも、
+見つかるようにお祈りしてくれたら嬉しいです……！","Producer-san too, if you'd pray for me to find it,
+I'd be happy...!"
+0000000000000,プロデューサー,"おう、わかった……！
+見つかりますように……！","Yeah, understood...!
+Hope for it to be found...!"
+1009002010100,果穂,見つかりますように……！,I hope for it to be found...!
+0000000000000,プロデューサー,"──でも、剣なんて勇者みたいだな
+物語の主人公だ","──But, a sword is just like a hero, huh.
+The protagonist of a story."
+1009002010110,果穂,"はいっ！　──あっ、でもっ、
+プロデューサーさんとあたしは、もう主人公です！","Yes! Ah, but...
+Producer-san and me are also the protagonists!"
+1009002010120,果穂,"プロデューサーさん、前に、
+『俺たちの戦いはまだ終わらない』って言ってくれました","Producer-san, you said before, 
+[Our battle is not over yet]."
+1009002010130,果穂,"だから、あたしたちのお話はまだまだ続いています！
+この先も、ずっとずっとです！","That is why, our story will still continue!
+From now on, forever and ever!"
+0000000000000,プロデューサー,"そうだな
+一緒にアイドル物語を突っ走る約束だった","Right. I promised 
+that we will run through the idol story together."
+1009002010140,果穂,"ふたり揃えば、あたしたちは無敵です！
+だから──","With the two of us together, we are invincible!
+That's why──"
+1009002010150,果穂,明日はきっと、もーっと楽しいことがあります！,"Tomorrow will surely, be a lot more fun!"
+info,produce_events/100900201.json,
+Translator,,

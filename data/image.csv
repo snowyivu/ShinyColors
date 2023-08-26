@@ -1,18 +1,18 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,73
 images/ui/common/parts.json_image,common_parts.png,41
-images/ui/my_page/parts.json_image,my_page.parts.png,45
+images/ui/my_page/parts.json_image,my_page.parts.png,46
 images/ui/fes/parts.json_image,fes_parts.png,37
 images/ui/common/parts_icons.json_image,common_parts_icons.png,33
 images/ui/option/parts.json_image,ui_option_parts.png,25
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,24
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,28
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,29
 images/ui/gasha/parts.json_image,gasha_parts.png,29
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
-images/ui/idol_list/parts.json_image,idol_list_parts.png,20
+images/ui/idol_list/parts.json_image,idol_list_parts.png,21
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,18
 images/ui/produce_common/parts_header.json_image,parts_header.png,16
 images/ui/produce_event/parts_event.json_image,parts_event.png,15
@@ -174,7 +174,7 @@ images/ui/produce_helper_support_idol/parts.json_image,produce_helper_support_id
 images/ui/produce_action/parts_event.json_image,produce_action_parts_event.png,5
 images/tips/produce_skill_board/001.jpg,tutorial/produce_skill_board_001.jpg,9
 images/ui/work_activity_top/parts.json_image,work_activity_top.png,11
-images/ui/work_activity_result/parts.json_image,work_activity_result.png,6
+images/ui/work_activity_result/parts.json_image,work_activity_result.png,7
 images/content/my_page/banner_border/event_notice.png,event_notice.png,3
 images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,5
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,6
@@ -954,3 +954,4 @@ images/content/support_idols/name/23fa9e559ec6287c150eea176e98f326_2040210070.pn
 images/content/support_idols/name/713adee805c31087e54030c26764d55f_2040150060.png,cards/tenka_s_ssr_6.png,2
 images/content/idols/name/f992344f3eee751e624c250402037532_1040150090.png,cards/tenka_p_ssr_9.png,1
 images/content/support_idols/name/9669008de6714887e540aa883f2c4c84_2040210080.png,cards/madoka_s_ssr_8.png,1
+images/content/idols/name/f33cfd082411e9f909b8f91e7f455b21_1030210020.png,cards/madoka_p_sr_2.png,1

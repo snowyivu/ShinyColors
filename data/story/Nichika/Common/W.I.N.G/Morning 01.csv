@@ -1,0 +1,39 @@
+id,name,text,trans
+0000000000000,プロデューサー,"────あれ、えーっと……
+……すまん、にちか。ペン貸してくれないか？","────Huh? Hmm...
+... Excuse me, Nichika. Could I borrow a pen?"
+1024001000110010,にちか,えーっ,Huhー?
+0000000000000,プロデューサー,……っ,...
+1024001000110020,にちか,"いいですけど、
+手とかベタベタしてませんかねー？","Fine... but your hands aren't dirty or anything, rightー?"
+select,,"……ちょっと、
+洗ってこようかな","...Maybe a little.
+Let me wash them."
+select,,"……そんなふうに
+見えるか、俺","...Do I look 
+dirty to you?"
+select,,"いや、ベタベタは
+してないと思うよ","No, I don't think 
+they're dirty."
+1024001000110030,にちか,"はい
+お願いしまーす！","Yes, please!"
+0000000000000,プロデューサー,"お、おう……
+いってきます","R-Right...
+I'll be right back."
+1024001000110040,にちか,"──あはっ
+プロデューサーさん、素直でいいですねー！","─Aha! Producer-san, you're great when you're obedient like that."
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1024001000110050,にちか,"えっ
+だって、アイドルからペン借りるんですよー？","Huh? I mean, you're borrowing a pen from an idol, you know?"
+1024001000110060,にちか,"もうちょっと緊張感持ってもらわないと
+困るじゃないですかー",You gotta be a little more conscious of what you doー!
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1024001000110070,にちか,"えー！　超うそです！！
+だってさっきなんか食べてたじゃないですかー！！","Huh?? That's a big, fat lie!!
+I mean, you were totally eating something earlier!!"
+1024001000110080,にちか,"そういうのほんと無理なので……！
+はい、洗ってきてくださいお願いしまーす！！","I mean, that's totally impossible...!
+Okay, go and wash your hands now, please and thank you!!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102400100011.json,
+Translator,Tuna/Doodle,

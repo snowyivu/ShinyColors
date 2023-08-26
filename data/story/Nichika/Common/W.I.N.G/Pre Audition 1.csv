@@ -1,0 +1,26 @@
+id,name,text,trans
+4024001000110010,にちか,"──────！
+ステージだ…………","──────!
+So that's the stage..."
+0000000000000,プロデューサー,"────
+うん、ステージだ","────
+Yup, that's it."
+select,,しっかり見てるぞ,"I'll be watching 
+over you."
+select,,広いな,It's really big...
+select,,緊張しなくていい,"No need to 
+stress about it."
+4024001000110020,にちか,"あははっ
+お客さんに見てもらえなきゃ意味ないじゃないですかー！","Ahaha!
+But it's no use if the audience isn't watching tooー!"
+0000000000000,プロデューサー,（……緊張、ほぐれたんだったらいいけど）,(Hopefully she's less tense now...)
+4024001000110030,にちか,"そんなの、見ればわかりますよ……！
+歴史を生んできた場所です────","Well that's obvious, isn't it!
+It's the place where history is made..."
+0000000000000,プロデューサー,（うん……大丈夫そうだ）,(Great... she seems fine)
+4024001000110040,にちか,"えー！
+適当にやれってことですかー？","Huhー！
+Are you telling me to half-ass itー?"
+0000000000000,プロデューサー,（しまった、そういう意味じゃなかったんだが……！）,"(Damn, I didn't mean it like that...!)"
+info,produce_communication_cheers/402400100011.json,
+Translator,Tuna/Doodle,

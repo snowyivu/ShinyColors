@@ -1,0 +1,23 @@
+id,name,text,trans
+4024001000210010,にちか,──────…………,──────............
+0000000000000,プロデューサー,…………,............
+select,,水、取ってくるよ,"I'll get you 
+some water."
+select,,いい緊張感があるよ,"You look 
+pumped up."
+select,,ばっちりみたいだな,"I think you're
+ready for this."
+4024001000210020,にちか,"────ありがとうございます
+お腹、きりきりして……入らなそうですけどね……！","────Thank you.
+My stomach's churning, so I don't know if it'll stay down though...!"
+0000000000000,プロデューサー,（よかった、少しは笑えるみたいだ）,(I'm glad I could help her smile a little)
+4024001000210030,にちか,"まぁ、そうですよ
+一回一回、私には本気の本番なので……！","I mean, of course!
+With each audition, I'm getting closer to real thing...!"
+0000000000000,プロデューサー,（いつもの雰囲気に戻ってくれた）,(She's back to how she usually is)
+4024001000210040,にちか,"…………
+全然、そんなことないですよー","......
+I'm not ready at allー"
+0000000000000,プロデューサー,（……すまん。気休めじゃないんだが────）,"(...I'm sorry, that didn't seem to ease your nerves...)"
+info,produce_communication_cheers/402400100021.json,
+Translator,Tuna/Doodle,

@@ -73,9 +73,8 @@ energy』"
 1021004030180,円香,みんな何を,what is everyone...
 0000000000000,ヘアメイク,はい、鏡！　見てみて,"Alright, look here at the mirror!"
 0000000000000,ヘアメイク,"どう？ いい感じにセットできたと思うんだけど
-気になるところはある？","How is it? I think this is a good look to me,
-but do let me know if anything looks out of
-place."
+気になるところはある？","How is it? I think this is a good look to me, but do let
+me know if anything bothers you."
 1021004030190,円香,"あ……はい、ありがとうございます
 大丈夫です","Ah... okay, thank you very much.
 It looks fine to me."
@@ -90,4 +89,4 @@ I'm at it!"
 1021004030230,円香,見て,Look
 1021004030240,円香,……あ,...ah.
 info,produce_events/102100403.json,
-Translator,,
+Translator,Mycstea,

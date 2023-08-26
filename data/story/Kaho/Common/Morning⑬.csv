@@ -1,0 +1,45 @@
+id,name,text,trans
+0000000000000,プロデューサー,"果穂。困った顔をしてるが、大丈夫か？
+何か悩みでもあるのか？","Kaho, you're making a troubled face. Are you okay?
+Do you have something worrying you?"
+1009001001310010,果穂,"はい。あたしがこれまでヒーローからもらってきた勇気を、
+見てくれる人みんなにもあげたいなって思ってるんです","Yes. The courage I've received from the heroes,
+I also want to give it to everyone watching me."
+1009001001310020,果穂,"どうやったらいいかって、いろいろ考えてるんですけど、
+やっぱりヒーローみたいになるのは難しいなって……","I've been thinking a lot about how to do it,
+but as expected it's hard to be like a hero..."
+0000000000000,プロデューサー,"（果穂は、アイドルとしてのあり方に
+悩んでいるみたいだな）","(Kaho seems to be worried 
+about what it means to be an idol.)"
+select,,"弛まぬ努力で、
+最高のパフォーマンスを","With unrelenting effort,
+giving the best performance."
+select,,"果穂の頑張る姿が、
+勇気を与えているよ","The figure of Kaho doing her best,
+is already giving us the courage."
+select,,"その気持ちだけでも
+充分じゃないかな","That feeling alone
+is already more than enough, don't you think?"
+1009001001310030,果穂,"わぁ、カッコいい言葉ですね！
+なんだか、ヒーローみたいですっ！","Wow! What a cool word!
+Somehow, it sounds like a hero!"
+1009001001310040,果穂,"たゆまぬどりょく……プロデューサーさんの言葉を
+思い出しながら、レッスン頑張ります！","""With unrelenting effort""...I will remember your 
+words and do my best in the lesson!"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1009001001310050,果穂,"そう、ですか？　あ、そういえば、
+ファンの人にも言われたことがありました！","Is that so? Ah, come to think of it,
+there were fans who told me that too!"
+1009001001310060,果穂,"じゃあ、これからも頑張っていけば、
+ヒーローみたいに勇気をあげられるんですね！","Then, if I keep working hard,
+I can eventually give courage like a hero too!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1009001001310070,果穂,"たしかにヒーローも、思いは背中で語るもの
+って言ってました！","That's true a hero once said, feeling is something
+that is conveyed through your back!"
+1009001001310080,果穂,"でも、それで伝わるでしょうか……
+なんだか難しそうです","""But, will that really get the message across?
+It seems kind of difficult to understand."""
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+info,produce_communications/100900100131.json,
+Translator,,

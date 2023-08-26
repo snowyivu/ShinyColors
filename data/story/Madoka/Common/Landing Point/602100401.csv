@@ -1,0 +1,17 @@
+id,name,text,trans
+0000000000000,プロデューサー,円香──！,Madoka─!
+0000000000000,プロデューサー,足の捻挫はもう大丈夫か？,Is the sprain on your leg alright?
+6021004010010,円香,本番直前に聞くことですか、それ,"You've asked about it before the performance,
+but,"
+6021004010020,円香,……問題ありません,...There wasn't a problem.
+0000000000000,プロデューサー,……よし,...Good to hear.
+0000000000000,円香,………………,......
+6021004010040,円香,"私は誤解していたかもしれません
+あなたのことを──","I might have misunderstood,
+about you─"
+6021004010050,円香,あなたはアイドルをプロデュースしていない,You don't produce idols.
+6021004010060,円香,私をプロデュースしようとしている,You're producing me.
+6021004010070,円香,……そう見える,...I see that now.
+6021004010080,円香,…………いい迷惑,......It's a good kind of inconvenience.
+info,produce_events/602100401.json,
+Translator,Mycstea,

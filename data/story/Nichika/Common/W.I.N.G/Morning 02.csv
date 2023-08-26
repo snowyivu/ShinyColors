@@ -1,0 +1,50 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──ええと、差入れ持ってきたぞ
+よかったら","──Uum... I brought some food, feel free to have some."
+1024001000210010,にちか,わー！　お菓子じゃないですかー！！,Wow! Look at all these sweetsー!!
+1024001000210020,にちか,"────えーっ、でもこれ
+思いっきりスナック菓子なんですけど……！","────Huh? But wait,
+it's all junk food...!"
+0000000000000,プロデューサー,"え？　あぁ……
+にちか、この前好きだって言ってたから……","Huh? Oh, yeah...
+You said that you liked that kinda stuff before, so..."
+1024001000210030,にちか,"この前はこの前ですってー……！
+今日からダイエット期間入ってるんですよーもうーーー！！","The past is the pastー...!
+I started my diet today! Godーーー!!"
+select,,"そ、それは
+すまん……","O-Oh... 
+I'm sorry..."
+select,,"……！
+そうだったのか……","...! Oh, 
+so that's it..."
+select,,"無理しなくって
+いいんだ","You don't have 
+to stress over it."
+1024001000210040,にちか,"はぁーー348キロカロリーかぁーーー……じゃ
+50キロカロリー上限で、何個食べれるか計算してください","Sigh... 348 calories huh... 
+Well, figure out how many I can eat without going over 50."
+0000000000000,プロデューサー,"え？　……と、348だから……
+これの７分の１だろ……大体…………ええと………","Huh? Well, 50 would be about 1/7th of 348... so basically... hmmm..."
+1024001000210050,にちか,"……もういいですー！
+じゃ、プロデューサーさんも食べるの手伝ってくださいねーー","...Whateverー! Come on, Producer-san, help me eat thisーー"
+0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1024001000210060,にちか,"そうですー
+タイミングわるいなー……！","That's rightー
+You have the worst timingー...!"
+1024001000210070,にちか,"えっとー……何キロ走ったらプラマイゼロになるか
+計算してください。それで、伴走お願いします","Hmm... figure out how many kilometers it'll take to burn these off, then run that with me please!"
+0000000000000,プロデューサー,"えっ、お、おう……！
+任せてくれ……！","Huh? O-Okay...!
+Leave it to me...!"
+0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1024001000210080,にちか,"……うわー
+すっごい他人事ですねー……！","...Wowー
+Like it's not my problem, huh...!"
+1024001000210090,にちか,"無理しなきゃいけないから無理してるんじゃないですかー
+……これはもらいますけどー","I'm worrying about it because I have toー!
+...Whatever, I'll take these anywayー"
+0000000000000,プロデューサー,"お、おう……すまん
+これからは買う前に相談するよ……！","Oh, yeah... sorry. I'll give you a heads up before I buy more from now on...!"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102400100021.json,
+Translator,Tuna/Doodle,

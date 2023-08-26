@@ -1,0 +1,65 @@
+id,name,text,trans
+1021004060001,円香,おはようございます,Good morning.
+0000000000000,スタッフ,おはようございまーす！,Good morning!!
+0000000000000,スタッフ,ついに今日が来ましたね,"Finally, the day has come."
+0000000000000,スタッフ,"ソロライブ本番……
+絶対に成功させましょう！","The actual day of the solo live...
+Let's make sure it succeeds!"
+1021004060010,円香,はい,Yes.
+1021004060020,円香,よろしくお願いします,Let's do our best.
+0000000000000,照明スタッフ,"ポスターの厳かな雰囲気に合わせて、
+ステージの演出も抑えめで構成したんだけど","Matching the solemn mood of the poster, we'll keep
+the stage direction modest,"
+0000000000000,照明スタッフ,ラストではカラフルな照明を使おうと思うの,but we'll use colorful lights for the finale.
+0000000000000,照明スタッフ,色は混ざると濁るけどね,"When mixed, the colors form a glaze."
+0000000000000,照明スタッフ,光は混ざると────,And when the lights mix──
+1021004060030,円香,────……,──...
+1021004060040,円香,他人のためなんて自己陶酔,"Rather than becoming self-absorbed for
+the sake of others,"
+1021004060050,円香,そんな奉仕的な気持ちはない,I have no such feelings of servitude.
+1021004060060,円香,"もちろん自己承認の欲もない
+──特に飢えてはいなかったから","Of course, I have no desire for self-approval
+─I never had such a craving to begin with."
+1021004060070,円香,でも、そうしたことより,"But, rather than such things,"
+1021004060080,円香,体が歌いたいと言っている,I want to express my body's urge to sing.
+1021004060090,円香,私はその衝動で歌う,I sing with that impulse.
+1021004060100,円香,誰のためでもない,Not for the sake of anybody.
+1021004060110,円香,そういう誰のためでもない歌だから────,And because I sing for the sake of nobody─
+1021004060120,円香,それを聞く『ひとりひとり』の歌になれ,"The song becomes ""for each and everyone"" of those
+who hear it."
+1021004060130,円香,そして、それを聞きたいと集まった人がいることを,"And for those who come together, wanting to listen,"
+1021004060140,円香,私は,"I... "
+0000000000000,プロデューサー,……ん？,... Hm?
+0000000000000,プロデューサー,歌声……？,A voice...?
+0000000000000,プロデューサー,誰かが歌っているのかな,Who's singing?
+0000000000000,プロデューサー,"レッスン室……の歌がここまで届くわけないか
+外か……屋上……？","From the lesson room...? No way can a voice reach so
+far, right? Or is it from the outside... The roof...?"
+0000000000000,プロデューサー,いや、気のせいかもしれないけど,"Nah, it might be my imagination."
+0000000000000,プロデューサー,どこからか……,But where did it come from...
+0000000000000,プロデューサー,風に乗って────,Riding the wind──
+1021004060150,円香,『スケジュールの相談です』,"""I need to talk to you about my schedule."""
+1021004060160,円香,『今日、ボーカルレッスンを入れられますか』,"""I'd like to have a vocal lesson today."""
+0000000000000,プロデューサー,えっ、今日！？,"Eh, today!?"
+0000000000000,プロデューサー,"ちょっと待ってな……
+確認して折り返すよ","Give me a sec...
+I'll check and get back to you."
+1021004060170,円香,『急ですみません。無理であれば────』,"""Apologies for the sudden request. 
+I understand if can't be ar──"""
+0000000000000,プロデューサー,"はは、いやいや
+大丈夫だよ","Haha, not at all.
+It's okay."
+0000000000000,プロデューサー,歌いたい時に歌ってほしいんだ,"I want you to sing whenever you feel like
+singing."
+0000000000000,プロデューサー,"今日もお疲れ様！
+──さて、困ったことに腹ぺこだなあ","Good job today!
+─Alright, I get hungry whenever I'm
+having trouble."
+0000000000000,プロデューサー,何が食べたい？,What would you like to have?
+1021004060180,円香,適当に近くでいいんじゃないですか,Wouldn't anything nearby be fine?
+0000000000000,プロデューサー,そうか？　じゃあ……,Well okay. In that case...
+0000000000000,プロデューサー,たっぷりエビグラタンかな,How about shrimp filled gratin?
+1021004060190,円香,そうですね,Why not.
+1021004060200,プロデューサー,行くか,Let's go then.
+info,produce_events/102100406.json,
+Translator,Mycstea,
