@@ -1,10 +1,10 @@
 id,name,text,trans
 1009001000810010,果穂,プロデューサーさん、あの、あの！,"Producer-san, u-uhm!"
 0000000000000,プロデューサー,どうしたんだ果穂。そんなに興奮して,"What's up, Kaho? You look so excited."
-1009001000810020,果穂,先週の『ジャスティスV』見ましたか！,Did you watch last week's [Justice V]?
+1009001000810020,果穂,先週の『ジャスティスV』見ましたか！,"Did you watch last week's ""Justice V""?"
 0000000000000,プロデューサー,"（『ジャスティスV』……
-果穂の好きな特撮番組だな）","([Justice V]...
-It's Kaho's favorite tokusatsu program, huh.)"
+果穂の好きな特撮番組だな）","(""Justice V""...
+It's Kaho's favorite tokusatsu show, huh.)"
 select,,すごい回だったな！,"Yeah, it was a great episode!"
 select,,"録画したが
 まだ見てないんだ","I recorded it,
@@ -31,4 +31,4 @@ It was an important episode, you know."
 仕方ないですよね","But if you missed it, then it can't be helped."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100900100081.json,
-Translator,,
+Translator,Maribel,

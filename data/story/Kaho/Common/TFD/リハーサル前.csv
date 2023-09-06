@@ -1,0 +1,14 @@
+id,name,text,trans
+0000000000000,プロデューサー,果穂、準備できたか？,"Kaho, are you done yet?"
+6009002010010,果穂,"はい！　大丈夫です！
+剣もちゃんと装備しました！","Yes! I'm done!
+The sword is also properly equipped!"
+6009002010020,果穂,力がどんどん溢れてくるみたいです……！,It feels like power is overflowing inside of me...!
+0000000000000,プロデューサー,"はは、さすが主人公だ
+その調子で、落ち着いて頑張ってくるんだぞ！","Haha, as expected of the protagonist.
+Just like that, keep calm and do your best!"
+6009002010030,果穂,"はいっ！
+特別作戦・リハーサル攻略、開始です！","Yes!
+Special Operation: Strategical Rehearsal, start!"
+info,produce_events/600900201.json,
+Translator,Maribel,

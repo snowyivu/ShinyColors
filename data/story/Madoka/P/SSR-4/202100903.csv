@@ -1,0 +1,88 @@
+id,name,text,trans
+0000000000000,ライター,こちらにお座りください,Please have a seat.
+0000000000000,ライター,"あらためまして、
+本日はよろしくお願いします","I'm looking forward to today's interview.
+Shall we begin?"
+2021009030010,円香,よろしくお願いします,It'll be my pleasure.
+0000000000000,ライター,"あ、どうぞ気楽に
+堅苦しいインタビューにはしたくないので","Ah right, please make yourself comfortable.
+I hope today's interview wouldn't be too formal."
+2021009030020,円香,はい,Alright.
+2021009030030,円香,……じゃ、学校の友達みたいなつもりで,"...In that case, maybe we can chat like school
+friends."
+0000000000000,ライター,"はは、ありがとうございます
+それなら僕も頑張って若返らないと────","Haha, thank you. In that case, I'll do my best to
+turn back the clock──"
+0000000000000,ライター,"……こういうカフェには普段よく来たりしますか？
+たとえば学校帰りとか────……","...Do you come to such cafes often?
+Like, after school or──..."
+0000000000000,スタッフ,────プロデューサーさん,"──Hi, Producer-san."
+0000000000000,スタッフ,"さきほどの撮影、ばっちりだそうです
+監督もにこにこしてました","It seems like the filming on the other day went
+perfectly. The director smiled the whole time too."
+0000000000000,プロデューサー,"そうですか……！
+恐れ入ります","Really...!
+Glad to hear that."
+0000000000000,スタッフ,"ということで……
+今日の予定はインタビューで終了ですので","Speaking of which...
+Everything should be done after today's interview."
+0000000000000,プロデューサー,はい、承知いたしました,"Yes, that should be all, as far as I know."
+0000000000000,スタッフ,……何かお飲み物などお持ちしましょうか？,...Can I get you any drinks while we wait?
+0000000000000,プロデューサー,"ああ、すみません
+お気遣いありがとうございます","Aah, that'll be great.
+Thank you for the trouble."
+2021009030040,円香,────そうですね……,"──Yes, indeed..."
+2021009030050,円香,"本格的に育てたことはありませんが、
+毎日、水を換えたり、日に当てたり……","We're not exactly cultivating them but we do change
+the water and put them under the sun..."
+2021009030060,円香,それでもしおれてしまうこともあって,"But even if we try our best, sometimes they'd wilt."
+2021009030070,円香,"……そうなんです。長生きしてほしいと思っても……
+生き物って難しいですよね","...Yes, indeed. Even if we do want them to grow and live
+longer... It's difficult, taking care of living things."
+2021009030080,円香,"いままで、花って枯れてしまったら
+終わりだと思っていたんです","Up till now, I've always thought that the end of a
+flower is when it withered."
+2021009030090,円香,"というか、枯れてしまうから、
+咲いている時が余計に大切に思えるというか","Or rather, because they'll eventually wither, I've always
+thought that the time they are in bloom seemed more
+important."
+2021009030100,円香,……はい,...Yes.
+2021009030110,円香,"だからこのお店のドライフラワーを見て、
+驚いたんです","That's why I was shocked to see all these dried flowers
+coming into this cafe."
+2021009030120,円香,花の色がちゃんと残っていて,The colors of the flowers still remain.
+2021009030130,円香,"あ、茶色じゃない
+うちで枯らしてしまったものとは違うって","Ah, they're not brownish at all, unlike those that
+withered under my care."
+0000000000000,スタッフ,"……アイスコーヒーでよかったですか？
+置いておきますね",...Is ice coffee good? I'll put it here.
+0000000000000,プロデューサー,"ありがとうございます
+いただきます────",Thank you very much──
+2021009030140,円香,……すみません,...Sorry.
+2021009030150,円香,でも、本当にイメージが変わったというか,"But rather than a change in my thoughts,"
+2021009030160,円香,こうやって生かすこともできるんだって,I've learnt to make the most out of things.
+0000000000000,プロデューサー,………………,......
+0000000000000,プロデューサー,『風通しの良い』,"""Hang them in a place"""
+0000000000000,プロデューサー,『日が当たらない場所に吊るします』,"""Well ventilated and out of the sun."""
+0000000000000,プロデューサー,『そのまましばらく置けば完成です』……だそうだ,"""Leave it in its place for a while until they're dried""...
+is what it says."
+2021009030170,円香,ふうん……,Huh...
+0000000000000,プロデューサー,"このカフェに飾っているドライフラワーは、
+シリカゲルを使ったりもしているそうだけど","Apparently the dried flowers in the cafe were made
+using silicone gel as well."
+2021009030180,円香,……冊子、私にも見せてもらえますか,...May I... look at the booklet as well?
+2021009030190,円香,…………,......
+2021009030200,円香,『コツは』,"""A tip"""
+2021009030210,円香,『蕾は避けること』,"""Avoiding the buds"""
+2021009030220,円香,『しっかり水を与えること』,"""Water them when needed"""
+2021009030230,円香,『そうしてもっとも鮮やかな瞬間に』,"""And when they grow to their most vibrant"""
+2021009030240,円香,『吊るすこと』,"""Hang them up"""
+0000000000000,プロデューサー,"──すごいもんだな
+ドライフラワーってこんなに綺麗なのか","─That's amazing isn't it.
+Never thought that dried flowers can be this pretty."
+0000000000000,プロデューサー,なあ、円香,What do you think?
+2021009030250,円香,…………,......
+2021009030260,円香,────綺麗？,──Pretty?
+2021009030270,円香,本当に？,Are they really?
+info,produce_events/202100903.json,
+Translator,Mycstea,

@@ -1,0 +1,82 @@
+id,name,text,trans
+0000000000000,プロデューサー,果穂、今大丈夫か？,"Kaho, are you free right now?"
+1009003010010,果穂,はいっ！　なんですか？,Yeah! What's up?
+0000000000000,プロデューサー,仕事の相談なんだ,It's about work actually.
+0000000000000,プロデューサー,"公開オーディション番組があるんだけど、
+それに出てみないか？","There's an opening audition program, you see,
+do you want to try doing it?"
+1009003010020,果穂,公開……オーディション……？,Opening.... Audition....?
+1009003010030,果穂,"それって、ライブみたいにお客さんが見に来たり、
+テレビみたいに放送するってことですか？","Is it like a live show where the fans come to watch,
+while also being broadcast on the TV?"
+0000000000000,プロデューサー,"そう
+『G.R.A.D.』っていうんだけど……","Yeah.
+It's called ""G.R.A.D.""..."
+0000000000000,プロデューサー,"予選と決勝、あとは敗者復活戦があって、
+出場したアイドルは優勝を目指す","There are preliminaries, finals, and comeback rounds.
+The participating idols will aim for the win."
+0000000000000,プロデューサー,ちょっと『W.I.N.G.』と似ているよな,"It's a bit similar to ""W.I.N.G.""."
+1009003010040,果穂,"はい！　でも、敗者復活戦は、
+『W.I.N.G.』にはありませんでした！","Yes! But, the comeback rounds
+doesn't exist in ""W.I.N.G.""!"
+1009003010050,果穂,"もし予選で負けちゃっても、
+決勝に出られるかもしれないってことですよね？","So, even if we lose in the preliminaries,
+we can still make it to the final rounds, right?"
+0000000000000,プロデューサー,"そうだよ
+果穂は理解が早いな","That's right.
+You're quick to understand huh, Kaho."
+1009003010060,果穂,えへへっ！,Eheheh!
+0000000000000,プロデューサー,本番までに自己PRもするんだ,Until then you'll be doing some self-promotions.
+0000000000000,プロデューサー,"方法は特に指定されてないから
+出るなら果穂にとって一番いいやり方を考えないとな","Since there's no method being specified.
+To do it, you'll have to think of the best way for you."
+1009003010070,果穂,あれ……？,Huh...?
+1009003010080,果穂,"このオーディションって、
+放クラのみなさんと一緒じゃないんですか？","This audition,
+I won't be doing it with everyone in Hokago Climax?"
+0000000000000,プロデューサー,うん、そうなんだ,"Yep, that's right."
+0000000000000,プロデューサー,"これは個人オーディションだよ
+果穂ひとりの力で頑張るんだ","Since it's an individual audition.
+Kaho, you must do your best with your own power."
+1009003010090,果穂,ひとり……っ,On my own...
+1009003010100,果穂,"ひとりで歌ったり踊ったりは、
+あんまりしたことないです！","Singing and dancing by myself, 
+I haven't done those much."
+0000000000000,プロデューサー,そうだなぁ……,That's true...
+0000000000000,プロデューサー,"ソロの仕事も増えているけど、
+ユニットで動くことが多いもんな","There will be more solo works,
+but you will still have to move as a unit."
+0000000000000,プロデューサー,"だからこそ、このオーディションは
+果穂のためになるんじゃないかって思ってるんだ","But that's especially why, I think that this audition
+will be good for you, Kaho."
+1009003010110,果穂,あたしのためですか？,For me?
+0000000000000,プロデューサー,"今、果穂はぐんぐん力をつけてきている
+ユニットとしてだけじゃなく、個人としてもさ","Now, you are gaining more and more strength.
+Not just as a unit, but also as an individual."
+0000000000000,プロデューサー,どんな結果であれ、実力を試すチャンスだ！,"Result no matter, it's a chance to test your skills!"
+1009003010120,果穂,あたしの力を、試す……！,Test... my power!
+1009003010130,果穂,なんだかカッコいいです！,That sounds pretty cool!
+0000000000000,プロデューサー,果穂はどうしたい？,"What do you want to do then, Kaho?"
+1009003010140,果穂,……,......
+1009003010150,果穂,プロデューサーさん……あたし、出てみたいです！,Producer-san... I would like to do it!
+1009003010160,果穂,"あたし、自分がどれくらいできるかって、
+あんまりわからなくて……","I don't really know just how much
+I could do by myself..."
+1009003010170,果穂,"だから、『G.R.A.D.』に出て、
+知りたいです！","That's why I will go out for ""G.R.A.D."",
+and find it out!"
+0000000000000,プロデューサー,"そうか……！
+ひとりなのは大丈夫か？","Is that so....!
+But will you be fine alone?"
+1009003010180,果穂,"大丈夫です！
+ひとりでもできます！　がんばりますっ！","I'll be fine!
+I can do it even alone! I'll do my best!"
+0000000000000,プロデューサー,"了解だ
+ありがとう、果穂","Understood.
+Thanks, Kaho."
+0000000000000,プロデューサー,"エントリーしておくよ
+一緒に頑張ろうな！","Then I'll put you in the entry.
+Let's do our best together!"
+1009003010190,果穂,はいっ！　よろしくお願いします！,Yes! I'll be in your care!
+info,produce_events/100900301.json,
+Translator,Maribel,
