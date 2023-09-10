@@ -300,7 +300,7 @@ images/ui/concert_result/parts_status.json_image,concert_result_status.png,9
 images/ui/produce_staff_assist_event/parts.json_image,staff_assist_event_parts.png,3
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_produce.png,3
 images/ui/init/parts.json_image,init_parts.png,11
-images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,3
+images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,4
 images/ui/init/parts_pop.json_image,init_parts_pop.png,13
 images/content/limit_break_skills/icon.json_image,limit_break.png,11
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,13
@@ -609,7 +609,7 @@ images/ui/concert_result/parts_effect.json_image,concert_result_parts_effect.png
 images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,9
 images/ui/raid_concert/parts_audience.json_image,raid_concert_audience.png,3
 images/ui/raid_concert/parts_effect.json_image,raid_concert_audience_effect.png,3
-images/ui/ex_skill/parts.json_image,ex_skill_parts.png,6
+images/ui/ex_skill/parts.json_image,ex_skill_parts.png,7
 images/ui/fes_tower_common/parts.json_image,fes_tower_common_parts.png,3
 images/ui/fes_tower_deck/parts_endurance.json_image,fes_tower_deck_parts_endurance.png,2
 images/ui/fes_tower_deck/parts.json_image,fes_tower_deck_parts.png,2
