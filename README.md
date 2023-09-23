@@ -51,7 +51,8 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 
 <img src="https://i.imgur.com/l0shT2n.jpg" width="500"></img>
 
-5. The patch should now be installed. Play the game in Safari (https://shinycolors.enza.fun/) and ensure the patch is working correctly.
+5. From the script config, change the inject mode to 'page' and disable dark mode.
+6. The patch should now be installed. Play the game in Safari (https://shinycolors.enza.fun/) and ensure the patch is working correctly.
 
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/iosinstall.png" alt="Click the ..." width="30%"></img><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/VideoFloat.png" alt="Click the ..." width="30%"></img>
 
