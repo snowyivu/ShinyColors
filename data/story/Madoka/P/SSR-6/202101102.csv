@@ -1,0 +1,83 @@
+id,name,text,trans
+0000000000000,ライター,────僕ね、思ったんですよ,"──You know, I thought about it."
+0000000000000,ライター,"この『ビルの狭間にひっそり咲いている花たち』……、
+なんだかノクチルのみなさんのことみたいだなあって","This line, ""Flowers blooming quietly between the 
+tall buildings""... seem to be referring to the members
+of noctchill."
+2021011020010,円香,そういう見方もあるんですね,I suppose you can look at it that way.
+0000000000000,ライター,"ええ……！
+みなさん、幼なじみでしたよね","Yeah...!
+You're all childhood friends, right?"
+0000000000000,ライター,"仲が良いのが伝わってくるなあ
+そういうのいいなあって","I can feel your closeness from it.
+That's really sweet."
+0000000000000,ライター,"どうでしょう、幼なじみのみなさんは……
+樋口さんにとって大切な存在ですか？","What do you think of your childhood friends?...
+Are they important to you?"
+2021011020020,円香,……正直、あまり考えたことないですね,"...To be honest, I never really think about it."
+2021011020030,円香,もう空気のような存在なので,"They're just like the air I breathe,"
+2021011020040,円香,あらためて考える必要もないというか,so it's not something I'd think about.
+0000000000000,プロデューサー,"ん、円香？
+……お疲れ様！","Oh, Madoka?
+...Good job today!"
+2021011020050,円香,……お疲れ様です,...You too.
+0000000000000,プロデューサー,"あれ、今日って何か…………
+ボイトレの日だっけ……？",Hmm? Was today... voice training day...?
+2021011020060,円香,"……経費精算で事務所に寄っただけ
+もう帰るところです","...I stopped by the office to submit my expense
+reimbursement and am currently on my way home."
+0000000000000,プロデューサー,"ああ、そうだったか……！
+すまん、予定がごしゃっとなった","Aah, I see...!
+Sorry, I had the schedule mixed up."
+2021011020070,円香,……スケジュール管理もあなたの仕事では？,...Isn't it your job to manage the schedule as well?
+0000000000000,プロデューサー,"はは、ごめんな
+気をつけるよ","Haha, sorry. I'll pay attention."
+2021011020080,円香,"何……？
+事務所なら逆方向ですが","What is it...?
+The office is in the opposite direction."
+0000000000000,プロデューサー,"いや……俺も駅の方に行くんだ
+これから打ち合わせで","No... I'm also heading to the station.
+I have a meeting coming up."
+2021011020090,円香,"それならどうぞ私に構わず
+遅れないように急いでください","Don't mind me and be on your way then. You don't
+want to be late."
+0000000000000,プロデューサー,"大丈夫大丈夫！
+余裕を持って出たからさ──",It's okay! I planned with some extra time─
+0000000000000,プロデューサー,胡蝶の夢って古文で習ったか？,"Did you know about the butterfly's dreams in old
+text?"
+2021011020100,円香,……『夢見鳥』の話？,"Are you talking about ""Yumemidori""?"
+0000000000000,プロデューサー,お、そうそう,"Yea, I am."
+0000000000000,プロデューサー,"人が蝶になる夢を見たのか、
+それとも、蝶が人になる夢を見たのか……","Did a human dream that they become a butterfly,
+or did a butterfly dream that they became a human..."
+0000000000000,プロデューサー,"儚い人生、もしくは
+夢と現実の境目が曖昧になることのたとえ……","A  metaphor for fleeting life, or the fading line 
+between dreams and reality..."
+2021011020110,円香,……万物斉同,...The Equality of Things.
+0000000000000,プロデューサー,"ああ、そうだ
+……調べてくれたのか？","Ah, yes.
+...You did some research?"
+2021011020120,円香,曲の意味を知る必要があったので,I needed to know the meaning of the song.
+0000000000000,プロデューサー,そうか、うん,"I see, good."
+0000000000000,プロデューサー,……何か、掴めたか？,...So... Did you get it?
+0000000000000,円香,………………,.........
+2021011020140,円香,いえ、まったく,"No, not at all."
+2021011020150,円香,"理解も共感もできそうにありません
+残念ながら","Unfortunately, it's a song that I don't think I can
+come to understand nor relate to."
+0000000000000,プロデューサー,うーん、そうか……,"Hmmm, well..."
+2021011020160,円香,たとえ理解できても,Even if I can understand it.
+2021011020170,円香,"私が感じたことを、
+誰かに伝えたいとは思えないので","I don't think I want to tell others what I feel
+about it."
+2021011020180,円香,……この歌は、私のものになりません,...This song will never be mine.
+0000000000000,プロデューサー,……この後の予定は？,...Any plans later?
+2021011020190,円香,家に帰るだけです,I'm just heading home.
+0000000000000,プロデューサー,ん……,Hm...
+0000000000000,プロデューサー,"じゃあ、気をつけて
+……お疲れ様！","Alright, take care then.
+...Bye!"
+2021011020200,円香,……お疲れ様でした,...Goodbye.
+0000000000000,プロデューサー,……………………,.........
+info,produce_events/202101102.json,
+Translator,Mycstea,

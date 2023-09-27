@@ -8,7 +8,7 @@ images/ui/option/parts.json_image,ui_option_parts.png,25
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,24
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,29
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,30
 images/ui/gasha/parts.json_image,gasha_parts.png,29
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
@@ -138,7 +138,7 @@ images/event/fg/007422.png,event/April22/022.png,1
 images/event/fg/007423.png,event/April22/023.png,1
 images/event/fg/007424.png,event/April22/024.png,1
 images/event/fg/007425.png,event/April22/025.png,1
-images/ui/home_deck/parts.json_image,home_deck_parts.png,20
+images/ui/home_deck/parts.json_image,home_deck_parts.png,21
 images/ui/item/parts_content.json_image,item_parts_content.png,10
 images/ui/item/parts.json_image,item_parts.png,12
 images/content/produce_area/button_m/002.png,button_m_002.png,3
@@ -711,6 +711,10 @@ images/ui/produce_action/gradation/parts_5th.json_image,gradation_parts_5th.png,
 images/content/special_communications/buttons/50024/parts.json_image,images_content_special_communications_buttons_50024_parts.png,1
 images/ui/produce_action/parts_5th.json_image,parts_5th.png,2
 images/ui/produce_top/parts_5th.json_image,produce_top_parts_5th.png,1
+images/ui/notice/parts_pickup_contents_pop.json_image,pickup_contents_pop.png,1
+images/ui/producer_desk/parts.json_image,producer_desk_parts.png,3
+images/ui/producer_desk/parts_note.json_image,producer_desk_note.png,1
+images/ui/producer_desk/parts_level.json_image,producer_desk_level.png,3
 images/content/produce_place_categories/place_name/00001.png,produce_place_categories_place_name_00001.png,1 
 images/content/produce_place_categories/place_name_mask/00001.png,produce_place_categories_place_name_mask_00001.png,1
 images/content/produce_place_categories/place_name/00002.png,produce_place_categories_place_name_00002.png,1 
@@ -957,3 +961,6 @@ images/content/support_idols/name/9669008de6714887e540aa883f2c4c84_2040210080.pn
 images/content/idols/name/f33cfd082411e9f909b8f91e7f455b21_1030210020.png,cards/madoka_p_sr_2.png,1
 images/content/support_idols/name/1fa41d38e45a85e8a56e2305a1655780_2040200070.png,cards/toru_s_ssr_7.png,1
 images/content/support_idols/name/bd22cc35f0860396f87bcd75729b531c_2040230060.png,cards/hinana_s_ssr_6.png,1
+images/content/support_idols/name/a20e0ffe8eff8ea0929bc006f79c126d_2040070100.png,cards/yuika_s_ssr_10.png,1
+images/content/idols/name/f70b9411228692fa9dec9cb683376efe_1040210050.png,cards/madoka_p_ssr_5.png,1
+images/content/idols/name/b661800b3171b1972ae032644041b52c_1040210060.png,cards/madoka_p_ssr_6.png,1

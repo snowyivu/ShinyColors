@@ -3,11 +3,12 @@ id,name,text,trans
 2021010010020,円香,"私の幼馴染がそちらに所属することになりまして
 騙されてないか、確かめに来たんです","My childhood friend joined here, so I wanted to make
 sure she wasn't being tricked into something."
-0000000000000,off,なぜ、あの時,"Why did I, at that time"
+0000000000000,off,なぜ、あの時,Why did I
 0000000000000,プロデューサー,あっ……待って,Ah... Wait.
 0000000000000,プロデューサー,"アイドル志望でないのなら────
-今、ここでスカウトさせてください……！","If you have no desire to be an idol, then..."
-0000000000000,off,なぜ、あの時、呼び止めたのだろうか,Why did I call out to her at that time?
+今、ここでスカウトさせてください……！","If you have no desire to be an idol, then...
+Please let me scout you...!"
+0000000000000,off,なぜ、あの時、呼び止めたのだろうか,Why did I call out to her back then?
 0000000000000,プロデューサー,"出会った時にすぐわかりました
 ……ダイヤの原石だって……！","I knew as soon as I met you... 
 that you're a diamond in the rough...!"
@@ -31,46 +32,46 @@ that it'd be safe if you come along?"
 2021010010090,円香,……本当に……,...I really...
 0000000000000,off,"でも
 願わくは、信じたい","But,
-I wish that I can have faith."
-0000000000000,off,ここまで連れてきてよかったのだと,That it was good to have brought her here.
+I wish that I can belief,"
+0000000000000,off,ここまで連れてきてよかったのだと,that it was good to have brought her here.
 2021010010100,円香,────どうして私を助けたんです？,──Why did you help me?
 0000000000000,プロデューサー,ん……？,Hm...?
-2021010010110,円香,助けなくていいって言ったのに,I even told you that I didn't need it.
+2021010010110,円香,助けなくていいって言ったのに,I already told you that I didn't need help.
 0000000000000,プロデューサー,"どうしてもこうしてもない
 円香のプロデューサーだからだよ","There's no particular reason.
 It's just because I'm your Producer."
 0000000000000,プロデューサー,どんな時も、いつだって,No matter when.
 2021010010120,円香,……ふうん,...Huh.
 2021010010130,円香,私がオフで『アイドル』でない時も？,"Even when I'm not an ""idol"" during my off-time?"
-0000000000000,プロデューサー,ああ、そうだな,"Aah, yeah, even then."
+0000000000000,プロデューサー,ああ、そうだな,"Yeah, even then."
 2021010010140,円香,じゃ、私が『アイドル』ではなくなったら？,"Then what will happen if I'm not an ""idol"" anymore?"
 2021010010150,円香,そうなったら、ようやく────,"When that happens, perhaps then can──"
 0000000000000,プロデューサー,"ん…………んん……
-起きるか……","Hmm...... Hmmmm...
-I guess I woke up huh..."
+起きるか……","Mm...... Hmmmm...
+I guess I gotta get up huh..."
 0000000000000,プロデューサー,"シャワー、浴びないとな……
 クリーニングに出した服も受け取らないと……","Gotta take a shower first...
-Then get the laundry from the cleaners..."
+Then collect the laundry from the cleaners..."
 0000000000000,プロデューサー,"ああ、でもまだ眠……
-ふ……わぁ………","Aagh, but I'm still sleepy...
+ふ……わぁ………","Argh, but I'm still so sleepy...
 Ag... Bleh......"
 0000000000000,プロデューサー,…………！,......!
 2021010010160,円香,おはようございます,Good morning.
-0000000000000,プロデューサー,え？　ああ……,Eh? Agh......
+0000000000000,プロデューサー,え？　ああ……,Eh? Argh......
 select,,"どうしてこんな
 早くに……","Why are you so
 early today..."
 select,,おはよう！！,Morning!!
 select,,まだ夢……？,"Is this still a
 dream...?"
-2021010010170,円香,……いけませんか？,...Am I not allowed to be early?
+2021010010170,円香,……いけませんか？,...Is that not allowed?
 0000000000000,プロデューサー,"いや、そんなことは……
 でも……朝早い予定あったっけ……","No, I didn't mean that...
 But... I was just thinking if I had missed any early
 appointments with you..."
 2021010010180,円香,"今日はオフです
 学校に行く前に、寄っただけ","It's my off day, today.
-I dropped by before going to school to pick up something
+I stopped by before going to school to pick up something
 I left behind."
 2021010010190,円香,事務所に忘れ物をしたので,That's all.
 0000000000000,プロデューサー,あ、ああ……,"Ah, I see..."
@@ -90,8 +91,8 @@ I got careless........."
 0000000000000,プロデューサー,"あーあ……
 だらしないこんな格好……","Arggh...
 I look so sloppy like this..."
-0000000000000,off,好かれたいとは言わないが、せめてきちんと向き合いたい,"It's not like I want to be liked, but I wanted to at least
-face her properly."
+0000000000000,off,好かれたいとは言わないが、せめてきちんと向き合いたい,"It's not like I desire to be in her favor, but I wanted
+to face her properly, at the very least."
 2021010010250,円香,"……じゃ、私が『アイドル』ではなくなったら？
 そうなったら、ようやく────","Then what will happen if I'm not an ""idol"" anymore?
 When that happens, perhaps then can──"
@@ -107,7 +108,7 @@ Isn't it cold coming here?"
 2021010010270,円香,まあ、はい,"Well, yes."
 0000000000000,プロデューサー,"はは、座って！　あたたかいお茶でも入れるよ
 打ち合わせの時間までゆっくり────","Haha, have a seat! I'll get you some hot tea.
-Let's chill until the meeting la──"
+Let's chill until the meeting later──"
 2021010010280,円香,"……仕事の打ち合わせは明日です
 今日はオフ","...The meeting's tomorrow.
 It's my day off today."
@@ -115,7 +116,7 @@ It's my day off today."
 すまん、そうだっけ…………","Ah, eh....?
 I'm sorry, 'that so huh......"
 0000000000000,プロデューサー,じゃあ、なんで────,"Then, why──"
-2021010010290,円香,学校に行く前に忘れ物を取りに来ただけ,"I dropped by before going to school to pick up something
+2021010010290,円香,学校に行く前に忘れ物を取りに来ただけ,"I stopped by before going to school to pick up something
 I left behind."
 2021010010300,円香,……それだけです,...That's all.
 2021010010310,円香,"あとは二度寝でもなんでも
@@ -123,14 +124,14 @@ I left behind."
 ......Be my guest."
 0000000000000,プロデューサー,"寝起きだってバレてる……
 ……そりゃそうか、髪も服もこんなんじゃ……","Looks like she noticed that I just woke up...
-...Obviously, with my hair and clothes like that..."
+...Well, obviously with my hair and clothes like that..."
 0000000000000,プロデューサー,気をつけよう……,Gotta be more mindful...
 2021010010320,円香,"……じゃ、私が『アイドル』ではなくなったら？
 そうなったら、ようやく────","Then what will happen if I'm not an ""idol"" anymore?
 When that happens, perhaps then can──"
 0000000000000,off,『あなたと、さよならできる？』,"""We say goodbye?"""
 0000000000000,off,さみしい終わりにはしたくないな,I don't want it to end in such a sour note.
-0000000000000,off,ああ、願わくは────,"Sigh, I wish──"
+0000000000000,off,ああ、願わくは────,"Ahh, I wish──"
 2021010010330,円香,……なんですか？,...What did you say?
 0000000000000,プロデューサー,"あ……
 いや、すまん","Ah...
@@ -148,7 +149,7 @@ arrived."
 suddenly."
 0000000000000,プロデューサー,何かあったのか？,Something the matter?
 2021010010370,円香,別に,Not really.
-2021010010380,円香,学校に行く前に忘れ物を取りに来ただけです,"I dropped by before going to school to pick up something
+2021010010380,円香,学校に行く前に忘れ物を取りに来ただけです,"I stopped by before going to school to pick up something
 I left behind, that's all."
 0000000000000,プロデューサー,"────急に現れるから、
 夢の続きを見ているのかと思った……なんて言ったら……","──If I said that her sudden appearance made me think
