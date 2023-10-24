@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,お疲れ様、あさひ,"Great job, Asahi."
+6017002020010,あさひ,"……プロデューサーさん
+ステージ、どうだったっすか？","......Producer-san.
+How was the stage?"
+0000000000000,プロデューサー,"そうだなぁ……
+……あさひは、どう思う？","I wonder how it was......
+......How do you feel, Asahi?"
+6017002020020,あさひ,……わたしは完璧にできたって、思うっす,"......I did it perfectly, I think."
+0000000000000,プロデューサー,"そうか
+──でも、本番まではまだ日もあるんだ","I see.
+──Even so, there's still a few days before the real 
+thing."
+0000000000000,プロデューサー,より良い本番のために、できることはいっぱいあるからな,"In order to give an even better performance, there's 
+lots of things we have to do."
+6017002020030,あさひ,──……,──......
+6017002020040,あさひ,本番のために頑張って──,Doing my best for the performance──
+6017002020050,あさひ,──トップアイドルに、なれたとして──……,──As a top idol──
+6017002020060,あさひ,その先に、なにがあるんすかね……？,"After that, what kind of thing lies there......?"
+0000000000000,プロデューサー,あさひ……？,Asahi......?
+6017002020070,あさひ,…………,......
+6017002020080,あさひ,…………あれ,......Oh.
+6017002020090,あさひ,"ごめんなさい
+ちょっとぼーっとしてたみたいっす","Sorry.
+Guess I spaced out a lil'"
+6017002020100,あさひ,"──とにかく、
+本番も、バッチリ成功させるっすから……","──Anyways...
+I'll make sure the real thing is perfect too......"
+6017002020110,あさひ,"心配しないでいいっすよ
+……わたし、誰よりも完璧に、やるんで","You don't have to worry 'bout me.
+......Nobody can do it, perfectly, like I can."
+6017002020120,あさひ,……じゃ、ちょっとスタッフさんとこ行ってくるっす,"......Well, I'll go see the staff for a bit."
+info,produce_events/601700202.json,
+Translator,,

@@ -1,0 +1,119 @@
+id,name,text,trans
+0000000000000,プロデューサー,ふー……こんなとこかな,Whew... That's about it.
+2011015020010,樹里,おはよ、プロデューサー,"Morning, Producer."
+2011015020020,樹里,コーヒーのいい匂いだな,The coffee smells good.
+0000000000000,プロデューサー,"お、樹里
+どっか行くのか？","Oh, Juri.
+Going somewhere?"
+2011015020030,樹里,"うん。時間空いてるから
+身体でも動かそうかなって","Yeah. I have some free time,
+so I thought I'd get some exercise."
+0000000000000,プロデューサー,そうか……いい天気だもんな,I see... It's a beautiful day afterall.
+0000000000000,プロデューサー,ついて行ってもいいか？,Do you mind if I tag along?
+2011015020040,樹里,"ん、いいけど
+仕事してたんじゃないのか？","Sure, but, aren't you working?"
+0000000000000,プロデューサー,"ああ、メールチェックは終わったから
+でも、コーヒー飲み終わるまで待ってくれるか？","Yeah, but I just finished checking my email.
+Can you wait until I finish my coffee, though?"
+2011015020050,樹里,"あははっ
+ごゆっくり","Ahaha.
+No rush."
+0000000000000,プロデューサー,"──樹里は偉いなあ
+今日くらい運動もお休みにすればいいのに","──You're admirable, Juri.
+You could've just taken it easy and skipped exercising for a day."
+2011015020060,樹里,"アタシだって
+忙しいとか疲れたとかでやらないことはあるよ","There are times when I don't exercise because I'm busy or tired, y'know."
+2011015020070,樹里,"まあ、昨日は移動で座りっぱなしだったし
+調子取り戻したいのもあるんだ","Well, I was sitting a lot during the commute yesterday, so I also wanted to get back on track."
+0000000000000,プロデューサー,"──そういう心がけを持っていることが
+十分偉いと思うけどな",──I think having that kind of mindset is enough to make you admirable.
+2011015020080,樹里,そうかあ？,Is that so?
+2011015020090,樹里,うーん……,Hm...
+2011015020100,樹里,"アタシさ、高校受験の時勉強に集中するぞーって
+習慣だったランニングとか一回全部やめたことあったんだ","When I was preparing for the high school entrance exam, I had to concentrate on my studies, so I gave up on my habit of running and everything at once."
+0000000000000,プロデューサー,へえ……,Oh...
+2011015020110,樹里,"一気に時間増えて
+ラッキーって思ったんだけど",I thought I was lucky to have so much more time...
+2011015020120,樹里,"そのぶん、だらけちゃうことも増えたし
+集中力もなんか落ちた気がして……","But I ended up feeling more tired, and it was difficult to concentrate..."
+2011015020130,樹里,"それでまた運動を再開してみたら、全然ダメになってて……
+ランニングとか、すぐに息が上がっちゃってさ","When I started exercising again, I got significantly worse at it... Like, I was getting out of breath very quickly when I tried to run."
+2011015020140,樹里,……体力落ちるのもすぐなんだよな,"...I fell out of shape immediately. "
+2011015020150,樹里,"それから、怖いっていったら、変だけど
+なんにもしないのが続くと落ち着かなくなっちゃって","After that... It's weird to say that I'm scared,
+but I get restless if I just let myself stay idle."
+0000000000000,プロデューサー,うん、なるほどなあ……,"Yeah, I see what you mean..."
+2011015020160,樹里,"向上心っていうより焦りに駆られてって感じだから
+誉められるとなんつーか……","I'm driven by impatience rather than ambition,
+so when I get complimented, it's a little..."
+2011015020170,樹里,ちょっとむずがゆい、かな,"I feel a little uneasy, I guess."
+0000000000000,プロデューサー,ははっ、そうか？,"Haha, really?"
+0000000000000,プロデューサー,"どんな気持ちにしてもさ、
+ちゃんとやってるんだから偉いよ、やっぱり","No matter the motivation,
+I still think you are really admirable for doing everything diligently."
+2011015020180,樹里,"あはは
+サンキュ","Ahaha.
+Thank you."
+2011015020190,樹里,"まあ、今回はせっかくここまで来たんだし
+外の空気味わいたいっていう気持ちの方が先立つんだけど","Well, I've come all this way, so I'm more interested in
+getting a new breath of fresh air this time."
+0000000000000,プロデューサー,"そうだな
+よし……","I see.
+Alright..."
+select,,ご一緒しようかな,Let me join.
+select,,いい場所がある,I know a great place.
+select,,"その前に
+ごはんはどうだ？","How about we
+grab food before that?"
+0000000000000,プロデューサー,"体動かすの
+樹里を見習って",I'll learn after you.
+2011015020200,樹里,おっ、やろうやろう,Sure. Let's do it!
+0000000000000,プロデューサー,──あっ、でもお手柔らかにお願いします,"──Oh, but, please be gentle with me."
+2011015020210,樹里,"あははっ、オッケー
+このままウォーキングもいいけど……","Ahaha, okay.
+We can just keep walking, but..."
+2011015020220,樹里,"自転車とかなら気軽にできるのにな
+いろいろ見て回れるし","I'd be more fun if we were biking or something.
+There's an opportunity to do some sightseeings."
+0000000000000,プロデューサー,そういえば、レンタサイクルやってるところあったな……,That reminds me. I remember seeing a bike rental place around here...
+2011015020230,樹里,"ほんとか？
+そこ行ってみようぜ！","Really?
+Let's go there!"
+0000000000000,プロデューサー,ああ！,Yeah!
+0000000000000,プロデューサー,"お城の跡地なんだけど、公園みたいになってて
+高台だから景色もいいはずだ","It's a castle ruin, but it's more like a park now.
+The place is on a hill, so the view should be nice."
+2011015020240,樹里,"あっ、そっか
+お城って街を見渡せたりするんだよな","Oh, I see.
+Since castles were built to overlook the town and stuff."
+2011015020250,樹里,いいな、そこ行ってみたい,I'd love to go there.
+0000000000000,プロデューサー,階段とかけっこうあるんだろうなあ,"There are probably a lot of stairs, though."
+2011015020260,樹里,いい運動になるな！,Sounds like a good exercise!
+0000000000000,プロデューサー,"……うん
+大変そうだけど","...Yeah. 
+A tough one, for sure."
+2011015020270,樹里,なんだよ、プロデューサーが言い出したんだろ,"Come on, you're the one suggesting it."
+2011015020280,樹里,"いい景色がご褒美ってことでさ
+頑張ろうぜ","It's worth it for the view.
+Let's do our best!"
+0000000000000,プロデューサー,"ははっ
+そうだな","Haha.
+You're right."
+2011015020290,樹里,……あ、そういえばまだだった,"...Oh, I just realized I haven't eaten."
+0000000000000,プロデューサー,運動も大事だけど、食事も大事だから,"Exercise is important, but so is eating."
+2011015020300,樹里,"あはは、そうだな
+どこかやってるところあるかな？","Haha, true.
+Is there any place nearby?"
+0000000000000,プロデューサー,"この先に、美味しそうなパン屋さんがあるんだ
+買って外で食べることになるけど……どうだ？","There's a great bakery down the street.
+We'll have to eat outside, but...
+How does that sound?"
+2011015020310,樹里,"うん、いいな
+行ってみよう","Yeah, sounds great.
+Let's go there."
+2011015020320,樹里,"外で食べるごはんって
+なんか美味しいよな","Food always tastes good when you eat them outside, for some reasons."
+2011015020330,樹里,あ、でもちゃんとあとで運動な！,"Oh, but don't forget that we're exercising later!"
+0000000000000,プロデューサー,ははっ、もちろん,"Haha, of course."
+info,produce_events/201101502.json,
+Translator,Ruru,

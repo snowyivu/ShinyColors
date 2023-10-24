@@ -1,0 +1,105 @@
+id,name,text,trans
+0000000000000,プロデューサー,"樹里、何か飲んでいかないか？
+まだ集合まで時間あるし","Juri, why don't we get something to drink?
+We have some time to kill before the meeting."
+0000000000000,プロデューサー,"ほら、そこ
+よさそうなカフェがある","Look, there's a cafe over there."
+2011015010010,樹里,"おー
+ほんとだ","Oh.
+That's true."
+2011015010020,樹里,"──テイクアウトにしないか？
+公園で飲もう","──How about takeout?
+We can drink it in the park."
+0000000000000,プロデューサー,"いいぞ
+でも、樹里は寒くないか？","Sounds good.
+Aren't you feeling chilly, though?"
+2011015010030,樹里,あったかくしてきたから大丈夫！,"I've warmed up, so I'll be fine!"
+2011015010040,樹里,…………,............
+2011015010050,樹里,"なんか焙煎機？　みたいなのがある
+本格的っぽいな……！","They have something like, a roasting machine?
+This place seems like a real deal......!"
+0000000000000,プロデューサー,"え？
+いいじゃないか、美味しそうで","Eh?
+That's nice. Their coffee must be good then."
+2011015010060,樹里,"そーだけど！
+いったん落ち着こう","Yeah, but!
+Let's hold on for a minute."
+2011015010070,樹里,"こういうところにうかつに飛び込むと
+注文でまごついちまうだろ？","If we just barge into a place like this,
+it's definitely going to be confusing, right?"
+0000000000000,プロデューサー,"お、おう
+そうだな……！","Y-Yeah.
+Maybe...!"
+0000000000000,プロデューサー,"あ、でもさ外にメニュー出てる
+外でしっかり決めていけば大丈夫だよ","Oh, but there's a menu outside.
+We can decide on what to order from here."
+2011015010080,樹里,そうだな……！,Right...!
+0000000000000,プロデューサー,"ゴグ……？　エル……？
+う、なんて読むんだろう……","Gog...?　El...?
+Uh, I don't know how to read this..."
+0000000000000,プロデューサー,"豆の種類だけでこんなにあるのかあ……
+味がさっぱり見当つかないな","There are so many different kinds of beans...
+It's not easy to guess what they'd taste like."
+2011015010090,樹里,"こだわりないなら
+おすすめを聞いてみるとか？","If you're not picky,
+maybe you could ask for a recommendation?"
+2011015010100,樹里,"アタシ、カフェラテでいいんだけど……
+書いてないってことはないのかな……","I'm fine with just a latte...
+I don't see it written here, but they should have it..."
+2011015010110,樹里,"入ってみて
+なかったら気まずいよな",It'd be awkward if we didn't go inside.
+0000000000000,プロデューサー,……やめとくか……？,...Do you want to leave...?
+2011015010120,樹里,いや、せっかくだし……,"Nah, we're already here..."
+0000000000000,店員,"ご注文は中でうかがっています
+良かったら……","We'll take your order inside, if you'd like..."
+2011015010121,樹里＆プロデューサー,…………！,............!
+2011015010130,樹里,"……はあ、優しい店員さんでよかったな
+コーヒーもいろいろ教えてもらったし","...Phew, the staff was so kind.
+She even gave us in-depth explanations."
+2011015010140,樹里,──ちゃんとカフェラテもあったし,──And they had cafe latte as well.
+0000000000000,プロデューサー,バナナパウンドケーキまで買っちゃったしな,I even bought a banana pound cake.
+2011015010150,樹里,"あははっ
+だってレジのそばにあるんだもんなあ","Ahaha.
+Well, it was right by the cash register."
+0000000000000,店員,37番38番でお待ちの方～,"Number 37, 38, your order is ready～"
+2011015010160,樹里,"あっ、呼ばれた
+アタシが行ってくる","Oh, they just called.
+I'll go get it."
+0000000000000,プロデューサー,いや、俺が……,"No, let me..."
+2011015010170,樹里,"いーって！
+荷物見ててくれるか？","It's okay!
+Can you watch my stuff?"
+0000000000000,プロデューサー,──ああ、ありがとう,──Sure. Thank you.
+0000000000000,プロデューサー,──ん、おかえり,──Welcome back.
+0000000000000,プロデューサー,……樹里？,...Juri?
+2011015010180,樹里,はい、プロデューサー,"Here, Producer."
+0000000000000,プロデューサー,ありがとう,Thanks.
+0000000000000,プロデューサー,……あれ、なんか書いてある……？,"...Huh, something's written here...?"
+2011015010190,樹里,"あははっ
+そうなんだ","Ahaha.
+Yeah."
+2011015010200,樹里,朝の一言、もらってきた,We got a morning quote on each.
+0000000000000,プロデューサー,"──これ、店員さんの手書きなのか
+なんて書いてあるんだろう……","──I wonder if they're handwritten by the staff.
+What does this mean..."
+2011015010210,樹里,"やったね！　とか
+がんばれ！　とかっていう意味らしい","I think it's something like ""You did it!"" or ""Do your best!"""
+2011015010220,樹里,アタシたち、ふたりにって,They said it's for us.
+0000000000000,プロデューサー,……へえ,...Huh.
+0000000000000,プロデューサー,これは、元気が出そうなコーヒーだ,So this is a coffee that can cheer someone up.
+2011015010230,樹里,だろー？,Right?
+0000000000000,プロデューサー,ちょっとした一言で、こんなに気分が変わるんだな,One little word can make such a difference.
+2011015010240,樹里,"うん
+不思議だよなー","Yeah.
+Isn't that amazing?"
+2011015010250,樹里,"こんな天気よくて
+公園で美味しいコーヒー飲んじゃったら……","When the weather is so nice
+and you get to drink a good cup of coffee in the park..."
+2011015010260,樹里,最高な一日が約束されたようなもんだよな,"It's like the day is guaranteed to be wonderful, right?"
+0000000000000,プロデューサー,"ははっ
+違いない","Haha.
+No doubt."
+2011015010270,樹里,早く行こうぜ！,Let's get going!
+0000000000000,プロデューサー,ああ,Yeah.
+info,produce_events/201101501.json,
+Translator,Ruru,
