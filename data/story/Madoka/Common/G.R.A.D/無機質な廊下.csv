@@ -12,9 +12,9 @@ Do you have anything to add?"
 I look forward to working with you again soon."
 0,プロデューサー,（円香から連絡が来てる。無事に終わったかな……）,"(A message from Madoka. Things should have went
 off without a hitch)"
-1021003040010,円香,『お疲れさまです』,『Thank you for the hard work』
+1021003040010,円香,『お疲れさまです』,『Thank you for the hard work.』
 1021003040020,円香,『バラエティ番組のLIVE配信は終了しましたが』,"『The variety programme's live broadcast has
-concluded』"
+concluded.』"
 1021003040030,円香,『申し訳ありません。失敗しました』,『I'm sorry but it was a disaster.』
 0,プロデューサー,（…………ん！？）,(......huh!?)
 0,営業,"あれ、283さん
@@ -40,7 +40,7 @@ instructed?"
 0,プロデューサー,"ええと、待ってください
 それって炎上したタレントの代役ですか？","Hmm, hold on a second.
 So she's to be a stand-in for another talent that
-had relations issues?"
+had public relations issues?"
 0,営業,"まあそうですが……
 今、すごく注目されている番組なんですよ！","Yes, that's the gist of it...
 But we're a programme that's been getting loads of
@@ -57,12 +57,12 @@ Please, do consider it and we can discuss further..."
 Even though... It is indeed a great offer..."
 1021003040070,円香,ごめんなさい,I'm sorry.
 0,アイドル,"い、いえ、樋口さんに悪気がないことはわかってて……
-だけど……なんて言ったらいいのかな……","No, no. I know that Higuchi-san didn't mean to
-offend... But... How should I say it..."
+だけど……なんて言ったらいいのかな……","No, no. I know that you didn't mean to offend...
+But... How should I say it..."
 0,アイドル,…………,......
 0,アイドル,"もしかしてなんですが、
 樋口さんはずっと私のことを──","Could it be that,
-Higuchi-san has always──"
+You have always──"
 0,営業,"え！？　断る……ってことですか？
 絶対に売れる番組なんですけどぉ……","Eh!? You're... rejecting the offer?
 This programme would've definitely been a hit..."
@@ -74,8 +74,8 @@ You've even gone out of the way to ask..."
 I'll try a different agency."
 0,営業,"でもチャンスを選んでいる場合じゃないと思いますけどね
 アイドルに深入りするのも結構ですがビジネスなんですから","Though I don't really think you're in a position to be
-picky. It's fine to care for your idol, but this is still a
-business afterall."
+picky. It's fine to be thorough for your idol, but this
+is still a business afterall."
 0,プロデューサー,……精進いたします,...Duely noted.
 0,営業,"いえいえ
 今回は残念ですがそのうちまたお願いしますね","No, no.
@@ -101,7 +101,7 @@ naive."
 0,アイドル,『いやもうそのインパクトが大切なんですって！』,『And I'll treasure it forever and ever!』
 0,司会,『あれ……あれ？　どうしました、樋口さーん？』,『Hmm... hmm? What's wrong Higuchi-saan?』
 0,ゲスト,"『なんか真顔？　怒ってます？』
-『アハハ、どうしちゃったのかな～』","『Your face looks kinda red? Are you angry?』
+『アハハ、どうしちゃったのかな～』","『Your face looks kinda stern? Are you angry?』
 『Ahaha, I wonder what's wrong～』"
 1021003040080,円香,『…………』,『......』
 1021003040090,円香,『……無理です、笑えない』,『...I can't do it. I can't laugh.』
@@ -109,7 +109,7 @@ naive."
 1021003040110,円香,『あなたは、あなたのままで、間違っていない』,『You're not wrong. For you to stay the way you are.』
 0,アイドル,"もしかしてなんですが……
 樋口さんは、ずっと私のことを","Could it be that...
-Higuchi-san has always"
+You have always"
 0,アイドル,哀れんでいました？,pitied me?
 1021003040120,円香,『はい』,『Hello.』
 0,プロデューサー,"お、番組お疲れさま！

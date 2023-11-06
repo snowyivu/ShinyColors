@@ -3,8 +3,8 @@ id,name,text,trans
 2021008020020,円香,……はい、お疲れ様です,"...Yes, thanks for the hard work,"
 2021008020030,円香,プロデューサー,Producer.
 2021008020040,円香,"なんでしょう
-私で答えられることでしたら","Can I help you.
-I'll answer if its something I can."
+私で答えられることでしたら","Is something the matter?
+I'll answer if it’s something I can."
 2021008020050,円香,いつもより１時間早く、ですね,That's earlier than the usual by an hour.
 2021008020060,円香,"……予定を確認してから、
 またご連絡するでも構いませんか","...Can I get back to you after I check my
@@ -33,22 +33,21 @@ It's our pleasure working with you again!"
 0000000000000,プロデューサー,"すみません急に
 樋口にお電話いただいたところ……","Sorry for taking over suddenly while you were
 discussing the matter with Higuchi..."
-0000000000000,番組プロデューサー,『ああ～！　すみません！　いえいえ……！』,"""AAh~! It's alright! Sorry for the suddenly call....!"""
+0000000000000,番組プロデューサー,『ああ～！　すみません！　いえいえ……！』,"""Aah~! It's alright! Sorry for the sudden call....!"""
 0000000000000,プロデューサー,"ちょっと隣で聞かせていただいたのですが
-お仕事の話だったでしょうか……？","I overheard a little it while sitting beside her but may
-I ask if it's regarding a job...?"
-0000000000000,プロデューサー,よかったら私にもお聞かせいただいても──,"If it's alright with you, may I also hear a little more
-about i─"
-0000000000000,番組プロデューサー,『あ～はい～～～！　すみません、本当に……！』,"""Ah~ Yes~~~! I apologize for not having done so...!"""
+お仕事の話だったでしょうか……？","I overheard a little of it while sitting beside her but
+may I ask if it is work related...?"
+0000000000000,プロデューサー,よかったら私にもお聞かせいただいても──,"If that's so, may I also hear a little more about it─"
+0000000000000,番組プロデューサー,『あ～はい～～～！　すみません、本当に……！』,"""Ah~ Yes~~~! I apologize for not contacting you...!"""
 0000000000000,プロデューサー,"──えっ、サブレギュラーですか！
-ありがとうございます……！","─Eh, as a sub-regular!?
-Thank you for the opportunity...!"
-0000000000000,プロデューサー,"え─え─、はい……！
-そうですね、そうしていただけると助かります","I see, I see, yes...!
+ありがとうございます……！","─Eh, but for Madoka to become a sub-regular!?
+We really appreciate the opportunity...!"
+0000000000000,プロデューサー,"ええ──、はい……！
+そうですね、そうしていただけると助かります","Indeed, yes...!
 That would be great."
 0000000000000,プロデューサー,"──はい、では近日中にお伺いしますので
 そこで詳しくお聞かせいただけましたら────","─Yes. In that case, we'll drop by your office soon,
-and after discussing the details then──"
+and after discussing the details──"
 0000000000000,プロデューサー,"いえいえ、とんでもございません……！
 …………はは、本当にありがとうございます","No, no, think nothing of it...!
 ......Haha, thank you so much."
@@ -63,7 +62,7 @@ I guess I can... leave the screen as it is?"
 0000000000000,プロデューサー,"円香から聞いていた通り、
 確かに悪い人ではなさそうだけど────","You heard everything too, and it doesn't seem like
 the other party's a bad person or anything but──"
-2021008020180,円香,ちょっと大雑把なんですよね、彼女,"She not very detailed-oriented, isn't she."
+2021008020180,円香,ちょっと大雑把なんですよね、彼女,"She's not a very detail-oriented person, is she?"
 0000000000000,プロデューサー,うーん,Yeaah.
 2021008020190,円香,"私のような新人にもフランクで公私の区別がないというか
 それがいいところでもあると思いますが","To be so straight with a newcomer like me and not
@@ -71,19 +70,19 @@ treat me differently because of work, isn't
 necessarily a bad thing though."
 0000000000000,プロデューサー,"……あの対応でよかったのか？
 もう直接電話しないように言うこともできたけど","...But are you okay with that?
-I could tell them to not contact you directly from
+I could tell them not to contact you directly from
 now on."
 2021008020200,円香,"構いません
-今後困るようであればまたご相談します","I don't mind.
+今後困るようであればまたご相談します","I don't mind it.
 But I'll let you know if I end up getting bothered by it."
 0000000000000,プロデューサー,ああ、そうしてくれ,"Aah, please do."
 2021008020210,円香,突然パスしてすみませんでした,Sorry for suddenly dropping it on you.
 0000000000000,プロデューサー,"とんでもない
 俺としても助かったよ","Don't mind it.
 In a way, it's better for me too."
-0000000000000,ウェイター,"──お持たせいたしました
+0000000000000,ウェイター,"──お待たせいたしました
 お飲み物とキャラメルプリンをおふたつ","─Sorry for keeping you waiting.
-Here are your drinks, and two caramel pudings."
+Here are your drinks, and two caramel puddings."
 0000000000000,プロデューサー,"……？
 いえ、プリンは頼んで────","...?
 No, I didn't order the pud──"
@@ -104,8 +103,8 @@ It's delicious──"
 どういう人なのかって","That reminds me, but I did hear things about you from
 her. About what she thinks of you and such."
 0000000000000,プロデューサー,え,Eh.
-2021008020270,円香,第一印象は爽やかで優しそうだったとのことですが,"That her first impression of you is that you're pleasant
-and kind,"
+2021008020270,円香,第一印象は爽やかで優しそうだったとのことですが,"That her first impression of you is that you're
+pleasant and kind,"
 2021008020280,円香,"収録を見守る目は真剣で……真剣すぎたので────
 実は怖い人だったりしないのかって","but you become extremely serious watching over the
 recordings... So serious that──
@@ -117,7 +116,7 @@ I'll be counting on you to sort things out later."
 0000000000000,プロデューサー,"えっ
 あ、ああ……？","Eh.
 Ah, huh...?"
-0000000000000,プロデューサー,え？　それは誤解を解けばいいってことか……？,"Eh? Do you mean that its a misunderstanding
+0000000000000,プロデューサー,え？　それは誤解を解けばいいってことか……？,"Eh? Do you mean that it's a misunderstanding
 and that I should resolve it...?"
 2021008020300,円香,さあ,Maybe.
 info,produce_events/202100802.json,

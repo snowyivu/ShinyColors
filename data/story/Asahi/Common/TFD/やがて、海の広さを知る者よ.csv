@@ -5,22 +5,23 @@ id,name,text,trans
 How was the lesson?"
 1017002020020,あさひ,あ、プロデューサーさん！,"Ah, Producer-san!"
 1017002020030,あさひ,"すっごく楽しかったっす！
-今度のイベント、会場に合わせてダンスアレンジがあって……","I had lotsa fun!
-This event had matching dance arrangements..."
+今度のイベント、会場に合わせてダンスアレンジがあって……","It was lotsa fun!
+We made a special arrangement of the dance just for 
+this event..."
 1017002020040,あさひ,"まだ全員で合わせてないんで、
-どうなるか……ワクワクっす！","But everyone still hasn't gathered yet...
-Whatever that's gonna happen... It's exciting!"
-0000000000000,プロデューサー,……そうか,...I see
+どうなるか……ワクワクっす！","But we haven't practiced it all together yet...
+I can't wait to see how it goes!"
+0000000000000,プロデューサー,……そうか,...I see.
 1017002020050,あさひ,──……,──
 1017002020060,あさひ,"プロデューサーさん、
-わたしと少し踊ってくれないっすか？","Producer-san...
-Do you want to dance with me for a bit?"
+わたしと少し踊ってくれないっすか？","Producer-san,
+you wanna dance with me for a bit?"
 0000000000000,プロデューサー,"お、俺がか！？
-俺はダンスなんて全然……","Oh, me!?
+俺はダンスなんて全然……","M-Me!?
 My dancing is absolutely..."
 1017002020070,あさひ,"でも、わたしたちのステップ、少しは覚えてるっすよね？
-ちょっとだけっすから～！","But, you still remember our steps a little bit, right?
-It'll only be for a lil' bit～!"
+ちょっとだけっすから～！","But you still know our dance steps a little, right?
+C'mon, just for a little bit～!"
 0000000000000,プロデューサー,"……わかった……
 少しだけだぞ","...Alright...
 Just for a bit."
@@ -29,36 +30,35 @@ Just for a bit."
 はあ……！","Haa...!
 Haa...!"
 0000000000000,プロデューサー,"（いくらスーツとはいえ……
-ここまで大変とは……！）","(No matter how much you wear a suit...
+ここまで大変とは……！）","(I have the excuse of being in a suit and all, but...
 I didn't think it would be this difficult...!)"
 1017002020090,あさひ,…………,......
 0000000000000,プロデューサー,ど、どうだった？　あさひ……,H-How was it? Asahi...
 1017002020100,あさひ,うーん……,Hmm...
-1017002020110,あさひ,やっぱり下手っすね,"As awkward as I thought, huh."
-0000000000000,プロデューサー,そ、そうか……そうだろうな……,I-I see... Is that so...
-1017002020120,あさひ,……プロデューサーさんとなら、って思ったんすけど……,"...I was thinkin' I could do it together with Producer-
-san, but..."
+1017002020110,あさひ,やっぱり下手っすね,"You really are bad at this, huh."
+0000000000000,プロデューサー,そ、そうか……そうだろうな……,I-I see... I guess so...
+1017002020120,あさひ,……プロデューサーさんとなら、って思ったんすけど……,"...I thought I could do it with you, Producer-san, but..."
 1017002020130,あさひ,ふー……,Phew...
 1017002020140,あさひ,"やっぱりプロデューサーさんには、
-見ててもらうほうがいいっす","As I thought, it's probably fine if Producer-san just 
-keeps watches me."
-1017002020150,あさひ,一緒に踊るのは、やっぱり……,"When we dance together, it's still..."
+見ててもらうほうがいいっす","Yeah, I think I'd like you
+to just watch me, Producer-san."
+1017002020150,あさひ,一緒に踊るのは、やっぱり……,The ones I wanna dance with are...
 0000000000000,プロデューサー,……そうか,...I see.
 1017002020160,あさひ,"……プロデューサーさん！
 もう少しだけ自主練しててもいいっすか？","...Producer-san!
-Is it alright if we just practice for a bit longer?"
+Issit ok if I practice on my own a little longer?"
 0000000000000,プロデューサー,"え？
 今日の分じゃ足りなかったか？","Eh?
-This much today wasn't enough?"
+Was the practice scheduled today not enough?"
 1017002020170,あさひ,"そういうわけじゃないっすけど……
-でも、もっと練習したいっす！","It's not like that kind of thing...
-But, I wanna practice more!"
+でも、もっと練習したいっす！","No, that's not it...
+I just wanna practice more!"
 1017002020180,あさひ,"だって、次のレッスンは
-冬優子ちゃんと愛依ちゃんとやるっすから！","'Cause the next lesson is gonna be with Fuyuko-chan 
-and Mei-chan!"
+冬優子ちゃんと愛依ちゃんとやるっすから！","'Cause I'm gonna be with Fuyuko-chan and Mei-chan
+next lesson"
 1017002020190,あさひ,"──絶対ふたりに負けないように、
-もっと練習しときたいっす！","──So that I absolutely won't lose to them...
-I want to practice even more!"
+もっと練習しときたいっす！","──I absolutely don't wanna lose to them, so I wanna 
+practice more!"
 0000000000000,プロデューサー,…………,......
 0000000000000,プロデューサー,"……無理は禁物だぞ
 やりすぎないよう、俺もここで見てるから","...You shouldn't push yourself too hard.
@@ -70,7 +70,7 @@ overdo it."
 わたしの代わりに見ててください！","Producer-san please watch over me in place 
 of myself!"
 1017002020230,あさひ,"ずっと
-ずーっとっすよ！","Always.
-And forever!"
+ずーっとっすよ！","Always,
+and from here on out!"
 info,produce_events/101700202.json,
-Translator,,
+Translator,XN-Salad,

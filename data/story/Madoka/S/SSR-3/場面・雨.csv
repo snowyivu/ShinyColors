@@ -6,7 +6,7 @@ id,name,text,trans
 0000000000000,円香の母,何か買ってきてほしいものは,Anything you want me to pick up?
 3021007010030,円香,……,...
 3021007010040,円香,"みかんゼリー
-あとヨーグルト","Orange-flavored Jelly.
+あとヨーグルト","Orange-flavored jelly.
 And some yogurt."
 0000000000000,円香の母,ゼリーとヨーグルトね、オッケー,Jelly and yogurt? Okaayー
 0000000000000,円香の母,具合は？,How are you feeling?
@@ -20,7 +20,7 @@ And some yogurt."
 今日は特に大事な授業とか、無いし……","...
 There's no important assignments today..."
 3021007010100,円香,…………,......
-3021007010110,円香,あ、持久走やるとか言ってたっけ……,"Ah, I think there was an endurance running
+3021007010110,円香,あ、持久走やるとか言ってたっけ……,"Ah, I think there was endurance running 
 today..."
 3021007010120,円香,休めてラッキー……,Lucky I'm absent...
 3021007010130,円香,いやどっちにしろ雨だから中止か,But it would be cancelled anyway cos of the rain.
@@ -31,8 +31,8 @@ today..."
 And no important reason to drop by the office..."
 3021007010170,円香,完璧じゃん……,This is perfect...
 3021007010180,円香,最高,The best.
-3021007010190,円香,今日、金曜だから土日含めて三連休……,"Today's a Friday, so with the weekend that makes it
-a three day break."
+3021007010190,円香,今日、金曜だから土日含めて三連休……,"Today's a Friday, so that makes it a three day break 
+with the weekend."
 3021007010200,円香,……明日までに治そ,...Let's recover by tomorrow.
 3021007010210,円香,小学校は３時間目が終わる頃か,"The elementary school's third period should be
 ending."
@@ -67,7 +67,7 @@ I thought of passing it to Aunt..."
 3021007010410,小糸,"そ、そうだったんだ……！
 ごめんね、円香ちゃん寝てたよね","I-I see...!
 I'm sorry, you must have been sleeping."
-3021007010420,円香,別に……,"Nah, I wasn't..."
+3021007010420,円香,別に……,"Nah, it's fine..."
 3021007010430,円香,っていうか、小糸、学校は？,"Actually, how was school today?"
 3021007010440,小糸,"あ……３時間目の体育が雨で中止になって……
 早めの昼休みになったから","Ah... The rain stopped the physical ed lesson in the
@@ -78,8 +78,8 @@ third period... and we had an early lunch break."
 0000000000000,円香,…………,......
 3021007010490,小糸,"ご、ごめんね……！
 コンビニのだけど円香ちゃんが好きなお菓子と……","I-I'm sorry...!
-I bought some sweets I thought you'd like from
-the convenience store..."
+I bought some sweets that I thought you'd like
+from the convenience store..."
 3021007010500,小糸,ゼリー！　食べるかなって……！,"Like, maybe you could eat some jelly...!"
 3021007010510,円香,"いいのに
 大した熱じゃないし","It's fine.
@@ -114,11 +114,11 @@ Teach' will be angry at you for skipping class."
 雨なのにわざわざ来たことあったな、小糸","...Oh yeah, this happened before.
 Koito came visiting despite the rain too."
 3021007010670,円香,"それで何か持ってきた
-なんだっけ……","And she came to holding on to something.
-What was it..."
+なんだっけ……","And she was holding on to something the last
+time too. What was it..."
 3021007010680,円香,小糸だからクラスのプリントじゃないし……,"We're from different classes so it's definitely not
 printouts."
 3021007010690,円香,あ…………,Ah......
 3021007010700,円香,交換日記だ,The exchange diary.
 info,produce_events/302100701.json,
-Translator,,
+Translator,Mycstea,

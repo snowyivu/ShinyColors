@@ -1,0 +1,116 @@
+id,name,text,trans
+0000000000000,プロデューサー,（……きた！）,(...She's here!)
+0000000000000,プロデューサー,"こんにちは、待ってたよ
+スリッパはこの中から自由に……遠慮せず入ってくれ","Hello, and sorry to keep you waiting.
+You're free to use the slippers on the shelves... and
+please come on in."
+0000000000000,プロデューサー,"……契約書、確かに受け取った
+１部は円香が大切に保管しておいてくれ","...We've officially received the contract.
+This copy is for you, so be sure to keep it somewhere
+safe."
+0000000000000,プロデューサー,"２８３プロダクションへようこそ
+これからよろしくな、円香","Welcome to 283 Production.
+Looking forward to working with you, Madoka."
+1021005040010,円香,…………,......
+1021005040020,円香,"浅倉はもう
+活動を始めているんですよね","I suppose that Asakura has already started with her
+idol activities."
+0000000000000,プロデューサー,"ああ……突発で入ってもらった案件があるけど
+まだ宣材写真を撮らせてもらったばかりだよ","Aah... An urgent project popped up and I had to
+attend to it, but until now, we've just finished taking
+promo photos."
+0000000000000,プロデューサー,"だから、ほぼ同じ立ち位置から
+同じ足並みでやっていけるだろう","Which means that you'll all be able to commence at
+around the same footing, with the same pace."
+1021005040030,円香,そうですか,Is that so.
+0000000000000,プロデューサー,"……それじゃあ
+早速レッスンのカリキュラムを組んでいいかな","...Having said that, let's formulate your lesson
+curriculum right away."
+0000000000000,プロデューサー,"円香もまずは宣材写真を撮ることになるから
+ポージングのレッスンから入ってもらうことになる","We would need to get your promo photos taken
+as well, so I'll arrange for posing lessons."
+1021005040040,円香,はい,Alright.
+0000000000000,プロデューサー,"だけどその後は円香の目標に合わせて
+レッスンを組んでいこうと思うから……","But following that, I'd like to plan for lessons which
+are in line with your personal goals..."
+1021005040050,円香,お任せします,I'll leave it to you.
+0000000000000,プロデューサー,"…………その
+教えてくれるなら、でいいんだ","......Also,
+If you don't mind telling me,"
+select,,"円香がアイドルに
+なる理由が知りたい","why did you
+become an idol?"
+0000000000000,円香,……,...
+0000000000000,プロデューサー,"透と一緒にアイドルをやりたかった────
+……それだけか？","Was wanting to be an idol with Toru──
+...your only reason?"
+1021005040070,円香,……今さら理由が必要ですか？,"...At this point, do I need a reason?"
+0000000000000,プロデューサー,"これから俺と一緒に頑張ってもらうからには
+知っておきたいと思った","I just wanted to know. Since we'll be trying our best
+together from now on."
+0000000000000,プロデューサー,スカウトした時にも話したように,"Because like I said back when I scouted you,"
+0000000000000,プロデューサー,"俺は円香のことも
+円香の望む空へ羽ばたかせてあげたいと思っているから","not only would I like to assist you,
+but I want you to be able to flap your wings in a sky
+you desire."
+1021005040080,円香,………………,.........
+1021005040090,円香,"……あなたは
+勘違いをしているようですが","...It seems like you've misunderstood, but"
+1021005040100,円香,"夢とか目標とか、ありません
+そんなもの","I have nothing of that sort.
+Dreams, or goals."
+0000000000000,プロデューサー,……,...
+1021005040110,円香,"仕事であるからにはきちんとやります
+ほどほどに","Since it's a job, I'll do it properly, but I won't be 
+over doing it."
+1021005040120,円香,"ですからどうぞ
+あなたのその熱意は、他のアイドルに注いでください","Though by all means divert that zeal of yours to
+the other idols."
+1021005040130,円香,"勝手に期待するだけして
+後からがっかりされても困るので","Cos it'll just be annoying for me if you set your own
+expectations of me but it ends up in disappointments
+afterwards."
+0000000000000,プロデューサー,……円香,...Madoka...
+1021005040140,円香,"……契約を取りやめたいというなら
+それでも構いません","...If you'd like to void the contract on hearing that,
+I wouldn't mind."
+0000000000000,プロデューサー,いや、そのつもりはない,"No, I have no intentions to do so."
+0000000000000,プロデューサー,"夢や目標がなくたって
+全然構わないよ",Having no dreams or goals isn't a problem.
+0000000000000,プロデューサー,"円香がいつか、飛びたいと思った時のために
+翼をあげたいんだ","The wings I'm giving you, are for you to fly into the skies
+if you desire to one day."
+1021005040150,円香,…………,......
+0000000000000,プロデューサー,"アイドルのこともこれから知っていけばいい
+違うと思えばやめたっていい","It's fine to learn more about being an idol from now,
+but it's also fine to quit if you think you're on the
+wrong path."
+0000000000000,プロデューサー,"まずはやってみないか？
+俺と一緒に","But how about we give it a try first?
+Together."
+1021005040160,円香,……なるほど？,...I see...?
+1021005040170,円香,"あなたが浅倉をスカウトする場面が
+目に浮かぶようでした","I can now imagine what it was like when you scouted
+Asakura."
+0000000000000,プロデューサー,はは……,Haha...
+1021005040180,円香,"まあ
+今さら断るつもりもありません","Well,
+I have no intention to decline the job now."
+1021005040190,円香,"あなたの言葉が欺瞞かどうか
+やってみればわかることですから","But how much of your words are true, will only come
+to light as I actually do it."
+0000000000000,プロデューサー,"……少しずつでいい
+信頼してもらえるように、頑張るよ","...Then I'll work hard to build that trust, even if its a
+little at a time."
+0000000000000,プロデューサー,改めてだけど、これからよろしくな！,"Once again, I look forward to working together
+with you."
+1021005040200,円香,…………,......
+1021005040210,円香,"では、レッスンのカリキュラムについては
+お任せします","Well, I'll leave the lesson curriculum up to you."
+0000000000000,プロデューサー,ああ、わかった,Sure thing.
+1021005040220,円香,……それでは,...I'll take my leave
+1021005040230,円香,だから,And so
+1021005040240,円香,──────────,"──
+(You're just being tricked)"
+info,produce_events/102100504.json,
+Translator,,

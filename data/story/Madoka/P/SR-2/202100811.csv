@@ -4,7 +4,7 @@ id,name,text,trans
 2021008110030,円香,…………,......
 0000000000000,プロデューサー,"今、ちょっと大丈夫か？
 外出中……？","Hey, can I speak with you for a moment?
-Sound like you're out and about?"
+Sounds like you're out and about?"
 2021008110040,円香,『まあ』,"""Somewhat."""
 0000000000000,プロデューサー,よし、じゃあ手短に,"Okay, then I'll keep it short."
 0000000000000,プロデューサー,"ショップ販促用のサインを
@@ -26,15 +26,15 @@ Thanks, you're a life-saver."
 Also..."
 0000000000000,円香,『………………』,"""......"""
 0000000000000,プロデューサー,"昨日、取引先からケーキをいただいたんだ
-冷蔵庫にあるからよかったら食べてくれ","Yesterday, we received some cakes from a client.
+冷蔵庫にあるからよかったら食べてくれ","We received some cakes from a client yesterday.
 They're in the fridge, so please have some."
 2021008110100,円香,『わかりました』,"""Understood."""
 0000000000000,プロデューサー,"有名なスイーツ店の季節限定品らしくてさ
 俺も３つほど食べたけどすっごく美味しいんだ","It's supposedly a season limited product from a
 famous sweets store. They were so good that even
-I ate like, three of them."
+I ate like, 3 of them."
 2021008110110,円香,『…………』,"""......"""
-2021008110120,円香,『３つは食べすぎでは』,"""Isn't eating three too much?"""
+2021008110120,円香,『３つは食べすぎでは』,"""Isn't eating 3 too much?"""
 0000000000000,プロデューサー,"い、いや！　別にひとり占めしたわけじゃない
 かなりたくさんいただいて……","N-Not really! It's not like I'm having them all to
 myself. Just that we received a lot of them..."
@@ -47,20 +47,20 @@ Oh right..."
 0000000000000,プロデューサー,あっ、いや────,"Aah, no it's okay──"
 0000000000000,円香,『……………………』,"""........."""
 0000000000000,プロデューサー,"──あの後、番組プロデューサーから
-ちゃんと連絡をもらったよ","─That tv program producer from the call that day 
-contacted us, just so you know."
+ちゃんと連絡をもらったよ","─Actually, that tv program producer from the call
+that day contacted us, just so you know."
 2021008110160,円香,『そうでしたか』,"""Is that so."""
 0000000000000,プロデューサー,ひとまずこちらで話を進めておく,And we've been conducting talks ever since.
 2021008110170,円香,『はい』,"""I see."""
-0000000000000,プロデューサー,必要なところで円香に確認を入れるよ,"And I'll make sure to rope you in if there are things
+0000000000000,プロデューサー,必要なところで円香に確認を入れるよ,"Well, I'll make sure to rope you in if there are things
 we need to check with you."
 2021008110180,円香,『別にいいですよ、あなたの判断で』,"""There's no need to. You can make the decisions."""
 0000000000000,プロデューサー,"……わかった
 じゃあ何か決まった時にはちゃんと報告するから","...Alright then.
 I'll let you know once we decide on things."
-2021008110190,円香,『……何、その自己アピール』,"""...What's with these self-promotions."""
-2021008110200,円香,『そういうのはもうわかっています』,"""I know that's what you would do."""
-2021008110210,円香,『でも、まあ』,"""But, actually."""
+2021008110190,円香,『……何、その自己アピール』,"""...What's with all the self-promoting."""
+2021008110200,円香,『そういうのはもうわかっています』,"""I know all these would be going on already."""
+2021008110210,円香,『でも、まあ』,"""Hm, but actually."""
 2021008110220,円香,『プロデューサーのことは少し心配なので』,"""I am a little worried about the producer,"""
 2021008110230,円香,『今回は、何か決める前に私にも声をかけてください』,"""so it might be best to let me know before you decide
 on things."""
@@ -70,14 +70,14 @@ Okay. Got it."
 0000000000000,プロデューサー,でも、ああ──,"But, aah─"
 2021008110240,円香,『……何』,"""...What."""
 0000000000000,プロデューサー,"いや、仕方ないとはいえ、
-プロデューサーって呼び名はわかりにくいなと思って","Nah, it's not like I have a choice since I also go by the
-title of Producer, but what you said was a little hard
-to catch."
+プロデューサーって呼び名はわかりにくいなと思って","Nah, it can't be helped since I also go by the title of
+Producer, but what you said was a little hard to
+catch."
 0000000000000,プロデューサー,一瞬、俺のことかと,"Like, for a moment, I thought you were referring
 to me."
 2021008110250,円香,『……』,"""..."""
 2021008110260,円香,『そう呼ばれたいんですか』,"""You wanted to be the one being referred to?"""
-0000000000000,プロデューサー,あっ、いや……,"Ah, no that's not that..."
+0000000000000,プロデューサー,あっ、いや……,"Ah, no it's not that..."
 2021008110270,円香,『自分だけが、そう呼ばれたいと』,"""You want to be the only person to be referred to
 as Producer, then."""
 0000000000000,プロデューサー,"い、いやいやいや
@@ -88,7 +88,7 @@ as Producer, then."""
 円香に呼ばれた時はちゃんとわかるから","...No matter what you use to call me as,
 I'll know it when you call upon me."
 0000000000000,プロデューサー,大丈夫だ、本当に気にしないでくれ,"It's fine, please don't mind me, truly."
-2021008110290,円香,『そうですか。ではそうします』,"""Is that so. Then I'll follow what you say."""
+2021008110290,円香,『そうですか。ではそうします』,"""Is that so. Then I'll do just that."""
 2021008110300,円香,『残念でしたね』,"""Too bad, isn't it."""
 2021008110310,円香,本当、ダメな人,"Really, what a hopeless person."
 info,produce_events/202100811.json,

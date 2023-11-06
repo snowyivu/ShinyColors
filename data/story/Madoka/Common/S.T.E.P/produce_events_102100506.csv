@@ -1,0 +1,67 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お疲れ様
+現場はどうだった？","Good job today.
+How did things go at work?"
+1021005060010,円香,"特に問題ありません
+いつも通り","No problems in particular.
+Same as ever."
+0000000000000,プロデューサー,そうか,I see.
+0000000000000,プロデューサー,"……円香を待っている間
+出会った頃のことを思い返してたんだ","...While waiting for you to finish, I recalled the
+time we first met."
+1021005060020,円香,"暇だったんですね
+お待たせしてすみません","You sure have a lot of free time.
+Apologies for making you wait."
+0000000000000,プロデューサー,はは、ほんの少しだよ,"Haha, it wasn't that long."
+0000000000000,プロデューサー,"……あの時、声をかけてくれて
+円香を見つけることが出来て、本当によかった","...That day when you first approached me...
+I'm so glad that it led me to discovering you."
+1021005060030,円香,………………,.........
+1021005060040,円香,"……あなたは変わらないですね
+あの時からずっと","...You never change, do you.
+Ever since then."
+1021005060050,円香,私は……────,But I...──
+1021005060060,off,瀝青に溶けた、光,"The light, melted into the asphalt."
+1021005060070,off,あの日見た空は,The sky I saw that day
+1021005060080,off,私の瞳には、映っていなかった,didn't reflect into my eyes.
+1021005060090,off,あの日,That day
+1021005060100,off,声をかけるべきではなかった────────,I should have never approached you──
+0000000000000,プロデューサー,"……あ、しまった！
+ガソリンがなくなりそうだ……","...Agh, crap!
+Seems like we're almost out of gas..."
+0000000000000,プロデューサー,"（給油しておくんだった……
+円香を送るくらいだったらギリギリ足りるか？）","(I should have refueled...
+There should just be enough gas to send Madoka
+home, maybe?)"
+0000000000000,プロデューサー,"（途中でガソリンスタンドに寄るか
+……どうしようかな）","(Should I detour to a gasoline station along the way?
+...What should I do?)"
+0000000000000,プロデューサー,うーん……,Hmmm...
+1021005060110,円香,私はここでも大丈夫ですが,You can stop right here for me.
+1021005060120,円香,"……ここからなら
+電車でも帰れるので",...I can just take the train home from here.
+0000000000000,プロデューサー,"いや、でも
+傘とか持ってきてないだろう、円香","But, you don't have an umbrella on you, right?"
+1021005060130,円香,"お気遣いなく
+駅とかその辺で買えばいいだけ","Don't mind me.
+I can just buy one near the station or somewhere."
+1021005060140,円香,"……ガソリンスタンド
+うちの近くにはないですから","...Cos ,there aren't any gasoline stands near my house."
+0000000000000,プロデューサー,そうか……,I see...
+0000000000000,プロデューサー,……それなら、やっぱり少し寄り道をしてもいいか？,"...In that case, maybe it's still better for us to take a
+short detour?"
+0000000000000,プロデューサー,"円香を乗せているんだから
+ちゃんとガソリン満タンにしておかないとな","It's my bad since I should have filled the tank since I'd
+be driving you."
+1021005060150,円香,"どちらでも構いません
+お任せします","I don't mind either way.
+I'll leave it to you."
+1021005060160,円香,…………,.........
+1021005060170,off,色は、混ざり合って、黒になる,"Colors when mixed, turn black."
+1021005060180,off,そこからはもう,"And from then on,"
+1021005060190,off,透明には、なれない,it can never turn transparent.
+1021005060200,off,この車に乗り続けていたら,"If I continue to stay in this car,"
+1021005060210,off,窒息して,I feel like I'll suffocate
+1021005060220,off,溺れて、しまいそう,and drown.
+info,produce_events/102100506.json,
+Translator,,

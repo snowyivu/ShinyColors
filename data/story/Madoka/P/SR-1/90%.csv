@@ -4,7 +4,7 @@ id,name,text,trans
 0,プロデューサー,"──あ、円香
 お疲れ様","──Ah, Madoka.
 Thanks for the hard work."
-2021006010010,円香,……お疲れ様です,...Thank you as well.
+2021006010010,円香,……お疲れ様です,...You too.
 0,プロデューサー,どうだった、新しいレッスンは,How did the new lesson go?
 2021006010020,円香,"歌のコントロールについてご指導いただきました
 初めての気付きが多かったです","I was taught how to control my singing, and
@@ -45,18 +45,18 @@ No, maybe I'll just accompany you to the door..."
 待っていたりはしませんよね","Don't tell me you're planning to wait until I finish
 shopping."
 2021006010100,円香,"日が高くなったとはいえ、
-到着する頃には暗くなると思いますが","The sun's still up, but I think it'll get dark when
-we reach, remember?"
-0,プロデューサー,ああ、いや……,"Ahh, no..."
+到着する頃には暗くなると思いますが","The sun's still up, but it'll probably get dark when
+we reach the supermarket, remember?"
+0,プロデューサー,ああ、いや……,"Ahh, well..."
 0,プロデューサー,"もちろん
 嫌なら待たないよ",Of course I won't wait if you don't want me to.
 2021006010110,円香,そうですか,Is that so.
 0,プロデューサー,おう,Yeah.
 0,プロデューサー,……店はこの近くか？,...Is the store nearby?
-2021006010120,円香,寄りません,I'm not going.
+2021006010120,円香,寄りません,Never planned on going.
 0,プロデューサー,"……今日みたいに、
-また新しいレッスンを入れてみようと思うんだ","...You know,
-I'm thinking of adding new lessons like today."
+また新しいレッスンを入れてみようと思うんだ","...You know, I'm thinking of adding new lessons
+like the one today."
 0,プロデューサー,"ポージングとかどうだろう
 ……モデルの仕事は避けたいとかあるか？","How about some for posing and the like.
 ...Unless you're not planning to take modelling jobs?"
@@ -98,7 +98,8 @@ Sorry, I zoned out..."
 0,プロデューサー,………………,......
 0,プロデューサー,……あのさ、円香,...Hey Madoka.
 0,プロデューサー,"今日みたいに、
-また新しいレッスンを入れてみようと思うんだ",I'm thinking of adding new lessons like today.
+また新しいレッスンを入れてみようと思うんだ","I'm thinking of adding new lessons like the one
+today."
 0,プロデューサー,"ポージングとかどうだろう
 ……モデルの仕事は避けたいとかあるか？","How about some for posing and the like.
 ...Unless you're not planning to take modelling jobs?"
@@ -118,7 +119,7 @@ select,,…………,......
 specified to be one in a swimsuit."
 0,プロデューサー,"どうだろう
 迷うところがあるなら断ろうと思っている","What do you think.
-I'll decline if you'll be troubled by it."
+I'll decline it if you'll be troubled by it."
 2021006010270,円香,問題ありません,It's fine.
 0,プロデューサー,え……,Eh...
 0,プロデューサー,"いいのか？
@@ -148,6 +149,7 @@ If you feel troubled, I'll..."
 It's fine."
 0,プロデューサー,……了解,...Roger.
 2021006010320,円香,まあ、あえて言うなら,"If anything,"
-2021006010330,円香,私の意思を問われる方が困りますね,I'm more troubled that you care for my intentions.
+2021006010330,円香,私の意思を問われる方が困りますね,"I'm more troubled that you care about my
+intentions."
 info,produce_events/202100601.json,
 Translator,Mycstea,

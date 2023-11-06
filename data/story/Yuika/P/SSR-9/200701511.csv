@@ -1,0 +1,71 @@
+id,name,text,trans
+2007015110010,結華,"（──……よし、だいぶあったまってきた
+もっかい通しで歌って……）","(Okay, all warmed up.
+Sing it once more from the top.)"
+2007015110020,結華,……？,...?
+2007015110030,結華,（誰か調整室に──）,(There's someone in the control room...)
+2007015110040,結華,──プロデューサー！？,Producer?!
+0000000000000,プロデューサー,ああドアごめんな、おはよう結華,"Good morning, Yuika.
+Sorry about the door."
+2007015110050,結華,"お、おはよう……
+どしたの、急ぎの用事？","G-Good morning... What's up?
+Got something urgent?"
+0000000000000,プロデューサー,いや、そういうわけじゃなくて──,"Mmm, I wouldn't say that, but..."
+2007015110060,結華,？,?
+0000000000000,プロデューサー,……出る時間までさ、俺もここにいていいかな,...can I just stay here until it's time to leave?
+0000000000000,プロデューサー,"あっ、パソコン持ってきたし、
+大人しく仕事してるから！","Oh, but don't worry, I brought my laptop!
+So I'll be working on things!"
+0000000000000,プロデューサー,"もちろん話が終わったらブースからも出るし、
+向こうで待たせてもらうだけでよくて──！","I'll head over to the other side in a bit,
+of course. I'll wait for you until you're done."
+2007015110070,結華,"……それは別にいいんだけど……
+ほんとにどしたの？","Sure, but… what are you really here for?"
+0000000000000,プロデューサー,…………,.......
+0000000000000,プロデューサー,……多分、緊張してるんだ。はは……,I'm just... probably feeling the pressure. Haha...
+2007015110080,結華,……！,...!
+0000000000000,プロデューサー,おかしいよな、緊張するべきは結華なのに,"It's funny... It makes more sense if it's you who's
+feeling it, not me."
+0000000000000,プロデューサー,"って、うん……？
+するべきはって言うとなんか変だな……！？","Wait... Uh...
+I don't mean it like that, okay?!"
+0000000000000,プロデューサー,"緊張してほしいって思ってるわけじゃなくて、当事者は
+結華なのにっていう──ってちょっと待ってくれこれも違う","I'm not saying that you should feel stressed, but
+I wouldn't be surprised if you are... You're the
+one recording── Wait, that came out wrong...!"
+0000000000000,プロデューサー,"俺に関係ないこととは思ってないし、
+だけど本人以上に焦るのもアレだなって──！","I mean...! I just don't know why I'm more nervous
+than you are when I'm not the one recording...!"
+0000000000000,プロデューサー,……あれ……？,Wait...
+2007015110090,結華,っふ、ふふふ……！,Pff... Hahaha!
+2007015110100,結華,"プロデューサーがめちゃめちゃそわそわしてるってことは
+よーく伝わってきました","Producer, it's obvious you're on edge.
+Anyone can see it from a mile away."
+0000000000000,プロデューサー,す、すまん……,S-Sorry...
+2007015110110,結華,ふふっ、ううん,"Hehe. It's okay, though."
+2007015110120,結華,……同じだから,...I feel the same way you do.
+0000000000000,プロデューサー,……！,...!
+2007015110130,結華,"三峰も半分くらいじっとしてられなくて
+ここ借りた感じだし──","Mitsumine couldn't sit still half the time.
+So I booked for the space early."
+2007015110140,結華,"──ああでも、Ｐたんにつられて
+余計そわそわになっちゃったら責任取ってほしいかも？","Ah, but if you make me even more antsy, then
+you'll take responsibility for that, won't you~?"
+0000000000000,プロデューサー,おっ、おう！　任せろ……！？,"Y-Yeah, I will! Don't worry...!"
+2007015110150,結華,あははっ、頼りない『任せろ』だなぁ,"Hahaha, you don't sound convincing at all."
+2007015110160,結華,"──……いいよ、一緒にいて？
+緊張しい同士、本番まで励まし合おう","Fine, then. Want to come over here?
+We're in the same boat, so why don't we help
+each other wind down before recording starts?"
+0000000000000,スタッフ,"お待たせしました、こちら整いました！
+いつでも始められます！","Thank you for your patience, Mitsumine-san.
+We're ready when you are!"
+2007015110170,結華,はーい！,Kaaay!
+0000000000000,プロデューサー,──頑張ってな、結華！,"Break a leg out there, Yuika!"
+2007015110180,結華,うん！,Thanks!
+2007015110190,結華,……ねぇ、プロデューサー,"Hey, Producer?"
+0000000000000,プロデューサー,……？,......?
+2007015110200,結華,──期待してて,──You're gonna love it.
+0000000000000,プロデューサー,！,!
+info,produce_events/200701511.json,
+Translator,Lewdacriz,

@@ -6,8 +6,8 @@ id,name,text,trans
 大丈夫です","Yes.
 It's fine."
 2021008010050,円香,"あ……ただすみません、出先なので……
-まわりが騒がしく────","Ah...sorry, but I'm on the move... and my surroundings
-are rather noisy──"
+まわりが騒がしく────","Ah...sorry, but I'm on the move... and my
+surroundings are rather noisy──"
 2021008010060,円香,…………,......
 2021008010070,円香,"……ちょっと静かな道に行きます
 お待ちください","...I'll head to a quieter alley, please hold the line."
@@ -15,12 +15,12 @@ are rather noisy──"
 2021008010090,円香,……すみません、大丈夫です,"...Sorry about that, please go ahead."
 2021008010100,円香,"いえ、お気になさらず
 どうされました？","No, it's fine.
-What is the matter?"
-2021008010110,円香,明日の集合場所を変更、はい,"A change in tomorrow's gathering spot, alright."
+What's the matter?"
+2021008010110,円香,明日の集合場所を変更、はい,A change in tomorrow's gathering spot? Alright.
 2021008010120,円香,"……確かに言っていましたよね
-駅から離れると方向音痴には辛いって","...I did say that the place was difficult to navigate
-from the station for those who have no sense of
-direction."
+駅から離れると方向音痴には辛いって","...I did say that the place would be  difficult to
+navigate from the station for those who have
+no sense of direction."
 2021008010130,円香,"はい
 覚えています","Yes,
 I can remember."
@@ -36,13 +36,13 @@ or not."
 そんな","Fine.
 If that's how it is."
 2021008010210,円香,……もともとは集合場所の話だったって覚えています？,"...We were talking about changing the gathering
-spot originally, weren't we?"
+spot, weren't we?"
 2021008010220,円香,……,...
 2021008010230,円香,"……わかりました
 ありがとうございます","...Understood.
 Thank you."
-2021008010240,円香,あまり褒められると気恥ずかしいですが,"Though it gets embarrassing when you compliment me
-that much."
+2021008010240,円香,あまり褒められると気恥ずかしいですが,"Though it gets embarrassing when you compliment
+me that much."
 select,,（腕時計を見る）,(Look at the wrist watch)
 select,,（空を見上げる）,(Look up into the sky)
 select,,（缶コーヒーを一口）,"(Drink a sip of
@@ -80,20 +80,20 @@ memory... Just ask the station staff──"
 Could it be Producer's?"
 2021008010440,円香,……やっぱり,...I knew it.
 2021008010450,円香,"持ち主がわからなかったので、
-スタッフさんに預けてしまいました","I didn't know who's the owner, so I left it with the
+スタッフさんに預けてしまいました","I didn't know who's it is, so I left it with the
 staff."
 2021008010460,円香,今度、聞いてみてください,Please ask them the next time you drop by.
 2021008010470,円香,いえ、よかったです,"No, that's good."
 2021008010480,円香,はい,Yes.
 2021008010490,円香,"あ……すみません
-それで集合場所は…………","Ah...sorry,
-about the gathering spot......"
+それで集合場所は…………","Ah...sorry.
+And the gathering spot......"
 2021008010500,円香,"駅の北口ですね
 わかりました……ありがとうございます","North exit of the train station?
 Understood... thank you."
 2021008010510,円香,はい。それでは,Alright. I'll be hanging up.
 2021008010520,円香,……,...
-2021008010530,円香,…………今日も忙しそう,......Seems like a busy day today as well.
+2021008010530,円香,…………今日も忙しそう,......Seems like today's a busy day as well.
 2021008010540,円香,……,...
 2021008010550,円香,あ……誰ですか？,Ah...Who?
 2021008010560,円香,"ああ……どうでしょうか
@@ -115,7 +115,7 @@ Then, he's that sort of person for sure."
 ...Heheh..."
 2021008010640,円香,ああ、いえ,"Aah, no."
 2021008010650,円香,"私からのコメントは差し控えておきます
-また機会もあると思いますので","I'll refrain from commenting about that.
+また機会もあると思いますので","I'd rather refrain from commenting about that.
 We might meet at work again, afterall."
 2021008010660,円香,"それですみません
 明日の集合場所は……","Speaking of which, sorry to ask but about
