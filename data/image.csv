@@ -1,6 +1,6 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,74
-images/ui/common/parts.json_image,common_parts.png,41
+images/ui/common/parts.json_image,common_parts.png,42
 images/ui/my_page/parts.json_image,my_page.parts.png,46
 images/ui/fes/parts.json_image,fes_parts.png,38
 images/ui/common/parts_icons.json_image,common_parts_icons.png,33
@@ -106,6 +106,8 @@ images/ui/gasha_result/parts.json_image,gasha_result.png,13
 images/ui/common/parts_shop_merchandise.json_image,parts_shop_merchandise.png,9
 images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,9
 images/ui/produce_ending/parts_fes_idol_birth_effect.json_image,fes_idol_birth_effect.png,9
+images/ui/joint_fes_deck/parts.json_image,joint_fes_deck_parts.png,1
+images/ui/joint_fes_top/parts.json_image,joint_fes_top_parts.png,3
 images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,13
 game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
 images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,2
