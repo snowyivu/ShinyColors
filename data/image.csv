@@ -4,11 +4,11 @@ images/ui/common/parts.json_image,common_parts.png,42
 images/ui/my_page/parts.json_image,my_page.parts.png,46
 images/ui/fes/parts.json_image,fes_parts.png,38
 images/ui/common/parts_icons.json_image,common_parts_icons.png,33
-images/ui/option/parts.json_image,ui_option_parts.png,26
+images/ui/option/parts.json_image,ui_option_parts.png,27
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
 images/ui/concert/parts.json_image,concert_parts.png,24
-images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,32
+images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,33
 images/ui/gasha/parts.json_image,gasha_parts.png,29
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
@@ -301,7 +301,7 @@ images/ui/produce_action/parts_support_skill.json_image,produce_action_parts_sup
 images/ui/concert_result/parts_status.json_image,concert_result_status.png,9
 images/ui/produce_staff_assist_event/parts.json_image,staff_assist_event_parts.png,3
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_produce.png,3
-images/ui/init/parts.json_image,init_parts.png,11
+images/ui/init/parts.json_image,init_parts.png,12
 images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,4
 images/ui/init/parts_pop.json_image,init_parts_pop.png,13
 images/content/limit_break_skills/icon.json_image,limit_break.png,11
