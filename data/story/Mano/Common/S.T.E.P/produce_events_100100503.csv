@@ -1,0 +1,92 @@
+id,name,text,trans
+1001005030010,真乃,……,......
+1001005030020,真乃,"……あ、あの、ごめんね……っ
+私──","......U-Um... I'm sorry but...
+I'd like to──"
+0000000000000,人気者のクラスメイト,"ううん、全然！　こっちこそ急に誘っちゃってごめんね
+また誘うから、タイミング合った時はぜひ！","No no, don't worry about it! Sorry for inviting you so
+suddenly! We'll make sure to invite you again when
+the time comes!"
+1001005030030,真乃,あ──,Oh──
+0000000000000,人気者のクラスメイト,気をつけて帰ってねー！,"Get home safely, okay!"
+1001005030040,真乃,……っ、その……違──っ,...... Um... That's not──
+1001005030050,真乃,……っ,......
+0000000000000,近所の主婦,"あはは
+チビ、ご機嫌ナナメだね","Ahaha,
+You don't seem to be in the best mood, little one."
+1001005030060,真乃,す、すみませんママさん……っ,"I-I'm sorry, Mama-san."
+1001005030070,真乃,せっかく文鳥さんに会わせていただいているのに……っ,"After you went through the trouble of letting me
+come and meet your Java Sparrow."
+1001005030080,真乃,"文鳥さんもごめんね……ぼーっとしちゃってた……
+どうしたのかな……？","Sorry to you too, Sparrow-san... for staring off into
+space... How could that have happened...?"
+1001005030090,真乃,ふふ……,Fufu...
+0000000000000,近所の主婦,……,...
+0000000000000,近所の主婦,……真乃ちゃん、ピーちゃんは元気？,"...Mano-chan, how is Pii-chan doing?"
+1001005030100,真乃,"は、はいっ
+昨日もたくさんおしゃべりをして……","H-He's doing well.
+He was talking quite a bit yesterday too..."
+0000000000000,近所の主婦,"ふふ、そっかぁ
+どんなこと話すの？","Hehe, I see...
+What sort of stuff did you two talk about?"
+1001005030110,真乃,……学校のこと──とか……,...About school── and stuff...
+1001005030120,真乃,……,......
+0000000000000,近所の主婦,……──何かあった？,...──Did something happen?
+1001005030130,真乃,"……い、いえっ
+その──……","...Oh, n-no...
+Um──..."
+1001005030140,真乃,……,......
+1001005030150,真乃,"……──なんでもないんです
+すみません……","......──It's nothing important...
+Sorry..."
+0000000000000,近所の主婦,"……ううん
+真乃ちゃんが謝ることなんてないのよ","...Not at all.
+There's nothing for you to apologize for."
+1001005030160,真乃,……,......
+0000000000000,近所の主婦,"──変なこと聞いてごめんね！
+またチビに催促させちゃった！","ーSorry for asking something like that!
+There I go, pressuring you again!"
+0000000000000,近所の主婦,"よかったらたくさんかまってあげてほしいんだ
+その子──まだ飛べないから","If you'd like, there's a bird I'd like you to see.
+That sparrowー it can't fly quite yet."
+1001005030170,真乃,……！,......!
+1001005030180,真乃,"……
+そう、なんですね……","......
+Is that... so......"
+0000000000000,近所の主婦,"うん
+他の兄弟たちは飛べるようになってるんだけど",That one seems to be taking its time.
+0000000000000,近所の主婦,その子はちょっと、ゆっくりみたい,That one seems to be taking it's time.
+1001005030190,真乃,……,......
+0000000000000,近所の主婦,……いろんな子がいるからね,"......There's all kinds of birds, you know."
+0000000000000,近所の主婦,"ピーちゃんは元気だったから
+すぐ飛んでたなぁ","Pii-chan was super lively, so it could fly really quickly."
+1001005030200,真乃,"……ほわ
+ふふ……","......Howa...
+Fufu..."
+1001005030210,真乃,……──,......──
+1001005030220,真乃,"……文鳥さんも……
+早く飛びたいって……思ってる……？","...Do you think that...
+...Maybe the sparrow... wants to fly soon......?"
+1001005030230,真乃,（心配や迷惑をかけちゃうなら、そんなことがないように）,"(Maybe... it's causing others to worry, or causing
+them trouble... and so to avoid that...)"
+1001005030240,真乃,（みんなにできることが、できるようになりたいって──）,"(It might want to be able to do...
+what the others can doー)"
+0000000000000,近所の主婦,────きっと、きっかけがあればすぐだよ,"────I'm sure that... when it has the chance, the
+flying will come soon after"
+1001005030250,真乃,……！,......!
+0000000000000,近所の主婦,"何かきっかけがあれば飛べるようになる
+今はゆっくりでも、必ずね","When it has the chance, it'll find its ability to fly.
+It's going slow right now, but for that I am certain."
+1001005030260,真乃,……──,......──
+1001005030270,真乃,きっかけがあれば──……,When it has the chance──......
+0000000000000,近所の主婦,"そう！　だから、真乃ちゃんにかまってもらえたら
+何か刺激になるかなーって","Yeah! So if you'd spend some time with it for me,
+I thought it might help in some way."
+1001005030280,真乃,"……！
+はい……っ","......!
+Okay......!"
+1001005030290,真乃,……なれるかな、あなたのきっかけに,......I wonder if... I can create that chance for you.
+1001005030300,真乃,──なれると、いいな,──I hope that I can.
+1001005030310,真乃,（そうしたら、私も──）,"(And then, maybe I will too──)"
+info,produce_events/100100503.json,
+Translator,,,kotonekoto

@@ -1,0 +1,68 @@
+id,name,text,trans
+1001005060010,真乃,"ほわ……っ
+ふふ……","Howa......
+Fufu......"
+1001005060020,真乃,…………,............
+0000000000000,プロデューサー,──……,──......
+0000000000000,プロデューサー,……楽しそうだな？,...You having fun there?
+1001005060030,真乃,"は、はい……っ
+動画を見ていました……","Y-Yes...
+I was watching a video..."
+0000000000000,プロデューサー,"へぇ……！
+なんの動画かって聞いても大丈夫か？","Huh...
+Do you mind if I ask what kind of video?"
+1001005060040,真乃,はい,"Oh, sure."
+1001005060050,真乃,"文鳥さんが飛んでいる動画です
+お世話になっている方が卵から育てた子で──","A video of a Java Sparrow flying. I've been watching
+over it ever since it was still an egg──"
+0000000000000,プロデューサー,卵から！,Ever since it was an egg!
+1001005060060,真乃,"はいっ
+たくさんの鳥さんを飼っていらっしゃるママさんなんです","Yes.
+I was allowed to keep him by a birdkeeper I know."
+1001005060070,真乃,"……
+ピーちゃんも、ママさんから譲っていただきました","......
+The same lady that... let me keep Pii-chan..."
+0000000000000,プロデューサー,"え、ピーちゃんも……！
+それはすごいな……！","Wha, Pii-chan too...!
+That's pretty amazing...!"
+1001005060080,真乃,"よく、一緒に鳥さんのお話をしています
+おうちにお邪魔させていただいて──","I would go and see her quite often. She would let me
+into her home just to talk to the birds──"
+0000000000000,プロデューサー,"なるほどなぁ
+じゃあ、真乃にはお馴染みの鳥さんの動画だったわけだ","I see now... So then that video was of a bird you
+were well acquainted with."
+1001005060090,真乃,はいっ,Yes
+1001005060100,真乃,"……──他の子よりも、
+少し、飛べるようになるのが遅かった子なんです","......──Moreso than the others...
+This one... was a little slow to start flying."
+1001005060110,真乃,"ママさんも心配していたんですけれど、
+ちゃんと飛べるようになって","Mama-san was worried about it, about how she
+wanted it to be able to fly."
+1001005060120,真乃,今では一番元気に遊んでる、って……っ,"But now, she said that he's the liveliest one when
+they play..."
+0000000000000,プロデューサー,"そうかぁ
+よかったなぁ……！","I see...
+Well that's good then...!"
+1001005060130,真乃,"……！
+プロデューサーさんも、見ますか……？","......!
+Would you like to see too, Producer-san...?"
+0000000000000,プロデューサー,おっ、見てもいいならぜひ,"Oh, yes by all means if you'd let me."
+1001005060140,真乃,"は、はいっ
+こちらこそ、ぜひ──","O-Okay, then please watch──"
+1001005060141,真乃＆プロデューサー,！,!
+0000000000000,プロデューサー,はい──,Come in!
+0000000000000,スタッフ,失礼します──,Excuse me──
+0000000000000,スタッフ,櫻木さん、そろそろスタンバイをお願いしまーす！,"Sakuragi-san, you're next up on standby!"
+1001005060150,真乃,"は、はいっ
+わかりました……っ","O-Okay, I'll be right there..."
+0000000000000,スタッフ,ありがとうございます、失礼しまーす！,Thank you. Now if you'll excuse me.
+0000000000000,プロデューサー,"──ははっ
+じゃあ動画は戻ってきてから見せてもらってもいいか？","──Haha.
+Alright, will you let me watch it when you come back?"
+1001005060160,真乃,もちろんです……っ,Of course......!
+0000000000000,プロデューサー,"準備できたら行こう
+──今日も頑張ろうな、真乃","Now then if you're ready then you should head out.
+──Give it your best today, Mano."
+1001005060170,真乃,はいっ、プロデューサーさん……っ,"Yes, Producer-san...!"
+info,produce_events/100100506.json,
+Translator,,,kotonekoto

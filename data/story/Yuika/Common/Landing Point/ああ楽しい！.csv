@@ -1,0 +1,74 @@
+id,name,text,trans
+1007004060010,結華,……──,......──
+1007004060020,結華,（……プロデューサーも今日休みだって言ってたよね……）,(The producer said that he has the day off today...)
+1007004060030,結華,"（だったらいいかな……
+いやむしろ業務連絡だから仕事してる時の方が……？）","(I wonder if it's okay... Wait, but should I bring it up
+when he isn't off, then...?)"
+1007004060040,結華,"（……ん～～～～…………
+……まぁいいや！　見るかどうかは向こうの判断だし！）","(...Mmmmm...
+...Whatever! It's not like I care if he reads it!)"
+1007004060050,結華,（えいっ）,(Send...)
+0000000000000,プロデューサー,──あれ、結華……？,"──Oh, it's from Yuika...?"
+0000000000000,プロデューサー,ははっ,Haha!
+1007004060060,結華,"『Ｐたんお疲れ様です！
+今日は美術館に行ってこようと思います！』","""Hey, P-tan! I'm heading over to an art gallery
+for today!"""
+0000000000000,プロデューサー,"『結華お疲れ
+へぇ、いいな！　興味ある展示とかなのか？』","""Huh, sounds nice!
+Were you into that stuff before?"""
+1007004060070,結華,"『ううん、全然知らない
+もともとあんまり絵とか興味なくって』","""Nah, I was never into it.
+So I don't know anything."""
+1007004060080,結華,"『でも、知らないから
+まずは一回知っておこうかなと思って』","""But that's why I might as well look into it and
+learn more."""
+0000000000000,プロデューサー,（……これも『頑張り』の一環、ってことだよな）,(...going above and beyond like always...)
+0000000000000,プロデューサー,結華は偉いよ……──,"You really are incredible, Yuika..."
+0000000000000,プロデューサー,『さすが、自分磨きか！』,"""Adding more to your repertoire, huh?"""
+1007004060090,結華,『そんな意識高い感じに言わないで～』,"""Hey don't get all pretentious on me~!"""
+0000000000000,プロデューサー,『ああ違う、変な意味じゃなくて！』,"""Ah I didn't mean it like that!"""
+0000000000000,プロデューサー,"『仕事のために、
+ちゃんと頑張ろうとしててすごいなって』","""I just find it inspiring that you're putting out
+all the stops when it comes to work."""
+1007004060100,結華,……,......
+1007004060110,結華,（またそうやって、甘やかす）,(There he goes again with the smooth talk...)
+1007004060120,結華,"『だってそれは普通のことでしょ～
+もっとよくなりたいって思うのは当たり前じゃん？』","""That's just how it is~
+Isn't it normal to learn whatever it is you can?"""
+0000000000000,プロデューサー,"『そのための努力を普通って言える人は
+世の中にはあんまりいないんだぞ結華……！』","""There aren't many people in the world who
+can call that level of effort normal, Yuika"""
+1007004060130,結華,"『うっそだぁ
+三峰のまわり、そんな人だらけだけど！』","""No waaay! There's a bunch of people around
+Mitsumine who are like that!"""
+0000000000000,プロデューサー,『っていうか』,"""by the way"""
+1007004060140,結華,？,?
+1007004060150,結華,！！,! !
+0000000000000,プロデューサー,"『頑張ったら自分で褒めるっていうの、忘れてないか？
+こっちからやるか？』","""Aren't you forgetting to praise yourself more
+for working this hard? Or were you expecting me
+to do it for you?"""
+1007004060160,結華,～～～～！！,~ ~ ~ ~ ! !
+1007004060170,結華,（──バカ！　ほんとずるい！！）,(──You idiot! Totally uncalled for!!!)
+1007004060180,結華,"『Ｐたんの意地悪にも負けず健気に頑張る三峰、
+ほんと偉い！』","""Mitsumine's amazing for being able to put up
+with P-tan's bullying!"""
+0000000000000,プロデューサー,っはは……！,"Pff, haha!"
+0000000000000,プロデューサー,（意地悪じゃないんだけどなぁ……！）,"(I wouldn't call this bullying, though...!)"
+0000000000000,プロデューサー,"『忘れてないようで何よりだよ
+ちょっと納得いかないとこはあったけどな』","""So you didn't forget after all huh?
+I'm not too sold on that statement though."""
+1007004060190,結華,『……』,""">:P"""
+0000000000000,プロデューサー,"『それじゃあ
+感想とか、また聞かせてくれ』","""Anyways, you let me know what's on your
+mind. Keep me posted."""
+1007004060200,結華,あーあ,Oh boy.
+1007004060210,結華,（これは、気合い入れて鑑賞しなきゃ～）,(I guess I have this to look forward to now.)
+1007004060220,結華,…………,......
+1007004060230,結華,"『了解！
+また連絡するね』","""Roger that!
+I'll talk to you later."""
+1007004060240,結華,『付き合ってくれてありがとう！』,"""Thanks for the chat!"""
+1007004060250,結華,──……！,──...!
+info,produce_events/100700406.json,
+Translator,Lewdacriz,

@@ -1,0 +1,59 @@
+id,name,text,trans
+1001005010010,真乃,……おはよう、ピーちゃん,"...Good morning, Pii-chan."
+1001005010020,真乃,──……っ,──Ngh...
+1001005010030,真乃,いいお天気……,Such nice weather...
+1001005010040,真乃,"ふふ
+ご飯、ちょっと待っててね","Fufu,
+Just wait a sec, I'll get your breakfast ready."
+1001005010050,真乃,ピーちゃんのお部屋も掃除するからね,I'm gonna clean up your cage too.
+1001005010060,真乃,いってきます……っ,I'm headed out...
+0000000000000,近所の老人,"おはよう真乃ちゃん
+いってらっしゃい","Good morning Mano-chan.
+Have a nice day."
+1001005010070,真乃,"……おはようございます
+いってきます……っ","...Good morning.
+Thank you, you have a nice day as well..."
+0000000000000,近所の老人,今日も学校頑張ってねぇ,Make sure you work hard at school.
+1001005010080,真乃,はい……っ,I will~
+0000000000000,明るいクラスメイト,"あ、櫻木さん
+おはよー","Oh, good morning Sakuragi-san."
+1001005010090,真乃,お、おはよう……,G-Good morning...
+0000000000000,ドライなクラスメイト,まだー？,How long are you gonna take?
+0000000000000,明るいクラスメイト,待って待って今ー！,"Wait up, I'm coming!"
+0000000000000,明るいクラスメイト,"今日絶対英語当たるんだけどさー
+宿題真っ白！","I'm definitely getting called on in English class today,
+my homework's completely blank!"
+0000000000000,ドライなクラスメイト,"やば
+詰んでるじゃん","Welp, you're done for."
+0000000000000,明るいクラスメイト,"ねーーーーなんでそんな他人事なの！？
+助けてよ～～～～","Come oooooon, why won't you help me out!?
+Please～～～～？"
+1001005010100,真乃,……,......
+0000000000000,騒がしいクラスメイト,メシだ～～～～,It's lunchtime～～～～
+0000000000000,穏やかなクラスメイト,"ねぇ今日学食行っていいー？
+お弁当ないんだ","Hey, can we go to the cafeteria today～?
+I didn't bring a lunch with me."
+1001005010110,真乃,…………,............
+0000000000000,控えめなクラスメイト,……櫻木さん、お昼は……,"...Sakuragi-san, it's lunchtime..."
+1001005010120,真乃,"……あっ、ごめんね……
+待たせちゃって……っ","...Oh, I'm so sorry to make you wait..."
+0000000000000,控えめなクラスメイト,"ううんっ、全然……！
+……食べよっか","Oh, no don't worry about it...!
+...Let's eat."
+1001005010130,真乃,……うん……っ,...yeah...
+0000000000000,下校する生徒,ねぇ帰りどうするーっ？,"Hey, what should we do on the way home～?"
+0000000000000,下校する生徒,カラオケじゃない？　カラオケ！,How about karaoke? Let's do that!
+0000000000000,下校する生徒,ファミレス行く？,Maybe we could go to a family restaurant?
+0000000000000,下校する生徒,いや勉強する気なら図書室だろ,"Nah, I'm kinda in the mood to study so I wanna go to
+the library."
+0000000000000,下校する生徒,図書室しゃべりづらいじゃーん,It's hard to talk in the library though～...
+1001005010140,真乃,…………,............
+0000000000000,控えめなクラスメイト,……あ,...Oh
+1001005010150,真乃,あ……,Oh...
+0000000000000,控えめなクラスメイト,また明日ね、櫻木さん……！,"See you tomorrow, Sakuragi-san...!"
+1001005010160,真乃,……うん、また明日……っ,"...Yeah, see you tomorrow..."
+1001005010170,真乃,…………,............
+1001005010180,真乃,……,......
+1001005010190,真乃,ただいま……っ,I'm home......
+info,produce_events/100100501.json,
+Translator,,,kotonekoto
