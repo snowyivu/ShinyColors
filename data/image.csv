@@ -156,7 +156,7 @@ images/content/produce_auditions/banner/002.jpg,produce_auditions_banner_002.jpg
 images/content/produce_auditions/banner/001.jpg,produce_auditions_banner_001.jpg,7
 images/content/produce_auditions/banner/006.jpg,produce_auditions_banner_006.jpg,7
 images/content/produce_auditions/banner/007.jpg,produce_auditions_banner_007.jpg,7
-images/ui/produce_item/parts.json_image,produce_item_parts.png,19
+images/ui/produce_item/parts.json_image,produce_item_parts.png,20
 images/content/produce_auditions/banner/015.jpg,produce_auditions_banner_015.jpg,7
 images/content/produce_auditions/banner/013.jpg,produce_auditions_banner_013.jpg,7
 images/content/produce_auditions/banner/017.jpg,produce_auditions_banner_017.jpg,7
@@ -178,7 +178,7 @@ images/tips/produce_skill_board/001.jpg,tutorial/produce_skill_board_001.jpg,9
 images/ui/work_activity_top/parts.json_image,work_activity_top.png,11
 images/ui/work_activity_result/parts.json_image,work_activity_result.png,7
 images/content/my_page/banner_border/event_notice.png,event_notice.png,3
-images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,6
+images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,7
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,6
 ae/work_activity_start/images/text_final.png,text_final.png,4
 images/ui/produce_deck/parts_deck_move_copy.json_image,parts_deck_move_copy.png,2
@@ -253,7 +253,7 @@ images/tips/game_event/collabo_fes/009.jpg,tutorial/collabo_fes_009.png,3
 images/tips/game_event/collabo_fes/010.jpg,tutorial/collabo_fes_010.png,4
 images/tips/game_event/collabo_fes/011.jpg,tutorial/collabo_fes_011.png,3
 images/tips/game_event/80011/001.jpg,tutorial/event/collabo_fes_80011_001.jpg,1
-images/ui/idol_choice/parts.json_image,idol_choice_parts.png,5
+images/ui/idol_choice/parts.json_image,idol_choice_parts.png,6
 images/ui/beginner_mission/parts.json_image,beginner_mission_parts.png,10
 images/content/unit/name/001.png,unit_name_001.png,3
 images/content/unit/catch_copy/001.png,unit_catch_001.png,3
@@ -302,7 +302,7 @@ images/ui/concert_result/parts_status.json_image,concert_result_status.png,9
 images/ui/produce_staff_assist_event/parts.json_image,staff_assist_event_parts.png,3
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_produce.png,3
 images/ui/init/parts.json_image,init_parts.png,12
-images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,4
+images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,5
 images/ui/init/parts_pop.json_image,init_parts_pop.png,13
 images/content/limit_break_skills/icon.json_image,limit_break.png,11
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,13
@@ -325,7 +325,7 @@ images/ui/character_album/parts.json_image,character_album_parts.png,9
 images/ui/raid_result/parts.json_image,raid_result_parts.png,3
 images/content/ex_skills/icon.json_image,ex_skills.png,5
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,5
-images/ui/shop/parts_shop_content.json_image,shop_parts_content.png,15
+images/ui/shop/parts_shop_content.json_image,shop_parts_content.png,16
 images/ui/gasha/parts_scout_ticket.json_image,gasha_parts_scout_ticket.png,7
 images/ui/mission/parts_common.json_image,mission_parts_common.png,1
 images/ui/joint_fes_stage_select/parts.json_image,joint_fes_stage_select_parts.png,1
@@ -973,3 +973,5 @@ images/content/idols/name/e48cec9eab0aa7faba6de2f6bc7dd515_1030110050.png,cards/
 images/content/idols/name/5b2dd6d488a1a2e5fc303ac196383b46_1040070050.png,cards/yuika_p_ssr_5.png,2
 images/content/idols/name/49b9a5bdc5e786829908416ffea6c60e_1040070090.png,cards/yuika_p_ssr_9.png,1
 images/content/support_idols/name/31aac42e011aa4a987fb4465408a523e_2030210040.png,cards/madoka_s_sr_4.png,1
+images/content/idols/name/3d5208993418b7441178e17691ccb092_1030100010.png,cards/chiyoko_p_sr_1.png,9
+images/content/idols/name/3805a0ec5fc37a697bd5bf656e432a32_1030110010.png,cards/juri_p_sr_1.png,1

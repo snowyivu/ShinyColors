@@ -1,0 +1,79 @@
+id,name,text,trans
+0000000000000,スタッフ,"はい、オッケーでーす！
+浅倉さん、10分休憩でお願いしまーす！","Alright, that's an OK!
+Asakura-san, please take a 10-minute break!"
+1020005060010,透,ねー、なんか乗ろうよ,"Heey, let's get on something."
+1020005060020,透,"いいでしょ
+私服だし、今日","It's fine, isn't it.
+I'm in casual clothes anyway."
+0000000000000,プロデューサー,"うん、そうだな
+よし、遊ぶか！","Yeah, you're right.
+Okay, let's go and have fun!"
+0000000000000,プロデューサー,はは、ブランコなんて、いつぶりかな,"Haha, it's been ages since I've been on a swing."
+0000000000000,プロデューサー,なんだか、子どもの頃のことを思い出すよ,It kind of reminds me of my childhood.
+1020005060030,透,"どんなだった？
+子どもの頃","How were you like then? 
+As a kid."
+0000000000000,プロデューサー,"え、俺？
+そうだなー","Eh, me?
+Let me thinkー"
+0000000000000,プロデューサー,"うーん……
+普通……","Hmmm...
+Ordinary..."
+1020005060040,透,ふふっ、なにそれ,"Fufu, what’s up with that."
+0000000000000,プロデューサー,"いや、なんていうか、
+これといって特徴のない子だったからさ","Nah, it's just...
+I wasn't a kid that had anything special about them."
+0000000000000,プロデューサー,そういう透はどんな子どもだったんだ？,What about Toru?
+1020005060050,透,"え？
+あー","Eh?
+Ahh.
+"
+1020005060060,透,変って言われたことある,I was called a weirdo.
+0000000000000,プロデューサー,"ははっ、変か
+会ってみたかったな、その頃の透に","Haha, a weirdo, huh. 
+Wish I could've met that Toru."
+1020005060070,透,え……,Eh...
+1020005060080,透,……,……
+1020005060090,透,会ってたかもしれないじゃん,"We might've met, then."
+0000000000000,プロデューサー,え？,Eh?
+1020005060100,透,どっかで,Somewhere.
+0000000000000,プロデューサー,"ああ……そっか、そうだよな……
+でも──","Ahh... Well, perhaps we did...
+But──"
+0000000000000,プロデューサー,今の透だから、こうして会えたんだよ,It's because of Toru now that we've met like this.
+0000000000000,プロデューサー,"小さい頃に、どこかで
+すれ違ってたかもしれないけどさ","We might've met or passed by one another when 
+we were younger, but"
+0000000000000,プロデューサー,"今の透だから、今の俺だから
+あって思ったんじゃないかな","it's because of who Toru is now, and who I am now
+that we've met like this, is what I think."
+1020005060110,透,……,……
+0000000000000,プロデューサー,"タイミングってあると思うんだ
+子どもの頃じゃ、きっとわからなかったから","I think that there's a timing to things. 
+I wouldn't have known that if I was still a child."
+0000000000000,プロデューサー,"今でこそ、プロデューサーなんてやってるけどさ
+昔はただの、どこにでもいる子どもだったから","It's because I'm a producer and all now, but back 
+then I was just an ordinary kid you'd find anywhere."
+0000000000000,プロデューサー,"いや、『どこにでもいる』は今でもそうか
+ははっ","Well, I am still an ordinary person 
+『you'd find anywhere』, I suppose.
+Haha."
+1020005060120,透,ふふっ,Fufu.
+1020005060130,透,でも、また会えて──,"Still, I'm glad we met again──"
+0000000000000,プロデューサー,"ん？
+なんだ？","Hm?
+What did you say?
+"
+1020005060140,透,"なんでもない
+勝負しよ、靴飛ばし","Nothing.
+Let's play a game. See who can fling their shoes 
+the furthest from this swing."
+0000000000000,プロデューサー,"お、いいぞ
+透が勝ったら、好きな飲み物買ってあげるよ","Okay, you're on. 
+If you win, I'll buy you a drink."
+1020005060150,透,イエー,Yaay.
+1020005060160,透,きっと、あって思った,I'm sure I'd think the same.
+1020005060170,透,いつ会っても,No matter when.
+info,produce_events/102000506.json,
+Translator,OrangeKabocha,

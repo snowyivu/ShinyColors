@@ -1,0 +1,79 @@
+id,name,text,trans
+0000000000000,プロデューサー,あさひ、お疲れ様！,"Great job, Asahi!"
+0000000000000,プロデューサー,"今日のイベントは大成功だってさ
+スポンサーさんがまたお願いしたいって","Since today's event was such a huge success,
+the sponsor has another request."
+2017009110010,あさひ,そっすか……,I see...
+0000000000000,プロデューサー,"詳しくは帰りの車で話すよ
+さ、支度できたなら行こう","I'll tell you more when we get back to the car.
+Then, if you're ready we can go."
+2017009110020,あさひ,プロデューサーさん、先帰っていいっすよ,"It's okay if you go back first, Producer-san!"
+0000000000000,プロデューサー,"えっ……
+どうしたんだ、突然","Huh...
+What's wrong all of a sudden?"
+2017009110030,あさひ,"行きたいところあるんで
+じゃ！","There's somewhere I wanna go!
+See ya!"
+0000000000000,プロデューサー,えっ、あさひ──！？,Eh!? Asahi──!?
+2017009110040,あさひ,んー──……,Hmm──...
+0000000000000,プロデューサー,あさひ……はぁ、はぁ……,Hah...ha...Asahi...
+2017009110050,あさひ,あ、プロデューサーさん,"Ah, Producer-san."
+0000000000000,プロデューサー,"ここ、さっきのステージじゃないか
+何か、忘れ物でも……","Isn't this the stage from earlier?
+Even if you forgot something, somehow..."
+2017009110060,あさひ,"上見るっす！
+ここの天井、すごくないっすか？","Look up!
+The ceiling here, isn't it amazing?"
+0000000000000,プロデューサー,"天井？
+確かに、ガラスがドーム状でかっこいいよな","The ceiling?
+The glass dome is certainly good looking..."
+0000000000000,プロデューサー,これをわざわざ見に戻ったのか？,Is this the reason you came back all the way here?
+2017009110070,あさひ,あのガラス……上から覗けないっすかね？,That glass... Can we look down from above it?
+0000000000000,プロデューサー,え？,Eh?
+2017009110080,あさひ,"えーっと、どっか、もっと高いところは……
+あっ、あれっす！","Let's see... somewhere... even higher up...
+Ah! Over there!"
+2017009110090,あさひ,プロデューサーさん、それじゃ！,"I'll see ya, Producer-san!"
+0000000000000,プロデューサー,"あっ、また……！　待ってくれ、あさひ！
+一緒に……","Ah! Again...! Wait a second, Asahi!
+Let's go together..."
+0000000000000,プロデューサー,"はぁ……はぁ……
+やっと追いついた","Haa...haa...
+I finally caught up."
+2017009110100,あさひ,プロデューサーさんも来たっすか？,Producer-san came over here too?
+0000000000000,プロデューサー,はぁ……ダメだろ、ひとりでどっかに行っちゃ……,Haa... You can't come up here by yourself...
+2017009110110,あさひ,"ほらほら！
+早く見てほしいっすー！","Look look!
+I want you to look quickly!"
+0000000000000,プロデューサー,"お……よくこんな場所見つけたな
+ここからドームの中がばっちり見える","Oh... I'm glad that you found this place.
+You can see inside the dome perfectly from here."
+2017009110120,あさひ,歩いてる人、人形みたいっす！,All the people walking look like marionettes!
+0000000000000,プロデューサー,"あっ、そうか、これ……
+スノードームみたいなんだ","Ah, I see, this...
+It's just like the snow globe."
+2017009110130,あさひ,思ったとおりっす！,That's exactly what I thought!
+2017009110140,あさひ,ん、そうだ……,"Hm, that's right..."
+0000000000000,プロデューサー,うん？　どうした？,Huh? What is it?
+2017009110150,あさひ,"この上におっきい人がいたら、
+これひっくり返して遊ぶんすかね？","If a giant were up here, would they flip it
+upside down and play with it?"
+0000000000000,プロデューサー,"大きい人が、これを見たら……
+うん、そうしたいと思うかもな","If a giant were to see this...
+Yeah, I think they would want to."
+2017009110160,あさひ,わくわくするっす！,I'm getting excited!
+2017009110170,あさひ,こっちを覗いたりとか……,Doing something like peeking over here...
+2017009110180,あさひ,"雪を降らしてくる人が
+いるかもしれないっすね……",Or maybe they're gonna make it snow...
+0000000000000,プロデューサー,……────,......────
+0000000000000,プロデューサー,……あさひは、どっちがいい？,"...Which one do you think is better, Asahi?"
+0000000000000,プロデューサー,"スノードームをひっくり返すのと、
+大きい人がいて、ひっくり返されるのと","Flipping over snow globes, or there being a giant
+that could flip you over?"
+2017009110190,あさひ,うーん……どっちか、っすか……？,"Hmm... Which one, huh...?"
+2017009110200,あさひ,"自分のスノードームを
+自分でひっくり返したいっす！",I wanna flip over my own snow globe myself!
+0000000000000,プロデューサー,ははっ、そうだな,"Haha, as I thought huh..."
+0000000000000,プロデューサー,それがいい,That's fine.
+info,produce_events/201700911.json,
+Translator,XN-Salad,

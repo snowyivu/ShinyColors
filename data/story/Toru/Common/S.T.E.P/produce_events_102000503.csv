@@ -1,0 +1,112 @@
+id,name,text,trans
+0000000000000,映画の音声,"応答なし！
+ダメです！","No response!
+It's no good!"
+0000000000000,映画の音声,"増援……
+いや、もう何をしても……──","Reinforcements...
+No, it's no use...──"
+0000000000000,映画の音声,"なんでこんな……
+あいつらの目的はなんなんだ？","Why did it turn out like this...
+What do they want from us?"
+0000000000000,映画の音声,"なんでここに……
+地球に──","Why us...
+Why Earth──"
+0000000000000,映画の音声,"……侵略に決まってるじゃないですか
+それ以外に何がありますか","...They're planning to take over Earth.
+What else could it be?"
+0000000000000,映画の音声,"我々はもう終わりです
+終わるんです、ここで──","It's over.
+It's over for all of us, right here──"
+1020005030010,off,"ある日突然
+巨大なUFOが地球に現れて","One day,
+a gigantic UFO appeared on Earth.
+"
+1020005030020,off,"中に、足が何本もある
+イカみたいな宇宙人が乗ってた","In it were several squid-looking aliens 
+with multiple limbs."
+1020005030030,off,"攻撃しようとした人間たちは
+瞬きをしている間に塵になって","The humans that attempted to attack them
+met their end in the blink of an eye, turned to dust."
+1020005030040,off,"そして
+そのまま地球は……────","And just like that,
+Earth was...────"
+0000000000000,教師,おい、浅倉,"Oi, Asakura."
+0000000000000,教師,浅倉、起きろー,"Asakura, wake upー"
+1020005030050,透,……んん──,......Nnn──
+0000000000000,教師,"まったく……もうすぐ試験だぞ
+気ゆるめんなよ？","Goodness… Exams are just around the corner.
+Don’t be daydreaming all day, alright?"
+1020005030060,透,"え？
+あー、はい","Eh?
+Ahh, right."
+0000000000000,教師,"みんなも、今のとこ大事だからな
+ちゃんとノート取っとけよー","The same goes for everyone else.
+I sure hope you all are taking down notes."
+0000000000000,透のクラスメイト,"浅倉さん、最近よく寝てるね
+寝不足？","Asakura-san, you've been falling asleep a lot lately. 
+Not getting enough sleep?"
+1020005030070,透,"んー
+眠くて、なんか","Nn.
+Don't know why, just kinda sleepy."
+0000000000000,透のクラスメイト,"そっか
+ふふ、いい夢見れた？","I see.
+Fufu, did you have a good dream?"
+1020005030080,透,"え？
+あー……","Eh?
+Ahh..."
+1020005030090,透,普通,Normal.
+0000000000000,透のクラスメイト,"あはは、普通かー
+私なんか、最近悪夢ばっか","Ahaha, normal huh.
+All I've been having are nightmares lately."
+0000000000000,透のクラスメイト,テスト近いからかなー,Our exams are around the corner after all.
+1020005030100,透,"ふふっ
+そうかもね","Fufu.
+Maybe."
+1020005030110,透,"なんで見るんだろ
+夢","I wonder why we have them.
+Dreams.
+"
+0000000000000,透のクラスメイト,え、何？,"Eh, what?"
+1020005030120,透,ううん,Nah.
+1020005030130,透,"──いつか、来る？
+ここにも","──Will it come here 
+one day too?"
+1020005030140,透,バーンって,"Like ""craaash""."
+1020005030150,透,予想もしなかった、でかいやつが,A force so big that no one could ever foresee coming.
+1020005030160,透,ふぁー……,Fwaa...
+1020005030170,透,……,……
+1020005030180,透,あと何回、見ればいい？,How many more times do I have to see it?
+1020005030190,透,何回見ても、のぼれないんでしょ？,"I won't be able to reach the top, no matter how 
+many times I see it, right?"
+1020005030200,透,だったら──,In that case──
+1020005030210,透,来てよ、バーンって,"Then, just come at us. With a big crash."
+1020005030220,透,応答なし,No response.
+1020005030230,透,"んん……はぁ……
+帰るかー","Mnn... Haah...
+Guess I'll head home."
+0000000000000,プロデューサー,──のっ、乗ります……っ,──I-I'm boarding...
+0000000000000,プロデューサー,"────ああ……
+行っちゃったか…………","────Ahh...
+It’s gone......"
+1020005030240,透,"……
+歩いた方が早いよ","…
+It's faster to walk."
+0000000000000,プロデューサー,……え？　あ……──,...Eh? Ah...──
+1020005030250,透,"駅でしょ
+バス、あと40分くらい来ないから","To the station.
+The next bus isn't for forty minutes yet."
+1020005030260,透,"……２８３プロダクション
+プロデューサー","...283 Production.
+Producer."
+0000000000000,プロデューサー,待って──,Wait──
+0000000000000,プロデューサー,"──いや、じゃなくて……
+俺が、行くからさ！","No, that's not...
+I-I'll go, then!"
+1020005030270,透,"俺が……
+行くからさ……──","I'll go...
+then...──"
+1020005030280,透,やっぱ、前にも……,It’s the same as then...
+1020005030290,透,なんか、来たかも,I feel like... this might be it.
+1020005030300,透,予想もしなかった、でかいやつが,A force so big... that no one could ever foresee coming.
+info,produce_events/102000503.json,
+Translator,OrangeKabocha,
