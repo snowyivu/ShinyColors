@@ -1,0 +1,103 @@
+id,name,text,trans
+0000000000000,プロデューサー,"智代子、お疲れ
+順調だったな","Good job, Chiyoko.
+That went well, didn't it?"
+2010003020010,智代子,"はいっ。頑張るぞって思ったら、
+カメラマンさんの指示もちゃんと聞こえました！","Yes. I was determined to do my best, and I could follow the photographer's instructions just fine."
+0000000000000,プロデューサー,"それなら良かったよ
+撮影自体もまいたしな","I'm glad to hear that.
+You're done with the shoot too."
+0000000000000,プロデューサー,"……まだ時間あるから、ゆっくりしてていいぞ
+店も貸し切りだし","...There's still time, so rest up.
+The shop is all yours."
+2010003020020,智代子,"本当ですかっ？　やった！
+じゃあ色々見てまわっちゃおうかなぁ","Really? Yay!
+Then I guess I'll have a look around."
+2010003020030,智代子,"ふふ。こんな広いところで、私とプロデューサーさんの
+ふたりだけって、ちょっとドキドキしますね！",Hehe. I'm a little nervous that it's just the two of us in such a big place!
+0000000000000,プロデューサー,"そうか？　智代子ひとりの仕事の前後は大体こんな感じだろ
+いつもと同じじゃないか？",Is that so? I thought it's almost always like that before and after your solo gigs. Isn't it the same as usual?
+2010003020040,智代子,"この喫茶店だからですよ～。こんなおしゃれなとこ、
+私、ひとりじゃあんまり来たことなくて……",That's because of this cafe~. I don't always go to such a stylish place by myself...
+0000000000000,プロデューサー,"なんだ、食べ歩きするぐらいだから、
+喫茶店も行ってるもんだと思ってたよ","I'm surprised. Since you go on food tours, I thought cafes would naturally be on the list."
+2010003020050,智代子,"ケーキ屋さんとかコーヒーショップは行きますけど、
+こういうとこは敷居が高くて入れないです","I do go to cake shops and coffee shops, but I don't enter places like this because they seem intimidating."
+2010003020060,智代子,"だから、こうして喫茶店にいて……
+しかもプロデューサーさんと一緒だなんて……！","Therefore, being in a cafe like this with Producer-san...!"
+2010003020070,智代子,今私、すごくわくわくしちゃってます！,Makes be feel really excited!
+0000000000000,プロデューサー,そうか,I see.
+2010003020080,智代子,"はいっ。……あ、すごい！
+このお店、ピアノがあるんですね！","Yes. ...Oh, nice!
+They even have a piano!"
+2010003020090,智代子,わー、懐かしいなぁ……,"Wow, it's nostalgic..."
+0000000000000,プロデューサー,智代子、ピアノやってたのか？,"Chiyoko, did you play the piano?"
+2010003020100,智代子,"……昔習ってたので、ほんのちょっと……
+もう片手でしか弾けないんですけどね","...I took lessons in the past, so just a little bit...
+I can only play with one hand now."
+0000000000000,プロデューサー,……弾いてみるか？,...Do you want to give it a try?
+2010003020110,智代子,え、いいんですか！？,"Eh, would that be okay!?"
+0000000000000,プロデューサー,"触れないようにしてないし、平気だろ
+ちょっとお店の人に聞いてみるよ","It's not like you're messing with it, so it should be fine. Let me ask the staff."
+0000000000000,プロデューサー,"問題ないってさ
+遠慮なく弾いてくれって言われたよ","They said no problem.
+Feel free to play it."
+2010003020120,智代子,"ありがとうございます！　
+それじゃあえっと……","Thank you!
+Okay, let's see..."
+2010003020130,智代子,どーれーみーふぁーそーらーしーどー♪,Do-Re-Mi-Fa-So-La-Ti-Do♪
+2010003020140,智代子,えへへ、なんだか歌いたくなっちゃいますね,"Hehe, I kind of feel like singing."
+2010003020150,智代子,"ちっちゃい頃は、指が届かなくて困ってたりしたんですけど
+さすがにもう大丈夫みたいです","When I was little, I used to have trouble reaching the keys with my fingers, but I can do that alright now."
+0000000000000,プロデューサー,"……こういう智代子も、なんかいいな
+さっき撮ってもらえば良かった","...This side of you is also wonderful.
+I should have taken a video of it."
+2010003020160,智代子,ち、ちゃんと弾けるわけじゃないし、いいんですっ,"I-I can't play properly, so don't sweat it."
+2010003020170,智代子,"このことは、プロデューサーさんの心の中だけに
+収めておいてください！","Please keep the memory to yourself, Producer-san!"
+0000000000000,プロデューサー,割と楽しそうだったのに？,Even though you seemed to be having a good time?
+2010003020180,智代子,"そ、それはっ、ピアノが素敵だからです！
+……あ！　そうだ！","T-That's because the piano is wonderful!
+... Oh! That's right!"
+2010003020190,智代子,"ここはまたピアノを習って……
+弾き語りチョコアイドル！　なーんてどうでしょう？","Here, learning to play the piano again...
+The Chocolate Idol Accompanying Herself! How about that?"
+select,,いいと思う,That would be great.
+select,,見てみたい,I'd like to see that.
+select,,絵になるな,That's picturesque.
+0000000000000,プロデューサー,いいと思う,That would be great.
+2010003020200,智代子,えへへ、冗談で……って、い、いいんですか！？,"Hehe, just kidding... W-Wait, really!?"
+2010003020210,智代子,"プロデューサーさん、いつもすぐに応援してくれますけど
+たまには止めてください！","Producer-san, you're always so quick to support me. Please put the brakes on sometimes!"
+0000000000000,プロデューサー,なんだ、今のは本気じゃなかったのか？,"What, you weren't serious just now?"
+2010003020220,智代子,だって、もうほとんど覚えてないし……,"Because, I can barely remember how to play..."
+2010003020230,智代子,…………でも、弾けたら素敵ですよね,"... It'd be wonderful if I could, though."
+2010003020240,智代子,"もし弾けるようになったら、
+プロデューサーさんが一番に聴いてくれますか？","If I could play the piano,
+would Producer-san be the first to listen?"
+0000000000000,プロデューサー,ああ、もちろん,"Yes, of course."
+2010003020250,智代子,"……だったら、ちょっとだけ楽しみにしててください
+えへへ","... If that's the case, please look forward to it.
+Hehe."
+0000000000000,プロデューサー,見てみたい,I'd like to see that.
+2010003020260,智代子,うっ、冗談なのに、まさかのリクエストが……！,"Huh, I was kidding, but then you requested it...!"
+0000000000000,プロデューサー,"いや、無理にとは言わないけどさ
+機会があるなら見てみたいと思っただけだよ","Oh, I'm not saying you must.
+I just thought I'd like to be there when it happens."
+2010003020270,智代子,それでもちょっと焦っちゃいました！,"Still, that made me a little impatient!"
+2010003020280,智代子,"……でも、プロデューサーさんがそう言ってくれるなら
+ほんとに頑張ろうかな……","... But if you say so,
+I'll really try my best..."
+0000000000000,プロデューサー,絵になるな,That's picturesque.
+2010003020290,智代子,"え、えぇ！？
+そ、そんなことないですよ……","H-Huh!?
+I-I don't think so..."
+2010003020300,智代子,私、そんなにピアノが似合うタイプじゃ……,I'm not the type of person who looks that good playing the piano...
+0000000000000,プロデューサー,そうか？　さっきは本当に似合ってたぞ,Really? You looked really good earlier.
+2010003020310,智代子,そ、その真面目な表情で言うのもやめてください！,P-Please don't say that with a serious expression on your face!
+0000000000000,プロデューサー,弾き語りアイドルも悪くないはずだ,It's not bad to be an idol who accompanies herself.
+2010003020320,智代子,も、もう！,S-Stop it!
+2010003020330,智代子,"自分ばっかり余裕でずるいです……！
+あんまりからかうのはやめてくださいね！",It's not fair that you're the only one who's so calm...! Please stop teasing me so much!
+info,produce_events/201000302.json,
+Translator,Ruru,
