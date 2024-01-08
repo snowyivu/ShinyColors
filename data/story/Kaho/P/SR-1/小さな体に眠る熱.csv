@@ -1,0 +1,127 @@
+id,name,text,trans
+0000000000000,プロデューサー,（ふう。やっとひと段落ついたな……あれは……？）,"(Phew. I can finally take a break... Huh, is that...?)"
+0000000000000,果穂,"あっ、プロデューサーさんっ！
+こんにちは！　お仕事中ですか？","Oh, Producer-san!
+Hello! Are you working?"
+0000000000000,プロデューサー,"いや、終わったから事務所に戻るところだったんだ
+果穂はどうしたんだ？","No, I just finished and was heading back to the office.
+What about you?"
+0000000000000,果穂,"下校中ですっ！　あ、でも掃除当番で遅くなっちゃったから
+家じゃなくて、そのまま事務所に行こうと思ってます！","I just got out of school! Oh, but I got out late because I was on cleaning duty, so now I'm going straight to the office, not home!"
+0000000000000,プロデューサー,"そうだったのか
+じゃあ、一緒に行こうか","I see.
+Then, I'll go with you."
+0000000000000,果穂,"はいっ！
+えへへ、プロデューサーさんと一緒でうれしいです","Yes!
+I'm glad I can go with Producer-san."
+0000000000000,プロデューサー,"俺もうれしいよ
+今日は、学校で何があったんだ？","Me too.
+What happened at school today?"
+0000000000000,果穂,"朝から、友達とテレビの話をしてました
+みんな、ヒーローはあんまり見てないんですけど……","I was talking about TV shows with my friends since this morning. No one else really watches hero shows, but..."
+0000000000000,果穂,"でもでもっ、ここがカッコいいとか面白いって、
+お話したら、興味を持ってくれたみたいで！","When I told them how cool and interesting it was, they were interested!"
+0000000000000,果穂,"今度あたしのお家に集まって、
+ヒーローの名シーン特集を見るんですよ！",We're going to get together at my house and watch a special on famous hero scenes!
+0000000000000,プロデューサー,それは楽しみだな,You must be looking forward to that.
+0000000000000,果穂,"はいっ。あと、今日の給食はカレーライスでした
+とっても美味しかったです","Yes. Also, today's lunch was curry rice.
+It was very delicious."
+0000000000000,果穂,"でもつい食べすぎちゃって
+その後の体育は、いつもより動けませんでした……","But, I ate so much that I couldn't move as usual for PE afterwards..."
+0000000000000,プロデューサー,"ははは
+まあ、次頑張ればいいさ","Hahaha.
+Well, you can do better next time."
+0000000000000,果穂,はい！　……くしゅん！,Yes! ...achoo!
+0000000000000,プロデューサー,（ん？　なんだか様子が……）,(Hm? Something's wrong...)
+0000000000000,プロデューサー,"果穂、もしかして体調悪くないか？
+大丈夫か……？","Kaho, are you not feeling well?
+Are you alright...?"
+0000000000000,果穂,"……え？　大丈夫ですよ？
+あたしは元気ですっ","... Eh? It's fine.
+I'm doing okay."
+0000000000000,プロデューサー,（ちょっと様子がおかしいな……）,(She's acting a little strange. ......)
+0000000000000,プロデューサー,"今日は事務所に寄らずに、帰った方がいいと思う
+元々、ちょっとした予定だけだったしな",I think you should go home instead of stopping by the office. We only had a few plans anyway.
+0000000000000,果穂,えっ？　どうしてですか？,Eh? Why?
+0000000000000,プロデューサー,それは……,Well...
+select,,"熱があるんじゃないか
+と思って",You might have a fever.
+select,,"疲れがたまってるか
+と思って",You might be tired.
+select,,"マメ丸に会いに
+行きたいから","Because I want
+to see Mamemaru."
+0000000000000,果穂,熱、ですか？　うーん、自分ではよくわからないです,"Fever? Umm, I'm not sure about that."
+0000000000000,果穂,プロデューサーさん、確かめてみてくださいっ,"Producer-san, please check if I have one."
+0000000000000,off,off,off
+0000000000000,プロデューサー,"……うん。やっぱり ちょっと熱いな
+微熱程度かもしれないが……","...Yeah. It's a little warm.
+Maybe it's a slight fever..."
+0000000000000,果穂,"あたし、自分で気づかなかったのに……
+スゴいですっ、プロデューサーさん！","I didn't notice it myself...
+You're amazing, Producer-san!"
+0000000000000,果穂,"プロデューサーさんは、あたしのこと……
+よく見てくれてるんですね。えへへっ","You're watching over me very carefully... Aren't you, Producer-san? Hehe."
+0000000000000,プロデューサー,"いや、もっと早く気づけたら良かったんだが……
+とにかく今日は帰ろう","Sorry, I wish I had noticed it earlier...
+Anyway, let's go home today."
+0000000000000,プロデューサー,"アイドルはハードスケジュールだからな
+休める時にしっかり休んでおいたほうがいい","Idols have tight schedules, so you should take a good rest when you can."
+0000000000000,果穂,"そっか……ヒーローだって、
+いっつも戦ってるわけじゃないですもんね！",I see... Heroes aren't always fighting aswell!
+0000000000000,プロデューサー,"ああ。さあ、家へ帰ろう
+送っていくよ","Yeah. Come on, let's go.
+I'll walk you home."
+0000000000000,果穂,"ありがとうございますっ
+じゃあ今日はゆっくり休んで……また明日、頑張りますっ","Thank you very much.
+I'll take a good rest today... And do my best again tomorrow."
+0000000000000,果穂,"うーん……
+自分では、そんな感じしないですけど……","Hmm...
+But I don't feel tired..."
+0000000000000,プロデューサー,"最近は少しずつアイドルの仕事も増えてきたし……
+学校も毎日ちゃんと通ってるんだろう？","
+You've been doing more idol work lately... on top of going to school every day, right?"
+0000000000000,果穂,"はい。でも、ぜんぜん大変じゃないですよ？
+お仕事も学校も、大好きですからっ","Yes. But it's not hard at all, you know?
+I love both work and school."
+0000000000000,プロデューサー,"それは何よりだ……でも疲れてるんなら
+無理はしちゃいけない","That's good to hear... But if you're tired, you shouldn't push yourself too hard."
+0000000000000,プロデューサー,"これからもっとアイドルとして成長できるように、
+今日はしっかり休むべきだ","In order to grow as an idol in the future, you should rest well today."
+0000000000000,果穂,"成長するために、休む……なるほど！
+全然思いつきませんでした！　そんな考え方もあるんですね","Rest well so that I can grow... I see!
+I had no idea! That's one way of thinking about it."
+0000000000000,果穂,プロデューサーさんはやっぱりオトナで、スゴいですね！,Producer-san really is an amazing grown-up!
+0000000000000,プロデューサー,"そんなことはないさ
+それじゃあ今日は、もう家に帰ろうか","I wouldn't say that.
+Let's go home for the day, then."
+0000000000000,果穂,はい、わかりました！,"Yes, understood!"
+0000000000000,果穂,"プロデューサーさん！　これからもたくさん、
+あたしにアドバイスしてくださいねっ",Producer-san! Please give me a lot of advice from now on.
+0000000000000,果穂,"わあっ！　本当ですか？　そういえば、
+まだ一度も会ったことなかったですね",Wow! Really? It's true that you've never met him.
+0000000000000,プロデューサー,"ああ。だから果穂を送るついでに、
+マメ丸と会えたら、と思ってな",Yeah. That's why I was wondering if I could meet Mamemaru while taking you home.
+0000000000000,果穂,"それはすごくうれしいんですけど……でも
+事務所でお仕事の話があったんじゃないですか？","I'm really happy to do that, but... Aren't we supposed to talk about work at the office?"
+0000000000000,プロデューサー,"仕事の話なら、歩きながらでもいい
+別に、事務所じゃなくてもできるさ","We can do that as we walk.
+There's no need to be at the office."
+0000000000000,果穂,"わかりました
+じゃあ、あたしの家まで案内しますねっ","Understood.
+I'll lead the way to my house, then."
+0000000000000,プロデューサー,ああ、頼んだよ,Please and thank you.
+0000000000000,果穂,"はいっ。こうやって、プロデューサーさんと
+家まで一緒に歩くなんて……",Yes. Walking home with Producer-san like this...
+0000000000000,果穂,えへへ、なんだか新鮮で楽しいです,"Hehe, it's kind of refreshing and fun!"
+0000000000000,果穂,"そうだ、お父さんとかお母さんにしてもらうみたいに、
+手をつないでてもいいですか？","Oh, can we hold hands, just like when I'm with mom and dad?"
+0000000000000,プロデューサー,えっ？　俺は、かまわないが……,"Eh? I don't mind, but..."
+0000000000000,果穂,"えへへっ！　わあっ……プロデューサーさんの手って、
+大きいんですね。なんだか落ち着きます",Hehe! Wow... Producer-san's hands are so big. I feel calm somehow.
+0000000000000,プロデューサー,"（うれしそうな笑顔だな……
+今のこの時間が、いい気分転換になるといいな）","(She has a happy smile...
+I hope it's a nice change of pace for her.)"
+info,produce_events/200900302.json,
+Translator,Ruru,

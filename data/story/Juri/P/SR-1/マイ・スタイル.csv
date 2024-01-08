@@ -1,0 +1,126 @@
+id,name,text,trans
+2011003020010,樹里,"撮影、まだ始まんね－のかよ？
+もう結構待ってんぞ？","Is the shoot not starting yet?
+I've waited for so long."
+0000000000000,プロデューサー,"他の子の撮影が押してるみたいなんだ……
+悪いけどもう少し待ってくれないかな","Looks like the other girls are pushing back the schedule... Sorry, but we probably have to wait a bit longer."
+2011003020020,樹里,"まぁ、いいけどよ……
+ふぁぁ～","Well, not that I mind...
+*yawn*"
+0000000000000,プロデューサー,"そうだ、せっかくの空き時間だし
+ファンレタ－でも読まないか？","Actually, since we got some free time, 
+why don't you read your fan letters?"
+2011003020030,樹里,えっ、あ、アタシ宛のやつか……？,Huh? A-Are those for me...?
+0000000000000,プロデューサー,"もちろん
+ほら、これだよ","Of course.
+Here you go."
+2011003020040,樹里,"お、おう
+さんきゅ","Oh, okay.
+Thank you."
+2011003020050,樹里,…………,............
+0000000000000,プロデューサー,……どうしたんだ、読まないのか？,...What's wrong? You don't want to read them?
+2011003020060,樹里,"……ファンレタ－開ける度に、
+思うことがあるんだ","... Every time I open a fan letter,
+a thought crosses my mind."
+2011003020070,樹里,"アタシのことを好きって言ってくれる人が、
+本当にいるんだなって",That there really are people out there who say they like me.
+2011003020080,樹里,"ちゃんとアイドルに近づけてる実感があるっつ－か
+なんかこう……胸の辺りがむずむずしてくるんだよ",It makes me feel like I'm getting closer to being an idol. Like... There's something fluttering in my chest.
+0000000000000,プロデューサー,"近づいてるんじゃなくて、
+樹里はもう立派なアイドルだよ","You're not getting closer to being one.
+You're already a great idol."
+2011003020090,樹里,"そ、そう言われても……自分じゃわかんね－よ
+アンタのペ－スに合わせてるだけだし……","E-Even if you say so... I don't know for sure myself.
+I'm simply just trying to keep up with your pace..."
+0000000000000,プロデューサー,"はは、じゃあもっと実感するために
+ファンレタ－をちゃんと読まないとな","Haha, then I guess you'll have to read the fan letters to get a better feel for it."
+2011003020100,樹里,"……わかったよ
+えっと、まずはこの手紙から……","...I know.
+Hmm, let's start with this one..."
+2011003020110,樹里,……！,......!
+0000000000000,プロデューサー,……そんなに驚いて、何が書いてあったんだ？,...You look surprised. What did it say?
+2011003020120,樹里,"ボ－イッシュなアタシも、
+キュ－トな衣装のアタシもどっちも可愛いって……",They said I'm cute in both boyish and cute outfits...
+0000000000000,プロデューサー,"可愛いって言ってくれてるんだ
+素直に喜ぶところだろ？",I see. Isn't that something to be happy about?
+2011003020130,樹里,"わ、わかってる
+わかってるんだけどな……","I-I know.
+I know, but..."
+2011003020140,樹里,"アイドル活動には前より慣れたと思うけど
+キュ－ト……なアイドルの衣装には、まだなんかなぁ","I think I'm more used to being an idol now, but I'm still not sure about the ""cute"" idol outfits."
+0000000000000,プロデューサー,抵抗があって、素直に喜べないのか,"So you feel like objecting that, and therefore can't be honestly happy about it?"
+2011003020150,樹里,"まあな……でもファンのみんなは、
+もっと可愛い衣装を着て欲しいって思ってんのかな",I guess... But the fans probably want me to wear more cute and girly outfits.
+2011003020160,樹里,"アンタ、アイドルの色んな表情を引き出すのが、
+プロデューサーの務めだって前に言ってたよな？","You said before that it's the producer's duty to bring out the different sides of the idol, right?"
+2011003020170,樹里,"てことはやっぱり……アタシはこれからも
+可愛い衣装を着てった方がいいって思ってるのか？",Does that mean... I should continue to wear cute outfits from now on?
+select,,"樹里には、
+樹里らしさがあるよ","Juri, you have
+your own charms."
+select,,"仕事で必要なら、
+やらなくちゃいけない","If the job asks
+for it, you have to."
+select,,本当にそれでいいのか？,"Are you really
+okay with that?"
+0000000000000,,★選択肢①【樹里には、樹里らしさがあるよ】,★選択肢①【樹里には、樹里らしさがあるよ】
+0000000000000,プロデューサー,樹里には、樹里らしさがあるよ,"Juri, you have your own charms."
+2011003020180,樹里,どういうことだよ？,What do you mean?
+0000000000000,プロデューサー,"ファンのみんなは、樹里の見た目だけじゃなくて、
+樹里そのものに惚れてるんだ","The fans aren't just in love with your looks.
+They're in love with you yourself."
+2011003020190,樹里,アタシ……そのものに？,Myself...?
+0000000000000,プロデューサー,"ああ、つまりファンのみんなは、
+樹里のこと全部合わせて好きってことだ","Yeah, they love you for all that you are."
+0000000000000,プロデューサー,"だから、ボ－イッシュな樹里も、
+キュ－トな樹里も好きになってくれてるんだろ？","Therefore, they like both the boyish Juri and the cute Juri, right?"
+0000000000000,プロデューサー,もっと、自分に自信を持ってもいいんだぞ,You can be more confident in yourself.
+2011003020200,樹里,"そ、そうか……
+ファンのみんなは、そこまで見てたんだな","I-I see...
+I guess the fans saw that much in me."
+2011003020210,樹里,"アンタの言葉聞いてると、
+なんつ－か自信がつくよ","Your words gave me confidence, somehow."
+2011003020220,樹里,……ありがとな,...Thanks a lot.
+0000000000000,,★選択肢②【仕事で必要なら、やらなくちゃいけない】,★選択肢②【仕事で必要なら、やらなくちゃいけない】
+0000000000000,プロデューサー,仕事で必要なら、やらなくちゃいけない,"If the job asks for it, you have to."
+2011003020230,樹里,……やっぱ、そうなのかよ,...I figured as much.
+0000000000000,プロデューサー,樹里は遊びでアイドルをやってるわけじゃないだろ？,"You aren't being an idol just for fun, right?"
+2011003020240,樹里,あ、当たり前だろ！,O-Of course not!
+2011003020250,樹里,"ここまでアイドルやってきたんだ、
+半端な気持ちでやってるわけね－！","I've been an idol for this long.
+No way I'm doing a lousy job!"
+0000000000000,プロデューサー,"その気持ちがあれば、
+どんな仕事でもやっていけるさ","If that's how you feel,
+you will ace any job you get."
+2011003020260,樹里,そ、そうかな？,I-Is that so?
+2011003020270,樹里,"いや、そうだな
+アンタの言うとおりだ！","No, you're right.
+Just like you said!"
+2011003020280,樹里,"アタシはこれからもっと頑張ってく
+アンタはしっかりサポ－トしてくれよ！","I'll do even better from now on,
+so give me all your support!"
+0000000000000,プロデューサー,ああ、そのつもりだ！,Of course I will!
+0000000000000,,★選択肢③【本当にそれでいいのか？】,★選択肢③【本当にそれでいいのか？】
+0000000000000,プロデューサー,本当にそれでいいのか？,Are you really okay with that?
+2011003020290,樹里,ど、どういうことだよ……？,W-What do you mean...?
+0000000000000,プロデューサー,"最初の頃は、
+慣れないから着たくないって気持ちがあっただろう","In the beginning, you didn't want to wear cute outfits because you weren't used to them."
+0000000000000,プロデューサー,"けど、今はもうだいぶ経つ
+アイドルには慣れてきたってさっき言ってたろ？",But it's been a while now. Didn't you just say that you're getting used to being an idol?
+0000000000000,プロデューサー,樹里の中で、何か引っ掛かりがあるんだと思う,I feel like there's something troubling you.
+2011003020300,樹里,引っ掛かり、か……,"Something troubling me, huh..."
+2011003020310,樹里,"可愛らしい衣装はアタシには似合わねぇ
+どう褒められても、そう思っちまう……","Cute outfits don't suit me.
+No matter how much I'm complimented, I always think so..."
+0000000000000,プロデューサー,"でも似合ってなかったら、ファンから
+「キュ－トな衣装の樹里も好き」なんて言われないだろ？","If it didn't look good on you, the fans wouldn't say ""I like Juri in cute outfits too,"" right? "
+0000000000000,プロデューサー,"それに、似合ってない衣装を、
+俺がアイドルに着せるわけがないだろ？","Besides, I wouldn't let my idols wear outfits that don't suit them."
+2011003020320,樹里,"わ、わ－ったよ！
+これからもいっぱい、可愛い衣装着てやるって！","I-I get it!
+Guess I'll continue wearing a lot of cute outfits!"
+2011003020330,樹里,"けど、それでアタシのファンがいなくなったら、
+アンタのせいだかんな！？","But if I lose fans because of it, it's your fault, okay!?"
+2011003020340,樹里,言ったからには、責任取れよっ！,You're responsible for what you said!
+info,produce_events/201100302.json,
+Translator,Ruru,
