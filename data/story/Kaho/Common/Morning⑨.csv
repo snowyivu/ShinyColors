@@ -2,32 +2,35 @@ id,name,text,trans
 1009001000910010,果穂,プロデューサーさん、相談があるんです,"Producer-san, I need your advice."
 0000000000000,プロデューサー,どうしたんだ、果穂,"What's wrong, Kaho?"
 1009001000910020,果穂,"あたし、牛乳がどうしても苦手なんです……
-強くなるために、飲まなくちゃって思うんですけど……","I, no matter what, really don't like milk...
+強くなるために、飲まなくちゃって思うんですけど……","I really don't like milk at all...
 But to become strong, I think I need to drink milk..."
 0000000000000,プロデューサー,そうか、牛乳が苦手か……,"I see, so you don't like milk..."
-select,,果物を入れてみよう,Let's try adding some fruits.
+select,,果物を入れてみよう,"Let's try adding
+some fruits."
 select,,"高級な牛乳を
-飲んでみよう",Let's try drinking high-quality milk.
+飲んでみよう","Let's try drinking
+high-quality milk."
 select,,"牛乳の
 代わりになるものを
 探そう","Let's try looking
-for alternatives to milk."
+for alternatives
+to milk."
 1009001000910030,果穂,"果物を牛乳に……
 わぁっ！　それなら美味しく飲めそうです！","Fruits inside milk...
 Waah! Then I think I can enjoy drinking it!"
 1009001000910040,果穂,"やっぱりプロデューサーさんはスゴいです！
 あたし、いろいろ試してみますっ！","I knew that you're amazing, Producer-san!
-I will try adding various things!"
+I will try adding different fruits!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1009001000910050,果穂,"高級……
 高いものだと、やっぱり美味しいんでしょうか？","High quality...
-If it's expensive, would it really taste good?"
-1009001000910060,果穂,今度、探して飲んでみますっ,"Then next time, I will look for it and drink it."
+So if it's expensive, it will taste good?"
+1009001000910060,果穂,今度、探して飲んでみますっ,"Then next time, I will look for one and try it out."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1009001000910070,果穂,そっか、栄養が一緒なら大丈夫ですよね！,"I see, well if the nutrition is the same, it's okay!"
+1009001000910070,果穂,そっか、栄養が一緒なら大丈夫ですよね！,"I see. If the nutrition is the same, then it must be okay!"
 1009001000910080,果穂,"んー、でも苦手なものは
 克服したいなって思います","Hmm, but I think I really want to try
 overcoming my weak points."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100900100091.json,
 Translator,Maribel,

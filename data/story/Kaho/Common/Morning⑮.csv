@@ -1,29 +1,31 @@
 id,name,text,trans
-0000000000000,プロデューサー,ん？　ポーズなんかとって、どうしたんだ、果穂？,"Hm? Doing poses like that, what's up, Kaho?"
+0000000000000,プロデューサー,ん？　ポーズなんかとって、どうしたんだ、果穂？,"Hm? Why are you posing like that, Kaho?"
 1009001001510010,果穂,"悪に屈しろ、ジャスティスレッド……
 お前の負けだ……","Succumb to evil, Justice Red...
 It's your loss..."
 1009001001510020,果穂,まだだ……！　まだ可能性の灯は消えちゃいない……！,Not yet...! The light of possibility isn't gone yet...!
 0000000000000,プロデューサー,（果穂がヒーローごっこに熱中しているな……）,"(Kaho is so absorbed playing hero, huh...)"
-select,,大幹部の登場だ！,Here comes the evil general!
+select,,大幹部の登場だ！,"Here comes the
+evil general!"
 select,,"演技を見てたら
-俺も熱くなってきた","Seeing your acting is also 
-making me feel excited."
-select,,かっこいいシーンだ,That was a good scene.
+俺も熱くなってきた","Watching your
+acting makes
+me excited."
+select,,かっこいいシーンだ,"That was a
+good scene."
 1009001001510030,果穂,"わぁ！　プロデューサーさんもやってくれるんですか！？
-えへへ！","Wah! Producer-san will also be doing it!?
+えへへ！","Wah! Producer-san is joining me!?
 Ehehe!"
 1009001001510040,果穂,新たな強敵が……でも、正義の可能性は無限大だ！,"A new formidable foe... But, justice won't lose!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1009001001510050,果穂,"えへへ、ありがとうございます！　あたしこのシーンが
-スッゴく好きで、何回も見ました！","Ehehe, thank you very much! I really liked this scene,
-I've been watching it numerous times!"
+スッゴく好きで、何回も見ました！","Ehehe, thank you very much! I really like this scene,
+so I've been watching it plenty of times!"
 1009001001510060,果穂,"だから、プロデューサーさんも同じふうに思ってくれて
-うれしいです！","That's why when Producer-san feels the same way
-I feel happy!"
+うれしいです！",That's why I'm happy that you feel the same way!
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1009001001510070,果穂,はい！　『ジャスティスV』の名シーンを再現してて……,"Yes! I tried doing a famous scene from ""Justice V""..."
+1009001001510070,果穂,はい！　『ジャスティスV』の名シーンを再現してて……,"Yes! I was acting out a famous scene from ""Justice V""..."
 1009001001510080,果穂,あれ？　どこまで進んでたっけ？,Eh? Where was I again?
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100900100151.json,
 Translator,Maribel,

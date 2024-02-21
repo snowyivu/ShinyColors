@@ -1,0 +1,135 @@
+id,name,text,trans
+0000000000000,プロデューサー,"……やはり、次の現場入りは
+ギリギリになってしまいそうだな","...Looks like we're really cutting it close for this next
+part, I had a feeling this'd happen."
+0000000000000,プロデューサー,"すまん、咲耶
+近くで下ろすから、先に向かってくれるか？","Sorry, Sakuya.
+I'll drop you off nearby, can you go on from there?"
+2006008030010,咲耶,ああ、構わないよ,"Sure, I don't mind."
+0000000000000,プロデューサー,"少し走らないと間に合わないかもしれない
+俺も車を駐車場に停めたら、すぐに合流するから──","You'll have to run, if you even make it in time at all.
+I'll join back up with you once I park in the lot."
+0000000000000,プロデューサー,……悪いな、バタバタさせてしまって,...Sorry for making a mess of things here.
+2006008030020,咲耶,アナタが謝ることなど何もないさ,There's nothing for you to be sorry about here.
+2006008030030,咲耶,"私のことを待ってくれる人がいるんだ
+本当はいつだって、駆け足で向かいたいくらいだよ","There's someone waiting for me out there.
+Truth be told, I'd run to them anytime, any day!"
+0000000000000,プロデューサー,"咲耶らしいな……
+でも、無理はしないでくれよ","That's a Sakuya line, alright...
+But still, don't push yourself too hard."
+2006008030040,咲耶,"クス。心配してくれているのかい？
+ありがとう、プロデューサー","Heh. Worried about me still?
+Thanks, Producer."
+2006008030050,咲耶,アナタも、急いで事故など起こさないようにね,"Just make sure you don't cause any accidents in
+your own haste either, alright?"
+0000000000000,プロデューサー,"ありがとう
+俺なら大丈夫だよ、安全運転を心がけてるしな","Thank you.
+I'll be fine, I'm a safe driver after all."
+2006008030060,咲耶,フフ、それなら安心したよ,"Fufu, that's a relief to hear."
+2006008030070,咲耶,"アナタに何かあったら、私はアナタを急がせた
+罪悪感で何をしてしまうかわからないからね……","Were anything to happen to you, it would've been
+me rushing you. I don't know how I'd handle the
+guilt that'd come as a result..."
+0000000000000,プロデューサー,ええっ？,Huh?
+2006008030080,咲耶,"私の愚行を見て、
+アナタはどう思うだろうか……",What would you think of my own foolish actions...?
+2006008030090,咲耶,"ああ……
+そんなことにならなければいいのだけれど……","Ah...
+How I wish it doesn't come to that..."
+0000000000000,プロデューサー,"わ、わかってるって
+そうならないように、充分気を付けるから","A-Alright, I get it.
+I'll be careful to not let that happen."
+2006008030100,咲耶,フフ……本当かい？,"Fufu, do you mean it?"
+select,,心配しすぎだ,"You worry
+too much"
+select,,気を付けて行くよ,"I'll be
+careful"
+select,,咲耶を待たせてるからな,"I'm making
+you wait"
+0000000000000,,★選択肢①【心配しすぎだ】,★選択肢①【心配しすぎだ】
+0000000000000,プロデューサー,心配しすぎだ,You worry too much.
+2006008030110,咲耶,おや、その言葉は心外だよ,"Oh, such shocking words to hear."
+2006008030120,咲耶,"こんなふうに言い合ったのが
+今生の別れになるかもしれないんだ","These could very well be the last things we ever
+say to one another, our parting words."
+2006008030130,咲耶,"アナタは私に、『あの時もっと言っておけば』
+なんて後悔をさせたいのかな？","Do you wish to leave me with the regret of
+""I should have said more when I had the chance""?"
+0000000000000,プロデューサー,……そうだな、言葉が悪かった,"...Okay, that was a poor choice in words on my part."
+0000000000000,プロデューサー,"すまない、咲耶
+ちゃんと気を付けるよ","Sorry, Sakuya.
+I'll be careful."
+2006008030140,咲耶,"……私も、強く言い過ぎたね
+つい意固地になってしまった","...So too was I too strong in my words.
+I was overcome with adamance."
+2006008030150,咲耶,しかし、アナタが私を心配してくれるように……,"However, just as you worry for me..."
+2006008030160,咲耶,"私も、アナタのことを想ってるんだよ
+……それだけは、理解してほしい","So too do I think of you.
+...This I hope you understand."
+0000000000000,プロデューサー,"そうか……
+ありがとう、咲耶","I see...
+Thank you, Sakuya."
+2006008030170,咲耶,フフ、わかってくれたのならいいんだ,"Fufu, so long as you understand."
+2006008030180,咲耶,"それじゃあ、焦らずに行こう
+お互いのために……今日のよりよい仕事のために、ね","Now then, let us be in not a hurry.
+For each other's sakes... So that we may work
+better than ever before, alright?"
+0000000000000,,★選択肢②【気を付けて行くよ】,★選択肢②【気を付けて行くよ】
+0000000000000,プロデューサー,気を付けて行くよ,I'll be careful.
+2006008030190,咲耶,ああ、そうしてくれると嬉しいな,"Ah, I'm glad you will."
+2006008030200,咲耶,"私だけ先に行って、アナタが来てくれないなんて
+耐えられないからね","I simply could not bear going on ahead without you
+ever showing up."
+0000000000000,プロデューサー,ああ……咲耶のためにも、安全運転を心がけるよ,"Of course... I'll drive extra safe, just for you."
+0000000000000,プロデューサー,"もちろん、咲耶もだからな
+急ぐとは言っても、焦りすぎるなよ","Of course, the same goes for you too.
+Even if you're in a rush, don't be too hasty."
+0000000000000,プロデューサー,"走って転んだり、よそ見して車にぶつかったり……
+あ、スタジオの廊下も走るなよ？","Like tripping while running, or looking away and
+running into a car... Oh, and don't run through
+the studio hallways either, alright?"
+2006008030210,咲耶,クス。まるで先生に諭されている気分だね,Heh. It feels like I'm being yelled at by a teacher.
+2006008030220,咲耶,アナタにそう言われるのも、悪い気はしないのだけれど……,"I don't feel awful hearing you say all this, but..."
+2006008030230,咲耶,小さな子どもじゃないんだ、きちんと自制するよ,"I'm not a child, you know. I'll behave accordingly."
+0000000000000,プロデューサー,"頼むぞ？　俺が元気に向かったのに
+咲耶がいなかったなんてことになったら、困るからな","Can I hold you to that? I'd hate to make it there
+in a good mood, and then discover that you're
+not there, Sakuya."
+2006008030240,咲耶,"ああ……
+私もアナタを困らせたくはないからね","Ah...
+Likewise, I wouldn't wish that upon you either."
+2006008030250,咲耶,"アナタが来てくれるなら
+私は必ず待っているよ","If you will be there for me, then I will wait for you,
+without fail."
+2006008030260,咲耶,"だから、私がどこにいても……
+アナタはまっすぐに、私のもとへ辿り着いて欲しいな","So, wherever I may be...
+I hope you find your way right to me."
+0000000000000,,★選択肢③【咲耶を待たせてるからな】,★選択肢③【咲耶を待たせてるからな】
+0000000000000,プロデューサー,咲耶を待たせてるからな,I'm making you wait.
+2006008030270,咲耶,フフ、それは光栄だね,"Fufu, what an honor it is."
+2006008030280,咲耶,"では、アナタが来た時には完璧に仕事を終えている……
+なんてことをして、アナタを驚かせようか","And then, when you do arrive, you will have
+carried out your task to perfection...
+What surprise shall I bestow upon you?"
+0000000000000,プロデューサー,"ええっ？
+まさか、流石に咲耶でも……","Huh?
+I mean, I know you're being you, but..."
+2006008030290,咲耶,クス。そこまで驚いてくれると言った甲斐があるな,Heh. Your surprise shall be its own reward.
+0000000000000,プロデューサー,じょ、冗談か……,I-Is this a joke...?
+2006008030300,咲耶,"フフ、
+さすがにそれは、私でも実現できそうにないからね","Fufu, and just as well, for I doubt I could even
+bring such events into reality."
+2006008030310,咲耶,"だけど、アナタが着いた時には
+仕事がスムーズに進むよう、努めておくよ","Either way, once you do arrive, I'll do all I can to
+ensure that this work will go smoothly."
+0000000000000,プロデューサー,ああ、助かるよ,"Thanks, you're a life-saver."
+2006008030320,咲耶,いや、お礼を言うのは私の方さ,"Hardly, the thanks are mine to give here."
+2006008030330,咲耶,"アナタの言葉のおかげで、
+アナタを待つ間も安心して仕事を進めていられそうだ","Thanks to your words, I'll be able to carry out my
+work in peace as I await your arrival."
+2006008030340,咲耶,"私が待っていると言えば
+アナタは必ず来てくれる……","That long as I say I'll wait for you, you will most
+assuredly come to me..."
+2006008030350,咲耶,フフ、なんだかとても、幸せな気分になれたよ,"Fufu, such joy I've been made to feel."
+info,produce_events/200600803.json,
+Translator,K,

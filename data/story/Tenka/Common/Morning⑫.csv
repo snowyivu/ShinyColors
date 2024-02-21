@@ -1,43 +1,43 @@
 id,name,text,trans
 1015001001210010,甜花,"プロデューサーさん……
-甜花、おしゃべりの……練習したいんだけど……","Producer...
-Tenka wants to have training... On speaking..."
+甜花、おしゃべりの……練習したいんだけど……","Producer-san......
+Tenka wants some... talking practice......"
 0000000000000,プロデューサー,"おしゃべり？
-トークの練習ってことか？","Speaking?
-Practicing your talking, I assume?"
+トークの練習ってことか？","Talking?
+Like, talking with the audience?"
 1015001001210020,甜花,"えっと……お仕事もそうだけど……
-も、もう少し……他の人とも、話せたらなって……","Well...  The work is fine...
-B-but for a little bit... If only Tenka, could talk to others as well..."
+も、もう少し……他の人とも、話せたらなって……","Well...... talking during work too......
+B-But...... Tenka wants to... talk with others normally too......"
 0000000000000,プロデューサー,"そういうことか
-なら……","It's about that, huh.
-Well then..."
-select,,とことん付き合うぞ,"I'll help you
-with that."
+なら……","So that's what you meant...
+In that case..."
+select,,とことん付き合うぞ,"I'll guide you
+all the way"
 select,,"事務所のみんなと
-話してみたら？","Why don't we
-try talking
-to everyone 
-in the office?"
-select,,外の人に声をかける,"Try talk to
-people outside."
+話してみたら？","What if you
+talked to
+everyone here?"
+select,,外の人に声をかける,"Talk to people
+outside"
 1015001001210030,甜花,"にへへ……ありがとう
-プロデューサーさん、優しいね……","Nihehe... Thank you.
-You're really kind."
+プロデューサーさん、優しいね……","Nihehe... Thanks.
+You're so kind, Producer-san......"
 1015001001210040,甜花,"じゃあ……えっと……
-い、いい天気でしゅ、ね！　……あう……","Well... Umm...
-Th-the weather ish nice, ishn't it! ...Awh..."
+い、いい天気でしゅ、ね！　……あう……","Well...... Umm......
+Th-the weather is nice today, ishn't it! ......Auu......"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1015001001210050,甜花,"うん……
-事務所のみんなは……優しいから、平気……","Yes...
-Everyone in the office... Is really kind, so it's fine..."
+事務所のみんなは……優しいから、平気……","Yes...... Everyone in the office is... really kind......
+So she'll be fine......"
 1015001001210060,甜花,"にへへ……
 プロデューサーさん……ありがと……","Nihehe...
-Producer... Thank you..."
+Thanks...... Producer-san......"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1015001001210070,甜花,え……？　いきなり、知らない人と……話すの……？,Eh? Talking so suddenly... To strangers...?
+1015001001210070,甜花,え……？　いきなり、知らない人と……話すの……？,"Wha......? Just... going up to random people......
+And talking to them......?"
 1015001001210080,甜花,"あうう……
-甜花には……まだ、無理……だと思う……","Awh...
-That's impossible... For Tenka..."
+甜花には……まだ、無理……だと思う……","Auu...
+Tenka still...... can't really do something... like that......"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101500100121.json,
 Translator,,

@@ -1,16 +1,21 @@
 id,name,text,trans
 0000000000000,プロデューサー,お、今日はなんだかうれしそうだな、果穂,"Oh, you look happy about something today, Kaho."
 1009001000710010,果穂,"はいっプロデューサーさん！
-体育のときに、先生にダンスを褒められたんです！",Yeah Producer-san! My teacher complimented my dancing during P.E.!
+体育のときに、先生にダンスを褒められたんです！","Yes, Producer-san!
+My teacher praised my dancing during P.E.!"
 1009001000710020,果穂,えへへ、レッスンを頑張ってて良かったです！,"Ehehe, I'm glad I tried my hardest in lessons!"
 0000000000000,プロデューサー,そうだな。それだけ頑張ってるんなら……,That's right. If you try your hardest...
 select,,"どんどん
-上手くなりそうだな","You'll just keep getting better and better. "
+上手くなりそうだな","You'll just keep
+getting better
+and better. "
 select,,"誰かに教えることも
-できるんじゃないか",You'll be able to teach someone.
+できるんじゃないか","You'll be able
+to teach someone."
 select,,"もっと
 褒めてもらえるように
-なろうな！",You'll get more and more praises!
+なろうな！","You'll get more
+and more praises!"
 1009001000710030,果穂,"えへへっ、先生にも言われました！
 プロデューサーさんも、そう思ってくれますか？","Ehehe, my teacher said the same thing! You think so too, Producer-san?"
 1009001000710040,果穂,"あたし、もっとレッスン頑張って、
@@ -18,15 +23,16 @@ select,,"もっと
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1009001000710050,果穂,"そうなんです！
 同じ班の子が教えてほしいって言ってくれました！","That's right! 
-A girl from the same group asked me to teach her!"
+A girl from my group asked me to teach her!"
 1009001000710060,果穂,"いつも教えてもらってるあたしが教えるなんて、
-不思議で、ちょっと照れちゃいました。えへへ","Me who is always being taught is asked to teach,
-it feels strange, I'm a little embarrassed. Ehehe."
+不思議で、ちょっと照れちゃいました。えへへ","I've always been the student, but suddenly
+I became the teacher.
+It felt a little strange and embarrassing. Ehehe."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1009001000710070,果穂,"はい！　あ、でもその後のかけっこでは、
 １番になれなかったんです","Yeah! Ah, but in the race afterwards, I didn't get 
 the first place."
 1009001000710080,果穂,だからもっと、足も速くなりたいなって思います,"That's why, I want to be even more faster."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100900100071.json,
 Translator,Maribel,

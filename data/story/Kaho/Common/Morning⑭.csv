@@ -2,40 +2,39 @@ id,name,text,trans
 1009001001410010,果穂,おはようございます、プロデューサーさん！,"Good morning, Producer-san!"
 0000000000000,プロデューサー,おはよう、果穂。こんな朝早くから何してるんだ？,"Morning, Kaho. What's up this early in the morning?"
 1009001001410020,果穂,"はい！　ユニットのみんながいつ来てもいいように、
-いろいろ準備してるんです！","Yes! So that everyone in the unit can come anytime,
-I'm making various preparations!"
+いろいろ準備してるんです！","Yes! I'm getting stuff ready so that everyone in
+my unit can come anytime!"
 0000000000000,プロデューサー,"（見えないところでも、仲間のことを
-考えてるんだな、果穂は……）","(Even when no one sees, she still thinks of her
-friends, Kaho is...)"
+考えてるんだな、果穂は……）","(Even when no one is looking, Kaho still cares for
+her friends...)"
 select,,"果穂がいてくれると
 安心できるな","Kaho being here 
-makes me feel relieved."
+makes me feel
+relieved."
 select,,"仲間を
 陰から支えるなんて
-かっこいいな","To support
-your friends from the back
+かっこいいな","Supporting your
+friends from behind
 is so cool."
 select,,"みんなが来るまでに
-疲れるかも","You'll be tired by the time 
+疲れるかも","You'll be tired
+by the time 
 everyone arrives."
 1009001001410030,果穂,"えへへ。プロデューサーさんにそう言ってもらえると、
 とってもうれしいです！","Ehehe. Producer-san saying it,
 is making me really happy!"
 1009001001410040,果穂,"これからも、みんなとプロデューサーさんのために、
-頑張ります！","From now on, for everyone and Producer-san,
-I will do my best!"
+頑張ります！","From now on, I will do my best for everyone and Producer-san!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1009001001410050,果穂,えへへ。これくらいなんてことないです！,Ehehe. This much is nothing!
 1009001001410060,果穂,"仲間のみんなが戦いやすくするのも、
-ユニットのレッドの使命ですから！","To make it easier for his comrades to fight, 
-It's the mission of the unit's Red too!"
+ユニットのレッドの使命ですから！","It's just another duty of the unit's Red to make it
+easier for her comrades to fight. "
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1009001001410070,果穂,"うーん。そういえば、みんなが来るまで
-まだ時間があります……","Hmm. Come to think of it, until everyone comes
-there are still time."
+まだ時間があります……",Hmm. You're right. It'll be a while before they get here...
 1009001001410080,果穂,"でもでも、遅くなるより早すぎるほうが
-いいですよね？","But but, rather than being late it's better to be
-early, right?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+いいですよね？","But but, being early is better than being late, right?"
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100900100141.json,
 Translator,Maribel,

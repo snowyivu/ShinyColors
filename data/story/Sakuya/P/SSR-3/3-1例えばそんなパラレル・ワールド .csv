@@ -1,0 +1,163 @@
+id,name,text,trans
+2006008010010,咲耶,"……プロデューサー
+フィッティング、終わったよ","...Producer, I'm done with my fitting."
+0000000000000,プロデューサー,"ああ……
+着た感じはどうだ？",Ah... How's it feel to wear?
+2006008010020,咲耶,"この通り、ピッタリだよ
+どうだい？　この衣装は","As you can see, simply perfect.
+What do you have to say?
+About this outfit, that is."
+0000000000000,プロデューサー,"うん、よく似合ってるよ
+さすが咲耶、上手く着こなしてるな","Well, it looks great on you.
+You wear it well, like you always do."
+2006008010030,咲耶,アナタにそう言ってもらえてよかったよ、フフ,"I'm glad to hear that coming from you, fufu."
+0000000000000,プロデューサー,"咲耶、なんだか楽しそうだな
+よっぽどその衣装が気に入ったのか？","Seems like you're in a pretty good mood.
+Have you taken quite the liking to that outfit?"
+2006008010040,咲耶,おや、気付かれてしまったかい？,"Oh, so you noticed?"
+0000000000000,咲耶,フフ……そうだね。きっと、この衣装のおかげかな,"Fufu... I suppose I have.
+I imagine the outfit played a major part in it."
+2006008010050,咲耶,"鏡の前に立った瞬間、
+そこにいるのが自分じゃないような錯覚に陥ったよ","The very moment I stood in front of the mirror,
+I fell for the illusion that it was not myself there."
+2006008010060,咲耶,"私ではない、違う私を見ている……
+そんな気がするんだ","I wasn't seeing me, but rather a different me...
+That's how it felt."
+0000000000000,プロデューサー,"モデルの時だって、
+色んな衣装を着ていたんじゃないのか？","Haven't you worn all sorts of outfits, even during
+your modeling days?"
+2006008010070,咲耶,"もちろん、モデルとして様々な衣装に
+袖を通すのは楽しかったよ","Of course I have, and it was always enjoyable
+putting on different outfits as a model."
+2006008010080,咲耶,"スポーティーな私、エレガントな私……
+色々な自分に変身できたからね","Whether a sporty me, or an elegant me...
+I'd been able to transform into so many
+versions of myself."
+2006008010090,咲耶,"けれど……
+この衣装は、少し特別なんだよ","Even then...
+There's something special about this outfit."
+0000000000000,プロデューサー,"確かに……
+モデル仕事で着る服とは少し、違うかもしれないけど……","There sure is...
+It IS a bit different from the sorts of things that
+you'd wear for modeling work..."
+2006008010100,咲耶,フフ、もうわかってるじゃないか,"Fufu, you already knew, huh?"
+2006008010110,咲耶,"この衣装を着ていると、なんだか……
+違う世界の住人になったかのような気持ちになれるんだ","When I put this outfit on...
+I feel like I'm living in a different world."
+2006008010120,咲耶,"アナタがプロデュースする、アンティーカの世界……
+……アナタが生み出した世界の、ね","The world of L'Antica, a world produced by you...
+...A world made by your hand, that is."
+0000000000000,プロデューサー,"なるほど……
+咲耶らしいな","Ah, I see...
+A very Sakuya way to put it."
+2006008010130,咲耶,"フフ、アナタの生み出した世界で
+私はどんなふうに生きているのだろう","Fufu, I do wonder about the life I'd lead,
+living in that world you'd made."
+2006008010140,咲耶,"恋鐘、摩美々、結華、霧子も……きっとそれぞれが、
+アナタの世界で『自分らしく』生きているはずだ","Likewise for Kogane, Mamimi, Yuika, and Kiriko...
+I would certainly imagine they too live life ""their 
+own way"" within this world of yours."
+0000000000000,プロデューサー,ああ、きっとそうだろうな,"Yeah, I'm sure they do too."
+2006008010150,咲耶,"そして……その世界で、
+私はどのようにアナタと出会うのだろうね","And then... One must wonder how I might come to
+meet you in that world."
+0000000000000,プロデューサー,えっ、俺も居るのか？,"Huh, I'm there too?"
+2006008010160,咲耶,もちろん。私たちの世界の生みの親だからね,"But of course. You're the one who created this 
+world of ours, after all."
+2006008010170,咲耶,"私とアナタはどんな世界でも出会えるはずだと、
+そう私は信じているよ","No matter the world, I do believe that you and I
+would be able to meet."
+2006008010180,咲耶,"あの日出会えたように……
+運命のように、必然のように……","Like how we met that one day...
+As if it were fated, as if it were inevitable..."
+select,,またスカウトするかもな,"Would I
+scout you
+once more?"
+select,,気付けるかな？,"Would you
+notice?"
+select,,今度は違う関係かもな,"Would our
+relationship
+be different?"
+0000000000000,,★選択肢①【またスカウトするかもな】,★選択肢①【またスカウトするかもな】
+0000000000000,プロデューサー,またスカウトするかもな,Would I scout you once more?
+2006008010190,咲耶,"そうだね……
+それはとても素晴らしい","Perhaps...
+That would be quite wonderful, indeed."
+2006008010200,咲耶,"アナタは、きっと私を見つけてくれる……
+私の中に眠るものを、呼び覚ましてくれる","You would most certainly find me...
+And awaken what lies dormant within me."
+0000000000000,プロデューサー,はは、随分期待してくれてるんだな,"Haha, expecting a lot out of me there, huh?"
+2006008010210,咲耶,期待じゃないよ、信頼さ,"I do not expect, I trust."
+2006008010220,咲耶,"そして私は……どこにいても、どんなアナタでも、
+迷わずにその手を取るだろう","And so... Wherever I may be, whoever you may be,
+I will take your hand without hesitation."
+2006008010230,咲耶,"どんな世界でも、何度生まれ変わっても、
+私とアナタはこうやって出会うんだ","No matter the world, no matter how many times
+I am reborn, this is how you and I shall meet."
+2006008010240,咲耶,"そして私は、何度だって
+アナタに連れて行ってもらう","Time and time again, I'll have you to take me away."
+2006008010250,咲耶,"それまでと違う、夢のような、幻のような──
+そんな美しい世界へとね","To a different world, one dreamlike, illusory──
+A beautiful world indeed."
+0000000000000,,★選択肢②【気付けるかな？】,★選択肢②【気付けるかな？】
+0000000000000,プロデューサー,気付けるかな？,Would you notice?
+2006008010260,咲耶,気付いてみせるよ,"I will, you'll see."
+2006008010270,咲耶,"どこにいても、どんな世界でも
+私はアナタのことを、必ず……","Wherever I may be, whatever world we're in,
+I'm certain that I'll notice you..."
+2006008010280,咲耶,"それに……きっとアナタも、気付いてくれる
+あの日、私に声をかけてくれたように……","Furthermore... I'm certain you'll notice me as well,
+just like when you called out to me on that day..."
+2006008010290,咲耶,"世界が変わっても、アナタは私を
+何度だって見付けてくれる","Though the world may change, still you'll find me,
+time and time again."
+2006008010300,咲耶,"フフ……
+そう思うのは、私の自惚れかもしれないね","Fufu...
+Perhaps my pride spurred those thoughts on."
+0000000000000,プロデューサー,"いや……そんなことはない
+俺だってきっと、咲耶を探し出してみせるさ","Nah... I wouldn't call it that.
+I'm sure I'd search you out too."
+0000000000000,プロデューサー,咲耶の輝きは、特別だからな,"There's a special brilliance to you, Sakuya."
+2006008010310,咲耶,"フフ。それなら、アナタときちんと出会えるよう
+どんな世界でも励んでおかないとね","Fufu. Then whatever world I'm in, I'll have to put in
+effort of my own so we may meet accordingly."
+2006008010320,咲耶,"アナタに見つけてもらえるような輝きを放つ
+『私』であるように……","I hope that I can shine brightly enough for you to
+find ""me""..."
+0000000000000,,★選択肢③【今度は違う関係かもな】,★選択肢③【今度は違う関係かもな】
+0000000000000,プロデューサー,今度は違う関係かもな,Would our relationship be different?
+2006008010330,咲耶,おや、それは面白い発想だね,"Oh, a most curious idea, that."
+2006008010340,咲耶,"アイドルとプロデューサー以外の関係か……
+違う世界ならば、そんなこともあるかもしれない","A relationship other than one of idol and producer?
+In another world, that very well could be the case."
+2006008010350,咲耶,"フフ、その世界で私たちはどんなふうに出会うのかな
+そして、どんな関係を築いていくのだろう……","Fufu, I wonder how we might meet in such a world.
+What sort of relationship would we form..."
+0000000000000,プロデューサー,いろんな可能性があるだろうな,"There'd be plenty of possibilities, I imagine."
+2006008010360,咲耶,そうだね。様々な可能性が秘められているよ,Indeed. The possibilities that lie in wait are many.
+2006008010370,咲耶,"私がプロデューサーで、プロデューサーがアイドル
+そんなこともあるかもしれないね","Perhaps one would have me as a producer, and you
+as an idol."
+0000000000000,プロデューサー,お、俺がアイドルなのか？,"M-Me, an idol?"
+2006008010380,咲耶,クス。可能性のひとつだよ,Heh. That is but one possibility.
+2006008010390,咲耶,"それだけじゃない。アナタが教師で私が生徒だったり、
+私がアスリートでアナタがコーチだったり……","But it is not the only one. One could have you as
+a teacher and me as a student, or me as an
+athlete and you as a coach..."
+2006008010400,咲耶,"フフ、実際にはありえないけれど
+こんなふうに考えてみるのも、楽しいものだね","Fufu, though perhaps impossible in reality,
+these thoughts are worth entertaining, yes?"
+0000000000000,プロデューサー,"そうだな……でもそんな世界で
+俺と咲耶はどう関わっているんだろうな","I'd say so... But in those worlds, how would you and
+I influence one another?"
+2006008010410,咲耶,それを想像するのも楽しみのひとつさ,Imagining that is simply part of the fun.
+2006008010420,咲耶,"けど……どんな関係でも、
+きっとこれだけは決まっている","Though... No matter the relationship we may have,
+I know one thing will remain certain."
+2006008010430,咲耶,アナタは、私にとっての『特別』だということ……,"You are ""special""  to me..."
+2006008010440,咲耶,"どんな世界でも、どのような関係でも
+アナタはそんな存在になると、私は確信しているよ","No matter the world we may be in, no matter the
+relationship we may have, I am convinced that this
+is what you will be to me."
+info,produce_events/200600801.json,
+Translator,K,

@@ -6,7 +6,7 @@ id,name,text,trans
 無人島にひとつだけお菓子を持って行くなら何にします？","Of course! By the way, what would you bring?
 If you had to choose one sweet to bring with you, what would it be?"
 0000000000000,プロデューサー,そうだなぁ……,Let's see...
-select,,甘いチョコ,Sweet chocolate
+select,,甘いチョコ,Sweet chocolate.
 select,,かなり悩むな,"I feel very
 troubled."
 select,,"お菓子じゃなきゃ、

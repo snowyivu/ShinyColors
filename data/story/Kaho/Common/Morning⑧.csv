@@ -5,21 +5,22 @@ id,name,text,trans
 0000000000000,プロデューサー,"（『ジャスティスV』……
 果穂の好きな特撮番組だな）","(""Justice V""...
 It's Kaho's favorite tokusatsu show, huh.)"
-select,,すごい回だったな！,"Yeah, it was a great episode!"
+select,,すごい回だったな！,"Yeah, it was
+a great episode!"
 select,,"録画したが
 まだ見てないんだ","I recorded it,
-but I haven't watched it yet."
+but I haven't
+watched it yet."
 select,,見逃しちゃったんだ,I missed it.
 1009001000810030,果穂,"そうなんですっ！　レッドが……
-まさかあんな展開になるなんて思いませんでした！","That's right! Red is...
-I didn't think that it would develop that way!"
+まさかあんな展開になるなんて思いませんでした！","So true!
+I didn't think that would happen to Red...!"
 1009001000810040,果穂,"うーーー……！
 このあとのお話がスゴく気になります！","Uuugh...!
 I am sooo curious about the story after this!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1009001000810050,果穂,"そうなんですね！　じゃあ、あんまり内容を
-話さないようにしておきます","I see! Then, I will try to not spoil the content 
-of the story too much."
+話さないようにしておきます","I see! Then, I will try to not spoil the story too much."
 1009001000810060,果穂,"でも、とにかくスゴい回だったので、
 楽しみにしていてくださいね！","But anyway, it was such a great episode,
 please look forward to it!"
@@ -28,7 +29,7 @@ please look forward to it!"
 スゴく大事な回だったんですよー","Is that so...
 It was an important episode, you know."
 1009001000810080,果穂,"でも、見逃しちゃったんだったら、
-仕方ないですよね","But if you missed it, then it can't be helped."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
+仕方ないですよね","But if you missed it, oh well..."
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100900100081.json,
 Translator,Maribel,

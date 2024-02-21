@@ -1,0 +1,199 @@
+id,name,text,trans
+2007014010010,結華,…………,......
+2007014010020,結華,…………,......
+0000000000000,プロデューサー,（……すごい真剣だな）,(She's looking real intense there.)
+2007014010030,結華,……？,...?
+2007014010040,結華,どうかした？,What is it?
+0000000000000,プロデューサー,"あ、いや、たいしたことじゃ──
+すごい打ってるなと思って","Oh, nah. It's nothing.
+Just admiring how focused you look."
+0000000000000,プロデューサー,邪魔してすまん,Sorry to distract you.
+2007014010050,結華,あは、邪魔とかは全然,"Haha, you're not bothering me, though."
+2007014010060,結華,"ほら、この間もらった企画の台詞
+いい感じにまとまんなくてさぁ","Look... See what I have to work with here?
+I'm struggling to put a decent line out."
+0000000000000,プロデューサー,ああ、電話風メッセージか？,"Oh, for this voicemail campaign?"
+2007014010070,結華,そうそう,Yup.
+0000000000000,プロデューサー,……,......
+0000000000000,企画書,『販促キャンペーン制作物：電話風メッセージ動画』,Campaign Promotion: Video Voicemail
+0000000000000,企画書,"『疲労回復アイテムであるホットアイマスクにちなみ、
+日々の疲れを癒すような内容』","To help sell the idea that our heated eye mask
+product is for relieving stress, the content of
+the video should also aim to relieve stress."
+0000000000000,企画書,"『ファンの満足度を高めるため、
+恋人からの電話のような雰囲気にて』","To appeal to fans, the content of the video should
+be like that of a phone call from a romantic partner."
+0000000000000,プロデューサー,"……
+最初は、『こんばんは、お仕事お疲れ様』とか……？","So can't you lead with something like ""good evening""
+or a ""good job at work""?"
+2007014010080,結華,え？,Hmm?
+0000000000000,プロデューサー,メッセージの内容……のつもりなんだけど……,Something like that for your message...
+2007014010090,結華,"ああ！
+ふふっ、ぶぶー","Ohhh!
+Hehehe, bzzt!"
+0000000000000,プロデューサー,えっ,Hmm?
+0000000000000,プロデューサー,"──って、そりゃそうか
+これくらいは言われなくても思いついてるよな……","──But even you would have thought of something
+like that, so why?"
+2007014010100,結華,ぶぶー,Bzzt!
+0000000000000,プロデューサー,えっ？,Whaaa?
+2007014010110,結華,三峰は内容にダメ出しをしています,Mitsumine has some critiques.
+2007014010120,結華,"『こんばんは』
+お客さんが夜以外に聞いたらどうする？","What if they hear ""good evening"" when it isn't
+night time?"
+0000000000000,プロデューサー,あ,Oh.
+2007014010130,結華,"『お仕事お疲れ様』
+バイトがあるかもだけど、弾かれちゃう学生さんもいるよね","Also, not everyone works a job. Students may work
+part-time, but most don't work in general.
+So ""good job at work"" doesn't fit."
+2007014010140,結華,"かと言って～？　シチュエーションを限定する文言を
+避けまくると、非常に薄味な仕上がりになる","See what happens when I say all that? It'll just limit the
+situation. And if I ignore those phrases altogether,
+it'll just end up sounding bland."
+2007014010150,結華,塩梅が難しいわけですよ……,"That's my problem here. It's hard to find the
+perfect balance..."
+0000000000000,プロデューサー,……なるほど,I see now...
+2007014010160,結華,"もともとはこういうの、聞く側だったじゃん？
+どれだけ元気もらえるかわかってるから、手は抜けないよね","Y'know, I've been on the receiving end of stuff like
+this many times. I know personally just how much
+it can cheer you up, so I want to get this right."
+0000000000000,プロデューサー,……そうだな,...I understand.
+select,,"そういう経験が
+あるからこそ","Since you know
+exactly how
+it felt..."
+select,,"……それだけ
+考えてくれてたら","Well if you're
+giving it that
+much thought..."
+select,,"どういうのが
+嬉しかった？","So what did
+you like to hear?"
+0000000000000,プロデューサー,結華のメッセージは、みんなに刺さりそうだな,"...then I'm sure your message will resonate with
+everyone."
+2007014010170,結華,はいプレッシャー,"Yeesh, that's a tall order there."
+2007014010180,結華,"言われて嬉しいことは……まぁ、想像しやすいかもだけど
+実際それだけじゃないじゃん？","But I'm glad to hear that from you. I can picture how
+it'll turn out, but... I think there should be a bit more
+than just that?"
+2007014010190,結華,"正直こっちサイドに来るまで知らなかったよね
+なんていうかこう……企業側への配慮というか","Honestly, it didn't dawn on me until doing this, but
+it feels like the company's expecting something more
+out of this..."
+2007014010200,結華,"今回は別に言われてないけど……
+商品推した方がいいのかな？　みたいな葛藤","Like, maybe help getting the word out for their
+product? They didn't specify it in the prompt,
+though... So I don't know."
+0000000000000,プロデューサー,……まぁ、そこも塩梅は難しいよな,Yeah... It's a tough situation to be in...
+0000000000000,プロデューサー,それこそ一番冷めるところだろうし,"And that can be the very thing that makes it less
+exciting..."
+2007014010210,結華,それー,Exactly!
+2007014010220,結華,……これはちょっとやりすぎかなぁ？,I wonder if this is doing too much...?
+2007014010230,結華,"『あーんごめん急に電話して！
+うち寄る前にさ、ホットアイマスク買ってくれない？』","""Uh, sorry for calling all of a sudden! But mind picking
+up a heated eye mask on the way?"""
+2007014010240,結華,"『……うん、そう！　いつも使ってるやつ！
+……助かる～！　あれ使うと安眠度合いが違うんだよねぇ』","""...Yes. That's the one! Yeah, the one I always use!
+Nice! You saved me from having another sleepless
+night!"""
+2007014010250,結華,"『んふふ、じゃあ待ってるから！　──違うって、
+アイマスクだけじゃなくてそっちのことも♡』","""Heh! Kay, I'll be waiting! ──Hey, the mask isn't all I'm
+waiting for... I'm waiting for you too♡"""
+2007014010260,結華,"『忘れちゃった？
+今日は頑張ってご飯作るって言ったじゃん』","""Did you forget already? I told you that I'll be going
+all-out on cooking today!"""
+2007014010270,結華,"『おつかいの分と……毎日たーくさん頑張ってる分
+絶品──ではないかもだけど、三峰のご飯で労ったげる』","""Even if it's not the best, you deserve a taste of
+Mitsumine's home cooking for all the work you've
+been doing."""
+2007014010280,結華,"『そういうことだから、おつかい後は寄り道なしで
+来てよねー？　……ふふ、またあとで！』","""So come straight here after you pick up my mask,
+got it? ...Ehehe, can't wait to see the look on your
+face!"""
+0000000000000,プロデューサー,メッセージ聞くだけで満足しそうだな,"I personally think the fans will be happy listening
+to whatever message you come up with."
+2007014010290,結華,それは裏側を知ってるＰたん限定の感想です～,"P-tan, you can only say that because you know
+a lot more than the fans do~"
+0000000000000,プロデューサー,はは、確かに,"Haha, I guess you're right."
+2007014010300,結華,"三峰は恋人、三峰は恋人……
+恋人を癒す、恋人を癒す……","Mitsumine... is someone's girlfriend...
+A girlfriend... healing the one she loves..."
+0000000000000,プロデューサー,いいの浮かびそうか？,Did you come up with something?
+2007014010310,結華,"……なんかこの流れだと
+三峰の思う対恋人モードを晒すみたいでちょっとやだね","At this rate... It feels like Mitsumine will expose how
+she's like as a girlfriend. And I don't like it."
+2007014010320,結華,聞いてくれた人もそう思うんだろうなぁ……,I'm pretty sure people will pick it up after listening...
+0000000000000,プロデューサー,"……
+そういう恥ずかしさもあるよな",".......
+I can see how embarrassing that can be..."
+2007014010330,結華,"あくまで作りものですから
+Ｐたんはそこんとこ、肝に銘じて確認するように","Well, it'll be taken as an act anyway. Be sure you keep
+that in mind when you look it over, P-tan."
+2007014010340,結華,"『もしもーし？　お疲れお疲れ、今大丈夫？
+……うん、ふふ。ありがと！』","""Hellooo? Hey, is now a good time?
+.....Ooo, hehe! Sweet!"""
+2007014010350,結華,"『特に用事はないんだけどさぁ……
+声が聞きたくなっちゃった的な？』","""No, I don't really have a reason for calling... other
+than... I guess, I just wanted to hear your voice?"""
+2007014010360,結華,"『えへへ、珍しいでしょ。知ってる
+たまにはこういう三峰も出てくるわけですよ』","""Hehehe, I know. It's rare coming from me, huh?
+Well even Mitsumine gets like this sometimes."""
+2007014010370,結華,"『まぁ、当然誰にでもってわけじゃないけど
+──それは知ってくれてるでしょ？』","""Hey, I won't be like this to just anyone, but you
+know that already, huh?"""
+2007014010380,結華,"『……うん。元気出た。そっちも何かあったら──
+や、何もなくても。遠慮なく甘えてくれていいからね』","""...Yeah, I'm fine now, thanks. But hey, if anything
+comes up... even if it's nothing at all... I want to
+keep relying on you, okay?"
+2007014010390,結華,"『じゃ、明日も頑張ります！
+そっちもファイトだよ！　ばいばーい！』","""Welp, I got the energy needed for tomorrow!
+You keep it up too, alright? Bye-bye!"""
+2007014010400,結華,"んー……
+やっぱり、その人っぽい内容の、かな","Hmm... Definitely something that matches
+up with what the person in question would say."
+2007014010410,結華,"生身でもキャラクターでも
+こういう企画って結構あるじゃん？","Stuff like this have been done with IRL people
+or with fictional characters before."
+2007014010420,結華,"二次元三次元問わず、
+推しが関わってる企画は何度も見てきたけど","I've seen plenty of times where my favorite idols
+and characters did this very same thing too."
+2007014010430,結華,"『これほんとに言うかなー？』みたいな台詞言わされてると
+申し訳なくなったよね……","Though, I always felt bad when these campaigns had
+them say lines that they probably wouldn't actually
+say..."
+0000000000000,プロデューサー,"あー……企画の趣旨を優先しすぎて、
+あまりにも本人なら言わない台詞が出てくると","Hmm, I get it. It can end up looking like it's not
+genuine if you're trying to match the prompt..."
+2007014010440,結華,"そ！
+萎えるってか冷めるってか、まぁ、うん……","Yeah! The thought of that happening sounds...
+pretty discouraging... Like... Hmm..."
+2007014010450,結華,──ということで,──Anyways!
+2007014010460,結華,"普段の三峰っぽいんじゃない？　のテイストで
+先方のオーダーにそってみました！　ご確認ください！","All they want is a taste of the classic Mitsumine,
+right? Might as well cater to what they're looking
+for! Be sure to take a look!"
+2007014010470,結華,"『もしもーし、こちらお客様の彼女の結華でーす
+お疲れな気配を察知したので、お電話差し上げました』","""Hey, well if it isn't your friendly neighborhood
+girlfriend, Mitsumine! I've heard you've been working
+a sweat back there, so I decided to call you."""
+2007014010480,結華,"『──なんで知ってるのかって～？　それは企業秘密♡
+そんなことよりほら、よく聞いて？』","""───How did I know, you ask? Well that's a trade
+secret♡ So why don't you focus on me instead?"""
+2007014010490,結華,"『毎日やらなきゃいけないことと戦ってて
+めちゃめちゃ偉い！　すっごーく頑張ってる！』","""It makes me happy knowing just how much effort
+you've been putting in each and every day! I'm proud
+of you!"""
+2007014010500,結華,"『……うん？　誰かに褒めてもらいたいタイミングかなって
+それは私の仕事でしょ？』","""...Hmm? Well I thought it's a good time to celebrate
+what you've been up to. Aren't I doing a good job?"""
+0000000000000,スタッフ,"『アンティーカさん
+そろそろスタンバイお願いしまーす！』","""L'Antica, you're up next. So please be on standby!"""
+2007014010510,結華,"『──ああごめんもう休憩終わる……！
+また電話するから、今はこれで何卒……！』","""Oh shoot, looks like break time's over!
+I'll have to end it now, but I'll call you back later...!"""
+2007014010520,結華,"『もっとちゃんと話聞くし、なんなら会いに行くからさ
+またあとで。大好きだよ！』","""We've got plenty of time to sit down and talk after,
+and I'll see you in person even. Can't wait to see you!
+Okay, I love you! Bye!"""
+info,produce_events/200701401.json,
+Translator,Lewdacriz,

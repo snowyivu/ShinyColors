@@ -2095,16 +2095,16 @@ filter.texts.unreleased,未解放,
 filter.texts.aptitudes.musicStyle,楽曲適性,
 filter.texts.aptitudes.performance,パフォーマンス適性,
 filter.texts.aptitudes.environment,環境適性,
-filter.texts.costumeType.produceIdol,プロデュース\nアイドル衣装,
-filter.texts.costumeType.other,その他,
-filter.texts.mvIdol,MVあり,
+filter.texts.costumeType.produceIdol,プロデュース\nアイドル衣装,Produce\nIdol
+filter.texts.costumeType.other,その他,Other
+filter.texts.mvIdol,MVあり,With MV
 possessionLimit,所持上限数,
 characterAlbum.voiceType.home,ホームボイス,Home Voice
 characterAlbum.voiceType.idol,アイドルボイス,Idol Voice
 characterAlbum.voiceType.specialComment,スペシャルボイス,Special Voice
 characterAlbum.voiceType.produce,プロデュースボイス,Produce Voice
 characterAlbum.voiceType.touch,タッチボイス,Touch Voice
-characterAlbum.voiceType.characterTrustLevelComment,信頼度ボイス,
+characterAlbum.voiceType.characterTrustLevelComment,信頼度ボイス,Trust Voice
 characterAlbum.voiceType.mypageConversationComment,アイドル同士の会話,
 common.fesIdol,フェスアイドル,Fes Idol
 common.facilityItem,施設強化アイテム,
@@ -2251,8 +2251,8 @@ photo.option.bg,背景,BG
 photo.option.effect,エフェクト,Effect
 photo.option.frame,フレーム,Frame
 produceReady.produceAreaAttension.title,注意事項,
-shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,
-shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,
+shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,Train Pt
+shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,Match Live Pt
 shop.purchaseResult.expansionMessage,%{item}の所持上限を解放しました,
 shop.smallTabTitles.premium.beginners,新人P向け,
 shop.monthlyPassport.price,%{price}円,
