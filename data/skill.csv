@@ -194,6 +194,9 @@ Viレッスン,Vi Lesson,noun
 雛菜,Hinana,name
 にちか,Nichika,name
 美琴,Mikoto,name
+ルカ,Luca,name
+羽那,Hana,name
+はるき,Haruki,name
 櫻木 真乃,Mano,name
 風野 灯織,Hiori,name
 八宮 めぐる,Meguru,name
@@ -219,6 +222,9 @@ Viレッスン,Vi Lesson,noun
 市川 雛菜,Hinana,name
 七草 にちか,Nichika,name
 緋田 美琴,Mikoto,name
+斑鳩 ルカ,Luca,name
+鈴木 羽那,Hana,name
+郁田 はるき,Haruki,name
 [条件:リラックスが付与されている場合],[Condition: Under effects of Relax] ,
 リアクション回避率$percentUP,Reaction Chance $1UP,
 ダメージを受けるまで,Until Damaged,
