@@ -711,7 +711,6 @@ images/ui/produce_growth/parts_growth_list.json_image,growth_parts_growth_list.p
 images/ui/produce_ending/parts_know_how_book_reward.json_image,parts_know_how_book_reward.png,1
 images/ui/produce_ending/parts_ex_skill_reward.json_image,parts_ex_skill_reward.png,2
 images/ui/produce_auto_concert/parts.json_image,produce_auto_concert_parts.png,1
-images/ui/produce_action/gradation/parts_5th.json_image,gradation_parts_5th.png,1
 images/content/special_communications/buttons/50024/parts.json_image,images_content_special_communications_buttons_50024_parts.png,1
 images/ui/produce_action/parts_5th.json_image,parts_5th.png,2
 images/ui/produce_top/parts_5th.json_image,produce_top_parts_5th.png,1
@@ -733,6 +732,9 @@ images/content/produce_place_categories/place_name/00006.png,produce_place_categ
 images/content/produce_place_categories/place_name_mask/00006.png,produce_place_categories_place_name_mask_00006.png,1
 images/ui/produce_deck/parts_deck_know_how.json_image,produce_deck_parts_deck_know_how.png,2
 images/ui/produce_events/parts.json_image,produce_events_parts.png,1
+images/ui/trophy/trophy_pop_base.png,trophy_pop_base.png,1
+images/ui/common/parts_banner_list.json_image,common_parts_banner_list.png,1
+images/ui/produce_action/gradation/parts_action_table.json_image,gradation_parts_5th.png,1
 images/content/support_idols/name/121953fcf220a9f4bddff02179a37d78_2030100010.png,cards/chiyoko_s_sr_1.png,8
 images/content/support_idols/name/f1d94a586e49599c354c95a9e5bd91e6_2030020030.png,cards/hiori_s_sr_3.png,8
 images/content/idols/name/b38595f958abcc285d0eab78ea2b3b09_1030170020.png,cards/asahi_p_sr_2.png,3
