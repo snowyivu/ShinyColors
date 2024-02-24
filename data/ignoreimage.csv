@@ -23,6 +23,7 @@ images/content/enhancement_items/icon/001.png,8
 images/content/enhancement_items/icon/002.png,8
 images/content/enhancement_items/icon/003.png,8
 images/content/exchange_items/icon/005.png,4
+images/ui/common/parts_cb_plate.json_image,1
 images/content/effect_stamp_stars.png,8
 images/content/produce_items/icon/6a6fb127e371b10913c1462f31277a18_30001.png,4
 images/content/shop_merchandise_groups/cover/2691.png,1
@@ -44,6 +45,7 @@ staff_balloon.png,8
 images/ui/produce_common/parts_fan_meeting.json_image,4
 images/ui/cloth_change/parts.json_image,8
 images/ui/produce_event/parts_level_jump_up_effect.json_image,3
+images/ui/common/page_base.jpg,1
 images/ui/produce_common/parts.json_image,10
 images/ui/produce_countdown/parts.json_image,8
 images/event/log_text_frame/002.png,3
@@ -55,10 +57,10 @@ images/ui/fes/effects/button_shine.png,8
 images/ui/concert/parts_fan.json_image,3
 images/ui/concert/parts_attack_order.json_image,8
 images/ui/concert/parts_bg.json_image,11
-images/ui/concert/parts_effect.json_image,12
+images/ui/concert/parts_effect.json_image,13
 images/ui/idol_road/parts_flare.json_image,3
 particles/idol_road/images.json_image,3
-images/ui/common/parts_vertical_unit_tab.json_image,3
+images/ui/common/parts_vertical_unit_tab.json_image,4
 images/ui/idol_detail/parts_produce.json_image,8
 images/ui/produce_deck/parts_deck_select.json_image,8
 images/ui/produce_action/audition_banner_overlay.png,8
@@ -70,7 +72,7 @@ images/ui/raid_common/parts.json_image,4
 images/ui/common/parts_reward_table.json_image,4
 images/event/bg/00001.jpg,7
 particles/costume_change/images.json_image,7
-images/ui/produce_common/parts_inspiration.json_image,3
+images/ui/produce_common/parts_inspiration.json_image,4
 images/content/produce_area/description/003.png,3
 images/content/start/bg/26.jpg,2
 images/content/start/effect/25/particle_1.png,3
@@ -459,7 +461,7 @@ mob_pt_3.png,3
 particles/common/twinkle_side_2/twinkle.png,3
 particles/concert/num_twinkle/num_twinkle_1.png,3
 images/ui/raid_top/effect_parts.json_image,3
-images/ui/concert/parts_turn_number.json_image,3
+images/ui/concert/parts_turn_number.json_image,4
 particles/raid_top/images.json_image,3
 spine/idols/cb_costume/1040060010/data.json_atlas_page_data.png,8
 spine/idols/cb_costume/1040070010/data.json_atlas_page_data.png,7
@@ -1243,7 +1245,8 @@ images/content/characters/active_skill_silhouette/001.png,8
 images/content/characters/active_skill_silhouette/003.png,8
 images/bg/concert/grad_consolation_live_bg.jpg,2
 images/ui/concert/parts_number.json_image,12
-images/ui/concert/parts_text.json_image,10
+images/ui/concert/parts_text.json_image,12
+images/ui/concert/parts_music_video.json_image,1
 images/content/skill_effects/icon.json_image,16
 particles/concert/common/images.json_image,13
 images/ui/concert/parts_bg_effect_grad.json_image,2
