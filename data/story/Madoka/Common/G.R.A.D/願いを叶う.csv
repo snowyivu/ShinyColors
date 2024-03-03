@@ -1,59 +1,59 @@
 id,name,text,trans
 1021003090010,円香,哀れみ……,Compassion...
 1021003090020,円香,励まし……,Encouragement...
-0,プロデューサー,よかったなあ、CMの評判も上々で──,I'm glad that the commercial did well──
-0,プロデューサー,長時間の打ち合わせ、お疲れさま,Good job with the long meeting.
+0000000000000,プロデューサー,よかったなあ、CMの評判も上々で──,I'm glad that the commercial did well──
+0000000000000,プロデューサー,長時間の打ち合わせ、お疲れさま,Good job with the long meeting.
 1021003090030,円香,"お疲れさまでした
 この先のスケジュールを整理したいのですが","Thank you.
 I'd like to arrange the upcoming schedule though."
-0,プロデューサー,"ああ！　俺もそう思っていた
+0000000000000,プロデューサー,"ああ！　俺もそう思っていた
 駐車場に戻ったら──","Aah! I was thinking the same thing.
 We'll discuss once we get back to the car park──"
 1021003090040,円香,あ……,Ah...
-0,アイドル,あっ……,Ahh...
-0,アイドル,……１階で大丈夫ですかっ？,...1st floor?
-0,プロデューサー,はい、ありがとうございます,Yes please. Thanks.
-0,アイドル,いいえ！,You're welcome!
+0000000000000,アイドル,あっ……,Ahh...
+0000000000000,アイドル,……１階で大丈夫ですかっ？,...1st floor?
+0000000000000,プロデューサー,はい、ありがとうございます,Yes please. Thanks.
+0000000000000,アイドル,いいえ！,You're welcome!
 1021003090050,円香,尊敬……称賛……？　──違う、どれも失礼,"Respect... Admiration...? ──Wrong, both are
 inappropriate."
 1021003090060,円香,私はこの子になりたいとは思わない,I never thought I'd want to become like her.
 1021003090070,円香,なら優越感……いや──……,Then this sense of superiority... No──...
-0,アイドル,"あの……
+0000000000000,アイドル,"あの……
 この間はすみませんでした","Erm...
 I'm sorry for that time."
 1021003090080,円香,"え、いや
 あれは私が──","Eh, no.
 I'm the one who──"
-0,アイドル,"聞いてください！
+0000000000000,アイドル,"聞いてください！
 ──私、すぐに降りちゃうので","Please, hear me out!
 ──I, I'll be dropping out soon."
 1021003090090,円香,…………,......
-0,アイドル,樋口さんのことが好きでした,"I really liked you, Higuchi-san."
-0,アイドル,"凛々しくて、迷いがなくて……
+0000000000000,アイドル,樋口さんのことが好きでした,"I really liked you, Higuchi-san."
+0000000000000,アイドル,"凛々しくて、迷いがなくて……
 たくさんのことを知っていて……","Dignified and without hesitation...
 You know everything..."
-0,アイドル,だから、本当は少し嫌い、なんて……えへへ,"So much so, I hated it a little...
+0000000000000,アイドル,だから、本当は少し嫌い、なんて……えへへ,"So much so, I hated it a little...
 Just kidding... ehehe."
 1021003090100,円香,…………,......
-0,アイドル,──私、樋口さんに会えてよかった,"──I'm really glad I got to know you, Higuchi-san."
-0,アイドル,"あ、着いちゃいました……
+0000000000000,アイドル,──私、樋口さんに会えてよかった,"──I'm really glad I got to know you, Higuchi-san."
+0000000000000,アイドル,"あ、着いちゃいました……
 すみません、私はここで！","Ah, it's my stop...
 Sorry, I'll be getting off!"
-0,アイドル,これからも頑張ってください、樋口さん,"Please do your best, Higuchi-san."
-0,アイドル,──またどこかで！,──I hope to see you again!
+0000000000000,アイドル,これからも頑張ってください、樋口さん,"Please do your best, Higuchi-san."
+0000000000000,アイドル,──またどこかで！,──I hope to see you again!
 1021003090130,円香,……待って,...Wait.
 1021003090140,円香,あのね,Hey.
 1021003090150,円香,あなたの一歩は、軽くない,"That step you took, it isn't light at all."
 1021003090160,円香,とても重くて、力強い,"It has weight, and it is strong."
 1021003090170,円香,……頑張ろう。お互いに,...So let's do our best. The both of us.
-0,アイドル,──！,──!
-0,プロデューサー,…………,......
-0,プロデューサー,……伝えられたかな,...Hopefully you got it across.
+0000000000000,アイドル,──！,──!
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,……伝えられたかな,...Hopefully you got it across.
 1021003090180,円香,おかげさまで,Thanks to someone.
 1021003090190,円香,終わりも始まりも、同じように,"I'll be the same, at the start and at the end."
 1021003090200,円香,軽やかで,Lightly.
 1021003090210,円香,しかし,"But,"
 1021003090220,円香,行きましょう,let's just go.
-0,プロデューサー,よし,Alright.
+0000000000000,プロデューサー,よし,Alright.
 info,produce_events/102100309.json,
 Translator,Mycstea,

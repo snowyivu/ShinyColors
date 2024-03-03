@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,off,私の主人は吸血鬼だった,My master's a vampire.
-0000000000000,off,街中の人を殺めても、その飢えは満たされなかった──,"His thirst cannot be quenched even if he kills
-every person on the street."
+0000000000000,off,街中の人を殺めても、その飢えは満たされなかった──,"A thirst cannot be quenched even if every
+person in the city is killed."
 0000000000000,プロデューサー,"前衛的で実験的
 ……アヴァンギャルド、または","Experimental and groundbreaking, huh.
 ...also known as, avant-garde."
@@ -11,17 +11,17 @@ every person on the street."
 and not constrained by trappings of the
 business."
 0000000000000,プロデューサー,そういうものらしい,"Or something like that, apparently."
-2000000000000021000000000000013000000000000020000000000000000000000000010000000000000,円香,情熱的ですね,Passionate isn't it.
-2000000000000021000000000000013000000000000020000000000000000000000000020000000000000,円香,"私に表現するほどの熱意が
+2021013020010,円香,情熱的ですね,Passionate isn't it.
+2021013020020,円香,"私に表現するほどの熱意が
 あるかというと","To the point that I'm not sure I have the zeal
 to express it."
-2000000000000021000000000000013000000000000020000000000000000000000000030000000000000,円香,……あなたの方が、馴染みがあるのでは？,"...You seem familiar with something like
+2021013020030,円香,……あなたの方が、馴染みがあるのでは？,"...You seem familiar with something like
 this, no?"
-2000000000000021000000000000013000000000000020000000000000000000000000040000000000000,円香,"仮に、私がビジネスを度外視した活動がしたいと言ったら
+2021013020040,円香,"仮に、私がビジネスを度外視した活動がしたいと言ったら
 あなたは快く背中を押しますよね","Say I want to do something outside the scope
 of our business, you would have my back
 readily, wouldn't you?"
-2000000000000021000000000000013000000000000020000000000000000000000000050000000000000,円香,それがあなたの美学だから,Because that's your sort of aesthetic.
+2021013020050,円香,それがあなたの美学だから,Because that's your sort of aesthetic.
 0000000000000,プロデューサー,"俺の美学か……
 そうだな","My aesthetic, huh...
 I suppose it is."
@@ -29,16 +29,16 @@ I suppose it is."
 100年愛される存在になるようにサポートするよ","If it's what you would want, I will gladly
 support you so that you'll be loved for a
 100 years."
-2000000000000021000000000000013000000000000020000000000000000000000000060000000000000,円香,嫌なひと,You're such a destestable person.
-2000000000000021000000000000013000000000000020000000000000000000000000070000000000000,円香,…………,......
+2021013020060,円香,嫌なひと,You're such a destestable person.
+2021013020070,円香,…………,......
 0000000000000,プロデューサー,"……もう少しで到着するぞ
 俺は挨拶だけして一旦事務所に戻るから","...We'll be arriving in a bit.
 I'll drop in and say hi before going back to
 the office."
 0000000000000,プロデューサー,ワークショップ、頑張ってきてくれ,"Do your best at the workshop, alright?"
 0000000000000,映画監督,"リアルな演技をするためには
-あなたという楽器がチューニングされている必要があります","In order for you to act realistically, you'll
-need to be fine-tuned."
+あなたという楽器がチューニングされている必要があります","You're like a musical instrument, would need to be
+tuned in order for you to act realistically."
 0000000000000,映画監督,"相手と共鳴し、リアルに生きる
 思考を使わず本能や衝動に動かされて","Resonate with the performance of the other party,
 and let it live naturally. Move not through thoughts,
@@ -56,17 +56,17 @@ need these skills to serve your ""Master""."
 0000000000000,家政婦,"難しいことはありませんから
 安心してくださいね","Don't worry, it's not going to be difficult."
 0000000000000,家政婦,さあ、まずは掃除から……────,"First, let's start with cleaning...──"
-2000000000000021000000000000013000000000000020000000000000000000000000080000000000000,円香,…………,......
+2021013020080,円香,…………,......
 0000000000000,メイド役の女優,"セット、すごいですね～！
 吸血鬼の屋敷って感じで","The set's amazing, isn't it~!
 Feels like an actual mansion that a vampire lives in."
-2000000000000021000000000000013000000000000020000000000000000000000000090000000000000,円香,……,...
+2021013020090,円香,……,...
 0000000000000,メイド役の女優,"わ～めっちゃ美人だ～……
 やっぱりな～","Wow~ You're a super beauty~...
 I would expect nothing less~"
 0000000000000,メイド役の女優,主演、すごいね！,"It's amazing, being the lead actress!"
-2000000000000021000000000000013000000000000020000000000000100000000000000000000000000,円香,……ありがとうございます,...Thank you.
-2000000000000021000000000000013000000000000020000000000000110000000000000,円香,"あなたもメイド役ですよね
+2021013020100,円香,……ありがとうございます,...Thank you.
+2021013020110,円香,"あなたもメイド役ですよね
 よろしくお願いします","We're both acting as maids, aren't we.
 It's nice to meet you."
 0000000000000,メイド役の女優,"よろしくお願いします～といっても
@@ -78,14 +78,14 @@ recently, and attended special classes."
 0000000000000,メイド役の女優,"だから今回のオーディションも
 声をかけてもらえて、やっともらえた役なんです～","Because of that, I was able to join the audition this
 time, and finally landed on a speaking role~"
-2000000000000021000000000000013000000000000020000000000000120000000000000,円香,事務所の中でも競争が？,Is there competition even within your own agency?
+2021013020120,円香,事務所の中でも競争が？,Is there competition even within your own agency?
 0000000000000,メイド役の女優,樋口さんの事務所は違うんですか？,"Oh, is it different in Higuchi-san's agency?"
-2000000000000021000000000000013000000000000020000000000000130000000000000,円香,……それほど大きな事務所ではないので,"...Well, we aren't a big agency to begin with."
+2021013020130,円香,……それほど大きな事務所ではないので,"...Well, we aren't a big agency to begin with."
 0000000000000,メイド役の女優,ああ～！,Aah~!
 0000000000000,メイド役の女優,"それでも樋口さんくらい若くて美人なら
 人生イージーモードですよね～","But Higuchi-san's so young and beautiful, I'm sure
 everything's easy-mode for you~"
-2000000000000021000000000000013000000000000020000000000000140000000000000,円香,"さすがにもう、それほど甘い世界ではないと
+2021013020140,円香,"さすがにもう、それほど甘い世界ではないと
 身に染みています","Unfortunately, I've learnt through experience that
 the world's not that simple."
 0000000000000,メイド役の女優,"え～、樋口さんならにこにこ笑ってれば
@@ -97,17 +97,17 @@ some how."
 芸能界に入ったんですけど","...I, on the other hand, wanted to join the
 entertainment industry, just to get back at
 those around me."
-2000000000000021000000000000013000000000000020000000000000150000000000000,円香,……,...
+2021013020150,円香,……,...
 0000000000000,メイド役の女優,"そういうとこ、不器用だったから
 年齢的にオーディションも少なくなっていって","I was clumsy at everything, so as I got older I
 had fewer opportunities to audition."
 0000000000000,メイド役の女優,"比べられることに疲れちゃって
 もう……やめたいなって、最近思ってるんです","I got tired comparing myself with others, and
 I... thought of quiting, just recently."
-2000000000000021000000000000013000000000000020000000000000160000000000000,円香,"……それが本気なら
+2021013020160,円香,"……それが本気なら
 安易に言わないほうがいいのでは","...If you've thought it through seriously, maybe
 you shouldn't speak of it that easily."
-2000000000000021000000000000013000000000000020000000000000170000000000000,円香,"中途半端に引き止められても
+2021013020170,円香,"中途半端に引き止められても
 面倒ですから","Stopping halfway through, will just be an
 annoyance."
 select,,初日はどうだった？,"How was the
@@ -122,7 +122,7 @@ on the way back?"
 気になっていたんだ","Just curious, since I heard that today's session
 is just to pick up job experiences related to
 the role."
-2000000000000021000000000000013000000000000020000000000000180000000000000,円香,"一応
+2021013020180,円香,"一応
 ひと通りは教えていただきました","Well, I've just been following what I've been
 taught."
 0000000000000,プロデューサー,そうか,I see.
@@ -130,34 +130,34 @@ taught."
 空を見上げなければわからない","If you don't look up at the sky, you wouldn't be
 able to describe what it looks like properly."
 0000000000000,プロデューサー,監督がそう言っていたよ,The Director said that.
-2000000000000021000000000000013000000000000020000000000000190000000000000,円香,そう……,Indeed...
-2000000000000021000000000000013000000000000020000000000000200000000000000000000000000,円香,ええ、特には,"Yep. To be specific, "
-2000000000000021000000000000013000000000000020000000000000210000000000000,円香,"台本の内容に触れていくのは
+2021013020190,円香,そう……,Indeed...
+2021013020200,円香,ええ、特には,"Yep. To be specific, "
+2021013020210,円香,"台本の内容に触れていくのは
 次回からですよね","it bothers me that we'll only be going through
 the contents of the script next session."
 0000000000000,プロデューサー,"ああ
 何かあればいつでも言うんだぞ","Aah. It's fine to sound off if you have anything
 to say."
 0000000000000,プロデューサー,監督も、その辺りは気を遣ってくださるようだから,The director and his crew will look into it for you.
-2000000000000021000000000000013000000000000020000000000000220000000000000,円香,はい,Alright.
-2000000000000021000000000000013000000000000020000000000000230000000000000,円香,…………,......
-2000000000000021000000000000013000000000000020000000000000240000000000000,円香,"いえ、今日は帰ります
+2021013020220,円香,はい,Alright.
+2021013020230,円香,…………,......
+2021013020240,円香,"いえ、今日は帰ります
 ワークショップで食べたばかりなので","No, I'm heading back.
 All I've done is snack at the workshop afterall."
 0000000000000,プロデューサー,"ああ、職業体験をしたんだったな
 いい経験ができてよかったよ","Aah, today's session is to pick up on job
 experiences related to the job, right? It'd be
 good if you got some good experience out of it."
-2000000000000021000000000000013000000000000020000000000000250000000000000,円香,"はい
+2021013020250,円香,"はい
 日常生活でも使えそうな技術なので","Yes. They seem to be skills practical enough
 to be used in daily life."
-2000000000000021000000000000013000000000000020000000000000260000000000000,円香,"できるだけ手慣れて見えるように
+2021013020260,円香,"できるだけ手慣れて見えるように
 家でも動いてみるつもりです","I'll practice a little at home, so that it looks
 like I'm accustomed to it."
 0000000000000,プロデューサー,"円香は周りをよく見ているからな
 いいメイドになりそうだ","Well, you've always conscious of your
 surroundings. I think you'll make an
 excellent maid."
-2000000000000021000000000000013000000000000020000000000000270000000000000,円香,……,...
+2021013020270,円香,……,...
 info,produce_events/202101302.json,
 Translator,,

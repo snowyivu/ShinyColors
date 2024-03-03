@@ -1,18 +1,18 @@
 id,name,text,trans
 0000000000000,off,身体中の血が入れ替わっても,"Even if all the blood within me is replaced,"
 0000000000000,off,私は、美しくは、なれない,I'll never become beautiful.
-2000000000000021000000000000013000000000000040000000000000000000000000010000000000000,メイド長,……旦那様,"...Master,"
-2000000000000021000000000000013000000000000040000000000000000000000000020000000000000,メイド長,あなたは、美しい,you... you are beautiful.
-2000000000000021000000000000013000000000000040000000000000000000000000030000000000000,メイド長,逸る、心臓の音が,Restrain it. The throbbing of your heart.
-2000000000000021000000000000013000000000000040000000000000000000000000040000000000000,メイド長,私への恋情だと気付かない,For you have yet to realize your feelings for me.
-2000000000000021000000000000013000000000000040000000000000000000000000050000000000000,メイド長,……憐れなひと,...So pitiful.
+2021013040010,メイド長,……旦那様,"...Master,"
+2021013040020,メイド長,あなたは、美しい,you... you are beautiful.
+2021013040030,メイド長,逸る、心臓の音が,Restrain it. The throbbing of your heart.
+2021013040040,メイド長,私への恋情だと気付かない,For you have yet to realize your feelings for me.
+2021013040050,メイド長,……憐れなひと,...So pitiful.
 0000000000000,プロデューサー,"やっぱり、心配いらなかったな
 すごく良かったよ","As I thought, there really wasn't anything to worry
 about afterall. It went super well."
 0000000000000,プロデューサー,"もしかしたらこれを機に
 芝居のオファーが増えるかもな","Maybe this will give us more opportunities and
 more offers for acting."
-2000000000000021000000000000013000000000000040000000000000000000000000060000000000000,円香,さあ、どうだか,Maybe. Who knows.
+2021013040060,円香,さあ、どうだか,Maybe. Who knows.
 0000000000000,映画監督,"それは、私の作品次第ではありますが
 そうなったら私も嬉しいですね","Well, that depends on the success of the work, 
 but if it does benefit you, I'll be happy too."
@@ -30,17 +30,17 @@ made me more excited than this film so far... haha."
 また機会があればご一緒させてください","The world view that Higuchi-san holds is really
 something to behold. Please allow us to work
 together should the chance arise."
-2000000000000021000000000000013000000000000040000000000000000000000000070000000000000,円香,"こちらこそ
+2021013040070,円香,"こちらこそ
 私でよければ","We would gladly, if you're okay with me."
 0000000000000,映画監督,……表現はどこまでも追求できる,...Expression can be pursued to whatever ends.
 0000000000000,映画監督,"君の内にある美しさに手を伸ばしたいと思った時は、
 いつでも力を貸しますよ","If the time comes when you'd want to reach out for
 the beauty within you, I'll always be around to lend
 a hand."
-2000000000000021000000000000013000000000000040000000000000000000000000080000000000000,円香,……ありがとうございます,...Thank you very much.
+2021013040080,円香,……ありがとうございます,...Thank you very much.
 0000000000000,プロデューサー,……屋敷の主人は最後まで気付かなかったんだな,"...I guess the master of the mansion never figured
 it out, huh."
-2000000000000021000000000000013000000000000040000000000000000000000000090000000000000,円香,彼が人間だったこと？,That he was human all along?
+2021013040090,円香,彼が人間だったこと？,That he was human all along?
 0000000000000,プロデューサー,"……ああ。人の食べ物は身体が受け付けず
 吸血衝動ばかりが膨れて……","...Yeah. His body's rejected human food, and
 the urge of drinking blood swelled..."
@@ -50,57 +50,59 @@ head maid, despite knowing that they are
 poisonous to vampires."
 0000000000000,プロデューサー,飢餓に苦しんで命を落とした,"Suffering from starvation, his life leaves him."
 0000000000000,プロデューサー,本当の吸血鬼みたいに,Just like how a real vampire would die.
-2000000000000021000000000000013000000000000040000000000000100000000000000000000000000,円香,そうですね,"Yes, indeed."
-2000000000000021000000000000013000000000000040000000000000110000000000000,円香,"メイド長が吸血鬼だったことにも
+2021013040100,円香,そうですね,"Yes, indeed."
+2021013040110,円香,"メイド長が吸血鬼だったことにも
 気付かないまま","He also never realized that the head maid is a
 vampire,"
-2000000000000021000000000000013000000000000040000000000000120000000000000,円香,"……チョコレートに何が入っているかも
+2021013040120,円香,"……チョコレートに何が入っているかも
 知らないで","and doesn't know if anything was added into
 the chocolate as well."
 0000000000000,プロデューサー,"どうしても正解を探したくなって
-さっきからずっと考えてるんだ","I've just been trying to figure out the right way
-to go about what should have been done."
+さっきからずっと考えてるんだ","Since watching it, all I've been trying to figure
+out is the right way it could have worked out."
 0000000000000,プロデューサー,"彼が人間だと気付かせてやって
 人間として治療をしていれば……とか","Like, if he was reminded of his humanity and got
 treatment as if he was a human... would it be
 different, and stuff like that."
 0000000000000,プロデューサー,"メイド長はそうしなかった
-見殺しにしたんだ","The head maid never thought to do that. She
-abandoned him to his fate."
-0000000000000,プロデューサー,真綿で首を締めるように,"It's like, she killed him gently, and dragging it out."
-2000000000000021000000000000013000000000000040000000000000130000000000000,円香,……咎めているんですか？,...Are you putting blame on her?
+見殺しにしたんだ","The head maid never did that and abandoned
+him to his fate."
+0000000000000,プロデューサー,真綿で首を締めるように,"It's like, she killed him gently, dragging it out."
+2021013040130,円香,……咎めているんですか？,...Are you putting blame on her?
 0000000000000,プロデューサー,"いや、非道徳的だとは思うけど
 それがメイド長なりの、主人への愛だった","No, because even though it may be considered
 immoral, that is her way of expressing love
 towards her Master."
 0000000000000,プロデューサー,そういう解釈だよな？,"That's how it was interpreted, right?"
-2000000000000021000000000000013000000000000040000000000000140000000000000,円香,そうですね,Yes it is.
-2000000000000021000000000000013000000000000040000000000000150000000000000,円香,"受け取る側がそう感じたなら
+2021013040140,円香,そうですね,Yes it is.
+2021013040150,円香,"受け取る側がそう感じたなら
 それがあなたにとっての解釈ってことで","If that's how those who watched it felt,
 that'd be how one interprets."
 0000000000000,プロデューサー,"人でありながら、人を捨ててしまった
-絶望を知るくらいならって","While being a human, his humanity was foresaken.
-He might as well have just chose to despair."
+絶望を知るくらいならって","While being a human, his humanity was
+foresakened. And he would rather do so than to
+despair."
 0000000000000,プロデューサー,"もしかしたら
-そう望んだかもしれないな","Yet, perhaps that was what he desired afterall."
-2000000000000021000000000000013000000000000040000000000000160000000000000,円香,"さあ、理解出来ますか？
+そう望んだかもしれないな","Yet, perhaps this end was his wish afterall."
+2021013040160,円香,"さあ、理解出来ますか？
 あなたに","So, have you figured it out?
 An answer for yourself."
 0000000000000,プロデューサー,"そうだな
 俺だったら……","I think so.
 If it was me..."
-2000000000000021000000000000013000000000000040000000000000170000000000000,off,あなたは、絶望ごと抱きしめようとするでしょ,"You would choose to embrace despair, wouldn't
+2021013040170,off,あなたは、絶望ごと抱きしめようとするでしょ,"You would choose to embrace despair, wouldn't
 you."
-2000000000000021000000000000013000000000000040000000000000180000000000000,off,そのまま一緒に,But I don't think we will go down
-2000000000000021000000000000013000000000000040000000000000190000000000000,off,沈もうなんて思わない,together like this.
-2000000000000021000000000000013000000000000040000000000000200000000000000000000000000,円香,……,...
+2021013040180,off,そのまま一緒に,But I don't think we will go down
+2021013040190,off,沈もうなんて思わない,together like this.
+2021013040200,円香,……,...
 0000000000000,プロデューサー,"……どうした？
 円香……──んぐ","...Everything alright?
 Madoka...──ughhh."
-2000000000000021000000000000013000000000000040000000000000210000000000000,円香,"チョコレート、あまりをいただいたので
+2021013040210,円香,"チョコレート、あまりをいただいたので
 おすそ分けです","I've received way too much chocolate, so I'll share
 some with you."
-2000000000000021000000000000013000000000000040000000000000220000000000000,円香,……その味を覚えておいてください,"...Remember this taste,"
-2000000000000021000000000000013000000000000040000000000000230000000000000,円香,いつか私がそう望んだ時のためにでも,for there may be a time that I'll desire for it one day.
+2021013040220,円香,……その味を覚えておいてください,"...Remember this taste,"
+2021013040230,円香,いつか私がそう望んだ時のためにでも,"for there may be a time that I'll wish for that
+one day."
 info,produce_events/202101304.json,
 Translator,Mycstea,

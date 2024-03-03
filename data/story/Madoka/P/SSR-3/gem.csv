@@ -1,29 +1,29 @@
 id,name,text,trans
-0,プロデューサー,喉の調子はどうだ？,How's your throat?
+0000000000000,プロデューサー,喉の調子はどうだ？,How's your throat?
 2021007110010,円香,"大丈夫です
 ご心配おかけしました","It's fine now.
 I apologize for worrying you."
-0,プロデューサー,よかった,Thank goodness.
-0,プロデューサー,でもしばらくは慣らし運転で,I think it's best if you ease back into things slowly.
-0,プロデューサー,歌のレッスンもあと少し休もう,"You should still hold off on vocal lessons for a little
+0000000000000,プロデューサー,よかった,Thank goodness.
+0000000000000,プロデューサー,でもしばらくは慣らし運転で,I think it's best if you ease back into things slowly.
+0000000000000,プロデューサー,歌のレッスンもあと少し休もう,"You should still hold off on vocal lessons for a little
 while longer."
 2021007110020,円香,そう言われると,"When you say that,"
 2021007110030,円香,歌いたくなりますが,It just makes me want to sing even more.
 2021007110040,円香,…………,*inhale* *exhale*
 2021007110050,円香,────………………,*humming*
-0,プロデューサー,"ああ……！
+0000000000000,プロデューサー,"ああ……！
 これ、円香のだったのか","Oh...!
 So this did belong to you."
 2021007110060,円香,"……
 鍵は……","*sigh*
 What happened to the lock...?"
-0,プロデューサー,"それが落とした時に壊してしまって……
+0000000000000,プロデューサー,"それが落とした時に壊してしまって……
 本当に申し訳ない","It broke when the box dropped...
 I'm really sorry about that."
-0,プロデューサー,一応、蓋が開かないように持ち上げたから,"I made sure to keep the lid from opening while
+0000000000000,プロデューサー,一応、蓋が開かないように持ち上げたから,"I made sure to keep the lid from opening while
 handling it though."
 2021007110070,円香,……どういうことですか,...Why though.
-0,プロデューサー,"宝石箱だろう
+0000000000000,プロデューサー,"宝石箱だろう
 きっと大切なものが入っていると思ったんだ","It's a jewel box, right?
 I figured there must be something precious inside."
 2021007110080,円香,"中身を見ないようにって？
@@ -46,18 +46,18 @@ there."
 2021007110140,円香,けほっ……こほ…………,"*cough*... *cough*...
 "
 2021007110150,円香,────………………,*humming*
-0,プロデューサー,"…………
+0000000000000,プロデューサー,"…………
 本当に何も…………","Was it really... "
-0,プロデューサー,入っていないのか……？,...Totally empty?
-0,プロデューサー,ん……？,Huh...?
-0,プロデューサー,"ああ……
+0000000000000,プロデューサー,入っていないのか……？,...Totally empty?
+0000000000000,プロデューサー,ん……？,Huh...?
+0000000000000,プロデューサー,"ああ……
 この宝石箱──","Ah...
 This isn't just a jewel box──"
 2021007110160,円香,────………………,*humming*
 2021007110170,円香,…………あーーーーー…………,"*humming*
 Ahhhhhhh..."
-0,プロデューサー,……あーあ、まだ歌わないようにって言ったのに,"...Geez, and I just told her to hold off on singing."
-0,プロデューサー,"いつも冷静で分別がつく──
+0000000000000,プロデューサー,……あーあ、まだ歌わないようにって言ったのに,"...Geez, and I just told her to hold off on singing."
+0000000000000,プロデューサー,"いつも冷静で分別がつく──
 そういう円香らしくないな","Madoka is usually so calm and sensible.
 This isn't like her."
 2021007110180,円香,あーーーーー…………,Ahhhhhhh...
@@ -78,7 +78,7 @@ sound.)"
 (I'm carving it right out of my soul,)"
 2021007110260,プロデューサー,美しく,"To make something beautiful.
 (To make something beautiful.)"
-0,プロデューサー,今日、確信した,"Today, I realized I can say this with conviction."
-0,プロデューサー,樋口円香には激情がある,There is a passion burning inside Madoka Higuchi.
+0000000000000,プロデューサー,今日、確信した,"Today, I realized I can say this with conviction."
+0000000000000,プロデューサー,樋口円香には激情がある,There is a passion burning inside Madoka Higuchi.
 info,produce_events/202100711.json,
 Translator,"Belvera, Mycstea",

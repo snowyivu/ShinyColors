@@ -1,11 +1,11 @@
 id,name,text,trans
-0,スタッフ１,"──弁当、買ってきましたんで、
+0000000000000,スタッフ１,"──弁当、買ってきましたんで、
 ここ置いておきまーす","──I got your lunch!
 Putting it over here, alright?"
-0,スタッフ２,"ありがとー！
+0000000000000,スタッフ２,"ありがとー！
 あと、そっちの機材一緒に運んでもらえる？","Appreciated!
 Could you help me carry over that equipment next?"
-0,スタッフ３,あ、俺も手伝いましょうか──,"Oh, lemme pitch in there too──"
+0000000000000,スタッフ３,あ、俺も手伝いましょうか──,"Oh, lemme pitch in there too──"
 3021005020010,小糸,い、いいのかな……？,A──are we okay...?
 3021005020020,雛菜,ん～？,Hmm～?
 3021005020030,小糸,わたしたちだけストーブのそばで……,The four of us just standing here by the stove...
@@ -16,8 +16,8 @@ Maybe we can help them out with something..."
 3021005020060,円香,"それより
 ……見てたら？","That aside.
 ...do you see?"
-0,カメラマンの声,──いいね～、浅倉クン……！,"──That's nice, Asakura-kun...!"
-0,カメラマンの声,"次、顔の向きそのままで目線だけこっちに……
+0000000000000,カメラマンの声,──いいね～、浅倉クン……！,"──That's nice, Asakura-kun...!"
+0000000000000,カメラマンの声,"次、顔の向きそのままで目線だけこっちに……
 そうそう～！　いい感じ──……","Next, I want you to keep still, don't move your head, just turn your eyes this way... good, good～! Just like that──..."
 3021005020070,円香,……次、小糸の番でしょ,"...you're up next, Koito."
 3021005020080,小糸,"み、見てるよ……！
@@ -25,8 +25,8 @@ Maybe we can help them out with something..."
 I've been focused...!"
 3021005020090,小糸,指示も、聞いてるし……,Following all the instructions...
 3021005020100,円香,ん,Mm.
-0,カメラマンの声,──……！　……、………………,"──...! ..., ......"
-0,カメラマンの声,…………,...
+0000000000000,カメラマンの声,──……！　……、………………,"──...! ..., ......"
+0000000000000,カメラマンの声,…………,...
 3021005020110,円香,"……ここからだと、
 全部は聞こえないけどね","...though it's not like you can hear everything,
 where we're stood."
@@ -54,19 +54,19 @@ They would～"
 そ、そうかな……？","Pyeh...
 Do──do I, maybe...?"
 3021005020250,円香,知らないけど、多分ね,"Not that I know, but in all likelihood."
-0,カメラマン,──はーい、オッケー！,"──Doooone, okaaay!"
-0,カメラマン,"次……！　次……
+0000000000000,カメラマン,──はーい、オッケー！,"──Doooone, okaaay!"
+0000000000000,カメラマン,"次……！　次……
 あれ、小糸チャンだったか……","Neeext...! Next...
 Oh, so that was Koito-chan..."
 3021005020260,小糸,は、はい……！,H──here...!
-0,カメラマン,"ごめんごめん！　ちょっと変更で、
+0000000000000,カメラマン,"ごめんごめん！　ちょっと変更で、
 透クンと円香クンのペアを先にさせてもらってもいいかな","Sorry about that! I'm going to derail a little, and maybe we can have Toru-kun and Madoka-kun up as a pair next?"
-0,カメラマン,今の流れで撮っておきたくって,Just wanted to take 'em together in the flow of things.
-0,スタッフ１,"わかりました
+0000000000000,カメラマン,今の流れで撮っておきたくって,Just wanted to take 'em together in the flow of things.
+0000000000000,スタッフ１,"わかりました
 円香さん、こちらに……！","Got it.
 Madoka-san, over here...!"
 3021005020270,円香,あ……はい,Ah... here.
-0,スタッフ２,"準備するので、
+0000000000000,スタッフ２,"準備するので、
 10分休憩にしまーす──……","We need to do some prep,
 so let's break for ten minuuutes──..."
 3021005020280,円香,……ごめん、ちょっと先に,...sorry. I'll be jumping you.
@@ -81,43 +81,43 @@ Seriously?"
 3021005020330,円香,みんな、見惚れてた,Everyone saw nothing but you.
 3021005020340,円香,小糸も雛菜も、スタッフさんも,"Even Koito, even Hinana. Even the staff."
 3021005020350,透,えー,Eeh.
-0,ヘアメイク,"──それじゃ、円香さん
+0000000000000,ヘアメイク,"──それじゃ、円香さん
 髪、ちょっと整えますね～～","──Don't mind me, Madoka-san.
 I'm just going to arrange your hair a little～"
 3021005020360,円香,はい、よろしくお願いします,Right. Thank you very much.
-0,ヘアメイク,"立ったままでごめんね～
+0000000000000,ヘアメイク,"立ったままでごめんね～
 前から失礼します～～","Sorry to have you standing for this～
 Going to be in your way for a bit～"
-0,カメラマン,──透クン～、その間にちょっといい？,"──Toru-kun～, do you have a moment there?"
+0000000000000,カメラマン,──透クン～、その間にちょっといい？,"──Toru-kun～, do you have a moment there?"
 3021005020370,透,あ、はい,"Ah, yeah."
-0,カメラマン,"さっきの雰囲気、めちゃくちゃ良かったよ～
+0000000000000,カメラマン,"さっきの雰囲気、めちゃくちゃ良かったよ～
 物憂げっていうか神秘的っていうか、コンセプトぴったり！","You were dead-on just now, I've gotta say～
 Somber or mysterious or whatever other word it is, you nail the concept!"
-0,カメラマン,"今日のために色々考えてきてくれた？
+0000000000000,カメラマン,"今日のために色々考えてきてくれた？
 ありがとね～！","You thought of everything just for today?
 Man, I gotta thank you～!"
 3021005020380,透,"ふふっ
 えー","Hahah.
 Eeeh."
-0,カメラマン,"円香クンとのツーショットでも
+0000000000000,カメラマン,"円香クンとのツーショットでも
 同じカンジで………",Give it the same stuff for your two shot with Madoka-kun next...
-0,ヘアメイク,……ちょっと左を向いてもらえる？　そうそう……,"...can you look to the left a little for me? Thanks, right there..."
-0,カメラマン,それからね──,And then──
-0,ヘアメイク,"──ん、オッケーかな
+0000000000000,ヘアメイク,……ちょっと左を向いてもらえる？　そうそう……,"...can you look to the left a little for me? Thanks, right there..."
+0000000000000,カメラマン,それからね──,And then──
+0000000000000,ヘアメイク,"──ん、オッケーかな
 鏡見てもらって、気になるところある？","──hmm, that should be okay. See for yourself in the mirror? Any parts that bother you?"
 3021005020390,円香,"……いえ、とっても素敵です
 ありがとうございます","...no, you did an absolutely wonderful job.
 Thank you very much."
-0,ヘアメイク,"よかった！　じゃあ、
+0000000000000,ヘアメイク,"よかった！　じゃあ、
 すぐに再開するからね","Good! Alright,
 you'll be resuming pretty shortly, then."
-0,カメラマン,"じゃ、円香クンも打ち合わせのカンジで！
+0000000000000,カメラマン,"じゃ、円香クンも打ち合わせのカンジで！
 ふたりともよろしく～～～","Alright, let's see about you too, then, Madoka-kun! Good to have the both of you here～"
 3021005020391,透＆円香,はーい,Right.
-0,カメラマン,"いやほんと、透クンと円香クンが並ぶと絵になるなあ～
+0000000000000,カメラマン,"いやほんと、透クンと円香クンが並ぶと絵になるなあ～
 期待してるよ～","Seriously! Toru-kun, Madoka-kun, no lie, the two of you are picture-perfect together～! I'm looking forward to it～"
-0,スタッフ１,──みなさーん、再開しますよー,"──Attentioooon, everyone, we're resuming nooow."
-0,透＆円香,……,...
+0000000000000,スタッフ１,──みなさーん、再開しますよー,"──Attentioooon, everyone, we're resuming nooow."
+0000000000000,透＆円香,……,...
 3021005020400,円香,色々、考えてきたんだ？,"Thought of everything, now?"
 3021005020410,透,え？,Eh?
 3021005020430,透,あー,Aah.

@@ -1,62 +1,62 @@
 id,name,text,trans
 2021007010010,円香,……おはようございます,...Good morning.
-0,プロデューサー,おはよう！,Morning!
-0,プロデューサー,"……あれ？
+0000000000000,プロデューサー,おはよう！,Morning!
+0000000000000,プロデューサー,"……あれ？
 今日、歌のレッスンは……","...Hm?
 Don't you have a singing lesson today...?"
 2021007010020,円香,"トレーナーさんから、
 １時間ずらしてほしいと連絡がありまして","Trainer-san messaged and asked to push it back by
 an hour."
-0,プロデューサー,そういうことか,I see.
+0000000000000,プロデューサー,そういうことか,I see.
 2021007010030,円香,ここで朝食をいただいてもいいですよね,"I brought breakfast. It's okay to eat here, right?"
-0,プロデューサー,"もちろんだ
+0000000000000,プロデューサー,"もちろんだ
 好きに使ってくれ","Of course.
 Be my guest."
 2021007010040,円香,………………,......
-0,テレビの音声,『続いての芸人は──！』,"""And our next celebrity guest is──!"""
+0000000000000,テレビの音声,『続いての芸人は──！』,"""And our next celebrity guest is──!"""
 2021007010050,円香,………………,......
 2021007010060,円香,………………,......
-0,テレビの音声,『……笑いの蟻地獄をご堪能あれ……！』,"""...He'll make you laugh till the end of time...!"""
-0,プロデューサー,──お笑い番組？,──A comedy show?
+0000000000000,テレビの音声,『……笑いの蟻地獄をご堪能あれ……！』,"""...He'll make you laugh till the end of time...!"""
+0000000000000,プロデューサー,──お笑い番組？,──A comedy show?
 2021007010070,円香,"…………
 ……うるさいですか","......
 ...Is it too loud?"
-0,プロデューサー,え？　いやいや,"Eh? No, its fine."
-0,プロデューサー,"……はは
+0000000000000,プロデューサー,え？　いやいや,"Eh? No, its fine."
+0000000000000,プロデューサー,"……はは
 面白いなあ、このコント","...Haha
 That's funny."
 2021007010080,円香,そうですか,Is that so.
-0,プロデューサー,円香はあんまりか？,You don't think so?
+0000000000000,プロデューサー,円香はあんまりか？,You don't think so?
 2021007010090,円香,そうですね,I don't.
 2021007010100,円香,……何？,...What?
-0,プロデューサー,いや、ちょっと一緒に見ようかと,Nothing. Just thought I'd watch it with you for a bit.
+0000000000000,プロデューサー,いや、ちょっと一緒に見ようかと,Nothing. Just thought I'd watch it with you for a bit.
 2021007010110,円香,"仕事中ですよね
 ……消します","You're in the middle of work.
 ...I'll turn it off."
-0,プロデューサー,"待て待て！
+0000000000000,プロデューサー,"待て待て！
 少しだけ休憩ってことで……","Wait, wait!
 I'm taking a bit of a break..."
-0,プロデューサー,ははは……！,Hahaha...!
+0000000000000,プロデューサー,ははは……！,Hahaha...!
 2021007010120,円香,…………,......
-0,プロデューサー,"はは……そういうオチか……！
+0000000000000,プロデューサー,"はは……そういうオチか……！
 これは面白かったよ、なあ────","Haha... What a punchline...!
 Isn't that funny────"
 2021007010130,円香,全然,Not at all.
-0,プロデューサー,あれ,Oops.
+0000000000000,プロデューサー,あれ,Oops.
 2021007010140,円香,"うらやましい限りです
 こんなくだらないもので笑えるなんて","I'm envious.
 Being able to laugh at something so silly."
-0,プロデューサー,そ、そんな冷静に……,Y-You're not laughing at all huh...
+0000000000000,プロデューサー,そ、そんな冷静に……,Y-You're not laughing at all huh...
 2021007010150,円香,あなたほど単純にはできていないので,I'm not as simple as you.
-0,テレビの音声,『続いては──』,"""Up next──"""
-0,プロデューサー,"あ、この芸人さんは知ってるか？
+0000000000000,テレビの音声,『続いては──』,"""Up next──"""
+0000000000000,プロデューサー,"あ、この芸人さんは知ってるか？
 人気急上昇中で","Ah, do you know this celebrity?
 He's gaining quite a bit of popularity."
 2021007010160,円香,………………,......
-0,プロデューサー,オーバーな一発芸が売りの,His over the top one-liners are really popular.
-0,テレビの音声,きんにーく──べろんちょ！！！！！』,"""Kinniikubencho!!!!!"""
+0000000000000,プロデューサー,オーバーな一発芸が売りの,His over the top one-liners are really popular.
+0000000000000,テレビの音声,きんにーく──べろんちょ！！！！！』,"""Kinniikubencho!!!!!"""
 2021007010170,円香,うぉふっ──……！！,*cough**cough*──...!!
-0,プロデューサー,────え！？！？,────Eh!?!?
+0000000000000,プロデューサー,────え！？！？,────Eh!?!?
 2021007010180,円香,けふっ……、………！　こふっ、ぉふ………,"*cough*..., ...! *cough*,*cough*......"
 select,,だ……大丈夫か！？,"Are...
 Are you okay!?"
@@ -66,64 +66,64 @@ funny...!?)"
 select,,（ど、どうしよう……）,"(W-What
 should I do...)"
 2021007010190,円香,大丈夫で……けふっ……ぉふっ……,I'm fine... *cough*... *cough*...
-0,テレビの音声,『へいお待ち！　きんにーく──べろんちょ！！！！！』,"""Wait just a second! Kinniikubencho!!!!!"""
+0000000000000,テレビの音声,『へいお待ち！　きんにーく──べろんちょ！！！！！』,"""Wait just a second! Kinniikubencho!!!!!"""
 2021007010200,円香,──……うっ……こふっ……！,──...*cough*... *cough*!
-0,プロデューサー,て、テレビ消すからな,L-Let me switch it off.
+0000000000000,プロデューサー,て、テレビ消すからな,L-Let me switch it off.
 2021007010210,円香,テレビは……関係……ない……！,It has nothing to do...with the... show!
-0,プロデューサー,そ、それは……………………,T-That......
-0,プロデューサー,……そうだな、関係ない,"...Yeah, exactly."
+0000000000000,プロデューサー,そ、それは……………………,T-That......
+0000000000000,プロデューサー,……そうだな、関係ない,"...Yeah, exactly."
 2021007010220,円香,～～～～～！,～～～～～!
 2021007010230,円香,……片付けます,...I'll clean it up.
 2021007010240,円香,あなたは何もしないでください,Please don't do anything.
-0,プロデューサー,（ああ………………）,(Ahh......)
-0,プロデューサー,（すまん、円香…………）,"(My bad, Madoka......)"
-0,プロデューサー,（実は楽しく見ていたんだな……）,(You were enjoying it afterall...)
-0,プロデューサー,ど、どうした……！？,W-What's wrong...!?
+0000000000000,プロデューサー,（ああ………………）,(Ahh......)
+0000000000000,プロデューサー,（すまん、円香…………）,"(My bad, Madoka......)"
+0000000000000,プロデューサー,（実は楽しく見ていたんだな……）,(You were enjoying it afterall...)
+0000000000000,プロデューサー,ど、どうした……！？,W-What's wrong...!?
 2021007010250,円香,"けふっ、こふっ………
 気管に……入っただ……けふっ……","*cough*,*cough*......
 Something got... into my throat...*cough*..."
-0,プロデューサー,（────どうする！？）,(────What should I do!?)
-0,プロデューサー,（申告通りテレビは関係ないことにすべきか！？）,"(Should I bravely say that it's nothing to do with
+0000000000000,プロデューサー,（────どうする！？）,(────What should I do!?)
+0000000000000,プロデューサー,（申告通りテレビは関係ないことにすべきか！？）,"(Should I bravely say that it's nothing to do with
 the comedy show!?)"
-0,プロデューサー,（それともあえて茶化すべきか！？）,(Or should I poke fun at it intentionally!?)
-0,プロデューサー,（どちらの方が円香の傷が浅い──！？）,(Which would hurt Madoka the least ──!?)
+0000000000000,プロデューサー,（それともあえて茶化すべきか！？）,(Or should I poke fun at it intentionally!?)
+0000000000000,プロデューサー,（どちらの方が円香の傷が浅い──！？）,(Which would hurt Madoka the least ──!?)
 2021007010260,円香,こんっ……んっ……、はあ……,"*cough*... *cough*..., *exhale*..."
-0,プロデューサー,──ははっ、まったく……,"──Haha, seriously..."
-0,プロデューサー,"笑いたい時には笑っていいのに
+0000000000000,プロデューサー,──ははっ、まったく……,"──Haha, seriously..."
+0000000000000,プロデューサー,"笑いたい時には笑っていいのに
 素直じゃないんだな","It's perfectly fine to laugh when you wanna laugh.
 You're just not being honest to yourself."
 2021007010270,円香,は？,Ha?
-0,プロデューサー,すまん,My bad!
-0,プロデューサー,……と、とりあえず拭くものを持ってくるよ,...I-I'll go find something to clean this up.
+0000000000000,プロデューサー,すまん,My bad!
+0000000000000,プロデューサー,……と、とりあえず拭くものを持ってくるよ,...I-I'll go find something to clean this up.
 2021007010280,円香,"……
 すみません","...
 Sorry."
-0,プロデューサー,いや仕方ないよ、この芸人さんは面白い,"Don't be, this guy's super funny afterall."
+0000000000000,プロデューサー,いや仕方ないよ、この芸人さんは面白い,"Don't be, this guy's super funny afterall."
 2021007010290,円香,…………,......
 2021007010300,円香,面白くありません,He's not funny at all.
 2021007010310,円香,かふっ──んん……けふっ──……,"*cough*... , *cough*──..."
-0,プロデューサー,（どう考えても、うっかり笑ってしまったやつだと思うが）,"(No matter how I think, this was caused by her
+0000000000000,プロデューサー,（どう考えても、うっかり笑ってしまったやつだと思うが）,"(No matter how I think, this was caused by her
 accidentally laughing)"
-0,プロデューサー,（下手な対応をしたら円香を傷つけかねない──）,"(I'll accidentally hurt Madoka if I don't respond
+0000000000000,プロデューサー,（下手な対応をしたら円香を傷つけかねない──）,"(I'll accidentally hurt Madoka if I don't respond
 well──)"
-0,プロデューサー,（……なんてことない雰囲気でいこう）,(...Maybe I should act like it's not a big deal)
-0,プロデューサー,（うん。さらっと、さらっと受け流す感じで）,"(Yeah, I'll elude it smoothly)"
-0,プロデューサー,"んー、どうした
+0000000000000,プロデューサー,（……なんてことない雰囲気でいこう）,(...Maybe I should act like it's not a big deal)
+0000000000000,プロデューサー,（うん。さらっと、さらっと受け流す感じで）,"(Yeah, I'll elude it smoothly)"
+0000000000000,プロデューサー,"んー、どうした
 ティッシュとか持ってこようか","Hmmー, you okay?
 I'll go get some tissue for you."
 2021007010320,円香,いえ、自分で…………こふっ、っ──,"No, I'll get it my... *cough*"
-0,プロデューサー,"……持ってくるよ
+0000000000000,プロデューサー,"……持ってくるよ
 背中をさすったりできないから、その代わりに","...I'll go get it.
 It's not appropriate for me to rub your back, so let
 me get it instead."
 2021007010330,円香,…………かかったでしょ,......It got you didn't it.
-0,プロデューサー,ん？,Hm?
+0000000000000,プロデューサー,ん？,Hm?
 2021007010340,円香,シャツに,I stained your shirt.
-0,プロデューサー,"……ああ、気にしないでくれ
+0000000000000,プロデューサー,"……ああ、気にしないでくれ
 ロッカーに予備のシャツを置いてあるんだ","...Aah, don't worry about it.
 I have a spare shirt in the locker just in case."
 2021007010350,円香,嘘,Liar.
-0,プロデューサー,"はは、それが本当なんだ
+0000000000000,プロデューサー,"はは、それが本当なんだ
 後でピシッと着替えてみせるから","Haha, it's true.
 I'll change into it in a jiffy later."
 2021007010360,円香,……最悪,...This is the worst.

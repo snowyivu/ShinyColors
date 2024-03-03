@@ -1,8 +1,8 @@
 id,name,text,trans
-0,コンビニ店員,"17円のお返しです
+0000000000000,コンビニ店員,"17円のお返しです
 ありがとうございましたー",Your change is 17 yen. Thank you and have a nice day!
 3021002010010,透,はーい,You too.
-0,コンビニ店員,次の方どうぞー,"Next in line, please."
+0000000000000,コンビニ店員,次の方どうぞー,"Next in line, please."
 3021002010020,透,……樋口,...Higuchi.
 3021002010030,円香,ん,Hm?
 3021002010040,透,あれ、さっきからいた？,"Wait, were you there the whole time?"
@@ -11,16 +11,16 @@ id,name,text,trans
 3021002010070,円香,ううん,Nah.
 3021002010080,円香,入った時から、いるのは気付いてたけど,But I noticed you when I came in.
 3021002010090,透,そっか,Is that so.
-0,コンビニ店員,……238円、１点。157円、１点,"...one item for 238 yen, one for 157 yen."
+0000000000000,コンビニ店員,……238円、１点。157円、１点,"...one item for 238 yen, one for 157 yen."
 3021002010100,円香,あ……あと、カフェラテのMで,"Oh, and a cafe latte, medium please."
-0,コンビニ店員,"カフェラテMですねー……
+0000000000000,コンビニ店員,"カフェラテMですねー……
 ──合計３点、545円になります","One medium-size cafe latte...
 ──Your total comes to 545 yen."
 3021002010110,円香,"ICカードでお願いします
 ……じゃ、お疲れ","I'll pay by IC card.
 ...See you."
 3021002010120,透,んー,Mm.
-0,コンビニ店員,ありがとうございましたー,"Thank you, have a nice day."
+0000000000000,コンビニ店員,ありがとうございましたー,"Thank you, have a nice day."
 3021002010130,円香,……あれ,...eh?
 3021002010140,透,ん？,Mm?
 3021002010150,円香,……待っててくれたの？,...Were you waiting for me?

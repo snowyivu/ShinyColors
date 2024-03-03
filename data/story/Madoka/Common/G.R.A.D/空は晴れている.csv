@@ -1,69 +1,69 @@
 id,name,text,trans
 1021003020010,円香,──着てみました。いかがでしょうか,──Here. How does it look on me?
-0,スタイリスト,"ああ、いいじゃない！
+0000000000000,スタイリスト,"ああ、いいじゃない！
 ちょっとくるっと回ってみて……","Aah, that looks great!
 Turn around slowly so that I can have a better look..."
-0,スタイリスト,"うん、サイズは大丈夫そうね！
+0000000000000,スタイリスト,"うん、サイズは大丈夫そうね！
 どこかキツイとかゆるいとか無い？","Yes, the sizing looks about right!
 Do you feel anywhere that's too tight or loose?"
 1021003020020,円香,はい、大丈夫です,"No, it's fine."
-0,スタイリスト,"動きやすさはどう？
+0000000000000,スタイリスト,"動きやすさはどう？
 この衣装、ちょっと布が多いんだけど……","Is it easy to move around in it?
 This dress has quite a lot of cloth on it, so..."
 1021003020030,円香,"……そうですね
 これくらいなら問題ありません","...Yes, it does.
 But I can handle it."
 1021003020040,円香,踊れると思います,Dancing wouldn't be a problem.
-0,スタイリスト,"よし、じゃあこのまま試してみましょう
+0000000000000,スタイリスト,"よし、じゃあこのまま試してみましょう
 また何か気になるところがあれば────","Alright, let's try that out while you're in it.
 Then If there's anything you're particular
 about────"
-0,スタッフ,"みなさん、衣装合わせの方はいかがでしょうか？
+0000000000000,スタッフ,"みなさん、衣装合わせの方はいかがでしょうか？
 このままさらっと動きを確認しますので","Excuse me, but are the fittings okay for everyone?
 We'll do some simple range of motion checks."
-0,営業,──いいですね、283さんの子,"──Looking good, the girl from 283-san."
-0,プロデューサー,"あ……恐れ入ります
+0000000000000,営業,──いいですね、283さんの子,"──Looking good, the girl from 283-san."
+0000000000000,プロデューサー,"あ……恐れ入ります
 このまま本番でも御眼鏡に適えばよいのですが","Ah... Thank you very much.
 Hopefully she'll remain up to your expectations by
 the actual show."
-0,営業,はは、樋口さんなら大丈夫でしょう,"Haha, she'll be fine."
-0,営業,"今回のCMでは色々な事務所から
+0000000000000,営業,はは、樋口さんなら大丈夫でしょう,"Haha, she'll be fine."
+0000000000000,営業,"今回のCMでは色々な事務所から
 アイドルやタレントを呼びましたが……","See, we've called up a bunch of idols and talents
 from various agencies..."
-0,スタッフ,"──準備は整いましたでしょうか
+0000000000000,スタッフ,"──準備は整いましたでしょうか
 では、グループごとに始めます","──Are the preperations complete?
 Alright, let's begin in groups."
-0,営業,"……大勢で同じダンスを踊ってもまったく埋もれていない
+0000000000000,営業,"……大勢で同じダンスを踊ってもまったく埋もれていない
 監督の要望にもすんなり応えることができている","...but she doesn't get overlooked even when they're
 all dancing the same steps. She can easily execute
 whatever the director wants too."
-0,営業,"樋口さんは伸びます
+0000000000000,営業,"樋口さんは伸びます
 これからきっと波に乗る……賭けますよ、私！","Higuchi-san will soar,
 and surely ride the currents... I'm betting on it!"
-0,プロデューサー,それはもったいないお言葉を……,We're extremely flattered...
-0,スタッフ,"──はい、オッケーです
+0000000000000,プロデューサー,それはもったいないお言葉を……,We're extremely flattered...
+0000000000000,スタッフ,"──はい、オッケーです
 次のグループのみなさん、お願いします……！","──Alright, that's okay for this group.
 Can the next group please...!"
 1021003020050,円香,……っ,...tsk.
-0,営業,軽やかに──,So lightly.
-0,営業,樋口さんは本当に軽やかに踊りますね……,Higuchi-san dances so lightly...
-0,営業,"周囲の子も一生懸命なのはわかるけど、
+0000000000000,営業,軽やかに──,So lightly.
+0000000000000,営業,樋口さんは本当に軽やかに踊りますね……,Higuchi-san dances so lightly...
+0000000000000,営業,"周囲の子も一生懸命なのはわかるけど、
 比べると重たく見えるってわかります？","The girls around her are all working so hard, but
 don't they look weighed down in comparison?"
-0,プロデューサー,…………,......
-0,営業,残酷ですね、才能は,Talent sure is a cruel thing.
-0,プロデューサー,"──絶賛してくれていたよ
+0000000000000,プロデューサー,…………,......
+0000000000000,営業,残酷ですね、才能は,Talent sure is a cruel thing.
+0000000000000,プロデューサー,"──絶賛してくれていたよ
 『G.R.A.D.』も応援しているって","──he kept singing your praises.
 You can count on his support for 『G.R.A.D.』 too."
 1021003020060,円香,今度お礼を言っておきます,I'll thank him next time.
-0,プロデューサー,ああ、頼んだ,"Aah, please do."
+0000000000000,プロデューサー,ああ、頼んだ,"Aah, please do."
 1021003020070,円香,……,...
 1021003020080,円香,今日はやっていないんですね,Seems like they're not doing it today.
-0,プロデューサー,ん？,Hm?
+0000000000000,プロデューサー,ん？,Hm?
 1021003020090,円香,"そこのCDショップのイベント
 毎週やっているんじゃなかったんでしたっけ","The event at that CD shop.
 I thought it's held there every week."
-0,プロデューサー,"ああ、そういえば……
+0000000000000,プロデューサー,"ああ、そういえば……
 最近はスケジュールが変わったのかな","Aah, now that you mentioned it...
 I wonder if they changed their schedule."
 1021003020100,円香,そうですか,Perhaps they did.
@@ -71,26 +71,26 @@ I wonder if they changed their schedule."
 1021003020120,円香,あの,Hmm.
 1021003020130,円香,宣材写真って撮り直してもいいんでしたっけ,"You mentioned that I could take new promo photos,
 didn't you."
-0,プロデューサー,"……ああ、もちろん
+0000000000000,プロデューサー,"……ああ、もちろん
 よかったら手配しておこうか？","...Aah, yes, of course.
 Should I arrange for one?"
 1021003020140,円香,お願いします,Yes please.
-0,プロデューサー,"あ、すまん……
+0000000000000,プロデューサー,"あ、すまん……
 ちょっとだけ待ってもらってもいいか","Ah, sorry...
 Give me a moment."
 1021003020150,円香,どうぞ、お構いなく,"Please, feel free."
-0,プロデューサー,"はい、もしもし
+0000000000000,プロデューサー,"はい、もしもし
 お世話になっております──！","Yes, hello.
 Pleasure doing business again──!"
 1021003020160,円香,…………,...
 1021003020170,円香,彼女は……,She is...
 1021003020180,円香,未熟で、未完成のまま──,going to end it all like this.
 1021003020190,円香,終わろうとしている,"Underdeveloped, and incomplete──"
-0,プロデューサー,──すみません、ただいま出先でして,"──Apologies, I'm out right now"
-0,プロデューサー,"戻り次第でスケジュールをお送りします！
+0000000000000,プロデューサー,──すみません、ただいま出先でして,"──Apologies, I'm out right now"
+0000000000000,プロデューサー,"戻り次第でスケジュールをお送りします！
 ええ、はい……","but I'll send the schedule once I return!
 Yes, indeed..."
-0,プロデューサー,"いえ、本当にありがとうございます
+0000000000000,プロデューサー,"いえ、本当にありがとうございます
 樋口にお声がけくださって、誠に嬉しく──","No, thank you so much.
 For reaching out to Higuchi, we're really gla──"
 1021003020200,円香,…………,......
