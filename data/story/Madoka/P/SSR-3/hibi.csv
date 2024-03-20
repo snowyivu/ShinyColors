@@ -3,7 +3,7 @@ id,name,text,trans
 0000000000000,プロデューサー,おはよう！,Morning!
 0000000000000,プロデューサー,"……あれ？
 今日、歌のレッスンは……","...Hm?
-Don't you have a singing lesson today...?"
+Don't you have vocal lessons today...?"
 2021007010020,円香,"トレーナーさんから、
 １時間ずらしてほしいと連絡がありまして","Trainer-san messaged and asked to push it back by
 an hour."
@@ -17,7 +17,7 @@ Be my guest."
 2021007010050,円香,………………,......
 2021007010060,円香,………………,......
 0000000000000,テレビの音声,『……笑いの蟻地獄をご堪能あれ……！』,"""...He'll make you laugh till the end of time...!"""
-0000000000000,プロデューサー,──お笑い番組？,──A comedy show?
+0000000000000,プロデューサー,──お笑い番組？,──A comedy program?
 2021007010070,円香,"…………
 ……うるさいですか","......
 ...Is it too loud?"
@@ -31,7 +31,7 @@ That's funny."
 2021007010100,円香,……何？,...What?
 0000000000000,プロデューサー,いや、ちょっと一緒に見ようかと,Nothing. Just thought I'd watch it with you for a bit.
 2021007010110,円香,"仕事中ですよね
-……消します","You're in the middle of work.
+……消します","You're in the middle of work, aren't you.
 ...I'll turn it off."
 0000000000000,プロデューサー,"待て待て！
 少しだけ休憩ってことで……","Wait, wait!
@@ -42,11 +42,11 @@ I'm taking a bit of a break..."
 これは面白かったよ、なあ────","Haha... What a punchline...!
 Isn't that funny────"
 2021007010130,円香,全然,Not at all.
-0000000000000,プロデューサー,あれ,Oops.
+0000000000000,プロデューサー,あれ,Yikes.
 2021007010140,円香,"うらやましい限りです
 こんなくだらないもので笑えるなんて","I'm envious.
 Being able to laugh at something so silly."
-0000000000000,プロデューサー,そ、そんな冷静に……,Y-You're not laughing at all huh...
+0000000000000,プロデューサー,そ、そんな冷静に……,Y-You don't need to watch it so seriously...
 2021007010150,円香,あなたほど単純にはできていないので,I'm not as simple as you.
 0000000000000,テレビの音声,『続いては──』,"""Up next──"""
 0000000000000,プロデューサー,"あ、この芸人さんは知ってるか？
@@ -54,7 +54,9 @@ Being able to laugh at something so silly."
 He's gaining quite a bit of popularity."
 2021007010160,円香,………………,......
 0000000000000,プロデューサー,オーバーな一発芸が売りの,His over the top one-liners are really popular.
-0000000000000,テレビの音声,きんにーく──べろんちょ！！！！！』,"""Kinniikubencho!!!!!"""
+0000000000000,テレビの音声,『きんにーく──べろんちょ！！！！！』,"""Muuscleeeesberoncho!!!!!""
+(TL note: It's a reference to a meaningless Japanese
+punchline ズンドコベロンチョ,  so dw abt it)"
 2021007010170,円香,うぉふっ──……！！,*cough**cough*──...!!
 0000000000000,プロデューサー,────え！？！？,────Eh!?!?
 2021007010180,円香,けふっ……、………！　こふっ、ぉふ………,"*cough*..., ...! *cough*,*cough*......"
@@ -66,12 +68,12 @@ funny...!?)"
 select,,（ど、どうしよう……）,"(W-What
 should I do...)"
 2021007010190,円香,大丈夫で……けふっ……ぉふっ……,I'm fine... *cough*... *cough*...
-0000000000000,テレビの音声,『へいお待ち！　きんにーく──べろんちょ！！！！！』,"""Wait just a second! Kinniikubencho!!!!!"""
+0000000000000,テレビの音声,『へいお待ち！　きんにーく──べろんちょ！！！！！』,"""Hold it right there! Muuscleeeesberoncho!!!!!"""
 2021007010200,円香,──……うっ……こふっ……！,──...*cough*... *cough*!
 0000000000000,プロデューサー,て、テレビ消すからな,L-Let me switch it off.
-2021007010210,円香,テレビは……関係……ない……！,It has nothing to do...with the... show!
+2021007010210,円香,テレビは……関係……ない……！,It has nothing to do...with the... program!
 0000000000000,プロデューサー,そ、それは……………………,T-That......
-0000000000000,プロデューサー,……そうだな、関係ない,"...Yeah, exactly."
+0000000000000,プロデューサー,……そうだな、関係ない,"...Y-Yeah, it doesn't."
 2021007010220,円香,～～～～～！,～～～～～!
 2021007010230,円香,……片付けます,...I'll clean it up.
 2021007010240,円香,あなたは何もしないでください,Please don't do anything.
@@ -83,8 +85,8 @@ should I do...)"
 気管に……入っただ……けふっ……","*cough*,*cough*......
 Something got... into my throat...*cough*..."
 0000000000000,プロデューサー,（────どうする！？）,(────What should I do!?)
-0000000000000,プロデューサー,（申告通りテレビは関係ないことにすべきか！？）,"(Should I bravely say that it's nothing to do with
-the comedy show!?)"
+0000000000000,プロデューサー,（申告通りテレビは関係ないことにすべきか！？）,"(Should I bravely say that it had nothing to do with
+the comedy program!?)"
 0000000000000,プロデューサー,（それともあえて茶化すべきか！？）,(Or should I poke fun at it intentionally!?)
 0000000000000,プロデューサー,（どちらの方が円香の傷が浅い──！？）,(Which would hurt Madoka the least ──!?)
 2021007010260,円香,こんっ……んっ……、はあ……,"*cough*... *cough*..., *exhale*..."
@@ -109,14 +111,13 @@ well──)"
 0000000000000,プロデューサー,（……なんてことない雰囲気でいこう）,(...Maybe I should act like it's not a big deal)
 0000000000000,プロデューサー,（うん。さらっと、さらっと受け流す感じで）,"(Yeah, I'll elude it smoothly)"
 0000000000000,プロデューサー,"んー、どうした
-ティッシュとか持ってこようか","Hmmー, you okay?
+ティッシュとか持ってこようか","Hmmー, are you okay?
 I'll go get some tissue for you."
 2021007010320,円香,いえ、自分で…………こふっ、っ──,"No, I'll get it my... *cough*"
 0000000000000,プロデューサー,"……持ってくるよ
-背中をさすったりできないから、その代わりに","...I'll go get it.
-It's not appropriate for me to rub your back, so let
-me get it instead."
-2021007010330,円香,…………かかったでしょ,......It got you didn't it.
+背中をさすったりできないから、その代わりに","...I'll go get it. It's not appropriate for me to rub your
+back, so let me get it instead."
+2021007010330,円香,…………かかったでしょ,"......It got onto you, didn't it?"
 0000000000000,プロデューサー,ん？,Hm?
 2021007010340,円香,シャツに,I stained your shirt.
 0000000000000,プロデューサー,"……ああ、気にしないでくれ

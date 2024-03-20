@@ -1,6 +1,6 @@
 id,name,text,trans
-2021007020010,円香,──ん、これ,"──Hm, this one."
-2021007020020,円香,なんだっけ……,What is it...
+2021007020010,円香,──ん、これ,"──Hm, this..."
+2021007020020,円香,なんだっけ……,What was it again...
 2021007020030,円香,"…………
 ──開かないし","......
 ──It doesn't open."
@@ -9,69 +9,73 @@ id,name,text,trans
 すまん、これも追加で……どこに置いたらいい？","Heave, ho...
 Sorry, where should I put this also...?"
 2021007020050,円香,棚の前にお願いします,In front of the cabinet will do.
-2021007020060,円香,まだ増えます？,There's more?
+2021007020060,円香,まだ増えます？,Is there more?
 0000000000000,プロデューサー,"いや、上の倉庫から移す分はこれで最後だ
 残りは後日だから──","Nah, these would be the last from the store room
-upstairs. The remaining will be settled another day──"
-2021007020070,円香,ここにあるものを片付ければ今日は終わりですね,We'll call it a day once we finish tidy these up?
+upstairs. The remaining will be settled another
+day─"
+2021007020070,円香,ここにあるものを片付ければ今日は終わりですね,"Once we finish tidy these up, we can call it a day,
+I suppose."
 0000000000000,プロデューサー,"ああ、そういうことだな
-協力して早めに終わらせよう",Yeah. Let's work together and get it done early.
-2021007020080,円香,あなたは先にこっち,You sort these out.
+協力して早めに終わらせよう","Yeah, we can. Let's work together and get it done
+early."
+2021007020080,円香,あなたは先にこっち,You go sort these out.
 2021007020090,円香,"仕舞う場所がわからなかった物は
-このダンボールに集めておきました","I've already put things that I don't know where to put
-into this cardboard box."
+このダンボールに集めておきました","I've already put things that I don't know where to
+put into this cardboard box."
 2021007020100,円香,"捨てるでいいような気もしましたが
 私には判断できないので","I think they can be thrown out but it's not really up
 to me."
 0000000000000,プロデューサー,了解、分類すればいいんだな,"Alright, I guess we just need to sort them first."
 0000000000000,プロデューサー,ええと──……,Hmmm...
-0000000000000,プロデューサー,……うん、全部捨てるで問題ない,"...Yeah, these can all be discarded."
+0000000000000,プロデューサー,……うん、全部捨てるで問題ない,"...Yeah, we can dispose all of these."
 2021007020110,円香,そうですか,Is that so.
 0000000000000,プロデューサー,"ああ、もったいないけど使いみちもないし……
-置き場所にも限界があるし","Yea. It's gonna be a waste but we have no use for
+置き場所にも限界があるし","Yea. It's such a waste but we have no use for
 them... There's a limit to our storage space too."
 0000000000000,プロデューサー,"現に倉庫のキャパを超えたから
-こうして整理しているわけだしな","The room's already bursting, that's why we're
+こうして整理しているわけだしな","The room's already bursting, abd that's why we're
 tidying it up."
 2021007020120,円香,"……何それ
 未練がましい言葉","...What's that.
 You sound as if you're unwilling to part with them."
-2021007020130,円香,……家は？,...What about your house?
+2021007020130,円香,……家は？,...How about your house?
 0000000000000,プロデューサー,ん？,Huh?
 2021007020140,円香,"捨てたくないなら、
 自分の家に持って帰ったら","If you don't want to throw them away,
-you can bring them home you know."
+you can bring them home, you know."
 0000000000000,プロデューサー,えっ、いやそういうわけにも……,"Eh, no, that's not how things work..."
 2021007020150,円香,"ああ、家のキャパも溢れていると
-すでに足の踏み場もありませんでしたか","Ah, I see. Your house is already filled to the brim and
-you can't even take a step walking through your stuff
-huh."
+すでに足の踏み場もありませんでしたか","Ah, I see. Your house is already filled to the brim
+and you can't even take a step walking through
+your stuff huh."
 0000000000000,プロデューサー,い、いやいやいや……！,"N-No, that's not true...!"
 select,,円香こそ,"What about
-yours then."
+yours, then"
 select,,捨てるけど、でも……,"We'll throw them
 away, but..."
 select,,足の踏み場は……ある,"There's still space
-to at least... walk."
+to at least... walk"
 0000000000000,プロデューサー,円香の部屋こそどうなんだ,I wonder how packed your room is.
 2021007020160,円香,……ああ,...Aah.
 2021007020170,円香,"そうやってさらっとプライベートを
-聞き出していくのが手口ですか","That's how you get people to talk about their private
-business huh."
+聞き出していくのが手口ですか","So that's how you get people to talk about their
+private lives huh."
 0000000000000,プロデューサー,ひ、人聞きが悪い,"Hey, d-don't go hurting my reputation now."
 2021007020180,円香,"……まあ、名誉のために言いますが普通に片付いています
 いらないものは残しませんので","...Well, to protect my own reputation, I'll have you
 know that I tidy my room and I throw away things
 I don't need."
 0000000000000,プロデューサー,"確かに今日の片付けも早くて正確だもんな
-……聞くまでもなかったか","That's true, from the way you're so precise and fast.
-...I shouldn't have asked."
+……聞くまでもなかったか","That's true, from the way you were so precise and
+fast sorting out those earlier... I shouldn't have
+asked."
 0000000000000,プロデューサー,はは、すまんすまん,"My bad, haha."
 0000000000000,プロデューサー,"うん、やっぱりこのダンボールは捨てよう
 残しておくときりが無いからさ","Yeah, I think there's no need to keep these stuff
 afterall. There's no end if we keep leaving things
 behind."
-2021007020190,円香,はい,Yes.
+2021007020190,円香,はい,Alright.
 0000000000000,プロデューサー,"名残惜しいと思うだけだよ
 ほんの少しだけ","It's a bit sad though.
 Hmm, maybe we can leave a little..."
@@ -88,7 +92,8 @@ important, can you."
 0000000000000,プロデューサー,それは────,Well────
 0000000000000,プロデューサー,"すぐに答えるのは難しいな
 ちゃんと考えたら違う答えになるかもしれないけど……","That's a difficult question to answer right away,
-and my answer might change if I give it some thought…"
+and my answer might change if I give it some
+thought…"
 0000000000000,プロデューサー,"その時、自分の手が届くものだけでも
 必死に抱えるんじゃないかな","But, I think I will do my best to hold on to what is
 within my reach."
@@ -97,10 +102,10 @@ within my reach."
 そうとも限らないだろう","I'll discard things whenever they lose importance──
 Though that's not always the case."
 0000000000000,円香,…………,......
-2021007020250,円香,そうかもしれませんね,Maybe that's how it is.
+2021007020250,円香,そうかもしれませんね,Maybe that's how things are.
 0000000000000,円香＆プロデューサー,…………,......
 0000000000000,円香＆プロデューサー,……………………………………,.........
-0000000000000,プロデューサー,……できれば、ツッコミが欲しい,...Won't you give me one of your usual jabs?
+0000000000000,プロデューサー,……できれば、ツッコミが欲しい,...Aren't you gonna give me one of your usual jabs?
 2021007020260,円香,面倒だったので,It's too troublesome.
 2021007020270,円香,"手放すことを恐れない
 これが片付けのコツだそうです","Don't be afraid to let go of things.
@@ -109,23 +114,23 @@ That's apparently the key to tidying up."
 2021007020280,円香,苦手そうですね、ご愁傷さまです,"Seems like you're not good at letting go of things.
 My condolences."
 0000000000000,プロデューサー,"はは……どうだろうな
-円香は得意なのか？","Haha... I wonder.
-Are you good at it?"
+円香は得意なのか？","Haha... I wonder about that.
+What about you? Are you good at it?"
 2021007020290,円香,"さあ、知りませんが
 部屋は片付いていますね","Who knows.
 But I do tidy up my room."
 2021007020300,円香,必要な物ならまた買えばいいし,"If it's something I need, I'll just buy them again."
 0000000000000,プロデューサー,でも──,But──
-0000000000000,プロデューサー,二度と買えないものだってあるじゃないか,aren't there things that you can never buy again?
+0000000000000,プロデューサー,二度と買えないものだってあるじゃないか,Aren't there things that you can never buy again?
 2021007020310,円香,"それなら諦めるしかないですね
 最初からなかったんです、そんなものは","Then there's no choice but to give up.
-There's nothing I'll need to that extent in the first
-place."
+Though there's nothing I'll need to that extent in
+the first place."
 0000000000000,プロデューサー,"なるほど……
 俺も大人になったら分別がつくのかなあ……","I see... Hopefully I can be as sensible when I grow up
 into an adult."
 0000000000000,円香＆プロデューサー,……………………………………,............
-0000000000000,プロデューサー,……できれば、ツッコミが欲しい,...Won't you give me one of your usual jabs?
+0000000000000,プロデューサー,……できれば、ツッコミが欲しい,...Aren't you gonna give me one of your usual jabs?
 2021007020320,円香,面倒だったので,It's too troublesome.
 info,produce_events/202100702.json,
 Translator,Mycstea,

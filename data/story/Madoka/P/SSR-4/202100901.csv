@@ -3,15 +3,15 @@ id,name,text,trans
 0000000000000,プロデューサー,ああ,Aah.
 0000000000000,プロデューサー,そこに無いものを見ようとしてしまう──,Try to look at what's not there─
 0000000000000,プロデューサー,欠けた部分まで見ようとしてしまうから,"And by trying to look at the missing parts,"
-0000000000000,プロデューサー,完璧になる,it becomes perfect.
+0000000000000,プロデューサー,完璧になる,It becomes perfect.
 0000000000000,スタッフ,──すみませーん！,─I'm so sorry!
 0000000000000,スタッフ,"長いことお待たせしてしまって……
 あともう少しだけお待ちください","We've made you wait so long...
-Please wait for just a little while longer,"
-0000000000000,スタッフ,まもなく撮影を始めますので！,and we'll get started on the shoot!
+but please, wait for just a little while longer,"
+0000000000000,スタッフ,まもなく撮影を始めますので！,And we'll get started on the shoot!
 0000000000000,プロデューサー,はい！,Okay!
 2021009010020,円香,はい,Okay.
-0000000000000,プロデューサー,────ということらしいよ,──Or so they say.
+0000000000000,プロデューサー,────ということらしいよ,──And that's what they said.
 2021009010030,円香,ふうん,Hmph.
 0000000000000,プロデューサー,"もちろん、円香が言ったように、
 黄金比で構成されていることもあるけれど","Of course, like what you said, sometimes they're
@@ -40,8 +40,8 @@ It's all a play of words."
 2021009010080,円香,……,...
 2021009010090,円香,つまり、こういうこと？,"So you mean something like,"
 2021009010100,円香,"人気の絶頂で引退した、
-アイドル、俳優、ミュージシャン","an idol, actor, musician,
-retiring at the peak of their popularity."
+アイドル、俳優、ミュージシャン","An idol, actor, musician, retiring at the peak
+of their popularity."
 2021009010110,円香,そういう人ほど名が残る,"And the more they were at their peak,
 the more famous they get?"
 0000000000000,プロデューサー,ああ……,Ahh...
@@ -59,8 +59,8 @@ that they become perfect."
 0000000000000,プロデューサー,永遠に、そうエターナルに────,"Forever, for eternity──"
 2021009010140,円香,………………,.........
 select,,…………,......
-select,,……と、まあ,"...And, well."
-select,,……さて,...Now then.
+select,,……と、まあ,"...And, well"
+select,,……さて,...Now then
 0000000000000,円香＆プロデューサー,………………,.........
 0000000000000,プロデューサー,……しかし、遅いな,...But it sure is getting late.
 2021009010150,円香,呼ばれませんね,"They haven't called us in, huh."
@@ -69,8 +69,7 @@ select,,……さて,...Now then.
 ""something interesting""."
 2021009010160,円香,まだあなたのターン,It's still your turn though.
 0000000000000,プロデューサー,俺はミロのヴィーナスの話を,I just talked about the Venus de Milo.
-2021009010170,円香,今の『面白い話』でした？,"Was that supposed to be ""something
-interesting""?"
+2021009010170,円香,今の『面白い話』でした？,"Was that supposed to be ""something interesting""?"
 0000000000000,円香＆プロデューサー,…………………………,.........
 0000000000000,プロデューサー,────じゃーん、けん,"──Scissors, paper─"
 0000000000000,プロデューサー,はは、別に『面白い話』じゃなくてもいいよ,"Haha, we don't need to talk about ""something
@@ -78,12 +77,12 @@ interesting""."
 0000000000000,プロデューサー,ただの暇つぶしなんだから、なんでも……,"Just anything to kill the time, really..."
 0000000000000,プロデューサー,そうだなあ、でも美術館にいることだし……,"And well, since we are in the museum..."
 0000000000000,プロデューサー,美しいものの話はどうだろう,Why not talk about something beautiful?
-0000000000000,プロデューサー,おあとがよろしいようで……？,I‘m done. May I cede the time...?
+0000000000000,プロデューサー,おあとがよろしいようで……？,I'm done. May I cede the time...?
 2021009010180,円香,"え、今ので終わりですか
 ダメでしょ","Eh, you're ending it just like that?
 No way."
-0000000000000,プロデューサー,いや俺も途中でダメかもと思ったが,"Well, I didn't think that would work halfway
-through myself."
+0000000000000,プロデューサー,いや俺も途中でダメかもと思ったが,"Yeah, even I thought that it's no good halfway
+through too."
 2021009010190,円香,退屈しのぎが退屈ってどういうことですか,"What were you doing, trying to relief boredom by
 doing something boring?"
 0000000000000,プロデューサー,ううん、じゃあ何か別の────,"Nah, but why don't we──"
@@ -92,8 +91,8 @@ doing something boring?"
 The shoot is about to begin, so please get ready."
 0000000000000,プロデューサー,！　はい！,! Got it!
 0000000000000,スタッフ,"すみません、お話をさえぎってしまって
-大丈夫ですか？","I'm sorry if I had interrupted your conversation
-just now. Is everything's alright?"
+大丈夫ですか？","Apologies if I had interrupted your conversation
+before. Is everything alright?"
 0000000000000,プロデューサー,ええ！　大した話では……,Yes! It wasn't anything important...
 2021009010200,円香,"そうですね
 大した話では","Indeed.
@@ -113,7 +112,7 @@ cannot see?"
 0000000000000,プロデューサー,"どうだろう
 少しは暇つぶしになったかな","How was it?
 Did I at least help relief a little boredom?"
-2021009010230,円香,ふぁ……,(Yawn)...
+2021009010230,円香,ふぁ……,*yawn*...
 2021009010240,円香,……何か言いました？,...Did you say something?
 0000000000000,プロデューサー,いや,Nope.
 0000000000000,プロデューサー,"……お、円香のスマホ
@@ -124,7 +123,7 @@ But there's no cell reception here, so..."
 0000000000000,プロデューサー,ああ、そうか……,"Aah, I see..."
 2021009010260,円香,"……こんな山奥の美術館にも、
 昔は人が来ていたんですよね","...People used to come to this museum
-despite how deep it is in the mountains huh."
+despite how deep it is in the mountains, huh."
 0000000000000,プロデューサー,"まあ、ここが営業していた時代は、
 たぶん携帯電話もなかったんじゃないかな","Yeah well, there probably weren't mobile phones
 back in the day when this place was still running."
@@ -132,15 +131,15 @@ back in the day when this place was still running."
 0000000000000,プロデューサー,"まだ撮影始まらないみたいだから
 次の話でもしようか","Looks like the shoot isn't starting any time soon.
 Wanna switch topics?"
-2021009010280,円香,……,(Sigh)...
+2021009010280,円香,……,*sigh*...
 2021009010290,円香,次は、なんの話？,And what will that be?
 0000000000000,プロデューサー,"うーん、せっかく美術館にいることだし
 そこから思いつくのは","Hmm, since we're in a museum, the only things I could
 think of would be things related, like,"
-0000000000000,プロデューサー,芸術家の話……,artists...
+0000000000000,プロデューサー,芸術家の話……,Artists...
 0000000000000,プロデューサー,画材の話…………？,Maybe art materials......?
-0000000000000,プロデューサー,学生時代の俺の美術の成績について……？,"Perhaps talk about the results of art classes during my
-schooling years...?"
+0000000000000,プロデューサー,学生時代の俺の美術の成績について……？,"Perhaps talk about the results of art classes during
+my schooling years...?"
 0000000000000,プロデューサー,うーん、じゃあ,"Hmm, actually,"
 0000000000000,プロデューサー,美しいものの話をしよう,How about we talk about something beautiful?
 info,produce_events/202100901.json,

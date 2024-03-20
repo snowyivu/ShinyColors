@@ -3,13 +3,12 @@ id,name,text,trans
 0000000000000,off,『第４回』,"""Episode 4"""
 0000000000000,プロデューサー,すまん、ちょっと道が悪い,"Sorry, the road's kinda rough."
 0000000000000,プロデューサー,"しばらく揺れるかもしれない
-ごめんな","The car's probably going to rock around for a
-while."
+ごめんな",The car's probably going to rock around for a while.
 2021009040010,円香,はい,Alright.
 0000000000000,プロデューサー,"また山奥での撮影になるけど
 今回は電波が入る場所らしいから","Even though the shoot location's in the mountains
-again, it'll be probably be fine since there's 
-cell reception this time."
+again, it'll be probably be fine since there's cell
+reception this time."
 2021009040020,円香,……はい,...Alright.
 0000000000000,プロデューサー,"はは、この前は驚いたもんな
 だからちゃんと確認しておいたんだ","Haha, I was caught by surprise the last time, so I
@@ -27,26 +26,27 @@ usually don't go."
 2021009040070,円香,"あなたの言葉は
 一体、どこまで本当なの","Of everything you said...
 which parts of it do you really mean."
-2021009040080,円香,別に、最初から連載回数は決まっていましたので,"It's not like you didn't know that the number of
-episodes were predetermined."
+2021009040080,円香,別に、最初から連載回数は決まっていましたので,"It's not as if the number of episodes weren't 
+predetermined."
 0000000000000,プロデューサー,はは、まあそうなんだけど,"Haha, that's true"
-0000000000000,プロデューサー,毎回、ちょっとした旅みたいでさ,but every episode felt like a short trip.
+0000000000000,プロデューサー,毎回、ちょっとした旅みたいでさ,But every episode felt like a short journey.
 0000000000000,プロデューサー,空き時間に円香とくだらない話をするのも楽しかったんだ,"And it's fun to talk about pointless things with
 you during our free time."
 0000000000000,円香,……,...
 0000000000000,プロデューサー,ほら、ミロのヴィーナスとか,"You know, things like the Venus de Milo."
 2021009040100,円香,あなたは,Do you
-2021009040110,円香,欠けた部分に完璧を見るの？,really see perfection in things that are missing?
+2021009040110,円香,欠けた部分に完璧を見るの？,Really see perfection in things that are missing?
 2021009040120,円香,……ふうん,...Hmm.
 2021009040130,円香,"じゃ、この仕事が終わったら
-あなたのくだらない話はなくなるんですね","Well, once this job finishes, I'll be missing out on
-those pointless conversations then."
+あなたのくだらない話はなくなるんですね","Well, that means that once this job finishes, 
+those pointless conversations of yours would also
+cease then."
 0000000000000,プロデューサー,え,Eh.
 0000000000000,プロデューサー,そう来たか……,That's where you're coming from huh.
 2021009040140,円香,ねえ,Hey.
-2021009040150,円香,あなたは、おそらく,Aren't you someone who likely
+2021009040150,円香,あなたは、おそらく,Aren't you someone who likely―
 2021009040160,円香,まあ,Well.
-2021009040170,円香,どうせするんでしょ,You'll just do it anyways.
+2021009040170,円香,どうせするんでしょ,You'll keep doing it anyways.
 2021009040180,円香,"この仕事が終わった後も
 くだらない話","Go on and on about pointless things even after
 this job ends."
@@ -55,29 +55,28 @@ this job ends."
 2021009040190,円香,そうは言ってない,I never said that.
 0000000000000,プロデューサー,言ってないな,"Nope, you never did."
 2021009040200,円香,"あなたは欠けたものを
-そのままに愛する人では","loves things for what they are, with all their
-missing parts."
+そのままに愛する人では","―Loves things for what they are, with all their
+missing parts;"
 2021009040210,円香,過去ではなく今を見る人では,"Someone that looks at the present, and not the
-past."
+past;"
 0000000000000,プロデューサー,"ああ、ドライフラワーのカフェには
 もう一度行かないとな","Aah right, we'll have to visit the dried flower cafe
 again."
 0000000000000,プロデューサー,"円香をイメージしたブーケ……というかスワッグか、
 直接受け取りたいって言ってただろう","A bouquet arranged with the image of Madoka...
-or in this case, a swag. You did say that you wanted to
-pick it up yourself, right?"
+or in this case, a swag. You did say that you wanted
+to pick it up yourself, right?"
 2021009040220,円香,"枯れた花を、
 枯れたまま美しいと思う人では","Someone who thinks that a withered flower is
 beautiful as it is."
 2021009040230,円香,私とは違って,Unlike me.
 2021009040240,円香,"そうですね
-せっかくのお申し出をいただいたので、できれば","Yes.
-We've already agreed to accept the gift, so I'd like to go
-if possible."
+せっかくのお申し出をいただいたので、できれば","Yes. We've already agreed to accept the gift, so I'd
+like to go when we can."
 0000000000000,プロデューサー,"問題ないよ
 あそこは近場だしな","No problem.
 The place is quite close anyways."
-2021009040250,円香,知らないけど,Though I don't really know.
+2021009040250,円香,知らないけど,Though I don't really know anymore.
 0000000000000,プロデューサー,"──よし、ここが今日泊まるホテルだ
 長時間、お疲れ様","─Alright, this is the hotel we'll be staying for the
 night. It's been a long trip."
@@ -88,25 +87,26 @@ night. It's been a long trip."
 I'll see if I can find out once I check-in."
 select,,もう日が暮れるな,"The sun's already
 setting huh"
-select,,荷物、持つよ,I'll carry the luggage
+select,,荷物、持つよ,"I'll carry the
+luggage"
 select,,……あ、待ってくれ,"...Ah, wait up"
 0000000000000,プロデューサー,"一日、移動で終わったが……
 暗くなる前には到着できてよかった","We spent a whole day travelling...
-but it's thankfully we made good time and arrived
+but thankfully we made good time and arrived
 before it got dark."
 0000000000000,プロデューサー,"明日の撮影に備えて、
-少しはゆっくりできそうだ","Get ready for tomorrow's shoot, then take it easy
-for the rest of the day."
+少しはゆっくりできそうだ","Get ready for tomorrow's shoot, then just take it
+easy for the rest of the day."
 2021009040270,円香,はい,Alright.
 2021009040280,円香,"目に見えるものは、
 極まったところで落ちていく","Something visible
-will surely fall out of sight in the distance."
-2021009040290,円香,だから,And that's why
-2021009040300,円香,どこまでも見えないものこそが,there are things that you can't see till
-2021009040310,円香,きっと,forever...
-0000000000000,プロデューサー,今日は結構重いだろう,"The luggage this time's pretty heavy, isn't it."
+will eventually fall out of sight in the distance."
+2021009040290,円香,だから,And that's also why
+2021009040300,円香,どこまでも見えないものこそが,"What you don't see anywhere,"
+2021009040310,円香,きっと,Will surely...
+0000000000000,プロデューサー,今日は結構重いだろう,"The luggage's pretty heavy this time, isn't it."
 2021009040320,円香,"大丈夫です
-自分で持ちます","It's fine.
+自分で持ちます","It's alright.
 I'll carry it myself."
 2021009040330,円香,"日は沈む
 花は枯れる","The sun sets.
@@ -117,11 +117,10 @@ The flower withers."
 yet it isn't."
 2021009040360,円香,なら、不完全なものは,"But, whatever isn't perfect, is."
 0000000000000,プロデューサー,"まあいいじゃないか
-持たせてくれ","It's fine isn't it.
-Just wait for me a bit."
+持たせてくれ","Come on, just let me carry it."
 0000000000000,プロデューサー,"何を隠そう……！
-俺は重たい荷物を持つのが好きなんだ","You're trying to hide something...!
-I like to carry heavy things you know."
+俺は重たい荷物を持つのが好きなんだ","In fact...!
+I like to carry heavy things, you know."
 2021009040370,円香,はあ……？,Huh...?
 2021009040380,円香,──あなたも心をさらけ出しているようで,─Seem like you're exposing your heart as well.
 2021009040390,円香,本当のところが、私には見えない,"But the parts that are real, are invisible to me."
@@ -130,8 +129,7 @@ I like to carry heavy things you know."
 2021009040400,円香,……,...
 0000000000000,プロデューサー,"ドライフラワーのカフェからメールだ
 作ってくれていたスワッグができたそうだよ","It's a message from the dried flower cafe.
-Seems like the swag they were making is already
-ready."
+Seems like the swag is finished."
 0000000000000,プロデューサー,"添付写真付きだ
 ほら","They attached a photo too.
 Look."
@@ -143,7 +141,7 @@ wilted."
 時間にとらわれることがない","But if something has no form
 and isn't bounded by time,"
 2021009040450,円香,"だから結局、
-美しいものは","then it is ultimately
+美しいものは","Then it is ultimately
 something beautiful."
 info,produce_events/202100904.json,
 Translator,Mycstea,

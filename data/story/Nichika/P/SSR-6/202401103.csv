@@ -1,0 +1,143 @@
+id,name,text,trans
+0000000000000,プロデューサー,"…………あー
+捕まっちゃったな","......Ah.
+We're stuck in traffic."
+0000000000000,プロデューサー,混んでるな、この道……,This street is packed...
+0000000000000,プロデューサー,…………にちか,......Nichika.
+2024011030010,にちか,………………,..................
+0000000000000,プロデューサー,"ああ、いや…………
+疲れちゃったよな","Oh, sorry...
+You must be tired."
+2024011030020,にちか,"…………
+……まぁ……────","............
+......I guess......────"
+0000000000000,メイクスタッフ,"ハロウィンどうするの？
+にちかちゃん","What are you doing on Halloween?
+Nichika-chan."
+0000000000000,メイクスタッフ,"みんなで集まったり
+……ほら、仮装とかさ","Are you gonna get together with everyone and...
+Y'know, dress up and stuff?"
+2024011030030,にちか,"いやいや、行かないですってそういうの
+普通に仕事ですよー","No way, I'm not going to that kind of thing.
+I have work to do as usual."
+0000000000000,メイクスタッフ,"おいー、若者ー！
+青春どこ行ったー","Hey, young lady!
+Where's your youth?"
+2024011030040,にちか,"えー、ハロウィンだからって
+特別感あります？","Eh, is there anything special about Halloween?"
+2024011030050,にちか,"人混みすごいだけじゃないですか……！
+あの道、帰りに通らないといけないんですよ？","It's only fun because of how overcrowded it is...!
+And then I have to go through that street on my way
+home, you know?"
+0000000000000,プロデューサー,"当日、もっと混みそうだな
+たくさん集まるだろうし……","It's going to be a lot more crowded on that day since
+people will be gathering..."
+0000000000000,プロデューサー,一大イベントだもんな、ハロウィン,Halloween is a big event.
+2024011030060,にちか,…………,............
+0000000000000,プロデューサー,………………,..................
+0000000000000,メイクスタッフ,"あはは、人混みはねー……
+だけど、私けっこうハロウィン好きなんだよね","Ahaha, I guess it is crowded...
+Still, I like Halloween."
+0000000000000,メイクスタッフ,"会いにくる日じゃん……家族に
+ハロウィンって","They say that... On Halloween, people come back to
+see their family."
+2024011030070,にちか,"──────
+…………え……","──────
+......eh..."
+0000000000000,メイクスタッフ,"あれ知らんかった？
+亡くなった人たちが────","You didn't know?
+The deceased, I mean────"
+0000000000000,メイクスタッフ,"お婆ちゃん子だったからさー
+嘘でもいいから会えたらいいなって思っちゃうんだ","I was really close to my grandma.
+Even if it's just a lie, it makes me wish I could meet
+her again."
+0000000000000,メイクスタッフ,"ま、ありえないんだけど……あははっ
+でもそういうの素敵じゃんー？","Well, that's impossible, though... Ahaha.
+But it'd be nice if it was true, right?"
+2024011030080,にちか,"あー……あははっ
+ロマンチストだなー……！","Ah... Ahaha.
+It does sound lovely...!"
+0000000000000,プロデューサー,"────……にちか
+当日はこの道、避けて帰ろうか","────......Nichika.
+Do you want to avoid this street on Halloween?"
+2024011030090,にちか,"──────
+…………え……","──────
+......Eh..."
+0000000000000,プロデューサー,"少し遠回りになっちゃうけど
+仮装した人たちで混むだろうからさ","It's a bit of a detour, but we can avoid the crowd in
+costume that way."
+0000000000000,プロデューサー,"ああいうイベントとか
+にちか、あまり好きじゃないかなって",I just thought that you wouldn't be into that kind of event.
+2024011030100,にちか,──────…………っ,──────............gh.
+2024011030110,にちか,"…………苦手とか好きじゃないとか
+私プロデューサーさんに言いましたかねー……！","......Did I personally tell you what I'm not good with
+or what I don't like...!?"
+0000000000000,プロデューサー,…………！,............!
+2024011030120,にちか,"嫌いじゃないかもしれないじゃないですか……
+…………そういうの……",What if I don't actually dislike those stuff...?
+0000000000000,プロデューサー,……にち────,......Nichi────
+0000000000000,プロデューサー,…………！,............!
+0000000000000,プロデューサー,にちか、その…………,"Nichika, I..."
+0000000000000,プロデューサー,"にちかだったらこう思うかもって
+勝手な想像で決めつけた…………すまん","I made an assumption of what you might think.
+.....Sorry."
+2024011030130,にちか,……………………,........................
+0000000000000,プロデューサー,……俺は────,...I ────
+2024011030140,にちか,…………停めてほしいんですけど,......Please stop here.
+0000000000000,プロデューサー,…………え？,.........eh?
+2024011030150,にちか,"────……車
+ここで降ろしてもらうことってできますかねー","────...The car.
+Can you please drop me off here?"
+select,,家はまだ先だぞ,"Your house is
+still far from 
+here."
+select,,何かあったのか？,What's wrong?
+select,,"こんなところで
+降ろせない","I can't drop
+you off here."
+2024011030160,にちか,…………牛乳,......Milk.
+0000000000000,プロデューサー,え？,Eh?
+2024011030170,にちか,"切らしてるので……！
+スーパー寄って帰ります","I'm out of milk...!
+I'm going to stop by the supermarket before
+heading home."
+0000000000000,プロデューサー,"スーパーって……
+ここからけっこう離れて────","The supermarket...?
+It's pretty far away────"
+2024011030180,にちか,"プロデューサーさんが停めてくれなかったせいで頼まれてた
+牛乳買えなかったってことになりますけどいいですかねー？","I guess it's fine if I can't buy the milk I was asked to
+buy all because you didn't stop the car?"
+0000000000000,プロデューサー,"うん、じゃあスーパーまでは送るよ
+…………それならいいか？","Okay, I'll drop you off at the supermarket then.
+......Are you fine with that?"
+2024011030190,にちか,"…………
+好きにすればいいと思いますー","............
+You can do what you want."
+2024011030200,にちか,"…………
+何かないといけない感じです？","............
+Do I need to have something wrong going on?"
+0000000000000,プロデューサー,いや、そういうわけじゃ…………,"No, that's not what I meant..."
+2024011030210,にちか,……ハロウィン関係の仕事とかあるし,...I have work related to Halloween.
+2024011030220,にちか,"勉強のために見にいこうって考えてるとか
+思わないのかなー……","Why wouldn't I go look around to see for myself
+and learn something..."
+0000000000000,プロデューサー,"…………そうだな
+にちかの言う通りかもしれない","......Right.
+I see your point."
+0000000000000,プロデューサー,"うん……せっかくのハロウィンだし
+やっぱり繁華街、通って帰ろうか","Yeah... Halloween is coming soon.
+You can check out the shopping district on your way
+home."
+2024011030230,にちか,………………,..................
+2024011030240,にちか,……じゃあ100メートル先で降ろしてください,...Then drop me off 100 meters away.
+0000000000000,プロデューサー,にちか…………,Nichika......
+2024011030250,にちか,…………200メートル,......200 meters.
+0000000000000,プロデューサー,"…………
+早く降りたい気持ちはわかった","............
+I understand that you want to get off soon."
+0000000000000,プロデューサー,"でも時間も遅いから
+今日は我慢して家までは送らせてくれ","But, it's late already.
+Please be patient and let me drive you home today."
+2024011030260,にちか,………………,..................
+info,produce_events/202401103.json,
+Translator,Ru,

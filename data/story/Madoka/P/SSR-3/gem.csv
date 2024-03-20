@@ -2,13 +2,13 @@ id,name,text,trans
 0000000000000,プロデューサー,喉の調子はどうだ？,How's your throat?
 2021007110010,円香,"大丈夫です
 ご心配おかけしました","It's fine now.
-I apologize for worrying you."
+Apologies for the concern."
 0000000000000,プロデューサー,よかった,Thank goodness.
 0000000000000,プロデューサー,でもしばらくは慣らし運転で,I think it's best if you ease back into things slowly.
 0000000000000,プロデューサー,歌のレッスンもあと少し休もう,"You should still hold off on vocal lessons for a little
 while longer."
-2021007110020,円香,そう言われると,"When you say that,"
-2021007110030,円香,歌いたくなりますが,It just makes me want to sing even more.
+2021007110020,円香,そう言われると,"It just makes me want to sing even more,"
+2021007110030,円香,歌いたくなりますが,when you say that.
 2021007110040,円香,…………,*inhale* *exhale*
 2021007110050,円香,────………………,*humming*
 0000000000000,プロデューサー,"ああ……！
@@ -30,8 +30,7 @@ I figured there must be something precious inside."
 別に……","So you made sure to not look inside?
 There was no need..."
 2021007110090,円香,"ほら、やっぱり
-何も入ってない","See, I knew it.
-There was never anything in it in the first place."
+何も入ってない","See, there wasn't anything in it in the first place."
 2021007110100,円香,"この間、部屋を片付けた時に出てきたんです
 クローゼットの奥に落ちていて……","I found it when I was cleaning the other day.
 Buried in the back of my closet..."
@@ -47,8 +46,8 @@ there."
 "
 2021007110150,円香,────………………,*humming*
 0000000000000,プロデューサー,"…………
-本当に何も…………","Was it really... "
-0000000000000,プロデューサー,入っていないのか……？,...Totally empty?
+本当に何も…………","Was there really... "
+0000000000000,プロデューサー,入っていないのか……？,...nothing inside?
 0000000000000,プロデューサー,ん……？,Huh...?
 0000000000000,プロデューサー,"ああ……
 この宝石箱──","Ah...
@@ -65,9 +64,9 @@ This isn't like her."
 (I can't sing clearly.)"
 2021007110200,プロデューサー,いつもとは違う,"It's different than usual.
 (It's all wrong.)"
-2021007110210,プロデューサー,だけど、この音だ,"But, this sound is right.
+2021007110210,プロデューサー,だけど、この音だ,"But, that's her sound.
 (This isn't the sound I want.)"
-2021007110220,プロデューサー,とても荒くて、単純で、野性的で,"It's an incredibly rough, simple, rational sound.
+2021007110220,プロデューサー,とても荒くて、単純で、野性的で,"An incredibly rough, simple, rational sound.
 (It should be a more exquisite, complex, delicate
 sound.)"
 2021007110230,プロデューサー,豊かな音があるじゃないか,"Her voice has such depth, doesn't it.
