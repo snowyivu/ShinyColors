@@ -1,0 +1,103 @@
+id,name,text,trans
+0,プロデューサー,"……美琴
+今日もやってるな──……","...Mikoto.
+You're hard at work as usual──......"
+0,プロデューサー,────くしゅん,────achoo
+2025005110010,美琴,え……？,Eh...?
+0,プロデューサー,あ…………,Oh......
+0,プロデューサー,"はは……
+すまん、美琴","Haha...
+Sorry, Mikoto."
+0,プロデューサー,差し入れ、持ってきたんだけどさ,I brought refreshment for you.
+2025005110020,美琴,"……そう
+ありがとう","...I see.
+Thanks."
+2025005110030,美琴,"いつも呼ばれても気付かないのに、
+くしゃみには気付いちゃった","I never notice when you call me,
+yet I noticed you sneezing."
+0,プロデューサー,"そうだな
+これからはくしゃみで呼ぶか……","Right.
+Maybe from now on I'll call you by sneezing..."
+2025005110040,美琴,"……それはやめて
+毎回心配しないといけなくなるでしょ？","...Don't do that.
+I'd worry if you do that every time."
+2025005110050,美琴,"それで……大丈夫？
+風邪じゃない？","Anyway... Are you okay?
+Did you catch a cold? "
+0,プロデューサー,"いや、平気だよ
+少し冷えただけで","No, I'm fine.
+It's just a little chilly."
+2025005110060,美琴,"……そう
+なら、よかった","...I see.
+That's good, then."
+0,プロデューサー,"外、かなり寒いんだ
+もしかしたら雪が降るかもしれない","It's quite cold outside.
+Snow might be falling soon."
+2025005110070,美琴,………………,..................
+2025005110080,美琴,"やっぱり、
+東京の方がずっと寒い気がする","As I thought,
+Tokyo has always been much colder."
+0,プロデューサー,え……？,Eh...?
+2025005110090,美琴,"私が地元にいた時も、
+冬はいつもすごい雪だったけど","Back when I lived at home,
+it always snowed a lot in winter."
+2025005110100,美琴,"その分、室内は
+暑いくらいに暖かくしていたから","However, when I was inside,
+it was so warm it actually felt hot."
+2025005110110,美琴,"東京に来て初めての冬は
+どこもすごく、寒く感じたの",My first winter in Tokyo felt really cold everywhere.
+0,プロデューサー,ああ、そういうことか,"Oh, is that so?"
+2025005110120,美琴,"……気持ちの問題も
+あったのかもしれないけどね",...Maybe it's also a matter of feelings.
+2025005110130,美琴,"その頃はまだ、周りは自分よりも年上ばかりで
+頼れるような大人もいなくて","At that time, everyone around me was still older
+than me. I didn't have any adults I can rely on."
+2025005110140,美琴,"道に迷ってもきっと
+誰も私を助けてはくれないだろうと思ってた","If I had gotten lost by any chance,
+I was sure that no one would help me."
+0,プロデューサー,………………,..................
+2025005110150,美琴,"でも、そういう精神的な部分だけじゃなくて
+ただ単に、どこも室温が低すぎたの","But how I feel mentally wasn't solely to blame.
+The room temperature was really too low everywhere."
+2025005110160,美琴,"東京は、こうやって
+部屋にいる時も────……","In Tokyo, even when I'm inside like this────..."
+2025005110170,美琴,────くしゅん,────achoo
+2025005110180,美琴,……寒く感じるでしょ？,"...It feels cold, right?"
+0,プロデューサー,"おいおい
+美琴までくしゃみしちゃってるじゃないか","Oh no.
+Even Mikoto is sneezing."
+0,プロデューサー,少し暖房上げて休憩にしよう,Let's turn up the heater a little and take a break.
+0,プロデューサー,"それから美琴、
+ちゃんと汗拭かないと風邪引くぞ","And, Mikoto, if you don't wipe your sweat properly,
+you'll catch a cold."
+2025005110190,美琴,……うん、わかってる,"...Yeah, I know."
+2025005110200,美琴,────あ、雪……,"────Ah, snow..."
+0,プロデューサー,……やっぱり降り出したか,"...So it's really snowing, huh."
+2025005110210,美琴,積もるかな、朝には,Maybe it'll pile up by morning.
+0,プロデューサー,どうだろうな,I wonder.
+0,プロデューサー,……なあ、美琴,"...Hey, Mikoto."
+2025005110220,美琴,うん？,Mm?
+0,プロデューサー,もう、寒くないか？,Are you still cold?
+2025005110230,美琴,"え……
+ああ、うん","Eh...
+Ah, mm."
+2025005110240,美琴,"大丈夫
+今は、暑いくらい","I'm fine.
+It's pretty hot right now."
+0,プロデューサー,……そうか,...Good.
+2025005110250,美琴,それに────……,Besides────......
+2025005110260,美琴,"今は道に迷ったりしないし、暖房が
+それほど効いてないってわかっているの","I don't get lost anymore, and now I know when the
+heater isn't strong enough."
+2025005110270,美琴,……私も、大人になっちゃったから,"...And, I've also become an adult."
+0,プロデューサー,………………,..................
+2025005110280,美琴,"だけど、もし迷っても
+すごく寒くても、多分……大丈夫でしょ？","But if I get lost,
+or if it gets really cold... I'll probably be okay."
+0,プロデューサー,え……？,Eh...?
+2025005110290,美琴,"だって今は
+頼れる大人が、そばにいてくれるから","Because now,
+an adult I can rely on is by my side."
+2025005110300,美琴,──ね、プロデューサー,"──Right, Producer?"
+info,produce_events/202500511.json,
+Translator,Ruru,

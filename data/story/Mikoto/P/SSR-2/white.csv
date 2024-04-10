@@ -1,0 +1,98 @@
+id,name,text,trans
+0,プロデューサー,う……寒……,Uu... it's cold...
+0,プロデューサー,"…………
+美琴、多分まだやってるよな……","............
+Mikoto is probably still at it..."
+2025005040010,美琴,──あれ、プロデューサー？,"──Huh, Producer?"
+0,プロデューサー,あ……美琴？,Ah... Mikoto?
+2025005040020,美琴,"…………もしかして
+差し入れでもしに来てくれた？","...Did you come to give me refreshment? "
+0,プロデューサー,"え……ああ
+そうなんだ",Eh... Yeah.
+0,プロデューサー,でも今日は、もう終わりか？,Are you done for the day already?
+2025005040030,美琴,"うん
+この時間までしか、場所取れなくて","Yeah. My room reservation was only available until
+this time."
+0,プロデューサー,"そうか
+それじゃ、これ","I see.
+Well then, for you."
+0,プロデューサー,帰りながらでも、飲んでくれ,Please have a drink on your way home.
+2025005040040,美琴,"……ありがとう
+ドリンク？","...Thank you.
+Drink?"
+2025005040050,美琴,あ……はちみつレモンだ,Ah... It's honey lemon.
+0,プロデューサー,"ああ、それ甘すぎなくて飲みやすいんだ
+喉にもいいんじゃないかと思って","Yeah. It's not too sweet and easy to drink.
+I thought it might be good for your throat."
+2025005040060,美琴,"そうだね
+……まだ温かい","I see.
+...It's still warm."
+0,プロデューサー,"じゃあ、タクシー捕まえるか
+そこの通りならすぐ──……","Let's catch a taxi for you.
+There should be one right on that street──..."
+2025005040070,美琴,"あ、ううん
+大丈夫","Ah, it's fine.
+I don't need one."
+2025005040080,美琴,今日は歩いて帰ろうと思って,I thought I'd walk home today.
+0,プロデューサー,"え、ここからか？
+結構距離、あるんじゃないか……？","Eh, from here?
+Isn't it quite far...? "
+2025005040090,美琴,"うん
+だけど歩けない距離でもないし","Yeah.
+But it's still within walking distance."
+0,プロデューサー,でも結構寒いぞ……？,"Isn't it pretty cold, though...?"
+2025005040100,美琴,"歩いてれば暖かくなるよ
+それに──……","I'll get warmed up as I walk.
+Besides──..."
+2025005040110,美琴,"温かいはちみつレモンのドリンクも
+貰ったし",I have a warm honey lemon drink on my hand.
+0,プロデューサー,"……だけど、夜は危ないだろ
+ひとりで遅い時間に出歩くのは──……","...Still, it's dangerous to walk alone late at night..."
+2025005040120,美琴,"…………？
+ひとりじゃないでしょ","............?
+I'm not alone."
+2025005040130,美琴,プロデューサーがいるから,You are with me.
+0,プロデューサー,──……,──......
+2025005040140,美琴,"ちゃんと道もわかるから
+任せて","Don't worry.
+I know the streets well."
+2025005040150,美琴,ほら、あの歩道橋を渡って──……,"Look, we just need to cross that pedestrian bridge──..."
+0,プロデューサー,……仕方ないな,...I guess I have no choice.
+2025005040160,美琴,はー……,hah......
+2025005040170,美琴,…………寒……,............cold......
+0,プロデューサー,"ほら、
+やっぱり寒いんじゃないか",See? It's cold afterall.
+2025005040180,美琴,"あ……本当だね
+今、無意識だった","Ah... That's true.
+I just unconsciously said that out loud."
+0,プロデューサー,"はは……
+ほら、早く行こう","Haha...
+Come on, let's speed up"
+0,プロデューサー,風邪引かないようにさ,so you don't catch a cold.
+2025005040190,美琴,…………うん,......Mm.
+2025005040200,美琴,ねえ、プロデューサー,"Hey, Producer."
+2025005040210,美琴,"冷たい空気の時って
+澄んでいるような気がしない？",Doesn't the air feel clear when it's cold?
+0,プロデューサー,"え？
+……ああ、うん","Eh?
+...Ah, yeah."
+0,プロデューサー,"確かに
+そんな気がするな",It certainly feels that way.
+2025005040220,美琴,"だけど空気の中にホコリとか塵が無いと
+吐いた息って白くならないんだって","But if there's no dust or dirt in the air,
+the breath we exhale won't turn white."
+0,プロデューサー,へぇ……,Huh...
+0,プロデューサー,"じゃあ、今こうやって話してて息が白くなってるのは
+空気の中にホコリとか塵があるってことなのか","So when our breath turns white as we talk, like right
+now, it's because there is dust or dirt in the air?"
+2025005040230,美琴,"うん
+だから本当は澄んでいないのかも","Mm.
+Which means, the air isn't clear in reality."
+0,プロデューサー,…………,............
+2025005040240,美琴,"本当に澄み切った空気の場所……
+南極とかに行けば","A place with truly clear air...
+Must be Antarctica or something."
+2025005040250,美琴,息をした跡も、残らないみたい,There should be no trace of breathing there.
+2025005040260,美琴,はー……,hah......
+info,produce_events/202500504.json,
+Translator,Ruru,

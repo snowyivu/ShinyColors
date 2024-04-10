@@ -1,0 +1,147 @@
+id,name,text,trans
+2025005020010,美琴,────くしゅん,────achoo.
+0,プロデューサー,"え……
+大丈夫か、美琴","Eh...
+Are you okay, Mikoto?"
+0,プロデューサー,風邪じゃないよな？,"You don't have a cold, do you?"
+2025005020020,美琴,"うん、平気
+少し冷えたのかも","I'm fine.
+I just feel a little chilly."
+0,プロデューサー,"やっぱり近いからって歩かないで
+タクシー捕まえればよかったな","We should've taken a cab instead of walking,
+even if the place is nearby."
+2025005020030,美琴,"大丈夫
+もう着くし","It's alright.
+We're almost there."
+2025005020040,美琴,"寒いからって車移動ばっかりだと
+身体、動かさなくなっちゃうでしょ？","If we keep driving around in the car because it's
+cold, then that means we're not getting enough
+exercise, doesn't it?"
+0,プロデューサー,"いやいや、美琴は毎日練習で
+たくさん動いてるじゃないか","No way, you get plenty of exercise by practicing
+everyday already."
+2025005020050,美琴,"……ううん
+私じゃなくて","...No.
+I'm not talking about me."
+2025005020060,美琴,プロデューサーの話,"It's about you, Producer."
+0,プロデューサー,"…………！
+はは……","............!
+Haha..."
+0,プロデューサー,そうだな……！,That's true...!
+2025005020070,美琴,────くしゅん,────achoo.
+0,スタッフ,"わ、緋田さん
+大丈夫ですか……！","Mikoto-san, are you okay...!"
+2025005020080,美琴,"あ……おはようございます
+大丈夫","Ah... Good morning.
+I'm fine."
+2025005020090,美琴,"ちょっと外が寒かっただけで
+風邪とかじゃないから","It was just a little cold outside.
+I didn't catch a cold."
+0,スタッフ,"それならよかったです！
+今日はよろしくお願いします！","I'm glad, then!
+I look forward to working with you today!"
+2025005020100,美琴,……お願いします,...Thanks for having me.
+0,プロデューサー,…………,............
+0,メイクスタッフ,"あ、美琴さん！
+……外、歩いて来ました？","Oh, Mikoto-san!
+...Did you walk here?"
+2025005020110,美琴,"え……うん
+どうして？","Eh... yeah.
+Why?"
+0,メイクスタッフ,"鼻、赤いから
+外から今来たところかなーって","Because your nose is red.
+I just thought maybe you were outside."
+2025005020120,美琴,"……そっか
+じゃあメイクで綺麗に隠してもらわないと","...I see.
+Then, I'll need makeup to cover it up nicely."
+0,メイクスタッフ,"任せてください！
+すぐ楽屋行きますね！","Leave it to me!
+I'll head to the dressing room soon!"
+2025005020130,美琴,……うん,...Mm.
+0,プロデューサー,…………,............
+0,番組ディレクター,"お、美琴ちゃん
+今日はよろしくー！","Oh, Mikoto-chan.
+Looking forward to today!"
+2025005020140,美琴,"あ……おはようございます
+お願いします","Ah... Good morning.
+Thanks for having me."
+0,番組ディレクター,"あとで打ち合わせに楽屋行くから！
+ちょっと待ってて！","We will have a meeting in the dressing room later!
+Wait for me!"
+2025005020150,美琴,"……うん
+待ってます","...Mm.
+I'll be waiting."
+0,プロデューサー,…………,............
+2025005020160,美琴,…………,............
+0,プロデューサー,"──美琴
+やっぱり顔が広いな","──Mikoto.
+You really have many connections."
+2025005020170,美琴,"え……
+あ、そう？","Eh...
+Oh, really?"
+0,プロデューサー,"ああ、ずっと
+声かけられっぱなしじゃないか","Yeah, people have been calling out to you the
+whole time."
+2025005020180,美琴,んー……,Hm...
+0,プロデューサー,どうかしたか？,What's wrong?
+2025005020190,美琴,"ううん
+全然、どうでもいいことなんだけど","Nothing.
+It's not that big of a deal."
+2025005020200,美琴,"私のこと、『美琴』って呼び捨てにする人
+あんまりいないなって思って","I was just thinking about how not a lot of people
+simply call me ""Mikoto""."
+0,プロデューサー,えっ────,Eh────
+select,,そうだったか？,Is that so?
+select,,"変えた方が
+いいか？","Do you want
+it to change?"
+select,,ダメだったか？,Is that bad?
+2025005020210,美琴,"うん
+昔は『美琴』って呼ぶ人が多かったけど","Yeah.
+Back then, there were quite a few who called me ""Mikoto""."
+2025005020220,美琴,"周りの人も、年下が増えてきて
+さん付けされることが多くなったから","Then, I met more people who are younger than me,
+so I've been called ""-san"" more often."
+0,プロデューサー,なるほどな,I see.
+2025005020230,美琴,そうやって呼ぶのは両親と、あと──……,"The only people who call me Mikoto now are
+my parents, and──..."
+2025005020240,美琴,………………,..................
+0,プロデューサー,美琴？,Mikoto?
+2025005020250,美琴,あ……、ううん,Ah... yeah.
+2025005020260,美琴,"両親と、あとは
+プロデューサーくらいだから","Just my parents, and Producer."
+2025005020270,美琴,"あ……ううん
+そういうことじゃないんだけど","Ah... No.
+I'm not bothered by it."
+0,プロデューサー,"そうか？
+ならよかった","Is that so?
+That's good, then."
+2025005020280,美琴,"でも『美琴』以外だったら
+なんて呼ぶの？","But, what would you call me other than ""Mikoto""?"
+2025005020290,美琴,それは少し、気になるかもしれない,I might be a little curious about that.
+0,プロデューサー,"え……どうだろうな
+『美琴』に慣れちゃってるからさ","Eh... I'm not sure.
+I'm used to ""Mikoto""."
+0,プロデューサー,"それ以外って少し違和感があるというか
+……気恥ずかしさもあるな","It'd be a little strange calling you anything else.
+...Might be awkward, even."
+2025005020300,美琴,そうなの？,Is that so?
+2025005020310,美琴,"……それじゃあ
+余計に聞いてみたい気もするね",...That makes me even more curious.
+2025005020320,美琴,"ううん
+ダメじゃないよ","No.
+It's not bad."
+2025005020330,美琴,……むしろ嬉しいかな,...I'm just happy when they do.
+2025005020340,美琴,"なんだか……
+同じ目線に立っている気がして","It's kind of like...
+being on the same page."
+0,プロデューサー,……そうか,...I see.
+0,プロデューサー,"それならこれからも『美琴ー！』って
+呼び続けないとな","Then, I'll have to keep calling you ""Mikoto!"""
+2025005020350,美琴,……うん,...Mm.
+2025005020360,美琴,"そんなことしてくれるの
+きっとプロデューサーくらいだから","I'm sure Producer is the only one who would do that
+for me."
+2025005020370,美琴,これからも、お願いします,Please continue calling me so.
+info,produce_events/202500502.json,
+Translator,Ruru,

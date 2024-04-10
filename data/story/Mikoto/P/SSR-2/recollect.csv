@@ -1,0 +1,127 @@
+id,name,text,trans
+2025005010010,美琴,はぁ…………,Hah...
+2025005010020,美琴,寒…………,It's cold...
+2025005010030,美琴,…………,............
+0,テレビの音,"『続いてお天気です
+東京には本格的な冬が到来！』","""Next is the weather forecast.
+Winter has arrived in Tokyo!"""
+0,テレビの音,『今週も寒い日が続きそうです』──……,"""Seems like it's going to be another cold week""──..."
+2025005010040,美琴,…………,............
+0,プロデューサー,"……あれ、美琴？
+もう来てたのか","...Oh, Mikoto?
+You're already here?"
+2025005010050,美琴,"あ……うん
+早く来すぎちゃった？","Ah... Mm.
+Did I come too early?"
+0,プロデューサー,いや、大丈夫だよ,"No, it's fine."
+0,プロデューサー,"寒かっただろ
+温かいコーヒーあるけど、飲むか？","You must be cold.
+There's hot coffee, if you would like some."
+2025005010060,美琴,"……いいの？
+じゃあ、頂こうかな","...May I?
+I'll have a cup, then."
+0,プロデューサー,おう！,Sure!
+0,テレビの音,"『関東では
+雪のちらつく所もあるかもしれません』","""There may be a bit of snow in the Kanto region."""
+0,テレビの音,『暖かい格好でお出かけください』──……,"""Please make sure to dress warmly""──......"
+2025005010070,美琴,…………,............
+2025005010080,美琴,"ありがとう
+……いただきます",Thank you for the drink.
+0,プロデューサー,ああ、熱いから気を付けてくれ,"You're welcome. It's hot, so be careful."
+2025005010090,美琴,"……ふー……
+────……","......phew......
+────......"
+2025005010100,美琴,──……熱……,──......hot......
+0,プロデューサー,"はは、やっぱり熱かったか
+少し冷ましてからの方がよさそうだ","Haha, yeah. It is.
+It's probably better to let it cool down a bit."
+2025005010110,美琴,"……うん
+そうだね","...Yeah.
+I guess so."
+2025005010120,美琴,"外、寒かったから
+余計に熱く感じるのかも",Maybe it felt unusually hot because it's cold outside.
+2025005010130,美琴,……唇も、冷たくなっていたから,"... And my lips were cold, too."
+0,プロデューサー,"そうかもな
+もうすっかり冬って感じだもんな……","That's probably true.
+It feels like winter already..."
+2025005010140,美琴,"さっき天気予報でも
+今週、雪が降るかもって","The weather forecast earlier said it might snow this
+week."
+0,プロデューサー,うわ、そうか……！,"Uh-oh, is that so...!?"
+0,プロデューサー,"じゃあもっと厚手のコートも
+出しておかないとか……？",I guess I'll have to break out the heavy coats...
+2025005010150,美琴,その方がいいかもね,Probably a good idea.
+2025005010160,美琴,"風邪、引かないようにして
+プロデューサー","Try not to catch a cold, Producer."
+0,プロデューサー,"それはお互い様だぞ
+美琴も気を付けてくれ","That goes for both of us.
+Take care of yourself too, Mikoto."
+0,プロデューサー,"暖かい格好して、
+手洗いうがいもしっかりな！","Remember to dress warmly, wash your hands,
+and gargle!"
+2025005010170,美琴,……うん、わかってる,"...Yeah, I will."
+0,プロデューサー,──あ、でも,"──Oh, but..."
+0,プロデューサー,"美琴は寒いのは慣れてるのか
+寒い地方の出身だし","Aren't you used to cold weather?
+Since your hometown is pretty cold."
+2025005010180,美琴,"…………
+どうかな","............
+I'm not sure."
+2025005010190,美琴,"もう随分帰っていないから
+忘れちゃったかも",I haven't been home for a long time.
+2025005010200,美琴,どのくらい、寒かったのか,I might have forgotten how cold it was over there.
+0,プロデューサー,え……,Huh...
+2025005010210,美琴,………………,..................
+2025005010220,美琴,──ううん、だけど,"──However,"
+2025005010230,美琴,東京の方がずっと寒いよ,Tokyo has always been much colder.
+select,,そうなのか,Is that so?
+select,,知らなかった,"I didn't know
+that."
+select,,そんなはずない,That can't be.
+0,プロデューサー,"いつか行ってみたいな
+美琴の地元の方にも",I'd love to visit your hometown.
+2025005010240,美琴,え……？,Eh...?
+0,プロデューサー,"凱旋ライブって言ったらいいのかな
+できたらいいよな","It would be nice if we could do something like a
+homecoming concert."
+2025005010250,美琴,……そうだね,...I guess so.
+0,プロデューサー,"その時には俺も比べてみるよ
+どっちが寒いのか","When that happens, I'll try to settle the match.
+Which one is colder, here or your hometown."
+2025005010260,美琴,"うん
+聞かせてね",Yeah.
+2025005010270,美琴,プロデューサーは、どう感じたのか,Let me know your verdict.
+0,プロデューサー,"まあ確かに、東京も毎年
+寒くはなるけど……","Well, I guess it's true that Tokyo gets colder
+every year..."
+2025005010280,美琴,そうでしょ？,Is that so?
+0,プロデューサー,"少し旅行に行ったりするのと
+住んでみるのとでは感じ方も違うだろうしな","It might feel different when one is a resident rather
+than a tourist."
+2025005010290,美琴,……うん,...Mm.
+0,プロデューサー,"何にせよ、
+寒くなりすぎないといいよな……！","Anyhow,
+I just hope it doesn't get too cold...!"
+0,プロデューサー,布団から出づらくなるしさ……,"Otherwise, it'd be difficult to get out of bed..."
+2025005010300,美琴,"…………
+そうだね……","............
+Right..."
+2025005010310,美琴,"ちゃんと仕事に来ないとだから
+プロデューサー","You must show up for work, Producer."
+2025005010320,美琴,え……？,Eh...?
+0,プロデューサー,"だって、テレビとかで見ると
+毎年すごいじゃないか","Because, you know, I see it reported
+on TV and stuff every year."
+0,プロデューサー,雪が積もって……！,The snow just piles up...!
+2025005010330,美琴,"……そうだね
+私の地元も、そんな感じ","...I guess so.
+My hometown is like that."
+0,プロデューサー,"ああいうの、
+見てるだけで寒そうじゃないか","It feels cold just by looking, even."
+2025005010340,美琴,"うん
+もちろん、寒くないわけじゃないけど","Yeah.
+Of course, it's not that it's not cold over there."
+2025005010350,美琴,"……私は、東京の方が
+ずっと寒く感じるの",...I just feel much colder in Tokyo.
+info,produce_events/202500501.json,
+Translator,Ruru,

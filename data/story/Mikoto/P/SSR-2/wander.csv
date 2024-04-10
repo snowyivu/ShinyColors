@@ -1,0 +1,133 @@
+id,name,text,trans
+0,修学旅行生A,──みーちゃん！,──Mii-chan!
+2025005030010,美琴,…………,............
+0,プロデューサー,"……？
+美琴、どうした？","......?
+Mikoto, what's wrong?"
+2025005030020,美琴,"あ……
+……ううん","Ah...
+...Nothing."
+0,修学旅行生A,"みーちゃん、多分そっちじゃないよ
+一回ちゃんと地図見よう、迷子になる！","Mii-chan, it's probably not that way.
+Look at the map properly or we'll get lost! "
+0,修学旅行生B,え、だけど私──……,"Eh, but I──......"
+0,プロデューサー,"ああ……修学旅行生かな
+道、迷っちゃったか","Ah... I guess they're students on a field trip.
+Are they lost?"
+0,プロデューサー,"でもああやって道に迷うのも
+いつか良い思い出に──……","But, getting lost like that might become a good
+memory for them one day──..."
+2025005030030,美琴,──……,──......
+0,プロデューサー,え、美琴──……！？,"Eh, Mikoto──......!?"
+2025005030040,美琴,……どこに行きたいの？,...Where are you trying to go?
+0,修学旅行生A,"えっ
+あ、あの……この地図の──……","Eh.
+U-Um... This place on the map──..."
+2025005030050,美琴,ああ、そこなら──……,"Ah, it's this way──......"
+0,修学旅行生B,…………,............
+0,修学旅行生B,"…………
+緋田美琴……？","............
+Mikoto Aketa...?"
+2025005030060,美琴,"え……
+あ、うん","Eh...
+Ah, yes."
+0,修学旅行生A,え、し、知り合い……？,"Huh, y-you know her...?"
+0,修学旅行生B,"違うよ、アイドル！
+えー！　すごい！","No, she's an idol!
+Wow! I can't believe this!"
+0,修学旅行生A,"え……！　東京って本当に
+芸能人が歩いてるんだ……！","Eh...! It's true that celebrities just casually walk
+around Tokyo...!"
+2025005030070,美琴,"その地図のところなら真っ直ぐ行って……
+あの信号のところを右","If you're trying to get there, go straight...
+Then turn right at that traffic light."
+0,修学旅行生B,"すごーい、緋田美琴に
+道案内してもらっちゃった……！","Amazing, Mikoto Aketa is giving me directions...!"
+0,修学旅行生A,"ちょっと、呼び捨てにしないの……！
+すみません、ありがとうございます……！","Hey, don't call her full name like that...!
+Sorry. Thank you so much...! "
+2025005030080,美琴,"うん
+気を付けてね","Mm.
+Have a safe trip."
+2025005030090,美琴,………………,..................
+2025005030100,美琴,"……ごめんね
+時間取っちゃって","...Sorry.
+That took a while."
+0,プロデューサー,いや、それはいいけど,"No, it's fine."
+0,プロデューサー,"まさか声かけると思わなかったから
+驚いたよ","I didn't think you'd come up to them.
+I was surprised."
+2025005030110,美琴,…………,............
+2025005030120,美琴,"私が呼ばれたのかと思ったの
+みーちゃんって",I just thought that they were calling me Mii-chan.
+0,プロデューサー,え……？,Eh...?
+2025005030130,美琴,"もう呼ばれることも無いから
+忘れていたけど","Nobody calls me that anymore, so I forgot about it."
+2025005030140,美琴,"そうやって呼ばれていたことも
+あったなって……",I was reminded that I used to have that nickname...
+0,プロデューサー,へえ……,Huh...
+2025005030150,美琴,"……こんなところでそんなふうに
+呼ばれるわけないんだけどね","...It's impossible that someone would call me that
+name around here, though."
+0,プロデューサー,………………,..................
+select,,俺もそう呼ぼうかな,"Maybe I'll call
+you that."
+select,,可愛いあだ名だな,"That's a cute
+nickname."
+select,,みーちゃん,Mii-chan.
+2025005030160,美琴,え……？,Eh...?
+2025005030170,美琴,"『みーちゃん』って
+プロデューサーが……？","You're going to call me ""Mii-chan""?"
+0,プロデューサー,"…………
+いや、冗談だ、忘れてくれ","............
+Actually, I was joking. Please forget about it."
+2025005030180,美琴,"ううん
+言ってみて、一回","I don't mind.
+You can try it once."
+2025005030190,美琴,聞いてみたいから,I want to hear it.
+0,プロデューサー,"────……
+そんなに待たれると言いにくいな……","────......
+It's difficult now that there's anticipation."
+2025005030200,美琴,"……どうして
+プロデューサーから言ったのに","...Why?
+You suggested it."
+0,プロデューサー,それはそうなんだけど……！,"That's true, but...!"
+2025005030210,美琴,"じゃあ気長に待ってるから
+……いつでもどうぞ","Then I'll wait patiently.
+...Please try when you're ready."
+2025005030220,美琴,"そうかな？
+名前から取っただけで、よくある感じだと思うけど","Really?
+I think it's typical to have something derived from one's name."
+2025005030230,美琴,………………,..................
+2025005030240,美琴,"ねえ、プロデューサーは
+どんなふうに呼ばれていたの？","Hey, what did they call you, Producer?"
+0,プロデューサー,え？,Eh?
+2025005030250,美琴,"学生の頃とか、何か
+あだ名があったんじゃない？","Did you have any nickname back when you were in
+school, for example?"
+0,プロデューサー,ああ、あるにはあったけど……,"Oh, I had nicknames, but..."
+0,プロデューサー,"でも、普通に名字とか名前を
+呼び捨てで呼ばれることが多かったような気がするよ","I think people just called me by my last name or
+first name most of the time."
+2025005030260,美琴,へえ……,Heh...
+2025005030270,美琴,"……じゃあ、私も呼んでみようかな
+そうやって",...Then maybe I'll call you that way too.
+2025005030280,美琴,…………！,............!
+0,プロデューサー,……って冗談のつもりだったんだけど,...I was joking around.
+0,プロデューサー,"すまん
+なんか滑った感じだな……！","Sorry.
+That wasn't funny...!"
+2025005030290,美琴,"……っ
+……ううん……！","......
+......no......!"
+2025005030300,美琴,だいぶ面白いけど……！,It is funny...!
+0,プロデューサー,"あ、そうか？
+ならよかった……","Oh, really?
+Glad to hear that..."
+2025005030310,美琴,"うん
+……よかった","Mm.
+...I'm happy."
+2025005030320,美琴,"これからもたまには
+そう呼んで欲しいくらい",Please call me that from time to time.
+info,produce_events/202500503.json,
+Translator,Ruru,
