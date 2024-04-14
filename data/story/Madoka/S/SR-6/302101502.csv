@@ -49,7 +49,7 @@ What'd you like?"
 to sleep."
 3021015020280,透,"んー……
 樋口、使っていいよ","Hmー...
-You can sleep there, Higuchi."
+You can use my bed, Higuchi."
 0000000000000,円香,……,...
 3021015020300,透,"……いいね
 夜食","...The night snack,
@@ -79,7 +79,7 @@ It was Guuー."
 私も","I wonder,
 can I do it too."
 3021015020440,透,"樋口になるの
-段々","Gradually, turning into Higuchi."
+段々","Gradually, turn into Higuchi."
 3021015020450,円香,"……そんなの
 ……",...That sort of thing...
 3021015020460,円香,…………,......
@@ -92,4 +92,4 @@ can I do it too."
 なんか……","I was thinking about it, but..."
 3021015020530,透,…………,......
 info,produce_events/302101502.json,
-Translator,,
+Translator,Mycstea,
