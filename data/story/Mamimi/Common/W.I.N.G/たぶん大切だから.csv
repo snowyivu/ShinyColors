@@ -1,0 +1,144 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（摩美々にとって、今までで最も大きな規模の
+ファッションショー、そしてミニライブ……）","(This is Mamimi's biggest fashion show so far,
+and she has a mini-live as well...)"
+0000000000000,プロデューサー,"（そろそろ始まるが……
+なんだかプロデューサーの俺が緊張してきたな）","(It's about to start... as her producer I'm
+somewhat nervous.)"
+0000000000000,プロデューサー,"摩美々、もうすぐ本番だけど
+大丈夫か？","Mamimi, its almost time. How are you feeling?"
+1005001050010,摩美々,えー、なにがですかぁ？,"Ummmm, feeling about what?"
+0000000000000,プロデューサー,"お、いつも通りだな
+緊張してるんじゃないかと思っていたが","Oh, same as usual huh? I expected you to be
+more nervous."
+1005001050020,摩美々,まぁ、リハも大丈夫でしたからねー,"Well, the rehearsal went just fiiiine after all."
+0000000000000,プロデューサー,"リハがうまくいったからといって、本番前に
+落ち着いていられるとは限らない。摩美々はさすがだな","Anyone else would be nervous before the main event
+even if the rehearsal went well. Seems to be no
+problem for you though."
+1005001050030,摩美々,"……こーんなに余裕を持ててるのはぁ、誰かさんに、
+レッスンしろしろ言われ続けたからかも、しれませんねー","Hmm, I wonder why... It can't be because a certain 
+someone made me do a million lessons after aaaall..."
+0000000000000,プロデューサー,"ははっ。日々のレッスンは、
+思いがけないところで役に立つだろ？","Haha, it seems like they proved useful in an
+unexpected way this time around though."
+1005001050040,摩美々,今回はぁ、役に立ったと思いますケドー,It wasn't really thaaaat unexpected.
+0000000000000,プロデューサー,"役に立たないはずがないさ。摩美々がアイドルとして
+輝くため、必要なことを選んできたつもりだからな","Of course it's proven useful. The lessons were
+something that you chose yourself, for the sake of 
+becoming a great idol."
+1005001050050,摩美々,"そうですねー。アイドルになってからの私は、
+らしくないこといっぱいしてきましたぁ","That's riiight. Ever since I became an idol, I've been 
+doing a looot of things that aren't like me."
+1005001050060,摩美々,"笑顔も、レッスンも、握手会も、
+アイドルらしくて、私らしくなかったはずなのに……","The smiling, the lessons, the handshake events, 
+they're all things that idols do. Even though it isn't 
+something I'd normally care about..."
+1005001050070,摩美々,"今じゃすっかり、
+私になくてはならないものになっちゃいました","Now, they've all become important to me."
+1005001050080,摩美々,これも、誰かさんのおかげですかねー……？,"I wonder if this might be a certain someone's fault
+as weeeell?"
+0000000000000,プロデューサー,……摩美々,...Mamimi.
+1005001050090,摩美々,べっ、別にー、感謝したわけじゃないですからぁ……,"D-Don't look at me like that, I'm not thanking
+you after aaaall."
+1005001050100,摩美々,"プロデューサーがあんまり厳しいからぁ
+無理やり変えられちゃっただけですよー","You're just so striiiict, you forced me to turn
+into what I am noooow."
+0000000000000,プロデューサー,でも、まんざらでもないって顔だな,It doesn't seem like you mind it that much though.
+1005001050110,摩美々,"そうですねー
+アイドルになる前よりは、退屈してないかもしれませんー","Maybe sooo, it certainly is less boring now that I've
+become an idol."
+1005001050120,摩美々,"……まぁ、私の実力が高いからぁ
+プロデューサーの要望にこたえられただけですけどー","...It's all thanks to my skills, all I'm doing is fulfilling 
+Producer's wishes after aaaall."
+0000000000000,プロデューサー,"ははっ、それもそうだな
+これからも期待してるぞっ","Haha, you're right about that. I'll be looking forward 
+to more great things to come."
+1005001050130,摩美々,"……プロデューサー
+こんな悪い子に期待し続けてくれて……","...Producer, for always having faith in this bad girl..."
+1005001050140,摩美々,あ…………ぅ,Th.........ou.
+0000000000000,プロデューサー,"ん、どうした？
+言いづらいことか？","Hm, is something the matter? Is it something 
+difficult to say out loud?"
+1005001050150,摩美々,な、なんでもありませんよー,I-It's nothiiiing.
+1005001050160,摩美々,"あー、もーすぐ本番ですねー
+なんだかぁ、急に緊張してきちゃった気がしますー","Oh noooo, it's almost time for the real deeeeal. All of 
+a sudden I'm starting to feel nervooous."
+1005001050170,摩美々,"プロデューサー、こんな私に、いつもみたいに
+何か言っておきたいこととかありますー？","Producer, don't you have anything you want to tell
+me in a time like thiiiis?"
+0000000000000,プロデューサー,そうだな……,Hmm...
+select,,今日の摩美々は最高だ！,You're the greatest!
+select,,思いっきり楽しめ！,Have fun!
+select,,すべて出し切ってこい！,Go all out!
+1005001050180,摩美々,えー、大げさじゃないですかぁ？,"Whaaaat, that's definitely an exaggeration."
+0000000000000,プロデューサー,本当のことだぞ？,I'm dead serious.
+1005001050190,摩美々,"そうなんですかぁ……不思議ですねー、
+褒められるのってあんまり好きじゃないんですケドー","Is that soooo. Weeeird, I'm not usually a big fan of
+receiving compliments but..."
+1005001050200,摩美々,"プロデューサーに褒められると、
+悪い気しないんですよねー","When I get complimented by you, it doesn't feel too 
+baaaad."
+1005001050210,摩美々,"こんなふうに思うってことはぁ、
+プロデューサーがヘンな人ってことですかねー？","I wonder, is it because Producer is a weirdoooo?"
+0000000000000,プロデューサー,"俺は普通に褒めただけだから
+変ではないと思うんだが……","I'm just complimenting you normally, don't think 
+there's anything that weird about it."
+0000000000000,プロデューサー,"褒められるのが好きじゃないって、
+摩美々こそ変わってないか？","In fact, aren't you the odd one for not wanting
+to be complimented?"
+1005001050220,摩美々,そうかもしれないですねー,You may be riiight.
+0000000000000,プロデューサー,"さ、そうこうしているうちに、
+本番が始まるみたいだぞ","And with that, it seems like the show's starting."
+1005001050230,摩美々,ふふー、私はいつも通りにやってきますねー,"Fufuu, I'll be doing what I always do."
+1005001050240,摩美々,それがプロデューサーの求めていること……ですよね？,That is what you want me to do... right?
+0000000000000,プロデューサー,"ああ、もちろんだ
+行ってこい！",Of course! Go get 'em!
+1005001050250,摩美々,"えー、そういうのってー、
+私っぽくないと思いませんかぁ？","Whaaat, that's not really my style, you know?"
+0000000000000,プロデューサー,"摩美々なりに、楽しかったと思える
+ライブになればいいんだ","As long as you make it a live that you find enjoyable, 
+that'll be good enough."
+0000000000000,プロデューサー,"それに、こんな大きなステージ、
+きっと楽しめるぞ！","I mean, look at the size of this stage, there's no way
+it won't be enjoyable!"
+1005001050260,摩美々,……本当に楽しめるんですかぁ？,...Do you reeeeally think I'll be able to have fun?
+0000000000000,プロデューサー,"もちろんだ！　それに、摩美々がステージに立つことで、
+幸せな気持ちになれるファンがたくさん集まってる","Of course! Also, there are many fans that would be
+very happy to see you get on that stage."
+0000000000000,プロデューサー,"摩美々はたくさんの人を幸せにできるんだ
+それはきっと楽しさに繋がると思うぞ","You'll be able to bring joy to all of those people. Isn't
+that something to be happy about?"
+1005001050270,摩美々,"……人を幸せにする楽しさ、ですかぁ
+それは、私も少し気になる世界ですケド","...The joy of bringing joy, huuuuh. That does seem a bit
+like a world that I'd be interested in."
+0000000000000,プロデューサー,"なら、その世界が見える景色を、
+ステージの上からしっかり目に焼き付けてこい！","Well then, when you see that world from the stage, 
+make sure to burn the image into your memory!"
+1005001050280,摩美々,"……まぁ、そこまで言うならー
+眺めてきまぁす","...Well if you're going that faaaar, I'll go have a look
+myseeeelf."
+0000000000000,プロデューサー,ああ、いっぱい楽しんでくるんだぞ！,"Sounds good, have fun out there!"
+0000000000000,プロデューサー,"これがアイドル・摩美々の伝説のステージになるくらい
+全力でやってくるんだ！","This stage will be the beginning of Mamimi the Idol's 
+legend!"
+1005001050290,摩美々,"えー、プロデューサー
+今日も熱すぎますよー",Whaaaat... You're just as fired up as usuaaaal.
+0000000000000,プロデューサー,"熱くもなるだろ！
+今日まで、摩美々がどれだけ頑張ったか見てきたんだからな","Of course I am! I've seen just how much you've 
+worked to get to this point."
+0000000000000,プロデューサー,その成果を、ファンのみんなにも知ってもらいたいだろ,"Don't you want the fans to see the results of all
+that effort?"
+1005001050300,摩美々,そうですかねー……,That's a good poooint...
+1005001050310,摩美々,"まぁ、ほどほどに頑張ってみますねー
+でも、期待しないでくださいよー？","I guess I'll give it soooome effort, But don't get your
+hopes up, alriiiight?"
+0000000000000,プロデューサー,そうは言っても、ステージでは本気をだすんだろ？,"You say that, but I know you'll be taking it seriously
+on stage."
+1005001050320,摩美々,"ふふー。それは見てのお楽しみ、ですかねー
+じゃあ、行ってきますねー","Fufuu, then you can look forward to thaaat.
+Alright, see you soooon."
+0000000000000,プロデューサー,ああ、行ってこい！,"Yep, go get 'em!"
+0000000000000,プロデューサー,（摩美々なら、全力でやってくれるはずだ）,(The Mamimi I know will definitely do her best.)
+info,produce_events/100500105.json,
+Translator,Cheez,

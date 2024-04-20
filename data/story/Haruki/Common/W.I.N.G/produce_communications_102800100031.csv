@@ -1,0 +1,25 @@
+id,name,text,trans
+1028001000310010,はるき,むむ……,Hrm...
+0000000000000000,プロデューサー,どうした？　はるき,"What's wrong, Haruki?"
+1028001000310020,はるき,"実は今日、朝ごはん食べずに
+来てしまいまして……","You see, I came here today without eating anything
+for breakfast."
+1028001000310030,はるき,今頃になってお腹が……,I'm pretty hungry right now...
+select,,"ヨーグルトなら
+あるぞ",I got some yoghurt.
+select,,"おやつなら
+あるんだが",I got some snacks.
+select,,もう少し我慢だ,Wait just a little longer.
+1028001000310040,はるき,いただいてもいいんですか……？,Can I really have some...?
+1028001000310050,はるき,"ありがとうございます
+助かります～","That's going to help me a bunch.
+Thank you very much!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000310060,はるき,そうですね、ちょっとだけ……,"Well alright, just a few..."
+1028001000310070,はるき,でも、みんなが来てからがいいですよね……,But it's better when everyone is here...
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000310080,はるき,そ、そうですね……！,I-is that so...?
+1028001000310090,はるき,…………,......
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100031.json,
+Translator,,

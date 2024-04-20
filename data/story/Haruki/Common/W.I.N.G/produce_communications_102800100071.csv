@@ -1,0 +1,25 @@
+id,name,text,trans
+1028001000710010,はるき,"あ、プロデューサーさん
+コーヒー淹れてるんですか？","Ah, Producer-san.
+Are you making some coffee?"
+0000000000000000,プロデューサー,ああ、そうなんだ,"Ah, yes I am."
+1028001000710020,はるき,"じゃあ、これ使ってください……！
+今、100均の素材で作ってみたところなんですが──","Then, please use this...!
+I just made it using 100 yen material."
+0000000000000000,プロデューサー,"……！
+なんだ、これは……丸くて可愛いけど──","......!
+Wow, it's so round and cute..."
+select,,コースターかな？,Is it a coaster?
+select,,……メダルかな？,A medal perhaps?
+select,,お花の折り紙かな,Maybe flower origami?
+1028001000710030,はるき,正解です……！,Correct...!
+1028001000710040,はるき,コーヒーのお供にぜひお使いください……！,Please use it for your coffee mug...!
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000710050,はるき,ふふっ、それもいいですね～,"Fufu, that could also work～"
+1028001000710060,はるき,プロデューサーさんはお仕事がんばってますから,Producer-san is doing his best after all.
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000710070,はるき,お花にも見えますねぇ……,"It looks like a flower, doesn't it..."
+1028001000710080,はるき,でも、それなら今渡さないですよ～,But I won't give it to you now～
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100071.json,
+Translator,Burbur,
