@@ -2,7 +2,8 @@ id,name,text,trans
 0000000000000,プロデューサー,ふぅ、これで今日やることは片付いたな,"Whew. There, I'm all done with my tasks for today."
 0000000000000,プロデューサー,"……ん？
 レッスン室の灯りが……まだ誰か残っているのか……？","Hmm?
-The light's still on in the lesson room. Maybe someone's still here."
+The light's still on in the lesson room. Maybe
+someone's still here."
 2014005010010,甘奈,はぁ……,Haa...
 0000000000000,プロデューサー,おぉ、甘奈。お疲れさま,"Oh, Amana. Hello."
 2014005010020,甘奈,"あっ、プロデューサーさん……！
@@ -41,16 +42,21 @@ that scary?"
 select,,"ちょっと俺も
 思い出したことが","That reminds me
 of something."
-select,,あ、まだ散らかってた,"Wait, it's still messy"
+select,,あ、まだ散らかってた,"Wait, it's
+still messy."
 2014005010120,甘奈,うん,Yes.
 2014005010130,甘奈,"あ、でも……お昼に友達と話してたときは
 すっごく楽しかったんだよ？","But, it was really fun talking
 to my friends during lunch."
 2014005010140,甘奈,"なんかね
-部活で遅くまで残ってた子の話なんだけど……",It's kinda like the stories the other girls tell to each other when they're late doing things in the school club...
+部活で遅くまで残ってた子の話なんだけど……","It's kinda like the stories the other girls tell to each
+other when they're late doing things in the school
+club..."
 0000000000000,プロデューサー,なるほど,I see.
 2014005010150,甘奈,"練習遅くなっちゃったから
-正門からじゃなくて裏口から下校しようとして——",Like they stayed longer for practice that they have to leave school through the back instead at the main gate...
+正門からじゃなくて裏口から下校しようとして——","Like they stayed longer for practice that they have
+to leave school through the back instead at the main
+gate..."
 2014005010160,甘奈,......ごめん、やっぱなしっ！,"...Sorry, let's forget about that!"
 0000000000000,プロデューサー,"はは、なんだ……自分から話し始めたから
 もう平気なのかと思ったよ","Haha. I thought you're already fine
@@ -84,7 +90,8 @@ it was just my reflection."
 2014005010240,甘奈,"あ、あははっ……！
 なんだ……びっくりしたー","A-Ahaha.
 Oh... That surprised me."
-2014005010250,甘奈,プロデューサーさんまで、怖い話するのかと思った！,And here I was thinking you're also going to tell me a scary story!
+2014005010250,甘奈,プロデューサーさんまで、怖い話するのかと思った！,"And here I was thinking you're also going to tell me a
+scary story!"
 2014005010260,甘奈,"……あ、でも、いちおう聞くけど
 なんにもなかったんだよね？","...Oh, but just to be sure,
 there wasn't anything there, right?"
@@ -111,7 +118,8 @@ And my coat..."
 2014005010330,甘奈,プロデューサーさん、待たせちゃってごめんね,"I'm sorry to have kept you waiting, Producer."
 0000000000000,プロデューサー,"大丈夫だ
 むしろ俺のほうが、甘奈を待たせてしまいそうだよ","It's alright.
-Or rather, I'm probably the one who has kept you waiting."
+Or rather, I'm probably the one who has kept you
+waiting."
 0000000000000,プロデューサー,けっこう、散らかってたかもしれないしな……,There's a lot of things I have to clean up.
 2014005010340,甘奈,"じゃあ、早く行こ、プロデューサーさん！
 甘奈、片づけ手伝っちゃうから☆","So, let's hurry, Producer!

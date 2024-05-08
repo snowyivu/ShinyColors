@@ -1,0 +1,29 @@
+id,name,text,trans
+1028001000410010,はるき,おはようございます……！,Good morning...!
+0000000000000000,プロデューサー,"お、はるき
+いい挨拶だな","Oh, Haruki.
+That's a nice greeting."
+1028001000410020,はるき,え、ほんとですか～？,"Eh, really～?"
+0000000000000000,プロデューサー,ああ、だってはるきの挨拶は──,"Yeah, that's because Haruki's greeting is──"
+select,,"気分がぱっと
+カラフルになるよ","Making one feel
+very colorful."
+select,,"癒される
+感じがするよ","Making one feel
+rather healed."
+select,,"気持ちが
+引き締まるよ","Making one feel
+rather tense."
+1028001000410030,はるき,わぁ……！,Waa...!
+1028001000410040,はるき,それは何よりです……！,That's good to hear...!
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000410050,はるき,そうですかねぇ……,Really...?
+1028001000410060,はるき,"元気になれる方が
+いいんじゃないでしょうか……？","Wouldn't it be better to feel
+more energized?"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000410070,はるき,ふぅん……？,Huuuh...?
+1028001000410080,はるき,まさか、怖いってことでしょうか……,"Don't tell me, you're feeling scared..."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100041.json,
+Translator,Burbur,

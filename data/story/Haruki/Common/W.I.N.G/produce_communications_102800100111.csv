@@ -1,0 +1,29 @@
+id,name,text,trans
+0000000000000000,プロデューサー,はるき、チケットもらったんだ,"Haruki, I got a ticket."
+0000000000000000,プロデューサー,今日このあとよかったらどうだ？,How about after today if you want?
+1028001001110010,はるき,"わ……！
+いいんですか？","Wa...!
+Are you sure?"
+1028001001110020,はるき,……なんのチケットでしょう？,... What is the ticket for?
+select,,"世界のおもちゃ博
+だって","A World
+Toy Expo."
+select,,"今大ヒット中の
+映画だぞ","A big-hit
+movie."
+select,,犬カフェらしい,A dog café.
+1028001001110030,はるき,"わぁっ……！
+面白そう～","Waa...!
+Looks interesting～"
+1028001001110040,はるき,早く行きましょう、プロデューサーさん……！,"Let's hurry, Producer-san...!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001001110050,はるき,あ……最近、映画行ったばかりで……！,Ah... I went to the movies recently...!
+1028001001110060,はるき,なんの映画ですかね……？,What kind of movie is this...?
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001001110070,はるき,犬……ですか……！,Dogs... huh...!
+1028001001110080,はるき,"でも……
+近寄ってきてくれないと寂しいですよね……","But...
+It's kind of lonely when they don't come close to you..."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100111.json,
+Translator,Burbur,

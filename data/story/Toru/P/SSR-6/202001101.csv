@@ -1,0 +1,86 @@
+id,name,text,trans
+0000000000000,プロデューサー,"当日の入り時間は10時
+準備が出来次第、レコーディング開始だ","The reporting time on the day itself is at 10am.
+The recording will only begin when preparations 
+are done."
+2020011010010,透,オッケー,Okaay.
+0000000000000,プロデューサー,"そういえば
+ソロ曲のデモ、聴いてくれたか？","Which reminds me,
+have you given the demo for your solo a listen yet?"
+2020011010020,透,あー、うん,"Ahh, yeah."
+0000000000000,プロデューサー,どうだった？,And how was it?
+2020011010030,透,"んー……
+なんか、軽かった","Mnn...
+It felt kinda... light."
+0000000000000,プロデューサー,軽い？,Light?
+2020011010040,透,"うん
+軽くなった、体が","Yeah.
+It made me feel light, kinda.
+"
+0000000000000,プロデューサー,"はは、なるほど
+気に入ってくれたってことかな？","Haha, I see.
+I'll take that as a positive response I suppose?
+"
+2020011010050,透,んー,Mn.
+0000000000000,プロデューサー,"それならよかったよ
+透をイメージして作ってもらった曲だから","I'm glad to hear that.
+The song was made based on Toru's image, after all."
+2020011010060,透,"へー、こんな感じなんだ
+私","Huuh. I come off like that, huh."
+0000000000000,プロデューサー,"何か違うって感じるところがあれば
+歌詞ならまだ調整できると思うけど、どうする？","The lyrics are still being adjusted, so if there's 
+any parts that you don't feel right about... how 
+about that?"
+2020011010070,透,んー……,Mn...
+2020011010080,透,"プロデューサーは？
+思った？","What about you, Producer?
+Did it feel like that?
+"
+2020011010090,透,私だって,"Like, ""me""."
+0000000000000,プロデューサー,ああ、透にピッタリな曲だと思ったよ,Indeed. I thought it fit Toru perfectly.
+2020011010100,透,"そっか
+ならいいや、このままで","I see.
+Then it's fine. Leaving it as it is."
+0000000000000,プロデューサー,"わかった
+じゃあ、当日はよろしくな","Got it. 
+I'll be counting on you on the recording day, then."
+0000000000000,プロデューサー,おお、今日も風強いな,"Woah, the winds today are strong, huh."
+2020011010110,透,だねー,Yeaaah.
+0000000000000,プロデューサー,この間も、洗濯物が飛ばされちゃってさ,"You know, a piece of my laundry flew off just 
+the other day."
+2020011010120,透,"ふふ
+何飛ばされたの？","Fufu.
+What was it?
+"
+0000000000000,プロデューサー,"ハンカチなんだけどさ
+外探しても見つからなくて……","A handkerchief...
+I looked around outside but I couldn't find it..."
+0000000000000,プロデューサー,きっと、どこか遠くへ行っちゃったんだろうな,"It probably flew off somewhere, far in the distance."
+2020011010130,透,しょうがないね、軽いなら,Oh well. It's light after all.
+2020011010140,透,"でも、戻ってくるかも
+また","But, it might return.
+Someday.
+"
+2020011010150,透,風で,With the winds.
+0000000000000,プロデューサー,"はは、そうだといいんだけどな
+いつも愛用してるやつだったからさ","Haha, it'd be nice if it does. 
+It's a handkerchief I've lovingly used, so."
+2020011010160,透,そっか,I see.
+2020011010170,透,"──なんか、いいね
+ハンカチ","──They're kinda nice, huh.
+Handkerchiefs."
+0000000000000,プロデューサー,え？,Eh?
+2020011010180,透,"行けるじゃん、軽いから
+どこまでも","They can go anywhere.
+Cause' they're light and stuff."
+0000000000000,プロデューサー,……,…
+0000000000000,プロデューサー,"透も行けるよ
+行きたいって思う場所があるなら","You can, too.
+If you have somewhere you'd like to go to."
+2020011010190,透,"一緒に行こ
+行くなら","Let's go together.
+If I have one.
+"
+0000000000000,プロデューサー,ああ、そうだな,"Yeah, let's do that."
+info,produce_events/202001101.json,
+Translator,OrangeKabocha,

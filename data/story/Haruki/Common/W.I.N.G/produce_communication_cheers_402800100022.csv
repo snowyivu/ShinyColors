@@ -1,0 +1,28 @@
+id,name,text,trans
+4028001000220010,はるき,"スポットライトの光って……すごく強くて……
+すごく綺麗────","The spotlight... 
+It's so blinding and beautiful..."
+0000000000000000,プロデューサー,（あのライトの中で、はるきが輝くには──）,(For Haruki to shine under that light...)
+select,,"光は
+輪郭を強くするよ","The light will
+strengthen your
+contours."
+select,,"光の中に
+飛び込んでいこう","Let's dive into
+the light."
+select,,光の一部になろう,"Be part of
+the light."
+4028001000220020,はるき,"そうですね……！
+全く違う景色が見られそう……！","That's right...!
+You'll see a completely different view...!"
+0000000000000000,プロデューサー,（目の輝きがいっそう強くなったな……！）,(The sparkle in your eyes has gotten stronger...!)
+4028001000220030,はるき,"ふふっ……はい
+楽しみです……！","Fufu, yes, let's dive in!
+I'm going to have so much fun...!"
+0000000000000000,プロデューサー,（いつものはるきだな）,(That's the Haruki I know.)
+4028001000220040,はるき,"そうですね……
+なれるかな……","You think so?
+I wonder if I can be..."
+0000000000000000,プロデューサー,（あまりピンと来なかったかな……）,(Guess it didn't hit home for her...)
+info,produce_communication_cheers/402800100022.json,
+Translator,Burbur,

@@ -1,0 +1,47 @@
+id,name,text,trans
+0000000000000,プロデューサー,"はるき、おめでとう
+一次審査通過したよ","Congratulations, Haruki.
+You've passed the first season."
+7028001010010,はるき,"……！
+ほんとですか……！　よかったぁ……","......!
+Is that true? I'm so glad..."
+7028001010020,はるき,"ふう……
+ほっとしたらなんだか力が……","Phew..
+I feel a bit better now."
+0000000000000,プロデューサー,大丈夫か？,Are you okay?
+7028001010030,はるき,"はい……
+結果を聞くのも緊張しちゃって","Yes...
+I was rather nervous about the results."
+7028001010040,はるき,"アイドルをしてたら……こういうことを
+何度も何度もやっていくんですよね","When you're an idol, you're going to do this over
+and over again."
+0000000000000,プロデューサー,ああ……,Ah...
+7028001010050,はるき,"……実は、一次審査すら通るのか
+不安だったんです","To be honest, I wasn't sure I would even make it
+through the first season."
+7028001010060,はるき,"自分が、やってきたことが
+よかったのかわからなくて……",I don't know if I have done the right thing...
+7028001010070,はるき,"それというのも、まだまだ自分の中に
+自信が持てるような根拠がないからなんだろうなぁって","I guess it might because I don't feel quite
+confident yet."
+0000000000000,プロデューサー,はるき……,Haruki...
+7028001010080,はるき,ちょっと、焦りすぎだって自分でもわかってるんですけど,I guess I might be a little impatient...
+0000000000000,プロデューサー,"──俺はもともと
+はるきは大丈夫だって思ってたよ",I always thought that you would be fine.
+7028001010090,はるき,……！,……！
+0000000000000,プロデューサー,すごく一生懸命やってくれてたからな,You are always working really hard.
+0000000000000,プロデューサー,"というか、はるきがそんなふうに思ってたのに
+気付かなかったなんて……","However, you thought it was the other way.
+I guess you didn't notice..."
+0000000000000,プロデューサー,なんだか申し訳ないな,I feel a bit sorry.
+7028001010100,はるき,えぇ……そんな……,Eh... No way...
+7028001010110,はるき,"プロデューサーさんがいないとわたし、
+ここまで来れませんでしたから……！","I couldn't have made it this far without your help,
+Producer-san!"
+7028001010111,はるき＆プロデューサー,……あははっ,... Ahaha.
+7028001010120,はるき,せっかく通過したのに反省会みたいになっちゃいましたねぇ,"Even though I just passed, it feels more like a review session."
+0000000000000,プロデューサー,ははっ、そうだな,"Haha, it really does."
+7028001010130,はるき,どこまで行けるかわからないですけど──,"I don't know how far I can go, but──"
+7028001010140,はるき,これからもよろしくお願いしますね、プロデューサーさん,"Let's keep working hard together, Producer-san."
+info,produce_events/702800101.json,
+Translator,Burbur,

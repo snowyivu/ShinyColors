@@ -1,0 +1,27 @@
+id,name,text,trans
+4028001000120010,はるき,みんな……すごい気迫ですねぇ……,Everyone... is really determined huh...
+0000000000000000,プロデューサー,（周りのことが気になっているようだな）,(She seems to be worried about her surroundings.)
+select,,"はるき！
+変顔だぞ","Haruki! Look,
+a funny face!"
+select,,"気迫なら、はるきだって
+負けてないぞ","You have that 
+spirit too, Haruki!
+You haven't lost yet."
+select,,"はるきも
+負けるなよ","Haruki,
+don't lose."
+4028001000120020,はるき,"…………！
+ふふふっ……！　あははは……！","......!
+Fufufu...! Ahahaha...!"
+0000000000000000,プロデューサー,（そんなに面白かったのか……？　まぁよかった！）,"(Was it that funny...? Oh well, I'm glad.)"
+4028001000120030,はるき,"そ、そうですよね……！
+がんばらないと……！","T-That's right...!
+I'll do my best...!"
+0000000000000000,プロデューサー,（まぁ、元気づけられたかな？）,"(Well, guess I cheered her up?)"
+4028001000120040,はるき,"は、はい……！
+でも、どうしたらいいのかなぁ……","Y-yes...!
+But, what should I do..."
+0000000000000000,プロデューサー,（ああ、考え込ませてしまったな……）,"(Ah shoot, I made you think...)"
+info,produce_communication_cheers/402800100012.json,
+Translator,Burbur,

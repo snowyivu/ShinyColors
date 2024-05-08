@@ -1536,7 +1536,7 @@ homeDeck.randomSetting.bgTypes.label,背景・その他,BG / Other
 homeDeck.randomSetting.bgTypes.values.image,背景,BG
 homeDeck.randomSetting.bgTypes.values.effect,エフェクト,Effect
 homeDeck.randomSetting.costumeTypes.label,衣装,Outfit
-homeDeck.randomSetting.costumeTypes.values.plain,私服衣装,Plain Outfit
+homeDeck.randomSetting.costumeTypes.values.plain,私服衣装,Regular Outfit
 homeDeck.randomSetting.costumeTypes.values.concert,ライブ衣装,Live Outfit
 homeDeck.loadAlertPop.title,確認,Confirm
 homeDeck.loadAlertPop.comment,５人表示を行う場合\n「ホームユニット」および「ホーム画面」での\n描画に負荷がかかります,When 5 members are set\nThe Home Unit and Home Screen\nmay take a long time to load.
@@ -2083,7 +2083,7 @@ filter.categories.costumePossession,衣装所持,
 filter.categories.costumeType,種類,
 filter.categories.clearStatus,CLEAR状況,
 filter.categories.fightSkill,ファイトスキル,Fight Skill
-filter.categories.voiceType,ボイス種別,
+filter.categories.voiceType,ボイス種別,Voice Type
 filter.categories.releaseCondition,解放状況,
 filter.categories.jointFesArea,エリア,Area
 filter.categories.jointFesRewardFacilityItem,アイテム,Item
@@ -2138,7 +2138,7 @@ fes.retireDialog.text,ライブを終了しますか？,Really End Live?
 fes.deckMemberAptitude.musicStyle.cute,キュート,Cute
 fes.deckMemberAptitude.musicStyle.cool,クール,Cool
 fes.deckMemberAptitude.musicStyle.positive,ポジティブ,Positive
-fes.deckMemberAptitude.musicStyle.relax,リラックス,Relax
+fes.deckMemberAptitude.musicStyle.relax,リラックス,Relaxed
 fes.deckMemberAptitude.musicStyle.emotional,エモーショナル,Emotional
 fes.deckMemberAptitude.performance.high,ハイペース,High Pace
 fes.deckMemberAptitude.performance.medium,ミドルペース,Mid Pace
@@ -2158,11 +2158,11 @@ fesTower.bonus.tourBonus.unitBonusText,%{unitName}のユニットボーナスUP�
 fesTower.bonus.tourBonus.genreBonusText,%{genreName}のジャンルボーナスUP！,
 fesTower.bonus.tourBonus.characterBonusText,%{characterName}のアイドルボーナスUP！,
 fesTower.bonus.activeBonusListPop.noUserDeckComment,パネルが選択されていません,
-fesTower.bonus.activeBonusListPop.tab.tabTourBonus,ツアー中,
+fesTower.bonus.activeBonusListPop.tab.tabTourBonus,ツアー中,On Tour
 fesTower.bonus.activeBonusListPop.tab.tabSpecialBonus,特別ボーナス,
 fesTower.bonus.activeBonusListPop.listTitle.tourBonus,地方ボーナス,
-fesTower.bonus.activeBonusListPop.listTitle.specialBonusProduceIdol,プロデュースアイドル,
-fesTower.bonus.activeBonusListPop.listTitle.specialBonusSupportIdol,サポートアイドル,
+fesTower.bonus.activeBonusListPop.listTitle.specialBonusProduceIdol,プロデュースアイドル,Produce Idol
+fesTower.bonus.activeBonusListPop.listTitle.specialBonusSupportIdol,サポートアイドル,Support Idol
 fesTower.levelUp.headerTitle,レベルアップ,Level Up
 idolList.emptyRewardKnowHowBookMessage,獲得しているノウハウブックがありません,
 idolList.emptyMessages.homeDeckEdit,所持しているMVアイドルがいません。,
@@ -2170,40 +2170,40 @@ header.homeDeckMvSelect,MV選択,MV Select
 header.jointFesFacility,施設一覧,
 header.jointFesTrophy,トロフィー,Trophy
 header.jointFesRanking,ランキング,Ranking
-header.fesTowerPanelUnit,パネルユニット編成,
-header.photoIdolChange,アイドル変更,
-header.jewelCounter,フェザージュエルミッション,
-header.produceResultSkillAndBook,獲得報酬,
+header.fesTowerPanelUnit,パネルユニット編成,Organize Panel Unit
+header.photoIdolChange,アイドル変更,Change Idol
+header.jewelCounter,フェザージュエルミッション,Feather Jewel Mission
+header.produceResultSkillAndBook,獲得報酬,Rewards earned
 homeDeck.displayType.mv,MVモード,MV Mode
-homeDeck.mvAnother,(アナザーver.),
+homeDeck.mvAnother,(アナザーver.),(Another ver.)
 homeDeck.mvTime,%{min}分%{sec}秒,%{min}m%{sec}s
-homeDeck.presetSettingPop.title,アニメモード プリセット,
-homeDeck.presetSettingPop.presetLabel,プリセット%{presetNum},
+homeDeck.presetSettingPop.title,アニメモード プリセット,Animation Mode Preset
+homeDeck.presetSettingPop.presetLabel,プリセット%{presetNum},Preset%{presetNum}
 jointFes.top.title,マッチライブ,Match Live
-jointFes.bonusListPop.title,ボーナス一覧,
+jointFes.bonusListPop.title,ボーナス一覧,Bonus List
 jointFes.skip.listPopTitle,スキップ,Skip
 jointFes.skip.confirmPopTitle,スキップ確認,Confirm Skip
 jointFes.skip.resultPopTitle,スキップ結果,Skip Result
-jointFes.facility.enhanceItemsTitle,施設強化アイテム一覧,
-jointFes.facility.enhanceTitle,施設強化,
-jointFes.facility.enhanceConfirmTitle,強化確認,
-jointFes.facility.bonusInfoTitle,ボーナス詳細,
-jointFes.facility.bonusInfoEmptyMessage,発動中のボーナスがありません,
-jointFes.facility.possessionItem,施設強化の際に必要なアイテム素材です,
-jointFes.facility.confirmEnhance,以下のアイテムを消費し、施設を強化しますか？,以下のアイテムを消費し、施設を強化しますか？
-jointFes.facility.noBonus,ボーナス無し,
-jointFes.facility.noBonusMessage,発動中のボーナスがありません,
-jointFes.stageSelect.title,ステージ選択,Stage Select
+jointFes.facility.enhanceItemsTitle,施設強化アイテム一覧,List of Enhancement Items
+jointFes.facility.enhanceTitle,施設強化,Facility Enhancement
+jointFes.facility.enhanceConfirmTitle,強化確認,Confirm Enhancing
+jointFes.facility.bonusInfoTitle,ボーナス詳細,Bonus Details
+jointFes.facility.bonusInfoEmptyMessage,発動中のボーナスがありません,No active bonuses.
+jointFes.facility.possessionItem,施設強化の際に必要なアイテム素材です,Items needed to enhance facility
+jointFes.facility.confirmEnhance,以下のアイテムを消費し、施設を強化しますか？,Do you want to spend these items to enhance this facility?
+jointFes.facility.noBonus,ボーナス無し,No bonus
+jointFes.facility.noBonusMessage,発動中のボーナスがありません,No active bonus.
+jointFes.stageSelect.title,ステージ選択,Select Stage
 jointFes.stageInfoPop.title,ステージ詳細,Stage Details
 jointFes.stageInfoPop.produceAreaSuffix,編,
-jointFes.ranking.rankingEndAt,%{dateTime} まで,
-jointFes.ranking.announceRankingType.stage,ステージ\n順位,
-jointFes.ranking.announceRankingType.group,グループ\n順位,
-jointFes.ranking.announceRankingType.event_point,ポイント\n順位,
-jointFes.ranking.stageSelect.title,ステージ選択,
-jointFes.ready.title,マッチライブ詳細,
+jointFes.ranking.rankingEndAt,%{dateTime} まで,Until %{dateTime}
+jointFes.ranking.announceRankingType.stage,ステージ\n順位,Stage\nRank
+jointFes.ranking.announceRankingType.group,グループ\n順位,Group\nRank
+jointFes.ranking.announceRankingType.event_point,ポイント\n順位,Point\nRank
+jointFes.ranking.stageSelect.title,ステージ選択,Stage Select
+jointFes.ready.title,マッチライブ詳細,Match Live Details
 jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,
-jointFes.ready.unitEmptyPop.title,確認,
+jointFes.ready.unitEmptyPop.title,確認,Confirm
 jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,
 jointFes.seasonChange.title,マッチライブ更新,
 jointFes.seasonChange.commonMessage,マッチライブのシーズンが切り替わりました\nイベントポイントやミッション・ショップなどがリセットされます,
@@ -2215,28 +2215,28 @@ jointFesConcert.scoreInfo.player,＜あなた＞,＜You＞
 jointFesConcert.scoreInfo.rival,＜ライバル＞,＜Rival＞
 jointFesConcert.scoreInfo.term,第%{termNumber}ターム,
 jointFesConcert.scoreInfo.termLastScore,第%{termNumber}ターム最終スコア,
-jointFesConcert.scoreInfo.result,最終結果,
+jointFesConcert.scoreInfo.result,最終結果,Final Results
 jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,
 jointFesConcert.scoreInfo.tapToScrollMessage,▲タームをタッチで該当のタームまでスクロールします▲,
 jointFesConcert.scoreDetailLabel.appealPoint,アピール値変換後ポイント,
-jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,
-jointFesConcert.scoreDetailLabel.musicRate,楽曲補性,
-jointFesConcert.scoreDetailLabel.musicStyleRate,楽曲スタイル適性,
-jointFesConcert.scoreDetailLabel.performanceRate,パフォーマンス適性,
+jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,Stage Level
+jointFesConcert.scoreDetailLabel.musicRate,楽曲補性,楽曲補性
+jointFesConcert.scoreDetailLabel.musicStyleRate,楽曲スタイル適性,楽曲スタイル適性
+jointFesConcert.scoreDetailLabel.performanceRate,パフォーマンス適性,パフォーマンス適性
 jointFesConcert.scoreDetailLabel.mentalRate,メンタル値補正,
 jointFesConcert.scoreDetailLabel.fightSkillRate,発動スキルポイント補正,
 jointFesConcert.scoreDetailLabel.fightSkillPoint,発動スキルポイント加算,
-jointFesConcert.bonusScoreLabel.badAppeal,ライブスキル発動（bad）×%{count},
-jointFesConcert.bonusScoreLabel.normalAppeal,ライブスキル発動（normal）×%{count},
-jointFesConcert.bonusScoreLabel.goodAppeal,ライブスキル発動（good）×%{count},
-jointFesConcert.bonusScoreLabel.perfectAppeal,ライブスキル発動（perfect）×%{count},
-jointFesConcert.bonusScoreLabel.fightSkillNormal,ファイトスキル発動（normal）×%{count},
-jointFesConcert.bonusScoreLabel.fightSkillGood,ファイトスキル発動（good）×%{count},
-jointFesConcert.bonusScoreLabel.fightSkillPerfect,ファイトスキル発動（perfect）×%{count},
-jointFesConcert.bonusScoreLabel.majorityWin,全体勝利,
+jointFesConcert.bonusScoreLabel.badAppeal,ライブスキル発動（bad）×%{count},Live Skill Activation（bad）×%{count}
+jointFesConcert.bonusScoreLabel.normalAppeal,ライブスキル発動（normal）×%{count},Live Skill Activation（normal）×%{count}
+jointFesConcert.bonusScoreLabel.goodAppeal,ライブスキル発動（good）×%{count},Live Skill Activation（good）×%{count}
+jointFesConcert.bonusScoreLabel.perfectAppeal,ライブスキル発動（perfect）×%{count},Live Skill Activation（perfect）×%{count}
+jointFesConcert.bonusScoreLabel.fightSkillNormal,ファイトスキル発動（normal）×%{count},Fight Skill Activation（normal）×%{count}
+jointFesConcert.bonusScoreLabel.fightSkillGood,ファイトスキル発動（good）×%{count},Fight Skill Activation（good）×%{count}
+jointFesConcert.bonusScoreLabel.fightSkillPerfect,ファイトスキル発動（perfect）×%{count},Fight Skill Activation（perfect）×%{count}
+jointFesConcert.bonusScoreLabel.majorityWin,全体勝利,Overall Victory
 jointFesConcert.bonusScoreLabel.allTermWin,全勝ボーナス,
-jointFesConcert.bonusScoreLabel.bonusTotalPoint,ボーナスポイント合計,
-musicSelect.playMvDialog.title,MV再生,
+jointFesConcert.bonusScoreLabel.bonusTotalPoint,ボーナスポイント合計,Total Bonus Points
+musicSelect.playMvDialog.title,MV再生,Play MV
 musicSelect.playMvDialog.message,再生するMVを選択してください,
 musicSelect.mvSettingDialog.title,詳細設定,
 musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,

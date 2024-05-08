@@ -1,0 +1,39 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since she was
+able to pass the first round of judging, she'd be able
+to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is relentless, isn't it..."
+7026001040030,社長,………………,......
+0000000000000,プロデューサー,"……まだまだ先にも行けたと思うんです
+俺にもっと力があれば……","... But I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is
+you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+0000000000000,プロデューサー,"……はるき────
+残念ながら、二次審査は通過できなかった","... Haruki──
+Unfortunately, we did not pass the second season."
+7028001040010,はるき,そう……ですか……,Is... that right...
+7028001040020,はるき,──────……,──...
+0000000000000,プロデューサー,"はるきはよくやってくれたよ
+俺が至らないばっかりに────","You did a great job, Haruki.
+I'm the one who fell short──"
+7028001040030,はるき,"いえ、プロデューサーさんが励ましてくれたので
+ここまで来られました","No, Producer-san. 
+It's thanks to you that I've come this far."
+7028001040040,はるき,わたしの覚悟が……足りなかったんです,I wasn't... determined enough.
+7028001040050,はるき,"プロデューサーさん、わたし……
+また挑戦してもいいですか","Producer-san, I...
+Can I try again?"
+7028001040060,はるき,このままじゃ、終われないですから,I can't let it end like this.
+0000000000000,プロデューサー,"────もちろん
+頑張っていこうな","Of course.
+Let's do our best."
+info,produce_events/702800104.json,
+Translator,Burbur,

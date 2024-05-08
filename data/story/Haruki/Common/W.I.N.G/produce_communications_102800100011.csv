@@ -1,0 +1,35 @@
+id,name,text,trans
+1028001000110010,はるき,ふ～……,Phew～...
+0000000000000000,プロデューサー,はるき、眠そうだな,"You look sleepy, Haruki."
+1028001000110020,はるき,"ごめんなさい……
+しゃんとしないとですね～","I'm sorry...
+I have to get myself together～"
+0000000000000000,プロデューサー,"はは、気にしなくていいぞ
+でもそうだな……","Haha, don't worry about it.
+Although..."
+select,,昼寝でもするか？,"Want to take
+a nap?"
+select,,"コーヒーでも
+飲むか？","Want some
+coffee?"
+select,,"軽くランニングとか
+どうだ？","How about 
+a quick run?"
+1028001000110030,はるき,"ふふふっ
+来たばかりですよ～","Fufufu.
+I just arrived though～"
+1028001000110040,はるき,"でも、笑ったら
+目が覚めたかも……！","But, if you laugh I might just wake up...!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000110050,はるき,"実は……
+もう飲んだんです","Actually...
+I already had some."
+1028001000110060,はるき,効き目がいまいちみたい……？,"It doesn't seem effective, does it...?"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000110070,はるき,走る……今からですか？,A run... Right now?
+1028001000110080,はるき,"確かに
+体力は……つけた方がいいですよね","Right.
+I should become more fit."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100011.json,
+Translator,Burbur,

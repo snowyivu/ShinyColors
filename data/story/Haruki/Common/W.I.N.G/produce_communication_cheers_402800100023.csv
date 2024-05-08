@@ -1,0 +1,26 @@
+id,name,text,trans
+4028001000230010,はるき,"自分をアピールって
+どうやったらできるんでしょうねぇ……","I wonder how to be appealing.
+I don't really know how to do that."
+0000000000000000,プロデューサー,"（アピールか……
+何かアドバイスは────）","(Be appealing...
+What kind of advice should I give──)"
+select,,"審査員を
+俺だと思って","I'll be
+the judge."
+select,,大きく動いてみよう,"Make a 
+big move."
+select,,笑顔を忘れずに,"Don't forget
+to smile."
+4028001000230020,はるき,ふふっ……それだったら……,Fufu... If that's the case...
+0000000000000000,プロデューサー,（いつも通りでいいからな、はるき）,(Just the usual Haruki.)
+4028001000230030,はるき,"……！　そうですね、
+つい動きが固くなっちゃいますもんね……！","...! That's right,
+I've been rather moving stiffly...!"
+0000000000000000,プロデューサー,（頑張るんだぞ、はるき……！）,"(Do your best, Haruki...!)"
+4028001000230040,はるき,"そ、そうなんですけど……
+ずっとは難しいような……？","I-I know that but...
+Isn't it always so difficult...?"
+0000000000000000,プロデューサー,（混乱させてしまったか……？）,(Did I confuse you...?)
+info,produce_communication_cheers/402800100023.json,
+Translator,Burbur,

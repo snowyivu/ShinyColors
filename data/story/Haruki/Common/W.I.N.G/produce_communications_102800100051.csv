@@ -1,0 +1,24 @@
+id,name,text,trans
+1028001000510010,はるき,"プロデューサーさん
+わたしって……どれっぽいでしょう～","Producer-san, which one do you think I might be～?"
+0000000000000000,プロデューサー,どれっぽいって？,Which one you might be?
+1028001000510020,はるき,"お姉ちゃんっぽいか、妹っぽいか、
+ひとりっ子っぽいか……！","Yeah, like a little or big sister.
+Or even an only child...!"
+0000000000000000,プロデューサー,なるほど、それで言うと……,"I understand now, I think you are..."
+select,,お姉ちゃんかな,A big sister.
+select,,ひとりっ子かな,An only child.
+select,,妹っぽいな,A little sister.
+1028001000510030,はるき,えっ……本当ですか？,"Eh, you really think so?"
+1028001000510040,はるき,"しっかりしてそうってことですかねぇ
+えへへ……","I guess that means I'm doing well.
+Ehehe..."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000510050,はるき,わぁ……そうですか？,Waa... Really?
+1028001000510060,はるき,ひとりっ子ってどんな感じなんでしょうね～,I wonder what it's like to be an only child～
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000510070,はるき,やっぱりそうですかぁ……,I knew it...
+1028001000510080,はるき,もっとハキハキしないとだめですかねぇ……,I wonder if I need to be more assertive...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100051.json,
+Translator,Burbur,

@@ -1,0 +1,29 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"……ん？
+どうした、はるき？","... Hm?
+What's the matter, Haruki?"
+1028001001510010,はるき,先生、今日の絵日記です,"Here's today's illustrated diary, Teacher!"
+1028001001510020,はるき,講評お願いします……！,Please critique it...!
+0000000000000000,プロデューサー,ははっ、どれどれ……,"Haha, what to do..."
+select,,"よし、
+返事を描こう","Okay, let's
+draw a reply."
+select,,可愛く描けてるな,"You draw
+very cute."
+select,,特にここがいいな,"Especially 
+this bit here."
+1028001001510030,はるき,"……わ、プロデューサーさんの絵
+可愛いですねぇ","... Wah, Producer-san's drawing is so cute."
+1028001001510040,はるき,"わたしのノート……
+えへへ……","My notes...
+Ehehe..."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001001510050,はるき,えへへ、そうですか……？,"Ehehe, you think so?"
+1028001001510060,はるき,がんばりました……！,I did my best...!
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001001510070,はるき,なるほど……！,I see...!
+1028001001510080,はるき,"プロデューサーさんはこういうところを
+見てるんですねぇ……",So this is what Producer-san is looking at...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100151.json,
+Translator,Burbur,

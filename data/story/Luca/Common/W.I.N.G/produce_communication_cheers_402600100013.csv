@@ -1,0 +1,24 @@
+id,name,text,trans
+4026001000130010,ルカ,──よし……そろそろ出番か,──Okay... Time to go.
+0000000000000000,プロデューサー,"そうだな……
+ルカ────","That's right...
+Luca────"
+select,,思いっきりやってこい！,Go all out!
+select,,期待してるぞ,"I'm counting
+on you."
+select,,問題なさそうか？,"Does everything
+look okay?"
+4026001000130020,ルカ,"うるせェな
+声がデカいんだよ……","Shut up.
+You're so noisy..."
+0000000000000000,プロデューサー,（よし、リラックスできたみたいだ）,"(Nice, seems you have relaxed.)"
+4026001000130030,ルカ,"ふん……
+別にアンタのためじゃねェ","Hmph...
+I'm not doing this for you."
+0000000000000000,プロデューサー,（うん……問題なさそうかな）,(Yeah... Seems fine to me.)
+4026001000130040,ルカ,"あるわけねェだろ……
+オメェはどっかに行ってろ","There's no way it doesn't...
+How about you go away?"
+0000000000000000,プロデューサー,（しまった……他のことを言えばよかった）,(Shoot... I should've said something different.)
+info,produce_communication_cheers/402600100013.json,
+Translator,,

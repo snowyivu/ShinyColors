@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000,プロデューサー,はるき、やったぞ……！,"Congratulations, Haruki...!"
+0000000000000,プロデューサー,三次審査も通過した……！,You've passed the third season...!
+7028001050010,はるき,"わぁ……！
+ありがとうございます……！","Waa...!
+Thank you very much...!"
+7028001050020,はるき,すごいですねぇ～,That's amazing～
+7028001050030,プロデューサー,でもまぁ、俺は……,"But, uhm, I..."
+7028001050031,プロデューサー,通過すると思ってたけどな,I knew you would pass.
+7028001050032,はるき＆プロデューサー,あははっ……！,Ahaha...!
+0000000000000,プロデューサー,"本当によくやってくれたよ
+……きっとはるきは大丈夫だって信じてた","You did a great job.
+... I knew you would be okay."
+7028001050040,はるき,──プロデューサーさんのおかげです,"It was thanks to you, Producer-san."
+7028001050050,はるき,"プロデューサーさんがお話を聞いてくれたから
+わたし……いつも楽しくいられて────","Because I could always talk with you, Producer-san.
+I... had so much fun and──"
+7028001050060,はるき,どんどん先に進みたくなって、どんどん力も湧いてきて,I just want to keep going on and on.
+7028001050070,はるき,三次審査もきっと通る……そんな気がしました,I felt like... I'd pass the third season for sure.
+0000000000000,プロデューサー,"……そうか
+よかったよ","... I see.
+I'm glad to hear it."
+7028001050080,はるき,でも──まだまだ、ですよね,"But, we're not there yet, are we?"
+0000000000000,プロデューサー,"ああ、次は最終審査──
+もっと厳しい戦いになるだろうな","Yeah, the next season is up.
+It's going to be even tougher now."
+0000000000000,プロデューサー,"だけど、はるきには最後まで
+楽しんでほしいと思うよ","However, I want you to win, Haruki.
+Please keep having fun."
+7028001050090,はるき,そうですねぇ……,That's right...
+7028001050100,はるき,それは、大丈夫じゃないでしょうか,"But, isn't it wrong?"
+7028001050110,はるき,──プロデューサーさんがいれば,If Producer-san isn't there.
+info,produce_events/702800105.json,
+Translator,Burbur,

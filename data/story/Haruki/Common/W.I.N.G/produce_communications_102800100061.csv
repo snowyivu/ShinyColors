@@ -1,0 +1,34 @@
+id,name,text,trans
+1028001000610010,はるき,"う～ん……
+ごちゃごちゃ……","Hmm...
+Mumble mumble..."
+0000000000000000,プロデューサー,"どうしたんだ？
+はるき","What's wrong, Haruki?"
+1028001000610020,はるき,"スケジュールややることを
+手帳に書いてたんですが、見づらくなってしまって……","My schedule and to-do list. I used to write them down 
+in my notebook but it became hard to make out."
+0000000000000000,プロデューサー,スケジュール管理か……そうだな……,Schedule... That's right...
+select,,アプリも活用しよう,"Let's make use
+of apps!"
+select,,付箋を使ってみよう,"Try using
+sticky notes."
+select,,"ホワイトボードは
+どうだ？","What about
+the whiteboard?"
+1028001000610030,はるき,"いいですねぇ……！
+でも、どれがいいかわからなくて……！","I like that idea...!
+But I don't know which one I like better..."
+1028001000610040,はるき,"そうだ、プロデューサーさんの使ってる
+おすすめとかあったら教えてほしいです～","Oh right, Producer-san uses one.
+Please let me know any apps you recommend～"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000610050,はるき,"付箋もいいですねぇ
+手帳が楽しくなりますし……！","Sticky notes are great!
+They make notebooks more fun too!"
+1028001000610060,はるき,でも、すっきりはしないかも……？,"However, wouldn't that still keep things messy...?"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000610070,はるき,書いたことをすぐ消せるのはいいですね……！,It's nice to quickly erase what you've written...!
+1028001000610080,はるき,でも、持ち歩くのは難しそう……,But I don't think I can easily carry it around...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100061.json,
+Translator,Burbur,

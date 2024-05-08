@@ -1,0 +1,102 @@
+id,name,text,trans
+0000000000000,プロデューサー,透、お腹空いてないか？,"Toru, are you hungry?"
+0000000000000,プロデューサー,"次の撮影の打ち合わせもしたいし
+お昼でも食べながら、どうだ？","I'd like to talk about your next recording session 
+too.
+How about we do it over lunch?"
+2020011110010,透,あー、うん,"Ahh, okay."
+0000000000000,プロデューサー,何が食べたい？,What do you want to eat?
+2020011110020,透,"んー……
+サンマーメン","Mn...
+Sanma-men."
+0000000000000,プロデューサー,"ああ、この間食べたやつか
+あの田舎の駅で","Ohh, like the one we had the other day?
+At that rural train station.
+"
+2020011110030,透,"うん、忘れられなくて……
+美味しかったから、めっちゃ","Yeah... It was unforgettably delicious...
+Very."
+0000000000000,プロデューサー,"了解
+店、探すよ","Got it.
+I'll find a place that has it, then."
+2020011110040,透,"店によって違う？
+味","Does it change depending on the store?
+The flavour.
+"
+0000000000000,プロデューサー,ああ、どうかな……,Ahh... I wonder about that...
+0000000000000,プロデューサー,ははっ,Haha.
+2020011110050,透,え……何？,Eh... What's up?
+0000000000000,プロデューサー,"いや、すまん
+ちょっと思い出し笑い","Sorry, it's nothing. 
+I just remembered something funny."
+0000000000000,プロデューサー,"透さ、秋刀魚が入ってるラーメンだと
+思ってたんだよな、サンマーメンのこと","Back then, you thought sanma-men was just
+ramen with saury in it, didn't you."
+2020011110060,透,"あー……
+だって、食べたことなかったし","Ahh...
+I mean, it was my first time trying it, so."
+2020011110070,透,『サンマ』って書いてあったから,"It had ""sanma"" in the name too."
+0000000000000,プロデューサー,はははっ,Hahaha.
+2020011110080,透,え、そんな笑う？,"Eh, it's that funny to you?"
+0000000000000,プロデューサー,うん、面白かったなあって,"Yeah, it’s really amusing."
+2020011110090,透,"ふふっ
+あんなにいっぱいだと思わなかった、野菜","Fufu.
+I didn't think it'd come with that many vegetables 
+instead."
+0000000000000,プロデューサー,"あ……そうそう、そういえばさ
+戻ってきたんだ、ハンカチ","Ah... Which reminds me...
+It returned. The handkerchief."
+2020011110100,透,え？,Eh?
+0000000000000,プロデューサー,"ほら、この間、ハンカチが
+風で飛ばされたって話したろ？","Remember how I told you about a handkerchief 
+that took off with the winds from my laundry?"
+2020011110110,透,あー……,Ahh...
+0000000000000,プロデューサー,"道に落ちてたみたいでさ、近所の人が拾ってくれて
+もしかしたらって届けにきてくれたんだ","Apparently, it'd fell on the road and a neighbour 
+picked it up and handed it to me thinking it might 
+be mine."
+2020011110120,透,そうなんだ……,I see...
+2020011110130,透,"遠回りして、戻ってきたんだね
+ハンカチも","It took a trip and came back too, huh.
+The handkerchief.
+"
+0000000000000,プロデューサー,"はは、うん
+あてもなく、旅に出てたのかもな","Haha, right.
+A journey with an unwritten destination.
+"
+2020011110140,透,"ねー、今度さ
+また行こうよ、どっか","Hey, why don't we do that again next time?
+Going somewhere."
+2020011110150,透,あてもなく,An unwritten destination.
+0000000000000,プロデューサー,"透、相当楽しかったみたいだな
+あてもない旅","Seems like you enjoyed it. 
+Going on a journey with an unwritten destination.
+"
+2020011110160,透,"うん
+じゃあ、地図に指さしたとこ","Yeah.
+Okay, then I'll point on a map."
+0000000000000,プロデューサー,え？,Eh?
+2020011110170,透,そこに行こ,We'll go wherever that is.
+0000000000000,プロデューサー,"ああ、それならいいもの持ってるよ
+手帳にさ、『全国鉄道地図』がついてて","Ahh. In that case, I have the perfect thing for that.
+You see, this handkerchief has the nation's train 
+map on it."
+2020011110180,透,おー、ナイス,Ohh. Nice.
+2020011110190,透,じゃ、指すから,"Okay, I'm gonna point somewhere."
+2020011110200,透,……ここ,...Here.
+0000000000000,プロデューサー,"えっ……
+透、そこ海だぞ","Eh......
+Toru, that's the sea."
+2020011110210,透,"え？
+あ、ほんとだ……","Eh?
+Ah, you're right..."
+2020011110220,透,"ふふっ、いいじゃん
+行こうよ、海","Fufu, it's fine, isn't it.
+Let's go there. To the sea."
+0000000000000,プロデューサー,"はは、海か……うん、いいかもな
+でも、今度はちゃんと仕事で行こう","Haha, the sea huh... Yeah, that could be good. 
+But, let's do that on a job."
+0000000000000,プロデューサー,海だって、どこまでだって連れてくからさ,"The seas can bring you anywhere too, after all."
+2020011110230,透,……うん,...Yeah.
+info,produce_events/202001111.json,
+Translator,OrangeKabocha,

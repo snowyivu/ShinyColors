@@ -1,0 +1,33 @@
+id,name,text,trans
+1028001000810010,はるき,"わわっ……！
+あ～…………","Wawa...!
+Aah～......"
+0000000000000000,プロデューサー,どうした！？,What's wrong?!
+1028001000810020,はるき,"ペンが……
+ソファーの下に入っちゃいました","My pen...
+It fell underneath the sofa."
+0000000000000000,プロデューサー,"おっと、それは
+大変だ……！","Oh no, that's a problem...!"
+select,,"よし、ソファーを
+動かすぞ","All right, let's 
+move the sofa."
+select,,"何か隙間に
+入るものは……","Whatever falls 
+in those gaps..."
+select,,"とりあえず
+代わりのペンだ","For now, have a 
+replacement pen."
+1028001000810030,はるき,えっ、これをですか……？,"Eh, is that alright...?"
+1028001000810040,はるき,"……じゃあ
+わたしも一緒に持ち上げます！",... I'll help you lift it then!
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000810050,はるき,"す、すみません
+お忙しいところ……","S-Sorry to bother.
+Thank you for your time..."
+1028001000810060,はるき,あとは自分でなんとかしますから,I'll take care of the rest myself.
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000810070,はるき,あ、えっと……,"Ah, uhm..."
+1028001000810080,はるき,特に何か書いてたわけじゃないんです……,I wasn't writing anything...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100081.json,
+Translator,,

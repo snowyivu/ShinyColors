@@ -1,0 +1,23 @@
+id,name,text,trans
+4026001000230010,ルカ,"なんだよ……
+言いたいことでもあんのかよ？","What is it...
+Got something to say?"
+0000000000000000,プロデューサー,"え？
+ああ、そうだな……！","Eh?
+Aah, that's right...!"
+select,,きっと上手くいく,"It's going
+to be fine."
+select,,いつも通りにいこう,"Let's go
+as usual."
+select,,大丈夫か？,"Are you
+okay?"
+4026001000230020,ルカ,適当言いやがって……,You're talking out of turn...
+0000000000000000,プロデューサー,（よし、リラックスできたみたいだな）,"(Nice, seems you have relaxed.)"
+4026001000230030,ルカ,"言われなくても
+わかってんだよ……","You don't have to tell me.
+I already know..."
+0000000000000000,プロデューサー,（うん……落ち着いているみたいだ）,(Yeah... She seems to have calmed down.)
+4026001000230040,ルカ,んなもん知るかよ……,What do you know...
+0000000000000000,プロデューサー,（しまった……他のことを言えばよかった）,(Shoot... I should've said something different.)
+info,produce_communication_cheers/402600100023.json,
+Translator,Burbur,

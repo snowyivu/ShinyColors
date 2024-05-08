@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"たとえばの話だけど
+クイズ番組への出演オファーがあったらどうする？","Just a question. But what would you do
+if you were offered to appear on a quiz show?"
+1026001001110010,ルカ,は……？,Huh...?
+0000000000000000,プロデューサー,"クイズとか得意だったりするか？
+例題があるんだが試しに……","How are you at quizzes?
+What if we give it a go..."
+1026001001110020,ルカ,…………,......
+select,,ドラム３点とは？,"What are the 
+three drums?"
+select,,"キュウリが好きな
+妖怪は？","What monsters 
+like cucumbers?"
+select,,カーナビのナビとは？,"What is a 
+car navigation?"
+1026001001110030,ルカ,"ハイハット、バスドラ、スネア
+舐めてんのかよ","Hi-hat, bass drum and snare.
+Are you kidding me?"
+0000000000000000,プロデューサー,いや、さすがだ……,"No, as expected..."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001001110040,ルカ,"んなもん知るかよ
+オメェだろ……！","I don't care.
+It's you, isn't it...!"
+0000000000000000,プロデューサー,"いや
+俺は妖怪じゃないんだ……","No.
+I'm not a monster..."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001001110050,ルカ,…………,......
+1026001001110060,ルカ,…………うるせェ,...Shut up.
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100111.json,
+Translator,Burbur,

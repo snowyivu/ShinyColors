@@ -1,0 +1,29 @@
+id,name,text,trans
+1028001001410010,はるき,……ぐすっ,... Sniff.
+0000000000000000,プロデューサー,はるき……？,Haruki...?
+1028001001410020,はるき,"わっ……えっと、ごめんなさい……
+可愛い絵本を買ったんですけど──","Wa... Uhm, I'm sorry.
+I bought this picture book──"
+1028001001410030,はるき,まさか、泣けるようなお話とは思わなくって……！,I didn't think it would make me cry...!
+select,,俺も読みたいな,"I want to
+read it too."
+select,,ハンカチどうぞ,"Have this 
+handkerchief."
+select,,"読んだことは
+あるけど……","I've read about
+it but..."
+1028001001410040,はるき,読みますか……？,Do you want to read it...?
+1028001001410050,はるき,"プロデューサーさんと
+感想話せるとうれしいです……！","I'd be happy if you shared your thoughts
+about it with me, Producer-san...!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001001410060,はるき,あ、ありがとうございます……！,T-Thank you very much...!
+1028001001410070,はるき,でも、びっくりして涙は引っ込んじゃったかも……,But I might have been so surprised I held back my tears.
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001001410080,はるき,"──あ
+プロデューサーさんはそうでもなかったですか……？","──Ah.
+It wasn't the case for you, Producer-san?"
+1028001001410090,はるき,わたし、泣けるツボがおかしいんですかねぇ……,Am I wrong for crying...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100141.json,
+Translator,Burbur,

@@ -1,0 +1,33 @@
+id,name,text,trans
+1028001000910010,はるき,"プロデューサーさんはもし自分が
+乗るとしたら何がいいですか～？","Producer-san, if you had an option to ride
+something, what would you pick～?"
+0000000000000000,プロデューサー,"うん？
+車とかバイクの話か？","Hm?
+Are you talking about cars and motorcycles?"
+1028001000910020,はるき,"いえいえ、映画や本に出てくるような空想のお話です～
+だから、なーんでもいいんです！","Nono, it's like a fantasy like in books and movies～
+So it doesn't matter, anything's fine!"
+0000000000000000,プロデューサー,"ははっ
+うーん、結構悩むな──……","Haha.
+Hrm, I'm thinking of──..."
+select,,ドラゴンかな,A dragon.
+select,,クジラの背中かな,"The back of
+a whale."
+select,,でもやっぱり車かな,"Probably still
+a car."
+1028001000910030,はるき,"いいですねぇ
+大きくて強そうですし……","Good choice.
+It's nice and big..."
+1028001000910040,はるき,やっぱりドラゴンは憧れますよねぇ,"Dragons are admired after all, right?"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001000910050,はるき,大きくていいですね……！,It's humonguous...!
+1028001000910060,はるき,"でも……ほぼ水中なので
+溺れませんかねぇ～？","But... it's almost underwater.
+Won't you drown then～?"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001000910070,はるき,なんだかんだ、便利ですよねぇ,"They're convenient, aren't they?"
+1028001000910080,はるき,けど……うーん────,But... Uhm──
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102800100091.json,
+Translator,Burbur,

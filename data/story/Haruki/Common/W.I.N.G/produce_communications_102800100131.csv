@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000000,プロデューサー,そうだ、はるきさ────,"That's right, Haruki──"
+1028001001310010,はるき,────…………,──...
+0000000000000000,プロデューサー,（……集中して書いてるな）,(... She's concentrated on writing.)
+0000000000000000,プロデューサー,"（こういう時のはるきは
+何も聞こえなくなるからなぁ────）","(At times like this,
+Haruki won't hear anything──)"
+select,,窓を開けるか,"Open a
+window."
+select,,お茶でもいれよう,"Let's make
+some tea."
+select,,"仕事でも
+するか","Do your
+work."
+1028001001310020,はるき,"……わ、風が……
+気持ちいいです","... Wah, the wind...
+It feels good."
+1028001001310030,はるき,"ふふ、ちょっと思いついたことがあって……
+お話してもいいですか？","Fufu, I just had an idea...
+Can I talk to you about it?"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1028001001310040,はるき,"……あ
+いい匂い……","... Ah.
+Smells good..."
+1028001001310050,はるき,"プロデューサーさん、
+今日はいいお菓子があるんですよ～","Producer-san,
+I got some good sweets today～"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1028001001310060,はるき,……！,...!
+1028001001310070,はるき,"あ、ごめんなさい……
+別の部屋行きますね……！","Ah, I'm sorry...
+I'll go into another room...!"
+0000000000000000,プロデューサー,"（うっ……しまった。
+気を遣わせてしまったな……）",(Ah... I should've said something else instead...)
+info,produce_communications/102800100131.json,
+Translator,Burbur,

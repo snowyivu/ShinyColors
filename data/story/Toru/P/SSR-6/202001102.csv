@@ -1,0 +1,90 @@
+id,name,text,trans
+0000000000000,プロデューサー,"透、ロケ場所遠いから、
+何か飲み物でも買っていくか？","Toru, the place's a little far so,
+wanna grab a drink or something before we go?"
+2020011020010,透,あー、うん,"Ahh, yeah."
+0000000000000,プロデューサー,"よし、OK
+出発だ","OK, all set.
+Let's go."
+0000000000000,プロデューサー,あれ……,Huh...
+0000000000000,プロデューサー,すまん、エンジンがかからなくて……,"Sorry, the engine isn't starting..."
+2020011020020,透,故障？,A breakdown?
+0000000000000,プロデューサー,かもな……,That's possible...
+0000000000000,プロデューサー,"ダメか……
+…………あと１時間──","No good...
+...... 1 hour left till──"
+0000000000000,プロデューサー,"仕方ない、車は後で修理に出すことにして
+電車で向かおう","It can't be helped. I'll get the car fixed later.
+We'll be heading there by train."
+2020011020030,透,え、間に合う？,"Eh, will we make it on time?"
+0000000000000,プロデューサー,"今から向かえば、なんとか
+急ごう","We will, if we leave now.
+Let's hurry.
+"
+2020011020040,透,え、やば……,Eh... this is crazy...
+0000000000000,プロデューサー,"あっ、電車来てる……！
+走れ、透！","Ah, the train's here...!
+Toru, run!"
+0000000000000,プロデューサー,"ふぅ、なんとか間に合った……
+ごめんな透、疲れただろ？","Phew, we made it somehow...
+Sorry Toru, are you alright?"
+2020011020050,透,うん、大丈夫……,"Yeah, I'm fine..."
+0000000000000,プロデューサー,あ……現場のスタッフさんからメールだ,Ah... It's a message from the staff at the location.
+0000000000000,プロデューサー,"着信も来てたのか
+気付かなかったな……ええと──","I got missed calls too.
+Didn't notice them... let's see── "
+0000000000000,プロデューサー,──え…………,── Eh......
+0000000000000,プロデューサー,"悪い、透……
+ロケ、中止になった","Sorry Toru...
+Today's recording is cancelled."
+2020011020060,透,え？,Eh?
+0000000000000,プロデューサー,"豪雨だって、現地
+風もすごくて、これじゃあ撮影できないからって","A sudden rainstorm hit, they say.
+The winds are too strong for any filming to be done."
+2020011020070,透,あー……,Ah...
+2020011020080,透,ふふっ,Fufu.
+0000000000000,プロデューサー,ははっ,Haha.
+2020011020081,透＆プロデューサー,あははっ,Ahaha.
+2020011020090,透,散々だね、今日,"A whole lot happened today, huh."
+0000000000000,プロデューサー,だな,Indeed.
+0000000000000,プロデューサー,"──なあ、透
+せっかくだから、このままどこかへ行かないか？","──Say, Toru.
+Since we're already out here, why don't we go 
+around somewhere?"
+0000000000000,プロデューサー,"行ったことない駅で降りてさ、見たことのない景色を見て
+食べたことのないものを食べて帰るんだ","We'll stop at an unfamiliar station, see unfamiliar 
+landscapes, try unfamiliar food then head back."
+2020011020100,透,"おー
+いいね、賛成","Ohh.
+Sounds good. I'm in."
+0000000000000,プロデューサー,"よし、じゃあ……
+次の次の駅で降りよう！","Okay then...
+We'll get off at the station after the next one!"
+2020011020110,透,オッケー,Okaay.
+2020011020120,透,止んでるね、風,The winds are stilling.
+2020011020130,透,"あ……靴
+誰かの、片方","Ah... shoes.
+Someone's... other pair."
+0000000000000,プロデューサー,ああ、風で飛ばされてきたのかな,Ohh. I wonder if the winds brought it here.
+2020011020140,透,"うん
+なんでも飛ばしちゃうからね、風","Yeah.
+The winds blow anything away, after all.
+"
+0000000000000,プロデューサー,ロケまで飛ばしちゃうとは思わなかったけどな,I didn't think it'd even blow away our recording today.
+2020011020150,透,"ふふっ、でも
+嫌いじゃないよ、そういうの","Fufu. But,
+I don't hate it. That sort of thing."
+2020011020160,透,"いいじゃん、変なとこ行っちゃっても
+たまには","It's fine, isn't it.
+Going to weird places once in a while."
+0000000000000,プロデューサー,"そうだな……
+悪くない","You're right...
+It's not a bad feeling."
+0000000000000,プロデューサー,"よし、何か食べよう！
+どこへ行こうか？","Okay! Let's get something to eat!
+Where shall we go?"
+2020011020170,透,"んー……
+どこへでも","Mnn...
+Wherever."
+info,produce_events/202001102.json,
+Translator,OrangeKabocha,
