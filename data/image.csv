@@ -1,6 +1,6 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,77
-images/ui/common/parts.json_image,common_parts.png,44
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,78
+images/ui/common/parts.json_image,common_parts.png,45
 images/ui/my_page/parts.json_image,my_page.parts.png,46
 images/ui/fes/parts.json_image,fes_parts.png,40
 images/ui/common/parts_icons.json_image,common_parts_icons.png,36
@@ -320,7 +320,7 @@ images/ui/produce_ending/parts_true_lesson.json_image,true_end_report.png,3
 images/ui/gasha/parts_provide_rate.json_image,gasha_parts_provide_rate.png,6
 images/ui/produce_idea_note/parts.json_image,idea_note_parts.png,5
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,3
-images/ui/character_album/parts.json_image,character_album_parts.png,9
+images/ui/character_album/parts.json_image,character_album_parts.png,10
 images/ui/raid_result/parts.json_image,raid_result_parts.png,3
 images/content/ex_skills/icon.json_image,ex_skills.png,6
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,5
