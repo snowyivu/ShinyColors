@@ -3,7 +3,7 @@ images/ui/common/parts_buttons.json_image,common.parts_buttons.png,78
 images/ui/common/parts.json_image,common_parts.png,45
 images/ui/my_page/parts.json_image,my_page.parts.png,46
 images/ui/fes/parts.json_image,fes_parts.png,40
-images/ui/common/parts_icons.json_image,common_parts_icons.png,36
+images/ui/common/parts_icons.json_image,common_parts_icons.png,37
 images/ui/option/parts.json_image,ui_option_parts.png,28
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,22
@@ -11,7 +11,7 @@ images/ui/concert/parts.json_image,concert_parts.png,25
 images/ui/gasha/parts.json_image,gasha_parts.png,30
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
-images/ui/idol_list/parts.json_image,idol_list_parts.png,22
+images/ui/idol_list/parts.json_image,idol_list_parts.png,23
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,20
 images/ui/produce_common/parts_header.json_image,parts_header.png,16
 images/ui/produce_event/parts_event.json_image,parts_event.png,15
@@ -46,7 +46,7 @@ images/ui/produce_deck/parts_deck_edit.json_image,parts_deck_edit.png,18
 images/ui/produce_action/parts_wing.json_image,parts_wing.png,6
 images/ui/produce_action/parts_tab_3.json_image,parts_tab_3.png,2
 images/ui/training/parts.json_image,training_parts.png,10
-images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,12
+images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,13
 images/ui/common/parts_filter.json_image,common_filter.png,5
 images/ui/start/parts.json_image,start_parts.png,13
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,11
@@ -145,7 +145,7 @@ images/ui/item/parts.json_image,item_parts.png,15
 images/content/produce_area/button_m/002.png,button_m_002.png,3
 images/content/produce_area/button_l/002.png,button_l_002.png,3
 images/content/produce_area/button_l/004.png,button_l_004.png,2
-images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,11
+images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,12
 images/ui/common/parts_item_content.json_image,item_content.png,4
 images/ui/skin_exchange/parts.json_image,skin_exchange.png,12
 images/ui/produce_action/parts_fan_meeting.json_image,parts_fan_meeting.png,5
