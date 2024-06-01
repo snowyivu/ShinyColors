@@ -1,0 +1,88 @@
+id,name,text,trans
+3025010010010,ルカ,さっむ……！！！！,So cold...!!!!
+3025010010020,美琴,そんなに薄着だもん,You need more layers.
+3025010010030,ルカ,"……来た時は寒くなかったんだよ
+今日はこんな遅くなると思わなかったし","...It wasn't cold when I came here.
+I didn't think we would be leaving this late today."
+3025010010040,ルカ,うちらだけ残りとか……,We're the only ones left...
+3025010010050,美琴,"仕方ないよ
+私たちができてなかったんだから","There's no choice.
+We weren't able to do what was asked."
+3025010010060,ルカ,……それは、そうなんだけど……,"...That's true, but..."
+3025010010070,ルカ,"あー……
+早く冬終われー……！","Ah......
+Hurry up and end already, winter...! "
+3025010010080,美琴,……,......
+3025010010090,美琴,"自分が着こむより
+季節に変わってもらうつもりなんだ？","So you'd rather change the season than wear some
+extra layers?"
+3025010010100,ルカ,"寒過ぎるのが悪い
+てゆうか、美琴は着込みすぎなんだよ","Blame it on how cold it is.
+Meanwhile, you're wearing too much clothes."
+3025010010110,美琴,"……だって、寒いから
+東京って","...I mean, Tokyo is cold."
+3025010010120,ルカ,…………,............
+3025010010130,美琴,──……,──......
+3025010010140,ルカ,────あ……,────Ah......
+3025010010150,美琴,"……？
+何……？","......?
+What is it...?"
+3025010010160,ルカ,"いや、なんかいい匂いしたから
+コーヒーみたいな……","Something smells nice.
+It's like coffee..."
+3025010010170,美琴,……そこのお店かな？,...Maybe it's the shop over there?
+3025010010180,ルカ,ほんとだ……！,Must be...!
+3025010010190,美琴,え……寄って行くの？,Eh... Are you checking it out?
+3025010010200,ルカ,"テイクアウト！
+あったかいの飲めば少しはマシになる気がする！","I'm getting takeouts!
+I should feel a little better drinking something warm!"
+3025010010210,美琴,…………,............
+3025010010220,美琴,そっか……じゃあ、私も,"I see... Then, me too."
+3025010010230,ルカ,え……！？,Eh......!?
+3025010010240,美琴,何？,What?
+3025010010250,ルカ,いや……、珍しいなって思っただけ,Nothing... I just thought it's rare for you.
+0000000000000,カフェの店員,"──いらっしゃいませ
+店内でお召し上がりですか？","──Welcome.
+Would you like it for here or to go? "
+3025010010260,ルカ,"あー……えっと
+持って帰ります……で","Ah...um...
+To go... please."
+3025010010270,ルカ,美琴、何にする？,"Mikoto, what do you want?"
+3025010010280,美琴,…………,............
+3025010010290,美琴,"わからない
+……何がおすすめ？","I don't know.
+...What do you recommend?"
+3025010010300,ルカ,…………えっと……,......Erm...
+3025010010310,ルカ,……,......
+3025010010320,ルカ,"……すいません
+おすすめってなんですか？","...Excuse me.
+What would you recommend? "
+0000000000000,カフェの店員,そうですね……,Let's see...
+0000000000000,カフェの店員,"優しくてまろやかな味わいなので
+カフェラテから始めてみるのはいかがでしょう","How about we start with something light and mellow,
+a cafe latte?"
+3025010010321,美琴＆ルカ,…………,............
+3025010010330,ルカ,じゃ……、それふたつで,Well then... Two of those.
+0000000000000,カフェの店員,"ありがとうございます！
+よかったら次にまたおすすめさせてくださいね","Thank you very much!
+If you like it, feel free to ask for recommendations
+again next time."
+3025010010340,ルカ,……はい,...Sure.
+3025010010341,美琴＆ルカ,────……！,"────......!
+(It's cold!)
+(It's hot!)"
+3025010010342,美琴＆ルカ,…………！,............!
+3025010010350,ルカ,"……っ
+なんだよ、同時に逆のこと言ってんじゃん","......
+What the, we just said the opposite things at the
+same time?"
+3025010010360,美琴,"……だって
+このカフェラテ、すごく熱いよ","...I mean, this latte is really hot."
+3025010010370,ルカ,"外がこんだけ寒いんだから
+ちょうどいいって","It's this cold outside, so they'll just cancel out."
+3025010010371,美琴＆ルカ,…………,............
+3025010010372,美琴＆ルカ,……おいしい,......Delicious.
+3025010010380,ルカ,……！,......!
+3025010010390,美琴,……今度は揃ったね,...This time it's the same.
+info,produce_events/302501001.json,
+Translator,Ruru,

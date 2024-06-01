@@ -1390,9 +1390,9 @@ beginnerMission.clearedAlert.reward,%{rewardName} ×%{num},%{rewardName} ×%{num
 countUpCampaign.unit.fes_raid_laps,周,wk
 countUpCampaign.countUpText,%{unit}で%{title}達成,%{unit}で%{title}達成
 countUpCampaign.clearedFooterText.fes_raid_laps,コラボフェスの到達周数でボーナスをGET!,コラボフェスの到達周数でボーナスをGET!
-countUpCampaign.clearedFooterText.fan,プロデューサーズカップの累計獲得ファン数でボーナスをGET!,プロデューサーズカップの累計獲得ファン数でボーナスをGET!
+countUpCampaign.clearedFooterText.fan,プロデューサーズカップの累計獲得ファン数でボーナスをGET!,Get bonuses for the total number of fans you have obtained in the Producers' Cup!
 countUpCampaign.closeAt,集計期間: %{closeAt} まで,集計期間: %{closeAt} まで
-countUpCampaign.lastChallengeTitle,前回のチャレンジ結果,前回のチャレンジ結果
+countUpCampaign.lastChallengeTitle,前回のチャレンジ結果,Previous Challenge Results
 countUpCampaign.pCupAttention,休憩時間中のプロデュースなどで獲得したファン数も集計対象に含まれます,休憩時間中のプロデュースなどで獲得したファン数も集計対象に含まれます
 countUpCampaign.fanCount,約%{count}億,約%{count}億
 fortuneResultTweet.text1.normal,今日の運勢は・・・【%{rankName}】！素敵な1日になりそう！\n\n,今日の運勢は・・・【%{rankName}】！素敵な1日になりそう！\n\n
@@ -1668,33 +1668,33 @@ deck.deckNameEdit.complete.message,ユニット名を変更しました,ユニ�
 deck.deckNameEdit.error.ngWord,禁止ワードが含まれています,禁止ワードが含まれています
 deck.deckNameEdit.error.wordLength,入力文字数が不正です,入力文字数が不正です
 deck.deckCopy.confirm.title,ユニットコピー確認,Confirm Copy Unit
-deck.deckCopy.complete.title,ユニットコピー完了,ユニットコピー完了
+deck.deckCopy.complete.title,ユニットコピー完了,Copying Unit Complete
 deck.deckCopy.complete.message,ユニット情報をコピーしました,ユニット情報をコピーしました
 deck.title.deckCopy,ユニットコピー,Copy Unit
 deck.title.deckMove,ユニット切り替え,ユニット切り替え
 groupedExpireAlert.title,アイテム有効期限確認,アイテム有効期限確認
-gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,イベント限定報酬アイドル
+gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,Event-only Reward Idol
 gasha.redrawGashaBackNotice,確定せずに戻る,確定せずに戻る
 gasha.popRedrawQuit.title,ご注意,Attention
 gasha.popRedrawQuit.comment,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です
 gasha.popRedrawQuit.notice,現在のガシャ結果は破棄されます,現在のガシャ結果は破棄されます
-gasha.scoutGasha.possessedIdol,所持済,所持済
-gasha.scoutGasha.notPossessedIdol,未所持,未所持
+gasha.scoutGasha.possessedIdol,所持済,Owned
+gasha.scoutGasha.notPossessedIdol,未所持,Unowned
 homeDeckBGM,ホームユニットBGM,Home Unit BGM
 homeDeckBackgroundEffect,ホームユニットエフェクト,Home Unit Effect
 exSkill.unreleased,未解放,未解放
 exSkill.produceExSkillCondition.title,[条件%{number}],[条件%{number}]
-exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Lv.%{requiredLevel}達成
-exSkill.produceExSkillCondition.supportIdol.evolution,特訓%{requiredEvolutionStage}回達成,特訓%{requiredEvolutionStage}回達成
-exSkill.produceExSkillCondition.idol.trueEnd,%{firstName}のTrue End達成,%{firstName}のTrue End達成
-exSkill.produceExSkillCondition.idol.tenThousandFans,%{firstName}のファン数%{requiredFan}万達成,%{firstName}のファン数%{requiredFan}万達成
-exSkill.produceExSkillCondition.idol.oneHundredMillionFans,%{firstName}のファン数%{requiredFan}億突破,%{firstName}のファン数%{requiredFan}億突破
-exSkill.produceExSkillCondition.common.trueEnd,誰か1人のTrue End達成,誰か1人のTrue End達成
-exSkill.produceExSkillCondition.common.fesMatchGrade,グレード%{requiredFesMatchGradeId}に到達,グレード%{requiredFesMatchGradeId}に到達
+exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Card Lv. %{requiredLevel}
+exSkill.produceExSkillCondition.supportIdol.evolution,特訓%{requiredEvolutionStage}回達成,Evolve %{requiredEvolutionStage} times
+exSkill.produceExSkillCondition.idol.trueEnd,%{firstName}のTrue End達成,Obtain a True End for %{firstName}
+exSkill.produceExSkillCondition.idol.tenThousandFans,%{firstName}のファン数%{requiredFan}万達成,%{firstName}'s Fan Count exceeds %{requiredFan}
+exSkill.produceExSkillCondition.idol.oneHundredMillionFans,%{firstName}のファン数%{requiredFan}億突破,%{firstName}'s Fan Count exceeds %{requiredFan}
+exSkill.produceExSkillCondition.common.trueEnd,誰か1人のTrue End達成,Obtain one True End from anyone
+exSkill.produceExSkillCondition.common.fesMatchGrade,グレード%{requiredFesMatchGradeId}に到達,Reach Grade %{requiredFesMatchGradeId}
 exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解放,条件を達成すると解放
 exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,どちらかの条件を達成すると解放
-exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Exスキル枠を\n選択してください
-exSkill.noExSkill,Exスキルを\n所持していません,Exスキルを\n所持していません
+exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Please select \na Ex Skill slot
+exSkill.noExSkill,Exスキルを\n所持していません,No Ex Skills owned \nfor this Idol
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
 exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}/%{totalKindNum}
 exSkill.upgradeConfirmPop.title,グレードアップ確認,Grade Up Review
@@ -1702,23 +1702,23 @@ exSkill.upgradeConfirmPop.notice.lackTotalNum,現在のExスキルの所持数�
 exSkill.upgradeConfirmPop.notice.lackUnsetNum,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください
 exSkill.upgradeConfirmPop.notice.limitOver,グレードアップ後のExスキルが所持上限に達しています,グレードアップ後のExスキルが所持上限に達しています
 exSkill.upgradeResultPopTitle,グレードアップ,Grade Up
-monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283パス有効期限のお知らせ
+monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283 Pass Expiry Notice
 monthlyPassport.expireAlertPop.runningDays,%{runningDays}日,%{runningDays}d
-monthlyPassport.expireAlertPop.remainDays,あと%{remainDays}日,あと%{remainDays}日
-monthlyPassport.expireAlertPop.remainHours,あと%{remainHours}時間,あと%{remainHours}時間
-monthlyPassport.expireAlertPop.remainMinutes,あと%{remainMinutes}分,あと%{remainMinutes}分
+monthlyPassport.expireAlertPop.remainDays,あと%{remainDays}日,%{remainDays} days left
+monthlyPassport.expireAlertPop.remainHours,あと%{remainHours}時間,%{remainHours} hours left
+monthlyPassport.expireAlertPop.remainMinutes,あと%{remainMinutes}分,%{remainMinutes} minutes left
 option.volumeTitle.concertBgm,楽曲,Music
-option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,アイドルからのイタズラ【ささやき】
+option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,Mischief from Idols [Whispers]
 option.homeContent.itemName.joke,2019ハロウィンのおかし,2019 Halloween Sweets
 option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 Halloween Sweets
 item.expireAt,使用期限：%{expireAt},Expires：%{expireAt}
-item.releaseMypageCommunicationPop.title,イタズラ解放,イタズラ解放
-item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,トリック・オア・トリート！\nホーム画面でじっとしていると…？
+item.releaseMypageCommunicationPop.title,イタズラ解放,Mischief unlocked
+item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,Trick or Treat! \nWhat if you idle on the home screen...?
 shop.headerTitles.monthlyPassport,283パス,283Pass
 shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage}回特訓済)
 shop.labelGameEventShopIdolPossessionText,所持状況,所持状況
 shop.monthlyPassport.limitAt,%{limitAt}まで,Until %{limitAt}
-shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,ブラウザ版のみ
+shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,Browser version only
 shop.monthlyPassport.unpurchasableBadge.outOfTerm,%{nextOpenDate}から購入可,%{nextOpenDate}から購入可
 skillBord.fromDeckHeader,スキルパネル,Skill Panel
 topicPath.produce.areaSelect,プロデュース選択,Produce Selection
@@ -1727,15 +1727,15 @@ topicPath.produce.itemSelect,アイテム選択,Item Selection
 topicPath.trueEndTeaching.areaSelect,プロデュース選択,Produce Selection
 topicPath.trueEndTeaching.idolSelect,アイドル選択,Idol Selection
 topicPath.trueEndTeaching.deckEdit,ユニット編成,Unit Setup
-trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G.攻略ミッションコンプリート
+trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G. Missions Complete
 trueEndTeaching.openPopup.description,True End研修はホーム画面からスタートすることができます,True End研修はホーム画面からスタートすることができます
-trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう
-trueEndTeaching.openPopup.teachingText,True End研修へ,True End研修へ
+trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,"Congratulations♪ You have cleared all W.I.N.G. Missions〜 \n Next up, why not try True Ending Training〜"
+trueEndTeaching.openPopup.teachingText,True End研修へ,To True Ending Training
 userOnlyMessagePopup.title,専用メッセージ,専用メッセージ
 workActivityTop.checkUnitDialogTitle,営業編成確認,Job Status Check
 workActivityReady.selectedBusinessNone,未選択,Unselected
-workActivityReady.autoSelectedDialog.title,おまかせ編成,おまかせ編成
-workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しました,おまかせ編成が完了しました
+workActivityReady.autoSelectedDialog.title,おまかせ編成,Recommended
+workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しました,Recommendation is now done
 workActivityReady.startErrorDialog.confirmationText,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です
 unitName.1,イルミネーションスターズ,illumination STARS
 unitName.2,アンティーカ,L'Antica
@@ -1867,8 +1867,8 @@ fesTower.reset.acquirementPop.unlockDescription,Fes Toursポイントを消費�
 fesTower.reset.acquirementPop.levelUpDescription,Fes Toursポイントを消費して\n以下の%{resetContentTypeText}をレベルアップしますか？,Consume Fes Tours Points to\nupgrade this %{resetContentTypeText}?
 fesTower.reset.resetConfirmPopTitle,リスタート確認,Confirm Restart
 fesTower.reset.takeoverConfirmPopTitle,アイテム引き継ぎ確認,Confirm Item Carry-Over
-idolList.infoSwitch.4th_produce_area,熟練度(Landing Point用),熟練度(Landing Point用)
-idolList.emptyMessages.produceMusicSelect,所持しているアイドルがいません。,所持しているアイドルがいません。
+idolList.infoSwitch.4th_produce_area,熟練度(Landing Point用),Proficiency (Landing Point)
+idolList.emptyMessages.produceMusicSelect,所持しているアイドルがいません。,There are no Idols owned.
 gasha.confirmDialog.messageUnitFixed,ガシャを%{count}回引きます\nピックアップユニットを変更することはできません\nよろしいですか？,ガシャを%{count}回引きます\nピックアップユニットを変更することはできません\nよろしいですか？
 gasha.stepupRemainingDay,残り%{day}日,%{day} days left
 header.fesMatchPopularityRanking,使用率,Use Rate
@@ -1891,18 +1891,18 @@ option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低
 item.characterTrustLevelUp.text,アイドルとの信頼関係が更に深まった,アイドルとの信頼関係が更に深まった
 item.characterTrustLevelUp.notification,%{characterName} の信頼度がアップしました,%{characterName} の信頼度がアップしました
 specialPresent.title,配布のお知らせ,配布のお知らせ
-produceHeader.concertSeason.landingPoint,単独ライブ,単独ライブ
-produceMusicSelect.abilityDetailPop.title,アビリティ詳細,アビリティ詳細
-produceMusicSelect.cdInfoPop.title,CD情報,CD情報
-produceMusicSelect.excludedCharacterPop.title,選択不可アイドル,選択不可アイドル
-produceMusicSelect.excludedCharacterPop.member,編成で選択済みのアイドルと\n同一アイドルは選択できません,編成で選択済みのアイドルと\n同一アイドルは選択できません
-produceMusicSelect.excludedCharacterPop.alreadySelected,このアイドルは他の楽曲サポートアイドルに\n設定中のため、選択できません,このアイドルは他の楽曲サポートアイドルに\n設定中のため、選択できません
-produceMusicSelect.musicDetail.totalLevelBonus.unitLimitation,ユニット限定,ユニット限定
-produceMusicSelect.selectedSupporterInfo.empty,サポートアイドルを\n選択してください,サポートアイドルを\n選択してください
+produceHeader.concertSeason.landingPoint,単独ライブ,Solo Live
+produceMusicSelect.abilityDetailPop.title,アビリティ詳細,Ability Details
+produceMusicSelect.cdInfoPop.title,CD情報,CD Info
+produceMusicSelect.excludedCharacterPop.title,選択不可アイドル,Unavailable Idols
+produceMusicSelect.excludedCharacterPop.member,編成で選択済みのアイドルと\n同一アイドルは選択できません,"Cannot select the same Idol, \nIdol is already in Unit."
+produceMusicSelect.excludedCharacterPop.alreadySelected,このアイドルは他の楽曲サポートアイドルに\n設定中のため、選択できません,This Idol is already set as Support Idol for another song.\n Please select another Idol.
+produceMusicSelect.musicDetail.totalLevelBonus.unitLimitation,ユニット限定,Unit-Limited
+produceMusicSelect.selectedSupporterInfo.empty,サポートアイドルを\n選択してください,Please select a Support Idol
 produceMusicSelect.selectedSupporterInfo.proficiency.value,＋%{value},＋%{value}
 produceMusicSelect.selectedSupportersProficiency.baseValue,＋%{value},＋%{value}
 produceMusicOrder.musicListItem.order,%{order}曲目,%{order}曲目
-produceMusicOrder.musicDetail.judgeStarBonus.none,ライブ効果なし,ライブ効果なし
+produceMusicOrder.musicDetail.judgeStarBonus.none,ライブ効果なし,No Live Effects
 produceMusicOrder.dragGuide.comment,つかんで\n入れ替え,つかんで\n入れ替え
 produceMusicOrder.liveDetail.title,%{order}曲目 ライブ詳細,%{order}曲目 ライブ詳細
 produceAction.satisfactionUpEffect.pointUp,上昇量UP！,上昇量UP！
@@ -1925,12 +1925,12 @@ shop.idolUnpossessedText.idol,未所持,Unowned
 shop.idolUnpossessedText.other,アイドル未所持,Unowned Idol
 shop.smallTabTitles.gameEvent.coin,グレフェスコイン,Grade Fes Coins
 shop.smallTabTitles.idolPiece.idolEvolutionPiece,アイドルピース,Idol Pieces
-skillBord.enablePassiveSkillDeletionNotice.title,確認,確認
-skillBord.enablePassiveSkillDeletionNotice.notice,習得したパッシブスキルの削除が有効になりました,習得したパッシブスキルの削除が有効になりました
+skillBord.enablePassiveSkillDeletionNotice.title,確認,Confirm
+skillBord.enablePassiveSkillDeletionNotice.notice,習得したパッシブスキルの削除が有効になりました,Deleting learned passive skills is now enabled
 skillBord.enablePassiveSkillDeletionNotice.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません
-skillBord.deletePassiveSkillConfirmation.title,スキル削除確認,スキル削除確認
-skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキルを削除しますか？,選択したパッシブスキルを削除しますか？
-skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません
+skillBord.deletePassiveSkillConfirmation.title,スキル削除確認,Confirm Skill Removal
+skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキルを削除しますか？,Would you like to remove this passive skill?
+skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,Deleted passive skills cannot be relearned and \r\nSP consumed in learning them will not be returned.
 characterSpecialCommunication.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
 characterSpecialCommunication.releaseConfirmationComment,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？
 characterSpecialCommunication.dayLimitTitle,エラー,Error
@@ -1942,16 +1942,16 @@ specialCommunicationSituation.confirmationComment,%{title} が解放されまし
 tutorial.unitDescription.7,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。,"A spicy & girly dance-pop unit.\nThe music won't stop. So shut up and listen.\nLet the BPM of your heart race, to create an unstoppable melody.\nA 1000-carat story unfolds, for I (she) became me (she)."
 workActivityRewardPop.unitLevelRewardTitle,報酬受け取り,Received Reward
 workActivityRewardPop.commuTitle,コミュ解放,コミュ解放
-workActivityRewardPop.talkCompleteRewardTitle,報酬受け取り,報酬受け取り
+workActivityRewardPop.talkCompleteRewardTitle,報酬受け取り,Received Reward
 workActivityRewardPop.unitLevelRewardText,営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました,営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました
 workActivityRewardPop.commuText,営業ユニットレベルが一定に達したため\n以下のコミュが解放されました,営業ユニットレベルが一定に達したため\n以下のコミュが解放されました
 workActivityRewardPop.talkCompleteRewardText,トークのコンプ数が一定に達したため\n以下の報酬を受け取りました,トークのコンプ数が一定に達したため\n以下の報酬を受け取りました
 workActivityResult.unitWorkActivityPointPop.title,ユニット営業ポイント確認,Unit Job Points Review
 workActivityTalkAndCommu.commuListPopTitle,営業ユニットコミュ,Unit Job Commu
 workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName,コンプ数\n%{num},コンプ数\n%{num}
-workActivityTalkAndCommu.talkCompleteRewardPopContent.title,コンプ報酬,コンプ報酬
-workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%{num},ユニット\nLv.%{num}
-workActivityTalkAndCommu.unitLevelRewardPopContent.title,レベル報酬,レベル報酬
+workActivityTalkAndCommu.talkCompleteRewardPopContent.title,コンプ報酬,Comp. Reward
+workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%{num},Unit \nLv.%{num}
+workActivityTalkAndCommu.unitLevelRewardPopContent.title,レベル報酬,Level Reward
 unitSelectGasha.confirmTitle,ピックアップユニット確認,ピックアップユニット確認
 unitSelectGasha.confirmText,ピックアップユニットを「%{unitName}」に確定しますか？,ピックアップユニットを「%{unitName}」に確定しますか？
 fes.top.residualBorder,残留ライン,Stay Line
@@ -2066,7 +2066,7 @@ shop.battlePassport.totalPurchasedTimes,%{times}回,x%{times}
 shop.battlePassport.stampCardNotice,%{rewardNum}個目以降の購入時の報酬については後日追加されます,Rewards for purchases after %{rewardNum} will be added at a later date
 shop.battlePassport.missionRewardPop.title,ミッション報酬,Mission Reward
 shop.battlePassport.missionRewardPop.day,%{day}日目,For day %{day}
-shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewel
+shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewels
 topicPath.produce.knowHowBookSelect,ノウハウブック選択,Know-How Book
 training.expireDate,使用期限 %{expireDate}まで,Expires %{expireDate}
 producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You'll receive %{rewardNum} reward(s)
@@ -2080,16 +2080,16 @@ producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間�
 producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal
 filter.categories.aptitude,適性,Aptitude
 filter.categories.costumePossession,衣装所持,
-filter.categories.costumeType,種類,
-filter.categories.clearStatus,CLEAR状況,
+filter.categories.costumeType,種類,Type
+filter.categories.clearStatus,CLEAR状況,CLEAR Status
 filter.categories.fightSkill,ファイトスキル,Fight Skill
 filter.categories.voiceType,ボイス種別,Voice Type
-filter.categories.releaseCondition,解放状況,
+filter.categories.releaseCondition,解放状況,Release Condition
 filter.categories.jointFesArea,エリア,Area
 filter.categories.jointFesRewardFacilityItem,アイテム,Item
 filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,
-filter.texts.possession,所持済み,
-filter.texts.notPossessed,未所持,
+filter.texts.possession,所持済み,Owned
+filter.texts.notPossessed,未所持,Unowned
 filter.texts.released,解放済み,
 filter.texts.unreleased,未解放,
 filter.texts.aptitudes.musicStyle,楽曲適性,
@@ -2107,7 +2107,7 @@ characterAlbum.voiceType.touch,タッチボイス,Touch Voice
 characterAlbum.voiceType.characterTrustLevelComment,信頼度ボイス,Trust Voice
 characterAlbum.voiceType.mypageConversationComment,アイドル同士の会話,
 common.fesIdol,フェスアイドル,Fes Idol
-common.facilityItem,施設強化アイテム,
+common.facilityItem,施設強化アイテム,Facility Enhancement Item
 common.knowHowBook,ノウハウブック,Know-How Book
 concert.judge.interestingRatio,%{value}倍,%{value}x
 concert.judgeDetailDialog.interestingRatio,×%{value}倍,×%{value}
@@ -2134,7 +2134,7 @@ fes.deck.informationTypes.popularity,使用率,Usage
 fes.deck.informationTypes.fightSkill,ファイトスキル,Fight Skill
 fes.deck.informationTypes.aptitude,適性,Aptitude
 fes.retireDialog.title,ライブ終了,End Live
-fes.retireDialog.text,ライブを終了しますか？,Really End Live?
+fes.retireDialog.text,ライブを終了しますか？,Really end this Live?
 fes.deckMemberAptitude.musicStyle.cute,キュート,Cute
 fes.deckMemberAptitude.musicStyle.cool,クール,Cool
 fes.deckMemberAptitude.musicStyle.positive,ポジティブ,Positive
@@ -2148,26 +2148,26 @@ fes.deckMemberAptitude.environment.sunny,晴れ,Sunny
 fes.deckMemberAptitude.environment.cloudy,くもり,Cloudy
 fes.deckMemberAptitude.environment.rain,雨,Rain
 fes.fightSkillSelect.title,ファイトスキル選択,Choose Fight Skill
-fesTower.liveAutoSetupPop.title,ライブオート設定,
-fesTower.liveItemPresetPop.title,ライブアイテムプリセット,
-fesTower.liveItemPresetPop.groupNumber,プリセット%{groupNumber},
-fesTower.panelUnit.unsetDeckNumber,未設定,
+fesTower.liveAutoSetupPop.title,ライブオート設定,Auto Live Setup
+fesTower.liveItemPresetPop.title,ライブアイテムプリセット,Live Item Preset
+fesTower.liveItemPresetPop.groupNumber,プリセット%{groupNumber},Preset %{groupNumber}
+fesTower.panelUnit.unsetDeckNumber,未設定,Unset
 fesTower.panelUnit.staffComment,流行ごとのライブパネルに参加するユニットを選択しましょう♪\nパネルごとにアイテムも選択できますよ～,
 fesTower.bonus.tourBonus.noticeText,ツアー中の地方ボーナスは地方ツアー達成まで継続します,
-fesTower.bonus.tourBonus.unitBonusText,%{unitName}のユニットボーナスUP！,
+fesTower.bonus.tourBonus.unitBonusText,%{unitName}のユニットボーナスUP！,%{unitName}'s Unit Bonus UP!
 fesTower.bonus.tourBonus.genreBonusText,%{genreName}のジャンルボーナスUP！,
-fesTower.bonus.tourBonus.characterBonusText,%{characterName}のアイドルボーナスUP！,
-fesTower.bonus.activeBonusListPop.noUserDeckComment,パネルが選択されていません,
+fesTower.bonus.tourBonus.characterBonusText,%{characterName}のアイドルボーナスUP！,%{characterName}'s Idol Bonus UP!
+fesTower.bonus.activeBonusListPop.noUserDeckComment,パネルが選択されていません,No Panel selected.
 fesTower.bonus.activeBonusListPop.tab.tabTourBonus,ツアー中,On Tour
-fesTower.bonus.activeBonusListPop.tab.tabSpecialBonus,特別ボーナス,
-fesTower.bonus.activeBonusListPop.listTitle.tourBonus,地方ボーナス,
+fesTower.bonus.activeBonusListPop.tab.tabSpecialBonus,特別ボーナス,Special Bonus
+fesTower.bonus.activeBonusListPop.listTitle.tourBonus,地方ボーナス,Local Bonus
 fesTower.bonus.activeBonusListPop.listTitle.specialBonusProduceIdol,プロデュースアイドル,Produce Idol
 fesTower.bonus.activeBonusListPop.listTitle.specialBonusSupportIdol,サポートアイドル,Support Idol
 fesTower.levelUp.headerTitle,レベルアップ,Level Up
-idolList.emptyRewardKnowHowBookMessage,獲得しているノウハウブックがありません,
-idolList.emptyMessages.homeDeckEdit,所持しているMVアイドルがいません。,
+idolList.emptyRewardKnowHowBookMessage,獲得しているノウハウブックがありません,No Know-Hows owned.
+idolList.emptyMessages.homeDeckEdit,所持しているMVアイドルがいません。,No MV Idols owned.
 header.homeDeckMvSelect,MV選択,MV Select
-header.jointFesFacility,施設一覧,
+header.jointFesFacility,施設一覧,Facilities List
 header.jointFesTrophy,トロフィー,Trophy
 header.jointFesRanking,ランキング,Ranking
 header.fesTowerPanelUnit,パネルユニット編成,Organize Panel Unit
@@ -2205,7 +2205,7 @@ jointFes.ready.title,マッチライブ詳細,Match Live Details
 jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,
 jointFes.ready.unitEmptyPop.title,確認,Confirm
 jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,
-jointFes.seasonChange.title,マッチライブ更新,
+jointFes.seasonChange.title,マッチライブ更新,Match Live Update
 jointFes.seasonChange.commonMessage,マッチライブのシーズンが切り替わりました\nイベントポイントやミッション・ショップなどがリセットされます,
 jointFes.seasonChange.titleMessage,前シーズンのランキング報酬として以下を獲得しました,
 jointFes.seasonChange.titleCategories.joint_fes_group_ranking,・総合ランキング称号ｘ1,
@@ -2216,7 +2216,7 @@ jointFesConcert.scoreInfo.rival,＜ライバル＞,＜Rival＞
 jointFesConcert.scoreInfo.term,第%{termNumber}ターム,
 jointFesConcert.scoreInfo.termLastScore,第%{termNumber}ターム最終スコア,
 jointFesConcert.scoreInfo.result,最終結果,Final Results
-jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,
+jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,No active Skills
 jointFesConcert.scoreInfo.tapToScrollMessage,▲タームをタッチで該当のタームまでスクロールします▲,
 jointFesConcert.scoreDetailLabel.appealPoint,アピール値変換後ポイント,
 jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,Stage Level
@@ -2234,11 +2234,11 @@ jointFesConcert.bonusScoreLabel.fightSkillNormal,ファイトスキル発動（n
 jointFesConcert.bonusScoreLabel.fightSkillGood,ファイトスキル発動（good）×%{count},Fight Skill Activation（good）×%{count}
 jointFesConcert.bonusScoreLabel.fightSkillPerfect,ファイトスキル発動（perfect）×%{count},Fight Skill Activation（perfect）×%{count}
 jointFesConcert.bonusScoreLabel.majorityWin,全体勝利,Overall Victory
-jointFesConcert.bonusScoreLabel.allTermWin,全勝ボーナス,
+jointFesConcert.bonusScoreLabel.allTermWin,全勝ボーナス,Complete Victory Bonus
 jointFesConcert.bonusScoreLabel.bonusTotalPoint,ボーナスポイント合計,Total Bonus Points
 musicSelect.playMvDialog.title,MV再生,Play MV
 musicSelect.playMvDialog.message,再生するMVを選択してください,
-musicSelect.mvSettingDialog.title,詳細設定,
+musicSelect.mvSettingDialog.title,詳細設定,Detailed Settings
 musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,
 musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,
 photoMotionDialog.title,ポーズ指定,
@@ -2254,15 +2254,15 @@ produceReady.produceAreaAttension.title,注意事項,
 shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,Train Pt
 shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,Match Live Pt
 shop.purchaseResult.expansionMessage,%{item}の所持上限を解放しました,
-shop.smallTabTitles.premium.beginners,新人P向け,
-shop.monthlyPassport.price,%{price}円,
-shop.monthlyPassport.dailyRewardPop.title,ログイン報酬,
+shop.smallTabTitles.premium.beginners,新人P向け,For New P
+shop.monthlyPassport.price,%{price}円,%{price} yen
+shop.monthlyPassport.dailyRewardPop.title,ログイン報酬,Login Rewards
 shop.monthlyPassport.dailyRewardPop.count,%{count}回目,
-shop.monthlyPassport.dailyRewardPop.rewardJewelName,無償フェザージュエル,
-stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,
+shop.monthlyPassport.dailyRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewels
+stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,S.T.E.P.編のコミュ解放
 stepCommunicationReleaseDialog.message,新たなS.T.E.P.編のコミュが解放されました！,
 stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,
-workActivityTalkAndCommu.categories.notCleared,未CLEAR,
+workActivityTalkAndCommu.categories.notCleared,未CLEAR,Not Cleared
 producerDesk.costume.costumeName,%{costumeName}の衣装,
 producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,
 producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。

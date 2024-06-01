@@ -1,0 +1,95 @@
+id,name,text,trans
+3025010020010,にちか,み、美琴さん…………,M-Mikoto-san............
+3025010020020,美琴,…………ん……,............
+3025010020030,にちか,"……っ
+あの、小さいので気を付け──────","......
+It's really small, so please be careful──────"
+3025010020040,美琴,……あ,......ah.
+3025010020050,にちか,──────あっ……,──────ah......
+3025010020060,にちか,このあたり、はじめて来ました,It's my first time around here.
+3025010020070,美琴,……そうなんだ,...Is that so?
+3025010020080,にちか,"はい……！　今日のスタジオも綺麗だったし
+街の感じもなんか……","Yes...! Today's studio was beautiful,
+and the streets here also feel the same..."
+3025010020090,美琴,そうだね,Right.
+3025010020100,美琴,"このあたり、開発されて
+新しいお店もたくさんできているみたい","This area is being developed, so it looks like many new
+shops are popping up."
+3025010020110,にちか,"あっ、ですよね……！
+おしゃれなカフェとかたくさんあるし……","Ah, I see...!
+There are lots of stylish cafes..."
+3025010020120,にちか,……────,......────
+3025010020130,美琴,どうしたの？,What's wrong?
+3025010020140,にちか,"あ、いえ……！
+コーヒーのいい香りがするなって……","Oh, nothing...!
+I just thought the coffee smells good..."
+3025010020150,美琴,…………,............
+3025010020160,美琴,……本当だね,...That's true.
+3025010020170,にちか,"はい
+え、えっと──……","Yes.
+U-Um..."
+3025010020180,美琴,…………行ってみる？,......Wanna check it out?
+3025010020190,にちか,え……！,Eh...!
+3025010020200,美琴,何か飲んでいきたいのかなって,I was just wondering if you wanted to get a drink.
+3025010020210,にちか,"いえ……！
+大丈夫です！","It's okay...!
+We don't have to!"
+3025010020220,美琴,そうなの？,Are you sure?
+3025010020230,にちか,えっ……あの美琴さん、飲まれませんよね…………！,"Eh... Well, I don't want to make you get a drink as well,
+so...!"
+3025010020240,美琴,…………,............
+3025010020250,美琴,"……ううん
+行ってみようかな","...That's fine.
+Let's check it out."
+3025010020260,にちか,…………！,............!
+3025010020270,にちか,はい……！,Yes......!
+0000000000000,カフェの店員,"──いらっしゃいませ
+店内でお召し上がりですか？","──Welcome.
+Would you like it for here or to go? "
+3025010020280,にちか,"あ、えっと……
+テイクアウトでお願いしますー……","Ah, um...
+To go please..."
+3025010020290,美琴,…………,............
+3025010020300,にちか,美琴さん、何にされます？,"Mikoto-san, what would you like to order?"
+3025010020310,美琴,……ここ…………,......This place............
+3025010020320,にちか,あ、ココアにします？,"Ah, the one on the display?"
+3025010020330,美琴,……カフェラテの──……,......cafe latte──......
+3025010020340,にちか,"え、えっと
+カフェラテ……にしますか……？","O-Oh, you mean... the cafe latte...?"
+3025010020350,美琴,────……,────......
+3025010020360,ルカ,"……すいません
+おすすめってなんですか？","...Excuse me.
+What would you recommend? "
+0000000000000,カフェの店員,そうですね……,Let's see...
+0000000000000,カフェの店員,"優しくてまろやかな味わいなので
+カフェラテから始めてみるのはいかがでしょう","How about we start with something light and mellow,
+a cafe latte?"
+3025010020361,美琴＆ルカ,…………,............
+3025010020370,ルカ,じゃ……、それふたつで,Well then... Two of those.
+0000000000000,カフェの店員,"ありがとうございます！
+よかったら次にまたおすすめさせてくださいね","Thank you very much!
+If you like it, feel free to ask for recommendations
+again next time."
+3025010020380,にちか,"あの、美琴さん……
+大丈夫ですか……？","Um, Mikoto-san...
+Are you alright...?"
+3025010020390,美琴,"……うん
+ごめんね、少し……迷っちゃって","...Yeah.
+Sorry, I'm a little... lost."
+3025010020400,にちか,"い、いえ……！
+全然！　すみません、急かしちゃって","N-No worries...!
+I'm sorry for rushing you!"
+3025010020410,にちか,"それでえっと……
+カフェラテにされますか？","Would you like, um...
+A latte, then?"
+3025010020420,美琴,…………,............
+3025010020430,美琴,"……ううん
+カフェラテじゃないのがいいな","...No.
+It doesn't have to be a latte."
+3025010020440,美琴,"今日は、次のをおすすめして
+もらわないとだから",I want to ask for another recommendation today.
+3025010020450,にちか,……？,......?
+3025010020460,美琴,ねぇ、何かおすすめはある？,"So, what do you recommend?"
+3025010020470,美琴,──にちかちゃん,──Nichika-chan.
+info,produce_events/302501002.json,
+Translator,,
