@@ -11,7 +11,7 @@ images/ui/concert/parts.json_image,concert_parts.png,25
 images/ui/gasha/parts.json_image,gasha_parts.png,30
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
-images/ui/idol_list/parts.json_image,idol_list_parts.png,23
+images/ui/idol_list/parts.json_image,idol_list_parts.png,24
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,20
 images/ui/produce_common/parts_header.json_image,parts_header.png,16
 images/ui/produce_event/parts_event.json_image,parts_event.png,15
@@ -735,7 +735,7 @@ images/content/produce_place_categories/place_name/00005.png,produce_place_categ
 images/content/produce_place_categories/place_name_mask/00005.png,produce_place_categories_place_name_mask_00005.png,1
 images/content/produce_place_categories/place_name/00006.png,produce_place_categories_place_name_00006.png,1 
 images/content/produce_place_categories/place_name_mask/00006.png,produce_place_categories_place_name_mask_00006.png,1
-images/ui/produce_deck/parts_deck_know_how.json_image,produce_deck_parts_deck_know_how.png,2
+images/ui/produce_deck/parts_deck_know_how.json_image,produce_deck_parts_deck_know_how.png,3
 images/ui/produce_events/parts.json_image,produce_events_parts.png,1
 images/ui/trophy/trophy_pop_base.png,trophy_pop_base.png,1
 images/ui/common/parts_banner_list.json_image,common_parts_banner_list.png,1
