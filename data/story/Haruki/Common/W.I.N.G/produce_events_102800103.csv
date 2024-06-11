@@ -1,23 +1,20 @@
 id,name,text,trans
 1028001030010,はるき,"えっと……！
 わたしからもいいですか……！","Uhm...!
-I want to come along too...!"
+May I say something as well...?"
 0000000000000,スタッフ,"ん、何々？
-はるきちゃん","Hrm, what is it, Haruki?"
+はるきちゃん","Hrm, what is it, Haruki-chan?"
 1028001030020,はるき,"先ほどいただいたお便りを
-チェックしてたんですけど──","I received a note earlier
-and decided to check it."
+チェックしてたんですけど──",I was checking the letters we received earlier and──
 0000000000000,プロデューサー,…………,......
 0000000000000,ディレクター,"はるきちゃんって不思議な子だよねー
-大人に混じっても自然と溶け込んでるし──","Haruki's a strange girl.
+大人に混じっても自然と溶け込んでるし──","Haruki's a peculiar girl.
 Even with adults, she blends in quite well."
 0000000000000,ディレクター,"ふわふわしてそうなのに
-しっかり意見を言ってくれるし、周りもよく見てるし","She seems very fluffy, but isn't so.
-She's very observant and knows how to express her 
-opinions."
+しっかり意見を言ってくれるし、周りもよく見てるし","Even though she seems soft, she's very observant 
+and knows how to express her opinions."
 0000000000000,プロデューサー,"はは……そう言って
-いただけると嬉しいです","Haha, you can say that.
-I'm glad you said so."
+いただけると嬉しいです","Haha, I'm glad to hear that."
 0000000000000,プロデューサー,（確かに、安心感あるよな────……）,(It sure is a relief────...)
 0000000000000,プロデューサー,"（しまった、遅くなってしまったな……
 オーディション、ひとりで大丈夫だろうか）","(Shoot, I'm late...
@@ -45,7 +42,7 @@ I just couldn't stand the atmosphere..."
 1028001030060,はるき,ちゃんと、時間前には戻りますから,"I'll be back in time, promise."
 0000000000000,プロデューサー,"ああ……本当に大丈夫か？
 無理はしなくていいからな","Ah... Are you really okay?
-You don't have to do this."
+You don't have to force yourself."
 1028001030070,はるき,──────……,──...
 1028001030080,はるき,"プロデューサーさん
 わたし、このままアイドル目指してもいいんでしょうか","Producer-san...
@@ -66,19 +63,20 @@ school or have been modelling for a very long time."
 been wanting to express and create something."
 1028001030130,はるき,"だからいろんなことをやってきたんですけど
 どれも中途半端で","That's why I have been doing a lot of things.
-But all feel like they've been done half-heartedly."
+However, it's as if my heart isn't quite there for 
+any of them."
 1028001030140,はるき,"アイドルにすごくなりたかった、
 アイドルがすごく好きだったわけではないのに──……","I really wanted to be an idol,
 even though I don't like idols that much..."
 1028001030150,はるき,そんな自分が、ここに立っていいのかなって…………,I wonder if it's okay for me to be standing here...
 0000000000000,プロデューサー,"同じオーディションの場所に
-立つ資格があるかどうかという点では──","Whether you're qualified to stand at the
-same location of the audition or not..."
-0000000000000,プロデューサー,はるきにはあるよ,"You have it in you, Haruki."
+立つ資格があるかどうかという点では──","If you're asking whether you're qualified to stand 
+next to the other candidates──"
+0000000000000,プロデューサー,はるきにはあるよ,"You are qualified, Haruki."
 0000000000000,プロデューサー,"今日アイドルになりたいと思った人にも
-子どもの時から努力してきた人同様に、チャンスはある","Even those who want to become an idol today,
-have as much as a chance as those who worked
-hard since they were children."
+子どもの時から努力してきた人同様に、チャンスはある","Those who want to become an idol today, have as 
+much as a chance as those who have been aiming for 
+it since they were children."
 1028001030160,はるき,…………,......
 0000000000000,プロデューサー,"それに、はるきはもう
 アイドルが好きだと思うぞ","Besides, I think you already like being an idol, Haruki."
@@ -86,8 +84,7 @@ hard since they were children."
 いろんなこと感じ、考えてくれてるんだから","You're thinking and feeling a lot of things,
 like what it means to be an idol now."
 0000000000000,プロデューサー,"もう、アイドルは『好き』で────
-なんなら『向いてる』と思うよ","If you 'like' idols now────
-I think you're suitable for it."
+なんなら『向いてる』と思うよ",I think you're already facing it properly.
 1028001030170,はるき,…………,......
 select,,"今は自分のことだけ
 考えないか","Don't think too
@@ -97,16 +94,17 @@ select,,"それに努力なら
 an effort, you
 haven't lost yet."
 select,,……違うか？,... Am I wrong?
-0000000000000,プロデューサー,今日は、『自分を見てもらう日』だからさ,Today is the day where you 'get to see yourself'.
+0000000000000,プロデューサー,今日は、『自分を見てもらう日』だからさ,"Today is the day where you ""let yourself be seen""."
 1028001030180,はるき,"ふふっ……
 確かに、そうですねぇ……","Fufu...
 You're right..."
 1028001030190,はるき,"見てもらうには……こんな弱気じゃ
 ダメですよね","If I want people to see me, I have to show some 
-weakness. Else that's no good, right?"
+weakness. I can't show others how weak I am..."
 0000000000000,プロデューサー,"はるきの場合、
-弱気というかたくさん考えてるってことだと思うな","In your case, Haruki,
-it means you think a lot and doubt yourself."
+弱気というかたくさん考えてるってことだと思うな","In your case, I don't think that's a weakness. 
+It just means that you give everything a lot of 
+thought."
 0000000000000,プロデューサー,そこがはるきのいいところでもあるよ,"That's one of your qualities, Haruki."
 1028001030200,はるき,わたしの、いいところ……,My... qualities...
 1028001030210,はるき,"ありがとうございます、プロデューサーさん……！
@@ -121,10 +119,10 @@ happy and lively."
 1028001030240,はるき,"プロデューサーさんが言うなら
 そうなのかな……！","If you say so then, I guess...!"
 1028001030250,はるき,"…………そうですね、向いてるかは
-わからないですけど──","... Though I don't know if I'm the right person
-for this..."
-1028001030260,はるき,確かに、もう『好き』かもしれません,"Sure, I might 'like' it already."
-0000000000000,プロデューサー,ああ……,Aah...
+わからないですけど──","... I see. I'm not sure if I'm facing it properly yet, 
+but──"
+1028001030260,はるき,確かに、もう『好き』かもしれません,"It's true that, I might ""like"" it already."
+0000000000000,プロデューサー,ああ……,Yeah...
 0000000000000,プロデューサー,"じゃないと、あんなにレッスンも取り組めないし
 こんなふうに真剣に考えないと思うんだ","I don't think you would've worked on your lessons this
 seriously if you didn't."

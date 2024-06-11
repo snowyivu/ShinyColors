@@ -3,8 +3,8 @@ id,name,text,trans
 5028001000210010,はるき,ふふ～。ありがとうございます,Fufu～. Thank you very much.
 5028001000210020,はるき,"ステージの上では
 あれしなきゃ、これしなきゃって考えを全部忘れて──","When I was on stage, I forgot
-any thoughts of ""do this"" and ""do that""──"
-5028001000210030,はるき,思いっ切り楽しめました……！,I had so much fun...!
+any thoughts of ""do this"" or ""do that""──"
+5028001000210030,はるき,思いっ切り楽しめました……！,I just had so much fun...!
 5028001000210040,はるき,オーディションだってことまで忘れてました,I even forgot it was just an audition.
 0000000000000000,プロデューサー,"うん、見ていても
 すごく生き生きしているのが伝わってきたよ","Yeah, I was watching.
@@ -12,9 +12,10 @@ I could see you were very lively."
 5028001000210050,はるき,"ふふっ……。ステージってすごい……
 わたし、パワーをいっぱいもらえました","Fufu... Being on stage sure is amazing.
 I got so much power from it."
-5028001000210060,はるき,これからも、もっともっといいステージにしたい……,"From now on, I want to make it even better..."
+5028001000210060,はるき,これからも、もっともっといいステージにしたい……,"From now on, I want to make my performance
+even better..."
 5028001000210070,はるき,"────そのためにも、もっとレッスンしたいです
-プロデューサーさん！","For that reason, I would like to have even 
+プロデューサーさん！","────Therefore, I would like to have even 
 more lessons, Producer-san!"
 info,produce_communication_auditions/502800100021.json,
 Translator,Burbur,

@@ -3,8 +3,8 @@ id,name,text,trans
 お疲れ様です……！","Producer-san,
 good work...!"
 1028001020020,はるき,"えへへ、見られてると思うと
-ちょっと緊張しました……！","Ehehe, when I thought they were watching me,
-I was a little bit nervous...!"
+ちょっと緊張しました……！","Ehehe, I get a bit nervous knowing you're 
+watching me...!"
 0000000000000,プロデューサー,"はは、これからステージに立ったら
 たくさんの人に見られるんだぞ？","Haha, a lot of people are going to see you
 when you go on stage, you know?"
@@ -28,24 +28,23 @@ club activities already."
 そうなのか──","...!
 I see..."
 0000000000000,プロデューサー,"へえ、長野出身か……
-高校からこっちに出てきてるんだな","Huh, so you're from Nagano...
+高校からこっちに出てきてるんだな","Huh, so you've moved here from Nagano...
 So you've been coming here since high school."
 1028001020070,はるき,"はい
 いろんなことを吸収したくて……！","Yes. 
 I wanted to try a lot of things...!"
 1028001020080,はるき,"とはいえ、いろいろかじっては
-どれもまだまだなんですけど……","However, I've been trying a lot of different things.
-I'm not quite there yet..."
+どれもまだまだなんですけど……","However, despite doing so, I haven't gotten far with 
+any of them..."
 0000000000000,プロデューサー,"──じゃあ、アイドルの方には
-興味があったわけじゃないのかな？","──So when it came to idols,
-it wasn't that you weren't interested?"
+興味があったわけじゃないのかな？","Then, you weren't particularly interested in idols?"
 1028001020090,はるき,は、はい,R-Right.
 1028001020100,はるき,"興味がないというより、
 その発想がなかったというか……","It's not that I wasn't interested,
 it was more that I didn't know of it..."
 1028001020110,はるき,"でも、先日イベントライブの後
-プロデューサーさんからアイドル勧められて──","But since the day of the event live, 
-I was scouted by you, Producer-san."
+プロデューサーさんからアイドル勧められて──","But ever since I was scouted by you at the event 
+concert the other day──"
 1028001020120,はるき,『じゃあ、アイドルやろう！』って思ったんです,"I thought ""Let's become an Idol!"""
 1028001020130,はるき,"……えっと、ごめんなさい
 こんな思いつきみたいな──","... Uhm, sorry.
@@ -57,13 +56,13 @@ I will do my absolute best."
 0000000000000,プロデューサー,あぁ、すまん──,"Ah, sorry."
 0000000000000,プロデューサー,"面接で言った通り、本当にこっちに
 打ちこんでくれてるなぁって思ってな","As I said during the interview,
-I thought you were really into it."
+I think you're seriously committed to this."
 0000000000000,プロデューサー,ありがとうな、はるき,"Thank you, Haruki."
 1028001020160,はるき,えぇ、そんな……！,"Eh, no way...!"
 1028001020170,はるき,"──わたしも、アイドルのこと
-興味がなかったなんて……ごめんなさい","──I can't believe I wasn't interested in idols...
-I'm so sorry."
-1028001020180,はるき,すごく努力しないといけない世界なのに……,It's a world where you have to work really hard...
+興味がなかったなんて……ごめんなさい",I'm so sorry... for not being interested in idols before.
+1028001020180,はるき,すごく努力しないといけない世界なのに……,"I know it's a world where you have to work 
+really hard..."
 select,,好きになれるといいな,"I hope that
 you'll like it."
 select,,"興味がないからこそ
@@ -91,14 +90,14 @@ I'm glad to hear that."
 1028001020240,はるき,……そっかぁ、まっさら……,"... I see, a pure heart..."
 1028001020250,はるき,どんなふうになるでしょうねぇ,I wonder what it'll be like.
 0000000000000,プロデューサー,"はるきが興味を持って、
-楽しくアイドルをやっていけるように──","You seemed to have become interested, Haruki.
-I hope you can enjoy being an idol."
+楽しくアイドルをやっていけるように──","──So that you who has become interested in being 
+an idol can have fun doing it..."
 0000000000000,プロデューサー,俺が、しっかりしないとな,I'll have to be reliable.
 1028001020260,はるき,…………,......
 1028001020270,はるき,"ふふっ
 じゃあ──","Fufu.
 Well then──"
 1028001020280,はるき,"これから、いろいろなこと
-教えてくださいね","From now, please tell me about many things."
+教えてくださいね","From now, please show me many things from now on."
 info,produce_events/102800102.json,
 Translator,Burbur,

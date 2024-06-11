@@ -276,7 +276,7 @@ errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました�
 errorDialog.sdkLoginLoadFailed,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n
 errorDialog.sdkLoginLoadFailedIOS10,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n
 errorDialog.sdkLoginLoadFailedApp,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n
-errorDialog.staminaLimitOver,スタミナが500を超える為、\nアイテムを使用できませんでした。\n営業やプロデュースでスタミナを消費してください。,Item could not be used\r\n since Stamina exceeds 500.\r\n Please spend Stamina in Jobs or Production. 
+errorDialog.staminaLimitOver,スタミナが500を超える為、\nアイテムを使用できませんでした。\n営業やプロデュースでスタミナを消費してください。,Item could not be used\r\n since Stamina exceeds 500.\r\n Please spend Stamina in Jobs or Production.
 errorDialog.unsubscribedApp,退会済みのアカウントが検出されました。\nアプリケーションの再インストールをお試しください。,退会済みのアカウントが検出されました。\nアプリケーションの再インストールをお試しください。
 errorDialog.unsubscribed,退会済みのアカウントが検出されました。\nタイトルへ戻ります。\n何度も発生する場合は\nクッキーの削除をお試しください。,退会済みのアカウントが検出されました。\nタイトルへ戻ります。\n何度も発生する場合は\nクッキーの削除をお試しください。
 errorDialog.accountFreezeShort,調査の為、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。,調査の為、一時的にご利用を制限しております。\n対応が完了次第制限解除いたしますので\nしばらくお待ち下さい。\nお客様にはご迷惑をお掛けいたしますが\nご協力をお願いいたします。
@@ -1188,7 +1188,7 @@ errorDialog.expiredProduceItem,アイテムの使用期限が終了したため\
 errorDialog.shopClosedTitle,購入期間外,Shop Closed
 extraCampaign.application.announceTime,yyyy/mm/dd HH:MM,yyyy/mm/dd HH:MM
 extraCampaign.application.announceTimeLabel,当選発表,Selection Results
-extraCampaign.application.applicationAgreementDialog.body.heading,「アイドルマスター シャイニーカラーズ」\rリアルステージイベント『283プロダクション プロデューサー感謝祭』\rステージ観覧応募について,"About the ""iDOLM@STER: Shiny Colors"" Real Stage Event ""283 Productions Thank You Festival"" Viewing Application"
+extraCampaign.application.applicationAgreementDialog.body.heading,「アイドルマスター シャイニーカラーズ」\rリアルステージイベント『283プロダクション プロデューサー感謝祭』\rステージ観覧応募について,"About ""THE IDOLM@STER Shiny Colors"" Real Stage Event ""283 Production Thanksgiving Festival"" Viewing Application"
 extraCampaign.application.applicationAgreementDialog.body.inquiry.descriptions.after,なお、抽選結果に関する個別のお問い合わせにはお答えしかねます。,なお、抽選結果に関する個別のお問い合わせにはお答えしかねます。
 extraCampaign.application.applicationAgreementDialog.body.inquiry.descriptions.before,下記よりお問い合わせください。,下記よりお問い合わせください。
 extraCampaign.application.applicationAgreementDialog.body.inquiry.title,お問い合わせ,Inquiry
@@ -1662,14 +1662,14 @@ characterAlbum.idolEffectPop.message,再生する演出を選んでください,
 common.reserveNum,控室%{reserveNum},控室%{reserveNum}
 deck.deckNameEdit.defaultName,ユニット%{deckNumber},Unit %{deckNumber}
 deck.deckNameEdit.dialog.title,ユニット名変更,Edit Unit Name
-deck.deckNameEdit.dialog.description,ユニット%{deckNumber}の名前を変更できます,ユニット%{deckNumber}の名前を変更できます
-deck.deckNameEdit.complete.title,ユニット名変更完了,ユニット名変更完了
-deck.deckNameEdit.complete.message,ユニット名を変更しました,ユニット名を変更しました
-deck.deckNameEdit.error.ngWord,禁止ワードが含まれています,禁止ワードが含まれています
-deck.deckNameEdit.error.wordLength,入力文字数が不正です,入力文字数が不正です
+deck.deckNameEdit.dialog.description,ユニット%{deckNumber}の名前を変更できます,Unit %{deckNumber}'s name can be renamed.
+deck.deckNameEdit.complete.title,ユニット名変更完了,Unit Name Renamed
+deck.deckNameEdit.complete.message,ユニット名を変更しました,The Unit Name has been renamed.
+deck.deckNameEdit.error.ngWord,禁止ワードが含まれています,Contains prohibited words
+deck.deckNameEdit.error.wordLength,入力文字数が不正です,Invalid Number of Characters
 deck.deckCopy.confirm.title,ユニットコピー確認,Confirm Copy Unit
 deck.deckCopy.complete.title,ユニットコピー完了,Copying Unit Complete
-deck.deckCopy.complete.message,ユニット情報をコピーしました,ユニット情報をコピーしました
+deck.deckCopy.complete.message,ユニット情報をコピーしました,Unit Info has been copied.
 deck.title.deckCopy,ユニットコピー,Copy Unit
 deck.title.deckMove,ユニット切り替え,ユニット切り替え
 groupedExpireAlert.title,アイテム有効期限確認,アイテム有効期限確認
@@ -2216,7 +2216,7 @@ jointFesConcert.scoreInfo.rival,＜ライバル＞,＜Rival＞
 jointFesConcert.scoreInfo.term,第%{termNumber}ターム,
 jointFesConcert.scoreInfo.termLastScore,第%{termNumber}ターム最終スコア,
 jointFesConcert.scoreInfo.result,最終結果,Final Results
-jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,No active Skills
+jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,No Active Skills
 jointFesConcert.scoreInfo.tapToScrollMessage,▲タームをタッチで該当のタームまでスクロールします▲,
 jointFesConcert.scoreDetailLabel.appealPoint,アピール値変換後ポイント,
 jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,Stage Level
@@ -2237,7 +2237,7 @@ jointFesConcert.bonusScoreLabel.majorityWin,全体勝利,Overall Victory
 jointFesConcert.bonusScoreLabel.allTermWin,全勝ボーナス,Complete Victory Bonus
 jointFesConcert.bonusScoreLabel.bonusTotalPoint,ボーナスポイント合計,Total Bonus Points
 musicSelect.playMvDialog.title,MV再生,Play MV
-musicSelect.playMvDialog.message,再生するMVを選択してください,
+musicSelect.playMvDialog.message,再生するMVを選択してください,Select an MV to play
 musicSelect.mvSettingDialog.title,詳細設定,Detailed Settings
 musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,
 musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,

@@ -1,130 +1,157 @@
 id,name,text,trans
 0000000000000,プロデューサー,"──で、来週のロケの段取りはこんな感じだ
-ここまでで、わからないことはないか？","And for next week's plans I feel like the shooting location should be here, is there anything you don't understand?"
+ここまでで、わからないことはないか？","──For next week's plans, I feel like the shooting
+location should be here. Is there anything you don't
+understand?"
 2009004020010,果穂,"………………
 ……あっ、はい！　大丈夫ですっ","Huh... Yeah! Everything is fine. "
 0000000000000,プロデューサー,"ん……？　果穂、どうかしたのか？
-もしかして、具合が悪いとか……？",Hm? Is something the matter Kaho? Are you maybe feeling unwell?
+もしかして、具合が悪いとか……？","Hm? Is something the matter, Kaho?
+Are you maybe feeling unwell?"
 2009004020020,果穂,えっと、あの……,Well um...
 0000000000000,プロデューサー,"無理はしない方がいい
-今日はここまでにして、もう帰ろうか？",It's better not to overdo it. Do you want to end it here for today and head back home?
+今日はここまでにして、もう帰ろうか？","It's better not to overdo it. Do you want to end it
+here for today and head back home?"
 2009004020030,果穂,ちがうんです、その……,"No, it's just that..."
 2009004020040,果穂,……おなかが空いちゃったんですっ！,My stomach is hungry!
 2009004020050,果穂,"でも、なかなか言い出せなくて……
 ごめんなさい……",Sorry... But it wasn't very easy for me to say it...
 0000000000000,プロデューサー,あ……そうか、もうこんな時間か……,Ah I see... It does seem about that time...
 0000000000000,プロデューサー,"気づかなくてごめん
-そろそろ昼ごはんを食べようか","Sorry I didn't notice you were hungry before. Do you want to eat some lunch? "
+そろそろ昼ごはんを食べようか","Sorry I didn't notice you were hungry before. 
+Do you want to eat some lunch? "
 2009004020060,果穂,"わあ、いいんですかっ！？
-えへへ、どれにしようかな～",Wow! is that really fine!? Hehe what should I pick?
-0000000000000,プロデューサー,ああ……ファミレスはメニューが多いから悩むよなあ,Ah... I'm a bit worried because there is a lot to choose from this Diner Menu.
-2009004020070,果穂,はいっ！　あたし、いっつも悩んじゃいます,Yeah! it's always a bit worrying.
+えへへ、どれにしようかな～","Wow! is that really fine!?
+Ehehe, what should I pick～?"
+0000000000000,プロデューサー,ああ……ファミレスはメニューが多いから悩むよなあ,"Ah... I'm a bit worried because there is a lot to
+choose from this diner menu."
+2009004020070,果穂,はいっ！　あたし、いっつも悩んじゃいます,Yeah! It's always a bit worrying.
 2009004020080,果穂,"どれもスゴく美味しそうに見えます……
-おなかが空いてるからでしょうか？",Everything looks so delicious... Maybe it's because I'm so hungry?
-0000000000000,プロデューサー,ははっ。そうかもな,"Haha, Yeah maybe that's why."
+おなかが空いてるからでしょうか？","Everything looks so delicious...
+Maybe it's because I'm so hungry?"
+0000000000000,プロデューサー,ははっ。そうかもな,"Haha, yeah, maybe that's why."
 0000000000000,プロデューサー,"ゆっくりメニュー見て
-果穂が１番食べたいものを選べばいいよ","You slowly look at the Menu. Choose what Kaho would want to eat first. "
+果穂が１番食べたいものを選べばいいよ","You slowly look at the menu. 
+Choose what Kaho would want to eat first."
 2009004020090,果穂,"はいっ。じゃあ……えっとえっと、
-これ、かなぁ……あ、でも、これもこれもいいなぁ……",Yeah. Let me see... maybe this... but this looks good too...
+これ、かなぁ……あ、でも、これもこれもいいなぁ……","Yeah. Let me see... maybe this...
+but this looks good too..."
 2009004020100,果穂,"プロデューサーさんっ。この３つの中なら
-どれが１番いいと思いますか？"," Out of these three things producer, which one do you think I should pick? "
+どれが１番いいと思いますか？","Out of these three things, Producer-san, 
+which one do you think I should pick?"
 0000000000000,プロデューサー,ん？　そうだな……,Hm? Let me see...
 select,,カレーかな,Curry
 select,,ドリアは？,Doria
 select,,ハンバーグ、いいな,"Hamburger "
 0000000000000,プロデューサー,"あ、でもこれはちょっと……
-果穂には早いかもしれないな"," Hm, maybe this is a bit much... It might be too early for you Kaho. "
+果穂には早いかもしれないな","Hm, maybe this is a bit much...
+It might be too early for you, Kaho. "
 2009004020110,果穂,"あたしには早い……
-プロデューサーさん、それってどういうことですか？"," Too early for me... What are you saying producer? "
+プロデューサーさん、それってどういうことですか？","Too early for me... 
+What are you saying, Producer-san?"
 0000000000000,プロデューサー,"そうだな……
-大人の味、ってことかな","That's right... It's more of an adult taste.
-"
+大人の味、ってことかな","That's right... 
+It has more of an adult taste."
 2009004020120,果穂,"大人の味ですか！？
-あたし、大人のカレー、食べてみたいですっ！","Adult taste!? I want to eat curry like an adult! "
+あたし、大人のカレー、食べてみたいですっ！","Adult taste!? 
+I want to eat curry like an adult! "
 2009004020130,果穂,"わあっ！　あたし、給食のカレーが大好きなんですけど……
-このカレーも美味しそうです！",Wow! I love my school's curry but this curry looks really good too!
+このカレーも美味しそうです！","Wow! I love my school's curry...
+But this curry looks really good too!"
 2009004020140,果穂,"いただきますっ
-……っ！？","Thank you for the meal!
-"
-0000000000000,プロデューサー,（あ……もしかして……）,"(ah... maybe...) "
+……っ！？",Thank you for the meal...!?
+0000000000000,プロデューサー,（あ……もしかして……）,"(Ah... Maybe...) "
 2009004020150,果穂,"か……からいですー……
 し、舌がヒリヒリしますっ……",I-It's spicy... It's burning my tongue...
 2009004020160,果穂,"大人の味……やっぱり、あたしには無理でした……
-給食のと……全然ちがいます……",So this is an adult taste... I don't think it's for me... This is really different from my school lunch curry...
-0000000000000,プロデューサー,とりあえず水飲んで……," Just drink some water for now... "
+給食のと……全然ちがいます……","So this is an adult taste... I don't think it's for me...
+This is really different from my school lunch curry..."
+0000000000000,プロデューサー,とりあえず水飲んで……,Just drink some water for now...
 2009004020170,果穂,"はっはい……
-……ふうー",S-sure...
+……ふうー",S-Sure...
 0000000000000,プロデューサー,"果穂、俺が頼んだナポリタンと交換するか？
-まだ手をつけてないから……"," Kaho do you want switch meals with my Naporitan? I haven't touched it yet. 
-"
-2009004020180,果穂,え……でも……,But...
+まだ手をつけてないから……","Kaho, do you want switch meals with my Napolitan?
+I haven't touched it yet."
+2009004020180,果穂,え……でも……,Eh... But...
 0000000000000,プロデューサー,"いいよ、カレーも好きだから
-無理に食べる方がよくないだろ？","It's fine, I like curry also. You shouldn't force youself to eat it."
+無理に食べる方がよくないだろ？","It's fine, I also like curry.
+You shouldn't force yourself to eat it."
 2009004020190,果穂,"ありがとうございますっ……！
-あ、美味しい！","Thank you! Ah! It's really delicious!
-"
+あ、美味しい！","Thank you...!
+Ah! It's really delicious!"
 0000000000000,プロデューサー,"うん、良かった
-……お、カレーも美味いな","That's good. This curry is really tasty also. "
+……お、カレーも美味いな",That's good. This curry is also really tasty.
 2009004020200,果穂,"本当ですかっ！？　あたしにはあんなにからかったのに……
-やっぱり大人ってスゴいです！","Really!? Even after I said it was so spicy.. Adult tastes are really awesome after all!
-"
+やっぱり大人ってスゴいです！","Really!? Even after I said it was so spicy...
+Adult tastes are really awesome after all!"
 2009004020210,果穂,"はい、このドリア、チーズがいっぱいのってて……
-スゴく美味しそうですっ！　あたし、これにします！",Yeah ! I'll go with the Doria cause it's full with so much cheese. It looks so tasty! I'll go with it!
+スゴく美味しそうですっ！　あたし、これにします！","Yeah! I'll go with the doria cause it's full with so
+much cheese... It looks so tasty! I'll go with it!"
 0000000000000,プロデューサー,おお、グツグツしてるな……,Ah! It's boiling hot...
 2009004020220,果穂,"……はいっ。スゴく熱そうですっ……！
-ゆっくり食べます！",Yeah it looks really good and hot.! I'll try to eat it slowly!
+ゆっくり食べます！","...Yeah, it looks really good and hot...!
+I'll try to eat it slowly!"
 0000000000000,プロデューサー,そうだな、やけどしないように気を付けて,"Yeah try not to get burned while eating it. "
 2009004020230,果穂,"はいっ……
-ふうー……ふうー……",Yeah... Foo-Foo!
+ふうー……ふうー……",Yeah... Foo-Foo...
 2009004020240,果穂,"はむっ……
 あっ……あついれすっ……！",Ah! It's hot...!
 0000000000000,プロデューサー,"だ、大丈夫か！？　えーっと……
-そうだ。店員さんに取り皿を持ってきてもらおう","Are you ok!? Hm... I see. I'll have the waiter bring you another plate. "
-2009004020250,果穂,…………？,Hmm?
+そうだ。店員さんに取り皿を持ってきてもらおう","Are you okay!? Hm... I see.
+I'll have the waiter bring you another plate."
+2009004020250,果穂,…………？,Hmm...?
 0000000000000,プロデューサー,"皿にドリアをちょっとのせておくと、
-早く冷めるんだよ"," Put a little bit of the Doria on the plate and then try cooling it off. "
+早く冷めるんだよ","Put a little bit of the doria on the plate and then try
+cooling it off."
 2009004020260,果穂,"なるほど……そんなことすぐ思いつくなんて
-プロデューサーさんはやっぱりスゴいです！","I see now... To come up with something on the spot. You really are amazing producer!
-"
+プロデューサーさんはやっぱりスゴいです！","I see now... To come up with something on the spot. 
+You really are amazing, Producer-san!"
 2009004020270,果穂,"……ごちそうさまでしたっ！
-ドリア、スッゴく美味しかったです！",The meal was really good! The Doria was really delicious!
+ドリア、スッゴく美味しかったです！","The meal was really good! 
+The doria was really delicious!"
 0000000000000,プロデューサー,"おお、良かったな
-……そうだ、デザートは食べるか？",Oh that's good. So what do you want to eat for dessert?
+……そうだ、デザートは食べるか？","Oh that's good. 
+So what do you want to eat for dessert?"
 2009004020280,果穂,"えっ？
-いいんですか？",Eh? is that really fine?
+いいんですか？",Eh? Is that really fine?
 0000000000000,プロデューサー,"ああ
-美味そうなケーキやパフェがあるからな","Ah the cakes and parfait look delicious. "
+美味そうなケーキやパフェがあるからな","Ah, the cakes and parfait look delicious. "
 2009004020290,果穂,"プロデューサーさん……
-ありがとうございますっ！",Producer... Thank you so very much!
+ありがとうございますっ！",Producer-san... Thank you so very much!
 2009004020300,果穂,"あたしも美味しそうだなって思ってましたっ！
-これにしますっ！"," I think that looks really tasty also! I'll take it!"
+これにしますっ！",I think that looks really tasty also! I'll take it!
 2009004020310,果穂,"いただきますっ……
 わあっ……とっても美味しいですっ！",Thank you for the meal... Waa... It's very delicious!
 0000000000000,プロデューサー,"ははっそうか
-分厚くて食べ応えもありそうだな",Haha I can see that. It's really thick and filling.
+分厚くて食べ応えもありそうだな","Haha, I can see that.
+It's really thick and filling."
 2009004020320,果穂,"はいっ……
-…………",Yes...
-0000000000000,プロデューサー,あれ、どうかしたのか？,Huh? What's wrong Kaho?
+…………","Yes...
+........."
+0000000000000,プロデューサー,あれ、どうかしたのか？,"Huh? What's wrong, Kaho?"
 2009004020330,果穂,"あ……前に、お母さんのお手伝いで
-ハンバーグを作った時のこと思い出してましたっ",Ah... I just remembered when I would help my mother make hamburgers before.
+ハンバーグを作った時のこと思い出してましたっ","Ah... I just remembered when I would help my mother
+make hamburgers before."
 2009004020340,果穂,"お店のハンバーグって……
-どうしてこんなにきれいな形をしてるんでしょう？","This shop's hamburgers... Why are they shaped so pretty? "
-2009004020350,果穂,あたしが丸めた時は変な形になっちゃって……," But when I try to roll my hamburgers, they come out weirdly shaped... 
-"
+どうしてこんなにきれいな形をしてるんでしょう？","This shop's hamburgers...
+Why are they shaped so pretty?"
+2009004020350,果穂,あたしが丸めた時は変な形になっちゃって……,"But when I try to roll my hamburgers,
+they come out weirdly shaped..."
 0000000000000,プロデューサー,"そうか……
-味はどうだったんだ？"," I see... What about how it tastes? 
-"
+味はどうだったんだ？","I see... What about how it tastes? "
 2009004020360,果穂,"あ、美味しかったですっ。でも、形がやっぱり気になって
-……こんなふうに、きれいに作れたらいいのになぁ","Ah, it tasted really good. Even with it's weird shape. I wish I could make it as pretty like this. "
+……こんなふうに、きれいに作れたらいいのになぁ","Ah, it tasted really good. Even with its weird shape.
+...I wish I could make it as pretty like this."
 0000000000000,プロデューサー,"……これからもたくさんお手伝いしていけば
-きっと上手になれるさ","I'm sure if you continue to help your mom with making hamburgers, you will eventually become good at it. 
-"
+きっと上手になれるさ","I'm sure if you continue to help your mom with making
+hamburgers, you will eventually become good at it."
 0000000000000,プロデューサー,"何度も練習して上手になったこと
-果穂にはたくさんあるだろう？","There's a lot of things you've become good at after practicing many times, right?
-"
+果穂にはたくさんあるだろう？","There's a lot of things you've become good at after
+practicing many times, right?"
 2009004020370,果穂,"あ、そういえば……いっぱいありました！
-プロデューサーさん、ありがとうございますっ！",Ah there really are a lot! Thank you producer!
+プロデューサーさん、ありがとうございますっ！","Ah, there really are a lot...!
+Thank you, Producer-san!"
 2009004020380,果穂,"あたし、もっともっとお手伝いして
-上手にハンバーグ、作れるようになりますっ！","I'll keep helping to make hamburgers till I'm good at it! "
+上手にハンバーグ、作れるようになりますっ！",I'll keep helping to make hamburgers 'til I'm good at it!
 info,produce_events/200900402.json,
 Translator,W0ps,

@@ -1,5 +1,5 @@
 id,name,text,trans
-4028001000110010,はるき,心臓が……勝手にどきどきします,My heart is... pounding like crazy.
+4028001000110010,はるき,心臓が……勝手にどきどきします,My heart... is pounding like crazy.
 0000000000000000,プロデューサー,……緊張してるのか？,... Are you nervous?
 select,,"はるき！
 ハイタッチだ！","Haruki!
@@ -12,11 +12,11 @@ select,,頑張るんだぞ,Do your best.
 What is it～?"
 0000000000000000,プロデューサー,（よし、笑顔が戻ったな）,"(Nice, she's smiling again.)"
 4028001000110030,はるき,"あ……そ、そうですねぇ
-身体動かすといいのかなぁ……","Ah... T-that's right.
+身体動かすといいのかなぁ……","Ah... T-That's right.
 I should move my body a bit..."
 0000000000000000,プロデューサー,（ちょっとは気が逸れたかな）,(I guess I've distracted her a little.)
 4028001000110040,はるき,"そ、そうですよね
-みんな見てるんですから……","T-that's right.
+みんな見てるんですから……","T-That's right.
 Everybody's watching me..."
 0000000000000000,プロデューサー,（余計プレッシャーになったかな……）,(Did I put more pressure on her...)
 info,produce_communication_cheers/402800100011.json,
