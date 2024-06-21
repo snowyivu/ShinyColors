@@ -1,6 +1,6 @@
 text,trans,type
 サポートアイドルをトレーニングしよう,Train a Support Idol,text
-放課後クライマックスガールズ のメンバーを全員入れたデッキでフェスアイドルを誕生させよう,Create a Fes Idol using all After School Climax Girl members in a run,text
+放課後クライマックスガールズ のメンバーを全員入れたデッキでフェスアイドルを誕生させよう,Create a Fes Idol using all Hokago Climax Girls members in a run,text
 フェスをプレイしよう,Play Fes,text
 ブロンズトレーニングチケット,Bronze Training Ticket,text
 サポートアイドルのトレーニングに必要なチケットです,Ticket required for training Support Idols,text
@@ -95,6 +95,9 @@ G.R.A.D.に優勝しよう,Win the G.R.A.D. Championship,text
 市川雛菜,Hinana Ichikawa,name
 七草にちか,Nichika Nanakusa,name
 緋田美琴,Mikoto Aketa,name
+斑鳩ルカ,Luca Ikaruga,name
+鈴木羽那,Hana Suzuki,name
+郁田はるき,Haruki Ikuta,name
 櫻木 真乃,Mano Sakuragi,name
 風野 灯織,Hiori Kazano,name
 八宮 めぐる,Meguru Hachimiya,name
@@ -121,6 +124,8 @@ G.R.A.D.に優勝しよう,Win the G.R.A.D. Championship,text
 七草 にちか,Nichika Nanakusa,name
 緋田 美琴,Mikoto Aketa,name
 斑鳩 ルカ,Luca Ikaruga,name
+鈴木 羽那,Hana Suzuki,name
+郁田 はるき,Haruki Ikuta,name
 フェス,Fes,noun
 フェスリハーサル,Fes Rehearsal,noun
 グレードフェス,Grade Fes,noun
@@ -136,12 +141,13 @@ HARD,HARD,noun
 VERYHARD,VERYHARD,noun
 審査員,Judge,noun
 イルミネーションスターズ,Illumination Stars,noun
-放課後クライマックスガールズ,After School Climax Girls,noun
+放課後クライマックスガールズ,Hokago Climax Girls,noun
 アンティーカ,L'Antica,noun
-アルストロメリア,Alstromeria,noun
+アルストロメリア,Alstroemeria,noun
 ストレイライト,Straylight,noun
 ノクチル,Noctchill,noun
 シーズ,SHHis,noun
+コメティック,CoMETIK,noun
 完全掌握,Complete Control,noun
 フェスマスター,Fes Master,noun
 パーフェクトライブ,Perfect Live,noun
@@ -357,8 +363,9 @@ Fes Toursで$numSTAGEを突破する,Clear stage $1 in Fes Tours,exp
 ライブアイテムを$num個使用する,Use $1 Live Items,exp
 STAGE$numで登場するExtremeライブに勝利する,Clear the Stage $1 Extreme Live,exp
 Extremeライブに$num回勝利する,Clear $1 Extreme Lives,exp
-"灯織、摩美々、結華、霧子、凛世、甜花、愛依、小糸","Hiori,Mamimi,Yuika,Kiriko,Rinze,Tenka,Mei,Koito",noun
-"めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか","Meguru,Sakuya,Kaho,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika",noun
+"真乃、恋鐘、穂果、智代子、甘奈、あさひ、円香、美琴、羽那","Mano,Kogane,Kaho,Chiyoko,Amana,Asahi,Madoka,Mikoto,Hana",noun
+"灯織、摩美々、結華、霧子、凛世、甜花、愛依、小糸、","Hiori,Mamimi,Yuika,Kiriko,Rinze,Tenka,Mei,Koito,Luca",noun
+"めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか、","Meguru,Sakuya,Juri,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika,Haruki",noun
 "チーム","Team",noun
 "ピーちゃん","Pii-chan",noun
 "(真乃、霧子、甜花)","(Mano,Kiriko,Tenka)",noun
@@ -372,7 +379,6 @@ Extremeライブに$num回勝利する,Clear $1 Extreme Lives,exp
 "(結華、夏葉、千雪)","Yuika,Natsuha,Chiyuki",noun
 "ヘルメス","Hermes",noun
 "(めぐる、咲耶、樹里、冬優子)","(Meguru,Sakuya,Juri,Fuyuko)",noun
-"めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか","Meguru,Sakuya,Juri,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika",noun
 $nounのすべての基礎能力$num%,"$1 Base Stamina $2%",exp
 $noun$unknown$noun$noun$unknownの体力回復量を$num%上昇,$1$2$3$4$5 restore $6% more Stamina,exp
 $nounの体力回復量を$num%上昇,$1 restore $2% more Stamina,exp
