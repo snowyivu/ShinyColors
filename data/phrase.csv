@@ -331,7 +331,7 @@ fes.deck.memoryBonus,x%{value},x%{value}
 fes.ready.title,参加ユニット,Participants
 fes.ready.description,テンション決定後は前の画面には戻れません\nフェス参加権を%{consumedFesTicket}消費します,You can't go back after the Tension\r\nCheck. %{consumedFesTicket} Fes Entries will be used.
 fes.resumeDialog.title,フェス再開,Resume Fes
-fes.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,There is a Fes in progress。\r\nWould you like to resume？
+fes.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,There is a Fes in progress. \r\nWould you like to resume?
 fes.terminateDialog.title,フェス終了,End Fes
 fes.terminateDialog.text,進行中のフェスを終了します。,End the Fes in progress. 
 fes.terminateDialog.textWarning,フェス参加権は返却されません,Fes Entries will not be refunded. 
@@ -373,7 +373,7 @@ fes.result.scoreDetail.bonusValue,×%{value},×%{value}
 fes.result.scoreDetail.totalBonus,ボーナス合計,Bonus Total
 fes.result.scoreDetail.finalScore,総合スコア,Total Score
 fes.fesGradeEvaluationReward.title,報酬内容,Rewards
-fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,Items have been sent to the present box. 
+fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,Items have been sent to the Present Box.
 fes.fesGradeEvaluationReward.itemNameNum,%{type} ×%{num},%{type} ×%{num}
 fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,"Congratulations on reaching Grade Lv%{gradeId},\r\nDon't forget to grab your mission reward♪"
 fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,Your grade went up. \r\nNice job Producer♪
@@ -404,16 +404,16 @@ gameEvent.communicationsDialog.noticeMessage,コミュはイベントショッ�
 gameEvent.specialCommunicationsDialog.title,スペシャルコミュ,Special Commu
 gameEvent.specialCommunicationsDialog.unreleasedTitle,？？？？,????
 gameEvent.resumeSpecialCommunicationsDialog.title,シナリオ再生確認,Confirm Scenario Resume
-gameEvent.resumeSpecialCommunicationsDialog.message,進行中のシナリオがあります\r再開しますか？,There are scenarios in progress\r\nWould you like to resume?
+gameEvent.resumeSpecialCommunicationsDialog.message,進行中のシナリオがあります\r再開しますか？,There are scenarios in progress.\r\nWould you like to resume?
 gameEvent.boxGasha.acquiredItemRatio,%{acquiredItemCount}/%{originItemCount},%{acquiredItemCount}/%{originItemCount}
-gameEvent.boxGasha.noCheckItem,チェック中のアイテムは\rありません,There are no items being tracked
+gameEvent.boxGasha.noCheckItem,チェック中のアイテムは\rありません,There are no items being tracked.
 gameEvent.boxGasha.lastBox,最後のボックスです,Last Box
 gameEvent.boxGasha.completedComment,%{boxName}のアイテムは\rすべて引き終わりました\r次のボックスへ移動してください,All items from %{boxName}\r\nhave been received\r\nPlease move to next box. 
 gameEvent.boxGasha.checkItemDialog.title.change,ボックス詳細,Box Details
 gameEvent.boxGasha.checkItemDialog.title.confirm,チェック中のアイテム確認,Confirm Tracked Item
 gameEvent.boxGasha.checkItemDialog.text.change,チェック中のアイテムはイベントTOPで残り状況を確認できます,You can track items in this box at the top of the event
 gameEvent.boxGasha.checkItemDialog.text.lastChange,最後のボックスです。アイテム数は無制限となります,Final Box. Items are unlimited. 
-gameEvent.boxGasha.checkItemDialog.text.confirm,チェック中のアイテムが残っています。ボックス移動しますか？,There are still items left in this box。Move to the next box？
+gameEvent.boxGasha.checkItemDialog.text.confirm,チェック中のアイテムが残っています。ボックス移動しますか？,There are still items left in this box. Move to the next box?
 gameEvent.boxGasha.checkItemDialog.text.notAcquired,未獲得,Not Acquired
 gameEvent.boxGasha.nextBoxDialog.title,ボックス移動確認,Confirm Box Change
 gameEvent.boxGasha.nextBoxDialog.hasNoRemainingItemsText,次のボックスに移動します,Move to the Next Box
@@ -434,7 +434,7 @@ idolList.leaveEditModeDialog.tradeMoney,移籍,Transfer
 idolList.leaveEditModeDialog.tradeMemorialPiece,変換,Exchange
 gasha.closeAt,%{closeAt}まで,Until %{closeAt}
 gasha.redrawGashaNotice,確定するまで何度でも\n引き直すことができます,You can reroll infinitely\r\nuntil you confirm a roll. 
-gasha.resultMessage,既に加入済みのアイドルは控室に送られます。,Idols you already have will be sent to the waiting room.
+gasha.resultMessage,既に加入済みのアイドルは控室に送られます。,Idols you already have will be sent to the Waiting Room.
 gasha.tweetLayerMessage,ツイートしたいアイドルを選択してください,Please select the idol you wish to Tweet. 
 gasha.gashaText,%{quantity}回引く,%{quantity} pulls
 gasha.popTicketDesc,%{ticketName}を\r消費してガシャを%{quantity}回引きます。\rよろしいですか？,This will consume %{ticketName}\rand pull %{quantity} times.\rAre you sure?
@@ -1126,8 +1126,8 @@ shop.smallTabTitles.gameEvent.ticket,チケット交換,Ticket Exchange
 shop.smallTabTitles.idolPiece.rainbow,虹,Rainbow
 shop.smallTabTitles.idolPiece.gold,金,Gold
 shop.smallTabTitles.idolPiece.silver,銀,Silver
-shop.emptyNotice.purchase,購入できる商品がありません,Nothing available for purchase
-shop.emptyNotice.exchange,交換できる商品がありません,There are no items available
+shop.emptyNotice.purchase,購入できる商品がありません,Nothing available for purchase.
+shop.emptyNotice.exchange,交換できる商品がありません,There are no items available.
 shop.trade.tradeConfirmation.title,交換確認,Confirm Exchange
 shop.trade.tradeConfirmation.message,以下のアイテムと\r「%{title}」を交換しますか？,Do you want to trade\r\n「%{title}」for the below item？
 shop.trade.tradeConfirmation.shortageMessage,「%{title}」の\r交換に必要なアイテムが不足しています,Not enough items to exchange for\r「%{title}」
@@ -1331,7 +1331,7 @@ reporterEvent.answer.private,プライベートの様子,About Private Life
 reporterEvent.answer.rethink,考え直す,Let's Rethink
 reporterEvent.answer.work,仕事の様子,About Work
 reporterEvent.answerMail,密着取材の依頼だ\nどうしようか……,It's a request for an interview.\r\nWhat should I do...
-reporterEvent.badReporter,阿久井 徳次郎と申します──それじゃ、\n隅から隅まで取材させていただくんで、どうぞ宜しく,"I'm Tokujirou Akui,\r\nI'll be covering every aspect, best regards."
+reporterEvent.badReporter,阿久井 徳次郎と申します──それじゃ、\n隅から隅まで取材させていただくんで、どうぞ宜しく,"I'm Tokujiro Akui,\r\nI'll be covering every aspect, best regards."
 reporterEvent.declineInterview,やめておこう。\n残念だが今回は都合がつかないな────,Let's not do it.\r\nUnfortunately it's not convenient at this time-
 reporterEvent.eventDetailTitle.failure,悪徳記者取材中,Corrupt Reporter Interview
 reporterEvent.eventDetailTitle.success,敏腕記者取材中,Skilled Reporter Interview
@@ -1424,7 +1424,7 @@ gameEvent.presentEventSchedule.label.open,開催期間,Avail Time
 gameEvent.presentEventSchedule.label.receive,受取期間,Accept Time
 gameEvent.presentEventSchedule.schedule,%{closeAt}まで,Ends %{closeAt}
 gameEvent.presentEvent.givePresentDialog.text,自然回復の上限を超えて回復します,Recover about the regular limit
-gameEvent.presentEvent.releaseRewardCommuDialog.title,スペシャルコミュ解放,Special Commu Unlock
+gameEvent.presentEvent.releaseRewardCommuDialog.title,スペシャルコミュ解放,Special Commu Unlocked
 gameEvent.presentEvent.releaseRewardCommuDialog.text,【%{firstName}】からプレゼントがもらえる\nスペシャルコミュが解放されました,Receive a present from 【%{firstName}】\nA special commu will be unlocked
 gameEvent.presentEvent.spCommuPlayConfirmPop.title,スペシャルコミュ再生確認,Re-watch Special Commu
 gameEvent.presentEvent.spCommuPlayConfirmPop.rewardCommuTitle,【%{firstName}】からのプレゼントコミュ,%{firstName}'s Present Commu
@@ -1451,7 +1451,7 @@ item.evolutionNotice2,すでに1回以上特訓しているアイドルに使用
 item.evolutionNoticeLevel,すでにLv.2以上トレーニングしているアイドルに使用した場合\n余剰分のExpは消失します,"If used on an idol who is already Lv.2 or higher,\nthe excess Exp will be lost."
 item.commuReleaseItem.imageCharacterSelectTitle,対象アイドル選択,Select Idol
 item.commuReleaseItem.giveItemToCharacterConfirmation,%{characterName}に\n以下のアイテムを使用しますか？,Give this item to\n%{characterName}?
-item.commuReleaseItem.commuReleasedTitle,コミュ解放,Commu Unlock
+item.commuReleaseItem.commuReleasedTitle,コミュ解放,Commu Unlocked
 present.valentine.title,バレンタインプレゼント受け取り,Valentine Present Received
 present.valentine.message,%{firstName}から\nバレンタインプレゼントを受け取りました,Received a Valentine's gift from\n%{firstName}
 idolRoad.needsProduceEnd.title,アイドルロード進行不可,Can't Advance Idol Road
@@ -1846,14 +1846,14 @@ fesTower.livePanel.enduranceAlertPopTitle,体力警告,Stamina Alert
 fesTower.liveItemSelect.itemSlot,アイテム%{slotNum},Item %{slotNum}
 fesTower.liveItemSelect.staffComment,ライブアイテムは１種類につき１つセットできますよ～\nたくさんセットしてライブに挑みましょう♪,You can set only 1 item of the same type～\nLet's bring items to lives as much as possible♪
 fesTower.concertResult.enduranceDecreasePopTitle,体力減少,Stamina Decreased
-fesTower.concertPause.itemHeader,ライブアイテム効果,Item effects
-fesTower.concertPause.advantageHeader,アドバンテージ効果,Advantage effects
+fesTower.concertPause.itemHeader,ライブアイテム効果,Item Effects
+fesTower.concertPause.advantageHeader,アドバンテージ効果,Advantage Effects
 fesTower.concertPause.clearConditionDefault,2位以上で通過,Rank 2nd or 1st to clear
 fesTower.concertPause.stageLimitNone,ステージ制限がありません,No restrictions.
 fesTower.concertPause.retryLocked,該当のアドバンテージが\n解放されていません,You have not unlocked\nthis Advantage
 fesTower.tensionResultPop.tensionUp,テンションが上がりました,Tension increased
 fesTower.tensionResultPop.tensionDown,テンションが下がりました,Tension decreased
-fesTower.reset.resetContentType.item,アイテム,item
+fesTower.reset.resetContentType.item,アイテム,Items
 fesTower.reset.resetContentType.advantage,アドバンテージ,Advantage
 fesTower.reset.staffComment.top,Fes Toursポイントはここでしか使えませんよ～\nたくさん使って次回のFes Toursを有利に進めましょう♪,This is the only place to spend Fes Tours Points～\nUse them liberally and make your next Tour easier♪
 fesTower.reset.staffComment.list,%{resetContentTypeText}の解放やレベルアップをすると\n次回から有利になりますよ〜♪,Unlock or upgrade %{resetContentTypeText}s to\nbenefit your next tour〜♪
@@ -1926,29 +1926,29 @@ shop.idolUnpossessedText.other,アイドル未所持,Unowned Idol
 shop.smallTabTitles.gameEvent.coin,グレフェスコイン,Grade Fes Coins
 shop.smallTabTitles.idolPiece.idolEvolutionPiece,アイドルピース,Idol Pieces
 skillBord.enablePassiveSkillDeletionNotice.title,確認,Confirm
-skillBord.enablePassiveSkillDeletionNotice.notice,習得したパッシブスキルの削除が有効になりました,Deleting learned passive skills is now enabled
-skillBord.enablePassiveSkillDeletionNotice.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません
+skillBord.enablePassiveSkillDeletionNotice.notice,習得したパッシブスキルの削除が有効になりました,Deleting learned Passive Skills is now enabled.
+skillBord.enablePassiveSkillDeletionNotice.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,"Deleted Passive Skills cannot be relearned,\r\nand SP consumed will not be replenished."
 skillBord.deletePassiveSkillConfirmation.title,スキル削除確認,Confirm Skill Removal
 skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキルを削除しますか？,Would you like to remove this passive skill?
 skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,Deleted passive skills cannot be relearned and \r\nSP consumed in learning them will not be returned.
 characterSpecialCommunication.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
 characterSpecialCommunication.releaseConfirmationComment,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？
 characterSpecialCommunication.dayLimitTitle,エラー,Error
-characterSpecialCommunication.dayLimitComment,本日の解放上限に達しています,本日の解放上限に達しています
-characterSpecialCommunication.remainingPlayCount,本日の解放数： %{remaining}/%{max}回,本日の解放数： %{remaining}/%{max}回
-characterSpecialCommunication.schedule,開催期限 %{startAt}〜%{closeAt},開催期限 %{startAt}〜%{closeAt}
+characterSpecialCommunication.dayLimitComment,本日の解放上限に達しています,Today's unlocking limit has been reached.
+characterSpecialCommunication.remainingPlayCount,本日の解放数： %{remaining}/%{max}回,Unlocked for Today: %{remaining}/%{max}
+characterSpecialCommunication.schedule,開催期限 %{startAt}〜%{closeAt},Event Period
 specialCommunicationSituation.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
 specialCommunicationSituation.confirmationComment,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます
 tutorial.unitDescription.7,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。,"A spicy & girly dance-pop unit.\nThe music won't stop. So shut up and listen.\nLet the BPM of your heart race, to create an unstoppable melody.\nA 1000-carat story unfolds, for I (she) became me (she)."
 workActivityRewardPop.unitLevelRewardTitle,報酬受け取り,Received Reward
-workActivityRewardPop.commuTitle,コミュ解放,コミュ解放
+workActivityRewardPop.commuTitle,コミュ解放,Commu Unlocked
 workActivityRewardPop.talkCompleteRewardTitle,報酬受け取り,Received Reward
 workActivityRewardPop.unitLevelRewardText,営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました,営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました
 workActivityRewardPop.commuText,営業ユニットレベルが一定に達したため\n以下のコミュが解放されました,営業ユニットレベルが一定に達したため\n以下のコミュが解放されました
 workActivityRewardPop.talkCompleteRewardText,トークのコンプ数が一定に達したため\n以下の報酬を受け取りました,トークのコンプ数が一定に達したため\n以下の報酬を受け取りました
 workActivityResult.unitWorkActivityPointPop.title,ユニット営業ポイント確認,Unit Job Points Review
 workActivityTalkAndCommu.commuListPopTitle,営業ユニットコミュ,Unit Job Commu
-workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName,コンプ数\n%{num},コンプ数\n%{num}
+workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName,コンプ数\n%{num},Comp. No.:\n%{num}
 workActivityTalkAndCommu.talkCompleteRewardPopContent.title,コンプ報酬,Comp. Reward
 workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%{num},Unit \nLv.%{num}
 workActivityTalkAndCommu.unitLevelRewardPopContent.title,レベル報酬,Level Reward
@@ -2079,7 +2079,7 @@ producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には
 producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours are currently not ongoing
 producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal
 filter.categories.aptitude,適性,Aptitude
-filter.categories.costumePossession,衣装所持,
+filter.categories.costumePossession,衣装所持,Has Outfit
 filter.categories.costumeType,種類,Type
 filter.categories.clearStatus,CLEAR状況,CLEAR Status
 filter.categories.fightSkill,ファイトスキル,Fight Skill
@@ -2087,14 +2087,14 @@ filter.categories.voiceType,ボイス種別,Voice Type
 filter.categories.releaseCondition,解放状況,Release Condition
 filter.categories.jointFesArea,エリア,Area
 filter.categories.jointFesRewardFacilityItem,アイテム,Item
-filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,
+filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,Aptitudes above the checked A Rank will be narrowed down.
 filter.texts.possession,所持済み,Owned
 filter.texts.notPossessed,未所持,Unowned
-filter.texts.released,解放済み,
-filter.texts.unreleased,未解放,
-filter.texts.aptitudes.musicStyle,楽曲適性,
-filter.texts.aptitudes.performance,パフォーマンス適性,
-filter.texts.aptitudes.environment,環境適性,
+filter.texts.released,解放済み,Unlocked
+filter.texts.unreleased,未解放,Locked
+filter.texts.aptitudes.musicStyle,楽曲適性,Music Aptitude
+filter.texts.aptitudes.performance,パフォーマンス適性,Performance Aptitude
+filter.texts.aptitudes.environment,環境適性,Environment Aptitude
 filter.texts.costumeType.produceIdol,プロデュース\nアイドル衣装,Produce\nIdol
 filter.texts.costumeType.other,その他,Other
 filter.texts.mvIdol,MVあり,With MV
@@ -2114,19 +2114,19 @@ concert.judgeDetailDialog.interestingRatio,×%{value}倍,×%{value}
 concert.fightSkill.noFightSkillMessage,ファイトスキルがありません,No Fight Skills
 concert.skillChangeableCount,あと%{skillChangeableCount}回,
 autoConcertResult.unlockNotice,%{name}解放,
-possessionLimitDialog.title,所持上限オーバー,
-possessionLimitDialog.message,所持上限を超えているため\n移籍/売却をするか上限枠を解放してください,
+possessionLimitDialog.title,所持上限オーバー,Owned limit exceeded.
+possessionLimitDialog.message,所持上限を超えているため\n移籍/売却をするか上限枠を解放してください,Owned limit exceeded.\nPlease transfer/sell or increase the slot limit.
 possessionLimitExpansion.confirmTitle,解放確認,
-possessionLimitExpansion.confirmMessage.fesIdolUpperLimit,フェザージュエルを消費して\nフェスアイドルの所持上限を解放しますか？,
-possessionLimitExpansion.confirmMessage.knowHowBookUpperLimit,フェザージュエルを消費して\nノウハウブックの所持上限を解放しますか？,
+possessionLimitExpansion.confirmMessage.fesIdolUpperLimit,フェザージュエルを消費して\nフェスアイドルの所持上限を解放しますか？,Use Feather Jewels to\nunlock more Fes Idol slots?
+possessionLimitExpansion.confirmMessage.knowHowBookUpperLimit,フェザージュエルを消費して\nノウハウブックの所持上限を解放しますか？,Use Feather Jewels to\nunlock more Know-How Book slots?
 possessionLimitExpansion.jewelDetailMessage,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します
 deck.staminaRate,%{rate}倍,%{rate}x
 eventPoint.jointFes,マッチライブP,Match Live Pt
 eventPoint.training,育成P,Train Pt
-evolution.homeUnitMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMVが設定可能になりました,
-evolution.homeUnitFullMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMV(アナザーVer.)が設定可能になりました,
-evolution.fullMvRelease.comment,[%{musicName}]の\nMV(アナザーVer.)が解放されました,
-evolution.trustLimitUp.comment,[%{idolName}]の信頼度Lv.上限が%{limit}\nに上昇しました,
+evolution.homeUnitMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMVが設定可能になりました,You can now set the MV for\n[%{musicName}]\nin your Home Unit's MV Mode!
+evolution.homeUnitFullMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMV(アナザーVer.)が設定可能になりました,You can now set the MV (Another ver.) for\n[%{musicName}]\nin your Home Unit's MV Mode!
+evolution.fullMvRelease.comment,[%{musicName}]の\nMV(アナザーVer.)が解放されました,[%{musicName}] MV (Another ver.) Unlocked
+evolution.trustLimitUp.comment,[%{idolName}]の信頼度Lv.上限が%{limit}\nに上昇しました,[%{idolName}]'s Trust Lv. Limit has been\nincreased to%{limit}!
 fes.deck.informationTypes.default,デフォルト,Default
 fes.deck.informationTypes.status,フェスアイドル,Fes Idol
 fes.deck.informationTypes.param_bonus,ボーナス,Bonus
@@ -2155,7 +2155,7 @@ fesTower.panelUnit.unsetDeckNumber,未設定,Unset
 fesTower.panelUnit.staffComment,流行ごとのライブパネルに参加するユニットを選択しましょう♪\nパネルごとにアイテムも選択できますよ～,
 fesTower.bonus.tourBonus.noticeText,ツアー中の地方ボーナスは地方ツアー達成まで継続します,
 fesTower.bonus.tourBonus.unitBonusText,%{unitName}のユニットボーナスUP！,%{unitName}'s Unit Bonus UP!
-fesTower.bonus.tourBonus.genreBonusText,%{genreName}のジャンルボーナスUP！,
+fesTower.bonus.tourBonus.genreBonusText,%{genreName}のジャンルボーナスUP！,%{genreName}'s Genre Bonus UP!
 fesTower.bonus.tourBonus.characterBonusText,%{characterName}のアイドルボーナスUP！,%{characterName}'s Idol Bonus UP!
 fesTower.bonus.activeBonusListPop.noUserDeckComment,パネルが選択されていません,No Panel selected.
 fesTower.bonus.activeBonusListPop.tab.tabTourBonus,ツアー中,On Tour
@@ -2173,7 +2173,7 @@ header.jointFesRanking,ランキング,Ranking
 header.fesTowerPanelUnit,パネルユニット編成,Organize Panel Unit
 header.photoIdolChange,アイドル変更,Change Idol
 header.jewelCounter,フェザージュエルミッション,Feather Jewel Mission
-header.produceResultSkillAndBook,獲得報酬,Rewards earned
+header.produceResultSkillAndBook,獲得報酬,Rewards Earned
 homeDeck.displayType.mv,MVモード,MV Mode
 homeDeck.mvAnother,(アナザーver.),(Another ver.)
 homeDeck.mvTime,%{min}分%{sec}秒,%{min}m%{sec}s
@@ -2202,19 +2202,19 @@ jointFes.ranking.announceRankingType.group,グループ\n順位,Group\nRank
 jointFes.ranking.announceRankingType.event_point,ポイント\n順位,Point\nRank
 jointFes.ranking.stageSelect.title,ステージ選択,Stage Select
 jointFes.ready.title,マッチライブ詳細,Match Live Details
-jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,
+jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,%{consumedFesTicket} Fes Entries will be used.
 jointFes.ready.unitEmptyPop.title,確認,Confirm
 jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,
 jointFes.seasonChange.title,マッチライブ更新,Match Live Update
 jointFes.seasonChange.commonMessage,マッチライブのシーズンが切り替わりました\nイベントポイントやミッション・ショップなどがリセットされます,
 jointFes.seasonChange.titleMessage,前シーズンのランキング報酬として以下を獲得しました,
-jointFes.seasonChange.titleCategories.joint_fes_group_ranking,・総合ランキング称号ｘ1,
-jointFes.seasonChange.titleCategories.joint_fes_point_ranking,・累計ポイントランキング称号ｘ1,
+jointFes.seasonChange.titleCategories.joint_fes_group_ranking,・総合ランキング称号ｘ1,・Overall Ranking Titleｘ1
+jointFes.seasonChange.titleCategories.joint_fes_point_ranking,・累計ポイントランキング称号ｘ1,・Total Points Ranking Titleｘ1
 jointFesConcert.scoreInfo.popTitle,スコア詳細,Score Info
 jointFesConcert.scoreInfo.player,＜あなた＞,＜You＞
 jointFesConcert.scoreInfo.rival,＜ライバル＞,＜Rival＞
-jointFesConcert.scoreInfo.term,第%{termNumber}ターム,
-jointFesConcert.scoreInfo.termLastScore,第%{termNumber}ターム最終スコア,
+jointFesConcert.scoreInfo.term,第%{termNumber}ターム,Term #%{termNumber}
+jointFesConcert.scoreInfo.termLastScore,第%{termNumber}ターム最終スコア,Term #%{termNumber} Final Score
 jointFesConcert.scoreInfo.result,最終結果,Final Results
 jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,No Active Skills
 jointFesConcert.scoreInfo.tapToScrollMessage,▲タームをタッチで該当のタームまでスクロールします▲,
@@ -2259,14 +2259,14 @@ shop.monthlyPassport.price,%{price}円,%{price} yen
 shop.monthlyPassport.dailyRewardPop.title,ログイン報酬,Login Rewards
 shop.monthlyPassport.dailyRewardPop.count,%{count}回目,
 shop.monthlyPassport.dailyRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewels
-stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,S.T.E.P.編のコミュ解放
-stepCommunicationReleaseDialog.message,新たなS.T.E.P.編のコミュが解放されました！,
-stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,
+stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,S.T.E.P. Commu Unlocked
+stepCommunicationReleaseDialog.message,新たなS.T.E.P.編のコミュが解放されました！,A new S.T.E.P. commu has been unlocked!
+stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,You can now view the S.T.E.P. commu in your Album.
 workActivityTalkAndCommu.categories.notCleared,未CLEAR,Not Cleared
 producerDesk.costume.costumeName,%{costumeName}の衣装,
 producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,
 producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。
-jewelCounter.sortTitle,並び替え,
+jewelCounter.sortTitle,並び替え,Sort
 jewelCounter.typeText.daily,デイリー,Daily
 jewelCounter.typeText.weekly,ウィークリー,Weekly
 jewelCounter.typeText.normal,ノーマル,Normal

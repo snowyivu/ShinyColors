@@ -570,9 +570,9 @@ Center適正 ◎,Center Qualification ◎
 オールラウンダー◎,All-Rounder ◎
 フェスユニット編成時、ポジションボーナスが＋10%,"When set in a Fes Unit, gains +10% position bonus"
 スロースターター,Slow Start
-アピール値4~20％UP[経過ターンが長いほど効果UP],Appeal Strength 4~20％UP [Higher in later turns]
+アピール値4~20％UP[経過ターンが長いほど効果UP],Appeal Strength 4~20％ UP [Higher in later turns]
 スタートダッシュ,Start Dash
-アピール値2~10％UP[経過ターンが短いほど効果UP],Appeal Strength 2~10％UP [Higher in early turns]
+アピール値2~10％UP[経過ターンが短いほど効果UP],Appeal Strength 2~10％ UP [Higher in early turns]
 人気者,Popular
 審査員の興味3％UP,Judge Interest 3％UP
 物静か,Quiet
@@ -624,11 +624,23 @@ Visualの上限値＋100,Visual Cap +100
 ビジュアルマスター,Visual Mastery
 アピールフェイズ開始毎にVisualDOWNステータス効果を100％の確率で除去,100% Chance to remove VisualDOWN Effect at the start of each Appeal Phase
 パーフェクトリィ,Perfecthree
-すべてのアピール値が10％UP,All Appeal Strength 10％UP
+すべてのアピール値が10％UP,All Appeal Strength 10％ UP
+スペシャリスト,Specialist
+フェスユニット編成時に全基礎能力へのボーナスを+5%,"All base stats bonus +5% in Fes "
+ロマンチスト,Romantist
+思い出増加量+5%/アピール値最大10%UP[思い出ージが多いほど効果UP],Memory Gauge+5%/Appeal Strength 10% UP [Higher at higher Memory Gauge]
+メンタリスト,Mentalist
+アピール値最大5%UP[メンタルが多いほど効果UP]/アピール値最大10%UP[メンタルが少ないほど効果UP],Appeal Strength 5% UP [Higher at higher Mental]/Appeal Strength 10% UP [Higher at lower Mental]
+メンタル回復量+,Mental Recovery+
+メンタル回復量5%UP,Increases Mental Recovery by 5%
+メンタル回復量-,Mental Recovery-
+メンタル回復量5%DOWN,Decreases Mental Recovery by 5%
 アピールUP（思い出高）,Appeal UP (High Memory)
-アピール値2~10％UP[思い出ゲージが多いほど効果UP],Appeal Strength 2~10％UP [Higher at higher Memory Gauge]
+アピール値2~10％UP[思い出ゲージが多いほど効果UP],Appeal Strength 2~10％ UP [Higher at higher Memory Gauge]
 アピールUP（思い出低）,Appeal UP (Low Memory)
-アピール値4~20％UP[思い出ゲージが少ないほど効果UP],Appeal Strength 4~20％UP [Higher at lower Memory Gauge]
+アピール値4~20％UP[思い出ゲージが少ないほど効果UP],Appeal Strength 4~20％ UP [Higher at lower Memory Gauge]
+アピールUP（思い出高&低）," Appeal UP (High&Low Mem.)"
+アピール値最大5%UP[思い出ゲージが多いほど効果UP]/アピール値最大10%UP[思い出ゲージが少ないほど効果UP],Appeal Strength 5% UP [Higher at higher Memory Gauge]/Appeal Strength 10% UP [Higher at lower Memory Gauge]
 真乃×4,Mano×4
 櫻木真乃との絆,Bond with Mano
 櫻木真乃がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Mano is set in the unit
@@ -656,7 +668,7 @@ Visualの上限値＋100,Visual Cap +100
 果穂×4,Kaho×4
 小宮果穂との絆,Bond with Kaho
 小宮果穂がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Kaho is set in the unit
-千代子×4,Chiyoko×4
+智代子×4,Chiyoko×4
 園田智代子との絆,Bond with Chiyoko
 園田智代子がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Chiyoko is set in the unit
 樹里×4,Juri×4
@@ -698,6 +710,29 @@ Visualの上限値＋100,Visual Cap +100
 雛菜×4,Hinana×4
 市川雛菜との絆,Bond with Hinana
 市川雛菜がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Hinana is set in the unit
+にちか×4,Nichika×4
+七草にちかとの絆,Bond with Nichika
+七草にちかがユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Nichika is set in the unit
+美琴×4,Mikoto×4
+緋田美琴との絆,Bond with Mikoto
+緋田美琴がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Mikoto is set in the unit
+ルカ×4,Luca×4
+斑鳩ルカとの絆,Bond with Luca
+斑鳩ルカがユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Luca is set in the unit
+羽那×4,Hana×4
+鈴木羽那との絆,Bond with Hana
+鈴木羽那がユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Hana is set in the unit
+はるき×4,Haruki×4
+郁田はるきとの絆,Bond with Haruki
+郁田はるきがユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Haruki is set in the unit
+基礎能力値UP（+3%）,Base Stat UP (+3%)
+基礎能力値UP（+6%）,Base Stat UP (+6%)
+エキシビションマッチ,Exhibition Match
+エキシビションマッチ+,Exhibition Match+
+エキシビションマッチ++,Exhibition Match++
+ファン感謝祭クリア,Fan Fest Clear
+ファン感謝祭クリア+,Fan Fest Clear+
+ファン感謝祭クリア++,Fan Fest Clear++
 プレゼントを貰いたい子を選択してください,Please select the idol to receive a gift from
 うん,Hmmm
 サマーキャンペーン2020特別ミッションを5個クリアしよう,Clear 5 Summer Campaign 2020 Special Missions
@@ -721,6 +756,7 @@ Visualの上限値＋100,Visual Cap +100
 ストレイライト,Straylight
 ノクチル,noctchill
 シーズ,SHHis
+コメティック,CoMETIK
 達成Vocalライブ回数,Vocal Lives Cleared
 達成Danceライブ回数,Dance Lives Cleared
 達成Visualライブ回数,Visual Lives Cleared
@@ -812,6 +848,9 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 市川雛菜の\n体力上限UP,Hinana's\nMax Stamina UP
 七草にちかの\n体力上限UP,Nichika's\nMax Stamina UP
 緋田美琴の\n体力上限UP,Mikoto's\nMax Stamina UP
+斑鳩ルカの\n体力上限UP,Luca's\nMax Stamina UP
+鈴木羽那の\n体力上限UP,Hana's\nMax Stamina UP
+郁田はるきの\n体力上限UP,Haruki's\nMax Stamina UP
 櫻木真乃の\n体力減少量軽減,Mano's Stamina\nConsumption DOWN
 風野灯織の\n体力減少量軽減,Hiori's Stamina\nConsumption DOWN
 八宮めぐるの\n体力減少量軽減,Meguru's Stamina\nConsumption DOWN
@@ -837,6 +876,9 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 市川雛菜の\n体力減少量軽減,Hinana's Stamina\nConsumption DOWN
 七草にちかの\n体力減少量軽減,Nichika's Stamina\nConsumption DOWN
 緋田美琴の\n体力減少量軽減,Mikoto's Stamina\nConsumption DOWN
+斑鳩ルカの\n体力減少量軽減,Luca's Stamina\nConsumption DOWN
+鈴木羽那の\n体力減少量軽減,Hana's Stamina\nConsumption DOWN
+郁田はるきの\n体力減少量軽減,Haruki's Stamina\nConsumption DOWN
 櫻木真乃の\n体力回復量上昇,Mano's Stamina\nRecovery UP
 風野灯織の\n体力回復量上昇,Hiori's Stamina\nRecovery UP
 八宮めぐるの\n体力回復量上昇,Meguru's Stamina\nRecovery UP
@@ -862,6 +904,9 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 市川雛菜の\n体力回復量上昇,Hinana's Stamina\nRecovery UP
 七草にちかの\n体力回復量上昇,Nichika's Stamina\nRecovery UP
 緋田美琴の\n体力回復量上昇,Mikoto's Stamina\nRecovery UP
+斑鳩ルカの\n体力回復量上昇,Luca's Stamina\nRecovery UP
+鈴木羽那の\n体力回復量上昇,Hana's Stamina\nRecovery UP
+郁田はるきの\n体力回復量上昇,Haruki's Stamina\nRecovery UP
 櫻木真乃の\nCenter担当適正UP,Mano's Center\nPos. Aptitude UP
 櫻木真乃の\nLeader担当適正UP,Mano's Leader\nPos. Aptitude UP
 櫻木真乃の\nVocal担当適正UP,Mano's Vocal\nPos. Aptitude UP
@@ -987,6 +1032,21 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 緋田美琴の\nVocal担当適正UP,Mikoto's Vocal\nPos. Aptitude UP
 緋田美琴の\nDance担当適正UP,Mikoto's Dance\nPos. Aptitude UP
 緋田美琴の\nVisual担当適正UP,Mikoto's Visual\nPos. Aptitude UP
+斑鳩ルカの\nCenter担当適正UP,Luca's Center\nPos. Aptitude UP
+斑鳩ルカの\nLeader担当適正UP,Luca's Leader\nPos. Aptitude UP
+斑鳩ルカの\nVocal担当適正UP,Luca's Vocal\nPos. Aptitude UP
+斑鳩ルカの\nDance担当適正UP,Luca's Dance\nPos. Aptitude UP
+斑鳩ルカの\nVisual担当適正UP,Luca's Visual\nPos. Aptitude UP
+鈴木羽那の\nCenter担当適正UP,Hana's Center\nPos. Aptitude UP
+鈴木羽那の\nLeader担当適正UP,Hana's Leader\nPos. Aptitude UP
+鈴木羽那の\nVocal担当適正UP,Hana's Vocal\nPos. Aptitude UP
+鈴木羽那の\nDance担当適正UP,Hana's Dance\nPos. Aptitude UP
+鈴木羽那の\nVisual担当適正UP,Hana's Visual\nPos. Aptitude UP
+郁田はるきの\nCenter担当適正UP,Haruki's Center\nPos. Aptitude UP
+郁田はるきの\nLeader担当適正UP,Haruki's Leader\nPos. Aptitude UP
+郁田はるきの\nVocal担当適正UP,Haruki's Vocal\nPos. Aptitude UP
+郁田はるきの\nDance担当適正UP,Haruki's Dance\nPos. Aptitude UP
+郁田はるきの\nVisual担当適正UP,Haruki's Visual\nPos. Aptitude UP
 櫻木真乃の編成時\nVocalアピールUP,When using Mano\nVocal Appeal UP
 櫻木真乃の編成時\nDanceアピールUP,When using Mano\nDance Appeal UP
 櫻木真乃の編成時\nVisualアピールUP,When using Mano\nVisual Appeal UP
@@ -1062,6 +1122,15 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 緋田美琴の編成時\nVocalアピールUP,When using Mikoto\nVocal Appeal UP
 緋田美琴の編成時\nDanceアピールUP,When using Mikoto\nDance Appeal UP
 緋田美琴の編成時\nVisualアピールUP,When using Mikoto\nVisual Appeal UP
+斑鳩ルカの編成時\nVocalアピールUP,When using Luca\nVocal Appeal UP
+斑鳩ルカの編成時\nDanceアピールUP,When using Luca\nDance Appeal UP
+斑鳩ルカの編成時\nVisualアピールUP,When using Luca\nVisual Appeal UP
+鈴木羽那の編成時\nVocalアピールUP,When using Hana\nVocal Appeal UP
+鈴木羽那の編成時\nDanceアピールUP,When using Hana\nDance Appeal UP
+鈴木羽那の編成時\nVisualアピールUP,When using Hana\nVisual Appeal UP
+郁田はるきの編成時\nVocalアピールUP,When using Haruki\nVocal Appeal UP
+郁田はるきの編成時\nDanceアピールUP,When using Haruki\nDance Appeal UP
+郁田はるきの編成時\nVisualアピールUP,When using Haruki\nVisual Appeal UP
 櫻木真乃の 体力上限UP,Mano's Max Stamina UP
 風野灯織の 体力上限UP,Hiori's Max Stamina UP
 八宮めぐるの 体力上限UP,Meguru's Max Stamina UP
@@ -1087,6 +1156,9 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 市川雛菜の体力上限UP,Hinana's Max Stamina UP
 七草にちかの体力上限UP,Nichika's Max Stamina UP
 緋田美琴の体力上限UP,Mikoto's Max Stamina UP
+斑鳩ルカの体力上限UP,Luca's Max Stamina UP
+鈴木羽那の体力上限UP,Hana's Max Stamina UP
+郁田はるきの体力上限UP,Haruki's Max Stamina UP
 櫻木真乃の体力減少量軽減,Mano's Stamina Consumption DOWN
 風野灯織の体力減少量軽減,Hiori's Stamina Consumption DOWN
 八宮めぐるの体力減少量軽減,Meguru's Stamina Consumption DOWN
@@ -1112,6 +1184,9 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 市川雛菜の体力減少量軽減,Hinana's Stamina Consumption DOWN
 七草にちかの体力減少量軽減,Nichika's Stamina Consumption DOWN
 緋田美琴の体力減少量軽減,Mikoto's Stamina Consumption DOWN
+斑鳩ルカの体力減少量軽減,Luca's Stamina Consumption DOWN
+鈴木羽那の体力減少量軽減,Hana's Stamina Consumption DOWN
+郁田はるきの体力減少量軽減,Haruki's Stamina Consumption DOWN
 櫻木真乃の体力回復量上昇,Mano's Stamina Recovery UP
 風野灯織の体力回復量上昇,Hiori's Stamina Recovery UP
 八宮めぐるの体力回復量上昇,Meguru's Stamina Recovery UP
@@ -1137,6 +1212,9 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 市川雛菜の体力回復量上昇,Hinana's Stamina Recovery UP
 七草にちかの体力回復量上昇,Nichika's Stamina Recovery UP
 緋田美琴の体力回復量上昇,Mikoto's Stamina Recovery UP
+斑鳩ルカの体力回復量上昇,Luca's Stamina Recovery UP
+鈴木羽那の体力回復量上昇,Hana's Stamina Recovery UP
+郁田はるきの体力回復量上昇,Haruki's Stamina Recovery UP
 櫻木真乃のCenter担当適正UP,Mano's Center Pos. Aptitude UP
 櫻木真乃のLeader担当適正UP,Mano's Leader Pos. Aptitude UP
 櫻木真乃のVocal担当適正UP,Mano's Vocal Pos. Aptitude UP
@@ -1262,6 +1340,21 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 緋田美琴のVocal担当適正UP,Mikoto's Vocal Pos. Aptitude UP
 緋田美琴のDance担当適正UP,Mikoto's Dance Pos. Aptitude UP
 緋田美琴のVisual担当適正UP,Mikoto's Visual Pos. Aptitude UP
+斑鳩ルカのCenter担当適正UP,Luca's Center Pos. Aptitude UP
+斑鳩ルカのLeader担当適正UP,Luca's Leader Pos. Aptitude UP
+斑鳩ルカのVocal担当適正UP,Luca's Vocal Pos. Aptitude UP
+斑鳩ルカのDance担当適正UP,Luca's Dance Pos. Aptitude UP
+斑鳩ルカのVisual担当適正UP,Luca's Visual Pos. Aptitude UP
+鈴木羽那のCenter担当適正UP,Hana's Center Pos. Aptitude UP
+鈴木羽那のLeader担当適正UP,Hana's Leader Pos. Aptitude UP
+鈴木羽那のVocal担当適正UP,Hana's Vocal Pos. Aptitude UP
+鈴木羽那のDance担当適正UP,Hana's Dance Pos. Aptitude UP
+鈴木羽那のVisual担当適正UP,Hana's Visual Pos. Aptitude UP
+郁田はるきのCenter担当適正UP,Haruki's Center Pos. Aptitude UP
+郁田はるきのLeader担当適正UP,Haruki's Leader Pos. Aptitude UP
+郁田はるきのVocal担当適正UP,Haruki's Vocal Pos. Aptitude UP
+郁田はるきのDance担当適正UP,Haruki's Dance Pos. Aptitude UP
+郁田はるきのVisual担当適正UP,Haruki's Visual Pos. Aptitude UP
 櫻木真乃の編成時VocalアピールUP,When using Mano Vocal Appeal UP
 櫻木真乃の編成時DanceアピールUP,When using Mano Dance Appeal UP
 櫻木真乃の編成時VisualアピールUP,When using Mano Visual Appeal UP
@@ -1337,6 +1430,15 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 緋田美琴の編成時VocalアピールUP,When using Mikoto Vocal Appeal UP
 緋田美琴の編成時DanceアピールUP,When using Mikoto Dance Appeal UP
 緋田美琴の編成時VisualアピールUP,When using Mikoto Visual Appeal UP
+斑鳩ルカの編成時VocalアピールUP,When using Luca Vocal Appeal UP
+斑鳩ルカの編成時DanceアピールUP,When using Luca Dance Appeal UP
+斑鳩ルカの編成時VisualアピールUP,When using Luca Visual Appeal UP
+鈴木羽那の編成時VocalアピールUP,When using Hana Vocal Appeal UP
+鈴木羽那の編成時DanceアピールUP,When using Hana Dance Appeal UP
+鈴木羽那の編成時VisualアピールUP,When using Hana Visual Appeal UP
+郁田はるきの編成時VocalアピールUP,When using Haruki Vocal Appeal UP
+郁田はるきの編成時DanceアピールUP,When using Haruki Dance Appeal UP
+郁田はるきの編成時VisualアピールUP,When using Haruki Visual Appeal UP
 ライブをオートでプレイできる,Unlocks Auto-Play\noption for lives
 リタイア可能回数1,Allows retiring from\n a live once
 リタイア可能回数2,Allows retiring from\n a live twice
@@ -1387,49 +1489,49 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 様々なイベントが発生します,All sorts of events may happen.
 イベントを開始しますか？,Start event?
 ユニット単独ライブに向けた準備を通してアイドルを成長させることができます。ライブでパフォーマンスする楽曲の熟練度を上げて、ユニット単独ライブを成功させましょう！,Raise idols through preparation for the unit solo live. Improve your skills with deep music performance study and make your unit solo live a success!
-歌唱力の熟練度獲得量が2倍(1週),2x Vocal Proficiency Gains(1Wk)
-安定感の熟練度獲得量が2倍(1週),2x Stability Proficiency Gains(1Wk)
-表現力の熟練度獲得量が2倍(1週),2x Expressiveness Proficiency Gains(1Wk)
-集中力の熟練度獲得量が2倍(1週),2x Focus Proficiency Gains(1Wk)
-団結力の熟練度獲得量が2倍(1週),2x Teamwork Proficiency Gains(1Wk)
-楽曲サポートボーナスの熟練度獲得量が3倍(1週),3x Music Support Bonus Proficiency Gains(1Wk)
-体力の消費量が増加(中)、レッスンのすべての熟練度獲得量が2倍(1週),"Fatigue Drain Increased(Med),2x All Lesson Proficiency Gains(1Wk)"
-お仕事のすべての熟練度獲得量が2倍(1週),2x All Work Proficiency Gains(1Wk)
-歌唱力の熟練度獲得量が2倍(2週),2x Vocal Proficiency Gains(2Wk)
-安定感の熟練度獲得量が2倍(2週),2x Stability Proficiency Gains(2Wk)
-表現力の熟練度獲得量が2倍(2週),2x Expressiveness Proficiency Gains(2Wk)
-楽曲サポートボーナスの熟練度獲得量が3倍(2週),3x Music Support Bonus Proficiency Gains(2Wk)
-体力の消費量が増加(小)、すべての熟練度獲得量が2倍(1週),"Fatigue Drain Increased(Small),2x All Proficiency Gains(1Wk)"
-集中力の熟練度獲得量が4倍(2週),4x Focus Proficiency Gains(2Wk)
-団結力の熟練度獲得量が4倍(2週),4x Teamwork Proficiency Gains(2Wk)
-楽曲サポートボーナスの熟練度獲得量が5倍(2週),5x Music Support Bonus Proficiency Gains(2Wk)
-トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が4倍(2週),"Trouble Rate+5%,4x All Vocal Lesson Proficiency Gains(2Wk)"
-トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が4倍(2週),"Trouble Rate+5%,4x All Dance Lesson Proficiency Gains(2Wk)"
-トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が4倍(2週),"Trouble Rate+5%,4x All Visual Lesson Proficiency Gains(2Wk)"
-集中力の熟練度獲得量が2倍(2週),2x Focus Proficiency Gains(2Wk)
-団結力の熟練度獲得量が2倍(2週),2x Teamwork Proficiency Gains(2Wk)
-トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(2週),"Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains(2Wk)"
-トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(2週),"Trouble Rate+5%,2x All Dance Lesson Proficiency Gains(2Wk)"
-トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(2週),"Trouble Rate+5%,2x All Visual Lesson Proficiency Gains(2Wk)"
-歌唱力の熟練度獲得量が4倍(2週),4x Vocal Proficiency Gains(2Wk)
-安定感の熟練度獲得量が4倍(2週),4x Stability Proficiency Gains(2Wk)
-表現力の熟練度獲得量が4倍(2週),4x Expressiveness Proficiency Gains(2Wk)
-お仕事のすべての熟練度獲得量が4倍(1週),4x All Work Proficiency Gains(1Wk)
-体力の消費量が増加(小)、すべての熟練度獲得量が2倍(2週),"Fatigue Drain Increased(Small),2x All Proficiency Gains(2Wk)"
-トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(1週),"Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains(1Wk)"
-ボーカルレッスンのすべての熟練度獲得量が3倍(1週),3x All Vocal Lesson Proficiency Gains(1Wk)
-体力の消費量が増加(小)、レッスンのすべての熟練度獲得量が5倍(1週),"Fatigue Drain Increased(Small),5x All Lesson Proficiency Gains(1Wk)"
-トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(1週),"Trouble Rate+5%,2x All Dance Lesson Proficiency Gains(1Wk)"
-ダンスレッスンのすべての熟練度獲得量が3倍(1週),3x All Dance Lesson Proficiency Gains(1Wk)
-トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(1週),"Trouble Rate+5%,2x All Visual Lesson Proficiency Gains(1Wk)"
-ビジュアルレッスンのすべての熟練度獲得量が3倍(1週),3x All Visual Lesson Proficiency Gains(1Wk)
-ビジュアルレッスンのすべての熟練度獲得量が3倍(2週),3x All Visual Lesson Proficiency Gains(2Wk)
-ラジオの収録のすべての熟練度獲得量が3倍(1週),3x Radio Show Proficiency Gains(1Wk)
-トークイベントのすべての熟練度獲得量が3倍(1週),3x Talk Show Proficiency Gains(1Wk)
-レッスンのすべての熟練度獲得量が2倍(1週),2x All Lesson Proficiency Gains(1Wk)
-レッスンのすべての熟練度獲得量が4倍(1週),4x All Lesson Proficiency Gains(1Wk)
-すべての熟練度獲得量が3倍(1週),3x All Proficiency Gains(1Wk)
-雑誌の撮影のすべての熟練度獲得量が3倍(1週),3x Photoshoot Proficiency Gains(1Wk)
+歌唱力の熟練度獲得量が2倍(1週),2x Vocal Proficiency Gains (1Wk)
+安定感の熟練度獲得量が2倍(1週),2x Stability Proficiency Gains (1Wk)
+表現力の熟練度獲得量が2倍(1週),2x Expressiveness Proficiency Gains (1Wk)
+集中力の熟練度獲得量が2倍(1週),2x Focus Proficiency Gains (1Wk)
+団結力の熟練度獲得量が2倍(1週),2x Teamwork Proficiency Gains (1Wk)
+楽曲サポートボーナスの熟練度獲得量が3倍(1週),3x Music Support Bonus Proficiency Gains (1Wk)
+体力の消費量が増加(中)、レッスンのすべての熟練度獲得量が2倍(1週),"Fatigue Drain Increased(Med),2x All Lesson Proficiency Gains (1Wk)"
+お仕事のすべての熟練度獲得量が2倍(1週),2x All Work Proficiency Gains (1Wk)
+歌唱力の熟練度獲得量が2倍(2週),2x Vocal Proficiency Gains (2Wk)
+安定感の熟練度獲得量が2倍(2週),2x Stability Proficiency Gains (2Wk)
+表現力の熟練度獲得量が2倍(2週),2x Expressiveness Proficiency Gains (2Wk)
+楽曲サポートボーナスの熟練度獲得量が3倍(2週),3x Music Support Bonus Proficiency Gains (2Wk)
+体力の消費量が増加(小)、すべての熟練度獲得量が2倍(1週),"Fatigue Drain Increased(Small),2x All Proficiency Gains (1Wk)"
+集中力の熟練度獲得量が4倍(2週),4x Focus Proficiency Gains (2Wk)
+団結力の熟練度獲得量が4倍(2週),4x Teamwork Proficiency Gains (2Wk)
+楽曲サポートボーナスの熟練度獲得量が5倍(2週),5x Music Support Bonus Proficiency Gains (2Wk)
+トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が4倍(2週),"Trouble Rate+5%,4x All Vocal Lesson Proficiency Gains (2Wk)"
+トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が4倍(2週),"Trouble Rate+5%,4x All Dance Lesson Proficiency Gains (2Wk)"
+トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が4倍(2週),"Trouble Rate+5%,4x All Visual Lesson Proficiency Gains (2Wk)"
+集中力の熟練度獲得量が2倍(2週),2x Focus Proficiency Gains (2Wk)
+団結力の熟練度獲得量が2倍(2週),2x Teamwork Proficiency Gains (2Wk)
+トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(2週),"Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains (2Wk)"
+トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(2週),"Trouble Rate+5%,2x All Dance Lesson Proficiency Gains (2Wk)"
+トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(2週),"Trouble Rate+5%,2x All Visual Lesson Proficiency Gains (2Wk)"
+歌唱力の熟練度獲得量が4倍(2週),4x Vocal Proficiency Gains (2Wk)
+安定感の熟練度獲得量が4倍(2週),4x Stability Proficiency Gains (2Wk)
+表現力の熟練度獲得量が4倍(2週),4x Expressiveness Proficiency Gains (2Wk)
+お仕事のすべての熟練度獲得量が4倍(1週),4x All Work Proficiency Gains (1Wk)
+体力の消費量が増加(小)、すべての熟練度獲得量が2倍(2週),"Fatigue Drain Increased(Small),2x All Proficiency Gains (2Wk)"
+トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(1週),"Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains (1Wk)"
+ボーカルレッスンのすべての熟練度獲得量が3倍(1週),3x All Vocal Lesson Proficiency Gains (1Wk)
+体力の消費量が増加(小)、レッスンのすべての熟練度獲得量が5倍(1週),"Fatigue Drain Increased(Small),5x All Lesson Proficiency Gains (1Wk)"
+トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(1週),"Trouble Rate+5%,2x All Dance Lesson Proficiency Gains (1Wk)"
+ダンスレッスンのすべての熟練度獲得量が3倍(1週),3x All Dance Lesson Proficiency Gains (1Wk)
+トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(1週),"Trouble Rate+5%,2x All Visual Lesson Proficiency Gains (1Wk)"
+ビジュアルレッスンのすべての熟練度獲得量が3倍(1週),3x All Visual Lesson Proficiency Gains (1Wk)
+ビジュアルレッスンのすべての熟練度獲得量が3倍(2週),3x All Visual Lesson Proficiency Gains (2Wk)
+ラジオの収録のすべての熟練度獲得量が3倍(1週),3x Radio Show Proficiency Gains (1Wk)
+トークイベントのすべての熟練度獲得量が3倍(1週),3x Talk Show Proficiency Gains (1Wk)
+レッスンのすべての熟練度獲得量が2倍(1週),2x All Lesson Proficiency Gains (1Wk)
+レッスンのすべての熟練度獲得量が4倍(1週),4x All Lesson Proficiency Gains (1Wk)
+すべての熟練度獲得量が3倍(1週),3x All Proficiency Gains (1Wk)
+雑誌の撮影のすべての熟練度獲得量が3倍(1週),3x Photoshoot Proficiency Gains (1Wk)
 プロデューサーさんのペースに合わせて\n営業先を選んでくださいね～,Please choose a job according\nto your own playstyle～
 所持枠を超えているものは自動的に破棄されます,Items over max capacity will be destroyed
 アイドル同士でノウハウを教えあいながら、最高の今を作っていきます。レッスンやお仕事、オーディションやライブを通してエキシビションの舞台を成功させましょう！,"While teaching know-how between fellow idols, create the very best. Make the exhibition stage a success through lessons, work, auditions, and lives!"
