@@ -706,8 +706,10 @@ images/ui/work_activity_talk_and_commu/parts.json_image,work_talk_and_commu.png,
 images/ui/gasha/foil_gasha_bg.png,foil_gasha_bg.png,2
 images/ui/gasha/idol_foil_gasha_bg.png,idol_foil_gasha_bg.png,2
 images/ui/limited_fes_ranking/parts.png,limited_fes_ranking_parts.png,1
+images/ui/limited_fes_ranking/parts_phase_result.png,limited_fes_ranking_parts_phase_result,1
+images/ui/limited_fes_ranking/parts_score_record.png,limited_fes_ranking_parts_score_record,3
 images/ui/limited_fes_top/parts_result_announce.png,parts_result_announce.png,1
-images/ui/limited_fes_top/parts.png,limited_fes_top_parts.png,1
+images/ui/limited_fes_top/parts.png,limited_fes_top_parts.png,3
 images/tips/game_event/50024/001.jpg,event/April22/aprilfools22_about01.jpg,1
 images/tips/game_event/50024/002.jpg,event/April22/aprilfools22_about02.jpg,1
 images/tips/produce_step/growth/001.jpg,tutorial/step_004.jpg,1
@@ -768,7 +770,7 @@ images/ui/limited_fes_ranking/parts_phase_result.json_image,limited_fes_ranking_
 images/ui/shop/parts_p_desk.json_image,shop_parts_p_desk.png,1
 images/ui/limited_fes_ranking/parts_score_record.json_image,limited_fes_ranking_parts_score_record.png,3
 images/ui/auto_play/parts_skip_pop.json_image,auto_play_parts_skip_pop.png,1
-images/ui/auto_play_parts.json_image,auto_play.png,1
+images/ui/auto_play/parts.png,auto_play_parts.png,1
 images/ui/character_birthday_page/parts.json_image,birthday_page_parts.png,3
 images/ui/joint_fes_deck/parts_idol_select.json_image,joint_fes_idol_select.png,1
 images/ui/joint_fes_facility/parts.json_image,joint_fes_facility_parts.png,1

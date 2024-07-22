@@ -1,9 +1,11 @@
 id,name,text,trans
 1013001000710010,夏葉,"おはよう、プロデューサー
 ……この間、お風呂に入っていたらつい長湯してしまったわ","Good morning, Producer.
-...The other day when I was bathing I accidentaly stayed in the water for a bit too long."
+...The other day when I was bathing I accidentally
+stayed in the water for a bit too long."
 0000000000000,プロデューサー,"大丈夫か？　
-ゆっくりと風呂に入るのは好きだから気持ちは分かるけど","Isn't that risky? Though, I do enjoy baths, so I get why you'd want to take your time."
+ゆっくりと風呂に入るのは好きだから気持ちは分かるけど","Isn't that risky? Though, I do enjoy baths,
+so I get why you'd want to take your time."
 1013001000710020,夏葉,あら、プロデューサーも！？,"Oh, you too, Producer!?"
 0000000000000,プロデューサー,（よし、もう少し話題を広げてみよう）,"(Nice, now let's expand on this topic)"
 select,,健康にもいいしな,"It's great for
@@ -23,7 +25,8 @@ the health benefits of a good bath."
 to wash away the things weighing you down as well."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1013001000710070,夏葉,え？　私の家のお風呂？,Huh? My bathtub at home?
-1013001000710080,夏葉,どうなのかしら？　実家のよりは狭いと思うけれど……？,What do you mean? I feel like it's smaller than the one at my parents' house though...?
+1013001000710080,夏葉,どうなのかしら？　実家のよりは狭いと思うけれど……？,"What do you mean? I feel like it's smaller than the
+one at my parents' house though...?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101300100071.json,
 Translator,,

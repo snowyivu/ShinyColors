@@ -3,7 +3,8 @@ id,name,text,trans
 0000000000000,プロデューサー,ん？　ああ、おはよう,"Hm? Yes, morning."
 1013001000110020,夏葉,"なんだか気が抜けてるわね？
 １日の始まりなんだから、挨拶はちゃんとした方がいいわよ","That was a little low-energy, don't you think?
-The day's only just begun. Proper greetings are important."
+The day's only just begun. Proper greetings are
+important."
 0000000000000,プロデューサー,（挨拶か、そうだな……）,(A proper greeting? In that case...)
 select,,夏葉！　おはよう！,"Morning, Natsuha!"
 select,,おはようございます,Good morning.

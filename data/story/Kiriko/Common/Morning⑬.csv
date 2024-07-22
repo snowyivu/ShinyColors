@@ -3,9 +3,10 @@ id,name,text,trans
 いかがですか……？","Um...this morning, I tried making a smoothie...
 D-Do you want some...?"
 0000000000000,プロデューサー,"（朝から甘い香りがするなと思ったら……
-正体はスムージーだったのか）",(I thought there was a slightly sweet fragance in the air this morning...so it was this.)
+正体はスムージーだったのか）","(I thought there was a slightly sweet fragrance
+in the air this morning... so it was this.)"
 1008001001310020,霧子,"よかったら……
-か、身体にも、とってもいいので……！",Um...it's really good...for your body...!
+か、身体にも、とってもいいので……！",Um... it's really good... for your body...!
 0000000000000,プロデューサー,（なるほど、霧子お手製のスムージーか……）,"(Kiriko's handmade smoothie, huh...)"
 select,,早速いただくよ！,Of course I do!
 select,,"最近野菜不足だから
@@ -16,20 +17,22 @@ select,,"不思議な色だけども
 何が入ってるんだ？","The color looks off...
 What did you
 put in it?"
-1008001001310030,霧子,わぁ……一気飲み……ですね……！,Wow...! You drank it...in one go...!
+1008001001310030,霧子,わぁ……一気飲み……ですね……！,Wow...! You drank it... in one go...!
 1008001001310040,霧子,"……お、おいしい……ですか？
-の、飲んでくださって……ありがとうございます……","I-Is it...tasty? 
-T-Thank you...for drinking it..."
+の、飲んでくださって……ありがとうございます……","I-Is it... tasty? 
+T-Thank you... for drinking it..."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1008001001310050,霧子,"野菜不足……ですか……？
-そ、それは心配です……",You haven't...been eating too many vegetables...? T-that's worrying...
+そ、それは心配です……","You haven't... been eating too many vegetables...?
+T-That's worrying..."
 1008001001310060,霧子,"よければ……明日もスムージー、
-作ってきますね……",If you don't mind...I'll make you a smoothie tomorrow...too...okay?
+作ってきますね……","If you don't mind... I'll make you a smoothie
+tomorrow... too... okay?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1008001001310070,霧子,"す、すみません……
-変色……してしまいました……",I-I'm so sorry...the color...ended up being weird...
+変色……してしまいました……",I-I'm so sorry... the color... ended up being weird...
 1008001001310080,霧子,"中に入ってるのは……
-普通のお野菜ですけど……","But, um...I only put normal vegetables...in it..."
+普通のお野菜ですけど……","But, um... I only put normal vegetables... in it..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100800100131.json,
 Translator,萌え豚,

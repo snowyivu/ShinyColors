@@ -1,11 +1,12 @@
 id,name,text,trans
 1013001001210010,夏葉,"プロデューサー、
-アナタ用のトレーニングメニューを考えてきたのだけど……","Producer, I was working on a work out routine for you, but..."
+アナタ用のトレーニングメニューを考えてきたのだけど……","Producer, I was working on a work out routine for
+you, but..."
 0000000000000,プロデューサー,え？　わざわざ考えてきてくれたのか？,Huh? You went out of your way to make one for me?
 1013001001210020,夏葉,"なかなか成果が出ないって言ってたじゃない？
 だから何か手伝えないかと思って","Didn't I say that results don't come easy?
 I thought I could help you out."
-0000000000000,プロデューサー,（トレーニングのこと気にしてくれていたのか……）,(She cares this much about helping me excercise...)
+0000000000000,プロデューサー,（トレーニングのこと気にしてくれていたのか……）,(She cares this much about helping me exercise...)
 select,,あれから俺も考えてみた,"I've been thinking
 about this, too."
 select,,早速やってみるよ,"I'll try it as
@@ -14,7 +15,8 @@ select,,ハードだな,"I bet it's
 harsh."
 1013001001210030,夏葉,"プロデューサーも色々考えていたのね！
 なるほど……悪くないわ、これをベースにしましょうか","So you've been thinking about it as well!
-Let's see here... This isn't bad. Let's use this as a base."
+Let's see here... This isn't bad. Let's use this as
+a base."
 1013001001210040,夏葉,"やる気になってくれたみたいでうれしいわ
 この調子で頑張りましょう！","I'm glad to see you're so motivated.
 Let's keep this up!"

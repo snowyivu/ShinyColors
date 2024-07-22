@@ -1,39 +1,38 @@
 id,name,text,trans
-0000000000000,プロデューサー,そんなにそわそわして、どうしたんだ？,What's wrong? You're being so restless.
+0000000000000,プロデューサー,そんなにそわそわして、どうしたんだ？,What's wrong? You seem pretty restless.
 1015001001510010,甜花,"プロデューサーさん……えっと……
-この間、なーちゃんと千雪さんと、お話しててね……","Producer... Um...
-This one time, with Naa-chan and Chiyuki, we had a talk..."
+この間、なーちゃんと千雪さんと、お話しててね……","Producer-san...... Um...... This one time... Tenka was
+talking with Naa-chan and Chiyuki-san......"
 1015001001510020,甜花,"一緒にお出かけしようって、約束したんだ……
-にへへ……楽しみ……","We promised that we would take a stroll together...
-Nihehe... So fun..."
-0000000000000,プロデューサー,そうか、あのふたりと……,"I see, with those two..."
-select,,嬉しそうだな,You look happy.
+にへへ……楽しみ……","We promised that... we'd all go out together......
+Nihehe...... It sounds so fun......"
+0000000000000,プロデューサー,そうか、あのふたりと……,"I see, an outing with them..."
+select,,嬉しそうだな,You seem happy.
 select,,"仕事のスケジュール
-調整しておくよ","I'll adjust the
-work schedule
-for you."
-select,,騒がれないようにな,"Don't make a
-commotion."
+調整しておくよ","Let's adjust the
+work schedule."
+select,,騒がれないようにな,"Don't get too
+rowdy."
 1015001001510030,甜花,"うん……ふたりと一緒だと……
-すごく、楽しいから……","Yes... Together with those two.
-It'll be really fun..."
+すごく、楽しいから……","Yeah...... Because... it's reallly fun...
+being with the two of them......"
 1015001001510040,甜花,"今度のお出かけも……
-すごく、楽しみ……にへへ……","And this outing too,
-Surely, will be fun... Nihehe..."
+すごく、楽しみ……にへへ……","So... Tenka's really... looking forward to...
+this outing too......"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1015001001510050,甜花,"ありがとう……
-プロデューサーさん……","Thank you...
-Producer..."
+プロデューサーさん……","Thanks...
+Producer-san......"
 1015001001510060,甜花,"お出かけのためにも……
-お仕事、頑張る……","For the sake of the stroll too...
-Tenka, will do her best at work..."
+お仕事、頑張る……","Tenka's gonna... work super hard......
+So that the outing can happen......"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1015001001510070,甜花,"騒がれ……？
-……あ、甜花たち、アイドルだもんね……","Commotion?
-...Ah, because we are idols,"
+……あ、甜花たち、アイドルだもんね……","Rowdy......?
+...Oh... right, because we're all idols......"
 1015001001510080,甜花,"それじゃ……いつもと違う服とか、着たほうがいいかな……
 あとは……サングラスとか、マスクとか……？","Well then... Maybe we should change our outfits...
-And also... maybe wear sunglasses, and a mask too?"
+And also... maybe wear sunglasses... and a mask too?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/101500100151.json,
 Translator,,

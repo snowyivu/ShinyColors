@@ -3,8 +3,9 @@ id,name,text,trans
 ……考え事？","Ah, Producer...
 Thinking about something?"
 0000000000000,プロデューサー,"おはよう、夏葉
-今度の休みの日は何をしようかと思って","Good morning, Natsuha
-I was just thinking of what to do on my next vacation."
+今度の休みの日は何をしようかと思って","Good morning, Natsuha.
+I was just thinking of what to do on my
+next vacation."
 1013001000410020,夏葉,することがないなら、トレーニングでもしなさい？,"If you don't have anything to do,
 why not get in some excercise?"
 0000000000000,プロデューサー,そうだな……,I see...
@@ -16,7 +17,8 @@ select,,俺にできるかな,"I wonder if I'm
 be capable of that"
 1013001000410030,夏葉,"まずは、ランニングね！
 全身を使う運動は欠かせないわ！","First, you should try running!
-It's a fundamental excercise that uses your whole body"
+It's a fundamental exercise that uses your
+whole body."
 1013001000410040,夏葉,"ジムに通うのもいいとは思うんだけど
 時間を考えれば……いえ、やっぱり……","Going to a gym might be good to, but
 considering the timeframe... No, after all..."
@@ -25,9 +27,9 @@ considering the timeframe... No, after all..."
 その意気よ！","Such an energetic response
 That's the spirit!"
 1013001000410060,夏葉,やる前からあれこれ考えていたって、仕方ないものね,"But before you start, there are a few things
-that you have to take into consideration"
+that you have to take into consideration."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1013001000410070,夏葉,そういうことは、考えてもどうにもならないわ,"If that's what you think, then I guess it's no use"
+1013001000410070,夏葉,そういうことは、考えてもどうにもならないわ,"If that's what you think, then I guess it's no use."
 1013001000410080,夏葉,プロデューサーがやりたいかやりたくないか、よ,Regardless of if you wanted to or not.
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101300100041.json,

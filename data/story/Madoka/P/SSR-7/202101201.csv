@@ -1,49 +1,48 @@
 id,name,text,trans
 0000000000000,プロデューサー,────２８３プロダクションです,─This is 283PRODUCTION.
 0000000000000,プロデューサー,"……いえ……ははっ
-こちらこそお世話に……","...Not at all...haha.
+こちらこそお世話に……","...Not at all... haha.
 The pleasure's ours..."
 0000000000000,プロデューサー,"……ああ、先日お送り頂いた件の……
 ……はい……ええ、ええ……","...Ahh, regarding the job brought up the other day...
-...Yes...yes, yes..."
+...Yes... yes, yes..."
 0000000000000,プロデューサー,……確定ですか！,"...Oh, It's confirmed?"
 0000000000000,プロデューサー,"改めて、樋口にオファー頂きありがとうございます……
-……はい！　詳細お待ちしています","Thank you so much for extending the offer to
-Higuchi. ...Yes! We'll await the details."
-0000000000000,プロデューサー,……早い返事がもらえてよかった,...Whew. Glad we got a reply that quickly.
-0000000000000,プロデューサー,よし、円香に……ええとスマホ……,"Alrighty, time to inform Madoka... Hmm now where's
+……はい！　詳細お待ちしています","Thank you so much for the offer to Higuchi. 
+...Yes! We'll await the details."
+0000000000000,プロデューサー,……早い返事がもらえてよかった,...Whew. Glad they called us back quickly.
+0000000000000,プロデューサー,よし、円香に……ええとスマホ……,"Alrighty, now to inform Madoka... Hmm now where's
 my smart phone..."
 0000000000000,プロデューサー,『お疲れ様────』,『Good work today──』
 2021012010010,円香,お疲れ様です,Same to you.
-0000000000000,プロデューサー,……っおお、丁度良か────,"... Uooh, great timing──"
+0000000000000,プロデューサー,……っおお、丁度良か────,"...Uooh, great timing──"
 0000000000000,プロデューサー,"～～い、っ……はは
-悪い、つい勢い余って……","~~the gist of it, ... haha.
+悪い、つい勢い余って……","~~. and that's the gist of it, ... haha.
 Oops, sorry I went on and on..."
 2021012010020,円香,………………,......
-2021012010030,円香,……それでは,"...Well, I'm head out."
+2021012010030,円香,……それでは,"...Well, I'm heading out."
 0000000000000,プロデューサー,"────待ってくれ、もう出るのか？
 レッスンにはまだ少し早いと思うが","──Wait, you're going already?
 I thought that the lesson would be a little later."
 2021012010040,円香,"……何？
 急ぎの話でもなければ、後にしてもらえますか","...What is it then? If it's nothing urgent, 
-I'd prefer to hear about it later."
+can we talk about it later?"
 0000000000000,プロデューサー,"それだと遅くなるだろう
 夜は出来るだけ早く帰すようにしたい","But wouldn't that end up really late?
 It'd be better if you can go home earlier at night."
 2021012010050,円香,まあ……少しであれば,Okay... If you can be quick about it.
-2021012010060,円香,机の上に置きざらしのカップ麺に免じて,"Considering you've abandoned your cup noodles
-on the table."
+2021012010060,円香,机の上に置きざらしのカップ麺に免じて,"Considering that you've abandoned your cup
+noodles on the table."
 0000000000000,プロデューサー,あ、忘れてた……！,"Ah, I forgot about that...!"
 0000000000000,プロデューサー,"ああ……もう、汁はないけど……
-食べごたえは増したかな……ははは","Ahh... The noodles absorbed most of the soup and
-there's not much left... On the flip side maybe that'll
-taste better... hahaha"
+食べごたえは増したかな……ははは","Ahh... Most of the soup got absorbed by the noodles
+and there's not much left... On the flip side that
+might taste better... hahaha"
 2021012010070,円香,…………,......
 0000000000000,プロデューサー,"はは……
-みっともないところを見せて悪い","Haha...
-Sorry for showing an ugly sight."
+みっともないところを見せて悪い",Haha... Sorry for showing an unsightly side.
 0000000000000,プロデューサー,"ありがとう
-それほど時間は取らせないから","Anyways, thanks for staying.
+それほど時間は取らせないから","Anyways, thanks for hearing me out.
 It won't take long."
 2021012010080,円香,はい,Alright.
 0000000000000,プロデューサー,"前に仮押さえしていた予定があっただろう
@@ -67,21 +66,25 @@ after being held off for so long."
 どうせバラシだろうと思っていたので","No need to worry.
 I've assumed that it didn't work out anyways."
 select,,"そればかりは悪い、
-俺の力不足だ","Sorry things are turning out like
-this. I've not been good enough."
+俺の力不足だ","Sorry things are
+turning out like
+this. I've not
+done enough."
 select,,俺も自信はなかったけど,"Yeah, I wasn't
 confident as well."
-select,,夏は貴重だ,"Well, summer's important."
+select,,夏は貴重だ,"Well, the
+summer's important."
 2021012010110,円香,"傲慢では？
 使う側が使いたい人を選ぶだけなんだから","Overbearing, much?
 Those being used are chosen by those that
 want to use them afterall."
 0000000000000,プロデューサー,"そうだな……
-この縁だって、ほんの些細なきっかけや運かもしれない","I suppose so... This engagement could be just a
-small opportunity or some luck."
+この縁だって、ほんの些細なきっかけや運かもしれない","I suppose so... This engagement could just be a
+small opportunity or a stroke of luck."
 0000000000000,プロデューサー,"だけど俺の仕事は、その些細なきっかけや運を、
 なるべく多く引き寄せることだと思うんだ","But I think that its my job to take those small
-opportunities and luck, and bring more in."
+opportunities and luck, and bring more of
+them in."
 2021012010120,円香,…………,......
 0000000000000,プロデューサー,だから、もっと頑張るよ,"That's why, I'll try even harder."
 2021012010130,円香,はいはい,"Yeah, yeah."
@@ -94,14 +97,14 @@ It is getting quite late."
 0000000000000,プロデューサー,"あ、そうだよな……！
 それじゃ詳細はチェインで送っておくから","Ah, right...!
 I'll send the details through chain then."
-2021012010160,円香,……失礼します,... And you'll excuse me.
+2021012010160,円香,……失礼します,...And you'll excuse me.
 0000000000000,プロデューサー,んー…………,Hmmー......
 0000000000000,プロデューサー,……これはこれで,...And that's that.
 0000000000000,プロデューサー,"これまでの活動でいい評価をもらえているから
-それが縁を繋いでくれているのかなって","We've gotten good reviews for jobs we've
-engaged so far, and perhaps they've helped us
-make some connections."
-0000000000000,プロデューサー,そう思うよ,I think. Maybe.
+それが縁を繋いでくれているのかなって","But the jobs we've engaged so far have gained us
+good repute, and perhaps this one might have
+been linked to one of those."
+0000000000000,プロデューサー,そう思うよ,"Yeah, I think so."
 2021012010170,円香,…………,......
 2021012010180,円香,"……そうですか
 それならよかったですね","...Is that so.
@@ -113,35 +116,37 @@ It is getting quite late."
 0000000000000,プロデューサー,"あ、そうだよな……！
 それじゃ詳細はチェインで送っておくから","Ah, right...!
 I'll send the details through chain then."
-2021012010200,円香,……失礼します,... And you'll excuse me.
+2021012010200,円香,……失礼します,...And you'll excuse me.
 0000000000000,プロデューサー,"（円香が結果を出してくれているんだ
-自信がなかったとか言うべきじゃないな）","(Madoka's been showing results.
-Expressing my uncertainty sure was uncalled for)"
+自信がなかったとか言うべきじゃないな）","(Madoka's been showing good results. I really
+shouldn't be speaking out my insecurities in
+front of her)"
 0000000000000,プロデューサー,んー……,Hmmー...
-0000000000000,プロデューサー,……そば飯にしてみるか,...Wanna try some sobameshi?
+0000000000000,プロデューサー,……そば飯にしてみるか,"...Wanna try some sobi fried rice while we're
+there?"
 0000000000000,プロデューサー,"休暇に合わせて稼働が多くなるこの季節を
-無駄にはしたくない","It'll be a waste to miss such seasonal jobs that
+無駄にはしたくない","It'd be a waste to miss such seasonal jobs that
 coincide with the holidays."
 2021012010210,円香,"あつ……
-冷房効いてます？","It'll be hot though...
+冷房効いてます？","It'll be hot there...
 Will there be air conditioning?"
 0000000000000,プロデューサー,"……そうだ、夏祭りは当然外で過ごすことになるから
-熱中症対策はしておかないとな","......Yeah. The summer festival will obviously be
-outdoors, so we should take precautions against
-any heat injuries."
-0000000000000,プロデューサー,もちろん先方も気を遣ってくださるとは思うが,"Of course, surely the other party will consider
-that as well."
+熱中症対策はしておかないとな","......Oh yeah. The summer festival will obviously be
+outdoors, so we should take some precautions
+against heat injuries."
+0000000000000,プロデューサー,もちろん先方も気を遣ってくださるとは思うが,"I'm sure that the organizers would consider that
+as well."
 2021012010220,円香,わかりました,Understood.
 2021012010230,円香,"話は終わりましたよね
 行きます……レッスンの時間なので","I suppose we've finished talking.
 I'm heading out... It's time for the lesson."
 0000000000000,プロデューサー,"ああ、時間を取らせて悪かったな
-詳細は送っておくよ","Agh, I'm sorry for taking your time.
+詳細は送っておくよ","Agh, I'm sorry for taking up your time.
 I'll send over the details."
 2021012010240,円香,……失礼します,...And you'll excuse me.
-0000000000000,プロデューサー,……夏祭りか,"...Summer festival, huh."
+0000000000000,プロデューサー,……夏祭りか,"...A summer festival, huh."
 0000000000000,プロデューサー,"（懐古心をくすぐられるからか、
-仕事とはいえ、なんだか浮き立つなあ）","(Maybe it's making me nostalgic, but I'm in a
-festive mood despite it being work)"
+仕事とはいえ、なんだか浮き立つなあ）","(Maybe it's making me nostalgic, but despite it
+being work, I'm feeling a little festive)"
 info,produce_events/202101201.json,
 Translator,Mycstea,

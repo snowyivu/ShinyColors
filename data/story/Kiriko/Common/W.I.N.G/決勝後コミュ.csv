@@ -1,21 +1,23 @@
 id,name,text,trans
 6008001060010,霧子,"プロデューサーさん……
 わ、わたし、やりました……","Producer-san...
-I...I did it..."
-6008001060020,霧子,優勝……してしまいました……！,I...won...!
+I... I did it..."
+6008001060020,霧子,優勝……してしまいました……！,I... won...!
 0000000000000,プロデューサー,"おめでとう
 最高のステージだったよ",Congratulations. You were at your best today.
 6008001060030,霧子,"はい……！　みんなが笑顔で楽しそうにしてくれて、
-そしたらわたしも楽しくて……！","Yeah...! Everyone was smiling so brightly, having so much fun...and then...I also, really had tons of fun..."
+そしたらわたしも楽しくて……！","Yeah...! Everyone was smiling so brightly, having so
+much fun... and then... I also, really had tons of fun..."
 0000000000000,プロデューサー,"俺もだよ
-すごく楽しかった","That goes for me, too. I really, really enjoyed it."
+すごく楽しかった","That goes for me, too.
+I really, really enjoyed it."
 6008001060040,霧子,"プロデューサーさん……
 ありがとう……ございます","Producer-san...
 Thank you...so much."
 6008001060050,霧子,"わたし……
 あんなにたくさんの人に喜んでもらえて……本当に","I...
 Making so many people happy...I..."
-6008001060060,霧子,ア、アイドルになって……よかったです……！,I'm so glad...I became an idol...!
+6008001060060,霧子,ア、アイドルになって……よかったです……！,I'm so glad... I became an idol...!
 0000000000000,プロデューサー,"……よく頑張ったな、霧子
 本当に……！","...You really did your best, Kiriko. I'm so proud of you...!"
 info,produce_events/600800106.json,

@@ -4,18 +4,21 @@ id,name,text,trans
 They're so wonderful..."
 0000000000000,プロデューサー,（参加者のパフォーマンスが気になるみたいだな）,(Seems like she's curious about the other participants...)
 select,,"たくさん練習して
-ここまで来たんだぞ","We got here by practicing just as much, if not more, than everyone else."
+ここまで来たんだぞ","But we got here
+by practising lots,
+if not more."
 select,,霧子も負けてないぞ,"You won't lose, Kiriko."
 select,,不安か？,Are you worried?
 4008001000220020,霧子,"はい……わたしも、負けないくらい練習しました……
-だから……負けません……",Yeah...I practiced so much...I'm sure...I won't lose...
+だから……負けません……",Yeah... I practiced so much... I'm sure... I won't lose...
 0000000000000,プロデューサー,（よし！　気合いが入ったな！）,(Alright! Seems like she's motivated now!)
 4008001000220030,霧子,"……ありがとうございます……わ、わたし……
-弱気だったかも……です……！","...Thank you...I, um...I was just feeling...a little down...!"
+弱気だったかも……です……！","...Thank you... I, um... I was just feeling... a little down...!"
 0000000000000,プロデューサー,（この調子なら、戦えるな！）,(Seems like she's ready to fight for that win now!)
 4008001000220040,霧子,"え、と……やれることはやってきました……
-だ、大丈夫……です……",Umm...I did everything I could have...I-I...I'm fine...
+だ、大丈夫……です……",Umm... I did everything I could have... I-I... I'm fine...
 0000000000000,プロデューサー,"（まだ不安そうだな……
-   違う言葉をかければよかったか……）","(She doesn't look fine...I should've said something else, instead...)"
+   違う言葉をかければよかったか……）","(She doesn't look fine... I should've said something
+else, instead...)"
 info,produce_communication_cheers/400800100022.json,
 Translator,萌え豚,

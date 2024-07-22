@@ -314,8 +314,8 @@ evolution.confirm.title,特訓確認,Confirm Evolve
 evolution.confirm.comment,選択した対象を消費して、特訓をします。\nよろしいですか？,Consume the selected card and evolve.\r\nAre you sure?
 evolution.complete.title,特訓結果,Evolve Result
 evolution.complete.comment,特訓が完了しました！,Evolution Complete!
-evolution.costumeRelease.first,最大まで特訓したことによって\n,By evolving to the maximum\r\n
-evolution.costumeRelease.second,の衣装に\n変更可能になりました！,s costume\r\nwill be unlocked!
+evolution.costumeRelease.first,最大まで特訓したことによって\n,"By evolving to the maximum,\r\n"
+evolution.costumeRelease.second,の衣装に\n変更可能になりました！, 's costume\r\nhas been unlocked!
 fes.top.title,フェス,FES
 fes.top.scoreTitle,現在のスコア,Current Score
 fes.top.rankingTitle,グレード内順位/,Grade Pos
@@ -894,7 +894,7 @@ shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,Exchanged fo
 shop.currencyLabel.jewelType.billedJewel,有償,Paid
 shop.currencyLabel.jewelType.freeJewel,無償,Free
 shop.expireDate,【交換期限】%{closeAt}まで,[Ends] Collect by %{closeAt}
-shop.noShopItem,交換可能なアイテムがありません。,There are no exchangeable items
+shop.noShopItem,交換可能なアイテムがありません。,There are no exchangeable items.
 recycleShop.tradeConfirmation.title,交換確認,Exchange Confirmation
 recycleShop.tradeConfirmation.message,以下のアイテムを交換しますか？,Do you want to exchange these items?
 recycleShop.purchaseResult.title,交換結果,Exchange Results
@@ -914,7 +914,7 @@ skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、�
 skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit, regular outfit is not affected."
 skinKind.plain,私服衣装,Regular Outfit
 skinKind.concert,ライブ衣装,Live Outfit
-specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Replay
+specialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Playback
 specialCommunication.confirmationComment,%{title}\nが再生できます。\n\n再生しますか？,You can watch\r\n%{title}。\r\n\r\nWatch this?
 specialCommunication.achievementRewardDialogTitle,スペシャルコミュ再生報酬,Special Commu View Reward
 speaker.producer,プロデューサー,Producer
@@ -975,9 +975,9 @@ twitter.postDialog.staticHashTag,#シャニマス #idolmaster,#シャニマス #
 twitter.tweetSuccessDialog.title,投稿完了,Complete Post
 twitter.tweetSuccessDialog.description,投稿が完了しました,Post has been completed
 twitter.tweetFailedDialog.title,エラー,Error
-twitter.tweetFailedDialog.description,投稿に失敗しました\nもう一度投稿するか再度認証を行ってください,投稿に失敗しました\nもう一度投稿するか再度認証を行ってください
+twitter.tweetFailedDialog.description,投稿に失敗しました\nもう一度投稿するか再度認証を行ってください,Failed to post Tweet.\nPlease try posting or autheticating again.
 twitter.tweetFailedLimitRateDialog.title,エラー,Error
-twitter.tweetFailedLimitRateDialog.description,ゲーム全体でのツイート数が\nTwitterの制限に達しているため\nツイートすることができません\n\nしばらく時間を置いてお試しください,ゲーム全体でのツイート数が\nTwitterの制限に達しているため\nツイートすることができません\n\nしばらく時間を置いてお試しください
+twitter.tweetFailedLimitRateDialog.description,ゲーム全体でのツイート数が\nTwitterの制限に達しているため\nツイートすることができません\n\nしばらく時間を置いてお試しください,Unable to post since the\nno. of tweets in the game has\nreached Twitter's limit.\n\nPlease try again later.
 useBanaCoinPop.title,使用確認,Confirm Use
 useBanaCoinPop.checkDescription,enzaポイントをバナコインに変換する,Convert Enza Points to Banacoins.
 workActivityTop.motivationLevel,モチベーションボーナス %{motivationLevel},Motivation Bonus %{motivationLevel}
@@ -1088,14 +1088,14 @@ lotteryResult.rankRewardCount,×%{rankRewardCount},×%{rankRewardCount}
 mission.receiveDateLimit,【受取期限】%{closeAt}まで,Collect by %{closeAt}
 mission.notJoined,未参加です,Not Participating
 errorDialog.offline,通信中にオフラインになりました。\nネットワーク環境をご確認の上、\nページの再読み込みをお試しください。,"You are currently offline.\nPlease check your network connection,\nand then reload the page."
-gameEvent.eventEnded,イベント開催期間は終了しました,The event period has ended
+gameEvent.eventEnded,イベント開催期間は終了しました,The event period has ended.
 announce.eventNotice,イベント予告,Event
 announce.songInfo,楽曲情報,Song Info
 evolution.reward.title,解放,Unlock
 evolution.reward.header,%{name}を\n%{times}回特訓したため,%{name}\nwill Evolve %{times} times
 evolution.reward.getTitle,・特訓称号,・Evolve Title
 evolution.reward.getVoiceHeader,・特訓ホームボイス,・Evolve Home Voice Line
-evolution.reward.footer,が解放されました。,has been unlocked. 
+evolution.reward.footer,が解放されました。,has been unlocked.
 gasha.campaignGashaSubtitle,キャンペーンガシャ提供割合,Campaign Gacha Drop Rate
 gasha.campaignGashaSubtitleIdol,キャンペーンガシャの提供アイドル一覧,Campaign Gacha Idol List
 gasha.stepupTimes.step3,%{times}連ガシャ,%{times} Step Gacha
@@ -1171,7 +1171,7 @@ raidReward.receiveAll.itemNameNum,%{type} ×%{num},%{type} ×%{num}
 raidReward.popReceive.title,報酬受け取り,Reward Received
 raidReward.popReceive.comment,以下の報酬を受け取りました,Received these Rewards
 raidExceptionPop.title,コラボフェス,Collab Fes
-raidExceptionPop.closeEventText,コラボフェスは終了しました,Collab Fes has ended
+raidExceptionPop.closeEventText,コラボフェスは終了しました,Collab Fes has ended.
 raidExceptionPop.closeHallText,%{name}の\n盛り上がりが最高潮に達しました\n\n他のステージを盛り上げに行ってみましょう！,%{name}'s\nexcitement is maxed out.\n\nLet's participate in a different stage!
 characterAlbum.commu.albumType.birthday_event,誕生日,Birthday
 characterAlbum.commuDetailPop.notice,%{itemName}での解放は%{date}より可能です,Unlocked with %{itemName} after %{date}
@@ -1426,7 +1426,7 @@ gameEvent.presentEventSchedule.schedule,%{closeAt}まで,Ends %{closeAt}
 gameEvent.presentEvent.givePresentDialog.text,自然回復の上限を超えて回復します,Recover about the regular limit
 gameEvent.presentEvent.releaseRewardCommuDialog.title,スペシャルコミュ解放,Special Commu Unlocked
 gameEvent.presentEvent.releaseRewardCommuDialog.text,【%{firstName}】からプレゼントがもらえる\nスペシャルコミュが解放されました,Receive a present from 【%{firstName}】\nA special commu will be unlocked
-gameEvent.presentEvent.spCommuPlayConfirmPop.title,スペシャルコミュ再生確認,Re-watch Special Commu
+gameEvent.presentEvent.spCommuPlayConfirmPop.title,スペシャルコミュ再生確認,Confirm Special Commu Playback
 gameEvent.presentEvent.spCommuPlayConfirmPop.rewardCommuTitle,【%{firstName}】からのプレゼントコミュ,%{firstName}'s Present Commu
 gasha.skinRate,%{rate}%,%{rate}%
 gasha.instantLottery.popReward.title,スピードくじ,Speed Lotto
@@ -1436,7 +1436,7 @@ header.idolRoad,アイドルロード,Idol Road
 header.presentEvent,2019クリスマス特設ページ,Special 2019 Xmas Page
 album.campaignOpenDateMsg,%{openDateTime}よりコミュ解放,Commus Avail From %{openDateTime}
 mission.eventEnded,イベント終了,Event Over
-option.homeContent.title.touch,コミュニケーションタッチ判定,Decide Communcation Touch
+option.homeContent.title.touch,コミュニケーションタッチ判定,Decide Communication Touch
 option.homeContent.title.idolPrank,アイドルからのイタズラ,Idol Prank
 option.homeContent.prank.unreleased,未解放,Unavailable
 option.homeContent.prank.sealed,設定可能なアイドルがいません\n「2019ハロウィンのおかし」を使用すると\nイタズラ機能が解放されます,設定可能なアイドルがいません\n「2019ハロウィンのおかし」を使用すると\nイタズラ機能が解放されます
@@ -1471,7 +1471,7 @@ idolRoad.rewardDetail.title.name,専用称号『%{titleName}』x１,"Exclusive T
 idolRoad.rewardDetail.title.comment,%{charName} 専用称号『%{titleName}』を獲得,"Receive %{charName}'s exclusive title ""%{titleName}"""
 idolRoad.rewardDetail.supportIdol.comment,%{rarityText}サポートアイドルです,%{rarityText} Support Idol
 idolRoad.evolutionStageUnlockPop.title,特訓数増加,Evolve Rank Increase
-idolRoad.evolutionStageUnlockPop.message,アイドルロードの進行によって\n特訓段階が増加しました,By moving forward on the Idol Road\nyour idol's evolve rank increased
+idolRoad.evolutionStageUnlockPop.message,アイドルロードの進行によって\n特訓段階が増加しました,"By moving forward on the Idol Road,\nyour idol's evolve rank increased!"
 idolRoad.evolutionStageNotEnoughPop.title,特訓数不足,Not Evolved Enough
 idolRoad.evolutionStageNotEnoughPop.message1,特訓数が足りていない為\nアイドルロードを進行することが出来ません,Unable to progress on Idol Road because\nthe evolution is not high enough.
 idolRoad.evolutionStageNotEnoughPop.message2,%{idolName}\nの特訓数を4まで上昇させる事で\nアイドルロードの進行が可能になります,You'll be able to progress on Idol Road once\n%{idolName}'s\nevolution is increased to 4 stars.
@@ -1479,11 +1479,11 @@ idolRoad.produceAttentionPop.title,アイドルロード進行不可,Can't Advan
 idolRoad.produceAttentionPop.message1,%{idolName}\nは現在プロデュース中の為\nアイドルロードを進行させることが出来ません,%{idolName}\nis currently being Produced.\nCan't progress on Idol Road.
 idolRoad.produceAttentionPop.message2,プロデュースを完了するか\nプロデュースを終了してください,Please end the Produce run\nor complete it.
 idolRoad.rarityUpPop.title,レアリティ上昇,Rarity Increased
-idolRoad.rarityUpPop.message,アイドルロードの進行によって\nレアリティが上昇しました,By moving forward on the Idol Road\nyour idol's rarity increased
+idolRoad.rarityUpPop.message,アイドルロードの進行によって\nレアリティが上昇しました,"By moving forward on the Idol Road,\nyour idol's rarity increased!"
 idolRoad.trustLimitUpPop.title,信頼度上限解放,Trust Limit Unlock
-idolRoad.trustLimitUpPop.message1,アイドルロードの進行によって,By moving forward on the Idol Road
+idolRoad.trustLimitUpPop.message1,アイドルロードの進行によって,"By moving forward on the Idol Road,"
 idolRoad.trustLimitUpPop.message2,[%{idolName}]の信頼度lv上限が%{limit},%{idolName}'s Trust Limit %{limit}
-idolRoad.trustLimitUpPop.message3,に上昇しました,has been unlocked.
+idolRoad.trustLimitUpPop.message3,に上昇しました,has been unlocked!
 idolRoad.roadRewardDetail.received,獲得済み,Received
 idolRoad.roadRewardDetail.notReceived,あとミッション%{count}個達成で到達,Reward from %{count} missions
 idolRoad.popReceive.title,アイドルロード進行報酬,Idol Road Progress Reward
@@ -1509,7 +1509,7 @@ tutorial.dialog.idolChoice.title,プロデュースアイドル確認,Confirm Id
 tutorial.dialog.idolChoice.message,%{name}で\nチュートリアルを開始しますか？,Start the tutorial with\n%{name}?
 tutorial.dialog.deckEdit.title,確認,Confirm
 tutorial.dialog.deckEdit.message,編成のチュートリアルを見ますか？,View the Team Setup Tutorial?
-tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,First please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol～
+tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,"First, please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol～"
 tutorial.unitDescription.1,小さな光を宿す少女たちで結成された、新世代のアイドルユニット。\n今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、\n一等星を目指して歩んでいく！,"A new-generation unit of girls, harboring a tiny light.\nAlthough their glow is faint, they will persevere together\nto shine even brighter and become shooting stars!"
 tutorial.unitDescription.2,胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、\n新世界の革命的アイドルユニット。\nゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。,"The smoldering flame in their hearts made into ""Song"",\nand the solitude in their tears turned into ""Prayer"".\nThey are a revolutionary unit of the New World.\nClad in Gothic dresses, they sing on for hope."
 tutorial.unitDescription.3,個性と個性がぶつかり合う全力系アイドルユニット。\n全身全霊でアイドル道を突き進む彼女達の姿こそ、クライマックスの証。\nファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す！！,"A full-power unit where their unique personalities clash.\nThey plunge forward on the path of an idol, with the proof\nof their devotion shown at the ""Climax"" of their performance.\nThese idols will engulf the world as they aim for the very top!!"
@@ -1639,7 +1639,7 @@ filter.texts.supportSkill.all,すべて,All
 filter.texts.liveSkill.includesUnacquired,未解放のライブスキルも含む,Include locked live skills
 filter.emptyMessage,該当するアイドルがいません。,There are no applicable idols.
 concert.statusEffect.timesAndTurn,残り%{leftTurn}ターン\n残り%{remainTimes}回,%{leftTurn} turns left\%{remainTimes} times
-gameEvent.playPrologueDialog.title,シナリオ再生確認,Confirm scenario playback
+gameEvent.playPrologueDialog.title,シナリオ再生確認,Confirm Scenario Playback
 gameEvent.playPrologueDialog.text,%{name}\n%{title}\nを再生しますか？,Watch %{name}\n%{title}?
 gameEvent.specialCommunicationsRemainingPlayCount,本日のプレイ回数：残り%{count},Today's remaining plays: %{count}
 idolList.emptyMessages.fesIdolEdit,所持しているアイドルがいません。,There are no owned idols.
@@ -1648,7 +1648,7 @@ idolList.emptyMessages.idolList,所持しているアイドルがいません。
 idolList.emptyMessages.training,所持しているアイドルがいません。,There are no owned idols.
 idolList.emptyMessages.evolution,特訓可能なアイドルがいません。,There are no idols that can be evolved.
 idolList.emptyMessages.workActivity,所持しているアイドルがいません。,There are no owned idols.
-option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,Cancel fast-forward when support idol\nskill cut-in occurs
+option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,Cancel fast-forward when\nsupport skill cut-in occurs
 option.homeContent.title.conversation,アイドル同士の会話,Conversations between idols
 idolDetail.skill.acquisitionLevel,Lv.%{level}で習得,Learned at Lv.%{level}
 produceHeader.concertSeason.fanMeeting,感謝祭,TFD
@@ -1682,7 +1682,7 @@ gasha.scoutGasha.possessedIdol,所持済,Owned
 gasha.scoutGasha.notPossessedIdol,未所持,Unowned
 homeDeckBGM,ホームユニットBGM,Home Unit BGM
 homeDeckBackgroundEffect,ホームユニットエフェクト,Home Unit Effect
-exSkill.unreleased,未解放,未解放
+exSkill.unreleased,未解放,Locked
 exSkill.produceExSkillCondition.title,[条件%{number}],[条件%{number}]
 exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Card Lv. %{requiredLevel}
 exSkill.produceExSkillCondition.supportIdol.evolution,特訓%{requiredEvolutionStage}回達成,Evolve %{requiredEvolutionStage} times
@@ -1698,9 +1698,9 @@ exSkill.noExSkill,Exスキルを\n所持していません,No Ex Skills owned \n
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
 exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}/%{totalKindNum}
 exSkill.upgradeConfirmPop.title,グレードアップ確認,Grade Up Review
-exSkill.upgradeConfirmPop.notice.lackTotalNum,現在のExスキルの所持数が不足しています,現在のExスキルの所持数が不足しています
-exSkill.upgradeConfirmPop.notice.lackUnsetNum,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください
-exSkill.upgradeConfirmPop.notice.limitOver,グレードアップ後のExスキルが所持上限に達しています,グレードアップ後のExスキルが所持上限に達しています
+exSkill.upgradeConfirmPop.notice.lackTotalNum,現在のExスキルの所持数が不足しています,Insufficient no. of currently owned Ex Skills.
+exSkill.upgradeConfirmPop.notice.lackUnsetNum,現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください,The current Ex Skill is missing. Please remove the Ex Skill currently set on the idol.
+exSkill.upgradeConfirmPop.notice.limitOver,グレードアップ後のExスキルが所持上限に達しています,The Ex Skills after Grade Up have reached the limit.
 exSkill.upgradeResultPopTitle,グレードアップ,Grade Up
 monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283 Pass Expiry Notice
 monthlyPassport.expireAlertPop.runningDays,%{runningDays}日,%{runningDays}d
@@ -1889,7 +1889,7 @@ option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択�
 option.fesTowerContentTitle.tensionPanelConfirmation,テンションパネル選択時に\n確認画面を表示,Prompt for tension\npanel selection
 option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低下している際に\n警告画面を表示,Show alert when\nstamina is low
 item.characterTrustLevelUp.text,アイドルとの信頼関係が更に深まった,アイドルとの信頼関係が更に深まった
-item.characterTrustLevelUp.notification,%{characterName} の信頼度がアップしました,%{characterName} の信頼度がアップしました
+item.characterTrustLevelUp.notification,%{characterName} の信頼度がアップしました,%{characterName} 's Trust has been increased!
 specialPresent.title,配布のお知らせ,配布のお知らせ
 produceHeader.concertSeason.landingPoint,単独ライブ,Solo Live
 produceMusicSelect.abilityDetailPop.title,アビリティ詳細,Ability Details
@@ -1931,13 +1931,13 @@ skillBord.enablePassiveSkillDeletionNotice.warning,削除したパッシブス�
 skillBord.deletePassiveSkillConfirmation.title,スキル削除確認,Confirm Skill Removal
 skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキルを削除しますか？,Would you like to remove this passive skill?
 skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,Deleted passive skills cannot be relearned and \r\nSP consumed in learning them will not be returned.
-characterSpecialCommunication.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
-characterSpecialCommunication.releaseConfirmationComment,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？
+characterSpecialCommunication.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Playback
+characterSpecialCommunication.releaseConfirmationComment,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？,Would you like to replay\n\n%{idolName} 's Special Commu?
 characterSpecialCommunication.dayLimitTitle,エラー,Error
 characterSpecialCommunication.dayLimitComment,本日の解放上限に達しています,Today's unlocking limit has been reached.
 characterSpecialCommunication.remainingPlayCount,本日の解放数： %{remaining}/%{max}回,Unlocked for Today: %{remaining}/%{max}
 characterSpecialCommunication.schedule,開催期限 %{startAt}〜%{closeAt},Event Period
-specialCommunicationSituation.confirmationTitle,スペシャルコミュ再生確認,スペシャルコミュ再生確認
+specialCommunicationSituation.confirmationTitle,スペシャルコミュ再生確認,Confirm Special Commu Playback
 specialCommunicationSituation.confirmationComment,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます
 tutorial.unitDescription.7,スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。,"A spicy & girly dance-pop unit.\nThe music won't stop. So shut up and listen.\nLet the BPM of your heart race, to create an unstoppable melody.\nA 1000-carat story unfolds, for I (she) became me (she)."
 workActivityRewardPop.unitLevelRewardTitle,報酬受け取り,Received Reward
@@ -2087,7 +2087,7 @@ filter.categories.voiceType,ボイス種別,Voice Type
 filter.categories.releaseCondition,解放状況,Release Condition
 filter.categories.jointFesArea,エリア,Area
 filter.categories.jointFesRewardFacilityItem,アイテム,Item
-filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,Aptitudes above the checked A Rank will be narrowed down.
+filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,Narrows down to cards with checked Aptitudes that have A Rank or above.
 filter.texts.possession,所持済み,Owned
 filter.texts.notPossessed,未所持,Unowned
 filter.texts.released,解放済み,Unlocked
@@ -2098,14 +2098,14 @@ filter.texts.aptitudes.environment,環境適性,Environment Aptitude
 filter.texts.costumeType.produceIdol,プロデュース\nアイドル衣装,Produce\nIdol
 filter.texts.costumeType.other,その他,Other
 filter.texts.mvIdol,MVあり,With MV
-possessionLimit,所持上限数,
+possessionLimit,所持上限数,Owned Limit
 characterAlbum.voiceType.home,ホームボイス,Home Voice
 characterAlbum.voiceType.idol,アイドルボイス,Idol Voice
 characterAlbum.voiceType.specialComment,スペシャルボイス,Special Voice
 characterAlbum.voiceType.produce,プロデュースボイス,Produce Voice
 characterAlbum.voiceType.touch,タッチボイス,Touch Voice
 characterAlbum.voiceType.characterTrustLevelComment,信頼度ボイス,Trust Voice
-characterAlbum.voiceType.mypageConversationComment,アイドル同士の会話,
+characterAlbum.voiceType.mypageConversationComment,アイドル同士の会話,Chats Between Idols
 common.fesIdol,フェスアイドル,Fes Idol
 common.facilityItem,施設強化アイテム,Facility Enhancement Item
 common.knowHowBook,ノウハウブック,Know-How Book
@@ -2114,9 +2114,9 @@ concert.judgeDetailDialog.interestingRatio,×%{value}倍,×%{value}
 concert.fightSkill.noFightSkillMessage,ファイトスキルがありません,No Fight Skills
 concert.skillChangeableCount,あと%{skillChangeableCount}回,
 autoConcertResult.unlockNotice,%{name}解放,
-possessionLimitDialog.title,所持上限オーバー,Owned limit exceeded.
+possessionLimitDialog.title,所持上限オーバー,Owned limit has exceeded.
 possessionLimitDialog.message,所持上限を超えているため\n移籍/売却をするか上限枠を解放してください,Owned limit exceeded.\nPlease transfer/sell or increase the slot limit.
-possessionLimitExpansion.confirmTitle,解放確認,
+possessionLimitExpansion.confirmTitle,解放確認,Unlock Confirmation
 possessionLimitExpansion.confirmMessage.fesIdolUpperLimit,フェザージュエルを消費して\nフェスアイドルの所持上限を解放しますか？,Use Feather Jewels to\nunlock more Fes Idol slots?
 possessionLimitExpansion.confirmMessage.knowHowBookUpperLimit,フェザージュエルを消費して\nノウハウブックの所持上限を解放しますか？,Use Feather Jewels to\nunlock more Know-How Book slots?
 possessionLimitExpansion.jewelDetailMessage,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します
@@ -2219,11 +2219,11 @@ jointFesConcert.scoreInfo.result,最終結果,Final Results
 jointFesConcert.scoreInfo.skillEmptyText,発動スキル無し,No Active Skills
 jointFesConcert.scoreInfo.tapToScrollMessage,▲タームをタッチで該当のタームまでスクロールします▲,
 jointFesConcert.scoreDetailLabel.appealPoint,アピール値変換後ポイント,
-jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,Stage Level
-jointFesConcert.scoreDetailLabel.musicRate,楽曲補性,楽曲補性
-jointFesConcert.scoreDetailLabel.musicStyleRate,楽曲スタイル適性,楽曲スタイル適性
-jointFesConcert.scoreDetailLabel.performanceRate,パフォーマンス適性,パフォーマンス適性
-jointFesConcert.scoreDetailLabel.mentalRate,メンタル値補正,
+jointFesConcert.scoreDetailLabel.stageLevel,ステージLv,Stage Lv
+jointFesConcert.scoreDetailLabel.musicRate,楽曲補性,Music Aptitude
+jointFesConcert.scoreDetailLabel.musicStyleRate,楽曲スタイル適性,Music Style Aptitude
+jointFesConcert.scoreDetailLabel.performanceRate,パフォーマンス適性,Performance Aptitude
+jointFesConcert.scoreDetailLabel.mentalRate,メンタル値補正,Mental Value Effect
 jointFesConcert.scoreDetailLabel.fightSkillRate,発動スキルポイント補正,
 jointFesConcert.scoreDetailLabel.fightSkillPoint,発動スキルポイント加算,
 jointFesConcert.bonusScoreLabel.badAppeal,ライブスキル発動（bad）×%{count},Live Skill Activation（bad）×%{count}
@@ -2239,8 +2239,8 @@ jointFesConcert.bonusScoreLabel.bonusTotalPoint,ボーナスポイント合計,T
 musicSelect.playMvDialog.title,MV再生,Play MV
 musicSelect.playMvDialog.message,再生するMVを選択してください,Select an MV to play
 musicSelect.mvSettingDialog.title,詳細設定,Detailed Settings
-musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,
-musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,
+musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,Select a song or MV
+musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,Another ver. will be unlocked after the card's 4th Evolve.
 photoMotionDialog.title,ポーズ指定,
 photoMotionDialog.message,アイドルに呼びかけてポーズを取ってもらうことができます,
 photoBootFailDialog.title,カメラの許可,
@@ -2253,7 +2253,7 @@ photo.option.frame,フレーム,Frame
 produceReady.produceAreaAttension.title,注意事項,
 shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,Train Pt
 shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,Match Live Pt
-shop.purchaseResult.expansionMessage,%{item}の所持上限を解放しました,
+shop.purchaseResult.expansionMessage,%{item}の所持上限を解放しました,%{item}'s owned limit has been increased.
 shop.smallTabTitles.premium.beginners,新人P向け,For New P
 shop.monthlyPassport.price,%{price}円,%{price} yen
 shop.monthlyPassport.dailyRewardPop.title,ログイン報酬,Login Rewards

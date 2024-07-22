@@ -1,7 +1,7 @@
 id,name,text,trans
 4026001000110010,ルカ,──────……,──...
 0000000000000000,プロデューサー,"（ずっと黙ったままだな……
-何か声をかけた方がいいだろうか）","(You've been silent the whole time...
+何か声をかけた方がいいだろうか）","(She has been silent the whole time...
 Should I say something?)"
 select,,"（いや、
 そっとしておこう）","(No, let's
@@ -12,7 +12,7 @@ select,,"緊張がほぐれる方法
 how to relax?"
 4026001000110020,ルカ,………………よし,... Alright.
 0000000000000000,プロデューサー,"（集中してたみたいだな
-いい感じだ）","(Looks like you were concentrating.
+いい感じだ）","(Looks like she was concentrating.
 Looking good.)"
 4026001000110030,ルカ,言われなくても,I don't need to be told.
 0000000000000000,プロデューサー,（うん……問題なさそうだ）,(Yeah... She seems fine.)

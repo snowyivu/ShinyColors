@@ -23,15 +23,14 @@ You've had time to observe your surroundings."
 0000000000000,プロデューサー,俺のモチベーションになったからさ,Cos you really motivated me.
 0000000000000,プロデューサー,"経験を積んだ……と言えるには
 まだまだかもしれないけど","I think I have some experience in life...
-Though that's probably too early for me to say."
+Though I'm probably too young to say that."
 0000000000000,プロデューサー,"これからもいい経験を円香にしてほしい
-させたいって思ったから","So I hope that I can help get you some good
+させたいって思ったから","But I hope that I can help get you some good
 ones too."
-2021012020050,円香,……そうですか,... Is that so.
+2021012020050,円香,……そうですか,...Is that so.
 2021012020060,円香,"まるで叙情的な舞台のような言い回し
-ステージはあちらですよ、役者さん","Your words are so lyrical it's like you're singing
-on a stage. If you're looking for it, it's right over
-there, sir actor."
+ステージはあちらですよ、役者さん","Your words are so lyrical it's like you're performing
+a play. The stage is right over there, sir actor."
 0000000000000,プロデューサー,"はは……
 とにかく、この調子なら当日も問題なさそうだ","Haha... Anyways, looks like everything will be fine
 if you keep this up."
@@ -40,19 +39,19 @@ if you keep this up."
 Apologies for the late greetings."
 0000000000000,プロデューサー,ああ、実行委員会の……！,"Ah, you're from the executive committee...!"
 0000000000000,プロデューサー,"町おこしの大事な行事に樋口を起用して頂き
-誠にありがとうございます","Thank you so much for appointing Higuchi 
-such an important task in your town renewal
-efforts."
+誠にありがとうございます","Thank you so much for appointing Higuchi  such an
+important task in your town renewal efforts."
 2021012020070,円香,"２８３プロダクションの樋口円香です
-精一杯務めさせて頂きますので、よろしくお願いします","I'm Madoka Higuchi of 283PRODUCTION.
-I will fulfil my duties to the best of my abilities."
+精一杯務めさせて頂きますので、よろしくお願いします","I'm Madoka Higuchi of 283PRODUCTION and I will do
+my best to live up to your appointment. Pleased to
+meet you."
 0000000000000,町おこし実行委員,"いやいや、そんなに固いもんじゃないから！
-せっかくなのでお祭りを楽しんでいってもらえれば","Now now, there's no need to be so stiff!
-You should have fun at the festival while you're here."
+せっかくなのでお祭りを楽しんでいってもらえれば","Now now, there's no need to be so formal! You should
+have fun at the festival while you're here."
 2021012020080,円香,お気遣いありがとうございます,Your kindness is greatly appreciated.
 0000000000000,町おこし実行委員,"あんまりアイドルとか詳しくなくて悪いんだけどさ
-ちゃんとした子でよかったよ","Wow, I don't know much about idols but,
-it's great that we've gotten someone proper, eh."
+ちゃんとした子でよかったよ","Well, I don't know much about idols but it's great
+that we've gotten a decent one, eh."
 2021012020081,円香＆プロデューサー,………………,......
 0000000000000,町おこし実行委員,"ここだけの話……最初に決まりそうだった子が
 なぁんかこう、感じが良くなくてねえ","Just between us... but the girl we first decided on
@@ -62,15 +61,16 @@ was like, giving off bad vibes."
 would be preferred over someone who's like,
 ultra sophisticated."
 0000000000000,町おこし実行委員,"こちらとしては若い子を呼んで
-若い世代が来てくれればいいわけだからね","We wanted to get someone young so that the
-younger generation will get drawn to come."
+若い世代が来てくれればいいわけだからね","We wanted to get someone young to draw the
+younger generation to attend."
 0000000000000,プロデューサー,……………………,......
 2021012020090,円香,"良いご縁を頂けたからには
-この町の魅力を同世代の方にも伝えられるよう","Being given this fabulous engagement to share the
-charm of this town to my generation,"
-2021012020100,円香,ご期待に添えるように、頑張ります,I'll try my best to live up to your expectations.
+この町の魅力を同世代の方にも伝えられるよう","Being given this fabulous engagement, I'll try my best
+to live up to your engagement,"
+2021012020100,円香,ご期待に添えるように、頑張ります,"And share the charm of this town to others of my
+generation."
 0000000000000,町おこし実行委員,"お、偉いね～
-期待してるよ！","Ooh. Very impressive~
+期待してるよ！","Ooh. Very impressive～
 I'll look forward to it!"
 0000000000000,プロデューサー,"……そう、そうですね……樋口にも
 若年層のファンはそれなりにいますし","...I-Indeed... Higuchi does have quite a number of
@@ -79,16 +79,16 @@ younger aged fans."
 きらきらしてて良いよねえ","Yep yep. Young kids are great!
 Being so sparkly and radiant."
 0000000000000,町おこし実行委員,"大人にはない、だけど誰もが通る
-青さを持ってて……うん、良いと思うよ","You don't see that in adults, but everyone goes
-through that stage. Having that youth... yeah,
-is a good thing."
-0000000000000,プロデューサー,（薄々分かっていたが、この人は……）,(I sort of understand it but this person...)
+青さを持ってて……うん、良いと思うよ","""You don't see that in adults, but everyone goes
+through that stage. Having that youth... yeah, it's a
+good thing."""
+0000000000000,プロデューサー,（薄々分かっていたが、この人は……）,(I can kinda understand it but this person...)
 select,,………………,......
-select,,きっと響きます,It'll surely resonate.
+select,,きっと響きます,"It'll surely
+resonate."
 select,,仰る通りです,It's as you said.
-0000000000000,プロデューサー,（ああ、早く聴いてほしい）,"(Aah, I want everyone to hear it)"
-0000000000000,プロデューサー,（俺が言葉を尽くすよりも、円香の歌を）,"(Rather than exhausting my breath with words, I'd
-like it if they could experience Madoka's singing)"
+0000000000000,プロデューサー,（ああ、早く聴いてほしい）,"(Aah, rather than waste my breath talking about it,)"
+0000000000000,プロデューサー,（俺が言葉を尽くすよりも、円香の歌を）,(I want them to listen to Madoka's song)
 0000000000000,町おこし実行委員,それじゃあ、楽しみにしてるからね！,"Well then, I'll look forward to your stage!"
 0000000000000,円香,…………,......
 2021012020120,円香,プロデューサー,Producer.
@@ -98,32 +98,29 @@ It's about time we get a move on."
 0000000000000,プロデューサー,（円香の魅力は、刹那的な魅力だけじゃない）,"(Madoka's charm, isn't something that's over in
 an instant)"
 0000000000000,プロデューサー,"若い世代だけではなく
-お越し頂いた皆様に……あなたにも","Her song will not only reach the younger
-generation, but to all who'll attend... 
-to you as well."
+お越し頂いた皆様に……あなたにも","Her song will not only reach the younger generation,
+but to all that are present... And to you as well."
 0000000000000,プロデューサー,……自信があります,...I'm sure of it.
 2021012020130,円香,…………,......
 0000000000000,町おこし実行委員,"そうかねえ
-お兄さんがそう言うなら楽しみにしてるよ","I see.
-Your words are so full of confidence that I'm
-looking forward to it."
+お兄さんがそう言うなら楽しみにしてるよ","I see. Your words are so full of confidence that I'm
+now looking forward to it."
 2021012020140,円香,"……チェックインの時間
 そろそろですよね","...I believe,
-its about time to check-in."
+it's about time to check-in."
 0000000000000,プロデューサー,"────っあ、そうだな……
 移動しようか","──Ah, right...
 We should get a move on."
 0000000000000,プロデューサー,"ただ、樋口円香の色、そして
-どんな風に煌めいているか","However, I wish for you to see it with your own
-eyes and experience it."
-0000000000000,プロデューサー,それはぜひその目で見て、感じて頂けたらと思います,"Madoka Higuchi's color, and how it
-shimmers."
-0000000000000,町おこし実行委員,おっ、挑戦的だね～,"Ooh, now that's a challenge~"
+どんな風に煌めいているか","However, I wish for you to see it with your own eyes
+and experience it."
+0000000000000,プロデューサー,それはぜひその目で見て、感じて頂けたらと思います,"Madoka Higuchi's color, and how it shimmers."
+0000000000000,町おこし実行委員,おっ、挑戦的だね～,"Ooh, now that's a challenge～"
 2021012020150,円香,"…………未熟ながら、
-……青いうちは柔軟さもあるので","......I may be inexperienced,
-...but in my youth, I'm also mouldable."
+……青いうちは柔軟さもあるので","......While I may be inexperienced,
+...My youth also makes me mouldable."
 2021012020160,円香,"町おこしの想いを汲んで、それを表現出来たらと
-……対応力も、少しは付いてきたようですし","Hopefully I can take in everyone's desire to renew
+……対応力も、少しは付いてきたようですし","Hopefully I can take upon everyone's desire to renew
 the town and express it properly... I'm apparently,
 getting better at reacting to situations."
 0000000000000,プロデューサー,（ははは……）,(Hahaha...)
