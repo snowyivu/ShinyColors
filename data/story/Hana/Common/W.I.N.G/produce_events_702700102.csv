@@ -1,0 +1,37 @@
+id,name,text,trans
+7902001020010,社長,"結果は聞いた
+……ここまでだったようだな","I heard the results.
+...It looks like this is the end."
+0000000000000,プロデューサー,……はい。目標には、届きませんでした,...Yes. We didn't reach the target.
+7901001020010,はづき,"『W.I.N.G.』はあらゆるアイドルが
+憧れるステージですからね",W.I.N.G. is a stage that all idols dream of.
+7901001020020,はづき,"道はとっても険しかった、
+ということなのでしょう……",It seems that the path there was too steep...
+0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I apologize for not producing results...
+7902001020020,社長,"……私たちに謝っている場合じゃない
+彼女が、お前を待っているだろう？","...This is not the time to apologize to us.
+The girl is waiting for you, isn't she?"
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
+0000000000000,プロデューサー,……行ってきます,...I'm off.
+0000000000000,プロデューサー,……羽那,... Hana.
+0000000000000,プロデューサー,一次審査、通過できなかったそうだ,We didn't pass the first season.
+7027001020010,羽那,そっかー……,I seeー...
+0000000000000,プロデューサー,"すまない
+俺が、もっとしっかりしていれば……","I'm sorry.
+If only I had been more reliable..."
+7027001020020,羽那,"えーっ
+プロデューサーのせいじゃないよ──！","Ehー
+It's not your fault, Producerー!"
+7027001020030,羽那,審査に落ちたのはあたしなんだし,I'm the one who failed to pass.
+0000000000000,プロデューサー,いや、だけど──,"No, but──"
+7027001020040,羽那,"それに、アイドルとして
+だめになったわけじゃないんだもん","Besides, it's not like I failed as an idol."
+0000000000000,プロデューサー,……！,...!
+7027001020050,羽那,"だから、落ち込んだりしないで
+これからもあたしのこと、支えてね？","So don't be discouraged.
+Please keep supporting me, okay?"
+0000000000000,プロデューサー,"……はは
+ああ、もちろんだよ。羽那","... Haha.
+Yeah, of course, Hana."
+info,produce_events/702700102.json,
+Translator,Burbur,

@@ -1,8 +1,8 @@
 id,name,text,trans
 0000000000000,番組ディレクター,──じゃあ、撮影始めていきまーす！,"──Alrighty, let's get the show on the road!"
 0000000000000,番組ディレクター,"撮り始めたらカメラ、回しっぱなしにするんで
-みんな自由にやってもらっていいからね！","Once we begin shooting, the camera will continue
-rolling, so feel free to do what you want!"
+みんな自由にやってもらっていいからね！","Once we begin shooting, the camera will keep rolling,
+so feel free to do what you want!"
 0000000000000,番組ディレクター,"ノクチルちゃんのいいとこ、
 存分に発揮しちゃって下さい！","Please showcase the best parts of yourselves,
 noctchill-chan!"
@@ -12,15 +12,14 @@ noctchill-chan!"
 We're looking forward to working with you."
 4001040030030,雛菜,"やは～
 自由にだって～！","Yaha～
-We're free to do what we want～!"
+They said we're free to do whatever we want～!"
 4001040030040,雛菜,何する～？,What should we do～?
 4001040030050,透,"ふふっ
 んー……","Hehe.
 Hmm..."
 0000000000000,番組ディレクター,"進行のカンペだけ出るから流れはそれに従ってね！
-──それでは回しまーす！","Just follow along accordingly when we show the
-cue card to move on, yeah?
- ──And we're rollin'!"
+──それでは回しまーす！","Just follow along accordingly when we show the cue
+card to move on, yeah?　 ──And we're rollin'!"
 4001040030060,透,えーと……,Eerm...
 4001040030070,透,"あ
 すいません","Ah, excuse me."
@@ -28,43 +27,43 @@ cue card to move on, yeah?
 カンペの","The words on the cue card.
 They're tiny."
 4001040030090,透,"『浅倉
-まずは写経を体験させていただきます』","『Asakura - First, we'll be experiencing the
-traditional practice of Shakyou.』(TL Note:
-It's a practice where devotees copy sutras)"
+まずは写経を体験させていただきます』","『Asakura - First, we'll undergo the traditional
+practice of Shakyou』(TL Note: It's a Japanese
+Buddhism practice where devotees copy sutras)"
 4001040030100,円香,それ、『浅倉』は読まなくていいやつ,"You don't need to read the ""Asakura"" part in that."
 4001040030110,透,"あー……
 ふふっ","Ahh...
 Hehe."
 4001040030120,円香,"『正しい作法を教えていただきながら実践し
-心を清め、成長を祈願していきます』","『While being taught on the proper etiquette,
-we'll try our hand at it, cleanse our heart, and
-pray for our growth.』"
-4001040030130,円香,『よろしくお願いします』,『Pleased to meet you.』
+心を清め、成長を祈願していきます』","『While being taught the proper etiquette, we'll
+try copying it, cleanse our heart, and pray for our
+growth』"
+4001040030130,円香,『よろしくお願いします』,『It'll be our pleasure to learn』
 0000000000000,寺院の職員,"──はい、ではご説明させていただきます
-よろしくお願い致します","──Hello. And I'll be providing the explanations.
-Pleased to meet you."
+よろしくお願い致します","──Hello. I'll be the instructor for today. Pleased to
+meet you."
 0000000000000,寺院の職員,"みなさんにはこれから写経をしていただきますが
-やったことがあるという方はいらっしゃいますか？","Before we begin, I'd like to ask if any of
-you girls ever did Shakyou before?"
+やったことがあるという方はいらっしゃいますか？","Before we begin, I'd like to ask if any of you girls
+ever did Shakyou before?"
 4001040030140,雛菜,"ん～……雛菜は無いけど、
 なんか、お習字みたいな感じですよね～？","Hm... Hinana's never done it before but,
-doesn't it somewhat feel like writing practice～?"
+doesn't it feel like writing practice～?"
 0000000000000,寺院の職員,"そうですね
 こちらの筆を使って書いていただきます","Indeed it does.
 We will be writing them with these brushes here."
 0000000000000,寺院の職員,それから──,And from that──
 4001040030150,小糸,あ……え、えっと……！,"Ah... Eh, erm...!"
-4001040030160,小糸,わ、わたし……！,"I, I have...!"
+4001040030160,小糸,わ、わたし……！,I-I have...!
 4001040030170,小糸,"やったこと、あります……
-学校の、書道の時間で…………","I did it once before...
-In school, during calligraphy class..."
+学校の、書道の時間で…………","I did it once before... In school, during calligraphy
+class..."
 0000000000000,寺院の職員,"そうですか
-授業で取り入れている学校さんもありますよね","Oh, some schools have incorporated that into
-their classes, I see."
+授業で取り入れている学校さんもありますよね","Oh, some schools have incorporated that into their
+classes, I see."
 4001040030180,小糸,は、はい……,Y-Yes...
 0000000000000,寺院の職員,"やられたことがない方が多いようですから
-基本的なことからひとつずつやってみましょう","Well, most people haven't tried it before, so
-let's go over the basics, one by one."
+基本的なことからひとつずつやってみましょう","Well, most people haven't tried it before, so let's go
+over the basics, step by step."
 0000000000000,寺院の職員,"まずは集中して、心を落ち着かせてください
 姿勢を良くすることも大事です","First, focus and calm your mind.
 It's also important to maintain a good posture."
@@ -74,25 +73,27 @@ It's also important to maintain a good posture."
 If you have, take a bow, slowly."
 4001040030200,円香,…………,......
 0000000000000,寺院の職員,"すずりにお水を入れて
-墨をすっていきます","Now put some water onto the ink stone,
-and grind the ink out using the sumi stick."
+墨をすっていきます","Now put some water onto the ink stone, and grind
+the ink out using the sumi stick. (Note: That's how ink
+is made traditionally)"
 4001040030210,小糸,………………,......
 0000000000000,寺院の職員,"今回はこの経文が薄く印刷されているものを
-一文字ずつ、丁寧になぞっていただきます","The characters we're copying today are rather
-thin, so be sure to carefully trace them a word
-at a time. (Note: Printed words are being traced)"
+一文字ずつ、丁寧になぞっていただきます","The characters we're copying today are rather thin,
+so be sure to carefully trace them a word at a time.
+(Note: Printed words are being traced for this)"
 0000000000000,寺院の職員,"心の乱れは、字にも表れます
 書き終わったら、自分の書いた文字をよく見てみましょう","It'd show in your writing if your mind isn't settled.
 Once you're finished, be sure to take a good look
-at your own writings."
+at your own writings. (Note: Self-reflection)"
 4001040030220,雛菜,…………？,......?
 0000000000000,寺院の職員,"最後にお願い事とお名前、ご住所、
-それから今日の日付を書いていただきます","Lastly, write down your wish, name, and address,
-and the today's date. (Note: It's so that the kami
-can identify and bless that particular devotee)"
+それから今日の日付を書いていただきます","Lastly, write down your wish, name, and address, and
+the today's date. (Note: It's so that the kami can
+identify and bless that particular devotee)"
 0000000000000,寺院の職員,"書き終えた用紙は包みに入れて頂いて、
-こちらにお納めください","Once you're finished, please fold up the paper,
-and kindly submit it to us."
+こちらにお納めください","Once you're finished, please fold up the paper, and
+kindly submit it to us. (Note: The temple will ""process"" 
+everyone's Shakyou on their behalf)"
 4001040030221,一同,──はい,Alriiight.
 4001040030230,小糸,…………,......
 4001040030240,雛菜,ん～……？,Hm~......?
@@ -107,25 +108,22 @@ and kindly submit it to us."
 You're quick, Madoka-chan."
 4001040030320,小糸,……字も、すごい綺麗だし……,...And your words are super pretty too...
 4001040030330,円香,"なぞったものだから
-別に私の字が綺麗ってわけじゃないけど","I was just tracing the print.
-It's not like my writing's pretty or anything."
+別に私の字が綺麗ってわけじゃないけど","I was just tracing the print. It's not like my writing's
+pretty or anything."
 4001040030340,透,──しゃ……,──Alrighty...
 4001040030350,小糸,"あ……
 透ちゃんも……？","Ah...
 Toru-chan's done too...?"
 4001040030360,透,うん,Yep.
 4001040030370,透,"やばい
-筆","The brush.
-Feels awesome."
+筆",The brush. It's hard to use.
 4001040030380,雛菜,"あは～
 透先輩、字ふにゃふにゃ～","Aha～
 Toru-senpai's words are all squished～"
 4001040030390,雛菜,"雛菜もできたよ～
-ほら～～～！","Hinana's done too～
-Lookie～～～!"
+ほら～～～！",Hinana's done too～ Lookie～～～!
 4001040030400,円香,"雛菜
-まだ小糸がやってる","Hey Hinana.
-Koito's still at it."
+まだ小糸がやってる","Hey Hinana, calm down. Koito's still at it."
 4001040030410,雛菜,"へ～
 小糸ちゃんごめん～？","Hm～
 I'm sorry, Koito-chan～?"
@@ -137,11 +135,11 @@ No problems..."
 Look here, camera-man-san～"
 4001040030440,透,グー,Guuー
 4001040030450,円香,"字、はみ出すぎ
-なぞる気あったの、それ","The writing's so off the grid.
-You weren't tracing seriously, were you."
+なぞる気あったの、それ","The writing's so off the grid. You weren't
+tracing seriously, were you."
 4001040030460,雛菜,"ん～
-雛菜のおっきい心が表れてるのかも～","Yea～
-Maybe it's an expression of Hinana's big heart～"
+雛菜のおっきい心が表れてるのかも～","Yea～ But maybe it's just an expression of
+Hinana's big heart～"
 4001040030470,小糸,……あ……！,...Ah...!
 4001040030480,円香,"……？
 どうしたの、小糸","...?
@@ -160,123 +158,116 @@ I'm so sorry...!"
 0000000000000,プロデューサー,…………,......
 0000000000000,番組ディレクター,"…………
 どうするかー……","......
-What should we to do..."
+How should we do this..."
 0000000000000,プロデューサー,──お疲れ様です,──Thank you so much for your hard work.
 0000000000000,番組ディレクター,"あ、２８３さん……
-お疲れ様です！","Ah, 283-san...
-The same to you too!"
+お疲れ様です！","Ah, 283-san... The same to you too!"
 0000000000000,プロデューサー,"……すみません、さっきの撮影
-予定よりかなり押しちゃってましたよね","...Apologies about the filming just now.
-It went way overschedule, didn't it."
+予定よりかなり押しちゃってましたよね","...Apologies about the filming just now. It went way
+overschedule, didn't it."
 0000000000000,番組ディレクター,"いやいや、全然！
-スケジュールの方は調整できてるんで大丈夫ですよ","No, no, it's alright! We can just adjust the
-schedule, so it's all good."
+スケジュールの方は調整できてるんで大丈夫ですよ","No, no, it's alright! We can just adjust the schedule,
+so it's all good."
 0000000000000,プロデューサー,そうですか……！,I see...!
 0000000000000,プロデューサー,"じゃあ、その
-どうするかっていうのは……","That's good to hear, but,
-I think I heard you just now, and it seemed
-like a big problem...?"
+どうするかっていうのは……","That's good to hear, but, I think I overheard you
+being troubled over something?"
 0000000000000,番組ディレクター,"あー……、聞こえてました？
 いや、ノクチルちゃんが悪いとかじゃなくて！","Ahh... You heard me?
 It's not any of noctchill-chan's fault, to be clear!"
 0000000000000,番組ディレクター,"ウチも自由にやってーとか言っちゃったの
-よくなかったかもしれないです","We said to go about it freely so, maybe it's
-not such a good idea afterall."
+よくなかったかもしれないです","We said to go about it freely so, maybe that wasn't
+such a good idea afterall."
 0000000000000,プロデューサー,……すみません,...Apologies on our end.
 0000000000000,プロデューサー,"こういった撮影にも
-少しずつ慣れてきたところではあるんですが……","Even though they've gotten slightly used to
-being filmed like this, they still... "
+少しずつ慣れてきたところではあるんですが……","Even though they've gotten slightly used to being
+filmed like this, they're still inexperienced... "
 0000000000000,プロデューサー,"何か問題があれば、
-ぜひご指摘いただければと──……","In any case, if there are any problems,
-please point them out and I'll be glad to──..."
+ぜひご指摘いただければと──……","In any case, if there are any problems, please point
+them out and I'll be glad to──..."
 4001040030520,雛菜,ね、プロデューサーは～？,"Hey, where's Producer～?"
 4001040030530,円香,知らない,No idea.
 4001040030540,雛菜,小糸ちゃん知ってる～？,"Koito-chan, do you know～?"
 4001040030550,小糸,"あ……ご、ごめん
 見てないよ","Ah... S-Sorry, I wasn't looking..."
 4001040030560,雛菜,"へ～……
-もうすぐご飯の時間みたいなのに～……","Huh～...
-Even though it's almost lunch time～..."
+もうすぐご飯の時間みたいなのに～……",Huh～... Even though it's almost lunch time～...
 4001040030570,透,探す？,Wanna look for him?
 0000000000000,番組ディレクター,"ああ……いやいや、そうじゃなくて！
 むしろ逆です、逆！","Aah... No, no, it's not like that!
 On the contrary, it's the opposite!"
 0000000000000,プロデューサー,え…………？,Hm......?
 0000000000000,番組ディレクター,"彼女たち、思ってたより真面目っていうか
-みんな普通……って言ったら語弊があるかもですけど","Not only are the girls taking the job more
-seriously than I thought, it might be sound off
-but... they all just act so normal."
+みんな普通……って言ったら語弊があるかもですけど","Not only are the girls taking the job more seriously
+than I thought, it might sound a little off, but... they
+all just act so normal."
 0000000000000,番組ディレクター,"もっとこう……破天荒で突拍子も無いこと
-するような子たちなのかなって思ってたんで！","I just thought that... They'd be somewhat
-more wild and shocking!"
+するような子たちなのかなって思ってたんで！","I just thought that... They'd be somewhat more wild
+and shocking!"
 0000000000000,番組ディレクター,"ウチとしては、そういう
-バラエティ的な撮れ高を期待しちゃってたんです","Because of that, I had expected to shoot some
-super entertaining footage."
+バラエティ的な撮れ高を期待しちゃってたんです","Because of that, I had expected to shoot some super
+entertaining footage."
 0000000000000,プロデューサー,"………………
 そういうことでしたか……","......
 I see what you mean..."
 0000000000000,番組ディレクター,"だから『どうするか』っていうのは番組として
-面白くするにはどうするかってことでして","That's why my ""What should we do"", is a
-question of how we, as show runners, can
-make the program interesting."
+面白くするにはどうするかってことでして","That's why my ""How should we do this"", is a question
+of how we as show runners, can make the program
+interesting."
 0000000000000,番組ディレクター,"うーん、バラエティ向きの子たちなのかなーって
 思ってたんですけど","Hmm, though I really thought that they'd be the
 variety-show-type."
 0000000000000,番組ディレクター,"でも『仲良し』が売りって
-感じでもないですよね","Not to mention that, it doesn't feel like them
-to sell their ""getting along""."
+感じでもないですよね","Not to mention that, pushing their ""getting along"" 
+doesn't feel authentic."
 0000000000000,プロデューサー,"……ありがとうございます
-とてもよく考えてくださって……","...Thank you very much. You've put a a lot of
-thought into it..."
+とてもよく考えてくださって……","...Thank you very much. You've put a a lot of thought
+into it..."
 0000000000000,番組ディレクター,"いえ、魅力を生かすっていうのは、
-ちゃんと理解していないとできないことですね","Nah, it's necessary to understand their appeal
-in order to tap into them"
+ちゃんと理解していないとできないことですね","Nah, it's necessary to understand their appeal in
+order to tap into them."
 0000000000000,プロデューサー,…………,......
 0000000000000,番組ディレクター,"今回、番組コンセプトが『成長』なんで
-視聴者もそのあたりは期待しちゃうかな、とは思いまして","Well, the concept of this program is ""growth"",
-and I'd think that our viewers will be expecting
-that."
+視聴者もそのあたりは期待しちゃうかな、とは思いまして","Well, the concept of this program is ""growth"", and I
+think that our viewers will be expecting that."
 0000000000000,番組ディレクター,"……何か事件が起こったり、事件を起こしたりして
-それをどう乗り越えるのかが見たい、という……","... I suppose they wanna watch things happen,
-or see if things would happen, and how the
-girls go along with it..."
+それをどう乗り越えるのかが見たい、という……","...I suppose they wanna watch things happen, or see
+if things would happen, and how the girls would go
+along with it..."
 0000000000000,プロデューサー,"……はい
 仰る通りだとは思います","...Indeed, I think it's as you say."
 0000000000000,プロデューサー,でも────,But───
 0000000000000,番組ディレクター,"ああ、もちろん！
 うちは何かヤラセを仕込みたいってわけじゃないですよ！","Aah, of course!
-We've no intentions of staging anything of the
-sorts!"
+We've no intentions of staging anything of the sorts!"
 0000000000000,番組ディレクター,"それに、本当にファンの人っていうのは
-あの子たちが何してたって","Besides, their real fans would be like,
-""What're the girls doing"", and stuff."
-0000000000000,番組ディレクター,ただ、立って笑ってるだけだっていいんだと思います,"Saying that, I think it's okay to just observe by
-the sidelines and smile."
+あの子たちが何してたって","Besides, their real fans would be like, ""What're the
+girls doing"", and stuff."
+0000000000000,番組ディレクター,ただ、立って笑ってるだけだっていいんだと思います,"Having said that, I think it's also okay from them to
+just stand there and smile."
 0000000000000,プロデューサー,…………それは……,......Well about that...
 0000000000000,番組ディレクター,"──あ……いけない
-そろそろ夕飯の時間ですね、行きましょうか","... Ah... look. It's almost lunch time.
-Shall we go have some?"
+そろそろ夕飯の時間ですね、行きましょうか","...Ah... look. It's almost lunch time. Shall we go get
+some?"
 0000000000000,プロデューサー,"もうそんな時間ですか
 すみません、お時間取ってしまって","It's already this late, huh.
 Apologies for taking time out of your work."
 0000000000000,番組ディレクター,"いえ！　……ノクチルちゃんもですけど、
-２８３さん、相当真面目じゃないですか？","Not at all! ...I see that it's not only noctchill-san,
-but you also takes things pretty seriously huh,
-283-san?"
+２８３さん、相当真面目じゃないですか？","Not at all! ...I see that it's not only noctchill-san, but
+you also takes things pretty seriously huh, 283-san?"
 0000000000000,プロデューサー,"はは……
-恐れ入ります","Haha...
-Much obliged."
+恐れ入ります",Haha... Much obliged.
 0000000000000,番組ディレクター,"あの子たちが、どう輝くか……
-私たちはどう輝かせるか、それが仕事ですから","How would the girls shine...
-And how we make them shine, is our job."
+私たちはどう輝かせるか、それが仕事ですから","How the girls would shine... And how we make them
+shine... it's our job to make it happen."
 0000000000000,番組ディレクター,頑張りましょう、２８３さん,"Let's do our best, 283-san."
 4001040030580,透,ふぁ……,Huh...
 4001040030590,雛菜,"あは～……
-なんか、聞いちゃいけないやつだった～？","Aha～... Seems like we've overheard
-something that we shouldn't～?"
+なんか、聞いちゃいけないやつだった～？","Aha～... Seems like we've overheard something that we
+shouldn't～?"
 4001040030600,円香,"いいんじゃない？
-こんなところで話してる方が悪い","Doesn't hurt, right? It's their fault for
-discussing stuff like this out in the open."
+こんなところで話してる方が悪い","What's wrong with that? It's their fault for discussing
+stuff like this out in the open."
 4001040030610,小糸,………………,......
 info,game_event_communications/400104003.json,
 Translator,Mycstea,

@@ -239,11 +239,11 @@ Viレッスン,Vi Lesson,noun
 すべてのアピール値を$percentUP,All Appeal Effect $1,
 フェスユニット編成時に$nounボーナスを$percent,$2 $1 Bonus when Setting Up Fes Units,
 フェスユニット編成時に全基礎能力へのボーナスを$percent,All Base Values $1 when Setting Up Fes Units,
-団子より,Instead of Dango,
-[花より]団子より,[Flowers] Instead of Dango,
-ふたりで叫ぶ合言葉,The Word That We Shout,
-[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout,
-思い出アピール未習得,Memory Appeal Unavailable,
+団子より,Instead of Dango,text
+[花より]団子より,[Flowers] Instead of Dango,text
+ふたりで叫ぶ合言葉,The Word That We Shout,text
+[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout,text
+思い出アピール未習得,Memory Appeal Unavailable,text
 [条件:履歴に$nameがある場合],[Condition: $1 in the history],
 [条件:回復回数5回以上履歴に大崎甜花がある場合],[Condition: Heal at least 5 times and Tenka in the history],
 [条件:回復回数6回以上アルスト全員がライブに参加],[Condition: Heal at least 6 times and Alst. in unit],
@@ -265,46 +265,47 @@ $nounVI,$1 VI,
 $nounVII,$1 VII,
 テンション＋$num,Tension +$1,
 パッシブスキル発動率$num％UP,Passive Skill Rate $1% UP,
-色とりどりの羽根,Multicolored Feather,
-[輝く]色とりどりの羽根,[Shining] Multicolored Feather,
-少し前,That Day,
-[いつか　の]少し前,[Just Before] That Day,
+色とりどりの羽根,Multicolored Feather,text
+[輝く]色とりどりの羽根,[Shining] Multicolored Feather,text
+少し前,That Day,text
+[いつか　の]少し前,[Just Before] That Day,text
 彩りファッションドール,Colorful Fashion Doll,
 最後アピール値％UP,Final Appeal Value %UP,
 "発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value",
-魔法使いさんたち,We Mages,
-きみは相棒,You're My Sidekick,
-歌,Song,
-[甜花の]歌,[Tenka's] Song,
+魔法使いさんたち,We Mages,text
+きみは相棒,You're My Sidekick,text
+歌,Song,text
+[甜花の]歌,[Tenka's] Song,text
 [条件:履歴に思い出アピールがある場合],[Condition: Memory Appeal in the history],
 [条件:2ターン以前アルスト全員がライブに参加している場合],[Condition: All Alst members in the live before 2 turns pass],
-甜ing Room,Ten-ing Room,
-エフェクト,Effect,
-[テンカ]エフェクト,[Tenka] Effect,
+甜ing Room,Ten-ing Room,text
+エフェクト,Effect,text
+[テンカ]エフェクト,[Tenka] Effect,text
 ルカ,Luca,name
 羽那,Hana,name
 はるき,Haruki,name
 斑鳩 ルカ,Luca,name
 鈴木 羽那,Hana,name
 郁田 はるき,Haruki,name
-ファンの声援＋,Shouts of Fans+,know-how
-メンタルUP,Mental UP,
-メンタル上限UP,Mental Cap. UP,
-Vocal上限UP,Vocal Cap. UP,
-Dance上限UP,Dance Cap. UP,
-Visual上限UP,Visual Cap. UP,
-ロマンチスト,Romantist,grad skill
-アピールUP(思い出高),Appeal UP (High Mem.),grad skill
-アピールUP(思い出低),Appeal UP (Low Mem.),grad skill
-スペシャリスト,Specialist,grad skill
-アピールUP(思い出高&低),Appeal UP (High&Low Mem.),grad skill
-基礎能力値UP(+6%),Base Stat UP (+6%),grad skill
-思い出(ノウハウ)＋,Memory (Know-How)+,
-思い出(ノウハウ)＋＋,Memory (Know-How)++,
-基礎能力値UP (+3%),Base Stat UP (+3%),grad skill
-エキシビションマッチ,Exhibition Match,step skill
-エキシビションマッチ＋,Exhibition Match+,step skill
-エキシビションマッチ＋＋,Exhibition Match++,step skill
-ファン感謝祭クリア,FanFest Clear,tfd skill
-ファン感謝祭クリア＋,FanFest Clear+,tfd skill
-ファン感謝祭クリア＋＋,FanFest Clear++,tfd skill
+ファンの声援＋,Shouts of Fans+,text
+メンタルUP,Mental UP,text
+メンタル上限UP,Mental Cap. UP,text
+Vocal上限UP,Vocal Cap. UP,text
+Dance上限UP,Dance Cap. UP,text
+Visual上限UP,Visual Cap. UP,text
+ロマンチスト,Romantist,text
+アピールUP(思い出高),Appeal UP (High Mem.),text
+アピールUP(思い出低),Appeal UP (Low Mem.),text
+スペシャリスト,Specialist,text
+アピールUP(思い出高&低),Appeal UP (High&Low Mem.),text
+基礎能力値UP(+6%),Base Stat UP (+6%),text
+思い出(ノウハウ)＋,Memory (Know-How)+,text
+思い出(ノウハウ)＋＋,Memory (Know-How)++,text
+基礎能力値UP (+3%),Base Stat UP (+3%),text
+エキシビションマッチ,Exhibition Match,text
+エキシビションマッチ＋,Exhibition Match+,text
+エキシビションマッチ＋＋,Exhibition Match++,text
+ファン感謝祭クリア,FanFest Clear,text
+ファン感謝祭クリア＋,FanFest Clear+,text
+ファン感謝祭クリア＋＋,FanFest Clear++,text
+甜der Dream Show,Ten-der Dream Show,text
