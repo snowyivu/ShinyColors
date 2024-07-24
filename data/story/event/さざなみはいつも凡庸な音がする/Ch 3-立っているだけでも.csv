@@ -3,8 +3,8 @@ id,name,text,trans
 今日は移動に撮影に、お疲れ様","──Alright, everyone. Good job going around for the
 shoot."
 0000000000000,プロデューサー,"明日も朝早いし
-ゆっくり休んでくれ！","aTomorrow's also going to be an early morning, so make
-sure you all get a good night's rest!"
+ゆっくり休んでくれ！","Tomorrow's also going to be an early morning, so
+make sure you all get a good night's rest!"
 4001040040010,小糸,………………,......
 4001040040020,雛菜,雛菜ここの布団がいい～～～,Hinana will have the futon here～～～
 4001040040030,円香,"うわ……
@@ -81,7 +81,7 @@ ask to wake me up～"
 4001040040370,小糸,みんなで,It'll wake us all up.
 4001040040380,透,オッケー,Okaay.
 4001040040390,雛菜,"ん～
-10分前くらいに起きれば間に合うかな～？","Alright～ Waking up 10 minutes earlier be enough,
+10分前くらいに起きれば間に合うかな～？","Alright～ Waking up 10 minutes earlier is enough,
 right～?"
 4001040040400,円香,寝起きすぐは顔がむくんで見えるんじゃない,"Didn't you say that our faces will look puffy right
 after we wake up?"
@@ -104,7 +104,7 @@ Nighty night."
 4001040040490,円香,…………おやすみ,...Good night.
 4001040040500,透,……,...
 4001040040510,小糸,………………,......
-4001040040520,透,……わっ,...Oopsy.
+4001040040520,透,……わっ,...Woah.
 4001040040530,透,小糸ちゃん……？,Koito-chan...?
 4001040040540,小糸,ぴぇ……,Pyeh...
 4001040040550,小糸,"あ……
@@ -113,7 +113,7 @@ T-Toru-chan..."
 4001040040560,透,寝ないの？,You're not sleeping?
 4001040040570,小糸,えっと……,Erm...
 4001040040580,透,"起きてたじゃん
-バスとかも",You were awake. While on the bus and all that.
+バスとかも","You were awake, on the bus and all that."
 4001040040590,小糸,"な、なんか
 色々、考えちゃって……","W-Well, I was thinking about, erm, some stuff."
 4001040040600,小糸,目が冴えてきちゃったから……,And now I'm wide awake...
@@ -145,12 +145,12 @@ interesting..."
 4001040040740,小糸,"あ…………
 え、えっと……","Ah......
 E-Erm..."
-4001040040750,小糸,ひ、引きとめちゃって、ごめんね……！,"S-Sorry for keeping you. You better be back on your
-way...!"
+4001040040750,小糸,ひ、引きとめちゃって、ごめんね……！,"I-I'm sorry, for keeping you here to talk...!"
 4001040040760,透,"え？
 あー……",Eh? Ahー...
 4001040040770,透,"いる？　まだ
-ここ",You're here? Still.
+ここ","You're still...
+gonna stay here?"
 4001040040780,小糸,"う、うん
 ……ちょっと",Y-Yeah. ...Just
 4001040040790,小糸,……あとちょっとだけ,...I'll go to sleep in a bit.
@@ -172,6 +172,6 @@ In the corridor."
 そんな無いし",There's not much more time until we need to wake.
 4001040040910,透,"……うわ
 ほんとだ","...Woah, you're right."
-4001040040920,円香,グッナイ,GuuNigh
+4001040040920,円香,グッナイ,Guu nigh...
 info,game_event_communications/400104004.json,
 Translator,Mycstea,

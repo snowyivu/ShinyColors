@@ -3,8 +3,8 @@ id,name,text,trans
 いちばん早く着いた人が勝ちね～？","Alright, then we'll do 5 loops, and the first to finish
 wins, got it～?"
 4001040070020,雛菜,"勝った人には、
-ん～……","And for those that win, hmm～..."
-4001040070030,雛菜,ジュース奢り～？,Will be treated to a drink～?
+ん～……","And for the winner, hmm～..."
+4001040070030,雛菜,ジュース奢り～？,She'll be treated to a drink～?
 4001040070040,円香,それで,Deal.
 4001040070050,透,ふふっ,Hehe.
 4001040070060,小糸,"い、いいのかな……
@@ -19,7 +19,7 @@ interesting be better～?"
 Y-Yeah!"
 4001040070100,小糸,わたし、いつでもいけるよ……！,I'm ready anytime...!
 4001040070110,透,"おー
-小糸ちゃんやる気",Wowー Koito's pumped.
+小糸ちゃんやる気",Ooohー Koito's pumped.
 4001040070120,透,"よーし
 やるか",Alrighty. Let's do it.
 4001040070130,円香,ん,Okay.
@@ -37,7 +37,7 @@ Then, let's start～!"
 This is surprisingly hard～..."
 4001040070190,小糸,う、うん……,Y-Yeah...
 4001040070200,小糸,"ほ、本気で……
-やったから…………","I-I'm gonna... get serious, so..."
+やったから…………","I-I got... serious, so..."
 4001040070210,透,……──,...──
 4001040070220,小糸,"廊下……
 綺麗に……なったよね……",We sure... cleaned... the corridor up...
@@ -151,7 +151,7 @@ To grow, next time."
 雛菜、レギュラー放送がいい～！","Aha～
 Hinana, wants it to become a regular program～!"
 4001040070720,雛菜,"面白くなかったかもしれないけど～
-これから成長するかもしれないしね～？","It might not have been interesting～
+これから成長するかもしれないしね～？","It might not be interesting～
 But maybe we'll grow from now on～"
 4001040070730,小糸,ぴぇ……！,Pyeh...!
 4001040070740,小糸,"そ、それでも
@@ -183,8 +183,8 @@ Hinana will take this～"
 じゃー、これ","Yeaー
 Then, I'll have..."
 4001040070810,透,貰うね,This one.
-4001040070820,円香,どうも,Thank you.
-4001040070830,円香,ありがとうございます,So much.
+4001040070820,円香,どうも,Thank you
+4001040070830,円香,ありがとうございます,Very much.
 0000000000000,プロデューサー,"ああ、うん！
 みんなお疲れ！","Aah, go right ahead!
 Good job, everyone!"
@@ -202,7 +202,6 @@ What is it...?"
 4001040070860,小糸,………………,......
 4001040070870,小糸,つ、次……,A... A next...
 4001040070880,小糸,"わたし、次が欲しいです
-この番組の、次……！","I want it the program to have a next.
-A next episode...!"
+この番組の、次……！",4
 info,game_event_communications/400104007.json,
 Translator,,

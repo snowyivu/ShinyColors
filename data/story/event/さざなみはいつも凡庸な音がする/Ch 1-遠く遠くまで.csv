@@ -14,13 +14,13 @@ Ah, er-erm..."
 Time to wake up...!"
 0000000000000,プロデューサー,"え……っ
 ああ、いや","Eh...
-Aah, scratch that."
+Aah, it's okay."
 0000000000000,プロデューサー,"そうか
 みんな寝てるのか","Looks like everyone's asleep, huh."
 4001040020050,小糸,は、はい…………,Y-Yeah...
 0000000000000,プロデューサー,"それならもう少し寝かせておこう
 朝、早かったもんなぁ","Let them sleep a little more, then.
-We set off really early afterall."
+We started the day really early afterall."
 0000000000000,プロデューサー,"小糸は大丈夫か？
 収録始まったら結構体力使うぞ、きっと","Will you be okay, Koito?
 It'll be tiring once the shoot begins."
@@ -35,10 +35,10 @@ sleep."
 good and proper...!"
 0000000000000,プロデューサー,ああ、そうだな,"Yeah, you're absolutely right."
 4001040020100,小糸,"それに、ファンの人が選んでくれたことを
-実際にやるんですから","We'll be doing what our fans chose for us to do
-afterall."
+実際にやるんですから","Since we'll be doing what our fans chose for us to
+do,"
 4001040020110,小糸,"ちゃんと応えられるように
-……もっと、見てもらえるようにって思って","And we gotta be able to step up to these tasks...  so
+……もっと、見てもらえるようにって思って","We gotta be able to step up to these tasks... so
 that everyone will look more at our stuff too."
 0000000000000,プロデューサー,…………おう,......I'm with you.
 0000000000000,プロデューサー,"大きな仕事で、
@@ -60,7 +60,7 @@ Hmm～～～～～...!"
 今、声かけようかなって","We'll be alighting soon, so let's get ready. I was just
 about to wake you."
 4001040020180,雛菜,"ふぁ～……そうなの～？
-じゃあふたりも起こさないと～","*yawn*～... Are we arriving～?
+じゃあふたりも起こさないと～","*yawn*～... You were～?
 Then we gotta wake everyone up～"
 4001040020190,雛菜,"透先輩～～～！
 あと円香先輩も～～～！","Toru-senpai～～～!
@@ -143,13 +143,12 @@ already tired～"
 4001040020450,小糸,う、うん……！,Y-Yeah...!
 4001040020460,小糸,はやく着替えて、行こう……！,Let's get changed right away...!
 4001040020470,雛菜,"お寺で修行？　なのに
-メイクはちゃんとするんだね～","Do we have to put on make up～
-Even though we're just training at the temple?"
+メイクはちゃんとするんだね～","Do we even have to put on make up～?
+Even though we're just training at the temple."
 4001040020480,透,"え？
 あー","Eh?
 Ahhー"
-4001040020490,円香,そりゃ、撮影で来てるんだから,"We need them on because we're here to be
-filmed."
+4001040020490,円香,そりゃ、撮影で来てるんだから,We need them on because we're here to be filmed.
 4001040020500,雛菜,"ま、かわいい方が雛菜は
 うれしいけど～！","Well, Hinana's happy since I'd look cuter～!"
 4001040020510,小糸,………………,......
@@ -188,11 +187,11 @@ votes, right? Like, the things... we're to do."
 temple was chosen..."
 4001040020550,透,あー……,Ahー...
 4001040020560,雛菜,"みんなそういう雛菜たちが
-見たかったってことじゃない～？","Maybe people just wanted to see us at it, doing those
-stuff～?"
+見たかったってことじゃない～？","Maybe people just wanted to see us at it, doing
+those stuff～?"
 4001040020570,円香,投票が本当ならね,That's if the voting stuff is real to begin with.
 4001040020580,円香,"番組を盛り上げるために投票させただけで、
-最初から内容は決まってたのかも","The contents might already have been decided from
+最初から内容は決まってたのかも","The contents might have already been decided from
 the start, and the voting was only polled to hype up
 the program."
 4001040020590,小糸,そう、なのかな……,"Hmm, maybe so..."
@@ -240,7 +239,7 @@ precisely this sort of growth that we'll want to
 capture for this program!"
 0000000000000,番組ディレクター,"……とはいえ、まさか最初が
 お寺ロケになるとは思いませんでした","...Having said that, I didn't expect the first shoot
-location to be a temple of all things."
+location to be a temple of all places."
 0000000000000,プロデューサー,え……？,Eh...?
 0000000000000,番組ディレクター,"ウチの投票はガチですから！
 ヤラセじゃないかって言われることもありますけど","The voting for our program is super hardcore!
@@ -272,6 +271,6 @@ Thank you so much."
 one if its received well... It might even be possible to
 turn the program into a regular show!"
 0000000000000,番組ディレクター,いい番組にしましょう！,Let's make it the best program ever!
-0000000000000,プロデューサー,……よろしくお願いします,...We'll be in your care.
+0000000000000,プロデューサー,……よろしくお願いします,...We'll be counting on you!
 info,game_event_communications/400104002.json,
 Translator,Mycstea,
