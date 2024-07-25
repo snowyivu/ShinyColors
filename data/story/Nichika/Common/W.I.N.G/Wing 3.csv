@@ -1,12 +1,15 @@
 id,name,text,trans
 1024001040010,にちか,"大通りの、たくさん人が行き交う中の
-そこだけ","It was only there, on the main street, in the middle of so many people coming and going..."
+そこだけ","It was only there, on the main street, in the middle of
+so many people coming and going..."
 1024001040020,にちか,そこだけ、特別に見えたんだって,"They say it was only there, that she seemed extraordinary."
 0000000000000,ダンストレーナー,"１、２、３、４────
 違う、遅い","1, 2, 3, 4──
 Wrong. Too slow."
 1024001040030,にちか,"スポットライトが当たって、カメラが回って、それで、
-コンデンサーマイクが拾うみたいに────","It was like a spotlight had illuminated her, every camera was now on her, and as if she holding a condenser microphone in her hands──"
+コンデンサーマイクが拾うみたいに────","It was like a spotlight had illuminated her, every
+camera was now on her, and as if she holding a
+condenser microphone in her hands──"
 0000000000000,ダンストレーナー,もう一回,Once more.
 1024001040040,にちか,"はい……！
 お願い……っ……します……！","Yes...!
@@ -49,18 +52,23 @@ I think you've pushed your legs plenty. "
 Me, I'll stay and do a bit more."
 0000000000000,プロデューサー,"……にちか。ここのところ練習しすぎだよ
 そんなに詰め込んでも、上手くいくわけじゃ────","...Nichika. You've been practicing too much, too hard.
-If you just try to fit in the most you can humanly do, it's not gonna help──"
+If you just try to fit in the most you can humanly do,
+it's not gonna help──"
 1024001040110,にちか,じゃ、どうやったら上手くいきますか……！,"Well, what can I do to help it then?"
 0000000000000,プロデューサー,"────────…………
 焦ることが正解じゃないっていうことは、わかるよ","──......
 You know that being impatient is not gonna be the right answer."
 0000000000000,プロデューサー,"さっきのとこだって、入れなくていいステップが入ってる
-先生は黙認されてるけど……あれがなければ遅れない","Earlier, there were steps in the routine that didn't need to be there. The instructor tolerated it, but... You're gonna keep falling behind that way."
+先生は黙認されてるけど……あれがなければ遅れない","Earlier, there were steps in the routine that didn't
+need to be there. The instructor tolerated it, but...
+You're gonna keep falling behind that way."
 0000000000000,プロデューサー,"…………なぁ
 あのステップって、八雲──────","......Wait.
 That bit of choerograhpy, isn't that from Nami's────"
 1024001040120,にちか,"なみちゃんのステップ、今やったら絶対話題になります
-評論家の人とかも注目してくれて、流行るかも……","Nami-chan's routines would be a total hit if they were done these days. It'll get the critics' attention, and maybe it could become popular..."
+評論家の人とかも注目してくれて、流行るかも……","Nami-chan's routines would be a total hit if they
+were done these days. It'll get the critics' attention,
+and maybe it could become popular..."
 0000000000000,プロデューサー,"────やっぱり、そうなのか
 工夫するのはすごくいいことだよ。だけど現実的に────","──Of course, that's what it is.
 It's good to come up with things. But be realistic──"
@@ -81,8 +89,9 @@ Because my feet are forever just my feet on their own, aren't they...?"
 ライトなんて当たるわけないって…………","I have to dance in Nami-chan's shoes.
 Otherwise, I could never find the spotlight..."
 1024001040180,にちか,"私が私の精一杯をやって、私が満足したって……
-意味ないって、わかってるじゃないですか────！","I gave my best as just myself, and it was exactly adequate...
-That'd be totally meaningless! You know that, right!?"
+意味ないって、わかってるじゃないですか────！","I gave my best as just myself, and it was exactly
+adequate... That'd be totally meaningless!
+You know that, right!?"
 0000000000000,プロデューサー,────────,────
 select,,わからないよ,"I don't
 know that."
@@ -90,38 +99,51 @@ select,,電気、消すよ,"I'll cut the
 lights."
 select,,意味……か,"Meaning, huh...?"
 1024001040190,にちか,"……っ
-適当に言うの、やめてください…………","...! Don't give me that kinda of know-it-all response, please."
+適当に言うの、やめてください…………","...! Don't give me that kinda of know-it-all response,
+please."
 0000000000000,プロデューサー,"……わからないのは本当だ
 八雲なみが特別だっていうことは、よくわかる","...It's true though, I really don't know.
 I do know that Nami Yakumo was extraordinary."
 0000000000000,プロデューサー,"だからって、全員が特別なわけじゃないよ
-……アイドルが全員、八雲なみみたいだって思うか？","And I understand that subsequently, you think not everyone can be extraordinary... But do you think all idols are like Nami Yakumo?"
+……アイドルが全員、八雲なみみたいだって思うか？","And I understand that subsequently, you think not
+everyone can be extraordinary... But do you think all
+idols are like Nami Yakumo?"
 0000000000000,プロデューサー,"……違うよな。これまでこの世界を勝ち上がってきた人も
-今一線で活躍してる人たちも、全員が特別なわけじゃない","...They're not. The people who have won in this world, the people who are at the front-line of this business, they're not all extraordinary people."
+今一線で活躍してる人たちも、全員が特別なわけじゃない","...They're not. The people who have won in this world,
+the people who are at the front-line of this business,
+they're not all extraordinary people."
 1024001040200,にちか,"…………だからって、練習しなくていいわけじゃないです
-特別じゃなくていいなら、誰だってアイドルですよ","...Okay? That still doesn't mean I don't need to practice. And if you don't need to be extraordinary to be an idol, then everyone is basically one already."
+特別じゃなくていいなら、誰だってアイドルですよ","...Okay? That still doesn't mean I don't need to
+practice. And if you don't need to be extraordinary
+to be an idol, then everyone is basically one already."
 0000000000000,プロデューサー,…………,......
 1024001040210,にちか,"──────
 か……帰ります",──I'm... I'm going home.
 0000000000000,プロデューサー,"八雲なみだって────
-本当に特別だったかどうかわからないじゃないか、にちか","Do you think that Nami Yakumo had any idea if she was actually extraordinary or not, Nichika?"
+本当に特別だったかどうかわからないじゃないか、にちか","Do you think that Nami Yakumo had any idea if she
+was actually extraordinary or not, Nichika?"
 0000000000000,ある現場の録音技師,"────あぁ、八雲なみ……！
 懐かしいなぁ……！　あれ、俺の録音なんだぜ？","──Oh, Nami Yakumo...!
 How nostalgic...! Hey, you know I recorded that myself?"
 0000000000000,プロデューサー,"えっ、お仕事されてたんですか……！　あの……
-当時のこと、よかったら聞かせてもらえないですか────","Oh, this is your work...? Well... I'd be happy to hear about that time if it's alright──"
+当時のこと、よかったら聞かせてもらえないですか────","Oh, this is your work...? Well... I'd be happy to hear
+about that time if it's alright──"
 1024001040220,にちか,"────っ
 ……ひどい…………","──!
 ...Harsh..."
 0000000000000,プロデューサー,"……ごめんな。だけど
 俺はにちかの大事なご家族からにちかを預かってる","...I'm sorry. But...
-It's a serious responsibility to take care of you, for you and your family."
+It's a serious responsibility to take care of you,
+for you and your family."
 0000000000000,プロデューサー,"にちかに舞台へ上がってもらうことには、
-にちかが毎日を健康に過ごしてくれることも含まれてるんだ","To ask of you to get up on stage, also means making sure that you take care of your health every single day."
+にちかが毎日を健康に過ごしてくれることも含まれてるんだ","To ask of you to get up on stage, also means making
+sure that you take care of your health every single
+day."
 0000000000000,はづき,"────
 『W.I.N.G.』で優勝できたら、続けてもいい","──If you take first in W.I.N.G., you can keep going."
 1024001040240,にちか,"そんなこと言ってたら、舞台にだって上がれなくなります
-…………なんでわからないんだろう","Just because you say that, doesn't even mean I'll be able to make it on the stage.
+…………なんでわからないんだろう","Just because you say that, doesn't even mean I'll be
+able to make it on the stage.
 ...I just can't understand."
 0000000000000,プロデューサー,"……
 そんなふうには、思わないからだよ",...Because you don't think this way to begin with.
@@ -129,7 +151,8 @@ It's a serious responsibility to take care of you, for you and your family."
 懐かしいなぁ……！　あれ、俺の録音なんだぜ？","──Oh, Nami Yakumo...!
 That brings me back...! Hey, you know I recorded that myself?"
 0000000000000,プロデューサー,"えっ、お仕事されてたんですか……！　あの……
-当時のこと、よかったら聞かせてもらえないですか────","Oh, this is your work...? Well... I'd be happy to hear about that time if it's alright──"
+当時のこと、よかったら聞かせてもらえないですか────","Oh, this is your work...? Well...
+I'd be happy to hear about that time if it's alright──"
 0000000000000,プロデューサー,八雲なみは、本当に特別なアイドルなんだろうか,"I wonder if Nami Yakumo actually was, special."
 0000000000000,プロデューサー,"……今日は俺も譲らない
 電気を消すから、支度をしてくれ","...I'm not giving up today, either.
@@ -144,11 +167,16 @@ I'm sorry, I don't want you to give that up. But──"
 懐かしいなぁ……！　あれ、俺の録音なんだぜ？","──Oh, Nami Yakumo...!
 How nostalgic...! Hey, you know I recorded that myself?"
 0000000000000,プロデューサー,"えっ、お仕事されてたんですか……！　あの……
-当時のこと、よかったら聞かせてもらえないですか────","Oh, this is your work...? Well... I'd be happy to hear about that time if it's alright──"
+当時のこと、よかったら聞かせてもらえないですか────","Oh, this is your work...? Well... I'd be happy to hear
+about that time if it's alright──"
 0000000000000,プロデューサー,"にちかが、ずっとアイドルを続けられるとして
-にちかの憧れの人を目指して活動できるとして…………","Nichika, even if you continued as an idol, even if you did become the second coming of Nami Yakumo, and did all the idol activities that you long to do..."
+にちかの憧れの人を目指して活動できるとして…………","Nichika, even if you continued as an idol, even if you
+did become the second coming of Nami Yakumo, and
+did all the idol activities that you long to do..."
 0000000000000,プロデューサー,"楽しいステップを踏んでもらわなきゃ、
-それこそ意味がないって…………思ってる","If you never took any enjoyment in it to begin with, I think that too... Would be meaningless in it's own right."
+それこそ意味がないって…………思ってる","If you never took any enjoyment in it to begin with,
+I think that too... Would be meaningless in it's own
+right."
 1024001040260,にちか,"……
 帰ります……帰って練習します…………","I'm going home...
 I'm gonna go home and practice some more..."

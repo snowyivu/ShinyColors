@@ -5,7 +5,8 @@ id,name,text,trans
 1024001000110010,にちか,えーっ,Huhー?
 0000000000000,プロデューサー,……っ,...
 1024001000110020,にちか,"いいですけど、
-手とかベタベタしてませんかねー？","Fine... but your hands aren't dirty or anything, rightー?"
+手とかベタベタしてませんかねー？","Fine... but your hands aren't dirty or anything,
+rightー?"
 select,,"……ちょっと、
 洗ってこようかな","...Maybe a little.
 Let me wash them."
@@ -21,10 +22,12 @@ they're dirty."
 いってきます","R-Right...
 I'll be right back."
 1024001000110040,にちか,"──あはっ
-プロデューサーさん、素直でいいですねー！","─Aha! Producer-san, you're great when you're obedient like that."
+プロデューサーさん、素直でいいですねー！","─Aha! Producer-san, you're great when you're
+obedient like that."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1024001000110050,にちか,"えっ
-だって、アイドルからペン借りるんですよー？","Huh? I mean, you're borrowing a pen from an idol, you know?"
+だって、アイドルからペン借りるんですよー？","Huh? I mean, you're borrowing a pen from an idol,
+you know?"
 1024001000110060,にちか,"もうちょっと緊張感持ってもらわないと
 困るじゃないですかー",You gotta be a little more conscious of what you doー!
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
@@ -33,7 +36,8 @@ I'll be right back."
 I mean, you were totally eating something earlier!!"
 1024001000110080,にちか,"そういうのほんと無理なので……！
 はい、洗ってきてくださいお願いしまーす！！","I mean, that's totally impossible...!
-Okay, go and wash your hands now, please and thank you!!"
+Okay, go and wash your hands now, please and thank
+you!!"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/102400100011.json,
 Translator,Tuna/Doodle,
