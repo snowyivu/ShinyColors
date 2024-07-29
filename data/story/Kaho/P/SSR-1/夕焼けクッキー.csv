@@ -26,7 +26,8 @@ I wanted to hand you this as fast as I could!"
 0000000000000,プロデューサー,ん？　その包みは……？,"Hm? A package? "
 2009004040060,果穂,学校で作ったクッキーですっ,It's cookies I made at school.
 2009004040070,果穂,"これ……
-プロデューサーさん、食べてくださいっ！","Please give them a bite, Producer-san! "
+プロデューサーさん、食べてくださいっ！","Here...
+Please give them a bite, Producer-san! "
 0000000000000,プロデューサー,"おお、果穂が作ったのか！
 ありがとう、いただくよ","Oh, so you made these! 
 Thank you, let me give them a try. "
@@ -84,7 +85,7 @@ all these kinds of idol jobs!"
 you're the most important person to me,
 Producer-san!"
 0000000000000,プロデューサー,"……ありがとう。全部大事に食べさせてもらうよ
-果穂の想いがこもったクッキーだからな！","Thank you. I'm gonna savour all of them since they 
+果穂の想いがこもったクッキーだからな！","Thank you. I'm gonna savor all of them since they 
 were made and filled with Kaho's feelings! "
 0000000000000,プロデューサー,"どれどれ……うん、疲れた身体に染みわたる甘さだ
 何枚でも食べられそうだよ","Which one to choose... Yes, it has a sweetness that
@@ -95,7 +96,8 @@ eating these."
 Hehe, I'm so relieved!"
 0000000000000,プロデューサー,ああ。ほら、果穂も一緒に食べよう,"Yeah. Hey Kaho, how about we eat some together?"
 2009004040210,果穂,"はいっ……
-はむっ……あれ？",Sure! *munch* Huh...?
+はむっ……あれ？","Sure!
+*munch* Huh...?"
 0000000000000,プロデューサー,どうかしたのか？,"What's the matter? "
 2009004040220,果穂,"学校で焼きたてを味見したんですけど……
 なんだか……ちょっとちがう感じがします","At school, they tasted freshly made...
@@ -130,27 +132,27 @@ flavors so I put chocolate and nuts inside! "
 うん、それぞれに違う美味しさがあっていいな","I see... 
 Yes, they all seem to have a different taste to them. "
 2009004040290,果穂,"同じ生地でも色んな味にできるから
-作ってて面白かったです","It was really interesting because you could make a lot 
-of different flavors with the same dough. "
+作ってて面白かったです","It was really interesting because you could make
+a lot of different flavors with the same dough."
 2009004040300,果穂,"お菓子って……食べるだけじゃなくて
 作るのも楽しいんですねっ！","It's not just only fun to eat sweets, but making
-them is also really enjoyable! "
+them is also really enjoyable!"
 0000000000000,プロデューサー,"はは、果穂はすっかりお菓子作りに
 はまったみたいだな","Haha, it looks like you're really into making sweets, 
-Kaho. "
-2009004040310,果穂,はい、また作りたいなって思いましたっ,"Yep, I want to try making sweets again."
+Kaho."
+2009004040310,果穂,はい、また作りたいなって思いましたっ,"Yep, I want to try making sweets again!"
 2009004040320,果穂,"──そうだ！
 プロデューサーさんも、今度一緒に作りませんか？","──That's right! Want to try making them together
-next time, Producer-san? "
-0000000000000,プロデューサー,俺も……？,"With me? "
+next time, Producer-san?"
+0000000000000,プロデューサー,俺も……？,With me?
 2009004040330,果穂,はいっ！　一緒に作ったら絶対楽しいですっ！,"Yep! Making them together would absolutely be a
-lot of fun! "
+lot of fun!"
 0000000000000,プロデューサー,"そうだな……やってみるか！
 はづきさんに言えば、事務所の台所が使えるだろうし","That's right... I'll try it out with you! 
-Speaking of cooking, Hazuki said we could always use 
-the kitchen in the office. "
+Speaking of cooking, Hazuki-san said we could
+always use the office's kitchen."
 2009004040340,果穂,"わあっ……ありがとうございます！
 じゃあ事務所で一緒に作りましょう！　約束ですっ","Wah... Thank you so very much! Then let's make some 
 in the office kitchen! It's a promise!"
 info,produce_events/200900404.json,
-Translator,W0ps,
+Translator,W0ps (edited by meri),

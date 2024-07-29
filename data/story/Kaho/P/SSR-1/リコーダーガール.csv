@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,（よし、外回りの仕事はこれで終わりだな）,"(Alright, looks like I'm done with the outside job.)"
 0000000000000,プロデューサー,（そろそろ事務所に戻るか……）,(I should head back to the office...)
-2009004030010,果穂,……プロデューサーさんっ！,Producer-san!
+2009004030010,果穂,……プロデューサーさんっ！,...Producer-san!
 0000000000000,プロデューサー,うおっ！？　……果穂！？,Oh?! Kaho?!
 2009004030020,果穂,プロデューサーさん、びっくりしましたかっ！？,"Did I surprise you, Producer-san!?"
 0000000000000,プロデューサー,ああ……かなり驚いたよ……,Ah... You surprised me quite a bit...
@@ -75,7 +75,8 @@ See, just lend me your bag."
 Here, go ahead..."
 0000000000000,プロデューサー,"ああ
 ──おっ、軽くて持ちやすいな","Yeah. 
-Your backpack is really light and easy to hold onto."
+──Your backpack is really light and easy to hold
+onto."
 2009004030170,果穂,"いっぱい教科書が入ってるのに、軽々と……
 プロデューサーさんはやっぱりスゴいです！","My backpack is full of so many textbooks but you 
 were able to pick it up so easily... 
@@ -88,4 +89,4 @@ gonna play."
 あたし、いっぱい演奏しますっ","Yeah! 
 I'm gonna play lots of fun songs! "
 info,produce_events/200900403.json,
-Translator,W0ps,
+Translator,W0ps (edited by meri),

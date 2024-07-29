@@ -1,97 +1,117 @@
 id,name,text,trans
 2009006020010,果穂,～～～♪,～～～♪
 0000000000000,プロデューサー,"あれ……？
-果穂。ホウキなんて持って何してるんだ？","Huh? What are you doing with that broom Kaho? 
-"
+果穂。ホウキなんて持って何してるんだ？","Huh? What are you doing with that broom, Kaho?"
 0000000000000,プロデューサー,"それに、こんな早い時間から……
-今日のレッスンは、もう少し後からだと思うけど……","Besides it's still early out right now. Today's lessons won't start till a little bit later I think. "
-2009006020020,果穂,おはようございます、プロデューサーさんっ！,"Good morning Producer! 
-"
+今日のレッスンは、もう少し後からだと思うけど……","Besides, it's still early out right now.
+Today's lessons won't start till a little bit later
+I think."
+2009006020020,果穂,おはようございます、プロデューサーさんっ！,"Good morning, Producer-san! "
 2009006020030,果穂,"今日は、いつもお世話になってる事務所に
-お礼がしたくてっ！","Today I wanted gave my thanks to the office for always taking care of me!
-"
-2009006020040,果穂,事務所のおそうじをお手伝いしたいなって思ったんです！,"So I thought about sweeping up around the office as help! "
+お礼がしたくてっ！","Today I wanted gave my thanks to the office for
+always taking care of me!"
+2009006020040,果穂,事務所のおそうじをお手伝いしたいなって思ったんです！,"So I thought about sweeping up around the office
+as help!"
 2009006020050,果穂,"それで、はづきさんにお話しをして、
-手伝わせてもらいました！","When talked to Hazuki about it, she said I could help out! "
+手伝わせてもらいました！","When talked to Hazuki-san about it, she said I could
+help out!"
 2009006020060,果穂,"お外をおそうじして、
-葉っぱとかゴミとかを集めてました！","So I'm cleaning up the outside office by collecting all the trash and leaves! "
+葉っぱとかゴミとかを集めてました！","So I'm cleaning up the outside office by collecting all
+the trash and leaves!"
 0000000000000,プロデューサー,"そういうことか……
-果穂は本当に偉いな"," I see now. You really are amazing Kaho."
+果穂は本当に偉いな","I see now. You really are amazing, Kaho."
 2009006020070,果穂,えへへ、ありがとうございますっ,"Hehe, Thank you!"
 2009006020080,果穂,"でも、事務所の外のおそうじ、
-思ったより大変で時間がかかっちゃって……","But, Cleaning up the outside seems more diffcult and time consuming than I thought it would be. "
+思ったより大変で時間がかかっちゃって……","But, cleaning up the outside seems more difficult and
+time consuming than I thought it would be."
 2009006020090,果穂,"外が終わったら、事務所の中もおそうじしたいなって
-思ってたんですけど……","After I'm done the outside, I'm thinking about cleaning the inside of the office."
+思ってたんですけど……","After I'm done the outside, I'm thinking about
+cleaning the inside of the office..."
 2009006020100,果穂,今日は、外のおそうじしかできなそうです……,But for today I'm only going to clean up the outside.
 0000000000000,プロデューサー,"そうか……よし！
-じゃあ、俺も手伝おうかな","Really... Alright! Now then, I'll help you out. "
+じゃあ、俺も手伝おうかな","Really... Alright!
+Now then, I'll help you out. "
 2009006020110,果穂,"いいんですかっ！？
-プロデューサーさんはお仕事が……"," Is that really alright!? What about your work Producer..."
+プロデューサーさんはお仕事が……","Is that really alright!?
+What about your work, Producer-san..."
 0000000000000,プロデューサー,"いや、朝一の仕事は終わらせてきたし、
-それに……","It's fine, I'm done with all my morning work. Besides..."
+それに……","It's fine, I'm done with all my morning work.
+Besides..."
 select,,協力技だ！,"Cooperation
 technique!"
 select,,果穂と同じ気持ちなんだ,"I felt the same
 as you, Kaho."
 select,,果穂を手伝いたい,"I want to help
 you, Kaho."
-0000000000000,プロデューサー,協力すれば、きっとあっという間に終わるはずだぞ！,"If we work together, we should be able to finish this up in the blink of an eye!"
+0000000000000,プロデューサー,協力すれば、きっとあっという間に終わるはずだぞ！,"If we work together, we should be able to finish this
+up in the blink of an eye!"
 2009006020120,果穂,"きょう・りょく・わざ……！
 カッコいいです！","Cooperation technique...! That sounds so cool! "
 0000000000000,プロデューサー,それじゃあ早速役割分担だ！,Then it's time to separate the roles!
 2009006020130,果穂,"はい！
 じゃあ、あたしがホウキでもっとゴミを集めて……","Yep! Now I'll use my broom to collect more trash! "
 0000000000000,プロデューサー,"俺がちりとりを固定しておこう
-そうすれば、丈の長いホウキでも掃きやすいだろ？","Then I'll fix the dust pan in place. Is it going to be easy for you to sweep with how long the broom is?
-"
+そうすれば、丈の長いホウキでも掃きやすいだろ？","Then I'll fix the dust pan in place.
+Is it going to be easy for you to sweep with how long
+the broom is?"
 2009006020140,果穂,"はいっ！　ありがとうございます！
-プロデューサーさん……お願いします！","Yeah! Thank you so much! Please go ahead Producer! "
+プロデューサーさん……お願いします！","Yeah! Thank you so much!
+Please go ahead, Producer-san!"
 0000000000000,プロデューサー,ふぅ、これでいいかな,"Fuu, do you think this is fine? "
 2009006020150,果穂,"スゴいです！
-あっという間に終わっちゃいました！","Amazing! We really did finish it in the blink of an eye! "
+あっという間に終わっちゃいました！",Amazing! We really did finish it in the blink of an eye!
 0000000000000,プロデューサー,"汚れの見落としもないから、
-すごく綺麗になったな"," Looks like we didn't leave a speck of dust. It looks really pretty now. "
-0000000000000,プロデューサー,これなら、事務所の中の掃除もできそうだな,"Since we're done with this, how about we start cleaning up the inside of the office."
+すごく綺麗になったな","Looks like we didn't leave a speck of dust.
+It looks really pretty now."
+0000000000000,プロデューサー,これなら、事務所の中の掃除もできそうだな,"Since we're done with this, how about we start
+cleaning up the inside the office."
 2009006020160,果穂,"はいっ！　協力技は早いだけじゃなくて
-ぴっかぴかにもなりますねっ！","Sure! Not only is the cooperation technique fast but it also makes everything shiny too! "
+ぴっかぴかにもなりますねっ！","Sure! Not only is the cooperation technique fast, but
+it also makes everything shiny too!"
 2009006020170,果穂,"プロデューサーさんとの協力技なら、
-どんな強敵も乗り越えていけちゃいそうです！","With Producer's cooperation technique, we'll be able to overcome any kind of strong enemy we come across! "
-2009006020180,果穂,あたしと……ですか？,"Like me? 
-"
-0000000000000,プロデューサー,果穂にとって、この事務所は大事な場所なんだろう？,"The office is an important place for you, right Kaho? "
+どんな強敵も乗り越えていけちゃいそうです！","With Producer's cooperation technique, we'll be able
+to overcome any kind of strong enemy we come
+across!"
+2009006020180,果穂,あたしと……ですか？,Like me?
+0000000000000,プロデューサー,果穂にとって、この事務所は大事な場所なんだろう？,"The office is an important place for you, right, Kaho?"
 2009006020190,果穂,"はい！
-ここは、アイドルのお仕事をするための秘密基地です！","Yeah! This is my secret base for working as an idol! "
+ここは、アイドルのお仕事をするための秘密基地です！",Yeah! This is my secret base for working as an idol!
 2009006020200,果穂,"打ち合わせをしたり、お喋りをしたり、
-色んなワクワクが詰まってます！","Having meetings, chatting, and it's full of all kinds of exciting things! 
-"
+色んなワクワクが詰まってます！","Having meetings, chatting, and it's full of all kinds of
+exciting things!"
 0000000000000,プロデューサー,"俺にとっても、ここは大事な場所なんだ
-だから、綺麗になってほしい気持ちは果穂と一緒だ","The office is an important place for me too, so I want it to look clean too just like you want Kaho. "
+だから、綺麗になってほしい気持ちは果穂と一緒だ","The office is an important place for me too, so I want
+it to look clean too just like you want, Kaho."
 2009006020210,果穂,"えへへ……それじゃあ……
-プロデューサーさん、一緒におそうじしちゃいましょう！","Hehe! Alright then! Let's clean it up together Producer! "
+プロデューサーさん、一緒におそうじしちゃいましょう！","Hehe! Alright then!
+Let's clean it up together, Producer-san!"
 0000000000000,プロデューサー,ああ、そうだな！,"Ah, let's do it! "
 2009006020220,果穂,"この事務所はあたしだけの基地じゃなくて、
-みんなの基地です！","This office isn't just my base, It's everyone's base! "
+みんなの基地です！","This office isn't just my base, it's everyone's base!"
 2009006020230,果穂,"みんなが、アイドルのお仕事を
-いっぱいがんばれるように……","Everyone is doing their very best to work as an idol...
-"
+いっぱいがんばれるように……",Everyone is doing their very best to work as an idol...
 2009006020240,果穂,"プロデューサーさんと一緒に、
-みんなのやる気が満々になる事務所にしてみせますっ","I want to work together with Producer to create an office where everyone is full of motivation! "
-0000000000000,プロデューサー,果穂だって、いつも俺の仕事を手伝ってくれるだろ？,"You always help me with my work, right Kaho? "
+みんなのやる気が満々になる事務所にしてみせますっ","I want to work together with Producer-san to
+create an office where everyone's full of motivation!"
+0000000000000,プロデューサー,果穂だって、いつも俺の仕事を手伝ってくれるだろ？,"You always help me with my work, right, Kaho?"
 2009006020250,果穂,"で、でも、あたしはいっつも、
-プロデューサーさんのお世話になってるから……",B-But you're always helping me out Producer...
+プロデューサーさんのお世話になってるから……","B-But you're always helping me out,
+Producer-san..."
 0000000000000,プロデューサー,"それは俺も同じだよ
-だから、俺にも果穂の手伝いをさせてくれ","I feel the same way as you, so let me help you Kaho. "
+だから、俺にも果穂の手伝いをさせてくれ","I feel the same way as you, so let me help you."
 2009006020260,果穂,"プロデューサーさん……
-はい！　それじゃあ……よろしくお願いします！","Producer... Alright! Now then, let's do our best together! "
+はい！　それじゃあ……よろしくお願いします！","Producer-san... Alright!
+Now then, let's do our best together!"
 0000000000000,プロデューサー,"よし！
-じゃあ、決まりだな","Nice! Well then, it's an agreement! "
+じゃあ、決まりだな","Nice! Well then, it's an agreement!"
 2009006020270,果穂,"はいっ！
-――えへへ","Sure! Hehehe! "
+――えへへ",Sure! Ehehe!
 0000000000000,プロデューサー,はは、なんだか楽しそうだな,"Haha, this is going to be fun. "
 2009006020280,果穂,"そうなんです。さっきまでおそうじをして
-きれいになっていくのが楽しかったのに","For sure! Cleaning up the office just now was really fun! 
-"
+きれいになっていくのが楽しかったのに","For sure! Cleaning up the office just now was really
+fun!"
 2009006020290,果穂,"今はプロデューサーさんが一緒で、
-もっともっと楽しいんです！　えへへ","Now that you're joining in Producer, this is going to be so much more fun! Hehe! "
+もっともっと楽しいんです！　えへへ","Now that you're joining in, Producer-san, this is going
+to be so much more fun! Ehehe!"
 info,produce_events/200900602.json,
-Translator,W0ps,
+Translator,W0ps (edited by meri),
