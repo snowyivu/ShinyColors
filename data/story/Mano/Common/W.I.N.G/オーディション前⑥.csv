@@ -1,7 +1,9 @@
 id,name,text,trans
-4001001000230010,真乃,もう少しで本番……だ、台本は……衣装も大丈夫かな……,It's almost time... H-Have I got the script...? Is my costume okay...?
+4001001000230010,真乃,もう少しで本番……だ、台本は……衣装も大丈夫かな……,"It's almost time... H-Have I got the script...?
+Is my costume okay...?"
 0000000000000,プロデューサー,"（事前にレッスンしているからバッチリだけど、
-少し緊張しているな）","(She has practiced beforehand so she's well-prepared, but she sure is nervous.)"
+少し緊張しているな）","(She has practiced beforehand so she's
+well-prepared, but she sure is nervous.)"
 select,,座ったらどうだ,"Why don't you
 sit down?"
 select,,甘いものでもどうだ？,"How about
@@ -12,7 +14,8 @@ select,,頑張ってこい！,Break a leg!
 I feel a little bit calmer now. Thank you."
 0000000000000,プロデューサー,（よし！　調子を取り戻したようだ）,(Alright! Looks like she got herself back together.)
 4001001000230030,真乃,"ふふ……プロデューサーさんがアメをくれる姿、
-なんだかかわいいです",Hehe... it looked kind of cute when you pulled out those sweets.
+なんだかかわいいです","Hehe... it looked kind of cute when you pulled out
+those sweets."
 0000000000000,プロデューサー,（少しは真乃の力になれたかな？）,"(I think that helped, at least somewhat?)"
 4001001000230040,真乃,"は、はい！
 が、頑張りますっ","Y-Yes! 

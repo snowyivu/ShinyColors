@@ -1,14 +1,15 @@
 id,name,text,trans
 3009006010010,果穂,ただいま戻りましたーっ！,We have arrived!
 3009006010020,樹里,ただいまーっと……あー、さみぃ……,"We're back... Ahhh, it's freezing."
-0000000000000,,早くあったまらねーと風邪引いちま……あれ？,"If we don't warm our selves up soon, we're going to catch a cold. Huh?"
+0000000000000,,早くあったまらねーと風邪引いちま……あれ？,"If we don't warm our selves up soon, we're going to 
+catch a cold. Huh?"
 3009006010030,智代子,"ん！？　あったかくないよ！？
 な、なんで！？",Huh!? Why is it still so cold in here!?
 3009006010040,夏葉,"おかしいわね……誰もいないみたい
 別の部屋にいるのかしら……？","That's strange. Nobody seems to be here. 
 Maybe they're in another room?"
 3009006010050,智代子,だ、暖房！　暖房つけないと！,The heater! It hasn't been turned on yet!
-3009006010060,樹里,おー、悪いなチョコ。頼んだ,"Oh, in that case, can you turn it on for us Choco?"
+3009006010060,樹里,おー、悪いなチョコ。頼んだ,"Oh, in that case, can you turn it on for us, Choco?"
 0000000000000,,けど……しばらくは寒い中辛抱しないとか……,"But still, we shouldn't stay too long in the cold."
 3009006010070,果穂,"何か、早く温まる裏ワザとかないでしょうか？
 隠しコマンドとか！","Is there a trick to heat this place up faster?
@@ -24,8 +25,9 @@ Don't go around breaking things by pressing weird buttons!"
 それならば……お茶を……","Fufu...
 Then I shall prepare tea..."
 3009006010120,果穂,"わあ！　凛世さんのお茶なら、ぽかぽかになれますね！
-ありがとうございます、凛世さん！","Yay! If Rinze-san is making tea, then we can warm ourselves up in no time!
-Thank you very much, Rinze-san!"
+ありがとうございます、凛世さん！","Yay! If Rinze-san is making tea, then we can warm
+ourselves up in no time! Thank you very much,
+Rinze-san!"
 3009006010130,樹里,"はぁー……にしても寒いな……
 もうすぐ雪でも降るんじゃねーか？","Hahhh... but man, it sure is cold.
 Isn't it supposed to snow soon too?"
@@ -76,18 +78,21 @@ It's a famous saying..."
 お茶を淹れましょう……","If it snows...
 Let us brew tea again, shall we?"
 3009006010350,果穂,"わあ……！　雪を見ながら飲む凛世さんのお茶、
-きっとスッゴく美味しいです！",Wahhh! Watching the snow while drinking Rinze-san's tea sounds super tasty!
+きっとスッゴく美味しいです！","Wahhh! Watching the snow while drinking Rinze-san's
+tea sounds super tasty!"
 3009006010360,樹里,"雪か～……
 寒いけど……けっこー楽しみだな","Snow, huh.
 It's gonna be cold, but it does sound like fun."
-3009006010370,智代子,うんうん、普段はできない遊びもできるし！,Uh huh. Especially since we don't get many chances to play like this!
+3009006010370,智代子,うんうん、普段はできない遊びもできるし！,"Uh huh. Especially since we don't get many chances
+to play like this!"
 3009006010380,果穂,"はいっ！
 あたし、雪だるま作ってみたいです！","Yeah!
 I really want to make a snowman!"
 3009006010390,夏葉,"雪だるま……
 果穂、ナイスアイディアだわ！","A snowman...
 Kaho, that's a pretty good idea!"
-3009006010400,夏葉,うふふ、とびきり大きな雪像も作ってみたいわね,"Ufufu, I would like to try making a large snow sculpture myself."
+3009006010400,夏葉,うふふ、とびきり大きな雪像も作ってみたいわね,"Ufufu, I would like to try making a large snow
+sculpture myself."
 3009006010410,果穂,"セツゾウ……？
 セツゾウってなんですか？","Snow sculpture?
 What do you mean by that?"
@@ -103,17 +108,19 @@ Here, let me look it up for you―"
 A Hokago Climax Girls snow sculpture!"
 3009006010470,樹里,……え、アタシたちのか？,"Huh, you mean a sculpture of us?"
 3009006010480,果穂,"はい！
-決めポーズの雪像を作って、同じポーズをするんです！","Yes! 
-I want to make them in a pose that we can then do ourselves!"
+決めポーズの雪像を作って、同じポーズをするんです！","Yes! I want to make them in a pose that we can then
+do ourselves!"
 3009006010490,夏葉,"うふふっ、面白そうじゃない
 偉人の銅像みたいで、なんだかワクワクするわ","Ufufu, sounds interesting.
-It kind of feels like making a statue of a great man. I'm getting pumped up."
+It kind of feels like making a statue of a great man.
+I'm getting pumped up."
 3009006010500,樹里,"いや、まずはもっと簡単なものから
 挑戦した方がいいんじゃねーか？　かまくらとか……","I mean, shouldn't we start with something easier though? 
 Maybe something like an igloo."
 3009006010510,果穂,"かまくら！　山でそーなんしたヒーローが、作ってました！
-吹雪の中で、風よけにするんです！","An igloo! A hero made something like that in the mountains! 
-It was even able to protect them even in a blizzard."
+吹雪の中で、風よけにするんです！","An igloo! A hero made something like that in the
+mountains! It was even able to protect them even in
+a blizzard."
 3009006010520,智代子,ヒーローでも遭難するんだね……,"So, heroes can be in danger themselves, huh..."
 3009006010530,凛世,猿も木から……落ちますゆえ……,Even monkeys can fall from trees...
 3009006010540,夏葉,"何かを作るのもいいけれど、
@@ -127,7 +134,8 @@ I bet Rinze-chan is gonna show us her hidden powers again!"
 still not quite there..."
 3009006010570,智代子,"そんなことないよ！　凛世ちゃんなら──
 いつの間にか雪玉たくさん作ってたりとかするよ！","That's not true! If it's you, 
-I know you're going to have made a bunch of snowballs before we know it!"
+I know you're going to have made a bunch of snowballs
+before we know it!"
 3009006010580,果穂,"凛世さんの必殺技ですね！
 でも、今度こそ負けませんよ！","Rinze-san's ultimate technique!
 But I definitely won't lose this time!"
@@ -136,7 +144,8 @@ But I definitely won't lose this time!"
 We can have some 1 on 1 matches afterwards too!"
 3009006010600,夏葉,"あら、誰が相手でも負けないわよ
 アナタにも凛世にも、もちろん果穂にも智代子にもね","Oh? It doesn't matter who I face, I won't lose.
-Not to you or Rinze. And of course not to Kaho or Chiyoko."
+Not to you or Rinze. And of course not to Kaho or
+Chiyoko."
 3009006010610,果穂,"えへへ！
 雪が積もったら、やりたいことがいっぱいです！","Ehehe! 
 There sure are a lot things we want to do in the snow!"

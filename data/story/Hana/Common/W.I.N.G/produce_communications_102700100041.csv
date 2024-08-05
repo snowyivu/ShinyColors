@@ -1,0 +1,32 @@
+id,name,text,trans
+1027001000410010,羽那,──……,──......
+1027001000410020,羽那,"……ふぁ……
+…………","... Aah...
+......"
+0000000000000000,プロデューサー,…………,......
+0000000000000000,プロデューサー,"（羽那、どうやら
+くしゃみをしたそうだな……）","(It sounds like you sneezed, Hana...)"
+select,,──はくしょん！,──Achoo!
+select,,大丈夫か？,Are you okay?
+select,,"……くしゃみ、
+手伝おうか？","... Would you like 
+some help?"
+1027001000410030,羽那,"えっ──
+…………くしゅんっ","Eh──
+... A sneeze."
+1027001000410040,羽那,"……あはっ
+プロデューサーのがうつっちゃった──！","... Aha.
+Producer, you sneezed──!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000000,プロデューサー,羽那、さっきからくしゃみをしたそうだけど……,"I heard you sneeze earlier, Hana..."
+1027001000410050,羽那,"あはっ、プロデューサーよく見てるね
+大丈夫だよー","Aha, you're watching me closely, huh?
+I'm doing okaaay──"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000000,プロデューサー,ほら、なんかこよりとかを使ってさ……,"You know, like some twisted paper cords..."
+1027001000410060,羽那,"えっ、それはない
+プロデューサー、それはないから──！","Eh, that's not it.
+Producer, that's not it at all──!"
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100041.json,
+Translator,Burbur,

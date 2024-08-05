@@ -1,8 +1,9 @@
 id,name,text,trans
 1003001000110010,めぐる,おはよう、プロデューサー！　ねえ、聞いて聞いて！,"Good morning, Producer! Hey, listen to this!"
 1003001000110020,めぐる,"昨日学校でね、わたしのファンだっていう子に会ったの！
-だからすぐ友達になったんだ～！","Yesterday at school, I met someone who said they're a fan of me!
-So we became friends right away～!"
+だからすぐ友達になったんだ～！","Yesterday at school, I met someone who said
+they're a fan of me! So we became friends
+right away～!"
 0000000000000,プロデューサー,"おはよう、めぐる
 そうか、良かったな","Good morning, Meguru.
 Really? That's great."
@@ -13,10 +14,12 @@ select,,大事にするんだぞ,"Make sure to
 cherish them."
 select,,俺も友達がほしいなぁ,"I want friends, too."
 1003001000110030,めぐる,"えへへ……！　アイドルとして成長したら、
-もっと友達もファンも増えるよね！","Ehehe...! If I grow as an idol, I can make even more friends, right?"
+もっと友達もファンも増えるよね！","Ehehe...! If I grow as an idol, I can make even more
+friends, right?"
 1003001000110040,めぐる,よーしっ！　もっと頑張ろーっと！,Alright! I'll have to work even harder!
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
-1003001000110050,めぐる,うん。これからもっともっと仲良くなるんだ！,Yeah. We're going to get more and more close from now on!
+1003001000110050,めぐる,うん。これからもっともっと仲良くなるんだ！,"Yeah. We're going to get more and more close
+from now on!"
 1003001000110060,めぐる,"次のお休み、その子と遊びに行く約束もしてるの！
 楽しみだなー！","We made plans to meet up on our next day off!
 I'm so excited!"

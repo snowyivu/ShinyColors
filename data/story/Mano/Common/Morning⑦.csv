@@ -2,7 +2,8 @@ id,name,text,trans
 1001001000710010,真乃,"プロデューサーさん、
 私、今日はいい日なんですっ","Producer-san, it's a wonderful day today!"
 0000000000000,プロデューサー,"うれしそうだな、真乃
-なんでいい日なんだ？","You seem happy, Mano. What makes it such a wonderful day?"
+なんでいい日なんだ？","You seem happy, Mano. What makes it such
+a wonderful day?"
 1001001000710020,真乃,私が育ててるお花が咲いたんですっ,The flowers I've been growing bloomed!
 0000000000000,プロデューサー,（花が咲いたのが、よほどうれしいらしい）,(She seems delighted about it.)
 select,,ちゃんと世話して偉いぞ,"Well done,
@@ -14,14 +15,17 @@ select,,俺は枯らしたことがある,"I once let
 some of mine
 wither."
 1001001000710030,真乃,"はいっ、毎日水やりして……時々肥料もあげて
-いつ咲くか楽しみにしていたんですっ",I watered them every day... and gave them some fertilizer every so often. I've been looking forward to seeing them bloom!
+いつ咲くか楽しみにしていたんですっ","I watered them every day... and gave them some
+fertilizer every so often. I've been looking forward
+to seeing them bloom!"
 1001001000710040,真乃,"なので今日、咲いてるのを見たときは、
 ほわぁって言っちゃいました！","So when I saw them blooming today, I went all hwaaaa!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1001001000710050,真乃,"はいっ、
 綺麗に咲いてくれました","Yes, they're blooming beautifully!"
 1001001000710060,真乃,"ほわ、写真を撮ってくればよかったですね
-そしたらプロデューサーさんにも見てもらえたのに","Hwa, I should have taken a picture. Then I could have showed it to you."
+そしたらプロデューサーさんにも見てもらえたのに","Hwa, I should have taken a picture.
+Then I could have showed it to you."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1001001000710070,真乃,"ほわわっ、そうだったんですか……
 それは悲しかったですよね……","Hwawa, I see...

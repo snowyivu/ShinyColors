@@ -1,0 +1,33 @@
+id,name,text,trans
+1027001000110010,羽那,"あはっ、プロデューサーだ
+おはようー","Aha, it's Producer.
+Good morningー"
+0000000000000000,プロデューサー,"おう、おはよう羽那
+早いんだな","Ah, good morning, Hana.
+You're here early."
+1027001000110020,羽那,"うん
+早く来たら、プロデューサーに会えるかなーと思って──！","Yeah.
+I thought if I came early, I could see you──!"
+0000000000000000,プロデューサー,……ええと、羽那──,"... U-Uhm, Hana──"
+select,,"俺も羽那に会えて
+嬉しいぞ","I'm happy to 
+see you too."
+select,,"……はは
+ありがとうな","... Haha.
+Thank you."
+select,,冗談だよな……？,"You're kidding, right...?"
+1027001000110030,羽那,えーっ、本当？,"Eh, really?"
+1027001000110040,羽那,"ふふっ、嬉しい──！
+……いい朝だねーっ","Fufu, I'm glad──!
+... This is a nice morningー"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001000110050,羽那,ふふっ、じゃあなんの話しよっか？,"Fufu, what shall we talk about?"
+1027001000110060,羽那,……今日の朝ごはんの話とか？,...What about today's breakfast?
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001000110070,羽那,えっ、何が？,"Eh, what?"
+1027001000110080,羽那,"……？
+……？？","......?
+......??"
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100011.json,
+Translator,Burbur,

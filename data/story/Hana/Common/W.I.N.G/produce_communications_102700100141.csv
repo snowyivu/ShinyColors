@@ -1,0 +1,34 @@
+id,name,text,trans
+1027001001410010,羽那,"あはっ、見て
+プロデューサー","Aha, look at this, Producer!"
+1027001001410020,羽那,"お母さんからのメッセ
+『かっこいいプロデューサーさんによろしく』だって──！","A message from my mom!
+""Say hi to the cool Producer for me""──!"
+1027001001410030,羽那,……ね？,... Right?
+0000000000000000,プロデューサー,はは……！,Haha...!
+select,,そんなことは……,That is kind of...
+select,,もちろんだ,Of course.
+select,,"お母さんと
+仲良しなんだな","You're good friends
+with your mom."
+1027001001410040,羽那,"あはっ
+プロデューサー、照れてる──！","Aha.
+You're embarassed, Producer──!"
+1027001001410050,羽那,"『かっこいいプロデューサーさん』じゃなくて
+『かわいいプロデューサーさん』かもね？","Not a ""cool producer"" but maybe
+more of a ""cute producer""?"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000000,プロデューサー,"こちらこそよろしくお願いしますと
+伝えておいてくれ","Tell her I said hi back for me, will you?"
+1027001001410060,羽那,"ふふっ、ありがとう
+ちゃんとお母さんに伝えておくね","Fufu, thank you.
+I'll be sure to let her know."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001001410070,羽那,"……そうだけど
+そうじゃなくて──！","... I know that, but
+it's not like that──!"
+1027001001410080,羽那,"もっと気になるところ、
+あるでしょ？",Is there anything you're concerned with?
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100141.json,
+Translator,Burbur,

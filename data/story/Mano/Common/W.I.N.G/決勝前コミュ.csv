@@ -1,7 +1,9 @@
 id,name,text,trans
 6001001040010,真乃,～～～♪♪,～～～♪♪
 0000000000000,プロデューサー,"（あれは真乃……小声で歌ってるのか
-決勝前なのに、どこか楽しそうだな……）","(That's Mano over there... is she singing? It looks like she's enjoying herself, even though she's got the finals right ahead of her.)"
+決勝前なのに、どこか楽しそうだな……）","(That's Mano over there... is she singing? It looks like
+she's enjoying herself, even though she's got the
+finals right ahead of her.)"
 0000000000000,プロデューサー,……真乃、本当に歌がうまくなったな,"...Mano, you've become a really good singer."
 6001001040020,真乃,"ほわっ……聴かれちゃいました
 なんだか恥ずかしいですね……ふふっ","Wha... you heard me?
@@ -10,13 +12,16 @@ That's kind of embarassing... heehee..."
 私、歌っていましたね……","Come to think of it, when we first met I was singing as well..."
 0000000000000,プロデューサー,"ああ、懐かしいな
 あのとき、真乃の歌声に何か光るものを感じたんだ","Sure brings back memories. 
-I remember I felt something twinkling in your voice back then."
+I remember I felt something twinkling in your voice
+back then."
 0000000000000,プロデューサー,"その直感は間違いじゃなかったな
 真乃はこうして光り輝いてくれた","And look at you now. My intuition wasn't mistaken. 
 You're positively shining!"
 6001001040040,真乃,私を輝かせてくれたのは、プロデューサーさんです,"It's you who made me shine, Producer-san."
 0000000000000,プロデューサー,"真乃が光る努力をしてくれた
-だから、ここまで輝けたんだと、俺は思ってるぞ","It's your hard work that sets you aglow, and that's why you can shine so brightly. That's my take on it, anyway."
+だから、ここまで輝けたんだと、俺は思ってるぞ","It's your hard work that sets you aglow, and that's
+why you can shine so brightly. That's my take on it,
+anyway."
 6001001040050,真乃,"ふふ……それじゃあステージで、
 もっともっと、きらきらしてきます！","Hehe... Well then, I'm off to sparkle like never before!"
 info,produce_events/600100104.json,

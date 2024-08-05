@@ -1,7 +1,8 @@
 id,name,text,trans
 4003001000230010,めぐる,"よーしっ、準備はバッチリOK！
 プロデューサー、最後に一言くれたら嬉しいな！","Alright, I'm totally ready!
-Producer, it'd make me happy if you'd say a few words first!"
+Producer, it'd make me happy if you'd say a
+few words first!"
 0000000000000,プロデューサー,"（気合いも準備も充分だ！
 なんて言おうか？）","(She is perfectly motivated and prepared!
 What should I say?)"
@@ -13,10 +14,12 @@ select,,"みんなも
 you closely!"
 select,,気楽にいこう,Take it easy.
 4003001000230020,めぐる,"そうだよね！　最後までしっかりやりきるよ！
-あ……でも、気を抜かないだけで大丈夫かな……？","That's right! I'll make sure to carry it out until the end!
-Ah... but will just staying focused be enough...?"
+あ……でも、気を抜かないだけで大丈夫かな……？","That's right! I'll make sure to carry it out until
+the end! Ah... but will just staying focused be
+enough...?"
 0000000000000,プロデューサー,"（元気に返事をしてくれたが、
-少し物足りない表情をしている）","(She responded energetically, but her expression looks less satisfied.)"
+少し物足りない表情をしている）","(She responded energetically, but her expression
+looks less satisfied.)"
 4003001000230030,めぐる,"うんっ！　プロデューサーもしっかり見ててね！
 これで本当に準備万端！","Yeah! Make sure to watch me, Producer!
 Now I'm one hundred percent ready!"

@@ -3,14 +3,19 @@ id,name,text,trans
 6002001030010,灯織,"ふう……なんとか勝てました
 上手くいって良かったです",Phew... I managed to win. I'm glad it went well.
 6002001030020,灯織,"次がもう決勝なんて、あっという間ですね
-なんだか、早すぎてちょっと怖いくらいです",It's already time for the finals. I'm almost a bit scared at how soon it is.
+なんだか、早すぎてちょっと怖いくらいです","It's already time for the finals.
+I'm almost a bit scared at how soon it is."
 0000000000000,プロデューサー,"順調な証拠だよ
-この調子でいけば絶対大丈夫だ",That's proof you're doing okay. If you keep it up you'll definitely do fine.
-0000000000000,プロデューサー,（……っと。また楽観的だとか言われてしまうかな）,(...Wait. Maybe I'm saying it too optimistically again)
+この調子でいけば絶対大丈夫だ","That's proof you're doing okay.
+If you keep it up you'll definitely do fine."
+0000000000000,プロデューサー,（……っと。また楽観的だとか言われてしまうかな）,"(...Wait. Maybe I'm saying it too optimistically
+again.)"
 6002001030030,灯織,"……プロデューサー、いつも励ましてくれて
-ありがとうございます","...Producer, thank you very much for always encouraging me."
+ありがとうございます","...Producer, thank you very much for always
+encouraging me."
 6002001030040,灯織,"その気持ちに応えられるよう、努力します
-決勝でベストを尽くせるように",I'll work hard to respond to it. I'll devote my best to the finals.
+決勝でベストを尽くせるように","I'll work hard to respond to it. I'll devote my best
+to the finals."
 0000000000000,プロデューサー,"灯織……
 ああ、楽しみにしているよ！","Hiori... Yeah, I'm looking forward to it!"
 info,produce_events/600200103.json,

@@ -1,6 +1,7 @@
 id,name,text,trans
 4901008020010,灯織,"プロデューサー、お仕事お疲れ様です
-そろそろ休憩しませんか？","Producer, good job on your work. Would you like to take a break soon?"
+そろそろ休憩しませんか？","Producer, good job on your work.
+Would you like to take a break soon?"
 0000000000000,プロデューサー,"おう、そうだな……！
 …………あれ？","Oh, right...!
 ...Huh?"
@@ -11,9 +12,12 @@ id,name,text,trans
 バレンタイン、なので……","Um, uh... Since it's Valentine's Day..."
 4901008020040,灯織,……チョコフォンデュを準備してみました,...I prepared and made chocolate fondue for you.
 4901008020050,灯織,"休憩に甘いもの、いかがですか……？
-果物とか、パンとか、色々あるんです","How about you eat something sweet during your break...? There's fruits, bread, and other things included too."
+果物とか、パンとか、色々あるんです","How about you eat something sweet during your
+break...? There's fruits, bread, and other things
+included too."
 0000000000000,プロデューサー,"本当か！　いただくよ、ありがとうな……！
-灯織も一緒に食べよう","Really? I'll take it, thanks...! You should have some with me too."
+灯織も一緒に食べよう","Really? I'll take it, thanks...!
+You should have some with me too."
 4901008020060,灯織,……はいっ！,...Okay!
 4901008020070,灯織,喜んでもらえて、よかった……,I'm glad you like it...
 info,special_communications/490100802.json,

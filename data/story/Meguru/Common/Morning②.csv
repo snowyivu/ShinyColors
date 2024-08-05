@@ -4,7 +4,8 @@ id,name,text,trans
 1003001000210020,めぐる,"うんっ！
 今すぐ走り出したい気分だよ！","Yeah!
 I feel like I want to start running!"
-0000000000000,プロデューサー,（めぐるはやる気を持て余しているみたいだ）,(It looks like she has more motivation than she knows how to deal with.)
+0000000000000,プロデューサー,（めぐるはやる気を持て余しているみたいだ）,"(It looks like she has more motivation than she knows
+how to deal with.)"
 select,,"その元気を
 仕事に活かそう","Make use of that
 energy in your work."
@@ -24,7 +25,8 @@ Starting to run all of a sudden is dangerous, right?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1003001000210070,めぐる,"さすがにわたしでも、
 事務所の中を走ったりはしないよー",Of course I wouldn't run in the office.
-1003001000210080,めぐる,プロデューサー、わたしのことそんなふうに思ってたの……？,"Producer, do you think I'm the kind of person who would do that?"
+1003001000210080,めぐる,プロデューサー、わたしのことそんなふうに思ってたの……？,"Producer, do you think I'm the kind of person who
+would do that?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100300100021.json,
 Translator,,

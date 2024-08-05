@@ -1,0 +1,140 @@
+id,name,text,trans
+2020012010010,透,あー……,Ahh…
+2020012010020,透,"えー……
+ないじゃん","Ehh…
+There's nothing in here."
+0000000000000,プロデューサー,ん？,Hm?
+0000000000000,プロデューサー,"ああ、悪い。今、飲み物しかないんだ
+腹減ってるなら、何か食べに行くか？","Oh, sorry. There's only drinks left in there right 
+now. If you're hungry, maybe we could grab a bite 
+somewhere?"
+0000000000000,プロデューサー,"うん……！
+美味いな、このからあげ","Mm...!
+This karaage is really delicious."
+2020012010030,透,うん,Yeah.
+0000000000000,女子高生１,──あっ……！　浅倉透だ！,──Ah...! It's Asakura Toru!
+0000000000000,女子高生２,えっ、どこ？,"Eh, where?"
+0000000000000,女子高生２,"うっそ、マジじゃん！
+ってか、こっち見てんだけど……！","Nooo waaay, it's her!
+Hold on, she's looking this way...!"
+0000000000000,男性客１,何？　芸能人？,What? A celebrity?
+0000000000000,男性客２,"ああ、見たことある……！
+なんだっけ、ほらアイドルの──","Yeah, I've seen her somewhere...!
+What was it again, you know, that idol thing──"
+2020012010040,透,"ふふ、見られてる
+めっちゃ","Fufu, I'm being looked at.
+A whole bunch."
+0000000000000,プロデューサー,"騒がれちゃったな……
+透、食べにくくないか？","It's getting a little rowdy...
+Does it bother you, Toru?"
+2020012010050,透,ううん,Nope.
+2020012010060,透,"うまいから
+からあげ","‘Cause it's delicious.
+The karaage."
+0000000000000,プロデューサー,はは、それならいいんだ,"Haha, it's all good if that's the case."
+0000000000000,プロデューサー,"でも、前より気付かれること多くなったよな
+街も歩きにくくなっただろ？","Still, you've been getting noticed a lot more lately. 
+Has it been difficult for you to walk outside?"
+2020012010070,透,え……歩けてる,Eh... It's been walkable.
+0000000000000,プロデューサー,"そうか
+困ってないならいいんだ","I see.
+It's fine if it hasn't made you uncomfortable."
+2020012010080,透,"あー……した方がいい？
+変装","Ahh... Would it be better if I did?
+Wearing a disguise."
+0000000000000,プロデューサー,"いや、透がしたくないなら
+しなくてもいいよ","No, if Toru doesn't want to 
+then it's fine even if you don't."
+2020012010090,透,『これひとつで、あなたの健康をバックアップ』,"『With just one of these, you'll be sure to have 
+your health backed-up.』"
+0000000000000,プロデューサー,"うん。『バランス栄養食』って言われてるものだ
+透もこのパッケージ、見たことあるだろ？","Right. They're these so-called『balanced diet 
+bars』. 
+I'm sure you've seen this package around, right?"
+2020012010100,透,"なんか、よく食べてる。クラスの人
+早弁代わりに","They eat them a lot. People in my class.
+As a quick meal."
+0000000000000,プロデューサー,"小腹が空いた時に食べるには
+ちょうどいいもんな","It's just the right portion 
+if you're feeling just a little hungry, after all."
+0000000000000,プロデューサー,"今回は、その栄養商品のCM出演の依頼だ
+CMはドラマ仕立てになるらしい","And this time, we've got an offer for you to appear 
+in a commercial for these.
+It's planned to be in the style of a short drama."
+0000000000000,プロデューサー,"だから、透がやってみてもいいって言ってくれるなら
+演技のレッスンも受けてもらう予定だ","So, if Toru decides to take this offer, 
+there'll be acting lessons scheduled for you."
+2020012010110,透,レッスンかー……,Lessons huh...
+0000000000000,プロデューサー,"無理にやってもらいたいわけじゃない
+気が乗らないなら、断ってくれても構わないよ","It's not like I'm forcing you to accept it or anything. 
+If you don't feel up to it, you can always reject the 
+offer."
+0000000000000,プロデューサー,"けど、大きな案件だ
+面倒なことも多いが、返ってくるものも多い","However, it's a big project. 
+So, while its demands are plenty, its returns are 
+similarly rewarding."
+2020012010120,透,じゃあ、やる,"Then, I'll do it."
+0000000000000,プロデューサー,"え……
+いいのか？","Eh…
+Are you sure?"
+2020012010130,透,撮られるのは一緒でしょ,It’s the same as being captured on camera right?
+0000000000000,プロデューサー,"それはそうだけど……よく考えてほしい
+透に窮屈な思いは、なるべくさせたくないんだ","That might be the case, but... I want you to think 
+about it carefully. I don't want you to feel like 
+you're forced into making this decision."
+select,,本当にいいのか？,Are you really sure about this?
+select,,責任を負うことになる,This means shouldering responsibilities
+select,,忙しくなるぞ？,"You'll be busy, you know?"
+2020012010140,透,"うん
+欲しいから、今は","Yeah.
+I want them. For now."
+2020012010150,透,それに────,Besides────
+2020012010160,透,"なんかあっても、取ってくれるでしょ
+責任","you'll take some of that responsibility too, right?"
+2020012010170,透,一緒に,Together.
+0000000000000,プロデューサー,"ああ、もちろんだ
+透だけに背負わせたりはしないよ","Yeah. Of course. 
+I won't let you take it all by yourself."
+0000000000000,プロデューサー,────やるってことでいいんだな？,"────I'll take that as you wanting to accept the 
+offer?"
+0000000000000,プロデューサー,"わかった
+でも何かあれば、いつでも俺に言ってくれ","Understood. 
+But, feel free to tell me if anything happens."
+2020012010180,透,うん,Yep.
+0000000000000,プロデューサー,"クライアントは大手健康食品会社だ
+その企業のイメージを損ねるようなことはできない","The client this time is a major functional food 
+company. So you mustn't do anything that'll 
+damage the reputation of the company."
+0000000000000,プロデューサー,"透も、もうわかってると思うけど
+透の自由は、ある程度制限されることになるし────","I'm sure Toru knows this already, but, 
+this means that your freedom will be restricted to 
+a certain extent, and────"
+2020012010190,透,わかってる,I know.
+2020012010200,透,でも────,But────
+2020012010210,透,"もらえないんでしょ
+なんにも背負わなかったら","I won't get them then, won't I.
+If I don't shoulder any responsibilities."
+2020012010220,透,でかいやつ,Big ones.
+0000000000000,プロデューサー,ああ、そうだ,"Yes, that's right."
+2020012010230,透,じゃあ、やる,"Then, I'll do it."
+2020012010240,透,もらいたいから,‘Cause I want them.
+0000000000000,プロデューサー,"演技のレッスンもそうだけど
+大手のCMだから、きっと露出も増える","It goes without a saying that it includes acting 
+lessons, but, accepting a huge commercial offer 
+like this means more appearances elsewhere too."
+0000000000000,プロデューサー,"透が自由に過ごせる時間が
+今よりも減ってしまうかもしれない","Hence, this might mean having lesser free time 
+than you have right now."
+2020012010250,透,うん,Yeah.
+2020012010260,透,"でも……なんか、足りなくて
+最近","But… It’s been feeling lacking.
+Recently."
+2020012010270,透,それに────,Besides────
+2020012010280,透,嬉しいことでしょ、増えてくの,"It's a good thing, isn't it. Having more of them."
+0000000000000,プロデューサー,"ああ、そうだな
+嬉しいことだ","Yeah, you're right. 
+It is a good thing."
+2020012010290,透,やるから、ちゃんと,I'll do it well. Properly.
+2020012010300,透,見てて,Watch me.
+info,produce_events/202001201.json,
+Translator,OrangeKabocha,

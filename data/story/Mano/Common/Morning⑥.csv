@@ -4,7 +4,8 @@ id,name,text,trans
 どうしたんだ、カレンダーをそんなに見つめて？","Morning, Mano.
 What's the matter, staring at the calendar like that?"
 1001001000610020,真乃,"実は、次のお休みにハイキングに行こうと思って
-今から楽しみなんです",I'm thinking about going for a hike in the mountains on my next day off. I'm already looking forward to it!
+今から楽しみなんです","I'm thinking about going for a hike in the mountains on
+my next day off. I'm already looking forward to it!"
 0000000000000,プロデューサー,（ハイキングか……）,"(A hike, huh...)"
 select,,ヤッホーって言うのか？,"Do you yell
 ""ya-ho""
@@ -17,20 +18,26 @@ select,,"怪我すると危ないし、
 don't, you
 could get hurt."
 1001001000610030,真乃,"はいっ
-やっぱり山へ行ったらヤッホーです",Yes! It's not a proper mountain hike without a ya-ho or two!
+やっぱり山へ行ったらヤッホーです","Yes! It's not a proper mountain hike without a ya-ho
+or two!"
 1001001000610040,真乃,"レッスンの成果を活かして、
-おっきなおっきな山びこを響かせてきますね",I'm going to use what I learned in my lessons to make it echo really loud!
+おっきなおっきな山びこを響かせてきますね","I'm going to use what I learned in my lessons to make
+it echo really loud!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1001001000610050,真乃,"山に咲くお花を見たりするのが好きで、
-たまに行くことがありますっ","I enjoy looking at the flowers that grow in the mountains, so I go there every once in a while."
+たまに行くことがありますっ","I enjoy looking at the flowers that grow in the
+mountains, so I go there every once in a while."
 1001001000610060,真乃,"今回はひさしぶりに行くので、
-楽しんでこようって思ってますっ","It's been a while since I last went, so I'm going to enjoy myself."
+楽しんでこようって思ってますっ","It's been a while since I last went, so I'm going
+to enjoy myself."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1001001000610070,真乃,"ほわわ……やめた方がいいんでしょうか……？
 アイドルですし、よけいな怪我をしたらいけませんね……","Hwawa... do you think it's better if I don't go...?
-Now that I'm an idol, I guess I can't afford to risk getting hurt..."
+Now that I'm an idol, I guess I can't afford to risk
+getting hurt..."
 1001001000610080,真乃,"楽しみにしてましたけど、
-やっぱりやめておきますねっ","I was really looking forward to it, but I think I'll forget about it."
+やっぱりやめておきますねっ","I was really looking forward to it, but I think I'll
+forget about it."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100100100061.json,
 Translator,"Pluie, Emelia",

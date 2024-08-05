@@ -1,0 +1,43 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since she was
+able to pass the first round of judging, she'd be able
+to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"However, reality is pretty harsh..."
+7026001040030,社長,………………,......
+0000000000000,プロデューサー,"……まだまだ先にも行けたと思うんです
+俺にもっと力があれば……","... I thought we could get even farther.
+If I only had more strength...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+7902001040030,社長,"力が足りないのなら、彼女とともに
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is
+you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+0000000000000,プロデューサー,羽那、残念だけど……,"Hana, I'm sorry but..."
+0000000000000,プロデューサー,二次審査、通過できなかったそうだ,We didn't pass the second round.
+7027001040010,羽那,"そっかー……
+何がだめだったんだろうなー","Oh...
+I wonder what went wrongー"
+7027001040020,羽那,"プロデューサー、あたしのこと
+すっごく支えてくれてたのに……ごめんね","Producer, even when you gave me support...
+I'm sorry."
+0000000000000,プロデューサー,"……いや
+羽那が謝ることなんてないぞ","...No.
+Hana has nothing to apologize for."
+7027001040030,羽那,…………,......
+0000000000000,プロデューサー,──よし！,──Alright!
+7027001040040,羽那,……？,...?
+0000000000000,プロデューサー,"今この瞬間に、
+ふたりで気持ちを切り替えよう","From this moment, let's get back on our feet
+and give ourselves a new start."
+0000000000000,プロデューサー,"まだまだ、別のチャンスだって
+待ってるはずだからさ","I'm sure there are other chances waiting for us
+out there."
+7027001040050,羽那,"……──
+ふふっ、うん──！","......──
+Fufu, sure──!"
+info,produce_events/702700104.json,
+Translator,meri,

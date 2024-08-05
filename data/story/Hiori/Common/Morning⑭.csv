@@ -1,7 +1,7 @@
 id,name,text,trans
 1002001001410010,灯織,プロデューサー、おはようございま……っ！,"Producer, good morni...!"
 0000000000000,プロデューサー,"ん、どうしたんだ灯織
-難しい顔をして","Hm, what's wrong Hiori? You look serious."
+難しい顔をして","Hm, what's wrong, Hiori? You look serious."
 1002001001410020,灯織,"っこ、これは、ちがいま……
 くしゅんっ！","I-it's not like th...
 Achoo!"
@@ -15,21 +15,26 @@ select,,体調には気を付けろよ,"Take care of
 your body."
 1002001001410030,灯織,"そうかもしれませんね……
 １回だけならいい噂らしいので、良かったです","That could be...
-If it's only once that means it's a good rumor, thankfully."
+If it's only once that means it's a good rumor,
+thankfully."
 1002001001410040,灯織,"今日はもうくしゃみをしないように
-気をつけないといけませんね",I'll have to be careful not to sneeze any more today.
+気をつけないといけませんね","I'll have to be careful not to sneeze any more
+today."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1002001001410050,灯織,"そんなはずはないんですが……お気遣い
-ありがとうございます","I don't think so, but... thank you very much for your consideration."
+ありがとうございます","I don't think so, but... thank you very much for
+your consideration."
 1002001001410060,灯織,"マスクは持っているので……大事をとって
-外にいる時はつけておきます",I own a mask so... when I go outside I'll make sure to wear it.
+外にいる時はつけておきます","I own a mask so... when I go outside I'll make
+sure to wear it."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1002001001410070,灯織,"すみま……く、くしゅん……っ！
 ……す、すみません","I'm s... A-Achoo!
 ...I-I'm sorry."
 1002001001410080,灯織,"自己管理もできないようじゃいけませんよね
 体調を崩さないように気をつけます……","I need to take care of myself.
-I'll try to be careful that my condition doesn't get worse..."
+I'll try to be careful that my condition doesn't
+get worse..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100200100141.json,
 Translator,,

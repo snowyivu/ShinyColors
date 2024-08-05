@@ -1,6 +1,6 @@
 id,name,text,trans
-3004010010010,恋鐘,ふんふ～ん♪,Hmhmmm~♪
-3004010010020,恋鐘,ふふふ～ん♪,Hmhmhmmm~♪
+3004010010010,恋鐘,ふんふ～ん♪,Hmhmmm～♪
+3004010010020,恋鐘,ふふふ～ん♪,Hmhmhmmm～♪
 3004010010030,霧子,"……
 恋鐘ちゃん……？","...
 Kogane-chan?"
@@ -14,7 +14,7 @@ What's the matter?"
 聴こえてきたから……","Your humming...
 I heard it..."
 3004010010090,霧子,──何か……切ってるの……？,──What's that... you're cutting...?
-3004010010100,恋鐘,んふふ～、レモン！,Mhuhu~ Lemons!
+3004010010100,恋鐘,んふふ～、レモン！,Mhuhu～ Lemons!
 3004010010110,霧子,わ……！,Aaah...!
 3004010010120,霧子,──すんすんー……,*sniff sniff*
 3004010010130,恋鐘,よかにおいやろ～,"It smells real good, don't it?"
@@ -23,7 +23,7 @@ I heard it..."
 Yes..."
 3004010010150,霧子,明るいにおい……,It smells sparkly...
 3004010010160,恋鐘,"んふふ～！
-こがんぴっかぴかのレモンやもん","Mhuhuhu~!
+こがんぴっかぴかのレモンやもん","Mhuhuhu～!
 That's 'cause they're sparkly lemons!"
 3004010010170,恋鐘,霧子も一緒にやらん？,"Do ya wanna help me out, Kiriko?"
 3004010010180,霧子,え……？,Hm...?
@@ -53,7 +53,7 @@ Fufu...!"
 優しいにおい……",Now there's... a friendly smell...
 3004010010340,恋鐘,"ん～？
 砂糖やけん甘かよ～","Huh?
-But sugar's gotta be smellin' sweet~"
+But sugar's gotta be smellin' sweet～"
 3004010010350,霧子,うん……,Yes...
 3004010010360,霧子,"レモンと……
 仲良しの……においだね……","It's the scent of...
@@ -78,8 +78,8 @@ then put a lid on top..."
 3004010010490,恋鐘,おてんとさんの当たらんとこで寝かせる！,Then to put it somewhere away from the sun!
 3004010010500,霧子,お日さまの……？,From the sun...?
 3004010010510,恋鐘,"うん～
-そいがコツ～！","Yeah~
-That's how it's done~!"
+そいがコツ～！","Yeah～
+That's how it's done～!"
 3004010010520,霧子,わぁ……,Wow...
 3004010010530,霧子,"レモンと……
 お砂糖と……はちみつ……","Lemon...
@@ -88,11 +88,11 @@ Sugar... And honey are..."
 甘くなるんだね……","...playing hide and seek...
 ...to become sweet..."
 3004010010550,恋鐘,"んふふ～
-もういいかい～って、毎日聞かんばね！","Nhuhu~
+もういいかい～って、毎日聞かんばね！","Nhuhu～
 And the sun'll keep asking if they're ready!"
 3004010010560,霧子,ふふ……,Fufu...!
 3004010010570,霧子,もう……いいかーい……,Are yooou... reeeady...?
-3004010010580,恋鐘,ん～……もういいか～い,Hmmm~ ...Are you reaaaady~?
+3004010010580,恋鐘,ん～……もういいか～い,Hmmm～ ...Are you reaaaady～?
 3004010010590,霧子,ふふふ……,Fufufu...!
 3004010010600,霧子,……まーだだよ,...Not done yet.
 info,produce_events/300401001.json,

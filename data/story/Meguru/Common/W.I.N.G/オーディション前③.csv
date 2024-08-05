@@ -1,19 +1,21 @@
 id,name,text,trans
 4003001000130010,めぐる,"ねえ、プロデューサー！　わたしの衣装、
-変なところはないかな？","Hey, Producer! Is there something off about my outfit?"
+変なところはないかな？","Hey, Producer! Is there something off about my
+outfit?"
 0000000000000,プロデューサー,（めぐるの衣装は……）,(Meguru's outfit...)
 select,,問題ないぞ！,Nothing's wrong!
 select,,大丈夫だ！,It's fine!
 select,,ちゃんとしてるぞ！,It's perfect!
 4003001000130020,めぐる,"良かったぁ！
-……あれ？　でも、それって褒めるほどじゃないってこと？","Thanks goodness!
-...Huh? But, is that the only good thing you've got to say?"
+……あれ？　でも、それって褒めるほどじゃないってこと？","Thank goodness!
+...Huh? But, is that the only good thing you've got
+to say?"
 0000000000000,プロデューサー,"（ちょっと戸惑わせてしまった……
 しっかり褒めた方が良かったかもしれない）","(I put her at a loss...
 It might have been better to praise her more.)"
 4003001000130030,めぐる,"ありがとう！　プロデューサーが見てくれたなら安心だよ
-よーしっ、頑張るぞー！","Thank you! If that's what Producer sees, I can have peace of mind.
-Alright, I'll do my best!"
+よーしっ、頑張るぞー！","Thank you! If that's what Producer sees, I can have
+peace of mind. Alright, I'll do my best!"
 0000000000000,プロデューサー,"（オーディションに向けて張り切っている
 どうやらしっかり自信を持てたようだ）","(She went into the audition enthusiastically.
 It's like she's full of self-confidence.)"

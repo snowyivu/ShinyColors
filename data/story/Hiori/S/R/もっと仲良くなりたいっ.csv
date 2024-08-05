@@ -1,53 +1,62 @@
 id,name,text,trans
-3002002020010,灯織,（ふぅ。今日のレッスンはこんなところかな）,(Whew. I guess that would be enough lessons for today.)
-3002002020020,灯織,（さて、早く帰って……）,(I better head home now.)
+3002002020010,灯織,（ふぅ。今日のレッスンはこんなところかな）,"(Phew. That should be enough practice for today's
+lesson.)"
+3002002020020,灯織,（さて、早く帰って……）,(I should head home soon...)
 3002002020030,めぐる,"あ、灯織
-お疲れ様！","Ah, Hiori.
-Hello!"
-3002002020040,灯織,……お疲れ様,Hello.
-3002002020050,めぐる,わたしもレッスン終わったところだし、一緒に帰ろう！,"I just finished my lessons too, so let's go home together!"
-3002002020060,灯織,え……まぁ、いいけど,Eh? I don't mind though.
-3002002020070,めぐる,ほんとー！？,Really?
-3002002020080,めぐる,わーい！　やったー！,Yay! Alright!
-3002002020090,灯織,一緒に帰るだけで、何でそんなに嬉しそうなの……,"We're just going home together but, how come you're that happy?"
+お疲れ様！","Ah, Hiori! Good work today!"
+3002002020040,灯織,……お疲れ様,...You too.
+3002002020050,めぐる,わたしもレッスン終わったところだし、一緒に帰ろう！,"Since I also just finished my lessons, how about we
+both go home together!"
+3002002020060,灯織,え……まぁ、いいけど,"Eh... Well, I don't mind."
+3002002020070,めぐる,ほんとー！？,REALLY!?
+3002002020080,めぐる,わーい！　やったー！,Yeaaah! Alright!
+3002002020090,灯織,一緒に帰るだけで、何でそんなに嬉しそうなの……,"We're just going home together, why are you
+that excited...?"
 3002002020100,めぐる,"えへへ～細かいことは気にしないでさ
-さ、行こ行こ～っ！","Ehehe  Don't worry about the small things.
-Come on, let's go!"
-3002002020110,めぐる,ふんふふっふーん♪,"Hmm, hmm-mm, hmmm."
-3002002020120,灯織,（レッスン後なのに、元気な子……）,"(She still has a lot of energy, even though we've just finished doing our lessons.)"
-3002002020130,灯織,……何がそんなに楽しいの？,What is making you feel so happy?
+さ、行こ行こ～っ！","Ehehe～ Don't worry about the details!
+Let's go gooo～!"
+3002002020110,めぐる,ふんふふっふーん♪,"Hmm, hmm-mm, hmmm♪"
+3002002020120,灯織,（レッスン後なのに、元気な子……）,(She's still full of energy after lessons...)
+3002002020130,灯織,……何がそんなに楽しいの？,...Is there anything fun about this?
 3002002020140,めぐる,"えー、灯織と一緒に帰れるんだから
-楽しいに決まってるよー！","Eh? I'm going home with you so, of course, I'm going to be happy!"
+楽しいに決まってるよー！","Ehh... Of course I'd have a fun time going home
+with you!"
 3002002020150,めぐる,"それに、レッスンも一緒にできてね、
-すっごく楽しかったよ！","Besides, being able to do our lessons together was really fun!"
-3002002020160,灯織,（……楽しい？　私といて？）,(Fun? With me?)
-3002002020170,灯織,……そうなの？,Really?
+すっごく楽しかったよ！","Besides, having these lessons together
+was sooo much fun!"
+3002002020160,灯織,（……楽しい？　私といて？）,(...Fun? With me?)
+3002002020170,灯織,……そうなの？,...Is that so?
 3002002020180,めぐる,"そうだよ！
-だからね、もっと灯織と仲良くなれたら嬉しいな！","Yes!
-Which is why, it'd be really nice if we get even closer!"
-3002002020190,灯織,私と仲良く……？,Get closer with me?
+だからね、もっと灯織と仲良くなれたら嬉しいな！","That's right!
+Which is why it'd be nice if we could get
+closer, Hiori!"
+3002002020190,灯織,私と仲良く……？,Get closer with me...?
 3002002020200,めぐる,"もーっと一緒にレッスンもしたいし……
-そしたらダンスとか歌もきっとぴったりになるし……","And I also want to do more lessons together.
-If we do that, I'm sure that we'll become in synce when it comes to things like dancing and singing."
+そしたらダンスとか歌もきっとぴったりになるし……","And I want to have more lessons together with
+you too... Then our dancing and singing will
+also be in sync..."
 3002002020210,めぐる,"あっ、それにさ、レッスンたくさん一緒にやれば、
-それだけたっくさん一緒に帰れるよねっ！","Oh, and if we do more lessons together, we'll be able to go home together as well!"
-3002002020220,灯織,……まぁ、そうだけど,"Well, that's true."
+それだけたっくさん一緒に帰れるよねっ！","Oh, and if we do more lessons together, we'll
+also be able to walk home together too!"
+3002002020220,灯織,……まぁ、そうだけど,"...Well, that's true."
 3002002020230,めぐる,"えっへへ！
-そう思うと、これからもすっごい楽しみだな～！","Ehehe
-Just thinking about that makes me look forward to it even more!"
+そう思うと、これからもすっごい楽しみだな～！","Ehehe!
+Thinking about it just makes me look forward to it
+more～!"
 3002002020240,めぐる,"あ、そうだ！
-ここは友情のハグを――","Ah, that's right!
-This is where we do the Hug of Friendship, so──"
-3002002020250,灯織,やめて,No.
+ここは友情のハグを――","Oh, right!
+How about a friendship hug──"
+3002002020250,灯織,やめて,No thanks.
 3002002020260,めぐる,"うぐ……
-何で止めるの……","Ugh...
-Why are you putting a stop to this?"
-3002002020270,灯織,……調子に乗らない,Don't get too carried away.
-3002002020280,めぐる,ぶー。せっかく仲良くなれるチャンスだったのにー！,Boo. That was a great chance to get even closer!
-3002002020290,灯織,……だから、その,"Because, well..."
-3002002020300,灯織,……仲良くなるにしても、少しずつ、だから,Even getting closer to someone has to be done one step at a time.
-3002002020310,めぐる,灯織……！,Hiori!
-3002002020320,灯織,……もう、いいから早く帰ろう,"Come on, let's hurry up and go home."
-3002002020330,めぐる,うん！,Okay!
+何で止めるの……",Ugh... Why did you tell me to stop...
+3002002020270,灯織,……調子に乗らない,...Don't get too carried away.
+3002002020280,めぐる,ぶー。せっかく仲良くなれるチャンスだったのにー！,"Boo. It was a good chance for us to become
+closer friends!"
+3002002020290,灯織,……だから、その,"...Because, well..."
+3002002020300,灯織,……仲良くなるにしても、少しずつ、だから,"...Even becoming closer to someone has to be
+done step by step."
+3002002020310,めぐる,灯織……！,Hiori...!
+3002002020320,灯織,……もう、いいから早く帰ろう,"...Come on, let's hurry and go home."
+3002002020330,めぐる,うん！,Sure!
 info,produce_events/300200202.json,
-Translator,,
+Translator,meri,

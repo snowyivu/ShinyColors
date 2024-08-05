@@ -1,0 +1,29 @@
+id,name,text,trans
+1027001001510010,羽那,"プロデューサーって、
+お休みの日はいつも何してるの？","What do you usually do on your days off, Producer?"
+0000000000000000,プロデューサー,"えっ、俺か？
+……羽那、そんなこと知りたいのか？","Eh, me?
+... Is that what you want to know, Hana?"
+1027001001510020,羽那,"ふふっ、うん
+だって気になるんだもん","Fufu, yeah.
+I'm pretty curious."
+0000000000000000,プロデューサー,そうだな……,"Right, I usually..."
+select,,ゆっくりしてるよ,Take it easy.
+select,,…………,......
+select,,寝てるかな,"Sleep, I guess."
+1027001001510030,羽那,そうなんだーっ,I see──
+1027001001510040,羽那,"……じゃあ、あたしが休みの日に誘ったら
+会ってくれたりする？","... Then if I were to ask you out on your day off,
+would you like to meet up?"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001001510050,羽那,……あはっ,... Aha.
+1027001001510060,羽那,"なんかプロデューサー、
+休みの日も仕事してそうだねーっ","Seems like you're working even on your day off,
+Producer──"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001001510070,羽那,そっかー,I seeー
+1027001001510080,羽那,"プロデューサー、
+いつもすっごく働いてるもんね","You always work so hard, Producer."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100151.json,
+Translator,Burbur,

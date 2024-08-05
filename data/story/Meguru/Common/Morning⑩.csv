@@ -1,9 +1,12 @@
 id,name,text,trans
-1003001001010010,めぐる,……プロデューサー、おはようございます,"...good morning, Producer."
+1003001001010010,めぐる,……プロデューサー、おはようございます,"...Good morning, Producer."
 0000000000000,プロデューサー,"ど、どうしたんだ、めぐる
-いつもと雰囲気が違うなぁ","W-What's wrong, Meguru? You're not in your usual spirits. "
+いつもと雰囲気が違うなぁ","W-What's wrong, Meguru?
+You're not in your usual spirits."
 1003001001010020,めぐる,"えへへ！　昨日学校でマナーの授業があったんだ！
-……プロデューサーにも、タメ口はダメかなと思って","Ehehe! I had a manners class at school yesterday...! Since you're also my producer, I thought it was bad to usual casual speech. "
+……プロデューサーにも、タメ口はダメかなと思って","Ehehe! I had a manners class at school yesterday...!
+Since you're also my producer, I thought it was bad
+to usual casual speech."
 0000000000000,プロデューサー,敬語かぁ……,Polite speech huh...?
 select,,"自然体の方が
 めぐるらしい","Meguru's style is a
@@ -14,7 +17,8 @@ time and place."
 1003001001010030,めぐる,"そうなんだ？
 えへへー！　ありがとう！",Is that so? Eheheー! Thanks!
 1003001001010040,めぐる,"敬語だとなんだか変な感じがしちゃうし……
-今まで通りに話すね！",Polite speech feels a little funny to me... I'll keep talking like usual!
+今まで通りに話すね！","Polite speech feels a little funny to me...
+I'll keep talking like usual!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1003001001010050,めぐる,"本当に！？
 あ、でも敬語は使ってなくても……","Really!? Ah, but even if I don't use polite speech..."
@@ -22,9 +26,11 @@ time and place."
 思ってるからね！","I still thinking you're amazing, Producer!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1003001001010070,めぐる,"どういう時に敬語を使えばいいんだろう……？
-社長には……敬語？",What kind of situations should I use polite speech...? With our... president?
+社長には……敬語？","What kind of situations should I use polite speech...?
+With our... president?"
 1003001001010080,めぐる,"うーん……話すことよりも、
-いつ敬語を使えばいいかが気になっちゃうよー",Hmmm... I'm going to thinking more about when to use honorifics than speakingー
+いつ敬語を使えばいいかが気になっちゃうよー","Hmmm... I'm going to thinking more about when to
+use honorifics than speakingー"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100300100101.json,
 Translator,Batsu,

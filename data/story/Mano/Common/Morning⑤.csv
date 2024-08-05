@@ -1,6 +1,7 @@
 id,name,text,trans
 1001001000510010,真乃,"今日はぽかぽかしてて、
-お外でご飯が食べたくなる気分です",It's so nice and warm today. It makes me feel like eating outdoors.
+お外でご飯が食べたくなる気分です","It's so nice and warm today. It makes me feel like
+eating outdoors."
 0000000000000,プロデューサー,確かにそんな気分になるな,"Yeah, it does feel like a perfect day for that."
 1001001000510020,真乃,"プロデューサーさん、
 お外でご飯を食べるなら何がいいですか？","If you were to eat outside, what would you like to eat?"
@@ -10,7 +11,8 @@ select,,バーベキュー,Barbecue.
 select,,スナック菓子,Snacks.
 1001001000510030,真乃,"ほわ～、いいですね～
 お野菜があふれそうなくらいパンに挟んであって……","Hwaa, that's a good choice.
-The ones stuffed with so many veggies they almost fall out..."
+The ones stuffed with so many veggies they almost
+fall out..."
 1001001000510040,真乃,"お昼ご飯はサンドイッチにしようかな？
 ふふっ、お腹空いてきちゃいました","Maybe I should have sandwiches for lunch today?
 Heehee, I'm starting to get hungry."
@@ -25,7 +27,8 @@ I see, you had me surprised for a moment..."
 1001001000510070,真乃,"お外で食べるお菓子は美味しいですよね
 私もそう思いますっ","Snacks taste better in the open air, I think so too!"
 1001001000510080,真乃,"……でも、できたら
-ご飯もちゃんと食べてくださいね、プロデューサーさんっ","...But, if you can... please make sure to eat actual meals as well, Producer-san."
+ご飯もちゃんと食べてくださいね、プロデューサーさんっ","...But, if you can... please make sure to eat actual
+meals as well, Producer-san."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/100100100051.json,
 Translator,Pluie,

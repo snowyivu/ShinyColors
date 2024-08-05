@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000000,プロデューサー,羽那、はるきとすごく仲がいいよな,"You really get along well with Haruki, don't you?"
+1027001001310010,羽那,ふふっ、うん,"Fufu, yeah."
+1027001001310020,羽那,"……はるきちゃんって、
+いろんなことを知ってるし、しっかりしてるし","... Haruki-chan knows so many things,
+she's so reliable."
+1027001001310030,羽那,"はるきちゃんと話すの、
+すっごく面白いの──！","I talk a lot to her,
+it's so interesting──!"
+select,,"いい仲間に
+会えたんだな","You met good
+company"
+select,,"いつもどんな
+ことを話すんだ？","What do you
+always talk about?"
+select,,"仕事の話を
+するのか？","Do you talk 
+about work?"
+1027001001310040,羽那,"そうだね──！　２８３に入らなかったら
+はるきちゃんにも会えてないもんね","That's right──! If I hadn't join 283Pro,
+I wouldn't have met Haruki."
+1027001001310050,羽那,ふふっ、アイドルになってよかったーっ,"Fufu, I'm glad I became an idolー"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001001310060,羽那,"えっ
+……えっと…………","Uh.
+... Uhm..."
+1027001001310070,羽那,"あはっ、いろいろありすぎて思い出せない
+ちょっと待ってね、今思い出すから──！","Aha, there's so much we talk about, I can't remember.
+Hold on, I'll try to remember──!"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001001310080,羽那,うーん、お仕事の話もするけど……,"Yeah, we talk about work too, but..."
+1027001001310090,羽那,"どっちかというと、なんでもない
+普通の話をすることが多いかな？","We don't really talk much about that.
+Guess we mostly talk about ordinary things?"
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100131.json,
+Translator,Burbur,

@@ -1,0 +1,28 @@
+id,name,text,trans
+1027001000210010,羽那,"プロデューサー
+今日、間違って飲み物ふたつ買っちゃったの","Oh, Producer.
+I accidentally bought two drinks today."
+1027001000210020,羽那,よかったら、どっちかもらってくれる？,"If you like, how about you pick one?"
+0000000000000000,プロデューサー,"えっ
+俺がもらっちゃってもいいのか？","Eh?
+You don't mind it if I pick one?"
+0000000000000000,プロデューサー,それなら──,Then I will pick──
+select,,"ミルクティーに
+しようかな",Milk tea.
+select,,ほうじ茶で,"Roasted
+green tea."
+select,,どっちでもいいよ,Either one.
+1027001000210030,羽那,はい、ミルクティー,"Here you go, milk tea──"
+1027001000210040,羽那,"……ふふっ、プロデューサーも
+ミルクティー、飲むんだーっ","...Fufu, even you drink milk tea."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001000210050,羽那,"あはっ、プロデューサーは
+なんとなくこっちかなって思ってた──！","Aha, I had an idea you might pick it, Producer──!"
+1027001000210060,羽那,はい、どうぞ,"Alright, here you go."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001000210070,羽那,それ、一番困るやつ──！,That's so troublesome!
+1027001000210080,羽那,"……そういうこと言うなら
+どっちもあげないからね","...If you're that indecisive, I won't even give you one."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100021.json,
+Translator,Burbur,

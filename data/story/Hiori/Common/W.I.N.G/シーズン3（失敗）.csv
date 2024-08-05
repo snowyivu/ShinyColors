@@ -1,10 +1,13 @@
 id,name,text,trans
 7902001060010,社長,"やはりここまで来ると、
-乗り越えるべき壁も高かったな……",The wall to overcome after coming this far was pretty high...
+乗り越えるべき壁も高かったな……","The wall to overcome after coming this far
+was pretty high..."
 7901001060010,はづき,"結果は残念でしたけど……
-おふたりは立派にやってましたよ！",It's too bad about the results... You both did splendid!
+おふたりは立派にやってましたよ！","It's too bad about the results...
+You both did splendid!"
 7901001060020,はづき,"ここまで来れただけでも、
-胸を張って誇れることだと私は思います",I think that even coming this far that you should feel proud about it.
+胸を張って誇れることだと私は思います","I think that even coming this far that you should
+feel proud about it."
 7902001060020,社長,"ああ、良い活躍だった
 それはたしかだ","Yes, it was certainly a great effort."
 0000000000000,プロデューサー,"……俺もそう思います
@@ -18,16 +21,18 @@ id,name,text,trans
 どうかしましたか？",Ah... Producer. Is something wrong?
 0000000000000,プロデューサー,あのな……,You see...
 0000000000000,プロデューサー,"（灯織はこんなにも頑張っているのに……
-なんて結果を伝えればいいのか）",(Hiori is trying this hard... How should I tell her about the results?)
+なんて結果を伝えればいいのか）","(Hiori is trying this hard... How should I tell her about
+the results?)"
 7002001060030,灯織,"その様子だと……
-私は『W.I.N.G.』に参加、できないんですね","So it's like that... I won't be able to join in ""W.I.N.G.""."
+私は『W.I.N.G.』に参加、できないんですね",So it's like that... I won't be able to join in W.I.N.G.
 0000000000000,プロデューサー,……ああ、すまない,"Yeah, I'm sorry."
 7002001060040,灯織,"こうなった以上、またレッスンや仕事を重ねて
 やれることをやるしかありません",All I can do is keep doing lessons and work.
 7002001060050,灯織,"でも、正直に言うと……
-『W.I.N.G.』に出たかったです","If I'm honest... I wanted to appear in ""W.I.N.G.""."
+『W.I.N.G.』に出たかったです",If I'm honest... I wanted to appear in W.I.N.G.
 0000000000000,プロデューサー,"アイドルとしての活動は続いていく
-やれることをやっていこう","You still have activities as an idol, keep doing what you can."
+やれることをやっていこう","You still have activities as an idol, keep doing what
+you can."
 7002001060060,灯織,……はい！,...Okay!
 info,produce_events/700200106.json,
 Translator,,
