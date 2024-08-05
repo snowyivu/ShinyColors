@@ -2,9 +2,11 @@ id,name,text,trans
 1014001000710010,甘奈,"あっ、プロデューサーさん！
 聞いて聞いてー","Ahh, Producer-san! Listen to thisー"
 0000000000000,プロデューサー,"どうしたんだ、甘奈？
-随分と嬉しそうだけど","What's wrong, Amana? Though, you seem really excited."
+随分と嬉しそうだけど","What's wrong, Amana?
+Though, you seem really excited."
 1014001000710020,甘奈,"えへ
-今度ね、いつも通ってるショップでセールがあるんだ☆","Ehe! Next time I go, the shop I always visit is having a sale☆"
+今度ね、いつも通ってるショップでセールがあるんだ☆","Ehe! Next time I go, the shop I always visit is having
+a sale! ☆"
 0000000000000,プロデューサー,（甘奈はセールを楽しみにしているようだ）,(Amana seems to be looking forward to the sale.)
 select,,"俺も広告は
 見るようにしてる","I look for those
@@ -14,17 +16,23 @@ much as you want"
 select,,混みそうだな,"It'll probably
 be crowded"
 1014001000710030,甘奈,"広告のチェックは大切だよね！
-どんなの買おうかなって考えるの楽しいもん！","It's important to check the ads, right! It's so fun thinking about what I want to buy!"
+どんなの買おうかなって考えるの楽しいもん！","It's important to check the ads, right!
+It's so fun thinking about what I want to buy!"
 1014001000710040,甘奈,"ちゃーんとお小遣い貯めてあるし、
-ほしかった服、ばっちりゲットしちゃうよ☆","Since I've been saving up my allowance so well, it's the perfect chance to get the clothes I've been really wanting☆"
+ほしかった服、ばっちりゲットしちゃうよ☆","Since I've been saving up my allowance so well, it's
+the perfect chance to get the clothes I've been
+really wanting! ☆"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1014001000710050,甘奈,"セールだからって、買いすぎちゃダメなんだよ？
-セーブしないと☆","Since it's a sale, it's bad to buy too much, yeah? I gotta save☆"
+セーブしないと☆","Since it's a sale, it's bad to buy too much, yeah?
+I gotta save☆"
 1014001000710060,甘奈,"ホントは好きなだけ買いたいけどねー
-我慢、我慢！","I really wanna shop till I drop though, y'knowー Restrain myself, restrain myself!"
+我慢、我慢！","I really wanna shop till I drop though, y'knowー
+Restrain myself, restrain myself!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1014001000710070,甘奈,"混んでるとこで買うから楽しいんだよ！
-すっごくテンション上がるんだから",It's fun to shop in crowded places! There's so much energy in the air!
+すっごくテンション上がるんだから","It's fun to shop in crowded places!
+There's so much energy in the air!"
 1014001000710080,甘奈,これって女の子だけの感覚なのかなー？,Is that a feeling only girls can relate toー?
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101400100071.json,
