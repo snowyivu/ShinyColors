@@ -274,10 +274,10 @@ Morning⑮,Morning ⑮
 リハーサル前,Before Rehearsal
 リハーサル後,After Rehearsal
 感謝祭本番前,Before Fan Fest
-オーディション後 勝利①,Audition Win①
-オーディション後 勝利②,Audition Win②
-オーディション後 敗北①,Audition Fail①
-オーディション後 敗北②,Audition Fail②
+オーディション後 勝利①,Audition Win ①
+オーディション後 勝利②,Audition Win ②
+オーディション後 敗北①,Audition Fail ①
+オーディション後 敗北②,Audition Fail ②
 始まり、もう一度,"Beginning, Once More"
 『頑張りたい』,I Want to Aim Higher
 空が赤いから,Because the Sky is Red
@@ -413,7 +413,7 @@ My real heart,My real heart
 【’19Xmas】コーヒーカップ,[19Xmas] Coffee Mug
 【’19Xmas】うさぎのぬいぐるみ,[19Xmas] Rabbit Plushie
 【’19Xmas】咲耶・ネクタイ,[19Xmas] Sakuya's Necktie
-【白瀬 咲耶】2020バレンタインデー,[19Xmas] 2020 Valentine's Day
+【白瀬 咲耶】2020バレンタインデー,[Sakuya] 2020 Valentine's Day
 雨の中で光る原石,An unpolished gem shines in the rain. 
 初めてはソツなく？,Flawless the first time?
 ひらり、かわして,Light exchanges. 
@@ -935,38 +935,38 @@ SLEEP SLEEPLESS,SLEEP SLEEPLESS
 ホームボイス1,Home Voice 1
 ホームボイス2,Home Voice 2
 ホームボイス3,Home Voice 3
-ホームタッチボイスA①,Home Touch Voice A①
-ホームタッチボイスA②,Home Touch Voice A②
-ホームタッチボイスB①,Home Touch Voice B①
-ホームタッチボイスB②,Home Touch Voice B②
-ホームタッチボイスC①,Home Touch Voice C①
-ホームタッチボイスC②,Home Touch Voice C②
-プロデュースボイス①,Produce Voice①
-プロデュースボイス②,Produce Voice②
-プロデュースボイス③,Produce Voice③
-プロデュースボイス④,Produce Voice④
-プロデュースボイス⑤,Produce Voice⑤
-プロデュースボイス⑥,Produce Voice⑥
-プロデュースボイス⑦,Produce Voice⑦
-プロデュースボイス⑧,Produce Voice⑧
-プロデュースボイス⑨,Produce Voice⑨
-プロデュースボイス⑩,Produce Voice⑩
-プロデュースボイス⑪,Produce Voice⑪
-プロデュースボイス⑫,Produce Voice⑫
-プロデュースボイス⑬,Produce Voice⑬
-タッチボイス①,Touch Voice①
-タッチボイス②,Touch Voice②
-タッチボイス③,Touch Voice③
-タッチボイス④,Touch Voice④
-タッチボイス⑤,Touch Voice⑤
-タッチボイス⑥,Touch Voice⑥
-タッチボイス⑦,Touch Voice⑦
-タッチボイス⑧,Touch Voice⑧
-タッチボイス⑨,Touch Voice⑨
-タッチボイス⑩,Touch Voice⑩
-タッチボイス⑪,Touch Voice⑪
-タッチボイス⑫,Touch Voice⑫
-タッチボイス⑬,Touch Voice⑬
+ホームタッチボイスA①,Home Touch Voice A ①
+ホームタッチボイスA②,Home Touch Voice A ②
+ホームタッチボイスB①,Home Touch Voice B ①
+ホームタッチボイスB②,Home Touch Voice B ②
+ホームタッチボイスC①,Home Touch Voice C ①
+ホームタッチボイスC②,Home Touch Voice C ②
+プロデュースボイス①,Produce Voice ①
+プロデュースボイス②,Produce Voice ②
+プロデュースボイス③,Produce Voice ③
+プロデュースボイス④,Produce Voice ④
+プロデュースボイス⑤,Produce Voice ⑤
+プロデュースボイス⑥,Produce Voice ⑥
+プロデュースボイス⑦,Produce Voice ⑦
+プロデュースボイス⑧,Produce Voice ⑧
+プロデュースボイス⑨,Produce Voice ⑨
+プロデュースボイス⑩,Produce Voice ⑩
+プロデュースボイス⑪,Produce Voice ⑪
+プロデュースボイス⑫,Produce Voice ⑫
+プロデュースボイス⑬,Produce Voice ⑬
+タッチボイス①,Touch Voice ①
+タッチボイス②,Touch Voice ②
+タッチボイス③,Touch Voice ③
+タッチボイス④,Touch Voice ④
+タッチボイス⑤,Touch Voice ⑤
+タッチボイス⑥,Touch Voice ⑥
+タッチボイス⑦,Touch Voice ⑦
+タッチボイス⑧,Touch Voice ⑧
+タッチボイス⑨,Touch Voice ⑨
+タッチボイス⑩,Touch Voice ⑩
+タッチボイス⑪,Touch Voice ⑪
+タッチボイス⑫,Touch Voice ⑫
+タッチボイス⑬,Touch Voice ⑬
 信頼度Lv.2ボイス,Trust Lv.2 Voice
 信頼度Lv.3ボイス,Trust Lv.3 Voice
 信頼度Lv.4ボイス,Trust Lv.4 Voice
@@ -1464,3 +1464,9 @@ in the てーにんぐるーむ,in the Ten-ing Room
 信頼度Lv.14ボイス,Trust Lv.14 Voice
 信頼度Lv.15ボイス,Trust Lv.15 Voice
 信頼度Lv.16ボイス,Trust Lv.16 Voice
+ホームタッチボイスA③,Home Touch Voice A ③
+ホームタッチボイスB③,Home Touch Voice B ③
+ホームタッチボイスC③,Home Touch Voice C ③
+TV出演後コミュ①,Post-TV Appearance ①
+TV出演後コミュ②,Post-TV Appearance ②
+chira chira,chira chira (flicker flicker)
