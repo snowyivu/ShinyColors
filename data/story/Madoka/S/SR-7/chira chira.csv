@@ -11,7 +11,8 @@ Errm..."
 3021017010050,円香,"そんなつもりじゃなくて
 自分のパートだと思ったんでしょ","You didn't mean to do it,
 but thought it was your part, did you?"
-3021017010060,透,あー\nふふっ,Ahhー. Hehe.
+3021017010060,透,"あー
+ふふっ",Ahhー. Hehe.
 3021017010070,小糸,そ、そうなんだ……,I-I see...
 3021017010080,円香,"なんとかなったんなら
 気にしない","No worries, as long as it worked out in the end."
@@ -33,17 +34,17 @@ You're right～"
 3021017010170,雛菜,透先輩、それ何～？,"What's that you're having, Toru-senpai～?"
 3021017010180,透,"ん
 なんか……",Hm. This one...
-3021017010190,透,『ヒエッと氷河期ゼリー』だって,"""Gasp & it Freezes into Ice Age Jelly"", it says."
+3021017010190,透,『ヒエッと氷河期ゼリー』だって,"""Gasp! & it Freezes into Ice Age Jelly"", it says."
 3021017010200,小糸,"混ぜたら氷みたいなゼリーになるって──
-楽しそうだね……！","It says if you mix it, it'd become an ice-like jelly──
-That sounds so interesting...!"
+楽しそうだね……！","Apparently mixing it together will turn it into 
+ice-like jelly── That sounds so interesting...!"
 3021017010210,円香,それ、水使うって書いてあるけど,"Instructions say to use it on water, though."
 3021017010220,小糸,も、持ってくるね,I-I'll go get some now.
 3021017010230,透,"ダメ？
-コーラじゃ","We shouldn't?
-It's not cola."
+コーラじゃ","I dunno if that's a bad idea?
+What if it's like cola."
 3021017010240,小糸,ぴぇ……！,Pyeh...!
-3021017010250,円香,自己責任で,Take responsibility for your own choices.
+3021017010250,円香,自己責任で,"Well, play around and you'll find out."
 3021017010260,雛菜,"今日のライブの感想
 もうまとめられてるって～","Looks like a compilation of impressions for today's
 live has already been prepared～"
@@ -86,7 +87,7 @@ And that's how you see it."
 3021017010380,透,なんか、あるって,"Like, there's something there."
 3021017010390,透,そしたら、いた,And there.
 3021017010400,透,みんなが,Everyone's there.
-3021017010410,円香,ほどほどにね,Don't over do it.
+3021017010410,円香,ほどほどにね,Don't overdo it.
 3021017010420,円香,"直視し過ぎると
 目、悪くなるから","If you stare directly at it too much,
 your eyes will go bad."
@@ -94,4 +95,4 @@ your eyes will go bad."
 3021017010440,透,────あ,───Ah.
 3021017010450,透,切れちゃった,It cut off.
 info,produce_events/302101701.json,
-Translator,,
+Translator,Mycstea,

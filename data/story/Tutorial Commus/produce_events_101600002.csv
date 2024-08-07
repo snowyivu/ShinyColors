@@ -6,27 +6,29 @@ on downtown... I'll head to the park.)"
 0000000000000,プロデューサー,"（とにかく足を使うんだ
 無駄な時間なんてないぞ……）","(Anyways I'd better start walking.
 No point in wasting time...)"
-1016001010020,？？？,──あの、すみません,"──Umm, excuse me."
+1016001010020,？？？,──あの、すみません,"──Uhm, excuse me."
 0000000000000,プロデューサー,"よしっ！　……え？
 ……お、俺ですか？","Alright! ...Huh?
 ...Oh, are you talking to me?"
 1016001010030,？？？,"はい。突然声をかけたりして、すみません
 袖のボタンが落ちそうで、気になってしまって……","Yes. Pardon me for suddenly intruding.
-I just happened to notice the button on your sleeve fell off..."
+I just happened to notice that the button on your
+sleeve fell off..."
 0000000000000,プロデューサー,"えっ？
 ……あ、本当だ","Ehh?
 ...Ah, you're right."
 0000000000000,プロデューサー,"すみません……ありがとうございます
-恥ずかしいところを見られちゃって……","Sorry... thank you very much.
+恥ずかしいところを見られちゃって……","Sorry... Thank you very much.
 You saw something embarassing..."
 1016001010040,？？？,ふふ、いいえ～,"Fufu, not at all."
 0000000000000,プロデューサー,ははは……,Hahaha...
-0000000000000,プロデューサー,（なんだろう……この人の笑顔、すごく優しいなぁ……）,"(What the... this woman's smile, it's amazingly tender...)"
+0000000000000,プロデューサー,（なんだろう……この人の笑顔、すごく優しいなぁ……）,"(What the... this woman's smile, it's amazingly
+tender...)"
 1016001010050,？？？,"あの……よかったら、私に直させてもらえませんか？
 裁縫道具を持ってるんです","Um... if it's alright, would you like me to fix it?
 I've got a sewing kit with me."
 0000000000000,プロデューサー,"えっ……いやいや！
-そんなことまでしてもらうわけには──","Eh... no need!
+そんなことまでしてもらうわけには──","Eh... No need!
 I couldn't ask you to do such a thing──"
 1016001010060,？？？,"でも、もう落ちちゃいそうですよ……？
 どうぞ、ご遠慮なさらず","But, it's already slipping isn't it..?
@@ -41,7 +43,8 @@ Just one second, okay?"
 笑顔に、つられちゃうんだよなあ……）","(I-I asked without thinking...
 But somehow I got caught up in her smile...)"
 1016001010080,？？？,はい、できました♪,"Okay, all done♪"
-0000000000000,プロデューサー,（自然とあったかい気持ちになるというか……）,(Or perhaps you could say her aura feels very natural and warm...)
+0000000000000,プロデューサー,（自然とあったかい気持ちになるというか……）,"(Or perhaps you could say her aura feels very natural
+and warm...)"
 1016001010090,？？？,……？,...?
 0000000000000,プロデューサー,"あっ……おおっ、あっという間ですね……！
 本当に、なんとお礼を言っていいか","Ah... ohh, you did it in the blink of an eye!
@@ -55,24 +58,25 @@ Well then, I'll be off..."
 Would you like to become an idol?"
 1016001010110,？？？,"えっ？
 アイドル、ですか？","Eh?
-An... idol?"
+An... Idol?"
 0000000000000,プロデューサー,びっくりされましたよね、すみません,"It's pretty out of the blue, sorry."
 0000000000000,プロデューサー,"実は俺、アイドルのプロデューサーをやっていて
 新人アイドルをスカウト中なんです","As it turns out, I produce idols.
 I'm in the middle of scouting for a new idol."
 0000000000000,プロデューサー,"こんなところで急に、と思われるかもしれませんが……
 どうしてもあなたに惹きつけられてしまって！","It may seem sudden in a place like this...
-but in the end I wound up drawn to you!"
+But in the end I wound up drawn to you!"
 1016001010120,？？？,"え、ええと……そう、なんですね
 ……でも、ごめんなさい","Uh-uhm... I-Is that so?
 ...But, I'm sorry."
 1016001010130,？？？,"私、雑貨屋に勤めているんです
-今の仕事が好きですし……そういうのは、ちょっと",Since I currently enjoy my job at the general store... So I'm not sure I could accept.
-0000000000000,プロデューサー,雑貨屋に……そうですか,At the general store... is that so.
+今の仕事が好きですし……そういうのは、ちょっと","Since I currently enjoy my job at the sundry store...
+So I'm not sure I could accept."
+0000000000000,プロデューサー,雑貨屋に……そうですか,At the sundry store... Is that so.
 0000000000000,プロデューサー,"そ、その……今の仕事を、辞めなくても構いません
-お休みの日に、まずはレッスンだけでも！","Erm... you wouldn't have to quit your current job.
+お休みの日に、まずはレッスンだけでも！","Erm... You wouldn't have to quit your current job.
 You could do lessons on your days off to start with!"
-1016001010140,？？？,いえ……そんな急に……,Ah... it's so sudden...
+1016001010140,？？？,いえ……そんな急に……,Ah... It's so sudden...
 0000000000000,プロデューサー,では、お話だけでも！,"Well, let's just talk about it!"
 1016001010150,？？？,"あの……
 どうしてそこまで、私のことを？","Uhm...
@@ -81,17 +85,18 @@ What about me made you decide?"
 あなたの笑顔は、たくさんの人たちを元気づけられます！","I think if I produced you, you'd surely make a
 fantastic idol. I think your smile would surely
 cheer up a lot of people!"
-1016001010160,？？？,たくさんの人たちを……私が……？,A lot of people... by me..?
+1016001010160,？？？,たくさんの人たちを……私が……？,A lot of people... By me..?
 0000000000000,プロデューサー,"はい！
 だから……どうか、お願いします！","Yes!
-That's why... somehow, I'm asking you!"
+That's why... I'm asking you, please!"
 1016001010170,？？？,……そこまで、言っていただけるなんて……,...To be able to say all that...
 1016001010180,？？？,"その……少し、お返事を待ってもらえるでしょうか
 ちゃんと、考えてみますから","Well... would you be able to wait a little while for my
 response? I really need to think about it."
 0000000000000,プロデューサー,"もちろんです！　これ、事務所の連絡先なんですけど……
 いつでも待っていますから、連絡してください","Of course! Here, this is my office contact address...
-I'll be waiting for you, so feel free to contact me whenever."
+I'll be waiting for you, so feel free to contact me
+whenever."
 1016001010190,千雪,"あの……
 すみません、桑山千雪といいますが……","Uhm...
 Pardon me, I'm Chiyuki Kuwayama..."
@@ -99,23 +104,24 @@ Pardon me, I'm Chiyuki Kuwayama..."
 お待ちしていました、どうぞ！","Ah!
 I was waiting for you, please come in!"
 0000000000000,プロデューサー,"それで……
-急かすようですみません、この間の返事なんですが……","So then... sorry for my impatience,
-but your response is going to be..?"
+急かすようですみません、この間の返事なんですが……","So then... Sorry for my impatience,
+but your response is going to be...?"
 1016001010200,千雪,"はい
 スカウトのお誘い……受けさせてもらいます","Right.
 Your scouting invitation... I'd like to accept it."
-0000000000000,プロデューサー,ほ、本当ですか！？,R-really!?
+0000000000000,プロデューサー,ほ、本当ですか！？,R-Really!?
 1016001010210,千雪,"はい。自分には思いもよらないお話ですけど、
 「たくさんの人を笑顔に」って言葉が、忘れられなくて","Yes. I can't picture it myself but, when you said
-""Your smile would surely cheer up a lot of people!"", I couldn't stop thinking about it."
+""Your smile would surely cheer up a lot of people!"",
+I couldn't stop thinking about it."
 1016001010220,千雪,"今のお仕事を続けながらでよろしければ……
-レッスンから、チャレンジさせてください","If it's okay to continue working my current job...
-Please challenge me with the lessons."
+レッスンから、チャレンジさせてください","If it's okay to continue working at my current 
+job... Please challenge me with the lessons."
 0000000000000,プロデューサー,"もちろんです！
 ……全力でサポートします！","Of course!
 ...I'll give you my full support!"
 1016001010230,千雪,"まあ……！　ありがとうございます
-よろしくお願いしますね、プロデューサーさん","Oh my..! Thank you very much.
-Please treat me favorably, Producer."
+よろしくお願いしますね、プロデューサーさん","Oh my...! Thank you very much.
+Please treat me favorably, Producer-san."
 info,produce_events/101600002.json,
 Translator,,

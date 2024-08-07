@@ -1,11 +1,11 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（社長もいきなりだな
-『スカウトしてこい』だなんて……）","(The president really just said ""You should
-go scout!"" did he? Jeez...)"
+『スカウトしてこい』だなんて……）","(The president really just said ""You should go scout!""
+did he? Jeez...)"
 0000000000000,プロデューサー,とりあえず、人通りが多いところに行ってみるか,"For now, I'll head to a place with a lot of foot traffic."
 0000000000000,プロデューサー,"（ん、あそこでやってるのは雑誌の撮影か
 あのモデル……なんだか目を引かれるな）","(Hm, are they doing a magazine shoot over there?
-That model... she's kind of eye catching, isn't she?)"
+That model... She's kind of eye catching, isn't she?)"
 0000000000000,カメラマン,よし、今日の撮影はここまでにしておこう,"Alright, we'll end today's shoot here."
 1006001010010,？？？,お疲れ様です、ありがとうございました,Thank you very much for your hard work.
 0000000000000,プロデューサー,"（あのモデル……
@@ -17,21 +17,26 @@ She's really gallant and cool.)"
 気のせいだったかな","I thought I noticed you looking my way...
 Maybe it was my imagination?"
 0000000000000,プロデューサー,"いや、気のせいじゃないぞ。確かに君を見ていたよ
-あ、俺は芸能プロダクションに勤めている者で……","No, you weren't imagining it. It's true I was looking at you. Ah, I work for an entertainment production company..."
+あ、俺は芸能プロダクションに勤めている者で……","No, you weren't imagining it. It's true I was looking at
+you. Ah, I work for an entertainment production
+company..."
 1006001010040,？？？,"フフ。なるほど
-つまり、私をスカウトしたいのかい？","Hehe. I see.
+つまり、私をスカウトしたいのかい？","Heh. I see.
 In other words, you'd like to scout me?"
 0000000000000,プロデューサー,"ああ、さっきの撮影を見ていて素質を感じたんだ
 君、アイドルになる気はないかい？","Yeah, I felt your talent during the shoot just now.
 Are you interested in becoming an idol?"
-1006001010050,？？？,……へぇ、私がアイドルか,"...Eh, me an idol?"
+1006001010050,？？？,……へぇ、私がアイドルか,"...Hah. Me, an idol?"
 0000000000000,プロデューサー,"ああ
 ぜひ君をアイドルとして、プロデュースしたいんだ！","Yeah.
 I definitely, want to produce you as an idol!"
 1006001010060,？？？,"でも、見てのとおり
-私はアイドルらしくはないんじゃないかな？","Take a look at me, though. I don't think there's much about me that says ""idol""."
+私はアイドルらしくはないんじゃないかな？","Take a look at me, though. I don't think there's much
+about me that says ""idol""."
 1006001010070,？？？,"もっと、アイドルにふさわしい子はいっぱいいるのに
-どうして、わざわざ私なんだい？",There are plenty of girls out there who would fit the image of an idol far better than myself. Why is it that you're interested in me?
+どうして、わざわざ私なんだい？","There are plenty of girls out there who would fit the
+image of an idol far better than myself.
+Why is it that you're interested in me?"
 0000000000000,プロデューサー,"君だからこそ、プロデュースしたいんだ！
 君には、アイドルの素質が十二分にある！","You not fitting the typical image is exactly why I
 want to produce you! You have more than enough
@@ -41,7 +46,7 @@ talent to become an idol!"
 Those alone, are amazing weapons!"
 0000000000000,プロデューサー,ぜひ、俺に君をプロデュースさせてほしい！,"Please, I'd love to produce you!"
 1006001010080,？？？,"……なるほどね、フフ
-よし……その誘い、受けさせてもらうよ","...I see, heh.
+よし……その誘い、受けさせてもらうよ","...I see, haha.
 Alright... I'll accept your offer."
 0000000000000,プロデューサー,"本当か！？
 でも、こんなに早く決めていいのか？","Really!?
@@ -53,7 +58,8 @@ scouted me yourself?"
 ずいぶんあっさりしていたから、つい……","M-My bad.
 You agreed so suddenly, I just..."
 1006001010100,？？？,"フフ。アナタの私を思う気持ちに、
-応えたいと思っただけだよ","Hehe. I just wanted to reciprocate those feelings you showed me. "
+応えたいと思っただけだよ","Heh. I just wanted to reciprocate those feelings you
+showed me. "
 1006001010110,？？？,"つまり私を選んだアナタに
 興味を引かれたんだ","In other words, I was drawn to you
 because you chose me."
@@ -61,11 +67,12 @@ because you chose me."
 0000000000000,プロデューサー,（なんだか、距離が近すぎるような……）,"(She's pretty forward, isn't she?)"
 1006001010120,？？？,どうかしたのかい？,What's wrong?
 0000000000000,プロデューサー,"い、いや、なんでもない
-それじゃあ、事務所で詳しい話をさせてもらえるかな？","N-no, it's nothing. Well then,
+それじゃあ、事務所で詳しい話をさせてもらえるかな？","N-No, it's nothing. Well then,
 should we go over the details at the office?"
 1006001010130,？？？,ああ、よろしく頼むよ,"Sure, please treat me well."
 1006001010140,咲耶,"改めて、私は白瀬咲耶だ
-私たちの新たなる第１歩を、共に踏み出そう","To formally introduce myself, I'm Sakuya Shirase.
-Let's take the first step on this new journey, together."
+私たちの新たなる第１歩を、共に踏み出そう","Let me properly introduce myself. I'm Sakuya Shirase.
+Now, let's take the first step of this new journey,
+together."
 info,produce_events/100600002.json,
 Translator,,

@@ -1,14 +1,18 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（２８３プロダクションに入社して数か月……
-いよいよ俺が、アイドルをプロデュースする時が来た）",(A few months have passed since I started working here at 283 Production... Now the time has finally come for me to produce an idol myself.)
+いよいよ俺が、アイドルをプロデュースする時が来た）","(A few months have passed since I started working
+here at 283 Production... Now the time has finally
+come for me to produce an idol myself.)"
 0000000000000,プロデューサー,"（ずっと憧れていた仕事をようやく任されたんだ、
-これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for so long, so I want to do my very best!)"
+これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for
+so long, so I want to do my very best!)"
 0000000000000,プロデューサー,"おはようございます！
 って、天井社長……？","Good morning!
 Ah! President Amai...?"
 1902001010010,社長,おはよう、お前を待っていたぞ,Good morning. I've been waiting for you.
 0000000000000,プロデューサー,"（この２８３プロダクションを束ねる
-天井社長……あいかわらずダンディな雰囲気だ）",(President Amai is the boss here at 283 Production... He comes off as a bit of a dandy.)
+天井社長……あいかわらずダンディな雰囲気だ）","(President Amai is the boss here at 283 Production...
+He comes off as a bit of a dandy.)"
 1902001010020,社長,"お前には今日から、アイドルを
 プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today,
 you will begin producing an idol yourself..."
@@ -17,7 +21,7 @@ you will begin producing an idol yourself..."
 I am not a lenient man."
 0000000000000,プロデューサー,は、はい！　よろしくお願いします！,O-Of course! I will do all I can!
 1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,Excellent. I'll let Hazuki explain the rest...
-0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki? Actually... Woah!?
+0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki-san? Actually... Woah!?
 0000000000000,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(Th-There's someone passed out behind the sofa!?)
 1901001010010,はづき,"……ふわぁ～？
 なんですか～急に大きな声出して～……","...Mhmhn?
@@ -25,33 +29,43 @@ What's going on... Why's everyone being so loud?"
 1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki... Why were you sleeping on the floor?
 1901001010020,はづき,"すみません、ソファへ着く前に
 眠気に負けてしまいまして～……","My apologies, I was so sleepy,
-I couldn't make it to the sofa in time."
+I couldn't make it to the sofa in time～"
 1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know..."
 1902001010070,社長,"……ともかく！
 彼に仕事の説明をしてくれ","...Moving on! 
 I'd like you to give him the details of his new job."
 1901001010030,はづき,"はい、もちろんです
 プロデューサーさん、どうぞ～","Yes, absolutely.
-Producer, please take these documents!"
+Producer-san, please take these documents～!"
 0000000000000,プロデューサー,"ありがとうございます
-……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
-0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite reliable...)"
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy
+to understand. "
+0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki-san is actually
+quite reliable...)"
 1901001010040,はづき,"ありがとうございます
 それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
 Alright, allow me to explain..."
 1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,"To start, let's discuss your main goal..."
 1901001010060,はづき,"ワンダーアイドルノヴァ・グランプリ……
 通称『W.I.N.G.』への出場を目指してください","You will aim to have your idol participate in
-the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
+the ""Wonder Idol Nova Grand Prix"", commonly known
+as ""W.I.N.G.""."
 0000000000000,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""... You say?"
 1901001010070,はづき,"はい
-新人アイドルの祭典とも言われる、すごいライブなんです",That's right. It's a special live that celebrates the best newcomer idols.
+新人アイドルの祭典とも言われる、すごいライブなんです","That's right. It's a special live that celebrates the
+best newcomer idols."
 1901001010080,はづき,"祭典と言われるだけあって、この『W.I.N.G.』は
-出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the qualifications that must be met to participate are quite strict..."
+出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the
+qualifications that must be met to participate are
+quite strict..."
 1901001010090,はづき,"エントリーしたアイドルは開催前まで、
-全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons, and the bar is raised each time."
+全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet
+specific goals for four consecutive seasons, and the
+bar is raised each time."
 1901001010100,はづき,"その時、一定のランクに達していないと、
-出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
+出場資格を失ってしまうんです","If these goals aren't reached by the end of a season,
+the idol will no longer meet the qualifications to
+participate in W.I.N.G.."
 1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
 私もたくさんサポートさせていただきますね～","That being said, let's try our very best!
 I will do everything I can to support you."
@@ -64,17 +78,21 @@ you'll be producing to network with the other idols here."
 1902001010100,社長,互いに影響しあうことで目指せる高みもあるだろう,"With each other's influence our idols
 will be able to soar to even greater heights."
 1902001010110,社長,"まあ、まずは思うようにやってみるといい
-結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see fit. Whether good results follow depends on the effort of both you and the idol you produce. "
+結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see
+fit. Whether good results follow depends on the
+effort of both you and the idol you produce. "
 1901001010120,はづき,"では、そろそろお仕事に移ってもらいましょうか
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
 1901001010220,はづき,"オーディションで選んでください～
-こちらは、オーディションを受ける子たちの資料になります","You'll be picking from the audition's results～ Here you go, the profile for every girl that is participating in the audition."
+こちらは、オーディションを受ける子たちの資料になります","You'll be picking from the audition's results～
+Here you go, the profile for every girl that is
+participating in the audition."
 0000000000000,プロデューサー,"なるほど……わかりました
 じゃあ、行ってきますね","I see... Understood.
 Well then, it's time to go."
 0000000000000,プロデューサー,それでは、次の方どうぞ,"Next participant, please."
-1014001010010,？？？,よっろしくお願いしまーす☆,Nice to meet you.
+1014001010010,？？？,よっろしくお願いしまーす☆,Nice to meet you. ☆
 0000000000000,プロデューサー,"こちらこそ、よろしくお願いします
 まずは、名前から教えてもらっていいかな？","Nice to meet you too.
 First, could you tell me what your name is?"
@@ -91,44 +109,54 @@ So, how are things at school?"
 1014001010040,甘奈,"うーんとねー……友達とファッションのお話したり、
 放課後にはショッピングしたりしてるよー","Let's see... I talk about fashion with my friends,
 and we go on shopping after classes."
-1014001010050,甘奈,あ、最近は自撮りがマイブームかな☆,"Oh, I'm into taking selfies lately."
+1014001010050,甘奈,あ、最近は自撮りがマイブームかな☆,"Oh, I'm into taking selfies lately. ☆"
 0000000000000,プロデューサー,学校、楽しそうだね,It looks like you're having a good time at school.
 1014001010060,甘奈,"もっちー！
-あとギャルっぽい見た目のことをよく聞かれるんだけどね","Sure am!
-There's also those questions I always get on how to look trendy."
+あとギャルっぽい見た目のことをよく聞かれるんだけどね","Sure am! There's also those questions I always get on
+how to look trendy."
 1014001010070,甘奈,"これも、
-今しかできないことを全力で楽しみたいからなんだ",This is also part of the things that I can only do now so I really want to fully enjoy them!
+今しかできないことを全力で楽しみたいからなんだ","This is also part of the things that I can only do now
+so I really want to fully enjoy them!"
 0000000000000,プロデューサー,"（ファッションだけじゃなく、生き方まで
-自分のポリシーをしっかり持っている子みたいだな）",(It looks like she has her own rules not just in fashion but also on how to live her life.)
+自分のポリシーをしっかり持っている子みたいだな）","(It looks like she has her own rules not just in fashion,
+but also on how to live her life.)"
 0000000000000,プロデューサー,"じゃあ、このオーディションに参加した理由を
-聞いてもいいかな？","Okay, could you tell me about your reason for auditioning?"
+聞いてもいいかな？","Okay, could you tell me about your reason for
+auditioning?"
 1014001010080,甘奈,"それはね、
-甜花ちゃんと一緒にアイドルになりたいからだよ","About that,
-it's because I want to become an idol together with Tenka."
+甜花ちゃんと一緒にアイドルになりたいからだよ","About that, it's because I want to become an idol
+together with Tenka-chan."
 0000000000000,プロデューサー,"甜花ちゃん……
-あぁ、書類で見たよ。お姉さんかな？","Tenka...
-Ah, I saw that in one of the documents. Is she your older sister?"
+あぁ、書類で見たよ。お姉さんかな？","Tenka-chan...
+Ah, I saw that in one of the documents.
+Is she your older sister?"
 1014001010090,甘奈,"そうそう！
 甜花ちゃんってね、めっちゃかわいーんだー！","Yeah!
-You see, Tenka's totally cute!"
+You see, Tenka-chan's totally cute!"
 1014001010100,甘奈,"甜花ちゃんがアイドルになったら、
-みんなメロメロになっちゃうよ！","If Tenka becomes an idol, everyone's gonna fall for her!"
+みんなメロメロになっちゃうよ！","If Tenka-chan becomes an idol, everyone's gonna fall
+for her!"
 0000000000000,プロデューサー,大崎さんは、お姉さんのことが好きなんだね,"You like your sister, don't you."
-1014001010110,甘奈,もち、大好きだよー☆,"Of course, I love her a bunch."
+1014001010110,甘奈,もち、大好きだよー☆,"Of course, I love her a bunch. ☆"
 0000000000000,プロデューサー,"素敵な姉妹愛だね。ただ、
-今は甘奈さんのオーディションだから他の話もいいかな","What a lovely sister's bond. However, this is your audition, so I was wondering if you could talk about something else."
+今は甘奈さんのオーディションだから他の話もいいかな","What a lovely sister's bond. However, this is your
+audition, so I was wondering if you could talk about
+something else."
 1014001010120,甘奈,"えへ、そうだったね
 えっと、志望理由だよね","Ehe, you're right.
 The reason for my auditioning, right?"
 1014001010130,甘奈,"甘奈はね、甜花ちゃんと一緒にアイドルになって、
-キラキラ輝きたいって思ってるんだー",I was thinking of becoming an idol together with Tenka and to shine brightly.
+キラキラ輝きたいって思ってるんだー","I was thinking of becoming an idol together with
+Tenka-chan and to shine brightly."
 1014001010140,甘奈,それじゃダメかな？,Would that be not good enough?
 0000000000000,プロデューサー,アイドルというのは、思っている以上に大変だぞ,Being an idol is harder than you might think.
 1014001010150,甘奈,"だいじょうぶ！
-軽い気持ちで言ってるわけじゃないよ","Don't worry!
-I'm not saying this because I didn't put much thought into this."
+軽い気持ちで言ってるわけじゃないよ","Don't worry! I'm not saying this because I didn't put
+much thought into this."
 1014001010160,甘奈,"やるからには真剣にやるつもり
-サポートしてくれる事務所の人に迷惑とか、かけたくないしね","If I were to do this, I will take things seriously. Besides, I don't want to become a bother to the people in the agency who'll be supporting me."
+サポートしてくれる事務所の人に迷惑とか、かけたくないしね","If I were to do this, I will take things seriously.
+Besides, I don't want to become a bother to the
+people in the agency who'll be supporting me."
 0000000000000,プロデューサー,（おっ、意外と真面目なんだな）,"(Oh, she's surprisingly serious about this.)"
 0000000000000,プロデューサー,"（……アイドルとしての魅力は充分あるし、
 それに、しっかりした性格みたいだ）","(...She has plenty enough charms for an idol,

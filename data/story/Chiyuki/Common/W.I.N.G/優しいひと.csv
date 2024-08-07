@@ -1,14 +1,18 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（２８３プロダクションに入社して数か月……
-いよいよ俺が、アイドルをプロデュースする時が来た）",(A few months have passed since I started working here at 283 Production... Now the time has finally come for me to produce an idol myself.)
+いよいよ俺が、アイドルをプロデュースする時が来た）","(A few months have passed since I started working
+here at 283 Production... Now the time has finally
+come for me to produce an idol myself.)"
 0000000000000,プロデューサー,"（ずっと憧れていた仕事をようやく任されたんだ、
-これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for so long, so I want to do my very best!)"
+これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for
+so long, so I want to do my very best!)"
 0000000000000,プロデューサー,"おはようございます！
 って、天井社長……？","Good morning!
 Ah! President Amai...?"
 1902001010010,社長,おはよう、お前を待っていたぞ,Good morning. I've been waiting for you.
 0000000000000,プロデューサー,"（この２８３プロダクションを束ねる
-天井社長……あいかわらずダンディな雰囲気だ）",(President Amai is the boss here at 283 Production... He comes off as a bit of a dandy.)
+天井社長……あいかわらずダンディな雰囲気だ）","(President Amai is the boss here at 283 Production...
+He comes off as a bit of a dandy.)"
 1902001010020,社長,"お前には今日から、アイドルを
 プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today,
 you will begin producing an idol yourself..."
@@ -25,33 +29,43 @@ What's going on... Why's everyone being so loud?"
 1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki... Why were you sleeping on the floor?
 1901001010020,はづき,"すみません、ソファへ着く前に
 眠気に負けてしまいまして～……","My apologies, I was so sleepy,
-I couldn't make it to the sofa in time."
+I couldn't make it to the sofa in time～"
 1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know..."
 1902001010070,社長,"……ともかく！
 彼に仕事の説明をしてくれ","...Moving on! 
 I'd like you to give him the details of his new job."
 1901001010030,はづき,"はい、もちろんです
 プロデューサーさん、どうぞ～","Yes, absolutely.
-Producer-san, please take these documents!"
+Producer-san, please take these documents～!"
 0000000000000,プロデューサー,"ありがとうございます
-……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
-0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki-san is actually quite reliable...)"
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy
+to understand. "
+0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki-san is actually
+quite reliable...)"
 1901001010040,はづき,"ありがとうございます
 それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
 Alright, allow me to explain..."
 1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,"To start, let's discuss your main goal..."
 1901001010060,はづき,"ワンダーアイドルノヴァ・グランプリ……
 通称『W.I.N.G.』への出場を目指してください","You will aim to have your idol participate in
-the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
+the ""Wonder Idol Nova Grand Prix"", commonly known
+as ""W.I.N.G.""."
 0000000000000,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""... You say?"
 1901001010070,はづき,"はい
-新人アイドルの祭典とも言われる、すごいライブなんです",That's right. It's a special live that celebrates the best newcomer idols.
+新人アイドルの祭典とも言われる、すごいライブなんです","That's right. It's a special live that celebrates the
+best newcomer idols."
 1901001010080,はづき,"祭典と言われるだけあって、この『W.I.N.G.』は
-出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the qualifications that must be met to participate are quite strict..."
+出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the
+qualifications that must be met to participate are
+quite strict..."
 1901001010090,はづき,"エントリーしたアイドルは開催前まで、
-全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons, and the bar is raised each time."
+全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet
+specific goals for four consecutive seasons, and the
+bar is raised each time."
 1901001010100,はづき,"その時、一定のランクに達していないと、
-出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
+出場資格を失ってしまうんです","If these goals aren't reached by the end of a season,
+the idol will no longer meet the qualifications to
+participate in W.I.N.G.."
 1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
 私もたくさんサポートさせていただきますね～","That being said, let's try our very best!
 I will do everything I can to support you."
@@ -64,7 +78,9 @@ you'll be producing to network with the other idols here."
 1902001010100,社長,互いに影響しあうことで目指せる高みもあるだろう,"With each other's influence our idols
 will be able to soar to even greater heights."
 1902001010110,社長,"まあ、まずは思うようにやってみるといい
-結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see fit. Whether good results follow depends on the effort of both you and the idol you produce. "
+結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see
+fit. Whether good results follow depends on the
+effort of both you and the idol you produce. "
 1901001010120,はづき,"では、そろそろお仕事に移ってもらいましょうか
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
@@ -81,7 +97,8 @@ No point in wasting time...)"
 ...Oh, are you talking to me?"
 1016001010030,？？？,"はい。突然声をかけたりして、すみません
 袖のボタンが落ちそうで、気になってしまって……","Yes. Pardon me for suddenly intruding.
-I just happened to notice the button on your sleeve fell off..."
+I just happened to notice that the button on your
+sleeve fell off..."
 0000000000000,プロデューサー,"えっ？
 ……あ、本当だ","Ehh?
 ...Ah, you're right."
@@ -90,7 +107,8 @@ I just happened to notice the button on your sleeve fell off..."
 You saw something embarassing..."
 1016001010040,？？？,ふふ、いいえ～,"Fufu, not at all."
 0000000000000,プロデューサー,ははは……,Hahaha...
-0000000000000,プロデューサー,（なんだろう……この人の笑顔、すごく優しいなぁ……）,"(What the... this woman's smile, it's amazingly tender...)"
+0000000000000,プロデューサー,（なんだろう……この人の笑顔、すごく優しいなぁ……）,"(What the... this woman's smile, it's amazingly
+tender...)"
 1016001010050,？？？,"あの……よかったら、私に直させてもらえませんか？
 裁縫道具を持ってるんです","Um... if it's alright, would you like me to fix it?
 I've got a sewing kit with me."
@@ -110,7 +128,8 @@ Just one second, okay?"
 笑顔に、つられちゃうんだよなあ……）","(I-I asked without thinking...
 But somehow I got caught up in her smile...)"
 1016001010080,？？？,はい、できました♪,"Okay, all done♪"
-0000000000000,プロデューサー,（自然とあったかい気持ちになるというか……）,(Or perhaps you could say her aura feels very natural and warm...)
+0000000000000,プロデューサー,（自然とあったかい気持ちになるというか……）,"(Or perhaps you could say her aura feels very natural
+and warm...)"
 1016001010090,？？？,……？,...?
 0000000000000,プロデューサー,"あっ……おおっ、あっという間ですね……！
 本当に、なんとお礼を言っていいか","Ah... ohh, you did it in the blink of an eye!
@@ -136,7 +155,8 @@ But in the end I wound up drawn to you!"
 ……でも、ごめんなさい","Uh-uhm... I-Is that so?
 ...But, I'm sorry."
 1016001010130,？？？,"私、雑貨屋に勤めているんです
-今の仕事が好きですし……そういうのは、ちょっと",Since I currently enjoy my job at the sundry store... So I'm not sure I could accept.
+今の仕事が好きですし……そういうのは、ちょっと","Since I currently enjoy my job at the sundry store...
+So I'm not sure I could accept."
 0000000000000,プロデューサー,雑貨屋に……そうですか,At the sundry store... Is that so.
 0000000000000,プロデューサー,"そ、その……今の仕事を、辞めなくても構いません
 お休みの日に、まずはレッスンだけでも！","Erm... You wouldn't have to quit your current job.
@@ -160,7 +180,8 @@ That's why... I'm asking you, please!"
 response? I really need to think about it."
 0000000000000,プロデューサー,"もちろんです！　これ、事務所の連絡先なんですけど……
 いつでも待っていますから、連絡してください","Of course! Here, this is my office contact address...
-I'll be waiting for you, so feel free to contact me whenever."
+I'll be waiting for you, so feel free to contact me
+whenever."
 1016001010190,千雪,"あの……
 すみません、桑山千雪といいますが……","Uhm...
 Pardon me, I'm Chiyuki Kuwayama..."
@@ -173,10 +194,11 @@ but your response is going to be...?"
 1016001010200,千雪,"はい
 スカウトのお誘い……受けさせてもらいます","Right.
 Your scouting invitation... I'd like to accept it."
-0000000000000,プロデューサー,ほ、本当ですか！？,R-really!?
+0000000000000,プロデューサー,ほ、本当ですか！？,R-Really!?
 1016001010210,千雪,"はい。自分には思いもよらないお話ですけど、
 「たくさんの人を笑顔に」って言葉が、忘れられなくて","Yes. I can't picture it myself but, when you said
-""Your smile would surely cheer up a lot of people!"", I couldn't stop thinking about it."
+""Your smile would surely cheer up a lot of people!"",
+I couldn't stop thinking about it."
 1016001010220,千雪,"今のお仕事を続けながらでよろしければ……
 レッスンから、チャレンジさせてください","If it's okay to continue working at my current 
 job... Please challenge me with the lessons."

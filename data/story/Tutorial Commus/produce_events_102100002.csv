@@ -1,14 +1,18 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（２８３プロダクションに入社して数か月……
-いよいよ俺が、アイドルをプロデュースする時が来た）",(A few months have passed since I started working here at 283 Production... Now the time has finally come for me to produce an idol myself.)
+いよいよ俺が、アイドルをプロデュースする時が来た）","(A few months have passed since I started working
+here at 283 Production... Now the time has finally
+come for me to produce an idol myself.)"
 0000000000000,プロデューサー,"（ずっと憧れていた仕事をようやく任されたんだ、
-これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for so long, so I want to do my very best!)"
+これから精一杯頑張るぞ！）","(I'm finally getting to do the job I've dreamed of for
+so long, so I want to do my very best!)"
 0000000000000,プロデューサー,"おはようございます！
 って、天井社長……？","Good morning!
 Ah! President Amai...?"
 1902001010010,社長,おはよう、お前を待っていたぞ,Good morning. I've been waiting for you.
 0000000000000,プロデューサー,"（この２８３プロダクションを束ねる
-天井社長……あいかわらずダンディな雰囲気だ）",(President Amai is the boss here at 283 Production... He comes off as a bit of a dandy.)
+天井社長……あいかわらずダンディな雰囲気だ）","(President Amai is the boss here at 283 Production...
+He comes off as a bit of a dandy.)"
 1902001010020,社長,"お前には今日から、アイドルを
 プロデュースしてもらうと伝えていたが……","I'm here to tell you that starting today,
 you will begin producing an idol yourself..."
@@ -17,7 +21,7 @@ you will begin producing an idol yourself..."
 I am not a lenient man."
 0000000000000,プロデューサー,は、はい！　よろしくお願いします！,O-Of course! I will do all I can!
 1902001010040,社長,よろしい。では、仕事の説明ははづきに任せて……,Excellent. I'll let Hazuki explain the rest...
-0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki? Actually... Woah!?
+0000000000000,プロデューサー,？　はづきさんはどこにも……あっ！？,Hm? Where is Hazuki-san? Actually... Woah!?
 0000000000000,プロデューサー,（そ、ソファの裏で誰かが倒れてる！？）,(Th-There's someone passed out behind the sofa!?)
 1901001010010,はづき,"……ふわぁ～？
 なんですか～急に大きな声出して～……","...Mhmhn?
@@ -25,33 +29,43 @@ What's going on... Why's everyone being so loud?"
 1902001010050,社長,は、はづき……なぜ床で寝ているんだ,H-Hazuki... Why were you sleeping on the floor?
 1901001010020,はづき,"すみません、ソファへ着く前に
 眠気に負けてしまいまして～……","My apologies, I was so sleepy,
-I couldn't make it to the sofa in time."
+I couldn't make it to the sofa in time～"
 1902001010060,社長,せっかくまじめな雰囲気を出したというのに……,"We are trying to look professional here, you know..."
 1902001010070,社長,"……ともかく！
 彼に仕事の説明をしてくれ","...Moving on! 
 I'd like you to give him the details of his new job."
 1901001010030,はづき,"はい、もちろんです
 プロデューサーさん、どうぞ～","Yes, absolutely.
-Producer, please take these documents!"
+Producer-san, please take these documents～!"
 0000000000000,プロデューサー,"ありがとうございます
-……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand. "
-0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite reliable...)"
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy
+to understand. "
+0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki-san is actually
+quite reliable...)"
 1901001010040,はづき,"ありがとうございます
 それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
 Alright, allow me to explain..."
 1901001010050,はづき,まず、今回のプロデュースの目標についてですが……,"To start, let's discuss your main goal..."
 1901001010060,はづき,"ワンダーアイドルノヴァ・グランプリ……
 通称『W.I.N.G.』への出場を目指してください","You will aim to have your idol participate in
-the ""Wonder Idol Nova Grand Prix"", commonly known as ""W.I.N.G.""."
+the ""Wonder Idol Nova Grand Prix"", commonly known
+as ""W.I.N.G.""."
 0000000000000,プロデューサー,『W.I.N.G.』……ですか,"""W.I.N.G.""... You say?"
 1901001010070,はづき,"はい
-新人アイドルの祭典とも言われる、すごいライブなんです",That's right. It's a special live that celebrates the best newcomer idols.
+新人アイドルの祭典とも言われる、すごいライブなんです","That's right. It's a special live that celebrates the
+best newcomer idols."
 1901001010080,はづき,"祭典と言われるだけあって、この『W.I.N.G.』は
-出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the qualifications that must be met to participate are quite strict..."
+出場資格を手に入れるまでが厳しいんです……","While W.I.N.G. itself is a celebration, the
+qualifications that must be met to participate are
+quite strict..."
 1901001010090,はづき,"エントリーしたアイドルは開催前まで、
-全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet specific goals for four consecutive seasons, and the bar is raised each time."
+全４回のシーズンごとに審査を受けます","Idols who want to participate in W.I.N.G. must meet
+specific goals for four consecutive seasons, and the
+bar is raised each time."
 1901001010100,はづき,"その時、一定のランクに達していないと、
-出場資格を失ってしまうんです","If these goals aren't reached by the end of a season, the idol will no longer meet the qualifications to participate in W.I.N.G."
+出場資格を失ってしまうんです","If these goals aren't reached by the end of a season,
+the idol will no longer meet the qualifications to
+participate in W.I.N.G.."
 1901001010110,はづき,"ですので、精一杯頑張っていきましょ～！
 私もたくさんサポートさせていただきますね～","That being said, let's try our very best!
 I will do everything I can to support you."
@@ -64,7 +78,9 @@ you'll be producing to network with the other idols here."
 1902001010100,社長,互いに影響しあうことで目指せる高みもあるだろう,"With each other's influence our idols
 will be able to soar to even greater heights."
 1902001010110,社長,"まあ、まずは思うようにやってみるといい
-結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see fit. Whether good results follow depends on the effort of both you and the idol you produce. "
+結果がついてくるかは、お前とアイドルの頑張り次第だ","I recommend you begin by simply doing what you see
+fit. Whether good results follow depends on the
+effort of both you and the idol you produce. "
 1901001010120,はづき,"では、そろそろお仕事に移ってもらいましょうか
 今回プロデュースするアイドルは──","Alright, it's time for your job to officially begin.
 The idol you will be producing──"
@@ -74,14 +90,20 @@ The idol you will be producing──"
 1021001010030,？？？,急にすみません\n私、アイドルに興味があるんです,Sorry for being so sudden. I have an interest in idols.
 1021001010040,？？？,よかったらお話を伺えないでしょうか？,Is it alright if I ask you some questions about them?
 0000000000000,プロデューサー,（まっすぐで、綺麗な瞳だ……）,(She has such beautiful and straightforward eyes...)
-0000000000000,プロデューサー,わかりました\n事務所にご案内しますね、どうぞ──,"Got it. I can show you how to get to the office, it's this way──"
+0000000000000,プロデューサー,わかりました\n事務所にご案内しますね、どうぞ──,"Got it. I can show you how to get to the office, it's
+this way──"
 1021001010050,？？？,事務所の中は……ちょっと,"That... Isn't really necessary. "
 0000000000000,プロデューサー,……？,Hmm?
-1021001010060,？？？,軽くお話が聞ければ十分ですので\n近くの喫茶店では……いかがでしょう？,I think a quick chat would be plenty. There's a nearby cafe... let's talk there instead?
-0000000000000,プロデューサー,──など、２８３プロでは、\n本人の資質や希望に合わせた活動を……,"──So in 283Pro, we want the activities to be a combination of your qualities and aspirations..."
-1021001010070,？？？,資質や希望？　本当に？\nやりたくない仕事を無理やりさせたりとかは？,My qualities and aspirations? Really? So you won't force me to do work I don't want to?
-0000000000000,プロデューサー,チャレンジしてみようと持ちかけることはあります\nでも無理やりなんてことは絶対にありませんよ,"We will suggest for you to challenge yourself, but we will never force you to do anything."
-1021001010080,？？？,それなら安心ですね\n事務所に鍵でもかけられたら逃げられませんし,That's a relief. If the office was locked I wouldn't be able to escape.
+1021001010060,？？？,軽くお話が聞ければ十分ですので\n近くの喫茶店では……いかがでしょう？,"I think a quick chat would be plenty.
+There's a nearby cafe... let's talk there instead?"
+0000000000000,プロデューサー,──など、２８３プロでは、\n本人の資質や希望に合わせた活動を……,"──So in 283Pro, we want the activities to be a
+combination of your qualities and aspirations..."
+1021001010070,？？？,資質や希望？　本当に？\nやりたくない仕事を無理やりさせたりとかは？,"My qualities and aspirations? Really? So you won't
+force me to do work I don't want to?"
+0000000000000,プロデューサー,チャレンジしてみようと持ちかけることはあります\nでも無理やりなんてことは絶対にありませんよ,"We will suggest for you to challenge yourself, but we
+will never force you to do anything."
+1021001010080,？？？,それなら安心ですね\n事務所に鍵でもかけられたら逃げられませんし,"That's a relief. If the office was locked I wouldn't be
+able to escape."
 0000000000000,プロデューサー,（……なんだか尋問でもされているみたいだな……）,(...It's like I'm being interrogated...)
 1021001010090,？？？,ありがとうございました、もう結構です\n最後にあなたの名刺を頂きたいのですが,"Thank you very much, that's enough. 
 Lastly, I'd like your business card."
@@ -89,23 +111,32 @@ Lastly, I'd like your business card."
 0000000000000,プロデューサー,改めまして……\n２８３プロダクションでプロデューサーを務めております──,So... I am employed as 283 Production's Producer──
 1021001010100,？？？,……！,...!
 1021001010110,？？？,あなたが…………,So you are...
-0000000000000,プロデューサー,うちでアイドルになりたいと思ってくれるなら、\nぜひまた連絡を──,"If you think that you want to become an idol with us, please contact us──"
+0000000000000,プロデューサー,うちでアイドルになりたいと思ってくれるなら、\nぜひまた連絡を──,"If you think that you want to become an idol with us,
+please contact us──"
 1021001010120,？？？,ああ、アイドル志望というのは嘘です,"Well, it was a lie that I had desire to become an idol."
-1021001010130,？？？,私の幼馴染がそちらに所属することになりまして\n騙されてないか、確かめに来たんです,"My childhood friend joined here, so I wanted to make sure she wasn't being tricked into something."
+1021001010130,？？？,私の幼馴染がそちらに所属することになりまして\n騙されてないか、確かめに来たんです,"My childhood friend joined here, so I wanted to make
+sure she wasn't being tricked into something."
 0000000000000,プロデューサー,そ、そういうことでしたか……,S-So that's what this was all about...
 1021001010140,？？？,悪どい芸能事務所もたくさんあるようですから？,"There are a lot of bad businesses out there, you know?"
-0000000000000,プロデューサー,……そうですよね……\nご心配おかけして申し訳ありません,...Right... I'm extremely sorry for causing you any concern.
-0000000000000,プロデューサー,認めてもらえるように、\nプロデューサーとして全力で頑張りたいと思います,I'd like to do my best as a Producer so you'll be able to approve of me.
-0000000000000,プロデューサー,大事なお友達が望む空に羽ばたけるように──,So that your precious friend may spread her wings and take to the sky──
-1021001010150,？？？,すばらしいモットーですね\n口だけなら、なんとでも,That's a nice motto. It means nothing if it's just words though.
-1021001010160,？？？,そろそろ失礼します\n今後、何かあったらすぐに連絡しますから,I'll be going now. If something happens I'll contact you instantly.
+0000000000000,プロデューサー,……そうですよね……\nご心配おかけして申し訳ありません,"...Right... I'm extremely sorry for causing you any
+concern."
+0000000000000,プロデューサー,認めてもらえるように、\nプロデューサーとして全力で頑張りたいと思います,"I'd like to do my best as a Producer so you'll be able
+to approve of me."
+0000000000000,プロデューサー,大事なお友達が望む空に羽ばたけるように──,"So that your precious friend may spread her wings
+and take to the sky──"
+1021001010150,？？？,すばらしいモットーですね\n口だけなら、なんとでも,"That's a nice motto. It means nothing if it's just
+words though."
+1021001010160,？？？,そろそろ失礼します\n今後、何かあったらすぐに連絡しますから,"I'll be going now. If something happens I'll contact you
+instantly."
 1021001010170,？？？,名刺の電話番号に,I'll be using the number on your card.
 0000000000000,プロデューサー,あっ……待って\nアイドル志望でないのなら……,"Ah... Wait. If you have no desire to be an idol, then..."
 0000000000000,プロデューサー,今、ここでスカウトさせてください……！,Please let me scout you...!
 1021001010180,？？？,……は……？,...Huh...?
-0000000000000,プロデューサー,出会った時にすぐわかりました\n……ダイヤの原石だって……！,I knew as soon as I met you... that you're a diamond in the rough...!
+0000000000000,プロデューサー,出会った時にすぐわかりました\n……ダイヤの原石だって……！,"I knew as soon as I met you... that you're a diamond in
+the rough...!"
 1021001010190,？？？,は……？　ふざけないでください\n近寄らないで,Huh...? Please don't mess around. Stay away from me.
-0000000000000,プロデューサー,ぜひ、浅倉さんと一緒に！\nどうでしょうか……！,You can be together with Asakura-san! How about that...?!
+0000000000000,プロデューサー,ぜひ、浅倉さんと一緒に！\nどうでしょうか……！,"You can be together with Asakura-san!
+How about that...?!"
 1021001010200,？？？,………………,......
 1021001010210,？？？,……わかりました\nそういうことであれば,"...Okay, as long as it's just that."
 0000000000000,プロデューサー,ありがとうございます……！\nええと、名前は……,"Thank you very much...!
