@@ -32,7 +32,7 @@ header.trueEndTeachingProduceIdolSelect,プロデュースアイドル選択,Pro
 header.trueEndReport,研修レポート,Training Report
 loginBonus.christmasClerkComment.greeting,プロデューサーさん、メリークリスマス！\rこちらは今日のログインボーナスですよ,"Producer, Merry Christmas!\r\n Here's today's Login Bonus!"
 loginBonus.christmasClerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow,so do your best～"
-loginBonus.christmasClerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
+loginBonus.christmasClerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer!\rThis is a gift from everyone! Please accept it!
 produceMain.supportSkillsDialog.title,発動中スキル,Active Skill
 produceMain.supportSkillsDialog.noSkill,発動中のサポートスキルはありません,No active support skills
 produceMain.supportSkillsDialog.helper,お手伝い中のアイドルです,Helping Idol
@@ -303,8 +303,8 @@ exchangeItem.businessMotivationItem.original,差し入れアイテム,Handmade G
 exchangeItem.businessMotivationItem.simple,差し入れアイテム,Handmade Goods 
 gameEventPoint,イベントpt,Event Pt
 idolPortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah, Producer, you came to meet the idols. "
-idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,Everyone's been waiting for you Producer～
-idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,Raising idols is an important part of being a Producer～
+idolPortal.staffComment2,みんながプロデューサーさんを待っていますよ～,"Everyone's been waiting for you, Producer-san～"
+idolPortal.staffComment3,アイドルの育成はプロデューサーさんの大切なお仕事ですからね～,Raising idols is an important part of being a producer～
 idolPortal.staffComment4,トレーニングでアイドルを成長させましょう,Let's strengthen your idols with training!
 idolPortal.staffComment5,特訓でアイドル達の力をさらに引き出してあげましょう,Let's evolve your idols and draw out their power!
 idolPortal.staffComment6,プロデューサーさんの現在の担当アイドルはこちらで確認できます,You can check out your current idols here.
@@ -657,7 +657,7 @@ idolDetail.headerTitle.support,サポートアイドル詳細,Support Idol Detai
 idolDetail.headerTitle.fes,フェスアイドル詳細,Fes Idol Details
 idolDetail.holdTapHint,※アイコンを長押しでアイドルの詳細が確認できます,※Tap and hold on an idol to check its details
 idolDetail.skill.lockPanel,特訓%{evolutionStage}段階目,Evolve Stage %{evolutionStage}
-idolDetail.supportParameter.remainingExp,あと%{exp},After %{exp}
+idolDetail.supportParameter.remainingExp,あと%{exp},%{exp} Remaining
 idolDetail.totalFan.idolName,【%{name}】累計ファン人数,【%{name}】Total Fan Count
 idolDetail.produceDeck.detailPop.title,プロデュースデッキアイドル詳細,Produce Idol Deck Details
 idolDetail.produceDeck.detailPop.noSkillName,未設定,Empty
@@ -1962,9 +1962,9 @@ header.producerLevel,プロデューサーレベル,Producer Level
 header.producerDeskShop,Pレベルショップ,P Level Shop
 producerDesk.producerLevel.statusPopupTitle,ステータスアップ一覧,Status Up List
 shop.producerDesk.unlockText,レベル%{level}で解放,Unlocks at Lv.%{level}
-gasha.popTicketDesc.consumption,消費してガシャを引きます,
-gasha.stamp.notice.repeatOneCard,スタンプカードが最後まで埋まった後は1枚目の内容を繰り返します,
-gasha.stampComplete,済,
+gasha.popTicketDesc.consumption,消費してガシャを引きます,Use to pull Gacha
+gasha.stamp.notice.repeatOneCard,スタンプカードが最後まで埋まった後は1枚目の内容を繰り返します,"Once the stamp card is filled, you can repeat it again."
+gasha.stampComplete,済,Done
 gasha.billedJewel,有償,Paid
 gasha.drawText,%{drawNum}回引く,%{drawNum}Pulls
 gasha.limitedPerDayText,1日1回,1/Day
@@ -2241,12 +2241,12 @@ musicSelect.playMvDialog.message,再生するMVを選択してください,Selec
 musicSelect.mvSettingDialog.title,詳細設定,Detailed Settings
 musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,Select a song or MV
 musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,Another ver. will be unlocked after the card's 4th Evolve.
-photoMotionDialog.title,ポーズ指定,
-photoMotionDialog.message,アイドルに呼びかけてポーズを取ってもらうことができます,
-photoBootFailDialog.title,カメラの許可,
+photoMotionDialog.title,ポーズ指定,Select Pose
+photoMotionDialog.message,アイドルに呼びかけてポーズを取ってもらうことができます,アイドルに呼びかけてポーズを取ってもらうことができます
+photoBootFailDialog.title,カメラの許可,Camera Permission
 filterPop.filter.individualityExpressionRateUp,発現確率,
 filterPop.filter.individualityDefiniteExpression,ノウハウ,Know-How
-filterPop.filter.individualityInheritanceRateUp,継承確率,
+filterPop.filter.individualityInheritanceRateUp,継承確率,Inherit Rate
 photo.option.bg,背景,BG
 photo.option.effect,エフェクト,Effect
 photo.option.frame,フレーム,Frame
@@ -2275,3 +2275,384 @@ jewelCounter.typeText.event,イベント,Event
 seasonalPresentPop.title,年賀状受け取り,
 seasonalPresentPop.message,アイドルからの年賀状が届いています,アイドルからの年賀状が届いています
 unitName.8,コメティック,CoMETIK
+unitName.91,B小町,B Komachi
+unitName.92,劇団ララライ,Lalalai Theatrical Company
+filter.bulkSelectTitle,一括選択,一括選択
+filter.subTitle.individualityDetail,絞り込みノウハウ選択,絞り込みノウハウ選択
+filter.categories.mvIdol,MV,MV
+filter.categories.knowHowLevelCount,ノウハウレベル,Know-How Level
+filter.categories.individualityDetail,詳細検索,詳細検索
+filter.categories.knowHowBookMark,ノウハウブックマーク,Know-How Bookmark
+filter.categories.collaborationIdol,コラボアイドル,Collab Idol
+filter.categories.foil,フォイル化アイドル,Foiled Idol
+filter.categories.fesMatchHonor,種類,種類
+filter.categories.fesIdolRank,アイドルランク,Idol Rank
+filter.categories.memoryAppealLevel,思い出レベル,Memory Level
+filter.categories.statusRank,ステータスランク,Status Rank
+letterFromIdol.title,アイドルからの手紙,Letter from the Idol
+letterFromIdol.staffComment,みなさんから頂いた手紙を読んでみましょう〜,Let's read the letters we received from everyone〜
+letterFromIdol.voiceLockMessage,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます
+letterFromIdol.getDateLetterReceivedFormat,yyyy/mm/dd,yyyy/mm/dd
+miniGamePortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah, Producer, you came to meet the idols. "
+miniGamePortal.staffComment2,みんながプロデューサーさんを待っていますよ～,"Everyone's been waiting for you, Producer-san～"
+miniGamePortal.staffComment3,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～
+miniGamePortal.staffComment4,大富豪、懐かしいですね～,大富豪、懐かしいですね～
+miniGamePortal.staffComment5,ミニゲームが遊べますよ～,Let's play the minigame～
+tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──
+idolList.knowHowCount,ノウハウ数,ノウハウ数
+idolList.knowHowBoolMarkSelectDialog.title,ノウハウブックマーク,Know-How Bookmark
+idolList.knowHowRedrawDialog.title,ノウハウのリロード,Reload Know-How
+idolList.knowHowRedrawDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount}回目
+idolList.knowHowRedrawHistoriesDialog.title,リロード済ノウハウ,リロード済ノウハウ
+idolList.knowHowRedrawHistoriesDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount}回目
+idolList.knowHowDeleteDialog.title,ノウハウの削除,ノウハウの削除
+idolList.knowHowExpressDialog.title,ノウハウ選択,ノウハウ選択
+idolList.knowHowResultDialog.title.redraw,リロード結果,Reloading Results
+idolList.knowHowResultDialog.title.delete,削除結果,削除結果
+idolList.knowHowResultDialog.title.add,発現結果,発現結果
+idolList.knowHowResultDialog.comment.redraw,以下のノウハウにリロードされました！,以下のノウハウにリロードされました！
+idolList.knowHowResultDialog.comment.delete,以下のノウハウが削除されました,以下のノウハウが削除されました
+idolList.knowHowResultDialog.comment.add,以下のノウハウが発現しました！,以下のノウハウが発現しました！
+idolList.knowHowUneditablePop.redrawImpossibleToProduce,プロデュースに使用している為、\nリロードは行えません,プロデュースに使用している為、\nリロードは行えません
+idolList.knowHowUneditablePop.deleteImpossibleToProduce,プロデュースに使用している為、\n削除は行えません,プロデュースに使用している為、\n削除は行えません
+filter.cautions.knowHowLevelCount,チェックしたレベルのノウハウを指定した個数持つノウハウブックが絞り込まれます,チェックしたレベルのノウハウを指定した個数持つノウハウブックが絞り込まれます
+filter.cautions.individualityDetail,条件を満たしているノウハウを持つノウハウブックが絞り込まれます,条件を満たしているノウハウを持つノウハウブックが絞り込まれます
+filter.cautions.knowHowBookMark,ノウハウブック一覧の詳細から好きなマークを設定できます,ノウハウブック一覧の詳細から好きなマークを設定できます
+filter.texts.inspirations.vocal,Vo.,Vo.
+filter.texts.inspirations.visual,Vi.,Vi.
+filter.texts.inspirations.dance,Da.,Da.
+filter.texts.inspirations.mental,Me.,Me.
+filter.texts.status.vocal,Vocal,Vocal
+filter.texts.status.visual,Visual,Visual
+filter.texts.status.dance,Dance,Dance
+filter.texts.status.mental,Mental,Mental
+filter.texts.knowHowLevelCount.countRange.limited,%{min}〜%{max}個,%{min}〜%{max}個
+filter.texts.knowHowLevelCount.countRange.unlimited,%{min}個以上,%{min}個以上
+filter.texts.individualityDetail.skill,ノウハウ%{num},ノウハウ%{num}
+filter.texts.individualityDetail.notSet,未設定,未設定
+filter.texts.individualityDetail.all,すべて,すべて
+filter.texts.foil,フォイル化あり,With Foil
+filter.texts.fesMatchHonorTextType.all,すべて,All
+filter.texts.fesMatchHonorTextType.normal,通常,通常
+filter.texts.fesMatchHonorTextType.event,イベント,Event
+characterAlbum.commu.emptyNotice,確認できる共通コミュはありません,確認できる共通コミュはありません
+characterAlbum.pIdol.emptyNotice,プロデュースアイドルはいません,There are no Produce Idols.
+characterAlbum.sIdol.emptyNotice,サポートアイドルはいません,There are no Support Idols.
+characterAlbum.idolCommuListPop.title,アイドルコミュ,Idol Commu
+characterAlbum.commuEndPop.title,コミュ閲覧,View Commu
+autoPlay.produceSelectPopTitle,プロデュース選択,プロデュース選択
+autoPlay.growthPolicySelectPop.title,育成方針選択,育成方針選択
+autoPlay.growthPolicySelectPop.notice,%{growth}に関するスキルパネルを優先的に解放し、\n%{growth}のステータスアップを中心に育成します,%{growth}に関するスキルパネルを優先的に解放し、\n%{growth}のステータスアップを中心に育成します
+autoPlay.growthPolicySelectPop.vocal,Vocal,Vocal
+autoPlay.growthPolicySelectPop.dance,Dance,Dance
+autoPlay.growthPolicySelectPop.visual,Visual,Visual
+autoPlay.produceStartPop.title,オートプロデュース開始,オートプロデュース開始
+autoPlay.produceStartPop.text,設定したプロデュースアイテムとスタミナを\n消費してオートプロデュースを開始しますか？,設定したプロデュースアイテムとスタミナを\n消費してオートプロデュースを開始しますか？
+autoPlay.produceStartPop.notice,オートプロデュースを実行した際に\nアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、\n実行中および準備中のアイテムとスタミナは返却されます,オートプロデュースを実行した際に\nアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、\n実行中および準備中のアイテムとスタミナは返却されます
+autoPlay.produceStartWithItemPop.title,オートプロデュース開始,オートプロデュース開始
+autoPlay.produceStartWithItemPop.text,回復アイテムをセットして\nオートプロデュースを開始します,回復アイテムをセットして\nオートプロデュースを開始します
+autoPlay.produceStartWithItemPop.notice,オートプロデュースを実行した際にアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、実行中および準備中のアイテムとスタミナは返却されます,オートプロデュースを実行した際にアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、実行中および準備中のアイテムとスタミナは返却されます
+autoPlay.skipPop.title,オートスキップ,オートスキップ
+autoPlay.skipPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,スキップチケットは1日%{availableCount}回までしか使用できません
+autoPlay.skipPop.notice2,使用回数は毎朝5時にリセットされます,使用回数は毎朝5時にリセットされます
+autoPlay.skipPop.remaining,残り,残り
+autoPlay.skipPop.remainingUnit,回 / 日,回 / 日
+autoPlay.skipedPop.title,オートスキップ,オートスキップ
+autoPlay.skipedPop.comment,オートプロデュースを\n%{num}回分スキップしました,オートプロデュースを\n%{num}回分スキップしました
+autoPlay.produceConfirmPop.title,オートプロデュース確認,オートプロデュース確認
+autoPlay.produceConfirmPop.notice,オートスケジュールを設定中です,オートスケジュールを設定中です
+autoPlay.produceConfirmPop.finished,完了,完了
+autoPlay.produceConfirmPop.ready,準備中,準備中
+autoPlay.produceConfirmPop.playing,実行中,実行中
+autoPlay.produceConfirmPop.produceTitle.wing,W.I.N.G.,W.I.N.G.
+autoPlay.produceConfirmPop.produceTitle.fan_meeting,ファン感謝祭,ファン感謝祭
+autoPlay.produceConfirmPop.produceTitle.3rd_produce_area,G.R.A.D.,G.R.A.D.
+autoPlay.produceConfirmPop.produceTitle.4th_produce_area,Landing Point,Landing Point
+autoPlay.produceConfirmPop.produceTitle.5th_produce_area,S.T.E.P.,S.T.E.P.
+autoPlay.releasedRequirementDescription.wing,ミドルの『W.I.N.G.』編でフェスアイドルを優勝させる,ミドルの『W.I.N.G.』編でフェスアイドルを優勝させる
+autoPlay.releasedRequirementDescription.fan_meeting,『ファン感謝祭』編でフェスアイドルを誕生させる,『ファン感謝祭』編でフェスアイドルを誕生させる
+autoPlay.releasedRequirementDescription.3rd_produce_area,『G.R.A.D.』編でフェスアイドルを誕生させる,『G.R.A.D.』編でフェスアイドルを誕生させる
+autoPlay.releasedRequirementDescription.4th_produce_area,『Landing Point』編でフェスアイドルを誕生させる,『Landing Point』編でフェスアイドルを誕生させる
+autoPlay.releasedRequirementDescription.5th_produce_area,『S.T.E.P.』編でフェスアイドルを誕生させる,『S.T.E.P.』編でフェスアイドルを誕生させる
+autoPlay.produceFinishConfirmPop.title,オートプロデュース終了確認,オートプロデュース終了確認
+autoPlay.produceFinishConfirmPop.comment1,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします
+autoPlay.produceFinishConfirmPop.comment2,実行中のオートプロデュースのデータは失われます,実行中のオートプロデュースのデータは失われます
+autoPlay.produceFinishConfirmPop.comment3,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます
+autoPlay.itemReturnPop.title,アイテム返却,アイテム返却
+autoPlay.itemReturnPop.comment,以下のアイテムが返却されました,以下のアイテムが返却されました
+autoPlay.schedulesFinishPop.title,オートプロデュース終了,オートプロデュース終了
+autoPlay.schedulesFinishPop.comment,オートプロデュースが全て完了しました,オートプロデュースが全て完了しました
+autoPlay.nothingCompletedPop.title,オートプロデュース終了,オートプロデュース終了
+autoPlay.nothingCompletedPop.comment,完了したオートプロデュースはありません,完了したオートプロデュースはありません
+autoPlay.releaseCondition.title,解放条件,解放条件
+autoPlay.releaseCondition.condition,オートプロデュースを解放する為には\n以下の条件が必要です\n\n・初心者ミッションをクリア\n・『W.I.N.G.』編のミドルで優勝するもしくは、\n他のプロデュースでフェスアイドルを誕生させる,オートプロデュースを解放する為には\n以下の条件が必要です\n\n・初心者ミッションをクリア\n・『W.I.N.G.』編のミドルで優勝するもしくは、\n他のプロデュースでフェスアイドルを誕生させる
+autoPlay.resultAcquiredFanIdolName,【%{idolName}】獲得ファン数,【%{idolName}】獲得ファン数
+autoPlay.updateSchedulePop.title,オート終了確認,オート終了確認
+autoPlay.updateSchedulePop.comment,オートスケジュールの状況が更新されています\n\n再度オートスケジュールの設定を表示しなおします,オートスケジュールの状況が更新されています\n\n再度オートスケジュールの設定を表示しなおします
+autoPlay.skipLimitPop.title,スキップ制限,スキップ制限
+autoPlay.skipLimitPop.comment,本日はこれ以上\nスキップチケットを使用できません,本日はこれ以上\nスキップチケットを使用できません
+autoPlay.skipLimitPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,スキップチケットは1日%{availableCount}回までしか使用できません
+autoPlay.skipLimitPop.notice2,使用回数は毎朝5時にリセットされます,使用回数は毎朝5時にリセットされます
+survey.questionOrder,設問 %{order},設問 %{order}
+survey.confirmTitle,アンケート回答確認,アンケート回答確認
+survey.answerNoticeOnce,回答は一度しかできません,回答は一度しかできません
+survey.answerNoticeDaily,回答は1日1度しかできません,回答は1日1度しかできません
+survey.answeredTitle,回答完了,回答完了
+survey.answeredMessage,アンケートに回答しました,アンケートに回答しました
+survey.aggregatingMessage,集計中です,集計中です
+survey.aggregatedMessage,回答は締め切りました 結果はお知らせをご確認ください,回答は締め切りました 結果はお知らせをご確認ください
+pickupContents.expiredPop.title,確認,確認
+pickupContents.expiredPop.announceClosedText,該当の詳細の期限は終了しました,該当の詳細の期限は終了しました
+pickupContents.expiredPop.contentClosedText,該当のコンテンツの期限は終了しました,該当のコンテンツの期限は終了しました
+limitedFesTop.closeText,期間終了,期間終了
+limitedFesTop.closeDate,%{closeAt}まで,%{closeAt}まで
+limitedFesTop.pyramid.self,自分,自分
+limitedFesTop.pyramid.rank,%{rank}位,%{rank}位
+limitedFesTop.pyramid.score,%{score}人,%{score}人
+limitedFesTop.pyramid.nextPrefix,次のリーグまで,次のリーグまで
+limitedFesTop.hallDetailDialog.title.easy,Easyステージ,Easyステージ
+limitedFesTop.hallDetailDialog.title.normal,Normalステージ,Normalステージ
+limitedFesTop.hallDetailDialog.title.hard,Hardステージ,Hardステージ
+limitedFesTop.periodsDialog.title,各フェーズ開催期間,各フェーズ開催期間
+limitedFesTop.cantEntryDialog.title,参加条件,参加条件
+limitedFesTop.cantEntryDialog.text,指定期間中にグレードLv.6以上に\n所属で参加することができます。\n詳しくはお知らせをご確認ください。,指定期間中にグレードLv.6以上に\n所属で参加することができます。\n詳しくはお知らせをご確認ください。
+limitedFesTop.rankingChangeDialog.title,順位変動,順位変動
+limitedFesTop.rankingChangeDialog.text,順位が%{rankBefore}位から%{rankAfter}位に変動しました,順位が%{rankBefore}位から%{rankAfter}位に変動しました
+limitedFesTop.rankingRewardDialog.title,ランキング報酬,ランキング報酬
+limitedFesTop.receiveRewardDialog.title,報酬獲得,報酬獲得
+limitedFesTop.receiveRewardDialog.text,以下のアイテムがプレゼントBOXに送られました\n※称号は直接付与されます,以下のアイテムがプレゼントBOXに送られました\n※称号は直接付与されます
+limitedFesTop.receiveRewardDialog.labelLeague,・リーグ報酬,・リーグ報酬
+limitedFesTop.receiveRewardDialog.labelRanking,・ランキング報酬,・ランキング報酬
+limitedFesTop.resumeDialog.title,フェス再開,フェス再開
+limitedFesTop.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,進行中のフェスがあります。\nフェスを再開しますか？
+limitedFesTop.resultAnnounce.period,yyyy年 m月  マスターズフェス,yyyy年 m月  マスターズフェス
+limitedFesTop.resultAnnounce.staffComment.first,１位獲得、おめでとうございます～♪\nずっと努力を続けてきたからこその結果ですね～\nさすがです、プロデューサーさん,１位獲得、おめでとうございます～♪\nずっと努力を続けてきたからこその結果ですね～\nさすがです、プロデューサーさん
+limitedFesTop.resultAnnounce.staffComment.higher,１位まであともう少しでしたね～……\n次のフェスではさらに上を目指せるように、\n私もサポート頑張りますので～,１位まであともう少しでしたね～……\n次のフェスではさらに上を目指せるように、\n私もサポート頑張りますので～
+limitedFesTop.resultAnnounce.staffComment.middle,お疲れ様でした\nプロデューサーさんなら、次はもっと上を目指せます\n一緒に頑張っていきましょうね～,お疲れ様でした\nプロデューサーさんなら、次はもっと上を目指せます\n一緒に頑張っていきましょうね～
+limitedFesTop.resultAnnounce.staffComment.lower,お疲れ様でした\n次回はトップ10入りを目指して\n頑張っていきましょう〜,お疲れ様でした\n次回はトップ10入りを目指して\n頑張っていきましょう〜
+limitedFesTop.resultAnnounce.staffComment.common,お疲れ様でした\n次回のフェスも頑張っていきましょう〜,お疲れ様でした\n次回のフェスも頑張っていきましょう〜
+limitedFesTop.terminateDialog.title,フェス終了,フェス終了
+limitedFesTop.terminateDialog.text,進行中のフェスを終了します。,進行中のフェスを終了します。
+limitedFesTop.terminateDialog.textWarning,フェス参加権は返却されません,フェス参加権は返却されません
+limitedFesTop.idolBonuses.attributeDesc,%{attribute}基礎能力+%{upValue}%UP,%{attribute}基礎能力+%{upValue}%UP
+limitedFesTop.idolBonuses.mentalDesc,メンタル基礎能力+%{upValue}%,メンタル基礎能力+%{upValue}%
+limitedFesTop.idolBonuses.passiveDesc,パッシブスキル発動率+%{upValue}%UP,パッシブスキル発動率+%{upValue}%UP
+limitedFesDeck.specialBonusIdolEmptyMessage,特別ボーナスを持つアイドルはいません,特別ボーナスを持つアイドルはいません
+limitedFesTicketRecover.attention,フェーズ切り替わりの際\n上限を超えている参加権は破棄されます,フェーズ切り替わりの際\n上限を超えている参加権は破棄されます
+limitedFesExceptionPop.title,マスターズフェス,マスターズフェス
+limitedFesExceptionPop.closePhaseText,フェーズが切り替わりました\n画面を更新します,フェーズが切り替わりました\n画面を更新します
+limitedFesExceptionPop.closeEventText,マスターズフェスは終了しました,マスターズフェスは終了しました
+limitedFesExceptionPop.changePhaseTitle,フェーズの更新,フェーズの更新
+limitedFesExceptionPop.changePhaseText,フェーズが切り替わったため、\n今回のフェスの結果は集計されません,フェーズが切り替わったため、\n今回のフェスの結果は集計されません
+limitedFesExceptionPop.changePhaseNotice,参加券も消費されません,参加券も消費されません
+limitedFesReady.title,%{leagueName} (%{difficulty}),%{leagueName} (%{difficulty})
+limitedFesReady.notice,テンション決定後は前の画面には戻れません,テンション決定後は前の画面には戻れません
+limitedFesResult.title,%{leagueName} %{difficulty},%{leagueName} %{difficulty}
+limitedFesResult.appeal,アピール値,アピール値
+limitedFesResult.appealValue,%{value}pt,%{value}pt
+limitedFesResult.bonus,ボーナス,ボーナス
+limitedFesResult.bonusValue,×%{value},×%{value}
+limitedFesResult.rankingValue,%{value}位,%{value}位
+limitedFesResult.scoreValue,%{value}pt,%{value}pt
+limitedFesResult.totalValue,%{value}人,%{value}人
+limitedFesResult.requiredScore,リーグ昇格まで,リーグ昇格まで
+limitedFesResult.totalScoreNotice,※%{name}はスコアの上位%{selectedScoresNum}個がファン支持数になります,※%{name}はスコアの上位%{selectedScoresNum}個がファン支持数になります
+limitedFesUserLogPop.title,スコア履歴,スコア履歴
+limitedFesUserLogPop.notice,フェーズ%{fesLimitedPhaseOrder}はスコアの上位%{selectedScoresNum}個がファン支持数になります,フェーズ%{fesLimitedPhaseOrder}はスコアの上位%{selectedScoresNum}個がファン支持数になります
+limitedFesUserLogPop.emptyNotice,プレイ履歴がありません,プレイ履歴がありません
+limitedFesPhaseResultPop.title,各フェーズ結果,各フェーズ結果
+unusedIdolFoilPop.title,未適用フォイル,未適用フォイル
+unusedIdolFoilPop.notice1,アイドルより先に獲得したフォイルの一覧です,アイドルより先に獲得したフォイルの一覧です
+unusedIdolFoilPop.notice2,該当のアイドルが加入することでフォイル化することができます,該当のアイドルが加入することでフォイル化することができます
+unusedIdolFoilPop.emptyNotice,該当のアイドルのフォイルはありません,該当のアイドルのフォイルはありません
+convertedFoilPop.title,フォイル変換,フォイル変換
+convertedFoilPop.notice,未加入アイドルのフォイルは未適用フォイルに保存されます,未加入アイドルのフォイルは未適用フォイルに保存されます
+foilGashaProvideItemsPop.title,提供一覧,提供一覧
+foilGashaProvideItemsPop.emptyNotice,該当のアイドルのフォイルはありません,該当のアイドルのフォイルはありません
+selectFoilMedalPop.title,使用メダル選択,使用メダル選択
+useAlmightyFoilItem.useConfirmPop.title,使用確認,使用確認
+useAlmightyFoilItem.useConfirmPop.message,%{itemName}を使用して\nアイドルをフォイル化します\nよろしいですか？,%{itemName}を使用して\nアイドルをフォイル化します\nよろしいですか？
+useAlmightyFoilItem.useResultPop.title,使用結果,使用結果
+useAlmightyFoilItem.useResultPop.message,以下のアイドルのフォイル化が完了しました！,以下のアイドルのフォイル化が完了しました！
+useAlmightyFoilItem.notice,%{itemName}%{num}個で1人フォイル化できます,%{itemName}%{num}個で1人フォイル化できます
+parallelSceneMenuPop.title,サブ画面メニュー,サブ画面メニュー
+parallelSceneLayoutPop.title,コミュ並列閲覧,コミュ並列閲覧
+parallelSceneLayoutPop.text,画面レイアウトを選択してください,画面レイアウトを選択してください
+parallelSceneLayoutPop.notice,サブ画面はアルバムのみ開くことができます,サブ画面はアルバムのみ開くことができます
+parallelSceneLayoutPop.descriptions.left,左:サブ画面 右:メイン画面,左:サブ画面 右:メイン画面
+parallelSceneLayoutPop.descriptions.top,上:サブ画面 下:メイン画面,上:サブ画面 下:メイン画面
+parallelSceneLayoutPop.descriptions.right,左:メイン画面 右:サブ画面,左:メイン画面 右:サブ画面
+parallelSceneLayoutPop.descriptions.bottom,上:メイン画面 下:サブ画面,上:メイン画面 下:サブ画面
+parallelSceneNoticePop.title,コミュ並列閲覧,コミュ並列閲覧
+parallelSceneNoticePop.comment1,画面の分割を開始します,画面の分割を開始します
+parallelSceneNoticePop.comment2,ブラウザを閉じるとサブ画面も閉じられます,ブラウザを閉じるとサブ画面も閉じられます
+parallelSceneNoticePop.comment3,メイン画面とサブ画面の音量は別で設定できます,メイン画面とサブ画面の音量は別で設定できます
+commuUnlockErrorPop.title,コミュ解放,コミュ解放
+commuUnlockErrorPop.texts.unlocked,すでに解放されています,すでに解放されています
+commuUnlockErrorPop.texts.itemShortage,%{itemName}が不足しています,%{itemName}が不足しています
+daifugo.communicationPointLimitText,上限は毎週月曜%{resetTime}にリセット,上限は毎週月曜%{resetTime}にリセット
+daifugo.courseDetailPopupTitle,ルール詳細,ルール詳細
+daifugo.gameRecordPopupTitle,プレイ記録,プレイ記録
+daifugo.idolSelectPop.title,アイドル選択,アイドル選択
+daifugo.idolSelectPop.txtLineNotice,残り2名のアイドルはランダムで選ばれます,残り2名のアイドルはランダムで選ばれます
+daifugo.idolSelectPop.confirmationComment,一緒に遊ぶアイドル1名を選んでください,一緒に遊ぶアイドル1名を選んでください
+daifugo.menuPopupTitle,メニュー,メニュー
+daifugo.resultScore,%{score}pt,%{score}pt
+daifugo.resultCardBonus,%{total}pt(%{cardNum}x%{perValue}),%{total}pt(%{cardNum}x%{perValue})
+daifugo.resultBonusRate,x%{rate}倍(%{numberOfConsecutiveWins}勝),x%{rate}倍(%{numberOfConsecutiveWins}勝)
+daifugo.resumeConfirmPopup.title,再開確認,再開確認
+daifugo.resumeConfirmPopup.message,保存中のゲームがあります\n再開しますか？,保存中のゲームがあります\n再開しますか？
+daifugo.retireConfirmPopup.title,破棄確認,破棄確認
+daifugo.retireConfirmPopup.message,ゲームを破棄しますか？,ゲームを破棄しますか？
+daifugo.cardEffect.straight,階段,階段
+daifugo.cardEffect.revolution,革命,革命
+daifugo.cardEffect.same_suit,マークしばり,マークしばり
+daifugo.cardEffect.eight_flow,8切り,8切り
+daifugo.cardEffect.eleven_back,11バック,11バック
+daifugo.cardEffect.spade_three_return,スペ3返し,スペ3返し
+daifugo.cardEffect.forbidden_finish,禁止あがり,禁止あがり
+daifugo.exchangeCards.choiceMessage,%{role}に渡すカードを%{num}枚選択してください,%{role}に渡すカードを%{num}枚選択してください
+daifugo.exchangeCards.receiveMessage,%{role}からカードを%{num}枚受け取りました,%{role}からカードを%{num}枚受け取りました
+daifugo.role.great_rich_man,大富豪,大富豪
+daifugo.role.rich_man,富豪,富豪
+daifugo.role.poor_man,貧民,貧民
+daifugo.role.great_poor_man,大貧民,大貧民
+characterProfile.unlockText,コミュニケーションレベル%{level}で解放,コミュニケーションレベル%{level}で解放
+miniGame.tutorial.comment1,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～
+fes.specialFesSelect.consumeButtonComment,チケットを     消費します,チケットを     消費します
+fes.specialFesSelect.consumeComment,まとめて消費は、消費分の報酬を獲得可能！,まとめて消費は、消費分の報酬を獲得可能！
+fes.deck.memoryChargeSkillDisableNotice,※思い出チャージの効果を持つアイドル\nを編成することで有効となります。\n\n※思い出チャージを持つアイドルは、センターポジション担当と同じユニットの必要があります。,※思い出チャージの効果を持つアイドル\nを編成することで有効となります。\n\n※思い出チャージを持つアイドルは、センターポジション担当と同じユニットの必要があります。
+fes.resumeConflictionDialog.text,進行中のグレードフェスまたはマスターズフェスが\nある為、編成を変更できません,進行中のグレードフェスまたはマスターズフェスが\nある為、編成を変更できません
+fes.fesDeck.mysterySongTitle,？？？？？,？？？？？
+fes.pauseSkillTitle.generateSkill,生成スキル,生成スキル
+fes.ranking.trophyCount,×%{count},×%{count}
+fes.popularityRanking.bonus,＋%{bonus}pt,＋%{bonus}pt
+fes.deckMemberBonusStatus.limitedFesIdolBonus,特別ボーナス %{value}％,特別ボーナス %{value}％
+fes.deckMemberPopularity.bonus,＋%{bonus},＋%{bonus}
+fes.deckMemberPopularity.bonusTextLabel,pt,pt
+fes.deckMemberPopularity.idolPointUnitRate,%{rate}%UP,%{rate}%UP
+fes.limitedFesNotice.beforeOpen,『%{eventName}』開催まで あと%{remainingDayToOpen}日,『%{eventName}』開催まで あと%{remainingDayToOpen}日
+fes.limitedFesNotice.openingDay,『%{eventName}』本日%{openHour}時開催！,『%{eventName}』本日%{openHour}時開催！
+fes.limitedFesNotice.opening,『%{eventName}』開催中！,『%{eventName}』開催中！
+gameEvent.presentEvent.lastPrefix,】,】
+gameEvent.presentEvent.selectEventDialog.title,クリスマス特設ページ,クリスマス特設ページ
+gameEvent.ranking,%{value}位,%{value}位
+gameEvent.characterVoteEvent.confirmDialogTitle,投票確認,投票確認
+gameEvent.characterVoteEvent.successDialogTitle,投票完了,投票完了
+gameEvent.characterVoteEvent.successDialogShortText,上記のアイドルへ%{voteNum}枚投票しました,上記のアイドルへ%{voteNum}枚投票しました
+gameEvent.characterVoteEvent.successDialogText,%{name}へ\n%{voteNum}枚投票しました,%{name}へ\n%{voteNum}枚投票しました
+gameEvent.characterVoteEvent.limitIdolVoteDialogTitle,アイドル投票終了間近！,アイドル投票終了間近！
+gameEvent.characterVoteEvent.limitIdolVoteDialogTicketQuantity,%{quantity}枚,%{quantity}枚
+gameEvent.characterVoteEvent.limitSituationVoteDialogTitle,シチュエーション回答終了間近！,シチュエーション回答終了間近！
+gameEvent.characterVoteEvent.voteNum,%{num}票,%{num}票
+gameEvent.characterVoteEvent.top.replyPeriodEnds,回答期間は終了しました,回答期間は終了しました
+gameEvent.characterVoteEvent.top.alreadyAnswered,すでに回答済みです,すでに回答済みです
+gameEvent.characterVoteEvent.top.badgeText,%{date}から投票開始予定！,%{date}から投票開始予定！
+gameEvent.characterVoteEvent.ticketUnpossessedPop.title,確認,確認
+gameEvent.characterVoteEvent.ticketUnpossessedPop.text,投票券が足りません,投票券が足りません
+gameEvent.characterVoteEvent.historyPop.title,投票履歴,投票履歴
+gameEvent.characterVoteEvent.historyPop.noHistoryText,投票履歴がありません,投票履歴がありません
+gameEvent.characterVoteEvent.achievementPop.title,投票実績,投票実績
+gameEvent.characterVoteEvent.achievementPop.noAchievementText,投票実績がありません,投票実績がありません
+gameEvent.characterVoteEvent.schedule,%{date}まで,%{date}まで
+gameEvent.characterVoteEvent.aggregationSchedule,%{date}予定,%{date}予定
+gameEvent.characterVoteEvent.howToPlayDialogTitle,遊び方,遊び方
+gameEvent.pCupRewardPop.title,報酬配布,報酬配布
+gameEvent.pCupRewardPop.text,%{eventName}の報酬を配布しました,%{eventName}の報酬を配布しました
+gameEvent.tapCounterEvent.unreleasedHelperName,???,???
+gameEvent.tapCounterEvent.unreleasedPoint,?????,?????
+gameEvent.tapCounterEvent.unreleasedText,?????????,?????????
+gameEvent.tapCounterEvent.purchaseButtonLevelText,Lv.アップ,Lv.アップ
+gameEvent.tapCounterEvent.maxLevel,最大Lv,最大Lv
+gameEvent.tapCounterEvent.helperLevelText,Lv.%{level}/%{maxLevel},Lv.%{level}/%{maxLevel}
+gameEvent.tapCounterEvent.pointInformationPopTitle,記録,記録
+gameEvent.tapCounterEvent.levelInformationPopTitle,レベル効果,レベル効果
+gameEvent.tapCounterEvent.pointByTap,つっつきの%{nameOfPointByTap}%{num},つっつきの%{nameOfPointByTap}%{num}
+gameEvent.tapCounterEvent.supporterBonus,すけっとのポイント%{num}倍,すけっとのポイント%{num}倍
+gameEvent.tapCounterEvent.pointByTapBonus,つっつきの%{nameOfPointByTap}%{num}倍,つっつきの%{nameOfPointByTap}%{num}倍
+gameEvent.tapCounterEvent.endingLabel,エンディング%{num},エンディング%{num}
+gameEvent.tapCounterEvent.nameOfPointByTap.50041,めざまし力,めざまし力
+gameEvent.tapCounterEvent.nameOfPointByTap.50042,収穫力,収穫力
+gasha.againGashaResultTitle,ガシャ%{count}回目,ガシャ%{count}回目
+gasha.againGashaResultExpireNotice,有効期限が切れたため最後に引いたガシャが確定されました,有効期限が切れたため最後に引いたガシャが確定されました
+gasha.popAgainGashaFixConfirmFirst.comment,本ガシャはあと%{remainCount}回引き直しすることが可能です,本ガシャはあと%{remainCount}回引き直しすることが可能です
+gasha.popAgainGashaFixConfirmFirst.notice,このガシャ結果を確定してもよろしいですか？,このガシャ結果を確定してもよろしいですか？
+gasha.popAgainGashaFixConfirmFirst.notice2,結果を確定すると引き直すことはできません,結果を確定すると引き直すことはできません
+gasha.popAgainGashaFixConfirmSecond.comment,選択した内容で確定します\nよろしいですか？,選択した内容で確定します\nよろしいですか？
+gasha.popAgainGashaFixConfirmSecond.notice,確定すると選択していないガシャ結果は消滅します,確定すると選択していないガシャ結果は消滅します
+gasha.popAgainGashaRedrawConfirmFirst.comment,引き直し前のガシャ結果も残り、\n引き直し後に好きなガシャ結果を選べます\nガシャを引き直しますか？,引き直し前のガシャ結果も残り、\n引き直し後に好きなガシャ結果を選べます\nガシャを引き直しますか？
+gasha.popAgainGashaRedrawConfirmSecond.comment,今回（%{drawCount}回目）のガシャ結果は残ります\n前回（%{prev}回目）のガシャ結果は消滅します\nガシャを引き直しますか？,今回（%{drawCount}回目）のガシャ結果は残ります\n前回（%{prev}回目）のガシャ結果は消滅します\nガシャを引き直しますか？
+gasha.popAgainGashaRedrawConfirmSecond.checkComment,引き直しを有効にする,引き直しを有効にする
+gasha.popAgainGashaUnsettled.comment,%{gashaName}\nの結果を確定していません\nガシャ結果へ移動します,%{gashaName}\nの結果を確定していません\nガシャ結果へ移動します
+gasha.popAgainGashaUnsettledTerm.comment,%{gashaName}\nの販売期間が終了しました\n確定したガシャ結果へ移動します,%{gashaName}\nの販売期間が終了しました\n確定したガシャ結果へ移動します
+gasha.popAgainGashaUnsettledTerm.notice,引き直しはできません,引き直しはできません
+gasha.stepSubtitle,通常ガシャ提供割合,通常ガシャ提供割合
+gasha.stepSubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
+gasha.staffChanceGashaAcquiredRewardPop.nameAndNum,%{name} ×%{num},%{name} ×%{num}
+gasha.foilGashaNotice,※アイドルは獲得できません。,※アイドルは獲得できません。
+header.parallelOption,サブ画面設定,サブ画面設定
+header.trophy,トロフィー,Trophy
+header.autoPlaySchedule,オートスケジュール,Auto Schedule
+header.autoPlayResult,オートリザルト,Auto Result
+header.limitedFesTop,マスターズフェス,Masters Fes
+header.limitedFesRanking,ランキング,Ranking
+header.foilBook,フォイルアイドル一覧,Foiled Idol List
+header.useAlmightyFoilItem,オールマイティフォイル使用,Almighty Foil Item
+header.fesMatchHonor,グレードフェス記事,Grade Fes Article
+header.miniGamePortal,ミニゲーム,Minigame
+header.characterProfile,プロフィール,Profile
+header.daifugoSelectCourse,コース選択,Select a Course
+homeDeck.randomSetting.bgTypes.values.music,BGM,BGM
+homeDeck.randomSetting.characterIds.label,アイドル,Idol
+ban.title,利用制限,利用制限
+ban.message,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています
+mypageCommunication.unknownCharacterName,？？？,？？？
+exSkill.exSkillChangeSelectPop.title,確認,確認
+exSkill.exSkillChangeSelectPop.message,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください
+exSkill.exSkillChangeConfirmPop.title,確認,確認
+exSkill.exSkillChangeConfirmPop.message,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？
+mission.shinyPassAdBanner.rewardNameAndNum,%{rewardName}×%{rewardNum},%{rewardName}×%{rewardNum}
+option.fesTowerContentTitle.levelUpPanelConfirmation,レベルアップパネル選択時に\n確認画面を表示,レベルアップパネル選択時に\n確認画面を表示
+option.homeContent.title.idolPrank2022,アイドルからのイタズラ【メリーさん】,アイドルからのイタズラ【メリーさん】
+option.homeContent.title.idolPrank2023,アイドルからのイタズラ【寝たふり】,アイドルからのイタズラ【寝たふり】
+option.homeContent.prank.on,%{name} ON,%{name} ON
+option.homeContent.prank.off,%{name} OFF,%{name} OFF
+option.homeContent.itemName.joke2022,2022ハロウィンのおかし,2022 Halloween Sweets
+option.homeContent.itemName.joke2023,2023ハロウィンのおかし,2023 Halloween Sweets
+option.pushNotificationContentTitle.autoProduceFinish,オートプロデュース完了通知,オートプロデュース完了通知
+option.pushNotificationContentTitle.communicationPoint,コミュニケーションポイント通知,コミュニケーションポイント通知
+option.pushNotificationContentTitle.produceCheering,アイドルの応援通知,アイドルの応援通知
+idolDetail.skill.maxLevel,(MAX %{level}),(MAX %{level})
+idolDetail.skill.max,(MAX),(MAX)
+idolDetail.skill.chargeSkillLockPanel,特訓%{evolutionStage}回目で解放,特訓%{evolutionStage}回目で解放
+idolDetail.profile.characterProfileName,%{kanji}(%{kana}),%{kanji}(%{kana})
+idolDetail.profile.ageTitles.age,年齢,年齢
+idolDetail.profile.ageTitles.academic_year,学年,学年
+idolDetail.profile.hiddenProperty,ー,ー
+idolDetail.tradeConfirmDialog.presetKnowHowBookNotice,プリセットに設定されているノウハウブックが含まれています,プリセットに設定されているノウハウブックが含まれています
+idolDetail.tradeConfirmDialog.fesIdolRankANotice,Aランク以上のフェスアイドルが含まれています,Aランク以上のフェスアイドルが含まれています
+idolDetail.tradeConfirmDialog.memorialIdolRank3Notice,思い出Lv.3以上のフェスアイドルが含まれています,思い出Lv.3以上のフェスアイドルが含まれています
+idolDetail.tradeConfirmDialog.tradeConfirmNotice,この動作は取り消すことができません,この動作は取り消すことができません
+idolDetail.foilStatusUpText,フォイル化基礎能力UP：,フォイル化基礎能力UP：
+idolDetail.letterFromIdolDetailDialog.title,「アイドルからの手紙」詳細,「アイドルからの手紙」詳細
+idolDetail.letterFromIdolDetailDialog.description,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます
+idolDetail.letterFromIdolDetailDialog.condition,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」
+idolDetail.letterFromIdolDetailDialog.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます
+item.itemConfirm.notice.fes,自然回復の上限を超えて回復できます,自然回復の上限を超えて回復できます
+item.itemConfirm.notice.fes_limited,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます
+item.recoveryItem.type.fes.resultConsumeItem,以下のアイテム,以下のアイテム
+jointFes.stageSelect.stageLevel,Lv.%{level},Lv.%{level}
+jointFes.retireAttention.titleStart,ライブ開始,ライブ開始
+jointFes.retireAttention.message1,マッチライブ以外の進行中のフェスがあります\nマッチライブを%{method}するには、,マッチライブ以外の進行中のフェスがあります\nマッチライブを%{method}するには、
+jointFes.retireAttention.message2,現在進行中の,現在進行中の
+jointFes.retireAttention.message3,フェスを終了する必要があります,フェスを終了する必要があります
+jointFes.retireAttention.message4,フェスを終了してマッチライブを%{method}しますか？,フェスを終了してマッチライブを%{method}しますか？
+jointFes.retireAttention.method.skip,スキップ,スキップ
+jointFes.retireAttention.method.start,開始,開始
+jointFes.areaUnlock.gradeName,グレードLv.%{grade},グレードLv.%{grade}
+jointFesConcert.fesTicketReturnMessage,敗北したため使用したフェス参加権を返却しました,敗北したため使用したフェス参加権を返却しました
+musicSelect.playMvDialog.confirm,MVを再生しますか？,Would you like to play the MV?
+photoBootFailDialog.messages.default,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります
+photoBootFailDialog.messages.toHelp,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります\n\nヘルプを参照してカメラの使用を\n許可してください,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります\n\nヘルプを参照してカメラの使用を\n許可してください
+produceHeader.concertSeason.wing,W.I.N.G.,W.I.N.G.
+produceHeader.concertSeason.grad,G.R.A.D.,G.R.A.D.
