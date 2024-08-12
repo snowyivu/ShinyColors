@@ -1706,16 +1706,12 @@ spine/idols/stand_costume/1030090040/data.json_atlas_page_data.png,4
 spine/idols/stand_costume/1030130020/data.json_atlas_page_data.png,8
 images/content/idols/fes_card/51046c66c4b287f1492966974a04153f_1030180010.jpg,3
 images/content/idols/fes_icon/51046c66c4b287f1492966974a04153f_1030180010.png,3
-images/content/idols/name/51046c66c4b287f1492966974a04153f_1030180010.png,3
 images/content/idols/fes_icon/de712b3c8418bdd8ddb92b20e212e4a8_1040170020.png,3
-images/content/idols/name/de712b3c8418bdd8ddb92b20e212e4a8_1040170020.png,3
 images/content/idols/fes_icon/a797a6fa4d9319e4019322883481ca1c_1040190010.png,3
 images/content/idols/fes_card/2b0ff267165d7140cbf20381e3f60585_1040130030.jpg,3
 images/content/idols/fes_icon/2b0ff267165d7140cbf20381e3f60585_1040130030.png,3
-images/content/idols/name/2b0ff267165d7140cbf20381e3f60585_1040130030.png,3
 images/content/idols/fes_card/33bf821865c614a66c57b658dcff68b8_1030090010.jpg,7
 images/content/idols/fes_icon/33bf821865c614a66c57b658dcff68b8_1030090010.png,8
-images/content/idols/name/33bf821865c614a66c57b658dcff68b8_1030090010.png,9
 upload/general_banners/00000530/banner.png?v=1596169084,1596169085
 images/ui/update_performance/touch.png,8
 images/ui/update_information/new_idol_bg.jpg,7
@@ -3219,3 +3215,4 @@ images/content/characters/link_skill_icon/025.png,2
 images/content/characters/icon_know_how_book/026.png,1
 images/content/characters/icon_know_how_book/027.png,1
 images/content/characters/icon_know_how_book/028.png,1
+know_how_preset_mask.png,1

@@ -1,6 +1,7 @@
 id,name,text,trans
 4018001000220010,冬優子,"ねえ！　今日のふゆも可愛いでしょ？
-答えはわかってることだけど……念のため聞いてあげる！",Heeey! Isn't Fuyu even cuter today? I know the answer but... just wanting to make sure!
+答えはわかってることだけど……念のため聞いてあげる！","Heeey! Isn't Fuyu even cuter today?
+I know the answer but... just wanting to make sure!"
 0000000000000,プロデューサー,（今の冬優子、か……）,"(Fuyuko today, huh...?)"
 select,,少し後ろ毛が跳ねてるぞ,"Your hair's sticking
 up in the back."
@@ -9,13 +10,16 @@ select,,"もちろん、
 sharp again today."
 select,,いつも通りだぞ,Same as usual.
 4018001000220020,冬優子,"あ……っ！　ま、まあ、鏡代わりくらいにはなったわね！
-このまま出るとこだったし、ちょっとだけ感謝してあげる！","Ah...! W-Well, it's like you turned into a mirror! Since I was about to go out like this, I suppose I'm a little grateful!"
+このまま出るとこだったし、ちょっとだけ感謝してあげる！","Ah...! W-Well, it's like you turned into a mirror!
+Since I was about to go out like this, I suppose I'm a
+little grateful!"
 0000000000000,プロデューサー,（ステージに出る前に気づけてよかった）,(I'm glad I noticed before she went out on stage.)
 4018001000220030,冬優子,"決まってるって……
 そこは可愛いって言いなさいよ！",Sharp you say... you're supposed to say I'm cute!
 0000000000000,プロデューサー,（うん、いつもの冬優子らしくやれそうだ）,"(Mhm, seems like the usual Fuyuko.)"
 4018001000220040,冬優子,"……なんか気が抜ける言い方ね
-まあ、あんたに言われなくてもわかってるもの！","...what a distracted way of saying something. Ah well, I already know it without needing to be told!"
+まあ、あんたに言われなくてもわかってるもの！","...What a distracted way of saying something.
+Ah well, I already know it without needing to be told!"
 0000000000000,プロデューサー,（もう少し、気合を入れた方がよかったか？）,(Should I have maybe been a little more enthusiastic?)
 info,produce_communication_cheers/401800100022.json,
 Translator,Batsu,

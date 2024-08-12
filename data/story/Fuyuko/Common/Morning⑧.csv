@@ -1,19 +1,17 @@
 id,name,text,trans
 1018001000810010,冬優子,"プロデューサー
-ちょっとこの企画書見てくれる？","Producer,
-can you see this proposal for a bit?"
+ちょっとこの企画書見てくれる？","Producer, can you see this proposal for a bit?"
 0000000000000,プロデューサー,"ああ
-『あのアイドルの意外な一面大公開』……これがどうした？","Ohh,
-""Public release of that idol's unexpected side"" 
+『あのアイドルの意外な一面大公開』……これがどうした？","Ohh, ""Public release of that idol's unexpected side"".
 ...What's the problem with this?"
 1018001000810020,冬優子,"意外な一面って言われても、
 ふゆ、何すればいいかわかんないんだけど……","Even if it's called an unexpected side,
 Fuyu doesn't know what to do..."
 0000000000000,プロデューサー,冬優子の意外な一面か……,"Fuyuko's unexpected side, huh..."
-select,,実は面倒見がいい,"""She's actually good 
-at taking care 
-of others"""
-select,,実は可愛い,"""She's actually cute"""
+select,,実は面倒見がいい,"""She's actually
+good at taking
+care of others""."
+select,,実は可愛い,"""She's actually cute""."
 select,,"普段の冬優子を
 見せたらどうだ？","How about showing
 your usual self, 
