@@ -1,0 +1,117 @@
+id,name,text,trans
+2020009020010,透,入って,Come in.
+2020009020020,透,置いて、スマホ,Leave it. Your smartphone.
+0000000000000,プロデューサー,────はい、ええ……,"────Right, yes…"
+0000000000000,プロデューサー,"……ええ、ですね。はい
+ええ……","...Yes, that's right. Yes. 
+Umm..."
+0000000000000,プロデューサー,"……恐れ入ります、少々お待ちください
+────すまん……！　ここ、掛けててくれるか","...I'm sorry, but would you please hang on 
+for a moment. ────Sorry...! Could you wait here 
+for a little while?"
+2020009020030,透,え？　うん,Eh? Okay.
+0000000000000,プロデューサー,"悪いな、もうちょっとだ……！
+────もしもし、失礼しました。……はい","Sorry, I'll be done soon...! 
+────Hello, sorry about that. ...Yes."
+2020009020040,透,"……ふふっ
+働き者ー","...Fufu. 
+Workaaholic."
+0000000000000,プロデューサー,"……いえ……ええ
+ご認識にズレがあったら恐縮なのですが────","...Not at all... Yes. 
+I apologise if there's a misunderstanding, 
+however────"
+2020009020050,透,"……
+ふぁ……","… 
+Fwa..."
+0000000000000,透,ライト,Lights.
+0000000000000,プロデューサー,"おーい、お待たせ
+ごめんな……！","Heey, I'm back. 
+Sorry...!"
+2020009020070,透,終わった？,Done?
+0000000000000,プロデューサー,おう、ちょっと先方に誤解があったみたいで……,"Yeah. It seems like there was a misunderstanding 
+on the other end, and..."
+0000000000000,プロデューサー,"……いや、透に言うことじゃないよな
+すまん、帰ろう","...Nevermind, I shouldn't be talking about this. 
+Sorry, let's go home."
+2020009020080,透,"うん
+じゃ────","Yeah. 
+Then────"
+2020009020081,透＆プロデューサー,────,────
+0000000000000,透,エアコン,Air-con.
+0000000000000,プロデューサー,わ、悪い……,M-My bad...
+0000000000000,プロデューサー,"すまん、メッセだ。これだけ……！
+一瞬返させてくれ","Sorry, it's a message. Just this one...!
+I'll reply to them quickly."
+2020009020100,透,"んー
+さっきの人？","Mn. 
+The person from earlier?"
+0000000000000,プロデューサー,いや、さっきの件はもう大丈夫なんだけど…………,"Nah, that one's settled. 
+But..."
+0000000000000,プロデューサー,……,…
+2020009020110,透,……働きものー,...Workaaholic.
+0000000000000,プロデューサー,────あれ？,────Huh?
+0000000000000,プロデューサー,"……あ、悪い。１階押しちゃったか
+ショールームだな、ここ","...Ah, sorry. I think I pressed the 1st floor. 
+It's the showroom here, alright."
+2020009020120,透,"あー
+２階か、出口","Ahh. 
+Exit's on the 2nd floor, huh."
+0000000000000,プロデューサー,"すまん……
+ええと、２階────","My bad... 
+Umm, let's see, 2nd floor────"
+2020009020130,透,行こ,Let's go.
+0000000000000,プロデューサー,────えっ,────Eh.
+2020009020140,透,"行こ、あそこじゃん
+ここ","Let's go. It's that, isn't it. 
+Here."
+0000000000000,プロデューサー,"……ああ！
+いいけど────","…Ahh! 
+That's fine, but────"
+0000000000000,入り口の看板,『あなたに一途なお部屋、あります』,"『This is a home, devoted to you.』"
+2020009020150,透,ブラインドー,Bliiinds.
+2020009020160,透,"おー
+自動","Ohh. 
+Automatic."
+0000000000000,プロデューサー,……,…
+2020009020170,透,"……
+オーブン、スイッチオン！","…
+Oven, switch on!"
+2020009020180,透,"ふふっ、ついた
+ねー────","Fufu, it turned on. 
+Look────"
+0000000000000,プロデューサー,……,…
+0000000000000,プロデューサー,"……えっ
+あ────","...Eh. 
+Ah────"
+0000000000000,プロデューサー,"すまんすまん、うん
+ブラインドすごいなぁ……！","Sorry sorry, yeah. 
+The blinds, they're amazing huh...!"
+0000000000000,プロデューサー,……あれっ,...Oh.
+0000000000000,プロデューサー,あっ、透────,"Ah, Toru────"
+2020009020190,透,オーブン、オフ,"Oven, off."
+2020009020200,透,"エアコン、オフ
+ブラインド、下がれ","Air-con, off.
+Blinds, close."
+2020009020210,透,ライト、オフ,"Lights, off."
+0000000000000,プロデューサー,"透、すまん……！
+なぁ透────","Toru, I'm sorry...! 
+Look, Toru────"
+2020009020220,透,入って,Come in.
+0000000000000,プロデューサー,────え,────Eh.
+2020009020230,透,終わった？　メッセ,You done? With that message.
+0000000000000,プロデューサー,"ええと……うん。もうこれで完了
+ごめんな","Umm... yeah. It's done. 
+I'm sorry about that."
+2020009020240,透,"ううん
+……じゃ","It's okay. 
+...Then,"
+2020009020250,透,"入って
+置いて。スマホ","Come in. 
+Leave it. Your smartphone."
+0000000000000,プロデューサー,……透,...Toru.
+2020009020260,透,"オフにして
+で────","Turn it off. 
+Then────"
+2020009020270,透,一途、オン,"Devotion, on."
+info,produce_events/202000902.json,
+Translator,OrangeKabocha,

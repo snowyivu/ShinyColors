@@ -1,0 +1,72 @@
+id,name,text,trans
+1004003010010,off,…………,............
+1004003010020,off,うちも、びゅ～んって飛んで……,I'll fly off like whoosh〜......
+1004003010030,off,そいで……──,N' then......──
+1004003010040,恋鐘,──ふぇ、オーディション？,"──Huh, an audition?"
+0000000000000,プロデューサー,"ああ、オーディション番組の
+オファーが来てるんだ","Yeah, you got an offer for an audition program. "
+0000000000000,プロデューサー,『G.R.A.D.』って番組、聞いたことないか？,"It's called ""G.R.A.D."", have you heard of it?"
+1004003010050,恋鐘,"……！
+し、知っとる……！","............!
+S- Sure have......!"
+0000000000000,プロデューサー,"恋鐘はユニットとしても活躍してくれてるし、
+もちろんソロでの仕事も頑張ってくれてる","You're actively involved in a unit, and of course 
+you're working hard on solo activities, too. "
+0000000000000,プロデューサー,"他の仕事もある中でこの番組の
+オファーを受けるかどうか、正直迷った","Given your other commitments, I've honestly been 
+debating if we should accept this offer. "
+1004003010060,恋鐘,……ふぇ……！,......Huh......!?
+0000000000000,プロデューサー,"恋鐘の負担になるようだったら、
+今回は見送ってもいいかとも思う","If it'd put too much of a burden on you, 
+I think we can pass on it this time. "
+0000000000000,プロデューサー,"だけどきっと、恋鐘がアイドルとして
+より一層成長できるきっかけにもなると思うんだ","But I'm also sure it could be a good chance 
+for you to grow even more as an idol. "
+1004003010070,恋鐘,…………！,............!
+0000000000000,プロデューサー,"だからさ、まずは恋鐘の意見を聞きたい
+どうだ？","So, I wanted to hear your opinion on it first. 
+What do you think?"
+1004003010080,恋鐘,そ、そがんと……！,O- Oh......!
+1004003010090,恋鐘,"もっちろん出るばい！
+うちが出らんば始まらんもんね！","Of course I will! 
+It ain't happenin' without me! "
+0000000000000,プロデューサー,はは、そうか,"Haha, understood. "
+0000000000000,プロデューサー,"それなら、うん
+一緒に頑張ろう！","Alright, then. 
+Let's do our best together!"
+1004003010100,恋鐘,"んふふ～、ば～りばりに頑張って
+絶対に優勝するばい！","Mhehe〜 I'll work my behind off, 
+and win this thing for sure!"
+0000000000000,プロデューサー,……頼もしいな,"......That's the spirit. "
+1004003010110,恋鐘,…………,............
+1004003010120,恋鐘,──オーディション……,──An audition......
+0000000000000,プロデューサー,……？,......?
+1004003010130,恋鐘,"──うち、絶対アイドルになるって言って
+上京してきてから","──After I said I'd definitely become an idol, 
+n' came up to Tokyo......"
+1004003010140,恋鐘,"数え切れんくらい、たくさん……
+もう片っ端からオーディションば受けてきたとよ","I did more auditions than I could count......
+I went to every last one I could find. "
+0000000000000,プロデューサー,……最初にそう言ってたもんな,"......You mentioned that before. "
+1004003010150,恋鐘,うん～、そうやったね……,Yeah〜 I did......
+1004003010160,恋鐘,"うち、オーディションの経験やったら
+誰にも負けんってくらいあるし……","No one's got me beat when it comes to 
+audition experience......"
+1004003010170,恋鐘,"アンティーカになってからは
+歌もダンスもば～りばりに鍛えてきたとよ！","And since I joined L'Antica, 
+I've been trainin' hard at singin' and dancin' too!"
+1004003010180,恋鐘,"オーディションに向けてこれからもっと練習して、
+今よりもっとすごかアイドルになれることも間違いなし！","I'm sure if I practice even harder for this audition, 
+I'll become an even better idol than I am now! "
+0000000000000,プロデューサー,……うん,"......Yeah. "
+1004003010190,恋鐘,"そいで何より、うちは２８３プロのオーディションで
+プロデューサーに選ばれとるけん！","N' above all else, 
+I got chosen by you at 283Pro's audition! "
+1004003010200,恋鐘,実績も十分ばい！,So I've got a solid track record!
+0000000000000,プロデューサー,あはは、そうだな,"Ahaha, I suppose you do. "
+1004003010210,恋鐘,──やけん、プロデューサー,"──Which is why, Producer......"
+1004003010220,恋鐘,"オーディションば受けさせたら
+うちの右に出るもんはおらんとよ","There ain't a soul that's better with auditions than me. "
+1004003010230,恋鐘,ぜーんぶ、うちにまかせとって！,You can leave it all to me!
+info,produce_events/100400301.json,
+Translator,laynie,

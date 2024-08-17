@@ -60,7 +60,7 @@ images/ui/produce_idol_rank/parts_rank_up.json_image,rank_up.png,9
 images/content/gasha/bg/ce7fd45320926557c3c5164017348c1e_1001.jpg,1001.jpg,10
 images/content/gasha/title/ce7fd45320926557c3c5164017348c1e_1001.png,1001.png,8
 images/content/gasha/bg/95c85d7ca80bc5a79d504ff37dccf496_1013.jpg,1013.jpg,8
-images/content/gasha/title/95c85d7ca80bc5a79d504ff37dccf496_1013.png,1013.png,8
+images/content/gasha/title/95c85d7ca80bc5a79d504ff37dccf496_1013.png,1013.png,9
 images/tips/produce/produce/cover.jpg,tutorial/produce_cover.jpg,8
 images/tips/produce/produce/001.jpg,tutorial/produce_001.jpg,8
 images/tips/produce/produce/002.jpg,tutorial/produce_002.jpg,8
@@ -216,11 +216,11 @@ images/ui/produce_reporter_event/parts_reporter.json_image,parts_reporter.png,4
 images/ui/raid_top/parts.json_image,raid_top.png,5
 images/ui/raid_concert/parts.json_image,raid_concert.png,3
 images/ui/selectable_present/parts.json_image,select_present_parts.png,6
-images/tutorial/001.jpg,tutorial/intro_tutorial_001.jpg,8
-images/tutorial/002.jpg,tutorial/intro_tutorial_002.jpg,8
-images/tutorial/003.jpg,tutorial/intro_tutorial_003.jpg,8
-images/tutorial/004.jpg,tutorial/intro_tutorial_004.jpg,8
-images/tutorial/005.jpg,tutorial/intro_tutorial_005.jpg,8
+images/tutorial/001.jpg,tutorial/intro_tutorial_001.jpg,10
+images/tutorial/002.jpg,tutorial/intro_tutorial_002.jpg,11
+images/tutorial/003.jpg,tutorial/intro_tutorial_003.jpg,10
+images/tutorial/004.jpg,tutorial/intro_tutorial_004.jpg,10
+images/tutorial/005.jpg,tutorial/intro_tutorial_005.jpg,9
 images/tutorial/006.jpg,tutorial/intro_tutorial_006.jpg,8
 images/tutorial/007.jpg,tutorial/intro_tutorial_007.jpg,8
 images/tutorial/008.jpg,tutorial/intro_tutorial_008.jpg,8
@@ -1040,7 +1040,7 @@ images/content/support_idols/name/61952b1b6ead02bc659860ff5e2b8c74_2030150010.pn
 images/content/idols/name/130a8f09705036e69e990989a1482b0e_1030150010.png,cards/tenka_p_sr_1.png,9
 images/content/idols/name/995ad574fcbf964c53a6dcf82e1ef881_1030150030.png,cards/tenka_p_sr_3.png,8
 images/content/idols/letter/b3d592fae9f6c3bafc2bfcaa43e323ac_1040210090.png,letter/madoka_letter.png,1
-images/content/unit/name/008.png,unit_name_008,1
+images/content/unit/name/008.png,unit_name_008.png,1
 images/content/unit/catch_copy/008.png,unit_catch_008.png,1
 images/content/support_idols/name/5383c87f7cf2f1e4f28d107e23005a52_2040150010.png,cards/tenka_s_ssr_1.png,8
 images/content/support_idols/name/2ccd63005419644b9c6decc457f8c53a_2040150020.png,cards/tenka_s_ssr_2.png,8
@@ -1048,3 +1048,6 @@ images/content/idols/name/33bf821865c614a66c57b658dcff68b8_1030090010.png,cards/
 images/content/idols/name/51046c66c4b287f1492966974a04153f_1030180010.png,cards/fuyuko_p_sr_1.png,3
 images/content/idols/name/20c15ac91fafd88d897502d47bc85ce2_1930180010.png,cards/fuyuko_p_r_2.png,3
 images/content/idols/name/1a2db84022fb3a866a80e0a3dfcb68de_1940180010.png,cards/fuyuko_p_r_3.png,3
+images/content/idols/name/da67da775a6789dc0703770efdfb441b_1030200010.png,cards/toru_p_sr_1.png,2
+images/content/support_idols/name/e28457aba228b93b18bdb76b7986ab4e_2030200040.png,cards/toru_s_sr_4.png,1
+images/content/idols/name/721fdda60a08b450e52355756214ab69_1030200030.png,cards/toru_p_sr_3.png,1

@@ -1,0 +1,112 @@
+id,name,text,trans
+0,プロデューサー,"……あぁ
+こんなとこにいたのか……","...Ahh.
+So that’s where she was..."
+0,プロデューサー,おーい、透,"Oiii, Toru."
+2020003010010,透,────……,────…
+2020003010020,透,……プロデューサー,...Producer.
+0,プロデューサー,"あんまり離れたとこ
+行かないでくれって言ったつもりなんだけどな？","I was just about to tell you not to wander off 
+too far away from here, you know?"
+2020003010030,透,あー,Ahh.
+2020003010040,透,ごめん,Sorry.
+0,プロデューサー,窮屈だったか？　控室,Was it uncomfortable? The waiting room.
+2020003010050,透,ううん,Nah.
+2020003010060,透,うん,Yeah.
+0,プロデューサー,はは、どっちなんだ,"Haha, which one is it, now."
+2020003010070,透,"ふふっ
+窮屈だったのかも、じゃあ","Fufu.
+Maybe it was uncomfortable, then."
+0,プロデューサー,"……時々、少し心配になるよ
+そのままどこかに行ってしまったりとか────","...It worries me sometimes, you know. 
+That you might just go off somewhere 
+and never return────"
+0,プロデューサー,さすがに、しないよな,"But you won't do that, would you."
+0,プロデューサー,────心配したんだからな,"────I was just worried, you know."
+2020003010080,透,……あー,...Ahh.
+2020003010090,透,"謝ったじゃん
+ごめん","But I apologised. 
+I'm sorry."
+0,プロデューサー,あ、いや……,"Ah, no..."
+0,プロデューサー,"……ごめんな
+俺も先方の世間話につかまっちゃって","...I'm sorry too. 
+That I got caught up in a chat earlier as well."
+0,プロデューサー,"外の空気、
+吸いたくもなるよな","It's no surprise you'd want to go out 
+for a breather."
+2020003010100,透,"まぁ
+うん","Well, 
+yeah."
+2020003010110,透,……,…
+0,プロデューサー,……,…
+2020003010120,透,"──
+見てた、あれ","── 
+I was watching it. That."
+0,プロデューサー,え？,Eh?
+0,プロデューサー,────遊園地か,"────Oh, the theme park."
+2020003010130,透,"うん、やばい
+めっちゃ街なのに、ここ","Yep. It's crazy. 
+Even though we're in the middle of a busy city 
+like this."
+0,プロデューサー,"はは、オフィスビルばっかりだからな
+ああいう乗り物見えたら、なんか嬉しくなるよ","Haha, it's just office buildings around here 
+after all. Seeing a theme park attraction 
+in the middle of it all kinda makes me smile."
+2020003010140,透,じゃ、行く？,"Then, wanna go?"
+0,プロデューサー,……え？,...Eh?
+0,プロデューサー,"────
+追いかけなかったら────","────
+If I hadn't gone out────"
+0,プロデューサー,────どこに行くんだ？,────Where to?
+0,プロデューサー,"追いかけなかったら
+どうなるんだ、透？","If I hadn't gone out, 
+what would've happened, Toru?"
+2020003010150,透,"……えっと
+遊園地？","...Umm, 
+the theme park?"
+0,プロデューサー,あぁ────,Aah────
+0,プロデューサー,"──えっ
+遊園地……！？","────Eh, 
+the theme park...?!"
+2020003010160,透,"────あははっ
+イエーイ……！","────Ahahah. 
+Yaaay...!"
+0,プロデューサー,"……
+メリーゴーランド、乗りたかったのかー……？","… 
+Did you want to ride the merry-go-round...?"
+2020003010170,透,まぁ、そうー……！,"Well, yeaah...!"
+0,プロデューサー,"────はは
+これじゃ追いつけないなぁ","────Haha. 
+I can't catch up to you like this."
+2020003010180,透,えー……？,Ehhh...?
+0,プロデューサー,"……あぁ
+なんでもない……！","...Ahh. 
+It's nothing...!"
+2020003010190,透,えー……！,Ehhh...!
+0,プロデューサー,"……
+追いつかないって、言った！","…
+I said, I can't catch up to you like this!"
+2020003010200,透,何がー……！,Like what...!
+0,プロデューサー,"ええと、馬が……！
+そっちの馬に……！","Uhmm, the horse...! 
+To that horse...!"
+2020003010210,透,なんでー……？,Whyyy...?
+0,プロデューサー,なんでって、固定されてるし────,Why... cause it's fixed in position and────
+2020003010220,透,追ってるかもしれないじゃん……！,"It could've been the other way round, couldn't it...!"
+2020003010230,透,私が……！,"Like, me doing the chasing...!"
+0,プロデューサー,────え？,────Eh?
+2020003010240,透,回ってるから、これ……！,Since this thing's going in a circle...!
+0,プロデューサー,────…………,────……
+2020003010250,透,──ありがと、付き合ってくれて,──Thanks. For tagging along with me.
+2020003010260,透,ごめん、さっき,I'm sorry. About earlier.
+0,プロデューサー,……透,…Toru.
+2020003010270,透,"なんか、めっちゃ夢中だったから
+世間話","You seemed like you were really into it. 
+The chat earlier."
+2020003010280,透,出てきた、控室,So I left. The waiting room.
+0,プロデューサー,追いかけなかったら────,If I hadn't looked for her────
+2020003010290,透,"嬉しいから
+追っかけてきてくれたこと","I'm happy. 
+That you came out and looked for me."
+info,produce_events/202000301.json,
+Translator,OrangeKabocha,

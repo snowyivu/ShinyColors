@@ -272,7 +272,7 @@ errorDialog.other,エラーが発生しました。\n\n何度も発生する場�
 errorDialog.timeout,通信中にエラーが発生しました。\n時間をおいてもう一度お試しください。,A communication error has occurred. \r\nPlease wait a short while before trying again.
 errorDialog.resourceDownloadError,通信中にエラーが発生しました。\nネットワーク環境をご確認の上\nもう一度お試しください。,A communication error has occurred. \r\nPlease check your network signal and try again.
 errorDialog.unavailableGasha,ガシャのラインナップが更新されました。,The available Gachas have been updated. 
-errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。,"Failed to load resources.\r\nPlease verify your connection, and try reloading."
+errorDialog.resourceLoadFailed,リソースの読み込みに失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。,"Failed to load resources.\r\nPlease verify your connection, and\r\ntry reloading."
 errorDialog.sdkLoginLoadFailed,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\nゲストメンバーの方はデータ消失の恐れがあります。\nenza にメンバー登録する事で中断データの復帰が可能になります。\nenza メンバー登録の上、キャッシュクリアをお試しください。\n
 errorDialog.sdkLoginLoadFailedIOS10,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、ページの再読み込みをお試しください。\n何度も発生する場合はブラウザキャッシュクリアをお試しください。\n\niOS11.0未満の動作環境でご利用頂いた場合、\n正常に動作しない恐れがございます。\nお手数ですがOSのアップデートをお試しください。\n
 errorDialog.sdkLoginLoadFailedApp,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n,認証に失敗しました。\n通信環境をご確認の上、再読み込みをお試しください。\n何度も発生する場合は時間をおいてお試しください。\n
@@ -2352,20 +2352,20 @@ autoPlay.produceStartPop.notice,オートプロデュースを実行した際に
 autoPlay.produceStartWithItemPop.title,オートプロデュース開始,オートプロデュース開始
 autoPlay.produceStartWithItemPop.text,回復アイテムをセットして\nオートプロデュースを開始します,回復アイテムをセットして\nオートプロデュースを開始します
 autoPlay.produceStartWithItemPop.notice,オートプロデュースを実行した際にアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、実行中および準備中のアイテムとスタミナは返却されます,オートプロデュースを実行した際にアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、実行中および準備中のアイテムとスタミナは返却されます
-autoPlay.skipPop.title,オートスキップ,オートスキップ
+autoPlay.skipPop.title,オートスキップ,Auto Skip
 autoPlay.skipPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,スキップチケットは1日%{availableCount}回までしか使用できません
 autoPlay.skipPop.notice2,使用回数は毎朝5時にリセットされます,使用回数は毎朝5時にリセットされます
-autoPlay.skipPop.remaining,残り,残り
-autoPlay.skipPop.remainingUnit,回 / 日,回 / 日
-autoPlay.skipedPop.title,オートスキップ,オートスキップ
-autoPlay.skipedPop.comment,オートプロデュースを\n%{num}回分スキップしました,オートプロデュースを\n%{num}回分スキップしました
-autoPlay.produceConfirmPop.title,オートプロデュース確認,オートプロデュース確認
+autoPlay.skipPop.remaining,残り,left
+autoPlay.skipPop.remainingUnit,回 / 日,x / day
+autoPlay.skipedPop.title,オートスキップ,Auto Skip
+autoPlay.skipedPop.comment,オートプロデュースを\n%{num}回分スキップしました,Skipped Auto-Produce\n%{num}times
+autoPlay.produceConfirmPop.title,オートプロデュース確認,Confirm Auto-Produce
 autoPlay.produceConfirmPop.notice,オートスケジュールを設定中です,オートスケジュールを設定中です
-autoPlay.produceConfirmPop.finished,完了,完了
-autoPlay.produceConfirmPop.ready,準備中,準備中
+autoPlay.produceConfirmPop.finished,完了,Finished
+autoPlay.produceConfirmPop.ready,準備中,Ready
 autoPlay.produceConfirmPop.playing,実行中,実行中
 autoPlay.produceConfirmPop.produceTitle.wing,W.I.N.G.,W.I.N.G.
-autoPlay.produceConfirmPop.produceTitle.fan_meeting,ファン感謝祭,ファン感謝祭
+autoPlay.produceConfirmPop.produceTitle.fan_meeting,ファン感謝祭,FanFest
 autoPlay.produceConfirmPop.produceTitle.3rd_produce_area,G.R.A.D.,G.R.A.D.
 autoPlay.produceConfirmPop.produceTitle.4th_produce_area,Landing Point,Landing Point
 autoPlay.produceConfirmPop.produceTitle.5th_produce_area,S.T.E.P.,S.T.E.P.
@@ -2374,7 +2374,7 @@ autoPlay.releasedRequirementDescription.fan_meeting,『ファン感謝祭』編�
 autoPlay.releasedRequirementDescription.3rd_produce_area,『G.R.A.D.』編でフェスアイドルを誕生させる,『G.R.A.D.』編でフェスアイドルを誕生させる
 autoPlay.releasedRequirementDescription.4th_produce_area,『Landing Point』編でフェスアイドルを誕生させる,『Landing Point』編でフェスアイドルを誕生させる
 autoPlay.releasedRequirementDescription.5th_produce_area,『S.T.E.P.』編でフェスアイドルを誕生させる,『S.T.E.P.』編でフェスアイドルを誕生させる
-autoPlay.produceFinishConfirmPop.title,オートプロデュース終了確認,オートプロデュース終了確認
+autoPlay.produceFinishConfirmPop.title,オートプロデュース終了確認,Auto-Produce is complete.
 autoPlay.produceFinishConfirmPop.comment1,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします
 autoPlay.produceFinishConfirmPop.comment2,実行中のオートプロデュースのデータは失われます,実行中のオートプロデュースのデータは失われます
 autoPlay.produceFinishConfirmPop.comment3,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます
@@ -2535,7 +2535,7 @@ fes.limitedFesNotice.beforeOpen,『%{eventName}』開催まで あと%{remaining
 fes.limitedFesNotice.openingDay,『%{eventName}』本日%{openHour}時開催！,『%{eventName}』本日%{openHour}時開催！
 fes.limitedFesNotice.opening,『%{eventName}』開催中！,『%{eventName}』開催中！
 gameEvent.presentEvent.lastPrefix,】,】
-gameEvent.presentEvent.selectEventDialog.title,クリスマス特設ページ,クリスマス特設ページ
+gameEvent.presentEvent.selectEventDialog.title,クリスマス特設ページ,Special Christmas Page
 gameEvent.ranking,%{value}位,%{value}位
 gameEvent.characterVoteEvent.confirmDialogTitle,投票確認,投票確認
 gameEvent.characterVoteEvent.successDialogTitle,投票完了,投票完了
@@ -2562,10 +2562,10 @@ gameEvent.pCupRewardPop.text,%{eventName}の報酬を配布しました,%{eventN
 gameEvent.tapCounterEvent.unreleasedHelperName,???,???
 gameEvent.tapCounterEvent.unreleasedPoint,?????,?????
 gameEvent.tapCounterEvent.unreleasedText,?????????,?????????
-gameEvent.tapCounterEvent.purchaseButtonLevelText,Lv.アップ,Lv.アップ
-gameEvent.tapCounterEvent.maxLevel,最大Lv,最大Lv
+gameEvent.tapCounterEvent.purchaseButtonLevelText,Lv.アップ,Level Up
+gameEvent.tapCounterEvent.maxLevel,最大Lv,Max Lv.
 gameEvent.tapCounterEvent.helperLevelText,Lv.%{level}/%{maxLevel},Lv.%{level}/%{maxLevel}
-gameEvent.tapCounterEvent.pointInformationPopTitle,記録,記録
+gameEvent.tapCounterEvent.pointInformationPopTitle,記録,Record
 gameEvent.tapCounterEvent.levelInformationPopTitle,レベル効果,レベル効果
 gameEvent.tapCounterEvent.pointByTap,つっつきの%{nameOfPointByTap}%{num},つっつきの%{nameOfPointByTap}%{num}
 gameEvent.tapCounterEvent.supporterBonus,すけっとのポイント%{num}倍,すけっとのポイント%{num}倍
@@ -2590,7 +2590,7 @@ gasha.stepSubtitle,通常ガシャ提供割合,通常ガシャ提供割合
 gasha.stepSubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
 gasha.staffChanceGashaAcquiredRewardPop.nameAndNum,%{name} ×%{num},%{name} ×%{num}
 gasha.foilGashaNotice,※アイドルは獲得できません。,※アイドルは獲得できません。
-header.parallelOption,サブ画面設定,サブ画面設定
+header.parallelOption,サブ画面設定,Sub Screen Settings
 header.trophy,トロフィー,Trophy
 header.autoPlaySchedule,オートスケジュール,Auto Schedule
 header.autoPlayResult,オートリザルト,Auto Result
@@ -2607,26 +2607,26 @@ homeDeck.randomSetting.characterIds.label,アイドル,Idol
 ban.title,利用制限,利用制限
 ban.message,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています
 mypageCommunication.unknownCharacterName,？？？,？？？
-exSkill.exSkillChangeSelectPop.title,確認,確認
-exSkill.exSkillChangeSelectPop.message,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください
-exSkill.exSkillChangeConfirmPop.title,確認,確認
-exSkill.exSkillChangeConfirmPop.message,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？
+exSkill.exSkillChangeSelectPop.title,確認,Confirm
+exSkill.exSkillChangeSelectPop.message,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください,This Ex Skill is already used by another Idol.\nPlease select an Idol to take Ex Skill from.
+exSkill.exSkillChangeConfirmPop.title,確認,Confirm
+exSkill.exSkillChangeConfirmPop.message,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？,This Ex Skill is already used by another idol.\nRemove and set Ex Skill for this Idol?
 mission.shinyPassAdBanner.rewardNameAndNum,%{rewardName}×%{rewardNum},%{rewardName}×%{rewardNum}
-option.fesTowerContentTitle.levelUpPanelConfirmation,レベルアップパネル選択時に\n確認画面を表示,レベルアップパネル選択時に\n確認画面を表示
+option.fesTowerContentTitle.levelUpPanelConfirmation,レベルアップパネル選択時に\n確認画面を表示,Display Confirmation screen\nwhen selecting Level-Up Panel.
 option.homeContent.title.idolPrank2022,アイドルからのイタズラ【メリーさん】,アイドルからのイタズラ【メリーさん】
 option.homeContent.title.idolPrank2023,アイドルからのイタズラ【寝たふり】,アイドルからのイタズラ【寝たふり】
 option.homeContent.prank.on,%{name} ON,%{name} ON
 option.homeContent.prank.off,%{name} OFF,%{name} OFF
 option.homeContent.itemName.joke2022,2022ハロウィンのおかし,2022 Halloween Sweets
 option.homeContent.itemName.joke2023,2023ハロウィンのおかし,2023 Halloween Sweets
-option.pushNotificationContentTitle.autoProduceFinish,オートプロデュース完了通知,オートプロデュース完了通知
-option.pushNotificationContentTitle.communicationPoint,コミュニケーションポイント通知,コミュニケーションポイント通知
+option.pushNotificationContentTitle.autoProduceFinish,オートプロデュース完了通知,Auto-Produce Completed
+option.pushNotificationContentTitle.communicationPoint,コミュニケーションポイント通知,Communication Points Notif
 option.pushNotificationContentTitle.produceCheering,アイドルの応援通知,アイドルの応援通知
 idolDetail.skill.maxLevel,(MAX %{level}),(MAX %{level})
 idolDetail.skill.max,(MAX),(MAX)
 idolDetail.skill.chargeSkillLockPanel,特訓%{evolutionStage}回目で解放,特訓%{evolutionStage}回目で解放
 idolDetail.profile.characterProfileName,%{kanji}(%{kana}),%{kanji}(%{kana})
-idolDetail.profile.ageTitles.age,年齢,年齢
+idolDetail.profile.ageTitles.age,年齢,Age
 idolDetail.profile.ageTitles.academic_year,学年,学年
 idolDetail.profile.hiddenProperty,ー,ー
 idolDetail.tradeConfirmDialog.presetKnowHowBookNotice,プリセットに設定されているノウハウブックが含まれています,プリセットに設定されているノウハウブックが含まれています
@@ -2640,16 +2640,16 @@ idolDetail.letterFromIdolDetailDialog.condition,・特訓2回目「手紙解放�
 idolDetail.letterFromIdolDetailDialog.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます
 item.itemConfirm.notice.fes,自然回復の上限を超えて回復できます,自然回復の上限を超えて回復できます
 item.itemConfirm.notice.fes_limited,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます
-item.recoveryItem.type.fes.resultConsumeItem,以下のアイテム,以下のアイテム
+item.recoveryItem.type.fes.resultConsumeItem,以下のアイテム,Items listed below
 jointFes.stageSelect.stageLevel,Lv.%{level},Lv.%{level}
 jointFes.retireAttention.titleStart,ライブ開始,ライブ開始
 jointFes.retireAttention.message1,マッチライブ以外の進行中のフェスがあります\nマッチライブを%{method}するには、,マッチライブ以外の進行中のフェスがあります\nマッチライブを%{method}するには、
 jointFes.retireAttention.message2,現在進行中の,現在進行中の
 jointFes.retireAttention.message3,フェスを終了する必要があります,フェスを終了する必要があります
 jointFes.retireAttention.message4,フェスを終了してマッチライブを%{method}しますか？,フェスを終了してマッチライブを%{method}しますか？
-jointFes.retireAttention.method.skip,スキップ,スキップ
+jointFes.retireAttention.method.skip,スキップ,Skip
 jointFes.retireAttention.method.start,開始,開始
-jointFes.areaUnlock.gradeName,グレードLv.%{grade},グレードLv.%{grade}
+jointFes.areaUnlock.gradeName,グレードLv.%{grade},Grade Lv.%{grade}
 jointFesConcert.fesTicketReturnMessage,敗北したため使用したフェス参加権を返却しました,敗北したため使用したフェス参加権を返却しました
 musicSelect.playMvDialog.confirm,MVを再生しますか？,Would you like to play the MV?
 photoBootFailDialog.messages.default,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります

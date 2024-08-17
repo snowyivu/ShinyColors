@@ -1,0 +1,104 @@
+id,name,text,trans
+2020009110010,透,……,…
+2020009110020,画面テロップ,『広告スキップまであと５秒』,"『Skip this ad in 5 seconds』
+(Alrighty, here it is.)"
+2020009110030,透,あ,Ah.
+0000000000000,プロデューサー,……あれ、電池切れたか？,"...Oh, did you run out of battery?"
+2020009110040,透,んー……,Mnn…
+0000000000000,プロデューサー,買ってきてもいいぞ。時間あるし,I can go buy one if you'd like. We have time after all.
+2020009110050,透,"え？　あー
+……いい、いい","Eh? Ahh. 
+...It's okay, it's fine."
+2020009110060,透,ないし、連絡とか,It's not like I need to. Send messages or anything.
+2020009110070,透,一緒いるし,And I'm with you.
+0000000000000,プロデューサー,"……そっか？
+じゃあ","...Is that so? 
+Alright then."
+0000000000000,透,"コウコク　ノ
+コトバ　ヲ","WORDS FROM 
+THE AD ARE"
+2020009110090,透,"……
+ふぁ……","… 
+Fwaa..."
+0000000000000,プロデューサー,"……はは、つまらないんじゃないか？
+まだ30分はあるぞー","...Haha, it's boring, isn't it? 
+We've got 30 minutes of waiting time to go, 
+you know."
+2020009110100,透,"んー……
+大丈夫。見てるし","Mn... 
+It's okay, I'm looking."
+0000000000000,プロデューサー,何を,At what?
+2020009110110,透,プロデューサー,Producer.
+0000000000000,プロデューサー,……透ー,...Toooru.
+2020009110120,透,"ふふっ
+ううん。お仕事どうぞー","Fufu. 
+Don't mind me. Please go ahead with your work."
+0000000000000,プロデューサー,"……ああ、ええと────
+いや、俺もやることがあるわけじゃなくて","...Ahh, umm────
+It's not like I have much to do anyway."
+0000000000000,プロデューサー,……話でもするか？,...How about we have a chat?
+0000000000000,透,"コウコク　ノ
+コトバ　ヲ","WORDS FROM
+THE AD ARE"
+0000000000000,透,"ブツッ　テ
+チギッ　テ","BUZ-ZING.
+CHIP-PING."
+2020009110150,透,話,Conversation.
+0000000000000,プロデューサー,うん、話,Yep. A conversation.
+2020009110151,透＆プロデューサー,……,…
+2020009110152,透＆プロデューサー,……ははっ,...Haha.
+0000000000000,プロデューサー,"悪い
+そんな急に……なぁ","Sorry. 
+It's kinda sudden... huh."
+0000000000000,透,"ソレデ、
+マッテ　タ","THEN, 
+I WAIT-ED."
+0000000000000,透,"ツギニ
+ハジ　マ　　ル","FOR THE NEXT
+TO B-E-GIN."
+2020009110180,透,"じゃ
+叫んで","Then, 
+shout."
+2020009110190,透,叫ぼう,Let's shout out.
+0000000000000,透,コトバ　　ヲ,WORDS.
+0000000000000,プロデューサー,"……そんな
+あんまり迷惑になるような────","...What. 
+That'll cause too much of a ruckus────"
+0000000000000,プロデューサー,"────
+何を叫ぶんだ？","────
+What will we shout out?"
+2020009110210,透,……叫んでくれるんだ？,"...So you're going to shout, huh?"
+0000000000000,プロデューサー,おう,You bet.
+2020009110220,透,なんで？,Why?
+0000000000000,プロデューサー,なんで、って……,"Why, you ask..."
+2020009110230,透,"なんでも？
+なんでも叫ぶ？","Anything? 
+You'll shout out anything?"
+0000000000000,プロデューサー,……,…
+0000000000000,プロデューサー,────なんでもは叫べない,────Not just anything.
+0000000000000,プロデューサー,"……尽くすっていうのは、
+なんでもやることじゃない","...The act of devoting, 
+isn't just having the willingness to do anything."
+0000000000000,プロデューサー,でも────,But────
+0000000000000,プロデューサー,うわーーーーーーー！！！！！,Uwaaaaaaaaaarghhhhhhh！！！！！
+2020009110240,透,……！,...！
+2020009110250,透,ウワ,UWA.
+0000000000000,プロデューサー,"絶対に受け止める
+透が言うことは","I'll be sure to take them in. 
+Every single one of Toru's words."
+0000000000000,局のスタッフ,"どうされました？
+なんか、声が聞こえた気がして────","Is something the matter? 
+I thought I heard a scream coming from here────"
+2020009110251,透＆プロデューサー,ああ、すみません……！,"Ahh, I'm sorry...!
+(Ah...)"
+2020009110260,透,"コトバデハ
+ナカッタ　ガ","THEY WERE NOT 
+WORDS BUT"
+2020009110270,透,"……ちょっと
+声出してました","...We shouted for 
+a little bit."
+2020009110280,透,トドイタラシイ,"SOMEHOW 
+THEY REACHED."
+2020009110290,透,すみません,Sorry.
+info,produce_events/202000911.json,
+Translator,OrangeKabocha,

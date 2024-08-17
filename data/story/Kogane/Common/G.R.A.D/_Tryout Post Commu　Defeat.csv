@@ -1,0 +1,21 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──恋鐘、お疲れ様
+……頑張ったな","──Good job out there, Kogane. 
+......You did your best. "
+6004003030010,恋鐘,プロデューサー……,Producer......
+6004003030020,恋鐘,"うち、『ぜんぶ、うちにまかせとって』って
+言ったとに……","I said ""just leave it all to me""......"
+6004003030030,恋鐘,うちは、絶対負けたらいけんかったとに……,I really shouldn't have lost......
+0000000000000,プロデューサー,……恋鐘？,......Kogane?
+6004003030040,恋鐘,"あっ……！　ううん！
+なんでもなか！","Ah......! No!
+It's nothin'!"
+6004003030050,恋鐘,……ごめんね、プロデューサー,"......I'm sorry, Producer. "
+6004003030060,恋鐘,"うち、これからまた頑張って……
+そいで、ちゃんと成長するけん！","From now on, I'll keep working hard...... 
+so I can make real improvements!"
+6004003030070,恋鐘,"落ち込んでる暇があったら、
+練習練習ばい～！","If I've got time to be down, 
+I've got time to practice〜!"
+info,produce_events/600400303.json,
+Translator,laynie,

@@ -1,0 +1,35 @@
+id,name,text,trans
+6004003100010,恋鐘,──プロデューサー,──Producer.
+0000000000000,プロデューサー,恋鐘、お疲れ様,"Kogane, good work out there. "
+6004003100020,恋鐘,……ごめん、だめやった～……！,"......I'm sorry, I didn't make it〜......!"
+0000000000000,プロデューサー,"結果は確かに残念だったけど、
+恋鐘の成長ぶりには驚かされたよ","The result is certainly unfortunate, 
+but I was amazed by how much you've grown. "
+0000000000000,プロデューサー,"そばで見てきた俺が言うんだ
+間違いないだろ？","I've been watching you pretty closely, 
+so if I say it, it must be true, right?"
+6004003100030,恋鐘,"……うちも、前より上手くできたと
+思っとったけん……","......I felt like I did better than before, too, but......"
+6004003100040,恋鐘,その分……なんでやったとかなって,"That's why I keep wonderin'...... 
+why'd it turn out this way?"
+0000000000000,プロデューサー,……ああ、俺も悔しいよ,"......Yeah, I'm frustrated, too."
+0000000000000,プロデューサー,"恋鐘がこのステージに向けて
+すごく頑張ってたの、知ってるからさ","Because I know how hard you worked 
+for this performance."
+6004003100050,恋鐘,…………うん,............Yeah.
+0000000000000,プロデューサー,"だからこの次はさ、
+今よりもっと、成長した恋鐘で","So next time, when you've grown even more 
+than you have now."
+0000000000000,プロデューサー,"今日の観客を
+あっと驚かせるようなステージをしよう","Let's put on a performance that'll blow today's 
+audience away."
+6004003100060,恋鐘,"……！
+そうやね……！　いかんいかん！","......! 
+You're right......! I can't let this get to me!"
+6004003100070,恋鐘,"うちのなりたかアイドルは、
+こがんとこで止まったりせんもん",The idol I wanna be would never call it quits here!
+6004003100080,恋鐘,"落ち込んでる暇があったら、
+練習練習ばい！","If I've got time to be down, 
+I've got time to practice!"
+info,produce_events/600400310.json,
+Translator,laynie,

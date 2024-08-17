@@ -1,0 +1,82 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──恋鐘
+ここにいたのか","──Kogane, there you are. "
+1004003090010,恋鐘,あ、プロデューサー……！,"Oh, Producer......!"
+1004003090020,恋鐘,"つい、ここに来てしまったとよ
+……もう終わってしまったとに","I ended up comin' here for some reason......
+Even though it's already over. "
+0000000000000,プロデューサー,"実はそうじゃないかと思って、
+ここを覗いたんだ","I actually had a feeling you might,
+so I came here to check. "
+1004003090030,恋鐘,ふぇ……！,Huh......!
+1004003090040,恋鐘,"プロデューサーはうちのこと、
+なんでもお見通しやね……！","You know me too well, Producer......!"
+1004003090050,恋鐘,"うちがオーディションしてもらったのもここやったし
+……ここは大切な場所ばい","This is where I did my audition......
+......N' it's a real special place to me. "
+0000000000000,プロデューサー,"ああ、そうだったな
+ここで、初めて恋鐘に会ったんだよな","Yeah, I suppose it was. 
+This is where I first met you, huh. "
+1004003090060,恋鐘,…………,............
+1004003090070,恋鐘,"──うち、18才のとき、
+ひとりで上京してきて……","──When I was 18, I came up to Tokyo on my own......"
+1004003090080,恋鐘,"『あっという間にアイドルの１番になれる～』って
+思っとったとに、全然そがんことなかった","I'd thought ""I'll be the number one idol in no time〜"", 
+but that wasn't the case at all. "
+1004003090090,恋鐘,"それどころか、オーディションも受からんで……
+『落ち込んでる暇があったら、練習練習』って","In reality, I wasn't passin' any auditions...... 
+I told myself, ""If I've got time to be down, 
+I've got time to practice〜!"""
+1004003090100,恋鐘,"……きっとその時間のあったけん、
+今も頑張れとるとかなって思うとよ","I think it's 'cause I went through those tough times 
+that I'm able to keep workin' hard now."
+0000000000000,プロデューサー,"そうだな、色々な経験が
+恋鐘を成長させていくんだろう","That's right. Having all those experiences 
+is what allows you to grow. "
+0000000000000,プロデューサー,……今までも、これからも,"......Both then and now. "
+1004003090110,恋鐘,んふふ～、うん！,Mhehe〜 Yeah!
+1004003090120,恋鐘,"──ねぇ、プロデューサー
+うちにオーディションしてみてくれん？","──Hey, Producer. Could you give me an audition?"
+0000000000000,プロデューサー,え？　オーディション？,Huh? An audition?
+1004003090130,恋鐘,うん！　いくばい～！,Yeah! Let's do it〜!
+1004003090140,恋鐘,"──月岡恋鐘、
+長崎県出身の19才ばい！","──I'm Kogane Tsukioka,
+Nagasaki-born, n' 19 years'a age!"
+0000000000000,プロデューサー,"ああ、なるほど
+そういうことか","Ah, I see. 
+Now I get what you meant. "
+1004003090150,恋鐘,"そう～！　プロデューサー
+うちに『志望理由』聞いてみてくれん？","Yep〜! 
+Producer, mind askin' me why I wanna work here?"
+0000000000000,プロデューサー,"ああ……うん
+それじゃあ──","Yeah...... sure. 
+Well then──"
+0000000000000,プロデューサー,"『月岡恋鐘さん
+志望理由を聞かせてもらえますか』","""Tsukioka-san, could you tell me the reason 
+why you want to work here?"""
+1004003090160,恋鐘,"はいっ！
+うち、絶対アイドルになりたか！",Yes! I wanna be an idol real bad!
+1004003090170,恋鐘,"やけん片っ端からオーディション、受けよったと！
+ばってん──","So I've been applyin' to every audition I could find! 
+But──"
+1004003090180,恋鐘,"うちは絶対、２８３プロダクションで
+アンティーカになりたか！","I absolutely wanna be a part of L'Antica 
+at 283Production!"
+0000000000000,プロデューサー,……恋鐘,"......Kogane. "
+1004003090190,恋鐘,"そいで、うちのプロデューサーは、
+絶対……、プロデューサーがよか",N' the only producer that I want...... is you.
+1004003090200,恋鐘,"……うち、ほんとにたくさん
+オーディション受けたとけど","......I've taken so, so many auditions. "
+1004003090210,恋鐘,"他のどこでもなくて、
+この、２８３プロダクションに来られて、よかった","But I'm glad I ended up at 283Production, 
+n' not anywhere else. "
+1004003090220,恋鐘,──ありがとうね、プロデューサー,"──Thank you, Producer. "
+0000000000000,プロデューサー,"……はは、うん
+よし！　決めたよ","......Haha, yeah.
+Alright, I've made my decision!"
+0000000000000,プロデューサー,──月岡恋鐘さん、オーディションは合格だ,"──Ms. Kogane Tsukioka, you pass the audition. "
+0000000000000,プロデューサー,"これからも、ずっと
+よろしくな、恋鐘","Let's keep working together forever, Kogane. "
+1004003090230,恋鐘,──うん！,──Alright!
+info,produce_events/100400309.json,
+Translator,laynie,

@@ -1,0 +1,98 @@
+id,name,text,trans
+2020003110010,透,────,────
+0,プロデューサー,"……ん？
+なんだ、透","...Hm? 
+What's up, Toru?"
+2020003110020,透,"────え
+ううん────","────Eh. 
+Nothing────"
+2020003110030,透,見てた、なんか,I was just looking. Kinda.
+0,プロデューサー,"……あぁ、これか？
+CDラジカセ","...Ahh, at this? 
+It's a CD cassette player."
+2020003110040,透,"ううん
+じゃなくて","Nope. 
+Not that."
+2020003110050,透,プロデューサーのこと,I was looking at Producer.
+0,プロデューサー,"……からかうなー
+宿題、ちゃんと取り組むこと","...Stop teasing me. 
+Put that focus onto your homework instead."
+2020003110060,透,えー……,Ehh...
+0,プロデューサー,"透ならやれる
+集中だ！","You can do this, Toru! 
+Focus!"
+2020003110070,透,"ふふふっ
+何、やばい","Fufufu.
+What's up with that. Crazy."
+0,プロデューサー,"やばくない
+わからないとこあったら、協力するよ","It's not crazy. 
+I can help you if you have any questions."
+2020003110080,透,"あー
+うん……","Ahh. 
+Yeah..."
+2020003110090,透,"……ていうか
+なんなの、それ","...Besides, 
+what is that."
+0,プロデューサー,話をそらさな────,Don't change the topic────
+2020003110100,透,いい曲？,A good song?
+0,プロデューサー,"──
+あぁ……これか","── 
+Ahh... This huh."
+0,プロデューサー,"うーん、どうだろうな
+資料聴いておかなきゃってだけでさ","Hmm, I wonder about that. 
+I thought it'd be a good listen for work, so."
+2020003110110,透,へぇ,Huuh.
+0,プロデューサー,"──悪いな
+音漏れしないように注意するよ","──Sorry. 
+I'll be careful to use earpieces next time."
+2020003110120,透,あ、ううん,"Ah, no."
+2020003110130,透,聴いてて、普通に,"It's fine, you can listen to it as it is."
+2020003110140,透,見てる,I'm looking at it.
+0,プロデューサー,……透は、宿題やること,"...Homework, is where Toru's ought to be."
+2020003110150,透,えー,Ehh.
+0,プロデューサー,『はい』な？,Where's the 『Yes』?
+2020003110160,透,はーい……,Yeees...
+2020003110170,透,……,…
+0,プロデューサー,……,…
+0,プロデューサー,────って、透,"────'mon, Toru."
+2020003110180,プロデューサー,俺見てないで────,"Don't look at me──── 
+(I was just looking at the CD────)"
+0,プロデューサー,────っ,────
+2020003110190,透,ふふっ,Fufu.
+2020003110200,透,"回ってるね
+めっちゃ","It's spinning. 
+A whole lot."
+0,プロデューサー,……おう,...Yeah.
+2020003110210,透,"いいね
+回って音が鳴るって","It's nice, isn't it. 
+Being able to spin and make a sound."
+0,プロデューサー,……え？,...Eh?
+2020003110220,透,"鳴ってるーって、
+感じするじゃん","You can feel it...
+Making a sound."
+2020003110230,透,"パソコンの画面から
+聞こえてくるより","More than sounds from 
+a computer screen."
+2020003110240,透,"なんか
+音が音、追いかけてるみたいで","It's kinda like, 
+various sounds... chasing after one another."
+0,透,"追ってるかもしれないじゃん……！
+私が……！","It could've been the other way round, couldn't it...!
+Like, me doing the chasing…!"
+0,プロデューサー,…………,……
+0,プロデューサー,"そっか
+……うん","I see. 
+...Yeah."
+0,プロデューサー,"ちゃんと追いかけて
+つかまえないとな","I've gotta chase it 
+and grasp it properly."
+0,プロデューサー,……この曲が、いい曲かどうか,...So that I'll know. If it's a good song or not.
+2020003110260,透,……えー、何,...Ehh. What's with that.
+2020003110270,透,なんか深いよ,Sounds kinda deep.
+0,プロデューサー,あぁ、いや……,"Ahh, nah..."
+0,プロデューサー,"独り言
+────はい、集中！　宿題！","Just talking to myself. 
+────Okay, now focus! Homework time!"
+2020003110280,透,はーい,Riiight.
+info,produce_events/202000311.json,
+Translator,OrangeKabocha,

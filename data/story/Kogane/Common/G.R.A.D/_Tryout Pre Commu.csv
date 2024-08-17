@@ -1,0 +1,20 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──いよいよ予選だな
+なんだか、俺の方が緊張してきたよ","──The prelims are finally here. 
+Somehow, it feels like I'm the one getting nervous. "
+0000000000000,プロデューサー,……恋鐘は大丈夫か？,"......Are you okay, Kogane?"
+6004003010010,恋鐘,…………ふぇっ,............Huh?
+6004003010020,恋鐘,"あ、うん～！　大丈夫！
+ばっちり練習してたのプロデューサーも見とったやろ？","Oh, yeah〜! I'm fine! 
+You saw how much I practiced, didn't you?"
+6004003010030,恋鐘,"ば～りばりの歌とダンスで
+あっという間に１番ぶんどってくるけん！","With my awesome singin' n' dancin', 
+I'll snag that top spot in no time〜!"
+6004003010040,恋鐘,…………,............
+0000000000000,プロデューサー,……恋鐘？,......Kogane?
+6004003010050,恋鐘,"あっ、ううん、なんでもなかよ！
+大丈夫大丈夫～！","Ah, no, it's nothin'!
+I'm fine n' dandy〜!"
+6004003010060,恋鐘,……ぜーんぶ、うちにまかせとってね！,......Just leave it all to me!
+info,produce_events/600400301.json,
+Translator,laynie,

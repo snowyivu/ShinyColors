@@ -1,0 +1,30 @@
+id,name,text,trans
+6004003090010,恋鐘,──プロデューサー,"──Producer. "
+0000000000000,プロデューサー,"……恋鐘
+残念だった、でも……","......Kogane. It's unfortunate, but......"
+0000000000000,プロデューサー,本当に成長を感じる、良いステージだった,"It was a great stage, and I could really feel 
+how much you've grown. "
+0000000000000,プロデューサー,"……それは
+客席にも、ちゃんと伝わってたよ","......And I know the audience could, too."
+6004003090020,恋鐘,"うん～……そうやね
+うちもそう思ったと！","Yeah〜 I guess you're right. 
+I was thinkin' the same thing!"
+6004003090030,恋鐘,………………,..................
+6004003090040,恋鐘,"──やっぱり、
+プロデューサーの言ったとおりやったね","──It seems like you were right after all. "
+0000000000000,プロデューサー,え……？,Huh......?
+6004003090050,恋鐘,"『きっと、恋鐘がアイドルとして
+より一層成長できるきっかけにもなると思う』って","That ""it could be a chance for me to me to grow 
+even more as an idol""."
+6004003090060,恋鐘,"……うちを
+ここに連れてきてくれて、ありがとうね","......Thank you for bringin' me here. "
+0000000000000,プロデューサー,"恋鐘
+何言ってるんだ、逆だよ","What are you talking about, Kogane?
+It's the other way around. "
+6004003090070,恋鐘,ふぇ……？,Huh......?
+0000000000000,プロデューサー,"ここに連れてきてくれたのは恋鐘のほうだろ
+全部、恋鐘のおかげだ","You're the one that brought us here. 
+It's all thanks to you. "
+0000000000000,プロデューサー,──恋鐘、頑張ってくれて、ありがとうな,"──Kogane, thank you for giving it your all. "
+info,produce_events/600400309.json,
+Translator,laynie,
