@@ -86,7 +86,7 @@ errorDialog.invalidProduct,該当の商品が存在しないため、\n購入す
 selectablePresentRewardPop.title,アイテム獲得,Item Gained
 selectablePresentRewardPop.text,以下のアイテムがプレゼントBOXに送られました,Items sent to the present box. 
 checkin.successDialog.title,チェックイン成功,Check-in Success
-checkin.successDialog.message,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました
+checkin.successDialog.message,チェックインに成功しました\n\n報酬アイテムはプレゼントBOXに\n送られました,Check-in has successfully completed\n\nRewards Items have been\nsent to your Present Box.
 checkin.attention,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n,※ チェックイン機能はインターネットに接続できる環境でご利用ください。\n※ チェックイン機能は周囲の環境(測位場所・天候)や、お客様の通信状況、通信機器等によっては\n  正しく動作しない場合がございます。予めご了承ください。\n※「チェックインスポット」には有効期間やチェックイン可能な回数などの制限がございます。\n  詳細は「チェックインスポット」ごとに記載されている情報をご参照ください。\n※ お客様の位置情報を外部ツールで書き換える行為など、弊社が不適切と判断した行為は、利用規約に\n  抵触する行為として適切な処理を行う場合がございます。\n※ 許可なく立ち入ってはいけない場所や建物には入らないようご注意ください。\n※「チェックインスポット」に設定されている店舗やイベント会場への直接のお問い合わせは\n  ご遠慮いただきますようお願いいたします。\n※ チェックインには「お客様の位置情報」を使用します。取得したお客様の情報は弊社が別途定める\n  個人情報保護方針(プライバシーポリシー)に従い管理いたします。\n※ チェックイン機能に関するお問い合わせは以下のFAQページよりお願いいたします。\n
 availableInform.title,アイテム有効期限のお知らせ,Item Expiration Notice
 availableInform.description,アイテムの有効期限が                 となっております\n有効期限が過ぎますと\n%{contentName}の\n使用ができなくなります,Expiring on                                \r\n%{contentName} will no longer be\r\n available after the\r\nexpiration date. 
@@ -97,9 +97,9 @@ beginnerMission.headerTitle,初心者ミッション,Beginner Mission
 beginnerMission.detailPopTitle,初心者ミッション詳細,Beginner Mission Details
 beginnerMission.receivePopTitle,初心者ミッション達成,Beginner Mission Reward
 downLoad.confirmTitle,データダウンロード,Data Download
-downLoad.confirmComment,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります
-downLoad.persistMessageMobile,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります
-downLoad.persistMessagePc,データダウンロードを開始するためには\nアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\nブックマークする必要があります,データダウンロードを開始するためには\nアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\nブックマークする必要があります
+downLoad.confirmComment,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります,"Game Data will be downloaded in one go and saved to your device.\r\rLoading times will be reduced, allowing for a more comfortable gameplay experience.\rUp to approximately %{gb} GB of free space is required on your device."
+downLoad.persistMessageMobile,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります,"To start downloading data,\ryou need to add the url for THE IDOLM@STER Shiny Colors (shinycolors.enza.fun)\rto your homescreen or bookmark it."
+downLoad.persistMessagePc,データダウンロードを開始するためには\nアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\nブックマークする必要があります,"To start downloading data,\ryou need to add the url for THE IDOLM@STER Shiny Colors (shinycolors.enza.fun)\rto your bookmarks."
 downLoad.deleteTitle,ダウンロードデータ削除,Deleted Downloaded Data
 downLoad.deletingComment,データを削除中です\n,Deleting Data\r\n
 downLoad.deletedComment,データ削除が完了しました\n,Data Deleted\r\n
@@ -114,7 +114,7 @@ comic.notFound,条件に合うものが見つかりません,No results found
 comic.paginationLabel,%{currentPage} / %{maxPage},%{currentPage} / %{maxPage}
 comic.openAt,%{openAt}更新,Update %{openAt}
 comic.charactersDialogTitle,登場人物一覧,List of characters
-splash.message,■ご注意■\nこのゲームは無料で遊ぶことができますが、\n一部有料のコンテンツがあります。\n\n■未成年の方へ■\n未成年の方が有料コンテンツを購入する場合は、 \n必ず法定代理人（ご両親等）の同意を得てから\n購入してください。\n※ないようがわからないときは\nおうちのひとにがめんをみせてください\n,■ご注意■\nこのゲームは無料で遊ぶことができますが、\n一部有料のコンテンツがあります。\n\n■未成年の方へ■\n未成年の方が有料コンテンツを購入する場合は、 \n必ず法定代理人（ご両親等）の同意を得てから\n購入してください。\n※ないようがわからないときは\nおうちのひとにがめんをみせてください\n
+splash.message,■ご注意■\nこのゲームは無料で遊ぶことができますが、\n一部有料のコンテンツがあります。\n\n■未成年の方へ■\n未成年の方が有料コンテンツを購入する場合は、 \n必ず法定代理人（ご両親等）の同意を得てから\n購入してください。\n※ないようがわからないときは\nおうちのひとにがめんをみせてください\n,"■Warning■\nThis game is Free to Play, but some content is paid only.\n\n■For minors■\nIf you wish to purchase paid content,\nplease obtain consent from your parents\n or guardian before making a purchase.\n※ If you are unsure of the Terms of Use,\nplease ask a parent or guardian for assistance.\n"
 announce.event,イベント,Event
 announce.campaign,キャンペーン,Campaign
 announce.gasha,ガシャ,Gacha
@@ -1277,12 +1277,12 @@ extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.7
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.8,なお、顔写真付きの身分証明書内のお写真とご当選者様の容姿が著しく異なる場合、ご入場いただけない場合がございます。,なお、顔写真付きの身分証明書内のお写真とご当選者様の容姿が著しく異なる場合、ご入場いただけない場合がございます。
 extraCampaign.application.applicationAgreementDialog.body.items.6.descriptions.9,・顔写真付きの身分証明書に該当する書類は以下のいずれかになります。,・顔写真付きの身分証明書に該当する書類は以下のいずれかになります。
 extraCampaign.application.applicationAgreementDialog.body.items.6.title,本イベントに関する注意事項,本イベントに関する注意事項
-extraCampaign.application.applicationAgreementDialog.title,応募規約,Entry Agreenet
+extraCampaign.application.applicationAgreementDialog.title,応募規約,Entry Agreement
 extraCampaign.application.applyErrorDialog.text,応募期間が終了しているため\r応募できませんでした,応募期間が終了しているため\r応募できませんでした
 extraCampaign.application.applyErrorDialog.title,応募エラー,Entry Error
 extraCampaign.application.applyResultDialog.comment,応募券の使用先設定を保存しました\r\r抽選は応募期間終了時点での内容で処理されます,応募券の使用先設定を保存しました\r\r抽選は応募期間終了時点での内容で処理されます
 extraCampaign.application.applyResultDialog.notice,応募期間中はいつでも\r何度でも応募先を変更することができます,応募期間中はいつでも\r何度でも応募先を変更することができます
-extraCampaign.application.applyResultDialog.title,応募設定完了,応募設定完了
+extraCampaign.application.applyResultDialog.title,応募設定完了,Application Complete
 extraCampaign.application.applyTimeLimit,yyyy/mm/dd HH:MMまで,Until yyyy/mm/dd HH:MM
 extraCampaign.application.applyTimeLimitLabel,応募期間,Application Period
 extraCampaign.application.heading,応募券の使用先を選んでください,応募券の使用先を選んでください
@@ -1654,11 +1654,11 @@ idolDetail.skill.acquisitionLevel,Lv.%{level}で習得,Learned at Lv.%{level}
 produceHeader.concertSeason.fanMeeting,感謝祭,TFD
 profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,Enza Link is required to change your name
 profile.pfAccountRecommendTwoLines,名前を変更するには\nenza連携が必要です,Enza Link is required to\nchange your name
-trend.staffComment,流行の結果にあわせて、\nオーディションを受けてみてください♪,流行の結果にあわせて、\nオーディションを受けてみてください♪
+trend.staffComment,流行の結果にあわせて、\nオーディションを受けてみてください♪,Let's take an audition\nbased on the current trend♪
 beginnerMission.completeRewardPop.title,%{title}コンプリート,%{title} Complete
-beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました
-characterAlbum.idolEffectPop.title,演出再生,演出再生
-characterAlbum.idolEffectPop.message,再生する演出を選んでください,再生する演出を選んでください
+beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,"As a reward for completing all %{title},\nyou receive the following rewards:"
+characterAlbum.idolEffectPop.title,演出再生,Playback
+characterAlbum.idolEffectPop.message,再生する演出を選んでください,Please select what you wish to replay.
 common.reserveNum,控室%{reserveNum},控室%{reserveNum}
 deck.deckNameEdit.defaultName,ユニット%{deckNumber},Unit %{deckNumber}
 deck.deckNameEdit.dialog.title,ユニット名変更,Edit Unit Name
@@ -1671,13 +1671,13 @@ deck.deckCopy.confirm.title,ユニットコピー確認,Confirm Copy Unit
 deck.deckCopy.complete.title,ユニットコピー完了,Copying Unit Complete
 deck.deckCopy.complete.message,ユニット情報をコピーしました,Unit Info has been copied.
 deck.title.deckCopy,ユニットコピー,Copy Unit
-deck.title.deckMove,ユニット切り替え,ユニット切り替え
-groupedExpireAlert.title,アイテム有効期限確認,アイテム有効期限確認
+deck.title.deckMove,ユニット切り替え,Switch Unit
+groupedExpireAlert.title,アイテム有効期限確認,Check Item Expiration Date
 gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,Event-only Reward Idol
-gasha.redrawGashaBackNotice,確定せずに戻る,確定せずに戻る
+gasha.redrawGashaBackNotice,確定せずに戻る,Return without confirming
 gasha.popRedrawQuit.title,ご注意,Attention
-gasha.popRedrawQuit.comment,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です
-gasha.popRedrawQuit.notice,現在のガシャ結果は破棄されます,現在のガシャ結果は破棄されます
+gasha.popRedrawQuit.comment,「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です,"Would you like to return to the Gacha page\nwithout confirming the results?\n\nYou can return to the ""First Time Only! Fateful Encounter Gacha""\nat the Gacha page at any time."
+gasha.popRedrawQuit.notice,現在のガシャ結果は破棄されます,Current Gacha results will be discarded.
 gasha.scoutGasha.possessedIdol,所持済,Owned
 gasha.scoutGasha.notPossessedIdol,未所持,Unowned
 homeDeckBGM,ホームユニットBGM,Home Unit BGM
@@ -1691,8 +1691,8 @@ exSkill.produceExSkillCondition.idol.tenThousandFans,%{firstName}のファン数
 exSkill.produceExSkillCondition.idol.oneHundredMillionFans,%{firstName}のファン数%{requiredFan}億突破,%{firstName}'s Fan Count exceeds %{requiredFan}
 exSkill.produceExSkillCondition.common.trueEnd,誰か1人のTrue End達成,Obtain one True End from anyone
 exSkill.produceExSkillCondition.common.fesMatchGrade,グレード%{requiredFesMatchGradeId}に到達,Reach Grade %{requiredFesMatchGradeId}
-exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解放,条件を達成すると解放
-exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,どちらかの条件を達成すると解放
+exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解放,Unlocked when conditions are met.
+exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,Unlocked when either conditions are met.
 exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Please select \na Ex Skill slot
 exSkill.noExSkill,Exスキルを\n所持していません,No Ex Skills owned \nfor this Idol
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
@@ -1716,10 +1716,10 @@ item.releaseMypageCommunicationPop.title,イタズラ解放,Mischief unlocked
 item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,Trick or Treat! \nWhat if you idle on the home screen...?
 shop.headerTitles.monthlyPassport,283パス,283Pass
 shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage}回特訓済)
-shop.labelGameEventShopIdolPossessionText,所持状況,所持状況
+shop.labelGameEventShopIdolPossessionText,所持状況,Amount Owned
 shop.monthlyPassport.limitAt,%{limitAt}まで,Until %{limitAt}
 shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,Browser version only
-shop.monthlyPassport.unpurchasableBadge.outOfTerm,%{nextOpenDate}から購入可,%{nextOpenDate}から購入可
+shop.monthlyPassport.unpurchasableBadge.outOfTerm,%{nextOpenDate}から購入可,Available from %{nextOpenDate}
 skillBord.fromDeckHeader,スキルパネル,Skill Panel
 topicPath.produce.areaSelect,プロデュース選択,Produce Selection
 topicPath.produce.deckEdit,ユニット編成,Unit Setup
@@ -1728,15 +1728,15 @@ topicPath.trueEndTeaching.areaSelect,プロデュース選択,Produce Selection
 topicPath.trueEndTeaching.idolSelect,アイドル選択,Idol Selection
 topicPath.trueEndTeaching.deckEdit,ユニット編成,Unit Setup
 trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G. Missions Complete
-trueEndTeaching.openPopup.description,True End研修はホーム画面からスタートすることができます,True End研修はホーム画面からスタートすることができます
+trueEndTeaching.openPopup.description,True End研修はホーム画面からスタートすることができます,True End Training can be started from the Home screen.
 trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,"Congratulations♪ You have cleared all W.I.N.G. Missions〜 \n Next up, why not try True Ending Training〜"
 trueEndTeaching.openPopup.teachingText,True End研修へ,To True Ending Training
-userOnlyMessagePopup.title,専用メッセージ,専用メッセージ
+userOnlyMessagePopup.title,専用メッセージ,Dedicated Message
 workActivityTop.checkUnitDialogTitle,営業編成確認,Job Status Check
 workActivityReady.selectedBusinessNone,未選択,Unselected
 workActivityReady.autoSelectedDialog.title,おまかせ編成,Recommended
-workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しました,Recommendation is now done
-workActivityReady.startErrorDialog.confirmationText,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です
+workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しました,Recommendation is now complete.
+workActivityReady.startErrorDialog.confirmationText,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です,"In order to do Work,\nit is necessary to ""organize idols"" and ""select a Job""."
 unitName.1,イルミネーションスターズ,illumination STARS
 unitName.2,アンティーカ,L'Antica
 unitName.3,放課後クライマックスガールズ,Hokago Climax Girls
@@ -1869,7 +1869,7 @@ fesTower.reset.resetConfirmPopTitle,リスタート確認,Confirm Restart
 fesTower.reset.takeoverConfirmPopTitle,アイテム引き継ぎ確認,Confirm Item Carry-Over
 idolList.infoSwitch.4th_produce_area,熟練度(Landing Point用),Proficiency (Landing Point)
 idolList.emptyMessages.produceMusicSelect,所持しているアイドルがいません。,There are no Idols owned.
-gasha.confirmDialog.messageUnitFixed,ガシャを%{count}回引きます\nピックアップユニットを変更することはできません\nよろしいですか？,ガシャを%{count}回引きます\nピックアップユニットを変更することはできません\nよろしいですか？
+gasha.confirmDialog.messageUnitFixed,ガシャを%{count}回引きます\nピックアップユニットを変更することはできません\nよろしいですか？,This will pull the gacha %{count} times.\nThe Pickup Unit cannot be changed.\nAre you sure?
 gasha.stepupRemainingDay,残り%{day}日,%{day} days left
 header.fesMatchPopularityRanking,使用率,Use Rate
 header.workActivityTalkAndCommu,トーク/コミュ,Talk/Commu
@@ -1882,15 +1882,15 @@ header.produceMusicSelect,シーズン%{seasonNum}の楽曲選択,Season %{seaso
 header.produceSupporterSelect,楽曲サポートアイドル選択,Track Support Idol Selection
 header.produceMusicInfo,楽曲情報,Track Details
 header.produceMusicOrder,ライブ楽曲入れ替え,Change Live Track
-option.produceContentTitle.notEnoughFansNotice,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示
+option.produceContentTitle.notEnoughFansNotice,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示,W.I.N.G. Mode\nWarning screen if Fan Count is not reached.\nWill show a Pop-up.
 option.fesTowerContentTitle.recoverPanelConfirmation,回復パネル選択肢時に確認画面を表示,Prompt for heal\npanel selection
 option.fesTowerContentTitle.presentPanelConfirmation,プレゼントパネル選択時に\n確認画面を表示,Prompt for present\npanel selection
 option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択時に\n確認画面を表示,Prompt for event\npanel selection
 option.fesTowerContentTitle.tensionPanelConfirmation,テンションパネル選択時に\n確認画面を表示,Prompt for tension\npanel selection
 option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低下している際に\n警告画面を表示,Show alert when\nstamina is low
-item.characterTrustLevelUp.text,アイドルとの信頼関係が更に深まった,アイドルとの信頼関係が更に深まった
+item.characterTrustLevelUp.text,アイドルとの信頼関係が更に深まった,Trust with your Idol has deepened.
 item.characterTrustLevelUp.notification,%{characterName} の信頼度がアップしました,%{characterName} 's Trust has been increased!
-specialPresent.title,配布のお知らせ,配布のお知らせ
+specialPresent.title,配布のお知らせ,Distribution Notice
 produceHeader.concertSeason.landingPoint,単独ライブ,Solo Live
 produceMusicSelect.abilityDetailPop.title,アビリティ詳細,Ability Details
 produceMusicSelect.cdInfoPop.title,CD情報,CD Info
@@ -1901,10 +1901,10 @@ produceMusicSelect.musicDetail.totalLevelBonus.unitLimitation,ユニット限定
 produceMusicSelect.selectedSupporterInfo.empty,サポートアイドルを\n選択してください,Please select a Support Idol
 produceMusicSelect.selectedSupporterInfo.proficiency.value,＋%{value},＋%{value}
 produceMusicSelect.selectedSupportersProficiency.baseValue,＋%{value},＋%{value}
-produceMusicOrder.musicListItem.order,%{order}曲目,%{order}曲目
+produceMusicOrder.musicListItem.order,%{order}曲目,Track %{order}
 produceMusicOrder.musicDetail.judgeStarBonus.none,ライブ効果なし,No Live Effects
-produceMusicOrder.dragGuide.comment,つかんで\n入れ替え,つかんで\n入れ替え
-produceMusicOrder.liveDetail.title,%{order}曲目 ライブ詳細,%{order}曲目 ライブ詳細
+produceMusicOrder.dragGuide.comment,つかんで\n入れ替え,Drag &\nDrop
+produceMusicOrder.liveDetail.title,%{order}曲目 ライブ詳細,Song %{order} Live Details
 produceAction.satisfactionUpEffect.pointUp,上昇量UP！,上昇量UP！
 produceAction.musicAssignmentPopup.staff.comment,ライブに向けて\n楽曲課題を\nこなしていきましょ～,ライブに向けて\n楽曲課題を\nこなしていきましょ～
 produceAction.musicAssignmentPopup.bonusInfo.empty,発動中ボーナスは\nありません,発動中ボーナスは\nありません
@@ -1952,8 +1952,8 @@ workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName,コンプ数\n%
 workActivityTalkAndCommu.talkCompleteRewardPopContent.title,コンプ報酬,Comp. Reward
 workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%{num},Unit \nLv.%{num}
 workActivityTalkAndCommu.unitLevelRewardPopContent.title,レベル報酬,Level Reward
-unitSelectGasha.confirmTitle,ピックアップユニット確認,ピックアップユニット確認
-unitSelectGasha.confirmText,ピックアップユニットを「%{unitName}」に確定しますか？,ピックアップユニットを「%{unitName}」に確定しますか？
+unitSelectGasha.confirmTitle,ピックアップユニット確認,Check Pickup Unit
+unitSelectGasha.confirmText,ピックアップユニットを「%{unitName}」に確定しますか？,"Do you want to choose ""%{unitName}"" as Pickup Unit?"
 fes.top.residualBorder,残留ライン,Stay Line
 fes.top.promotionBorder,昇格ライン,Promote Line
 fesTower.bossPanelInfo,FINALライブ Lv.%{level},FINAL Live Lv.%{level}
@@ -2076,7 +2076,7 @@ producerDesk.releaseCondition.trueEndMission,W.I.N.G.攻略ミッションをク
 producerDesk.releaseCondition.fanMeeting,ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります,"In order to unlock FanFest, you must\nclear Season 2 of a 「W.I.N.G. Run」"
 producerDesk.releaseCondition.grad,G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock G.R.A.D., you must\ncreate an idol with 「FanFest」"
 producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock Landing Point, you must\ncreate an idol through a 「G.R.A.D. Run」"
-producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours are currently not ongoing
+producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours is currently not ongoing
 producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal
 filter.categories.aptitude,適性,Aptitude
 filter.categories.costumePossession,衣装所持,Has Outfit
@@ -2263,9 +2263,9 @@ stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,S.T.E.P. Comm
 stepCommunicationReleaseDialog.message,新たなS.T.E.P.編のコミュが解放されました！,A new S.T.E.P. commu has been unlocked!
 stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,You can now view the S.T.E.P. commu in your Album.
 workActivityTalkAndCommu.categories.notCleared,未CLEAR,Not Cleared
-producerDesk.costume.costumeName,%{costumeName}の衣装,
-producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,
-producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。
+producerDesk.costume.costumeName,%{costumeName}の衣装,%{costumeName}'s outfit
+producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,%{anotherName}\n%{idolName}'s outfit
+producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,"To unlock S.T.E.P., you must clear\nSeason 1 in ""W.I.N.G.""\nand create a Fes idol."
 jewelCounter.sortTitle,並び替え,Sort
 jewelCounter.typeText.daily,デイリー,Daily
 jewelCounter.typeText.weekly,ウィークリー,Weekly
@@ -2277,7 +2277,7 @@ seasonalPresentPop.message,アイドルからの年賀状が届いています,�
 unitName.8,コメティック,CoMETIK
 unitName.91,B小町,B Komachi
 unitName.92,劇団ララバイ,Lalalai Theatrical Company
-filter.bulkSelectTitle,一括選択,一括選択
+filter.bulkSelectTitle,一括選択,Bulk Select
 filter.subTitle.individualityDetail,絞り込みノウハウ選択,絞り込みノウハウ選択
 filter.categories.mvIdol,MV,MV
 filter.categories.knowHowLevelCount,ノウハウレベル,Know-How Level
@@ -2296,25 +2296,26 @@ letterFromIdol.getDateLetterReceivedFormat,yyyy/mm/dd,yyyy/mm/dd
 miniGamePortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah, Producer, you came to meet the idols. "
 miniGamePortal.staffComment2,みんながプロデューサーさんを待っていますよ～,"Everyone's been waiting for you, Producer-san～"
 miniGamePortal.staffComment3,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～
-miniGamePortal.staffComment4,大富豪、懐かしいですね～,大富豪、懐かしいですね～
+miniGamePortal.staffComment4,大富豪、懐かしいですね～,"Daifugo, how nostalgic～"
 miniGamePortal.staffComment5,ミニゲームが遊べますよ～,Let's play the minigame～
-tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──
-idolList.knowHowCount,ノウハウ数,ノウハウ数
+tutorial.skipPop.messageSkipAll,チュートリアルをすべてスキップします\nよろしいですか？,This will skip the entire Tutorial.\nAre you sure?
+tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,"The idol unit of a new era that suddenly came flying in.\nDecorated in black, these girls are not imprisoned by color.\nWill the ""story"" of the comet's trajectory show us light? Dark? Or perhaps..."
+idolList.knowHowCount,ノウハウ数,Number of Know-How
 idolList.knowHowBoolMarkSelectDialog.title,ノウハウブックマーク,Know-How Bookmark
-idolList.knowHowRedrawDialog.title,ノウハウのリロード,Reload Know-How
-idolList.knowHowRedrawDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount}回目
-idolList.knowHowRedrawHistoriesDialog.title,リロード済ノウハウ,リロード済ノウハウ
-idolList.knowHowRedrawHistoriesDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount}回目
-idolList.knowHowDeleteDialog.title,ノウハウの削除,ノウハウの削除
-idolList.knowHowExpressDialog.title,ノウハウ選択,ノウハウ選択
-idolList.knowHowResultDialog.title.redraw,リロード結果,Reloading Results
-idolList.knowHowResultDialog.title.delete,削除結果,削除結果
-idolList.knowHowResultDialog.title.add,発現結果,発現結果
-idolList.knowHowResultDialog.comment.redraw,以下のノウハウにリロードされました！,以下のノウハウにリロードされました！
-idolList.knowHowResultDialog.comment.delete,以下のノウハウが削除されました,以下のノウハウが削除されました
-idolList.knowHowResultDialog.comment.add,以下のノウハウが発現しました！,以下のノウハウが発現しました！
-idolList.knowHowUneditablePop.redrawImpossibleToProduce,プロデュースに使用している為、\nリロードは行えません,プロデュースに使用している為、\nリロードは行えません
-idolList.knowHowUneditablePop.deleteImpossibleToProduce,プロデュースに使用している為、\n削除は行えません,プロデュースに使用している為、\n削除は行えません
+idolList.knowHowRedrawDialog.title,ノウハウのリロード,Reroll Know-How
+idolList.knowHowRedrawDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount} times
+idolList.knowHowRedrawHistoriesDialog.title,リロード済ノウハウ,Rerolled Know-How
+idolList.knowHowRedrawHistoriesDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount} times
+idolList.knowHowDeleteDialog.title,ノウハウの削除,Delete Know-How
+idolList.knowHowExpressDialog.title,ノウハウ選択,Select Know-How
+idolList.knowHowResultDialog.title.redraw,リロード結果,Rerolling Results
+idolList.knowHowResultDialog.title.delete,削除結果,Delete Results
+idolList.knowHowResultDialog.title.add,発現結果,Add Results
+idolList.knowHowResultDialog.comment.redraw,以下のノウハウにリロードされました！,Rerolled with the following Know-How!
+idolList.knowHowResultDialog.comment.delete,以下のノウハウが削除されました,The following Know-How has been removed
+idolList.knowHowResultDialog.comment.add,以下のノウハウが発現しました！,The following Know-How has been added!
+idolList.knowHowUneditablePop.redrawImpossibleToProduce,プロデュースに使用している為、\nリロードは行えません,"Currently in use for Producing,\nit cannot be rerolled."
+idolList.knowHowUneditablePop.deleteImpossibleToProduce,プロデュースに使用している為、\n削除は行えません,"Currently in use for Producing,\nit cannot be deleted."
 filter.cautions.knowHowLevelCount,チェックしたレベルのノウハウを指定した個数持つノウハウブックが絞り込まれます,チェックしたレベルのノウハウを指定した個数持つノウハウブックが絞り込まれます
 filter.cautions.individualityDetail,条件を満たしているノウハウを持つノウハウブックが絞り込まれます,条件を満たしているノウハウを持つノウハウブックが絞り込まれます
 filter.cautions.knowHowBookMark,ノウハウブック一覧の詳細から好きなマークを設定できます,ノウハウブック一覧の詳細から好きなマークを設定できます
@@ -2326,11 +2327,11 @@ filter.texts.status.vocal,Vocal,Vocal
 filter.texts.status.visual,Visual,Visual
 filter.texts.status.dance,Dance,Dance
 filter.texts.status.mental,Mental,Mental
-filter.texts.knowHowLevelCount.countRange.limited,%{min}〜%{max}個,%{min}〜%{max}個
-filter.texts.knowHowLevelCount.countRange.unlimited,%{min}個以上,%{min}個以上
-filter.texts.individualityDetail.skill,ノウハウ%{num},ノウハウ%{num}
+filter.texts.knowHowLevelCount.countRange.limited,%{min}〜%{max}個,%{min}〜%{max} pcs
+filter.texts.knowHowLevelCount.countRange.unlimited,%{min}個以上,%{min} or more
+filter.texts.individualityDetail.skill,ノウハウ%{num},Know-How%{num}
 filter.texts.individualityDetail.notSet,未設定,未設定
-filter.texts.individualityDetail.all,すべて,すべて
+filter.texts.individualityDetail.all,すべて,All
 filter.texts.foil,フォイル化あり,With Foil
 filter.texts.fesMatchHonorTextType.all,すべて,All
 filter.texts.fesMatchHonorTextType.normal,通常,通常
@@ -2346,53 +2347,53 @@ autoPlay.growthPolicySelectPop.notice,%{growth}に関するスキルパネルを
 autoPlay.growthPolicySelectPop.vocal,Vocal,Vocal
 autoPlay.growthPolicySelectPop.dance,Dance,Dance
 autoPlay.growthPolicySelectPop.visual,Visual,Visual
-autoPlay.produceStartPop.title,オートプロデュース開始,オートプロデュース開始
-autoPlay.produceStartPop.text,設定したプロデュースアイテムとスタミナを\n消費してオートプロデュースを開始しますか？,設定したプロデュースアイテムとスタミナを\n消費してオートプロデュースを開始しますか？
-autoPlay.produceStartPop.notice,オートプロデュースを実行した際に\nアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、\n実行中および準備中のアイテムとスタミナは返却されます,オートプロデュースを実行した際に\nアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、\n実行中および準備中のアイテムとスタミナは返却されます
-autoPlay.produceStartWithItemPop.title,オートプロデュース開始,オートプロデュース開始
+autoPlay.produceStartPop.title,オートプロデュース開始,Start Auto Produce
+autoPlay.produceStartPop.text,設定したプロデュースアイテムとスタミナを\n消費してオートプロデュースを開始しますか？,Do you want to use the set Produce Items and Stamina\nand start Auto Produce?
+autoPlay.produceStartPop.notice,オートプロデュースを実行した際に\nアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、\n実行中および準備中のアイテムとスタミナは返却されます,"When Auto Produce has begun,\nItems and Stamina will be consumed.\nIf Auto Produce is cancelled,\nItems and Stamina will be refunded."
+autoPlay.produceStartWithItemPop.title,オートプロデュース開始,Start Auto Produce
 autoPlay.produceStartWithItemPop.text,回復アイテムをセットして\nオートプロデュースを開始します,回復アイテムをセットして\nオートプロデュースを開始します
 autoPlay.produceStartWithItemPop.notice,オートプロデュースを実行した際にアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、実行中および準備中のアイテムとスタミナは返却されます,オートプロデュースを実行した際にアイテムとスタミナが消費されます\nオートプロデュースを中止した場合、実行中および準備中のアイテムとスタミナは返却されます
 autoPlay.skipPop.title,オートスキップ,Auto Skip
-autoPlay.skipPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,スキップチケットは1日%{availableCount}回までしか使用できません
-autoPlay.skipPop.notice2,使用回数は毎朝5時にリセットされます,使用回数は毎朝5時にリセットされます
+autoPlay.skipPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,Skip Tickets can only be used %{availableCount} per day.
+autoPlay.skipPop.notice2,使用回数は毎朝5時にリセットされます,The amount of times is reset every day at 05:00 JST.
 autoPlay.skipPop.remaining,残り,left
 autoPlay.skipPop.remainingUnit,回 / 日,x / day
 autoPlay.skipedPop.title,オートスキップ,Auto Skip
-autoPlay.skipedPop.comment,オートプロデュースを\n%{num}回分スキップしました,Skipped Auto-Produce\n%{num}times
+autoPlay.skipedPop.comment,オートプロデュースを\n%{num}回分スキップしました,Skipped Auto-Produce\n%{num} times
 autoPlay.produceConfirmPop.title,オートプロデュース確認,Confirm Auto-Produce
-autoPlay.produceConfirmPop.notice,オートスケジュールを設定中です,オートスケジュールを設定中です
-autoPlay.produceConfirmPop.finished,完了,Finished
-autoPlay.produceConfirmPop.ready,準備中,Ready
-autoPlay.produceConfirmPop.playing,実行中,実行中
+autoPlay.produceConfirmPop.notice,オートスケジュールを設定中です,Auto Schedule is in progress.
+autoPlay.produceConfirmPop.finished,完了,Done
+autoPlay.produceConfirmPop.ready,準備中,Queued
+autoPlay.produceConfirmPop.playing,実行中,Playing
 autoPlay.produceConfirmPop.produceTitle.wing,W.I.N.G.,W.I.N.G.
 autoPlay.produceConfirmPop.produceTitle.fan_meeting,ファン感謝祭,FanFest
 autoPlay.produceConfirmPop.produceTitle.3rd_produce_area,G.R.A.D.,G.R.A.D.
 autoPlay.produceConfirmPop.produceTitle.4th_produce_area,Landing Point,Landing Point
 autoPlay.produceConfirmPop.produceTitle.5th_produce_area,S.T.E.P.,S.T.E.P.
-autoPlay.releasedRequirementDescription.wing,ミドルの『W.I.N.G.』編でフェスアイドルを優勝させる,ミドルの『W.I.N.G.』編でフェスアイドルを優勝させる
-autoPlay.releasedRequirementDescription.fan_meeting,『ファン感謝祭』編でフェスアイドルを誕生させる,『ファン感謝祭』編でフェスアイドルを誕生させる
-autoPlay.releasedRequirementDescription.3rd_produce_area,『G.R.A.D.』編でフェスアイドルを誕生させる,『G.R.A.D.』編でフェスアイドルを誕生させる
-autoPlay.releasedRequirementDescription.4th_produce_area,『Landing Point』編でフェスアイドルを誕生させる,『Landing Point』編でフェスアイドルを誕生させる
-autoPlay.releasedRequirementDescription.5th_produce_area,『S.T.E.P.』編でフェスアイドルを誕生させる,『S.T.E.P.』編でフェスアイドルを誕生させる
+autoPlay.releasedRequirementDescription.wing,ミドルの『W.I.N.G.』編でフェスアイドルを優勝させる,"Win ""W.I.N.G."" on Middle difficulty"
+autoPlay.releasedRequirementDescription.fan_meeting,『ファン感謝祭』編でフェスアイドルを誕生させる,"Create a Fes Idol in ""Thanks Flapping Day"""
+autoPlay.releasedRequirementDescription.3rd_produce_area,『G.R.A.D.』編でフェスアイドルを誕生させる,"Create a Fes Idol in ""G.R.A.D."""
+autoPlay.releasedRequirementDescription.4th_produce_area,『Landing Point』編でフェスアイドルを誕生させる,"Create a Fes Idol in ""Landing Point"""
+autoPlay.releasedRequirementDescription.5th_produce_area,『S.T.E.P.』編でフェスアイドルを誕生させる,"Create a Fes Idol in ""S.T.E.P."""
 autoPlay.produceFinishConfirmPop.title,オートプロデュース終了確認,Auto-Produce is complete.
-autoPlay.produceFinishConfirmPop.comment1,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします
-autoPlay.produceFinishConfirmPop.comment2,実行中のオートプロデュースのデータは失われます,実行中のオートプロデュースのデータは失われます
-autoPlay.produceFinishConfirmPop.comment3,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます
-autoPlay.itemReturnPop.title,アイテム返却,アイテム返却
-autoPlay.itemReturnPop.comment,以下のアイテムが返却されました,以下のアイテムが返却されました
-autoPlay.schedulesFinishPop.title,オートプロデュース終了,オートプロデュース終了
-autoPlay.schedulesFinishPop.comment,オートプロデュースが全て完了しました,オートプロデュースが全て完了しました
-autoPlay.nothingCompletedPop.title,オートプロデュース終了,オートプロデュース終了
-autoPlay.nothingCompletedPop.comment,完了したオートプロデュースはありません,完了したオートプロデュースはありません
-autoPlay.releaseCondition.title,解放条件,解放条件
-autoPlay.releaseCondition.condition,オートプロデュースを解放する為には\n以下の条件が必要です\n\n・初心者ミッションをクリア\n・『W.I.N.G.』編のミドルで優勝するもしくは、\n他のプロデュースでフェスアイドルを誕生させる,オートプロデュースを解放する為には\n以下の条件が必要です\n\n・初心者ミッションをクリア\n・『W.I.N.G.』編のミドルで優勝するもしくは、\n他のプロデュースでフェスアイドルを誕生させる
-autoPlay.resultAcquiredFanIdolName,【%{idolName}】獲得ファン数,【%{idolName}】獲得ファン数
-autoPlay.updateSchedulePop.title,オート終了確認,オート終了確認
-autoPlay.updateSchedulePop.comment,オートスケジュールの状況が更新されています\n\n再度オートスケジュールの設定を表示しなおします,オートスケジュールの状況が更新されています\n\n再度オートスケジュールの設定を表示しなおします
-autoPlay.skipLimitPop.title,スキップ制限,スキップ制限
-autoPlay.skipLimitPop.comment,本日はこれ以上\nスキップチケットを使用できません,本日はこれ以上\nスキップチケットを使用できません
-autoPlay.skipLimitPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,スキップチケットは1日%{availableCount}回までしか使用できません
-autoPlay.skipLimitPop.notice2,使用回数は毎朝5時にリセットされます,使用回数は毎朝5時にリセットされます
+autoPlay.produceFinishConfirmPop.comment1,設定中のオートスケジュールをすべて終了して\n新たなアイドルをプロデュースします,Ends current schedule and produces Fes idols.
+autoPlay.produceFinishConfirmPop.comment2,実行中のオートプロデュースのデータは失われます,Current Produce runs will be cancelled.
+autoPlay.produceFinishConfirmPop.comment3,実行中および準備中のオートプロデュースの\nプロデュースアイテムとスタミナは返却されます,Produce Items and Stamina will be refunded.
+autoPlay.itemReturnPop.title,アイテム返却,Item Refund
+autoPlay.itemReturnPop.comment,以下のアイテムが返却されました,The following Items were refunded
+autoPlay.schedulesFinishPop.title,オートプロデュース終了,Auto Produce has finished.
+autoPlay.schedulesFinishPop.comment,オートプロデュースが全て完了しました,All Auto Produce runs have completed.
+autoPlay.nothingCompletedPop.title,オートプロデュース終了,Auto Produce has finished.
+autoPlay.nothingCompletedPop.comment,完了したオートプロデュースはありません,No completed Auto Produce runs.
+autoPlay.releaseCondition.title,解放条件,Unlock Details
+autoPlay.releaseCondition.condition,オートプロデュースを解放する為には\n以下の条件が必要です\n\n・初心者ミッションをクリア\n・『W.I.N.G.』編のミドルで優勝するもしくは、\n他のプロデュースでフェスアイドルを誕生させる,"In order to unlock Auto Produce\nthe following conditions must be met\n\n・Clear Beginner Missions\n・Win ""W.I.N.G."" on Middle difficulty\nor create a Fes idol on other modes"
+autoPlay.resultAcquiredFanIdolName,【%{idolName}】獲得ファン数,【%{idolName}】Acquired Fans
+autoPlay.updateSchedulePop.title,オート終了確認,Auto End Confirmation
+autoPlay.updateSchedulePop.comment,オートスケジュールの状況が更新されています\n\n再度オートスケジュールの設定を表示しなおします,Auto Schedule status is being updated\n\nDisplaying the Auto Schedule settings again
+autoPlay.skipLimitPop.title,スキップ制限,Skip Limit
+autoPlay.skipLimitPop.comment,本日はこれ以上\nスキップチケットを使用できません,Can't use more\nSkip Tickets today.
+autoPlay.skipLimitPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,Skip Tickets can only be used %{availableCount} per day.
+autoPlay.skipLimitPop.notice2,使用回数は毎朝5時にリセットされます,The amount of times is reset every day at 05:00 JST.
 survey.questionOrder,設問 %{order},設問 %{order}
 survey.confirmTitle,アンケート回答確認,アンケート回答確認
 survey.answerNoticeOnce,回答は一度しかできません,回答は一度しかできません
@@ -2406,13 +2407,13 @@ pickupContents.expiredPop.announceClosedText,該当の詳細の期限は終了�
 pickupContents.expiredPop.contentClosedText,該当のコンテンツの期限は終了しました,該当のコンテンツの期限は終了しました
 limitedFesTop.closeText,期間終了,期間終了
 limitedFesTop.closeDate,%{closeAt}まで,%{closeAt}まで
-limitedFesTop.pyramid.self,自分,自分
+limitedFesTop.pyramid.self,自分,You
 limitedFesTop.pyramid.rank,%{rank}位,%{rank}位
 limitedFesTop.pyramid.score,%{score}人,%{score}人
 limitedFesTop.pyramid.nextPrefix,次のリーグまで,次のリーグまで
-limitedFesTop.hallDetailDialog.title.easy,Easyステージ,Easyステージ
-limitedFesTop.hallDetailDialog.title.normal,Normalステージ,Normalステージ
-limitedFesTop.hallDetailDialog.title.hard,Hardステージ,Hardステージ
+limitedFesTop.hallDetailDialog.title.easy,Easyステージ,Easy Stage
+limitedFesTop.hallDetailDialog.title.normal,Normalステージ,Normal Stage
+limitedFesTop.hallDetailDialog.title.hard,Hardステージ,Hard Stage
 limitedFesTop.periodsDialog.title,各フェーズ開催期間,各フェーズ開催期間
 limitedFesTop.cantEntryDialog.title,参加条件,参加条件
 limitedFesTop.cantEntryDialog.text,指定期間中にグレードLv.6以上に\n所属で参加することができます。\n詳しくはお知らせをご確認ください。,指定期間中にグレードLv.6以上に\n所属で参加することができます。\n詳しくはお知らせをご確認ください。
@@ -2439,7 +2440,7 @@ limitedFesTop.idolBonuses.mentalDesc,メンタル基礎能力+%{upValue}%,メン
 limitedFesTop.idolBonuses.passiveDesc,パッシブスキル発動率+%{upValue}%UP,パッシブスキル発動率+%{upValue}%UP
 limitedFesDeck.specialBonusIdolEmptyMessage,特別ボーナスを持つアイドルはいません,特別ボーナスを持つアイドルはいません
 limitedFesTicketRecover.attention,フェーズ切り替わりの際\n上限を超えている参加権は破棄されます,フェーズ切り替わりの際\n上限を超えている参加権は破棄されます
-limitedFesExceptionPop.title,マスターズフェス,マスターズフェス
+limitedFesExceptionPop.title,マスターズフェス,Masters Fes
 limitedFesExceptionPop.closePhaseText,フェーズが切り替わりました\n画面を更新します,フェーズが切り替わりました\n画面を更新します
 limitedFesExceptionPop.closeEventText,マスターズフェスは終了しました,マスターズフェスは終了しました
 limitedFesExceptionPop.changePhaseTitle,フェーズの更新,フェーズの更新
@@ -2448,9 +2449,9 @@ limitedFesExceptionPop.changePhaseNotice,参加券も消費されません,参�
 limitedFesReady.title,%{leagueName} (%{difficulty}),%{leagueName} (%{difficulty})
 limitedFesReady.notice,テンション決定後は前の画面には戻れません,テンション決定後は前の画面には戻れません
 limitedFesResult.title,%{leagueName} %{difficulty},%{leagueName} %{difficulty}
-limitedFesResult.appeal,アピール値,アピール値
+limitedFesResult.appeal,アピール値,Appeal Value
 limitedFesResult.appealValue,%{value}pt,%{value}pt
-limitedFesResult.bonus,ボーナス,ボーナス
+limitedFesResult.bonus,ボーナス,Bonus
 limitedFesResult.bonusValue,×%{value},×%{value}
 limitedFesResult.rankingValue,%{value}位,%{value}位
 limitedFesResult.scoreValue,%{value}pt,%{value}pt
@@ -2475,15 +2476,15 @@ useAlmightyFoilItem.useConfirmPop.message,%{itemName}を使用して\nアイド�
 useAlmightyFoilItem.useResultPop.title,使用結果,使用結果
 useAlmightyFoilItem.useResultPop.message,以下のアイドルのフォイル化が完了しました！,以下のアイドルのフォイル化が完了しました！
 useAlmightyFoilItem.notice,%{itemName}%{num}個で1人フォイル化できます,%{itemName}%{num}個で1人フォイル化できます
-parallelSceneMenuPop.title,サブ画面メニュー,サブ画面メニュー
-parallelSceneLayoutPop.title,コミュ並列閲覧,コミュ並列閲覧
+parallelSceneMenuPop.title,サブ画面メニュー,Sub Screen Menu
+parallelSceneLayoutPop.title,コミュ並列閲覧,Commu Parallel Browsing
 parallelSceneLayoutPop.text,画面レイアウトを選択してください,画面レイアウトを選択してください
 parallelSceneLayoutPop.notice,サブ画面はアルバムのみ開くことができます,サブ画面はアルバムのみ開くことができます
-parallelSceneLayoutPop.descriptions.left,左:サブ画面 右:メイン画面,左:サブ画面 右:メイン画面
-parallelSceneLayoutPop.descriptions.top,上:サブ画面 下:メイン画面,上:サブ画面 下:メイン画面
-parallelSceneLayoutPop.descriptions.right,左:メイン画面 右:サブ画面,左:メイン画面 右:サブ画面
-parallelSceneLayoutPop.descriptions.bottom,上:メイン画面 下:サブ画面,上:メイン画面 下:サブ画面
-parallelSceneNoticePop.title,コミュ並列閲覧,コミュ並列閲覧
+parallelSceneLayoutPop.descriptions.left,左:サブ画面 右:メイン画面,L: Sub R: Main
+parallelSceneLayoutPop.descriptions.top,上:サブ画面 下:メイン画面,U: Sub D: Main
+parallelSceneLayoutPop.descriptions.right,左:メイン画面 右:サブ画面,L: Main R: Sub
+parallelSceneLayoutPop.descriptions.bottom,上:メイン画面 下:サブ画面,U: Main D: Sub
+parallelSceneNoticePop.title,コミュ並列閲覧,Commu Parallel Browsing
 parallelSceneNoticePop.comment1,画面の分割を開始します,画面の分割を開始します
 parallelSceneNoticePop.comment2,ブラウザを閉じるとサブ画面も閉じられます,ブラウザを閉じるとサブ画面も閉じられます
 parallelSceneNoticePop.comment3,メイン画面とサブ画面の音量は別で設定できます,メイン画面とサブ画面の音量は別で設定できます
@@ -2493,17 +2494,17 @@ commuUnlockErrorPop.texts.itemShortage,%{itemName}が不足しています,%{ite
 daifugo.communicationPointLimitText,上限は毎週月曜%{resetTime}にリセット,上限は毎週月曜%{resetTime}にリセット
 daifugo.courseDetailPopupTitle,ルール詳細,ルール詳細
 daifugo.gameRecordPopupTitle,プレイ記録,プレイ記録
-daifugo.idolSelectPop.title,アイドル選択,アイドル選択
-daifugo.idolSelectPop.txtLineNotice,残り2名のアイドルはランダムで選ばれます,残り2名のアイドルはランダムで選ばれます
-daifugo.idolSelectPop.confirmationComment,一緒に遊ぶアイドル1名を選んでください,一緒に遊ぶアイドル1名を選んでください
-daifugo.menuPopupTitle,メニュー,メニュー
+daifugo.idolSelectPop.title,アイドル選択,Select Idol
+daifugo.idolSelectPop.txtLineNotice,残り2名のアイドルはランダムで選ばれます,The remaining two Idols will be randomly selected.
+daifugo.idolSelectPop.confirmationComment,一緒に遊ぶアイドル1名を選んでください,Please select an Idol to play with.
+daifugo.menuPopupTitle,メニュー,Menu
 daifugo.resultScore,%{score}pt,%{score}pt
 daifugo.resultCardBonus,%{total}pt(%{cardNum}x%{perValue}),%{total}pt(%{cardNum}x%{perValue})
 daifugo.resultBonusRate,x%{rate}倍(%{numberOfConsecutiveWins}勝),x%{rate}倍(%{numberOfConsecutiveWins}勝)
-daifugo.resumeConfirmPopup.title,再開確認,再開確認
-daifugo.resumeConfirmPopup.message,保存中のゲームがあります\n再開しますか？,保存中のゲームがあります\n再開しますか？
-daifugo.retireConfirmPopup.title,破棄確認,破棄確認
-daifugo.retireConfirmPopup.message,ゲームを破棄しますか？,ゲームを破棄しますか？
+daifugo.resumeConfirmPopup.title,再開確認,Confirm Resume
+daifugo.resumeConfirmPopup.message,保存中のゲームがあります\n再開しますか？,There is a saved game.\nWould you like to resume it?
+daifugo.retireConfirmPopup.title,破棄確認,Confirm Retire
+daifugo.retireConfirmPopup.message,ゲームを破棄しますか？,Would you like to retire?
 daifugo.cardEffect.straight,階段,階段
 daifugo.cardEffect.revolution,革命,革命
 daifugo.cardEffect.same_suit,マークしばり,マークしばり
@@ -2534,7 +2535,6 @@ fes.deckMemberPopularity.idolPointUnitRate,%{rate}%UP,%{rate}%UP
 fes.limitedFesNotice.beforeOpen,『%{eventName}』開催まで あと%{remainingDayToOpen}日,『%{eventName}』開催まで あと%{remainingDayToOpen}日
 fes.limitedFesNotice.openingDay,『%{eventName}』本日%{openHour}時開催！,『%{eventName}』本日%{openHour}時開催！
 fes.limitedFesNotice.opening,『%{eventName}』開催中！,『%{eventName}』開催中！
-gameEvent.presentEvent.lastPrefix,】,】
 gameEvent.presentEvent.selectEventDialog.title,クリスマス特設ページ,Special Christmas Page
 gameEvent.ranking,%{value}位,%{value}位
 gameEvent.characterVoteEvent.confirmDialogTitle,投票確認,投票確認
@@ -2627,7 +2627,7 @@ idolDetail.skill.max,(MAX),(MAX)
 idolDetail.skill.chargeSkillLockPanel,特訓%{evolutionStage}回目で解放,特訓%{evolutionStage}回目で解放
 idolDetail.profile.characterProfileName,%{kanji}(%{kana}),%{kanji}(%{kana})
 idolDetail.profile.ageTitles.age,年齢,Age
-idolDetail.profile.ageTitles.academic_year,学年,学年
+idolDetail.profile.ageTitles.academic_year,学年,School Year
 idolDetail.profile.hiddenProperty,ー,ー
 idolDetail.tradeConfirmDialog.presetKnowHowBookNotice,プリセットに設定されているノウハウブックが含まれています,プリセットに設定されているノウハウブックが含まれています
 idolDetail.tradeConfirmDialog.fesIdolRankANotice,Aランク以上のフェスアイドルが含まれています,Aランク以上のフェスアイドルが含まれています
@@ -2642,13 +2642,13 @@ item.itemConfirm.notice.fes,自然回復の上限を超えて回復できます,
 item.itemConfirm.notice.fes_limited,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます
 item.recoveryItem.type.fes.resultConsumeItem,以下のアイテム,Items listed below
 jointFes.stageSelect.stageLevel,Lv.%{level},Lv.%{level}
-jointFes.retireAttention.titleStart,ライブ開始,ライブ開始
+jointFes.retireAttention.titleStart,ライブ開始,Live Start
 jointFes.retireAttention.message1,マッチライブ以外の進行中のフェスがあります\nマッチライブを%{method}するには、,マッチライブ以外の進行中のフェスがあります\nマッチライブを%{method}するには、
-jointFes.retireAttention.message2,現在進行中の,現在進行中の
-jointFes.retireAttention.message3,フェスを終了する必要があります,フェスを終了する必要があります
+jointFes.retireAttention.message2,現在進行中の,On-going
+jointFes.retireAttention.message3,フェスを終了する必要があります,Must retire from Fes.
 jointFes.retireAttention.message4,フェスを終了してマッチライブを%{method}しますか？,フェスを終了してマッチライブを%{method}しますか？
 jointFes.retireAttention.method.skip,スキップ,Skip
-jointFes.retireAttention.method.start,開始,開始
+jointFes.retireAttention.method.start,開始,Start
 jointFes.areaUnlock.gradeName,グレードLv.%{grade},Grade Lv.%{grade}
 jointFesConcert.fesTicketReturnMessage,敗北したため使用したフェス参加権を返却しました,敗北したため使用したフェス参加権を返却しました
 musicSelect.playMvDialog.confirm,MVを再生しますか？,Would you like to play the MV?
@@ -2656,3 +2656,38 @@ photoBootFailDialog.messages.default,フォトモードを使用するために�
 photoBootFailDialog.messages.toHelp,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります\n\nヘルプを参照してカメラの使用を\n許可してください,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります\n\nヘルプを参照してカメラの使用を\n許可してください
 produceHeader.concertSeason.wing,W.I.N.G.,W.I.N.G.
 produceHeader.concertSeason.grad,G.R.A.D.,G.R.A.D.
+produceItemPreparation.isAutoProduceRestricted,このアイテムはオートプロデュースに\n持ち込むことができません,This Item cannot be used in Auto-Produce.
+produceResult.knowHowIconOverlayTextLevel5Count,Lv.5x%{count},Lv.5x%{count}
+produceReady.produceCheeringPopTitle,アイドルの応援とは,アイドルの応援とは
+produceReady.idolRestrictionPop.text.default.produceIdol,上記アイドルは\nまだ「%{title}」で\nプロデュースアイドルに選択できません,上記アイドルは\nまだ「%{title}」で\nプロデュースアイドルに選択できません
+produceReady.idolRestrictionPop.text.default.supportIdol,上記アイドルは\nまだ「%{title}」で\nサポートアイドルに選択できません,上記アイドルは\nまだ「%{title}」で\nサポートアイドルに選択できません
+produceReady.idolRestrictionPop.text.collaborationOnly.produceIdol,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません
+produceReady.idolRestrictionPop.text.collaborationOnly.supportIdol,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません
+produceReady.guestOnlyCharatcerPop.title,編成アイドル制限,Idol Restriction
+produceReady.guestOnlyCharatcerPop.text,はゲスト以外に選択できません,Can only be used as Guest
+profile.businessCard.trophyCount,×%{count},×%{count}
+profile.businessCard.yearText,【%{year}】トロフィー,[%{year}] Trophy
+profile.options.showUserFesMatchTrophy,グレフェストロフィー,Grade Fes Trophy
+shop.smallTabTitles.idolPiece.flower,華,Flower
+shop.smallTabTitles.premium.all,ALL,ALL
+shop.itemExpiration,使用期限 %{date} まで,Expires %{date}
+workActivityTop.deletedAbandonedBusinessPop.title,営業破棄確認,営業破棄確認
+workActivityTop.deletedAbandonedBusinessPop.text,営業が破棄されました\n\n営業は90日間完了しない場合、破棄されます\n報酬や差し入れは返却されません,Jobs are deleted if \nthey are not completed in 90 days.
+workActivityReady.canNotWorkIdolDialog.title,営業確認,Confirm Job
+workActivityReady.canNotWorkIdolDialog.text,%{idolName}\n\nに営業させることはできません,%{idolName}\n\nに営業させることはできません
+workActivityTalkAndCommu.categories.clear,CLEAR,CLEAR
+parallelSceneMenuPop.title,サブ画面メニュー,Sub Screen Menu
+parallelSceneLayoutPop.title,コミュ並列閲覧,Commu Parallel Browsing
+parallelSceneLayoutPop.text,画面レイアウトを選択してください,Select a screen layout
+parallelSceneLayoutPop.notice,サブ画面はアルバムのみ開くことができます,Sub Screen can only view the Album
+parallelSceneLayoutPop.descriptions.left,左:サブ画面 右:メイン画面,Left: Sub Right: Main
+parallelSceneLayoutPop.descriptions.top,上:サブ画面 下:メイン画面,Top: Sub Bottom: Main
+parallelSceneLayoutPop.descriptions.right,左:メイン画面 右:サブ画面,Left: Main Right: Sub
+parallelSceneLayoutPop.descriptions.bottom,上:メイン画面 下:サブ画面,Top: Main Bottom: Sub
+parallelSceneNoticePop.title,コミュ並列閲覧,Commu Parallel Browsing
+parallelSceneNoticePop.comment1,画面の分割を開始します,Beginning Screen Split
+parallelSceneNoticePop.comment2,ブラウザを閉じるとサブ画面も閉じられます,Closing your browser also closes the sub screen.
+parallelSceneNoticePop.comment3,メイン画面とサブ画面の音量は別で設定できます,The size of the main and sub screen can be set seperately.
+commuUnlockErrorPop.title,コミュ解放,Commu unlocked
+commuUnlockErrorPop.texts.unlocked,すでに解放されています,Commu already unlocked
+commuUnlockErrorPop.texts.itemShortage,%{itemName}が不足しています,Not enough %{itemName}
