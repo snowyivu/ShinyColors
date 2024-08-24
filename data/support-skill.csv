@@ -122,6 +122,8 @@ PERFECT\nなら効果UP,On PERFECT\nEffect,text
 各種\nイベント,Events,text
 その他,Other,text
 「約束」を守れなかった場合に$percentの確率でテンションが下がらない　※S.T.E.P.では効果を発揮しません,$1 chance to not lose tension if a promise is not kept ※No effect in S.T.E.P.,
-ボーカルレッスン滞在率が大UP,Vocal Lesson room retention rate UP,text
-ダンスレッスン滞在率が大UP,Dance Lesson room retention rate UP,text
-ビジュアルレッスン滞在率が大UP,Visual Lesson room retention rate UP,text
+ボーカルレッスン滞在率が大UP,Vocal Lesson room retention rate UP,
+ダンスレッスン滞在率が大UP,Dance Lesson room retention rate UP,
+ビジュアルレッスン滞在率が大UP,Visual Lesson room retention rate UP,
+スキル発動時に一緒に行動してトラブルが起きなかった場合、行動した場所がレベルアップ,,
+ノウハウブック獲得時、ノウハウ発現確率がUP,"additional Know-How discovery UP when acquiring a Know-How Book",

@@ -18,7 +18,6 @@ name,trans
 ファンB,Fan B
 プロデューサー,Producer
 一同,Everyone
-今週ボーカルレッスンがしたいです,I want to do a vocal lesson this week
 凛世,Rinze
 千雪＆プロデューサー,Chiyuki&Producer
 千雪,Chiyuki
@@ -87,7 +86,7 @@ name,trans
 結華＆摩美々,Yuika&Mamimi
 結華＆霧子,Yuika&Kiriko
 結華,Yuika
-観客,Judge
+観客,Audience
 記者,Reporter
 赤ちゃん,Baby
 霧子,Kiriko
@@ -131,11 +130,11 @@ name,trans
 あさひ＆愛依,Asahi&Mei
 冬優子＆愛依,Fuyuko&Mei
 司会者,Host
-女性の観客,Female Judge
-男性の観客,Male Judge
-観客１,Judge 1
-観客２,Judge 2
-観客３,Judge 3
+女性の観客,Female Spectator
+男性の観客,Male Spectator
+観客１,Spectator 1
+観客２,Spectator 2
+観客３,Spectator 3
 責任者,Manager
 白うさぎ,White Rabbit
 恋鐘&咲耶&結華,Kogane&Sakuya&Yuika
@@ -1069,14 +1068,16 @@ Aの友人,A's Friend
 黒川あかね,Akane Kurokawa
 あかね,Akane
 羽那＆はるき,Hana&Haruki
-ファミレス店員,
+ファミレス店員,Restaurant Clerk
 音楽プロデューサー,Music Producer
-制作プロデューサー,
+制作プロデューサー,General Producer
 ライブハウス店主,Live House Owner
 ニュース記事,News Article
 SNSの投稿３,Social Media Post 3
-アドトラックの広告,
+アドトラックの広告,Truck Ad
 広告動画の声,Voice from Ad
 入り口の看板,Signboard at Entrance
 画面テロップ,Text on Screen
 "局のスタッフ",Department Staff
+街の男性１,Man on the Street 1
+街の女性１,Woman on the Street 1
