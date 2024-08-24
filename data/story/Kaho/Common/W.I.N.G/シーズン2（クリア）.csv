@@ -1,5 +1,5 @@
 id,name,text,trans
-0000000000000,果穂,あ、プロデューサーさんっ！,"Ah, Producer!"
+0000000000000,果穂,あ、プロデューサーさんっ！,"Ah, Producer-san!"
 0000000000000,果穂,"二次審査の結果、出たんですよねっ？
 どうでした？　あたし、ちゃんと通ってましたかっ？","The results for the second round are out, right?
 How is it? Did I pass?"
@@ -25,7 +25,8 @@ No matter what comes at you, you keep it up."
 0000000000000,果穂,"えへへっ！
 ヒーローは、壁に当たった時に、必ず強くなるんですっ！","Ehehe!
 When heroes hit a wall, they always become stronger!"
-0000000000000,果穂,「苦難はチャンスだ！　涙は汗に変えろ！」ですっ！,"Like ""This trial is a chance! Let's turn our tears into sweat!"""
+0000000000000,果穂,「苦難はチャンスだ！　涙は汗に変えろ！」ですっ！,"Like ""This trial is a chance! Let's turn our tears
+into sweat!"""
 0000000000000,プロデューサー,"（……よくわからないが、
 特撮のヒーローが言ってたセリフなんだろうな）","(…I don't really get it,
 but that must be a line from a tokusatsu hero.)"
@@ -42,7 +43,7 @@ I need more than just my strength!"
 あたしはどんな困難でも乗り越えてこられたんです！","It's because you're here with me that I can
 overcome any problems!"
 0000000000000,果穂,"プロデューサーさんっ！
-これからも、一緒に頑張りましょうっ！","Producer!
+これからも、一緒に頑張りましょうっ！","Producer-san!
 Let's keep going and do our best!"
 0000000000000,プロデューサー,……ああ！　これからもよろしくな！,…Yep! I'm counting on you!
 info,produce_events/700900103.json,

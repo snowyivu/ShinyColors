@@ -131,6 +131,7 @@ images/content/characters/active_skill_silhouette/006.png,8
 images/content/characters/active_skill_silhouette/007.png,8
 images/content/characters/active_skill_silhouette/008.png,8
 images/content/characters/active_skill_silhouette/011.png,8
+images/content/characters/active_skill_silhouette/013.png,8
 images/content/characters/active_skill_silhouette/015.png,8
 images/content/characters/active_skill_silhouette/016.png,8
 images/content/characters/active_skill_silhouette/017.png,3
@@ -157,6 +158,7 @@ images/content/characters/concert_icon/005.png,8
 images/content/characters/concert_icon/006.png,8
 images/content/characters/concert_icon/008.png,8
 images/content/characters/concert_icon/010.png,8
+images/content/characters/concert_icon/011.png,8
 images/content/characters/concert_icon/012.png,8
 images/content/characters/concert_icon/014.png,8
 images/content/characters/concert_icon/015.png,8
@@ -166,6 +168,7 @@ images/content/characters/concert_icon/019.png,3
 images/content/characters/concert_icon/020.png,3
 images/content/characters/concert_icon/021.png,3
 images/content/characters/concert_icon/022.png,3
+images/content/characters/concert_player_icon/013.png,8
 images/content/characters/concert_player_icon/015.png,8
 images/content/characters/concert_player_icon/017.png,3
 images/content/characters/concert_player_icon/019.png,3
@@ -343,9 +346,11 @@ images/content/characters/link_skill_icon/025.png,2
 images/content/characters/link_skill_icon/026.png,1
 images/content/characters/link_skill_icon/027.png,1
 images/content/characters/link_skill_icon/028.png,1
+images/content/characters/memory_roulette_bad/013.png,8
 images/content/characters/memory_roulette_bad/015.png,8
 images/content/characters/memory_roulette_bad/017.png,3
 images/content/characters/memory_roulette_bad/019.png,3
+images/content/characters/memory_roulette_good/013.png,8
 images/content/characters/memory_roulette_good/015.png,8
 images/content/characters/memory_roulette_good/017.png,3
 images/content/characters/memory_roulette_good/019.png,3
@@ -2650,7 +2655,7 @@ images/event/bg/00000.jpg,7
 images/event/bg/00001.jpg,8
 images/event/bg/00002.jpg,8
 images/event/bg/00007.jpg,7
-images/event/bg/00009.jpg,8
+images/event/bg/00009.jpg,7
 images/event/bg/00010.jpg,8
 images/event/bg/00011.jpg,7
 images/event/bg/00013.jpg,8
@@ -2834,7 +2839,7 @@ images/ui/produce_countdown/parts.json_image,8
 images/ui/produce_deck/parts_deck_name.json_image,2
 images/ui/produce_deck/parts_deck_select.json_image,8
 images/ui/produce_ending/fes_idol_birth_crush_w.png,8
-images/ui/produce_ending/parts_reward.json_image,13
+images/ui/produce_ending/parts_reward.json_image,14
 images/ui/produce_event/parts_level_jump_up_effect.json_image,3
 images/ui/produce_idol_rank/produce_block_stripe_effect_128x128.png,2
 images/ui/producer_desk/effects/arrow_blue_loop.png,1

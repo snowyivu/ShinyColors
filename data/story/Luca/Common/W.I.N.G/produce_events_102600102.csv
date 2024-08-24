@@ -1,0 +1,90 @@
+id,name,text,trans
+0000000000000,プロデューサー,…………,............
+0000000000000,観客,『ルカー！』,"""Lucaaa!"""
+0000000000000,観客,『ルカちゃーん！』,"""Luca-chaan!"""
+0000000000000,プロデューサー,…………,............
+0000000000000,プロデューサー,（この頃は、こんなに……）,(She had so much support...)
+0000000000000,プロデューサー,…………,............
+1026001020010,ルカ,なんだよ……,What...
+0000000000000,プロデューサー,"来てくれたか……
+わざわざすまん","You came...
+Sorry for bothering you."
+0000000000000,プロデューサー,"ルカが事務所に来るのは
+何度目かな……",I wonder how many times you have come to the office...
+0000000000000,プロデューサー,もう慣れたか？,Are you used to it yet?
+0000000000000,プロデューサー,"はは……
+そんなこと聞かれても困るよな","Haha...
+Maybe I shouldn't have asked that."
+0000000000000,プロデューサー,"他所の事務所のことは詳しくは知らないけど
+うちはたぶん、固い規則はない方だと思う","I don't know much about other agencies,
+but I think ours is probably not as strict."
+0000000000000,プロデューサー,"気が向いたら
+いつでも顔を出してくれて構わないから",You can always drop by whenever you feel like it.
+1026001020020,ルカ,…………,............
+0000000000000,プロデューサー,ルカ……？,Luca...?
+1026001020030,ルカ,なんの用だよ……,What's the deal...?
+0000000000000,プロデューサー,"あ、ああ……そうだよな
+ええと、書いてほしいものがあるんだが","Ah, yeah... Right.
+Well, there's something I need you to write."
+1026001020040,ルカ,────────,────────
+0000000000000,プロデューサー,"ありがとう
+だいたい片付いたな","Thank you.
+That's pretty much done."
+0000000000000,プロデューサー,ルカ────────,Luca────────
+0000000000000,プロデューサー,これから頑張っていこう,Let's do our best from now on.
+1026001020050,ルカ,あ…………？,What......?
+0000000000000,プロデューサー,"知っての通り、うちにはいくつかのユニットがあって
+それぞれに活動している","As you know, we have several active units."
+0000000000000,プロデューサー,"経験豊富なルカの加入は、
+みんなにとって、きっといい刺激になると思う","I think the addition of your experience will be a
+great motivation for everyone."
+0000000000000,プロデューサー,それに、ルカにとっても────,And for you too────
+0000000000000,プロデューサー,"すぐにとは言わないけど
+少しずつ馴染んでもらえたらって……思ってる","I'm not saying it will happen immediately, but I hope
+you can gradually make yourself at home."
+1026001020060,ルカ,…………,............
+0000000000000,プロデューサー,だから、これから一緒に────,"Therefore, let's work together────"
+1026001020070,ルカ,無駄話はいい────,Enough of that pointless talk────
+0000000000000,プロデューサー,え……,Erm...
+0000000000000,プロデューサー,"でも……これからは同じ事務所の仲間として
+活動していくことになるわけだし────","Well... From now on, they are your colleagues in the
+same agency, so────"
+1026001020080,ルカ,"馴れ合うために……
+来たわけじゃねぇ",I didn't come here to make friends...
+1026001020090,ルカ,そういうの,I don't need
+1026001020100,ルカ,もう、いらねぇから────,"anything like that, anymore────"
+0000000000000,プロデューサー,ルカ────,Luca────
+select,,いつでも連絡してくれ,"Feel free to 
+call me."
+select,,"しっかり
+サポートするから","You have our
+full support."
+select,,要望とかはないか？,Do you have any requests?
+1026001020110,ルカ,連絡……？,Call you...?
+1026001020120,ルカ,なんで……,Why...
+0000000000000,プロデューサー,"いや……
+環境が変わって、色々と戸惑うこともあると思うんだ","Well...
+Your environment has changed, so you may be
+confused by a lot of things."
+0000000000000,プロデューサー,"困ったことがあったら
+ひとりで悩むより、相談してくれれば","If you have any problems,
+please talk to me instead of worrying about it alone."
+0000000000000,プロデューサー,助けになれるかもしれない,I might be able to help you.
+1026001020130,ルカ,…………,............
+1026001020140,ルカ,サポート？,Support?
+0000000000000,プロデューサー,"ああ、
+これからは２８３プロの大事な仲間だ","Yeah.
+You are an important member of 283Pro now."
+0000000000000,プロデューサー,俺も頑張ってバックアップするよ,I'll do my best to back you up as well.
+1026001020150,ルカ,…………,............
+1026001020160,ルカ,要望……？,Requests...?
+0000000000000,プロデューサー,"これまでやってきた
+ルカなりの仕事の仕方があると思うから",You have your own way of doing things up until now.
+0000000000000,プロデューサー,"もし、気になったことがあったら
+言ってほしい","So if there's anything that's on your mind,
+please let me know."
+1026001020170,ルカ,"別に……
+何も……","Nothing...
+Not really..."
+info,produce_events/102600102.json,
+Translator,,

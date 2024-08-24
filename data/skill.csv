@@ -97,7 +97,7 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
 限定スキルを解放,Unlocked Limited Skills,
 全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
-ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Extremely Rare Chance Of Instantly Captivating Judge,
+ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Extremely Rare Chance of Instantly Captivating Judge,
 ごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance Of Instantly Captivating Judge,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
@@ -269,7 +269,7 @@ $nounVII,$1 VII,
 [輝く]色とりどりの羽根,[Shining] Multicolored Feather,text
 少し前,That Day,text
 [いつか　の]少し前,[Just Before] That Day,text
-彩りファッションドール,Colorful Fashion Doll,
+彩りファッションドール,Colorful Fashion Doll,text
 最後アピール値％UP,Final Appeal Value %UP,
 "発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value",
 魔法使いさんたち,We Mages,text
@@ -314,10 +314,23 @@ Visual上限UP,Visual Cap. UP,text
 みずになりかけ,Becoming Water,text
 10個、光,"10, Lights",text
 第２形態アーマードタイプ,2nd Form Armored Type,text
+ランドセルは元気の証,This Backpack is a Symbol of Energy,text
+[変身！]ランドセルは元気の証,[Transform!] This Backpack is a Symbol of Energy,text
 新装備・バブルバスター！,"New Equipment, Bubble Buster!",text
+シャボン玉は高く,Soap Bubbles Are Up High,text
+[どこまでも]シャボン玉は高く,[Anywhere] Soap Bubbles Are Up High,text
 潮騒のシーショア,Sounds of the Seashore,text
+静かな海の記憶,Memories of a Quiet Ocean,text
+[シー]静かな海の記憶,[Sea] Memories of a Quiet Ocean,text
 マメ丸と一緒！,Together with Mamemaru!,text
 小学生の日常,A Grade Schooler's Daily Life,text
-[元気いっぱい]小学生の日常,[Full of Energy] A Grade Schooler's Daily Life,text
+[元気いっぱい]小学生の日常,[Lots of Energy] A Grade Schooler's Daily Life,text
+デコって！ハッピークッキー,Decoration! Happy Cookie,text
 幸せカウントダウン,Happiness Countdown,text
 [あと３秒]幸せカウントダウン,[in 3 Secs] Happiness Countdown,text
+メイドインナツハ,Maid In Natsuha,text
+シュガー&スパイス,Sugar & Spice,text
+[原材料名]シュガー＆スパイス,[Ingredients] Sugar & Spice,text
+アルティメットマーメイド,Ultimate Mermaid,text
+煌めきの魔法,Twinkling Magic,text
+[虹色チャーム]煌めきの魔法,[Rainbow-Colored Charm] Twinkling Magic,text

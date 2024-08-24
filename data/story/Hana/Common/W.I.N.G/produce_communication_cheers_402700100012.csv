@@ -1,0 +1,29 @@
+id,name,text,trans
+4027001000120010,羽那,あはっ、緊張する──！,"Aha, I'm nervous──!"
+0000000000000000,プロデューサー,"（そう言う割に、
+いつも通りに見えるけど……）","(Despite saying that, she seems like her usual self...)"
+select,,羽那、俺がついてるぞ,"I've got your back, Hana."
+select,,"レッスン、頑張って
+きたじゃないか","You've worked hard
+on your lessons,
+haven't you?"
+select,,"本当に
+緊張してるか？","Are you really
+nervous?"
+4027001000120020,羽那,"……！
+そうだね、プロデューサーがついてくれてるよね──！","......!
+That's right, I have Producer with me──!"
+0000000000000000,プロデューサー,"（いい笑顔だな
+この調子で本番も、頑張れ……！）","(That's a great smile. Keep up the good work and do 
+your best in the actual thing...!)"
+4027001000120030,羽那,"そうだよね
+レッスンの成果、ちゃんと出せるといいなー","I did.
+I hope that the lessons have paid offー"
+0000000000000000,プロデューサー,（……羽那ならきっと、大丈夫だ！）,(... She'll definitely be fine!)
+4027001000120040,羽那,"えっ、うん
+なんで？　嘘ついてるように見えた？","Eh, uhm. Why do you ask?
+Did it look like I was lying?"
+0000000000000000,プロデューサー,"（す、すまん
+責めたかったわけじゃないんだ……！）",(S-Sorry! I didn't mean to blame you...!)
+info,produce_communication_cheers/402700100012.json,
+Translator,Burbur,

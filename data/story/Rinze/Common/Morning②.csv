@@ -1,11 +1,13 @@
 id,name,text,trans
-1012001000210010,凛世,『夢と知りせば……覚めざらましを……』,"""Had I known it for a dream... I would not have awakened."""
+1012001000210010,凛世,『夢と知りせば……覚めざらましを……』,"""Had I known it for a dream... I would not have
+awakened."""
 0000000000000,プロデューサー,ん？　和歌か何かか……？,Hm? Is that waka poetry...?
 1012001000210020,凛世,"はい……
 今朝……同じようなことがありました……","Yes...
 This morning... The same thing happened to me..."
 0000000000000,プロデューサー,（夢のことを詠んだ歌、なのかな？）,(So it's a poem about a dream?)
-select,,いい夢を見たのか？,Was it a good dream?
+select,,いい夢を見たのか？,"Was it a
+good dream?"
 select,,どんな意味の歌なんだ？,"What does that
 poem mean?"
 select,,"歌人と同じ体験が
@@ -14,7 +16,8 @@ experience as the
 poet, huh?"
 1012001000210030,凛世,"はい……
 夢の中でも……夢から覚めても……","Yes...
-Even in a dream... or even if I wake up from the dream..."
+Even in a dream... or even if I wake up from the
+dream..."
 1012001000210040,凛世,"プロデューサーさまにお会いできて……
 凛世は、幸せです……",Rinze is happy... to see Producer-sama.
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"

@@ -1,0 +1,73 @@
+id,name,text,trans
+3028002020010,はるき,ふっ……ふっ……,Huff... Huff...
+3028002020020,はるき,ふうっ……間に合った……！,Huff... Just in time...!
+0000000000000,トレーナー,"あら、はるきちゃん
+走ってきたの？","Oh, Haruki-chan.
+Did you come here running?"
+3028002020030,はるき,あっ……こんにちは……！,Ah... Hello...!
+3028002020040,はるき,"はい、自主練……
+少しでもやっておきたくて……","I did, it's self study...
+I wanted to do a little bit of running..."
+3028002020050,はるき,"お部屋も、せっかく貸していただけるので
+遅れたらもったいないですから","And since you were kind enough to let us rent this 
+space, it'd be a shame if I was late."
+0000000000000,トレーナー,まー、熱心熱心,"Well, well, aren't you enthusiastic."
+3028002020060,はるき,いえ……！,"Ah, no...!"
+3028002020070,はるき,"ダンスの経験ないですから、
+たくさんたくさん練習しないと……！","I have no experience in dancing,
+so I need a lot of practice...!"
+0000000000000,トレーナー,殊勝な心掛けね,That's an admirable mindset.
+0000000000000,トレーナー,"でも、ほんと、飛ばし過ぎちゃダメだからね
+一朝一夕で身につくものでもないんだし","But seriously, you shouldn't rush yourself too much.
+It's not something you can learn overnight."
+0000000000000,トレーナー,"休息と栄養もしっかりね
+ちゃんと最初と最後にストレッチして……！","Make sure you're well rested and fed.
+Don't forget to stretch at the start and end too...!"
+3028002020080,はるき,は、はい……！,Y-Yes...!
+0000000000000,トレーナー,──あ、ごめんね……,"──Ah, I'm sorry..."
+0000000000000,トレーナー,"ちょっと、力こもっちゃったね
+いくら言っても、頑張りすぎる子っているから────","No matter how many times I say it,
+there are some kids who just try too hard──"
+0000000000000,トレーナー,自分を削るみたいな────……,Like wearing yourself out──...
+3028002020090,はるき,…………,......
+0000000000000,トレーナー,とにかく、身体だけは壊さないようにね！,"Anyways, just don't hurt yourself!"
+3028002020100,はるき,ありがとうございます……！,Thank you very much...!
+3028002020110,はるき,……？,...?
+3028002020120,はるき,────あ……,──Ah...
+0000000000000,メッセージ,"『お部屋使用OKです
+お時間は──』","""You can use the room.
+The time is──"""
+3028002020130,はるき,時間……間違ってない──よね,The time... is correct── Right?
+3028002020140,はるき,どうしよう────……,What should I do──...
+3028002020150,はるき,──────……,────......
+3028002020160,ルカ,"…………
+────────……","......
+────......"
+3028002020170,はるき,──────……,────......
+0000000000000,トレーナー,自分を削るみたいな────……,Like wearing yourself out──...
+3028002020180,はるき,……！,...!
+3028002020190,はるき,お疲れ様、ルカちゃん……！,"Good work, Luca-chan...!"
+3028002020200,ルカ,……！,...!
+3028002020210,はるき,あの……この部屋、次、わたしが借りてて……,Uhm... This room... is next to mine...
+3028002020220,はるき,"ルカちゃん、まだ練習するなら
+よかったら一緒に使わない？","If you're still practicing, would you like to join me, 
+Luca-chan?"
+3028002020230,ルカ,"…………いい
+帰る",".......
+I'm leaving."
+3028002020240,はるき,あっ……うん……,Ah... Okay...
+3028002020250,はるき,待って！,Wait!
+3028002020260,はるき,"さっきの、すごかったね
+どうやってるの……？","That was amazing.
+How did you do that...?"
+3028002020270,ルカ,…………,......
+3028002020280,はるき,………………,......
+3028002020290,はるき,……すっ、ばっ……！,"... Su, ba...!"
+3028002020300,はるき,た、たーん………,"Ta, taan..."
+3028002020310,はるき,……？,......?
+3028002020320,はるき,全然、合ってない気がする…………,I don't think that's right at all...
+0000000000000,トレーナー,一朝一夕で身につくものでもないんだし,It's not something you can learn overnight.
+3028002020330,はるき,…………,......
+3028002020340,はるき,まずはストレッチから────,Guess I'll do some stretches next──
+info,produce_events/302800202.json,
+Translator,Burbur,

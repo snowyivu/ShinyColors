@@ -1,0 +1,27 @@
+id,name,text,trans
+4027001000110010,羽那,"わーっ、すごいね
+アイドルがいっぱい──！","Whoa, amazing.
+There are so many idols──!"
+0000000000000000,プロデューサー,"（たしかに、たくさんのアイドルが
+集まってるよな……）",(There's certainly a lot of idols here...)
+select,,"俺は羽那だけを
+応援してるからな","I'm rooting only
+for you, Hana."
+select,,"羽那が一番
+輝いてるよ","You're the brightest
+here, Hana."
+select,,羽那もアイドルだぞ,"You're an idol
+too, Hana."
+4027001000110020,羽那,"ふふっ、そうだよね
+ありがとう──！","Fufu, that's right.
+Thank you──!"
+0000000000000000,プロデューサー,"（さらに表情が明るくなったな
+よかった……！）","(Thank goodness, the look on her face has gotten 
+brighter...!)"
+4027001000110030,羽那,あはっ、何それー,"Aha, what do you mean?"
+0000000000000000,プロデューサー,（あれ、冗談に思われちゃったか……？）,"(Ah, did she think I was joking...?)"
+4027001000110040,羽那,うん、わかってるよ？,"Yeah, I already know though?"
+0000000000000000,プロデューサー,"（……当たり前のことを
+言っちゃったな……）","(... I stated the obvious, didn't I...)"
+info,produce_communication_cheers/402700100011.json,
+Translator,Burbur,

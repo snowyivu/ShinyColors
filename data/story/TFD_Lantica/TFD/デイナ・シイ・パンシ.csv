@@ -1,29 +1,43 @@
 id,name,text,trans
 5002002020010,咲耶,"……──あ、結華と連絡がついたよ
-少し遅れるって。プロデューサーも一緒らしい","...Oh, I just got a text from Yuika. She'll be a little late. It seems Producer is with her. "
+少し遅れるって。プロデューサーも一緒らしい","...Oh, I just got a text from Yuika. She'll be a little 
+late. It seems Producer is with her. "
 5002002020020,恋鐘,"了解～～！
-そいじゃあ、着いたらすぐ倉庫に来てもらえばよかね～",Gotcha! Tell 'er to head to storage shed as soon as she gets here!
+そいじゃあ、着いたらすぐ倉庫に来てもらえばよかね～","Gotcha! Tell 'er to head to the storage shed as soon 
+as she gets here!"
 5002002020030,摩美々,……本当にここでやるのー？,...Are we seriously holding the meeting here?
 5002002020040,恋鐘,"もっちろんばい！
-作戦会議はこがんとこでやるって、決まっとると！"," 'Course we are! When yer holdin' a council of war, it's gotta be in a place like this!"
+作戦会議はこがんとこでやるって、決まっとると！"," 'Course we are! When yer holdin' a council of war, it's 
+gotta be in a place like this!"
 5002002020050,咲耶,"フフ、作戦会議なのかい？
-私は感謝祭に向けてのミーティングだとばかり思っていたよ","Heh, is this a council of war? I must've been mistaken thinking it was a meeting about our plans for FanFest."
+私は感謝祭に向けてのミーティングだとばかり思っていたよ","Heh, is this a council of war? I must've been mistaken 
+thinking it was a meeting about our plans for 
+FanFest."
 5002002020060,恋鐘,"作戦会議って言ったほうがかっこよか！
-ぜ～ったい、よか考えも湧いてくるけん！","Callin' it a council of war is way cooler! An' it'll help us think up sum great ideas too, no doubt 'bout it!"
+ぜ～ったい、よか考えも湧いてくるけん！","Callin' it a council of war is way cooler! An' it'll help 
+us think up sum great ideas too, no doubt 'bout it!"
 5002002020070,摩美々,でも埃っぽいのはちょっとー……,"If only it wasn't so dusty, though... "
 5002002020080,恋鐘,ふぇっ！　霧子、カーテンば開けると！？,"Hweh! Kiriko, don' go openin' the curtains!"
 5002002020090,霧子,"あっ……ごめんね……！
-空気を入れ替えようかなって……",Oh... I'm sorry...! I thought it might brighten things up a bit...
-5002002020100,恋鐘,薄暗かとこの方が、作戦会議の雰囲気出てよかよ～！,"Naw naw, meetin' with the lights all dim makes it seems more like council of war, right?"
+空気を入れ替えようかなって……","Oh... I'm sorry...! I thought it might brighten things up 
+a bit..."
+5002002020100,恋鐘,薄暗かとこの方が、作戦会議の雰囲気出てよかよ～！,"Naw naw, meetin' with the lights all dim makes it 
+seem more like council of war, right?"
 5002002020110,摩美々,"でもそれってー、作戦を立てる場所っていうより
-事件が起きる場所なんじゃないのー？","OK, but storage sheds don't seem like place where you make battle plans. They have more the vibe of places where crimes happen, right?"
+事件が起きる場所なんじゃないのー？","OK, but storage sheds don't seem like place where 
+you make battle plans. They have more the vibe of 
+places where crimes happen, right?"
 5002002020120,恋鐘,"事件が起きても関係なかっ！
-うちらにかかれば、泥棒でもトナカイでもいちころばい！","If somebody tries to start somethin', we've got it covered! Be 'em robber or reindeer, we'll take 'em out in one shot!"
+うちらにかかれば、泥棒でもトナカイでもいちころばい！","If somebody tries to start somethin', we've got it 
+covered! Be 'em robber or reindeer, we'll take 'em out 
+in one shot!"
 5002002020130,咲耶,"……そうだね
-アンティーカが揃えばきっと無敵さ","...That's right. When L'Antica is all together, we're invincible. "
+アンティーカが揃えばきっと無敵さ","...That's right. When L'Antica is all together, we're 
+invincible. "
 5002002020140,恋鐘,んふふ～！　そいば言いたかったと～！,Nfufu! I was gonna say that!
 5002002020150,摩美々,"えー……とりあえずまだ始まらないならぁ
-ちょっとコンビニ行ってきまぁす","Ehhh... Well whatever, if we aren't starting yet, I'm gonna go for a quick conbini run... "
+ちょっとコンビニ行ってきまぁす","Ehhh... Well whatever, if we aren't starting yet, I'm 
+gonna go for a quick conbini run... "
 5002002020160,恋鐘,結華が来たらすぐ始めるけんね～！,"We're startin' soon as Yuika gets here, though!"
 5002002020170,霧子,いってらっしゃい……,See you soon...
 5002002020180,霧子,"それじゃ……
@@ -36,7 +50,8 @@ id,name,text,trans
 --It's been a while, since it's felt like this..."
 5002002020220,霧子,空気……？,Felt...?
 5002002020230,咲耶,"うーん、いうなれば
-あたたかい空気、かな？","Hmmm, how do I put it. This warm and fuzzy feeling, I suppose? "
+あたたかい空気、かな？","Hmmm, how do I put it. This warm and fuzzy feeling, 
+I suppose? "
 5002002020240,咲耶,……フフッ,...Heh.
 5002002020250,霧子,……？,...?
 5002002020260,霧子,……ふふっ,...Eheheh.
@@ -54,10 +69,14 @@ They said they were gonna hold the meeting there."
 5002002020300,霧子,"ご、ごめんね……
 もうみんな……お出かけしちゃって……","I-I'm sorry... Everyone else, already left... "
 0000000000000,プロデューサー,"そうだよな、そんな時間だよな……
-すまない、遅くなって……結華も……すまん","Makes sense, it's long past when they planned to meet... I'm sorry we were late... And sorry to you too, Yuika."
+すまない、遅くなって……結華も……すまん","Makes sense, it's long past when they planned to 
+meet... I'm sorry we were late... And sorry to you too, 
+Yuika."
 5002002020310,結華,"えっ、いやいやいや！
-遅くなったのはプロデューサーのせいじゃないから！","Woah, no no no! It's not your fault that we were late, Producer!"
-0000000000000,プロデューサー,いや、渋滞しそうな道を避けていたらもう少し……,"It's just, I shouldn't have taken such a traffic-heavy route..."
+遅くなったのはプロデューサーのせいじゃないから！","Woah, no no no! It's not your fault that we were late, 
+Producer!"
+0000000000000,プロデューサー,いや、渋滞しそうな道を避けていたらもう少し……,"It's just, I shouldn't have taken such a traffic-heavy 
+route..."
 5002002020320,霧子,"あの……
 プロデューサーさん……","Um...
 Producer-san..."
@@ -68,42 +87,59 @@ Producer-san..."
 あの……","Oh, you're welcome... Um..."
 5002002020350,霧子,よろしくお願いします……！,I hope it helps...!
 5002002020360,結華,"わー……！
-さくやん、丁寧にまとめてくれてるね……！",Woah...! Sakuyan wrote down every last detail of the meeting in here!
+さくやん、丁寧にまとめてくれてるね……！","Woah...! Sakuyan wrote down every last detail of the 
+meeting in here!"
 0000000000000,プロデューサー,"咲耶が進めておいてくれるとは思ったけど、なるほど……
-これからやることも疑問点もきれいに整理されてる……","I figured Sakuya would've wanted to keep the ball rolling but, I see...  She's got the things we still need to do and discuss laid out so neatly..."
+これからやることも疑問点もきれいに整理されてる……","I figured Sakuya would've wanted to keep the ball 
+rolling but, I see...  She's got the things we still need 
+to do and discuss laid out so neatly..."
 5002002020370,結華,"ああ……案出しの交通整理だけでも大変だったろうに……
-ごめんねさくやん、ありがとう……！","It must've been tough keeping track of all the ideas everyone was shouting out... I'm sorry you had to go to the trouble, Sakyuan, but thank you so much...!"
-0000000000000,プロデューサー,これ、時間かかっただろうな……,She had to have spent quite some time writing all of this...
+ごめんねさくやん、ありがとう……！","It must've been tough keeping track of all the ideas 
+everyone was shouting out... I'm sorry you had to go 
+to the trouble, Sakuyan, but thank you so much...!"
+0000000000000,プロデューサー,これ、時間かかっただろうな……,"She had to have spent quite some time writing all of 
+this..."
 5002002020380,結華,"うん……でも、役割分担もちゃんと決まってるし、
-このまま進めていけば問題なさそうじゃない？","Mm... But, it seems like we've got everyone's roles figured out now, so. I think we should still be able to move forward without an issue!"
+このまま進めていけば問題なさそうじゃない？","Mm... But, it seems like we've got everyone's roles 
+figured out now, so. I think we should still be able to 
+move forward without an issue!"
 0000000000000,プロデューサー,ああ……,Right...
 5002002020390,結華,"……？
 プロデューサー？　どうかした？","Hm...?
 Producer? What's up?"
 0000000000000,プロデューサー,"ん。あ、いや……この最後のメモが、なんとなく……
-咲耶にしてはちょっと……","Yeah. Um, it's just... This last note she wrote... Knowing Sakuya, it feels a tad off..."
+咲耶にしてはちょっと……","Yeah. Um, it's just... This last note she wrote... 
+Knowing Sakuya, it feels a tad off..."
 5002002020400,結華,"え？
 ……『結華、プロデューサーへ』","Huh?
 ...""Dear Yuika and Producer,"""
 5002002020410,結華,"『ふたりを待っていたかったけれど、
-状況を考えてみんなで少しばかり進めておいたよ』","""I wanted to wait for you to get here, but given the circumstances everyone ended up going their separate ways. """
+状況を考えてみんなで少しばかり進めておいたよ』","""I wanted to wait for you to get here, but given the 
+circumstances everyone ended up going their 
+separate ways. """
 5002002020420,結華,『私たちは大丈夫。心配しないでほしい』,"""We're doing just fine. Please don't worry."""
 5002002020430,結華,『お仕事、本当にお疲れ様』……,"""Thank you so much for your work today.""..."
 0000000000000,プロデューサー,ああ,"Yeah, that part."
 5002002020440,結華,…………,...Hm.
 5002002020450,結華,"……そ？
-三峰は別におかしな文章だとは思わないけどなー","...Well, what of it? Personally speaking, nothing about it struck me as off as at all. Not one bit."
+三峰は別におかしな文章だとは思わないけどなー","...Well, what of it? Personally speaking, nothing about 
+it struck me as off as at all. Not one bit."
 5002002020460,結華,……それにほら,...And I mean.
 5002002020470,結華,"『大丈夫』って言ってる間は、
-信じてもらえた方がありがたいじゃん？","If Sakuyan herself says she's ""doing just fine"", don't you think we should believe her?"
+信じてもらえた方がありがたいじゃん？","If Sakuyan herself says she's ""doing just fine"", don't 
+you think we should believe her?"
 0000000000000,プロデューサー,……えっ、いや……,"...Uh, well..."
 5002002020480,結華,"──なーんて言っても、
-きっとＰたんは心配しちゃうんだろうけどね～？","...No matter what I say, you're still gonna worry, aren'tcha P-tan?"
+きっとＰたんは心配しちゃうんだろうけどね～？","...No matter what I say, you're still gonna worry, 
+aren'tcha P-tan?"
 0000000000000,プロデューサー,"そ、そんなことない
 信じてるぞ、ちゃんと……","O-Of course I'm not. I believe her, entirely..."
-5002002020490,結華,でもそれと心配とは別なんでしょ？,"Believing her and worrying about her are different things, though?"
+5002002020490,結華,でもそれと心配とは別なんでしょ？,"Believing her and worrying about her are different 
+things, though?"
 5002002020500,結華,"無闇に助けたりはしないけど、
-いざという時には颯爽と駆けつけちゃうのが──","He never intervenes without a plan, but when the time is right, he always comes rushing to the rescue--"
+いざという時には颯爽と駆けつけちゃうのが──","He never intervenes without a plan, but when the 
+time is right, he always comes rushing to the 
+rescue--"
 5002002020510,結華,我らがプロデューサーさん、だもんねぇ？,He's the one we call Producer!
 0000000000000,プロデューサー,"こら、からかうんじゃない
 ま、ただの杞憂かもしれないしな","Hey now, don't joke.
@@ -114,7 +150,8 @@ I wasn't joking there, you know."
 5002002020530,結華,"──さてと！
 そしたら三峰はきりりんの掃除を手伝ってこようかな","──Anyway!
 I should go help Kiririn with cleaning up."
-5002002020540,結華,ノート、全部読み終わったら次貸してねー？,"When you're done reading over everything, hand that notebook off to one of the others, okay?"
+5002002020540,結華,ノート、全部読み終わったら次貸してねー？,"When you're done reading over everything, hand that 
+notebook off to one of the others, okay?"
 0000000000000,プロデューサー,（うん……）,(Hmmm...)
 0000000000000,プロデューサー,（……本当に気のせいならいいんだが……）,"(...Hopefully it's all in my head, but...)"
 info,produce_events/500200202.json,
