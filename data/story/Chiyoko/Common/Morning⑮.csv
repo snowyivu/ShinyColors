@@ -1,13 +1,15 @@
 id,name,text,trans
 1010001001510010,智代子,ああ……！　あああ……！,Aah...! Aaah...!
-0000000000000,プロデューサー,ど、どうした智代子！？　そんな声を出して……,Wh-what's wrong Chiyoko? That sound you're making...
+0000000000000,プロデューサー,ど、どうした智代子！？　そんな声を出して……,"Wh-What's wrong, Chiyoko?
+That sound you're making..."
 1010001001510020,智代子,"楽しみにしてた、とっておきのチョコ……
 落としちゃったんです……！","A treasured chocolate I was looking forward to...
 I lost it...!"
 0000000000000,プロデューサー,それは……,That's...
 select,,なんてことだ……！,Oh no...!
 select,,"代わりのチョコなら
-あるぞ","I have a replacement
+あるぞ","I have a
+replacement
 chocolate."
 select,,"同じチョコを
 買ってこようか？","Should we go
@@ -15,7 +17,7 @@ buy that same
 chocolate?"
 1010001001510030,智代子,"……っ、あはは！
 プロデューサーさんのほうが落ち込んでるじゃないですかっ","...Ahaha!
-Are you feeling down, Producer?"
+Are you feeling down, Producer-san?"
 1010001001510040,智代子,"もー、面白すぎです！
 ……でも、ありがとうございます","Come on, that's too funny!
 ...But, thank you."
@@ -29,8 +31,8 @@ Ah, you really do!"
 限定10個で、毎日すぐに売り切れちゃうので……！","We can't...!
 There's a limit of ten, and they sell out every day...!"
 1010001001510080,智代子,"……悔しいですけど、また朝から並んで、
-今度こそ買ってきたいと思います……！","...It's frustruating, but I think I want to line up in the morning
-and buy it again another time...!"
+今度こそ買ってきたいと思います……！","...It's frustrating, but I think I want to line up in the
+morning and buy it again another time...!"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101000100151.json,
 Translator,,

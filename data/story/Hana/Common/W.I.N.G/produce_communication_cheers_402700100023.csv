@@ -1,0 +1,25 @@
+id,name,text,trans
+4027001000230010,羽那,──受かりたいなーっ,──I hope I pass.
+0000000000000000,プロデューサー,"（……！
+羽那……そうだよな）","(......! That's right, Hana.)"
+select,,合格しよう,"Let's pass
+this audition."
+select,,羽那なら大丈夫だ,"You'll be fine,
+Hana."
+select,,"その気持ちが
+大事だぞ","That feeling
+is important."
+4027001000230020,羽那,"ふふっ、そうだね
+合格しよう──！","Fufu, that's right.
+Let's pass this audition──!"
+0000000000000000,プロデューサー,"（緊張してるみたいだけど……
+よかった、笑ってくれたな）","(She seemed nervous...
+I'm glad I made her laugh.)"
+4027001000230030,羽那,あはっ、そうかなー,"Aha, I guess soー"
+0000000000000000,プロデューサー,"（……俺は
+絶対大丈夫だと思ってるぞ……！）",(... I think it's going to be absolutely fine...!)
+4027001000230040,羽那,うん、ありがとう,"Yeah, thanks."
+0000000000000000,プロデューサー,"（……伝えたいこと
+あまり伝わらなかったかな……）",(... I guess I didn't quite get my message across...)
+info,produce_communication_cheers/402700100023.json,
+Translator,Burbur,

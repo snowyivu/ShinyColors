@@ -1,0 +1,33 @@
+id,name,text,trans
+1027001000710010,羽那,"──あっ、プロデューサー
+髪、後ろの方ハネてるよ？","──Ah, Producer.
+Your hair is sticking out at the back, isn't it?"
+0000000000000000,プロデューサー,えっ！　どの辺だ……？,Eh? Where is it...?
+1027001000710020,羽那,"えっと──
+もうちょっと右かな？　直すからちょっと待ってね","Well── A bit more to the right? 
+Give me a minute, I'll fix it for you."
+1027001000710030,羽那,"……はい
+直ったよ","... There we go.
+Fixed it."
+select,,"これからは
+気を付けるよ","I'll be careful
+from now on."
+select,,"プロデューサー
+として失格だな","I've failed
+as a producer."
+select,,はは……すまん,Haha... Sorry.
+1027001000710040,羽那,あはっ、大丈夫だよ？,"Aha, it's fine though?"
+1027001000710050,羽那,"またハネちゃってても
+あたしが直してあげるから──！","If it sticks up again, I'll gladly fix it for you──!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001000710060,羽那,えーっ、なんで？,"Eh, how so?"
+1027001000710070,羽那,"そんなに全部完璧にしなくても
+いいと思うなー","I don't think you have to make everything look so 
+perfect."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001000710080,羽那,ううん,Hmm.
+1027001000710090,羽那,全然、謝られるようなことしてないよ？,"You didn't do anything wrong to deserve an apology 
+though?"
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100071.json,
+Translator,Burbur,

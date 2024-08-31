@@ -1,0 +1,38 @@
+id,name,text,trans
+1027001001010010,羽那,"プロデューサー、
+この辺でおすすめの散歩コースとかってある？","Producer, do you have any recommendations for 
+routes to walk?"
+1027001001010020,羽那,"あたし、お休みの日に
+いろんなところを歩いてるから","On my days off, I like to go on walks a lot."
+1027001001010030,羽那,プロデューサーの話も聞けたらなーって思って──！,"So I was wondering if you happened to have any 
+ideas, Producer──!"
+0000000000000000,プロデューサー,散歩コースか……,Routes for walking...
+select,,"今度一緒に
+歩いてみるか？","Shall we go on 
+a walk together
+next time?"
+select,,"えーと……
+うーん……","Erm...
+Uhm..."
+select,,"近くの公園の隣の
+道を渡って……","Across the road
+is a nearby park..."
+1027001001010040,羽那,"──あ
+……ふふっ","──Ah.
+......Fufu."
+1027001001010050,羽那,"もーっ
+あたしから誘おうと思ってたのに──！","Jeez!
+I was planning to ask you out first──!"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001001010060,羽那,"あはっ、ごめん
+すっごく考えてもらっちゃった","Aha, sorry.
+I must've made you think about it."
+1027001001010070,羽那,特になかったら大丈夫だよ？,"It's fine if you have nothing particular in mind, okay?"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001001010080,羽那,あはっ、全然わかんない,"Aha, I had no idea."
+1027001001010090,羽那,"でも、ありがとう
+今度探してみるねー","But thank you.
+I'll look for it next timeー"
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100101.json,
+Translator,Burbur,

@@ -1,6 +1,8 @@
 id,name,text,trans
 4010001000220010,智代子,"見ててくださいねプロデューサーさん！
-今日までのレッスンの成果、出しきってきますから！",Please watch me Producer-san! I'll be showing off the results of my hard work up until now!
+今日までのレッスンの成果、出しきってきますから！","Please watch me, Producer-san!
+I'll be showing off the results of my hard work up
+until now!"
 0000000000000,プロデューサー,（智代子の気持ちを、後押ししてやりたいな……）,(I want to support Chiyoko's feelings...)
 select,,"チョコアイドルの
 全力を見せてくれ","Show me all of the
@@ -11,13 +13,16 @@ select,,"レッスン以上の
 力を見せてみろ","Show me more than
 you did in the lessons."
 4010001000220020,智代子,"了解です！　今日は『チョコっと』なんて言わないですよ、
-今できること、全部やっちゃうので！","Roger that! I won't be bite-sized today, because I'll be giving it my all!"
+今できること、全部やっちゃうので！","Roger that! I won't be bite-sized today, because
+I'll be giving it my all!"
 0000000000000,プロデューサー,（よし、モチベーションはバッチリだな！）,"(Alright, her motivation is spot-on!)"
 4010001000220030,智代子,"はい！　プロデューサーさんと積み重ねてきたもの、
-ステージで見せてきちゃいますね！","Yes! Everything I've built up with Producer-san, I'll show it on the stage!"
+ステージで見せてきちゃいますね！","Yes! Everything I've built up with Producer-san,
+I'll show it on the stage!"
 0000000000000,プロデューサー,（これなら大丈夫だな）,(This will go fine.)
 4010001000220040,智代子,"本番でひときわ輝いてこそ、ってことですか……！
-や、やってみます！",Is that what they mean by truly shining on stage...!? I-I'll try it!
+や、やってみます！","Is that what they mean by truly shining on stage...!?
+I-I'll try it!"
 0000000000000,プロデューサー,（プレッシャーをかけてしまったか……）,(Did I raise the pressure...?)
 info,produce_communication_cheers/401000100022.json,
 Translator,Batsu,

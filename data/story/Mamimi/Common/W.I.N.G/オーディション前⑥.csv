@@ -1,22 +1,27 @@
 id,name,text,trans
 4005001000230010,摩美々,"今日のオーディションってー、結構規模が大きいですねー
-……まぁ、なんとかなるとは思いますケド","About today's auditionー it's pretty massive, isn't it...ー well, at least that's what I think."
+……まぁ、なんとかなるとは思いますケド","About today's audition～ it's pretty massive, isn't
+it...～ Well, at least that's what I think."
 0000000000000,プロデューサー,"（……少し不安そうだな
-摩美々を元気づけるには……）",(...she seems a little worried. I have to cheer her up...)
+摩美々を元気づけるには……）",(...She seems a little worried. I have to cheer her up...)
 select,,摩美々を信じてる,I believe in you.
 select,,油断は禁物だ！,"Don't let your
 guard down!"
 select,,何事も経験だ,"Everything is
 an experience."
 4005001000230020,摩美々,"ストレートすぎませんかぁ。でもー……
-そんな顔で言われちゃったら、しょうがないですねー","Aren't you too straight-forward. Butー... if you say it with that face, I suppose it can't be helpedー"
-0000000000000,プロデューサー,（心からそう思ってる……！　頑張れ摩美々！）,"(I believe from the bottom of my heart...! Good luck, Mamimi!)"
+そんな顔で言われちゃったら、しょうがないですねー","Aren't you too straightforward. But～...
+if you say it with that face, I suppose it can't
+be helped～"
+0000000000000,プロデューサー,（心からそう思ってる……！　頑張れ摩美々！）,"(I believe from the bottom of my heart...!
+Good luck, Mamimi!)"
 4005001000230030,摩美々,"ふふー、プロデューサーはいつまでも心配性ですねー
-わかりましたぁ","Fufuー you're always nervous, huhー I understand."
+わかりましたぁ","Fufu～ you're always nervous, huhー I understand."
 0000000000000,プロデューサー,"（いい顔で返事をしてくれたな
 大丈夫そうだ）",(She responded with a nice expression. She'll be okay.)
 4005001000230040,摩美々,"そうですかぁ……
-プロデューサーって、なんだか学校の先生みたいですねー","Oh yeah...? Producer, you're kind of like a school teacherー"
+プロデューサーって、なんだか学校の先生みたいですねー","Oh yeah...?
+Producer, you're kind of like a school teacher～"
 0000000000000,プロデューサー,（しまった……説教っぽくなったか……）,(Shoot... was I lecturing her...?)
 info,produce_communication_cheers/400500100023.json,
 Translator,Batsu,

@@ -1,10 +1,12 @@
 id,name,text,trans
 1010001001210010,智代子,"昨日テレビで、無人島に持って行くなら何がいいかって
-やってたんです！","Yesterday on the TV, they asked what you would bring if you went to an uninhabited island!"
+やってたんです！","Yesterday on the TV, they asked what you would
+bring if you went to an uninhabited island!"
 0000000000000,プロデューサー,智代子はチョコだろ？,"You would bring chocolate, right?"
 1010001001210020,智代子,"もちろんですよ！　ちなみにプロデューサーさんは？
 無人島にひとつだけお菓子を持って行くなら何にします？","Of course! By the way, what would you bring?
-If you had to choose one sweet to bring with you, what would it be?"
+If you had to choose one sweet to bring with you,
+what would it be?"
 0000000000000,プロデューサー,そうだなぁ……,Let's see...
 select,,甘いチョコ,Sweet chocolate.
 select,,かなり悩むな,"I feel very
@@ -17,7 +19,8 @@ a sweet?"
 Producer, you get it!"
 1010001001210040,智代子,"甘いし美味しいし、万能の食べ物なんですよ
 無人島生活でも役立つこと間違いなしです！","It's sweet and delicious, an all-purpose food!
-There's no mistake that it'd be useful for life on an uninhabited island!"
+There's no mistake that it'd be useful for life on an
+uninhabited island!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1010001001210050,智代子,え？　あれ？　プロデューサーさん？,Eh? Huh? Producer?
 1010001001210060,智代子,"ひとつだけなら決まってるじゃないですか！

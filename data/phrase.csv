@@ -1340,7 +1340,7 @@ reporterEvent.eventEndCutIn.failure,うちの記事のせいでアイドルの�
 reporterEvent.eventEndCutIn.success,素敵なお話をありがとうございました！\nこれからのご活躍も楽しみにしております──！,Thanks for your wonderful story!\nWe look forward to your success in the future!
 reporterEvent.goodReporter,敏腕通信社『週刊イチオシ！』編集部の善村 良子です！\n%{name}様の魅力を伝えられるように努めます！,This is Ryoko Yoshimura from Weekly Recommended's\neditorial department! I think we conveyed\nMs. %{name}'s charm well!
 reporterEvent.incomingMail,『%{name}様のご活躍を拝見し、\n是非とも、お話を伺いたいと────────』,"""I've been watching Ms. %{name}'s\naccomplishments, and would love to interview\nthem──"""
-reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記事にしてもらおうか？,"Alright! Well then,\nwhat kind of article should we do?"
+reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記事にしてもらおうか？,"Alright!\nWell then, what kind of article should we do?"
 reporterEvent.speaker.badReporter,悪徳記者,Corrupt Reporter
 reporterEvent.speaker.goodReporter,敏腕記者,Skillful Reporter
 staffAssistEvent.eventDetailTitle,はづきさんアシスト中,Hazuki Assist
@@ -1748,7 +1748,7 @@ filter.categories.business,営業先,Job
 filter.categories.proficiency,熟練度,Proficiency
 filter.categories.advantage,アドバンテージ,Advantage
 filter.categories.produceType,育成プロデュースシナリオ,Produce Scenario
-filter.cautions.proficiency,Landing Point編の専用パラメータです,For Landing Point only
+filter.cautions.proficiency,Landing Point編の専用パラメータです,A parameter used in Landing Point mode.
 filter.cautions.advantage,チェックした条件をすべて満たすアドバンテージが絞り込まれます,Advantages that match all filters are shown.
 announce.personal,お知らせ,Notice
 announce.noticeLabel.personal,個別のお知らせ,Individual Notice
@@ -1975,9 +1975,9 @@ gasha.freeOnceADayBalloonText,1日1回無料,Free 1/Day
 filter.categories.individuality,ノウハウ,Know-How
 filter.categories.specialProduceType,特化プロデュース,Special Produce
 filter.categories.produceDeck,編成中のアイドル,Idol in Setup
-filter.cautions.individuality,チェックした条件をすべて満たすノウハウが絞り込まれます,Know-How will be narrowed down to match checked conditions
-filter.cautions.produceDeck,現在選択中の編成に含まれるアイドルが絞り込まれます,Idols in the setup are currently narrowed down
-filter.emptyKnowHowBookMessage,該当するノウハウブックがありません,There are no corresponding Know-How books
+filter.cautions.individuality,チェックした条件をすべて満たすノウハウが絞り込まれます,Know-How will be narrowed down to match checked conditions.
+filter.cautions.produceDeck,現在選択中の編成に含まれるアイドルが絞り込まれます,Idols in the setup are currently narrowed down.
+filter.emptyKnowHowBookMessage,該当するノウハウブックがありません,There are no corresponding Know-How books.
 specialAnnounce.vote.confirmTitle,投票確認,Confirm Vote
 specialAnnounce.vote.resultTitle,投票完了,Vote Complete
 specialAnnounce.vote.resultMessage,%{voteTarget}\n%{contentName}\nに投票しました,Voted for\n%{voteTarget}\n%{contentName}
@@ -2261,7 +2261,7 @@ shop.monthlyPassport.dailyRewardPop.count,%{count}回目,
 shop.monthlyPassport.dailyRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewels
 stepCommunicationReleaseDialog.title,S.T.E.P.編のコミュ解放,S.T.E.P. Commu Unlocked
 stepCommunicationReleaseDialog.message,新たなS.T.E.P.編のコミュが解放されました！,A new S.T.E.P. commu has been unlocked!
-stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,You can now view the S.T.E.P. commu in your Album.
+stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで読む事ができます,You can now view the\nS.T.E.P. commu in your Album.
 workActivityTalkAndCommu.categories.notCleared,未CLEAR,Not Cleared
 producerDesk.costume.costumeName,%{costumeName}の衣装,%{costumeName}'s outfit
 producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,%{anotherName}\n%{idolName}'s outfit

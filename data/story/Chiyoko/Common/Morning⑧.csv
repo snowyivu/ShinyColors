@@ -4,8 +4,9 @@ id,name,text,trans
 I need your advice for something..."
 0000000000000,プロデューサー,どうしたんだ？　悩みごとか？,What is it? Is something bothering you?
 1010001000810020,智代子,"今練習してるダンス、難しくて詰まっちゃってるんです
-どうしたら上手くいくかなーって……","The dance I'm practicing now is hard, and I feel like I'm at a loss.
-I was wondering what I should do to improve..."
+どうしたら上手くいくかなーって……","The dance I'm practicing now is hard, and I feel like
+I'm at a loss. I was wondering what I should do to
+improve..."
 0000000000000,プロデューサー,そういうことか……それなら,So that's what it is... If that's the case...
 select,,ご褒美を用意するとか,"Set something like
 a prize for yourself."
@@ -16,18 +17,20 @@ select,,まず、楽しむことだ,"Having fun comes
 first."
 1010001000810030,智代子,ご褒美！　それはたしかに、やる気が湧いてきますね！,A prize! I'm sure that will motivate me!
 1010001000810040,智代子,"何にしようかな～！　チョコでしょ、
-新作のコンビニお菓子でしょ、美味しいお昼ご飯も……！","I wonder what it should be! Maybe chocolate,
-or a new sweet from the convenience store, or a yummy lunch...!"
+新作のコンビニお菓子でしょ、美味しいお昼ご飯も……！","I wonder what it should be! Maybe chocolate, or a new
+sweet from the convenience store, or a yummy
+lunch...!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1010001000810050,智代子,え！？　プロデューサーさんも一緒にですか！？,What?! You'll practice with me?!
 1010001000810060,智代子,"いいですねっ、そしたら楽しくレッスンができそうです！
-……あ、今から撤回しちゃダメですよ？","That sounds nice. That seems would make lessons fun!
-...Ah, you can't back out now, you know?"
+……あ、今から撤回しちゃダメですよ？","That sounds nice. That seems would make lessons
+fun! ...Ah, you can't back out now, you know?"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1010001000810070,智代子,"楽しむこと……。そうですよね……！
 暗くなってたらチョコアイドルらしくないですもんね","Having fun... That's right...!
 A chocolate idol shouldn't be acting depressed."
-1010001000810080,智代子,間違えちゃっても楽しめるように、頑張ってみます！,"I'll try doing my best so that even if I make a mistake, I'll still have fun!"
+1010001000810080,智代子,間違えちゃっても楽しめるように、頑張ってみます！,"I'll try doing my best so that even if I make a mistake,
+I'll still have fun!"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101000100081.json,
 Translator,,

@@ -1,0 +1,51 @@
+id,name,text,trans
+1014002010010,甘奈,"──コーヒー、お待たせしました☆
+ブラックで良いんだよねー？","Thanks for waiting, here's your coffee☆
+You're okay with black, rightー?"
+0000000000000,プロデューサー,"ああ、ありがとう
+悪いな……資料を届けに来ただけなのに","Yeah, thank you. Sorry for the trouble, I was just
+planning on dropping off these documents...
+I hope I'm not imposing."
+1014002010020,甘奈,"ううん、わざわざ来てくれたんだもん
+玄関で済ますなんてできないよー","No, it's really alright. Since you came all the way here, 
+I can't just let you stay at the entranceー."
+1014002010030,甘奈,"あっ、でも忙しいなら、
+本当に無理しなくていいからね……？","Ah, but if you're really busy, it's okay if you don't
+stay long, alright...?"
+0000000000000,プロデューサー,"はは、今日は大丈夫だ
+じゃあ……ありがたくいただくよ","Haha, I think I'm fine today. 
+Well then... I'll take my time with this cup."
+1014002010040,甘奈,"どうぞ！　召し上がれー
+美味しく淹れられてるかな？","Alright! Enjoy— 
+Do you think I brewed it well this time?"
+0000000000000,プロデューサー,…………ああ、美味しい,"......Yeah, this is delicious."
+1014002010050,甘奈,よかったぁ☆　えへへっ……,Glad you liked it ☆ Ehehe...
+1014002010060,甘奈,"なんかプロデューサーさんが、
+うちにいるのって不思議な感じだね",It feels a bit odd having Producer-san here at home...
+1014002010070,甘奈,……嬉しいかも☆,"...But in a nice way, I guess ☆"
+1014002010080,甘奈,"──あっ、そうだ！
+プロデューサーさんに見せたい写真があったの！","—Ah, right! I have a photo I wanted to show you,
+Producer-san!"
+1014002010090,甘奈,"小さい頃の甜花ちゃんと甘奈が、
+お遊戯会でね、一緒に歌って踊った時の……ほらこれ！","It's of Tenka-chan and me when we were little kids,
+singing and dancing together at a kindergarten 
+event... Here, take a look!"
+0000000000000,プロデューサー,"お、ふたりとも可愛い服を着て……
+はは、この時からアイドルみたいだな","Wow, you two were wearing such cute clothes...
+Haha, it looks like you both were destined to be idols
+even back then."
+1014002010100,甘奈,"でしょ！　やっぱりそう思うでしょー！
+だから、見せたいなって思ってたんだ","Exactly! I had a feeling you'd think that too—!
+So I really wanted to show you this photo."
+1014002010130,甘奈,"えへへっ……この時に比べたら、
+今の甘奈、ちょっとは成長できたかな……？","Ehehe... If we compare me to this Amana in the photo, 
+I think I've improved a little, don't you think...?"
+1014002010140,甘奈,"あっ、でも変わってないとこもあるかも
+癖とか、苦手な食べ物とか……あと──","Ah, but I think some things haven't changed at all.
+My mannerisms, the foods I didn't like, and—"
+1014002010150,甘奈,"甘奈の大好きとか……この時からずーっと……
+なーんにも変わってないんだなーって……","Even the things I'm fond of... They all seem to have
+stayed the same... It feels like nothing has really
+changed..."
+info,produce_events/101400211.json,
+Translator,Yuzukicchi,

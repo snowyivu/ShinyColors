@@ -2694,6 +2694,7 @@ images/event/bg/00197.jpg,3
 images/event/bg/00198.jpg,3
 images/event/bg/00225.jpg,3
 images/event/bg/00277.jpg,3
+images/event/bg/00305.jpg,3
 images/event/bg/00313.jpg,4
 images/event/bg/00315.jpg,3
 images/event/bg/00317.jpg,3
@@ -2706,12 +2707,15 @@ images/event/bg/00407.jpg,2
 images/event/bg/00432.jpg,2
 images/event/bg/00439.jpg,2
 images/event/bg/00451.jpg,2
+images/event/bg/00454.jpg,2
 images/event/bg/00465.jpg,2
 images/event/bg/00484.jpg,2
 images/event/bg/00509.jpg,2
 images/event/bg/00531.jpg,2
 images/event/bg/00544.jpg,2
+images/event/bg/00561.jpg,2
 images/event/bg/00575.jpg,2
+images/event/bg/00576.jpg,2
 images/event/bg/00577.jpg,2
 images/event/bg/00583.jpg,2
 images/event/bg/00634.jpg,2
@@ -3072,7 +3076,7 @@ spine/idols/cb_costume/1930230010/data.json_atlas_page_data.png,3
 spine/idols/cb_costume/1940220010/data.json_atlas_page_data.png,3
 spine/idols/cb_costume/3000180070/data.json_atlas_page_data.png,3
 spine/idols/stand/1030040030/data.json_atlas_page_data.png,3
-spine/idols/stand/1030120010/data.json_atlas_page_data.png,8
+spine/idols/stand/1030120010/data.json_atlas_page_data.png,9
 spine/idols/stand/1030160040/data.json_atlas_page_data.png,3
 spine/idols/stand/1030190010/data.json_atlas_page_data.png,3
 spine/idols/stand/1030250010/data.json_atlas_page_data.png,1
@@ -3093,7 +3097,7 @@ spine/idols/stand/1930220010/data.json_atlas_page_data.png,3
 spine/idols/stand/1930230010/data.json_atlas_page_data.png,3
 spine/idols/stand/1940210010/data.json_atlas_page_data.png,3
 spine/idols/stand/1940220010/data.json_atlas_page_data.png,3
-spine/idols/stand/3000010030/data.json_atlas_page_data.png,8
+spine/idols/stand/3000010030/data.json_atlas_page_data.png,9
 spine/idols/stand/3000020030/data.json_atlas_page_data.png,8
 spine/idols/stand/3000030030/data.json_atlas_page_data.png,9
 spine/idols/stand/3000050250/data.json_atlas_page_data.png,3

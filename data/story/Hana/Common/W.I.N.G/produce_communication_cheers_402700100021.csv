@@ -1,0 +1,24 @@
+id,name,text,trans
+4027001000210010,羽那,"プロデューサー
+手、貸してくれる？","Producer, can you lend me your hand?"
+0000000000000000,プロデューサー,（……？）,(......?)
+select,,おまじないか？,"Casting a
+spell?"
+select,,どうしたんだ？,"What's the
+matter?"
+select,,えっと……,Uhm...
+4027001000210020,羽那,"うんっ
+プロデューサーのパワーをもらおうと思って──！","Yeah. I thought I would get some power from you, 
+Producer."
+0000000000000000,プロデューサー,（──よし、俺も精一杯のパワーを送ろう！）,"(──Alright, I'll send you all my power!)"
+4027001000210030,羽那,ふふっ、秘密──！,"Fufu, a secret!"
+0000000000000000,プロデューサー,"（……？
+まぁ、羽那のためになるのならいいか）","(......? Well, if it's for Hana's sake, I'm sure it's fine.)"
+4027001000210040,羽那,"──あ、ごめんね
+もう大丈夫だよ","──Ah, I'm sorry.
+It's alright now."
+0000000000000000,プロデューサー,"（あぁ、すまん……！
+迷惑だったわけじゃないんだ……！）","(Ah, I'm so sorry...!
+I didn't mean to bother you...!)"
+info,produce_communication_cheers/402700100021.json,
+Translator,Burbur,

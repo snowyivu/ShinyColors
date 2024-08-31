@@ -1,7 +1,7 @@
 id,name,text,trans
 1010001000210010,智代子,"園田智代子です！　……違うかなぁ……？
-みんなこんにちは！　えへへ、チョコですっ！　……うーん","I am Chiyoko Sonoda! ...Maybe I should try something else...?
-Hello eveyone! Ehehe, I'm Choco! ...Hmmm."
+みんなこんにちは！　えへへ、チョコですっ！　……うーん","I am Chiyoko Sonoda! ...Maybe I should try something
+else...? Hello eveyone! Ehehe, I'm Choco! ...Hmmm."
 0000000000000,プロデューサー,鏡とにらめっこして、どうしたんだ？,Why are you staring at yourself in the mirror?
 1010001000210020,智代子,"あっ、プロデューサーさん！　おはようございます！
 挨拶と笑顔の練習をしていました！","Ah, Producer! Good morning!
@@ -11,11 +11,14 @@ select,,いい笑顔だったよ,"That was a great
 smile!"
 select,,いい心がけだ,"You have good
 intentions."
-select,,もっと口角を上げて,"Raise the corners of
-your mouth more."
+select,,もっと口角を上げて,"Raise the
+corners of your
+mouth more."
 1010001000210030,智代子,本当ですか！？　わーい！　練習の成果ですねっ,Really?! Yay! My practice was a success.
 1010001000210040,智代子,"でもまだ油断しませんよ、最高の笑顔を追求していきます！
-チョコアイドルは進化し続けるアイドルですから！","But I can't be careless yet. I'm going for the best smile ever! A chocolate idol is an idol that's always evolving, after all!"
+チョコアイドルは進化し続けるアイドルですから！","But I can't be careless yet. I'm going for the best
+smile ever! A chocolate idol is an idol that's always
+evolving, after all!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1010001000210050,智代子,"えへへ、ありがとうございます！
 きっとこれ、ちりも積もればっていうヤツですよね！","Ehehe, thank you!

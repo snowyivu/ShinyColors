@@ -1,0 +1,111 @@
+id,name,text,trans
+0000000000000,プロデューサー,……,......
+2014009030010,甘奈,"測り終わったみたいだね……
+ちょっと見せて","It looks like the thermometer is done. 
+Let me check it for a moment."
+2014009030020,甘奈,うーん……なかなか下がらないね……,"Hmm... It seems like your temperature hasn't come
+down much..."
+0000000000000,プロデューサー,早くよくなるといいんだがな……,It would be great if I could get better soon...
+0000000000000,プロデューサー,"甘奈、看病してくれてありがとう
+本当に助かるよ","Thanks a lot for taking care of me, Amana. 
+It really means a lot."
+2014009030030,甘奈,ううん、気にしないで,No need to mention it—it's alright!
+2014009030040,甘奈,甘奈、今日はちょうど出番ないし！,"It's really okay, and it's alright since I don't have a
+shoot today!"
+0000000000000,プロデューサー,"そっか、オフだったよな……
+すまない","Right, it's your day off today. 
+I'm sorry you have to deal with this on your day off."
+2014009030050,甘奈,もう、謝らなくていいからっ,"Come on, you really don't need to apologize for that!"
+2014009030060,甘奈,"こういう時は遠慮しちゃダメだよ
+ちゃーんと甘えるの！","When it comes to times like this, you shouldn't
+hesitate—just let yourself be pampered!"
+2014009030070,甘奈,本当になんでも言ってくれていいからね！,It's really okay to ask if you need anything!
+0000000000000,プロデューサー,"ああ……
+じゃあ水をもらってもいいかな","Ah... If that's okay, could you please get me a glass
+of water?"
+2014009030080,甘奈,うん！,Yup!
+2014009030090,甘奈,はい！　どーぞ,"Alright, here you go!"
+0000000000000,プロデューサー,ありがとう──,Thank you—
+0000000000000,プロデューサー,──げほっ！,—Ack!
+2014009030100,甘奈,大丈夫！？,Are you okay!?
+2014009030110,甘奈,……,......
+0000000000000,プロデューサー,"変なところに入ったみたいだ……
+背中、さすってくれてありがとう、だいぶ楽になったよ","It felt like the water went down the wrong way... 
+Thanks for rubbing my back, it feels much 
+better now."
+2014009030120,甘奈,よかった……,Thank goodness...
+2014009030130,甘奈,"！
+プロデューサーさん、お腹減った？","!
+Producer-san, aren't you getting hungry?"
+2014009030140,甘奈,甘奈、何か買ってくるね！,I can go out and buy something for you!
+0000000000000,プロデューサー,"ああ、すまん……
+何から何まで……","Thank you, though I'm sorry... 
+I feel bad having you buy something..."
+2014009030150,甘奈,"ううん、お薬も飲まなくちゃだし！
+何がいい？","No, it's really alright. You need to eat before taking
+the medicine. What would you like to eat?"
+select,,"おかゆを
+頼んでいいかな",Porridge would be nice.
+select,,"ゼリーを
+お願いするよ",Jelly would be nice.
+select,,揚げ物を……,Maybe some fried food...
+2014009030160,甘奈,うん！　任せてっ☆,Alright! Leave it to me☆
+2014009030170,甘奈,"おかゆなら作る方が早いから
+そこのキッチン借りるね！","I think if it's porridge, it would be quicker for me to
+prepare it myself. I'll be borrowing the kitchen then!"
+2014009030180,甘奈,はい、お待ちどうさま！,"Here you go, thanks for waiting!"
+0000000000000,プロデューサー,"ありがとう、さすが甘奈だな
+美味しそうだ","Thank you! 
+As expected of Amana, it looks delicious."
+2014009030190,甘奈,"大げさだよ～
+このくらいなら大したことないから","Come on, you're praising me too much～
+Something like this isn't that big of a deal."
+2014009030200,甘奈,じゃ、その……,Well then...
+2014009030210,甘奈,口、開けて……？,Can you open your mouth wide...?
+0000000000000,プロデューサー,"え？　
+ああ、大丈夫だよ、自分で食べられるから……","Eh? Oh, no, it's alright. 
+I can eat this by myself..."
+2014009030220,甘奈,"さっき水飲む時、手震えてたよ？
+こぼしてやけどしちゃったら大変だし……","But your hand was shaking earlier while drinking 
+water, wasn't it? It'd be troublesome if the porridge
+spills and you get hurt..."
+2014009030230,甘奈,"だから……
+はい！　あーん！","That's why... 
+Here, open wide!"
+2014009030240,甘奈,"はーい
+ちょっと行ってくるね！","Alright—
+I'll be back soon!"
+2014009030250,甘奈,プロデューサーさん！　お待たせ──,Producer-san! Thanks for waiti—
+0000000000000,プロデューサー,……,......
+2014009030260,甘奈,……眠ってる……,...You've fallen asleep...
+2014009030270,甘奈,"……早くよくなってね……
+甘奈の大切な──","...Please get well soon...
+My dearest—"
+0000000000000,プロデューサー,──ん……,—Hmm...
+2014009030280,甘奈,！,!
+0000000000000,プロデューサー,……寝ちゃってたのか……,...I guess I fell asleep back there...
+2014009030290,甘奈,"プロデューサーさん
+お、おはよう……！","Producer-san, G-Good morning...!"
+0000000000000,プロデューサー,おはよう……,Good morning...
+0000000000000,プロデューサー,"甘奈に買いに行かせておいて
+自分は寝ちゃってたのか……すまん","I'm sorry for having you go out to buy something for
+me, only for me to fall asleep..."
+2014009030300,甘奈,ううん！　気にしないで！,It's alright! Don't worry about it!
+2014009030310,甘奈,"……プロデューサーさん
+もしかして聞いてた……？","...Producer-san... 
+Did you hear what I said earlier...?"
+0000000000000,プロデューサー,ん？　なんのことだ？,Hm? Did you say something earlier?
+2014009030320,甘奈,ううん！　なんでもないよ！,N-No! I didn’t say anything!
+2014009030330,甘奈,うーん……,Hmm...
+2014009030340,甘奈,食べられるかな……？,I wonder if you can eat that...?
+2014009030350,甘奈,気持ち悪くなっちゃわない……？,Wouldn't fried food make you feel worse...?
+0000000000000,プロデューサー,食欲はあるんだけどな……,"I do have the appetite for it right now, though."
+2014009030360,甘奈,……,......
+0000000000000,プロデューサー,"やっぱりやめておくよ
+確かにそうなりそうな気がしてきた","On second thought, maybe I'll pass on the fried food. 
+I have a feeling it might upset my stomach..."
+2014009030370,甘奈,消化にいいもの作るね,"I'll make something healthier for now. "
+2014009030380,甘奈,揚げ物は治ったら作ってあげるっ,"Once you're feeling better, I'll cook up some fried 
+food for you."
+info,produce_events/201400903.json,
+Translator,Yuzukicchi,

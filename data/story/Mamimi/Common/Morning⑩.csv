@@ -1,26 +1,28 @@
 id,name,text,trans
 0000000000000,プロデューサー,それ、朝ご飯か？,Is that breakfast?
 1005001001010010,摩美々,"そうですよー
-美味しそうなサンドイッチを見かけたので、ついー",It sure isー I happened to see a tasty sandwich.
-1005001001010020,摩美々,……あ、手にソースがついちゃいましたぁ,"...ah, I got some sauce on my hand."
+美味しそうなサンドイッチを見かけたので、ついー",It sure is～ I happened to see a tasty sandwich.
+1005001001010020,摩美々,……あ、手にソースがついちゃいましたぁ,"...Ah, I got some sauce on my hand."
 select,,水道はすぐそこだぞ,The sink is close.
 select,,"ウェットティッシュが
 あるぞ",Here's a wipe.
 select,,服にじゃないのか,"It's not on your
 clothes, right?"
 1005001001010030,摩美々,"ソースもすっごく美味しいのにー、
-もったいないですー",The sauce is so tasty thoughー it'd be a wasteー
+もったいないですー","The sauce is so tasty though～
+It'd be a waste～"
 1005001001010040,摩美々,"あ。プロデューサー、味見してみますかぁ？
 ……ふふー。冗談ですよー","Ah. Producer, did you want a taste?
-...heheー I'm jokingー"
+...Hehe～ I'm joking～"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1005001001010050,摩美々,プロデューサーは優しいですねー,Producer's so kindー
 1005001001010060,摩美々,"助かりましたぁ
-すぐに渡してくれるなんて、準備いいんですねー",I've been rescued. You were ready to bring one over right awayー
+すぐに渡してくれるなんて、準備いいんですねー","I've been rescued.
+You were ready to bring one over right away～"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
-1005001001010070,摩美々,えー、流石にそこまで子どもじゃないんですケド,Ehー well of course I'm not that much of a child.
+1005001001010070,摩美々,えー、流石にそこまで子どもじゃないんですケド,"Eh～ Well, of course I'm not that much of a child."
 1005001001010080,摩美々,"そういうこと言うのはぁ、
-ちょっと失礼だと思いますー","When you say that sort of thing, I think it's a little bit rudeー"
+ちょっと失礼だと思いますー","When you say that sort of thing, I think it's a little bit rude～"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
 info,produce_communications/100500100101.json,
 Translator,Batsu,

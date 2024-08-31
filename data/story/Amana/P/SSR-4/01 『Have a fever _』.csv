@@ -1,0 +1,103 @@
+id,name,text,trans
+0000000000000,スタッフ,"１日目の撮影はこれで終了でーす！
+お疲れ様でしたー！","This concludes the first day of filming. 
+Thank you for all your hard workー!"
+2014009010010,甘奈,お疲れ様でした～！,Thank you for your hard work～！
+0000000000000,プロデューサー,甘奈、初めてのドラマの撮影どうだった？,"How was your experience during your first
+drama shoot, Amana?"
+2014009010020,甘奈,あ、プロデューサーさん、お疲れ様！,"Ah, Producer-san, thank you for your hard 
+work today!"
+2014009010030,甘奈,みんな優しいし、いいお仕事ができそう☆,"Everyone was really nice on set, and I think we did a 
+great job☆!"
+0000000000000,プロデューサー,それはよかった,That's great to hear!
+0000000000000,プロデューサー,"けど、撮影期間長いから
+頑張りすぎないようにするんだぞ","But still, the filming period is long, so try not to push 
+yourself too hard."
+0000000000000,プロデューサー,"少しでも調子が悪いと感じたら、
+すぐに言って──","If you ever feel even a bit under the weather, please 
+let me know right away."
+0000000000000,プロデューサー,──寒くなってきたな──,It's getting a bit cold he—
+0000000000000,プロデューサー,──けほっ……！,—Ack...!
+2014009010040,甘奈,"……プロデューサーさん大丈夫？
+咳してるけど……","...Producer-san, are you alright? You're coughing 
+quite a bit right now though..."
+0000000000000,プロデューサー,"朝はなんともなかったんだけどな……
+撮影中に冷えたのかも……","I felt fine this morning, but it was quite cold during 
+the shoot..."
+2014009010050,甘奈,じゃ、早く部屋に戻って──,"If that's the case, it might be best for you to take a 
+short break and wa-"
+0000000000000,プロデューサー,──ああ、あったかくするよ,"Yeah, I think I'll warm myself up a bit."
+2014009010060,甘奈,！　うん！,! Alright!
+0000000000000,プロデューサー,体調管理はしっかりしないといけないからな,I really need to take good care of my health.
+2014009010070,甘奈,"えへへ、そうだね……！
+自分は大切にしないと、だもんね","Ehehe, that's right...!
+Take care of yourself so your health will follow, okay?"
+2014009010080,甘奈,"あ、それなら
+あとでお医者さんのところにも行こ？","Ah, since we're talking about health, how about we
+visit the doctor to be safe?"
+select,,"医者
+苦手なんだよな",I'm not really a fan of doctor’s appointments.
+select,,そうだな……,Now that you've mentioned it...
+select,,"行ってくるよ
+だけど","Sure, but..."
+2014009010090,甘奈,そうなの……？,Is that so...?
+0000000000000,プロデューサー,ああ、注射とか特にダメでな,"Yeah, especially injections and stuff like that—
+I'm not really fond of them."
+2014009010100,甘奈,"針、怖いもんね
+甘奈もあんまり得意じゃないかも……","Well, needles can be pretty scary indeed.
+I'm not great with them myself either..."
+2014009010110,甘奈,……,……
+2014009010120,甘奈,あ、そうだ……！,"Ah, right...!"
+2014009010130,甘奈,"プロデューサーさん！
+甘奈、ついて行くね！","Producer-san!
+I'll accompany you then!"
+0000000000000,プロデューサー,え？,Huh?
+2014009010140,甘奈,"ちっちゃい頃
+お母さんがそばにいたら平気だったもん！","I always did well with injections when my mom was 
+with me when I was younger!"
+2014009010150,甘奈,誰かが一緒ならきっと安心じゃないかな,"I figured that having someone by your side could help 
+you feel at ease too."
+0000000000000,プロデューサー,"甘奈、ありがとう
+でも大丈夫だ。我慢はできるから","Thank you for the kind offer, Amana. 
+But I think I can handle it. I believe I can manage 
+the pain."
+0000000000000,プロデューサー,このあとちゃんと行ってくるよ,I'll drop by the doctor's after a bit.
+0000000000000,プロデューサー,"確かにちゃんと診てもらった方がよさそうだ
+悪化したらまずいし","I think it's best to get a proper checkup. 
+It would be bad if it got worse."
+2014009010160,甘奈,うん、それがいいよ！,"Yeah, that sounds like the best choice!"
+0000000000000,プロデューサー,……けほっ……！,—Ack...!
+2014009010170,甘奈,やっぱり風邪っぽいね……,It really seems like the cold is making you feel bad...
+2014009010180,甘奈,！,!
+2014009010190,甘奈,プロデューサーさん、ちょっとしゃがんでくれる？,"Producer-san, could you squat down for a moment?"
+0000000000000,プロデューサー,？　ああ……,"Hm? Okay...
+"
+2014009010200,甘奈,"甘奈のコートだから、袖は通せないと思うけど
+……少しでもあったかくした方がいいかなって……","This is my coat, so your arms might not fit in the
+sleeves... But I thought it could still help you stay 
+a bit warmer..."
+0000000000000,プロデューサー,"ありがとう、甘奈
+ちょっとだけ借りるな","Thank you, Amana. 
+I'll be borrowing it for a bit then."
+0000000000000,プロデューサー,おお、すごくあったかいな,"Ah, it is really warm..."
+2014009010210,甘奈,"えへへ、よかった
+明日からはちゃんとあったかくして外出ようね☆","Ehehe, I'm glad it's keeping you warm. 
+Make sure to dress warmly when you head out 
+tomorrow, okay☆?"
+0000000000000,プロデューサー,"甘奈も予防のために
+うがいとかしてくれ","You should also take some precautions, Amana. 
+Like gargling to stay safe in this weather."
+2014009010220,甘奈,うん、そうするね！,"Alright, I'll do that!"
+2014009010230,甘奈,だ、け、ど！,"But still, you know!"
+0000000000000,プロデューサー,ど、どうした？,W-What's wrong?
+2014009010240,甘奈,こういう時くらいは自分のことだけ気にしちゃっていいの！,"When it comes to times like these, it's really alright
+to prioritize yourself rather than worry about
+others!"
+2014009010250,甘奈,"甘奈のことは気にしない！
+かえって疲れちゃうでしょ？","Don't worry too much about me, okay? 
+You'll just tire yourself out if you stress too much."
+0000000000000,プロデューサー,けど、やっぱり気になっちゃうしなぁ,"Still, I am really concerned about you..."
+2014009010260,甘奈,それよりも、今は自分の体調管理だよ！,"Instead of worrying about me, focus on taking care 
+of yourself, okay?"
+info,produce_events/201400901.json,
+Translator,Yuzukicchi,

@@ -1,0 +1,35 @@
+id,name,text,trans
+1027001001210010,羽那,"ツイスタの投稿、
+頑張りたいなーって思ってるんだけど……",I'm trying to figure out how to post on Twesta but...
+1027001001210020,羽那,"あはっ、自分の写真だから
+何が違うのかわかんなくなっちゃった","Aha, looks like it's my own photos.
+I don't know the difference anymore."
+1027001001210030,羽那,"プロデューサーは
+どれを載せるのがいいと思う？","Which one do you think I should post, Producer?"
+0000000000000000,プロデューサー,（羽那の写真か……）,(Pictures of Hana...)
+select,,これが一番いいな,"This one's
+the best."
+select,,難しいな……,Hard to say...
+select,,全部可愛いぞ,"They're all
+lovely."
+1027001001210040,羽那,わーっ、本当？,"Waa, really?"
+1027001001210050,羽那,"ふふっ、ありがとう──！
+それじゃあ、これにするねーっ","Fufu, thank youー!
+Then I'll go ahead and post this oneー"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001001210060,羽那,"うーん……
+だよねー","Hmm...
+It sure isー"
+1027001001210070,羽那,"ありがとう
+やっぱり自分で考えてみるね","Thank you.
+I guess I'll try to figure out on my own."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001001210080,羽那,"……
+それって──","......
+That's notー"
+1027001001210090,羽那,"適当に言ってない？　もーっ……
+そうやって機嫌取れると思わないでほしいなー","Are you just saying something? Jeez...
+I hope you don't think you'll appease someone with that."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100121.json,
+Translator,Burbur,

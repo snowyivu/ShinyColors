@@ -1,0 +1,36 @@
+id,name,text,trans
+1027001000510010,羽那,"……あ、プロデューサー
+おはようー","... Ah, Producer.
+Good morning."
+0000000000000000,プロデューサー,"おはよう、羽那
+なんだか眠そうだな？","Good morning, Hana.
+You look kind of sleepy, don't you?"
+1027001000510020,羽那,"……うん
+レッスンの疲れがあんまり取れてなくって","... Yeah. I'm still not feeling well rested after the 
+lessons."
+0000000000000000,プロデューサー,"……！　そうなのか
+疲れを取るには──","......! I see, how about you try this to relieve your 
+fatigue?"
+select,,"ふわふわなものに
+癒されよう","Be soothed
+by fluffy things."
+select,,いっぱい寝よう,Get lots of sleep.
+select,,栄養ドリンクだ！,Drink energy drinks!
+1027001000510030,羽那,ふわふわなものって──,Fluffy things──
+1027001000510040,羽那,"ぬいぐるみとか？
+あはっ、プロデューサー、面白いね","Like a plushie?
+Aha, that's funny, Producer."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001000510050,羽那,そうだね,That's right.
+1027001000510060,羽那,"……でも、レッスンとかお仕事の都合もあるし
+難しいんだよねー","But it's difficult for me if I still have lessons and 
+other work commitmentsー"
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001000510070,羽那,"えーっ
+栄養ドリンクかー","Eh?
+Energy drinks?"
+1027001000510080,羽那,"あんまり美味しくなさそうだし
+あたしはいいやーっ","They don't look tasty to me, so I'm fine without them."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100051.json,
+Translator,Burbur,

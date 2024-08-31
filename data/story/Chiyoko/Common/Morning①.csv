@@ -2,7 +2,7 @@ id,name,text,trans
 0000000000000,プロデューサー,おはよう智代子、何書いてるんだ？,"Good morning, Chiyoko. What are you writing?"
 1010001000110010,智代子,"ひゃあっ！？
 プ、プロデューサーさん、見ちゃったんですか……！？","Wah?!
-P-Producer, you were watching...?!"
+P-Producer-san, you were watching...?!"
 1010001000110020,智代子,"……サインの練習、してたんです
 えへへ、ちょっと恥ずかしいですね","...I was practicing my autograph.
 Ehehe, this is a little embarrassing."
@@ -20,10 +20,12 @@ select,,"その前にレッスンも
 your lessons before
 you do that."
 1010001000110030,智代子,"それがなかなか難しくって！　時間がかかってもダメだし、
-雑になっちゃってもダメだし……！","It's pretty hard! I have to make sure I don't take too long, but I also have to make sure that it's not sloppy, too...!"
+雑になっちゃってもダメだし……！","It's pretty hard! I have to make sure I don't take too
+long, but I also have to make sure that it's not
+sloppy too...!"
 1010001000110040,智代子,"奥が深いんだなってひしひし感じてます……！
-もうちょっと練習してみますね！","I have a feeling deep down that autographs are really complex...!
-I'll try practicing some more!"
+もうちょっと練習してみますね！","I have a feeling deep down that autographs are really
+complex...! I'll try practicing some more!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1010001000110050,智代子,"大丈夫ですよ！　これ、アイドルについて
 勉強したこととかを書くためのノートなので！","It's alright! This notebook is for studying different
@@ -32,10 +34,12 @@ kinds of things about idols."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1010001000110070,智代子,"は、はい！　もちろん忘れてませんよ！
 まずはステージを見てくれる人を楽しませなきゃです！","Y-Yes! Of course I didn't forget that!
-I have to put making sure the people watching me on stage have fun first!"
+I have to put making sure the people watching me on
+stage have fun first!"
 1010001000110080,智代子,"ごめんなさい、ちょっと先走りすぎちゃいました
 こういうのは、やることやってからじゃないと、ですよね","Sorry, I might've gotten a little ahead of myself.
-I have to put first things first for things like this, right?"
+I have to put first things first for things like this,
+right?"
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
 info,produce_communications/101000100011.json,
 Translator,,

@@ -4,7 +4,8 @@ id,name,text,trans
 You look upset."
 1011001000810010,樹里,"ああ、プロデューサー
 今日来る時、やたらチラチラ見てくる人がいたんだよ","Hey, Producer.
-When I was on my way here, someone kept glancing over at me."
+When I was on my way here, someone kept glancing
+over at me."
 1011001000810020,樹里,ったく、いったい何なんだろうな？,"Damn it, what was their problem?"
 0000000000000,プロデューサー,チラチラ見てくる人か……,"Glancing at you, you say..."
 select,,樹里のファンかもな,Probably a fan.
@@ -16,7 +17,7 @@ select,,"樹里に
 secret admirer."
 1011001000810030,樹里,"アタシのファン！？
 ……そ、そっか、そういう可能性もあるんだよな","My fan!?
-...Th-that makes sense, it could have been."
+...Th-That makes sense, it could have been."
 1011001000810040,樹里,"へへっ。次会った時は
 ちょっとだけ愛想よくしてみっか","Hehe. If I see them again,
 guess I'll try to act more friendly."
@@ -25,8 +26,8 @@ guess I'll try to act more friendly."
 アイドルになったんだよな","Haha, well I did become an idol
 because you scouted me after all."
 1011001000810060,樹里,"でも、もし他で声がかかっても、ぜってー断るから！
-そこは安心していいぜ","But if someone else tries it, of course I'll tell them off!
-No need to worry."
+そこは安心していいぜ","But if someone else tries it, of course I'll tell them
+off! No need to worry."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1011001000810070,樹里,"バ、バカヤロー！
 そんなわけねーだろ！","Y-you bastard!

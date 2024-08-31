@@ -1,0 +1,30 @@
+id,name,text,trans
+4027001000130010,羽那,"プロデューサー
+頑張ってくるね──！","Producer, I'm leaving now
+and I'll do my beeest!"
+0000000000000000,プロデューサー,"（……うん
+羽那、普段と変わらずいい感じだな）","(... Yeah, you look great as always, Hana.)"
+select,,"しっかり
+見てるからな！","I'll be 
+watching
+closely!"
+select,,頑張れ！,Keep it up!
+select,,はは……！,Haha...!
+4027001000130020,羽那,"ふふっ、嬉しい──！　プロデューサーに
+『よかった』って言ってもらえるといいなー","Fufu, I'm glaaad! I hope that you'll say that ""I'm glad""
+ as weeell!"
+0000000000000000,プロデューサー,"（俺も、『よかった』って言えるのを
+楽しみにしてるぞ……！）","(I'm looking forward to when I can say ""I'm glad""...!)"
+4027001000130030,羽那,"うん、あたしのこと
+ちゃんと応援しててね？","Yeah, you'll be rooting for me, won't you?"
+0000000000000000,プロデューサー,"（……もちろん
+心から応援してるぞ！）","(... Of course.
+I'll be wholeheartedly supporting you!)"
+4027001000130040,羽那,"えーっ、それだけ？
+何か言ってくれないんだーっ","Eeeh, that's it?
+You didn't even say anythiiing."
+0000000000000000,プロデューサー,"（あぁ……！　上手いこと返せなくて
+申し訳ない……！）","(Aah...! I'm so sorry I couldn't think of anything to 
+respond with...!)"
+info,produce_communication_cheers/402700100013.json,
+Translator,Burbur,

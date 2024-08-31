@@ -1,0 +1,29 @@
+id,name,text,trans
+0000000000000000,プロデューサー,……羽那のチェインのアイコンのことなんだけどさ,"... Hana, about your Chain avatar."
+1027001001110010,羽那,"……？
+桃太郎だよ","......?
+It's Momotaro."
+0000000000000000,プロデューサー,……桃太郎だよな,"... Right, Momotaro."
+0000000000000000,プロデューサー,あのアイコンって──,You chose that icon because...
+select,,"……あぁ、
+岡山だからか！","It's Okayama,
+right?"
+select,,可愛いよな,It's cute.
+select,,……どうしてなんだ？,"... Why did
+you pick that?"
+0000000000000000,プロデューサー,桃太郎で有名だもんな,Okayama's famous for Momotaro.
+1027001001110020,羽那,"うんっ、そうだよ
+結構気に入ってるんだー","Yeah, that's right.
+I really like it."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1027001001110030,羽那,あはっ、そうかな,"Aha, I guess so."
+1027001001110040,羽那,"……プロデューサーがそう言うなら
+なんか可愛く思えてきたかもーっ","... If you say so, I will start to think it's cute too."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1027001001110050,羽那,え？　そんなに気になるくらい変？,Eh? Does it bother you that much?
+1027001001110060,羽那,"うーん
+変えた方がいいのかなー","Hmm.
+Maybe I should change it."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102700100111.json,
+Translator,Burbur,

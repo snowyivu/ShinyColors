@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"おーい、樹里
 そろそろ出番だぞ――って、あれ？","Heeey, Juri.
-It's almost your cue――wait, what?"
+It's almost your cue──wait, what?"
 0000000000000,プロデューサー,（いないな、どこいったんだ）,"(She's gone, where did she go?)"
 0000000000000,プロデューサー,"（……そろそろ出番だし、
 もしかして早めに待機してるかもしれないな）","(...It's almost time so
@@ -22,10 +22,12 @@ I bet right now I could even――"
 Don't start talking out of nowhere. You scared me."
 0000000000000,プロデューサー,"おっと、すまん。それに邪魔して悪かったな
 他のアイドルのステ－ジを研究してたんだろ？","Whoops, sorry. Shouldn't have interrupted like that.
-You were studying the other idols' performances, right?"
+You were studying the other idols' performances,
+right?"
 1011001050050,樹里,"研究ってほどじゃね－よ
 ただ、盗めるもんは盗んどきたいって思ってな","Study's a fancy way to put it.
-Just thought I should steal whatever I can get away with."
+Just thought I should steal whatever I can get away
+with."
 0000000000000,プロデューサー,"なるほど
 それで、成果はあったか？","I see.
 So, did you get anything out of it?"
@@ -37,7 +39,7 @@ Was something I can put into practice right away."
 I'm really happy you're improving as an idol."
 0000000000000,プロデューサー,"さ、そろそろ出番だ
 思う存分――ん？","Well, it's almost your cue.
-Don't hold anything b――Hm?"
+Don't hold anything b──Hm?"
 1011001050070,樹里,……あん？　どうした,...Huh? What's up?
 0000000000000,プロデューサー,"緊張してるのか？
 指先、震えてるぞ","Are you nervous?
@@ -68,8 +70,8 @@ Well I get that they aren't my enemies."
 This some kind of mindfulness exercise?
 Well, if you say so, I'll give it a shot."
 0000000000000,プロデューサー,"どうだ
-ステ－ジの向こうから一筋の声が聞こえてこないか","How's that?
-It's just a few voices on the other side of the stage but can you hear them?"
+ステ－ジの向こうから一筋の声が聞こえてこないか","How's that? It's just a few voices on the other side
+of the stage, but can you hear them?"
 1011001050130,樹里,"…………
 ……へへ","......
 ...Hehe."
@@ -78,53 +80,56 @@ It's just a few voices on the other side of the stage but can you hear them?"
 The fans' voices, calling my name."
 1011001050150,樹里,"なあプロデュ－サ－、
 アタシ……思い出したよ","Hey Producer,
-I...just remembered something."
+I... just remembered something."
 1011001050160,樹里,"バスケの試合中さ、
-客席の声援に元気づけられてたんだよな","During my basketball games,
-the crowd's cheering used to fire me up."
+客席の声援に元気づけられてたんだよな","During my basketball games, the crowd's cheering
+used to fire me up."
 1011001050170,樹里,"バスケやめて、ずっと忘れてた
 応援してくれる人がいたから、勝てた試合もあったってな","I haven't thought about it since I quit.
-There were even games I won because there were people rooting for me."
+There were even games I won because there were
+people rooting for me."
 1011001050180,樹里,"アタシがアイドル始めたのには色々理由があるけど、
-この声援が聞きて－ってのもあったんだ","There were all kinds of reasons I started doing this idol thing
-but one reason was that I wanted to hear these cheers."
+この声援が聞きて－ってのもあったんだ","There were all kinds of reasons I started doing this
+idol thing but one reason was that I wanted to hear
+these cheers."
 0000000000000,プロデューサー,その願い、叶ったか？,That wish came true?
 1011001050190,樹里,"ああ、ファンのために、応援してくれる人のために、
-アタシはステージに全力で立てる","Yeah, for the sake of my fans and everyone cheering out there,
-I'm going all out when I get on stage."
+アタシはステージに全力で立てる","Yeah, for the sake of my fans and everyone cheering
+out there, I'm going all out when I get on stage."
 1011001050200,樹里,じゃあ行ってくるぜ、プロデュ－サ－！,"See ya when I'm done stealing the show, Producer!"
 0000000000000,,★選択肢②【大きな舞台に立ちたかったんじゃないのか】,★選択肢②【大きな舞台に立ちたかったんじゃないのか】
 0000000000000,プロデューサー,大きな舞台に立ちたかったんじゃないのか？,Weren't you hoping for a bigger stage?
 1011001050210,樹里,"……ったく、どれだけ良く見てんだよ
-いつから気付いてたんだ？","...You got me, crazy how you notice everything like that.
-When did you figure it out?"
+いつから気付いてたんだ？","...You got me, crazy how you notice everything like
+that. When did you figure it out?"
 0000000000000,プロデューサー,"いつからだっけな
-普段のレッスンやステ－ジを見ているうちにな","Yeah, I wonder.
-It was some time during your usual lessons and performances."
+普段のレッスンやステ－ジを見ているうちにな","Yeah, I wonder. It was some time during your usual
+lessons and performances."
 1011001050220,樹里,"そっか……実はさ、アンタにスカウトされる前は、
 心にぽっかり穴が開いてるみて－だったんだ","I see... So like, back before you scouted me,
 it was like I had this gaping hole in my heart."
 1011001050230,樹里,"何をしてもさ、物足んね－し、満たされね－
-つまんね－し、わらえね－……","Whatever I did brought no satisfaction, no gratification.
-Got so bored, it stopped being funny..."
+つまんね－し、わらえね－……","Whatever I did brought no satisfaction, no
+gratification. Got so bored, it stopped being funny..."
 1011001050240,樹里,"……ずっと、探してたんだろうな
-バスケをしてた頃よりも、大きなところへ続く道を","...I was always searching for it.
-A road to someplace even greater than when I played basketball."
+バスケをしてた頃よりも、大きなところへ続く道を","...I was always searching for it. A road to some place
+even greater than when I played basketball."
 0000000000000,プロデューサー,今、樹里がいる新しい道はどうだ？,And how's the new road you've found yourself on?
 1011001050250,樹里,"アンタが連れてきたんだ、聞くまでもね－だろ
-……まぁ、想像以上だったよ","You're the one that led me here, there's no point in asking.
-...Well, it turned out better than I thought."
+……まぁ、想像以上だったよ","You're the one that led me here, there's no point
+in asking. ...Well, it turned out better than I thought."
 1011001050260,樹里,アタシ、マジでアイドルとしての道を突っ走ってるよ,I really am speeding headlong down this road as an idol.
 0000000000000,プロデューサー,ああ、今の樹里は光り輝いてる,"Yeah, you're shining brilliantly now."
 1011001050270,樹里,"へへ
 まだまだだけどな……","Hehe.
 I'm just getting started..."
 1011001050280,樹里,"心の穴は満たされてきたはずなのに、物足りね－んだ
-もっと、高いところに行きたくなる","The hole in my heart should be filled by now but it's still not enough.
-It just makes me want to rise even higher."
+もっと、高いところに行きたくなる","The hole in my heart should be filled by now but it's
+still not enough. It just makes me want to rise even
+higher."
 1011001050290,樹里,"んでよ、いつまでたってもゴ－ルが見えね－のが
-おもしれ－ところだよな","And y'know, the way I can't see the goal no matter how far I go
-is what's so interesting about it."
+おもしれ－ところだよな","And y'know, the way I can't see the goal no matter
+how far I go is what's so interesting about it."
 0000000000000,プロデューサー,ふふ、緊張が解けてきたみたいだな,"Haha, you don't look so nervous any more."
 1011001050300,樹里,……ホントだ、震えが止まってる,"...You're right, I stopped shaking."
 1011001050310,樹里,"アンタ、本当にやり手のプロデュ－サ－だな
@@ -149,12 +154,13 @@ Quit fussing over pointless crap."
 1011001050360,樹里,……なぁ、プロデュ－サ－？,"...Hey, Producer?"
 0000000000000,プロデューサー,ん、どうした,Hm? What is it?
 1011001050370,樹里,"こんな大舞台で踊れるとこまで連れてきてくれて
-……その、なんだ","You guided me to where I could dance on the main stage...
-So, you know."
+……その、なんだ","You guided me to where I could dance on the main
+stage... So, you know."
 1011001050380,樹里,ありがとな,Thanks.
 0000000000000,プロデューサー,"いいや、樹里自身が真剣にレッスンして、
-アイドルとして活動してきたから、樹里はここにいるんだ","Not at all, you're the one that put the effort into your
-lessons and work as an idol so that's why you're here."
+アイドルとして活動してきたから、樹里はここにいるんだ","Not at all, you're the one that put the effort into
+your lessons and work as an idol so that's why
+you're here."
 0000000000000,プロデューサー,今日もその成果を見せてこい！,Let me see the results again today!
 1011001050390,樹里,"ああ、分かった
 アンタはそこでしっかり見ててくれよな！","Yup, you've got it.
