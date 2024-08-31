@@ -273,6 +273,7 @@ $nounVII,$1 VII,
 最後アピール値％UP,Final Appeal Value %UP,
 "発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value",
 魔法使いさんたち,We Mages,text
+[Be Magical]魔法使いさんたち,[Be Magical] We Mages,text
 きみは相棒,You're My Sidekick,text
 歌,Song,text
 [甜花の]歌,[Tenka's] Song,text
@@ -334,7 +335,7 @@ Visual上限UP,Visual Cap. UP,text
 アルティメットマーメイド,Ultimate Mermaid,text
 煌めきの魔法,Twinkling Magic,text
 [虹色チャーム]煌めきの魔法,[Rainbow-Colored Charm] Twinkling Magic,text
-What Do you Like?,#REF!,text
+好きなものはなんですか？,What Do you Like?,text
 アンサー！,Answer!,text
 [思い出]アンサー！,[Recalling] Answer!,text
 四夜一夜物語,,text
