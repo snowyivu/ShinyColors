@@ -1020,7 +1020,7 @@ eventPoint.box,ボックスP,BoxP
 eventPoint.ranking,ランキングP,RankingP
 eventShop.noShopNotice,期間内のショップがありません。,There are no current shops.
 eventShop.noExchangeMerchandiseNotice,交換できるアイテムがありません。,No items can be exchanged.
-exchangeItem.petitSelectionTicket.original,プチセレクションチケット,Petite Selection Ticket
+exchangeItem.petitSelectionTicket.original,プチセレクションチケット,Petit Selection Ticket
 exchangeItem.petitSelectionTicket.simple,チケット,Ticket
 fes.result.score,%{value}pt,%{value}pt
 fes.result.scoreDetail.appeal,%{appeal}×%{num},%{appeal}×%{num}
@@ -1683,7 +1683,7 @@ gasha.scoutGasha.notPossessedIdol,未所持,Unowned
 homeDeckBGM,ホームユニットBGM,Home Unit BGM
 homeDeckBackgroundEffect,ホームユニットエフェクト,Home Unit Effect
 exSkill.unreleased,未解放,Locked
-exSkill.produceExSkillCondition.title,[条件%{number}],[条件%{number}]
+exSkill.produceExSkillCondition.title,[条件%{number}],[Req.%{number}]
 exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Card Lv. %{requiredLevel}
 exSkill.produceExSkillCondition.supportIdol.evolution,特訓%{requiredEvolutionStage}回達成,Evolve %{requiredEvolutionStage} times
 exSkill.produceExSkillCondition.idol.trueEnd,%{firstName}のTrue End達成,Obtain a True End for %{firstName}
@@ -1715,7 +1715,7 @@ item.expireAt,使用期限：%{expireAt},Expires：%{expireAt}
 item.releaseMypageCommunicationPop.title,イタズラ解放,Mischief unlocked
 item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,Trick or Treat! \nWhat if you idle on the home screen...?
 shop.headerTitles.monthlyPassport,283パス,283 Pass
-shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage}回特訓済)
+shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage} times evolved)
 shop.labelGameEventShopIdolPossessionText,所持状況,Amount Owned
 shop.monthlyPassport.limitAt,%{limitAt}まで,Until %{limitAt}
 shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,Browser version only
@@ -2024,7 +2024,7 @@ produceTop.produceGoalPop.season4,シーズン４ エキスパート,Season 4 Ex
 produceTop.produceGoalPop.goalSuffix.fan,人,fan
 produceTop.produceGoalPop.goalSuffix.week,週,wk
 produceTop.produceGoalPop.goalPrefix.fan,あと,after
-produceTop.produceGoalPop.goalPrefix.week,残り,remain
+produceTop.produceGoalPop.goalPrefix.week,残り,left
 produceAction.auditionScheduleDialogTitle,スケジュール確認,Check Schedule
 produceAction.auditionScheduleDialog.weekText,%{week}週,%{week}wk
 produceAction.auditionScheduleDialog.seasonText,シーズン%{seasonNum},Season %{seasonNum}
@@ -2055,7 +2055,7 @@ growthTab.other,その他,Other
 growthActiveSkillAlert.title,ライブスキル選択警告,Live Skill Selection Warning
 growthCount,%{count}回,x%{count}
 growthLeaveConfirmDialog.title,確認,Confirm
-growthLeaveConfirmDialog.text,まだ習得は確定していません\n選択状態を解除して移動しますか？,It still hasn't been learned.\nDo you want to deselect and transfer?
+growthLeaveConfirmDialog.text,まだ習得は確定していません\n選択状態を解除して移動しますか？,It hasn't been learned yet.\nDo you want to deselect and transfer?
 shop.smallTabTitles.idolPiece.star,星,Star
 shop.battlePassport.privilegeSelectPop.title,購入特典選択,Purchase Bonus Choice
 shop.battlePassport.privilegeSelectPop.notice,購入特典は購入30日後までの使用期限付きです\n期限内に使用しなかった場合、アイテムは失われます,"Purchase Bonus must be used within 30 days. If the\nbonus is not used, the item will expire."
@@ -2295,7 +2295,7 @@ letterFromIdol.voiceLockMessage,アイドルを★4にすると\nアイドルが
 letterFromIdol.getDateLetterReceivedFormat,yyyy/mm/dd,yyyy/mm/dd
 miniGamePortal.staffComment1,あ、プロデューサーさん、アイドル達に会いに来てくれたんですね,"Ah, Producer, you came to meet the idols. "
 miniGamePortal.staffComment2,みんながプロデューサーさんを待っていますよ～,"Everyone's been waiting for you, Producer-san～"
-miniGamePortal.staffComment3,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～
+miniGamePortal.staffComment3,アイドルのみなさんと遊びながらコミュニケーションをとりましょう～,Let's have some fun and communicate with the idols～
 miniGamePortal.staffComment4,大富豪、懐かしいですね～,"Daifugo, how nostalgic～"
 miniGamePortal.staffComment5,ミニゲームが遊べますよ～,Let's play the minigame～
 tutorial.skipPop.messageSkipAll,チュートリアルをすべてスキップします\nよろしいですか？,This will skip the entire Tutorial.\nAre you sure?
@@ -2398,19 +2398,19 @@ survey.questionOrder,設問 %{order},設問 %{order}
 survey.confirmTitle,アンケート回答確認,アンケート回答確認
 survey.answerNoticeOnce,回答は一度しかできません,回答は一度しかできません
 survey.answerNoticeDaily,回答は1日1度しかできません,回答は1日1度しかできません
-survey.answeredTitle,回答完了,回答完了
-survey.answeredMessage,アンケートに回答しました,アンケートに回答しました
+survey.answeredTitle,回答完了,Survey Complete
+survey.answeredMessage,アンケートに回答しました,The survey has been completed.
 survey.aggregatingMessage,集計中です,集計中です
 survey.aggregatedMessage,回答は締め切りました 結果はお知らせをご確認ください,回答は締め切りました 結果はお知らせをご確認ください
 pickupContents.expiredPop.title,確認,確認
 pickupContents.expiredPop.announceClosedText,該当の詳細の期限は終了しました,該当の詳細の期限は終了しました
 pickupContents.expiredPop.contentClosedText,該当のコンテンツの期限は終了しました,該当のコンテンツの期限は終了しました
 limitedFesTop.closeText,期間終了,期間終了
-limitedFesTop.closeDate,%{closeAt}まで,%{closeAt}まで
+limitedFesTop.closeDate,%{closeAt}まで,Closes at %{closeAt}
 limitedFesTop.pyramid.self,自分,You
-limitedFesTop.pyramid.rank,%{rank}位,%{rank}位
-limitedFesTop.pyramid.score,%{score}人,%{score}人
-limitedFesTop.pyramid.nextPrefix,次のリーグまで,次のリーグまで
+limitedFesTop.pyramid.rank,%{rank}位,Rk %{rank}
+limitedFesTop.pyramid.score,%{score}人,%{score} fans
+limitedFesTop.pyramid.nextPrefix,次のリーグまで,Until next League
 limitedFesTop.hallDetailDialog.title.easy,Easyステージ,Easy Stage
 limitedFesTop.hallDetailDialog.title.normal,Normalステージ,Normal Stage
 limitedFesTop.hallDetailDialog.title.hard,Hardステージ,Hard Stage
@@ -2419,7 +2419,7 @@ limitedFesTop.cantEntryDialog.title,参加条件,参加条件
 limitedFesTop.cantEntryDialog.text,指定期間中にグレードLv.6以上に\n所属で参加することができます。\n詳しくはお知らせをご確認ください。,指定期間中にグレードLv.6以上に\n所属で参加することができます。\n詳しくはお知らせをご確認ください。
 limitedFesTop.rankingChangeDialog.title,順位変動,順位変動
 limitedFesTop.rankingChangeDialog.text,順位が%{rankBefore}位から%{rankAfter}位に変動しました,順位が%{rankBefore}位から%{rankAfter}位に変動しました
-limitedFesTop.rankingRewardDialog.title,ランキング報酬,ランキング報酬
+limitedFesTop.rankingRewardDialog.title,ランキング報酬,Ranking Rewards
 limitedFesTop.receiveRewardDialog.title,報酬獲得,報酬獲得
 limitedFesTop.receiveRewardDialog.text,以下のアイテムがプレゼントBOXに送られました\n※称号は直接付与されます,以下のアイテムがプレゼントBOXに送られました\n※称号は直接付与されます
 limitedFesTop.receiveRewardDialog.labelLeague,・リーグ報酬,・リーグ報酬
@@ -2447,16 +2447,16 @@ limitedFesExceptionPop.changePhaseTitle,フェーズの更新,フェーズの更
 limitedFesExceptionPop.changePhaseText,フェーズが切り替わったため、\n今回のフェスの結果は集計されません,フェーズが切り替わったため、\n今回のフェスの結果は集計されません
 limitedFesExceptionPop.changePhaseNotice,参加券も消費されません,参加券も消費されません
 limitedFesReady.title,%{leagueName} (%{difficulty}),%{leagueName} (%{difficulty})
-limitedFesReady.notice,テンション決定後は前の画面には戻れません,テンション決定後は前の画面には戻れません
+limitedFesReady.notice,テンション決定後は前の画面には戻れません,You can't go back after the Tension Check.
 limitedFesResult.title,%{leagueName} %{difficulty},%{leagueName} %{difficulty}
 limitedFesResult.appeal,アピール値,Appeal Value
 limitedFesResult.appealValue,%{value}pt,%{value}pt
 limitedFesResult.bonus,ボーナス,Bonus
 limitedFesResult.bonusValue,×%{value},×%{value}
-limitedFesResult.rankingValue,%{value}位,%{value}位
+limitedFesResult.rankingValue,%{value}位,Rk %{value}
 limitedFesResult.scoreValue,%{value}pt,%{value}pt
-limitedFesResult.totalValue,%{value}人,%{value}人
-limitedFesResult.requiredScore,リーグ昇格まで,リーグ昇格まで
+limitedFesResult.totalValue,%{value}人,%{value} fans
+limitedFesResult.requiredScore,リーグ昇格まで,Required score for League Promotion
 limitedFesResult.totalScoreNotice,※%{name}はスコアの上位%{selectedScoresNum}個がファン支持数になります,※%{name}はスコアの上位%{selectedScoresNum}個がファン支持数になります
 limitedFesUserLogPop.title,スコア履歴,スコア履歴
 limitedFesUserLogPop.notice,フェーズ%{fesLimitedPhaseOrder}はスコアの上位%{selectedScoresNum}個がファン支持数になります,フェーズ%{fesLimitedPhaseOrder}はスコアの上位%{selectedScoresNum}個がファン支持数になります
@@ -2478,8 +2478,8 @@ useAlmightyFoilItem.useResultPop.message,以下のアイドルのフォイル化
 useAlmightyFoilItem.notice,%{itemName}%{num}個で1人フォイル化できます,%{itemName}%{num}個で1人フォイル化できます
 parallelSceneMenuPop.title,サブ画面メニュー,Sub Screen Menu
 parallelSceneLayoutPop.title,コミュ並列閲覧,Commu Parallel Browsing
-parallelSceneLayoutPop.text,画面レイアウトを選択してください,画面レイアウトを選択してください
-parallelSceneLayoutPop.notice,サブ画面はアルバムのみ開くことができます,サブ画面はアルバムのみ開くことができます
+parallelSceneLayoutPop.text,画面レイアウトを選択してください,Select a Screen Layout
+parallelSceneLayoutPop.notice,サブ画面はアルバムのみ開くことができます,The Album can only be read on the Sub Screen.
 parallelSceneLayoutPop.descriptions.left,左:サブ画面 右:メイン画面,L: Sub R: Main
 parallelSceneLayoutPop.descriptions.top,上:サブ画面 下:メイン画面,U: Sub D: Main
 parallelSceneLayoutPop.descriptions.right,左:メイン画面 右:サブ画面,L: Main R: Sub
@@ -2488,12 +2488,9 @@ parallelSceneNoticePop.title,コミュ並列閲覧,Commu Parallel Browsing
 parallelSceneNoticePop.comment1,画面の分割を開始します,画面の分割を開始します
 parallelSceneNoticePop.comment2,ブラウザを閉じるとサブ画面も閉じられます,ブラウザを閉じるとサブ画面も閉じられます
 parallelSceneNoticePop.comment3,メイン画面とサブ画面の音量は別で設定できます,メイン画面とサブ画面の音量は別で設定できます
-commuUnlockErrorPop.title,コミュ解放,コミュ解放
-commuUnlockErrorPop.texts.unlocked,すでに解放されています,すでに解放されています
-commuUnlockErrorPop.texts.itemShortage,%{itemName}が不足しています,%{itemName}が不足しています
 daifugo.communicationPointLimitText,上限は毎週月曜%{resetTime}にリセット,上限は毎週月曜%{resetTime}にリセット
-daifugo.courseDetailPopupTitle,ルール詳細,ルール詳細
-daifugo.gameRecordPopupTitle,プレイ記録,プレイ記録
+daifugo.courseDetailPopupTitle,ルール詳細,Rule Details
+daifugo.gameRecordPopupTitle,プレイ記録,Play Record
 daifugo.idolSelectPop.title,アイドル選択,Select Idol
 daifugo.idolSelectPop.txtLineNotice,残り2名のアイドルはランダムで選ばれます,The remaining two Idols will be randomly selected.
 daifugo.idolSelectPop.confirmationComment,一緒に遊ぶアイドル1名を選んでください,Please select an Idol to play with.
@@ -2505,8 +2502,8 @@ daifugo.resumeConfirmPopup.title,再開確認,Confirm Resume
 daifugo.resumeConfirmPopup.message,保存中のゲームがあります\n再開しますか？,There is a saved game.\nWould you like to resume it?
 daifugo.retireConfirmPopup.title,破棄確認,Confirm Retire
 daifugo.retireConfirmPopup.message,ゲームを破棄しますか？,Would you like to retire?
-daifugo.cardEffect.straight,階段,階段
-daifugo.cardEffect.revolution,革命,革命
+daifugo.cardEffect.straight,階段,Straight
+daifugo.cardEffect.revolution,革命,Revolution
 daifugo.cardEffect.same_suit,マークしばり,マークしばり
 daifugo.cardEffect.eight_flow,8切り,8切り
 daifugo.cardEffect.eleven_back,11バック,11バック
@@ -2536,7 +2533,7 @@ fes.limitedFesNotice.beforeOpen,『%{eventName}』開催まで あと%{remaining
 fes.limitedFesNotice.openingDay,『%{eventName}』本日%{openHour}時開催！,『%{eventName}』本日%{openHour}時開催！
 fes.limitedFesNotice.opening,『%{eventName}』開催中！,『%{eventName}』開催中！
 gameEvent.presentEvent.selectEventDialog.title,クリスマス特設ページ,Special Christmas Page
-gameEvent.ranking,%{value}位,%{value}位
+gameEvent.ranking,%{value}位,Rk %{value}
 gameEvent.characterVoteEvent.confirmDialogTitle,投票確認,投票確認
 gameEvent.characterVoteEvent.successDialogTitle,投票完了,投票完了
 gameEvent.characterVoteEvent.successDialogShortText,上記のアイドルへ%{voteNum}枚投票しました,上記のアイドルへ%{voteNum}枚投票しました
@@ -2544,7 +2541,7 @@ gameEvent.characterVoteEvent.successDialogText,%{name}へ\n%{voteNum}枚投票�
 gameEvent.characterVoteEvent.limitIdolVoteDialogTitle,アイドル投票終了間近！,アイドル投票終了間近！
 gameEvent.characterVoteEvent.limitIdolVoteDialogTicketQuantity,%{quantity}枚,%{quantity}枚
 gameEvent.characterVoteEvent.limitSituationVoteDialogTitle,シチュエーション回答終了間近！,シチュエーション回答終了間近！
-gameEvent.characterVoteEvent.voteNum,%{num}票,%{num}票
+gameEvent.characterVoteEvent.voteNum,%{num}票,%{num} votes
 gameEvent.characterVoteEvent.top.replyPeriodEnds,回答期間は終了しました,回答期間は終了しました
 gameEvent.characterVoteEvent.top.alreadyAnswered,すでに回答済みです,すでに回答済みです
 gameEvent.characterVoteEvent.top.badgeText,%{date}から投票開始予定！,%{date}から投票開始予定！
@@ -2554,11 +2551,11 @@ gameEvent.characterVoteEvent.historyPop.title,投票履歴,投票履歴
 gameEvent.characterVoteEvent.historyPop.noHistoryText,投票履歴がありません,投票履歴がありません
 gameEvent.characterVoteEvent.achievementPop.title,投票実績,投票実績
 gameEvent.characterVoteEvent.achievementPop.noAchievementText,投票実績がありません,投票実績がありません
-gameEvent.characterVoteEvent.schedule,%{date}まで,%{date}まで
-gameEvent.characterVoteEvent.aggregationSchedule,%{date}予定,%{date}予定
-gameEvent.characterVoteEvent.howToPlayDialogTitle,遊び方,遊び方
-gameEvent.pCupRewardPop.title,報酬配布,報酬配布
-gameEvent.pCupRewardPop.text,%{eventName}の報酬を配布しました,%{eventName}の報酬を配布しました
+gameEvent.characterVoteEvent.schedule,%{date}まで,Until %{date}
+gameEvent.characterVoteEvent.aggregationSchedule,%{date}予定,Scheduled for %{date}
+gameEvent.characterVoteEvent.howToPlayDialogTitle,遊び方,How to Play
+gameEvent.pCupRewardPop.title,報酬配布,Reward Distribution
+gameEvent.pCupRewardPop.text,%{eventName}の報酬を配布しました,Rewards for %{eventName} have been distributed.
 gameEvent.tapCounterEvent.unreleasedHelperName,???,???
 gameEvent.tapCounterEvent.unreleasedPoint,?????,?????
 gameEvent.tapCounterEvent.unreleasedText,?????????,?????????
@@ -2566,30 +2563,30 @@ gameEvent.tapCounterEvent.purchaseButtonLevelText,Lv.アップ,Level Up
 gameEvent.tapCounterEvent.maxLevel,最大Lv,Max Lv.
 gameEvent.tapCounterEvent.helperLevelText,Lv.%{level}/%{maxLevel},Lv.%{level}/%{maxLevel}
 gameEvent.tapCounterEvent.pointInformationPopTitle,記録,Record
-gameEvent.tapCounterEvent.levelInformationPopTitle,レベル効果,レベル効果
+gameEvent.tapCounterEvent.levelInformationPopTitle,レベル効果,Level Effects
 gameEvent.tapCounterEvent.pointByTap,つっつきの%{nameOfPointByTap}%{num},つっつきの%{nameOfPointByTap}%{num}
 gameEvent.tapCounterEvent.supporterBonus,すけっとのポイント%{num}倍,すけっとのポイント%{num}倍
 gameEvent.tapCounterEvent.pointByTapBonus,つっつきの%{nameOfPointByTap}%{num}倍,つっつきの%{nameOfPointByTap}%{num}倍
-gameEvent.tapCounterEvent.endingLabel,エンディング%{num},エンディング%{num}
-gameEvent.tapCounterEvent.nameOfPointByTap.50041,めざまし力,めざまし力
-gameEvent.tapCounterEvent.nameOfPointByTap.50042,収穫力,収穫力
-gasha.againGashaResultTitle,ガシャ%{count}回目,ガシャ%{count}回目
+gameEvent.tapCounterEvent.endingLabel,エンディング%{num},Ending %{num}
+gameEvent.tapCounterEvent.nameOfPointByTap.50041,めざまし力,Waking Power
+gameEvent.tapCounterEvent.nameOfPointByTap.50042,収穫力,Harvest Power
+gasha.againGashaResultTitle,ガシャ%{count}回目,Gacha %{count} times
 gasha.againGashaResultExpireNotice,有効期限が切れたため最後に引いたガシャが確定されました,有効期限が切れたため最後に引いたガシャが確定されました
 gasha.popAgainGashaFixConfirmFirst.comment,本ガシャはあと%{remainCount}回引き直しすることが可能です,本ガシャはあと%{remainCount}回引き直しすることが可能です
-gasha.popAgainGashaFixConfirmFirst.notice,このガシャ結果を確定してもよろしいですか？,このガシャ結果を確定してもよろしいですか？
-gasha.popAgainGashaFixConfirmFirst.notice2,結果を確定すると引き直すことはできません,結果を確定すると引き直すことはできません
-gasha.popAgainGashaFixConfirmSecond.comment,選択した内容で確定します\nよろしいですか？,選択した内容で確定します\nよろしいですか？
+gasha.popAgainGashaFixConfirmFirst.notice,このガシャ結果を確定してもよろしいですか？,Confirm the results of this gacha?
+gasha.popAgainGashaFixConfirmFirst.notice2,結果を確定すると引き直すことはできません,"Once confirmed, results cannot be redrawn."
+gasha.popAgainGashaFixConfirmSecond.comment,選択した内容で確定します\nよろしいですか？,Confirm your selection?
 gasha.popAgainGashaFixConfirmSecond.notice,確定すると選択していないガシャ結果は消滅します,確定すると選択していないガシャ結果は消滅します
 gasha.popAgainGashaRedrawConfirmFirst.comment,引き直し前のガシャ結果も残り、\n引き直し後に好きなガシャ結果を選べます\nガシャを引き直しますか？,引き直し前のガシャ結果も残り、\n引き直し後に好きなガシャ結果を選べます\nガシャを引き直しますか？
 gasha.popAgainGashaRedrawConfirmSecond.comment,今回（%{drawCount}回目）のガシャ結果は残ります\n前回（%{prev}回目）のガシャ結果は消滅します\nガシャを引き直しますか？,今回（%{drawCount}回目）のガシャ結果は残ります\n前回（%{prev}回目）のガシャ結果は消滅します\nガシャを引き直しますか？
-gasha.popAgainGashaRedrawConfirmSecond.checkComment,引き直しを有効にする,引き直しを有効にする
+gasha.popAgainGashaRedrawConfirmSecond.checkComment,引き直しを有効にする,Enable Redraw
 gasha.popAgainGashaUnsettled.comment,%{gashaName}\nの結果を確定していません\nガシャ結果へ移動します,%{gashaName}\nの結果を確定していません\nガシャ結果へ移動します
 gasha.popAgainGashaUnsettledTerm.comment,%{gashaName}\nの販売期間が終了しました\n確定したガシャ結果へ移動します,%{gashaName}\nの販売期間が終了しました\n確定したガシャ結果へ移動します
 gasha.popAgainGashaUnsettledTerm.notice,引き直しはできません,引き直しはできません
 gasha.stepSubtitle,通常ガシャ提供割合,通常ガシャ提供割合
 gasha.stepSubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
 gasha.staffChanceGashaAcquiredRewardPop.nameAndNum,%{name} ×%{num},%{name} ×%{num}
-gasha.foilGashaNotice,※アイドルは獲得できません。,※アイドルは獲得できません。
+gasha.foilGashaNotice,※アイドルは獲得できません。,※Idols cannot be obtained.
 header.parallelOption,サブ画面設定,Sub Screen Settings
 header.trophy,トロフィー,Trophy
 header.autoPlaySchedule,オートスケジュール,Auto Schedule
@@ -2604,8 +2601,8 @@ header.characterProfile,プロフィール,Profile
 header.daifugoSelectCourse,コース選択,Select a Course
 homeDeck.randomSetting.bgTypes.values.music,BGM,BGM
 homeDeck.randomSetting.characterIds.label,アイドル,Idol
-ban.title,利用制限,利用制限
-ban.message,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています
+ban.title,利用制限,Account Restrictions
+ban.message,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています,Your account has been temporarily restricted\ndue to unauthorised information\nor problems with said account.
 mypageCommunication.unknownCharacterName,？？？,？？？
 exSkill.exSkillChangeSelectPop.title,確認,Confirm
 exSkill.exSkillChangeSelectPop.message,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください,This Ex Skill is already used by another Idol.\nPlease select an Idol to take Ex Skill from.
@@ -2650,7 +2647,7 @@ jointFes.retireAttention.message4,フェスを終了してマッチライブを%
 jointFes.retireAttention.method.skip,スキップ,Skip
 jointFes.retireAttention.method.start,開始,Start
 jointFes.areaUnlock.gradeName,グレードLv.%{grade},Grade Lv.%{grade}
-jointFesConcert.fesTicketReturnMessage,敗北したため使用したフェス参加権を返却しました,敗北したため使用したフェス参加権を返却しました
+jointFesConcert.fesTicketReturnMessage,敗北したため使用したフェス参加権を返却しました,Returned Fes Entry Tickets used due to defeat.
 musicSelect.playMvDialog.confirm,MVを再生しますか？,Would you like to play the MV?
 photoBootFailDialog.messages.default,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります
 photoBootFailDialog.messages.toHelp,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります\n\nヘルプを参照してカメラの使用を\n許可してください,フォトモードを使用するためには\nカメラの使用、および端末内の写真への\nアクセスを許可する必要があります\n\nヘルプを参照してカメラの使用を\n許可してください
@@ -2658,11 +2655,11 @@ produceHeader.concertSeason.wing,W.I.N.G.,W.I.N.G.
 produceHeader.concertSeason.grad,G.R.A.D.,G.R.A.D.
 produceItemPreparation.isAutoProduceRestricted,このアイテムはオートプロデュースに\n持ち込むことができません,This Item cannot be used in Auto-Produce.
 produceResult.knowHowIconOverlayTextLevel5Count,Lv.5x%{count},Lv.5x%{count}
-produceReady.produceCheeringPopTitle,アイドルの応援とは,アイドルの応援とは
-produceReady.idolRestrictionPop.text.default.produceIdol,上記アイドルは\nまだ「%{title}」で\nプロデュースアイドルに選択できません,上記アイドルは\nまだ「%{title}」で\nプロデュースアイドルに選択できません
-produceReady.idolRestrictionPop.text.default.supportIdol,上記アイドルは\nまだ「%{title}」で\nサポートアイドルに選択できません,上記アイドルは\nまだ「%{title}」で\nサポートアイドルに選択できません
-produceReady.idolRestrictionPop.text.collaborationOnly.produceIdol,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません
-produceReady.idolRestrictionPop.text.collaborationOnly.supportIdol,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません
+produceReady.produceCheeringPopTitle,アイドルの応援とは,What is Idol Support?
+produceReady.idolRestrictionPop.text.default.produceIdol,上記アイドルは\nまだ「%{title}」で\nプロデュースアイドルに選択できません,The Idol\n「%{title}」\ncannot be selected as Produce Idol yet.
+produceReady.idolRestrictionPop.text.default.supportIdol,上記アイドルは\nまだ「%{title}」で\nサポートアイドルに選択できません,The Idol\n「%{title}」\ncannot be selected as Support Idol yet.
+produceReady.idolRestrictionPop.text.collaborationOnly.produceIdol,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません,The Idol\n「%{title}」\ncannot be selected as Produce Idol.
+produceReady.idolRestrictionPop.text.collaborationOnly.supportIdol,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません,The Idol\n「%{title}」\ncannot be selected as Support Idol.
 produceReady.guestOnlyCharatcerPop.title,編成アイドル制限,Idol Restriction
 produceReady.guestOnlyCharatcerPop.text,はゲスト以外に選択できません,Can only be used as Guest
 profile.businessCard.trophyCount,×%{count},×%{count}
@@ -2671,10 +2668,10 @@ profile.options.showUserFesMatchTrophy,グレフェストロフィー,Grade Fes 
 shop.smallTabTitles.idolPiece.flower,華,Flower
 shop.smallTabTitles.premium.all,ALL,ALL
 shop.itemExpiration,使用期限 %{date} まで,Expires %{date}
-workActivityTop.deletedAbandonedBusinessPop.title,営業破棄確認,営業破棄確認
+workActivityTop.deletedAbandonedBusinessPop.title,営業破棄確認,Job Deletion Confirmation
 workActivityTop.deletedAbandonedBusinessPop.text,営業が破棄されました\n\n営業は90日間完了しない場合、破棄されます\n報酬や差し入れは返却されません,Jobs are deleted if \nthey are not completed in 90 days.
 workActivityReady.canNotWorkIdolDialog.title,営業確認,Confirm Job
-workActivityReady.canNotWorkIdolDialog.text,%{idolName}\n\nに営業させることはできません,%{idolName}\n\nに営業させることはできません
+workActivityReady.canNotWorkIdolDialog.text,%{idolName}\n\nに営業させることはできません,%{idolName}\n\ncannot be selected for work.
 workActivityTalkAndCommu.categories.clear,CLEAR,CLEAR
 parallelSceneMenuPop.title,サブ画面メニュー,Sub Screen Menu
 parallelSceneLayoutPop.title,コミュ並列閲覧,Commu Parallel Browsing
@@ -2688,6 +2685,6 @@ parallelSceneNoticePop.title,コミュ並列閲覧,Commu Parallel Browsing
 parallelSceneNoticePop.comment1,画面の分割を開始します,Beginning Screen Split
 parallelSceneNoticePop.comment2,ブラウザを閉じるとサブ画面も閉じられます,Closing your browser also closes the sub screen.
 parallelSceneNoticePop.comment3,メイン画面とサブ画面の音量は別で設定できます,The size of the main and sub screen can be set seperately.
-commuUnlockErrorPop.title,コミュ解放,Commu unlocked
+commuUnlockErrorPop.title,コミュ解放,Commu Unlocked
 commuUnlockErrorPop.texts.unlocked,すでに解放されています,Commu already unlocked
 commuUnlockErrorPop.texts.itemShortage,%{itemName}が不足しています,Not enough %{itemName}

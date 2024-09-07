@@ -1,0 +1,51 @@
+id,name,text,trans
+0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,！,!
+0000000000000,プロデューサー,用紙切れか……倉庫に替え、あったかな,"Huh, we're out of paper for printing... 
+I wonder if there's more in the storage room..."
+0000000000000,プロデューサー,（ちょっと見にいってみよう）,(I'll try and look if we have some left.)
+0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,おぉ、甘奈、おはよ──,"Oh, good morning, Amana—"
+2014007010010,甘奈,──あ、プロデューサーさん……,"—Ah, Producer-san......"
+0000000000000,プロデューサー,その格好、どうしたんだ……？,"Your clothes, what happened to you...?"
+2014007010020,甘奈,えっと……,About this...
+0000000000000,プロデューサー,タオル取ってくるから、ちょっと待っててくれ！,"Hold on a second, I’ll go grab a towel!"
+2014007010030,甘奈,あ！　自分で……！,Ah! I can do it by my-...!
+2014007010040,甘奈,行っちゃった……,There he went...
+2014007010050,甘奈,……悪いことしちゃったな……,...I really messed up this time...
+0000000000000,プロデューサー,"お茶を淹れてきたよ
+体、冷えるとよくないからな","Here, I've made some tea. Drink up, it's not good for 
+you to get cold."
+2014007010060,甘奈,ありがと、プロデューサーさん……,"Thank you, Producer-san..."
+2014007010070,甘奈,……温かい,...It's warm...
+0000000000000,プロデューサー,"災難だったな……車に水をかけられるなんて……
+怪我はないか？","That sounds awful, getting splashed by a car on
+your way here... You're not hurt, are you?"
+2014007010080,甘奈,うん、大丈夫、ぶつかったわけじゃないから,"Nope, I'm alright.
+It's not like I got hit or anything."
+0000000000000,プロデューサー,あぁ……それならよかった,Okay... I'm glad you're okay.
+2014007010090,甘奈,心配かけちゃってごめんね,I'm sorry for making you worry back there.
+2014007010100,甘奈,……,......
+0000000000000,プロデューサー,"……甘奈、やっぱりどこか悪いんじゃないか？
+調子、よくなさそうだが……","...Amana, are you sure you're okay? 
+You seem a bit out of it right now..."
+2014007010110,甘奈,ううん、本当になんともないよ,"No, no, I'm really okay."
+2014007010120,甘奈,ただ、あんな格好、見られちゃったから……,"It's just that... 
+You saw me in such a vulnerable state earlier..."
+0000000000000,プロデューサー,"……あ……ああ……
+ごめんな、気付けなくて……","Oh... Ah...!
+Sorry, I didn't notice that you were..."
+2014007010130,甘奈,"！　あっ、ごめん……！
+プロデューサーさんが悪いんじゃないの……","! Ah, sorry...! 
+Really, it's not your fault, Producer-san..."
+0000000000000,プロデューサー,いや、すまない、そこまで考えられなくてな,"I really am sorry for earlier. 
+I didn't think that you'd feel that way."
+2014007010140,甘奈,"ううん、甘奈こそ……
+プロデューサーさんに迷惑かけちゃったし……","It's okay...
+I'm sorry too, for causing trouble earlier..."
+0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,甘奈に落ち度はないんだから、謝らないでくれ……,"Amana, you didn't do anything wrong, so please
+don't apologize..."
+2014007010150,甘奈,うん……そう、だね……,Okay... I shouldn't... Right...
+info,produce_events/201400701.json,
+Translator,Yuzukicchi,

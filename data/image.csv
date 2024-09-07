@@ -58,7 +58,7 @@ images/ui/produce_ending/parts_fes_idol_birth.json_image,fes_idol_birth.png,9
 images/ui/game_event/parts.json_image,game_event.png,15
 images/ui/produce_idol_rank/parts_rank_up.json_image,rank_up.png,9
 images/content/gasha/bg/ce7fd45320926557c3c5164017348c1e_1001.jpg,1001.jpg,10
-images/content/gasha/title/ce7fd45320926557c3c5164017348c1e_1001.png,1001.png,8
+images/content/gasha/title/ce7fd45320926557c3c5164017348c1e_1001.png,1001.png,9
 images/content/gasha/bg/95c85d7ca80bc5a79d504ff37dccf496_1013.jpg,1013.jpg,8
 images/content/gasha/title/95c85d7ca80bc5a79d504ff37dccf496_1013.png,1013.png,9
 images/tips/produce/produce/cover.jpg,tutorial/produce_cover.jpg,8
@@ -107,8 +107,11 @@ images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,9
 images/ui/produce_ending/parts_fes_idol_birth_effect.json_image,fes_idol_birth_effect.png,9
 images/ui/joint_fes_deck/parts.json_image,joint_fes_deck_parts.png,1
 images/ui/joint_fes_top/parts.json_image,joint_fes_top_parts.png,4
+images/ui/joint_fes_concert/parts_result.json_image,joint_fes_parts_results.png,2
+images/ui/joint_fes_ready/parts.json_image,joint_fes_ready_parts.png,2
+images/ui/joint_fes_rankings/parts.json_image,joint_fes_rankings_parts.png,2
 images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,14
-game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
+images/ui/game_event/gradation/game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
 images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,2
 images/tips/produce_step/action/001.jpg,tutorial/step_action_001.jpg,1
 images/tips/produce_step/action/002.jpg,tutorial/step_action_002.jpg,1
@@ -1053,6 +1056,8 @@ images/content/idols/name/da67da775a6789dc0703770efdfb441b_1030200010.png,cards/
 images/content/support_idols/name/e28457aba228b93b18bdb76b7986ab4e_2030200040.png,cards/toru_s_sr_4.png,1
 images/content/idols/name/721fdda60a08b450e52355756214ab69_1030200030.png,cards/toru_p_sr_3.png,1
 images/content/idols/name/1a46eb665220ae85ed4d7a23884681e4_1040200060.png,cards/toru_p_ssr_6.png,1
-images/ui/game_event/gradation/communication_base.png,communication_base.png,9
-images/ui/produce_ending/parts_ex_skill_and_knowhow_book_reward.png,produce_ending_parts_exskill_knowhow.png,1
-images/ui/produce_ending/parts_reward.png,produce_ending_parts_reward.png,14
+images/ui/game_event/gradation/communication_base.json_image,communication_base.png,9
+images/ui/produce_ending/parts_ex_skill_and_knowhow_book_reward.json_image,produce_ending_parts_exskill_knowhow.png,1
+images/ui/produce_ending/parts_reward.json_image,produce_ending_parts_reward.png,14
+images/ui/mini_game/parts_mini_game_portal.json_image,parts_mini_game_portal.png,1
+images/ui/character_profile/parts.json_image,character_profile_parts.png,1

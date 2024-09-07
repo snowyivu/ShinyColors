@@ -5,14 +5,16 @@ id,name,text,trans
 I'm gonna go head backstage to make some greetings."
 0000000000000,プロデューサー,"え？
 お、おう……","Huh?
-S──Sure, go for it..."
+S-Sure, go for it..."
 6020001000210020,透,"……？
 さっき、司会者の反応よかったでしょ","...?
-The host──I got a pretty good reaction out of him earlier, right?"
+The host──I got a pretty good reaction out of him
+earlier, right?"
 6020001000210030,透,"顔覚えてもらってるうちに
-もう一押し、アピール",Gonna make sure he remembers my face. Give it one last push. Appeal.
+もう一押し、アピール","Gonna make sure he remembers my face.
+Give it one last push. Appeal."
 0000000000000,プロデューサー,"……わかった！　行ってこい！
-──成長したなぁ、透……！","...gotcha! Go for it!
+──成長したなぁ、透……！","...Gotcha! Go for it!
 ──You've grown, haven't you, Toru...!"
 6020001000210040,透,"──ねぇ
 あのおじさんの控室ってどこだっけ？","──Hey.
@@ -21,6 +23,7 @@ Um, where exactly was that guy's room again?"
 ちゃんと名前で呼ぶ！","C'mon, Toru──
 You gotta use his name properly!"
 6020001000210050,透,あ、うん……,Ah. Yeah...
-6020001000210060,透,名前、忘れちゃったからさ,"No, yeah──I actually kinda forgot what his name was."
+6020001000210060,透,名前、忘れちゃったからさ,"No, yeah──I actually kinda forgot what his name
+was."
 info,produce_communication_televisions/602000100021.json,
 Translator,Emelia,
