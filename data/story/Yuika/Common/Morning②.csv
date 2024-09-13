@@ -2,7 +2,8 @@ id,name,text,trans
 0000000000000,プロデューサー,おはよう結華。……なんだかぐったりしてるな,"Good morning, Yuika.
 ...You seem a little worn out."
 1007001000210010,結華,"おはよ、プロデューサー
-それがさ、レッスンの疲れが抜けないんだよ～","Morning, Producer. I can't shake off this weariness from all the practice I've been doing, you see?"
+それがさ、レッスンの疲れが抜けないんだよ～","Morning, Producer. I can't shake off this weariness
+from all the practice I've been doing, you see?"
 1007001000210020,結華,ねぇねぇ、なんか元気が出ることして？,"Hey, I know. Can you do something to motivate me?
 "
 0000000000000,プロデューサー,無茶ぶりもいいところだが……,"You're putting me on the spot, but..."
@@ -15,18 +16,24 @@ select,,"ならそろそろ
 go straight to
 your lessons."
 1007001000210030,結華,"なんだろう、プロデューサーがやってるだけなのに、
-ただのモノマネだってわかってるのに……！","Woah, I know it's just you pretending and not actually the President lecturing me, but...!"
+ただのモノマネだってわかってるのに……！","Woah, I know it's just you pretending and not actually
+the President lecturing me, but...!"
 1007001000210040,結華,立ち上がらなきゃいけない気になってくるよ！,"I suddenly feel like I've got to get my act together!
 "
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1007001000210050,結華,はづきちさん！？　また意外なところを……,Pretending to be Hazukichi!? Didn't expect that from you......
 1007001000210060,結華,"……あれ、なんだか三峰まで眠くなってきた……
-冗談だって！　ちゃんと起きてますよー","...Uh-oh, just like Hazukichi, Mitsumine's starting to feel sleepy now... Just kidding! I'm wide awake, don't worry."
+冗談だって！　ちゃんと起きてますよー","...Uh-oh, just like Hazukichi, Mitsumine's starting to
+feel sleepy now... Just kidding! I'm wide awake,
+don't worry."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1007001000210070,結華,"元気が出ることって言ったのに
-それじゃ余計疲れちゃうじゃーん……！","I asked you do something that would motivate me, but saying that just makes me feel even more worn out...!"
+それじゃ余計疲れちゃうじゃーん……！","I asked you do something that would motivate me,
+but saying that just makes me feel even more
+worn out...!"
 1007001000210080,結華,"……と思ったけど、あんまりだらけてたら
-本当に行きたくなくなるし、もう行こっかー……","...But lazing around too long might kill my motivation completely, so I guess I'll get going."
+本当に行きたくなくなるし、もう行こっかー……","...But lazing around too long might kill my motivation
+completely, so I guess I'll get going."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100700100021.json,
 Translator,Belvera,

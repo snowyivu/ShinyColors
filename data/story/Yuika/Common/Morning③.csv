@@ -2,11 +2,16 @@ id,name,text,trans
 0000000000000,プロデューサー,"結華？
 難しい顔して……何書いてるんだ？","Yuika?
 You look intense... What's that you're writing?"
-1007001000310010,結華,これ？　レッスン以外に何かやろっかなって思ってさー,"Oh, this? I was thinking of stuff I should do outside of my lessons."
+1007001000310010,結華,これ？　レッスン以外に何かやろっかなって思ってさー,"Oh, this? I was thinking of stuff I should do outside
+of my lessons."
 1007001000310020,結華,"アイドルらしい努力ってどういうのかわかんなかったから
-リストアップしてみたの",I wasn't sure what else I should be doing to improve myself as an idol. So I'm making a list of ideas.
+リストアップしてみたの","I wasn't sure what else I should be doing to
+improve myself as an idol. So I'm making a list of
+ideas."
 0000000000000,プロデューサー,"（体力づくりに、ファッション研究
-……大食いまで。多様性はあるけど……）","(Her list so far includes physical training, fashion research... Even stuff like competitive eating. Quite the variety...)"
+……大食いまで。多様性はあるけど……）","(Her list so far includes physical training, fashion
+research... Even stuff like competitive eating.
+Quite the variety...)"
 select,,少し的を絞るか,"Why don't you
 try narrowing
 it down?"
@@ -17,9 +22,11 @@ select,,"他のメンバーにも
 consult the rest
 of L'Antica?"
 1007001000310030,結華,"やっぱり、インテリアイドルと大食いアイドルの
-ちゃんぽんはやりすぎかな？","Trying to be an idol who's both an intellectual and a competitive eater might be a bit much, huh?"
+ちゃんぽんはやりすぎかな？","Trying to be an idol who's both an intellectual and
+a competitive eater might be a bit much, huh?"
 1007001000310040,結華,"でも、なんでもござれのハイブリッドアイドルって
-なんかかっこよくない？","Though, wouldn't a hybrid idol who excels in all fields be kinda cool?"
+なんかかっこよくない？","Though, wouldn't a hybrid idol who excels in all
+fields be kinda cool?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1007001000310050,結華,"ほんと？　それは嬉しいな
 三峰ひとりじゃ煮詰まっちゃって","You'd do that? I'd appreciate it.
@@ -27,7 +34,8 @@ Mitsumine ends up going in circles if she's on her own."
 1007001000310060,結華,よーし、じゃあ一緒に渾身のアイディア考えよう！,"Alright, let's do some brainstorming together!"
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went OK.)"
 1007001000310070,結華,"やだなぁ、
-こういうのみんなに見せるの恥ずかしいじゃん？",No way! I wouldn't want the others to know that I'm doing something like this.
+こういうのみんなに見せるの恥ずかしいじゃん？","No way! I wouldn't want the others to know that
+I'm doing something like this."
 1007001000310080,結華,そういうとこ察してくれないとダメだぞーＰたん,"You should've been able to guess that, P-tan."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100700100031.json,

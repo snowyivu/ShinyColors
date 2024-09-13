@@ -176,7 +176,7 @@ commonMenu.fesIdolLimit.text,これ以上フェスアイドルを所属させら
 commonMenu.produceRetire.title,プロデュース終了,Retire Early
 commonMenu.menuPop.title,メニュー,Menu
 commonMenu.backToTitleConfirm.title,タイトルへ戻る,Return to Title
-commonMenu.backToTitleConfirm.text,タイトルへ戻ります。\nよろしいですか？,Return to Title. \r\n Are you sure?
+commonMenu.backToTitleConfirm.text,タイトルへ戻ります。\nよろしいですか？,Return to Title.\r\n Are you sure?
 commonMenu.dataLinkPop.title,機種変更・データ連携,Device Change・Data Link
 commonMenu.dataLinkConfirmPop.title,データ連携確認,Data Link Confirmation
 commonMenu.loginPop.title,ログイン,Login
@@ -646,7 +646,7 @@ option.produceContentTitle.hint,はづきさんのヒント表示,Show Hazuki Hi
 option.produceContentTitle.newEventSpeed,未読イベント開始時に早送り解除\n（アイドル・サポートイベント）,Unread events cancels FF\r\n(Support Idol Event)
 option.produceContentTitle.restConfirm,休む選択時に確認画面を表示,Rest Confirmation Check
 option.produceContentTitle.concertConfirm,ライブ選択時に確認画面を表示,Live Confirmation Check
-option.twitterProfileDescription,設定したイラストをTwitterでシェアできます\n投稿にはTwitter連携が必要です,You can share the Illustration on Twitter\r\nTwitter Integration is required
+option.twitterProfileDescription,設定したイラストをTwitterでシェアできます\n投稿にはTwitter連携が必要です,You can share the Illustration on Twitter.\r\nTwitter Integration is required.
 option.twitterDeAuthorizeDialog.title,連携解除,Cancel Integration
 option.twitterDeAuthorizeDialog.message,Twitter連携を解除しました,Twitter Integration has been cancelled
 idol,アイドル,Idol
@@ -1708,11 +1708,11 @@ monthlyPassport.expireAlertPop.remainDays,あと%{remainDays}日,%{remainDays} d
 monthlyPassport.expireAlertPop.remainHours,あと%{remainHours}時間,%{remainHours} hours left
 monthlyPassport.expireAlertPop.remainMinutes,あと%{remainMinutes}分,%{remainMinutes} minutes left
 option.volumeTitle.concertBgm,楽曲,Music
-option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,Mischief from Idols [Whispers]
+option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,Tricks from the Idols [Whispers]
 option.homeContent.itemName.joke,2019ハロウィンのおかし,2019 Halloween Sweets
 option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 Halloween Sweets
 item.expireAt,使用期限：%{expireAt},Expires：%{expireAt}
-item.releaseMypageCommunicationPop.title,イタズラ解放,Mischief unlocked
+item.releaseMypageCommunicationPop.title,イタズラ解放,Trick Unlocked
 item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,Trick or Treat! \nWhat if you idle on the home screen...?
 shop.headerTitles.monthlyPassport,283パス,283 Pass
 shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage} times evolved)
@@ -1882,7 +1882,7 @@ header.produceMusicSelect,シーズン%{seasonNum}の楽曲選択,Season %{seaso
 header.produceSupporterSelect,楽曲サポートアイドル選択,Track Support Idol Selection
 header.produceMusicInfo,楽曲情報,Track Details
 header.produceMusicOrder,ライブ楽曲入れ替え,Change Live Track
-option.produceContentTitle.notEnoughFansNotice,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示,W.I.N.G. Mode\nWarning screen if Fan Count is not reached.\nWill show a Pop-up.
+option.produceContentTitle.notEnoughFansNotice,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示,W.I.N.G. Mode\nWarning screen if Fan Count is\nnot reached.Will show\na Pop-up.
 option.fesTowerContentTitle.recoverPanelConfirmation,回復パネル選択肢時に確認画面を表示,Prompt for heal\npanel selection
 option.fesTowerContentTitle.presentPanelConfirmation,プレゼントパネル選択時に\n確認画面を表示,Prompt for present\npanel selection
 option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択時に\n確認画面を表示,Prompt for event\npanel selection
@@ -2008,8 +2008,8 @@ header.musicListen,楽曲試聴,Music Records
 header.produceGrowth,成長,Develop
 exSkill.disabled,効果を発揮しません,No Effect
 mission.shinyPassAdBanner.purchaseCount,%{purchaseCount}回,x%{purchaseCount}
-option.homeContent.title.idolPrank2021,アイドルからのイタズラ【イタズラケーキ】,Idol Prank【Prank Cake】
-option.homeContent.itemName.joke2021,2021ハロウィンのおかし,2021 Halloween Joke
+option.homeContent.title.idolPrank2021,アイドルからのイタズラ【イタズラケーキ】,Tricks from the Idols [Prank Cake]
+option.homeContent.itemName.joke2021,2021ハロウィンのおかし,2021 Halloween Sweets
 idolDetail.receiveMemorialPieceDialog.pieceNameMulti,以下のメモリアルピース,The below Memorial Pieces
 produceEvent.skipNotice,【%{title}】のコミュが解放されました,【%{title}】commus has been unlocked
 produceItemPreparation.isAreaEffectRestricted,このアイテムは選択したプロデュースにて\n一部の効果が発揮されません,This item will not have some of its\neffects in the selected Produce mode
@@ -2299,7 +2299,7 @@ miniGamePortal.staffComment3,アイドルのみなさんと遊びながらコミ
 miniGamePortal.staffComment4,大富豪、懐かしいですね～,"Daifugo, how nostalgic～"
 miniGamePortal.staffComment5,ミニゲームが遊べますよ～,Let's play the minigame～
 tutorial.skipPop.messageSkipAll,チュートリアルをすべてスキップします\nよろしいですか？,This will skip the entire Tutorial.\nAre you sure?
-tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,"The idol unit of a new era that suddenly came flying in.\nDecorated in black, these girls are not imprisoned by color.\nWill the ""story"" of the comet's trajectory show us light? Dark? Or perhaps..."
+tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,"The idol unit of a new era that suddenly came flying in.\nDecorated in black, these girls are not imprisoned by color.\nWill the ""story"" of the comet's trajectory show us light?\nDark? Or perhaps..."
 idolList.knowHowCount,ノウハウ数,Number of Know-How
 idolList.knowHowBoolMarkSelectDialog.title,ノウハウブックマーク,Know-How Bookmark
 idolList.knowHowRedrawDialog.title,ノウハウのリロード,Reroll Know-How
@@ -2610,8 +2610,8 @@ exSkill.exSkillChangeConfirmPop.title,確認,Confirm
 exSkill.exSkillChangeConfirmPop.message,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？,This Ex Skill is already used by another idol.\nRemove and set Ex Skill for this Idol?
 mission.shinyPassAdBanner.rewardNameAndNum,%{rewardName}×%{rewardNum},%{rewardName}×%{rewardNum}
 option.fesTowerContentTitle.levelUpPanelConfirmation,レベルアップパネル選択時に\n確認画面を表示,Display Confirmation screen\nwhen selecting Level-Up Panel.
-option.homeContent.title.idolPrank2022,アイドルからのイタズラ【メリーさん】,アイドルからのイタズラ【メリーさん】
-option.homeContent.title.idolPrank2023,アイドルからのイタズラ【寝たふり】,アイドルからのイタズラ【寝たふり】
+option.homeContent.title.idolPrank2022,アイドルからのイタズラ【メリーさん】,Tricks from the Idols [Meri-san]
+option.homeContent.title.idolPrank2023,アイドルからのイタズラ【寝たふり】,Tricks from the Idols [Pretend to be Asleep]
 option.homeContent.prank.on,%{name} ON,%{name} ON
 option.homeContent.prank.off,%{name} OFF,%{name} OFF
 option.homeContent.itemName.joke2022,2022ハロウィンのおかし,2022 Halloween Sweets

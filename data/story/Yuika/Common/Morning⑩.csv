@@ -1,10 +1,12 @@
 id,name,text,trans
 1007001001010010,結華,"ねぇプロデューサー
-三峰がファンのみんなにできることってないかな？","Hey, Producer. Can you think of anything that Mitsumine would be able to do for all of her fans?
-"
-0000000000000,プロデューサー,できることって……ライブや握手会とかではなく？,"Something you can do for them... Other than lives and handshake events, I assume?"
+三峰がファンのみんなにできることってないかな？","Hey, Producer. Can you think of anything that
+Mitsumine would be able to do for all of her fans?"
+0000000000000,プロデューサー,できることって……ライブや握手会とかではなく？,"Something you can do for them... Other than lives
+and handshake events, I assume?"
 1007001001010020,結華,"んー、それもいいんだけど
-なんかもっとお礼とかしたいなって思ってさ","Well, of course those are important too. But I want to do something that shows my thanks. "
+なんかもっとお礼とかしたいなって思ってさ","Well, of course those are important too.
+But I want to do something that shows my thanks. "
 0000000000000,プロデューサー,（ファンにお礼として何ができるか、か……）,(She wants to do something to show gratitude to her fans...)
 select,,手紙はどうだろう？,"Why don't you
 try writing them
@@ -17,18 +19,24 @@ select,,"結華だったら、
 何が嬉しい？","You're an idol
 fan, too. What
 would you want?"
-1007001001010030,結華,三峰の手紙って、もらって嬉しいものかな？,"Do you think a letter from me be would be something my fans would appreciate? "
+1007001001010030,結華,三峰の手紙って、もらって嬉しいものかな？,"Do you think a letter from me be would be
+something my fans would appreciate? "
 1007001001010040,結華,"……逆の立場だったら嬉しいか
-……ありがと、ちょっと書いてみる！","...Well, if I got a letter from an idol I supported, I'd be thrilled. Thanks for the advice, I think I'll try that!"
+……ありがと、ちょっと書いてみる！","...Well, if I got a letter from an idol I supported,
+I'd be thrilled. Thanks for the advice, I think I'll
+try that!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1007001001010050,結華,"そうかな？　でも……プロデューサーから見て
-そう思ってもらえるんなら良かった","You think so? Though... I'm glad to hear it seems that way to you, as my Producer."
+そう思ってもらえるんなら良かった","You think so? Though... I'm glad to hear it seems that
+way to you, as my Producer."
 1007001001010060,結華,"やっぱり、ファンのみんなは三峰のやる気の元だからさ！
-喜んでほしいよね","Mitsumine's fans are what keep her going, after all! So she wants to make them happy.
-"
+喜んでほしいよね","Mitsumine's fans are what keep her going, after all!
+So she wants to make them happy."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1007001001010070,結華,"んー、やっぱり、近くで見れたり
-活躍してるのを応援したりがいいかな……","Hmmm, as an idol fan I'm totally content just watching them from afar and a supporting their work..."
+活躍してるのを応援したりがいいかな……","Hmmm, as an idol fan I'm totally content just
+watching them from afar and a supporting their
+work..."
 1007001001010080,結華,って、これじゃいつもと変わらないかー,"Which is, no help at all in this case."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100700100101.json,

@@ -1,31 +1,44 @@
 id,name,text,trans
 0000000000000,プロデューサー,一次審査、通ってたぞ。おめでとう！,You passed the first screening. Congrats!
 7007001010010,結華,"おぉっ！　さすが三峰！
-いやー、いけると思ったんだよねー",Ooh! As expected of Mitsumine! Naw- I thought I'd be good at it-
+いやー、いけると思ったんだよねー","Ooh! As expected of Mitsumine!
+Naw, I thought I'd be good at it-"
 0000000000000,プロデューサー,"余裕そうだな
-もっとドキドキしてるかと思ってたのに",You're quite composed. I thought you'd be more excited.
+もっとドキドキしてるかと思ってたのに","You're quite composed.
+I thought you'd be more excited."
 7007001010020,結華,"まぁ三峰だからねぇ
-こんなところであっさり落ちない落ちない！","Well I'm Mitsumine after all, I won't stumble and fall so easily at this level!"
+こんなところであっさり落ちない落ちない！","Well I'm Mitsumine after all, I won't stumble and
+fall so easily at this level!"
 0000000000000,プロデューサー,"そうやって、きちんと自分を信じられるのも大切なことだ
-忘れないようにな","You're right, it's important to believe firmly in yourself. Don't forget that."
+忘れないようにな","You're right, it's important to believe firmly in
+yourself. Don't forget that."
 7007001010030,結華,"おおー、プロデューサーも思わず
-名言言っちゃうぐらい喜んでるー！",Oooh- Producer unintentionally gave me some great words of wisdomー!
+名言言っちゃうぐらい喜んでるー！","Oooh, Producer unintentionally gave me some
+great words of wisdom──"
 0000000000000,プロデューサー,……茶化すなよ。あと、過信も禁物だぞ,"...you're teasing me. Also, don't be overconfident."
-7007001010040,結華,あはは、冗談だって！　良い言葉だと思うよ？,"Ahaha, I'm joking! Isn't it something good to think about though?"
+7007001010040,結華,あはは、冗談だって！　良い言葉だと思うよ？,"Ahaha, I'm joking! Isn't it something good to think
+about though?"
 7007001010050,結華,"それに、さすがの三峰だって
-身の程弁えないようなことはしないから安心して！","Besides, that's what one would expect of Mitsumine. Rest assured that I know not to speak out of line!"
+身の程弁えないようなことはしないから安心して！","Besides, that's what one would expect of Mitsumine.
+Rest assured that I know not to speak out of line!"
 0000000000000,プロデューサー,……わかってるならいいけど……,...it's fine if you understand that...
 7007001010060,結華,"それにしてもさ、『審査通過』なんてアイドルっぽいよね！
-本当に、アイドルになったんだねー","Anyways, ""passing the first screening"" is idol-like, right! I'm really... becoming an idolー"
-0000000000000,プロデューサー,今頃か？　これまで仕事もやってきただろう,Only now? You've been doing work this whole time you know.
+本当に、アイドルになったんだねー","Anyways, ""passing the first screening"" is idol-like,
+right! I'm really... becoming an idol──"
+0000000000000,プロデューサー,今頃か？　これまで仕事もやってきただろう,"Only now? You've been doing work this whole time,
+you know."
 7007001010070,結華,それはそうなんだけど……１歩進んだ感があるっていうかさ,"That's more like... the first step on a journey, I guess?"
 7007001010080,結華,"三峰でもちゃんとアイドルやれてるし、
-まわりの人からも許されてるんだなって思えて、嬉しくて","Moreso than working hard as an idol, having other people around recognize me as one, is what makes me happy."
+まわりの人からも許されてるんだなって思えて、嬉しくて","Moreso than working hard as an idol, having other
+people around recognize me as one, is what makes
+me happy."
 0000000000000,プロデューサー,"そういう自覚が湧いてきたのはいいことだな
-……でも、喜ぶのはまだ早い。この先もあるんだから","Having that self-recognition is great... but, it's still too early to celebrate. There's more to come, after all."
+……でも、喜ぶのはまだ早い。この先もあるんだから","Having that self-recognition is great... but, it's
+still too early to celebrate. There's more to come,
+after all."
 0000000000000,プロデューサー,次の審査も頑張ろう,Let's do our best again for the next screening.
 7007001010090,結華,"これで終わりじゃないんだもんね
-まだ次があるんなら──頑張らないと！","This isn't the end, yeah. If there's more to come
-── I won't give up!"
+まだ次があるんなら──頑張らないと！","This isn't the end, yeah. If there's more to come,
+──I won't give up!"
 info,produce_events/700700101.json,
 Translator,Batsu,
