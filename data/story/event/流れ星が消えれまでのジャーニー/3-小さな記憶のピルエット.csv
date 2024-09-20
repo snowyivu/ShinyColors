@@ -1,31 +1,31 @@
 id,name,text,trans
 4001030040010,千雪,そっか、まだ……,"I see, so she's still down... "
 4001030040020,甜花,"うん……昨日、プロデューサーさん、
-病院に連れてってくれた……けど……","Uh-huh... Yesterday, Producer-san,
-took her to the hospital... but... "
+病院に連れてってくれた……けど……","Uh-huh...... Yesterday... Producer-san...
+took her to the hospital... but...... "
 4001030040030,千雪,……ちょっと、長引きそうなのね,...Looks like it'll drag on a while longer.
 4001030040040,千雪,"お仕事の予定、
 もうちょっと後だったらいいんだけど────","If only her job were
 scheduled a little later────"
-4001030040050,甜花,…………,"...... "
-4001030040060,甜花,──キャンセル、してくれるかな……,"──Could they, cancel it...?"
+4001030040050,甜花,…………,............
+4001030040060,甜花,──キャンセル、してくれるかな……,"──Could they, cancel it......?"
 0,プロデューサー,え？,Huh?
 4001030040070,甜花,"もうすぐ……だよね
 お仕事の予定……","It's pretty soon... right?
-That big job scheduled... "
-4001030040080,甜花,あ、なーちゃんの……,"Oh, for Naa-chan... "
+That big job scheduled...... "
+4001030040080,甜花,あ、なーちゃんの……,"Oh, for Naa-chan...... "
 0,プロデューサー,ああ……,"Oh... "
 0,プロデューサー,もちろん、そうなったらちゃんと先方に伝えるよ,"Of course, I'll let them know if it comes to that."
 4001030040090,甜花,"あ……えと……
-……なーちゃんが……","Ah... umm...
-...Do you think, Naa-chan... "
+……なーちゃんが……","Ah...... umm......
+......Do you think, Naa-chan...... "
 4001030040100,甜花,"なーちゃんが……
 無理しないかな、って……","Do you think Naa-chan...
-is pushing herself too hard...?"
+is pushing herself too hard......?"
 0,プロデューサー,"ん？　すまん
 そういうことか","Hmm? Oh sorry,
 that's what you meant."
-4001030040110,甜花,…………,"...... "
+4001030040110,甜花,…………,............
 0,プロデューサー,"……多分だけど
 大丈夫だよ、きっと","...This is just a maybe,
 but I think she'll definitely be fine."
@@ -37,25 +37,25 @@ me that I should take proper care of myself."
 She even scolded me with tears in her eyes once... "
 4001030040120,甜花,"そ、それは……
 ……プロデューサーさんが……ダメ……","T-That's... 
-...your fault, Producer-san... "
+......your fault... Producer-san...... "
 0,プロデューサー,"ははっ、そうだな
 だから俺も学んだし──……","Haha, that's true.
 That's why I've learnt from that──... "
 0,プロデューサー,"どんなときに無理をすべきで、どんな時に休むべきか
 甘奈はちゃんと知っているから……大丈夫","There are times to push hard, and times to take it 
 easy. Amana knows that very well, so... she'll be fine."
-4001030040130,甜花,そっか……,"Alright... "
+4001030040130,甜花,そっか……,"Alright...... "
 4001030040140,甜花,"にへへ……
-じゃ……大丈夫、だね","Nihehe... 
-So... she'll be fine, then."
+じゃ……大丈夫、だね","Nihehe...... 
+So... she'll be fine... then."
 0,プロデューサー,おう……！,Right...!
-4001030040150,甜花,…………,"...... "
+4001030040150,甜花,…………,"............ "
 4001030040160,甘奈,『──ごめんね』,"""──Sorry."""
 4001030040170,甘奈,"『あまなばっかりデビたろうとあそんじゃった
-てんかちゃんも、あそびたかったんでしょ』","""Amana kept playing with Devitaro too much.
+てんかちゃんも、あそびたかったんでしょ』","""Amana kept playing with Debitaro too much.
 But you wanted to play with him too, right?"""
 4001030040180,甘奈,『てんかちゃんに、あげる』,"""You can have him, Tenka-chan."""
-4001030040190,甜花,なーちゃん……,"Naa-chan... "
+4001030040190,甜花,なーちゃん……,"Naa-chan...... "
 4001030040200,甘奈,『えへへ、でも甜花ちゃんが用意してくれたでしょ？』,"""Ehehe, but you prepared it for me, right Tenka-chan?"""
 4001030040210,甘奈,"『だから、とってもとっても、
 やさしい味……』","""That's why it tastes
@@ -65,23 +65,23 @@ so, so comforting... """
 なんだかいつもと逆だね』","""But... Yeah, I see.
 It feels like the opposite from usual, huh."""
 4001030040240,甜花,"『うん……！
-熱の間は、なーちゃんが、甜花……！』","Yeah...!
-When you have a fever, Naa-chan, you're Tenka...!"
-4001030040250,甘奈,『じゃあ、甜花ちゃんが甘奈……？』,"So then, you're me...?"
-4001030040260,甜花,………っ,......!
+熱の間は、なーちゃんが、甜花……！』","""Yeah......!
+When you have a fever, Naa-chan, you're Tenka......!"""
+4001030040250,甘奈,『じゃあ、甜花ちゃんが甘奈……？』,"""So then, you're me...?"""
+4001030040260,甜花,………っ,.........!
 4001030040270,甜花,"──あ、あのね……！
-プロデューサーさん……あの……","──H-Hey, umm...!
-Producer-san... uhh... "
+プロデューサーさん……あの……","──H-Hey, umm......!
+Producer-san... uhh......"
 0,プロデューサー,ん？,Hmmm?
 4001030040280,甜花,"もし……なーちゃんが、
-お仕事まで、よくならなかったら……","If... Naa-chan, doesn't get better, 
-in time for her job... "
+お仕事まで、よくならなかったら……","If...... Naa-chan... doesn't get better... 
+in time for her job...... "
 4001030040290,甘奈,"早く早く～
 ちこくしちゃうよ～","Hurry, hurry～
 We'll be late～"
 4001030040300,甜花,"んしょ……
-くつのひも、結べ……た……！","Hup... 
-Shoelaces... are... tied...!"
+くつのひも、結べ……た……！","Hup...... 
+Shoelaces... are... tied......!"
 4001030040310,甘奈,"オッケー！
 じゃ、ママ、いってきまーす！","Okay!
 Then, we'll be going now, Mama!"
@@ -93,9 +93,9 @@ Today's the deadline to order the sewing kits, isn't it?"
 お金が入ってるからなくさないでね？","Here, hand this envelope to your teacher.
 There's money inside, so don't lose it, alright?"
 0,ママ,"甜花ちゃんは『デビ太郎バッグ』
-甘奈ちゃんは『ルビーショルダーバッグ』でいいのよね？","Tenka-chan's is the ""Devitaro Bag"", and
+甘奈ちゃんは『ルビーショルダーバッグ』でいいのよね？","Tenka-chan's is the ""Debitaro Bag"", and
 Amana-chan's is the ""Ruby Shoulder Bag"", correct?"
-4001030040321,甘奈＆甜花,うん……！,Yeah...!
+4001030040321,甘奈＆甜花,うん……！,Yeah......!
 0,パパ,もうすっかりクリスマスの飾り付けだなあ,"It's all decked out for Christmas already here, huh?"
 4001030040330,甘奈,ね～！　ハロウィンが終わったばっかりなのに,"Right～? Halloween was just the other day, too."
 0,パパ,"早めにプレゼントを考えなさいってことかな
@@ -105,13 +105,13 @@ Have the two of you made up your mind?"
 甜花ちゃんは？","Amana's still not sure... 
 What about you, Tenka-chan?"
 4001030040350,甜花,"甜花も……
-どれにしようって、思ってるとこ……","Me too... 
-Tenka's still thinking about, which one to get... "
+どれにしようって、思ってるとこ……","Tenka too...... 
+She's still thinking about, which one to get...... "
 0,パパ,"そうかそうか
 それじゃ、ゆっくり考えながら散歩しようか","I see, I see.
 Well then, let's walk around slowly while you think 
 about it."
-4001030040360,甜花,甜花……ゲーム売り場、行きたい……！,"Tenka... wants to go, to the game section...!"
+4001030040360,甜花,甜花……ゲーム売り場、行きたい……！,Tenka... wants to go... to the game section......!
 0,パパ,おっ、いいな、覗いてみよう！,"Oh, sounds good, let's take a look!"
 4001030040370,甘奈,"甘奈はお洋服とアクセサリーが見たい……！
 あとコスメ……！","Amana wants to look at clothes and accessories...!
@@ -133,18 +133,18 @@ of friends."
 how she's kind, strong, cool and sooo cute."
 4001030040421,off,いいところは、違うところ──,"Our good points, are our differences──"
 0,プロデューサー,………？　甜花？,......? Tenka?
-4001030040430,甜花,あ……,"Ah... "
+4001030040430,甜花,あ……,"Ah...... "
 4001030040440,甜花,"やっぱ……
-なんでもない……","Never mind... 
-It's nothing... "
+なんでもない……","Never mind...... 
+It's nothing...... "
 0,プロデューサー,……どうした？,...What's wrong?
-4001030040450,甜花,……えと……,"...Umm... "
+4001030040450,甜花,……えと……,"......Umm...... "
 4001030040460,甜花,"もし……なーちゃんが、
-お仕事まで、よくならなかったら……","If... Naa-chan, doesn't get better,
-in time for her job... "
+お仕事まで、よくならなかったら……","If...... Naa-chan, doesn't get better...
+in time for her job...... "
 4001030040470,甜花,"甜花が……なーちゃんの格好で
-お仕事、行こうかなって、思った……","Tenka was thinking... maybe,
-Tenka could go, as Naa-chan, to the job... "
+お仕事、行こうかなって、思った……","Tenka was thinking... maybe...
+Tenka could go... as Naa-chan... to the job... "
 4001030040480,甜花,でも……やっぱり、ダメか……って,"But... of course, there's no way... that'd work... "
 0,プロデューサー,"はは……！
 なるほどな、ふたごならではの……ってやつだな","Haha... !

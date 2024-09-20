@@ -1,22 +1,22 @@
 id,name,text,trans
 6015002030010,甜花,"うう……そろそろ出番……
-ドキドキ……だけど","Uuu... It's about time to perform...
-It's so heart-pounding... but..."
-6015002030020,甜花,──すー……はぁ,──Phew... Haa.
-6015002030030,甜花,……大丈夫……！,...It'll be alright!
-0000000000000,プロデューサー,（強くなったな、甜花……）,"(You've become strong, Tenka...)"
+ドキドキ……だけど","Uuu...... It's almost time......
+Tenka's heart... is pounding... but......"
+6015002030020,甜花,──すー……はぁ,─..................
+6015002030030,甜花,……大丈夫……！,......It's okay......!
+0000000000000,プロデューサー,（強くなったな、甜花……）,"(You've gotten stronger, Tenka...)"
 6015002030040,甜花,"で……でも……あうぅ……
-プロデューサーさん、応援、してて……？","B-But... Awh...
-Producer, will you support Tenka...?"
+プロデューサーさん、応援、してて……？","B... But...... Auu......
+Producer-san... will you... support Tenka......?"
 0000000000000,プロデューサー,"もちろん！　全力で応援するし、
-思いきり楽しませてもらうからな","Of course! I'll cheer you on with all my might, 
-so do your absolute best and have fun, alright?"
-6015002030050,甜花,……にへへ……,...Nihehe.
-6015002030060,甜花,……『客席にいっぱい、ピンクの光』……,"...""From the audience seats, there's a lot of pink lights""..."
-6015002030070,甜花,み、見られるかな……？,C-Can they see me...?
+思いきり楽しませてもらうからな","Of course! I'll do everything in my power to support
+you and enjoy it every step of the way."
+6015002030050,甜花,……にへへ……,......Nihehe......
+6015002030060,甜花,……『客席にいっぱい、ピンクの光』……,"......""When the audience has a ton of pink lights""......"
+6015002030070,甜花,み、見られるかな……？,C-Can Tenka... take a look......?
 0000000000000,プロデューサー,"ああ、確かめておいで
-ここまで頑張った分だけ、きっとすごく綺麗だから","Yeah, I'm sure of it. 
-You've worked hard to reach this place, it'll surely be a wonderful sight."
-6015002030080,甜花,──……うんっ！,...Right!
+ここまで頑張った分だけ、きっとすごく綺麗だから","Sure, go ahead. All of your hard work up to now will\
+make it that much prettier."
+6015002030080,甜花,──……うんっ！,ー......Yeah!
 info,produce_events/601500203.json,
-Translator,,
+Translator,kotonekotoP/Doodle(Tuna),

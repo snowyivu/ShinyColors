@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,女生徒,ごきげんよう,Good day.
 0000000000000,女生徒,"あら、ごきげんよう
-今日もいいお天気ですわね","Ah, good day to you. Lovely weather today, isnt it?"
+今日もいいお天気ですわね","Ah, good day to you. Lovely weather today, isn't it?"
 0000000000000,主人公,…………,......
 0000000000000,主人公,（ここが、今日から俺が勤める２８３女学院か……）,"(So this is where I'll starting my job today, at the Shining Wings All-Girls Academy...)"
 0000000000000,主人公,"（全寮制だけあって、敷地も広いし
@@ -10,7 +10,7 @@ id,name,text,trans
 想像以上に華やかな場所だな……）","(I'd heard stories about it before but seeing it myself, it's even fancier than I could have imagined...)"
 0000000000000,主人公,（これから、上手くやっていけるんだろうか……）,(I wonder if I'll be able to get by in a place like this...)
 0000000000000,主人公,"（……いや！　最初からこんな気持ちじゃダメだ！
-自分から動いていかないと……！）","(...no, stop! I can't let myself start thinking like that on my first day! I gotta start things off on the right foot...!"
+自分から動いていかないと……！）","(...No, stop! I can't let myself start thinking like that on my first day! I gotta start things off on the right foot...!"
 0000000000000,主人公,……こほん,...Ahem.
 0000000000000,主人公,みんな、おはよう！,"Good morning, everyone!"
 0000000000000,女生徒,…………,......
@@ -35,7 +35,7 @@ select,,"……とにかく元気を
 select,,"何か悪いこと
 したかな……",Did I do something wrong...?
 0000000000000,主人公,"……あれ？
-そういえば、校内マップとかもらってないような……","...wait a second. Now that I think about it, I don't think they even gave me a map of the campus."
+そういえば、校内マップとかもらってないような……","...Wait a second. Now that I think about it, I don't think they even gave me a map of the campus."
 0000000000000,主人公,誰か──って、誰も反応してくれないか……,"Even if I tried shouting for help, I doubt anyone would give me the time of day..."
 0000000000000,主人公,どうしたら……,What should I do...
 4901011010010,めぐる,"あれ……
@@ -74,7 +74,7 @@ select,,"何か悪いこと
 0000000000000,主人公,とにかく、カウンセラー室へ行こう,"Anyways, I should head to the counselor's office."
 0000000000000,主人公,（……カウンセラー室は……あった！　ここだな）,(...The counselor room is... here! Found it.)
 4901011010440,はづき,……あ、先生\nおはようございます～,...Oh there you are. Good morning～
-4901011010450,はづき,私、教師の七草はづきといいます\nこれからよろしくお願いしますね♪,"My name is Haduki Nanakusa, I teach here. Nice to meet you♪"
+4901011010450,はづき,私、教師の七草はづきといいます\nこれからよろしくお願いしますね♪,"My name is Hazuki Nanakusa, I teach here. Nice to meet you♪"
 0000000000000,主人公,はい、よろしくお願いします！,Nice to meet you too!
 4901011010460,はづき,先生の到着が遅いので心配していたんですよ～,You were late so I was starting to get worried～
 0000000000000,主人公,すみません……\n少し、道に迷ってしまって……,Sorry... I got turned around a little...

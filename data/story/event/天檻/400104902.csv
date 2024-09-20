@@ -13,13 +13,13 @@ Hinana's got PE next～"
 それじゃ雛菜ちゃんも急がなきゃ……！","Eh...!
 Then you better hurry off then, Hinana-chan...!"
 4001049020060,雛菜,"ん～
-そうだね～？","Yeah～
+そうだね～？","Hm～
 Guess I should huh～?"
 4001049020070,透,……,......*munch*
 4001049020080,雛菜,"透先輩、鴨おいしい～？
 あ、ローストビーフとジュレもある！","How's the duck, Toru-senpai～?
-Ah, there's roast beef and jelly too!"
-4001049020090,透,んー……デリシャス,Hmmー...... Duck's delicious.
+Ah, you packed home the roast beef and jelly too!"
+4001049020090,透,んー……デリシャス,Hmmー......Delicious.
 4001049020100,円香,……ジュレいただき,......I'll have a jelly.
 4001049020110,透,あ、ふぉーい……！,"Ah, heey...!"
 4001049020120,円香,じゃ、お先,"Well, I'll head off first."
@@ -35,16 +35,18 @@ You too, Koito?"
 0000000000000,女子生徒,せんぱーい……！,Senpaaai......!
 4001049020200,透,────え？,───Hmm?
 4001049020210,小糸,……？,......?
-4001049020220,透,私じゃないんかーい,"They weren't calling for me, right～?"
+4001049020220,透,私じゃないんかーい,"Woah what, that weren't meant for me～?"
 4001049020230,小糸,"う、うん……
 校長室の方に行っちゃったね……","Y-Yeah...... They seem to be heading towards the
 principal's office."
 4001049020240,小糸,"……あ
-サッカー部の人じゃないかな……！",......Ah. Maybe they're members of the soccer club...?
+サッカー部の人じゃないかな……！","......Ah. Maybe they're the fans of the soccer club
+members......?"
 4001049020250,透,……？,......?
 4001049020260,小糸,"朝礼で、今日スカウトの人がくるって
 言ってたから……","It was announced that a scout is coming to visit
-during this morning's assembly..."
+during this morning's assembly so I guess
+something's going on..."
 4001049020270,透,あー,Ahh.
 4001049020280,透,"ふふっ
 挨拶しなきゃ","Hehe.
@@ -92,7 +94,7 @@ to force yourselves."
 he's not someone we usually come into contact with."
 0000000000000,代理店営業,"あ、まー、そっすね？　ワイナリーのオーナーなんてねぇ
 ……え、教えちゃっていいです？　連絡先","Ah, yeah, I guess so? Hard to believe a winery owner's
-asking huh. ......Erm, so is it alright if I pass him your
+asking, huh. ......Erm, so is it alright if I pass him your
 contact details?"
 0000000000000,プロデューサー,は、はい……！　それはぜひ,D-Definitely......! Please do.
 0000000000000,代理店営業,"あはは、その手のスポンサーから
@@ -113,7 +115,7 @@ of childhood friends～ Don't you think?"
 ……そうか","───Ahhh, I see......!
 ......That's how it is."
 0000000000000,プロデューサー,"この賞のスポンサーさん、あの外食チェーンの──
-ちょうど昨日、パーティーにご招待いただいたんです","This sponsor's actually the owner of a big
+ちょうど昨日、パーティーにご招待いただいたんです","This sponsor's also the owner of that big
 restaurant chain── And it so happened that we got
 invited to a party by him just yesterday."
 0000000000000,代理店営業,"あ、ほらぁ、それそれ
@@ -124,8 +126,9 @@ this──"
 その間に酵素反応が進むから────","Alright, then pour it into the thermal container, and
 an enzyme reaction will occur."
 0000000000000,生物教師,"────うるせーな、外ー……
-はい、待ってる間に今の手順についてまとめること","────It sure is loud outside─...... Alright then, I'll go
-over the steps so far in the meantime."
+はい、待ってる間に今の手順についてまとめること","────It's so noisy outside─...... Alright then, I'll go
+I'll go over the next step of the experiment while we
+wait for the reaction."
 4001049020370,円香,……,......
 0000000000000,女子生徒,"きゃあ……！
 先輩、ナイスパス……！","Kyaa......! Nice pass, senpai......!"
@@ -139,7 +142,7 @@ don't get injured!"
 Is it okay to pair with you?"
 4001049020380,雛菜,へ～？,Huh～?
 0000000000000,プロデューサー,"……ありがたいことです
-昨日もじつは、ちょっと失礼を働いてしまって……","......Indeed, we're truly blessed to be still afforded
+昨日もじつは、ちょっと失礼を働いてしまって……","......Indeed, we're truly blessed to be still given
 such chances. Especially after causing that scene
 yesterday..."
 0000000000000,代理店営業,"あはっ、え、ノクチルちゃん？　なんすかそれ
@@ -147,7 +150,7 @@ yesterday..."
 do something bad or what?"
 0000000000000,プロデューサー,"あはは……
 いえ、皆さんご寛大だったので────","Ahaha... Nah, it's nothing serious. They got away
-with it because everyone was so magnanimous──"
+with it because everyone was so kind──"
 0000000000000,クラスメイト,"……あのね、前の列だと
 ３年のサッカー見えなくて……！","...Y'know, if I paired with someone near the front, I
 wouldn't be able to see the seniors play......!"
@@ -166,15 +169,16 @@ A soaking wet party, wasn't it!"
 This part's important, so you tilt it gentlyー"
 4001049020400,円香,……,......
 0000000000000,プロデューサー,"……ええ。皆さん一緒に面白がってくださって
-本当に恐悦至極というか……","......Yes. Thankfully, everyone found it amusing,
-but still....."
-0000000000000,代理店営業,いやー、でもそりゃそうじゃないっすか！,"Yeah well, that's actually the case though!"
+本当に恐悦至極というか……","......Yes. Thankfully, everyone found it amusing and
+and joined in the fun, but still....."
+0000000000000,代理店営業,いやー、でもそりゃそうじゃないっすか！,"Yeah well, obviously they would!"
 0000000000000,代理店営業,だって────,Cos────
-4001049020410,透,ふおー……ん,Heeeー......hmm
+4001049020410,透,ふおー……ん,"Heeeー......hmm
+(Whale: Growwwwwwl)"
 0000000000000,代理店営業,"ぎゃはは、めっちゃ面白そうですもん
-ノクチルの勝ちでしょ","Gehehe, it looked totally fun, so it's surely a win in
-noctchill's books."
-0000000000000,off,────すっかり、あの子たちのゲームじゃない,────But it was totally not a game the girls played
+ノクチルの勝ちでしょ","Gyahaha, theyre super amusing, after all. And
+thats a win for noctchill, no?"
+0000000000000,off,────すっかり、あの子たちのゲームじゃない,────This game is completely out of their element.
 4001049020420,雛菜,"ん～
 いいけど～","Yea～
 I'm fine with that～"
@@ -188,12 +192,12 @@ go ahead and watch it."
 My partner's having a tummyache so we'll be going
 to the infirmary～"
 0000000000000,クラスメイト,えっ！　市川さん……！？,Huh! Ichikawa-san......!?
-4001049020450,透,ふぁ……,Hee......
-4001049020460,円香,ぁ……,ah......
+4001049020450,透,ふぁ……,*yaw......
+4001049020460,円香,ぁ……,n*......
 0000000000000,生物教師,"────で、こうすると繊維状のDNAの沈殿が
 境界面に現れる","────a little, and the strings of DNA
 precipitation should appear in between the two
-chemical products."
+liquid products."
 0000000000000,生物教師,自分のDNAだぞー,"And that, is your very own, DNAー"
 4001049020470,円香,……,......
 4001049020480,小糸,……あ,......Ah.
@@ -210,7 +214,7 @@ We should go greet them."
 来る時ってね、来るんですよ","One step at a time, yeah～?
 Things will happen when they happen."
 0000000000000,プロデューサー,はぁ、あはは────,"Very true, ahahaha────"
-0000000000000,代理店営業,勝ってるやつのにおいがするから,"Do your best, I sense a winner in you."
+0000000000000,代理店営業,勝ってるやつのにおいがするから,"Do your best, I sense a winner in y'all."
 0000000000000,プロデューサー,────,────
 0000000000000,off,"戦略性とかじゃなくて、
 ずっと一緒、みたいなエモさ？","It's not about strategy. It's about the sentiment of,
@@ -221,7 +225,7 @@ you know, always being together?"
 experiment. Now submit your summarized process
 reports and..."
 0000000000000,生物教師,"────じゃいいね、器具を戻す、ゴミはこっち
-DNAのチューブは各自持ち帰っていいぞー","────Scratch that. Return the lab equipment, and
+DNAのチューブは各自持ち帰っていいぞー","────Alrighty then, return the lab equipment, and
 toss your wastes over here. Feel free to bring home
 the test tube with your DNAー"
 0000000000000,クラスメイト,樋口さん、紙コップ回収しちゃうね,"Let me help dispose of your paper cup, Higuchi-san."

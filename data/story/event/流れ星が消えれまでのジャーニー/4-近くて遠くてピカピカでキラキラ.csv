@@ -30,7 +30,7 @@ today... "
 4001030050100,甘奈,──オッケー,──Okay!
 0,テレビの字幕,『オトナも楽しい！？★話題のパフェテリア』,"""Adults love it too!? ★ The parfaiteria that's the
 talk of the town"""
-0,テレビの字幕,『冬限定　星座パフェ（ふたご座）　1200円』──……,"""Winter Only Menu: Constellation Parfait (Gemini)
+0,テレビの字幕,『冬限定 星座パフェ（ふたご座）　1200円』──……,"""Winter Only Menu: Constellation Parfait (Gemini)
 1200 yen"""
 4001030050110,甘奈,"あ……そうだ……
 調べとこ…………","Ah... Oh right... 
@@ -82,10 +82,10 @@ And also────"
 4001030050240,千雪,こっちは甜花ちゃんに,This is for Tenka-chan.
 4001030050250,甘奈,わ、何……？,"Wow, what is it...?"
 4001030050260,甘奈,"……デビ太郎……！！
-えっ、これうちのデビ太郎だよね……？","... Devitaro...!!
-Wait, this is our Devitaro, right...?"
+えっ、これうちのデビ太郎だよね……？","... Debitaro...!!
+Wait, this is our Debitaro, right...?"
 4001030050270,千雪,"そう、お宅のデビ太郎さん
-ちょっとほつれちゃってたみたいなの","Yes, it's Devitaro-san from your home.
+ちょっとほつれちゃってたみたいなの","Yes, it's Debitaro-san from your home.
 He looked a little worn down."
 4001030050280,千雪,"だから、ちょっと無理言って連れて帰っちゃった
 ──甜花ちゃんに、よろしくお伝えください","So I kind of talked Tenka-chan into letting me take 
@@ -97,9 +97,9 @@ I was wondering why I didn't see him around... "
 4001030050300,甘奈,"そっか～、千雪さんに綺麗にしてもらったんだ……
 よかったね～……","I see～, so Chiyuki-san came and spruced you all up... 
 Isn't that nice～... "
-4001030050310,甘奈,あのね、この子、うちに来た最初のデビ太郎なの,"You know, this is the first Devitaro we ever got."
+4001030050310,甘奈,あのね、この子、うちに来た最初のデビ太郎なの,"You know, this is the first Debitaro we ever got."
 4001030050320,甘奈,"今は甜花ちゃんのデビ太郎だけど、
-ふたりでとっても大事にしてた子で……","He's Tenka-chan's Devitaro now,
+ふたりでとっても大事にしてた子で……","He's Tenka-chan's Debitaro now,
 but both of us really, really cherished him... "
 4001030050330,甘奈,"だから、とってもうれしい
 ありがと、千雪さん……！","So, I'm really glad you fixed him up!
@@ -185,40 +185,40 @@ She seems busy with work today... "
 4001030050670,甘奈,"大丈夫、大丈夫……
 ……今の甘奈は無理してない、うん","I'm okay, I'm okay.
 ...Amana isn't overdoing it right now. Yeah."
-4001030050680,甘奈,ね？　デビ太郎～……,"Right, Devitaro～...?"
+4001030050680,甘奈,ね？　デビ太郎～……,"Right, Debitaro～...?"
 4001030050690,甘奈,──早く治そう！,──I've got to recover fast!
-4001030050700,甜花,う～～～～……,"Uuuuu～～～～... "
+4001030050700,甜花,う～～～～……,Uuuuu～～～～......
 0,プロデューサー,"どうした、甜花
 おなか苦しいか……？","What's wrong, Tenka?
 Is your stomach too full... ?"
 4001030050710,甜花,"おなかは……ううん
-もっと、食べたかった……","Her tummy... No.
-Tenka wanted, to eat some more... "
+もっと、食べたかった……","Her tummy...... No.
+Tenka wanted to... eat some more...... "
 0,プロデューサー,お、おう。そうか……,"O-Oh. I see... "
-4001030050720,甜花,……あのね,...You see.
+4001030050720,甜花,……あのね,......You see.
 4001030050730,甜花,"流れ星に……お願い、してた……
-なーちゃんの具合、よくなりますように……って","Tenka was... making a wish, on the shooting stars... 
-So that... Naa-chan, will get better."
+なーちゃんの具合、よくなりますように……って","Tenka was...... making a wish... on the shooting stars... 
+So that... Naa-chan will... get better."
 0,プロデューサー,流れ星？,Shooting stars?
-4001030050740,甜花,あの、流星群の……,"Umm, from the meteor shower."
+4001030050740,甜花,あの、流星群の……,Umm... from the meteor shower......
 0,プロデューサー,"ああ……
 今日がピークだっけ？","Ooh... 
 Today's the peak, right?"
 4001030050750,甜花,"ううん……まだ先……けど
-ちょっとは来てるかなって……","No... it's still a while off... but...
-Maybe a few of them are here..."
+ちょっとは来てるかなって……","No...... it's still a while off... but......
+Maybe a few of them are here......"
 0,プロデューサー,流れ星ってそういう感じなのか……？,Is that how meteor showers work... ?
 0,プロデューサー,"……でも……
 ちょっとでも叶えてもらえるなら嬉しいな","...But... 
 I'd be glad if your wish were granted, even if just
 a little."
 4001030050760,甜花,"……はやく
-なーちゃんの具合、よくなりますように～～","...I wish Naa-chan
+なーちゃんの具合、よくなりますように～～","......I wish Naa-chan
 will get better sooooon～～"
 select,,"はやく、甘奈の具合が
 よくなりますように～～","I wish Amana will 
 get better sooooon～～"
-4001030050761,甜花＆プロデューサー,う～～～～……,"Uuuuu～～～～... "
-4001030050770,甜花,…………くしゅんっ,...Hachoo!
+4001030050761,甜花＆プロデューサー,う～～～～……,"Uuuuu～～～～...... "
+4001030050770,甜花,…………くしゅんっ,............Hachoo!
 info,game_event_communications/400103005.json,
 Translator,Rinka,

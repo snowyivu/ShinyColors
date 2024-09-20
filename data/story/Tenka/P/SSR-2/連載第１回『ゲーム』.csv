@@ -1,0 +1,145 @@
+id,name,text,trans
+2015008010010,甜花,『甜花の好きなものは、ゲームです』,"""Tenka likes... games."""
+2015008010020,甜花,"『コンシューマーも、ソーシャルゲームも、
+みんな好きです』","""Both consumer games... and social network games...
+are loved by everyone."""
+2015008010030,甜花,"『今まで、ひとりでできるゲームばっかりやってたけど
+最近はみんなでゲームをすることが増えました』","""Tenka's only... played games she can play by herself...
+up until now, but... Lately, the amount of people
+playing games has increased."""
+2015008010040,甜花,"『４人対戦のゲームは、なーちゃんや、千雪さんや、
+みんなで遊べて楽しいです』","""Being able to play 4 player competition games... with
+Naa-chan and Chiyuki-san and everyone else... is fun."""
+2015008010050,甜花,『また、みんなで遊びたいなって思いました』,"""Tenka wants to play with everyone again."""
+2015008010060,甜花,んん……,Hmm......
+2015008010070,甜花,えと……えっと……,Um...... Umm......
+0000000000000,プロデューサー,甜花、何を書いてるんだ？,"What are you writing, Tenka?"
+2015008010080,甜花,"プロデューサーさん……
+これ……",Producer-san...... This is......
+0000000000000,プロデューサー,"ああ、今度からの新連載コラムの原稿か
+ちゃんとやってて偉いな","Oh, the manuscript for the serialization coming up.
+Great job getting it done."
+0000000000000,プロデューサー,"『甜花の好きなもの紹介』……
+甜花のことを、もっと知ってもらうチャンスだもんな","""An Introduction to Tenka's Likes""...
+So it's a chance for them to learn more about you."
+2015008010090,甜花,"う、うん……
+でも……",Y-Yeah...... but......
+2015008010100,甜花,……何、書けばいいか……わかんなくって……,......Tenka... doesn't know... what to write......
+0000000000000,プロデューサー,"そうか……
+どう悩んでるんだ？",I see... What're you worrying about?
+2015008010110,甜花,"あ、あのね……
+今一番楽しいのは、シリーズ最新の、なんだけど……","Y-You see...... The most fun game... right now... is the
+most recent release in this series, but......"
+2015008010120,甜花,やっぱり、最初から、やってほしいから……,Tenka really... wants to say that first......
+0000000000000,甜花,１作目……でも、今からだと手、出しにくくて……,"So that's her first one...... but... now... she can't think
+of anything else......"
+2015008010130,甜花,どうしよって……,Tenka was worried about... what she should do......
+0000000000000,プロデューサー,"えっと……
+それはゲームの話……だよな？",Uhh... You're talking about games... right?
+2015008010140,甜花,"うん……
+甜花の好きなもの……ゲーム……",Yeah...... The thing that Tenka likes...... games......
+0000000000000,プロデューサー,"そうか……
+甜花はゲームが好きだもんな","I see... You do like your games, don't you?"
+2015008010150,甜花,"うん……！
+ゲーム、大好き……！",Yeah......! Tenka... loves games......!
+0000000000000,プロデューサー,"はは、ゲームのことを話してる甜花はいきいきしてるな
+でも……たまには、他のことも教えてくれないか？","Haha, you get super excited when you talk about
+games. But, maybe you should try to branch out."
+2015008010160,甜花,他の、こと……？,Branch... out......?
+0000000000000,プロデューサー,"ああ
+甜花がゲーム好きなのは、ファンのみんなもわかってる","Yeah. All of your fans already know that you like
+games."
+0000000000000,プロデューサー,"せっかく連載で、好きなものを紹介するって
+機会をもらえたんだ","You've received the opportunity to introduce any of
+the things you like in a serialized column."
+0000000000000,プロデューサー,"甜花が他に好きなものを知ることができたら、
+ファンも嬉しいんじゃないか？","If your fans had the opportunity to learn about
+anything else you like, I'm sure they'd be happy."
+2015008010170,甜花,"そ、そうかな……他の、好きなもの……
+……お昼寝、とか……？",G-Got it... something... else...... maybe... naps......?
+0000000000000,プロデューサー,そのあたりも、プロフィールに載せちゃってるな……,You know that's also written in your profile......
+2015008010180,甜花,"あうう……
+ほ、他の……えと……えっと……",Auu...... S-Something... else...... Um...... Umm......
+2015008010190,甜花,"…………
+やっぱり……甜花には、なんにも……",............ Tenka... really doesn't... have anything else......
+0000000000000,プロデューサー,……それじゃあ、甜花の『好きなもの』を一緒に探そう,"......Alright then, let's search for your ""likes""
+together."
+0000000000000,プロデューサー,"それで見つけたものを、
+コラムに書いてみるのはどうだ？","And you can write them in the column. How does that
+sound?"
+2015008010200,甜花,"え……？
+プロデューサーさん……いいの……？",Huh......? Is that okay... Producer-san......?
+0000000000000,プロデューサー,"もちろんだ！
+せっかく特集してもらうなら、いい記事にしたいもんな","Of course! If you're gonna be featured in a newspaper
+then I want it to be good."
+select,,"ゲームのことも
+忘れずにな","Don't forget
+about games either"
+select,,"甜花の『好き』を
+教えてくれないか？","Would you tell
+me what you ""like""?"
+select,,"アイドルになって、
+『好き』も増えたはずだ","Your ""likes"" should
+have grown since
+you became an idol"
+2015008010210,甜花,"え……
+ゲームのことも……いいの……？",Huh...... So writing about games... is okay......?
+0000000000000,プロデューサー,"ああ、もちろんだ
+例えば、最近初めてやってみたやつとかないか？","Yes of course. Like, do you have anything you
+recently started playing?"
+2015008010220,甜花,"最近……？
+えと、えっと……んー……？",Recently......? Um... Umm...... Hmm......?
+2015008010230,甜花,"……あっ……！
+この前、みんなでやった……４人対戦……！","......Oh......! This one game... with everyone...... a four
+player game... with everyone competing......!"
+0000000000000,プロデューサー,"あの時甜花、言ってただろ？
+これまで、ひとりでやるゲームばっかだったって","You already talked about that one, right? That part
+about how you only played single player games."
+0000000000000,プロデューサー,"今は、みんなでゲームをやるのが楽しい
+これだって、甜花が見つけた新しい『好き』だ","You said that playing with others was fun. That
+could be a new ""like""."
+2015008010240,甜花,そっか……！,Oh okay......!
+2015008010250,甜花,"にへへ……甜花、ずっと……
+ゲーム、『好き』だったけど……","Nihehe...... Tenka... has always ""liked"" games... but......"
+2015008010260,甜花,"ずっと、おんなじじゃなくて……
+新しい『好き』も……あったんだね……"," She found... a new ""like""... in the ones that... were
+different from her usual......"
+2015008010270,甜花,え……,Huh......
+2015008010280,甜花,プロデューサーさんも、知りたいの……？,Do you... want to know... Producer-san......?
+0000000000000,プロデューサー,もちろんだ,Of course I do.
+0000000000000,プロデューサー,"甜花が『好きなもの』を見つけた時の笑顔
+俺も知りたいからな","I want to know what kind of smile you make when you
+find something new that you ""like""."
+0000000000000,プロデューサー,きっと、ファンのみんなも同じことを思うはずだ,I'm sure your fans feel the same way.
+0000000000000,プロデューサー,"甜花が笑顔になれるもので、
+ファンも笑顔になれるんだ","The things that make you smile will make your fans
+smile too."
+2015008010290,甜花,"甜花の笑顔で……
+みんなも……",Tenka's smile... makes others smile......
+2015008010300,甜花,"……プロデューサさん
+甜花、『好きなもの探し』頑張る……！","......Producer-san... Tenka... will work hard... on the
+""search for things she likes""."
+2015008010310,甜花,"甜花の『好き』で……
+みんな、笑顔になってくれるなら……！","Because... everyone will smile... at the things that
+Tenka ""likes""......!"
+0000000000000,プロデューサー,"甜花は、アイドルになってから
+楽しいことがあっただろう？","You've had fun things ever since you became an idol,
+right?"
+2015008010320,甜花,"うん……！
+お仕事……楽しいこと、いっぱい……！",Yeah......! There's been tons of stuff... during work......!
+0000000000000,プロデューサー,楽しいってことは、きっと『好き』ってことなんだ,"Things that you find fun are things that you ""like"",
+right?"
+0000000000000,プロデューサー,"だから、甜花が楽しいと思った場所に行けば……
+そこで甜花の、『好き』も見つけられるはずだ","So, if you go to a place that you think is fun... then
+you'll be able to find more ""likes"" there."
+2015008010330,甜花,『楽しい』が……『好き』……,"""Fun"" things... are ""likes""......"
+2015008010340,甜花,"うん……！
+甜花、楽しいこと……大好き……！",Yeah......! Tenka... loves fun things......!
+0000000000000,プロデューサー,"みんなに甜花の魅力が伝わる……
+そんな『好きなもの探し』をしような","Let's do a ""search for things you like"" that conveys
+your charms to everyone."
+2015008010350,甜花,"わかった……！
+甜花、『好きなもの探し』……頑張る……！","Got it......! Tenka... will work hard... on the ""search for
+things she likes""."
+info,produce_events/201500801.json,
+Translator,kotonekotoP,

@@ -1882,7 +1882,7 @@ header.produceMusicSelect,シーズン%{seasonNum}の楽曲選択,Season %{seaso
 header.produceSupporterSelect,楽曲サポートアイドル選択,Track Support Idol Selection
 header.produceMusicInfo,楽曲情報,Track Details
 header.produceMusicOrder,ライブ楽曲入れ替え,Change Live Track
-option.produceContentTitle.notEnoughFansNotice,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示,W.I.N.G. Mode\nWarning screen if Fan Count is\nnot reached.Will show\na Pop-up.
+option.produceContentTitle.notEnoughFansNotice,W.I.N.G.編\nファン数未達成、振り返り警告\nポップアップを表示,W.I.N.G. Mode\nWarning screen if Fan Count is\nnot reached. Will show a\npop-up.
 option.fesTowerContentTitle.recoverPanelConfirmation,回復パネル選択肢時に確認画面を表示,Prompt for heal\npanel selection
 option.fesTowerContentTitle.presentPanelConfirmation,プレゼントパネル選択時に\n確認画面を表示,Prompt for present\npanel selection
 option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択時に\n確認画面を表示,Prompt for event\npanel selection

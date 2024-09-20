@@ -1,55 +1,55 @@
 id,name,text,trans
-1015002010010,甜花,すー……すー……,Zzz... Zzz...
+1015002010010,甜花,すー……すー……,Zzzー...... Zzzー......
 0000000000000,プロデューサー,──甜花……甜花,──Tenka... Tenka.
 1015002010020,甜花,"んー……
-すー……すー……","Nnn...
-Zzz... Zzz..."
+すー……すー……","Ngh......
+Zzzー...... Zzzー......"
 0000000000000,プロデューサー,"あんまりソファで眠っていると、
-身体を痛くするぞ？","If she sleeps so much on the sofa,
-wouldn't it affect her body badly?"
+身体を痛くするぞ？","You shouldn't sleep on the sofa so much, your body
+will ache, you know."
 0000000000000,プロデューサー,"ちゃんと家に帰った方がいい……
-──甜花","She better go home and rest...
-──Tenka."
+──甜花","You should go home to sleep...
+ーTenka."
 1015002010030,甜花,"……ふえっ……
-あ、えと…………おはようございます……","...Fuee...
-Ah, um... Good morning..."
+あ、えと…………おはようございます……","......Fuee......
+Oh... um...... Good morning......"
 0000000000000,プロデューサー,"ああ、おはよう
-もう夕方だけどな","Ah, it's not morning.
-It's already evening."
+もう夕方だけどな","Yeah, good morning.
+It's evening though."
 1015002010040,甜花,"夕方……！？
-た、たくさん寝ちゃった……ふあぁ……","Evening...!?
-T-Tenka overslept... Fuwaa..."
+た、たくさん寝ちゃった……ふあぁ……","Evening.....!?
+T-Tenka slept too much...... *yawn*......"
 0000000000000,プロデューサー,"いや、甜花があんまり気持ちよさそうで、
-俺もなかなか起こせなかったよ","Well, Tenka looks so comfortable sleeping on the sofa,
-I can't really wake you up like that."
-1015002010050,甜花,……にへへ……,...Nihehe.
-1015002010060,甜花,甜花、今日のレッスンも……頑張った……！,"Tenka, on today's lesson... did her best!"
+俺もなかなか起こせなかったよ","Well, you looked so comfortable, I didn't really wanna
+wake you either."
+1015002010050,甜花,……にへへ……,......Nihehe......
+1015002010060,甜花,甜花、今日のレッスンも……頑張った……！,Today... during Tenka's lessons... she did her best......!
 1015002010070,甜花,"だから、ご褒美……！
-いっぱい、お昼寝……！","That's why, the reward!
-Napping, a lot...!"
+いっぱい、お昼寝……！","So... this was... her reward......!
+She... napped a ton......!"
 0000000000000,プロデューサー,"そうかそうか。そのご褒美は大切だな
-ゆっくり休めたか？","I see, I see. Rewards like that are important too.
-Did you rest well and slowly?"
+ゆっくり休めたか？","I see I see. Rewards like that are important.
+Did you rest well?"
 1015002010080,甜花,"うん……！
-夢の中でも……寝てた……","Yes...!
-In the dream too... was taking a nap..."
+夢の中でも……寝てた……","Yeah......!
+Tenka was... napping in her dream too......"
 0000000000000,プロデューサー,"はは、夢の中でもか？
-甜花は本当に眠り姫だなあ","Haha, even in the dream too?
-Tenka's really like a Sleeping Beauty huh."
+甜花は本当に眠り姫だなあ","Haha, even in your dream? You really are sleeping
+beauty, Tenka."
 1015002010090,甜花,"アイドルになって……ちょっとずつ、だけど……
-自分で、歩けるようになってきたかなって……","Becoming an idol...  For just a little bit, but...
-Tenka herself, feels like she can walk on her own..."
+自分で、歩けるようになってきたかなって……","Tenka... is becoming an idol... but... she's wondering
+if... she can do it by herself......"
 1015002010100,甜花,"だから、ほんのちょっとだけ……
-たまには、休憩しても……いい、よね……？","That's why, even just for a bit too...
-Sometimes, it's good to rest now and then... right?"
+たまには、休憩しても……いい、よね……？","So that's why... even just a little bit... it's okay for
+her to... take breaks... right......?"
 0000000000000,プロデューサー,"ああ、もちろんだよ
-頑張る分だけ、ちゃんと休まないとな","Ah, that's correct.
-As much as you work hard, you also have to rest as well."
+頑張る分だけ、ちゃんと休まないとな","Yeah, of course you can. You can rest as much as
+you're working hard."
 1015002010110,甜花,"にへへ……
-夢でも、ぽかぽか……ひなたぼっこ……","Nihehe...
-In the dream too, it's warm like having a sunbath..."
+夢でも、ぽかぽか……ひなたぼっこ……","Nihehe...... The dreams... are so warm......
+It's like sunbathing......"
 1015002010120,甜花,"いつまでもいつまでも、お昼寝しましたとさ……
-めでたし、めでたし……すぅ……","Forever and always, taking a good nap...
-And they all lived... happily ever after... Zzz..."
+めでたし、めでたし……すぅ……","Napping... forever and ever...... and they lived...
+happily ever after....... Zzz......"
 info,produce_events/101500201.json,
-Translator,,
+Translator,kotonekotoP/Doodle(Tuna),
