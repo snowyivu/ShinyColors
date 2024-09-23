@@ -306,6 +306,7 @@ W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1名誕
 W.I.N.G.準決勝に進出しよう,Advance to W.I.N.G. semifinals,exp
 $nounに参加しよう,Participate in $1,exp
 $nounまたは$nounに参加しよう,Participate in either $1 or $2,exp
+$nounまたは$nounに$num回参加しよう,Participate in either $1 or $2 $3 times,exp
 $nounに参加して$nounを達成しよう,Perform a $2 in $1,exp
 $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 ゲームにログインしよう,Log into the game,exp
