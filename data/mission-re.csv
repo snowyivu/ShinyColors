@@ -340,7 +340,7 @@ $unknownが流行1位のときにW.I.N.G.決勝に勝利しよう,Win a W.I.N.G.
 【$unknown】サポートアイドルをトレーニングしよう,【$1】Train a Support Idol,exp
 【$unknown】初心者ミッションを全て達成しよう,【$1】Complete all Beginner missions,exp
 W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthrough missions,exp
-いずれかのアイドルのTrueEndを見よう,See any idol's True End,exp
+いずれかのアイドルのTrueEndを見よう,Reach any idol's True End,exp
 アイドルをホームユニットに編成しよう,Set any idol in your Home Unit,exp
 プロフィールでお気に入りのアイドルを設定しよう,Set your favorite idol in your Profile,exp
 ガシャを1回実行しよう（運命の出会いガシャを除く）,Pull from 1 Gacha (Excluding Fateful Meeting Gacha)
@@ -622,11 +622,20 @@ RPGのススメ,RPG Rally,note
 "シーズン2中にファン数を20,000人獲得する","Earn 20,000 fans during Season 2",exp
 "シーズン3中にファン数を250,000人獲得する","Earn 250,000 fans during Season 3",exp
 "エキシビションマッチまでにファン数を500,000人獲得する","Earn 500,000 fans before the Exhibition Match",exp
-スコア$num以上以上達成,Achieve a score of $1 or above,exp
+スコア$num以上達成,Achieve a score of $1 or above,exp
 ステージ勝利数が$num以上,Have $1 or more Stage wins,exp
+ステージ$numで勝利する,Win Stage $1,exp
 完全勝利回数が$num以上,Have a win count of $1 or more,exp
 エリア$numのステージすべてに勝利しよう,Clear all Area $1 Stages,exp
-エリア$numの達成度を100%にしよう,Get 100%
+エリア$numの達成度を100%にしよう,Get 100% Achievements in Area $1,exp
+$noteを$num回プレイしよう,Play $1 $2 times,exp
 $noteを$num回大富豪になる,Get "Grand Millionaire" in $1 $2 times,exp
 $noteでスコア$num点以上を取ろう,Get a score of $2 and above in $1,exp
+$noteでスコアを累計$num点以上を集めよう,Have a total score of $2 points and above in $1,exp
 $nameのコミュニケーションレベルを$numにしよう,Reach Communication Level $2 with $1,exp
+【$note】$nounを獲得しよう,Scout [$1] $2
+【$note】$nounを$num回特訓しよう,Evolve [$1] $2 to $3★
+いずれかのアイドルのTrueEndを$num回見よう,Reach any idol's True End $1 times,exp
+$nounでスコアを合計$num万pt獲得しよう,"Earn a total score of $20000 pts in $1",exp
+パラコレアイドルを$num人加入させよう,Let $1 ParaColle Idols join,exp
+$nameをプロデュースして、W.I.N.G.マスターモードを優勝しよう,Produce $1 and win W.I.N.G. Master Mode,exp

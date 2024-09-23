@@ -2632,9 +2632,9 @@ idolDetail.tradeConfirmDialog.memorialIdolRank3Notice,思い出Lv.3以上のフ�
 idolDetail.tradeConfirmDialog.tradeConfirmNotice,この動作は取り消すことができません,この動作は取り消すことができません
 idolDetail.foilStatusUpText,フォイル化基礎能力UP：,フォイル化基礎能力UP：
 idolDetail.letterFromIdolDetailDialog.title,「アイドルからの手紙」詳細,"""Letter from the Idol"" Details"
-idolDetail.letterFromIdolDetailDialog.description,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます,You can view letters from Parallel Collection idols.
+idolDetail.letterFromIdolDetailDialog.description,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます,You can view letters\nfrom Parallel Collection idols.
 idolDetail.letterFromIdolDetailDialog.condition,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」,"・""Letter Unlocked"" at 2nd Evolve\n・""Voiced Letter Unlocked"" at 4th Evolve"
-idolDetail.letterFromIdolDetailDialog.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,"・The Letter will be unlocked at 2nd Evolve,\nand the Idol will read it to you at her 4th Evolve."
+idolDetail.letterFromIdolDetailDialog.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,"The letter will be unlocked at her 2nd Evolve,\nand the idol will read it to you at her 4th Evolve."
 item.itemConfirm.notice.fes,自然回復の上限を超えて回復できます,自然回復の上限を超えて回復できます
 item.itemConfirm.notice.fes_limited,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます
 item.recoveryItem.type.fes.resultConsumeItem,以下のアイテム,Items listed below
