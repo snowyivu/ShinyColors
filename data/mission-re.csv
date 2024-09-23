@@ -126,11 +126,17 @@ G.R.A.D.に優勝しよう,Win the G.R.A.D. Championship,text
 斑鳩 ルカ,Luca Ikaruga,name
 鈴木 羽那,Hana Suzuki,name
 郁田 はるき,Haruki Ikuta,name
+ルビー,Ruby,name
+有馬 かな,Kana Arima,name
+有馬かな,Kana Arima,name
+MEMちょ,MEM-cho,name
 フェス,Fes,noun
 フェスリハーサル,Fes Rehearsal,noun
 グレードフェス,Grade Fes,noun
+マスターズフェス,Masters Fes,noun
 リンクアピール,Link Appeal,noun
 パーフェクト,Perfect,noun
+思い出アピール,Memory Appeal,noun
 がっちりアピール,Top + Last Appeal,noun
 トップアピール,Top Appeal,noun
 ラストアピール,Last Appeal,noun
@@ -168,11 +174,15 @@ Vo.,Vo.,noun
 Vi.,Vi.,noun
 Da.,Da.,noun
 Me.,Me.,noun
-W.I.N.G.編,W.I.N.G. Run,note
-ファン感謝祭編,Thanks Flapping Day Run,note
-G.R.A.D.編,G.R.A.D. Run,note
+NORMAL,NORMAL,noun
+HARD,HARD,noun
+W.I.N.G.編,W.I.N.G.,note
+ファン感謝祭編,Thanks Flapping Day,note
+G.R.A.D.編,G.R.A.D.,note
 LandingPoint,LandingPoint,note
 LandingPoint編,LandingPoint,note
+S.T.E.P.編,S.T.E.P.,note
+大富豪,Daifugo,note
 高難易度,High Difficulty,note
 期間限定,Limited Time,note
 $nounに$num回参加しよう,Participate in $1 $2 times,exp
@@ -180,6 +190,7 @@ $nounに$num回参加しよう,Participate in $1 $2 times,exp
 フェス参加権が$num回復します,Recover $1 Fes Entries,exp
 $nounを$num回プレイしよう,Play $1 $2 Times,exp
 フェスアイドルを$num人誕生させよう,Create $1 Fes Idols,exp
+いずれかのステータスが$num以上のフェスアイドルを$num人誕生させよう,Create $2 Fes Idols with $1 (or above) of any stat
 $nounに参加して、$nounを達成しよう,Join $1 and earn $2,exp
 「$noun」：条件を満たすことで発動できる特別なスキル,[$1]: A special skill that can be activated by satisfying the conditions,exp
 $nounに参加して、$nounを$num回達成しよう,Join $1 and earn $2 $3 times,exp
@@ -227,6 +238,7 @@ $noun以上のフェスアイドルを誕生させよう,Create a Fes Idol of $1
 グレードLv$numに昇格しよう,Promote to Grade Lv$1,exp
 $nameをプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
 $nameプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
+$nameでアイドル$noun以上を達成してフェスアイドルにしよう,Produce $1 and create a Fes Idol with $2 or above,exp
 $nameをプロデュースしてW.I.N.G.決勝に進出しよう,Produce $1 and advance to W.I.N.G. Finals,exp
 【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,Produce 【$1】$2 and clear season $3,exp
 【$unknown】$nameを編成してシーズン$numをクリアしよう,Use 【$1】$2 in a Produce run and clear season $3,exp
@@ -246,8 +258,8 @@ $num周目クリア,Clear $1 Rounds,exp
 最高スコア$num達成,Highest Score $1 Achieved,exp
 トークイベントに出演などでSPを累計$num以上獲得しよう,Earn a total of $1 or more SP from Talkshows,exp
 ラジオの収録などでメンタルを$num以上にしよう,Earn a total of $1 or more Mental from Radio Shows,exp
-ラジオの収録やトークイベントに出演などでファン数を$num人以上獲得しよう,Earn a total of $1 or more Fans from Radio Shows and Talkshows,exp
-トークイベントに出演などでSPを累計$num以上にしよう,Make SP a total of $1 or more from Talkshows,exp
+ラジオの収録やトークイベントに出演などでファン数を$num人以上獲得しよう,Earn a total of $1 or more Fans from Radio Shows and Talk Shows,exp
+トークイベントに出演などでSPを累計$num以上にしよう,Make SP a total of $1 or more from Talk Shows,exp
 $ukを$num以上にしよう,Get $1 to more than $2,exp
 ファン数を累計$num万人以上獲得しよう,Gain over $10000 fans total,exp
 マニーショップで買い物をしよう,Buy one item from the Money Shop,text
@@ -257,32 +269,43 @@ $ukを$num以上にしよう,Get $1 to more than $2,exp
 【$unknown】$nameを最大まで特訓しよう,Evolve 【$1】$2 to max evolution,exp
 【$unknown】$nameを最大まで\n特訓しよう,Evolve 【$1】$2 to max evolution,exp
 $nameのRアイドルです,R rank idol of $1,exp
-アイドルは特訓をすることで、強力なスキルを覚えられるようになります～,"By evolving your idols, they'll be able to learn powerful skills~",exp
+アイドルは特訓をすることで、強力なスキルを覚えられるようになります～,"By evolving your idols, they'll be able to learn powerful skills～",exp
 編成のチュートリアルを見よう,View the Team Setup tutorial,exp
 $nameのSRサポートアイドルです,SR rank support idol of $1,exp
 編成チュートリアルを参考にユニット編成してみてくださいね♪,Please reference the team setup tutorial to set your unit♪,exp
 【$unknown】$nameを編成しよう,Set 【$1】$2 in a team,exp
-初心者ミッションを進めるプロデュースアイドルを選択しよう,Let's select a Produce Idol to move forward,exp
-初心者ミッションを進めるプロデュース\nアイドルを選択しよう,Let's select a Produce Idol to move forward,exp
+初心者ミッションを進めるプロデュースアイドルを選択しよう,Select a Produce Idol to move forward,exp
+初心者ミッションを進めるプロデュース\nアイドルを選択しよう,Select a Produce Idol to move forward,exp
 トレーニングで【$unknown】$nameをLv.50にしよう,Train 【$1】$2 to Lv.50,exp
+フェスアイドルユニットを編成しよう,Create a Fes Idol unit,exp
+フェスリハーサルで2位以上になろう,Get 2nd Place or above in Fes Rehearsal,exp
+フェスリハーサルで3位以上になろう,Get 3rd Place or above in Fes Rehearsal,exp
+フェスリハーサルでマニーを100以上獲得しよう,Get 100 and more Money in Fes Rehearsal,exp
+マニーショップでゴールドトレーニングチケットを購入してみよう,Buy Gold Training Tickets from the Money Shop,exp
+アイドルロードをみてみよう,View Idol Road,exp
+1回のW.I.N.G.で$nounを6回以上行おう,Do a $1 6 or more times in W.I.N.G.,exp
+$nounが$num以上のフェスアイドルを1人誕生させよう,Create a Fes Idol with $1 $2 stat or above,exp
+『W.I.N.G.』編のオーディションで特定の$noun審査員からトップアピールをとろう,,exp
 W.I.N.G.編のプロデュースで$noun以上のCreate 1 Fes Idols,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
 W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1人誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
 W.I.N.G.のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
 W.I.N.G.編のプロデュースで$noun以上のフェスアイドルを1名誕生させよう,Play a W.I.N.G. Produce run and create an idol at $1 or above,exp
 サポートアイドル1人をLv.65以上にしよう,Level 1 Support Idol to Lv.65 or above,exp
-W.I.N.G.編のプロデュースの振り返りでスキルを習得してみよう,Learn a skill through Reminisce in W.I.N.G.,exp
+『W.I.N.G.』編のプロデュースの振り返りでスキルを習得してみよう,Learn a skill through Reminisce in W.I.N.G.,exp
 受け取ったサポートアイドルを編成してみましょう♪,Let's set the Support Idol we got♪,exp
 編成に悩んだら、おまかせ編成を使ってください♪最初のうちは同じジャンルのアピールを持っているサポートアイドルで揃えるのがおすすめです～,"If you're worred about your setup, please use the Recommend button♪ Let's gather supports of the same appeal type first~",exp
-サポートアイドルならレベル上限も上昇しますよ♪,"For supports, their maximum level will also increase♪",exp
-サポートアイドルのレベルを上げると、プロデュースを有利に進めることができます～トレーニング以外にも、営業も活用してくださいね,"If you raise your support's levels, you can advance further in Produce~ Besides training, you can also level through Jobs.",exp
-フェスアイドルを誕生させるには最後までプロデュースをしてくださいね～♪,"To create a Fes Idol, play Produce mode until the end~♪",exp
+サポートアイドルならレベル上限も上昇しますよ♪," For supports, their maximum level will also increase♪",exp
+サポートアイドルのレベルを上げると、プロデュースを有利に進めることができます～トレーニング以外にも、営業も活用してくださいね,"If you raise your support's levels, you can advance further in Produce～ Besides training, you can also level through Jobs.",exp
+フェスアイドルを誕生させるには最後までプロデュースをしてくださいね～♪,"To create a Fes Idol, play Produce mode until the end～♪",exp
 誕生させたフェスアイドルを編成してフェスに参加してみましょう♪,Let's set the Fes Idol we just made in our Fes team♪,exp
-ライブスキルはオーディション攻略に欠かせませんスキルの有無で難易度が大きく変わるので、大事なステージの前には取り忘れがないか確認を〜,"Live skills are indispensable for beating auditions, make sure you grab some before an important stage~",exp
-アイドルを特訓すると新しいスキルが覚えられます♪特訓には、「同じイラストのアイドルで特訓」と「特訓はづきさんで特訓」の二つの方法がありますよ～,"Your idol can learn new skills through Evolution♪ You can evolve an idol with a copy of the same card or the proper Hazuki seal~",exp
-それぞれのポジションに合ったアイドルを編成するとフェスで高いスコアを残すことができますよ～,"If you set an idol that suits each position, you can obtain a high score in Fes~",exp
+レベルの高いサポートアイドルを編成すれば、プロデュースを有利に進めることができますよ〜,,exp
+ライブスキルはオーディション攻略に欠かせませんスキルの有無で難易度が大きく変わるので、大事なステージの前には取り忘れがないか確認を〜,"Live skills are indispensable for beating auditions, make sure you grab some before an important stage～",exp
+アイドルを特訓すると新しいスキルが覚えられます♪特訓には、「同じイラストのアイドルで特訓」と「特訓はづきさんで特訓」の二つの方法がありますよ～,"Your idol can learn new skills through Evolution♪ You can evolve an idol with a copy of the same card or the proper Hazuki seal～",exp
+それぞれのポジションに合ったアイドルを編成するとフェスで高いスコアを残すことができますよ～,"If you set an idol that suits each position, you can obtain a high score in Fes～",exp
 営業を$num回完了しよう,Complete $1 jobs,exp
 W.I.N.G.準決勝に進出しよう,Advance to W.I.N.G. semifinals,exp
 $nounに参加しよう,Participate in $1,exp
+$nounまたは$nounに参加しよう,Participate in either $1 or $2,exp
 $nounに参加して$nounを達成しよう,Perform a $2 in $1,exp
 $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 ゲームにログインしよう,Log into the game,exp
@@ -326,7 +349,7 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 【$note】W.I.N.G.を$num回優勝しよう,【$1】Win W.I.N.G. $2 times,exp
 【$note】G.R.A.D.で優勝しよう,【$1】Win G.R.A.D.,exp
 【$unknown】$nameを編成してシーズン$numを クリアしよう,【$1】 Clear Season $3 with $2,exp
-シーズン$numを$num回クリアしよう,"Clear ""Season $1"" $2 times",exp
+シーズン$numを$num回クリアしよう,"Clear Season $1 $2 times",exp
 【$note】W.I.N.G.決勝に$num回進出しよう,【$1】Reach W.I.N.G. Finals $2 times,exp
 ​【$note】いずれかのアイドルのTrueEndを$num回見よう,【$1】Reach any idol True End $2 times,exp
 【$note】いずれかのアイドルのTrueEndを1回見よう,【$1】Reach any idol's True End,exp
@@ -347,6 +370,7 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 【$note】楽曲課題を$num個クリアしよう,【$1】Clear $2 song assignments,exp
 【$note】ファン感謝祭を$num回クリアしよう,【$1】Win T.F.D. $2 times,exp
 $nounの誰か一人をプロデュースして$noun以上のフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of $2 or above,exp
+$nounの誰か一人でアイドル$noun以上を達成してフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of Idol $2 or above,exp
 【$note】$noun以上の$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3 or above, earn a 「$4」 $5 times",exp
 $nounの$nounに参加して、$num位に$num回なろう,"In $1 $2, earn rank $3 $4 times",exp
 【$note】$nounの$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3, earn a 「$4」 $5 times",exp
@@ -512,7 +536,7 @@ RPGのススメ,RPG Rally,note
 新装備・バブルバスター！,"New Equipment, Bubble Buster!",note
 デコって！ハッピークッキー,Decoration! Happy Cookie,note
 ヒーローインザパーク,Hero In The Park,note
-放課後スノーガールズ！,Afterschool Snow Girls!,note
+放課後スノーガールズ！,HO-KA-GO Snow Girls!,note
 ちょこ色×きらきらロマン,Chocolatey×Sparkling Romance,note
 桜餅マスター……？,Sakura Mochi Master...?,note
 迷走チョコロード,Straying Off Choco Road,note
@@ -536,6 +560,7 @@ RPGのススメ,RPG Rally,note
 #ナッツ・チョコジェリー,#Nuts・ChocoJelly,note
 虹待ちレインドロップ,Raindrops Awaiting a Rainbow,note
 スタンド・バイ,Stand By,note
+楽園に背く,Defying Paradise,note
 ゆらゆらアクアリウム,Swaying Aquarium,note
 甜花ちゃんといっしょ☆,Together With Tenka☆,note
 幸せのりんご飴,Candy Apple of Happiness,note
@@ -593,7 +618,15 @@ RPGのススメ,RPG Rally,note
 小さな夜のトロイメライ,Little Night of Traumerei,note
 つよがりのためのララバイ,Lullaby for Courage,note
 かわいいひと,Cute Person,note
-最終週のエントリーライブを成功させる,Clear the Last Week's Entry Live
-"シーズン2中にファン数を20,000人獲得する","Earn 20,000 fans during Season 2"
-"シーズン3中にファン数を250,000人獲得する","Earn 250,000 fans during Season 3"
-"エキシビションマッチまでにファン数を500,000人獲得する","Earn 500,000 fans before the Exhibition Match"
+最終週のエントリーライブを成功させる,Clear the Last Week's Entry Live,exp
+"シーズン2中にファン数を20,000人獲得する","Earn 20,000 fans during Season 2",exp
+"シーズン3中にファン数を250,000人獲得する","Earn 250,000 fans during Season 3",exp
+"エキシビションマッチまでにファン数を500,000人獲得する","Earn 500,000 fans before the Exhibition Match",exp
+スコア$num以上以上達成,Achieve a score of $1 or above,exp
+ステージ勝利数が$num以上,Have $1 or more Stage wins,exp
+完全勝利回数が$num以上,Have a win count of $1 or more,exp
+エリア$numのステージすべてに勝利しよう,Clear all Area $1 Stages,exp
+エリア$numの達成度を100%にしよう,Get 100%
+$noteを$num回大富豪になる,Get "Grand Millionaire" in $1 $2 times,exp
+$noteでスコア$num点以上を取ろう,Get a score of $2 and above in $1,exp
+$nameのコミュニケーションレベルを$numにしよう,Reach Communication Level $2 with $1,exp

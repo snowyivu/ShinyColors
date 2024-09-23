@@ -217,13 +217,13 @@ userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送
 userDailyLottery.ticketPop.tips,まいにちくじを%{num}枚プレゼントします♪\r抽選の結果を楽しみにしていてくださいね～,You'll receive %{num} presents every day♪\r\nPlease look forward to the lotto results～
 deck.autoSelectDialog.title,おまかせ編成,Recommended Setup
 deck.autoSelectDialog.noUserIdol,おまかせ編成を使用するには\nプロデュースアイドルを設定してください,Please select a Produce Idol\nto use the Recommended Setup feature
-deck.autoSelectDialog.description,設定中のプロデュースアイドルによって編成内容を判別します\n編成の方針を選択してください,This will recommend a team based on your chosen Produce Idol\nPlease choose the settings to use for recommendation
+deck.autoSelectDialog.description,設定中のプロデュースアイドルによって編成内容を判別します\n編成の方針を選択してください,This will recommend a team based on your\nchosen Produce Idol. Please choose the settings to\nuse for recommendation.
 deck.autoSelectSuccessDialog.title,おまかせ編成,Recommended Setup
 deck.autoSelectSuccessDialog.advice1.beforeType,今回のユニットは,Strong 
-deck.autoSelectSuccessDialog.advice1.afterType,が得意なメンバーで, type members
+deck.autoSelectSuccessDialog.advice1.afterType,が得意なメンバーで,-type members
 deck.autoSelectSuccessDialog.advice1.nextLine,編成されています！,have been assigned!
 deck.autoSelectSuccessDialog.advice2.beforeType,プロデュース中は,We recommend focusing on 
-deck.autoSelectSuccessDialog.advice2.afterType,を重点的に, lessons
+deck.autoSelectSuccessDialog.advice2.afterType,を重点的に,　lessons
 deck.autoSelectSuccessDialog.advice2.nextLine,レッスンするといいですよ♪,while Producing♪
 deck.autoSelectSuccessDialog.description,サポートアイドルを%{type}編成で設定しました,A setup using %{type} support idols. 
 deck.deckNumber,ユニット%{deckNumber},Unit %{deckNumber}
@@ -1367,7 +1367,7 @@ training.successType.great,大成功,Great Success
 training.successType.super,超成功,ULTRA Success
 training.trainingTicketReturn.message,%{type}ボーナスの余剰Exp分を\rブロンズトレーニングチケットに変換して\rプレゼントに送りました,Excess Exp from %{type}\rhas been converted to Bronze Tickets\rand sent to Present Box
 training.trainingTicketReturn.title,トレーニングキャンペーン,Training Campaign
-beginnerMission.staffComment,初心者ミッションを進めて報酬を受け取ってくださいね〜,Please keep doing beginner missions to get your rewards～
+beginnerMission.staffComment,初心者ミッションを進めて報酬を受け取ってくださいね〜,Please do your beginner missions to get your rewards～
 beginnerMission.selectIdolPopTitle,初心者ミッションを始めるプロデュースアイドルを選択します,Select a Produce idol to move on with beginner missions.
 beginnerMission.groupLabel.label.1,好きなアイドルを育てよう,Raise your favorite Idol
 beginnerMission.groupLabel.label.2,1人目のサポートアイドルを育てよう,Raise 1 Support Idol
@@ -1382,7 +1382,7 @@ beginnerMission.availableSupportIdolsDetailPop.tips,%{idolName}さんのサポ�
 beginnerMission.availableSupportIdolsDetailPop.attribute,%{attribute}タイプ,%{attribute} Set
 beginnerMission.availableSupportIdolsDetailPop.tips2,のアイドル5人に来てもらいました♪,of 5 support idols will come♪
 beginnerMission.idolSelectConfirmPop.title,初心者ミッション開始確認,Start Beginner Mission Confirm
-beginnerMission.idolSelectConfirmPop.text,選択したプロデュースアイドルでは\n以下のサポートアイドルが手に入ります\n初心者ミッションを開始しますか？,If you choose to produce this idol you\nwill receive the below support idols.\nStart the beginner missions?
+beginnerMission.idolSelectConfirmPop.text,選択したプロデュースアイドルでは\n以下のサポートアイドルが手に入ります\n初心者ミッションを開始しますか？,"If you choose to produce this idol, you\nwill receive the below support idols.\nStart the beginner missions?"
 beginnerMission.idolSelectConfirmPop.txtNotice,初心者ミッション開始後に選びなおすことはできません,Once you start the missions you can't re-select
 beginnerMission.clearedAlert.title,初心者ミッション達成,Cleared Beginner Mission
 beginnerMission.clearedAlert.text,以下のミッションを達成しました\n初心者ミッションページで報酬を受け取りましょう,Completed this mission - Receive\nyour rewards on the Beginner Missions page
@@ -1509,7 +1509,7 @@ tutorial.dialog.idolChoice.title,プロデュースアイドル確認,Confirm Id
 tutorial.dialog.idolChoice.message,%{name}で\nチュートリアルを開始しますか？,Start the tutorial with\n%{name}?
 tutorial.dialog.deckEdit.title,確認,Confirm
 tutorial.dialog.deckEdit.message,編成のチュートリアルを見ますか？,View the Team Setup Tutorial?
-tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,"First, please choose the idol you'd like to produce♪\nAfter the tutorial you can choose a different idol～"
+tutorial.staffMessage,初めにプロデュースするアイドルを選んであげてください♪\nチュートリアル後には他のアイドルもプロデュースできますよ～,"First, please choose the idol you'd like to produce♪\nAfter the tutorial, you can choose a different idol～"
 tutorial.unitDescription.1,小さな光を宿す少女たちで結成された、新世代のアイドルユニット。\n今はまだかすかな輝きでも、時にぶつかり時に支え合いながら、\n一等星を目指して歩んでいく！,"A new-generation unit of girls, harboring a tiny light.\nAlthough their glow is faint, they will persevere together\nto shine even brighter and become shooting stars!"
 tutorial.unitDescription.2,胸に燻る焔を「ウタ」に、孤独な泪を「ネガイ」に変える、\n新世界の革命的アイドルユニット。\nゴシックなドレスを纏い、彼女たちは希望を謳い続ける―。,"The smoldering flame in their hearts made into ""Song"",\nand the solitude in their tears turned into ""Prayer"".\nThey are a revolutionary unit of the New World.\nClad in Gothic dresses, they sing on for hope."
 tutorial.unitDescription.3,個性と個性がぶつかり合う全力系アイドルユニット。\n全身全霊でアイドル道を突き進む彼女達の姿こそ、クライマックスの証。\nファンもプロデューサーも世界も巻き込んでアイドル界のてっぺんを目指す！！,"A full-power unit where their unique personalities clash.\nThey plunge forward on the path of an idol, with the proof\nof their devotion shown at the ""Climax"" of their performance.\nThese idols will engulf the world as they aim for the very top!!"
@@ -2515,8 +2515,8 @@ daifugo.role.great_rich_man,大富豪,大富豪
 daifugo.role.rich_man,富豪,富豪
 daifugo.role.poor_man,貧民,貧民
 daifugo.role.great_poor_man,大貧民,大貧民
-characterProfile.unlockText,コミュニケーションレベル%{level}で解放,コミュニケーションレベル%{level}で解放
-miniGame.tutorial.comment1,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～
+characterProfile.unlockText,コミュニケーションレベル%{level}で解放,Unlocked at Communication Level %{level}
+miniGame.tutorial.comment1,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～ ,"Please take a look at the info about the idols.\nFirst, here are their profiles～ "
 fes.specialFesSelect.consumeButtonComment,チケットを     消費します,チケットを     消費します
 fes.specialFesSelect.consumeComment,まとめて消費は、消費分の報酬を獲得可能！,まとめて消費は、消費分の報酬を獲得可能！
 fes.deck.memoryChargeSkillDisableNotice,※思い出チャージの効果を持つアイドル\nを編成することで有効となります。\n\n※思い出チャージを持つアイドルは、センターポジション担当と同じユニットの必要があります。,※思い出チャージの効果を持つアイドル\nを編成することで有効となります。\n\n※思い出チャージを持つアイドルは、センターポジション担当と同じユニットの必要があります。
@@ -2583,8 +2583,8 @@ gasha.popAgainGashaRedrawConfirmSecond.checkComment,引き直しを有効にす�
 gasha.popAgainGashaUnsettled.comment,%{gashaName}\nの結果を確定していません\nガシャ結果へ移動します,%{gashaName}\nの結果を確定していません\nガシャ結果へ移動します
 gasha.popAgainGashaUnsettledTerm.comment,%{gashaName}\nの販売期間が終了しました\n確定したガシャ結果へ移動します,%{gashaName}\nの販売期間が終了しました\n確定したガシャ結果へ移動します
 gasha.popAgainGashaUnsettledTerm.notice,引き直しはできません,引き直しはできません
-gasha.stepSubtitle,通常ガシャ提供割合,通常ガシャ提供割合
-gasha.stepSubtitleIdol,通常ガシャの提供アイドル一覧,通常ガシャの提供アイドル一覧
+gasha.stepSubtitle,通常ガシャ提供割合,Regular Gacha Drop Rate
+gasha.stepSubtitleIdol,通常ガシャの提供アイドル一覧,List of Idols in Regular Gacha
 gasha.staffChanceGashaAcquiredRewardPop.nameAndNum,%{name} ×%{num},%{name} ×%{num}
 gasha.foilGashaNotice,※アイドルは獲得できません。,※Idols cannot be obtained.
 header.parallelOption,サブ画面設定,Sub Screen Settings
@@ -2631,10 +2631,10 @@ idolDetail.tradeConfirmDialog.fesIdolRankANotice,Aランク以上のフェスア
 idolDetail.tradeConfirmDialog.memorialIdolRank3Notice,思い出Lv.3以上のフェスアイドルが含まれています,思い出Lv.3以上のフェスアイドルが含まれています
 idolDetail.tradeConfirmDialog.tradeConfirmNotice,この動作は取り消すことができません,この動作は取り消すことができません
 idolDetail.foilStatusUpText,フォイル化基礎能力UP：,フォイル化基礎能力UP：
-idolDetail.letterFromIdolDetailDialog.title,「アイドルからの手紙」詳細,「アイドルからの手紙」詳細
-idolDetail.letterFromIdolDetailDialog.description,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます
-idolDetail.letterFromIdolDetailDialog.condition,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」
-idolDetail.letterFromIdolDetailDialog.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます
+idolDetail.letterFromIdolDetailDialog.title,「アイドルからの手紙」詳細,"""Letter from the Idol"" Details"
+idolDetail.letterFromIdolDetailDialog.description,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます,You can view letters from Parallel Collection idols.
+idolDetail.letterFromIdolDetailDialog.condition,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」,"・""Letter Unlocked"" at 2nd Evolve\n・""Voiced Letter Unlocked"" at 4th Evolve"
+idolDetail.letterFromIdolDetailDialog.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,"・The Letter will be unlocked at 2nd Evolve,\nand the Idol will read it to you at her 4th Evolve."
 item.itemConfirm.notice.fes,自然回復の上限を超えて回復できます,自然回復の上限を超えて回復できます
 item.itemConfirm.notice.fes_limited,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます,自然回復の上限を超えて回復できます\nフェーズ切り替わりの際\n上限を超えている参加権は破棄されます
 item.recoveryItem.type.fes.resultConsumeItem,以下のアイテム,Items listed below
@@ -2688,3 +2688,13 @@ parallelSceneNoticePop.comment3,メイン画面とサブ画面の音量は別で
 commuUnlockErrorPop.title,コミュ解放,Commu Unlocked
 commuUnlockErrorPop.texts.unlocked,すでに解放されています,Commu already unlocked
 commuUnlockErrorPop.texts.itemShortage,%{itemName}が不足しています,Not enough %{itemName}
+beginnerMission.title,初心者ミッション,Beginner Missions
+beginnerMission.wingTitle,W.I.N.G.攻略ミッション,W.I.N.G. Missions
+beginnerMission.clearedAlert.lastLectureReward,選択したアイドル以外の全員分の\nP-Rアイドル【白いツバサ】×4,P-R Idol [White Wing] ×4 for all Idols\nexcept the chosen Idol
+beginnerMission.tutorial.fesUnitSelectTutorialText1,流行にあったライブスキルや能力の高いフェスアイドルを\n編成してみましょう,流行にあったライブスキルや能力の高いフェスアイドルを\n編成してみましょう
+beginnerMission.tutorial.fesUnitSelectTutorialText2,今回の流行は1位%{genre1}、2位%{genre2}、3位%{genre3}です,今回の流行は1位%{genre1}、2位%{genre2}、3位%{genre3}です
+beginnerMission.tutorial.fesUnitSelectTutorialText3,アイドルのアイコンを長押しすると詳細を確認できますよ\nベストなフェスアイドルを選んで編成しましょう,アイドルのアイコンを長押しすると詳細を確認できますよ\nベストなフェスアイドルを選んで編成しましょう
+beginnerMission.tutorial.fesUnitSelectTutorialText4,編成中の他のアイドルを選択すると\nポジションが入れ替わります,編成中の他のアイドルを選択すると\nポジションが入れ替わります
+beginnerMission.tutorial.fesUnitSelectTutorialText5,また、編成中の同じアイドルを選択すると\nユニットから外れてしまいます,また、編成中の同じアイドルを選択すると\nユニットから外れてしまいます
+beginnerMission.lockConditionsPop.title,ミッション条件,ミッション条件
+beginnerMission.lockConditionsPop.text,ミッションを行うには下記を満たす必要があります,ミッションを行うには下記を満たす必要があります
