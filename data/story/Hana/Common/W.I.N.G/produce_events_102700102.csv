@@ -28,8 +28,8 @@ Did you contact her by DMing her or something?"
 本人のSNSアカウントではなく、友人のものだったので","Although, the video wasn't uploaded on her own 
 account, but a friend's instead."
 0000000000000,プロデューサー,"鈴木の友人や、当時の学校経由で
-いろいろと特殊だったんですけどね、はは……！","It was rather something involving her friends and her 
-school at that time, haha...!"
+いろいろと特殊だったんですけどね、はは……！","It was rather something involving her friends and
+her school at that time, haha...!"
 0000000000000,スタッフ,"はぁ～！
 ──あれ、でも羽那ちゃんの出身って岡山でしたよね？","I see～!
 But Hana-chan is from Okayama, isn't she?"
@@ -76,7 +76,7 @@ Anything──"
 Saying anything sounds dramatic."
 1027001020020,羽那,ふふっ──！,Fufuuu!
 0000000000000,プロデューサー,"……だけど、なんだって伝えてほしいんだ
-羽那が思ってることとか、言いたいこととか","... But definitely come talk to me if there's anything 
+羽那が思ってることとか、言いたいこととか","...But definitely come talk to me if there's anything 
 on your mind."
 1027001020030,羽那,──うん,──Sure.
 1027001020040,羽那,"じゃあ、質問──！
@@ -96,7 +96,8 @@ mainly as a manager, so you can work as an idol
 without any worries."
 1027001020070,羽那,そっかー,I seeee.
 1027001020080,羽那,それじゃあ──プロデューサーは、あたしが,"So, if I told you late at night something like..."
-0000000000000,羽那,夜遅くに『今すぐ会いに来て』って言ったら、来てくれる？,"""Please come and see me right now"", would you come?"
+0000000000000,羽那,夜遅くに『今すぐ会いに来て』って言ったら、来てくれる？,"""Please come and see me right now"", would
+you come?"
 select,,もちろん！,Absolutely!
 select,,会いに行くよ,"I'll come and
 see you."
@@ -107,7 +108,7 @@ your sake."
 何時だろうと会いに行くよ","If it helps you, I'll come and see you no matter
 how late it is, Hana."
 0000000000000,プロデューサー,"……いや、もし寝ちゃってたら
-遅くなるかもしれないけど……！","... Ah, but if I fall asleep then it'd be too late...!"
+遅くなるかもしれないけど……！","...Ah, but if I fall asleep then it'd be too late...!"
 1027001020090,羽那,──あはっ,──Aha.
 1027001020100,羽那,"プロデューサーの睡眠時間削っちゃうのは悪いし
 それはしないようにするね","It'd be bad if you lost sleep then.
@@ -126,11 +127,11 @@ any trouble for you, okay?"
 本当になんでもしてくれるんだね","I see.
 You really will do anything, huh."
 1027001020140,羽那,"……でもプロデューサー、忙しそうだし
-そんなわがままは言わないから","... But you seem very busy, Producer.
+そんなわがままは言わないから","...But you seem very busy, Producer.
 So I won't be selfish."
 0000000000000,プロデューサー,そ、そうか……！,R-Right...!
 1027001020150,羽那,"うん、だからプロデューサー
-夜はゆっくり寝ててほしいなーっ","Yeah, that's why I want you to get some good night's 
-sleep, Producer."
+夜はゆっくり寝ててほしいなーっ","Yeah, that's why I want you to get some good
+night's sleep, Producer."
 info,produce_events/102700102.json,
 Translator,Burbur,

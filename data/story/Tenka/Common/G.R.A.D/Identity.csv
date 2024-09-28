@@ -1,0 +1,52 @@
+id,name,text,trans
+1015003090010,甜花,お疲れ様、でしたー……！,Good... work today......!
+0000000000000,プロデューサー,"お疲れ様、甜花
+今日の仕事はこれでおしまいだ","Good work, Tenka. That's all for today."
+0000000000000,プロデューサー,"このまま家に送って行ってもいいけど、
+どこか行きたい場所があるならそっちに行くし……","I could send you home right now, but if there's
+somewhere you'd like to go we can go there..."
+0000000000000,プロデューサー,どうする？,What'll it be?
+1015003090020,甜花,………………,..................
+1015003090030,甜花,……ゲーセン……,......The arcade......
+0000000000000,プロデューサー,ん？,Hm?
+1015003090040,甜花,"お仕事とかで……
+全然、行けてなくて……","Tenka... hasn't been able to go... because of work and
+stuff......"
+1015003090050,甜花,"新作の、アーケード……
+やりたいの……入ってるから……","And there's a new... game... that Tenka wants to
+play......"
+1015003090060,甜花,……ダメ？,......is that okay?
+0000000000000,プロデューサー,"……ダメなわけないさ
+甜花はいつも頑張ってるからな","......Why wouldn't it be? You're always working so hard,
+after all."
+1015003090070,甜花,"わ……！
+や、やったー……！",Yay......! L-Let's go......!
+0000000000000,プロデューサー,それじゃあ、早速行こうか,"Now then, let's get going."
+1015003090080,甜花,うん……！,Sure......!
+1015003090090,甜花,…………今日は……,............Today......
+0000000000000,プロデューサー,ん……？,Hm...?
+1015003090100,甜花,"プロデューサーさんも……
+一緒に、ゲーム……",Let's play a game... together......
+1015003090110,甜花,"プロデューサーさんも……
+頑張ってるから……",Because you're also... working hard......
+0000000000000,プロデューサー,"……うん
+ありがとな、甜花",...Sure. Thanks Tenka.
+0000000000000,プロデューサー,"それじゃあ今日は、
+頑張ってる甜花と、頑張ってる俺へのご褒美の日だ！","Alright so today is a reward, both for you and for me!"
+1015003090120,甜花,ご褒美の……日だー……！,Today is... a reward......!
+1015003090130,甜花,…………にへへ,............Nihehe.
+1015003090140,甜花,……プロデューサーさん,......Producer-san.
+0000000000000,プロデューサー,"うん？
+どうした、甜花","Hm? What's up, Tenka?"
+1015003090150,甜花,"ゲーセン、着くまで……
+ちょっとだけ……寝てても、いい……？","Can Tenka... sleep a little...... until we get... to the
+arcade......?"
+0000000000000,プロデューサー,"……ああ、しっかり休もう
+いい仕事のためにも、いい遊びのためにも","...Sure, take a load off, both for good work, and good
+play."
+1015003090160,甜花,にへへ……ありがと……,Nihehe...... thanks......
+1015003090170,甜花,"……いい、遊びの……ために……
+充電、開始……",......for... good... play...... charging... start......
+1015003090180,甜花,……おやすみなさい……,......Good night......
+info,produce_events/101500309.json,
+Translator,kotonekotoP,

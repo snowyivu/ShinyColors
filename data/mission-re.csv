@@ -142,14 +142,11 @@ MEMちょ,MEM-cho,name
 ラストアピール,Last Appeal,noun
 プロ根性,Pro Willpower,noun
 ファン感謝祭,TFD,noun
-NORMAL,NORMAL,noun
-HARD,HARD,noun
-VERYHARD,VERYHARD,noun
 審査員,Judge,noun
 イルミネーションスターズ,illumination STARS,noun
 放課後クライマックスガールズ,Hokago Climax Girls,noun
 アンティーカ,L'Antica,noun
-アルストロメリア,Alstroemeria,noun
+アルストロメリア,ALSTROEMERIA,noun
 ストレイライト,Straylight,noun
 ノクチル,noctchill,noun
 シーズ,SHHis,noun
@@ -176,6 +173,7 @@ Da.,Da.,noun
 Me.,Me.,noun
 NORMAL,NORMAL,noun
 HARD,HARD,noun
+VERYHARD,VERYHARD,noun
 W.I.N.G.編,W.I.N.G.,note
 ファン感謝祭編,Thanks Flapping Day,note
 G.R.A.D.編,G.R.A.D.,note
@@ -209,6 +207,10 @@ $noun全員を編成して、$nounで$num位に$num回なろう,"With all member
 $noun全員を編成して、$noun以上の$nounで$num位になろう,"With all members of $1, earn rank $4 in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounで$nounを達成しよう,"With all members of $1, achieve $4 in $2 or above $3",exp
 $noun全員を編成して、$noun以上の$nounで$nounを$num回達成しよう,"With all members of $1, achieve $4 in $2 or above $3 $5 times",exp
+$noun全員を編成して、$noun以上の$nounまたは$nounに$num回参加しよう,"With all members of $1, participate in either $3 or $4, on $2 or above $5 times",exp
+$noun全員を編成して、$nounの$nounで1位に$num回なろう,"With all members of $1, get 1st Place in $3 on $2 $4 times",exp
+$noun以上の$nounに参加して、「$noun」を$num回達成しよう,"In $1 $2 or above, earn a ""$3"" $4 time(s)",exp
+$nounの$nounに参加して、「$noun」を$num回達成しよう,"In $1 $2, earn a ""$3"" $4 time(s)",exp
 【$note】$noun全員を編成して、$nounの$nounで$num位になろう,"[$1]: With all members of $2, earn rank $5 in $3's $4",exp
 $nameのファンを累計で$num人獲得しよう,Earn $2 total fans for $1,exp
 $nameのファンを累計で$num万人獲得しよう,Earn $20000 total fans for $1,exp
@@ -240,8 +242,8 @@ $nameをプロデュースしてシーズン$numをクリアしよう,Produce $1
 $nameプロデュースしてシーズン$numをクリアしよう,Produce $1 and clear season $2,exp
 $nameでアイドル$noun以上を達成してフェスアイドルにしよう,Produce $1 and create a Fes Idol with $2 or above,exp
 $nameをプロデュースしてW.I.N.G.決勝に進出しよう,Produce $1 and advance to W.I.N.G. Finals,exp
-【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,Produce 【$1】$2 and clear season $3,exp
-【$unknown】$nameを編成してシーズン$numをクリアしよう,Use 【$1】$2 in a Produce run and clear season $3,exp
+【$unknown】$nameをプロデュースしてシーズン$numをクリアしよう,Produce [$1] $2 and clear season $3,exp
+【$unknown】$nameを編成してシーズン$numをクリアしよう,Use  [$1] $2 in a Produce run and clear season $3,exp
 シーズン$numのオーディションすべてに合格しよう,Pass all auditions in season $1,exp
 シーズン$num開催のオーディション「$noun」に合格しよう,"Pass audition ""$2"" in season $1",exp
 シーズン$num開催の特別オーディション「$noun」に合格しよう,"Pass special audition ""$2"" in season $1",exp
@@ -266,17 +268,17 @@ $ukを$num以上にしよう,Get $1 to more than $2,exp
 "累計$num,000ポイント達成","Earn $1,000 total points",exp
 "累計$num,$num,000ポイント達成","Earn $1,$2,000 total points",exp
 "最高スコア$num,$num達成","Earn a high score of $1,$2",exp
-【$unknown】$nameを最大まで特訓しよう,Evolve 【$1】$2 to max evolution,exp
-【$unknown】$nameを最大まで\n特訓しよう,Evolve 【$1】$2 to max evolution,exp
+【$unknown】$nameを最大まで特訓しよう,Evolve [$1] $2 to max evolution,exp
+【$unknown】$nameを最大まで\n特訓しよう,Evolve [$1] $2 to max evolution,exp
 $nameのRアイドルです,R rank idol of $1,exp
 アイドルは特訓をすることで、強力なスキルを覚えられるようになります～,"By evolving your idols, they'll be able to learn powerful skills～",exp
 編成のチュートリアルを見よう,View the Team Setup tutorial,exp
 $nameのSRサポートアイドルです,SR rank support idol of $1,exp
 編成チュートリアルを参考にユニット編成してみてくださいね♪,Please reference the team setup tutorial to set your unit♪,exp
-【$unknown】$nameを編成しよう,Set 【$1】$2 in a team,exp
+【$unknown】$nameを編成しよう,Set [$1] $2 in a team,exp
 初心者ミッションを進めるプロデュースアイドルを選択しよう,Select a Produce Idol to move forward,exp
 初心者ミッションを進めるプロデュース\nアイドルを選択しよう,Select a Produce Idol to move forward,exp
-トレーニングで【$unknown】$nameをLv.50にしよう,Train 【$1】$2 to Lv.50,exp
+トレーニングで【$unknown】$nameをLv.50にしよう,Train [$1] $2 to Lv.50,exp
 フェスアイドルユニットを編成しよう,Create a Fes Idol unit,exp
 フェスリハーサルで2位以上になろう,Get 2nd Place or above in Fes Rehearsal,exp
 フェスリハーサルで3位以上になろう,Get 3rd Place or above in Fes Rehearsal,exp
@@ -314,7 +316,7 @@ $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 予選オーディションに合格しよう,Pass the Prelim Audition,exp
 【$note】G.R.A.D.をクリアしよう,【$1】Clear G.R.A.D.,exp
 【$note】G.R.A.D.を優勝しよう,【$1】Win the G.R.A.D. Championship,exp
-【$unknown】$nameを編成して シーズン$numをクリアしよう,"With 【$1】$2 in the unit, clear Season $3",exp
+【$unknown】$nameを編成して シーズン$numをクリアしよう,"With [$1] $2 in the unit, clear Season $3",exp
 【$note】ブロックの満足度を総合$num%以上にしよう,【$1】Raise a Block's excitement to $2%,exp
 【$note】アビリティを$num個獲得しよう,【$1】Acquire $2 abilities in G.R.A.D.,exp
 イベントミッションを$num個達成しよう,Clear $1 event missions,exp
@@ -325,11 +327,11 @@ $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 フェスアイドルを誕生させよう,Create a Fes Idol,exp
 $noun以上のフェスアイドルを$num人誕生させよう,Create $2 Fes Idols of $1 or above,exp
 Lv.$num以上のサポートアイドル$num人を編成しよう,Raise $2 Support Idols to Lv.$1,exp
-トレーニングで【$unknown】$nameをLv.$numにしよう,Raise 【$1】$2 to Lv.$3,exp
+トレーニングで【$unknown】$nameをLv.$numにしよう,Raise [$1] $2 to Lv.$3,exp
 思い出レベルを$num以上にしてW.I.N.G.に出場しよう,Reach Memory Appeal Level $1 in W.I.N.G.,exp
 W.I.N.G.編のプロデュースで$unknownが$num以上のフェスアイドルを$num名誕生させよう,Create $3 Fes Idol with $2 $1 in W.I.N.G.,exp
-$unknownが流行1位のときにW.I.N.G.準決勝に勝利しよう,Win a W.I.N.G. Semifinals when $1 is the top trend,exp
-$unknownが流行1位のときにW.I.N.G.決勝に勝利しよう,Win a W.I.N.G. Finals when $1 is the top trend,exp
+$unknownが流行1位のときにW.I.N.G.準決勝に勝利しよう,Win W.I.N.G. Semifinals when $1 is the top trend,exp
+$unknownが流行1位のときにW.I.N.G.決勝に勝利しよう,Win W.I.N.G. Finals when $1 is the top trend,exp
 【$note】難易度$num以上のアイデアノートを$num回コンプリートしよう,【$1】Complete $3 Idea Notes of difficulty $2 or higher,exp
 期間中に$nameのファン人数を$num万人獲得しよう,"Earn $20,000 fans for $1 during the event",exp
 【$unknown】W.I.N.G.攻略ミッションを全て達成しよう,【$1】Complete all W.I.N.G. Walkthrough missions,exp
@@ -354,32 +356,34 @@ W.I.N.G.攻略ミッションを全て達成しよう,Clear all W.I.N.G. Walkthr
 【$note】W.I.N.G.決勝に$num回進出しよう,【$1】Reach W.I.N.G. Finals $2 times,exp
 ​【$note】いずれかのアイドルのTrueEndを$num回見よう,【$1】Reach any idol True End $2 times,exp
 【$note】いずれかのアイドルのTrueEndを1回見よう,【$1】Reach any idol's True End,exp
-【$note】シーズン$num開催のオーディション「$uk」に$num回合格しよう,【$1】Pass audition 「$3」 $4 times in Season $2,exp
-【$note】シーズン$num開催の特別オーディション「$uk」に$num回合格しよう,【$1】Pass special audition 「$3」 $4 times in Season $2,exp
+【$note】シーズン$num開催のオーディション「$uk」に$num回合格しよう,【$1】Pass audition ""$3"" $4 time(s) in Season $2,exp
+【$note】シーズン$num開催の特別オーディション「$uk」に$num回合格しよう,【$1】Pass special audition ""$3"" $4 time(s) in Season $2,exp
 ​【$note】$nounの誰か一人でLandingPointをクリアしよう,【$1】Clear LandingPoint with any $2 idol,exp
 【$note】$nameで$noteのライブを大成功させよう,【$1】Earn a Great Success in $3 with $2,exp
 【$note】LandingPoint編$noun追加記念ミッションを全てクリアしよう,【$1】Clear LandingPoint with every idol from $2,exp
 【$note】LandingPointのライブを$num回大成功させよう,【$1】Earn a Great Success in LandingPoint $2 times,exp
-【$note】LandingPointを$num回クリアしよう,【$1】Clear LandingPoint $2 times,exp
-【$note】G.R.A.D.を$num回優勝しよう,【$1】Win G.R.A.D. $2 times,exp
-【$note】G.R.A.D.を$num回クリアしよう,【$1】Clear G.R.A.D. $2 times,exp
+【$note】LandingPointを$num回クリアしよう,【$1】Clear LandingPoint $2 time(s),exp
+【$note】G.R.A.D.を$num回優勝しよう,【$1】Win G.R.A.D. $2 time(s),exp
+【$note】G.R.A.D.を$num回クリアしよう,【$1】Clear G.R.A.D. $2 time(s),exp
 【$note】G.R.A.D.編でアビリティを$num個獲得しよう,【$1】Earn $2 Abilities in G.R.A.D.,exp
 【$note】予選オーディションに$num回合格しよう,【$1】Clear G.R.A.D. Pre-Selection Audition $2 times,exp
 【$note】LandingPoint編でアビリティを$num個獲得しよう,【$1】Earn $2 Abilities in LandingPoint,exp
 【$note】ライブ本番で会場ボルテージの目標を$num回達成しよう,【$1】Achieve the Venue Voltage goal $2 times in Lives,exp
 【$note】楽曲熟練度の合計レベルを$numにしよう,【$1】Raise the total music proficiency level to $2,exp
 【$note】楽曲課題を$num個クリアしよう,【$1】Clear $2 song assignments,exp
-【$note】ファン感謝祭を$num回クリアしよう,【$1】Win T.F.D. $2 times,exp
+【$note】ファン感謝祭を$num回クリアしよう,【$1】Win T.F.D. $2 time(s),exp
+【$note】S.T.E.P.を$num回クリアしよう,【$1】Clear S.T.E.P. $2 time(s),exp
+【$note】エキシビションマッチを$num回成功しよう,【$1】Pass the Exhibition Match $2 time(s),exp
 $nounの誰か一人をプロデュースして$noun以上のフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of $2 or above,exp
 $nounの誰か一人でアイドル$noun以上を達成してフェスアイドルを$num人誕生させよう,Create $3 Fes Idols from $1 of Idol $2 or above,exp
-【$note】$noun以上の$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3 or above, earn a 「$4」 $5 times",exp
+【$note】$noun以上の$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3 or above, earn a ""$4"" $5 times",exp
 $nounの$nounに参加して、$num位に$num回なろう,"In $1 $2, earn rank $3 $4 times",exp
-【$note】$nounの$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3, earn a 「$4」 $5 times",exp
+【$note】$nounの$nounに参加して、「$noun」を$num回達成しよう,"【$1】In $2 $3, earn a ""$4"" $5 times",exp
 $nounの$nounに参加して、$num位以上に$num回なろう,"In $1 $2, earn rank $3 or above $4 times",exp
 $noun全員を編成して、$noun以上の$nounで$num位に$num回なろう,"With all members of $1, earn rank $4 $5 times in $2 or above $3",exp
 $nounに参加して、スターを累計$num個獲得しよう,Earn $2 stars from participating in $1,exp
 $nounに参加して、$num位に$num回なろう, Earn rank $2 in $1 $3 times,exp
-$nounを$num回クリアしよう,Clear $1 $2 times,exp
+$nounを$num回クリアしよう,Clear $1 $2 time(s),exp
 いずれかのアイドルをプロデュースして、$noun$num以上のフェスアイドルを誕生させよう,Create any idol with $2 $1 or higher,exp
 オーバーキャストモノクローム獲得ミッションを全て達成しよう,Complete all Overcast Chrome missions,exp
 $nameをプロデュースして$noun以上のフェスアイドルにしよう,Create a $2 or higher $1 Fes Idol,exp
@@ -455,8 +459,8 @@ $nameを$num回プロデュースしよう,Produce $1 $2 times,exp
 $nameを$noun以上のフェスアイドルにしよう,Produce a $2 or higher $1,exp
 $nameの思い出レベルを3以上にしよう,Reach Memory Appeal level 3 or higher with $1,exp
 $nameの思い出レベルを5にしよう,Reach Memory Appeal level 5 with $1,exp
-$nameの信頼度を３以上にしよう,Reach Trust Level 3 or higher with $1,exp
-$nameの信頼度を５以上にしよう,Reach Trust Level 5 or higher with $1,exp
+$nameの信頼度を3以上にしよう,Reach Trust Level 3 or higher with $1,exp
+$nameの信頼度を5以上にしよう,Reach Trust Level 5 or higher with $1,exp
 $nameをセンターに編成して、グレード$num以上のフェスに$num回参加しよう,"With $1 as a Center, play Grade Fes Level $2 or above $3 times",exp
 $nameを含めた編成で営業を$num回しよう,Have $1 complete $2 Jobs,exp
 $nameをプロデュースして、$noun400以上のフェスアイドルにしよう,Produce $1 with 400 or more $2,exp
@@ -535,6 +539,8 @@ RPGのススメ,RPG Rally,note
 我・思・君・思,My・Thoughts・Your・Thoughts,note
 第２形態アーマードタイプ,2nd Form Armored Type,note
 新装備・バブルバスター！,"New Equipment, Bubble Buster!",note
+潮騒のシーショア,Sounds of the Seashore,note
+エクストリーム・ブレイク！,Extreme Break!,note
 デコって！ハッピークッキー,Decoration! Happy Cookie,note
 ヒーローインザパーク,Hero In The Park,note
 放課後スノーガールズ！,HO-KA-GO Snow Girls!,note
@@ -563,13 +569,13 @@ RPGのススメ,RPG Rally,note
 スタンド・バイ,Stand By,note
 楽園に背く,Defying Paradise,note
 ゆらゆらアクアリウム,Swaying Aquarium,note
-甜花ちゃんといっしょ☆,Together With Tenka☆,note
+甜花ちゃんといっしょ☆,Together with Tenka☆,note
 幸せのりんご飴,Candy Apple of Happiness,note
 まだ……寝ないから……,Won't Get Up... Just Yet...,note
 秘密のがんばり,Secret Endurance,note
 光の想い出,Memories of Light,note
 シンメトリー・プールサイド,Symmetry Poolside,note
-お日様染めのマリーナ,Sun Dyed Marina,note
+お日様染めのマリーナ,Sundyed Marina,note
 マイ・ピュア・ロマンス,My Pure Romance,note
 シークレット・ヒロイン,Secret Heroine,note
 サマーハニー・シーズン,Summer Honey Season,note
@@ -619,6 +625,43 @@ RPGのススメ,RPG Rally,note
 小さな夜のトロイメライ,Little Night of Traumerei,note
 つよがりのためのララバイ,Lullaby for Courage,note
 かわいいひと,Cute Person,note
+お試し／みつゴコロ,Trial Run/Hidden Heart,note
+ジャンプ！スタッグ！！！,Jump! Stag!!!,note
+ダウト,Doubt,note
+カラメル,Caramel,note
+ピトス・エルピス,Pithos Elpis,note
+オイサラバエル,"Farewell, Old Age",note
+バグ・ル,Bug-ly,note
+キン・コン,Moment-Present,note
+フリークス・アリー,"Freaks'-Alley",note
+ジャンク・ション,Junk-tion,note
+10個、光,"10, Lights",note
+まわるものについて,Things That Go Around and Around,note
+国道沿いに、憶光年,"By the National Highway, Lightyears",note
+あてもなく、風,"Unwritten Destination, With the Winds",note
+雪あたりの季節,Sometime Around Winter,note
+秘密のだらだらタイム,Secret Leisure Time,note
+シンメトリー・プールサイド,Symmetry Poolside,note
+氷上バンビーナ,Bambina on Ice,note
+ストライク狙って,Shoot for a Strike,note
+事務所。静寂。大輪の華,The Office. The Silence. The Large Brilliant Flower,note
+好きなものはなんですか？,What Do You Like?,note
+四夜一夜物語,Four and One Nights,note
+バス・タイムの気分で,Bath Time Mood,note
+甜ing Room,Ten-ing Room,note
+きみは相棒,You're My Sidekick,note
+甜der Dream Show,Ten-der Dream Show,note
+雨に祝福,Blessed by the Rain,note
+♡コメディ,♡Comedy,note
+ノー・ライフ,No Life,note
+鏡界フィクションレイン,"Mirrored Realm, Fictional Rain",note
+Good-bye ラブレター,Good-bye Love Letter,note
+砂糖づけ・ビターエンド,"Candied, Bitter End",note
+はり・はり,Glass Dome,note
+空と青とアイツ,"The Sky, Blue, and You",note
+不機嫌なテーマパーク,Grumpy Theme Park,note
+ムーンライト・ガーデン,Moonlight Garden,note
+とキどき間氷期,Occasional Interglacial,note
 最終週のエントリーライブを成功させる,Clear the Last Week's Entry Live,exp
 "シーズン2中にファン数を20,000人獲得する","Earn 20,000 fans during Season 2",exp
 "シーズン3中にファン数を250,000人獲得する","Earn 250,000 fans during Season 3",exp
@@ -630,13 +673,22 @@ RPGのススメ,RPG Rally,note
 エリア$numのステージすべてに勝利しよう,Clear all Area $1 Stages,exp
 エリア$numの達成度を100%にしよう,Get 100% Achievements in Area $1,exp
 $noteを$num回プレイしよう,Play $1 $2 times,exp
-$noteを$num回大富豪になる,Get "Grand Millionaire" in $1 $2 times,exp
+$noteで$num回大富豪になる,Become "Grand Millionaire" in $1 $2 times,exp
+$noteで$num回富豪になる,Become "Millionaire" in $1 $2 times,exp
+$noteで$num回貧民になる,Become "Poor" in $1 $2 times,exp
+$noteで$num回大貧民になる,Become "Extremely Poor" in $1 $2 times,exp
 $noteでスコア$num点以上を取ろう,Get a score of $2 and above in $1,exp
 $noteでスコアを累計$num点以上を集めよう,Have a total score of $2 points and above in $1,exp
 $nameのコミュニケーションレベルを$numにしよう,Reach Communication Level $2 with $1,exp
-【$note】$nounを獲得しよう,Scout [$1] $2
-【$note】$nounを$num回特訓しよう,Evolve [$1] $2 to $3★
+【$unknown】$nameを獲得しよう,Acquire [$1] $2,exp
+【$unknown】$nameを$num回特訓しよう,Evolve [$1] $2 $3 time(s),exp
 いずれかのアイドルのTrueEndを$num回見よう,Reach any idol's True End $1 times,exp
 $nounでスコアを合計$num万pt獲得しよう,"Earn a total score of $20000 pts in $1",exp
 パラコレアイドルを$num人加入させよう,Let $1 ParaColle Idols join,exp
 $nameをプロデュースして、W.I.N.G.マスターモードを優勝しよう,Produce $1 and win W.I.N.G. Master Mode,exp
+育成したアイドルたちを編成しよう,Set up your Produce Unit,exp
+$num回のW.I.N.G.で$nounレッスンを$num回以上行おう,Do at least $3 $2 Lessons in $1 W.I.N.G. run,exp
+『W.I.N.G.』編の振り返りでスキルを習得してみよう,Learn Skills from Reminisce during W.I.N.G.,exp
+『W.I.N.G.』編のオーディションで$noun審査員から$nounをとろう,Get $2 from the $2 Judge in an Audition in W.I.N.G.,exp
+$nounに参加して1位になろう,Get 1st Place in $1,exp
+$nounに参加して1位に$num回なろう,Get 1st Place in $1 $2 times,exp

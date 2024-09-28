@@ -4,32 +4,33 @@ id,name,text,trans
 T-There's way more people here than I expected......"
 3022013010020,円香,"まあ……ここのスイーツ展って
 毎回SNSとかで話題になるし","Well, it happens...... The sweets fair here has
-always been popular on socials."
+always been the talk on socials."
 3022013010030,円香,"小糸もそれで来たいって
-思ったんでしょ？","That's why you're here too, right?"
+思ったんでしょ？","Didn't you want to come after reading about
+them?"
 3022013010040,小糸,うん……,Yeah......
 3022013010050,小糸,"……あ
 このパイ、写真で見たやつだ……！","......Ah.
-I‘ve seen this pie in photos......!"
+I've seen this pie in photos......!"
 0000000000000,店員,"スフォリテッラっていう、ナポリのお菓子ですよ
 よかったら試食なさいませんか？","You have a keen eye! This is a pastry from Naples
 called Sfogliatella. Would you like to try some?"
 3022013010060,小糸,あ……────,Ah......────
 0000000000000,お客さん,"────すみませーん
 こちらのケークサレを……","────Excuse me,
-can I try some of the cake salés......?"
+can I try the cake salé over here......?"
 3022013010070,小糸,……！,......!
 0000000000000,店員,"はーい！
 ありがとうございます、いま伺いますね～！","Yes, of course!
 Thank you, let me get you a sample～!"
-3022013010080,円香,……いいの？,......You alright without trying it?
+3022013010080,円香,……いいの？,......Are you okay not trying it?
 3022013010090,小糸,"…………
 う、うん……忙しそうだし……","......
 Y-Yeah...... She was super busy anyways......"
 3022013010100,円香,……っ……,......Agh......
 0000000000000,客,────おっと、すみません！,"────Oopsie, excuse me!"
-3022013010110,円香,じゃあ、とりあえず動かない？,"Hmm, are we just gonna stand here for now?"
-3022013010120,小糸,そ、そうだね……！,W-We should move......!
+3022013010110,円香,じゃあ、とりあえず動かない？,"Hmm, should we just move along for now?"
+3022013010120,小糸,そ、そうだね……！,"Y-Yea, we should......!"
 3022013010130,小糸,"気になってるお店の場所
 チェックしてきたんだ……！","There was a shop I've wanted to visit, so I looked it
 up before hand......!"
@@ -39,9 +40,9 @@ Let's check it out then."
 3022013010150,円香,…………,............
 3022013010160,小糸,…………,............
 3022013010170,小糸,"……こ、このジェラート……
-美味しいね……！",......T-This gelato...... it tastes wonderful......!
+美味しいね……！",......T-This gelato...... It tastes wonderful......!
 3022013010180,円香,"……こっちの味も食べる？
-ひと口","......Wanna try some of my flavors?
+ひと口","......Wanna try some the flavor of mine?
 Here,"
 3022013010190,円香,はい,Have a bite.
 3022013010200,小糸,"ぴぇ……！
@@ -71,7 +72,7 @@ Are you feeling okay?"
 3022013010360,小糸,……あ,......Ah.
 3022013010370,小糸,"これ、アンティークかな……？
 切手とか、ポストカードとか……","These stamps and post cards......
-Are these...... antique?"
+Are they...... antique?"
 3022013010380,円香,ふうん,Hmm.
 3022013010390,小糸,"この、妖精の絵が描いてあるやつ
 可愛い……","This one with the fairy illustration...
@@ -81,7 +82,7 @@ It's so cute......"
 3022013010420,小糸,……買わない後悔より──だもんね……！,.....It's better to regret buying──right......?
 3022013010430,小糸,"す、すみません……！
 これ……ください……！","Erm, e-excuse me......!
-I'll...... have this......!"
+I'll...... have this, please......!"
 0000000000000,オーナー,ありがとうございます,Thank you for shopping with us.
 0000000000000,オーナー,"この絵の版画、そこの壁に掛けてあるので
 よかったら見ていってくださいね","There's a print of this painting on that wall over
@@ -119,7 +120,7 @@ I'm just glad that you're interested."
 ほら、装丁も素敵でしょ","You're welcome.
 Here, even the binding's exquisite, isn't it."
 3022013010520,小糸,は、はい……！,"Yes, it is......!"
-0000000000000,オーナー,この作者の一族はね,"Some people say, that the autho and his bloodline..."
+0000000000000,オーナー,この作者の一族はね,"Some people say, that the author and his bloodline..."
 0000000000000,オーナー,妖精に魅せられた一族なの,Were all mesmerized by fairies.
 3022013010530,小糸,"──魅せられた……
 …………","──Mesmerized......

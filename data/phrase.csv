@@ -426,7 +426,7 @@ unitBonusBanner.schedule,%{closeAt}まで,Until %{closeAt}
 idolList.filterTitle,絞り込み,Filter
 idolList.sortTitle,並び替え,Sort 
 idolList.emptyMessage,所持しているアイドルがいません。,No idols owned.
-idolList.evolutionEmptyMessage,特訓可能なアイドルがいません。,No idols can evolve. 
+idolList.evolutionEmptyMessage,特訓可能なアイドルがいません。,No idols can be evolved. 
 idolList.memorialPieceStatus.pieceNum,＋%{num},＋%{num}
 idolList.leaveEditModeDialog.title,確認,Confirm
 idolList.leaveEditModeDialog.text,まだ%{editType}は確定していません\r選択状態を解除して移動しますか？,%{editType} has not been confirmed.\r\nDo you wish to deselect and exit?
@@ -588,9 +588,9 @@ homeDeck.emptyBackGroundEffectName,なし,Nothing
 judgeTrend.bonusValue,★%{value}倍,★%{value}x
 landscapeDialog.title,画面の向きについて,Screen Orientation
 landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,Please enjoy the game in Landscape\r\norientation.
-loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer, this is today's login bonus!"
+loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"Producer-san, here is today's login bonus!"
 loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"You'll receive this tomorrow, so do your best～"
-loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer！\rThis is a gift from everyone!  Please accept it!
+loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,Today is your celebratory day %{totalLoginDays} as a Producer!\rThis is a gift from everyone!  Please accept it!
 loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,I'm currently out. I'll leave the login bonus here.
 loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,Please don't forget to check the login bonus for tomorrow too.
 loginBonus.absenceClerkComment.totalBonus,ただいま外出中です\nプロデューサー就任%{totalLoginDays}日記念プレゼントはこちらに置いておきます,I'm currently out. I've left Producer's %{totalLoginDays} commemorative gift here.
@@ -951,7 +951,7 @@ tv.appearance,テレビ出演を果たした。\n,Performed on TV.\r\n
 tv.appearanceAfter,アイドル達の魅力が引き出されたように感じる。,I think the idol's charm was shown.
 tv.performanceComment,今話題のアイドルが登場！圧巻のパフォーマンスを披露！,Popular idols! An incredible performance!
 twitter.PINCodeDialog.title,Twitter連携,Twitter Link
-twitter.PINCodeDialog.description,Twitterに投稿するには、PINコードを取得して\nTwitterとの連携を認証する必要があります,Twitterに投稿するには、PINコードを取得して\nTwitterとの連携を認証する必要があります
+twitter.PINCodeDialog.description,Twitterに投稿するには、PINコードを取得して\nTwitterとの連携を認証する必要があります,"To post on Twitter (X), you need to get a PIN code\nand authenticate your connection with Twitter (X)."
 twitter.PINCodeDialog.PINCodeComment,取得したPINコードを入力してください,Please enter the PIN Code
 twitter.PINCodeDialog.textBoxDefaultComment,PINコード入力,Input PIN Code
 twitter.alreadyAuthenticatedDialog.title,確認,Confirm
@@ -973,7 +973,7 @@ twitter.postDialog.staticComment.gashaResult,%{idolName}\nに出会ったよ！�
 twitter.postDialog.staticComment.businessCard,よろしくお願いします。\n#シャニマス名刺,よろしくお願いします。\n#シャニマス名刺
 twitter.postDialog.staticHashTag,#シャニマス #idolmaster,#シャニマス #idolmaster
 twitter.tweetSuccessDialog.title,投稿完了,Complete Post
-twitter.tweetSuccessDialog.description,投稿が完了しました,Post has been completed
+twitter.tweetSuccessDialog.description,投稿が完了しました,Post has been completed.
 twitter.tweetFailedDialog.title,エラー,Error
 twitter.tweetFailedDialog.description,投稿に失敗しました\nもう一度投稿するか再度認証を行ってください,Failed to post Tweet.\nPlease try posting or autheticating again.
 twitter.tweetFailedLimitRateDialog.title,エラー,Error
@@ -1564,13 +1564,13 @@ profile.birthdayEditDialog.description,誕生日を設定すると\nアイドル
 profile.birthdayEditDialog.birthday,誕生日,Birthday
 profile.birthdayEditDialog.dateFormat,d日,d
 profile.birthdayEditDialog.monthFormat,m月,m
-profile.birthdayEditDialog.notification,誕生日は月に1回まで変更できます,You can change your birthday once a month.
+profile.birthdayEditDialog.notification,誕生日は月に1回まで変更できます,You can only change your\nbirthday once a month.
 profile.birthdayEditLeapDayDialog.title,確認,Confirm
 profile.birthdayEditLeapDayDialog.description,うるう年が入力されました,Leap year entered
 profile.birthdayEditLeapDayDialog.notification,うるう年ではない年の場合、前日を誕生日とします,"If the year is not a leap year, the day before will be used."
 profile.birthdayEditReachedUpdateLimitDialog.title,エラー,Error
 profile.birthdayEditReachedUpdateLimitDialog.description,変更可能な回数が最大に達しています,Change limit notice
-profile.birthdayEditReachedUpdateLimitDialog.notification,誕生日は月に1回まで変更できます,You can change your birthday once a month.
+profile.birthdayEditReachedUpdateLimitDialog.notification,誕生日は月に1回まで変更できます,You can only change your\nbirthday once a month.
 profile.birthdayEditInvalidParamterDialog.description,日付の入力が不正です\n正しい日付を入力してください,Invalid date entered.\nPlease enter the correct date.
 profile.birthdayEditSuccessDialog.title,プロデューサー誕生日,Producer's Birthday
 profile.birthdayEditSuccessDialog.birthdayFormat,m月d日,mm dd
@@ -2037,7 +2037,7 @@ produceAction.clearBonusDialog.title,ボーナス確認,Confirm Bonus
 produceAction.clearBonusDialog.message,「%{name}」\n\n効果\n「%{comment}」\nを解放,「%{name}」\n\nEffect\n「%{comment}」\nUnlocked
 produceAction.clearBonusDialog.passiveMessage,%{name}\n\n%{comment}\nを解放,%{name}\n\n%{comment}\nUnlocked
 produceAction.reservedAuditionDialog.title,予約確認,Reservation Confirm
-produceAction.reservedAuditionDialog.message,予約した「オーディション/ライブ」があります\n確認しますか？,Confirm your 「Audition/Live」\nReservation?
+produceAction.reservedAuditionDialog.message,予約した「オーディション/ライブ」があります\n確認しますか？,Confirm your「Audition/Live」\nReservation?
 produceEvents.header,発生コミュ一覧,
 produceEvents.eventsDialogTitle,発生イベントコミュ,
 growthPoints.vocalGrowthPoint,歌唱力,Vocal
@@ -2047,7 +2047,7 @@ growthPoints.mentalGrowthPoint,集中力,Cooperation
 growthPoints.skillGrowthPoint,団結力,Unity
 growthConfirm.title,成長確認,Confirm Develop
 growthConfirm.noticeLive,ライブスキルを習得する場合、選択したライブスキルは必ず入れ替える必要があります,"When acquiring a Live Skill, the selected Live Skill must always be replaced"
-growthConfirm.noticeStatus,基礎能力の上昇時、能力が上限に達していた場合、超えた分は破棄されます,"When base ability is increased, if the base ability cap is reached, excess will be lost"
+growthConfirm.noticeStatus,基礎能力の上昇時、能力が上限に達していた場合、超えた分は破棄されます,"When base ability is increased, excess will be lost if the base ability cap is reached"
 growthTab.status,ステータス,Status
 growthTab.skill,スキル,Skill
 growthTab.ability,アビリティ,Ability
@@ -2300,7 +2300,7 @@ miniGamePortal.staffComment4,大富豪、懐かしいですね～,"Daifugo, how 
 miniGamePortal.staffComment5,ミニゲームが遊べますよ～,Let's play the minigame～
 tutorial.skipPop.messageSkipAll,チュートリアルをすべてスキップします\nよろしいですか？,This will skip the entire Tutorial.\nAre you sure?
 tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,"The idol unit of a new era that suddenly came flying in.\nDecorated in black, these girls are not imprisoned by color.\nWill the ""story"" of the comet's trajectory show us light?\nDark? Or perhaps..."
-idolList.knowHowCount,ノウハウ数,Number of Know-How
+idolList.knowHowCount,ノウハウ数,Nr. of Know-How
 idolList.knowHowBoolMarkSelectDialog.title,ノウハウブックマーク,Know-How Bookmark
 idolList.knowHowRedrawDialog.title,ノウハウのリロード,Reroll Know-How
 idolList.knowHowRedrawDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount} times
@@ -2515,7 +2515,7 @@ daifugo.role.great_rich_man,大富豪,大富豪
 daifugo.role.rich_man,富豪,富豪
 daifugo.role.poor_man,貧民,貧民
 daifugo.role.great_poor_man,大貧民,大貧民
-characterProfile.unlockText,コミュニケーションレベル%{level}で解放,Unlocked at Communication Level %{level}
+characterProfile.unlockText,コミュニケーションレベル%{level}で解放,Unlocked at Communication Lv. %{level}
 miniGame.tutorial.comment1,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～ ,"Please take a look at the info about the idols.\nFirst, here are their profiles～ "
 fes.specialFesSelect.consumeButtonComment,チケットを     消費します,チケットを     消費します
 fes.specialFesSelect.consumeComment,まとめて消費は、消費分の報酬を獲得可能！,まとめて消費は、消費分の報酬を獲得可能！

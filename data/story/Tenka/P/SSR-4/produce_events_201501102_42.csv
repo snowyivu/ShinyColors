@@ -1,0 +1,134 @@
+id,name,text,trans
+0000000000000,プロデューサー,っふー……,Phew...
+0000000000000,プロデューサー,"（この時間だと、電車が空いてるのがいいところだな……
+さて、今のうちにメールチェックを……）","(I love how empty the train is around this time... Now
+then, time to check my emails...)"
+0000000000000,プロデューサー,ん？,Hm?
+0000000000000,off,【♥を受け取りました】,[You've received a ♥]
+0000000000000,プロデューサー,"（ハート……？
+──ああ、甜花がやってるゲームか）","(A heart...? ──Oh, is this from that game Tenka's
+playing?)"
+0000000000000,プロデューサー,"（他の人にハートを贈ると、贈った人もハート……
+ゲームのライフポイントがもらえるって……）","(People can send each other hearts... and others
+receive them to gain life points...)"
+0000000000000,プロデューサー,"（甜花に言われてインストールしたけど……
+ほとんどやってないな……）","(I installed it like Tenka told me to, but... I haven't
+really played it all too much...)"
+0000000000000,プロデューサー,…………,......
+0000000000000,off,【♥を贈りました】,[You've sent a ♥]
+0000000000000,プロデューサー,…………よし,......Alright.
+0000000000000,プロデューサー,"（待てよ……ハートが贈られてくるってことは、
+甜花は起きてるのか……）","(Wait a sec... if that heart was sent just now, then
+that means that Tenka's awake...)"
+0000000000000,off,【最終ログイン：１分前】,[Last seen online: 1 minute ago]
+0000000000000,プロデューサー,"（これは、今も遊んでるな……
+明日も学校なのに、大丈夫か……？）","(So she's still playing it right now... She has school
+tomorrow, will she be okay...?"
+0000000000000,プロデューサー,『夜更かしもほどほどに』,"""Don't stay up too late"""
+2015011020010,甜花,『はい』,"""ok"""
+2015011020020,甜花,『ほどほどにします』,"""She'll only stay up a little"""
+0000000000000,off,【最終ログイン：３分前】,[Last seen online: 3 minutes ago]
+0000000000000,off,【最終ログイン：５分前】,[Last seen online: 5 minutes ago]
+0000000000000,off,【最終ログイン：１分前】,[Last seen online: 1 minute ago]
+0000000000000,プロデューサー,（眠れなかったか……）,(Guess she can't sleep...)
+0000000000000,プロデューサー,（ん……？）,(Hm...?)
+2015011020030,甜花,"『プロデューサーさん
+起きてる？』","""Are you awake, Producer-san?"""
+0000000000000,プロデューサー,『起きてるよ』,"""I am"""
+0000000000000,プロデューサー,んん…………？,Hmm......?
+0000000000000,プロデューサー,甜花、どうしたんだ？　こんな時間に,"What's up, Tenka? Why are you calling so late?"
+2015011020040,甜花,"『あ、えと……その……
+用事とか、じゃなくて……』","""Oh, um...... Uh...... It's not like... it's anything
+important......"""
+2015011020050,甜花,"『プロデューサーさん……
+今、おうち……？』","""Producer-san...... are you... at home......?"""
+0000000000000,プロデューサー,"いや、家の最寄駅だよ
+これから帰るところだ","No, I'm at my station nearby though. I'm about to walk
+home."
+2015011020060,甜花,"『え、あ……
+……お疲れ様、です……』","""Wha, oh......
+......Good work... today......"""
+0000000000000,プロデューサー,"はは、ありがとう
+……甜花はちゃんと家にいるか？","Haha, thanks.
+...Are you home, Tenka?"
+2015011020070,甜花,"『うん……なーちゃん、寝ちゃったから……
+お布団被って……電話、してる……』","""Yeah...... Naa-chan... fell asleep...... so... Tenka's... in
+bed... on her phone......"""
+0000000000000,プロデューサー,"……うん、それがいいな
+甘奈を起こしちゃいけないし、偉いぞ","...Nice, I'm glad you're in bed. Good job making sure you
+don't wake Amana."
+2015011020080,甜花,『にへへ……』,"""Nihehe......"""
+2015011020090,甜花,『…………プロデューサーさんの、ハート……』,"""............Producer-san... your heart......"""
+0000000000000,プロデューサー,え……？,Huh...?
+2015011020100,甜花,"『くれたの、初めてで……
+ちょっと、びっくりした……』","""It's the first time... you sent one...... Tenka was... a
+little surprised......"""
+0000000000000,プロデューサー,"ああ、ゲームのか……
+やり方、あんまりよくわかってなかったからな……","Oh, you mean the game... I didn't really know how to do
+it before..."
+2015011020110,甜花,『にへへ……』,"""Nihehe......"""
+2015011020120,甜花,"『あ……プロデューサーさん……
+その……今度のラジオ、でね……──』","""Oh...... Producer-san...... Um... when Tenka... was doing
+the radio show......──"""
+2015011020130,甜花,"『──その……
+お手紙……読む、時……に……』","""──Um...... When she... read... the... letter......"""
+0000000000000,プロデューサー,"……うん
+その件については、次に会った時にちゃんと話そう","...Yeah, let's save that story for the next time we
+talk."
+2015011020140,甜花,『ふあ……？』,"""Fwah......?"""
+0000000000000,プロデューサー,"甜花、もう眠いんじゃないか？
+せっかく寝られそうなら、もう寝よう","You're already pretty tired, right? If you're about to
+fall asleep then you should sleep."
+2015011020150,甜花,"『え、えと……
+うん……』","""U-Um...... Okay......"""
+select,,おやすみ、甜花,"Good night, Tenka"
+select,,明日も頑張ろう,"Let's do our best
+tomorrow too"
+select,,今日はお疲れ様,"Good work, today"
+2015011020160,甜花,『うん……』,"""Okay......"""
+2015011020170,甜花,『…………プロデューサーさん……』,"""............Producer-san......"""
+0000000000000,プロデューサー,ん？,Hm?
+2015011020180,甜花,"『…………甜花、寝るまで……
+……電話、しててもいい…………？』","""............Can we... keep calling...... until... Tenka... falls
+asleep............?"""
+2015011020190,甜花,"『…………その、お喋りしたいとか……じゃ、なくて……
+……電話、繋がってるだけ……だから……』","""............Um... we don't... have to talk...... Tenka just...
+wants to be... on call......"""
+0000000000000,プロデューサー,"……ああ
+甜花が寝るまで、こうしてるよ",...Sure. I'll be here until you fall asleep.
+2015011020200,甜花,『にへへ……』,"""Nihehe......"""
+2015011020210,甜花,"『…………もう一回……
+……おやすみなさい…………』","""............Good night......
+......again............"""
+2015011020220,甜花,『うん……明日……』,here
+2015011020230,甜花,"『明日は……
+明日の、甜花が……頑張る…………』","""Tomorrow's Tenka... will work hard......
+tomorrow............"""
+2015011020240,甜花,"『だから…………
+今日の、甜花は……おやすみ…………』","""So............ today's Tenka...... is gonna sleep............"""
+2015011020250,甜花,"『おやすみなさい……
+今日の、プロデューサーさん……』","""Good night...... today's... Producer-san......"""
+0000000000000,プロデューサー,"…………うん、おやすみ
+今日の甜花","......Yeah, good night... today's Tenka."
+2015011020260,甜花,"『え……？
+甜花……今日、お仕事してない…………』","""Huh......? Tenka... didn't... have work today............"""
+2015011020270,甜花,『お疲れ……してない……』,"""So she...... didn't do good work......"""
+0000000000000,プロデューサー,"それでも、だよ
+仕事はしてなくても、学校には行っただろ？","Well, besides that. Didn't you go to school?"
+2015011020280,甜花,『う、うん……』,"""Y-Yeah......"""
+0000000000000,プロデューサー,"それならお疲れ様でいいんだ
+今日の甜花は、一日頑張ったんだ","So then I can say you did good work. You worked hard
+all day."
+2015011020290,甜花,"『甜花が…………
+…………にへへ……甜花、頑張った……』","""Tenka............
+............Nihehe...... Tenka... worked hard......"""
+2015011020300,甜花,"『…………………………
+……プロデューサーさんも……』","""..............................
+......You too... Producer-san......"""
+0000000000000,プロデューサー,ん？,Hm?
+2015011020310,甜花,"『プロデューサーさんも……
+今日は……お疲れ様、でした…………』","""You... did good work today... too............"""
+0000000000000,プロデューサー,"……ああ
+ありがとう、甜花","......Yeah, thanks Tenka."
+info,produce_events/201501102.json,
+Translator,kotonekotoP,

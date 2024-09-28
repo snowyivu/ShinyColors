@@ -12,14 +12,16 @@ What's the deal...!"
 ...So loud..."
 0000000000000,プロデューサー,"……えっ
 す、すまん……俺、またなんか邪魔しちゃってたな","...Huh.
-S-sorry... It seems I'm disturbing you."
+S-Sorry... It seems I'm disturbing you."
 1024002010070,にちか,"…………っ
 じゃなくて────なんか","...Guh.
 No, it's not you... It's like..."
 1024002010080,にちか,キーン、みたいな,"Some sort of, ringing noise."
 0000000000000,プロデューサー,……？,...?
 1024002010090,にちか,"しません？
-すっごい静かな時に、キーン、みたいな音","Does that ever happen to you? That ringing noise, that gets stuck in your ears when everything is too silent."
+すっごい静かな時に、キーン、みたいな音","Does that ever happen to you?
+That ringing noise, that gets stuck in your ears
+when everything is too silent."
 0000000000000,プロデューサー,……あぁ────,...Right────
 1024002010100,にちか,"────なんなんですかねー、これ
 めっっっちゃ、集中してるのに………………","───Why does it happen, anyway?
@@ -29,13 +31,19 @@ I'd been sooo focused before it started..."
 You've got a lot of scripts to review."
 0000000000000,プロデューサー,"少し疲れてるのかもしれない
 ……30分くらいなら、仮眠とれるよ","That sound might be because you're feeling tired.
-...You could try to nap for the next thirty minutes.  "
+...You could try to nap for the next thirty minutes."
 1024002010110,にちか,"……っ
-30分寝たらもう出る時間ですけど予習抜きで行きますー？","...Guh. If I nap for the next thirty minutes, then it'll already be time to leave! Do you want me to just wing it at my next gig?"
+30分寝たらもう出る時間ですけど予習抜きで行きますー？","...Guh. If I nap for the next thirty minutes, then it'll
+already be time to leave! Do you want me to just
+wing it at my next gig?"
 0000000000000,プロデューサー,"いや……現場の前に打ち合わせひとつ入ってるだろ？
-それ、俺だけで行ってくるよ","I mean... Before it starts I think we'll be able to squeeze a meeting in, right? And I'm the only one going with you."
+それ、俺だけで行ってくるよ","I mean... Before it starts I think we'll be able to
+squeeze a meeting in, right? And I'm the only one
+going with you."
 0000000000000,プロデューサー,"だから、早めに控室入って……
-そこで予習にしないか？","So, we can head back to the green room a little early... And then do any preparation needed there, how about it?"
+そこで予習にしないか？","So, we can head back to the green room a little
+early... And then do any preparation needed there,
+how about it?"
 1024002010120,にちか,────あー、うるさいなぁー……,"────Ughhh, you're too louddd..."
 info,produce_events/102400211.json,
 Translator,Belvera,

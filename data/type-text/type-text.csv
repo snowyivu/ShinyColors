@@ -20,9 +20,9 @@ ja,en
 私……とっても幸せものだなって……そう思います……っ"
 プロデューサー、お疲れ様です\n今日の調子ですか、問題ありません\nプロなんですから、気を付けるのは当たり前です,"Producer, good work. There's no issues today.
 I'm a pro, so of course I take care of myself."
-なんだか眠そうですね……\n無理をするのは構いませんが、次の日に疲れを持ち越すのは\nよくないですよ、気を付けてくださいね,"You seem kind of sleepy... I don't mind you working too
-hard, but it's not good to have it affect you the next
-day, so please be careful."
+なんだか眠そうですね……\n無理をするのは構いませんが、次の日に疲れを持ち越すのは\nよくないですよ、気を付けてくださいね,"You seem kind of sleepy... I don't mind you working
+too hard, but it's not good to have it affect you
+the next day, so please be careful."
 ふぁ……、あ！　すみません……！　あくびなんて、\n恥ずかしいところをお見せしてしまいました……！\n気が緩んでいる証拠ですよね。注意します……！,"*yawn* Ah! I'm sorry...! It's embarrassing being seen
 yawning...! It's proof that I'm relaxed. I'll be careful...!"
 あの……私の話し方って、どう思いますか？\nちょっと、キツめというか、厳しい……ですよね\n直したいんですけど……どうしたらいいか……,"Um... What do you think of how I talk?
@@ -37,14 +37,12 @@ Producer, you should be careful about it too."
 真乃とめぐるは、私にとっての光なんです\n私でも誰かの隣にいられるんだって、教えてくれたから──\n……巡り合わせてくれたこと、感謝しているんですよ,"Mano and Meguru are like a light to me.
 They've taught me even I can be by someone's side─
 ...I'm grateful we met by fate."
-『好き』だと言えるものは……あまり、ありませんでした\n……そう言えるものが増えたらいいなと思っています\nみんなが大事にしてくれる……私のことも、いつか──……,"There wasn't much I could say ""I like"" before... I think 
-it's good that there are more things I can say that 
-about. Everyone is important to me... I hope I can 
-about myself someday too──..."
-ひとりでも多くのファンに笑顔になってもらいたいんです\nたくさんの笑顔をもらった今の私なら、できるって──……\n不安でも、信じています。……一緒にここまで来たんですから,"I want to be able to give a smile to many fans, even by
- myself. I think that since I've been given many smiles, 
-that now I can do it──... Even if I'm anxious, I believe 
-in it. ...Because we've come this far together."
+『好き』だと言えるものは……あまり、ありませんでした\n……そう言えるものが増えたらいいなと思っています\nみんなが大事にしてくれる……私のことも、いつか──……,"I didn't have many things... I could say that I ""like"".
+...I wish there's more things that I like. Someday,
+I can like myself... as everyone takes care of me──..."
+ひとりでも多くのファンに笑顔になってもらいたいんです\nたくさんの笑顔をもらった今の私なら、できるって──……\n不安でも、信じています。……一緒にここまで来たんですから,"I want as many fans as possible to smile. I've gotten
+many smiles, I could do it too─... Despite my worries,
+I have faith... because we've both gotten this far."
 "プロデューサー。コーヒーを淹れましょうか？
 ──その、ずいぶん根を詰めているように見えたので……
 リフレッシュすれば、仕事もはかどると思います","プロデューサー。コーヒーを淹れましょうか？
@@ -55,7 +53,9 @@ in it. ...Because we've come this far together."
 プロデューサーのことを信じていますし、信じたいんです","自分を100パーセント信じるのは、どうしても難しいです
 でも、私を応援してくれるファンのみなさんや、
 プロデューサーのことを信じていますし、信じたいんです"
-プロデューサー！　お願いがあるの！\n今から一緒にお茶とかどうかな！？\nわたし、もっとプロデューサーとお話がしたいんだ！,プロデューサー！　お願いがあるの！\n今から一緒にお茶とかどうかな！？\nわたし、もっとプロデューサーとお話がしたいんだ！
+プロデューサー！　お願いがあるの！\n今から一緒にお茶とかどうかな！？\nわたし、もっとプロデューサーとお話がしたいんだ！,"Producer! I have a request!
+How about we have some tea together right now?!
+I want to talk with you even more!"
 この間、コーヒーに挑戦してみたの\nやっぱり苦くて、あんまりたくさんは飲めなくって……\nそしたら灯織が代わってくれたんだ、えへへ,この間、コーヒーに挑戦してみたの\nやっぱり苦くて、あんまりたくさんは飲めなくって……\nそしたら灯織が代わってくれたんだ、えへへ
 今日のおやつはアイスなんだって！\nバニラ、チョコ、ストロベリー、抹茶……迷っちゃうなぁ！\nプロデューサーはどれにする？　好きな味、教えてほしいな！,今日のおやつはアイスなんだって！\nバニラ、チョコ、ストロベリー、抹茶……迷っちゃうなぁ！\nプロデューサーはどれにする？　好きな味、教えてほしいな！
 プロデューサー、いつもありがとう！\n……えへへー！　こういうことをすぐに言えるのって、\nすっごく素敵なことだなって思ったんだ！　だからだよーっ,プロデューサー、いつもありがとう！\n……えへへー！　こういうことをすぐに言えるのって、\nすっごく素敵なことだなって思ったんだ！　だからだよーっ
@@ -673,12 +673,23 @@ Seriously!? What should I do!?"
 ご、合格……よ、よかった……！,ご、合格……よ、よかった……！
 わたし……最後まで頑張って、\nいいんですね……！,わたし……最後まで頑張って、\nいいんですね……！
 ……ぴゃ！？\nえ、あ、えっと！　あ、ありがとうございます……！,……ぴゃ！？\nえ、あ、えっと！　あ、ありがとうございます……！
+──やっ……たぁ……！,──やっ……たぁ……！
+──────……\nよし……,──────……\nよし……
+────うそ…………,────うそ…………
+──────終わったの…………？\n……まだ…………──────？,──────終わったの…………？\n……まだ…………──────？
 そう、良かった……,そう、良かった……
 そっか、合格……良かった、ありがとう,そっか、合格……良かった、ありがとう
 ……そう、ごめんね,……そう、ごめんね
 そっか……ごめんね,そっか……ごめんね
 ……良かった……,……良かった……
+ごめんね\n応援してもらっておいて……ダメだった,ごめんね\n応援してもらっておいて……ダメだった
 ──……あ……\nうん、……ありがとうございます,──……あ……\nうん、……ありがとうございます
+……そうかよ,……そうかよ
+んだよ……,んだよ……
+なんだよ……その顔……,なんだよ……その顔……
+"優勝……ふ……ふふ……
+アハハハハハッ！！","優勝……ふ……ふふ……
+アハハハハハッ！！"
 感想はアイツらに聞けよ,感想はアイツらに聞けよ
 ……そうかよ────……,……そうかよ────……
 あはっ、やったーっ──！,"Aha, hooraaay!"
@@ -739,7 +750,7 @@ Let's do our best in the next season together～"
 プロデューサーさん、シーズン２が終了しました\n次は予選です。頑張ってくださいね～,"Producer-san, Season 2 has ended.
 The prelims are up next. Let's do our best～"
 おめでとうございます♪\n『G.R.A.D.』本選の出場が決定いたしました,"Congratulations♪
-We've been selected for the finals of ""G.R.A.D.""!"
+We've been selected for the finals of G.R.A.D.!"
 本選までまだ時間がありますので\nしっかり準備してくださいね～,"There's still plenty of time until the finals, so let's 
 make sure we're fully prepared～"
 プロデューサーさん、シーズン３が終了しました\n次が最後のシーズンですよ～,"Producer-san, Season 3 has ended.
@@ -748,7 +759,7 @@ Next up is the final season～"
 It's really happening～. I'm so excited～"
 プロデューサーさん、シーズン１が終了しました\n次も頑張っていきましょう～,"Producer-san, Season 1 has ended!
 Let's do our best next season as well～"
-プロデューサーさん、シーズン２が終了しました\n調子はいかがですか？ 一緒に頑張りましょう～,"Producer-san, Season 2 has ended!
+プロデューサーさん、シーズン２が終了しました\n調子はいかがですか？　一緒に頑張りましょう～,"Producer-san, Season 2 has ended!
 How is it going? Let's do our best together～"
 プロデューサーさん、シーズン３が終了しました\n本番まであと少しです。しっかり準備してくださいね～,"Producer-san, Season 3 has ended!
 There's not much time left until the big show.
@@ -792,6 +803,8 @@ I'm looking forward to what you do next."
 Please show us your charm in the finals as well!"
 やったぁ！,Yay!!
 やった！,Yay!
+よしっ！,Alrighty!
+うひゃあっ,うひゃあっ
 いえーい,Yaaay.
 おっと,Oops
 やっりぃ！,Nailed it!
@@ -807,6 +820,8 @@ Please show us your charm in the finals as well!"
 にへへ……,Nihehe......
 あうぅっ,Auu
 やりました〜,I did it～
+ひゃあ！？,Hyaa!?
+ヤッバ！,Shoot!
 よーし,よーし
 え、えへ……！,Eh-Ehehe...!
 ぴゃ！？,Pya!?
@@ -817,17 +832,14 @@ Please show us your charm in the finals as well!"
 やったー,Yay!
 ひゃ……！,Eek...!
 ふふ～,Fufu～
-よしっ！,Alrighty!
 わっ！,Wah!
 よしっ,Alright!
 よし,Alright!
 あ、あらっ！,"Ah, my!"
-ヤッバ！,Shoot!
 あっ！,Ah!
 あちゃー……,あちゃー……
 あらら……,Tsk tsk...
 わわ……！,Wawa...!
-ひゃあ！？,Hyaa!?
 やっ！,Oh!
 うわっ,Woah!
 うぅ……,Aah...
@@ -1168,7 +1180,8 @@ I can go as far as I like!"
 "なになにー？
 ハグする？","What whaaat?
 Do you want a hug?"
-プロデューサー、\nわたしのことしっかり見ててねっ！,プロデューサー、\nわたしのことしっかり見ててねっ！
+プロデューサー、\nわたしのことしっかり見ててねっ！,"Producer,
+please keep an eye on me fully!"
 プロデューサー！　わたしね、\nプロデューサーが見ててくれる\nと、いーっぱい頑張れるんだ！,プロデューサー！　わたしね、\nプロデューサーが見ててくれる\nと、いーっぱい頑張れるんだ！
 ステージでわたしの『楽しい』\nを歌うから！　プロデューサー\nも聴いててね──！,ステージでわたしの『楽しい』\nを歌うから！　プロデューサー\nも聴いててね──！
 ステージ以外でも応援してもら\nえるのって、やっぱり嬉しいな\nえへへ……！,"It's so nice to have people supporting me 
@@ -1247,6 +1260,7 @@ What day is it today?!"
 Did I bump into you～!?"
 んん～！？\nなんか付いとったと？,んん～！？\nなんか付いとったと？
 ふえっ！？\nも～、驚かせんでよ\nプロデューサー！,ふえっ！？\nも～、驚かせんでよ\nプロデューサー！
+霧子におめでと～って\nありがと～～～って\n言ってくるばい！,霧子におめでと～って\nありがと～～～って\n言ってくるばい！
 うちのいいとこ詰まっとるけん\n美味しかって言ってよね！,うちのいいとこ詰まっとるけん\n美味しかって言ってよね！
 誰かと一緒にご飯食べて、\nそいで美味しかねって言って\n……そういうのって幸せやね,誰かと一緒にご飯食べて、\nそいで美味しかねって言って\n……そういうのって幸せやね
 今日……こん世界は、\nうちらの名を記憶する──,今日……こん世界は、\nうちらの名を記憶する──
@@ -1325,8 +1339,9 @@ You might get my clothes dirty～"
 ……ふふー……プロデューサー\nイタズラにはイタズラで返しますねー,"...Fufu～... Producer,
 if you're misbehaving I'll
 misbehave right back～"
-ふふー。私を待たせるなんてー\n覚悟しておいてくださいねー,"Fufu～. Can't believe you kept me waiting～.
-You better be prepared for that～."
+オーガンジーのリボン、霧子の髪に似合うと思うんですよねー\n何って誕生日プレゼントですよ,オーガンジーのリボン、霧子の髪に似合うと思うんですよねー\n何って誕生日プレゼントですよ
+ふふー。私を待たせるなんてー\n覚悟しておいてくださいねー,"Fufu～ Can't believe you kept me waiting～
+You better be prepared for that～"
 遅かったですねー\n待ちくたびれちゃいましたぁ,"Took your time getting here, didn't you?
 I got bored waiting for you."
 退屈な運命なんて興味ない\n……言ってる意味、\nわかりますよねー？,"I have no interest in living a boring life.
@@ -1413,6 +1428,9 @@ like it if you said a few words.
 It's good manners after all."
 スタイルには気を\n遣ってるつもりだよ\nアナタから見て、どうだろうか,"I try to pay the utmost attention 
 to my style, what do you think of it?"
+今日は私たちが包帯代わりさ\n抱えきれないたくさんの愛で、霧子を包んであげたいんだ,"Today we are the bandages and 
+we want to wrap Kiriko in so much 
+love that it's more than she could bear."
 ほら、こちらへおいでよ、プロデューサー！\n波も太陽も、すごく気持ちいいんだ！,"Hey, Producer, come over here!
 The sun and waves feel fantastic!"
  眩しい日差し、足をくすぐる波\nそこに集う人たちの笑顔……\n本当に、海は素晴らしいね, 眩しい日差し、足をくすぐる波\nそこに集う人たちの笑顔……\n本当に、海は素晴らしいね
@@ -1474,12 +1492,12 @@ The sun and waves feel fantastic!"
 ──……っと……\nあ、えっと……ありがとう\nこれは……嬉しい、ものだね,"──...Uhm...
 Ah, well... Thank you.
 This is... very kind."
-短冊に何と書いたんだい？\nいや……もし私に叶えられるものならいいな、と思ってね,"What did you write on the paper?
-Ah... I just thought it'd be nice
+短冊に何と書いたんだい？\nいや……もし私に叶えられるものならいいな、と思ってね,"What did you write? Ah... 
+I just thought it'd be nice 
 if I could make it happen."
-月を見ると、なんだか\n胸がざわめくような……\n……クス、なんてね,"When I gaze at moon, it sort of 
-makes my heart flutter...
-...Pfft, just kidding."
+月を見ると、なんだか\n胸がざわめくような……\n……クス、なんてね,"When I gaze at the moon, it 
+makes my heart flutter... 
+...Pfft, kidding."
 言われる側も楽しそうだね\nアナタがどんな悪戯をするのか\n……フフ、興味があるよ,"Being the one asked ""Trick or
 Treat"" seems fun too. What
 trick would you play? I'm curious."
@@ -1505,6 +1523,7 @@ Don't touch me all the sudden, Producer!"
 どうしたのー？\nスキンシップのつもりー？\nんー？,"What's wrong? Didn't you
 want to get close and
 personal? Weeell?"
+今日カメラ持ってきたんだよね～。\nもちろん、うちの末っ子の誕生日を\nバッチリ撮るために！,今日カメラ持ってきたんだよね～。\nもちろん、うちの末っ子の誕生日を\nバッチリ撮るために！
 こういうの、恋人同士～って感じがしない？\n──ね、プロデューサーはどう思う？,"Hey isn't this the kind of PDA couples do?
 You think so too, don't you, Producer?"
 さぁて、Ｐたんはいつまで\nおふざけってことで\n流せるのかな～？,さぁて、Ｐたんはいつまで\nおふざけってことで\n流せるのかな～？
@@ -2367,11 +2386,14 @@ Is napping... in the flower field......"
 is...... a doll......"
 甜花は……\nアイドル……です……！,"Tenka......
 is...... an idol......!"
-……人、いっぱい……\nプロデューサーさん……,……人、いっぱい……\nプロデューサーさん……
-きらきら～……\nきらきらきら～……,きらきら～……\nきらきらきら～……
-空から、見る街も……\nきらきら……,空から、見る街も……\nきらきら……
-大都会ダンジョン、制覇……！,大都会ダンジョン、制覇……！
-甜花……\n飛べる……,甜花……\n飛べる……
+……人、いっぱい……\nプロデューサーさん……,".......There's... so many people......
+Producer-san......"
+きらきら～……\nきらきらきら～……,"Sparkle sparkle～......
+Sparkle sparkle sparkle～......"
+空から、見る街も……\nきらきら……,"The street from above......
+is also shiny......"
+大都会ダンジョン、制覇……！,City dungeon... conquered......!
+甜花……\n飛べる……,Tenka...... can fly......
 気持ちは……\nちゃんと込めた……！,気持ちは……\nちゃんと込めた……！
 プロデューサーさん、\nハッピーバレンタイン……！\nに、なった……？,プロデューサーさん、\nハッピーバレンタイン……！\nに、なった……？
 お花も、お皿も……\nふわふわ～……,お花も、お皿も……\nふわふわ～……
@@ -2382,7 +2404,7 @@ is...... an idol......!"
 キスイダ\nアリメロトスルア──！\n……魔法の、呪文……！,キスイダ\nアリメロトスルア──！\n……魔法の、呪文……！
 くらえー……！\n甜花スプラーッシュ……！\n……にへへ……,くらえー……！\n甜花スプラーッシュ……！\n……にへへ……
 にへへ……\n実験は、成功です……！,にへへ……\n実験は、成功です……！
-花よりお団子……より……！,Flowers... isntead of Dango......!
+花よりお団子……より……！,Flowers... instead of Dango......!
 あ──えと……\nそうだね、お団子……\n食べなきゃ……！,"Oh, um...... Right...
 gotta eat the Dango......!"
 甜花の、気持ち……\n早く……届けたくて……\n速達で……お届け、です……！,"Tenka wants... her feelings...
@@ -2619,6 +2641,11 @@ Hop!"
 ──ほいっ\n流し込み、完了っす！,──ほいっ\n流し込み、完了っす！
 光、音、空気\n全部思い通りになる気がするっす,光、音、空気\n全部思い通りになる気がするっす
 甘い？\n酸っぱい？\nどっちっすか？,Sweet? Sour? Which one?
+地を蹴って、木を伝って──,地を蹴って、木を伝って──
+月にターッチ！\nここからならなんだって\n見渡せるっすよ,月にターッチ！\nここからならなんだって\n見渡せるっすよ
+これ、食べると飛べる\nわたあめっす\nあげないっすけど,これ、食べると飛べる\nわたあめっす\nあげないっすけど
+月に行くなら──\nプロデューサーさん\n一緒に行くっすか？,月に行くなら──\nプロデューサーさん\n一緒に行くっすか？
+今夜\nまぶたに焼きつけて\n眠れなくするっすよ,今夜\nまぶたに焼きつけて\n眠れなくするっすよ
 地を蹴って、木を伝って──,地を蹴って、木を伝って──
 月にターッチ！\nここからならなんだって\n見渡せるっすよ,月にターッチ！\nここからならなんだって\n見渡せるっすよ
 これ、食べると飛べる\nわたあめっす\nあげないっすけど,これ、食べると飛べる\nわたあめっす\nあげないっすけど
@@ -3110,7 +3137,7 @@ supporting me for such
 a long time, Producer."
 "……？
 髪の毛になんか
-ついちゃってた？","...?
+ついちゃってた？","......?
 Is there something in my hair?"
 あはっ\nもしかしてなでなでの刑？,"Aha.
 Is this maybe a headpat penalty?"
@@ -3404,7 +3431,7 @@ that?"
 プロデューサー、今日は\nお弁当作り過ぎたけん\nあとで分けちゃるばいー,"Producer, I made a little too much for my lunch. I'll share some with you later."
 なんかが掴めそうたい！,I feel like I can get my hands on something!
 プロデューサー\n言ってくれればわかるけん\nそんなに触ることなか,"Producer, I already told you. You shouldn't touch me like that."
-ちょ、そんな\nベタベタせんで良かって:  그런\n끈적끈적안하는게 좋은뎅,"No, you shouldn't be so touchy-feely like that."
+ちょ、そんな\nベタベタせんで良かって,"No, you shouldn't be so touchy-feely like that."
 もー、いいかげんにせんば\nいかんよ？\nプロデューサー,"Come on, will you cut that out already, Producer?"
 わっ！\nびっくりしたばい……\n一言いってから触らんね,I-I didn't say you can do that! Sheesh...
 んふふ～、\nレッスンの成果やね\n最近筋肉ついてきたんよ～,んふふ～、\nレッスンの成果やね\n最近筋肉ついてきたんよ～
@@ -4122,26 +4149,44 @@ I'll keep it a secret♪"
 プロデューサー、難菜にごめんなさいは～？,"Producer, where's my ""Sorry, Hinana""～?"
 あ、ちょっと今バリアです\n集中してます,あ、ちょっと今バリアです\n集中してます
 ふぁ────\n……やば\nこっち見る時言ってください,ふぁ────\n……やば\nこっち見る時言ってください
-ラーメン、炒飯、餃子\nピザ、パスタ、お寿司──\n出前メニュー少なっ,ラーメン、炒飯、餃子\nピザ、パスタ、お寿司──\n出前メニュー少なっ
+ラーメン、炒飯、餃子\nピザ、パスタ、お寿司──\n出前メニュー少なっ,"Ramen, chao fan, gyoza,
+pizza, pasta, sushi──
+This delivery menu has
+a few stuff."
+にさんが10～～！\n──あははっ\nこっち向いたー！,にさんが10～～！\n──あははっ\nこっち向いたー！
+ムキムキにちか～～！\n──あははっ\nこっち向いたー！,ムキムキにちか～～！\n──あははっ\nこっち向いたー！
+３歳の私と\n３人の私、\nどっちがいいですか？,３歳の私と\n３人の私、\nどっちがいいですか？
 あの、すみません\n……あの、すみません\nあの！　すみません！,あの、すみません\n……あの、すみません\nあの！　すみません！
 ……失礼しまーす\nお忙しいようなので\n帰りますねー……,……失礼しまーす\nお忙しいようなので\n帰りますねー……
 すみませーん……\nあと３秒で返事なかったら\n初期化しますね、このＰＣ,すみませーん……\nあと３秒で返事なかったら\n初期化しますね、このＰＣ
+あり得なくないですか\n放っとくとか,あり得なくないですか\n放っとくとか
+……忙しいんですかねー\nはー、すごいなー\n敏腕プロデューサーさんはー,……忙しいんですかねー\nはー、すごいなー\n敏腕プロデューサーさんはー
+時間作ってください\n１日に、24時間くらい\n私のために,時間作ってください\n１日に、24時間くらい\n私のために
 すごく、感じます。何かが始まるって,すごく、感じます。何かが始まるって
-いたっ,いたっ
+いたっ,Ouch.
 あの、手洗ってます？,あの、手洗ってます？
 うるさいなー……\nあ、すみません,うるさいなー……\nあ、すみません
-えっ？,えっ？
+……わぁっ\n手、冷たくないですか！,……わぁっ\n手、冷たくないですか！
+……ちょっと、あははっ\n5000倍で返しますよ！,……ちょっと、あははっ\n5000倍で返しますよ！
+……プロデューサーさんは\n覚えてます？　小さい頃に\nよしよししてもらったこと,……プロデューサーさんは\n覚えてます？　小さい頃に\nよしよししてもらったこと
+えっ？,Heh?
 次やったら\n鞄の中身捨てますね\n全部,次やったら\n鞄の中身捨てますね\n全部
 民間人でも\nできるらしいんですよ\n逮捕って,民間人でも\nできるらしいんですよ\n逮捕って
+お、お姉ちゃんに見られたら\n死んでますよ……,お、お姉ちゃんに見られたら\n死んでますよ……
+やめてもらえますか──\n頭、真っ白になるので,やめてもらえますか──\n頭、真っ白になるので
+……どういう意味なんですか\n意味ないなら、\nやめてください,……どういう意味なんですか\n意味ないなら、\nやめてください
+,
 ……あれ、\nもしかして今、呼んだ？,……あれ、\nもしかして今、呼んだ？
 ごめんね\nこの後レッスンだから,ごめんね\nこの後レッスンだから
 ……やっぱり\n２８３プロって変わってる,……やっぱり\n２８３プロって変わってる
 ……うん？\nどうかしたの、プロデューサー,……うん？\nどうかしたの、プロデューサー
 差し入れ、\nいつもありがとう,差し入れ、\nいつもありがとう
 ……そういえば\nお腹空いたかも,……そういえば\nお腹空いたかも
-…………\n……プロデューサー？,…………\n……プロデューサー？
+…………\n……プロデューサー？,"…………
+……Producer?"
 ……あれ、\nプロデューサーいない？,……あれ、\nプロデューサーいない？
-……レッスン室、\n行きたいんだけど,……レッスン室、\n行きたいんだけど
+……レッスン室、\n行きたいんだけど,"...I want to go to the
+lesson room."
 プロデューサー？\n……寝ちゃったの？,プロデューサー？\n……寝ちゃったの？
 休む時はしっかり\n休んだ方がいいよ,休む時はしっかり\n休んだ方がいいよ
 ……ここにいるから\nまた、声かけて,……ここにいるから\nまた、声かけて
@@ -4150,8 +4195,10 @@ I'll keep it a secret♪"
 What...?"
 ……ちょっと,……ちょっと
 そういうの、\nやめた方がいいよ,そういうの、\nやめた方がいいよ
-……？\n何か用？,……？\n何か用？
-え……\n呼んだ？,え……\n呼んだ？
+……？\n何か用？,"...?
+Can I help you?"
+え……\n呼んだ？,"Eh...
+Did you call me?"
 ……どうしたの？,……どうしたの？
 ……え？,...... Eh?
 やめて,Stop that.
@@ -4433,9 +4480,11 @@ It's important to get your rest."
 やは～、雛菜もそう思う～～～！\nありがとうございます～,やは～、雛菜もそう思う～～～！\nありがとうございます～
 あは～、どっか行こっか～？,あは～、どっか行こっか～？
 ん～？ いいよ～,ん～？ いいよ～
-今週は休みにしようか\n──すごく……疲れてるみたいだ,今週は休みにしようか\n──すごく……疲れてるみたいだ
-疲れてないですけど……\nはい,疲れてないですけど……\nはい
-お時間ありますか？,Do you have time right now?
+今週は休みにしようか\n──すごく……疲れてるみたいだ,"How about you take the week off?
+──You look very... exhausted."
+疲れてないですけど……\nはい,"I'm not really tired though...
+Okay."
+お時間ありますか？,Do you have the time right now?
 えっ、はい！,"Eh, okay!"
 今日は何がなんでも休んでもらうぞ！\nこれは絶対だ！,今日は何がなんでも休んでもらうぞ！\nこれは絶対だ！
 そう……仕方ないね\nじゃあ、お休みいただきます,そう……仕方ないね\nじゃあ、お休みいただきます
@@ -4494,8 +4543,9 @@ If you don't mind, let's go hang out together...!"
 ……あ、あのっ\nさっき、甘奈ちゃんも公園にいたかな……っ,"...U-Uhm, Amana-chan, were\nyou also in the park earlier...?"
 うんっ！　いたよ～☆\nかわいー猫がいたから写真\n撮ってたんだ～。見て見て～！,"Yep! I was～☆ I was taking some\npictures of a cute kitty～ Look,\nlook～!"
 公園に日向ぼっこしに行こうかなって思って……甜花ちゃんも……一緒にどうかな……っ,I was thinking of sunbathing in\nthe park... Tenka-chan... do\nyou wanna come with me?
-うん……！　甜花も……行く！　一緒に……！\n公園、ぽかぽか……にへへ……,"Yeah......! Tenka will... go too! Together......!
-The park... is so warm...... Nihehe......"
+うん……！　甜花も……行く！　一緒に……！\n公園、ぽかぽか……にへへ……,"Yeah......! Tenka will... go too!
+Together......! The park... is so
+warm...... Nihehe......"
 千雪さんが教えてくれた雑貨屋さん、とっても素敵で、髪飾りを買っちゃいましたっ,That general store you told\nme about was so wonderful\nI bought a hair ornament there!
 わぁ、どんなの……！\n真乃ちゃんがつけてるところ見てみたいなぁ,"Oh my, what kind?\nI want to see Mano-chan\nwearing it～"
 あさひちゃんっ、あっちの方で飛行機がしっぽを作ってたよっ,"Asahi-chan, that plane over\nthere is leaving a trail!"
@@ -4893,17 +4943,28 @@ I wonder what I have to show."
 ふふ……\nいらっしゃるのでしたら……\n凛世も……,Fufu... if you're going to go...\nRinze will too...
 ストイックに前を見据える夏葉のまなざしは\nどんな宝石よりも輝いているね,Natsuha's stoic gaze staring\nstraight forward is more\ndazzling than any jewel.
 うふふ、そうかしら？\nそう見えていたら、嬉しいけれど,"Ufufu, is that the case? If that's\nhow it looks, I'm quite happy."
-ショッピングの荷物持ちとして──\n私なんてどうだい？,"If you need someone to carry\nyour shopping bags, how about\nme?"
-咲耶さんにそんなことさせられないよ～！\n一緒に楽しもっ☆,I couldn't let Sakuya-san do\nthat～! We should have fun\ntogether☆
-さあ眠り姫、\n何をご所望かな？,"Tell me, Sleeping Beauty, what is\nyour desire?"
+ショッピングの荷物持ちとして──\n私なんてどうだい？,"If you need someone to carry
+your shopping bags, how about
+me?"
+咲耶さんにそんなことさせられないよ～！\n一緒に楽しもっ☆,"I couldn't let Sakuya-san do
+that～! We should have fun
+together☆"
+さあ眠り姫、\n何をご所望かな？,"Tell me, Sleeping Beauty, what 
+is your desire?"
 え……ごしょ……？\n……え、えっと……\nお昼寝……したい、です……,"Huh...... desire......?
 ......U-Umm...... Tenka wants...
 to take a nap......"
-そういえば、ティッシュが切れかけていたような……,"Oh speaking of, I seem to be\nrunning out of tissues..."
-お部屋……？\nふふ、私もそうなの\n思い出せてよかった……！,"In your room...? Fufu, I might be\ntoo, I'm glad you\nremembered...!"
-やあ、あさひ\nその美しい瞳は、何を映しているんだい？,"Hey, Asahi. What do I see\nreflected in those beautiful\neyes?"
+そういえば、ティッシュが切れかけていたような……,"Oh speaking of, I seem to be
+running out of tissues..."
+お部屋……？\nふふ、私もそうなの\n思い出せてよかった……！,"In your room...? Fufu, I might be
+too, I'm glad you
+remembered...!"
+やあ、あさひ\nその美しい瞳は、何を映しているんだい？,"Hey, Asahi. What do I see
+reflected in those beautiful
+eyes?"
 咲耶さんっすね！,"It's Sakuya-san, right!"
-さあお姫様、\nお手をどうぞ,"Here Princess, your hand\nplease."
+さあお姫様、\nお手をどうぞ,"Here Princess, your hand
+please."
 ふふっ\nありがとう、王子様っ♪,"Fufu, thank you, Prince-sama♪"
 可愛らしい愛依と、\nミステリアスな愛依……\nどちらも実に魅力的だ,"The cute Mei, and the\nmysterious Mei... both are quite\nfascinating."
 マジ！？\nちょー嬉しいんだけど～！,Seriously!? You're making me\nreally happy～!
@@ -4947,7 +5008,7 @@ You don't need to do that."
 雑誌……\nどれだったか……,雑誌……\nどれだったか……
 羽那の愛らしい笑顔を見たら\n万人が虜になるだろうね\nもちろん、私もそのうちのひとりさ,羽那の愛らしい笑顔を見たら\n万人が虜になるだろうね\nもちろん、私もそのうちのひとりさ
 あはっ、咲耶ちゃんって\nおもしろいよねーっ,あはっ、咲耶ちゃんって\nおもしろいよねーっ
-はるきは普段、どんな音楽を\n聞くのかな？　おすすめの曲が\nあったら、教えてくれない？,"What kind of music do you usually listen to, Haruki? If you have any recommendations, could you please tell me?"
+はるきは普段、どんな音楽を\n聞くのかな？　おすすめの曲が\nあったら、教えてくれない？,"What kind of music do you listen to, Haruki? If you have any recommendations, could you please tell me?"
 いいですよ～\nいっぱいあります！\n咲耶さんも教えてくださいね？,"Absolutely! There's lots I listen to! Will you tell me yours too, Sakuya-san?"
 まののんは可愛いねぇ……\n三峰、孫を見るおばあちゃんみたいな気持ちになっちゃう……,Manonon is so cute...\nMitsumine feels like a granny\nlooking at a grandchild...
 ほわ……っ？\nゆ、結華ちゃんはお姉さんだと思います……っ,Howa...!? I-I think of you\nmore like an older sister...
@@ -7685,9 +7746,9 @@ bunch!"
 ……―――― ーーいきます,……―――― ーーいきます
 大入りじゃないですか！ 全部、持ってっちゃいますね,大入りじゃないですか！ 全部、持ってっちゃいますね
 ここ獲ったら おっきいですよね――――,ここ獲ったら おっきいですよね――――
-水……水飲んだら出ます ーーはぁ……いってきます！,水……水飲んだら出ます ーーはぁ……いってきます！
-いいです、気休めは やってくるだけなので！,いいです、気休めは やってくるだけなので！
-終わったら食べますよ。今日は食べます今日は食べます！,終わったら食べますよ。今日は食べます今日は食べます！
+水……水飲んだら出ます\n──はぁ……いってきます！,水……水飲んだら出ます\n──はぁ……いってきます！
+いいです、気休めは\nやってくるだけなので！,いいです、気休めは\nやってくるだけなので！
+終わったら食べますよ。今日\nは食べます今日は食べます！,終わったら食べますよ。今日\nは食べます今日は食べます！
 んー……はぁ…… 凝っちゃってます、肩,んー……はぁ…… 凝っちゃってます、肩
 緊張？ ふふっ、してますよ どうかなっちゃいそうですよ,緊張？ ふふっ、してますよ どうかなっちゃいそうですよ
 ふぁ……あははっ、あくび こんな時でも出るんだ……,ふぁ……あははっ、あくび こんな時でも出るんだ……
@@ -7703,9 +7764,10 @@ bunch!"
 ……もしかして 今、呼んだ？,……もしかして 今、呼んだ？
 ……毎日 練習してきたから,……毎日 練習してきたから
 あ……レッスン室の鍵 持ってきちゃったみたい,あ……レッスン室の鍵 持ってきちゃったみたい
-誰にも文句言わせないくらい ……完璧にしないと,誰にも文句言わせないくらい ……完璧にしないと
-……早くステージに立ちたい 今は、それだけ,……早くステージに立ちたい 今は、それだけ
-慣れなくていいことばっかり 慣れてしまっているみたい,慣れなくていいことばっかり 慣れてしまっているみたい
+誰にも文句言わせないくらい\n……完璧にしないと,誰にも文句言わせないくらい\n……完璧にしないと
+……早くステージに立ちたい 今は、それだけ,"…I want to go on stage
+soon. That's all for now."
+慣れなくていいことばっかり\n慣れてしまっているみたい,慣れなくていいことばっかり\n慣れてしまっているみたい
 なんだか、できそうな気がするの。今日はね,なんだか、できそうな気がするの。今日はね
 絶対、成功させよう その為に、ここにいるんだから,絶対、成功させよう その為に、ここにいるんだから
 みんなを感動させるようなパフォーマンスになるといいな,みんなを感動させるようなパフォーマンスになるといいな
@@ -7867,7 +7929,6 @@ Isn't everyone great too!?"
 ……もっと、やれることがあるはずですよね,……もっと、やれることがあるはずですよね
 ……負けちゃった……？　そんな……,……負けちゃった……？　そんな……
 ──……！　よーし、だったら……！\nまだまだ楽しんでもらっちゃいますよ……！,──……！　よーし、だったら……！\nまだまだ楽しんでもらっちゃいますよ……！
-うひゃあっ,うひゃあっ
 えへへっ！　やりました！\n本番は、もっともっとスッゴくなっちゃいます！,えへへっ！　やりました！\n本番は、もっともっとスッゴくなっちゃいます！
 ふふー、上々ですねー\nちょっとだけ楽しみになってきたかもー,ふふー、上々ですねー\nちょっとだけ楽しみになってきたかもー
 ほわぁ……っ\nファンのみなさんから、たくさんの勇気を貰えたおかげです,ほわぁ……っ\nファンのみなさんから、たくさんの勇気を貰えたおかげです
@@ -7937,7 +7998,6 @@ Mitsumine's abilities..."
 これって……やっぱうちの……,これって……やっぱうちの……
 あ～、よかった\nとりま、ひと安心ってカンジかな～,"Ah～, thank goodness.
 For now, I feel kinda relieved!"
-ちょ、そんな\nベタベタせんで良かって,ちょ、そんな\nベタベタせんで良かって
 あちゃー、ダメだったかー……こういうときもあるよね,あちゃー、ダメだったかー……こういうときもあるよね
 ……みんなに感謝を伝えるライブなのになぁ\n三峰たちが嬉しくなっちゃってどうすんの,……みんなに感謝を伝えるライブなのになぁ\n三峰たちが嬉しくなっちゃってどうすんの
 今日……この時……\n実を結ぶ、時……,今日……この時……\n実を結ぶ、時……
@@ -7949,4 +8009,3 @@ For now, I feel kinda relieved!"
 この歓声は……\nわたしだけのじゃない……みんなの……！,この歓声は……\nわたしだけのじゃない……みんなの……！
 よし、合格できた\nこれでファンの人たちを喜ばせる機会ができたな,よし、合格できた\nこれでファンの人たちを喜ばせる機会ができたな
 アイドルになれたからこそ\n私は本当の意味で人を喜ばせられたんだろうな,アイドルになれたからこそ\n私は本当の意味で人を喜ばせられたんだろうな
-バイ・スパイラル,Bye Spiral

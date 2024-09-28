@@ -32,7 +32,7 @@ What's going on?"
 静かにしてもらっていいですか？","I was really concentrating just now, so could I ask
 for it to be quieter?"
 0,プロデューサー,"お、おう……うるさかったか
-気を付けるよ",O-oh... I didn't realize. I'll watch out.
+気を付けるよ",O-Oh... I didn't realize. I'll watch out.
 2024004010130,にちか,お願いしまーす,Pleaaase.
 0,プロデューサー,"うん
 動き回って悪かった。そっと作業するよ────","Yeah. Sorry for moving around so much.
@@ -79,8 +79,10 @@ okay if not."
 select,,うん……,Yeah...
 select,,……ごめんな,...I'm sorry.
 2024004010220,にちか,"うわっ
-いいんだったら言わなくてよくないですかー！","Ugh, it's not like you have to tell me if it's okay or not!"
-2024004010230,にちか,やば、めちゃめちゃ私悪者みたい……！,"That's awful, I really sounded like the bad guy just then...!"
+いいんだったら言わなくてよくないですかー！","Ugh, it's not like you have to tell me if it's okay
+or not!"
+2024004010230,にちか,やば、めちゃめちゃ私悪者みたい……！,"That's awful, I really sounded like the bad guy
+just then...!"
 0,プロデューサー,"いや、すまん！　俺がうるさくしてしまったのが悪いな
 外行ってくるよ……！","No, sorry! It's my fault for being troublesome.
 I'm gonna head out...!"
@@ -90,20 +92,21 @@ I'm gonna head out...!"
 2024004010250,にちか,……どれ取りますかー,...Which one should I get?
 0,プロデューサー,え？,Huh?
 2024004010260,にちか,どれ取りますか！　水ですかお茶ですかコーヒーですか！,Which one should I get!? Water? Tea? Coffee!?
-0,プロデューサー,い、いいのか……！,A-are you sure...!?
+0,プロデューサー,い、いいのか……！,A-Are you sure...!?
 2024004010270,にちか,"あーーんーーーー！！
-めっちゃめちゃうるさいので飲み物だけ取りますーーー！！",Aaaahhhhhhh!!!!!!! Just shut up and tell me what you want me to get!!!
+めっちゃめちゃうるさいので飲み物だけ取りますーーー！！","Aaaahhhhhhh!!!!!!!
+Just shut up and tell me what you want me to get!!!"
 0,プロデューサー,"……その、つけ麺わりと辛いやつで
 それに外出ると、それはそれでうるさいかなとか…………","...Well, that tsukemen is kinda spicy...
-And I'm afraid if I don't eat out there, it's gonna be
-annoying..."
+And I'm afraid if I don't eat out there, it's gonna
+be annoying..."
 2024004010280,にちか,"うるさいの気にするんだったら最初からしてくださいよー
 言い訳とかやめ────うわっ","If you were worried about that, you should have told
 me from the start! Don't make excu──Whoa."
 0,プロデューサー,──────……,──...
 2024004010290,にちか,今は静かにするのやめてもらえないですかねーーーー！！,Can you please stop being quiet now!?
 2024004010300,にちか,…………,......
-0,プロデューサー,す、すまん……ありがとう、にちか……！,"S-sorry... Thank you, Nichika...!"
+0,プロデューサー,す、すまん……ありがとう、にちか……！,"S-Sorry... Thank you, Nichika...!"
 2024004010310,にちか,…………,......
 0,プロデューサー,その……食べるか、にちかも？,"Uh... Are you gonna eat soon too, Nichika?"
 2024004010320,にちか,謝る意味わかんないですけど、はいー,"I don't know why you're apologizing, but okay."

@@ -1,377 +1,379 @@
-text,trans,type
-Excellent$num倍アピール,Excellent $1x Appeal,
-全観客の興味$percentDOWN,All Judges Interest $1DOWN,
-思い出ゲージ増加量$percentDOWN,Memory Gauge Increase $1DOWN,
-[$num回],[$1x],
-メンタルが0になった時$percent回復,$1 Chance to Revive From 0 Mental,
-自身にメランコリー効果$percent付与,You Receive $1 Melancholy,
-全ユニットにメランコリー効果$percent付与,All Units Receive $1 Melancholy,
-ライバルにメランコリー効果$percent付与,Rival Units Receive $1 Melancholy,
-$noun$percentUP,$1 $2 UP,
-$noun$percent回復,$1 $2 Recovery,
-$noun$num回復,$1 $2 Recovery,
-$nounUP,$1 UP,
-$noun$num,$1 $2,
-$noun$num～$num倍アピール,$1 $2〜$3x Appeal,
-$noun$num〜$num倍アピール,$1 $2〜$3x Appeal,
-全観客に$noun$num～$num倍アピール,All Judges $1 $2〜$3x Appeal,
-全観客に$noun$num〜$num倍アピール,All Judges $1 $2〜$3x Appeal,
-アピールフェイズ開始時にメンタル$percent回復,$1 Mental Heal on Turn Start,
-アピールフェイズ開始時メンタル$percent回復,$1 Mental Heal on Turn Start,
-全ユニットの$noun$percentUP,All Units $1 $2 UP,
-[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2 UP],
-[PERFECTなら$num倍アピール],[On PERFECT $1x Appeal],
-全ユニットのメンタル$percent回復,All Units $1 Mental Recovery,
-$noun$num倍アピール,$1 $2x Appeal,
-全観客に$noun$num倍アピール,All Judges $1 $2x Appeal,
-$noun最大$num倍アピール,$1 Max $2x Appeal,
-全観客に$noun最大$num倍アピール,All Judges $1 Max $2x Appeal,
-$noun＆$noun$num倍アピール,$1＆$2 $3x Appeal,
-$noun＆$noun$percentUP,$1＆$2 $3 UP,
-[$numターン],[$1 Turn(s)],
-[条件:$numターン以前],[Condition: Turn Count ≤ $1] ,
-[条件:$numターン以降],[Condition: Turn Count ≥ $1] ,
-[条件:$name],[Condition: $1] ,
-[条件:$noun],[Condition: $1] ,
-[条件:$num位],[Condition: $1 Place] ,
-[条件:$noun担当],[Condition: $1 Position] ,
-[条件:$noun$num以上],[Condition: $1 ≥ $2] ,
-[条件:$noun$num以下],[Condition: $1 ≤ $2] ,
-[条件:$noun$percent以上],[Condition: $1 ≥ $2] ,
-[条件:$noun$percent以下],[Condition: $1 ≤ $2] ,
-[条件:$nounDOWNが付与されている場合],[Condition: Affected by $1 DOWN] ,
-[条件:$nounUPが付与されている場合],[Condition: Affected by $1 UP] ,
-[条件:$nounCUTが付与されている場合],[Condition: Affected by $1 CUT] ,
-[条件:メランコリーが付与されている場合],[Condition: Affected by Melancholy] ,
-[条件:リザレクション効果が付与されている場合],[Condition: Affected by Resurrection Effect] ,
-[条件:観客$num],[Condition: $1 Judge(s)] ,
-[消去:$nounUP],[Consumes: $1 UP] ,
-[消去:$nounDOWN],[Consumes: $1 DOWN] ,
-[確率:$percent],[Probability: $1] ,
-[確率:$other],[Probability: $1] ,
-[最大:$num回],[Maximum: $1x] ,
-[$nounが高いほど効果UP],[Stronger at High $1] ,
-[$nounが多いほど効果UP],[Stronger at High $1] ,
-[$nounが低いほど効果UP],[Stronger at Low $1] ,
-[$nounが低い程効果UP],[Stronger at Low $1] ,
-[$nounが少ない程効果UP],[Stronger at Low $1] ,
-[$nounが少ないほど効果UP],[Stronger at Low $1] ,
-[$nounが多い程効果UP],[Stronger at High $1] ,
-[超過分は思い出ゲージに変換],[Excess is converted into Memory Gauge] ,
-トラブル発生率,Trouble Rate,
-必ず最後にアピールを行い,Always Appeal Last,
-必ず最初にアピールを行い,Always Appeal First,
-$noun滞在率$noun,$1 Room Rate$2,
-興味$percentUP,Interest $1UP,
-興味$percentDOWN,Interest $1DOWN,
-興味DOWN$percent,Interest DOWN $1,
-影響力$percentUP,Influence $1UP,
-影響力$percentDOWN,Influence $1DOWN,
-自身の$nounを$percent減らす,Decrease Own $1 By $2,
-メンタルダメージ$percentCUT,Mental Damage $1 CUT,
-特訓$num回目で解放,Limit Break $1 Times,
-$noun初期値,$1 Start Value,
-$noun上限,$1 Cap,
-サポートイベント発生率UP$noun,Support Event Chance UP$1,
-初期テンションUP$noun,Start Tension UP$1,
-初期親愛度,Start Affection,
-初期絆UP,Start Bonds UP,
-プロデュース開始時に絆,Bonds at Start of Produce,
-（極小）,（Tiny）,noun
-（小）,（Small）,noun
-（中）,（Med）,noun
-（大）,（Large）,noun
-朝コミュ発生率UP$noun,Morning Commu Rate UP$1,
-約束発生率UP$noun,Promise Rate UP$1,
-$nounが$percentUPする効果,$1 Effect Increased $2,
-受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1 UP,
-$nounが$percentDOWNする効果,$1 Effect Decreased $2 DOWN,
-受ける$nounを$percentCUTする効果,$1 Received $2 CUT,
-思い出アピール,Memory Appeal,
-消費体力$num,Stamina Consumed $1,
-$nounのレベルを$num上昇,Increase $1 Level by $2,
-リハーサルの流行1位を$nounに変更,Rehearsal Trend 1st Judge Set To $1,
-本番の流行1位を$nounに変更,Performance Trend 1st Judge Set To $1,
-トラブル率$percent,Trouble Rate $1,
-パーフェクト発生率増加,Perfect Rate Increased,
-サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
-限定スキルを解放,Unlocked Limited Skills,
-全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
-ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Extremely Rare Chance of Instantly Captivating Judge,
-ごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance Of Instantly Captivating Judge,
-$noun･$noun･$nounUP,$1･$2･$3 UP,
-$noun･$nounUP,$1･$2 UP,
-限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
-興味無視,Ignore Judge Interest,noun
-Dance,Dance,noun
-Vocal,Vocal,noun
-Visual,Visual,noun
-Da,Da,noun
-Vo,Vo,noun
-Vi,Vi,noun
-Me,Me,noun
-メンタル,Mental,noun
-メンタルダメージ,Mental Damage,noun
-SP,SP,noun
-スター,Stars,noun
-観客,Judge,noun
-注目度,Attention Rate,noun
-思い出ゲージ,Memory Gauge,noun
-ボーカルレッスン,Vocal Lesson,noun
-ラジオ収録,Radio Show,noun
-ラジオの収録,Radio Show,noun
-ビジュアルレッスン,Visual Lesson,noun
-トークイベント,Talkshow,noun
-トークイベントに出演,Appear in Talkshow,noun
-トーク,Talk,noun
-ラジオ,Radio,noun
-雑誌,Magazine,noun
-雑誌撮影,Magazine Shoot,noun
-雑誌の撮影,Magazine Shoot,noun
-ダンスレッスン,Dance Lesson,noun
-Voレッスン,Vo Lesson,noun
-Daレッスン,Da Lesson,noun
-Viレッスン,Vi Lesson,noun
-親愛度,Trust,noun
-初期親愛度,Starting Trust,noun
-絆,Bonds,noun
-テンション,Tension,noun
-ラジオ,Radio,noun
-ボーカルアピール,Vocal Appeal,noun
-ダンスアピール,Dance Appeal,noun
-ビジュアルアピール,Visual Appeal,noun
-ごくごく稀,Extremely Extremely Rare,other
-ごく稀,Extremely Rare,other
-リンクアピール,Link Appeal,text
-メンタルダメージCUT,Mental Damage CUT,text
-特定のアイドルイベントで解放,Unlocked by certain idol events,text
-特定のサポートイベントで解放,Unlocked by certain support events,text
-体力回復,Stam Heal,text
-体力が中回復,Stam Med Heal,text
-テンションが中UP,Tension Med UP,text
-親愛度が中UP,Trust Med UP,text
-体力が大回復,Stam Lg Heal,text
-テンションが大UP,Tension Lg UP,text
-親愛度が大UP,Trust Lg UP,text
-体力が特大回復,Stam Super Heal,text
-テンションが特大UP,Tension Super UP,text
-親愛度が特大UP,Trust Super UP,text
-体力が小回復,Stam Sm Heal,text
-テンションが小UP,Tension Sm UP,text
-親愛度が小UP,Trust Sm UP,text
-リハ流行Vo,Prep Vo1,text
-リハ流行Da,Prep Da1,text
-リハ流行Vi,Prep Vi1,text
-本番流行Vo,Live Vo1,text
-本番流行Da,Live Da1,text
-本番流行Vi,Live Vi1,text
-全アイドルと七草はづきの絆UP,Increase Bonds of all Idols and Hazuki,text
-限定スキル解放,Unlock Limited Skill,text
-審査員スキル,Judge Skill,text
-思い出アピール未習得の状態です,Memory Appeal Unavailable,text
-真乃,Mano,name
-灯織,Hiori,name
-めぐる,Meguru,name
-恋鐘,Kogane,name
-摩美々,Mamimi,name
-咲耶,Sakuya,name
-結華,Yuika,name
-霧子,Kiriko,name
-果穂,Kaho,name
-智代子,Chiyoko,name
-樹里,Juri,name
-凛世,Rinze,name
-夏葉,Natsuha,name
-甘奈,Amana,name
-甜花,Tenka,name
-千雪,Chiyuki,name
-あさひ,Asahi,name
-冬優子,Fuyuko,name
-愛依,Mei,name
-透,Toru,name
-円香,Madoka,name
-小糸,Koito,name
-雛菜,Hinana,name
-にちか,Nichika,name
-美琴,Mikoto,name
-櫻木 真乃,Mano,name
-風野 灯織,Hiori,name
-八宮 めぐる,Meguru,name
-月岡 恋鐘,Kogane,name
-白瀬 咲耶,Sakuya,name
-田中 摩美々,Mamimi,name
-三峰 結華,Yuika,name
-幽谷 霧子,Kiriko,name
-小宮 果穂,Kaho,name
-園田 智代子,Chiyoko,name
-西城 樹里,Juri,name
-杜野 凛世,Rinze,name
-有栖川 夏葉,Natsuha,name
-大崎 甘奈,Amana,name
-大崎 甜花,Tenka,name
-桑山 千雪,Chiyuki,name
-芹沢 あさひ,Asahi,name
-黛冬 優子,Fuyuko,name
-和泉 愛依,Mei,name
-浅倉 透,Toru,name
-樋口 円香,Madoka,name
-福丸 小糸,Koito,name
-市川 雛菜,Hinana,name
-七草 にちか,Nichika,name
-緋田 美琴,Mikoto,name
-[条件:リラックスが付与されている場合],[Condition: Under effects of Relax] ,
-リアクション回避率$percentUP,Reaction Chance $1UP,
-ダメージを受けるまで,Until Damaged,
-ライバルに,All Rivals,
-必ず最初に,Always First,
-必ず最後に,Always Last,
-リザレクション効果$num％付与,Resurrect at $1%,
-[条件:$nameがライブに参加している場合],[Condition: $1 in Unit],
-[条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position],
-​リラックス効果$num％付与,Grants $1% Relax,text
-全ユニットにリラックス効果$num％付与,Grants All Units $1% Relax,text
-興味$num倍,Interest x$1,
-興味反転,Interest Flip,
-歌唱力のはばたき,Fluttering of Vocals,
-安定感のきらめき,Sparkle of Stability,
-表現力のひろがり,Expanse of Expression,
-大いなる一歩,One Big Step,
-すべてのアピール値を$percentUP,All Appeal Effect $1,
-フェスユニット編成時に$nounボーナスを$percent,$2 $1 Bonus when Setting Up Fes Units,
-フェスユニット編成時に全基礎能力へのボーナスを$percent,All Base Values $1 when Setting Up Fes Units,
-団子より,Instead of Dango,text
-[花より]団子より,[Flowers] Instead of Dango,text
-ふたりで叫ぶ合言葉,The Word That We Shout,text
-[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout,text
-思い出アピール未習得,Memory Appeal Unavailable,text
-[条件:履歴に$nameがある場合],[Condition: $1 in the history],
-[条件:回復回数5回以上履歴に大崎甜花がある場合],[Condition: Heal at least 5 times and Tenka in the history],
-[条件:回復回数6回以上アルスト全員がライブに参加],[Condition: Heal at least 6 times and Alst. in unit],
-[発動制限],[Limited Use],
-リラックス効果$percent付与,Increases relaxation effect by $1,
-[回復回数増加で効果UP],Effect UP based on number of heals,
-アピールUP,Appeal UP,
-すべてのアピール値を$percentUP,Value of all appeals $1 UP,
-[超過思い出変換],[Excess is converted into Memory Gauge] ,
-[条件:回復回数$num回以上],[Condition: Heal at least $1 times],
-事務所。静寂。大輪の華,The Office. The Silence. The Large Brilliant Flower,text
-$nameアピール,$1 Appeal,
-$nounI,$1 I,
-$nounII,$1 II,
-$nounIII,$1 III,
-$nounIV,$1 IV,
-$nounV,$1 V,
-$nounVI,$1 VI,
-$nounVII,$1 VII,
-テンション＋$num,Tension +$1,
-パッシブスキル発動率$num％UP,Passive Skill Rate $1% UP,
-色とりどりの羽根,Multicolored Feather,text
-[輝く]色とりどりの羽根,[Shining] Multicolored Feather,text
-少し前,That Day,text
-[いつか　の]少し前,[Just Before] That Day,text
-彩りファッションドール,Colorful Fashion Doll,text
-最後アピール値％UP,Final Appeal Value %UP,
-"発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value",
-魔法使いさんたち,We Mages,text
-[Be Magical]魔法使いさんたち,[Be Magical] We Mages,text
-きみは相棒,You're My Sidekick,text
-歌,Song,text
-[甜花の]歌,[Tenka's] Song,text
-[条件:履歴に思い出アピールがある場合],[Condition: Memory Appeal in the history],
-[条件:2ターン以前アルスト全員がライブに参加している場合],[Condition: All Alst members in the live before 2 turns pass],
-甜ing Room,Ten-ing Room,text
-エフェクト,Effect,text
-[テンカ]エフェクト,[Tenka] Effect,text
-ルカ,Luca,name
-羽那,Hana,name
-はるき,Haruki,name
-斑鳩 ルカ,Luca,name
-鈴木 羽那,Hana,name
-郁田 はるき,Haruki,name
-ファンの声援＋,Shouts of Fans+,text
-メンタルUP,Mental UP,text
-メンタル上限UP,Mental Cap. UP,text
-Vocal上限UP,Vocal Cap. UP,text
-Dance上限UP,Dance Cap. UP,text
-Visual上限UP,Visual Cap. UP,text
-ロマンチスト,Romantist,text
-アピールUP(思い出高),Appeal UP (High Mem.),text
-アピールUP(思い出低),Appeal UP (Low Mem.),text
-スペシャリスト,Specialist,text
-アピールUP(思い出高&低),Appeal UP (High&Low Mem.),text
-基礎能力値UP(+6%),Base Stat UP (+6%),text
-思い出(ノウハウ)＋,Memory (Know-How)+,text
-思い出(ノウハウ)＋＋,Memory (Know-How)++,text
-基礎能力値UP (+3%),Base Stat UP (+3%),text
-エキシビションマッチ,Exhibition Match,text
-エキシビションマッチ＋,Exhibition Match+,text
-エキシビションマッチ＋＋,Exhibition Match++,text
-ファン感謝祭クリア,FanFest Clear,text
-ファン感謝祭クリア＋,FanFest Clear+,text
-ファン感謝祭クリア＋＋,FanFest Clear++,text
-甜der Dream Show,Ten-der Dream Show,text
-身支度はお任せ☆,Leave the Dressing to Me☆,text
-バス・タイムの気分で,Bath Time Mood,text
-みずになりかけ,Becoming Water,text
-10個、光,"10, Lights",text
-第２形態アーマードタイプ,2nd Form Armored Type,text
-ランドセルは元気の証,This Backpack is a Symbol of Energy,text
-[変身！]ランドセルは元気の証,[Transform!] This Backpack is a Symbol of Energy,text
-新装備・バブルバスター！,"New Equipment, Bubble Buster!",text
-シャボン玉は高く,Soap Bubbles Are Up High,text
-[どこまでも]シャボン玉は高く,[Anywhere] Soap Bubbles Are Up High,text
-潮騒のシーショア,Sounds of the Seashore,text
-静かな海の記憶,Memories of a Quiet Ocean,text
-[シー]静かな海の記憶,[Sea] Memories of a Quiet Ocean,text
-マメ丸と一緒！,Together with Mamemaru!,text
-小学生の日常,A Grade Schooler's Daily Life,text
-[元気いっぱい]小学生の日常,[Lots of Energy] A Grade Schooler's Daily Life,text
-デコって！ハッピークッキー,Decoration! Happy Cookie,text
-幸せカウントダウン,Happiness Countdown,text
-[あと３秒]幸せカウントダウン,[in 3 Secs] Happiness Countdown,text
-メイドインナツハ,Maid In Natsuha,text
-シュガー&スパイス,Sugar & Spice,text
-[原材料名]シュガー＆スパイス,[Ingredients] Sugar & Spice,text
-アルティメットマーメイド,Ultimate Mermaid,text
-煌めきの魔法,Twinkling Magic,text
-[虹色チャーム]煌めきの魔法,[Rainbow-Colored Charm] Twinkling Magic,text
-好きなものはなんですか？,What Do you Like?,text
-アンサー！,Answer!,text
-[思い出]アンサー！,[Recalling] Answer!,text
-四夜一夜物語,,text
-この手を離さない,Won't Let Go of Your Hand,text
-[いつまでも]この手を離せない,[Will Never] Let Go of Your Hand,text
-[しょこらてぃ]YELL,[Chocolate-y] YELL,text
-できるよ！,Be Creative!,text
-[工夫次第]できるよ！,[You Can] Be Creative!,text
-秘密のだらだらタイム,Secret Leisure Time,text
-努力とご褒美,Hard Work and a Reward,text
-[よくできました]努力とご褒美,[You Did Well] Hard Work and a Reward,text
-シンメトリー・プールサイド,Symmetry Poolside,text
-とびきり笑顔,Exceptional Smile,text
-[はい、チーズ]とびきり笑顔,"[""Say Cheese!""] Exceptional Smile",text
-氷上バンビーナ,Bambina On Ice,text
-この手を離さないで,Don't Let Go of My Hand,text
-[ぷるぷる]この手を離さないで,[Trembling]Don't Let Go of My Hand,text
-お日様染めのマリーナ,Sundyed Marina,text
-ビターココア,Bitter Cocoa,text
-[ほろにが]ビターココア,[Slightly] Bitter Cocoa,text
-ストライクを狙って,Shoot for a Strike,text
-お迎えに来たよ,I Came to Pick You Up,text
-[無事ゲット]お迎えに来たよ,[Safe and Secure] I Came to Pick You Up,text
-かしまし、みっつの願いごと,"Three Wishes, Joined Together",text
-トゥインクル・トゥインクル,Twinkle Twinkle,text
-見果てぬ先のアヴァロン,A Yet Unfulfilled Avalon,text
-リトル・スターズ,Little Stars,text
-キュン！とwith us,Kyun! With Us,text
-エンドレス・ゲーム,Endless Game,text
-満開、うまストロメリア,"Full Bloom, Delishtromeria",text
-楽しいがたくさん,Lots of Fun,text
-一人分の空、一枚の羽,"One Person's Sky, One Wing",text
-アイ・セーブ・ユー,I Save You,text
-楽園に背く,Defying Paradise,text
-余白のページ,Blank Page,text
-未来への憧れ,Longing for the Future,text
-デュエット,Duet,name
-アンティーカ,L'Antica,noun
-放クラ,Hokura,noun
+text,trans
+Excellent$num倍アピール,Excellent $1x Appeal
+全観客の興味$percentDOWN,All Judges Interest $1DOWN
+思い出ゲージ増加量$percentDOWN,Memory Gauge Increase $1DOWN
+[$num回],[$1x]
+メンタルが0になった時$percent回復,$1 Chance to Revive From 0 Mental
+自身にメランコリー効果$percent付与,You Receive $1 Melancholy
+全ユニットにメランコリー効果$percent付与,All Units Receive $1 Melancholy
+ライバルにメランコリー効果$percent付与,Rival Units Receive $1 Melancholy
+$noun$percentUP,$1 $2 UP
+$noun$percent回復,$1 $2 Recovery
+$noun$num回復,$1 $2 Recovery
+$nounUP,$1 UP
+$noun$num,$1 $2
+$noun$num～$num倍アピール,$1 $2〜$3x Appeal
+$noun$num〜$num倍アピール,$1 $2〜$3x Appeal
+全観客に$noun$num～$num倍アピール,All Judges $1 $2〜$3x Appeal
+全観客に$noun$num〜$num倍アピール,All Judges $1 $2〜$3x Appeal
+アピールフェイズ開始時にメンタル$percent回復,$1 Mental Heal on Turn Start
+アピールフェイズ開始時メンタル$percent回復,$1 Mental Heal on Turn Start
+全ユニットの$noun$percentUP,All Units $1 $2 UP
+[PERFECTなら全ユニットの$noun$percentUP],[On PERFECT All Units $1 $2 UP]
+[PERFECTなら$num倍アピール],[On PERFECT $1x Appeal]
+全ユニットのメンタル$percent回復,All Units $1 Mental Recovery
+$noun$num倍アピール,$1 $2x Appeal
+全観客に$noun$num倍アピール,All Judges $1 $2x Appeal
+$noun最大$num倍アピール,$1 Max $2x Appeal
+全観客に$noun最大$num倍アピール,All Judges $1 Max $2x Appeal
+$noun＆$noun$num倍アピール,$1＆$2 $3x Appeal
+$noun＆$noun$percentUP,$1＆$2 $3 UP
+[$numターン],[$1 Turn(s)]
+[条件:$numターン以前],[Condition: Turn Count ≤ $1] 
+[条件:$numターン以降],[Condition: Turn Count ≥ $1] 
+[条件:$name],[Condition: $1] 
+[条件:$noun],[Condition: $1] 
+[条件:$num位],[Condition: $1 Place] 
+[条件:$noun担当],[Condition: $1 Position] 
+[条件:$noun$num以上],[Condition: $1 ≥ $2] 
+[条件:$noun$num以下],[Condition: $1 ≤ $2] 
+[条件:$noun$percent以上],[Condition: $1 ≥ $2] 
+[条件:$noun$percent以下],[Condition: $1 ≤ $2] 
+[条件:$nounDOWNが付与されている場合],[Condition: Affected by $1 DOWN] 
+[条件:$nounUPが付与されている場合],[Condition: Affected by $1 UP] 
+[条件:$nounCUTが付与されている場合],[Condition: Affected by $1 CUT] 
+[条件:メランコリーが付与されている場合],[Condition: Affected by Melancholy] 
+[条件:リザレクション効果が付与されている場合],[Condition: Affected by Resurrection Effect] 
+[条件:観客$num],[Condition: $1 Judge(s)] 
+[消去:$nounUP],[Consumes: $1 UP] 
+[消去:$nounDOWN],[Consumes: $1 DOWN] 
+[確率:$percent],[Probability: $1] 
+[確率:$other],[Probability: $1] 
+[最大:$num回],[Maximum: $1x] 
+[$nounが高いほど効果UP],[Stronger at High $1] 
+[$nounが多いほど効果UP],[Stronger at High $1] 
+[$nounが低いほど効果UP],[Stronger at Low $1] 
+[$nounが低い程効果UP],[Stronger at Low $1] 
+[$nounが少ない程効果UP],[Stronger at Low $1] 
+[$nounが少ないほど効果UP],[Stronger at Low $1] 
+[$nounが多い程効果UP],[Stronger at High $1] 
+[超過分は思い出ゲージに変換],[Excess is converted into Memory Gauge] 
+トラブル発生率,Trouble Rate
+必ず最後にアピールを行い,Always Appeal Last
+必ず最初にアピールを行い,Always Appeal First
+$noun滞在率$noun,$1 Room Rate$2
+興味$percentUP,Interest $1UP
+興味$percentDOWN,Interest $1DOWN
+興味DOWN$percent,Interest DOWN $1
+影響力$percentUP,Influence $1UP
+影響力$percentDOWN,Influence $1DOWN
+自身の$nounを$percent減らす,Decrease Own $1 By $2
+メンタルダメージ$percentCUT,Mental Damage $1 CUT
+特訓$num回目で解放,Limit Break $1 Times
+$noun初期値,$1 Start Value
+$noun上限,$1 Cap
+サポートイベント発生率UP$noun,Support Event Chance UP$1
+初期テンションUP$noun,Start Tension UP$1
+初期親愛度,Start Affection
+初期絆UP,Start Bonds UP
+プロデュース開始時に絆,Bonds at Start of Produce
+（極小）,（Tiny）
+（小）,（Small）
+（中）,（Med）
+（大）,（Large）
+朝コミュ発生率UP$noun,Morning Commu Rate UP$1
+約束発生率UP$noun,Promise Rate UP$1
+$nounが$percentUPする効果,$1 Effect Increased $2
+受けるメンタルダメージが$percentUPする効果,Mental Damage Received $1 UP
+$nounが$percentDOWNする効果,$1 Effect Decreased $2 DOWN
+受ける$nounを$percentCUTする効果,$1 Received $2 CUT
+思い出アピール,Memory Appeal
+消費体力$num,Stamina Consumed $1
+$nounのレベルを$num上昇,Increase $1 Level by $2
+リハーサルの流行1位を$nounに変更,Rehearsal Trend 1st Judge Set To $1
+本番の流行1位を$nounに変更,Performance Trend 1st Judge Set To $1
+トラブル率$percent,Trouble Rate $1
+パーフェクト発生率増加,Perfect Rate Increased
+サポートスキルの発動率が中UP,Support Skill Rate Medium UP
+限定スキルを解放,Unlocked Limited Skills
+全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP
+ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Extremely Rare Chance of Instantly Captivating Judge
+ごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance Of Instantly Captivating Judge
+$noun･$noun･$nounUP,$1･$2･$3 UP
+$noun･$nounUP,$1･$2 UP
+限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2]
+興味無視,Ignore Judge Interest
+Dance,Dance
+Vocal,Vocal
+Visual,Visual
+Da,Da
+Vo,Vo
+Vi,Vi
+Me,Me
+メンタル,Mental
+メンタルダメージ,Mental Damage
+SP,SP
+スター,Stars
+観客,Judge
+注目度,Attention Rate
+思い出ゲージ,Memory Gauge
+ボーカルレッスン,Vocal Lesson
+ラジオ収録,Radio Show
+ラジオの収録,Radio Show
+ビジュアルレッスン,Visual Lesson
+トークイベント,Talkshow
+トークイベントに出演,Appear in Talkshow
+トーク,Talk
+ラジオ,Radio
+雑誌,Magazine
+雑誌撮影,Magazine Shoot
+雑誌の撮影,Magazine Shoot
+ダンスレッスン,Dance Lesson
+Voレッスン,Vo Lesson
+Daレッスン,Da Lesson
+Viレッスン,Vi Lesson
+親愛度,Trust
+初期親愛度,Starting Trust
+絆,Bonds
+テンション,Tension
+ラジオ,Radio
+ボーカルアピール,Vocal Appeal
+ダンスアピール,Dance Appeal
+ビジュアルアピール,Visual Appeal
+ごくごく稀,Extremely Extremely Rare
+ごく稀,Extremely Rare
+リンクアピール,Link Appeal
+メンタルダメージCUT,Mental Damage CUT
+特定のアイドルイベントで解放,Unlocked by certain idol events
+特定のサポートイベントで解放,Unlocked by certain support events
+体力回復,Stam Heal
+体力が中回復,Stam Med Heal
+テンションが中UP,Tension Med UP
+親愛度が中UP,Trust Med UP
+体力が大回復,Stam Lg Heal
+テンションが大UP,Tension Lg UP
+親愛度が大UP,Trust Lg UP
+体力が特大回復,Stam Super Heal
+テンションが特大UP,Tension Super UP
+親愛度が特大UP,Trust Super UP
+体力が小回復,Stam Sm Heal
+テンションが小UP,Tension Sm UP
+親愛度が小UP,Trust Sm UP
+リハ流行Vo,Prep Vo1
+リハ流行Da,Prep Da1
+リハ流行Vi,Prep Vi1
+本番流行Vo,Live Vo1
+本番流行Da,Live Da1
+本番流行Vi,Live Vi1
+全アイドルと七草はづきの絆UP,Increase Bonds of all Idols and Hazuki
+限定スキル解放,Unlock Limited Skill
+審査員スキル,Judge Skill
+思い出アピール未習得の状態です,Memory Appeal Unavailable
+真乃,Mano
+灯織,Hiori
+めぐる,Meguru
+恋鐘,Kogane
+摩美々,Mamimi
+咲耶,Sakuya
+結華,Yuika
+霧子,Kiriko
+果穂,Kaho
+智代子,Chiyoko
+樹里,Juri
+凛世,Rinze
+夏葉,Natsuha
+甘奈,Amana
+甜花,Tenka
+千雪,Chiyuki
+あさひ,Asahi
+冬優子,Fuyuko
+愛依,Mei
+透,Toru
+円香,Madoka
+小糸,Koito
+雛菜,Hinana
+にちか,Nichika
+美琴,Mikoto
+ルカ,Luca
+羽那,Hana
+はるき,Haruki
+櫻木 真乃,Mano
+風野 灯織,Hiori
+八宮 めぐる,Meguru
+月岡 恋鐘,Kogane
+白瀬 咲耶,Sakuya
+田中 摩美々,Mamimi
+三峰 結華,Yuika
+幽谷 霧子,Kiriko
+小宮 果穂,Kaho
+園田 智代子,Chiyoko
+西城 樹里,Juri
+杜野 凛世,Rinze
+有栖川 夏葉,Natsuha
+大崎 甘奈,Amana
+大崎 甜花,Tenka
+桑山 千雪,Chiyuki
+芹沢 あさひ,Asahi
+黛冬 優子,Fuyuko
+和泉 愛依,Mei
+浅倉 透,Toru
+樋口 円香,Madoka
+福丸 小糸,Koito
+市川 雛菜,Hinana
+七草 にちか,Nichika
+緋田 美琴,Mikoto
+斑鳩 ルカ,Luca
+鈴木 羽那,Hana
+郁田 はるき,Haruki
+アンティーカ,L'Antica
+放クラ,Hokura
+ノクチル,noctchill
+コメティック,CoMETIK
+[条件:リラックスが付与されている場合],[Condition: Under effects of Relax] 
+リアクション回避率$percentUP,Reaction Chance $1UP
+ダメージを受けるまで,Until Damaged
+ライバルに,All Rivals
+必ず最初に,Always First
+必ず最後に,Always Last
+リザレクション効果$num％付与,Resurrect at $1%
+[条件:$nameがライブに参加している場合],[Condition: $1 in Unit]
+[条件:$nounポジション担当に編成している場合],[Condition: Set in $1 Position]
+​リラックス効果$num％付与,Grants $1% Relax
+全ユニットにリラックス効果$num％付与,Grants All Units $1% Relax
+興味$num倍,Interest x$1
+興味反転,Interest Flip
+歌唱力のはばたき,Fluttering of Vocals
+安定感のきらめき,Sparkle of Stability
+表現力のひろがり,Expanse of Expression
+大いなる一歩,One Big Step
+すべてのアピール値を$percentUP,All Appeal Effect $1
+フェスユニット編成時に$nounボーナスを$percent,$2 $1 Bonus when Setting Up Fes Units
+フェスユニット編成時に全基礎能力へのボーナスを$percent,All Base Values $1 when Setting Up Fes Units
+思い出アピール未習得,Memory Appeal Unavailable
+[条件:履歴に$nameがある場合],[Condition: $1 in the history]
+[条件:回復回数5回以上履歴に大崎甜花がある場合],[Condition: Heal at least 5 times and Tenka in the history]
+[条件:回復回数6回以上アルスト全員がライブに参加],[Condition: Heal at least 6 times and Alst. in unit]
+[発動制限],[Limited Use]
+リラックス効果$percent付与,Increases relaxation effect by $1
+[回復回数増加で効果UP],Effect UP based on number of heals
+アピールUP,Appeal UP
+すべてのアピール値を$percentUP,Value of all appeals $1 UP
+[超過思い出変換],[Excess is converted into Memory Gauge] 
+[条件:回復回数$num回以上],[Condition: Heal at least $1 times]
+$nameアピール,$1 Appeal
+$nounI,$1 I
+$nounII,$1 II
+$nounIII,$1 III
+$nounIV,$1 IV
+$nounV,$1 V
+$nounVI,$1 VI
+$nounVII,$1 VII
+テンション＋$num,Tension +$1
+パッシブスキル発動率$num％UP,Passive Skill Rate $1% UP
+最後アピール値％UP,Final Appeal Value %UP
+"発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value"
+[条件:履歴に思い出アピールがある場合],[Condition: Memory Appeal in the history]
+[条件:2ターン以前アルスト全員がライブに参加している場合],[Condition: All Alst members in the live before 2 turns pass]
+デュエット[$name],Duet [$1]
+ファンの声援＋,Cheers of Fans+
+メンタルUP,Mental UP
+メンタル上限UP,Mental Cap. UP
+Vocal上限UP,Vocal Cap. UP
+Dance上限UP,Dance Cap. UP
+Visual上限UP,Visual Cap. UP
+ロマンチスト,Romantist
+アピールUP(思い出高),Appeal UP (High Mem.)
+アピールUP(思い出低),Appeal UP (Low Mem.)
+スペシャリスト,Specialist
+アピールUP(思い出高&低),Appeal UP (High&Low Mem.)
+基礎能力値UP(+6%),Base Stat UP (+6%)
+思い出(ノウハウ)＋,Memory (Know-How)+
+思い出(ノウハウ)＋＋,Memory (Know-How)++
+基礎能力値UP (+3%),Base Stat UP (+3%)
+エキシビションマッチ,Exhibition Match
+エキシビションマッチ＋,Exhibition Match+
+エキシビションマッチ＋＋,Exhibition Match++
+ファン感謝祭クリア,FanFest Clear
+ファン感謝祭クリア＋,FanFest Clear+
+ファン感謝祭クリア＋＋,FanFest Clear++
+色とりどりの羽根,Multicolored Feather
+[輝く]色とりどりの羽根,[Shining] Multicolored Feather
+みずになりかけ,Becoming Water
+10個、光,"10, Lights"
+第２形態アーマードタイプ,2nd Form Armored Type
+ランドセルは元気の証,This Backpack is a Symbol of Energy
+[変身！]ランドセルは元気の証,[Transform!] This Backpack is a Symbol of Energy
+新装備・バブルバスター！,"New Equipment, Bubble Buster!"
+シャボン玉は高く,Soap Bubbles Are Up High
+[どこまでも]シャボン玉は高く,[Anywhere] Soap Bubbles Are Up High
+潮騒のシーショア,Sounds of the Seashore
+静かな海の記憶,Memories of a Quiet Ocean
+[シー]静かな海の記憶,[Sea] Memories of a Quiet Ocean
+マメ丸と一緒！,Together with Mamemaru!
+小学生の日常,A Grade Schooler's Daily Life
+[元気いっぱい]小学生の日常,[Lots of Energy] A Grade Schooler's Daily Life
+デコって！ハッピークッキー,Decoration! Happy Cookie
+幸せカウントダウン,Happiness Countdown
+[あと３秒]幸せカウントダウン,[in 3 Secs] Happiness Countdown
+アルティメットマーメイド,Ultimate Mermaid
+煌めきの魔法,Twinkling Magic
+[虹色チャーム]煌めきの魔法,[Rainbow-Colored Charm] Twinkling Magic
+メイドインナツハ,Maid In Natsuha
+シュガー&スパイス,Sugar & Spice
+[原材料名]シュガー＆スパイス,[Ingredients] Sugar & Spice
+事務所。静寂。大輪の華,The Office. The Silence. The Large Brilliant Flower
+ふたりで叫ぶ合言葉,The Word That We Shout
+[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout
+好きなものはなんですか？,What Do you Like?
+アンサー！,Answer!
+[思い出]アンサー！,[Recalling] Answer!
+魔法使いさんたち,We Mages
+[Be Magical]魔法使いさんたち,[Be Magical] We Mages
+四夜一夜物語,Four and One Nights
+この手を離さない,Won't Let Go of Your Hand
+[いつまでも]この手を離せない,[Will Never] Let Go of Your Hand
+[しょこらてぃ]YELL,[Chocolate-y] YELL
+バス・タイムの気分で,Bath Time Mood
+できるよ！,Be Creative!
+[工夫次第]できるよ！,[You Can] Be Creative!
+団子より,Instead of Dango
+[花より]団子より,[Flowers] Instead of Dango
+甜ing Room,Ten-ing Room
+エフェクト,Effect
+[テンカ]エフェクト,[Tenka] Effect
+少し前,That Day
+[いつか　の]少し前,[Just Before] That Day
+きみは相棒,You're My Sidekick
+歌,Song
+[甜花の]歌,[Tenka's] Song
+甜der Dream Show,Ten-der Dream Show
+秘密のだらだらタイム,Secret Leisure Time
+努力とご褒美,Hard Work and a Reward
+[よくできました]努力とご褒美,[You Did Well] Hard Work and a Reward
+シンメトリー・プールサイド,Symmetry Poolside
+とびきり笑顔,Exceptional Smile
+[はい、チーズ]とびきり笑顔,"[""Say Cheese!""] Exceptional Smile"
+氷上バンビーナ,Bambina On Ice
+この手を離さないで,Don't Let Go of My Hand
+[ぷるぷる]この手を離さないで,[Trembling] Don't Let Go of My Hand
+お日様染めのマリーナ,Sundyed Marina
+ビターココア,Bitter Cocoa
+[ほろにが]ビターココア,[Slightly] Bitter Cocoa
+ストライクを狙って,Shoot for a Strike
+お迎えに来たよ,I Came to Pick You Up
+[無事ゲット]お迎えに来たよ,[Safe and Secure] I Came to Pick You Up
+彩りファッションドール,Colorful Fashion Doll
+身支度はお任せ☆,Leave the Dressing to Me☆
+かしまし、みっつの願いごと,"Three Wishes, Joined Together"
+トゥインクル・トゥインクル,Twinkle Twinkle
+見果てぬ先のアヴァロン,A Yet Unfulfilled Avalon
+リトル・スターズ,Little Stars
+キュン！とwith us,Kyun! With Us
+エンドレス・ゲーム,Endless Game
+満開、うまストロメリア,"Full Bloom, Delishtromeria"
+楽しいがたくさん,Lots of Fun
+一人分の空、一枚の羽,"One Person's Sky, One Wing"
+アイ・セーブ・ユー,I Save You
+楽園に背く,Defying Paradise
+余白のページ,Blank Page
+未来への憧れ,Longing for the Future
