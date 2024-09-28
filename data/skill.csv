@@ -101,7 +101,7 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 ごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance Of Instantly Captivating Judge,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
-限定スキル[$noun上限$num]を解放,Limited Skill[$1 Uncap $2],
+限定スキル[$noun上限$num]を解放,Limited Skill [$1 Uncap $2],
 興味無視,Ignore Judge Interest,noun
 Dance,Dance,noun
 Vocal,Vocal,noun
@@ -214,7 +214,7 @@ Viレッスン,Vi Lesson,noun
 大崎 甜花,Tenka,name
 桑山 千雪,Chiyuki,name
 芹沢 あさひ,Asahi,name
-黛冬 優子,Fuyuko,name
+黛 冬優子,Fuyuko,name
 和泉 愛依,Mei,name
 浅倉 透,Toru,name
 樋口 円香,Madoka,name
@@ -251,8 +251,8 @@ Viレッスン,Vi Lesson,noun
 フェスユニット編成時に全基礎能力へのボーナスを$percent,All Base Values $1 when Setting Up Fes Units,
 思い出アピール未習得,Memory Appeal Unavailable,text
 [条件:履歴に$nameがある場合],[Condition: $1 in the history],
-[条件:回復回数5回以上履歴に大崎甜花がある場合],[Condition: Heal at least 5 times and Tenka in the history],
-[条件:回復回数6回以上アルスト全員がライブに参加],[Condition: Heal at least 6 times and Alst. in unit],
+[条件:回復回数$num回以上履歴に$nameがある場合],[Condition: Heal at least $1 times and $2 in the history],
+[条件:回復回数$num回以上$name全員がライブに参加],[Condition: Heal at least $1 times and $2 in unit],
 [発動制限],[Limited Use],
 リラックス効果$percent付与,Increases relaxation effect by $1,
 [回復回数増加で効果UP],Effect UP based on number of heals,
@@ -273,8 +273,8 @@ $nounVII,$1 VII,
 最後アピール値％UP,Final Appeal Value %UP,
 "発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value",
 [条件:履歴に思い出アピールがある場合],[Condition: Memory Appeal in the history],
-[条件:2ターン以前アルスト全員がライブに参加している場合],[Condition: All Alst members in the live before 2 turns pass],
-デュエット[$name],Duet [$1],text
+[条件:$numターン以前$name全員がライブに参加している場合],[Condition: All $2 members in the live before $1 turns pass],
+デュエット[$name],Duet [$1],
 ファンの声援＋,Cheers of Fans+,text
 メンタルUP,Mental UP,text
 メンタル上限UP,Mental Cap. UP,text
@@ -377,3 +377,10 @@ Visual上限UP,Visual Cap. UP,text
 楽園に背く,Defying Paradise,text
 余白のページ,Blank Page,text
 未来への憧れ,Longing for the Future,text
+ライブスキル生成,Live Skill Generation,
+交換数,Mulligan,noun
+所属ユニットが多いほど効果UP,Effect UP at No. of Units,
+リアクション回避率,Reaction Chance,noun
+[条件:$name、$name、$nameいずれかがライブに参加している場合],"[Condition: Either $1, $2, or $3 in Unit]",
+[$noun],[$1],
+[条件:編成アイドルの所属ユニットが$num種類以上の場合],[Condition: Idols are from $1 or more Units],
