@@ -1,0 +1,147 @@
+id,name,text,trans
+0000000000000,ヘアメイク,"……そう
+私はヘアメイクがやりたくて","......Well, I wanted to do hair and makeup..."
+0000000000000,ヘアメイク,"美容師になって、アシスタントしながら
+ヘアメイクの勉強も一緒に","And I wanted to become a beautician, so I studied
+while I was an assistant."
+2015020010010,甜花,すごい……,Wow......
+0000000000000,ヘアメイク,"ふふ、甜花ちゃんは高校２年生だっけ
+なにかやりたいこととかある？","Fufu, you're a second-year in high school, right? Is
+there anything you wanna do?"
+2015020010020,甜花,"甜花は……
+まだ、あんまり……",Tenka...... doesn't really... know yet......
+0000000000000,ヘアメイク,そっか,Got it.
+2015020010030,甜花,うん……,Yeah......
+0000000000000,ヘアメイク,"……よし、これで……
+どうかな？","......Alright, so... how's it look?"
+2015020010040,甜花,"にへへ……
+かわいい……",Nihehe...... It's cute......
+2015020010050,甜花,"甜花のこと、こんな……
+かわいくできるのも……",You must've... worked hard......
+2015020010060,甜花,"いっぱい……
+頑張った、から……",If you can... make Tenka this cute......
+0000000000000,ヘアメイク,そう言ってもらえると嬉しいな,It makes me happy to hear you say that.
+0000000000000,ヘアメイク,"……なんだか
+話してたら懐かしくなっちゃった、いろいろ",...Talking to you kinda made me feel nostalgic.
+2015020010070,甜花,……？,......?
+0000000000000,ヘアメイク,"アシスタントになるまでも
+結構いろいろ……紆余曲折あったから","Up until I became an assistant... my life had all sorts
+of ups and downs."
+0000000000000,ヘアメイク,"初任給もらえた時は、これからだ！　って
+すごく気合い入ったし","The day I received my first paycheck, I thought ""this 
+is it!"" and was super motivated."
+0000000000000,ヘアメイク,"その勢いのまま親を旅行に連れて行ったりしたな
+……ふふ","And I used that motivation alone to take my parents
+on a trip. ...Fufu."
+2015020010080,甜花,初任給……？,First paycheck......?
+0000000000000,ヘアメイク,"うん。社会人になって
+はじめてもらうお給与のこと","Yeah, it's the first pay you get after becoming a
+working member of society."
+0000000000000,ヘアメイク,"使い方は個人の自由だけど、やっぱり特別だから
+私は家族に恩返ししたいなって","People are free to use it however they like, but it's
+special. I wanted to give back to my parents."
+0000000000000,プロデューサー,"お疲れ様
+甜花のトーク、感触がいいって褒めていただいたよ","Hey there. We received some compliments for that
+talking segment you did. They said it felt good."
+2015020010090,甜花,"え、そうなんだ……
+にへへ……","Oh, really...... Nihehe......"
+0000000000000,プロデューサー,"ああ、またお願いしたいって
+やったな！","Yeah, they apparently want you back. Great job!"
+2015020010100,甜花,"今日の甜花……
+完璧……",Today's Tenka...... was perfect......
+0000000000000,プロデューサー,"それじゃあ
+着替えも済んだなら、行こうか","Now then, if you're done getting changed then let's
+head out."
+0000000000000,プロデューサー,"行きがけで見たアップルパイの店に
+寄るんだったろ？","I saw an apple pie store on the way here, wanna stop
+by?"
+2015020010110,甜花,"うん……！
+やった……！",Sure......! Yay......!
+0000000000000,テレビ局員,────あ、お疲れ様です……！,"────Oh, good work today......!"
+2015020010111,プロデューサー＆甜花,お疲れ様です……！,Good work......!
+0000000000000,テレビ局員,"甜花ちゃん、すごくよかったよ！
+うちの娘とそう変わらない歳なのに、やっぱりプロだね","You were great out there, Tenka-chan! You're not
+much older than my daughter, but you really are a pro."
+0000000000000,テレビ局員,放送楽しみにしてるよ,I'm looking forward to the broadcast.
+0000000000000,プロデューサー,"ありがとうございます
+またよろしくお願いします！","Thank you very much. We look forward to working
+with you!"
+2015020010120,甜花,"そっか……
+甜花、アイドルだから……",Right...... Tenka's... an idol......
+0000000000000,プロデューサー,どうした？,What's up?
+2015020010130,甜花,"えと、ヘアメイクさんに……
+初任給のお話、聞いて……","Um... Tenka...... asked the hairdresser... about first
+paychecks......"
+2015020010140,甜花,"社会人、なったら……
+はじめてもらう、お金のこと……って……","She said that... you receive your first pay... when you
+become a working member of society......"
+2015020010150,甜花,"甜花、アイドル……
+じゃあ……もう、社会人……？","If Tenka's... an idol...... then does that... apply to
+her......?"
+0000000000000,プロデューサー,ああ、なるほど……,"Ohh, I see..."
+select,,まだ早いかな,You're a bit early
+select,,そうだなあ,Good point
+select,,そうかも……？,Maybe...?
+0000000000000,プロデューサー,まずは、学校を卒業しないと,"Well, you have to graduate from school first."
+2015020010160,甜花,そっか……,Oh okay......
+2015020010170,甜花,"初任給……
+なんもしてないって、思ったから……よかった……","Tenka felt like... she wasn't doing anything... for her
+first paycheck... so thank goodness......"
+0000000000000,プロデューサー,"もしかして、初任給に贈り物をするとか
+そういう話かな","Were you talking about buying a gift or something
+with it?"
+2015020010180,甜花,うん……,Yeah......
+0000000000000,プロデューサー,"それってさ、そうするものっていうよりは
+今までありがとうって気持ちで贈るものだと思うんだ","That sort of thing is less of a celebration, and more
+to say ""thanks for everything up to now""."
+2015020010190,甜花,"うん、ヘアメイクさんも……
+恩返しって、言ってた……",Yeah... she also said... that's why she did it......
+0000000000000,プロデューサー,"そういう気持ちを込めたくなる時が
+甜花にも来ると思うよ","There will come a time when you have those feelings
+too."
+2015020010200,甜花,"いつも、じゃなくて……
+今まで……？","Not for... everything...... but for... everything up to
+now......?"
+2015020010210,甜花,"……まだ、よく……
+わかんない……",......Tenka... doesn't really get it......
+0000000000000,プロデューサー,はは、いずれな,"Haha, don't worry about it for now."
+0000000000000,プロデューサー,"まずは、ひとりでも起きられるように
+ならなくちゃな",Well first we've gotta get you waking up on your own.
+2015020010220,甜花,"あぅ……
+甜花、まだだめ……",Auu...... Tenka's... still a failure......
+0000000000000,プロデューサー,"はは、甜花が今頑張ってるところだっていうのは
+俺がよくわかってるよ","Haha, I know more than anyone else how hard you've
+been working."
+2015020010230,甜花,うん……,Yeah......
+0000000000000,プロデューサー,"これから甜花にできることが
+きっともっと、増えていくと思うから","I'm sure that you'll be able to do more and more as
+time goes on."
+0000000000000,プロデューサー,"そうしたら、甜花はきっと
+素敵な社会人になると思う","When that happens, you'll make a great member of
+the workforce."
+2015020010240,甜花,"じゃあ、その時……
+甜花も……",So then... when that happens...... Tenka will......
+2015020010250,甜花,"みんなに、お返し……
+できるように……なる……？","She'll be able to... give a thank you gift... to
+everyone......?"
+0000000000000,プロデューサー,ああ、甜花次第でいくらでも,"Yeah, as many as you'd like."
+2015020010260,甜花,"じゃあ、甜花……
+頑張る……！",Then... Tenka...... will work hard......!
+2015020010270,甜花,"え……
+じゃあ、甜花……初任給……",Wha...... so then... Tenka...... already......
+2015020010280,甜花,あうぅ……,Auu......
+0000000000000,プロデューサー,ど、どうしたんだ？,Wh-What's wrong?
+2015020010290,甜花,"初任給、もらったら……
+恩返しするって……","When you... receive your first paycheck...... you're
+supposed to use it... to pay someone back......"
+2015020010300,甜花,甜花、何もしてない……,But Tenka... didn't do anything......
+0000000000000,プロデューサー,"いや……
+そういうのは気持ちだからさ",Well... that's just how people feel about it.
+0000000000000,プロデューサー,"今までありがとうって、気持ちを返したくなる時が
+いつか来ると思うんだ","There will come a time where you will want to thank
+people for everything they've done."
+0000000000000,プロデューサー,その気持ちに遅いとかはないと思うよ,I don't think you're slower than anyone else.
+2015020010310,甜花,"そっか……
+よかった……",Okay...... Thank goodness......
+info,produce_events/201502001.json,
+Translator,,

@@ -141,7 +141,11 @@ MEMちょ,MEM-cho,name
 トップアピール,Top Appeal,noun
 ラストアピール,Last Appeal,noun
 プロ根性,Pro Willpower,noun
+W.I.N.G.,W.I.N.G.,noun
 ファン感謝祭,TFD,noun
+G.R.A.D.,G.R.A.D.,noun
+LandingPoint,LandingPoint,noun
+S.T.E.P.,S.T.E.P.,noun
 審査員,Judge,noun
 イルミネーションスターズ,illumination STARS,noun
 放課後クライマックスガールズ,Hokago Climax Girls,noun
@@ -326,6 +330,7 @@ $noun以上の$nounで$num位になろう,Earn rank $3 in a $1 or higher $2,exp
 プロデュースを開始しよう,Start a Produce Run,exp
 フェスアイドルを誕生させよう,Create a Fes Idol,exp
 $noun以上のフェスアイドルを$num人誕生させよう,Create $2 Fes Idols of $1 or above,exp
+アイドル$noun以上を達成してフェスアイドルを$num人誕生させよう,Create $2 Fes Idols of $1 or above,exp
 Lv.$num以上のサポートアイドル$num人を編成しよう,Raise $2 Support Idols to Lv.$1,exp
 トレーニングで【$unknown】$nameをLv.$numにしよう,Raise [$1] $2 to Lv.$3,exp
 思い出レベルを$num以上にしてW.I.N.G.に出場しよう,Reach Memory Appeal Level $1 in W.I.N.G.,exp

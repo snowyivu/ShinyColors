@@ -275,6 +275,8 @@ images/content/unit/name/006.png,unit_name_006.png,3
 images/content/unit/catch_copy/006.png,unit_catch_006.png,3
 images/content/unit/name/007.png,unit_name_007.png,2
 images/content/unit/catch_copy/007.png,unit_catch_007.png,2
+images/content/unit/name/008.png,unit_name_008.png,1
+images/content/unit/catch_copy/008.png,unit_catch_008.png,1
 images/ui/common/parts_beginner_and_true_end_teaching_button.json_image,parts_beginner_and_true_end.png,5
 images/ui/game_event/parts_list.json_image,game_event_parts_list.png,9
 images/ui/raid_deck/parts.json_image,raid_deck_parts.png,4
@@ -1047,9 +1049,6 @@ images/content/idols/name/d575946a91cc1d6b5c9ded5d26222f83_1940020010.png,cards/
 images/content/support_idols/name/61952b1b6ead02bc659860ff5e2b8c74_2030150010.png,cards/tenka_s_sr_1.png,8
 images/content/idols/name/130a8f09705036e69e990989a1482b0e_1030150010.png,cards/tenka_p_sr_1.png,9
 images/content/idols/name/995ad574fcbf964c53a6dcf82e1ef881_1030150030.png,cards/tenka_p_sr_3.png,8
-images/content/idols/letter/b3d592fae9f6c3bafc2bfcaa43e323ac_1040210090.png,letter/madoka_letter.png,1
-images/content/unit/name/008.png,unit_name_008.png,1
-images/content/unit/catch_copy/008.png,unit_catch_008.png,1
 images/content/support_idols/name/5383c87f7cf2f1e4f28d107e23005a52_2040150010.png,cards/tenka_s_ssr_1.png,8
 images/content/support_idols/name/2ccd63005419644b9c6decc457f8c53a_2040150020.png,cards/tenka_s_ssr_2.png,8
 images/content/idols/name/33bf821865c614a66c57b658dcff68b8_1030090010.png,cards/kaho_p_sr_1.png,9
@@ -1077,3 +1076,5 @@ images/ui/produce_ending/parts_ex_skill_and_knowhow_book_reward.json_image,produ
 images/ui/produce_ending/parts_reward.json_image,produce_ending_parts_reward.png,14
 images/ui/mini_game/parts_mini_game_portal.json_image,parts_mini_game_portal.png,1
 images/ui/character_profile/parts.json_image,character_profile_parts.png,1
+images/content/idols/letter/b3d592fae9f6c3bafc2bfcaa43e323ac_1040210090.png,letter/madoka_letter.png,1
+images/content/idols/letter/c8b0c11f52e3b7f29c6abf887659170d_1040150120.png,letter/tenka_letter.png,1
