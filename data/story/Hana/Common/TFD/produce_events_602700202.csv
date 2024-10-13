@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000,プロデューサー,お疲れ様、羽那,"Good work out there, Hana."
+0000000000000,プロデューサー,"リハーサル……羽那から見てどうだった？
+何か掴めたり、収穫はあったか？","About the rehearsal... What did you think about it?
+Did you learn anything?"
+6027002020010,羽那,うーん、どうかなー,"Hmm, I dunnoooo."
+6027002020020,羽那,"あはっ、でも
+もっとたくさん練習しなきゃだめだなってことはわかったよ","Aha, but I do know I need to practice more."
+0000000000000,プロデューサー,"……そうか。だけど、それも立派な収穫だと思うぞ
+リハーサルをやってよかったよ","... I see. But I think that's fine too.
+I'm glad we did the rehearsal."
+6027002020030,羽那,──うん,──Yeah.
+6027002020040,羽那,……ねぇ,... Hey.
+6027002020050,羽那,"リハーサル、プロデューサーから見て
+どうだったのかも教えてくれる？","Can you also tell me how it went?
+From your point of view."
+0000000000000,プロデューサー,──えーっと……,──Well...
+6027002020060,羽那,"……あ、なんか
+すっごく言いにくそうーっ","... Ah, seems it's difficult to describe..."
+0000000000000,プロデューサー,"いや、すまん！
+そういうわけじゃ──","Ah, sorry!
+It's not like that──"
+6027002020070,羽那,ふふっ、無理しなくて大丈夫だよ,"Fufu, no need to push yourself, it's fine."
+6027002020080,羽那,それに今、すっごく大きな収穫があったもん,Since I have plenty of material to review.
+0000000000000,プロデューサー,えっ……？,Eh......?
+6027002020090,羽那,"本番は、プロデューサーがたくさん感想言いたくなるような
+ステージにしたいなーって思ったこと──！","I wanted to make this performance one that would 
+make you want to give me lots of feedback──!"
+info,produce_events/602700202.json,
+Translator,Burbur,

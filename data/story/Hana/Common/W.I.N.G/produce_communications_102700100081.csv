@@ -1,12 +1,12 @@
 id,name,text,trans
 0000000000000000,プロデューサー,"羽那、プロフィールの特技欄に
-『美味しそうに食べること』って書いてたけど","Hana, you wrote ""Eating delicious food"" 
-as your special skill in your profile."
+『美味しそうに食べること』って書いてたけど","Hana, you wrote ""Eating food deliciously"" as your 
+special skill in your profile."
 0000000000000000,プロデューサー,羽那は、食べることが好きなのか？,"Do you enjoy eating, Hana?"
 1027001000810010,羽那,あはっ、別に普通かな？,"Aha, just the usual kind, I guess?"
 1027001000810020,羽那,"特技が思いつかなくって
-前に友達にそう言われたから書いたの","I couldn't think of any special skills so a friend of 
-mine told me to write that down."
+前に友達にそう言われたから書いたの","I couldn't think of any special skills so I wrote down 
+what a friend of mine told me previously."
 select,,"その特技、見せて
 もらわないとな","I'd like to see
 that skill."
@@ -16,9 +16,10 @@ select,,"それは……
 a skill?"
 1027001000810030,羽那,"あはっ、うん
 いいよ","Aha, sure.
-I'll let you watch."
+I'd love to show you."
 1027001000810040,羽那,"あたしが美味しそうに食べるところ、
-見ててね？","Please watch me enjoy a meal, okay?"
+見ててね？","Please watch me eat and enjoy a meal deliciously, 
+okay?"
 0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 0000000000000000,プロデューサー,他にも特技、見つかるといいな,I hope you can find other skills as well.
 1027001000810050,羽那,"うーん、そっかー

@@ -268,6 +268,8 @@ Morning⑮,Morning ⑮
 シーズン3（失敗）,Season 3 (Fail)
 シーズン4（クリア）,Season 4 (Pass)
 シーズン4（失敗）,Season 4 (Fail)
+TV出演後コミュ①,Post-TV Appearance ①
+TV出演後コミュ②,Post-TV Appearance ②
 感謝祭本番前（ユニット）,Before Fan Fest (Unit)
 感謝祭本番後（通常）,After Fan Fest (Normal)
 感謝祭本番後（MVP）,After Fan Fest (MVP)
@@ -308,6 +310,12 @@ Farce,Farce
 error code:017,error code:017
 Shall we dance?,Shall we dance?
 （not?）Stray light,(Not?) Stray light
+聞こえるんですよ,I can hear it
+ヴォイセズ,Voices
+感謝,Gratitude
+空の奥の音,The sound from the depth of the sky
+コンコルディア,Concordia
+きらきらしてて,Shining
 公園の歌声,Singing in the Park
 自信のありか,In Search of Confidence
 ありのままで,Be Yourself
@@ -423,7 +431,6 @@ My real heart,My real heart
 悔しさがあふれ出しても,Even if regrets overflow. 
 覚めない夢のその先で,After the dream you don't wake up from.
 そっと教えてあげましょう,Allow me to subtlely explain.
-【三峰 結華】 誕生日ミニコミュ①,[Yuika Mitsumine] Birthday Commu ①
 【’19Xmas】プレゼント希望申請書,[19Xmas] Wish Gift Application
 【’19Xmas】コンビニのケーキ,[19Xmas] Convenience Store Cake
 【’19Xmas】お菓子付きのサンタのパペット,[19Xmas] Santa Puppet with Sweets
@@ -438,7 +445,6 @@ My real heart,My real heart
 誰か,Someone
 あの日,That Day
 ふねがでます,Sailing Away
-【幽谷 霧子】 誕生日ミニコミュ①,[Kiriko Yukoku] Birthday Commu ①
 【’19Xmas】ポインセチア,[19Xmas] Poinsettia
 【’19Xmas】赤と緑のシート,[19Xmas] Red and Green Sheets
 【’19Xmas】折り紙の時計,[19Xmas] Origami Watch
@@ -498,7 +504,7 @@ My real heart,My real heart
 無駄じゃない、無駄にしない,"Not a waste, I won't waste it"
 アイドル・ヒトリゴト,Idol Thinking Out Loud
 アタシたちらしく,Like ourselves
-【西城 樹里】 誕生日ミニコミュ①,[Juri Saijo] Birthday Commu ①
+,
 【’19Xmas】ホリデーポップコーン,[19Xmas] Holiday Popcorn
 【’19Xmas】ニット帽,[19Xmas] Knitted Hat
 【’19Xmas】ライオンのクッション,[19Xmas] Lion Cushion
@@ -515,7 +521,7 @@ My real heart,My real heart
 漕ぎいでな,漕ぎいでな
 世界,The World
 ゆかなこのそら,ゆかなこのそら
-【杜野 凛世】 誕生日ミニコミュ①,[Rinze Morino] Birthday Commu ①
+,
 【’19Xmas】なんでも券,[19Xmas] Ticket for Anything
 【’19Xmas】お香,[19Xmas] Incense
 【’19Xmas】俺の歌,[19Xmas] My Song
@@ -535,7 +541,6 @@ photosynthesis,photosynthesis
 朝を駆け抜けて,Running Through The Morning
 15時のアラカルト,"3 O'Clock, À La Carte"
 Over The Rainbow,Over The Rainbow
-【有栖川 夏葉】 誕生日ミニコミュ①,[Natsuha Arisugawa] Birthday Commu ①
 【’19Xmas】紅茶,[19Xmas] Black Tea
 【’19Xmas】プロテイン,[19Xmas] Protein
 【’19Xmas】カトレアのおやつ,[19Xmas] Cattleya's Snack
@@ -550,7 +555,6 @@ Happily ever after,Happily ever after
 無理をしてでも,Even if I have to overdo it
 一等星の体温,Warmth of the first-magnitude star
 Go to the future A,Go to the future A
-【大崎 甘奈】 誕生日ミニコミュ①,[Amana Osaki] Birthday Commu ①
 【’19Xmas】大きいクリスマスケーキ,[19Xmas] Large Christmas Cake
 【’19Xmas】水族館のペアチケット,[19Xmas] Aquarium Pair Ticket
 【’19Xmas】髪飾り,[19Xmas] Hair Ornaments
@@ -565,7 +569,7 @@ Go to the future A,Go to the future A
 だから、一緒にいてほしい,"And so, I want to be together"
 お月様、きらり,"Mr. Moon, Shining"
 数歩さがって、眠り姫,"Several steps back, Sleeping Beauty"
-【大崎 甜花】 誕生日ミニコミュ①,[Tenka Osaki] Birthday Commu ①
+,
 【’19Xmas】デビ太郎ぬいぐるみ,[19Xmas] Debitaro Plushie
 【’19Xmas】アイマスク,[19Xmas] Eyemask
 【’19Xmas】ゲームソフト,[19Xmas] Video Game
@@ -580,7 +584,7 @@ Go to the future A,Go to the future A
 感謝してます,Forever grateful
 やりたいこと、全部,Everything that you wanted to do
 マロウのハーブティー,Mallow Herbal Tea
-【桑山 千雪】 誕生日ミニコミュ①,[Chiyuki Kuwayama] Birthday Commu ①
+,
 【’19Xmas】レトルトの中華丼,[19Xmas] Retorted Chukadon
 【’19Xmas】ハーバリウム,[19Xmas] Herbarium
 【’19Xmas】クマのぬいぐるみ,[19Xmas] Bear Plushie
@@ -636,7 +640,6 @@ SOMETHING NEW,SOMETHING NEW
 悔しさを抱いてこそ,悔しさを抱いてこそ
 未だ見ぬものへ、共に,未だ見ぬものへ、共に
 やがて、海の広さを知る者よ,やがて、海の広さを知る者よ
-【芹沢 あさひ】 誕生日ミニコミュ①,[Asahi Serizawa] Birthday Commu ①
 【’19Xmas】観覧車に乗る,[19Xmas] Ferris Wheel Ticket
 【’19Xmas】普通のケーキ,[19Xmas] Ordinary Cake
 【’19Xmas】世界の謎100選,[19Xmas] 100 World Mysteries
@@ -658,7 +661,6 @@ SOMETHING NEW,SOMETHING NEW
 見えなかった景色,The scenery I never saw
 まるで陳腐なハッピーエンド！,Like a stale happy ending!
 喫茶 舞台裏で会いましょう,"Behind the scenes, at a cafe"
-【黛 冬優子】 誕生日ミニコミュ①,[Fuyuko Mayuzumi] Birthday Commu ①
 【’19Xmas】アニメマスコット(地方限定),[19Xmas] Anime Mascot (Locals Only)
 【’19Xmas】仕事の企画書,[19Xmas] Job Plan Form
 【’19Xmas】冬優子・ダサセーター……？,[19Xmas] Fuyuko's Lame Sweater...?
@@ -676,7 +678,6 @@ SOMETHING NEW,SOMETHING NEW
 ここまで来れたんだし,Came this far
 ハンパないのって,I felt different
 どーだ！！！！！！,That's it!!!!!!
-【和泉 愛依】 誕生日ミニコミュ①,[Mei Izumi] Birthday Commu ①
 【’19Xmas】クレープ,[19Xmas] Crepe
 【’19Xmas】遊園地チケット,[19Xmas] Amusement Park Ticket
 【’19Xmas】緊張しないための本,[19Xmas] 'Keeping You Away From Nervousness' Book
@@ -935,12 +936,16 @@ SLEEP SLEEPLESS,SLEEP SLEEPLESS
 ホームボイス1,Home Voice 1
 ホームボイス2,Home Voice 2
 ホームボイス3,Home Voice 3
+ホームボイス4（アイドルロード）,Home Voice 4 (Idol Road)
 ホームタッチボイスA①,Home Touch Voice A ①
 ホームタッチボイスA②,Home Touch Voice A ②
+ホームタッチボイスA③,Home Touch Voice A ③
 ホームタッチボイスB①,Home Touch Voice B ①
 ホームタッチボイスB②,Home Touch Voice B ②
+ホームタッチボイスB③,Home Touch Voice B ③
 ホームタッチボイスC①,Home Touch Voice C ①
 ホームタッチボイスC②,Home Touch Voice C ②
+ホームタッチボイスC③,Home Touch Voice C ③
 プロデュースボイス①,Produce Voice ①
 プロデュースボイス②,Produce Voice ②
 プロデュースボイス③,Produce Voice ③
@@ -978,6 +983,10 @@ SLEEP SLEEPLESS,SLEEP SLEEPLESS
 信頼度Lv.10ボイス,Trust Lv.10 Voice
 信頼度Lv.11ボイス,Trust Lv.11 Voice
 信頼度Lv.12ボイス,Trust Lv.12 Voice
+信頼度Lv.13ボイス,Trust Lv.13 Voice
+信頼度Lv.14ボイス,Trust Lv.14 Voice
+信頼度Lv.15ボイス,Trust Lv.15 Voice
+信頼度Lv.16ボイス,Trust Lv.16 Voice
 写像１,Mapping 1
 写像２,Mapping 2
 水と器,Water and Vessel
@@ -1187,12 +1196,6 @@ G.R.A.D.敗退コミュ②後,G.R.A.D. Fail ② After
 決勝後コミュ　敗北②,After Finals Fail ②
 なみ,Nami
 そうだよ,That's Right
-聞こえるんですよ,I can hear it
-ヴォイセズ,Voices
-感謝,Gratitude
-空の奥の音,The sound from the depth of the sky
-コンコルディア,Concordia
-きらきらしてて,Shining
 ひとりと戦うために,To Fight Alone
 ただひとりの王子様,The Prince Alone
 独り言,A Talk Alone
@@ -1375,11 +1378,11 @@ in the てーにんぐるーむ,in the Ten-ing Room
 ざぶーん,Splash
 スカウト！,Scout!
 なんでもしてくれる人,Will do anything for you
-ものすごい才能？,Amazing Talent?
-美しいままで,Always Beautiful
+ものすごい才能？,Amazing talent?
+美しいままで,Always beautiful
 彼女のステージ,Her stage
 後悔とか,Regrets
-今すぐ会いに来て,Come see me now
+今すぐ会いに来て,Come and see me right now
 見つめる先にあるもの,What lies ahead
 走りはじめたから,Started running
 熱にはじかれて,Repelled by heat
@@ -1459,15 +1462,6 @@ in the てーにんぐるーむ,in the Ten-ing Room
 シャイニーの日 2022 特別コミュ,Shiny Day 2022 Special Commu
 シャイニーの日 2023 特別コミュ,Shiny Day 2023 Special Commu
 シャイニーの日 2024 特別コミュ,Shiny Day 2024 Special Commu
-信頼度Lv.13ボイス,Trust Lv.13 Voice
-信頼度Lv.14ボイス,Trust Lv.14 Voice
-信頼度Lv.15ボイス,Trust Lv.15 Voice
-信頼度Lv.16ボイス,Trust Lv.16 Voice
-ホームタッチボイスA③,Home Touch Voice A ③
-ホームタッチボイスB③,Home Touch Voice B ③
-ホームタッチボイスC③,Home Touch Voice C ③
-TV出演後コミュ①,Post-TV Appearance ①
-TV出演後コミュ②,Post-TV Appearance ②
 chira chira,chira chira (flicker flicker)
 SHOT！,SHOT!
 世界にひとつの……,Only One in the World...
@@ -1492,7 +1486,6 @@ SHOT！,SHOT!
 みえないルート,The Unseen Path
 もう一歩先へ,One Step Further
 月岡恋鐘　(L'Antica),Kogane Tsukioka (L'Antica)
-トーク,Talk
 スプラッシュ・スマイル！,Splash Smile!
 シャッターチャンス、何度でも,"Shutter Chance, As Many Times"
 オーバーキャストモノクローム,Overcast Monochrome
@@ -1564,7 +1557,176 @@ SHOT！,SHOT!
 トリック・オア・トリート！,Trick or Treat!
 『君』のところまで,"Until I Reach ""You"""
 たどりつくところ,My destination
-_____のところまで,Until I Reach ____
-就任! 観光大使,Appointed! Tourism Ambassador
+＿＿＿のところまで,Until I Reach ____
+就任！　観光大使,Appointed! Tourism Ambassador
 ──を衣て故郷に帰る,──Returning Home in These Clothes
 宇宙一のばりすごかアイドル,The Most Amazin' Idol in the Universe
+【櫻木 真乃】 誕生日ミニコミュ①,[Mano] Birthday Mini Commu ①
+【櫻木 真乃】 誕生日ミニコミュ②,[Mano] Birthday Mini Commu ②
+【櫻木 真乃】 誕生日ミニコミュ③,[Mano] Birthday Mini Commu ③
+【櫻木 真乃】 誕生日ミニコミュ④,[Mano] Birthday Mini Commu ④
+【櫻木 真乃】 誕生日ミニコミュ⑤,[Mano] Birthday Mini Commu ⑤
+【風野 灯織】 誕生日ミニコミュ①,[Hiori] Birthday Mini Commu ①
+【風野 灯織】 誕生日ミニコミュ②,[Hiori] Birthday Mini Commu ②
+【風野 灯織】 誕生日ミニコミュ③,[Hiori] Birthday Mini Commu ③
+【風野 灯織】 誕生日ミニコミュ④,[Hiori] Birthday Mini Commu ④
+【風野 灯織】 誕生日ミニコミュ⑤,[Hiori] Birthday Mini Commu ⑤
+【八宮 めぐる】 誕生日ミニコミュ①,[Meguru] Birthday Mini Commu ①
+【八宮 めぐる】 誕生日ミニコミュ②,[Meguru] Birthday Mini Commu ②
+【八宮 めぐる】 誕生日ミニコミュ③,[Meguru] Birthday Mini Commu ③
+【八宮 めぐる】 誕生日ミニコミュ④,[Meguru] Birthday Mini Commu ④
+【八宮 めぐる】 誕生日ミニコミュ⑤,[Meguru] Birthday Mini Commu ⑤
+【月岡 恋鐘】 誕生日ミニコミュ①,[Kogane] Birthday Mini Commu ①
+【月岡 恋鐘】 誕生日ミニコミュ②,[Kogane] Birthday Mini Commu ②
+【月岡 恋鐘】 誕生日ミニコミュ③,[Kogane] Birthday Mini Commu ③
+【月岡 恋鐘】 誕生日ミニコミュ④,[Kogane] Birthday Mini Commu ④
+【月岡 恋鐘】 誕生日ミニコミュ⑤,[Kogane] Birthday Mini Commu ⑤
+【田中 摩美々】 誕生日ミニコミュ①,[Mamimi] Birthday Mini Commu ①
+【田中 摩美々】 誕生日ミニコミュ②,[Mamimi] Birthday Mini Commu ②
+【田中 摩美々】 誕生日ミニコミュ③,[Mamimi] Birthday Mini Commu ③
+【田中 摩美々】 誕生日ミニコミュ④,[Mamimi] Birthday Mini Commu ④
+【田中 摩美々】 誕生日ミニコミュ⑤,[Mamimi] Birthday Mini Commu ⑤
+【白瀬 咲耶】 誕生日ミニコミュ①,[Sakuya] Birthday Mini Commu ①
+【白瀬 咲耶】 誕生日ミニコミュ②,[Sakuya] Birthday Mini Commu ②
+【白瀬 咲耶】 誕生日ミニコミュ③,[Sakuya] Birthday Mini Commu ③
+【白瀬 咲耶】 誕生日ミニコミュ④,[Sakuya] Birthday Mini Commu ④
+【白瀬 咲耶】 誕生日ミニコミュ⑤,[Sakuya] Birthday Mini Commu ⑤
+【三峰 結華】 誕生日ミニコミュ①,[Yuika] Birthday Mini Commu ①
+【三峰 結華】 誕生日ミニコミュ②,[Yuika] Birthday Mini Commu ②
+【三峰 結華】 誕生日ミニコミュ③,[Yuika] Birthday Mini Commu ③
+【三峰 結華】 誕生日ミニコミュ④,[Yuika] Birthday Mini Commu ④
+【三峰 結華】 誕生日ミニコミュ⑤,[Yuika] Birthday Mini Commu ⑤
+【幽谷 霧子】 誕生日ミニコミュ①,[Kiriko] Birthday Mini Commu ①
+【幽谷 霧子】 誕生日ミニコミュ②,[Kiriko] Birthday Mini Commu ②
+【幽谷 霧子】 誕生日ミニコミュ③,[Kiriko] Birthday Mini Commu ③
+【幽谷 霧子】 誕生日ミニコミュ④,[Kiriko] Birthday Mini Commu ④
+【幽谷 霧子】 誕生日ミニコミュ⑤,[Kiriko] Birthday Mini Commu ⑤
+【幽谷 霧子】 誕生日ミニコミュ⑥,[Kiriko] Birthday Mini Commu ⑥
+【小宮 果穂】 誕生日ミニコミュ①,[Kaho] Birthday Mini Commu ①
+【小宮 果穂】 誕生日ミニコミュ②,[Kaho] Birthday Mini Commu ②
+【小宮 果穂】 誕生日ミニコミュ③,[Kaho] Birthday Mini Commu ③
+【小宮 果穂】 誕生日ミニコミュ④,[Kaho] Birthday Mini Commu ④
+【小宮 果穂】 誕生日ミニコミュ⑤,[Kaho] Birthday Mini Commu ⑤
+【園田 智代子】 誕生日ミニコミュ①,[Chiyoko] Birthday Mini Commu ①
+【園田 智代子】 誕生日ミニコミュ②,[Chiyoko] Birthday Mini Commu ②
+【園田 智代子】 誕生日ミニコミュ③,[Chiyoko] Birthday Mini Commu ③
+【園田 智代子】 誕生日ミニコミュ④,[Chiyoko] Birthday Mini Commu ④
+【園田 智代子】 誕生日ミニコミュ⑤,[Chiyoko] Birthday Mini Commu ⑤
+【西城 樹里】 誕生日ミニコミュ①,[Juri] Birthday Mini Commu ①
+【杜野 凛世】 誕生日ミニコミュ①,[Rinze] Birthday Mini Commu ①
+【有栖川 夏葉】 誕生日ミニコミュ①,[Natsuha] Birthday Mini Commu ①
+【大崎 甘奈】 誕生日ミニコミュ①,[Amana] Birthday Mini Commu ①
+【大崎 甜花】 誕生日ミニコミュ①,[Tenka] Birthday Mini Commu ①
+【桑山 千雪】 誕生日ミニコミュ①,[Chiyuki] Birthday Mini Commu ①
+【芹沢 あさひ】 誕生日ミニコミュ①,[Asahi] Birthday Mini Commu ①
+【黛 冬優子】 誕生日ミニコミュ①,[Fuyuko] Birthday Mini Commu ①
+【和泉 愛依】 誕生日ミニコミュ①,[Mei] Birthday Mini Commu ①
+【斑鳩 ルカ】 誕生日ミニコミュ①,[Luca] Birthday Mini Commu ①
+【鈴木 羽那】 誕生日ミニコミュ①,[Hana] Birthday Mini Commu ①
+【郁田 はるき】 誕生日ミニコミュ①,[Haruki] Birthday Mini Commu ①
+【櫻木 真乃】2019ホワイトデーボイス①,[Mano] 2019 White Day Voice ①
+【櫻木 真乃】2019ホワイトデーボイス②,[Mano] 2019 White Day Voice ②
+【櫻木 真乃】2019ホワイトデーボイス③,[Mano] 2019 White Day Voice ③
+【櫻木 真乃】2019七夕ボイス,[Mano] 2019 Tanabata Voice
+【櫻木 真乃】2019お月見ボイス,[Mano] 2019 Otsukimi Voice
+【櫻木 真乃】2019ハロウィンボイス,[Mano] 2019 Halloween Voice
+【風野 灯織】2019ホワイトデーボイス①,[Hiori] 2019 White Day Voice ①
+【風野 灯織】2019ホワイトデーボイス②,[Hiori] 2019 White Day Voice ②
+【風野 灯織】2019ホワイトデーボイス③,[Hiori] 2019 White Day Voice ③
+【風野 灯織】2019七夕ボイス,[Hiori] 2019 Tanabata Voice
+【風野 灯織】2019お月見ボイス,[Hiori] 2019 Otsukimi Voice
+【風野 灯織】2019ハロウィンボイス,[Hiori] 2019 Halloween Voice
+【八宮 めぐる】2019ホワイトデーボイス①,[Meguru] 2019 White Day Voice ①
+【八宮 めぐる】2019ホワイトデーボイス②,[Meguru] 2019 White Day Voice ②
+【八宮 めぐる】2019ホワイトデーボイス③,[Meguru] 2019 White Day Voice ③
+【八宮 めぐる】2019七夕ボイス,[Meguru] 2019 Tanabata Voice
+【八宮 めぐる】2019お月見ボイス,[Meguru] 2019 Otsukimi Voice
+【八宮 めぐる】2019ハロウィンボイス,[Meguru] 2019 Halloween Voice
+【月岡 恋鐘】2019ホワイトデーボイス①,[Kogane] 2019 White Day Voice ①
+【月岡 恋鐘】2019ホワイトデーボイス②,[Kogane] 2019 White Day Voice ②
+【月岡 恋鐘】2019ホワイトデーボイス③,[Kogane] 2019 White Day Voice ③
+【月岡 恋鐘】2019七夕ボイス,[Kogane] 2019 Tanabata Voice
+【月岡 恋鐘】2019お月見ボイス,[Kogane] 2019 Otsukimi Voice
+【月岡 恋鐘】2019ハロウィンボイス,[Kogane] 2019 Halloween Voice
+【田中 摩美々】2019ホワイトデーボイス①,[Mamimi] 2019 White Day Voice ①
+【田中 摩美々】2019ホワイトデーボイス②,[Mamimi] 2019 White Day Voice ②
+【田中 摩美々】2019ホワイトデーボイス③,[Mamimi] 2019 White Day Voice ③
+【田中 摩美々】2019七夕ボイス,[Mamimi] 2019 Tanabata Voice
+【田中 摩美々】2019お月見ボイス,[Mamimi] 2019 Otsukimi Voice
+【田中 摩美々】2019ハロウィンボイス,[Mamimi] 2019 Halloween Voice
+【白瀬 咲耶】2019ホワイトデーボイス①,[Sakuya] 2019 White Day Voice ①
+【白瀬 咲耶】2019ホワイトデーボイス②,[Sakuya] 2019 White Day Voice ②
+【白瀬 咲耶】2019ホワイトデーボイス③,[Sakuya] 2019 White Day Voice ③
+【白瀬 咲耶】2019七夕ボイス,[Sakuya] 2019 Tanabata Voice
+【白瀬 咲耶】2019お月見ボイス,[Sakuya] 2019 Otsukimi Voice
+【白瀬 咲耶】2019ハロウィンボイス,[Sakuya] 2019 Halloween Voice
+【三峰 結華】2019ホワイトデーボイス①,[Yuika] 2019 White Day Voice ①
+【三峰 結華】2019ホワイトデーボイス②,[Yuika] 2019 White Day Voice ②
+【三峰 結華】2019ホワイトデーボイス③,[Yuika] 2019 White Day Voice ③
+【三峰 結華】2019七夕ボイス,[Yuika] 2019 Tanabata Voice
+【三峰 結華】2019お月見ボイス,[Yuika] 2019 Otsukimi Voice
+【三峰 結華】2019ハロウィンボイス,[Yuika] 2019 Halloween Voice
+【幽谷 霧子】2019ホワイトデーボイス①,[Kiriko] 2019 White Day Voice ①
+【幽谷 霧子】2019ホワイトデーボイス②,[Kiriko] 2019 White Day Voice ②
+【幽谷 霧子】2019ホワイトデーボイス③,[Kiriko] 2019 White Day Voice ③
+【幽谷 霧子】2019七夕ボイス,[Kiriko] 2019 Tanabata Voice
+【幽谷 霧子】2019お月見ボイス,[Kiriko] 2019 Otsukimi Voice
+【幽谷 霧子】2019ハロウィンボイス,[Kiriko] 2019 Halloween Voice
+【小宮 果穂】2019ホワイトデーボイス①,[Kaho] 2019 White Day Voice ①
+【小宮 果穂】2019ホワイトデーボイス②,[Kaho] 2019 White Day Voice ②
+【小宮 果穂】2019ホワイトデーボイス③,[Kaho] 2019 White Day Voice ③
+【小宮 果穂】2019七夕ボイス,[Kaho] 2019 Tanabata Voice
+【小宮 果穂】2019お月見ボイス,[Kaho] 2019 Otsukimi Voice
+【小宮 果穂】2019ハロウィンボイス,[Kaho] 2019 Halloween Voice
+【園田 智代子】2019ホワイトデーボイス①,[Chiyoko] 2019 White Day Voice ①
+【園田 智代子】2019ホワイトデーボイス②,[Chiyoko] 2019 White Day Voice ②
+【園田 智代子】2019ホワイトデーボイス③,[Chiyoko] 2019 White Day Voice ③
+【園田 智代子】2019七夕ボイス,[Chiyoko] 2019 Tanabata Voice
+【園田 智代子】2019お月見ボイス,[Chiyoko] 2019 Otsukimi Voice
+【園田 智代子】2019ハロウィンボイス,[Chiyoko] 2019 Halloween Voice
+【西城 樹里】2019ホワイトデーボイス①,[Juri] 2019 White Day Voice ①
+【西城 樹里】2019ホワイトデーボイス②,[Juri] 2019 White Day Voice ②
+【西城 樹里】2019ホワイトデーボイス③,[Juri] 2019 White Day Voice ③
+【西城 樹里】2019七夕ボイス,[Juri] 2019 Tanabata Voice
+【西城 樹里】2019お月見ボイス,[Juri] 2019 Otsukimi Voice
+【西城 樹里】2019ハロウィンボイス,[Juri] 2019 Halloween Voice
+【杜野 凛世】2019ホワイトデーボイス①,[Rinze] 2019 White Day Voice ①
+【杜野 凛世】2019ホワイトデーボイス②,[Rinze] 2019 White Day Voice ②
+【杜野 凛世】2019ホワイトデーボイス③,[Rinze] 2019 White Day Voice ③
+【杜野 凛世】2019七夕ボイス,[Rinze] 2019 Tanabata Voice
+【杜野 凛世】2019お月見ボイス,[Rinze] 2019 Otsukimi Voice
+【杜野 凛世】2019ハロウィンボイス,[Rinze] 2019 Halloween Voice
+【有栖川 夏葉】2019ホワイトデーボイス①,[Natsuha] 2019 White Day Voice ①
+【有栖川 夏葉】2019ホワイトデーボイス②,[Natsuha] 2019 White Day Voice ②
+【有栖川 夏葉】2019ホワイトデーボイス③,[Natsuha] 2019 White Day Voice ③
+【有栖川 夏葉】2019七夕ボイス,[Natsuha] 2019 Tanabata Voice
+【有栖川 夏葉】2019お月見ボイス,[Natsuha] 2019 Otsukimi Voice
+【有栖川 夏葉】2019ハロウィンボイス,[Natsuha] 2019 Halloween Voice
+【大崎 甘奈】2019ホワイトデーボイス①,[Amana] 2019 White Day Voice ①
+【大崎 甘奈】2019ホワイトデーボイス②,[Amana] 2019 White Day Voice ②
+【大崎 甘奈】2019ホワイトデーボイス③,[Amana] 2019 White Day Voice ③
+【大崎 甘奈】2019七夕ボイス,[Amana] 2019 Tanabata Voice
+【大崎 甘奈】2019お月見ボイス,[Amana] 2019 Otsukimi Voice
+【大崎 甘奈】2019ハロウィンボイス,[Amana] 2019 Halloween Voice
+【大崎 甜花】2019ホワイトデーボイス①,[Tenka] 2019 White Day Voice ①
+【大崎 甜花】2019ホワイトデーボイス②,[Tenka] 2019 White Day Voice ②
+【大崎 甜花】2019ホワイトデーボイス③,[Tenka] 2019 White Day Voice ③
+【大崎 甜花】2019七夕ボイス,[Tenka] 2019 Tanabata Voice
+【大崎 甜花】2019お月見ボイス,[Tenka] 2019 Otsukimi Voice
+【大崎 甜花】2019ハロウィンボイス,[Tenka] 2019 Halloween Voice
+【桑山 千雪】2019ホワイトデーボイス①,[Chiyuki] 2019 White Day Voice ①
+【桑山 千雪】2019ホワイトデーボイス②,[Chiyuki] 2019 White Day Voice ②
+【桑山 千雪】2019ホワイトデーボイス③,[Chiyuki] 2019 White Day Voice ③
+【桑山 千雪】2019七夕ボイス,[Chiyuki] 2019 Tanabata Voice
+【桑山 千雪】2019お月見ボイス,[Chiyuki] 2019 Otsukimi Voice
+【桑山 千雪】2019ハロウィンボイス,[Chiyuki] 2019 Halloween Voice
+【芹沢 あさひ】2019七夕ボイス,[Asahi] 2019 Tanabata Voice
+【芹沢 あさひ】2019お月見ボイス,[Asahi] 2019 Otsukimi Voice
+【芹沢 あさひ】2019ハロウィンボイス,[Asahi] 2019 Halloween Voice
+【黛 冬優子】2019七夕ボイス,[Fuyuko] 2019 Tanabata Voice
+【黛 冬優子】2019お月見ボイス,[Fuyuko] 2019 Otsukimi Voice
+【黛 冬優子】2019ハロウィンボイス,[Fuyuko] 2019 Halloween Voice
+【和泉 愛依】2019七夕ボイス,[Mei] 2019 Tanabata Voice
+【和泉 愛依】2019お月見ボイス,[Mei] 2019 Otsukimi Voice
+【和泉 愛依】2019ハロウィンボイス,[Mei] 2019 Halloween Voice
+トーク,Talk

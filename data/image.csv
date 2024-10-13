@@ -1,12 +1,12 @@
-name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,79
+ename,url,version
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,80
 images/ui/common/parts.json_image,common_parts.png,46
 images/ui/my_page/parts.json_image,my_page.parts.png,47
 images/ui/fes/parts.json_image,fes_parts.png,40
 images/ui/common/parts_icons.json_image,common_parts_icons.png,39
 images/ui/option/parts.json_image,ui_option_parts.png,28
 images/ui/mission/parts.json_image,mission_parts.png,25
-images/ui/produce_top/parts.json_image,top_parts.png,23
+images/ui/produce_top/parts.json_image,top_parts.png,24
 images/ui/concert/parts.json_image,concert_parts.png,26
 images/ui/gasha/parts.json_image,gasha_parts.png,30
 images/ui/skill_board/parts.json_image,skill_board.png,17
@@ -1072,7 +1072,7 @@ images/content/idols/name/86f231ad9abbeef9751e98a553196825_1930280010.png,cards/
 images/content/idols/name/bd56348f7b3d6dcef05ae54032349227_1940280010.png,cards/haruki_p_r_3.png,1
 images/content/support_idols/name/ff51a8a72d7fb7ece49120b7c74c6352_2020280010.png,cards/haruki_s_r_1.png,1
 images/ui/game_event/gradation/communication_base.json_image,communication_base.png,9
-images/ui/produce_ending/parts_ex_skill_and_knowhow_book_reward.json_image,produce_ending_parts_exskill_knowhow.png,1
+images/ui/produce_ending/parts_ex_skill_and_knowhow_book_reward.json_image,produce_ending_parts_exskill_knowhow.png,2
 images/ui/produce_ending/parts_reward.json_image,produce_ending_parts_reward.png,14
 images/ui/mini_game/parts_mini_game_portal.json_image,parts_mini_game_portal.png,1
 images/ui/character_profile/parts.json_image,character_profile_parts.png,1

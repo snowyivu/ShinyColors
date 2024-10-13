@@ -1,0 +1,116 @@
+id,name,text,trans
+1027001050010,羽那,"こんにちはーっ
+鈴木羽那です──！","Hellooo!
+Hana Suzuki heeere──!"
+1027001050020,羽那,"みんな、今日は会いに来てくれてありがとう
+楽しんでいってくださーいっ","Thank you for coming to see me today, everyone!
+Hope you all enjoy and have a great time!"
+0000000000000,プロデューサー,…………,......
+0000000000000,通行人１,"──ねぇ
+誰か歌ってる","──Hey, someone's singing."
+0000000000000,通行人１,アイドル？,An idol?
+0000000000000,通行人２,"だね
+ここで歌ってるってことは、新人かなぁ……","You're right.
+I guess she might be new since she's singing here..."
+0000000000000,通行人１,"うん
+でも、それにしては──","Yeah, she might be.
+But, wouldn't you say──"
+0000000000000,通行人１,盛り上がってんね,That it's kind of exciting.
+0000000000000,プロデューサー,街中の,In the city...
+0000000000000,プロデューサー,商業施設内に作られたステージ,Is a stage built in a shopping center.
+0000000000000,プロデューサー,"集まったファンと
+立ち止まる通行人",Fans gather and passersby stop to have a look.
+0000000000000,プロデューサー,"新人アイドルとしては
+素晴らしいイベントになっていると思う","This turned out to be a great event for a newcomer 
+idol."
+0000000000000,プロデューサー,──だけど,──However...
+0000000000000,プロデューサー,羽那に似合うステージはここじゃない,This stage does not suit Hana.
+0000000000000,プロデューサー,──似合うのは,──What does suit her...
+0000000000000,プロデューサー,もっと、大きな,Is a stage that is much bigger.
+0000000000000,プロデューサー,その時,At this time...
+0000000000000,プロデューサー,羽那から見る世界は,The world as how Hana sees it...
+0000000000000,プロデューサー,それでも,It's still──
+0000000000000,プロデューサー,"羽那、お疲れ様
+ステージに立ってみて、どうだった？","Good work out there, Hana.
+How did it feel to be on stage?"
+1027001050030,羽那,"──……
+ふふっ、楽しかった──！","──......
+Fufu, it was fuuun──!"
+0000000000000,プロデューサー,──はは、そうか,"──Haha, I'm glad."
+1027001050040,羽那,"プロデューサー的には？
+あたしのステージ、どうだった？","What do you think of my performance?
+From your perspective as a producer."
+0000000000000,プロデューサー,……よかったよ、すごく,"... It was good, very good."
+0000000000000,プロデューサー,"お客さんがずっと、羽那を見てることが……
+傍から見ていて、わかったんだ","I was watching from the sidelines... and noticed that 
+the audience was watching you the whole time."
+1027001050050,羽那,あはっ、そうなんだ,"Aha, I see."
+1027001050060,羽那,"でもお客さんがあたしを見てるのって
+当たり前じゃないの？","But isn't it normal for the audience to be 
+watching me?"
+0000000000000,プロデューサー,"ああ、はは……
+そうなんだけどさ","Yeah, haha...
+You're right, though..."
+0000000000000,プロデューサー,羽那は────,"Hana, did you──"
+1027001050070,羽那,……？,......?
+select,,"今日のステージで
+満足か？","Feel satisfied
+with today's
+performance?"
+select,,楽しかったんだよな,have fun today?
+select,,"もっと大きなステージに
+立ちたいと思うか？","Want to perform
+on a bigger stage?"
+1027001050080,羽那,……,......
+1027001050090,羽那,満足しちゃ、だめ？,Is it bad if I felt satisfied?
+0000000000000,プロデューサー,"あぁ、いや
+そういうわけじゃないんだ","Oh, no.
+It's not like that."
+0000000000000,プロデューサー,"ただ、俺が──
+もっと大きなステージに立つ羽那を見たいと思ったからさ","It's just that...
+I want to see Hana on a bigger stage."
+1027001050100,羽那,──！,──!
+1027001050110,羽那,あはっ、そういうことかー,"Aha, that's what you meanー"
+1027001050120,羽那,"それなら、満足じゃないよ
+だってプロデューサーは、連れていってくれるでしょ？","Then... I am not satisfied because you'll take me 
+there, right?"
+1027001050130,羽那,"もっと大きなステージに
+……あたしのこと",Taking me... to a bigger stage...
+0000000000000,プロデューサー,"ああ
+うん──","Yeah.
+Definitely──"
+0000000000000,プロデューサー,"連れていくよ
+もっと大きなステージに",I'm taking you with me to an even bigger stage.
+1027001050140,羽那,"……？
+うん","......?
+Sure."
+0000000000000,プロデューサー,また、ステージに立ちたいと思うか？,Would you like to be on stage again?
+0000000000000,プロデューサー,"……今度はもっと、
+大きなステージに","... Next time, you'll be on an even bigger stage."
+1027001050150,羽那,──うんっ,──Yeah.
+1027001050160,羽那,"ふふっ
+プロデューサーが連れていってくれるなら","Fufu.
+If you take me to that stage..."
+1027001050170,羽那,あたし、頑張れると思うから──！,I think I can do my best then──!
+0000000000000,プロデューサー,"はは……
+そうか、ありがとう","Haha......
+I see, thank you."
+0000000000000,プロデューサー,"それじゃあ、行こう
+もっと大きなステージに","Well, let's go then.
+To an even bigger stage."
+0000000000000,プロデューサー,俺も頑張るからさ,I'll do my best too.
+1027001050180,羽那,えっ、うん──！,"Yeah, sure──!"
+1027001050190,羽那,"だって、このまま頑張ってたら
+もっと大きなステージに立てるんじゃないの？","If I keep working hard like this, I'll be able to perform 
+on an even bigger stage, right?"
+0000000000000,プロデューサー,……！,......!
+0000000000000,プロデューサー,"──そうだな
+このまま、頑張ってたら……","──That's right.
+If you keep up the good work..."
+0000000000000,プロデューサー,……羽那,... Hana.
+0000000000000,プロデューサー,これからも、ふたりで頑張っていこうな,Let's keep working hard together.
+0000000000000,プロデューサー,"今よりもっと
+大きなステージを目指して",Let's aim for an even bigger stage than today's.
+1027001050200,羽那,あはっ、うん──！,"Aha, yeah──!"
+info,produce_events/102700105.json,
+Translator,Burbur,

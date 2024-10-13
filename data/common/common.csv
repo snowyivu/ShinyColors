@@ -140,7 +140,7 @@ TrueEnd達成数,﻿True Ends Completed
 スタミナを消費してプロデュースを開始しますか？,Start Producing and consume Stamina?
 昇格ライン,Promotion
 残留ライン,Stay Line
-週,Wk
+週,wk
 審査員,Judge
 プロデュースアイテム,Produce Item
 まとめて消費した数に応じて獲得マニーUP!!,Earn Money Per Fes Entry Used!!
@@ -198,13 +198,13 @@ TV出演では、たくさんファンを増やすことができます♪\n経�
 選択されたスキルは忘れてしまいます。\nよろしいですか？,Is it okay to\nforget the selected skill?
 忘れたスキルは再度習得できません,Skills can't be re-learned
 3人以上のアイドルと絆を赤ゲージにする\nシーズン3最終週のみ挑戦可能,Have red-gauge bonds with 3 or more idols\nCan challenge on the last week of Season 3
-アイドルランクC以上,Idol Rank C or Higher
-アイドルランクE以上,Idol Rank E or Higher
-アイドルランクD以上,Idol Rank D or Higher
-アイドルランクF以上,Idol Rank F or Higher
 アイドルランクS以上,Idol Rank S or Higher
-アイドルランクB以上,Idol Rank B or Higher
 アイドルランクA以上,Idol Rank A or Higher
+アイドルランクB以上,Idol Rank B or Higher
+アイドルランクC以上,Idol Rank C or Higher
+アイドルランクD以上,Idol Rank D or Higher
+アイドルランクE以上,Idol Rank E or Higher
+アイドルランクF以上,Idol Rank F or Higher
 プロデューサー就任から,Total Days Played:
 日経過,days
 日記念まであと,d gift in 
@@ -273,7 +273,7 @@ S.T.E.P.編,S.T.E.P. Mode
 なまえ,Name
 ユニット,Unit
 身長,Ht.
-スリーサイズ,B/W/T
+スリーサイズ,B/W/H
 出身地,POB
 趣味,Hobby
 特技,Skill
@@ -1366,49 +1366,49 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 様々なイベントが発生します,All sorts of events may happen.
 イベントを開始しますか？,Start event?
 ユニット単独ライブに向けた準備を通してアイドルを成長させることができます。ライブでパフォーマンスする楽曲の熟練度を上げて、ユニット単独ライブを成功させましょう！,Raise idols through preparation for the unit solo live. Improve your skills with deep music performance study and make your unit solo live a success!
-"歌唱力の熟練度獲得量が2倍(1週)","2x Vocal Proficiency Gains (1Wk)"
-"安定感の熟練度獲得量が2倍(1週)","2x Stability Proficiency Gains (1Wk)"
-"表現力の熟練度獲得量が2倍(1週)","2x Expressiveness Proficiency Gains (1Wk)"
-"集中力の熟練度獲得量が2倍(1週)","2x Focus Proficiency Gains (1Wk)"
-"団結力の熟練度獲得量が2倍(1週)","2x Teamwork Proficiency Gains (1Wk)"
-"楽曲サポートボーナスの熟練度獲得量が3倍(1週)","3x Music Support Bonus Proficiency Gains (1Wk)"
-"体力の消費量が増加(中)、レッスンのすべての熟練度獲得量が2倍(1週)","Fatigue Drain Increased(Med),2x All Lesson Proficiency Gains (1Wk)"
-"お仕事のすべての熟練度獲得量が2倍(1週)","2x All Work Proficiency Gains (1Wk)"
-"歌唱力の熟練度獲得量が2倍(2週)","2x Vocal Proficiency Gains (2Wk)"
-"安定感の熟練度獲得量が2倍(2週)","2x Stability Proficiency Gains (2Wk)"
-"表現力の熟練度獲得量が2倍(2週)","2x Expressiveness Proficiency Gains (2Wk)"
-"楽曲サポートボーナスの熟練度獲得量が3倍(2週)","3x Music Support Bonus Proficiency Gains (2Wk)"
-"体力の消費量が増加(小)、すべての熟練度獲得量が2倍(1週)","Fatigue Drain Increased(Small),2x All Proficiency Gains (1Wk)"
-"集中力の熟練度獲得量が4倍(2週)","4x Focus Proficiency Gains (2Wk)"
-"団結力の熟練度獲得量が4倍(2週)","4x Teamwork Proficiency Gains (2Wk)"
-"楽曲サポートボーナスの熟練度獲得量が5倍(2週)","5x Music Support Bonus Proficiency Gains (2Wk)"
-"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Vocal Lesson Proficiency Gains (2Wk)"
-"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Dance Lesson Proficiency Gains (2Wk)"
-"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Visual Lesson Proficiency Gains (2Wk)"
-"集中力の熟練度獲得量が2倍(2週)","2x Focus Proficiency Gains (2Wk)"
-"団結力の熟練度獲得量が2倍(2週)","2x Teamwork Proficiency Gains (2Wk)"
-"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains (2Wk)"
-"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Dance Lesson Proficiency Gains (2Wk)"
-"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Visual Lesson Proficiency Gains (2Wk)"
-"歌唱力の熟練度獲得量が4倍(2週)","4x Vocal Proficiency Gains (2Wk)"
-"安定感の熟練度獲得量が4倍(2週)","4x Stability Proficiency Gains (2Wk)"
-"表現力の熟練度獲得量が4倍(2週)","4x Expressiveness Proficiency Gains (2Wk)"
-"お仕事のすべての熟練度獲得量が4倍(1週)","4x All Work Proficiency Gains (1Wk)"
-"体力の消費量が増加(小)、すべての熟練度獲得量が2倍(2週)","Fatigue Drain Increased(Small),2x All Proficiency Gains (2Wk)"
-"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains (1Wk)"
-"ボーカルレッスンのすべての熟練度獲得量が3倍(1週)","3x All Vocal Lesson Proficiency Gains (1Wk)"
-"体力の消費量が増加(小)、レッスンのすべての熟練度獲得量が5倍(1週)","Fatigue Drain Increased(Small),5x All Lesson Proficiency Gains (1Wk)"
-"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Dance Lesson Proficiency Gains (1Wk)"
-"ダンスレッスンのすべての熟練度獲得量が3倍(1週)","3x All Dance Lesson Proficiency Gains (1Wk)"
-"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Visual Lesson Proficiency Gains (1Wk)"
-"ビジュアルレッスンのすべての熟練度獲得量が3倍(1週)","3x All Visual Lesson Proficiency Gains (1Wk)"
-"ビジュアルレッスンのすべての熟練度獲得量が3倍(2週)","3x All Visual Lesson Proficiency Gains (2Wk)"
-"ラジオの収録のすべての熟練度獲得量が3倍(1週)","3x Radio Show Proficiency Gains (1Wk)"
-"トークイベントのすべての熟練度獲得量が3倍(1週)","3x Talk Show Proficiency Gains (1Wk)"
-"レッスンのすべての熟練度獲得量が2倍(1週)","2x All Lesson Proficiency Gains (1Wk)"
-"レッスンのすべての熟練度獲得量が4倍(1週)","4x All Lesson Proficiency Gains (1Wk)"
-"すべての熟練度獲得量が3倍(1週)","3x All Proficiency Gains (1Wk)"
-"雑誌の撮影のすべての熟練度獲得量が3倍(1週)","3x Photoshoot Proficiency Gains (1Wk)"
+"歌唱力の熟練度獲得量が2倍(1週)","2x Vocal Proficiency Gains (1wk)"
+"安定感の熟練度獲得量が2倍(1週)","2x Stability Proficiency Gains (1wk)"
+"表現力の熟練度獲得量が2倍(1週)","2x Expressiveness Proficiency Gains (1wk)"
+"集中力の熟練度獲得量が2倍(1週)","2x Focus Proficiency Gains (1wk)"
+"団結力の熟練度獲得量が2倍(1週)","2x Teamwork Proficiency Gains (1wk)"
+"楽曲サポートボーナスの熟練度獲得量が3倍(1週)","3x Music Support Bonus Proficiency Gains (1wk)"
+"体力の消費量が増加(中)、レッスンのすべての熟練度獲得量が2倍(1週)","Fatigue Drain Increased(Med),2x All Lesson Proficiency Gains (1wk)"
+"お仕事のすべての熟練度獲得量が2倍(1週)","2x All Work Proficiency Gains (1wk)"
+"歌唱力の熟練度獲得量が2倍(2週)","2x Vocal Proficiency Gains (2wk)"
+"安定感の熟練度獲得量が2倍(2週)","2x Stability Proficiency Gains (2wk)"
+"表現力の熟練度獲得量が2倍(2週)","2x Expressiveness Proficiency Gains (2wk)"
+"楽曲サポートボーナスの熟練度獲得量が3倍(2週)","3x Music Support Bonus Proficiency Gains (2wk)"
+"体力の消費量が増加(小)、すべての熟練度獲得量が2倍(1週)","Fatigue Drain Increased(Small),2x All Proficiency Gains (1wk)"
+"集中力の熟練度獲得量が4倍(2週)","4x Focus Proficiency Gains (2wk)"
+"団結力の熟練度獲得量が4倍(2週)","4x Teamwork Proficiency Gains (2wk)"
+"楽曲サポートボーナスの熟練度獲得量が5倍(2週)","5x Music Support Bonus Proficiency Gains (2wk)"
+"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Vocal Lesson Proficiency Gains (2wk)"
+"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Dance Lesson Proficiency Gains (2wk)"
+"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が4倍(2週)","Trouble Rate+5%,4x All Visual Lesson Proficiency Gains (2wk)"
+"集中力の熟練度獲得量が2倍(2週)","2x Focus Proficiency Gains (2wk)"
+"団結力の熟練度獲得量が2倍(2週)","2x Teamwork Proficiency Gains (2wk)"
+"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains (2wk)"
+"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Dance Lesson Proficiency Gains (2wk)"
+"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(2週)","Trouble Rate+5%,2x All Visual Lesson Proficiency Gains (2wk)"
+"歌唱力の熟練度獲得量が4倍(2週)","4x Vocal Proficiency Gains (2wk)"
+"安定感の熟練度獲得量が4倍(2週)","4x Stability Proficiency Gains (2wk)"
+"表現力の熟練度獲得量が4倍(2週)","4x Expressiveness Proficiency Gains (2wk)"
+"お仕事のすべての熟練度獲得量が4倍(1週)","4x All Work Proficiency Gains (1wk)"
+"体力の消費量が増加(小)、すべての熟練度獲得量が2倍(2週)","Fatigue Drain Increased(Small),2x All Proficiency Gains (2wk)"
+"トラブル率が+5%、ボーカルレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Vocal Lesson Proficiency Gains (1wk)"
+"ボーカルレッスンのすべての熟練度獲得量が3倍(1週)","3x All Vocal Lesson Proficiency Gains (1wk)"
+"体力の消費量が増加(小)、レッスンのすべての熟練度獲得量が5倍(1週)","Fatigue Drain Increased(Small),5x All Lesson Proficiency Gains (1wk)"
+"トラブル率が+5%、ダンスレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Dance Lesson Proficiency Gains (1wk)"
+"ダンスレッスンのすべての熟練度獲得量が3倍(1週)","3x All Dance Lesson Proficiency Gains (1wk)"
+"トラブル率が+5%、ビジュアルレッスンのすべての熟練度獲得量が2倍(1週)","Trouble Rate+5%,2x All Visual Lesson Proficiency Gains (1wk)"
+"ビジュアルレッスンのすべての熟練度獲得量が3倍(1週)","3x All Visual Lesson Proficiency Gains (1wk)"
+"ビジュアルレッスンのすべての熟練度獲得量が3倍(2週)","3x All Visual Lesson Proficiency Gains (2wk)"
+"ラジオの収録のすべての熟練度獲得量が3倍(1週)","3x Radio Show Proficiency Gains (1wk)"
+"トークイベントのすべての熟練度獲得量が3倍(1週)","3x Talk Show Proficiency Gains (1wk)"
+"レッスンのすべての熟練度獲得量が2倍(1週)","2x All Lesson Proficiency Gains (1wk)"
+"レッスンのすべての熟練度獲得量が4倍(1週)","4x All Lesson Proficiency Gains (1wk)"
+"すべての熟練度獲得量が3倍(1週)","3x All Proficiency Gains (1wk)"
+"雑誌の撮影のすべての熟練度獲得量が3倍(1週)","3x Photoshoot Proficiency Gains (1wk)"
 プロデューサーさんのペースに合わせて\n営業先を選んでくださいね～,Please choose a job according\nto your own playstyle～
 所持枠を超えているものは自動的に破棄されます,Items over max capacity will be destroyed
 アイドル同士でノウハウを教えあいながら、最高の今を作っていきます。レッスンやお仕事、オーディションやライブを通してエキシビションの舞台を成功させましょう！,"While teaching know-how between fellow idols, create the very best. Make the exhibition stage a success through lessons, work, auditions, and lives!"
@@ -1417,6 +1417,22 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 2022バレンタイン スペシャルコミュ,2022 Valentine's Day Special Commu
 2023バレンタイン スペシャルコミュ,2023 Valentine's Day Special Commu
 2024バレンタイン スペシャルコミュ,2024 Valentine's Day Special Commu
+2020ホワイトデー スペシャルコミュ,2020 White Day Special Commu
+2021ホワイトデー スペシャルコミュ,2021 White Day Special Commu
+2022ホワイトデー スペシャルコミュ,2022 White Day Special Commu
+2023ホワイトデー スペシャルコミュ,2023 White Day Special Commu
+2024ホワイトデー スペシャルコミュ,2024 White Day Special Commu
+2019アイドルからのイタズラ【目隠し】,2019 Tricks from the Idols [Blindfold]
+2020アイドルからのイタズラ【ささやき】,2020 Tricks from the Idols [Whispers]
+2021アイドルからのイタズラ【イタズラケーキ】,2021 Tricks from the Idols [Prank Cake]
+2022アイドルからのイタズラ【メリーさん】,2022 Tricks from the Idols [Meri-san]
+2023アイドルからのイタズラ【寝たふり】,2023 Tricks from the Idols [Pretend to be Asleep]
+2019Xmas スペシャルコミュ,2019 Christmas Special Commu
+2020Xmas スペシャルコミュ,2020 Christmas Special Commu
+2021Xmas スペシャルコミュ,2021 Christmas Special Commu
+2022Xmas スペシャルコミュ,2022 Christmas Special Commu
+2023Xmas スペシャルコミュ,2023 Christmas Special Commu
+2024Xmas スペシャルコミュ,2024 Christmas Special Commu
 初心者ミッション,Beginner Missions
 W.I.N.G.攻略ミッション,W.I.N.G. Missions
 サポートアイドルを育てよう①,Raise Support Idols①

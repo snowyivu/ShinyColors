@@ -2251,8 +2251,8 @@ photo.option.bg,背景,BG
 photo.option.effect,エフェクト,Effect
 photo.option.frame,フレーム,Frame
 produceReady.produceAreaAttension.title,注意事項,
-shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,Train Pt
-shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,Match Live Pt
+shop.purchasedCountLabelText.gameEvent.training_event_point,育成P,Train Pts
+shop.purchasedCountLabelText.gameEvent.joint_fes_event_point,マッチライブP,Match Live Pts
 shop.purchaseResult.expansionMessage,%{item}の所持上限を解放しました,%{item}'s owned limit has been increased.
 shop.smallTabTitles.premium.beginners,新人P向け,For New P
 shop.monthlyPassport.price,%{price}円,%{price} yen
@@ -2300,7 +2300,7 @@ miniGamePortal.staffComment4,大富豪、懐かしいですね～,"Daifugo, how 
 miniGamePortal.staffComment5,ミニゲームが遊べますよ～,Let's play the minigame～
 tutorial.skipPop.messageSkipAll,チュートリアルをすべてスキップします\nよろしいですか？,This will skip the entire Tutorial.\nAre you sure?
 tutorial.unitDescription.8,突如として飛来した、新時代のアイドルユニット。\n黒を纏い、カラーに囚われない少女たち。\n彗星の軌跡[ストーリー]が示すのは、闇か光か、はたまた──,"The idol unit of a new era that suddenly came flying in.\nDecorated in black, these girls are not imprisoned by color.\nWill the ""story"" of the comet's trajectory show us light?\nDark? Or perhaps..."
-idolList.knowHowCount,ノウハウ数,Nr. of Know-How
+idolList.knowHowCount,ノウハウ数,No. of Know-How
 idolList.knowHowBoolMarkSelectDialog.title,ノウハウブックマーク,Know-How Bookmark
 idolList.knowHowRedrawDialog.title,ノウハウのリロード,Reroll Know-How
 idolList.knowHowRedrawDialog.redrawCount,/ %{maxRedrawCount}回目,/ %{maxRedrawCount} times
@@ -2698,3 +2698,4 @@ beginnerMission.tutorial.fesUnitSelectTutorialText4,編成中の他のアイド�
 beginnerMission.tutorial.fesUnitSelectTutorialText5,また、編成中の同じアイドルを選択すると\nユニットから外れてしまいます,また、編成中の同じアイドルを選択すると\nユニットから外れてしまいます
 beginnerMission.lockConditionsPop.title,ミッション条件,ミッション条件
 beginnerMission.lockConditionsPop.text,ミッションを行うには下記を満たす必要があります,ミッションを行うには下記を満たす必要があります
+produceTop.backToHomeAndGiveUpPop.title,ホームに戻る・諦める,ホームに戻る・諦める
