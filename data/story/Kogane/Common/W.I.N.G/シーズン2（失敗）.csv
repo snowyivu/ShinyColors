@@ -1,27 +1,25 @@
 id,name,text,trans
 7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
-この調子で、と思ったんですけど","That's too bad... Since you've already passed the first round,
-I thought you'd be able to keep it up."
-7901001040020,はづき,現実は、なかなか厳しいですね……,Reality is often quite unforgiving...
+この調子で、と思ったんですけど","How unfortunate... She did so well in the first stage 
+that I thought she'd keep going, but..."
+7901001040020,はづき,現実は、なかなか厳しいですね……,Reality is harsher than you expect...
 7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
-悪くない結果だった","In spite of that, those are not bad results for a beginner idol 
-and her novice producer."
+悪くない結果だった","But, considering you're a new producer, coaching a 
+new idol, I think you could have done much worse."
 0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
-俺にもっと力があれば……！","Even so, I thought we could've gotten even further.
-If only I was more skilled..."
-7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"While I commend your efforts/applaud your dedication, 
-I'm not here to hear you whine"
+俺にもっと力があれば……！","But I thought we could have gotten further... 
+I just couldn't do enough for her...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I appreciate what you achieved, but I'm not 
+interested in hearing you whine and make excuses."
 7902001040030,社長,"力が足りないのなら、彼女とともに
-これから成長していけばいいだけのことだ","If you're lacking in ability, you just need to keep getting better 
-alongside her."
+これから成長していけばいいだけのことだ","If you weren't able to take her further, then that 
+just means both of you have some growing to do."
 0000000000000,プロデューサー,"……そうですね
-彼女に、会いに行ってきます","You're right,
-I'm going to see her now!"
-7902001040040,社長,ああ、行ってこい,"Yeah, go right ahead."
+彼女に、会いに行ってきます",...You're right. I'm going to go talk to her.
+7902001040040,社長,ああ、行ってこい,Mm. I'll see you soon.
 0000000000000,プロデューサー,"残念だが、二次審査の結果……
 通過はできなかった……","Unfortunately, the results of the second round...
-Ended with our failure...
-"
+Ended with our failure..."
 7004001040010,恋鐘,"え……？
 うそ、本当に？","Huh...?
 No way, fo'real?"
@@ -30,20 +28,22 @@ No way, fo'real?"
 I really thought I'd pull though... I guess I fell short..."
 0000000000000,プロデューサー,確かに今回の結果は残念だった……,It is true that our results were regrettable...
 0000000000000,プロデューサー,"けど、ステージを見ていてはっきりわかったんだ
-恋鐘は前よりも成長してきてる","However, I can tell that you've really improved since we started 
-from looking at your stage performance ."
+恋鐘は前よりも成長してきてる","However, I can tell that you've really improved since 
+we started by looking at your stage performance."
 0000000000000,プロデューサー,"歌や踊りも上手くなってきてるし
 何よりミスしてからのフォローが上手くなった","You're getting better at singing and dancing,
-and what's more, you're able to recover quickly from your missteps."
-0000000000000,プロデューサー,だから恋鐘の成長は、俺が保証するよ,Which is why I can say with confidence that you've come a long way.
+and what's more, you're able to recover quickly 
+from your missteps."
+0000000000000,プロデューサー,だから恋鐘の成長は、俺が保証するよ,"Which is why I can say with confidence that you've 
+come a long way."
 7004001040030,恋鐘,"そっか
 うち、成長しちょるか……","I see.
-So I have been improving... "
+So I have been improvin'... "
 7004001040040,恋鐘,"うん、プロデューサーがそういうならきっとそうやんね！
-うち、なんか元気出てきたばい！","Yea, that must be right if you say it is.
+うち、なんか元気出てきたばい！","Yeah, that must be right if ya say it is.
 I've cheered up a bit now."
 7004001040050,恋鐘,"よーし！　もーっと成長して
-プロデューサーを驚かせちゃるばい！","Okay! I'll keep on improving,
-and suprise the heck outta ya!"
+プロデューサーを驚かせちゃるばい！","Okay! I'll keep on improvin',
+and surprise the heck outta ya!"
 info,produce_events/700400104.json,
 Translator,Tatami+Pluie(Proofread),

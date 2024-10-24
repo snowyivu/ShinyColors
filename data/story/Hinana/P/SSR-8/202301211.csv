@@ -1,0 +1,77 @@
+id,name,text,trans
+2023012110010,雛菜,『始まりと終わりの数は同じ』,『The number of beginnings and ends are the same』
+2023012110020,雛菜,……同じかもしれないけど、同じじゃないかもしれない,"......Maybe it's the same, but maybe it's not"
+2023012110030,雛菜,…………,.........*breathe*
+0000000000000,雑誌記者,……それでは、本日もよろしくお願いします,"......And so let's begin the the interview, shall we?"
+2023012110031,雛菜＆プロデューサー,よろしくお願いします……！,"Yes, please......!"
+0000000000000,雑誌記者,"今回はですね……あらかじめ私共の方で
+市川さんへの質問を募集いたしました","For today...... We've actually polled some questions
+for Ichikawa-san in advance."
+0000000000000,雑誌記者,"それに答えていただく形で、
+取材を進めていけたらと思っています","We would like to conduct this interview in a manner
+that replies these questions."
+2023012110040,雛菜,はい～、了解です～！,Alright～Understood～!
+0000000000000,雑誌記者,それでは、早速ひとつめの質問なんですが……,And so for the first question......
+0000000000000,雑誌記者,"──次が最後の質問ですね
+最近見た印象的な夢はありますか？","──And this will be the last question.
+Did you have any memorable dreams recently?"
+2023012110050,雛菜,ん～……,Hm～......
+2023012110060,雛菜,"はい、見ました～！
+雛菜が大学生になってる夢です～！","Yes, I did～!
+Hinana dreamt of herself as a university student～!"
+0000000000000,雑誌記者,"そうですか……！
+少し先の未来を夢でご覧になったんですね","Wow, really......!
+That's a dream of yourself in a few short years, isn't it."
+2023012110070,雛菜,"あは～
+そうですね～！","Aha～
+It sure is～!"
+0000000000000,雑誌記者,夢の中の市川さんは、どういった様子でしたか？,"What did you look like, in that dream of yours?"
+2023012110080,雛菜,"なんにも変わってなかったです～
+楽しくお仕事してました～！","Nothing about me changed～
+I was having a ton of fun working～!"
+0000000000000,雑誌記者,ご覧になったその夢を、現実にしたいと思いますか？,"Do you wish for what you saw in your dream to
+become a reality?"
+2023012110090,雛菜,"……ん～
+そうですね～","......Hm～
+About that～"
+2023012110100,雛菜,"夢の中の雛菜、すっごく楽しそうだったので
+そういう未来もいいな～って、思いました～！","The Hinana in my dream, looked like she was having
+so much fun. So I think that kind of a future, is nice
+too～!"
+0000000000000,プロデューサー,……なぁ、雛菜,"......Hey, Hinana."
+2023012110110,雛菜,ん～？,Hm～?
+0000000000000,プロデューサー,"夢の中でも雛菜はアイドルで、
+俺は雛菜のプロデューサーだったか？","If Hinana's still an idol in your dream, was I still
+your producer?"
+2023012110120,雛菜,うん～！,Yea～!
+2023012110130,雛菜,"雛菜はアイドルで
+プロデューサーもプロデューサーだった～！","Hinana's an idol, and Producer's the producer～!"
+0000000000000,プロデューサー,そうか……,I see......
+2023012110140,雛菜,今日見る夢は、また全然違うかもしれないし,"Well, the dream I might have today, might be a
+completely different dream,"
+2023012110150,雛菜,"今思ってる未来と、
+ほんとの未来は違うかもしれないけど……","Not to mention that the future that I imagine now,
+might be different from the future that is to come..."
+2023012110160,雛菜,雛菜なら、絶対ぜんぶ楽しくできると思う～！,"But if it's Hinana's future, I'm sure they'll all be
+fun～!"
+0000000000000,プロデューサー,ははっ、そうだな,"Haha, that's right."
+2023012110170,雛菜,"（どっちか選ばないといけないって時が来ても
+……雛菜は、雛菜）","(Even if there comes a time when I have to make a
+decision for my future...... Hinana will always be Hinana)"
+2023012110180,雛菜,"（楽しいこととしあわせなことは……
+ちゃんと────）","(Fun things, and happy things...... I'll definitely────)"
+0000000000000,プロデューサー,どうした、雛菜？,"You alright, Hinana?"
+2023012110190,雛菜,へ～？,Huh～?
+0000000000000,プロデューサー,"ああ、いや……
+なんだか、珍しくぼーっとしてるなって、思って────","Ah, nah......
+It's rare to see you in a daze, thinking────"
+0000000000000,プロデューサー,もしかして、疲れてるか？,"Are you, perhaps, tired?"
+2023012110200,雛菜,"ううん～！
+次のお仕事も楽しみだな～って、思ってただけ～！","Not at all～!
+I was just super looking forward to the next job～,
+that's all!"
+0000000000000,プロデューサー,"そうか……
+ああ、俺も楽しみだ","I see......
+Yeah, so do I. So do I..."
+info,produce_events/202301211.json,
+Translator,Mycstea,

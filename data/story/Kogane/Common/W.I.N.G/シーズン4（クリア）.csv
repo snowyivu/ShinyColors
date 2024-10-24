@@ -1,48 +1,50 @@
 id,name,text,trans
 0000000000000,プロデューサー,"恋鐘！
 『W.I.N.G.』への出場が決まったぞ！","Kogane!
-You've been selected to participate in [W.I.N.G]!"
+You've been selected to participate in W.I.N.G.!"
 7004001070010,恋鐘,"ほ、ホントに！？
 うち、『W.I.N.G.』に出場できるん！？","F-fo'real?!
-I get to enter in [W.I.N.G]!?"
+I get to enter in W.I.N.G.!?"
 0000000000000,プロデューサー,"ああ
 間違いない、ちゃんと通知もきてる","Yeah.
 Without a doubt, the notice already came."
 7004001070020,恋鐘,"本当だ……
 プロデューサー、うち……うち……","It's true...
 Producer, I... I'm..."
-7004001070030,恋鐘,やっ……たー！！,He-...HECK YEAH!!!
+7004001070030,恋鐘,やっ……たー！！,H-HECK YEAHー!!
 0000000000000,プロデューサー,"ああ、やったな！
 俺も恋鐘と一緒にここまでこれて嬉しいよ","Yeah, you did it!
 I'm really happy we've come this far."
 0000000000000,プロデューサー,"最初のころはやる気が空回りすることもあったが
-今では逆にそれを武器にできてる","You were focusing too much efforts on the wrong things when we started,
-but now that energy has become a poweful weapon."
+今では逆にそれを武器にできてる","You were focusing too much effort on the wrong 
+things when we started, but now that energy has 
+become a powerful weapon."
 0000000000000,プロデューサー,"何があっても元気で諦めなかった恋鐘だからこそ
-ここまで来れたんだ"," We've managed to be here now
- because you never faltered no matter the obstacle."
+ここまで来れたんだ","We've managed to be here now because you never 
+faltered, no matter the obstacle."
 0000000000000,プロデューサー,"おめでとう、恋鐘！
 大したもんだ","Congratulations, Kogane!
 You are amazing."
 7004001070040,恋鐘,えへへ～、ありがとー!,"Ehehe, thanks!"
-7004001070050,恋鐘,けど、大したもんなんはうちだけじゃなかよ,But I'm not the only one that's amazing.
+7004001070050,恋鐘,けど、大したもんなんはうちだけじゃなかよ,But I'm not the only one that's amazin'.
 7004001070060,恋鐘,"プロデューサーがうちの全力に
-全力でついてきてくれたから……","You're always doing your best to support me, Producer.
-You've kept up with me even when I went all out... "
+全力でついてきてくれたから……","Yer always doing yer best to support me, 
+Producer. You've kept up with me even when I went 
+all out... "
 7004001070070,恋鐘,"ううん……うちの隣でいつも応援してくれたから
-ここまで来れたばい！","No, it's because you stayed by my side with encouragements,
-that I've been able to achieve this!"
+ここまで来れたばい！","No, it's because ya stayed by my side with 
+encouragement that I've been able to achieve this!"
 7004001070080,恋鐘,"うちと二人三脚でここまできたプロデューサーも
-ばり大したもんたい！","The fact that we make such a great pair means yer pretty darn amazing too, 
-Producer!"
+ばり大したもんたい！","The fact that we make such a great pair means yer 
+pretty darn amazin' too, Producer!"
 0000000000000,プロデューサー,はは、ありがとう、恋鐘,"Thank you, Kogane."
 0000000000000,プロデューサー,"だけど、『W.I.N.G.』出場はゴールじゃない
-むしろここからが新しいスタートだ","However, just entering in [W.I.N.G] isn't the end goal,
+むしろここからが新しいスタートだ","However, just entering in W.I.N.G. isn't the end goal,
 but rather the beginning of a new starting point."
 0000000000000,プロデューサー,ここからは、より一層気を引き締めないとな！,We need to aim even higher from now on!
 7004001070090,恋鐘,"わかっとるよー！
 これから『W.I.N.G.』に向けて猛特訓して……","I getcha!
-Let's start our intense training for [W.I.N.G]..."
+Let's start our intense training for W.I.N.G...."
 7004001070100,恋鐘,"そして、目指すはただ一つ……
 優勝あるのみたい！","And the only goal we have is...
 winning the Grand Prix!"
@@ -50,7 +52,7 @@ winning the Grand Prix!"
 一緒に頑張って優勝しような","That's the spirit!
 Let's do our best to win this."
 7004001070110,恋鐘,"うん！　待っとってよ『W.I.N.G.』！
-うちとプロデューサーで絶対に優勝しちゃるけんねー！","Yeah! Just you wait, [W.I.N.G]!
-Me and my producer are definitely gonna be taking the first place!"
+うちとプロデューサーで絶対に優勝しちゃるけんねー！","Yeah! Just you darn wait, W.I.N.G.! My Producer and I 
+are definitely gonna be takin' the first place!"
 info,produce_events/700400107.json,
 Translator,Tatami+Pluie(Proofread),

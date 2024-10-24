@@ -42,8 +42,10 @@ his new job."
 プロデューサーさん、どうぞ～","Yes, absolutely.
 Producer-san, please take these documents!"
 0000000000000,プロデューサー,"ありがとうございます
-……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy to understand."
-0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite reliable...)"
+……あいかわらず、わかりやすくまとまってますね、資料","Thanks. As always, you've made everything so easy 
+to understand."
+0000000000000,プロデューサー,（はづきさん、こういうところは頼れるんだよな……）,"(When it comes to her job, Hazuki is actually quite 
+reliable...)"
 1901001010040,はづき,"ありがとうございます
 それじゃあ、さっそくお仕事の説明に入りますね～","Why, thank you.
 Alright, allow me to explain..."
@@ -74,8 +76,8 @@ I will do everything I can to support you."
 お前は、２８３プロダクションのプロデューサーだ","...Here's a bit of advice.
 You are now a producer here at 283 Production. "
 1902001010090,社長,"担当アイドルと他のアイドルたちを
-交流させることも重要になってくる","It is of utmost importance to allow the idol
-you'll be producing to network with the other idols here."
+交流させることも重要になってくる","It is of utmost importance to allow the idol you'll 
+be producing to network with the other idols here."
 1902001010100,社長,互いに影響しあうことで目指せる高みもあるだろう,"With each other's influence our idols
 will be able to soar to even greater heights."
 1902001010030,社長,"素晴らしい結果を期待させてもらう
@@ -99,7 +101,8 @@ holding a live show?)"
 0000000000000,プロデューサー,……！,……！
 0000000000000,プロデューサー,（目が合ってしまったな……）,(Seems our eyes met...)
 0000000000000,プロデューサー,"……もしかして、
-ライブパフォーマンスに出演する方ですか？","... Pardon me, are you going to hold a live performance?"
+ライブパフォーマンスに出演する方ですか？","... Pardon me, are you going to hold a live 
+performance?"
 1028001010010,はるき,"はい……！
 そうなんです……！","Yes...!
 I am...!"
@@ -120,7 +123,8 @@ I'm still learning the basics but──"
 1028001010050,はるき,"実は、友達にメンバーが足りないからって
 頼まれて……","A friend of mine asked if I wanted to join because 
 they were short on members."
-1028001010060,はるき,いっぱい練習して、初めてのステージなんです,I've made sure to practice lots and this is my first time on stage.
+1028001010060,はるき,いっぱい練習して、初めてのステージなんです,"I've made sure to practice lots and this is my first 
+time on stage."
 0000000000000,プロデューサー,"そうなのか……！
 友達のためとはいえ、ガッツがあるね","Really?
 Even if it's for a friend, you're pretty gutsy."
@@ -170,7 +174,7 @@ But I'm still surprised that you just came over here."
 1028001010170,はるき,"はい……
 もう会えなくなると思ったら思わず──","Yeah...
 When I was thinking I'd never see you again──"
-1028001010180,はるき,……世界が、色づいていくのが見えたんです,"... Suddenly, I could see the world turning colourful."
+1028001010180,はるき,……世界が、色づいていくのが見えたんです,"... Suddenly, I could see the world turning colorful."
 1028001010190,はるき,わたしを、連れていってください……！,Please take me with you...!
 info,produce_events/102800101.json,
 Translator,Burbur,

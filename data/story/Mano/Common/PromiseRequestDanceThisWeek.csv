@@ -1,0 +1,13 @@
+id,name,text,trans
+200100100120010,真乃,"プロデューサーさん
+私、ダンスの動きにキレがない気がして……","Producer...
+...I think that my dance isn't sharp enough."
+200100100120020,真乃,"もっとダンスレッスンをしたいですっ
+今週レッスンすることはできますか？","I want to have more dance lessons.
+Could I have a dance lesson this week?"
+select,,いいよ,Sure.
+select,,ごめん,Sorry.
+200100100990010,真乃,ありがとうございますっ,Thank you very much!
+200100100990020,真乃,そうですか……わかりました,Is that so...? Okay.
+info,produce_communications_promises/20010010012.json,
+Translator,,

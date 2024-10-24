@@ -49,7 +49,7 @@ images/ui/training/parts.json_image,training_parts.png,10
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,13
 images/ui/common/parts_filter.json_image,common_filter.png,5
 images/ui/start/parts.json_image,start_parts.png,13
-images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,11
+images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,12
 images/ui/fes/tension_check_title.png,tension_check_title.png,8
 images/ui/fes/tension_check_title_mask.png,tension_check_title_mask.png,8
 images/ui/produce_ending/parts_ceo_report.json_image,parts_ceo_report.png,8
@@ -172,7 +172,7 @@ images/content/produce_auditions/banner/011.jpg,produce_auditions_banner_011.jpg
 images/content/produce_auditions/banner/009.jpg,produce_auditions_banner_009.jpg,7
 images/content/produce_auditions/banner/012.jpg,produce_auditions_banner_012.jpg,7
 images/ui/produce_area/parts.json_image,produce_area_parts.png,15
-images/ui/album/parts.json_image,album_parts.png,18
+images/ui/album/parts.json_image,album_parts.png,19
 images/ui/update_information/parts_new_idol.json_image,update_information.png,13
 images/content/produce_auditions/banner/103.jpg,produce_auditions_banner_103.jpg,7
 images/content/produce_auditions/banner/104.jpg,produce_auditions_banner_104.jpg,7
@@ -692,7 +692,7 @@ images/tips/produce_step/004.jpg,tutorial/step_004.jpg,1
 images/tips/produce_step/005.jpg,tutorial/step_005.jpg,1
 images/tips/produce_step/006.jpg,tutorial/step_006.jpg,1
 images/tips/produce_step/007.jpg,tutorial/step_007.jpg,1
-images/ui/common/parts_idol.json_image,parts_idol.png,8
+images/ui/common/parts_idol.json_image,parts_idol.png,9
 images/tips/produce_know_how_book/001.jpg,tutorial/know_how_book_001.jpg,1
 images/tips/produce_know_how_book/002.jpg,tutorial/know_how_book_002.jpg,1
 images/tips/produce_know_how_book/003.jpg,tutorial/step_003.jpg,1

@@ -1,31 +1,44 @@
 id,name,text,trans
 7902001060010,社長,"やはりここまで来ると、
-乗り越えるべき壁も高かったな……","It only makes sense that things wouldn't get any easier as they went on, eh..."
+乗り越えるべき壁も高かったな……","It only makes sense that things wouldn't get any 
+easier as they went on, eh..."
 7901001060010,はづき,"結果は残念でしたけど……
-おふたりは立派にやってましたよ！","It's a huge shame she didn't get through, but... You two did so well!"
+おふたりは立派にやってましたよ！","It's a huge shame she didn't get through, but... 
+You two did so well!"
 7901001060020,はづき,"ここまで来れただけでも、
-胸を張って誇れることだと私は思います","You might have lost, but I think even getting this far is something to be proud of."
+胸を張って誇れることだと私は思います","You might have lost, but I think even getting this far 
+is something to be proud of."
 7902001060020,社長,"ああ、良い活躍だった
 それはたしかだ","Mm, you really gave it the old college try."
 0000000000000,プロデューサー,"……俺もそう思います
 彼女はよくやってくれました","...I think so, too. At least, I think she did amazingly."
 7901001060030,はづき,"その言葉を、彼女に直接
-言ってあげましょう？","You don't have to tell us that. Why not go and tell her, instead?"
+言ってあげましょう？","You don't have to tell us that. Why not go and tell 
+her, instead?"
 0000000000000,プロデューサー,……はい,...I'm going to.
-0000000000000,プロデューサー,咲耶。第３審査の結果が出た,Sakuya. The results from the third round of judging have come out.
+0000000000000,プロデューサー,咲耶。第３審査の結果が出た,"Sakuya. The results from the third round of judging 
+have come out."
 0000000000000,プロデューサー,残念ながら、通過できなかった,"I'm really sorry, but you didn't pass."
 7006001060010,咲耶,……そうか……,...I see...
 0000000000000,プロデューサー,"咲耶はよくがんばってくれた
-それは俺が１番わかってる","I know how hard you've worked, Sakuya. I've seen it more than anyone."
+それは俺が１番わかってる","I know how hard you've worked, Sakuya. I've seen it 
+more than anyone."
 7006001060020,咲耶,"ありがとう、そうやってプロデューサーが支えてくれるから
-私は今まで頑張ってこれた","Thank you. Producer, I only managed to push myself this far because of how well you've been supporting me."
+私は今まで頑張ってこれた","Thank you. Producer, I only managed to push myself 
+this far because of how well you've been supporting 
+me."
 7006001060030,咲耶,"いつも一緒にいてくれたプロデューサーのためにも
-『W.I.N.G.』の舞台に行きたかったんだけどね",I wanted to reach the W.I.N.G. finals just to show that all the effort you put in with me was worth it.
+『W.I.N.G.』の舞台に行きたかったんだけどね","I wanted to reach the W.I.N.G. finals just to show 
+that all the effort you put in with me was worth it."
 0000000000000,プロデューサー,"そうか……なら、その気持ちをしっかり胸に刻んで
-次に進んでいこう","Is that so... Well, Sakuya, I'll take that to heart. And let's start getting ready for next ime."
+次に進んでいこう","Is that so... Well, Sakuya, I'll take that to heart. 
+And let's start getting ready for next time."
 7006001060040,咲耶,うん、そうだね。ここで諦めるわけにはいかないよ,"Mm, you're right. I don't intend on giving up here."
 7006001060050,咲耶,"ファンの、そして何よりプロデューサーの笑顔を見るために
-いっそう努力をするつもりだよ","I want to see my fans' smiles, and I want to see yours, Producer. That's why I'm going to work even harder than before, next time."
-0000000000000,プロデューサー,よし、じゃあ早速レッスンを始めようか！,"I don't want to waste any time, Sakuya! Let's get right to practicing!"
+いっそう努力をするつもりだよ","I want to see my fans' smiles, and I want to see 
+yours, Producer. That's why I'm going to work even 
+harder than before, next time."
+0000000000000,プロデューサー,よし、じゃあ早速レッスンを始めようか！,"I don't want to waste any time, Sakuya! Let's get 
+right to practicing!"
 info,produce_events/700600106.json,
 Translator,,

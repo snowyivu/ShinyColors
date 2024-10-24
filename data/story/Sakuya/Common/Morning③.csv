@@ -1,6 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"咲耶はなんというか、神秘的な感じだよな
-あまり生活感がないというか……","Sakuya has, how should I say it, such a mysterious presence. I can't get a sense of your daily life..."
+あまり生活感がないというか……","Sakuya has, how should I say it, such a mysterious 
+presence. I can't get a sense of your daily life..."
 1006001000310010,咲耶,"クス、
 私の生活が気になるのかい？","Heh, you're interested in my daily life?"
 0000000000000,プロデューサー,そうだな。プロデューサーとして、気になるところだ,"That's right. As a Producer, I'm interested."
@@ -11,7 +12,8 @@ select,,意外と普通,Surprisingly normal.
 select,,かなり派手,Fairly flashy.
 1006001000310030,咲耶,フフ、そこまで真剣に考えてくれてうれしいよ,"Heh, I'm glad you're thinking so hard about it."
 1006001000310040,咲耶,"その想像が当たっているか……
-これからじっくりと確かめてほしいな","Is your imagination accurate... Going forward, I want you to find out."
+これからじっくりと確かめてほしいな","Is your imagination accurate... 
+Going forward, I want you to find out."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1006001000310050,咲耶,"フフ、実はそうなんだ
 家事なんかも自分でやるしね","Haha, that's true I suppose. I do all my own chores."
@@ -19,7 +21,8 @@ select,,かなり派手,Fairly flashy.
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1006001000310070,咲耶,どうして私の生活が派手だなんて思うんだい？,Why is it you think my life is flashy?
 1006001000310080,咲耶,"私は、プロデューサーに
-そういう印象を与えてしまっているのかな……",I wonder if that's the impression that I'm giving off to you...
+そういう印象を与えてしまっているのかな……","I wonder if that's the impression that I'm giving off 
+to you..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100600100031.json,
 Translator,Batsu,

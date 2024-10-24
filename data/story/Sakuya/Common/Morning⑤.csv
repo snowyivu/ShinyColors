@@ -1,10 +1,13 @@
 id,name,text,trans
 0000000000000,プロデューサー,"どうした、咲耶
-何か考えごとか？","What's wrong, Sakuya? Are you thinking about something?"
+何か考えごとか？","What's wrong, Sakuya? 
+Are you thinking about something?"
 1006001000510010,咲耶,"ああ、プロデューサー
-ひとつ、質問をしてもいいかな","Yeah, Producer. There is one thing, if I can ask you."
+ひとつ、質問をしてもいいかな","Yeah, Producer. 
+There is one thing, if I can ask you."
 1006001000510020,咲耶,"プロデューサーは、
-人との仲を深めるためには、何が大切だと思う？","Producer, what do you believe is the most important thing to deepen your relationships with people?"
+人との仲を深めるためには、何が大切だと思う？","Producer, what do you believe is the most important 
+thing to deepen your relationships with people?"
 0000000000000,プロデューサー,うーん、そうだなあ……,"Hmmm, I see..."
 select,,距離を置くこと,"Keep them at
 a distance."
@@ -13,19 +16,29 @@ select,,"相手の立場になって
 考えること","Put yourself in
 their shoes."
 1006001000510030,咲耶,"仲良くなるために、距離を置いてしまうのかい……？
-……なるほど、常に一緒にいるだけが友情ではないね","You're saying you need to keep your distance, in order to strengthen your relationships...? I see, camaraderie isn't just about being together all the time."
+……なるほど、常に一緒にいるだけが友情ではないね","You're saying you need to keep your distance in 
+order to strengthen your relationships? I see, 
+so it isn't just about being together all the time."
 1006001000510040,咲耶,"私はつい相手とともに何かをすることばかり考えてしまうが、
-そういう考えもあるんだね。新鮮な心持ちだよ","I'm always just thinking about what I can do with the other person, but there's also concepts like that. What a fresh mindset."
+そういう考えもあるんだね。新鮮な心持ちだよ","I'm always just thinking about what I can do with the 
+other person, but there's also concepts like that. 
+What a fresh mindset."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1006001000510050,咲耶,"フフ……私もそう思うよ
-相手が楽しめれば自分も楽しくなる",Haha... I was thinking that as well. When they are happy it makes me happy as well.
+相手が楽しめれば自分も楽しくなる","Haha... I was thinking that as well. 
+When they are happy, it makes me happy as well."
 1006001000510060,咲耶,"これが仲を深めるということの素晴らしさだ
-アナタも同じ考えでうれしいよ",That's the wonderful thing about strengthening your bonds with people. I'm happy you feel the same way.
+アナタも同じ考えでうれしいよ","That's the wonderful thing about strengthening 
+your bonds with people. I'm happy you feel the same 
+way."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1006001000510070,咲耶,"ああ、他人を理解することはとても大事だね
-人と関わる上で、重要な能力と言ってもいい","Yeah, understanding the other person is the most important, isn't it? It's said that that's the most important skill for interacting with others."
+人と関わる上で、重要な能力と言ってもいい","Yeah, understanding the other person is the most 
+important, isn't it? It's said that that's the most 
+important skill for interacting with others."
 1006001000510080,咲耶,"アナタが、一番得意なことかもしれないね
-私も、見習わなければ……","You're one who might be the very best at that, aren't you. I should also follow your example..."
+私も、見習わなければ……","You're one who might be the very best at that, 
+aren't you. I should also follow your example..."
 0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah… I should've said something else instead…)
 info,produce_communications/100600100051.json,
 Translator,Batsu,

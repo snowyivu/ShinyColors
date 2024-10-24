@@ -67,7 +67,7 @@ Producer?"
 A great show, like only you can do!"
 1004001050200,恋鐘,"んふふ……やろ～？
 もうアイドルオーラバチバチに出てたもんね！","Mhehe... Ain't it just～?
-I was givin' off a craklin' idol aura!"
+I was givin' off a cracklin' idol aura!"
 1004001050210,恋鐘,"あんラストの動きなんかもう……
 ホントに神がかってたと思わん！？","That last part was just...
 I was movin' like a woman possessed!"
@@ -80,7 +80,9 @@ until you goofed up at the last possible moment."
 0000000000000,プロデューサー,ファンのみんなも笑ってたぞ,The fans were all laughing too.
 1004001050230,恋鐘,ちょ！　そ、それは言わんでよかよ～！,Wait! Ain't no need to mention that～!
 0000000000000,プロデューサー,"でも、そういう前のめりで一生懸命な姿に
-ファンはみんな惹かれてるんだ。恋鐘の最高の武器だよ",But the fans are drawn to you because you're proactive and give it your all. It's your greatest weapon.
+ファンはみんな惹かれてるんだ。恋鐘の最高の武器だよ","But the fans are drawn to you because you're 
+proactive and give it your all. It's your greatest 
+weapon."
 1004001050240,恋鐘,……うん、ありがとーね！　プロデューサー！,"...Yep, thanks a bunch, Producer!"
 1004001050250,恋鐘,"うち、プロデューサーがアドバイスくれたおかげで
 吹っ切れたばい！",It's thanks to your help I could really let loose!
@@ -89,15 +91,17 @@ until you goofed up at the last possible moment."
 about failin', just the way I am!"
 0000000000000,プロデューサー,ああ！　それなら……,Yeah! In that case...
 select,,"アイドル界に
-新しい風を起こそう","Let's raise
-a new wind
-in the idol world."
+新しい風を起こそう","Let's raise a 
+new wind in 
+the idol world."
 select,,"いっぱいレッスン
 しないとな","We'll have to
-have lots of lessons."
+have lots of 
+lessons."
 select,,"もっと強みを
-活かしていこう","We'll capitalize more
-on your strengths."
+活かしていこう","We'll capitalize 
+more on your 
+strengths."
 0000000000000,プロデューサー,アイドル界に新しい風を起こそう,Let's raise a new wind in the idol world.
 1004001050270,恋鐘,"新しい……風？
 ……ってなんね？","A new... wind?

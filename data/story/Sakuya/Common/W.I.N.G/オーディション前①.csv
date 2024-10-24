@@ -1,19 +1,26 @@
 id,name,text,trans
 4006001000110010,咲耶,"フフ……もうすぐ私の番だね
-今日も頑張ってくるよ","Heh... It's my turn soon, isn't it. I'll do my best again today."
+今日も頑張ってくるよ","Heh... It's my turn soon, isn't it. I'll do my best again 
+today."
 0000000000000,プリデューサー,"（咲耶……いつもより少し笑顔が固いな
-何か緊張をほぐせるような言葉は……）",(Sakuya... Her smile's a little bit stiffer than usual. What are some words to ease her tension...)
+何か緊張をほぐせるような言葉は……）","(Sakuya... Her smile's a little bit stiffer than usual. 
+What are some words to ease her tension...)"
 select,,楽しもう,Enjoy it.
 select,,笑おう,Let's smile.
-select,,落ち着こう,Let's calm down.
+select,,落ち着こう,"Let's calm 
+down."
 4006001000110020,咲耶,"楽しむか……そうだね、そうじゃなきゃ面白くない
-この会場で、私が一番楽しんでみせるよ！","Enjoy myself...? That's right, otherwise I won't be entertaining. I'll be sure to have the utmost fun at this venue!"
+この会場で、私が一番楽しんでみせるよ！","Enjoy myself...? That's right, otherwise I won't be 
+entertaining. I'll be sure to have the utmost fun at 
+this venue!"
 0000000000000,プロデューサー,（うん、これなら大丈夫だろう）,"(Yeah, this should be fine now.)"
 4006001000110030,咲耶,"そうだね、笑顔は基本で、だけどとても大事なことだ
-……フフ。これでどうかな？","That's right. A smile is basic, but it's an important fundamental... Hehe, how's this?"
+……フフ。これでどうかな？","That's right. A smile is basic, but it's an important 
+fundamental... Hehe, how's this?"
 0000000000000,プロデューサー,（少しは表情が和らいだな）,(Seems her expression softened a bit.)
 4006001000110040,咲耶,"ああ、確かに。私としたことが……
-気をつけるよ","Yeah, certainly. I'll make sure to pay attention to what I'm doing."
+気をつけるよ","Yeah, certainly. I'll make sure to pay attention to 
+what I'm doing."
 0000000000000,プロデューサー,（もっと、別の言い方があったかもしれないな……）,(Maybe there was a different way to phrase that...)
 info,produce_communication_cheers/400600100011.json,
 Translator,Batsu,
