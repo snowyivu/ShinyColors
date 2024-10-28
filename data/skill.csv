@@ -261,7 +261,7 @@ Viレッスン,Vi Lesson,noun
 [条件:回復回数$num回以上$name全員がライブに参加],[Condition: Heal at least $1 times and $2 in unit],
 [発動制限],[Limited Use],
 リラックス効果$percent付与,Increases relaxation effect by $1,
-[回復回数増加で効果UP],Effect UP based on number of heals,
+[回復回数増加で効果UP],[Effect UP based on number of heals],
 アピールUP,Appeal UP,
 すべてのアピール値を$percentUP,Value of all appeals $1 UP,
 [超過思い出変換],[Excess is converted into Memory Gauge] ,
@@ -409,3 +409,10 @@ $noun強化,$1 Fortification,
 はじけてスマイル,Bursting Smile,text
 アツさは加速して,アツさは加速して,text
 [弾むココロ]アツさは加速して,[弾むココロ]アツさは加速して,text
+[条件:$name又は$name全員がライブに参加],[Condition: All $1 or $2 members in Live],
+回避率,Evasion Rate,noun
+瞳の輝き,Brilliance of the Eyes,noun
+$noun $percent 強化,$1 $2 Fortification,
+パッシブスキル,Passive Skill,noun
+パッシブスキル強化,Passive Skill Fortification,noun
+[条件:履歴に$nounのアイドルが$num人以上ある場合],[Condition: ≥ $2 $1 members in History],

@@ -27,6 +27,7 @@ text,trans,type
 体力サポート,"Stamina Support",text
 おやすみブースト,"Rest Boost",text
 アイドルの絆,"Idol Bonds",text
+はづきさんの絆,"Hazuki-san Bonds",text
 エクセレントブースト,"Excellent Boost",text
 オーディションマスタリー$noun,"Audition Mastery-$1",text
 ダンスマスタリー$noun,"Dance Mastery-$1",text
@@ -125,5 +126,6 @@ PERFECT\nなら効果UP,On PERFECT\nEffect,text
 ボーカルレッスン滞在率が大UP,Vocal Lesson room retention rate UP,
 ダンスレッスン滞在率が大UP,Dance Lesson room retention rate UP,
 ビジュアルレッスン滞在率が大UP,Visual Lesson room retention rate UP,
-スキル発動時に一緒に行動してトラブルが起きなかった場合、行動した場所がレベルアップ,,
-ノウハウブック獲得時、ノウハウ発現確率がUP,"Additional Know-How discovery UP when acquiring a Know-How Book",
+テンション最高時に一緒に行動すると$noun＋$num,Train together at max tension to get $1＋$2,
+スキル発動時に一緒に行動してトラブルが起きなかった場合、行動した場所がレベルアップ,"If training together for as long as trouble does not happen, the room is leveled up",
+ノウハウブック獲得時、ノウハウ発現確率がUP,"Additional Know-How discovery UP when acquiring a Know-How Book",text

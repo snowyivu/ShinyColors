@@ -1694,7 +1694,7 @@ exSkill.produceExSkillCondition.common.fesMatchGrade,グレード%{requiredFesMa
 exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解放,Unlocked when conditions are met.
 exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,Unlocked when either conditions are met.
 exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Please select \na Ex Skill slot
-exSkill.noExSkill,Exスキルを\n所持していません,No Ex Skills owned \nfor this Idol
+exSkill.noExSkill,Exスキルを\n所持していません,No Ex Skills\nowned for\nthis Idol
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
 exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}/%{totalKindNum}
 exSkill.upgradeConfirmPop.title,グレードアップ確認,Grade Up Review
@@ -2073,11 +2073,11 @@ producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れま�
 producerDesk.releaseCondition.title,解放条件,Unlock Condition
 producerDesk.releaseCondition.wingMission,初心者ミッションをクリアする必要があります,You must clear the Beginner Missions
 producerDesk.releaseCondition.trueEndMission,W.I.N.G.攻略ミッションをクリアする必要があります,You must clear the W.I.N.G. Missions
-producerDesk.releaseCondition.fanMeeting,ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります,"In order to unlock FanFest, you must\nclear Season 2 of a 「W.I.N.G. Run」"
-producerDesk.releaseCondition.grad,G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock G.R.A.D., you must\ncreate an idol with 「FanFest」"
-producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock Landing Point, you must\ncreate an idol through a 「G.R.A.D. Run」"
-producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours is currently not ongoing
-producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal
+producerDesk.releaseCondition.fanMeeting,ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります,"In order to unlock FanFest, you must\nclear Season 2 of W.I.N.G."
+producerDesk.releaseCondition.grad,G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock G.R.A.D., you must\ncreate a Fes Idol through FanFest."
+producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります,"In order to unlock Landing Point, you must\ncreate a Fes Idol through G.R.A.D."
+producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours is currently not ongoing.
+producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,You must get 3rd place or above\nin Easy Fes Rehearsal.
 filter.categories.aptitude,適性,Aptitude
 filter.categories.costumePossession,衣装所持,Has Outfit
 filter.categories.costumeType,種類,Type
@@ -2087,7 +2087,7 @@ filter.categories.voiceType,ボイス種別,Voice Type
 filter.categories.releaseCondition,解放状況,Release Condition
 filter.categories.jointFesArea,エリア,Area
 filter.categories.jointFesRewardFacilityItem,アイテム,Item
-filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,Narrows down to cards with selected Aptitudes that have A Rank or above.
+filter.cautions.aptitude,チェックしたAランク以上の適性が絞り込まれます,Narrows down to cards with A Rank or above Aptitudes.
 filter.texts.possession,所持済み,Owned
 filter.texts.notPossessed,未所持,Unowned
 filter.texts.released,解放済み,Unlocked
@@ -2265,7 +2265,7 @@ stepCommunicationReleaseDialog.notice,S.T.E.P.編のコミュはアルバムで�
 workActivityTalkAndCommu.categories.notCleared,未CLEAR,Not Cleared
 producerDesk.costume.costumeName,%{costumeName}の衣装,%{costumeName}'s outfit
 producerDesk.costume.towLinesCostumeName,%{anotherName}\n%{idolName}の衣装,%{anotherName}\n%{idolName}'s outfit
-producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,"To unlock S.T.E.P., you must clear\nSeason 1 in ""W.I.N.G.""\nand create a Fes idol."
+producerDesk.releaseCondition.step,S.T.E.P.を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります。,"To unlock S.T.E.P., you must clear\nSeason 1 in W.I.N.G.\nand create a Fes idol."
 jewelCounter.sortTitle,並び替え,Sort
 jewelCounter.typeText.daily,デイリー,Daily
 jewelCounter.typeText.weekly,ウィークリー,Weekly
@@ -2343,7 +2343,7 @@ characterAlbum.idolCommuListPop.title,アイドルコミュ,Idol Commu
 characterAlbum.commuEndPop.title,コミュ閲覧,View Commu
 autoPlay.produceSelectPopTitle,プロデュース選択,Produce Selection
 autoPlay.growthPolicySelectPop.title,育成方針選択,Growth Selection
-autoPlay.growthPolicySelectPop.notice,%{growth}に関するスキルパネルを優先的に解放し、\n%{growth}のステータスアップを中心に育成します,Prioritize unlocking skill panels related to %{growth}\nand focus on improving %{growth} status.
+autoPlay.growthPolicySelectPop.notice,%{growth}に関するスキルパネルを優先的に解放し、\n%{growth}のステータスアップを中心に育成します,Prioritize unlocking skills related to %{growth}\nand focus on improving %{growth} status.
 autoPlay.growthPolicySelectPop.vocal,Vocal,Vocal
 autoPlay.growthPolicySelectPop.dance,Dance,Dance
 autoPlay.growthPolicySelectPop.visual,Visual,Visual
@@ -2699,3 +2699,7 @@ beginnerMission.tutorial.fesUnitSelectTutorialText5,また、編成中の同じ�
 beginnerMission.lockConditionsPop.title,ミッション条件,Mission Conditions
 beginnerMission.lockConditionsPop.text,ミッションを行うには下記を満たす必要があります,"To complete the mission, you must meet the following requirements"
 produceTop.backToHomeAndGiveUpPop.title,ホームに戻る・諦める,Return to Home・Give Up
+unitName.81,283プロ,283Pro
+temp.supportEvent,サポートイベント,Support Event
+temp.produceEvent,プロデュースイベント,Produce Event
+idolList.emptyRewardFesIdolMessage,獲得しているフェスアイドルがいません,There are no Fes Idols to be acquired.
