@@ -2610,8 +2610,8 @@ exSkill.exSkillChangeConfirmPop.title,確認,Confirm
 exSkill.exSkillChangeConfirmPop.message,このExスキルは他のアイドルに設定済みです\n以下のアイドルのExスキルをはずして設定しますか？,This Ex Skill is already used by another idol.\nRemove and set Ex Skill for this Idol?
 mission.shinyPassAdBanner.rewardNameAndNum,%{rewardName}×%{rewardNum},%{rewardName}×%{rewardNum}
 option.fesTowerContentTitle.levelUpPanelConfirmation,レベルアップパネル選択時に\n確認画面を表示,Display Confirmation screen\nwhen selecting Level-Up Panel.
-option.homeContent.title.idolPrank2022,アイドルからのイタズラ【メリーさん】,Tricks from the Idols [Meri-san]
-option.homeContent.title.idolPrank2023,アイドルからのイタズラ【寝たふり】,Tricks from the Idols [Pretend to be Asleep]
+option.homeContent.title.idolPrank2022,アイドルからのイタズラ【メリーさん】,Tricks from the Idols [Mary-san]
+option.homeContent.title.idolPrank2023,アイドルからのイタズラ【寝たふり】,Tricks from the Idols [Pretend Nap]
 option.homeContent.prank.on,%{name} ON,%{name} ON
 option.homeContent.prank.off,%{name} OFF,%{name} OFF
 option.homeContent.itemName.joke2022,2022ハロウィンのおかし,2022 Halloween Sweets
