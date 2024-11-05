@@ -1,0 +1,51 @@
+id,name,text,trans
+0000000000000,off,"ハッピーハロウィンという
+メッセージが添えられたお菓子────","There is some candy with ""Happy Halloween"" written 
+on them──"
+0000000000000,off,"それは見た目はそっくりだが、 
+どちらかが『超すっぱい』ふたつのプチケーキだった","Two small cakes that look the same, but one of them 
+is ""super sour""."
+4901025280010,はるき,ふふ～、どっちにしようかなぁ～,"Fufu～, which one shall I pick～"
+0000000000000,プロデューサー,"おっ、はるき
+ノリがいいな","Oh, Haruki.
+You seem to be in a good mood."
+4901025280020,はるき,人生は楽しんだほうが勝ちですからねぇ～,"Life's better when you're having fun, right～"
+0000000000000,プロデューサー,"いい心がけだな
+よし、じゃあ────","That's a good attitude.
+Okay, then how about you──"
+select,,左を食べる,"Eat the
+left cake"
+select,,右を食べる,"Eat the
+right cake"
+0000000000000,プロデューサー,"これは……………
+すっぱ……くない……！！","This one is...
+not sour... at all!!"
+4901025280030,はるき,"んー……！
+……………！","Nnhー......!
+......!"
+4901025280040,はるき,…………はぁっ！,......Haah!
+0000000000000,プロデューサー,大丈夫か！？,Are you okay!?
+4901025280050,はるき,"ふふ……！　すごい、どうやったら
+こんなすっぱいケーキになるんでしょう……！","Fufu......! Amazing!
+How can they even make such a sour cake...!"
+4901025280060,はるき,うふふふふふ……！,Ufufufufufu...!
+0000000000000,プロデューサー,ははっ、楽しそうだな,"Haha, glad you're having fun."
+4901025280070,はるき,"うんっ、甘くて美味しい……
+と、いうことは──","Mhm, this one's sweet...
+Which means that..."
+0000000000000,プロデューサー,……！　んー…………！！,......! Nghー......!!
+4901025280080,はるき,"プロデューサーさん……！　大変……！
+早く、お茶で流し込んで……！","Producer-san...! This is terrible!
+Quick, have some tea......!"
+4901025280090,はるき,"………………
+相当、強烈みたいですねぇ……","......
+That was... really something..."
+0000000000000,プロデューサー,はは、ツーンと来たぞ……！,"Haha, that sure was something...!"
+0000000000000,プロデューサー,"ありがとう、もう大丈夫だ
+はるきの勝ち、かな？","Thank you, I'm fine now.
+I guess that means you won, Haruki?"
+4901025280100,はるき,"ふふっ……普段見られないプロデューサーさんの反応
+見られましたからねぇ……！","Fufu... I got to see a reaction I don't usually see from 
+you, Producer-san!"
+info,mypage_communications/490102528.json,
+Translator,Burbur,

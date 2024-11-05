@@ -24,13 +24,12 @@ id,name,text,trans
 select,,"救急箱を
 持ってくるよ","I'll go get
 the first
-aid kit"
+aid kit."
 select,,そう言ってもな……,"Even if
 you insist..."
 select,,"そこで
-待っててほしい","I want
-you to
-wait there"
+待っててほしい","I want you to
+wait there."
 0000000000000,,"★選択肢①【救急箱を
 持ってくるよ】",★選択肢①【I'll go get the first aid kit】
 0000000000000,プロデューサー,救急箱を持ってくるよ,I'll go get the first aid kit.
