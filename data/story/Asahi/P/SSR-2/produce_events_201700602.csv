@@ -1,0 +1,135 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──ええと……これだ
+歯ブラシ、フロントまで取りに来なきゃいけないなんてな","──Um... this is it. I have to go all the way to the front to get my toothbrush, huh?"
+0000000000000,プロデューサー,あさひにも連絡しといた方がいいか────,Should I contact Asahi too────?
+0000000000000,プロデューサー,"────っと！？
+え……っ、あさひ…………！？",───Huh!? W-what... Asahi............!?
+0000000000000,プロデューサー,"こらこらこら……！
+おーい、あさひ……！","Hey, hey, hey...! Hey, Asahi...!"
+2017006020010,あさひ,"──あれ？　プロデューサーさんっすか
+ちょっと行ってくるっす！","──Huh? Is that you, Producer? I'm going to head over there for a bit!"
+0000000000000,プロデューサー,"……じゃなくて。ホテルを出るのは禁止って
+約束したはずだぞ？","No, you're not. We agreed you wouldn't leave the hotel, remember?"
+2017006020020,あさひ,"あ、外出じゃないっす！
+窓の外、なんか飛んでったんすよ！","Oh, I'm not going out! Something flew past the window!"
+0000000000000,プロデューサー,ええっ？　なんかって────,Huh? Something like what────?
+2017006020030,あさひ,"それを確かめるっす！
+早く行かなきゃなんっすよ！",I need to check that! I have to go quickly!
+0000000000000,プロデューサー,"いや、それを外出って言うん……
+──あぁ、あさひ……！","No, that still counts as going out... Ah, Asahi...!"
+0000000000000,プロデューサー,"わかったわかった！
+俺も行くからちょっと待ってくれ────","Alright, alright! I'm going too, so just wait a moment────!"
+2017006020040,あさひ,"うーん……
+もうどっか行っちゃったっすかねー",Hmm... I wonder if it’s already gone somewhere...
+0000000000000,プロデューサー,鳥とかじゃないのか？,Isn't it something like a bird?
+2017006020050,あさひ,"未確認の飛行体かもしれないっす！
+あっ、あっち！　チカチカ光ってるの、なんっすかね……！","It might be an unidentified flying object! Oh, over there! What’s that flashing light...?"
+0000000000000,プロデューサー,"あれは……店の看板だよ
+ま、待ってくれって！",That's... a store sign. W-Wait a minute!
+2017006020060,あさひ,"あははっ、この花！
+しゃべると動くっす……！","Haha, this flower! It moves when you talk to it...!"
+0000000000000,プロデューサー,"──あぁ……懐かしいな
+音に反応して動くんだよ",──Ah... how nostalgic. It moves in response to sound.
+0000000000000,プロデューサー,……このへん、土産物の店が続くんだなぁ,...There are a lot of souvenir shops around here.
+2017006020070,あさひ,"プロデューサーさんっ
+こ、これ……100万円売ってるっすよ……！",Producer-san! Th-This... it's selling for 1 million yen...!
+2017006020080,あさひ,"100万円って……
+100万円で買えるっすかね……！？",1 million yen... Can we really buy it for that much...?!
+0000000000000,プロデューサー,"ははは、それはおもちゃのお金
+ちょっとリアルだけどな","Haha, that's toy money. It looks a bit realistic, though."
+0000000000000,プロデューサー,"──って、買い物に出てきたんじゃないんだぞ？
+飛んでったやつはいいのか？","──I mean, we didn't come out here to shop, you know? What about that thing that flew by?"
+2017006020090,あさひ,"いいっす、こっちの方が面白いっすから！
+──あぁっ！　あれは……！","It's fine, this is more interesting anyway! ──Ah! That is...!"
+0000000000000,プロデューサー,"やれやれ……
+──おーい、あさひ……","Good grief... ──Hey, Asahi..."
+2017006020100,あさひ,"プロデューサーさーん…………！
+これ、買うっすよ！",Producer-saaaan...! I'm going to buy this!
+0000000000000,プロデューサー,"──ええっ
+なんでそんなもの……！？",──Huh? Why would you want something like that...?!
+0000000000000,プロデューサー,"──まぁ、明日は帰るだけだし
+自分へのお土産ってのはいいけど……","──Well, since we're heading back tomorrow, it's fine to get a souvenir for yourself, but..."
+0000000000000,プロデューサー,"バットなんて……
+ほんとにそんなの欲しかったのか？","A bat, huh... Did you really want something like that?"
+2017006020110,あさひ,"えっ、これのことっすか？
+はいっす！","Huh, is it this? Yes!"
+0000000000000,プロデューサー,へ、へぇ……,"Oh, I see..."
+2017006020120,あさひ,"未確認飛行体が来たら、
+これで打ち返すっすよ！","If an unidentified flying object comes, I'll shoot it down with this!"
+0000000000000,プロデューサー,──ふっ……あははっ……,──Heh... Haha...
+0000000000000,プロデューサー,"なんだろうなぁ……修学旅行を思い出すよ
+いらないものをさ、いくつも買ったりして","I wonder what it is... this reminds me of my school trips, buying lots of things I didn't really need."
+2017006020130,あさひ,えっ、いるものっすよ？,"Huh? It's something I need, you know?"
+0000000000000,プロデューサー,"あぁ、そうだよな
+すまんすまん","Ah, you're right. Sorry, sorry."
+0000000000000,プロデューサー,でも……はははっ────,But... hahaha────
+select,,"うん、これがあれば
+安心だな","With this bat
+we could fend
+off anything."
+select,,"俺にも持たせて
+くれないか？","Can I hold it
+for a moment?"
+select,,"きっと、帰ったら
+忘れちゃうぞ？","You'll forget
+about it once
+you get home."
+2017006020140,あさひ,"そっす！　見ててほしいっす！
+よっ────",That's right! I want you to watch! Here I go────
+0000000000000,プロデューサー,"──っと！？
+あさひ、ここで振り回すのはダメだ！","──Whoa!? Asahi, you can't swing that around here!"
+2017006020150,あさひ,"えーっ、せっかく買ったんっすよ？
+飛んでったやつ、いないかな～","What? I just bought it, you know? I wonder if the one that flew away is around..."
+2017006020160,あさひ,もっかい探しに────,I'm going to look for it again────
+0000000000000,プロデューサー,ああっそれなら……ボールを買おう！,"Oh, in that case... let's buy a ball!"
+0000000000000,プロデューサー,"な！　ボール
+公園でそれ、振ってみよう",Hey! Let's try throwing that ball in the park.
+2017006020170,あさひ,"おおー……！
+それも面白そうっすね！",Oh wow...! That sounds fun too!
+2017006020180,あさひ,"じゃあプロデューサーさん
+ボール、買いに行くっすよ！　早く！","Alright Producer, let's go buy a ball! Hurry!"
+0000000000000,プロデューサー,はは、待ってくれ,"Haha, wait up."
+0000000000000,プロデューサー,待ってくれ、あさひ────,"Wait for me, Asahi────"
+2017006020190,あさひ,"えっ、これっすか？
+いいっすけど──","Huh, this one? Sure, but—"
+0000000000000,プロデューサー,"──おお……！
+案外、ずっしりくるな","──Oh...! Surprisingly, it feels quite heavy."
+2017006020200,あさひ,"えへへ～
+いい感じっすね！",Hehe~ It feels great!
+0000000000000,プロデューサー,……はい,"...Here, you can have it back."
+2017006020210,あさひ,"えっ、もういいんっすか？
+振ってみるっすよ！","What, already? Don'tcha wanna give it a swing?"
+0000000000000,プロデューサー,"えっ、いや、こんなところで振れないよ！
+……ちょっとな","Oh, no, I can't go swinging it in a place like this! I just..."
+0000000000000,プロデューサー,"ちょっと……
+持ってみたくなっただけなんだ",I just... Wanted to hold it for a moment.
+2017006020220,あさひ,ふーん、それじゃつまんないっすけどね,Boo! Just holdin' it is no fun.
+2017006020221,あさひ,──あっ、光るボールもあるっすよ！？,"──Woah, they sell balls that light up!?"
+0000000000000,プロデューサー,はは……やれやれだ,Haha... There she goes again.
+0000000000000,プロデューサー,──中学生だったら、振ったかな,"──If I was still a middle schooler, maybe I would have swung it."
+0000000000000,プロデューサー,変な夜だよ、なんだか,Man. What a weird night it's been...
+2017006020230,あさひ,"ええっ？
+忘れないっすよ！",Ehhh? There's no way I'll ever forget about it!
+0000000000000,プロデューサー,"俺の経験上、こういうのは忘れるんだよなぁ
+それでいつの間にか、傘立てに差さってるんだ","In my experience, I always ended up forgetting about things like that after a while. Before long that bat will just be gathering dust in your umbrella stand. "
+2017006020240,あさひ,"傘立ては関係ないっす
+これは特別なバットなんっすよ！","What's an umbrella stand got to do with anythin'! Anyway, this is an extra-special bat!
+"
+2017006020250,あさひ,"お店の人が言ってたっす！
+これは特別なバットだから、大事にしてくれって──","That's what the guy at the store said! He said, ""This is an extra-special bat, so you better take real good care of it!"""
+0000000000000,プロデューサー,えぇ……また適当な────,Eh... another half-hearted one────
+2017006020260,あさひ,"きっと、持ってたらなんか
+すっごいことが起こるっすよ！","As long as I have this bat, even a miracle might happen!
+"
+0000000000000,プロデューサー,──そっか,──I see.
+0000000000000,プロデューサー,"それじゃあ……
+早く戻って、ちゃんと手入れしないとな",Well then... we need to hurry back and take proper care of it.
+2017006020270,あさひ,"……っ！
+はいっす！",...! Yes sir!
+0000000000000,プロデューサー,"はは
+──すごいことか……","Haha. A miracle, huh...
+"
+0000000000000,プロデューサー,"もう起こってるみたいな気もするよ
+時々────",It feels like amazing things are already happening... from time to time────
+info,produce_events/201700602.json,
+Translator,"Dee (1671-1673 1688-1699, 1701,1702, 1705,1706 Not TL'ed by me)",

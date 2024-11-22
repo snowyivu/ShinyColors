@@ -1,0 +1,137 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──ふぁ……
+腹、減ったな…………",—Yawn... I'm so hungry...
+0000000000000,プロデューサー,"昼食わなかったやつ……
+──いやさすがに冷めててアレか……","I skipped lunch...—but I guess it's cold now, huh..."
+2017006040010,あさひ,"おおっ
+プロデューサーさん、コロッケっすか！","Ooh!
+Producer-san, is that a croquette?"
+0000000000000,プロデューサー,"え？　おう
+──お疲れ、あさひ","Huh? Oh—good job, Asahi."
+2017006040020,あさひ,"お疲れ様っす！
+いいな～コロッケ！",Thanks for your hard work! Lucky you with that croquette!
+0000000000000,プロデューサー,"ああ──
+まぁ、だいぶ冷めちゃってるんだけどな","Yeah... well, it's pretty cold now."
+2017006040030,あさひ,食べないんすか？,Ya not gonna eat it?
+0000000000000,プロデューサー,"うーん、腹は減ってるんだけど……
+レンチンすると、べちゃってなっちゃうしなぁ","Ah--
+If ya don't want it, I'll take it!"
+2017006040040,あさひ,"あー
+食べないんなら、欲しいっす！","Ahh, if you're not eating it, I want it!"
+0000000000000,プロデューサー,え？,Eh?
+2017006040050,あさひ,"えへへっ
+いいものがあるんっすよ！","Hehe,
+I've got somethin' good!"
+2017006040060,あさひ,"──ん、しょっ
+コッペパン、持って帰ってきたっす！",—Here we go! I’ve got some rolls with me!
+0000000000000,プロデューサー,"おー、給食か？
+でも昼はちゃんと食べなきゃ──","Oh wow, is that school lunch? But you need to eat right at lunchtime—"
+2017006040070,あさひ,昼はお腹空いてなかったんすよ,I didn’t feel hungry during lunch.
+2017006040080,あさひ,"プロデューサーさん、
+これでコロッケサンド作るっす！","Producer, I’ll make a croquette sandwich with this!"
+0000000000000,プロデューサー,お、おぉ…………！,W-whoa…!
+select,,"……実は、
+メンチもあるんだ！","…Actually, I've got some minced meat too!"
+select,,"牛乳も
+添えたいな……！",I’d like to add some milk too…!
+select,,なんて発想だ……！,What a great thought…!
+2017006040090,あさひ,"ええっ、じゃあ
+コロッケメンチカツサンドになるっすね！",Whoa! So it’ll be a croquette and minced meat sandwich then!
+0000000000000,プロデューサー,"おう！　すごいな
+それなら冷めててもいける──",Yeah! That sounds awesome; even if it's cold it'll be good!
+2017006040100,あさひ,えっ、プロデューサーさんも食べるっすか,"Wait, are you going to eat too, Producer?"
+0000000000000,プロデューサー,"──あぁ、いや……あさひにあげるんだもんな
+つい美味そうだなって思って、はは",Ahh no… I was just thinking of giving it to you because it looks so good.
+2017006040110,あさひ,"あー
+じゃあ半分こっすね","Ahh, then let’s split it in half."
+0000000000000,プロデューサー,ほんとか,Really?
+2017006040120,あさひ,"いいっすよ
+えっと、パンの真ん中を割って────",Sure thing; let’s cut the bread in half────
+0000000000000,プロデューサー,"あ、待ってくれ
+せっかくならもっといい感じにしよう！","Ah, wait!
+Since we're at it, let's make it even better!"
+0000000000000,プロデューサー,バターか何かないかな……,I wonder if we have any butter or something…
+2017006040130,あさひ,"……！　すっごいやつにするっすか！？
+それならソースがいいっす","...! Are we makin' it super fancy!?
+Then we need sauce!"
+0000000000000,プロデューサー,"あぁ、ソースもいいな
+本当はキャベツがあったら最高なんだけど",Ah yeah; sauce would be great; cabbage would really top it off.
+2017006040140,あさひ,"ダメっすよ！
+キャベツよりタマゴサラダがいいっす！",Not happening! Egg salad beats cabbage any day!
+0000000000000,プロデューサー,"そ、それは最高だけど……！
+ないよ、さすがに",W-well that's fantastic but... we don't have any.
+2017006040141,あさひ,…………,…………
+2017006040142,あさひ,────あぁー、ない…………！,...——Ohh no... there's none...
+0000000000000,プロデューサー,"──よし、あさひ
+コンビニ行こう","—Alright Asahi, let's head to the convenience store."
+2017006040150,あさひ,"……！　はいっす！
+タマゴサラダっすね",...! Yes! Egg salad will do nicely!
+0000000000000,プロデューサー,"おう、タマゴサラダもソースもバターも……
+全部だ！",Yeah! We need egg salad and sauce and butter... everything!
+2017006040160,あさひ,"えっ、せっかくなら
+もっといい飲み物がいいっすよ！",Huh? If we're at it let's get better drinks too!
+0000000000000,プロデューサー,"はは、あさひはいつも飲んでるんだもんな
+給食を思い出したら、懐かしくてさ……","Haha, Asahi always has those drinks; thinking about school lunches makes me nostalgic..."
+0000000000000,プロデューサー,"俺もこうして、フォークみたいなスプーンでさ
+パンの真ん中を割って……",I used to do this too with a fork-like spoon and break the bread in the middle...
+2017006040170,あさひ,"あっ、プロデューサーさん
+お腹鳴ったっす！","Ah, Producer-san,
+your stomach just growled!"
+0000000000000,プロデューサー,す、すまん……,S-sorry...
+2017006040180,あさひ,"牛乳はないけど、
+色々あるっすよ","We don't have milk,
+but we've got lots of other stuff."
+2017006040190,あさひ,"えっと、ちくわの磯辺揚げと
+キャラメルポテトと冷凍みかんと──","Um…I’ve got fried chikuwa with seaweed batter and caramel potatoes and frozen mandarins—and─"""
+0000000000000,プロデューサー,"えっ、キャラ……？
+──っていうか、そんなに持って帰ってきたのか",What? Caramel...? Did you actually carry all that back?
+2017006040200,あさひ,"食べないなら、
+基地に置いてくるっす","If ya don't want 'em,
+I'll put 'em in the base."
+0000000000000,プロデューサー,"えっ、いや基地って倉庫のことだろ……！
+生ものを置いちゃダメだ","Wait, no. Base means storage right...? You can’t leave raw stuff there!"
+2017006040210,あさひ,ええー,Ehh?
+0000000000000,プロデューサー,"っ、すまん……腹が────
+これ……もらっていいのか？",S-sorry…I’m just so hungry—can I take this?
+2017006040220,あさひ,"まぁ、半分こになるっすけど
+いいっすよ","Well, we're splittin' it,
+but sure."
+0000000000000,プロデューサー,そ、それじゃあ──！,T-then let's──！
+2017006040230,あさひ,"はいっす
+それじゃあ、給食っす！",Sure thing then—it’s like school lunch time now!
+0000000000000,プロデューサー,あさひ、それはすごいな……,"Asahi, that's amazing…"
+2017006040240,あさひ,じゃあ、コロッケもらうっすよ,Then I'll take the croquette too.
+0000000000000,プロデューサー,"お、おう……！
+あっ、やっぱり待った！",O-oh… wait up!...
+2017006040250,あさひ,……？,……？
+0000000000000,プロデューサー,"コロッケを渡すかわりに、
+俺にもひと口もらえないかな？","Instead of giving you the croquette,
+can I have a bite of that?"
+2017006040260,あさひ,え、コッペパンっすか？,"Eh, the bread roll?"
+0000000000000,プロデューサー,いや、コロッケパンになったところをひと口……,"No, a bite of the croquette sandwich..."
+2017006040270,あさひ,"あー、いいっすよ
+じゃあパン割るんで──","Ah, sure.
+I'll split the bread--"
+2017006040280,あさひ,それじゃ、いただきまーす！,"Well then, let's eat!"
+2017006040281,あさひ,むっ……んぐ……,Mmm... Delicious...
+0000000000000,プロデューサー,"……いい食べっぷりだ
+美味いか？",...You’re really enjoying that! Is it tasty?
+2017006040290,あさひ,"ふあいっす！
+んぐ……","It'sh delishioush!
+Nom..."
+0000000000000,プロデューサー,"おう、よかったな！
+──ええと、その……","Great to hear! —Uh, so..."
+2017006040300,あさひ,むっ……むぐ…………,Mmm... Munch...
+0000000000000,プロデューサー,えっと、俺の分……────,"Um, what about my share...? —"
+0000000000000,プロデューサー,────…………,────…………
+2017006040310,あさひ,"──あー！　美味しかったっす！
+はい、これどうぞっす",--Ah! That was delicious! Here you go!
+0000000000000,プロデューサー,"お、おお……！
+忘れられたかと思った……",O-oh…! I thought I’d been forgotten…
+2017006040320,あさひ,"忘れないっすよ
+プロデューサーさんのひと口、作ったんす！",I didn't forget; I made sure to get your piece!
+0000000000000,プロデューサー,"あぁ、なるほど……！
+ひと口を作ったのか…………","Ohhh, got it…! You prepared a piece for me…"
+0000000000000,プロデューサー,────なんて発想だ……,What an idea…!
+info,produce_events/201700604.json,
+Translator,Dee,

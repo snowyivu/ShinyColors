@@ -1,0 +1,71 @@
+id,name,text,trans
+1015004040010,甜花,"『今日
+レッスン行くことにしました』","""Tenka chose to go to lessons today"""
+1015004040020,甜花,『今から２時間くらい』,"""About 2 hours from now"""
+1015004040030,甜花,『プロデューサーさんは？』,"""What about you, Producer-san?"""
+1015004040040,甜花,『来る？』,"""Wanna come?"""
+0,プロデューサー,"『すまん！　行けなさそうだ
+今日は仕事が立て込んでて』","""Sorry! Doesn't look like I can. I have a ton to do
+today"""
+1015004040050,甜花,『了解』,"""Roger that"""
+0,プロデューサー,（──自主レッスンか……）,"(──An independent lesson, huh...)"
+0,プロデューサー,（甜花、頑張ってるな……）,(Tenka's working pretty hard...)
+0,プロデューサー,"『ワンマンライブに向けて
+あと少し』","""Just a little longer until the one man concert"""
+0,プロデューサー,『がんば』──,"""Do your best""──"
+0,プロデューサー,……──,...──
+1015004040060,甜花,"……甜花……
+もう、頑張ってる……",......Tenka's...... already... doing her best......
+1015004040070,甜花,……だから,......So.
+1015004040080,甜花,"甜花は、
+これ以上『頑張れ』って、言えない……","Tenka... can't really say ""do your best""... anymore......"
+0,プロデューサー,（……甜花が頑張ってることは、わかってるんだ）,(...I know that she's trying her hardest.)
+0,プロデューサー,"（……わかってるからこそ
+頑張る甜花を心から応援したいと思ってるのに）","(...It's actually because I know that I want to support
+her so much, but..."""
+0,プロデューサー,──頑張れ,──Do your best.
+0,プロデューサー,"（これじゃあ
+甜花には、伝わらないのか……）","(So then, I guess I won't say it directly to her...)"
+0,プロデューサー,…………,......
+1015004040090,甜花,──……,──......
+1015004040100,甜花,"そっか……
+今日は……プロデューサーさん、来ないんだ……","Right......
+Producer-san... can't come today......"
+1015004040110,甜花,…………,............
+1015004040120,甜花,（──そうだ……）,(──That's right......)
+1015004040130,甜花,"（なーちゃんと、千雪さんに……
+連絡でも、しよ……）","(Maybe Tenka could... contact Naa-chan and
+Chiyuki-san......)"
+1015004040140,甜花,……──,......──
+1015004040150,甜花,（──送信）,(──Sent.)
+1015004040160,甜花,…………,............
+1015004040170,甜花,（『#グッドネムレナイト』……）,"(""#GoodSleeplessNight""......)"
+1015004040180,甜花,（──検索）,"(──""search"")"
+0,off,『甜花ちゃんの声、癒された～～』,"""Tenka-chan's voice healed me~~"""
+1015004040190,甜花,…………,............
+0,off,"『どのお手紙にも真剣に答える甜花ちゃんは
+やさしいしかわいい』","""Tenka's so cute and kind, with how she gives such
+earnest answers to every letter"""
+0,off,『再復活希望！！！！』,"""I hope they renew it again!!!!"""
+1015004040200,甜花,……にへへ……,......Nihehe......
+0,off,"『グッド・ネムレナイトのせいで
+ワンマンライブまで眠れん』","""I can't sleep at all for the one man concert thanks
+to Good Sleepless Night"
+1015004040210,甜花,……ワンマン、ライブ……──,......One man... concert......──
+1015004040220,甜花,"──！
+……あ、なーちゃんから……！",──! ......Oh... Naa-chan responded......!
+1015004040230,甜花,えと……,Um......
+1015004040240,甜花,（ひとりレッスン、さみしくない、よ──）,(Tenka's... not that lonely... at her lesson──)
+1015004040250,甜花,"わ……
+千雪さんも……！",Aww...... Chiyuki-san too......!
+1015004040260,甜花,"（甜花も、
+３人で、あわせるの、楽しみ──）","(Tenka's... looking forward to... meeting up with
+them──)"
+1015004040270,甜花,──……,──......
+1015004040280,甜花,……着替えよう、かな……！,......Let's... go get changed......!
+1015004040290,甜花,"（──それで
+新曲の振り……）",(──Now then... the dances... for the new song......)
+1015004040300,甜花,"（おさらいから……
+はじめよ……！）",(Let's start with...... review......!)
+info,produce_events/101500404.json,
+Translator,kotonekotoP,

@@ -1,0 +1,47 @@
+id,name,text,trans
+0000000000000,off,"ハッピーハロウィンという
+メッセージが添えられたお菓子────","There is some candy with ""Happy Halloween"" written 
+on them──"
+0000000000000,off,"それは見た目はそっくりだが、 
+どちらかが『超すっぱい』ふたつのプチケーキだった","Two small cakes that look the same, but one of them 
+is ""super sour""."
+4901025270010,羽那,"えーっ、それなら
+一緒に美味しいケーキを食べた方がよくない？","Eeeh, in that case, wouldn't it be better if we ate 
+these delicious cakes together?"
+0000000000000,プロデューサー,"はは……！
+まぁそうなんだが、せっかくのハロウィンだしさ","Haha...!
+True, it is Halloween after all."
+4901025270020,羽那,"そっかー
+じゃあ、プロデューサーから選んでいいよ？","Okaaay.
+Then, how about you choose which one, Producer?"
+select,,左を食べる,"Eat the
+left cake"
+select,,右を食べる,"Eat the
+right cake"
+0000000000000,プロデューサー,"…………！！
+す、すっぱ…………！","......!
+S-So sour......!"
+4901025270030,羽那,えーっ、プロデューサーがはずれ？,"Eeeh, you lost?"
+4901025270040,羽那,……じゃなくて、当たり？,...... Or won maybe?
+0000000000000,プロデューサー,"はは……
+ど、どっちだろうな……","Haha......
+I... I wonder which one it is..."
+4901025270050,羽那,"大丈夫？　今、飲み物持ってくるね
+ちょっと待ってて──！","Are you okay? I'll get you a drink. 
+Just wait a minute!"
+0000000000000,プロデューサー,"──……
+甘くて美味しいな──","──...
+Sweet and delicious──"
+0000000000000,プロデューサー,（ってことは──）,(Which means──)
+4901025270060,羽那,"～～っ……
+すっぱーいっ……","～～......
+Sooo sour..."
+0000000000000,プロデューサー,"す、すまん……！
+こっちの甘いやつで口直しするか？","S-sorry...!
+Would you like to cleanse your palate with some of 
+this cake?"
+4901025270070,羽那,"……いいの？
+ありがとうーっ……","...Is that okay?
+Thank yooou..."
+info,mypage_communications/490102527.json,
+Translator,Burbur,

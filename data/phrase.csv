@@ -320,7 +320,7 @@ fes.top.title,フェス,FES
 fes.top.scoreTitle,現在のスコア,Current Score
 fes.top.rankingTitle,グレード内順位/,Grade Pos
 fes.top.score,%{value}pt,%{value}pt
-fes.top.ranking,%{value}位,Rank %{value}
+fes.top.ranking,%{value}位,Rk %{value}
 fes.top.rankingInCalculation,集計中,Calculating
 fes.top.gradeTotalUserNum,%{value}人中,%{value} Ps
 fes.top.gradeEvaluationLimit,グレード判定期間  %{mounth}/%{date} %{hour}:%{minute}まで,Grade Period Cutoff at %{mounth}/%{date} %{hour}:%{minute}
@@ -353,13 +353,13 @@ fes.pauseSkillTitle.dance,ダンス担当,Dance Position
 fes.pauseSkillTitle.visual,ビジュアル担当,Visual Position
 fes.pauseSkillTitle.leader,リーダー,Leader
 fes.pauseSkillTitle.center,センター,Center
-fes.orderText,%{order}位,%{order} rank
+fes.orderText,%{order}位,Rk %{order}
 fes.result.changedSeasonMessage,グレードフェスのシーズンが切り替わったため、\n今回のスコアはグレードに反映されません。,Since the Grade Fes season has changed\r\n This score will not be reflected in the current season. 
 fes.result.match.title,LV%{level} グレードフェス,Grade Fes LV%{level}
 fes.result.match.bonusTitle,ボーナス,Bonus
 fes.result.rehearsal.title,フェスリハーサル,Fes Rehearsal
 fes.result.rehearsal.bonusTitle,難易度,Difficulty
-fes.result.ranking,%{value}位,Rank %{value}
+fes.result.ranking,%{value}位,Rk %{value}
 fes.result.outOfRanking,ランキング範囲外,Unranked
 fes.result.scoreDetail.title,スコア詳細,Score Info
 fes.result.scoreDetail.item,項目,Item
@@ -1181,7 +1181,7 @@ characterBirthday.characterBirthdayListPop.birthday,%{month}/%{day},%{month}/%{d
 characterBirthday.characterBirthdayListPop.month,月,Month
 characterBirthday.characterBirthdayListPop.title,誕生日確認,Confirm Birthday
 characterBirthday.givePresentDialog.text,自然回復の上限を超えて回復でき、\n誕生日ミニコミュが解放されます,"You can store above the max limit,\nand the birthday mini commu will be unlocked."
-characterBirthday.specialCommunicationDialog.txtNotice,「あとで再生」を選んだ場合、\n期間中誕生日特設ページで再度この確認が表示されます。,"If you select 「Play Later」,\r\nThis popup will appear again on the birthday page."
+characterBirthday.specialCommunicationDialog.txtNotice,「あとで再生」を選んだ場合、\n期間中誕生日特設ページで再度この確認が表示されます。,"If you select 「Play Later」,\nthis popup will appear again on the\nbirthday page."
 errorDialog.closedText,期間は終了しました,This has ended. 
 errorDialog.eventClosedTitle,イベント期間外,Event Over
 errorDialog.expiredProduceItem,アイテムの使用期限が終了したため\n持ち込むことができませんでした\n\n再度アイテムを選択し直してください,"This item has expired,\nso it could not be selected.\nPlease select items again."
@@ -1848,7 +1848,7 @@ fesTower.liveItemSelect.staffComment,ライブアイテムは１種類につき�
 fesTower.concertResult.enduranceDecreasePopTitle,体力減少,Stamina Decreased
 fesTower.concertPause.itemHeader,ライブアイテム効果,Item Effects
 fesTower.concertPause.advantageHeader,アドバンテージ効果,Advantage Effects
-fesTower.concertPause.clearConditionDefault,2位以上で通過,Rank 2nd or 1st to clear
+fesTower.concertPause.clearConditionDefault,2位以上で通過,Rank 2nd or higher to clear
 fesTower.concertPause.stageLimitNone,ステージ制限がありません,No restrictions.
 fesTower.concertPause.retryLocked,該当のアドバンテージが\n解放されていません,You have not unlocked\nthis Advantage
 fesTower.tensionResultPop.tensionUp,テンションが上がりました,Tension increased
@@ -2112,7 +2112,7 @@ common.knowHowBook,ノウハウブック,Know-How Book
 concert.judge.interestingRatio,%{value}倍,%{value}x
 concert.judgeDetailDialog.interestingRatio,×%{value}倍,×%{value}
 concert.fightSkill.noFightSkillMessage,ファイトスキルがありません,No Fight Skills
-concert.skillChangeableCount,あと%{skillChangeableCount}回,%{skillChangeableCount} times left
+concert.skillChangeableCount,あと%{skillChangeableCount}回,%{skillChangeableCount}x left
 autoConcertResult.unlockNotice,%{name}解放,Unlocked %{name}
 possessionLimitDialog.title,所持上限オーバー,Owned limit has exceeded.
 possessionLimitDialog.message,所持上限を超えているため\n移籍/売却をするか上限枠を解放してください,Owned limit exceeded.\nPlease transfer/sell or increase the slot limit.
@@ -2206,10 +2206,10 @@ jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費�
 jointFes.ready.unitEmptyPop.title,確認,Confirm
 jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,"Match Live Unit is empty,\nLive cannot start."
 jointFes.seasonChange.title,マッチライブ更新,Match Live Update
-jointFes.seasonChange.commonMessage,マッチライブのシーズンが切り替わりました\nイベントポイントやミッション・ショップなどがリセットされます,"Match Live season has changed.\nEvent Pts, Missions, Shops and such will be reset."
-jointFes.seasonChange.titleMessage,前シーズンのランキング報酬として以下を獲得しました,Received following Ranking Rewards from previous season:
+jointFes.seasonChange.commonMessage,マッチライブのシーズンが切り替わりました\nイベントポイントやミッション・ショップなどがリセットされます,"The Match Live season has changed.\nEvent Pts, Missions, Shops and such are reset."
+jointFes.seasonChange.titleMessage,前シーズンのランキング報酬として以下を獲得しました,Received the following Ranking Rewards\nfrom the previous season:
 jointFes.seasonChange.titleCategories.joint_fes_group_ranking,・総合ランキング称号ｘ1,・Overall Ranking Titleｘ1
-jointFes.seasonChange.titleCategories.joint_fes_point_ranking,・累計ポイントランキング称号ｘ1,・Total Points Ranking Titleｘ1
+jointFes.seasonChange.titleCategories.joint_fes_point_ranking,・累計ポイントランキング称号ｘ1,・Total Pts Ranking Titleｘ1
 jointFesConcert.scoreInfo.popTitle,スコア詳細,Score Info
 jointFesConcert.scoreInfo.player,＜あなた＞,＜You＞
 jointFesConcert.scoreInfo.rival,＜ライバル＞,＜Rival＞

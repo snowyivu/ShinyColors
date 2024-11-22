@@ -1,0 +1,146 @@
+id,name,text,trans
+0000000000000,プロデューサー,──おっ……と,"──Uh... Woah.
+"
+0000000000000,プロデューサー,"……なんだこれ
+配置が変わってる……？",What's this? The layout's changed...?
+0000000000000,プロデューサー,"おわっ……！
+ちょっ……────",Uwah...! Whew...
+0000000000000,プロデューサー,"はぁ……
+このへん、もはや巣って感じだな",Hah... This area's practically become a nest now.
+0000000000000,プロデューサー,"──こんなアンバランスに
+なんでも積んどくから……",──Piling things up so haphazardly like this...
+0000000000000,プロデューサー,"……？
+なんだこれ。こんなのあったか────",...Hm? What's this doing here. Was this here before──
+select,,……『世界の謎』,"A book,
+""Mysteries of
+the World""."
+select,,え、簡易\nテント……？,A pop-up tent...?
+select,,棒……？,A stick...?
+0000000000000,プロデューサー,"この本って────
+あー……なるほど","Isn't this the book I gave──
+Aha... I think I know what's going on here."
+0000000000000,プロデューサー,"──あっ、おーい
+あさひ","──Oh, hey Asahi!"
+0000000000000,プロデューサー,"ちょっと聞きたいんだけど、
+下の倉庫の中、なんか触ったりしたか？","I wanted to ask, did you mess with anything in the storage room downstairs?"
+2017006010010,あさひ,"あ、はいっす
+色々触ったっす！","Oh, sure have! I've been doin' lotsa messin'.
+"
+0000000000000,プロデューサー,"ああ……えっと
+整理してくれたとか？","Ah... Um, did you organize things or...?"
+2017006010020,あさひ,"整理じゃないっすけど
+あの部屋、借りてるっす！","Well, I'm not really organizin' stuff. I'm usin' it."
+0000000000000,プロデューサー,えっ、借りて……？,"Um, ""using"" it, how...?"
+2017006010030,あさひ,色々置いてるんっすよ,I've been bringing all sortsa stuff over there.
+2017006010040,あさひ,"大事なものも結構あるから、
+あんまり触らないでほしいっす","Summa it's very precious, so don't go touchin' anything.
+"
+0000000000000,プロデューサー,いやいや、あさひ──,"Wait a second, Asahi──
+"
+2017006010050,あさひ,"あっ、でもわたしのいる時だったら案内するっすよ！
+これから改造して基地にするっすから！","Oh, but I can show ya 'round when I'm there!
+I'm gonna turn it into a secret base!"
+2017006010060,あさひ,"知ってるっすか！？
+海の底には色んな謎が眠ってるんす！","Hey, didya know!? There's all sortsa mysteries hiding in the depths of the ocean blue!"
+0000000000000,プロデューサー,"……ああ
+『世界の謎』────","...There sure are. Just as it's written in ""Mysteries of the World""──"
+2017006010070,あさひ,"そうっす！　謎の遺跡とか、変な生き物の巣とか……！
+あそこは、そういう感じにしたいんすよ！",Zactly! Ruins of a long-lost civilizations and nests of strange beasts and all that stuff...! That's the kinda secret base I wanna build!
+0000000000000,プロデューサー,"────ははっ、そうか
+うん……","──Hahah, I see. Well..."
+0000000000000,プロデューサー,"……わかったよ、俺も興味わいてきた
+助手にしてくれるか？",...I get it. You've made me curious too. Would you let me be your assistant in building your secret base?
+2017006010080,あさひ,"ほんとっすか！
+いいっすよ！",Ya wanna? Of course ya can!
+0000000000000,プロデューサー,"そのかわり……
+倉庫はみんなも使うから、今より基地を広げないこ──","However, under one condition... Since everyone else has to use that warehouse too, don't take up any more spa──"
+2017006010090,あさひ,"あははっ、やった～
+助手っす助手っす～！",Ahahah! Yay! Assistant～!  Assistant～!
+2017006010100,あさひ,"じゃあ案内するっすよ！
+早く早く！　行くっす！","I gotta show ya around then! Hurry, let's go!"
+0000000000000,プロデューサー,──あ、ちょっと待ってくれ……！,"──Hey, slow down...!
+"
+0000000000000,プロデューサー,"（はは……色々ツッコみたいけど
+しばらく様子見かな────）","(Haha... I'll need to stop her eventually. But for now, I think I'll just wait and see.) "
+0000000000000,プロデューサー,"……
+しっかり張られてるな…………",...A pop-up tent. It's been set-up up too...
+2017006010110,あさひ,"あっ、プロデューサーさん
+そこ、どいてほしいっす","Ah, Producer-san,
+could ya move from there?"
+0000000000000,プロデューサー,"──おう、あさひか
+すまんな。ちょっとここ今、取込み中だ","──Oh, Asahi. Sorry about that. I'm a bit busy here right now."
+2017006010120,あさひ,……？,……？
+0000000000000,プロデューサー,"誰か、ここにテント張ってるみたいでさ
+このままにしとけなく──","It seems like someone has set up a tent here, so I can't just leave it like this──"
+2017006010130,あさひ,"これっすか？　わたしの基地っす
+プロデューサーさんも入りたいんすか？","This? It's my base.
+Ya wanna come in, Producer-san?"
+0000000000000,プロデューサー,"え……
+あ、いや────","Uh... No, wait────"
+2017006010140,あさひ,"どっちっすか？
+忙しいんすから、入るなら早くするっす！","Which is it?
+I'm busy, so if you're comin' in, hurry up!"
+0000000000000,プロデューサー,あ、ああ……じゃあ────,"Ah, I see... then────"
+0000000000000,プロデューサー,"──なんにもないみたいだけど……
+基地なのか？",──It seems like there's nothing here... Is this really a base?
+2017006010150,あさひ,"はいっす！
+これから色々増やすっすよ！","Yep!
+I'm gonna add lots more stuff!"
+2017006010160,あさひ,"今はなんにもなくて真っ暗だけど
+この中いると色んなイメージが浮かんでくるんっすよね……","Right now it's empty and dark,
+but when I'm in here, I can imagine all sorts of things..."
+2017006010170,あさひ,"どんな感じにするか、迷ってるんっすよ！
+砂漠とか、謎の島とか、空の上の要塞とか──","I'm still decidin' what to make it like!
+A desert, a mysterious island, a fortress in the sky--"
+2017006010180,あさひ,"あー！
+どんな基地になるっすかね～！",Ah! I wonder what kind of base it will become~!
+0000000000000,プロデューサー,──あさひ……,──Asahi...
+0000000000000,プロデューサー,"仕方ない、
+ほんとはこんなとこで勝手しちゃいけないんだけど──","I guess it can't be helped. I really shouldn't be doing this here, but──"
+0000000000000,プロデューサー,"しばらく見逃してもらうようにするから
+あさひはこのスペースの外のもの、もう触らないこと","I'll ask them to let it slide for a while, so Asahi, don't touch anything outside of this space anymore."
+2017006010190,あさひ,"……？
+まぁ、触らないのはいいっすけど","...?
+Well, I'm fine with not touchin' stuff."
+0000000000000,プロデューサー,"『はい』な！
+よろしく頼む！",Got it! I'm counting on you!
+0000000000000,プロデューサー,"（やれやれ……
+でも──）","(Good grief... But, well──)"
+0000000000000,プロデューサー,"あんな楽しそうにされたんじゃ、
+取り上げられないよ──","When she looks so happy,
+I just can't take it away--"
+0000000000000,プロデューサー,"──誰か拾ってきたのか……？
+何に使うんだこんな枝…………",──Did someone pick this up...? What are we going to use such a branch for...?
+0000000000000,プロデューサー,……なんか、色々置いてあるな,...It seems like there are various things placed here.
+0000000000000,プロデューサー,"わぁっ……！
+まずい────",Wow...! This is bad────
+2017006010200,あさひ,──何してるんすか？,──--What are ya doin'?
+0000000000000,プロデューサー,"……す、すまん
+何もやってないんだが────","...S-sorry. I'm not doing anything, though────"
+2017006010210,あさひ,"わっ！　すごいっす！
+ぐちゃぐちゃっす！　巣みたいになってるっす！",Wow! This is amazing! It's all messy! It looks like a nest!
+2017006010220,あさひ,"こんなふうにしたかったんすよ！
+これ、プロデューサーさんがやったんすか！？","I wanted it to be like this! Did you do this, Producer!?"
+0000000000000,プロデューサー,"い、いや……巣……？
+あさひ、ここで何かやってるのか？","N-no... a nest...? Asahi, are you doing something here?"
+2017006010230,あさひ,"ここ、ツバメの巣の真似してるんっす！
+色んなものでできた、いい感じの基地にしたいんっすよ！","I'm tryin' to copy a swallow's nest here!
+I wanna make a cool base out of all sorts of things!"
+2017006010240,あさひ,"これはだいぶいい感じっす！
+すごいっすすごいっす～！","This feels really great! It's amazing, it's amazing~!"
+0000000000000,プロデューサー,"──ま、待ってくれあさひ……！
+ここ、倉庫だからな！","──W-wait a minute, Asahi...! This is a storage room, you know!"
+2017006010250,あさひ,……っ,……
+0000000000000,プロデューサー,あ、いや……すまん,"Ah, no... I'm sorry."
+0000000000000,プロデューサー,"巣を作るっていうのはさ……面白い発想だと思う
+けど、ここはみんなで使う場所だからさ","I think the idea of making a nest is... interesting. But this is a place that everyone uses, you know."
+0000000000000,プロデューサー,"もうちょっと、そのことを考えながら
+やってみてくれたら嬉しい",I would be happy if you could think about that a little more while trying to do it.
+2017006010260,あさひ,……えー、それじゃつまらなくなるっすよ,"..Eeh, but that'll make it boring."
+0000000000000,プロデューサー,あっ、あさひ────！,"Ah, Asahi────!"
+0000000000000,プロデューサー,"──……ふぅ
+ちょっと、様子見てみるか……",──...Phew. I guess I'll just observe the situation for a bit...
+0000000000000,プロデューサー,"でも、さすがに……
+ここはもうちょっと、片付けるからな────！","But, come on... I'll need to clean this place up a bit more────!"
+info,produce_events/201700601.json,
+Translator,"Dee (Half, not sure who was TLing this before me)",

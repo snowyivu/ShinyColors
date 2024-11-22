@@ -17,15 +17,15 @@ Which one should I go with..."
 少しざらついてるんです",The paper is bulky and... the sound is rough.
 2016014010080,千雪,……ね？,...right?
 0000000000000,プロデューサー,"うーん……！
-そう言われればそんな気もするけど……","I see...! I kinda get it when you put it that way, but..."
+そう言われればそんな気もするけど……",I see...! I kinda get it when you put it that way...
 0000000000000,プロデューサー,"……うん。ゆっくり選んでくれ
-これから千雪のこと、書きこんでいく手帳なんだもんな","...Never mind. Just take your time to choose one. After all, it's going to be the notebook that you'll be writing in from now on."
+これから千雪のこと、書きこんでいく手帳なんだもんな","...Alright. Take your time to choose one then. After all, it's going to be the notebook that you'll be writing in from now on."
 2016014010090,千雪,"わぁ
 はい……！","Waa, I will...!"
 2016014010100,千雪,そうですね……,Let's see...
 2016014010110,千雪,……うん、こっちの臙脂の手帳にしようかな,...Maybe I'll get this dark red colored notebook then.
 0000000000000,プロデューサー,"おお
-決め手を聞いてもいいか？",Ohh. May I ask what made you choose that?
+決め手を聞いてもいいか？",Ohh. Could I ask why you chose that?
 2016014010120,千雪,────書き味……でしょうか,──The texture... I guess.
 2016014010130,千雪,"気持ちいいだろうなぁって、思うんです
 ペンでも、鉛筆でも……",I thought it felt kinda nice. Whether it's with a pen or pencil...
@@ -33,9 +33,9 @@ Which one should I go with..."
 絵を描いたりするのも楽しそう……！",it feels like it'd be enjoyable to write or draw on it...!
 0000000000000,プロデューサー,ああ……,It does feel that way...
 2016014010150,千雪,"予定だけ書きこんでたら、
-きっと満足できなくなると思いません？",Don't you think you'll be unsatisfied if you simply use it to note down your schedule?
+きっと満足できなくなると思いません？",Don't you think you'll be unsatisfied if you only use it to note down your schedule?
 2016014010160,千雪,"この手帳なら、感じたこととか、色んなこと、
-いっぱい書けそうだなぁ……って","On this notebook, I feel like I can pen down many of my feelings and other things as well..."
+いっぱい書けそうだなぁ……って","On this notebook, I feel like I can pen down many of my feelings and various other things as well..."
 0000000000000,プロデューサー,"なるほどな……
 はは、今回の仕事の第一ページには、打ってつけだな","I see... Haha, it seems perfect for the first page of your work this time around then."
 0000000000000,プロデューサー,新連載『桑山千雪のお気に入り』,"For the new serialisation of ""Chiyuki Kuwayama's Favourite Things""."
@@ -44,23 +44,23 @@ Which one should I go with..."
 0000000000000,編集長,"──うちのテーマは
 『いつも頑張る私へのご褒美』としております","──The theme we're going for is ""A treat for myself for always working hard""."
 0000000000000,編集長,"メインの読者である二十代の働く女性に、
-日々の彩りや、貴方は頑張ってるという声を届けたい……","We want to add color to the daily lives of our main readers, who are working women in their twenties, and let them know that they're doing their best..."
+日々の彩りや、貴方は頑張ってるという声を届けたい……","We want to add color to the daily lives of our main readers, working women in their twenties, and convey to them to continue doing their best..."
 0000000000000,編集長,そんな気持ちでコンテンツ制作に励んでいるんですよ,That's the kind of content we are striving to create.
-2016014010180,千雪,『いつも頑張る私へのご褒美』────,A treat for myself for always working hard ──
+2016014010180,千雪,『いつも頑張る私へのご褒美』────,"""A treat for myself for always working hard"" ──"
 2016014010190,千雪,"──ええ
 読ませていただいて、確かにそんなふうに感じました",── I certainly did feel rewarded after reading it.
 2016014010200,千雪,素敵な雑誌ですね……,What a wonderful magazine...
 0000000000000,編集長,フフッ、ありがとうございます,"Fufu, thank you for your praise."
 0000000000000,編集長,"そうなんです、ご褒美もらっちゃった、っていう読後感……
-私どもはそこにこだわりを持っているんです","Yes, we are very particular about that feeling."
+私どもはそこにこだわりを持っているんです","Yes, we are very particular about that impression one gets after reading our magazine."
 0000000000000,編集長,"共感していただけたら、嬉しいですよ
 コラム、楽しみにしていますね──",I'd be glad if you share the same sentiments. I look forward to the column──
 2016014010210,千雪,"初回にしては、少しお値段が張るものになってしまったのが
-気にはなっているんですけど……",I'm worried that this might be a little bit too pricey for my first piece...
+気にはなっているんですけど……",I'm worried that this might be a little bit too pricey for my first notebook...
 0000000000000,プロデューサー,そうかもしれないな,You might be right.
 0000000000000,プロデューサー,"……でも、それでも
-千雪はこの手帳でいきたい、って思ってるんだよな？","...But even so, you still want to go with this notebook, right?"
-2016014010220,千雪,……って、わかっちゃいます？,...You knew?
+千雪はこの手帳でいきたい、って思ってるんだよな？","...But even so, you still want to go with this one, right?"
+2016014010220,千雪,……って、わかっちゃいます？,...You knew all along?
 2016014010230,千雪,"わぁ
 なんだか、恥ずかしいなぁ……！","Waa, that makes me feel kinda embarassed...!"
 0000000000000,プロデューサー,"いや……！
@@ -96,19 +96,19 @@ myself?"
 select,,"色んな便箋が
 あるものなんだな","There sure are
 various kinds
-of paper."
+of writing paper."
 select,,"いいコラムに
 なりそうだ","This will turn
 out to be a
 good column."
 2016014010300,千雪,いいと思います……！,I think that's a good idea...!
 2016014010310,千雪,"手紙を書いていると、自分の気持ちがわかってきたり、
-相手に向かう気持ちも、なんとなく整理できる気がして……","When I write a letter, I feel like I can better understand my sentiments and somehow sort out how I feel to the recipient..."
+相手に向かう気持ちも、なんとなく整理できる気がして……","When I write a letter, I feel like I can somehow better understand my sentiments and sort out how I feel towards the recipient..."
 2016014010320,千雪,ふふっ、お勧めです……！,"Fufu, I highly recommend it...!"
 2016014010330,千雪,"ええ、季節のお花とか星とか、犬、猫……
 定番のものだけでもこんなにありますし……","Yeah, there are ones with seasonal flowers, stars, dogs, cats... Although there are also the plain standard ones..."
 2016014010340,千雪,"色んな種類を持ってたら
-伝えられる気持ちも、ちょっと増える気がして",I feel like I can convey a little more of my sentiments because there is such a large variety of designs.
+伝えられる気持ちも、ちょっと増える気がして",I feel like I can convey a little more of my sentiments because there are such a large variety of designs.
 0000000000000,プロデューサー,"面白いな。確かに、紙とか色とか模様とかが
 助けてくれる部分もあるかもしれない","How interesting. Different types of papers, colors and designs certainly do all help in conveying a message."
 2016014010350,千雪,ふふっ、そうなんです,"Fufu, that's right."
@@ -116,12 +116,12 @@ good column."
 0000000000000,プロデューサー,"好きなものを語ってる時の千雪、
 もっと色んな人に知ってもらいたいよ",I want more people to know about the side of Chiyuki who talks about the things she likes.
 2016014010370,千雪,"い、いえ……
-語ってました？　私……！",N-No way... Was I rambling on about the things I...?
+語ってました？　私……！",N-No way... Was I rambling? I...!
 0000000000000,プロデューサー,うん,Yup.
 2016014010380,千雪,"そ、そんなつもりじゃ
 なかったんですけど……！",I-I didn't mean to do that though...!
 0000000000000,プロデューサー,"そんなつもりでいてほしいんだけどな？
-……その気持ち、いい形で連載に結びつけてほしいよ","You want to though, right? ... I hope you can connect that feeling to the serialisation in a good way."
-2016014010390,千雪,──はい！,──I will!
+……その気持ち、いい形で連載に結びつけてほしいよ",I was hoping that you intended to do it though? ... I want you to connect that feeling to the serialisation in a good way.
+2016014010390,千雪,──はい！,──Alright!
 info,produce_events/201601401.json,
 Translator,cloverbunz,

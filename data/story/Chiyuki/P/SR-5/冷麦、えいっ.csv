@@ -1,28 +1,28 @@
 id,name,text,trans
 0000000000000,プロデューサー,"──水、麺の重さの３倍……
-えーと……","──Add water equivalent to thrice the weight of the noodles used...
+えーと……","──Add water, amounting to thrice the weight of the noodles used...
 Uhm..."
-0000000000000,プロデューサー,ミリリットルで書いてくれよ……,Just write it down in millimeters please...
-2016011110010,千雪,どうされました……？,Can I help you with anything...?
+0000000000000,プロデューサー,ミリリットルで書いてくれよ……,Please just state it in millimeters...
+2016011110010,千雪,どうされました……？,What seems to be the matter...?
 0000000000000,プロデューサー,おっ、千雪,"Oh, Chiyuki."
 2016011110020,千雪,──わぁ、冷麦……！,"──Wow, it's hiyamugi...!"
-2016011110030,千雪,これ、プロデューサーさんが……？,"Producer-san, is this yours...?"
+2016011110030,千雪,これ、プロデューサーさんが……？,"Producer-san, are you cooking...?"
 0000000000000,プロデューサー,"はは、慣れないことはするもんじゃないよな……
-取引先からさ、お中元だってもらってきたんだけど","Haha, I received it as a mid-year gift from a business partner... I'm still not used to things like that."
+取引先からさ、お中元だってもらってきたんだけど","Haha, I really shouldn't be doing things that I'm not used to... Although I got this as a mid-year gift from a business partner,"
 0000000000000,プロデューサー,"なんだか袋の裏の説明だと
-やたらとレベルが高いというか……",The instructions on the back of the packaging are kinda hard to follow though...
-2016011110040,千雪,わ、ゆでるだけじゃダメなんです？,"Oh, you can't just boil it?"
-0000000000000,プロデューサー,い、いや……ゆでるところですでに大変なんだ,T-That's not it... the boiling step is already difficult enough.
+やたらとレベルが高いというか……",the instructions on the back of the packaging are kinda difficult to follow...
+2016011110040,千雪,わ、ゆでるだけじゃダメなんです？,"Oh, can't you just boil it?"
+0000000000000,プロデューサー,い、いや……ゆでるところですでに大変なんだ,T-That's not the problem... the boiling step itself is somehow already beyond me.
 2016011110041,千雪＆プロデューサー,────ははっ,──Haha
 2016011110050,千雪,"……それじゃあ、私
 代わりますね","...In that case, let me take care of it."
-0000000000000,プロデューサー,えっ、いいのか……？,"Eh, you'd be okay with that...?"
+0000000000000,プロデューサー,えっ、いいのか……？,"Eh, is that okay...?"
 2016011110060,千雪,"ふふっ
-その代わり、もう一束いただけたりします……？","Fufu. In return, could I add another packet...?"
+その代わり、もう一束いただけたりします……？","Fufu. In return, could I add another bundle...?"
 0000000000000,プロデューサー,"おう、もちろんだ！
-千雪も食べてくれたら嬉しいよ","Yeah, of course you can! It'd make me happy if you had some too."
+千雪も食べてくれたら嬉しいよ","Yeah, of course! It'd make me happy if you had some too."
 2016011110070,千雪,──もう１分くらいでしょうか……,──Maybe another minute more...
-2016011110080,千雪,…………うん、そろそろです,"...Yup, about one more minute should be fine."
+2016011110080,千雪,…………うん、そろそろです,"...Yup, it should be done soon."
 0000000000000,プロデューサー,"あぁ……なんか、優しくて
 懐かしいみたいな匂いだ",Ahh... it smells kinda gentle and nostalgic.
 2016011110090,千雪,ええ,Yeah.
@@ -50,8 +50,8 @@ Uhm..."
 0000000000000,プロデューサー,"すまんな……
 せっかくの風流が、ジャンクになっちゃって……",Sorry... The elegance of this dish has been turned into junk food...
 2016011110190,千雪,"いいえ
-初物を頂く感覚というか──",Not at all. It feels like I'm having my first taste of summer──
-2016011110200,千雪,それにこんなの、忘れないですもん……！,"Plus, something like this is an unforgettable experience...!"
+初物を頂く感覚というか──",Not at all. It feels like I'm having a first taste of summer──
+2016011110200,千雪,それにこんなの、忘れないですもん……！,"Plus, this kind of experience is unforgettable...!"
 0000000000000,プロデューサー,千雪……？,Chiyuki...?
 2016011110210,千雪,ふふっ,Fufu.
 2016011110220,千雪,この夏の匂い、この夏の味────,The smells and tastes of this summer──
