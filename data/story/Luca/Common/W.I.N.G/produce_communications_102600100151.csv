@@ -1,0 +1,32 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"そういえば、
+局のディレクターさんがルカのこと褒めてたぞ","That reminds me, the broadcasting station director 
+just praised you."
+1026001001510010,ルカ,……褒める？,... I got praised?
+0000000000000000,プロデューサー,"物怖じしないし、
+独特の世界観を持ってるから面白いって","He wasn't intimidated by you at all. 
+He says you were quite interesting due to your 
+unique worldview."
+1026001001510020,ルカ,…………,......
+select,,"物怖じしないは
+合ってるよな","They're right
+about you being
+not intimidating."
+select,,"自分では
+心当たりないか？","Do you think
+that applies to you?"
+select,,独特の世界観は……,"Your unique
+world view is..."
+1026001001510030,ルカ,"物怖じ……？
+……………………","Me, intimidating...?
+......"
+0000000000000000,プロデューサー,いや、心当たりがないならいいんだ……ははは,"Ah no, it's fine if you have no idea... Hahaha."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001001510040,ルカ,ねェよ……,Nah...
+1026001001510050,ルカ,んなもんいちいち意識しねぇだろ,I don't pay much attention to that sort of thing.
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001001510060,ルカ,どこが独特なんだよ……,What's so unique about it...
+1026001001510070,ルカ,意味わかんねェ……,I don't get it...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100151.json,
+Translator,Burbur,

@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"ルカ、この前撮影があっただろ？
+その雑誌が届いたんだけど、見ないか？","Hey Luca, you had a photo shoot the other day, right?
+The magazine just arrived, want to have a look?"
+1026001000310010,ルカ,ゲラ確認しただろ………,"You checked the sample, didn't you..."
+0000000000000000,プロデューサー,"それはそうなんだけど
+実物を見るのはまたいいもんだろ？","I did, but...
+It's nice to see the real thing, right?"
+1026001000310020,ルカ,ひとりで勝手に見とけよ,Go look at it yourself.
+select,,"じゃあ……
+そうしようかな……","Guess I'll
+do just 
+that..."
+select,,"事務所のみんなにも
+見せてあげよう","I'll show it
+to everyone
+in the office."
+select,,でも……,But...
+0000000000000000,プロデューサー,"……へぇ、どれもいい感じに撮れてるな！
+うん……これなんか雰囲気が出てて──","... Whoa, they all turned out really well! Yeah... 
+This one especially. Really captures the atmosphere."
+1026001000310030,ルカ,黙って見れねェのかよ……！,Can't you just look at them in silence...?!
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+0000000000000000,プロデューサー,"参考になるし
+いい刺激にもなると思うんだ",I think it'll be helpful and inspiring to the rest.
+1026001000310040,ルカ,"いいよそんなもん
+面倒くせぇだけ……","That's fine.
+You're just being a pain."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001000310050,ルカ,うるせぇな……,Shut up...
+1026001000310060,ルカ,"やることあんだから
+邪魔すんなよ……",I have things to do so don't get in my way...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100031.json,
+Translator,,

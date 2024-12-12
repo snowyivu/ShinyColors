@@ -1,0 +1,86 @@
+id,name,text,trans
+0000000000000,ボイストレーナー,────うん,──Okay.
+0000000000000,ボイストレーナー,"郁田さん、いいじゃない！
+声に伸びもあるし……","That's good, Ikuta-san!
+You have a lot of vocal range..."
+0000000000000,ボイストレーナー,何か歌の経験があるのかしら？,Do you have any experience?
+3027002010010,はるき,い、いえ……！,"No, I don't...!"
+3027002010020,はるき,"しっかりトレーニングとかに
+通ったことはなくって",I've never done any training or anything like it before.
+3027002010030,はるき,"ただ、音楽は好きだから……
+趣味で歌ってはいたんですけど","But I really love music...
+So I do some singing as a hobby."
+0000000000000,ボイストレーナー,"あら、そうなの？
+歌、向いてると思うわ","My, is that so?
+I think it would suit you very well."
+3027002010040,はるき,"……えへへ
+ありがとうございます……！","...Ehehe.
+Thank you very much...!"
+3027002010050,羽那,……──,......──
+0000000000000,ダンストレーナー,──はい、今日はここまで！,"──Okay, that's all for today!"
+0000000000000,ダンストレーナー,"ふたりとも、やっとダンスが板についてきたみたい
+いい感じよ","Looks like the two of you are finally getting the 
+hang of this. Fantastic."
+0000000000000,ダンストレーナー,"この後はしっかりと体を休めて、
+次回からもこの調子で頑張りましょう","Be sure to rest up properly after this and do 
+your best again next time."
+3027002010051,羽那＆はるき,はいっ,Okay.
+3027002010052,羽那＆はるき,…………,......
+3027002010060,羽那,はるきちゃん、お疲れ様ーっ,"Good work out there, Haruki-chan!"
+3027002010070,はるき,お疲れ様～,You too!
+3027002010080,羽那,"レッスン、大変だよね
+あたしたち、ダンスの経験もないし……","The lessons sure are difficult.
+I don't have any experience in dancing..."
+3027002010090,はるき,うん……,I agree...
+3027002010100,はるき,まずは脱、未経験者だねぇ……！,"First of all, let's get rid of our inexperience...!"
+3027002010110,羽那,ねーっ,Right!
+3027002010120,はるき,……でも,...But.
+3027002010130,はるき,"羽那ちゃんのダンスは、見てて
+綺麗だなぁって思ったよ","When I was watching, I thought your dance was 
+beautiful."
+3027002010140,羽那,えーっ？,Eeeh?
+3027002010150,羽那,……未経験者なのに？,...Even when I have no experience at all?
+3027002010160,はるき,ふふ、うん……！,"Fufu, yeah...!"
+3027002010170,羽那,そっかー,I guess──
+3027002010180,羽那,"でもそれなら、はるきちゃんの
+歌の方がすごかったよ","Besides, I think your singing was way better 
+than mine."
+3027002010190,羽那,先生にも褒められてたし──！,Even the teacher praised you──!
+3027002010200,はるき,わっ、ううん……！,"Wah, no way...!"
+3027002010210,はるき,全然、まだまだだよ～……！,"It's not better at all, it's only so so～...!"
+3027002010220,羽那,そうかなー,I see──
+3027002010230,羽那,──あ、そうだ,"──Ah, more importantly..."
+3027002010240,はるき,……？,...?
+3027002010250,羽那,"はるきちゃん
+お腹、空いてない？","Aren't you hungry at all, Haruki-chan?"
+3027002010260,羽那,乾杯ーっ,Cheers!
+3027002010270,はるき,乾杯～……！,Cheers～...!
+3027002010280,羽那,はるきちゃん、付き合ってくれてありがとう,"Thanks for joining me, Haruki-chan."
+3027002010290,羽那,"もっとゆっくり話したいと思ってたから
+嬉しいなー","I'm sooo relieved, I wanted to talk at a more 
+relaxed place."
+3027002010300,はるき,ううん、こちらこそ,"Yeah, likewise."
+3027002010310,はるき,"わたしもレッスン終わって解散なんて
+寂しいと思ってたから……！","I thought it'd be bad for the lessons to end and 
+for us to split too...!"
+3027002010320,羽那,あはっ、そっかー,"Aha, I seeー"
+3027002010330,羽那,同じこと、考えてたんだね？,So you were thinking the same thing then?
+3027002010340,はるき,"ふふ～
+うん……！","Fufu～
+I was...!"
+0000000000000,ファミレス店員,──お待たせしました,──Thank you for waiting.
+0000000000000,ファミレス店員,こちら、タコライスふたつです,Here are your two taco rices!
+3027002010341,羽那＆はるき,ありがとうございます,Thank you very much!
+0000000000000,ファミレス店員,ご注文は以上でお揃いでしょうか？,Will that be all?
+3027002010342,羽那＆はるき,はいっ,Yep!
+3027002010350,羽那,…………,......
+3027002010360,羽那,"あたしたち
+同じこと考えて、同じもの食べてるの",We think alike and we ordered the same things.
+3027002010370,羽那,"……ふふっ
+なんか、いいね──！","...Fufu.
+That's so funny──!"
+3027002010380,はるき,"ふふ～
+そうだね……！","Fufu～
+Isn't it...?"
+info,produce_events/302700201.json,
+Translator,Burbur,

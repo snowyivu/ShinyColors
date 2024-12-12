@@ -1,0 +1,37 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"ルカのパフォーマンスってさ、
+技術だけじゃなく、魅せ方もうまいなと思うんだけど……","You know, I think that your performance isn't just 
+skilled but also fascinating how you present it..."
+0000000000000000,プロデューサー,"それは前の事務所にいた時に
+身に付けたものなのか？","Is it something you picked up at your previous 
+agency?"
+1026001001210010,ルカ,あ……？,Huh...?
+0000000000000000,プロデューサー,"これまでに
+どんなことをしてきたのかと思って……",I've been curious what you've been doing so far...
+select,,"厳しいレッスン
+だったのか？","Were the
+lessons tough?"
+select,,雰囲気とか……,Your mood...
+select,,"昔の仲間とは今でも
+交流があるのか？","Do you still 
+contact your 
+old friends?"
+1026001001210020,ルカ,"当たり前だろ……
+今じゃ、逆にそれがないと落ち着かねぇ","Obviously...
+Nowadays I feel uncomfortable if it isn't..."
+0000000000000000,プロデューサー,"そうか……
+でもそのおかげで今のルカがあるんだな","I see...
+But that's what makes you the person you are today."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001001210030,ルカ,"志が高い
+ダメなら消える……それだけ","I'm very ambitious. If things don't work out, 
+I'll just disappear... That's all."
+0000000000000000,プロデューサー,"そうか……
+厳しいところだったんだもんな……","I see...
+It must've been a tough place..."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001001210040,ルカ,は……？,Huh...?
+1026001001210050,ルカ,んなことオメェに関係ねェだろ,That's none of your business.
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100121.json,
+Translator,Burbur,

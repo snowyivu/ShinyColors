@@ -4,7 +4,8 @@ id,name,text,trans
 eating outdoors."
 0000000000000,プロデューサー,確かにそんな気分になるな,"Yeah, it does feel like a perfect day for that."
 1001001000510020,真乃,"プロデューサーさん、
-お外でご飯を食べるなら何がいいですか？","If you were to eat outside, what would you like to eat?"
+お外でご飯を食べるなら何がいいですか？","If you were to eat outside, what would you like to
+eat?"
 0000000000000,プロデューサー,（そうだな、外で食べるご飯と言えば……）,"(Hmm, the kind of meal I would eat outdoors...)"
 select,,サンドイッチ,Sandwiches.
 select,,バーベキュー,Barbecue.

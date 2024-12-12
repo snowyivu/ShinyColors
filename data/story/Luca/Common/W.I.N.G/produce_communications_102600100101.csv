@@ -1,0 +1,35 @@
+id,name,text,trans
+0000000000000000,プロデューサー,ルカ、ちょっといいか？,"Hey Luca, do you have a moment?"
+1026001001010010,ルカ,あ……？,Huh...?
+0000000000000000,プロデューサー,"ファンのSNSに
+ルカの写真がアップされてるみたいなんだが……","It looks like a photo of you has been uploaded to 
+a fan's social media account..."
+1026001001010020,ルカ,どれだよ……,Which one...
+select,,"ファンと一緒に
+撮ったのか？","Did you take
+it together?"
+select,,これは、街だな……,"It's taken 
+in a city..."
+select,,"なかなか
+いいじゃないか","It's pretty good,
+isn't it?"
+1026001001010030,ルカ,"…………
+問題あんのかよ……？","......
+Is there a problem...?"
+0000000000000000,プロデューサー,"いや、
+サービス精神があっていいと思ってな……ははは","Ah no, guess you had good intentions... Hahaha."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001001010040,ルカ,"誰かが勝手に撮ったんだろ……？
+ほっとけよ、こんなもん","Did someone take it without permission?
+Just leave it alone, it happens."
+0000000000000000,プロデューサー,"そうだな
+問題はなさそうだ……うん","You're right.
+There doesn't seem to be any problem... Yeah."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001001010050,ルカ,"なんだよ……
+そんなことでいちいち呼ぶんじゃねぇよ","What's this...
+Don't call me out every time for something like this."
+0000000000000000,プロデューサー,あ、ああ……すまん,Ah. Okay... Sorry.
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100101.json,
+Translator,Burbur,

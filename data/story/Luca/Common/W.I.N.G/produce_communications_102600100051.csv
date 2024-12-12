@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000000,プロデューサー,ルカ……どうかしたのか？,"Luca, anything wrong?"
+1026001000510010,ルカ,うるせぇな……,Shut up...
+1026001000510020,ルカ,イラついてる時に話しかけんなよ……,Don't talk to me when I'm irritated...
+0000000000000000,プロデューサー,え……,Eh...
+select,,"もしかして
+俺が何かしたか？","Did I do
+something?"
+select,,誰かと揉めたとか,"Did you get
+into a fight?"
+select,,今見てる映像か？,"Is it about
+the video
+you're watching?"
+1026001000510030,ルカ,あ…………？,Huh...?
+1026001000510040,ルカ,"ハッ……そうかもな
+わかってきたじゃねぇか","Ha... Maybe.
+Guess you're starting to get it."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001000510050,ルカ,なんでそうなんだよ,Why do you think that I did?
+0000000000000000,プロデューサー,"いや、違うならいいんだ
+ははは……","No, it's fine if it's not that.
+Hahaha..."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000000,プロデューサー,"そのアーティストのパフォーマンスが
+良くなかったとか……？",Maybe the artist's performance wasn't good...?
+1026001000510060,ルカ,"うるせぇな……
+良かったからイラついてんだよ……","Shut up...
+It IS good, that's why I'm so irritated."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100051.json,
+Translator,Burbur,

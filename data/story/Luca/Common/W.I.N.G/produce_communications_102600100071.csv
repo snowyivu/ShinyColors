@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"ルカ……！
+今ちょっといいかな","Luca...!
+Do you have a moment?"
+0000000000000000,プロデューサー,仕事先でチケットをもらったんだ,I got some tickets at work.
+1026001000710010,ルカ,チケット？,Tickets?
+0000000000000000,プロデューサー,"よければ今度、行ってみないか？
+ルカにとっていい刺激になるかもしれない","If you don't mind, why not go sometime?
+It might be a good opportunity for you."
+select,,アニマル王国のチケットだ,"It's an Animal 
+Kingdom ticket."
+select,,オペラのチケットだ,"It's a ticket
+for the opera."
+select,,映画のチケットだ,"It's a movie
+ticket."
+1026001000710020,ルカ,"アニマル王国って
+動物のやつかよ……","What's this Animal Kingdom?
+Isn't that about animals..."
+1026001000710030,ルカ,"ふん……
+………………行かねぇ","Hmph...
+...... I'm not going."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001000710040,ルカ,オペラ……,The opera...
+1026001000710050,ルカ,"アンタが行かねぇなら
+行くかもな……","If you don't want to go, maybe I'll go..."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001000710060,ルカ,"映画？
+ハッ……なんで一緒に映画なんか行くんだよ","The movies?
+Ha... Why would I want to go to a movie together?"
+1026001000710070,ルカ,他当たれよ,Go find someone else.
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100071.json,
+Translator,Burbur,

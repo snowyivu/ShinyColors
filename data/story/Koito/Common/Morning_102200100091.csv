@@ -2,7 +2,8 @@ id,name,text,trans
 1022001000910010,小糸,"ま、円香ちゃんが
 どういう子なのか、ですか……","Y-You want to know what kind of girl Madoka is, huh..."
 0000000000000,プロデューサー,"仲がいい小糸には
-どんなふうなのかと思ってさ","I was wondering what you think of her, as a close friend of hers."
+どんなふうなのかと思ってさ","I was wondering what you think of her, as a close 
+friend of hers."
 1022001000910020,小糸,"そ、そうですね……！
 な、仲のいいわたしとして……ですよね……","L-Let's see...!
 As a close friends of hers... right..."
@@ -15,7 +16,8 @@ select,,怖いとか,Scary?
 いつもお菓子くれて……","S-She is...
 She always gives me candy..."
 1022001000910040,小糸,"あ、別にお菓子くれるから
-優しいって言ってるわけじゃ……！","Ah, I don't really mean to say that she's nice just because she gives me candy...!"
+優しいって言ってるわけじゃ……！","Ah, I don't really mean to say that she's nice just 
+because she gives me candy...!"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1022001000910050,小糸,"あ……そうですね……
 そういうところも……ありますけど","Ah... right...

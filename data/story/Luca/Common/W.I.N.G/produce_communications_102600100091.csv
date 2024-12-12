@@ -1,0 +1,24 @@
+id,name,text,trans
+0000000000000000,プロデューサー,ファンレター読んでたのか,Did you read the fan mail?
+1026001000910010,ルカ,…………,......
+0000000000000000,プロデューサー,いいこと書いてあったか？,Did they write something nice?
+1026001000910020,ルカ,別に……,Not really...
+select,,"小さい子どもからも
+来てたな","There's even one
+from a child."
+select,,"ファンレターが来ると
+俺も嬉しくなるよ","When I get some,
+I get happy too."
+select,,返事、書くのか？,"Will you reply
+to them?"
+1026001000910030,ルカ,…………まぁ,...I guess.
+0000000000000000,プロデューサー,夢を与えるって、いいよな,It's good to give people dreams.
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001000910040,ルカ,ふん…………ッ,Hmph......
+1026001000910050,ルカ,勝手に喜んでんじゃねェよ,Don't be so happy about it.
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001000910060,ルカ,あ……？,Huh...?
+1026001000910070,ルカ,オメェに関係ねェだろ……,That's none of your business...
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100091.json,
+Translator,Burbur,

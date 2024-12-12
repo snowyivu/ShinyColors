@@ -6,10 +6,11 @@ Wh-What should I do..."
 どうかしたか？","Koito?
 What's wrong?"
 1022001001210020,小糸,"あ、いえあの……お弁当、
-妹のと間違えて持ってきちゃったみたいで……","Ah, no, um... I acidentally brought my little sister's lunch with me..."
+妹のと間違えて持ってきちゃったみたいで……","Ah, no, um... I accidentally brought my little sister's 
+lunch with me..."
 0000000000000,プロデューサー,"小糸、そういえば妹がいたんだったな 
-うーん、弁当か……","Koito, speaking of, you do have a little sister, don't you.
-Hmmm, her lunch, huh..."
+うーん、弁当か……","Koito, speaking of, you do have a little sister, 
+don't you. Hmmm, her lunch, huh..."
 select,,"連絡して
 みたらどうだ？","How about
 contacting her?"
@@ -21,7 +22,7 @@ select,,"中身が一緒なら
 same, it should be
 fine."
 1022001001210030,小糸,"あ……そ、そうですよね……！
-そうします！","Ah... y-yeah...!
+そうします！","Ah... Y-Yeah...!
 I'll do that!"
 1022001001210040,小糸,ちょっと電話してきますね！,I'm going to go call her!
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"

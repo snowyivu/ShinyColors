@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000000,プロデューサー,ルカ、レッスン室使ったか？,"Luca, did you use the lesson room?"
+1026001001310010,ルカ,レッスン室……？,Lesson room...?
+1026001001310020,ルカ,だったらどうなんだよ,So what if I did.
+0000000000000000,プロデューサー,いや……,"You see, it's..."
+select,,鍵がないんだが……,"I don't have
+the key..."
+select,,"使う時は
+ひと声かけてほしい","Let me know
+when you use it."
+select,,問題はないが……,"It's nothing,
+just that..."
+1026001001310030,ルカ,"鍵？　んなもん……
+あ…………","The key? I do have something like that...
+Ah..."
+1026001001310040,ルカ,"なんだよその目……
+今返すんだから問題ねぇだろ","What's with that look...
+I'm giving it back now so what's the problem?"
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001001310050,ルカ,……わかってるよ,... I'm aware.
+0000000000000000,プロデューサー,うん、空いてる時はいつでも使っていいからな,Feel free to use it whenever you have free time.
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+0000000000000000,プロデューサー,"使う時は
+いつも戸締りを忘れないようにな",Don't forget to lock the door whenever you use it.
+1026001001310060,ルカ,"うるせェな
+ちゃんとかけただろ","Shut up.
+I made sure I did."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100131.json,
+Translator,Burbur,

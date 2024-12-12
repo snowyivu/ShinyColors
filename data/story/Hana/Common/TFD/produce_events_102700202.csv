@@ -1,0 +1,78 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──あ
+炊き込みご飯、美味しい","──Ah, the mixed rice sure is delicious."
+1027002020010,羽那,あはっ、だよね──！,"Aha, right──!"
+0000000000000,プロデューサー,……でも、こんなことでよかったのか？,... But is this really okay?
+1027002020020,羽那,こんなこと？,What do you mean?
+0000000000000,プロデューサー,"感謝祭のご褒美に──
+『寮で一緒にご飯を食べる』なんてさ","To ""eat dinner together at the dorms"" as a reward 
+for Fan Fest."
+1027002020030,羽那,えーっ、うん,"Eh, yeah."
+1027002020040,羽那,"もっと金銭が発生するようなことを
+お願いした方がよかった？","Should I have asked for something that would've 
+generated more money instead?"
+0000000000000,プロデューサー,き、金銭……,M-more money...
+0000000000000,プロデューサー,"はは……
+そういうわけじゃないんだけどさ","Haha...
+It's not that."
+0000000000000,プロデューサー,"羽那は感謝祭に向けて頑張ってくれたのに
+俺は特別なこと、何もしてあげられてないなって","You worked so hard for Fan Fest, yet I feel like 
+I haven't done anything special for you, Hana."
+1027002020050,羽那,……特別だよ？,"... It's special, though?"
+1027002020060,羽那,"あたしにとって、この時間は
+すっごく、特別",This moment is very special to me.
+0000000000000,プロデューサー,そ、そうか……,Y-you're right...
+1027002020070,羽那,うんっ,Yeah.
+1027002020080,羽那,──あ、でも……,──Although...
+1027002020090,羽那,"こうやって、他の人が作ったご飯を美味しいねって
+食べるのは、ちょっと変かもって思ってるよ","It's a little strange to eat food made by someone 
+else and say it's delicious."
+1027002020100,羽那,あたしが作った方がよかったかなーって,"I wonder if it would have been better if I made it 
+myself."
+0000000000000,プロデューサー,いやいや、そこまでしてもらうのは申し訳ないよ……！,"No no, I'd feel sorry if you have to go that far...!"
+0000000000000,プロデューサー,"こうして、羽那が美味しいって言ってた
+炊き込みご飯を食べられて嬉しいしさ","So it makes me happy to eat this delicious mixed rice 
+that you told me about."
+1027002020110,羽那,あはっ、そっかー,"Aha, right──"
+1027002020120,羽那,"──そういえば
+プロデューサーに聞きたかったんだけど","──That reminds me.
+I wanted to ask you something."
+1027002020130,羽那,なんでコメティックを結成したの？,Why did you form CoMETIK?
+0000000000000,プロデューサー,"……なんで──
+──そうだなぁ","Why did I──
+──Good question."
+0000000000000,プロデューサー,"羽那にも、はるきにも、ルカにも
+それぞれにとって、一番いいことだと思ったからだよ","I thought it was the best thing for you, Haruki 
+and Luca."
+0000000000000,プロデューサー,"コメティックとして、
+３人で活動することがさ",The three of you working together as CoMETIK.
+1027002020140,羽那,そうなんだー,Makes sense.
+0000000000000,プロデューサー,"……でも、感謝祭のステージを見て
+さらに強く思ったよ","But after seeing your performance at Fan Fest, 
+I felt even more about it."
+0000000000000,プロデューサー,コメティックは、もっと────,CoMETIK is so much more──
+1027002020150,羽那,"あ、唐揚げはおかわりもあるって
+言ってたから、たくさん食べてね？","Ah, they said you can have more fried chicken, so 
+be sure to eat lots, okay?"
+0000000000000,プロデューサー,"…………羽那
+話、聞いてくれてたか……？","...... Were you even listening, Hana...?"
+1027002020160,羽那,"あはっ、ごめんね
+聞いてたよ","Aha, sorry.
+I was listening."
+1027002020170,羽那,"──あたし、
+コメティックになれて嬉しいんだーっ",──I'm sooo happy to be a part of CoMETIK.
+1027002020180,羽那,"だから、プロデューサーは
+前からそれがわかってたんだね","I guess you knew it all along, didn't you?"
+0000000000000,プロデューサー,"……はは
+そう言ってもらえるなら、嬉しいよ","... Haha, glad to hear you say that."
+1027002020190,羽那,"──あ
+唐揚げ──！　おかわり持ってくるね？","──Ah, the fried chicken──!
+Want me to bring you some more?"
+0000000000000,プロデューサー,"えっ
+いや、大丈夫────","Eh.
+No, I'm fine, thank you──"
+0000000000000,プロデューサー,"はは……
+明日は、胃もたれ確定かな……","Haha...
+I'll definitely have a stomachache tomorrow."
+info,produce_events/102700202.json,
+Translator,Burbur,

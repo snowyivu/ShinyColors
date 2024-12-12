@@ -1,0 +1,89 @@
+id,name,text,trans
+0000000000000,off,──線で描かないこと,──Don't draw with lines.
+0000000000000,アートスクール講師,"よく見て
+この像……首も頬も、線なんてないでしょ、全部","Look closely now. There are no lines on the neck or 
+cheeks of the statue at all."
+0000000000000,アートスクール講師,"光があって、影があるから見える──
+そこのところ、もっと意識してやってみて","We can see things because of light and shadow──
+Please try to be more conscious of that."
+1028003010010,はるき,…………はい,...... Okay.
+0000000000000,アートスクール講師,じゃあ、次の人──,"Okay, next please──"
+0000000000000,ボイストレーナー,──また遅れたね,──You're late again.
+1028003010020,はるき,す、すみません……,I'm so sorry...
+0000000000000,ボイストレーナー,"あやまってもね……
+ステージの上じゃ、言い訳できないよ？","Even if you apologise...
+You can't make any excuses on stage, you know?"
+1028003010030,はるき,…………,......
+0000000000000,ボイストレーナー,"感情に流されないで
+もっと音を聞いて","Don't get carried away by your emotions.
+Listen to the sounds more."
+1028003010040,はるき,…………,......
+1028003010050,はるき,絵だったら……,If it was a picture...
+1028003010060,はるき,"……？
+知らない番号……","......?
+I don't recognize this number..."
+1028003010070,はるき,もしもし……？,Hello...?
+1028003010080,はるき,"えっ……はい……わたし、です……
+そうです……","Uhm... Yes... It's me...
+That's right..."
+1028003010090,はるき,"……！
+あ、よく通ってた美術館の────わぁ……","...! Ah, the art museum I used to visit quite often── 
+Waa..."
+1028003010100,はるき,"家族に聞いたんですね……！
+いえ、大丈夫です……！","So you asked your family...!
+No, it's a-okay...!"
+0000000000000,美術館スタッフ,"はるきちゃん、だっけ
+絵、とっても上手なのね？","You're really good at drawing, aren't you, 
+Haruki-chan?"
+1028003010110,はるき,"…………そのせつは本当にお世話になりました
+あの、どうしたんですか……？","......Thank you so much for your help.
+Uhm, what happened...?"
+1028003010120,はるき,え……！,Eh...!
+1028003010130,はるき,────……,──......
+1028003010140,off,『線で描かないこと』,"""Don't draw with lines."""
+1028003010150,off,『感情に流されちゃだめ』,"""Don't get carried away by your emotions."""
+1028003010160,はるき,…………,......
+0000000000000,美術館館長,"今度、企画展をするのですが地元のスターの郁田さんに
+協力していただけないかと思って──","I'm planning an exhibition soon and I was wondering if 
+local star Ikuta-san could help me out."
+1028003010170,はるき,"わ、ありがとうございます
+ぜひ……！","Wa, thank you very much!
+I'd love to!"
+1028003010180,はるき,"あ、でも……
+わたしの一存では決められなくて……","Ah, but...
+I can't decide this on my own..."
+1028003010190,はるき,"はい、事務所のほうに
+連絡していただけると助かります──","Yeah, it would be for the best if you would contact 
+the office──"
+0000000000000,プロデューサー,はるき、お疲れ様,"Good work out there, Haruki."
+1028003010200,はるき,"プロデューサーさん……！
+いたんですね……！","Producer-san...!
+So you're here...!"
+0000000000000,プロデューサー,すまん、ちょっと別室で作業してて,"Sorry, I'm working in another room."
+0000000000000,プロデューサー,"それより、すごいぞはるき！
+いくつか出演のオファーいただいたぞ","More importantly, you're amazing, Haruki!
+I've received many offers for you to appear in shows!"
+0000000000000,プロデューサー,"トーク番組と、街ぶらロケと、音楽番組と
+あと、インタビューと──","There's talk shows, location shoots, music shows, 
+and even interviews──"
+1028003010210,はるき,"……！
+すごいですねぇ、そんなに…………","...!
+That's amazing, so many..."
+1028003010220,はるき,でも……,But...
+0000000000000,プロデューサー,──『G.R.A.D.』のことか？,"──You're talking about ""G.R.A.D."", right?"
+1028003010230,はるき,"張り切ってアートスクールの集中講座入れたのは
+失敗でしたかねぇ","I guess it was a mistake to get so excited and enroll 
+in such an intensive art school course..."
+0000000000000,プロデューサー,"失敗なんて……！
+絵の勉強ははるきにとって大事なことだろ？","Surely you're not failing...!
+Studying art is important to you, isn't it, Haruki?"
+0000000000000,プロデューサー,"こんなにオファーをいただくのは予想外だったけど──
+きっと『G.R.A.D.』にいいはずみになるよ","I didn't expect to get so many offers, but──
+I'm positive this will be a good start for ""G.R.A.D."""
+1028003010240,はるき,……そうですね,...You're right.
+0000000000000,プロデューサー,"ちょっと大変かもしれないけど
+ひとつひとつ準備してやっていけば大丈夫だから","It might be a little difficult, but if you do things one 
+at the time, you'll be fine."
+1028003010250,はるき,はい……！,Yeah...!
+info,produce_events/102800301.json,
+Translator,Burbur,

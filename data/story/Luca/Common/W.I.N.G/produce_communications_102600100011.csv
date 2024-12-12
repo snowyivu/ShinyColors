@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000000,プロデューサー,"ルカ、そこにあるお菓子
+適当につまんでくれて構わないからな","Hey Luca, feel free to pick any sweets there."
+1026001000110010,ルカ,…………,......
+0000000000000000,プロデューサー,"ん、ルカ……？
+聞こえなかったかな、おーい……","Hm? Luca?
+Didn't you hear me? Heeey..."
+1026001000110020,ルカ,…………,......
+select,,お菓子とか……,The sweets...
+select,,"それけっこう
+美味しいんだよ","They're pretty 
+tasty."
+select,,"無理にとは
+言わないが……","Not saying you 
+have to..."
+1026001000110030,ルカ,"うるせェな聞こえてんだよ
+食いたきゃ勝手に食えばいいだろ……","Shut up, I heard you the first time.
+If you want to eat it, just do it..."
+0000000000000000,プロデューサー,"そ、そうだな……
+じゃあひとつ頂くか……ははは……","G-Got it...
+I'll have some then... Hahaha..."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001000110040,ルカ,今取り込んでんだろ……,"You're really enjoying it, huh..."
+0000000000000000,プロデューサー,"そ、そうか……ははは
+気が向いたら食べてみてくれ……","Y-Yeah... Hahaha.
+If you want some, go ahead..."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001000110050,ルカ,"…………
+この後レッスンなんだから食うわけねェだろ","....... There's no way I'm going to eat anything, 
+I have a lesson after this."
+0000000000000000,プロデューサー,"そ、そうか……すまん
+それは控えないとな","R-Right... Sorry.
+I'll refrain from saying things like that."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100011.json,
+Translator,Burbur,

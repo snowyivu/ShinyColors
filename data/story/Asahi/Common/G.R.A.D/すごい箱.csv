@@ -1,0 +1,80 @@
+id,name,text,trans
+1017003010010,あさひ,…………,......
+1017003010020,あさひ,……？,......?
+1017003010030,あさひ,…………っ,…………
+1017003010040,あさひ,なんだろう、あれ…………,What's that...?
+1017003010050,あさひ,"────
+かっこいい………………！",──── It's so cool...!
+1017003010060,あさひ,じゃ、行ってくるっす！,I'm gonna go check it out!
+0000000000000,プロデューサー,"──えっ、あさひ？
+帰るんじゃないのか","──Hey, Asahi? Aren't you supposed to be heading home?"
+1017003010070,あさひ,"今日こそは見つけたいんっすよ
+そしたら帰るっす！","I really want to find it today, and then I'll go home!"
+0000000000000,プロデューサー,見つけるって……何か探し物か？,Find what? Are you looking for something?
+1017003010080,あさひ,"──すごい乗り物なんすよ！
+バイクの後ろに、揺れる箱が付いてて……",──It's an amazing vehicle! There's a box swaying at the back of a bike...
+0000000000000,プロデューサー,え、バイク──,"Huh, a bike──"
+1017003010090,あさひ,"とにかくかっこいいんす！
+じゃ──！",It's just so cool! Anyway──!
+0000000000000,プロデューサー,──あっ、おーい……！,"──Ah, wait...!"
+0000000000000,プロデューサー,"ちょっと……
+ちょっとだけ待ってくれ、あさひ……！","Just a minute... Just wait a bit, Asahi......!"
+1017003010100,あさひ,"──？
+急いでるんすけど",──? I'm in a hurry.
+0000000000000,プロデューサー,"あ、ああ……すまんな
+その──","A, ah... Sorry about that. About──"
+0000000000000,プロデューサー,『G.R.A.D.』さ、予選もあるだろ？,"G.R.A.D.' - there's a preliminary round, right?"
+1017003010110,あさひ,"……？
+はいっす",……? Yeah!
+0000000000000,プロデューサー,"いや、わかってくれてたら大丈夫なんだけど
+そっちに向けて、気持ちも準備していってもらいたくて","No, if you understand that, it's fine, but I want you to be mentally prepared for it as well."
+1017003010120,あさひ,"──？
+練習、ちゃんとしてるっすけど","──? I'm practicing properly, though."
+0000000000000,プロデューサー,"ああ、うん
+練習はきっちりしてくれてるよな","Ah, yes. You are practicing hard, I know."
+0000000000000,プロデューサー,"ただ、今度のはオーディションって名前だけど
+選考自体をお客さんに見てもらうものだからさ","However, this time it's an audition, and the selection process will be seen by the audience."
+0000000000000,プロデューサー,"そういう心構えを持って、
+集中してほしいんだ","So, I want you to have the right mindset and focus."
+1017003010130,あさひ,──？,──？
+1017003010140,あさひ,だから、ちゃんと練習すればいいってことっすよね？,"So, if I practice properly, that's all I need to do, right?"
+0000000000000,プロデューサー,あぁ……それはそうなんだけど────,"Ah, well... That's true, but────"
+1017003010150,あさひ,"あーっ、夕方になっちゃうっす……！
+もっと時間かかるっすか？","Aww, it's getting late...! Is this going to take much longer?"
+0000000000000,プロデューサー,"……いや、うん
+気合を入れて頑張ってくれれば、それでいいんだ","......No, it's fine. Just put your heart into it and do your best."
+0000000000000,プロデューサー,"じゃあまた明日
+……時間とっちゃって、悪いな",See you tomorrow... Sorry for taking up your time.
+1017003010160,あさひ,"はいっす！
+また明日っす！",Got it! See you tomorrow!
+0000000000000,プロデューサー,────…………,────…………
+0000000000000,プロデューサー,なんて言えばいいんだろうなぁ……,"I don't know what to say... "
+1017003010170,あさひ,わっせっ、わっせっ……！,"Whoa, whoa……! "
+0000000000000,プロデューサー,"まぁ……結局は
+ちゃんと練習してるかどうかってことではあるけど────","Well……ultimately,
+it's about whether you're practicing properly or not────"
+1017003010180,あさひ,"……わっせっ…………わっせっ
+どこにいるかな～～！","……Whoa……whoa
+Where could it be~~~!"
+0000000000000,プロデューサー,…………,…………
+0000000000000,プロデューサー,"────っていうか、あさひ
+バイクがなんとかって言ってたか……！？","────By the way, Asahi,
+you mentioned something about a bike……!?"""
+0000000000000,プロデューサー,何か危ないこと────,Is he doing something dangerous────
+0000000000000,プロデューサー,……っ,……
+1017003010190,あさひ,あーっ！　いたーっ！,Ahh! I found it!
+1017003010200,あさひ,"おーい！　おーーい……！
+待ってほしいっす……！","Hey! Hey……!
+Wait for me……!"
+0000000000000,プロデューサー,"……っ……はぁっ…………
+もう……いないか…………！","...Hah...
+He's... already gone……!"
+0000000000000,プロデューサー,"あさひ……
+さすが速いよ…………","Asahi…
+You're really fast..."
+0000000000000,プロデューサー,"──『電話気付いたら連絡してほしい
+くれぐれも、危ないことはしないように』……","──If you notice anything, call me.
+And be careful not to do anything dangerous……"
+0000000000000,プロデューサー,はぁ……────,Hah……────
+info,produce_events/101700301.json,
+Translator,Dee,

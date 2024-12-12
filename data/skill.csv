@@ -248,8 +248,8 @@ Viレッスン,Vi Lesson,noun
 ​リラックス効果$num％付与,Grants $1% Relax,text
 全ユニットにリラックス効果$num％付与,Grants All Units $1% Relax,text
 興味$num倍,Interest x$1,
-興味反転,Interest Flip,
-興味限定,Interest Lock,
+興味反転,Interest Flip,text
+興味限定,Interest Lock,text
 歌唱力のはばたき,Fluttering of Vocals,
 安定感のきらめき,Sparkle of Stability,
 表現力のひろがり,Expanse of Expression,
@@ -283,31 +283,584 @@ $nounVII,$1 VII,
 [条件:履歴に思い出アピールがある場合],[Condition: Memory Appeal in the history],
 [条件:$numターン以前$name全員がライブに参加している場合],[Condition: All $2 members in the live before $1 turns pass],
 デュエット[$name],Duet [$1],
-ファンの声援＋,Cheers of Fans+,text
-メンタルUP,Mental UP,text
-メンタル上限UP,Mental Cap. UP,text
-Vocal上限UP,Vocal Cap. UP,text
-Dance上限UP,Dance Cap. UP,text
-Visual上限UP,Visual Cap. UP,text
-ロマンチスト,Romantist,text
-アピールUP(思い出高),Appeal UP (High Mem.),text
-アピールUP(思い出低),Appeal UP (Low Mem.),text
-スペシャリスト,Specialist,text
-アピールUP(思い出高&低),Appeal UP (High&Low Mem.),text
-基礎能力値UP(+6%),Base Stat UP (+6%),text
-思い出(ノウハウ)＋,Memory (Know-How)+,text
-思い出(ノウハウ)＋＋,Memory (Know-How)++,text
-基礎能力値UP (+3%),Base Stat UP (+3%),text
-エキシビションマッチ,Exhibition Match,text
-エキシビションマッチ＋,Exhibition Match+,text
-エキシビションマッチ＋＋,Exhibition Match++,text
-ファン感謝祭クリア,FanFest Clear,text
-ファン感謝祭クリア＋,FanFest Clear+,text
-ファン感謝祭クリア＋＋,FanFest Clear++,text
+ファンの声援＋,Shouts of Fans +,noun
+メンタルUP,Mental UP,noun
+メンタル上限UP,Mental Cap. UP,noun
+Vocal上限UP,Vocal Cap. UP,noun
+Dance上限UP,Dance Cap. UP,noun
+Visual上限UP,Visual Cap. UP,noun
+ロマンチスト,Romantist,noun
+アピールUP(思い出高),Appeal UP (High Mem.),noun
+アピールUP(思い出低),Appeal UP (Low Mem.),noun
+スペシャリスト,Specialist,noun
+アピールUP(思い出高&低),Appeal UP (High&Low Mem.),noun
+基礎能力値UP(+6%),Base Stat UP (+6%),noun
+思い出(ノウハウ)＋,Memory (Know-How)+,noun
+思い出(ノウハウ)＋＋,Memory (Know-How)++,noun
+基礎能力値UP (+3%),Base Stat UP (+3%),noun
+エキシビションマッチ,Exhibition Match,noun
+エキシビションマッチ＋,Exhibition Match+,noun
+エキシビションマッチ＋＋,Exhibition Match++,noun
+ファン感謝祭クリア,FanFest Clear,noun
+ファン感謝祭クリア＋,FanFest Clear+,noun
+ファン感謝祭クリア＋＋,FanFest Clear++,noun
+ライブスキル生成,Live Skill Generation,noun
+交換数,Mulligan,noun
+所属ユニットが多いほど効果UP,Effect UP at No. of Units,
+リアクション回避率,Reaction Chance,noun
+[条件:$name、$name、$nameいずれかがライブに参加している場合],"[Condition: Either $1, $2, or $3 in Unit]",
+[$noun],[$1],
+[条件:編成アイドルの所属ユニットが$num種類以上の場合],[Condition: Idols are from $1 or more Units],
+[条件:$numターン以降$name全員がライブに参加している場合],[Condition: All $2 members participating on and after turn $1],
+[条件:回復回数$num回以上履歴に$name全員んがライブに参加],[Condition: Heal at least $1 times with all $2 members in history],
+チャージアピール[Lv$num]:$noun$num倍アピール,Charge Appeal [Lv$1]: $2 $3x Appeal,
+[条件:メンタル$percent以上$numターン以降],[Condition: Mental ≥ $1 on and after $2 turn(s)],
+$noun強化,$1 Fortification,
+[条件:パッシブスキル発動率UPが付与されている場合],[Condition: Affected by Passive Skill Rate UP],
+[条件:VoDaViUP全てが付与されている場合],[Condition: Affected by All VoDaViUP],
+メランコリー,Melancholy,noun
+リザレクション効果,Resurrection Effect,noun
+フレキシブル,Flexible,noun
+ランダム効果$num個付与,Gives $1 Random Effect,
+[条件:$name又は$name全員がライブに参加],[Condition: All $1 or $2 members in Live],
+回避率,Evasion Rate,noun
+瞳の輝き,Brilliance of the Eyes,noun
+$noun $percent 強化,$1 $2 Fortification,
+パッシブスキル,Passive Skill,noun
+パッシブスキル強化,Passive Skill Fortification,noun
+[条件:履歴に$nounのアイドルが$num人以上ある場合],[Condition: ≥ $2 $1 members in History],
+発動時に$noun$percentUP,$1 $2 UP when activated,
 色とりどりの羽根,Multicolored Feather,text
 [輝く]色とりどりの羽根,[Shining] Multicolored Feather,text
-みずになりかけ,Becoming Water,text
-10個、光,"10, Lights",text
+星が見上げた空,Looked up at the Starry Sky,text
+空は澄み、今を越えて,"The sky will clear, now and years beyond",text
+我儘なまま,In my own way,text
+一人分の空、一枚の羽,"One Person's Sky, One Feather",text
+ナチュラルモード,Natural Mode,text
+ウキウキ日和,ウキウキ日和,text
+[休息]ウキウキ日和,[休息]ウキウキ日和,text
+ぐうぜんBOOKS,Coincidental BOOKS,text
+恥じらいほっぺ,恥じらいほっぺ,text
+[もみじ色]恥じらいほっぺ,[もみじ色]恥じらいほっぺ,text
+しじまに華ひととき,A Moment's Flowers,text
+えみやわらか,えみやわらか,text
+[ふたつ音]えみやわらか,[ふたつ音]えみやわらか,text
+花結びゆくゆく,Rosette on the Way,text
+さくように,さくように,text
+[いろづき]さくように,[いろづき]さくように,text
+一番星の魔法,一番星の魔法,text
+お散歩,お散歩,text
+[星空の中を]お散歩,[星空の中を]お散歩,text
+ピックアップ・スプリング,ピックアップ・スプリング,text
+みっけ,みっけ,text
+[ほら、]みっけ,[ほら、]みっけ,text
+ほわっとスマイル,Gentle Smile,text
+キラキラふわふわ,Sparkly and Fluffy,text
+[成長]キラキラふわふわ,[Growth] Sparkly and Fluffy,text
+ハ♡トフェルトゥギフト,ハ♡トフェルトゥギフト,text
+まろやかコーティング,まろやかコーティング,text
+[感謝]まろやかコーティング,[感謝]まろやかコーティング,text
+はじけてスマイル,Bursting Smile,text
+アツさは加速して,アツさは加速して,text
+[弾むココロ]アツさは加速して,[弾むココロ]アツさは加速して,text
+深染め、いろみぐさ,深染め、いろみぐさ,text
+いろはに響くこえ,いろはに響くこえ,text
+[願い星]いろはに響くこえ,[願い星]いろはに響くこえ,text
+ソラを跳ね,Splash into the Sky,text
+ふりそそぐように,ふりそそぐように,text
+[輝き]ふりそそぐように,[輝き]ふりそそぐように,text
+花風Smiley,花風Smiley,text
+ひらり,ひらり,text
+[くるくる]ひらり,[くるくる]ひらり,text
+ひとつ、はたたく,ひとつ、はたたく,text
+めくるめく,めくるめく,text
+[ふたつ、]めくるめく,[ふたつ、]めくるめく,text
+識る,識る,text
+[星のみぞ]識る,[星のみぞ]識る,text
+きみと巡り行く,きみと巡り行く,text
+合わせる,合わせる,text
+[吹き込む]合わせる,[吹き込む]合わせる,text
+私のハルモニア,私のハルモニア,text
+輝く空,輝く空,text
+[虹が]輝く空,[虹が]輝く空,text
+あなたと、いただきます,あなたと、いただきます,text
+こころ,こころ,text
+[向き合う]こころ,[向き合う]こころ,text
+天然色ピクニック,Technicolor Picnic,text
+音、雨、パシャ、リ,音、雨、パシャ、リ,text
+by to illuminate,by to illuminate,text
+まわる音色、君色のかおり,まわる音色、君色のかおり,text
+ふわり気持ち、秋かおり,ふわり気持ち、秋かおり,text
+月へようこそ,月へようこそ,text
+３人だけのフォーメーション,３人だけのフォーメーション,text
+出会い,出会い,text
+ツバサグラビティ,Tsubasa Gravity,text
+やさしい夜に,やさしい夜に,text
+トリプルイルミネーション,トリプルイルミネーション,text
+お揃いスナップ,Matching Shots,text
+スプラッシュビート,Splash Beat,text
+はじまりのエピローグ,はじまりのエピローグ,text
+冬街イルミネート,Illuminated Winter Streets,text
+駅線上の日常,駅線上の日常,text
+つむぎ、まばゆく。星屑たち,つむぎ、まばゆく。星屑たち,text
+こころ、えんにならんで,こころ、えんにならんで,text
+泡沫の石たちに乾杯,泡沫の石たちに乾杯,text
+夏風渡るdiary,夏風渡るdiary,text
+春日影、さんならび,春日影、さんならび,text
+私のレンズの先のこと,私のレンズの先のこと,text
+"2,640のきせき","2,640のきせき",text
+お手をどうぞ,お手をどうぞ,text
+プリズムフレア ,Prism Flare,text
+手作りの心遣い,Handmade Consideration,text
+身体に気を付けて,身体に気を付けて,text
+[思いやり]身体に気を付けて,[思いやり]身体に気を付けて,text
+マフラー直して、心は解けて,"Fix Your Scarf, Melt My Heart",text
+気になる首元,気になる首元,text
+[何故でしょう]気になる首元,[何故でしょう]気になる首元,text
+落下予測地点,Estimated Drop Point,text
+本番まであと10分,本番まであと10分,text
+[点火]本番まであと10分,[点火]本番まであと10分,text
+インビジブルタイム,インビジブルタイム,text
+ひととき,ひととき,text
+[秋色]ひととき,[秋色]ひととき,text
+足りない隙間,足りない隙間,text
+入りきらないもの,入りきらないもの,text
+[楽しくて]入りきらないもの,[楽しくて]入りきらないもの,text
+柔らかな微笑み,Tender Smile,text
+見つけたもの,見つけたもの,text
+[蒼い輝き]見つけたもの,[蒼い輝き]見つけたもの,text
+淡雪の戯れ,Playing with Snowfalls,text
+真っ白になりましたね,真っ白になりましたね,text
+[雪化粧]真っ白になりましたね,[雪化粧]真っ白になりましたね,text
+伸ばす手に乗せるのは,伸ばす手に乗せるのは,text
+万華鏡ライアー,万華鏡ライアー,text
+[不器用でも]万華鏡ライアー,[不器用でも]万華鏡ライアー,text
+清閑に息をひそめて,清閑に息をひそめて,text
+ふわり,ふわり,text
+[こころひかり]ふわり,[こころひかり]ふわり,text
+黒百合前で待ち合わせ,黒百合前で待ち合わせ,text
+二度目の正直,二度目の正直,text
+[次こそは？]二度目の正直,[次こそは？]二度目の正直,text
+涼,涼,text
+夏の残り香,夏の残り香,text
+[贅沢]夏の残り香,[贅沢]夏の残り香,text
+洸,洸,text
+切り取って,切り取って,text
+[目を開けて]切り取って,[目を開けて]切り取って,text
+ひとりじゃない夜のこと,ひとりじゃない夜のこと,text
+あたたかいので,あたたかいので,text
+[今、夜は]あたたかいので,[今、夜は]あたたかいので,text
+耿耿,耿耿,text
+追いかけている,追いかけている,text
+[その背を]追いかけている,[その背を]追いかけている,text
+エバー・リメンバー・ネバー,エバー・リメンバー・ネバー,text
+忘れない,忘れない,text
+[忘れられない]忘れない,[忘れられない]忘れない,text
+ベター・ザン・ベスト,ベター・ザン・ベスト,text
+精一杯の自分で,精一杯の自分で,text
+[妥協はしない]精一杯の自分で,[妥協はしない]精一杯の自分で,text
+克服の特訓,Overcoming Special Training,text
+遊び疲れて……,Tired From Playing...,text
+魔法の階段を上って……,Climbing the Magic Staircase...,text
+RPGのススメ,RPG Rally,text
+クローズ・トゥ・ユー,クローズ・トゥ・ユー,text
+幾星霜の先に,幾星霜の先に,text
+混ぜ込む気持ち,混ぜ込む気持ち,text
+空×虹,空×虹,text
+みんなと一緒に,みんなと一緒に,text
+みんなと結んだもの,みんなと結んだもの,text
+風野署長の一日勤務回想録,Chief Kazano's One-Day Work Memoir,text
+星合アステリズム,星合アステリズム,text
+星掬い藍仰ぐ,星掬い藍仰ぐ,text
+宝石色のしおり,宝石色のしおり,text
+水面を仰いで海の底,水面を仰いで海の底,text
+永遠の方程式,永遠の方程式,text
+ふたりといる夜のこと,ふたりといる夜のこと,text
+守って！スターリー☆ナイト,守って！スターリー☆ナイト,text
+レンズの先に見えたもの,レンズの先に見えたもの,text
+キネマ・リリックで夢見て,Lyrics Dreamt at the Cinema,text
+ポップコーンラブ,ポップコーンラブ,text
+[大盛]ポップコーンラブ,[大盛]ポップコーンラブ,text
+小さな夜のトロイメライ,Little Night of Traumerei,text
+凍てつく街に,凍てつく街に,text
+[白い息]凍てつく街に,[白い息]凍てつく街に,text
+チエルアルコは流星の,Ĉielarko's Meteor,text
+ハロー・ワールド,ハロー・ワールド,text
+届かない,届かない,text
+[今はまだ]届かない,[今はまだ]届かない,text
+セツナ/n,セツナ/n,text
+一日,一日,text
+[雪なの]一日,[雪なの]一日,text
+金色の元気いっぱいガール,Golden Vivacious Girl,text
+ぽかぽか友達想い,ぽかぽか友達想い,text
+[お日さま]ぽかぽか友達想い,[お日さま]ぽかぽか友達想い,text
+夏に恋するピチカート！,夏に恋するピチカート！,text
+プリズムシャワー,プリズムシャワー,text
+[360度]プリズムシャワー,[360度]プリズムシャワー,text
+シュカのまにまに,シュカのまにまに,text
+オーダーはかき氷,オーダーはかき氷,text
+[追加]オーダーはかき氷,[追加]オーダーはかき氷,text
+日々を紡ぐインヴェルノ,日々を紡ぐインヴェルノ,text
+[お任せ！]Do It Yourself,[お任せ！]Do It Yourself,text
+アイの誓い,アイの誓い,text
+ライク スカイ,ライク スカイ,text
+[アイ]ライク スカイ,[アイ]ライク スカイ,text
+たまゆらフレーミング,たまゆらフレーミング,text
+マジックアワー,マジックアワー,text
+[コネクト]マジックアワー,[コネクト]マジックアワー,text
+きゅん♡コメ,きゅん♡コメ,text
+おまじない,おまじない,text
+[愛情込めて]おまじない,[愛情込めて]おまじない,text
+たそかれスワッグ,たそかれスワッグ,text
+振り返る,振り返る,text
+[サイダー片手に]振り返る,[サイダー片手に]振り返る,text
+ずっと・グッド・ラック,ずっと・グッド・ラック,text
+応援してるよ！,応援してるよ！,text
+[いつでも]応援してるよ！,[いつでも]応援してるよ！,text
+こころレイヤリング,こころレイヤリング,text
+重ねづけ,重ねづけ,text
+[毎日]重ねづけ,[毎日]重ねづけ,text
+ふたり色 クレオール,ふたり色 クレオール,text
+言,言,text
+[莫レ]言,[莫レ]言,text
+そらあいスウィング,そらあいスウィング,text
+喜劇,喜劇,text
+[紛れもない]喜劇,[紛れもない]喜劇,text
+友情の花吹雪,友情の花吹雪,text
+友達という灯り,友達という灯り,text
+アイムカミングスーン,I'm Coming Soon,text
+サンシャインシエスタ！,サンシャインシエスタ！,text
+スローリー・メモリー,スローリー・メモリー,text
+今、羽ばたく瞬間――,今、羽ばたく瞬間――,text
+花火のヒカリ,花火のヒカリ,text
+２８３プロの集大成,２８３プロの集大成,text
+スタァライトショウタイム,Starlight Showtime,text
+キャプテン★パンプキン,キャプテン★パンプキン,text
+花笑み咲匂う,花笑み咲匂う,text
+ああひかりよ,ああひかりよ,text
+アップ・トゥ・ユー,アップ・トゥ・ユー,text
+ハッピー・バレンタイン？,ハッピー・バレンタイン？,text
+ワン・デイ,ワン・デイ,text
+オールウェイズ,オールウェイズ,text
+シェア・シェア・ハピネス,シェア・シェア・ハピネス,text
+青風、駆けていく,青風、駆けていく,text
+春待ちララバイ,春待ちララバイ,text
+王と蚤,王と蚤,text
+ばってん長崎恋岬,"Anyhow, Nagasaki Cape o' Love",text
+ばり好いとーよ,ばり好いとーよ,text
+[長崎の大砲]ばり好いとーよ,[長崎の大砲]ばり好いとーよ,text
+ビ～バップ海岸,ビ～バップ海岸,text
+今夜はファンキームーン,今夜はファンキームーン,text
+[ヤッ！]今夜はファンキームーン,[ヤッ！]今夜はファンキームーン,text
+は～と♡に火をつけて,Light My Fire,text
+高速のって,高速のって,text
+[かもんみゅ～じっ]高速のって,[かもんみゅ～じっ]高速のって,text
+猫道カントリー,猫道カントリー,text
+そうやなかとに！,そうやなかとに！,text
+[も～っ]そうやなかとに！,[も～っ]そうやなかとに！,text
+雪、えとせとら,雪、えとせとら,text
+降りつもる,降りつもる,text
+[ずっと] 降りつもる,[ずっと] 降りつもる,text
+ばりうまかブルース,ばりうまかブルース,text
+いっぱい食べんね,いっぱい食べんね,text
+[幸せ]いっぱい食べんね,[幸せ]いっぱい食べんね,text
+月の浜辺で待っとって,月の浜辺で待っとって,text
+ひゃくおくえん,ひゃくおくえん,text
+[大トロ]ひゃくおくえん,[大トロ]ひゃくおくえん,text
+風吹く丘にはよ来んね,風吹く丘にはよ来んね,text
+追いついちゃった,追いついちゃった,text
+[夏]追いついちゃった,[夏]追いついちゃった,text
+うちのリボンは恋結び,うちのリボンは恋結び,text
+だめみたい,だめみたい,text
+[♥すぎて]だめみたい,[♥すぎて]だめみたい,text
+心の鐘が鳴っとるけん,心の鐘が鳴っとるけん,text
+♡恋日記♡,♡恋日記♡,text
+[月岡恋鐘の]♡恋日記♡,[月岡恋鐘の]♡恋日記♡,text
+秋空ばくちずさんで,秋空ばくちずさんで,text
+つないどって！,つないどって！,text
+[もうちょっと]つないどって！,[もうちょっと]つないどって！,text
+あなたと、月の満ちる頃,あなたと、月の満ちる頃,text
+ふたつの月,ふたつの月,text
+[望]ふたつの月,[望]ふたつの月,text
+よか匂いのする陽気やけん,よか匂いのする陽気やけん,text
+春爛漫,春爛漫,text
+[うららか]春爛漫,[うららか]春爛漫,text
+ふりそそぐもの,ふりそそぐもの,text
+こい,こい,text
+[こん]こい,[こん]こい,text
+駆けていく,駆けていく,text
+[あなたと]駆けていく,[あなたと]駆けていく,text
+いつか帰りたか場所,The Place I Wanna Return to,text
+観光大使,観光大使,text
+[ばりすごか]観光大使,[ばりすごか]観光大使,text
+やけん、なんの話～！？,やけん、なんの話～！？,text
+と～りゃんせ！,Toryanse!,text
+秋、どがんね～？,"Fall, How've Ya Been?",text
+冬、どがんね～？,冬、どがんね～？,text
+ばら色ハーモニー,ばら色ハーモニー,text
+夏空商店街,夏空商店街,text
+最初の勇気,最初の勇気,text
+ふっふ～ん、ふふ～ん♪,ふっふ～ん、ふふ～ん♪,text
+これ、なんの話～？,これ、なんの話～？,text
+夏、どがんね～？,夏、どがんね～？,text
+晴れ、よかばい～！,晴れ、よかばい～！,text
+会いに行かんば～！,会いに行かんば～！,text
+ビコーズ・ラブ,ビコーズ・ラブ,text
+あけまして、大吉～！,あけまして、大吉～！,text
+にゃんにゃんにゃ～ん♡,Meow Meow Meow〜♡,text
+春風来たりて,春風来たりて,text
+いんすたんとバケーション！,いんすたんとバケーション！,text
+ばってん乙女♡ラブ・ムーン,ばってん乙女♡ラブ・ムーン,text
+裏腹あまのじゃく,Contrary Devil,text
+まみみをみつけて,まみみをみつけて,text
+[悪い子]まみみをみつけて,[悪い子]まみみをみつけて,text
+夕つ方まみみチック,Dusk Mamimi-mantic,text
+絢爛夏祭り,絢爛夏祭り,text
+[摩美々流]絢爛夏祭り,[摩美々流]絢爛夏祭り,text
+そのまみみ無気力につき,Regarding Mamimi's Lethargy,text
+そんでジ・エンド,そんでジ・エンド,text
+[anyway]そんでジ・エンド,[anyway]そんでジ・エンド,text
+irodori-corridor,irodori-corridor,text
+静かなおしゃべり,静かなおしゃべり,text
+[騒がしいほど]静かなおしゃべり,[騒がしいほど]静かなおしゃべり,text
+トリッキーナイト,Tricky Night ,text
+気まぐれクリーミィ,気まぐれクリーミィ,text
+[絶対的]気まぐれクリーミィ,[絶対的]気まぐれクリーミィ,text
+摩的・アンチテーゼ,Mamimian Antithesis,text
+パープル・ミラージュ,Purple Mirage,text
+ミスティサマー,ミスティサマー,text
+[パラノーマル]ミスティサマー,[パラノーマル]ミスティサマー,text
+フィドル・ファドル,フィドル・ファドル,text
+冬って嫌なんですよ,冬って嫌なんですよ,text
+[だから]冬って嫌なんですよ,[だから]冬って嫌なんですよ,text
+真・TRAVELER,真・TRAVELER,text
+摩心,摩心,text
+[真]摩心,[真]摩心,text
+アバウト-ナイト-ライト,アバウト-ナイト-ライト,text
+トカゲ,トカゲ,text
+[ヒカリ]トカゲ,[ヒカリ]トカゲ,text
+リバーシブル・トースト,リバーシブル・トースト,text
+つかんだ,つかんだ,text
+[ハズレ]つかんだ,[ハズレ]つかんだ,text
+キレイ,キレイ,text
+[フクザツデ]キレイ,[フクザツデ]キレイ,text
+まみみスイッチ,まみみスイッチ,text
+オフ,オフ,text
+[スイッチ]オフ,[スイッチ]オフ,text
+ここに,ここに,text
+[念じれば]ここに,[念じれば]ここに,text
+カラフルポップMIX,Colorful Pop MIX,text
+アーリー・ナチュラリィ,アーリー・ナチュラリィ,text
+イン・ザ・ピンク,In The Pink,text
+コミケ102,Comiket 102,text
+ひまな白銀,ひまな白銀,text
+みんなと一緒に,みんなと一緒に,text
+レイニーじゃんじゃん,レイニーじゃんじゃん,text
+ゴシックデコレーション,ゴシックデコレーション,text
+闇鍋上等,First-Class Potluck Hot Pot,text
+夜夜中ワンダーラスト,夜夜中ワンダーラスト,text
+きまぐれのめぐみ,きまぐれのめぐみ,text
+デタラメハッシュタグ,デタラメハッシュタグ,text
+スプリング・フィッシュ,スプリング・フィッシュ,text
+ソバニアル・サマー,ソバニアル・サマー,text
+パッチ・リコレクション,パッチ・リコレクション,text
+メモラブル・シングス,メモラブル・シングス,text
+秘めやかファンサービス,秘めやかファンサービス,text
+王子様とのひと時,王子様とのひと時,text
+[彼女の素顔]王子様とのひと時,[彼女の素顔]王子様とのひと時,text
+ふれあい、おもいあい,ふれあい、おもいあい,text
+だってウサギは,だってウサギは,text
+[ぴょんっ]だってウサギは,[ぴょんっ]だってウサギは,text
+雪染めロマンティカ,Snow-dyed Romantica,text
+だって世界が白いから,だって世界が白いから,text
+[全て]だって世界が白いから,[全て]だって世界が白いから,text
+真紅一輪,真紅一輪,text
+ピンク・カーネーション,ピンク・カーネーション,text
+[無垢の]ピンク・カーネーション,[無垢の]ピンク・カーネーション,text
+紺碧のボーダーライン,Azure Borderline,text
+ここが私の好きな場所,ここが私の好きな場所,text
+[願い]ここが私の好きな場所,[願い]ここが私の好きな場所,text
+心を閉じこめて,心を閉じこめて,text
+[今は]心を閉じこめて,[今は]心を閉じこめて,text
+幸福のリズム,Rhythm of Joy,text
+コツンコツン,コツンコツン,text
+[……コツン]コツンコツン,[……コツン]コツンコツン,text
+海と太陽のプロメッサ,Promessa of the Sun and Sea,text
+──ッタッタ,──ッタッタ,text
+[タラッ]──ッタッタ,[タラッ]──ッタッタ,text
+乙女と交わすTrick,Girl and Her Interlaced Tricks,text
+渦と淵,渦と淵,text
+迷,迷,text
+[明]迷,[明]迷,text
+はらりひらり結ぶ,はらりひらり結ぶ,text
+彩,彩,text
+[重ねる]彩,[重ねる]彩,text
+私をときめかせて,私をときめかせて,text
+魔法,魔法,text
+[クローゼットからの]魔法,[クローゼットからの]魔法,text
+落ちる音がする,落ちる音がする,text
+夜が来ても,夜が来ても,text
+[連れて]行くよ,[連れて]行くよ,text
+[連れて]行くよ,[連れて]行くよ,text
+記憶が降る街,記憶が降る街,text
+いたい,いたい,text
+[浴びて]いたい,[浴びて]いたい,text
+雲間のモーメント,雲間のモーメント,text
+マジカル＊スカイレース,マジカル＊スカイレース,text
+咲耶と摩美々のぶらり旅,Sakuya & Mamimi's Aimless Trip,text
+当日じゃない日,当日じゃない日,text
+スイッチ・デイズ,スイッチ・デイズ,text
+指先の煌めき,Sparkling Fingertips,text
+街角フラワーガーデン,Street Corner Flower Garden,text
+月映えのソワレ,月映えのソワレ,text
+シー・イズ,She Is,text
+あのねが言える場所,"A Place I Can Say ""Hey""",text
+それは途中の１ページ,それは途中の１ページ,text
+かわいいひと,Cute Person,text
+冬の隙間,The Gaps of Winter,text
+純粋・fall into a trap,純粋・fall into a trap,text
+カラフルメタモルフォーゼ,Colorful Metamorphosis,text
+ナイショの好きなもの,ナイショの好きなもの,text
+[気まぐれ]ナイショの好きなもの,[気まぐれ]ナイショの好きなもの,text
+雨色、上機嫌,Rainy Good Mood,text
+傘デート,傘デート,text
+[雨待ち]傘デート,[雨待ち]傘デート,text
+お願い、ただの少女がいい,"Just an Ordinary Girl, Please",text
+あなたにわがまま,あなたにわがまま,text
+[心明かして]あなたにわがまま,[心明かして]あなたにわがまま,text
+Hakoni□a,Hakoni□a,text
+知らないだけ,知らないだけ,text
+[見てないだけ]知らないだけ,[見てないだけ]知らないだけ,text
+お試し/みつゴコロ,Trial Run/Hidden Heart,text
+ごっこ遊びにご用心,ごっこ遊びにご用心,text
+[♡を奪え]ごっこ遊びにご用心,[♡を奪え]ごっこ遊びにご用心,text
+それなら目をつぶりましょう,"In That Case, Close Your Eyes",text
+心に映して,心に映して,text
+[瞳に留めて]心に映して,[瞳に留めて]心に映して,text
+NOT≠EQUAL,NOT≠EQUAL,text
+夜が煽るから,夜が煽るから,text
+[secret]夜が煽るから,[secret]夜が煽るから,text
+く　ら　く　ら,D i z z y D i z z y,text
+蝶が羽ばたく,蝶が羽ばたく,text
+[後と先]蝶が羽ばたく,[後と先]蝶が羽ばたく,text
+雨に祝福,Blessed by the Rain,text
+喝采あるいは信頼を,喝采あるいは信頼を,text
+[しとしと]喝采あるいは信頼を,[しとしと]喝采あるいは信頼を,text
+♡コメディ,♡Comedy,text
+一夜,一夜,text
+[灯って]一夜,[灯って]一夜,text
+浮かんでは消える,浮かんでは消える,text
+[本物]浮かんでは消える ,[本物]浮かんでは消える ,text
+ノー・ライフ,No Life,text
+回帰,回帰,text
+[　　]回帰,[　　]回帰,text
+鏡界フィクションレイン,"Mirrored Realm, Fictional Rain",text
+向こう,向こう,text
+[透明の]向こう,[透明の]向こう,text
+Good-bye ラブレター,Good-bye Love Letter,text
+なって,なって,text
+[私のものに]なって,[私のものに]なって,text
+待ちぼうけ次回予告,Staying tuned for what's next,text
+輪になって,輪になって,text
+メロウビート・スローダウン,メロウビート・スローダウン,text
+翻弄by♡time,翻弄by♡time,text
+こんな顔して実は,こんな顔して実は,text
+ウタという炎,ウタという炎,text
+IN THE MOOD VOL.3,IN THE MOOD VOL.3,text
+等身大のレイニーデイ,Realistic Rainy Day,text
+ハロー、私の「いつも通り」,ハロー、私の「いつも通り」,text
+賑やか四畳半,Lively 4 ½ Tatami Room,text
+プレゼントなら両手いっぱい,Lots of Presents in My Hands,text
+おはようと日向に手を振る,"""Good Morning"", I Wave to the Sunshine",text
+リ・リフレクション,リ・リフレクション,text
+ヒトトキ／トワ,ヒトトキ／トワ,text
+心に住む人,The Ones Who Stay in My Heart,text
+焦,焦,text
+一夏・泡沫・ギフテッド,One Summer・Momentary・Gifted,text
+宝鈿玉釵,宝鈿玉釵,text
+包・帯・組・曲,Band・age・Wrap・Melody,text
+救急少女,救急少女,text
+[献身]救急少女,[献身]救急少女,text
+伝・伝・心・音,伝・伝・心・音,text
+草ニ寄スル想,草ニ寄スル想,text
+[純情]草ニ寄スル想,[純情]草ニ寄スル想,text
+白・白・白・祈,Pure・White・Light・Prayer,text
+来てくれました、雪,来てくれました、雪,text
+[敬慕]来てくれました、雪,[敬慕]来てくれました、雪,text
+天・天・白・布,天・天・白・布,text
+ばたばた……,ばたばた……,text
+[はたはた……]ばたばた……,[はたはた……]ばたばた……,text
+雨・雨・電・電,Rain・Rain・Ring・Ring,text
+しとしと,しとしと,text
+[ぽそぽそ]しとしと,[ぽそぽそ]しとしと,text
+霧・音・燦・燦,Kiri's・Bright・Sou・nds,text
+光が鳴るから,光が鳴るから,text
+[ラ・セ・ラ]光が鳴るから,[ラ・セ・ラ]光が鳴るから,text
+夕・音・鳴・鳴,夕・音・鳴・鳴,text
+しろいとこ,しろいとこ,text
+[あかいとこ]しろいとこ,[あかいとこ]しろいとこ,text
+菜・菜・輪・舞,菜・菜・輪・舞,text
+真っ白食パン,真っ白食パン,text
+[ダンスホールは]真っ白食パン,[ダンスホールは]真っ白食パン,text
+鱗・鱗・謹・賀,鱗・鱗・謹・賀,text
+いこうね,いこうね,text
+[またね] いこうね,[またね] いこうね,text
+琴・禽・空・華,琴・禽・空・華,text
+土,土,text
+[空]土,[空]土,text
+かぜかんむりのこどもたち,かぜかんむりのこどもたち,text
+風、飛行機,風、飛行機,text
+[お日さま]風、飛行機,[お日さま]風、飛行機,text
+縷・縷・屡・来,縷・縷・屡・来,text
+くる,くる,text
+[ゆく]くる,[ゆく]くる,text
+空・風・明・鳴,空・風・明・鳴,text
+風の通る道,風の通る道,text
+[雲と]風の通る道,[雲と]風の通る道,text
+窓・送・巡・歌,窓・送・巡・歌,text
+きたの？,きたの？,text
+[かえって]きたの？,[かえって]きたの？,text
+唯・唯・寧・詠,唯・唯・寧・詠,text
+おりなす,おりなす,text
+[うたい]おりなす,[うたい]おりなす,text
+白・架・祝・幻,白・架・祝・幻,text
+ふたりには,ふたりには,text
+[へだてるものなど]ふたりには,[へだてるものなど]ふたりには,text
+綿毛ノ想,綿毛ノ想,text
+娘・娘・金・魚,娘・娘・金・魚,text
+我・思・君・思,My・Thoughts・Your・Thoughts,text
+君・空・我・空,Your・Sky・My・Sky,text
+犬・猿・雉・霧,犬・猿・雉・霧,text
+赤・巾・狼・娘,赤・巾・狼・娘,text
+ライブ前,ライブ前,text
+霧・霧・奇・譚,霧・霧・奇・譚,text
+娘・娘・謹・賀,娘・娘・謹・賀,text
+潜・潜・夏・娘,潜・潜・夏・娘,text
+奇・綺・甘・甘,奇・綺・甘・甘,text
+数・数・娘・娘,数・数・娘・娘,text
+午・燦・娘・娘,午・燦・娘・娘,text
+奏・奏・綺・羅,奏・奏・綺・羅,text
+吼・吼・熱・々,吼・吼・熱・々,text
+煌・煌・星・娘,煌・煌・星・娘,text
+楓・風・娘・娘,楓・風・娘・娘,text
+廻・廻・娩・淘,廻・廻・娩・淘,text
+巡・巡・花・風,巡・巡・花・風,text
+サマーキャンペーン2024,Summer Campaign 2024,text
+マメ丸と一緒！,Together with Mamemaru!,text
+小学生の日常,A Grade Schooler's Daily Life,text
+[元気いっぱい]小学生の日常,[Lots of Energy] A Grade Schooler's Daily Life,text
+デコって！ハッピークッキー,Decoration! Happy Cookie,text
+幸せカウントダウン,Happiness Countdown,text
+[あと３秒]幸せカウントダウン,[in 3 Secs] Happiness Countdown,text
+キャッチ・ザ・フォール！,キャッチ・ザ・フォール！,text
+トリック・★・トリート,トリック・★・トリート,text
+[どっち]トリック・★・トリート,[どっち]トリック・★・トリート,text
+窓辺・サイレントタイム,窓辺・サイレントタイム,text
+夢見たこと,夢見たこと,text
+[叶いました！]夢見たこと,[叶いました！]夢見たこと,text
+ソー・ディフィカルト！,ソー・ディフィカルト！,text
+なやみごと,なやみごと,text
+[どうしよう？]なやみごと,[どうしよう？]なやみごと,text
 第２形態アーマードタイプ,2nd Form Armored Type,text
 ランドセルは元気の証,This Backpack is a Symbol of Energy,text
 [変身！]ランドセルは元気の証,[Transform!] This Backpack is a Symbol of Energy,text
@@ -317,18 +870,353 @@ Visual上限UP,Visual Cap. UP,text
 潮騒のシーショア,Sounds of the Seashore,text
 静かな海の記憶,Memories of a Quiet Ocean,text
 [シー]静かな海の記憶,[Sea] Memories of a Quiet Ocean,text
-マメ丸と一緒！,Together with Mamemaru!,text
-小学生の日常,A Grade Schooler's Daily Life,text
-[元気いっぱい]小学生の日常,[Lots of Energy] A Grade Schooler's Daily Life,text
-デコって！ハッピークッキー,Decoration! Happy Cookie,text
-幸せカウントダウン,Happiness Countdown,text
-[あと３秒]幸せカウントダウン,[in 3 Secs] Happiness Countdown,text
+エクストリーム・ブレイク！,Extreme Break!,text
+上手にできました！,上手にできました！,text
+[結晶]上手にできました！,[結晶]上手にできました！,text
+日刊ウィズ・ユー！,日刊ウィズ・ユー！,text
+昨日今日明日明後日,昨日今日明日明後日,text
+[共有]昨日今日明日明後日,[共有]昨日今日明日明後日,text
+フルスロットルエイジ！,フルスロットルエイジ！,text
+はんぶんこ,はんぶんこ,text
+[ほくほく]はんぶんこ,[ほくほく]はんぶんこ,text
+ギア・アップ！ゴー・オン！,ギア・アップ！ゴー・オン！,text
+前へ,前へ,text
+[速度上げて]前へ,[速度上げて]前へ,text
+スノードーム・シンドローム,スノードーム・シンドローム,text
+一緒に,一緒に,text
+[行こうよ]一緒に,[行こうよ]一緒に,text
+両手に兄！,両手に兄！,text
+ブラザー！,ブラザー！,text
+[大中小]ブラザー！,[大中小]ブラザー！,text
+カラーズキャッチ！,カラーズキャッチ！,text
+見つけよう,見つけよう,text
+[探そう]見つけよう,[探そう]見つけよう,text
+きみだけ！,きみだけ！,text
+ぜんぶ！,ぜんぶ！,text
+[チョコパイで]ぜんぶ！,[チョコパイで]ぜんぶ！,text
+ななひゃくさんじゅう えん,ななひゃくさんじゅう えん,text
+放課後スノーガールズ！,HO-KA-GO Snow Girls!,text
+無敵の証！五紋章！,無敵の証！五紋章！,text
+ホーカゴ・ア・ゴーゴー！,ホーカゴ・ア・ゴーゴー！,text
+キング・アンド・ヒーロー,キング・アンド・ヒーロー,text
+『大天使カホエル』,『大天使カホエル』,text
+みんなと一緒に,みんなと一緒に,text
+ヒーローインザパーク,Hero In The Park,text
+鉄板★絶品★海の家,鉄板★絶品★海の家,text
+雨のち、マイヒーロー,雨のち、マイヒーロー,text
+ナツイロ☆アフタースクール,ナツイロ☆アフタースクール,text
+続！（完全）燃焼,続！（完全）燃焼,text
+反撃の狼煙をあげよ！,反撃の狼煙をあげよ！,text
+チルドレンモード！,チルドレンモード！,text
+ロング・ショート・タイム！,ロング・ショート・タイム！,text
+グロウン・メイク・アップ！,グロウン・メイク・アップ！,text
+オルター！,オルター！,text
+友情BURNING！,友情BURNING！,text
+ワン・フォー・オール！,ワン・フォー・オール！,text
+純真チョコレート,Pure Chocolate,text
+セルフプロデュース,セルフプロデュース,text
+[真剣！]セルフプロデュース,[真剣！]セルフプロデュース,text
+よろしく♡めしませっ,よろしく♡めしませっ,text
+私のスイート,私のスイート,text
+[チョコづくし]私のスイート,[チョコづくし]私のスイート,text
+錯覚・Darling,錯覚・Darling,text
+フロイラインに心酔,フロイラインに心酔,text
+おいしいmagie,おいしいmagie,text
+[かけてよ]おいしいmagie,[かけてよ]おいしいmagie,text
+ちょこ色×きらきらロマン,Chocolatey×Sparkling Romance,text
+お好きなチョコをどうぞ,お好きなチョコをどうぞ,text
+[新作！]お好きなチョコをどうぞ,[新作！]お好きなチョコをどうぞ,text
+あそ→と♡ちよこれいと,あそ→と♡ちよこれいと,text
+おひとつお味見,おひとつお味見,text
+[内緒でどうぞ]おひとつお味見,[内緒でどうぞ]おひとつお味見,text
+かきまぜたら＊ミルク,かきまぜたら＊ミルク,text
+チョコで狙い撃ち,チョコで狙い撃ち,text
+[せーのっ]チョコで狙い撃ち,[せーのっ]チョコで狙い撃ち,text
+プリティ・スイート,プリティ・スイート,text
+砂糖づけ・ビターエンド,"Candied, Bitter End",text
+[あまさず]taste,[あまさず]taste,text
+トコハレ☀コメディ,トコハレ☀コメディ,text
+瞳に宿す,瞳に宿す,text
+[宝石]瞳に宿す,[宝石]瞳に宿す,text
+うつくしいあした,うつくしいあした,text
+チョコ for Y♡U,チョコ for Y♡U,text
+わからないと思ったのに,わからないと思ったのに,text
+[あーん]わからないと思ったのに,[あーん]わからないと思ったのに,text
+掴まれたまま,掴まれたまま,text
+[心なら]掴まれたまま,[心なら]掴まれたまま,text
+はじめましてラストダンス,はじめましてラストダンス,text
+甘いアイドル,甘いアイドル,text
+[あなたの隣に]甘いアイドル,[あなたの隣に]甘いアイドル,text
+迷走チョコロード,Straying Off Choco Road,text
+Best☆Great☆サマー！,Best☆Great☆サマー！,text
+ぐるもこ・まふ×２,Fuzzy and Soft Muffler x2,text
+茜色セレンディピティ,Autumn-Colored Serendipity,text
+ラフ？ガール,ラフ？ガール,text
+照らしあう景色,照らしあう景色,text
+サマーアイドル2022,Summer Idol 2022,text
+放課後★肝試しパニック,放課後★肝試しパニック,text
+桜餅マスター……？,Sakura Mochi Master...?,text
+紅蘭偉魔空珠に挑め！,紅蘭偉魔空珠に挑め！,text
+おあがり←くらいまっくす,おあがり←くらいまっくす,text
+kimagure全力ビート！,kimagure全力ビート！,text
+生彩トラベリング,生彩トラベリング,text
+◎もちもちよこ◎,◎もちもちよこ◎,text
+歪-twst-罅割-brk,歪-twst-罅割-brk,text
+ちょこほりっく♡注意報,ちょこほりっく♡注意報,text
+ねぇ、ねぇ、ねぇ,"Nee, Nee, Nee",text
+リアルラックにお願い☆★,リアルラックにお願い☆★,text
+バッドガールの羽ばたき,Bad Girl Spreads Her Wings,text
+いろんなアタシ,いろんなアタシ,text
+[変化]いろんなアタシ,[変化]いろんなアタシ,text
+オフデーゲーム,オフデーゲーム,text
+休息曜日,休息曜日,text
+[想い事]休息曜日,[想い事]休息曜日,text
+マイ・マインド,マイ・マインド,text
+[未来ゆき]マイ・マインド,[未来ゆき]マイ・マインド,text
+夏服にWIND YOU！,夏服にWIND YOU！,text
+元気になれる言葉,元気になれる言葉,text
+[今日の]元気になれる言葉,[今日の]元気になれる言葉,text
+ラムネ色の覚悟,ラムネ色の覚悟,text
+波打ち際コンプレックス,波打ち際コンプレックス,text
+[ガラス玉]波打ち際コンプレックス,[ガラス玉]波打ち際コンプレックス,text
+とびっきりジンジャー,とびっきりジンジャー,text
+ライトアップ・タウン,ライトアップ・タウン,text
+[今こそ]ライトアップ・タウン,[今こそ]ライトアップ・タウン,text
+曲がり角のランウェイ,曲がり角のランウェイ,text
+標識無し,標識無し,text
+[この先]標識無し,[この先]標識無し,text
+誰が為シンパシー,誰が為シンパシー,text
+進む先で待つ人へ,進む先で待つ人へ,text
+[誰か]進む先で待つ人へ,[誰か]進む先で待つ人へ,text
+秋陽のスケッチ,秋陽のスケッチ,text
+放課後,放課後,text
+[シャープ]放課後,[シャープ]放課後,text
+花染む街で、君と,花染む街で、君と,text
+聞かせて,聞かせて,text
+[声を]聞かせて,[声を]聞かせて,text
+瞬きもせず,瞬きもせず,text
+[この瞬間]瞬きもせず,[この瞬間]瞬きもせず,text
+陽の光、透かせば,陽の光、透かせば,text
+風が吹く,風が吹く,text
+[背中押す]風が吹く,[背中押す]風が吹く,text
+ぶつかりながら,ぶつかりながら,text
+[揺れる]ぶつかりながら,[揺れる]ぶつかりながら,text
+意地っ張りサンセット,Stubborn Sunset,text
+３名様極楽旅行記,Journey to Paradise for 3,text
+グッド・ラック・ボール,グッド・ラック・ボール,text
+晴れ待ちのひと時,Waiting for the Sun to Shine,text
+ゆらりゆられて,ゆらりゆられて,text
+祈って、分け合って,祈って、分け合って,text
+本当のヒーロー！,本当のヒーロー！,text
+混ざりあえば新しい光,混ざりあえば新しい光,text
+未知なるFROZEN,未知なるFROZEN,text
+スリープオーバーベイビー,スリープオーバーベイビー,text
+坂道だらけのこの街で,坂道だらけのこの街で,text
+SPACE WHAT？,SPACE WHAT?,text
+モーニング・グロウリー？,モーニング・グロウリー？,text
+日々の灯り,日々の灯り,text
+はずむ息、夜を縫って,はずむ息、夜を縫って,text
+心に浮かぶもの,心に浮かぶもの,text
+宝物はこの手の中に,宝物はこの手の中に,text
+紡ぐ黄昏,紡ぐ黄昏,text
+想ひいろは,想ひいろは,text
+想ひ一葉,想ひ一葉,text
+[らうたし、凛世]想ひ一葉,[らうたし、凛世]想ひ一葉,text
+凛凛、凛世,凛凛、凛世,text
+雨恋ひ歌,雨恋ひ歌,text
+[隣隣、凛世]雨恋ひ歌,[隣隣、凛世]雨恋ひ歌,text
+微熱風鈴,微熱風鈴,text
+ちりん、ちりん,ちりん、ちりん,text
+[わが純情]ちりん、ちりん,[わが純情]ちりん、ちりん,text
+ふらここのうた,ふらここのうた,text
+空に落つ,空に落つ,text
+[空へのぼる]空に落つ,[空へのぼる]空に落つ,text
+階段式純情昇降機,階段式純情昇降機,text
+春告窓,春告窓,text
+もどりました,もどりました,text
+[春]もどりました,[春]もどりました,text
+杜野凛世の印象派,杜野凛世の印象派,text
+朱、朱、きりもなや,朱、朱、きりもなや,text
+[幻]朱、朱、きりもなや,[幻]朱、朱、きりもなや,text
+凛世花伝,凛世花伝,text
+あゆめるこころ,あゆめるこころ,text
+[人恋はば人]あゆめるこころ,[人恋はば人]あゆめるこころ,text
+水色感情,水色感情,text
+十二月短篇,十二月短篇,text
+よい年になりますよう,よい年になりますよう,text
+[ともに]よい年になりますよう,[ともに]よい年になりますよう,text
+われにかへれ,われにかへれ,text
+青い,青い,text
+[赤い]青い,[赤い]青い,text
+ロー・ポジション,ロー・ポジション,text
+映るもの,映るもの,text
+[映すもの]映るもの,[映すもの]映るもの,text
+さよならごつこ,さよならごつこ,text
+ひかりさす,ひかりさす,text
+[510]ひかりさす,[510]ひかりさす,text
+晩秋ろまんす,晩秋ろまんす,text
+秋のみぎり,秋のみぎり,text
+[慕]秋のみぎり,[慕]秋のみぎり,text
+花は,花は,text
+花,花,text
+[今宵]花,[今宵]花,text
+染光満月,染光満月,text
+光り,光り,text
+[染まり]光り,[染まり]光り,text
+硝子少女,硝子少女,text
+ない,ない,text
+[わから]ない,[わから]ない,text
+ラヴ・レター,ラヴ・レター,text
+時間,時間,text
+[溶けない]時間,[溶けない]時間,text
+百色ふぉとぐらふ,Hundred Color Photograph,text
+をとめ大学,をとめ大学,text
+をとめ辞典,をとめ辞典,text
+別冊をとめ,Extra Volume Girl,text
+竜想譚,竜想譚,text
+超純情和菓子専科,超純情和菓子専科,text
+今のすべてを,今のすべてを,text
+なつおもひ,なつおもひ,text
+ふれんど日和,ふれんど日和,text
+凛世夕町物語,Rinze's Evening Town Takes,text
+常夏CLIMAX,Summer's Everlasting CLIMAX,text
+夜明けの晩に,夜明けの晩に,text
+日を食んで、夜を啜って,"Eat the Day, Sip the Night",text
+祝唄-hogiuta-,祝唄-hogiuta-,text
+をとめ条約,Girls' Treaty,text
+牛的情感盛り、一丁,牛的情感盛り、一丁,text
+珈琲の牛乳いれたん,珈琲の牛乳いれたん,text
+夏彩フレア,夏彩フレア,text
+白木槿,白木槿,text
+三恋符のソナタ,三恋符のソナタ,text
+ストイックトレーニング,Stoic Training,text
+それだけじゃないわよ,それだけじゃないわよ,text
+[息抜き]それだけじゃないわよ,[息抜き]それだけじゃないわよ,text
+カトレアの花言葉,カトレアの花言葉,text
+大人の魅力,大人の魅力,text
+[mature]大人の魅力,[mature]大人の魅力,text
+鳥籠をひらいて,鳥籠をひらいて,text
+必要ないの,必要ないの,text
+[key]必要ないの,[key]必要ないの,text
+風がかけていくように,風がかけていくように,text
+いつだって,いつだって,text
+[call me]いつだって,[call me]いつだって,text
 アルティメットマーメイド,Ultimate Mermaid,text
 煌めきの魔法,Twinkling Magic,text
 [虹色チャーム]煌めきの魔法,[Rainbow-Colored Charm] Twinkling Magic,text
 メイドインナツハ,Maid In Natsuha,text
 シュガー&スパイス,Sugar & Spice,text
 [原材料名]シュガー＆スパイス,[Ingredients] Sugar & Spice,text
+夏は来ぬ,夏は来ぬ,text
+スクリーン13,スクリーン13,text
+[15：30～]スクリーン13,[15：30～]スクリーン13,text
+マイバレンタイン,マイバレンタイン,text
+カー,カー,text
+[ワー]カー,[ワー]カー,text
+ビューティ/フル,ビューティ/フル,text
+かには,かには,text
+[せな]かには,[せな]かには,text
+虹待ちレインドロップ,Raindrops Awaiting a Rainbow,text
+紅いろは、白,紅いろは、白,text
+スタンド・バイ,Stand By,text
+夢追いランナバウト,夢追いランナバウト,text
+ナチュラルデイズ,ナチュラルデイズ,text
+アオハルランナーズ,アオハルランナーズ,text
+夢境カスタマイズ,夢境カスタマイズ,text
+色とりどりのイメージ,色とりどりのイメージ,text
+七色を知っている,七色を知っている,text
+熱血指導！,熱血指導！,text
+遊びも本気で,遊びも本気で,text
+#ナッツ・チョコジェリー,#Nuts・ChocoJelly,text
+月刊CLIMAX,月刊CLIMAX,text
+ビードロの翳,ビードロの翳,text
+明日の思い出で笑って,明日の思い出で笑って,text
+ベリー・ストロベリー,ベリー・ストロベリー,text
+コンビ・コンビニエンス,コンビ・コンビニエンス,text
+ヒイラギの窓辺に,ヒイラギの窓辺に,text
+似合うかな？,似合うかな？,text
+ファッションメモリーズ,ファッションメモリーズ,text
+[どう？]ファッションメモリーズ,[どう？]ファッションメモリーズ,text
+甜花ちゃんといっしょ☆,Together with Tenka☆,text
+上手に撮れたね☆,上手に撮れたね☆,text
+[いつも二人で]上手に撮れたね☆,[いつも二人で]上手に撮れたね☆,text
+ふたつの雨,ふたつの雨,text
+レイニーデイズハート,Rainy Days Heart,text
+[ブルー]レイニーデイズハート,[Blue] Rainy Days Heart,text
+見つけたい、だけど……,見つけたい、だけど……,text
+猫ちゃんと,猫ちゃんと,text
+[あと少し]猫ちゃんと,[あと少し]猫ちゃんと,text
+竜宮城へご招待☆,竜宮城へご招待☆,text
+忘れられぬであろう？,忘れられぬであろう？,text
+[当然]忘れられぬであろう？,[当然]忘れられぬであろう？,text
+スタンバイオッケー,Standby OK,text
+ちょっとのおまじない,ちょっとのおまじない,text
+[セレクト]ちょっとのおまじない,[セレクト]ちょっとのおまじない,text
+ゆらゆらアクアリウム,Swaying Aquarium,text
+サイレントスノウ,サイレントスノウ,text
+[止まる時間]サイレントスノウ,[止まる時間]サイレントスノウ,text
+ないしょのスイーツ,ないしょのスイーツ,text
+とっておき☆,とっておき☆,text
+[ふたりで]とっておき☆,[ふたりで]とっておき☆,text
+お散歩サンライト,お散歩サンライト,text
+宜しくお願いします,宜しくお願いします,text
+[これからも]宜しくお願いします,[これからも]宜しくお願いします,text
+叶えて☆ゴールドフィッシュ,叶えて☆ゴールドフィッシュ,text
+おいしさデコレート☆,おいしさデコレート☆,text
+[記念]おいしさデコレート☆,[記念]おいしさデコレート☆,text
+約束ペタル,約束ペタル,text
+花は咲く,花は咲く,text
+[きっと]花は咲く,[きっと]花は咲く,text
+雪空セパレート,雪空セパレート,text
+手が冷える前に,手が冷える前に,text
+[見つけて]手が冷える前に,[見つけて]手が冷える前に,text
+そばにいたい,そばにいたい,text
+[ちゃんと]そばにいたい,[ちゃんと]そばにいたい,text
+聞いてマイハート,聞いてマイハート,text
+想いよ届け,想いよ届け,text
+[感じる全て]想いよ届け,[感じる全て]想いよ届け,text
+すれちがいシアター,すれちがいシアター,text
+続けたい日々,続けたい日々,text
+[ずっと]続けたい日々,[ずっと]続けたい日々,text
+憧憬リキュールー,憧憬リキュールー,text
+味わいたい,味わいたい,text
+[ゆっくりと]味わいたい,[ゆっくりと]味わいたい,text
+輝いてアンドロメダ,輝いてアンドロメダ,text
+本当の心,本当の心,text
+[解き放って]本当の心,[解き放って]本当の心,text
+秘密のがんばり,Secret Endurance,text
+光の想い出,Memories of Light,text
+冬の日の『贈り物』,冬の日の『贈り物』,text
+初風Nostalgia,初風Nostalgia,text
+バトンをつないで,バトンをつないで,text
+みんなと一緒に,みんなと一緒に,text
+幸せのりんご飴,Candy Apple of Happiness,text
+まだ……寝ないから……,Won't Get Up... Just Yet...,text
+お菓子なティータイム,お菓子なティータイム,text
+ハッピーの答えはどこに？,ハッピーの答えはどこに？,text
+スペンサー家の日常,スペンサー家の日常,text
+レッツ☆忍び足！,レッツ☆忍び足！,text
+デビルたちの夜会☆,デビルたちの夜会☆,text
+走るっ！！！！,走るっ！！！！,text
+マジック☆ガーディアンズ,マジック☆ガーディアンズ,text
+おそろしいかぐ！,おそろしいかぐ！,text
+OT♡NAメイクヘンシン☆,OT♡NAメイクヘンシン☆,text
+ウォーターパーク☆リポート,ウォーターパーク☆リポート,text
+秘密のだらだらタイム,Secret Leisure Time,text
+努力とご褒美,Hard Work and a Reward,text
+[よくできました]努力とご褒美,[You Did Well] Hard Work and a Reward,text
+シンメトリー・プールサイド,Symmetry Poolside,text
+とびきり笑顔,Exceptional Smile,text
+[はい、チーズ]とびきり笑顔,"[""Say Cheese!""] Exceptional Smile",text
+氷上バンビーナ,Bambina On Ice,text
+この手を離さないで,Don't Let Go of My Hand,text
+[ぷるぷる]この手を離さないで,[Trembling] Don't Let Go of My Hand,text
+お日様染めのマリーナ,Sundyed Marina,text
+ビターココア,Bitter Cocoa,text
+[ほろにが]ビターココア,[Slightly] Bitter Cocoa,text
+ストライク狙って,Shoot for a Strike,text
+お迎えに来たよ,I Came to Pick You Up,text
+[無事ゲット]お迎えに来たよ,[Safe and Secure] I Came to Pick You Up,text
 事務所。静寂。大輪の華,The Office. The Silence. The Large Brilliant Flower,text
 ふたりで叫ぶ合言葉,The Word That We Shout,text
 [風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout,text
@@ -339,7 +1227,7 @@ Visual上限UP,Visual Cap. UP,text
 [Be Magical]魔法使いさんたち,[Be Magical] We Mages,text
 四夜一夜物語,Four and One Nights,text
 この手を離さない,Won't Let Go of Your Hand,text
-[いつまでも]この手を離せない,[Will Never] Let Go of Your Hand,text
+[いつまでも]この手を離さない,[Will Never] Let Go of Your Hand,text
 [しょこらてぃ]YELL,[Chocolate-y] YELL,text
 バス・タイムの気分で,Bath Time Mood,text
 できるよ！,Be Creative!,text
@@ -357,21 +1245,11 @@ Visual上限UP,Visual Cap. UP,text
 甜der Dream Show,Ten-der Dream Show,text
 甜,Ten,text
 [ぐ～]甜,[Gu～]Ten,text
-秘密のだらだらタイム,Secret Leisure Time,text
-努力とご褒美,Hard Work and a Reward,text
-[よくできました]努力とご褒美,[You Did Well] Hard Work and a Reward,text
-シンメトリー・プールサイド,Symmetry Poolside,text
-とびきり笑顔,Exceptional Smile,text
-[はい、チーズ]とびきり笑顔,"[""Say Cheese!""] Exceptional Smile",text
-氷上バンビーナ,Bambina On Ice,text
-この手を離さないで,Don't Let Go of My Hand,text
-[ぷるぷる]この手を離さないで,[Trembling] Don't Let Go of My Hand,text
-お日様染めのマリーナ,Sundyed Marina,text
-ビターココア,Bitter Cocoa,text
-[ほろにが]ビターココア,[Slightly] Bitter Cocoa,text
-ストライク狙って,Shoot for a Strike,text
-お迎えに来たよ,I Came to Pick You Up,text
-[無事ゲット]お迎えに来たよ,[Safe and Secure] I Came to Pick You Up,text
+アイ・セーブ・ユー,I Save You,text
+楽園に背く,Defying Paradise,text
+余白のページ,Blank Page,text
+未来への憧れ,Hopes for the Future,text
+化けストロメリア,Ghostroemeria,text
 彩りファッションドール,Colorful Fashion Doll,text
 身支度はお任せ☆,Leave the Dressing to Me☆,text
 かしまし、みっつの願いごと,"Three Wishes, Joined Together",text
@@ -382,39 +1260,411 @@ Visual上限UP,Visual Cap. UP,text
 エンドレス・ゲーム,Endless Game,text
 満開、うまストロメリア,"Full Bloom, Delishtromeria",text
 楽しいがたくさん,Lots of Fun,text
-一人分の空、一枚の羽,"One Person's Sky, One Feather",text
-アイ・セーブ・ユー,I Save You,text
-楽園に背く,Defying Paradise,text
-余白のページ,Blank Page,text
-未来への憧れ,Hopes for the Future,text
-ライブスキル生成,Live Skill Generation,
-交換数,Mulligan,noun
-所属ユニットが多いほど効果UP,Effect UP at No. of Units,
-リアクション回避率,Reaction Chance,noun
-[条件:$name、$name、$nameいずれかがライブに参加している場合],"[Condition: Either $1, $2, or $3 in Unit]",
-[$noun],[$1],
-[条件:編成アイドルの所属ユニットが$num種類以上の場合],[Condition: Idols are from $1 or more Units],
-[条件:$numターン以降$name全員がライブに参加している場合],[Condition: All $2 members participating on and after turn $1],
-[条件:回復回数$num回以上履歴に$name全員んがライブに参加],[Condition: Heal at least $1 times with all $2 members in history],
-チャージアピール[Lv$num]:$noun$num倍アピール,Charge Appeal [Lv$1]: $2 $3x Appeal,
-[条件:メンタル$percent以上$numターン以降],[Condition: Mental ≥ $1 on and after $2 turn(s)],
-$noun強化,$1 Fortification,
-[条件:パッシブスキル発動率UPが付与されている場合],[Condition: Affected by Passive Skill Rate UP],
-[条件:VoDaViUP全てが付与されている場合],[Condition: Affected by All VoDaViUP],
-メランコリー,Melancholy,noun
-リザレクション効果,Resurrection Effect,noun
-フレキシブル,Flexible,
-ランダム効果$num個付与,Gives $1 Random Effect,
-ほわっとスマイル,Gentle Smile,text
-キラキラふわふわ,Sparkly and Fluffy,text
-[成長]キラキラふわふわ,[Growth] Sparkly and Fluffy,text
-はじけてスマイル,Bursting Smile,text
-アツさは加速して,アツさは加速して,text
-[弾むココロ]アツさは加速して,[弾むココロ]アツさは加速して,text
-[条件:$name又は$name全員がライブに参加],[Condition: All $1 or $2 members in Live],
-回避率,Evasion Rate,noun
-瞳の輝き,Brilliance of the Eyes,noun
-$noun $percent 強化,$1 $2 Fortification,
-パッシブスキル,Passive Skill,noun
-パッシブスキル強化,Passive Skill Fortification,noun
-[条件:履歴に$nounのアイドルが$num人以上ある場合],[Condition: ≥ $2 $1 members in History],
+甜花の恩返し,Gratitude of the Tenka,text
+マイフェイバリット,My Favorite,text
+私だけの夢,私だけの夢,text
+[白く清く]私だけの夢,[白く清く]私だけの夢,text
+一夏一刻物語,One Summer Story,text
+夏のいたずら,夏のいたずら,text
+[ハチブンノイチ]夏のいたずら,[ハチブンノイチ]夏のいたずら,text
+よそゆき顔のセレナーデ,Formal Look Serenade,text
+大人色ブルーミング,大人色ブルーミング,text
+[や・が・て]大人色ブルーミング,[や・が・て]大人色ブルーミング,text
+ワン・モア・フラワリング,One More Flowering,text
+金色の街,金色の街,text
+[約束の時間]金色の街,[約束の時間]金色の街,text
+夏、イエー,"Summer, Yay",text
+始めますから,始めますから,text
+[！]始めますから,[！]始めますから,text
+マイ・ピュア・ロマンス,My Pure Romance,text
+星降れば今夜,星降れば今夜,text
+[雨夜行船]星降れば今夜,[雨夜行船]星降れば今夜,text
+シークレット・ヒロイン,Secret Heroine,text
+いつかのdawn,いつかのdawn,text
+[幸せの花]いつかのdawn,[幸せの花]いつかのdawn,text
+サマーハニー・シーズン,Summer Honey Season,text
+伝える言葉,伝える言葉,text
+[もしも]伝える言葉,[もしも]伝える言葉,text
+はるかぜまち、1番地,"Spring Breeze Street, Address No. 1",text
+遠回り,遠回り,text
+[キーワード]遠回り,[キーワード]遠回り,text
+秋空と紅葉,The Autumn Sky And Leaves,text
+紅葉模様,紅葉模様,text
+[悠久の]紅葉模様,[悠久の]紅葉模様,text
+ハッピー・アイ・スクリーム,Happy I Scream,text
+つよがりのためのララバイ,Lullaby for Courage,text
+そっと、エールを,そっと、エールを,text
+[あなたに、]そっと、エールを,[あなたに、]そっと、エールを,text
+ひとひらで紡ぐ世界,ひとひらで紡ぐ世界,text
+あつめて,あつめて,text
+[千、]あつめて,[千、]あつめて,text
+ネームレス・ヘヴンに憧れて,ネームレス・ヘヴンに憧れて,text
+ぬぎすてて,ぬぎすてて,text
+[蛹殻]ぬぎすてて,[蛹殻]ぬぎすてて,text
+剥がされて、虚ろ,剥がされて、虚ろ,text
+メッキ,メッキ,text
+[キラ]メッキ,[キラ]メッキ,text
+やわらかくうけとめて,やわらかくうけとめて,text
+好き,好き,text
+[大]好き,[大]好き,text
+切り拓いて・茨,切り拓いて・茨,text
+道,道,text
+[進むのは自分の]道,[進むのは自分の]道,text
+ブルーミングハート,Blooming Heart,text
+こころに恋,Love in the Heart,text
+好き、っていうのはね,"What I Mean by ""Love"" is...",text
+世界はこの、腕の中,世界はこの、腕の中,text
+W.I.N.G.への軌跡,W.I.N.G.への軌跡,text
+先生のお時間,Teacher's Time,text
+永遠のCaro,永遠のCaro,text
+トキ・メキ・タコさん,トキ・メキ・タコさん,text
+ウォーム・スノウ,ウォーム・スノウ,text
+ドゥワッチャラブ！,ドゥワッチャラブ！,text
+夏空への挑戦,夏空への挑戦,text
+黄昏時に会いましょう,黄昏時に会いましょう,text
+そらカラフル、幾千の,そらカラフル、幾千の,text
+一瞬を閉じ込め、あなたに,一瞬を閉じ込め、あなたに,text
+私たちらしく,私たちらしく,text
+さかさま世界,Upside-Down World,text
+わかったっすよ！,わかったっすよ！,text
+[こうすれば]わかったっすよ！,[こうすれば]わかったっすよ！,text
+かしゃーんとがらがら,Clatter and Rattle,text
+入れないっすかねぇ,入れないっすかねぇ,text
+[何とかして]入れないっすかねぇ,[何とかして]入れないっすかねぇ,text
+はり・はり,Glass Dome,text
+覗き見る世界,覗き見る世界,text
+[深層まで]覗き見る世界,[深層まで]覗き見る世界,text
+黄葉の冠,黄葉の冠,text
+いろどりサークル,いろどりサークル,text
+[さぁおいで]いろどりサークル,[さぁおいで]いろどりサークル,text
+ちぐはぐ姫,ちぐはぐ姫,text
+ジャンプ！スタッグ！！！,Jump! Stag!!!,text
+捕まえるっす！,捕まえるっす！,text
+[翔ぶ！]捕まえるっす！,[翔ぶ！]捕まえるっす！,text
+空と青とアイツ,"The Sky, Blue, and You",text
+パシャッ,パシャッ,text
+[パシャッ]パシャッ,[パシャッ]パシャッ,text
+不機嫌なテーマパーク,Grumpy Theme Park,text
+動く？もこもこ,動く？もこもこ,text
+[百年で]動く？もこもこ,[百年で]動く？もこもこ,text
+シングアソング！,シングアソング！,text
+[Shine!]シングアソング！,[Shine!]シングアソング！,text
+呼んでる,呼んでる,text
+[彼方から]呼んでる,[彼方から]呼んでる,text
+光は光へ,光は光へ,text
+あの向こうへ,あの向こうへ,text
+[もつれながらも]あの向こうへ,[もつれながらも]あの向こうへ,text
+手を伸ばして,手を伸ばして,text
+[さあ]手を伸ばして,[さあ]手を伸ばして,text
+みえる,みえる,text
+[とまって]みえる,[とまって]みえる,text
+ムーンライト・ガーデン,Moonlight Garden,text
+木のぼり名人,木のぼり名人,text
+[月と戯れ]木のぼり名人,[月と戯れ]木のぼり名人,text
+腹が減っては遊びはできぬ,Don't Play on an Empty Stomach,text
+花火の夜に……,花火の夜に……,text
+頬を照らすのは,The Shine on Your Cheeks,text
+月に向かって吠えろ,月に向かって吠えろ,text
+プレゼン・バトン！,Present Baton!,text
+あめ、ゆき、はれ,あめ、ゆき、はれ,text
+今日の手は空を切らない,今日の手は空を切らない,text
+ゴースト・サイド！,Ghost Side!,text
+秋の実りの配達係,秋の実りの配達係,text
+とても、とても静かな雨,とても、とても静かな雨,text
+ひかりしめすは,ひかりしめすは,text
+真空の庭,真空の庭,text
+吹雪舞う地でのひと時,吹雪舞う地でのひと時,text
+夕日に照らされ光るもの,夕日に照らされ光るもの,text
+路地裏のRhyme,路地裏のRhyme,text
+ザ・冬優子イズム,The Fuyukoism,text
+ふゆらしく,ふゆらしく,text
+[いつだって]ふゆらしく,[いつだって]ふゆらしく,text
+水×天カイヤナイト,Water×Kyanite Sky,text
+この手の中に,この手の中に,text
+[地球さえも]この手の中に,[地球さえも]この手の中に,text
+はるさき可憐花,はるさき可憐花,text
+花を閉ざして,花を閉ざして,text
+花に隠して]花を閉ざして,花に隠して]花を閉ざして,text
+アンコンシャス35→80,アンコンシャス35→80,text
+オ♡フ♡レ♡コ,Off♡The♡Record,text
+聞いてほしい言葉がある,聞いてほしい言葉がある,text
+[ばーか]聞いてほしい言葉がある,[ばーか]聞いてほしい言葉がある,text
+アンシーン・ダブルキャスト,アンシーン・ダブルキャスト,text
+ヒロイック,ヒロイック,text
+[一閃]ヒロイック,[一閃]ヒロイック,text
+ふゆとかくれんぼ,ふゆとかくれんぼ,text
+[猫と]ふゆとかくれんぼ,[猫と]ふゆとかくれんぼ,text
+……好き,……好き,text
+[なんて]……好き,[なんて]……好き,text
+舞う、夢見草,舞う、夢見草,text
+[風花]舞う、夢見草,[風花]舞う、夢見草,text
+幕間、沸々と高温,幕間、沸々と高温,text
+かえる,かえる,text
+[煮え]かえる,[煮え]かえる,text
+名モナキ夜ノ標ニ,名モナキ夜ノ標ニ,text
+こんにちは,こんにちは,text
+[夜よ]こんにちは,[夜よ]こんにちは,text
+三文ノワール,三文ノワール,text
+つぼみ,つぼみ,text
+[ばらの]つぼみ,[ばらの]つぼみ,text
+ノンセンス・プロンプ,ノンセンス・プロンプ,text
+波,波,text
+[新しい]波,[新しい]波,text
+紅茶夢現,紅茶夢現,text
+窓,窓,text
+[開いた]窓,[開いた]窓,text
+ア・冬優子イズム,ア・冬優子イズム,text
+(ノージャンル)グラヴィティ,(ノージャンル)グラヴィティ,text
+馴染まないで非日常,馴染まないで非日常,text
+三つ数えて,三つ数えて,text
+スパイシーベリィデコレイト,Spicy Berry Decorate,text
+ノー墨・勝者フェイス,ノー墨・勝者フェイス,text
+＠ストーリィズ,＠ストーリィズ,text
+×トリック／〇＿＿＿＿,×トリック／〇＿＿＿＿,text
+二律背反sweet,Antinomy sweet,text
+とある日の,とある日の,text
+浮遊回帰線,浮遊回帰線,text
+気になる！？染めちゃう！？,Whacha Think!? Should I Dye It!?,text
+髪はキレーに♪,髪はキレーに♪,text
+[リタッチ]髪はキレーに♪,[リタッチ]髪はキレーに♪,text
+てへっ♪,Tehe♪,text
+転んじった,転んじった,text
+[あちゃー]転んじった,[あちゃー]転んじった,text
+ご褒美、いるよね♪,ご褒美、いるよね♪,text
+ゆったり～,ゆったり～,text
+[落ち着く～]ゆったり～,[落ち着く～]ゆったり～,text
+見つかっちゃった♪,見つかっちゃった♪,text
+かくれんぼ～！,かくれんぼ～！,text
+[ひまわり畑で]かくれんぼ～！,[ひまわり畑で]かくれんぼ～！,text
+ちょっとあげる～,I'll Give You a Little～,text
+あ～ん♪,あ～ん♪,text
+[そっちも]あ～ん♪,[そっちも]あ～ん♪,text
+メイ・ビー,メイ・ビー,text
+シャッターチャンス！？,シャッターチャンス！？,text
+ランプに照らされて,ランプに照らされて,text
+[月と]ランプに照らされて,[月と]ランプに照らされて,text
+今のうちは走らない,今のうちは走らない,text
+見たいです,見たいです,text
+[外の世界]見たいです,[外の世界]見たいです,text
+ちょー早い！,ちょー早い！,text
+ひとっ飛び♪,ひとっ飛び♪,text
+[どこにでも]ひとっ飛び♪,[どこにでも]ひとっ飛び♪,text
+あたし流・かっこいい,あたし流・かっこいい,text
+あたしのしたいこと,あたしのしたいこと,text
+[もっと]あたしのしたいこと,[もっと]あたしのしたいこと,text
+うちと幸せ,うちと幸せ,text
+信じてるから,信じてるから,text
+[うちは]信じてるから,[うちは]信じてるから,text
+何度転んだって,何度転んだって,text
+進むから,進むから,text
+[そこに辿り着くまで]進むから,[そこに辿り着くまで]進むから,text
+あたし・マスト,あたし・マスト,text
+守るんだ,守るんだ,text
+[友情]守るんだ,[友情]守るんだ,text
+和泉流・書道心得,Izumi Style Calligraphy,text
+イケてた！？,イケてた！？,text
+志道の覚悟,志道の覚悟,text
+飛んでく先を決めるのは?,飛んでく先を決めるのは?,text
+なるんじゃん？,Shouldn't We Be?,text
+うち来る～！？,うち来る～！？,text
+エンジョイ！パーティ,エンジョイ！パーティ,text
+いるっしょ！,Right Here!,text
+よしよし♪,よしよし♪,text
+左選んで～！,Choose Left～!,text
+本気！餅つき！,本気！餅つき！,text
+なんでもない～,なんでもない～,text
+誓う～！,誓う～！,text
+まわるものについて,Things That Go Around and Around,text
+追われる,追われる,text
+[追う]追われる,[追う]追われる,text
+おかえり、ギター,"Welcome Back, Guitar",text
+おまえ、セミ？,おまえ、セミ？,text
+[ギター]おまえ、セミ？,[ギター]おまえ、セミ？,text
+聞こえててよ、babe,"Listen to Me, babe",text
+聞こえたんだ,聞こえたんだ,text
+[たぶん]聞こえたんだ,[たぶん]聞こえたんだ,text
+10個、光,"10, Lights",text
+見つける,見つける,text
+[見つける]見つける,[見つける]見つける,text
+途方もない午後,Extraordinary Afternoons,text
+透,透,text
+[とーる]透,[とーる]透,text
+つづく、,つづく、,text
+国道沿いに、憶光年,"By the National Highway, Lightyears",text
+憶光年,憶光年,text
+[一瞬]憶光年,[一瞬]憶光年,text
+夜はなにいろ,夜はなにいろ,text
+さあ？,さあ？,text
+[さあ？]さあ？,[さあ？]さあ？,text
+あてもなく、風,"Unwritten Destination, With the Winds",text
+ばして,ばして,text
+[飛]ばして,[飛]ばして,text
+雪あたりの季節,Sometime Around Winter,text
+笑って,笑って,text
+[泣いて]笑って,[泣いて]笑って,text
+ヘブンリーブルーをつかまえて,ヘブンリーブルーをつかまえて,text
+消えない,消えない,text
+[消えても]消えない,[消えても]消えない,text
+かっとばし党の逆襲,Knock-Out Counter-Attack,text
+殴打、その他の夢について,"About Striking, Other's Dreams",text
+みずになりかけ,Becoming Water,text
+ハウ・アー・UFO,ハウ・アー・UFO,text
+がんばれ！ ノロマ号,Good Luck! Dimwit,text
+チョコレー党、起立！,"ChocoLovers, Assemble!",text
+かっとばし党の長い夏,Long Summer of Home Runners,text
+裏声であいつら,裏声であいつら,text
+たすものについて,たすものについて,text
+てやんでぇ,てやんでぇ,text
+ジューンブライド2024,June Bride 2024,text
+ダウト,Doubt,text
+オト,オト,text
+[ミズ]オト,[ミズ]オト,text
+カラメル,Caramel,text
+カラカラカラ,"Clatter, Clatter, Madder",text
+クレナイ,クレナイ,text
+[カラ]クレナイ,[カラ]クレナイ,text
+ギンコ・ビローバ,Ginkgo-Biloba,text
+ゲン,ゲン,text
+[フ]ゲン,[フ]ゲン,text
+ピトス・エルピス,Pithos-Elpis,text
+ナイ,ナイ,text
+[タリ]ナイ,[タリ]ナイ,text
+オイサラバエル,"Farewell, Old Age",text
+フィニート,フィニート,text
+[イン]フィニート,[イン]フィニート,text
+[願わくは]...,[願わくは]...,text
+バグ・ル,Bug-ly,text
+キン・コン,Moment-Present,text
+浮かぶ,浮かぶ,text
+[今]浮かぶ,[今]浮かぶ,text
+フリークス・アリー,Freaks'-Alley,text
+耽る,耽る,text
+[美に]耽る,[美に]耽る,text
+ジャンク・ション,Junk-tion,text
+閑話,Chatter,text
+ダ・カラ,Be-Cause,text
+無色,Colorless,text
+露光,Exposure,text
+游魚,Swimming Fish,text
+雨情,Rainy Scenes,text
+射陽,射陽,text
+洒落,洒落,text
+ハシルウマ,Running Horses,text
+漠漠,Boundless,text
+暑熱,Blistering Heat,text
+水平,Horizon,text
+ワーキングスナップ～デート,Working Snap～Date,text
+はれのひ喫茶店,はれのひ喫茶店,text
+満月ホットケーキ,満月ホットケーキ,text
+[セット]満月ホットケーキ,[セット]満月ホットケーキ,text
+福はうち,福はうち,text
+そと,そと,text
+[鬼は]そと,[鬼は]そと,text
+ポシェットの中には,Inside the Pochette,text
+ばんそうこう,ばんそうこう,text
+[夢柄]ばんそうこう,[夢柄]ばんそうこう,text
+おみくじ結びますか,おみくじ結びますか,text
+努力して叶う,努力して叶う,text
+[願事]努力して叶う,[願事]努力して叶う,text
+てのひらの答え,Palm's Reply,text
+つめあとを残す,つめあとを残す,text
+[重要]つめあとを残す,[重要]つめあとを残す,text
+なつやすみ学校,なつやすみ学校,text
+なりたい自分,なりたい自分,text
+[宿題]なりたい自分,[宿題]なりたい自分,text
+セピア色の孤独,セピア色の孤独,text
+これから,これから,text
+[◎]これから,[◎]これから,text
+雲のかなたまで,雲のかなたまで,text
+きこえますか？,きこえますか？,text
+[おもい]きこえますか？,[おもい]きこえますか？,text
+あなた様へ紡ぐ,あなた様へ紡ぐ,text
+想い結び,想い結び,text
+[きみ]想い結び,[きみ]想い結び,text
+窓をあけて,窓をあけて,text
+教えて,教えて,text
+[君のこと]教えて,[君のこと]教えて,text
+きせつはアイスクリン,Seasonal Ice Cream,text
+しかえし優等生,Repeat Honor Student,text
+学割キャンペーン,学割キャンペーン,text
+おおきなひと口,おおきなひと口,text
+翅がみえた,I could see the wings,text
+パーティーのやくそく,Our Promised Party,text
+思い出にもならない,It Won't Be A Memory,text
+傍白のあいだ,Between the Asides,text
+はるとあめ,はるとあめ,text
+きっと色褪せるけど,きっと色褪せるけど,text
+さよならメランコリー,Sayonara Melancholy,text
+同じじゃない,同じじゃない,text
+[たぶん]同じじゃない,[たぶん]同じじゃない,text
+一億回めくらいの、その夏,"That Summer, For the One Hundred Millionth Time",text
+泣けよ洗濯機,"Cry, Washing Machine",text
+アウト,アウト,text
+[ちょっとアウト]アウト,[ちょっとアウト]アウト,text
+♡まっクろはムウサぎ♡,♡Pitch Black Hamster Rabbit♡,text
+ハムスター,Hamster,text
+[ウサギ]ハムスター,[Rabbit] Hamster,text
+ヴぇりべりいかシたサマー,ヴぇりべりいかシたサマー,text
+超順調ですよ,超順調ですよ,text
+[7/31]超順調ですよ,[7/31]超順調ですよ,text
+夜よこノ窓は塗らないデ,夜よこノ窓は塗らないデ,text
+わる,わる,text
+[卵]わる,[卵]わる,text
+↓ろウTea,↓ろウTea,text
+あーーあ,あーーあ,text
+[ふ]あーーあ,[ふ]あーーあ,text
+ふラiとぅTHE,ふラiとぅTHE,text
+取扱説明書,取扱説明書,text
+[私の]取扱説明書,[私の]取扱説明書,text
+とキどき間氷期,Occasional Interglacial,text
+教育,教育,text
+[感情]教育,[感情]教育,text
+伝えテ niiid U,伝えテ niiid U,text
+色彩,色彩,text
+[飛翔]色彩,[飛翔]色彩,text
+夏葬灯,夏葬灯,text
+羽なしたちの長い日,羽なしたちの長い日,text
+サマーアイドル2022,Summer Idol 2022,text
+僥倖、色付く,僥倖、色付く,text
+間違いそうだ,There's Been a Mistake,text
+死神リポート,死神リポート,text
+浪漫キャメラ0号,浪漫キャメラ0号,text
+あっかい,Red,text
+こんなのホラーでしょ最悪,こんなのホラーでしょ最悪,text
+短二度、一番線,短二度、一番線,text
+なけなしホリデー,なけなしホリデー,text
+とろけて,とろけて,text
+[一緒に]とろけて,[一緒に]とろけて,text
+モノ,モノ,text
+[ワレ]モノ,[ワレ]モノ,text
+ねぇ,ねぇ,text
+[めでたく]ねぇ,[めでたく]ねぇ,text
+なかった,なかった,text
+[届か]なかった,[届か]なかった,text
+わいて,わいて,text
+[か]わいて,[か]わいて,text
+杖たちの足跡,杖たちの足跡,text
+夜になって,夜になって,text
+優You,優You,text
+ってない,ってない,text
+[眠]ってない,[眠]ってない,text
+sync,sync,text
+[あい]sync,[あい]sync,text
+代表,代表,text
+[彼女]代表,[彼女]代表,text
+くれる？,くれる？,text
+[食べて]くれる？,[食べて]くれる？,text
+黒色彗星,黒色彗星,text
+漂白花火,Bleached Fireworks,text
+とめたくない,I don't want to stop,text
+[この時を]とめたくない,[This moment] I don't want to stop,text
+きれない,きれない,text
+[かかえ]きれない,[かかえ]きれない,text
+連綿と、桜,Everlasting Cherry Blossoms,text
+先の先,先の先,text
+[追いかけた、]先の先,[追いかけた、]先の先,text
+桜花拾,Picking Cherry Blossoms,text
+なるもの,なるもの,text
+[永遠]なるもの,[永遠]なるもの,text
+猫と犬みたいな雨,猫と犬みたいな雨,text
+遠き明滅,遠き明滅,text

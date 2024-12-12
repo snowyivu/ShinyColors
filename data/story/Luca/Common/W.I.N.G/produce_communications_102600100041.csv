@@ -1,0 +1,34 @@
+id,name,text,trans
+0000000000000000,プロデューサー,ルカ、サインをお願いしたいんだが……,"Luca, could I get your autograph please..."
+1026001000410010,ルカ,サイン？,Autograph?
+0000000000000000,プロデューサー,"プレゼント用の色紙10枚だ
+ここにお願いしたいんだが、頼めるかな？","I'd like 10 pieces of shikishi signed as presents.
+Can you do that?"
+1026001000410020,ルカ,……ペンは？,...This pen?
+select,,さすがに慣れてるな,"You're used
+to this, huh."
+select,,問題ないか？,Any problems?
+select,,"このサイン
+自分で作ったのか？","Did you design
+this autograph?"
+0000000000000000,プロデューサー,"今までたくさん書いてきたんだもんな
+ファンも喜んでくれると……","You've written a lot so far.
+I bet your fans are really happy..."
+1026001000410030,ルカ,"気が散んだろ……！
+間違えたらオメェのせいだからな","Stop distracting me...!
+If I make a mistake, it'll be your fault."
+0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
+1026001000410040,ルカ,"んだこのペン……
+滑り悪いな","This pen...
+It doesn't write well."
+0000000000000000,プロデューサー,"そうか……？
+次回は他のサインペンを用意するよ","Really...?
+Next time, I'll bring a different pen."
+0000000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
+1026001000410050,ルカ,…………,......
+1026001000410051,ルカ,"んなこと
+どうでもいいだろ","What?
+It doesn't matter."
+0000000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……）,(Ah... I should've said something else instead...)
+info,produce_communications/102600100041.json,
+Translator,Burbur,

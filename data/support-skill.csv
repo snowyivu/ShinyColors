@@ -42,7 +42,7 @@ text,trans,type
 撮影マスタリー$noun,"Photoshoot Mastery-$1",text
 約束リカバー,"Promise Recovery",text
 イベントブースト,"Event Boost",text
-ボーカルマスタリー,Vocal Mastery,text
+ボーカルマスタリー,"Vocal Mastery",text
 オーディションマスタリー,"Audition Mastery",text
 ダンスマスタリー,"Dance Mastery",text
 テンションマスタリー,"Tension Mastery",text
@@ -58,6 +58,7 @@ text,trans,type
 ボーカル滞在マスタリー,"Vocal Stay Mastery",text
 ダンス滞在マスタリー,"Dance Stay Mastery",text
 ビジュアル滞在マスタリー,"Visual Stay Mastery",text
+ベストアドバイスマスタリー,"Best Advice Mastery",text
 Dance,Dance,noun
 Visual,Visual,noun
 Vocal,Vocal,noun

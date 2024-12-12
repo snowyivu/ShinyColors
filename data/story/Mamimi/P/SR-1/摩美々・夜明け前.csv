@@ -1,10 +1,14 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（レッスンが始まるのに、来ないな摩美々……
-電話にも出ないし、どうしたんだろうか）",(Mamimi should be starting her lessons now but she's still not here... And she's not picking up her phone. I wonder what happened to her.)
+電話にも出ないし、どうしたんだろうか）","(Mamimi should be starting her lessons now, but 
+she's still not here... And she's not picking up 
+her phone. I wonder what happened to her.)"
 0000000000000,プロデューサー,"（結局、レッスンの時間が終わっても
-連絡がつかなかった……)",(I still can't get hold of Mamimi even after her lesson would have ended.)
+連絡がつかなかった……)","(I still can't get hold of Mamimi even after her lesson 
+would have ended.)"
 0000000000000,プロデューサー,"（何か事件や事故に巻き込まれているかもしれない……
-探しに行こう！）","(Maybe Mamimi got caught up in something or, even worse, an accident... I'll look for her!)"
+探しに行こう！）","(Maybe Mamimi got caught up in something or, 
+even worse, an accident... I'll look for her!)"
 0000000000000,プロデューサー,"はぁっ……はぁっ……
 あっ、いた……！","Haa... haa...
 Ah, there she is!"
@@ -16,7 +20,9 @@ Haa... Anyways, I'm just glad that you're safe..."
 なんだかすごく慌ててたみたいですケド","What's the matter?
 You look like you're freaking out about something."
 0000000000000,プロデューサー,"どうしたって……摩美々がレッスンにも来ないし、
-連絡もつかないから探してたんだ","""What's the matter?""... Not only did you not come to your lesson, I couldn't even get a hold of you so I was looking all over for you!"
+連絡もつかないから探してたんだ","""What's the matter?""... Not only did you not come to 
+your lesson, I couldn't even get a hold of you so I was 
+looking all over for you!"
 2005003010030,摩美々,"レッスン……、そういえばそうでしたねー、
 すっかり忘れてましたぁ","My lesson...?
 Oh right, I completely forgot about that."
@@ -24,24 +30,32 @@ Oh right, I completely forgot about that."
 じゃあ特に何かあったわけじゃないのか？","Forgot?
 So, nothing in particular happened to you?"
 2005003010040,摩美々,"何か、ですかぁ？
-フツーでしたよー。特にやりたいことなかったですしー",In particular? Today was pretty normal. And it's not like I had any plans.
+フツーでしたよー。特にやりたいことなかったですしー","In particular? Today was pretty normal. 
+And it's not like I had any plans."
 0000000000000,プロデューサー,じゃあ、電話に出なかったのは？,"So, why didn't you pick up your phone?"
 2005003010050,摩美々,"えー？　あっ、気がつきませんでしたぁ
-携帯もずっと鞄の中に入れっぱなしでしたしー","Huh? Oh, I didn't notice it at all.
-Not to mention, my phone has been inside my bag all this time."
+携帯もずっと鞄の中に入れっぱなしでしたしー","Huh? Oh, I didn't notice it at all. Not to mention, 
+my phone has been inside my bag all this time."
 0000000000000,プロデューサー,"摩美々……
-どれだけ心配して、探し回ったと思ってるんだ",Mamimi... Do you know how much I was worried about you? Or how much I tried to search for you?
-2005003010060,摩美々,そういえばぁ、珍しく汗だくですねー,"Now that you mention it, you're unusually sweaty, huhー"
+どれだけ心配して、探し回ったと思ってるんだ","Mamimi... Do you know how much I was worried about 
+you? Or how much I tried to search for you?"
+2005003010060,摩美々,そういえばぁ、珍しく汗だくですねー,"Now that you mention it, you're unusually sweaty, 
+huhー"
 2005003010070,摩美々,"そんなに私のこと
-心配で探してくれてたんですかぁ？",You were so worried about me you really looked all over the place?
+心配で探してくれてたんですかぁ？","You were so worried about me you really looked all 
+over the place?"
 0000000000000,プロデューサー,"当たり前だろ
-摩美々の身に何かあったのかと思ったんだぞ",Of course. This whole time I was thinking that something might have happened to you.
+摩美々の身に何かあったのかと思ったんだぞ","Of course. This whole time I was thinking that 
+something might have happened to you."
 0000000000000,プロデューサー,"……とにかく、これからは
-ちゃんと携帯を確認するようにしてくれ","...Anyways, just make sure to check your phone from now on."
+ちゃんと携帯を確認するようにしてくれ","...Anyways, just make sure to check your phone 
+from now on."
 0000000000000,プロデューサー,"そして、レッスンに来れない時は
-ちゃんと連絡すること、いいか？","And be sure to contact me if you won't be able to make it to a lesson, okay?"
+ちゃんと連絡すること、いいか？","And be sure to contact me if you won't be able 
+to make it to a lesson, okay?"
 2005003010080,摩美々,"でもー、
-忘れたらしょうがないじゃないですかぁ","But, there's not really anything I can do about it since I just forgot, right?"
+忘れたらしょうがないじゃないですかぁ","But, there's not really anything I can do about it 
+since I just forgot, right?"
 0000000000000,プロデューサー,"これは摩美々のための約束でもあるんだ
 絶対に守ってくれ","This promise is also for your sake.
 Please do keep it."
@@ -56,7 +70,8 @@ Let's head back now."
 2005003010110,摩美々,"……プロデューサーは
 どうしてそこまでしてくれるんですかぁ？","Producer, why are you willing to do all that for me?"
 2005003010120,摩美々,"どこにいるかもわからない私のために、
-汗だくになって必死に探してくれたりー","You didn't even have a clue where I might be, and yet you got all sweaty just frantically trying to find me."
+汗だくになって必死に探してくれたりー","You didn't even have a clue where I might be, and yet 
+you got all sweaty just frantically trying to find me."
 2005003010130,摩美々,"私のこと、
 心配してくれたりするじゃないですかぁ",Were you really that concerned about me?
 2005003010140,摩美々,"家族でもないのに、
@@ -68,12 +83,14 @@ I am your producer, after all."
 0000000000000,プロデューサー,ほかに理由なんていらないだろ？,"I don't need any other reason besides that, do I?"
 2005003010160,摩美々,そう、ですかぁ……,I see...
 2005003010170,摩美々,"……あの、今日のことは、
-その……ごめんなさい","Umm, about what happened today, well... I'm really sorry."
+その……ごめんなさい","Umm, about what happened today, well... 
+I'm really sorry."
 0000000000000,プロデューサー,"あ、ああ
 わかってくれればいいんだ","O-Okay.
 It's alright as long as you understand."
 0000000000000,プロデューサー,"（摩美々が謝るなんて……
-反省してくれているんだな）",(Mamimi apologized... I guess she reflected on what she did.)
+反省してくれているんだな）","(Mamimi apologized... I guess she reflected on what 
+she did.)"
 2005003010180,摩美々,"あ、よかったらこれ、
 どーぞ","Oh, if you don't mind, here."
 0000000000000,プロデューサー,"缶ジュースか？
