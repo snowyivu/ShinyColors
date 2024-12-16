@@ -1,0 +1,88 @@
+id,name,text,trans
+2028008020010,はるき,──────……,──......
+2028008020020,はるき,…………,......
+0000000000000,店員,"あれ、はるきちゃん？　だよね
+今こっちなんだ","Oh, Haruki-chan? Is that you?
+I'm over here!"
+2028008020030,はるき,"ふふ、お久しぶりです……！
+散歩の休憩で寄らせてもらいました","Fufu, it's been a while...!
+I decided to drop by for a break during my walk."
+0000000000000,店員,"そうなんだ。なんにも変わらなくて退屈じゃない？
+──あ、いつもの自家製レモネードでいいかな？","Did you? Isn't it the same old boring thing?
+──Ah, is the usual homemade lemonade okay 
+with you?"
+2028008020040,はるき,"わぁっ……！
+はい！　それで……！","Waa...!
+Sure! That's fine...!"
+0000000000000,店員,…………何か、スケッチでもしに行くの？,...Are you planning to do some doodling?
+2028008020050,はるき,え？,Eh?
+0000000000000,店員,スケッチブック、持ってるから,That sketch book you have with you.
+2028008020060,はるき,"いえ……そういうわけじゃなくて……！
+これは──お守りみたいなもので","No... It's not like that...!
+This is── like a good luck charm."
+0000000000000,店員,お守り？,A good luck charm?
+2028008020070,はるき,"はい
+万が一、描き留めておきたいものがあった時のため──","Yeah.
+Just in case I want to write something down──"
+0000000000000,店員,"そういえば美術系の学校行ってるんだっけ
+描きたくなるようなもの、見つかるといいね","That reminds me, I'm going to an art school. I hope 
+you find something that makes you want to draw 
+that very thing."
+0000000000000,歌詞,"『箱庭のファーム 狭すぎるんだよ 
+可能性 試したい』","""This miniature garden farm is too small,
+I want to test out these possibilities."""
+0000000000000,歌詞,"『直球勝負 描き出すイメージ
+間髪入れずに 塗り替える』","""Playing straight with this image I draw,
+I'll repaint it without delay."""
+0000000000000,プロデューサー,"『たくさん写真ありがとう
+いいところだな』","""Thank you for the many photos, it's a fantastic 
+place."""
+2028008020080,はるき,『プロデューサーさんも一度、ぜひ』,"""Producer-san, once again..."""
+2028008020090,はるき,…………,......
+2028008020100,はるき,『まだ、見つかっていません』,"""I haven't found it yet."""
+2028008020110,はるき,『どんなふうに歌えばいいのか』,"""How should I sing?"""
+0000000000000,プロデューサー,………………,......
+2028008020120,はるき,『歌の中のわたしは』,"""The me in the song."""
+2028008020130,はるき,『縦横無尽に駆け回る音とリズムの中で』,"""Amidst the sounds and rhythm that run in every 
+direction."""
+2028008020140,はるき,『迷いもなく　楽しそうで』,"""They look like they're having fun and have no 
+hesitation."""
+2028008020150,はるき,"『くるくる回ってる
+からだ中の歯車フル回転してて』","""The gears inside my body are going at full speed."""
+2028008020160,はるき,『まぶしくて』,"""It's dazzling."""
+2028008020170,はるき,"『わたしに
+そんな瞬間がないわけではないですけど』","""It's not like I haven't had those moments before."""
+2028008020180,はるき,"『でも
+うらやましい』","""But...
+I'm jealous."""
+2028008020190,はるき,『現実のわたしはもっと』,"""The real me is so much more."""
+2028008020200,はるき,──────……,──......
+0000000000000,プロデューサー,"『前にも言ったけど
+無理して見つけなくてもいい、と俺は思ってる』","""Like I said before, I don't think you have to go 
+through any effort to find it."""
+2028008020210,はるき,『無理をしてるわけじゃなくて』,"""I'm not forcing myself."""
+2028008020220,はるき,『納得できないままじっとすることのほうが』,"""It's better to be uncertain."""
+2028008020230,はるき,………………,......
+2028008020240,はるき,『ごめんなさい、自分でもまとまってないのに』,"""I'm sorry, I can't even organize my own thoughts."""
+0000000000000,プロデューサー,………………,......
+0000000000000,プロデューサー,『はるきはもっと遠くがあるって思うんだな』,"""You must be thinking you have to go even further, 
+Haruki."""
+2028008020250,はるき,…………,......
+0000000000000,プロデューサー,………………,......
+2028008020260,はるき,…………,......
+2028008020270,はるき,"──────ごちそうさま！
+やっぱりお母さんのカレー、美味しいね","───Thank you for the meal!
+Your curry is always so delicious, mom."
+2028008020280,はるき,じゃあ、いってくるね……！,"Well, I'll be off then...!"
+0000000000000,プロデューサー,…………下りは順調だな,......Looks like things are going smoothly.
+0000000000000,ラジオの声,"『今日は各地で流星群が見られそうです
+一部地域では──────』","""Today meteor showers are expected to be visible 
+across the country. In some areas──"""
+2028008020290,はるき,………………,......
+2028008020300,off,諦めたくない,I don't want to give up.
+2028008020310,off,何かが、そこに,Something is here.
+2028008020320,off,あるかもしれないなら,If there is something.
+2028008020330,off,待ってて,Please wait.
+2028008020340,off,今,Right now.
+info,produce_events/202800802.json,
+Translator,Burbur,

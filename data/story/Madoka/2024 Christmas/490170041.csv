@@ -1,0 +1,23 @@
+id,name,text,trans
+0000000000000,プロデューサー,"────あれ
+円香、まだ残ってたのか？","────Huh.
+You're still here, Madoka?"
+4901700410010,円香,もう帰るところです,I was just about to go home.
+0000000000000,プロデューサー,そうか、お疲れ様,I see. Good job today.
+0000000000000,プロデューサー,"ん、荷物が届いてるな
+円香が受け取ってくれたのか？　ありがとな","Hmm, we've received some packages today, huh.
+Did you help receive them? Thanks."
+4901700410020,円香,……では、お先に,"......Well, I'll be leaving. "
+0000000000000,プロデューサー,"飾り付けしてくれてた
+……わけでもなさそうだな","She helped with the Christmas decorations, huh.
+......Or maybe not, I'm not sure."
+0000000000000,プロデューサー,それで、この荷物は……？,"And also, what's this package......?"
+0000000000000,メッセージカード,"『Merry Christmas!
+サンタさんからのプレゼントだよ』","『Merry Christmas!
+Here's a present from Santa-san』"
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,"……おーい、サンタさん
+よかったら送っていくよ","......Heey, Santa-san.
+I'll give you a lift home if you want!"
+info,special_communications/490170041.json,
+Translator,Mycstea,

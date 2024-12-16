@@ -3,11 +3,11 @@ id,name,text,trans
 アルストロメリア……","The three of us......
 are Alstroemeria...... "
 4001037060020,甘奈,"────あの……っ
-私は、Ａ案がいいなって思ってて……",────Um... I think A is good...
+私は、Ａ案がいいなって思ってて……",────Um... I think Plan A is good...
 4001037060030,甘奈,"すごく色々勉強して……その結果なんです！
 ポーチの素材とかイメージとぴったりくるのはＡで────","I've learned so much... and this is the result of that! I
 think the pouch and ingredients that fit the best are
-A, and────"
+in Plan A, and────"
 4001037060040,甘奈,────……,────...
 0000000000000,プロデューサー,"製造ラインの問題だって言われたら、
 こっちではどうしようもないよ……","I mean, if they say there's an issue with production,
@@ -20,23 +20,25 @@ Then......"
 project..."
 0000000000000,プロデューサー,…………,......
 4001037060070,甘奈,"甘奈、甘奈が思ってるいちばんいいものを作らなきゃ
-……","I thought that... we would make what I thought was
-best..."
-4001037060080,甘奈,……ふたりみたいには────,...Like the others────
+……","I thought that... I had to make the best possible
+items..."
+4001037060080,甘奈,……ふたりみたいには────,...Like the other two────
 0000000000000,プロデューサー,"…………
 ……少し見直してみようか","......
 ...Let's look at it another way."
 0000000000000,プロデューサー,"甘奈が思う生地とか、香りの成分とか
-起こってる問題に寄り添える形があるかもしれない","Maybe there's a problem with the materials, or the
-scent, or something else that's close to the issue."
+起こってる問題に寄り添える形があるかもしれない","Now that you've heard about the possible problems
+with the materials and the ingredients, you're in a
+better position to revise your plan."
 4001037060090,甘奈,"……
 でも、ディレクターさんがもう決定だって","...But, the director already made the call."
 0000000000000,プロデューサー,"それは……もちろん、
 見直したものが採用されるかはわからないよ","Yes... of course, and I don't know if the revisions will
 be accepted."
 4001037060100,甘奈,"…………
-プロジェクトチーム、あんなに……",...... I thought that... being on a project like that...
-4001037060110,甘奈,いい感じだったのに……,Was going to feel great...
+プロジェクトチーム、あんなに……","......
+And our project team, was..."
+4001037060110,甘奈,いい感じだったのに……,Going along so smoothly too...
 0000000000000,プロデューサー,……,......
 0000000000000,番組ディレクター,"お疲れ様～
 今日の収録も楽しかった～！　ありがとね、甜花ちゃん！","Good work today～ Today's recording was super
@@ -47,7 +49,8 @@ fun～! Thanks a ton, Tenka-chan!"
 今日も一枚、いいですか……？","Good work, Tenka-san...! Can I take another pic
 today...?"""
 0000000000000,番組ディレクター,"おー、いいじゃんふたり～
-仲良くしてるんだ？","Ohh, that's nice～ Are you two friends?"
+仲良くしてるんだ？","Ohh, that's really great, you two~
+You've become fast friends, haven't you?"
 4001037060130,甜花,えっ、は……はいっ……,Oh... y...... yeah......
 0000000000000,番組ディレクター,"視聴者からも期待大きいんだよね、ふたりの絡み～
 今度コーナー作っちゃおうかな～とかも思ってて","The audience seems to want to see you two work
@@ -59,10 +62,11 @@ together～ Maybe I'll make a corner for next time."
 0000000000000,千雪,"……その
 最近ファンの方たちがね────","...Um, lately, our fans have────"
 0000000000000,駆け出しモデル,"じゃあ、今日ツイスタ、
-一緒のタイミングでアップしちゃいません……？","Okay then, maybe today on Twesta, you two can time
-your posts to be at the same time...?"
+一緒のタイミングでアップしちゃいません……？","Then, do you think maybe,
+today we can sync our posts on Twesta together?"
 0000000000000,駆け出しモデル,"匂わせ、っていうんでしょうか……
-やってみたいです……！",We'll be giving a little hint... I wanna try it...!
+やってみたいです……！","It's like, dropping a hint... or something...
+I've wanted to try it...!"
 0000000000000,番組ディレクター,"うわぁ、いいねそれ～！
 可愛いよ～","Uwa, good enthusiasm～! How cute～"
 4001037060160,甜花,"──っ
@@ -76,8 +80,9 @@ future～!"
 4001037060180,甜花,『ロック解除　#ラッキー　#helpyou』,"""Lock removed #Lucky #helpyou"""
 4001037060190,甘奈,────……,────...
 0000000000000,ツイスタのコメント１,"『もしかして一緒にいる！？ゲームやるんだ！？
-甜花ちゃんの影響！？教えて！！！！』","""Are they gonna be together!? Playing Games!?
-Is this Tenka-chan's influence!? Tell me!!!!"""
+甜花ちゃんの影響！？教えて！！！！』","""Are they together right now!? Playing games
+together!? Is it Tenka-chan's influence!? I need to
+know!!!!!"""
 0000000000000,ツイスタのコメント２,"『頼もしい甜花ちゃんだぁ
 このふたりめっちゃすき！これ一緒に投稿してるよね』","""The reliable Tenka-chan. I love these two a ton! They
 posted these together, didn't they?"""
@@ -87,13 +92,13 @@ posted these together, didn't they?"""
 4001037060220,甜花,"た、ただいま……！
 ツイスタ……見てたの……？",T-Thanks......! Were you... looking at Twesta......?
 4001037060230,甘奈,"あ、うん……！
-見てたってほどじゃないかもだけど……","Oh, yeah...! I wouldn't say I was particularly paying
-attention, though..."
+見てたってほどじゃないかもだけど……","Oh, yeah... !
+Not really looking, just kind of, scrolling, I guess..."
 4001037060240,甘奈,────早かったね、今日！,────You're home early today!
 4001037060250,甜花,う、うん……,Y-Yeah......
 4001037060260,甘奈,あ、甘奈ミルクティー淹れるね！,"Oh, I'll go make some milk tea!"
 4001037060270,甘奈,"甜花ちゃん収録だったもんね！
-座ってて座ってて！","You had a recording, right!? Sit, sit!"
+座ってて座ってて！","You had a recording today, right!? Come on, sit!"
 4001037060280,甜花,"……う、うん……
 でもなーちゃんも、帰ってきた……ばっかりなのに……","......S-Sure...... But... you just got home too... didn't
 you......?"
@@ -114,17 +119,18 @@ water and powder."
 4001037060340,千雪,────あつ……,"────Ow, it's hot..."
 4001037060341,千雪＆プロデューサー,あははっ……すまん,Ahaha... sorry.
 0000000000000,プロデューサー,"……その
-どうだ、最近は","...Um, how do you feel? About recent events."
+どうだ、最近は","...Umm.
+How have things been? Recently."
 0000000000000,プロデューサー,"千雪も、みんなもだけど
-新しいことに挑戦してる最中だから","You, just like everyone else, are taking on some new
+新しいことに挑戦してる最中だから","You and the others are all taking on some new
 challenges."
 4001037060350,千雪,"……は、はい……
 ……","...Y-Yes...
 ......"
 0000000000000,プロデューサー,……,......
 4001037060360,千雪,"すごく……充実してます
-毎日毎日が新鮮で……勉強することばっかりで","I'm... improving quite a bit. Every day has something
-new... and I'm learning so much."
+毎日毎日が新鮮で……勉強することばっかりで","I feel... very fulfilled. Every day has something new...
+and I'm learning so much."
 0000000000000,プロデューサー,……そっか,...I see.
 4001037060370,千雪,"……ただ、
 ユニットでのお仕事が少なめだから────","...It's just... we haven't had much unit-related
@@ -153,21 +159,21 @@ feeling right now..."
 もっと、気持ちが通じてるかなって思ってたの","...And then, I thought our minds were in the same
 place, but..."
 4001037060480,甜花,"……Ａ案に……ならなかったんだ……
-あんなに、勉強して……考えたのに…………","......They didn't...... go with the A one...... Even though...
+あんなに、勉強して……考えたのに…………","......They didn't...... go with Plan A...... Even though...
 you worked and thought... so hard......"
 4001037060490,甘奈,"……うん。甘奈が決められないんだったら、
-甘奈プロデュースじゃないなって……","...Yeah. If I couldn't make the decision, I feel like I
-shouldn't have been producing it..."
+甘奈プロデュースじゃないなって……","...Yeah. If I couldn't make the decision, I feel like I'm
+not the one producing it..."
 4001037060500,甜花,"うん……
 ……","Yeah......
 ......"
 4001037060510,千雪,"ずっと３人でやってきて……
 ソロはその３人の時間のおかげで、できた時間です","The three of us were always together... so my time
-being solo can only exist because of that time that
-we spent."
+solo can only exist because of that time that we
+spent."
 4001037060520,千雪,"だから、自分だってアルストロメリアのこと
 いちばんに大事にしたいのに────","But, that's why I want to hold Alstroemeria as my
-top priority────"
+top priority, and yet────"
 4001037060530,甘奈,"……ごめんねっ
 ありがと、聞いてくれて",...Sorry. Thanks for listening...
 4001037060540,甜花,"……
@@ -190,12 +196,12 @@ that..."
 the current, and I feel a little desperate..."
 4001037060610,甘奈,"────ふたりと同じくらい
 ちゃんときらきらできるのかって思ったら、なんか…………","────When I thought about... how I wanted to shine
-like the others... um......"
+like you two... it's like......"
 4001037060620,甘奈,"このプロジェクト、
 絶対絶対、すごく成功させなきゃって…………",I felt like... this project just had to succeed......
 4001037060630,甜花,"……
 ふたり……って…………","......
-By... ""the others""... do you............"
+By... ""you two""... do you mean............"
 0000000000000,プロデューサー,……わかるつもりだよ,...I think I get it.
 0000000000000,プロデューサー,"ファンのみんなも、３人と一緒にここまで来たんだ
 ……こう言ってよければ、俺も","The fans have come this far, with all three of you.
@@ -221,8 +227,9 @@ too, like you said."
 あの子……────","......
 That girl......────"
 4001037060700,千雪,"置いていく、だなんて……
-私たちこそ、ファンの方の気持ちがいつ離れちゃうか……","It feels like... we're leaving them... Maybe one day...
-we'll leave behind the feelings of our fans......"
+私たちこそ、ファンの方の気持ちがいつ離れちゃうか……","It's more like, we're leaving them behind... I feel like...
+maybe one day we'll have drifted away from the
+feelings of our fans..."
 0000000000000,プロデューサー,……,......
 0000000000000,プロデューサー,"みんなが、ちょっとずつ混乱してるんだ
 新しい出来事に……関係に","Everyone's been slowly devolving into chaos. In their
@@ -235,25 +242,25 @@ work... and in their relationships."
 know... what to do...... and got swept up in it............"
 4001037060740,甘奈,……,......
 4001037060750,甜花,"……やめても、いい……
-ツイスタ……",......We could... stop using...... Twesta......
+ツイスタ……",......We could... just quit... Twesta......
 4001037060760,甘奈,"……っ
 ……甜花ちゃん…………","......
 ......Tenka-chan......"
 4001037060770,甜花,"なんとなく……やってて……
-そのせいで、嫌な思いする人……いたら……","We just kinda...... use it...... and then... there are
-people... that think bad things......"
+そのせいで、嫌な思いする人……いたら……","If we're just... kinda using it...... and somehow... making
+people feel bad... because of it......"
 4001037060780,甘奈,う、ううん……！,N-No wait...!
 4001037060790,甜花,"よくないことも……
-見ちゃうし────",And... we may see...... some bad things────
+見ちゃうし────",And... we see...... some bad things────
 4001037060800,千雪,……,......
 0000000000000,プロデューサー,"……仕事を入れさせてもらうよ
 久々に……合わせ練習だ","...Let me do something. It's been a while, but... how
-about a job together?"
+about a practice session together?"
 4001037060810,千雪,"……
 プロデューサーさん……？",...Producer-san...?
 0000000000000,プロデューサー,急なオファーでさ,There's a last minute offer.
 0000000000000,プロデューサー,"しばらくはそれぞれの仕事に向き合ってほしかったし
-負担もあるから、断ろうと思ってたけど……","I wanted you all to focus on some stuff, so I was
+負担もあるから、断ろうと思ってたけど……","I wanted you all to focus on your own work, so I was
 pretty set on turning it down, but..."
 0000000000000,プロデューサー,"ステージだ、アルストロメリアの
 小さなステージだけど、引き受けてみないか？","It's a performance, for Alstroemeria. It'd be small,
@@ -305,4 +312,4 @@ All of us...... are Alstroemeria............"
 みんなで、アルストロメリアだね","............The three of us...
 All of us...... are Alstroemeria............"
 info,game_event_communications/400103706.json,
-Translator,,
+Translator,kotonekotoP/Rinka,

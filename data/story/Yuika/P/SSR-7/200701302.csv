@@ -23,15 +23,15 @@ and relying on your senpais...)"
 2007013020100,結華,（……多分、なんとかしてはいるんだろうな）,"(...I guess, they'll be getting by fine.)"
 2007013020110,結華,（──でも）,(──But...)
 2007013020120,結華,（──……もう考えらんないや）,(──A life like that is something unimaginable now.)
-2007013020130,結華,（当たり前だったのに、違うんだもん）,"(Even though my life now feels so ordinary,
+2007013020130,結華,（当たり前だったのに、違うんだもん）,"(Even though it feels so normal,
 it still feels so surreal...)"
 2007013020140,結華,──ああ、怖い怖い,"──Oh man, it's real scary..."
 2007013020150,結華,この場所の味、知っちゃったせいだ,...having tasted the beauty of it all.
 2007013020160,結華,（……ほんとに）,(It's honestly...)
-2007013020170,結華,厄介じゃない？,"...not so bad, huh?"
+2007013020170,結華,厄介じゃない？,...isn't it unsettling?
 2007013020180,結華,"当たり前だからって、
-なくならないわけじゃないのに","But just because nothing's coming out of the blue,
-it doesn't mean that what I have won't fade away."
+なくならないわけじゃないのに","Just because now this feels all normal,
+it doesn't mean it won't disappear."
 2007013020190,結華,……,......
 2007013020200,結華,"……あーあ、残念
 ここのケーキ美味しかったのになぁ","...Maaan, that's too bad!
@@ -66,10 +66,11 @@ Fufu, prooobably nothing?"
 0000000000000,プロデューサー,……,......
 2007013020300,結華,"なぁに？
 納得してない？","Whaaat?
-You don't believe me?"
+Not buying it?"
 0000000000000,プロデューサー,"……いや
-何もないにしては上機嫌そうだな、と","...Well, it's as if you're suddenly in a good mood."
-2007013020310,結華,あは、よく見てるじゃん,Aha! So you've been picking up.
+何もないにしては上機嫌そうだな、と","...Well, it's as if you're rather cheerful
+for ""probably nothing."""
+2007013020310,結華,あは、よく見てるじゃん,Aha! So you're a sharp one.
 2007013020320,結華,"Ｐたん見てたのは三峰の方なのにね
 怖い怖ーい","P-tan's been looking at Mitsumine real good, huh?
 Freeaakyyy～"
@@ -79,15 +80,14 @@ Freeaakyyy～"
 if I've screwed something up...!"
 2007013020340,結華,あははっ、ちょっとぉ,"Ahaha, whoa there...!"
 2007013020350,結華,"それ、三峰がＰたんの失敗をこっそり笑ってる
-性悪だって言ってるー？","P-tan, are you saying that Mitsumine's the kind of
-person who laughs behind your back whenever you
-screw things up?"
+性悪だって言ってるー？","Hey now, are you insinuating that Mitsumine
+laughs are your screw ups like a villain?"
 0000000000000,プロデューサー,そこまでではないけど、近い感じではある……！,"I wouldn't go as far as that...
 But I'm not denying it either!"
 2007013020360,結華,"うーん、もう
 言ってくれるじゃーん","Heh... Gosh.
 You sure know how to say it..."
-2007013020370,結華,変に律儀なくせに！,...despite being so uptight as you are.
+2007013020370,結華,変に律儀なくせに！,...being as uptight as you are.
 2007013020380,結華,"やだーっ
 目が合っちゃった、これもう恋では？","Oh nooo, our eyes have met!
 Could this be love?"
@@ -97,19 +97,18 @@ plan to fall in love today?"
 2007013020390,結華,わ、Ｐたんってばそんなに三峰見てるの？,"Wha, P-tan, were you looking at
 Mitsumine thaaat much?"
 0000000000000,プロデューサー,"いや俺っていうか、
-他の人も含めてのカウントだろ？","No, it's that... you do know that means
-you've got to count the times you've
-done that with other people, right?"
+他の人も含めてのカウントだろ？","Well, it's not just me.
+You're counting other people, right?"
 2007013020400,結華,えええー……,Woooow...
 2007013020410,結華,"こらこらＰたぁん
 それは三峰の評価を改めてもらわないと","Listen up, P-tan. Your opinion on
 Mitsumine really needs a second look."
 2007013020420,結華,"あなた自慢のアイドルが、
-そんなにチョロいとお思いで？","Do you take me, your esteemed idol,
-to be head over heels that easy?"
+そんなにチョロいとお思いで？","Do you take me, your star idol,
+is that easy to win over?"
 0000000000000,プロデューサー,"だとしたら、そもそも最初から冗談だろ？
-俺自慢のアイドルさん","Putting it like that, then you must
+俺自慢のアイドルさん","Putting it like that, then my star idol must
 have been joking around from the start.
-Isn't that right, my esteemed idol-san?"
+Isn't that right?"
 info,produce_events/200701302.json,
 Translator,Lewdacriz,

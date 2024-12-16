@@ -1,32 +1,32 @@
 id,name,text,trans
 4001037040010,甜花,"────じゃあ……この人……！
-どんな、人……？",────So...... What kind of person... are they......?
+どんな、人……？",────Then... this one......! Who is she......?
 4001037040020,甘奈,"えへへ～
 この人はねー、全体の責任者の人！　ディレクターさん","Ehehe～ So this person is in charge of everything!
-They're the director."
+She's the director."
 4001037040030,甘奈,"めっ……ちゃ、なーんでも知ってる人なの！
-現場の人たちもみんな頼りにしてて","They know eeeeeeverything!  Everyone on set relies
-on them too."
+現場の人たちもみんな頼りにしてて","She knows eeeeeeverything!  Everyone onsite relies
+on her too."
 4001037040040,甜花,へぇ……！,Wow......!
 4001037040050,甜花,"にへへ……
-この人は……えらい、人……",Nihehe...... This person... is pretty high ranked......
+この人は……えらい、人……",Nihehe...... So she's... pretty important......
 4001037040060,甜花,覚えた……！,Got it......!
-4001037040070,甘奈,うん！　偉くて、すごい人！,"Yeah! They're high ranked, and amazing too!"
+4001037040070,甘奈,うん！　偉くて、すごい人！,"Yeah! Really important, and amazing too!"
 4001037040080,甜花,"ツイスタ……
-やってるかな……？",Maybe... they're on Twesta......?
+やってるかな……？",Maybe... she's on Twesta......?
 4001037040090,甘奈,"えー？　あははっ、調べるのー？
-やってないと思うよー────あっ","Hmm? Ahaha, wanna look them up? I don't think they
-are, but──── Oh."
+やってないと思うよー────あっ","Hmm? Ahahah, you're looking her up?
+I don't think she is though────Oh."
 4001037040100,甘奈,この人ならやってるかも……！,It looks like this other person is though...!
 4001037040110,甜花,"わ……
-なんの、人……？",Woah...... who... are they......?
+なんの、人……？",Woah...... who... is she......?
 4001037040120,甘奈,"えっとね、この人はプロダクトデザイナーさん！
-雰囲気からおしゃれだよねー……！","Umm, this person's the product designer! Aren't they
-super stylish...?"
+雰囲気からおしゃれだよねー……！","Umm, this person's the product designer! Isn't she
+just super stylish...?"
 4001037040130,甜花,"ぷ……ぷろだくと、デザイナー……！
 すごい……",P...... Praw-duckt... Designer......! Wow......
 4001037040140,甘奈,"アイディアをいーっぱい持ってて……
-かっこいいんだ……！",They always have so many ideas... They're so cool...!
+かっこいいんだ……！",She always has so many ideas... She's so cool...!
 4001037040150,甜花,へぇ……！,Cool......!
 4001037040160,甜花,────……,────......
 4001037040170,甜花,"…………にへへ……
@@ -72,11 +72,11 @@ Naa-chan............"
 0000000000000,番組MC,────桑山ちゃんて,────Kuwayama-chan.
 4001037040360,千雪,……え？,...Huh?
 0000000000000,番組MC,"ごめん、雑談
-桑山ちゃんてさ、ちょっと思ってた印象と違ったなーって","Oh sorry, I wanted to say, talking with you feels a
-little different from how I thought it would."
+桑山ちゃんてさ、ちょっと思ってた印象と違ったなーって","Sorry, just a bit of chit-chat. You know, you're
+pretty different from what I'd expected you'd be like."
 4001037040370,千雪,"……わ
 ええ……！",...Aww. Likewise...!
-4001037040380,千雪,すっごい、雑談ですね……！,"We've talked quite a bit, haven't we...!?"
+4001037040380,千雪,すっごい、雑談ですね……！,That sure is a fair lot of chit-chat...!
 4001037040381,千雪＆番組MC,はははっ……,Hahaha...
 0000000000000,番組MC,"ほら、そういうさ
 わりと言うじゃない？","See, you say stuff like that a lot, right?"
@@ -90,16 +90,16 @@ insulting me?"
 褒めてる褒めてる～","Ahaha, please don't get mad at me, Kuwayama-chan～
 It's a compliment, I swear～"
 4001037040400,千雪,"怒ってないですー
-おとなしいおねーさん、ですから……！","I'm not mad. Because I'm a well-mannered lady, after
-all...!"
+おとなしいおねーさん、ですから……！","I'm not mad at all.
+I'm a well-mannered lady, you know...!"
 0000000000000,番組MC,"ハハハ、ごめんって！　なんか、イメージね～
-アイドルの子とか、仕事で絡まないと全然知らないからさ","Hahaha, I'm sorry I'm sorry! Impressions are weird～
-I don't really interact with idols much in my line of
-work, so I didn't know what to expect."
+アイドルの子とか、仕事で絡まないと全然知らないからさ","Hahaha, I'm sorry I'm sorry! Impressions are hard～
+I don't know much about idols outside of ones that
+work with me, so I didn't know what to expect."
 0000000000000,番組MC,"キラキラティーンの後ろでにこにこしてる人、
 って思ってたけど────","I always had the idea that you were just some smiling
 lady behind two dazzling teenagers────"
-0000000000000,番組MC,ギラつくじゃん、時々,"But you're dazzling too, sometimes."
+0000000000000,番組MC,ギラつくじゃん、時々,"But your gleam is a lot more intense, sometimes."
 4001037040410,千雪,"──っ
 ぎら────","──
 I wouldn't────"
@@ -118,16 +118,15 @@ know, you can show that side of yourself a bit more."
 0000000000000,番組MC,ソロでやるって、そういうことだから,This is what it's like when you go solo.
 0000000000000,バラエティ司会者,"あはは、甜花ちゃん違う違～う！
 FXね、FX！　投資のこと～！","Ahaha, that's the wrong one, Tenka-chan! Think FX,
-foreign investment～!"
+foreign exchange! It's investments～!"
 4001037040450,甜花,"あぅ……と、とうし……？
-ゲームの、こと……かと思った……","Auu...... I-Investment......? Tenka thought that... this
-was a game......"
+ゲームの、こと……かと思った……","Auu...... I-Investment......? Tenka thought that... we
+were talking about games..."
 0000000000000,番組ゲスト,"間違ってはいないですよ、ハニー
 FXにはゲームのような側面もありますから","Well, you aren't wrong, honey, but there's also a
 gamified side to this topic as well."
 0000000000000,バラエティ司会者,"出た～！
-FX王子のハニー呼び～！","There it is～! The Foreign Investing Prince's Honey
-Call～!"
+FX王子のハニー呼び～！",There it is～! The FX Prince's Honey Call～!
 0000000000000,バラエティ司会者,"甜花ちゃん、これ王子に狙われてるサインだからね～
 結婚したら超豪邸住まいだよ、チャンス！","Tenka-chan, this is a sign that the prince has his
 sights set on you! If you two got married, you would
@@ -144,26 +143,27 @@ M-Mansion............"
 ひとりで街を歩くのだって、嫌がってたのにな","────Amazing, she usually hates walking around all
 alone."
 0000000000000,バラエティ司会者,"はぁ～！　これが超一流トレーダーの生活ですかぁ～
-どう、この豪邸VTR？","My goodness～! Is this the live of a top-end trader～?
-Let's take a look at the VTR!"
+どう、この豪邸VTR？","My goodness～! Is this the life of a top-end trader～?
+What'd you think of that mansion on the VTR?!"
 4001037040480,甜花,"────あぅ……
 え、と…………",────Auu...... Umm............
 0000000000000,ベテラン女優,"──うふふ。お宅自体も豪華だけど、
-生活にスマートさが感じられるとこがすごいと思うのよね～","──They may have a mansion, but I think it's amazing
-how smart they've made their home～"
+生活にスマートさが感じられるとこがすごいと思うのよね～","──Ufufu. That mansion was amazing, but it's more
+amazing how efficient he's made his daily routine"
 4001037040490,甜花,"……！
 う、うん……！","......!
 Y-Yeah......!"
 0000000000000,ベテラン女優,"高価な家具が置いてあるだけ、
 っていうのとは違うでしょう？","They didn't just have random high-end furniture
-laying around."
+laying around, right?"
 4001037040500,甜花,モニター、いっぱい……あった……！,And... there were... so many monitors......!
 0000000000000,番組ゲスト,"ハニー、その通り。サブディスプレイを活用して
-無駄なPC操作時間を減らしています","You're exactly right, honey. They used subdisplays to
-optimize the management of their computer."
+無駄なPC操作時間を減らしています","That's exactly right, honey. Those subdisplays
+reduce the time wasted switching between windows
+and applications."
 0000000000000,番組ゲスト,"文字入力なんかも音声でやりますね
-打ってる時間とか、ありえないムダでしょ","They also made use of speech-to-text, didn't they?
-They didn't even waste any time typing."
+打ってる時間とか、ありえないムダでしょ","He also made use of speech-to-text, didn't he?
+He doesn't waste a second, manually typing."
 0000000000000,バラエティ司会者,"わーっ！　音声やってる人ってほんとにいるんだ！？
 俺、フリック入力もできないよ！","Woah! People can actually do that!? I can't even use
 that swipe texting!"
@@ -171,22 +171,24 @@ that swipe texting!"
 ありがたい……","...Thank goodness...
 The veterans are following up on her comments."
 0000000000000,バラエティ司会者,"甜花ちゃんもそういうのない？　アイドルって忙しいでしょ
-スマートな生活術とか教えてよ～","Do you have something like that, Tenka-chan? You're
-super busy, right? Tell us how you've done it～"
+スマートな生活術とか教えてよ～","Do you have any tips like that Tenka-chan? Being an
+idol is super busy too, isn't it? Tell us your efficiency
+secrets~"
 4001037040510,甜花,す、スマートな……あぅ……,S-Smart... Auu......
 0000000000000,ベテラン女優,"──ほら、洗濯物をね、干したハンガーのまま収納するとか
 あたしはよくやるのよ～","──Oh here's something, I just put away all of my
 clothes as they are after being hung out to dry～"
 0000000000000,バラエティ司会者,"えーっ、アナタ暇なんだから畳みなさいよ
 どう～、甜花ちゃんは？　王子に生活力をアピール！","Whaa, you have time though so you really should fold
-them. So, Tenka-chan～? Show the Prince how you do
-it!"
+them. So, Tenka-chan～? Show the Prince how efficient
+you are!"
 4001037040520,甜花,"……！
 え、えと……あっ……",......! U-Um...... Oh......
 4001037040530,甜花,シャンプーと、コンディショナー……混ぜる……！,Tenka... mixes her shampoo... and conditioner......!
 4001037040540,甜花,"に、２倍速で……洗えて……
 スマート…………！",She can... get done... twice as fast...... it's smart......!
-0000000000000,バラエティ司会者,ちょっと～、そこはスローでいいから！,Hey～ Isn't that slow though!?
+0000000000000,バラエティ司会者,ちょっと～、そこはスローでいいから！,"Hey～ That's the one thing you can take slow, you
+know!?"
 4001037040550,甜花,────ふ、ふぅ……,────Phew......
 0000000000000,プロデューサー,"甜花、お疲れ様
 いい感じだったぞ。よく頑張った","Good work, Tenka. That went great, you did really
@@ -197,15 +199,15 @@ time, right?"
 なんか、大丈夫……だった……",Y-Yeah......! It... kinda felt... okay......
 4001037040570,甜花,いい人、いっぱい…………,There were so many... good people......
 0000000000000,プロデューサー,"うん。すごく気にしてくれてたよな
-息が合わないと、観てる人に楽しい空気を届けられない","Yeah. And they were super interested in you. You
-should get used to them so you can create a fun
+息が合わないと、観てる人に楽しい空気を届けられない","Yeah. And they were super interested in you.
+Everyone needs to be in sync to create a fun
 atmosphere for the viewers."
 0000000000000,プロデューサー,"だからああやって、
 番組を成功させるために協力する────","That's why I was okay with them having you come on
 solo────"
 0000000000000,プロデューサー,"甜花は、
 そのチームのひとりとして迎えてもらえたんだ","So that the you could work together to make this
-show work."
+show succeed."
 4001037040580,甜花,"……！
 う、うん……！","......!
 Y-Yeah......!"
@@ -251,8 +253,7 @@ Tenka-chan grow with the others."
 4001037040650,甜花,"────あ、千雪さん
 通知…………",────Oh. Chiyuki-san. She posted............
 4001037040660,甜花,"司会の人と…………
-仲、よさそう……","She seems...... so happy... with the host of that
-group............"
+仲、よさそう……",She seems...... so happy... with that host............
 4001037040670,甜花,"あ、『いいね』……ついた……
 司会の人、早い…………！","Oh...... there's already... a like...... the host... is so
 fast............!"
@@ -266,12 +267,12 @@ fast............!"
 Everyone's... cheering for her......"
 4001037040700,甜花,ハッシュタグ……は…………,In the hashtag............
 0000000000000,SNSの投稿１,"『うわー芸人うそだろ
-これ一緒にいていいねしてねぇ？』","""Woah you're kidding, right? Those comedians are
-gonna be great together!"""
+これ一緒にいていいねしてねぇ？』","""Woah you're kidding, right? Is this comedian sitting
+with her and syncing posts in real time?"""
 4001037040710,甜花,────…………,────............
 0000000000000,SNSの投稿２,"『これ、せーのでこいつと投稿してたら
-病むかも俺』","""Something would seriously have to be wrong with me
-if I did a synced post with them"""
+病むかも俺』","""If these two are really posting on cue together, I
+might actually go insane."""
 4001037040720,甜花,────……,────......
 4001037040730,甜花,……そ、そういう意見も……ある…………！,......Th-Those opinions... also exist............!
 4001037040740,甜花,"…………
@@ -282,9 +283,9 @@ Oh──────"
 Alstroemeria that I like"""
 0000000000000,ツイスタの投稿,『メモリー』,"""Our memory"""
 4001037040750,甜花,"────綺麗な……スライド……
-すごい、いいねいっぱい……ついてる…………","────That's a... pretty slide...... Wow... there's...
+すごい、いいねいっぱい……ついてる…………","────That's a... pretty slideshow...... Wow... there's
 so many likes............"
 4001037040760,甜花,……ふふっ,......Fufu.
 4001037040770,甜花,アルストロメリアだ……,This is Alstroemeria......
 info,game_event_communications/400103704.json,
-Translator,,
+Translator,kotonekotoP/Rinka,
