@@ -1,146 +1,147 @@
 id,name,text,trans
-4001080081,店員,"11500円です
+0000000000000,店員,"11500円です
 ラッピングはいかがされますか？","That will be 11500 yen.
 Shall I wrap them for you?"
-4001080082,ルカ,お願いします……,Yes please......
-4001080083,ルカ,あと、領収書も,And a receipt.
-4001080085,ルカ,メリークリスマス,Merry Christmas.
-4001080086,ルカ,"ねぇ
+4001080080010,ルカ,お願いします……,Yes please......
+4001080080020,ルカ,あと、領収書も,And a receipt.
+4001080080030,ルカ,メリークリスマス,Merry Christmas.
+4001080080040,ルカ,"ねぇ
 プレゼント、持ってきたんだ────","Hey.
 I've brought you a present────"
-4001080089,美琴,クリスマス……？,Christmas.........?
-40010800810,美琴,そっか、今日だったっけ,"I see, it's today, isn't it?"
-40010800812,美琴,"──じゃあ
+4001080080050,美琴,クリスマス……？,Christmas.........?
+4001080080060,美琴,そっか、今日だったっけ,"I see, it's today, isn't it?"
+4001080080070,美琴,"──じゃあ
 練習、始めようか","──Well, let's start practicing."
-40010800813,ルカ,（────ああ、やっぱり用意しなくてよかった,"(────Argh, I knew I shouldn't have prepared one."
-40010800814,ルカ,美琴はクリスマスなんて意識にない）,Mikoto has no sense of things like Christmas.)
-40010800815,ルカ,"（私たちはただ、
+4001080080080,ルカ,（────ああ、やっぱり用意しなくてよかった,"(────Argh, I knew I shouldn't have prepared one."
+0000000000000,ルカ,美琴はクリスマスなんて意識にない）,Mikoto has no sense of things like Christmas.)
+4001080080090,ルカ,"（私たちはただ、
 最高のパフォーマンスを見せることだけを目指して──）","(We're just,
 aiming to show the greatest performance──)"
-40010800819,店員,ありがとうございました,Thank you very much.
-40010800821,ルカ,────……,────.....
-40010800824,店頭のポップ,『プレゼントにおすすめ！』,『Recommended for gifting!』
-40010800825,店頭のポップ,『Happy Merry Christmas!!』,『Happy Merry Christmas!!』
-40010800827,美琴,……何が欲しいんだろう,......What would she want?
-40010800841,ルカ,────……,────......
-40010800846,ルカ,（……──あの時、プレゼント買ってたら）,"(......──That time, if I'd bought a present.)"
-40010800847,ルカ,（何か違ってた？　美琴）,(Would anything have changed? Mikoto.)
-40010800850,ルカ,……バカバカしい,.....This is so dumb.
-40010800856,ルカ,……,......
-40010800858,美琴,お疲れ様、ルカ,"Good work today, Luca."
-40010800859,ルカ,"ああ、美琴……
+0000000000000,店員,ありがとうございました,Thank you very much.
+4001080080100,ルカ,────……,────.....
+0000000000000,店頭のポップ,『プレゼントにおすすめ！』,『Recommended for gifting!』
+0000000000000,店頭のポップ,『Happy Merry Christmas!!』,『Happy Merry Christmas!!』
+4001080080110,美琴,……何が欲しいんだろう,......What would she want?
+4001080080120,ルカ,────……,────......
+4001080080130,ルカ,（……──あの時、プレゼント買ってたら）,"(......──That time, if I'd bought a present.)"
+4001080080140,ルカ,（何か違ってた？　美琴）,(Would anything have changed? Mikoto.)
+4001080080150,ルカ,……バカバカしい,.....This is so dumb.
+4001080080160,ルカ,……,......
+4001080080170,美琴,お疲れ様、ルカ,"Good work today, Luca."
+4001080080180,ルカ,"ああ、美琴……
 お疲れ様","Oh, Mikoto...
 Good work."
-40010800861,ルカ,──まだ美琴だけ？,──Is it just you?
-40010800862,美琴,"うん
+4001080080190,ルカ,──まだ美琴だけ？,──Is it just you?
+4001080080200,美琴,"うん
 他の人たちは少し遅れるみたい","Yes.
 It seems like the others will be slightly late."
-40010800863,ルカ,……,......
-40010800867,美琴,桑山さんと有栖川さん,Kuwayama-san and Arisugawa-san...
-40010800868,美琴,"一緒の現場だったからプロデューサーと一緒に
+4001080080210,ルカ,……,......
+4001080080220,美琴,桑山さんと有栖川さん,Kuwayama-san and Arisugawa-san...
+4001080080230,美琴,"一緒の現場だったからプロデューサーと一緒に
 向かっているけど","They were on location together, so they're 
 on the way here with Producer."
-40010800869,美琴,"道が混んでいるから遅れそうって
+4001080080240,美琴,"道が混んでいるから遅れそうって
 さっき連絡があった","The roads are congested, so seems like they'll be 
 late. They said so just now."
-40010800870,ルカ,そっか,That so.
-40010800871,美琴,うん,Yeah.
-40010800873,美琴＆ルカ,……,......
-40010800875,ルカ,……テーブルの上のプレゼント、美琴が買った分？,"......Are the presents on the table the ones that you 
+4001080080250,ルカ,そっか,That so.
+4001080080260,美琴,うん,Yeah.
+4001080080261,美琴＆ルカ,……,......
+4001080080270,ルカ,……テーブルの上のプレゼント、美琴が買った分？,"......Are the presents on the table the ones that you 
 bought?"
-40010800876,美琴,うん,Yes.
-40010800877,ルカ,──じゃあ私も出しとこ,──Then I'll put mine out too.
-40010800880,美琴,──迷わずに買えた？,──Could you buy them without hesitating?
-40010800883,ルカ,え……？,Huh......?
-40010800886,美琴,……私は困ったから,......I had a bit of trouble with them.
-40010800887,ルカ,そうなんだ,I see.
-40010800888,美琴,だって縁がなかったでしょ？,"I mean, I've never had much to do with them, 
+4001080080280,美琴,うん,Yes.
+4001080080290,ルカ,──じゃあ私も出しとこ,──Then I'll put mine out too.
+4001080080300,美琴,──迷わずに買えた？,──Could you buy them without hesitating?
+4001080080310,ルカ,え……？,Huh......?
+4001080080320,美琴,……私は困ったから,......I had a bit of trouble with them.
+4001080080330,ルカ,そうなんだ,I see.
+4001080080340,美琴,だって縁がなかったでしょ？,"I mean, I've never had much to do with them, 
 you know?"
-40010800889,ルカ,……そうだね,.....Guess so.
-40010800890,ルカ,……──買う時は迷わなかったけど,"......──I didn't hesitate when I bought them, but..."
-40010800891,ルカ,買うまでは迷ったかな,I guess did hesitate up to then.
-40010800892,美琴,──,──
-40010800893,美琴,それは、買うか買わないかってこと？,"As in, about whether you'd buy them or not?"
-40010800894,ルカ,"……仕方ないじゃん
+4001080080350,ルカ,……そうだね,.....Guess so.
+4001080080360,ルカ,……──買う時は迷わなかったけど,"......──I didn't hesitate when I bought them, but..."
+4001080080370,ルカ,買うまでは迷ったかな,I guess did hesitate up to then.
+4001080080380,美琴,──,──
+4001080080390,美琴,それは、買うか買わないかってこと？,"As in, about whether you'd buy them or not?"
+4001080080400,ルカ,"……仕方ないじゃん
 縁がなかったんだから","......Can't be helped.
 I've never had much to do with them."
-40010800895,美琴,……,.......
-40010800896,ルカ,"──……美琴こそ
+4001080080410,美琴,……,.......
+4001080080420,ルカ,"──……美琴こそ
 困ったって言って、ちゃんと買えたの？","──......Back at you, Mikoto.
 You said you had trouble, so did you buy them right?"
-40010800897,美琴,うん,Yeah.
-40010800898,美琴,"手伝ってくれたの
+4001080080430,美琴,うん,Yeah.
+4001080080440,美琴,"手伝ってくれたの
 園田さんと和泉さんが","I got some help.
 From Sonoda-san, and Izumi-san."
-40010800899,ルカ,……へぇ,......Huh.
-400108008103,ルカ,"美琴、何がいい？
+4001080080450,ルカ,……へぇ,......Huh.
+4001080080460,ルカ,"美琴、何がいい？
 プレゼント","Mikoto, what would you like?
 As a present."
-400108008104,美琴,私は────,For me────
-400108008107,美琴,"不要なものをもらったら
+4001080080470,美琴,私は────,For me────
+4001080080480,美琴,"不要なものをもらったら
 困るだろうと思ったんだけど","I'd thought that if I got them something
 they didn't need, it'd trouble them."
-400108008108,美琴,"事務所の子たちの不要なものはわからないから
+4001080080490,美琴,"事務所の子たちの不要なものはわからないから
 ……欲しそうなものも","But I don't know what the people in this 
 agency don't need.....Or even what they'd want."
-400108008109,美琴,"私が欲しいと思うものでもいいって
+4001080080500,美琴,"私が欲しいと思うものでもいいって
 教えてもらったんだけど","They told me that, it'd be alright to give
 them something that I wanted instead."
-400108008110,美琴,それも、よくわからなくて,"Even so, I still don't really get it."
-400108008112,ルカ,……でも、買えたんだ？,......But you bought them anyway?
-400108008114,美琴,うん,Yeah.
-400108008118,ルカ,"美琴が何を選ぶのか
+4001080080510,美琴,それも、よくわからなくて,"Even so, I still don't really get it."
+4001080080520,ルカ,……でも、買えたんだ？,......But you bought them anyway?
+4001080080530,美琴,うん,Yeah.
+4001080080540,ルカ,"美琴が何を選ぶのか
 私は知らない","I don't know
 what Mikoto would choose."
-400108008119,ルカ,プレゼント交換なんてしたことがなかったから,Because we've never exchanged presents before.
-400108008121,ルカ,"美琴が何を選んだのかは
+4001080080550,ルカ,プレゼント交換なんてしたことがなかったから,Because we've never exchanged presents before.
+4001080080560,ルカ,"美琴が何を選んだのかは
 知らなくていい","I don't need to know
 what Mikoto chose."
-400108008122,ルカ,これは、お互いのためのプレゼントじゃないから,Because these aren't our presents for each other.
-400108008126,美琴,……変わった事務所だよね,......This really is an odd agency.
-400108008128,ルカ,うん……？,Hmm......?
-400108008129,美琴,──アイドルになろうと思ったら,"──I thought that, if I wanted to become an idol."
-400108008130,美琴,"練習より、仕事より──
+4001080080570,ルカ,これは、お互いのためのプレゼントじゃないから,Because these aren't our presents for each other.
+4001080080580,美琴,……変わった事務所だよね,......This really is an odd agency.
+4001080080590,ルカ,うん……？,Hmm......?
+4001080080600,美琴,──アイドルになろうと思ったら,"──I thought that, if I wanted to become an idol."
+4001080080610,美琴,"練習より、仕事より──
 これは、優先度が低い","Compared to practice, and doing work──
 This is of lower priority."
-400108008131,ルカ,……,......
-400108008132,美琴,プレゼント選びだって,Even when it comes to to choosing presents......
-400108008133,美琴,手伝わないという選択も\nできたはず,"Choosing not to help,
+4001080080620,ルカ,……,......
+4001080080630,美琴,プレゼント選びだって,Even when it comes to to choosing presents......
+4001080080640,美琴,"手伝わないという選択も
+できたはず","Choosing not to help,
 must have been an option."
-400108008134,美琴,……でも、ここはそうじゃない,"......But, that's not how things are here."
-400108008135,ルカ,……うん,......Yeah.
-400108008136,ルカ,前と比べるとぬるい,It's gotten more lukewarm than before.
-400108008138,美琴,……,.......
-400108008142,美琴,ルカ。……ごめんね,"Luca.
+4001080080650,美琴,……でも、ここはそうじゃない,"......But, that's not how things are here."
+4001080080660,ルカ,……うん,......Yeah.
+4001080080670,ルカ,前と比べるとぬるい,It's gotten more lukewarm than before.
+4001080080680,美琴,……,.......
+4001080080690,美琴,ルカ。……ごめんね,"Luca.
 ...... I'm sorry."
-400108008145,ルカ,え──,Huh──
-400108008149,ルカ,え──────────────────,Huh──────────────────
-400108008152,ルカ,解散…………て──────────？,What do you mean......... disband──────────？
-400108008157,ルカ,──ううん,──Nah.
-400108008158,ルカ,美琴に謝ってもらうようなことはないよ,"There's nothing you need to apologize for, Mikoto."
-400108008161,美琴,……そう,.......I see.
-400108008163,美琴,私は、ここに来てよかったと思っているの,"I think that, I'm glad I came here."
-400108008164,美琴,だからルカにも、そうあってほしい,"So I hope, it's the same for you, Luca."
-400108008166,ルカ,……！,......!
-400108008168,ルカ,──……うん,──......Yeah.
-400108008176,ルカ,──ねぇ、配信ライブの準備は順調？,"──Hey, are preparations for the streaming live 
+4001080080700,ルカ,え──,Huh──
+4001080080710,ルカ,え──────────────────,Huh──────────────────
+4001080080720,ルカ,解散…………て──────────？,What do you mean......... disband──────────？
+4001080080730,ルカ,──ううん,──Nah.
+4001080080740,ルカ,美琴に謝ってもらうようなことはないよ,"There's nothing you need to apologize for, Mikoto."
+4001080080750,美琴,……そう,.......I see.
+4001080080760,美琴,私は、ここに来てよかったと思っているの,"I think that, I'm glad I came here."
+4001080080770,美琴,だからルカにも、そうあってほしい,"So I hope, it's the same for you, Luca."
+4001080080780,ルカ,……！,......!
+4001080080790,ルカ,──……うん,──......Yeah.
+4001080080800,ルカ,──ねぇ、配信ライブの準備は順調？,"──Hey, are preparations for the streaming live 
 going smoothly?"
-400108008177,美琴,うん,Yeah.
-400108008178,ルカ,"当たり前か
+4001080080810,美琴,うん,Yeah.
+4001080080820,ルカ,"当たり前か
 美琴だもん","That goes without saying.
 It's you, after all."
-400108008180,ルカ,…………じゃあ、あっちは？,"......Then, what about that one?"
-400108008181,ルカ,"今度あるよね
+4001080080830,ルカ,…………じゃあ、あっちは？,"......Then, what about that one?"
+4001080080840,ルカ,"今度あるよね
 ……シーズと、コメティックのライブ","It's coming up, right.
 ......The live with SHHis and CoMETIK."
-400108008182,美琴,もちろん準備はしているけど,Of course we're preparing for that too.
-400108008183,ルカ,"そうだよね
+4001080080850,美琴,もちろん準備はしているけど,Of course we're preparing for that too.
+4001080080860,ルカ,"そうだよね
 ごめん、違うんだ。言いたかったのは──","Of course you are. Sorry, that's not what I meant. 
 What I wanted to say is──"
-400108008185,ルカ,"────……一緒にやれるんだなって
+4001080080870,ルカ,"────……一緒にやれるんだなって
 ライブ","────......We'll get to do it together.
 The live."
-400108008186,美琴,そうだね,You're right.
-400108008187,美琴,楽しみにしてる,I'm looking forward to it.
+4001080080880,美琴,そうだね,You're right.
+4001080080890,美琴,楽しみにしてる,I'm looking forward to it.
 info,game_event_communications/400108008.json,
 Translator,,

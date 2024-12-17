@@ -1,206 +1,206 @@
 id,name,text,trans
-4001080011,off,メリークリスマス,Merry Christmas.
-4001080012,off,"ねぇ
+0000000000000,off,メリークリスマス,Merry Christmas.
+0000000000000,off,"ねぇ
 プレゼント、持ってきたんだ────","Hey.
 I've brought you a present────"
-4001080016,円香,"窓は開けてない
+4001080010010,円香,"窓は開けてない
 空調はつけたままにしてる","The windows are closed,
 so leave the air conditioning on."
-4001080017,円香,"もし終わりの時間になっても
+4001080010020,円香,"もし終わりの時間になっても
 次が来てないようだったら──","If you're done for the day and no one else
 comes in──"
-4001080018,円香,消してから退室,Turn it off when you leave the room.
-4001080019,灯織,はい,Yes.
-40010800111,円香,"あと、今日の差し入れ
+4001080010030,円香,消してから退室,Turn it off when you leave the room.
+4001080010040,灯織,はい,Yes.
+4001080010050,円香,"あと、今日の差し入れ
 ゼリーだから","Also, today's treats are jelly."
-40010800112,円香,"いつもの場所じゃなくて、冷蔵庫
+4001080010060,円香,"いつもの場所じゃなくて、冷蔵庫
 ひとりひとつ持っていって","So they won't be in the usual spot, but in the fridge.
 Please take one each."
-40010800113,円香,"……伝言
+4001080010070,円香,"……伝言
 コメティックにもよろしく","...That's the message.
 Be sure to pass it on to CoMETIK too."
-40010800115,灯織,わかりました,Understood.
-40010800116,円香,それじゃ,I'm heading off then.
-40010800117,灯織,"ありがとうございます
+4001080010080,灯織,わかりました,Understood.
+4001080010090,円香,それじゃ,I'm heading off then.
+4001080010100,灯織,"ありがとうございます
 お疲れ様でした、樋口さん……！","Thank you.
 Have a good day, Higuchi-san......!"
-40010800118,円香,うん、お疲れ様,You too.
-40010800124,灯織,（イルミネのあとは、コメティック──……）,"(After Illumine, is CoMETIK──......)"
-40010800126,灯織,プロデューサー……！,Producer......!
-40010800127,灯織,"あの……！
+4001080010110,円香,うん、お疲れ様,You too.
+4001080010120,灯織,（イルミネのあとは、コメティック──……）,"(After Illumine, is CoMETIK──......)"
+4001080010130,灯織,プロデューサー……！,Producer......!
+4001080010140,灯織,"あの……！
 斑鳩さんにお会いすることはできますか……？","Erm......!
 Is it possible for me to see Ikaruga-san......?"
-40010800128,プロデューサー,え,Huh.
-40010800129,灯織,"……練習を見ていただいてた時のこと
+0000000000000,プロデューサー,え,Huh.
+4001080010150,灯織,"……練習を見ていただいてた時のこと
 もう一度、謝りたいんです","...I'd like to apologize again, about that time 
 she watched over my practice."
-40010800130,灯織,──２８３プロに、所属されたということなので……！,──Especially now that she's also under 283Pro......!
-40010800131,プロデューサー,──……！,──......!
-40010800133,プロデューサー,"…………わかった、時間を作るよ
+4001080010160,灯織,──２８３プロに、所属されたということなので……！,──Especially now that she's also under 283Pro......!
+0000000000000,プロデューサー,──……！,──......!
+0000000000000,プロデューサー,"…………わかった、時間を作るよ
 ただ……ルカは今、あまり体調がよくなくて──","I see. I'll make some arrangements. But you see......
 Luca's not feeling very well now, so──"
-40010800134,プロデューサー,"灯織が思うように話はできないかもしれない
+0000000000000,プロデューサー,"灯織が思うように話はできないかもしれない
 ……それでもいいか？","You might not be able to talk for as long as you'd like.
 ......Are you okay with that?"
-40010800138,灯織,"（練習終わりの引き継ぎは……
+4001080010170,灯織,"（練習終わりの引き継ぎは……
 真乃かめぐるにお願いしようかな）","(The message to pass on after practice...
 Maybe I should ask Mano or Meguru to do it instead.)"
-40010800139,灯織,"（……私だと…………
+4001080010180,灯織,"（……私だと…………
 斑鳩さんに嫌な思いをさせてしまうかもしれない）","(... If I were the one to say it...
 Ikaruga-san might be offended...)"
-40010800141,灯織,い、斑鳩さん,I-Ikaruga-san.
-40010800142,ルカ,……,......
-40010800143,灯織,"……っ、先日は本当にすみませんでした……！
+4001080010190,灯織,い、斑鳩さん,I-Ikaruga-san.
+4001080010200,ルカ,……,......
+4001080010210,灯織,"……っ、先日は本当にすみませんでした……！
 私の都合で斑鳩さんにご迷惑をおかけして──","...... I, I'm terribly sorry about other day......
 I've caused you trouble due to my own personal
 circumstances──"
-40010800144,ルカ,……,......
-40010800145,灯織,──……,──......
-40010800148,ルカ,…………で？,......So?
-40010800149,灯織,え──,Huh──
-40010800150,灯織,"す、すみません……！　斑鳩さんのご都合も考えず、
+4001080010220,ルカ,……,......
+4001080010230,灯織,──……,──......
+4001080010240,ルカ,…………で？,......So?
+4001080010250,灯織,え──,Huh──
+4001080010260,灯織,"す、すみません……！　斑鳩さんのご都合も考えず、
 一方的に気持ちを押し付けるような真似を──","I-I'm so sorry......! I tried to impose my own feelings 
 of guilt onto you without any consideration for yo──"
-40010800151,ルカ,もういい,That's enough.
-40010800155,プロデューサー,ルカ……！,Luca......!
-40010800156,灯織,……──,......──
-40010800158,灯織,あ……,Ah......
-40010800159,ルカ,──,──
-40010800164,灯織,……,......
-40010800165,プロデューサー,……すまん灯織,"......I'm sorry, Hiori."
-40010800166,灯織,"…………いえ……
+4001080010270,ルカ,もういい,That's enough.
+0000000000000,プロデューサー,ルカ……！,Luca......!
+4001080010280,灯織,……──,......──
+4001080010290,灯織,あ……,Ah......
+4001080010300,ルカ,──,──
+4001080010310,灯織,……,......
+0000000000000,プロデューサー,……すまん灯織,"......I'm sorry, Hiori."
+4001080010320,灯織,"…………いえ……
 プロデューサーのせいではないですから……──","......No, it's alright......
 It's not your fault, Producer......──"
-40010800168,灯織,私が……,It's me......
-40010800172,灯織,"（──私が、謝罪すら許してもらえないほど
+4001080010330,灯織,私が……,It's me......
+4001080010340,灯織,"（──私が、謝罪すら許してもらえないほど
 不快にさせてしまった）","(──I've upset her so terribly that I can't expect her 
 to ever forgive me.)"
-40010800174,灯織,"…………そんな相手と
+4001080010350,灯織,"…………そんな相手と
 顔を合わせたくないよね…………","... There's no way she'd even want to see my face 
 after what I've done... "
-40010800176,灯織,…………,......
-40010800180,プロデューサー,"──ええ……
+4001080010360,灯織,…………,......
+0000000000000,プロデューサー,"──ええ……
 やっぱりクリスマスに全員で集まるっていうのは……","──Right..... I guess gathering everyone together 
 during Christmas......"
-40010800182,プロデューサー,"──難しそうですよね……
+0000000000000,プロデューサー,"──難しそうですよね……
 はは、さすがにわかってました……！","──would be quite difficult indeed......
 Haha, of course, you'd know that......!"
-40010800183,プロデューサー,どのユニットも、配信ライブの準備で忙しいですしね,"Every unit is busy preparing for the streaming live 
+0000000000000,プロデューサー,どのユニットも、配信ライブの準備で忙しいですしね,"Every unit is busy preparing for the streaming live 
 as well."
-40010800184,プロデューサー,"今回は合同じゃなくて日替わりだから
+0000000000000,プロデューサー,"今回は合同じゃなくて日替わりだから
 ユニットごとに空きもまちまちだし──","Of course, it's not a combined live, and they'll be 
 performing on alternate days, but any free time 
 they have is all scattered around, so──"
-40010800186,プロデューサー,"──なので、はい
+0000000000000,プロデューサー,"──なので、はい
 この間話した通り、プレゼントの方にしましょう","──That's why, yes.
 like I suggested, let's prepare some presents."
-40010800187,プロデューサー,"はづきさんと俺で用意して、みんなにはせめて
+0000000000000,プロデューサー,"はづきさんと俺で用意して、みんなにはせめて
 クリスマス気分だけでも味わってもらえるように────","Hazuki-san, you and I can prepare them, so the girls 
 can enjoy a little bit of Christmas cheer at least──"
-40010800191,プロデューサー,"！？！？
+0000000000000,プロデューサー,"！？！？
 千雪、美琴────！？","!?!?
 Chiyuki, Mikoto────!?"
-40010800194,プロデューサー,っすみませんはづきさん、またかけ直します──！,"Sorry, Hazuki-san, I'll call you back──!"
-40010800196,美琴,お疲れ様,Good work today.
-40010800197,美琴,"電話、邪魔しちゃったね
+0000000000000,プロデューサー,っすみませんはづきさん、またかけ直します──！,"Sorry, Hazuki-san, I'll call you back──!"
+4001080010370,美琴,お疲れ様,Good work today.
+4001080010380,美琴,"電話、邪魔しちゃったね
 ごめんなさい","I've interrupted your call, haven't I?
 Sorry about that."
-40010800198,プロデューサー,"いや、それは全然──でもふたりとも、なんで……！？
+0000000000000,プロデューサー,"いや、それは全然──でもふたりとも、なんで……！？
 もう今日は誰も来ないはず────","No, it's alright── But what are the two of you 
 doing here...!? I was sure no one else would be coming 
 in today──"
-40010800199,プロデューサー,"いや違うこれ明日の予定だな……！？
+0000000000000,プロデューサー,"いや違うこれ明日の予定だな……！？
 うわっ、俺──ああ～……！","Wait, this is the schedule for tomorrow, isn't it......!? 
 Argh, I'm such a── aghhh～......!"
-400108001101,千雪＆美琴,……,......
-400108001105,プロデューサー,"…………なんていうか……
+4001080010381,千雪＆美琴,……,......
+0000000000000,プロデューサー,"…………なんていうか……
 結構、聞いてたか……？","......... What can I say......
 I guess, you heard it all......?"
-400108001107,千雪,……はい……,......Yes.......
-400108001108,プロデューサー,あ～……！,Arggh～......!
-400108001109,プロデューサー,"悪い、俺が迂闊だったばっかりに……！
+4001080010390,千雪,……はい……,......Yes.......
+0000000000000,プロデューサー,あ～……！,Arggh～......!
+0000000000000,プロデューサー,"悪い、俺が迂闊だったばっかりに……！
 ふたりにも楽しんでもらえるはずだったのに……","I'm so sorry, I've been so careless......!
 We wanted you two to have fun too......!"
-400108001111,美琴,"……？
+4001080010400,美琴,"……？
 どうして謝るの？","......?
 Why are you apologizing?"
-400108001113,千雪,"ええ
+4001080010410,千雪,"ええ
 謝らないといけないのは、こちらかと","That's right.
 If anything, we should be the ones to apologize."
-400108001114,千雪,すみません、タイミングが悪く……,"Sorry, we came in at a bad time......"
-400108001115,プロデューサー,"いやいや！？
+4001080010420,千雪,すみません、タイミングが悪く……,"Sorry, we came in at a bad time......"
+0000000000000,プロデューサー,"いやいや！？
 それこそふたりが謝る必要ないよ！","No, no, not at all!?
 There's no need for you to apologize!"
-400108001116,プロデューサー,でも本当に自分の抜け具合が憎い……！,"It's just, I'm frustrated at myself for being 
+0000000000000,プロデューサー,でも本当に自分の抜け具合が憎い……！,"It's just, I'm frustrated at myself for being 
 careless......!"
-400108001118,千雪＆美琴,……,......
-400108001120,千雪,……あ、それなら……,"…...Ah, if that's the case......"
-400108001121,千雪,"プロデューサーさん
+4001080010421,千雪＆美琴,……,......
+4001080010430,千雪,……あ、それなら……,"…...Ah, if that's the case......"
+4001080010440,千雪,"プロデューサーさん
 代わりに、私たちも参加させてもらえませんか？","Producer-san,
 How about allowing us to join you, instead?"
-400108001122,プロデューサー,……？,......?
-400108001123,千雪,"サンタさんにわくわくする子ども側──は
+0000000000000,プロデューサー,……？,......?
+4001080010450,千雪,"サンタさんにわくわくする子ども側──は
 できなくなっちゃいましたけど","We're no longer children who can get excited over 
 what Santa-san has in store for us, but..."
-400108001124,千雪,"その分、サンタさん側は
+4001080010460,千雪,"その分、サンタさん側は
 できるようになったって、思うんです","On the contrary, I think now we can take the role of
 Santa-san instead."
-400108001125,プロデューサー,それって,You mean...
-400108001126,千雪,ふふっ、そうです,"Hehe, yes,"
-400108001127,千雪,"プレゼントの準備、ぜひ手伝わせてください
+0000000000000,プロデューサー,それって,You mean...
+4001080010470,千雪,ふふっ、そうです,"Hehe, yes,"
+4001080010480,千雪,"プレゼントの準備、ぜひ手伝わせてください
 今回は大人組みんなでサンタさん、やっちゃいましょう","Please let us help with preparing the presents.
 Let the adults all come together this time and all 
 be Santa-san."
-400108001128,プロデューサー,"（千雪……俺のフォローを……！
+0000000000000,プロデューサー,"（千雪……俺のフォローを……！
 ありがとう、すまん……！）","(Chiyuki...... Thanks for having my back......!
 I'm so sorry......!)"
-400108001132,千雪,"ごめんね、美琴さん
+4001080010490,千雪,"ごめんね、美琴さん
 都合も聞かずに提案しちゃって","Sorry, Mikoto-san.
 I didn't ask for your thoughts before proposing it."
-400108001133,美琴,"……
+4001080010500,美琴,"……
 事務所のイベントとしてクリスマスプレゼントを用意する","...... As part of the agency's events, 
 Christmas presents are to be prepared."
-400108001134,美琴,その準備に私も参加する、ということで合っている？,"And I'll be a part of the preparations. 
+4001080010510,美琴,その準備に私も参加する、ということで合っている？,"And I'll be a part of the preparations. 
 Is that correct?"
-400108001135,千雪,うん……！,Yep......!
-400108001136,美琴,わかった,Got it.
-400108001138,プロデューサー,いいのか美琴,"Are you alright with that, Mikoto?"
-400108001139,美琴,"……？
+4001080010520,千雪,うん……！,Yep......!
+4001080010530,美琴,わかった,Got it.
+0000000000000,プロデューサー,いいのか美琴,"Are you alright with that, Mikoto?"
+4001080010540,美琴,"……？
 事務所のイベントなんでしょ？","......?
 It's an agency event, isn't it?"
-400108001140,プロデューサー,ああ──ありがとう……！,"Ahh, yes── Thank you......!"
-400108001142,千雪,"じゃあ、夏葉ちゃんにも声をかけますね
+0000000000000,プロデューサー,ああ──ありがとう……！,"Ahh, yes── Thank you......!"
+4001080010550,千雪,"じゃあ、夏葉ちゃんにも声をかけますね
 同じ大人組ですし──","Then, I'll let Natsuha-chan know about it later.
 She's one of us adults too──"
-400108001143,千雪,"あとで知ったら、『私も誘ってほしかったわ』って
+4001080010560,千雪,"あとで知ったら、『私も誘ってほしかったわ』って
 言われちゃいそうだから","And if she found out without me telling her, she'd
 definitely say, ""You should've asked me too!""."
-400108001144,千雪,結華ちゃんとか、19歳の子たちは……,As for Yuika-chan and others who are still 19...
-400108001145,千雪,"まだプレゼントで喜んでほしいから、
+4001080010570,千雪,結華ちゃんとか、19歳の子たちは……,As for Yuika-chan and others who are still 19...
+4001080010580,千雪,"まだプレゼントで喜んでほしいから、
 サンタさんには早いということで","I'd like them to enjoy getting presents for now, 
 so it's a little early for them to take up the role 
 of Santa-san."
-400108001146,プロデューサー,"そうだな……！
+0000000000000,プロデューサー,"そうだな……！
 今回のサンタは20歳からで……！","I see......!
 So this year, the Santas are 20 and above...!"
-400108001149,プロデューサー,あと20歳以上っていうと──,"Speaking of those 20 and above, there's──"
-400108001151,美琴,ルカかな,"Luca, I think."
-400108001153,千雪＆プロデューサー,……！,......!
-400108001154,プロデューサー,──ああ,──Right.
-400108001155,千雪,"……すみません、他意はないんですが──
+0000000000000,プロデューサー,あと20歳以上っていうと──,"Speaking of those 20 and above, there's──"
+4001080010590,美琴,ルカかな,"Luca, I think."
+4001080010591,千雪＆プロデューサー,……！,......!
+0000000000000,プロデューサー,──ああ,──Right.
+4001080010600,千雪,"……すみません、他意はないんですが──
 ルカちゃんにお願いして、負担にならないでしょうか","...... Sorry, I don't mean any offence by asking, but──
 ... Do you think it'd be a burden on Luca-chan if we 
 ask this of her?"
-400108001156,プロデューサー,"その心配もわかるよ
+0000000000000,プロデューサー,"その心配もわかるよ
 ……──でも","I understand why you'd be worried.
 ......──But..."
-400108001159,プロデューサー,"俺は──頼んでみたいと思った
+0000000000000,プロデューサー,"俺は──頼んでみたいと思った
 できるなら、ルカにも参加してほしい","I── want to try asking her.
 If at all possible, I hope she'll also join us."
-400108001160,プロデューサー,俺から連絡してみる,I'll talk to her about it.
-400108001162,美琴,うん,Okay.
-400108001164,千雪,──わかりました,──Understood.
-400108001168,千雪,ルカちゃんも参加してくれたら,If Luca-chan would join us...
-400108001169,千雪,素敵なクリスマスになりますね────,It'd surely become a wonderful Christmas.
+0000000000000,プロデューサー,俺から連絡してみる,I'll talk to her about it.
+4001080010610,美琴,うん,Okay.
+4001080010620,千雪,──わかりました,──Understood.
+4001080010630,千雪,ルカちゃんも参加してくれたら,If Luca-chan would join us...
+4001080010640,千雪,素敵なクリスマスになりますね────,It'd surely become a wonderful Christmas.
 info,game_event_communications/400108001.json,
 Translator,,
