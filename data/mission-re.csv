@@ -398,21 +398,21 @@ Fes Toursで$numSTAGEを突破する,Clear stage $1 in Fes Tours,exp
 STAGE$numで登場するExtremeライブに勝利する,Clear the Stage $1 Extreme Live,exp
 Extremeライブに$num回勝利する,Clear $1 Extreme Lives,exp
 "真乃、恋鐘、穂果、智代子、甘奈、あさひ、円香、美琴、羽那","Mano,Kogane,Kaho,Chiyoko,Amana,Asahi,Madoka,Mikoto,Hana",noun
-"灯織、摩美々、結華、霧子、凛世、甜花、愛依、小糸、","Hiori,Mamimi,Yuika,Kiriko,Rinze,Tenka,Mei,Koito,Luca",noun
-"めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか、","Meguru,Sakuya,Juri,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika,Haruki",noun
+"灯織、摩美々、結華、霧子、凛世、甜花、愛依、小糸、ルカ","Hiori,Mamimi,Yuika,Kiriko,Rinze,Tenka,Mei,Koito,Luca",noun
+"めぐる、咲耶、樹里、夏葉、千雪、冬優子、透、雛菜、にちか、はるき","Meguru,Sakuya,Juri,Natsuha,Chiyuki,Fuyuko,Toru,Hinana,Nichika,Haruki",noun
 "チーム","Team",noun
 "ピーちゃん","Pii-chan",noun
-"(真乃、霧子、甜花)","(Mano,Kiriko,Tenka)",noun
+"真乃、霧子、甜花","(Mano,Kiriko,Tenka)",noun
 "一番星","First Star",noun
-"(灯織、果穂、甘奈)","(Hiori,Kaho,Amana)",noun
+"灯織、果穂、甘奈","(Hiori,Kaho,Amana)",noun
 "うさちよかめ","UsaChiyoKame",noun
-"(恋鐘、智代子、愛依)","(Kogane,Chiyoko,Mei)",noun
+"恋鐘、智代子、愛依","(Kogane,Chiyoko,Mei)",noun
 "まりあ","MaRiA",noun
-"(摩美々、凛世、あさひ)","(Mamimi,Rinze,Asahi)",noun
+"摩美々、凛世、あさひ","(Mamimi,Rinze,Asahi)",noun
 "青春ジャージ","Youthful Jersey",noun
-"(結華、夏葉、千雪)","Yuika,Natsuha,Chiyuki",noun
+"結華、夏葉、千雪","Yuika,Natsuha,Chiyuki",noun
 "ヘルメス","Hermes",noun
-"(めぐる、咲耶、樹里、冬優子)","(Meguru,Sakuya,Juri,Fuyuko)",noun
+"めぐる、咲耶、樹里、冬優子","(Meguru,Sakuya,Juri,Fuyuko)",noun
 $nounのすべての基礎能力$num%,"$1 Base Stamina $2%",exp
 $noun$unknown$noun$noun$unknownの体力回復量を$num%上昇,$1$2$3$4$5 restore $6% more Stamina,exp
 $nounの体力回復量を$num%上昇,$1 restore $2% more Stamina,exp
@@ -437,6 +437,7 @@ $noun$unknown$noun$noun$unknownの体力減少量を$num%軽減,$1$2$3$4$5 lose 
 Vocal,Vocal,noun
 Visual,Visual,noun
 Dance,Dance,noun
+メンタル,Mental,noun
 $nounを$num回行う,Go to $1 $2 times,exp
 レッスンを$num回行う,Go to $1 Lessons,exp
 Excellentを$num回発生させる,Trigger $1 Excellents,exp
@@ -697,3 +698,7 @@ $num回のW.I.N.G.で$nounレッスンを$num回以上行おう,Do at least $3 $
 『W.I.N.G.』編のオーディションで$noun審査員から$nounをとろう,Get $2 from the $2 Judge in an Audition in W.I.N.G.,exp
 $nounに参加して1位になろう,Get 1st Place in $1,exp
 $nounに参加して1位に$num回なろう,Get 1st Place in $1 $2 times,exp
+スキルに合わせる,Match your Skill,exp
+最も倍率の高いスキルを使用し、その流行の審査員にアピールする,Use Skills to appeal to the Judge of that Trend.,exp
+流行に合わせる,Keep up with Trends,exp
+最も高い流行のスキルを使用し、その流行の審査員にアピールする,Use Skills to appeal to the highest Trend.,exp

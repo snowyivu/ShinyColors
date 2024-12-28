@@ -1,9 +1,9 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,81
-images/ui/common/parts.json_image,common_parts.png,46
+images/ui/common/parts.json_image,common_parts.png,47
 images/ui/my_page/parts.json_image,my_page.parts.png,47
 images/ui/fes/parts.json_image,fes_parts.png,40
-images/ui/common/parts_icons.json_image,common_parts_icons.png,39
+images/ui/common/parts_icons.json_image,common_parts_icons.png,40
 images/ui/option/parts.json_image,ui_option_parts.png,29
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,25
@@ -114,7 +114,7 @@ images/ui/joint_fes_concert/parts.json_image,joint_fes_concert_parts.png,2
 images/ui/joint_fes_concert/parts_result.json_image,joint_fes_parts_results.png,2
 images/ui/joint_fes_ready/parts.json_image,joint_fes_ready_parts.png,2
 images/ui/joint_fes_rankings/parts.json_image,joint_fes_rankings_parts.png,2
-images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,14
+images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,15
 images/ui/game_event/gradation/game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
 images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,2
 images/tips/produce_step/action/001.jpg,tutorial/step_action_001.jpg,1
@@ -736,9 +736,9 @@ images/ui/produce_ending/parts_ex_skill_reward.json_image,parts_ex_skill_reward.
 images/ui/produce_auto_concert/parts.json_image,produce_auto_concert_parts.png,1
 images/content/special_communications/buttons/50024/parts.json_image,images_content_special_communications_buttons_50024_parts.png,1
 images/ui/produce_action/parts_5th.json_image,parts_5th.png,2
-images/ui/produce_top/parts_5th.json_image,produce_top_parts_5th.png,1
+images/ui/produce_top/parts_5th.json_image,produce_top_parts_5th.png,2
 images/ui/notice/parts_pickup_contents_pop.json_image,pickup_contents_pop.png,1
-images/ui/producer_desk/parts.json_image,producer_desk_parts.png,6
+images/ui/producer_desk/parts.json_image,producer_desk_parts.png,7
 images/ui/producer_desk/parts_note.json_image,producer_desk_note.png,1
 images/ui/producer_desk/parts_level.json_image,producer_desk_level.png,3
 images/content/produce_place_categories/place_name/00001.png,produce_place_categories_place_name_00001.png,1 
@@ -753,7 +753,7 @@ images/content/produce_place_categories/place_name/00005.png,produce_place_categ
 images/content/produce_place_categories/place_name_mask/00005.png,produce_place_categories_place_name_mask_00005.png,1
 images/content/produce_place_categories/place_name/00006.png,produce_place_categories_place_name_00006.png,1 
 images/content/produce_place_categories/place_name_mask/00006.png,produce_place_categories_place_name_mask_00006.png,1
-images/ui/produce_deck/parts_deck_know_how.json_image,produce_deck_parts_deck_know_how.png,4
+images/ui/produce_deck/parts_deck_know_how.json_image,produce_deck_parts_deck_know_how.png,5
 images/ui/produce_events/parts.json_image,produce_events_parts.png,1
 images/ui/trophy/trophy_pop_base.png,trophy_pop_base.png,1
 images/ui/common/parts_banner_list.json_image,common_parts_banner_list.png,1
