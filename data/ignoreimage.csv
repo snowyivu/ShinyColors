@@ -1,4 +1,5 @@
 name,version
+action_type_tab_list_base_sixth.png,1
 action_type_tab_list_base_fifth.png,2
 action_type_tab_list_base_fourth.png,2
 action_type_tab_list_base_grad.png,3
@@ -68,6 +69,7 @@ images/bg/032.jpg,3
 images/bg/034.jpg,3
 images/bg/035.jpg,2
 images/bg/036.jpg,2
+images/bg/047.jpg,1
 images/bg/concert/audition_2.jpg,7
 images/bg/concert/audition_3.jpg,7
 images/bg/concert/audition_4.jpg,7
@@ -272,6 +274,7 @@ images/content/characters/icon_circle/025.png,2
 images/content/characters/icon_circle/026.png,1
 images/content/characters/icon_circle/027.png,1
 images/content/characters/icon_circle/028.png,1
+images/content/characters/icon_circle/091.png,1 
 images/content/characters/icon_circle_l/001.png,8
 images/content/characters/icon_circle_l/002.png,8
 images/content/characters/icon_circle_l/003.png,8
@@ -2848,6 +2851,7 @@ images/ui/produce_event/parts_level_jump_up_effect.json_image,3
 images/ui/produce_idol_rank/produce_block_stripe_effect_128x128.png,2
 images/ui/producer_desk/effects/arrow_blue_loop.png,1
 images/ui/producer_desk/page_base.jpg,1
+images/ui/produce_joint_practice/bg.png,1
 images/ui/raid_common/parts.json_image,4
 images/ui/raid_concert/effects/appeal_ball_eff_renban.png,3
 images/ui/raid_concert/effects/sparks_shot_right.png,3
@@ -2930,6 +2934,7 @@ particles/produce_activity/idea_get_images.json_image,3
 particles/produce_activity/idea_twinkle_images.json_image,3
 particles/produce_activity/images_excellent.json_image,8
 particles/produce_activity/inspiration_get/relative_images.json_image,2
+particles/produce_activity/joint_practice_success/images.json_image,1
 particles/produce_activity/lesson_fail/images.json_image,8
 particles/produce_activity/lesson_level_max/twinkle.png,1
 particles/produce_activity/lesson_level_up/image.png,8
@@ -2994,7 +2999,7 @@ spine/characters/cb/011/data.json_atlas_page_data.png,9
 spine/characters/cb/012/data.json_atlas_page_data.png,9
 spine/characters/cb/013/data.json_atlas_page_data.png,9
 spine/characters/cb/016/data.json_atlas_page_data.png,10
-spine/characters/cb/021/data.json_atlas_page_data.png,4
+spine/characters/cb/021/data.json_atlas_page_data.png,5
 spine/characters/cb/022/data.json_atlas_page_data.png,5
 spine/characters/cb_costume/002/data.json_atlas_page_data.png,9
 spine/characters/cb_costume/003/data.json_atlas_page_data.png,9
@@ -3013,6 +3018,8 @@ spine/characters/stand/002/data.json_atlas_page_data.png,9
 spine/characters/stand/005/data.json_atlas_page_data.png,9
 spine/characters/stand/014/data.json_atlas_page_data.png,9
 spine/characters/stand/019/data.json_atlas_page_data.png,4
+spine/characters/stand/021/data.json_atlas_page_data.png,4
+spine/characters/stand/091/data.json_atlas_page_data.png,2
 spine/characters/stand_costume/005/data.json_atlas_page_data.png,9
 spine/characters/stand_costume/012/data.json_atlas_page_data.png,8
 spine/characters/stand_costume/014/data.json_atlas_page_data.png,9
@@ -3142,6 +3149,7 @@ spine/idols/stand_costume/3000070070/data.json_atlas_page_data.png,4
 spine/idols/stand_costume/3000180070/data.json_atlas_page_data.png,6
 spine/idols/stand_costume/3000250020/data.json_atlas_page_data.png,2
 spine/sub_characters/cb/staff/data.json_atlas_page_data.png,8
+spine/sub_characters/cb/staff/dance/data.json_atlas_page_data.png,3
 spine/sub_characters/cb/ugc/data.json_atlas_page_data.png,4
 spine/sub_characters/cb/ugc/data.json_atlas_page_data.png,4
 spine/sub_characters/stand/staff/data.json_atlas_page_data.png,9
