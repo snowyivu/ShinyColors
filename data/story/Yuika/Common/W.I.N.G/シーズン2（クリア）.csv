@@ -1,37 +1,44 @@
 id,name,text,trans
 0000000000000,プロデューサー,結華、二次審査も通ってたぞ！,"Yuika, you passed the second round!"
-7007001030010,結華,やった、思った通り！,"I did it, like I thought!"
-0000000000000,プロデューサー,おお。また自信があったんだな,Oh. You've got some confidence.
-7007001030020,結華,そりゃあもちろん,"Well, of course!"
+7007001030010,結華,やった、思った通り！,Woohoo! I knew I'd pass!
+0000000000000,プロデューサー,おお。また自信があったんだな,"Oh. So you were that confident about it, huh?"
+7007001030020,結華,そりゃあもちろん,"Well, duh!"
 7007001030030,結華,"だってプロデューサーが頑張ってくれたこと知ってるし？
-三峰は大丈夫だって思ってたよー","Because I know how hard Producer worked, you know?
-It makes Mitsumine think I'm in good hands."
-7007001030040,結華,ありがとね、プロデューサー,"So thank you, Producer."
-0000000000000,プロデューサー,ああ、どういたしまして,"Yeah, you're welcome."
-0000000000000,プロデューサー,でも結華は、もっと自分のことを認めてやった方がいいな,"But you should praise yourself more, Yuika."
+三峰は大丈夫だって思ってたよー","After knowing all the work you've put in?
+Mitsumine's in really good hands without a doubt."
+7007001030040,結華,ありがとね、プロデューサー,"So thanks, Producer!"
+0000000000000,プロデューサー,ああ、どういたしまして,"Yeah, don't mention it."
+0000000000000,プロデューサー,でも結華は、もっと自分のことを認めてやった方がいいな,"But Yuika, it'd do you good if you give yourself
+some credit."
 0000000000000,プロデューサー,"二次審査を通過できたのは、
-俺がどうこうってことじゃなくて、結華の実力なんだから","If you passed the second round, it's not because of what I've done, but thanks to your own efforts."
-7007001030050,結華,プロデューサーは優しいなぁ,Producer's too kind...
+俺がどうこうってことじゃなくて、結華の実力なんだから","You passed the second round not beecause
+of me, but because of your very own abilities."
+7007001030050,結華,プロデューサーは優しいなぁ,"You're too kind, Producer!"
 7007001030060,結華,"三峰も、自分は何もしてないって思ってるわけじゃないよ？
-でも、ひとりじゃ無理だったと思うんだよね","Me too, it's not like I'm thinking I did nothing, you know? But, I would have never done it alone."
+でも、ひとりじゃ無理だったと思うんだよね","It's not like I'm thinking that I did nothing, you know?
+Just that I couldn't have done this all alone."
 7007001030070,結華,"特にほら！　プロデューサーが懐を痛めて
-食べさせてくれたあのケーキ！","Especially, hey! Remember that cake Producer let me
-eat when I was worn out!"
-7007001030080,結華,あれが決め手だったんじゃないかと三峰は思うんだけど～,Mitsumine thinks it was the deciding factor～
-0000000000000,プロデューサー,はは、それなら買った甲斐もあったってもんだ,"Haha, then it was worth buying."
+食べさせてくれたあのケーキ！","And let's not forget! You heroically emptied
+your wallet just so I can eat some cake!"
+7007001030080,結華,あれが決め手だったんじゃないかと三峰は思うんだけど～,"Mitsumine thinks that could have been
+the deciding factor～"
+0000000000000,プロデューサー,はは、それなら買った甲斐もあったってもんだ,"Haha, if that's the case, then I'm glad I bought it!"
 7007001030090,結華,"だからね？　三峰からもプロデューサーに、
-なにかお礼ができればと思ったり","That's why, you see? Mitsumine also wants to show
-some gratitude to Producer too."
-0000000000000,プロデューサー,いや、大丈夫だぞ。そんな気を遣わなくて,"No, it's fine. You don't have to."
-7007001030100,結華,ちょ、違うでしょ？,"Wait, you don't think so?"
+なにかお礼ができればと思ったり","So I've been thinking. Maybe Mitsumine can
+do something nice and return the favor."
+0000000000000,プロデューサー,いや、大丈夫だぞ。そんな気を遣わなくて,No need. Don't worry about that.
+7007001030100,結華,ちょ、違うでしょ？,"Hey, shouldn't you be saying something else here?"
 7007001030110,結華,"そこはさ、「じゃあ結華の『W.I.N.G.』優勝を！」って
-言うところじゃない？","""Then Yuika has to win ""W.I.N.G""!"" 
-Isn't that what you were supposed to say?"
+言うところじゃない？","Like, ""then Yuika has to win W.I.N.G!""
+Shouldn't you have said that sorta thing?"
 0000000000000,プロデューサー,"ああ悪い、
-それはもうもらえるものと思ってたから別枠かと思って","Ah sorry, I know you'll already do that so I was searching for something else."
+それはもうもらえるものと思ってたから別枠かと思って","Oh, my bad. I thought that was pretty much
+a given, so I was thinking something else."
 7007001030120,結華,"あーららぁ、すごい信頼……
-そこまで褒められたら、まだ頑張るしかないね","Arrara, such trust... If you praise me that much, 
-I have no choice but to work hard, huh?"
-7007001030130,結華,よーし、三次審査もこの調子で行ってみよう！,"Alright, let's hold onto that spirit for the third round!"
+そこまで褒められたら、まだ頑張るしかないね","Oh my, such unwavering faith... Since you speak
+that highly of me, there's no choice but to work
+even harder, huh?"
+7007001030130,結華,よーし、三次審査もこの調子で行ってみよう！,"Alright, let's keep the momentum up for the
+third round!"
 info,produce_events/700700103.json,
-Translator,,
+Translator,Lewdacriz,

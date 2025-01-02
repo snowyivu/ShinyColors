@@ -1,0 +1,131 @@
+id,name,text,trans
+2015019020010,甜花,"あうぅ……
+また、やっちゃった……",Auu...... Tenka... did it again......
+0000000000000,ルクア,"『テン三郎ちゃん
+今からみんなで遊ぶけど、来る？』","""Hey TenSaburo-chan, we're about to hop on and
+game, wanna join?"""
+0000000000000,ルクア,"『０時には寝ようと思ってるから
+ちょっとだけのつもり』","""I'm gonna sleep at midnight so I'm only gonna be on
+for a little bit"""
+2015019020020,甜花,（どうしよ……）,(Hmm......)
+2015019020030,甜花,（ちょっとだけ、なら……）,(If it's... only for a little bit......)
+2015019020040,甜花,"『うん
+飲み物用意したら、行くね』","""Sure... I'll be right there... after I get a drink"""
+2015019020050,甜花,"早く寝ようって……
+思ってた、のに……",Tenka thought that..... she'd sleep early......
+2015019020060,甜花,あうぅ……,Auu......
+2015019020070,甜花,あ、プロデューサーさん……,Oh... Producer-san......
+0000000000000,プロデューサー,"『おはよう
+これから迎えに行くよ』","""Good morning, I'm here to pick you up."""
+2015019020080,甜花,"ひぃ……
+どうしよ……",Hih...... Oh no......
+2015019020090,甜花,（寝る時間、ない……）,(Tenka... doesn't have time to sleep......)
+2015019020100,甜花,"（こうなったら……
+眠くなく、する……！）","(At times like these...... Tenka... will get
+not-sleepy......!)"
+0000000000000,プロデューサー,……か……,......ka......
+0000000000000,プロデューサー,……甜花,......Tenka.
+2015019020110,甜花,……！,......!
+2015019020120,甜花,な、何……？,Wh-What......?
+0000000000000,プロデューサー,飲み物、何がいいかって……,I asked what you'd like to drink...
+2015019020130,甜花,"あ……
+こ、コーヒー……！",Oh... C-Coffee......!
+0000000000000,プロデューサー,え,Huh.
+0000000000000,プロデューサー,"……もしかして
+また夜ふかししたのか？",...Don't tell me... Did you stay up late again?
+2015019020140,甜花,"あぅ……
+ご、ごめんなさい……",Auu...... S-Sorry......
+0000000000000,プロデューサー,"……そうだな
+甜花は、いつも頑張ってくれてると思う",...I know. And I know that you always work so hard.
+0000000000000,プロデューサー,"俺はそれをよく見て、知ってるけど
+他の人はそうじゃない","I can see that much when I look at you, but other
+people won't feel the same way."
+0000000000000,プロデューサー,"だから……いざという時に
+頑張ってないって思われるようなことをしちゃダメだ","So... we simply cannot let people think you aren't
+trying your best when it matters most."
+0000000000000,プロデューサー,"俺だってそんなの
+悔しいぞ",I'd be just as frustrated if I were in their position.
+2015019020150,甜花,"うん……甜花……
+ほんとは早く寝ようって、思ってた……","Yeah...... Tenka...... Tenka really thought that... 
+she'd go to sleep early."
+0000000000000,プロデューサー,"そうだよな
+わかってるよ","I know.
+I understand that."
+0000000000000,プロデューサー,"とりあえず、現場に着くまで
+少しでも休んでくれ","In the meantime, just get some rest while we head
+over to our destination."
+0000000000000,プロデューサー,コーヒーは着いてからにしよう,You can drink the coffee once we get there.
+2015019020160,甜花,わ、わかった……！,G-Got it......!
+2015019020170,甜花,おやすみ、なさい……,Good... night......
+0000000000000,プロデューサー,"ああ
+おやすみ","Yeah, good night."
+2015019020180,甜花,…………,............
+2015019020190,甜花,……？,......?
+2015019020200,甜花,"（白い……
+おっきい、魚……？）",(A big...... white... fish......?)
+0000000000000,プロデューサー,"────……お、甜花
+ここにいたのか","────......Oh, Tenka. I didn't know you were here."
+2015019020210,甜花,プロデューサー、さん……,Producer... san......
+0000000000000,プロデューサー,"大きな水槽だ
+すごいな、何が泳いでるんだろう？","This is a pretty big water tank. Cool, right? 
+I wonder what's swimming around in there."
+0000000000000,プロデューサー,ここからだと何も見えないけど,"I guess we can't see anything from right here 
+though."
+2015019020220,甜花,"え……
+う、うん……",Huh...... R-Right......
+0000000000000,プロデューサー,"ここにいても仕方がないし
+向こうの方にも行ってみないか？","We can't change anything by just standing here
+though, how about we go over there?"
+select,,"深海魚コーナー
+だって","Deep-sea
+Exhibit"
+select,,"ペンギンコーナー
+だって","Penguin
+Exhibit"
+select,,トンネル水槽だって,"Shark
+Tunnel"
+2015019020230,甜花,"す、すごい……
+真っ暗……",W-Wow...... It's pitch black......
+0000000000000,プロデューサー,"静かだな
+光もない","It's so quiet, and there's no light either."
+2015019020240,甜花,"あ、あそこ……
+光、こっち来る……",O-Over there... There's a light... coming this way......
+0000000000000,プロデューサー,"いや、あれは……
+魚だ","Wait no, that's... a fish."
+0000000000000,プロデューサー,"俺達を案内してくれるつもりらしい
+ついて行ってみようか","It seems like it's trying to guide us. 
+Maybe we should follow it."
+2015019020250,甜花,うん……,Sure......
+2015019020260,甜花,"魚の、スタッフさん……
+ゆらゆら、光ってて……","He's the staff-san... of the fish......
+It's swaying back and forth... and shining......"
+2015019020270,甜花,"（だんだん……
+眠く……なって…………）",(Tenka's... getting...... sleepier............)
+0000000000000,プロデューサー,"エサやり体験でもお世話になるし
+ご挨拶しておかなくちゃな","You could use some experience with feeding them,
+and you should probably go greet them anyways."
+2015019020280,甜花,うん……,Sure......
+2015019020290,甜花,お、お世話になりましゅ……！,I-It's a pleasure... to meet you......!
+0000000000000,ペンギン,"はあ？
+お前、寝不足じゃねえか！","Huh!? You're sleep deprived, aren't you?!"
+0000000000000,ペンギン,"そんなんでエサやりされちゃ
+たまんないぜ！",I won't let you feed me while you're like that!
+0000000000000,ペンギンたち,そうだそうだ！,"Yeah, he's right!"
+0000000000000,ペンギン,エサやり舐めんな！,Take our feeding time more seriously!
+0000000000000,ペンギンたち,オキアミ持って来い！,Bring on the krill!
+2015019020300,甜花,"あうぅ……
+ごめんなさい……",Auu...... Sorry......
+2015019020310,甜花,"わ……
+綺麗……",Woah...... It's so pretty......
+0000000000000,プロデューサー,"……そういえば
+甜花は夜ふかしをしたんだったな","...Oh right, you stayed up late, didn't you?"
+2015019020320,甜花,……プロデューサー、さん……？,......Producer... san......?
+0000000000000,プロデューサー,"夜ふかしをするようなダメダメアイドルは
+この水槽の中に入れちゃおうかなあ","Maybe I should throw this failure of an idol into the
+tank as punishment."
+2015019020330,甜花,"え……！
+や、やだ……！","Wha......!
+S-Stop it......!"
+2015019020340,甜花,────────────────……！,────────────────......!
+info,produce_events/201501902.json,
+Translator,kotonekotoP,

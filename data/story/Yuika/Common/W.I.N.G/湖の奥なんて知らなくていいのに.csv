@@ -14,29 +14,26 @@ Hmm, how's it going... I guess it's going pretty well."
 でも残念でした～、いつも通り絶好調だよ","What's this all a sudden? Wait, do I look worn
 out to you, P-tan? Well that's too bad～
 I'm in good shape as ever──100% even!"
-0000000000000,プロデューサー,じゃあ何か、悩みとかは……,"So, you're not... bothered about anything?"
+0000000000000,プロデューサー,じゃあ何か、悩みとかは……,So there's... nothing on your mind?
 1007001040040,結華,"あったら相談してるって！
 三峰、報連相はちゃんとする子ですよ～？","I would have brought it up if I did!
 Mitsumine's a total pro when it comes to
 reporting concerns, you know～"
 1007001040050,結華,"……もしかして、Ｐたん甘えられたい時期だったり？
-惜しいなぁ、三峰今そういうんじゃないんだよねぇ","Unless... You're looking for special attention,
-P-tan? Aw too bad, Mitsumine's not feeling
-up to it today～"
+惜しいなぁ、三峰今そういうんじゃないんだよねぇ","Unless... You're looking for special attention, P-tan?
+Aw too bad, Mitsumine's not feeling up to it today～"
 0000000000000,プロデューサー,"（……これ以上話しても、
-何も教えてくれない、か……）","(She won't say a thing no matter how
-I probe, huh...)"
+何も教えてくれない、か……）","(She won't say a thing no matter how I probe, huh...)"
 0000000000000,プロデューサー,……わかった。なら、くれぐれも無理はするなよ,"...Understood. Don't overdo it, then."
 1007001040060,結華,"おっけーおっけー、任せてちょうだいな
-三峰から１番遠い言葉でしょ。『無理』なんてさ","Okay, okay. I'll be sure to do that.
-Overdoing it isn't even in Mitsumine's 
-vocabulary!"
+三峰から１番遠い言葉でしょ。『無理』なんてさ","Okay, okay. I got this. Overdoing it isn't even
+in Mitsumine's vocabulary!"
 0000000000000,プロデューサー,……俺は仕事があるから出るけど。ほどほどにな,"...I have work to do, so I'll head out.
 Take it easy."
 1007001040070,結華,いってらっしゃ～い,Take caaare～
 0000000000000,プロデューサー,"（打ち合わせ、長引いたな……もうバスもないし……
-仕方ない、歩いて帰るか）","(That meeting took forever... Now there's no more
-bus... Guess I'll have to walk home.)"
+仕方ない、歩いて帰るか）","(That meeting took forever... Now I can't take
+a bus ride back... Guess I'll have to walk home.)"
 0000000000000,プロデューサー,（……結華、あれから無理してないといいんだけど……）,(I hope Yuika isn't overexerting herself...)
 0000000000000,プロデューサー,"（ん？　こんな時間に女の子ひとりで危ないな……
 ……あれは……ダンスの練習か……？）","(Hm? It's dangerous for a girl to be out at this
@@ -71,13 +68,13 @@ out for myself, but I do get how dangerous it is..."
 0000000000000,プロデューサー,…………,.........
 1007001040150,結華,"……はぁ……頑固だね
 こういう時ばっか譲らないんだ？　容赦ないなぁ……","*sigh* Well someone's hard to please...
-You only refuse to budge in times like this,
-huh? So merciless..."
+You only refuse to budge in times like this, huh?
+So merciless..."
 1007001040160,結華,わかったよ、話すよ,"Fine, I'll talk."
 1007001040170,結華,"……三峰って、省エネ系でしょ？
-それにアイドル始めたのだってドルオタきっかけだし","...Mitsumine's the type that uses the bare amount
-of energy , you see? I only became an idol because
-I'm a huge idol fan in the first place."
+それにアイドル始めたのだってドルオタきっかけだし","...Mitsumine's more of the laid-back type of girl,
+you see? I only became an idol because I'm a huge
+idol fan in the first place."
 1007001040180,結華,"だから、みんなが頑張ってるのを見てると、
 ひとりだけこんな感じでいいのかなって思ったりもするわけ","So when I saw everyone working so hard, it made me
 me wonder if it's alright to stay as I've been."
@@ -88,8 +85,9 @@ for my mental health, you know? So I thought,
 1007001040200,結華,"そういう思いつきみたいなものだから、
 あんまり気にしないでほしいわけですよ","This was a spur-of-the-moment kind of thing.
 So you don't need to care about it much."
-select,,それは真剣な証拠だ,"It tells me how
-serious you are"
+select,,それは真剣な証拠だ,"But it tells me
+how serious
+you are"
 select,,気にするよ,"But I do
 care"
 select,,"結華だって
@@ -97,12 +95,14 @@ select,,"結華だって
 working hard
 Yuika"
 0000000000000,プロデューサー,"アイドルに対してちゃんと向き合ってるから
-そこまで悩んだりしてるんだよ","You're geniunely reflecting on what it means
-to be an idol. That's why you worry."
+そこまで悩んだりしてるんだよ","Because you're geniunely reflecting on what
+it means to be an idol. That's why it's on
+your mind."
 0000000000000,プロデューサー,"だから、思いつきだなんて言うのはやめてくれ
 結華の真剣な気持ちを、結華が否定したらダメだ","So don't call it a ""spur-of-the-moment"" thing.
 Don't deny the sincerity behind your feelings."
-1007001040210,結華,……三峰のこと、買いかぶりすぎじゃない？,Aren't you overestimating Mitsumine's feelings?
+1007001040210,結華,……三峰のこと、買いかぶりすぎじゃない？,"Aren't you overestimating Mitsumine feelings
+here?"
 0000000000000,プロデューサー,"そんなことはない。結華が真面目に努力してるのは
 すぐ近くで見てきた俺が保証できる","Not at all. I've seen you up close. I can vouch
 for how seriously you've been putting in the work."
@@ -111,7 +111,8 @@ for how seriously you've been putting in the work."
 変えたいって思うから苦しくなるんだ","You feel like this isn’t where you want to be,
 so you want to change. But the act of changing
 itself feels like a difficult road ahead."
-0000000000000,プロデューサー,そうやってもがいてる人は、立派な人だよ,The people that struggle with that are admirable.
+0000000000000,プロデューサー,そうやってもがいてる人は、立派な人だよ,"Yet the ones that struggle with that are seen as
+admirable."
 1007001040230,結華,……ふーん,Hmmm.......
 1007001040240,結華,まっ、そんな重い話じゃないから、いいんだけどね,"Well, it's not as big of a deal as you’re making it
 out to be, so whatevs."
@@ -144,7 +145,8 @@ sure to consult with you from now on."
 want to protect me in the first place."
 1007001040320,結華,"さすがにここまでされたら、
 心配してもらえてるんだってわかるからさ","With you going so far with this, even I get the
-message that you care THAT much about me."
+message that you really do care that much 
+about me."
 1007001040330,結華,…………ごめんねプロデューサー、ありがとう,"Sorry again, Producer... And thanks."
 0000000000000,プロデューサー,俺は、結華はアイドルに真剣に向き合ってると思ってるよ,"To me, I can tell that you're taking your role
 as an idol very seriously."
@@ -171,10 +173,10 @@ to make sure you stay focused on what it is
 for you to be an idol."
 0000000000000,プロデューサー,"俺がいれば、結華が頑張るちょうどいい理由にも、
 結華が頑張ってるっていうちゃんとした証明にもなるはずだ","If I'm around, that'd be your perfect excuse to
-keep pushing. And it's solid proof of your efforts."
+keep pushing. I'll be solid proof of your efforts."
 1007001040360,結華,"……そういうの、揚げ足取りっていうんだよ
 もうなんにも言えなくなっちゃうじゃん","Hey... That's what they call being a pedantic.
-You're leaving me with nothing to say here."
+You're leaving me with nothing to say here!"
 1007001040370,結華,"でも、まぁ、プロデューサーがそう思ってるってことは
 ……覚えておくよ","Though, I guess... if that's how you feel...
 I'll remember that."

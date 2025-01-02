@@ -1,35 +1,47 @@
 id,name,text,trans
 7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
-この調子で、と思ったんですけど","That's too bad.... I thought that since you passed the first judging, you'd keep it up."
-7901001040020,はづき,現実は、なかなか厳しいですね……,"However, reality is pretty harsh..."
+この調子で、と思ったんですけど","How unfortunate... She did so well in the first stage that
+I thought she'd keep going, but..."
+7901001040020,はづき,現実は、なかなか厳しいですね……,...reality is harsher than you expect...
 7902001040010,社長,"しかし、新人アイドルと新人プロデューサーにしては、
-悪くない結果だった","For a new idol and new Producer, it wasn't too bad of a result."
+悪くない結果だった","But, considering you're a green producer coaching a new idol,
+I think you could have done much worse."
 0000000000000,プロデューサー,"でも、まだまだ先にも行けたと思うんです
-俺にもっと力があれば……！",I think that I can still keep going onwards. If only I had more ability...!
-7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I praised you, but I don't want to hear any whining."
+俺にもっと力があれば……！","But I thought we could have gotten further...
+I just couldn't do enough for her...!"
+7902001040020,社長,評価はしているが、弱音を聞きたいわけではないぞ,"I appreciate what you achieved, but I'm not interested
+in hearing you whine and make excuses."
 7902001040030,社長,"力が足りないのなら、彼女とともに
-これから成長していけばいいだけのことだ","All it means is that if your ability is lacking, you need to keep growing together with her."
+これから成長していけばいいだけのことだ","If you weren't able to take her further, then that just
+means both of you have some growing to do."
 0000000000000,プロデューサー,"……そうですね
-彼女に、会いに行ってきます",...You're right. I'm going to meet her.
-7902001040040,社長,ああ、行ってこい,"Alright, go see her."
-0000000000000,プロデューサー,二次審査……通らなかったよ……,The second round... We didn't pass...
+彼女に、会いに行ってきます",...You're right. I'm going to go talk to her.
+7902001040040,社長,ああ、行ってこい,Mm. We'll be seeing you.
+0000000000000,プロデューサー,二次審査……通らなかったよ……,I'm afraid... you didn't pass the second round...
 7007001040010,結華,"そっかー
-三峰、割と頑張ったつもりだったんだけどねぇ……","I seeー
-Mitsumine was really trying her best..."
-0000000000000,プロデューサー,結華……その……,Yuika... It's...
+三峰、割と頑張ったつもりだったんだけどねぇ……","I see...
+Mitsumine... did the best she could, though..."
+0000000000000,プロデューサー,結華……その……,Yuika... Are you...
 7007001040020,結華,"……でもまぁ、くよくよしてても仕方ないよね！
-次行こう、次！","...But well, worrying won't do us any good!
-Let's aim for next time, next time!"
+次行こう、次！","But still... crying over spilled milk changes nothing!
+We should focus on our next move!"
 7007001040030,結華,"ガンガンレッスン頑張って、また違う形で結果出す！
-プロデューサーとなら、無理じゃないでしょ？","Let's keep pounding away at lessons, and the results might look different next time! If it's with Producer, it's not impossible right?"
+プロデューサーとなら、無理じゃないでしょ？","We'll get a different result for sure if I pound more
+intense lessons in! With you in the picture, Producer,
+it's not impossible for me, is it?"
 7007001040040,結華,"今回の失敗をバネに成長する予定の三峰と、
-そんな三峰を全力で支えてくれるはずのプロデューサー","The Mitsumine who's going to use this failure as a launching point, you've got to be the Producer to support her with all your might!"
+そんな三峰を全力で支えてくれるはずのプロデューサー","Mitsumine plans to use this failure as a launching
+point for achieving greatness, so you gotta support
+me with everything you got!"
 7007001040050,結華,"ふたりなら大抵のことはなんとかできるって
-思ってるんだけど──違う？","I think the two of us together can overcome almost anything, don't you agree?"
+思ってるんだけど──違う？","With us as a team, we can overcome anything!
+────Am I... wrong to think that?"
 0000000000000,プロデューサー,"──結華らしいな、しっかりしてる
-違わないよ。また一緒に頑張ろう！","──That's so Yuika. You certainly can, you're not wrong. Let's work hard together once again!"
+違わないよ。また一緒に頑張ろう！","────That's the Yuika I know. Ever reliable...
+Yes, you're not wrong to think that. Let's keep
+working together as a team!"
 7007001040060,結華,"いい返事だよ、プロデューサー！
 まだまだ三峰と頑張ってもらわなきゃだからね！","Good answer, Producer!
-You still have to work hard with Mitsumine!"
+There's still work to be done with Mitsumine here!"
 info,produce_events/700700104.json,
-Translator,,
+Translator,Lewdacriz,

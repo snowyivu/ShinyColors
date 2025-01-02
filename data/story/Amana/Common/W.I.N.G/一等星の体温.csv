@@ -30,8 +30,8 @@ president is about her win."
 6902001090030,社長,そ、それはそうだが……,"W-Well, you are correct..."
 0000000000000,プロデューサー,社長、本当にありがとうございます！,"President, thank you very much!"
 6902001090040,社長,"……とにかく。もっと礼を言うべき相手、
-いや、祝うべき相手がいるんじゃないか","...Moving on. I think there's someone else you need to
-be thanking. Or rather, congratulating."
+いや、祝うべき相手がいるんじゃないか","...Moving on. I think there's someone else you need
+to be thanking. Or rather, congratulating."
 0000000000000,プロデューサー,"……そうですね
 今日の主役は、他でもない彼女ですから","...Of course. We wouldn't even be celebrating right
 now if it weren't for her."
@@ -47,34 +47,48 @@ Go and see her!"
 6014001090040,甘奈,今、ちょっといいかな？,"Uhm, got a minute?"
 0000000000000,プロデューサー,あぁ、大丈夫だ,"Sure, go ahead."
 6014001090050,甘奈,"甘奈ね、甜花ちゃんのかわいさをみんなに
-知って欲しいからアイドル始めたじゃん？","So, you know how I first became an idol because I wanted to show the world just how cute Tenka-chan is?"
+知って欲しいからアイドル始めたじゃん？","So, you know how I first became an idol because
+I wanted to show the world just how cute
+Tenka-chan is?"
 0000000000000,プロデューサー,オーディションのとき、そう言っていたな,"Of course, you said that at your audition."
 6014001090060,甘奈,でね……これは今まで内緒にしてたけど……ホントはね,But... actually... and I haven't told this to anyone...
 6014001090070,甘奈,"甘奈、アイドルを始めても、ちゃんとできるなんて
 思ってなかった……",I never really thought I could make it as an idol...
 6014001090080,甘奈,"甘奈自身がアイドルになりたい
-ってわけじゃなかったんだよね……","I mean, it wasn't like I really wanted to become an idol myself..."
+ってわけじゃなかったんだよね……","I mean, it wasn't like I really wanted to become an
+idol myself..."
 0000000000000,プロデューサー,……薄々、気づいていたよ,"......I suspected that much, I gotta admit."
 0000000000000,プロデューサー,"日々の仕事は楽しそうだったが……
-楽しい放課後、みたいなところがあった","You always looked like you were enjoying the job, but at times I couldn't help but wonder if it wasn't just another fun after-school activity to you."
+楽しい放課後、みたいなところがあった","You always looked like you were enjoying the job,
+but at times I couldn't help but wonder if it wasn't
+just another fun after-school activity to you."
 6014001090090,甘奈,"さすがプロデューサーさん
-なんでもお見通しって感じだね","I should've know you'd see right through me, Producer-san."
+なんでもお見通しって感じだね","I should've known you'd see right through me,
+Producer-san."
 0000000000000,プロデューサー,でも……甘奈は今、違う気持ちでアイドルしてるよな,"But... you've got a different mindset now, don't you?"
 6014001090100,甘奈,"うん。今はアイドルになって良かったって、
 心の底から思ってるんだよ","Yup. Right now, I'm just so glad I became an idol. 
 Like, genuinely, from the bottom of my heart."
 6014001090110,甘奈,"アイドルになったから、成長できたと思うんだ
-甜花ちゃんも一緒にね","I think becoming an idol has helped me grow as a person. Same goes for Tenka-chan, of course."
+甜花ちゃんも一緒にね","I think becoming an idol has helped me grow as a
+person. Same goes for Tenka-chan, of course."
 6014001090120,甘奈,"こうして甘奈が甜花ちゃんと一緒にいられるのも、
-プロデューサーさんがアイドルにしてくれたからだよ","And getting to sharing that experience with Tenka-chan... It's all thanks to you, Producer-san, because you let me become an idol."
+プロデューサーさんがアイドルにしてくれたからだよ","And getting to sharing that experience with
+Tenka-chan... It's all thanks to you, Producer-san,
+because you let me become an idol."
 0000000000000,プロデューサー,"俺はプロデューサーとしてのサポートしかしていないよ
-成長できたのは、甘奈が努力したからだ",All I've been doing is supporting you as your producer. You've been putting in the hard work that allowed you to grow.
+成長できたのは、甘奈が努力したからだ","All I've been doing is supporting you as your
+producer. You've been putting in the hard work
+that allowed you to grow."
 6014001090130,甘奈,えへへ、ありがとう,Eheheh. Thanks.
 6014001090140,甘奈,"あ、そうそう！　あとね、最近
-甜花ちゃんのかわいさが伝わるようになってきたでしょ？","Oh, that reminds me! Don't you think Tenka-chan's cuteness has been getting across to everyone better recently?"
+甜花ちゃんのかわいさが伝わるようになってきたでしょ？","Oh, that reminds me! Don't you think Tenka-chan's
+cuteness has been getting across to everyone
+better recently?"
 0000000000000,プロデューサー,そうだな、甜花も人気が出てきたもんな,"Definitely, she's becoming quite popular."
 6014001090150,甘奈,"でもね、
-甜花ちゃんの魅力はまだまだこんなもんじゃないんだー","But lemme tell you, what they're seeing isn't even CLOSE to all of Tenka-chan's charm!"
+甜花ちゃんの魅力はまだまだこんなもんじゃないんだー","But lemme tell you, what they're seeing isn't even
+CLOSE to all of Tenka-chan's charm!"
 6014001090160,甘奈,"そのことを……１番知っていたのは甘奈のはずなのに、
 うっかり忘れてた時期があったみたい","I should've known that... better than anyone. 
 But I think I must've lost sight of it for a while..."
@@ -85,17 +99,19 @@ I don't want to fall behind..."
 ……その気持ち、大切にしよう","Amana... 
 Remember that feeling and hold it close."
 0000000000000,プロデューサー,"甘奈と甜花が切磋琢磨していけば、
-双子座よりも輝けるアイドルになれるさ","If you manage to be both sisters and rivals to each other, as idols the two of you will shine brighter than the stars of Gemini."
+双子座よりも輝けるアイドルになれるさ","If you manage to be both sisters and rivals to each
+other, as idols the two of you will shine brighter
+than the stars of Gemini."
 6014001090180,甘奈,"双子座より輝くアイドルかぁ……！
 えへ、甘奈と甜花ちゃんにぴったりかも","Brighter than Gemini, huh...!
 Eheh. Sounds like a perfect fit for Tenka-chan and me."
 0000000000000,プロデューサー,"これからのふたりの努力次第だぞ
-がんばっていこうな！","But remember, it's gonna take a lot of hard work from the both of you.
-So let's keep up the pace!"
+がんばっていこうな！","But remember, it's gonna take a lot of hard work
+from the both of you. So let's keep up the pace!"
 6014001090190,甘奈,もち！　がんばるよー,Of course! I will!
 6014001090200,甘奈,"えへへ……プロデューサーさんは、
-甘奈と甜花ちゃんのこと、ずっと傍で見てきてくれたよね","Eheheh... 
-Producer-san, you've really been looking out for us all this time, haven't you?"
+甘奈と甜花ちゃんのこと、ずっと傍で見てきてくれたよね","Ehehe... Producer-san, you've really been looking
+out for us all this time, haven't you?"
 0000000000000,プロデューサー,あぁ、そりゃあプロデューサーだからな！,"Well, what'd you expect, that's my job!"
 6014001090210,甘奈,"改めて言うの、
 ちょっと照れちゃうけど……","It's a little embarrassing to say this out loud, but..."

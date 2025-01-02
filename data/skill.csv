@@ -278,8 +278,22 @@ $nounVI,$1 VI,
 $nounVII,$1 VII,
 テンション＋$num,Tension +$1,
 パッシブスキル発動率$num％UP,Passive Skill Rate $1% UP,
-最後アピール値％UP,Final Appeal Value %UP,
-"発動タームでの最後アピール値＋(15,18,22)%","Final appeal in the term has (15,18,22)% increased value",
+最終ポイント値％UP,Final Point Value %UP,Fight Skill
+"発動タームでの最終ポイント値＋($num,$num,$num)%","Final points in the term have ($1,$2,$3)% increased value",Fight Skill
+最終アピール値％UP,Final Appeal Value %UP,Fight Skill
+"発動タームでの最終アピール値＋($num,$num,$num)%","Final appeal in the term has  ($1,$2,$3)% increased value",Fight Skill
+PERFECT確率％UP,Perfect Rate % UP,Fight Skill
+"発動タームでのライブスキルのPERFECT確率を＋($num,$num,$num)％","Live skill PERFECT rate in the term ($1,$2,$3)% UP",Fight Skill
+メンタルの減少量％CUT,Mental Damage Received % CUT,Fight Skill
+" 発動タームでのメンタルの減少量を($num,$num,$num)％CUT","Cut mental damage in the term by ($1,$2,$3)%",Fight Skill
+メンタル％回復,Mental % Recovery,Fight Skill
+"発動タームでのメンタルを($num,$num,$num)％回復","Recover ($1,$2,$3)% mental in this term",Fight Skill
+メンタル＋回復,Mental + Recovery,Fight Skill
+"発動タームでのメンタルを($num,$num,$num)回復","Recover ($1,$2,$3) mental in this term",Fight Skill
+テンション＋,Tension+,Fight Skill
+"発動タームでのテンションを＋($num,$num,$num)","Increase tension in the term by ($1,$2,$3)",Fight Skill
+VocalUP付与,Vocal UP Grant,Fight Skill
+"発動タームにVocalUP[1ターム][($num,$num,$num)％]を付与","Grant Vocal UP [1 term][($1,$2,$3)%] in the term",Fight Skill
 [条件:履歴に思い出アピールがある場合],[Condition: Memory Appeal in the history],
 [条件:$numターン以前$name全員がライブに参加している場合],[Condition: All $2 members in the live before $1 turns pass],
 デュエット[$name],Duet [$1],
@@ -1215,11 +1229,11 @@ OT♡NAメイクヘンシン☆,OT♡NAメイクヘンシン☆,text
 ビターココア,Bitter Cocoa,text
 [ほろにが]ビターココア,[Slightly] Bitter Cocoa,text
 ストライク狙って,Shoot for a Strike,text
-お迎えに来たよ,I Came to Pick You Up,text
-[無事ゲット]お迎えに来たよ,[Safe and Secure] I Came to Pick You Up,text
+お迎えに来たよ,I Came to Get You,text
+[無事ゲット]お迎えに来たよ,[Safe and Secure] I Came to Get You,text
 事務所。静寂。大輪の華,Office. Silence. Explosive Bloom,text
-ふたりで叫ぶ合言葉,The Word That We Shout,text
-[風物詩]ふたりで叫ぶ合言葉,[Seasonal Memories] The Word That We Shout,text
+ふたりで叫ぶ合言葉,Word That We Shout,text
+[風物詩]ふたりで叫ぶ合言葉,[The Seasonal] Word That We Shout,text
 好きなものはなんですか？,What Do you Like?,text
 アンサー！,Answer!,text
 [思い出]アンサー！,[Recalling] Answer!,text

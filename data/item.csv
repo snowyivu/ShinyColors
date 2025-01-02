@@ -188,7 +188,7 @@ Visual流行雑誌,Visual Trend Magazine,
 SSR確定ガシャチケット,SSR Guaranteed \nGacha Ticket,Gacha Ticket
 SSR確定ガシャが引けるチケットです,This ticket can be used to pull a guaranteed SSR card.,Gacha Ticket
 SSR確定Plusガシャチケット(1/10),SSR Guaranteed Plus Gacha Ticket (1/10),Gacha Ticket
-限定入りSSR確定ガシャチケット(1/10),Limited SSR Guaranteed Gacha Ticket (1/10),Gacha Ticket
+限定入りSSR確定ガシャチケット(1/10),Limited Included Guaranteed SSR Gacha Ticket (1/10),Gacha Ticket
 リカバリーソーダ30,Recovery Soda 30,
 スタミナが30回復します,Recovers 30 stamina when used.,
 リカバリーソーダ60,Recovery Soda 60,
@@ -524,8 +524,8 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【プライベートドレスダウン】鈴木 羽那,[Private Dress-Down] Hana,DOES NOT EXIST YET
 【プライベートドレスダウン】郁田 はるき,[Private Dress-Down] Haruki,DOES NOT EXIST YET
 リスペクティブワークスタイル衣装チケット,Respective Workstyle Exchange Ticket,GFes
-リスペクティブワークスタイル\n衣装チケット,Respective Workstyle\nExchange Ticket,
-リスペクティブワークスタイル交換と交換できるチケットです,Used in the Respective Workstyle Exchange Shop.,
+リスペクティブワークスタイル\n衣装チケット,Respective Workstyle\nExchange Ticket,GFes
+リスペクティブワークスタイル交換と交換できるチケットです,Used in the Respective Workstyle Exchange Shop.,GFes
 【リスペクティブワークスタイル】櫻木 真乃,[Respective Workstyle] Mano,
 【リスペクティブワークスタイル】風野 灯織,[Respective Workstyle] Hiori,
 【リスペクティブワークスタイル】八宮 めぐる,[Respective Workstyle] Meguru,
@@ -612,48 +612,59 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【ホーリーナイトケープ】斑鳩 ルカ,[Holy Night Cape] Luca,
 【ホーリーナイトケープ】鈴木 羽那,[Holy Night Cape] Hana,
 【ホーリーナイトケープ】郁田 はるき,[Holy Night Cape] Haruki,
-ドレスアップパルファム衣装チケット,Dress-Up Parfum Outfit Exchange Ticket,ML Outfit
-ドレスアップパルファム\n衣装チケット,Dress-Up Parfum\nOutfit Exchange Ticket,ML Outfit
-ドレスアップパルファム交換と交換できるチケットです,Used in the Dress-Up Parfum Exchange Shop.,ML Outfit
-【ドレスアップパルファム】櫻木 真乃,[Dress-Up Parfum] Mano,
-【ドレスアップパルファム】風野 灯織,[Dress-Up Parfum] Hiori,
-【ドレスアップパルファム】八宮 めぐる,[Dress-Up Parfum] Meguru,
-【ドレスアップパルファム】月岡 恋鐘,[Dress-Up Parfum] Kogane,
-【ドレスアップパルファム】田中 摩美々,[Dress-Up Parfum] Mamimi,
-【ドレスアップパルファム】白瀬 咲耶,[Dress-Up Parfum] Sakuya,
-【ドレスアップパルファム】三峰 結華,[Dress-Up Parfum] Yuika,
-【ドレスアップパルファム】幽谷 霧子,[Dress-Up Parfum] Kiriko,
-【ドレスアップパルファム】小宮 果穂,[Dress-Up Parfum] Kaho,
-【ドレスアップパルファム】園田 智代子,[Dress-Up Parfum] Chiyoko,
-【ドレスアップパルファム】西城 樹里,[Dress-Up Parfum] Juri,
-【ドレスアップパルファム】杜野 凛世,[Dress-Up Parfum] Rinze,
-【ドレスアップパルファム】有栖川 夏葉,[Dress-Up Parfum] Natsuha,
-【ドレスアップパルファム】大崎 甘奈,[Dress-Up Parfum] Amana,
-【ドレスアップパルファム】大崎 甜花,[Dress-Up Parfum] Tenka,
-【ドレスアップパルファム】桑山 千雪,[Dress-Up Parfum] Chiyuki,
-【ドレスアップパルファム】芹沢 あさひ,[Dress-Up Parfum] Asahi,
-【ドレスアップパルファム】黛 冬優子,[Dress-Up Parfum] Fuyuko,
-【ドレスアップパルファム】和泉 愛依,[Dress-Up Parfum] Mei,
-【ドレスアップパルファム】浅倉 透,[Dress-Up Parfum] Toru,
-【ドレスアップパルファム】樋口 円香,[Dress-Up Parfum] Madoka,
-【ドレスアップパルファム】福丸 小糸,[Dress-Up Parfum] Koito,
-【ドレスアップパルファム】市川 雛菜,[Dress-Up Parfum] Hinana,
-【ドレスアップパルファム】七草 にちか,[Dress-Up Parfum] Nichika,
-【ドレスアップパルファム】緋田 美琴,[Dress-Up Parfum] Mikoto,
-【ドレスアップパルファム】斑鳩 ルカ,[Dress-Up Parfum] Luca,
-【ドレスアップパルファム】鈴木 羽那,[Dress-Up Parfum] Hana,
-【ドレスアップパルファム】郁田 はるき,[Dress-Up Parfum] Haruki,
-エモーショナルユニフォーム衣装チケット,Emotional Uniform Outfit Exchange Ticket,ML Outfit
-エモーショナルユニフォーム\n衣装チケット,Emotional Uniform\nOutfit Exchange Ticket,ML Outfit
+ドレスアップパルファム衣装チケット,Dress-Up Perfume Outfit Exchange Ticket,ML Outfit
+ドレスアップパルファム\n衣装チケット,Dress-Up Perfume\nOutfit Exchange Ticket,ML Outfit
+ドレスアップパルファム交換と交換できるチケットです,Used in the Dress-Up Perfume Exchange Shop.,ML Outfit
+【ドレスアップパルファム】櫻木 真乃,[Dress-Up Perfume] Mano,
+【ドレスアップパルファム】風野 灯織,[Dress-Up Perfume] Hiori,
+【ドレスアップパルファム】八宮 めぐる,[Dress-Up Perfume] Meguru,
+【ドレスアップパルファム】月岡 恋鐘,[Dress-Up Perfume] Kogane,
+【ドレスアップパルファム】田中 摩美々,[Dress-Up Perfume] Mamimi,
+【ドレスアップパルファム】白瀬 咲耶,[Dress-Up Perfume] Sakuya,
+【ドレスアップパルファム】三峰 結華,[Dress-Up Perfume] Yuika,
+【ドレスアップパルファム】幽谷 霧子,[Dress-Up Perfume] Kiriko,
+【ドレスアップパルファム】小宮 果穂,[Dress-Up Perfume] Kaho,
+【ドレスアップパルファム】園田 智代子,[Dress-Up Perfume] Chiyoko,
+【ドレスアップパルファム】西城 樹里,[Dress-Up Perfume] Juri,
+【ドレスアップパルファム】杜野 凛世,[Dress-Up Perfume] Rinze,
+【ドレスアップパルファム】有栖川 夏葉,[Dress-Up Perfume] Natsuha,
+【ドレスアップパルファム】大崎 甘奈,[Dress-Up Perfume] Amana,
+【ドレスアップパルファム】大崎 甜花,[Dress-Up Perfume] Tenka,
+【ドレスアップパルファム】桑山 千雪,[Dress-Up Perfume] Chiyuki,
+【ドレスアップパルファム】芹沢 あさひ,[Dress-Up Perfume] Asahi,
+【ドレスアップパルファム】黛 冬優子,[Dress-Up Perfume] Fuyuko,
+【ドレスアップパルファム】和泉 愛依,[Dress-Up Perfume] Mei,
+【ドレスアップパルファム】浅倉 透,[Dress-Up Perfume] Toru,
+【ドレスアップパルファム】樋口 円香,[Dress-Up Perfume] Madoka,
+【ドレスアップパルファム】福丸 小糸,[Dress-Up Perfume] Koito,
+【ドレスアップパルファム】市川 雛菜,[Dress-Up Perfume] Hinana,
+【ドレスアップパルファム】七草 にちか,[Dress-Up Perfume] Nichika,
+【ドレスアップパルファム】緋田 美琴,[Dress-Up Perfume] Mikoto,
+【ドレスアップパルファム】斑鳩 ルカ,[Dress-Up Perfume] Luca,
+【ドレスアップパルファム】鈴木 羽那,[Dress-Up Perfume] Hana,
+【ドレスアップパルファム】郁田 はるき,[Dress-Up Perfume] Haruki,
+エモーショナルユニフォーム衣装チケ（グレフェス）,Emotional Uniform Outfit Exchange Ticket (GradeFes),GFes
+エモーショナルユニフォーム\n衣装チケ（グレフェス）,Emotional Uniform\nOutfit Exchange Ticket (GradeFes),GFes
+グレフェスコインショップに登場したエモーショナルユニフォームと交換できるチケットです,Used in the GradeFes Emotional Uniform Exchange Shop.,GFes
+エモーショナルユニフォーム衣装チケ（マッチライブ）,Emotional Uniform Outfit Exchange Ticket (Match Live),ML Outfit
+エモーショナルユニフォーム\n衣装チケ（マッチライブ）,Emotional Uniform\nOutfit Exchange Ticket (Match Live),ML Outfit
 エモーショナルユニフォーム交換と交換できるチケットです,Used in the Emotional Uniform Exchange Shop.,ML Outfit
 【エモーショナルユニフォーム】櫻木 真乃,[Emotional Uniform] Mano,
+【エモーショナルユニフォーム】\n櫻木 真乃,[Emotional Uniform]\nMano,
 【エモーショナルユニフォーム】風野 灯織,[Emotional Uniform] Hiori,
+【エモーショナルユニフォーム】\n風野 灯織,[Emotional Uniform]\nHiori,
 【エモーショナルユニフォーム】八宮 めぐる,[Emotional Uniform] Meguru,
+【エモーショナルユニフォーム】\n八宮 めぐる,[Emotional Uniform]\nMeguru,
 【エモーショナルユニフォーム】月岡 恋鐘,[Emotional Uniform] Kogane,
+【エモーショナルユニフォーム】\n月岡 恋鐘,[Emotional Uniform]\nKogane,
 【エモーショナルユニフォーム】田中 摩美々,[Emotional Uniform] Mamimi,
+【エモーショナルユニフォーム】\n田中 摩美々,[Emotional Uniform]\nMamimi,
 【エモーショナルユニフォーム】白瀬 咲耶,[Emotional Uniform] Sakuya,
+【エモーショナルユニフォーム】\n白瀬 咲耶,[Emotional Uniform]\nSakuya,
 【エモーショナルユニフォーム】三峰 結華,[Emotional Uniform] Yuika,
+【エモーショナルユニフォーム】\n三峰 結華,[Emotional Uniform]\nYuika,
 【エモーショナルユニフォーム】幽谷 霧子,[Emotional Uniform] Kiriko,
+【エモーショナルユニフォーム】\n幽谷 霧子,[Emotional Uniform]\nKiriko,
 【エモーショナルユニフォーム】小宮 果穂,[Emotional Uniform] Kaho,
 【エモーショナルユニフォーム】園田 智代子,[Emotional Uniform] Chiyoko,
 【エモーショナルユニフォーム】西城 樹里,[Emotional Uniform] Juri,
@@ -675,28 +686,28 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【エモーショナルユニフォーム】鈴木 羽那,[Emotional Uniform] Hana,
 【エモーショナルユニフォーム】郁田 はるき,[Emotional Uniform] Haruki,
 10連フォイルガシャメダル,10-Pull Foil Gacha Medal,GradeFes Item
-10連フォイルガシャメダル\n［1/12］,10-Pull Foil Gacha Medal [1/12],GradeFes Item
+10連フォイルガシャメダル\n［1/12］,10-Pull Foil Gacha Medal\n[1/12],GradeFes Item
 "通常の「フォイルガシャ」 を10回引けるメダルです
 2個目購入価格: 50グレフェスコイン
 0/1400(現在までの購入量/最大購入量)","This will allow you to do a 10 pull at the regular [Foil Gacha].
 2nd purchase cost: 50 GradeFes coins
 0/1400 (Current/max. purchase amount)",GradeFes Item
-10連フォイルガシャメダル\n［2/12］,10-Pull Foil Gacha Medal [2/12],GradeFes Item
+10連フォイルガシャメダル\n［2/12］,10-Pull Foil Gacha Medal\n[2/12],GradeFes Item
 "通常の「フォイルガシャ」を10回引けるメダルです
 3個目購入価格:70グレフェスコイン
 30/1400(現在までの購入量/最大購入量)","This will allow you to do a 10 pull at the regular [Foil Gacha].
 3rd purchase cost: 70 GradeFes coins
 30/1400 (Current/max. purchase amount)",GradeFes Item
-10連フォイルガシャメダル\n［3/12］,10-Pull Foil Gacha Medal [3/12],GradeFes Item
-10連フォイルガシャメダル\n［4/12］,10-Pull Foil Gacha Medal [4/12],GradeFes Item
-10連フォイルガシャメダル\n［5/12］,10-Pull Foil Gacha Medal [5/12],GradeFes Item
-10連フォイルガシャメダル\n［6/12］,10-Pull Foil Gacha Medal [6/12],GradeFes Item
-10連フォイルガシャメダル\n［7/12］,10-Pull Foil Gacha Medal [7/12],GradeFes Item
-10連フォイルガシャメダル\n［8/12］,10-Pull Foil Gacha Medal [8/12],GradeFes Item
-10連フォイルガシャメダル\n［9/12］,10-Pull Foil Gacha Medal [9/12],GradeFes Item
-10連フォイルガシャメダル\n［10/12］,10-Pull Foil Gacha Medal [10/12],GradeFes Item
-10連フォイルガシャメダル\n［11/12］,10-Pull Foil Gacha Medal [11/12],GradeFes Item
-10連フォイルガシャメダル\n［12/12］,10-Pull Foil Gacha Medal [12/12],GradeFes Item
+10連フォイルガシャメダル\n［3/12］,10-Pull Foil Gacha Medal\n[3/12],GradeFes Item
+10連フォイルガシャメダル\n［4/12］,10-Pull Foil Gacha Medal\n[4/12],GradeFes Item
+10連フォイルガシャメダル\n［5/12］,10-Pull Foil Gacha Medal\n[5/12],GradeFes Item
+10連フォイルガシャメダル\n［6/12］,10-Pull Foil Gacha Medal\n[6/12],GradeFes Item
+10連フォイルガシャメダル\n［7/12］,10-Pull Foil Gacha Medal\n[7/12],GradeFes Item
+10連フォイルガシャメダル\n［8/12］,10-Pull Foil Gacha Medal\n[8/12],GradeFes Item
+10連フォイルガシャメダル\n［9/12］,10-Pull Foil Gacha Medal\n[9/12],GradeFes Item
+10連フォイルガシャメダル\n［10/12］,10-Pull Foil Gacha Medal\n[10/12],GradeFes Item
+10連フォイルガシャメダル\n［11/12］,10-Pull Foil Gacha Medal\n[11/12],GradeFes Item
+10連フォイルガシャメダル\n［12/12］,10-Pull Foil Gacha Medal\n[12/12],GradeFes Item
 フォイル確定フォイルガシャメダル,Guaranteed Foil Gacha Medal,Stamp Card Foil Gacha
 アイドルピース交換チケット,Idol Piece Exchange Ticket,
 プチセレクションチケット,Petit Selection Ticket,
@@ -809,7 +820,7 @@ MUSIC DAWN記念キーホルダー,MUSIC DAWN Memorial Keychain,
 6th Anniversary アイドルからの手紙（銅）,6th Anniversary Letter from Idols (Bronze),item from pcup
 【'24 10月Pカップ】 アイドルからのプレゼント1,['24 October P Cup] Present from Idols 1,item from pcup
 【'24 10月Pカップ】 アイドルからのプレゼント2,['24 October P Cup] Present from Idols 2,item from pcup
-ブライダル特集'24年6月号,Bridal Special Feature '24 June Edition,
+ブライダル特集'24年6月号,Bridal Special Feature '24 June Edition,special item
 ノウハウ目録,Know-How Catalogue,know-how
 ,(description of know-how catalogue),know-how
 ノウハウのしおり(1葉),Know-How Bookmark,know-how
@@ -825,9 +836,9 @@ MUSIC DAWN記念キーホルダー,MUSIC DAWN Memorial Keychain,
 ノウハウが発現した際、高レベルのノウハウの発現確率が増加(小),,know-how
 ノウハウブックからのノウハウ継承確率が増加（中）,,know-how
 テンション＋5のノウハウブック,Tension +5 Know-How Book,know-how
-テンション＋5の\nノウハウブック,Tension +5 \nKnow-How Book,know-how
+テンション＋5の\nノウハウブック,Tension +5\nKnow-How Book,know-how
 ２８３プロのノウハウブック,283Pro Know-How Book,know-how
-B小町ライブBD,B-Komachi Live Blu-Ray,
+B小町ライブBD,B-Komachi Live Blu-Ray,collab item
 【'21エイプリルフール】ノートパッド,['21 April Fools] Notepad,
 2019七夕の短冊,2019 Tanabata Piece of Paper,
 2019お月見団子,2019 Moon Viewing Dumplings,
@@ -883,5 +894,10 @@ Center用手紙【銅】,Center Letter [Bronze],match live
 アクあかデートクレープ,AkuAka Date Crepe,
 舞台台本,Stage Script,
 オリジナルスーツ,Original Suit,
-初心のバッジ,,
-雀士のバッジ,,
+初心のバッジ,,campaign item
+雀士のバッジ,,campaign item
+雀傑のバッジ,,campaign item
+雀豪のバッジ,,campaign item
+雀聖のバッジ,,campaign item
+【2024】グレードフェス記念メダル,[2024] GradeFes Commemorative Medal,GFes
+【2025】グレードフェス記念メダル,[2025] GradeFes Commemorative Medal,GFes

@@ -79,8 +79,8 @@ errorDialog.checkin.geolocationDenied,ブラウザによって位置情報の取
 errorDialog.checkin.geolocationUnAvailable,位置情報が取得できません\nデバイスの位置情報サービスをONにするか\n電波状況をご確認ください,位置情報が取得できません\nデバイスの位置情報サービスをONにするか\n電波状況をご確認ください
 errorDialog.checkin.title,チェックイン失敗,Check-in Failed
 errorDialog.checkin.outOfRange,%{placeName}\nから離れすぎています\nチェックイン範囲に近づくか\n電波状況をご確認ください,%{placeName}\nから離れすぎています\nチェックイン範囲に近づくか\n電波状況をご確認ください
-errorDialog.checkin.alreadyCheckIn,このチェックインスポットには\nすでにチェックイン済みです,このチェックインスポットには\nすでにチェックイン済みです
-errorDialog.checkin.notice,以下のFAQをご確認のうえ\n再度チェックインをお試しください,以下のFAQをご確認のうえ\n再度チェックインをお試しください
+errorDialog.checkin.alreadyCheckIn,このチェックインスポットには\nすでにチェックイン済みです,You have already checked in\nat this spot.
+errorDialog.checkin.notice,以下のFAQをご確認のうえ\n再度チェックインをお試しください,Please check the following FAQ\nand try again.
 errorDialog.checkin.invalid,有効期限外です,Expired
 errorDialog.invalidProduct,該当の商品が存在しないため、\n購入することができません。,"If the item no longer exists,\r\nit cannot be added to your cart."
 selectablePresentRewardPop.title,アイテム獲得,Item Gained
@@ -260,9 +260,9 @@ errorDialog.confirmTitle,確認,Confirm
 errorDialog.updateNativeAppVersionTitle,最新バージョン確認,Please get the latest version. 
 errorDialog.fesResumeTitle,フェス再開,Resume Fes
 errorDialog.updateVersion,バージョンが更新されました。,The version has been updated. 
-errorDialog.updateNativeAppVersion,アプリのバージョンアップが必要です。\nストアから最新バージョンを\nダウンロードしてください。,アプリのバージョンアップが必要です。\nストアから最新バージョンを\nダウンロードしてください。
+errorDialog.updateNativeAppVersion,アプリのバージョンアップが必要です。\nストアから最新バージョンを\nダウンロードしてください。,The App needs to be updated.\nPlease download the latest version\nfrom the App Store.
 errorDialog.invalidSession,セッション更新の必要があります。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},セッション更新の必要があります。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode}
-errorDialog.produceDuplicate,進行中のプロデュースがあるので\n開始できませんでした。\n一度プロデュースを終了してから始めてください。,進行中のプロデュースがあるので\n開始できませんでした。\n一度プロデュースを終了してから始めてください。
+errorDialog.produceDuplicate,進行中のプロデュースがあるので\n開始できませんでした。\n一度プロデュースを終了してから始めてください。,"Couldn't begin Produce Run,\nProduction already in progress.\nPlease finish your run and try again."
 errorDialog.fesSeason,フェスのシーズンが切り替わりました。,The Fes season has changed. 
 errorDialog.fesMatchRivalsError,進行していたフェスはすでに終了しました。\n再開することができませんでした。,The Fes in progress has already ended.\n\rCould not resume. 
 errorDialog.forbidden,アクセスは許可されていません。,Access Forbidden. 
@@ -288,12 +288,12 @@ errorDialog.businessIsNotFinished,営業が完了していません。\n少し�
 errorDialog.purchaseErrorTitle,購入エラー,Purchase Error
 errorDialog.purchaseError,ご購入の処理中に\nエラーが発生したため、ご購入が\n正しく終了されませんでした。,There was an error processing your order.\r\nYour order could not be completed.
 errorDialog.purchaseDeferredTitle,制限,Restriction
-errorDialog.purchaseDeferred,ご購入が制限されております。\n制限が解除されるまでご購入はできません。,ご購入が制限されております。\n制限が解除されるまでご購入はできません。
+errorDialog.purchaseDeferred,ご購入が制限されております。\n制限が解除されるまでご購入はできません。,Purchase restricted.\nUnable to purchase until restriction is lifted.
 errorDialog.purchaseRestoreTitle,購入エラー,Purchase Error
-errorDialog.purchaseRestore,購入処理を完了できませんでした。\nしばらくしてからもう一度お試しください。\n購入のリトライをしますか？,購入処理を完了できませんでした。\nしばらくしてからもう一度お試しください。\n購入のリトライをしますか？
-errorDialog.note.noSettlementProcess,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。
-errorDialog.contextLost.appText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。
-errorDialog.contextLost.browserText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。
+errorDialog.purchaseRestore,購入処理を完了できませんでした。\nしばらくしてからもう一度お試しください。\n購入のリトライをしますか？,Unable to complete purchase.\nPlease try again later.\nWould you like to retry?
+errorDialog.note.noSettlementProcess,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。,"※Even if page is reloaded, there will be no duplicate BanaCoin or Feather Jewel transactions."
+errorDialog.contextLost.appText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。,"Failed to load images.\nPlease press the Reload button.\nIf the problem persists,\nplease try restarting the app."
+errorDialog.contextLost.browserText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。,"Failed to load images.\nPlease press the Reload button.\nIf the problem persists,\nplease try restarting your browser."
 errorDialog.contextLost.buttonText,再読み込み,Reload
 evolutionItem,特訓はづきさん,Evolution Hazuki
 exchangeItem.costumeTicket.original,衣装交換チケット,Outfit Ticket
@@ -708,7 +708,7 @@ item.maxFesTicket,参加権がMAXのため、これ以上回復できません�
 item.expiredItem,期限を過ぎたため、使用できません。,This cannot be used as it has expired. 
 item.recoveryItem.type.produce.valueName,スタミナ,Stamina 
 item.recoveryItem.type.fes.valueName,参加権,Entry
-jewel,フェザージュエル,Feather Jewel
+jewel,フェザージュエル,Feather Jewels
 musicSelect.recommendTitle,おまかせ,Recommend
 musicSelect.recommendDescription,編成しているアイドルによって、ライブ中に流れる楽曲が変化します。\n同じユニットのアイドルを3人以上編成した状態でライブを行うと、\nそのユニット専用の楽曲が再生されます。\n\nまた、ユニット編成内で2人以上が特別な衣装を着用しているとライブ楽曲が\n固定されます。\n\n※詳細はヘルプ内「ライブ ＞ ライブ中の楽曲」よりご確認ください。,編成しているアイドルによって、ライブ中に流れる楽曲が変化します。\n同じユニットのアイドルを3人以上編成した状態でライブを行うと、\nそのユニット専用の楽曲が再生されます。\n\nまた、ユニット編成内で2人以上が特別な衣装を着用しているとライブ楽曲が\n固定されます。\n\n※詳細はヘルプ内「ライブ ＞ ライブ中の楽曲」よりご確認ください。
 musicSelect.salesLinkConfirmDialog.title,確認,Confirm
@@ -768,7 +768,7 @@ filterPop.filter.limitStaminaUp,体力,Stamina
 filterPop.filter.placeAppearRate,レッスン・\nお仕事,Lesson・\nWork
 filterPop.filter.commu,コミュ,Commu
 produce.header.ideaNote.emptyNotice,使用していません,Not Used
-produce.resumePop.progress,シーズン %{season} / 残り %{restOfSeasonWeek}週,Season %{season} / %{restOfSeasonWeek} Wks Left
+produce.resumePop.progress,シーズン %{season} / 残り %{restOfSeasonWeek}週,Season %{season} / %{restOfSeasonWeek} wks Left
 produce.produceItemPop.titleConfirm,使用確認,Confirm Use
 produce.produceItemPop.titleResult,プロデュースアイテム使用,Use Produce Item
 produce.produceItemPop.messageConfirm,以下のアイテムを使用しますか？,Use this Produce Item?
@@ -784,7 +784,7 @@ produceItemPreparation.isAreaRestricted,このアイテムは選択したプロ�
 produceItemPreparation.sameEffectType,同じ効果のプロデュースアイテムを複数持ち込む\rことはできません,"You cannot bring more than one
 Produce Item with the same effect"
 produceItemPreparation.beforeRelease,%{useOpenAt}以前は持ち込めません,Not available before %{useOpenAt}
-produceTop.deadline.season,シーズン%{seasonNum},Season%{seasonNum}
+produceTop.deadline.season,シーズン%{seasonNum},Season %{seasonNum}
 produceTop.homeConfirmPop.title,ホームに戻る,Return Home
 produceTop.homeConfirmPop.message,現在のプロデュース内容を保存して、\rホームに戻りますか？,Save current Production and\r\n return Home?
 produceTop.restConfirmPop.title,確認画面,Confirm Screen
@@ -820,7 +820,7 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_dance,グッドダンス,Goo
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュアル,Good Visual
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
-fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds：%{level}
+fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},Idol Bonds: %{level}
 fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(The Festival preparations...\r\nIt seems we don't have quite enough help...)
 fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(It might be okay to ask for more help...\r\n...who would be good...?)
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,Idol Organization Limit
@@ -909,7 +909,7 @@ skillBord.produceAreaSkillList.title,%{produceTitle} 限定スキル,%{produceTi
 skin,衣装,Outfit
 skinExchange.headerTitle,衣装ショップ,Outfit Shop 
 skinExchange.noMerchandiseNotice,交換できる衣装がありません。,There are no exchangeable outfits.
-skinExchange.shop.possessionMarkCaption,所持数,Num Owned
+skinExchange.shop.possessionMarkCaption,所持数,No. Owned
 skinDetail.plainOnlyNotice,衣装変更対象は私服衣装のみとなり、ライブ衣装は変更されません。,"This costume only changes the regular outfit, live outfit is not affected."
 skinDetail.concertOnlyNotice,衣装変更対象はライブ衣装のみとなり、私服衣装は変更されません。,"This costume only changes the live outfit, regular outfit is not affected."
 skinKind.plain,私服衣装,Regular Outfit
@@ -938,11 +938,11 @@ tutorial.openingMessage.mes0,「アイドル」,「Idol」
 tutorial.openingMessage.mes1,それは,"That image, "
 tutorial.openingMessage.mes2,女の子達の永遠の憧れ,The eternal aspiration of young women
 tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,"However, only one group"
-tutorial.openingMessage.mes4,ただ、1組……,Can stand at the summit...
-tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 25 Girls and"
-tutorial.openingMessage.mes7,今25人の女の子と,One Producer
-tutorial.openingMessage.mes8,１人のプロデューサーが,Step into this
-tutorial.openingMessage.mes9,足を踏み入れる！,World of Survival!
+tutorial.openingMessage.mes4,ただ、1組……,can stand at the summit...
+tutorial.openingMessage.mes6,そんなサバイバルな世界に,"Now, 25 girls and"
+tutorial.openingMessage.mes7,今25人の女の子と,one Producer
+tutorial.openingMessage.mes8,１人のプロデューサーが,step into this
+tutorial.openingMessage.mes9,足を踏み入れる！,world of survival!
 tutorial.skipPop.message,次のチュートリアルまでスキップします\nよろしいですか？,Skip to the next tutorial\r\n Are you sure?
 tutorial.skipPop.title,確認,Confirm
 tutorial.skipPop.warning1,各機能の説明はチュートリアル終了後も,"After exiting the tutorial, click"
@@ -1036,7 +1036,7 @@ mission.missionCountMessage,%{clearedMissionLen}/%{missionLen},%{clearedMissionL
 mission.gaugeNumberMessage,%{progress}/%{progressMax},%{progress}/%{progressMax}
 option.volumeTitle.bgm,BGM,BGM
 option.volumeTitle.se,SE,SE
-idolDetail.skill.level,Lv.%{level},Lv.%{level}
+idolDetail.skill.level,Lv.%{level},Lv. %{level}
 idolDetail.supportParameter.maxLevel,/%{level},/%{level}
 idolDetail.profile.height,%{height}cm,%{height}cm
 idolDetail.profile.weight,%{weight}kg,%{weight}kg
@@ -1044,7 +1044,7 @@ idolDetail.profile.bloodType,%{bloodType}型,Type %{bloodType}
 idolDetail.profile.figure,%{bust}/%{waist}/%{hip},%{bust}/%{waist}/%{hip}
 idolDetail.totalFan.fan,%{fan}人,%{fan}
 idolDetail.produceDeck.lastFan,%{fan}人,%{fan}
-idolDetail.produceDeck.detailPop.level,Lv.%{level}/%{limitLevel},Lv.%{level}/%{limitLevel}
+idolDetail.produceDeck.detailPop.level,Lv.%{level}/%{limitLevel},Lv. %{level}/%{limitLevel}
 idolDetail.tradeConfirmDialog.addition,+%{num},+%{num}
 idolDetail.tradeResultDialog.idolName,%{idolName},%{idolName}
 idolDetail.event.neverReadEventTitle,???,???
@@ -1683,7 +1683,7 @@ gasha.scoutGasha.notPossessedIdol,未所持,Unowned
 homeDeckBGM,ホームユニットBGM,Home Unit BGM
 homeDeckBackgroundEffect,ホームユニットエフェクト,Home Unit Effect
 exSkill.unreleased,未解放,Locked
-exSkill.produceExSkillCondition.title,[条件%{number}],[Req.%{number}]
+exSkill.produceExSkillCondition.title,[条件%{number}],[Req. %{number}]
 exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Card Lv. %{requiredLevel}
 exSkill.produceExSkillCondition.supportIdol.evolution,特訓%{requiredEvolutionStage}回達成,Evolve %{requiredEvolutionStage} times
 exSkill.produceExSkillCondition.idol.trueEnd,%{firstName}のTrue End達成,Obtain a True End for %{firstName}
@@ -1693,7 +1693,7 @@ exSkill.produceExSkillCondition.common.trueEnd,誰か1人のTrue End達成,Obtai
 exSkill.produceExSkillCondition.common.fesMatchGrade,グレード%{requiredFesMatchGradeId}に到達,Reach Grade %{requiredFesMatchGradeId}
 exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解放,Unlocked when conditions are met.
 exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,Unlocked when either conditions are met.
-exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Please select \na Ex Skill slot
+exSkill.notSelectedSlot,Exスキル枠を\n選択してください,Please select\na Ex Skill slot
 exSkill.noExSkill,Exスキルを\n所持していません,No Ex Skills\nowned for\nthis Idol
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}'s Ex Skills
 exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}/%{totalKindNum}
@@ -1711,11 +1711,11 @@ option.volumeTitle.concertBgm,楽曲,Music
 option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,Tricks from the Idols [Whispers]
 option.homeContent.itemName.joke,2019ハロウィンのおかし,2019 Halloween Sweets
 option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 Halloween Sweets
-item.expireAt,使用期限：%{expireAt},Expires：%{expireAt}
+item.expireAt,使用期限：%{expireAt},Expires: %{expireAt}
 item.releaseMypageCommunicationPop.title,イタズラ解放,Trick Unlocked
-item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,Trick or Treat! \nWhat if you idle on the home screen...?
+item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,Trick or Treat!\nWhat if you idle on the home screen...?
 shop.headerTitles.monthlyPassport,283パス,283 Pass
-shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage} times evolved)
+shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession} (%{evolutionStage} times evolved)
 shop.labelGameEventShopIdolPossessionText,所持状況,Amount Owned
 shop.monthlyPassport.limitAt,%{limitAt}まで,Until %{limitAt}
 shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,Browser version only
@@ -2152,7 +2152,7 @@ fesTower.liveAutoSetupPop.title,ライブオート設定,Auto Live Setup
 fesTower.liveItemPresetPop.title,ライブアイテムプリセット,Live Item Preset
 fesTower.liveItemPresetPop.groupNumber,プリセット%{groupNumber},Preset %{groupNumber}
 fesTower.panelUnit.unsetDeckNumber,未設定,Unset
-fesTower.panelUnit.staffComment,流行ごとのライブパネルに参加するユニットを選択しましょう♪\nパネルごとにアイテムも選択できますよ～,Choose a Unit to participate in the Live Panel for each Trend♪\nYou can also set Items for each Panel～
+fesTower.panelUnit.staffComment,流行ごとのライブパネルに参加するユニットを選択しましょう♪\nパネルごとにアイテムも選択できますよ～,Choose a Unit to participate in the Live Panel for\neach Trend♪You can also set Items for each Panel～
 fesTower.bonus.tourBonus.noticeText,ツアー中の地方ボーナスは地方ツアー達成まで継続します,Regional bonuses during Tour will stay until the Regional Tour is completed.
 fesTower.bonus.tourBonus.unitBonusText,%{unitName}のユニットボーナスUP！,%{unitName}'s Unit Bonus UP!
 fesTower.bonus.tourBonus.genreBonusText,%{genreName}のジャンルボーナスUP！,%{genreName}'s Genre Bonus UP!
@@ -2366,7 +2366,7 @@ autoPlay.produceConfirmPop.finished,完了,Done
 autoPlay.produceConfirmPop.ready,準備中,Queued
 autoPlay.produceConfirmPop.playing,実行中,Playing
 autoPlay.produceConfirmPop.produceTitle.wing,W.I.N.G.,W.I.N.G.
-autoPlay.produceConfirmPop.produceTitle.fan_meeting,ファン感謝祭,FanFest
+autoPlay.produceConfirmPop.produceTitle.fan_meeting,ファン感謝祭,Fan Fest
 autoPlay.produceConfirmPop.produceTitle.3rd_produce_area,G.R.A.D.,G.R.A.D.
 autoPlay.produceConfirmPop.produceTitle.4th_produce_area,Landing Point,Landing Point
 autoPlay.produceConfirmPop.produceTitle.5th_produce_area,S.T.E.P.,S.T.E.P.
@@ -2426,7 +2426,7 @@ limitedFesTop.receiveRewardDialog.labelLeague,・リーグ報酬,・League Rewar
 limitedFesTop.receiveRewardDialog.labelRanking,・ランキング報酬,・Ranking Rewards
 limitedFesTop.resumeDialog.title,フェス再開,Resume Fes
 limitedFesTop.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,There's a Fes in progress.\nResume current Fes?
-limitedFesTop.resultAnnounce.period,yyyy年 m月  マスターズフェス,yyyyY mM  Masters Fes
+limitedFesTop.resultAnnounce.period,yyyy年 m月  マスターズフェス,yyyy年 m月  Masters Fes
 limitedFesTop.resultAnnounce.staffComment.first,１位獲得、おめでとうございます～♪\nずっと努力を続けてきたからこその結果ですね～\nさすがです、プロデューサーさん,"Congratulations on getting first～♪\nThis is the result of your efforts～\nAmazing job, Producer-san!"
 limitedFesTop.resultAnnounce.staffComment.higher,１位まであともう少しでしたね～……\n次のフェスではさらに上を目指せるように、\n私もサポート頑張りますので～,You were so close to first～...\nI'll do my best to keep supporting you\nso you can aim even higher next Fes～
 limitedFesTop.resultAnnounce.staffComment.middle,お疲れ様でした\nプロデューサーさんなら、次はもっと上を目指せます\n一緒に頑張っていきましょうね～,"Good work out there.\nI'm sure you can aim even higher, Producer.\nLet's work hard together～"
@@ -2475,7 +2475,7 @@ useAlmightyFoilItem.useConfirmPop.title,使用確認,Confirm Selection
 useAlmightyFoilItem.useConfirmPop.message,%{itemName}を使用して\nアイドルをフォイル化します\nよろしいですか？,Use %{itemName} to foil this Idol?\nAre you sure?
 useAlmightyFoilItem.useResultPop.title,使用結果,Results
 useAlmightyFoilItem.useResultPop.message,以下のアイドルのフォイル化が完了しました！,The following Idol has been foiled!
-useAlmightyFoilItem.notice,%{itemName}%{num}個で1人フォイル化できます,%{itemName}%{num}個で1人フォイル化できます
+useAlmightyFoilItem.notice,%{itemName}%{num}個で1人フォイル化できます,%{num} %{itemName} pieces will let you foil one card.
 parallelSceneMenuPop.title,サブ画面メニュー,Sub Screen Menu
 parallelSceneLayoutPop.title,コミュ並列閲覧,Commu Parallel Browsing
 parallelSceneLayoutPop.text,画面レイアウトを選択してください,Select a Screen Layout
@@ -2499,7 +2499,7 @@ daifugo.resultScore,%{score}pt,%{score}pt
 daifugo.resultCardBonus,%{total}pt(%{cardNum}x%{perValue}),%{total}pt(%{cardNum}x%{perValue})
 daifugo.resultBonusRate,x%{rate}倍(%{numberOfConsecutiveWins}勝),x%{rate}倍(%{numberOfConsecutiveWins}勝)
 daifugo.resumeConfirmPopup.title,再開確認,Confirm Resume
-daifugo.resumeConfirmPopup.message,保存中のゲームがあります\n再開しますか？,There is a saved game.\nWould you like to resume it?
+daifugo.resumeConfirmPopup.message,保存中のゲームがあります\n再開しますか？,There is a game in progress.\nWould you like to resume it?
 daifugo.retireConfirmPopup.title,破棄確認,Confirm Retire
 daifugo.retireConfirmPopup.message,ゲームを破棄しますか？,Would you like to retire?
 daifugo.cardEffect.straight,階段,Straight
@@ -2511,10 +2511,10 @@ daifugo.cardEffect.spade_three_return,スペ3返し,スペ3返し
 daifugo.cardEffect.forbidden_finish,禁止あがり,禁止あがり
 daifugo.exchangeCards.choiceMessage,%{role}に渡すカードを%{num}枚選択してください,%{role}に渡すカードを%{num}枚選択してください
 daifugo.exchangeCards.receiveMessage,%{role}からカードを%{num}枚受け取りました,%{role}からカードを%{num}枚受け取りました
-daifugo.role.great_rich_man,大富豪,大富豪
-daifugo.role.rich_man,富豪,富豪
-daifugo.role.poor_man,貧民,貧民
-daifugo.role.great_poor_man,大貧民,大貧民
+daifugo.role.great_rich_man,大富豪,Tycoon
+daifugo.role.rich_man,富豪,Rich
+daifugo.role.poor_man,貧民,Poor
+daifugo.role.great_poor_man,大貧民,Beggar
 characterProfile.unlockText,コミュニケーションレベル%{level}で解放,Unlocked at Communication Lv. %{level}
 miniGame.tutorial.comment1,アイドルのみなさんの情報には目を通しておいてくださいね\nまずはプロフィールをお渡しします～ ,"Please take a look at the info about the idols.\nFirst, here are their profiles～ "
 fes.specialFesSelect.consumeButtonComment,チケットを     消費します,Use Ticket
@@ -2702,6 +2702,6 @@ produceTop.backToHomeAndGiveUpPop.title,ホームに戻る・諦める,Return to
 unitName.81,283プロ,283Pro
 temp.supportEvent,サポートイベント,Support Event
 temp.produceEvent,プロデュースイベント,Produce Event
-idolList.emptyRewardFesIdolMessage,獲得しているフェスアイドルがいません,There are no Fes Idols to be acquired.
+idolList.emptyRewardFesIdolMessage,獲得しているフェスアイドルがいません,No Fes Idols acquired.
 option.homeContent.title.idolPrank2024,アイドルからのイタズラ【異世界ささやき(バイノーラル風)】,Tricks from the Idols [Otherworldly Whispers (Binaural Style)]
 option.homeContent.itemName.joke2024,2024ハロウィンのおかし,2024 Halloween Sweets

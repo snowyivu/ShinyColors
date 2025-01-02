@@ -1,41 +1,43 @@
 id,name,text,trans
 0000000000000,プロデューサー,結華、結果を──,"Yuika, the results──"
 7007001070010,結華,プロデューサー！　どうだった！？,Producer! How'd it go!?
-0000000000000,プロデューサー,……『W.I.N.G.』出場決定だ！　おめでとう、結華！,"...It's decided you're going to participate in ""W.I.N.G""! Congratulations, Yuika!"
-7007001070020,結華,ほっ、ほんと！？　やったあ！！,R-Really!? I did it!!
-7007001070030,結華,あっ……えへへ,Ah... Eheheh...
+0000000000000,プロデューサー,……『W.I.N.G.』出場決定だ！　おめでとう、結華！,"...and you've secured a spot in W.I.N.G.!
+Congratulations, Yuika!"
+7007001070020,結華,ほっ、ほんと！？　やったあ！！,"Wait, for real?! Oh my god!!!"
+7007001070030,結華,あっ……えへへ,Ack... Eheheh...
 7007001070040,結華,"ごめんごめん、憧れのあの子と一緒の舞台に立てるって
-思ったら、ついおっきい声出しちゃった","Sorry, sorry, when I thought about standing on the
-same stage as all the girls I admire, I suddenly
-shouted without thinking."
-7007001070050,結華,や～、今からもう楽しみだな～,Yahhh～ I'm looking forward to it～
-0000000000000,プロデューサー,照れ隠し、バレてるからな,"Despite trying to hide it, you've been found out."
+思ったら、ついおっきい声出しちゃった","Oops, sorry about that. I just can't hold it in when I
+think about being on the same stage as the idols I
+look up to."
+7007001070050,結華,や～、今からもう楽しみだな～,Now I did it～I'm already feeling the excitement～
+0000000000000,プロデューサー,照れ隠し、バレてるからな,"I can tell you're trying to play it off, actually."
 7007001070060,結華,う、やめてよそういうこと言うの……,"Ugh, stop saying that stuff..."
 0000000000000,プロデューサー,"……言われなくてもわかってるとは思うけど
-これは、アイドルのファンのままじゃできなかったことだ","...I think you know even if I don't tell you.
-This isn't something you could have done merely
-as an idol fan."
+これは、アイドルのファンのままじゃできなかったことだ","...I'm sure you don't need me to tell you this,
+but you wouldn't have made it this far if you
+were just an idol fan."
 0000000000000,プロデューサー,"結華がその子たちのライバルになれたから、
-できるようになったことだよ","It's because you became those girls' rival, that you
-were able to do it."
-7007001070070,結華,……うん、わかってる,"...Yeah, I know."
+できるようになったことだよ","You were able to make it this far because you
+saw the other idols as rivals."
+7007001070070,結華,……うん、わかってる,Yeah... I'm aware.
 7007001070080,結華,"今回はファンとしてじゃなくて、
-ライバルとして会うんだもんね","This time I'm not facing them as a fan, but as a rival."
+ライバルとして会うんだもんね","I'm not facing them as a fan, but as a rival."
 0000000000000,プロデューサー,"ああ、そうだ
-……結華は今、憧れの存在と肩を並べたんだ","Yeah, you are... You're finally able to go toe-to-toe
-with the ones you admired."
-7007001070090,結華,……そんなこと言われたら構えちゃうなぁ……,...If you say that I'll get embarrassed...
+……結華は今、憧れの存在と肩を並べたんだ","Exactly, Yuika... You're now at a point where
+you're even on the same league as them."
+7007001070090,結華,……そんなこと言われたら構えちゃうなぁ……,...Putting it like that just makes me tense up...
 7007001070100,結華,"……でも！　三峰を応援しててくれてる人たちのためにも
-全力でやらないと、だね！","...But! For the sake of those who've supported me,
-Mitsumine has to give it her all, right?!"
+全力でやらないと、だね！","...But! For the sake of everyone rooting for me,
+Mitsumine has to unleash her full power!"
 0000000000000,プロデューサー,"いつも全力だろ？　だから、いつも通りでいい
-いつも通りやれば大丈夫だ","You're always giving your all right? So, if you do it like
-you always have, you'll be just fine."
-0000000000000,プロデューサー,『W.I.N.G.』、頑張ってこい！,"Give it your utmost for ""W.I.N.G""!"
+いつも通りやれば大丈夫だ","Haven't you been doing that anyway? So you'll
+be fine if you do it the way you've always done."
+0000000000000,プロデューサー,『W.I.N.G.』、頑張ってこい！,So go show them who's boss!
 7007001070110,結華,"……やっぱ安心感が違うなぁ……
-プロデューサーは、アイドルをやる気にさせる天才かもね","...As expected, it's a different feeling of confidence...
-Producer, you're truly a genius at pumping up idols."
-7007001070120,結華,──まぁ、三峰に任せてよ,"──Well, leave it to Mitsumine."
-7007001070130,結華,ここまで来たら……優勝、取ってくるからさ！,"I came this far... I'll definitely, take the win!"
+プロデューサーは、アイドルをやる気にさせる天才かもね","...Well that hit different this time.. Producer,
+you might actually be a genius when it comes
+to motivating idols."
+7007001070120,結華,──まぁ、三峰に任せてよ,"──Anyways, Mitsumine's got this."
+7007001070130,結華,ここまで来たら……優勝、取ってくるからさ！,I've came this far already... Time to take first place!
 info,produce_events/700700107.json,
-Translator,,
+Translator,Lewdacriz,

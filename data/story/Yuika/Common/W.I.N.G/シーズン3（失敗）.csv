@@ -1,32 +1,40 @@
 id,name,text,trans
 7902001060010,社長,"やはりここまで来ると、
-乗り越えるべき壁も高かったな……",The wall to overcome after coming this far was pretty high...
+乗り越えるべき壁も高かったな……","So the walls turned out to be too tall for you, now 
+that you've made it here... "
 7901001060010,はづき,"結果は残念でしたけど……
-おふたりは立派にやってましたよ！",It's too bad about the results... You both did splendid!
+おふたりは立派にやってましたよ！","The results are unfortunate, but...
+The both of you did an admirable job!"
 7901001060020,はづき,"ここまで来れただけでも、
-胸を張って誇れることだと私は思います",I think that even coming this far that you should feel proud about it.
+胸を張って誇れることだと私は思います","I think you can be keep your head high and be proud of
+yourselves for just making it this far."
 7902001060020,社長,"ああ、良い活躍だった
-それはたしかだ","Yes, it was certainly a great effort."
+それはたしかだ","Yeah, it was fine work.
+That I can guarantee."
 0000000000000,プロデューサー,"……俺もそう思います
-彼女はよくやってくれました",...I think so too. She did well.
+彼女はよくやってくれました","...I think so too.
+She really did well."
 7901001060030,はづき,"その言葉を、彼女に直接
-言ってあげましょう？",Maybe you should tell her that in person?
-0000000000000,プロデューサー,……はい,...Okay.
-0000000000000,プロデューサー,……三次審査は、通らなかった,...We didn't pass the third round.
+言ってあげましょう？","Please pass those words directly onto her, okay?"
+0000000000000,プロデューサー,……はい,...I will.
+0000000000000,プロデューサー,……三次審査は、通らなかった,You didn't make it through the third round...
 7007001060010,結華,嘘……,No way...
-7007001060020,結華,……や、ごめん。ちょっと驚いちゃって,"...Oh, sorry. I'm a bit surprised."
+7007001060020,結華,……や、ごめん。ちょっと驚いちゃって,"...Oh, sorry. I'm just a little shocked."
 0000000000000,プロデューサー,"……あんなに頑張ってたんだから悲しいのは当たり前だ
-無理しなくていい","...Given how you've devoted yourself, being frustrated is natural. Don't push yourself."
+無理しなくていい","You've worked so far for this... It's natural to feel
+frustrated. You don't have to force yourself..."
 7007001060030,結華,"いやいや、無理とかじゃないし！
-……そういうんじゃ、ないんだけど……","No no, I'm not pushing myself!
-...It's not like that, but..."
+……そういうんじゃ、ないんだけど……","Oh, not even! I'm not forcing myself at all!
+.........That's not quite... it, really..."
 7007001060040,結華,"……プロデューサー。……私、負けたけど……
-まだアイドル続けたいって、思っちゃってるんだよね","...Producer... I lost but... I've been thinking, I still want to be an idol, you know."
-7007001060050,結華,……もうちょっと、付き合ってくれる？,"...Would you stick with me, for a little longer?"
+まだアイドル続けたいって、思っちゃってるんだよね","...Producer... Even though I lost... I... think I still want
+to keep being an idol."
+7007001060050,結華,……もうちょっと、付き合ってくれる？,...So could you stick with me? For just a bit longer?
 0000000000000,プロデューサー,"もちろんだ
-言われなくたって、いくらでも結華をプロデュースする","Of course. You don't even have to ask, no matter what happens, I'm your producer."
-0000000000000,プロデューサー,そのために俺は結華をスカウトしたんだから,That's why I scouted Yuika after all.
+言われなくたって、いくらでも結華をプロデュースする","Of course. You don't even have to ask.
+I will keep producing you, Yuika. No matter what."
+0000000000000,プロデューサー,そのために俺は結華をスカウトしたんだから,That's why I scouted you after all.
 7007001060060,結華,……ありがと、プロデューサー,"...Thanks, Producer."
-7007001060070,結華,──それじゃ、早速レッスンでもしよっかな！,"──Then, let's go do some lessons right away!"
+7007001060070,結華,──それじゃ、早速レッスンでもしよっかな！,──Okay then! Let's jump straight into lessons!
 info,produce_events/700700106.json,
-Translator,,
+Translator,Lewdacriz,

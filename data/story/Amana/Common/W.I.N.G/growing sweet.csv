@@ -1,9 +1,11 @@
 id,name,text,trans
 1014001050010,甘奈,……,......
 1014001050020,甘奈,"甘奈、頑張らなくっちゃ……だもんね
-ファンのみんなに甘奈のいいとこ見せたいし……",I have to do my best... right? I want to show my good points to every fan out there...
+ファンのみんなに甘奈のいいとこ見せたいし……","I have to do my best... right? I want to show my
+good points to every fan out there..."
 0000000000000,プロデューサー,"（これぐらい大きな規模のイベントだと、
-さすがに甘奈も緊張するか……）","(When it's a big event like this one, I guess even Amana gets nervous...)"
+さすがに甘奈も緊張するか……）","(When it's a big event like this one, I guess even
+Amana gets nervous...)"
 0000000000000,プロデューサー,（何か声をかけて安心させてあげたいな……）,(I have to say something reassuring to her...)
 0000000000000,プロデューサー,甘奈、そんなに緊張しなくてもいいんだぞ,"Amana, you don't really have to be nervous, you know."
 1014001050030,甘奈,"プロデューサー……
@@ -11,24 +13,31 @@ id,name,text,trans
 Did I really look that nervous?"
 0000000000000,プロデューサー,あぁ、ちょっと珍しいなと思って見ていた,"Yeah, it's quite an unusual sight, actually."
 1014001050040,甘奈,"そっか……
-実は……ね。笑わないで聞いてほしいんだけど……",I see... actually... please don't laugh at what I'm about to say...
+実は……ね。笑わないで聞いてほしいんだけど……","I see... actually... please don't laugh at what I'm
+about to say..."
 1014001050050,甘奈,"甜花ちゃんと輝きたい！　甘奈が本気でアイドルしたい！
-って思うようになってから","""I want to shine with Tenka-chan! I really want to be an idol!""
-Ever since I started thinking that..."
+って思うようになってから","""I want to shine with Tenka-chan! I really want to
+be an idol!"" Ever since I started thinking that..."
 1014001050060,甘奈,"急に失敗するのが怖くなっちゃったんだー
 えへへ。らしくない、かな？","Now, I'm suddenly so scared of failing. 
 Ehehe, that's so unlike me, huh?"
 0000000000000,プロデューサー,"そんなことないさ
-それは、甘奈が成長したってことだからな","That's not true at all. After all, you've grown up as well."
+それは、甘奈が成長したってことだからな","That's not true at all. After all, you've grown up
+as well."
 1014001050070,甘奈,そうなの、かな？,Is that really so?
 0000000000000,プロデューサー,"甘奈はアイドルとしてのポテンシャルが高いから、
-失敗らしい失敗をしてこなかったよな","Since you have such high potential for being an idol, I don't think there's going to be any major mistakes or failures at all."
+失敗らしい失敗をしてこなかったよな","Since you have such high potential for being an idol,
+I don't think there's going to be any major mistakes
+or failures at all."
 1014001050080,甘奈,"自分では意識したことなかったけど……
 そうだったかも","I'm not really aware of that myself...
 Or something like that."
-0000000000000,プロデューサー,だから、甘奈なら普段通りやれば乗り越えられるんだ,"That's why, I'm sure you can do it by just being your usual self."
+0000000000000,プロデューサー,だから、甘奈なら普段通りやれば乗り越えられるんだ,"That's why, I'm sure you can do it by just being your
+usual self."
 1014001050090,甘奈,"わかってるよ、普段通りにやればいいって
-わかってるけど……こんなに緊張するのは初めてなんだもん","I know, doing things as usual would be the best. I know that... yet, for the first time ever, I feel nervous."
+わかってるけど……こんなに緊張するのは初めてなんだもん","I know, doing things as usual would be the best.
+I know that... yet, for the first time ever, I feel
+nervous."
 1014001050100,甘奈,"ホントに甘奈にできる、かな？
 失敗しちゃわないかな？",Can I really do this? What happens if I fail?
 select,,"甜花は
@@ -42,10 +51,12 @@ from the
 beginning again."
 1014001050110,甘奈,……そうだよね！,...That's right!
 0000000000000,プロデューサー,"最近はひとりでの自主レッスンも多くこなしている
-不安を抱きながらも、頑張っているんだ","Lately, she's been training really hard by herself. Even when she was anxious, she worked really hard."
+不安を抱きながらも、頑張っているんだ","Lately, she's been training really hard by herself.
+Even when she was anxious, she worked really hard."
 1014001050120,甘奈,うん、最近の甜花ちゃん……ホントすごいよね,"Yeah, Tenka-chan lately is... really amazing, right?"
 1014001050130,甘奈,"戦い続けてるから
-あんなに輝けてるんだよね！","She keeps on fighting because she wants to shine bright too, yeah?"
+あんなに輝けてるんだよね！","She keeps on fighting because she wants to shine
+bright too, yeah?"
 0000000000000,プロデューサー,"ああ
 なら……甘奈は、どうする？","Yeah.
 So... Amana, what about you?"
@@ -59,51 +70,68 @@ That's why I have to do my best."
 絶対成功させてくるから！","Just watch me, Producer-san.
 I'm definitely gonna make this a success!"
 1014001050170,甘奈,え……？,Eh?
-0000000000000,プロデューサー,甘奈はさ、最初からなんでもできる子だったよな,"Amana, you're a girl who could do anything by herself even from the beginning."
+0000000000000,プロデューサー,甘奈はさ、最初からなんでもできる子だったよな,"Amana, you're a girl who could do anything by herself
+even from the beginning."
 0000000000000,プロデューサー,"だからこそいつか
-壁にぶつかる日が来るんじゃないかって思っていたんだ",That's why I've thought the day might come when you hit a wall by yourself as well.
+壁にぶつかる日が来るんじゃないかって思っていたんだ","That's why I've thought the day might come when
+you hit a wall by yourself as well."
 0000000000000,プロデューサー,それが今なんじゃないか？,"Something like now, right?"
 1014001050180,甘奈,……うん、そうかも,"...Yeah, maybe so."
 1014001050190,甘奈,"でも……大丈夫なんだよね？
 甘奈はひとりじゃないから","But... it'll be fine, right?
 Because I'm not alone."
 0000000000000,プロデューサー,"あぁ、そうだ
-甘奈には甜花や千雪がいるからな","Yeah, that's right. You have Tenka and Chiyuki by your side, after all."
+甘奈には甜花や千雪がいるからな","Yeah, that's right.
+You have Tenka and Chiyuki by your side, after all."
 1014001050200,甘奈,それに……プロデューサーさんだっているもんね？,"And also... Producer-san too, right?"
 0000000000000,プロデューサー,……あぁ！　もちろん俺もいるさ,...Yeah! I'm by your side too.
 1014001050210,甘奈,"えへ、なんかちょっと力が湧いてきたかも
-失敗するの、怖くなくなってきたよ","Eheh, somehow, I feel like I got some power flowing in me. Even though I'm nervous, I'm less scared now."
+失敗するの、怖くなくなってきたよ","Eheh, somehow, I feel like I got some power flowing
+in me. Even though I'm nervous, I'm less scared now."
 0000000000000,プロデューサー,"だろ？
-甜花だって仲間がいるから頑張れているんだぞ",Right? Tenka is doing her best because she has everyone with her too.
+甜花だって仲間がいるから頑張れているんだぞ","Right? Tenka is doing her best because she has
+everyone with her too."
 1014001050220,甘奈,"うん、そうだよね
-みんながいてくれるから甘奈、頑張れるんだ！","Yeah, that's right. Because everyone is with me, I'll definitely do my best!"
+みんながいてくれるから甘奈、頑張れるんだ！","Yeah, that's right. Because everyone is with me,
+I'll definitely do my best!"
 1014001050230,甘奈,"ありがとう、プロデューサーさん！
 甘奈、行ってくるね！","Thank you, Producer-san! I have to go now!"
 0000000000000,プロデューサー,"甘奈が今、気負ってしまっているのは、
-本気でアイドルをやりたいって思っているからだろ？","Right now, you're doing everything the best you can, because you always wanted to be an idol, right?"
+本気でアイドルをやりたいって思っているからだろ？","Right now, you're doing everything the best you
+can, because you always wanted to be an idol, right?"
 1014001050240,甘奈,"うん、そうかも
-甜花ちゃんと一緒に輝きたいって思ったから……","Yeah, maybe. I really want to shine bright together with Tenka-chan..."
+甜花ちゃんと一緒に輝きたいって思ったから……","Yeah, maybe. I really want to shine bright together
+with Tenka-chan..."
 0000000000000,プロデューサー,"でも最初は、そんなことなかっただろ？
-ステージ前、どんなこと思っていた？","But it wasn't like that from the beginning, right? How did you use to feel before going on stage?"
+ステージ前、どんなこと思っていた？","But it wasn't like that from the beginning, right?
+How did you use to feel before going on stage?"
 1014001050250,甘奈,"えーと、楽しみーとか、みんなに楽しんでほしい！
-とかかな？","Umm, having fun, and make everyone else have fun as well! Or something like that?"
+とかかな？","Umm, having fun, and make everyone else have fun
+as well! Or something like that?"
 1014001050260,甘奈,いつもどきどき、わくわく！ってしてたよ,"It's heart-pounding, and also exciting! I thought that too."
 0000000000000,プロデューサー,その気持ち、今思い返してみないか？,"Those feelings, can you reflect on them now?"
 1014001050270,甘奈,……うん！,...Yeah!
 0000000000000,プロデューサー,どうだ？　思い返せたか？,How about it? Did you think back?
 1014001050280,甘奈,"……うん……ステージやイベントは、
-最初のころからずっと楽しかったな","Yeah... the stage and the event, have always been fun since the beginning."
+最初のころからずっと楽しかったな","Yeah... the stage and the event have always been
+fun since the beginning."
 0000000000000,プロデューサー,"たしかに、甘奈は楽しそうにしていたよ
-だからこそ、お客さんも楽しんでいてくれていたよな","Certainly, you've always been having fun. That's the reason that the audience themselves are having fun too."
+だからこそ、お客さんも楽しんでいてくれていたよな","Certainly, you've always been having fun.
+That's the reason that the audience themselves
+are having fun too."
 1014001050290,甘奈,"うん
-甘奈、楽しくないときなんかなかった","Yeah. For me, there's never times where I'm not enjoying it."
+甘奈、楽しくないときなんかなかった","Yeah. For me, there's never times where I'm not
+enjoying it."
 1014001050300,甘奈,"……あ、そーか
-今から、楽しいことが待ってるってことなんだ","...Ah, I get it. Even now, there are still some fun times waiting for me."
+今から、楽しいことが待ってるってことなんだ","...Ah, I get it. Even now, there are still some fun
+times waiting for me."
 1014001050310,甘奈,だよね？　プロデューサーさん,"Isn't that right, Producer-san?"
 0000000000000,プロデューサー,そのとおりだ！,That's correct!
 1014001050320,甘奈,"えへへ、甘奈
-めっちゃ大切なこと、忘れてたみたいだね","Ehehe, I somehow forgot something as important as that."
+めっちゃ大切なこと、忘れてたみたいだね","Ehehe, I somehow forgot something as important
+as that."
 1014001050330,甘奈,"思い出せたのは、プロデューサーさんのおかげだよ！
-ステージ、サイコーに楽しんでくるね☆","I was able to remember, all because of you! On this stage, let's have the most fun yet☆"
+ステージ、サイコーに楽しんでくるね☆","I was able to remember, all because of you!
+On this stage, let's have the most fun yet☆"
 info,produce_events/101400105.json,
 Translator,,
