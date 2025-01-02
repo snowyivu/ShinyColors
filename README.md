@@ -21,7 +21,7 @@ Once you have the patch set up, it will grab future updates automatically.  The 
 1. It's recommended to run this patch on Chrome
 2. First install the [Tampermonkey](https://tampermonkey.net/) extension
 3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，tampermonkey should prompt you to load it
-4. Finally, [(Click Here)](https://chrome.google.com/webstore/detail/%E9%97%AA%E8%80%80%E8%89%B2%E5%BD%A9%E5%BC%82%E6%AD%A5%E8%84%9A%E6%9C%AC/caafhkjcgpbinkgnghkojaoipgdkbcbc/) to install the new ShinyColors script syncing extension, which will prevent an issue where the patch would fall off during season changes, etc.
+4. ~~Finally, [(Click Here)](https://chrome.google.com/webstore/detail/%E9%97%AA%E8%80%80%E8%89%B2%E5%BD%A9%E5%BC%82%E6%AD%A5%E8%84%9A%E6%9C%AC/caafhkjcgpbinkgnghkojaoipgdkbcbc/) to install the new ShinyColors script syncing extension, which will prevent an issue where the patch would fall off during season changes, etc.~~ (sync syncing app now deprecated)
 5. Refresh game page and the patch should work automatically
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files)
 
