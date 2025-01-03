@@ -279,9 +279,9 @@ $nounVII,$1 VII,
 テンション＋$num,Tension +$1,
 パッシブスキル発動率$num％UP,Passive Skill Rate $1% UP,
 最終ポイント値％UP,Final Point Value %UP,Fight Skill
-"発動タームでの最終ポイント値＋($num,$num,$num)%","Final points in the term have ($1,$2,$3)% increased value",Fight Skill
+"発動タームでの最終ポイント値＋($num,$num,$num)％","Final points in the term have ($1,$2,$3)% increased value",Fight Skill
 最終アピール値％UP,Final Appeal Value %UP,Fight Skill
-"発動タームでの最終アピール値＋($num,$num,$num)%","Final appeal in the term has  ($1,$2,$3)% increased value",Fight Skill
+"発動タームでの最終アピール値＋($num,$num,$num)％","Final appeal in the term has  ($1,$2,$3)% increased value",Fight Skill
 PERFECT確率％UP,Perfect Rate % UP,Fight Skill
 "発動タームでのライブスキルのPERFECT確率を＋($num,$num,$num)％","Live skill PERFECT rate in the term ($1,$2,$3)% UP",Fight Skill
 メンタルの減少量％CUT,Mental Damage Received % CUT,Fight Skill
