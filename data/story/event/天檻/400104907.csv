@@ -181,7 +181,7 @@ moment."
 outside like this......
 ......And now the flowers finally bloom."
 4001049070530,透,……おー,......Ohh.
-4001049070540,透,してるんだ、息,"It does, huh. Breath."
+4001049070540,透,してるんだ、息,"It does, huh. Breathe."
 4001049070550,円香,"……
 何か飲んできます","......
 I'll go get something to drink."
@@ -267,7 +267,7 @@ Isn't it starting already......"
 4001049070820,円香,──自分で買ったら……？,ーWhy don't you buy it yourself......?
 4001049070830,透,──えー……,ーStingyー......
 4001049070840,透,──じゃ、払うからー……,ーEhー......
-4001049070850,透,────67円,────Here's 67yen.
+4001049070850,透,────67円,────Here's 67 yen.
 4001049070860,雛菜,"あは～
 終わっちゃった～？","Aha～
 Is the song ending already～?"
@@ -284,7 +284,7 @@ Looks like the DJ...... finished his set......!"
 Huh......!"
 0000000000000,off,こ　っ　ち　み　ろ,L o o k　o v e r　h e r e
 4001049070931,透＆小糸,円香ちゃん…………！,"Madoka-chan.........!
-(Higuchi's up)"
+(Higuchi's up.)"
 0000000000000,オーナー,あははっ……！,Ahahaha......!
 0000000000000,プロデューサー,"…………！
 えっ、円香────",".........!
@@ -294,7 +294,7 @@ Huh, Madoka────"
 T-Toru-chan......!?"
 4001049070960,透,しー,Shhhー
 4001049070970,円香,"──67円って……
-ドリンク代じゃない","──67yen......
+ドリンク代じゃない","──67 yen......
 Isn't for the drink, right?"
 4001049070980,透,んー,Yeaー
 0000000000000,オーナー,舞台あげるよ。好きに使って,I'll give you the stage. Do as you want with it.
@@ -325,7 +325,7 @@ be nice."
 Who's that?"
 0000000000000,招待客９,誰？　いい感じ,Who sung that? What a good vibe.
 0000000000000,プロデューサー,……,......
-0000000000000,招待客10,アイドル来るとか言ってなかった？,"Didn't they say an idol was coming, or someting?"
+0000000000000,招待客10,アイドル来るとか言ってなかった？,"Didn't they say an idol was coming, or something?"
 0000000000000,招待客11,"ちょ、黙って
 聞かせて","Wait! Be quiet for a bit.
 Let's just listen."
@@ -361,10 +361,10 @@ Erm......! W-Where are we────"
 Erm......"
 0000000000000,オーナー,あー……,Aah......
 0000000000000,プロデューサー,"……私の不行き届きで、このような事態となり
-誠に申し訳ございません。一切の責任は私に────","......This situation only occured due to my negligiance.
+誠に申し訳ございません。一切の責任は私に────","......This situation only occured due to my negligence.
 I offer my deepest apologies, and will take full
 responsibility for their────"
-0000000000000,オーナー,悪くないね,Hmm not bad at all.
+0000000000000,オーナー,悪くないね,"Hmm, not bad at all."
 0000000000000,プロデューサー,────……,────......
 0000000000000,オーナー,すごく……悪くない、すごく,That was really...... not bad... yeah.
 4001049071251,一同,あははっ──────,Ahaha──────
@@ -393,7 +393,7 @@ Erm, I'll reach out to your office on a later da──"
 You can just bill us whatever you like."
 0000000000000,プロデューサー,……え？,......Huh?
 0000000000000,オーナー,"額、請求書
-ごちそうさま","The involce. The payment.
+ごちそうさま","The invoice. The payment.
 I've had my fill today."
 4001049071340,透,行こう,Let's go.
 info,game_event_communications/400104907.json,

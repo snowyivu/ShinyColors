@@ -9,8 +9,8 @@ Isn't this how I usually do it?"
 真面目にレッスンしてくれてるみたいで、うれしいぞ","I can't do your usual so that's why I'm saying it.
 Makes me glad to see you taking your lessons so seriously."
 1011001030020,樹里,"なんだそりゃ……
-やるって決めたんだ、ちゃんとやるっての","So that's all...
-I chose to do this so you're damn right I'm going to nail it."
+やるって決めたんだ、ちゃんとやるっての","So that's all... I chose to do this, 
+so you're damn right I'm going to nail it."
 1011001030030,樹里,"それにレッスン……練習って聞くと
 しっかりやるぞって気になるんだよな","Besides, I hear lesson... or practice,
 I can't help but give it all I've got."
@@ -46,8 +46,9 @@ so for sure it must have been the same with basketball."
 いろいろ話を聞かせてくれて、ありがとう","Oh, uh yeah, sorry if I broke your flow.
 Thanks for letting me know all that."
 0000000000000,プロデューサー,"……だけど、運動経験があるってのは大きな武器になるな
-今後はその運動能力を活かしてアイドルしていければ……","...But having athletic experience could be a huge advantage.
-If you made use of your physical abilities going forward as an idol..."
+今後はその運動能力を活かしてアイドルしていければ……","...But having athletic experience could be a huge 
+advantage. If you made use of your physical abilities 
+going forward as an idol..."
 1011001030090,樹里,あ？どういうことだよ,Huh? Like how?
 0000000000000,プロデューサー,"ん？　ああ、思い付きで言っただけだから
 具体的なところまで決めてるわけじゃないが……","Hm? Well, I just said what popped into my head
@@ -83,8 +84,7 @@ potential to go beyond what other idols are capable of."
 それなら、踊れるだけじゃなくて歌えね－とダメだよな？","So forget about whether I can go that far.
 If we're doing this, I have to get good at singing too, right?"
 1011001030130,樹里,"ってことはアタシ
-もっと歌のレッスンもしたほうがいいんじゃね－か？","Then shouldn't
-I be doing more vocal lessons?"
+もっと歌のレッスンもしたほうがいいんじゃね－か？",Then shouldn't I be doing more vocal lessons?
 0000000000000,プロデューサー,"（おお……！
 樹里の方からレッスンの提案をしてくれるなんて……）","(Awesome...!
 I can't believe Juri's suggesting lessons...)"
@@ -182,4 +182,4 @@ stop looking at me like that..."
 プロデュ－サ－の提案に乗ってみるかな","...Whatever. It'll let me get away with stuff
 so I'll play along."
 info,produce_events/101100103.json,
-Translator,,,Enzo and Mondo
+Translator,Enzo and Mondo,

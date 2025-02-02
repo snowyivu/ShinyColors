@@ -12,7 +12,8 @@ id,name,text,trans
 0000000000000,プロデューサー,"そんなことないぞ
 樹里が頑張っていたのをみんなちゃんと見てたんだ","It wasn't luck.
 Everyone saw how hard you worked for it."
-0000000000000,プロデューサー,宣材写真も良いの撮れたしな、だから運とか言わずに……,Even your promotional photos came out great so you can't say it was just luck...
+0000000000000,プロデューサー,宣材写真も良いの撮れたしな、だから運とか言わずに……,"Even your promotional photos came out great, 
+so you can't say it was just luck..."
 7011001010050,樹里,わ、わかったよ。わかったから……ったく,I-I get it. I get it already... Sheesh.
 7011001010060,樹里,……ほんとプロデュ－サ－は、いちいち真面目だな,...You take every little thing so seriously.
 0000000000000,プロデューサー,本当のことを言ってるだけだよ,I'm just telling the truth.
@@ -33,4 +34,4 @@ I bet I'll get knocked out next round like it was nothing."
 0000000000000,プロデューサー,そうならないためにも、これからも頑張ろう！,Let's try our hardest to make sure that doesn't happen!
 7011001010110,樹里,わかったよ……ま、そこそこにな,"Sure thing... No need to overdo it, though."
 info,produce_events/701100101.json,
-Translator,,,Enzo and Mondo
+Translator,Enzo and Mondo,

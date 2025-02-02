@@ -78,15 +78,15 @@ it took me until now to feel like it, huh?"
 0000000000000,プロデューサー,……そうか、良かったな,...I see. I'm glad.
 6011001090120,樹里,……なんだよ、その顔。変にニコニコしやがって,...The hell is that look? You're freaking me out with that grin of yours.
 0000000000000,プロデューサー,"樹里の感動が伝わってきて、
-俺もなんだか嬉しくなったんだよ","It came through how moved you were
+俺もなんだか嬉しくなったんだよ","It came through how moved you were,
 so I'm feeling happy too."
-6011001090130,樹里,う、うるせ－な,S-shut it.
+6011001090130,樹里,う、うるせ－な,S-Shut it.
 6011001090140,樹里,"つ－か、他人事みたいに言うんじゃね－よ
 アタシをアイドルにしたのは、アンタ自身だろ","Anyway, quit talking like it's none of your business.
 It's all because of you that I became an idol."
 0000000000000,プロデューサー,"はは、たしかにスカウトはしたけど
-後は樹里が努力したことだ","Haha, it's true that I did scout you but
-after that it was you who did the work."
+後は樹里が努力したことだ","Haha, it's true that I did scout you, but after that 
+it was you who did the work."
 6011001090150,樹里,"だとしても、アンタがいろいろ教えてくれたから
 続けられたんだ","Even if I did, you're the one that taught me
 everything I needed to keep going."
@@ -112,4 +112,4 @@ I promise."
 6011001090220,樹里,へへっ、頼りにしてるぜ,"Hehe, I'm counting on you."
 6011001090230,樹里,これからもよろしくな、プロデュ－サ－,"Thanks for sticking around, Producer."
 info,produce_events/601100109.json,
-Translator,,,Enzo and Mondo
+Translator,Enzo and Mondo,

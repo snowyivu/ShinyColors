@@ -22,12 +22,12 @@ meeting the other day."
 way..."
 0000000000000,プロデューサー,（それを気にしていて暗い顔をしていたのか……）,"(So she looked gloomy because she was worried about
 that...?)"
-0000000000000,プロデューサー,大丈夫だ、気にしてないよ,"It's fine, I'm not bothered about it."
+0000000000000,プロデューサー,大丈夫だ、気にしてないよ,"It's fine, I'm not too bothered about it."
 1002001020060,灯織,"……そうですか
 少し安心しました",...Really? I'm a bit relieved.
 1002001020070,灯織,"それと実は、今日の仕事は少し緊張していて……
 返事もちゃんとできなくて、すみません","Moreso, the truth is I'm a little nervous about
-today's work... sorry I didn't really respond properly."
+today's work... Sorry I didn't really respond properly."
 0000000000000,プロデューサー,そうか、緊張か……,So you're nervous...
 select,,"次は新しい現場
 だったな","The next site
@@ -44,17 +44,19 @@ your palm..."
 0000000000000,プロデューサー,（だいぶ不安を感じているようだな）,(She seems to be pretty anxious about this.)
 0000000000000,プロデューサー,"……よし、なら『10分前に次の現場に
 到着できたら仕事は成功する』これで行こう！","...Alright, then let's go with ""if we arrive there 10
-minutes early, we will succeed""!"
+minutes early, we will succeed!"""
 1002001020090,灯織,"……何ですか、急に
 話の意図が見えません",...What's this all of a sudden? I don't see the point of it.
 0000000000000,プロデューサー,"なに、マイルールっていうか
-即席のジンクスみたいなものだ","It's like a self-imposed rule, or rather like a lucky superstition."
+即席のジンクスみたいなものだ","It's like a self-imposed rule, or rather like a lucky
+superstition."
 1002001020100,灯織,ジンクス……,A superstition...
 0000000000000,プロデューサー,"ジンクスだって意外とバカにできないぞ？
 それだけで、なんだか大丈夫な気がしてくるもんだからな","You shouldn't trifle with superstitions, you know?
 You'll be okay if you have one."
 1002001020110,灯織,"……なるほど、わかりました
-では、それを叶えるためにも急ぎましょう","...I see, I understand. Then let's hurry so we can fulfill it's requirements."
+では、それを叶えるためにも急ぎましょう","...I see, I understand. Then let's hurry so we can
+fulfill its requirements."
 0000000000000,プロデューサー,"え？
 あ、ああ。そうだな……","Huh? Ah, yeah. That's right..."
 1002001020120,灯織,"プロデューサー？
@@ -66,13 +68,16 @@ You'll be okay if you have one."
 1002001020140,灯織,もともと、ジンクスとかはちょっと好きというか……,I kind of like things like superstitions already...
 0000000000000,プロデューサー,へえ……,Oh really...
 0000000000000,プロデューサー,"（てっきり非現実的だとバッサリ切られるかと
-思ったんだが……）","(I thought it'd be shut down instantly for being too unrealistic, but...)"
+思ったんだが……）","(I thought it'd be shut down instantly for being
+too unrealistic, but...)"
 0000000000000,プロデューサー,"（何から何までストイックというわけでは
 ないんだな……）",(It seems she's not stoic about everything...)
 0000000000000,プロデューサー,……って、待て灯織！　俺を置いていくな！,"...Hey, wait Hiori! Don't leave me behind!"
 1002001020150,灯織,"待ちません。今からでも10分前には間に合いますが
-念のためもっと早めの到着を目指します","I won't wait. We should be able to get there 10 minutes early, but just in case I'm trying to get there sooner."
-1002001020160,灯織,さあ、急ぎますよ、プロデューサー,"Now, let's hurry Producer."
+念のためもっと早めの到着を目指します","I won't wait. We should be able to get there ten 
+minutes early, but just in case I'm trying to get
+there sooner."
+1002001020160,灯織,さあ、急ぎますよ、プロデューサー,"Now, let's hurry, Producer."
 0000000000000,,//★選択肢②【まぁ、大丈夫だろう】,"//★選択肢②【Well, it'll be fine】"
 1002001020170,灯織,……根拠もないのに、どうして簡単に言えるんですか？,...How can you say so that easily with no basis?
 1002001020180,灯織,"お仕事なんですから
@@ -83,51 +88,66 @@ You'll be okay if you have one."
 0000000000000,プロデューサー,"でもな、俺も何の根拠もなく
 言ったわけじゃないぞ？","However, I'm not saying it with no basis at all."
 0000000000000,プロデューサー,"なにせ今朝のテレビの占いによると
-今日の俺の運勢は最高、仕事は成功間違いなしだからな！","On this morning's TV fortune-telling, my luck was the highest, so I'll definitely succeed at the job today!"
+今日の俺の運勢は最高、仕事は成功間違いなしだからな！","On this morning's TV fortune-telling, my luck
+was the highest, so I'll definitely succeed at the
+job today!"
 1002001020200,灯織,え？,Huh?
 0000000000000,プロデューサー,"俺の仕事の成功ってことは
-灯織の成功ってことでもあるからな、だから大丈……","My success at work affects your success too, so it'll be okay..."
+灯織の成功ってことでもあるからな、だから大丈……","My success at work affects your success too,
+so it'll be okay..."
 1002001020210,灯織,……本当ですか？,...Really?
 0000000000000,プロデューサー,"あ、ああ、本当だよ
-馬鹿にするかと思ったが、意外と食いつくんだな","Y-Yeah, really. I thought you'd make fun of me, but you're surprisingly into it."
+馬鹿にするかと思ったが、意外と食いつくんだな","Y-Yeah, really. I thought you'd make fun of me,
+but you're surprisingly into it."
 1002001020220,灯織,"すみません……今日の私の運勢は
 良くも悪くもなかったので……",I'm sorry... My luck today was average...
 0000000000000,プロデューサー,"へぇ、そうだったのか
 灯織も、占いとか見るんだな","Oh, really? So you check the fortune-telling too."
 1002001020230,灯織,はい。気づまりしたときなんかに時々、ですけど……,"Yes. When I feel uncomfortable, sometimes I look at it..."
 0000000000000,プロデューサー,"（呆れさせて肩の力を抜いてもらおうと
-思っただけなんだが……）",(I thought I'd surprise her and help her loosen some of the tension from her shoulders...)
+思っただけなんだが……）","(I thought I'd surprise her and help her loosen some
+of the tension from her shoulders...)"
 0000000000000,プロデューサー,"（思わぬところで、
-意外な灯織の一面を知ることができたな）",(I ended up learning something about Hiori I didn't expect to.)
+意外な灯織の一面を知ることができたな）","(I ended up learning something about Hiori I didn't
+expect to.)"
 1002001020240,灯織,"あの、プロデューサー。もう少し占いの話を
-うかがってもよろしいでしょうか？","Um, Producer. Is it okay if I ask you a bit more about fortune-telling?"
+うかがってもよろしいでしょうか？","Um, Producer. Is it okay if I ask you a bit more about
+fortune-telling?"
 0000000000000,プロデューサー,ああ、じゃあ歩きながら話そうか,"Yeah, let's talk about it while we walk."
 0000000000000,プロデューサー,"（結局、ただの気休めになってしまったが……
-ま、結果オーライだな）","(In the end, it ended up just giving her peace of mind... Well, it turned out alright.)"
+ま、結果オーライだな）","(In the end, it ended up just giving her peace of
+mind... Well, it turned out alright.)"
 0000000000000,,//★選択肢③【手のひらに人という字を……】,"//★選択肢③【Write the character for ""person"" in your palm...】"
 1002001020250,灯織,"３回書いて飲み込む、ですか？
-それはもうやりました",Draw three people and then eat them to lower my nervousness? I already tried that.
+それはもうやりました","Draw three people and then eat them to lower my
+nervousness? I already tried that."
 0000000000000,プロデューサー,なんだ、そうだったのか……って、え？,"So you did... Wait, what?"
 1002001020260,灯織,……何ですか？,...What is it?
 0000000000000,プロデューサー,"あ、いや。ジンクスに頼るなんて、
-よっぽど緊張しているんだなって……","Ah, no. I was just thinking that you must be very nervous to be relying on superstitions..."
+よっぽど緊張しているんだなって……","Ah, no. I was just thinking that you must be very
+nervous to be relying on superstitions..."
 1002001020270,灯織,……別に、緊張してるからというわけではないです,...It's not that I'm doing it just because I'm nervous.
 1002001020280,灯織,"占いとかジンクスとかなら
 普段から使っているというか……",I use fortune-telling and superstitions normally...
 0000000000000,プロデューサー,え？　普段からか？,Huh? Normally?
 1002001020290,灯織,はい……って何ですかその顔は？,Yes... What's with that expression?
 0000000000000,プロデューサー,"（いつも自分に厳しくて、冷静な子だとばかり
-思っていたが……）","(I thought she was always a strict and calm person, but...)"
+思っていたが……）","(I thought she was always a strict and calm
+person, but...)"
 0000000000000,プロデューサー,"（さっきの謝罪といい、ジンクスといい
-案外、不器用なところもあるんだな）",(She has awkward moments like her apology and the superstition too.)
+案外、不器用なところもあるんだな）","(She has awkward moments like her apology and
+the superstition too.)"
 1002001020300,灯織,"プロデューサー、
-いつまでしまらない顔をしているんですか","Producer, how long are you going to have that slack-jawed look on your face?"
+いつまでしまらない顔をしているんですか","Producer, how long are you going to have that
+slack-jawed look on your face?"
 1002001020310,灯織,"これから仕事だというのに
-気が緩んでいますよ！","Despite having more work after this, you're too relaxed!"
+気が緩んでいますよ！","Despite having more work after this, you're too
+relaxed!"
 0000000000000,プロデューサー,ああ、すまん、すまん,"Ah, sorry, sorry."
 1002001020320,灯織,もう……,Geez...
 0000000000000,プロデューサー,"（怒らせてしまったか……
-でも上手い具合に緊張はほぐれたようだ）",(It seems I made her mad... However I was able to get rid of her nervousness.)
+でも上手い具合に緊張はほぐれたようだ）","(It seems that I made her mad...
+However, I was able to get rid of her nervousness.)"
 0000000000000,プロデューサー,（……少しは、灯織との距離も近くなったかな？）,(...I think I got a bit closer to Hiori?)
 info,produce_events/100200102.json,
 Translator,,

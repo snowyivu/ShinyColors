@@ -228,7 +228,8 @@ W.I.N.G.編,W.I.N.G. Mode
 G.R.A.D.編,G.R.A.D. Mode
 Landing Point編,Landing Point Mode
 S.T.E.P.編,S.T.E.P. Mode
-"Say ""Halo""編","Say ""Halo"" Mode"
+"say ""Halo""編","say ""Halo"" Mode"
+"say ""Halo""用","say ""Halo"""
 共通,Common
 習得可能なスキルがありません,No Skills Available
 プロデュース選択,Produce Selection
@@ -513,7 +514,11 @@ Visualの上限値＋100,Visual Cap +100
 思い出増加量+5%/アピール値最大10%UP[思い出ージが多いほど効果UP],Memory Gauge+5%/Appeal Strength 10% UP [Higher at higher Memory Gauge]
 メンタリスト,Mentalist
 アピール値最大5%UP[メンタルが多いほど効果UP]/アピール値最大10%UP[メンタルが少ないほど効果UP],Appeal Strength 5% UP [Higher at higher Mental]/Appeal Strength 10% UP [Higher at lower Mental]
-メンタル回復量+,Mental Recovery+
+ロールモデル,Role Model
+スペシャリスト（ボーカル）,Specialist (Vocal)
+スペシャリスト（ダンス）,Specialist (Dance)
+スペシャリスト（ビジュアル）,Specialist (Visual)
+メンタル回復量＋,Mental Recovery+
 メンタル回復量5%UP,Increases Mental Recovery by 5%
 メンタル回復量-,Mental Recovery-
 メンタル回復量5%DOWN,Decreases Mental Recovery by 5%
@@ -521,7 +526,7 @@ Visualの上限値＋100,Visual Cap +100
 アピール値2~10％UP[思い出ゲージが多いほど効果UP],Appeal Strength 2~10％ UP [Higher at higher Memory Gauge]
 アピールUP（思い出低）,Appeal UP (Low Memory)
 アピール値4~20％UP[思い出ゲージが少ないほど効果UP],Appeal Strength 4~20％ UP [Higher at lower Memory Gauge]
-アピールUP（思い出高&低）," Appeal UP (High&Low Mem.)"
+アピールUP（思い出高＆低）," Appeal UP (High&Low Mem.)"
 アピール値最大5%UP[思い出ゲージが多いほど効果UP]/アピール値最大10%UP[思い出ゲージが少ないほど効果UP],Appeal Strength 5% UP [Higher at higher Memory Gauge]/Appeal Strength 10% UP [Higher at lower Memory Gauge]
 真乃×4,Mano×4
 櫻木真乃との絆,Bond with Mano
@@ -607,14 +612,58 @@ Visualの上限値＋100,Visual Cap +100
 はるき×4,Haruki×4
 郁田はるきとの絆,Bond with Haruki
 郁田はるきがユニットにいる場合、アピール値が＋5%UP,Appeal Strength +5% when Haruki is set in the unit
-基礎能力値UP（+3%）,Base Stat UP (+3%)
-基礎能力値UP（+6%）,Base Stat UP (+6%)
+基礎能力値UP（＋3%）,Base Stat UP (+3%)
+基礎能力値UP（＋6%）,Base Stat UP (+6%)
+打たれ弱い,Fainthearted
+打たれ強い,Unwavering
+思い出-（G.R.A.D.）,Memory- (G.R.A.D.)
+思い出＋（G.R.A.D.）,Memory+ (G.R.A.D.)
+思い出＋＋（G.R.A.D.）,Memory++ (G.R.A.D.)
 エキシビションマッチ,Exhibition Match
-エキシビションマッチ+,Exhibition Match+
-エキシビションマッチ++,Exhibition Match++
+エキシビションマッチ＋,Exhibition Match+
+エキシビションマッチ＋＋,Exhibition Match++
 ファン感謝祭クリア,Fan Fest Clear
-ファン感謝祭クリア+,Fan Fest Clear+
-ファン感謝祭クリア++,Fan Fest Clear++
+ファン感謝祭クリア＋,Fan Fest Clear+
+ファン感謝祭クリア＋＋,Fan Fest Clear++
+総合能力強化練習,Comprehensive Training
+歌唱力強化練習,Vocal Training
+歌唱力強化練習＋,Vocal Training+
+歌唱力強化練習＋＋,Vocal Training++
+安定感強化練習,Dance Training
+安定感強化練習＋,Dance Training+
+安定感強化練習＋＋,Dance Training++
+表現力強化練習,Visual Training
+表現力強化練習＋,Visual Training+
+表現力強化練習＋＋,Visual Training++
+みんなで休憩,Everyone Rest
+ボーカル効率相談,Vocal Room Discussion
+ダンス効率相談,Dance Room Discussion
+ビジュアル効率相談,Visual Room Discussion
+ラジオ効率相談,Radio Room Discussion
+トーク効率相談,Talk Show Discussion
+雑誌効率相談,Photoshoot Discussion
+施設効率相談,Room Discussion
+施設効率相談＋,Room Discussion
+ファーストライブ～Vocal～,First Live ~Vocal~
+ファイナルライブ～Vocal～,Final Live ~Vocal~
+ファイナルライブ～Vocal＋～,Final Live ~Vocal+~
+ファーストライブ～Dance～,First Live ~Dance~
+ファイナルライブ～Dance～,Final Live ~Dance~
+ファイナルライブ～Dance＋～,Final Live ~Dance+~
+ファーストライブ～Visual～,First Live ~Visual~
+ファイナルライブ～Visual～,Final Live ~Visual~
+ファイナルライブ～Visual＋～,Final Live ~Visual+~
+ファーストライブ～Leader～,First Live ~Leader~
+ファイナルライブ～Leader～,Final Live ~Leader~
+ファイナルライブ～Leader＋～,Final Live ~Leader+~
+ファーストライブ～Center～,First Live ~Center~
+ファイナルライブ～Center～,Final Live ~Center~
+ファイナルライブ～Center＋～,Final Live ~Center+~
+歌姫,Utahime
+プロダンサー,Pro Dancer
+トップモデル,Top Model
+リーダーシップ,Leadership
+カリスマ,Charisma
 プレゼントを貰いたい子を選択してください,Please select the idol to receive a gift from
 うん,Hmmm
 サマーキャンペーン2020特別ミッションを5個クリアしよう,Clear 5 Summer Campaign 2020 Special Missions
@@ -1673,24 +1722,24 @@ ch.配信スタジオ【マッチライブ専用】,Channel Distribution Studio 
 全アイドルのVocal基礎能力値+190【マッチライブ】,All Idols' Vocal Stat +190 [Match Live]
 全アイドルのVocal基礎能力値+200【マッチライブ】,All Idols' Vocal Stat +200 [Match Live]
 全アイドルのDance基礎能力値+20【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+30【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+40【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+50【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+60【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+70【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+80【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+90【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+100【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+110【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+120【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+130【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+140【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+150【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+160【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+170【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+180【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+190【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
-全アイドルのDance基礎能力値+200【マッチライブ】,All Idols' Dance Stat +20 [Match Live]
+全アイドルのDance基礎能力値+30【マッチライブ】,All Idols' Dance Stat +30 [Match Live]
+全アイドルのDance基礎能力値+40【マッチライブ】,All Idols' Dance Stat +40 [Match Live]
+全アイドルのDance基礎能力値+50【マッチライブ】,All Idols' Dance Stat +50 [Match Live]
+全アイドルのDance基礎能力値+60【マッチライブ】,All Idols' Dance Stat +60 [Match Live]
+全アイドルのDance基礎能力値+70【マッチライブ】,All Idols' Dance Stat +70 [Match Live]
+全アイドルのDance基礎能力値+80【マッチライブ】,All Idols' Dance Stat +80 [Match Live]
+全アイドルのDance基礎能力値+90【マッチライブ】,All Idols' Dance Stat +90 [Match Live]
+全アイドルのDance基礎能力値+100【マッチライブ】,All Idols' Dance Stat +100 [Match Live]
+全アイドルのDance基礎能力値+110【マッチライブ】,All Idols' Dance Stat +110 [Match Live]
+全アイドルのDance基礎能力値+120【マッチライブ】,All Idols' Dance Stat +120 [Match Live]
+全アイドルのDance基礎能力値+130【マッチライブ】,All Idols' Dance Stat +130 [Match Live]
+全アイドルのDance基礎能力値+140【マッチライブ】,All Idols' Dance Stat +140 [Match Live]
+全アイドルのDance基礎能力値+150【マッチライブ】,All Idols' Dance Stat +150 [Match Live]
+全アイドルのDance基礎能力値+160【マッチライブ】,All Idols' Dance Stat +160 [Match Live]
+全アイドルのDance基礎能力値+170【マッチライブ】,All Idols' Dance Stat +170 [Match Live]
+全アイドルのDance基礎能力値+180【マッチライブ】,All Idols' Dance Stat +180 [Match Live]
+全アイドルのDance基礎能力値+190【マッチライブ】,All Idols' Dance Stat +190 [Match Live]
+全アイドルのDance基礎能力値+200【マッチライブ】,All Idols' Dance Stat +200 [Match Live]
 全アイドルのVisual基礎能力値+20【マッチライブ】,All Idols' Visual +20 [Match Live]
 全アイドルのVisual基礎能力値+30【マッチライブ】,All Idols' Visual +30 [Match Live]
 全アイドルのVisual基礎能力値+40【マッチライブ】,All Idols' Visual +40 [Match Live]
@@ -1720,3 +1769,4 @@ Vocal基礎能力値+4【プロデュース】,Base Vocal Strength +4 [Produce]
 Dance基礎能力値+4【プロデュース】,Base Dance Strength +4 [Produce]
 Visual基礎能力値+4【プロデュース】,Base Visual Strength +4 [Produce]
 メンタル基礎能力値を+4【プロデュース】,Base Mental Strength +4 [Produce]
+,

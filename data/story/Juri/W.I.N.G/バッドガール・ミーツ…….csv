@@ -94,7 +94,7 @@ pass by... but nobody's jumping out at... hm?)"
 1011001010010,樹里,……,......
 0000000000000,プロデューサー,"（あの子、なんだか他の子とは違う雰囲気を感じる
 ひとりで歩いてるだけなのに不思議な風格があって……）","(That one over there has a whole different vibe from
-the other girls. She's just walking but there's
+the other girls. She's just walking, but there's
 something about the way she carries herself...)"
 0000000000000,プロデューサー,（まるで、孤高の狼みたいだな……）,(Just like a lone wolf...)
 0000000000000,プロデューサー,ねぇ君、ちょっといいかな？,"Hey you, got a second?"
@@ -150,8 +150,8 @@ Does anything about me say idol to you?"
 This is how I talk and it ain't classy..."
 1011001010130,樹里,"これでアイドルに向いてるって言われて
 信用しろって方が無理があんだろ","And then you expect me to believe you
-that this is what an idol looks like. Of course that's
-bull."
+that this is what an idol looks like. 
+Of course that's bull."
 0000000000000,プロデューサー,"そんなことない。雰囲気や喋り方は、ひとつの個性
 むしろアイドルとして魅力的だよ","Going to have to disagree. Your style and the way you
 talk have a lot of personality. That could be part of
@@ -166,10 +166,10 @@ Maybe I came on too strong and freaked her out.)"
 アタシのことアイドルらしくしてみろよ","...I gave you that much.
 So take your best shot at making me an idol."
 1011001010170,樹里,"ただし、アタシはアタシのやり方を
-変えるつもりはね－からな","But I've got my own way of doing things
+変えるつもりはね－からな","But I've got my own way of doing things,
 and I don't plan on changing it."
 0000000000000,プロデューサー,"……！
 ああ、これからよろしくな、樹里っ！","...!
 Of course. Welcome aboard, Juri!"
 info,produce_events/101100101.json,
-Translator,,,Enzo and Mondo
+Translator,Enzo and Mondo,

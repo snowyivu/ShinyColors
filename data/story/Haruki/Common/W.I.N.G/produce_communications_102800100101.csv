@@ -1,13 +1,12 @@
 id,name,text,trans
 0000000000000000,プロデューサー,"はるき、次の休みは
-どんなことするんだ？","Haruki, what are you doing on your next holiday?"
+どんなことするんだ？","Haruki, what are you doing on your next day off?"
 1028001001010010,はるき,"休み……！
-そうでした……","Next holiday...!
-That's right..."
+そうでした……","Next day off...!
+Now that you mention it..."
 1028001001010020,はるき,"忘れてたので
-何も考えてなかったですねぇ","I forgot about it.
-I didn't make any plans."
-1028001001010030,はるき,そうだ、プロデューサーさんに考えてもらおうかなぁ……！,"Right, Producer-san, let's think about it...!"
+何も考えてなかったですねぇ","I forgot about it, so I didn't make any plans."
+1028001001010030,はるき,そうだ、プロデューサーさんに考えてもらおうかなぁ……！,How about you suggest something for me...!
 select,,"外に出て日差しを
 浴びるとか","Soak up
 some sun."
@@ -21,8 +20,8 @@ home."
 いいですねぇ","Fufu.
 That sure is nice."
 1028001001010050,はるき,"やっぱり、思いっ切り
-羽を伸ばしたいですね～","I want to stretch my wings as far
-as possible after all～"
+羽を伸ばしたいですね～","I want to stretch my wings as far as possible
+after all～"
 0000000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1028001001010060,はるき,"それもいいですねぇ
 でも──","That's a good idea.

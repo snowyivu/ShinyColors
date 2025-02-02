@@ -15,11 +15,11 @@ I wish we could share what we see... with each other."
 2028003110060,はるき,"『モンブランティー』……！
 飲んでみたいなぁ……買ってきてもいいですか？","""Mont Blanc Tea""...!
 I'd like to try some... Can I buy some?"
-0000000000000,プロデューサー,もちろん,But of course.
+0000000000000,プロデューサー,もちろん,Of course.
 2028003110070,はるき,"すみません、モンブランティーひとつ……！
 と……","Excuse me, I'd like one Mont Blanc tea...!
 And..."
-0000000000000,プロデューサー,じゃあ、俺は、モンブランラテにしようかな,I'd like a Mont Blanc latte then please.
+0000000000000,プロデューサー,じゃあ、俺は、モンブランラテにしようかな,"I'd like a Mont Blanc latte then, please."
 2028003110080,はるき,ふふっ……！,Fufu...!
 0000000000000,店員,お待たせしました～,Thank you for waiting～
 2028003110090,はるき,"ありがとうございます……！
@@ -36,8 +36,8 @@ Are you siblings?"
 We don't look alike at all."
 0000000000000,プロデューサー,……！,...!
 0000000000000,店員,"いやいや、雰囲気似てますよ～
-紅葉、楽しんでくださいね！","Ah, no, no, you just seem close.
-Enjoy the autumn leaves, you two!"
+紅葉、楽しんでくださいね！","No way, you two have the same vibe～
+Enjoy the autumn leaves, okay?"
 0000000000000,プロデューサー,いやぁ、びっくりしたな……,"Phew, that gave me a scare..."
 2028003110120,はるき,まさか、兄妹と言われるなんて……,I never thought we'd be considered siblings...
 2028003110130,はるき,"ふふっ、でもプロデューサーさんに似てるなんて
@@ -45,8 +45,8 @@ Enjoy the autumn leaves, you two!"
 like you, Producer-san."
 0000000000000,プロデューサー,"そ、そうか？
 ありがとう……","R-Really?
-T-Thanks..."
-2028003110140,はるき,わたしと、『お兄ちゃん』は似てないんですよ～,"My ""Big Brother"" and I are nothing alike at all～"
+Thanks..."
+2028003110140,はるき,わたしと、『お兄ちゃん』は似てないんですよ～,"My ""big brother"" and I are nothing alike at all～"
 0000000000000,プロデューサー,"そうなのか？
 ──はるきのところ、仲良さそうだよな","You think so?
 ──You seem to get along pretty well."
@@ -64,7 +64,7 @@ competitive instead? Like that...?"
 I can't imagine that at all."
 2028003110190,はるき,"もっと同級生？　みたいな……
 感覚が近い、みたいな……","More like classmates? Sorta...
-It does feel like we're close..."
+Like we're close by each other..."
 2028003110200,はるき,"あっ、これはプロデューサーさんが
 幼いっていう意味じゃないですよ……！","Ah, this doesn't mean I consider you immature, 
 Producer-san...!"
@@ -75,29 +75,28 @@ Maybe you're the adult here, Haruki."
 わたしはプロデューサーさんと仲良くなれたでしょうか","...If we went to the same school, would I have been 
 able to become friends with you?"
 0000000000000,プロデューサー,"…………昔の俺じゃ、はるきのことを
-遠い存在のように感じていたかもしれない","...In the past, I might've felt that you were a distant 
-presence."
-0000000000000,プロデューサー,今だから出会えたんだって思うよ,I think it's only now that we've really met.
+遠い存在のように感じていたかもしれない","......The me in the past might've felt that you were a
+distant presence."
+0000000000000,プロデューサー,今だから出会えたんだって思うよ,I think it's only now that we could meet.
 2028003110220,はるき,…………,......
 2028003110230,はるき,"……そうですね
 そんな気がします","...Yes, that's what I think as well."
 2028003110240,はるき,"今だから、わたしはアイドルになって
-プロデューサーさんはプロデューサーさん、なんですよね","Now that I've become an idol, you're the producer, 
-right?"
+プロデューサーさんはプロデューサーさん、なんですよね","Because, it's right now that I've become an idol, and
+you're the producer, right?"
 2028003110250,はるき,"こうして紅葉を見て
-一緒に飲み物を飲んで","Looking at the autumn leaves.
-Drinking together."
-2028003110260,はるき,今のプロデューサーさんを、スケッチしたりして,I've made a sketch of the current you.
+一緒に飲み物を飲んで","We drank tea together while watching the
+autumn leaves..."
+2028003110260,はるき,今のプロデューサーさんを、スケッチしたりして,...and I've made a sketch of the current you.
 0000000000000,プロデューサー,────うん,──Yeah.
 2028003110270,はるき,"プロデューサーさんの絵……
-また描かせてもらってもいいですか？","Producer-san's drawing...
-Can I draw it again?"
+また描かせてもらってもいいですか？","May I draw you again, Producer-san?"
 0000000000000,プロデューサー,"もちろん
 ……俺でよければ","Of course.
 ...If it's okay with you."
 2028003110280,はるき,"今度は、違う表情で、角度で
 今しかない────","This time with a different expression and angle.
-It's now or never──"
-2028003110290,はるき,あなたを,This version of you.
+The very present──"
+2028003110290,はるき,あなたを,version of you.
 info,produce_events/202800311.json,
 Translator,Burbur,

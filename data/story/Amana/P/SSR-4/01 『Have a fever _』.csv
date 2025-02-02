@@ -11,11 +11,11 @@ work today!"
 great job☆!"
 0000000000000,プロデューサー,それはよかった,That's great to hear!
 0000000000000,プロデューサー,"けど、撮影期間長いから
-頑張りすぎないようにするんだぞ","But still, the filming period is long, so try not to push 
-yourself too hard."
+頑張りすぎないようにするんだぞ","But still, the filming period is long, so try not to
+push yourself too hard."
 0000000000000,プロデューサー,"少しでも調子が悪いと感じたら、
-すぐに言って──","If you ever feel even a bit under the weather, please 
-let me know right away."
+すぐに言って──","If you ever feel even a bit under the weather, 
+please let me know right away."
 0000000000000,プロデューサー,──寒くなってきたな──,It's getting a bit cold he—
 0000000000000,プロデューサー,──けほっ……！,—Ack...!
 2014009010040,甘奈,"……プロデューサーさん大丈夫？
@@ -24,8 +24,8 @@ quite a bit right now though..."
 0000000000000,プロデューサー,"朝はなんともなかったんだけどな……
 撮影中に冷えたのかも……","I felt fine this morning, but it was quite cold during 
 the shoot..."
-2014009010050,甘奈,じゃ、早く部屋に戻って──,"If that's the case, it might be best for you to take a 
-short break and wa—"
+2014009010050,甘奈,じゃ、早く部屋に戻って──,"If that's the case, it might be best for you to take
+a short break and wa—"
 0000000000000,プロデューサー,──ああ、あったかくするよ,"Yeah, I think I'll warm myself up a bit."
 2014009010060,甘奈,！　うん！,! Alright!
 0000000000000,プロデューサー,体調管理はしっかりしないといけないからな,I really need to take good care of my health.
@@ -36,8 +36,11 @@ Take care of yourself so your health will follow, okay?"
 あとでお医者さんのところにも行こ？","Ah, since we're talking about health, how about we
 visit the doctor to be safe?"
 select,,"医者
-苦手なんだよな",I'm not really a fan of doctor’s appointments.
-select,,そうだな……,Now that you've mentioned it...
+苦手なんだよな","I'm not really a
+fan of doctor’s
+appointments."
+select,,そうだな……,"Now that you
+mention it..."
 select,,"行ってくるよ
 だけど","Sure, but..."
 2014009010090,甘奈,そうなの……？,Is that so...?

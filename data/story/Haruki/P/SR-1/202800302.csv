@@ -4,7 +4,7 @@ id,name,text,trans
 Until we meet again..."
 0000000000000,プロデューサー,"あっ……じゃあ、寄らせてもらいます
 はい、場所なら一度見学させてもらったので──","Ah... I'll stop by.
-Yes, I've seen the place once before──"
+Yes, I've visited the place before──"
 0000000000000,プロデューサー,（確か……ここだよな）,(I'm sure... it's here.)
 0000000000000,プロデューサー,"（扉……開いてる
 すごく……静かだけど──）","(The door... It's open.
@@ -21,14 +21,14 @@ Wait just a little longer──"
 どうしてここに……！","Producer-san...!
 What brings you here...!"
 0000000000000,プロデューサー,"先生とお話ししてきたんだ
-そしたら、はるきが居残りして作業してるって聞いてさ","I was talking to the teacher and he told me that you 
-stayed behind to work."
+そしたら、はるきが居残りして作業してるって聞いてさ","I was talking to your teacher, and they told me 
+that you stayed behind to work."
 2028003020050,はるき,"えっ
 わたし、何かまずいことでも……！？","Eh?
-Did I do something wrong...?!"
+Am I in trouble...?!"
 0000000000000,プロデューサー,"いやいや、はるきのスケジュールとか状況を
-共有ってだけで心配はいらないよ","No, no. I was just sharing your schedule and situation.
-There's no need to worry."
+共有ってだけで心配はいらないよ","No, no. I was just sharing your schedule and how you
+are doing. There's no need to worry."
 2028003020060,はるき,"そうですか……
 よかったぁ","I see...
 That's a relief."
@@ -45,12 +45,13 @@ I'm going to get it off my face...!"
 まだまだ未完成ですよ……？","Wah... Uhm, it's...
 It's still a work in progress, I guess...?"
 0000000000000,プロデューサー,"…………話しかけて、ごめんな
-せっかく集中して作業してたのに","......Sorry for interrupting you.
-You were concentrated on your work."
+せっかく集中して作業してたのに","......Sorry for interrupting you when you were
+concentrated on your work."
 2028003020100,はるき,え？　そんな……,Eh? That's...
 0000000000000,プロデューサー,"この絵……もっとすごくなるのか
-できあがりが、楽しみだよ","I wonder... Can this painting can get even better?
-I'm looking forward to seeing the finished piece."
+できあがりが、楽しみだよ","I can't imagine how this painting is going to get even
+better... I'm looking forward to seeing the finished
+piece."
 2028003020110,はるき,……ありがとうございます,...Thank you very much.
 0000000000000,プロデューサー,"はるきが帰るところなら
 車で送っていこうかと思ったんだが────","I was thinking of giving you a ride home if that's 
@@ -82,14 +83,14 @@ in detail."
 絵を描くって……時間を止めることみたい","......
 Drawing something... is like stopping time."
 2028003020200,はるき,"でも……わたしは
-時間を止めたいわけじゃなくて──……","As for me...
-I don't want to stop time─..."
+時間を止めたいわけじゃなくて──……","But for me...
+I don't want it to stop──..."
 0000000000000,プロデューサー,"……窓の外を見ていればいいのか
 仕事のことでも、考えていればいいのか","...Should I just stare out the window or think about 
 work?"
 0000000000000,プロデューサー,何を考えてても、見透かされそうだ,"No matter what I think, it seems like she can see 
 through it."
-0000000000000,プロデューサー,諦めて、さらけ出すしか,I have no choice but to give up and show my true self.
+0000000000000,プロデューサー,諦めて、さらけ出すしか,I have no choice but to give up and lay bare.
 2028003020210,はるき,ん,Hm.
 0000000000000,プロデューサー,……！,...!
 2028003020220,はるき,"ごめんなさい
@@ -97,14 +98,14 @@ through it."
 I just made a small mistake..."
 0000000000000,プロデューサー,"ああ、俺の表情でも変わってたかと思ったよ
 それか、ゴミでもついてたかな、とか……","Right, I thought my expression had maybe changed, 
-or maybe there was some dirt on it."
+or maybe there was something on my face..."
 2028003020230,はるき,……ふふっ,...Fufu.
 2028003020240,はるき,"──撮影中の、アイドルの気分
-ちょっと味わえましたか？","──Did you get a taste of what it was like to be 
-an idol while the photoshoot was happening?"
+ちょっと味わえましたか？","──Did you get a taste of what it's like to be  an idol
+during a photoshoot?"
 0000000000000,プロデューサー,"……！
 いや、そこまでは……行かないと思うけど────","...!
-No, I don't think I got that, but──"
+No... I don't think I'm there yet, but──"
 0000000000000,プロデューサー,ちょっとだけ、近づいたような気もする,I do feel like I got a little closer.
 info,produce_events/202800302.json,
 Translator,Burbur,

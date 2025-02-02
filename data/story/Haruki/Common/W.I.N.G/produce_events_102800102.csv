@@ -1,7 +1,6 @@
 id,name,text,trans
 1028001020010,はるき,"プロデューサーさん
-お疲れ様です……！","Producer-san,
-good work...!"
+お疲れ様です……！","Good to see you, Producer-san...!"
 1028001020020,はるき,"えへへ、見られてると思うと
 ちょっと緊張しました……！","Ehehe, I get a bit nervous knowing you're 
 watching me...!"
@@ -9,16 +8,16 @@ watching me...!"
 たくさんの人に見られるんだぞ？","Haha, a lot of people are going to see you
 when you go on stage, you know?"
 0000000000000,プロデューサー,"──それに、はるきと会った時も
-大勢の人の前でステージに立ってたじゃないか","Besides, when I met you, you were on stage
-in front of a lot of people."
+大勢の人の前でステージに立ってたじゃないか","──Besides, when I met you, you were already doing
+so in front of a crowd."
 1028001020030,はるき,あ、そうでしたねぇ……,"Ah, you're right..."
 1028001020040,はるき,"でも、このダンスは未完成なので
-その時とはまた違うと言いますか……","But this dance isn't finished yet.
-I'd say it's different from then..."
+その時とはまた違うと言いますか……","But, my dance routine is nowhere near finished,
+so I'd say it's different from back then..."
 0000000000000,プロデューサー,"はるきは結構レッスンも入れてくれてるし
 その上自主練もたくさん……","You've done a lot of lessons, Haruki.
-On top of that, you also practice independantly."
-0000000000000,プロデューサー,その……学校やバンド活動の方は大丈夫なのか？,Are you doing okay in school and with the band?
+On top of that, you also practice independently..."
+0000000000000,プロデューサー,その……学校やバンド活動の方は大丈夫なのか？,Are you... doing okay in school and with the band?
 1028001020050,はるき,"……バンドの方は助っ人でしたし
 学校の部活も辞めました","... I was just helping in the band. I quit my school 
 club activities already."
@@ -28,8 +27,8 @@ club activities already."
 そうなのか──","...!
 I see..."
 0000000000000,プロデューサー,"へえ、長野出身か……
-高校からこっちに出てきてるんだな","Huh, so you've moved here from Nagano...
-So you've been coming here since high school."
+高校からこっちに出てきてるんだな","Huh, so you're from Nagano...
+I see that you moved here since high school."
 1028001020070,はるき,"はい
 いろんなことを吸収したくて……！","Yes. 
 I wanted to try a lot of things...!"
@@ -37,30 +36,32 @@ I wanted to try a lot of things...!"
 どれもまだまだなんですけど……","However, despite doing so, I haven't gotten far with 
 any of them..."
 0000000000000,プロデューサー,"──じゃあ、アイドルの方には
-興味があったわけじゃないのかな？","Then, you weren't particularly interested in idols?"
+興味があったわけじゃないのかな？","──Would you say that,
+you weren't particularly interested in idols?"
 1028001020090,はるき,は、はい,R-Right.
 1028001020100,はるき,"興味がないというより、
 その発想がなかったというか……","It's not that I wasn't interested,
 it was more that I didn't know of it..."
 1028001020110,はるき,"でも、先日イベントライブの後
-プロデューサーさんからアイドル勧められて──","But ever since I was scouted by you at the event 
+プロデューサーさんからアイドル勧められて──","But when I was scouted by you at the event 
 concert the other day──"
-1028001020120,はるき,『じゃあ、アイドルやろう！』って思ったんです,"I thought ""Let's become an Idol!"""
+1028001020120,はるき,『じゃあ、アイドルやろう！』って思ったんです,"I thought ""Let's become an idol, then!"""
 1028001020130,はるき,"……えっと、ごめんなさい
-こんな思いつきみたいな──","... Uhm, sorry.
-I kinda came up with the idea."
+こんな思いつきみたいな──","...Uhm, I'm sorry.
+It sounds like I decided on a whim──"
 1028001020140,はるき,"だけど、やるからにはわたし、
-全力でやりますから","But since I came up with it,
-I will do my absolute best."
+全力でやりますから","But if I'm going to do it,
+I will give my absolute best."
 1028001020150,はるき,プロデューサーさん？,Producer-san?
-0000000000000,プロデューサー,あぁ、すまん──,"Ah, sorry."
+0000000000000,プロデューサー,あぁ、すまん──,"Ah, sorry──"
 0000000000000,プロデューサー,"面接で言った通り、本当にこっちに
 打ちこんでくれてるなぁって思ってな","As I said during the interview,
 I think you're seriously committed to this."
 0000000000000,プロデューサー,ありがとうな、はるき,"Thank you, Haruki."
 1028001020160,はるき,えぇ、そんな……！,"Eh, no way...!"
 1028001020170,はるき,"──わたしも、アイドルのこと
-興味がなかったなんて……ごめんなさい",I'm so sorry... for not being interested in idols before.
+興味がなかったなんて……ごめんなさい","──I'm so sorry... for not having any prior interest
+in idols."
 1028001020180,はるき,すごく努力しないといけない世界なのに……,"I know it's a world where you have to work 
 really hard..."
 select,,好きになれるといいな,"I hope that
@@ -79,16 +80,16 @@ has yet to come."
 1028001020200,はるき,……じゃあ、わたしも,"... Then, I'll do my best too."
 1028001020210,はるき,そうなれるように、向き合っていきます,We'll face anything to make it possible.
 0000000000000,プロデューサー,"はるきはまっさらな心で
-アイドルのことを吸収していける","You have such a pure heart, Haruki.
-I bet you can learn anything about idols."
+アイドルのことを吸収していける","Because you can absorb the experience of being
+an idol with a fresh mind."
 0000000000000,プロデューサー,"現に、今だって
 一生懸命知ろうとしてくれてるだろ？","As a matter of fact,
-you're trying hard to find out, aren't you?"
+you're trying hard to learn right now, aren't you?"
 1028001020220,はるき,……！,......！
 1028001020230,はるき,"えへへ……
 そう言われるとうれしいです","Ehehe...
 I'm glad to hear that."
-1028001020240,はるき,……そっかぁ、まっさら……,"... I see, a pure heart..."
+1028001020240,はるき,……そっかぁ、まっさら……,"... I see, a fresh mind..."
 1028001020250,はるき,どんなふうになるでしょうねぇ,I wonder what it'll be like.
 0000000000000,プロデューサー,"はるきが興味を持って、
 楽しくアイドルをやっていけるように──","──So that you who has become interested in being 

@@ -1,8 +1,8 @@
 id,name,text,trans
 0000000000000,プロデューサー,おはよう。そのメモは……なんだ？,Good morning. That note... what is it?
 1002001000110010,灯織,"帰りに洗剤やお米を買うのを忘れないよう、
-メモをしていただけです","I just made myself a note so I don't forget to buy
-laundry detergent and rice on the way home."
+メモをしていただけです","I just made myself a note so that I don't forget to
+buy laundry detergent and rice on the way home."
 1002001000110020,灯織,家事は私が担当しているので,It's because I'm in charge of doing the housework.
 0000000000000,プロデューサー,"（どうりで、いろんな生活用品が
 ずらりと並んでるわけだ）","(That explains all the various home related items
@@ -16,7 +16,7 @@ select,,えらいな,That's admirable.
 1002001000110030,灯織,"そうかもしれません
 洗濯や掃除もやっていますし……","That might be true.
 I do the cleaning and laundry too..."
-1002001000110040,灯織,ずっとこうなので慣れてしまいました,It's always been like this so I got used to it.
+1002001000110040,灯織,ずっとこうなので慣れてしまいました,"It's always been like this, so I got used to it."
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1002001000110050,灯織,……お気遣いありがとうございます,...Thank you for your consideraton.
 1002001000110060,灯織,"でもただの役割ですから、

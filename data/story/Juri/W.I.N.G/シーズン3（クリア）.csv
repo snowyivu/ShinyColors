@@ -10,7 +10,7 @@ Actually, I really wasn't sure about this."
 0000000000000,プロデューサー,"おいおい、もっと自信を持っていいぞ
 樹里は精一杯やれることやってるからな","Whoa there, you can be a little more confident than
 that. You're doing everything to the best of your
-ability after all."
+ability, after all."
 7011001050030,樹里,"……アタシのこと、そうやって見てくれているのは
 悪い気しね－けどさ","...If that's the way you see me,
 I guess it doesn't feel too bad."
@@ -33,7 +33,7 @@ I'll be counting on you."
 how you're always, y'know."
 0000000000000,プロデューサー,それって？,What's that?
 7011001050090,樹里,"アンタが一緒に頑張ってくれたから、
-ここまで来れた……ってことだよ","You stuck by me this whole time so I was
+ここまで来れた……ってことだよ","You stuck by me this whole time, so I was
 able to get to this point... is what I mean."
 0000000000000,プロデューサー,"おお……
 樹里にそう言ってもらえるなんて、感慨深いな","Ohhh...
@@ -55,4 +55,4 @@ From here on, you could change even more."
 It's going to get tougher from now on, okay?"
 7011001050120,樹里,ああ、いくらでも付き合ってやるよ！,"Yeah, I'm down for whatever you throw at me!"
 info,produce_events/701100105.json,
-Translator,,,Enzo and Mondo
+Translator,Enzo and Mondo,
