@@ -3,7 +3,7 @@ images/ui/common/parts_buttons.json_image,common.parts_buttons.png,81
 images/ui/common/parts.json_image,common_parts.png,47
 images/ui/my_page/parts.json_image,my_page.parts.png,47
 images/ui/fes/parts.json_image,fes_parts.png,40
-images/ui/common/parts_icons.json_image,common_parts_icons.png,40
+images/ui/common/parts_icons.json_image,common_parts_icons.png,41
 images/ui/option/parts.json_image,ui_option_parts.png,29
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,25
@@ -78,7 +78,8 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,6
 images/ui/produce_action/parts_tab_3.json_image,parts_tab_3.png,2
 images/ui/training/parts.json_image,training_parts.png,10
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,13
-images/ui/common/parts_filter.json_image,common_filter.png,5
+images/ui/idol_list/parts_know_how_book.json_image,idol_list/parts_know_how_book.png,2
+images/ui/common/parts_filter.json_image,common_filter.png,6
 images/ui/start/parts.json_image,start_parts.png,13
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,12
 images/ui/fes/tension_check_title.png,tension_check_title.png,8
@@ -88,6 +89,9 @@ images/ui/fes_result/parts_new_record.json_image,fes_new_record.png,8
 images/ui/produce_ending/parts_fes_idol_birth.json_image,fes_idol_birth.png,10
 images/ui/game_event/parts.json_image,game_event.png,15
 images/ui/produce_idol_rank/parts_rank_up.json_image,rank_up.png,9
+images/ui/produce_reporter_event/parts_report_mail.json_image,produce_reporter_event/parts_report_mail.png,1
+images/content/beginner_missions/to_button/003.png,beginner_missions/to_button/003.png,1
+images/content/beginner_missions/to_button/003.png,beginner_missions/to_button/010.png,2
 images/content/gasha/bg/ce7fd45320926557c3c5164017348c1e_1001.jpg,1001.jpg,10
 images/content/gasha/title/ce7fd45320926557c3c5164017348c1e_1001.png,1001.png,9
 images/content/gasha/bg/95c85d7ca80bc5a79d504ff37dccf496_1013.jpg,1013.jpg,8
@@ -120,7 +124,7 @@ images/tips/training/002.jpg,tutorial/training_002.png,8
 images/tips/training/003.jpg,tutorial/training_003.png,8
 images/tips/training/004.jpg,tutorial/training_004.png,8
 images/tips/training/005.jpg,tutorial/training_005.png,9
-images/ui/gasha/parts_stamp_card.json_image,gasha_parts_stamp_card.png,11
+images/ui/gasha/parts_stamp_card.json_image,gasha_parts_stamp_card.png,12
 images/tips/concert/001.jpg,tutorial/concert_001.png,8
 images/tips/concert/002.jpg,tutorial/concert_002.png,8
 images/tips/concert/003.jpg,tutorial/concert_003.png,8
@@ -1106,11 +1110,11 @@ images/content/idols/name/b33eba6a8f900ae880730a304b44e702_1020280010.png,cards/
 images/content/idols/name/86f231ad9abbeef9751e98a553196825_1930280010.png,cards/haruki_p_r_2.png,1
 images/content/idols/name/bd56348f7b3d6dcef05ae54032349227_1940280010.png,cards/haruki_p_r_3.png,1
 images/content/support_idols/name/ff51a8a72d7fb7ece49120b7c74c6352_2020280010.png,cards/haruki_s_r_1.png,1
-images/ui/game_event/gradation/communication_base.json_image,communication_base.png,9
+images/ui/game_event/gradation/communication_base.png,communication_base.png,9
 images/ui/produce_ending/parts_ex_skill_and_knowhow_book_reward.json_image,produce_ending_parts_exskill_knowhow.png,2
 images/ui/produce_ending/parts_reward.json_image,produce_ending_parts_reward.png,14
 images/ui/mini_game/parts_mini_game_portal.json_image,parts_mini_game_portal.png,1
-images/ui/character_profile/parts.json_image,character_profile_parts.png,1
+images/ui/character_profile/parts.json_image,character_profile_parts.png,2
 images/ui/producer_birthday/parts.json_image,producer_birthday_parts.png,2
 images/ui/photo/parts.json_image,photo_parts.png,1
 images/ui/letter_from_idol/parts.json_image,letter_from_idol_parts.png,2

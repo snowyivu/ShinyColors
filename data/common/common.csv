@@ -501,11 +501,11 @@ Visualの上限値＋100,Visual Cap +100
 メンタル上限＋＋＋,Mental Limit+++
 メンタルの上限値＋100,Mental Cap +100
 ボーカルマスター,Vocal Mastery
-アピールフェイズ開始毎にVocalDOWNステータス効果を100％の確率で除去,100% Chance to remove VocalDOWN Effect at the start of each Appeal Phase
+アピールフェイズ開始毎にVocalDOWNステータス効果を100％の確率で除去,100% Chance to remove Vocal DOWN Effect at the start of each Appeal Phase
 ダンスマスター,Dance Mastery
-アピールフェイズ開始毎にDanceDOWNステータス効果を100％の確率で除去,100% Chance to remove DanceDOWN Effect at the start of each Appeal Phase
+アピールフェイズ開始毎にDanceDOWNステータス効果を100％の確率で除去,100% Chance to remove Dance DOWN Effect at the start of each Appeal Phase
 ビジュアルマスター,Visual Mastery
-アピールフェイズ開始毎にVisualDOWNステータス効果を100％の確率で除去,100% Chance to remove VisualDOWN Effect at the start of each Appeal Phase
+アピールフェイズ開始毎にVisualDOWNステータス効果を100％の確率で除去,100% Chance to remove Visual DOWN Effect at the start of each Appeal Phase
 パーフェクトリィ,Perfecthree
 すべてのアピール値が10％UP,All Appeal Strength 10％ UP
 スペシャリスト,Specialist
@@ -626,22 +626,22 @@ Visualの上限値＋100,Visual Cap +100
 ファン感謝祭クリア＋,Fan Fest Clear+
 ファン感謝祭クリア＋＋,Fan Fest Clear++
 総合能力強化練習,Comprehensive Training
-歌唱力強化練習,Vocal Training
-歌唱力強化練習＋,Vocal Training+
-歌唱力強化練習＋＋,Vocal Training++
-安定感強化練習,Dance Training
-安定感強化練習＋,Dance Training+
-安定感強化練習＋＋,Dance Training++
-表現力強化練習,Visual Training
-表現力強化練習＋,Visual Training+
-表現力強化練習＋＋,Visual Training++
-みんなで休憩,Everyone Rest
-ボーカル効率相談,Vocal Room Discussion
-ダンス効率相談,Dance Room Discussion
-ビジュアル効率相談,Visual Room Discussion
-ラジオ効率相談,Radio Room Discussion
-トーク効率相談,Talk Show Discussion
-雑誌効率相談,Photoshoot Discussion
+歌唱力強化\n練習,Vocal\nTraining
+歌唱力強化\n練習＋,Vocal\nTraining+
+歌唱力強化\n練習＋＋,Vocal\nTraining++
+安定感強化\n練習,Dance\nTraining
+安定感強化\n練習＋,Dance\nTraining+
+安定感強化\n練習＋＋,Dance\nTraining++
+表現力強化\n練習,Visual\nTraining
+表現力強化\n練習＋,Visual\nTraining+
+表現力強化\n練習＋＋,Visual\nTraining++
+みんなで休憩,Everyone\nRest
+ボーカル\n効率相談,Vocal Room\nDiscussion
+ダンス\n効率相談,Dance Room\nDiscussion
+ビジュアル\n効率相談,Visual Room\nDiscussion
+ラジオ\n効率相談,Radio Room\nDiscussion
+トーク\n効率相談,Talk Show\nDiscussion
+雑誌\n効率相談,Photoshoot\nDiscussion
 施設効率相談,Room Discussion
 施設効率相談＋,Room Discussion
 ファーストライブ～Vocal～,First Live ~Vocal~
@@ -1495,23 +1495,26 @@ Visual\nボーナスUP,Visual Pos.\nBonus UP
 2022バレンタイン スペシャルコミュ,2022 Valentine's Day Special Commu
 2023バレンタイン スペシャルコミュ,2023 Valentine's Day Special Commu
 2024バレンタイン スペシャルコミュ,2024 Valentine's Day Special Commu
+2025バレンタイン スペシャルコミュ,2025 Valentine's Day Special Commu
 2020ホワイトデー スペシャルコミュ,2020 White Day Special Commu
 2021ホワイトデー スペシャルコミュ,2021 White Day Special Commu
 2022ホワイトデー スペシャルコミュ,2022 White Day Special Commu
 2023ホワイトデー スペシャルコミュ,2023 White Day Special Commu
 2024ホワイトデー スペシャルコミュ,2024 White Day Special Commu
+2025ホワイトデー スペシャルコミュ,2025 White Day Special Commu
 2019アイドルからのイタズラ【目隠し】,2019 Tricks from the Idols [Blindfold]
 2020アイドルからのイタズラ【ささやき】,2020 Tricks from the Idols [Whispers]
 2021アイドルからのイタズラ【イタズラケーキ】,2021 Tricks from the Idols [Prank Cake]
 2022アイドルからのイタズラ【メリーさん】,2022 Tricks from the Idols [Mary-san]
 2023アイドルからのイタズラ【寝たふり】,2023 Tricks from the Idols [Pretend Nap]
 2024アイドルからのイタズラ【異世界ささやき(バイノーラル風)】,2024 Tricks from the Idols [Otherworldly Whispers (Binaural Style)]
+2025アイドルからのイタズラ,2025 Tricks from the Idols
 2019Xmas スペシャルコミュ,2019 Christmas Special Commu
 2020Xmas スペシャルコミュ,2020 Christmas Special Commu
 2021Xmas スペシャルコミュ,2021 Christmas Special Commu
 2022Xmas スペシャルコミュ,2022 Christmas Special Commu
 2023Xmas スペシャルコミュ,2023 Christmas Special Commu
-2024Xmas スペシャルコミュ,2024 Christmas Special Commu
+2024クリスマス飾り付け スペシャルコミュ,2024 Christmas Decorating Special Commu
 初心者ミッション,Beginner Missions
 W.I.N.G.攻略ミッション,W.I.N.G. Missions
 サポートアイドルを育てよう①,Raise Support Idols①
