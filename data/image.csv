@@ -2,21 +2,22 @@ name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,81
 images/ui/common/parts.json_image,common_parts.png,47
 images/ui/my_page/parts.json_image,my_page.parts.png,47
+images/ui/my_page/parts_pop_content_available.json_image,my_page/parts_pop_content_available.png,9
 images/ui/fes/parts.json_image,fes_parts.png,40
 images/ui/common/parts_icons.json_image,common_parts_icons.png,41
 images/ui/option/parts.json_image,ui_option_parts.png,29
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,25
 images/ui/concert/parts.json_image,concert_parts.png,26
-images/ui/gasha/parts.json_image,gasha_parts.png,32
+images/ui/gasha/parts.json_image,gasha/parts.png,33
 images/ui/gasha/parts_step_up.json_image,gasha_parts_step_up.png,55
 images/ui/gasha/parts_free_center_gasha_button.json_image,gasha_parts_free_center_gasha_button.png,4
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/produce_action/parts.json_image,produce_action.png,18
-images/ui/idol_list/parts.json_image,idol_list_parts.png,25
-images/ui/idol_detail/parts.json_image,idol_detail_parts.png,21
+images/ui/idol_list/parts.json_image,idol_list/parts.png,26
+images/ui/idol_detail/parts.json_image,idol_detail/parts.png,22
 images/ui/produce_common/parts_header.json_image,parts_header.png,16
-images/ui/produce_event/parts_event.json_image,parts_event.png,15
+images/ui/produce_event/parts_event.json_image,produce_event/parts.png,16
 images/ui/fes_result/parts_fes_match.json_image,fes_match.png,13
 images/ui/fes/fes_grade_reward_list.json_image,fes_grade_reward_list.png,2
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,13
@@ -67,7 +68,7 @@ images/ui/idol_portal/parts.json_image,idol_portal_parts.png,10
 images/ui/produce_commu/parts_commu.json_image,commu_parts.png,8
 images/ui/produce_common/parts_pyramid.json_image,parts_pyramid.png,8
 images/ui/produce_trend/parts.json_image,produce_trend.png,10
-images/ui/common/parts_skill_list.json_image,parts_skill_list.png,14
+images/ui/common/parts_skill_list.json_image,common/parts_skill_list.png,15
 images/ui/login_bonus/parts.json_image,login_bonus.png,9
 images/ui/produce_common/parts_hint.json_image,parts_hint.png,10
 images/ui/produce_common/parts_hint_pop.json_image,parts_hint_pop.png,3
@@ -78,11 +79,11 @@ images/ui/produce_deck/parts_deck_edit.json_image,parts_deck_edit.png,18
 images/ui/produce_action/parts_wing.json_image,parts_wing.png,6
 images/ui/produce_action/parts_tab_3.json_image,parts_tab_3.png,2
 images/ui/training/parts.json_image,training_parts.png,10
-images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,13
+images/ui/idol_list/parts_edit_mode.json_image,idol_list/parts_edit_mode.png,14
 images/ui/idol_list/parts_know_how_book.json_image,idol_list/parts_know_how_book.png,2
 images/ui/common/parts_filter.json_image,common_filter.png,6
 images/ui/start/parts.json_image,start_parts.png,13
-images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,12
+images/ui/idol_detail/parts_support.json_image,idol_detail/parts_support.png,12
 images/ui/fes/tension_check_title.png,tension_check_title.png,8
 images/ui/fes/tension_check_title_mask.png,tension_check_title_mask.png,8
 images/ui/produce_ending/parts_ceo_report.json_image,parts_ceo_report.png,8
@@ -137,7 +138,7 @@ images/tips/concert/008.jpg,tutorial/concert_008.png,8
 images/tips/concert/009.jpg,tutorial/concert_009.png,8
 images/ui/fes_result/parts.json_image,fes_result_parts.png,14
 images/ui/fes/fes_role_icons.json_image,fes_role_icons.png,10
-images/ui/gasha_result/parts.json_image,gasha_result.png,13
+images/ui/gasha_result/parts.json_image,gasha_result/parts.png,14
 images/ui/common/parts_shop_merchandise.json_image,parts_shop_merchandise.png,10
 images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,9
 images/ui/produce_ending/parts_fes_idol_birth_effect.json_image,fes_idol_birth_effect.png,9
@@ -147,7 +148,7 @@ images/ui/joint_fes_concert/parts.json_image,joint_fes_concert_parts.png,2
 images/ui/joint_fes_concert/parts_result.json_image,joint_fes_parts_results.png,2
 images/ui/joint_fes_ready/parts.json_image,joint_fes_ready_parts.png,2
 images/ui/joint_fes_rankings/parts.json_image,joint_fes_rankings_parts.png,2
-images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,15
+images/ui/idol_detail/parts_fes.json_image,idol_detail/parts_fes.png,16
 images/ui/game_event/gradation/game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
 images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,2
 images/tips/produce_step/action/001.jpg,tutorial/step_action_001.jpg,1
@@ -191,7 +192,7 @@ images/content/produce_area/button_l/002.png,button_l_002.png,3
 images/content/produce_area/button_l/004.png,button_l_004.png,2
 images/content/produces/filter_icon/004.png,produces_filter_icon_004.png,2
 images/content/produces/icon_l/004.png,produces_icon_l_004.png,2
-images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,13
+images/ui/shop/parts_currency_status.json_image,parts_currency_status.png,14
 images/ui/common/parts_item_content.json_image,item_content.png,4
 images/ui/skin_exchange/parts.json_image,skin_exchange.png,12
 images/ui/produce_action/parts_fan_meeting.json_image,parts_fan_meeting.png,5
@@ -327,7 +328,7 @@ images/ui/idol_road/parts.json_image,idol_road_parts.png,5
 images/tips/beginner_mission/001.jpg,tutorial/beginner_mission_001.jpg,3
 images/tips/beginner_mission/002.jpg,tutorial/beginner_mission_002.jpg,3
 images/ui/game_event/parts_icon.json_image,game_event_parts_icon.png,12
-images/ui/idol_detail/parts_trust.json_image,idol_detail_parts_trust.png,3
+images/ui/idol_detail/parts_trust.json_image,idol_detail/parts_trust.png,3
 images/ui/character_fan_ranking/parts.json_image,fan_ranking_parts.png,9
 images/ui/box_gasha/parts.json_image,box_gasha_parts.png,12
 images/tips/produce_grad/001.jpg,tutorial/grad_tutorial_001.png,2
@@ -348,7 +349,7 @@ images/ui/concert_result/parts_status.json_image,concert_result_status.png,9
 images/ui/produce_staff_assist_event/parts.json_image,staff_assist_event_parts.png,3
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,staff_assist_produce.png,3
 images/ui/init/parts.json_image,init_parts.png,12
-images/ui/gasha/parts_unit_select.json_image,gasha_parts_unit_select.png,7
+images/ui/gasha/parts_unit_select.json_image,gasha/parts_unit_select.png,8
 images/ui/init/parts_pop.json_image,init_parts_pop.png,13
 images/content/limit_break_skills/icon.json_image,limit_break.png,11
 images/ui/common/parts_idol_icon.json_image,parts_idol_icon.png,13
@@ -364,7 +365,7 @@ images/tips/true_end_teaching/deck_edit/tips_produce_item_vocal.jpg,tutorial/tru
 images/tips/true_end_teaching/deck_edit/tips_produce_item_visual.jpg,tutorial/true_end_tutorial_visual.png,4
 images/ui/true_end_teaching/produce/parts.json_image,true_end_produce_parts.png,4
 images/ui/produce_ending/parts_true_lesson.json_image,true_end_report.png,3
-images/ui/gasha/parts_provide_rate.json_image,gasha_parts_provide_rate.png,6
+images/ui/gasha/parts_provide_rate.json_image,gasha/parts_provide_rate.png,7
 images/ui/produce_idea_note/parts.json_image,idea_note_parts.png,5
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,3
 images/ui/character_album/parts.json_image,character_album_parts.png,10
@@ -372,6 +373,7 @@ images/ui/raid_result/parts.json_image,raid_result_parts.png,3
 images/content/ex_skills/icon.json_image,ex_skills.png,6
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,5
 images/ui/shop/parts_shop_content.json_image,shop_parts_content.png,17
+images/ui/shop/parts_monthly_passport.json_image,shop/parts_monthly_passport.png,13
 images/ui/gasha/parts_scout_ticket.json_image,gasha_parts_scout_ticket.png,7
 images/ui/mission/parts_common.json_image,mission_parts_common.png,2
 images/ui/joint_fes_stage_select/parts.json_image,joint_fes_stage_select_parts.png,1
@@ -614,7 +616,7 @@ images/ui/common/parts_filter_category.json_image,common_parts_filter_category.p
 images/ui/comic/parts.json_image,comic_parts.png,10
 images/ui/produce_action/parts_effect.json_image,produce_action_effect.png,14
 images/ui/produce_top/parts_produce_item_content.json_image,produce_top_item_content.png,10
-images/ui/cloth_change/content_parts.json_image,cloth_change_parts.png,10
+images/ui/cloth_change/content_parts.json_image,cloth_change/content_parts.png,11
 images/ui/concert/parts_pause.json_image,concert_parts_pause.png,13
 images/ui/concert_result/parts_fan_meeting.json_image,concert_result_parts_fan_meeting.png,3
 images/ui/produce_ending/parts_reward_trust.json_image,parts_reward_trust.png,5
@@ -622,7 +624,7 @@ images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png
 images/ui/home_deck/parts_bg_change_layer.json_image,home_deck_change_layer.png,3
 images/ui/music_select/parts.json_image,music_select.png,5
 base_got_date.png,base_got_date.png,3
-images/ui/twitter/parts.json_image,twitter_parts.png,5
+images/ui/twitter/parts.json_image,twitter_parts.png,6
 images/ui/profile/parts.json_image,profile_parts.png,5
 images/ui/title_setting/parts.json_image,title_setting_parts.png,10
 images/ui/gasha/parts_popup.json_image,gasha_parts_popup.png,11
@@ -1140,4 +1142,6 @@ images/ui/produce_ending/parts_skill_change.json_image,produce_ending/parts_skil
 images/ui/produce_temporary_unit_check/parts.json_image,produce_temporary_unit_check/parts.png,1
 images/ui/produce_invitation/parts.json_image,produce_invitation/parts.png,1
 images/content/characters/birthday_event_banner/007.png,birthday_event_banner/007.png,2
+images/content/characters/birthday_event_banner/016.png,birthday_event_banner/016.png,2
 images/content/characters/birthday_event_banner/026.png,birthday_event_banner/026.png,1
+images/content/characters/birthday_event_banner/028.png,birthday_event_banner/028.png,1

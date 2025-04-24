@@ -865,7 +865,7 @@ images/content/gasha/title/b28432941d5fec6037edb2de2d86788f_2972.png,2
 images/content/gasha/title/d3efb8ddf34c62946fa39216f521b393_5451.png,2
 images/content/gasha/title/f99f123cda6b0b457700ed7cc8043b19_2912.png,2
 images/content/gasha_tickets/icon/001.png,8
-images/content/gasha_tickets/icon/002.png,8
+images/content/gasha_tickets/icon/002.png,9
 images/content/gasha_tickets/icon/003.png,8
 images/content/gasha_tickets/icon/0100.png,3
 images/content/gasha_tickets/icon/014.png,8
@@ -1864,6 +1864,7 @@ images/content/produce_items/icon/10021.png,8
 images/content/produce_items/icon/10022.png,8
 images/content/produce_items/icon/10023.png,8
 images/content/produce_items/icon/c8ac3c08344a803e56b1793878a600f8_10023.png,9
+images/content/produce_items/icon/cfdeed1075f93a0596eb57d0a5cab63a_10203.png,9
 images/content/produce_items/icon/10025.png,2
 images/content/produce_items/icon/10036.png,1
 images/content/produce_items/icon/10037.png,1
@@ -1976,6 +1977,11 @@ images/content/produce_items/icon/402.png,8
 images/content/produce_items/icon/403.png,8
 images/content/produce_items/icon/403.png,8
 images/content/produce_items/icon/404.png,8
+images/content/produce_items/icon/2d91db25123045ff19517d890e079de4_10002.png,9
+images/content/produce_items/icon/1305398c5dea5800e21e7598a03474c5_10102.png,9
+images/content/produce_items/icon/ecdb7ff6fb55010e948d8256685d98d7_10103.png,9
+images/content/produce_items/icon/2bc1c647b7d353af942296c1ca04cccd_10202.png,9
+images/content/produce_items/icon/6d97b6b6a0fbbb4d2e5db398d81ea402_10503.png,9
 images/content/produce_items/icon/1aec38e66f366f824f3c3b4ef790589f_40012.png,1
 images/content/produce_items/icon/9486658cd9f00ceb7ff5d874772018f9_40013.png,1
 images/content/produce_items/icon/94d3830ebd108e37056ff8adb5e9ddf3_10312.png,4
@@ -2313,6 +2319,7 @@ images/content/produces/filter_icon/003.png,2
 images/content/produces/filter_icon/004.png,2
 images/content/produces/filter_icon/005.png,1
 images/content/produces/filter_icon/006.png,1
+images/content/quick_skills/icon.json_image,1
 images/content/recovery_items/icon/100.png,8
 images/content/recovery_items/icon/1001.png,2
 images/content/recovery_items/icon/1001.png,2
@@ -2574,6 +2581,7 @@ images/content/support_idols/card/3d75a788a7f953b1d9e1947a0004c42d_2040010070.jp
 images/content/support_idols/card/90703d77134924ff3eb459e8c81cecfd_2040030030.jpg,4
 images/content/support_idols/card/92c1afd2cd79930e115aa70602769b95_2040030070.jpg,2
 images/content/support_idols/card/d76a3655c51c33d63a43e35675d562f4_2030200030.jpg,1
+images/content/support_idols/card/f2bbb07f82f1fbfe2016764efa504571_2040910010.jpg,1
 images/content/support_idols/icon/025bc31147340e4b55baf50910325b8a_2020120010.png,8
 images/content/support_idols/icon/063ec74ff82ad8557c89db394550ac1e_2040010040.png,6
 images/content/support_idols/icon/08a5cec78dbc13db3c20fa6eeb33b6fd_2040070020.png,4
@@ -3300,7 +3308,7 @@ images/ui/select_login_bonus/seal_mask.png,3
 images/ui/select_login_bonus/seal_turn.png,3
 images/ui/select_login_bonus/touch.png,3
 images/ui/shop/parts_small_tab.json_image,3
-images/ui/shop/parts_small_tab_short.json_image,2
+images/ui/shop/parts_small_tab_short.json_image,3
 images/ui/skill_board/bg.jpg,7
 images/ui/skill_board/parts_produce_area_skill.json_image,3
 images/ui/survey/survey_base.png,1

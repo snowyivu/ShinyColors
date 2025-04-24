@@ -1,979 +1,1863 @@
-text,trans,type
-マニー,Money,
-マニー✕100,Money x100,
-対象のアイドルを選んで獲得できるチケットです,You can acquire an idol of your choice with this ticket.,
-使用時プロデュースアイドルのテンションが小アップします（プロデュース中3回まで使用可能）,"When activated, it will slightly increase your Produce Idol's Tension (usable up to 3 times during Produce).",
-ヒーリングタルト,Healing Tart,
-使用時プロデュースアイドルの体力が小回復します,"When activated, it will slightly increase your Produce Idol's Stamina.",
-ヒーリングタルト(2個入り),Healing Tart (2),
-ヒーリングタルト\n(2個入り),Healing Tart \n(2),
-使用時プロデュースアイドルの体力が小回復します(プロデュース中2回まで使用可能),"When activated, it will slightly increase your Produce Idol's Stamina (usable up to 2 times during Produce).",
-ヒーリングタルト\n(3個入り),Healing Tart \n(3),
-ヒーリングフルーツタルト,Healing Fruit Tart,
-使用時プロデュースアイドルの体力が中回復します,"When activated, it will somewhat increase your Produce Idol's Stamina.",
-ヒーリングフルーツタルト\n(2個入り),Healing Fruit Tart \n(2),
-ヒーリングフルーツタルト(2個入り),Healing Fruit Tart (2),
-ヒーリングフルーツタルト(3個入り),Healing Fruit Tart (3),
-ヒーリングフルーツタルト（2個入り）,Healing Fruit Tart  (2),
-使用時プロデュースアイドルの体力が中回復します(プロデュース中2回まで使用可能),"When activated, it will somewhat increase your Produce Idol's Stamina (usable up to 2 times during Produce).",
-使用時プロデュースアイドルの体力が中回復します（プロデュース中2回まで使用可能）,"When activated, it will somewhat increase your Produce Idol's Stamina (usable up to 2 times during Produce).",
-ヒーリングタルト(3個入り),Healing Fruit Tart (3),
-使用時プロデュースアイドルの体力が小回復します(プロデュース中3回まで使用可能),"When activated, it will somewhat increase your Produce Idol's Stamina (usable up to 3 times during Produce).",
-高級ヒーリングフルーツ\nタルト,Premium Healing Fruit \nTart,
-高級ヒーリングフルーツ\nタルト(2個入り),Premium Healing Fruit Tart (2),
-高級ヒーリングフルーツ\nタルト(3個入り),Premium Healing Fruit Tart (3),
-高級ヒーリングフルーツタルト(3個入り),Premium Healing Fruit Tart (3),
-使用時プロデュースアイドルの体力が大回復します(プロデュース中3回まで使用可能),When activated it will greatly increase your Produce Idol's Stamina (usable up to 3 times during Produce).,
-高級ヒーリングフルーツタルト,High Class Healing Tart,
-使用時プロデュースアイドルの体力が大回復します,"When activated, it will greatly increase your Produce Idol's Stamina.",
-高級ヒーリングフルーツタルト(2個入り),High Class Healing Tart (2),
-使用時プロデュースアイドルの体力が大回復します(プロデュース中2回まで使用可能),"When activated, it will greatly increase your Produce Idol's Stamina (usable up to 2 times during Produce).",
-高級ヒーリングフルーツタルト(3個入り),High Class Healing Tart (3),
-使用時プロデュースアイドルの体力が大回復します(プロデュース中3回まで使用可能),"When activated, it will greatly increase your Produce Idol's Stamina (usable up to 3 times during Produce).",
-イベントコミュ 第1話,Event Commu Chapter 1,
-高級な取材手帳,Reporter's Luxury Notebook,
-最終シーズンの残り３週までの間にランダムなタイミングで「記者登場イベント」が必ず発生します,Guarantees that a reporter will appear at a random timing no later than three weeks before the end of the final season.,
-敏腕記者の名刺,Competent Reporter's Business Card,
-「記者登場イベント」が発生した時、取材内容の選択肢に関わらず「敏腕記者」が必ず登場します,"Whenever a reporter appears they are guaranteed to be a competent reporter, regardless of the subject you select.",
-敏腕記者セット,Reporter's Set,
-はづきさんへの差し入れ,Treats for Hazuki,
-親愛のお守り,Affection Charm,
-最終シーズンの残り1週までの間に必ず1度「朝コミュ」が起こり、最初に「朝コミュ」か「約束」で親愛度が上昇した時「親愛度急上昇イベント」が必ず発生します,Guarantees a max affection event on the first morning commu or promise. At least 1 morning commu will occur before the end of the final season.,
-SSR特訓はづきさん,SSR Evolve Hazuki,Hazuki
-SR特訓はづきさん,SR Evolve Hazuki,Hazuki
-SSR特訓はづきさん\n（サポート）,SSR Evolve Hazuki \n(Support),Hazuki
-トワコレ限定アイドル、パラコレ限定アイドルを除く\nSSRのサポートアイドルを特訓します,Evolve a SSR Support Idol.\nExcludes TwiColle and ParaColle Support Idols.,Hazuki
-SSR特訓はづきさん\n（プロデュース）,SSR Evolve Hazuki \n(Produce),Hazuki
-トワコレ限定アイドル、パラコレ限定アイドルを除く\nSSRのプロデュースアイドルを特訓します,Evolve a SSR Produce Idol.\nExcludes TwiColle and ParaColle Produce Idols.,Hazuki
-SR特訓はづきさん\n（プロデュース）,SR Evolve \nHazuki (Produce),Hazuki
-SR特訓はづきさん\n（サポート）,SR Evolve \nHazuki (Support),Hazuki
-SSR最大特訓はづきさん（プロデュース）,SSR Special Evolve Hazuki (Produce),Hazuki
-SSR最大特訓はづきさん\n（プロデュース）,SSR Special \nEvolve Hazuki (Produce),Hazuki
+text,trans
+マニー,Money
+マニー✕100,Money x100
+フェザージュエル,Feather Jewels
+対象のアイドルを選んで獲得できるチケットです,You can acquire an idol of your choice with this ticket.
+使用時プロデュースアイドルのテンションが小アップします（プロデュース中3回まで使用可能）,"When activated, it will slightly increase your Produce Idol's Tension (usable up to 3 times during Produce)."
+ヒーリングタルト,Healing Tart
+使用時プロデュースアイドルの体力が小回復します,"When activated, it will slightly increase your Produce Idol's Stamina."
+ヒーリングタルト(2個入り),Healing Tart (2)
+ヒーリングタルト\n(2個入り),Healing Tart \n(2)
+使用時プロデュースアイドルの体力が小回復します(プロデュース中2回まで使用可能),"When activated, it will slightly increase your Produce Idol's Stamina (usable up to 2 times during Produce)."
+ヒーリングタルト\n(3個入り),Healing Tart \n(3)
+ヒーリングフルーツタルト,Healing Fruit Tart
+使用時プロデュースアイドルの体力が中回復します,"When activated, it will somewhat increase your Produce Idol's Stamina."
+ヒーリングフルーツタルト\n(2個入り),Healing Fruit Tart \n(2)
+ヒーリングフルーツタルト(2個入り),Healing Fruit Tart (2)
+ヒーリングフルーツタルト(3個入り),Healing Fruit Tart (3)
+ヒーリングフルーツタルト（2個入り）,Healing Fruit Tart  (2)
+使用時プロデュースアイドルの体力が中回復します(プロデュース中2回まで使用可能),"When activated, it will somewhat increase your Produce Idol's Stamina (usable up to 2 times during Produce)."
+使用時プロデュースアイドルの体力が中回復します（プロデュース中2回まで使用可能）,"When activated, it will somewhat increase your Produce Idol's Stamina (usable up to 2 times during Produce)."
+ヒーリングタルト(3個入り),Healing Fruit Tart (3)
+使用時プロデュースアイドルの体力が小回復します(プロデュース中3回まで使用可能),"When activated, it will somewhat increase your Produce Idol's Stamina (usable up to 3 times during Produce)."
+高級ヒーリングフルーツ\nタルト,Premium Healing Fruit \nTart
+高級ヒーリングフルーツ\nタルト(2個入り),Premium Healing Fruit Tart (2)
+高級ヒーリングフルーツ\nタルト(3個入り),Premium Healing Fruit Tart (3)
+高級ヒーリングフルーツタルト(3個入り),Premium Healing Fruit Tart (3)
+使用時プロデュースアイドルの体力が大回復します(プロデュース中3回まで使用可能),When activated it will greatly increase your Produce Idol's Stamina (usable up to 3 times during Produce).
+高級ヒーリングフルーツタルト,High Class Healing Tart
+使用時プロデュースアイドルの体力が大回復します,"When activated, it will greatly increase your Produce Idol's Stamina."
+高級ヒーリングフルーツタルト(2個入り),High Class Healing Tart (2)
+使用時プロデュースアイドルの体力が大回復します(プロデュース中2回まで使用可能),"When activated, it will greatly increase your Produce Idol's Stamina (usable up to 2 times during Produce)."
+高級ヒーリングフルーツタルト(3個入り),High Class Healing Tart (3)
+使用時プロデュースアイドルの体力が大回復します(プロデュース中3回まで使用可能),"When activated, it will greatly increase your Produce Idol's Stamina (usable up to 3 times during Produce)."
+イベントコミュ 第1話,Event Commu Chapter 1
+高級な取材手帳,Reporter's Luxury Notebook
+最終シーズンの残り３週までの間にランダムなタイミングで「記者登場イベント」が必ず発生します,Guarantees that a reporter will appear at a random timing no later than three weeks before the end of the final season.
+敏腕記者の名刺,Competent Reporter's Business Card
+「記者登場イベント」が発生した時、取材内容の選択肢に関わらず「敏腕記者」が必ず登場します,"Whenever a reporter appears they are guaranteed to be a competent reporter, regardless of the subject you select."
+敏腕記者セット,Reporter's Set
+はづきさんへの差し入れ,Treats for Hazuki
+親愛のお守り,Affection Charm
+最終シーズンの残り1週までの間に必ず1度「朝コミュ」が起こり、最初に「朝コミュ」か「約束」で親愛度が上昇した時「親愛度急上昇イベント」が必ず発生します,Guarantees a max affection event on the first morning commu or promise. At least 1 morning commu will occur before the end of the final season.
+SSR特訓はづきさん,SSR Evolve Hazuki
+SR特訓はづきさん,SR Evolve Hazuki
+SSR特訓はづきさん\n（サポート）,SSR Evolve Hazuki \n(Support)
+トワコレ限定アイドル、パラコレ限定アイドルを除く\nSSRのサポートアイドルを特訓します,Evolve a SSR Support Idol.\nExcludes TwiColle and ParaColle Support Idols.
+SSR特訓はづきさん\n（プロデュース）,SSR Evolve Hazuki \n(Produce)
+トワコレ限定アイドル、パラコレ限定アイドルを除く\nSSRのプロデュースアイドルを特訓します,Evolve a SSR Produce Idol.\nExcludes TwiColle and ParaColle Produce Idols.
+SR特訓はづきさん\n（プロデュース）,SR Evolve \nHazuki (Produce)
+SR特訓はづきさん\n（サポート）,SR Evolve \nHazuki (Support)
+SSR最大特訓はづきさん（プロデュース）,SSR Special Evolve Hazuki (Produce)
+SSR最大特訓はづきさん\n（プロデュース）,SSR Special \nEvolve Hazuki (Produce)
 "トワコレ限定アイドル、パラコレ限定アイドルを除く
 SSRのプロデュースアイドルを最大まで特訓します","Evolve a Produce Idol from 0 to 4 stars in one go.
-Excludes TwiColle and ParaColle limited Idols.",Hazuki
-SSR最大特訓はづきさん（サポート),SSR Special Evolve Hazuki (Support),Hazuki
-SSR最大特訓はづきさん\n（サポート),SSR Special \nEvolve Hazuki (Support),Hazuki
+Excludes TwiColle and ParaColle limited Idols."
+SSR最大特訓はづきさん（サポート),SSR Special Evolve Hazuki (Support)
+SSR最大特訓はづきさん\n（サポート),SSR Special \nEvolve Hazuki (Support)
 "トワコレ限定アイドル、パラコレ限定アイドルを除く
 SSRのサポートアイドルを最大まで特訓し、Lv.80(MAX)にします","Evolve a Support Idol from 0 to 4 stars in one go.
-Excludes TwiColle and ParaColle limited Idols.",Hazuki
-トワコレ特訓はづきさん（プロデュース）,TwiColle Hazuki (Produce),Hazuki
-トワイライツコレクション限定の\nSSRプロデュースアイドルを特訓します,Evolve a TwiColle exclusive Produce Idol.,Hazuki
-Anniversary特別トワコレ特訓はづきさん（プロデュース）,Anniversary Special\nTwiColle Hazuki (Produce),Hazuki
-トワイライツコレクション限定のSSRプロデュースアイドルを特訓します。使用期限があります,Evolve a TwiColle exclusive Produce Idol. Expires.,Hazuki
-トワコレ特訓はづきさん（サポート),TwiColle Hazuki (Support),Hazuki
-トワイライツコレクション限定の\nSSRサポートアイドルを特訓します,Evolve a TwiColle exclusive Support Idol.,Hazuki
-Anniversary特別トワコレ特訓はづきさん (サポート),Anniversary Special\nTwiColle Hazuki (Support),Hazuki
-トワイライツコレクション限定のSSRサポートアイドルを特訓します。使用期限があります,Evolve a TwiColle exclusive Support Idol. Expires.,Hazuki
-サポートアイドルのトレーニングに必要なチケットです\n【Exp:50】,A ticket required for support idol training\n【Exp:50】,EXP Ticket
-サポートアイドルのトレーニングに必要なチケットです\n【Exp:250】,A ticket required for support idol training\n【Exp:250】,EXP Ticket
-サポートアイドルのトレーニングに必要なチケットです\n【Exp:1000】,A ticket required for support idol training\n【Exp:1000】,EXP Ticket
-サポートアイドルのトレーニングに必要なチケットです\n【Exp:3000】,A ticket required for support idol training\n【Exp:3000】,EXP Ticket
-プロデュース中の失敗＆大失敗で発生するデメリットを1回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,Negates the disadvantages caused by failures and catastrophes. [TFD: Ideas are filled even when failures and catastrophes occur],
-プロデュース中の失敗＆大失敗で発生するデメリットを2回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,Negates the disadvantages caused by failures and catastrophes. [TFD: Ideas are filled even when failures and catastrophes occur],
-プロデュース開始時に親愛度+5、約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Start production with +5 Bond, and slightly increases promise chance. (Decreases each time a promise occurs, up to four times)",
-最終シーズンの残り４週までの間にランダムなタイミングで「はづきさんアシストイベント」が必ず発生します,"""Hazuki-san Assist Event"" will always occur randomly before the last 4 weeks of the final season.",
-283プロのキーホルダー,283Pro Keychain,
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が小アップします,Slightly increases all Support Idols' bond points.,
-283プロのタオル,283Pro Towel,
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が中アップします,Moderately increases all Support Idols' bond points.,
-283プロのTシャツ,283Pro T-Shirt,
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が大アップします,Greatly increases all Support Idols' bond points.,
-イルミネーションスターズのキーホルダー,illumination STARS Keychain,
-イルミネーションスターズ\nのキーホルダー,illumination STARS \nKeychain,
-イルミネーションスターズに所属しているサポートアイドルの絆が小アップします,Slightly increases illumination STARS Support Idols' bond points.,
-プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が小アップします,Slightly increases illumination STARS Support Idols' bond points at the start of production.,
-イルミネーションスターズのタオル,illumination STARS Towel,
-イルミネーションスターズ\nのタオル,illumination STARS \nTowel,
-イルミネーションスターズに所属しているサポートアイドルの絆が中アップします,Moderately increases illumination STARS Support Idols' bond points.,
-プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が中アップします,Moderately increases illumination STARS Support Idols' bond points at the start of production.,
-イルミネーションスターズのTシャツ,illumination STARS T-Shirt,
-イルミネーションスターズに所属しているサポートアイドルの絆が大アップします,Greatly increases Illumination STARS Support Idols' bond points.,
-プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が大アップします,Greatly increases Illumination STARS Support Idols' bond points at the start of production.,
-イルミネーションスターズの手作りおにぎり,illumination STARS Handmade Onigiri,
-アンティーカのキーホルダー,L'Antica Keychain,
-アンティーカの\nキーホルダー,L'Antica \nKeychain,
-アンティーカに所属しているサポートアイドルの絆が小アップします,Slightly increases L'Antica Support Idols' bond points.,
-プロデュース開始時にアンティーカに所属しているサポートアイドルの絆が小アップします,Slightly increases L'Antica Support Idols' bond points at the start of production.,
-アンティーカのタオル,L'Antica Towel,
-アンティーカに所属しているサポートアイドルの絆が中アップします,Moderately increases L'Antica Support Idols' bond points.,
-プロデュース開始時にアンティーカに所属しているサポートアイドルの絆が中アップします,Moderately increases L'Antica Support Idols' bond points at the start of production.,
-アンティーカのTシャツ,L'Antica T-Shirt,
-アンティーカに所属しているサポートアイドルの絆が大アップします,Greatly increases L'Antica Support Idols' bond points.,
-プロデュース開始時にアンティーカに所属しているサポートアイドルの絆が大アップします,Greatly increases L'Antica Support Idols' bond points at the start of production.,
-放課後クライマックスガールズのキーホルダー,Hokago Climax Girls Keychain,
-放課後クライマックス\nガールズのキーホルダー,Hokago Climax \nGirls Keychain,
-放課後クライマックスガールズに所属しているサポートアイドルの絆が小アップします,Slightly increases Hokago Climax Girls Support Idols' bond points.,
-プロデュース開始時に放課後クライマックスガールズに所属しているサポートアイドルの絆が小アップします,Slightly increases Hokago Climax Girls Support Idols' bond points at the start of production.,
-放課後クライマックスガールズのタオル,Hokago Climax Girls Towel,
-放課後クライマックス\nガールズのタオル,Hokago Climax \nGirls Towel,
-放課後クライマックスガールズに所属しているサポートアイドルの絆が中アップします,Moderately increases Hokago Climax Girls Support Idols' bond point.,
-プロデュース開始時に放課後クライマックスガールズに所属しているサポートアイドルの絆が中アップします,Moderately increases Hokago Climax Girls Support Idols' bond points at the start of production.,
-放課後クライマックスガールズのTシャツ,Hokago Climax Girls T-Shirt,
-放課後クライマックスガールズに所属しているサポートアイドルの絆が大アップします,Greatly increases Hokago Climax Girls Support Idols' bond points.,
-プロデュース開始時に放課後クライマックスガールズに所属しているサポートアイドルの絆が大アップします,Greatly increases Hokago Climax Girls Support Idols' bond points at the start of production.,
-詰め襟さまとブレザーくんキーホルダー,Tsumeeri-sama and Blazer-kun Keychain,
-アルストロメリアのキーホルダー,ALSTROEMERIA Keychain,
-アルストロメリアの\nキーホルダー,ALSTROEMERIA \nKeychain,
-アルストロメリアに所属しているサポートアイドルの絆が小アップします,Slightly increases ALSTROEMERIA Support Idols' bond points.,
-プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が小アップします,Slightly increases ALSTROEMERIA Support Idols' bond points at the start of production.,
-アルストロメリアのタオル,ALSTROEMERIA Towel,
-アルストロメリアに所属しているサポートアイドルの絆が中アップします,Moderately increases ALSTROEMERIA Support Idols' bond points.,
-プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が中アップします,Moderately increases ALSTROEMERIA Support Idols' bond points at the start of production.,
-アルストロメリアのTシャツ,ALSTROEMERIA T-Shirt,
-アルストロメリアに所属しているサポートアイドルの絆が大アップします,Greatly increases ALSTROEMERIA Support Idols' bond points.,
-プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が大アップします,Greatly increases ALSTROEMERIA Support Idols' bond points at the start of production.,
-ストレイライトのキーホルダー,Straylight Keychain,
-ストレイライトの\nキーホルダー,Straylight \nKeychain,
-ストレイライトに所属しているサポートアイドルの絆が小アップします,Slightly increases Straylight Support Idols' bond points.,
-プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が小アップします,Slightly increases Straylight Support Idols' bond points at the start of production.,
-ストレイライトのタオル,Straylight Towel,
-ストレイライトに所属しているサポートアイドルの絆が中アップします,Moderately increases Straylight Support Idols' bond points.,
-プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が中アップします,Moderately increases Straylight Support Idols' bond points at the start of production.,
-ストレイライトのTシャツ,Straylight T-Shirt,
-ストレイライトに所属しているサポートアイドルの絆が大アップします,Greatly increases Straylight Support Idols' bond points.,
-プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が大アップします,Greatly increases Straylight Support Idols' bond points at the start of production.,
-ノクチルのキーホルダー,noctchill Keychain,
-ノクチルの\nキーホルダー,noctchill\nKeychain,
-ノクチルに所属しているサポートアイドルの絆が小アップします,Slightly increases noctchill Support Idols' bond points.,
-プロデュース開始時にノクチルに所属しているサポートアイドルの絆が小アップします,Slightly increases noctchill Support Idols' bond points at the start of production.,
-ノクチルのタオル,noctchill Towel,
-ノクチルに所属しているサポートアイドルの絆が中アップします,Moderately increases noctchill Support Idols' bond points.,
-プロデュース開始時にノクチルに所属しているサポートアイドルの絆が中アップします,Moderately increases noctchill Support Idols' bond points at the start of production.,
-ノクチルのTシャツ,noctchill T-Shirt,
-ノクチルに所属しているサポートアイドルの絆が大アップします,Greatly increases noctchill Support Idols' bond points.,
-プロデュース開始時にノクチルに所属しているサポートアイドルの絆が大アップします,Greatly increases noctchill Support Idols' bond points at the start of production.,
-シーズのキーホルダー,SHHis Keychain,
-シーズの\nキーホルダー,SHHis\nKeychain,
-シーズに所属しているサポートアイドルの絆が小アップします,Slightly increases SHHis Support Idols' bond points.,
-プロデュース開始時にシーズに所属しているサポートアイドルの絆が小アップします,Slightly increases SHHis Support Idols' bond points at the start of production.,
-シーズのタオル,SHHis Towel,
-シーズに所属しているサポートアイドルの絆が中アップします,Moderately increases SHHis Support Idols' bond points.,
-プロデュース開始時にシーズに所属しているサポートアイドルの絆が中アップします,Moderately increases SHHis Support Idols' bond points at the start of production.,
-シーズのTシャツ,SHHis T-Shirt,
-シーズに所属しているサポートアイドルの絆が大アップします,Greatly increases SHHis Support Idols' bond points.,
-プロデュース開始時にシーズに所属しているサポートアイドルの絆が大アップします,Greatly increases SHHis Support Idols' bond points at the start of production.,
-コメティックのキーホルダー,CoMETIK Keychain,
-コメティックの\nキーホルダー,CoMETIK \nKeychain,
-コメティックに所属しているサポートアイドルの絆が小アップします,Slightly increases CoMETIK Support Idols' bond points.,
-プロデュース開始時にコメティックに所属しているサポートアイドルの絆が小アップします,Slightly increases CoMETIK Support Idols' bond points at the start of production.,
-コメティックのタオル,CoMETIK Towel,
-コメティックに所属しているサポートアイドルの絆が中アップします,Moderately increases CoMETIK Support Idols' bond points.,
-プロデュース開始時にコメティックに所属しているサポートアイドルの絆が中アップします,Moderately increases CoMETIK Support Idols' bond points at the start of production.,
-コメティックのTシャツ,CoMETIK T-Shirt,
-コメティックに所属しているサポートアイドルの絆が大アップします,Greatly increases CoMETIK Support Idols' bond points.,
-プロデュース開始時にコメティックに所属しているサポートアイドルの絆が大アップします,Greatly increases CoMETIK Support Idols' bond points at the start of production.,
-流行雑誌,Trend Magazine,
-使用時流行全てをランダムで変更します,Randomly change all trends when used,
-流行雑誌(2冊入り),Trend Magazine (2),
-使用時流行全てをランダムで変更します(プロデュース中2回まで使用可能),Randomly change all trends when used (Can use 2 times in a Produce Run),
-Vocal流行雑誌,Vocal Trend Magazine,
-使用時流行1位をVocalに変更し、2位3位はランダムで変更します,"When activated, the #1 trend will switch to Vocal, #2 and #3 will switch randomly.",
-Dance流行雑誌,Dance Trend Magazine,
-使用時流行1位をDanceに変更し、2位3位はランダムで変更します,"When activated, the #1 trend will switch to Dance, #2 and #3 will switch randomly.",
-Visual流行雑誌,Visual Trend Magazine,
-使用時流行1位をVisualに変更し、2位3位はランダムで変更します,"When activated, the #1 trend will switch to Visual, #2 and #3 will switch randomly.",
-予定変更付箋,Schedule Change Sticky Note,
-使用時サポートアイドルの配置をランダムで変更します,Randomly change the location of all Support Idols when used.,
-予定変更付箋(2個入り),Schedule Change Sticky Note (2),
-使用時サポートアイドルの配置をランダムで変更します(プロデュース中2回まで使用可能),Randomly change the location of all Support Idols when used (Can use 2 times in a Produce Run).,
-予定変更付箋(3個入り),Schedule Change Sticky Note (3),
-使用時サポートアイドルの配置をランダムで変更します(プロデュース中3回まで使用可能),Randomly change the location of all Support Idols when used (Can use 3 times in a Produce Run).,
-約束のコロン,Promise Cologne,
-プロデュース中の約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run slightly (decreases each time a promise occurs, up to four times).",
-約束のトワレ,Promise Toilette,
-プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to medium (decreases each time a promise occurs, up to four times).",
-約束のパルファム,Promise Perfume,
-プロデュース中の約束発生率を大アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to high (decreases each time a promise occurs, up to four times).",
-SSR確定ガシャチケット,SSR Guaranteed \nGacha Ticket,Gacha Ticket
-SSR確定ガシャが引けるチケットです,This ticket can be used to pull a guaranteed SSR card.,Gacha Ticket
-SSR確定Plusガシャチケット(1/10),SSR Guaranteed Plus Gacha Ticket (1/10),Gacha Ticket
-限定入りSSR確定ガシャチケット(1/10),Limited Included Guaranteed SSR Gacha Ticket (1/10),Gacha Ticket
-リカバリーソーダ30,Recovery Soda 30,
-スタミナが30回復します,Recovers 30 stamina when used.,
-リカバリーソーダ60,Recovery Soda 60,
-スタミナが60回復します,Recovers 60 stamina when used.,
-リカバリーソーダ100,Recovery Soda 100,
-スタミナが100回復します,Recovers 100 stamina when used.,
-フェスエントリーチケット,Fes Entry Ticket,
-フェス参加権が回復します,Restores one FES entry point.,
-フェス参加権が1回復します,Restores 1 FES Entry Point,
-フェスエントリーチケット5,5 Fes Entries Ticket,
-フェス参加権が5回復します,Restores five FES entry points.,
-コンティニューチケット,Continue Ticket,
-チケットを消費し、一部のライブをコンティニューすることができます,Allows one more retry at a live if used.,
-スキップチケット,Skip Ticket,
-オートプロデュースを1回分スキップするチケット,Lets you skip one Produce run in Auto Produce.,
-Lv.50チケット,Lv. 50 Ticket,
-プラチナトレーニングチケット,Platinum Training Ticket,
-ゴールドトレーニングチケット,Gold Training Ticket,
-シルバートレーニングチケット,Silver Training Ticket,
-ブロンズトレーニングチケット,Bronze Training Ticket,
-トレーニングチケット,Training Ticket,
-サポートアイドルのトレーニングに必要なチケットです,Ticket required to train Support Idols,
-DARS ミルク,DARS Milk,
-DARS 3フレーバーセット,DARS 3 Flavors Set,
-ナッシュのおべんとう,Nosh Meal Box,
-DARS ミルク-2023-,DARS Milk -2023-,
-DARS 4フレーバーセット,DARS 4 Flavors Set,
-プチテンションアロマ,Petit Tension Aroma,
-使用時プロデュースアイドルのテンションが小アップします,"When used, it will slightly increase your Produce Idol's Tension.",
-プチテンションアロマ\n(2個入り),Petit Tension Aroma \n(2),
-プチテンションアロマ(2個入り),Petit Tension \nAroma (2),
-使用時プロデュースアイドルのテンションが小アップします(プロデュース中2回まで使用可能),"When used, it will slightly increase your Produce Idol's Tension. (Usable up to 2 times during Produce).",
-プチテンションアロマ（3個入り）,Petit Tension Aroma (3),
-テンションアロマ,Tension Aroma,
-使用時プロデュースアイドルのテンションが中アップします,"When used, it will somewhat increase your Produce Idol's Tension.",
-テンションアロマ\n(2個入り),Tension Aroma \n(2),
-テンションアロマ(2個入り),Tension Aroma (2),
-使用時プロデュースアイドルのテンションが中アップします(プロデュース中2回まで使用可能),"When used, it will somewhat increase your Produce Idol's Tension. (Usable up to 2 times during Produce).",
-テンションアロマ\n(3個入り),Tension Aroma \n(3),
-テンションアロマ(3個入り),Tension Aroma (3),
-使用時プロデュースアイドルのテンションが中アップします(プロデュース中3回まで使用可能),"When used, it will somewhat increase your Produce Idol's Tension. (Usable up to 3 times during Produce).",
-テンションアロマグランデ(3個入り),Tension Aroma Grande (3),
-使用時プロデュースアイドルのテンションが大アップします(プロデュース中3回まで使田可能),"When used, it will greatly increase your Produce Idol's Tension. (Usable up to 3 times during Produce)",
-炎メシ（ホムラメシ）,Homurameshi,
-使用時プロデュースアイドルのテンションが大アップします,"When used, it will greatly increase your Produce Idol's Tension.",
-トラブル守り,Trouble Charm,
-プロデュース中の失敗＆大失敗で発生するデメリットを1回無効にします,"Will prevent disadvantages from Failure & Catastrophe during Produce once.【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】",
-トラブル守り(2個入り),Trouble Charm (2),
-トラブル守り（2個入り）,Trouble Charm (2),
-プロデュース中の失敗＆大失敗で発生するデメリットを2回無効にします,"Will prevent disadvantages from Failure & Catastrophe during Produce up to 2 times.【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】",
-トラブル守り(3個入り),Trouble Charm (3),
-プロデュース中の失敗＆大失敗で発生するデメリットを3回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,"Will prevent disadvantages from Failure & Catastrophe during Produce up to 3 times.【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】",
-秘密のメモ帳,Secret Notebook,
-プロデュース中に発生するコミュの選択後の結果を見えるようにします,Reveals the result of commu answers that occur during Produce.,
-アルバムの鍵,Album Key,
-イベントコミュを解放できるアイテムです,An item used to unlock an event commu.,
-アイドルコミュの鍵,Idol Commu Key,
-アイドルコミュを解放できるアイテムです,An item used to unlock an idol commu.,
-始まりのメッセージカード,Introductory Message Card,
-プロデュース開始時に親愛度＋5します,Start production with +5 Bond points.,
-金色のメッセージカード,Golden Message Card,
-虹色のメッセージカード,Rainbow Message Card,
-プロデュース開始時に親愛度＋15します,Start production with +15 Bond points.,
-283メモリーアルバム,283 Memory Album,
-プロデュース開始時に親愛度＋10します,Start production with +10 Bond.,
-ボーカル基礎知識本,Vocal Basic Knowledge Book,
-プロデュース開始時にVocal＋30します,Start production with +30 Vocal.,
-ボーカル応用知識本,Vocal Application Knowledge Book,
-プロデュース開始時にVocal＋60します,Start production with +60 Vocal.,
-ボーカル実践知識本,Vocal Practical Knowledge Book,
-プロデュース開始時にVocal＋90します,Start production with +90 Vocal.,
-ダンス基礎知識本,Dance Basic Knowledge Book,
-プロデュース開始時にDance＋30します,Start production with +30 Dance.,
-ダンス応用知識本,Dance Application Knowledge Book,
-プロデュース開始時にDance＋60します,Start production with +60 Dance.,
-ダンス実践知識本,Dance Practical Knowledge Book,
-プロデュース開始時にDance＋90します,Start production with +90 Dance.,
-ビジュアル基礎知識本,Visual Basic Knowledge Book,
-プロデュース開始時にVisual＋30します,Start production with +30 Visual.,
-ビジュアル応用知識本,Visual Application Knowledge Book,
-プロデュース開始時にVisual＋60します,Start production with +60 Visual.,
-ビジュアル実践知識本,Visual Practical Knowledge Book,
-プロデュース開始時にVisual＋90します,Start production with +90 Visual.,
-メンタル基礎知識本,Mental Basic Knowledge Book,
-プロデュース開始時にメンタル＋30します,Start production with +30 Mental.,
-スキル基礎知識本,Skill Basic Knowledge Book,
-プロデュース開始時にSP＋30します,Start production with +30 SP.,
-スキル応用知識本,Skill Application Knowledge Book,
-プロデュース開始時にSP＋60します,Start production with +60 SP.,
-スキル実践知識本,Skill Practical Knowledge Book,
-プロデュース開始時にSP＋90します,Start production with +90 SP.,
-SSR特訓はづきさん（プロデュース）,SSR Evolve Hazuki (Produce),
-SSRのプロデュースアイドルを特訓します[お1人様1つまで],Used to evolve an SSR Produce card. [Limit 1 per person],
-SSR特訓はづきさん（サポート）,SSR Evolve Hazuki (Support),
-SSRのサポートアイドルを特訓します[お1人様1つまで],Used to evolve an SSR Support card. [Limit 1 per person],
-SR特訓はづきさん（プロデュース）,SR Evolve Hazuki (Produce),
-SRのプロデュースアイドルを特訓します[お1人様3つまで],Used to evolve an SR Produce card. [Limit 3 per person],
-SR特訓はづきさん（サポート）,SR Evolve Hazuki (Support),
-SRのサポートアイドルを特訓します[お1人様3つまで],Used to evolve an SR Support card. [Limit 3 per person],
-モーニングコミュパン,Morning Commu Bread,
-プロデュース中、シーズン１に限り朝コミュ発生率を小アップします,Slightly increases the chance of getting a morning commu during Season 1 in Produce.,
-こんがりモーニングコミュパン,Toasted Morning Commu Bread,
-プロデュース中、シーズン１に限り朝コミュ発生率を中アップします,Increases the chance of getting a morning commu during Season 1 in Produce.,
-スペシャルモーニングコミュパン,Special Morning Commu Bread,
-プロデュース中、シーズン１に限り朝コミュ発生率を大アップします,Greatly increases the chance of getting a morning commu during Season 1 in Produce.,
-スペシャルモーニングセット,Special Morning Set,
-銅の羽根,Bronze Feather,
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が極小アップします,Slightly increases Support Idol in unit at the start of production's bond points.,
-プロデュース開始時に編成している全サポートアイドルの絆が極小アップします,Slightly increases all Support Idols' bond points.,
-銀の羽根,Silver Feather,
-プロデュース中の約束発生率を極小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run slightly. (Decreases each time a promise occurs, up to four times)",
-金の羽根,Gold Feather,
-プロデュース開始時に編成している全サポートアイドルの絆が極小アップし、プロデュース中の約束発生率を極小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases all Support Idols' bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)",
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が極小アップし、プロデュース中の約束発生率を極小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases Support Idol in unit at the start of production's bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)",
-プラチナの羽根,Platinum Feather,
-プロデュース開始時に編成している全サポートアイドルの絆が小アップし、プロデュース中の約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases all Support Idols' bond points, and increases promises chance during a run. (Decreases each time a promise occurs, up to four times)",
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が小アップし、プロデュース中の約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases Support Idol in unit at the start of production's bond points, and increases promises chance during a run. (Decreases each time a promise occurs, up to four times)",
-虹の羽根,Rainbow Feather,
-プロデュース開始時に編成している全サポートアイドルの絆が中アップし、プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases all Support Idols' bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)",
-プロデュース開始時にユニットに編成している全サポートアイドルの絆が中アップし、プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases Support Idol in unit at the start of production's bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)",
-お手製差し入れ,Handmade Goods,
-Exスキルスポイト,Ex Skill Dropper,OLD
-Exスキルを外す事ができるアイテムです,An item which can extract an Ex skill.,OLD
-オーバーキャストモノクローム交換チケット,Overcast Monochrome \nExchange Ticket,
-オーバーキャストモノクロームと交換できるチケットです,Used in the Overcast Monochrome Exchange Shop.,
-【オーバーキャストモノクローム】櫻木 真乃,[Overcast Monochrome] Mano,
-【オーバーキャストモノクローム】風野 灯織,[Overcast Monochrome] Hiori,
-【オーバーキャストモノクローム】八宮 めぐる,[Overcast Monochrome] Meguru,
-【オーバーキャストモノクローム】月岡 恋鐘,[Overcast Monochrome] Kogane,
-【オーバーキャストモノクローム】田中 摩美々,[Overcast Monochrome] Mamimi,
-【オーバーキャストモノクローム】白瀬 咲耶,[Overcast Monochrome] Sakuya,
-【オーバーキャストモノクローム】三峰 結華,[Overcast Monochrome] Yuika,
-【オーバーキャストモノクローム】幽谷 霧子,[Overcast Monochrome] Kiriko,
-【オーバーキャストモノクローム】小宮 果穂,[Overcast Monochrome] Kaho,
-【オーバーキャストモノクローム】園田 智代子,[Overcast Monochrome] Chiyoko,
-【オーバーキャストモノクローム】西城 樹里,[Overcast Monochrome] Juri,
-【オーバーキャストモノクローム】杜野 凛世,[Overcast Monochrome] Rinze,
-【オーバーキャストモノクローム】有栖川 夏葉,[Overcast Monochrome] Natsuha,
-【オーバーキャストモノクローム】大崎 甘奈,[Overcast Monochrome] Amana,
-【オーバーキャストモノクローム】大崎 甜花,[Overcast Monochrome] Tenka,
-【オーバーキャストモノクローム】桑山 千雪,[Overcast Monochrome] Chiyuki,
-【オーバーキャストモノクローム】芹沢 あさひ,[Overcast Monochrome] Asahi,
-【オーバーキャストモノクローム】黛 冬優子,[Overcast Monochrome] Fuyuko,
-【オーバーキャストモノクローム】和泉 愛依,[Overcast Monochrome] Mei,
-【オーバーキャストモノクローム】浅倉 透,[Overcast Monochrome] Toru,
-【オーバーキャストモノクローム】樋口 円香,[Overcast Monochrome] Madoka,
-【オーバーキャストモノクローム】福丸 小糸,[Overcast Monochrome] Koito,
-【オーバーキャストモノクローム】市川 雛菜,[Overcast Monochrome] Hinana,
-【オーバーキャストモノクローム】七草 にちか,[Overcast Monochrome] Nichika,
-【オーバーキャストモノクローム】緋田 美琴,[Overcast Monochrome] Mikoto,
-【オーバーキャストモノクローム】斑鳩 ルカ,[Overcast Monochrome] Luca,DOES NOT EXIST YET
-【オーバーキャストモノクローム】鈴木 羽那,[Overcast Monochrome] Hana,DOES NOT EXIST YET
-【オーバーキャストモノクローム】郁田 はるき,[Overcast Monochrome] Haruki,DOES NOT EXIST YET
-サンセットスカイパッセージ衣装チケット,Sunset Sky Passage Exchange Ticket,
-サンセットスカイパッセージと交換できるチケットです,Used in the Sunset Sky Passage Exchange Shop.,
-【サンセットスカイパッセージ】櫻木 真乃,[Sunset Sky Passage] Mano,
-【サンセットスカイパッセージ】風野 灯織,[Sunset Sky Passage] Hiori,
-【サンセットスカイパッセージ】八宮 めぐる,[Sunset Sky Passage] Meguru,
-【サンセットスカイパッセージ】月岡 恋鐘,[Sunset Sky Passage] Kogane,
-【サンセットスカイパッセージ】田中 摩美々,[Sunset Sky Passage] Mamimi,
-【サンセットスカイパッセージ】白瀬 咲耶,[Sunset Sky Passage] Sakuya,
-【サンセットスカイパッセージ】三峰 結華,[Sunset Sky Passage] Yuika,
-【サンセットスカイパッセージ】幽谷 霧子,[Sunset Sky Passage] Kiriko,
-【サンセットスカイパッセージ】小宮 果穂,[Sunset Sky Passage] Kaho,
-【サンセットスカイパッセージ】園田 智代子,[Sunset Sky Passage] Chiyoko,
-【サンセットスカイパッセージ】西城 樹里,[Sunset Sky Passage] Juri,
-【サンセットスカイパッセージ】杜野 凛世,[Sunset Sky Passage] Rinze,
-【サンセットスカイパッセージ】有栖川 夏葉,[Sunset Sky Passage] Natsuha,
-【サンセットスカイパッセージ】大崎 甘奈,[Sunset Sky Passage] Amana,
-【サンセットスカイパッセージ】大崎 甜花,[Sunset Sky Passage] Tenka,
-【サンセットスカイパッセージ】桑山 千雪,[Sunset Sky Passage] Chiyuki,
-【サンセットスカイパッセージ】芹沢 あさひ,[Sunset Sky Passage] Asahi,
-【サンセットスカイパッセージ】黛 冬優子,[Sunset Sky Passage] Fuyuko,
-【サンセットスカイパッセージ】和泉 愛依,[Sunset Sky Passage] Mei,
-【サンセットスカイパッセージ】浅倉 透,[Sunset Sky Passage] Toru,
-【サンセットスカイパッセージ】樋口 円香,[Sunset Sky Passage] Madoka,
-【サンセットスカイパッセージ】福丸 小糸,[Sunset Sky Passage] Koito,
-【サンセットスカイパッセージ】市川 雛菜,[Sunset Sky Passage] Hinana,
-【サンセットスカイパッセージ】七草 にちか,[Sunset Sky Passage] Nichika,
-【サンセットスカイパッセージ】緋田 美琴,[Sunset Sky Passage] Mikoto,
-【サンセットスカイパッセージ】斑鳩 ルカ,[Sunset Sky Passage] Luca,DOES NOT EXIST YET
-【サンセットスカイパッセージ】鈴木 羽那,[Sunset Sky Passage] Hana,DOES NOT EXIST YET
-【サンセットスカイパッセージ】郁田 はるき,[Sunset Sky Passage] Haruki,DOES NOT EXIST YET
-ユナイトバースプラネタリ衣装チケット,Uniteverse Planetary Exchange Ticket,
-ユナイトバースプラネタリと交換できるチケットです,Used in the Uniteverse Planetary Exchange Shop.,
-【ユナイトバースプラネタリ】櫻木 真乃,[Uniteverse Planetary] Mano,
-【ユナイトバースプラネタリ】風野 灯織,[Uniteverse Planetary] Hiori,
-【ユナイトバースプラネタリ】八宮 めぐる,[Uniteverse Planetary] Meguru,
-【ユナイトバースプラネタリ】月岡 恋鐘,[Uniteverse Planetary] Kogane,
-【ユナイトバースプラネタリ】田中 摩美々,[Uniteverse Planetary] Mamimi,
-【ユナイトバースプラネタリ】白瀬 咲耶,[Uniteverse Planetary] Sakuya,
-【ユナイトバースプラネタリ】三峰 結華,[Uniteverse Planetary] Yuika,
-【ユナイトバースプラネタリ】幽谷 霧子,[Uniteverse Planetary] Kiriko,
-【ユナイトバースプラネタリ】小宮 果穂,[Uniteverse Planetary] Kaho,
-【ユナイトバースプラネタリ】園田 智代子,[Uniteverse Planetary] Chiyoko,
-【ユナイトバースプラネタリ】西城 樹里,[Uniteverse Planetary] Juri,
-【ユナイトバースプラネタリ】杜野 凛世,[Uniteverse Planetary] Rinze,
-【ユナイトバースプラネタリ】有栖川 夏葉,[Uniteverse Planetary] Natsuha,
-【ユナイトバースプラネタリ】大崎 甘奈,[Uniteverse Planetary] Amana,
-【ユナイトバースプラネタリ】大崎 甜花,[Uniteverse Planetary] Tenka,
-【ユナイトバースプラネタリ】桑山 千雪,[Uniteverse Planetary] Chiyuki,
-【ユナイトバースプラネタリ】芹沢 あさひ,[Uniteverse Planetary] Asahi,
-【ユナイトバースプラネタリ】黛 冬優子,[Uniteverse Planetary] Fuyuko,
-【ユナイトバースプラネタリ】和泉 愛依,[Uniteverse Planetary] Mei,
-【ユナイトバースプラネタリ】浅倉 透,[Uniteverse Planetary] Toru,
-【ユナイトバースプラネタリ】樋口 円香,[Uniteverse Planetary] Madoka,
-【ユナイトバースプラネタリ】福丸 小糸,[Uniteverse Planetary] Koito,
-【ユナイトバースプラネタリ】市川 雛菜,[Uniteverse Planetary] Hinana,
-【ユナイトバースプラネタリ】七草 にちか,[Uniteverse Planetary] Nichika,
-【ユナイトバースプラネタリ】緋田 美琴,[Uniteverse Planetary] Mikoto,
-【ユナイトバースプラネタリ】斑鳩 ルカ,[Uniteverse Planetary] Luca,DOES NOT EXIST YET
-【ユナイトバースプラネタリ】鈴木 羽那,[Uniteverse Planetary] Hana,DOES NOT EXIST YET
-【ユナイトバースプラネタリ】郁田 はるき,[Uniteverse Planetary] Haruki,DOES NOT EXIST YET
-セレスティアルカラーズ衣装チケット,Celestial Colors Exchange Ticket,
-セレスティアルカラーズと交換できるチケットです,Used in the Celestial Colors Exchange Shop.,
-【セレスティアルカラーズ】櫻木 真乃,[Celestial Colors] Mano,
-【セレスティアルカラーズ】風野 灯織,[Celestial Colors] Hiori,
-【セレスティアルカラーズ】八宮 めぐる,[Celestial Colors] Meguru,
-【セレスティアルカラーズ】月岡 恋鐘,[Celestial Colors] Kogane,
-【セレスティアルカラーズ】田中 摩美々,[Celestial Colors] Mamimi,
-【セレスティアルカラーズ】白瀬 咲耶,[Celestial Colors] Sakuya,
-【セレスティアルカラーズ】三峰 結華,[Celestial Colors] Yuika,
-【セレスティアルカラーズ】幽谷 霧子,[Celestial Colors] Kiriko,
-【セレスティアルカラーズ】小宮 果穂,[Celestial Colors] Kaho,
-【セレスティアルカラーズ】園田 智代子,[Celestial Colors] Chiyoko,
-【セレスティアルカラーズ】西城 樹里,[Celestial Colors] Juri,
-【セレスティアルカラーズ】杜野 凛世,[Celestial Colors] Rinze,
-【セレスティアルカラーズ】有栖川 夏葉,[Celestial Colors] Natsuha,
-【セレスティアルカラーズ】大崎 甘奈,[Celestial Colors] Amana,
-【セレスティアルカラーズ】大崎 甜花,[Celestial Colors] Tenka,
-【セレスティアルカラーズ】桑山 千雪,[Celestial Colors] Chiyuki,
-【セレスティアルカラーズ】芹沢 あさひ,[Celestial Colors] Asahi,
-【セレスティアルカラーズ】黛 冬優子,[Celestial Colors] Fuyuko,
-【セレスティアルカラーズ】和泉 愛依,[Celestial Colors] Mei,
-【セレスティアルカラーズ】浅倉 透,[Celestial Colors] Toru,
-【セレスティアルカラーズ】樋口 円香,[Celestial Colors] Madoka,
-【セレスティアルカラーズ】福丸 小糸,[Celestial Colors] Koito,
-【セレスティアルカラーズ】市川 雛菜,[Celestial Colors] Hinana,
-【セレスティアルカラーズ】七草 にちか,[Celestial Colors] Nichika,
-【セレスティアルカラーズ】緋田 美琴,[Celestial Colors] Mikoto,
-【セレスティアルカラーズ】斑鳩 ルカ,[Celestial Colors] Luca,DOES NOT EXIST YET
-【セレスティアルカラーズ】鈴木 羽那,[Celestial Colors] Hana,DOES NOT EXIST YET
-【セレスティアルカラーズ】郁田 はるき,[Celestial Colors] Haruki,DOES NOT EXIST YET
-フローウィングベル衣装チケット,Flowing Bhelle Exchange Ticket,
-フローウィングベルと交換できるチケットです,Used in the Flowing Bhelle Exchange Shop.,
-【フローウィングベル】櫻木 真乃,[Flowing Bhelle] Mano,
-【フローウィングベル】風野 灯織,[Flowing Bhelle] Hiori,
-【フローウィングベル】八宮 めぐる,[Flowing Bhelle] Meguru,
-【フローウィングベル】月岡 恋鐘,[Flowing Bhelle] Kogane,
-【フローウィングベル】田中 摩美々,[Flowing Bhelle] Mamimi,
-【フローウィングベル】白瀬 咲耶,[Flowing Bhelle] Sakuya,
-【フローウィングベル】三峰 結華,[Flowing Bhelle] Yuika,
-【フローウィングベル】幽谷 霧子,[Flowing Bhelle] Kiriko,
-【フローウィングベル】小宮 果穂,[Flowing Bhelle] Kaho,
-【フローウィングベル】園田 智代子,[Flowing Bhelle] Chiyoko,
-【フローウィングベル】西城 樹里,[Flowing Bhelle] Juri,
-【フローウィングベル】杜野 凛世,[Flowing Bhelle] Rinze,
-【フローウィングベル】有栖川 夏葉,[Flowing Bhelle] Natsuha,
-【フローウィングベル】大崎 甘奈,[Flowing Bhelle] Amana,
-【フローウィングベル】大崎 甜花,[Flowing Bhelle] Tenka,
-【フローウィングベル】桑山 千雪,[Flowing Bhelle] Chiyuki,
-【フローウィングベル】芹沢 あさひ,[Flowing Bhelle] Asahi,
-【フローウィングベル】黛 冬優子,[Flowing Bhelle] Fuyuko,
-【フローウィングベル】和泉 愛依,[Flowing Bhelle] Mei,
-【フローウィングベル】浅倉 透,[Flowing Bhelle] Toru,
-【フローウィングベル】樋口 円香,[Flowing Bhelle] Madoka,
-【フローウィングベル】福丸 小糸,[Flowing Bhelle] Koito,
-【フローウィングベル】市川 雛菜,[Flowing Bhelle] Hinana,
-【フローウィングベル】七草 にちか,[Flowing Bhelle] Nichika,
-【フローウィングベル】緋田 美琴,[Flowing Bhelle] Mikoto,
-【フローウィングベル】斑鳩 ルカ,[Flowing Bhelle] Luca,
-【フローウィングベル】鈴木 羽那,[Flowing Bhelle] Hana,
-【フローウィングベル】郁田 はるき,[Flowing Bhelle] Haruki,
-リフレジェントプルマージュ衣装チケット,Refulgent Plumage Exchange Ticket,
-リフレジェントプルマージュと交換できるチケットです,Used in the Refulgent Plumage Exchange Shop.,
-【リフレジェントプルマージュ】櫻木 真乃,[Refulgent Plumage] Mano,
-【リフレジェントプルマージュ】風野 灯織,[Refulgent Plumage] Hiori,
-【リフレジェントプルマージュ】八宮 めぐる,[Refulgent Plumage] Meguru,
-【リフレジェントプルマージュ】月岡 恋鐘,[Refulgent Plumage] Kogane,
-【リフレジェントプルマージュ】田中 摩美々,[Refulgent Plumage] Mamimi,
-【リフレジェントプルマージュ】白瀬 咲耶,[Refulgent Plumage] Sakuya,
-【リフレジェントプルマージュ】三峰 結華,[Refulgent Plumage] Yuika,
-【リフレジェントプルマージュ】幽谷 霧子,[Refulgent Plumage] Kiriko,
-【リフレジェントプルマージュ】小宮 果穂,[Refulgent Plumage] Kaho,
-【リフレジェントプルマージュ】園田 智代子,[Refulgent Plumage] Chiyoko,
-【リフレジェントプルマージュ】西城 樹里,[Refulgent Plumage] Juri,
-【リフレジェントプルマージュ】杜野 凛世,[Refulgent Plumage] Rinze,
-【リフレジェントプルマージュ】有栖川 夏葉,[Refulgent Plumage] Natsuha,
-【リフレジェントプルマージュ】大崎 甘奈,[Refulgent Plumage] Amana,
-【リフレジェントプルマージュ】大崎 甜花,[Refulgent Plumage] Tenka,
-【リフレジェントプルマージュ】桑山 千雪,[Refulgent Plumage] Chiyuki,
-【リフレジェントプルマージュ】芹沢 あさひ,[Refulgent Plumage] Asahi,
-【リフレジェントプルマージュ】黛 冬優子,[Refulgent Plumage] Fuyuko,
-【リフレジェントプルマージュ】和泉 愛依,[Refulgent Plumage] Mei,
-【リフレジェントプルマージュ】浅倉 透,[Refulgent Plumage] Toru,
-【リフレジェントプルマージュ】樋口 円香,[Refulgent Plumage] Madoka,
-【リフレジェントプルマージュ】福丸 小糸,[Refulgent Plumage] Koito,
-【リフレジェントプルマージュ】市川 雛菜,[Refulgent Plumage] Hinana,
-【リフレジェントプルマージュ】七草 にちか,[Refulgent Plumage] Nichika,
-【リフレジェントプルマージュ】緋田 美琴,[Refulgent Plumage] Mikoto,
-【リフレジェントプルマージュ】斑鳩 ルカ,[Refulgent Plumage] Luca,
-【リフレジェントプルマージュ】鈴木 羽那,[Refulgent Plumage] Hana,
-【リフレジェントプルマージュ】郁田 はるき,[Refulgent Plumage] Haruki,
-プライベートドレスダウン衣装チケット,Private Dress-Down Exchange Ticket,
-プライベートドレスダウン\n衣装チケット,Private Dress-Down\nExchange Ticket,
-プライベートドレスダウン交換と交換できるチケットです,Used in the Private Dress-Down Exchange Shop.,
-【プライベートドレスダウン】櫻木 真乃,[Private Dress-Down] Mano,
-【プライベートドレスダウン】風野 灯織,[Private Dress-Down] Hiori,
-【プライベートドレスダウン】八宮 めぐる,[Private Dress-Down] Meguru,
-【プライベートドレスダウン】月岡 恋鐘,[Private Dress-Down] Kogane,
-【プライベートドレスダウン】田中 摩美々,[Private Dress-Down] Mamimi,
-【プライベートドレスダウン】白瀬 咲耶,[Private Dress-Down] Sakuya,
-【プライベートドレスダウン】三峰 結華,[Private Dress-Down] Yuika,
-【プライベートドレスダウン】幽谷 霧子,[Private Dress-Down] Kiriko,
-【プライベートドレスダウン】小宮 果穂,[Private Dress-Down] Kaho,
-【プライベートドレスダウン】園田 智代子,[Private Dress-Down] Chiyoko,
-【プライベートドレスダウン】西城 樹里,[Private Dress-Down] Juri,
-【プライベートドレスダウン】杜野 凛世,[Private Dress-Down] Rinze,
-【プライベートドレスダウン】有栖川 夏葉,[Private Dress-Down] Natsuha,
-【プライベートドレスダウン】大崎 甘奈,[Private Dress-Down] Amana,
-【プライベートドレスダウン】大崎 甜花,[Private Dress-Down] Tenka,
-【プライベートドレスダウン】桑山 千雪,[Private Dress-Down] Chiyuki,
-【プライベートドレスダウン】芹沢 あさひ,[Private Dress-Down] Asahi,
-【プライベートドレスダウン】黛 冬優子,[Private Dress-Down] Fuyuko,
-【プライベートドレスダウン】和泉 愛依,[Private Dress-Down] Mei,
-【プライベートドレスダウン】浅倉 透,[Private Dress-Down] Toru,
-【プライベートドレスダウン】樋口 円香,[Private Dress-Down] Madoka,
-【プライベートドレスダウン】福丸 小糸,[Private Dress-Down] Koito,
-【プライベートドレスダウン】市川 雛菜,[Private Dress-Down] Hinana,
-【プライベートドレスダウン】七草 にちか,[Private Dress-Down] Nichika,
-【プライベートドレスダウン】緋田 美琴,[Private Dress-Down] Mikoto,
-【プライベートドレスダウン】斑鳩 ルカ,[Private Dress-Down] Luca,DOES NOT EXIST YET
-【プライベートドレスダウン】鈴木 羽那,[Private Dress-Down] Hana,DOES NOT EXIST YET
-【プライベートドレスダウン】郁田 はるき,[Private Dress-Down] Haruki,DOES NOT EXIST YET
-リスペクティブワークスタイル衣装チケット,Respective Workstyle Exchange Ticket,GFes
-リスペクティブワークスタイル\n衣装チケット,Respective Workstyle\nExchange Ticket,GFes
-リスペクティブワークスタイル交換と交換できるチケットです,Used in the Respective Workstyle Exchange Shop.,GFes
-【リスペクティブワークスタイル】櫻木 真乃,[Respective Workstyle] Mano,
-【リスペクティブワークスタイル】\n櫻木 真乃,[Respective Workstyle]\nMano,
-【リスペクティブワークスタイル】風野 灯織,[Respective Workstyle] Hiori,
-【リスペクティブワークスタイル】\n風野 灯織,[Respective Workstyle]\nHiori,
-【リスペクティブワークスタイル】八宮 めぐる,[Respective Workstyle] Meguru,
-【リスペクティブワークスタイル】\n八宮 めぐる,[Respective Workstyle]\nMeguru,
-【リスペクティブワークスタイル】月岡 恋鐘,[Respective Workstyle] Kogane,
-【リスペクティブワークスタイル】\n月岡 恋鐘,[Respective Workstyle]\nKogane,
-【リスペクティブワークスタイル】田中 摩美々,[Respective Workstyle] Mamimi,
-【リスペクティブワークスタイル】\n田中 摩美々,[Respective Workstyle]\nMamimi,
-【リスペクティブワークスタイル】白瀬 咲耶,[Respective Workstyle] Sakuya,
-【リスペクティブワークスタイル】\n白瀬 咲耶,[Respective Workstyle]\nSakuya,
-【リスペクティブワークスタイル】三峰 結華,[Respective Workstyle] Yuika,
-【リスペクティブワークスタイル】\n三峰 結華,[Respective Workstyle]\nYuika,
-【リスペクティブワークスタイル】幽谷 霧子,[Respective Workstyle] Kiriko,
-【リスペクティブワークスタイル】\n幽谷 霧子,[Respective Workstyle]\nKiriko,
-【リスペクティブワークスタイル】小宮 果穂,[Respective Workstyle] Kaho,
-【リスペクティブワークスタイル】\n小宮 果穂,[Respective Workstyle]\nKaho,
-【リスペクティブワークスタイル】園田 智代子,[Respective Workstyle] Chiyoko,
-【リスペクティブワークスタイル】\n園田 智代子,[Respective Workstyle]\nChiyoko,
-【リスペクティブワークスタイル】西城 樹里,[Respective Workstyle] Juri,
-【リスペクティブワークスタイル】\n西城 樹里,[Respective Workstyle]\nJuri,
-【リスペクティブワークスタイル】杜野 凛世,[Respective Workstyle] Rinze,
-【リスペクティブワークスタイル】\n杜野 凛世,[Respective Workstyle]\nRinze,
-【リスペクティブワークスタイル】有栖川 夏葉,[Respective Workstyle] Natsuha,
-【リスペクティブワークスタイル】\n有栖川 夏葉,[Respective Workstyle]\nNatsuha,
-【リスペクティブワークスタイル】大崎 甘奈,[Respective Workstyle] Amana,
-【リスペクティブワークスタイル】\n大崎 甘奈,[Respective Workstyle]\nAmana,
-【リスペクティブワークスタイル】大崎 甜花,[Respective Workstyle] Tenka,
-【リスペクティブワークスタイル】\n大崎 甜花,[Respective Workstyle]\nTenka,
-【リスペクティブワークスタイル】桑山 千雪,[Respective Workstyle] Chiyuki,
-【リスペクティブワークスタイル】\n桑山 千雪,[Respective Workstyle]\nChiyuki,
-【リスペクティブワークスタイル】芹沢 あさひ,[Respective Workstyle] Asahi,
-【リスペクティブワークスタイル】\n芹沢 あさひ,[Respective Workstyle]\nAsahi,
-【リスペクティブワークスタイル】黛 冬優子,[Respective Workstyle] Fuyuko,
-【リスペクティブワークスタイル】\n黛 冬優子,[Respective Workstyle]\nFuyuko,
-【リスペクティブワークスタイル】和泉 愛依,[Respective Workstyle] Mei,
-【リスペクティブワークスタイル】\n和泉 愛依,[Respective Workstyle]\nMei,
-【リスペクティブワークスタイル】浅倉 透,[Respective Workstyle] Toru,
-【リスペクティブワークスタイル】\n浅倉 透,[Respective Workstyle]\nToru,
-【リスペクティブワークスタイル】樋口 円香,[Respective Workstyle] Madoka,
-【リスペクティブワークスタイル】\n樋口 円香,[Respective Workstyle]\nMadoka,
-【リスペクティブワークスタイル】福丸 小糸,[Respective Workstyle] Koito,
-【リスペクティブワークスタイル】\n福丸 小糸,[Respective Workstyle]\nKoito,
-【リスペクティブワークスタイル】市川 雛菜,[Respective Workstyle] Hinana,
-【リスペクティブワークスタイル】\n市川 雛菜,[Respective Workstyle]\nHinana,
-【リスペクティブワークスタイル】七草 にちか,[Respective Workstyle] Nichika,
-【リスペクティブワークスタイル】\n七草 にちか,[Respective Workstyle]\nNichika,
-【リスペクティブワークスタイル】緋田 美琴,[Respective Workstyle] Mikoto,
-【リスペクティブワークスタイル】\n緋田 美琴,[Respective Workstyle]\nMikoto,
-【リスペクティブワークスタイル】斑鳩 ルカ,[Respective Workstyle] Luca,
-【リスペクティブワークスタイル】\n斑鳩 ルカ,[Respective Workstyle]\nLuca,
-【リスペクティブワークスタイル】鈴木 羽那,[Respective Workstyle] Hana,
-【リスペクティブワークスタイル】\n鈴木 羽那,[Respective Workstyle]\nHana,
-【リスペクティブワークスタイル】郁田 はるき,[Respective Workstyle] Haruki,
-【リスペクティブワークスタイル】\n郁田 はるき,[Respective Workstyle]\nHaruki,
-【ミッドナイトモンスター】櫻木 真乃,[Midnight Monster] Mano,
-【ミッドナイトモンスター】風野 灯織,[Midnight Monster] Hiori,
-【ミッドナイトモンスター】八宮 めぐる,[Midnight Monster] Meguru,
-【ミッドナイトモンスター】月岡 恋鐘,[Midnight Monster] Kogane,
-【ミッドナイトモンスター】田中 摩美々,[Midnight Monster] Mamimi,
-【ミッドナイトモンスター】白瀬 咲耶,[Midnight Monster] Sakuya,
-【ミッドナイトモンスター】三峰 結華,[Midnight Monster] Yuika,
-【ミッドナイトモンスター】幽谷 霧子,[Midnight Monster] Kiriko,
-【ミッドナイトモンスター】小宮 果穂,[Midnight Monster] Kaho,
-【ミッドナイトモンスター】園田 智代子,[Midnight Monster] Chiyoko,
-【ミッドナイトモンスター】西城 樹里,[Midnight Monster] Juri,
-【ミッドナイトモンスター】杜野 凛世,[Midnight Monster] Rinze,
-【ミッドナイトモンスター】有栖川 夏葉,[Midnight Monster] Natsuha,
-【ミッドナイトモンスター】大崎 甘奈,[Midnight Monster] Amana,
-【ミッドナイトモンスター】大崎 甜花,[Midnight Monster] Tenka,
-【ミッドナイトモンスター】桑山 千雪,[Midnight Monster] Chiyuki,
-【ミッドナイトモンスター】芹沢 あさひ,[Midnight Monster] Asahi,
-【ミッドナイトモンスター】黛 冬優子,[Midnight Monster] Fuyuko,
-【ミッドナイトモンスター】和泉 愛依,[Midnight Monster] Mei,
-【ミッドナイトモンスター】浅倉 透,[Midnight Monster] Toru,
-【ミッドナイトモンスター】樋口 円香,[Midnight Monster] Madoka,
-【ミッドナイトモンスター】福丸 小糸,[Midnight Monster] Koito,
-【ミッドナイトモンスター】市川 雛菜,[Midnight Monster] Hinana,
-【ミッドナイトモンスター】七草 にちか,[Midnight Monster] Nichika,
-【ミッドナイトモンスター】緋田 美琴,[Midnight Monster] Mikoto,
-【ミッドナイトモンスター】斑鳩 ルカ,[Midnight Monster] Luca,
-【ミッドナイトモンスター】鈴木 羽那,[Midnight Monster] Hana,
-【ミッドナイトモンスター】郁田 はるき,[Midnight Monster] Haruki,
-ホーリーナイトケープ衣装交換チケ,Holy Night Cape Outfit Exchange Ticket,
-復刻ホーリーナイトケープ衣装交換チケ,Reissue Holy Night Cape Outfit Exchange Ticket,
-【ホーリーナイトケープ】櫻木 真乃,[Holy Night Cape] Mano,
-【ホーリーナイトケープ】風野 灯織,[Holy Night Cape] Hiori,
-【ホーリーナイトケープ】八宮 めぐる,[Holy Night Cape] Meguru,
-【ホーリーナイトケープ】月岡 恋鐘,[Holy Night Cape] Kogane,
-【ホーリーナイトケープ】田中 摩美々,[Holy Night Cape] Mamimi,
-【ホーリーナイトケープ】白瀬 咲耶,[Holy Night Cape] Sakuya,
-【ホーリーナイトケープ】三峰 結華,[Holy Night Cape] Yuika,
-【ホーリーナイトケープ】幽谷 霧子,[Holy Night Cape] Kiriko,
-【ホーリーナイトケープ】小宮 果穂,[Holy Night Cape] Kaho,
-【ホーリーナイトケープ】園田 智代子,[Holy Night Cape] Chiyoko,
-【ホーリーナイトケープ】西城 樹里,[Holy Night Cape] Juri,
-【ホーリーナイトケープ】杜野 凛世,[Holy Night Cape] Rinze,
-【ホーリーナイトケープ】有栖川 夏葉,[Holy Night Cape] Natsuha,
-【ホーリーナイトケープ】大崎 甘奈,[Holy Night Cape] Amana,
-【ホーリーナイトケープ】大崎 甜花,[Holy Night Cape] Tenka,
-【ホーリーナイトケープ】桑山 千雪,[Holy Night Cape] Chiyuki,
-【ホーリーナイトケープ】芹沢 あさひ,[Holy Night Cape] Asahi,
-【ホーリーナイトケープ】黛 冬優子,[Holy Night Cape] Fuyuko,
-【ホーリーナイトケープ】和泉 愛依,[Holy Night Cape] Mei,
-【ホーリーナイトケープ】浅倉 透,[Holy Night Cape] Toru,
-【ホーリーナイトケープ】樋口 円香,[Holy Night Cape] Madoka,
-【ホーリーナイトケープ】福丸 小糸,[Holy Night Cape] Koito,
-【ホーリーナイトケープ】市川 雛菜,[Holy Night Cape] Hinana,
-【ホーリーナイトケープ】七草 にちか,[Holy Night Cape] Nichika,
-【ホーリーナイトケープ】緋田 美琴,[Holy Night Cape] Mikoto,
-【ホーリーナイトケープ】斑鳩 ルカ,[Holy Night Cape] Luca,
-【ホーリーナイトケープ】鈴木 羽那,[Holy Night Cape] Hana,
-【ホーリーナイトケープ】郁田 はるき,[Holy Night Cape] Haruki,
-ドレスアップパルファム衣装交換チケット,Dress-Up Perfume Exchange Ticket,ML Outfit
-ドレスアップパルファム\n衣装交換チケット,Dress-Up Perfume\nExchange Ticket,ML Outfit
-ドレスアップパルファム交換と交換できるチケットです,Used in the Dress-Up Perfume Outfit Exchange Shop.,ML Outfit
-【ドレスアップパルファム】櫻木 真乃,[Dress-Up Perfume] Mano,
-【ドレスアップパルファム】\n櫻木 真乃,[Dress-Up Perfume]\nMano,
-【ドレスアップパルファム】風野 灯織,[Dress-Up Perfume] Hiori,
-【ドレスアップパルファム】\n風野 灯織,[Dress-Up Perfume]\nHiori,
-【ドレスアップパルファム】八宮 めぐる,[Dress-Up Perfume] Meguru,
-【ドレスアップパルファム】\n八宮 めぐる,[Dress-Up Perfume]\nMeguru,
-【ドレスアップパルファム】月岡 恋鐘,[Dress-Up Perfume] Kogane,
-【ドレスアップパルファム】\n月岡 恋鐘,[Dress-Up Perfume]\nKogane,
-【ドレスアップパルファム】田中 摩美々,[Dress-Up Perfume] Mamimi,
-【ドレスアップパルファム】\n田中 摩美々,[Dress-Up Perfume]\nMamimi,
-【ドレスアップパルファム】白瀬 咲耶,[Dress-Up Perfume] Sakuya,
-【ドレスアップパルファム】\n白瀬 咲耶,[Dress-Up Perfume]\nSakuya,
-【ドレスアップパルファム】三峰 結華,[Dress-Up Perfume] Yuika,
-【ドレスアップパルファム】\n三峰 結華,[Dress-Up Perfume]\nYuika,
-【ドレスアップパルファム】幽谷 霧子,[Dress-Up Perfume] Kiriko,
-【ドレスアップパルファム】\n幽谷 霧子,[Dress-Up Perfume]\nKiriko,
-【ドレスアップパルファム】小宮 果穂,[Dress-Up Perfume] Kaho,
-【ドレスアップパルファム】\n小宮 果穂,[Dress-Up Perfume]\nKaho,
-【ドレスアップパルファム】園田 智代子,[Dress-Up Perfume] Chiyoko,
-【ドレスアップパルファム】\n園田 智代子,[Dress-Up Perfume]\nChiyoko,
-【ドレスアップパルファム】西城 樹里,[Dress-Up Perfume] Juri,
-【ドレスアップパルファム】\n西城 樹里,[Dress-Up Perfume]\nJuri,
-【ドレスアップパルファム】杜野 凛世,[Dress-Up Perfume] Rinze,
-【ドレスアップパルファム】\n杜野 凛世,[Dress-Up Perfume]\nRinze,
-【ドレスアップパルファム】有栖川 夏葉,[Dress-Up Perfume] Natsuha,
-【ドレスアップパルファム】\n有栖川 夏葉,[Dress-Up Perfume]\nNatsuha,
-【ドレスアップパルファム】大崎 甘奈,[Dress-Up Perfume] Amana,
-【ドレスアップパルファム】\n大崎 甘奈,[Dress-Up Perfume]\nAmana,
-【ドレスアップパルファム】大崎 甜花,[Dress-Up Perfume] Tenka,
-【ドレスアップパルファム】\n大崎 甜花,[Dress-Up Perfume]\nTenka,
-【ドレスアップパルファム】桑山 千雪,[Dress-Up Perfume] Chiyuki,
-【ドレスアップパルファム】\n桑山 千雪,[Dress-Up Perfume]\nChiyuki,
-【ドレスアップパルファム】芹沢 あさひ,[Dress-Up Perfume] Asahi,
-【ドレスアップパルファム】\n芹沢 あさひ,[Dress-Up Perfume]\nAsahi,
-【ドレスアップパルファム】黛 冬優子,[Dress-Up Perfume] Fuyuko,
-【ドレスアップパルファム】\n黛 冬優子,[Dress-Up Perfume]\nFuyuko,
-【ドレスアップパルファム】和泉 愛依,[Dress-Up Perfume] Mei,
-【ドレスアップパルファム】\n和泉 愛依,[Dress-Up Perfume]\nMei,
-【ドレスアップパルファム】浅倉 透,[Dress-Up Perfume] Toru,
-【ドレスアップパルファム】\n浅倉 透,[Dress-Up Perfume]\nToru,
-【ドレスアップパルファム】樋口 円香,[Dress-Up Perfume] Madoka,
-【ドレスアップパルファム】\n樋口 円香,[Dress-Up Perfume]\nMadoka,
-【ドレスアップパルファム】福丸 小糸,[Dress-Up Perfume] Koito,
-【ドレスアップパルファム】\n福丸 小糸,[Dress-Up Perfume]\nKoito,
-【ドレスアップパルファム】市川 雛菜,[Dress-Up Perfume] Hinana,
-【ドレスアップパルファム】\n市川 雛菜,[Dress-Up Perfume]\nHinana,
-【ドレスアップパルファム】七草 にちか,[Dress-Up Perfume] Nichika,
-【ドレスアップパルファム】\n七草 にちか,[Dress-Up Perfume]\nNichika,
-【ドレスアップパルファム】緋田 美琴,[Dress-Up Perfume] Mikoto,
-【ドレスアップパルファム】\n緋田 美琴,[Dress-Up Perfume]\nMikoto,
-【ドレスアップパルファム】斑鳩 ルカ,[Dress-Up Perfume] Luca,
-【ドレスアップパルファム】\n斑鳩 ルカ,[Dress-Up Perfume]\nLuca,
-【ドレスアップパルファム】鈴木 羽那,[Dress-Up Perfume] Hana,
-【ドレスアップパルファム】\n鈴木 羽那,[Dress-Up Perfume]\nHana,
-【ドレスアップパルファム】郁田 はるき,[Dress-Up Perfume] Haruki,
-【ドレスアップパルファム】\n郁田 はるき,[Dress-Up Perfume]\nHaruki,
-エモーショナルユニフォーム衣装チケ（グレフェス）,Emotional Uniform Exchange Ticket (GFes),GFes
-エモーショナルユニフォーム\n衣装チケ（グレフェス）,Emotional Uniform\nExchange Ticket (GFes),GFes
-グレフェスコインショップに登場したエモーショナルユニフォームと交換できるチケットです,Used in the GradeFes Emotional Uniform Outfit Exchange Shop.,GFes
-エモーショナルユニフォーム衣装チケ（マッチライブ）,Emotional Uniform Exchange Ticket (ML),ML Outfit
-エモーショナルユニフォーム\n衣装チケ（マッチライブ）,Emotional Uniform\nExchange Ticket (ML),ML Outfit
-エモーショナルユニフォーム交換と交換できるチケットです,Used in the Emotional Uniform Outfit Exchange Shop.,ML Outfit
-【エモーショナルユニフォーム】櫻木 真乃,[Emotional Uniform] Mano,
-【エモーショナルユニフォーム】\n櫻木 真乃,[Emotional Uniform]\nMano,
-【エモーショナルユニフォーム】風野 灯織,[Emotional Uniform] Hiori,
-【エモーショナルユニフォーム】\n風野 灯織,[Emotional Uniform]\nHiori,
-【エモーショナルユニフォーム】八宮 めぐる,[Emotional Uniform] Meguru,
-【エモーショナルユニフォーム】\n八宮 めぐる,[Emotional Uniform]\nMeguru,
-【エモーショナルユニフォーム】月岡 恋鐘,[Emotional Uniform] Kogane,
-【エモーショナルユニフォーム】\n月岡 恋鐘,[Emotional Uniform]\nKogane,
-【エモーショナルユニフォーム】田中 摩美々,[Emotional Uniform] Mamimi,
-【エモーショナルユニフォーム】\n田中 摩美々,[Emotional Uniform]\nMamimi,
-【エモーショナルユニフォーム】白瀬 咲耶,[Emotional Uniform] Sakuya,
-【エモーショナルユニフォーム】\n白瀬 咲耶,[Emotional Uniform]\nSakuya,
-【エモーショナルユニフォーム】三峰 結華,[Emotional Uniform] Yuika,
-【エモーショナルユニフォーム】\n三峰 結華,[Emotional Uniform]\nYuika,
-【エモーショナルユニフォーム】幽谷 霧子,[Emotional Uniform] Kiriko,
-【エモーショナルユニフォーム】\n幽谷 霧子,[Emotional Uniform]\nKiriko,
-【エモーショナルユニフォーム】小宮 果穂,[Emotional Uniform] Kaho,
-【エモーショナルユニフォーム】\n小宮 果穂,[Emotional Uniform]\nKaho,
-【エモーショナルユニフォーム】園田 智代子,[Emotional Uniform] Chiyoko,
-【エモーショナルユニフォーム】\n園田 智代子,[Emotional Uniform]\nChiyoko,
-【エモーショナルユニフォーム】西城 樹里,[Emotional Uniform] Juri,
-【エモーショナルユニフォーム】\n西城 樹里,[Emotional Uniform]\nJuri,
-【エモーショナルユニフォーム】杜野 凛世,[Emotional Uniform] Rinze,
-【エモーショナルユニフォーム】\n杜野 凛世,[Emotional Uniform]\nRinze,
-【エモーショナルユニフォーム】有栖川 夏葉,[Emotional Uniform] Natsuha,
-【エモーショナルユニフォーム】\n有栖川 夏葉,[Emotional Uniform]\nNatsuha,
-【エモーショナルユニフォーム】大崎 甘奈,[Emotional Uniform] Amana,
-【エモーショナルユニフォーム】\n大崎 甘奈,[Emotional Uniform]\nAmana,
-【エモーショナルユニフォーム】大崎 甜花,[Emotional Uniform] Tenka,
-【エモーショナルユニフォーム】\n大崎 甜花,[Emotional Uniform]\nTenka,
-【エモーショナルユニフォーム】桑山 千雪,[Emotional Uniform] Chiyuki,
-【エモーショナルユニフォーム】\n桑山 千雪,[Emotional Uniform]\nChiyuki,
-【エモーショナルユニフォーム】芹沢 あさひ,[Emotional Uniform] Asahi,
-【エモーショナルユニフォーム】\n芹沢 あさひ,[Emotional Uniform]\nAsahi,
-【エモーショナルユニフォーム】黛 冬優子,[Emotional Uniform] Fuyuko,
-【エモーショナルユニフォーム】\n黛 冬優子,[Emotional Uniform]\nFuyuko,
-【エモーショナルユニフォーム】和泉 愛依,[Emotional Uniform] Mei,
-【エモーショナルユニフォーム】\n和泉 愛依,[Emotional Uniform]\nMei,
-【エモーショナルユニフォーム】浅倉 透,[Emotional Uniform] Toru,
-【エモーショナルユニフォーム】\n浅倉 透,[Emotional Uniform]\nToru,
-【エモーショナルユニフォーム】樋口 円香,[Emotional Uniform] Madoka,
-【エモーショナルユニフォーム】\n樋口 円香,[Emotional Uniform]\nMadoka,
-【エモーショナルユニフォーム】福丸 小糸,[Emotional Uniform] Koito,
-【エモーショナルユニフォーム】\n福丸 小糸,[Emotional Uniform]\nKoito,
-【エモーショナルユニフォーム】市川 雛菜,[Emotional Uniform] Hinana,
-【エモーショナルユニフォーム】\n市川 雛菜,[Emotional Uniform]\nHinana,
-【エモーショナルユニフォーム】七草 にちか,[Emotional Uniform] Nichika,
-【エモーショナルユニフォーム】\n七草 にちか,[Emotional Uniform]\nNichika,
-【エモーショナルユニフォーム】緋田 美琴,[Emotional Uniform] Mikoto,
-【エモーショナルユニフォーム】\n緋田 美琴,[Emotional Uniform]\nMikoto,
-【エモーショナルユニフォーム】斑鳩 ルカ,[Emotional Uniform] Luca,
-【エモーショナルユニフォーム】\n斑鳩 ルカ,[Emotional Uniform]\nLuca,
-【エモーショナルユニフォーム】鈴木 羽那,[Emotional Uniform] Hana,
-【エモーショナルユニフォーム】\n鈴木 羽那,[Emotional Uniform]\nHana,
-【エモーショナルユニフォーム】郁田 はるき,[Emotional Uniform] Haruki,
-【エモーショナルユニフォーム】\n郁田 はるき,[Emotional Uniform]\nHaruki,
-10連フォイルガシャメダル,10-Pull Foil Gacha Medal,GradeFes Item
-10連フォイルガシャメダル\n［1/12］,10-Pull Foil Gacha Medal\n[1/12],GradeFes Item
+Excludes TwiColle and ParaColle limited Idols."
+トワコレ特訓はづきさん（プロデュース）,TwiColle Hazuki (Produce)
+トワイライツコレクション限定の\nSSRプロデュースアイドルを特訓します,Evolve a TwiColle exclusive Produce Idol.
+Anniversary特別トワコレ特訓はづきさん（プロデュース）,Anniversary Special\nTwiColle Hazuki (Produce)
+トワイライツコレクション限定のSSRプロデュースアイドルを特訓します。使用期限があります,Evolve a TwiColle exclusive Produce Idol. Expires.
+トワコレ特訓はづきさん（サポート),TwiColle Hazuki (Support)
+トワイライツコレクション限定の\nSSRサポートアイドルを特訓します,Evolve a TwiColle exclusive Support Idol.
+Anniversary特別トワコレ特訓はづきさん (サポート),Anniversary Special\nTwiColle Hazuki (Support)
+トワイライツコレクション限定のSSRサポートアイドルを特訓します。使用期限があります,Evolve a TwiColle exclusive Support Idol. Expires.
+サポートアイドルのトレーニングに必要なチケットです\n【Exp:50】,A ticket required for support idol training\n【Exp:50】
+サポートアイドルのトレーニングに必要なチケットです\n【Exp:250】,A ticket required for support idol training\n【Exp:250】
+サポートアイドルのトレーニングに必要なチケットです\n【Exp:1000】,A ticket required for support idol training\n【Exp:1000】
+サポートアイドルのトレーニングに必要なチケットです\n【Exp:3000】,A ticket required for support idol training\n【Exp:3000】
+プロデュース中の失敗＆大失敗で発生するデメリットを1回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,Negates the disadvantages caused by failures and catastrophes. [TFD: Ideas are filled even when failures and catastrophes occur]
+プロデュース中の失敗＆大失敗で発生するデメリットを2回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,Negates the disadvantages caused by failures and catastrophes. [TFD: Ideas are filled even when failures and catastrophes occur]
+プロデュース開始時に親愛度+5、約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Start production with +5 Bond, and slightly increases promise chance. (Decreases each time a promise occurs, up to four times)"
+最終シーズンの残り４週までの間にランダムなタイミングで「はづきさんアシストイベント」が必ず発生します,"""Hazuki-san Assist Event"" will always occur randomly before the last 4 weeks of the final season."
+283プロのキーホルダー,283Pro Keychain
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が小アップします,Slightly increases all Support Idols' bond points.
+283プロのタオル,283Pro Towel
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が中アップします,Moderately increases all Support Idols' bond points.
+283プロのTシャツ,283Pro T-Shirt
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が大アップします,Greatly increases all Support Idols' bond points.
+イルミネーションスターズのキーホルダー,illumination STARS Keychain
+イルミネーションスターズ\nのキーホルダー,illumination STARS \nKeychain
+イルミネーションスターズに所属しているサポートアイドルの絆が小アップします,Slightly increases illumination STARS Support Idols' bond points.
+プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が小アップします,Slightly increases illumination STARS Support Idols' bond points at the start of production.
+イルミネーションスターズのタオル,illumination STARS Towel
+イルミネーションスターズ\nのタオル,illumination STARS \nTowel
+イルミネーションスターズに所属しているサポートアイドルの絆が中アップします,Moderately increases illumination STARS Support Idols' bond points.
+プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が中アップします,Moderately increases illumination STARS Support Idols' bond points at the start of production.
+イルミネーションスターズのTシャツ,illumination STARS T-Shirt
+イルミネーションスターズに所属しているサポートアイドルの絆が大アップします,Greatly increases Illumination STARS Support Idols' bond points.
+プロデュース開始時にイルミネーションスターズに所属しているサポートアイドルの絆が大アップします,Greatly increases Illumination STARS Support Idols' bond points at the start of production.
+イルミネーションスターズの手作りおにぎり,illumination STARS Handmade Onigiri
+アンティーカのキーホルダー,L'Antica Keychain
+アンティーカの\nキーホルダー,L'Antica \nKeychain
+アンティーカに所属しているサポートアイドルの絆が小アップします,Slightly increases L'Antica Support Idols' bond points.
+プロデュース開始時にアンティーカに所属しているサポートアイドルの絆が小アップします,Slightly increases L'Antica Support Idols' bond points at the start of production.
+アンティーカのタオル,L'Antica Towel
+アンティーカに所属しているサポートアイドルの絆が中アップします,Moderately increases L'Antica Support Idols' bond points.
+プロデュース開始時にアンティーカに所属しているサポートアイドルの絆が中アップします,Moderately increases L'Antica Support Idols' bond points at the start of production.
+アンティーカのTシャツ,L'Antica T-Shirt
+アンティーカに所属しているサポートアイドルの絆が大アップします,Greatly increases L'Antica Support Idols' bond points.
+プロデュース開始時にアンティーカに所属しているサポートアイドルの絆が大アップします,Greatly increases L'Antica Support Idols' bond points at the start of production.
+放課後クライマックスガールズのキーホルダー,Hokago Climax Girls Keychain
+放課後クライマックス\nガールズのキーホルダー,Hokago Climax \nGirls Keychain
+放課後クライマックスガールズに所属しているサポートアイドルの絆が小アップします,Slightly increases Hokago Climax Girls Support Idols' bond points.
+プロデュース開始時に放課後クライマックスガールズに所属しているサポートアイドルの絆が小アップします,Slightly increases Hokago Climax Girls Support Idols' bond points at the start of production.
+放課後クライマックスガールズのタオル,Hokago Climax Girls Towel
+放課後クライマックス\nガールズのタオル,Hokago Climax \nGirls Towel
+放課後クライマックスガールズに所属しているサポートアイドルの絆が中アップします,Moderately increases Hokago Climax Girls Support Idols' bond point.
+プロデュース開始時に放課後クライマックスガールズに所属しているサポートアイドルの絆が中アップします,Moderately increases Hokago Climax Girls Support Idols' bond points at the start of production.
+放課後クライマックスガールズのTシャツ,Hokago Climax Girls T-Shirt
+放課後クライマックスガールズに所属しているサポートアイドルの絆が大アップします,Greatly increases Hokago Climax Girls Support Idols' bond points.
+プロデュース開始時に放課後クライマックスガールズに所属しているサポートアイドルの絆が大アップします,Greatly increases Hokago Climax Girls Support Idols' bond points at the start of production.
+詰め襟さまとブレザーくんキーホルダー,Tsumeeri-sama and Blazer-kun Keychain
+アルストロメリアのキーホルダー,ALSTROEMERIA Keychain
+アルストロメリアの\nキーホルダー,ALSTROEMERIA \nKeychain
+アルストロメリアに所属しているサポートアイドルの絆が小アップします,Slightly increases ALSTROEMERIA Support Idols' bond points.
+プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が小アップします,Slightly increases ALSTROEMERIA Support Idols' bond points at the start of production.
+アルストロメリアのタオル,ALSTROEMERIA Towel
+アルストロメリアに所属しているサポートアイドルの絆が中アップします,Moderately increases ALSTROEMERIA Support Idols' bond points.
+プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が中アップします,Moderately increases ALSTROEMERIA Support Idols' bond points at the start of production.
+アルストロメリアのTシャツ,ALSTROEMERIA T-Shirt
+アルストロメリアに所属しているサポートアイドルの絆が大アップします,Greatly increases ALSTROEMERIA Support Idols' bond points.
+プロデュース開始時にアルストロメリアに所属しているサポートアイドルの絆が大アップします,Greatly increases ALSTROEMERIA Support Idols' bond points at the start of production.
+ストレイライトのキーホルダー,Straylight Keychain
+ストレイライトの\nキーホルダー,Straylight \nKeychain
+ストレイライトに所属しているサポートアイドルの絆が小アップします,Slightly increases Straylight Support Idols' bond points.
+プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が小アップします,Slightly increases Straylight Support Idols' bond points at the start of production.
+ストレイライトのタオル,Straylight Towel
+ストレイライトに所属しているサポートアイドルの絆が中アップします,Moderately increases Straylight Support Idols' bond points.
+プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が中アップします,Moderately increases Straylight Support Idols' bond points at the start of production.
+ストレイライトのTシャツ,Straylight T-Shirt
+ストレイライトに所属しているサポートアイドルの絆が大アップします,Greatly increases Straylight Support Idols' bond points.
+プロデュース開始時にストレイライトに所属しているサポートアイドルの絆が大アップします,Greatly increases Straylight Support Idols' bond points at the start of production.
+ノクチルのキーホルダー,noctchill Keychain
+ノクチルの\nキーホルダー,noctchill\nKeychain
+ノクチルに所属しているサポートアイドルの絆が小アップします,Slightly increases noctchill Support Idols' bond points.
+プロデュース開始時にノクチルに所属しているサポートアイドルの絆が小アップします,Slightly increases noctchill Support Idols' bond points at the start of production.
+ノクチルのタオル,noctchill Towel
+ノクチルに所属しているサポートアイドルの絆が中アップします,Moderately increases noctchill Support Idols' bond points.
+プロデュース開始時にノクチルに所属しているサポートアイドルの絆が中アップします,Moderately increases noctchill Support Idols' bond points at the start of production.
+ノクチルのTシャツ,noctchill T-Shirt
+ノクチルに所属しているサポートアイドルの絆が大アップします,Greatly increases noctchill Support Idols' bond points.
+プロデュース開始時にノクチルに所属しているサポートアイドルの絆が大アップします,Greatly increases noctchill Support Idols' bond points at the start of production.
+シーズのキーホルダー,SHHis Keychain
+シーズの\nキーホルダー,SHHis\nKeychain
+シーズに所属しているサポートアイドルの絆が小アップします,Slightly increases SHHis Support Idols' bond points.
+プロデュース開始時にシーズに所属しているサポートアイドルの絆が小アップします,Slightly increases SHHis Support Idols' bond points at the start of production.
+シーズのタオル,SHHis Towel
+シーズに所属しているサポートアイドルの絆が中アップします,Moderately increases SHHis Support Idols' bond points.
+プロデュース開始時にシーズに所属しているサポートアイドルの絆が中アップします,Moderately increases SHHis Support Idols' bond points at the start of production.
+シーズのTシャツ,SHHis T-Shirt
+シーズに所属しているサポートアイドルの絆が大アップします,Greatly increases SHHis Support Idols' bond points.
+プロデュース開始時にシーズに所属しているサポートアイドルの絆が大アップします,Greatly increases SHHis Support Idols' bond points at the start of production.
+コメティックのキーホルダー,CoMETIK Keychain
+コメティックの\nキーホルダー,CoMETIK \nKeychain
+コメティックに所属しているサポートアイドルの絆が小アップします,Slightly increases CoMETIK Support Idols' bond points.
+プロデュース開始時にコメティックに所属しているサポートアイドルの絆が小アップします,Slightly increases CoMETIK Support Idols' bond points at the start of production.
+コメティックのタオル,CoMETIK Towel
+コメティックに所属しているサポートアイドルの絆が中アップします,Moderately increases CoMETIK Support Idols' bond points.
+プロデュース開始時にコメティックに所属しているサポートアイドルの絆が中アップします,Moderately increases CoMETIK Support Idols' bond points at the start of production.
+コメティックのTシャツ,CoMETIK T-Shirt
+コメティックに所属しているサポートアイドルの絆が大アップします,Greatly increases CoMETIK Support Idols' bond points.
+プロデュース開始時にコメティックに所属しているサポートアイドルの絆が大アップします,Greatly increases CoMETIK Support Idols' bond points at the start of production.
+流行雑誌,Trend Magazine
+使用時流行全てをランダムで変更します,Randomly change all trends when used
+流行雑誌(2冊入り),Trend Magazine (2)
+使用時流行全てをランダムで変更します(プロデュース中2回まで使用可能),Randomly change all trends when used (Can use 2 times in a Produce Run)
+Vocal流行雑誌,Vocal Trend Magazine
+使用時流行1位をVocalに変更し、2位3位はランダムで変更します,"When activated, the #1 trend will switch to Vocal, #2 and #3 will switch randomly."
+Dance流行雑誌,Dance Trend Magazine
+使用時流行1位をDanceに変更し、2位3位はランダムで変更します,"When activated, the #1 trend will switch to Dance, #2 and #3 will switch randomly."
+Visual流行雑誌,Visual Trend Magazine
+使用時流行1位をVisualに変更し、2位3位はランダムで変更します,"When activated, the #1 trend will switch to Visual, #2 and #3 will switch randomly."
+予定変更付箋,Schedule Change Sticky Note
+使用時サポートアイドルの配置をランダムで変更します,Randomly change the location of all Support Idols when used.
+予定変更付箋(2個入り),Schedule Change Sticky Note (2)
+使用時サポートアイドルの配置をランダムで変更します(プロデュース中2回まで使用可能),Randomly change the location of all Support Idols when used (Can use 2 times in a Produce Run).
+予定変更付箋(3個入り),Schedule Change Sticky Note (3)
+使用時サポートアイドルの配置をランダムで変更します(プロデュース中3回まで使用可能),Randomly change the location of all Support Idols when used (Can use 3 times in a Produce Run).
+約束のコロン,Promise Cologne
+プロデュース中の約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run slightly (decreases each time a promise occurs, up to four times)."
+約束のトワレ,Promise Toilette
+プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to medium (decreases each time a promise occurs, up to four times)."
+約束のパルファム,Promise Perfume
+プロデュース中の約束発生率を大アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to high (decreases each time a promise occurs, up to four times)."
+SSR or SR確定ガシャチケット,SSR or SR Guaranteed Gacha Ticket
+SSR確定ガシャチケット,SSR Guaranteed\nGacha Ticket
+SSR確定ガシャが引けるチケットです,This ticket can be used to pull a guaranteed SSR card.
+SSR確定Plusガシャチケット(1/10),SSR Guaranteed Plus Gacha Ticket (1/10)
+限定入りSSR確定ガシャチケット(1/10),Limited Included Guaranteed SSR Gacha Ticket (1/10)
+リカバリーソーダ30,Recovery Soda 30
+スタミナが30回復します,Recovers 30 stamina when used.
+リカバリーソーダ60,Recovery Soda 60
+スタミナが60回復します,Recovers 60 stamina when used.
+リカバリーソーダ100,Recovery Soda 100
+スタミナが100回復します,Recovers 100 stamina when used.
+フェスエントリーチケット,Fes Entry Ticket
+フェス参加権が回復します,Restores one FES entry point.
+フェス参加権が1回復します,Restores 1 FES Entry Point
+フェスエントリーチケット5,5 Fes Entries Ticket
+フェス参加権が5回復します,Restores five FES entry points.
+コンティニューチケット,Continue Ticket
+チケットを消費し、一部のライブをコンティニューすることができます,Allows one more retry at a live if used.
+スキップチケット,Skip Ticket
+オートプロデュースを1回分スキップするチケット,Lets you skip one Produce run in Auto Produce.
+Lv.50チケット,Lv. 50 Ticket
+プラチナトレーニングチケット,Platinum Training Ticket
+ゴールドトレーニングチケット,Gold Training Ticket
+シルバートレーニングチケット,Silver Training Ticket
+ブロンズトレーニングチケット,Bronze Training Ticket
+トレーニングチケット,Training Ticket
+サポートアイドルのトレーニングに必要なチケットです,Ticket required to train Support Idols
+DARS ミルク,DARS Milk
+DARS 3フレーバーセット,DARS 3 Flavors Set
+ナッシュのおべんとう,Nosh Meal Box
+DARS ミルク-2023-,DARS Milk -2023-
+DARS 4フレーバーセット,DARS 4 Flavors Set
+プチテンションアロマ,Petit Tension Aroma
+使用時プロデュースアイドルのテンションが小アップします,"When used, it will slightly increase your Produce Idol's Tension."
+プチテンションアロマ\n(2個入り),Petit Tension Aroma \n(2)
+プチテンションアロマ(2個入り),Petit Tension \nAroma (2)
+使用時プロデュースアイドルのテンションが小アップします(プロデュース中2回まで使用可能),"When used, it will slightly increase your Produce Idol's Tension. (Usable up to 2 times during Produce)."
+プチテンションアロマ（3個入り）,Petit Tension Aroma (3)
+テンションアロマ,Tension Aroma
+使用時プロデュースアイドルのテンションが中アップします,"When used, it will somewhat increase your Produce Idol's Tension."
+テンションアロマ\n(2個入り),Tension Aroma \n(2)
+テンションアロマ(2個入り),Tension Aroma (2)
+使用時プロデュースアイドルのテンションが中アップします(プロデュース中2回まで使用可能),"When used, it will somewhat increase your Produce Idol's Tension. (Usable up to 2 times during Produce)."
+テンションアロマ\n(3個入り),Tension Aroma \n(3)
+テンションアロマ(3個入り),Tension Aroma (3)
+使用時プロデュースアイドルのテンションが中アップします(プロデュース中3回まで使用可能),"When used, it will somewhat increase your Produce Idol's Tension. (Usable up to 3 times during Produce)."
+テンションアロマグランデ(3個入り),Tension Aroma Grande (3)
+使用時プロデュースアイドルのテンションが大アップします(プロデュース中3回まで使田可能),"When used, it will greatly increase your Produce Idol's Tension. (Usable up to 3 times during Produce)"
+炎メシ（ホムラメシ）,Homurameshi
+使用時プロデュースアイドルのテンションが大アップします,"When used, it will greatly increase your Produce Idol's Tension."
+トラブル守り,Trouble Charm
+プロデュース中の失敗＆大失敗で発生するデメリットを1回無効にします,"Will prevent disadvantages from Failure & Catastrophe during Produce once.【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】"
+トラブル守り(2個入り),Trouble Charm (2)
+トラブル守り（2個入り）,Trouble Charm (2)
+プロデュース中の失敗＆大失敗で発生するデメリットを2回無効にします,"Will prevent disadvantages from Failure & Catastrophe during Produce up to 2 times.【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】"
+トラブル守り(3個入り),Trouble Charm (3)
+プロデュース中の失敗＆大失敗で発生するデメリットを3回無効にします【ファン感謝祭編：失敗＆大失敗発生時にもアイデアが埋まります】,"Will prevent disadvantages from Failure & Catastrophe during Produce up to 3 times.【During Thanks Flapping Day: When a Failure & Catastrophe occurs, you will still get Ideas】"
+秘密のメモ帳,Secret Notebook
+プロデュース中に発生するコミュの選択後の結果を見えるようにします,Reveals the result of commu answers that occur during Produce.
+アルバムの鍵,Album Key
+イベントコミュを解放できるアイテムです,An item used to unlock an event commu.
+アイドルコミュの鍵,Idol Commu Key
+アイドルコミュを解放できるアイテムです,An item used to unlock an idol commu.
+始まりのメッセージカード,Introductory Message Card
+プロデュース開始時に親愛度＋5します,Start production with +5 Bond points.
+金色のメッセージカード,Golden Message Card
+虹色のメッセージカード,Rainbow Message Card
+プロデュース開始時に親愛度＋15します,Start production with +15 Bond points.
+283メモリーアルバム,283 Memory Album
+プロデュース開始時に親愛度＋10します,Start production with +10 Bond.
+ボーカル基礎知識本,Vocal Basic Knowledge Book
+プロデュース開始時にVocal＋30します,Start production with +30 Vocal.
+ボーカル応用知識本,Vocal Application Knowledge Book
+プロデュース開始時にVocal＋60します,Start production with +60 Vocal.
+ボーカル実践知識本,Vocal Practical Knowledge Book
+プロデュース開始時にVocal＋90します,Start production with +90 Vocal.
+ダンス基礎知識本,Dance Basic Knowledge Book
+プロデュース開始時にDance＋30します,Start production with +30 Dance.
+ダンス応用知識本,Dance Application Knowledge Book
+プロデュース開始時にDance＋60します,Start production with +60 Dance.
+ダンス実践知識本,Dance Practical Knowledge Book
+プロデュース開始時にDance＋90します,Start production with +90 Dance.
+ビジュアル基礎知識本,Visual Basic Knowledge Book
+プロデュース開始時にVisual＋30します,Start production with +30 Visual.
+ビジュアル応用知識本,Visual Application Knowledge Book
+プロデュース開始時にVisual＋60します,Start production with +60 Visual.
+ビジュアル実践知識本,Visual Practical Knowledge Book
+プロデュース開始時にVisual＋90します,Start production with +90 Visual.
+メンタル基礎知識本,Mental Basic Knowledge Book
+プロデュース開始時にメンタル＋30します,Start production with +30 Mental.
+スキル基礎知識本,Skill Basic Knowledge Book
+プロデュース開始時にSP＋30します,Start production with +30 SP.
+スキル応用知識本,Skill Application Knowledge Book
+プロデュース開始時にSP＋60します,Start production with +60 SP.
+スキル実践知識本,Skill Practical Knowledge Book
+プロデュース開始時にSP＋90します,Start production with +90 SP.
+SSR特訓はづきさん（プロデュース）,SSR Evolve Hazuki (Produce)
+SSRのプロデュースアイドルを特訓します[お1人様1つまで],Used to evolve an SSR Produce card. [Limit 1 per person]
+SSR特訓はづきさん（サポート）,SSR Evolve Hazuki (Support)
+SSRのサポートアイドルを特訓します[お1人様1つまで],Used to evolve an SSR Support card. [Limit 1 per person]
+SR特訓はづきさん（プロデュース）,SR Evolve Hazuki (Produce)
+SRのプロデュースアイドルを特訓します[お1人様3つまで],Used to evolve an SR Produce card. [Limit 3 per person]
+SR特訓はづきさん（サポート）,SR Evolve Hazuki (Support)
+SRのサポートアイドルを特訓します[お1人様3つまで],Used to evolve an SR Support card. [Limit 3 per person]
+モーニングコミュパン,Morning Commu Bread
+プロデュース中、シーズン１に限り朝コミュ発生率を小アップします,Slightly increases the chance of getting a morning commu during Season 1 in Produce.
+こんがりモーニングコミュパン,Toasted Morning Commu Bread
+プロデュース中、シーズン１に限り朝コミュ発生率を中アップします,Increases the chance of getting a morning commu during Season 1 in Produce.
+スペシャルモーニングコミュパン,Special Morning Commu Bread
+プロデュース中、シーズン１に限り朝コミュ発生率を大アップします,Greatly increases the chance of getting a morning commu during Season 1 in Produce.
+スペシャルモーニングセット,Special Morning Set
+銅の羽根,Bronze Feather
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が極小アップします,Slightly increases Support Idol in unit at the start of production's bond points.
+プロデュース開始時に編成している全サポートアイドルの絆が極小アップします,Slightly increases all Support Idols' bond points.
+銀の羽根,Silver Feather
+プロデュース中の約束発生率を極小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run slightly. (Decreases each time a promise occurs, up to four times)"
+金の羽根,Gold Feather
+プロデュース開始時に編成している全サポートアイドルの絆が極小アップし、プロデュース中の約束発生率を極小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases all Support Idols' bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)"
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が極小アップし、プロデュース中の約束発生率を極小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases Support Idol in unit at the start of production's bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)"
+プラチナの羽根,Platinum Feather
+プロデュース開始時に編成している全サポートアイドルの絆が小アップし、プロデュース中の約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases all Support Idols' bond points, and increases promises chance during a run. (Decreases each time a promise occurs, up to four times)"
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が小アップし、プロデュース中の約束発生率を小アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Slightly increases Support Idol in unit at the start of production's bond points, and increases promises chance during a run. (Decreases each time a promise occurs, up to four times)"
+虹の羽根,Rainbow Feather
+プロデュース開始時に編成している全サポートアイドルの絆が中アップし、プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases all Support Idols' bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)"
+プロデュース開始時にユニットに編成している全サポートアイドルの絆が中アップし、プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases Support Idol in unit at the start of production's bond points and promises chance during a run. (Decreases each time a promise occurs, up to four times)"
+お手製差し入れ,Handmade Goods
+Exスキルスポイト,Ex Skill Dropper
+Exスキルを外す事ができるアイテムです,An item which can extract an Ex skill.
+オーバーキャスト\nモノクローム,Overcast\nMonochrome
+オーバーキャストモノクローム交換チケット,Overcast Monochrome \nExchange Ticket
+オーバーキャストモノクロームと交換できるチケットです,Used in the Overcast Monochrome Exchange Shop.
+【オーバーキャストモノクローム】櫻木 真乃,[Overcast Monochrome] Mano
+【オーバーキャストモノ\nクローム】櫻木 真乃,[Overcast Mono-\nchrome] Mano
+【オーバーキャストモノクローム】風野 灯織,[Overcast Monochrome] Hiori
+【オーバーキャストモノ\nクローム】風野 灯織,[Overcast Mono-\nchrome] Hiori
+【オーバーキャストモノクローム】八宮 めぐる,[Overcast Monochrome] Meguru
+【オーバーキャストモノ\nクローム】八宮 めぐる,[Overcast Mono-\nchrome] Meguru
+【オーバーキャストモノクローム】月岡 恋鐘,[Overcast Monochrome] Kogane
+【オーバーキャストモノ\nクローム】月岡 恋鐘,[Overcast Mono-\nchrome] Kogane
+【オーバーキャストモノクローム】田中 摩美々,[Overcast Monochrome] Mamimi
+【オーバーキャストモノ\nクローム】田中 摩美々,[Overcast Mono-\nchrome] Mamimi
+【オーバーキャストモノクローム】白瀬 咲耶,[Overcast Monochrome] Sakuya
+【オーバーキャストモノ\nクローム】白瀬 咲耶,[Overcast Mono-\nchrome] Sakuya
+【オーバーキャストモノクローム】三峰 結華,[Overcast Monochrome] Yuika
+【オーバーキャストモノ\nクローム】三峰 結華,[Overcast Mono-\nchrome] Yuika
+【オーバーキャストモノクローム】幽谷 霧子,[Overcast Monochrome] Kiriko
+【オーバーキャストモノ\nクローム】幽谷 霧子,[Overcast Mono-\nchrome] Kiriko
+【オーバーキャストモノクローム】小宮 果穂,[Overcast Monochrome] Kaho
+【オーバーキャストモノ\nクローム】小宮 果穂,[Overcast Mono-\nchrome] Kaho
+【オーバーキャストモノクローム】園田 智代子,[Overcast Monochrome] Chiyoko
+【オーバーキャストモノ\nクローム】園田 智代子,[Overcast Mono-\nchrome] Chiyoko
+【オーバーキャストモノクローム】西城 樹里,[Overcast Monochrome] Juri
+【オーバーキャストモノ\nクローム】西城 樹里,[Overcast Mono-\nchrome] Juri
+【オーバーキャストモノクローム】杜野 凛世,[Overcast Monochrome] Rinze
+【オーバーキャストモノ\nクローム】杜野 凛世,[Overcast Mono-\nchrome] Rinze
+【オーバーキャストモノクローム】有栖川 夏葉,[Overcast Monochrome] Natsuha
+【オーバーキャストモノ\nクローム】有栖川 夏葉,[Overcast Mono-\nchrome] Natsuha
+【オーバーキャストモノクローム】大崎 甘奈,[Overcast Monochrome] Amana
+【オーバーキャストモノ\nクローム】大崎 甘奈,[Overcast Mono-\nchrome] Amana
+【オーバーキャストモノクローム】大崎 甜花,[Overcast Monochrome] Tenka
+【オーバーキャストモノ\nクローム】大崎 甜花,[Overcast Mono-\nchrome] Tenka
+【オーバーキャストモノクローム】桑山 千雪,[Overcast Monochrome] Chiyuki
+【オーバーキャストモノ\nクローム】桑山 千雪,[Overcast Mono-\nchrome] Chiyuki
+【オーバーキャストモノクローム】芹沢 あさひ,[Overcast Monochrome] Asahi
+【オーバーキャストモノ\nクローム】芹沢 あさひ,[Overcast Mono-\nchrome] Asahi
+【オーバーキャストモノクローム】黛 冬優子,[Overcast Monochrome] Fuyuko
+【オーバーキャストモノ\nクローム】黛 冬優子,[Overcast Mono-\nchrome] Fuyuko
+【オーバーキャストモノクローム】和泉 愛依,[Overcast Monochrome] Mei
+【オーバーキャストモノ\nクローム】和泉 愛依,[Overcast Mono-\nchrome] Mei
+【オーバーキャストモノクローム】浅倉 透,[Overcast Monochrome] Toru
+【オーバーキャストモノ\nクローム】浅倉 透,[Overcast Mono-\nchrome] Toru
+【オーバーキャストモノクローム】樋口 円香,[Overcast Monochrome] Madoka
+【オーバーキャストモノ\nクローム】樋口 円香,[Overcast Mono-\nchrome] Madoka
+【オーバーキャストモノクローム】福丸 小糸,[Overcast Monochrome] Koito
+【オーバーキャストモノ\nクローム】福丸 小糸,[Overcast Mono-\nchrome] Koito
+【オーバーキャストモノクローム】市川 雛菜,[Overcast Monochrome] Hinana
+【オーバーキャストモノ\nクローム】市川 雛菜,[Overcast Mono-\nchrome] Hinana
+【オーバーキャストモノクローム】七草 にちか,[Overcast Monochrome] Nichika
+【オーバーキャストモノ\nクローム】七草 にちか,[Overcast Mono-\nchrome] Nichika
+【オーバーキャストモノクローム】緋田 美琴,[Overcast Monochrome] Mikoto
+【オーバーキャストモノ\nクローム】緋田 美琴,[Overcast Mono-\nchrome] Mikoto
+【オーバーキャストモノクローム】斑鳩 ルカ,[Overcast Monochrome] Luca
+【オーバーキャストモノ\nクローム】斑鳩 ルカ,[Overcast Mono-\nchrome] Luca
+【オーバーキャストモノクローム】鈴木 羽那,[Overcast Monochrome] Hana
+【オーバーキャストモノ\nクローム】鈴木 羽那,[Overcast Mono-\nchrome] Hana
+【オーバーキャストモノクローム】郁田 はるき,[Overcast Monochrome] Haruki
+【オーバーキャストモノ\nクローム】郁田 はるき,[Overcast Mono-\nchrome] Haruki
+サンセットスカイ\nパッセージ,Sunset Sky\nPassage
+サンセットスカイパッセージ衣装チケット,Sunset Sky Passage Exchange Ticket
+サンセットスカイパッセージと交換できるチケットです,Used in the Sunset Sky Passage Exchange Shop.
+【サンセットスカイパッセージ】櫻木 真乃,[Sunset Sky Passage] Mano
+【サンセットスカイ\nパッセージ】櫻木 真乃,[Sunset Sky\nPassage] Mano
+【サンセットスカイパッセージ】風野 灯織,[Sunset Sky Passage] Hiori
+【サンセットスカイ\nパッセージ】風野 灯織,[Sunset Sky\nPassage] Hiori
+【サンセットスカイパッセージ】八宮 めぐる,[Sunset Sky Passage] Meguru
+【サンセットスカイ\nパッセージ】八宮 めぐる,[Sunset Sky\nPassage] Meguru
+【サンセットスカイパッセージ】月岡 恋鐘,[Sunset Sky Passage] Kogane
+【サンセットスカイ\nパッセージ】月岡 恋鐘,[Sunset Sky\nPassage] Kogane
+【サンセットスカイパッセージ】田中 摩美々,[Sunset Sky Passage] Mamimi
+【サンセットスカイ\nパッセージ】田中 摩美々,[Sunset Sky\nPassage] Mamimi
+【サンセットスカイパッセージ】白瀬 咲耶,[Sunset Sky Passage] Sakuya
+【サンセットスカイ\nパッセージ】白瀬 咲耶,[Sunset Sky\nPassage] Sakuya
+【サンセットスカイパッセージ】三峰 結華,[Sunset Sky Passage] Yuika
+【サンセットスカイ\nパッセージ】三峰 結華,[Sunset Sky\nPassage] Yuika
+【サンセットスカイパッセージ】幽谷 霧子,[Sunset Sky Passage] Kiriko
+【サンセットスカイ\nパッセージ】幽谷 霧子,[Sunset Sky\nPassage] Kiriko
+【サンセットスカイパッセージ】小宮 果穂,[Sunset Sky Passage] Kaho
+【サンセットスカイ\nパッセージ】小宮 果穂,[Sunset Sky\nPassage] Kaho
+【サンセットスカイパッセージ】園田 智代子,[Sunset Sky Passage] Chiyoko
+【サンセットスカイ\nパッセージ】園田 智代子,[Sunset Sky\nPassage] Chiyoko
+【サンセットスカイパッセージ】西城 樹里,[Sunset Sky Passage] Juri
+【サンセットスカイ\nパッセージ】西城 樹里,[Sunset Sky\nPassage] Juri
+【サンセットスカイパッセージ】杜野 凛世,[Sunset Sky Passage] Rinze
+【サンセットスカイ\nパッセージ】杜野 凛世,[Sunset Sky\nPassage] Rinze
+【サンセットスカイパッセージ】有栖川 夏葉,[Sunset Sky Passage] Natsuha
+【サンセットスカイ\nパッセージ】有栖川 夏葉,[Sunset Sky\nPassage] Natsuha
+【サンセットスカイパッセージ】大崎 甘奈,[Sunset Sky Passage] Amana
+【サンセットスカイ\nパッセージ】大崎 甘奈,[Sunset Sky\nPassage] Amana
+【サンセットスカイパッセージ】大崎 甜花,[Sunset Sky Passage] Tenka
+【サンセットスカイ\nパッセージ】大崎 甜花,[Sunset Sky\nPassage] Tenka
+【サンセットスカイパッセージ】桑山 千雪,[Sunset Sky Passage] Chiyuki
+【サンセットスカイ\nパッセージ】桑山 千雪,[Sunset Sky\nPassage] Chiyuki
+【サンセットスカイパッセージ】芹沢 あさひ,[Sunset Sky Passage] Asahi
+【サンセットスカイ\nパッセージ】芹沢 あさひ,[Sunset Sky\nPassage] Asahi
+【サンセットスカイパッセージ】黛 冬優子,[Sunset Sky Passage] Fuyuko
+【サンセットスカイ\nパッセージ】黛 冬優子,[Sunset Sky\nPassage] Fuyuko
+【サンセットスカイパッセージ】和泉 愛依,[Sunset Sky Passage] Mei
+【サンセットスカイ\nパッセージ】和泉 愛依,[Sunset Sky\nPassage] Mei
+【サンセットスカイパッセージ】浅倉 透,[Sunset Sky Passage] Toru
+【サンセットスカイ\nパッセージ】浅倉 透,[Sunset Sky\nPassage] Toru
+【サンセットスカイパッセージ】樋口 円香,[Sunset Sky Passage] Madoka
+【サンセットスカイ\nパッセージ】樋口 円香,[Sunset Sky\nPassage] Madoka
+【サンセットスカイパッセージ】福丸 小糸,[Sunset Sky Passage] Koito
+【サンセットスカイ\nパッセージ】福丸 小糸,[Sunset Sky\nPassage] Koito
+【サンセットスカイパッセージ】市川 雛菜,[Sunset Sky Passage] Hinana
+【サンセットスカイ\nパッセージ】市川 雛菜,[Sunset Sky\nPassage] Hinana
+【サンセットスカイパッセージ】七草 にちか,[Sunset Sky Passage] Nichika
+【サンセットスカイ\nパッセージ】七草 にちか,[Sunset Sky\nPassage] Nichika
+【サンセットスカイパッセージ】緋田 美琴,[Sunset Sky Passage] Mikoto
+【サンセットスカイ\nパッセージ】緋田 美琴,[Sunset Sky\nPassage] Mikoto
+【サンセットスカイパッセージ】斑鳩 ルカ,[Sunset Sky Passage] Luca
+【サンセットスカイ\nパッセージ】斑鳩 ルカ,[Sunset Sky\nPassage] Luca
+【サンセットスカイパッセージ】鈴木 羽那,[Sunset Sky Passage] Hana
+【サンセットスカイ\nパッセージ】鈴木 羽那,[Sunset Sky\nPassage] Hana
+【サンセットスカイパッセージ】郁田 はるき,[Sunset Sky Passage] Haruki
+【サンセットスカイ\nパッセージ】郁田 はるき,[Sunset Sky\nPassage] Haruki
+ユナイトバースプラネタリ,Uniteverse\nPlanetary
+ユナイトバースプラネタリ衣装チケット,Uniteverse Planetary Exchange Ticket
+ユナイトバースプラネタリと交換できるチケットです,Used in the Uniteverse Planetary Exchange Shop.
+【ユナイトバースプラネタリ】櫻木 真乃,[Uniteverse Planetary] Mano
+【ユナイトバース\nプラネタリ】櫻木 真乃,[Uniteverse\nPlanetary] Mano
+【ユナイトバースプラネタリ】風野 灯織,[Uniteverse Planetary] Hiori
+【ユナイトバース\nプラネタリ】風野 灯織,[Uniteverse\nPlanetary] Hiori
+【ユナイトバースプラネタリ】八宮 めぐる,[Uniteverse Planetary] Meguru
+【ユナイトバース\nプラネタリ】八宮 めぐる,[Uniteverse\nPlanetary] Meguru
+【ユナイトバースプラネタリ】月岡 恋鐘,[Uniteverse Planetary] Kogane
+【ユナイトバース\nプラネタリ】月岡 恋鐘,[Uniteverse\nPlanetary] Kogane
+【ユナイトバースプラネタリ】田中 摩美々,[Uniteverse Planetary] Mamimi
+【ユナイトバース\nプラネタリ】田中 摩美々,[Uniteverse\nPlanetary] Mamimi
+【ユナイトバースプラネタリ】白瀬 咲耶,[Uniteverse Planetary] Sakuya
+【ユナイトバース\nプラネタリ】白瀬 咲耶,[Uniteverse\nPlanetary] Sakuya
+【ユナイトバースプラネタリ】三峰 結華,[Uniteverse Planetary] Yuika
+【ユナイトバース\nプラネタリ】三峰 結華,[Uniteverse\nPlanetary] Yuika
+【ユナイトバースプラネタリ】幽谷 霧子,[Uniteverse Planetary] Kiriko
+【ユナイトバース\nプラネタリ】幽谷 霧子,[Uniteverse\nPlanetary] Kiriko
+【ユナイトバースプラネタリ】小宮 果穂,[Uniteverse Planetary] Kaho
+【ユナイトバース\nプラネタリ】小宮 果穂,[Uniteverse\nPlanetary] Kaho
+【ユナイトバースプラネタリ】園田 智代子,[Uniteverse Planetary] Chiyoko
+【ユナイトバース\nプラネタリ】園田 智代子,[Uniteverse\nPlanetary] Chiyoko
+【ユナイトバースプラネタリ】西城 樹里,[Uniteverse Planetary] Juri
+【ユナイトバース\nプラネタリ】西城 樹里,[Uniteverse\nPlanetary] Juri
+【ユナイトバースプラネタリ】杜野 凛世,[Uniteverse Planetary] Rinze
+【ユナイトバース\nプラネタリ】杜野 凛世,[Uniteverse\nPlanetary] Rinze
+【ユナイトバースプラネタリ】有栖川 夏葉,[Uniteverse Planetary] Natsuha
+【ユナイトバース\nプラネタリ】有栖川 夏葉,[Uniteverse\nPlanetary] Natsuha
+【ユナイトバースプラネタリ】大崎 甘奈,[Uniteverse Planetary] Amana
+【ユナイトバース\nプラネタリ】大崎 甘奈,[Uniteverse\nPlanetary] Amana
+【ユナイトバースプラネタリ】大崎 甜花,[Uniteverse Planetary] Tenka
+【ユナイトバース\nプラネタリ】大崎 甜花,[Uniteverse\nPlanetary] Tenka
+【ユナイトバースプラネタリ】桑山 千雪,[Uniteverse Planetary] Chiyuki
+【ユナイトバース\nプラネタリ】桑山 千雪,[Uniteverse\nPlanetary] Chiyuki
+【ユナイトバースプラネタリ】芹沢 あさひ,[Uniteverse Planetary] Asahi
+【ユナイトバース\nプラネタリ】芹沢 あさひ,[Uniteverse\nPlanetary] Asahi
+【ユナイトバースプラネタリ】黛 冬優子,[Uniteverse Planetary] Fuyuko
+【ユナイトバース\nプラネタリ】黛 冬優子,[Uniteverse\nPlanetary] Fuyuko
+【ユナイトバースプラネタリ】和泉 愛依,[Uniteverse Planetary] Mei
+【ユナイトバース\nプラネタリ】和泉 愛依,[Uniteverse\nPlanetary] Mei
+【ユナイトバースプラネタリ】浅倉 透,[Uniteverse Planetary] Toru
+【ユナイトバース\nプラネタリ】浅倉 透,[Uniteverse\nPlanetary] Toru
+【ユナイトバースプラネタリ】樋口 円香,[Uniteverse Planetary] Madoka
+【ユナイトバース\nプラネタリ】樋口 円香,[Uniteverse\nPlanetary] Madoka
+【ユナイトバースプラネタリ】福丸 小糸,[Uniteverse Planetary] Koito
+【ユナイトバース\nプラネタリ】福丸 小糸,[Uniteverse\nPlanetary] Koito
+【ユナイトバースプラネタリ】市川 雛菜,[Uniteverse Planetary] Hinana
+【ユナイトバース\nプラネタリ】市川 雛菜,[Uniteverse\nPlanetary] Hinana
+【ユナイトバースプラネタリ】七草 にちか,[Uniteverse Planetary] Nichika
+【ユナイトバース\nプラネタリ】七草 にちか,[Uniteverse\nPlanetary] Nichika
+【ユナイトバースプラネタリ】緋田 美琴,[Uniteverse Planetary] Mikoto
+【ユナイトバース\nプラネタリ】緋田 美琴,[Uniteverse\nPlanetary] Mikoto
+【ユナイトバースプラネタリ】斑鳩 ルカ,[Uniteverse Planetary] Luca
+【ユナイトバース\nプラネタリ】斑鳩 ルカ,[Uniteverse\nPlanetary] Luca
+【ユナイトバースプラネタリ】鈴木 羽那,[Uniteverse Planetary] Hana
+【ユナイトバース\nプラネタリ】鈴木 羽那,[Uniteverse\nPlanetary] Hana
+【ユナイトバースプラネタリ】郁田 はるき,[Uniteverse Planetary] Haruki
+【ユナイトバース\nプラネタリ】郁田 はるき,[Uniteverse\nPlanetary] Haruki
+スターリー・\nフューチャーズ,Starry\nFutures
+【スターリー・フューチャーズ】櫻木 真乃,[Starry Futures] Mano
+【スターリー・フューチャーズ】\n櫻木 真乃,[Starry Futures]\nMano
+【スターリー・フューチャーズ】風野 灯織,[Starry Futures] Hiori
+【スターリー・フューチャーズ】\n風野 灯織,[Starry Futures]\nHiori
+【スターリー・フューチャーズ】八宮 めぐる,[Starry Futures] Meguru
+【スターリー・フューチャーズ】\n八宮 めぐる,[Starry Futures]\nMeguru
+セレスティアル\nカラーズ,Celestial\nColors
+セレスティアルカラーズ衣装チケット,Celestial Colors Exchange Ticket
+セレスティアルカラーズと交換できるチケットです,Used in the Celestial Colors Exchange Shop.
+【セレスティアルカラーズ】櫻木 真乃,[Celestial Colors] Mano
+【セレスティアルカラーズ】\n櫻木 真乃,[Celestial Colors]\nMano
+【セレスティアルカラーズ】風野 灯織,[Celestial Colors] Hiori
+【セレスティアルカラーズ】\n風野 灯織,[Celestial Colors]\nHiori
+【セレスティアルカラーズ】八宮 めぐる,[Celestial Colors] Meguru
+【セレスティアルカラーズ】\n八宮 めぐる,[Celestial Colors]\nMeguru
+【セレスティアルカラーズ】月岡 恋鐘,[Celestial Colors] Kogane
+【セレスティアルカラーズ】\n月岡 恋鐘,[Celestial Colors]\nKogane
+【セレスティアルカラーズ】田中 摩美々,[Celestial Colors] Mamimi
+【セレスティアルカラーズ】\n田中 摩美々,[Celestial Colors]\nMamimi
+【セレスティアルカラーズ】白瀬 咲耶,[Celestial Colors] Sakuya
+【セレスティアルカラーズ】\n白瀬 咲耶,[Celestial Colors]\nSakuya
+【セレスティアルカラーズ】三峰 結華,[Celestial Colors] Yuika
+【セレスティアルカラーズ】\n三峰 結華,[Celestial Colors]\nYuika
+【セレスティアルカラーズ】幽谷 霧子,[Celestial Colors] Kiriko
+【セレスティアルカラーズ】\n幽谷 霧子,[Celestial Colors]\nKiriko
+【セレスティアルカラーズ】小宮 果穂,[Celestial Colors] Kaho
+【セレスティアルカラーズ】\n小宮 果穂,[Celestial Colors]\nKaho
+【セレスティアルカラーズ】園田 智代子,[Celestial Colors] Chiyoko
+【セレスティアルカラーズ】\n園田 智代子,[Celestial Colors]\nChiyoko
+【セレスティアルカラーズ】西城 樹里,[Celestial Colors] Juri
+【セレスティアルカラーズ】\n西城 樹里,[Celestial Colors]\nJuri
+【セレスティアルカラーズ】杜野 凛世,[Celestial Colors] Rinze
+【セレスティアルカラーズ】\n杜野 凛世,[Celestial Colors]\nRinze
+【セレスティアルカラーズ】有栖川 夏葉,[Celestial Colors] Natsuha
+【セレスティアルカラーズ】\n有栖川 夏葉,[Celestial Colors]\nNatsuha
+【セレスティアルカラーズ】大崎 甘奈,[Celestial Colors] Amana
+【セレスティアルカラーズ】\n大崎 甘奈,[Celestial Colors]\nAmana
+【セレスティアルカラーズ】大崎 甜花,[Celestial Colors] Tenka
+【セレスティアルカラーズ】\n大崎 甜花,[Celestial Colors]\nTenka
+【セレスティアルカラーズ】桑山 千雪,[Celestial Colors] Chiyuki
+【セレスティアルカラーズ】\n桑山 千雪,[Celestial Colors]\nChiyuki
+【セレスティアルカラーズ】芹沢 あさひ,[Celestial Colors] Asahi
+【セレスティアルカラーズ】\n芹沢 あさひ,[Celestial Colors]\nAsahi
+【セレスティアルカラーズ】黛 冬優子,[Celestial Colors] Fuyuko
+【セレスティアルカラーズ】\n黛 冬優子,[Celestial Colors]\nFuyuko
+【セレスティアルカラーズ】和泉 愛依,[Celestial Colors] Mei
+【セレスティアルカラーズ】\n和泉 愛依,[Celestial Colors]\nMei
+【セレスティアルカラーズ】浅倉 透,[Celestial Colors] Toru
+【セレスティアルカラーズ】\n浅倉 透,[Celestial Colors]\nToru
+【セレスティアルカラーズ】樋口 円香,[Celestial Colors] Madoka
+【セレスティアルカラーズ】\n樋口 円香,[Celestial Colors]\nMadoka
+【セレスティアルカラーズ】福丸 小糸,[Celestial Colors] Koito
+【セレスティアルカラーズ】\n福丸 小糸,[Celestial Colors]\nKoito
+【セレスティアルカラーズ】市川 雛菜,[Celestial Colors] Hinana
+【セレスティアルカラーズ】\n市川 雛菜,[Celestial Colors]\nHinana
+【セレスティアルカラーズ】七草 にちか,[Celestial Colors] Nichika
+【セレスティアルカラーズ】\n七草 にちか,[Celestial Colors]\nNichika
+【セレスティアルカラーズ】緋田 美琴,[Celestial Colors] Mikoto
+【セレスティアルカラーズ】\n緋田 美琴,[Celestial Colors]\nMikoto
+【セレスティアルカラーズ】斑鳩 ルカ,[Celestial Colors] Luca
+【セレスティアルカラーズ】\n斑鳩 ルカ,[Celestial Colors]\nLuca
+【セレスティアルカラーズ】鈴木 羽那,[Celestial Colors] Hana
+【セレスティアルカラーズ】\n鈴木 羽那,[Celestial Colors]\nHana
+【セレスティアルカラーズ】郁田 はるき,[Celestial Colors] Haruki
+【セレスティアルカラーズ】\n郁田 はるき,[Celestial Colors]\nHaruki
+フローウィングベル,Flowing Bhelle
+フローウィングベル衣装チケット,Flowing Bhelle Exchange Ticket
+フローウィングベルと交換できるチケットです,Used in the Flowing Bhelle Exchange Shop.
+【フローウィングベル】櫻木 真乃,[Flowing Bhelle] Mano
+【フローウィングベル】\n櫻木 真乃,[Flowing Bhelle]\nMano
+【フローウィングベル】風野 灯織,[Flowing Bhelle] Hiori
+【フローウィングベル】\n風野 灯織,[Flowing Bhelle]\nHiori
+【フローウィングベル】八宮 めぐる,[Flowing Bhelle] Meguru
+【フローウィングベル】\n八宮 めぐる,[Flowing Bhelle]\nMeguru
+【フローウィングベル】月岡 恋鐘,[Flowing Bhelle] Kogane
+【フローウィングベル】\n月岡 恋鐘,[Flowing Bhelle]\nKogane
+【フローウィングベル】田中 摩美々,[Flowing Bhelle] Mamimi
+【フローウィングベル】\n田中 摩美々,[Flowing Bhelle]\nMamimi
+【フローウィングベル】白瀬 咲耶,[Flowing Bhelle] Sakuya
+【フローウィングベル】\n白瀬 咲耶,[Flowing Bhelle]\nSakuya
+【フローウィングベル】三峰 結華,[Flowing Bhelle] Yuika
+【フローウィングベル】\n三峰 結華,[Flowing Bhelle]\nYuika
+【フローウィングベル】幽谷 霧子,[Flowing Bhelle] Kiriko
+【フローウィングベル】\n幽谷 霧子,[Flowing Bhelle]\nKiriko
+【フローウィングベル】小宮 果穂,[Flowing Bhelle] Kaho
+【フローウィングベル】\n小宮 果穂,[Flowing Bhelle]\nKaho
+【フローウィングベル】園田 智代子,[Flowing Bhelle] Chiyoko
+【フローウィングベル】\n園田 智代子,[Flowing Bhelle]\nChiyoko
+【フローウィングベル】西城 樹里,[Flowing Bhelle] Juri
+【フローウィングベル】\n西城 樹里,[Flowing Bhelle]\nJuri
+【フローウィングベル】杜野 凛世,[Flowing Bhelle] Rinze
+【フローウィングベル】\n杜野 凛世,[Flowing Bhelle]\nRinze
+【フローウィングベル】有栖川 夏葉,[Flowing Bhelle] Natsuha
+【フローウィングベル】\n有栖川 夏葉,[Flowing Bhelle]\nNatsuha
+【フローウィングベル】大崎 甘奈,[Flowing Bhelle] Amana
+【フローウィングベル】\n大崎 甘奈,[Flowing Bhelle]\nAmana
+【フローウィングベル】大崎 甜花,[Flowing Bhelle] Tenka
+【フローウィングベル】\n大崎 甜花,[Flowing Bhelle]\nTenka
+【フローウィングベル】桑山 千雪,[Flowing Bhelle] Chiyuki
+【フローウィングベル】\n桑山 千雪,[Flowing Bhelle]\nChiyuki
+【フローウィングベル】芹沢 あさひ,[Flowing Bhelle] Asahi
+【フローウィングベル】\n芹沢 あさひ,[Flowing Bhelle]\nAsahi
+【フローウィングベル】黛 冬優子,[Flowing Bhelle] Fuyuko
+【フローウィングベル】\n黛 冬優子,[Flowing Bhelle]\nFuyuko
+【フローウィングベル】和泉 愛依,[Flowing Bhelle] Mei
+【フローウィングベル】\n和泉 愛依,[Flowing Bhelle]\nMei
+【フローウィングベル】浅倉 透,[Flowing Bhelle] Toru
+【フローウィングベル】\n浅倉 透,[Flowing Bhelle]\nToru
+【フローウィングベル】樋口 円香,[Flowing Bhelle] Madoka
+【フローウィングベル】\n樋口 円香,[Flowing Bhelle]\nMadoka
+【フローウィングベル】福丸 小糸,[Flowing Bhelle] Koito
+【フローウィングベル】\n福丸 小糸,[Flowing Bhelle]\nKoito
+【フローウィングベル】市川 雛菜,[Flowing Bhelle] Hinana
+【フローウィングベル】\n市川 雛菜,[Flowing Bhelle]\nHinana
+【フローウィングベル】七草 にちか,[Flowing Bhelle] Nichika
+【フローウィングベル】\n七草 にちか,[Flowing Bhelle]\nNichika
+【フローウィングベル】緋田 美琴,[Flowing Bhelle] Mikoto
+【フローウィングベル】\n緋田 美琴,[Flowing Bhelle]\nMikoto
+【フローウィングベル】斑鳩 ルカ,[Flowing Bhelle] Luca
+【フローウィングベル】\n斑鳩 ルカ,[Flowing Bhelle]\nLuca
+【フローウィングベル】鈴木 羽那,[Flowing Bhelle] Hana
+【フローウィングベル】\n鈴木 羽那,[Flowing Bhelle]\nHana
+【フローウィングベル】郁田 はるき,[Flowing Bhelle] Haruki
+【フローウィングベル】\n郁田 はるき,[Flowing Bhelle]\nHaruki
+リフレジェントプルマージュ,Refulgent Plumage
+リフレジェントプルマージュ衣装チケット,Refulgent Plumage Exchange Ticket
+リフレジェントプルマージュと交換できるチケットです,Used in the Refulgent Plumage Exchange Shop.
+【リフレジェントプルマージュ】櫻木 真乃,[Refulgent Plumage] Mano
+【リフレジェントプルマージュ】\n櫻木 真乃,[Refulgent Plumage]\nMano
+【リフレジェントプルマージュ】風野 灯織,[Refulgent Plumage] Hiori
+【リフレジェントプルマージュ】\n風野 灯織,[Refulgent Plumage]\nHiori
+【リフレジェントプルマージュ】八宮 めぐる,[Refulgent Plumage] Meguru
+【リフレジェントプルマージュ】\n八宮 めぐる,[Refulgent Plumage]\nMeguru
+【リフレジェントプルマージュ】月岡 恋鐘,[Refulgent Plumage] Kogane
+【リフレジェントプルマージュ】\n月岡 恋鐘,[Refulgent Plumage]\nKogane
+【リフレジェントプルマージュ】田中 摩美々,[Refulgent Plumage] Mamimi
+【リフレジェントプルマージュ】\n田中 摩美々,[Refulgent Plumage]\nMamimi
+【リフレジェントプルマージュ】白瀬 咲耶,[Refulgent Plumage] Sakuya
+【リフレジェントプルマージュ】\n白瀬 咲耶,[Refulgent Plumage]\nSakuya
+【リフレジェントプルマージュ】三峰 結華,[Refulgent Plumage] Yuika
+【リフレジェントプルマージュ】\n三峰 結華,[Refulgent Plumage]\nYuika
+【リフレジェントプルマージュ】幽谷 霧子,[Refulgent Plumage] Kiriko
+【リフレジェントプルマージュ】\n幽谷 霧子,[Refulgent Plumage]\nKiriko
+【リフレジェントプルマージュ】小宮 果穂,[Refulgent Plumage] Kaho
+【リフレジェントプルマージュ】\n小宮 果穂,[Refulgent Plumage]\nKaho
+【リフレジェントプルマージュ】園田 智代子,[Refulgent Plumage] Chiyoko
+【リフレジェントプルマージュ】\n園田 智代子,[Refulgent Plumage]\nChiyoko
+【リフレジェントプルマージュ】西城 樹里,[Refulgent Plumage] Juri
+【リフレジェントプルマージュ】\n西城 樹里,[Refulgent Plumage]\nJuri
+【リフレジェントプルマージュ】杜野 凛世,[Refulgent Plumage] Rinze
+【リフレジェントプルマージュ】\n杜野 凛世,[Refulgent Plumage]\nRinze
+【リフレジェントプルマージュ】有栖川 夏葉,[Refulgent Plumage] Natsuha
+【リフレジェントプルマージュ】\n有栖川 夏葉,[Refulgent Plumage]\nNatsuha
+【リフレジェントプルマージュ】大崎 甘奈,[Refulgent Plumage] Amana
+【リフレジェントプルマージュ】\n大崎 甘奈,[Refulgent Plumage]\nAmana
+【リフレジェントプルマージュ】大崎 甜花,[Refulgent Plumage] Tenka
+【リフレジェントプルマージュ】\n大崎 甜花,[Refulgent Plumage]\nTenka
+【リフレジェントプルマージュ】桑山 千雪,[Refulgent Plumage] Chiyuki
+【リフレジェントプルマージュ】\n桑山 千雪,[Refulgent Plumage]\nChiyuki
+【リフレジェントプルマージュ】芹沢 あさひ,[Refulgent Plumage] Asahi
+【リフレジェントプルマージュ】\n芹沢 あさひ,[Refulgent Plumage]\nAsahi
+【リフレジェントプルマージュ】黛 冬優子,[Refulgent Plumage] Fuyuko
+【リフレジェントプルマージュ】\n黛 冬優子,[Refulgent Plumage]\nFuyuko
+【リフレジェントプルマージュ】和泉 愛依,[Refulgent Plumage] Mei
+【リフレジェントプルマージュ】\n和泉 愛依,[Refulgent Plumage]\nMei
+【リフレジェントプルマージュ】浅倉 透,[Refulgent Plumage] Toru
+【リフレジェントプルマージュ】\n浅倉 透,[Refulgent Plumage]\nToru
+【リフレジェントプルマージュ】樋口 円香,[Refulgent Plumage] Madoka
+【リフレジェントプルマージュ】\n樋口 円香,[Refulgent Plumage]\nMadoka
+【リフレジェントプルマージュ】福丸 小糸,[Refulgent Plumage] Koito
+【リフレジェントプルマージュ】\n福丸 小糸,[Refulgent Plumage]\nKoito
+【リフレジェントプルマージュ】市川 雛菜,[Refulgent Plumage] Hinana
+【リフレジェントプルマージュ】\n市川 雛菜,[Refulgent Plumage]\nHinana
+【リフレジェントプルマージュ】七草 にちか,[Refulgent Plumage] Nichika
+【リフレジェントプルマージュ】\n七草 にちか,[Refulgent Plumage]\nNichika
+【リフレジェントプルマージュ】緋田 美琴,[Refulgent Plumage] Mikoto
+【リフレジェントプルマージュ】\n緋田 美琴,[Refulgent Plumage]\nMikoto
+【リフレジェントプルマージュ】斑鳩 ルカ,[Refulgent Plumage] Luca
+【リフレジェントプルマージュ】\n斑鳩 ルカ,[Refulgent Plumage]\nLuca
+【リフレジェントプルマージュ】鈴木 羽那,[Refulgent Plumage] Hana
+【リフレジェントプルマージュ】\n鈴木 羽那,[Refulgent Plumage]\nHana
+【リフレジェントプルマージュ】郁田 はるき,[Refulgent Plumage] Haruki
+【リフレジェントプルマージュ】\n郁田 はるき,[Refulgent Plumage]\nHaruki
+レジスタンスオーダー・\nネオス,Resistance\nOrder Neos
+レジスタンスオーダー・ネオス衣装チケット,Resistance Order Neos Exchange Ticket
+レジスタンスオーダー・ネオスと交換できるチケットです,Used in the Resistance Order Neos Exchange Shop.
+【レジスタンスオーダー・ネオス】櫻木 真乃,[Resistance Order Neos] Mano
+【レジスタンスオーダー・ネオス】\n櫻木 真乃,[Resistance Order Neos]\nMano
+【レジスタンスオーダー・ネオス】風野 灯織,[Resistance Order Neos] Hiori
+【レジスタンスオーダー・ネオス】\n風野 灯織,[Resistance Order Neos]\nHiori
+【レジスタンスオーダー・ネオス】八宮 めぐる,[Resistance Order Neos] Meguru
+【レジスタンスオーダー・ネオス】\n八宮 めぐる,[Resistance Order Neos]\nMeguru
+【レジスタンスオーダー・ネオス】月岡 恋鐘,[Resistance Order Neos] Kogane
+【レジスタンスオーダー・ネオス】\n月岡 恋鐘,[Resistance Order Neos]\nKogane
+【レジスタンスオーダー・ネオス】田中 摩美々,[Resistance Order Neos] Mamimi
+【レジスタンスオーダー・ネオス】\n田中 摩美々,[Resistance Order Neos]\nMamimi
+【レジスタンスオーダー・ネオス】白瀬 咲耶,[Resistance Order Neos] Sakuya
+【レジスタンスオーダー・ネオス】\n白瀬 咲耶,[Resistance Order Neos]\nSakuya
+【レジスタンスオーダー・ネオス】三峰 結華,[Resistance Order Neos] Yuika
+【レジスタンスオーダー・ネオス】\n三峰 結華,[Resistance Order Neos]\nYuika
+【レジスタンスオーダー・ネオス】幽谷 霧子,[Resistance Order Neos] Kiriko
+【レジスタンスオーダー・ネオス】\n幽谷 霧子,[Resistance Order Neos]\nKiriko
+【レジスタンスオーダー・ネオス】小宮 果穂,[Resistance Order Neos] Kaho
+【レジスタンスオーダー・ネオス】\n小宮 果穂,[Resistance Order Neos]\nKaho
+【レジスタンスオーダー・ネオス】園田 智代子,[Resistance Order Neos] Chiyoko
+【レジスタンスオーダー・ネオス】\n園田 智代子,[Resistance Order Neos]\nChiyoko
+【レジスタンスオーダー・ネオス】西城 樹里,[Resistance Order Neos] Juri
+【レジスタンスオーダー・ネオス】\n西城 樹里,[Resistance Order Neos]\nJuri
+【レジスタンスオーダー・ネオス】杜野 凛世,[Resistance Order Neos] Rinze
+【レジスタンスオーダー・ネオス】\n杜野 凛世,[Resistance Order Neos]\nRinze
+【レジスタンスオーダー・ネオス】有栖川 夏葉,[Resistance Order Neos] Natsuha
+【レジスタンスオーダー・ネオス】\n有栖川 夏葉,[Resistance Order Neos]\nNatsuha
+【レジスタンスオーダー・ネオス】大崎 甘奈,[Resistance Order Neos] Amana
+【レジスタンスオーダー・ネオス】\n大崎 甘奈,[Resistance Order Neos]\nAmana
+【レジスタンスオーダー・ネオス】大崎 甜花,[Resistance Order Neos] Tenka
+【レジスタンスオーダー・ネオス】\n大崎 甜花,[Resistance Order Neos]\nTenka
+【レジスタンスオーダー・ネオス】桑山 千雪,[Resistance Order Neos] Chiyuki
+【レジスタンスオーダー・ネオス】\n桑山 千雪,[Resistance Order Neos]\nChiyuki
+【レジスタンスオーダー・ネオス】芹沢 あさひ,[Resistance Order Neos] Asahi
+【レジスタンスオーダー・ネオス】\n芹沢 あさひ,[Resistance Order Neos]\nAsahi
+【レジスタンスオーダー・ネオス】黛 冬優子,[Resistance Order Neos] Fuyuko
+【レジスタンスオーダー・ネオス】\n黛 冬優子,[Resistance Order Neos]\nFuyuko
+【レジスタンスオーダー・ネオス】和泉 愛依,[Resistance Order Neos] Mei
+【レジスタンスオーダー・ネオス】\n和泉 愛依,[Resistance Order Neos]\nMei
+【レジスタンスオーダー・ネオス】浅倉 透,[Resistance Order Neos] Toru
+【レジスタンスオーダー・ネオス】\n浅倉 透,[Resistance Order Neos]\nToru
+【レジスタンスオーダー・ネオス】樋口 円香,[Resistance Order Neos] Madoka
+【レジスタンスオーダー・ネオス】\n樋口 円香,[Resistance Order Neos]\nMadoka
+【レジスタンスオーダー・ネオス】福丸 小糸,[Resistance Order Neos] Koito
+【レジスタンスオーダー・ネオス】\n福丸 小糸,[Resistance Order Neos]\nKoito
+【レジスタンスオーダー・ネオス】市川 雛菜,[Resistance Order Neos] Hinana
+【レジスタンスオーダー・ネオス】\n市川 雛菜,[Resistance Order Neos]\nHinana
+【レジスタンスオーダー・ネオス】七草 にちか,[Resistance Order Neos] Nichika
+【レジスタンスオーダー・ネオス】\n七草 にちか,[Resistance Order Neos]\nNichika
+【レジスタンスオーダー・ネオス】緋田 美琴,[Resistance Order Neos] Mikoto
+【レジスタンスオーダー・ネオス】\n緋田 美琴,[Resistance Order Neos]\nMikoto
+【レジスタンスオーダー・ネオス】斑鳩 ルカ,[Resistance Order Neos] Luca
+【レジスタンスオーダー・ネオス】\n斑鳩 ルカ,[Resistance Order Neos]\nLuca
+【レジスタンスオーダー・ネオス】鈴木 羽那,[Resistance Order Neos] Hana
+【レジスタンスオーダー・ネオス】\n鈴木 羽那,[Resistance Order Neos]\nHana
+【レジスタンスオーダー・ネオス】郁田 はるき,[Resistance Order Neos] Haruki
+【レジスタンスオーダー・ネオス】\n郁田 はるき,[Resistance Order Neos]\nHaruki
+プライベート\nドレスダウン,Private\nDress-Down
+プライベートドレスダウン衣装チケット,Private Dress-Down Exchange Ticket
+プライベートドレスダウン\n衣装チケット,Private Dress-Down\nExchange Ticket
+プライベートドレスダウン交換と交換できるチケットです,Used in the Private Dress-Down Exchange Shop.
+【プライベートドレスダウン】櫻木 真乃,[Private Dress-Down] Mano
+【プライベートドレスダウン】風野 灯織,[Private Dress-Down] Hiori
+【プライベートドレスダウン】八宮 めぐる,[Private Dress-Down] Meguru
+【プライベートドレスダウン】月岡 恋鐘,[Private Dress-Down] Kogane
+【プライベートドレスダウン】田中 摩美々,[Private Dress-Down] Mamimi
+【プライベートドレスダウン】白瀬 咲耶,[Private Dress-Down] Sakuya
+【プライベートドレスダウン】三峰 結華,[Private Dress-Down] Yuika
+【プライベートドレスダウン】幽谷 霧子,[Private Dress-Down] Kiriko
+【プライベートドレスダウン】小宮 果穂,[Private Dress-Down] Kaho
+【プライベートドレスダウン】園田 智代子,[Private Dress-Down] Chiyoko
+【プライベートドレスダウン】西城 樹里,[Private Dress-Down] Juri
+【プライベートドレスダウン】杜野 凛世,[Private Dress-Down] Rinze
+【プライベートドレスダウン】有栖川 夏葉,[Private Dress-Down] Natsuha
+【プライベートドレスダウン】大崎 甘奈,[Private Dress-Down] Amana
+【プライベートドレスダウン】大崎 甜花,[Private Dress-Down] Tenka
+【プライベートドレスダウン】桑山 千雪,[Private Dress-Down] Chiyuki
+【プライベートドレスダウン】芹沢 あさひ,[Private Dress-Down] Asahi
+【プライベートドレスダウン】黛 冬優子,[Private Dress-Down] Fuyuko
+【プライベートドレスダウン】和泉 愛依,[Private Dress-Down] Mei
+【プライベートドレスダウン】浅倉 透,[Private Dress-Down] Toru
+【プライベートドレスダウン】樋口 円香,[Private Dress-Down] Madoka
+【プライベートドレスダウン】福丸 小糸,[Private Dress-Down] Koito
+【プライベートドレスダウン】市川 雛菜,[Private Dress-Down] Hinana
+【プライベートドレスダウン】七草 にちか,[Private Dress-Down] Nichika
+【プライベートドレスダウン】緋田 美琴,[Private Dress-Down] Mikoto
+【プライベートドレスダウン】斑鳩 ルカ,[Private Dress-Down] Luca
+【プライベートドレスダウン】鈴木 羽那,[Private Dress-Down] Hana
+【プライベートドレスダウン】郁田 はるき,[Private Dress-Down] Haruki
+リスペクティブ\nワークスタイル,Respective\nWorkstyle
+リスペクティブワークスタイル衣装チケット,Respective Workstyle Exchange Ticket
+リスペクティブワークスタイル\n衣装チケット,Respective Workstyle\nExchange Ticket
+リスペクティブワークスタイル交換と交換できるチケットです,Used in the Respective Workstyle Exchange Shop.
+【リスペクティブワークスタイル】櫻木 真乃,[Respective Workstyle] Mano
+【リスペクティブワークスタイル】\n櫻木 真乃,[Respective Workstyle]\nMano
+【リスペクティブワークスタイル】風野 灯織,[Respective Workstyle] Hiori
+【リスペクティブワークスタイル】\n風野 灯織,[Respective Workstyle]\nHiori
+【リスペクティブワークスタイル】八宮 めぐる,[Respective Workstyle] Meguru
+【リスペクティブワークスタイル】\n八宮 めぐる,[Respective Workstyle]\nMeguru
+【リスペクティブワークスタイル】月岡 恋鐘,[Respective Workstyle] Kogane
+【リスペクティブワークスタイル】\n月岡 恋鐘,[Respective Workstyle]\nKogane
+【リスペクティブワークスタイル】田中 摩美々,[Respective Workstyle] Mamimi
+【リスペクティブワークスタイル】\n田中 摩美々,[Respective Workstyle]\nMamimi
+【リスペクティブワークスタイル】白瀬 咲耶,[Respective Workstyle] Sakuya
+【リスペクティブワークスタイル】\n白瀬 咲耶,[Respective Workstyle]\nSakuya
+【リスペクティブワークスタイル】三峰 結華,[Respective Workstyle] Yuika
+【リスペクティブワークスタイル】\n三峰 結華,[Respective Workstyle]\nYuika
+【リスペクティブワークスタイル】幽谷 霧子,[Respective Workstyle] Kiriko
+【リスペクティブワークスタイル】\n幽谷 霧子,[Respective Workstyle]\nKiriko
+【リスペクティブワークスタイル】小宮 果穂,[Respective Workstyle] Kaho
+【リスペクティブワークスタイル】\n小宮 果穂,[Respective Workstyle]\nKaho
+【リスペクティブワークスタイル】園田 智代子,[Respective Workstyle] Chiyoko
+【リスペクティブワークスタイル】\n園田 智代子,[Respective Workstyle]\nChiyoko
+【リスペクティブワークスタイル】西城 樹里,[Respective Workstyle] Juri
+【リスペクティブワークスタイル】\n西城 樹里,[Respective Workstyle]\nJuri
+【リスペクティブワークスタイル】杜野 凛世,[Respective Workstyle] Rinze
+【リスペクティブワークスタイル】\n杜野 凛世,[Respective Workstyle]\nRinze
+【リスペクティブワークスタイル】有栖川 夏葉,[Respective Workstyle] Natsuha
+【リスペクティブワークスタイル】\n有栖川 夏葉,[Respective Workstyle]\nNatsuha
+【リスペクティブワークスタイル】大崎 甘奈,[Respective Workstyle] Amana
+【リスペクティブワークスタイル】\n大崎 甘奈,[Respective Workstyle]\nAmana
+【リスペクティブワークスタイル】大崎 甜花,[Respective Workstyle] Tenka
+【リスペクティブワークスタイル】\n大崎 甜花,[Respective Workstyle]\nTenka
+【リスペクティブワークスタイル】桑山 千雪,[Respective Workstyle] Chiyuki
+【リスペクティブワークスタイル】\n桑山 千雪,[Respective Workstyle]\nChiyuki
+【リスペクティブワークスタイル】芹沢 あさひ,[Respective Workstyle] Asahi
+【リスペクティブワークスタイル】\n芹沢 あさひ,[Respective Workstyle]\nAsahi
+【リスペクティブワークスタイル】黛 冬優子,[Respective Workstyle] Fuyuko
+【リスペクティブワークスタイル】\n黛 冬優子,[Respective Workstyle]\nFuyuko
+【リスペクティブワークスタイル】和泉 愛依,[Respective Workstyle] Mei
+【リスペクティブワークスタイル】\n和泉 愛依,[Respective Workstyle]\nMei
+【リスペクティブワークスタイル】浅倉 透,[Respective Workstyle] Toru
+【リスペクティブワークスタイル】\n浅倉 透,[Respective Workstyle]\nToru
+【リスペクティブワークスタイル】樋口 円香,[Respective Workstyle] Madoka
+【リスペクティブワークスタイル】\n樋口 円香,[Respective Workstyle]\nMadoka
+【リスペクティブワークスタイル】福丸 小糸,[Respective Workstyle] Koito
+【リスペクティブワークスタイル】\n福丸 小糸,[Respective Workstyle]\nKoito
+【リスペクティブワークスタイル】市川 雛菜,[Respective Workstyle] Hinana
+【リスペクティブワークスタイル】\n市川 雛菜,[Respective Workstyle]\nHinana
+【リスペクティブワークスタイル】七草 にちか,[Respective Workstyle] Nichika
+【リスペクティブワークスタイル】\n七草 にちか,[Respective Workstyle]\nNichika
+【リスペクティブワークスタイル】緋田 美琴,[Respective Workstyle] Mikoto
+【リスペクティブワークスタイル】\n緋田 美琴,[Respective Workstyle]\nMikoto
+【リスペクティブワークスタイル】斑鳩 ルカ,[Respective Workstyle] Luca
+【リスペクティブワークスタイル】\n斑鳩 ルカ,[Respective Workstyle]\nLuca
+【リスペクティブワークスタイル】鈴木 羽那,[Respective Workstyle] Hana
+【リスペクティブワークスタイル】\n鈴木 羽那,[Respective Workstyle]\nHana
+【リスペクティブワークスタイル】郁田 はるき,[Respective Workstyle] Haruki
+【リスペクティブワークスタイル】\n郁田 はるき,[Respective Workstyle]\nHaruki
+【ミッドナイトモンスター】櫻木 真乃,[Midnight Monster] Mano
+【ミッドナイトモンスター】風野 灯織,[Midnight Monster] Hiori
+【ミッドナイトモンスター】八宮 めぐる,[Midnight Monster] Meguru
+【ミッドナイトモンスター】月岡 恋鐘,[Midnight Monster] Kogane
+【ミッドナイトモンスター】田中 摩美々,[Midnight Monster] Mamimi
+【ミッドナイトモンスター】白瀬 咲耶,[Midnight Monster] Sakuya
+【ミッドナイトモンスター】三峰 結華,[Midnight Monster] Yuika
+【ミッドナイトモンスター】幽谷 霧子,[Midnight Monster] Kiriko
+【ミッドナイトモンスター】小宮 果穂,[Midnight Monster] Kaho
+【ミッドナイトモンスター】園田 智代子,[Midnight Monster] Chiyoko
+【ミッドナイトモンスター】西城 樹里,[Midnight Monster] Juri
+【ミッドナイトモンスター】杜野 凛世,[Midnight Monster] Rinze
+【ミッドナイトモンスター】有栖川 夏葉,[Midnight Monster] Natsuha
+【ミッドナイトモンスター】大崎 甘奈,[Midnight Monster] Amana
+【ミッドナイトモンスター】大崎 甜花,[Midnight Monster] Tenka
+【ミッドナイトモンスター】桑山 千雪,[Midnight Monster] Chiyuki
+【ミッドナイトモンスター】芹沢 あさひ,[Midnight Monster] Asahi
+【ミッドナイトモンスター】黛 冬優子,[Midnight Monster] Fuyuko
+【ミッドナイトモンスター】和泉 愛依,[Midnight Monster] Mei
+【ミッドナイトモンスター】浅倉 透,[Midnight Monster] Toru
+【ミッドナイトモンスター】樋口 円香,[Midnight Monster] Madoka
+【ミッドナイトモンスター】福丸 小糸,[Midnight Monster] Koito
+【ミッドナイトモンスター】市川 雛菜,[Midnight Monster] Hinana
+【ミッドナイトモンスター】七草 にちか,[Midnight Monster] Nichika
+【ミッドナイトモンスター】緋田 美琴,[Midnight Monster] Mikoto
+【ミッドナイトモンスター】斑鳩 ルカ,[Midnight Monster] Luca
+【ミッドナイトモンスター】鈴木 羽那,[Midnight Monster] Hana
+【ミッドナイトモンスター】郁田 はるき,[Midnight Monster] Haruki
+ホーリーナイトケープ衣装交換チケ,Holy Night Cape Outfit Exchange Ticket
+復刻ホーリーナイトケープ衣装交換チケ,Reissue Holy Night Cape Outfit Exchange Ticket
+【ホーリーナイトケープ】櫻木 真乃,[Holy Night Cape] Mano
+【ホーリーナイトケープ】風野 灯織,[Holy Night Cape] Hiori
+【ホーリーナイトケープ】八宮 めぐる,[Holy Night Cape] Meguru
+【ホーリーナイトケープ】月岡 恋鐘,[Holy Night Cape] Kogane
+【ホーリーナイトケープ】田中 摩美々,[Holy Night Cape] Mamimi
+【ホーリーナイトケープ】白瀬 咲耶,[Holy Night Cape] Sakuya
+【ホーリーナイトケープ】三峰 結華,[Holy Night Cape] Yuika
+【ホーリーナイトケープ】幽谷 霧子,[Holy Night Cape] Kiriko
+【ホーリーナイトケープ】小宮 果穂,[Holy Night Cape] Kaho
+【ホーリーナイトケープ】園田 智代子,[Holy Night Cape] Chiyoko
+【ホーリーナイトケープ】西城 樹里,[Holy Night Cape] Juri
+【ホーリーナイトケープ】杜野 凛世,[Holy Night Cape] Rinze
+【ホーリーナイトケープ】有栖川 夏葉,[Holy Night Cape] Natsuha
+【ホーリーナイトケープ】大崎 甘奈,[Holy Night Cape] Amana
+【ホーリーナイトケープ】大崎 甜花,[Holy Night Cape] Tenka
+【ホーリーナイトケープ】桑山 千雪,[Holy Night Cape] Chiyuki
+【ホーリーナイトケープ】芹沢 あさひ,[Holy Night Cape] Asahi
+【ホーリーナイトケープ】黛 冬優子,[Holy Night Cape] Fuyuko
+【ホーリーナイトケープ】和泉 愛依,[Holy Night Cape] Mei
+【ホーリーナイトケープ】浅倉 透,[Holy Night Cape] Toru
+【ホーリーナイトケープ】樋口 円香,[Holy Night Cape] Madoka
+【ホーリーナイトケープ】福丸 小糸,[Holy Night Cape] Koito
+【ホーリーナイトケープ】市川 雛菜,[Holy Night Cape] Hinana
+【ホーリーナイトケープ】七草 にちか,[Holy Night Cape] Nichika
+【ホーリーナイトケープ】緋田 美琴,[Holy Night Cape] Mikoto
+【ホーリーナイトケープ】斑鳩 ルカ,[Holy Night Cape] Luca
+【ホーリーナイトケープ】鈴木 羽那,[Holy Night Cape] Hana
+【ホーリーナイトケープ】郁田 はるき,[Holy Night Cape] Haruki
+ドレスアップパルファム衣装交\n換,Dress-up Perfume\nExchange Shop
+ドレスアップパルファム衣装交換チケット,Dress-Up Perfume Exchange Ticket
+ドレスアップパルファム\n衣装交換チケット,Dress-Up Perfume\nExchange Ticket
+ドレスアップパルファム交換と交換できるチケットです,Used in the Dress-Up Perfume Outfit Exchange Shop.
+【ドレスアップパルファム】櫻木 真乃,[Dress-Up Perfume] Mano
+【ドレスアップパルファム】\n櫻木 真乃,[Dress-Up Perfume]\nMano
+【ドレスアップパルファム】風野 灯織,[Dress-Up Perfume] Hiori
+【ドレスアップパルファム】\n風野 灯織,[Dress-Up Perfume]\nHiori
+【ドレスアップパルファム】八宮 めぐる,[Dress-Up Perfume] Meguru
+【ドレスアップパルファム】\n八宮 めぐる,[Dress-Up Perfume]\nMeguru
+【ドレスアップパルファム】月岡 恋鐘,[Dress-Up Perfume] Kogane
+【ドレスアップパルファム】\n月岡 恋鐘,[Dress-Up Perfume]\nKogane
+【ドレスアップパルファム】田中 摩美々,[Dress-Up Perfume] Mamimi
+【ドレスアップパルファム】\n田中 摩美々,[Dress-Up Perfume]\nMamimi
+【ドレスアップパルファム】白瀬 咲耶,[Dress-Up Perfume] Sakuya
+【ドレスアップパルファム】\n白瀬 咲耶,[Dress-Up Perfume]\nSakuya
+【ドレスアップパルファム】三峰 結華,[Dress-Up Perfume] Yuika
+【ドレスアップパルファム】\n三峰 結華,[Dress-Up Perfume]\nYuika
+【ドレスアップパルファム】幽谷 霧子,[Dress-Up Perfume] Kiriko
+【ドレスアップパルファム】\n幽谷 霧子,[Dress-Up Perfume]\nKiriko
+【ドレスアップパルファム】小宮 果穂,[Dress-Up Perfume] Kaho
+【ドレスアップパルファム】\n小宮 果穂,[Dress-Up Perfume]\nKaho
+【ドレスアップパルファム】園田 智代子,[Dress-Up Perfume] Chiyoko
+【ドレスアップパルファム】\n園田 智代子,[Dress-Up Perfume]\nChiyoko
+【ドレスアップパルファム】西城 樹里,[Dress-Up Perfume] Juri
+【ドレスアップパルファム】\n西城 樹里,[Dress-Up Perfume]\nJuri
+【ドレスアップパルファム】杜野 凛世,[Dress-Up Perfume] Rinze
+【ドレスアップパルファム】\n杜野 凛世,[Dress-Up Perfume]\nRinze
+【ドレスアップパルファム】有栖川 夏葉,[Dress-Up Perfume] Natsuha
+【ドレスアップパルファム】\n有栖川 夏葉,[Dress-Up Perfume]\nNatsuha
+【ドレスアップパルファム】大崎 甘奈,[Dress-Up Perfume] Amana
+【ドレスアップパルファム】\n大崎 甘奈,[Dress-Up Perfume]\nAmana
+【ドレスアップパルファム】大崎 甜花,[Dress-Up Perfume] Tenka
+【ドレスアップパルファム】\n大崎 甜花,[Dress-Up Perfume]\nTenka
+【ドレスアップパルファム】桑山 千雪,[Dress-Up Perfume] Chiyuki
+【ドレスアップパルファム】\n桑山 千雪,[Dress-Up Perfume]\nChiyuki
+【ドレスアップパルファム】芹沢 あさひ,[Dress-Up Perfume] Asahi
+【ドレスアップパルファム】\n芹沢 あさひ,[Dress-Up Perfume]\nAsahi
+【ドレスアップパルファム】黛 冬優子,[Dress-Up Perfume] Fuyuko
+【ドレスアップパルファム】\n黛 冬優子,[Dress-Up Perfume]\nFuyuko
+【ドレスアップパルファム】和泉 愛依,[Dress-Up Perfume] Mei
+【ドレスアップパルファム】\n和泉 愛依,[Dress-Up Perfume]\nMei
+【ドレスアップパルファム】浅倉 透,[Dress-Up Perfume] Toru
+【ドレスアップパルファム】\n浅倉 透,[Dress-Up Perfume]\nToru
+【ドレスアップパルファム】樋口 円香,[Dress-Up Perfume] Madoka
+【ドレスアップパルファム】\n樋口 円香,[Dress-Up Perfume]\nMadoka
+【ドレスアップパルファム】福丸 小糸,[Dress-Up Perfume] Koito
+【ドレスアップパルファム】\n福丸 小糸,[Dress-Up Perfume]\nKoito
+【ドレスアップパルファム】市川 雛菜,[Dress-Up Perfume] Hinana
+【ドレスアップパルファム】\n市川 雛菜,[Dress-Up Perfume]\nHinana
+【ドレスアップパルファム】七草 にちか,[Dress-Up Perfume] Nichika
+【ドレスアップパルファム】\n七草 にちか,[Dress-Up Perfume]\nNichika
+【ドレスアップパルファム】緋田 美琴,[Dress-Up Perfume] Mikoto
+【ドレスアップパルファム】\n緋田 美琴,[Dress-Up Perfume]\nMikoto
+【ドレスアップパルファム】斑鳩 ルカ,[Dress-Up Perfume] Luca
+【ドレスアップパルファム】\n斑鳩 ルカ,[Dress-Up Perfume]\nLuca
+【ドレスアップパルファム】鈴木 羽那,[Dress-Up Perfume] Hana
+【ドレスアップパルファム】\n鈴木 羽那,[Dress-Up Perfume]\nHana
+【ドレスアップパルファム】郁田 はるき,[Dress-Up Perfume] Haruki
+【ドレスアップパルファム】\n郁田 はるき,[Dress-Up Perfume]\nHaruki
+エモーショナルユニフォーム\n衣装交換（グレフェス）,Emotional Uniform\nExchange Shop (GFes)
+エモーショナルユニフォーム衣装チケ（グレフェス）,Emotional Uniform Exchange Ticket (GFes)
+エモーショナルユニフォーム衣\n装チケ（グレフェス）,Emotional Uniform\nExchange Ticket (GFes)
+エモーショナルユニフォーム\n衣装チケ（グレフェス）,Emotional Uniform\nExchange Ticket (GFes)
+グレフェスコインショップに登場したエモーショナルユニフォームと交換できるチケットです,Used in the GradeFes Emotional Uniform Outfit Exchange Shop.
+エモーショナルユニフォーム衣装交換（マッチライブ）,Emotional Uniform\nExchange Shop (ML)
+エモーショナルユニフォーム衣装チケ（マッチライブ）,Emotional Uniform Exchange Ticket (ML)
+エモーショナルユニフォーム衣\n装チケ（マッチライブ）,Emotional Uniform\nExchange Ticket (ML)
+エモーショナルユニフォーム\n衣装チケ（マッチライブ）,Emotional Uniform\nExchange Ticket (ML)
+マッチライブポイント交換ショップに登場したエモーショナルユニフォームと交換できるチケットです,A ticket that can be used in the Match Live Emotional Uniform Outfit Exchange Shop.
+【エモーショナルユニフォーム】櫻木 真乃,[Emotional Uniform] Mano
+【エモーショナルユニフォーム】\n櫻木 真乃,[Emotional Uniform]\nMano
+【エモーショナルユニフォーム】風野 灯織,[Emotional Uniform] Hiori
+【エモーショナルユニフォーム】\n風野 灯織,[Emotional Uniform]\nHiori
+【エモーショナルユニフォーム】八宮 めぐる,[Emotional Uniform] Meguru
+【エモーショナルユニフォーム】\n八宮 めぐる,[Emotional Uniform]\nMeguru
+【エモーショナルユニフォーム】月岡 恋鐘,[Emotional Uniform] Kogane
+【エモーショナルユニフォーム】\n月岡 恋鐘,[Emotional Uniform]\nKogane
+【エモーショナルユニフォーム】田中 摩美々,[Emotional Uniform] Mamimi
+【エモーショナルユニフォーム】\n田中 摩美々,[Emotional Uniform]\nMamimi
+【エモーショナルユニフォーム】白瀬 咲耶,[Emotional Uniform] Sakuya
+【エモーショナルユニフォーム】\n白瀬 咲耶,[Emotional Uniform]\nSakuya
+【エモーショナルユニフォーム】三峰 結華,[Emotional Uniform] Yuika
+【エモーショナルユニフォーム】\n三峰 結華,[Emotional Uniform]\nYuika
+【エモーショナルユニフォーム】幽谷 霧子,[Emotional Uniform] Kiriko
+【エモーショナルユニフォーム】\n幽谷 霧子,[Emotional Uniform]\nKiriko
+【エモーショナルユニフォーム】小宮 果穂,[Emotional Uniform] Kaho
+【エモーショナルユニフォーム】\n小宮 果穂,[Emotional Uniform]\nKaho
+【エモーショナルユニフォーム】園田 智代子,[Emotional Uniform] Chiyoko
+【エモーショナルユニフォーム】\n園田 智代子,[Emotional Uniform]\nChiyoko
+【エモーショナルユニフォーム】西城 樹里,[Emotional Uniform] Juri
+【エモーショナルユニフォーム】\n西城 樹里,[Emotional Uniform]\nJuri
+【エモーショナルユニフォーム】杜野 凛世,[Emotional Uniform] Rinze
+【エモーショナルユニフォーム】\n杜野 凛世,[Emotional Uniform]\nRinze
+【エモーショナルユニフォーム】有栖川 夏葉,[Emotional Uniform] Natsuha
+【エモーショナルユニフォーム】\n有栖川 夏葉,[Emotional Uniform]\nNatsuha
+【エモーショナルユニフォーム】大崎 甘奈,[Emotional Uniform] Amana
+【エモーショナルユニフォーム】\n大崎 甘奈,[Emotional Uniform]\nAmana
+【エモーショナルユニフォーム】大崎 甜花,[Emotional Uniform] Tenka
+【エモーショナルユニフォーム】\n大崎 甜花,[Emotional Uniform]\nTenka
+【エモーショナルユニフォーム】桑山 千雪,[Emotional Uniform] Chiyuki
+【エモーショナルユニフォーム】\n桑山 千雪,[Emotional Uniform]\nChiyuki
+【エモーショナルユニフォーム】芹沢 あさひ,[Emotional Uniform] Asahi
+【エモーショナルユニフォーム】\n芹沢 あさひ,[Emotional Uniform]\nAsahi
+【エモーショナルユニフォーム】黛 冬優子,[Emotional Uniform] Fuyuko
+【エモーショナルユニフォーム】\n黛 冬優子,[Emotional Uniform]\nFuyuko
+【エモーショナルユニフォーム】和泉 愛依,[Emotional Uniform] Mei
+【エモーショナルユニフォーム】\n和泉 愛依,[Emotional Uniform]\nMei
+【エモーショナルユニフォーム】浅倉 透,[Emotional Uniform] Toru
+【エモーショナルユニフォーム】\n浅倉 透,[Emotional Uniform]\nToru
+【エモーショナルユニフォーム】樋口 円香,[Emotional Uniform] Madoka
+【エモーショナルユニフォーム】\n樋口 円香,[Emotional Uniform]\nMadoka
+【エモーショナルユニフォーム】福丸 小糸,[Emotional Uniform] Koito
+【エモーショナルユニフォーム】\n福丸 小糸,[Emotional Uniform]\nKoito
+【エモーショナルユニフォーム】市川 雛菜,[Emotional Uniform] Hinana
+【エモーショナルユニフォーム】\n市川 雛菜,[Emotional Uniform]\nHinana
+【エモーショナルユニフォーム】七草 にちか,[Emotional Uniform] Nichika
+【エモーショナルユニフォーム】\n七草 にちか,[Emotional Uniform]\nNichika
+【エモーショナルユニフォーム】緋田 美琴,[Emotional Uniform] Mikoto
+【エモーショナルユニフォーム】\n緋田 美琴,[Emotional Uniform]\nMikoto
+【エモーショナルユニフォーム】斑鳩 ルカ,[Emotional Uniform] Luca
+【エモーショナルユニフォーム】\n斑鳩 ルカ,[Emotional Uniform]\nLuca
+【エモーショナルユニフォーム】鈴木 羽那,[Emotional Uniform] Hana
+【エモーショナルユニフォーム】\n鈴木 羽那,[Emotional Uniform]\nHana
+【エモーショナルユニフォーム】郁田 はるき,[Emotional Uniform] Haruki
+【エモーショナルユニフォーム】\n郁田 はるき,[Emotional Uniform]\nHaruki
+10連フォイルガシャメダル,10-Pull Foil Gacha Medal
+10連フォイルガシャメダル\n［1/12］,10-Pull Foil Gacha Medal\n[1/12]
 "通常の「フォイルガシャ」 を10回引けるメダルです
 2個目購入価格: 50グレフェスコイン
 0/1400(現在までの購入量/最大購入量)","This will allow you to do a 10 pull at the regular [Foil Gacha].
 2nd purchase cost: 50 GradeFes coins
-0/1400 (Current/max. purchase amount)",GradeFes Item
-10連フォイルガシャメダル\n［2/12］,10-Pull Foil Gacha Medal\n[2/12],GradeFes Item
+0/1400 (Current/max. purchase amount)"
+10連フォイルガシャメダル\n［2/12］,10-Pull Foil Gacha Medal\n[2/12]
 "通常の「フォイルガシャ」を10回引けるメダルです
 3個目購入価格:70グレフェスコイン
 30/1400(現在までの購入量/最大購入量)","This will allow you to do a 10 pull at the regular [Foil Gacha].
 3rd purchase cost: 70 GradeFes coins
-30/1400 (Current/max. purchase amount)",GradeFes Item
-10連フォイルガシャメダル\n［3/12］,10-Pull Foil Gacha Medal\n[3/12],GradeFes Item
-10連フォイルガシャメダル\n［4/12］,10-Pull Foil Gacha Medal\n[4/12],GradeFes Item
-10連フォイルガシャメダル\n［5/12］,10-Pull Foil Gacha Medal\n[5/12],GradeFes Item
-10連フォイルガシャメダル\n［6/12］,10-Pull Foil Gacha Medal\n[6/12],GradeFes Item
-10連フォイルガシャメダル\n［7/12］,10-Pull Foil Gacha Medal\n[7/12],GradeFes Item
-10連フォイルガシャメダル\n［8/12］,10-Pull Foil Gacha Medal\n[8/12],GradeFes Item
-10連フォイルガシャメダル\n［9/12］,10-Pull Foil Gacha Medal\n[9/12],GradeFes Item
-10連フォイルガシャメダル\n［10/12］,10-Pull Foil Gacha Medal\n[10/12],GradeFes Item
-10連フォイルガシャメダル\n［11/12］,10-Pull Foil Gacha Medal\n[11/12],GradeFes Item
-10連フォイルガシャメダル\n［12/12］,10-Pull Foil Gacha Medal\n[12/12],GradeFes Item
-フォイル確定フォイルガシャメダル,Guaranteed Foil Gacha Medal,Stamp Card Foil Gacha
-アイドルピース交換チケット,Idol Piece Exchange Ticket,
-プチセレクションチケット,Petit Selection Ticket,
-プチセレクションチケット\n［1/2］,Petit Selection\nTicket [1/2],
-プチセレクションチケット\n［2/2］,Petit Selection\nTicket [2/2],
-集めるとチケット交換で特定のアイドルと交換できるチケットです,Collect and exchange tickets for specific idols in the ticket exchange.,
-ノウハウリロードペン,Know-How Reroll Pen,
-基礎ノウハウをリロードするペンです,A pen that lets you reroll the header of a Know-How book.,
-ノウハウ消しゴム,Know-How Eraser,
-ノウハウブックからノウハウを削除する消しゴムです,An eraser that allows you to remove one Know-How from the Know-How book.,
-SRのプロデュースアイドルを特訓します,Evolve a SR Produce Idol,
-SRのサポートアイドルを特訓します,Evolve a SR Support Idol,
-SSRのプロデュースアイドルを特訓します,Evolve a SSR Produce Idol,
-SSRのサポートアイドルを特訓します,Evolve a SSR Support Idol,
-はづきさんシール,Hazuki-san Seal,
-集めると特訓はづきさんと交換できるシールです,Collect and exchange for Evolve Hazuki items.,
-SR以上確定ガシャチケット,Guaranteed SR+ Gacha Ticket,
-SR以上確定ガシャが引けるチケットです,A ticket that is guaranteed to give an SR or above reward.,
-10連ガシャチケット,10-Pull Gacha Ticket,
-プラチナガシャと同じラインナップの10連ガシャを引けるチケットです\n[月5個まで購入可能],A ticket that allows you to do a 10 pull with the same lineup as Platinum Gacha.\n[Up to 5 purchases per month],
-初心者ミッションS-SRアイドル確定ガシャチケット,Beginner Mission S-SR guaranteed gacha ticket,
+30/1400 (Current/max. purchase amount)"
+10連フォイルガシャメダル\n［3/12］,10-Pull Foil Gacha Medal\n[3/12]
+10連フォイルガシャメダル\n［4/12］,10-Pull Foil Gacha Medal\n[4/12]
+10連フォイルガシャメダル\n［5/12］,10-Pull Foil Gacha Medal\n[5/12]
+10連フォイルガシャメダル\n［6/12］,10-Pull Foil Gacha Medal\n[6/12]
+10連フォイルガシャメダル\n［7/12］,10-Pull Foil Gacha Medal\n[7/12]
+10連フォイルガシャメダル\n［8/12］,10-Pull Foil Gacha Medal\n[8/12]
+10連フォイルガシャメダル\n［9/12］,10-Pull Foil Gacha Medal\n[9/12]
+10連フォイルガシャメダル\n［10/12］,10-Pull Foil Gacha Medal\n[10/12]
+10連フォイルガシャメダル\n［11/12］,10-Pull Foil Gacha Medal\n[11/12]
+10連フォイルガシャメダル\n［12/12］,10-Pull Foil Gacha Medal\n[12/12]
+フォイル確定フォイルガシャメダル,Guaranteed Foil Gacha Medal
+アイドルピース交換チケット,Idol Piece Exchange Ticket
+プチセレクションチケット,Petit Selection Ticket
+プチセレクションチケット\n［1/2］,Petit Selection\nTicket [1/2]
+プチセレクションチケット\n［2/2］,Petit Selection\nTicket [2/2]
+集めるとチケット交換で特定のアイドルと交換できるチケットです,Collect and exchange tickets for specific idols in the ticket exchange.
+ノウハウリロードペン,Know-How Reroll Pen
+基礎ノウハウをリロードするペンです,A pen that lets you reroll the header of a Know-How book.
+ノウハウ消しゴム,Know-How Eraser
+ノウハウブックからノウハウを削除する消しゴムです,An eraser that allows you to remove one Know-How from the Know-How book.
+SRのプロデュースアイドルを特訓します,Evolve a SR Produce Idol
+SRのサポートアイドルを特訓します,Evolve a SR Support Idol
+SSRのプロデュースアイドルを特訓します,Evolve a SSR Produce Idol
+SSRのサポートアイドルを特訓します,Evolve a SSR Support Idol
+はづきさんシール,Hazuki-san Seal
+集めると特訓はづきさんと交換できるシールです,Collect and exchange for Evolve Hazuki items.
+SR以上確定ガシャチケット,Guaranteed SR+ Gacha Ticket
+SR以上確定ガシャが引けるチケットです,A ticket that is guaranteed to give an SR or above reward.
+10連ガシャチケット,10-Pull Gacha Ticket
+プラチナガシャと同じラインナップの10連ガシャを引けるチケットです\n[月5個まで購入可能],A ticket that allows you to do a 10 pull with the same lineup as Platinum Gacha.\n[Up to 5 purchases per month]
+初心者ミッションS-SRアイドル確定ガシャチケット,Beginner Mission S-SR guaranteed gacha ticket
 初心者ミッションS-SRアイドル確定ガシャが引けるチケットです\nさらにSRのサポートアイドルを特訓できるアイテムも貰えます,"You can earn an S-SR guaranteed gacha ticket.
-You can also receive items that can train SR Support Idols.",
-初心者ミッションSSR20%Pアイドル確定ガシャチケット,Beginner Mission 20% P-SSR Gacha Ticket,
-初心者ミッションSSR20%Pアイドル確定ガシャが引けるチケットです,You can earn a 20% P-SSR gacha ticket,
-初心者ミッション10連ガシャチケット,Beginner Mission 10-Pull Gacha Ticket,
-初心者ミッション10連ガシャが引けるチケットです,A 10-pull ticket that can be earned from Beginner missions.,
-ユニット別SR以上確定ガシャチケット,Guaranteed SR+ Unit Gacha Ticket,
-ユニット別SR以上確定ガシャが引けるチケットです,Receive a guaranteed SR+ unit gacha ticket.,
-セレクションチケットパッケージ10連ガシャチケット,Selection Ticket\n10-Pull Gacha Bundle,
-セレクションチケットパッケージ10連ガシャが引けるチケットです,A bundle that contains a selection ticket and a 10-roll gacha ticket.,
-283くじ10連ガシャチケット,283 Lottery 10-Pull Gacha Ticket,
-283くじ10連ガシャが引けるチケットです,Receive a 10-Pull Gacha Ticket and 283 Lottery Ticket.,
-イルミネSR以上確定ガシャチケット,Illumination STARS SR+ Gacha Ticket,
-イルミネSR以上確定ガシャが引けるチケットです,Receive an Illumination STARS SR+ Gacha Ticket.,
-アンティーカSR以上確定ガシャチケット,L'Antica SR+ Gacha Ticket,
-アンティーカSR以上確定ガシャが引けるチケットです,Receive a L'Antica SR+ Gacha Ticket.,
-放クラSR以上確定ガシャチケット,Hokago Climax Girls SR+ Gacha Ticket,
-放クラSR以上確定ガシャが引けるチケットです,Receive a Hokago Climax Girls SR+ Gacha Ticket.,
-アルストSR以上確定ガシャチケット,ALSTROEMERIA SR+ Gacha Ticket,
-アルストSR以上確定ガシャが引けるチケットです,Receive an ALSTROEMERIA SR+ Gacha Ticket.,
-SSR7％ガシャチケット,SSR7% Gacha Ticket,
-SSR7％ガシャが引けるチケットです,Ticket that lets you draw the SSR7% gacha.,
-SSR10％ガシャチケット,SSR10% Gacha Ticket,
-SSR10％ガシャが引けるチケットです,Ticket that lets you draw the SSR10% gacha.,
-SSR15％ガシャチケット,SSR15% Gacha Ticket,
-SSR15％ガシャが引けるチケットです,Ticket that lets you draw the SSR15% gacha.,
-対象のSRプロデュースアイドルを選んで獲得できるチケットです,A ticket that lets you to select a specific SR Produce Idol.,
-SR以上確定ガシャチケット\n［1/3］,Guaranteed SR+ \nGacha Ticket［1/3］,
-SR以上確定ガシャチケット\n［2/3］,Guaranteed SR+ \nGacha Ticket［2/3］,
-SR以上確定ガシャチケット\n［3/3］,Guaranteed SR+ \nGacha Ticket［3/3］,
-[月2個まで購入可能],　[Up to 2 purchases per month],limit
-[月5個まで購入可能],　[Up to 5 purchases per month],limit
-[月10個まで購入可能],　[Up to 10 purchases per month],limit
-[月25個まで購入可能],　[Up to 25 purchases per month],limit
-[月100個まで購入可能],　[Up to 100 purchases per month],limit
-[月3個まで購入可能],　[Up to 3 purchases per month],limit
-[月1個まで購入可能],　[Up to 1 purchase per month],limit
-[お1人様5個まで],　[Up to 5 per person],limit
-[お1人様3個まで],　[Up to 3 per person],limit
-[お1人様1個まで],　[Up to 1 per person],limit
-[お1人様5つまで],　[Up to 5 per person],limit
-[お1人様3つまで],　[Up to 3 per person],limit
-[お1人様2つまで],　[Up to 2 per person],limit
-[お1人様1つまで],　[Up to 1 per person],limit
-[毎日1個まで購入可能],　[Up to 1 purchase per day],limit
-[毎日2個まで購入可能],　[Up to 2 purchases per day],limit
-[毎日3個まで購入可能],　[Up to 3 purchases per day],limit
-[毎日10個まで購入可能],　[Up to 10 purchases per day],limit
-2個入り,2,note
-3個入り,3,note
-2冊入り,2,note
-3冊入り,3,note
-プロデュース,Produce,note
-サポート,Support,note
-プロデュース中2回まで使用可能,Usable up to 2 times during Produce,note
-プロデュース中3回まで使用可能,Usable up to 3 times during Produce,note
-効果量は約束発生毎に減少し4回で効果がなくなる,"Effect slightly increases the chance of being asked to make a promise, up to 4 times. Effect decreases after each promise.",note
-ネココのぬいぐるみ,Nekoko Plushie,
-トモモのぬいぐるみ,Tomomo Plushie,
-かっちゃんのぬいぐるみ,Kacchan Plushie,
-クリスマスブーツ,Christmas Boots,
-旅のしおり,Travel Brochure,
-1st LIVE Tシャツ,1st LIVE T-Shirt,
-ルカが描いた犬のキーホルダー,Dog drawn by Luca Keychain,
-羽那が描いたうさぎのキーホルダー,Bunny drawn by Hana Keychain,
-はるきが描いたきつねのキーホルダー,Fox drawn by Haruki Keychain,
-コーヒーカップ,Coffee Cup,
-5.5thLIVEキーホルダー,5.5th LIVE Keychain,
-6thLIVEキーホルダー（大阪）,6th LIVE Keychain (Osaka),
-6thLIVEキーホルダー\n（大阪）,6th LIVE Keychain\n(Osaka),
-6thLIVEキーホルダー（横浜）,6th LIVE Keychain (Yokohama),
-6thLIVEキーホルダー\n（横浜）,6th LIVE Keychain\n(Yokohama),
-サングラス,Sunglasses,
-スライム,Slime,
-「サマーアイドル2019」Tシャツ＆うちわ,[Summer Idol 2019] T-Shirt & Fan,
-灯織の水晶玉,Hiori's Crystal Ball,
-MUSIC DAWN記念キーホルダー,MUSIC DAWN Memorial Keychain,
-ポカリスエット＆イオンウォーターセット,Pocari Sweat & Ion Water Set,
-アイマス18thお祝いパーティバルーン,IM@S 18th Celebration Party Balloon,
-スリスリくんのぬいぐるみ,Surisuri-kun Plushie,
-第1弾ムビチケカード,1st Part Movie Ticket,
-第2弾ムビチケカード,2nd Part Movie Ticket,
-ソングフォープリズムのバッジ,Song for Prism Badge,
-アイドルからの手紙（金）,Letter from Idols (Gold),item from pcup
-アイドルからの手紙（銀）,Letter from Idols (Silver),item from pcup
-アイドルからの手紙（銅）,Letter from Idols (Bronze),item from pcup
-6th Anniversary アイドルからの手紙（金）,6th Anniversary Letter from Idols (Gold),item from pcup
-6th Anniversary アイドルからの手紙（銀）,6th Anniversary Letter from Idols (Silver),item from pcup
-6th Anniversary アイドルからの手紙（銅）,6th Anniversary Letter from Idols (Bronze),item from pcup
-【'24 10月Pカップ】 アイドルからのプレゼント1,['24 October P Cup] Present from Idols 1,item from pcup
-【'24 10月Pカップ】 アイドルからのプレゼント2,['24 October P Cup] Present from Idols 2,item from pcup
-ブライダル特集'24年6月号,Bridal Special Feature '24 June Edition,special item
-ノウハウ目録,Know-How Catalogue,know-how
-,(description of know-how catalogue),know-how
-ノウハウのしおり(1葉),Know-How Bookmark,know-how
-ノウハウの発現確率が増加(小),Increases the chance of getting a Know-How (Slight),know-how
-ノウハウのしおり(2葉),Know-How Bookmark (2),know-how
-ノウハウの発現確率が増加(中),Increases the chance of getting a Know-How (Small),know-how
-高レベルノウハウのしおり(1葉),High Level Know-How Bookmark (1),know-how
-高レベルノウハウの\nしおり(1葉),High Level \nKnow-How Bookmark (1),know-how
-高レベルノウハウのしお\nり(1葉),High Level \nKnow-How Bookmark (1),know-how
-高レベルノウハウのしおり(2葉),High Level Know-How Bookmark (2),
-高レベルノウハウの\nしおり(2葉),High Level \nKnow-How Bookmark (2),
-高レベルノウハウのしお\nり(2葉),High Level \nKnow-How Bookmark (2),
-ノウハウが発現した際、高レベルのノウハウの発現確率が増加(小),,know-how
-ノウハウブックからのノウハウ継承確率が増加（中）,,know-how
-テンション＋5のノウハウブック,Tension +5 Know-How Book,know-how
-テンション＋5の\nノウハウブック,Tension +5\nKnow-How Book,know-how
-２８３プロのノウハウブック,283Pro Know-How Book,know-how
-B小町ライブBD,B-Komachi Live Blu-Ray,collab item
-【'21エイプリルフール】ノートパッド,['21 April Fools] Notepad,
-2019七夕の短冊,2019 Tanabata Piece of Paper,
-2019お月見団子,2019 Moon Viewing Dumplings,
-2019ハロウィンのおかし,2019 Halloween Sweets,halloween sweets
-2020ハロウィンのおかし,2020 Halloween Sweets,halloween sweets
-2021ハロウィンのおかし,2021 Halloween Sweets,halloween sweets
-2022ハロウィンのおかし,2022 Halloween Sweets,halloween sweets
-2023ハロウィンのおかし,2023 Halloween Sweets,halloween sweets
-2024ハロウィンのおかし,2024 Halloween Sweets,halloween sweets
-【'20WD】ホワイトデーのお返し,['20WD] White Day Return Gift,white day gifts
-【'21WD】ホワイトデーのお返し,['21WD] White Day Return Gift,white day gifts
-【'22WD】ホワイトデーのお返し,['22WD] White Day Return Gift,white day gifts
-【'23WD】ホワイトデーのお返し,['23WD] White Day Return Gift,white day gifts
-【'24WD】ホワイトデーのお返し,['24WD] White Day Return Gift,white day gifts
-1stアニバーサリーケーキ,1st Anniversary Cake,anni cakes
-1.5アニバーサリーケーキ,1.5th Anniversary Cake,anni cakes
-2ndアニバーサリーケーキ,2nd Anniversary Cake,anni cakes
-2.5アニバーサリーケーキ,2.5th Anniversary Cake,anni cakes
-3rdアニバーサリーケーキ,3rd Anniversary Cake,anni cakes
-3.5アニバーサリーケーキ,3.5th Anniversary Cake,anni cakes
-4thアニバーサリーケーキ,4th Anniversary Cake,anni cakes
-4.5アニバーサリーケーキ,4.5th Anniversary Cake,anni cakes
-5thアニバーサリーケーキ,5th Anniversary Cake,anni cakes
-5.5アニバーサリーケーキ,5.5th Anniversary Cake,anni cakes
-6thアニバーサリーケーキ,6th Anniversary Cake,anni cakes
-6.5アニバーサリーケーキ,6.5th Anniversary Cake,anni cakes
-7thアニバーサリーケーキ,7th Anniversary Cake,anni cakes
-マイク【銅】,Mic [Bronze],match live
-マイク【銅】[1/2],Mic [Bronze] [1/2],match live
-マイク【銅】[2/2],Mic [Bronze] [2/2],match live
-シューズ【銅】,Shoes [Bronze],match live
-シューズ【銅】[1/2],Shoes [Bronze] [1/2],match live
-シューズ【銅】[2/2],Shoes [Bronze] [2/2],match live
-コスメ【銅】,Cosmetics [Bronze],match live
-コスメ【銅】[1/2],Cosmetics [Bronze] [1/2],match live
-コスメ【銅】[2/2],Cosmetics [Bronze] [2/2],match live
-ボーカル用ペンライト【銅】,Vocal Penlight [Bronze],match live
-ダンス用ペンライト【銅】,Dance Penlight [Bronze],match live
-ビジュアル用ペンライト【銅】,Visual Penlight [Bronze],match live
-Leader用ペンライト【銅】,Leader Penlight [Bronze],match live
-Center用ペンライト【銅】,Center Penlight [Bronze],match live
-ボーカル用手紙【銅】,Vocal Letter [Bronze],match live
-ダンス用手紙【銅】,Dance Letter [Bronze],match live
-ビジュアル用手紙【銅】,Visual Letter [Bronze],match live
-Leader用手紙【銅】,Leader Letter [Bronze],match live
-Center用手紙【銅】,Center Letter [Bronze],match live
-マッチライプで施設強化に使用するアイテム,Item used for enhancing facilities in Match Live.,match live
-メガシャキ,Megashaki,
-2nd season劇場ムビチケカード,2nd season Theater Movie Ticket,
-ヒントが書かれた手紙,Letter with Hint,
-天井社長からの差し入れ,Gift from President Amai,
-マカロンタワー,Macaron Tower,
-アクあかデートクレープ,AkuAka Date Crepe,
-舞台台本,Stage Script,
-オリジナルスーツ,Original Suit,
-初心のバッジ,,campaign item
-雀士のバッジ,,campaign item
-雀傑のバッジ,,campaign item
-雀豪のバッジ,,campaign item
-雀聖のバッジ,,campaign item
-【2024】グレードフェス記念メダル,[2024] GradeFes Commemorative Medal,GFes
-【2025】グレードフェス記念メダル,[2025] GradeFes Commemorative Medal,GFes
+You can also receive items that can train SR Support Idols."
+初心者ミッションSSR20%Pアイドル確定ガシャチケット,Beginner Mission 20% P-SSR Gacha Ticket
+初心者ミッションSSR20%Pアイドル確定ガシャが引けるチケットです,You can earn a 20% P-SSR gacha ticket
+初心者ミッション10連ガシャチケット,Beginner Mission 10-Pull Gacha Ticket
+初心者ミッション10連ガシャが引けるチケットです,A 10-pull ticket that can be earned from Beginner missions.
+ユニット別SR以上確定ガシャチケット,Guaranteed SR+ Unit Gacha Ticket
+ユニット別SR以上確定ガシャが引けるチケットです,Receive a guaranteed SR+ unit gacha ticket.
+セレクションチケットパッケージ10連ガシャチケット,Selection Ticket\n10-Pull Gacha Bundle
+セレクションチケットパッケージ10連ガシャが引けるチケットです,A bundle that contains a selection ticket and a 10-roll gacha ticket.
+283くじ10連ガシャチケット,283 Lottery 10-Pull Gacha Ticket
+283くじ10連ガシャが引けるチケットです,Receive a 10-Pull Gacha Ticket and 283 Lottery Ticket.
+イルミネSR以上確定ガシャチケット,Illumination STARS SR+ Gacha Ticket
+イルミネSR以上確定ガシャが引けるチケットです,Receive an Illumination STARS SR+ Gacha Ticket.
+アンティーカSR以上確定ガシャチケット,L'Antica SR+ Gacha Ticket
+アンティーカSR以上確定ガシャが引けるチケットです,Receive a L'Antica SR+ Gacha Ticket.
+放クラSR以上確定ガシャチケット,Hokago Climax Girls SR+ Gacha Ticket
+放クラSR以上確定ガシャが引けるチケットです,Receive a Hokago Climax Girls SR+ Gacha Ticket.
+アルストSR以上確定ガシャチケット,ALSTROEMERIA SR+ Gacha Ticket
+アルストSR以上確定ガシャが引けるチケットです,Receive an ALSTROEMERIA SR+ Gacha Ticket.
+SSR7％ガシャチケット,SSR7% Gacha Ticket
+SSR7％ガシャが引けるチケットです,Ticket that lets you draw the SSR7% gacha.
+SSR10％ガシャチケット,SSR10% Gacha Ticket
+SSR10％ガシャが引けるチケットです,Ticket that lets you draw the SSR10% gacha.
+SSR15％ガシャチケット,SSR15% Gacha Ticket
+SSR15％ガシャが引けるチケットです,Ticket that lets you draw the SSR15% gacha.
+対象のSRプロデュースアイドルを選んで獲得できるチケットです,A ticket that lets you to select a specific SR Produce Idol.
+SR以上確定ガシャチケット\n［1/3］,Guaranteed SR+ \nGacha Ticket［1/3］
+SR以上確定ガシャチケット\n［2/3］,Guaranteed SR+ \nGacha Ticket［2/3］
+SR以上確定ガシャチケット\n［3/3］,Guaranteed SR+ \nGacha Ticket［3/3］
+[月2個まで購入可能],　[Up to 2 purchases per month]
+[月5個まで購入可能],　[Up to 5 purchases per month]
+[月10個まで購入可能],　[Up to 10 purchases per month]
+[月25個まで購入可能],　[Up to 25 purchases per month]
+[月100個まで購入可能],　[Up to 100 purchases per month]
+[月3個まで購入可能],　[Up to 3 purchases per month]
+[月1個まで購入可能],　[Up to 1 purchase per month]
+[お1人様5個まで],　[Up to 5 per person]
+[お1人様3個まで],　[Up to 3 per person]
+[お1人様1個まで],　[Up to 1 per person]
+[お1人様5つまで],　[Up to 5 per person]
+[お1人様3つまで],　[Up to 3 per person]
+[お1人様2つまで],　[Up to 2 per person]
+[お1人様1つまで],　[Up to 1 per person]
+[毎日1個まで購入可能],　[Up to 1 purchase per day]
+[毎日2個まで購入可能],　[Up to 2 purchases per day]
+[毎日3個まで購入可能],　[Up to 3 purchases per day]
+[毎日10個まで購入可能],　[Up to 10 purchases per day]
+2個入り,2
+3個入り,3
+2冊入り,2
+3冊入り,3
+プロデュース,Produce
+サポート,Support
+プロデュース中2回まで使用可能,Usable up to 2 times during Produce
+プロデュース中3回まで使用可能,Usable up to 3 times during Produce
+効果量は約束発生毎に減少し4回で効果がなくなる,"Effect slightly increases the chance of being asked to make a promise, up to 4 times. Effect decreases after each promise."
+ネココのぬいぐるみ,Nekoko Plushie
+トモモのぬいぐるみ,Tomomo Plushie
+かっちゃんのぬいぐるみ,Kacchan Plushie
+クリスマスブーツ,Christmas Boots
+旅のしおり,Travel Brochure
+1st LIVE Tシャツ,1st LIVE T-Shirt
+ルカが描いた犬のキーホルダー,Dog drawn by Luca Keychain
+羽那が描いたうさぎのキーホルダー,Bunny drawn by Hana Keychain
+はるきが描いたきつねのキーホルダー,Fox drawn by Haruki Keychain
+コーヒーカップ,Coffee Cup
+5.5thLIVEキーホルダー,5.5th LIVE Keychain
+6thLIVEキーホルダー（大阪）,6th LIVE Keychain (Osaka)
+6thLIVEキーホルダー\n（大阪）,6th LIVE Keychain\n(Osaka)
+6thLIVEキーホルダー（横浜）,6th LIVE Keychain (Yokohama)
+6thLIVEキーホルダー\n（横浜）,6th LIVE Keychain\n(Yokohama)
+サングラス,Sunglasses
+スライム,Slime
+「サマーアイドル2019」Tシャツ＆うちわ,[Summer Idol 2019] T-Shirt & Fan
+灯織の水晶玉,Hiori's Crystal Ball
+MUSIC DAWN記念キーホルダー,MUSIC DAWN Memorial Keychain
+ポカリスエット＆イオンウォーターセット,Pocari Sweat & Ion Water Set
+アイマス18thお祝いパーティバルーン,IM@S 18th Celebration Party Balloon
+スリスリくんのぬいぐるみ,Surisuri-kun Plushie
+第1弾ムビチケカード,1st Part Movie Ticket
+第2弾ムビチケカード,2nd Part Movie Ticket
+ソングフォープリズムのバッジ,Song for Prism Badge
+アイドルからの手紙（金）,Letter from Idols (Gold)
+アイドルからの手紙（銀）,Letter from Idols (Silver)
+アイドルからの手紙（銅）,Letter from Idols (Bronze)
+6th Anniversary アイドルからの手紙（金）,6th Anniversary Letter from Idols (Gold)
+6th Anniversary アイドルからの手紙（銀）,6th Anniversary Letter from Idols (Silver)
+6th Anniversary アイドルからの手紙（銅）,6th Anniversary Letter from Idols (Bronze)
+【'24 10月Pカップ】 アイドルからのプレゼント1,['24 October P Cup] Present from Idols 1
+【'24 10月Pカップ】 アイドルからのプレゼント2,['24 October P Cup] Present from Idols 2
+ブライダル特集'24年6月号,Bridal Special Feature '24 June Edition
+ノウハウ目録,Know-How Catalogue
+,(description of know-how catalogue)
+ノウハウのしおり(1葉),Know-How Bookmark
+ノウハウの発現確率が増加(小),Increases the chance of getting a Know-How (Slight)
+ノウハウのしおり(2葉),Know-How Bookmark (2)
+ノウハウの発現確率が増加(中),Increases the chance of getting a Know-How (Small)
+高レベルノウハウのしおり(1葉),High Level Know-How Bookmark (1)
+高レベルノウハウの\nしおり(1葉),High Level \nKnow-How Bookmark (1)
+高レベルノウハウのしお\nり(1葉),High Level \nKnow-How Bookmark (1)
+高レベルノウハウのしおり(2葉),High Level Know-How Bookmark (2)
+高レベルノウハウの\nしおり(2葉),High Level \nKnow-How Bookmark (2)
+高レベルノウハウのしお\nり(2葉),High Level \nKnow-How Bookmark (2)
+ノウハウが発現した際、高レベルのノウハウの発現確率が増加(小),
+ノウハウブックからのノウハウ継承確率が増加（中）,
+テンション＋5のノウハウブック,Tension +5 Know-How Book
+テンション＋5の\nノウハウブック,Tension +5\nKnow-How Book
+２８３プロのノウハウブック,283Pro Know-How Book
+B小町ライブBD,B-Komachi Live Blu-Ray
+【'21エイプリルフール】ノートパッド,['21 April Fools] Notepad
+2019七夕の短冊,2019 Tanabata Piece of Paper
+2019お月見団子,2019 Moon Viewing Dumplings
+2019ハロウィンのおかし,2019 Halloween Sweets
+2020ハロウィンのおかし,2020 Halloween Sweets
+2021ハロウィンのおかし,2021 Halloween Sweets
+2022ハロウィンのおかし,2022 Halloween Sweets
+2023ハロウィンのおかし,2023 Halloween Sweets
+2024ハロウィンのおかし,2024 Halloween Sweets
+【'25VD】 差し入れ,['25VD] Gift
+【'25VD】 プレセント,['25VD] Present
+【'20WD】ホワイトデーのお返し,['20WD] White Day Return Gift
+【'21WD】ホワイトデーのお返し,['21WD] White Day Return Gift
+【'22WD】ホワイトデーのお返し,['22WD] White Day Return Gift
+【'23WD】ホワイトデーのお返し,['23WD] White Day Return Gift
+【'24WD】ホワイトデーのお返し,['24WD] White Day Return Gift
+【'25WD】ホワイトデーのお返し,['25WD] White Day Return Gift
+1stアニバーサリーケーキ,1st Anniversary Cake
+1.5アニバーサリーケーキ,1.5th Anniversary Cake
+2ndアニバーサリーケーキ,2nd Anniversary Cake
+2.5アニバーサリーケーキ,2.5th Anniversary Cake
+3rdアニバーサリーケーキ,3rd Anniversary Cake
+3.5アニバーサリーケーキ,3.5th Anniversary Cake
+4thアニバーサリーケーキ,4th Anniversary Cake
+4.5アニバーサリーケーキ,4.5th Anniversary Cake
+5thアニバーサリーケーキ,5th Anniversary Cake
+5.5アニバーサリーケーキ,5.5th Anniversary Cake
+6thアニバーサリーケーキ,6th Anniversary Cake
+6.5アニバーサリーケーキ,6.5th Anniversary Cake
+7thアニバーサリーケーキ,7th Anniversary Cake
+マイク【銅】,Mic [Bronze]
+マイク【銅】[1/2],Mic [Bronze] [1/2]
+マイク【銅】[2/2],Mic [Bronze] [2/2]
+シューズ【銅】,Shoes [Bronze]
+シューズ【銅】[1/2],Shoes [Bronze] [1/2]
+シューズ【銅】[2/2],Shoes [Bronze] [2/2]
+コスメ【銅】,Cosmetics [Bronze]
+コスメ【銅】[1/2],Cosmetics [Bronze] [1/2]
+コスメ【銅】[2/2],Cosmetics [Bronze] [2/2]
+ボーカル用ペンライト【銅】,Vocal Penlight [Bronze]
+ダンス用ペンライト【銅】,Dance Penlight [Bronze]
+ビジュアル用ペンライト【銅】,Visual Penlight [Bronze]
+Leader用ペンライト【銅】,Leader Penlight [Bronze]
+Center用ペンライト【銅】,Center Penlight [Bronze]
+ボーカル用手紙【銅】,Vocal Letter [Bronze]
+ダンス用手紙【銅】,Dance Letter [Bronze]
+ビジュアル用手紙【銅】,Visual Letter [Bronze]
+Leader用手紙【銅】,Leader Letter [Bronze]
+Center用手紙【銅】,Center Letter [Bronze]
+マッチライプで施設強化に使用するアイテム,Item used for enhancing facilities in Match Live.
+メガシャキ,Megashaki
+2nd season劇場ムビチケカード,2nd season Theater Movie Ticket
+ヒントが書かれた手紙,Letter with Hint
+天井社長からの差し入れ,Gift from President Amai
+マカロンタワー,Macaron Tower
+アクあかデートクレープ,AkuAka Date Crepe
+舞台台本,Stage Script
+オリジナルスーツ,Original Suit
+初心のバッジ,
+雀士のバッジ,
+雀傑のバッジ,
+雀豪のバッジ,
+雀聖のバッジ,
+【2024】グレードフェス記念メダル,[2024] GradeFes Commemorative Medal
+【2025】グレードフェス記念メダル,[2025] GradeFes Commemorative Medal
+【’19Xmas】ハンドクリーム,[19Xmas] Hand Cream
+【’19Xmas】ケーキ,[19Xmas] Cake
+【’19Xmas】イルミネーション,[19Xmas] illumination
+【’19Xmas】真乃・ブランケット,[19Xmas] Mano's Blanket
+あったかさとふわふわ具合が一番なものを選んだ,
+【’20Xmas】真乃・ラテマシュマロ,
+ひととき、ほっとできたらいいなって,
+【’21Xmas】真乃・琥珀糖,
+今日も、宝石みたいな思い出に変わる,
+【’22Xmas】ホットレモネード,
+【’22Xmas】サボテンの寄せ植え,
+【’22Xmas】手袋……？,
+【’22Xmas】真乃・ペーパー加湿器,
+やさしさ潤う,
+【’23Xmas】真乃・雪の結晶,
+溶けてしまわないように,
+【'20VD】真乃・チョコレートケーキ,
+チョコケーキの鳥さん、しあわせを運ぶ,
+,
+,
+【'22VD】真乃・チョコレートパフェ,
+冷えた器にちょこんと乗って,
+【'23VD】真乃・チョコレートの詰め合わせ,
+ひととき、そっと小枝で羽休めを,
+【'24VD】真乃・にがおえクッキー,
+ぽかぽか照らす、あなたは,
+【’25VD】真乃・ホットチョコレートボム,['25VD] Mano's Hot Chocolate Bomb
+ひと時をちょっとだけ特別に,
+【’19Xmas】占いの本,[19Xmas] Fortune-Telling Book
+【’19Xmas】旅のガイドブック,[19Xmas] Travel Guidebook
+【’19Xmas】星空の写真集,[19Xmas] Starry Sky Photobook
+【’19Xmas】灯織・ヒーリングCD,[19Xmas] Hiori's Music CD
+『師走』を体現しているプロデューサーを心配した結果,
+【’20Xmas】灯織・フクロウの置物,
+おそろいの青いフクロウが部屋にあるとは言えずじまい,
+【’21Xmas】灯織・インスタントコーヒーアソート,
+この一杯の間だけでも、,
+【’22Xmas】ホットフルーツティー,
+【’22Xmas】店舗限定スイーツ,
+【’22Xmas】イルミネーション,
+【’22Xmas】灯織・『きっかけ』のプレイリスト,
+気に入っている曲たち,
+【’23Xmas】灯織・サイン入りCD,
+あなたのおかげだという証明,
+【'20VD】灯織・チョコレートフォンデュ,
+一緒に食べたら意味がないのではと、後から思い至った,
+,
+,
+【'22VD】灯織・ひとくちせんべい,
+箸休めになれば,
+【'23VD】灯織・チョコレート,
+被ってしまった時のために、いいものを少しだけ,
+【'24VD】灯織・オランジェット,
+持て余してしまう程の,
+【’25VD】灯織・ボンボンチョコラ,['25VD] Hiori's Bonbon Chocolates
+仕事中でもつまみやすいので,
+【’19Xmas】フェイスタオル,[19Xmas] Face Towel
+【’19Xmas】はちみつアソートセット,[19Xmas] Assorted Honey Set
+【’19Xmas】パイントアイス,[19Xmas] Pint of Ice Cream
+【’19Xmas】めぐる・ネクタイピン,[19Xmas] Meguru's Tie Pin
+（ずっとわたしのプロデューサーでいてね、なんて）,
+【’20Xmas】めぐる・ホットアイマスク,
+電子機器が手放せないプロデューサーへ,
+【’21Xmas】めぐる・手作りクリームソーダ,
+即席にかけた時間,
+【’22Xmas】ホットワイン（もどき）,
+【’22Xmas】３色の花束,
+【’22Xmas】コンビニアイス,
+【’22Xmas】めぐる・入浴剤セット,
+ホットにホッと,
+【’23Xmas】めぐる・怪獣のスリッパ,
+モコモコのあったかいやつ！！,
+【'20VD】めぐる・チョコレート,
+おすすめ。だけど、好きそうな味を選んだつもり,
+,
+,
+【'22VD】めぐる・バレンタインフェアケーキ,
+１週間限定のやつ,
+【'23VD】めぐる・ホットチョコレート,
+多めに作ってはんぶんこ,
+【'24VD】めぐる・ショコラアソート,
+いろ　いろ,
+【'25VD】めぐる・チョコがけポップコーン,['25VD] Meguru's Chocolate-coated Popcorn
+おやつタイムのお友達,
+【’19Xmas】恋鐘・マフラー,
+想いは冬の結び目,
+【’20Xmas】恋鐘・クリスマス鍋,
+星型スプーンで掬って,
+【’21Xmas】恋鐘・ジンジャーブレッドマン,
+あまく懐かしく、あたたかいもの,
+【’22Xmas】クリスマスベル,
+【’22Xmas】フルーツタルト,
+【’22Xmas】ミトン,
+【’22Xmas】恋鐘・ツリーのてっぺん星,
+マフラーもあるばってん……,
+【’23Xmas】恋鐘・月球儀のフロアランプ,
+お月さんといつだって一緒,
+【'20VD】恋鐘・チョコレート,
+落ちたのは、,
+,
+,
+【'22VD】恋鐘・チョコレートのバラ,
+二輪並んどるの、可愛かろ？,
+【'23VD】恋鐘・コーヒービスケット,
+コーヒーにばり最高のマリアージュ,
+【'24VD】恋鐘・チョコレートクリーム,
+あまい一日のはじまり,
+【'25VD】恋鐘・チョコがけいちご,['25VD] Kogane's Chocolate-coated Strawberries
+うちん気持ちのこもったやつ,
+【’19Xmas】摩美々・プリン,
+プリンが入ってそうな箱,
+【’20Xmas】摩美々・クリスマスカード,
+特別感とか、そういうのはちょっと,
+【’21Xmas】摩美々・大きな鍋セット,
+それはそれはとても大きな,
+【’22Xmas】プランクトン飼育観察セット,
+【’22Xmas】ぬいぐるみ,
+【’22Xmas】バニティポーチ,
+【’22Xmas】摩美々・ド派手なマフラー,
+色とりどりのイルミネーションよりも,
+【’23Xmas】摩美々・本気の達磨,
+インパクト重視でー,
+【'20VD】摩美々・カラフルなゼリー,
+カラフルで可愛い、摩美々のイチオシ,
+,
+,
+【'22VD】摩美々・賄賂,
+正々堂々、正真正銘の賄賂。,
+【'23VD】摩美々・チョコレート（罠）,
+すごく真面目に選んだ罠。,
+【'24VD】摩美々・“手作り”チョコレート,
+（見返りへの）本気の気持ち,
+【'25VD】摩美々・味のないガム,['25VD] Mamimi's Flavourless Gum
+（あなたの）気持ちを試す、ガチの素材勝負。,
+【’19Xmas】咲耶・ネクタイ,
+胸元に咲く、私色のブートニア,
+【’20Xmas】咲耶・手袋,
+指先、あたたかさを絡める代わりに,
+【’21Xmas】咲耶・携帯用靴べら,
+傍らで、役に立てますように,
+【’22Xmas】ネイルオイル,
+【’22Xmas】好きなもの,
+【’22Xmas】夜景,
+【’22Xmas】咲耶・アグリーセーター,
+きっとみんなの視線は私たちに釘付け,
+【’23Xmas】咲耶・手作りシュトーレン,
+甘い雪に包まれて,
+【'20VD】咲耶・チョコレート,
+普段はしない背伸びを、少しだけ,
+,
+,
+【'22VD】咲耶・マシュマロサンド,
+チョコと一緒に、アナタと私だけの意味をくるんで,
+【'23VD】咲耶・パウンドケーキ,
+時間ごと,
+【'24VD】咲耶・バウムクーヘン,
+『19時、事務所で』,
+【'25VD】咲耶・生キャラメル,['25VD] Sakuya's Pure Caramel
+『3.5cmの、溶けない幸せ』,
+【’19Xmas】結華・クリスマスカード,
+『たくさんの幸せが訪れますように』,
+【’20Xmas】結華・小さいクリスマスツリー,
+きっと当たり前に守られる次の約束,
+【’21Xmas】結華・最中型の味噌汁のもと,
+実用愛情表現,
+【’22Xmas】クリスマスカード,
+【’22Xmas】浮かれたメガネ,
+【’22Xmas】キッチングッズセット,
+【’22Xmas】結華・一口シュークリームツリー,
+私ももらってるなぁ、これ,
+【’23Xmas】結華・プロデューサーの写真,
+（私の）世界で一番、,
+【'20VD】結華・チョコレート,
+手作りしない理由,
+,
+,
+【'22VD】結華・チョコレートベア,
+ビビッと来たのも本当／日和ったのも本当,
+【'23VD】結華・手作りブラウニー,
+理由が先（だから楽だった、なんて）,
+【'24VD】結華・フォンダンショコラ,
+あふれでないで,
+【'25VD】結華・コーヒービーンズチョコ,['25VD] Yuika's Coffee Bean Chocolates
+苦くて甘い大人の味,
+【’19Xmas】霧子・アロマキャンドル,
+こんこん、ぱたぱた、かさかさ,
+【’20Xmas】霧子・りんご,
+いいものみつけた,
+【’21Xmas】霧子・祝福,
+それは何色をしていますか,
+【’22Xmas】お祈り,
+【’22Xmas】灯り,
+【’22Xmas】鉛筆,
+【’22Xmas】霧子・光と風,
+それと、埃,
+【’23Xmas】霧子・クリスマスツリー,
+きらきら、綺麗だよ,
+【'20VD】霧子・チョコレート,
+溶けないほどのぬくもりで,
+,
+,
+【'22VD】霧子・駅前のチョコレート,
+小さな勇気に,
+【'23VD】霧子・処分品,
+レジにて15％オフ！！,
+【'24VD】霧子・♡,
+あなたとわたしのあいだに,
+【'25VD】霧子・スイーツビュッフェ券,['25VD] Kiriko's Sweets Buffet Ticket
+お仕事のお礼でもらいました,
+【’19Xmas】果穂・駄菓子詰め合わせ,
+とってもとっても、とーっても──強い,
+【’20Xmas】果穂・まほうのペン,
+その光はすべてを明らかにするらしい,
+【’21Xmas】果穂・お助けチケット,
+ヒーローにはなれないけどお手伝いはできる！,
+【’22Xmas】柴犬柄のペンセット,
+【’22Xmas】クリスマス詰め合わせ,
+【’22Xmas】期間限定ドリンク,
+【’22Xmas】果穂・ちょっといいお酒,
+協賛：小宮家,
+【’23Xmas】果穂・果穂とマメ丸のアナザー写真,
+『僕が撮りました』,
+【'20VD】果穂・手作りチョコスコーン,
+最強の協力者に『コーヒーに合うもの』を聞いた,
+,
+,
+【'22VD】果穂・柴犬アイシングクッキー,
+ほね　と　にくきゅう　もある,
+【'23VD】果穂・チョコマフィン,
+ふたたびのマフィン,
+【'24VD】果穂・犬型のおかし詰め合わせ,
+あの日キッチンで作ったもの全部,
+【'25VD】果穂・しょっぱいだがしセット,['25VD] Kaho's Salty Candy Set
+甘いの⇔しょっぱいの,
+【’19Xmas】智代子・特製のチョコレート,
+自信を持って、メリークリスマス！,
+【’20Xmas】智代子・リストレスト,
+こちらはちょうどのタイミングです,
+【’21Xmas】智代子・ハンドタオル,
+すくすくとふわふわになるそうです,
+【’22Xmas】チョコレート,
+【’22Xmas】アイマスク,
+【’22Xmas】食べ放題,
+【’22Xmas】智代子・紅茶,
+お仕事頑張ってください！,
+【’23Xmas】智代子・チョコレートアイス,
+シェアの定番ではないのか,
+【'20VD】智代子・チョコ菓子,
+この時期一番のおすすめ（チョコアイドル調べ）,
+,
+,
+【'22VD】智代子・色々な種類のチョコ,
+厳選した結果の最善……です！,
+【'23VD】智代子・カップシュークリーム,
+冬のプロデューサーさん仕様,
+【'24VD】智代子・とっておきのチョコレート,
+みんなへのシェアは一時保留中,
+【'25VD】智代子・お揃いのチョコレート,['25VD] Chiyoko's Matching Chocolates
+不覚ですが、これはこれで,
+【’19Xmas】樹里・ボールペン,
+誰にでもサンタはやってくる,
+【’20Xmas】樹里・多機能ふせんセット,
+伝えたいことも貼り付けて,
+【’21Xmas】樹里・ホットアイマスク,
+温かなくらやみ,
+【’22Xmas】ゲーム機のミニキーホルダー,
+【’22Xmas】シューチャーム,
+【’22Xmas】ひときれのケーキ,
+【’22Xmas】樹里・２way手袋,
+働きものの手に,
+【’23Xmas】樹里・折り畳みクッション,
+労わって、大事にしてほしくて,
+【'20VD】樹里・チョコレート,
+悩んで買った３つのうちのひとつ,
+,
+,
+【'22VD】樹里・野菜味のサブレ,
+仕事もサクサクいきますように,
+【'23VD】樹里・熟考したチョコレート,
+（やっぱり、普通に渡せばよかったかな……）,
+【'24VD】樹里・コーヒービーンズチョコ,
+仕事はほどほどにな,
+【'25VD】樹里・カフェの優待券,['25VD] Juri's Cafe Coupons
+一緒にどうだ？,
+【’19Xmas】凛世・カメのマスコット,
+あなたも涙を流すのですか,
+【’20Xmas】凛世・インスタントカメラ,
+ワン、ツー、ワン・ツー・スリー　Ah,
+【’21Xmas】凛世・柊の枝,
+守りたい,
+【’22Xmas】助手席ドライブ,
+【’22Xmas】絵文字,
+【’22Xmas】俺の歌,
+【’22Xmas】凛世・通話,
+完全待機,
+【’23Xmas】凛世・オリオン座,
+〇……〇……〇……〇……,
+【'20VD】凛世・チョコレート,
+ギリギリアマイ,
+,
+,
+【'22VD】凛世・リキュールのボンボン,
+駆ケ引キ五段活用,
+【'23VD】凛世・チョコレート,
+真剣で候,
+【'24VD】凛世・チョコクッキー,
+純情製菓,
+【'25VD】凛世・ハート型のマカロン,['25VD] Rinze's Heart-shaped Macaron
+たつたひとつの,
+【’19Xmas】夏葉・キーケース,
+『大切にして』,
+【’20Xmas】夏葉・コーディネート券,
+代わりにアナタの１日を貰うわ,
+【’21Xmas】夏葉・クッション（大）,
+背中を預けたり、抱きしめたり,
+【’22Xmas】Tシャツ,
+【’22Xmas】スポーツグラス,
+【’22Xmas】スニーカー,
+【’22Xmas】夏葉・スニーカー,
+一緒に駆け抜けるため,
+【’23Xmas】夏葉・欲しいもの,
+どちらへのプレゼントか,
+【'20VD】夏葉・チョコと紅茶のセット,
+アナタの顔が浮かんだのは、どうして,
+,
+,
+【'22VD】夏葉・バレンタインの差し入れ,
+……本当に渡したいのは,
+【'23VD】夏葉・タブレットチョコ,
+コーヒーブレイクに甘いご褒美を,
+【'24VD】夏葉・日本酒ジュレ入りチョコレート,
+折々、重ねた歩みを,
+【'25VD】夏葉・思いのこもったチョコ,['25VD] Natsuha's Thoughtful Chocolates
+一番大きな気持ちと一緒に,
+【’19Xmas】甘奈・ネクタイ,
+気に入ってくれるといいな……,
+【’20Xmas】甘奈・ネックレス,
+ワンポイント・マジック,
+【’21Xmas】甘奈・焙りたてのコーヒー,
+早く、あなたに届けたくて,
+【’22Xmas】有名店のプリン,
+【’22Xmas】本,
+【’22Xmas】帽子,
+【’22Xmas】甘奈・ワイングラス,
+いつかの素敵な乾杯に,
+【’23Xmas】甘奈・甘奈セレクトのコーデ,
+プロデューサーさん専用だよっ！,
+【'20VD】甘奈・手作りチョコの詰め合わせ,
+たくさんの想いを込めて☆,
+,
+,
+【'22VD】甘奈・手作りの分厚いチョコレート,
+厚さの理由は知らなくていいからね！,
+【'23VD】甘奈・包装されたチョコ,
+頑張りました,
+【'24VD】甘奈・綺麗にできた手作りチョコ,
+とにかく、しっかりと,
+【'25VD】甘奈・チョコレートパフェ,['25VD] Amana's Chocolate Parfait
+甘奈特製☆,
+【’19Xmas】甜花・ゲームコントローラー,
+対戦の際は手を抜きません,
+【’20Xmas】甜花・プリペイドカード,
+ストロング・プレゼント,
+【’21Xmas】甜花・サンタ帽かトナカイのツノ,
+【’22Xmas】フィギュア,
+【’22Xmas】フットマッサージャー,
+【’22Xmas】シュトレン,
+【’22Xmas】甜花・名前入りタンブラー,
+名前入りです！！！！,
+【’23Xmas】甜花・羊毛スリッパ,
+あったかくて、楽！！！！！,
+【'20VD】甜花・手作り？チョコ,
+市販品だがラッピングはお手製。つまり実質手作り,
+,
+,
+【'22VD】甜花・『Die・or Love』チョコ,
+……かっこいいよね……？,
+【'23VD】甜花・マカロン,
+コーヒー味×４,
+【'24VD】甜花・デビ太郎ショコラティエッグ,
+がぶって、して……！,
+【'25VD】甜花・デビ太郎だったクッキー,['25VD] Tenka's Previously-Debitaro Cookies
+くっついちゃった……,
+【’19Xmas】千雪・ハンカチ,
+た、高いやつじゃ……,
+【’20Xmas】千雪・シャンパン,
+ごはん系、いけます,
+【’21Xmas】千雪・カフスボタン,
+微かな光が、あなたと共にありますように,
+【’22Xmas】クリスマスオーナメント,
+【’22Xmas】屋台のラーメン,
+【’22Xmas】ジンジャーシロップ,
+【’22Xmas】千雪・ボールペン,
+シンプルかつ機能的、に,
+【’23Xmas】千雪・牛丼（半分こ）,
+美味しさ（２倍）,
+【'20VD】千雪・チョコレート,
+上質を知るものたちよ,
+,
+,
+【'22VD】千雪・手作りプチケーキ,
+解いて開けるわくわくも、プレゼントのうち,
+【'23VD】千雪・レーズン入り生チョコ,
+ほろ苦カカオ、甘酸っぱラムレーズン,
+【'24VD】千雪・ショコラテリーヌ,
+こっくり、しっとり、たっぷり,
+【'25VD】千雪・お酒に合うチョコ,['25VD] Chiyuki's Fashionable Chocolates
+乾杯、カカオの香りを添えて,
+【’19Xmas】あさひ・強力磁石,
+ネオジム……ネオジウム……どっちっすかね……,
+【’20Xmas】あさひ・変わった形の貝殻,
+耳に当てるんすよ,
+【’21Xmas】あさひ・自作のクロスワードパズル,
+ヒントは２回まで,
+【’22Xmas】良質なノート,
+【’22Xmas】わたあめドリンク,
+【’22Xmas】タコヤキケーキ,
+【’22Xmas】あさひ・紙ヒコーキ,
+サンタ号MarkⅡ,
+【’23Xmas】あさひ・カラメルプリン,
+焦がしすぎたかも,
+【'20VD】あさひ・個包装のチョコレート,
+『苦かったっす……！』,
+,
+,
+【'22VD】あさひ・よさげなチョコ,
+カチッ！　もらったら最後,
+【'23VD】あさひ・突発的衝動生チョコ,
+生クリームが決め手らしい,
+【'24VD】あさひ・山盛りチョコ,
+楽しめたのならそれは宝の,
+【'25VD】あさひ・チョコチップスコーン,['25VD] Asahi's Chocolate Chip Scones
+ハード・ロック（調理実習産）,
+【’19Xmas】冬優子・ダサセーター……？,
+とてもとてもとてもダサいセーター,
+【’20Xmas】冬優子・エコバッグ,
+……いるでしょ,
+【’21Xmas】冬優子・野菜ジュース（箱）,
+無難なものにしておけばよかった,
+【’22Xmas】油,
+【’22Xmas】面白いこと,
+【’22Xmas】ハンドケアセット,
+【’22Xmas】冬優子・腹巻き,
+半分だけ,
+【’23Xmas】冬優子・アテンド,
+深い意味はありません♡,
+【'20VD】冬優子・カップケーキ,
+『……どんな顔して渡せばいいってのよ、バカ』,
+,
+,
+【'22VD】冬優子・激辛チョコ,
+ツイてるんじゃない？,
+【'23VD】冬優子・チョコレートタルト,
+オーダーがある＿＿は知らない,
+【'24VD】冬優子・鶏の唐揚げ,
+正義,
+【'25VD】冬優子・なかなか溶けないアメ,['25VD] Fuyuko's Hard-to-melt Candy
+しつこいわよ？,
+【’19Xmas】愛依・タピオカミルクティー,
+タピる？　タピれる？　タピっちゃう！？,
+【’20Xmas】愛依・暖かい帽子,
+ちょーあったかいよ～♪,
+【’21Xmas】愛依・サプライズパーティー,
+早く帰ってこーい♪,
+【’22Xmas】コンパクトミラー,
+【’22Xmas】ゴールドのアクセサリー,
+【’22Xmas】鍋セット,
+【’22Xmas】愛依・名刺入れ,
+うちらの思い出♪,
+【’23Xmas】愛依・ブレスレット,
+一緒の～♪,
+【'20VD】愛依・文字入りチョコレート,
+『たまには文字で伝えるのもいいよね♪』,
+,
+,
+【'22VD】愛依・一生懸命作ったチョコマカロン,
+失敗作はみんなで美味しく食べた,
+【'23VD】愛依・手作りチョコケーキ,
+お姉、ヤバい,
+【'24VD】愛依・奮発したチョコレート,
+感謝！＞＞＞＞節約,
+【'25VD】愛依・くじ引き箱,['25VD] Mei's Lottery Box
+何が出るかな？,
+【’20Xmas】透・にがいやつ,
+【’21Xmas】透・ぐっとくるやつ,
+【’22Xmas】一途,
+【’22Xmas】ファンサ,
+【’22Xmas】星,
+【’22Xmas】透・ハッピーエンドのやつ,
+【’23Xmas】透・じーんとするやつ,
+ね,
+【'22VD】透・約束,
+たぶんおそらく、きっと,
+【'23VD】透・チョコレート,
+母はそう言ったのだ,
+【'24VD】透・チョコレート,
+こういうこと,
+【'25VD】透・チョコレート,['25VD] Toru's Chocolate
+フォーエバー,
+【’20Xmas】円香・ファブリックミスト,
+清潔度５％アップ（当社比）,
+【’21Xmas】円香・レザーワックス,
+※革靴用,
+【’22Xmas】ポエム,
+【’22Xmas】手ぬぐい,
+【’22Xmas】ビジューの髪留め,
+【’22Xmas】円香・一千万本のバラ,
+まさかあるとはね,
+【’23Xmas】円香・ヘアワックス,
+※整髪用,
+【'22VD】円香・チョコレートバー,
+カカオ95％,
+【'23VD】円香・缶詰,
+逆も何もない,
+【'24VD】円香・瓶詰めチョコレート,
+おあつらえ向きに,
+【'25VD】円香・チョコレート,['25VD] Madoka's Chocolates
+ご期待に添えず,
+【’20Xmas】小糸・お手伝い券（５回）,
+できることがあるなら、なんでも,
+【’21Xmas】小糸・お守り,
+ねがいがかないますように,
+【’22Xmas】チョコ詰め合わせ,
+【’22Xmas】クッキー詰め合わせ,
+【’22Xmas】キャンディー詰め合わせ,
+【’22Xmas】小糸・招き猫の置物,
+福よこい！,
+【’23Xmas】小糸・スリッパ,
+お仕事頑張ってください,
+【'22VD】小糸・ボンボンショコラ,
+おうちで食べてください,
+【'23VD】小糸・チョコレート,
+おこづかいのぜんぶ,
+【'24VD】小糸・期間限定のチョコレート,
+いつもお世話になっています,
+【'25VD】小糸・アニマルトリュフ,['25VD] Koito's Animal Truffles
+まんまるかわいい贈り物,
+【’20Xmas】雛菜・お揃いのストラップ,
+きらいじゃないでしょ？,
+【’21Xmas】雛菜・ユアクマのブランケット,
+しあわせはあたたかいでしょ？,
+【’22Xmas】クグロフ,
+【’22Xmas】ジンジャーブレッド,
+【’22Xmas】ブッシュドノエル,
+【’22Xmas】雛菜・コーヒー,
+甘いのは用意してくれるでしょ？,
+【’23Xmas】雛菜・ユアクマシステム手帳,
+雛菜の予定でいっぱいにしてね～♡,
+【'22VD】雛菜・雛菜セレクト（４箱）,
+半分ずつ,
+【'23VD】雛菜・スープ,
+無限ループ,
+【'24VD】雛菜・ぬいぐるみとチョコ,
+お揃い、うれしいでしょ？,
+【'25VD】雛菜・宝石チョコ,['25VD] Hinana's Gemstone Chocolates
+きらきら！,
+【’21Xmas】にちか・靴下,
+ま、これでいいか的な！,
+【’22Xmas】お徳用シートマスク,
+【’22Xmas】愛シャドウ,
+【’22Xmas】ハンドクリーム,
+【’22Xmas】にちか・許す,
+トナカイください,
+【’23Xmas】にちか・ねぎらいの言葉,
+まぁ、一応お世話になってるんで,
+【'22VD】にちか・チョコレート,
+悪しき前例主義,
+【'23VD】にちか・チョコレート,
+雑費：198円,
+【'24VD】にちか・あまった手作りクッキー,
+感想はなしで,
+【'25VD】にちか・徳用チョコ,['25VD] Nichika's Value-pack Chocolate
+破格だったので,
+【’21Xmas】美琴・歌とダンス,
+凧あげしました,
+【’22Xmas】簡単カップケーキキット,
+【’22Xmas】簡単クッキーキット,
+【’22Xmas】簡単鍋キット,
+【’22Xmas】美琴・鍋つかみ？,
+母曰く、年越しそばを奮発したらしいです……！,
+【’23Xmas】美琴・マイクロタオル,
+汗拭き用にね,
+【'22VD】美琴・ちょっといいやつ,
+……ちょっとだけね？,
+【'23VD】美琴・チョコレート,
+【'24VD】美琴・マカロン,
+信頼している君に,
+【'25VD】美琴・クッキー,['25VD] Mikoto's Cookies
+焼きたてだった,
+【’23Xmas】ルカ・パウンドケーキ,
+やる……いらねェから,
+【'24VD】ルカ・みかん,['24VD] Luca's Mikan
+あんだろ,
+【'25VD】ルカ・最中,['25VD] Luca's Monaka
+余った差し入れ,
+【’23Xmas】羽那・パジャマ,['23Xmas] Hana's Pajamas
+いい夢が見れるらしい,
+【'24VD】羽那・チョコレート,['24VD] Hana's Chocolate
+あげる相手いますよ,
+【'25VD】羽那・ちゃんとしたチョコ,['25VD] Hana's Proper Chocolate
+ハート♡,Heart♡
+【’23Xmas】はるき・動画,
+こころに映りますか,
+【'24VD】はるき・ガトーショコラ,['24VD] Haruki's Chocolate Gateau
+デコレーションのない気持ち,
+【'25VD】はるき・ミニフォンデュ鍋セット,['25VD] Haruki's Mini Fondue Set
+あたたかな時間はチョコレートにとけて,
+復刻スリースターパティシエ衣装交換チケ,Reprint Three Star Patissier Exchange Ticket
+【スリースターパティシエ】櫻木 真乃,[Three Star Patissier] Mano
+【スリースターパティシエ】\n櫻木 真乃,[Three Star Patissier]\nMano
+【スリースターパティシエ】風野 灯織,[Three Star Patissier] Hiori
+【スリースターパティシエ】\n風野 灯織,[Three Star Patissier]\nHiori
+【スリースターパティシエ】八宮 めぐる,[Three Star Patissier] Meguru
+【スリースターパティシエ】\n八宮 めぐる,[Three Star Patissier]\nMeguru
+復刻クラシカルメイド/マドモアゼル衣装交換チケ,Reprint Classical Maid/Mademoiselle Exchange Ticket
+【クラシカルメイド】大崎 甘奈,[Classical Maid] Amana
+【クラシカルメイド】\n大崎 甘奈,[Classical Maid]\nAmana
+【クラシカルマドモアゼル】大崎 甜花,[Classical Mademoiselle] Tenka
+【クラシカルマドモアゼル】\n大崎 甜花,[Classical Mademoiselle]\nTenka
+【クラシカルメイド】桑山 千雪,[Classical Maid] Chiyuki
+【クラシカルメイド】\n桑山 千雪,[Classical Maid]\nChiyuki
+復刻ドルチェチョッコラー夕衣装交換チケ,Reprint Dolce Cioccolata Exchange Ticket
+【ドルチェチョッコラータ】小宮 果穂,[Dolce Cioccolata] Kaho
+【ドルチェチョッコラータ】\n小宮 果穂,[Dolce Cioccolata]\nKaho
+【ドルチェチョッコラータ】園田 智代子,[Dolce Cioccolata] Chiyoko
+【ドルチェチョッコラータ】\n園田 智代子,[Dolce Cioccolata]\nChiyoko
+【ドルチェチョッコラータ】西城 樹里,[Dolce Cioccolata] Juri
+【ドルチェチョッコラータ】\n西城 樹里,[Dolce Cioccolata]\nJuri
+【ドルチェチョッコラータ】杜野 凛世,[Dolce Cioccolata] Rinze
+【ドルチェチョッコラータ】\n杜野 凛世,[Dolce Cioccolata]\nRinze
+【ドルチェチョッコラータ】有栖川 夏葉,[Dolce Cioccolata] Natsuha
+【ドルチェチョッコラータ】\n有栖川 夏葉,[Dolce Cioccolata]\nNatsuha

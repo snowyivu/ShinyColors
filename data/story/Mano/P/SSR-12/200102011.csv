@@ -1,0 +1,82 @@
+id,name,text,trans
+0000000000000,プロデューサー,あ──はい、２８３プロダクションです,"Oh, hello. 283 Production."
+0000000000000,プロデューサー,"いつもお世話になっています……はい
+……櫻木ですか……","Thank you for all of your support... Yes.
+...About Mano...?"
+0000000000000,プロデューサー,"すみません、あいにく年内のスケジュールが
+埋まっていまして……","I'm sorry, but unfortunately her schedule for the
+rest of the year is completely booked..."
+0000000000000,プロデューサー,……なんとか調整できないか、確認してみますね,"...I'll see if I can move things arround to make some
+space."
+0000000000000,プロデューサー,"……はは、本当に……
+忙しくなりました","...Haha, yes... It's gotten quite busy."
+0000000000000,プロデューサー,それでは、また折り返します,"Alright then, I'll call you back once I know."
+0000000000000,プロデューサー,……えっと,...Um.
+0000000000000,プロデューサー,"んー……
+こっちに来たやつを一旦まとめて……",Hmm... If I put all of these together...
+0000000000000,テレビディレクター,"櫻木さんって、あんなに売れっ子なのに
+ちっとも鼻に掛けないですよね","Sakuragi-san is in such high demand lately, and yet
+she doesn't let it get to her head at all."
+0000000000000,テレビディレクター,"この業界にいながら
+ずっと初々しさが残ってて……","It's amazing that she's maintained her innocence for
+so long in this harsh environment."
+0000000000000,他事務所プロデューサー,ああいう逸材って、どうやって見つけるの？,How did you find someone as talented as her?
+0000000000000,プロデューサー,どうやって……,How...?
+0000000000000,他事務所プロデューサー,"なんか、秘訣とかあったら
+教えてよ","Come on, if you've got some special trick up your
+sleeve then you've gotta tell us."
+0000000000000,プロデューサー,"い、いえ、そんな……私はひたすら
+支えることに注力していましたから……大したことは","W-Wait, it's not like that... All I did was pour
+everything into supporting her... I didn't do
+anything special."
+0000000000000,他事務所プロデューサー,ほんとに～？,"Hmmm, are you sure～?"
+0000000000000,テレビディレクター,"ああ、でも確かに
+そういう方だっていうのは、私も見ていたので","Yeah, but I do think I've seen this in action."
+0000000000000,テレビディレクター,"とても大事にされていますよね
+アイドルの子を","You really cherish your idols, don't you?"
+0000000000000,プロデューサー,……はい,...Yes.
+0000000000000,他事務所プロデューサー,"じゃあ、教えてよ
+櫻木真乃がどんな子だったのか","So then tell us, what kind of girl is Mano Sakuragi?"
+0000000000000,プロデューサー,……,......
+0000000000000,プロデューサー,櫻木真乃は,Mano Sakuragi is...
+0000000000000,プロデューサー,"最初からずっと
+普通の女の子です","She's just a normal girl, she has been ever since she
+started."
+0000000000000,プロデューサー,"普通で、特別な女の子
+……みんなの隣の","She's normal, but she's also special.
+...She supports those around her."
+0000000000000,プロデューサー,お、真乃からだ,"Oh, it's from Mano."
+2001020110010,真乃,"『今日は久しぶりのオフをいただいたので
+公園でピーちゃんと遊んでいたんです』","""It's my first day off in a while, so i'm playing with
+Pii-chan in the park."""
+0000000000000,プロデューサー,"（ピーちゃんの写真か……、相変わらず
+元気そうだな）",(A picture of Pii-chan... looking as lively as ever)
+2001020110020,真乃,"『お散歩をしていたら
+空にきれいな虹がかかっていました』","""I saw a pretty rainbow in the sky when I started my
+walk."""
+2001020110030,真乃,"『プロデューサーさんにも
+見えるでしょうか？』","""Can you see it too, Producer-san?"""
+0000000000000,プロデューサー,ここからだと見えないな……,I don't think I can see it from here...
+0000000000000,プロデューサー,『虹、見に行くよ』,"""I'll go somewhere that I can."""
+0000000000000,？？？,……────♪,......────♪
+0000000000000,プロデューサー,"……
+この歌声は……","......
+This voice......"
+0000000000000,プロデューサー,……真乃,......Mano.
+2001020110050,真乃,ほわ、プロデューサーさん,"Howa, Producer-san."
+0000000000000,プロデューサー,"なんだか、出会った時のことを
+思い出したよ",I kinda was reminded of when the two of us first met.
+2001020110060,真乃,"鳩さんに、歌を歌っていたんです
+よろこんでくれるので……",I was singing to the pigeons. They seem to like it...
+0000000000000,プロデューサー,ここにもファンがいたんだな,You've always had fans here too.
+2001020110070,真乃,ふふ……っ,Fufu...
+0000000000000,プロデューサー,"あの時は知らなかった世界を見てきて
+どうだった？","So, what do you think about me showing you a whole
+new world?"
+2001020110080,真乃,えっと……,Umm...
+2001020110090,真乃,空は、とっても広くて,The sky... is so vast.
+2001020110100,真乃,みんなで飛ぶと、気持ちがいいです,Flying through it together... feels really nice.
+0000000000000,プロデューサー,"ははっ
+そうか","Haha, I see."
+info,produce_events/200102011.json,
+Translator,kotonekotoP,

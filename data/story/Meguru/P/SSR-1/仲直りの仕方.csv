@@ -7,7 +7,7 @@ id,name,text,trans
 2003004030030,めぐる,"学校の友だちがケンカしちゃったんだ
 二人とも、すっごく仲が良かったのに……","My school friends got into a fight.
 Both of them were really good friends..."
-0000000000000,プロデューサー,なるほどな。でもなんで、めぐるが落ち込んでるんだ？,I see.  But why are you feeling so down?
+0000000000000,プロデューサー,なるほどな。でもなんで、めぐるが落ち込んでるんだ？,I see. But why are you feeling so down?
 2003004030040,めぐる,"だってきっと、本当は仲直りしたいと思うんだ
 そう思うと、悲しくなっちゃって……","Because I honestly want them to make up.
 So when I think about it, it makes me sad..."
@@ -38,7 +38,8 @@ select,,強行突破だ！,Bulldoze through!
 それぞれに話してあげるんだ","What you're feeling, that's exactly what you should
 bring up."
 2003004030090,めぐる,"わたしから……でも……
-おせっかいだって嫌がられないかな？",It's from me... but... Wouldn't they hate me butting in?
+おせっかいだって嫌がられないかな？","It's from me... but... 
+Wouldn't they hate me butting in?"
 0000000000000,プロデューサー,"めぐるの、本気で二人の力になりたいって思いは、
 きっと伝わるはずだよ","Meguru, your earnest desire to help the two of them
 will surely be conveyed."

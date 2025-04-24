@@ -7,7 +7,8 @@ id,name,text,trans
 0000000000000,プロデューサー,結果を出せず、申し訳ありませんでした……,I apologize for not producing results...
 7902001020020,社長,……私たちに謝っている場合じゃない\n彼女が、お前を待っているだろう？,"...This is not the time to apologize to us.
 The girl is waiting for you, isn't she?"
-7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's job."
+7902001020030,社長,つらいだろうが、これもプロデューサーの仕事だ,"It may be painful, but this is also part of a producer's
+job."
 0000000000000,プロデューサー,……行ってきます,...I'm off.
 0000000000000,プロデューサー,一次審査の結果が出た\n……ここで終了だ,"The results of the first judging came out.
 ...It ends here."
@@ -18,9 +19,10 @@ If not──"
 0000000000000,プロデューサー,今回は残念だったが……\n円香なら絶対に上を目指せるからな,"It's too bad we didn't get through this time, but...
 I know you can aim higher."
 7021001020030,円香,そういうの結構ですので,I've had enough of that.
-0000000000000,プロデューサー,はは、嫌がるとは思ったけど……\nちゃんと伝えておきたかったんだ,"Haha, I thought that might annoy you, but... I wanted to get it across to you properly."
+0000000000000,プロデューサー,はは、嫌がるとは思ったけど……\nちゃんと伝えておきたかったんだ,"Haha, I thought that might annoy you, but...
+I wanted to get it across to you properly."
 0000000000000,プロデューサー,これからも一緒に頑張っていこう！,Let's keep up the good work together!
-7021001020040,円香,はい。『浅倉たちと一緒に』頑張ります,"Yes. I'll keep up the good work 'together with
-Asakura and the rest of the unit'."
+7021001020040,円香,はい。『浅倉たちと一緒に』頑張ります,"Yes. I'll keep up the good work ""together with
+Asakura and the rest of the unit""."
 info,produce_events/702100102.json,
 Translator,,

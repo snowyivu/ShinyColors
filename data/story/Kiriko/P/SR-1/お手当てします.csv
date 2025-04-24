@@ -2,10 +2,10 @@ id,name,text,trans
 2008003010010,霧子,"わぁ……！
 アンティーカの新しいグッズ……ですね……！","Aah!
 They're the new goods of L'Antica... aren't they?"
-0000000000000,プロデューサー,ああ、いい仕上がりだろ？,"Yes. They turned to be well-made, don't you think?"
+0000000000000,プロデューサー,ああ、いい仕上がりだろ？,"Yes. They turned out well, don't you think?"
 2008003010020,霧子,"はい……
 イメージ通り……です……！","Yes.
-They turned out well... as I imagined them to be."
+They did... Just as I imagined them to be."
 0000000000000,プロデューサー,いよいよ今日の販売会でお披露目だ,And they will be unveiled and sold in today's event.
 2008003010030,霧子,"みなさんに……
 喜んでいただけそうですね……","This would make...
@@ -42,10 +42,11 @@ How about this flower? Where should I put it?"
 これ、さっきの花じゃないか？　同じテーブルに……","Let's see...
 Isn't this the flower earlier? Put it on the same table."
 2008003010090,霧子,"あ、あの……違うんです
-これは同じバラ科なんですけど……種類としては──","U-Umm... no, it isn't.
-It's on the same rose family but... it's a different kind."
+これは同じバラ科なんですけど……種類としては──","U-Umm... no, it isn't. It's from the same rose family, 
+but... it's a different kind."
 0000000000000,プロデューサー,"ああ、そういうことならいいんだ、
-同じテーブルで頼む……おーい！　受付のほうは──","Oh, that's alright. Please put it on the same table. Hey! How's it going there at the reception?"
+同じテーブルで頼む……おーい！　受付のほうは──","Oh, that's alright. Please put it on the same table. 
+Hey! How's it going there at the reception?"
 2008003010100,霧子,"……っ
 す、すみません……","I-I'm so sorry
 about that..."
@@ -60,7 +61,8 @@ It's about this ball."
 ご迷惑をお掛けする……ので……","B-But... if I put them in the wrong place
 and cause some trouble... so..."
 0000000000000,プロデューサー,"迷惑ってことはないよ
-いったん、霧子の思うようにやってみてくれ","It won't cause any trouble at all. For the mean time, how about you work on things in your own way?"
+いったん、霧子の思うようにやってみてくれ","It won't cause any trouble at all. For the meantime, 
+how about you work on things in your own way?"
 2008003010130,霧子,は、はい……わかりました………！,O-Okay... I understand.
 0000000000000,プロデューサー,"（……ちょっと、強く言い過ぎたかな……
 霧子なりに考えて気遣ってくれてるのに……）","(Maybe I was little too harsh with my words.
@@ -80,14 +82,14 @@ I just cut myself a bit."
 タオルを濡らす……！","A first-aid kit...
 and a wet towel!"
 0000000000000,プロデューサー,"い、いや……ちょっとカッターで切っただけだから
-そんなに慌てなくても大丈夫だよ","I-It's alright. I just got a small cut so you
+そんなに慌てなくても大丈夫だよ","I-It's alright. I just got a small cut, so you
 don't have to panic that much."
 2008003010170,霧子,"だ、ダメです！
 万が一、バイキンが入ってひどくなったりしたら……","N-No!
 There's a possibility that it could get infected and get worse."
 2008003010180,霧子,……よかった、止血……できました……,"Oh, thank goodness... It stopped the bleeding."
 0000000000000,プロデューサー,"（……あんなに出血してたのにもう止まってる
-傷口の周りもキレイなもんだ……）","(She managed to stopped it even with all that bleeding.
+傷口の周りもキレイなもんだ……）","(She managed to stop it even with all that bleeding.
 She even did a good job treating around the wound.)"
 2008003010190,霧子,血が止まったら、もう大丈夫です……,"Now that the bleeding has been stopped, it's going to be alright."
 2008003010200,霧子,最後に、包帯を巻いて……と……,All that's left is... to put a bandage around it.
@@ -113,9 +115,11 @@ Sorry about how I acted earlier."
 さっき……ですか？","U-Umm... about...
 earlier...?"
 0000000000000,プロデューサー,"いや、ちょっと準備で焦ってさ
-霧子にきつく当たったかもしれない",I was a bit in a rush with the preparations so I might've been a little hard on you.
+霧子にきつく当たったかもしれない","I was a bit in a rush with the preparations, 
+so I might've been a little hard on you."
 0000000000000,プロデューサー,"霧子はすごく気を遣って
-仕事をしてくれてただけなのにな……面目ない",You were being considerate and helping out yet I still... I really shouldn't have done that.
+仕事をしてくれてただけなのにな……面目ない","You were being considerate and helping out, 
+yet I still... I really shouldn't have done that."
 2008003010260,霧子,そ、そんな……！,T-That's not true.
 2008003010270,霧子,"わたし……あんまりいろんなことが……
 うまくできないので……","There... really isn't

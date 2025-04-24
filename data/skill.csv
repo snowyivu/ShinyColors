@@ -335,7 +335,7 @@ $noun強化,$1 Fortification,
 メランコリー,Melancholy,noun
 リザレクション効果,Resurrection Effect,noun
 フレキシブル,Flexible,noun
-ランダム効果$num個付与,Gives $1 Random Effect,
+ランダム効果$num個付与,Gives $1 Random Effects,
 [条件:$name又は$name全員がライブに参加],[Condition: All $1 or $2 members in Live],
 回避率,Evasion Rate,noun
 瞳の輝き,Brilliance of the Eyes,noun
@@ -344,6 +344,8 @@ $noun $percent 強化,$1 $2 Fortification,
 パッシブスキル強化,Passive Skill Fortification,noun
 [条件:履歴に$nounのアイドルが$num人以上ある場合],[Condition: ≥ $2 $1 members in History],
 発動時に$noun$percentUP,$1 $2 UP when activated,
+気力,Energy,
+コスト,Cost,
 色とりどりの羽根,Multicolored Feather,text
 [輝く]色とりどりの羽根,[Shining] Multicolored Feather,text
 星が見上げた空,Looked up at the Starry Sky,text
@@ -400,6 +402,9 @@ $noun $percent 強化,$1 $2 Fortification,
 あなたと、いただきます,あなたと、いただきます,text
 こころ,こころ,text
 [向き合う]こころ,[向き合う]こころ,text
+はるかなる,Into the Distance,text
+夢、ひとつ,A Single Dream,text
+[心に灯す]夢、ひとつ,[Light Up My Heart] A Single Dream,text
 天然色ピクニック,Technicolor Picnic,text
 音、雨、パシャ、リ,音、雨、パシャ、リ,text
 by to illuminate,by to illuminate,text
@@ -1688,6 +1693,6 @@ sync,sync,text
 [そのままで]降りてきて,[Just Like That] Come Down,text
 猫と犬みたいな雨,Raining Cats and Dogs,text
 遠き明滅,遠き明滅,text
-２８３プロの日常,283Pro's Daily Life,text
+２８３プロの日常,Daily Life of 283Pro,text
 ケーキブレイク,Cake Break,text
 輝きを支える,輝きを支える,text

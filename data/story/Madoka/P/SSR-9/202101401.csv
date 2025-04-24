@@ -5,14 +5,15 @@ id,name,text,trans
 0000000000000,プロデューサー,"────すみません
 ラテをふたつ","────Excuse me, 2 lattes please."
 0000000000000,プロデューサー,"円香、いつもそれにするだろ？
-たまには飲んでみようかと思ってさ","You always get that, right?
+たまには飲んでみようかと思ってさ","That's what you always get, right?
 I've thought of trying it once in a while."
 2021014010020,円香,お好きに,Do what you want.
 0000000000000,プロデューサー,"……最近は、結構いろんな仕事をやってもらったよな
-幅広く","...You've finished quite a lot of jobs recently, haven't
+幅広く","...You've done quite a lot of jobs recently, haven't
 you. Quite a broad range too."
 2021014010030,円香,"そうですね
-ノクチルでの仕事を含めたら、本当にいろいろ","Indeed. if I include noctchill jobs, it really is a lot."
+ノクチルでの仕事を含めたら、本当にいろいろ","Indeed. if I include jobs under noctchill, it really
+is a lot."
 0000000000000,プロデューサー,ああ,Yeah.
 0000000000000,プロデューサー,"……あ、ほらこれとか……
 円香が主演の、映画のパンフレットがここに","...Ah, like this one, eh...
@@ -20,7 +21,7 @@ Here's the pamphlet of the movie you starred in."
 0000000000000,プロデューサー,……どれも円香は、いい仕事をしてくれた,"...This and a bunch more, you've done a great job in all
 of them."
 0000000000000,プロデューサー,いつもありがとう,Thank you as always.
-2021014010040,円香,……,...
+2021014010040,円香,……,......
 0000000000000,プロデューサー,……はは,...Haha.
 0000000000000,プロデューサー,"ただ、そのなかで感じたことを
 聞かせてほしいだけだよ","Well, I just wish you'd tell me what you felt from
@@ -32,23 +33,23 @@ doing them though."
 どこか、意図があると思っていましたが","...I've had an inkling that the jobs you picked had
 hidden motives."
 2021014010060,円香,"やっぱり
-そういうこと",I knew it. That's how it is.
+そういうこと",That's how it is. I knew it.
 0000000000000,プロデューサー,ああ,Yeah.
 0000000000000,プロデューサー,"俺も今、確信したよ
 円香はやっぱり、この頃","Even now, I'm sure of it."
-0000000000000,プロデューサー,うまく息ができていないんじゃないかって,"That you are having difficulty catching your breath
-recently."
+0000000000000,プロデューサー,うまく息ができていないんじゃないかって,"That you're recently having a hard time catching
+your breath."
 0000000000000,円香,……,...
 0000000000000,プロデューサー,"それで……その原因がアイドルに関わることなら
-俺の手が届くんじゃないかと思ったんだ","And so... I thought that if it had anything to do with
-being an idol, then perhaps it's something within my
-reach to help."
+俺の手が届くんじゃないかと思ったんだ","And so... I thought that if it's caused by anything to
+do with being an idol, then perhaps it's something
+I can help with."
 2021014010080,円香,"だから、私が自分の気持ちと向き合えるように
-仕事を振っていたと","So you assigned me those jobs so that I could face
-my own feelings."
+仕事を振っていたと","Which means, you assigned me those jobs so
+that I could face my own feelings, huh."
 2021014010090,円香,私情もいいところですね,"It's fine mixing in personal feelings, isn't it."
 2021014010100,円香,"……回りくどいし
-いい迷惑","...Doing things so roundabout, you're the worst kind
+いい迷惑","...Being so roundabout, you're the worst kind
 of nuisance."
 0000000000000,プロデューサー,"直接聞いたって
 円香は話してくれないだろう？","If I asked directly, you wouldn't talk to me about it
@@ -71,7 +72,7 @@ being around."
 were to put it in your words,"
 2021014010150,円香,望む空では飛べない,"I can't fly, in the skies I dreamed of."
 2021014010160,円香,"そう
-思い出したから","Yes, because I now recall what it looked like."
+思い出したから",Because I now recall what that looked like.
 0000000000000,off,"俺は見せたかったんだ
 気づいてくれたらと思った","I wanted to show it to you.
 And I thought I could make you notice it"
@@ -96,7 +97,7 @@ that would want to continue, I won't give up!"
 0000000000000,プロデューサー,円香はどうしたい？,"What do you want to do, Madoka?"
 2021014010200,円香,私は────……,I────...
 0000000000000,プロデューサー,"俺はさ
-円香が望むなら、飛ばしてあげたいって思うんだ",I just wanted to let you fly if you had wished to.
+円香が望むなら、飛ばしてあげたいって思うんだ",I just wanted to let you fly. If you wanted to.
 0000000000000,プロデューサー,"飛んでみたら
 自由で心地良い空があるかもしれないじゃないか","I thought that if you had flown, you might find a
 sky that you can be free and be at ease."
@@ -104,7 +105,7 @@ sky that you can be free and be at ease."
 同じとは限らないだろ？","Afterall, the sky you desire might not necessarily be
 the thing you're looking for, right?"
 2021014010210,円香,"ミスター・プラス思考
-あなたはそうかもしれませんが","Mr. Positive Thinking.
+あなたはそうかもしれませんが","Mr. ""Positive Thinking"".
 That might be how you think but realistically,"
 2021014010220,円香,"飛ぶということは
 落ちるかもしれないということ",To fly also means that one might fall.

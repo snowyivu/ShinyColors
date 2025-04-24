@@ -34,7 +34,7 @@ Go and see her!"
 I was just about to go home."
 0000000000000,プロデューサー,！　ああ、それは……すまん\nええと……じゃあ少しだけ──……,"Ah...! I'm... sorry about that.
 It won't take long..."
-6021001090020,円香,ふふっ……,Heh...
+6021001090020,円香,ふふっ……,Heheh...
 6021001090030,円香,涙、ちゃんと拭いてきましたか,"So, have you wiped away your tears yet?"
 0000000000000,プロデューサー,……えっ……,...Eh?
 6021001090040,円香,え？　まさか泣いてくれなかったんですか？,"What? You're not going to tell me you didn't cry, are
@@ -43,15 +43,16 @@ you?"
 6021001090050,円香,あなたの情熱はこういう時こそ活用すべきですよね\n何やってるんですか？,"What on Earth do you think you're doing?
 This was the best possible moment to put that
 passion of yours to some use."
-0000000000000,プロデューサー,な、泣いてないとは……\n……その、恥ずかしいから内緒に……,"W-Well, I didn't say I didn't cry... But... let's keep that between us, it's kind of embarassing..."
+0000000000000,プロデューサー,な、泣いてないとは……\n……その、恥ずかしいから内緒に……,"W-Well, I didn't say I didn't cry... But... Let's keep
+that between us, it's kind of embarassing..."
 6021001090060,円香,驚きです。直球勝負しか能がないあなたに\n恥なんて高等な感情が残っていたとは,"Now that's a surprise. You only ever dive head-first
 into everything, so I didn't think you capable of
 advanced emotions like embarassment."
 0000000000000,プロデューサー,…………一応は…………,"...Well, sort of..."
 6021001090070,円香,で、要件は？,"So, what is it you wanted to talk about?"
 0000000000000,プロデューサー,！　ああ……,Ah... Right...!
-6021001090071,円香＆プロデューサー,『優勝おめでとう！』,Congratulations on winning.
-6021001090080,円香,…………それしかないですよね,...Figured as much.
+6021001090071,円香＆プロデューサー,『優勝おめでとう！』,Congratulations on winning!
+6021001090080,円香,…………それしかないですよね,......Figured as much.
 0000000000000,プロデューサー,まったく……はは、カッコつかないなあ,"Geez... haha, you sure make me look lame."
 6021001090090,円香,……,......
 0000000000000,プロデューサー,……素晴らしいステージだったよ\nまだ心臓がドキドキして、目頭が熱くて……,".....Your performance was brilliant.
@@ -67,7 +68,7 @@ It's all thanks to you."
 6021001090140,円香,嬉しくないわけじゃないんです……,It's not like I'm not happy...
 6021001090150,円香,あからさまに喜ぶのも……\n……ってだけで……その……,"It's just that... shouting it from the rooftops would
 be... you know..."
-6021001090160,円香,これでも……嬉しいんです……だから,"It might not look like it, but I'm happy... so..."
+6021001090160,円香,これでも……嬉しいんです……だから,"It might not look like it, but I am happy... so..."
 6021001090170,円香,あ、ありがとうございます……,T-Thank you...
 0000000000000,プロデューサー,……とんでもない,...Not at all.
 0000000000000,プロデューサー,あのな、円香\n優勝は間違いなく円香自身の実力だ,"Listen, Madoka. You have your own abilities to thank
@@ -82,6 +83,6 @@ your usual self?"
 6021001090210,円香,……それでは、お先に\nまた明日からもよろしくお願いします,"...Well then, I'll be leaving. 
 See you tomorrow."
 6021001090220,円香,…………,......
-6021001090230,円香,………………プロデューサー,...Producer.
+6021001090230,円香,………………プロデューサー,............Producer.
 info,produce_events/602100109.json,
 Translator,,

@@ -1,0 +1,127 @@
+id,name,text,trans
+1008004010010,霧子,"霧ちゃん……
+電気……点けてください……","Kiri-chan......
+Please... turn on the lights......"
+1008004010020,霧ちゃん,うん……,Okay......
+1008004010030,霧子,"わ……
+すごい……","Wow......
+Amazing......!"
+1008004010040,霧子,"それじゃ……
+明日の天気を……教えてください……","Now......
+Please tell me... the forecast for tomorrow......"
+1008004010050,霧ちゃん,"え、と……明日は……
+夜までお天気……傘……いらないみたい……","Umm... tomorrow... It'll be nice out all day... 
+so...... you won't need an umbrella......"
+1008004010060,霧子,"わ……そうなんだね……！
+え、と……","Wow... I see...!
+Umm......"
+0000000000000,プロデューサー,"────へぇ……！
+家庭用のコミュニケーションロボット、ですか","────Wow......!
+A communication robot for home-use?"
+0000000000000,担当プランナー,"ええ、幽谷さんをモデルにしたエージェントです
+会話データなどを採取させていただけないかと思いまして","Yes, it would be a program modeled after Yukoku-san.
+We were hoping we could collect some 
+conversation data and the like."
+1008004010070,霧子,"それじゃ……
+今週やること……教えてください……","Now......
+Please tell me... what I have to do this week...!"
+1008004010080,霧ちゃん,────…………,────…………
+0000000000000,プロデューサー,"それはその……
+幽谷の姿のアンドロイドみたいな────？","Do you mean like......
+A Yukoku-shaped android────?"
+0000000000000,担当プランナー,"ははは、いえいえ！
+そこまでのものはまだまだとても現実には……","Hahaha, no no no! 
+That kind of thing is still far off from reality......"
+0000000000000,担当プランナー,"弊社商品の家庭用AIが、幽谷さんの声や話し方で
+コミュニケーションできるようになる、という企画になります","The proposition is to have our company's 
+home AI products communicate using 
+Yukoku-san's voice and mannerisms. "
+1008004010090,霧子,"────あれ……霧ちゃん……？
+今週やることは……なんですか……？","────Huh... Kiri-chan......?
+What do I... have to do this week......?"
+0000000000000,プロデューサー,"はは、霧子
+もしかしたら、聞き方がちょっと難しいのかもしれない","Haha, Kiriko. 
+The way you're phrasing it might be hard for her."
+0000000000000,プロデューサー,"はぁ……！　この小さな人形が……
+なるほど、動いたりするわけではないんですね","Ahh..! This little doll......
+I see, so it doesn't actually move at all. "
+0000000000000,プロデューサー,"────ええと、霧ちゃん
+今週の霧子の予定を教えてくれ","────Let's see, Kiri-chan.
+Please tell me Kiriko's schedule for this week."
+1008004010100,霧ちゃん,"はい……今週は……木曜16時55分発のフライト……
+金曜７時45分発のフライト……８時10分発の────","Okay... this week... a flight on Thursday departing 
+at 4:55pm... a flight on Friday departing at 7:45am... 
+then, at 8:10am────"
+0000000000000,プロデューサー,"────おっと。霧子の予定、
+チケット手配のデータしか共有してなかったんだな……！","────Whoops. 
+Guess I only shared the ticket data with her......! "
+1008004010101,霧子＆プロデューサー,────はははっ……,────Hahaha......!
+0000000000000,プロデューサー,"でも、それならわざわざ
+幽谷とこのロボットが一緒に生活しなくても────","But, if that's all it is, I don't think it's really 
+necessary to go to the trouble of having the 
+robot live with Yukoku.  "
+0000000000000,プロデューサー,"『はい』『いいえ』『お疲れ様です』みたいなのを
+何百セリフか収録すればよさそうな気もしますけども","It seems like just recording a couple hundred lines like
+""yes"", ""no,"" and ""good afternoon"" would be enough."
+0000000000000,担当プランナー,"ええ、そこなんです。初期段階では、
+決められたセリフだけを使い分ける予定なのですが──","Yes, that's a good point. In the initial stage, 
+we only plan to use predetermined lines──"
+0000000000000,担当プランナー,"次の段階として、相手にあわせて
+なるべく幽谷さんらしい反応を生み出していきたいんです","However, in the next stage, we want to create 
+responses that are tailored to the other person, 
+and as much like Yukoku-san as possible."
+1008004010110,霧子,"……
+わたし……らしい……","......
+Like... me......"
+0000000000000,担当プランナー,"相手の声の調子や単語から喜怒哀楽を推測して、
+幽谷さんに近似した応答を計算し、声を合成します","The system infers the other person's emotions from 
+their words and tone, calculates a response that's 
+similar to Yukoku-san, and synthesizes her voice."
+1008004010111,霧子＆プロデューサー,へぇ……！,Woah......!
+0000000000000,担当プランナー,"そのために、幽谷さんのコミュニケーションのパターンを
+学ばせてほしいんです","For that purpose, I want it to learn Yukoku-san's 
+speech patterns and mannerisms."
+1008004010120,霧子,"……い、いえ……
+学んでもらうなんて……そんな……","......N- No......
+I couldn't ask her... to learn from me......"
+1008004010130,霧子,"……
+プロデューサーさん────","......
+Producer-san────"
+1008004010140,霧子,"でも……霧ちゃん……
+よく頑張りました……","But... Kiri-chan......
+Tried very hard......"
+0000000000000,プロデューサー,"うん。『霧子らしい』かっていうと……
+そういう会話は、まだまだ先のことになるんだろうけどな","Yeah. Her conversational abilities still have a ways 
+to go before I'd say they're ""Kiriko-like"", though."
+1008004010150,霧子,"ふふっ……
+わたし……らしい……","Hehe......
+Like... me......"
+1008004010160,霧子,どんなの……でしょう……,How would that be......?
+0000000000000,プロデューサー,"え？　うーん……
+たとえば────明日晴れるとしてさ","Hm? Well......
+For example, since it'll be sunny tomorrow────"
+0000000000000,プロデューサー,"霧子だったら、傘がいらないってことじゃなくて
+お日さまに会えるってこと、教えてくれるんじゃないか、とか","You wouldn't say that you don't need an umbrella, 
+you'd say ""You'll get to see the sun!""
+or something like that."
+1008004010170,霧子,わ……！,Wow......!
+0000000000000,プロデューサー,"い、いや、すまん……！
+違うかもしれないけど────","A- Ah, sorry...!
+I could be way off there────"
+1008004010180,霧子,"い、いえ……！　そうかもしれないです……
+でも……","N- No...! You might be right......
+But......"
+1008004010190,霧子,"傘、持たなくていいよ……っていうのは……
+きっと……霧ちゃんの優しさ…………","I think that... saying you don't need an umbrella...
+Is Kiri-chan's own... way of showing kindness......"
+0000000000000,プロデューサー,────霧子,────Kiriko.
+0000000000000,プロデューサー,────うん,───Yeah.
+0000000000000,プロデューサー,"いいんじゃないか、霧子
+霧子のいいところをいっぱい見つけてもらおう、この子に","That's good, Kiriko. 
+Let's let her discover all the great things about you. "
+1008004010200,霧子,"霧ちゃん……
+見つけて……くれるの……？","Kiri-chan......
+Have you discovered anything......?"
+1008004010210,霧子,わたしのこと……──────,About me......────
+info,produce_events/100800401.json,
+Translator,laynie,

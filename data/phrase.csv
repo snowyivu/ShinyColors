@@ -2069,7 +2069,7 @@ shop.battlePassport.missionRewardPop.day,%{day}日目,For day %{day}
 shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,Free Feather Jewels
 topicPath.produce.knowHowBookSelect,ノウハウブック選択,Know-How Book
 training.expireDate,使用期限 %{expireDate}まで,Expires %{expireDate}
-producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You'll receive %{rewardNum} reward(s)
+producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,You've received %{rewardNum} reward(s)
 producerDesk.releaseCondition.title,解放条件,Unlock Condition
 producerDesk.releaseCondition.wingMission,初心者ミッションをクリアする必要があります,You must clear the Beginner Missions
 producerDesk.releaseCondition.trueEndMission,W.I.N.G.攻略ミッションをクリアする必要があります,You must clear the W.I.N.G. Missions
@@ -2703,7 +2703,7 @@ unitName.81,283プロ,283Pro
 idolList.emptyRewardFesIdolMessage,獲得しているフェスアイドルがいません,No Fes Idols acquired.
 option.homeContent.title.idolPrank2024,アイドルからのイタズラ【異世界ささやき(バイノーラル風)】,Tricks from the Idols [Otherworldly Whispers (Binaural)]
 option.homeContent.itemName.joke2024,2024ハロウィンのおかし,2024 Halloween Sweets
-idolList.infoSwitch.6th_produce_area,"デフォルト(say ""Halo""用)","デフォルト(say ""Halo""用)"
+idolList.infoSwitch.6th_produce_area,"デフォルト(say ""Halo""用)","Default (say ""Halo"")"
 idolList.emptyMessages.fightSkill,所持しているアイドルがいません,所持しているアイドルがいません
 idolList.emptyMessages.foilBook,使用可能なアイドルがいません,使用可能なアイドルがいません
 idolList.sale.selectedFesIdolCount,選択アイドル数,選択アイドル数
@@ -2721,15 +2721,15 @@ common.memorialItem,記念アイテム,Memento Item
 common.rankingValue,%{value}位,%{value} Rk
 common.foilGashaMedal,フォイルガシャメダル,Foil Gacha Medal
 common.almightyFoil,フォイル化アイテム,Foil Item
-common.fesHonorIdolNickNameWord,キャッチコピー,キャッチコピー
+common.fesHonorIdolNickNameWord,キャッチコピー,Catchphrase
 common.fesHonorProducerComment,プロデューサーコメント,Producer Comment
 common.linkSkillName,リンクアピール,Link Appeal
 commonMenu.accountUncreated.title,アカウント削除,アカウント削除
 commonMenu.accountUncreated.text,アカウントが作成されていません,No account has been created.
-deck.deckNameEdit.dialog.target,ユニット名,ユニット名
-deck.knowHowBookPresetNameEdit.defaultName,プリセット%{presetNum},プリセット%{presetNum}
-deck.knowHowBookPresetNameEdit.dialog.title,プリセット名変更,プリセット名変更
-deck.knowHowBookPresetNameEdit.dialog.target,プリセット名,プリセット名
+deck.deckNameEdit.dialog.target,ユニット名,Unit Name
+deck.knowHowBookPresetNameEdit.defaultName,プリセット%{presetNum},Unit %{presetNum}
+deck.knowHowBookPresetNameEdit.dialog.title,プリセット名変更,Rename Preset
+deck.knowHowBookPresetNameEdit.dialog.target,プリセット名,Preset Name
 deck.knowHowBookPresetNameEdit.dialog.description,プリセット%{presetNum}の名前を変更できます,プリセット%{presetNum}の名前を変更できます
 deck.positionInvalid,編成不可,編成不可
 deck.knowHowBookPreset.listPop.title,ノウハウブックプリセット,ノウハウブックプリセット
@@ -2746,30 +2746,30 @@ deck.knowHowBookHistory.emptyNotice,ノウハウブックの履歴がありま�
 deck.knowHowBookHistory.knowHowBookUnselectedNotice,ノウハウブックを選択すると\n詳細が確認できます,ノウハウブックを選択すると\n詳細が確認できます
 ending.checkSkillChangesRemainPop.title,フェスアイドル誕生確認,フェスアイドル誕生確認
 ending.checkSkillChangesRemainPop.comment,スキルが変更可能です\n\nスキルを変更せずに\nフェスアイドルを誕生させますか?,スキルが変更可能です\n\nスキルを変更せずに\nフェスアイドルを誕生させますか?
-ending.skillChangePop.title,スキル変更,スキル変更
+ending.skillChangePop.title,スキル変更,Change Skill
 ending.skillChangePop.changedSuccessComment,スキル変更しました,スキル変更しました
 ending.skillChangePop.changedComment,スキル変更済みです,スキル変更済みです
 errorDialog.screenshot.title,撮影失敗,撮影失敗
 errorDialog.screenshot.text,撮影、または保存に失敗しました,撮影、または保存に失敗しました
-eventPoint.characterQuestionAndAnswer.50042,ローズpt,ローズpt
-exchangeItem.specialFesConcertTicket.original,フェスチケット,フェスチケット
-exchangeItem.specialFesConcertTicket.simple,チケット,チケット
+eventPoint.characterQuestionAndAnswer.50042,ローズpt,Rose Pt
+exchangeItem.specialFesConcertTicket.original,フェスチケット,Fes Ticket
+exchangeItem.specialFesConcertTicket.simple,チケット,Ticket
 exchangeItem.deleteIndividuality.original,ノウハウブック編集アイテム,ノウハウブック編集アイテム
 exchangeItem.deleteIndividuality.simple,ノウハウブック編集アイテム,ノウハウブック編集アイテム
 exchangeItem.redrawIndividuality.original,ノウハウブック編集アイテム,ノウハウブック編集アイテム
 exchangeItem.redrawIndividuality.simple,ノウハウブック編集アイテム,ノウハウブック編集アイテム
 evolution.parallelIdolLetterRelease.comment,アイドルからの手紙\n[%{idolName}]が\n解放されました,アイドルからの手紙\n[%{idolName}]が\n解放されました
 evolution.parallelIdolLetterVoiceRelease.comment,アイドルからの手紙(ボイス)\n[%{idolName}]が\n解放されました,アイドルからの手紙(ボイス)\n[%{idolName}]が\n解放されました
-evolution.reward.getIllustRelease,・特別イラスト,・特別イラスト
-twitter.illustrationSelectDialog.illustrationType.supportIdol,通常イラスト,通常イラスト
-twitter.illustrationSelectDialog.illustrationType.illustRelease,特別イラスト,特別イラスト
+evolution.reward.getIllustRelease,・特別イラスト,・Special Illustration
+twitter.illustrationSelectDialog.illustrationType.supportIdol,通常イラスト,Normal Illustration
+twitter.illustrationSelectDialog.illustrationType.illustRelease,特別イラスト,Special Illustration
 individualRanking.breakTimePop.period,%{openTime}　〜　%{closeTime},%{openTime}　〜　%{closeTime}
 individualRanking.changeBreakTimePop.period,%{openTime}　〜　%{closeTime},%{openTime}　〜　%{closeTime}
 producerDesk.producerLevel.exp,%{exp}Exp,%{exp}Exp
 producerDesk.producerLevel.expRange,%{min} 〜 %{max}Exp,%{min} 〜 %{max}Exp
 producerDesk.releaseCondition.halo,"say ""Halo""を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります","say ""Halo""を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります"
 autoPlay.releasedRequirementDescription.6th_produce_area,"『say ""Halo""』編でフェスアイドルを誕生させる","『say ""Halo""』編でフェスアイドルを誕生させる"
-daifugo.cardEffect.five_skip,5スキップ,5スキップ
+daifugo.cardEffect.five_skip,5スキップ,5 Skip
 daifugo.cardEffect.seven_give,7渡し,7渡し
 daifugo.cardEffect.fall_from_great_rich_man,都落ち,都落ち
 daifugo.cardEffect.rise_from_great_poor_man,下剋上,下剋上
