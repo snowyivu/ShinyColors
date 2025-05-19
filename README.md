@@ -19,8 +19,7 @@ Once you have the patch set up, it will grab future updates automatically.  The 
 
 ## Installing on Desktop
 1. It's recommended to run this patch on Firefox
-2a. First install the [Tampermonkey](https://tampermonkey.net/) extension
-2b. If Tampermonkey fails, please try [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en) instead.
+2. First install the [Tampermonkey](https://tampermonkey.net/) extension. If Tampermonkey fails, please try [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en) instead.
 3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，Tamper- or Violentmonkey should prompt you to install it.
 4. Refresh game page and the patch should work automatically!
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files. PLEASE MAKE SURE TO BIND YOUR ACCOUNT TO AN ENZA/BANDAI NAMCO ACCOUNT AS CLEARING CACHE AND COOKIES **WILL** DELETE YOUR ACCOUNT!)
@@ -31,12 +30,11 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 
 ## Installing on Android
 1. For mobile，you'll need a browser that supports scripts.  Browsers such as [Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/), [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US).
-2. Return to this page on your new browser
-3. If Tampermonkey fails, please try [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en) instead.
-4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，Tamper- or Violentmonkey should prompt you to install it.
-5. Refresh the game page [(Link Here)](https://shinycolors.enza.fun/) and the patch should work automatically.
+2. Return to this page on your new browser. If Tampermonkey fails, please try [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en) instead.
+3. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，Tamper- or Violentmonkey should prompt you to install it.
+4. Refresh the game page [(Link Here)](https://shinycolors.enza.fun/) and the patch should work automatically.
 (If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files. PLEASE MAKE SURE TO BIND YOUR ACCOUNT TO AN ENZA/BANDAI NAMCO ACCOUNT AS CLEARING CACHE AND COOKIES **WILL** DELETE YOUR ACCOUNT!)
-6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
+5. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
 
 ## Installing on iOS
