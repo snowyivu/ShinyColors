@@ -63,6 +63,10 @@ Pabs made a short tutorial video for updating the patch on iOS:
 
 https://streamable.com/aqlbt6
 
+## Binding your Account to LINE or Bandai Namco
+
+Please follow [this guide](https://shinycolors.wiki/wiki/Account_Binding_Guide) (external link) on how to bind your account! 
+
 ## Settings and options
 **Machine translation**
 
