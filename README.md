@@ -23,8 +23,7 @@ Once you have the patch set up, it will grab future updates automatically.  The 
 2b. If Tampermonkey fails, please try [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en) instead.
 3. After installing the extension，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，Tamper- or Violentmonkey should prompt you to install it.
 4. Refresh game page and the patch should work automatically!
-(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files.)
-(PLEASE MAKE SURE TO BIND YOUR ACCOUNT TO AN ENZA/BANDAI NAMCO ACCOUNT AS CLEARING CACHE AND COOKIES **WILL** DELETE YOUR ACCOUNT!)
+(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files. PLEASE MAKE SURE TO BIND YOUR ACCOUNT TO AN ENZA/BANDAI NAMCO ACCOUNT AS CLEARING CACHE AND COOKIES **WILL** DELETE YOUR ACCOUNT!)
 
 Game Address：[Direct Link](https://shinycolors.enza.fun/)
 
@@ -36,9 +35,8 @@ Recruit-a-friend for biuuu (the original Chinese dev!): [Recruit Link](https://g
 3. If Tampermonkey fails, please try [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en) instead.
 4. After installing the extensions，download the script: https://github.com/snowyivu/ShinyColors/raw/gh-pages/ShinyColors.user.js ，Tamper- or Violentmonkey should prompt you to install it.
 5. Refresh the game page [(Link Here)](https://shinycolors.enza.fun/) and the patch should work automatically.
-(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files.)
-(PLEASE MAKE SURE TO BIND YOUR ACCOUNT TO AN ENZA/BANDAI NAMCO ACCOUNT AS CLEARING CACHE AND COOKIES **WILL** DELETE YOUR ACCOUNT!)
-7. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
+(If you have played before, you may need to clear your browser's cache and cookies to remove existing Japanese files. PLEASE MAKE SURE TO BIND YOUR ACCOUNT TO AN ENZA/BANDAI NAMCO ACCOUNT AS CLEARING CACHE AND COOKIES **WILL** DELETE YOUR ACCOUNT!)
+6. It's recommended to add a shortcut to your home menu so that the game plays fullscreen like a native application:
 <img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial1.jpg" alt="Click the ..." width="30%"><img src="https://github.com/snowyivu/ShinyColors/blob/master/image/MobileInstallTutorial2.jpg" alt="Click Add to Home Screen" width="30%" align="right">
 
 ## Installing on iOS
