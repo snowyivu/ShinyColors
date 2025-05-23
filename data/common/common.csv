@@ -482,24 +482,29 @@ Center適正 ◎,Center Qualification ◎
 注目度が10％UP,Attention Rate 10％UP
 ひかえめ,Low-Key
 注目度が3％DOWN,Attention Rate 3％DOWN
+Vocal上限＋10,Vocal Cap +10
 Vocal上限＋,Vocal Limit+
 Vocalの上限値＋50,Vocal Cap +50
 Vocal上限＋＋,Vocal Limit++
 Vocalの上限値＋75,Vocal Cap +75
 Vocal上限＋＋＋,Vocal Limit+++
 Vocalの上限値＋100,Vocal Cap +100
+Dance上限＋10,Dance Cap +10
 Dance上限＋,Dance Limit+
 Danceの上限値＋50,Dance Cap +50
 Dance上限＋＋,Dance Limit++
 Danceの上限値＋75,Dance Cap +75
 Dance上限＋＋＋,Dance Limit+++
 Danceの上限値＋100,Dance Cap +100
+Visual上限＋10,Visual Cap +10
 Visual上限＋,Visual Limit+
 Visualの上限値＋50,Visual Cap +50
 Visual上限＋＋,Visual Limit++
 Visualの上限値＋75,Visual Cap +75
 Visual上限＋＋＋,Visual Limit+++
 Visualの上限値＋100,Visual Cap +100
+メンタル＋10,Mental +10
+メンタル上限＋10,Mental Cap +10
 メンタル上限＋,Mental Limit+
 メンタルの上限値＋50,Mental Cap +50
 メンタル上限＋＋,Mental Limit++
@@ -524,9 +529,10 @@ Visualの上限値＋100,Visual Cap +100
 スペシャリスト（ボーカル）,Specialist (Vocal)
 スペシャリスト（ダンス）,Specialist (Dance)
 スペシャリスト（ビジュアル）,Specialist (Visual)
+タフネス,Toughness
 メンタル回復量＋,Mental Recovery+
 メンタル回復量5%UP,Increases Mental Recovery by 5%
-メンタル回復量-,Mental Recovery-
+メンタル回復量ー,Mental Recovery-
 メンタル回復量5%DOWN,Decreases Mental Recovery by 5%
 アピールUP（思い出高）,Appeal UP (High Memory)
 アピール値2~10％UP[思い出ゲージが多いほど効果UP],Appeal Strength 2~10％ UP [Higher at higher Memory Gauge]
@@ -631,6 +637,13 @@ Visualの上限値＋100,Visual Cap +100
 ファン感謝祭クリア,Fan Fest Clear
 ファン感謝祭クリア＋,Fan Fest Clear+
 ファン感謝祭クリア＋＋,Fan Fest Clear++
+テンション＋10,Tension +10
+親愛度＋10,Affection +10
+歌唱力のはばたき,Fluttering of Vocals
+安定感のきらめき,Sparkle of Stability
+表現力のひろがり,Expanse of Expression
+大いなる一歩,One Big Step
+チーム結成！（櫻木 真乃）,Team Formation (Mano)
 総合能力強化練習,Comprehensive Training
 歌唱力強化\n練習,Vocal\nTraining
 歌唱力強化\n練習＋,Vocal\nTraining+
@@ -666,7 +679,7 @@ Visualの上限値＋100,Visual Cap +100
 ファーストライブ～Center～,First Live ~Center~
 ファイナルライブ～Center～,Final Live ~Center~
 ファイナルライブ～Center＋～,Final Live ~Center+~
-歌姫,Utahime
+歌姫,Songstress
 プロダンサー,Pro Dancer
 トップモデル,Top Model
 リーダーシップ,Leadership
