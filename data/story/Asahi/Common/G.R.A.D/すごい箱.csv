@@ -1,7 +1,7 @@
 id,name,text,trans
 1017003010010,あさひ,…………,......
 1017003010020,あさひ,……？,......?
-1017003010030,あさひ,…………っ,…………
+1017003010030,あさひ,…………っ,............
 1017003010040,あさひ,なんだろう、あれ…………,What's that...?
 1017003010050,あさひ,"────
 かっこいい………………！",──── It's so cool...!
@@ -25,7 +25,7 @@ id,name,text,trans
 その──","A, ah... Sorry about that. About──"
 0000000000000,プロデューサー,『G.R.A.D.』さ、予選もあるだろ？,"G.R.A.D.' - there's a preliminary round, right?"
 1017003010110,あさひ,"……？
-はいっす",……? Yeah!
+はいっす",......? Yeah!
 0000000000000,プロデューサー,"いや、わかってくれてたら大丈夫なんだけど
 そっちに向けて、気持ちも準備していってもらいたくて","No, if you understand that, it's fine, but I want you to be mentally prepared for it as well."
 1017003010120,あさひ,"──？
@@ -47,34 +47,34 @@ id,name,text,trans
 ……時間とっちゃって、悪いな",See you tomorrow... Sorry for taking up your time.
 1017003010160,あさひ,"はいっす！
 また明日っす！",Got it! See you tomorrow!
-0000000000000,プロデューサー,────…………,────…………
+0000000000000,プロデューサー,────…………,────............
 0000000000000,プロデューサー,なんて言えばいいんだろうなぁ……,"I don't know what to say... "
-1017003010170,あさひ,わっせっ、わっせっ……！,"Whoa, whoa……! "
+1017003010170,あさひ,わっせっ、わっせっ……！,"Whoa, whoa......! "
 0000000000000,プロデューサー,"まぁ……結局は
-ちゃんと練習してるかどうかってことではあるけど────","Well……ultimately,
+ちゃんと練習してるかどうかってことではあるけど────","Well......ultimately,
 it's about whether you're practicing properly or not────"
 1017003010180,あさひ,"……わっせっ…………わっせっ
-どこにいるかな～～！","……Whoa……whoa
-Where could it be~~~!"
-0000000000000,プロデューサー,…………,…………
+どこにいるかな～～！","......Whoa......whoa
+Where could it be～～～!"
+0000000000000,プロデューサー,…………,............
 0000000000000,プロデューサー,"────っていうか、あさひ
 バイクがなんとかって言ってたか……！？","────By the way, Asahi,
-you mentioned something about a bike……!?"""
+you mentioned something about a bike......!?"""
 0000000000000,プロデューサー,何か危ないこと────,Is he doing something dangerous────
-0000000000000,プロデューサー,……っ,……
+0000000000000,プロデューサー,……っ,......
 1017003010190,あさひ,あーっ！　いたーっ！,Ahh! I found it!
 1017003010200,あさひ,"おーい！　おーーい……！
-待ってほしいっす……！","Hey! Hey……!
-Wait for me……!"
+待ってほしいっす……！","Hey! Hey......!
+Wait for me......!"
 0000000000000,プロデューサー,"……っ……はぁっ…………
 もう……いないか…………！","...Hah...
-He's... already gone……!"
+He's... already gone......!"
 0000000000000,プロデューサー,"あさひ……
-さすが速いよ…………","Asahi…
+さすが速いよ…………","Asahi...
 You're really fast..."
 0000000000000,プロデューサー,"──『電話気付いたら連絡してほしい
 くれぐれも、危ないことはしないように』……","──If you notice anything, call me.
-And be careful not to do anything dangerous……"
-0000000000000,プロデューサー,はぁ……────,Hah……────
+And be careful not to do anything dangerous......"
+0000000000000,プロデューサー,はぁ……────,Hah......────
 info,produce_events/101700301.json,
 Translator,Dee,

@@ -1,0 +1,17 @@
+id,name,text,trans
+202000100390010,透,"ねぇ、休みの希望って
+出しても平気？","Hey, would it be okay to say
+that I'd like off in two weeks?"
+202000100390020,透,"スケジュールが大丈夫そうだったら
+二週間後休めないかな","If the schedule looks fine,
+then I was wondering if I could."
+select,,いいよ,Sure.
+select,,ごめん,Sorry.
+202000100990010,透,"あ、いいの？
+ふふっ、ありがと","Oh, really?
+Heheh, thanks."
+202000100990020,透,"あ、うん。わかってたよ
+……ごめんね、急に","Ah, okay. Got it.
+...Sorry for asking out of nowhere."
+info,produce_communications_promises/20200010039.json,
+Translator,,

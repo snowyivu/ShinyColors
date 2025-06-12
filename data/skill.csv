@@ -142,12 +142,12 @@ Viレッスン,Vi Lesson,noun
 ビジュアルアピール,Visual Appeal,noun
 メンタルキュア,Mental Cure,noun
 エクセレントアピール,Excellent Appeal,noun
-ごくごく稀,Extremely Extremely Rare,other
-ごく稀,Extremely Rare,other
+ごくごく稀,Extremely Rare,other
+ごく稀,Very Rare,other
 リンクアピール,Link Appeal,text
 メンタルダメージCUT,Mental Damage CUT,text
-特定のアイドルイベントで解放,Unlocked by certain idol events,text
-特定のサポートイベントで解放,Unlocked by certain support events,text
+特定のアイドルイベントで解放,Unlocked by certain Idol events,text
+特定のサポートイベントで解放,Unlocked by certain Support events,text
 体力回復,Stam Heal,text
 体力が中回復,Stam Med Heal,text
 テンションが中UP,Tension Med UP,text
@@ -281,9 +281,9 @@ $nounVII,$1 VII,
 最終ポイント値％UP,Final Point Value %UP,Fight Skill
 "発動タームでの最終ポイント値＋($num,$num,$num)％","Final points in the term have ($1,$2,$3)% increased value",Fight Skill
 最終アピール値％UP,Final Appeal Value %UP,Fight Skill
-"発動タームでの最終アピール値＋($num,$num,$num)％","Final appeal in the term has  ($1,$2,$3)% increased value",Fight Skill
+"発動タームでの最終アピール値＋($num,$num,$num)％","Final Appeal in the term has ($1,$2,$3)% increased value",Fight Skill
 PERFECT確率％UP,Perfect Rate % UP,Fight Skill
-"発動タームでのライブスキルのPERFECT確率を＋($num,$num,$num)％","Live skill PERFECT rate in the term ($1,$2,$3)% UP",Fight Skill
+"発動タームでのライブスキルのPERFECT確率を＋($num,$num,$num)％","Live Skill PERFECT rate in the term ($1,$2,$3)% UP",Fight Skill
 メンタルの減少量％CUT,Mental Damage Received % CUT,Fight Skill
 " 発動タームでのメンタルの減少量を($num,$num,$num)％CUT","Cut mental damage in the term by ($1,$2,$3)%",Fight Skill
 メンタル％回復,Mental % Recovery,Fight Skill
@@ -1267,7 +1267,7 @@ OT♡NAメイクヘンシン☆,OT♡NAメイクヘンシン☆,text
 アイ・セーブ・ユー,I Save You,text
 楽園に背く,Defying Paradise,text
 余白のページ,Blank Page,text
-未来への憧れ,Hopes for the Future,text
+未来への憧れ,Aspirations for the Future,text
 化けストロメリア,Ghostroemeria,text
 彩りファッションドール,Colorful Fashion Doll,text
 身支度はお任せ☆,Leave the Dressing to Me☆,text

@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──お疲れ、霧子！
+よく頑張ってたぞ！","──Good work, Kiriko!
+You did your best!"
+6008003030010,霧子,"……は、はい……！
+でも────","...T-Thank you...!
+But..."
+6008003030020,霧子,すみません…………,Sorry...
+0000000000000,プロデューサー,"何言ってるんだ、勝負には運だってあるし
+それに敗者復活戦も待ってる","Don't apologize, luck plays a part in any competition.
+Besides, there's the repechage still waiting ahead."
+0000000000000,プロデューサー,"霧子が霧子のこと
+頑張れてるかどうかが大事なんだ","What matters is whether or not you're giving it
+your all for the things you need to do, Kiriko."
+6008003030030,霧子,"……っ
+は、はい……！","......
+R-Right...!"
+0000000000000,プロデューサー,"…………
+霧子……？","......
+Kiriko...?"
+6008003030040,霧子,"が、頑張らなきゃ……
+わたしのこと……","I, have to do my best...
+At my own thing..."
+6008003030050,霧子,──着替えてきます……！,─I'll go change...!
+0000000000000,プロデューサー,"お、おう……！
+ゆっくりでいいぞ────","S-Sure...!
+Take your time────"
+0000000000000,プロデューサー,"（……霧子
+──話せてないこと……あるよな）","(...Kiriko.
+──There's probably something... you haven't been 
+able to tell me yet.)"
+info,produce_events/600800303.json,
+Translator,Rinka,

@@ -1994,7 +1994,7 @@ fesTower.reset.acquirementPop.lockedDesc,未解放,Locked
 idolList.emptyKnowHowBookMessage,所持しているノウハウブックがありません,No owned Know-How books
 idolList.leaveEditModeDialog.sale,売却,Sale
 idolList.infoSwitch.5th_produce_area,デフォルト(S.T.E.P.用),Default(S.T.E.P. Run)
-idolList.sale.selectedKnowHowCount,選択ノウハウブック数,Select Know-How Book Count
+idolList.sale.selectedKnowHowCount,選択ノウハウブック数,Selected Books
 idolList.sale.saleAfterMoney,売却後マニー,Resulting Money
 idolList.sale.saleAfterComment,ノウハウブック売却により,From selling Know-How Books
 idolList.sale.saleAfterDialogTitle,売却結果,Sale Result
@@ -2043,11 +2043,11 @@ produceEvents.eventsDialogTitle,発生イベントコミュ,
 growthPoints.vocalGrowthPoint,歌唱力,Vocal
 growthPoints.danceGrowthPoint,安定感,Stability
 growthPoints.visualGrowthPoint,表現力,Expressiveness
-growthPoints.mentalGrowthPoint,集中力,Cooperation
+growthPoints.mentalGrowthPoint,集中力,Focus
 growthPoints.skillGrowthPoint,団結力,Unity
 growthConfirm.title,成長確認,Confirm Develop
-growthConfirm.noticeLive,ライブスキルを習得する場合、選択したライブスキルは必ず入れ替える必要があります,"When acquiring a Live Skill, the selected Live Skill must always be replaced"
-growthConfirm.noticeStatus,基礎能力の上昇時、能力が上限に達していた場合、超えた分は破棄されます,"When base ability is increased, excess will be lost if the base ability cap is reached"
+growthConfirm.noticeLive,ライブスキルを習得する場合、選択したライブスキルは必ず入れ替える必要があります,"When learning a new Live Skill, you must replace an old Live Skill with it."
+growthConfirm.noticeStatus,基礎能力の上昇時、能力が上限に達していた場合、超えた分は破棄されます,"When increasing base stats, any excess will be lost if the cap has been reached."
 growthTab.status,ステータス,Status
 growthTab.skill,スキル,Skill
 growthTab.ability,アビリティ,Ability
@@ -2058,7 +2058,7 @@ growthLeaveConfirmDialog.title,確認,Confirm
 growthLeaveConfirmDialog.text,まだ習得は確定していません\n選択状態を解除して移動しますか？,It hasn't been learned yet.\nDo you want to deselect and transfer?
 shop.smallTabTitles.idolPiece.star,星,Star
 shop.battlePassport.privilegeSelectPop.title,購入特典選択,Purchase Bonus Choice
-shop.battlePassport.privilegeSelectPop.notice,購入特典は購入30日後までの使用期限付きです\n期限内に使用しなかった場合、アイテムは失われます,"Purchase Bonus must be used within 30 days. If the\nbonus is not used, the item will expire."
+shop.battlePassport.privilegeSelectPop.notice,購入特典は購入30日後までの使用期限付きです\n期限内に使用しなかった場合、アイテムは失われます,"Purchase Bonus must be used within 30 days.\n If not used, the item will expire."
 shop.battlePassport.privilegeSelectPop.description,シャイニーパス購入特典として\n受け取るアイテムをどちらか選択してください,Please select the item you wish to receive\nfrom purchasing the Shiny Pass
 shop.battlePassport.privilegeSelectPop.privileges.item1,使用期限付き\nSSR特訓はづきさん\n（プロデュース）,Time-Limited Use\nSSR Evolution Hazuki-san\n(Produce)
 shop.battlePassport.privilegeSelectPop.privileges.item2,使用期限付き\nSSR特訓はづきさん\n（サポート）,Time-Limited Use\nSSR Evolution Hazuki-san\n(Support)
@@ -2121,8 +2121,8 @@ possessionLimitExpansion.confirmMessage.fesIdolUpperLimit,フェザージュエ�
 possessionLimitExpansion.confirmMessage.knowHowBookUpperLimit,フェザージュエルを消費して\nノウハウブックの所持上限を解放しますか？,Use Feather Jewels to\nunlock more Know-How Book slots?
 possessionLimitExpansion.jewelDetailMessage,%{itemName}の所持上限枠の解放にはレートが存在し、\n解放した数に応じて解放1回に必要なジュエル数が異なります\n解放1回毎に所持上限数は50増加します,There's a rate for unlocking more %{itemName} slots.\nThe cost of unlocking more depends on the amount unlocked.\nEach unlock will increase the amount of slots by 50.
 deck.staminaRate,%{rate}倍,%{rate}x
-eventPoint.jointFes,マッチライブP,Match Live Pt
-eventPoint.training,育成P,Train Pt
+eventPoint.jointFes,マッチライブP,Match Live Pts
+eventPoint.training,育成P,Train Pts
 evolution.homeUnitMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMVが設定可能になりました,You can now set the MV for\n[%{musicName}]\nin your Home Unit's MV Mode!
 evolution.homeUnitFullMvRelease.comment,ホームユニットMVモードで\n[%{musicName}]の\nMV(アナザーVer.)が設定可能になりました,You can now set the MV (Another ver.) for\n[%{musicName}]\nin your Home Unit's MV Mode!
 evolution.fullMvRelease.comment,[%{musicName}]の\nMV(アナザーVer.)が解放されました,[%{musicName}] MV (Another ver.) Unlocked
@@ -2242,7 +2242,7 @@ musicSelect.mvSettingDialog.title,詳細設定,Detailed Settings
 musicSelect.mvSettingDialog.message,楽曲かMVを設定してください,Select a song or MV
 musicSelect.mvReleaseAttention,アナザーverは特訓4回目で解放されます,Another ver. will be unlocked after the card's 4th Evolve.
 photoMotionDialog.title,ポーズ指定,Select Pose
-photoMotionDialog.message,アイドルに呼びかけてポーズを取ってもらうことができます,アイドルに呼びかけてポーズを取ってもらうことができます
+photoMotionDialog.message,アイドルに呼びかけてポーズを取ってもらうことができます,Call out to your Idols and have them pose.
 photoBootFailDialog.title,カメラの許可,Camera Permission
 filterPop.filter.individualityExpressionRateUp,発現確率,
 filterPop.filter.individualityDefiniteExpression,ノウハウ,Know-How
@@ -2277,7 +2277,7 @@ seasonalPresentPop.message,アイドルからの年賀状が届いています,R
 unitName.8,コメティック,CoMETIK
 unitName.91,B小町,B Komachi
 unitName.92,劇団ララバイ,Lalalai Theatrical Company
-filter.bulkSelectTitle,一括選択,Bulk Select
+filter.bulkSelectTitle,一括選択,Select All
 filter.subTitle.individualityDetail,絞り込みノウハウ選択,Narrow down Know-How selection.
 filter.categories.mvIdol,MV,MV
 filter.categories.knowHowLevelCount,ノウハウレベル,Know-How Level
@@ -2289,7 +2289,7 @@ filter.categories.fesMatchHonor,種類,Type
 filter.categories.fesIdolRank,アイドルランク,Idol Rank
 filter.categories.memoryAppealLevel,思い出レベル,Memory Level
 filter.categories.statusRank,ステータスランク,Status Rank
-letterFromIdol.title,アイドルからの手紙,Letter from the Idol
+letterFromIdol.title,アイドルからの手紙,Letter from Idol
 letterFromIdol.staffComment,みなさんから頂いた手紙を読んでみましょう〜,Let's read the letters we received from everyone〜
 letterFromIdol.voiceLockMessage,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます,"If you evolve the idol to 4★,\nthe idol will read the letter out loud."
 letterFromIdol.getDateLetterReceivedFormat,yyyy/mm/dd,yyyy/mm/dd
@@ -2394,10 +2394,10 @@ autoPlay.skipLimitPop.title,スキップ制限,Skip Limit
 autoPlay.skipLimitPop.comment,本日はこれ以上\nスキップチケットを使用できません,Can't use more\nSkip Tickets today.
 autoPlay.skipLimitPop.notice1,スキップチケットは1日%{availableCount}回までしか使用できません,Skip Tickets can only be used %{availableCount} per day.
 autoPlay.skipLimitPop.notice2,使用回数は毎朝5時にリセットされます,The amount of times is reset every day at 05:00 JST.
-survey.questionOrder,設問 %{order},設問 %{order}
+survey.questionOrder,設問 %{order},Question %{order}
 survey.confirmTitle,アンケート回答確認,アンケート回答確認
-survey.answerNoticeOnce,回答は一度しかできません,回答は一度しかできません
-survey.answerNoticeDaily,回答は1日1度しかできません,回答は1日1度しかできません
+survey.answerNoticeOnce,回答は一度しかできません,You can only respond once.
+survey.answerNoticeDaily,回答は1日1度しかできません,You can only respond once a day.
 survey.answeredTitle,回答完了,Survey Complete
 survey.answeredMessage,アンケートに回答しました,The survey has been completed.
 survey.aggregatingMessage,集計中です,集計中です
@@ -2464,7 +2464,7 @@ limitedFesUserLogPop.emptyNotice,プレイ履歴がありません,No Play Histo
 limitedFesPhaseResultPop.title,各フェーズ結果,Phase Results
 unusedIdolFoilPop.title,未適用フォイル,Unapplied Foil
 unusedIdolFoilPop.notice1,アイドルより先に獲得したフォイルの一覧です,A list of obtained Foil(s) before obtaining Idol card(s).
-unusedIdolFoilPop.notice2,該当のアイドルが加入することでフォイル化することができます,"If corresponding Idol is obtained, the Foil may be applied."
+unusedIdolFoilPop.notice2,該当のアイドルが加入することでフォイル化することができます,"If corresponding Idol is obtained, the Foil can be applied."
 unusedIdolFoilPop.emptyNotice,該当のアイドルのフォイルはありません,There are no Foils for this Idol.
 convertedFoilPop.title,フォイル変換,Converted Foil
 convertedFoilPop.notice,未加入アイドルのフォイルは未適用フォイルに保存されます,Foils of Unobtained idols will be saved in Unapplied Foils.
@@ -2505,8 +2505,8 @@ daifugo.retireConfirmPopup.message,ゲームを破棄しますか？,Would you l
 daifugo.cardEffect.straight,階段,Straight
 daifugo.cardEffect.revolution,革命,Revolution
 daifugo.cardEffect.same_suit,マークしばり,マークしばり
-daifugo.cardEffect.eight_flow,8切り,8切り
-daifugo.cardEffect.eleven_back,11バック,11バック
+daifugo.cardEffect.eight_flow,8切り,8 Flow
+daifugo.cardEffect.eleven_back,11バック,11 Back
 daifugo.cardEffect.spade_three_return,スペ3返し,スペ3返し
 daifugo.cardEffect.forbidden_finish,禁止あがり,禁止あがり
 daifugo.exchangeCards.choiceMessage,%{role}に渡すカードを%{num}枚選択してください,%{role}に渡すカードを%{num}枚選択してください
@@ -2603,7 +2603,7 @@ homeDeck.randomSetting.bgTypes.values.music,BGM,BGM
 homeDeck.randomSetting.characterIds.label,アイドル,Idol
 ban.title,利用制限,Account Restrictions
 ban.message,お客様のアカウントにおいて不正な情報あるいは\n運営都合による問題が発生したため\n一時的に利用を制限しています,Your account has been temporarily restricted\ndue to unauthorised information\nor problems with said account.
-mypageCommunication.unknownCharacterName,？？？,？？？
+mypageCommunication.unknownCharacterName,？？？,Unknown
 exSkill.exSkillChangeSelectPop.title,確認,Confirm
 exSkill.exSkillChangeSelectPop.message,このExスキルは他のアイドルに設定済みです\nExスキルをはずすアイドルを選択してください,This Ex Skill is already used by another Idol.\nPlease select an Idol to take Ex Skill from.
 exSkill.exSkillChangeConfirmPop.title,確認,Confirm
@@ -2704,14 +2704,14 @@ idolList.emptyRewardFesIdolMessage,獲得しているフェスアイドルがい
 option.homeContent.title.idolPrank2024,アイドルからのイタズラ【異世界ささやき(バイノーラル風)】,Tricks from the Idols [Otherworldly Whispers (Binaural)]
 option.homeContent.itemName.joke2024,2024ハロウィンのおかし,2024 Halloween Sweets
 idolList.infoSwitch.6th_produce_area,"デフォルト(say ""Halo""用)","Default (say ""Halo"")"
-idolList.emptyMessages.fightSkill,所持しているアイドルがいません,所持しているアイドルがいません
-idolList.emptyMessages.foilBook,使用可能なアイドルがいません,使用可能なアイドルがいません
-idolList.sale.selectedFesIdolCount,選択アイドル数,選択アイドル数
-idolList.sale.transferAfterMoney,移籍後マニー,移籍後マニー
+idolList.emptyMessages.fightSkill,所持しているアイドルがいません,No Idols owned
+idolList.emptyMessages.foilBook,使用可能なアイドルがいません,No Idols available
+idolList.sale.selectedFesIdolCount,選択アイドル数,Selected Idols
+idolList.sale.transferAfterMoney,移籍後マニー,Resulting Money
 idolList.expressSameIndividualityDialog.title,確認,Confirm
-idolList.expressSameIndividualityDialog.text,同一のノウハウは発現できません,同一のノウハウは発現できません
-header.knowHowBookPackingDetail,ノウハウブック詳細,ノウハウブック詳細
-header.produceInvitation,勧誘,勧誘
+idolList.expressSameIndividualityDialog.text,同一のノウハウは発現できません,The same Know-How cannot be transferred.
+header.knowHowBookPackingDetail,ノウハウブック詳細,Know-How Book Details
+header.produceInvitation,勧誘,Recruit
 header.produceTemporaryUnitCheck,チーム情報,チーム情報
 header.produceTemporaryUnitEdit,チーム編集,チーム編集
 idolDetail.keywordEffectsDialog.title,キーワード一覧,Keyword List
@@ -2730,34 +2730,34 @@ deck.deckNameEdit.dialog.target,ユニット名,Unit Name
 deck.knowHowBookPresetNameEdit.defaultName,プリセット%{presetNum},Unit %{presetNum}
 deck.knowHowBookPresetNameEdit.dialog.title,プリセット名変更,Rename Preset
 deck.knowHowBookPresetNameEdit.dialog.target,プリセット名,Preset Name
-deck.knowHowBookPresetNameEdit.dialog.description,プリセット%{presetNum}の名前を変更できます,プリセット%{presetNum}の名前を変更できます
+deck.knowHowBookPresetNameEdit.dialog.description,プリセット%{presetNum}の名前を変更できます,Rename Preset %{presetNum} here.
 deck.positionInvalid,編成不可,編成不可
-deck.knowHowBookPreset.listPop.title,ノウハウブックプリセット,ノウハウブックプリセット
+deck.knowHowBookPreset.listPop.title,ノウハウブックプリセット,Know-How Book Preset
 deck.knowHowBookPreset.listPop.notice,「プロデュースアイドル」および「サポートアイドル」と\n同じアイドルのノウハウブックは呼び出せません,「プロデュースアイドル」および「サポートアイドル」と\n同じアイドルのノウハウブックは呼び出せません
-deck.knowHowBookPreset.listPop.presetLabel,プリセット%{presetNum},プリセット%{presetNum}
+deck.knowHowBookPreset.listPop.presetLabel,プリセット%{presetNum},Preset %{presetNum}
 deck.knowHowBookPreset.listPop.emptyNotice,保存されたプリセットがありません,保存されたプリセットがありません
 deck.knowHowBookPreset.overwriteConfirmationPop.title,プリセット上書き確認,プリセット上書き確認
 deck.knowHowBookPreset.overwriteConfirmationPop.comment,プリセットを上書きしますか？,プリセットを上書きしますか？
 deck.knowHowBookPreset.overwriteConfirmationPop.notice,プリセットの名前は引き継がれます,プリセットの名前は引き継がれます
-deck.knowHowBookPreset.presetEditCompletePop.title,ノウハウブックプリセット,ノウハウブックプリセット
+deck.knowHowBookPreset.presetEditCompletePop.title,ノウハウブックプリセット,Know-How Book Preset
 deck.knowHowBookPreset.presetEditCompletePop.comment,プリセットを更新しました,プリセットを更新しました
 deck.knowHowBookHistory.title,ノウハウブック設定履歴,ノウハウブック設定履歴
 deck.knowHowBookHistory.emptyNotice,ノウハウブックの履歴がありません,ノウハウブックの履歴がありません
 deck.knowHowBookHistory.knowHowBookUnselectedNotice,ノウハウブックを選択すると\n詳細が確認できます,ノウハウブックを選択すると\n詳細が確認できます
-ending.checkSkillChangesRemainPop.title,フェスアイドル誕生確認,フェスアイドル誕生確認
+ending.checkSkillChangesRemainPop.title,フェスアイドル誕生確認,Create Fes Idol
 ending.checkSkillChangesRemainPop.comment,スキルが変更可能です\n\nスキルを変更せずに\nフェスアイドルを誕生させますか?,スキルが変更可能です\n\nスキルを変更せずに\nフェスアイドルを誕生させますか?
 ending.skillChangePop.title,スキル変更,Change Skill
-ending.skillChangePop.changedSuccessComment,スキル変更しました,スキル変更しました
-ending.skillChangePop.changedComment,スキル変更済みです,スキル変更済みです
+ending.skillChangePop.changedSuccessComment,スキル変更しました,Skill(s) have changed
+ending.skillChangePop.changedComment,スキル変更済みです,Skill(s) have changed
 errorDialog.screenshot.title,撮影失敗,撮影失敗
 errorDialog.screenshot.text,撮影、または保存に失敗しました,撮影、または保存に失敗しました
-eventPoint.characterQuestionAndAnswer.50042,ローズpt,Rose Pt
+eventPoint.characterQuestionAndAnswer.50042,ローズpt,Rose Pts
 exchangeItem.specialFesConcertTicket.original,フェスチケット,Fes Ticket
 exchangeItem.specialFesConcertTicket.simple,チケット,Ticket
-exchangeItem.deleteIndividuality.original,ノウハウブック編集アイテム,ノウハウブック編集アイテム
-exchangeItem.deleteIndividuality.simple,ノウハウブック編集アイテム,ノウハウブック編集アイテム
-exchangeItem.redrawIndividuality.original,ノウハウブック編集アイテム,ノウハウブック編集アイテム
-exchangeItem.redrawIndividuality.simple,ノウハウブック編集アイテム,ノウハウブック編集アイテム
+exchangeItem.deleteIndividuality.original,ノウハウブック編集アイテム,Know-How Book Edit Items
+exchangeItem.deleteIndividuality.simple,ノウハウブック編集アイテム,Know-How Book Edit Items
+exchangeItem.redrawIndividuality.original,ノウハウブック編集アイテム,Know-How Book Edit Items
+exchangeItem.redrawIndividuality.simple,ノウハウブック編集アイテム,Know-How Book Edit Items
 evolution.parallelIdolLetterRelease.comment,アイドルからの手紙\n[%{idolName}]が\n解放されました,アイドルからの手紙\n[%{idolName}]が\n解放されました
 evolution.parallelIdolLetterVoiceRelease.comment,アイドルからの手紙(ボイス)\n[%{idolName}]が\n解放されました,アイドルからの手紙(ボイス)\n[%{idolName}]が\n解放されました
 evolution.reward.getIllustRelease,・特別イラスト,・Special Illustration
@@ -2767,9 +2767,141 @@ individualRanking.breakTimePop.period,%{openTime}　〜　%{closeTime},%{openTim
 individualRanking.changeBreakTimePop.period,%{openTime}　〜　%{closeTime},%{openTime}　〜　%{closeTime}
 producerDesk.producerLevel.exp,%{exp}Exp,%{exp}Exp
 producerDesk.producerLevel.expRange,%{min} 〜 %{max}Exp,%{min} 〜 %{max}Exp
-producerDesk.releaseCondition.halo,"say ""Halo""を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります","say ""Halo""を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります"
-autoPlay.releasedRequirementDescription.6th_produce_area,"『say ""Halo""』編でフェスアイドルを誕生させる","『say ""Halo""』編でフェスアイドルを誕生させる"
+producerDesk.releaseCondition.halo,"say ""Halo""を解放する為には「W.I.N.G.編」で\nシーズン1をクリアし、フェスアイドルを\n誕生させる必要があります","To unlock ""say ""Halo"""",\nclear Season 1 in ""W.I.N.G.""\nand create a Fes Idol."
+autoPlay.releasedRequirementDescription.6th_produce_area,"『say ""Halo""』編でフェスアイドルを誕生させる","Create a Fes Idol in ""say ""Halo"""""
 daifugo.cardEffect.five_skip,5スキップ,5 Skip
 daifugo.cardEffect.seven_give,7渡し,7渡し
 daifugo.cardEffect.fall_from_great_rich_man,都落ち,都落ち
 daifugo.cardEffect.rise_from_great_poor_man,下剋上,下剋上
+shop.smallTabTitles.idolPiece.sparkle,煌,Sparkle
+filter.cautions.lessonCard,"say ""Halo""編の専用パラメータです","say ""Halo""編の専用パラメータです"
+filter.texts.lessonCard.vocal,ボーカル,Vocal
+filter.texts.lessonCard.dance,ダンス,Dance
+filter.texts.lessonCard.visual,ビジュアル,Visual
+filter.texts.lessonCard.mental,メンタル,Mental
+filter.texts.lessonCard.inspiration,ひらめき,Inspiration
+filter.texts.lessonCard.goodnight,おやすみ,Rest
+filter.texts.lessonCard.work,お仕事,Work
+filter.texts.lessonCard.limit_break,限界突破,Limit Break
+filter.texts.lessonCard.wild,ベスト,Best
+bulkSelectResultPop.title,一括選択結果,Select All
+bulkSelectResultPop.selectIdolNum,選択アイドル数,選択アイドル数
+bulkSelectResultPop.selectExist,条件に合致する\nフェスアイドルを選択しました,条件に合致する\nフェスアイドルを選択しました
+bulkSelectResultPop.selectNotExist,選択条件に合致する\nフェスアイドルがいませんでした,選択条件に合致する\nフェスアイドルがいませんでした
+countUpCampaign.specialPcupArticle.period,開催期間 : %{openAt} 〜 %{closeAt},開催期間 : %{openAt} 〜 %{closeAt}
+countUpCampaign.specialPcupArticle.clearedFooterText,達成おめでとうございます！,達成おめでとうございます！
+countUpCampaign.banner.completed,チャレンジ達成！,Challenge Completed!
+countUpCampaign.banner.gashaTicket.tail,10連,10 Pulls
+temp.supportEvent,サポートイベント,Support Event
+temp.produceEvent,プロデュースイベント,Produce Event
+announce.information,お知らせ,Notice
+common.plusSkill.conditionSeparator,\[条件:(.*)\]$,\[条件:(.*)\]$
+common.exchangeSkill.conditionSeparator,\[条件:(.*)\]$,\[条件:(.*)\]$
+concert.passiveSkillDetailListDialog.extendedSuffix,[延長],[Extend]
+concert.statusEffect.additionalEffectDetail.tag,[追加],[Extra]
+deck.swapSameURRarityWarning,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいますが\n本当によろしいですか？,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいますが\n本当によろしいですか？
+deck.swapCharacterAndSameURRarityWarning,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいます\nまたユニット内の同一のアイドルも外れてしまいます\n本当によろしいですか？,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいます\nまたユニット内の同一のアイドルも外れてしまいます\n本当によろしいですか？
+evolution.trustLimitNotUpdated.comment,[%{idolName}]の信頼度Lv.上限は、\nすでにマイコレ限定アイドル特訓回数によって\n上昇済みのため、上昇しませんでした,[%{idolName}]の信頼度Lv.上限は、\nすでにマイコレ限定アイドル特訓回数によって\n上昇済みのため、上昇しませんでした
+fes.skillChange.description.activeSkill,ライブスキルを\n2つ選択してください,ライブスキルを\n2つ選択してください
+fes.noSelectableQuickSkills,クイックスキルを所持しているアイドルが\nユニットに編成されていません,クイックスキルを所持しているアイドルが\nユニットに編成されていません
+fes.trophy.count,所持数 : %{count},所持数 : %{count}
+fes.trophy.organizationPop.title,アイドル編成回数の確認,アイドル編成回数の確認
+fes.honor.editConfirmPopTitle,記事の送信,記事の送信
+fes.honor.editConfirmPopMessage,グレードフェスの記事を確定し\n善村記者に送信します,グレードフェスの記事を確定し\n善村記者に送信します
+fes.honor.editConfirmPopInformation,これ以降、記事の編集はできません,これ以降、記事の編集はできません
+fes.honor.honorEditTimeLimit,yyyy/mm/dd HH:MM まで,yyyy/mm/dd HH:MM まで
+fes.honor.honorUserRankText,%{userRank}位獲得!,%{userRank}位獲得!
+fes.honor.honorNicknameCommentNone,(なし),(none)
+fes.honor.honorCheckComment,いつもお世話になっております。\n敏腕通信社『週刊イチオシ』編集部の善村です。\n\nこの度のグレフェスでのご活躍を拝見いたしました！\nその素晴らしい活躍を記事にさせていただきたく、\n誠に勝手ながら紙面イメージをお送りいたします。\n\nぜひ内容をご確認いただき、ご意見をお聞かせください。\nご返信いただける期日は、以下の通りです,いつもお世話になっております。\n敏腕通信社『週刊イチオシ』編集部の善村です。\n\nこの度のグレフェスでのご活躍を拝見いたしました！\nその素晴らしい活躍を記事にさせていただきたく、\n誠に勝手ながら紙面イメージをお送りいたします。\n\nぜひ内容をご確認いただき、ご意見をお聞かせください。\nご返信いただける期日は、以下の通りです
+gameEvent.communicationsDialog.eventTopOnlyDesc,本イベントは\nイベントTOP画面からのみ\n遊ぶことができます,本イベントは\nイベントTOP画面からのみ\n遊ぶことができます
+gameEvent.adventureStoryEvent.50050.choiceConditionBalloon.characterLikeability,%{name}の好感度が「%{value}」以上で解放,%{name}の好感度が「%{value}」以上で解放
+gameEvent.adventureStoryEvent.50050.endingStoryListDialog.titleLabel,エンディング%{endingNumber},Ending %{endingNumber}
+gasha.ssrUpSubtitle,SSR以上確定提供割合,SSR以上確定提供割合
+gasha.ssrUpSubtitleIdol,SSR以上確定の提供アイドル一覧,SSR以上確定の提供アイドル一覧
+gasha.urFixSubtitle,UR確定提供割合,UR確定提供割合
+gasha.urFixSubtitleIdol,UR確定の提供アイドル一覧,UR確定の提供アイドル一覧
+homeDeck.requiredEvolutionTimesText,　特訓回数%{homeUnitReleaseEvolutionStage}回で\nMVが設定可能になります,　特訓回数%{homeUnitReleaseEvolutionStage}回で\nMVが設定可能になります
+supportIdolDetail.illustReleaseEvolutionDialog.title,特別イラスト公開,特別イラスト公開
+supportIdolDetail.illustReleaseEvolutionDialog.description,特訓回数%{times}回で\n特別イラストが解放されます,特訓回数%{times}回で\n特別イラストが解放されます
+supportIdolDetail.illustReleaseEvolutionDialog.illustSelectLock,　特訓回数%{times}回で\n特別イラストが解放されます,　特訓回数%{times}回で\n特別イラストが解放されます
+supportIdolDetail.mvReleaseConditionDialog.title,MV解放条件,MV解放条件
+supportIdolDetail.mvReleaseConditionDialog.description,%{idolName}\n獲得でMVが再生可能になります,%{idolName}\n獲得でMVが再生可能になります
+idolDetail.afterTrueEndDialog.title,True End2詳細,True End2 Details
+produce.concertTitle.sixthSemifinalConcert,ファーストライブ,First Live
+produce.concertTitle.sixthFinalConcert,ファイナルライブ,Final Live
+produce.resumePop.progressTrainingCamp,シーズン %{season} 合宿,Season %{season} Camp
+produceTemporaryUnitCheck.unitNameDialog.title,チーム名変更,Team Name Change
+produceTemporaryUnitCheck.unitNameDialog.target,チーム名,Team Name
+produceTemporaryUnitCheck.unitNameDialog.description,チームの名前を変更できます,You can change your Team Name.
+produceTemporaryUnitCheck.completeUnitNameChangeDialog.title,チーム名変更完了,Team Name Changed
+produceTemporaryUnitCheck.completeUnitNameChangeDialog.message,チーム名を変更しました,Changed the Team Name.
+produceTemporaryUnitCheck.leaveConfirmDialog.title,チーム離脱確認,チーム離脱確認
+produceTemporaryUnitCheck.leaveConfirmDialog.description,%{name}をチームから離脱させますか？,%{name}をチームから離脱させますか？
+produceTemporaryUnitCheck.infoDialog.title,チーム詳細,Team Details
+produceTop.autoConcertConfirmPop.titles.sixth,挑戦確認,Confirm Challenge
+produceTop.autoConcertInfoPop.titles.entry,エントリーライブ挑戦詳細,Entry Live Details
+produceTop.autoConcertInfoPop.titles.exhibition,エキシビションマッチ挑戦詳細,Exhibition Match Details
+produceTop.autoConcertInfoPop.titles.sixth,挑戦詳細,Details
+produceTop.autoConcertListPopTitle,目標ライブ挑戦確認,Goal Live Details
+produceTop.produceGoalPop6th.title,プロデュース目標,Produce Goals
+produceTop.produceGoalPop6th.header1,シーズン１,Season 1
+produceTop.produceGoalPop6th.header2,シーズン２,Season 2
+produceTop.produceGoalPop6th.header3,合宿,Training Camp
+produceTop.produceGoalPop6th.header4,ファーストライブ,First Live
+produceTop.produceGoalPop6th.header5,シーズン3,Season 3
+produceTop.produceGoalPop6th.header6,合宿,Training Camp
+produceTop.produceGoalPop6th.header7,ファイナルライブ,Final Live
+produceTop.produceGoalPop6th.remainWeekPrefix,あと:,Left:
+produceTop.produceGoalPop6th.remainWeekUnit,週,wks
+produceTop.lockedContentDialogs.produceTemporaryUnitCheck.title,チーム情報,Team Info
+produceTop.lockedContentDialogs.produceTemporaryUnitCheck.message,チーム情報はシーズン２から解放されます,Team Info unlocks in Season 2
+produceTop.lockedContentDialogs.reflect.title,振り返り,Reminisce
+produceTop.lockedContentDialogs.reflect.message,振り返りはシーズン２から解放されます,Reminisce unlocks in Season 2
+produceTop.lockedContentDialogs.growth.title,成長,Develop
+produceTop.lockedContentDialogs.growth.message,成長はシーズン２から解放されます,Develop unlocks in Season 2
+produceAction.allLessonCardsEffectDescriptionListPopup.title,アドバイス効果一覧,Advice List
+produceAction.lessonCardListPopup.title,アドバイス確認,Confirm Advice
+produceAction.jointPracticeInfoDialog.title,チーム合同練習情報,Team Training Info
+produceAction.jointPracticeInfoDialog.resultNames.stamina,体力,Stamina
+produceAction.jointPracticeInfoDialog.resultNames.popularity,チーム知名度,Team Popularity
+produceAction.jointPracticeInfoDialog.resultNames.completeness,チーム完成度,チーム完成度
+produceAction.jointPracticeInfoDialog.resultNames.placeLevel,%{name}レベル,%{name}Level
+produceMain.supportSkillsDialog.produceTemporaryUnitMember,チームのアイドルです,The Idol's Team
+produceResult.redrawKnowHowBooksConfirmDialog.title,再抽選確認,Confirm Reroll
+produceInvitation.characterName,%{nameKanji}（%{nameKana}）,%{nameKanji}（%{nameKana}）
+produceInvitation.invitationConfirmPop.title,勧誘確認,Confirm Recruit
+produceInvitation.invitationConfirmPop.text,%{characterName}を\nチームメンバーに勧誘しますか？,Do you want to recruit\n %{characterName} into your team?
+produceInvitation.exitConfirmPop.title,勧誘終了,End Recruit
+produceInvitation.exitConfirmPop.text,勧誘せずに終了しますか？,Do you want to quit without recruiting?
+produceInvitation.teamMemberMaxPop.title,チームメンバー上限,Team Member Limit
+produceInvitation.teamMemberMaxPop.text,チームメンバーが揃いました！\n\n他のアイドルを勧誘する場合は\nチーム情報を確認し、\nチームからアイドルを離脱させてください,チームメンバーが揃いました！\n\n他のアイドルを勧誘する場合は\nチーム情報を確認し、\nチームからアイドルを離脱させてください
+produceInvitation.acquirableLessonCardTableDialog.title,獲得可能アドバイス一覧,獲得可能アドバイス一覧
+produceReady.idolRestrictionPop.text.specialCharacterOnly.produceIdol,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません
+produceReady.idolRestrictionPop.text.specialCharacterOnly.supportIdol,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません
+produceReady.autoProduceRestrictionPop.title,編成アイドル制限,編成アイドル制限
+produceReady.autoProduceRestrictionPop.text,アイドルが参加できない\nプロデュースエリアが含まれています,アイドルが参加できない\nプロデュースエリアが含まれています
+produceReady.produceAreaAttension.settingText,『%{produceTitle}』編でプロデュース中に獲得した\nファン数は、プロデューサーズカップの,『%{produceTitle}』編でプロデュース中に獲得した\nファン数は、プロデューサーズカップの
+produceReady.produceAreaAttension.produceTitle.5th_produce_area,S.T.E.P.,S.T.E.P.
+produceReady.produceAreaAttension.produceTitle.6th_produce_area,"say ""Halo""","say ""Halo"""
+shop.shopItem.ticketExchangeShopTitle,アイドルを選ぶ,Select an Idol
+shop.packageDialog.itemNoticeText.presentEventItem,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません\n期間中のみリサイクルショップでリカバリーソーダ100と交換できます,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません\n期間中のみリサイクルショップでリカバリーソーダ100と交換できます
+shop.packageDialog.itemNoticeText.presentEventItemWithoutRecovery,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません
+shop.purchasedCountLabelText.ticketExchangeShop,残アイドル数,残アイドル数
+shop.purchasedCountLabelText.uncountable,購入数,Purchase Quantity
+shop.vipPoint.purchaseResultTitle,VIPポイント獲得,Earn VIP Points
+shop.vipPoint.soldOutPop.title,確認,Confirm
+shop.vipPoint.soldOutPop.text,VIPポイントは購入上限数に達しています,VIPポイントは購入上限数に達しています
+decorationEvent.confirmationTitle,再生確認,再生確認
+decorationEvent.decorationComment,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？
+decorationEvent.donationComment,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？
+decorationEvent.presentComment,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？
+decorationEvent.characterSelectPop.itemNameText.decoration,【’24Xmas】飾り付け 所持数 :,【’24Xmas】飾り付け 所持数 :
+decorationEvent.characterSelectPop.itemNameText.present,【’24Xmas】プレゼント所持数:,【’24Xmas】プレゼント所持数:
+decorationEvent.characterSelectPop.itemNameTextValentine2025.decoration,【’25VD】差し入れ 所持数 :,【’25VD】差し入れ 所持数 :
+decorationEvent.characterSelectPop.itemNameTextValentine2025.present,【’25VD】プレゼント所持数:,【’25VD】プレゼント所持数:
+twitter.personalLimitRateDialog.title,利用回数制限エラー,利用回数制限エラー
+twitter.personalLimitRateDialog.description,連携している外部サービスの利用回数制限を越えました\n\nしばらく時間をおいてから再度お試しください,連携している外部サービスの利用回数制限を越えました\n\nしばらく時間をおいてから再度お試しください
+autoPlay.settingContentLabel,オート%{number},Auto %{number}
+daifugo.cardEffect.nine_reverse,9リバース,9 Reverse
+daifugo.cardEffect.ten_drop,10捨て,10 Drop
+daifugo.cardEffect.queen_bomber,クイーンボンバー,Queen Bomber

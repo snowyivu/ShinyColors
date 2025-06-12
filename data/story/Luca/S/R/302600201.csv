@@ -1,0 +1,76 @@
+id,name,text,trans
+3026002010010,ルカ,"たぶん
+森のような場所だと思う──","This place seems like
+a forest of sorts──"
+3026002010020,ルカ,すごく、空気が重くて,The air is so dense.
+3026002010030,ルカ,押し潰されそうで──,It feels like I'm being crushed──
+3026002010040,ルカ,息苦しい,It's suffocating.
+3026002010050,ルカ,じめっとした場所……,Such a humid place...
+3026002010060,ルカ,"霧が濃いから
+手探りで前に進んでいく","The fog is so thick that I have to feel my way 
+forward."
+3026002010070,ルカ,"濡れた草が
+脛に当たって気持ち悪い","The wet grass touches my legs,
+causing discomfort."
+3026002010080,ルカ,雪が降ってるんだと思う,It looks like it's snowing...
+3026002010090,ルカ,"森の中なのに
+土の匂いはしなくて","Even though I am in the forest,
+I don't smell the soil."
+3026002010100,ルカ,たぶん、これは潮の香──,"Maybe, this is the smell of the sea──"
+3026002010110,ルカ,"歩いていくうちに……
+地面が途切れた……","As I walked...
+The ground disappeared..."
+3026002010120,ルカ,谷だ────,It's a valley──
+3026002010130,ルカ,"その谷は深くて
+底が何も見えない","This valley is so deep.
+You can't see the ground at all."
+3026002010140,ルカ,でも,"However,"
+3026002010150,ルカ,下に何があるのかはわかる,I know what's located
+3026002010160,ルカ,谷の底にいるのは,at the bottom of the valley.
+3026002010170,ルカ,たぶん女の子,Probably a girl.
+3026002010180,ルカ,"目隠しをした
+女の子──",A girl with a blindfold on──
+3026002010190,ルカ,声が聞こえる,I hear a voice.
+0000000000000,off,『ない……』,"""Gone..."""
+0000000000000,off,『なくなった……』,"""It's gone..."""
+3026002010200,ルカ,そう言ってる気がする,That's what she might be saying.
+3026002010210,ルカ,"笑ってるのか
+泣いてるのか……わからない","Whether she's laughing or crying...
+I don't know..."
+3026002010220,ルカ,"どっちでもいい
+だって、私は彼女を助けない","Either way, I am not going to help her."
+3026002010230,ルカ,助けたくないし……,I don't want to help...
+3026002010240,ルカ,"疲れたから
+座ろうと思ったとき","I grew weary, and as I was about to sit down..."
+3026002010250,ルカ,"目の前に
+見たこともない生き物が現れて","A creature I haven't seen before appeared before 
+my very eyes."
+3026002010260,ルカ,"その動物は私と目を合わせると
+谷に飛び込んでいった","The creature caught a glimpse of me,
+and ran off deeper into the valley."
+3026002010270,ルカ,女の子を助けに行こうとしたのか,Did it help the girl?
+3026002010280,ルカ,食べに行くのか,Or is it going to eat the girl?
+3026002010290,ルカ,わからない,I don't know.
+3026002010300,ルカ,どんな形……？,What shape did it have...?
+3026002010310,ルカ,うん……たぶん,Hm... Maybe...
+3026002010320,ルカ,それぞれ違う３つの頭をもつ……生き物,It was a creature with three different heads...
+3026002010330,ルカ,キマイラとかいうやつ……？,Could it be called a chimera?
+3026002010340,ルカ,さぁ……,Who knows...
+3026002010350,ルカ,でも,"However,"
+3026002010360,ルカ,"羽があったから
+違うかも──","Maybe it's not a chimera, 
+because it had wings..."
+3026002010370,ルカ,その後……？,After that...?
+3026002010380,ルカ,たぶん、その女の子は……,"Maybe, the girl..."
+3026002010390,ルカ,その生き物の一部になったんだと思う,became part of the creature.
+3026002010400,ルカ,"笑ってるのか
+泣いてるのか……わからない","Whether she's laughing or crying...
+I don't know..."
+0000000000000,off,『いらっしゃいませ～』,"""Welcome～"""
+0000000000000,店内の声,────何名様でしょうか…………,──How many people?
+0000000000000,店内の声,…………すみません、注文いいですか──……,"... Excuse me, what would you like to order──"
+3026002010410,ルカ,──────……,──......
+3026002010420,ルカ,──────寝てた,──I fell asleep.
+3026002010430,ルカ,夢か──────,"A dream, huh──"
+info,produce_events/302600201.json,
+Translator,Burbur,

@@ -1,0 +1,29 @@
+id,name,text,trans
+6008003010010,霧子,──『そこへ、いぬさんが通りかかりました』,"──""Just then, a dog passes by."""
+6008003010020,霧子,…………────,......────
+0000000000000,プロデューサー,"……霧子？
+大丈夫か、ぼんやりして──","...Kiriko?
+Are you alright? You're spacing out──"
+6008003010030,霧子,"──プロデューサーさん……
+す、すみません……！","─Producer-san...
+I-I'm sorry...!"
+0000000000000,プロデューサー,"気分でも悪いのか？
+ちょっと空気がこもってるかもしれないな……","Are you feeling alright?
+It might be getting a bit stuffy in here..."
+6008003010040,霧子,"い、いえ……！
+大丈夫です……","N-No...!
+I'm alright..."
+6008003010050,霧子,"少し……緊張して……
+…………────","Just... a little nervous...
+......────"
+0000000000000,プロデューサー,"…………
+緊張は、いいことだよ。けど──","......
+It's okay to be nervous. Just──"
+0000000000000,プロデューサー,"──いや、いってらっしゃい
+応援してるぞ！","──No, good luck out there.
+I'm rooting for you!"
+6008003010060,霧子,"──は、はい……！
+頑張って……きます……！","──Y-Yes...!
+I'll... go do my best...!"
+info,produce_events/600800301.json,
+Translator,Rinka,

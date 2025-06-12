@@ -186,8 +186,8 @@ Visual流行雑誌,Visual Trend Magazine
 プロデュース中の約束発生率を中アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to medium (decreases each time a promise occurs, up to four times)."
 約束のパルファム,Promise Perfume
 プロデュース中の約束発生率を大アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to high (decreases each time a promise occurs, up to four times)."
-SSR or SR確定ガシャチケット,SSR or SR Guaranteed Gacha Ticket
-SSR確定ガシャチケット,SSR Guaranteed\nGacha Ticket
+SSR or SR確定ガシャチケット,SSR or SR Gacha Ticket
+SSR確定ガシャチケット,SSR Guaranteed \nGacha Ticket
 SSR確定ガシャが引けるチケットです,This ticket can be used to pull a guaranteed SSR card.
 SSR確定Plusガシャチケット(1/10),SSR Guaranteed Plus Gacha Ticket (1/10)
 限定入りSSR確定ガシャチケット(1/10),Limited Included Guaranteed SSR Gacha Ticket (1/10)
@@ -432,7 +432,7 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【サンセットスカイ\nパッセージ】鈴木 羽那,[Sunset Sky\nPassage] Hana
 【サンセットスカイパッセージ】郁田 はるき,[Sunset Sky Passage] Haruki
 【サンセットスカイ\nパッセージ】郁田 はるき,[Sunset Sky\nPassage] Haruki
-ユナイトバースプラネタリ,Uniteverse\nPlanetary
+ユナイトバース\nプラネタリ,Uniteverse\nPlanetary
 ユナイトバースプラネタリ衣装チケット,Uniteverse Planetary Exchange Ticket
 ユナイトバースプラネタリと交換できるチケットです,Used in the Uniteverse Planetary Exchange Shop.
 【ユナイトバースプラネタリ】櫻木 真乃,[Uniteverse Planetary] Mano
@@ -675,9 +675,12 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【リフレジェントプルマージュ】\n鈴木 羽那,[Refulgent Plumage]\nHana
 【リフレジェントプルマージュ】郁田 はるき,[Refulgent Plumage] Haruki
 【リフレジェントプルマージュ】\n郁田 はるき,[Refulgent Plumage]\nHaruki
-レジスタンスオーダー・\nネオス,Resistance\nOrder Neos
-レジスタンスオーダー・ネオス衣装チケット,Resistance Order Neos Exchange Ticket
-レジスタンスオーダー・ネオスと交換できるチケットです,Used in the Resistance Order Neos Exchange Shop.
+レジスタンスオーダー・ネオス,Resistance Order Neos
+レジスタンスオーダー・ネオス\n(フード有り),Resistance Order Neos\n(Hood On)
+レジスタンスオーダー・ネオス衣装交換チケット,Resistance Order Neos Exchange Ticket
+レジスタンスオーダー・ ネオス(フード有り)衣装交換チケット,Resistance Order Neos (Hood On) Exchange Ticket
+レジスタンスオーダー・ネオスの衣装と交換できるチケットです,Used in the Resistance Order Neos Exchange Shop.
+レジスタンスオーダー・ネオス(フード有り)の衣装と交換できるチケットです,Used in the Resistance Order Neos (Hood On) Exchange Shop.
 【レジスタンスオーダー・ネオス】櫻木 真乃,[Resistance Order Neos] Mano
 【レジスタンスオーダー・ネオス】\n櫻木 真乃,[Resistance Order Neos]\nMano
 【レジスタンスオーダー・ネオス】風野 灯織,[Resistance Order Neos] Hiori
@@ -949,7 +952,7 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 エモーショナルユニフォーム衣\n装チケ（グレフェス）,Emotional Uniform\nExchange Ticket (GFes)
 エモーショナルユニフォーム\n衣装チケ（グレフェス）,Emotional Uniform\nExchange Ticket (GFes)
 グレフェスコインショップに登場したエモーショナルユニフォームと交換できるチケットです,Used in the GradeFes Emotional Uniform Outfit Exchange Shop.
-エモーショナルユニフォーム衣装交換（マッチライブ）,Emotional Uniform\nExchange Shop (ML)
+エモーショナルユニフォーム\n衣装交換（マッチライブ）,Emotional Uniform\nExchange Shop (ML)
 エモーショナルユニフォーム衣装チケ（マッチライブ）,Emotional Uniform Exchange Ticket (ML)
 エモーショナルユニフォーム衣\n装チケ（マッチライブ）,Emotional Uniform\nExchange Ticket (ML)
 エモーショナルユニフォーム\n衣装チケ（マッチライブ）,Emotional Uniform\nExchange Ticket (ML)
@@ -1814,11 +1817,11 @@ Center用手紙【銅】,Center Letter [Bronze]
 【'22VD】美琴・ちょっといいやつ,
 ……ちょっとだけね？,
 【'23VD】美琴・チョコレート,
-【'24VD】美琴・マカロン,
+【'24VD】美琴・マカロン,['24VD] Mikoto's Macaron
 信頼している君に,
 【'25VD】美琴・クッキー,['25VD] Mikoto's Cookies
 焼きたてだった,
-【’23Xmas】ルカ・パウンドケーキ,
+【’23Xmas】ルカ・パウンドケーキ,['23Xmas] Luca's Pound Cake
 やる……いらねェから,
 【'24VD】ルカ・みかん,['24VD] Luca's Mikan
 あんだろ,
@@ -1830,7 +1833,7 @@ Center用手紙【銅】,Center Letter [Bronze]
 あげる相手いますよ,
 【'25VD】羽那・ちゃんとしたチョコ,['25VD] Hana's Proper Chocolate
 ハート♡,Heart♡
-【’23Xmas】はるき・動画,
+【’23Xmas】はるき・動画,['23Xmas] Haruki's Video
 こころに映りますか,
 【'24VD】はるき・ガトーショコラ,['24VD] Haruki's Chocolate Gateau
 デコレーションのない気持ち,

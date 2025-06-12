@@ -1,0 +1,26 @@
+id,name,text,trans
+6007003050010,結華,"……Ｐたんのがドヤ顔みたいになってるの、
+ちょっとどうかと思うんですけど～","...P-tan, your face is looking too smug.
+Maybe you should dial it back a bit～"
+0000000000000,プロデューサー,"えっ
+今そんな顔してるのか俺……！？","Eh?
+Wait, is that what I look like right now?!"
+6007003050020,結華,"してるよー？
+『ほら言っただろ、うちの結華は強いんだ』みたいな顔","You didn't know～? It practically looks like you're
+saying, ""See? My Yuika wiped the floor with them."""
+0000000000000,プロデューサー,"そうか、困ったな。出ちゃってたとすると……
+表情を作る練習をした方がいいかもしれない……","That's concerning. Am I really that obvious...?
+I should practice my pokerface, then..."
+6007003050030,結華,"ちょっと！　ふざけて盛って言ってるんだから、
+『そこまでじゃない』みたいなツッコミ求む！","Hold up! I'm totally hamming it up over here!
+You're supposed to go, ""Don't flatter yourself
+so much"" or something!"
+0000000000000,プロデューサー,だって過不足ないからなぁ,Can't argue with the truth.
+6007003050040,結華,この～～っ、からかってるでしょ！？,Ugh...! Are you screwing with me here?!
+0000000000000,プロデューサー,"まさか。本心だよ
+──お疲れ様、結華。よくやったな","Screwing with you? No, it's the truth!
+Seriously, Yuika, you wiped the floor with them."
+6007003050050,結華,っ……──タチ悪い～……！,You're so impossible...!
+6007003050060,結華,……ありがと,...But thanks.
+info,produce_events/600700305.json,
+Translator,Lewdacriz,

@@ -1,0 +1,44 @@
+id,name,text,trans
+0000000000000,プロデューサー,"霧子……！
+おめでとう……！","Kiriko...!
+Congratulations...!"
+0000000000000,プロデューサー,"まぁ、言ってみればA判定ってとこだ！
+ははっ、やったな……！","Well, I'd say it's about an A grade!
+Haha, you did it... !"
+6008003080010,霧子,"あ、ありがとうございます……
+プロデューサーさん……！","T-Thank you so much...
+Producer-san...!"
+6008003080020,霧子,────…………,────......
+0000000000000,プロデューサー,"……すごいことなんだ
+A判定も、B判定も","......It's really quite impressive.
+Both an A grade, and a B grade."
+6008003080030,霧子,"…………！
+プロデューサーさん────","......!
+Producer-san────"
+0000000000000,プロデューサー,"────ははっ、霧子
+結論を急ぐ必要はないよ","────Haha, Kiriko.
+There's no need to rush to a decision."
+6008003080040,霧子,…………っ,......
+0000000000000,プロデューサー,"正直さ、始まる前までは
+今日で何かが決まってしまうのかもって","To be honest, just before this,
+I felt like something might be decided today."
+0000000000000,プロデューサー,"俺も少し緊張してたんだ
+でも──","So I was feeling nervous too.
+But──"
+0000000000000,プロデューサー,"パフォーマンス見て、思ったよ
+霧子はまだまだどんな可能性もあるんだって","After seeing your performance, I realized that
+there were still so many possibilities for you, Kiriko."
+6008003080050,霧子,"────プロデューサーさん…………
+わたし…………","────Producer-san...
+I..."
+0000000000000,プロデューサー,"自分で本当に納得できるまで、全部……
+一生懸命頑張ること。いいな？","So until you find what truly satisfies you,
+we'll do our best... at everything. Is that okay?"
+6008003080060,霧子,"……！
+はい…………！","......!
+Yes...!"
+6008003080070,霧子,"わたし……わたし…………
+絶対に……形にしなきゃ…………────","I... I'll definitely...
+have to... make something out of this...────"
+info,produce_events/600800308.json,
+Translator,Rinka,

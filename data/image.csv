@@ -5,7 +5,7 @@ images/ui/auto_play/parts_skip_pop.json_image,auto_play/parts_skip_pop.png,1
 images/ui/auto_play/parts.json_image,auto_play/parts.png,1
 images/ui/auto_play_result/parts.json_image,auto_play_result/parts.png,2
 images/ui/common/parts_buttons.json_image,common/parts_buttons.png,81
-images/ui/common/parts.json_image,common/parts.png,47
+images/ui/common/parts.json_image,common/parts.png,48
 images/ui/common/parts_parallel_scene_layout.json_image,common/parts_parallel_scene_layout.png,1
 images/ui/my_page/parts.json_image,my_page/parts.png,47
 images/ui/my_page/parts_pop_content_available.json_image,my_page/parts_pop_content_available.png,9
@@ -65,9 +65,14 @@ images/content/characters/producer_desk_idol_list/025.png,producer_desk_idol_lis
 images/content/characters/producer_desk_idol_list/026.png,producer_desk_idol_list/026.png,1
 images/content/characters/producer_desk_idol_list/027.png,producer_desk_idol_list/027.png,1
 images/content/characters/producer_desk_idol_list/028.png,producer_desk_idol_list/028.png,1
+images/content/character_question_and_answers/vote_button/50052.png,character_question_and_answers/vote_button.png,1
+images/content/character_question_and_answers/vote_button_base/50052.png,character_question_and_answers/vote_button_base.png,1
+images/content/character_question_and_answers/vote_daily_limit_button/50052.png/character_question_and_answers/vote_daily_limit_button.png,1
+images/ui/character_question_and_answer/parts.json_image,character_question_and_answers/parts.png,2
 images/content/foil_gasha_medals/icon/1100.png,items/foil_gasha_medals/icon_1100.png,1
 images/content/foil_gasha_medals/icon/2000.png,items/foil_gasha_medals/icon_2000.png,1
 images/content/foil_gasha_medals/icon/2100.png,items/foil_gasha_medals/icon_2100.png,1
+images/content/tap_counter_events/ui/50052/parts.json_image,tap_counter_events/ui_50052_parts.png,1
 images/content/produce_place_categories/level_up_title/00001.png,00001.png,8
 images/content/produce_place_categories/level_up_title/00002.png,00002.png,8
 images/content/produce_place_categories/level_up_title/00003.png,00003.png,8
@@ -671,6 +676,7 @@ images/content/game_event/reward_label/5_9_13_17_21_2.png,game_event_reward_labe
 images/content/game_event/reward_label/5_10_15_20_32_38_4.png,reward_label/5_10_15_20_32_38_4.png,1
 images/content/game_event/reward_label/5_10_15_20_32_38_5.png,reward_label/5_10_15_20_32_38_5.png,1
 images/content/game_event/reward_label/5_10_15_25_40_60_5.png,reward_label/5_10_15_25_40_60_5.png,1
+images/content/game_event/reward_label/5_10_15_25_40_60_6.png,reward_label/5_10_15_25_40_60_6.png,1
 images/ui/concert_result/parts.json_image,concert_result_parts.png,9
 images/ui/concert_result/parts_effect.json_image,concert_result_parts_effect.png,9
 images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,10
@@ -1162,6 +1168,7 @@ images/ui/produce_ending/parts_skill_change.json_image,produce_ending/parts_skil
 images/ui/produce_temporary_unit_check/parts.json_image,produce_temporary_unit_check/parts.png,1
 images/ui/produce_invitation/parts.json_image,produce_invitation/parts.png,1
 images/content/characters/birthday_event_banner/001.png,birthday_event_banner/001.png,2
+images/content/characters/birthday_event_banner/005.png,birthday_event_banner/005.png,2
 images/content/characters/birthday_event_banner/007.png,birthday_event_banner/007.png,2
 images/content/characters/birthday_event_banner/016.png,birthday_event_banner/016.png,2
 images/content/characters/birthday_event_banner/020.png,birthday_event_banner/020.png,2

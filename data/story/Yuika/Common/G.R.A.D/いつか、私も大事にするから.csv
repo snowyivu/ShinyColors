@@ -1,0 +1,158 @@
+id,name,text,trans
+1007003040010,結華,……プロデューサー、話があります,"...Producer, we need to talk."
+0000000000000,プロデューサー,どうした？,What is it?
+1007003040020,結華,…………,.........
+1007003040030,結華,"……自己評価の低さは、そうそうどうにもなりません
+やっぱりずっとこの性格で来たし","It's not exactly easy fixing a low opinion of yourself...
+I've been this way all my life..."
+0000000000000,プロデューサー,…………,.........
+1007003040040,結華,……でも,But even still...
+1007003040050,結華,"なるべく、頑張って……
+やってきた努力とか、そういうのは","I'm going to try... to face the effort I've put in...
+...and all that came with it..."
+1007003040060,結華,認められるように…………します……,"...Even if it's hard... I'll do my best to give it the 
+credit it deserves..."
+1007003040070,結華,……人の大切なものを、バカにしたくはないから,"Because I don't want to end up... looking down
+on that..."
+0000000000000,プロデューサー,──結華……！,──Yuika...!
+1007003040080,結華,"っあ～～もう……！
+何言わされてんだか……！","Ahhhh geeez...!
+What are you making me say...!"
+1007003040090,結華,"──でも！　はい！
+この際だからハッキリ言っちゃいますが！","──...Anyways! Okay! While we're at it...
+ I might as well come out and say it!"
+1007003040100,結華,"この間はごめんなさい！
+あなたの大事なアイドルを──","I'm sorry for the other day!
+For saying something about──"
+1007003040110,結華,"──……あなたの大事なアイドルを、
+貶すようなことを言って",──for putting down the idol you're proud of.
+0000000000000,プロデューサー,……──ありがとう,...Thank you.
+0000000000000,プロデューサー,"俺も悪かった！
+結華にばっかり負担かけたよな……！","I'm also sorry!
+I really did dump too much on you, Yuika...!"
+1007003040120,結華,"ほんっとそれね！
+三峰さすがに悩んだんだから","No kidding!
+Mitsumine was all torn up inside, you know!"
+0000000000000,プロデューサー,"申し訳ない……！
+強硬手段しかないと思って……","I'm sorry...! I thought being hard on you was
+my only choice..."
+1007003040130,結華,……それは正解だからなんとも言えないんだけど……,"...Well, not that I can stay complaining.
+Because it was honestly the right call..."
+1007003040131,結華＆プロデューサー,──ふふっ,Fufu...
+1007003040140,結華,"それでね、プロデューサー
+早速相談があるんだけど、おっけー？","Anyways, Producer.
+I need to run something by you real quick, okay?"
+0000000000000,プロデューサー,おう、なんでも来いだ,"Yes, ask away."
+1007003040150,結華,"次のオーディションまでのね、
+レッスンの予定を一緒に立ててほしいのね","I want us to plan out my lessons for the
+upcoming audition together."
+1007003040160,結華,あなた自慢のアイドルが、一番輝けるように,"So that I can shine brighter than ever一
+To live up as an idol you're proud to have."
+1007003040170,結華,諸々、万端に整えてほしいの！,I want everything flawlessly set up for me!
+1007003040180,結華,"……三峰、割とギリギリまで──
+っていうか、納得いくまで？","Mitsumine's the type to keep it going until
+the last minute, or I guess until it all clicks?"
+1007003040190,結華,"がっつりみっちり練習してないと不安になっちゃうタイプ
+だから、ご存じの通り危なっかしくなるわけだけど──","I'm the type that gets all antsy if I'm not doing
+intense practice. And well, you've seen how it
+throws me off."
+0000000000000,プロデューサー,そうならないように、ってオーダーだな？,"So this is an official request to keep that from
+happening?"
+0000000000000,プロデューサー,"よし、じゃあ一緒に
+無理のない範囲で無茶する予定を立てよう","Got it. So we'll be putting our heads together to
+come up with some ""crazy but not nuts"" training plan."
+1007003040200,結華,ふはっ、何それ！,Fuhaha! What even is that?!
+1007003040210,結華,──でも乗った！,"But fine, I'm in!"
+select,,"乗ってくれて
+よかった","Glad to be
+working with you"
+select,,いい案だろ？,"Quite a good
+plan, no?"
+select,,"受けてくれると
+思った","I knew you'd
+say that"
+0000000000000,プロデューサー,"勢いで言っちゃったからな
+変なのって思われたらどうしようって一瞬……","I blurted out the first thing that came to mind,
+so I hope it didn't come out too weird..."
+1007003040220,結華,え～、何？　Ｐたんテキトー言ったの～？,Ayo? What's this? So P-tan was just joking around～?
+0000000000000,プロデューサー,違う違う！　そうじゃなくて！,"No, no! I meant it!"
+0000000000000,プロデューサー,"なんか言葉遊びだけで具体性がない、みたいな
+そういう感じにも聞こえるなと……","I realized it might've came across like I'm going for a
+cool delivery... but without any package…"
+1007003040230,結華,"やっだなぁ、Ｐたん！
+三峰ってねぇ、結構遊び心を解するタイプだよ？","Relaaax, P-tan! Mitsumine's the type of lady who
+enjoys a little pizzazz!"
+1007003040240,結華,そんなつまんないツッコミしないってー,I'm not here to call you out! That's boring.
+1007003040250,結華,"……しっかりやってくれるプロデューサーさんだって
+よぉく知ってますし？","...Plus, don't you know I'm well aware that my
+producer's the type of man to get things done?"
+0000000000000,プロデューサー,"はは……
+プレッシャーありがとう結華","Haha... Thanks, Yuika.
+I feel the pressure already."
+1007003040260,結華,信頼って言ってよ！,"You're supposed to say ""thanks for trusting me!"""
+1007003040270,結華,Ｐたんドヤ顔～,"Haha, P-tan lookin' real smug now～"
+0000000000000,プロデューサー,"……白状しよう
+上手いこと言えたと思ってちょっと嬉しかった","I have to admit, I'm kinda proud of myself
+for that one."
+1007003040280,結華,あははっ、かーわいい,"Ahahaha, you're adorable～"
+1007003040290,結華,"……でも残念だなぁ
+上手いこと言えたかっていうと、また判定は別──","But too alas... As for your actual score?
+The jury's still out on that one, I fear."
+0000000000000,プロデューサー,そうなのか……！？,Seriously?!
+1007003040300,結華,"本気でショックを受けるＰたんに
+ジェネレーションギャップを感じる三峰なのであった──","And so it was, as the poor P-tan stood there in
+shock, did Mitsumine felt the painful sting of a
+generational divide."
+0000000000000,プロデューサー,"結華、ちょっとセンスがまずいと思ったんだったら
+ハッキリ言ってくれ！？","Yuika, if you think what I said was cringe,
+then why not say it to my face?!"
+1007003040310,結華,それは三峰の口からはとてもとても……,"I'm afraid those words are far too cruel for this
+Mitsumine to say aloud..."
+0000000000000,プロデューサー,おい……！？,Ayo...?!
+1007003040320,結華,"だってー
+三峰心をくすぐる言い回ししてくれるんだもん","Because! You really have a way of saying things that
+really get to Mitsumine."
+0000000000000,プロデューサー,"かっこつけていいなら──
+まぁ、相棒だしな？","If I'm allowed to stay cool for a sec──
+Well, it's because I'm your partner, no?"
+1007003040330,結華,"あはっ、その自称最高！
+いいねーＰたん、わかってるねぇ","Pff! Giving yourself permission?!
+Nice one, P-tan! Now you're getting it!"
+1007003040340,結華,理解ある相棒を持てて三峰は幸せだよ、うん,"Yup. Mitsumine sure is lucky to have such an
+understanding partner."
+0000000000000,プロデューサー,それはこちらこそだ,Right back at you.
+1007003040350,結華,"……でもさ。『かっこつけていいなら』なんて
+予防線張らなくていいのよ？","But hey, next time, don't give yourself permission
+to say what you really want to say, okay?"
+1007003040360,結華,もっと自信持って！,Have some spine!
+1007003040370,結華,"三峰に色々言う割に、プロデューサーも大概
+謙遜しがちなんだから","For all the things you say to Mitsumine, you're
+actually pretty quick to downplay yourself too."
+1007003040380,結華,自慢のプロデューサーなんだよ？　ね！,"Aren't you my one and only producer?
+You should own it!"
+0000000000000,プロデューサー,──,──
+0000000000000,プロデューサー,"……ともあれ、だ
+頼ってくれてありがとう","Anyways...
+Thanks for opening up to me."
+1007003040390,結華,"うっわ
+そこは流してよ、もう","Ugh...
+You didn't have to bring that up again, jeez..."
+1007003040400,結華,"三峰的にそこはさらっと触れずにおきたいところじゃん？
+プロデューサーならわかるでしょ？","Shouldn't you know by now that Mitsumine doesn't
+want to make a big deal out of stuff?"
+0000000000000,プロデューサー,"ああ、まぁ──うん
+それはそうなんだけど","Mmm, yeah.
+I am well aware, but still..."
+0000000000000,プロデューサー,"やっぱり嬉しくてな、言わずにはいられなかった
+すまん","I was so happy you actually opened up, I couldn't
+keep it inside. Sorry..."
+1007003040410,結華,…………,.........
+1007003040420,結華,──はぁ……！,──Haa...
+1007003040430,結華,"うちのＰたんはこういう人でしたね、ええ……！
+素直すぎて困っちゃう","Yup...! That's classic P-tan for you...
+That level of sincerity is just too much."
+1007003040440,結華,"──どういたしまして！
+これからもどうぞ頼らせてよねー","──But I'll be sure to come to you from now on!
+So you better be ready for me!"
+info,produce_events/100700304.json,
+Translator,Lewdacriz,

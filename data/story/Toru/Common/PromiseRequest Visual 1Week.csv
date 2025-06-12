@@ -1,0 +1,17 @@
+id,name,text,trans
+202000100230010,透,"メイク薄いよって言われたんだよね
+──お母さんが言うなって感じだけど","They told me I was barely wearing any makeup.
+──Honestly, it felt like something my mom would say."
+202000100230020,透,"一応、ビジュアルレッスン入れたいんだけど
+一週間後どうかな","Just in case, I'd like to take visual lessons next 
+week. If you're fine with that."
+select,,いいよ,Sure.
+select,,ごめん,Sorry.
+202000100990010,透,"あ、いいの？
+ふふっ、ありがと","Oh, really?
+Heheh, thanks."
+202000100990020,透,"あ、うん。わかってたよ
+……ごめんね、急に","Ah, okay. Got it.
+...Sorry for asking out of nowhere."
+info,produce_communications_promises/20200010023.json,
+Translator,,
