@@ -1,12 +1,12 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（甜花、寝不足みたいだったから
 車で少し休んでもらったけど……）","(Looks like Tenka didn't get enough sleep, so she
-napped a little in the car, but...)"
+napped a little in the car... but...)"
 0000000000000,プロデューサー,（大丈夫かな……）,(I hope she'll be okay...)
-0000000000000,カメラマン,撮りまーす,"Okay, taking the picture～"
+0000000000000,カメラマン,撮りまーす,Okay... taking the picture～
 0000000000000,カメラマン,もう一枚行くよ～,And one more～
 0000000000000,カメラマン,"はい確認しまーす……
-……ＯＫ、ばっちりです","Alright, checking the pictures...
+……ＯＫ、ばっちりです","Alright... checking the pictures...
 ...Cool, they look perfect."
 2015019110010,甜花,ありがとう、ございました……！,Thank you... very much......!
 0000000000000,スタッフ,"お疲れ様です
@@ -49,7 +49,7 @@ performance. Eat as much as you like."
 いただきます……",Nihehe...... Thanks for the food......
 0000000000000,プロデューサー,"……あのさ
 今朝、車で話したことだけど","...Hey, we were talking about it in the car this
-morning, but..."
+morning... but..."
 2015019110120,甜花,……？,......?
 0000000000000,プロデューサー,"夜ふかしだってさ
 楽しいとつい遊び過ぎちゃったりもするよな","When you stay up late, sometimes you just forget
@@ -91,6 +91,6 @@ support you in any way I can!"
 2015019110200,甜花,"ウニクリームソーダ……
 頼んで、いい……？",Can Tenka get... the sea urchin cream soda......?
 0000000000000,プロデューサー,"おう
-もちろんだ","Ooh, of course you can."
+もちろんだ",OOh... of course you can.
 info,produce_events/201501911.json,
 Translator,kotonekotoP,

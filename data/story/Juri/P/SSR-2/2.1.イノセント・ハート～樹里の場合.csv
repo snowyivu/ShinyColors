@@ -9,8 +9,8 @@ Are you going to take those straps? Thank god..."
 なんでそうなるんだよ！","I AM... NOT!!
 Why did you assume that!?"
 0000000000000,プロデューサー,"え？　そうなのか……？
-ずっと見てたから、欲しいのかと……","Eh? You're not...?
-You've been staring at them so I thought you wanted one..."
+ずっと見てたから、欲しいのかと……","Eh? You're not...? You've been staring at them, 
+so I thought you wanted one..."
 2011006010050,樹里,"や、別にアタシはなんでタマネギなのか
 気になっただけだし──",I-I was just curious why there are onion straps...
 2011006010060,樹里,…………まぁいいか……,...Oh well...
@@ -18,10 +18,11 @@ You've been staring at them so I thought you wanted one..."
 しかも、こんなにたくさん……","Anyway, why do you have these things? 
 And why this many...?"
 0000000000000,プロデューサー,"コンビニで買った
-栄養ドリンクのおまけについてきたんだよ","I got them from the convinience store.
+栄養ドリンクのおまけについてきたんだよ","I got them from the convenience store.
 They're freebies that came with the energy drinks."
 0000000000000,プロデューサー,"事務所に置いておいたら
-誰かが持っていってくれるかと思ったんだが──",I thought if I brought them to the office maybe someone could take them home...
+誰かが持っていってくれるかと思ったんだが──","I thought if I brought them to the office, 
+maybe someone could take them home..."
 0000000000000,プロデューサー,実は、３日もここに放置されてるんだ,"But sadly, they have stayed there for 3 days..."
 2011006010080,樹里,……お、おー,O-Oh...
 0000000000000,プロデューサー,"というわけで樹里
@@ -29,11 +30,12 @@ They're freebies that came with the energy drinks."
 Just take whichever you want."
 2011006010090,樹里,え、や……だからいいって,Huh? Nah... I'm good.
 2011006010100,樹里,"それにこういうキャラクターもののストラップとか……
-アタシには似合わねーし……","Besides, these kinds of character straps don't suit me anyway..."
+アタシには似合わねーし……","Besides, these kinds of character straps don't suit 
+me anyway..."
 0000000000000,プロデューサー,いやいや、そんなことはないぞ,"No no no, that's not the case!"
 0000000000000,プロデューサー,"……でも、そうか
 樹里もいらないとなると……","...But, hmm...
-If you you don't need them, then..."
+If you don't need them, then..."
 select,,"もう捨てるしか
 ないのか……","I'll have to throw
 them away huh..."
@@ -101,18 +103,20 @@ You know, those cuties..."
 アタシがもらう！",I'll take them then!
 0000000000000,プロデューサー,……えっ,Eh?
 0000000000000,プロデューサー,"それは……すごく助かるが……
-急にどうしたんだ……？","That's really helpful but...
+急にどうしたんだ……？","That's really helpful, but...
 Why all of the sudden...?"
 2011006010290,樹里,"別に……アンタがこんな可愛いストラップを
 じゃらじゃらつけてたら","Nothing...
 It's just that, if you walk around with these cute straps,"
 2011006010300,樹里,"おもしろプロデューサーとして
-有名になっちまうと思っただけだよ",You're gonna be known as that one funny producer for sure.
+有名になっちまうと思っただけだよ","You're gonna be known as that one funny producer 
+for sure."
 0000000000000,プロデューサー,"おもしろって……
 そ、そうか……！？","Funny...
 I-Is that so...!?"
 2011006010310,樹里,そーだよ,Yeah.
 2011006010320,樹里,"……アンタの代わりに、アタシが責任を持って使うから
-安心しろよな","...I'll take the responsibilty and use them in your place, so don't worry."
+安心しろよな","...I'll take the responsibilty and use them in your 
+place, so don't worry."
 info,produce_events/201100601.json,
 Translator,,

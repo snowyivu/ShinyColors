@@ -1,0 +1,18 @@
+id,name,text,trans
+200700100320010,結華,"プロデューサープロデューサー、ちょっと相談なんだけど
+……この前習った振り付けがね？　あんま上手くいかなくて","Producer, Producer! I wanted to talk to you about
+something... That new choreography we got? It's
+giving me some trouble..."
+200700100320020,結華,"二週間後にダンスレッスン入れてもらえたらなーなんて……
+……どうかな？","Sooo, maybe you could schedule a dance lesson two
+weeks from now? ...How about it?"
+select,,いいよ,Sure.
+select,,ごめん,Sorry.
+200700100990010,結華,"さっすが！　プロデューサーは話が分かる男だなぁ
+そんじゃよろしくね！　頼みましたよっ","Just as I hoped! You're the type who gets it,
+Producer. Thanks! I'm counting on you."
+200700100990020,結華,"おっと、ダメか。……ざーんねん
+三峰了解いたしましたー","Uh-oh, I guess not... Oh well.
+Mitsumine hears you loud and clear."
+info,produce_communications_promises/20070010032.json,
+Translator,,

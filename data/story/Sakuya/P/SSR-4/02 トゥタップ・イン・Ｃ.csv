@@ -25,9 +25,12 @@ Someone's humming?"
 2006010020060,咲耶,"と……
 プロデューサー────","Oh...
 Producer ──"
-select,,──いい声だな,── Your voice sounds lovely.
-select,,──いい天気だよな,── Isn't the weather great?
-select,,珍しいな,Isn't this unusual.
+select,,──いい声だな,"── Your voice
+sounds lovely."
+select,,──いい天気だよな,"── Isn't the
+weather great?"
+select,,珍しいな,"Isn't this
+unusual?"
 0000000000000,プロデューサー,──いい声だな,── Your voice sounds lovely.
 2006010020070,咲耶,"……急に背後を脅かすなんて
 趣味がいいとは言えないな","...It's not very becoming to sneak up on people like 

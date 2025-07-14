@@ -2,7 +2,7 @@ id,name,text,trans
 3015004030010,甜花,お、お待たせ……,Th-Thanks for waiting......
 3015004030020,甘奈,"あ、甜花ちゃん！
 よしっ、これでみんな揃ったね","There you are, Tenka-chan!
-Alright, that's everyone then."
+Alright... that's everyone then."
 3015004030030,千雪,それじゃあ、今日はこの間行けなかったお店に行きましょうか,"Now then, let's head to those stores we couldn't get
 to before."
 3015004030040,甘奈,"うん！
@@ -17,7 +17,7 @@ Let's take our time today, okay?"
 3015004030070,千雪,今日はかわいいお洋服が見つかるといいですね♪,I hope we can find some nice clothes for you♪
 3015004030080,甜花,……うん……,......Mhmm......
 3015004030090,甘奈,"よーしっ、じゃあとりあえず、
-お店に入ってみよー","Alright, let's head into one of the stores!"
+お店に入ってみよー",Alright... let's head into one of the stores!
 3015004030100,甜花,お、おー……？,W-Woo......?
 3015004030110,千雪,ふふ、おー♪,"Fufu, Wooo♪"
 3015004030120,甜花,やっぱり……わかんなかった……,Tenka... still doesn't get it......
@@ -32,7 +32,7 @@ I'm sure you'll be able to find them too, Tenka-chan!"
 *sigh*......"
 3015004030160,甘奈,あれっ、どうしたの甜花ちゃん？,"Hm? What's wrong, Tenka-chan?"
 3015004030170,甘奈,"……あっ、もしかして、甘奈また張り切りすぎちゃった？
-疲れさせちゃったかなぁ……？","...Oh, did I get too ahead of myself again?
+疲れさせちゃったかなぁ……？","...Oh... did I get too ahead of myself again?
 Sorry if you're worn out again..."
 3015004030180,甜花,"う、ううん……
 そんなことない……けど……",N-No...... that's not it... but......
@@ -44,7 +44,7 @@ on any clothes......"
 甜花、ちゃんと選べなくて……","You even picked out... so much for Tenka to look at......
 But... she still couldn't make a decision......"
 3015004030220,千雪,"そんなことないですよ
-甜花ちゃんと一緒にお洋服を見られるだけで楽しいですから♪","Oh, don't worry about it at all.
+甜花ちゃんと一緒にお洋服を見られるだけで楽しいですから♪","Oh... don't worry about it at all.
 This is enough fun on it's own, you know♪"
 3015004030230,甘奈,そうだよー！,"Yeah, what she said!"
 3015004030240,甘奈,"だって甘奈たちはファンのみんなも見れないような、
@@ -63,7 +63,7 @@ She really can't be... fashionable at all......"
 自分の服……すぐに、決められるよね……？","I mean...... you both find the clothes you like...
 super quickly... don't you......?"
 3015004030310,甘奈,"うーん、甘奈は結構決めるの早いかもしれないけど
-でも迷うときだってあるから、全然普通だよ！","Hmm... Well, I do find my clothes quickly, but that
+でも迷うときだってあるから、全然普通だよ！","Hmm... Well, I do find my clothes quickly... but that
 doesn't mean I don't struggle, it's completely normal!"
 3015004030320,甜花,そうなの、かな……？,Are you... sure......?
 3015004030330,甜花,"普通、とか……
@@ -81,10 +81,10 @@ said, and I think it's confusing her."
 all of your clothes for you."
 3015004030390,甘奈,もっと選び方とか話せばよかったのかもしれないね,"Maybe I should have been telling you why I pick what I
 pick."
-3015004030400,甜花,うん……えっと、それも知りたい、けど……,"Yeah... Tenka wants... to know that too, but......"
+3015004030400,甜花,うん……えっと、それも知りたい、けど……,Yeah... Tenka wants... to know that too... but......
 3015004030410,甜花,で、でも……ふたりが見てくれないと……,B-But...... if you still pick it all out......
 3015004030420,甜花,"甜花、いい服とか、似合ってるとか、そんなの……
-ぜんぜん、わかんないから……","Tenka doesn't really know... what looks good on her,
+ぜんぜん、わかんないから……","Tenka doesn't really know... what looks good on her...
 what clothes are nice... and stuff......"
 3015004030430,甜花,"いっしょに、服……
 見てくれると、うれしいな……",Tenka wants to... look for clothes... together......
@@ -125,7 +125,7 @@ Do you remember where that store was?"
 あっちのほう……","Umm......
 Over in... that direction......"
 3015004030600,甘奈,"じゃあ行ってみよっか！
-ね、甜花ちゃん、千雪さん！","Alright, let's get going!
+ね、甜花ちゃん、千雪さん！","Alright... let's get going!
 Come on, Tenka-chan, Chiyuki-san!"
 info,produce_events/301500403.json,
 Translator,,

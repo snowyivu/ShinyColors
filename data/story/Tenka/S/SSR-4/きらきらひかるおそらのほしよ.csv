@@ -10,8 +10,8 @@ id,name,text,trans
 3015008030060,甘奈,"えへへ、仔馬座さんも
 すっごくかっこよかったけど……","Ehehe, the little horsie was also pretty cool..."
 3015008030070,甘奈,"あの時の甜花ちゃん、
-ほんとにかっこよかったなぁ……",But Tenka-chan was really cool too...
-3015008030080,甜花,そ、そんなこと……,Th-that's not......
+ほんとにかっこよかったなぁ……","But you were really cool too, Tenka-chan..."
+3015008030080,甜花,そ、そんなこと……,Th-That's not......
 3015008030090,千雪,"うん
 ちょっと危なかったけど──","Yeah, albeit it was a bit dangerous──"
 3015008030100,千雪,"飛び出していけたのは、甜花ちゃんのおかげだって
@@ -47,7 +47,7 @@ windows... Fufu."
 3015008030250,甘奈,"えへへ……
 そうだったね……えへへっ","Ehehe...
 That's a good one... Ehehe."
-3015008030260,甘奈,──……甜花ちゃんも、仔馬さんもすごかったけど……,"──...You two were really amazing, but..."
+3015008030260,甘奈,──……甜花ちゃんも、仔馬さんもすごかったけど……,──...You two were really amazing... but...
 3015008030270,甘奈,雑用係さんも、大活躍だったね！,Doing those chores was a lot of work!
 3015008030280,千雪,うん。いろいろお世話になっちゃった,Yeah. Thank you for all of your hard work.
 3015008030290,千雪,"あの時もそうだし……
@@ -69,21 +69,21 @@ Chiyuki-san?"
 3015008030370,千雪,もう～,Jeez～
 3015008030380,千雪,"甘奈ちゃんも私も、
 その時はキャラメルしか食べてなくて、つい……","All we did is have a little bit of caramel, that's all..."
-3015008030390,千雪,──あ、キャラメル！,"──Oh, caramel!"
+3015008030390,千雪,──あ、キャラメル！,──Oh... caramel!
 3015008030400,甜花,キャラメル……？,Caramel...?
 3015008030410,甘奈,"そうだった！
 旅の記念にって、お別れの時にもらったの！","Right! We got some from him to commemorate our
 journey!"
 3015008030420,甘奈,すっごく美味しいキャラメルで……,It was super yummy...
-3015008030430,甜花,すっごく……美味しい……！,"And... just, super super yummy...!"
+3015008030430,甜花,すっごく……美味しい……！,And... just... super super yummy...!
 3015008030440,甘奈,"今度は甜花ちゃんも一緒に食べよ☆
 ほら、手出して──","Let's have some together right now☆
 Here, hold out your hand──"
 3015008030450,甜花,う、うん……！,S-Sure......!
-3015008030460,甘奈,はい、千雪さんも！,"Okay, you too, Chiyuki-san!"
+3015008030460,甘奈,はい、千雪さんも！,"Okay... you too, Chiyuki-san!"
 3015008030470,千雪,ふふ、ありがとう,"Fufu, thanks."
 3015008030480,甘奈,"じゃ、いただきまーす……
-……んー！　あまーい☆","Alright, time to eat...
+……んー！　あまーい☆","Alright... time to eat...
 ...Mmmh! It's so sweet☆"
 3015008030490,千雪,うん、甘い……,Yeah... It's sweet......
 3015008030500,甜花,……美味しい……,......It's yummy......
@@ -106,7 +106,7 @@ but..."
 3015008030610,甘奈,でも、天の川の中、ワープしたんだよ！？,"We warped into the center of the milky way, didn't
 we!?"
 3015008030620,甘奈,"外から見るだけじゃなくて、
-星のトンネルを突き抜けるみたいに──","We didn't see from the outside, but it was like we
+星のトンネルを突き抜けるみたいに──","We didn't see from the outside... but it was like we
 went through a tunnel of stars──"
 3015008030630,甘奈,こんなの、普通の旅行じゃなかなかできないよっ！,This wasn't any ordinary trip!
 3015008030640,千雪,"そうね。とっても……
@@ -135,7 +135,7 @@ Okay......!"
 3015008030790,甜花,あなたは……──,You're......──
 3015008030800,甜花,"にへへ……
 お星さまは……仔馬座さん……","Nihehe......
-The stars are... the star horsie-san......"
+The stars are... Equeeleus-san......"
 3015008030810,甜花,"甜花の……
 お星さまの歌……",Tenka's very own... star song......
 info,produce_events/301500803.json,

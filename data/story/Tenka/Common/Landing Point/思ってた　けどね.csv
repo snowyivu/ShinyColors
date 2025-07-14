@@ -2,7 +2,7 @@ id,name,text,trans
 1015004040010,甜花,"『今日
 レッスン行くことにしました』","""Tenka chose to go to lessons today"""
 1015004040020,甜花,『今から２時間くらい』,"""About 2 hours from now"""
-1015004040030,甜花,『プロデューサーさんは？』,"""What about you, Producer-san?"""
+1015004040030,甜花,『プロデューサーさんは？』,"""What about you... Producer-san?"""
 1015004040040,甜花,『来る？』,"""Wanna come?"""
 0,プロデューサー,"『すまん！　行けなさそうだ
 今日は仕事が立て込んでて』","""Sorry! Doesn't look like I can. I have a ton to do
@@ -22,7 +22,7 @@ today"""
 0,プロデューサー,（……甜花が頑張ってることは、わかってるんだ）,(...I know that she's trying her hardest.)
 0,プロデューサー,"（……わかってるからこそ
 頑張る甜花を心から応援したいと思ってるのに）","(...It's actually because I know that I want to support
-her so much, but..."""
+her so much... but..."""
 0,プロデューサー,──頑張れ,──Do your best.
 0,プロデューサー,"（これじゃあ
 甜花には、伝わらないのか……）","(So then, I guess I won't say it directly to her...)"

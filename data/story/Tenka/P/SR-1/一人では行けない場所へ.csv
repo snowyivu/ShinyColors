@@ -16,11 +16,11 @@ can."
 ……プロデューサーさん……コーヒー、飲む……？","Okay......
 ......Do you want... some coffee... Producer-san.....?"
 0000000000000,プロデューサー,"いや、甜花に淹れてもらうのは悪いから
-自分で淹れるよ","Oh, you shouldn't have to get it for me. I can do it,
+自分で淹れるよ","Oh... you shouldn't have to get it for me. I can do it,
 don't worry."
 2015003110040,甜花,"いいよ……気分転換……
 プロデューサーさん、待ってて……","It's okay... it'll be a change of pace......
-Wait there, Producer-san......"
+Wait there... Producer-san......"
 0000000000000,プロデューサー,"そうか
 じゃあ、お願いしようかな","Alright then.
 I have high hopes."
@@ -28,7 +28,7 @@ I have high hopes."
 頑張って、淹れるね……","......Okay.
 Tenka's gonna... do her best pouring it......"
 2015003110060,甜花,はい、できたよ……,Okay... It's all done......
-0000000000000,プロデューサー,おお、ありがとう,"Oooh, thank you."
+0000000000000,プロデューサー,おお、ありがとう,OoOh... thank you.
 2015003110070,甜花,えっと、あの……濃すぎたりとか、しない……？,Uhh... Umm... it's not too strong... is it.....?
 0000000000000,プロデューサー,"うん、美味いぞ。しかし、甜花に
 コーヒーを淹れてもらえるなんて、不思議な感じだ","Not at all, it tastes great. I will say though, it feels
@@ -47,7 +47,7 @@ okay? Let me know if it's too much."
 2015003110100,甜花,"うん……そのときは、そうするね……
 でも今は……楽しいから……大丈夫……","Yeah...... Tenka'll let you know... if that happens......
 But right now... she's having fun... so she's okay......"
-2015003110110,甜花,……ね、プロデューサーさん,"......Hey, Producer-san......"
+2015003110110,甜花,……ね、プロデューサーさん,......Hey... Producer-san......
 2015003110120,甜花,"甜花を、アイドルにしてくれて……
 ありがとう……",Thanks for... making Tenka... an idol......
 0000000000000,プロデューサー,ん？　どうしたんだ、急に？,Hm? Why are you bringing this up now?
@@ -60,7 +60,7 @@ She couldn't... talk to you... like this......"
 I've only helped out a little."
 2015003110150,甜花,"ううん……甜花が、ここまで来られたのは……
 きっと、プロデューサーさんが、いてくれたから……","No...... the only reason that... Tenka could make it this
-far... is because of you, Producer-san......"
+far... is because of you... Producer-san......"
 2015003110160,甜花,"プロデューサーさんがいなかったら……甜花は……
 転んでも……起き上がれなかった……","If Tenka didn't have you here... then... she wouldn't be
 able to get up when she fell......"
@@ -88,14 +88,14 @@ have been able to continue being an idol......"
 だから……レッスンも、お仕事も……頑張る……","Tenka wants... to make her fans happy...... so... she's
 gonna work hard... in her lessons and her work......"
 2015003110230,甜花,"……でも、一番は……プロデューサーさんに、
-もっと、もっと……甜花の成長を、見ててほしい……","......But, more than anything else...... Tenka wants
+もっと、もっと……甜花の成長を、見ててほしい……","......But... more than anything else...... Tenka wants
 you... to see her grow... more and more......"
 2015003110240,甜花,きっと、プロデューサーさんと、一緒なら……,If Tenka... is together with you......
 2015003110250,甜花,"甜花ひとりじゃ……絶対、行けないところ……
 行ける、気がするから……","Tenka feels like... she can definitely go to places...
 that she couldn't go to alone......"
 2015003110260,甜花,"だから、ずっと、ずっと……
-一緒に……いてほしい……な","So... she wants... to be together...... forever, and ever......"
+一緒に……いてほしい……な",So... she wants... to be together...... forever... and ever......
 0000000000000,プロデューサー,"ああ
 俺も甜花の成長をずっと見ていたいよ","Of course.
 And I want to see you grow too."

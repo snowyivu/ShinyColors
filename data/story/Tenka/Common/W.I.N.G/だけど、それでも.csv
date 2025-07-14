@@ -1,7 +1,7 @@
 id,name,text,trans
 0000000000000,プロデューサー,"（甜花に自信をつけられたらと、
 学園ドラマのエキストラの仕事を取ってきたが……）","(To make Tenka more confident in herself,
-we got her a role in a school drama as an extra, but...)"
+we got her a role in a school drama as an extra... but...)"
 1015001030010,甜花,えっと……あの……,Uh...... Ummm......
 1015001030020,甜花,"あ、あ、えっと……
 ……お昼ご飯……えっと……？","Ummm...
@@ -34,8 +34,8 @@ What's making you say that so suddenly?"
 begun. Why not try doing your best just a little
 bit more?"
 1015001030080,甜花,"なーちゃんたちや、プロデューサーさんは……
-甜花のこと、励ましてくれるけど……","Naa-chan, Producer, and everyone else...
-Always cheer Tenka up, but......"
+甜花のこと、励ましてくれるけど……","Naa-chan... Producer... and everyone else......
+always cheer Tenka up... but......"
 1015001030090,甜花,"なんで、甜花のこと……
 応援してくれるか……わかんない……","She... doesn't understand why......
 you all keep...... supporting her......"
@@ -53,17 +53,17 @@ She just causes issues for everyone......"
 1015001030140,甜花,"アイドルって……みんな、すごいのに……
 甜花は全然……","All of the other idols...... are so amazing......
 While Tenka isn't at all......"
-1015001030150,甜花,やっぱり、甜花にアイドルなんて……無理……,"Tenka knew it, being an idol...... is impossible......"
+1015001030150,甜花,やっぱり、甜花にアイドルなんて……無理……,Tenka knew it...... being an idol... is impossible......
 0000000000000,プロデューサー,"（甜花は自信を失くしてるな……
 何か声をかけてやらないと）","(I didn't realize Tenka was losing her confidence...
 I have to say something to her.)"
 select,,"甜花は磨けば
-光る子なんだ","If you keeps
+光る子なんだ","If you keep
 polishing yourself
 you'll shine bright."
 select,,"「何もできない」は
-嘘だな","""Impossible""
-is a lie, isn't it?"
+嘘だな","Isn't it a lie to say
+it's ""impossible""?"
 select,,"困らせたって
 いいじゃないか","It's fine to
 trouble others"
@@ -72,7 +72,7 @@ trouble others"
 Tenka...... works so hard...... and she still......"
 0000000000000,プロデューサー,"今はまだ、できないことがたくさんあるかもしれないけど、
 甜花には甜花だけの魅力があるんだ","Until now, there were a lot of things you couldn't
-do yet, but you've got your own charm too."
+do yet... but you've got your own charm too."
 0000000000000,プロデューサー,そのことは、甜花をアイドルにした俺が保証するよ,"And because of that, I can assure you that you are
 an idol."
 0000000000000,プロデューサー,"それに、ずっと甜花を見てきた甘奈に聞いてみても、
@@ -96,14 +96,14 @@ Tenka...... doesn't really understand......"
 が、頑張ってみるね……","T-Tenka will do her best......
 one more time......"
 1015001030210,甜花,"甜花……嘘つきじゃないよ……
-お仕事……失敗ばっかりだし……","She...... isn't lying...
-She...... only ever messes up at work......"
+お仕事……失敗ばっかりだし……","Tenka... isn't lying......
+She only ever... messes up at work......"
 0000000000000,プロデューサー,"そうか？　
 甜花はダンスも歌もできてるじゃないか","You think so?
 But you can sing and dance, right?"
 1015001030220,甜花,"そんなこと……
-なーちゃんたちに比べたら、全然……","Sure, but......
-Compared to Naa-chan and others, she can't at all......"
+なーちゃんたちに比べたら、全然……","Sure... but......
+Compared to Naa-chan and others... she can't at all......"
 0000000000000,プロデューサー,"それでも、始めた頃に比べたら
 できるようになってきただろ？","Still, compared to when you started,
 you've gotten better at it, right?"
@@ -114,14 +114,15 @@ and you've been growing at your own pace. "
 だからみんな応援したくなるし、甜花を見ていたくなるんだ","And you've been putting a ton of effort in, yeah?
 That's why everyone wants to support you and look
 over you."
-1015001030230,甜花,がんばるの、本当は苦手……,"Working hard, isn't something Tenka's really good at..."
+1015001030230,甜花,がんばるの、本当は苦手……,"Working hard... isn't something Tenka's really good
+at......"
 1015001030240,甜花,"でもそう言ってくれるなら……
 もう少しだけ……諦めないで、頑張ってみる……ね","But if you say so... Tenka will......
 do her best... and try not to give up......"
-1015001030250,甜花,プロデューサーさん、ありがとう……,"Thank you, Producer-san......"
+1015001030250,甜花,プロデューサーさん、ありがとう……,Thank you... Producer-san......
 0000000000000,プロデューサー,困らせたっていいじゃないか,It's fine to trouble others
 1015001030260,甜花,"え……でも、甜花が困らせると……
-みんな、大変になっちゃう……","Huh...... But, if Tenka troubles everyone......
+みんな、大変になっちゃう……","Huh...... But... if Tenka troubles everyone......
 It'll cause problems for them......"
 0000000000000,プロデューサー,"自分にできないことを知ってるのはいいことだと思う
 でも、それで臆病になっちゃダメだ","It's good to know what you can't do by yourself.
@@ -134,17 +135,16 @@ past it."
 できるようになるまで、力を借りればいいんじゃないか？","Don't worry about being a bother... Don't you think 
 it's okay to ask for help until you can do it yourself?"
 1015001030270,甜花,"……そっか
-頼っても……いいんだ……","......okay
+頼っても……いいんだ……","......Got it.
 It's okay...... To ask for help......"
 1015001030280,甜花,"プロデューサーさん……甜花、
-きっとひとりでも、頑張れるようになるから……","Producer-san...... Even if she's on her own...
-Tenka will try to do her best......"
+きっとひとりでも、頑張れるようになるから……","Producer-san... Even if Tenka's on her own...
+She will try to do her best......"
 1015001030290,甜花,"もうちょっとだけ……甜花のこと……
-見ててね……","Please...... look after Tenka......
-just a little bit longer......"
+見ててね……",Please watch Tenka... a little longer......
 0000000000000,プロデューサー,ああ、もちろんだ！,"Yeah, of course!"
 1015001030300,甜花,"にへへ……
 じゃあ甜花、頑張ってくるね……！","Nihehe......
-Alright, Tenka will do her best......!"
+Alright... Tenka will do her best......!"
 info,produce_events/101500103.json,
 Translator,,

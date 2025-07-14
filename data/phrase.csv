@@ -342,7 +342,7 @@ fes.fesDeckView.title,確認,Confirm
 fes.fesDeckView.message,このアイドルは既に移籍済みのため\n詳細を確認できませんでした,This idol has already been transferred. \r\nCould not view details. 
 fes.fesIdolSelect.title,%{positionName}選択,Select %{positionName}
 fes.fesIdolSelect.confirmationTitle,%{positionName}入替,Replace %{positionName}
-fes.skillChange.description,ライブスキルを\n2つ選択してください,Please select\r\n2 Live Skills. 
+fes.skillChange.description,ライブスキルを\n2つ選択してください,Please select\n2 Live Skills. 
 fes.fesPositionName.vocal,ボーカル,Vocal
 fes.fesPositionName.dance,ダンス,Dance
 fes.fesPositionName.visual,ビジュアル,Visual
@@ -2202,7 +2202,7 @@ jointFes.ranking.announceRankingType.group,グループ\n順位,Group\nRank
 jointFes.ranking.announceRankingType.event_point,ポイント\n順位,Point\nRank
 jointFes.ranking.stageSelect.title,ステージ選択,Stage Select
 jointFes.ready.title,マッチライブ詳細,Match Live Details
-jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,%{consumedFesTicket} Fes Entries will be used.
+jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,Uses %{consumedFesTicket}
 jointFes.ready.unitEmptyPop.title,確認,Confirm
 jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,"Match Live Unit is empty,\nLive cannot start."
 jointFes.seasonChange.title,マッチライブ更新,Match Live Update
@@ -2751,7 +2751,7 @@ ending.skillChangePop.changedSuccessComment,スキル変更しました,Skill(s)
 ending.skillChangePop.changedComment,スキル変更済みです,Skill(s) have changed
 errorDialog.screenshot.title,撮影失敗,撮影失敗
 errorDialog.screenshot.text,撮影、または保存に失敗しました,撮影、または保存に失敗しました
-eventPoint.characterQuestionAndAnswer.50042,ローズpt,Rose Pts
+eventPoint.characterQuestionAndAnswer.50042,ローズpt,Rose pts
 exchangeItem.specialFesConcertTicket.original,フェスチケット,Fes Ticket
 exchangeItem.specialFesConcertTicket.simple,チケット,Ticket
 exchangeItem.deleteIndividuality.original,ノウハウブック編集アイテム,Know-How Book Edit Items
@@ -2886,7 +2886,7 @@ produceReady.produceAreaAttension.produceTitle.6th_produce_area,"say ""Halo""","
 shop.shopItem.ticketExchangeShopTitle,アイドルを選ぶ,Select an Idol
 shop.packageDialog.itemNoticeText.presentEventItem,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません\n期間中のみリサイクルショップでリカバリーソーダ100と交換できます,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません\n期間中のみリサイクルショップでリカバリーソーダ100と交換できます
 shop.packageDialog.itemNoticeText.presentEventItemWithoutRecovery,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません,以下のアイテムで解放できるスペシャルコミュは各１つのみです\nすでにスペシャルコミュが解放済みの場合、同名アイテムは使用できません
-shop.purchasedCountLabelText.ticketExchangeShop,残アイドル数,残アイドル数
+shop.purchasedCountLabelText.ticketExchangeShop,残アイドル数,Idols Left
 shop.purchasedCountLabelText.uncountable,購入数,Purchase Quantity
 shop.vipPoint.purchaseResultTitle,VIPポイント獲得,Earn VIP Points
 shop.vipPoint.soldOutPop.title,確認,Confirm
@@ -2895,13 +2895,49 @@ decorationEvent.confirmationTitle,再生確認,再生確認
 decorationEvent.decorationComment,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？
 decorationEvent.donationComment,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？
 decorationEvent.presentComment,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？
-decorationEvent.characterSelectPop.itemNameText.decoration,【’24Xmas】飾り付け 所持数 :,【’24Xmas】飾り付け 所持数 :
-decorationEvent.characterSelectPop.itemNameText.present,【’24Xmas】プレゼント所持数:,【’24Xmas】プレゼント所持数:
-decorationEvent.characterSelectPop.itemNameTextValentine2025.decoration,【’25VD】差し入れ 所持数 :,【’25VD】差し入れ 所持数 :
-decorationEvent.characterSelectPop.itemNameTextValentine2025.present,【’25VD】プレゼント所持数:,【’25VD】プレゼント所持数:
+decorationEvent.characterSelectPop.itemNameText.decoration,【’24Xmas】飾り付け 所持数 :,【’24Xmas】Decor Owned:
+decorationEvent.characterSelectPop.itemNameText.present,【’24Xmas】プレゼント所持数:,【’24Xmas】Presents Owned:
+decorationEvent.characterSelectPop.itemNameTextValentine2025.decoration,【’25VD】差し入れ 所持数 :,【’25VD】Gifts Owned:
+decorationEvent.characterSelectPop.itemNameTextValentine2025.present,【’25VD】プレゼント所持数:,【’25VD】Presents Owned:
 twitter.personalLimitRateDialog.title,利用回数制限エラー,利用回数制限エラー
 twitter.personalLimitRateDialog.description,連携している外部サービスの利用回数制限を越えました\n\nしばらく時間をおいてから再度お試しください,連携している外部サービスの利用回数制限を越えました\n\nしばらく時間をおいてから再度お試しください
 autoPlay.settingContentLabel,オート%{number},Auto %{number}
 daifugo.cardEffect.nine_reverse,9リバース,9 Reverse
 daifugo.cardEffect.ten_drop,10捨て,10 Drop
 daifugo.cardEffect.queen_bomber,クイーンボンバー,Queen Bomber
+filter.categories.lessonCard,アドバイス,Advice
+filter.categories.othersIdol,その他,Other
+characterQuestionAndAnswer.heldAt,%{closeAt}まで,Until %{closeAt}
+characterQuestionAndAnswer.answerReleaseRestart,%{releaseOpenAt}以降にアルバムの鍵で解放,Unlock with Album Key after %{releaseOpenAt}
+characterQuestionAndAnswer.voteClosedDialog.title,イベント終了,Event Over
+characterQuestionAndAnswer.voteClosedDialog.text,投票は締め切られています,Voting period has ended
+characterQuestionAndAnswer.giveGiftClosedDialog.title,イベント終了,Event Over
+characterQuestionAndAnswer.giveGiftClosedDialog.text,イベント期間は終了しています,The event has ended
+characterQuestionAndAnswer.answerReleaseClosedDialog.title,イベント終了,Event Over
+characterQuestionAndAnswer.answerReleaseClosedDialog.text,イベントは終了しています\n%{openAt}以降にアルバムの鍵で解放できます,イベントは終了しています\n%{openAt}以降にアルバムの鍵で解放できます
+characterQuestionAndAnswer.answerOpenDialog.title,回答解放,Unlock Answer
+characterQuestionAndAnswer.answerOpenDialog.text,%{currencyName}を消費して\n以下の質問の回答を解放しますか?,Spend %{currencyName} to unlock\nthe answer to the question?
+characterQuestionAndAnswer.answerOpenDialog.useItemText,以下のアイテムを使用して\n回答を解放しますか?,Unlock the answer by using the following item?
+characterQuestionAndAnswer.answerReleaseFailureDialog.title,回答解放,Unlock Answer
+characterQuestionAndAnswer.answerReleaseFailureDialog.itemNoneText,%{itemName}が足りません,No %{itemName} owned
+characterQuestionAndAnswer.answerReleaseFailureDialog.releasedText,すでに解放済みです,Already Unlocked
+characterQuestionAndAnswer.voteDialog.title,投票,Vote
+characterQuestionAndAnswer.voteDialog.text,%{name}に投票します,Vote for %{name}
+characterQuestionAndAnswer.voteDialog.unitNum,1票 %{unit}pt x,1票 %{unit}pt x
+characterQuestionAndAnswer.voteDialog.dailyLimitNun,%{remaining}票 / %{max}票,%{remaining} votes / %{max} votes
+characterQuestionAndAnswer.voteDialog.allVoteNum,%{num}票,%{num} votes
+characterQuestionAndAnswer.voteDialog.getGiftNotice,あと%{remaining}票で花束獲得(%{current}/%{max}),%{remaining} votes left until bouquet obtained (%{current}/%{max})
+characterQuestionAndAnswer.voteDialog.allGetGiftNotice,全ての花束を獲得しました,Obtained all bouquets
+characterQuestionAndAnswer.returnGiftDialog.title,報酬獲得,Earned Rewards
+characterQuestionAndAnswer.returnGiftDialog.message,%{name}\nを獲得しました,%{name}\nを獲得しました
+common.tenThousand,万,万
+common.oneHundredMillion,億,億
+common.oneTrillion,兆,兆
+eventPoint.characterQuestionAndAnswer.50052,ローズpt,Rose pts
+gameEvent.tapCounterEvent.effectNone,効果なし,No Effect
+gameEvent.tapCounterEvent.getOfflinePointPopTitle,イベント再開,イベント再開
+gameEvent.tapCounterEvent.nameOfPointByTap.50052,収穫力,Harvest Power
+gameEvent.adventureStoryEvent.50050.choiceConditionBalloon.conditionItem,「%{name}」所持で解放,「%{name}」所持で解放
+skillBord.releasedConditionsWithMemoryAppealLevel,思い出Lv.%{requiredMemoryAppealLevel}で解放,Unlocked at Memory Lv.%{requiredMemoryAppealLevel}
+skillBord.releasedConditionsWithMemoryAppealLevelAndEvolution,思い出Lv.%{requiredMemoryAppealLevel}、特訓%{evolutionStage}回目で解放,Unlocked at Memory Lv.%{requiredMemoryAppealLevel} and evolving %{evolutionStage} times
+jewelCounter.endedAtFormat,yyyy/mm/dd HH:MMまで,yyyy/mm/dd HH:MMまで

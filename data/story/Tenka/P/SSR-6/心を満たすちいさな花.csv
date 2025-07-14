@@ -29,7 +29,7 @@ Auu......"
 0000000000000,店員,──あのー……,──Umm...
 2015013110100,甜花,ひゃいっ……！,Yesh......?!
 0000000000000,店員,"ああっ、すみません
-随分長く迷われているみたいだったので……！","Ahh... I'm sorry to interrupt, but...
+随分長く迷われているみたいだったので……！","Ahh... I'm sorry to interrupt... but...
 It seemed like you've been troubled for a while now..."
 2015013110110,甜花,"あ──
 は、はい……","Ah──
@@ -37,7 +37,7 @@ Y-Yes......"
 0000000000000,店員,"お花……
 プレゼント用でしょうか？","Are you perhaps...
 buying flowers as a present?"
-2015013110120,甜花,……じ、じゃなくて……！,"......N-No, not really......!"
+2015013110120,甜花,……じ、じゃなくて……！,......N-No... not really......!
 0000000000000,店員,ご自宅用ですね？,So... for yourself?
 2015013110130,甜花,ご自宅用、です……！,Y-Yes... for myself......!
 2015013110140,甜花,────そ、その……,────U-Umm......
@@ -46,7 +46,7 @@ buying flowers as a present?"
 Can Tenka purchase your pink small flowers......?"
 2015013110160,甜花,"──を……
 全部の種類、ください……！","──Uh......
-All of the different types you have, please......!"
+All of the different types you have... please......!"
 0000000000000,店員,全部ですか……！？,All of them...!?
 2015013110170,甜花,全部です……！,All of them......!
 0000000000000,プロデューサー,──甜花！,──Tenka!
@@ -63,7 +63,7 @@ Went to buy flowers... anyways......!"
 お花、買ってもらったの……","......The flowers... that you bought for Tenka... the
 other day......"
 2015013110220,甜花,"なんか……
-すごく、よかったから……","She really... liked them, so......"
+すごく、よかったから……",She really... liked them... so......
 0000000000000,プロデューサー,はは、そうか,"Haha, is that so?"
 0000000000000,プロデューサー,"……それにしても
 随分たくさん買ったんだなあ","...But wow...
@@ -84,7 +84,7 @@ All of these flowers... fill Tenka's heart......!"
 でね……","Oh──
 So......"
 2015013110280,甜花,"ね、このお花……
-甜花に似合う……？","Hey, do these flowers......
+甜花に似合う……？","Hey... do these flowers......
 match Tenka......?"
 0000000000000,プロデューサー,"──！
 ……はは","──！
@@ -94,7 +94,7 @@ match Tenka......?"
 They really do."
 2015013110290,甜花,にへへ……,Nihehe......
 2015013110300,甜花,こっちのお花は……？,What about these flowers......?
-0000000000000,プロデューサー,おっ、その花はもっと似合うな……？,"Oh, those flowers might match you even more..."
+0000000000000,プロデューサー,おっ、その花はもっと似合うな……？,Oh... those flowers might match you even more...
 2015013110310,甜花,"ほんと……？
 にへへ……",Really......? Nihehe......
 2015013110320,甜花,"次は……
@@ -102,7 +102,7 @@ They really do."
 are these......!"
 0000000000000,プロデューサー,うん、それも似合うよ……！,"Yeah, those fit you too...!"
 2015013110330,甜花,"──じゃあ、
-このお花……！","──Then, what about these......!"
+このお花……！",──Then... what about these......!
 0000000000000,プロデューサー,ああ、似合う似合う──！,"Yeah, those fit you really well──!"
 info,produce_events/201501311.json,
 Translator,nkei,
