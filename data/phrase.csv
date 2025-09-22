@@ -1187,7 +1187,7 @@ errorDialog.eventClosedTitle,イベント期間外,Event Over
 errorDialog.expiredProduceItem,アイテムの使用期限が終了したため\n持ち込むことができませんでした\n\n再度アイテムを選択し直してください,"This item has expired,\nso it could not be selected.\nPlease select items again."
 errorDialog.shopClosedTitle,購入期間外,Shop Closed
 extraCampaign.application.announceTime,yyyy/mm/dd HH:MM,yyyy/mm/dd HH:MM
-extraCampaign.application.announceTimeLabel,当選発表,Selection Results
+extraCampaign.application.announceTimeLabel,当選発表,Results
 extraCampaign.application.applicationAgreementDialog.body.heading,「アイドルマスター シャイニーカラーズ」\rリアルステージイベント『283プロダクション プロデューサー感謝祭』\rステージ観覧応募について,"About ""THE IDOLM@STER Shiny Colors"" Real Stage Event ""283 Production Thanksgiving Festival"" Viewing Application"
 extraCampaign.application.applicationAgreementDialog.body.inquiry.descriptions.after,なお、抽選結果に関する個別のお問い合わせにはお答えしかねます。,なお、抽選結果に関する個別のお問い合わせにはお答えしかねます。
 extraCampaign.application.applicationAgreementDialog.body.inquiry.descriptions.before,下記よりお問い合わせください。,下記よりお問い合わせください。
@@ -1287,7 +1287,7 @@ extraCampaign.application.applyTimeLimit,yyyy/mm/dd HH:MMまで,Until yyyy/mm/dd
 extraCampaign.application.applyTimeLimitLabel,応募期間,Application Period
 extraCampaign.application.heading,応募券の使用先を選んでください,応募券の使用先を選んでください
 extraCampaign.application.notice,必ず応募規約をお読みいただき\r内容に同意した上でご応募ください,必ず応募規約をお読みいただき\r内容に同意した上でご応募ください
-extraCampaign.application.possessionTicketCountLabel,獲得数,Receive Count
+extraCampaign.application.possessionTicketCountLabel,獲得数,Tickets
 extraCampaign.application.receivTimeOverNotice,受け取り期間終了,受け取り期間終了
 extraCampaign.application.receiveTicketsErrorDialog.text,受取期間が終了しているため\r応募券を受け取れませんでした,受取期間が終了しているため\r応募券を受け取れませんでした
 extraCampaign.application.receiveTicketsErrorDialog.title,応募券受け取りエラー,応募券受け取りエラー
@@ -2202,7 +2202,7 @@ jointFes.ranking.announceRankingType.group,グループ\n順位,Group\nRank
 jointFes.ranking.announceRankingType.event_point,ポイント\n順位,Point\nRank
 jointFes.ranking.stageSelect.title,ステージ選択,Stage Select
 jointFes.ready.title,マッチライブ詳細,Match Live Details
-jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,Uses %{consumedFesTicket}
+jointFes.ready.fesTicketNotice,フェス参加権を%{consumedFesTicket}消費します,Uses %{consumedFesTicket} Fes Entries.
 jointFes.ready.unitEmptyPop.title,確認,Confirm
 jointFes.ready.unitEmptyPop.message,マッチライブユニットに空きがあるため\nライブを開始できません。,"Match Live Unit is empty,\nLive cannot start."
 jointFes.seasonChange.title,マッチライブ更新,Match Live Update
@@ -2878,7 +2878,7 @@ produceInvitation.teamMemberMaxPop.text,チームメンバーが揃いました�
 produceInvitation.acquirableLessonCardTableDialog.title,獲得可能アドバイス一覧,獲得可能アドバイス一覧
 produceReady.idolRestrictionPop.text.specialCharacterOnly.produceIdol,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません,上記アイドルは\n「%{title}」で\nプロデュースアイドルに選択できません
 produceReady.idolRestrictionPop.text.specialCharacterOnly.supportIdol,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません,上記アイドルは\n「%{title}」で\nサポートアイドルに選択できません
-produceReady.autoProduceRestrictionPop.title,編成アイドル制限,編成アイドル制限
+produceReady.autoProduceRestrictionPop.title,編成アイドル制限,Restricted Idol
 produceReady.autoProduceRestrictionPop.text,アイドルが参加できない\nプロデュースエリアが含まれています,アイドルが参加できない\nプロデュースエリアが含まれています
 produceReady.produceAreaAttension.settingText,『%{produceTitle}』編でプロデュース中に獲得した\nファン数は、プロデューサーズカップの,『%{produceTitle}』編でプロデュース中に獲得した\nファン数は、プロデューサーズカップの
 produceReady.produceAreaAttension.produceTitle.5th_produce_area,S.T.E.P.,S.T.E.P.
@@ -2891,10 +2891,10 @@ shop.purchasedCountLabelText.uncountable,購入数,Purchase Quantity
 shop.vipPoint.purchaseResultTitle,VIPポイント獲得,Earn VIP Points
 shop.vipPoint.soldOutPop.title,確認,Confirm
 shop.vipPoint.soldOutPop.text,VIPポイントは購入上限数に達しています,VIPポイントは購入上限数に達しています
-decorationEvent.confirmationTitle,再生確認,再生確認
-decorationEvent.decorationComment,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？
-decorationEvent.donationComment,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？
-decorationEvent.presentComment,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？
+decorationEvent.confirmationTitle,再生確認,Confirm Unlock
+decorationEvent.decorationComment,%{idolName} の飾り付けコミュを\n解放しました\n\n再生しますか？,%{idolName}'s decoration commu\nhas been unlocked.\nPlay it?
+decorationEvent.donationComment,%{idolName} の差し入れコミュを\n解放しました\n\n再生しますか？,%{idolName}'s gift commu\nhas been unlocked.\nPlay it?
+decorationEvent.presentComment,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？,%{idolName}'s special commu\nhas been unlocked.\nPlay it?
 decorationEvent.characterSelectPop.itemNameText.decoration,【’24Xmas】飾り付け 所持数 :,【’24Xmas】Decor Owned:
 decorationEvent.characterSelectPop.itemNameText.present,【’24Xmas】プレゼント所持数:,【’24Xmas】Presents Owned:
 decorationEvent.characterSelectPop.itemNameTextValentine2025.decoration,【’25VD】差し入れ 所持数 :,【’25VD】Gifts Owned:
@@ -2937,7 +2937,30 @@ eventPoint.characterQuestionAndAnswer.50052,ローズpt,Rose pts
 gameEvent.tapCounterEvent.effectNone,効果なし,No Effect
 gameEvent.tapCounterEvent.getOfflinePointPopTitle,イベント再開,イベント再開
 gameEvent.tapCounterEvent.nameOfPointByTap.50052,収穫力,Harvest Power
-gameEvent.adventureStoryEvent.50050.choiceConditionBalloon.conditionItem,「%{name}」所持で解放,「%{name}」所持で解放
+gameEvent.adventureStoryEvent.50050.choiceConditionBalloon.conditionItem,「%{name}」所持で解放,Unlocked by owning [%{name}]
 skillBord.releasedConditionsWithMemoryAppealLevel,思い出Lv.%{requiredMemoryAppealLevel}で解放,Unlocked at Memory Lv.%{requiredMemoryAppealLevel}
 skillBord.releasedConditionsWithMemoryAppealLevelAndEvolution,思い出Lv.%{requiredMemoryAppealLevel}、特訓%{evolutionStage}回目で解放,Unlocked at Memory Lv.%{requiredMemoryAppealLevel} and evolving %{evolutionStage} times
-jewelCounter.endedAtFormat,yyyy/mm/dd HH:MMまで,yyyy/mm/dd HH:MMまで
+jewelCounter.endedAtFormat,yyyy/mm/dd HH:MMまで,yyyy/mm/dd HH:MM
+gameEvent.boxGasha.bannerListTitle,連動ガシャ一覧,Linked Gacha List
+gameEvent.boxGasha.communicationsContent.title,新規追加コミュ,Newly Added Commu
+gameEvent.boxGasha.communicationsContent.notice,"コミュは指定アイドルでsay ""Halo""の\nプロデュースを行うと解放可能です","Commu will be unlocked by\nproducing specific Idol in say ""Halo"""
+gradeFesConcert.judgeAppealBonusHistoryDialog.title,ボーナス獲得履歴,Gained Bonus History
+gradeFesConcert.judgeAppealBonusHistoryDialog.emptyMessage,獲得履歴がありません,No Bonuses Gained
+gradeFesConcert.judgeAppealBonusHistoryDialog.turn,%{turn}ターン目に獲得,Gained on Turn %{turn}
+gradeFesConcert.skillAndTensionResetDialog.title,スキル、テンション再抽選,Reset Skills & Tension
+gradeFesConcert.skillAndTensionResetDialog.description,フェス参加権を1消費し、ライブスキル、パッシブスキル、アビリティ、\nテンション、アピール特別ボーナスを再抽選します,フェス参加権を1消費し、ライブスキル、パッシブスキル、アビリティ、\nテンション、アピール特別ボーナスを再抽選します
+gradeFesConcert.skillAndTensionResetDialog.caution1,・同じライブスキル、パッシブスキル、アビリティ、テンション、\nアピール特別ボーナスが再度抽選される場合があります,・同じライブスキル、パッシブスキル、アビリティ、テンション、\nアピール特別ボーナスが再度抽選される場合があります
+gradeFesConcert.skillAndTensionResetDialog.caution2,・再抽選により変更されたライブスキルは、\n使用済みライブスキルにはならず次の抽選候補に含まれます,・再抽選により変更されたライブスキルは、\n使用済みライブスキルにはならず次の抽選候補に含まれます
+gradeFesConcert.skillAndTensionResetDialog.caution3,・再抽選により変更されたパッシブスキル、アビリティの\n発動回数はリセットされます,・再抽選により変更されたパッシブスキル、アビリティの\n発動回数はリセットされます
+gradeFesConcert.skillAndTensionResetDialog.caution4,・再抽選ではCHANGEの効果は発揮しません,・再抽選ではCHANGEの効果は発揮しません
+gradeFesConcert.skillAndTensionResetDialog.noticeText,再抽選は1ターン目にのみ利用可能です\nライブスキル交換、クイックスキルの使用後は再抽選は行えません,再抽選は1ターン目にのみ利用可能です\nライブスキル交換、クイックスキルの使用後は再抽選は行えません
+gradeFesConcert.judgeAppealBonusDetailDialog.title,アピール特別ボーナス,Special Appeal Bonus
+gradeFesConcert.judgeAppealBonusDetailDialog.description,この審査員を対象にライブスキル、思い出アピールを\n使用することで以下の効果を獲得できます,この審査員を対象にライブスキル、思い出アピールを\n使用することで以下の効果を獲得できます
+gradeFesConcert.judgeAppealBonusDetailDialog.grantTurn,【出現ターン : %{value}】,【出現ターン : %{value}】
+gradeFesConcert.judgeAppealBonusDetailDialog.condition.score_higher,【条件 : 興味値%{value}%以上】,【条件 : 興味値%{value}%以上】
+gradeFesConcert.judgeAppealBonusDetailDialog.condition.score_lower,【条件 : 興味値%{value}%以下】,【条件 : 興味値%{value}%以下】
+gradeFesConcert.judgeAppealBonusDetailDialog.noConditionText,【条件 : なし】,【Cond.: None】
+gradeFesConcert.judgeAppealBonusDetailDialog.activationCount,【ボーナス出現回数 : %{value}】,【ボーナス出現回数 : %{value}】
+gradeFesConcert.judgeAppealBonusDetailDialog.noLimitActivationCountText,制限なし,No Limits
+gradeFesConcert.appealStatusText,%{name}のアピール状況,%{name}'s Appeal Status
+gradeFesReady.judgeDetailDialogTitle,審査員詳細,Judge Details

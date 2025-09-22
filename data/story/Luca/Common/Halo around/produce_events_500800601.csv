@@ -1,0 +1,89 @@
+id,name,text,trans
+0000000000000,プロデューサー,"……お
+誰か自主練してるみたいだな","...Oh.
+Looks like someone's practicing on their own."
+5004006010010,甘奈,本当だ……！,Oh you're right...!
+5004006010020,甘奈,（っ、ルカさん…………！）,(L-Luca-san...!)
+5004006010030,甘奈,"────────
+……ルカさん、すごい──……","────
+...Luca-san's,  so amazing..."
+0000000000000,プロデューサー,"……甘奈から見て、
+どういうところがすごいと思う？","What do you think makes her performance so
+amazing, Amana?"
+5004006010040,甘奈,"ダイナミックなのに、すごく細かいところまで
+意識が行き届いてるところ……！","It's so dynamic, and yet she's so attentive to 
+the smallest details...!"
+5004006010050,甘奈,"ずっとステージでやってきたんだって
+すっごく伝わってくる、っていうのかな──","You can really tell she's been performing on stage 
+for a long time──"
+5004006010060,甘奈,"ソロでも活躍してきたからこその、
+技術とか自信とかを感じるの……！","You can sense the skill and confidence that comes 
+from being a successful solo artist...!"
+0000000000000,プロデューサー,──そうだな,──You're right.
+0000000000000,プロデューサー,それから、そこに気づける甘奈もすごいよ,It's amazing that you were able to notice that.
+5004006010070,甘奈,"！
+えへへ……！","!
+Ehehe...!"
+5004006010080,甘奈,甘奈もあんなふうになりたいな──,I want to be just like her──
+0000000000000,プロデューサー,"今はちょうど合宿だ
+コツとか、聞いてみたらいいんじゃないか？","It is training camp right now.
+Why not go over and ask her for some tips?"
+5004006010090,甘奈,……！,...!
+5004006010100,甘奈,"で、でも……
+……迷惑じゃ……ないかな……？","B-But...
+...Won't I... bother her...?"
+5004006010110,甘奈,甘奈、あんまりお話とかしたことないから……,We haven't really talked much before...
+0000000000000,プロデューサー,"確かに、誰かと積極的に
+コミュニケーションを取ろうとするタイプじゃないけど","Luca's definitely not the type to actively go out 
+and talk with others."
+0000000000000,プロデューサー,誰かの気持ちを無下にする人でもないよ,"But she's not the kind of person who would 
+disregard others' feelings either."
+5004006010120,甘奈,……！,...!
+5004006010130,甘奈,"そっか……
+……うん──────！","Gotcha...
+...Okay──!"
+5004006010140,甘奈,──ルカさんっ,──Luca-san.
+5004006010150,ルカ,……？,...?
+5004006010160,甘奈,"あのっ、もし時間があったら
+一緒に自主練、させてくれませんか……？","Uhm, if you have some time, could I practice 
+together with you...?"
+5004006010170,ルカ,は……？,Huh...?
+5004006010180,甘奈,甘奈、昨日ルカさんの自主練を見て──！,"I was watching you practice by yourself 
+yesterday──!"
+5004006010190,甘奈,"一緒に練習できたら、
+いろんなことを学べる、って思ったの！","I thought if we practiced together, I could learn 
+a lot from you!"
+5004006010200,甘奈,ルカさん、すごかったから……！,"You were amazing, Luca-san...!"
+5004006010210,ルカ,……,...
+5004006010220,甘奈,ど、どう……かな……？,P-Pretty... please...?
+5004006010230,ルカ,…………──悪い,......──Sorry.
+5004006010240,甘奈,！,!
+5004006010250,ルカ,"……この期間で
+詰めておきたいところがある","......There's some stuff I'd like to focus on a bit
+right now."
+5004006010260,ルカ,人と練習してる時間は取れない,I don't have time to practice with others.
+5004006010270,甘奈,"そっか……！
+急にごめんなさい……ありがと……！","I see...!
+Thanks... Sorry for bothering you...!"
+5004006010280,甘奈,え、えっと、じゃあ──！,"U-Uhm, then──!"
+5004006010290,ルカ,──……,──......
+5004006010300,甘奈,ありがとうございました！,Thank you for your time!
+5004006010310,甘奈,"（さっきの振り、まだまだだ……！
+次までにもっと仕上げないと──）","(My moves still need a lot of work...! 
+I have to improve before next time──!)"
+5004006010320,ルカ,…………なぁ,......Hey.
+5004006010330,甘奈,"え──？　わ、ルカさん──！
+何かありました……！？","Eh──? Wah, Luca-san──!
+Did something happen...?!"
+5004006010340,ルカ,……さっきやったとこ,...That thing you just did.
+5004006010350,甘奈,う、うん……！,Y-Yeah...!
+5004006010360,ルカ,"手、気にしすぎ
+だから足が追いついてねぇんだろ","You're worrying too much about your hands.
+That's why your feet can't keep up."
+5004006010370,甘奈,────,────
+5004006010380,ルカ,……気をつけたら,...You should be more careful.
+5004006010390,甘奈,────！　うんっ,──! Will do.
+5004006010400,甘奈,ありがとっ、ルカさん！,"Thanks, Luca-san!"
+5004006010410,ルカ,……,......
+info,produce_events/500800601.json,
+Translator,Burbur,

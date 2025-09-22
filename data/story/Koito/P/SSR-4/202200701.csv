@@ -1,10 +1,10 @@
 id,name,text,trans
 0000000000000,教師,"────夏休みに入るわけだが
-みんな気を緩めて羽目を外さないように","──Summer vacation is upon us.
+みんな気を緩めて羽目を外さないように","──Summer vacation is almost upon us.
 I hope you all can use this time to relax and let your hair down."
 0000000000000,教師,"課題はもちろん自主学習を進めるんだぞ
-今からしっかり将来を見据えて──……","You will, of course, have self-study assignments to complete. 
-Keep these in mind as you're looking ahead to your future──..."
+今からしっかり将来を見据えて──……","But don’t forget that you have summer assignments to complete. 
+From now on, you should think carefully about your future──…!"
 2022007010010,小糸,…………,......
 2022007010020,小糸,…………はぁ……はぁ……,......*pant*...*pant*.......
 2022007010030,小糸,…………！,...!
@@ -25,59 +25,64 @@ You didn't need to run."
 2022007010080,小糸,は、はい……,Y-Yeah...
 2022007010090,小糸,"でも……なんだか
 居ても立っても居られなくて","But for some reason I...
-I just couldn't sit still."
+I just can't stay still."
 0000000000000,プロデューサー,……？,...?
-2022007010100,小糸,この夏休みは、色々な挑戦をしようって……,I was thinking about really challenging myself this summer break...
+2022007010100,小糸,この夏休みは、色々な挑戦をしようって……,I really want to challenge myself this summer break...
 2022007010110,小糸,"少し前からプロデューサーさんも
-言ってくれたじゃないですか","Didn't you say something similar before, Producer-san?"
+言ってくれたじゃないですか","Didn't we talk about it before, 
+Producer-san?"
 0000000000000,プロデューサー,"ああ
 だから今日はその予定を立てようって話だったろ？","That's right. 
-Didn't we talk about creating a schedule of sorts?"
+We mentioned creating a schedule of sorts?"
 2022007010120,小糸,"は、はい……！
 わたしも早く……予定が立てたくて","Y-Yeah...!
-I wanted to make one as soon as possible."
+I want to make one as soon as possible."
 2022007010130,小糸,"もう、夏休みも始まっちゃうって
-……そう思ったら…………","Since summer vacation's just starting...
-it's got me thinking..."
+……そう思ったら…………","I know summer vacation's not here yet but...
+I can't stop thinking about it..."
 0000000000000,プロデューサー,"はは……そうか
 うん、やる気十分って感じだな","Haha, is that so?
 Somebody's motivated."
-2022007010140,小糸,あ、当たり前じゃないですか……！,"Ah, naturally...!"
+2022007010140,小糸,あ、当たり前じゃないですか……！,O-Of course I am...!
 0000000000000,プロデューサー,"よし、それじゃあ具体的なことを話そう
 小糸たちは夏休み、いつからだっけ？","Well then, let's talk details. 
 When does your summer vacation officially begin?"
 2022007010150,小糸,え、えっと……,L-Let's see...
 2022007010160,小糸,"再来週からです
 夏期講習の予定表とかも、持ってきました！","Starting the week after next. 
-I brought the schedule for summer school too!"
+I brought the schedule for my summer classes too!"
 0000000000000,プロデューサー,"おお、準備がいいな
-助かるよ","Oh, you came prepared!
-Nice work."
+助かるよ","Well aren't you prepared!
+Good job."
 2022007010170,小糸,"お仕事の予定とかが……もしも入ったら
-少しは調整できると思います","Depending on the set work schedule...
+少しは調整できると思います","Based on our set work schedule...
 I think we can make some adjustments!"
 2022007010180,小糸,"お、お母さんとも
-相談しなきゃですけど……",But I'll have to check it with my mother first...
+相談しなきゃですけど……","Oh, but...
+I'll have to check it with my mom first..."
 0000000000000,プロデューサー,"……うん
-そうだな","...Of course,
-That's fine."
-0000000000000,プロデューサー,しっかり相談して決めよう,We'll run it by her before deciding.
+そうだな","Absolutely,
+we should."
+0000000000000,プロデューサー,しっかり相談して決めよう,We'll run it by her before we finalise anything.
 0000000000000,プロデューサー,"かなり忙しい夏休みになりそうだけど
-小糸、大丈夫か？","This will be a packed summer vacation, though...
+小糸、大丈夫か？","This is turning out to be a packed summer, though...
 Is that really alright, Koito?"
 2022007010190,小糸,"……！
 あ、当たり前じゃないですか……！","...!
-Ah, that should be obvious...!"
-2022007010200,小糸,ぜ、全然余裕ですよ……！,This much should be expected...!
+O-Of course it is...!"
+2022007010200,小糸,ぜ、全然余裕ですよ……！,"This is nothing I can't handle, after all...!"
 0000000000000,プロデューサー,"はは……！
 ────それじゃあ","Ahaha...!
 ──Well then..."
 select,,"どんな挑戦を
-しようか",What kind of challenge should we undertake...
+しようか","Hm... what kind
+of challenges..."
 select,,"実は番組の
-オファーが来てる","Actually, I received an offer for a new TV show."
+オファーが来てる","Actually, a TV show 
+offer came through..."
 select,,"オーディションを
-たくさん受けよう",We should take on more auditions.
+たくさん受けよう","Maybe some 
+more auditions..."
 2022007010210,小糸,"え……えっと……
 どんなっていうのは……","U-Um...
 Well, let's see..."
@@ -86,13 +91,13 @@ Well, let's see..."
 but I was thinking more than just those..."
 2022007010230,小糸,"お、オーディションとかも受けて
 ……それで、新しいお仕事もできたら","A-Auditions too...
-If we could search for some entirely new kinds of jobs to do..."
+But I'd like to try some entirely new kinds of jobs, too..."
 2022007010240,小糸,一番いいんですけど……,Maybe that'd be best...
 2022007010250,小糸,"ぷ、プロデューサーさんは
 どう思いますか……？","What do you think, 
 Producer-san...?"
 0000000000000,プロデューサー,"うん、小糸の言った通り
-スキルアップをしつつ、オーディションも受けて","It's just like you said, Koito. 
+スキルアップをしつつ、オーディションも受けて","Well said, Koito. 
 We can definitely level up your skills by doing more auditions."
 0000000000000,プロデューサー,"新しい仕事に取り組めるといいな
 やっぱり、経験することで得られる物は多いと思うし","But you can gain a lot of much-needed experience 
@@ -113,44 +118,47 @@ R-Really...?!"
 うちの事務所から誰か……ってことだったんだけど","It's a summer vacation themed educational special. 
 They wanted someone from our office to take part."
 0000000000000,プロデューサー,"小糸にやってもらえないかと
-思っていたんだ","I was hoping that you'd be the one do it, Koito. "
+思っていたんだ","I was hoping that you'd be the one do it, 
+Koito. "
 2022007010290,小糸,"…………！
 わ、わたしでいいんですか……？","...!
 Y-You're choosing me...?"
 0000000000000,プロデューサー,"ああ、予定がわかってから伝えようと思っていたんだけど
 ……このスケジュールなら、大丈夫そうだ","That's right. I planned on telling you after I found out your schedule.
-...Having seen them now, it would work out just fine. "
+...Having seen it now, it'd work out just fine. "
 0000000000000,プロデューサー,"どうだ？
 やってみないか","What do you think? 
-Will you try it out?"
+Wanna give it a try?"
 2022007010300,小糸,"は、はい……！
-やります、わたし……！","Y-Yes...!
+やります、わたし……！","Y-Yeah...!
 I'll.. I'll give it my all...!"
 0000000000000,プロデューサー,"はは、その意気だ！
 まずはひとつめの挑戦、決まりだな！","Ahaha, that's the spirit! 
-With that settled, let's move onto our first challenge!"
-2022007010310,小糸,はい……！,Let's...!
+Our first challenge is settled then!"
+2022007010310,小糸,はい……！,Y-Yeah...!
 0000000000000,プロデューサー,"小糸に合いそうなもの、もういくつか
-ピックアップはしてるんだ","I've already picked out some that might suit you, Koito."
+ピックアップはしてるんだ","I've picked out some that might suit you, 
+Koito."
 2022007010320,小糸,"……！
 そ、そうなんですか","...!
 A-Already...?"
 0000000000000,プロデューサー,"ああ、そこから何か仕事に繋がれば
-もちろんいいし、もしそうじゃなくても","That's right, they could lead us to more job opportunities in the process.
-That'd be the ideal outcome, but even if they didn't..."
+もちろんいいし、もしそうじゃなくても","That's right, they might lead to more opportunities down the line.
+But even if they don't..."
 0000000000000,プロデューサー,"オーディションを目標に取り組むことが
-良い経験になると思う","I think taking part in more auditions will be valuable experience nonetheless. "
+良い経験になると思う","Taking part would be offer some valuable 
+experience nonetheless. "
 2022007010330,小糸,そ、そうですよね……！,Y-You're right...!
 2022007010340,小糸,"わ、わたしできるだけたくさん
 受けたいと思います！","I-I want to take on as many 
 as I possibly can!"
 2022007010350,小糸,"ど、どういうのがあるか
-見せてください……！","N-No matter what kind it is, 
+見せてください……！","N-No matter what kind, 
 I'd like to try it...!"
 0000000000000,プロデューサー,"はは、うん
-わかった","Haha, 
+わかった","Alright,
 understood."
-0000000000000,プロデューサー,資料、プリントしてくるよ,"I'll get to printing the materials. "
+0000000000000,プロデューサー,資料、プリントしてくるよ,"I'll get to preparing the materials. "
 2022007010360,小糸,はい……！,Okay...!
 info,produce_events/202200701.json,
-Translator,ema,
+Translator,pyon,

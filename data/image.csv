@@ -22,7 +22,10 @@ images/ui/gasha/parts_step_up.json_image,gasha/parts_step_up.png,65
 images/ui/gasha/parts_free_center_gasha_button.json_image,gasha/parts_free_center_gasha_button.png,4
 images/ui/skill_board/parts.json_image,skill_board.png,17
 images/ui/idol_list/parts.json_image,idol_list/parts.png,26
-images/ui/idol_detail/parts.json_image,idol_detail/parts.png,22
+images/ui/idol_detail/parts.json_image,idol_detail/parts.png,23
+images/ui/idol_detail/parts_support.json_image,idol_detail/parts_support.png,12
+images/ui/idol_detail/parts_fes.json_image,idol_detail/parts_fes.png,16
+images/ui/idol_detail/parts_trust.json_image,idol_detail/parts_trust.png,3
 images/ui/produce_common/parts_header.json_image,produce_common/parts_header.png,17
 images/ui/produce_event/parts_event.json_image,produce_event/parts.png,16
 images/ui/fes_result/parts_fes_match.json_image,fes_match.png,13
@@ -96,7 +99,6 @@ images/ui/idol_list/parts_edit_mode.json_image,idol_list/parts_edit_mode.png,14
 images/ui/idol_list/parts_know_how_book.json_image,idol_list/parts_know_how_book.png,2
 images/ui/common/parts_filter.json_image,common/parts_filter.png,6
 images/ui/start/parts.json_image,start_parts.png,13
-images/ui/idol_detail/parts_support.json_image,idol_detail/parts_support.png,12
 images/ui/fes/tension_check_title.png,tension_check_title.png,8
 images/ui/fes/tension_check_title_mask.png,tension_check_title_mask.png,8
 images/ui/produce_ending/parts_ceo_report.json_image,parts_ceo_report.png,8
@@ -167,7 +169,6 @@ images/ui/joint_fes_ready/parts.json_image,joint_fes/ready_parts.png,2
 images/ui/joint_fes_stage_select/parts_stage_info_pop.json_image,joint_fes/stage_select_info_pop.png,1
 images/ui/joint_fes_stage_select/parts.json_image,joint_fes/stage_select_parts.png,1
 images/ui/joint_fes_top/parts.json_image,joint_fes/top_parts.png,4
-images/ui/idol_detail/parts_fes.json_image,idol_detail/parts_fes.png,16
 images/ui/game_event/gradation/game_event_unit_bonus_base.png,event_unit_bonus_base.png,7
 images/ui/mission/parts_shiny_pass_ad.json_image,mission_parts_shiny_pass_ad.png,2
 images/tips/produce_step/action/001.jpg,tutorial/step_action_001.jpg,1
@@ -199,8 +200,9 @@ images/event/fg/007422.png,event/April22/022.png,1
 images/event/fg/007423.png,event/April22/023.png,1
 images/event/fg/007424.png,event/April22/024.png,1
 images/event/fg/007425.png,event/April22/025.png,1
-images/ui/home_deck/parts.json_image,home_deck/parts.png,22
-images/ui/home_deck/parts_preset.json_image,home_deck_parts_preset.png,2
+images/ui/home_deck/parts.json_image,home_deck/parts.png,23
+images/ui/home_deck/parts_preset.json_image,home_deck/parts_preset.png,2
+images/ui/home_deck/parts_bg_change_layer.json_image,home_deck/parts_bg_change_layer.png,3
 images/ui/item/parts_content.json_image,item_parts_content.png,11
 images/ui/item/parts.json_image,item_parts.png,15
 images/content/produces/banners/002.png,produces_banners_002.png,3
@@ -376,7 +378,6 @@ images/ui/idol_road/parts.json_image,idol_road_parts.png,5
 images/tips/beginner_mission/001.jpg,tutorial/beginner_mission_001.jpg,3
 images/tips/beginner_mission/002.jpg,tutorial/beginner_mission_002.jpg,3
 images/ui/game_event/parts_icon.json_image,game_event_parts_icon.png,12
-images/ui/idol_detail/parts_trust.json_image,idol_detail/parts_trust.png,3
 images/ui/character_fan_ranking/parts.json_image,fan_ranking_parts.png,9
 images/ui/box_gasha/parts.json_image,box_gasha_parts.png,13
 images/tips/produce_grad/001.jpg,tutorial/grad_tutorial_001.png,2
@@ -414,7 +415,7 @@ images/ui/produce_ending/parts_true_lesson.json_image,true_end_report.png,3
 images/ui/gasha/parts_provide_rate.json_image,gasha/parts_provide_rate.png,7
 images/ui/produce_idea_note/parts.json_image,idea_note_parts.png,5
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,3
-images/ui/character_album/parts.json_image,character_album_parts.png,10
+images/ui/character_album/parts.json_image,character_album_parts.png,11
 images/ui/raid_result/parts.json_image,raid_result_parts.png,3
 images/content/ex_skills/icon.json_image,ex_skills.png,6
 images/ui/jewel_purchase/parts.json_image,jewel_purchase_parts.png,5
@@ -666,7 +667,6 @@ images/ui/concert/parts_pause.json_image,concert_parts_pause.png,13
 images/ui/concert_result/parts_fan_meeting.json_image,concert_result_parts_fan_meeting.png,3
 images/ui/produce_ending/parts_reward_trust.json_image,parts_reward_trust.png,5
 images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png,3
-images/ui/home_deck/parts_bg_change_layer.json_image,home_deck_change_layer.png,3
 images/ui/music_select/parts.json_image,music_select.png,5
 base_got_date.png,base_got_date.png,3
 images/ui/twitter/parts.json_image,twitter_parts.png,6
@@ -780,7 +780,7 @@ images/tips/produce_step/004.jpg,tutorial/step_004.jpg,1
 images/tips/produce_step/005.jpg,tutorial/step_005.jpg,1
 images/tips/produce_step/006.jpg,tutorial/step_006.jpg,1
 images/tips/produce_step/007.jpg,tutorial/step_007.jpg,1
-images/ui/common/parts_idol.json_image,common/parts_idol.png,10
+images/ui/common/parts_idol.json_image,common/parts_idol.png,11
 images/tips/produce_know_how_book/001.jpg,tutorial/know_how_book_001.jpg,1
 images/tips/produce_know_how_book/002.jpg,tutorial/know_how_book_002.jpg,1
 images/tips/produce_know_how_book/003.jpg,tutorial/step_003.jpg,1
@@ -1196,10 +1196,12 @@ images/content/characters/birthday_event_banner/005.png,birthday_event_banner/00
 images/content/characters/birthday_event_banner/006.png,birthday_event_banner/006.png,2
 images/content/characters/birthday_event_banner/007.png,birthday_event_banner/007.png,2
 images/content/characters/birthday_event_banner/009.png,birthday_event_banner/009.png,2
+images/content/characters/birthday_event_banner/013.png,birthday_event_banner/013.png,2
 images/content/characters/birthday_event_banner/016.png,birthday_event_banner/016.png,2
 images/content/characters/birthday_event_banner/019.png,birthday_event_banner/019.png,2
 images/content/characters/birthday_event_banner/020.png,birthday_event_banner/020.png,2
 images/content/characters/birthday_event_banner/024.png,birthday_event_banner/024.png,2
+images/content/characters/birthday_event_banner/025.png,birthday_event_banner/025.png,2
 images/content/characters/birthday_event_banner/026.png,birthday_event_banner/026.png,1
 images/content/characters/birthday_event_banner/028.png,birthday_event_banner/028.png,1
 images/content/my_page/producer_birthday_banner/1.png,my_page/producer_birthday_banner/1.png,2

@@ -744,7 +744,7 @@ irodori-corridor,irodori-corridor,text
 雨色、上機嫌,Rainy Good Mood,text
 傘デート,Umbrella date,text
 [雨待ち]傘デート,[Waiting for rain] Umbrella date,text
-お願い、ただの少女がいい,"Just an Ordinary Girl, Please",text
+お願い、ただの少女がいい,"Please, let me just be a girl",text
 あなたにわがまま,Indulging with you,text
 [心明かして]あなたにわがまま,[Open my heart] Indulging with you,text
 Hakoni□a,Mini T□wn,text
@@ -757,8 +757,8 @@ Hakoni□a,Mini T□wn,text
 心に映して,Reflect in your heart,text
 [瞳に留めて]心に映して,[Project with your eyes] Reflect in your heart,text
 NOT≠EQUAL,NOT≠EQUAL,text
-夜が煽るから,Because the night stirs up,text
-[secret]夜が煽るから,Because the night stirs up [secrets],text
+夜が煽るから,Because the night stirs up something,text
+[secret]夜が煽るから,Because the night stirs up something [in me],text
 く　ら　く　ら,D i z z y D i z z y,text
 蝶が羽ばたく,The butterfly flaps its wings,text
 [後と先]蝶が羽ばたく,[Before and after] The butterfly flaps its wings,text
@@ -1538,40 +1538,41 @@ W.I.N.G.への軌跡,W.I.N.G.への軌跡,text
 てやんでぇ,てやんでぇ,text
 ジューンブライド2024,June Bride 2024,text
 ダウト,Doubt,text
-オト,オト,text
-[ミズ]オト,[ミズ]オト,text
+オト,sound,text
+[ミズ]オト,sound of [water],text
 カラメル,Caramel,text
 カラカラカラ,"Clatter, Clatter, Madder",text
-クレナイ,クレナイ,text
-[カラ]クレナイ,[カラ]クレナイ,text
+クレナイ,crimson,text
+[カラ]クレナイ,crimson [red],text
 ギンコ・ビローバ,Ginkgo-Biloba,text
-ゲン,ゲン,text
-[フ]ゲン,[フ]ゲン,text
+ゲン,spoken,text
+[フ]ゲン,[un]spoken,text
 ピトス・エルピス,Pithos-Elpis,text
-ナイ,ナイ,text
-[タリ]ナイ,[タリ]ナイ,text
+ナイ,enough,text
+[タリ]ナイ,[not] enough,text
 オイサラバエル,"Farewell, Old Age",text
-フィニート,フィニート,text
-[イン]フィニート,[イン]フィニート,text
-[願わくは]...,[願わくは]...,text
+フィニート,finite,text
+[イン]フィニート,[in]finite,text
+[願わくは]...,[I wish]...,text
 バグ・ル,Bug-ly,text
 キン・コン,Moment-Present,text
-浮かぶ,浮かぶ,text
-[今]浮かぶ,[今]浮かぶ,text
+浮かぶ,surfacing,text
+[今]浮かぶ,surfacing of [the present],text
 フリークス・アリー,Freaks'-Alley,text
-耽る,耽る,text
-[美に]耽る,[美に]耽る,text
+耽る,indulge,text
+[美に]耽る,indulge in [beauty],text
 ジャンク・ション,Junk-tion,text
+アマテラス,Amaterasu,text
 かたち,form,text
-[私の]かたち,[my] form,
+[私の]かたち,[my] form,text
 閑話,Chatter,text
 ダ・カラ,Be-Cause,text
 無色,Colorless,text
 露光,Exposure,text
 游魚,Swimming Fish,text
 雨情,Rainy Scenes,text
-射陽,射陽,text
-洒落,洒落,text
+射陽,Radiant Twilights,text
+洒落,Tasteful Puns,text
 ハシルウマ,Running Horses,text
 漠漠,Boundless,text
 暑熱,Blistering Heat,text
@@ -1586,11 +1587,11 @@ W.I.N.G.への軌跡,W.I.N.G.への軌跡,text
 そと,そと,text
 [鬼は]そと,[鬼は]そと,text
 ポシェットの中には,Inside the Pochette,text
-ばんそうこう,ばんそうこう,text
+ばんそうこう,Band-Aid,text
 [夢柄]ばんそうこう,[夢柄]ばんそうこう,text
-おみくじ結びますか,おみくじ結びますか,text
-努力して叶う,努力して叶う,text
-[願事]努力して叶う,[願事]努力して叶う,text
+おみくじ結びますか,Shall We Tie The Omikuji?,text
+努力して叶う,Fullfilled by Effort,text
+[願事]努力して叶う,[Wish] Fullfulled by Effort,text
 てのひらの答え,Palm's Reply,text
 つめあとを残す,つめあとを残す,text
 [重要]つめあとを残す,[重要]つめあとを残す,text
@@ -1617,7 +1618,7 @@ W.I.N.G.への軌跡,W.I.N.G.への軌跡,text
 パーティーのやくそく,Our Promised Party,text
 思い出にもならない,It Won't Be A Memory,text
 傍白のあいだ,Between the Asides,text
-はるとあめ,はるとあめ,text
+はるとあめ,Spring and Rain,text
 きっと色褪せるけど,きっと色褪せるけど,text
 さよならメランコリー,Sayonara Melancholy,text
 同じじゃない,同じじゃない,text
@@ -1681,6 +1682,7 @@ sync,sync,text
 [食べて]くれる？,[食べて]くれる？,text
 ダブルホワイト,Double White,text
 黒色彗星,黒色彗星,text
+未 来世界,Future World,text
 漂白花火,Bleached Fireworks,text
 とめたくない,I don't want to stop,text
 [この時を]とめたくない,[This moment] I don't want to stop,text
@@ -1696,7 +1698,7 @@ sync,sync,text
 降りてきて,Come Down,text
 [そのままで]降りてきて,[Just Like That] Come Down,text
 花守,Flower Guardian,text
-[桜]花守,Cherry Blossom Guardian,text
+[桜]花守,[Cherry Blossom] Guardian,text
 猫と犬みたいな雨,Raining Cats and Dogs,text
 遠き明滅,遠き明滅,text
 ２８３プロの日常,Daily Life of 283Pro,text

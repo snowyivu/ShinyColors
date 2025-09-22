@@ -187,6 +187,9 @@ Visual流行雑誌,Visual Trend Magazine
 約束のパルファム,Promise Perfume
 プロデュース中の約束発生率を大アップします(効果量は約束発生毎に減少し4回で効果がなくなる),"Increases promise chance during a run to high (decreases each time a promise occurs, up to four times)."
 SSR or SR確定ガシャチケット,SSR or SR Gacha Ticket
+SSR or SR確定ガシャチケット\n［1/3］,SSR or SR Gacha\nTicket［1/3］
+SSR or SR確定ガシャチケット\n［2/3］,SSR or SR Gacha\nTicket［2/3］
+SSR or SR確定ガシャチケット\n［3/3］,SSR or SR Gacha\nTicket［3/3］
 SSR確定ガシャチケット,SSR Guaranteed \nGacha Ticket
 SSR確定ガシャが引けるチケットです,This ticket can be used to pull a guaranteed SSR card.
 SSR確定Plusガシャチケット(1/10),SSR Guaranteed Plus Gacha Ticket (1/10)
@@ -676,11 +679,11 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【リフレジェントプルマージュ】郁田 はるき,[Refulgent Plumage] Haruki
 【リフレジェントプルマージュ】\n郁田 はるき,[Refulgent Plumage]\nHaruki
 レジスタンスオーダー・ネオス,Resistance Order Neos
-レジスタンスオーダー・ネオス\n（フード有り）,Resistance Order Neos\n(Hood On)
+レジスタンスオーダー・ネオス(フード有り),Resistance Order Neos (Hooded)
 レジスタンスオーダー・ネオス衣装交換チケット,Resistance Order Neos Exchange Ticket
-レジスタンスオーダー・ ネオス（フード有り）衣装交換チケット,Resistance Order Neos (Hood On) Exchange Ticket
+レジスタンスオーダー・ ネオス(フード有り)衣装交換チケット,Resistance Order Neos (Hooded) Exchange Ticket
 レジスタンスオーダー・ネオスの衣装と交換できるチケットです,Used in the Resistance Order Neos Exchange Shop.
-レジスタンスオーダー・ネオス（フード有り）の衣装と交換できるチケットです,Used in the Resistance Order Neos (Hood On) Exchange Shop.
+レジスタンスオーダー・ネオス(フード有り)の衣装と交換できるチケットです,Used in the Resistance Order Neos (Hooded) Exchange Shop.
 【レジスタンスオーダー・ネオス】櫻木 真乃,[Resistance Order Neos] Mano
 【レジスタンスオーダー・ネオス】\n櫻木 真乃,[Resistance Order Neos]\nMano
 【レジスタンスオーダー・ネオス】風野 灯織,[Resistance Order Neos] Hiori
@@ -1013,17 +1016,25 @@ Exスキルを外す事ができるアイテムです,An item which can extract 
 【エモーショナルユニフォーム】\n鈴木 羽那,[Emotional Uniform]\nHana
 【エモーショナルユニフォーム】郁田 はるき,[Emotional Uniform] Haruki
 【エモーショナルユニフォーム】\n郁田 はるき,[Emotional Uniform]\nHaruki
+【ホッとキューティスプリング】大崎 甜花,[Relaxing Spring Cutie] Tenka
+【ホッとキューティスプリング】\n大崎甜花,[Relaxing Spring Cutie] \nTenka
+【ホッとキューティスプリング】櫻木 真乃,[Relaxing Spring Cutie] Mano
+【ホッとキューティスプリング】\n櫻木 真乃,[Relaxing Spring Cutie] \nMano
+【ホッとキューティスプリング】樋口 円香,[Relaxing Spring Cutie] Madoka
+【ホッとキューティスプリング】\n樋口 円香,[Relaxing Spring Cutie] \nMadoka
+【ホッとキューティスプリング】緋田 美琴,[Relaxing Spring Cutie] Mikoto
+【ホッとキューティスプリング】\n緋田 美琴,[Relaxing Spring Cutie] \nMikoto
 10連フォイルガシャメダル,10-Pull Foil Gacha Medal
 10連フォイルガシャメダル\n［1/12］,10-Pull Foil Gacha Medal\n[1/12]
 "通常の「フォイルガシャ」 を10回引けるメダルです
 2個目購入価格: 50グレフェスコイン
-0/1400(現在までの購入量/最大購入量)","This will allow you to do a 10 pull at the regular [Foil Gacha].
+0/1400(現在までの購入量/最大購入量)","Allows you to do a 10 pull at the regular [Foil Gacha].
 2nd purchase cost: 50 GradeFes coins
 0/1400 (Current/max. purchase amount)"
 10連フォイルガシャメダル\n［2/12］,10-Pull Foil Gacha Medal\n[2/12]
 "通常の「フォイルガシャ」を10回引けるメダルです
 3個目購入価格:70グレフェスコイン
-30/1400(現在までの購入量/最大購入量)","This will allow you to do a 10 pull at the regular [Foil Gacha].
+30/1400(現在までの購入量/最大購入量)","Allows you to do a 10 pull at the regular [Foil Gacha].
 3rd purchase cost: 70 GradeFes coins
 30/1400 (Current/max. purchase amount)"
 10連フォイルガシャメダル\n［3/12］,10-Pull Foil Gacha Medal\n[3/12]
