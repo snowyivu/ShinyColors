@@ -344,6 +344,8 @@ $noun $percent 強化,$1 $2 Fortification,
 パッシブスキル強化,Passive Skill Fortification,noun
 [条件:履歴に$nounのアイドルが$num人以上ある場合],[Condition: ≥ $2 $1 members in History],
 発動時に$noun$percentUP,$1 $2 UP when activated,
+[条件:$numターン以降履歴に$numジャンル以下],[Condition: $2 genre(s) in history on and after turn $1],
+このターンのアピールにデュエット[編成アイドル]を追加,Add a duet(gathered idol) for appeals on this turn,
 気力,Energy,
 コスト,Cost,
 色とりどりの羽根,Multicolored Feather,text
