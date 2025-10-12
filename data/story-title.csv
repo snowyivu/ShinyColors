@@ -569,7 +569,7 @@ moonlit,moonlit
 アタシたち談義,アタシたち談義
 わるい時間・ 番外編,わるい時間・ 番外編
 彼女を知り私を知れば,彼女を知り私を知れば
-1%の交点,A 1% Collision
+1％の交点,A 1% Collision
 ふわふわとあったかい,Soft and Warm
 千雪さんと羽那ちゃん,Chiyuki-san and Hana-chan
 風、走走,風、走走
@@ -1211,6 +1211,8 @@ The Q of ♡ はなぜここに？,Why is the Q of ♡ here?
 正義は勝つ,Justice prevails!
 果穂はヒーロー！,Kaho is a hero!
 放課後クライマックスレンジャー,HO-KA-GO Climax Rangers
+前日譚,Prologue
+後日譚,Epilogue
 ハロー・スイート・チョコレート,Hello Sweet Chocolate
 チョコレート迷宮,Chocolate Labyrinth
 ビッグチャンスにご用心,Beware of the Big Opportunities
@@ -1434,6 +1436,14 @@ Go to the future A,Go to the future A
 どこがいいかな☆,I Wonder Where☆
 仲良しの『いただきます』,"A Friendly ""Thanks"""
 それぞれの関係,Individual Relationships
+夢中になっちゃった！,In a craze!
+あったかいな……,So warm...
+ハッピー、借りるね,I'll borrow some happiness
+２回目,The Second Time
+アマイ永遠,A Sweet Eternity
+ポーチできたの☆,Pouch Complete☆
+おやごころ,Parental Love
+どこもおんなじ,It's all the same
 眠る可能性,Chance of Sleeping
 最初の一歩,The First Step
 だけど、それでも,"But, Even Then"
@@ -1672,6 +1682,11 @@ I say,I say
 衝動的お鍋,Impulsive Hotpot
 そっと触れて、柔らかい熱,A soft warmth from a gentle touch
 空飛ぶ波は、今宵の揺りかご,The airborne waves are tonight's cradle
+食べちゃるから、全部,I'm gonna eat it all
+卒業,Graduation
+ひっくり返した生きていく,Continuing to Live Upside-Down
+【分析】よりよい配信のやり方,(Analysis) How to make a good livestream
+【番外】よみ聞かせの時間です♪,(Extra) Storytime♪
 未知への高揚,Lifting into the Unknown
 刹那への違和感、芽生え,刹那への違和感、芽生え
 見えぬ道筋,The Invisible Path
@@ -2206,6 +2221,7 @@ chira chira,chira chira (flicker flicker)
 ルカへのプレゼント・羊羹+♥,Gift for Luca・Youkan+♥
 うたたね,Nap
 きんぎょ,Goldfish
+祭りの後,After the Festival
 スカウト！,Scout!
 なんでもしてくれる人,Will do anything
 ものすごい才能？,Amazing talent?
@@ -2793,23 +2809,52 @@ chira chira,chira chira (flicker flicker)
 パラコレトーク(甘奈・ルカ2),Paracolle Talk (Amana・Luca2)
 パラコレトーク(甘奈・はるき2),Paracolle Talk (Amana・Haruki2)
 トーク(甘奈・はづき1),Talk (Amana・Hazuki 1)
+トーク(甜花・真乃1),Talk (Tenka・Mano1)
+トーク(甜花・灯織1),Talk (Tenka・Hiori1)
+トーク(甜花・めぐる1),Talk (Tenka・Meguru1)
+トーク(甜花・恋鐘1),Talk (Tenka・Kogane1)
 パラコレトーク(甜花・恋鐘2),Paracolle Talk (Tenka・Kogane2)
+トーク(甜花・摩美々1),Talk (Tenka・Mamimi1)
+トーク(甜花・咲耶1),Talk (Tenka・Sakuya1)
+トーク(甜花・結華1),Talk (Tenka・Yuika1)
+パラコレトーク(甜花・結華2),Paracolle Talk (Tenka・Yuika2)
+トーク(甜花・霧子1),Talk (Tenka・Kiriko1)
 パラコレトーク(甜花・霧子2),Paracolle Talk (Tenka・Kiriko2)
+トーク(甜花・果穂1),Talk (Tenka・Kaho1)
+トーク(甜花・智代子1),Talk (Tenka・Chiyoko1)
+パラコレトーク(甜花・智代子2),Paracolle Talk (Tenka・Chiyoko2)
+トーク(甜花・樹里1),Talk (Tenka・Juri1)
+トーク(甜花・凛世1),Talk (Tenka・Rinze1)
+トーク(甜花・夏葉1),Talk (Tenka・Natsuha1)
 パラコレトーク(甜花・夏葉2),Paracolle Talk (Tenka・Natsuha2)
-トーク(甜花・甘奈2),Talk (Tenka・Amana 2)
+トーク(甜花・甘奈1),Talk (Tenka・Amana1)
+トーク(甜花・千雪1),Talk (Tenka・Chiyuki1)
 パラコレトーク(甜花・千雪2),Paracolle Talk (Tenka・Chiyuki2)
-トーク(甜花・千雪3),Talk (Tenka・Chiyuki 3)
+トーク(甜花・あさひ1),Talk (Tenka・Asahi1)
 パラコレトーク(甜花・あさひ2),Paracolle Talk (Tenka・Asahi2)
+トーク(甜花・冬優子1),Talk (Tenka・Fuyuko1)
 パラコレトーク(甜花・冬優子2),Paracolle Talk (Tenka・Fuyuko2)
+トーク(甜花・愛依1),Talk (Tenka・Mei1)
 パラコレトーク(甜花・愛依2),Paracolle Talk (Tenka・Mei2)
+トーク(甜花・透1),Talk (Tenka・Toru1)
 パラコレトーク(甜花・透2),Paracolle Talk (Tenka・Toru2)
+トーク(甜花・円香1),Talk (Tenka・Madoka1)
 パラコレトーク(甜花・円香2),Paracolle Talk (Tenka・Madoka2)
+トーク(甜花・雛菜1),Talk (Tenka・Hinana1)
+トーク(甜花・小糸1),Talk (Tenka・Koito1)
+トーク(甜花・にちか1),Talk (Tenka・Nichika1)
 パラコレトーク(甜花・にちか2),Paracolle Talk (Tenka・Nichika2)
+トーク(甜花・美琴1),Talk (Tenka・Mikoto1)
 パラコレトーク(甜花・美琴2),Paracolle Talk (Tenka・Mikoto2)
+トーク(甜花・ルカ1),Talk (Tenka・Luca1)
+トーク(甜花・羽那1),Talk (Tenka・Hana1)
+トーク(甜花・はるき1),Talk (Tenka・Haruki1)
 パラコレトーク(甜花・はるき2),Paracolle Talk (Tenka・Haruki2)
-トーク(甜花・はづき1),Talk (Tenka・Hazuki 1)
-トーク(甜花・真乃・霧子1),Talk (Tenka・Mano・Kiriko 1)
-春トーク(甜花・摩美々・灯織・智代子・はづき1),Spring Talk (Tenka/Mamimi/Hiori/Chiyoko/Hazuki 1)
+トーク(甜花・甘奈2),Talk (Tenka・Amana2)
+トーク(甜花・千雪3),Talk (Tenka・Chiyuki3)
+トーク(甜花・はづき1),Talk (Tenka・Hazuki1)
+トーク(甜花・真乃・霧子1),Talk (Tenka・Mano・Kiriko1)
+春トーク(甜花・摩美々・灯織・智代子・はづき1),Spring Talk (Tenka/Mamimi/Hiori/Chiyoko/Hazuki1)
 パラコレトーク(千雪・真乃2),Paracolle Talk (Chiyuki・Mano2)
 パラコレトーク(千雪・めぐる2),Paracolle Talk (Chiyuki・Meguru2)
 パラコレトーク(千雪・霧子2),Paracolle Talk (Chiyuki・Kiriko2)
