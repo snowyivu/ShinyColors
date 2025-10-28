@@ -1,17 +1,17 @@
 id,name,text,trans
 2002010010010,灯織,プロデューサー、相談があるのですが,Producer... I'd like to ask you about something.
 0,プロデューサー,ん？　どうした,Hm? What's on your mind?
-2002010010020,灯織,先日受けた、山歩きロケなんですけど──,"That job from the other day, the upcoming hiking shoot─"
+2002010010020,灯織,先日受けた、山歩きロケなんですけど──,"About that  job from the other day, the upcoming hiking shoot─"
 0,プロデューサー,……ふぅ,...Phew.
 0,プロデューサー,"緩やかに見えるけど、やっぱり上り坂だな
 動きやすい服で来てよかったよ","It didn't look this difficult earlier... but it's still an uphill climb,
-after all. I'm so glad I wore comfortable shoes."
+after all. I'm glad I wore comfortable shoes."
 2002010010030,灯織,意外と足腰に来ますよね,"Hiking is surprisingly tough on the legs and hips, huh..."
 0,プロデューサー,灯織でもそう思うのか？,I'm glad you think so too...
-2002010010040,灯織,思います,This got me thinking...
+2002010010040,灯織,思います,This reminded me...
 2002010010050,灯織,"少し前に、真乃とめぐると
-トレッキングみたいなことをしたんですけど","About the hiking trip Mano, Meguru and I went on together
-a while ago. "
+トレッキングみたいなことをしたんですけど","Of the hiking trip Mano, Meguru 
+and I took together a while ago. "
 0,プロデューサー,うん,Hmm?
 2002010010060,灯織,…………その後の筋肉痛がすごかったんです,"…and how much my muscles ached afterwards. "
 0,プロデューサー,"えっ、そうなのか？
@@ -23,14 +23,13 @@ auditions and lessons really took a toll on my body. "
 2002010010080,灯織,でも、最近はそういうのもほとんどなくて……,"It's rare that I ever feel that way now, though."
 2002010010090,灯織,"普段から歌って踊っているんだから大丈夫だろうって
 高をくくっていた自分がすごく情けなくて","Since I'm always moving, singing, dancing... I thought this 
-couldn't phase me. It's almost pathetic how cocky I was."
+couldn't phase me. It's almost pathetic how naive I was."
 2002010010100,灯織,"一口に動くって言っても、
-動作によって使う部位が違うのは当然なのに……","It's a different kind of activity that uses different muscles... 
-No matter how much I told myself to keep moving, I struggled."
-0,プロデューサー,なるほどな、それで下見か,"So that's why you wanted to try out the shoot's route today? "
+動作によって使う部位が違うのは当然なのに……",It's obvious to me now that hiking uses entirely different muscles...of course I'd struggle.
+0,プロデューサー,なるほどな、それで下見か,"So that's why you wanted to try out the route today ahead of time? "
 2002010010110,灯織,"はい。番組のスタッフさんや、
 共演者の方に迷惑をかけるわけにはいかないなと","Exactly. I'd hate to cause problems for the other members or
-the programme's staff on the day."
+the programme staff."
 2002010010120,灯織,"３人の時は、寄り道をしたり、小休止を挟んだり、
 真乃がペースを作ってくれるんですけど","When it was just the three of us, we could take breaks or choose
 an easier path. After all, it's Mano that sets the pace."
@@ -46,9 +45,9 @@ cause you any unnecessary trouble, Producer."
 灯織が真摯に仕事に向き合ってくれるからなんだからな","Especially because you take your work very seriously. 
 You're always going the extra mile.  "
 2002010010170,灯織,プロデューサー……,Producer...
-0,プロデューサー,色々、本当に色々考えることもあると思うんだけどさ……,Though there's always a lot on your mind...
+0,プロデューサー,色々、本当に色々考えることもあると思うんだけどさ……,I know you have a lot on your mind.
 0,プロデューサー,"何回でも言うよ
-もっと頼ってくれて大丈夫、そのための俺だ","I'll keep saying it: I want you to be able to rely on me. 
+もっと頼ってくれて大丈夫、そのための俺だ","But I'll keep saying it: I want you to be able to rely on me. 
 That's what I'm here for, you know?"
 2002010010180,灯織,その……ありがとう、ございます,Well...t-thank you...
 2002010010190,灯織,…………,......
@@ -72,22 +71,22 @@ There are times it really comes in handy."
 ありがとうございます","Producer...
 Thank you."
 0,プロデューサー,"灯織の情報だと、あと少しなんだろ？
-じゃあ、もうひとふんばりだな","So according to your research, we're almost there, correct?
+じゃあ、もうひとふんばりだな","So according to your research, we're almost there, right?
 Time for the final push!"
 2002010010270,灯織,ふふ……はい,Hehe...that's right.
 2002010010280,灯織,行きましょう……！,Let's do this...!
 2002010010290,灯織,なんだか、時間がゆっくり流れているような気がします,Somehow... it feels like time is passing slower here...
 2002010010300,灯織,"他にお客さんがいないので、
-色々な音も良く聞こえますし","And we're the only customers...
-you can hear everything so clearly. "
+色々な音も良く聞こえますし","And we're the only ones here...
+you can hear the sounds of nature so clearly."
 0,プロデューサー,……本当だ,...You're right.
 0,プロデューサー,ちょっと怖くなるくらい穏やかだな,"It's so peaceful here it's almost scary, huh?"
 2002010010310,灯織,そうですね……でも──,I agree...but─
 2002010010320,灯織,"今日はただの下見ですから、
-こんな日があってもいいのではないでしょうか","We made it all the way here, so maybe it's okay 
-to enjoy the rest of the day, just like this..."
+こんな日があってもいいのではないでしょうか","We did make it all the way here...! 
+Isn't it nice to spend days like this, once in a while?"
 0,プロデューサー,……それもそうだな！,...I couldn't agree more!
-0,プロデューサー,せっかくだし、思いっきりゆっくりするか,"Let's celebrate by using this time to truly take it easy. "
+0,プロデューサー,せっかくだし、思いっきりゆっくりするか,Let's savour this and relax as much as we can.
 2002010010330,灯織,はい……！,Let's...!
 info,produce_events/200201001.json,
 Translator,pyon,

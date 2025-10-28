@@ -1,0 +1,59 @@
+id,name,text,trans
+0000000000000,アナウンス,"まもなく19時30分発のバスが到着いたします
+お乗りのお客様は──……","Attention all passengers. 
+The bus scheduled at 19:30 hours will be arriving shortly──..."
+2022014020010,小糸,"（わたしが乗るのは20時のバスだから……
+お茶を買ったら、乗り場の方に行こうかな……）","(The bus doesn’t leave until 8pm... 
+I guess I'll buy some tea before heading over.)"
+2022014020020,小糸,…………,...
+0000000000000,友達連れの学生,ねぇねぇ、途中でパーキング寄るんだっけ？,"Heeeey, are we gonna stop by the parking lot first?"
+0000000000000,電話中の男性,"はい、到着予定時間も
+余裕がありますし──……","Yes, there's ample time 
+before the bus will arrive──..."
+0000000000000,袋を持った女性,"うーん
+お土産、キャリーに入れちゃったほうが楽かなぁ……","Hm....
+Maybe it's easier to put the souvenirs in my carry-on...?"
+2022014020030,小糸,（夜行バスを使う人、こんなにいるんだ）,(There are this many people using the night buses?)
+2022014020040,小糸,"（お友達と旅行の人に、お仕事の人、
+あっちの人は帰省とか……？）","(People travelling with friends, heading home,
+even taking business trips...)"
+2022014020050,小糸,（あ、高校生くらいの子もいる……）,(Huh? High schoolers too...!)
+2022014020060,小糸,すごいな……,Everyone's...so brave.
+2022014020070,小糸,"（アイドルになって
+色んなことを経験したつもりだったけど）","(I thought I'd already experienced so many new things
+in my time as an idol.)"
+2022014020080,小糸,"（まだ、知らないことや
+やったことないことがたくさんある）","(But there's still so much I don't know about...
+and have yet to do...)"
+2022014020090,小糸,"（……ひとりで遠くに行くのも
+夜行バスを使うのも初めて）","(...It's my first time travelling alone like this, 
+and my first overnight bus trip.)"
+2022014020100,小糸,"（お仕事のときは、みんなや
+プロデューサーさんがついてくれてたけど……）","(While working I always had Producer-san and 
+the other members with me... but now...)"
+2022014020110,小糸,（……今はひとり）,(...I'm all alone.)
+2022014020120,小糸,……大丈夫、ちゃんと調べてきたんだから……,"...It'll be fine. After all, I did my research..."
+2022014020130,小糸,──……あ,──...Oh!
+2022014020140,小糸,"（お母さんと……
+プロデューサーさんからもメッセージ……）","(Texts from my mom and
+Producer-san, too...)"
+2022014020150,小糸,…………,...
+2022014020160,小糸,……ふふっ,"...Ehehe. "
+2022014020170,小糸,"（お母さんとプロデューサーさん
+最後の部分、同じこと書いてる）","(They both wrote the same thing
+at the end...)"
+0000000000000,off,『気を付けていってらっしゃい』,"""Be careful and have a safe trip."""
+2022014020180,小糸,……うん、いってきます,...I'll be off then...!
+0000000000000,アナウンス,──20時発のバスにお乗りのお客様は──……,"──Attention all passengers, the bus scheduled for 20:00 hours will be──..."
+2022014020190,小糸,……！,...!
+2022014020200,小糸,…………,......
+2022014020210,小糸,"（……絵葉書の人も、外へ出るとき
+こんな気持ちだったのかな……）","(I wonder if this is what going outside felt
+for the person who wrote the fan letter...)"
+2022014020220,小糸,"（電気はついてるし、人もたくさんいるけど
+やっぱりちょっと、心細い）","(There's plenty of light and people around, but...
+I still feel a little uneasy...)"
+2022014020230,小糸,（──……でも）,(──But...)
+2022014020240,小糸,やってみるって、決めたから……,"...This was my decision, I'm going to see it through...!"
+info,produce_events/202201402.json,
+Translator,pyon,
