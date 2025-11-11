@@ -61,6 +61,7 @@ ae/work_activity_start/images/right_2.png,4
 ae/work_activity_start/images/stage.png,4
 ae/work_activity_start/images/yellow_1.png,4
 ae/work_activity_start/images/yellow_2.png,4
+awake_icon_twinkle.png,1
 base_place_level_up.png,8
 beginner_mission_base.png,2
 bg.jpg,8
@@ -352,6 +353,21 @@ images/content/characters/concert_icon_rival/010.png,1
 images/content/characters/concert_icon_rival/011.png,1
 images/content/characters/concert_icon_rival/012.png,1
 images/content/characters/concert_icon_rival/013.png,1
+images/content/characters/concert_icon_rival/014.png,1
+images/content/characters/concert_icon_rival/015.png,1
+images/content/characters/concert_icon_rival/016.png,1
+images/content/characters/concert_icon_rival/017.png,1
+images/content/characters/concert_icon_rival/018.png,1
+images/content/characters/concert_icon_rival/019.png,1
+images/content/characters/concert_icon_rival/020.png,1
+images/content/characters/concert_icon_rival/021.png,1
+images/content/characters/concert_icon_rival/022.png,1
+images/content/characters/concert_icon_rival/023.png,1
+images/content/characters/concert_icon_rival/024.png,1
+images/content/characters/concert_icon_rival/025.png,1
+images/content/characters/concert_icon_rival/026.png,1
+images/content/characters/concert_icon_rival/027.png,1
+images/content/characters/concert_icon_rival/028.png,1
 images/content/characters/concert_player_icon/013.png,8
 images/content/characters/concert_player_icon/015.png,8
 images/content/characters/concert_player_icon/017.png,3
@@ -965,7 +981,7 @@ images/content/facility_items/icon/1001.png,1
 images/content/facility_items/icon/1101.png,1
 images/content/facility_items/icon/1201.png,1
 images/content/facility_items/icon/1301.png,1
-images/content/fes_judge_reaction_skills/icon.json_image,1
+images/content/fes_judge_reaction_skills/icon.json_image,2
 images/content/fes_marathons/album_banner/20032.png,1
 images/content/fes_marathons/cover/20021.png,2
 images/content/fes_match_grades/bg/003.png,7
@@ -1064,6 +1080,7 @@ images/content/gasha_tickets/icon_s/003.png,8
 images/content/gasha_tickets/icon_s/1007.png,8
 images/content/gasha_tickets/icon_s/1010.png,8
 images/content/gasha_tickets/icon_s/1015.png,8
+images/content/gasha_tickets/simple_icon_l/184.png,1
 images/content/home_deck_background/bg/00001.jpg,8
 images/content/home_deck_background/bg/00002.jpg,7
 images/content/home_deck_background/bg/00003.jpg,7
@@ -2293,6 +2310,7 @@ images/content/produce_items/icon/11001.png,3
 images/content/produce_items/icon/11002.png,3
 images/content/produce_items/icon/11003.png,3
 images/content/produce_items/icon/11004.png,3
+images/content/produce_items/icon/1d1fa06a41816cf1aef1bdb99322cfb7_11004.png,4
 images/content/produce_items/icon/add01712c10187778ccace6fc50c4e3c_11802.png,2
 images/content/produce_items/icon/30001.png,3
 images/content/produce_items/icon/6a6fb127e371b10913c1462f31277a18_30001.png,4
@@ -2647,6 +2665,7 @@ images/content/produces/filter_icon/003.png,2
 images/content/produces/filter_icon/004.png,2
 images/content/produces/filter_icon/005.png,1
 images/content/produces/filter_icon/006.png,1
+images/content/produces/icon/001.png,2
 images/content/produces/icon/003.png,2
 images/content/produces/icon/005.png,1
 images/content/produces/icon/006.png,1
@@ -2682,6 +2701,7 @@ images/content/recovery_items/icon/221.png,8
 images/content/recovery_items/icon/300.png,2
 images/content/recovery_items/icon_s/211.png,3
 images/content/recovery_items/simple_icon_l/100.png,4
+images/content/recovery_items/simple_icon_l/103.png,1
 images/content/scout_tickets/icon/9031.png,3
 images/content/scout_tickets/icon/9041.png,2
 images/content/scout_tickets/icon/9043.png,2
@@ -2842,7 +2862,7 @@ images/content/shop_merchandises/icon/50402.png,7
 images/content/shop_merchandises/icon/700063.png,2
 images/content/shop_merchandises/icon/700064.png,2
 images/content/shop_merchandises/icon/90036.png,2
-images/content/skill_effects/icon.json_image,30
+images/content/skill_effects/icon.json_image,31
 images/content/skins/skin_icon/10015.png,2
 images/content/skins/skin_icon/1015.png,2
 images/content/skins/skin_icon/11015.png,2
@@ -2917,6 +2937,7 @@ images/content/support_idols/card/90703d77134924ff3eb459e8c81cecfd_2040030030.jp
 images/content/support_idols/card/92c1afd2cd79930e115aa70602769b95_2040030070.jpg,2
 images/content/support_idols/card/d76a3655c51c33d63a43e35675d562f4_2030200030.jpg,1
 images/content/support_idols/card/f2bbb07f82f1fbfe2016764efa504571_2040910010.jpg,1
+images/content/support_idols/card/b13c778a016f8326f3e0a989bf2421d2_2040280050.jpg,1
 images/content/support_idols/icon/025bc31147340e4b55baf50910325b8a_2020120010.png,8
 images/content/support_idols/icon/063ec74ff82ad8557c89db394550ac1e_2040010040.png,6
 images/content/support_idols/icon/08a5cec78dbc13db3c20fa6eeb33b6fd_2040070020.png,4
@@ -3525,6 +3546,7 @@ images/event/bg/00451.jpg,2
 images/event/bg/00454.jpg,2
 images/event/bg/00465.jpg,2
 images/event/bg/00484.jpg,2
+images/event/bg/00489.jpg,2
 images/event/bg/00506.jpg,2
 images/event/bg/00509.jpg,2
 images/event/bg/00531.jpg,2
@@ -3547,6 +3569,7 @@ images/event/bg/00696.jpg,1
 images/event/bg/00735.jpg,1
 images/event/bg/00736.jpg,1
 images/event/bg/00740.jpg,1
+images/event/bg/00744.jpg,1
 images/event/bg/00911.jpg,1
 images/event/bg/01067.jpg,1
 images/event/bg/01068.jpg,1
@@ -3588,15 +3611,17 @@ images/event/text_frame/016.png,1
 images/tips/game_event/80004/001.jpg,2
 images/tips/game_event/80004/012.jpg,2
 images/tutorial/mask/mask.png,8
+images/ui/awake_idol/parts.json_image,1
 images/ui/character_profile/parts_base.json_image,1
 images/ui/cloth_change/parts.json_image,8
+images/ui/common/parts_awake_idol_icon.json_image,1
 images/ui/common/page_base.jpg,1
 images/ui/common/parts_card_frame.json_image,8
 images/ui/common/parts_cb_plate.json_image,1
 images/ui/common/parts_curtain_animation.json_image,3
 images/ui/common/parts_effect.json_image,8
 images/ui/common/parts_fes_deck_rank.json_image,9
-images/ui/common/parts_link_skill_dialog.json_image,11
+images/ui/common/parts_link_skill_dialog.json_image,12
 images/ui/common/parts_moving_bg.json_image,8
 images/ui/common/parts_moving_spotlight.json_image,3
 images/ui/common/parts_pagenator.json_image,4
@@ -3631,7 +3656,7 @@ images/ui/concert/parts_fan.json_image,3
 images/ui/concert/parts_fan_meeting.json_image,4
 images/ui/concert/parts_music_video.json_image,1
 images/ui/concert/parts_number.json_image,13
-images/ui/concert/parts_text.json_image,13
+images/ui/concert/parts_text.json_image,14
 images/ui/concert/parts_turn_number.json_image,4
 images/ui/concert/parts_quick_skill_cutin.json_image,1
 images/ui/deprecation/parts.json_image,9
@@ -3715,7 +3740,7 @@ images/ui/select_login_bonus/seal_mask.png,3
 images/ui/select_login_bonus/seal_turn.png,3
 images/ui/select_login_bonus/touch.png,3
 images/ui/shop/parts_small_tab.json_image,3
-images/ui/shop/parts_small_tab_short.json_image,3
+images/ui/shop/parts_small_tab_short.json_image,4
 images/ui/skill_board/bg.jpg,7
 images/ui/skill_board/parts_produce_area_skill.json_image,3
 images/ui/survey/survey_base.png,1
