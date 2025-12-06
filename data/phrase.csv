@@ -123,7 +123,7 @@ announce.maintenance,メンテナンス,Maint.
 announce.problem,不具合,Issue
 announce.ticket,チケット,Ticket
 businessSlotExpansion,追加営業枠,More Job Slots
-bnCoin,バナコイン,Banacoin
+bnCoin,バナコイン,BanaCoin
 characterAlbum.tab.voice,ボイス,Voice
 characterAlbum.tab.costume,衣装,Costume
 characterAlbum.tab.commu,共通コミュ,Commus
@@ -291,7 +291,7 @@ errorDialog.purchaseDeferredTitle,制限,Restriction
 errorDialog.purchaseDeferred,ご購入が制限されております。\n制限が解除されるまでご購入はできません。,Purchase restricted.\nUnable to purchase until restriction is lifted.
 errorDialog.purchaseRestoreTitle,購入エラー,Purchase Error
 errorDialog.purchaseRestore,購入処理を完了できませんでした。\nしばらくしてからもう一度お試しください。\n購入のリトライをしますか？,Unable to complete purchase.\nPlease try again later.\nWould you like to retry?
-errorDialog.note.noSettlementProcess,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。,"※Even if page is reloaded, there will be no duplicate BanaCoin or Feather Jewel transactions."
+errorDialog.note.noSettlementProcess,※再読み込みしてもバナコイン、フェザージュエル\n決済処理が多重に行われることはありません。,"※Even if page is reloaded, there will be no duplicate BanaCoin\nor Feather Jewel transactions."
 errorDialog.contextLost.appText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nアプリの再起動をお試しください。,"Failed to load images.\nPlease press the Reload button.\nIf the problem persists,\nplease try restarting the app."
 errorDialog.contextLost.browserText,画像の読み込みに失敗しました。\n再読み込みボタンを押して再読み込みしてください。\n改善されない場合には\nブラウザの再起動をお試しください。,"Failed to load images.\nPlease press the Reload button.\nIf the problem persists,\nplease try restarting your browser."
 errorDialog.contextLost.buttonText,再読み込み,Reload
@@ -439,7 +439,7 @@ gasha.tweetLayerMessage,ツイートしたいアイドルを選択してくだ�
 gasha.gashaText,%{quantity}回引く,%{quantity} pulls
 gasha.popTicketDesc,%{ticketName}を\r消費してガシャを%{quantity}回引きます。\rよろしいですか？,This will consume %{ticketName}\rand pull %{quantity} times.\rAre you sure?
 gasha.popJewelDesc,フェザージュエルを%{price}個消費して\rガシャを%{quantity}回引きます。\rよろしいですか？,This will consume %{price} Feather Jewels.\r\nGacha will be drawn %{quantity} times.\r\nAre you sure?
-gasha.popBanaCoinDesc,バナコインでガシャを%{quantity}回引きますか？,Pull %{quantity} times using Banacoins?
+gasha.popBanaCoinDesc,バナコインでガシャを%{quantity}回引きますか？,Pull %{quantity} times using BanaCoins?
 gasha.popFreeDesc,無料で1回ガシャを引きますか？,Would you like to use your free pull?
 gasha.popRedrawConfirm.title,ご注意,Warning
 gasha.popRedrawConfirm.comment,「初回限定！運命の出会いガシャ」は、\nお気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です。,"You can continue to re-roll this\n""Fateful Meeting Gacha"" as many times\nas you like until your desired idol appears."
@@ -501,18 +501,18 @@ jewelPurchase.limitation.parentPermissionTitle,法定代理人の同意確認,Co
 jewelPurchase.limitation.parentPermissionMessage,未成年の方がアプリ専用通貨等を\n購入される場合には、法定代理人(ご両親等)の\n同意を得てから購入してください\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください,"If a minor purchases this app's currency\nit must be obtained with a guardian's permission.\n\n※If you don't understand,\nplease check with your legal guardian."
 jewelPurchase.productsDialog.title,フェザージュエル購入,Purchase Feather Jewels
 jewelPurchase.productsDialog.productNum,%{num}個,%{num}
-jewelPurchase.productsDialog.priceLabel,必要バナコイン,Req. Banacoin
+jewelPurchase.productsDialog.priceLabel,必要バナコイン,Req. BanaCoin
 jewelPurchase.productsDialog.priceLabelNative,価格,Price
 jewelPurchase.productsDialog.purchaseLimitText,%{purchasedNum}/%{limitNum}回,%{purchasedNum}/%{limitNum} times
 jewelPurchase.confirmDialog.title,購入確認,Purchase Confirmation
-jewelPurchase.confirmDialog.messageBeforeBC,バナコインでジュエル,Jewels with Banacoin
+jewelPurchase.confirmDialog.messageBeforeBC,バナコインでジュエル,Jewels with BanaCoin
 jewelPurchase.confirmDialog.messageAfter,を購入しますか?,Purchase This?
 jewelPurchase.confirmDialog.purchaseNum,%{num}個,%{num}
 jewelPurchase.purchasedDialog.title,購入完了,Purchase Complete
 jewelPurchase.purchasedDialog.messageAfter,を購入しました,Purchased
 jewelPurchase.purchasedDialog.possessionJewel,所持ジュエル,Owned Jewels
-jewelPurchase.purchasedDialog.possessionBC,所持バナコイン,Owned Banacoin
-staffItemPoint,シール,Seal
+jewelPurchase.purchasedDialog.possessionBC,所持バナコイン,Owned BanaCoin
+staffItemPoint,シール,Sticker
 header.album,アルバム,Album
 header.comic,４コマ漫画,4Koma Comics
 header.exSkill,Exスキル変更,Change Ex Skill
@@ -847,7 +847,7 @@ shop.headerTitles.jewel,ジュエル,Jewels
 shop.headerTitles.gameEvent,イベント,Event
 shop.headerTitles.prevGameEvent,イベント,Event
 shop.headerTitles.premium,プレミアム,Premium
-shop.headerTitles.staffItemPoint,はづきさん,Seals
+shop.headerTitles.staffItemPoint,はづきさん,Stickers
 shop.headerTitles.memorialPiece,メモリアルピース,Memory\nPieces
 shop.headerTitles.exchangeItem,衣装,Outfit
 shop.headerTitles.trade,リサイクル,Recycle
@@ -855,7 +855,7 @@ shop.shopDescriptions.money,マニーを使用してアイテムと交換でき�
 shop.shopDescriptions.jewel,フェザージュエルを使用してアイテムと交換できます,Can purchase items using Feather Jewels
 shop.shopDescriptions.gameEvent,イベントで入手したポイントとアイテムを交換できます,Can purchase items using Event Points
 shop.shopDescriptions.premium,いろいろなお買い得アイテムを購入できます,Can purchase various bargain items
-shop.shopDescriptions.staffItemPoint,はづきさんシールを使用してアイテムと交換できます,Can purchase items with Hazuki Seals
+shop.shopDescriptions.staffItemPoint,はづきさんシールを使用してアイテムと交換できます,Can purchase items with Hazuki Stickers
 shop.shopDescriptions.memorialPiece,メモリアルピースを使用してアイテムと交換できます,Can purchase items with Memorial Pieces
 shop.shopDescriptions.exchangeItem,特別な衣装の交換・確認ができます,Special Outfit Exchange・Verification
 shop.shopDescriptions.trade,複数のアイテムを別のアイテムに変換できます,Convert various items into other items
@@ -879,11 +879,11 @@ shop.purchaseConfirmation.notice.convertMerchandise,解放済みのコミュは�
 shop.purchaseConfirmation.notice.jewelMerchandise,無償フェザージュエルから先に消費されます,Free Feather Jewels will be consumed first
 shop.exchangeConfirmation.title,交換確認,Exchange Confirmation
 shop.exchangeConfirmation.message,%{exchangeItemName}を消費して\n以下のアイテムと交換しますか？,Exchange %{exchangeItemName}\r\nfor this item？
-shop.banaCoinShopNotice,バナコイン決済とクレジットカードかんたん決済が使用できます,Banacoins and Credit Cards can be used. 
+shop.banaCoinShopNotice,バナコイン決済とクレジットカードかんたん決済が使用できます,BanaCoins and Credit Cards can be used. 
 shop.purchaseError.purchaseCountOver,購入上限を超えています,Purchase limit exceeded
 shop.purchaseError.possessionCountOver,所持上限を超えています,Owned limit exceeded
 shop.purchaseError.moneyShortage,マニーが足りません,Not enough Money
-shop.useBanaCoinConfirmation.message,バナコインで以下のアイテムを%{purchaseCount}個購入します,Purchase %{purchaseCount} with Banacoins
+shop.useBanaCoinConfirmation.message,バナコインで以下のアイテムを%{purchaseCount}個購入します,Purchase %{purchaseCount} with BanaCoins
 shop.purchaseResult.title,購入結果,Purchase Results
 shop.purchaseResult.message,%{title}を購入しました,%{title} Purchased
 shop.purchaseResult.twoLinesMessage,%{title}を\r購入しました,%{title}\r\nPurchased
@@ -979,7 +979,7 @@ twitter.tweetFailedDialog.description,投稿に失敗しました\nもう一度�
 twitter.tweetFailedLimitRateDialog.title,エラー,Error
 twitter.tweetFailedLimitRateDialog.description,ゲーム全体でのツイート数が\nTwitterの制限に達しているため\nツイートすることができません\n\nしばらく時間を置いてお試しください,Unable to post since the\nno. of tweets in the game has\nreached Twitter's limit.\n\nPlease try again later.
 useBanaCoinPop.title,使用確認,Confirm Use
-useBanaCoinPop.checkDescription,enzaポイントをバナコインに変換する,Convert Enza Points to Banacoins.
+useBanaCoinPop.checkDescription,enzaポイントをバナコインに変換する,Convert Enza Points to BanaCoins.
 workActivityTop.motivationLevel,モチベーションボーナス %{motivationLevel},Motivation Bonus %{motivationLevel}
 workActivityTop.createItemTitle,お手製差し入れ作成,Create Handmade Goods
 workActivityTop.createItemResultTitle,作成結果,Creation Result
@@ -1007,7 +1007,7 @@ individualRanking.accumulatedPresentGetPopup.title,累計ファン数達成報�
 individualRanking.accumulatedPresentGetPopup.text,以下のアイテムがプレゼントBOXに送られました,Rewards sent to the Gift Box
 individualRanking.characterRankingOutOfTermPop.title,集計期間外,Outside Result Period
 individualRanking.characterRankingOutOfTermPop.text,現在は\n「%{name}」\nのランキング集計期間外です\n\n集計期間外にプロデュースや営業を達成しても\nイベントランキングのファン数には加算されません,現在は\n「%{name}」\nのランキング集計期間外です\n\n集計期間外にプロデュースや営業を達成しても\nイベントランキングのファン数には加算されません
-staffItemPointSimple,シール,Seal
+staffItemPointSimple,シール,Sticker
 trust.rewardPop.innerLabel,信頼度はすべてのプロデュースアイドルで共通となります。,Trust Level is shared among all Produce Idol cards.
 trust.rewardPop.level,信頼度\rLv.%{level},Trust\r\nLv.%{level}
 trust.rewardPop.rewardName,%{name}×%{num},%{name}×%{num}
@@ -1092,7 +1092,7 @@ gameEvent.eventEnded,イベント開催期間は終了しました,The event per
 announce.eventNotice,イベント予告,Event
 announce.songInfo,楽曲情報,Song Info
 evolution.reward.title,解放,Unlock
-evolution.reward.header,%{name}を\n%{times}回特訓したため,%{name}\nwill Evolve %{times} times
+evolution.reward.header,%{name}を\n%{times}回特訓したため,%{name}\nhas Evolved %{times} times
 evolution.reward.getTitle,・特訓称号,・Evolve Title
 evolution.reward.getVoiceHeader,・特訓ホームボイス,・Evolve Home Voice Line
 evolution.reward.footer,が解放されました。,has been unlocked.
@@ -2964,3 +2964,111 @@ gradeFesConcert.judgeAppealBonusDetailDialog.activationCount,【ボーナス出�
 gradeFesConcert.judgeAppealBonusDetailDialog.noLimitActivationCountText,制限なし,No Limits
 gradeFesConcert.appealStatusText,%{name}のアピール状況,%{name}'s Appeal Status
 gradeFesReady.judgeDetailDialogTitle,審査員詳細,Judge Details
+filter.categories.idolState,アイドルの状態,Idol's State
+filter.texts.idolState.foil,フォイル化\nあり,Has\nFoil
+filter.texts.idolState.canAwake,メモリー\nブーストあり,Can\nMemory Boost
+characterAlbum.commu.awakeCommunicationReleasedConditionText,%{name}のメモリーブースト達成報酬で解放,%{name}のメモリーブースト達成報酬で解放
+characterAlbum.costumeDisplay.plain,私服衣装,Regular Outfit
+characterAlbum.costumeDisplay.concert,ライブ衣装,Live Outfit
+characterAlbum.costumeDisplay.expansion,特別衣装,Special Outfit
+common.growthSkill.conditionSeparator,\[Lv.条件:(.*)\]$,\[Lv.Cond:(.*)\]$
+common.refrainSkill.name,リフレインアピール,Refrain Appeal
+common.refrainSkill.conditionSeparator,\[条件:(.*)\]$,\[Cond:(.*)\]$
+common.refrainSkill.refrainSkillCondition,[条件:%{condition}]\n%{title},[Cond:%{condition}]\n%{title}
+common.refrainSkill.notApplicableText, 「リフレインの効果の対象となるアピールがありません」, 「リフレインの効果の対象となるアピールがありません」
+extraCampaign.result.outerLinkConfirmationDialog.title,個人情報入力へ,Enter Personal Info
+extraCampaign.result.outerLinkConfirmationDialog.description,外部サイトに移動します,You will be redirected to an external site.
+extraCampaign.result.outerLinkConfirmationDialog.notices.1,以下のフォームで住所情報入力まで完了してください\n入力されない場合、参加権が無効となりますのでご注意ください,以下のフォームで住所情報入力まで完了してください\n入力されない場合、参加権が無効となりますのでご注意ください
+evolution.parallelIdolLetterRelease.idolComment,アイドルからの手紙\n[%{idolName}]が\n解放されました,Letter from Idol\n[%{idolName}] has\nbeen unlocked.
+evolution.parallelIdolLetterRelease.staffComment,特別な手紙\n[%{idolName}]が\n解放されました,特別な手紙\n[%{idolName}]が\n解放されました
+evolution.parallelIdolLetterVoiceRelease.idolComment,アイドルからの手紙(ボイス)\n[%{idolName}]が\n解放されました,アイドルからの手紙(ボイス)\n[%{idolName}]が\n解放されました
+evolution.parallelIdolLetterVoiceRelease.staffComment,特別な手紙(ボイス)\n[%{idolName}]が\n解放されました,特別な手紙(ボイス)\n[%{idolName}]が\n解放されました
+evolution.castingIdolScriptRelease.comment,[%{idolName}]の\n%{contentName}が解放されました,[%{idolName}]の\n%{contentName}が解放されました
+evolution.castingIdolScriptVoiceRelease.comment,[%{idolName}]の\n%{contentName}ボイスが解放されました,[%{idolName}]の\n%{contentName}ボイスが解放されました
+evolution.reward.getCostumeRelease,・特別衣装%{number},・特別衣装%{number}
+evolution.reward.getWhisperVoice,・ささやきボイス,・ささやきボイス
+evolution.infoToPlayWhisperVoice,ささやきボイスは\nサポートアイドル詳細で再生が可能です,ささやきボイスは\nサポートアイドル詳細で再生が可能です
+awakeIdol.confirm.title,メモリーブースト,Memory Boost
+awakeIdol.confirm.comment,メモリーチャームを消費して\n%{name}を\nメモリーブーストします,メモリーチャームを消費して\n%{name}を\nメモリーブーストします
+awakeIdol.confirm.notice1,メモリーチャームが不足しています,メモリーチャームが不足しています
+awakeIdol.confirm.notice2,前段階のメモリーブースト完了後、メモリーブーストが可能です,前段階のメモリーブースト完了後、メモリーブーストが可能です
+awakeIdol.awakeStepResultDialog.title,解放,解放
+awakeIdol.awakeStepResultDialog.header,%{name}を\n%{awakeStep}段階メモリーブーストしたため,%{name}を\n%{awakeStep}段階メモリーブーストしたため
+awakeIdol.awakeStepResultDialog.footer,が解放されました,が解放されました
+awakeIdol.awakeStepResultDialog.rewardSkill,メモリーブーストスキル%{releasedStep}段階目,メモリーブーストスキル%{releasedStep}段階目
+awakeIdol.awakeStepReward.skill_shorten,スキル解放,Unlock Skill
+awakeIdol.awakeStepReward.skill,メモリーブースト\nスキル解放,メモリーブースト\nスキル解放
+awakeIdol.awakeStepReward.form_change,メモリースタイル,Memory Style
+awakeIdol.awakeStepReward.status,基礎能力UP＋%{value},Base Stat UP +%{value}
+awakeIdol.characterAwakeRewardConditionDialog.title,報酬詳細,Reward Details
+awakeIdol.characterAwakeRewardConditionDialog.releaseConditionName,%{name}の,%{name}'s
+awakeIdol.characterAwakeRewardConditionDialog.rewardStatus,%{name}の基礎能力UP,Increase %{name}'s Base Stats
+awakeIdol.characterAwakeRewardConditionDialog.rewardConditions.fes_idol_count_by_rank,%{name}の%{rank}ランク以上のフェスアイドルを\n%{conditionValue2}人誕生させる,Create %{conditionValue2} %{rank} Rank\nor higher Fes Idol for %{name}
+awakeIdol.characterAwakeRewardConditionDialog.rewardConditions.grade_fes_rank,グレードフェスでグレード%{conditionValue1}になる,Reach Rank %{conditionValue1} in Grade Fes
+awakeIdol.characterAwakeRewardConditionDialog.rewardConditions.trust_level,%{name}の信頼度Lv.%{conditionValue1}以上になる,Reach Trust Lv. %{conditionValue1} for %{name}
+awakeIdol.characterAwakeRewardObtainDialog.title,メモリーブースト達成報酬,メモリーブースト達成報酬
+fes.result.scoreDetail.appealPoint,アピールポイント,Appeal Points
+fes.deckMemberBonusStatus.awakeUnitBonus,メモリーブーストボーナス %{value}％,Memory Boost Bonus %{value}％
+gameEvent.hitAndBlowEvent.startGamePop.title,シナリオ再生確認,シナリオ再生確認
+gameEvent.hitAndBlowEvent.startGamePop.text,オープニング\n%{name}\nを再生しますか？,オープニング\n%{name}\nを再生しますか？
+gameEvent.hitAndBlowEvent.resumeGamePop.title,確認,Confirm
+gameEvent.hitAndBlowEvent.resumeGamePop.text,プレイ中のゲームがあります\n再開しますか？,プレイ中のゲームがあります\n再開しますか？
+gameEvent.hitAndBlowEvent.onReleaseCharacterPop.title,再生確認,再生確認
+gameEvent.hitAndBlowEvent.onReleaseCharacterPop.text,%{characterName}のコミュを\n解放しました\n\n再生しますか？,%{characterName}のコミュを\n解放しました\n\n再生しますか？
+gameEvent.hitAndBlowEvent.exchangeItemNotEnoughPop.title,アイテム確認,アイテム確認
+gameEvent.hitAndBlowEvent.exchangeItemNotEnoughPop.text,解放アイテムを所持していません\nショップで購入しますか？,解放アイテムを所持していません\nショップで購入しますか？
+gameEvent.hitAndBlowEvent.commuListPop.title,コミュ一覧,List of Commu
+gameEvent.hitAndBlowEvent.rewardReceivePop.title,報酬受け取り,報酬受け取り
+gameEvent.hitAndBlowEvent.rewardReceivePop.text,以下の報酬を受け取りました,以下の報酬を受け取りました
+gameEvent.hitAndBlowEvent.endingCommuUnlockPop.title,コミュ解放,コミュ解放
+gameEvent.hitAndBlowEvent.endingCommuUnlockPop.text,以下のコミュを解放しました\nコミュ一覧から再生可能です,以下のコミュを解放しました\nコミュ一覧から再生可能です
+gasha.scoutGasha.useConfirmation.multiDescription,セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？,セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？
+gasha.whisperVoiceIdolGetPop.title,ささやきボイス付きアイドル加入,ささやきボイス付きアイドル加入
+gasha.whisperVoiceIdolGetPop.text,%{idolName}\nが加入したため\n%{title}\nが解放されました\n\nサポートアイドル詳細で再生が可能です,%{idolName}\nが加入したため\n%{title}\nが解放されました\n\nサポートアイドル詳細で再生が可能です
+header.awakeIdolList,メモリーブーストアイドル選択,メモリーブーストアイドル選択
+header.awakeIdolDetail,メモリーブースト,メモリーブースト
+homeDeck.illustDescriptionLabelText.plain,私服衣装,Regular Outfit
+homeDeck.illustDescriptionLabelText.concert,ライブ衣装,Live Outfit
+homeDeck.illustDescriptionLabelText.idol_illust,特別イラスト  %{stage}/%{maxStage},特別イラスト  %{stage}/%{maxStage}
+homeDeck.illustDescriptionLabelText.picture_motion_plain,私服衣装,Regular Outfit
+homeDeck.illustDescriptionLabelText.picture_motion_concert,ライブ衣装,Live Outfit
+homeDeck.illustDescriptionLabelText.awake_concert,メモリースタイル,Memory Style
+supportIdolDetail.IllustReleaseOpenConditionDialog.title,特別イラスト公開,特別イラスト公開
+supportIdolDetail.IllustReleaseOpenConditionDialog.description,特訓回数%{times}回で\n特別イラストが解放されます,特訓回数%{times}回で\n特別イラストが解放されます
+supportIdolDetail.IllustReleaseOpenConditionDialog.illustSelectLock,　特訓回数%{times}回で\n特別イラストが解放されます,　特訓回数%{times}回で\n特別イラストが解放されます
+idolDetail.fromGashaNoticeWithIllustRelease,特別イラストに切り替えはできません,特別イラストに切り替えはできません
+idolDetail.whisperVoicePlayPop.title,ささやきボイス再生確認,ささやきボイス再生確認
+idolDetail.whisperVoicePlayPop.text,ささやきボイス音声を再生します\n\n快適に楽しむためには、ヘッドホンまたは\nイヤホンの使用をおすすめします,ささやきボイス音声を再生します\n\n快適に楽しむためには、ヘッドホンまたは\nイヤホンの使用をおすすめします
+idolDetail.whisperVoiceDetailDialog.title,%{title} 詳細,%{title} Details
+idolDetail.whisperVoiceDetailDialog.text,%{title}を再生できます,%{title}を再生できます
+idolDetail.produceIdolStatusUpText,基礎能力UP：,Base Stat UP:
+idolDetail.produceIdolStatusUpPop.foilEffect,フォイル化,Foil
+idolDetail.produceIdolStatusUpPop.awakeEffect,メモリーブースト,Memory Boost
+idolDetail.letterFromIdolDetailDialog.idol.title,「アイドルからの手紙」詳細,「アイドルからの手紙」詳細
+idolDetail.letterFromIdolDetailDialog.idol.description,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます,パラレルコレクションのアイドルから\nあなたへの手紙を閲覧できます
+idolDetail.letterFromIdolDetailDialog.idol.condition,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」
+idolDetail.letterFromIdolDetailDialog.idol.message,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます,特訓2回目で、手紙が解放\n特訓4回目で、アイドルがあなたへの手紙を読み上げてくれます
+idolDetail.letterFromIdolDetailDialog.staff.title,「特別な手紙」詳細,「特別な手紙」詳細
+idolDetail.letterFromIdolDetailDialog.staff.description,パラレルコレクションのキャラから\nあなたへの手紙を閲覧できます,パラレルコレクションのキャラから\nあなたへの手紙を閲覧できます
+idolDetail.letterFromIdolDetailDialog.staff.condition,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」,・特訓2回目「手紙解放」\n・特訓4回目「手紙のボイス解放」
+idolDetail.letterFromIdolDetailDialog.staff.message,特訓2回目で、手紙が解放\n特訓4回目で、キャラがあなたへの手紙を読み上げてくれます,特訓2回目で、手紙が解放\n特訓4回目で、キャラがあなたへの手紙を読み上げてくれます
+idolDetail.scriptDetailDialog.title,「台本」の詳細,「台本」の詳細
+idolDetail.scriptDetailDialog.description,キャスティングコレクションのアイドルが\n演じる台本を閲覧できます,キャスティングコレクションのアイドルが\n演じる台本を閲覧できます
+idolDetail.scriptDetailDialog.condition,・特訓2回目「台本解放」\n・特訓4回目「台本のボイス解放」,・特訓2回目「台本解放」\n・特訓4回目「台本のボイス解放」
+idolDetail.scriptDetailDialog.message,特訓2回目で、台本が解放\n特訓4回目で、台本の内容を演じてくれます,特訓2回目で、台本が解放\n特訓4回目で、台本の内容を演じてくれます
+idolDetail.IllustReleaseOpenConditionDialog.title,特別イラスト公開,特別イラスト公開
+idolDetail.IllustReleaseOpenConditionDialog.description,特訓することで\n特別イラストが解放されます,特訓することで\n特別イラストが解放されます
+produceAction.actionTypeTab.jointPractice.efficiency,練習効率 %{efficiency}%,練習効率 %{efficiency}%
+shop.smallTabTitles.idolPiece.perform,彩,Perform
+skillPanelLockOverlay.releasedConditionsWithEvolution,特訓%{requiredEvolutionStage}回目で解放,特訓%{requiredEvolutionStage}回目で解放
+skillPanelLockOverlay.releasedConditionsWithMemoryAppealLevel,思い出Lv.%{requiredMemoryAppealLevel}で解放,思い出Lv.%{requiredMemoryAppealLevel}で解放
+skillPanelLockOverlay.releasedConditionsWithMemoryAppealLevelAndEvolution,思い出Lv.%{requiredMemoryAppealLevel}、特訓%{requiredEvolutionStage}回目で解放,思い出Lv.%{requiredMemoryAppealLevel}、特訓%{requiredEvolutionStage}回目で解放
+supportIdol.whisperReleaseConditionNone,ささやきボイスアイドルの獲得,ささやきボイスアイドルの獲得
+supportIdol.whisperReleaseConditionEvolution,特訓%{stage}回目で解放,特訓%{stage}回目で解放
+twitter.illustrationSelectDialog.illustrationType.awakeFesCard,メモリースタイル,Memory Style
+twitter.illustrationSelectDialog.illustrationType.illustReleaseStage,特別イラスト%{stage},特別イラスト%{stage}
+letterFromIdol.idol.title,アイドルからの手紙,Letter from Idol
+letterFromIdol.idol.voiceLockMessage,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます
+letterFromIdol.staff.title,特別な手紙,Special Letter
+letterFromIdol.staff.voiceLockMessage,キャラを★4にすると\nキャラが手紙を読み上げてくれます,キャラを★4にすると\nキャラが手紙を読み上げてくれます
+scriptViewer.voiceLockMessage,アイドルを★4にすると\nアイドルが台本を読み上げてくれます,アイドルを★4にすると\nアイドルが台本を読み上げてくれます

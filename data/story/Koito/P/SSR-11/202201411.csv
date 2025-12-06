@@ -1,38 +1,39 @@
 id,name,text,trans
-0000000000000,夜行バスの運転手,荷物の受け取りがまだの方は──……,Attention all passengers. For those still to collect their luggage──…
-2022014110010,小糸,……ほんとに、来ちゃった,...I really...made it here!
+0000000000000,夜行バスの運転手,荷物の受け取りがまだの方は──……,"Attention all passengers. For those still to collect 
+their luggage──…"
+2022014110010,小糸,……ほんとに、来ちゃった,...I really...did it!
 2022014110020,小糸,……どこかで朝ごはん、食べて……,"Now, to find somewhere to eat breakfast..."
 2022014110030,小糸,そこから電車──……,I'll go catch the train afterwards──...
 2022014110040,小糸,…………,......
 2022014110050,小糸,"（当たり前だけど
-全然知らない景色）","(As I expected...
-this is all so unfamiliar.)"
-2022014110060,小糸,（……次の駅、なんて読むんだろう）,(...How do you even read the name of the next station?)
+全然知らない景色）",(As expected... this is all so unfamiliar.)
+2022014110060,小糸,（……次の駅、なんて読むんだろう）,"(...How is the name of the next station supposed to 
+be read?)"
 2022014110070,小糸,（調べたら出てくるかな……）,(Maybe I should look it up...)
 2022014110080,小糸,──着いた……！,"──Finally, I'm here...!"
-2022014110090,小糸,……綺麗,"...It's beautiful. "
+2022014110090,小糸,……綺麗,...It's so beautiful!
 2022014110100,off,"みんなとの時間でも、お仕事でも……
-いつも、海があった気がする","Whether for work or to simply spend time with everyone...
-it's like I've always come back to the ocean."
+いつも、海があった気がする","Whether working or spending time with everyone...
+it's like the ocean has always been there with me."
 2022014110110,off,だからかな,I wonder if that's why...
 2022014110120,off,"海は『みんなと来る場所』だって
 なんとなく思ってた","The sea has always meant a lot to me.
 Because we always came here... all together. "
 2022014110130,off,……でも、今はわたしだけ,"...But now, I'm here alone. "
 2022014110140,小糸,……もっと、寂しいと思ってたな,"...I thought I'd feel much lonelier. "
-2022014110150,off,他の人と比べたら全然かもしれないけど,I'm sure this wouldn't be a big deal to others...
-2022014110160,off,わたし、少しは大人になれたってことなのかな……,"But for me... 
-I think this is proof of how much I've grown..."
+2022014110150,off,他の人と比べたら全然かもしれないけど,"I'm sure this kind of thing wouldn't be a big deal to 
+others..."
+2022014110160,off,わたし、少しは大人になれたってことなのかな……,But to me... this is proof that I've grown up a little...!
 2022014110170,小糸,"……あっ、そうだ
-人がいないうちに……","...Ah...
-There's really nobody else here, huh..."
+人がいないうちに……","...O-Oh, yeah! 
+While nobody else is here...!"
 2022014110180,小糸,…………,......
 2022014110190,小糸,……これからどうしよう,...What should I get up to now?
 2022014110200,小糸,何するか、全然決めてなかった……,I didn't think this far ahead...
 2022014110210,小糸,……そういうのも調べておけばよかったかな,…I guess I should've included that in my research...
 2022014110220,小糸,"……あっ、お母さんとプロデューサーさんに
-『着いたよ』って連絡……！","...Oh, but first! 
-I'll let mom and Producer-san know I arrived safely...!"
+『着いたよ』って連絡……！","...Oh, I should let mom and Producer-san know 
+I arrived safely...!"
 2022014110230,小糸,…………,......
 2022014110240,小糸,"せっかくだし、みんなに写真送ってみようかな
 お土産のことも聞いて──……","I'll take lots of pictures for everyone while I'm here. 
@@ -43,25 +44,25 @@ And pick up some souvenirs too──..."
 そもそも、やっていいのかわからないけど）","(It might cause some problems if I write back...
 would it be okay to reply anyway?)"
 2022014110280,小糸,"（絵葉書の場所に行ったよって、
-できれば写真もつけて……）","(I'd like to tell them I visited at least...
-and include a photo, too...!)"
+できれば写真もつけて……）","(I'd like to tell them I visited at least... and include 
+a photo...!)"
 2022014110290,小糸,"（こちらこそ、踏み出すきっかけをありがとうって
-伝えられたら……）","(I want to let them know how grateful I am... 
-they gave me the courage to take this trip, after all...)"
+伝えられたら……）","(I want to thank them, too...
+for giving me the courage to take this trip...!)"
 2022014110300,小糸,…………,.......
-2022014110310,小糸,……プロデューサーさんに聞いてみよう,...I'll run it past Producer-san.
+2022014110310,小糸,……プロデューサーさんに聞いてみよう,...I'll run it past Producer-san!
 2022014110320,off,"何がしたいか決めてなくても
 何かしてるうちに、少しずつ見えてくる","Even if you don't have all the answers yet, 
-over time things will gradually become clearer. "
+things will gradually become clearer with time. "
 2022014110330,off,"アイドルになってどうしたいのかわからなかった
 あの頃みたいに","Back when I first became an idol, 
 I was still so unsure of everything..."
 2022014110340,off,"……今のわたしは、何がしたくて
-何になりたいんだろう","...Of what I wanted to do 
-and what kind of person I wanted to be."
+何になりたいんだろう","...Of what I should do 
+and what kind of person I should be."
 2022014110350,off,"……まだ、思いつかないけど
-踏み出し続ければ、前には進めるから","...All I could think was... if I just keep moving forwards...
-surely I'll grow."
-2022014110360,off,ちょっとずつ、考えてみよう──……,One small step at a time──...
+踏み出し続ければ、前には進めるから","...Even if you're unsure, just keep going...!
+If you do, things will surely progress."
+2022014110360,off,ちょっとずつ、考えてみよう──……,So let's take our time to figure it all out──...!
 info,produce_events/202201411.json,
 Translator,pyon,

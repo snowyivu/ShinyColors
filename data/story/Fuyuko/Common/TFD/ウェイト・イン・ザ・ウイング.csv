@@ -1,0 +1,48 @@
+id,name,text,trans
+1018002010010,冬優子,お疲れ様で──,Good wo──
+0000000000000,冬優子,……なんだ、いたんだ,"...Oh, you're here."
+0000000000000,プロデューサー,"ああ、今日は外での仕事がなかったから、書類消化の日だ
+冬優子はレッスン上がりか？","Ah, since I didn't have any work to do outside today,
+it's a paperwork day instead.
+Did Fuyuko's lesson end?"
+1018002010020,冬優子,ええ、ボイトレ終わり,"Yes, my voice training finished."
+0000000000000,冬優子,──……,──......
+0000000000000,プロデューサー,……？,......?
+0000000000000,プロデューサー,え？　どうしたんだ、このコーヒー,Huh? What's wrong? This coffee...
+1018002010030,冬優子,"それ飲んで一息つきなさいよ
+あんた、気付いてないかもだけど、すごい顔してるから","Drink a little and then take a deep breath.
+You might not notice it yourself, but you don't 
+look the best."
+0000000000000,プロデューサー,"そ、そうか……
+ありがとな、冬優子","I-I see......
+Thank you, Fuyuko."
+1018002010040,冬優子,……それ、ふゆのコーヒーよりよっぽど大事なお仕事なの？,"...Hey, is your work really more important than
+coffee from Fuyu?"
+0000000000000,プロデューサー,え、あ、いや……,"Eh, ah, no..."
+1018002010050,冬優子,はあ……,Haah...
+1018002010060,冬優子,"折角のコーヒー、片手間でなんて悲しいです……
+頑張って淹れたから、ちゃんと味わってほしいなって……","It's a waste to drink such great coffee while
+focusing on something else... I worked hard to
+brew it well, so I really want you to savor it properly..."
+0000000000000,プロデューサー,"…………
+……ああ、そうだな。ありがとう、冬優子",".......
+...Ah, I see. Thank you, Fuyuko."
+1018002010070,冬優子,"……別に。あんたが倒れようとどうなろうと、
+プロデューサーの代わりはいるんだから","...Whatever. If you collapse or anything else happens
+to you, there's always someone else ready to take
+your place, Producer."
+0000000000000,プロデューサー,手厳しいな……,That's harsh...
+1018002010080,冬優子,何よ、不満でもあるの？,What? Are you upset?
+1018002010090,冬優子,"……ま、もし他のプロデューサーだったら、
+きっと今のふゆはいなかったんだけど","...Well, if it had been any other producer,
+Fuyu would not be here now."
+1018002010100,冬優子,"あんた以外に、冬優子って呼んでいいなんて、
+言ってやるつもりないから",I'm not going to let anyone but you call me Fuyuko.
+1018002010110,冬優子,……なんか、勝手に呼んでくるやつはいるけどね,"...Well, some jerks call me that anyway, though."
+0000000000000,プロデューサー,はは……,Haha....
+1018002010120,冬優子,……でも……,...But...
+1018002010130,冬優子,"あんたにとってのアイドルはふゆだけじゃなくて……
+ふゆ以外の誰かでも、よかったのよね","Your idol didn't have to be me...
+It could have been someone else, right?"
+info,produce_events/101800201.json,
+Translator,Hitomi,

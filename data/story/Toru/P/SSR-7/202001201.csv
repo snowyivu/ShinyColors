@@ -82,9 +82,13 @@ Are you sure?"
 透に窮屈な思いは、なるべくさせたくないんだ","That might be the case, but... I want you to think 
 about it carefully. I don't want you to feel like 
 you're forced into making this decision."
-select,,本当にいいのか？,Are you really sure about this?
-select,,責任を負うことになる,This means shouldering responsibilities
-select,,忙しくなるぞ？,"You'll be busy, you know?"
+select,,本当にいいのか？,"Are you really
+sure about this?"
+select,,責任を負うことになる,"This means
+shouldering
+responsibilities"
+select,,忙しくなるぞ？,"You'll be busy,
+you know?"
 2020012010140,透,"うん
 欲しいから、今は","Yeah.
 I want them. For now."

@@ -1,6 +1,6 @@
 id,name,text,trans
 2020012020010,透,あ、え、い、う、え、お、あ、お,"A, e, i, u, e, o, a, o."
-0000000000000,先生,もっとお腹に意識向けてー,Put more focus on your stomachー
+0000000000000,先生,もっとお腹に意識向けてー,Put more focus on your stomach──
 2020012020020,透,あ、え、い、う────,"A, e, i, u────"
 0000000000000,監督,"いやあ、存在が圧倒的ですよね
 一度見たら忘れられない子だなって","Maan, her presence is really something else. 
@@ -21,7 +21,7 @@ now, shall we."
 0000000000000,企業担当,"受験シーズンにオンエアされるということで
 浅倉さんに演じていただく役も受験生という設定でして──","it'll be aired during entrance exam season, so
 you'll be playing the role of an exam taker──"
-2020012020050,透,立花雪……,Tachibana Yuki..
+2020012020050,透,立花雪……,Yuki Tachibana...
 0000000000000,監督,"うん、キミが演じる役名
 真面目で頑張り屋な女の子だ","Yep. That's the name of the character 
 you'll be playing.
@@ -33,7 +33,7 @@ failed, causing her to head home with bitter feelings."
 0000000000000,監督,"すると、テーブルの上に置かれた商品と、
 母親からの『お疲れ様！』のメモを見つける","Then, she finds a diet bar on her table 
 with a note from her mother saying 
-『Good work！』."
+『Good work!』."
 0000000000000,監督,"雪は商品をひと口食べ、たまらず泣く
 ここは本気で泣く。心から泣く。その心を俺が映すから","Yuki then takes a bite of the diet bar, and starts 
 crying profusely. Cry for real here. From your heart. 
@@ -114,11 +114,11 @@ Sometimes."
 There's no way I haven't cried even once 
 my entire life, but"
 2020012020160,透,"どんな時？
-それ","And when 
-is that?"
+それ",And when is that?
 select,,うーん……,Umm...
 select,,そうだな……,Let's see...
-select,,どんな時だったかな……,I wonder when...
+select,,どんな時だったかな……,"I wonder
+when..."
 0000000000000,プロデューサー,"これは俺に限らずだけど、感動する映画を見たら
 泣く人は多いんじゃないかな","This isn't just me, but many people cry when they 
 watch an emotional movie, for example."

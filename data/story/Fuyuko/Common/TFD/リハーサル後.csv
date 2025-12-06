@@ -1,0 +1,28 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お疲れ様
+リハーサルはどうだった？","Good work.
+How did the rehearsal go?"
+6018002020010,冬優子,"こんなもんじゃない？
+ほどほどにはできたわよ","Wasn't it fine?
+I think I did a decent job."
+0000000000000,プロデューサー,ほどほど……か,"Decent, huh..."
+6018002020020,冬優子,何よ、その含みありまくりの言い方は,Are you trying to imply something?
+0000000000000,プロデューサー,"いや……
+……なんだか、冬優子らしくないと思ってな","No...
+...I just thought it didn't really sound like Fuyuko."
+6018002020030,冬優子,ふゆらしくないってどういうことよ,What do you mean it didn't sound like Fuyu?
+0000000000000,プロデューサー,"ほどほどとか、無難にとか……
+……そういうのが、冬優子らしくないってことだ","Doing just a decent job...
+...Well, that's just unlike Fuyuko."
+6018002020040,冬優子,"何言ってんのよ、
+最高にふゆらしいじゃない","What are you saying?
+It's totally Fuyu-like, is it not?"
+6018002020050,冬優子,"空気読んで、一番望まれてるように振る舞って……
+誰にも嫌われないようにして……","Reading the room and acting the way everybody
+wants Fuyu to act...
+So that no one ends up disliking Fuyu..."
+6018002020060,冬優子,"ふゆは、そういうのがいいんだから
+──あんたの言ってること、全然わかんない","That's just how Fuyu is!
+──So I have no idea what you're even talking about."
+info,produce_events/601800202.json,
+Translator,Hitomi,

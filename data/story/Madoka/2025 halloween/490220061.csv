@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,The pumpkin pies sure smell good──
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(We received some tasting samples, but I must say...
+You don't see these sorts of pies every day...
+Seasonal, perhaps...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Well, since we got some of them, I might as well
+try some......!"
+0000000000000,プロデューサー,────────え？,────────Eh?
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"When I came to, I realized I'm now in an unfamiliar
+room."
+0000000000000,off,"目の前には異世界の円香
+──どうやらまた迷い込んでしまったらしい","Standing in front of me is a Madoka of another world.
+──Looks like I got stuck in something weird again."
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","Looking for a way out, I noticed but a locked door.
+Numeric passcodes are needed to unlock it."
+0000000000000,off,"『私とゲームでもして、鍵となる番号を当ててみては？』と
+円香は言った────","Madoka declares ""Why not play a game against me
+and perhaps you can guess the numbers to the door?"""
+4902200610010,円香,"何度も何度も
+懲りずに現れるとか……馬鹿なの？","Time and time again, showing me that undaunted
+look... not too bright, aren't you?"
+0000000000000,プロデューサー,……返す言葉もないな,……I'm lost for words.
+4902200610020,円香,"危機感のない生き物は
+……狩られ、食べ尽くされてその種を絶やす","Living creatures with no sense of danger
+......get hunted and devoured to extinction."
+4902200610030,円香,"まだ──逃がしてくれるんじゃ、なんて
+呑気に考えていませんよね？","Don't tell me── That you're naive to think I'd let you
+off again?"
+4902200610040,円香,"では、ゲームを始めましょうか
+────あなたがほんの少しでも、長生きするために","Let the game commence, then.
+────Just so that you can live on, for a little longer."
+info,special_communications/490220061.json,
+Translator,Mycstea,

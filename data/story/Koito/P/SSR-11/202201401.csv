@@ -2,10 +2,12 @@ id,name,text,trans
 2022014010010,小糸,"（さっきの課題の提出は再来週……
 うん、余裕ありそう）","(That assignment is due... the week after next? 
 Perfect, I have plenty of time.)"
-2022014010020,小糸,（次の講義は隣の棟だから、早めに行って……）,"(The next lecture is in the other building, I guess I should hurry...)"
-2022014010030,小糸,……あ、通知……,...Oh? A notification...
+2022014010020,小糸,（次の講義は隣の棟だから、早めに行って……）,"(The next lecture is in the other building, I guess I 
+should hurry over...)"
+2022014010030,小糸,……あ、通知……,...Oh? A notification...?
 2022014010040,小糸,え……プロデューサーさん……！？,Huh...? From Producer-san...?!
-0000000000000,プロデューサー,『久しぶり。急な連絡で驚かせていたらごめん』,"Long time no contact, Koito! Apologies for messaging out of the blue. "
+0000000000000,プロデューサー,『久しぶり。急な連絡で驚かせていたらごめん』,"Long time no contact, Koito! Apologies for messaging 
+out of the blue. "
 0000000000000,プロデューサー,"『実は、事務所に小糸宛てのファンレターが届いたんだ
 もしよければ受け取ってほしいんだけど、どうだろう？』","A fan letter arrived for you at the office. I was 
 wondering if you'd like to stop by to collect it?"
@@ -16,7 +18,8 @@ There are still...people writing to me...?!"
 2022014010070,小糸,"『お久しぶりです
 ぜひ、事務所まで受け取りに──……』","It really has been forever!
 Of course, I'll gladly drop by to get it─..."
-0000000000000,プロデューサー,こうして顔を合わせるのは本当に久しぶりだな,"It's been far too long since we've seen each other like this, face to face."
+0000000000000,プロデューサー,こうして顔を合わせるのは本当に久しぶりだな,"It's been far too long since we've seen each other 
+like this, face to face."
 0000000000000,プロデューサー,大学はどうだ？,How're you finding university?
 2022014010080,小糸,"えっと……高校と違うことが多くて、
 まだ慣れない部分もありますけど","Well... it's really different to high school.
@@ -29,17 +32,14 @@ There's still so much I'm not used to yet."
 your fan letter."
 2022014010100,小糸,…………,......
 2022014010110,小糸,"……わたし、アイドルを辞めて
-結構経ったと思うんですけど","...It's been so long now since 
-I gave up being an idol..."
+結構経ったと思うんですけど",...It's been so long now since I gave up being an idol...
 2022014010120,小糸,"それでも、送ってくれる人がいるのって
-……嬉しい、ですね","Despite that... 
-isn't it amazing that people still want to write to me? "
+……嬉しい、ですね","Despite that... isn't it amazing that people still
+want to write to me? "
 0000000000000,プロデューサー,"そう思ってもらえたなら
-連絡してよかったよ","If that's how you feel,
-I'm really glad I contacted you. "
+連絡してよかったよ","If that's how you feel, I'm really glad I contacted you. "
 2022014010130,小糸,"あ、あの
-ここで読んでもいいですか？","W-Would it be alright 
-if I stay here to read it?"
+ここで読んでもいいですか？",W-Would it be alright if I stay here to read it?
 2022014010140,小糸,な、なんだか緊張してきちゃって……,F-For some reason... I'm a little nervous...
 0000000000000,プロデューサー,うん、大丈夫だよ,"Yes, of course you can!"
 2022014010150,小糸,ありがとうございます……！,Thank you so much...!
@@ -51,33 +51,34 @@ I'll be happy as long as you're doing well."""
 私のお気に入りの場所を描いた絵葉書です』","""Inside this letter I've enclosed a postcard
 of one of my favourite places."""
 0000000000000,ファンの手紙,"『私がこの景色を描けたのは
-小糸ちゃんに出会えたからです』","""I was only able to see this scenery, 
+小糸ちゃんに出会えたからです』","""I was only able to see this scenery
 because I met you, Koito-chan."""
 0000000000000,ファンの手紙,"『私は小糸ちゃんと出会ってから、
 外の世界に触れるのが怖くなくなりました』","""It's thanks to you that I no longer
 fear the outside world."""
 0000000000000,ファンの手紙,"『それを伝えたくて
-今更かもしれないけどお手紙を書いています』","""I wanted to properly convey what you've done for me,
-even if it's a little late."""
+今更かもしれないけどお手紙を書いています』","""I wanted to properly convey what you've done 
+for me, even if it's a little late."""
 0000000000000,ファンの手紙,"『小糸ちゃんのこと、今も大好きって気持ちと一緒に
 受け取ってもらえたら嬉しいです』","""Even now, I really love the idol 'Koito-chan'. 
-I'd be grateful if you could accept this letter and my feelings."""
+I'd be grateful if you could accept this letter and my 
+feelings."""
 2022014010160,小糸,わたしと、出会って……,Because...they met me...
 2022014010170,小糸,"（あの頃のわたしがこの人の力になれたなら
-……嬉しいな）","(If the ""me"" from back then was able to give this person so much 
-courage... I'm really glad...!)"
+……嬉しいな）","(If the ""me"" from back then was able to give this 
+person so much courage... I'm really glad...!)"
 2022014010180,小糸,（海の絵……）,"(It's a... picture of the ocean.) "
 2022014010190,小糸,（──……わたしは）,(──......I)
 2022014010200,小糸,"（この人に胸を張って
 ありがとうって言える自分になれてるのかな……？）","(As things are now... 
-would I be even be able to properly thank this person...?)"
+would I be able to properly thank this person...?)"
 2022014010210,小糸,"（大学生になって、みんなと離れて
-新しく踏み出した気でいたけど）","(When I decided to go to university, I thought taking that step meant
-I had to leave all of this behind...)"
+新しく踏み出した気でいたけど）","(When I decided to go to university, I thought taking
+that step meant I had to leave all of this behind...)"
 2022014010220,小糸,（本当に、そうなのかな）,(But maybe... it doesn't have to be that way at all...)
 2022014010230,小糸,……外の、世界……,...The outside...world...
 0000000000000,プロデューサー,……小糸？,...Koito?
-2022014010240,小糸,プロデューサーさん……,Producer-san...
+2022014010240,小糸,プロデューサーさん……,Producer-san...!
 2022014010250,小糸,わたし……その……,I...I think...
 2022014010260,小糸,"こ、この絵葉書の場所に
 行ってみようと思うんです","I-I'd like to go see the place in this postcard
@@ -96,8 +97,7 @@ at the risk of sounding overbearing..."
 travel like this, so..."
 0000000000000,プロデューサー,何か力になれたらって思ったんだ,"I'd like to help wherever possible. "
 2022014010290,小糸,"……！　そう、ですよね
-わたしたちの移動、いつもプロデューサーさんが……","T-That’s right...! 
-You always did manage our 
+わたしたちの移動、いつもプロデューサーさんが……","T-That's right...! You always did manage our 
 travel arrangements..."
 2022014010300,小糸,"……調べてみて、わからないことがあったら
 聞いてもいいですか……？","...Then, if there's anything I don't understand...
@@ -106,24 +106,24 @@ would it be alright to run it past you...?"
 2022014010310,小糸,ありがとうございます……！,Thank you so much...!
 0000000000000,プロデューサー,親御さんに相談しないとな,Make sure to let your parents know.
 2022014010320,小糸,"そ、それはもちろん
-ちゃんと相談します……！","D-Don't worry,
-I'll discuss it with them properly first. "
+ちゃんと相談します……！","D-Don't worry, I'll discuss it with them properly
+first. "
 0000000000000,プロデューサー,"うん。……あ、それから
-行く先でも定期的に連絡すると安心だと思うよ","Great...
-I'd appreciate if you kept in touch with me while you're there."
+行く先でも定期的に連絡すると安心だと思うよ","Great... and I'd appreciate if you kept in touch 
+with me while you're there."
 0000000000000,プロデューサー,"もう大学生とはいえ
 ひとりってなると心配だろうから","I know you're already a university student, 
-but it's natural to worry about going to new places alone. "
+but it's natural to worry about going to new places 
+alone. "
 2022014010330,小糸,"は、はい
-そうします……！","O-Of course,
-I'll keep you updated...!"
+そうします……！","O-Of course, I'll keep you updated...!"
 0000000000000,プロデューサー,いつでも頼ってくれていいから,"You can always count on me. "
 2022014010340,小糸,……！,...!
-0000000000000,プロデューサー,とはいえ、余計なお世話かもしれないけどな,"Though, saying that... it's technically none of my business..."
+0000000000000,プロデューサー,とはいえ、余計なお世話かもしれないけどな,"Though, saying that... 
+it's technically none of my business..."
 2022014010350,小糸,い、いえ、そんなこと……！,"T-That's not true, n-not at all...!"
 2022014010360,小糸,"も、もちろん
-わたし、もう大学生ですし","B-But y'know, 
-I'm a university student now!"
+わたし、もう大学生ですし","B-But y'know, I'm a university student now!"
 2022014010370,小糸,全然、自分で準備できますけど……,I can handle this much by myself...
 2022014010380,小糸,……でも、ありがとうございます……！,"...But thank you, for always thinking of me...!"
 info,produce_events/202201401.json,

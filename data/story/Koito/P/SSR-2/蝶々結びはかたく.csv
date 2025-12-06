@@ -14,27 +14,27 @@ id,name,text,trans
 Wait, Koito!?"
 2022005010070,小糸,"……！
 ぷ、プロデューサー、さん……！","...!
-Producer...!"
+P-Producer...!"
 0000000000000,プロデューサー,"ごめん、大丈夫か？
 どこか怪我とか──……","Sorry, are you okay?
 Did you hurt yourself anywhere──..."
-2022005010080,小糸,だ……大丈夫です……！,I-I'm okay
-0000000000000,プロデューサー,それならよかった……,That's good to hear...
+2022005010080,小糸,だ……大丈夫です……！,I-I'm fine.
+0000000000000,プロデューサー,それならよかった……,"That's a relief, then"
 0000000000000,プロデューサー,"俺もだけど、
-小糸も曲がり角には気をつけような","I know I should have been careful, but you should 
-watch out at corners as well."
+小糸も曲がり角には気をつけような","This goes for me too, but you should 
+be careful going around corners."
 2022005010090,小糸,"は、はい……
 す、すみません……！","Y-Yes...
 I-I'm sorry"
 0000000000000,プロデューサー,"その様子だと
-自主トレ中……体力づくりか？","Looking at you like that, doing some solo training
-...Working on stamina?"
+自主トレ中……体力づくりか？","Looking at your getup, I suppose you're
+in the middle of self-training...?
+...Working on your stamina?"
 2022005010100,小糸,"あ……えっと……
 だ、ダンスとかもそうなんですけど……","Ah... Uhm....
-Yeah, dance practice and other stuff too..."
+Yeah, dance practice and other stuff..."
 2022005010110,小糸,"が、学校でも
-持久走の大会、あるので","B-but at school, there's the long-distance 
-running competition as well."
+持久走の大会、あるので","We are having a marathon meet at school too, so..."
 0000000000000,プロデューサー,"そうか
 そういう季節だもんな","I see. It's that time of the year already, huh?"
 0000000000000,プロデューサー,"はは、学生時代を思い出すよ
@@ -43,37 +43,38 @@ days. Long-distance runs are so hard to run in the
 cold."
 2022005010120,小糸,…………,...
 0000000000000,プロデューサー,"こうやってしっかり対策してて
-小糸はすごいな","You've prepaped for this pretty well, Koito.
-That's impressive"
+小糸はすごいな","You are working so hard to prepare for this, Koito.
+That's impressive."
 2022005010130,小糸,え…………,Eh...
 0000000000000,プロデューサー,"普段のレッスンもかなりの運動量だし
 持久力もついてきたんじゃないか？","Your usual lessons already had a lot of physical 
-activity. Your stamina must be improving, no?"
+activities. So, your stamina must be improving, right?"
 2022005010140,小糸,"あ、えっと……
 今日は河川敷の方をぐるっと回って……","Ah, um....
-Today I went around the riverside..."
+Well, today I went around the riverside..."
 2022005010150,小糸,"事務所まであとちょっと
-途中で止まらないでいけそうな感じだったんですけど……","I felt like I could make it to the office without 
-stopping... Just a little bit further"
+途中で止まらないでいけそうな感じだったんですけど……","And almost made it to the office, I thought I could 
+push myself without stopping."
 0000000000000,プロデューサー,"うわ……、すまん
-俺がぶつかって止めちゃったんだな","Oh... Sorry
-I guess I bumped into you and made you stop."
-2022005010160,小糸,あ、い、いえ……！,"Ah, n-no...!"
+俺がぶつかって止めちゃったんだな","Oh... My bad.
+I ended up bumping into you and made you stop, huh."
+2022005010160,小糸,あ、い、いえ……！,"Ah, n-no it's okay...!"
 0000000000000,プロデューサー,"でも、結構な距離じゃないか
 その距離を止まらずに走れるなんて大したものだよ","Still, that's quite a distance.
-Running that far without stopping is really 
-impressive."
+It's impressive that you could keep up the pace
+without stopping."
 2022005010170,小糸,"……！
 べ、別にこのくらい…………！","...!
-I-It's not that impressive...!"
+This much is nothing...!"
 2022005010180,小糸,…………,...
 2022005010190,小糸,──あと、少し──……,──Just a little further──...
 0000000000000,プロデューサー,…………小糸？,Koito?
 2022005010200,小糸,"あ……い、いえ
-このくらい、普通ですよ","Ah... N-No,
-This much running is normal for me."
+このくらい、普通ですよ","Ah... it's nothing!
+This much running is normal."
 2022005010210,小糸,"透ちゃんとか円香ちゃんとか
-雛菜ちゃんだって、学校の他の子だって","Toru-chan, Madoka-chan, Hinana-chan and even other 
+雛菜ちゃんだって、学校の他の子だって","For someone like Toru-chan, Madoka-chan, 
+even for Hinana-chan and other 
 kids at school."
 2022005010220,小糸,みんな普通に、走れるんですから,"They can all run well, you know."
 2022005010230,小糸,……わたしみたいに、しなくても,...They don't have to push themselves like I have to.
@@ -85,11 +86,12 @@ kids at school."
 You're doing it too, Producer?"
 0000000000000,プロデューサー,ああ、俺と小糸で！,"Yeah, you and me, Koito!"
 2022005010250,小糸,"で、でもプロデューサーさん
-運動用の靴じゃないし……！","B-But Producer, you're not wearing running shoes...!"
+運動用の靴じゃないし……！","B-But Producer, you're not in your running shoes...!"
 0000000000000,プロデューサー,"ここから事務所までだぞ
 ほらもう『２８３』って窓の文字が見えてる","It's just from here to the offfice.
-Look, you can already see the ""283"" on the window."
-2022005010260,小糸,す、スーツだし……！,B-But you are wearing a suit.
+Look, you can already see the ""283"" on the window
+over there."
+2022005010260,小糸,す、スーツだし……！,B-But your suit...!
 0000000000000,プロデューサー,最近少し運動不足だけど──……,"I've been a bit out of shape lately, but—..."
 2022005010270,小糸,に、荷物だってあるのに……！,A-And you're carrying your bags as well...!
 select,,本気でいくぞ！,Going all out!
@@ -100,39 +102,39 @@ select,,かかってこい！,Bring it on!
 Producer!"
 0000000000000,プロデューサー,"ほら、小糸も早く
 位置について","Come on, Koito.
-Get in position quickly."
+Better get into position quickly."
 2022005010290,小糸,ま、待ってください……！,"P-please, wait...!"
 2022005010300,小糸,"わ、わたしの話
-ちゃんと聞いてますか！？",A-Are you actually listening to what I'm saying!
-0000000000000,プロデューサー,ああ、もちろん,"Ah, of course."
-0000000000000,プロデューサー,……ちゃんと、聞いてるよ,...I'm listening very carefully.
+ちゃんと聞いてますか！？",A-Are you actually listening to what I'm saying!?
+0000000000000,プロデューサー,ああ、もちろん,"Ah, of course I am."
+0000000000000,プロデューサー,……ちゃんと、聞いてるよ,Loud and clear.
 2022005010310,小糸,え……えっと……,Uh-Uhm...
 2022005010320,小糸,"じゃ、じゃああの……
 荷物、ひとつ持ちます……！","Th-Then...
-I'll carry one of the bags...!"
-0000000000000,プロデューサー,いいや、これは俺の荷物だからな,"No, this is my bag after all."
+I'll carry one of your bags...!"
+0000000000000,プロデューサー,いいや、これは俺の荷物だからな,"No, these are my bags after all."
 0000000000000,プロデューサー,"俺も小糸も今のままで
-事務所まで走るぞ！",You and I are running to the office just as we are!
+事務所まで走るぞ！",Let's run to the office just like this.
 2022005010330,小糸,"え……あ、
 で、でも……！","Eh...Ah,
 B-But...!"
 0000000000000,プロデューサー,"もちろん、周りをよく見て
-人とぶつからないようにな！","Of course, please watch your surroundings and
+人とぶつからないようにな！","Of course, please keep an eye out for danger and
 don't bump into anyone."
 2022005010340,小糸,"ちょ、ちょっと
 プロデューサーさん……！","J-Just a moment, Producer."
 2022005010350,小糸,"きゅ、急にどうしちゃったんですか
 プロデューサーさん……！","W-What suddenly got into you, Producer...!?"
 0000000000000,プロデューサー,"階段を登って、
-事務所のドアに先にタッチで勝ちだ！","We race up to the stairs, 
-and first one to touch the office door wins!"
+事務所のドアに先にタッチで勝ちだ！","First person to climb up the stairs 
+and touch the office door wins!"
 2022005010360,小糸,"ぴぇ……！
 そ、そこまでですか……！",Pyeh...! That far...!?
 2022005010370,小糸,"って、結局わたしも
-走ることになってるじゃないですか……！","So in the end, I'm running too...!"
-0000000000000,プロデューサー,はは、行くぞ！,"Haha, get ready!"
+走ることになってるじゃないですか……！","Wait, wasn't I supposed to be running anyway...!?"
+0000000000000,プロデューサー,はは、行くぞ！,"Haha, let's go!"
 2022005010380,小糸,"も、もう！
-仕方がないですね……！","A-Alright!
-Guess it can't be helped"
+仕方がないですね……！","J-Jeez!
+Guess it can't be helped...!"
 info,produce_events/202200501.json,
 Translator,lei,

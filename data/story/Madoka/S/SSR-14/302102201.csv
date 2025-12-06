@@ -1,0 +1,86 @@
+id,name,text,trans
+0000000000000,プロデューサー,"撮影は日の出を待って始めるみたいだから
+スタッフさんに呼ばれるまで少し待機していてくれ","Looks like the shoot will have to wait till sunrise, so
+let's just wait around until the staff calls for you."
+3021022010010,円香,はい,Okay.
+3021022010020,円香,……────,......────
+3021022010030,円香,……………………,..................
+3021022010040,円香,……………,............
+0000000000000,プロデューサー,……円香？,......Madoka?
+0000000000000,プロデューサー,もしかして、あまり眠れてないか？,You didn't get much sleep?
+3021022010050,円香,……そうですね、ですが……,"...Yeah I suppose, but..."
+3021022010060,円香,"本番では差し障りのないよう
+上手くやるつもりですから、ご心配なく","I'll get my act together later so that I don't get in the
+way during the actual shoot. There's no need to worry."
+0000000000000,プロデューサー,それは、疑ってもないけど……,"Yeah, I'm sure you'll be able to pull it off but..."
+0000000000000,プロデューサー,"……呼ばれるまで寝ておくか？
+俺が起こすから","...Why don't you take a nap while we wait?
+I'll wake you."
+3021022010070,円香,"お気持ちだけで
+どうせすぐに呼ばれるでしょうから","I appreciate the thought,
+but they'll probably call for me soon anyway."
+0000000000000,プロデューサー,よし、じゃあ話でもしよう,"Alright. We should just chat to past the time, then."
+3021022010080,円香,……,......
+0000000000000,プロデューサー,"そうだな……あ、そうだ
+本当は撮影が終わってからと思ったんだけど……","Oh ermm...... Ah, yes.
+I was planning to talk to you about this after the
+shoot, but......"
+0000000000000,プロデューサー,円香、今日誕生────,Today's your birthd────
+3021022010090,円香,────……,────......
+0000000000000,プロデューサー,────おっと……！,────Oh hey......!
+0000000000000,プロデューサー,ま、円香……？,Ma-Madoka......?
+3021022010100,円香,…………,*snooze*.........
+0000000000000,プロデューサー,（寝てるな……）,(She fell asleep huh......)
+0000000000000,プロデューサー,"（いきなり倒れてきたから思わず受け止めたものの……
+どうしようか……）","(She slumped all of a sudden and I cushioned her fall
+on reflex..... What do I do now......)"
+0000000000000,プロデューサー,"（できるだけ寝かせてあげたいけど
+このままでっていうのも、円香は嫌だろうし……）","(I wanna let her sleep as much as possible,
+but she wouldn't like it if this goes on neither......)"
+0000000000000,プロデューサー,……円香ー……,......Madokaー......
+3021022010110,円香,……………………,............
+0000000000000,プロデューサー,"（起きないか……
+だったら……）","(She's not waking up, huh......
+Then I'll just......)"
+0000000000000,プロデューサー,……円香、ちょっとごめん……,"......Apologies, Madoka......"
+3021022010120,円香,…………,............
+0000000000000,プロデューサー,……！,......!
+0000000000000,プロデューサー,えっと……,Erm......
+0000000000000,プロデューサー,"……一応、ひと言断って
+椅子の背にもたれさせてあげようかと思ったんだけど……","......Wait, let me say something first!
+I was just propping you up against the chair, so......"
+0000000000000,プロデューサー,"ごめん、勝手に触ったりして
+……怒ってるか？","Sorry for trying to move you without asking first.
+......Are you upset?"
+3021022010130,円香,……,......
+3021022010140,円香,"怒ってるか？
+……そうですね","Am I upset?
+......I suppose I am."
+3021022010150,円香,"そのままでいたかった
+……そう言ったら？","What if I say,
+......That I wanted to stay that way?"
+0000000000000,プロデューサー,そ……──,That is......──
+0000000000000,プロデューサー,"……いや、あり得ない
+伊達に円香と一緒にいないからな！","......Nope, that's inconceivable coming from you.
+I haven't been with Madoka all this time for nothing!"
+0000000000000,プロデューサー,"円香なら、そのまま地面に倒れ込んだほうがましって
+言うに違いない……！","You'd say that you would rather just fall onto the
+floor......!"
+3021022010160,円香,"あいにくあなたにもたれる形となりましたね
+……すみませんでした","Unfortunately, it seems that I've ended up relying on
+you again, huh ......I'm oh, so sorry."
+0000000000000,スタッフ,"──樋口さん、そろそろスタンバイ
+お願いします！","──Higuchi-san, we're about ready.
+Please standby for the shoot!"
+3021022010170,円香,では、行ってきます,"Well then, I'm heading off."
+0000000000000,プロデューサー,"あ……円香！
+誕生日、おめでとう！","Ah...... Hey Madoka!
+Happy birthday!"
+3021022010180,円香,……今？,......You say that now?
+0000000000000,プロデューサー,"今なら、もしかしたら俺が
+一番乗りなんじゃないかと思って！","I thought that if I say it now, I'd probably be the first
+in line!"
+3021022010190,円香,……さあ、どうですかね,"......Maybe, who can really say."
+3021022010200,円香,教えてあげない,And I'm not telling.
+info,produce_events/302102201.json,
+Translator,Mycstea,

@@ -1,0 +1,41 @@
+id,name,text,trans
+3007020040010,結華,プロデューサー、いるー？,Producer? You there?
+0000000000000,プロデューサー,"おお、結華か
+いるよ。どうぞ","Oh, Yuika?
+I'm here, yeah. Come on in."
+3007020040020,結華,はーい,Kaaay～
+0000000000000,プロデューサー,どうかしたか？,Did you need something?
+3007020040030,結華,"や、着替えみんなより先に終わったからさ
+このあとのこともっかい確認しとこうと思って","Nah, I just finished changing before everyone
+else, so I thought I'd go ahead and check in
+what's ahead."
+3007020040040,結華,変わりない？,"Nothing's changed, right?"
+0000000000000,プロデューサー,"ああ
+特に変更点は聞いてないよ","Yeah, I haven't heard of any changes."
+3007020040050,結華,おっけーありがと,"Okie, thanks."
+0000000000000,プロデューサー,おう,Mmm.
+3007020040060,結華,……ところでＰたん,"By the way, P-tan..."
+0000000000000,プロデューサー,うん？,Yeah?
+3007020040070,結華,"三峰に他に何か
+言うことないです？","Don't you have anything you want to
+say to Mitsumine?"
+0000000000000,プロデューサー,"他に……
+ああ","Anything...
+I do."
+0000000000000,プロデューサー,結華は黒うさぎなんだな,"""So Yuika's the black bunny, huh."""
+3007020040080,結華,そうだけどそうじゃないー！,"Come on, man! Stick to the script already!"
+0000000000000,プロデューサー,ははっ,Haha!
+0000000000000,プロデューサー,"冗談だよ
+衣装、よく似合ってる","Just kidding.
+""The outfit looks great on you."""
+3007020040090,結華,最初からそれ言って！,Don't hold out me!
+3007020040091,結華＆プロデューサー,──ふふふっ,──Hahaha!
+3007020040100,結華,意地悪めー,You meanieee!
+0000000000000,プロデューサー,"試すような言い方するのは
+意地悪じゃないのか？","Doesn't trying to test me like that make
+YOU the mean one?"
+3007020040110,結華,今のがもう意地悪な返しじゃん！,Look who's being the mean one now!
+3007020040111,結華＆プロデューサー,──,──
+3007020040112,結華＆プロデューサー,──あははっ,──Ahahaha!
+info,produce_events/300702004.json,
+Translator,Lewdacriz,
