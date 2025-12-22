@@ -209,6 +209,7 @@ SSR確定Plusガシャチケット(1/10),SSR Guaranteed Plus Gacha Ticket (1/10)
 チケットを消費し、一部のライブをコンティニューすることができます,Allows one more retry at a live if used.
 スキップチケット,Skip Ticket
 オートプロデュースを1回分スキップするチケット,Lets you skip one Produce run in Auto Produce.
+メモリーチャーム,Memory Charm
 Lv.50チケット,Lv. 50 Ticket
 プラチナトレーニングチケット,Platinum Training Ticket
 ゴールドトレーニングチケット,Gold Training Ticket
@@ -221,6 +222,10 @@ DARS 3フレーバーセット,DARS 3 Flavors Set
 ナッシュのおべんとう,Nosh Meal Box
 DARS ミルク-2023-,DARS Milk -2023-
 DARS 4フレーバーセット,DARS 4 Flavors Set
+DARS＜ミルク＞-2025-,DARS Milk -2025-
+カレ・ド・ショコラ＜フレンチミルク＜-2025-,Curry du Chocolat <French Milk> -2025-
+小枝＜ミルク＞-2025-,Koeda Milk -2025-
+ネルノダ,Nerunoda
 プチテンションアロマ,Petit Tension Aroma
 使用時プロデュースアイドルのテンションが小アップします,"When used, it will slightly increase your Produce Idol's Tension."
 プチテンションアロマ\n(2個入り),Petit Tension Aroma \n(2)
@@ -259,31 +264,37 @@ DARS 4フレーバーセット,DARS 4 Flavors Set
 プロデュース開始時に親愛度＋15します,Start production with +15 Bond points.
 283メモリーアルバム,283 Memory Album
 プロデュース開始時に親愛度＋10します,Start production with +10 Bond.
-ボーカル基礎知識本,Vocal Basic Knowledge Book
+ボーカル基礎知識本,Basic Vocal Encyclopedia
 プロデュース開始時にVocal＋30します,Start production with +30 Vocal.
-ボーカル応用知識本,Vocal Application Knowledge Book
+ボーカル応用知識本,Vocal Application Encyclopedia
 プロデュース開始時にVocal＋60します,Start production with +60 Vocal.
-ボーカル実践知識本,Vocal Practical Knowledge Book
+ボーカル実践知識本,Practical Vocal Encyclopedia
 プロデュース開始時にVocal＋90します,Start production with +90 Vocal.
-ダンス基礎知識本,Dance Basic Knowledge Book
+ボーカル熱練知識本,Passionate Vocal Encyclopedia
+プロデュース開始時にVocal＋120します,Start production with +120 Vocal.
+ダンス基礎知識本,Basic Dance Encyclopedia
 プロデュース開始時にDance＋30します,Start production with +30 Dance.
-ダンス応用知識本,Dance Application Knowledge Book
+ダンス応用知識本,Dance Application Encyclopedia
 プロデュース開始時にDance＋60します,Start production with +60 Dance.
-ダンス実践知識本,Dance Practical Knowledge Book
+ダンス実践知識本,Practical Dance Encyclopedia
 プロデュース開始時にDance＋90します,Start production with +90 Dance.
-ビジュアル基礎知識本,Visual Basic Knowledge Book
+ダンス熱練知識本,Passionate Dance Encyclopedia
+プロデュース開始時にDance＋120します,Start production with +120 Dance.
+ビジュアル基礎知識本,Basic Visual Encyclopedia
 プロデュース開始時にVisual＋30します,Start production with +30 Visual.
-ビジュアル応用知識本,Visual Application Knowledge Book
+ビジュアル応用知識本,Visual Application Encyclopedia
 プロデュース開始時にVisual＋60します,Start production with +60 Visual.
-ビジュアル実践知識本,Visual Practical Knowledge Book
+ビジュアル実践知識本,Practical Visual Encyclopedia
 プロデュース開始時にVisual＋90します,Start production with +90 Visual.
-メンタル基礎知識本,Mental Basic Knowledge Book
+ビジュアル熱練知識本,Passionate Visual Encyclopedia
+プロデュース開始時にVisual＋120します,Start production with +120 Visual.
+メンタル基礎知識本,Basic Mental Encyclopedia
 プロデュース開始時にメンタル＋30します,Start production with +30 Mental.
-スキル基礎知識本,Skill Basic Knowledge Book
+スキル基礎知識本,Basic Skill Encyclopedia
 プロデュース開始時にSP＋30します,Start production with +30 SP.
-スキル応用知識本,Skill Application Knowledge Book
+スキル応用知識本,Skill Application Encyclopedia
 プロデュース開始時にSP＋60します,Start production with +60 SP.
-スキル実践知識本,Skill Practical Knowledge Book
+スキル実践知識本,Practical Skill Encyclopedia
 プロデュース開始時にSP＋90します,Start production with +90 SP.
 SSR特訓はづきさん（プロデュース）,SSR Evolve Hazuki (Produce)
 SSRのプロデュースアイドルを特訓します[お1人様1つまで],Used to evolve an SSR Produce card. [Limit 1 per person]
@@ -1142,11 +1153,13 @@ SR以上確定ガシャチケット\n［3/3］,Guaranteed SR+ \nGacha Ticket［3
 6thLIVEキーホルダー\n（横浜）,6th LIVE Keychain\n(Yokohama)
 サングラス,Sunglasses
 スライム,Slime
+リフレクティックオプティークのバッジ,Reflectic Optic Badge
+ミセス・ドーナツ,Mrs. Donut
 「サマーアイドル2019」Tシャツ＆うちわ,[Summer Idol 2019] T-Shirt & Fan
 灯織の水晶玉,Hiori's Crystal Ball
 MUSIC DAWN記念キーホルダー,MUSIC DAWN Memorial Keychain
 ポカリスエット＆イオンウォーターセット,Pocari Sweat & Ion Water Set
-アイマス18thお祝いパーティバルーン,IM@S 18th Celebration Party Balloon
+アイマス18thお祝いパーティバルーン,iM@s 18th Celebration Party Balloon
 スリスリくんのぬいぐるみ,Surisuri-kun Plushie
 第1弾ムビチケカード,1st Part Movie Ticket
 第2弾ムビチケカード,2nd Part Movie Ticket
@@ -1159,12 +1172,12 @@ MUSIC DAWN記念キーホルダー,MUSIC DAWN Memorial Keychain
 6th Anniversary アイドルからの手紙（銅）,6th Anniversary Letter from Idols (Bronze)
 【'24 10月Pカップ】 アイドルからのプレゼント1,['24 October P Cup] Present from Idols 1
 【'24 10月Pカップ】 アイドルからのプレゼント2,['24 October P Cup] Present from Idols 2
-ブライダル特集’24年６月号,Bridal Special Feature '24 June Edition
-ブライダル特集’25年６月号,Bridal Special Feature '25 June Edition
+ブライダル特集’24年6月号,Bridal Special Feature '24 June Edition
+ブライダル特集’25年6月号,Bridal Special Feature '25 June Edition
 ノウハウ目録,Know-How Catalogue
 ,(description of know-how catalogue)
 ノウハウのしおり(1葉),Know-How Bookmark
-ノウハウの発現確率が増加(小),Increases the chance of getting a Know-How (Slight)
+ノウハウの発現確率が増加(小),Increases the chance of getting a Know-How (Tiny)
 ノウハウのしおり(2葉),Know-How Bookmark (2)
 ノウハウの発現確率が増加(中),Increases the chance of getting a Know-How (Small)
 高レベルノウハウのしおり(1葉),High Level Know-How Bookmark (1)
@@ -1188,6 +1201,7 @@ B小町ライブBD,B-Komachi Live Blu-Ray
 2022ハロウィンのおかし,2022 Halloween Sweets
 2023ハロウィンのおかし,2023 Halloween Sweets
 2024ハロウィンのおかし,2024 Halloween Sweets
+2025ハロウィンのおかし,2025 Halloween Sweets
 【'25VD】 差し入れ,['25VD] Gift
 【'25VD】 プレセント,['25VD] Present
 【'20WD】ホワイトデーのお返し,['20WD] White Day Return Gift
@@ -1209,6 +1223,7 @@ B小町ライブBD,B-Komachi Live Blu-Ray
 6thアニバーサリーケーキ,6th Anniversary Cake
 6.5アニバーサリーケーキ,6.5th Anniversary Cake
 7thアニバーサリーケーキ,7th Anniversary Cake
+7.5アニバーサリーケーキ,6.5th Anniversary Cake
 マイク【銅】,Mic [Bronze]
 マイク【銅】[1/2],Mic [Bronze] [1/2]
 マイク【銅】[2/2],Mic [Bronze] [2/2]
@@ -1230,6 +1245,7 @@ Leader用手紙【銅】,Leader Letter [Bronze]
 Center用手紙【銅】,Center Letter [Bronze]
 マッチライプで施設強化に使用するアイテム,Item used for enhancing facilities in Match Live.
 メガシャキ,Megashaki
+メガシャキ-2025-,Megashaki -2025-
 2nd season劇場ムビチケカード,2nd season Theater Movie Ticket
 ヒントが書かれた手紙,Letter with Hint
 天井社長からの差し入れ,Gift from President Amai
@@ -1242,6 +1258,9 @@ Center用手紙【銅】,Center Letter [Bronze]
 雀傑のバッジ,
 雀豪のバッジ,
 雀聖のバッジ,
+283PRODUCTION COSTUME G@LLERY入場券,283PRODUCTION COSTUME G@LLERY Entry Ticket
+Reバースカード,Re:Birth Card
+紳のティーセット(2段),High Tea Set (2 Tiers)
 【2024】グレードフェス記念メダル,[2024] GradeFes Commemorative Medal
 【2025】グレードフェス記念メダル,[2025] GradeFes Commemorative Medal
 【’19Xmas】ハンドクリーム,[19Xmas] Hand Cream

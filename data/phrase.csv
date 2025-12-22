@@ -3063,12 +3063,15 @@ shop.smallTabTitles.idolPiece.perform,彩,Perform
 skillPanelLockOverlay.releasedConditionsWithEvolution,特訓%{requiredEvolutionStage}回目で解放,特訓%{requiredEvolutionStage}回目で解放
 skillPanelLockOverlay.releasedConditionsWithMemoryAppealLevel,思い出Lv.%{requiredMemoryAppealLevel}で解放,思い出Lv.%{requiredMemoryAppealLevel}で解放
 skillPanelLockOverlay.releasedConditionsWithMemoryAppealLevelAndEvolution,思い出Lv.%{requiredMemoryAppealLevel}、特訓%{requiredEvolutionStage}回目で解放,思い出Lv.%{requiredMemoryAppealLevel}、特訓%{requiredEvolutionStage}回目で解放
-supportIdol.whisperReleaseConditionNone,ささやきボイスアイドルの獲得,ささやきボイスアイドルの獲得
-supportIdol.whisperReleaseConditionEvolution,特訓%{stage}回目で解放,特訓%{stage}回目で解放
+supportIdol.whisperReleaseConditionNone,ささやきボイスアイドルの獲得,Obtaining ASMR Idols
+supportIdol.whisperReleaseConditionEvolution,特訓%{stage}回目で解放,Unlocked after evolving to %{stage}
 twitter.illustrationSelectDialog.illustrationType.awakeFesCard,メモリースタイル,Memory Style
-twitter.illustrationSelectDialog.illustrationType.illustReleaseStage,特別イラスト%{stage},特別イラスト%{stage}
+twitter.illustrationSelectDialog.illustrationType.illustReleaseStage,特別イラスト%{stage},Special Illust %{stage}
 letterFromIdol.idol.title,アイドルからの手紙,Letter from Idol
-letterFromIdol.idol.voiceLockMessage,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます
+letterFromIdol.idol.voiceLockMessage,アイドルを★4にすると\nアイドルが手紙を読み上げてくれます,"If Idol reaches 4★,\nthey will read the letter out loud."
 letterFromIdol.staff.title,特別な手紙,Special Letter
-letterFromIdol.staff.voiceLockMessage,キャラを★4にすると\nキャラが手紙を読み上げてくれます,キャラを★4にすると\nキャラが手紙を読み上げてくれます
-scriptViewer.voiceLockMessage,アイドルを★4にすると\nアイドルが台本を読み上げてくれます,アイドルを★4にすると\nアイドルが台本を読み上げてくれます
+letterFromIdol.staff.voiceLockMessage,キャラを★4にすると\nキャラが手紙を読み上げてくれます,"If Character reaches 4★,\nthey will read the letter out loud."
+scriptViewer.voiceLockMessage,アイドルを★4にすると\nアイドルが台本を読み上げてくれます,"If Idol reaches 4★,\nthey will read the script out loud."
+decorationEvent.specialComment,%{idolName} のスペシャルコミュを\n解放しました\n\n再生しますか？,%{idolName}'s Special Commu\nhas been unlocked.\nDo you want to watch it?
+decorationEvent.characterSelectPop.itemNameTextChristmas2025.decoration,【’25Xmas】プレゼント 所持数 :,[’25Xmas] Present Amount:
+decorationEvent.characterSelectPop.itemNameTextChristmas2025.present,【’25Xmas】アイドルとのクリスマス 所持数 :,[’25Xmas] Christmas w/ Idol Amount:

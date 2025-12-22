@@ -667,7 +667,7 @@ Nice, that was perfect～"
 Well then, I'll just go to the riverside and practice♪"
 あら、せっかくプロデューサーさんに\r\nスケジュール合わせてもらったのに……,"Oh, you scheduled a lesson for me, but..."
 ごめんなさい、プロデューサーさん\r\n私、今度はもっと頑張りますね？,"Sorry, Producer-san. I'll do better next time!"
-えいっ、……きゃっ！\r\nなかなか、身体が上手く動かないんです……,"Hup ...kya!
+えいっ、……きゃっ！\r\nなかなか、身体が上手く動かないんです……,"Hup ...Kya!
 I can't move my body as well as I want to..."
 私が足を引っ張るわけにはいかないですから\r\n今週にダンスレッスンをさせてもらえませんか？,"I cannot drag others down like this.
 Could I have a dance lesson this week?"
@@ -712,7 +712,7 @@ in two weeks?"
 いえ、勝手なことを言ってごめんなさい……,"It's nothing, sorry for saying such a selfish thing..."
 ちょっと残念ですけど、\r\nまた余裕のある時にお休み取らせてください♪,"It's a bit unfortunate but...
 I'll take a break when it's more convenient♪"
-ん、オッケー,"Yeah, okay."
+#REF!,#REF!
 初心者ミッションを進めて報酬を受け取ってくださいね〜,"Progress through your
 Beginner Missions
 and gain rewards～"
@@ -725,10 +725,10 @@ will reward you with a 10x Gacha Ticket
 to strengthen your units!"
 いいよ,Sure.
 ごめん,Sorry.
-歌のクオリティを上げたいんだけど、,歌のクオリティを上げたいんだけど、
-今週はボーカルレッスンにしてくれない？,今週はボーカルレッスンにしてくれない？
-ありがとう、助かるわ,ありがとう、助かるわ
-いい度胸してるじゃない,いい度胸してるじゃない
+#REF!,#REF!
+#REF!,#REF!
+#REF!,#REF!
+#REF!,#REF!
 はあ……思いっきり歌ったわね,はあ……思いっきり歌ったわね
 おかげでいい歌が届けられそう,おかげでいい歌が届けられそう
 おめでとうございます。ランクアップです\nまたひとつ、夢に近づきましたね！,"Congratulations, you moved up a rank!
@@ -865,12 +865,15 @@ Keep it up for the actual performance!"
 shined for the public in today's performance."
 ──いいステージだった\nこれからも期待しているぞ,"──An excellent performance.
 I'm looking forward to what you do next."
+お待たせしました。審査結果を発表いたします\n『G.R.A.D.』予選を通過したのは……！？,お待たせしました。審査結果を発表いたします\n『G.R.A.D.』予選を通過したのは……！？
 予選通過の皆さま、おめでとうございます！\n本選でもその魅力を発揮してください！,"Congratulations to those who passed the prelims.
 Please show us your charm in the finals as well!"
+予選通過の皆さま、おめでとうございます！\n呼ばれなかった方は、残念ながらここで脱落です……！,予選通過の皆さま、おめでとうございます！\n呼ばれなかった方は、残念ながらここで脱落です……！
 お待たせしました。審査が出そろいましたので、\n『G.R.A.D.』本選の結果発表をさせていただきます！,"Thank you for waiting. The judges have chosen.
 Let us announce the results of the ""G.R.A.D."" finals!"
 おめでとうございます！\n今最も輝くアイドルに、盛大な拍手をお願いします！,"Congratulations! Please give a round of applause 
 to today's most radiant idol!"
+おめでとうございます！\nその他の方々は惜しくも敗退です。お疲れさまでした,おめでとうございます！\nその他の方々は惜しくも敗退です。お疲れさまでした
 天井社長から菓子折りをいただいた\nしかし、数が足りない……\n事務所全員には配れそうにないな,天井社長から菓子折りをいただいた\nしかし、数が足りない……\n事務所全員には配れそうにないな
 みんなおいしそうに食べている\n……俺の分はないけど……\n嬉しそうな声だけで十分だ,みんなおいしそうに食べている\n……俺の分はないけど……\n嬉しそうな声だけで十分だ
 あんなパフォーマンスで\n感謝が伝わると思ってるの？,"Will that performance

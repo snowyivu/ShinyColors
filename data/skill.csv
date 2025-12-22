@@ -97,8 +97,8 @@ $nounのレベルを$num上昇,Increase $1 Level by $2,
 サポートスキルの発動率が中UP,Support Skill Rate Medium UP,
 限定スキルを解放,Unlocked Limited Skills,
 全アイドルと七草はづきの絆を中UP,All Idols and Hazuki Bonds Medium UP,
-ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Extremely Rare Chance of Instantly Captivating Judge,
-ごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance Of Instantly Captivating Judge,
+ごくごく稀に現在の興味値に関わらず一気に満足させる,Extremely Rare Chance of Instantly Captivating Judge,
+ごく稀に現在の興味値に関わらず一気に満足させる,Very Rare Chance Of Instantly Captivating Judge,
 $noun･$noun･$nounUP,$1･$2･$3 UP,
 $noun･$nounUP,$1･$2 UP,
 限定スキル[$noun上限$num]を解放,Limited Skill [$1 Uncap $2],
@@ -106,6 +106,7 @@ $noun･$nounUP,$1･$2 UP,
 Dance,Dance,noun
 Vocal,Vocal,noun
 Visual,Visual,noun
+Vocal&Dance&Visual,Vocal&Dance&Visual,noun
 Da,Da,noun
 Vo,Vo,noun
 Vi,Vi,noun
@@ -121,8 +122,8 @@ SP,SP,noun
 ラジオ収録,Radio Show,noun
 ラジオの収録,Radio Show,noun
 ビジュアルレッスン,Visual Lesson,noun
-トークイベント,Talkshow,noun
-トークイベントに出演,Appear in Talkshow,noun
+トークイベント,Talk Show,noun
+トークイベントに出演,Appear in Talk Show,noun
 トーク,Talk,noun
 ラジオ,Radio,noun
 雑誌,Magazine,noun
@@ -1245,8 +1246,8 @@ OT♡NAメイクヘンシン☆,OT♡NAメイクヘンシン☆,text
 ふたりで叫ぶ合言葉,Word That We Shout,text
 [風物詩]ふたりで叫ぶ合言葉,[The Seasonal] Word That We Shout,text
 好きなものはなんですか？,What Do you Like?,text
-アンサー！,Answer!,text
-[思い出]アンサー！,[Recalling] Answer!,text
+アンサー！,The Answer!,text
+[思い出]アンサー！,[Memories are] The Answer!,text
 魔法使いさんたち,We Mages,text
 [Be Magical]魔法使いさんたち,[Be Magical] We Mages,text
 四夜一夜物語,Four and One Nights,text
@@ -1708,3 +1709,843 @@ sync,sync,text
 ２８３プロの日常,Daily Life of 283Pro,text
 ケーキブレイク,Cake Break,text
 輝きを支える,輝きを支える,text
+ほわっとスマイル,Gentle Smile,text
+ハ♡トフェルトゥギフト,ハ♡トフェルトゥギフト,text
+はじけてスマイル,Bursting Smile,text
+深染め、いろみぐさ,深染め、いろみぐさ,text
+ソラを跳ね,Splash into the Sky,text
+花風Smiley,花風Smiley,text
+ひとつ、はたたく,ひとつ、はたたく,text
+,,text
+きみと巡り行く,きみと巡り行く,text
+私のハルモニア,私のハルモニア,text
+あなたと、いただきます,あなたと、いただきます,text
+はるかなる,Into the Distance,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+柔らかな微笑み,Tender Smile,text
+淡雪の戯れ,Playing with Snowfalls,text
+伸ばす手に乗せるのは,伸ばす手に乗せるのは,text
+清閑に息をひそめて,清閑に息をひそめて,text
+黒百合前で待ち合わせ,黒百合前で待ち合わせ,text
+涼,涼,text
+洸,洸,text
+ひとりじゃない夜のこと,ひとりじゃない夜のこと,text
+耿耿,耿耿,text
+エバー・リメンバー・ネバー,エバー・リメンバー・ネバー,text
+ベター・ザン・ベスト,ベター・ザン・ベスト,text
+,,text
+キミと今旅立つ,キミと今旅立つ,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+金色の元気いっぱいガール,Golden Vivacious Girl,text
+夏に恋するピチカート！,夏に恋するピチカート！,text
+シュカのまにまに,シュカのまにまに,text
+日々を紡ぐインヴェルノ,日々を紡ぐインヴェルノ,text
+アイの誓い,アイの誓い,text
+たまゆらフレーミング,たまゆらフレーミング,text
+きゅん♡コメ,きゅん♡コメ,text
+たそかれスワッグ,たそかれスワッグ,text
+ずっと・グッド・ラック,ずっと・グッド・ラック,text
+こころレイヤリング,こころレイヤリング,text
+ふたり色 クレオール,ふたり色 クレオール,text
+そらあいスウィング,そらあいスウィング,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+ばりうまかブルース,ばりうまかブルース,text
+月の浜辺で待っとって,月の浜辺で待っとって,text
+風吹く丘にはよ来んね,風吹く丘にはよ来んね,text
+うちのリボンは恋結び,うちのリボンは恋結び,text
+心の鐘が鳴っとるけん,心の鐘が鳴っとるけん,text
+秋空ばくちずさんで,秋空ばくちずさんで,text
+あなたと、月の満ちる頃,あなたと、月の満ちる頃,text
+よか匂いのする陽気やけん,よか匂いのする陽気やけん,text
+ふりそそぐもの,ふりそそぐもの,text
+,,text
+いつか帰りたか場所,The Place I Wanna Return to,text
+純雪エモーショナル,純雪エモーショナル,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+トリッキーナイト,Tricky Night ,text
+摩的・アンチテーゼ,Mamimian Antithesis,text
+パープル・ミラージュ,Purple Mirage,text
+フィドル・ファドル,フィドル・ファドル,text
+真・TRAVELER,真・TRAVELER,text
+アバウト-ナイト-ライト,アバウト-ナイト-ライト,text
+,,text
+リバーシブル・トースト,リバーシブル・トースト,text
+,,text
+まみみスイッチ,まみみスイッチ,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+紺碧のボーダーライン,Azure Borderline,text
+,,text
+幸福のリズム,Rhythm of Joy,text
+海と太陽のプロメッサ,Promessa of the Sun and Sea,text
+乙女と交わすTrick,Girl and Her Interlaced Tricks,text
+渦と淵,渦と淵,text
+はらりひらり結ぶ,はらりひらり結ぶ,text
+私をときめかせて,私をときめかせて,text
+落ちる音がする,落ちる音がする,text
+夜が来ても,夜が来ても,text
+記憶が降る街,記憶が降る街,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+お試し／みつゴコロ,Trial Run/Hidden Heart,text
+それなら目をつぶりましょう,"In That Case, Close Your Eyes",text
+,,text
+く　ら　く　ら,D i z z y D i z z y,text
+雨に祝福,Blessed by the Rain,text
+♡コメディ,♡Comedy,text
+,,text
+ノー・ライフ,No Life,text
+鏡界フィクションレイン,"Mirrored Realm, Fictional Rain",text
+Good-bye ラブレター,Good-bye Love Letter,text
+待ちぼうけ次回予告,Staying tuned for what's next,text
+眩いステージ,Shining Stage,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+霧・音・燦・燦,Kiri's・Bright・Sou・nds,text
+夕・音・鳴・鳴,夕・音・鳴・鳴,text
+菜・菜・輪・舞,菜・菜・輪・舞,text
+鱗・鱗・謹・賀,鱗・鱗・謹・賀,text
+琴・禽・空・華,琴・禽・空・華,text
+かぜかんむりのこどもたち,かぜかんむりのこどもたち,text
+縷・縷・屡・来,縷・縷・屡・来,text
+空・風・明・鳴,空・風・明・鳴,text
+窓・送・巡・歌,窓・送・巡・歌,text
+唯・唯・寧・詠,唯・唯・寧・詠,text
+白・架・祝・幻,白・架・祝・幻,text
+海へと還る街,海へと還る街,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+第２形態アーマードタイプ,2nd Form Armored Type,text
+新装備・バブルバスター！,"New Equipment, Bubble Buster!",text
+潮騒のシーショア,Sounds of the Seashore,text
+エクストリーム・ブレイク！,Extreme Break!,text
+日刊ウィズ・ユー！,日刊ウィズ・ユー！,text
+フルスロットルエイジ！,フルスロットルエイジ！,text
+ギア・アップ！ゴー・オン！,ギア・アップ！ゴー・オン！,text
+スノードーム・シンドローム,スノードーム・シンドローム,text
+両手に兄！,両手に兄！,text
+カラーズキャッチ！,カラーズキャッチ！,text
+きみだけ！,きみだけ！,text
+ななひゃくさんじゅう えん,ななひゃくさんじゅう えん,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+ちょこ色×きらきらロマン,Chocolatey×Sparkling Romance,text
+あそ→と♡ちよこれいと,あそ→と♡ちよこれいと,text
+かきまぜたら＊ミルク,かきまぜたら＊ミルク,text
+,,text
+プリティ・スイート,プリティ・スイート,text
+砂糖づけ・ビターエンド,"Candied, Bitter End",text
+トコハレ☀コメディ,トコハレ☀コメディ,text
+うつくしいあした,うつくしいあした,text
+チョコ for Y♡U,チョコ for Y♡U,text
+,,text
+はじめましてラストダンス,はじめましてラストダンス,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+ラムネ色の覚悟,ラムネ色の覚悟,text
+とびっきりジンジャー,とびっきりジンジャー,text
+曲がり角のランウェイ,曲がり角のランウェイ,text
+誰が為シンパシー,誰が為シンパシー,text
+秋陽のスケッチ,秋陽のスケッチ,text
+,,text
+花染む街で、君と,花染む街で、君と,text
+,,text
+陽の光、透かせば,陽の光、透かせば,text
+,,text
+あなた色アンダンテ,あなた色アンダンテ,text
+きらり、足跡,きらり、足跡,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+杜野凛世の印象派,The Impressionism of Rinze Morino,text
+凛世花伝,Flowering Rinze,text
+水色感情,Light Blue Feelings,text
+十二月短篇,December Story,text
+われにかへれ,われにかへれ,text
+ロー・ポジション,ロー・ポジション,text
+さよならごつこ,さよならごつこ,text
+晩秋ろまんす,晩秋ろまんす,text
+花は,花は,text
+染光満月,染光満月,text
+硝子少女,硝子少女,text
+ラヴ・レター,ラヴ・レター,text
+片恋はあと,片恋はあと,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+アルティメットマーメイド,Ultimate Mermaid,text
+メイドインナツハ,Maid In Natsuha,text
+,,text
+,,text
+,,text
+夏は来ぬ,夏は来ぬ,text
+マイバレンタイン,マイバレンタイン,text
+,,text
+,,text
+ビューティ/フル,ビューティ/フル,text
+TOTTを誓って,TOTTを誓って,text
+ユアバレンタイン,ユアバレンタイン,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+スタンバイオッケー,Standby OK,text
+ゆらゆらアクアリウム,Swaying Aquarium,text
+ないしょのスイーツ,ないしょのスイーツ,text
+お散歩サンライト,お散歩サンライト,text
+叶えて☆ゴールドフィッシュ,叶えて☆ゴールドフィッシュ,text
+約束ペタル,約束ペタル,text
+雪空セパレート,雪空セパレート,text
+,,text
+聞いてマイハート,聞いてマイハート,text
+すれちがいシアター,すれちがいシアター,text
+憧憬リキュールー,憧憬リキュールー,text
+輝いてアンドロメダ,輝いてアンドロメダ,text
+挑戦アトラクティブ,挑戦アトラクティブ,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+事務所。静寂。大輪の華,Office. Silence. Explosive Bloom,text
+好きなものはなんですか？,What Do You Like?,text
+,,text
+四夜一夜物語,Four and One Nights,text
+,,text
+バス・タイムの気分で,Bath Time Mood,text
+,,text
+甜ing Room,Ten-ing Room,text
+,,text
+きみは相棒,You're My Sidekick,text
+甜der Dream Show,Ten-der Dream Show,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+マイ・ピュア・ロマンス,My Pure Romance,text
+シークレット・ヒロイン,Secret Heroine,text
+サマーハニー・シーズン,Summer Honey Season,text
+はるかぜまち、1番地,"Spring Breeze Street, Address No. 1",text
+秋空と紅葉,The Autumn Sky And Leaves,text
+ハッピー・アイ・スクリーム,Happy I Scream,text
+つよがりのためのララバイ,Lullaby for Courage,text
+ひとひらで紡ぐ世界,ひとひらで紡ぐ世界,text
+ネームレス・ヘヴンに憧れて,ネームレス・ヘヴンに憧れて,text
+剥がされて、虚ろ,剥がされて、虚ろ,text
+やわらかくうけとめて,やわらかくうけとめて,text
+切り拓いて・茨,切り拓いて・茨,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+ジャンプ！スタッグ！！！,Jump! Stag!!!,text
+空と青とアイツ,"The Sky, Blue, and You",text
+不機嫌なテーマパーク,Grumpy Theme Park,text
+,,text
+,,text
+光は光へ,光は光へ,text
+,,text
+,,text
+ムーンライト・ガーデン,Moonlight Garden,text
+さよならカイト,さよならカイト,text
+何故、ベルは鳴る,Why Does the Bell Toll,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+オ♡フ♡レ♡コ,Off♡The♡Record,text
+アンシーン・ダブルキャスト,アンシーン・ダブルキャスト,text
+,,text
+,,text
+,,text
+幕間、沸々と高温,幕間、沸々と高温,text
+名モナキ夜ノ標ニ,名モナキ夜ノ標ニ,text
+三文ノワール,三文ノワール,text
+ノンセンス・プロンプ,ノンセンス・プロンプ,text
+紅茶夢現,紅茶夢現,text
+ア・冬優子イズム,ア・冬優子イズム,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+ちょっとあげる～,I'll Give You a Little～,text
+メイ・ビー,メイ・ビー,text
+シャッターチャンス！？,シャッターチャンス！？,text
+今のうちは走らない,今のうちは走らない,text
+ちょー早い！,ちょー早い！,text
+あたし流・かっこいい,あたし流・かっこいい,text
+うちと幸せ,うちと幸せ,text
+何度転んだって,何度転んだって,text
+あたし・マスト,あたし・マスト,text
+今、できることを全て,今、できることを全て,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+10個、光,"10, Lights",text
+途方もない午後,Extraordinary Afternoons,text
+つづく、,つづく、,text
+国道沿いに、憶光年,"By the National Highway, Lightyears",text
+夜はなにいろ,夜はなにいろ,text
+あてもなく、風,"Unwritten Destination, With the Winds",text
+雪あたりの季節,Sometime Around Winter,text
+ヘブンリーブルーをつかまえて,ヘブンリーブルーをつかまえて,text
+テープエンドの行き先,Destination at Tape's End,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+カラカラカラ,"Clatter, Clatter, Madder",text
+ギンコ・ビローバ,Ginkgo-Biloba,text
+ピトス・エルピス,Pithos-Elpis,text
+オイサラバエル,Aged into Ruin,text
+,,text
+バグ・ル,Bug-ly,text
+キン・コン,Moment-Present,text
+フリークス・アリー,Freaks'-Alley,text
+ジャンク・ション,Junk-tion,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+ポシェットの中には,Inside the Pochette,text
+おみくじ結びますか,Do You Want to Tie our Omikujis?,text
+てのひらの答え,Palm's Reply,text
+なつやすみ学校,Summer Vacation School,text
+セピア色の孤独,セピア色の孤独,text
+雲のかなたまで,雲のかなたまで,text
+あなた様へ紡ぐ,あなた様へ紡ぐ,text
+窓をあけて,窓をあけて,text
+羽をやすめて,羽をやすめて,text
+ちいさな巣立ち,Flying the Nest,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+♡まっクろはムウサぎ♡,♡Pitch Black Hamster Rabbit♡,text
+ヴぇりべりいかシたサマ,ヴぇりべりいかシたサマ,text
+夜よこノ窓は塗らないデ,夜よこノ窓は塗らないデ,text
+↓ろウTea,↓ろウTea,text
+ふラiとぅTHE,ふラiとぅTHE,text
+とキどき間氷期,Occasional Interglacial,text
+伝えテ niiid U,伝えテ niiid U,text
+日々、想,日々、想,text
+受けトル sun Q,受けトル sun Q,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+連綿と、桜,Everlasting Cherry Blossoms,text
+桜花拾,Picking Cherry Blossoms,text
+流星パレット,Meteor Shower Palette,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
+,,text
