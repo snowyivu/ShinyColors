@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,It smells like pumpkin pie──
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(I ended up taking a free sample... Pretty rare for me
+to do that... maybe it's because it's seasonal...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Well, I've already got it, might as well try some...!"
+0000000000000,プロデューサー,────────え？,────────Huh?
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"Before I knew it, I was in a room I've never seen before."
+0000000000000,off,"目の前には異世界のルカ
+──どうやらまた迷い込んでしまったらしい","A Luca from another world standing before me.
+──It seems like I'm lost again."
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","When I searched for an escape route, I found a door
+with a lock on it, requiring a number code to unlock."
+0000000000000,off,"『私に勝てたら教えてやるよ。逃げられるといいな』と
+ルカは言った────","Luca declares ""I'll tell you the combination 
+if you beat me. You better hope you can escape."""
+4902200760010,ルカ,"アンタはそろそろ、テメェが都合のいい餌だってことを
+頭に叩き込んだ方がいい","You better get it into your thick skull that 
+you're nothing but convenient food for me."
+0000000000000,プロデューサー,"いやー……ははは……！
+あんまり実感が湧かなくてなぁ……","Oh manー... Hahaha...!
+This doesn't feel real, you know..."
+4902200760020,ルカ,"……へぇ。見逃してるから無事だってこと、
+なんにもわかってねぇんだ？","...Huh. You think just because it doesn't seem real, 
+it's not? You don't get it, do you?"
+0000000000000,プロデューサー,！,!
+4902200760030,ルカ,"なら始めんぞ
+……いい加減、我慢も限界だ","Then let's get started.
+...I've had enough."
+info,special_communications/490220076.json,
+Translator,Burbur,

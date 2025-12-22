@@ -8,17 +8,19 @@ afternoon. Do you have any requests?"
 ちゃんとうちの好みば当ててみんね！","Ah! How about Producer chooses today! 
 Make sure to guess what I'll like okay!"
 0000000000000,プロデューサー,(恋鐘の食べ物の好みか……),(Kogane's favorite food...?)
-select,,がっつり焼肉弁当,Tons of Yakiniku Bento
-select,,定番の鮭弁当,Regular Salmon Bento
-select,,あえてサラダだけ,"Intentionally just
-a salad"
+select,,がっつり焼肉弁当,"Tons of yakiniku
+bento"
+select,,定番の鮭弁当,"Regular salmon
+bento"
+select,,あえてサラダだけ,"Intentionally
+just a salad"
 1004001000810030,恋鐘,おお！　大正解！　うちお肉大好きなんよ～,Ooh! Darn right! I love meat～
 1004001000810040,恋鐘,"それにお仕事は体力勝負やし、しっかり食べんとね！
 プロデューサーも焼肉弁当で力つけるばい！","And work is a trial of strength, so ya gotta eat 
-well! You should fuel up with Yakiniku Bento too!"
+well! You should fuel up with yakiniku bento too!"
 0000000000000,プロデューサー,（よし、正解だったみたいだな）,"(Nice, that went really well.)"
 1004001000810050,恋鐘,"鮭弁当か～
-うんうん、確かに魚もよかね～","Salmon Bento～? Mhm mhm, it's true I like salmon too 
+うんうん、確かに魚もよかね～","Salmon bento～? Mhm mhm, it's true I like salmon too 
 but～"
 1004001000810060,恋鐘,"地元じゃ毎日新鮮な魚食べとったし
 定番やけん、ハズレもなかばい～","Since I ate fresh fish every day in my hometown, it's 

@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,It smells like pumpkin pie──
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(I ended up taking a free sample... Pretty rare for me
+to do that... maybe it's because it's seasonal...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Well, I've already got it, might as well try some...!"
+0000000000000,プロデューサー,────────え？,────────Huh?
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"Before I knew it, I was in a room I've never seen before."
+0000000000000,off,"目の前には異世界のはるき
+──どうやらまた迷い込んでしまったらしい","A Haruki from another world standing before me.
+──It seems like I'm lost again."
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","When I searched for an escape route, I found a door
+with a lock on it, requiring a number code to unlock."
+0000000000000,off,"『ここを出たいなら、わたしと勝負してください』と
+はるきは言った────","Haruki declares ""If you want to get out of there, 
+please challenge me!"""
+0000000000000,プロデューサー,"勝負に勝ったら、鍵の番号を教えてくれるってことか
+──もし、俺が負けたら……？","So if I win, you'll tell me the combination.
+──But, what if I lose...?"
+4902200820010,はるき,"その時は……
+プロデューサーさんを食べちゃおうかなって","Right now...
+I'm thinking about eating you, Producer-san."
+0000000000000,プロデューサー,……っ！,...!
+4902200820020,はるき,"だってプロデューサーさん
+とっても甘い匂いがして美味しそう……","Because you have such a sweet and delicious 
+scent on you..."
+4902200820030,はるき,"それでは──
+ゲームを始めましょうか……！","Now then──
+Let's start the game...!"
+info,special_communications/490220082.json,
+Translator,Burbur,

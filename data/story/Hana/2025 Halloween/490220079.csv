@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,It smells like pumpkin pie──
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(I ended up taking a free sample... Pretty rare for me
+to do that... maybe it's because it's seasonal...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Well, I've already got it, might as well try some...!"
+0000000000000,プロデューサー,────────え？,────────Huh?
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"Before I knew it, I was in a room I've never seen before."
+0000000000000,off,"目の前には異世界の羽那
+──どうやらまた迷い込んでしまったらしい","A Hana from another world standing before me.
+──It seems like I'm lost again."
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","When I searched for an escape route, I found a door
+with a lock on it, requiring a number code to unlock."
+0000000000000,off,"『あたしに勝ったら、鍵の番号教えてあげるね？』と
+羽那は言った────","Hana declares ""If you beat me, I'll tell you 
+the combination, okay?"""
+0000000000000,プロデューサー,"勝ったら教えてくれる──って
+じゃあもし、俺が負けたら……？","You'll tell me if I win──
+But what happens if I lose...?"
+4902200790010,羽那,"プロデューサーが負けたら……
+──あたしがプロデューサーを食べちゃう","If you lose...
+──I'll eat you up."
+0000000000000,プロデューサー,えっ……！？,Eh...?!
+4902200790020,羽那,"だってプロデューサー、さっきから
+すっごくいい匂いさせてるんだもん。……ね？","Because you've been smelling sooo yummy earlier. 
+...Right?"
+4902200790030,羽那,"……ふふっ
+それじゃあ、ゲーム──始めよっか","...Fufu.
+Well, let's start the game!"
+info,special_communications/490220079.json,
+Translator,Burbur,

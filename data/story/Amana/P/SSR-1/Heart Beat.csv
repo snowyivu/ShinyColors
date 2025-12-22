@@ -1,0 +1,156 @@
+id,name,text,trans
+2014004040010,甘奈,"今度のお仕事は、まず私服でトークをして
+その後にミニライブ、って流れなんだね","So for the next job, we're doing a talk segment
+in casual wear first, and then a mini-live, right?"
+0000000000000,プロデューサー,"ああ、今まで出たイベントの中では１番の規模になるな
+だから、不安な点があったら聞いてくれ","Yeah, this is going to be the biggest event we've
+done so far. I'm here for you, so don't hesitate to 
+reach out if you're feeling worried."
+2014004040020,甘奈,"不安てほどじゃないけど……
+トークは基本、フリートーク、なんだよね？","I'm not really worried or anything, it's just...
+The talk part is mostly ad-lib, right?"
+0000000000000,プロデューサー,ああ、本番でやるのは初めてだったな,"Oh yeah, it's your first time doing an unscripted set."
+0000000000000,プロデューサー,"何回か練習をしたと思うけど
+足りない感じがするなら、またやっておくか？","I know we've already practiced a few times, but if
+you're still a bit uneasy, let's keep practicing until
+you feel ready. Want to give it another go?"
+2014004040030,甘奈,"ううん、大丈夫！
+プロデューサーさんやみんなと何回も練習したもんね","No, really, don't worry! I've practiced a ton with you
+and everyone else already, so I think I'm good to go."
+0000000000000,プロデューサー,"その後もおさらいしておこう
+トークの後は休憩が入って、ミニライブになる","Let's just double-check the flow one more time.
+It'll be the talk first, then a quick break before the
+mini-live starts."
+0000000000000,プロデューサー,そこからは衣装になるから、衣装替えも入るぞ,"From that point on, you'll be in costume, so we'll have 
+an outfit change in there too."
+2014004040040,甘奈,"うん
+……あ、曲は、２曲で良かったよね","Yeah, and for the setlist...
+We're definitely good with just those two songs, 
+right?"
+0000000000000,プロデューサー,"ああ、出演者それぞれが
+ソロで２曲～３曲歌うことになっている","Yup, every performer is set to do a solo of two or 
+three songs each."
+2014004040050,甘奈,"ソロも今まで何回かやってるもんね……
+うん、大丈夫","I've been doing solo parts for a while now, so yeah...
+I think I'll be just fine!"
+0000000000000,プロデューサー,"……やっぱり緊張してるのか、甘奈？
+どことなく固い感じがするけど","...Are you getting a little nervous after all, Amana?
+You just seem a bit tense."
+2014004040060,甘奈,"え？　そんなことないよ
+甘奈はいつも通り☆","Huh? No, not at all! 
+I'm totally the same as always☆"
+0000000000000,プロデューサー,"……いつもと少し様子が違うことぐらい、わかるぞ
+こういうときくらい、無理をしなくて良い","I can tell when something's on your mind, Amana.
+I've been your producer long enough to know when
+you're not quite yourself."
+2014004040070,甘奈,"えへへ……やっぱりわかっちゃうか……
+じゃあ、ひとつだけお願い、しても良いかな？","Ehehe... You totally saw through me, didn't you?
+In that case... is it okay if I tell you what's been on
+my mind?"
+0000000000000,プロデューサー,ああ、言ってみてくれ,"Of course. I'm all ears, Amana.
+Tell me what's on your mind."
+2014004040080,甘奈,トークパートで着る衣装なんだけど……,"Actually, it's about the outfit I'll be wearing for
+the talk segment..."
+2014004040090,甘奈,甘奈が選んでも、良いかな？,"Would it be okay if... I got to choose what I want to
+wear?"
+0000000000000,プロデューサー,"それは大丈夫だが……
+本番前に負担にならないか？","That's fine with me, but... 
+I'm just worried it might be a bit too much for you to
+handle right before the show."
+2014004040100,甘奈,"ううん、負担になんてならないよ
+……ダメ、かな？","Honestly, it's no trouble at all, I promise!
+Would it be alright with you?"
+0000000000000,プロデューサー,"わかった、甘奈がそうしたいのなら
+そうしよう","Okay, if you're sure that's what you want...
+Then let's go with your choice."
+2014004040110,甘奈,"良かった……
+ありがと、プロデューサーさん！","That's great...!
+Thank you so much Producer-san!"
+2014004040120,甘奈,これでホントに大丈夫になったよ☆,"Thanks to that, I feel way better now!☆"
+2014004040130,甘奈,"やっぱりかわいーなぁ
+プロデューサーさんと選んだこの服☆","It really is so cute...
+I'm so happy I chose this outfit with Producer-san."
+2014004040140,甘奈,この服を着てたら今日のイベント、乗り切れそう……,"I feel like I can handle anything in today's event as
+long as I'm wearing this...!"
+2014004040150,甘奈,……力を貸してね……,"...Lend me your strength, okay?"
+2014004040160,甘奈,……よし！　行こう！,Okay... Let's do this!
+2014004040170,甘奈,えへへ、上手く歌えて良かった☆,"Ehehe, I'm so glad that the performance went well! ☆"
+0000000000000,プロデューサー,"お疲れ、甘奈
+良かったぞ！","Great work, Amana! 
+You really gave it your all out there!"
+2014004040180,甘奈,"えへっ
+プロデューサーさんもお疲れ様☆","Ehe, great work to you too, Producer-san! ☆"
+0000000000000,プロデューサー,（上手くできてホッとしているようだ）,(She looks truly relieved that everything went well.)
+select,,落ち着いてやれたな,"You stayed really
+calm out there."
+select,,堂々としていたぞ,"You looked
+so confident."
+select,,歌が特に良かった,"Your singing was
+especially great."
+2014004040190,甘奈,"うん！　大丈夫だって言ったじゃん
+今日の甘奈は無敵なんだから☆","Yup! Told you I'd be fine!
+I feel like I'm on top of the world today! ☆"
+0000000000000,プロデューサー,"はは、そうみたいだな
+あんなに不安そうだったのに、上手く切り替えられたな","Haha, I guess so.
+For someone who was so worried earlier, you handled
+the change perfectly."
+2014004040200,甘奈,……なんでかわかる？,...Do you know why?
+0000000000000,プロデューサー,"そうだな……うーん……
+……どうしてだ？","Let me see... Hmm...
+...May I know why?"
+2014004040210,甘奈,わからないなら、秘密にしとくね☆,"Well, if you can't figure it out, then maybe I'll just
+keep it a secret for now ☆"
+0000000000000,プロデューサー,そう言われると気になるじゃないか,You can't just say that and leave me hanging.
+2014004040220,甘奈,"じゃあ……何か思いついたら、言ってみてほしいな
+そしたら、正解かどうか教えてあげる！","Well then, if you can think of a reason why, tell me,
+and I'll let you know if you're right!"
+2014004040230,甘奈,"だから、頑張って考えてみてね☆
+プロデューサーさん","That's why you'd better do your best to figure it
+out, Producer-san! ☆"
+2014004040240,甘奈,そう見えてたなら、嬉しいかな……,"If that's how you see me, then I'm really glad..."
+2014004040250,甘奈,……わっ,...Whoa!
+0000000000000,プロデューサー,危ない！　……大丈夫か？,"Watch out! 
+...Are you okay?"
+0000000000000,プロデューサー,"きっと疲れが出たんだろう
+歩けそうか？","I think the fatigue is finally catching up with you.
+Are you able to walk?"
+2014004040260,甘奈,"えへへ、大丈夫……
+ただ……ちょっとお腹が空いたかも……","Ehehe, I'm alright... 
+I just think... I might be a little hungry..."
+0000000000000,プロデューサー,"それなら何かお腹に入れた方が良いな
+食べたいものはあるか？","We'd better get you something to eat then.
+Do you have anything in mind?"
+2014004040270,甘奈,"じゃあ、前みたいに
+ファミレスで一緒にご飯が食べたいかな☆","Then... I'd love to go back to that same family
+restaurant we went to before and have a meal there
+together ☆"
+0000000000000,プロデューサー,"そうだな、確か近くにあったから
+そこで良いか？","Alright, I think there's a branch nearby.
+Is that okay with you?"
+2014004040280,甘奈,"うん！　ありがと！
+頑張った後の甘いものって美味しいんだよね☆","Yup! Thank you!
+Sweets always taste way better after you've done
+your best, right? ☆"
+2014004040290,甘奈,えへへ、今日は何にしようかな～,"Ehehe, I wonder which one I should choose today～"
+0000000000000,プロデューサー,"全体的に良かったけど
+特に歌声が良く響いていて良かったぞ","The whole show was great, but I could really
+feel your voice out there. You sounded amazing."
+2014004040300,甘奈,"ホント？
+えへへ、この間からの練習の成果かも","Really? I guess all that practice I've been doing
+lately really paid off!"
+2014004040310,甘奈,"前に自主レッスンに付き合ってもらったよね？
+あれからもレッスン頑張ってるんだから☆","Remember when you helped me with my extra
+practice? Well, I've been working even harder
+since then! ☆"
+0000000000000,プロデューサー,"ああ、トレーナーからも
+甘奈は良くやってるって聞いてるよ","Actually, the trainer told me the same thing,
+that you've been working really hard lately."
+2014004040320,甘奈,"うん、前より上手くなってると思うの
+だからね……","I really feel like I've improved!
+That's why, um..."
+2014004040330,甘奈,"また今度、プロデューサーさんに向けた歌を
+聴いてもらいたいかな☆","I want to try singing a song dedicated to you,
+Producer-san! So please, come and listen
+sometime! ☆"
+info,produce_events/201400404.json,
+Translator,Yuzukicchi,

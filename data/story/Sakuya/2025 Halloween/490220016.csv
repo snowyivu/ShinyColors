@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,It smells like pumpkin pie──
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(I ended up taking a free sample... Pretty rare for me
+to do that... maybe it's because it's seasonal...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Well, I've already got it, might as well try some...!"
+0000000000000,プロデューサー,────────え？,────────Huh?
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"Before I knew it, I was in a room I've never seen before."
+0000000000000,off,"目の前には異世界の咲耶
+──どうやらまた迷い込んでしまったらしい","A Sakuya from another world standing before me.
+──It seems like I'm lost again."
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","When I searched for an escape route, I found a door
+with a lock on it, requiring a number code to unlock."
+0000000000000,off,"『教えてもかまわないよ、私との勝負に勝てたらね』と
+咲耶は言った────","Sakuya declares ""I don't mind telling you, as long 
+as you win the match."""
+0000000000000,プロデューサー,それじゃあ、なんとしても勝たないとな……,"Looks like I'll have to win, no matter what..."
+4902200160010,咲耶,"ああ。負ければ、アナタは一生ここから出られない
+そして────","Mhm. If you lose, you will never be able to leave 
+this place. Plus──"
+4902200160020,咲耶,"私にガブッと食べられてしまうのさ
+ずっと待っていたからね。アナタみたいなご馳走を","I will devour all of you. I've been waiting forever for 
+such a feast like yourself."
+0000000000000,プロデューサー,……っ！,...!
+4902200160030,咲耶,"フフ、そんな顔をしなくても、勝てばいい話さ
+──さあ、早速だけど始めようか","Fufu, no need to make that face. Just make sure 
+you win. ──Well then, let us get started."
+info,special_communications/490220016.json,
+Translator,Burbur,

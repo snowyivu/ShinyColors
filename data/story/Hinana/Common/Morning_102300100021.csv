@@ -1,7 +1,6 @@
 id,name,text,trans
 1023001000210010,雛菜,"プロデューサー
-おはようございます～♡","Producer,
-good morning～♡"
+おはようございます～♡","Producer, good morning～♡"
 0000000000000,プロデューサー,"おはよう！
 あれ……雛菜、今日学校の日じゃ……？","Good morning!
 Huh... Hinana, wasn't today a school day...?"
@@ -11,15 +10,15 @@ Huh... Hinana, wasn't today a school day...?"
 Come on, get going already!"
 select,,"学校も
 楽しめばいいんだ","You can have fun
-at school, too"
-select,,いってらっしゃい,Have a safe trip
+at school, too."
+select,,いってらっしゃい,Have a safe trip.
 select,,急ぐんだ！,Hurry up!
 1023001000210030,雛菜,"あは～、仕方ないから
 楽しんできます～","Aha, it can't be helped～!
 I'll go and have fun～"
 1023001000210040,雛菜,"今日あった楽しいこと
-あとで全部聞いてね～？","Later, I'll tell you all about
-all the fun things that happened today, 'kay～?"
+あとで全部聞いてね～？","Later, I'll tell you all about all the fun things that
+happened today, 'kay～?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1023001000210050,雛菜,"ん～……
 じゃあ、いってきます～","Mn～...

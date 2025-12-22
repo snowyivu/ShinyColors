@@ -1,0 +1,36 @@
+id,name,text,trans
+0000000000000,プロデューサー,"ごめんな、あさひ
+せわしない食事になっちゃって","Sorry about that, Asahi.
+The meal ended up being a bit rushed."
+4902300340010,あさひ,"………？
+平気っすよ。チキン美味しいっす！",...Huh? I’m fine! The chicken was super good!
+0000000000000,プロデューサー,"あっ、そうだ
+車に乗る前に、これ──","Oh, right—before we get in the car, here."
+0000000000000,プロデューサー,クリスマスプレゼントだ、あさひ,"Merry Christmas, Asahi. It’s your present."
+4902300340020,あさひ,"やったっすー！
+ありがとっす！","Whoa, really!? Thanks!"
+4902300340030,あさひ,"……？
+なんか、カラカラ音がするっす",...Huh? Something’s rattling inside.
+0000000000000,プロデューサー,開けてみたらいい,"Go ahead, open it."
+4902300340040,あさひ,……鍵のついた箱っす,It’s... a box with a lock on it.
+4902300340050,あさひ,"……？
+プロデューサーさん、これ空っぽっす","...? Producer-san, it’s empty."
+0000000000000,プロデューサー,"ああ、そうだ
+俺からのプレゼントはその箱そのものだからな","Yeah, that’s right. The box itself is my gift."
+0000000000000,プロデューサー,"その箱にはなんでも、
+あさひがいいなと思ったものを入れてくれ","Whatever you think is special or ‘just right’ for you—
+Put it in there."
+0000000000000,プロデューサー,あさひだけの、秘密の宝箱だ,It’s your own secret treasure box.
+4902300340060,あさひ,…………！,...!
+4902300340070,あさひ,"それ、面白いっすね！
+それじゃあ、この骨も入れるっす","That’s so cool! Then, I’ll start with this chicken bone!"
+0000000000000,プロデューサー,"チキンの骨？
+それはちょっと……",The chicken bone...? Maybe not that one...
+4902300340080,あさひ,でも、この骨面白い形してるっすよ！,But look! It’s got a funny shape!
+4902300340090,あさひ,"他には……あっ！　今日サンタに会ったら
+サインもらうっす！　それも入れるっす","And then... oh! If I meet Santa today,
+I’ll get his autograph! I’ll put that in too!"
+0000000000000,プロデューサー,"はは、そうだな
+会えるといいなサンタに","Haha, sure. Hope you get to meet him."
+info,special_communications/490230034.json,
+Translator,Dee,

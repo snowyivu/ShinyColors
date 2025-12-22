@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,It smells like pumpkin pie──
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(I ended up taking a free sample... Pretty rare for me
+to do that... maybe it's because it's seasonal...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Well, I've already got it, might as well try some...!"
+0000000000000,プロデューサー,────────え？,────────Huh?
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"Before I knew it, I was in a room I've never seen before."
+0000000000000,off,"目の前には異世界の甜花
+──どうやらまた迷い込んでしまったらしい","A Tenka from another world standing before me.
+──It seems like she's lost again."
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","When I searched for an escape route, I found a door
+with a lock on it, requiring a number code to unlock."
+0000000000000,off,"『番号、甜花と勝負して……当ててみせて……』と
+甜花は言った────","Tenka said that, I have to ""beat her in a match... by
+guessing the code......"""
+0000000000000,プロデューサー,"甜花……どうしたんだよ
+お札もちゃんと貼ってるのに……","I wonder what's up with her...
+She has the tag on and everything..."
+4902200430010,甜花,"……？
+お札貼ってても、お腹……空くよ……？","......?
+We still get hungry... with our tag on... you know......?"
+4902200430020,甜花,"にへへ……
+やっぱり、いい匂い……","Nihehe......
+You really do... smell good......"
+4902200430030,甜花,"……────
+あ……ゲーム、しなきゃだった……","......────
+Oh right...... we have to... play our game......"
+4902200430040,甜花,────早く……しよ……？,────Should we...... get started......?
+info,special_communications/490220043.json,
+Translator,kotonekotoP,
