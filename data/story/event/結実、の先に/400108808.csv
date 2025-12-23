@@ -34,7 +34,7 @@ You'd better come back soon!"""
 ──ありがとう、ふたりとも』","""Pfft... Ahahahaha...
 ──Thanks, you two."""
 0000000000000,ルクア,"『正直、今いろいろバタついてて気持ちも落ち着かんし
-……将来のこととか考えるとマジで不安しかないけど』","""Honestly, i'm a complete mess right now, and I can't
+……将来のこととか考えるとマジで不安しかないけど』","""Honestly, I'm a complete mess right now, and I can't
 seem to settle down. ...Thinking about the future and
 stuff is making me super uneasy."""
 0000000000000,ルクア,"『やけど、戻ってこられる場所があるってだけで全然違うね
@@ -64,7 +64,7 @@ out......?"""
 4001088080160,霧子,『『夜明け、ほころぶ』』,"""'Daybreak Begins'"""
 4001088080170,霧子,"『こちらは……コメティックの……
 郁田はるきさんの……作品です……』","""This is... a work from...... our very own... Haruki Ikuta...
-of Cometik......"""
+of CoMETIK......"""
 4001088080180,美琴,…………,............
 4001088080190,霧子,『どんな思いで……見ているのかな……』,"""Which memories... can you feel......?"""
 4001088080200,霧子,『どんな思いを……見つけたのかな……』,"""Which thoughts... can you see......?"""
@@ -77,7 +77,8 @@ of Cometik......"""
 最大の見どころを教えていただけますか……！","──Now then, Morino-san, would you tell us the your
 favorite thing about ""NEXT.283""...!?"
 4001088080260,凛世,"はい……
-すべて……と言いたいところでございますが……",Yes...... I would like to say... everything... however......
+すべて……と言いたいところでございますが……","Yes...... I would like to say... everything... 
+However......"
 4001088080270,凛世,"ひとりひとりの輝きが……パフォーマンスが……
 何よりの……見どころではないでしょうか……","One could say that... the most spectacular part... is
 everyone shining brilliantly... in their performances......"
@@ -101,7 +102,7 @@ feeling something impoirtant."
 looking forward to it."
 0000000000000,記者１,──では、緋田さんはいかがですか？,"──Now then, how are you feeling, Aketa-san?"
 4001088080330,美琴,"はい、シーズの……みんなのパフォーマンスを
-大きなスクリーンで観ることが出来て──","Hello, to be able to see Shhis' performance... no,
+大きなスクリーンで観ることが出来て──","Hello, to be able to see SHHis' performance... no,
 everyone's performance on the big screen like this─"
 4001088080340,美琴,"とても感慨深いです
 ……心から感謝しています","I'm deeply moved... I'm extremely grateful for this
@@ -160,7 +161,7 @@ And last but not least... Ikuta-san."
 4001088080560,はるき,…………,............
 4001088080570,off,『空の輪郭をなぞって』,"""I traced the outline of the sky"""
 4001088080580,off,『その形がわからなくても』,"""Even if I didn't know its shape"""
-4001088080590,off,『辿り着いた先がまっしろでも』,"""Even if that which I had arrived at was pure white"""
+4001088080590,off,『辿り着いた先がまっしろでも』,"""Even if that which I had arrived at, was pure white"""
 4001088080600,off,『とめない』,"""I can't stop"""
 4001088080610,off,『とまらない』,"""I won't stop"""
 4001088080620,off,『それが、わたしの』,"""And that... is my..."""
@@ -168,10 +169,10 @@ And last but not least... Ikuta-san."
 いろんな人に助けてもらってばかりです","I'm still really inexperienced, and I had a lot of people
 helping me out."
 4001088080640,はるき,"でもコメティックの、
-２８３プロの一員として──","But as a single member of Cometik, of 283 Pro──"
+２８３プロの一員として──","But as a single member of CoMETIK, of 283 Pro──"
 4001088080650,はるき,"作品の一部になれたこと
 本当にうれしくて……誇らしくて──胸がいっぱいです","I am unbelievably happy to be included as a part of
-this project... my heart is filled pride."
+this project... My heart is filled with pride."
 4001088080660,はるき,ここに立たせてくれてありがとうございます,Thank you very much for letting me stand up here.
 4001088080670,はるき,ファンのみなさんやスタッフのみなさん……,"We could only make this work, because of all of the
 people around us..."
@@ -186,8 +187,8 @@ theaters to come see this movie...!"
 0000000000000,ナレーション,彼女たちは……これからも輝き続ける──,Those girls will continue to shine from here on out......
 0000000000000,プロデューサー,…………,............
 0000000000000,プロデューサー,"伝わって、広がって……
-もっと、もっと世界が開けていく","As word is spread, and reaches more people... the
-world will continue to open up."
+もっと、もっと世界が開けていく","As word spreads, and reaches more people... 
+The world will continue to open up."
 0000000000000,プロデューサー,"みんなだから、積み重ねてきたから……
 こんなにも輝けるんだな","They can only shine as brightly as they do... because
 of everything leading up to this moment."
@@ -196,7 +197,7 @@ of everything leading up to this moment."
 select,,彩は増していく,"Their colors
 will deepen"
 0000000000000,プロデューサー,……その彩を感じられること誇りに思うよ,......I'm proud that their colors can be so tangibly felt.
-0000000000000,プロデューサー,──はい、２８３プロダクションでございます,"──Yes, this is 283 Productions."
+0000000000000,プロデューサー,──はい、２８３プロダクションでございます,"──Yes, this is 283 Production."
 0000000000000,プロデューサー,"……はい、はい──
 ありがとうございます……！","...Yes, yes──
 Thank you very much...!"
@@ -210,8 +211,8 @@ I didn't know."
 4001088080720,off,"答えはもうあるから
 見つけるだけだから","The answer already exists, you just have to find it."
 4001088080730,off,"いつか……その日が来ても……
-ずっと、大切……だよ……","So one day... even if that day comes...... This time...
-will always be special... to us......"
+ずっと、大切……だよ……","So one day... even if that day comes...... 
+This time... will always be special... to us......"
 4001088080740,off,"続いているから……
 今……この瞬間も……",Everything will continue... including... this moment......
 4001088080750,off,"だからこそ……この時を……

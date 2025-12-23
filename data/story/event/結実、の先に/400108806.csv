@@ -17,19 +17,19 @@ id,name,text,trans
 too～?"
 4001088060130,はるき,"あ、そうなんだ……！
 わたしは、ちょっと前にたまたま見つけたんだ","Oh, is that so...?! I've just come here occasionally."
-4001088060140,雛菜,そうなんですね～,Oh okay～
+4001088060140,雛菜,そうなんですね～,"Oh, okay～"
 0000000000000,店員,"失礼いたします
 ご注文はお決まりでしょうか？","Please excuse me, have you decided on what you'll be
 ordering?"
 4001088060150,雛菜,"はい～、えっと──
-チーズケーキと……アイスのカフェオレお願いします～","Yes～ Ummm... Cheesecake and... and ice cafe au lait
+チーズケーキと……アイスのカフェオレお願いします～","Yes～ Ummm... Cheesecake and... an iced cafe au lait
 please～"
 0000000000000,店員,"チーズケーキのソースが日替わりになっておりまして
 本日はストロベリー、キウイ、黒蜜きな粉がございます","Our sauces change daily, and today we're serving
 strawberry, kiwi, and black sugar kinako."
 4001088060160,雛菜,ん～……,Hmmm～...
 4001088060170,はるき,"ふふ……
-迷っちゃうよねぇ……","Fufu... hard to pick, huh...?"
+迷っちゃうよねぇ……","Fufu... Hard to pick, huh...?"
 4001088060180,雛菜,全部って、できますか？,Can we do everything?
 4001088060190,はるき,！,!
 0000000000000,店員,"はい、１種類につきプラス200円頂戴しておりますが、
@@ -48,7 +48,7 @@ that okay?"
 4001088060270,はるき,え……,Huh......
 4001088060280,雛菜,さっき、なんかやってたから～,"You were doing something earlier, right～?"
 4001088060290,はるき,"あ、お気遣いありがとう……！
-さっき書いてたのはね、詩なんだ","O-Oh thank you for noticing...! You see, I was writing
+さっき書いてたのはね、詩なんだ","O-Oh, thank you for noticing...! You see, I was writing
 a poem earlier."
 4001088060300,はるき,"新しくできるイベントスペースに、
 展示させてもらえることになって……","We were given the opportunity to display them at a
@@ -70,7 +70,7 @@ wasteful...? Or something like that──"
 なんかわたし、ひとりで勝手に喋ってたね……！","...Oh, s-sorry! I didn't mean to just ramble like that...!"
 4001088060390,雛菜,"あは～
 聞いちゃって大丈夫なやつですか～？",Aha～ Is it something you're allowed to talk about～?
-4001088060400,はるき,ふふ……うん、大丈夫！,"Fufu... yes, no problem!"
+4001088060400,はるき,ふふ……うん、大丈夫！,"Fufu... Yes, no problem!"
 4001088060410,はるき,"最近、いろんな人に話を聞いてもらったりしてるから
 無意識に話しちゃってたのかもなぁ……","I've been talking to so many people about it lately
 that I think I just subconsciously started saying
@@ -85,7 +85,7 @@ choose, then Hinana thinks that you don't have to～"
 4001088060470,美琴,私のゴールがどこにあるのか、私にもわからないから,Even I don't know where my end ultimately lies.
 4001088060480,はるき,そっか……,I see...
 4001088060490,はるき,"うん、そうだよね……
-そう、思ってるんだもんね──",Yeah... you're right... I think so too──
+そう、思ってるんだもんね──",Yeah... You're right... I think so too──
 4001088060500,はるき,……ありがとう、雛菜ちゃん……！,"...Thanks, Hinana-chan...!"
 4001088060510,雛菜,"あは～？
 どういたしまして～",Aha～? You're welcome～
@@ -99,17 +99,17 @@ choose, then Hinana thinks that you don't have to～"
 終わっちゃっても……",Even if... it'll all end someday......
 4001088060570,甜花,大切な思い出には、できる……,We can still make...... special memories......
 4001088060580,甜花,"大切な思い出、いっぱいだったら……
-すごい……いいなって、思うから……","If we have... a ton of special memories...... Then Tenka
-thinks... that's... really really good......"
+すごい……いいなって、思うから……","If we have... a ton of special memories...... 
+Then Tenka thinks... that's... really, really good......"
 4001088060590,甜花,"『今』……
 いっぱい、大切にしたいって……思った……！","Tenka thinks that... she wants to cherish... the
 ""now""......!"
 4001088060600,甜花,"えと……
-答え、なってた……？",Um...... does that... answer your question......?
+答え、なってた……？",Um...... Does that... answer your question......?
 4001088060610,雛菜,"あは～
 なってると思います～",Aha～ Hinana thinks it does～
 4001088060620,甜花,"そっか……
-よかった……",Got it... good......
+よかった……",Got it... Good......
 4001088060630,甜花,にへへ……,Nihehe......
 4001088060640,雛菜,…………,............
 info,game_event_communications/400108806.json,
