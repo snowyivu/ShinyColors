@@ -9,7 +9,7 @@ images/ui/awake_idol/parts_dialogs.json_image,awake_idol/parts_dialogs.png,1
 images/ui/awake_idol/parts_list.json_image,awake_idol/parts_list.png,1
 images/ui/common/parts_buttons.json_image,common/parts_buttons.png,83
 images/ui/common/parts.json_image,common/parts.png,48
-images/ui/common/parts_idol.json_image,common/parts_idol.png,12
+images/ui/common/parts_idol.json_image,common/parts_idol.png,13
 images/ui/common/parts_parallel_scene_layout.json_image,common/parts_parallel_scene_layout.png,1
 images/ui/common/parts_ranking.json_image,common/parts_ranking.png,4
 images/ui/my_page/parts.json_image,my_page/parts.png,48
@@ -28,7 +28,7 @@ images/ui/gasha/parts_free_center_gasha_button.json_image,gasha/parts_free_cente
 images/ui/skill_board/parts.json_image,skill_board.png,18
 images/ui/idol_list/parts.json_image,idol_list/parts.png,26
 images/ui/idol_detail/parts.json_image,idol_detail/parts.png,24
-images/ui/idol_detail/parts_support.json_image,idol_detail/parts_support.png,12
+images/ui/idol_detail/parts_support.json_image,idol_detail/parts_support.png,13
 images/ui/idol_detail/parts_fes.json_image,idol_detail/parts_fes.png,17
 images/ui/idol_detail/parts_trust.json_image,idol_detail/parts_trust.png,3
 images/ui/produce_common/parts_header.json_image,produce_common/parts_header.png,17
@@ -679,7 +679,7 @@ images/ui/music_select/parts.json_image,music_select.png,5
 base_got_date.png,base_got_date.png,3
 images/ui/twitter/parts.json_image,twitter_parts.png,6
 images/ui/profile/parts.json_image,profile_parts.png,5
-images/ui/title_setting/parts.json_image,title_setting_parts.png,10
+images/ui/title_setting/parts.json_image,title_setting_parts.png,11
 images/ui/gasha/parts_popup.json_image,gasha/parts_popup.png,11
 particles/training/images.json_image,training_images.png,8
 particles/training/images_super_success.json_image,training_super_success.png,3
@@ -1206,6 +1206,8 @@ images/content/characters/birthday_event_banner/008.png,birthday_event_banner/00
 images/content/characters/birthday_event_banner/009.png,birthday_event_banner/009.png,2
 images/content/characters/birthday_event_banner/011.png,birthday_event_banner/011.png,2
 images/content/characters/birthday_event_banner/013.png,birthday_event_banner/013.png,2
+images/content/characters/birthday_event_banner/014.png,birthday_event_banner/014.png,2
+images/content/characters/birthday_event_banner/015.png,birthday_event_banner/015.png,2
 images/content/characters/birthday_event_banner/016.png,birthday_event_banner/016.png,2
 images/content/characters/birthday_event_banner/018.png,birthday_event_banner/018.png,2
 images/content/characters/birthday_event_banner/019.png,birthday_event_banner/019.png,2
