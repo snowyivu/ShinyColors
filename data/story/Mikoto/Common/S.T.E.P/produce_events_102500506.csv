@@ -1,0 +1,72 @@
+id,name,text,trans
+1025005060010,美琴,朝……,It's morning......
+1025005060020,美琴,…………,......
+1025005060030,美琴,"ああ、そうだった
+今日は──","Ah, right.
+Today is—"
+1025005060040,美琴,…………うん,......Okay.
+1025005060050,美琴,いい天気,Good weather today.
+0000000000000,プロデューサー,ん？　誰かいるのか？,"Hm?
+Is there someone there?"
+1025005060060,美琴,"あ……おはよう
+プロデューサー","Ah......
+Good morning, Producer."
+0000000000000,プロデューサー,誰かと思ったら美琴か,"I was wondering who it was.
+So you're here, Mikoto."
+0000000000000,プロデューサー,"こんな朝早くにどうしたんだ？
+何か忘れ物でもしたのか？","What's going on so early in the morning?
+Forgot a belonging or something?"
+1025005060070,美琴,"ううん、忘れ物とか
+そういうのじゃなくて","Nope, I didn't forget anything.
+That's not why I'm here."
+1025005060080,美琴,レッスン室の鍵を借りようと思って,I was thinking of borrowing the lesson room's key.
+0000000000000,プロデューサー,ああ……そういうことか,Ah...... So that's why.
+1025005060090,美琴,"もしかして
+誰か使う予定がある？","Is anyone else planning to use it, by any chance?"
+0000000000000,プロデューサー,"いや……
+今日は特に予定は入ってないはずだ","None that I know of...
+There should be no one scheduled today in particular."
+1025005060100,美琴,"……そう
+よかった","......I see.
+Good to hear."
+0000000000000,プロデューサー,"もちろん、使ってもらうのは
+構わないけど……","Of course, I don't really mind letting you use the
+room, but......"
+0000000000000,プロデューサー,"俺としては、久しぶりのオフなんだから
+美琴にしっかり休んでほしいんだけどな","It's been a while since you've had a proper day off,
+so personally, I'd like you to take your time resting."
+1025005060110,美琴,"うん……でも休んでいるだけだと
+時間がもったいないし","I guess... Though, it'll be a waste of time to spend
+the entire day resting."
+1025005060120,美琴,"私は練習している時が
+一番落ち着くから","I feel the calmest during my practice time, after all."
+0000000000000,プロデューサー,はは……そう言うと思ったよ,"Haha...
+Yeah, I know you'd say that."
+0000000000000,プロデューサー,"ただ、美琴のプロデューサーとして
+心配だけはさせてくれ","Still, please let me worry about you
+as I'm your producer, Mikoto."
+1025005060130,美琴,"それは……うん
+プロデューサーの好きにしたらいいよ","That's......
+Okay. Just do as you please, Producer."
+0000000000000,プロデューサー,"おう！
+好きにさせてもらうからな","Right!
+I'll be letting myself, then!"
+0000000000000,プロデューサー,──っと、電話だ,"—Oh, a call."
+1025005060140,美琴,それじゃあ、私はもう行くね,"Well then, I'll be leaving now."
+0000000000000,プロデューサー,あ、待ってくれ、美琴！,"Ah, one more thing, Mikoto!"
+1025005060150,美琴,…………？,......?
+0000000000000,プロデューサー,後で差し入れ持ってくよ,I'll drop by to give you some refreshments later.
+1025005060160,美琴,……ありがとう、プロデューサー,"......Thanks, Producer."
+1025005060170,美琴,"卵を飛び出したヒナは成長し
+立派な鳥になった","The chick that escaped from the egg has grown
+brilliantly into a marvelous bird."
+1025005060180,美琴,"鳥は大きく育った翼を使って
+夢見た青空に飛び立つ","Spreading the mighty wings that it meticulously
+grown, the bird flies towards the azure sky that
+it dreamed about."
+1025005060190,美琴,自分が目指す場所に向けて,Heading toward the place it truly yearns to belong to.
+1025005060200,美琴,風を受けて,Letting the winds carry its wings—
+1025005060210,美琴,高く……高く……,Up and above......
+1025005060220,美琴,青空の、果てまで,...Beyond the blue sky.
+info,produce_events/102500506.json,
+Translator,pygoscelis,

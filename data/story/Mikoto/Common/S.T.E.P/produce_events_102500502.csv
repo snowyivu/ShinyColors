@@ -1,0 +1,80 @@
+id,name,text,trans
+1025005020010,美琴,"壁を隔てた先から
+何かが聞こえてきた",I heard something from beyond the walls.
+1025005020020,美琴,"それは歓声だったり、笑い声だったり
+歌声だったり──","Whether it was the sound of applause, laughter, or
+singing—"
+1025005020030,美琴,見えないけど、わかる,"I couldn't see anything, yet I could tell."
+1025005020040,美琴,"きっとこの壁の向こうには
+素晴らしい世界が広がっている","I'm sure that what lies beyond these walls,
+is a world brimming with wonder."
+1025005020050,美琴,──向こう側に行ってみたい,—I want to venture outside.
+1025005020060,美琴,"でも、私はいつまでも
+壁に取り囲まれたまま","Yet, I forever remain bound by these walls."
+1025005020070,美琴,"時間が経つにつれて
+声が聞こえなくなる",The voices only grew faint as time went by.
+1025005020080,美琴,"この狭くて真っ暗な世界に
+私はひとり取り残されている","I am left all alone in this confined, pitch black world."
+0000000000000,コメンテーター,"いやー、すごいね～
+斑鳩ルカ","Maaan, she's really a wonder!
+That Luca Ikaruga girl."
+1025005020090,美琴,ワン、ツー、スリー、フォ──っ,"One, two, three, four—"
+0000000000000,コメンテーター,なんていうか、カリスマ性？,"How do I even explain it?
+She just has the charisma?"
+0000000000000,コメンテーター,見てると引き込まれるよね,Even just looking at her just draws you in.
+1025005020100,美琴,はぁ……はぁ……はぁ……,Haah... Haah... Haah......
+0000000000000,コメンテーター,"最近はどんどん露出も増えてるし
+これ、ブレイクしちゃうんじゃない？","She's been getting more exposure lately too,
+so shouldn't she get her big break soon?"
+0000000000000,コメンテーター,"今度会ったら
+サイン頼んじゃおうかな、なんつって","Maybe I should ask for an autograph the next time
+I bump into her! Or not, haha!"
+1025005020110,美琴,……うん,......Yep.
+1025005020120,美琴,良い感じにできた,That felt right this time.
+1025005020130,美琴,"次はもう少し難易度を
+上げてみよう",Let's try slightly increasing the difficulty next.
+1025005020140,美琴,────！,———!
+0000000000000,マネージャー,────,—
+1025005020150,美琴,……？,......?
+1025005020160,美琴,（声……誰かと話をしている？）,(Voices... Is she talking with someone?)
+0000000000000,マネージャー,"ええ、わかっています
+そのためにも──","Yes, I am aware of that.
+That's exactly why—"
+1025005020170,美琴,…………,......
+1025005020180,美琴,（……電話が終わった後に入ろう）,(......I'll go in once she's done with her call.)
+0000000000000,マネージャー,"ちょっと待ってください！
+本気ですか！？","Please wait a minute!
+Are you serious about this?!"
+0000000000000,マネージャー,それは美琴がやりたいことでは──！,That's not what Mikoto wants to—!
+1025005020190,美琴,…………！,......!
+0000000000000,マネージャー,そ、それは、そうですが……,"Th...
+That is correct, but......"
+0000000000000,マネージャー,いえ……はい、その通りです……,"No...
+Yes, it's indeed what you say......"
+0000000000000,マネージャー,…………わかり、ました,I... got it......
+0000000000000,マネージャー,…………,......
+1025005020200,美琴,……マネージャー,......Manager.
+0000000000000,マネージャー,！？　み、美琴！？,"?!
+M-Mikoto?!"
+1025005020210,美琴,入ってもいい？,Can I come in now?
+0000000000000,マネージャー,"う、うん
+もちろん","Y-Yes...
+You may go in."
+0000000000000,マネージャー,お疲れ様、美琴,"Hello there, Mikoto."
+0000000000000,マネージャー,ちょっと早かったね,You're a bit early today.
+1025005020220,美琴,うん,Yep.
+1025005020230,美琴,何か大事な話をしていた？,Were you in the middle of an important call?
+0000000000000,マネージャー,"え！？
+き、聞こえてたの……？","Huh?!
+D-Did you overhear me just now...?"
+1025005020240,美琴,少しだけ,"A bit, yes."
+1025005020250,美琴,詳しくは聞こえていないから,"I didn't hear the details, though."
+0000000000000,マネージャー,そ、そう……,I-I see......
+0000000000000,マネージャー,…………,......
+1025005020260,美琴,……話があるんじゃないの？,......Don't you have something to tell me?
+0000000000000,マネージャー,う、うん……そうなんだよね,"A-Ah... Well, yes."
+0000000000000,マネージャー,"えっとね、美琴に伝えておかないと
+いけないことがあるんだ──","Um, you see... There's something that I really need
+to talk about with you, Mikoto—"
+info,produce_events/102500502.json,
+Translator,pygoscelis,

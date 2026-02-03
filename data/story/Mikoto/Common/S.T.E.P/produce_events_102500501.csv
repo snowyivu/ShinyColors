@@ -1,0 +1,70 @@
+id,name,text,trans
+1025005010010,off,"私が自分を自覚してから
+初めて見たのは黒だった","The first thing I saw upon gaining my consciousness,
+was absolute darkness."
+1025005010020,off,自分の姿さえ塗り潰すくらいの、黒,"A void so intense, enough to overshadow
+my own existence."
+1025005010030,off,"ここはどこで
+私は──何者なんだろうか","Unaware of where I am, or even what I am—"
+1025005010040,off,"何もわからないまま
+私は生まれた","I came into being, unaware of anything."
+1025005010050,美琴,……朝,......It's morning.
+1025005010060,美琴,今日のスケジュール────,My schedule for today......
+1025005010070,美琴,…………,......
+1025005010080,美琴,…………真っ白,...is blank.
+1025005010090,美琴,雨……,It's raining......
+1025005010100,美琴,傘……どこに置いたかな,"Where did I...
+Put my umbrella?"
+1025005010110,美琴,…………いいか,......Guess it's fine.
+0000000000000,スタッフ,おはようございます！,Good morning!
+1025005010120,美琴,あ……おはようございます,"Ah...
+Good morning."
+0000000000000,スタッフ,"早いですね
+今日も緋田さんが一番乗りですよ","Pretty early today! 
+You're the first on site as always, Aketa-san."
+1025005010130,美琴,あなたも早いね,You're pretty early too.
+0000000000000,スタッフ,"あはは
+私はこれが仕事ですからね","Ahaha!
+Well, I'm doing it for a living, after all."
+1025005010140,美琴,……そっか,...I see.
+0000000000000,スタッフ,あ、引き止めてしまってすみません！,"Oh, I'm sorry, I didn't mean to hold you up!"
+0000000000000,スタッフ,練習、頑張ってください！,Good luck on your practice!
+1025005010150,美琴,……うん,......Yeah.
+1025005010160,美琴,…………,......
+1025005010170,美琴,今のステップ……ぎこちなかった,"That step just now...
+Didn't feel right."
+1025005010180,美琴,もう一度──,"Again, from the top—"
+0000000000000,スタッフ,緋田さーん,Aketa-saaan.
+1025005010190,美琴,────……,———......
+0000000000000,スタッフ,"すみませーん
+そろそろレッスン室を閉めるお時間なので……","Excuse meee!
+It's almost time to close the lesson rooms......"
+1025005010200,美琴,──あ,......Oh.
+1025005010210,美琴,"ごめん
+気づいてなかった","Sorry.
+I lost track of time."
+0000000000000,スタッフ,すごく集中されてましたね,"Well, you were in deep focus."
+0000000000000,スタッフ,見惚れちゃうくらい素敵なダンスでしたよ！,"Your dance was so impressive that
+I almost couldn't take my eyes off you!"
+1025005010220,美琴,……ありがとう,......Thank you.
+1025005010230,美琴,"すぐに出るから
+少しだけ待っていてもらってもいい？","I'll be going out soon, so can you please wait a bit
+for me?"
+0000000000000,スタッフ,あ、ゆっくりで構いませんよ！,"Oh, no worries, take your time!"
+0000000000000,スタッフ,しっかりクールダウンしてください,Please make sure to cool down properly first.
+1025005010240,美琴,"……それじゃあ
+お言葉に甘えてさせてもらおうかな","......Okay then.
+I'll go your advice."
+0000000000000,マネージャー,"『ごめん、美琴
+差し込みでルカの仕事が決まったんだ』","Sorry, Mikoto. They just confirmed a job for Luca at
+the last minute."
+0000000000000,マネージャー,"『ルカ
+明日のレッスンに参加できなさそう』","""Luca might not be able to join your lesson
+tomorrow."""
+1025005010250,美琴,…………また,......Again.
+1025005010260,美琴,『了解』,"""Got it."""
+1025005010270,美琴,…………仕事,......Job.
+1025005010280,美琴,最後に仕事をしたのって──いつだっけ,"When was the last time...
+That I did a job?"
+info,produce_events/102500501.json,
+Translator,pygoscelis,

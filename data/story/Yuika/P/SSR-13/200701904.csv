@@ -1,0 +1,80 @@
+id,name,text,trans
+0000000000000,プロデューサー,"この天気なら
+ステージも予定通り行えそうだな","The weather's good, so the stage performance
+should be in the clear."
+2007019040010,結華,だね,Right.
+2007019040020,結華,"気温もそこまで低くないみたいだし……
+パフォーマンスにも影響はないと思う","The temperature doesn't seem too low either...
+It shouldn't affect my performance."
+0000000000000,プロデューサー,"ただ、日が落ちたら今より気温が下がるだろうからなぁ
+一応、カイロは用意してるが……","It'll get even colder after sunset, though...
+I have a hot pack for you just in case..."
+2007019040030,結華,"内ポケットに入れるにしても、
+音がするからあんまりねー……","I know I can put it inside and all, but it makes
+a crinkly sound, so I'd rather not..."
+2007019040040,結華,"衣装、かなりあったかいから
+大丈夫だと思うけど","The costume's pretty warm anyway,
+so I think I'll be fine."
+2007019040050,結華,"日が落ちたら
+また相談するかも","I'll see how it feels when it's dark.
+I might check in with you again."
+0000000000000,プロデューサー,ああ、わかった,Got it.
+2007019040060,結華,"じゃあ、時間まで
+裏で身体を動かしてくるね","Welp, until then, I'll be back there stretching
+my legs."
+2007019040070,結華,"一回冷えたら
+戻すの大変だろうし",It's hard to get going once you're cold.
+0000000000000,プロデューサー,"会場の様子をもう一度見たら
+俺もそっちに行くよ","I'll check how things look around here one
+more time, then I'll come back."
+2007019040080,結華,はーい,Kaaay.
+0000000000000,司会,"皆様、本日は雪まつりにご来場いただき
+ありがとうございます！","Good evening, everyone! Thank you all
+for coming to celebrate today's Snow Festival!"
+0000000000000,司会,"特別ステージ、最後のプログラムは……
+三峰結華さんによるミニライブです！","To close out our special stage...
+Yuika Mitsumine will be performing live!"
+2007019040090,結華,こんばんはー！,"Good evening, everyone!"
+2007019040100,結華,"雪まつり、楽しんでるー？
+残りの時間も、一緒に楽しもうね！","Are you having fun at the Snow Festival?
+Come on! Enjoy the rest of it with me!"
+0000000000000,司会,三峰さん、素敵なステージありがとうございましたー！,"Thank you for the wonderful performance,
+Mitsumine-san!"
+2007019040110,結華,こちらこそ、ありがとうございました！,Thank you for having me! It was fun!
+0000000000000,司会,"さぁ、この後は雪まつり最後のイベント、
+ランタン飛ばしを行います！","Last but not least, the Snow Festival has
+one final event... the lantern launch!"
+0000000000000,司会,"テントでランタンを配布していますので
+参加される方はそちらへ──……","Lanterns will be distributed at the tents
+over there. Please drop by if you want to
+participate."
+0000000000000,スタッフ,お疲れ様です！,Thanks for your hard work.
+0000000000000,スタッフ,この後、ランタン飛ばしも参加されるんでしたよね,"You will be joining us for the lantern release
+later, right?"
+0000000000000,スタッフ,"三峰さんの分のランタン、用意してますので
+こちらにどうぞ！","We have a lantern for you, Mitsumine-san.
+It's all yours!"
+2007019040120,結華,はいっ,Thanks!
+0000000000000,司会,皆様、お手元のランタンに火はついているでしょうか？,Has everyone lit up their lanterns?
+0000000000000,司会,"掛け声に合わせて、
+上に優しく投げてくださいね！","On the count to 1, please toss them gently
+to the sky!"
+0000000000000,司会,"それでは行きますよー！
+３、２、１──……","Is everybody ready?
+3... 2... 1──......"
+2007019040130,結華,わ……,Wow...
+2007019040140,結華,（綺麗……）,(Pretty......)
+2007019040150,結華,"（雪にランタンの光が反射してるのかな
+すごく明るく感じるかも）","(The light feels even brighter for some reason...
+Is it because it's reflecting off the snow?)"
+2007019040160,結華,"（その分、空がもっと暗く見えて……
+見上げたランタンたちの光が映えて──）","(The brighter it gets, the darker the sky feels...
+The lanterns stand out even more──)"
+2007019040170,結華,"（……ん？
+こういう光景、どこかで……）","(Hmm...?
+This scene... where have I seen this before...)"
+2007019040180,結華,…………,.........
+2007019040190,結華,あ、そっか,"Oh, right."
+2007019040200,結華,ちょっと、似てるのかも──……,"It's kinda similar, actually..."
+info,produce_events/200701904.json,
+Translator,Lewdacriz,

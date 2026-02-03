@@ -17,20 +17,22 @@ Is that so..."
 0000000000000,老婦,私もね、そこに行こうとしてるのよ,I'm on my way to the park too.
 4001083070032,めぐる＆透,……！,......!
 4001083070040,めぐる,そうなんですね！,"Oh, really!?"
-0000000000000,老婦,ええ、その公園で昔の知り合いと会う予定で……,Yes. I was planning to meet an old acquaintance over there...
+0000000000000,老婦,ええ、その公園で昔の知り合いと会う予定で……,"Yes. I was planning to meet an old acquaintance
+over there..."
 0000000000000,老婦,"と言っても……
 来てくれるかどうかはわからないんだけどね────","But...
 I don't know if that person will come..."
 4001083070041,めぐる＆透,…………,............
 0000000000000,老婦,"返事をもらっていないの
 電話で、会いたいと伝えただけ","I haven't even gotten a reply yet.
-All I did was to leave a message saying I wanted to meet up."
+All I did was to leave a message saying I wanted
+to meet up."
 0000000000000,老婦,"昔、その方と仲違いしてしまって
 それきり会っていなくてね────","We had a falling out a long time ago,
 and haven't seen each other since..."
 0000000000000,老婦,それ以来、誰かといるのが億劫になってしまったの,"Since then, I've grown weary of being around others."
 0000000000000,老婦,"だから──……ひとりで生きてきたわ
-ずっと、今の今まで……","That's why──...I've been living alone.
+ずっと、今の今まで……","That's why──... I've been living alone.
 All this time, up until now..."
 0000000000000,老婦,それでいいと思ってた,I thought that way of life was fine.
 0000000000000,老婦,"だって、ひとりは気楽だし、自由じゃない？
@@ -52,13 +54,14 @@ to see that person again while my body still allows."
 4001083070060,透,────……,────......
 4001083070070,透,そうですか,I see.
 0000000000000,老婦,"ふふ、ちゃんと約束もできていないのに
-会いに行くなんて、バカみたいよね","Heh, it's foolish to go see someone when no promises 
-were made."
+会いに行くなんて、バカみたいよね","Heh, it's foolish to go see someone when no
+promises were made."
 4001083070080,めぐる,わたしは素敵だなって思います……！,I think what you're doing is wonderful...!
 0000000000000,老婦,ありがとう────,Thank you────
 4001083070090,透,…………,............
 4001083070100,めぐる,"もしかしてなんだけど……
-おばあちゃんのこと、考えてたりする？",...Are you thinking about the old lady by any chance?
+おばあちゃんのこと、考えてたりする？","...Are you thinking about the old lady by any
+chance?"
 4001083070110,透,"え……
 あー","Eh...
 Ah..."
@@ -68,15 +71,17 @@ Ah..."
 意味","There must be a meaning to it, right?"
 4001083070150,めぐる,意味……,Meaning...
 4001083070160,めぐる,"おばあちゃんにとっての
-そのお友達と会う意味、ってこと……？","By meaning, do you mean a reason for her to meet 
-her friend...?"
+そのお友達と会う意味、ってこと……？","By meaning, do you mean a reason for her to
+meet her friend...?"
 4001083070170,透,や、なんていうか……,No. How should I put it...
-4001083070180,透,会えなくても、あるのかも,"Even if they don't, maybe there's still something."
+4001083070180,透,会えなくても、あるのかも,"Even if they don't meet, maybe there's still
+something."
 4001083070190,透,……ね,...Right?
 4001083070200,めぐる,"……うん
 そうだね……！","...Yeah.
 I agree...!"
-4001083070210,冬優子,──さて、バスチームがミッションをクリアしたようです,──Alright. It looks like the bus team has completed their mission.
+4001083070210,冬優子,──さて、バスチームがミッションをクリアしたようです,"──Alright. It looks like the bus team has
+completed their mission."
 4001083070220,冬優子,"ゴールまであと３停留所。ルーレットが『３』で止まれば、
 バスチームの勝利となります……！","They're three stops away from the finish line. 
 If the roulette lands on [3], victory is theirs...!"
@@ -86,9 +91,9 @@ If the roulette lands on [3], victory is theirs...!"
 4001083070250,凛世,『４』……,[4]...
 4001083070260,冬優子,ああっ、残念……！,"Aww, so close...!"
 4001083070270,冬優子,"ピッタリの数字で止まらないとゴールできないルールのため
-１停留所分、通り過ぎることになります","Since the rule says they can't reach the goal unless 
-they land on the exact number, they will have to 
-miss their stop."
+１停留所分、通り過ぎることになります","Since the rule says they can't reach the goal
+unless they land on the exact number, they
+will have to miss their stop."
 4001083070280,凛世,申し訳ございません……,I apologize for the trouble...
 4001083070290,霧子,ううん……,It's not your fault...
 4001083070300,霧子,"ぴったりの数字……
@@ -109,8 +114,9 @@ It's my turn next."
 I'm sorry, Nichika."
 4001083070360,にちか,いえいえ……,Don't be...
 4001083070370,咲耶,"でも、４駅進めるということは、ゴールまであとひと駅だ
-行こう、にちか","On the bright side, after those four stops, we're
-only one away from the goal. Let's go, Nichika."
+行こう、にちか","On the bright side, after those four stops,
+we're only one away from the goal. Let's go,
+Nichika."
 4001083070380,にちか,はい……！,Yes...!
 4001083070390,冬優子,"ゴールに近づいているチームがいるということなので、
 ここからは糸名公園からお送りします！","Since a team is approaching the goal soon, we'll be 
@@ -149,8 +155,9 @@ It's Toru-chan's turn! I'm counting on you!"
 ルーレットが『１』で止まらず苦戦中とのこと","The train team and the bus team are struggling 
 to hit [1] on the roulette."
 4001083070550,冬優子,"ということで、今回のルーレット旅の勝者は
-徒歩チームのめぐるちゃんと透ちゃん！","Therefore, the winners of this roulette journey are
-Meguru-chan and Toru-chan from the walking team!"
+徒歩チームのめぐるちゃんと透ちゃん！","Therefore, the winners of this roulette journey
+are Meguru-chan and Toru-chan from the
+walking team!"
 4001083070560,冬優子,おめでとうございます♡,Congratulations ♡
 4001083070561,めぐる＆透,ありがとうございます！,Thank you!
 4001083070570,冬優子,"徒歩チームには賞品として、
@@ -179,7 +186,7 @@ under the cherry blossoms"
 for her friend."
 4001083070660,off,"なんだっけ、これ
 見た────どっかで","Somehow, it feels like
-I saw this────somewhere."
+I already saw this────somewhere."
 4001083070670,霧子,"……
 透ちゃん……？","......
 Toru-chan...?"
@@ -191,8 +198,8 @@ Toru-chan...?"
 Wasn't it hard running the show by yourself?"
 4001083070720,冬優子,"みんなに比べたら全然だよ
 めぐるちゃんたち、ずっと歩きっぱなしだったでしょ？","It was nothing compared to everyone else.
-Meguru-chan and Toru-chan were walking 
-the whole time!"
+Meguru-chan and Toru-chan were walking the
+whole time!"
 4001083070730,めぐる,"それがね、すっごく楽しくて！
 まだまだ歩きたいくらい────","That was so much fun, though!
 I still want to keep walking────"
@@ -263,7 +270,7 @@ that whole time."
 時間が許す限り","I want to see you, I want to talk to you
 as long as time allows."
 4001083071020,にちか,"つながりとか──欲しくない、別に
-でも……","I don't wish for a connection──
+でも……","I don't particularly long for a connection──
 And yet..."
 4001083071030,凛世,わかりたくて……わからなくて……,I want to understand you... even though I don't...
 4001083071040,霧子,それでも……届けられたら……,Despite it all... if I could just reach you...

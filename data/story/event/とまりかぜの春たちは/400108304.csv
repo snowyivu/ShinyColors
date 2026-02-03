@@ -7,12 +7,13 @@ id,name,text,trans
 4001083040050,霧子,うん……,Yeah...
 4001083040060,凛世,お花見を……されている方も……,People are... having picnics too...
 4001083040070,冬優子,"バスチームが５つ先の停留所に到着したようです
-声をかけてみましょう","The bus team seems to have arrived at the fifth 
-stop ahead. Let's check in on them."
+声をかけてみましょう","The bus team seems to have arrived at the
+fifth stop ahead. Let's check in on them."
 4001083040080,冬優子,霧子ちゃん、凛世ちゃーん,"Kiriko-chan, Rinze-chan!"
 4001083040090,霧子,はーい……,Here...
 4001083040100,凛世,お疲れ様でございます……,Thank you for your hard work...
-4001083040110,冬優子,『桜、とっても綺麗だね』,"“The cherry blossoms are so beautiful, aren't they?”"
+4001083040110,冬優子,『桜、とっても綺麗だね』,"“The cherry blossoms are so beautiful, aren't
+they?”"
 4001083040120,凛世,"ちょうど……バス停の近くに……
 桜並木があり……","There's a row of cherry trees...
 Right near the bus stop..."
@@ -25,7 +26,8 @@ blossoms, I'll give you two a mission!"""
 4001083040150,冬優子,ミッションは────,The mission is────
 4001083040160,冬優子,『ガラケーを持っている人を見つける』です,"""Find someone with a flip phone""!"
 4001083040170,凛世,『ガラケー……』,"""A flip phone..."""
-4001083040180,冬優子,ちなみにガラケーは折り畳み式の携帯電話のことで……,"By the way, a flip phone is a foldable mobile phone..."
+4001083040180,冬優子,ちなみにガラケーは折り畳み式の携帯電話のことで……,"By the way, a flip phone is a foldable mobile
+phone..."
 4001083040190,冬優子,"停留所の近くで持っている人を見つけられたら
 ミッションクリアです","The mission is accomplished when you can find 
 someone with one near the bus stop."
@@ -40,24 +42,26 @@ Please excuse us for interrupting..."
 4001083040230,霧子,見つからないね……,It's difficult to find one...
 4001083040240,凛世,"はい……
 これで……もう10人目……","Yes...
-This makes...the tenth person..."
+This makes... the tenth person..."
 0000000000000,花見客２,"あ、ねえねえ
 ガラケー持ってる人探してるって聞いたんだけど","Oh, hey.
-I heard you're looking for someone with a flip phone?"
+I heard you're looking for someone with
+a flip phone?"
 4001083040241,霧子＆凛世,……,......
 4001083040250,凛世,はい……,Yes...
 0000000000000,花見客２,"俺は持ってないんだけど、
 知り合いで持ってる人知ってて……","I don't have one, but I know someone who does..."
 4001083040260,凛世,……！,...!
-4001083040270,凛世,そのお方は……このあたりに……？,Is that person...around here...?
+4001083040270,凛世,そのお方は……このあたりに……？,Is that person... around here...?
 0000000000000,花見客２,"近くの喫茶店で働いてるよ
 よかったらお店教えるけど","She works at a nearby cafe.
 I can tell you the name if you'd like."
 4001083040280,凛世,ぜひ……お教えいただきたく……,We really appreciate it...
-4001083040290,霧子,お店……ここかな……,The cafe...is here...?
+4001083040290,霧子,お店……ここかな……,The cafe... is here...?
 4001083040300,凛世,はい……,Yes...
 4001083040310,凛世,"撮影許可をいただき……
-ありがとうございます……",Thank you... for giving us permission to film in here...
+ありがとうございます……","Thank you... for giving us permission to film
+in here..."
 0000000000000,女性店員,いえ……,No problem...
 4001083040320,霧子,"わたしたち……ガラケーを持ってる人を……
 探してて……",We're looking for someone... who has a flip phone...
@@ -74,7 +78,8 @@ It's all scratched up, however. I'm embarrassed..."
 何かご理由が……？",Is there a reason... for you to own a flip phone...?
 0000000000000,女性店員,……思い出の携帯なので,...It holds fond memories for me.
 0000000000000,女性店員,"以前お付き合いしていた彼と買った
-おそろいのガラケーなんです",It's a matching flip phone I bought with my ex-boyfriend.
+おそろいのガラケーなんです","It's a matching flip phone I bought with my
+ex-boyfriend."
 0000000000000,女性店員,"すごく……特別な思い出なんです
 だから、なかなか手放せなくて","It's a very... special memory for me.
 So, I can't let it go."
@@ -94,7 +99,8 @@ He asked if we could meet up."
 0000000000000,女性店員,"会いたい気持ちがないわけではないんですけど
 会えないままでいたいって思って……","It's not that I don't want to see him.
 I just think it's better if we don't see each other..."
-0000000000000,女性店員,いい思い出のままにしておきたかったっていうか……,Maybe somewhere in me wanted to keep things as they are...
+0000000000000,女性店員,いい思い出のままにしておきたかったっていうか……,"Maybe somewhere in me wanted to keep things as
+they are..."
 0000000000000,女性店員,"彼とのことは、綺麗な思い出のまま残しておきたかった
 今会ってしまったら、きっと……","I wanted to keep my memories of him as beautiful
 as they were. If I saw him now..."
@@ -112,7 +118,7 @@ You've made your decision..."
 0000000000000,女性店員,──はい……,──Yes...
 4001083040460,凛世,"だから……
 このガラケーを……手放さずに……────","So...
-It's okay not to let go of this flip phone...────"
+You're not letting go of this flip phone...────"
 0000000000000,女性店員,どちらが正しいのか、わかりませんけど────,I don't know what is the right thing to do────
 4001083040470,霧子,"──時間が経てば……
 もしかしたら……","──When time has passed...
@@ -127,11 +133,11 @@ cherish it────"
 ミッションに挑戦してもらいます","The walking team has successfully completed 
 the 4km walk, so they will take on a mission next."
 4001083040520,冬優子,ミッションは────,The mission is────
-4001083040530,冬優子,『誰にもバレずに商店街を歩く』です,"""Walk through the shopping district without being 
-recognized."""
+4001083040530,冬優子,『誰にもバレずに商店街を歩く』です,"""Walk through the shopping district without
+being recognized."""
 4001083040540,めぐる,誰にもバレずに……！,Without being recognized...!
 4001083040550,冬優子,"『めぐるちゃんと透ちゃんだって気づかれずに
-商店街を歩き抜けられたらクリアなんだけど』","'The mission is completed if Meguru-chan and 
+商店街を歩き抜けられたらクリアなんだけど』","""The mission is completed if Meguru-chan and 
 Toru-chan can walk through the shopping district 
 without anyone recognizing them."""
 4001083040560,冬優子,"『変装はNGだそうです……！
@@ -139,9 +145,9 @@ without anyone recognizing them."""
 Please walk as you are...!"""
 4001083040570,透,あー……,Ah...
 4001083040580,冬優子,"『ただし、ひとりが見つかっちゃっても、
-もうひとりが気づかれなければクリア！』","""When either of you gets discovered, as long as 
-the other one stays undercover, you can still clear 
-the mission!"""
+もうひとりが気づかれなければクリア！』","""When either of you gets discovered, as long
+as the other one stays undercover, you can
+still clear the mission!"""
 4001083040590,透,あー……,Ah...
 4001083040600,透,余裕でしょ、じゃあ,"That's easy, then."
 4001083040610,冬優子,"『声バレとかもありそうだから、
@@ -176,7 +182,7 @@ You're Meguru Hachimiya, right?"
 0000000000000,男子学生１,"やっぱり……！
 うわ、すげー！","I thought so...!
 This is crazy!"
-0000000000000,男子学生２,あの、握手とかって────,"Um, can I ask for a handshake──"
+0000000000000,男子学生２,あの、握手とかって────,"Um, may I ask for a handshake──"
 4001083040730,透,オッケー、オッケー,"Okay, okay."
 0000000000000,女子高生１,"なんかめっちゃ可愛い子歩いてんだけど
 え、めっちゃ可愛くない？","A really cute girl just walked by.
@@ -222,8 +228,9 @@ Good job, Toru-chan."
 お疲れさまー！","Producer!
 Thank you!"
 0000000000000,プロデューサー,"モニターから見てたよ
-商店街のミッション、なんとかクリアできてよかったな","I was watching from the monitor. I'm so glad you two 
-managed to complete the shopping district mission."
+商店街のミッション、なんとかクリアできてよかったな","I was watching from the monitor. I'm so glad you
+two managed to complete the shopping district
+mission."
 4001083040860,めぐる,"うん！　ふたりともバレちゃった時は
 どうしようかと思ったよー……！","Yeah! When we both got found out, I was so lost 
 on what to do...!"

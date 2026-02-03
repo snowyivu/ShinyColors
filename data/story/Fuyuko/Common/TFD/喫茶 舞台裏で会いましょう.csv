@@ -1,0 +1,68 @@
+id,name,text,trans
+0000000000000,プロデューサー,"お疲れ様、冬優子
+今日も頑張ったな","Good work, Fuyuko.
+You worked hard again today."
+1018002020010,冬優子,"トーゼン
+あさひと愛依もいないし、楽勝だったわ","Of course. Since Asahi and Mei weren't there, 
+it was a piece of cake!"
+1018002020020,冬優子,"あいつらがいないとこんなにスムーズなのね
+──ねえ、あいつら要るの？","Without them around, everything goes so smoothly.
+──Hey, do we even need them?"
+0000000000000,プロデューサー,"はは……
+今日はこれで終わりだから、一旦事務所に帰るか","Haha...
+That's it for today, so I'll head back to office now."
+1018002020030,冬優子,はいはい、じゃあ駐車場に……,"Alright, to the parking lot then..."
+0000000000000,プロデューサー,"──……ああ、そうだ
+冬優子、缶コーヒーは飲めるか？","...Ah, right.
+Fuyuko, do you drink canned coffee?"
+1018002020040,冬優子,"？
+え、大丈夫だけど……","Huh? 
+It's fine, but..."
+0000000000000,プロデューサー,"そうか
+ちょっと待っててくれ","Okay.
+Hold on a moment."
+0000000000000,プロデューサー,──はい,──Okay.
+1018002020050,冬優子,……急にどうしたの？,...What's gotten into you?
+0000000000000,プロデューサー,別に何ってわけじゃないんだが……,Nothing really...
+0000000000000,プロデューサー,いつかの……いや、いつものお礼だ,"Since the other day... 
+Actually, this is my usual thanks."
+0000000000000,プロデューサー,いつも、ありがとな,"Thanks, as always."
+1018002020060,冬優子,────…………,────............
+1018002020070,冬優子,…………,............
+1018002020080,冬優子,──っあはは、あんた何言ってんの？,"──Ahaha, what are you talking about?"
+0000000000000,プロデューサー,え？,Huh?
+1018002020090,冬優子,"コーヒーに罪はないし
+これはこれで、もらってあげるけど……","Coffee isn't to blame,
+and I'll accept this one, but..."
+1018002020100,冬優子,"いつも健気に頑張るふゆへのお礼を、
+まさか自販機の缶コーヒーで済ますつもりじゃないわよね？","Fuyu always works so hard. Surely, you don't think
+you can repay that with just a can of coffee from
+the vending machine, do you?"
+0000000000000,プロデューサー,そ、それは……,W-Well......
+1018002020110,冬優子,"いい豆使って、ふゆのことを心から想いながら淹れて……
+それくらい、トーゼンじゃない？","Brewing coffee using good beans while thinking
+of Fuyu with your whole heart...
+Isn't that the obvious thing to do?"
+1018002020120,冬優子,"あ、コーヒーには甘いものも必要よね
+ふゆ、駅前にできたケーキ屋さんのケーキ食べたいな～","Ah, coffee needs something sweet to pair with it, 
+too, right? Fuyu really wants to try cakes from 
+that new cake shop in front of the station～"
+0000000000000,プロデューサー,駅前って……,The station...
+0000000000000,プロデューサー,"あっ！
+あの、毎朝行列になってるとこのか！？","Ah!
+Is it that new place that has a queue every morning!?"
+1018002020130,冬優子,"いつものお礼、なんて言って
+ふゆを労うなら、そのくらい当然よねぇ？","Since you wanted to give your ""usual thanks"" and 
+show your appreciation for Fuyu, then this is
+the least you could do, right?"
+1018002020140,冬優子,"あ、ふゆはシブーストと、
+１日限定５個のフルーツタルトね","Ah, Fuyu wants the Chiboust cream puffs, and the
+fruit tarts that are limited to only 5 sold per day."
+0000000000000,プロデューサー,…………まったく、仕方ないな,"......Well, I suppose it can't be helped."
+1018002020150,冬優子,……ふふっ,......Hehe.
+1018002020160,冬優子,"ふゆのことを想いながら丁寧に淹れたいいコーヒーと、
+美味しいケーキでのんびり過ごす時間……","A good cup of coffee, carefully brewed while thinking
+of Fuyu, and a relaxing time with delicious pastries..."
+1018002020170,冬優子,楽しみにしてますね、プロデューサーさん♡,"Fuyu is looking forward to it, Producer-san ♡"
+info,produce_events/101800202.json,
+Translator,Hitomi,

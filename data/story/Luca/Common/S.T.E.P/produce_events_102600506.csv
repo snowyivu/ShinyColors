@@ -1,0 +1,58 @@
+id,name,text,trans
+1026005060010,ルカ,…………──────,......—————
+1026005060020,ルカ,…………ママは,"Tell me, Mama......"
+1026005060030,ルカ,……アイドルやってて、楽しかった？,......Was being an idol fun for you?
+0000000000000,ルカの母,え……,Huh...?
+0000000000000,ルカの母,……………………,............
+0000000000000,ルカの母,そう、聞くってことは,"If you're asking me that, then..."
+0000000000000,ルカの母,──楽しいだけじゃないって、思ってる？,———You think that it's not all fun?
+1026005060040,ルカ,…………,............
+1026005060050,ルカ,"……わからない
+けど","......I'm not really sure, but..."
+1026005060060,ルカ,"少なくとも
+きらきらしてるだけじゃないってことはわかった","At the very least, I've realized that it's not all
+sunshine and rainbows."
+0000000000000,ルカの母,…………,............
+0000000000000,ルカの母,"ママもね
+……──楽しかったかは……わからない","...You see—
+I'm also not that sure either if it was actually fun."
+0000000000000,ルカの母,……本当は、アイドルになんかなりたくなかったの,"—Truth is, I didn't even want to be an idol in the
+first place."
+1026005060070,ルカ,……！,......Huh?!
+0000000000000,ルカの母,ママはね、本当は女優になりたくて──……,...My real dream was to become an actress.
+0000000000000,ルカの母,いつか女優になるために、アイドルをやっていた,"—I worked as an idol, so that one day, I could become
+an actress."
+0000000000000,ルカの母,"名前を売ることが近道だってわかってた
+でも、私には耐えられなかった……！","I knew that it was the fastest way to spread my
+name, but I just couldn't bear it......!"
+1026005060080,ルカ,……,......
+1026005060090,ルカ,…………知らなかった,I had no idea......
+0000000000000,ルカの母,"……
+話すことなんてないんだろうと思ってた",......I never thought that I'd have to tell it to you.
+1026005060100,ルカ,え……？,Huh...?
+0000000000000,ルカの母,"──だって、あなたは憧れてたでしょう
+アイドルに","—After all, you adore idols so much, don't you?"
+1026005060110,ルカ,──……じゃあ、なんで今,——Then why tell me now...?
+0000000000000,ルカの母,"…………
+大丈夫だと思って","......
+Because I figured that you'll be alright."
+1026005060120,ルカ,──,...?
+0000000000000,ルカの母,あなたは、私と違って──……,"...After all, you're different from me——"
+0000000000000,ルカの母,ひとりじゃないから,—Because you're not alone.
+0000000000000,プロデューサー,"『来週の仕事の件で問い合わせが来てるんだ
+急ぎで悪いんだけど、気づいたら返信もらえるか』","""I just got an update about that job of yours for
+next week. Sorry if it's short notice, but if you've
+read this, please reply back."""
+0000000000000,プロデューサー,『内容は』────,"""It's about————"""
+1026005060130,ルカ,……──,……──
+0000000000000,プロデューサー,『っもしもし、ルカ……！？』,"""Wh... Hello, Luca, is that you......?!?"""
+1026005060140,ルカ,……何驚いてんだよ,......What are you scared shitless for?
+0000000000000,プロデューサー,『いや、電話してくれるとは思ってなくて──』,"""No, I, just never imagined that you'd give me a call—"""
+1026005060150,ルカ,"急ぎなんだろ
+……今、別に空いてたから","It's an urgent matter, right? I just happened to be...
+Available, right now."
+0000000000000,プロデューサー,"『そうか、ありがとう……！
+じゃあ、話、させてもらうな────』","""Oh, I see! Thanks...!
+Okay then, I'll skip to the details———"""
+info,produce_events/102600506.json,
+Translator,pygoscelis,

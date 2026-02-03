@@ -1,0 +1,77 @@
+id,name,text,trans
+1025005040010,美琴,窮屈だ,I'm confined here.
+1025005040020,美琴,"時間が経つにつれて
+身体はどんどん大きくなっていく",My physical body only grows in size as time went by.
+1025005040030,美琴,"このままだと自分に
+押し潰されてしまいそうだ","At this pace, I'll end up getting crushed by my own
+self."
+1025005040040,美琴,私はひとりで消えてしまうのだろうか,Will I just end up disappearing here all alone?
+1025005040050,美琴,"青空も、風の感触も
+草の匂いも知らずに……","Oblivious to the blue sky, the breeze of the wind,
+and the scent of grass?"
+1025005040060,美琴,そんなことは耐えられない,That is unbearable for me.
+1025005040070,美琴,"壁が壊れないのなら
+自分で壊すしかない","If these walls won't break,
+then I just have to tear them down myself."
+1025005040080,美琴,"ほとんど身動きがとれない身体で
+頭を動かす",I move the head of my barely functioning body.
+1025005040090,美琴,必死に叩き続ける,I desperately kept striking away.
+1025005040100,美琴,"けれど、私がどれだけ頑張っても
+壁は崩れない","Yet, no matter how much I try,
+the walls still won't break down."
+1025005040110,美琴,……時間、作ってくれてありがとう,......Thanks for giving me your time.
+0000000000000,マネージャー,"ううん
+それは全然構わないよ","No worries.
+I don't mind at all."
+0000000000000,マネージャー,それで、話って……,"So, what do you want to talk about...?"
+0000000000000,マネージャー,"こないだの──
+トレーナーの件について？","Is this about our talk the other day about becoming
+a trainer?"
+1025005040120,美琴,……ううん,......No.
+1025005040130,美琴,私、事務所を辞めようと思っているの,I'm thinking of quitting this agency.
+0000000000000,マネージャー,…………え？,......What?
+0000000000000,マネージャー,辞める……？,You're... quitting?
+1025005040140,美琴,うん,Yep.
+1025005040150,美琴,"大事なことだから、まずは
+マネージャーに伝えようと思って","This is an important matter, so I figured that
+I should discuss it with you first, Manager."
+0000000000000,マネージャー,……ち、ちょっと待って！,......H-Hold on a second!
+1025005040160,美琴,……？,......?
+0000000000000,マネージャー,"いきなりそんな……
+辞めるなんて……","Saying you're quitting......
+Out of the blue like that is just......"
+1025005040170,美琴,急だとは思う,I know that it's sudden.
+1025005040180,美琴,それはごめんなさい,And I'm sorry for that.
+1025005040190,美琴,でも、決めたことだから,But I've already made up my mind on it.
+0000000000000,マネージャー,……ルカとのユニットは……？,What about your unit with Luca......?
+1025005040200,美琴,……活動の再開は未定でしょう？,"......Our comeback date is undecided, yes?"
+1025005040210,美琴,"だったら
+解散しても問題はないんじゃないかな","If so, then I don't think there will be any problems
+even if we disband."
+0000000000000,マネージャー,"……で、でも
+ルカは────","......B-But, Luca will—"
+1025005040220,美琴,ルカは、大丈夫だと思う,I think that Luca... will be just fine.
+0000000000000,マネージャー,え？,Huh?
+1025005040230,美琴,"私がいなくても
+ルカはひとりで活動できているし","Even without me, Luca's been working well on
+her own, so."
+0000000000000,マネージャー,それ、は……,"Well, that's......"
+1025005040240,美琴,──だけど、私は,"Me, on the other hand—"
+1025005040250,美琴,"ここにいたままだと
+きっと、どこにも行けなくなるから","If I continue to stay here, then for sure,
+I'll just end up going nowhere."
+0000000000000,マネージャー,──……,——......
+1025005040260,美琴,……話はこれで終わり,......That's all I wanted to say.
+0000000000000,マネージャー,…………美琴の考えは、変わらない？,"......You're absolutely serious about this, Mikoto?"
+1025005040270,美琴,うん,Yep.
+0000000000000,マネージャー,……………………そっか,.........I see.
+1025005040280,美琴,手間をかけさせてごめんなさい,I'm really sorry for causing trouble for you.
+1025005040290,美琴,それじゃあ、よろしくお願いします,"And, thank you for putting me in your care until now."
+0000000000000,マネージャー,"…………アイドルにしてあげられなくて
+ごめんね、美琴","I'm really sorry that I couldn't make you into an idol,
+Mikoto......"
+1025005040300,美琴,……そうだ,"......Ah, right."
+1025005040310,美琴,『ユニット解散するから』,"""Our unit will be disbanding."""
+1025005040320,美琴,……これでいい,......This will do.
+info,produce_events/102500504.json,
+Translator,pygoscelis,

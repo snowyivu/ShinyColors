@@ -1,0 +1,140 @@
+id,name,text,trans
+0000000000000,プロデューサー,（必要な物は買えたし、そろそろ帰るかな……）,"(Okay, that should be everything I need...
+Time to head back.)"
+0000000000000,プロデューサー,……あれ、結華？,Huh? Yuika?
+2007019010010,結華,ん？,Hmm?
+2007019010020,結華,"あ、Ｐたん
+お疲れ様ー","Oh, it's P-tan!
+Yoohoo!"
+0000000000000,プロデューサー,"お疲れ様
+買い物か？","Hi, Yuika.
+Out shopping?"
+2007019010030,結華,"そんなとこ
+Ｐたんも？","More or less.
+You too, P-tan?"
+0000000000000,プロデューサー,"ああ
+今日は俺も休みだから、日用品をな","Yeah. I had to buy some necessities
+since I'm off today."
+0000000000000,プロデューサー,"年末セールの文字に惹かれて
+ちょっと買いすぎたけど……","I was drawn to the year-end sales...
+Maybe I bought a little too much..."
+2007019010040,結華,"わかる
+チャンスだーって余分に買い込んじゃうんだよねぇ","I get you. I always have to buy extra
+when there's a chance."
+0000000000000,プロデューサー,"買うつもりはなかった物も
+買っちゃうからなぁ……","I did end up buying a lot of things
+that I never meant to, though..."
+0000000000000,プロデューサー,"あ、そうだ。さっき向こうの通りのCDショップで
+アンティーカのPOPが出てたよ","Oh, right! I passed by a CD shop around here,
+and they had L'Antica pop-up stands on display."
+2007019010050,結華,"えっ
+さっき近くに行ったのに見逃した……！","Wha?
+I was there earlier! I must've missed it...!"
+0000000000000,プロデューサー,あとで撮ってきた写真を送るよ,I took a picture of it. I'll send it to you later!
+2007019010060,結華,やった、ありがと！,"Woohoo, thanks!"
+2007019010070,結華,"そうだ
+お礼ってほどじゃないけど……","Oh, yeah.
+This may not be much of a 'thank you,' but..."
+2007019010080,結華,Ｐたん、こういうの読む？,"Do you read this kind of thing, P-tan?"
+0000000000000,プロデューサー,……旅行誌？,...A travel magazine?
+2007019010090,結華,"そうそう
+今度、お仕事で雪まつりに行くでしょ？","Yup, yup. We have work to do for the
+upcoming Snow Festival, right?"
+2007019010100,結華,"さっき、本屋さんに寄ったら
+旅行誌のコーナーで開催地域のを見つけてさ","I stopped by the travel section in the bookstore,
+and I found one where it's being held."
+2007019010110,結華,回し読みになっちゃうけど、興味あればどうかなって,"We'd be sharing it, anyway, but I figured you
+might still be interested."
+0000000000000,プロデューサー,"おお、いいな
+それなら、休み明けに借りさせてもらえたら","Ooh, I am.
+I'll borrow it next time I'm on-duty."
+2007019010120,結華,おっけー,Okay!
+0000000000000,プロデューサー,それにしても、勉強熱心だな……,"I gotta say.
+It's great that you're always so studious."
+2007019010130,結華,そう？,Really?
+2007019010140,結華,"雪まつりのステージ出演がメインだけど
+握手会やトークショーもあるから","I know the big thing is my stage performance
+and all, but there's still the handshake event
+and the talk show too."
+2007019010150,結華,"来てくれたお客さんとお話をする
+きっかけになればいいな、とは思ってるけど","So I thought it'd be good if I can talk with
+the people about local things."
+2007019010160,結華,実のところ──,To tell you the truth──
+2007019010170,結華,"表紙の『最新のお土産』とか
+『おすすめスポット』のコピーに惹かれてさ","I was drawn to it because the cover mentions
+the latest souvenirs and recommended spots."
+2007019010180,結華,"つい手に取っちゃったのも
+半分ある",That's half the reason why I picked it up.
+0000000000000,プロデューサー,ははっ、なるほどな,"Hahaha, so that's why..."
+0000000000000,プロデューサー,"でもわかるよ。こういう本の表紙って
+わくわくしてつい開いちゃうんだよなぁ","But I get it, though. Covers like this get you
+excited, so you end up opening it."
+2007019010190,結華,"眺めるだけでも
+旅行気分になれて楽しいよねー","This travel mag's a page-turner anyway!
+I feel like I'm traveling flipping through."
+0000000000000,プロデューサー,"そうそう、その雪まつりのときの話なんだが
+自由時間もそれなりにあるから","Speaking of the Snow Festival, we actually have
+some downtime when we're there."
+0000000000000,プロデューサー,"空いた時間に見に行きたい場所があれば
+考えておいてくれ","You should think about the places you want
+to go."
+2007019010200,結華,いいの？,You sure?
+0000000000000,プロデューサー,"もちろん
+移動できる範囲にはなるけどな","Of course.
+Within the area, of course."
+2007019010210,結華,ありがとう！,"Aw, thanks!"
+2007019010220,結華,"じゃあ、みんなに
+お土産候補を聞いておこうかな……","Cool, I should ask the girls what souvenirs
+they'd like..."
+0000000000000,プロデューサー,雪まつり限定の物もあるんだったか,"There should be stuff sold exclusively at
+the Snow Festival."
+2007019010230,結華,"サイトに載ってたやつだよね
+せっかくだからその中の物もいくつか選ぼうかなー……","Yeah, it's all on their website. Maybe I should
+pick some of those up after all..."
+select,,雪といえば……,"Speaking
+of which..."
+select,,結華が個人的に……,So Yuika...
+select,,"寒さ対策して
+いかないとな","We'll need to
+prepare for the cold"
+0000000000000,プロデューサー,結華にとっては見慣れてる景色、になるのか？,"Heavy snow shouldn't be anything new to you,
+huh?"
+2007019010240,結華,"え？
+……あ、そっか、そういうこと","Eh?
+...Oh, oh right. Yeah, that's fair."
+2007019010250,結華,"確かに地元も、それなりに降るし積もるから
+見慣れてるって言ってもいいかも？","It does snow a lot back at my hometown,
+so maybe it's fair to say it's not new to me?"
+2007019010260,結華,"でも、こっちに来てからは
+あの量の雪を見る機会減ってるし","But I haven't seen it all that much since
+I've been here."
+2007019010270,結華,いざ見たら、新鮮な気持ちになるかもね,So maybe this will be a fresh change.
+0000000000000,プロデューサー,気になる観光スポットとか、欲しい物はあるのか？,"Any spots you're curious about?
+Anything you want to pick up?"
+2007019010280,結華,"うーん、まだ旅行誌もパラ見しかしてないから
+これ！　って言い切れるのはないかも","Uhhh, I only skimmed through it to be honest.
+So I can't say exactly!"
+2007019010290,結華,"けど、表紙のこのお菓子は気になるから
+あとで再チェックするつもり","But I AM wondering about the snack that's
+on the cover. I'll find the page for it later."
+0000000000000,プロデューサー,"なら、あとで付箋をつけといてもらえたら
+俺も確認しておくよ","Can you bookmark it with a sticky note?
+So I can check it out too."
+2007019010300,結華,おっけー,Okaaay~
+2007019010310,結華,"うん
+こっちよりは確実に寒いだろうしね","You right.
+Definitely a lot colder there than here."
+0000000000000,プロデューサー,"あと、靴も気にした方がいい……
+よな？","We'll have to consider the type of shoes
+to wear, won't we?"
+2007019010320,結華,"あー、それこそ、革靴は厳しいかもね
+怪我しそう……","Ooo yeah, I was thinking that leather boots
+are no good. Our feet will hurt..."
+0000000000000,プロデューサー,"だよなぁ
+歩きやすい靴と、防水スプレーも用意しておくか……","You're right. I should buy some comfy walking
+shoes with some waterproof spray..."
+2007019010330,結華,"あはは
+買い物、まだまだ増えそうだね","Ahaha, looks like we're not done with
+shopping just yet."
+info,produce_events/200701901.json,
+Translator,Lewdacriz,

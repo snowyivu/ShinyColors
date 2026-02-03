@@ -1,0 +1,95 @@
+id,name,text,trans
+1026005020010,ルカ,"ねぇママ
+なんでアイドルやめちゃったの？","Hey, Mama.
+Why'd you stop being an idol?"
+0000000000000,ルカの母,──、……,———......
+0000000000000,ルカの母,"……
+そうね……────","......Well, you see——"
+1026005020020,off,……答えは覚えていない,......I don't even remember her answer.
+1026005020030,off,"だって……ママ
+私でもわかる嘘をついてた","Because Mama...
+Told a lie that even young me could see through."
+1026005020040,off,いつ聞いても,She did every single time she was asked.
+0000000000000,テレビの音声,"『ti ta ta tik tik shake!
+pa dun du da────, ah』","""ti ta ta tik tik shake! 
+pa dun du da────, ah"""
+1026005020050,ルカ,"──っ
+やっぱり、どれでもきらきら……！","—Whoooa!
+I knew it! She looks sparkly everywhere!"
+1026005020060,ルカ,もう一回……っ,Replay......!
+0000000000000,テレビの音声,"『ti ta ta tik tik shake!
+pa dun du da────, ah』","""ti ta ta tik tik shake! 
+pa dun du da────, ah"""
+1026005020070,ルカ,……────！,......——!
+1026005020080,off,きらきらで、お姫様みたいなママ,"My precious Mama, who looked like a dazzling princess."
+1026005020090,off,なんでアイドルじゃなくなったんだろう,Why did she stopped being an idol?
+0000000000000,ルカの母,──、──……,"——...
+——..."
+1026005020100,ルカ,ただい──,I'm hooo...
+0000000000000,ルカの母,いえ……ですから──,"No...
+Like what I said—"
+1026005020110,ルカ,まー……,...me......
+0000000000000,ルカの母,"……もう、人前に出るお仕事は考えていないんです
+カメラの前に戻るつもりはありません","I'm done with jobs that put me in front of the public...
+I have no plans to appear on camera ever again."
+1026005020120,ルカ,……！,......!
+0000000000000,ルカの母,"……ご容赦いただけませんか
+今の生活を壊したくなくて──","Can you please cut this out already...?
+I don't want my current life to fall apart—"
+0000000000000,ルカの母,"……まだ、八雲なみを望んでいただけることは
+ありがたく思っています","I am grateful that you still wish to see Nami Yakumo
+again, however..."
+0000000000000,ルカの母,"ですが──……
+終わったことなんです","She's just——
+no longer here anymore."
+0000000000000,ルカの母,──お願いです、帰ってください……！,"So please, I'm begging you...
+Leave us alone...!"
+1026005020130,ルカ,（……──ママ……困ってる……？）,(Mama's... in trouble...?)
+0000000000000,ルカの母,──────帰って…………！,"Please...
+Just leave......!"
+0000000000000,ルカの母,もう……放っておいて………………！,Just stop... bothering us already......!!
+1026005020140,ルカ,……っ……！,......!
+1026005020150,off,"ひんやりして　ね　ぴったりじゃない
+今夜　わたしを　つれていく靴","""It's cold, right? / Isn't it perfect / Tonight, these
+ shoes / That carry me along"" (A sparkly world where
+you can be a princess. Dazzling world made for Mama.)"
+1026005020160,off,"そうだよ　赤いじゅうたん駆けて
+そうだよ　月までだって行けるわ","""That's right / I'll run on the red carpet / That's right
+ / I can go to the moon"" (Mama could've stayed forever
+there, and yet, she ended up despising it.)"
+0000000000000,プレーヤーから漏れる音,"『ti ta ta tik tik shake!
+pa dun du da────, ah』","""ti ta ta tik tik shake! 
+pa dun du da────, ah"""
+1026005020170,ルカ,──っ、……っ……,—sob... sniff......
+1026005020180,ルカ,"（──きらきらだけど、きらきらじゃないんだ……
+だってママはあんなにいやがってた……！）","(She looked so sparkly, but it wasn't sparkly at all...!
+'Cause Mama hates it so much...!)"
+1026005020190,ルカ,……──ママがかわいそう……！,...My poor Mama—!
+1026005020200,ルカ,"……守らなきゃ
+ママは、わたしが────","I have to protect her...
+I'll protect Mama—!"
+1026005020210,off,ママはお姫様だから,Because Mama is a princess...
+1026005020220,off,"利用しようと、
+汚いヤツらが群がってくる","She draws legions of peasants wanting to leech off
+from her."
+1026005020230,off,もう、関わらせないよ,I won't let them do that.
+1026005020240,ルカ,"──だから
+会わないって言ってる","—I told you already.
+She ain't gonna talk to you."
+0000000000000,番組AD,"そうおっしゃらずに……！
+八雲さんにとってもいいお話だと──","Oh, please don't say that...! I believe this will be a
+very good opportunity for Yakumo-san—"
+1026005020250,ルカ,"信用できない
+……そもそも電話で断ったはずだけど","I don't trust you at all... In the first place, she
+must've shot down your offer via phone already."
+0000000000000,番組AD,それは……,That's......
+0000000000000,番組AD,──そのっ、ですがお嬢さん……！,"...Well, but, please, hear me out, miss—!"
+1026005020260,ルカ,帰って,Leave!
+1026005020270,ルカ,──そっちの都合で使われてたまるかよ……,—Like hell I'm gonna let them take advantage of her...
+1026005020280,off,もう、ママに不安な思いはさせない,I won't let anyone make Mama worry ever again.
+1026005020290,off,"──でも
+どうしよう","—But...
+What should I do......?"
+1026005020300,off,────私も、あそこに行きたいの,—I want to step in that world too.....
+info,produce_events/102600502.json,
+Translator,pygoscelis,

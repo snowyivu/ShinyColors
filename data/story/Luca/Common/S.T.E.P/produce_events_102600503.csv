@@ -1,0 +1,95 @@
+id,name,text,trans
+0000000000000,ルカの母,……行くんだね,So this is where you leave......
+1026005030010,ルカ,──うん,——Yeah.
+1026005030020,ルカ,"安心して？
+ママのことなら誰にも言わない","Don't worry about me, okay?
+I'll keep you secret from everyone, Mama."
+0000000000000,ルカの母,それは、心配してない,I'm not worried about that part.
+1026005030030,ルカ,"……私の力だけで
+アイドルになってくるよ","Watch me...
+I'll turn into an idol with my own strength."
+0000000000000,ルカの母,……────,......———
+0000000000000,ルカの母,……いってらっしゃい,"Take care, Luca......"
+1026005030040,ルカ,うん,Yeah.
+1026005030050,ルカ,──いってきます、ママ,"...Take care of yourself too, Mama."
+0000000000000,ルカの母,……,......———
+0000000000000,トレーナー,"──今のところ
+美琴、やってみて","—Mikoto, try copying the move I did just now."
+1026005030060,美琴,はい,Okay.
+0000000000000,トレーナー,いくよ──５、６、７、８！,"Start—!
+Five, six, seven, eight!"
+1026005030070,ルカ,────……！,———......!
+1026005030080,off,初めて、ママ以外のアイドルが眩しく見えた,"(For the first time ever, I saw an idol who can dazzle
+just like Mama.)"
+1026005030090,ルカ,（────────上手い）,(————She's good.)
+1026005030100,ルカ,"（私よりも、ここの誰よりも
+……下手したら、本所属してる先輩アイドルたちよりも）","(She's even better than me, or anyone in this room...
+She might even surpass all of our seniors in the 
+agency...)"
+0000000000000,トレーナー,"振りは完璧
+でも自分が足りてない","You got the steps down perfectly,
+but it lacks your personality."
+0000000000000,トレーナー,"もっと美琴が見たいの
+わかる？","Put more of yourself into the dance, Mikoto.
+Understand?"
+1026005030110,美琴,……すみません,"...Got it, my mistake."
+1026005030120,ルカ,（……あの人でも、指摘が入るんだ）,"(Even someone like her gets flak, huh...)"
+1026005030130,ルカ,（一瞬で誰かを虜にできるのは、ママみたいな人だけ）,"(Only people like Mama can mesmerize people in an
+instant.)"
+1026005030140,ルカ,"（だったら、人一倍上手くならなきゃ
+────あの人みたいに）","(Which means I have to outshine everybody else—
+Just like that girl.)"
+1026005030150,ルカ,──ねぇ,——Hey.
+1026005030160,美琴,……？,......?
+1026005030170,ルカ,一緒に居残りしてもいい──デスカ,"Is it fine if I stay here with you...?
+......please?"
+1026005030180,美琴,"……
+どうして？","......
+Why?"
+1026005030190,ルカ,え？,Huh?!
+1026005030200,美琴,"私と一緒にやることで、
+あなたに何かメリットはある？","Is there any benefit for you if you stick around
+here with me?"
+1026005030210,ルカ,メリット……──,—Benefit...?
+1026005030220,ルカ,"──っ、ある！
+私はアンタの練習が見たいんだ","—Y-Yeah, there is!
+I wanna see you practice!"
+1026005030230,美琴,"……？
+お手本なら、先生に頼んだ方がいいと思うけど","......? If you need to see the choreo, I believe it'll be
+better if you ask our instructor directly."
+1026005030240,ルカ,そうじゃなくて──！,That's not what I mean—!
+1026005030250,ルカ,"アンタがすごいと思ったんだよ！
+だって一番上手かったんだ、美琴──さんが","I was just blown away by your dance! I mean, you were
+the best hands down, Mikoto...... -san...!"
+1026005030260,ルカ,"まずはアンタに並べないと、
+私はずっと、二番のままだろ","Just thought that if I can't even get on your level,
+then I'd forever be stuck as second best."
+1026005030270,ルカ,"だから、一緒に練習することにメリットはあるし──
+やらせてほしい","So yes, there's a benefit for me if I practice with
+you—— Let me, please."
+1026005030280,美琴,……そう,......Okay.
+1026005030290,美琴,じゃあ、やろう,"Let's practice, then."
+1026005030300,ルカ,"！
+ありがとう……！","...!
+Thanks......!"
+0000000000000,研究生たち,ねぇっ、近々本所属出すって噂聞いた……！？,"Heeey, you heard the rumors?! They say the agency's
+dropping a debut soon!"
+0000000000000,研究生たち,"聞いた……！
+とにかく早くちゃんと周知してほしい……！","Yeah, I heard that!
+They should just make the announcement already...!"
+0000000000000,研究生たち,わかる、気が気じゃないよね,"I feel you, the wait's just making me feel antsy!"
+0000000000000,研究生たち,"うん……！
+──でもやっぱ、最有力なのはさ────","Right...?!
+But, hey, aren't the top picks probably......?"
+0000000000000,マネージャー,美琴、ルカ,Mikoto. Luca.
+0000000000000,マネージャー,"正式に──
+あなたたちふたりでの活動が決まったの","——It's officially confirmed that you'll both begin
+your idol activities together."
+1026005030301,美琴＆ルカ,！,!
+1026005030310,ルカ,──や……,We——
+1026005030320,ルカ,やった……！,We did it......!!
+1026005030330,ルカ,"やったな美琴！
+私たちで、一緒にやれるんだ……！","We did it, Mikoto!
+We're gonna debut together......!!"
+info,produce_events/102600503.json,
+Translator,pygoscelis,
