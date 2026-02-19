@@ -1,0 +1,22 @@
+id,name,text,trans
+0000000000000,プロデューサー,へぇ、これ人気のチョコレートなのか,"Huh, is this a popular chocolate?"
+4901800400010,透,"うん
+並んだ、めっちゃ","Yeah. 
+I lined up for it. A whole bunch."
+0000000000000,プロデューサー,ははっ、そこまでして買ってくれてありがとな,"Haha, thanks for doing all that just for this."
+4901800400020,透,────なんか、ジンクスあって,"────Apparently, there's a jinx."
+0000000000000,プロデューサー,"ジンクス？
+このチョコにか？","A jinx? 
+On this chocolate?"
+0000000000000,透の母,"バレンタインにここのチョコをあげたら、その人と
+ずーっと一緒にいられるっていうジンクスがあるんだって","It's said that if you give this chocolate to someone 
+on Valentine's Day, you'd be jinxed to be with them 
+forever."
+4901800400030,透,────へぇ……,────Huuuh...
+4901800400040,透,やっぱ、内緒,"Actually, nevermind. It's a secret."
+0000000000000,プロデューサー,え、気になるなあ…………,"Eh, you're making me curious now......"
+4901800400050,透,"ふふっ、まあ、食べてみて
+叶うかも、ジンクス","Fufu. Well, just eat it. 
+It might come true. The jinx."
+info,special_communications/490180040.json,
+Translator,OrangeKabocha,

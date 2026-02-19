@@ -1,0 +1,23 @@
+id,name,text,trans
+0000000000000,プロデューサー,"────え、今までにもらったチョコ？
+そりゃあ、もちろん覚えてるよ","────Eh, chocolates I've received? 
+Well, of course I remember them."
+4901200590010,透,どんな？,What kinds were they?
+0000000000000,プロデューサー,"え？
+どんなって、えっと…………","Eh? 
+What kinds, you say? Uhm......"
+4901200590020,透,"見つけて
+隠したから、チョコ","I want you to find it. 
+I hid some. Chocolate."
+0000000000000,プロデューサー,隠したって……この部屋にか？,You hid some... in this room?
+0000000000000,プロデューサー,はは、わかったよ,"Haha. Okay, got it."
+0000000000000,プロデューサー,"あれ、ここでもないか…………
+どこだろ……あ、もしかして────","Huh, there's none here too...... 
+I wonder where it is... Ah, perhaps────"
+0000000000000,プロデューサー,"やっぱりここか……！
+見つけたぞ、透！","I knew it'd be here...! 
+Look Toru, I found them!"
+4901200590030,透,……これで忘れない？,"...You won't forget them this way, right?"
+4901200590040,透,忘れないで、私のは,Don't forget them. The ones from me.
+info,special_communications/490120059.json,
+Translator,OrangeKabocha,

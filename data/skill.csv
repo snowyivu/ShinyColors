@@ -67,6 +67,8 @@ $noun滞在率$noun,$1 Room Rate$2,
 興味DOWN$percent,Interest DOWN $1,
 影響力$percentUP,Influence $1UP,
 影響力$percentDOWN,Influence $1DOWN,
+魅了,Charm,noun
+魅了強化,Charm Fortification,noun
 自身の$nounを$percent減らす,Decrease Own $1 By $2,
 メンタルダメージ$percentCUT,Mental Damage $1 CUT,
 特訓$num回目で解放,Limit Break $1 Times,
@@ -263,8 +265,8 @@ Viレッスン,Vi Lesson,noun
 [条件:回復回数$num回以上履歴に$nameがある場合],[Condition: Heal at least $1 times and $2 in the history],
 [条件:回復回数$num回以上$name全員がライブに参加],[Condition: Heal at least $1 times and $2 in unit],
 [発動制限],[Limited Use],
-リラックス効果$percent付与,Increases relaxation effect by $1,
-[回復回数増加で効果UP],[Effect UP based on number of heals],
+リラックス効果$percent付与,Increases Relaxation effect by $1,
+[回復回数増加で効果UP],[Effect UP based on Heal amount],
 アピールUP,Appeal UP,
 すべてのアピール値を$percentUP,Value of all appeals $1 UP,
 [超過思い出変換],[Excess is converted into Memory Gauge] ,
@@ -319,6 +321,7 @@ Visual上限UP,Visual Cap. UP,noun
 ファン感謝祭クリア,FanFest Clear,noun
 ファン感謝祭クリア＋,FanFest Clear+,noun
 ファン感謝祭クリア＋＋,FanFest Clear++,noun
+ライブスキル交換数,Live Skill Exchange,noun
 ライブスキル生成,Live Skill Generation,noun
 交換数,Mulligan,noun
 所属ユニットが多いほど効果UP,Effect UP at No. of Units,
@@ -339,10 +342,11 @@ $noun強化,$1 Fortification,
 ランダム効果$num個付与,Gives $1 Random Effects,
 [条件:$name又は$name全員がライブに参加],[Condition: All $1 or $2 members in Live],
 回避率,Evasion Rate,noun
-瞳の輝き,Brilliance of the Eyes,noun
+瞳の輝き,Sparkling Eyes,noun
 $noun $percent 強化,$1 $2 Fortification,
 パッシブスキル,Passive Skill,noun
 パッシブスキル強化,Passive Skill Fortification,noun
+パッシブスキル発動率,Passive Skill Rate UP,noun
 [条件:履歴に$nounのアイドルが$num人以上ある場合],[Condition: ≥ $2 $1 members in History],
 発動時に$noun$percentUP,$1 $2 UP when activated,
 [条件:$numターン以降履歴に$numジャンル以下],[Condition: $2 genre(s) in history on and after turn $1],
@@ -1270,6 +1274,8 @@ OT♡NAメイクヘンシン☆,OT♡NAメイクヘンシン☆,text
 甜der Dream Show,Ten-der Dream Show,text
 甜,Ten,text
 [ぐ～]甜,[Gu～]Ten,text
+ちょっとだけ,A Little More,text
+[もう]ちょっとだけ,[Just] A Little More,text
 アイ・セーブ・ユー,I Save You,text
 楽園に背く,Defying Paradise,text
 余白のページ,Blank Page,text
@@ -2142,7 +2148,7 @@ TOTTを誓って,TOTTを誓って,text
 きみは相棒,You're My Sidekick,text
 甜der Dream Show,Ten-der Dream Show,text
 ,,text
-,,text
+花蜜可可,Honeyed Cocoa,text
 ,,text
 ,,text
 ,,text

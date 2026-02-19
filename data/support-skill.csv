@@ -33,7 +33,7 @@ text,trans,type
 ダンスマスタリー$noun,"Dance Mastery-$1",text
 テンションマスタリー$noun,"Tension Mastery-$1",text
 トラブルガード,"Trouble Guard",text
-トークマスタリー$noun,"Talkshow Mastery-$1",text
+トークマスタリー$noun,"Talk Show Mastery-$1",text
 パーフェクトマスタリー,"Perfect Mastery",text
 ビジュアルマスタリー$noun,"Visual Mastery-$1",text
 ボーカルマスタリー$noun,"Vocal Mastery-$1",text
@@ -47,7 +47,7 @@ text,trans,type
 ダンスマスタリー,"Dance Mastery",text
 テンションマスタリー,"Tension Mastery",text
 トラブルガード,"Trouble Guard",text
-トークマスタリー,"Talkshow Mastery",text
+トークマスタリー,"Talk Show Mastery",text
 パーフェクトマスタリー,"Perfect Mastery",text
 ビジュアルマスタリー,"Visual Mastery",text
 ユニットマスタリー,"Unit Mastery",text  
@@ -93,6 +93,9 @@ Vi上限,Vi Limit,noun
 注目度が高い\nほど効果UP,High Attention\nEffect UP,text
 注目度が低い\nほど効果UP,Low Attention\nEffect UP,text
 所属ユニットが\n多いほど効果UP,Matching Unit\nEffect UP,text
+回復回数増加で\n効果UP,Effect UP based on\nHeal amount,text
+回避率が高い\nほど効果UP,High Evasion\nEffect UP,text
+履歴が多い\nほど効果UP,High Skill\nHistory Effect UP,text
 消去,Cleanse,text
 アピール倍率\nUP,Appeal\nMultiplier UP,text
 思い出ゲージ\nUP,Memory\nGauge UP,text
@@ -112,14 +115,28 @@ Vi上限,Vi Limit,noun
 興味UP,Interest\nUP,text
 興味DOWN,Interest\nDOWN,text
 興味反転,Interest\nFlip,text
+興味限定,Interest\nLock,text
 影響力\nDOWN,Influence\nDOWN,text
 影響力\nUP,Influence\nUP,text
+魅了,Charm,text
+パッシブスキル\n発動率UP,Passive Skill\nRate UP,text
+ライブスキル\n交換数UP,Live Skill\nExchange UP,text
+ライブスキル\n生成,Live Skill\nGeneration,text
+パッシブスキル\n強化,Passive Skill\nFortification,text
+ランダム効果付与,Random\nEffect,text
+瞳の輝き,Sparkling\nEyes,text
+ステータス効果\n変換,Convert Status\nEffect,text
 ダメージを\n受けるまで,When\nDamaged,text
 PERFECT\nなら効果UP,On PERFECT\nEffect,text
 必ず最初に\nアピール,Always First\nAppeal,text
 必ず最後に\nアピール,Always Last\nAppeal,text
+Vocal強化,Vocal Fortification,text
+Dance強化,Dance Fortification,text
+Visual強化,Visual Fortification,text
+魅了強化,Charm Fortification,text
 デュエット,Duet,text
 フレキシブル,Flexible,text
+気力UP,Energy UP,text
 キュート,Cute,text
 クール,Cool,text
 ポジティブ,Positive,text
@@ -132,6 +149,8 @@ PERFECT\nなら効果UP,On PERFECT\nEffect,text
 晴れ,Sunny,text
 くもり,Cloudy,text
 雨,Rain,text
+キャスティング\nコレクション,Casting\nCollection,text
+プレリュード\nコレクション,Prelude\nCollection,text
 トワイライツ\nコレクション,Twilights\nCollection,text
 マイソングス\nコレクション,My Songs\nCollection,text
 パラレル\nコレクション,Parallel\nCollection,text

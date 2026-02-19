@@ -679,10 +679,10 @@ Good-bye ラブレター,Good-bye Love Letter,note
 エリア$numのステージすべてに勝利しよう,Clear all Area $1 Stages,exp
 エリア$numの達成度を100%にしよう,Get 100% Achievements in Area $1,exp
 $noteを$num回プレイしよう,Play $1 $2 times,exp
-$noteで$num回大富豪になる,Become "Grand Millionaire" in $1 $2 times,exp
-$noteで$num回富豪になる,Become "Millionaire" in $1 $2 times,exp
+$noteで$num回大富豪になる,Become "Tycoon" in $1 $2 times,exp
+$noteで$num回富豪になる,Become "Rich" in $1 $2 times,exp
 $noteで$num回貧民になる,Become "Poor" in $1 $2 times,exp
-$noteで$num回大貧民になる,Become "Extremely Poor" in $1 $2 times,exp
+$noteで$num回大貧民になる,Become "Beggar" in $1 $2 times,exp
 $noteでスコア$num点以上を取ろう,Get a score of $2 and above in $1,exp
 $noteでスコアを累計$num点以上を集めよう,Have a total score of $2 points and above in $1,exp
 $nameのコミュニケーションレベルを$numにしよう,Reach Communication Level $2 with $1,exp

@@ -1,0 +1,142 @@
+id,name,text,trans
+0000000000000,プロデューサー,……暑くなる前に……って思ったけど,"......Thought I could get to the office before it gets
+hot, but..."
+0000000000000,プロデューサー,もうだいぶ日差し、強いな……,The sun's already scorching hot......
+2025008010010,美琴,────プロデューサー？,——Producer?
+0000000000000,プロデューサー,え……？,Huh...?
+2025008010020,美琴,"ずいぶん早い出勤じゃない？
+どうしたの？","You're quite early today, aren't you?
+Is there something up?"
+0000000000000,プロデューサー,美琴……！,Mikoto...?!
+0000000000000,プロデューサー,"おはよう
+早く目が覚めたからさ","Good morning.
+I woke up early today..."
+0000000000000,プロデューサー,"暑くなる前に事務所に行って
+事務仕事でも片付けようかと……","...So I thought of dropping by the office before it
+gets too hot, then wrap up some work."
+2025008010030,美琴,そうなんだ,I see.
+0000000000000,プロデューサー,"美琴こそどうしたんだ？
+こんな時間に","What about you, Mikoto?
+Why are you up this early?"
+0000000000000,プロデューサー,朝からレッスン、入れてたか？,Do you have a lesson this early in the morning?
+2025008010040,美琴,"ううん
+今、切り上げてきたところなの","Nope.
+Just about to head home now after one."
+0000000000000,プロデューサー,え……！,You're what...?!
+2025008010050,美琴,昨日は夜にレッスン室取ってたから,"I reserved the night slot for the lesson room
+yesterday."
+2025008010060,美琴,"どうしても気になる振りがあって……
+気付いたらこの時間だったの","There was a step that I couldn't stop thinking
+about... When I came to my senses, the sun was
+back on the sky again."
+0000000000000,プロデューサー,そうだったのか……,So that's what happened...
+2025008010070,美琴,"最近は暑いし
+夜から朝の方が、集中しやすくて","It's been hot recently, as you said.
+Way easier to focus during the night till dawn."
+0000000000000,プロデューサー,"ま、まあ
+それはそうかもしれないけど……","W-Well, you have some good logic there, but......"
+2025008010080,美琴,"それで、帰る前に
+コンビニに寄っていこうと思ったんだけど","Anyway, I thought of dropping by the convenience
+store before I head home."
+2025008010090,美琴,まさかプロデューサーに会うとは思わなかったな,Didn't think I'd spot you on the way.
+0000000000000,プロデューサー,"それはこっちのセリフだよ
+まさか美琴が今帰りだとは……","I could say the same. Who'd have guessed that
+you're heading home at this hour......"
+2025008010100,美琴,"……うん
+そうだよね","...Yep.
+Guess that's true."
+0000000000000,プロデューサー,────はは……,——Haha......
+select,,眩しいな,Pretty bright.
+select,,眠くないのか,Aren't you sleepy?
+select,,何を買うんだ？,"What are you
+planning to buy?"
+2025008010110,美琴,え……？,Huh...?
+0000000000000,プロデューサー,"ほら、だいぶ日差し
+強くなってきただろ？","The sunlight, I mean.
+It's gotten very bright outside, don't you think?"
+2025008010120,美琴,"……うん
+眩しいけど……","Yep...
+It's bright, but..."
+2025008010130,美琴,……綺麗な空……,...The sky looks so beautiful......
+0000000000000,プロデューサー,………………,............
+2025008010140,美琴,"いい天気だからとか、さっきまで室内にいたから
+っていうのもあると思うけど","Probably because the weather's simply just nice
+today, or maybe because I've been stuck in a room
+for hours, but..."
+2025008010150,美琴,"一晩かけて振りがクリアにできたと思うから
+……余計にそう見えるのかもしれないね","I think another factor is because I cleared that
+challenging choreo after an all-nighter... Making
+the sky look prettier than usual."
+0000000000000,プロデューサー,ああ、そうだな,"Yeah, that makes sense."
+0000000000000,プロデューサー,"そういう日の空は、特に眩しく感じるの
+わかる気がするよ","The sky tends to look more radiant on days
+like that, so I get what you feel."
+2025008010160,美琴,……,......
+2025008010170,美琴,"……そう
+プロデューサーも、わかるんだ","I see.
+So you do feel that too, Producer."
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,……眩しいな,So bright......
+2025008010180,美琴,"ううん、今は
+むしろ目が冴えているくらい","Not really.
+I feel like my eyes are wide open right now, actually."
+0000000000000,プロデューサー,"はは……
+まあ、こんな日差しの中じゃなあ","Haha......
+Well, it is blindingly bright out here, after all..."
+2025008010190,美琴,……そうだね,......Sure is.
+2025008010200,美琴,"ごめんね、事務所に行くところだったのに
+足止めしちゃって","Sorry, you were heading to the office but I ended up
+blocking your way."
+0000000000000,プロデューサー,いや、いいんだ,"Don't worry, it's fine."
+0000000000000,プロデューサー,"たまたま早く目が覚めたから
+早く来ただけだし","It's all coincidence that I woke up too early and
+decided to clock in at this hour, anyway."
+2025008010210,美琴,……そう,......I see.
+0000000000000,プロデューサー,"というか、こちらこそすまん
+美琴、疲れてるよな","I should be the one apologizing here. You must be
+tired right now, Mikoto."
+0000000000000,プロデューサー,"昼夜逆転するの、あまり良くないかもしれないけど
+早く戻って休める時に少しでも休んでくれ","It might not be smart to mess with your sleep cycle,
+but you should head home now and rest even just a
+little while you still have the time."
+2025008010220,美琴,……うん、ありがとう,"......Okay, thanks."
+0000000000000,プロデューサー,"それじゃあ、えっと……
+お疲れ、おやすみだな","Well then, uhh......
+Great job today, and have a good sleep."
+2025008010230,美琴,…………！,......!
+2025008010240,美琴,"……さっきはおはようって言ってたのに
+なんだかおかしいね","......You just said good morning a bit ago, though.
+That's kinda funny."
+0000000000000,プロデューサー,コンビニ、寄っていくんだろ？,"You're going to the convenience store, right?"
+2025008010250,美琴,"ああ……うん
+そうなの","Ahh... Yep.
+I am."
+2025008010260,美琴,"家に何もないから……水と
+少し、何か食べる物も買おうかなって","There's nothing in my house, so... I was thinking of
+buying water and some snacks to eat."
+0000000000000,プロデューサー,"そうか
+じゃあ、一緒に行ってもいいか？　コンビニ","I see. How about we go there together, then?
+To the convenience store."
+2025008010270,美琴,"え？　うん
+それはいいけど……","Huh? Okay, I don't mind, but......"
+2025008010271,美琴,"いいの？　プロデューサー
+事務所に行かなくて","You sure, Producer?
+Weren't you heading to the office?"
+0000000000000,プロデューサー,"ああ、特に急ぎの用事があるわけでもないんだ
+それに、まだ何も食べてないしさ","It's fine; it's not like there's any immediate matters
+that need attending to. Besides, I haven't had my
+breakfast yet."
+2025008010280,美琴,"そうなんだ
+じゃあ、行こう","Is that so?
+Let's go, then."
+2025008010290,美琴,"これから動くなら
+しっかり食べないと、プロデューサー","You have to eat properly if you're going to walk
+around after this, Producer."
+0000000000000,プロデューサー,"美琴も、動いた分
+しっかり補給しないとだぞ","Back to you, Mikoto. You better replenish the energy
+you lost from practicing."
+2025008010300,美琴,"…………
+そうだね","......Heh.
+Right."
+info,produce_events/202500801.json,
+Translator,pygoscelis,
