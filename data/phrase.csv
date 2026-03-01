@@ -1025,8 +1025,8 @@ exchangeItem.petitSelectionTicket.simple,チケット,Ticket
 fes.result.score,%{value}pt,%{value}pt
 fes.result.scoreDetail.appeal,%{appeal}×%{num},%{appeal}×%{num}
 gasha.ticketGashaCount,x%{count},x%{count}
-gasha.idolRate,%{ssrRate}%\n%{srRate}%\n%{rRate}%,%{ssrRate}%\n%{srRate}%\n%{rRate}%
-gasha.supportIdolRate,%{ssrRate}%\n%{srRate}%\n%{rRate}%,%{ssrRate}%\n%{srRate}%\n%{rRate}%
+gasha.idolRate,%{urRate}\n%{ssrRate}%\n%{srRate}%\n%{rRate}%,%{urRate}\n%{ssrRate}%\n%{srRate}%\n%{rRate}%
+gasha.supportIdolRate,%{urRate}\n%{ssrRate}%\n%{srRate}%\n%{rRate}%,%{urRate}\n%{ssrRate}%\n%{srRate}%\n%{rRate}%
 gasha.ssrText,SSR,SSR
 gasha.srText,SR,SR
 gasha.rText,R,R
@@ -2795,8 +2795,6 @@ countUpCampaign.banner.gashaTicket.tail,10連,10 Pulls
 temp.supportEvent,サポートイベント,Support Event
 temp.produceEvent,プロデュースイベント,Produce Event
 announce.information,お知らせ,Notice
-common.plusSkill.conditionSeparator,\[条件:(.*)\]$,\[Cond:(.*)\]$
-common.exchangeSkill.conditionSeparator,\[条件:(.*)\]$,\[Cond:(.*)\]$
 concert.passiveSkillDetailListDialog.extendedSuffix,[延長],[Extend]
 concert.statusEffect.additionalEffectDetail.tag,[追加],[Extra]
 deck.swapSameURRarityWarning,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいますが\n本当によろしいですか？,Only 1 UR Idol can be in the unit.\nThe UR Idol in the unit will be removed.\nAre you sure?
@@ -3089,3 +3087,7 @@ filterPop.filter.communicationLevelPoint,コミュニケーション\nポイン�
 rewardSkinName,%{skinName}の衣装,%{skinName}'s Outfit
 decorationEvent.characterSelectPop.itemNameTextValentine2026.decoration,【’26VD】差し入れ 所持数 :,【’26VD】Gifts:
 decorationEvent.characterSelectPop.itemNameTextValentine2026.present,【’26VD】プレゼント所持数:,【’26VD】Presents:
+common.urText,UR,UR
+common.ssrText,SSR,SSR
+common.srText,SR,SR
+common.rText,R,R
