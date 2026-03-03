@@ -1,18 +1,18 @@
 id,name,text,trans
 3022011010010,小糸,（えっと……）,(Let's see...)
 3022011010020,小糸,"（ベリーデリシャスパンの新商品……
-『キュートベアブレッド』……）","(The newest product from 'Berry Delicious Bread'... 
-""Cute Bear Bread""...)"
+『キュートベアブレッド』……）","(Introducing the newest product from 
+'Berry Delicious Breads'... ""Cute Bear Bread""...!)"
 3022011010030,小糸,（中にはジャムが入ってて──）,(It even has a jam filling──)
 3022011010040,雛菜,"へ～
 かわいいパンだね～？","Awwww～
-Don't you think this bread is just the cutest～?"
+Isn't this bread the cutest～?"
 3022011010050,小糸,う、うん……！,Y-Yeah...!
 3022011010060,小糸,"そ、それに
 資料の、ほら……！","T-The script...
 goes something like this, look...!"
-3022011010070,小糸,『原材料はこだわりの国産小麦を使用』って……！,"""We're proud to say Berry Delicious uses hand-picked, 
-locally sourced wheat""! "
+3022011010070,小糸,『原材料はこだわりの国産小麦を使用』って……！,"""We're proud to say Berry Delicious uses 
+hand-picked, locally sourced wheat""! "
 3022011010080,小糸,"『キャラクターパンでありながら、試行錯誤を繰り返し
 こだわりの味に仕上げています』","""This is not just any old character-bread! They've
 worked tirelessly to deliver a unique flavour unlike 
@@ -51,15 +51,15 @@ at the shoot, so..."
 are you not worried you won't be prepared...?"
 3022011010280,小糸,"そ、それに
 食リポもあるし……！","A-And! 
-We'll have to do reviews live, too...!"
+We'll have to do food reviews live, too...!"
 3022011010290,雛菜,"……ん～
 そうかもしれないけど～……","...Hm～
-I suppose so, but～"
+Maybe, but you know～"
 3022011010300,雛菜,"資料を読んだって、
 上手くいくとは限らないんじゃない～？","Even if you prepare too much, it's not a guarantee
 things will go perfectly, right～?"
 3022011010310,雛菜,"覚えたことを言うだけなら、
-雛菜たちがやらなくてもいいと思うし～","If we're just reciting the words, 
+雛菜たちがやらなくてもいいと思うし～","If we're just remembering the words, 
 Hinana doesn't need to worry about that～"
 3022011010320,小糸,……！,...!
 3022011010330,雛菜,"おいしいって感じたら
@@ -67,7 +67,7 @@ Hinana doesn't need to worry about that～"
 just say so!"
 3022011010340,雛菜,"その時に資料のこと思い出したら、
 それも言えばいいと思う～！","If you remember to at the time, 
-throw some of the script in～"
+throw some of the script in as you go～"
 3022011010350,小糸,…………,......
 3022011010360,小糸,（確かに……）,(...I suppose...)
 3022011010370,小糸,"（雛菜ちゃんはきっと、
@@ -78,7 +78,7 @@ of thing...)"
 will I actually be able to do this...?)"
 3022011010390,雛菜,"小糸ちゃん
 その袋、何～？","Koito-chan!
-What's that in your bag～?"
+What's that in the bag～?"
 3022011010400,小糸,ぴゃ……！,Pyah...!
 3022011010410,小糸,"こ、今度CMを撮影する
 ところのパンだよ……！","I-It's bread from the place we'll be
@@ -118,6 +118,6 @@ actually delicious...!"
 with the softness of the dough...!"
 3022011010560,雛菜,"あは～
 小糸ちゃんの食リポだ～！","Aha～
-It's Koito-chan's food review time～"
+It's Koito-chan's food review time～!"
 info,produce_events/302201101.json,
 Translator,pyon,

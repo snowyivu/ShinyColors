@@ -2795,6 +2795,8 @@ countUpCampaign.banner.gashaTicket.tail,10連,10 Pulls
 temp.supportEvent,サポートイベント,Support Event
 temp.produceEvent,プロデュースイベント,Produce Event
 announce.information,お知らせ,Notice
+common.plusSkill.conditionSeparator,\[条件:(.*)\]$,\[Cond:(.*)\]$
+common.exchangeSkill.conditionSeparator,\[条件:(.*)\]$,\[Cond:(.*)\]$
 concert.passiveSkillDetailListDialog.extendedSuffix,[延長],[Extend]
 concert.statusEffect.additionalEffectDetail.tag,[追加],[Extra]
 deck.swapSameURRarityWarning,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいますが\n本当によろしいですか？,Only 1 UR Idol can be in the unit.\nThe UR Idol in the unit will be removed.\nAre you sure?
