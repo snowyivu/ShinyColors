@@ -1,0 +1,161 @@
+id,name,text,trans
+2023005040010,雛菜,…………,......
+2023005040020,雛菜,…………！,......!
+2023005040030,雛菜,"へ～……？
+なんか爆発した～……？","Hmm～?
+Did something explode...?"
+2023005040040,雛菜,"あ～……
+ミニトマト入ってたのか～～～","Ahh...
+It had a cherry tomato in it......"
+2023005040050,雛菜,失敗～…………,Epic faiiiilll......
+0,プロデューサー,──雛菜、大丈夫か……？,"—Hinana, you alright there...?"
+0,プロデューサー,"なんか、破裂するみたいな
+音がしたけど……",I think I just heard an explosion from over here...
+2023005040060,雛菜,"あは～
+プロデューサー、聞こえた～？","Aha～
+You heard that, Producer?"
+2023005040070,雛菜,"お弁当チンしてたら
+ミニトマトが爆発しちゃった～！","Hinana was heating up her lunch and then
+the cherry tomato went kaboom～!"
+0,プロデューサー,"ああ……
+何かと思ったらそういうことか","Ahh...
+Got worried there for a second."
+2023005040080,雛菜,"ごめんね～？
+電子レンジ、ちょっと汚れちゃったかも","Sorry, the microwave might be a bit messy now～"
+2023005040090,雛菜,でも、たぶん壊れてないよ～？,"But it's probably not broken, I think～?"
+0,プロデューサー,"ああ、それはいいんだ
+……怪我とかしてないか？","Yeah, that's no big deal. 
+You didn't get hurt or anything, did you...?"
+2023005040100,雛菜,"うん～！
+雛菜は平気だけど……","Yup～! Hinana's all good, but..."
+2023005040110,雛菜,"ママに作ってもらった
+ユアクマちゃんのキャラ弁",The YourKuma bento that Mama made...
+2023005040120,雛菜,なんかすごいことになっちゃった～,...looks all sorts of funny now～!
+0,プロデューサー,"おお……
+これは、ちょっとした惨劇だな……","Woah...
+That does look quite unfortunate......"
+2023005040130,雛菜,あは～……,...Aha～
+2023005040140,雛菜,"こんなことになるなら
+先に写真撮っておけばよかったな～","Hinana would've taken a photo earlier
+if she knew it'd blow up like this～"
+2023005040150,雛菜,あ、でもママが撮ってるか～,"Oh, Mama might've took a photo, maybe～!"
+0,プロデューサー,……………,......
+0,プロデューサー,──雛菜,—Hinana.
+2023005040160,雛菜,ん～？,Hmm～
+0,プロデューサー,"こんな時に言うのも
+なんなんだけどさ","Might be weird to open this topic right now, but..."
+2023005040170,雛菜,"へ～？
+何～？","Hmm～? 
+What's up～?"
+0,プロデューサー,"この間、断った方の仕事
+ずっと、なんとかならないか交渉してて","About that job offer we declined last time.
+I've been trying to work it out with the client..."
+0,プロデューサー,"……それで、別日でやらせて
+もらえることになりそうなんだ","...And it seems likely that you'll be able to
+do the job on a different date."
+2023005040180,雛菜,"……！
+すごい、ほんとに～？","......!
+Wow, for real～?!"
+0,プロデューサー,"ああ
+でも、この間雛菜にも見てもらった通り","Yeah, and just like you've seen in the
+materials last time we discussed this..."
+0,プロデューサー,その仕事の内容っていうのが──……,The job will be about—
+2023005040190,雛菜,"お料理系でしょ～？
+雛菜ちゃんと覚えてるよ～","Cooking, right? 
+Hinana still remembers～"
+0,プロデューサー,…………そうなんだ,...I see.
+2023005040200,雛菜,"あは～
+そんな顔しなくても大丈夫だよ～","Aha～
+You don't need to make a long face～"
+2023005040210,雛菜,"今日はミニトマトが入ってるの知らなくて
+そのままチンしちゃったけど","It just so happened that Hinana put her lunch
+in the microwave without knowing there were
+cherry tomatoes in it, but..."
+2023005040220,雛菜,普段は爆発させたりとかしないから！,"Hinana doesn't usually blow stuff
+up, so no worries～!"
+0,プロデューサー,……そうか,......I see.
+0,プロデューサー,"それなら雛菜
+この仕事、挑戦してくれるか？","In that case, would you still like
+to accept the offer, Hinana?"
+2023005040230,雛菜,いいよ、やる～～～！,"Sure～
+Hinana's gonna do it～!"
+0,プロデューサー,"はは……
+相変わらずの即決っぷりだな","Haha...
+Lightning fast decision-making as usual."
+2023005040240,雛菜,うん～！,Right on～!
+2023005040250,雛菜,"だって、いつでも雛菜がしあわせ～って
+思える方を選ぶんだもん","Hinana always decides based on what'll make her
+the happiest, after all～"
+2023005040260,雛菜,"そんなの、
+プロデューサーも知ってたでしょ？","You already know that's how
+it goes, right, Producer～?"
+select,,"ああ、
+そうだな","Yeah,
+true that."
+select,,"うん、
+楽しみだな","Yep, now
+I'm excited
+for it."
+select,,"よし、
+頑張ろうな","Alright,
+let's give it
+our best, then!"
+0,プロデューサー,"あの時は、どっちかを
+選ばせる形になっちゃったけど","It just so happened that I had to make
+you pick only one back then, but..."
+0,プロデューサー,"でも、雛菜は
+本当は両方やりたいって言ってくれてたからさ","You did say that you wanted
+to do both jobs, so..."
+0,プロデューサー,だから、粘って交渉してよかったよ,I'm happy that I pushed through and all ends well.
+2023005040270,雛菜,"うん～
+ありがとう、プロデューサー","Yup～
+Thanks a lot, Producer～!"
+2023005040280,雛菜,"前にこのキッチン紹介した時に
+料理してるところ見たい～ってコメントもあったし","There was that comment back in the kitchen
+tour that they wanted to see Hinana cook, so..."
+2023005040290,雛菜,"みんなも、きっと
+楽しいと思うな～","Hinana's sure that it'll make
+everybody happy too～!"
+0,プロデューサー,"……そうだな
+俺も楽しみだよ","......Right. 
+I'm excited for it too."
+2023005040300,雛菜,"そうだね～
+何作るんだろう～","Same～
+Wonder what they'll make Hinana cook～?"
+0,プロデューサー,"雛菜は何か
+得意な料理とかあるのか？","Do you have any specialty dish, Hinana?"
+2023005040310,雛菜,"へ～？
+ん～……","Huh～?
+Hmmmm..."
+2023005040320,雛菜,"雛菜、普段あんまり
+お料理ってしないけど～","Hinana doesn't really cook that often, but..."
+2023005040330,雛菜,"でも、レシピ見れば
+大体できると思うな～！","Hinana thinks she can cook pretty much
+anything as long as she follows a recipe～!"
+0,プロデューサー,え…………！,Huh......?!
+2023005040340,雛菜,"あは～
+やってみないとわかんないけど～","Aha～
+Won't know unless Hinana tries it for real, though～"
+2023005040350,雛菜,楽しみだね～？,"Sounds exciting, right～?"
+0,プロデューサー,"出るって決めたからには
+……楽しく、しあわせにさ","Since you've already decided to do it, then...
+Let's do it in a fun and happy way."
+2023005040360,雛菜,"うん～！
+そうだよね～","Yup～!
+True that～"
+2023005040370,雛菜,"雛菜、普段は
+お料理ってしないけど～","Hinana doesn't usually cook, but～"
+2023005040380,雛菜,"でも、食べるのはすきだから
+作るのもすきになる気がする！","Hinana likes eating, so for sure she'll also
+like cooking food too～!"
+0,プロデューサー,え…………！,Huh......?!
+2023005040390,雛菜,"でも、作るの担当より
+食べるの担当のほうがしあわせかも～","Hinana's probably gonna be happier if she's
+the one eating, not cooking, though～"
+2023005040400,雛菜,本番は作ったやつ、食べられるのかな～？,"Wonder if Hinana can eat what
+she'll make on the set～?"
+2023005040410,雛菜,"あは～
+楽しみだね、プロデューサー","Aha～
+Sounds exciting doesn't it, Producer～?"
+info,produce_events/202300504.json,
+Translator,pygoscelis,

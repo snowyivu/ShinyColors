@@ -1,0 +1,31 @@
+id,name,text,trans
+0000000000000,プロデューサー,"（欲しいものを直接聞くのが確実なんだけど
+小糸を悩ませるかもしれないからなぁ……うーん……）","(Asking her outright what she'd like as a gift would 
+be best but I don't want to pressure her... hmm...)"
+4902300430010,小糸,"……？
+プロデューサーさん、どうかしました……？","...?
+Is something wrong, Producer-san?"
+0000000000000,プロデューサー,"えっ、えーっと……街中の電飾が増えてきただろう？
+もうすぐクリスマスだなって実感しててさ","Oh, uh... there's so many lights up around town 
+now! Christmas is right around the corner...!"
+4902300430020,小糸,"あ、そうですね……！
+昨日、妹もそういう話をしてました","Y-Yeah...!
+My little sister mentioned it yesterday."
+4902300430030,小糸,"欲しいもののリストも見せてくれたんですけど
+もう少し絞ってねってお母さんに言われてて……","She showed me her wishlist too but...
+Our mom is still trying to get her to narrow it down..."
+0000000000000,プロデューサー,"この時期はクリスマス向けに
+色々でるから迷うよなぁ","There's almost too much to choose at from this time
+of year, huh? Deciding must be tough."
+0000000000000,プロデューサー,"……ちなみに小糸は
+何か欲しいものがあったりするのか？","...Speaking of. 
+Is there anything you'd like this year, Koito?"
+4902300430040,小糸,わたしはまだ迷ってて……,I'm not really sure...
+4902300430050,小糸,"……あ、そろそろペンのインクが切れるので
+新しいのが欲しいかもしれません","...Though, my favorite pen's running out of ink so
+I might need to replace it."
+0000000000000,プロデューサー,"（なるほど、ペン……
+プレゼントの候補として探してみるか！）","(Aha, so she wants a pen...!
+I'll add this to my gift ideas!)"
+info,special_communications/490230043.json,
+Translator,pyon,

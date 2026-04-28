@@ -1,0 +1,97 @@
+id,name,text,trans
+0000000000000,プロデューサー,"──はるき、もう解散でいいって
+帰ろうか","—Haruki, they said we're done for today.
+Should we head home now?"
+2028004030010,はるき,あっ……はい────,"Ah...
+Sure—"
+2028004030020,はるき,…………,......
+2028004030030,はるき,"あの、プロデューサーさん
+わたし……ここに残っていいですか","Um, Producer-san...
+Can I stay behind here?"
+0000000000000,プロデューサー,……えっ,......Huh?
+2028004030040,はるき,"この後用事はないですし、
+せっかくだしこの辺りを散策したいなって────","Since I don't have anything else planned today,
+I want to stroll around this area—"
+2028004030050,はるき,"海沿いにいろいろお店もあるみたいですし……
+だ、だめでしょうか……？","Seems like there's various shops
+along the coast too, so...
+I-Is it a no...?"
+0000000000000,プロデューサー,えっと────,Err......
+2028004030060,はるき,"わ……素敵なところ……
+海風が気持ちいですね……！","Woah, what a lovely place...!
+The sea breeze feels so nice.....!"
+0000000000000,プロデューサー,いい席空いていてよかったな,Good thing they have nice seats open.
+2028004030070,はるき,はい……！,Yeah...!
+2028004030080,はるき,"すみません、結局わたしのわがままに
+付き合っていただいて……","Sorry for making you tag along
+for quite a while on a whim..."
+0000000000000,プロデューサー,"はは、いいんだ
+俺がいられる時間までで悪いけど──","Haha, it's fine.
+Sorry that I can only allow you to roam
+as long as I'm around."
+0000000000000,プロデューサー,"俺も、こんなところで
+お茶できて嬉しいよ","I'm also glad that I get to enjoy
+some tea at a place like this."
+2028004030090,はるき,"ここ、お冷のピッチャーが
+テーブルごとにありますね……！","They have pitchers with cold
+water on every table here...!"
+2028004030100,はるき,注ぎますね～,I'll be pouring a glass for you～!
+0000000000000,プロデューサー,お、ありがとう,"Sure, thanks."
+2028004030110,はるき,"わわっ……！
+ごめんなさい、勢い余って……！","Woah, woah!
+I'm sorry, it overflowed...!"
+0000000000000,プロデューサー,"おお、大丈夫だよ
+少しだけだし……","Ahh, don't worry about it.
+It's just a small amount anyway..."
+2028004030120,はるき,おしぼりおしぼり……,"Wipe, wipe..."
+2028004030130,はるき,お水、注ぎなおします,I'll pour you another glass.
+0000000000000,プロデューサー,"おっと、はるき
+勢いが……！","Wait, Haruki—
+You're pouring too mu—"
+2028004030140,はるき,わぁっ……！,Wahh!
+2028004030150,はるき,あふれちゃいました……,It overflowed again......
+2028004030160,はるき,"ごめんなさい……
+わたし、舞い上がってますねぇ","I'm so sorry...
+I got too carried away."
+0000000000000,プロデューサー,"はは
+じゃあ俺が注ぐよ","Haha.
+Okay, I'll do it."
+2028004030170,はるき,すみません……！,My bad...!
+2028004030180,はるき,どうしてこうなっちゃうんでしょう……,Why am I like this today...?
+0000000000000,プロデューサー,"グラスが小さくて
+ピッチャーが結構重いからなぁ","Maybe it's just the glass being too small
+and the pitcher being quite heavy."
+0000000000000,プロデューサー,──はい、どうぞ,—Here you go.
+2028004030190,はるき,ありがとうございます……！,Thank you very much...!
+2028004030200,はるき,…………,...
+2028004030210,はるき,……………,......
+0000000000000,プロデューサー,──────はるき？,—Haruki?
+2028004030220,はるき,ふふ、グラスに、空と海が映ってます,"Fufu.
+The sky and the sea are reflected on my glass."
+0000000000000,プロデューサー,"…………本当だ
+綺麗だなぁ","...They really are.
+That's beautiful."
+2028004030230,はるき,"これを飲んだら、
+わたし……どうなっちゃうでしょう？","If I drink this, I wonder...
+What will happen to me...?"
+0000000000000,プロデューサー,そうだなぁ────……,Well...—
+0000000000000,プロデューサー,"────……
+一休みしたら、海の方へ行ってみようか","——......
+How about we go to the ocean after we rest for
+a bit?"
+0000000000000,プロデューサー,空と海……もっと近くで見よう,"The sky and the sea...
+Let's take a closer look at both."
+2028004030240,はるき,ふふっ……いいんですか……！,"Fufu...
+Is it okay to get spoiled this much?"
+0000000000000,プロデューサー,……そろそろ、帰る時間かな────,......It's almost time to go home—
+0000000000000,プロデューサー,はるき、戻────,"Haruki, it's time to—"
+0000000000000,プロデューサー,はるき…………？,Haruki......?
+2028004030250,はるき,…………,......
+2028004030260,はるき,少しだけ、もらっちゃいました────,...I took just a bit of it—
+2028004030270,はるき,…………,......
+2028004030280,はるき,全部、持って帰れないのが残念────,"It's such a shame that I can't
+take it all home with me——"
+0000000000000,プロデューサー,嬉しそう、だったな,She looked so happy—
+0000000000000,プロデューサー,────あふれてしまうこと,——that her joy seemed overflowing.
+info,produce_events/202800403.json,
+Translator,pygoscelis,

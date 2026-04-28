@@ -3,16 +3,17 @@ id,name,text,trans
 プロデューサー、おはよう","...Ah.
 Producer, good morning."
 0000000000000,プロデューサー,"ど、どうしためぐる
-ずいぶん疲れてるみたいだが……","Wh-what's wrong, Meguru?
+ずいぶん疲れてるみたいだが……","W-What's wrong, Meguru?
 You look pretty tired..."
 1003001040020,めぐる,"えっ！？　そ、そんなことないよ！！
 ほら！　元気いっぱいだから心配しないで！","Eh?! Th-That's not true at all!!
 Look! I'm full of energy, so don't worry!"
 0000000000000,プロデューサー,"……無理はしなくていいんだぞ
-最近は仕事続きだったからな","...You don't have to pretend.
-You've had job after job lately."
+最近は仕事続きだったからな","...You don't have to push yourself.
+You've been working nonstop lately."
 0000000000000,プロデューサー,"いくつかキャンセルして
-休みをとろうか？",Should I cancel some so that you can have a break?
+休みをとろうか？","Should I cancel some things so that you can have
+a break?"
 1003001040030,めぐる,"……！　ありがとう……でも、大丈夫だよ
 キャンセルはしたくない","Uh...! Thank you... but, I'm fine.
 I don't want to cancel them."
@@ -67,12 +68,13 @@ So there's no way you could choose one."
 ...But, I wonder if I'll be able to...?"
 0000000000000,プロデューサー,"今はわからない
 でも今度は、俺も一緒に探すから","I don't know that now.
-But I'll help you find it this time."
+But I'll help you figure it out."
 0000000000000,プロデューサー,一人きりで頑張るよりはずっとマシなはずだ,That should be better than doing it all on your own.
 1003001040170,めぐる,"……えへへ、こんなことなら、
 もっと早くプロデューサーに相談すればよかったな","...Ehehe, if I knew this is how it would be, I would've told you earlier."
 0000000000000,プロデューサー,"よし。じゃあめぐるもちゃんと納得できるように、
-二人でいろいろと考えてみるか！","Alright. In order for you to be able to fully understand how you can do it, let's think up some different things together!"
+二人でいろいろと考えてみるか！","Alright. Let's think about it together so you know
+what you can do!"
 1003001040180,めぐる,"うん！
 ……ありがとう、プロデューサー！","Yeah!
 ...Thanks, Producer!"

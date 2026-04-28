@@ -1284,7 +1284,7 @@ extraCampaign.application.applyErrorDialog.title,応募エラー,Entry Error
 extraCampaign.application.applyResultDialog.comment,応募券の使用先設定を保存しました\r\r抽選は応募期間終了時点での内容で処理されます,応募券の使用先設定を保存しました\r\r抽選は応募期間終了時点での内容で処理されます
 extraCampaign.application.applyResultDialog.notice,応募期間中はいつでも\r何度でも応募先を変更することができます,応募期間中はいつでも\r何度でも応募先を変更することができます
 extraCampaign.application.applyResultDialog.title,応募設定完了,Application Complete
-extraCampaign.application.applyTimeLimit,yyyy/mm/dd HH:MMまで,Until yyyy/mm/dd HH:MM
+extraCampaign.application.applyTimeLimit,yyyy/mm/dd HH:MMまで,yyyy/mm/dd HH:MM
 extraCampaign.application.applyTimeLimitLabel,応募期間,Application Period
 extraCampaign.application.heading,応募券の使用先を選んでください,応募券の使用先を選んでください
 extraCampaign.application.notice,必ず応募規約をお読みいただき\r内容に同意した上でご応募ください,必ず応募規約をお読みいただき\r内容に同意した上でご応募ください
@@ -1294,7 +1294,7 @@ extraCampaign.application.receiveTicketsErrorDialog.text,受取期間が終了�
 extraCampaign.application.receiveTicketsErrorDialog.title,応募券受け取りエラー,応募券受け取りエラー
 extraCampaign.application.receiveTicketsResultDialog.text,%{ticketName}を\r%{ticketCount}枚獲得しました,%{ticketName}を\r%{ticketCount}枚獲得しました
 extraCampaign.application.receiveTicketsResultDialog.title,応募券受け取り,応募券受け取り
-extraCampaign.application.receiveTimeLimit,yyyy/mm/dd HH:MMまで,Until yyyy/mm/dd HH:MM
+extraCampaign.application.receiveTimeLimit,yyyy/mm/dd HH:MMまで,yyyy/mm/dd HH:MM
 extraCampaign.application.receiveTimeLimitLabel,受取期間,Receive Period
 extraCampaign.application.receivedNotice,受け取り済,Received
 extraCampaign.application.ticketCountUnit,枚,x
@@ -2427,7 +2427,7 @@ limitedFesTop.receiveRewardDialog.labelLeague,・リーグ報酬,・League Rewar
 limitedFesTop.receiveRewardDialog.labelRanking,・ランキング報酬,・Ranking Rewards
 limitedFesTop.resumeDialog.title,フェス再開,Resume Fes
 limitedFesTop.resumeDialog.text,進行中のフェスがあります。\nフェスを再開しますか？,There's a Fes in progress.\nResume current Fes?
-limitedFesTop.resultAnnounce.period,yyyy年 m月  マスターズフェス,yyyy年 m月  Masters Fes
+limitedFesTop.resultAnnounce.period,yyyy年 m月  マスターズフェス,yyyy年 m月  マスターズフェス
 limitedFesTop.resultAnnounce.staffComment.first,１位獲得、おめでとうございます～♪\nずっと努力を続けてきたからこその結果ですね～\nさすがです、プロデューサーさん,"Congratulations on getting first～♪\nThis is the result of your efforts～\nAmazing job, Producer-san!"
 limitedFesTop.resultAnnounce.staffComment.higher,１位まであともう少しでしたね～……\n次のフェスではさらに上を目指せるように、\n私もサポート頑張りますので～,You were so close to first～...\nI'll do my best to keep supporting you\nso you can aim even higher next Fes～
 limitedFesTop.resultAnnounce.staffComment.middle,お疲れ様でした\nプロデューサーさんなら、次はもっと上を目指せます\n一緒に頑張っていきましょうね～,"Good work out there.\nI'm sure you can aim even higher, Producer.\nLet's work hard together～"
@@ -2796,8 +2796,6 @@ countUpCampaign.banner.gashaTicket.tail,10連,10 Pulls
 temp.supportEvent,サポートイベント,Support Event
 temp.produceEvent,プロデュースイベント,Produce Event
 announce.information,お知らせ,Notice
-common.plusSkill.conditionSeparator,\[条件:(.*)\]$,\[条件:(.*)\]$
-common.exchangeSkill.conditionSeparator,\[条件:(.*)\]$,\[条件:(.*)\]$
 concert.passiveSkillDetailListDialog.extendedSuffix,[延長],[Extend]
 concert.statusEffect.additionalEffectDetail.tag,[追加],[Extra]
 deck.swapSameURRarityWarning,URアイドルは1人のみ編成が可能になります\nユニット内のURアイドルが外れてしまいますが\n本当によろしいですか？,Only 1 UR Idol can be in the unit.\nThe UR Idol in the unit will be removed.\nAre you sure?
@@ -2810,7 +2808,7 @@ fes.trophy.organizationPop.title,アイドル編成回数の確認,アイドル�
 fes.honor.editConfirmPopTitle,記事の送信,Submit Article
 fes.honor.editConfirmPopMessage,グレードフェスの記事を確定し\n善村記者に送信します,Finalize GradeFes article and\nsend it to reporter Yoshimura.
 fes.honor.editConfirmPopInformation,これ以降、記事の編集はできません,No longer able to edit the article.
-fes.honor.honorEditTimeLimit,yyyy/mm/dd HH:MM まで,yyyy/mm/dd HH:MM まで
+fes.honor.honorEditTimeLimit,yyyy/mm/dd HH:MM まで,yyyy/mm/dd HH:MM
 fes.honor.honorUserRankText,%{userRank}位獲得!,Reached %{userRank}!
 fes.honor.honorNicknameCommentNone,(なし),(none)
 fes.honor.honorCheckComment,いつもお世話になっております。\n敏腕通信社『週刊イチオシ』編集部の善村です。\n\nこの度のグレフェスでのご活躍を拝見いたしました！\nその素晴らしい活躍を記事にさせていただきたく、\n誠に勝手ながら紙面イメージをお送りいたします。\n\nぜひ内容をご確認いただき、ご意見をお聞かせください。\nご返信いただける期日は、以下の通りです,いつもお世話になっております。\n敏腕通信社『週刊イチオシ』編集部の善村です。\n\nこの度のグレフェスでのご活躍を拝見いたしました！\nその素晴らしい活躍を記事にさせていただきたく、\n誠に勝手ながら紙面イメージをお送りいたします。\n\nぜひ内容をご確認いただき、ご意見をお聞かせください。\nご返信いただける期日は、以下の通りです
@@ -2993,14 +2991,14 @@ awakeIdol.confirm.title,メモリーブースト,Memory Boost
 awakeIdol.confirm.comment,メモリーチャームを消費して\n%{name}を\nメモリーブーストします,メモリーチャームを消費して\n%{name}を\nメモリーブーストします
 awakeIdol.confirm.notice1,メモリーチャームが不足しています,メモリーチャームが不足しています
 awakeIdol.confirm.notice2,前段階のメモリーブースト完了後、メモリーブーストが可能です,前段階のメモリーブースト完了後、メモリーブーストが可能です
-awakeIdol.awakeStepResultDialog.title,解放,解放
+awakeIdol.awakeStepResultDialog.title,解放,Unlock
 awakeIdol.awakeStepResultDialog.header,%{name}を\n%{awakeStep}段階メモリーブーストしたため,%{name}を\n%{awakeStep}段階メモリーブーストしたため
 awakeIdol.awakeStepResultDialog.footer,が解放されました,が解放されました
 awakeIdol.awakeStepResultDialog.rewardSkill,メモリーブーストスキル%{releasedStep}段階目,メモリーブーストスキル%{releasedStep}段階目
 awakeIdol.awakeStepReward.skill_shorten,スキル解放,Unlock Skill
-awakeIdol.awakeStepReward.skill,メモリーブースト\nスキル解放,メモリーブースト\nスキル解放
+awakeIdol.awakeStepReward.skill,メモリーブースト\nスキル解放,Memory Boost\nSkill Unlock
 awakeIdol.awakeStepReward.form_change,メモリースタイル,Memory Style
-awakeIdol.awakeStepReward.status,基礎能力UP＋%{value},Base Stat UP +%{value}
+awakeIdol.awakeStepReward.status,基礎能力UP＋%{value},Base Stat +%{value}
 awakeIdol.characterAwakeRewardConditionDialog.title,報酬詳細,Reward Details
 awakeIdol.characterAwakeRewardConditionDialog.releaseConditionName,%{name}の,%{name}'s
 awakeIdol.characterAwakeRewardConditionDialog.rewardStatus,%{name}の基礎能力UP,Increase %{name}'s Base Stats
@@ -3026,8 +3024,8 @@ gameEvent.hitAndBlowEvent.endingCommuUnlockPop.text,以下のコミュを解放�
 gasha.scoutGasha.useConfirmation.multiDescription,セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？,セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？
 gasha.whisperVoiceIdolGetPop.title,ささやきボイス付きアイドル加入,ささやきボイス付きアイドル加入
 gasha.whisperVoiceIdolGetPop.text,%{idolName}\nが加入したため\n%{title}\nが解放されました\n\nサポートアイドル詳細で再生が可能です,%{idolName}\nが加入したため\n%{title}\nが解放されました\n\nサポートアイドル詳細で再生が可能です
-header.awakeIdolList,メモリーブーストアイドル選択,メモリーブーストアイドル選択
-header.awakeIdolDetail,メモリーブースト,メモリーブースト
+header.awakeIdolList,メモリーブーストアイドル選択,Select Idol to Memory Boost
+header.awakeIdolDetail,メモリーブースト,Memory Boost
 homeDeck.illustDescriptionLabelText.plain,私服衣装,Regular Outfit
 homeDeck.illustDescriptionLabelText.concert,ライブ衣装,Live Outfit
 homeDeck.illustDescriptionLabelText.idol_illust,特別イラスト  %{stage}/%{maxStage},特別イラスト  %{stage}/%{maxStage}

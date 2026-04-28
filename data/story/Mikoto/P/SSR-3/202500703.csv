@@ -1,0 +1,93 @@
+id,name,text,trans
+0000000000000,プロデューサー,…………よし,......Alright.
+0000000000000,プロデューサー,"終わった……
+少し休憩するか","Finally done...
+Time for a quick break."
+0000000000000,プロデューサー,……外、天気良さそうだな,Weather looks really good outside.....
+0000000000000,プロデューサー,…………,......Alright.
+0000000000000,プロデューサー,"確か冷蔵庫に
+ペットボトルのコーヒーが──……","If I recall correctly, there should be some
+bottled coffee left in the fridge......"
+2025007030010,美琴,"……あれ
+プロデューサー？","...Huh.
+Is that you, Producer?"
+2025007030020,美琴,どうしたの？,What brings you here?
+0000000000000,プロデューサー,あ…………,Ah...
+0000000000000,プロデューサー,美琴、ここに居たんだな,"So you're chilling up here, Mikoto."
+2025007030030,美琴,"うん
+何か用だった？","Yep.
+Need me for something?"
+0000000000000,プロデューサー,"いや、仕事が一区切りついたから
+少し休憩しようと思ってさ","Nope, just wrapped up some work, so I
+figured I could use a quick break."
+0000000000000,プロデューサー,"窓の外、すごい良い天気だったから
+外の空気でも吸おうかと思って","The weather outside the window looked perfect,
+so might as well grab some fresh air while I'm at it."
+2025007030040,美琴,"そうなんだ
+お疲れ様","I see. 
+Thanks for the hard work as usual."
+0000000000000,プロデューサー,……美琴は？,"...How about you, Mikoto?"
+0000000000000,プロデューサー,"どうしたんだ？
+こんなところで",What are you doing all the way up here?
+0000000000000,プロデューサー,何かあったのか？,Did something happen to you?
+2025007030050,美琴,……ううん,...Nope.
+2025007030060,美琴,"ただ少し、考え事をしながら
+空を見ていたの","I was just staring up the sky while
+being a bit lost in thought."
+2025007030070,美琴,"あの飛行機雲、どこまで行くんだろう
+……北海道とかかな","I wonder how long that contrail goes on...
+Maybe it stretches all the way up to Hokkaido."
+0000000000000,プロデューサー,"…………
+珍しいな","......
+This is quite unusual for you."
+2025007030080,美琴,……え？,...Huh?
+0000000000000,プロデューサー,美琴がそんなふうにしてるの,"I mean, Mikoto of all people, pondering like that."
+2025007030090,美琴,"……プロデューサーからは、普段
+何も考えていないように見えているの？","Producer, do you see me as the type..."
+2025007030100,美琴,私って,...who doesn't usually think about anything at all?
+0000000000000,プロデューサー,"ああ、いや
+そうじゃなくて","Ahh, no!
+That's not what I meant."
+0000000000000,プロデューサー,"なんていうか……
+美琴は立ち止まって考えるっていうより","How do I put this...?
+Rather than standing still here..."
+0000000000000,プロデューサー,"考えている時こそ、
+練習に打ち込んでるって感じがしてたからさ","You seem like the kind of person who will
+sink hours into practice to sort out your
+thoughts, Mikoto."
+2025007030110,美琴,…………,......
+0000000000000,プロデューサー,"何かを考えている時は大体
+楽譜だったり歌詞だったり台本だったり",It's just that when you're lost in thought...
+0000000000000,プロデューサー,そういうものに向き合ってる感じで……,"It's usually when you tackle new music, lyrics,
+script, or something similar."
+2025007030120,美琴,……そうかもしれないね,...I guess that's true.
+2025007030130,美琴,"そう考えると
+時間、もったいなかったかも","Putting it like that makes me think
+that I might be wasting my time here."
+0000000000000,プロデューサー,"いや
+そんなことはないよ","Nah, definitely not."
+0000000000000,プロデューサー,立ち止まって、休憩するのも大事だぞ？,"Standing completely still and getting
+some rest are equally important, you know?"
+0000000000000,プロデューサー,"俺だってそのために
+ここに来たんだし","I mean, that's why I'm here on the roof
+in the first place."
+2025007030140,美琴,……そうかな,......You think so?
+2025007030150,美琴,"ごめんね
+休憩の邪魔しちゃって","Sorry.
+I ruined your break time here."
+2025007030160,美琴,……私はもう練習に行こうかな,...I should probably get back into practice now.
+0000000000000,プロデューサー,──美琴,......Mikoto.
+0000000000000,プロデューサー,"ここで一人で
+何を考えていたんだ？","What got you lost in thought, all alone here?"
+2025007030170,美琴,………………,.........
+0000000000000,プロデューサー,"ああ、いや
+もちろん美琴が話したくなければ──……","Oh, no, I mean, it's totally okay if you
+don't wanna talk about it, Mikoto—"
+2025007030180,美琴,……よく、わからないの,"......I'm not really quite sure of it, myself."
+0000000000000,プロデューサー,え……？,Huh...?
+2025007030190,美琴,"ただ、あの飛行機雲
+どこまで続いているのかなって","Maybe I was just wondering how far
+that contrail will keep on stretching."
+2025007030200,美琴,……ただ、そう考えていただけかも,"...Maybe, that was the only thought puzzling me."
+info,produce_events/202500703.json,
+Translator,pygoscelis,

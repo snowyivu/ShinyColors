@@ -1,0 +1,102 @@
+id,name,text,trans
+3024009020010,にちか,タンタンタンタン────,"Tan, tan, tan, tan—"
+3024009020020,にちか,────タタタン、タタタタ……ですよね,"—Tatatan, tatatata...
+That's how it goes, right?"
+3024009020030,美琴,タンタンタンタン,"Tan, tan, tan, tan."
+3024009020040,美琴,タタタッ、タタタタ……,"Tatata, tatatata..."
+3024009020050,にちか,"……
+タタタッ、タタタタ……？","...?
+Tatata, tatatata...?"
+3024009020060,にちか,……あ,...Ah.
+3024009020070,にちか,────タタタッ……タタタタ……か,"...It's, tatata, tatatata, huh......"
+3024009020080,美琴,"うん
+踏み替えの解釈が少し違うかもしれない","Yep. Our takes about the foot switch
+timing might be slightly different."
+3024009020090,美琴,"タンタンタンタン
+タタタタ、タタタッ……","Tantantantan.
+Tatatata, tatata..."
+3024009020100,にちか,タンタンタンタン,Tantantantan.
+3024009020110,にちか,タタタタ、タタタッ……！,"Tatatata, tatata...!"
+3024009020111,にちか＆美琴,────,———!
+3024009020120,にちか,"解決です……！
+すみません、確認が甘かったです……","Problem solved...!
+I'm sorry, I should've checked better..."
+3024009020130,美琴,うん,No prob.
+3024009020140,にちか,明日までに調整してきま────,I'm gonna keep trying it until tomorro—
+3024009020150,にちか,────あれっ,"—Wait, what?"
+0000000000000,ホームアナウンス,まもなく、３番ホームに普通列車────,"An incoming local train will be arriving
+at Platform 3 in a moment—"
+3024009020160,美琴,……？,...Hm?
+3024009020170,にちか,"あの、すみません……
+美琴さんもこっちのホームでしたっけ？","Um, sorry that I'm only asking now but...
+Is this the platform you're getting on,
+Mikoto-san?"
+3024009020180,美琴,……あ,Ah......
+3024009020190,美琴,違うの？,Isn't this it?
+3024009020200,にちか,……！,Ah...!
+3024009020210,にちか,"い、いえっ
+合ってるかもですけど、乗り換えってどこでされますっけ？","N-No, I mean, it might be the right one,
+but, which line do you transfer to again...?"
+3024009020220,美琴,……,......?
+3024009020230,美琴,どこだろう……,I don't know where...
+3024009020240,にちか,えっ、あの────,"Huh?!
+Um—"
+3024009020250,美琴,……あんまり乗らないから,"...I don't usually ride trains, so."
+3024009020260,美琴,なんとなく、ついてきちゃったの,"I just somehow, ended up following you."
+3024009020270,にちか,…………！,......!
+3024009020280,にちか,────あ、あのっ、それじゃ……！,"—U-Um, well then...!"
+3024009020290,美琴,うん,Okay.
+3024009020300,にちか,美琴さんは１番線です！,"You should go to platform 1, Mikoto-san!"
+3024009020310,美琴,うん,Got it.
+3024009020320,にちか,"……すみません、なんていうかこんな
+見送っていただくみたいなこと…………！","...I'm sorry that you kinda, had to walk so much,
+you're even sending me off like this...!"
+3024009020330,美琴,……乗らないと、閉まるんじゃない？,"...Won't you get left behind
+if you don't hop in now?"
+3024009020340,にちか,"あっ、はい……！
+すみません、ありがとうございます……！","Ah, right...!
+Sorry! Thank you so much...!"
+3024009020350,にちか,……,......Ah...!
+3024009020360,美琴,……,......
+3024009020370,にちか,"……
+ど、どうもですー……ありがとうございますー……！","....ah...! good bye...!
+thank you so much for today again......!"
+0000000000000,美琴,……,......
+3024009020390,にちか,……,"......
+(the train's not moving...)"
+3024009020400,にちか,──────,"————
+(ah, you don't need to wave me goodbye! just go
+ahead, please! sorry for the trouble!!)"
+0000000000000,美琴,……,......
+3024009020420,にちか,──────,"————
+(wah waah, she's still waving at me...! huh?!
+b-byebye to you, too......)"
+3024009020430,にちか,……,"......
+(wait, the train's not leaving at all, like, what?
+they're totally blessing me here...)"
+0000000000000,美琴,……,......
+3024009020450,にちか,──────,"————
+(waaagh, i'm really so, so, sorry to keep you
+waving like that for so lon—)"
+3024009020460,にちか,……,......
+0000000000000,美琴,……,......
+3024009020480,にちか,──────,————
+3024009020490,にちか,"────────
+お疲れ様です……バイバイです……","————
+thank you so much for today...!
+byebye......!"
+3024009020500,にちか,──────ふふっ,————ehehe...!
+3024009020510,にちか,……あ,...Ah.
+3024009020520,にちか,花びらついてる,I've got a petal on me.
+0000000000000,美琴,どうして、公園でごはんを食べるの,"Why exactly, do we have to eat outside in a park?"
+3024009020540,にちか,そっか,I see.
+3024009020550,にちか,満開だっけ、今,"Today's in full-bloom, huh."
+3024009020560,にちか,……おさらいしよ,...Time to review today's lesson!
+3024009020570,にちか,"タンタンタンタン
+タタタタ、タタタッ……","Tan, tan, tan, tan.
+Tatatata, tatata......"
+3024009020580,にちか,"タンタンタンタン
+タタタタ、タタタッ────","Tan, tan, tan, tan.
+Tatatata, tatata......!"
+info,produce_events/302400902.json,
+Translator,pygoscelis,

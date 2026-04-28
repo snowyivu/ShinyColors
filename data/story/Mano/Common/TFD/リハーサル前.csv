@@ -1,0 +1,17 @@
+id,name,text,trans
+6001002010010,真乃,たい焼き……,Taiyaki...
+0000000000000,プロデューサー,"真乃、どうした……？
+リハーサルが終わったら、また買ってこようか？","What's up, Mano...?
+Want me to buy you one after rehearsals are done?"
+6001002010020,真乃,"あ、いえっ
+そうじゃないんですっ","Ah, no...
+It's not like that..."
+6001002010030,真乃,"プロデューサーさんの応援の形だなって、
+思い出していて──……","I just remembered that was one of your ways to support me,──……"
+6001002010040,真乃,"……背中を押してもらえた気がしているんです
+だから──","...I feel like you helped pushed me forward until now with things like that.
+That's why...──"
+6001002010050,真乃,"精一杯、やってみますね
+プロデューサーさん","Producer-san, I'll do my best, okay?"
+info,produce_events/600100201.json,
+Translator,bike,

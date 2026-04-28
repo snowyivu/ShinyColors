@@ -1,0 +1,145 @@
+id,name,text,trans
+2025007040010,美琴,………………,......
+0000000000000,プロデューサー,"美琴ー……って
+あれ？","Mikotooo—
+...Wait a minute."
+2025007040020,美琴,……プロデューサー,"...!
+Producer."
+0000000000000,プロデューサー,"いや、様子見に来たんだ
+差し入れついでに","Oh, I just dropped by to check on you.
+Brought some refreshments too."
+0000000000000,プロデューサー,"いつも通り気が付かないかなと思って
+声かけようとしたんだけど……","I thought you wouldn't notice me as usual
+so I was ready to raise my voice, but..."
+0000000000000,プロデューサー,"丁度休憩中だったか？
+それとも、具合でも悪いとか──……","Aren't you having an actual break here?
+...Don't tell me, do you feel sick—"
+2025007040030,美琴,"ううん、大丈夫
+……考え事中だったの","Nope, I'm good. 
+...Just lost in thought."
+0000000000000,プロデューサー,"……そうか
+また考え事か","...I see.
+Lost in thought again, huh."
+0000000000000,プロデューサー,"じゃあ、邪魔にならないように
+俺はもう行ったほうがいいかな","It'll probably be best if I head out
+now so I don't interrupt you, then."
+0000000000000,プロデューサー,これだけ、置いていくよ,I'll just leave these here.
+2025007040040,美琴,"あ……
+待って、プロデューサー","Ah...
+Hold on, Producer."
+2025007040050,美琴,少し、話してもいい？,Can we talk for a bit?
+0000000000000,プロデューサー,………………,......
+2025007040060,美琴,この間、トレーナーに聞いてみたの,"I asked my trainer about what
+we discussed the other day."
+2025007040070,美琴,"どうやったらパフォーマンスに活かせるような
+表現力を磨けるかなって","About how I can improve my expressiveness
+to weave them into my performances."
+2025007040080,美琴,"何か良さそうなレッスンがあれば
+受けたいと思ってるって伝えて","Told her that I'm interested in taking
+on any lesson that'll help me work on it."
+0000000000000,プロデューサー,うん,Uh-huh.
+2025007040090,美琴,そしたら逆に質問をされて……,"But then she answered me
+with a question in return......"
+2025007040100,美琴,"──『美琴ちゃんは、
+どういうものを表現したいのか』って","......""What do you want to express in the
+first place, Mikoto-chan?"" She said."
+2025007040110,美琴,"…………
+すぐに答えることができなかった",...I couldn't give her an answer right away.
+0000000000000,プロデューサー,…………,......
+2025007040120,美琴,"何を表現したらいいのか
+……したいのか────……","What should I express...
+or even what exactly do I want to express..."
+2025007040130,美琴,………………,......
+0000000000000,プロデューサー,そうだったのか,So that's how it went.
+select,,なるほどな,"I get
+what's going
+on now."
+select,,いいんじゃないか,"Isn't that
+fine for
+now?"
+select,,もっと考えていこう,"Let's think
+deeper about
+this."
+0000000000000,プロデューサー,"それで、何か答えが出たのか？
+美琴の中で","So, have you found any answer
+of your own yet, Mikoto?"
+2025007040140,美琴,…………ううん,......Nope.
+0000000000000,プロデューサー,そうか,I see.
+0000000000000,プロデューサー,"……じゃあ、一旦
+考えるのも休憩にするのはどうかな","...Well, how about taking a break
+from all that thinking for now?"
+2025007040150,美琴,え…………,Huh...?
+0000000000000,プロデューサー,"美琴が今まで培ってきた
+歌やダンスの技術はすごい","The singing and dancing techniques you've
+honed up till now are undoubtedly amazing,
+Mikoto."
+0000000000000,プロデューサー,"ちょっとやそっとじゃ、誰も追いつかない
+ものになってると思うよ","I think you've hit the point where nobody can
+match up to you without any serious effort."
+2025007040160,美琴,"…………
+……そうかな","......
+...You really think so?"
+0000000000000,プロデューサー,"うん
+だからさ","Yeah.
+That's why..."
+0000000000000,プロデューサー,焦らなくてもいいんじゃないか,You don't need to rush yourself for an answer.
+0000000000000,プロデューサー,"今までやってきたことが
+間違っていたわけじゃないんだ","It doesn't mean at all that everything you've
+dedicated yourself to has been a mistake."
+2025007040170,美琴,…………,......
+0000000000000,プロデューサー,"ほら、休憩にしよう
+今日の差し入れ、はづきさんのおすすめなんだ","Come on, let's take a break.
+Today's refreshments was brought to you
+by Hazuki-san's special recommendation."
+2025007040180,美琴,…………うん,......Okay.
+2025007040190,美琴,"ありがとう
+プロデューサー","Thanks, Producer."
+0000000000000,プロデューサー,すぐに答えが出なくてもさ,"You don't need to come up
+with an answer right away."
+2025007040200,美琴,え…………,"......
+Huh...?"
+0000000000000,プロデューサー,まずはそれを、じっくり考えていくっていうのも," First of all, I think the very fact
+that you need to mull over this..."
+0000000000000,プロデューサー,"多分、表現力を磨くってことに
+繋がってるんだと思うよ","...is a part of the process that's probably
+needed to hone your expressiveness."
+2025007040210,美琴,……そうかな,...You think so?
+0000000000000,プロデューサー,"それを探しながら、
+今の美琴の気持ちを表現していけばいいんじゃないか","While you're still searching for an answer,
+why not just express what you currently feel?"
+0000000000000,プロデューサー,"答えが見つからないなら、
+その気持ちをそのまま表現したっていい","And if you end up not finding any, it's definitely
+alright even if you just continue expressing
+your feelings."
+2025007040220,美琴,"…………
+私の……気持ち……","......My...
+Feelings..."
+0000000000000,プロデューサー,うん,Yup.
+0000000000000,プロデューサー,"それに、答えはもう
+美琴自身の中にあるのかもしれないじゃないか","Besides, isn't the answer you're looking just
+probably hiding within yourself, Mikoto?"
+0000000000000,プロデューサー,まだ、気が付いてないだけでさ,It's just that you haven't noticed it yet.
+2025007040230,美琴,…………うん,......Yep.
+2025007040240,美琴,そうだったら、いいけど,...Would be nice if that's the case.
+0000000000000,プロデューサー,答えが、見つかるかはわからないけどさ,"I'm not sure whether you'll find an answer, but..."
+2025007040250,美琴,え…………,Huh......?
+0000000000000,プロデューサー,"何を見て、良いと思うか……とか
+何に感動するかなんて","What exactly is it that you need to express for
+people to think positively, or be inspired by you......"
+0000000000000,プロデューサー,人によっても、その時によっても違う,"I think that's something that greatly
+varies depending on the person."
+2025007040260,美琴,…………,......
+0000000000000,プロデューサー,"だから、きっと誰かを感動させるっていうことに
+正解は無いんじゃないかな","That's why I believe that there might not be
+a single true answer as to what specifically
+inspires a person."
+2025007040270,美琴,じゃあ……────,...Then—
+0000000000000,プロデューサー,"だからこそ、美琴自身が
+それを考え続けていくしかない","And that's exactly why it's a question that
+you should keep on asking yourself, Mikoto."
+0000000000000,プロデューサー,何を表現したいのか,What is it that you want to express?
+2025007040280,美琴,…………,......
+2025007040290,美琴,"…………
+そうかもしれないね",...You might be right.
+info,produce_events/202500704.json,
+Translator,pygoscelis,

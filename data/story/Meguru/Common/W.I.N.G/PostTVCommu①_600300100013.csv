@@ -1,0 +1,31 @@
+id,name,text,trans
+6003001000110010,めぐる,プロデューサー！　見ててくれたっ？,Producer! Were you watching?
+6003001000110020,めぐる,"わたしテレビに出ちゃったんだよ！？
+すごいよねっ、夢みたい！","I was actually on TV!?
+That's amazing, it's like a dream!"
+0000000000000,プロデューサー,"もちろん
+めぐるの晴れ舞台、しっかり見てたよ","It was Meguru's big moment.
+Of course I watched it closely."
+6003001000110030,めぐる,"えへへー、嬉しいなぁ！
+……あっ、そうだ！　友達にも連絡しなくちゃ！","Ehehe, I'm so happy!
+...Ah, right! I have to let my friends know, too!"
+0000000000000,プロデューサー,みんなきっと喜んでくれると思うぞ,I'm sure they'll all be happy for you.
+0000000000000,プロデューサー,"もっともっとテレビに出られるようになって
+たくさん観てもらわないとな","You need to appear on TV even more, so more people
+can watch you!"
+6003001000110040,めぐる,"うん！　でもそうなったら、
+毎日連絡で大忙しになっちゃうねぇ","Yeah! Oh, but if that happens, won't they be swamped
+with my messages?"
+0000000000000,プロデューサー,出演の度に、友達みんなに連絡するつもりか……？,"Are you planning to text all your friends every single
+time you appear on TV...?"
+6003001000110050,めぐる,"そうだよ？　あ、でも、いっぱい出るようになったら
+さすがに迷惑かなぁ……？　どうだろう……？","Obviously! Ah, but... if I'm on TV a lot, won't that
+become annoying though?..."
+0000000000000,プロデューサー,"まぁ、先のことはともかく。今日のところは頑張ったんだ、
+みんなにしっかり報告しておけばいい","Well, no need to worry about that right now. You did
+your best today, so make sure to let everyone know."
+6003001000110060,めぐる,"うんっ！
+そうするね！","Okay!
+I'll do that!"
+info,produce_communication_televisions/600300100013.json,
+Translator,Hitomi,

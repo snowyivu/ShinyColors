@@ -1,0 +1,98 @@
+id,name,text,trans
+3025009010010,美琴,──あれ……,—Huh...?
+3025009010020,美琴,これ…………,Isn't this...
+3025009010030,美琴,"ノート……
+と、シュシュ……","A notebook...
+...and a scrunchie."
+3025009010040,美琴,忘れ物……？,Forgotten belongings...?
+3025009010050,千雪,"あ……！
+それ──……","Ahh...!
+That's—"
+3025009010060,美琴,…………,......!
+3025009010070,美琴,……このノート？,...This notebook's yours?
+3025009010080,千雪,あっ……ううん,"Oh, not that one..."
+3025009010090,千雪,"そっちのシュシュの方をね、
+探してたの",I was looking for that scrunchie over there.
+3025009010100,美琴,……そうなんだ,...I see.
+3025009010110,美琴,"ここにあったから
+──はい","It was just on the table.
+—Here you go."
+3025009010120,千雪,"ありがとう
+まさか事務所に置いてきちゃってたと思わなくて","Thank you! I wouldn't have guessed
+that I left it here."
+3025009010130,美琴,"……うん
+見つかってよかったね","...No prob.
+Good thing you found it."
+3025009010140,美琴,"なかなか無いデザインだし
+物も良さそう","It's got quite a rare design,
+and seems high-quality too."
+3025009010150,千雪,…………！,......!
+3025009010160,美琴,……？,...?
+3025009010170,千雪,"ふふっ
+ありがとう","Hehe.
+Thank you!"
+3025009010180,千雪,これね、私が作った物なんだ,"You see, I made this myself."
+3025009010190,美琴,"……そうなの？
+こういうのって自分で作れる物なんだ","...Really? I didn't know those
+can be made by hand."
+3025009010200,美琴,……すごいね,...I'm impressed.
+3025009010210,千雪,ふふっ、ほめられちゃった,"Hehe, I got praised by Mikoto-san!"
+3025009010220,千雪,"すごいって程じゃなくて
+ただの趣味なんだけど","It's really nothing impressive, because it's
+just a hobby of mine, but..."
+3025009010230,千雪,そう言ってもらえて嬉しいな,I'm really glad to hear a compliment from you.
+3025009010240,美琴,………………,......
+3025009010250,美琴,"衣装とかでも使えそう
+ステージ用の","I think you could also use that with your outfits.
+For stage performances."
+3025009010260,千雪,え……？,Huh...?
+3025009010270,美琴,"合いそう
+ユニットのコンセプトに",Matches the aesthetic of your unit.
+3025009010280,美琴,アルストロメリア,"With Alstroemeria's concept, I mean."
+3025009010290,千雪,……そう見える？,....You think so?
+3025009010300,千雪,"ふふっ
+なんだか照れちゃうなぁ","Hehe, now I'm kind of getting embarrassed."
+3025009010310,美琴,"……？
+どうして","...?
+Why?"
+3025009010320,千雪,"そんなに褒めてもらえると思わなかったっていうのも
+あるんだけど","Getting praised so much for my
+own work is one thing, but..."
+3025009010330,千雪,"私たちのユニットのことも
+知っててくれてるんだなって思って","You went out of your way to learn about
+our unit too, so I can't help feeling that way."
+3025009010340,美琴,それは……,Well...
+3025009010350,美琴,"同じ事務所のユニットのことだし
+普通じゃないかな","Isn't that just normal?
+We belong to the same agency, after all."
+3025009010360,千雪,…………,......
+3025009010370,美琴,……そういえば,"...Anyways,"
+3025009010380,美琴,"こっちのノートは
+……違うんだっけ？","You said that...
+this notebook isn't yours, right?"
+3025009010390,千雪,"うん
+それは私のじゃないみたい","Yup.
+That one's not mine."
+3025009010400,千雪,名前とかは書いてない？,Isn't there a name written on it?
+3025009010410,美琴,"ううん
+まだ中は見ていないんだけど","Nope.
+Haven't looked in it yet, though."
+3025009010420,千雪,"じゃあ、誰かの忘れ物かも……
+はづきに渡しておこうか？","So it's likely someone else's lost item...
+Should I hand it over to Hazuki?"
+3025009010430,美琴,え……いいの？,"Huh...?
+Is that okay with you?"
+3025009010440,千雪,"気にしないで
+この後ちょうど約束してるの","No worries, we have plans
+to meet up in a bit, anyway."
+3025009010450,美琴,……そうなんだ,...I see.
+3025009010460,美琴,…………,......
+3025009010470,千雪,……どうかした？,...Did I say something wrong?
+3025009010480,美琴,ううん、仲が良いんだね,"Nope.
+You two are sure close."
+3025009010490,千雪,……そう？,...You think?
+3025009010500,千雪,"同じ事務所にいるんだもん
+普通じゃないかな","Isn't that just normal?
+We belong to the same agency, after all."
+info,produce_events/302500901.json,
+Translator,pygoscelis,

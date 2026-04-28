@@ -351,6 +351,13 @@ snip snap shout,snip snap shout
 照らされて,Illuminated
 再び、満ちる,"Waxing, Once Again"
 自ら、満たす,"Waxing, On My Own"
+始める,it's starting
+足りない+70,not enough +70
+マーレイとリリア,murray and lilia
+足りないものは,what is not enough
+もっているもの,what i do have
+(たぶん）1+1,(probably) 1+1
+足りない(1.0),not enough (1.0)
 良い予感と悪い予感,Good & Bad Premonitions
 トラブル勃発！？,Trouble Arises?!
 始まる偶然,始まる偶然
@@ -1738,14 +1745,14 @@ I say,I say
 【分析】よりよい配信のやり方,(Analysis) How to make a good livestream
 【番外】よみ聞かせの時間です♪,(Extra) Storytime♪
 未知への高揚,Lifting into the Unknown
-刹那への違和感、芽生え,刹那への違和感、芽生え
+刹那への違和感、芽生え,A Sense of Unease Begins To Sprout
 見えぬ道筋,The Invisible Path
 その心、飽くことなし,Never tired of that heart
 昇華する探究,Finding the Best
-空の青さを知る者よ,空の青さを知る者よ
-悔しさを抱いてこそ,悔しさを抱いてこそ
-未だ見ぬものへ、共に,未だ見ぬものへ、共に
-やがて、海の広さを知る者よ,やがて、海の広さを知る者よ
+空の青さを知る者よ,You Who Knows The Blue Sky
+悔しさを抱いてこそ,Only When You Feel That Frustration
+未だ見ぬものへ、共に,Together Toward the Unknown
+やがて、海の広さを知る者よ,"One Day, You Who Knows The Vastness of the Sea"
 未知との遭遇,Encounter With the Unknown
 フライング・ガール,Flying Girl
 椅子と机の惑星,The Planet of Desks and Chairs
@@ -1792,6 +1799,11 @@ I say,I say
 見たかったのは何？,What did they want to see?
 動くのはいつ？,When will it move?
 効果的だったのはどれ？,Which one worked?
+ランドスケープ研究,Landscape Study
+裸足の姫君,The Barefoot Princess
+射撃手は風を読む,The Marksman Who Reads The Wind
+エバーグリーンの住人,The Evergreen Resident
+"384,400km","384,400km"
 目に入ったら止まらない,No stopping once it's seen
 真似すべきこと、そうでないこと,"What to imitate, or not"
 面白さのみで選ぶは……,Choosing just for the gag is...
@@ -2122,6 +2134,8 @@ chira chira,chira chira (flicker flicker)
 みなめさめ,All awaken
 なみのりふねのおとのよきかな ,To the beautiful sounds of a rippling boat
 かけ流しの旅,Flowing Spring Journey
+aka tsuki ,aka tsuki (red moon)
+王子は夜風と踊る,The Prince's Waltz With the Moonlit Breeze
 なりたいものなあに,なりたいものなあに
 想いはお砂糖づけ,想いはお砂糖づけ
 ガラスの嘘,ガラスの嘘
@@ -2256,6 +2270,9 @@ chira chira,chira chira (flicker flicker)
 違うから,There's No Comparison
 足下に天井,The Ceiling Beneath Your Feet
 ポップ'n pop,POP'n pop
+ひらく,Bloom
+準急五線語,"Local Trains, Staff Notation"
+ちる,Wilt
 不自然なboogie,strained boogie
 【’25VD】美琴・クッキー,['25VD] Mikoto's Cookies
 【'25VD】緋田美琴とのひととき,['25VD] A Moment with Mikoto
@@ -2368,6 +2385,9 @@ chira chira,chira chira (flicker flicker)
 アンフォルメル,Art Informel
 作品No.____,Artwork No.____
 美しき時代,A Beautiful Era
+めざまし色,Colors of Awakening
+あふれる,Overflowing
+ささやかな記念日,Day for A Small Celebration
 観測者の見る夢は,The observer's dream
 この歌は空へとけて,This song goes to the sky
 あなたは生きている,You are alive
@@ -2442,21 +2462,23 @@ chira chira,chira chira (flicker flicker)
 信頼度Lv.14ボイス,Trust Lv.14 Voice
 信頼度Lv.15ボイス,Trust Lv.15 Voice
 信頼度Lv.16ボイス,Trust Lv.16 Voice
-ホームボイス・キャスコレ(朝1),Home Voice・CastColle(Morning1)
-ホームボイス・キャスコレ(朝2),Home Voice・CastColle(Morning2)
-ホームボイス・キャスコレ(朝3),Home Voice・CastColle(Morning3)
-ホームボイス・キャスコレ(星1),Home Voice・CastColle(Noon1)
-ホームボイス・キャスコレ(昼2),Home Voice・CastColle(Noon2)
-ホームボイス・キャスコレ(昼3),Home Voice・CastColle(Noon3)
-ホームボイス・キャスコレ(夜1),Home Voice・CastColle(Night1)
-ホームボイス・キャスコレ(夜2),Home Voice・CastColle(Night2)
-ホームボイス・キャスコレ(夜3),Home Voice・CastColle(Night3)
-ホームボイス・キャスコレ(フリー),Home Voice・CastColle(Free)
+ホームボイス・キャスコレ（朝1）,Home Voice・CastColle (Morning1)
+ホームボイス・キャスコレ（朝2）,Home Voice・CastColle (Morning2)
+ホームボイス・キャスコレ（朝3）,Home Voice・CastColle (Morning3)
+ホームボイス・キャスコレ（昼1）,Home Voice・CastColle (Noon1)
+ホームボイス・キャスコレ（昼2）,Home Voice・CastColle (Noon2)
+ホームボイス・キャスコレ（昼3）,Home Voice・CastColle (Noon3)
+ホームボイス・キャスコレ（夜1）,Home Voice・CastColle (Night1)
+ホームボイス・キャスコレ（夜2）,Home Voice・CastColle (Night2)
+ホームボイス・キャスコレ（夜3）,Home Voice・CastColle (Night3)
+ホームボイス・キャスコレ（フリー）,Home Voice・CastColle (Free)
 【玉兎三星】 ボイス①,【玉兎三星】 ボイス①
 【玉兎三星】 ボイス②,【玉兎三星】 ボイス②
 【玉兎三星】 ボイス③,【玉兎三星】 ボイス③
 【サマーアイドル2025】 ボイス①,[Summer Idol 2025] Voice ①
 【サマーアイドル2025】 ボイス②,[Summer Idol 2025] Voice ②
+テーマボイス【強気な彼女役】,Theme Voice [Strong-willed Girlfriend]
+テーマボイス【新妻役】,Theme Voice [Newlywed]
 【櫻木 真乃】 誕生日ミニコミュ①,[Mano] Birthday Mini Commu ①
 【櫻木 真乃】 誕生日ミニコミュ②,[Mano] Birthday Mini Commu ②
 【櫻木 真乃】 誕生日ミニコミュ③,[Mano] Birthday Mini Commu ③

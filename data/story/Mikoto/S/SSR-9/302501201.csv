@@ -1,0 +1,139 @@
+id,name,text,trans
+3025012010010,美琴,────うん、わかった,"——Okay, got it."
+3025012010020,美琴,"今日の仕事はバラシになったんだね
+新しいスケジュールが決まったら、また連絡くれる？","Today's job got cancelled, huh?
+Can you call me back if they send
+an update on the new schedule?"
+3025012010030,美琴,"────それじゃ、切るね
+……うん、また","——Alright, I'll hang up now, then.
+...Yep, see you."
+3025012010040,美琴,……,......
+3025012010041,美琴,何しようかな……,What should I do for today...?
+3025012010050,美琴,……,......
+3025012010060,美琴,買い物……,Groceries...
+3025012010070,美琴,まずは、鶏肉……,First thing on the list is... chicken...
+3025012010080,美琴,……？,...?
+0000000000000,店員,"はーい、皆様、お待ちかねー！
+タイムセールのお時間ですよー！！","Everyoneeee, the big wait is oveeeeer!
+The flash sale is about to staaart!!"
+0000000000000,店員,"今日のタイムセールはドドンとお魚祭りだよー！
+刺身も切り身も干物も大盤振る舞いの大安売りだよー！","Today's sale features a seafood festival!
+We have tons of sashimi, fish fillets, and
+dried fish at crazy low prices!"
+3025012010090,美琴,タイムセール……,A flash sale...
+3025012010100,美琴,……,......
+0000000000000,買い物客１,"ちょっとお姉さん、
+そんなとこぼーっと突っ立ってないでよっ！","Hey, lady!
+Don't space out in the middle of the way!"
+0000000000000,買い物客２,買わないんなら、よってよって！,Scoot over if you're not gonna buy!
+3025012010110,美琴,あ、はい……,"Ah.
+Sorry..."
+0000000000000,店員,"マグロのサクがもうそろそろ、なくなりそうだよー！
+そこのお姉さん、どう？　お買い得ですよ～？","The tuna loins are running out fast, we're
+almost ouuut! Hey, why not take one home
+instead of just standing there, miss?"
+3025012010120,美琴,"あ……いえ
+私は大丈夫──","Ah, no thanks.....
+I'm goo—"
+0000000000000,買い物客１,それじゃ私もらうわー,"Gonna take one, then!"
+0000000000000,店員,はーい、毎度ありー！,"Here you gooo!
+Thanks for your patronage!"
+3025012010130,美琴,……,......
+0000000000000,店員,"はーい、刺身はこれにて売り切れでーす！
+皆様、引き続きお買い物をお楽しみくださいねー","Alriiight! The sashimis are all goooone! 
+Thank you and continue the rest of your
+shopping, everyoooone!"
+3025012010140,美琴,もう、ない……,Everything's already... gone......
+3025012010150,美琴,"（外国産と国産の違いは、なんとなくわかるけど……
+ブランド鶏の違いが、よくわからない……）","(I kind of understand the difference between
+local and imports, but I'm not really sure what's
+different between the brands themselves...)"
+3025012010160,美琴,……,......
+0000000000000,婦人,ちょっと、あなた,"Hey, you over there."
+3025012010170,美琴,……はい,...Yes?
+0000000000000,婦人,"あなた、普段、料理しないでしょう？
+一目見てわかりましたよ","You don't usually cook, do you? 
+I can tell with just one look at  your face."
+3025012010180,美琴,あ、はい……そうなんです,"Ah, yes...
+I don't."
+0000000000000,婦人,"腹に入れば同じなんだから
+なーんでもいいのよ、なんでも","It'll all end up in your stomach anyway,
+so anything you pick's gonna fine, really."
+3025012010190,美琴,"なんでも……
+じゃあ、これにします","Anything's good...?
+I'll go with this, then."
+0000000000000,婦人,ちなみに、今日は何をお作りになるの？,"What are you planning to make today,
+by the way?"
+3025012010200,美琴,筑前煮を作ろうかと,I'm thinking of making some chikuzenni.
+0000000000000,婦人,あら、いいじゃない,"My, sounds like a nice meal."
+0000000000000,婦人,"確か今日は、レンコンが安かったんじゃないかしら？
+────まだあるかしらね……ほら、確認しにいきましょ","If I recall correctly, the lotus roots might be
+on sale today... I wonder if they still have some...
+Come, let's go find them."
+3025012010210,美琴,はい……,Okay...
+0000000000000,婦人,"ごめんなさいねー
+なんか私、無理やり付き合わせちゃったかしら？","Sorry for the trouble. 
+I just kind of self-imposed and made
+you follow me all over the place, didn't I?"
+3025012010220,美琴,"いえ、そんなことは……
+楽しかったです","No, I didn't think it was a bother at all...
+I had fun."
+0000000000000,婦人,そう？　ならよかった,"Really?
+Good, then."
+0000000000000,婦人,────あのね、お姉さん……,"—Let me tell you something, young lady..."
+0000000000000,婦人,"偉そうに聞こえるかもしれないけど、
+ひとつだけ、いいかしら？","I know this might sound high-and-mighty,
+but let me just say this, okay?"
+3025012010230,美琴,はい,Go ahead.
+0000000000000,婦人,"料理は気持ち、なんて言うけど
+そんなのはやっぱり二の次、三の次だと思うの","Some people say that cooking's all about
+feelings, but... I'd say that's just second-most
+important thing, if not the third."
+0000000000000,婦人,美味しく食べられるものを作るのが一番よ,"The most important thing in cooking,
+is to make something delicious to eat."
+0000000000000,婦人,"だから、レシピ通りにね
+それ以上のことはしない方がいいわよ","And that's why you need to follow the recipe
+to a tee. Better avoid going extra or beyond
+what's written on it."
+3025012010240,美琴,はい、わかりました,"Okay, understood."
+0000000000000,婦人,"ふふっ、いろいろお話できて楽しかったわ～
+それじゃ、またね～","Fufu, chatting about all sorts of stuff
+was very fun! Well then, see you around～!"
+3025012010250,美琴,はい、また……,"Same here.
+See you around......"
+3025012010260,美琴,……,......
+3025012010261,美琴,帰ろう,Time to go home.
+3025012010270,にちか,あー、なんかめっちゃやな予感するー,"Ahhh!
+I just got a reaaally nasty feeling......"
+3025012010280,にちか,"この空気……絶対タイムセール終わってるじゃん……
+あー、負けた～……","The vibe here is different...
+The flash sale is definitely over now...
+Ahhhhh, I completely lost todaaay......"
+3025012010290,美琴,何に負けたの？,Who beat you?
+3025012010300,にちか,み、美琴さん……！,"Mi—
+Mikoto-san...?!?!"
+3025012010310,にちか,"あー、えっと……
+タ、タイムセールに、負けました……","Ahhh, umm...
+I-I lost to the... flash sale......"
+3025012010320,美琴,私も同じ……,Me too......
+3025012010330,にちか,えっ……！？,Huh...?!
+3025012010340,美琴,負けたけど、楽しかったかも,"I lost, but I think today was fun."
+3025012010350,にちか,そうですか……,Is that so...?
+3025012010360,にちか,"買い物袋から、レンコンが飛び出してる
+あと、ちらっと見えたのは鶏肉、かな……","There's a lotus root peeking out of her
+shopping basket, and I think I saw some
+chicken in it..."
+3025012010370,美琴,…………,......
+3025012010380,にちか,"美琴さん、よかった……！
+あの、すみませんでした、私────！","Mikoto-san! Thank goodness...!!
+Um, I'm so sorry, I——!"
+3025012010390,美琴,夢を……見ていたの,I saw... a dream.
+3025012010400,にちか,え……？,Huh......?
+3025012010410,美琴,"夢の中で、ちゃんと私……生きていたの
+────彼女として","I saw a dream where I... embodied her.
+ —I lived, as her."
+3025012010420,にちか,美味しく作れるといいですね,"I hope you'd be able to
+cook something tasty!"
+3025012010430,美琴,うん,Yep.
+info,produce_events/302501201.json,
+Translator,pygoscelis,

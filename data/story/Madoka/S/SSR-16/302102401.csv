@@ -1,0 +1,67 @@
+id,name,text,trans
+0000000000000,ツバサ王子,────…………,────......
+3021024010010,？？？,……落ち着かれました？,"......Sir, are you quite alright?"
+0000000000000,ツバサ王子,"……ああ……すみません、あなたにぶつかって……
+そのまま……","......Ah, yes...... My apologies for bumping into you......
+I shall, find my own feet......"
+0000000000000,ツバサ王子,"……ありがとう。……少し、疲れていて……
+……この場の空気に酔ってしまったみたいだ","......Thank you. ...I have been, somewhat fatigued......
+I fear the very atmosphere has made me light-
+headed."
+3021024010020,円香,"まあ、無理もありません
+こんなに私欲に塗れた場所では","Indeed, that is understandable.
+For this place is steeped in self-desire."
+0000000000000,ツバサ王子,え……？,Pardon......?
+3021024010030,円香,"皆様が楽しまれている絵画も、宝飾も、焚かれた香木も……
+……その全てが","These paintings, the gilded ornaments, even the
+burning incense wood in which everyone indulges......
+Every single one."
+3021024010040,円香,"奪われた人の涙で磨き上げられて、見事に輝いていることを
+どれほどの方がご存じでしょうか","For each of these to shine so brightly, how many
+tears have been shed by those who were plundered.
+How many would even care to know."
+0000000000000,領主,"──殿下、ご体調はいかがですかな
+部屋を用意してありますから、案内させましょう","──Your Highness, how do you do?
+I have prepared rooms for you; should I show you to
+them?"
+0000000000000,ツバサ王子,"ありがとう。助かるよ
+そちらの方の介抱のおかげで、だいぶ楽にはなった","Thank you, that is most appreciated.
+It is thanks to the care of that lady of your court
+that I am faring much better."
+0000000000000,領主,"いや……恐れ入ります
+何せ予告状が届いた件で、会場が騒然としておりましたから","Not at all... you grace us, your highness.
+Truthfully, the halls have been in chaos since we
+received a calling card."
+0000000000000,ツバサ王子,予告状？,A calling card?
+0000000000000,領主,"怪盗からですよ。『貴族の宝を正す義賊』などと
+民草は面白おかしく囃し立てておりますが……","From a phantom thief. ""A righteous thievary of the
+aristocrats' riches"", they claim. The common folk
+cheer them with a certain nonchalance, but...."
+0000000000000,領主,"おかげで警備をいつも以上に強化するはめに──
+今夜は安心してお休みいただけるかと……ははは","Well, we've doubled the guard in light of it──
+Please rest in assurance tonight...... hahaha."
+0000000000000,ツバサ王子,"……貴族の宝を正す、か……
+だったら『王子』を……この肩書きを正してくれ……","...The aristocrats' riches for righteousness, huh...
+Then why not... turn this title of ""Prince"" to one of
+righteousness as well......"
+0000000000000,ツバサ王子,俺にはこの場所は……眩し過ぎるんだ……,This place is simply...... too dazzling for me......
+3021024010050,円香,……,......
+0000000000000,ツバサ王子,……────？,......────?
+3021024010060,円香,──美しいものは、あるべき場所に,"──Beautiful things belong where they may be
+admired;"
+3021024010070,円香,それが私の美学,Such is my aesthetic.
+3021024010080,円香,"夜風が気持ちいいですね
+酔いは覚めましたか？","The night wind feels comfortable, does it not.
+Have you sobered at last, Your Highness?"
+0000000000000,ツバサ王子,……あなたは……,......You......
+3021024010090,円香,"ミスター・プリンス
+あなたを正すなんておこがましい","Mr Prince,
+it would be presumptuous of me to set you 'right'."
+3021024010100,円香,"……ですが、その翼をここで錆び付かせてしまうのも
+退屈ですから","......But it would have also been a dreadful bore to let
+wings such as yours rust in a place like this."
+3021024010110,円香,"──これは、私からの
+ほんの気まぐれ","──Consider this nothing more,
+than a whim of mine."
+info,produce_events/302102401.json,
+Translator,Mycstea,

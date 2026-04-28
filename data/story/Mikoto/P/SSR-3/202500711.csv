@@ -1,0 +1,100 @@
+id,name,text,trans
+0000000000000,プロデューサー,…………あっ,......Oh.
+0000000000000,プロデューサー,まずい、もうこんな時間か……！,"Shoot, it's already this late......!"
+2025007110010,犯人,…………,......
+2025007110020,犯人,……,...
+0000000000000,刑事,──見つけた！,—Hands up!
+0000000000000,刑事,もう逃げられませんよ,There's nowhere left to escape to now.
+2025007110030,犯人,………………,......
+2025007110040,犯人,……そうみたいだね,......So it seems.
+0000000000000,刑事,"どんなに遠くへ行っても
+アナタのした事は消えません","No matter how far you flee,
+your sins will never fade."
+2025007110050,犯人,…………,............
+0000000000000,刑事,"どこまで逃げても
+自分自身からは、逃げられないんです","And no matter where you go,
+you can never escape from yourself."
+0000000000000,刑事,──────絶対に,————Forever.
+2025007110060,犯人,"…………
+……そうかもね","............
+......You may be right."
+2025007110070,犯人,"……ありがとう
+捕まえてくれて","Thank you...
+For catching me."
+0000000000000,刑事,え──……,—Wha...?
+0000000000000,プロデューサー,……………………,.........
+0000000000000,プロデューサー,────……,——...
+2025007110080,美琴,『────もしもし、プロデューサー？』,"""—Hello, Producer?"""
+0000000000000,プロデューサー,"ああ、美琴
+すまん、今大丈夫か？","Ah, Mikoto.
+Sorry, is this a good time?"
+2025007110090,美琴,『うん、どうしたの？』,"""Yep. Something happened?"""
+0000000000000,プロデューサー,今、あのドラマが放送されたからさ──……,"The drama you were in just finished airing, so.."
+2025007110100,美琴,"あ……、そっか
+今日だったよね","Oh... I see.
+That was today, huh."
+2025007110110,美琴,"まだ見れていなくて……
+今、タクシーなの","I haven't watched it yet...
+I'm in a cab right now."
+2025007110120,美琴,後でチェックするつもり,Planning to watch it later.
+0000000000000,プロデューサー,『そうか』,"""I see."""
+0000000000000,プロデューサー,"『……美琴、気にしてたみたいだからさ
+ドラマの演技のこと』","""...You did seem worried about your
+performance in that show, after all."""
+2025007110130,美琴,……それで、わざわざ連絡してくれたの？,"...So, why the sudden call?"
+0000000000000,プロデューサー,『ああ、うん』,"""Ah, yeah, about that."""
+0000000000000,プロデューサー,"『放送を見て、
+やっぱり良かったと思ったから』","""After watching the whole thing, I still
+think that you did a great job in it."""
+0000000000000,プロデューサー,"『すごく印象に残る役になってたよ
+……それを、伝えておこうと思って』","""It was a role that leaves a lasting impact...
+Just called to tell you my feedback directly."""
+2025007110140,美琴,"……そう
+ありがとう","I see...
+Thanks."
+0000000000000,プロデューサー,────……美琴はさ,"——Say, Mikoto..."
+0000000000000,プロデューサー,撮影の時、どんなことを考えていたんだ？,"Can you share what your thoughts
+were when you filmed it?"
+2025007110150,美琴,『え……？』,"""Huh...?"""
+0000000000000,プロデューサー,"この役のこと
+どう表現しようって考えてたのかなって","I was wondering if you also got lost in thought
+thinking about how to portray your role."
+2025007110160,美琴,『…………』,"""......"""
+2025007110170,美琴,"『……どうだろう
+あまり……よくわからなくて』","""...I wonder.
+I'm not really... quite sure of it, myself."""
+2025007110180,美琴,"『役の……その人が
+どういう気持ちなのかとか、どういう人なのかとか』","""My character—What she felt, or what kind
+of human she exactly was..."""
+2025007110190,美琴,『……わからなくて』,"""......I don't understand any of it."""
+0000000000000,プロデューサー,………………,......
+2025007110200,美琴,"『だけど、プロデューサーには
+わかっていたみたいだから』","""On the other hand,
+it seems like you do, Producer."""
+0000000000000,プロデューサー,……？,......?
+2025007110210,美琴,"『撮影の後、言っていたでしょ？
+ただの悪い奴って訳じゃなくて……って』","""Remember what you said after the filming?
+...That she's not a cookie-cutter villain
+who's just plain evil."""
+0000000000000,プロデューサー,"あ……ああ
+確かに、言ったような……","Ah, that...
+Yeah, I did say that."
+2025007110220,美琴,"『だから、すごいなって
+思っていたの』","""So I was impressed by that."""
+2025007110230,美琴,『プロデューサーは、わかるんだって』,"""Because you understood her, Producer."""
+2025007110240,美琴,……ねえ、プロデューサーは,"......Tell me, Producer."
+2025007110250,美琴,私のことも、わかるの？,"Do you also...
+Understand me?"
+0000000000000,プロデューサー,『………………』,"""......"""
+2025007110260,美琴,あ、でも──……,"Ah, but......"
+2025007110270,美琴,"もう逃げられないっていうところは
+一緒かもしれないと思ったかな","I think we did overlap one part though.
+The part where there's nowhere left
+to escape to."
+0000000000000,プロデューサー,『え──……』,"""Huh......?"""
+2025007110280,美琴,"逃げられる場所なんて無いから
+私にも","There's nowhere else for me
+to run to anymore either, after all."
+2025007110290,美琴,どんなに遠くへ行っても,No matter how far I flee.
+info,produce_events/202500711.json,
+Translator,pygoscelis,

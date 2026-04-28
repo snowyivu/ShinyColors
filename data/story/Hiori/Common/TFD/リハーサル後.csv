@@ -1,0 +1,30 @@
+id,name,text,trans
+0000000000000,プロデューサー,"灯織、お疲れ様
+手応えはどうだ？","Good work, Hiori. 
+How did the rehearsal go?"
+6002002020010,灯織,"プロデューサー……
+お疲れ様です","Producer...
+Thanks, good work to you too."
+6002002020020,灯織,……今の自分は……出し切れたと思っています,"...I think for now, I... have done the best I can."
+0000000000000,プロデューサー,その割には、あまり浮かない顔だな,"You sure? You don't look that convinced, though."
+6002002020030,灯織,そういうわけでは……！,I don't mean it like that……！
+6002002020040,灯織,"──もちろん、得られたものは多くあります
+貴重な体験でした","──Of course, I have learned a lot from this 
+rehearsal. It's a valuable experience for me."
+6002002020050,灯織,"ただ……今日出し切れたのは、今の自分の力ですから
+……私は……それで十分だとは、思いません……","But... everything that I've done today is limited to 
+what I can do right now...
+and I don't... think that's enough."
+6002002020060,灯織,……そう思っているだけです,...I was just thinking about that.
+0000000000000,プロデューサー,"……それなら、十分だと思える灯織になれるように、
+残りの日を過ごそう","...Then, let's spend the rest of the day so the 
+Hiori now turns into the Hiori who thinks that 
+what she's doing is good enough."
+0000000000000,プロデューサー,"本番までまだ時間はある、
+灯織ならきっと納得できるようになると思うんだ","There's still time before the performance. 
+I'm sure you'll be able to put a performance you 
+can be satisfied with by that time, Hiori. "
+6002002020070,灯織,プロデューサー……,"Producer... "
+6002002020080,灯織,……はい,...Yes.
+info,produce_events/600200202.json,
+Translator,bike,
