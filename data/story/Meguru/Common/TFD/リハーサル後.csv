@@ -1,0 +1,41 @@
+id,name,text,trans
+6003002020010,めぐる,──……！,──……！
+0000000000000,プロデューサー,……めぐる？,......Meguru?
+6003002020020,めぐる,"──あっ、プロデューサー！
+ごめんね、ちょっとぼーっとしちゃってた……！","─Ah, Producer!
+Sorry, I kinda blanked for a bit......!"
+0000000000000,プロデューサー,"……何か考えてたんじゃないのか？
+ぼーっとしてるだけには、見えなかったけど","......Were you thinking about something?
+Cause it didn't look like you were blanking out."
+6003002020030,めぐる,"わ、すごい……！　お見通しなんだ……！
+──あのね、感謝祭の本番のことを考えてたの","Wah, you're so good...! You saw through me!
+──It's, um... I was thinking about the D-Day of
+the Thanksgiving Event later."
+6003002020040,めぐる,"リハーサルでこんなに楽しかったんだから、
+本番はきっと、もーっと楽しくなるんだろうなって……！","If the rehearsals are this fun, I was thinking that 
+maybe the real thing will be waay more 
+fun than this...!"
+0000000000000,プロデューサー,"そうだな……確かに、それは間違いない
+だって、めぐるが楽しいステージにしてくれるんだから","Hmm, right... I think there's no questioning that!
+You're the one who's going to put on a fun
+performance after all, Meguru!"
+6003002020050,めぐる,えっ、わたし？,Huh? Me?
+0000000000000,プロデューサー,"ああ。めぐるはきっと自分も楽しみながら、
+俺たち見ている人もみんな楽しませてくれる","Yep! I'm sure because you're going to have fun 
+up there, me and the others in the audience
+will have fun watching you too."
+0000000000000,プロデューサー,"そういうパフォーマンスをしてくれるはずだ
+しかも、今日よりもっとすごいやつを。……違うか？","I'm sure you'll be able to put on a performance 
+like that, or even... something more amazing 
+than the one you put on today. Am I wrong?"
+6003002020060,めぐる,"……
+そっか……","...
+...So that's how it is..."
+6003002020070,めぐる,"プロデューサーは、そう思ってくれるんだね──
+そっかそっか……","That's how you think about it huh, Producer?
+Hmm, hmm......──"
+6003002020080,めぐる,"──えへへ、もっちろんだよ！
+任せて、プロデューサー！","──Heehee, of course I will!
+Leave it to me, Producer!"
+info,produce_events/600300202.json,
+Translator,bike,
