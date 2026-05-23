@@ -1,0 +1,69 @@
+id,name,text,trans
+20000220010010,小糸,お、送ってくれてありがとうございます,T-Thank you so much for sending that for me.
+00000000000000,プロデューサー,どういたしまして,You're very welcome.
+00000000000000,プロデューサー,それじゃあまた明日、事務所で──……,"Well then, I'll see you tomorrow at the office──"
+00000000000000,プロデューサー,っと、ちょっとごめん,"Oh, shoot. Hold on..."
+20000220010020,小糸,な、何かトラブルですか……？,I-Is something wrong...?
+00000000000000,プロデューサー,"ああ、いや
+トラブルってわけではないよ","Ahhh, well...
+Not necessarily."
+00000000000000,プロデューサー,"この間もらった書類の期日が変わったって
+連絡が来たんだ","I just received a message about some deadlines
+changing for some important documentation."
+20000220010030,小糸,"……あれ、この間も
+そんなお話がありませんでした……？","...Oh, the ones from before?
+Didn't you mention those the other day?"
+00000000000000,プロデューサー,"あはは、まぁな
+こういうのって不思議とタイミングが重なるから……","Aha, that I did. Strange that everything seems to 
+happen all at once..."
+00000000000000,プロデューサー,"っと、それじゃあ俺は事務所に戻るよ
+慌ただしくてごめんな","I'll be heading back to the office ASAP, then.
+Apologies for rushing away like this!"
+20000220010040,小糸,"は、はい
+お疲れ様でした","T-That's okay.
+Good work today."
+00000000000000,プロデューサー,うん、お疲れ様,Good work today!
+20000220010050,小糸,"……プロデューサーさん
+ちょっと、疲れてそうだったな……","...Producer-san... 
+Looked a little tired today, huh..."
+20000220010060,小糸,…………,......
+20000220010070,小糸,お、おはようございます,G-Good morning.
+00000000000000,プロデューサー,"ああ
+おはよう、小糸","Oh?
+Morning, Koito."
+20000220010080,小糸,"あ、あの、プロデューサーさん
+これ……！","U-Um, Producer-san...
+P-Please take this...!"
+00000000000000,プロデューサー,"？　えっと……
+ああ、事務所への差し入れかな","Huh? Let's see...
+Ah, is this a package for the office?"
+20000220010090,小糸,"い、いえ
+プロデューサーさんに、です！","N-No, 
+it's actually for you, Producer-san!"
+00000000000000,プロデューサー,えっ、俺に？,Eh? For me?
+20000220010100,小糸,"は、はい
+そのために持ってきたので……！","Y-Yeah,
+I got it specifically for you...!"
+20000220010110,小糸,"な、中身は冷やすタイプのアイマスクなので
+好きな時に使ってもらえたら……","I-Inside you'll find one of those cooling eye masks...
+Feel free to use it whenever you'd like..."
+00000000000000,プロデューサー,冷やす……,Cooling...
+20000220010120,小糸,"つ、疲れた時って目を温めるといいって
+よく聞くんですけど","I-It's usually better to apply heat to your eyes 
+when you're tired, but depending on the situation..."
+20000220010130,小糸,場合によっては冷やすのもいいみたいなんです,I hear cooling them can be good too...!
+20000220010140,小糸,"プロデューサーさん、
+最近大変みたいなので","I noticed that you've been having a hard time lately,
+Producer-san... so I..."
+20000220010150,小糸,これで少しでも疲れがとれたらいいなって……,I hope this helps when you're feeling tired...
+00000000000000,プロデューサー,"……そうか
+ありがとう、小糸","...I see.
+Thank you very much, Koito."
+00000000000000,プロデューサー,"さっそく、今日の休憩か
+仕事終わりに使ってみるよ","I'll give them a whirl later, either on my break
+or when I've finished for the day."
+20000220010160,小糸,"は、はい！
+ぜひ、そうしてください……！","P-Please do!
+Whenever's good for you...!"
+info,produce_events/2000022001.json,
+Translator,pyon,

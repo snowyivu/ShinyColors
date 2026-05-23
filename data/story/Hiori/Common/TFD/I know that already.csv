@@ -1,0 +1,78 @@
+id,name,text,trans
+1002002020010,灯織,……,......
+0000000000000,プロデューサー,……,......
+1002002020020,灯織,……えっ,...Eh?
+1002002020030,灯織,"プロデューサー……！？
+い、いたなら言ってください……！","Producer...!?
+P-Please say something if you're here...!"
+0000000000000,プロデューサー,"や、すまん
+熱心に読んでたからさ、邪魔しちゃ悪いかと思って","Ah, sorry.
+You're reading that so seriously, so I just feel bad 
+if I interrupted you."
+0000000000000,プロデューサー,ファンレターか？,Are those fanletters?
+1002002020040,灯織,はい……,Yes...
+0000000000000,プロデューサー,見てもいいか？,Can I look at it?
+1002002020050,灯織,どうぞ,Here you go.
+0000000000000,プロデューサー,"……『苦手なものを抱えてるところ、共感しちゃいます』
+『でも風野さんは一生懸命向き合っててすごい！』","...""I feel like I can relate to you for having things 
+you're not good at."" ""Still, you're so amazing for 
+being able to face them all head-on, Kazano-san!"""
+1002002020060,灯織,……自分に納得ができないだけなんですけどね,"...I was just not satisfied with myself, though."
+0000000000000,プロデューサー,『不器用のフルコースって感じが好き！』,"""I love how you're so awkward! It's so cute!"""
+1002002020070,灯織,"そ、それは……！
+改善をしようと……思ってます……！","T-thats...!
+One thing I need to improve on... I think...!"
+0000000000000,プロデューサー,"いや、この人にとっては灯織の不器用さは魅力なんだ
+欠点と思ってるところだって、受け入れてくれる人はいる","No, to this person, your awkwardness is part of your 
+charm too. There's people who'd love you for the 
+things you'd thought of as your weakness out there."
+0000000000000,プロデューサー,そこは覚えておかないとな,"You have to remember that, okay?"
+1002002020080,灯織,…………はい……,........Yes......
+0000000000000,プロデューサー,"こっちは──……『灯織ちゃんは可愛さが一番！』
+『可愛いことこそ灯織ちゃんのすべて』……","This one says──...""Hiori-chan's cuteness is the 
+best thing about her!"" ""That cuteness itself is 
+everything about Hiori-chan.""..."
+0000000000000,プロデューサー,これ……,"This one is, uh..."
+1002002020090,灯織,"……お気遣い、ありがとうございます
+でも大丈夫です","...Thank you for worrying about me. 
+But it's okay, I'm fine."
+1002002020100,灯織,"アイドルの私を見て、可愛いと思ってくれたのなら──
+それは……努力の結果が、そう見えているってことですから","If they see me as an Idol and think that I'm cute──
+That just means...the results of my hard work 
+appears like that to them."
+1002002020110,灯織,"……むしろ、認めてもらえてるのかもって思えるんです
+私たちの何かが、きっと、届いて──……","...In fact, I think that's their way of acknowledging 
+me. Something about us reached them in a way, 
+I'm sure..."
+0000000000000,プロデューサー,灯織……,Hiori...
+1002002020120,灯織,……,...
+1002002020130,灯織,"希望、未来、輝きを信じる気持ちや、
+どこまでも飛べるんだっていう気持ち……","Our hopes, our future, the brilliant light we believe 
+in. The conviction that our wings can take us 
+anywhere..."
+0000000000000,プロデューサー,"──ああ、それ！
+みんなのステージから俺が感じていたことだ！","──Aah, that's it!
+That's what I felt from your performance!"
+1002002020140,灯織,……,"...... "
+1002002020150,灯織,……今の、プロデューサーの言葉ですよ,"...That one was your own words, you know?"
+0000000000000,プロデューサー,えっ……！？,Eh...!?
+1002002020160,灯織,……踏切の時,...That time at the railroad crossing.
+0000000000000,プロデューサー,"あっ──
+ああ！　そうか、あの時……！","Ah──
+Oh yeah! That thing I said back then!"
+0000000000000,プロデューサー,"すまん！　あの時は必死だったから……！
+何を言ったかハッキリとは覚えていなくてだな……！","I'm sorry! I was so desperate back then, so...!
+I didn't really remember what I was saying...!"
+0000000000000,プロデューサー,"出まかせ言ったわけじゃないんだ！
+俺はちゃんとそう思ってて──","I don't mean that I was speaking without thinking, 
+okay!?
+I really mean what I say back then, so──"
+0000000000000,プロデューサー,し、信じてくれよ！？　本当に──,"P-please trust me, okay!? I really do──"
+1002002020170,灯織,……っふふ,...Hehe
+0000000000000,プロデューサー,……灯織？,...Hiori?
+1002002020180,灯織,"……必死すぎです、プロデューサー
+そんなの、わかってますから","...You're being way too desperate, Producer.
+I know that already. "
+1002002020190,灯織,あなたの気持ちだって、ちゃんと届いてるんですからね,"Your feelings reached me properly too, okay?"
+info,produce_events/100200202.json,
+Translator,bike,

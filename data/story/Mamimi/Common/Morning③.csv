@@ -3,7 +3,8 @@ id,name,text,trans
 1005001000310010,摩美々,"プロデューサー、気づきましたねー
 その花瓶、私が置いたんですよー","Producer, you noticed.
 I was the one who put that flower vase there."
-1005001000310020,摩美々,花の香りをかいで、リフレッシュしてくださいねー,Feel free to smell the aroma of the flowers\nand refresh yourself.
+1005001000310020,摩美々,花の香りをかいで、リフレッシュしてくださいねー,"Feel free to smell the aroma of the flowers
+and refresh yourself."
 0000000000000,プロデューサー,ああ……ん？,Ah... Mm?
 select,,造花じゃないか！,"Isn't it an
 artificial 
@@ -16,7 +17,7 @@ select,,いい香りだな,What a nice smell.
 Producer, you look energetic even in the morning."
 1005001000310040,摩美々,"香りがなくてもー、
 ある意味リフレッシュできたんじゃないですかぁ？","Even if it has no smell,
-didn't you get refreshed, in a way?"
+didn't you get refreshed in a way?"
 0000000000000,プロデューサー,（よし、楽しく話せたな）,"(Nice, that went really well.)"
 1005001000310050,摩美々,……そーきますかぁ,...I'm going.
 1005001000310060,摩美々,"んー、いい香りですねー……バラの香りがしますねー……
@@ -27,6 +28,6 @@ What's with that face?"
 今日はもう、帰った方がいいですよー","...Producer, you must be tired.
 Better go home for today."
 1005001000310080,摩美々,……そうしたらぁ、私もサボれますしー,"...If you do that, I can play hooky too."
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah... I should've said something else instead...)
 info,produce_communications/100500100031.json,
 Translator,,

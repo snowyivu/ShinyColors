@@ -18,10 +18,10 @@ Two of them～?"
 Both of them are set on the same day."
 2023005020040,雛菜,"あ～……
 そうなんだ、なんか残念だね～？","Ahhh......
-I see, that's a bummer, then～"
+M'kay, that's a bit of a bummer～"
 2023005020050,雛菜,"ピンポイントにふたつが被るの、
-逆にすごいけど～","But hey, amazing how those two offers
-overlapped perfectly～"
+逆にすごいけど～","But hey, isn't it amazing how those
+two offers overlapped perfectly～?"
 0,プロデューサー,"………………
 ──それで、だ",".......So, moving on."
 0,プロデューサー,"両方とも、まだ返事をしていない
@@ -32,7 +32,7 @@ of having you choose which one to go with."
 Doesn't seem like there's any other way, right～?"
 0,プロデューサー,"──これがそれぞれの資料だ
 どちらも仕事の大きさとしては、あまり変わらない","—Here's the materials for each offer.
-In terms of the scale of work, there's not much 
+In terms of workload, there's not much 
 difference between the two."
 0,プロデューサー,"だからまずは、どちらをやりたいか
 雛菜の意見を聞きたい","So for now, I'd love to hear your thoughts
@@ -48,26 +48,27 @@ Have you read each offer thoroughly?"
 2023005020110,雛菜,うん～！　読んだよ～,"Yup～!
 Hinana did～"
 2023005020120,雛菜,"どっちもやれるなら、どっちもやりたいけど
-……どっちかしか選べないんでしょ？","If Hinana could do both, she'd go for it,
-but she can only pick one, right～?"
+……どっちかしか選べないんでしょ？","If Hinana could do both, then she would,
+but Hinana can only pick one, right～?"
 2023005020130,雛菜,"それなら雛菜、こっちの
-ユアクマちゃんカフェのお仕事がいい","Then Hinana's all in for this
+ユアクマちゃんカフェのお仕事がいい","Then Hinana's going all in for this
 YourKuma-chan cafe offer～!"
-0,プロデューサー,……雛菜、好きだもんなこのキャラクター,"...It is your favorite character after all, Hinana."
+0,プロデューサー,……雛菜、好きだもんなこのキャラクター,"...Well, that is your favorite
+character after all."
 0,プロデューサー,"でもこっちの仕事だって
 雛菜にとって魅力的だと思うんだ、例えば──……","But I believe that the other offer can also
-showcase your appeal, like for example—"
+show your appeals, like for example—"
 2023005020140,雛菜,"…………
 プロデューサーは、そっちの方を受けて欲しいの～？","...Producer, do you want Hinana
-to take that job instead～?"
+to take that one instead～?"
 2023005020150,雛菜,"それなら、最初から
 そうやって相談してくれたらいいのに","Should've told Hinana in the first place, then～"
 0,プロデューサー,"あ、いや、違うんだ
 そういう訳じゃなくて……！","Ah, no! You got it wrong!
 That's not what I mean at all......!"
 0,プロデューサー,"余りにも即決で……迷いがないからさ
-どっちも同じくらい魅力的だって言いたくて","What I meant is that both offers have their merits.
-You decided in a blink of an eye, so I just..."
+どっちも同じくらい魅力的だって言いたくて","What I mean is that both offers have their 
+own merits. You decided in an instant, so I..."
 2023005020160,雛菜,"……だけどどっちか
 ひとつしか選べないんでしょ？","...But still, Hinana can only pick one, right?"
 0,プロデューサー,"ああ、そうなんだ
@@ -78,17 +79,17 @@ you to take your time in choosi―"
 ちゃんと考えたってことになるの？","Does spending lots of time on it automatically
 mean that Hinana carefully thought about it?"
 2023005020190,雛菜,"……だから雛菜は、
-ちゃんと考えてないだろ～ってこと？","...In other words, you're saying that
-Hinana's not thinking this through properly?"
+ちゃんと考えてないだろ～ってこと？","...In other words, you’re telling Hinana that
+she’s not thinking this through properly? "
 0,プロデューサー,"…………
 いや、そうじゃないんだ……すまん","......No, that's not what I mean.
-I'm sorry."
+Sorry."
 0,プロデューサー,"俺自身、すごく決め難くてさ
-どちらがいいとも言い切れなかった","It's just that I myself have difficulty in picking
-among them. I can't say for sure which one seems
-the best option."
+どちらがいいとも言い切れなかった","It's just that I'm having difficulty picking one
+myself. I can't even say for sure which one is
+the better option."
 0,プロデューサー,"雛菜がすぐに答えを出したから
-あとで後悔しないか心配になって","You gave me an answer right away, so I'm just
+あとで後悔しないか心配になって","You gave an answer right away, so I'm just
 worried that you might regret it later on."
 0,プロデューサー,"それが結果的に、雛菜が考えてない
 みたいな言い方になったかもしれない","But now, what I said seems to make it sound
@@ -114,7 +115,7 @@ your answer
 as final, then."
 select,,ごめんな,I'm sorry.
 0,プロデューサー,雛菜が選んでくれた方を受けよう,"We'll go with what you chose then, Hinana."
-2023005020240,雛菜,……プロデューサーは、それでいいの？,"...You sure you're good with it, Producer?"
+2023005020240,雛菜,……プロデューサーは、それでいいの？,"...You sure you're good with this, Producer?"
 0,プロデューサー,"もちろん、いいに決まってるよ
 雛菜がちゃんと考えて出した答えならさ","If that's the answer you've thought through
 properly, then of course it's all good with me."
@@ -131,32 +132,33 @@ two Hinanas, wouldn't it～?"
 0,プロデューサー,早速返事をしてくるよ,I'll shoot them an email right away.
 2023005020290,雛菜,"は～い
 お願いします～……","M'kaaay～
-Please do～"
+Please and thanks～"
 0,プロデューサー,………………,......
 0,プロデューサー,"──雛菜
 この仕事、やるからには頑張ろうな","―Hinana, let's do our best now that we've
 decided on this job offer, okay?"
 0,プロデューサー,……楽しく、しあわせにさ,"......In a fun, happy way."
 2023005020300,雛菜,"あは～
-プロデューサーも知ってると思うけど～","Aha～
-Producer, I think you know the drill already, but―"
+プロデューサーも知ってると思うけど～","Aha～ Producer, you probably know the
+drill already, but―"
 2023005020310,雛菜,"……雛菜はいつもそうしてるよ～？
-どんなことでも","That's always how Hinana rolls, right～?
+どんなことでも","Isn't that's how Hinana always rolls～?
 No matter what!"
 0,プロデューサー,"雛菜がちゃんと自分のやりたいことをわかっていて
 選べるのは、すごいことだと思ってる","I think it's amazing that you can decide based
 on a clear sense of what you can do, Hinana."
 2023005020320,雛菜,……ほんと～？,......Really～?
 0,プロデューサー,"うん、ただ
-ふたつのうちから選ばなかった方にもし何か……","Yeah, however, if it happens that in the 
-case that we go with the other option..."
+ふたつのうちから選ばなかった方にもし何か……","Yeah, but if in the case that we go
+with the other option..."
 0,プロデューサー,"雛菜の新しい可能性みたいなものを
-見つけるチャンスがあったとしたら","And there's a good chance that we could uncover
-a new potential for you there, then..."
+見つけるチャンスがあったとしたら","And there's a good chance that we could
+discover a new potential for you there,
+then..."
 0,プロデューサー,きっと俺自身が、後悔しちゃうと思うんだ,I'm sure that I'll be regretting it bigtime.
 2023005020330,雛菜,"そっか～……
-プロデューサーも、すっごく考えたんだね～？","I see～ You're thinking about this really hard too,
-aren't you, Producer?"
+プロデューサーも、すっごく考えたんだね～？","Ohh～ You're thinking about this really hard
+too aren't you, Producer?"
 0,プロデューサー,"ああ、今回はこんなふうに、
 選ばせることになってしまってごめん","Yeah, so, I'm really sorry that I had to make
 you decide between two good choices like this."

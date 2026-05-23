@@ -1,0 +1,94 @@
+id,name,text,trans
+0000000000000,off,あの日から数日前────,A few days before that day────
+3020020010010,透,"うん、OK
+じゃあ次、こっち見てもらえる？","Alright, OK. 
+Then, can you look here next, please?"
+0000000000000,モデル,はい,Okay.
+0000000000000,プロデューサー,"──承知しました。スケジュールが確認でき次第、
+折り返しご連絡させていただいてもよろしいでしょうか","──Understood. I'll ring back once the schedule's confirmed, 
+if that's alright with you."
+0000000000000,プロデューサー,"──ええ、よろしくお願いいたします
+それでは失礼いたします","──Right, yes, I look forward to working with you. 
+Thank you very much."
+3020020010020,透,終わった？,Done?
+0000000000000,プロデューサー,"──透……！
+……もしかして、透も撮影か？","──Toru...! 
+...You've got a shoot too?"
+3020020010030,透,"そう、終わったとこ
+そっちも？","Yeah, mine's just about wrapped up. 
+You too?"
+0000000000000,プロデューサー,いや、こっちはまだ……,"No, mine's still..."
+0000000000000,プロデューサー,"別件で対応しないといけないことがあって、
+休憩中に電話してたんだ","I had a separate matter to deal with,  
+so I was taking that call during the break."
+3020020010040,透,そっか,I see.
+0000000000000,メイクスタッフ,透ちゃーん,Toru-chaan.
+0000000000000,スタイリスト,"お疲れ様～
+もう行けそう？","Great work earlier～ 
+Think you're good to go?"
+3020020010050,透,あー、YES,"Ahh, YES"
+0000000000000,メイクスタッフ,"あれっ、プロデューサーさん……！
+お疲れ様ですー","Oh hey, it's Producer-san...! 
+Great to see you."
+0000000000000,プロデューサー,お疲れ様です,Great to see you too.
+0000000000000,メイクスタッフ,私たち、今日透ちゃんと一緒だったんですよ,We're working with Toru-chan today.
+0000000000000,スタイリスト,"しかも、有名な週刊誌の表紙！
+今回から透ちゃんが撮影を担当することになって","And it's for the cover of a popular weekly magazine! 
+Toru's the photographer starting from this week's issue."
+0000000000000,プロデューサー,"へぇ……
+すごいじゃないか、透","Wow... 
+That's some amazing work there, Toru."
+3020020010060,透,うん,Yep.
+0000000000000,メイクスタッフ,"そうだ、よかったらプロデューサーさんも一緒にどうです？
+この後、透ちゃんのお誕生日会やるんですけど","Oh right. We're celebrating Toru-chan's birthday later. 
+How about joining us too, Producer-san?"
+0000000000000,プロデューサー,"ああ……すみません
+こっちはまだ撮影が終わっていなくて……","Aahh... Sorry. 
+The shoot on my end's not wrapped up yet..."
+0000000000000,メイクスタッフ,"あら、そうだったんですか……
+ならしょうがないですね……","Oh my, I see... 
+It can't be helped then..."
+0000000000000,スタイリスト,"残念ですけど、
+また今度ゆっくりお話ししましょ","It's unfortunate but, 
+let's chat again some other time then."
+0000000000000,プロデューサー,ええ、ぜひ,"Yes, gladly."
+3020020010070,透,じゃあ、また,See you.
+0000000000000,プロデューサー,おう,Yeah.
+0000000000000,プロデューサー,（────そういえば…………）,（────That reminds me......）
+3020020010080,透,『10年後に、あのテープを聞く』,"『In 10 years, we’ll listen to that tape.』"
+0000000000000,プロデューサー,"（もうすぐ10年か────
+あのテープレコーダー、探しておかないとな……）","（It'll soon be 10 years huh────
+I'll have to start looking for that tape recorder...）"
+0000000000000,メイクスタッフたち,透ちゃん、お誕生日おめでとう～！,"Happy birthday, Toru-chan～！"
+0000000000000,スタイリスト,"はい、これ
+私たちからのプレゼント！","Here, my present for you!"
+3020020010090,透,おー、あざす,"Ohh, thanks."
+0000000000000,店員,お待たせいたしました,Sorry to keep you waiting.
+0000000000000,メイクスタッフ,"あっ、ケーキ来た……！
+透ちゃん、吹いて吹いて！","Ahh, the cake's here...! 
+C'mon Toru, blow them quick!"
+3020020010100,透,OK,OK
+3020020010110,透,────っ……,────...
+3020020010120,透,────……,────...
+3020020010121,透＆プロデューサー,あ────,Ah────
+0000000000000,プロデューサー,"（はは、今日は偶然が重なる日だな
+──あ、そうだ…………）","（Haha, today's full of coincidences huh. 
+──Oh, that's right......）"
+0000000000000,プロデューサー,『透、誕生日おめでとう！』,"『Happy birthday, Toru！』"
+3020020010130,透,……,...
+3020020010140,透,（あ……り……が……と……）,（Th... an... k... you...）
+0000000000000,プロデューサー,"（ははっ、口パクか
+今のは、『あ、り、が、と』かな？）","（Haha, she's mouthing the words.
+I'm guessing that was『Th, an, k, you』?）"
+0000000000000,プロデューサー,『どういたしまして』,『You are welcome』
+3020020010150,透,ふふっ、伝わった,"Fufu, he got it."
+3020020010160,off,"ねぇ、覚えてる？
+────約束","Hey, do you remember it? 
+────The promise."
+3020020010170,透,（お……つ……か……れ……）,（Go... od... wo... rk...）
+0000000000000,プロデューサー,"（ん……？
+なんて言ったんだろう……）","（Hm...？
+I wonder what she's trying to say...）"
+3020020010180,透,『おつかれ』────,『Good work』────
+info,produce_events/302002001.json,
+Translator,OrangeKabocha,

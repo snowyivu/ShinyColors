@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,"そういえば、
+この間小糸がくれたキャラメル、おいしかったよ","Oh, I forgot to say. Those caramel sweets you gave 
+me for Valentine's were delicious!"
+4902400440010,小糸,そ、それならよかったです,"O-Oh, I'm glad to hear..."
+4902400440020,小糸,……あ、あの,...Um...
+0000000000000,プロデューサー,うん？,Hm?
+4902400440030,小糸,"キャラメル、自分用に別の味もちょっとだけ買ってて
+よかったら、そっちも食べてみますか……？","I actually bought a different flavor of those for myself...
+Do you wanna try them, too...?"
+0000000000000,プロデューサー,"それは嬉しいけど……
+小糸の分だろう？　いいのか？","I'd love to, but...
+They were for you, is it really okay?"
+4902400440040,小糸,は、はい！,O-Of course!
+4902400440050,小糸,"おいしかったから、プロデューサーさんにも
+食べてほしいなって思ってたので","They're really yummy, so...
+I thought you'd like them as well..."
+0000000000000,プロデューサー,"そっか……
+それなら、お言葉に甘えようかな","If you're sure, then...
+I'll take you up on that."
+4902400440060,小糸,"じゃ、じゃあ
+明日、持ってきますね……！","O-Okay then!
+I'll bring them for you tomorrow...!"
+info,special_communications/490240044.json,
+Translator,pyon,

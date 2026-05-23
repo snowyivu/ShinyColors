@@ -1,0 +1,161 @@
+id,name,text,trans
+4001093030010,甜花,……,......
+0000000000000,off,『甜花さん、材料とにらめっこ中』,"""Tenka-san is having a staredown with the
+ingredients"""
+4001093030020,甜花,"これ……使って……
+自分で作る……？","So if... Tenka uses these... she can make it
+herself......?"
+0000000000000,off,『正解です』,"""Correct"""
+4001093030030,甜花,"あぅ……
+じゃあ……簡単じゃない……",Auu...... So then... it won't be easy......
+4001093030040,甜花,どうしよ……,Oh no......
+4001093030050,甜花,……,......
+4001093030060,甜花,や、やってみよー……！,L-Let's try it......!
+4001093030070,甜花,麺、茹でて……,Boil... the noodles......
+4001093030080,甜花,……,......
+4001093030090,甜花,"まず……
+お鍋に、水……！",First...... put water... in the pot......!
+0000000000000,off,『５分後』,"""5 minutes later"""
+4001093030100,甜花,"えと……
+水、ぐつぐつしたから……",Um...... The water... is boiling......
+4001093030110,甜花,"……めんつゆの色……
+……お醤油、入れてみよ……","......What color is the soup......
+...Let's put in... some soy sauce......"
+4001093030120,甜花,あ……色、それっぽいかも……,Oh... that's kind of... how it looks......
+4001093030130,甜花,……,......
+4001093030140,甜花,お醤油、すごい……薄くなったやつ……,This soy sauce... is cool...... it's super thin......
+0000000000000,ナレーション,第３問！,Question 3!
+0000000000000,ナレーション,甜花さんは、このあとどうするでしょう？,What will Tenka-san do next?
+0000000000000,off,"【１番】再び点火する　【２番】そのまま食べる
+【３番】色々混ぜる　【４番】作り直す","1) Reheat it, 2) Eat it as is
+3) Put in different things, 4) Remake it"
+0000000000000,off,『答え』,"""And the answer is..."""
+4001093030150,甜花,……お醤油、足りない……？,......Isn't this... not enough soup......?
+4001093030160,甜花,"……
+なんか、しょっぱいだけ……",... And... it's only salty......
+4001093030170,甜花,"なんでだろ……
+……あ、この……料理酒とみりんも、使う……？","Why is that......? Oh... um...... there's also some...
+sweet wine... and cooking sake too......?"
+4001093030180,甜花,"えと……どのくらい……？
+……わかんないから、入れてみよ……","Um... how much should Tenka use......?
+...No idea... but let's put some in......"
+0000000000000,off,【３番】色々混ぜる、でした,3) Put in different things
+4001093030190,甜花,"……
+あんま、美味しくない……","......
+It's not... very good......"
+4001093030200,甜花,"あ……まだ、昆布……
+使ってない……","Oh... but...... Tenka hasn't... used the kombu yet
+either......"
+4001093030210,甜花,昆布……いってらっしゃい……,Bye bye... kombu......
+0000000000000,off,『甜花さん、正解に近づきつつあり』,"""She gets ever closer to the solution"""
+4001093030220,甜花,"……！
+ちょっと、美味しくなった……かも……！","......!
+It's kind of... tasty now... maybe......!"
+4001093030230,甜花,これで……完成、です……！,And with this... it's complete......!
+0000000000000,off,『よくできました』,"""Good job, Tenka-san"""
+4001093030240,甜花,にへへ……,Nihehe......
+4001093030250,甘奈,"甜花ちゃん……！
+頑張ったの、えらかったよ！",Tenka-chan...! Good job giving it your all!
+4001093030260,甜花,うん……,Thanks......
+0000000000000,プロデューサー,"結局めんつゆも作ることができたし
+いい経験になったかもな","You were able to make the soup, but not only that
+you had a good outcome too."
+4001093030270,千雪,"試行錯誤して作ったものって
+忘れないですもんね","I guess you don't forget the things you make via trial
+and error."
+4001093030280,甜花,"にへへ……
+めんつゆはもう、お任せ……",Nihehe...... You can leave the soup... to Tenka now......
+4001093030290,甜花,"ちゃんと、作り方も調べた……
+から……",Tenka looked up... how to actually make it......
+4001093030300,甜花,"今度は……ちゃんと、美味しいの……
+できそう……","So... next time... she'll be able to make... a tasty
+soup......"
+4001093030310,甘奈,"お願いします！
+めんつゆマスター！",You got it! You're the SoupM@ster!
+4001093030320,甜花,にへへ……,Nihehe......
+4001093030330,千雪,……？,......?
+4001093030340,千雪,封筒をもらいました,A new envolope.
+4001093030350,千雪,『指令書』って書いてあります,"It has ""Orders"" written on it."
+0000000000000,off,"『※これには、番組から
+出演者への指示が入ってます』","""*This has instructions for the contestants from the
+showrunners."""
+4001093030360,千雪,ふふっ、何が書いてあるんでしょう,"Fufu, it appears something is written inside."
+4001093030370,千雪,"『ひとり暮らしをしていた時のエピソード
+何かあれば話してください』","""Please tell us about a memory you have from your
+time living alone."""
+4001093030380,千雪,──とのことです,──Or so it says.
+4001093030390,千雪,ちょっと、考えますね,Give me a second to think.
+4001093030400,千雪,あまり、面白い話はないんですけど……,"Well, I don't think I have anything funny, but..."
+0000000000000,ナレーション,第４問！,Question 4!
+0000000000000,ナレーション,"ひとり暮らしを始めた頃の千雪さんは
+どんな感じでしたでしょうか","What do you think Chiyuki-san was like when she
+first started living on her own?"
+0000000000000,off,"【１番】最初から完ぺきだった　【２番】ダメダメだった
+【３番】適当だった　【４番】人並みな感じだった","1) Perfect from the start, 2) A complete failure
+3) A mess, 4) Average"
+0000000000000,off,『答え』,"""And the answer is..."""
+0000000000000,ナレーション,"ここからは、ご本人出演による
+再現映像でお届けします","We will show a reenactment with the subject in
+question."
+4001093030410,千雪,ただいま,I'm home.
+4001093030420,千雪,……って、誰もいないんだった,"...Wait right, there's nobody here."
+4001093030430,千雪,"（じゃがいも、にんじん、たまねぎ
+バラ肉、それから……）","(Potatoes, carrots, onions, short ribs, and then...)"
+4001093030440,千雪,カレーの素,Curry base.
+4001093030450,千雪,これで作っちゃおう,Let's get to cooking.
+4001093030460,千雪,いざ作ってみると、結構な量になるなぁ,"If I cook it with all this, there'll be quite a bit left
+over."
+4001093030470,千雪,"（当たり前だけど、誰もいないから
+ひとりで食べきるとなると）","(It should be obvious, but there's nobody here but
+me so I'm going to have to eat it all alone.)"
+4001093030480,千雪,３日はカレーかな,I guess I'll have curry for 3 days in a row.
+4001093030490,千雪,"（カレーうどんにしたりして
+なるべく飽きないようにすればいいよね）","(Maybe some curry udon, that way I don't get too
+sick of it.)"
+4001093030500,千雪,よし、先に洗い物を──,"Alright, time to wash some dishes."
+4001093030510,千雪,あ……,Oh...
+4001093030520,千雪,"（スポンジと洗剤、さっき買ってくるの
+忘れちゃった）",(I forgot to get a sponge and soap earlier.)
+4001093030530,千雪,食べたら、買いに行かなくちゃ……,I guess I'll get them after eating...
+4001093030540,千雪,っていう感じでした,That's how I was when I started.
+0000000000000,off,【４番】人並みな感じだった、でした,4) Average.
+0000000000000,プロデューサー,"『ちょっと意外な感じ　#ソロスト』
+『人並みな千雪さん、なんかいいな　#ソロスト』","""Kind of unexpected #solostory""
+""An average Chiyuki-san is kind of nice #solostory"""
+0000000000000,プロデューサー,みんな、あんまりイメージできないみたいだな,Seems like they had trouble imagining it.
+4001093030550,甘奈,"確かに、アイドルとしての
+千雪さんしか知らないと、そうなるかも",Makes sense if you've only ever seen her as an idol.
+4001093030560,千雪,そうかなぁ……,You think so...?
+0000000000000,プロデューサー,『その頃の話、もっと知りたい　#ソロスト』,"""I wanna know more about that story #solostory"""
+0000000000000,プロデューサー,"『千雪さんのひとり暮らしエピソードとか
+いくらあってもいい　#ソロスト』","""Let's hear more stories about Chiyuki-san living
+alone #solostory"""
+0000000000000,プロデューサー,需要、かなりある感じだな,Seems like the people want more.
+4001093030570,千雪,"面白味のない話なら
+まだまだ出せるんですけど……","I mean, I could give them pleny of uninteresting
+stories..."
+4001093030580,千雪,"シーツに洗濯ばさみを付けるのを忘れて
+風で飛ばされちゃった話とか","Like forgetting to put clothes pins on my suit, and
+it flying off in the wind..."
+4001093030590,千雪,"スーパーの割引シールが貼られる時間を
+ちゃんとメモして覚えていたり","Or like taking notes of when they put discount
+stickers on the food in the super market..."
+4001093030600,千雪,"面白そうだと思って怖い映画を見たら
+眠れなくなってしまった、とか……","Or seeing a scary movie thinking it looked
+interesting, only to fall asleep midway..."
+4001093030610,甜花,いっぱい、ある……,You have... a ton......
+4001093030620,千雪,"でも、どの話もオチがないの
+テレビ向きじゃないなぁって","But, most of them don't really have a punchline.
+I don't really think they're that fitting for TV."
+0000000000000,プロデューサー,ファンなら、それでも聞きたそうな話ではありそうだな,"But it seems like your fans would like to hear them
+all the same."
+0000000000000,プロデューサー,"ただ、さっき言った通り
+千雪は適当に伝えるの、好きじゃないもんな","But really... I think they just want something more
+than a vague answer."
+4001093030630,千雪,"そうですね
+いろいろと考えてしまって……",Good point. I thought about it a lot...
+4001093030640,甘奈,"面白い話をするのって
+本当に難しいね……！",It seems hard to come up with interesting stories...!
+4001093030650,甜花,うん……,Yeah......
+info,game_event_communications/400109303.json,
+translator,kotonekotoP,

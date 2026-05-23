@@ -1,0 +1,138 @@
+id,name,text,trans
+4001093020001,一同,ごちそうさまでした！,Thank you for the meal!
+0000000000000,ナレーション,ここで第２問！,"Now then, question 2!"
+0000000000000,ナレーション,"甘奈さん、甜花さん、千雪さん
+それぞれ食後の時間をどう過ごすでしょうか？","How will Amana-san, Tenka-san, and Chiyuki-san
+spend their time after a meal?"
+0000000000000,off,甘奈さんは？,Amana-san?
+0000000000000,off,"【１番】後片付け　【２番】寛ぐ
+【３番】家事　【４番】勉強","1) Clean-up, 2) Kick back
+3) Do chores, 4) Study"
+0000000000000,off,甜花さんは？,Tenka-san?
+0000000000000,off,"【１番】寝る　【２番】寛ぐ
+【３番】家事　【４番】勉強","1) Sleep, 2) Kick back
+3) Do chores, 4) Study"
+0000000000000,off,千雪さんは？,Chiyuki-san?
+0000000000000,off,"【１番】寝る　【２番】寛ぐ
+【３番】家事　【４番】トレーニング","1) Sleep, 2) Kick back
+3) Do chores, 4) Exercise"
+0000000000000,off,『答え』,"""The answer is..."""
+4001093020010,千雪,……,......
+4001093020020,千雪,ふー……,Mmm...
+4001093020030,千雪,ふふっ、美味しい……,"Fufu, this is tasty..."
+0000000000000,off,千雪さんは【２番】寛ぐ、でした,"Chiyuki-san has chosen number 2, kicking back!"
+0000000000000,off,『千雪さん、優雅なモーニングティータイム』,"""Chiyuki-san has chosen a graceful morning teatime."""
+0000000000000,プロデューサー,"確かに絵になるもんなぁ
+この編集をしたくなる理由、わかる","That's pretty picturesque.
+I can see why they edited it this way."
+4001093020040,千雪,やりすぎ、って思いません……？,"I didn't overdo it, did I...?"
+4001093020050,甘奈,"ううん！　甘奈はこのまま絵になってても
+不思議じゃないと思う！","Not at all! I wouldn't be surprised if they did
+something similar to me!"
+4001093020060,甜花,うん……,Yeah......
+0000000000000,プロデューサー,"美術館に飾られていてもおかしくないくらいだよな
+そうすると、タイトルは……","It looks so good you could put it in a museum. But,
+what would we call it...?"
+4001093020070,千雪,もう、３人とも……！,"Jeez, stop it you guys...!"
+4001093020080,千雪,"朝、時間があるときは
+いつもより少しゆっくり過ごすんです","I always take a little time in the morning to relax,."
+4001093020090,千雪,お茶を飲みながら、のんびり読書をしたり……,"For example, reading with a small cup of tea..."
+4001093020100,千雪,"ふふっ、でも今は本がありませんから
+ただ、何もしない時間を楽しませてもらいます","Fufu, but I don't have any books right now, so I'll
+just appreciate my time sitting here doing nothing."
+4001093020110,千雪,"この後、撮影でどんなことが起きるかなって
+考えたりしながら、です","Maybe I'll think about what might happen for the
+rest of the challenge."
+0000000000000,off,『ひとり暮らし経験のある千雪さん、強し！』,"""Chiyuki's resilient due to her experience living
+alone"
+4001093020120,甘奈,～♪,～♪
+4001093020130,甘奈,えへへ、お皿洗い中です！,"Ehehe, I'm washing dishes!"
+0000000000000,off,甘奈さんは【１番】後片付け、でした,"Amana-san has chosen number 1, clean-up!"
+4001093020140,甘奈,"お皿はすぐに洗っちゃった方が
+汚れが固まらなくて","The sooner you wash the dishes, the easier they
+are to clean."
+4001093020150,甘奈,"落ちやすいから楽、って
+お母さんに教えてもらいました！","My mom taught me that it all comes off easier
+that way!"
+4001093020160,甘奈,うん！　ぴかぴか！,There! They're sparkling clean!
+4001093020170,甘奈,うーん……！,Hmmm...!
+4001093020180,甘奈,さて、と～,Alright then～
+4001093020190,甘奈,"この勢いで、掃除もしちゃいます！
+一気にやっちゃった方が楽ですから！","At this rate, I should do some basic cleaning too!
+Better to do it all while I'm in the mood!"
+0000000000000,off,『めっちゃいい子！！』,"""What a good girl!!"""
+4001093020200,甜花,……,......
+4001093020210,甜花,……ふぁ……,......*yawn*......
+4001093020220,甜花,食べたら、眠くなってきちゃった……,Tenka got sleepy... after eating......
+4001093020230,甜花,ちょっと……お休み……,She's gonna... nap......
+0000000000000,off,甜花さんは【１番】寝る、でした,"Tenka-san has chosen number 1, sleep!"
+4001093020240,甜花,……すー……,......Zzz......
+0000000000000,off,『甜花さん、お休みモード』,"""Tenka-san's gone into Nap Mode"""
+0000000000000,ナレーション,初日の午前中を思い思いに過ごす３人,They're all doing their own thing on the first day.
+0000000000000,ナレーション,"しかし、こうしていられるのは
+今のうちだけ……？","However, the real question is how long this will last..."
+0000000000000,off,『午後０時』,"""12:00 p.m."""
+4001093020250,千雪,はーい,Coming!
+0000000000000,ナレーション,"昼食の時間
+手渡された材料はというと？","It's lunchtime. What ingredients have we prepared
+for our contestants this time?"
+4001093020260,千雪,おそばの乾麺と……,"Soba noodles, and..."
+4001093020270,千雪,"鰹節……昆布……
+醤油、みりん、料理酒……","Katsuobushi... kombu... soy sauce, sweet wine, and
+cooking sake..."
+4001093020280,千雪,……,......
+4001093020290,千雪,ふふっ、こういう感じなんだ,"So that's how it's gonna be, fufu."
+4001093020300,甘奈,"麺は茹でるだけでいいけど
+めんつゆは自分で、ってことですね……！","I can boil the noodles just fine, but I have to make
+the soup base too...!"
+0000000000000,ナレーション,甘奈さん、千雪さん、ご名答！,"Amana-san, Chiyuki-san, good answers!"
+0000000000000,ナレーション,"実は今回の『ひとり暮らし』
+いくつか仕掛けが用意されています！","The truth is, for this challenge, we have several
+different things for you to prepare!"
+0000000000000,ナレーション,"そのうちのひとつが、少しずつ難しくなっていくメニュー！
+果たして、いつまで上手にできるのか！？","And on top of that, each dish will be a little trickier
+than the last. How far will you be able to go!?"
+4001093020310,甘奈,うーん……,Hmmmm...
+4001093020320,千雪,昆布はだしを取るのに少し時間がかかってしまうので……,"It's going to take a bit of time to make the stock
+from the kombu..."
+4001093020330,千雪,"今回は鰹節を使って
+かつおだしのめんつゆを作ろうと思います","So I think I'll take the katsuobushi and make the
+stock for the soup base that way."
+4001093020340,千雪,"鰹節を濾したら、
+みりんやお醤油と一緒に再び火にかけて……","Then you strain out the katsuobushi itself, then put
+the sweet wine and soy sauce in and heat it up again."
+4001093020350,千雪,めんつゆの完成です,And that's the soup!
+0000000000000,off,『ここでも活きる千雪さんの経験』,"""Another time where Chiyuki's experience comes in
+handy"""
+4001093020360,千雪,麺の方も、ちょうど茹で上がりましたね,Looks like the noodles are perfectly boiled too.
+0000000000000,off,『同時進行、相変わらず手際がグッド！』,"""Finishing at the same time, remarkable skill as
+always!"""
+4001093020370,千雪,かけともり、どっちにしようかなぁ,"Now then, hot or cold...?"
+4001093020380,甘奈,"確か、お母さんは……
+昆布を入れてた気がする……",I feel like... Mom would put the kombu in here...
+4001093020390,甘奈,これで、火にかけます,And then heat it up.
+0000000000000,off,『10分後』,"""10 minutes later"""
+4001093020400,甘奈,……,......
+4001093020410,甘奈,うん。それっぽい感じになってます,Yeah. That seems about right.
+4001093020420,甘奈,"あとは、お醤油とみりんとお酒で
+味をつけていきますね！","Next, I'll add the soy sauce, the sweet wine, and the
+cooking sake for flavor!"
+4001093020430,甘奈,"……
+なかなかいい香りです！","......
+Oooh that smells good!"
+4001093020440,甘奈,"めんつゆが仕上がったので
+今度は麺の方を茹でていきます！","Now that the soup's done, it's time to boil the
+noodles!"
+4001093020450,甜花,おそば……？,Soba......?
+4001093020460,甜花,よかった、簡単……,Yay... that's easy......
+4001093020470,甜花,"……あれ……？
+おそば、食べるなら……めんつゆ……いるよね……？","......Huh......?
+But... to eat soba... you need soup... right......?"
+4001093020480,甜花,"めんつゆ……
+入ってない……？",But... there's no soup... in here......?
+0000000000000,off,『仕様です』,"""By design."""
+0000000000000,off,『甜花さん、スタッフに事情を尋ね中……』,"""Tenka-san is currently consulting the staff..."""
+4001093020490,甜花,材料は、これで全部……,So if this... is all the ingredients......
+4001093020500,甜花,じゃあ……,Then......
+info,game_event_communications/400109302.json,
+translator,kotonekotoP,

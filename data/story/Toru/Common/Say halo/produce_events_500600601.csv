@@ -18,10 +18,10 @@ I'll help look."
 やる？　風探し","Eh, ahhー......
 Wanna join me? Searching for the wind."
 5001006010090,灯織,──風探し……？,──Searching for the wind......?
-5001006010100,透,吹いてるとこ、風,"Where the wind, blows."
+5001006010100,透,吹いてるとこ、風,Where it blows. The wind.
 5001006010110,灯織,"それって────
 ああ……風が吹いている場所を探してるってことですか？","Where, as in────
-Aah... You meant you're searching for a place that
+Aah... You meant you're searching for a place where
 the winds are blowing?"
 5001006010120,透,イエス,Yes.
 5001006010130,灯織,そういえば、さっきからほとんど吹いてないですね……,"Speaking of which, the wind hasn't blown for a
@@ -39,7 +39,7 @@ It's quite far by foot, though?"
 5001006010180,灯織,"あの……！　今からですか？
 この後はレッスンとか、予定は────","Erm...! Are you setting off now?
 What about lessons and all that, other plans───"
-5001006010190,透,もうないよー、今日はー,"I've nothing leftー, for todayー"
+5001006010190,透,もうないよー、今日はー,I've nothing leftー For todayー
 5001006010200,灯織,"……あ、浅倉さんっ──
 海までの道を確認した方が──","...Ah, Asakura-san──
 Maybe it's better to check the route there──"
@@ -55,7 +55,7 @@ I'll use my phone to check right now...!"
 5001006010240,灯織,"──っ！
 ちょっと待ってください……！","──Hey!
 Give me a moment...!"
-5001006010250,透,いいの？　予定とか,What about you? Your plans.
+5001006010250,透,いいの？　予定とか,What about you? Your plans and stuff.
 5001006010260,灯織,"はい。この後は自主練の予定だったんですけど、
 ここまで来ちゃったので、私も行きます","Yes, I'll be okay. I was thinking of doing some self-
 training, but since I've already come so far, I'll tag
@@ -63,12 +63,12 @@ along with you."
 5001006010270,灯織,帰り道は走れば、体力作りにもなりますし,I can work on my stamina if I jog the way back too.
 5001006010280,灯織,……ノクチルのユニットレッスンは順調ですか？,...Are the unit-lessons going smoothly for noctchill?
 5001006010290,透,"あー、うん
-注意されるけど、私は","Ahー yea.
+注意されるけど、私は","Ahー Yea.
 Got told off though."
 5001006010300,透,勝手にアレンジするなーって,"""Don't go off changing it on your own!"", all that."
 5001006010310,灯織,アレンジ……？,Change what...?
 5001006010320,透,"んー
-振り付け","Yeaー
+振り付け","Mnー
 The choreo."
 5001006010330,灯織,……,......
 5001006010340,灯織,────いいな……,────That's nice...
@@ -97,7 +97,7 @@ Amazing..."
 But────"
 5001006010460,灯織,────もっと……吹けー！,───Blow...... even more──!
 5001006010470,灯織,わ……,*laugh*......
-5001006010480,灯織,──ふふっ,──Hehe.
-5001006010481,灯織＆透,ふふふっ,Hehehehe.
+5001006010480,灯織,──ふふっ,──Fufu.
+5001006010481,灯織＆透,ふふふっ,Fufufu.
 info,produce_events/500600601.json,
 Translator,Mycstea,

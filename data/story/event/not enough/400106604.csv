@@ -1,8 +1,8 @@
 id,name,text,trans
 4001066040010,マーレイ,『これ、もらえる？』,"""Can I have this?"""
 4001066040020,マーレイ,『……』,"""..."""
-4001066040030,マーレイ,『この街の人々は、私に触れようとしない』,"The folks in this village wouldn't
-even dare interact with me."
+4001066040030,マーレイ,『この街の人々は、私に触れようとしない』,"""The folks in this village wouldn't
+even dare interact with me."""
 4001066040040,マーレイ,"『街に出て買い物をしても、
 買ったものを手渡されたことはない』","""Even when I go to the village for supplies,
 they don't even dare hand over my purchase."""
@@ -39,8 +39,8 @@ This croissant doesn't feel warm at all."""
 4001066040170,リリア,"『私、冷めたクロワッサンは
 クロワッサンじゃないって────』","""I don't think that a cold croissant
 can even count as a croissant at all..."""
-4001066040180,リリア,『こちらの方に言ったはずだと思うんだけれど……』,"I believe that I've already told that
-a hundred times to you, haven't I...?"
+4001066040180,リリア,『こちらの方に言ったはずだと思うんだけれど……』,"""I believe that I've already told that
+a hundred times to you, haven't I...?"""
 4001066040190,リリア,『私、約束を破る人、大っ嫌い……』,"""I absolutely DETEST people
 who break their promises......"""
 4001066040200,リリア,"『────ねぇ、お父様
@@ -48,8 +48,8 @@ who break their promises......"""
 the face of this man here ever again."""
 4001066040210,リリア,『この街から、追放してくださらない？』,"""Could you banish this man
 from our village immediately?"""
-4001066040220,リリア,『ちょっと……腕を掴まないでくださる？』,"""Hey...! Can you please stop
-grabbing my shoulder?"""
+4001066040220,リリア,『ちょっと……腕を掴まないでくださる？』,"""Hey...! Can you please
+stop grabbing my arm?"""
 4001066040230,リリア,"『もとはと言えば、
 約束を破ったあなたが悪いんでしょう？』","""Isn't it your fault that you didn't keep your
 part of the promise in the first place?!"""
@@ -89,9 +89,9 @@ fix my acting...?"
 0000000000000,演出家,あのさ、逆に聞いていい？,"Listen here, can I ask you first?"
 4001066040330,にちか,は、はい……,Y-Yes......
 0000000000000,演出家,"なんで、この舞台に立とうとしてるの？
-別にさ、やらなくったっていいじゃない","Why on earth are you even trying to act in a
-stage place? You don't really have to force
-yourself into it, you know?"
+別にさ、やらなくったっていいじゃない","Why on earth are you trying to act in a theater
+play anyway? You don't really have to force
+yourself into this, you know?"
 0000000000000,演出家,"他にもたくさん、活躍の場あるんでしょ？
 あなたほら、器用貧乏さんみたいだし","There's still plenty of jobs waiting for you,
 right? I mean, aren't you like, a jack of all
@@ -99,8 +99,9 @@ trades or something?"
 4001066040340,にちか,……っ,......
 0000000000000,演出家,"居場所なんて、つくろうと思えばいくらでもつくれる
 なのになんで、立とうしてるの？","You can find a place anywhere as long as
-you put in some effort, so what exactly..."
-0000000000000,演出家,ふたりで,"...Are you trying to prove here, both of you?"
+you put in some effort, so..."
+0000000000000,演出家,ふたりで,"...What exactly are you trying to
+prove here, together?"
 4001066040350,にちか,……それは────,......That's—
 0000000000000,演出家,とりあえずそこ、見つけてみたら,"Go find an answer for that first,
 then we can talk."

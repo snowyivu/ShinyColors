@@ -1,0 +1,33 @@
+id,name,text,trans
+0000000000000,プロデューサー,パンプキンパイの香りがするアロマなぁ──,"Mmm, that pumpkin pie smells amazing──"
+0000000000000,プロデューサー,"（試供品、つい受け取っちゃったけど……
+いやー……珍しいよな……。季節柄ってやつか……？）","(They gave me a free sample... even if it was kind of 
+strange, maybe it's for Halloween...?)"
+0000000000000,プロデューサー,"まぁでもせっかくもらったし、
+ちょっとぐらい試してみるか……！","Ah, well. 
+It was free, why not give it a try...!"
+0000000000000,プロデューサー,────────え？,─────Huh?!
+0000000000000,off,気がつくと、見知らぬ部屋の中にいた,"All of a sudden, I found myself in a strange room."
+0000000000000,off,"目の前には異世界の小糸
+──どうやらまた迷い込んでしまったらしい","Standing before me was Koito, from the ""other"" world.
+──How did I manage to find myself here again?!"
+0000000000000,off,"脱出しようと調べた唯一の扉には鍵がかかっていて
+開けるためには番号が必要だった","In an attempt to escape, I tried the room's only door.
+It was locked tight, requiring a code to pass through."
+0000000000000,off,"『わたしに勝ったら、番号を教えます……！』と
+小糸は言った────","The otherworldly Koito said,
+""If you beat me in a game, I'll tell you the code...!"""
+4902200640010,小糸,"あ、あの……ちゃんと公平なルールでの勝負なので、
+安心してもらえたら……","A-And uh, there's no trickery involved, so...
+Rest assured, we'll be playing by the rules..."
+0000000000000,プロデューサー,"もちろん、それは信じてるよ
+……あれ、そういえば小糸が勝った時はどうなるんだ？","Alright then... I believe you.
+...But hold on. What happens if you win?"
+4902200640020,小糸,"……えっと、
+その時は──……","...Uh, well,
+if that were the case──"
+4902200640030,小糸,"──わ、わたしが
+ご褒美をもらいます……！",─I-It'll be me that gets a reward...!
+4902200640040,小糸,そ、それじゃあ、始めましょう……！,"W-Without further ado, let's begin...!"
+info,special_communications/490220064.json,
+Translator,pyon,

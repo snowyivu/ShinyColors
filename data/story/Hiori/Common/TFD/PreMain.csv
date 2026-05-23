@@ -1,0 +1,25 @@
+id,name,text,trans
+0000000000000,プロデューサー,──さて灯織、納得いく自分でステージに臨めそうか？,"──Well then, Hiori. Do you think you can go up 
+there while being satisfied with yourself?"
+6002002030010,灯織,プロデューサー……,Producer...
+6002002030020,灯織,"──もっとやれたんじゃないか、という不安は尽きません
+これはいつものことです","──I can't help but still worry about the things 
+I could've done more. I always feel like this."
+6002002030030,灯織,"それでも……私は、イルミネーションスターズは、
+今日のために頑張ってきました","But still... I, and the others in illumination STARS, 
+have been working so hard for today."
+6002002030040,灯織,"前のステージより──昨日より──
+成長した私たちを見てもらえるように、努力してきました","We worked hard so that we can show off how far 
+we improved compared to our previous 
+performances... or even to yesterday."
+6002002030050,灯織,"だから──納得してステージに臨むことは、できます
+問題ありません","That's why...──I can confidently say that I can go 
+on stage while feeling satisfied about my 
+performance. There's no problem at all."
+0000000000000,プロデューサー,──……そうか。それなら、いいんだ,──...Is that so? I'm glad to hear that.
+6002002030060,灯織,──ご心配には及びません,──You don't need to worry at all.
+6002002030070,灯織,"安心して──私たちのステージを見ていてください、
+プロデューサー","Please rest assured and watch over our 
+performances today, Producer."
+info,produce_events/600200203.json,
+Translator,bike,

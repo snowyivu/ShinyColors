@@ -3,7 +3,7 @@ id,name,text,trans
 ん？　どうかしたのか？","Good morning, Mamimi.
 Mnn? What happened?"
 1005001000110010,摩美々,"……はぁ
-ちょっと今日は、調子が出ない感じがしますねー","...Haah
+ちょっと今日は、調子が出ない感じがしますねー","...Haah.
 I'm feeling a little out of shape todaay."
 1005001000110020,摩美々,"こんな状態でレッスン受けても、
 身にならないと思いますー","Even if I take a lesson in this state,
@@ -18,7 +18,7 @@ select,,"見学するだけでも、
 to watch,
 you have to go."
 select,,サボりたいのか？,Want to skip out?
-1005001000110030,摩美々,真面目ですねー？　別にー、体調は悪くないんですよー？,"How businesslike～
+1005001000110030,摩美々,真面目ですねー？　別にー、体調は悪くないんですよー？,"How business-like～
 It's not like my physical condition is bad, you knooow?"
 1005001000110040,摩美々,"こう言ったらぁ、気分の管理も仕事のうちだって、
 プロデューサーは言いそうですねー","But if I say that, you could also say something like
@@ -33,6 +33,6 @@ Then I'll properly gooo."
 0000000000000,プロデューサー,（まぁ、普通に話せたかな）,"(Well, I guess that went okay.)"
 1005001000110070,摩美々,別にー、サボりたいなんて言ってませんケド,"Not really, I never say I wanted to skip..."
 1005001000110080,摩美々,プロデューサー、テキトーに話聞いてたんですかねー？,"Producer, are you listening to me properly?"
-0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah… I should've said something else instead…)
+0000000000000,プロデューサー,（うっ……しまった。別のことを言えば良かったな……),(Ah... I should've said something else instead...)
 info,produce_communications/100500100011.json,
 Translator,,

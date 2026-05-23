@@ -28,13 +28,13 @@ see Hinana doing a room tour, so we're gonna go
 around our office today, okay～?"
 0,コメント,"『今バイト休憩中！　見れて嬉しい！』
 『ばっちり見えてるよ！』","""Taking my work break atm! So happy to watch rn!""
-""Can see you clearly here!"""
+/ ""Can see you clearly here!"""
 2023005010070,雛菜,"あとコメントも適当に読むかも～！
 じゃあ早速行くね～、まずは事務所の玄関～！","Also, Hinana might pick up a comment or two
 on the way! M'kay, let's jump right in～!
 Here's the office's entrance～!"
 0,コメント,"『はじめて見た！』
-『２８３プロって綺麗なんだな、なんか安心したわ』","""This is my first time seeing it!""
+『２８３プロって綺麗なんだな、なんか安心したわ』","""This is my first time seeing it!"" /
 ""283Pro actually looks pretty tidy, all of my
 worries went poof now."""
 2023005010080,雛菜,……,......
@@ -55,11 +55,11 @@ This is where we eat snacks, and do meetings～!"
 usually a lot of idols hanging out here～!"
 0,コメント,"『じゃあアンティーカとかもここにいるってこと！？』
 『ここの部屋は前にもなんかで見たことあるな』","""You mean L'Antica and other idols go here too?!""
-""Feel like I've seen this same room layout
+/ ""Feel like I've seen this same room layout
 somewhere before."""
 0,コメント,"『雛菜ちゃんはノクチル以外で仲いい子いる？』
 『この子って２８３プロのアイドルだったんだー』","""Is Hinana-chan friends with other idols asides
-from the noctchill girls?"" ""So this girl's also
+from the noctchill girls?""/ ""So this girl's also
 a 283Pro idol, huh..."""
 2023005010140,雛菜,……,......
 2023005010150,コメント,『ソファに雛菜ちゃんの好きなキャラのクッションある！』,"""There's a cushion of Hinana-chan's favorite
@@ -67,10 +67,9 @@ character on the couch!"""
 2023005010160,雛菜,"そう～！　ユアクマちゃんのクッションいいでしょ～
 寝る時用に雛菜が持ってきたやつ！","Yup～! That YourKuma cushion looks so good,
 right～? Hinana brought it here for sleeping
-purposes!
-"
+purposes!"
 0,コメント,"『そこで寝てるのかよ！』
-『そのキャラあんま可愛くなくない？　笑』","""You sleep on that couch?!"" 
+『そのキャラあんま可愛くなくない？　笑』","""You sleep on that couch?!"" /
 ""Is it just me or it doesn't
 really look cute at all? lol"""
 2023005010170,コメント,『今来た！　これアーカイブ残す？』,"""Just opened the stream now!
@@ -82,11 +81,11 @@ Gonna go to the kitchen next～!"
 ここでたまに料理してる人とかもいるかな～","—This is the fridge that usually has some snacks
 in it! I think some people cook in here too～!"
 0,コメント,"『え、アイドルがってこと？　誰がやってるの？』
-『今日他のアイドル居たらよかったのになー』","""Huh, you mean idols cook there? Like who?""
+『今日他のアイドル居たらよかったのになー』","""Huh, you mean idols cook there? Like who?"" /
 ""Would've been great if there were other idols
 in there today..."""
 0,コメント,"『雛菜は料理できるの？』
-『今度料理してるところ撮ってよ！』","""Can Hinana cook?"" 
+『今度料理してるところ撮ってよ！』","""Can Hinana cook?"" /
 ""Show her doing some cooking next!"""
 2023005010200,雛菜,"は～い、じゃあ今日はここまでで終わりね～？
 他にも見せていいとこあったらまたやる！","Alriiight, we're gonna end here for today, okay～?
@@ -94,15 +93,15 @@ Hinana's gonna do this again if there's another
 place she wants to show everyone!"
 0,コメント,"『他ユニのファンだけど事務所見られてよかった』
 『初見だった！　フォローしたからまたやって！』","""Fan of a different unit here but I'm glad to see
-your office today."" ""First timer here! Gave you a
-follow so pls stream again!"""
+your office today."" / ""First timer here! Gave you
+a follow so pls stream again!"""
 0,コメント,"『ルームツアー、雛菜ちゃんのお部屋が見たかった……』
 『雛菜ちゃんの部屋見たい！　今度やってくれる？』","""I wish Hinana did a tour of her room instead...""
-""I wanna see Hinana-chan's room! Are you
+/ ""I wanna see Hinana-chan's room! Are you
 gonna go there next?"""
 0,コメント,"『いっぱい質問したのに読んでもらえなかったー泣』
-『バイト戻る！　バイバイ！』","""I sent so many questions but she read none
-of them ;_;"" ""Gonna go back to work now, byebye!"""
+『バイト戻る！　バイバイ！』","""I sent so many questions but she read none of
+them ;_;"" / ""Gonna go back to work now, byebye!"""
 2023005010210,コメント,『いつもどおりゆるくて面白かった！』,"""It was chill and interesting as usual!"""
 2023005010220,雛菜,"あは～、よかったね～！
 じゃあ今日はこれで終わり！　ばいばい～！","Aha, good to hear～!
@@ -188,7 +187,7 @@ that those things are important～"
 might also be why it's hard to keep in mind."
 2023005010370,雛菜,"ん～、そっか～
 プロデューサーがそう言うなら、そうなのかも","Hmm, probably～
-If Producer says so, then it must be facts～"
+If Producer says so, then it's facts～"
 0,プロデューサー,"でも、それを実践するのって
 すごく難しいことだとも思うよ","Though,  I also think putting it
 into practice is super tough."

@@ -45,10 +45,13 @@ I feel bad having you buy something..."
 何がいい？","No, it's really alright. You need to eat before taking
 the medicine. What would you like to eat?"
 select,,"おかゆを
-頼んでいいかな",Porridge would be nice.
+頼んでいいかな","Porridge would
+be nice."
 select,,"ゼリーを
-お願いするよ",Jelly would be nice.
-select,,揚げ物を……,Maybe some fried food...
+お願いするよ","Jelly would
+be nice."
+select,,揚げ物を……,"Maybe some
+fried food..."
 2014009030160,甘奈,うん！　任せてっ☆,Alright! Leave it to me☆
 2014009030170,甘奈,"おかゆなら作る方が早いから
 そこのキッチン借りるね！","I think if it's porridge, it would be quicker for me to

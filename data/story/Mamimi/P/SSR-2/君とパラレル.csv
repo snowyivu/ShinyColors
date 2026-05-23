@@ -1,7 +1,9 @@
 id,name,text,trans
 0000000000000,プロデューサー,……摩美々,"...Mamimi,"
 0000000000000,プロデューサー,"さっきの現場で差し入れにフィナンシェをもらったんだ
-プレーンとチョコ味、どっちが──","I got some financiers from the job earlier. There's a plain one and a chocolate one, so which flavor would you―"
+プレーンとチョコ味、どっちが──","I got some financiers from the job earlier. 
+There's a plain one and a chocolate one, 
+so which flavor would you―"
 2005007010010,摩美々,チョコがいいですー,I'll have the chocolate.
 0000000000000,プロデューサー,"そうか
 じゃあ、はいこれ","I see.
@@ -11,17 +13,19 @@ Okay, here you go."
 0000000000000,プロデューサー,…………,......
 0000000000000,プロデューサー,あ、そういえば,"Oh, that reminds me."
 0000000000000,プロデューサー,"今度の打ち上げの場所……
-和食と洋食、どっちがいいか希望はあるか？","It's for the celebration venue.
-Which food would you like to be served, Japanese or Western?"
+和食と洋食、どっちがいいか希望はあるか？","It's for the celebration venue. Which food would 
+you like to be served, Japanese or Western?"
 2005007010040,摩美々,洋食でー,Western.
 0000000000000,プロデューサー,わかった。いいところを探しておくよ,Got it. I'll find a good restaurant that serves that.
 2005007010050,摩美々,…………,......
 0000000000000,プロデューサー,…………,......
 0000000000000,プロデューサー,──そうだ,Right.
 0000000000000,プロデューサー,"……このオファー、２誌から雑誌掲載について来てるんだが
-両方ともは難しいみたいなんだ","I have these offers from two magazine publications, but it seems that it would be hard to do both of them."
+両方ともは難しいみたいなんだ","I have these offers from two magazine publications, 
+but it seems that it would be hard to do both of them."
 0000000000000,プロデューサー,"どっちがいいか少し迷っていてな……
-摩美々の意見も聞かせてくれ","I'm a little torn on which one to take. Could you give me some of your thoughts on them, Mamimi?"
+摩美々の意見も聞かせてくれ","I'm a little torn on which one to take. Could you give 
+me some of your thoughts on them, Mamimi?"
 2005007010060,摩美々,どれどれー……,"Let's see... "
 2005007010070,摩美々,……こっち一択ですねー,"It has to be this one, right."
 0000000000000,プロデューサー,"そ、そうか
@@ -30,13 +34,16 @@ Still the same as always but it's settled."
 2005007010080,摩美々,まぁ……,Guess so...
 0000000000000,プロデューサー,……仕事のことくらいは,"...For matters related to work,"
 0000000000000,プロデューサー,"もう少し時間をかけて、
-考えてもいいんじゃないか？",How about spending a little more time thinking before making at a decision? At the very least.
+考えてもいいんじゃないか？","How about spending a little more time thinking 
+before making at a decision? At the very least."
 2005007010090,摩美々,…………,......
 2005007010100,摩美々,"女は直感で判断する……
-って言うじゃないですかぁ","...It was once said that women listens to her intuiton when making a decision, right?"
+って言うじゃないですかぁ","...It was once said that women listen to their 
+intuition when making a decision, right?"
 2005007010110,摩美々,誰の言葉だったかは忘れましたケド,Although I forgot who said that in the first place.
 2005007010120,摩美々,"だから私は、即決というかぁ……
-直感を信じてるって感じですー。ふふー","So, not that I'm quick to make a decision, but more like I believe in what my gut tells me. Fufu."
+直感を信じてるって感じですー。ふふー","So, not that I'm quick to make a decision, but more 
+like I believe in what my gut tells me. Fufu."
 0000000000000,プロデューサー,…………,......
 select,,その考えはよくないぞ,"That's not a good
 way of thinking
@@ -61,27 +68,33 @@ Okay, let's get it settled once and for all."
 つ、次こそは……！）","(This is the 24th time we tied.
 I-I'll win it next time, for sure!)"
 2005007010162,摩美々＆プロデューサー,"じゃーんけーん
-……ポン！","Rock, paper scissors...
+……ポン！","Rock, paper, scissors...
 ...shoot!"
-0000000000000,プロデューサー,…………あ,...Ah
+0000000000000,プロデューサー,…………あ,...Ah.
 2005007010170,摩美々,ふふー、私の勝ちです,"Fufu, I won."
 0000000000000,プロデューサー,くっ……！,Tch...!
 2005007010180,摩美々,"ということで、私からは
-さっきのでファイナルアンサー、でお願いしますねー","With that said, the option I picked earlier would be our final answer, okay."
+さっきのでファイナルアンサー、でお願いしますねー","With that said, the option I picked earlier would be 
+our final answer, okay."
 0000000000000,プロデューサー,"あ、あぁ……わかったよ
-……今回はな","Y-Yeah... okay.
-But, just for this time."
+……今回はな","Y-Yeah... Okay.
+But just for this time."
 2005007010190,摩美々,……ふふー,Fufu...
 0000000000000,プロデューサー,"この資料、摩美々に渡しておくから
 明日また意見を聞かせてほしい","I'll be giving this document to you, Mamimi.
-Then, tomorrow, I'll ask your thoughts about it once more."
+Then tomorrow, I'll ask your thoughts about it 
+once more."
 2005007010200,摩美々,……えー,...Eh?
 0000000000000,プロデューサー,"……今の摩美々は
-直感で判断するだけじゃなくて","...Don't just rely on your intuition like you're doing right now,"
+直感で判断するだけじゃなくて","...Don't just rely on your intuition like you're doing 
+right now."
 0000000000000,プロデューサー,"じっくり考えてから
-答えを出す経験もしてみた方がいいと思うんだ",but I think it'll prove to be a good experience if you also try giving it some thought before making your decision.
+答えを出す経験もしてみた方がいいと思うんだ","But I think it'll prove to be a good experience if you 
+also try giving it some thought before making your 
+decision."
 2005007010210,摩美々,…………,......
-2005007010220,摩美々,……方向性の違いってやつですねー,"...This is one of those ""difference on which direction to take"" kind of thing, isn't it?"
+2005007010220,摩美々,……方向性の違いってやつですねー,"...This is one of those ""difference on which direction 
+to take"" kind of thing, isn't it?"
 0000000000000,プロデューサー,え？,Eh?
 2005007010230,摩美々,──ということで、解散ー,"With that said, meeting over.
 "

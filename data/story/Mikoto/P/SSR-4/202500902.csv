@@ -1,0 +1,137 @@
+id,name,text,trans
+2025009020010,美琴,…………,......
+2025009020020,美琴,……ん……,......mmh...
+2025009020030,off,"姫は、地上で歩ける脚と引き換えに
+美しい声を失いました","The little mermaid gave up her beautiful singing
+voice, in exchange for limbs that can walk on land."
+2025009020040,美琴,……────,......!!
+2025009020050,美琴,…………,"......
+..."
+2025009020060,美琴,あー……,Aaaahh......
+2025009020070,美琴,……あー……っ,"...gh.
+...Aaahhhh......"
+0000000000000,トレーナー,"ちょっと調子悪いみたいね
+風邪っぽい？","Sounds like you're not feeling well today.
+Did you catch a cold?"
+2025009020080,美琴,いえ、そんなことは……,"No, I don't think so..."
+0000000000000,トレーナー,"そう……でも念のため
+今日はしっかり喉を休めましょう","Really...? Still, you should rest your
+throat properly today, just in case."
+2025009020090,美琴,……はい,...Got it.
+2025009020100,美琴,"プロデューサー
+レッスン室、午後から空いている？","Producer, is the practice room
+available this afternoon?"
+0000000000000,プロデューサー,"美琴、家に帰って休まなくていいのか？
+調子悪いって聞いたけど","Mikoto, don't you want to head home
+and rest today? I heard that you're
+not feeling well."
+2025009020110,美琴,"ううん、喉の調子が悪いだけなの
+ダンスレッスンならできるから","No, my throat feels a bit off today,
+but I can still do my dance lesson just fine."
+0000000000000,プロデューサー,"喉からくる風邪だってあるんだ
+今日はしっかり、一日休んでくれ","A sore throat can still lead to a cold, so
+just take the day off and get some good rest."
+2025009020120,美琴,一日……,A whole day off......
+0000000000000,プロデューサー,"ああ、いや、一日とは言わず、喉の調子が治るまで
+レッスンの予定は変更しよう","Ah, actually, just keep resting until
+your throat gets better. I'll reschedule
+your lessons until you fully recover."
+2025009020130,美琴,…………,......
+0000000000000,仕事仲間,"……なんかさぁ
+美琴って、動いてないと死んじゃう魚みたいだよね","""...Y'know what, Mikoto? You're kinda like
+a fish that'll die if it stops swimming."""
+0000000000000,仕事仲間,"全然休んでなさそうだし……
+だから、動いてないと死んじゃう魚！","""It doesn't seem like you rest at all, so...
+You're kinda like a fish that'll die if it
+stops swimming!"""
+2025009020140,美琴,……そんなに休んではいられない,...I can't stay on a break for that long.
+0000000000000,プロデューサー,……,......
+2025009020150,美琴,毎日練習しないと、今できてることが────,"I need to practice every single day, because
+there's no guarantee that I'd—"
+0000000000000,プロデューサー,明日もできるとは限らない、だろ？,"—""still be able to repeat yesterday's
+feats today,"" right?"
+2025009020160,美琴,……うん,...Yep.
+0000000000000,プロデューサー,美琴の気持ちは、ちゃんとわかってるよ,"I understand how you feel right now, Mikoto."
+0000000000000,プロデューサー,"美琴は仕事に関してすごく真摯で
+きちんと考えてくれてる","When it comes to work, your dedication
+is second to none, and you always think
+everything through thoroughly."
+0000000000000,プロデューサー,"けど、動くことだけが仕事じゃないってことも
+覚えておいてほしいんだ","But I also want you to keep in mind that this
+job isn't just about keeping yourself active."
+0000000000000,プロデューサー,"……休むことも、
+仕事のうちだと俺は思うからさ","...Knowing when to rest is also a part of this job.
+That's what I believe."
+2025009020170,美琴,休むことも……仕事……,Resting is... a part of the job......
+2025009020180,off,────動いていないと,If I don't keep myself moving——
+2025009020190,美琴,……仕事…………,...my job......
+2025009020200,off,────私はどうなるの？,——What will happen to me?
+0000000000000,プロデューサー,……美琴？,...Mikoto?
+2025009020210,美琴,"…………仕事はしていたいけど
+休むのが仕事って言われたら……","...I want to keep working, but if you tell me
+that resting is a part of the job, then......"
+2025009020220,美琴,どうしたらいいか、わからなくなる……,"That'll leave me...
+completely lost......"
+0000000000000,プロデューサー,……よし！　それなら……,"...Alright!
+How about......"
+select,,今日のレッスンは……,"For today's
+practice..."
+select,,なんでも話してくれ,"You can
+talk to me
+about anything!"
+select,,俺が一曲歌うぞ！,"I'll sing
+a song
+for you!"
+0000000000000,プロデューサー,美琴の代わりに俺が踊るぞ！,"—I'll be dancing in your stead, Mikoto!"
+2025009020230,美琴,え、どういうこと？,"Huh?
+You'll do what?"
+0000000000000,プロデューサー,────いや、そのなんだ……ははは,"———Nah, that was just...
+Hahaha....."
+0000000000000,プロデューサー,"美琴を休ませる分、
+代わりに俺が踊ろうかと思ったんだが……","I just thought that maybe I could fill in
+for you and dance while you're resting..."
+0000000000000,プロデューサー,"……す、すまん
+変なこと言っちゃったな","...S-Sorry. I said something
+completely ridiculous."
+2025009020240,美琴,ああ、そういうこと,"Oh, that's what you meant."
+2025009020250,美琴,"……ごめんなさい、気を遣わせちゃったね
+ありがとう、プロデューサー","...I'm sorry for making you worry like that.
+Thanks, Producer."
+2025009020260,美琴,"……それじゃあ
+レッスン室に行く？","...Well, do you want to go
+to the practice room now?"
+0000000000000,プロデューサー,"い、いや……
+さっきのは冗談だからな……！","N-No, that was just a joke...!"
+2025009020270,美琴,"そうなんだ
+……少し残念","Pff, really...?
+That's a bit unfortunate."
+0000000000000,プロデューサー,"美琴を支えるのが、
+俺の仕事なんだからさ","After all, supporting you is my job, Mikoto."
+2025009020280,美琴,うん、ありがとう……,"Sure.
+Thanks..."
+2025009020290,美琴,"でも、プロデューサーも
+あまり休んでいないでしょ？","But it looks like you aren't getting
+that much rest either, right, Producer?"
+2025009020300,美琴,"たまには休んでいいから、
+プロデューサーも","You should take a break once in a while too,
+Producer."
+2025009020310,美琴,休むことも仕事……なんでしょ？,"Knowing when to rest is a
+part of the job too... Right?"
+0000000000000,プロデューサー,はは、そうだな、俺も休む時はしっかり休むよ,"Haha, you're right on the mark.
+I should take some time to rest
+too when I get the opportunity."
+2025009020320,美琴,……プロデューサーが？,You...... will sing for me?
+0000000000000,プロデューサー,"ああ、それで美琴が採点してくれれば
+休みながら、歌にも関われるってことにならないか？","Yeah, then you should rate it.
+That'll keep you linked to singing
+practice during your break, right?"
+2025009020330,美琴,……採点とかは、ちょっと難しいかな,"...I think it'll be hard for me
+to rate your singing, though."
+2025009020340,美琴,他人を評価するの、あまり慣れていなくて……,"I'm not really that used to rating others, so..."
+0000000000000,プロデューサー,そ、そうか……,I-Is that so...?
+2025009020350,美琴,でも、プロデューサーの歌……聴いてみたい,"I still want to hear it though...
+Your singing."
+2025009020360,美琴,どんな思いを込めて歌うのか、気になるから,"I'm curious to hear what kind
+of feelings you'd put into it."
+info,produce_events/202500902.json,
+Translator,pygoscelis,

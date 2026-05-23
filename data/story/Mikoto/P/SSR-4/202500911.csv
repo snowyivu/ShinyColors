@@ -1,0 +1,91 @@
+id,name,text,trans
+0000000000000,カメラマン,"……うん、いい感じに撮れたよ美琴ちゃん
+お疲れ様","......Yep, I got a real good shot of you, Mikoto-chan.
+Thanks for your hard work!"
+0000000000000,カメラマン,"休憩後にメイク整えて、
+チェック後再開ね","Get your makeup retouched during the break,
+and we'll continue after we finish the checks,
+okay?"
+0000000000000,スタッフ,"はい、了解でーす
+緋田さんありがとうございましたー！","Alright, we're done for nooow!
+Aketa-san, thank you very much!"
+0000000000000,スタッフ,10分間休憩入りまーす！,10 minute break rolling iiin!
+0000000000000,プロデューサー,お疲れ様、美琴,"Great job out there, Mikoto."
+2025009110010,美琴,うん……,Thanks......
+2025009110020,美琴,"……なんだか偶然だね
+人魚姫をモチーフにした撮影なんて","...Funny coincidence, isn't it? This photo shoot
+featuring a mermaid princess motif of all things."
+0000000000000,プロデューサー,"はは、そうだな、
+すごいタイミングだと思ったよ","Haha, yeah. 
+I thought it was some crazy timing too."
+2025009110030,美琴,……ねぇ、プロデューサー,"......Say, Producer."
+2025009110040,美琴,"……あれから少し、
+人魚姫について考えてみたの","...I gave it some more thought after our last
+convo. About being a mermaid princess."
+2025009110050,美琴,"────私にとっての
+魚は観客で、海はステージ","——To me, the fishes are my audience,
+and the entire ocean is my stage."
+0000000000000,プロデューサー,……うん,...Uh-huh.
+2025009110060,美琴,"……そうしたら、
+王子様はなんだと思う？","...In that case, who do you think
+would be my prince?"
+0000000000000,プロデューサー,王子様……？,Your prince...?
+2025009110070,美琴,"うん
+人魚姫にとって……私にとって、一番欲しかったもの","Yep. What the little mermaid... What I—
+—want the most."
+0000000000000,プロデューサー,美琴が欲しかったものか……,"Something that you want the most, huh...?"
+0000000000000,プロデューサー,そうだな……より歌が響くようなマイクとかか？,"Let me think...
+A microphone that amplifies your voice
+so your songs resonate louder?"
+0000000000000,プロデューサー,いや、観客の目を引くようなステージ衣装……とか,"Or nah... What if, a stage outfit that'll draw
+in everyone's attention... or something."
+2025009110080,美琴,ううん、惜しいけど少し違うかな,"Heh...
+Nope, close, but that's not quite it."
+0000000000000,プロデューサー,そ、そうか……,"O-Oh, okay......"
+0000000000000,プロデューサー,"……よく考えると、マイクも衣装も
+手に入れようと思えばすぐ手に入りそうだもんな","...Now that I think about it, both a mic and
+an outfit are stuff that you can easily get
+if you really wanted it."
+0000000000000,プロデューサー,それで、正解はなんなんだ？,"So, what's the correct answer?"
+2025009110090,美琴,────アイドル,——Being an idol.
+0000000000000,プロデューサー,……！,......!
+2025009110100,美琴,"王子様は、私のなりたい
+アイドルっていうことになると思うの","My prince, is the idol that I want to become.
+I think that's how it'll fit in this setting."
+2025009110110,美琴,"プロデューサーが私のことを
+歌って踊れる人魚姫って言ってくれたから……","Since you said that I'm a mermaid princess
+that can sing and dance..."
+2025009110120,美琴,……私は絶対それを手に入れるつもり,"......Then I will absolutely obtain that,
+no matter what."
+0000000000000,プロデューサー,"ああ、そうだな。美琴なら絶対王子様を……
+アイドルを手に入れられるよ！","Yeah, that sounds more like you. I just know that
+you can grab your ""prince""—Your idol!"
+0000000000000,プロデューサー,"もし、また戸惑うようなことがあった時は
+一緒に考えていこうな","And if another time comes where you feel lost,
+then let's rack our brains together again."
+2025009110130,美琴,うん、ありがとう,"Yep.
+Thanks."
+2025009110140,美琴,"……あともうひとつ、
+考えていたの","...Actually, I still have one last thought left."
+2025009110150,美琴,私にとっての王子様は、アイドル,"To me, ""my prince"" means ""my idol""."
+2025009110160,美琴,"……そうしたら、
+プロデューサーは何になると思う？","...So in this setting, what do you think
+is the role that you play, Producer?"
+0000000000000,プロデューサー,え？　お、俺か？,"Huh?
+Y-You mean, me?"
+2025009110170,美琴,"うん
+私にとってのプロデューサー……","Yep. 
+What will you be to me, Producer...?"
+0000000000000,プロデューサー,うーん……そうだな……,"Hmmmmm...
+Let me think......"
+0000000000000,スタッフ,"それでは撮影再開します！
+緋田さん、お願いしまーす！","Alright, we're resuming the shoot now!
+Aketa-san, please come over heeere!"
+2025009110180,美琴,あ……,Oh......
+2025009110190,美琴,行ってくるね,"I'll go now, then."
+0000000000000,プロデューサー,お、おう、頑張れ！,"R-Right!
+Break a leg!"
+0000000000000,プロデューサー,……俺は何になるのか、か……,"......What's the role that I play, huh...?"
+0000000000000,プロデューサー,はは、なかなか深いテーマだな、これは,"Haha, this theme sure runs deeper than I thought."
+info,produce_events/202500911.json,
+Translator,pygoscelis,

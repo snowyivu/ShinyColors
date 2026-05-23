@@ -1,0 +1,62 @@
+id,name,text,trans
+00000000000000,プロデューサー,うん……じゃあ、これで資料出しておくよ,"Mmhm...... Alright then, I'll send out the documents."
+00000000000000,プロデューサー,"ごめんな、仕事の後で疲れてるのに
+立て続けに──","Sorry to have kept you. It must be tiring after your
+lessons, and work came up one after another."
+20000210010010,円香,"いえ
+ついでに済ませてしまった方が効率的ですから","It's fine.　Finishing them off as they come is more
+time efficient anyway."
+00000000000000,プロデューサー,"もう夜遅いから気を付けて帰るんだぞ
+今日はゆっくり休んでくれ","Okay, it's getting late, so be careful on your way
+back and have a good rest tonight."
+20000210010020,円香,……,......
+20000210010030,円香,"……今日の仕事
+私ひとりでも問題なかったですよね","......The work today...
+I could have handled them alone, right?"
+20000210010040,円香,あなたがわざわざついてくる必要はなかったのでは？,"You didn't need to go out of your way to stay with
+me, did you?"
+00000000000000,プロデューサー,ああ……,Ahh......
+00000000000000,プロデューサー,"確かにそうだな
+……円香を信用していないからとかじゃなくて……","I suppose that's true.
+......Look, it's not like I don't trust you to do it......"
+00000000000000,プロデューサー,"ただ俺が、ちゃんと現場で見ておきたいからさ
+ついていける時にはなるべくついていくよ","But I just wanted to be there to look over it properly.
+And as much as time permits, I want to be there."
+20000210010050,円香,"……過保護とかじゃないならなんでもいいですけど
+あなたの領分ですし","......It's fine as long as you're not being over-
+protective, that's part of your work after all."
+00000000000000,プロデューサー,任せられることはちゃんと任せるさ,"Well, if I were leave you to handle things, I will be
+hands-off, I assure you."
+20000210010060,円香,……,......
+00000000000000,プロデューサー,"えっと……
+もし……俺のことを心配してくれてるなら、大丈夫だよ","Well, erm......　It's a big if, but.....
+If you're worried for me, I'm feeling alright."
+20000210010070,円香,は？,Huh?
+00000000000000,プロデューサー,"今日中に資料を出しておきたいってだけだから
+そんなに残るつもりじゃないし……","I just wanted to get the document sent out by today.
+I had no intentions to stay this late at all....."
+20000210010080,円香,"あなたが必要と思ってやってることなら
+私が何か言うことでもないのでは","If you're doing it because you deem it necessary, it's
+not my position to say anything, I suppose."
+20000210010090,円香,いい大人なんですから,"You're a proper adult, after all."
+00000000000000,プロデューサー,"はは、ミスター・馬車馬、とか
+また言われない程度にはするよ","Haha, I'll keep myself in check so that I won't get 
+called Mr Draft Horse or something by you."
+20000210010100,円香,……,......
+20000210010110,円香,"お疲れ様でした
+……失礼します","I'll be heading off then.
+......You'll excuse me."
+00000000000000,プロデューサー,"──ああ、お疲れ様！
+繰り返すけど、夜遅いから気を付けて","──Ah, yes, thanks for the hard work!
+I'm being naggy but it's late, so be careful."
+20000210010120,円香,"……そのままお返しします
+そのぼんやりした頭では、何かを見落としてしまうかも","......The same to you.
+You might miss things with that groggy head of yours."
+00000000000000,プロデューサー,……ん？,......Hm?
+00000000000000,プロデューサー,……コーヒー淹れ過ぎたな……,......Maybe I made too much coffee......
+00000000000000,プロデューサー,……,......
+00000000000000,プロデューサー,んん？,Hmm?
+00000000000000,プロデューサー,（椅子に掛けてた上着にチョコバーが……）,"(Someone left a chocolate bar atop the blazer I had
+draped over the chair......)"
+info,produce_events/2000021001.json,
+Translator,Mycstea,

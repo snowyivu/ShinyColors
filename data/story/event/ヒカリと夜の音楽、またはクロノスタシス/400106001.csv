@@ -35,8 +35,8 @@ bit. "
 0000000000000,プロデューサー,"ありがとうございます
 よろしくお願いします……！","Thank you so much!
 I'm in your care for today!"
-4001060010010,真乃,──……輝きをみんなに届けよう,──……Let's get our light across to everyone!
-4001060010011,一同,イルミネーションスターズ……！,illumination STARS……!
+4001060010010,真乃,──……輝きをみんなに届けよう,──......Let's get our light across to everyone!
+4001060010011,一同,イルミネーションスターズ……！,illumination STARS......!
 0000000000000,プロデューサー,はは、準備万端みたいだな,"Haha, seems like you're all ready to go."
 4001060010020,めぐる,"あっ、プロデューサー！
 お疲れさまー！","Ah, Producer!
@@ -51,7 +51,7 @@ here."
 0000000000000,プロデューサー,"真乃と灯織はどうだ
 他に何か心配なことはないか？","Mano, Hiori, are you guys okay?
 Anything else you guys are worried about?"
-4001060010031,真乃＆灯織,………………,………………
+4001060010031,真乃＆灯織,………………,..................
 4001060010040,真乃,…………だ、大丈夫です……っ,...I-I'm okay...
 4001060010050,灯織,"私も……ここまで来たらやるしかないので……
 頑張ります","Me too...there's nothing left to do but to perform 
@@ -64,7 +64,7 @@ I probably said this before, but..."
 ３人を応援したいと思ってくれている人たちだ","The people who comes here today...
 Are people who wanted to support you guys."
 0000000000000,プロデューサー,だから、大丈夫,"That's why, it's going to be fine."
-4001060010051,一同,…………,…………
+4001060010051,一同,…………,............
 0000000000000,プロデューサー,今日は、想いをいただくという気持ちで向き合ってごらん,Try to think of it as accepting their feelings for today.
 0000000000000,プロデューサー,"そうすればきっと３人の想い……輝きも、
 お客さんに届くと思うよ","If you think of it that way, I'm sure... your feelings... 
@@ -85,7 +85,7 @@ Mano, Hiori..."
 4001060010110,めぐる,"こうやって一緒にいられるの
 嬉しいよ","I'm happy, you know.
 Being together with everyone like this."
-4001060010120,めぐる,わたしたちがイルミネになったあの日から──……,Ever since that day where we became Illumine──……
+4001060010120,めぐる,わたしたちがイルミネになったあの日から──……,Ever since that day where we became Illumine──......
 4001060010130,めぐる,"プロデューサー！
 イルミネーションスターズ、ただいま戻りましたー！","Produceeer!
 illumination STARS is back and reporting in!"
@@ -111,7 +111,7 @@ Are those... letters...?"
 0000000000000,プロデューサー,"ファンレターだよ
 ……最初のファンレターだ","They're fanletters.
 Your first ones."
-4001060010171,一同,……！,……！
+4001060010171,一同,……！,......！
 0000000000000,プロデューサー,"先に封を切ってしまっているのは申し訳ない
 防犯の都合で中身を確認してから渡すことになっていて……","I'm really sorry for opening them first. For security 
 reasons, I had to check on them before giving it 
@@ -134,12 +134,12 @@ It's a waste to open it all at once, after all!"
 4001060010250,めぐる,"こうやって一緒にいられるの
 嬉しいよ","I'm happy, you know.
 Being together with everyone like this."
-4001060010260,めぐる,わたしたちがイルミネになったあの日から,Ever since that day where we became Illumine──……
+4001060010260,めぐる,わたしたちがイルミネになったあの日から,Ever since that day where we became Illumine──......
 4001060010270,めぐる,"一緒にいるのが当たり前で……
 嬉しいな","I'm so happy that...
 Being together like this feels like it's a given..."
 4001060010280,灯織,……ずっと、当たり前にするんでしょ？,"...We're going to make it so it always feels like this, right?"
 4001060010290,真乃,うん……,Yeah...
-4001060010300,真乃,ずっとずっと──……,"Forever, and ever──……"
+4001060010300,真乃,ずっとずっと──……,"Forever, and ever──......"
 info,game_event_communications/400106001.json,
 Translator,bike,

@@ -5,8 +5,9 @@ bg_awake_idol_select.png,awake_idol/bg_awake_idol_select.png,1
 images/ui/auto_play/parts_skip_pop.json_image,auto_play/parts_skip_pop.png,1
 images/ui/auto_play/parts.json_image,auto_play/parts.png,1
 images/ui/auto_play_result/parts.json_image,auto_play_result/parts.png,2
+images/ui/awake_idol/parts_detail.json_image,awake_idol/parts_detail.png,3
 images/ui/awake_idol/parts_dialogs.json_image,awake_idol/parts_dialogs.png,1
-images/ui/awake_idol/parts_list.json_image,awake_idol/parts_list.png,1
+images/ui/awake_idol/parts_list.json_image,awake_idol/parts_list.png,2
 images/ui/common/parts_buttons.json_image,common/parts_buttons.png,83
 images/ui/common/parts.json_image,common/parts.png,48
 images/ui/common/parts_idol.json_image,common/parts_idol.png,14
@@ -22,7 +23,8 @@ images/ui/option/parts.json_image,ui_option_parts.png,29
 images/ui/mission/parts.json_image,mission_parts.png,25
 images/ui/produce_top/parts.json_image,top_parts.png,25
 images/ui/concert/parts.json_image,concert/parts.png,28
-images/ui/gasha/parts.json_image,gasha/parts.png,36
+images/ui/gasha/parts.json_image,gasha/parts.png,39
+images/ui/gasha/parts_gasha_gift.json_image,gasha/parts_gasha_gift.png,1
 images/ui/gasha/parts_step_up.json_image,gasha/parts_step_up.png,65
 images/ui/gasha/parts_free_center_gasha_button.json_image,gasha/parts_free_center_gasha_button.png,4
 images/ui/skill_board/parts.json_image,skill_board.png,18
@@ -76,7 +78,7 @@ images/content/character_question_and_answers/vote_button/50052.png,character_qu
 images/content/character_question_and_answers/vote_button_base/50052.png,character_question_and_answers/vote_button_base.png,1
 images/content/character_question_and_answers/vote_daily_limit_button/50052.png,character_question_and_answers/vote_daily_limit_button.png,1
 images/ui/character_question_and_answer/parts.json_image,character_question_and_answers/parts.png,2
-images/content/fes_judge_scores/icon.json_image,fes/judge_scores_icon.png,2
+images/content/fes_judge_scores/icon.json_image,fes/judge_scores_icon.png,3
 images/content/foil_gasha_medals/icon/1100.png,items/foil_gasha_medals/icon_1100.png,1
 images/content/foil_gasha_medals/icon/2000.png,items/foil_gasha_medals/icon_2000.png,1
 images/content/foil_gasha_medals/icon/2100.png,items/foil_gasha_medals/icon_2100.png,1
@@ -273,7 +275,7 @@ images/ui/home_deck/parts.json_image,home_deck/parts.png,24
 images/ui/home_deck/parts_preset.json_image,home_deck/parts_preset.png,2
 images/ui/home_deck/parts_bg_change_layer.json_image,home_deck/parts_bg_change_layer.png,3
 images/ui/item/parts_content.json_image,item_parts_content.png,11
-images/ui/item/parts.json_image,item_parts.png,15
+images/ui/item/parts.json_image,item_parts.png,16
 images/content/produces/banners/002.png,produces_banners_002.png,3
 images/content/produces/banners/004.png,produces_banner_004.png,2
 images/content/produce_area/button_m/002.png,button_m_002.png,3

@@ -1,0 +1,140 @@
+id,name,text,trans
+2025009010010,off,"海の中の姫は、とても輝いていて……
+その美しい歌声は魚たちを虜にしました","The little mermaid brightly shimmered under the
+water, and her beautiful singing voice enchanted
+the hearts of every sea creature..."
+0000000000000,仕事仲間,あれ、美琴じゃん！　偶然～,"Whoa, Mikoto spotted!
+What a coincidence～!"
+2025009010020,美琴,うん、偶然だね,"Yep.
+Funny coincidence."
+0000000000000,仕事仲間,今日はここで仕事？,You here for work today?
+2025009010030,美琴,そう、収録があって,Yep. Had a recording here.
+0000000000000,仕事仲間,"へえ……
+それで、その後は────","Hmm...
+So, after this you'll be―"
+2025009010040,美琴,レッスンだけど……,I'll be going to my lesson...
+0000000000000,仕事仲間,ふふっ、やっぱり！,"Pfft, I knew it!"
+2025009010050,美琴,"……？
+どうして？","......?
+Knew what?"
+0000000000000,仕事仲間,いや～、美琴ならそうするかなって,"Nah～ Just thought that you'd
+definitely say that, Mikoto."
+0000000000000,仕事仲間,"……なんかさぁ
+美琴って、動いてないと死んじゃう魚みたいだよね","...Y'know what, Mikoto? You're kinda like
+a fish that'll die if it stops swimming."
+2025009010060,美琴,魚……？,A fish...?
+0000000000000,仕事仲間,"うん、美琴って
+仕事の合間にはレッスンを詰め込んでるでしょ？","Yup. I mean, you keep squeezing lessons in
+between your scheduled jobs, don't you?"
+0000000000000,仕事仲間,"全然休んでなさそうだし……
+だから、動いてないと死んじゃう魚！","It doesn't seem like you rest at all, so...
+You're kinda like a fish that'll die if it
+stops swimming!"
+2025009010070,美琴,…………,.....
+0000000000000,仕事仲間,"っと、そろそろ次の現場行かないと
+またね、美琴！","Oopsie, I need to go to my next venue.
+See you around, Mikoto!"
+2025009010080,美琴,……うん、またね,"......Sure.
+See you."
+2025009010090,美琴,……動いていないと、死ぬ……,"Will die, if...
+...It stops moving......"
+0000000000000,プロデューサー,"────すまん、美琴
+待たせたな……！","—Sorry, Mikoto!
+I kept you waiting here...!"
+0000000000000,プロデューサー,控室、空いたそうだよ,Apparently there's a free room today.
+2025009010100,美琴,あ……うん、わかった,"Ah... Okay.
+Got it."
+2025009010110,美琴,……………………,.........
+0000000000000,プロデューサー,……美琴？,...Mikoto?
+2025009010120,美琴,……ごめん、ちょっと考え事をしていたの,"...Sorry, I was just thinking about something."
+0000000000000,プロデューサー,体調が悪いってわけじゃないんだよな？,"You're not feeling ill or anything, are you?"
+2025009010130,美琴,うん……,Nope......
+0000000000000,プロデューサー,そうか、それならいいんだけど,"I see.
+Good to hear that, then."
+2025009010140,美琴,…………,......
+2025009010150,美琴,動いていないと……死ぬ,"If I don't keep moving...
+I'll die."
+2025009010160,美琴,……ねぇ、プロデューサー,"...Say, Producer."
+0000000000000,プロデューサー,おう、どうした？,Hm? What's up?
+2025009010170,美琴,もしものことだけど……,Hypothetically speaking......
+2025009010180,美琴,"私がレッスンを休んだり……
+アイドルを目指さなくなったら、どうなると思う？","If I take a break from lessons, and let go of
+my goal of becoming an idol, what do you think
+will happen to me...?"
+0000000000000,プロデューサー,"えっ？　ど、どうしたんだ急に
+何かあったのか？","Huh? W-What's up with the sudden grim question?!
+Did something happen to you?"
+2025009010190,美琴,"ううん、何もないよ
+……ちょっと聞いてみたくて","Nope, I'm good.
+I just... wanted to ask that."
+0000000000000,プロデューサー,"うーん……どう思うって、
+まずは何があったのか心配するかな","Hmm... Well, first of all, I'd be worried and
+think that something happened to you."
+2025009010200,美琴,……そっか,......I see.
+2025009010210,美琴,"じゃあ、もし目指すのをやめた時……
+私は、何をしていると思う？","Then, suppose that I do give up on becoming an idol...
+What do you think I'll end up doing?"
+0000000000000,プロデューサー,……もしもの話なんだよな？,"...This is all just hypothetical talk, yeah?"
+2025009010220,美琴,うん,Yep.
+0000000000000,プロデューサー,"そうだなぁ……考えた事ないけど
+強いて言うなら……","Alright... I've never thought about it, but if
+you really need to hear my answer, then..."
+select,,俳優とか……？,"An actress,
+maybe...?"
+select,,トレーナーかな,"A dance
+trainer,
+maybe."
+select,,プロデューサーだ！,A producer!
+0000000000000,プロデューサー,"ほら、前にドラマに出たときも良かったし
+合ってるんじゃないかなと思ってさ","You had that drama gig that went well, remember?
+I think it might actually suit you."
+2025009010230,美琴,そっか、俳優……,"I see...
+An actress, huh......"
+0000000000000,プロデューサー,"ああ、アイドルじゃなくても
+何かしらの形で芸能界には残っているかなって","Yeah. I just feel that you'd still stay in the
+industry in some form or another, even if you
+don't end up as an idol."
+0000000000000,プロデューサー,なんであれ、美琴にはステージが似合ってるから,"After all, the most fitting place
+where you belong is the stage, Mikoto."
+2025009010240,美琴,うん、私もステージが好き,Yep. I love standing on the stage too.
+2025009010250,美琴,……そういう面では、アイドルも俳優も同じかもね,"...Putting it in that way, then I guess idols
+and actresses do share a common ground."
+0000000000000,プロデューサー,美琴の技術をそのままにしておくのは惜しいから,"After everything, it'd be a real shame to
+see all your skills go unused, Mikoto."
+2025009010260,美琴,でも、私は教えるのはあまり得意じゃないと思う,"I don't think I'm particularly good
+at teaching others, though."
+0000000000000,プロデューサー,そうなのか？,You think so?
+2025009010270,美琴,うん、その人がどこが分からないかとか……つかみにくくて,"Yep. Pinpointing which parts a person fails to
+understand and such... I have trouble grasping that."
+2025009010280,美琴,どこが出来ていないのかは分かると思うんだけど……,"I think that I'm capable enough to tell
+what they can't do, but still..."
+0000000000000,プロデューサー,"なるほど……出来るのと教えるのとじゃ
+違うものなんだな","I see... Performing by yourself and teaching
+others are two different things, after all."
+2025009010290,美琴,試しに、今度プロデューサーに教えてみようか？,"How about I give teaching you a shot next time
+to put myself to the test, Producer?"
+0000000000000,プロデューサー,"はは……
+美琴、厳しそうだなぁ……！","Haha... You seem like you'd be a
+terror teacher though, Mikoto...!"
+2025009010300,美琴,え……プロデューサー？,"Huh...?
+A producer?"
+0000000000000,プロデューサー,ああ、アイドルの原石を見つけてプロデュースするんだ,"Yeah. You'd go around finding diamonds in
+the rough and produce them to success."
+0000000000000,プロデューサー,美琴だったらきっといいアイドルを育てられるよ,"I think you'd be able to raise a
+good idol yourself, Mikoto."
+2025009010310,美琴,そうかな,You think?
+2025009010320,美琴,"私は……いつもプロデューサーが
+支えてくれるから頑張れているし","To me... The reason why I can keep on giving
+my all is because you continue to support me,
+Producer. "
+2025009010330,美琴,同じことをするのは、きっとすごく大変だと思う,"So, I think it'll be very hard for me to give
+others the same treatment that you offer."
+0000000000000,プロデューサー,"そうか？　でも、その分アイドルが輝いているのを
+近くで見れるし、やりがいはあるぞ？","Really? But still, you get to watch your idol
+shine and thrive up close, so I think it's well
+worth it in the end, you know?"
+2025009010340,美琴,プロデューサーはそう思ってくれているんだね,"That's your mindset while
+doing this job huh, Producer."
+2025009010350,美琴,…………ありがとう,......Thank you.
+info,produce_events/202500901.json,
+Translator,pygoscelis,
