@@ -1,22 +1,28 @@
 id,name,text,trans
-0000000000000,プロデューサー,灯織……もしかしてなんだけど、\n悩みごとでもあったりするか？,"Hiori... this is just a hunch, but...
+0000000000000,プロデューサー,"灯織……もしかしてなんだけど、
+悩みごとでもあったりするか？","Hiori... this is just a hunch, but...
 Are you worried about something?"
 1002003040010,灯織,……え,...Huh?
-0000000000000,プロデューサー,……最近、何か考え込んでること多いなって、\nちょっと気になってな,"...I think that you've been deep in thought 
+0000000000000,プロデューサー,"……最近、何か考え込んでること多いなって、
+ちょっと気になってな","...I think that you've been deep in thought 
 a lot lately. So I'm a bit concerned."
-0000000000000,プロデューサー,灯織は、必要なことだったらちゃんと話してくれる\nだから、俺が色々聞くべきじゃないのかもしれないけど,"You usually properly talk to me if you need 
+0000000000000,プロデューサー,"灯織は、必要なことだったらちゃんと話してくれる
+だから、俺が色々聞くべきじゃないのかもしれないけど","You usually properly talk to me if you need 
 something, so maybe I shouldn't asking you too 
 much questions, but..."
-0000000000000,プロデューサー,……俺にできることがあるなら、\nなんでもしたいって思ってる,"...If there's something I can help you with, 
+0000000000000,プロデューサー,"……俺にできることがあるなら、
+なんでもしたいって思ってる","...If there's something I can help you with, 
 I'm willing to do anything."
 1002003040020,灯織,えっと……………………,Umm.........
-0000000000000,プロデューサー,──無理に全部話してくれとは言わない\nだから、差し支えなければ、ひとつだけ教えてほしくて……,"──You don't need to force yourself to say 
+0000000000000,プロデューサー,"──無理に全部話してくれとは言わない
+だから、差し支えなければ、ひとつだけ教えてほしくて……","──You don't need to force yourself to say 
 everything. So, if you don't me asking, could you 
 tell me one thing...?"
 1002003040030,灯織,プロデューサー……,Producer...
 1002003040040,灯織,……はい、答えられることなら,"...Yes, if it's something I can answer."
 0000000000000,プロデューサー,ありがとう……！,Thank you...!
-0000000000000,プロデューサー,その、さ\n最近ずっと考えてるのは、アイドルのことか？,"So, is the thing you've been thinking about 
+0000000000000,プロデューサー,"その、さ
+最近ずっと考えてるのは、アイドルのことか？","So, is the thing you've been thinking about 
 a lot lately... about Idols?"
 1002003040050,灯織,…………,......
 1002003040060,灯織,アイドルのこと、です,"Yes, it is about idols."
@@ -25,50 +31,64 @@ a lot lately... about Idols?"
 0000000000000,プロデューサー,それなら、俺にも少しは手伝えるかもしれないからさ,"If that's the case, then at least I'll be able to 
 help you a little bit."
 1002003040080,灯織,いえ、そんな,"No, that's..."
-1002003040090,灯織,詳しいことを話していないのに、\n何かしてもらうなんて都合がよすぎます,"I haven't even told you anything about the details,
+1002003040090,灯織,"詳しいことを話していないのに、
+何かしてもらうなんて都合がよすぎます","I haven't even told you anything about the details,
 so expecting you to help at all is way too 
 convenient for me."
 0000000000000,プロデューサー,そんなことないぞ？,"That's not true, you know?"
-0000000000000,プロデューサー,俺にも、灯織が元気にアイドルをやってくれるっていう\nいいことがあるんだ,"It's good for me too if you can be an Idol happily 
+0000000000000,プロデューサー,"俺にも、灯織が元気にアイドルをやってくれるっていう
+いいことがあるんだ","It's good for me too if you can be an Idol happily 
 without worries."
 1002003040100,灯織,それは…………,That's......
-1002003040110,灯織,その、すみません……\n今、ちゃんとできていないですよね,"Um, sorry... 
+1002003040110,灯織,"その、すみません……
+今、ちゃんとできていないですよね","Um, sorry... 
 I'm not working as an Idol properly right now, am I?"
-0000000000000,プロデューサー,違うよ、灯織\n『元気に』っていうのは『ちゃんと』ってことじゃない,"That's not it, Hiori.
+0000000000000,プロデューサー,"違うよ、灯織
+『元気に』っていうのは『ちゃんと』ってことじゃない","That's not it, Hiori.
 I don't mean being ""happy"" is the ""proper"" way 
 of doing things."
-0000000000000,プロデューサー,灯織は灯織の思うように、\nアイドルとして輝いてほしいんだ,"I want you to shine brightly as an idol in the way 
+0000000000000,プロデューサー,"灯織は灯織の思うように、
+アイドルとして輝いてほしいんだ","I want you to shine brightly as an idol in the way 
 you think is best."
-0000000000000,プロデューサー,だからさ……\n俺からの提案、聞いてくれるか,So... will you listen to my proposal?
-select,,灯織のステージを\n見てみよう,"Let's look at 
+0000000000000,プロデューサー,"だからさ……
+俺からの提案、聞いてくれるか",So... will you listen to my proposal?
+select,,"灯織のステージを
+見てみよう","Let's look at 
 your performance"
 select,,アイドルの研究をしよう,"Let's study 
 about idols"
 select,,現場に行こう,"Let's go to 
 a concert venue"
 1002003040120,灯織,それは……その……,That's... Um...
-1002003040130,灯織,それだと、ダメかもしれません……\n今の私には……──,"That might be no good... 
+1002003040130,灯織,"それだと、ダメかもしれません……
+今の私には……──","That might be no good... 
 Right now, I...──"
 0000000000000,プロデューサー,そうかな、きっと役に立つよ,Really? I think it's going to help you a lot.
-0000000000000,プロデューサー,灯織のステージを見たら、\n次はアイドルのステージを見にいくんだ,"After we watch your performance, let's look 
+0000000000000,プロデューサー,"灯織のステージを見たら、
+次はアイドルのステージを見にいくんだ","After we watch your performance, let's look 
 at another idol's performance next."
-1002003040140,灯織,アイドルの……？\n２８３プロのみんなのですか？,"Another idol's...? Do you mean the other 
+1002003040140,灯織,"アイドルの……？
+２８３プロのみんなのですか？","Another idol's...? Do you mean the other 
 girls at 283Pro?"
-0000000000000,プロデューサー,いや、全然関係ないユニットがいいと思うんだ\nそうだな……今日すぐ行けるところで……,"No, I was thinking a completely unrelated unit 
+0000000000000,プロデューサー,"いや、全然関係ないユニットがいいと思うんだ
+そうだな……今日すぐ行けるところで……","No, I was thinking a completely unrelated unit 
 would be good. Right... Somewhere we can go 
 to today..."
 0000000000000,プロデューサー,このユニットのライブに行こう,Let's go to this unit's concert.
-0000000000000,プロデューサー,灯織、最近気になっているアイドル、\nいくつか挙げてみてくれ,"Hiori, tell me what idols you've been interested 
+0000000000000,プロデューサー,"灯織、最近気になっているアイドル、
+いくつか挙げてみてくれ","Hiori, tell me what idols you've been interested 
 in lately."
 1002003040150,灯織,わかりました,Alright.
 1002003040160,灯織,えっと……,Uh...
 1002003040170,灯織,このあたり……でしょうか……,Maybe... these girls...?
-0000000000000,プロデューサー,なるほど、このグループなら確か、\n今日ライブをやるはずだ！,"I see! If I remembered correctly, this group 
+0000000000000,プロデューサー,"なるほど、このグループなら確か、
+今日ライブをやるはずだ！","I see! If I remembered correctly, this group 
 is doing a concert today!"
 1002003040180,灯織,現場……って、アイドルのライブってことですか？,Concert venue... Do you mean we're going to see one?
 1002003040190,灯織,どうして……？,Why...?
 0000000000000,プロデューサー,きっと見えるものがあるって、思うからだよ,I think you will be able to see something that way.
-1002003040200,灯織,……そうですか\nプロデューサーがそう言うなら……,"...Really? If Producer says so, then..."
+1002003040200,灯織,"……そうですか
+プロデューサーがそう言うなら……","...Really? If Producer says so, then..."
 0000000000000,プロデューサー,決まりだな！,Then it's decided!
 0000000000000,プロデューサー,今から行けるところがいいんだけど……,It'd be good to pick somewhere we can go now...
 0000000000000,プロデューサー,お、このグループはどうだ？,"Oh, how about this group?"
@@ -77,13 +97,16 @@ is doing a concert today!"
 1002003040220,灯織,ま、待ってくださいプロデューサー……！,"P-please wait, Producer...!"
 0000000000000,プロデューサー,今日はさ,For today...
 1002003040230,灯織,……？,...?
-0000000000000,プロデューサー,アイドル・風野灯織じゃなくて、\n普通の女の子として、ライブを見てくれないか,"I want you to watch today's live not as the idol 
+0000000000000,プロデューサー,"アイドル・風野灯織じゃなくて、
+普通の女の子として、ライブを見てくれないか","I want you to watch today's live not as the idol 
 Hiori Kazano, but as a normal girl."
 1002003040240,灯織,それで……何かがわかるんでしょうか,So... will I be able to figure something out that way?
 0000000000000,プロデューサー,どうだろう、俺には断言できないけど,"Who knows, I can't confirm anything right now."
-0000000000000,プロデューサー,でも、いつもと違う見方をするっていうのは\nきっといい刺激になるよ,"I'm sure looking at things differently than 
+0000000000000,プロデューサー,"でも、いつもと違う見方をするっていうのは
+きっといい刺激になるよ","I'm sure looking at things differently than 
 usual will be a good stimulus for you."
-1002003040250,灯織,……そうですね\nただ単純に、楽しむことにだけ集中しようと思います,"...You're right. I think I'll concentrate on 
+1002003040250,灯織,"……そうですね
+ただ単純に、楽しむことにだけ集中しようと思います","...You're right. I think I'll concentrate on 
 simply enjoying the show."
 1002003040260,灯織,あ……,Ah...
 1002003040270,灯織,この気持ち……,This feeling...
@@ -93,7 +116,8 @@ simply enjoying the show."
 1002003040290,灯織,いえーーーーーい！,Yaaaaaaaay!
 1002003040300,灯織,…………,......
 1002003040310,灯織,ふふっ……ふふ……,Fufu... Fufu...
-1002003040320,灯織,昔の私も、こんな気持ちで\nアイドルのステージを見ていました……,"A long time ago, I used to...
+1002003040320,灯織,"昔の私も、こんな気持ちで
+アイドルのステージを見ていました……","A long time ago, I used to...
 Watch an Idol's performance with this 
 exact same feeling..."
 1002003040330,灯織,こんなふうに叫んだりは……できませんでしたけど……,"I didn't shout... like I did just now, though."
@@ -105,11 +129,13 @@ I want to make someone else smile too..."
 1002003040370,灯織,そう思っていたんです……！,That's all I can think about back then...!
 1002003040380,灯織,そんなアイドルになりたい、って……！,That I wanted to become that kind of Idol...!
 1002003040390,灯織,……,......
-1002003040400,灯織,でも、今は……\n他のアイドルはみんな研究対象で,"But, now... 
+1002003040400,灯織,"でも、今は……
+他のアイドルはみんな研究対象で","But, now... 
 I think of other Idols as people to learn from..."
 1002003040410,灯織,ライバルで──,as well as my rivals──
 1002003040420,灯織,…………,......
-1002003040430,灯織,ずっと、大事にしていた気持ちを\nいつの間にか、忘れていました,"At some point I had forgotten the feelings 
+1002003040430,灯織,"ずっと、大事にしていた気持ちを
+いつの間にか、忘れていました","At some point I had forgotten the feelings 
 I had always treasured."
 0000000000000,プロデューサー,そうか……,I see...
 1002003040440,灯織,どうして忘れていたんだろう…………,I wonder why I forgot about them...
