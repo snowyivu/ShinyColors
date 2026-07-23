@@ -1,0 +1,120 @@
+id,name,text,trans
+0000000000000,モデルタレント１,"うっそ！　このふたり結婚すんの？
+ちょうど売れてきたとこなのにー","No waaay! Those two are getting married?!
+And they were just starting to get popular too!"
+0000000000000,モデルタレント２,"ほんとだー
+絶対、仕事減るでしょ、これ","Wooah, it's real.
+They'll definitely get fewer gigs because of this."
+0000000000000,モデルタレント１,"ほら、SNSにふたりで撮った写真のっけてるー！
+─────幸せそうには見えるけどねー","Look, they uploaded a photo of them together
+on their socials! They really do look happy with
+each other, though......"
+0000000000000,モデルタレント２,ねー,"I know, right?"
+2025011020010,美琴,"……その写真、
+見せてもらってもいいですか？","...Excuse me, may I see that picture too?"
+0000000000000,モデルタレント１,"えっ……は、はい
+どうぞ──","Huh?
+...Y-Yes, here you go—"
+2025011020020,美琴,…………,......
+0000000000000,モデルタレントたち,…………,......
+2025011020030,美琴,ありがとうございました,"...Excuse me, may I see that picture too?"
+0000000000000,モデルタレント１,"あ、あはは……
+いえいえ～","A-Ahaha...
+You're welcome～..."
+2025011020040,美琴,…………,......
+2025011020050,美琴,幸せ……,Happiness...
+2025011020060,美琴,あの場所にある幸せが、私のすべて,"The happiness I found there...
+Means everything to me."
+2025011020070,美琴,プロデューサー,Producer.
+0000000000000,プロデューサー,ん？,Hm?
+2025011020080,美琴,プロデューサーは結婚したい？,"Producer, do you want to get married?"
+0000000000000,プロデューサー,ど、どうしたんだ突然？,W-Why are you asking that all of a sudden?
+2025011020090,美琴,うまく繋がらなくて,I can't seem to connect the two quite well.
+2025011020100,美琴,"結婚と……
+溢れるような幸せ、っていうのが","I mean, marriage... and overflowing happiness."
+0000000000000,プロデューサー,"あ……
+もしかして、ブライダルの撮影のこと考えてくれてるのか？","Oh... Are you perhaps thinking
+about the bridal photoshoot?"
+2025011020110,美琴,うん,Yep.
+0000000000000,プロデューサー,"そっか……
+真剣に取り組んでくれてるんだな","I see... You're really taking this seriously, huh."
+2025011020120,美琴,ちゃんと表現したいから,I just want to get that feeling across properly.
+2025011020130,美琴,……でも,"...However,"
+2025011020140,美琴,"結婚すれば幸せ、
+というわけではない気もして","I also feel like marriage doesn't
+automatically equal happiness."
+0000000000000,プロデューサー,確かに、それはそうかもしれないよな,"Well, you may be right about that."
+0000000000000,プロデューサー,"したいと思ったら、
+俺もいつかはするのかもしれないけど────","If I ever feel like I want to, I guess
+I might get married one day, but—"
+2025011020150,美琴,"その時がきたら
+プロデューサーも、幸せでとろける？","If that time comes, do you think
+you'll feel so glad you'll melt into
+happiness too, Producer?"
+0000000000000,プロデューサー,"…………
+とろけるかどうかはわからないけど……","......
+I'm not sure if I'd melt, but..."
+0000000000000,プロデューサー,結婚して自分が幸せになる、っていうより────,"Rather than marriage itself being
+the thing that makes one happy—"
+0000000000000,プロデューサー,"結婚相手を一番幸せにできるのは自分だって、
+そう確信できることが幸せなんじゃないか？","Isn't happiness being certain that
+you're the one who can bring your
+partner the most happiness in life?"
+2025011020160,美琴,…………,......
+2025011020170,美琴,確かに……それは幸せだね,"True...
+That does sound like real happiness."
+2025011020180,美琴,きっと…………────,I'm sure that...—
+0000000000000,プロデューサー,美琴……？,Mikoto...?
+2025011020190,美琴,ううん、なんでもない,"Nope, nevermind."
+2025011020200,美琴,……そうだ,"...Oh, right."
+2025011020210,美琴,"友人に、結婚式用のコメントを
+送ってくれないかって頼まれているの","A friend of mine asked me if I could send her
+a video comment for her wedding ceremony."
+2025011020220,美琴,よかったら手伝ってもらえない？,"If it's fine with you, can you help me film it?"
+0000000000000,プロデューサー,"ああ、俺は構わないぞ
+……事務所に戻ったら会議室で撮るか？","Sure, I don't mind.
+...Should we film it in the meeting room
+when we get back to the office?"
+2025011020230,美琴,"うん、それで大丈夫
+ありがとう","Yep. That sounds good.
+Thanks."
+0000000000000,プロデューサー,"……よし
+とりあえずは大丈夫そうだな","...Alright.
+That take looked fine to me."
+0000000000000,プロデューサー,美琴、お疲れ,"Great job, Mikoto."
+2025011020240,美琴,ありがとう,Thanks.
+select,,喜んでくれるといいな,"I hope
+it'll make
+her happy."
+select,,"動画、
+あとで見直してみるか？","Do you want
+to review the video
+later?"
+select,,出席したかったか？,"Did you
+want to attend
+in person?"
+2025011020250,美琴,うん,Yep.
+2025011020260,美琴,"旦那さんと、
+ふたりで応援してくれているんだって","She told me that she and her husband
+are both rooting for me."
+0000000000000,プロデューサー,そうなのか……！,Is that so...?!
+2025011020270,美琴,"うん。だから、
+少しでも喜んでもらえたら、私も嬉しい","Yep. That's why if this message makes them
+happy even in the slightest, then I'll be happy too."
+2025011020280,美琴,そうだね,"Right, that'd be good."
+2025011020290,美琴,確認させてもらってもいい？,Can I check it later?
+0000000000000,プロデューサー,"おう
+……いい結婚式になるといいな","Sure.
+...I hope they'll have a nice wedding."
+2025011020300,美琴,なると思うよ,I think they'll do.
+2025011020310,美琴,『頑張る』って、言っていたから,She did tell me that she'll give it her all.
+2025011020320,美琴,……,......
+2025011020321,美琴,ここで、やることがあるから,I still have some things left to do here.
+2025011020330,美琴,だから、行けないと思ったの,So I thought I couldn't really go.
+0000000000000,プロデューサー,……そうか,...I see.
+2025011020340,美琴,"……でも
+ちゃんとおめでとうって伝えられてよかった","...Still, I'm glad that I could at least
+congratulate them properly."
+0000000000000,プロデューサー,そうだな……！,Right...!
+info,produce_events/202501102.json,
+Translator,pygoscelis,

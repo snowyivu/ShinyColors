@@ -1,0 +1,82 @@
+id,name,text,trans
+0000000000000,プロデューサー,お疲れ様、美琴。ソロ曲の収録すごくよかったよ,"Great job today, Mikoto.
+The recording for your solo went really well."
+0000000000000,プロデューサー,"スタッフのみなさんも、美琴のおかげでスムーズに
+進められたって言ってた","The staff praised you highly too,
+they told me that everything went
+smoothly because of you."
+0000000000000,プロデューサー,"率先してアイディアを出してくれたから
+みんながすぐ動けただってさ、流石だな","I heard that since you took the lead and
+brought in your own ideas, everyone jumped
+right into work. Expected no less from you."
+2025010110010,美琴,"……ううん
+そんなふうに言ってもらうことじゃない","...Nope, I don't really deserve
+to be praised that much."
+0000000000000,プロデューサー,えっ？,Huh?
+2025010110020,美琴,あのことがあったから、私は──,"If that thing didn't happen, then I―"
+2025010110030,美琴,"あそこにあるの、メンズ部門の衣装ですよね
+昨日使い終わった……","Those outfits over there are from the men's
+catalogue, right? The ones from yesterday's
+show?"
+2025010110040,美琴,"私の衣装を彼女が着て、
+私はあの中で丈が近いものを着るのはダメでしょうか？","Wouldn't it be possible to give my outfit to her,
+and then I'll wear something that fits my size 
+among the men's outfits instead?"
+0000000000000,スタッフ２,"えっ！
+で、でもあれは……","What?!
+B-But, those are..."
+0000000000000,デザイナー,"……私は、服は誰が着てもいいものだと思っています
+その点では問題ありません","...Personally, I have no issues with it.
+I believe that clothes can be worn by anybody."
+0000000000000,デザイナー,"でも、一度発表したものを着ることになると
+新鮮味はなくなりますし、悪目立ちするかもしれない","But if you wear an outfit that was already shown
+once, it'll no longer have that new impact, and you
+might even stick out like a sore thumb."
+0000000000000,デザイナー,"あなたはそれでいいんですね？
+緋田さん","Will that really be alright with you,
+Aketa-san?"
+2025010110050,美琴,構いません,"Yes, I don't mind."
+0000000000000,アイドル,でも、緋田さん……！,"But, Aketa-san―!"
+2025010110060,美琴,"大丈夫
+……一緒に、ランウェイを歩こう","I'll be fine.
+...Let's walk on that runway, together."
+0000000000000,アイドル,"緋田さん……
+本当に、ごめんなさ──","Aketa-san...
+I'm really, really so―"
+2025010110070,美琴,ううん,Don't be.
+2025010110080,美琴,"私は、あなたに助けてもらったから
+今度は私がお返しをする番なの","You helped me out before,
+so I just returned the favor this time."
+2025010110090,美琴,ショーのテーマは『協力』……でしょ？,"The theme for this show is ""Cooperation""... isn't it?"
+0000000000000,アイドル,……っ！,......!
+0000000000000,アイドル,…………はい、ありがとうございますっ！,"......Right...!
+Thank you very much!"
+2025010110100,美琴,あのことがなかったら,If that didn't happen...
+2025010110110,美琴,"私は最後まで、協力するということの意味を
+学べていなかったかもしれない","Then I wouldn't have learned the real meaning
+of ""cooperation"" until the very end."
+2025010110120,美琴,"やっとお返しができて……
+納得のいく『協力』ができたと思ったの","When I finally got to return the favor...
+I realized that I had ""cooperated"" in a way
+that I was satisfied with."
+2025010110130,美琴,"そうしたら、色々なものに携わっている人のことが
+よく見えてきて……","Since then, I've started to see all of the
+people I've been interacting with from a
+wider perspective..."
+0000000000000,プロデューサー,それで、今回のソロ曲か……,"So that's why for your solo, you..."
+2025010110140,美琴,"うん
+関わってくれる人たちがやりやすいようにすること","Yep. I decided to make things easier for the
+people who work with me."
+2025010110150,美琴,"どうしたらいいか、よく見えるようになった……
+あの時のおかげ","I've started to see a clearer picture of what
+exactly I should do... Again, it's all thanks to
+that recent experience."
+0000000000000,プロデューサー,"そうか……いろんなことが糧になったソロ曲に
+仕上がったんだな……","I see... Your solo was created through
+the inspiration of many experiences, huh..."
+0000000000000,プロデューサー,はは、今からリリースが楽しみになってきたよ,"Haha, I can hardly wait for the release now."
+2025010110160,美琴,私も,Me too.
+2025010110170,美琴,──みんなに、届くといいな……,"―I hope that...
+...It will reach everybody."
+info,produce_events/202501011.json,
+Translator,pygoscelis,

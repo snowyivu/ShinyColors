@@ -1,11 +1,11 @@
 id,name,text,trans
 0000000000000,プロデューサー,"取引先からフルーツゼリーをもらったんだ
-パインとチェリー、どっちがいい？","A customer gave me a bag of fruit jelly
-Which one do you like, pineapple or cherry?"
+パインとチェリー、どっちがいい？","A customer gave us a bag of fruit jelly.
+Which one do you prefer, pineapple or cherry?"
 1021001001210010,円香,どちらでも,Either.
 0000000000000,プロデューサー,"……それなら、じゃんけんで！
 円香が勝ったらパイン、負けたらチェリーにするか！","...Well then, let's do Rock-Paper-Scissors!
-If you win, it'll be pineapple, if you lose, it'll be cherry!"
+If you win, I'll take the pineapple, if you lose, the cherry!"
 1021001001210020,円香,は？,Huh?
 0000000000000,プロデューサー,いくぞ、じゃーんけん──,Go! Rock-Paper──
 select,,ぐー,Rock.

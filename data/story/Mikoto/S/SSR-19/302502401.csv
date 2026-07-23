@@ -1,0 +1,84 @@
+id,name,text,trans
+0000000000000,ピアノの先生,"緋田さんは大丈夫だね
+発表曲、もう完璧にしちゃったんだ","You're good to go, Aketa-san.
+You've already perfectly learned your recital piece."
+3025024010010,美琴,…………,......
+3025024010020,美琴,ありがとうございます,Thank you very much.
+3025024010030,美琴,…………カンペキ,......perfect.
+0000000000000,ピアノの先生,"２曲目に挑戦する子もいるけど
+緋田さんは、どうしよっか","There are kids who will attempt to play
+a second piece, but how about you, Aketa-san?"
+3025024010040,美琴,２曲目？,A second piece?
+3025024010050,美琴,それって、れんだん？,Will that be... a piano duet?
+0000000000000,ピアノの先生,"そうだね
+先生との連弾がいいかな","Yeah, so I think it'll be better
+to practice your duet with me."
+0000000000000,ピアノの先生,他の子がやる曲も見てみよっか,"Let's check out the songs that
+other kids will play as well."
+0000000000000,ピアノの先生,"友だち同士でやる子もいるけど
+低学年の子はだいたい先生との連弾かな","Some play the duet with their friends, but
+I think lower grade students tend to play
+alongside their teachers."
+3025024010060,美琴,…………これは？,......What is this?
+0000000000000,ピアノの先生,"ボーカル付きのポップスだね
+大学生のお姉さんが弾き語りをやるの","It's a pop song with vocals.
+A college lady will be doing a piano cover of it."
+3025024010070,美琴,そうなんだ,I see.
+0000000000000,ピアノの先生,"２曲目は難しかったらやらなくても大丈夫だからね
+１曲完璧に弾けるだけでもすごいんだから","If playing two pieces seems too hard, then it's
+fine to pass on the idea for now. Being able to
+play one song perfectly is already amazing by itself."
+3025024010080,美琴,"だいじょうぶ
+２曲目、やります","I'll be okay.
+I'll play two pieces."
+0000000000000,ピアノの先生,"そっか
+緋田さんはすごいね","Alright.
+That's impressive of you, Aketa-san."
+0000000000000,ピアノの先生,"それじゃあ、先生と連弾で大丈夫？
+お友だちとやる？","Now that's settled, are you going to play
+your duet with me, or with a friend?"
+3025024010090,美琴,…………,......
+3025024010100,美琴,先生と,"I'll play with you, Teacher."
+0000000000000,ピアノの先生,うん、わかった,"Okay, got that."
+0000000000000,ピアノの先生,何か好きな曲はある？,Got any song in mind that you'd like to play?
+3025024010110,美琴,好きな曲……,A song that I like......
+3025024010120,美琴,…………,......
+0000000000000,ピアノの先生,"ふふ
+試しに何か聴いてみよっか","Hehe. 
+How about we listen to a few tracks for now?"
+3025024010130,美琴,"うん
+おねがいします","Yep.
+Please, and thank you."
+0000000000000,ピアノの先生,"──こんな感じかな
+まずは、１曲目と同じように完璧に練習すること","―And that's pretty much how it goes.
+Now, you should practice playing it until
+it's just as perfect as your first piece."
+0000000000000,ピアノの先生,"合わせるのはそれからにしよっか
+できそう？","Let's put off playing together until then.
+You think you'll be good with that?"
+3025024010140,美琴,……うん,...Yep.
+0000000000000,ピアノの先生,"じゃあ、宿題
+２曲目も練習してきてね","Alright, then your homework is to practice
+both of your recital pieces."
+0000000000000,ピアノの先生,"人と合わせるならテンポが大事だから
+いつも以上に意識してみよう","Keeping up with the tempo is important when
+playing with other people, so make sure to pay
+extra attention to that as you play."
+3025024010150,美琴,わかりました,Understood.
+3025024010160,美琴,（テンポが、大事……）,(The tempo is... important.)
+3025024010170,美琴,…………,......
+3025024010180,美琴,ちょっと、はやい,It's a bit... fast.
+3025024010190,美琴,これ,I...
+3025024010200,美琴,いつも以上に、意識すること,Have to... pay more attention to this.
+3025024010210,美琴,テンポをおぼえて,Remember the tempo...
+3025024010220,美琴,キープして……,And keep it steady......
+3025024010230,美琴,…………────,......―
+3025024010240,美琴,ひとりで、カンペキにすること,"I need to perfect this, by myself."
+3025024010250,美琴,先生と、合わせられるように,So I can play in tune with my teacher.
+3025024010260,美琴,…………むずかしそう,......This seems hard.
+3025024010270,美琴,でも────,But――
+3025024010280,美琴,練習すれば、弾ける,"If I keep practicing, I'll be able to play it."
+3025024010290,美琴,弾けるようにならなきゃ,I need to be able to play this.
+3025024010300,美琴,…………────,......――
+info,produce_events/302502401.json,
+Translator,pygoscelis,

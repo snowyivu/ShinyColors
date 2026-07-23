@@ -1,0 +1,79 @@
+id,name,text,trans
+0000000000000,プロデューサー,"────美琴、これからレッスンだよな
+よかったら送っていこうか？","—Mikoto, you're heading to your lesson soon, right?
+Want me to give you a lift?"
+2025011110010,美琴,"うん、ありがとう
+お願いしようかな","Sure, thanks.
+I'll take your offer, then."
+2025011110020,美琴,あ……,Oh...
+2025011110030,美琴,"その前に飲み物を買ってくるね
+申し訳ないけど、少しだけ待っていてくれる？","Before we go there, I need to buy a drink.
+Sorry, but do you mind waiting for a bit?"
+0000000000000,プロデューサー,"おう、わかった
+急がなくていいからな","Sure, gotcha.
+No need to hurry, just take your time."
+2025011110040,美琴,うん,Yep.
+0000000000000,プロデューサー,……,......
+0000000000000,学生１,"……あー、このウエディングドレス！
+シーズの美琴さんが着てたやつだよね！","...Ahhh, that wedding dress! It's the one
+that Mikoto-san from SHHis wore, right?!"
+0000000000000,学生２,ほんとだー！,It really is—!
+0000000000000,学生２,"わー、実物はやっぱすごいねー
+きれー……","Woah... The real thing looks really impressive....
+It's so pretty......"
+0000000000000,学生２,"────ていうかあれだよねぇ
+結婚しなきゃ着れないとか、ハードル高すぎ","—Or more like, isn't it crazy that you have to
+get married or else you won't get to wear that?
+That's too high of a hurdle."
+0000000000000,学生１,"ほんとそれ～！
+このドレス着て美琴さんみたいに笑ってみたーい","Yeah, for real～!
+I wanna wear that dress and
+laugh like Mikoto-san diiid!"
+0000000000000,プロデューサー,…………,......
+2025011110050,美琴,お待たせ、プロデューサー,"Thanks for waiting, Producer."
+0000000000000,プロデューサー,おう、早かったな,"Oh, that was fast."
+2025011110060,美琴,すぐそこに自販機があったから,"Well, there was a vending machine just over there."
+2025011110070,美琴,……どうしたの？,...Is something up?
+0000000000000,プロデューサー,え,Huh?
+2025011110080,美琴,なんだか、幸せそうに笑っていたから,"For some reason, you looked like
+you were smiling so happily."
+0000000000000,プロデューサー,"いや……
+そこにさ、美琴が着たドレス、飾られてるだろ？","Nah, it's just... The dress that you wore
+before is displayed over there, see?"
+2025011110090,美琴,……本当だ,"...Oh, it really is."
+0000000000000,プロデューサー,"ついさっきさ、通りすがりの学生さんが
+『美琴みたいに笑ってみたい』って、言ってたんだ","Just a while ago, a bunch of students
+walking by said ""I wanna wear that dress
+and laugh like Mikoto-san did""."
+2025011110100,美琴,……そうなんだ,"...Oh, really."
+0000000000000,プロデューサー,俺、嬉しくて,That made me really happy.
+2025011110110,美琴,……うん,...Yep.
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,"結婚もドレスも、
+ひとつの要素に過ぎないのかもしれないな","Both marriage and that dress itself might
+just be a single part of the whole thing."
+0000000000000,プロデューサー,大切なのは、きっと……,"The important part is, surely....."
+2025011110120,美琴,『私』が幸せにしたいっていう、気持ち？,"The feeling that ""I"" can be the one
+to bring happiness to my partner?"
+0000000000000,プロデューサー,"ははっ
+ああ、その気持ちだ","Haha, yeah.
+It's that feeling."
+2025011110130,美琴,それなら──,"If that's the case, then—"
+2025011110140,美琴,"ちゃんと伝えるためにも……
+練習、しないとね","I have to practice...
+so I can convey that feeling properly."
+0000000000000,プロデューサー,…………,......
+0000000000000,プロデューサー,はははっ,Hahaha!
+2025011110150,美琴,……どうして笑っているの？,...Why are you laughing?
+0000000000000,プロデューサー,"いや、すまん……
+美琴らしいなって思ってさ……ははっ","Nah, sorry, I just...
+Thought that's so like you, Mikoto...
+Haha!"
+2025011110160,美琴,そうなんだ,I see.
+2025011110170,美琴,──……,—......
+2025011110180,美琴,…………,.........pff... hehe.
+2025011110190,美琴,"……変なの
+私もおかしい","...This is so weird.
+Even I'm being odd now."
+info,produce_events/202501111.json,
+Translator,pygoscelis,

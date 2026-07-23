@@ -1,0 +1,121 @@
+id,name,text,trans
+0000000000000,プロデューサー,う～ん……,Hmmm...
+0000000000000,プロデューサー,ん～……,Hmmmm...
+0000000000000,プロデューサー,スイーツ……とかでは、ない気がする,I feel like the answer... wouldn't be desserts.
+0000000000000,プロデューサー,海、か……,What about the sea...?
+0000000000000,プロデューサー,観光地……？,Tourist spots...?
+0000000000000,プロデューサー,"だめだ……
+どれもピンとこない","This is hopeless...
+None of these are clicking at all."
+0000000000000,プロデューサー,"どういう表情をつくればいいのか、
+迷ってる気がするんだよな……","I feel like she's lost on what kind of
+expression she should make..."
+0000000000000,プロデューサー,溢れるような幸せにとろける、か……,"Melting into overflowing happiness, huh..."
+0000000000000,プロデューサー,"美琴は、どんなことに幸せを感じているんだろうか……
+ステージ以外で────","What kind of things does Mikoto
+even feel happy about...?
+Aside from being on stage—"
+0000000000000,プロデューサー,"悩んでてもしょうがないか
+美琴が幸せを感じられるようなこと、俺なりに探してみよう","I guess thinking in circles wouldn't do any
+good here. I should try, in my own way, to
+find something that would make Mikoto happy."
+0000000000000,プロデューサー,"……おっ、
+ここの動物園、ビーバーの赤ちゃんが産まれたのか","...Oh, this zoo just had some
+baby beavers born, huh."
+0000000000000,プロデューサー,ははっ、可愛いなあ,"Haha, that's cute."
+2025011030010,美琴,あ……,Oh...
+2025011030020,美琴,プロデューサー……────,Producer—...
+0000000000000,プロデューサー,"（…………
+よし、『動物園　赤ちゃん』で検索してみるか……）","(......Alright, let's search for ""zoo baby animals""...)"
+0000000000000,プロデューサー,（おお、いろいろ出てきた……）,"(Ohhh, that's a lot of results...)"
+0000000000000,プロデューサー,"（レッサーパンダにコアラ……
+ミーアキャットも可愛いな──）","(Lesser pandas, koalas...
+Meer cats look cute too...—)"
+0000000000000,プロデューサー,（……画像、保存しておくか）,(...Let's search for videos.)
+0000000000000,プロデューサー,（フォルダーを新規作成して……）,"(Make a new folder to save in, then...)"
+2025011030030,美琴,…………,......
+0000000000000,プロデューサー,え,Huh?
+2025011030040,美琴,……お疲れ様、プロデューサー,"...Great work today, Producer."
+0000000000000,プロデューサー,き、来てたのか……！,Y-You've been there all along...?!
+2025011030050,美琴,"うん、ごめんね
+黙っていて","Yep.
+Sorry for standing in silence."
+2025011030060,美琴,真剣に調べ物をしているみたいだったから,"You seemed so focused on looking for something,
+so I didn't say a word."
+0000000000000,プロデューサー,し、真剣に────,S-So focused—?!
+0000000000000,プロデューサー,"あ、いや……
+そ、そんな大層なことをしていたわけではないんだが──","Ah, well...
+I-It isn't really anything important, but—"
+2025011030070,美琴,何を見ていたのか聞いてもいい？,Can I ask what you were looking at?
+2025011030080,美琴,プロデューサー、すごく幸せそうな顔をしていたの,"You looked very happy while looking
+at whatever it is, Producer."
+2025011030090,美琴,……とろけそうなくらいに,...So much that you almost melted.
+0000000000000,プロデューサー,"ああ、もちろんだ！
+実はな……","Sure, of course you can!
+The thing is—"
+2025011030100,美琴,そう,I see.
+2025011030110,美琴,私のために調べてくれていたんだ,"You've been searching stuff for my sake, huh."
+0000000000000,プロデューサー,"最初はそうだったんだがな……
+いつの間にか、ちょっと夢中になってしまってたみたいだ","That was my intention at first, but...
+seems like I got a little carried away
+without realizing it."
+0000000000000,プロデューサー,"仕事中なのにな……
+反省するよ","I know I'm on the clock, and yet...
+I'll take a moment to reflect."
+2025011030120,美琴,私も見ていい？,Can I also see what you've got so far?
+0000000000000,プロデューサー,"ああ！　美琴の幸せに繋がるようなものが、
+見つかるといいんだけどな……！","Sure! I just hope we can find something
+that leads to what makes you happy, Mikoto...!"
+0000000000000,プロデューサー,えーっと……,Umm...
+2025011030130,美琴,…………,......
+0000000000000,プロデューサー,"────あ、これとか、どうだ？
+ミーアキャットの赤ちゃんの画像、なんだが……","—Oh, how about this one?
+It's a video of a baby meerkat..."
+2025011030140,美琴,うん、可愛らしいと思う,"Yep.
+I think it's adorable."
+2025011030150,美琴,────でも……,—But...
+0000000000000,プロデューサー,え？,Hm?
+2025011030160,美琴,"……ううん
+なんでもない","...Nope, nevermind."
+select,,"……さっきのことは
+忘れてくれ","...Please,
+forget what you've
+seen earlier."
+select,,"……また
+恥ずかしくなってきた","...This is making me
+feel embarrassed
+again."
+select,,参考になったか？,"Was
+any of this
+useful to you?"
+2025011030170,美琴,え……,Huh...?
+0000000000000,プロデューサー,"やっぱり、その……恥ずかしくてな
+俺、大分にやにやしてたんじゃないのか？","I mean, it's just... embarrassing for me.
+Wasn't I grinning quite a lot back then?"
+2025011030180,美琴,……？,...?
+2025011030190,美琴,わからないけど、参考になったよ,"Not sure I get what you mean,
+but it did help me find a reference."
+2025011030200,美琴,すごく幸せそうだったから,"You did look very happy, after all."
+2025011030210,美琴,どうして？,Why?
+0000000000000,プロデューサー,"いや……
+さっきの俺、かなり表情緩んでたよな……と思って","It's just... I think that I had a really goofy
+expression on my face earlier..."
+0000000000000,プロデューサー,"────あー、だめだ
+どんどん恥ずかしくなってきた……！","—Aw man, the more I think about it,
+the more I feel embarrassed...!"
+2025011030220,美琴,……そういうもの？,...Is that how you feel about it?
+2025011030230,美琴,"私は、見られてよかったけど
+少しわかった気がするから","For me, it was good that I got to see that...
+because I feel like I understand it a little now."
+2025011030240,美琴,"うん
+ありがとう","Yep.
+Thanks."
+2025011030250,美琴,"レッスンが終わったら、他のも見てみるね
+URL、送ってもらってもいい？","I'll look at the others after my lesson.
+Can you send me the URLs of the rest?"
+0000000000000,プロデューサー,"もちろんだ
+あとで、チェインしとくな","Sure thing.
+I'll send them in CHAIN later."
+2025011030260,美琴,ありがとう,Thanks.
+info,produce_events/202501103.json,
+Translator,pygoscelis,

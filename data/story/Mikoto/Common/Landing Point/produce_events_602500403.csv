@@ -1,0 +1,29 @@
+id,name,text,trans
+6025004030010,美琴,……プロデューサー、見ている？,"...Are you watching me, Producer?"
+0000000000000,プロデューサー,ああ、ずっと見てるよ,"Yeah.
+I've been looking at you the entire time."
+0000000000000,プロデューサー,"楽しそうだな、美琴
+こっちまで楽しくなるよ","You looked like you were having so much fun,
+Mikoto. So much that it felt like it'd infect
+everyone over here too."
+6025004030020,美琴,そうなんだ……よかった,"I see...
+Glad to hear that."
+0000000000000,プロデューサー,"ん？　自分でわからないのか？
+楽しんでるって","Hm? Weren't you able to feel it by yourself?
+That you were having fun?"
+6025004030030,美琴,"最初は楽しんでるってわかっていたけど……
+途中からは考えてもいないの","I knew that I was enjoying the moment at first,
+but... I just stopped thinking about anything by
+the middle of it."
+6025004030040,美琴,何も考えられないくらい、楽しいんだと思う……,"I think I enjoyed it so much that I couldn't think
+about anything else anymore..."
+0000000000000,プロデューサー,"はは、そんなこと言っていたな
+実現できたわけだ","Haha, that's what you said
+before going up there, isn't it?
+You've made your own wish come true."
+6025004030050,美琴,……うん、でもまだ終わっていないから,"......Yep. 
+But it's not over yet."
+6025004030060,美琴,まだまだ……楽しんでくるね,"So I'm going to...
+keep on enjoying it much more."
+info,produce_events/602500403.json,
+Translator,pygoscelis,

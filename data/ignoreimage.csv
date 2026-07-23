@@ -415,6 +415,7 @@ images/content/characters/concert_icon_rival/025.png,1
 images/content/characters/concert_icon_rival/026.png,1
 images/content/characters/concert_icon_rival/027.png,1
 images/content/characters/concert_icon_rival/028.png,1
+images/content/characters/concert_player_icon/003.png,8
 images/content/characters/concert_player_icon/004.png,8
 images/content/characters/concert_player_icon/005.png,8
 images/content/characters/concert_player_icon/006.png,8
@@ -762,6 +763,7 @@ images/content/characters/link_skill_icon/025.png,2
 images/content/characters/link_skill_icon/026.png,1
 images/content/characters/link_skill_icon/027.png,1
 images/content/characters/link_skill_icon/028.png,1
+images/content/characters/memory_roulette_bad/003.png,8
 images/content/characters/memory_roulette_bad/004.png,8
 images/content/characters/memory_roulette_bad/005.png,8
 images/content/characters/memory_roulette_bad/006.png,8
@@ -780,6 +782,7 @@ images/content/characters/memory_roulette_bad/019.png,3
 images/content/characters/memory_roulette_bad/026.png,1
 images/content/characters/memory_roulette_bad/027.png,1
 images/content/characters/memory_roulette_bad/028.png,1
+images/content/characters/memory_roulette_good/003.png,8
 images/content/characters/memory_roulette_good/004.png,8
 images/content/characters/memory_roulette_good/005.png,8
 images/content/characters/memory_roulette_good/006.png,8
@@ -1943,6 +1946,8 @@ images/content/idols/fes_skill_panel/66f256d380a3893b02ceef28c340ce76_1040190020
 images/content/idols/fes_skill_panel/7afa786187accc1f494b5970e4757d65_1030170010.png,3
 images/content/idols/fes_skill_panel/89e243e03cb7b865eab05ae8b3747a1c_1030150050.png,3
 images/content/idols/fes_skill_panel/c9a6148850dd58be92f7a85351798612_1940200010.png,3
+images/content/idols/fes_skill_panel/7a60c62309e64be0a09eb09da7052279_1040070060.png,2
+images/content/idols/fes_skill_panel/c0a9b7bcc7de921bbb3fd236862ff71c_1040070070.png,1
 images/content/idols/gasha_silhouette_black/aa1970c28b9d338c9da486d7fdf805e7_1040160010.png,7
 images/content/idols/icon/009967f66dfbd4bc5636abe10484a553_1030120020.png,8
 images/content/idols/icon/050e110ccd4cd667c1e6d63fcec46520_1030130030.png,2
@@ -2109,6 +2114,8 @@ images/content/idols/skill_panel/7afa786187accc1f494b5970e4757d65_1030170010.png
 images/content/idols/skill_panel/89e243e03cb7b865eab05ae8b3747a1c_1030150050.png,3
 images/content/idols/skill_panel/c9a6148850dd58be92f7a85351798612_1940200010.png,3
 images/content/idols/skill_panel/88fd444b7b70aa928a476b0a94d1ed73_1050210010.png,1
+images/content/idols/skill_panel/7a60c62309e64be0a09eb09da7052279_1040070060.png,2
+images/content/idols/skill_panel/c0a9b7bcc7de921bbb3fd236862ff71c_1040070070.png,1
 images/content/joint_fes/album_banner/90028.png,1
 images/content/joint_fes/album_banner/90032.png,1
 images/content/joint_fes/cover/90028.png,1
@@ -3013,6 +3020,7 @@ images/content/produces/icon/003.png,2
 images/content/produces/icon/005.png,1
 images/content/produces/icon/006.png,1
 images/content/quick_skills/icon.json_image,2
+images/content/recovery_items/continue_button_icon/300.png,1
 images/content/recovery_items/icon/100.png,8
 images/content/recovery_items/icon/1001.png,2
 images/content/recovery_items/icon/1001.png,2
@@ -3728,6 +3736,11 @@ images/content/support_idols/skill_panel/d3c0c734275e72ec4e207be803ab7190_203001
 images/content/support_idols/skill_panel/e4dcbdf86b4216c56c4682f8fd0a1abb_2040220010.png,2
 images/content/support_idols/skill_panel/f1d94a586e49599c354c95a9e5bd91e6_2030020030.png,7
 images/content/support_idols/skill_panel/fbf534eed839087c54465fcc4e398348_2030110020.png,7
+images/content/support_idols/skill_panel/5455e9f31ace2456dacf7ac14aa9f2d4_2040270030.png,1
+images/content/support_idols/skill_panel/b13c778a016f8326f3e0a989bf2421d2_2040280050.png,1
+images/content/support_idols/skill_panel/15e9a4adf4cb7bb165e22413552646ee_2040240030.png,1
+images/content/support_idols/skill_panel/50bcc4ed6c34818d4a9b2581e8423352_2040080120.png,1
+images/content/support_idols/skill_panel/f2bbb07f82f1fbfe2016764efa504571_2040910010.png,1
 images/content/tap_counter_events/bg/50052.jpg,1
 images/content/tap_counter_events/bg/50065.jpg,1
 images/content/tap_counter_events/bonus_character/a9e5b896a9513e9df2c241f2208ef9e7_5005201.png,1
@@ -4158,6 +4171,8 @@ images/event/bg/00015.jpg,7
 images/event/bg/00018.jpg,8
 images/event/bg/00021.jpg,8
 images/event/bg/00023.jpg,7
+images/event/bg/00024.jpg,7
+images/event/bg/00025.jpg,7
 images/event/bg/00027.jpg,7
 images/event/bg/00028.jpg,7
 images/event/bg/00029.jpg,7
@@ -4224,6 +4239,7 @@ images/event/bg/00439.jpg,2
 images/event/bg/00444.jpg,2
 images/event/bg/00451.jpg,2
 images/event/bg/00454.jpg,2
+images/event/bg/00463.jpg,2
 images/event/bg/00465.jpg,2
 images/event/bg/00479.jpg,2
 images/event/bg/00484.jpg,2
@@ -4234,6 +4250,7 @@ images/event/bg/00520.jpg,2
 images/event/bg/00531.jpg,2
 images/event/bg/00544.jpg,2
 images/event/bg/00551.jpg,2
+images/event/bg/00557.jpg,2
 images/event/bg/00561.jpg,2
 images/event/bg/00575.jpg,2
 images/event/bg/00576.jpg,2

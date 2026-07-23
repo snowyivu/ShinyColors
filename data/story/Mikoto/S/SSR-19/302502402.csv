@@ -1,0 +1,107 @@
+id,name,text,trans
+0000000000000,母親,"頑張ったね
+連弾でもミスがなかったし、とっても上手だった","You did really great! There were no mistakes
+in your performance, and you played so well!"
+3025024020010,美琴,……うん,...Yep.
+0000000000000,父親,"すごく良かったよ
+練習の成果が出たんじゃないか？","That was amazing! All that practice
+really paid off, didn't it?"
+3025024020020,美琴,そうなのかな,You think so?
+0000000000000,母親,次の子は弾き語りなんだって,"The next girl will play a song cover, apparently."
+0000000000000,大学生,────…………,――......
+3025024020030,美琴,…………！,......!
+3025024020040,美琴,きいてもいい？,Can I watch her play?
+0000000000000,母親,うん、戻ろっか,"Sure, let's go back in."
+3025024020050,美琴,…………,........
+3025024020060,美琴,きれい,So pretty.
+0000000000000,母親,"なんでも食べていいからね
+何が食べたい？","What do you want to eat?
+You can ask for anything you want!"
+3025024020070,美琴,……なんでも,...Anything's fine.
+0000000000000,父親,"はは、なんでもか
+とりあえず、適当に頼むよ","Haha, ""anything"" ain't on the menu! 
+Just point at whatever catches your eye."
+0000000000000,母親,"今日はお疲れ様
+初めての発表会、どうだった？","You did a great job today!
+So, how did you find your first piano recital?"
+0000000000000,大学生,────…………,――......
+3025024020080,美琴,……歌,......Song.
+0000000000000,母親,"大学生の子ね
+きれいな歌声だった","Oh, you mean that college girl's performance?
+Her singing voice was very pretty."
+3025024020090,美琴,私も歌ってみたい,I wanna try singing too.
+3025024020100,美琴,……歌の練習、してみたい,I wanna... practice singing.
+0000000000000,母親,"それは……習い事をしたいということ？
+ピアノは辞めずに？","You mean... You want to take up singing?
+While continuing your piano lessons?"
+3025024020110,美琴,"どっちもやりたい
+だめ？","I wanna do both.
+...I can't?"
+0000000000000,母親,"ううん
+みーちゃんがやりたいなら、ちょっと探してみよっか","Oh, no, of course you can!
+If that's what you want to do, then
+we'll ask around about it, Mii-chan."
+3025024020120,美琴,……うん,......Okay.
+0000000000000,歌の先生,"まずは何か歌ってみましょう
+歌ってみたい曲はある？","Let's start by singing a song.
+Is there any song you want to sing?"
+3025024020130,美琴,"あります
+ポップス、なんですけど──","I do.
+It's a pop song, but―"
+3025024020140,美琴,────…………,――......
+0000000000000,歌の先生,"うん、上手！
+どうだった？　楽しかった？","Yup, well done! How do you feel?
+Did you have fun?"
+3025024020150,美琴,……楽しい,......It's fun.
+0000000000000,歌の先生,"それはよかった
+楽しむことが一番だからね","That's good to hear.
+Having fun is the most
+important thing, after all."
+0000000000000,歌の先生,"じゃあ、お手本
+先生もちょっとだけ歌ってみるね","Alright then, I'll sing for you too just
+a little bit to show you the ropes, okay?"
+0000000000000,歌の先生,────…………,――......
+0000000000000,歌の先生,"────…………
+どうだったかな","―......
+Well, what do you think?"
+3025024020160,美琴,……上手です,......That was great.
+0000000000000,歌の先生,"ふふ、ありがとう
+これでも東京にいた時は歌手だったんだ","Hehe, thanks!
+I may not seem like it, but I was a singer
+back when I was still in Tokyo."
+3025024020170,美琴,"やめたんですか？
+どうして……","Did you stop?
+Why...?"
+0000000000000,歌の先生,"……環境が変わって
+毎日練習するのが難しくなったから、かな","...Because things changed, and it got harder
+for me to practice every single day, I guess."
+0000000000000,歌の先生,"前にできたことができなくなったり
+日々調子を維持できなくなる自分が嫌で──","Things I used to be able to do became impossible
+for me, and I hated myself for not being able to
+stay in good condition day after day―"
+3025024020180,美琴,…………,......
+0000000000000,歌の先生,"……あ、ごめんね
+そうだ、マイクを使って歌ってみる？","...Oh, sorry about that. 
+You know, why not try singing while holding a mic?"
+3025024020190,美琴,やってみたいです,I want to try that.
+0000000000000,歌の先生,先生がピアノを弾くね,"I'll play the piano for you, then."
+0000000000000,母親,今日はお世話になりました,Thank you for taking care of my daughter today.
+0000000000000,歌の先生,"いえいえ、こちらこそ
+とってもお上手でした","No problem, I should be doing the thanking.
+She's very talented."
+3025024020200,美琴,"……あの
+明日も来ていいですか","Um...
+Can I come back tomorrow?"
+0000000000000,歌の先生,"大丈夫だけど……
+お母様も構わないですか？","Sure, you can, but...
+Your mother wouldn't mind, would she?"
+0000000000000,母親,"もちろん
+お願いします、先生","Oh, of course not.
+Please continue to take care of her, Teacher."
+0000000000000,歌の先生,"ありがとうございます
+よろしくね","Thank you very much.
+Let's see each other again tomorrow, then."
+3025024020210,美琴,……よかった,......I'm so glad.
+3025024020220,美琴,よろしくおねがいします,Please take care of me from now on.
+info,produce_events/302502402.json,
+Translator,pygoscelis,

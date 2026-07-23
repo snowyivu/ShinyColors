@@ -69,6 +69,7 @@ $noun滞在率$noun,$1 Room Rate$2,
 影響力$percentDOWN,Influence $1DOWN,
 魅了,Charm,noun
 魅了強化,Charm Fortification,noun
+熱狂,Frenzy,noun
 自身の$nounを$percent減らす,Decrease Own $1 By $2,
 メンタルダメージ$percentCUT,Mental Damage $1 CUT,
 特訓$num回目で解放,Limit Break $1 Times,
@@ -787,8 +788,8 @@ Good-bye ラブレター,Good-bye Love Letter,text
 なって,Become,text
 [私のものに]なって,Become [mine],text
 待ちぼうけ次回予告,Staying tuned for what's next,text
-背を押す,Carried on,
-[憧れが]背を押す,Carried on [by admiration],
+背を押す,Carried on,text
+[憧れが]背を押す,Carried on [by admiration],text
 輪になって,輪になって,text
 メロウビート・スローダウン,メロウビート・スローダウン,text
 翻弄by♡time,翻弄by♡time,text
@@ -1553,7 +1554,7 @@ W.I.N.G.への軌跡,W.I.N.G.への軌跡,text
 オト,sound,text
 [ミズ]オト,sound of [water],text
 カラメル,Caramel,text
-カラカラカラ,"Clatter, Clatter, Madder",text
+カラカラカラ,"Clatter, Clatter, Clatter",text
 クレナイ,crimson,text
 [カラ]クレナイ,crimson [red],text
 ギンコ・ビローバ,Ginkgo-Biloba,text
@@ -1566,7 +1567,7 @@ W.I.N.G.への軌跡,W.I.N.G.への軌跡,text
 フィニート,finite,text
 [イン]フィニート,[in]finite,text
 [願わくは]...,[I wish]...,text
-バグ・ル,Bug-ly,text
+バグ・ル,Bug-ru,text
 キン・コン,Moment-Present,text
 浮かぶ,surfacing,text
 [今]浮かぶ,surfacing of [the present],text
@@ -1788,7 +1789,7 @@ sync,sync,text
 ずっと・グッド・ラック,ずっと・グッド・ラック,text
 こころレイヤリング,こころレイヤリング,text
 ふたり色 クレオール,ふたり色 クレオール,text
-そらあいスウィング,そらあいスウィング,text
+そらあいスウィング,Swing to the Sky,text
 ,,text
 ,,text
 ,,text
@@ -1910,7 +1911,7 @@ Good-bye ラブレター,Good-bye Love Letter,text
 待ちぼうけ次回予告,Staying tuned for what's next,text
 眩いステージ,Shining Stage,text
 映す光,Reflected Light,text
-,,text
+心、知れて,心、知れて,text
 ,,text
 ,,text
 ,,text
@@ -2317,16 +2318,16 @@ TOTTを誓って,TOTTを誓って,text
 ,,text
 ,,text
 ,,text
-カラカラカラ,"Clatter, Clatter, Madder",text
+カラカラカラ,"Clatter, Clatter, Clatter",text
 ギンコ・ビローバ,Ginkgo-Biloba,text
 ピトス・エルピス,Pithos-Elpis,text
 オイサラバエル,Aged into Ruin,text
 ,,text
-バグ・ル,Bug-ly,text
+バグ・ル,Bug-Ru,text
 キン・コン,Moment-Present,text
 フリークス・アリー,Freaks'-Alley,text
 ジャンク・ション,Junk-tion,text
-,,text
+ダイヤモンド・クラリティ,Diamond-Clarity,text
 ,,text
 ,,text
 ,,text
@@ -2417,7 +2418,7 @@ TOTTを誓って,TOTTを誓って,text
 日々、想,日々、想,text
 受けトル sun Q,受けトル sun Q,text
 ,,text
-花ノ名前,花ノ名前,text
+花ノ名前,Name of the Flower,text
 ,,text
 ,,text
 ,,text

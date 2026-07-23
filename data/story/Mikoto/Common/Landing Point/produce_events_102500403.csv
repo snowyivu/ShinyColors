@@ -1,0 +1,138 @@
+id,name,text,trans
+1025004030010,美琴,……………………,.........
+1025004030020,美琴,自然体……,My natural self...
+1025004030030,美琴,"笑っているけど
+これは……私の自然体？","I'm smiling here, but...
+Is this really... my natural self?"
+1025004030040,美琴,……………────,............——
+0000000000000,プロデューサー,美琴、少し休憩したらどうだ？,"Mikoto, why don't you take a small break?"
+0000000000000,プロデューサー,"もう結構な時間テレビに集中してるだろ？
+そろそろ目を休めた方がいい","You've been staring at the TV for quite a few
+hours now, you know? It's about time you give
+your eyes some rest."
+0000000000000,プロデューサー,ほら、コーヒーもいれたしさ,"Here, I poured some coffee for you."
+1025004030050,美琴,"うん、そうだね……
+ありがとう、プロデューサー","Okay, fair enough...
+Thanks, Producer."
+1025004030060,美琴,………………,...........
+0000000000000,プロデューサー,"どうだ？　今までのライブ映像で
+何かつかめそうか？","Well? Did your previous concert footage 
+give you any clues so far?"
+1025004030070,美琴,…………どうだろう,......I'm not sure yet.
+1025004030080,美琴,"私……
+今までステージを楽しんでいたと思うんだけど","I think that I... have enjoyed all of the times
+I've stood on the stage so far."
+1025004030090,美琴,"魅せ方を中心に
+意識してきたこともあると思う","But I also think that during those times,
+I was wary about how I presented myself on stage."
+1025004030100,美琴,"実際、トレーナーからはいつも笑顔、笑顔で、って
+言われてきていたし……","The truth is, my trainer keeps telling me to
+put a smile on my face, and keep that smile on..."
+1025004030110,美琴,"だから、ライブに映っている自分が
+自然体かと言われたら、わからない","That's why if you ask if the smile I wear on
+my face during concerts is my natural smile,
+then my answer would be, ""I don't know""."
+1025004030120,美琴,"自然に出た笑顔なのか
+魅せ方を意識した笑顔なのか","Whether it's a smile that came to me naturally,
+or a smile that I calculated to show for stage
+presence..."
+1025004030130,美琴,……わからないの,...I have no clue at all.
+0000000000000,プロデューサー,そうか……,I see......
+0000000000000,プロデューサー,"美琴は自分の笑顔が、パフォーマンスとして
+笑ってるだけなのかもしれないと思ってるんだな","So, you're doubting whether your own smile is
+genuine or just another part of your performance."
+1025004030140,美琴,うん……,Yep......
+1025004030150,美琴,……これじゃあ、ダメだよね,"...This won't work at all, will it?"
+0000000000000,プロデューサー,"いや……
+ダメなんかじゃないぞ","Not yet...
+It's not all over yet."
+0000000000000,プロデューサー,"これまでの美琴の笑顔は、美琴が
+パフォーマンスについて真剣に考えてきた結果なんだからさ","Every single smile you've shown so far is one
+made as a result of your commitment to your
+performances, Mikoto."
+1025004030160,美琴,……ありがとう,...Thanks.
+1025004030170,美琴,"でも、今回のテーマはその笑顔じゃない
+……そうでしょ？","But that's not the kind of smile that the
+theme of this concert needs... Right?"
+0000000000000,プロデューサー,……まぁ……そうだな…………,".......Well...
+Yeah..."
+1025004030180,美琴,"本当に難しいんだね
+自然体……自然な笑顔って","It really is tough. Becoming more natural...
+And smiling naturally."
+0000000000000,プロデューサー,（美琴、深く考えすぎているのかもな……）,(Mikoto might be overthinking things way too much...)
+0000000000000,プロデューサー,"（真面目な美琴らしいといえばらしいけど、
+考えすぎるのもよくないし）","(While it's very much like her to tackle this very
+seriously, overthinking wouldn't do her any good.)"
+0000000000000,プロデューサー,（俺が何か助言できれば……）,(If I could just find the right words for her...)
+select,,──たとえば,—How about...
+select,,"考えすぎ
+かもしれないな","I think you might
+be overthinking
+things."
+select,,"もう少し肩の力を
+抜いてみよう","Let's take
+this a bit less
+seriously."
+0000000000000,プロデューサー,"自然体であることを
+あまり深く考えすぎないで……","...You stop thinking too deeply about
+what it means to become natural, and..."
+0000000000000,プロデューサー,"まずは美琴がもっともっと楽しむことに
+専念したらどうかな？","Why don't you prioritize finding ways
+to enjoy yourself for now, Mikoto?"
+1025004030190,美琴,……私が楽しむこと……？,"...Me, enjoying myself...?"
+0000000000000,プロデューサー,"ああ、ステージに立ってパフォーマンスすることを
+楽しむんだ","Yeah. Just like how you enjoy standing on
+top of a stage and performing for others."
+1025004030200,美琴,……そっか……,......I see...
+1025004030210,美琴,……そうかな？,...You think so?
+0000000000000,プロデューサー,"ああ
+自然体ということにとらわれすぎず……","Yeah, rather than being too confined by
+the thoughts of becoming more natural..."
+0000000000000,プロデューサー,もっと、美琴の心に向き合ってみるのはどうだろう,"How about trying to confront your own
+heart's desires more directly, Mikoto?"
+0000000000000,プロデューサー,"……美琴は今まで
+ステージの上で、楽しいって思いながら笑ってたか？","...From all the times you've stood on the stage
+so far, were you smiling while thinking that you
+were having fun?"
+1025004030220,美琴,…………どうだろう,......I'm not sure.
+0000000000000,プロデューサー,"笑顔は、楽しいって気持ちの時に
+自然と生まれてくるものだと思うんだ","I believe that a smile is something naturally
+born from the feeling of enjoyment."
+0000000000000,プロデューサー,"だから、自然体についてあまり考えすぎないで
+楽しむことに集中してみるのはどうだろう","That's why I think you should try to focus on
+finding enjoyment rather than pondering what
+being natural means."
+1025004030230,美琴,楽しむことに、集中──,Focusing on... my own enjoyment......
+1025004030240,美琴,……難しいね,...That sounds hard.
+0000000000000,プロデューサー,"うーん、そうだよな……
+考えて解決する問題でもないしなぁ……","Hmm... Well, yeah...
+It isn't a problem that you can resolve
+just by rationalizing about it, so..."
+0000000000000,プロデューサー,……そうだ,"...Oh, I know."
+0000000000000,プロデューサー,"美琴、さっきは美琴自身の
+過去のライブ映像を見てたけどさ","Mikoto, everything you've been watching
+since earlier are videos of yourself, so..."
+0000000000000,プロデューサー,"今度は、別の誰かを
+参考にしてみるのはどうかな？","This time, what if you look at
+other people as an example?"
+1025004030250,美琴,……誰か？,...Other people?
+0000000000000,プロデューサー,ああ,Yeah.
+0000000000000,プロデューサー,"路上で楽しんでパフォーマンスをしてる人たちを
+見てみる……とかな","Like, observing people enjoy themselves while
+doing street performances, or something similar."
+0000000000000,プロデューサー,"カメラや観客を気にせずパフォーマンスする人たちを
+見ることで、何かヒントを得られるかもしれないぞ？","You might get a hint just by watching people as
+they perform without any cameras or audiences
+around them, don't you think?"
+1025004030260,美琴,………………,.........
+1025004030270,美琴,……そっか,...I see.
+1025004030280,美琴,"カメラや観客を気にせず……
+歌って、踊る──","They sing and dance... Without thinking
+about cameras, or any audience, at all—"
+1025004030290,美琴,…………うん、考えてみる,"......Okay, I'll think about it."
+1025004030300,美琴,ありがとう、プロデューサー,"Thanks, Producer."
+0000000000000,プロデューサー,（……美琴……）,(......Mikoto...)
+0000000000000,プロデューサー,（……何かつかんでくれると、信じてるからな）,"(...I believe that you'll be able to
+find your own answer, eventually.)"
+info,produce_events/102500403.json,
+Translator,pygoscelis,

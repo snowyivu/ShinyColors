@@ -239,7 +239,7 @@ SNSの投稿,SNS Post
 生徒１&生徒２,Students 1 & 2
 アシスタント,Assistant
 カメラマンの声,Cameraman's Voice
-ヘアメイク,Stylist
+ヘアメイク,Hair&Make Stylist
 小さな女の子,Little Girl
 女の子の母親,Girl's Mother
 真乃のファン,Fan of Mano
@@ -1495,3 +1495,163 @@ MC芸人２,MC Comedian 2
 修学旅行生３,SchTrip Student 3
 修学旅行生４,SchTrip Student 4
 SNSの告知文,SNS Notice
+じょうろ,Watering Can
+シャベル,Shovel
+ハサミ,Scissors
+肥料,Fertilizer
+マメ丸,Mamemaru
+虫よけ,Bug Spray
+ピーちゃん,Pi-chan
+収穫カート,Harvest Cart
+カトレア,Cattleya
+ビニールハウス,Greenhouse
+環境制御システム,Environment Control System
+【強気な彼女役】真乃,[Brash GF] Mano
+【強気な彼女役】灯織,[Brash GF] Hiori
+【強気な彼女役】めぐる,[Brash GF] Meguru
+【強気な彼女役】恋鐘,[Brash GF] Kogane
+【強気な彼女役】摩美々,[Brash GF] Mamimi
+【強気な彼女役】咲耶,[Brash GF] Sakuya
+【強気な彼女役】結華,[Brash GF] Yuika
+【強気な彼女役】霧子,[Brash GF] Kiriko
+【強気な彼女役】果穂,[Brash GF] Kaho
+【強気な彼女役】智代子,[Brash GF] Chiyoko
+【強気な彼女役】樹里,[Brash GF] Juri
+【強気な彼女役】凛世,[Brash GF] Rinze
+【強気な彼女役】夏葉,[Brash GF] Natsuha
+【強気な彼女役】甘奈,[Brash GF] Amana
+【強気な彼女役】甜花,[Brash GF] Tenka
+【強気な彼女役】千雪,[Brash GF] Chiyuki
+【強気な彼女役】あさひ,[Brash GF] Asahi
+【強気な彼女役】冬優子,[Brash GF] Fuyuko
+【強気な彼女役】愛依,[Brash GF] Mei
+【強気な彼女役】透,[Brash GF] Toru
+【強気な彼女役】円香,[Brash GF] Madoka
+【強気な彼女役】小糸,[Brash GF] Koito
+【強気な彼女役】雛菜,[Brash GF] Hinana
+【強気な彼女役】にちか,[Brash GF] Nichika
+【強気な彼女役】美琴,[Brash GF] Mikoto
+【強気な彼女役】ルカ,[Brash GF] Luca
+【強気な彼女役】羽那,[Brash GF] Hana
+【強気な彼女役】はるき,[Brash GF] Haruki
+【新妻役】真乃,[Newlywed] Mano
+【新妻役】灯織,[Newlywed] Hiori
+【新妻役】めぐる,[Newlywed] Meguru
+【新妻役】恋鐘,[Newlywed] Kogane
+【新妻役】摩美々,[Newlywed] Mamimi
+【新妻役】咲耶,[Newlywed] Sakuya
+【新妻役】結華,[Newlywed] Yuika
+【新妻役】霧子,[Newlywed] Kiriko
+【新妻役】果穂,[Newlywed] Kaho
+【新妻役】智代子,[Newlywed] Chiyoko
+【新妻役】樹里,[Newlywed] Juri
+【新妻役】凛世,[Newlywed] Rinze
+【新妻役】夏葉,[Newlywed] Natsuha
+【新妻役】甘奈,[Newlywed] Amana
+【新妻役】甜花,[Newlywed] Tenka
+【新妻役】千雪,[Newlywed] Chiyuki
+【新妻役】あさひ,[Newlywed] Asahi
+【新妻役】冬優子,[Newlywed] Fuyuko
+【新妻役】愛依,[Newlywed] Mei
+【新妻役】透,[Newlywed] Toru
+【新妻役】円香,[Newlywed] Madoka
+【新妻役】小糸,[Newlywed] Koito
+【新妻役】雛菜,[Newlywed] Hinana
+【新妻役】にちか,[Newlywed] Nichika
+【新妻役】美琴,[Newlywed] Mikoto
+【新妻役】ルカ,[Newlywed] Luca
+【新妻役】羽那,[Newlywed] Hana
+【新妻役】はるき,[Newlywed] Haruki
+【お姉さん役】真乃,[Older Sister] Mano
+【お姉さん役】灯織,[Older Sister] Hiori
+【お姉さん役】めぐる,[Older Sister] Meguru
+【お姉さん役】恋鐘,[Older Sister] Kogane
+【お姉さん役】摩美々,[Older Sister] Mamimi
+【お姉さん役】咲耶,[Older Sister] Sakuya
+【お姉さん役】結華,[Older Sister] Yuika
+【お姉さん役】霧子,[Older Sister] Kiriko
+【お姉さん役】果穂,[Older Sister] Kaho
+【お姉さん役】智代子,[Older Sister] Chiyoko
+【お姉さん役】樹里,[Older Sister] Juri
+【お姉さん役】凛世,[Older Sister] Rinze
+【お姉さん役】夏葉,[Older Sister] Natsuha
+【お姉さん役】甘奈,[Older Sister] Amana
+【お姉さん役】甜花,[Older Sister] Tenka
+【お姉さん役】千雪,[Older Sister] Chiyuki
+【お姉さん役】あさひ,[Older Sister] Asahi
+【お姉さん役】冬優子,[Older Sister] Fuyuko
+【お姉さん役】愛依,[Older Sister] Mei
+【お姉さん役】透,[Older Sister] Toru
+【お姉さん役】円香,[Older Sister] Madoka
+【お姉さん役】小糸,[Older Sister] Koito
+【お姉さん役】雛菜,[Older Sister] Hinana
+【お姉さん役】にちか,[Older Sister] Nichika
+【お姉さん役】美琴,[Older Sister] Mikoto
+【お姉さん役】ルカ,[Older Sister] Luca
+【お姉さん役】羽那,[Older Sister] Hana
+【お姉さん役】はるき,[Older Sister] Haruki
+【婚約者役】真乃,[Fiancée] Mano
+【婚約者役】灯織,[Fiancée] Hiori
+【婚約者役】めぐる,[Fiancée] Meguru
+【婚約者役】恋鐘,[Fiancée] Kogane
+【婚約者役】摩美々,[Fiancée] Mamimi
+【婚約者役】咲耶,[Fiancée] Sakuya
+【婚約者役】結華,[Fiancée] Yuika
+【婚約者役】霧子,[Fiancée] Kiriko
+【婚約者役】果穂,[Fiancée] Kaho
+【婚約者役】智代子,[Fiancée] Chiyoko
+【婚約者役】樹里,[Fiancée] Juri
+【婚約者役】凛世,[Fiancée] Rinze
+【婚約者役】夏葉,[Fiancée] Natsuha
+【婚約者役】甘奈,[Fiancée] Amana
+【婚約者役】甜花,[Fiancée] Tenka
+【婚約者役】千雪,[Fiancée] Chiyuki
+【婚約者役】あさひ,[Fiancée] Asahi
+【婚約者役】冬優子,[Fiancée] Fuyuko
+【婚約者役】愛依,[Fiancée] Mei
+【婚約者役】透,[Fiancée] Toru
+【婚約者役】円香,[Fiancée] Madoka
+【婚約者役】小糸,[Fiancée] Koito
+【婚約者役】雛菜,[Fiancée] Hinana
+【婚約者役】にちか,[Fiancée] Nichika
+【婚約者役】美琴,[Fiancée] Mikoto
+【婚約者役】ルカ,[Fiancée] Luca
+【婚約者役】羽那,[Fiancée] Hana
+【婚約者役】はるき,[Fiancée] Haruki
+大学生,College Student
+父親,Father
+歌の先生,Vocal Teacher
+ピアノの先生,Piano Teacher
+サロンスタッフ,Salon Staff
+クライアント１,Client 1
+クライアント２,Client 2
+音響スタッフ,Audio Staff
+クライアント,Client
+【ヤキモチ女子役】真乃,[Jealous Girl] Mano
+【ヤキモチ女子役】灯織,[Jealous Girl] Hiori
+【ヤキモチ女子役】めぐる,[Jealous Girl] Meguru
+【ヤキモチ女子役】恋鐘,[Jealous Girl] Kogane
+【ヤキモチ女子役】摩美々,[Jealous Girl] Mamimi
+【ヤキモチ女子役】咲耶,[Jealous Girl] Sakuya
+【ヤキモチ女子役】結華,[Jealous Girl] Yuika
+【ヤキモチ女子役】霧子,[Jealous Girl] Kiriko
+【ヤキモチ女子役】果穂,[Jealous Girl] Kaho
+【ヤキモチ女子役】智代子,[Jealous Girl] Chiyoko
+【ヤキモチ女子役】樹里,[Jealous Girl] Juri
+【ヤキモチ女子役】凛世,[Jealous Girl] Rinze
+【ヤキモチ女子役】夏葉,[Jealous Girl] Natsuha
+【ヤキモチ女子役】甘奈,[Jealous Girl] Amana
+【ヤキモチ女子役】甜花,[Jealous Girl] Tenka
+【ヤキモチ女子役】千雪,[Jealous Girl] Chiyuki
+【ヤキモチ女子役】あさひ,[Jealous Girl] Asahi
+【ヤキモチ女子役】冬優子,[Jealous Girl] Fuyuko
+【ヤキモチ女子役】愛依,[Jealous Girl] Mei
+【ヤキモチ女子役】透,[Jealous Girl] Toru
+【ヤキモチ女子役】円香,[Jealous Girl] Madoka
+【ヤキモチ女子役】小糸,[Jealous Girl] Koito
+【ヤキモチ女子役】雛菜,[Jealous Girl] Hinana
+【ヤキモチ女子役】にちか,[Jealous Girl] Nichika
+【ヤキモチ女子役】美琴,[Jealous Girl] Mikoto
+【ヤキモチ女子役】ルカ,[Jealous Girl] Luca
+【ヤキモチ女子役】羽那,[Jealous Girl] Hana
+【ヤキモチ女子役】はるき,[Jealous Girl] Haruki

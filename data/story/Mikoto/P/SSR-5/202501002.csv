@@ -1,0 +1,78 @@
+id,name,text,trans
+0000000000000,プロデューサー,"じゃあ美琴、ソロ曲の収録までのスケジュールは
+こんな感じでいいかな？","Okay, this is what your schedule for
+the recording of your solo looks like.
+Will this work for you, Mikoto?"
+2025010020010,美琴,うん…………,Yep......
+0000000000000,プロデューサー,"……元気ないな、大丈夫か？
+体壊してたりしてないか？","...You seem pretty down. What's up?
+Do you feel sick?"
+2025010020020,美琴,え,What?
+2025010020030,美琴,"平気
+ごめんね","No, I'm fine.
+Sorry."
+2025010020040,美琴,"少し、明後日のショーのことを
+考えていたの","I was just thinking a bit about the fashion show
+I'll be walking in the day after tomorrow."
+2025010020050,美琴,"結局私は、あの子にちゃんとしたお返しが
+できなかったなって……","I realized that in the end, I couldn't do
+anything in return for that girl......"
+0000000000000,プロデューサー,"大丈夫だよ、美琴の気持ちはきっと伝わってる
+前に言ったように、さ","It's gonna be fine. I'm sure that your thoughts
+will reach her somehow. Just like I told you before."
+2025010020060,美琴,うん……,I guess...
+2025010020070,美琴,"……そうだね。気にしすぎて失敗したら
+何にもならない","...You're right. Nothing good will happen if
+I keep overthinking and mess this up."
+0000000000000,プロデューサー,ああ、その意気だ。俺も関係者席で見てるからな！,"Yeah, that's the right mindset to have.
+Just know that I'll be watching you from
+the audience!"
+0000000000000,プロデューサー,……開始時間は過ぎてるけど──,...It's already way beyond the scheduled start time―
+0000000000000,プロデューサー,──すみません、何かトラブルでもありましたか？,"―Sorry to bother, but did some trouble occur?"
+0000000000000,スタッフ１,え、ええ、それが,"Wha―
+Uh, yes, well..."
+0000000000000,スタッフ２,"すみません、やっぱり衣装が別の車に紛れて
+しまっていたみたいで……！","I'm sorry, but it seems like the outfit
+ended up in a different car after all...!"
+0000000000000,スタッフ２,ここに到着するまで２時間はかかりそうだと,"They said it'll take at least two hours
+before they get here...!"
+0000000000000,デザイナー,"それじゃあ間に合わないわね……
+どうしましょう……","It'll be already too late by then...
+What do we do now...?"
+0000000000000,アイドル,"……あの、私の出番なくても時間が繋がるなら
+もう、そのままで……","...Um, if the show can still go on
+without my part, then please just
+continue as is..."
+0000000000000,アイドル,私はいいですから……,"I'm fine with it, so......"
+2025010020080,美琴,──衣装が届かないんですよね,"―The outfit won't be able
+to come on time, correct?"
+0000000000000,デザイナー,"ええ……一着別の会場に向かう車に紛れてしまった
+みたいで……","Yes... Apparently it was put in a different car
+that's heading for another venue..."
+2025010020090,美琴,………………,.........
+0000000000000,デザイナー,"あなたはそれでいいんですね？
+緋田さん","Will that really be alright with you,
+Aketa-san?"
+2025010020100,美琴,構いません,"Yes, I don't mind."
+0000000000000,アイドル,でも、緋田さん……！,"But, Aketa-san―!"
+2025010020110,美琴,"大丈夫
+……一緒に、ランウェイを歩こう","I'll be fine.
+...Let's walk on that runway, together."
+0000000000000,プロデューサー,"始まってからは滞りなくきてるけど……
+衣装の件は大丈夫だったんだろうか……","All's been going smoothly since the show started,
+but... I wonder if they got the outfit situation
+sorted out..."
+0000000000000,プロデューサー,っと、次が美琴の出番だな,"Oh, Mikoto's up next."
+0000000000000,プロデューサー,え…………み、美琴…………！,"What the...
+M-Mikoto......?!"
+0000000000000,観客１,"え、美琴ちゃんが着てるやつって……
+昨日のメンズ部門で出てた衣装じゃない？","Wait, isn't the outfit that Mikoto-chan is wearing...
+An article featured in yesterday's men's catalogue?"
+0000000000000,観客２,マジ？,Really?
+0000000000000,観客２,でもめっちゃ似合ってて素敵じゃん！,"It looks really perfect and
+fantastic on her, though!"
+0000000000000,観客１,うんうん、超カッコイイ！,"Yeah, totally!"
+0000000000000,プロデューサー,…………い、いったい何があったんだ……？,"...Wha―
+What on earth happened in the backstage...?"
+info,produce_events/202501002.json,
+Translator,pygoscelis,

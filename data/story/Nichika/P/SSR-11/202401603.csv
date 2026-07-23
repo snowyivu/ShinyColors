@@ -1,0 +1,112 @@
+id,name,text,trans
+2024016030010,にちか,"………………
+えー、どっちだろ……","......Uhh...
+Which one is it...?"
+0000000000000,司会者,"七草さん、大分、迷っているようですねぇ……
+確かに、私も迷う！　……というよりわからないっ！","Looks like Nanakusa-san's getting confused...!
+I feel her, though! I'd be lost too!
+Heck, I don't even know which one's which!"
+0000000000000,アシスタント,"どちらかが造花、ということですが……──
+かなり精巧に作られているんですねー","One of them is a a fake flower, but...
+It's crafted quite intricately, so yeah―"
+0000000000000,アシスタント,本当に生花と見分けがつきませんっ……,I really can't tell which is the real one either...
+0000000000000,司会者,"そうですよね～……あ、そろそろお時間みたいですー！
+──当てればフルーツ盛り合わせ！　さ、どうかな～？","Riiight～?! Oh, seems like time's almost up! If she
+guesses right then she'll get a whole basket of
+fruits! Now, which one will she pick～?"
+2024016030020,にちか,…………決めました,......I got it!
+0000000000000,司会者,"OK！　では、答えていただきましょうー！
+ツクリモノはどっち？　どっちかなーーー！？","Okay! Let's go right into it and reveal the answer
+now! Which one's the fake?! Let's find out―!!"
+2024016030030,にちか,ツクリモノは……こっちの──,"The fake flower is...
+This one―!"
+0000000000000,司会者,"──あ、七草さん、お疲れー
+残念だったねー、フルーツ盛り合わせ逃しちゃって！","―Oh, good job today, Nanakusa-san.
+Unfortunate that you couldn't take
+home the fruit basket, though!"
+2024016030040,にちか,本当ですよー……！,"Yeah, tell me about it...!"
+2024016030050,にちか,"絶対リベンジしますので！
+めっちゃ高級なやつ用意しといてくださいねー","I'll definitely get it next time, so please
+prepare some giga expensive fruits for me―!"
+0000000000000,司会者,"あはは！
+じゃあ、こっちはもっと難しい問題用意しとくねー","Ahaha! We gotta come up with
+harder questions, then!"
+2024016030060,にちか,うーわ、大人げないなー,"Yiiikes, that's so unfaaair―!"
+0000000000000,司会者,"いやいや、こっちも甘やかすわけにはいかないのでね！
+──じゃ、またよろしくね～","Nah, it ain't! I mean, we can't just go easy
+on you here! ...Well then, I gotta go!
+See you next time～!"
+2024016030070,にちか,はーい、お疲れさまでしたー！,"Okaaay!
+Thanks for your hard work today―!"
+2024016030080,にちか,"……あれ
+プロデューサーさん、いない……","...Huh?
+Producer-san's not here..."
+2024016030090,にちか,挨拶とか、行ったのかな……,Maybe he went around to greet people...?
+2024016030100,にちか,──ま、いっか,"―Well, whatever."
+2024016030110,にちか,"遅……
+もう、帰っちゃおうかな……","He's taking forever......
+Maybe I should just go home by myself..."
+2024016030120,にちか,──あ、はい,"―Ah, yes."
+0000000000000,プロデューサー,すまん、待たせたな……！,Sorry I kept you waiting...!
+2024016030130,にちか,"別に、そんな待ってないですけど……
+──どこ行ってたんです？","Well, I didn't really wait that long...
+―Where the heck did you go, though?"
+0000000000000,プロデューサー,ちょっと花屋さんにな、行ってたんだ,I just... went to a flower shop.
+2024016030140,にちか,え……,Huh...?
+0000000000000,プロデューサー,"あ、もちろん……
+収録ちゃんと見届けて挨拶周り済ませてからだぞ？","Oh, but of course, I made sure that I went there
+after I finished going around to greet everybody,
+okay?"
+0000000000000,プロデューサー,"……この前一緒に見た花のこと、急に思い出してさ
+近くに花屋さんがあったから、もしかして、と思って──","...I just suddenly remembered the flower we saw the
+other day. There's a flower shop near here, so I
+thought there might be a chance I'd see it there―"
+2024016030150,にちか,……でも、なかった感じです？,...But you ended up not seeing any?
+0000000000000,プロデューサー,うん、なかった……,"Yeah...
+They don't have them..."
+2024016030160,にちか,まぁ、野生の花ですしねー,"Well, it's a wildflower, after all―"
+0000000000000,プロデューサー,"──……
+待たせてすまん……帰るか","―...Sorry that you had to wait
+for me because of that...
+Let's leave now."
+2024016030170,にちか,……はい,...Okay.
+0000000000000,プロデューサー,あ、その前にひとつ,"Oh, one more thing before we go."
+2024016030180,にちか,……なんです？,...What is it?
+0000000000000,プロデューサー,──さっき、わざと間違えただろ？,"―You picked the wrong answer
+on purpose earlier, didn't you?"
+2024016030190,にちか,"…………
+さあ？　どうですかねー","......Did I?
+Who knows...?"
+2024016030200,off,"美しさは同じでも
+……やっぱり違う","Even if it has the same beauty...
+It's still different at the end of the day."
+2024016030210,off,"造られたものと、限りあるものの美しさは
+──圧倒的に違う","The difference between the beauty of a synthetic
+and a fleeting object... is just way too overwhelming."
+2024016030220,off,"私は……どっちでもない
+どっちにもなれない","And I... am neither of those.
+I can't... become either of them."
+2024016030230,off,"でも、いつか忘れられる──
+野草にも──なりたくない……","Still, I don't want to become a thing
+that will eventually be forgotten―
+Not even―a wildflower."
+2024016030240,off,けど──,But still―
+0000000000000,にちかの父,……なぁ、にちか,"......Hey, Nichika."
+2024016030250,にちか,なにー？,Whuuut?
+0000000000000,にちかの父,"一度も見たことがない花を探してみないか？
+……もし、ひとつでも見つけられたら──","Why don't you try looking for a flower
+that you've never seen before?
+If you find even just one...―"
+2024016030260,にちか,……あ,......oh.
+2024016030270,off,思い出した……,i remembered it......
+0000000000000,プロデューサー,"……？
+──にちか？","...?
+―Nichika?"
+0000000000000,プロデューサー,…………,......
+2024016030280,にちか,……思い出した、だけです,"I... just...
+remembered it."
+0000000000000,プロデューサー,え、あ……もしかして──,"Huh? Oh...
+Do you mean the―"
+2024016030290,にちか,…………,......
+info,produce_events/202401603.json,
+Translator,pygoscelis,

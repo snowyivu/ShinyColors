@@ -1,0 +1,129 @@
+id,name,text,trans
+0000000000000,ディレクター,──あ、七草ちゃん、２８３さん！,"―Ah, hey!
+Nanakusa-chan! 283-san!"
+0000000000000,プロデューサー,あ、お疲れ様です……！,"Oh, great work today...!"
+2024016010010,にちか,"お疲れ様ですー
+もしかして、なんかダメ出しされちゃう感じですー？","Great job today!
+Please don't tell me you walked all 
+the way here just to criticize me!"
+0000000000000,ディレクター,"いやいや、違うって……！　来季から新しい番組
+始まるから出てほしいなーって思っててさ","Nah, not at all! Just came here to tell you
+that I have a show that'll begin next season,
+and I was hoping to have you in it."
+0000000000000,プロデューサー,"え、本当ですか？
+ありがとうございます……！","Wait, really?!
+Thank you very much for the offer...!"
+2024016010020,にちか,それ、レギュラーです？,You mean as... a regular guest?
+0000000000000,ディレクター,"うーん……ぶっちゃけ言うと──
+それはちょーっと難しいかも……っていう塩梅かな","Hmm... Frankly speaking, that miiight be a
+bit of a tough call... is how I'd describe the
+current situation."
+2024016010030,にちか,"うわー、
+それ可能性ほぼゼロのやつー","Yikes...!
+So basically my chances are zero percent, huh...!"
+2024016010040,にちか,"でも、お仕事いただけるなら──
+謹んで、やらせていただきますねー","Still, if you're offering it to me, a job is a job, so—
+I'll humbly accept it and do my best!"
+0000000000000,プロデューサー,"……にちか、慌ただしいところすまないんだが──
+この前受けたオーディションの結果が出てる","...Nichika, sorry to mention this while we're
+out in a rush, but... The results for your recent
+auditions are out."
+2024016010050,にちか,あー……えっと──,"Ohh...
+Uhhh—?"
+0000000000000,プロデューサー,"バラエティー番組と、アパレルのCM……
+あと、新しくできた道の駅のキャンペーンガール、だな","It's the ones for a variety show, an apparel
+commercial... and a campaign girl for a new
+roadside station."
+2024016010060,にちか,"あー……
+そうでしたね","Ahh...
+Right, I did those."
+2024016010070,にちか,じゃあ結果、お願いします,"Please go ahead and announce the results, then."
+0000000000000,プロデューサー,"おう……
+じゃあ、まずは──","Yeah.... 
+Well, first—"
+0000000000000,プロデューサー,"道の駅のキャンペーンガール、
+合格だ","You passed the campaign girl audition
+for the new roadside station."
+2024016010080,にちか,……！,......!
+0000000000000,プロデューサー,"…………
+もうふたつは、残念だけど──","....As for the other two, unfortunately......"
+2024016010090,にちか,……,......!
+2024016010100,にちか,言う順番、逆の方がよかったと思います,I think you should've announced it in reverse...
+0000000000000,プロデューサー,"あっ、そうだな……
+すまん","Ah, right...
+Sorry about that."
+2024016010110,にちか,"──じゃ、出してもらっていいです？
+レッスン室、もう空いてるんですよねー","—Okay, can you please let me out of the car now?
+The lesson room's already open, right?"
+0000000000000,プロデューサー,ああ、じゃあ出発するな,"—Alright, I'll be dropping you off there, then."
+2024016010120,にちか,はーい、お願いしまーす,"Okaaay.
+Please and thaaanks."
+2024016010130,off,……同じ,...It's the same.
+2024016010140,off,思ってたのと同じ,It went exactly the same as I imagined it.
+2024016010150,off,"なんで、
+わかってたのと同じことしか起こらないんだろ","Why does everything that happens always
+turn out to be the same as what I already
+expected?"
+2024016010160,off,……時間は『同じ』じゃないのに──,"...Even though time itself isn't ""the same""—"
+0000000000000,プロデューサー,"…………
+道の駅の撮影、来週なんだけどさ……","......The photo shoot for the roadside station
+happens next week, but..."
+0000000000000,プロデューサー,"自然が多いところみたいだし、
+少し羽を伸ばしてみるのもいいんじゃないか？","Seems like it's surrounded by nature, so...
+Why not take a break for a while and relax there?"
+0000000000000,プロデューサー,もちろん、時間があれば、だけど──,"Naturally, only if you can spare
+some time to do so, but―"
+2024016010170,にちか,──なんでです？,―Why should I?
+0000000000000,プロデューサー,え……,Huh...?
+2024016010180,にちか,必要ないです、そんなの,"There's no need...
+to do something like that."
+0000000000000,プロデューサー,…………,......
+select,,"いらないか？
+休憩","Don't you
+need a
+break?"
+select,,そうか……,I see...
+select,,"でも、
+せっかく……",But since...
+2024016010190,にちか,"いらないです
+ていうか、そんなに疲れて見えるんですかねー","I don't need it. Wait, do I really
+look that tired to you...?"
+0000000000000,プロデューサー,"見えないよ、
+だって、見せてないだろ","No, you don't. 
+I mean, you try to not 
+how it at all, don't you?"
+2024016010200,にちか,……,......
+2024016010210,にちか,"だったらなおさら……
+汲んでほしいです","Then all the more reason...
+Please understand where I'm coming from."
+0000000000000,プロデューサー,"汲みたいって思ってるんだが……
+また──……間違えたな","I am trying to, but...
+I guess I... made another mistake."
+2024016010220,にちか,……ですね,......Seems like it.
+2024016010230,にちか,そうです,I said what I said.
+0000000000000,プロデューサー,"じゃあ……
+にちかの気が変わることを心の中で祈っておくよ","I'll just... hope that you'll change
+your mind then, Nichika."
+2024016010240,にちか,"いや、言っちゃってますから
+普通に","Well, you're already putting me on the spot
+by saying it out loud right now."
+0000000000000,プロデューサー,はは……そうだな,"Haha...
+Guess you're right."
+2024016010250,にちか,別になんにも面白くないですー,There's nothing funny about this at aaaall.
+0000000000000,プロデューサー,行くんだしさ,"...You're gonna
+go there and all..."
+2024016010260,にちか,"はいはい、わかりました
+考えておきますねー","Okay, fine, I got it.
+I'll think about it."
+0000000000000,プロデューサー,"おう、俺も考えとく──いや、選んでおくよ
+にちかが喜びそうな……","Sure, I'll be giving it some more thought too―
+Or not. I'll choose something that will make
+you happy, Nichika..."
+2024016010270,にちか,……？,......?
+0000000000000,プロデューサー,美味しくて、お手頃なものを探しておく,"Let's go find something that's
+tasty and won't break the bank."
+2024016010280,にちか,…………,......
+2024016010290,にちか,見つけてなかったらパンチしますので,"I'll punch you if you don't, so you better."
+0000000000000,プロデューサー,ああ、了解だ,"Alright, roger that!"
+info,produce_events/202401601.json,
+Translator,pygoscelis,

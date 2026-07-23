@@ -1,0 +1,75 @@
+id,name,text,trans
+0000000000000,撮影スタッフ,──それでは、緋田さん入られまーす！,"—Alright, Aketa-san's coming
+into the scene now!"
+2025011040010,美琴,"緋田美琴です
+よろしくお願いします","Mikoto Aketa here.
+Pleased to work with you all today."
+0000000000000,撮影監督,はい、よろしくお願いします……！,"Yes, likewise here...!"
+0000000000000,撮影監督,"いや～、思った通り
+ドレス、すごくお似合いですね","Maaan, it's just like I imagined!
+That dress looks really lovely on you!"
+2025011040020,美琴,ありがとうございます,Thank you very much.
+0000000000000,撮影監督,"それでは早速、説明させていただきますね
+まずはあちらのドアからゆっくり入ってきていただいて……","Well then, let's get right into the details.
+First, you'll walk slowly from that door, and..."
+2025011040030,美琴,はい,Understood.
+0000000000000,撮影監督,"で、その後
+ゆったり、一歩ずつ進んでいく感じで────","And then, after that you'll walk one step at a time,
+at a relaxed pace—"
+0000000000000,プロデューサー,"（美琴のなかで、
+表情のイメージは落とし込めたのだろうか）","(I wonder if Mikoto managed to figure out
+what kind of expression she should make today.)"
+0000000000000,プロデューサー,"（……ここで心配していてもしょうがないな
+それに、きっと美琴なら────）","(...Though, there's no use getting all worried about
+that now. Besides, this is Mikoto, so surely she—)"
+0000000000000,撮影監督,………………,......
+0000000000000,撮影スタッフ,"……あの、監督
+カットかけないで大丈夫ですか？","...Um, Director?
+Is it ok to let this scene roll, no cuts?"
+0000000000000,撮影監督,"あ……
+失礼しました……！","Oh...
+Sorry about that...!"
+0000000000000,撮影監督,────カット！,——Cut!
+0000000000000,撮影監督,"いやー、緋田さん……
+素晴らしかったです！","Maaan, I just have to say...
+That was incredible, Aketa-san!"
+2025011040040,美琴,本当ですか？,Was it?
+0000000000000,撮影監督,"はい……想像を超える画が撮れました！
+クライアントさんにもきっとご納得いただけると思います","Yes it was...! That scene we filmed went way
+beyond my expectations! I think that our client
+will be pleased by it, too."
+2025011040050,美琴,そうですか,I see.
+2025011040060,美琴,ご期待に添えられたのなら、よかったです,I'm glad I met your expectations
+0000000000000,撮影監督,では、この調子で別カットも撮っていきましょう……！,"Well then, let's go and shoot the other cut
+with the same energy as earlier...!"
+2025011040070,美琴,はい,Got it.
+0000000000000,撮影スタッフ,"──それでは、本日の撮影は以上になります！
+ありがとうございましたー！","—Alright, that's a wrap for today's photoshoot!
+Thank you very much—!"
+2025011040080,美琴,"お疲れ様でした
+ありがとうございました","Great job, everyone.
+Thank you for all your efforts today."
+0000000000000,プロデューサー,美琴、お疲れ！,"Mikoto, great job today!"
+2025011040090,美琴,プロデューサー,Producer.
+2025011040100,美琴,"うん
+お疲れ様","Yep.
+Great job to you too."
+2025011040110,美琴,私、ちゃんと出来ていたかな,I wonder if I did it properly.
+2025011040120,美琴,……幸せそうだった？,...Did I look happy?
+0000000000000,プロデューサー,もちろんだ,Absolutely.
+0000000000000,プロデューサー,"こっちまで幸せな気持ちになるような、
+すごく素敵な笑顔だった","It was such a lovely smile that it
+made even me feel happy too."
+2025011040130,美琴,そっか……,I see...
+2025011040140,美琴,…………,......
+0000000000000,プロデューサー,ん？　どうした、美琴,"Hm?
+What's wrong, Mikoto?"
+2025011040150,美琴,"プロデューサー
+すごく幸せそうだなって、思って","Just thought that you look very happy right now,
+Producer."
+0000000000000,プロデューサー,"ああ
+すごく幸せだ","Well yeah, I am very happy right now."
+0000000000000,プロデューサー,俺のことを幸せにしてくれて、ありがとうな,Thank you for making me feel so happy.
+2025011040160,美琴,……どういたしまして,...You're welcome.
+info,produce_events/202501104.json,
+Translator,pygoscelis,

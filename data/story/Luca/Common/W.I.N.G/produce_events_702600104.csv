@@ -1,0 +1,37 @@
+id,name,text,trans
+7901001040010,はづき,"残念ですね……。一次審査を突破できたんですし、
+この調子で、と思ったんですけど","This is unfortunate... I thought that since she was
+able to pass the first round of judging, she'd be able
+to keep it up."
+7901001040020,はづき,現実は、なかなか厳しいですね……,"Reality is very relentless, isn't it..."
+7026001040030,社長,………………,......
+0000000000000,プロデューサー,"……まだまだ先にも行けたと思うんです
+俺にもっと力があれば……","I thought we could get even farther.
+If I only had more strength..."
+7026001040040,社長,"力が足りないのなら、
+これから成長していけばいいだけのことだ","If you didn't have enough strength, all that means is
+you should keep on growing alongside her."
+0000000000000,プロデューサー,"……そうですね
+彼女に、会いに行ってきます","...You're right.
+I'll go meet with her now."
+7902001040040,社長,ああ、行ってこい,"Alright, go see her."
+0000000000000,プロデューサー,──二次審査、通過できなかった,We didn't pass the second season.
+7026001040060,ルカ,…………,......
+7026001040070,ルカ,"ここで……
+終わりか……","So this is...
+where it ends?"
+0000000000000,プロデューサー,"ああ……
+悔しいけどルカの『W.I.N.G.』は……","Yeah...
+It's frustrating that this is where your WING ends..."
+7026001040080,ルカ,何やってんだ……,The heck you doing...
+0000000000000,プロデューサー,"でも、これで全てが終わるわけじゃない
+アイドルとしてはまだまだこれからだ","But this isn't the end of everything.
+You still have a long way to go as an idol."
+0000000000000,プロデューサー,また出直そう……一緒に,Let's try this again... together.
+7026001040090,ルカ,一緒に…………？,Together......?
+7026001040100,ルカ,"…………
+……もういい","......
+...Forget about it."
+7026001040110,ルカ,もう、いい……,That's... enough...
+info,produce_events/702600104.json,
+Translator,Burbur,

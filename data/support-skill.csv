@@ -119,6 +119,7 @@ Vi上限,Vi Limit,noun
 影響力\nDOWN,Influence\nDOWN,text
 影響力\nUP,Influence\nUP,text
 魅了,Charm,text
+熱狂,Frenzy,text
 パッシブスキル\n発動率UP,Passive Skill\nRate UP,text
 ライブスキル\n交換数UP,Live Skill\nExchange UP,text
 ライブスキル\n生成,Live Skill\nGeneration,text
@@ -130,10 +131,10 @@ Vi上限,Vi Limit,noun
 PERFECT\nなら効果UP,On PERFECT\nEffect,text
 必ず最初に\nアピール,Always First\nAppeal,text
 必ず最後に\nアピール,Always Last\nAppeal,text
-Vocal強化,Vocal Fortification,text
-Dance強化,Dance Fortification,text
-Visual強化,Visual Fortification,text
-魅了強化,Charm Fortification,text
+Vocal強化,Vocal\nFortification,text
+Dance強化,Dance\nFortification,text
+Visual強化,Visual\nFortification,text
+魅了強化,Charm\nFortification,text
 デュエット,Duet,text
 フレキシブル,Flexible,text
 気力UP,Energy UP,text
